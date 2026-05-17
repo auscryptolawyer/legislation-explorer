@@ -15,6 +15,7 @@ export const api = {
   acts: () => fetchJson('/acts'),
   tree: (act: string) => fetchJson(`/tree/${act}`),
   section: (act: string, section: string) => fetchJson(`/section/${act}/${section}`),
+  definitions: (act: string) => fetchJson(`/definitions/${act}`),
   definition: (act: string, term: string) => fetchJson(`/definition/${act}/${term}`),
   search: (q: string, act?: string) => fetchJson(`/search?q=${encodeURIComponent(q)}${act ? `&act=${act}` : ''}`),
 }

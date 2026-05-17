@@ -138,6 +138,12 @@ def build_tree(sections_dir: Path, act: str, compilation_no: int, compilation_da
     if flat:
         flat_parts = []
         for part in tree["parts"]:
+            # Signpost node for the Part group
+            flat_parts.append({
+                "id": part["id"],
+                "title": part.get("title", ""),
+                "is_signpost": True,
+            })
             for div in part["divisions"]:
                 flat_parts.append({
                     "id": div["id"],
@@ -145,7 +151,6 @@ def build_tree(sections_dir: Path, act: str, compilation_no: int, compilation_da
                     "subdivisions": div.get("subdivisions", []),
                     "sections": div.get("sections", []),
                 })
-        flat_parts.sort(key=lambda d: _natural_key(d["id"]))
         tree["parts"] = flat_parts
 
     return tree

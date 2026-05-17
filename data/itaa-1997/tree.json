@@ -4,6 +4,11 @@
   "compilation_date": "2026-04-01",
   "parts": [
     {
+      "id": "1-1",
+      "title": "Preliminary",
+      "is_signpost": true
+    },
+    {
       "id": "1",
       "title": "Preliminary",
       "subdivisions": [],
@@ -34,6 +39,11 @@
           "path": "part-1-1/division-1/1-7.md"
         }
       ]
+    },
+    {
+      "id": "1-2",
+      "title": "A Guide to this Act",
+      "is_signpost": true
     },
     {
       "id": "2",
@@ -143,6 +153,11 @@
           "path": "part-1-2/division-3/3-15.md"
         }
       ]
+    },
+    {
+      "id": "1-3",
+      "title": "Core provisions",
+      "is_signpost": true
     },
     {
       "id": "4",
@@ -275,6 +290,11 @@
       ]
     },
     {
+      "id": "1-4",
+      "title": "Checklists of what is covered by concepts",
+      "is_signpost": true
+    },
+    {
       "id": "9",
       "title": "Entities that must pay income tax",
       "subdivisions": [],
@@ -395,6 +415,11 @@
           "path": "part-1-4/division-13/13-1A.md"
         }
       ]
+    },
+    {
+      "id": "2-1",
+      "title": "Assessable income",
+      "is_signpost": true
     },
     {
       "id": "15",
@@ -709,6 +734,11 @@
           "path": "part-2-1/division-20/20-5.md"
         }
       ]
+    },
+    {
+      "id": "2-5",
+      "title": "Rules about deductibility of particular",
+      "is_signpost": true
     },
     {
       "id": "25",
@@ -2137,6 +2167,11 @@
       ]
     },
     {
+      "id": "2-10",
+      "title": "Capital allowances: rules about",
+      "is_signpost": true
+    },
+    {
       "id": "40",
       "title": "Capital allowances",
       "subdivisions": [
@@ -3487,6 +3522,11 @@
       ]
     },
     {
+      "id": "2-15",
+      "title": "Non-assessable income",
+      "is_signpost": true
+    },
+    {
       "id": "50",
       "title": "Exempt entities",
       "subdivisions": [
@@ -4331,6 +4371,11 @@
       ]
     },
     {
+      "id": "2-20",
+      "title": "Tax offsets",
+      "is_signpost": true
+    },
+    {
       "id": "61",
       "title": "Generally applicable tax offsets",
       "subdivisions": [
@@ -4615,6 +4660,11 @@
       ]
     },
     {
+      "id": "2-25",
+      "title": "Trading stock",
+      "is_signpost": true
+    },
+    {
       "id": "70",
       "title": "Trading stock",
       "subdivisions": [
@@ -4776,6 +4826,11 @@
           "path": "part-2-25/division-70/70-5.md"
         }
       ]
+    },
+    {
+      "id": "2-40",
+      "title": "Rules affecting employees and other",
+      "is_signpost": true
     },
     {
       "id": "80",
@@ -5216,6 +5271,11 @@
       ]
     },
     {
+      "id": "2-42",
+      "title": "Personal services income",
+      "is_signpost": true
+    },
+    {
       "id": "84",
       "title": "Introduction",
       "subdivisions": [],
@@ -5498,6 +5558,11 @@
           "path": "part-2-42/division-87/87-5.md"
         }
       ]
+    },
+    {
+      "id": "3-1",
+      "title": "Capital gains and losses: general topics",
+      "is_signpost": true
     },
     {
       "id": "100",
@@ -7198,7 +7263,7 @@
             },
             {
               "id": "118-105",
-              "title": "Map of this Subdivision Event that may attract exemption                                                A CGT event",
+              "title": "Map of this Subdivision Event that may attract exemption A CGT event",
               "path": "part-3-1/division-118/118-105.md"
             },
             {
@@ -7649,6 +7714,11 @@
           "path": "part-3-1/division-121/121-35.md"
         }
       ]
+    },
+    {
+      "id": "3-3",
+      "title": "Capital gains and losses: special topics",
+      "is_signpost": true
     },
     {
       "id": "122",
@@ -9344,6 +9414,11 @@
       ]
     },
     {
+      "id": "3-5",
+      "title": "Corporate taxpayers and corporate",
+      "is_signpost": true
+    },
+    {
       "id": "160",
       "title": "Corporate loss carry back tax offset for",
       "subdivisions": [
@@ -10993,6 +11068,11 @@
           "path": "part-3-5/division-197/197-1.md"
         }
       ]
+    },
+    {
+      "id": "3-6",
+      "title": "The imputation system",
+      "is_signpost": true
     },
     {
       "id": "200",
@@ -12807,6 +12887,11 @@
       ]
     },
     {
+      "id": "3-10",
+      "title": "Financial transactions",
+      "is_signpost": true
+    },
+    {
       "id": "230",
       "title": "Taxation of financial arrangements",
       "subdivisions": [
@@ -14611,6 +14696,11 @@
       "sections": []
     },
     {
+      "id": "3-25",
+      "title": "Particular kinds of trusts",
+      "is_signpost": true
+    },
+    {
       "id": "275",
       "title": "Australian managed investment trusts:",
       "subdivisions": [
@@ -15089,6 +15179,11 @@
           "path": "part-3-25/division-276/276-1.md"
         }
       ]
+    },
+    {
+      "id": "3-30",
+      "title": "Superannuation",
+      "is_signpost": true
     },
     {
       "id": "280",
@@ -17574,6 +17669,11 @@
       ]
     },
     {
+      "id": "3-32",
+      "title": "Co-operatives and mutual entities",
+      "is_signpost": true
+    },
+    {
       "id": "315",
       "title": "Demutualisation of private health insurers",
       "subdivisions": [
@@ -17890,6 +17990,11 @@
           "path": "part-3-32/division-316/316-1.md"
         }
       ]
+    },
+    {
+      "id": "3-35",
+      "title": "Insurance business",
+      "is_signpost": true
     },
     {
       "id": "320",
@@ -18411,6 +18516,11 @@
           "path": "part-3-35/division-322/322-1.md"
         }
       ]
+    },
+    {
+      "id": "3-45",
+      "title": "Rules for particular industries and",
+      "is_signpost": true
     },
     {
       "id": "328",
@@ -20914,6 +21024,11 @@
       ]
     },
     {
+      "id": "3-50",
+      "title": "Climate change",
+      "is_signpost": true
+    },
+    {
       "id": "420",
       "title": "Registered emissions units",
       "subdivisions": [
@@ -21203,6 +21318,11 @@
       ]
     },
     {
+      "id": "3-80",
+      "title": "Roll-overs applying to assets generally",
+      "is_signpost": true
+    },
+    {
       "id": "615",
       "title": "Roll-overs for business restructures",
       "subdivisions": [
@@ -21356,6 +21476,11 @@
         }
       ],
       "sections": []
+    },
+    {
+      "id": "3-90",
+      "title": "Consolidated groups",
+      "is_signpost": true
     },
     {
       "id": "700",
@@ -23825,6 +23950,11 @@
       ]
     },
     {
+      "id": "3-95",
+      "title": "Value shifting",
+      "is_signpost": true
+    },
+    {
       "id": "723",
       "title": "Direct value shifting by creating right over",
       "subdivisions": [
@@ -24569,6 +24699,11 @@
           "path": "part-3-95/division-727/727-25.md"
         }
       ]
+    },
+    {
+      "id": "4-5",
+      "title": "General",
+      "is_signpost": true
     },
     {
       "id": "764",
@@ -27463,6 +27598,11 @@
       "sections": []
     },
     {
+      "id": "5-30",
+      "title": "Record-keeping and other obligations",
+      "is_signpost": true
+    },
+    {
       "id": "900",
       "title": "Substantiation rules",
       "subdivisions": [
@@ -27780,6 +27920,11 @@
       ]
     },
     {
+      "id": "5-35",
+      "title": "Miscellaneous",
+      "is_signpost": true
+    },
+    {
       "id": "905",
       "title": "Offences",
       "subdivisions": [],
@@ -27802,6 +27947,11 @@
           "path": "part-5-35/division-909/909-1.md"
         }
       ]
+    },
+    {
+      "id": "6-1",
+      "title": "Concepts and topics",
+      "is_signpost": true
     },
     {
       "id": "950",
@@ -28628,6 +28778,11 @@
           "path": "part-6-1/division-980/980-1.md"
         }
       ]
+    },
+    {
+      "id": "6-5",
+      "title": "Dictionary definitions",
+      "is_signpost": true
     },
     {
       "id": "995",

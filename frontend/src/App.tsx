@@ -8,7 +8,8 @@ type Section = { id: string; title: string; path: string }
 type Subdivision = { id: string; title: string; sections: Section[] }
 type Division = { id: string; title: string; subdivisions: Subdivision[]; sections: Section[] }
 type Part = { id: string; title: string; divisions: Division[]; sections: Section[] }
-type Tree = { act: string; parts: Part[] }
+type Signpost = { id: string; title: string; is_signpost: true }
+type Tree = { act: string; parts: (Part | Division | Signpost)[] }
 
 // Cadena Legal brand palette
 const COLORS = {
@@ -24,18 +25,19 @@ const COLORS = {
 }
 
 function TreeNode({ node, level, activeSection, onSelect, isMobile }: {
-  node: Part | Division | Subdivision | Section
+  node: Part | Division | Subdivision | Section | Signpost
   level: number
   activeSection: string
   onSelect: (id: string) => void
   isMobile: boolean
 }) {
   const [expanded, setExpanded] = useState(false)
-  const isSection = 'path' in node
-  const isPart = 'divisions' in node
-  const isDivision = 'subdivisions' in node && 'sections' in node && !isPart
-  const isSubdivision = 'sections' in node && !('subdivisions' in node) && !isPart && !isSection
-  const hasChildren = !isSection && (
+  const isSignpost = 'is_signpost' in node && (node as any).is_signpost
+  const isSection = !isSignpost && 'path' in node
+  const isPart = !isSignpost && 'divisions' in node
+  const isDivision = !isSignpost && 'subdivisions' in node && 'sections' in node && !isPart
+  const isSubdivision = !isSignpost && 'sections' in node && !('subdivisions' in node) && !isPart && !isSection
+  const hasChildren = !isSignpost && !isSection && (
     (isPart && (((node as Part).divisions || []).length > 0 || ((node as Part).sections || []).length > 0)) ||
     (isDivision && (((node as Division).subdivisions || []).length > 0 || ((node as Division).sections || []).length > 0)) ||
     (isSubdivision && ((node as Subdivision).sections || []).length > 0)
@@ -46,18 +48,39 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile }: {
     setExpanded(!expanded)
   }
 
-  const displayId = isSection ? (node as Section).id : (node as Part | Division | Subdivision).id
+  const displayId = isSection ? (node as Section).id : (node as Part | Division | Subdivision | Signpost).id
   const displayTitle = isSection
     ? (node as Section).title
-    : (node as Part | Division | Subdivision).title
+    : (node as Part | Division | Subdivision | Signpost).title
 
   const indent = isMobile ? Math.min(level * 10, 40) : level * 14
+
+  if (isSignpost) {
+    return (
+      <div style={{ marginLeft: indent }}>
+        <div style={{
+          padding: isMobile ? '8px 8px' : '6px 6px',
+          borderTop: `1px solid ${COLORS.border}`,
+          color: COLORS.textMuted,
+          fontWeight: 600,
+          fontSize: 10,
+          fontFamily: "'Montserrat', sans-serif",
+          textTransform: 'uppercase',
+          minHeight: isMobile ? 32 : 28,
+          display: 'flex',
+          alignItems: 'center',
+        }}>
+          Part {displayId} — {displayTitle}
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div style={{ marginLeft: indent }}>
       <div
         style={{
-          padding: isMobile ? '6px 8px' : '4px 6px',
+          padding: isMobile ? '4px 8px' : '2px 6px',
           cursor: 'pointer',
           borderRadius: 4,
           background: isSection && (node as Section).id === activeSection ? 'rgba(39,158,136,0.12)' : 'transparent',
@@ -86,7 +109,9 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile }: {
           </span>
         )}
         {!hasChildren && <span style={{ width: 36, display: 'inline-block', flexShrink: 0 }} />}
-        <span style={{ marginLeft: 4, whiteSpace: 'nowrap', flexShrink: 0, color: COLORS.heading }}>{displayId}</span>
+        <span style={{ marginLeft: 4, whiteSpace: 'nowrap', flexShrink: 0, color: COLORS.heading }}>
+          {isDivision ? `Division ${displayId}` : displayId}
+        </span>
         {displayTitle && (
           <span style={{ marginLeft: 6, opacity: 0.65, fontWeight: 400, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
             — {displayTitle}
@@ -243,74 +268,76 @@ export default function App() {
         transition: 'left 0.25s ease',
       }}>
         <div style={{ padding: isMobile ? '12px 14px' : '14px', borderBottom: `1px solid ${COLORS.border}` }}>
-          <select
-            value={act}
-            onChange={e => {
-              setActiveSection('')
-              setSectionData(null)
-              setAct(e.target.value)
-            }}
-            style={{
-              width: '100%', padding: isMobile ? '10px 8px' : 8, borderRadius: 6,
-              background: COLORS.bg, color: COLORS.heading,
-              border: `1px solid ${COLORS.border}`, fontSize: 13,
-              fontFamily: "'Montserrat', sans-serif",
-            }}
-          >
-            <option value="itaa-1997">ITAA 1997</option>
-            <option value="itaa-1936">ITAA 1936</option>
-          </select>
-          <div style={{ display: 'flex', marginTop: 10, gap: 6 }}>
-            <input
-              value={search}
-              onChange={e => setSearch(e.target.value)}
-              onKeyDown={e => e.key === 'Enter' && doSearch()}
-              placeholder="Search sections..."
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+            <select
+              value={act}
+              onChange={e => {
+                setActiveSection('')
+                setSectionData(null)
+                setAct(e.target.value)
+              }}
               style={{
-                flex: 1, padding: isMobile ? '10px 8px' : 8, borderRadius: 6,
+                width: '100%', padding: isMobile ? '10px 8px' : 8, borderRadius: 6,
                 background: COLORS.bg, color: COLORS.heading,
                 border: `1px solid ${COLORS.border}`, fontSize: 13,
                 fontFamily: "'Montserrat', sans-serif",
               }}
-            />
-            <button
-              onClick={doSearch}
-              style={{
-                padding: isMobile ? '10px 14px' : '8px 14px', borderRadius: 6,
-                background: COLORS.accent, color: '#fff',
-                border: 'none', fontSize: 13, cursor: 'pointer',
-                fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
-                whiteSpace: 'nowrap',
-              }}
             >
-              Search
-            </button>
-          </div>
-          {searchResults.length > 0 && (
-            <div style={{
-              maxHeight: 220, overflow: 'auto', marginTop: 10,
-              background: COLORS.bg, borderRadius: 6,
-              border: `1px solid ${COLORS.border}`,
-            }}>
-              {searchResults.map(r => (
-                <div
-                  key={`${r.act}-${r.section}`}
-                  style={{
-                    padding: isMobile ? '8px 10px' : '6px 10px', cursor: 'pointer', fontSize: 12,
-                    color: COLORS.text, borderBottom: `1px solid ${COLORS.border}`,
-                    fontFamily: "'Montserrat', sans-serif",
-                    whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
-                    minHeight: isMobile ? 40 : 32,
-                    display: 'flex', alignItems: 'center',
-                  }}
-                  onClick={() => { setAct(r.act); setActiveSection(r.section); setSearchResults([]) }}
-                >
-                  <span style={{ color: COLORS.accent, fontWeight: 600 }}>{r.section}</span>{' '}
-                  <span style={{ color: COLORS.textMuted }}>{r.title}</span>
-                </div>
-              ))}
+              <option value="itaa-1997">ITAA 1997</option>
+              <option value="itaa-1936">ITAA 1936</option>
+            </select>
+            <div style={{ display: 'flex', gap: 6 }}>
+              <input
+                value={search}
+                onChange={e => setSearch(e.target.value)}
+                onKeyDown={e => e.key === 'Enter' && doSearch()}
+                placeholder="Search sections..."
+                style={{
+                  flex: 1, padding: isMobile ? '10px 8px' : 8, borderRadius: 6,
+                  background: COLORS.bg, color: COLORS.heading,
+                  border: `1px solid ${COLORS.border}`, fontSize: 13,
+                  fontFamily: "'Montserrat', sans-serif",
+                }}
+              />
+              <button
+                onClick={doSearch}
+                style={{
+                  padding: isMobile ? '10px 14px' : '8px 14px', borderRadius: 6,
+                  background: COLORS.accent, color: '#fff',
+                  border: 'none', fontSize: 13, cursor: 'pointer',
+                  fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
+                  whiteSpace: 'nowrap',
+                }}
+              >
+                Search
+              </button>
             </div>
-          )}
+            {searchResults.length > 0 && (
+              <div style={{
+                maxHeight: 220, overflow: 'auto',
+                background: COLORS.bg, borderRadius: 6,
+                border: `1px solid ${COLORS.border}`,
+              }}>
+                {searchResults.map(r => (
+                  <div
+                    key={`${r.act}-${r.section}`}
+                    style={{
+                      padding: isMobile ? '8px 10px' : '6px 10px', cursor: 'pointer', fontSize: 12,
+                      color: COLORS.text, borderBottom: `1px solid ${COLORS.border}`,
+                      fontFamily: "'Montserrat', sans-serif",
+                      whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
+                      minHeight: isMobile ? 40 : 32,
+                      display: 'flex', alignItems: 'center',
+                    }}
+                    onClick={() => { setAct(r.act); setActiveSection(r.section); setSearchResults([]) }}
+                  >
+                    <span style={{ color: COLORS.accent, fontWeight: 600 }}>{r.section}</span>{' '}
+                    <span style={{ color: COLORS.textMuted }}>{r.title}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
         </div>
         <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
           {(tree.parts || []).map(p => (
@@ -347,7 +374,29 @@ export default function App() {
                   h2: ({ children }) => <h2 style={{ color: COLORS.heading, fontSize: isMobile ? 17 : 18, marginTop: 24, marginBottom: 12, fontWeight: 600 }}>{children}</h2>,
                   h3: ({ children }) => <h3 style={{ color: COLORS.heading, fontSize: isMobile ? 15 : 16, marginTop: 20, marginBottom: 10, fontWeight: 600 }}>{children}</h3>,
                   p: ({ children }) => <p style={{ marginBottom: 12, color: COLORS.text }}>{children}</p>,
-                  a: ({ children, href }) => <a href={href} style={{ color: COLORS.accent, textDecoration: 'none' }}>{children}</a>,
+                  a: ({ children, href }) => {
+                    const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
+                      if (href) {
+                        const m = href.match(/\/(itaa-\d{4})\/s([^#]+)(?:#(.+))?/)
+                        if (m) {
+                          const targetAct = m[1]
+                          const targetSection = m[2]
+                          const anchor = m[3]
+                          if (targetAct === act) {
+                            e.preventDefault()
+                            setActiveSection(targetSection)
+                            if (anchor) {
+                              setTimeout(() => {
+                                const el = document.getElementById(anchor)
+                                if (el) el.scrollIntoView({ behavior: 'smooth' })
+                              }, 150)
+                            }
+                          }
+                        }
+                      }
+                    }
+                    return <a href={href} onClick={handleClick} style={{ color: COLORS.accent, textDecoration: 'none' }}>{children}</a>
+                  },
                   blockquote: ({ children }) => <blockquote style={{ marginLeft: 16, paddingLeft: 12, borderLeft: `3px solid ${COLORS.border}`, color: COLORS.textMuted }}>{children}</blockquote>,
                   ul: ({ children }) => <ul style={{ marginLeft: 20, marginBottom: 12 }}>{children}</ul>,
                   ol: ({ children }) => <ol style={{ marginLeft: 20, marginBottom: 12 }}>{children}</ol>,

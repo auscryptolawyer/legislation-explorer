@@ -60,15 +60,62 @@ def load_tree(act: str) -> dict:
     return _acts_cache[act]
 
 
+_definition_regex_cache: dict[str, re.Pattern] = {}
+
+
 def load_definitions(act: str) -> dict[str, dict]:
     if act not in _definitions_cache:
-        defs = {}
-        for fname in ("definitions.json", "definitions-s6.json", "definitions-local.json"):
-            path = DATA_DIR / act / fname
-            if path.exists():
-                defs.update(json.loads(path.read_text(encoding="utf-8")))
-        _definitions_cache[act] = defs
+        path = DATA_DIR / "definitions.json"
+        if path.exists():
+            data = json.loads(path.read_text(encoding="utf-8"))
+            act_data = data.get(act, {})
+            terms = act_data.get("terms", {})
+            defs = {}
+            for term, info in terms.items():
+                defs[term.lower()] = {**info, "section": act_data.get("section", "")}
+            _definitions_cache[act] = defs
+        else:
+            _definitions_cache[act] = {}
     return _definitions_cache[act]
+
+
+def get_definition_regex(act: str) -> re.Pattern | None:
+    if act not in _definition_regex_cache:
+        defs = load_definitions(act)
+        if not defs:
+            return None
+        terms = sorted(defs.items(), key=lambda x: len(x[0]), reverse=True)
+        patterns = [rf'(?<![\w-]){re.escape(term)}(?![\w-])' for term, _ in terms]
+        _definition_regex_cache[act] = re.compile('|'.join(patterns), re.IGNORECASE)
+    return _definition_regex_cache[act]
+
+
+def link_definitions(markdown: str, act: str) -> str:
+    defs = load_definitions(act)
+    regex = get_definition_regex(act)
+    if not regex:
+        return markdown
+
+    def replacer(m: re.Match) -> str:
+        matched = m.group(0)
+        key = matched.lower()
+        info = defs.get(key)
+        if info:
+            return f'[{matched}](/{act}/s{info["section"]}#{info["anchor"]})'
+        return matched
+
+    tokens = []
+    split_re = re.compile(r'(```[\s\S]*?```|`[^`]+`|\[[^\]]+\]\([^)]+\))')
+    last = 0
+    for m in split_re.finditer(markdown):
+        if m.start() > last:
+            tokens.append(('text', regex.sub(replacer, markdown[last:m.start()])))
+        tokens.append(('code', m.group(0)))
+        last = m.end()
+    if last < len(markdown):
+        tokens.append(('text', regex.sub(replacer, markdown[last:])))
+
+    return ''.join(t[1] for t in tokens)
 
 
 # ---------------------------------------------------------------------------
@@ -151,7 +198,15 @@ def get_section(act: str, section: str):
     else:
         body = content
 
+    body = link_definitions(body, act)
+
     return {"frontmatter": fm, "markdown": body}
+
+
+@app.get("/api/definitions/{act}")
+def get_definitions(act: str):
+    defs = load_definitions(act)
+    return {"act": act, "count": len(defs), "terms": defs}
 
 
 @app.get("/api/definition/{act}/{term}")
