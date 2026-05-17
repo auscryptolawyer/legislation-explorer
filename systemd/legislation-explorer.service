@@ -1,0 +1,14 @@
+[Unit]
+Description=ITAA Legislation Explorer
+After=network.target
+
+[Service]
+Type=simple
+User=harrison
+WorkingDirectory=/home/harrison/legislation-explorer
+Environment="LEGISLATION_BEARER_TOKEN=legislation-explorer-2026"
+ExecStart=/usr/bin/python3 -m uvicorn backend.main:app --host 127.0.0.1 --port 8765
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,830 @@
+{
+  "adjusted taxable income for rebates": {
+    "section": "6",
+    "anchor": "s6-adjusted-taxable-income-for-rebates"
+  },
+  "afof": {
+    "section": "6",
+    "anchor": "s6-afof"
+  },
+  "allowable deduction": {
+    "section": "6",
+    "anchor": "s6-allowable-deduction"
+  },
+  "amit (short for attribution managed investment trust)": {
+    "section": "6",
+    "anchor": "s6-amit-short-for-attribution-managed-investment-trust"
+  },
+  "amount paid-up on a share": {
+    "section": "6",
+    "anchor": "s6-amount-paid-up-on-a-share"
+  },
+  "amount unpaid on a share": {
+    "section": "6",
+    "anchor": "s6-amount-unpaid-on-a-share"
+  },
+  "apportionable deductions": {
+    "section": "6",
+    "anchor": "s6-apportionable-deductions"
+  },
+  "approved form": {
+    "section": "6",
+    "anchor": "s6-approved-form"
+  },
+  "approved stock exchange": {
+    "section": "6",
+    "anchor": "s6-approved-stock-exchange"
+  },
+  "assessable income": {
+    "section": "6",
+    "anchor": "s6-assessable-income"
+  },
+  "assessment": {
+    "section": "6",
+    "anchor": "s6-assessment"
+  },
+  "australia": {
+    "section": "6",
+    "anchor": "s6-australia"
+  },
+  "australian superannuation fund": {
+    "section": "6",
+    "anchor": "s6-australian-superannuation-fund"
+  },
+  "base interest rate": {
+    "section": "6",
+    "anchor": "s6-base-interest-rate"
+  },
+  "basic income tax liability": {
+    "section": "6",
+    "anchor": "s6-basic-income-tax-liability"
+  },
+  "business": {
+    "section": "6",
+    "anchor": "s6-business"
+  },
+  "capital gain": {
+    "section": "6",
+    "anchor": "s6-capital-gain"
+  },
+  "capital loss": {
+    "section": "6",
+    "anchor": "s6-capital-loss"
+  },
+  "capital proceeds": {
+    "section": "6",
+    "anchor": "s6-capital-proceeds"
+  },
+  "cgt asset": {
+    "section": "6",
+    "anchor": "s6-cgt-asset"
+  },
+  "cgt event": {
+    "section": "6",
+    "anchor": "s6-cgt-event"
+  },
+  "chief executive centrelink": {
+    "section": "6",
+    "anchor": "s6-chief-executive-centrelink"
+  },
+  "child": {
+    "section": "6",
+    "anchor": "s6-child"
+  },
+  "commissioner": {
+    "section": "6",
+    "anchor": "s6-commissioner"
+  },
+  "commonwealth education or training payment": {
+    "section": "6",
+    "anchor": "s6-commonwealth-education-or-training-payment"
+  },
+  "company": {
+    "section": "6",
+    "anchor": "s6-company"
+  },
+  "complying approved deposit fund": {
+    "section": "6",
+    "anchor": "s6-complying-approved-deposit-fund"
+  },
+  "complying superannuation fund": {
+    "section": "6",
+    "anchor": "s6-complying-superannuation-fund"
+  },
+  "consolidated group": {
+    "section": "6",
+    "anchor": "s6-consolidated-group"
+  },
+  "constituent document, in relation to a company": {
+    "section": "6",
+    "anchor": "s6-constituent-document-in-relation-to-a-company"
+  },
+  "corporate limited partnership": {
+    "section": "6",
+    "anchor": "s6-corporate-limited-partnership"
+  },
+  "corporate tax entity": {
+    "section": "6",
+    "anchor": "s6-corporate-tax-entity"
+  },
+  "corporate tax rate": {
+    "section": "6",
+    "anchor": "s6-corporate-tax-rate"
+  },
+  "cost base of a cgt asset": {
+    "section": "6",
+    "anchor": "s6-cost-base-of-a-cgt-asset"
+  },
+  "creditable acquisition": {
+    "section": "6",
+    "anchor": "s6-creditable-acquisition"
+  },
+  "debt interest": {
+    "section": "6",
+    "anchor": "s6-debt-interest"
+  },
+  "deductible gift recipient": {
+    "section": "6",
+    "anchor": "s6-deductible-gift-recipient"
+  },
+  "demerged entity": {
+    "section": "6",
+    "anchor": "s6-demerged-entity"
+  },
+  "demerger": {
+    "section": "6",
+    "anchor": "s6-demerger"
+  },
+  "demerger allocation": {
+    "section": "6",
+    "anchor": "s6-demerger-allocation"
+  },
+  "demerger dividend": {
+    "section": "6",
+    "anchor": "s6-demerger-dividend"
+  },
+  "demerger group": {
+    "section": "6",
+    "anchor": "s6-demerger-group"
+  },
+  "demerger subsidiary": {
+    "section": "6",
+    "anchor": "s6-demerger-subsidiary"
+  },
+  "demerging entity": {
+    "section": "6",
+    "anchor": "s6-demerging-entity"
+  },
+  "depreciating asset": {
+    "section": "6",
+    "anchor": "s6-depreciating-asset"
+  },
+  "deputy commissioner": {
+    "section": "6",
+    "anchor": "s6-deputy-commissioner"
+  },
+  "distribution, when used in a franking context": {
+    "section": "6",
+    "anchor": "s6-distribution-when-used-in-a-franking-context"
+  },
+  "diverted profits tax": {
+    "section": "6",
+    "anchor": "s6-diverted-profits-tax"
+  },
+  "division 230 financial arrangement": {
+    "section": "6",
+    "anchor": "s6-division-230-financial-arrangement"
+  },
+  "dual resident investment company": {
+    "section": "6",
+    "anchor": "s6-dual-resident-investment-company"
+  },
+  "dwelling": {
+    "section": "6",
+    "anchor": "s6-dwelling"
+  },
+  "eligible taxable income": {
+    "section": "6",
+    "anchor": "s6-eligible-taxable-income"
+  },
+  "employment secretary": {
+    "section": "6",
+    "anchor": "s6-employment-secretary"
+  },
+  "employment termination payment": {
+    "section": "6",
+    "anchor": "s6-employment-termination-payment"
+  },
+  "equity holder": {
+    "section": "6",
+    "anchor": "s6-equity-holder"
+  },
+  "equity interest": {
+    "section": "6",
+    "anchor": "s6-equity-interest"
+  },
+  "esvclp": {
+    "section": "6",
+    "anchor": "s6-esvclp"
+  },
+  "exempt entity": {
+    "section": "6",
+    "anchor": "s6-exempt-entity"
+  },
+  "exempt income": {
+    "section": "6",
+    "anchor": "s6-exempt-income"
+  },
+  "exploration credit": {
+    "section": "6",
+    "anchor": "s6-exploration-credit"
+  },
+  "families secretary": {
+    "section": "6",
+    "anchor": "s6-families-secretary"
+  },
+  "farm management deposit": {
+    "section": "6",
+    "anchor": "s6-farm-management-deposit"
+  },
+  "fmd provider": {
+    "section": "6",
+    "anchor": "s6-fmd-provider"
+  },
+  "foreign superannuation fund": {
+    "section": "6",
+    "anchor": "s6-foreign-superannuation-fund"
+  },
+  "foreign tax": {
+    "section": "6",
+    "anchor": "s6-foreign-tax"
+  },
+  "frankable distribution": {
+    "section": "6",
+    "anchor": "s6-frankable-distribution"
+  },
+  "franked part of a distribution": {
+    "section": "6",
+    "anchor": "s6-franked-part-of-a-distribution"
+  },
+  "franking credit": {
+    "section": "6",
+    "anchor": "s6-franking-credit"
+  },
+  "franking debit": {
+    "section": "6",
+    "anchor": "s6-franking-debit"
+  },
+  "franking deficit tax": {
+    "section": "6",
+    "anchor": "s6-franking-deficit-tax"
+  },
+  "franking surplus": {
+    "section": "6",
+    "anchor": "s6-franking-surplus"
+  },
+  "franks with an exempting credit": {
+    "section": "6",
+    "anchor": "s6-franks-with-an-exempting-credit"
+  },
+  "friendly society": {
+    "section": "6",
+    "anchor": "s6-friendly-society"
+  },
+  "friendly society dispensary": {
+    "section": "6",
+    "anchor": "s6-friendly-society-dispensary"
+  },
+  "fringe benefit": {
+    "section": "6",
+    "anchor": "s6-fringe-benefit"
+  },
+  "year)": {
+    "section": "6",
+    "anchor": "s6-year"
+  },
+  "fund payment": {
+    "section": "6",
+    "anchor": "s6-fund-payment"
+  },
+  "general insurance company": {
+    "section": "6",
+    "anchor": "s6-general-insurance-company"
+  },
+  "general insurance policy": {
+    "section": "6",
+    "anchor": "s6-general-insurance-policy"
+  },
+  "general interest charge": {
+    "section": "6",
+    "anchor": "s6-general-interest-charge"
+  },
+  "general partner": {
+    "section": "6",
+    "anchor": "s6-general-partner"
+  },
+  "gst act": {
+    "section": "6",
+    "anchor": "s6-gst-act"
+  },
+  "head company of a consolidated group or a mec group": {
+    "section": "6",
+    "anchor": "s6-head-company-of-a-consolidated-group-or-a-mec-group"
+  },
+  "head entity of a demerger group": {
+    "section": "6",
+    "anchor": "s6-head-entity-of-a-demerger-group"
+  },
+  "health minister": {
+    "section": "6",
+    "anchor": "s6-health-minister"
+  },
+  "hold, in relation to an rsa": {
+    "section": "6",
+    "anchor": "s6-hold-in-relation-to-an-rsa"
+  },
+  "holder, in relation to an rsa": {
+    "section": "6",
+    "anchor": "s6-holder-in-relation-to-an-rsa"
+  },
+  "exertion": {
+    "section": "6",
+    "anchor": "s6-exertion"
+  },
+  "income from property or income derived from property": {
+    "section": "6",
+    "anchor": "s6-income-from-property-or-income-derived-from-property"
+  },
+  "income tax": {
+    "section": "6",
+    "anchor": "s6-income-tax"
+  },
+  "indigenous land": {
+    "section": "6",
+    "anchor": "s6-indigenous-land"
+  },
+  "indigenous person": {
+    "section": "6",
+    "anchor": "s6-indigenous-person"
+  },
+  "industrial, commercial or scientific equipment": {
+    "section": "6",
+    "anchor": "s6-industrial-commercial-or-scientific-equipment"
+  },
+  "insurance business": {
+    "section": "6",
+    "anchor": "s6-insurance-business"
+  },
+  "insurance funds, in relation to a company": {
+    "section": "6",
+    "anchor": "s6-insurance-funds-in-relation-to-a-company"
+  },
+  "interest income, in relation to a taxpayer": {
+    "section": "6",
+    "anchor": "s6-interest-income-in-relation-to-a-taxpayer"
+  },
+  "income, the company": {
+    "section": "6",
+    "anchor": "s6-income-the-company"
+  },
+  "junior minerals exploration incentive tax offset": {
+    "section": "6",
+    "anchor": "s6-junior-minerals-exploration-incentive-tax-offset"
+  },
+  "life assurance company": {
+    "section": "6",
+    "anchor": "s6-life-assurance-company"
+  },
+  "life assurance policy": {
+    "section": "6",
+    "anchor": "s6-life-assurance-policy"
+  },
+  "life assurance premium": {
+    "section": "6",
+    "anchor": "s6-life-assurance-premium"
+  },
+  "limited partner": {
+    "section": "6",
+    "anchor": "s6-limited-partner"
+  },
+  "limited partnership": {
+    "section": "6",
+    "anchor": "s6-limited-partnership"
+  },
+  "liquidator": {
+    "section": "6",
+    "anchor": "s6-liquidator"
+  },
+  "listed public company": {
+    "section": "6",
+    "anchor": "s6-listed-public-company"
+  },
+  "loss carry back tax offset": {
+    "section": "6",
+    "anchor": "s6-loss-carry-back-tax-offset"
+  },
+  "loss year": {
+    "section": "6",
+    "anchor": "s6-loss-year"
+  },
+  "managed investment trust": {
+    "section": "6",
+    "anchor": "s6-managed-investment-trust"
+  },
+  "mec group": {
+    "section": "6",
+    "anchor": "s6-mec-group"
+  },
+  "medicare levy": {
+    "section": "6",
+    "anchor": "s6-medicare-levy"
+  },
+  "medicare levy (fringe benefits) surcharge": {
+    "section": "6",
+    "anchor": "s6-medicare-levy-fringe-benefits-surcharge"
+  },
+  "member of a consolidated group or mec group": {
+    "section": "6",
+    "anchor": "s6-member-of-a-consolidated-group-or-mec-group"
+  },
+  "minerals": {
+    "section": "6",
+    "anchor": "s6-minerals"
+  },
+  "mining withholding tax": {
+    "section": "6",
+    "anchor": "s6-mining-withholding-tax"
+  },
+  "mutual life assurance company": {
+    "section": "6",
+    "anchor": "s6-mutual-life-assurance-company"
+  },
+  "natural resource": {
+    "section": "6",
+    "anchor": "s6-natural-resource"
+  },
+  "net capital gain": {
+    "section": "6",
+    "anchor": "s6-net-capital-gain"
+  },
+  "net capital loss": {
+    "section": "6",
+    "anchor": "s6-net-capital-loss"
+  },
+  "net gst": {
+    "section": "6",
+    "anchor": "s6-net-gst"
+  },
+  "net input tax credit": {
+    "section": "6",
+    "anchor": "s6-net-input-tax-credit"
+  },
+  "non-assessable non-exempt income": {
+    "section": "6",
+    "anchor": "s6-non-assessable-non-exempt-income"
+  },
+  "non-complying approved deposit fund": {
+    "section": "6",
+    "anchor": "s6-non-complying-approved-deposit-fund"
+  },
+  "non-complying superannuation fund": {
+    "section": "6",
+    "anchor": "s6-non-complying-superannuation-fund"
+  },
+  "non-entity joint venture": {
+    "section": "6",
+    "anchor": "s6-non-entity-joint-venture"
+  },
+  "non-equity share": {
+    "section": "6",
+    "anchor": "s6-non-equity-share"
+  },
+  "non-resident": {
+    "section": "6",
+    "anchor": "s6-non-resident"
+  },
+  "non-share capital account": {
+    "section": "6",
+    "anchor": "s6-non-share-capital-account"
+  },
+  "non-share capital return": {
+    "section": "6",
+    "anchor": "s6-non-share-capital-return"
+  },
+  "non-share distribution": {
+    "section": "6",
+    "anchor": "s6-non-share-distribution"
+  },
+  "non-share dividend": {
+    "section": "6",
+    "anchor": "s6-non-share-dividend"
+  },
+  "non-share equity interest": {
+    "section": "6",
+    "anchor": "s6-non-share-equity-interest"
+  },
+  "ordinary class": {
+    "section": "6",
+    "anchor": "s6-ordinary-class"
+  },
+  "ordinary income": {
+    "section": "6",
+    "anchor": "s6-ordinary-income"
+  },
+  "over-franking tax": {
+    "section": "6",
+    "anchor": "s6-over-franking-tax"
+  },
+  "owner of a farm management deposit": {
+    "section": "6",
+    "anchor": "s6-owner-of-a-farm-management-deposit"
+  },
+  "ownership interest": {
+    "section": "6",
+    "anchor": "s6-ownership-interest"
+  },
+  "paid-up share capital": {
+    "section": "6",
+    "anchor": "s6-paid-up-share-capital"
+  },
+  "parent": {
+    "section": "6",
+    "anchor": "s6-parent"
+  },
+  "partnership": {
+    "section": "6",
+    "anchor": "s6-partnership"
+  },
+  "part of a distribution that is franked with an exempting credit": {
+    "section": "6",
+    "anchor": "s6-part-of-a-distribution-that-is-franked-with-an-exempting-credit"
+  },
+  "year of income": {
+    "section": "6",
+    "anchor": "s6-year-of-income"
+  },
+  "income": {
+    "section": "6",
+    "anchor": "s6-income"
+  },
+  "pdf (pooled development fund)": {
+    "section": "6",
+    "anchor": "s6-pdf-pooled-development-fund"
+  },
+  "of income": {
+    "section": "6",
+    "anchor": "s6-of-income"
+  },
+  "state)": {
+    "section": "6",
+    "anchor": "s6-state"
+  },
+  "person": {
+    "section": "6",
+    "anchor": "s6-person"
+  },
+  "pooled superannuation trust": {
+    "section": "6",
+    "anchor": "s6-pooled-superannuation-trust"
+  },
+  "post fif abolition credit": {
+    "section": "6",
+    "anchor": "s6-post-fif-abolition-credit"
+  },
+  "post fif abolition debit": {
+    "section": "6",
+    "anchor": "s6-post-fif-abolition-debit"
+  },
+  "post fif abolition surplus": {
+    "section": "6",
+    "anchor": "s6-post-fif-abolition-surplus"
+  },
+  "prescribed dual resident": {
+    "section": "6",
+    "anchor": "s6-prescribed-dual-resident"
+  },
+  "business in australia and": {
+    "section": "6",
+    "anchor": "s6-business-in-australia-and"
+  },
+  "primary production business": {
+    "section": "6",
+    "anchor": "s6-primary-production-business"
+  },
+  "principal beneficiary of a special disability trust": {
+    "section": "6",
+    "anchor": "s6-principal-beneficiary-of-a-special-disability-trust"
+  },
+  "private company, in relation to a year of income": {
+    "section": "6",
+    "anchor": "s6-private-company-in-relation-to-a-year-of-income"
+  },
+  "proclaimed superannuation standards day": {
+    "section": "6",
+    "anchor": "s6-proclaimed-superannuation-standards-day"
+  },
+  "provider, in relation to an rsa": {
+    "section": "6",
+    "anchor": "s6-provider-in-relation-to-an-rsa"
+  },
+  "prudential standards": {
+    "section": "6",
+    "anchor": "s6-prudential-standards"
+  },
+  "rebatable benefit": {
+    "section": "6",
+    "anchor": "s6-rebatable-benefit"
+  },
+  "recognised large credit union": {
+    "section": "6",
+    "anchor": "s6-recognised-large-credit-union"
+  },
+  "recognised medium credit union": {
+    "section": "6",
+    "anchor": "s6-recognised-medium-credit-union"
+  },
+  "recognised small credit union": {
+    "section": "6",
+    "anchor": "s6-recognised-small-credit-union"
+  },
+  "reduced cost base of a cgt asset": {
+    "section": "6",
+    "anchor": "s6-reduced-cost-base-of-a-cgt-asset"
+  },
+  "relative": {
+    "section": "6",
+    "anchor": "s6-relative"
+  },
+  "reportable superannuation contributions": {
+    "section": "6",
+    "anchor": "s6-reportable-superannuation-contributions"
+  },
+  "resident or resident of australia": {
+    "section": "6",
+    "anchor": "s6-resident-or-resident-of-australia"
+  },
+  "australia, and": {
+    "section": "6",
+    "anchor": "s6-australia-and"
+  },
+  "resident trust for cgt purposes": {
+    "section": "6",
+    "anchor": "s6-resident-trust-for-cgt-purposes"
+  },
+  "return on a debt interest or equity interest": {
+    "section": "6",
+    "anchor": "s6-return-on-a-debt-interest-or-equity-interest"
+  },
+  "return of income": {
+    "section": "6",
+    "anchor": "s6-return-of-income"
+  },
+  "to, and is furnished as a": {
+    "section": "6",
+    "anchor": "s6-to-and-is-furnished-as-a"
+  },
+  "rsa": {
+    "section": "6",
+    "anchor": "s6-rsa"
+  },
+  "rsa provider": {
+    "section": "6",
+    "anchor": "s6-rsa-provider"
+  },
+  "second commissioner": {
+    "section": "6",
+    "anchor": "s6-second-commissioner"
+  },
+  "share in a company": {
+    "section": "6",
+    "anchor": "s6-share-in-a-company"
+  },
+  "share capital account": {
+    "section": "6",
+    "anchor": "s6-share-capital-account"
+  },
+  "shortfall interest charge": {
+    "section": "6",
+    "anchor": "s6-shortfall-interest-charge"
+  },
+  "small business entity": {
+    "section": "6",
+    "anchor": "s6-small-business-entity"
+  },
+  "social security law": {
+    "section": "6",
+    "anchor": "s6-social-security-law"
+  },
+  "special disability trust": {
+    "section": "6",
+    "anchor": "s6-special-disability-trust"
+  },
+  "spouse": {
+    "section": "6",
+    "anchor": "s6-spouse"
+  },
+  "statutory income": {
+    "section": "6",
+    "anchor": "s6-statutory-income"
+  },
+  "student assistance secretary": {
+    "section": "6",
+    "anchor": "s6-student-assistance-secretary"
+  },
+  "subsidiary member of a consolidated group or a mec group": {
+    "section": "6",
+    "anchor": "s6-subsidiary-member-of-a-consolidated-group-or-a-mec-group"
+  },
+  "superannuation benefits": {
+    "section": "6",
+    "anchor": "s6-superannuation-benefits"
+  },
+  "superannuation fund": {
+    "section": "6",
+    "anchor": "s6-superannuation-fund"
+  },
+  "superannuation fund for foreign residents": {
+    "section": "6",
+    "anchor": "s6-superannuation-fund-for-foreign-residents"
+  },
+  "superannuation lump sum": {
+    "section": "6",
+    "anchor": "s6-superannuation-lump-sum"
+  },
+  "tax": {
+    "section": "6",
+    "anchor": "s6-tax"
+  },
+  "taxable australian property": {
+    "section": "6",
+    "anchor": "s6-taxable-australian-property"
+  },
+  "taxable income": {
+    "section": "6",
+    "anchor": "s6-taxable-income"
+  },
+  "taxable supply": {
+    "section": "6",
+    "anchor": "s6-taxable-supply"
+  },
+  "tax cost is set": {
+    "section": "6",
+    "anchor": "s6-tax-cost-is-set"
+  },
+  "tax loss": {
+    "section": "6",
+    "anchor": "s6-tax-loss"
+  },
+  "tax offset refund": {
+    "section": "6",
+    "anchor": "s6-tax-offset-refund"
+  },
+  "taxpayer": {
+    "section": "6",
+    "anchor": "s6-taxpayer"
+  },
+  "total net investment loss": {
+    "section": "6",
+    "anchor": "s6-total-net-investment-loss"
+  },
+  "trading stock": {
+    "section": "6",
+    "anchor": "s6-trading-stock"
+  },
+  "tribunal": {
+    "section": "6",
+    "anchor": "s6-tribunal"
+  },
+  "unfranked part of a distribution": {
+    "section": "6",
+    "anchor": "s6-unfranked-part-of-a-distribution"
+  },
+  "vclp": {
+    "section": "6",
+    "anchor": "s6-vclp"
+  },
+  "vcmp": {
+    "section": "6",
+    "anchor": "s6-vcmp"
+  },
+  "venture capital deficit tax": {
+    "section": "6",
+    "anchor": "s6-venture-capital-deficit-tax"
+  },
+  "venture capital management partnership": {
+    "section": "6",
+    "anchor": "s6-venture-capital-management-partnership"
+  },
+  "withholding tax": {
+    "section": "6",
+    "anchor": "s6-withholding-tax"
+  },
+  "benefits": {
+    "section": "6",
+    "anchor": "s6-benefits"
+  },
+  "year of tax": {
+    "section": "6",
+    "anchor": "s6-year-of-tax"
+  }
+}
