@@ -78,13 +78,14 @@ function TreeNode({ node, level, activeSection, onSelect, isMobile }: {
       >
         {hasChildren && (
           <span onClick={toggle} style={{
-            width: 20, display: 'inline-block', textAlign: 'center', fontSize: 8,
+            width: 36, minHeight: 36, display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+            textAlign: 'center', fontSize: 10,
             color: COLORS.textMuted, flexShrink: 0,
           }}>
             {expanded ? '\u25bc' : '\u25b6'}
           </span>
         )}
-        {!hasChildren && <span style={{ width: 20, display: 'inline-block', flexShrink: 0 }} />}
+        {!hasChildren && <span style={{ width: 36, display: 'inline-block', flexShrink: 0 }} />}
         <span style={{ marginLeft: 4, whiteSpace: 'nowrap', flexShrink: 0, color: COLORS.heading }}>{displayId}</span>
         {displayTitle && (
           <span style={{ marginLeft: 6, opacity: 0.65, fontWeight: 400, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
@@ -134,7 +135,10 @@ export default function App() {
   }, [])
 
   useEffect(() => {
-    api.tree(act).then(setTree).catch(e => setError(e.message))
+    api.tree(act).then(data => {
+      setTree(data)
+      setError('')
+    }).catch(e => setError(e.message))
     setActiveSection('')
     setSectionData(null)
     setDrawerOpen(false)
@@ -143,8 +147,18 @@ export default function App() {
   useEffect(() => {
     if (!activeSection) return
     api.section(act, activeSection)
-      .then(setSectionData)
-      .catch(e => setError(e.message))
+      .then(data => {
+        setSectionData(data)
+        setError('')
+      })
+      .catch(e => {
+        if (e.message?.includes('404')) {
+          setActiveSection('')
+          setSectionData(null)
+        } else {
+          setError(e.message)
+        }
+      })
     window.history.pushState(null, '', `/${act}/s${activeSection}`)
     if (isMobile) setDrawerOpen(false)
   }, [act, activeSection, isMobile])
@@ -155,6 +169,8 @@ export default function App() {
       if (m) {
         setAct(m[1])
         setActiveSection(m[2])
+      } else {
+        setActiveSection('')
       }
     }
     handler()
@@ -180,12 +196,24 @@ export default function App() {
         <button
           onClick={() => setDrawerOpen(!drawerOpen)}
           style={{
-            position: 'fixed', top: 12, left: 12, zIndex: 110,
-            background: COLORS.surface, color: COLORS.heading,
-            border: `1px solid ${COLORS.border}`, borderRadius: 6,
-            padding: '10px 12px', fontSize: 18, cursor: 'pointer',
-            lineHeight: 1, minWidth: 44, minHeight: 44,
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
+            position: 'fixed',
+            top: 12,
+            left: drawerOpen ? sidebarWidth - 56 : 12,
+            zIndex: 110,
+            background: COLORS.surface,
+            color: COLORS.heading,
+            border: `1px solid ${COLORS.border}`,
+            borderRadius: 6,
+            padding: '10px 12px',
+            fontSize: 18,
+            cursor: 'pointer',
+            lineHeight: 1,
+            minWidth: 44,
+            minHeight: 44,
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            transition: 'left 0.25s ease',
           }}
         >
           {drawerOpen ? '\u2715' : '\u2630'}
