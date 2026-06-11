@@ -1,0 +1,1232 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2021/3
+Temporary full expensing
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+LCR 2021/3EC
+.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+8
+Ruling
+9
+Part A - ELIGIBLE ENTITIES
+14
+Eligible entity test
+15
+Carrying on a business
+17
+Aggregated turnover
+22
+Alternative income test
+25
+Example 1 - costs of tangible depreciating assets for the purpose of the second condition
+32
+Part B - ELIGIBLE ASSETS
+36
+Time of first holding and first use for a taxable purpose
+37
+Exclusions under section 40-150 of the IT(TP)A
+40
+Assets covered by section 40-45 of the ITAA 1997
+41
+Assets without the relevant connection to Australia and carrying on a business
+42
+Assets covered by Subdivisions 40-E and 40-F of the ITAA 1997
+47
+Exclusions for entities with an aggregated turnover of $50 million or more
+50
+Commitments entered into before the 2020 Budget Time
+51
+Second-hand assets
+61
+Splitting and merging depreciating assets
+65
+Leaving a consolidated group
+66
+Licence relating to an intangible asset
+67
+Excluions for entities using the alternative income test for eligibility
+68
+Part C - FULL EXPENSING
+71
+Full expensing of eligible assets
+72
+Example 2 - first use of asset in current year
+75
+Example 3 - first use of asset in earlier year
+76
+Full expensing of eligible second element of cost
+77
+Example 4 - second-element costs in later year
+80
+Example 5 - second-element costs and excluded assets
+81
+Example 6 - second-element costs for assets first held before the 2020 Budget Time
+84
+Choice not to apply temporary full expensing
+86
+Balancing adjustment events
+91
+Example 7 - balancing adjustment event in relation to partnership assets
+93
+Example 8 - no reduction of balancing adjustment amount
+96
+Part D - CONSOLIDATION INTERACTIONS
+100
+Assets of a joining entity previously depreciated under temporary full expensing, backing business investment or instant asset write-off
+102
+Example 9 - joining entity has an asset previously subject to temporary full expensing and another asset subject to the usual depreciation rules
+103
+Access to temporary full expensing for assets of a joining entity
+107
+Joining entity's assets are acquired by the head company for depreciation purposes
+107
+Where the joining time occurs during the relevant period
+110
+Joining entity's assets are second-hand assets in the head company's hands
+111
+Example 10 - head company has an aggregated turnover of less than $50 million
+117
+How the alternative income test applies to a head company
+121
+Part E - INTERACTION OF TEMPORARY FULL EXPENSING WITH THE INSTANT ASSET WRITE-OFF, BACKING BUSINESS INVESTMENT AND THE R&D TAX OFFSET
+125
+Instant asset write-off
+127
+Enhancement of instant asset write-off
+129
+Backing business investment
+130
+Example 11 - application of temporary full expensing, instant asset write-off and backing business investment in the 2020-21 income year
+137
+R&D tax offset
+138
+Part F - SMALL BUSINESS ENTITIES
+140
+Small business entities choosing simplified depreciation
+141
+Eligible entities
+143
+Eligible assets
+144
+Applying temporary full expensing under simplied depreciation rules
+149
+Small business entity example
+151
+Example 12 - small business depreciation deductions in the 2020-21 income year
+152
+Small business entities not using simplified depreciation
+154
+Example 13 - small business entity not using simplified depreciation
+156
+Part G - INTEGRITY ISSUES
+160
+Relying on this Ruling
+This publication is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Ruling applies to you, and you correctly rely on it in good faith, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+What this Ruling is about
+1. This Ruling is about provisions for temporary full expensing of depreciating assets introduced by the
+Treasury Laws Amendment (A Tax Plan for the COVID-19 Economic Recovery) Act 2020
+and the
+Treasury Laws Amendment (2020 Measures No.6) Act 2020
+(the JobMaker tax plan legislation).
+2. Temporary full expensing (referred to as 'TFE' in this Ruling) means the immediate write-off of the cost of depreciating assets and relevant additional expenditure in accordance with the rules in:
+•
+Subdivision 40-BB of the
+Income Tax (Transitional Provisions) Act 1997
+(IT(TP)A), applicable to business entities generally, and
+•
+section 328-181 of the IT(TP)A which modifies the operation of rules in Subdivision 328-D of the
+Income Tax Assessment Act 1997
+(ITAA 1997), applicable to small business entities choosing simplified depreciation.
+3. Before TFE was introduced, instant asset write-off (IAWO)
+[1]
+and backing business investment (BBI)
+[2]
+measures were enacted during 2020 to enhance immediate write-off and provide accelerated depreciation for eligible assets respectively. For the assets to which it applies, TFE effectively enlarges the scope of the IAWO by not stipulating a maximum cost of assets and by extending eligibility to large business entities.
+[3]
+4. This Ruling:
+•
+outlines the operation of TFE
+•
+provides views on interpretive issues
+•
+explains the interaction of TFE with IAWO and BBI, and
+•
+explains and illustrates how TFE applies to small business entities.
+5. Specifically, Parts A, B and C of this Ruling deal with the general TFE rules under Subdivision 40-BB of the IT(TP)A. Part D of this Ruling covers issues relating to the interaction of Subdivision 40-BB of the IT(TP)A with tax consolidation rules under Part 3-90 of the ITAA 1997. Part E of this Ruling covers interactions between TFE under Subdivision 40-BB of the IT(TP)A, IAWO under section 40-82 of the ITAA 1997 and BBI under Subdivision 40-BA of the IT(TP)A. Part E of this Ruling also outlines the relevance of TFE for the notional decline in value deduction under the R&D tax offset rules in Division 355 of the ITAA 1997.
+6. The final two parts of this Ruling are:
+•
+Part F, which outlines the TFE rules as they relate specifically to small business entities (focusing mainly on small business entities using the simplified depreciation rules of Subdivision 328-D of the ITAA 1997), and
+•
+Part G, which identifies the potential for general integrity rules to apply to arrangements entered into with a relevant purpose of obtaining TFE and related tax benefits.
+7. This Ruling does not cover other measures introduced by the JobMaker tax plan legislation, such as loss carry-back and changes to the research and development (R&D) tax incentive, although guidance on issues relating to those measures may be provided through separate rulings or other advice products. Additional guidance on TFE may also be provided as new interpretive issues emerge.
+Date of effect
+8. This Ruling is effective from both before and after its date of issue, having regard to relevant application dates of the JobMaker tax plan legislation.
+Ruling
+9. The TFE rules introduced by the JobMaker tax plan legislation have a formal commencement date of 1 January 2021. However, the critical application date for taxpayers is 2020 Budget Time.
+[4]
+The TFE rules apply to assets first held at or after this date, and the formal commencement date does not limit this application or otherwise modify the timing aspects of the TFE rules.
+10. For entities other than small business entities using simplified depreciation, TFE is accessed through Subdivision 40-BB of the IT(TP)A. This Subdivision provides for full expensing of eligible depreciating assets that eligible entities start to hold at or after 2020 Budget Time.
+[5]
+It also provides for full expensing of eligible second element costs incurred after that time.
+[6]
+11. For small business entities using the simplified depreciation rules in Subdivision 328-D of the ITAA 1997, TFE is provided through modifications to those rules by section 328-181 of the IT(TP)A. As well as providing for full expensing of first and second element costs, these rules also provide for full expensing of general small business pools.
+12. For all entities, full expensing is only temporary. An eligible entity will need to start holding the depreciating asset and start to use the asset, or have it installed ready for use, for a taxable purpose on or before 30 June 2022.
+[7]
+Second element costs will also need to be incurred by that date
+[8]
+, and TFE for general small business pools applies only in relation to income years ending at or after 2020 Budget Time and no later than 30 June 2022.
+[9]
+As part of the 2021-22 Budget, TFE is to be extended for another year. However, the announced measure is not yet law. ATO guidance content will be updated to reflect this extension when it becomes law.
+13. As indicated in paragraph 5 of this Ruling, Parts A, B and C of this Ruling deal with the general TFE rules under Subdivision 40-BB of the IT(TP)A.
+[10]
+Part A covers eligible entities, Part B covers eligible assets and Part C outlines the operation of the TFE rules for eligible assets held by eligible entities.
+PART A - ELIGIBLE ENTITIES
+14. An entity will be eligible for TFE if it:
+•
+satisfies a test based on aggregated turnover, referred to in this Ruling as the eligible entity test
+[11]
+, or
+•
+is a corporate tax entity and satisfies a test based on total income, referred to in this Ruling as the alternative income test.
+[12]
+Eligible entity test
+15. Under the eligible entity test, an entity must satisfy the definition of 'small business entity' in Subdivision 328-C of the ITAA 1997 to be eligible for TFE for an income year, or satisfy it on the basis that each reference to $10 million in Subdivision 328-C of the ITAA 1997 (about aggregated turnover) was instead a reference to $5 billion.
+16. This requirement means that an entity will need to carry on business in the income year and determine that its aggregated turnover is under the $5 billion threshold in accordance with the provisions of Subdivision 328-C of the ITAA 1997.
+Carrying on a business
+17. Whether the conduct of an entity amounts to carrying on a business depends on facts and circumstances.
+[13]
+The indicators of whether an entity or persons are carrying on a business are well-established and outlined in Taxation Ruling TR 97/11
+Income tax: am I carrying on a business of primary production?
+18. For companies, the ATO has published guidance in Taxation Ruling TR 2019/1
+Income tax: when does a company carry on a business?
+In line with that guidance, companies ordinarily will be considered to carry on business if they are established and maintained to make a profit for shareholders and invest assets in gainful activities that have both a purpose and prospect of profit. This will be so even if activities are relatively limited and consist of the passive receipt of returns on investments for distribution to shareholders.
+19. Accordingly, company beneficiaries in regular receipt of trust distributions who reinvest those distributions for the benefit of shareholders will ordinarily carry on business.
+[14]
+In rare cases, a company that is a mere object of a discretionary trust may conduct no activities of a commercial character and have no purpose or prospect of profit, in which case it may be concluded that no business is being carried on.
+20. The absence of a purpose of profit-making for the benefit of shareholders will ordinarily count against a conclusion that a non-profit company is carrying on business. However, there may be circumstances in which such a company conducts substantial commercial activities for the purpose of profit-making to fund charitable or other objectives of the company. Depending on the nature and scale of the activities, this may amount to carrying on a business.
+21. For the purposes of the carrying on business condition, an entity will be taken to be carrying on business in an income year if a business previously carried on was being wound up in that year and the entity meets the eligible entity test for the income year in which the business ceased.
+[15]
+Aggregated turnover
+22. An entity that carries on business will be eligible for TFE if its aggregated turnover, worked out under Subdivision 328-C of the ITAA 1997, is under the $5 billion threshold. To satisfy this condition for an income year (current year), the aggregated turnover must be less than $5 billion for the previous year or likely to be less than the threshold for the current year.
+[16]
+23. In working out likely aggregated turnover for the current year, the determination is made at the commencement of the current year or at the date the entity first carried on business during the current year.
+[17]
+If the condition would be satisfied on this basis only, it is taken not to be satisfied if the aggregated turnover for the two previous years exceeds the threshold.
+[18]
+However, the condition may still be met for the current year if aggregated turnover, worked out as at the end of the current year, is under the threshold.
+[19]
+24. Further information on aggregated turnover for the purposes of TFE, and various other measures
+[20]
+, is provided in other guidance material published by the ATO.
+Alternative income test
+25. An alternative test for eligibility that may be satisfied instead of the eligible entity test is contained in section 40-157 of the IT(TP)A (alternative income test). The alternative income test is only available to corporate tax entities, which can include the head company of a consolidated group (or provisional head company of a multiple entry consolidated (MEC) group). Two conditions must be satisfied to pass the alternative income test.
+26. The first condition is that:
+•
+the sum of the ordinary income and statutory income of the corporate tax entity for the 201
+8-19
+income year is less than $5 billion
+[21]
+, or
+•
+if the 201
+9-20
+income year ends on or before 6 October 2020, the sum of the ordinary income and statutory income of the corporate tax entity for that income year is less than $5 billion.
+[22]
+27. Ordinary or statutory income that is exempt from tax is included in the calculations of income for the purposes of the first condition, but non-assessable non-exempt income is excluded.
+[23]
+28. The second condition is a requirement that tangible depreciating assets were held and first used (or installed ready for use) by the corporate tax entity during one or more of the 201
+6-17,
+201
+7-18
+or 201
+8-19
+income years (qualifying income years), and that the total cost of these assets exceeded $100 million.
+[24]
+29. An asset is not included for the purpose of meeting this condition if, at the time it was first used, or installed ready for use, for a taxable purpose:
+•
+it was not reasonable to conclude that the corporate tax entity would use the asset principally in Australia for the principal purpose of carrying on a business, or
+•
+it was reasonable to conclude that the asset would never be located in Australia.
+[25]
+30. The exclusion of assets based on use is concerned with both place and purpose of use. This means that a positive conclusion about principal use in Australia will not be sufficient to avoid exclusion of an asset if it was not reasonable to conclude that it would be used for the principal purpose of carrying on business.
+31. For the purpose of working out the cost of a tangible depreciating asset under the second condition, any second element costs are only taken into account if they are incurred in the income year the relevant asset is first used, or installed ready for use, for a taxable purpose.
+[26]
+Accordingly, second element costs incurred in subsequent income years are not taken into account irrespective of whether the year of first use (or installation for use) for a taxable purpose is a qualifying income year.
+Example 1 - costs of tangible depreciating assets for the purpose of the second condition
+32.
+A company seeks to establish eligibility for TFE using the alternative income test. It is determined that the first condition (income less than $5 billion) is satisfied for the 2018-19 income year. The company acquired Asset A in the 2015-16 income year for $2 million and incurred a cost of $400,000 to improve the performance of the asset in the 2016-17 income year. The company acquired Asset B in the 2016-17 income year for $5 million and incurred improvement costs of $500,000 for the asset during the same income year. The company incurred a further cost of $200,000 in respect of Asset B during the 2017-18 income year. Both assets were used by the company for a taxable purpose immediately after they were acquired.
+33.
+For the purposes of the second condition, the company cannot take into account the first element of cost for Asset A ($2 million) because it was held and first used for a taxable purpose during a non-qualifying income year (2015-16). It also cannot take into account the second element of cost ($400,000) because the cost was incurred in an income year after the company started to use Asset A for a taxable purpose.
+34.
+However, the company can take into account the first element of cost for Asset B ($5 million) because it was incurred in a qualifying year (2016-17), as well as the second element cost of $500,000 incurred in the same year. The company cannot take into account the further second element cost of $200,000 for Asset B incurred during the 2017-18 year because it was incurred in an income year after the company started to use Asset B for a taxable purpose.
+35. An amendment to section 40-157 of the IT(TP)A
+[27]
+has enabled capital works expenditure (that was deductible under Division 43 of the ITAA 1997) to be included in depreciating asset cost calculations for the purposes of meeting the second condition. Before the amendment, if an element of the cost of a depreciating asset could be deducted under Division 43 of the ITAA 1997, the amount would not count as a cost of the asset. The amendment clarifies that the following provisions are disregarded for the purposes of the second condition:
+•
+subsection 40-45(2) of the ITAA 1997 (the provision stipulating that Division 40 of the ITAA 1997 does not apply to capital works), and
+•
+section 40-215 of the ITAA 1997 (the provision stipulating that depreciating asset costs are reduced by any portion that is deductible outside of Divisions 40, 41 or 328 of the ITAA 1997).
+Part B - ELIGIBLE ASSETS
+36. TFE applies to depreciating assets, but not all depreciating assets are eligible. Assets may be excluded based on:
+•
+when they were first held or used for a taxable purpose
+•
+specific exclusions under section 40-150 of the IT(TP)A (there are separate specific exclusions for small business entities using simplified depreciation which are dealt with in Part F of this Ruling)
+•
+specific exclusions for entities with an aggregated turnover of $50 million or more, including the exclusion for second-hand assets (see paragraphs 50 to 67 of this Ruling)
+•
+specific exclusions applicable to entities using the alternative income test, including the exclusion for intangible assets (see paragraphs 68 to 70 of this Ruling)
+•
+the occurrence of a balancing adjustment event in respect of an asset (see paragraph 91 of this Ruling for the effect of a balancing adjustment event).
+Time of first holding and first use for a taxable purpose
+37. To claim TFE for an asset in respect of its first element of cost
+[28]
+, an entity must first hold the asset at or after 2020 Budget Time and by no later than 30 June 2022.
+[29]
+Assets first held by the entity before 2020 Budget Time will not be eligible for TFE in respect of their first element costs. However, the assets may be eligible for other write-off incentives depending on when they were first held and used for a taxable purpose, and their cost (refer to Part E of this Ruling).
+38. For assets first held by an entity before 2020 Budget Time, TFE may be claimed by the entity for second element costs (such as the cost of improvements to the assets) incurred from 2020 Budget Time until 30 June 2022.
+[30]
+39. In any case, to claim TFE in respect of first or second elements of cost, the asset must also commence use, or be installed ready for use, for a taxable purpose by no later than 30 June 2022.
+[31]
+Exclusions under section 40-150 of the IT(TP)A
+40. Even if the time of first holding and first use requirements are met, there are specific exclusions (in respect of both first and second element costs) under section 40-150 of the IT(TP)A for assets:
+•
+covered by section 40-45 of the ITAA 1997
+[32]
+•
+without the relevant connection to Australia and carrying on business
+[33]
+•
+whose decline in value is worked out under Subdivisions 40-E or 40-F of the ITAA 1997.
+[34]
+Assets covered by section 40-45 of the ITAA 1997
+41. Assets to which the general capital allowance rules of Division 40 of the ITAA 1997 do not apply because of section 40-45 are also excluded for the purposes of TFE. Broadly described, these assets are:
+•
+certain work-related items for purposes of fringe benefits tax law where the relevant benefit provided by the employer is an expense payment benefit or a property benefit
+[35]
+•
+capital works for which amounts can be deducted under Division 43 of the ITAA 1997 (or would be deductible but for timing of expenditure or use of capital works)
+[36]
+•
+depreciating assets for which deductions were available under former provisions of the income tax law relating to Australian films.
+[37]
+Assets without the relevant connection to Australia and carrying on a business
+42. An asset that might otherwise be eligible for TFE is also excluded if, at the time the entity first uses the asset, or has it installed ready for use, for a taxable purpose:
+(a)
+it is not reasonable to conclude that the entity will use the asset principally in Australia for the principal purpose of carrying on a business
+[38]
+, or
+(b)
+it is reasonable to conclude that the asset will never be located in Australia.
+[39]
+43. The exclusion in paragraph 42(a) of this Ruling is concerned with both place and purpose of use. This means that a positive conclusion about principal use in Australia will not be sufficient to avoid exclusion of an asset if it is not reasonable to conclude that the asset will be used for the principal purpose of carrying on business.
+44. This principal use requirement is not determined through an ongoing comparison of periods during which the asset is used in Australia in carrying on business and periods when it is not. Whether or not the asset is excluded from TFE is determined by reference to the time of first use or installation of the asset for a taxable purpose and the reasonable conclusion drawn at that time. Accordingly, if an asset is used at that time in carrying on business in another country, it is unlikely that a reasonable conclusion would be drawn that the asset will be used principally in Australia in the absence of strong objective evidence to the contrary.
+[40]
+45. In some cases, subsequent events and circumstances may cast light on the reasonableness of a conclusion to be drawn from circumstances existing at the time of first use for a taxable purpose. For example, insubstantial use of asset for only a short time in carrying on business in Australia before it is used in the conduct of an overseas business activity may support a view that it was not objectively reasonable, at the time of first use for a taxable purpose, to conclude that the asset would be used principally in Australia.
+46. On the other hand, if it was reasonable to conclude at the relevant time that the entity would use the asset principally in Australia for the principal purpose of carrying on business, a subsequent change in the place or nature of use would not affect the entitlement to TFE. However, it should be noted that a balancing adjustment event may arise from such a change.
+[41]
+Assets covered by Subdivisions 40-E and 40-F of the ITAA 1997
+47. Assets covered by Subdivision 40-E of the ITAA 1997 are low-cost (less than $1,000) assets whose decline in value is worked out through a low-value pool. Allocation of a low-cost asset to a low-value pool is by choice but, once an entity has made the choice, it must allocate all low-cost assets it starts to hold in that income year or in later income years to the pool.
+[42]
+Accordingly, if an entity has made a choice in an earlier year to allocate an asset to a low-value pool, all of the low-cost assets it acquires after 2020 Budget Time will be ineligible for TFE and must have their decline in value determined through the low-value pool.
+[43]
+48. Also covered by Subdivision 40-E of the ITAA 1997 is in-house software on which development expenditure is incurred and allocated to a software development pool. If an entity has chosen to create a software development pool for this kind of expenditure in an income year, that choice is irrevocable and all future expenditure of this nature in relation to in-house software development projects must be allocated to a software development pool.
+[44]
+For this purpose, separate software development pools are created for each income year in which this kind of expenditure is incurred. Accordingly, if a choice has been made in an earlier year to use the pooling option rather than recognise depreciating assets, this will preclude the application of decline in value rules, including TFE, to any in-house software asset on which development expenditure had been incurred after creation of the original pool.
+49. Primary production assets for which amounts can be deducted under Subdivision 40-F of the ITAA 1997 are also ineligible for TFE. Subdivision 40-F of the ITAA 1997 applies to a depreciating asset that is a water facility, horticultural plant, fodder storage asset or a fencing asset.
+[45]
+Exclusions for entities with an aggregated turnover of $50 million or more
+50. Additional exclusions from TFE apply if an eligible entity would not have satisfied the eligible entity test if the reference to $5 billion in that test were instead a reference to $50 million.
+[46]
+However, this category of exclusions will not apply if TFE relates only to second element costs in respect of an asset.
+Commitments entered into before 2020 Budget Time
+51. The first exclusion for entities with an aggregated turnover of $50 million or more relates to pre-existing commitments in respect of assets that entities start to hold at or after 2020 Budget Time. An asset will be ineligible under this exclusion if, before 2020 Budget Time, the entity
+[47]
+:
+(a)
+entered into a contract under which it would hold the asset
+(b)
+started to construct the asset, or
+(c)
+started to hold the asset in some other way.
+[48]
+52. For the circumstance in paragraph 51(a) of this Ruling, an entity is not taken to have entered into a contract under which it would hold an asset merely because it acquires an option to enter into such a contract.
+[49]
+However, an entity will not be considered to have merely acquired an option to enter into such a contract if it has an option to delay construction of an asset in a contract under which it has agreed to purchase the asset.
+[50]
+53. In more complex contracts providing for the acquisition of multiple depreciating assets, potentially as part of a larger construction project progressing in stages, it will be important to identify relevant eligible Division 40 (of the ITAA 1997) assets that the entity would hold in accordance with the contract. Where completion of such a contract is conditional upon satisfactory completion of other stages of work or upon satisfaction of other matters, the contract would still be one under which the entity would hold the relevant assets.
+54. Where an entity commissions the construction of an asset under contract, the date of contract would ordinarily be the relevant commitment time in terms of paragraphs 51(a) or (b) of this Ruling. For the purposes of the circumstance in paragraph 51(b) of this Ruling, where an entity itself constructs an asset it will hold, it will be taken to have started to construct the asset when it first incurs expenditure in respect of the asset's construction (if it has not otherwise started to construct the asset by that time).
+[51]
+The expression 'in respect of' enlarges the scope of relevant expenditure beyond the physical construction of the asset to include, for example, expenditure preliminary to actual construction.
+55. However, the context of the expression is a provision that restricts TFE (for entities of a certain size) to new asset investment where there was no commitment to make such investment prior to 2020 Budget Time. This context suggests that only expenditure that is consistent with a commitment to proceed with construction of relevant assets should be covered by the expression. Whether expenditure evidences a commitment to start construction depends on the facts and circumstances of individual cases.
+[52]
+56. For the purpose of the circumstance in paragraph 51(b) of this Ruling, it is considered that expenditure in respect of an asset's 'construction' would cover expenditure on the development of in-house software that the entity would start to hold after 2020 Budget Time. This would only be relevant in cases where an entity has not elected to pool expenditure of this kind for depreciation purposes.This aligns with the treatment of tangible depreciating assets where expenditure is incurred before 2020 Budget Time that evidences a commitment to invest in such assets.
+57. An example of the circumstance in paragraph 51(c) of this Ruling is an asset held by an entity as trading stock before 2020 Budget Time that becomes a depreciating asset held by the entity after that time. The entity is treated as having sold the item of trading stock to someone else (just before the time at which it becomes a depreciating asset) for its cost, and immediately bought it back for the same amount. That amount would be assessable income and would also be relevant to working out the item's cost for capital allowance purposes. Although the entity would start to hold a depreciating asset after 2020 Budget Time, it would not be eligible for TFE because of the circumstance in paragraph 51(c) of this Ruling (it had started to hold the asset 'in some other way' before 2020 Budget Time).
+58. The pre-existing commitments exclusion can also apply if any of the relevant circumstances in paragraph 51 of this Ruling occurred on a day before 6 October 2020 and there is subsequent conduct by the entity on or after that date that results in the entity:
+•
+entering into a contract under which it holds an asset on the day of the relevant conduct, or will hold the asset on a later day
+•
+starting to construct an asset, or
+•
+starting to hold an asset in some other way.
+59. The asset referred to in paragraph 58 of this Ruling is the asset to which any of the relevant circumstances applied before 6 October 2020, or an identical or substantially similar asset. If the entity engaged in the relevant conduct for the purpose, or for purposes that include the purpose, of satisfying the holding time requirement for TFE, then the asset will be excluded from TFE.
+[53]
+There is no requirement that the purpose should be the dominant, principal or more than incidental purpose.
+60. This additional element of the pre-existing commitments exclusion counters arrangements purporting to 'refresh' the holding of assets (for example, through renegotiated contracts in respect of the same or similar assets) in order to meet the holding time requirement for TFE. If conduct is engaged in for purposes including that purpose, then the assets are excluded.
+Second-hand assets
+61. The second exclusion for entities with an aggregated turnover of $50 million or more relates to second-hand assets. The main case to which this exclusion applies is where another entity held the asset when it was first used, or first installed ready for use, other than as trading stock or merely for the purposes of reasonable testing or trialling.
+[54]
+In this case, entities covered by this exclusion will not be able to claim TFE in the income year they first hold the asset for a taxable purpose, even if it is acquired after 2020 Budget Time.
+62. For entities with an aggregated turnover of less than $50 million, TFE may apply in respect of second-hand assets, including assets acquired from an associate. The rules in subsections 40-65(2) and 40-95(4) of the ITAA 1997 (about depreciation methods that must be used when an asset is acquired from an associate) will not apply to override the application of TFE or IAWO under section 40-82 of the ITAA 1997.
+63. Although subsection 40-65(2) of the ITAA 1997 expressly provides that the acquirer of an asset from an associate must use the same decline in value method as was used by the associate, this provision operates as a qualification to the choice between prime cost and diminishing value methods under subsection 40-65(1) of the ITAA 1997. These methods are not relevant in the context of an immediate write-off provision, as indicated by Note 3 to subsection 40-65(1) of the ITAA 1997. However, as stated in Part G of this Ruling, it can be expected that the ATO will scrutinise certain arrangements under which immediate write-off is obtained for assets acquired from associates.
+64. Apart from the main case in which second-hand assets are excluded from TFE for entities with an aggregated turnover of $50 million or more, there are other specific circumstances to which the second-hand asset exclusion applies for those entities.
+Splitting and merging depreciating assets
+65. Under section 40-115 of the ITAA 1997, the holder of an asset that is split into two or more assets is treated as if they had stopped holding the original asset and started holding the new assets into which it is split. Similarly, under section 40-125 of the ITAA 1997, the holder of a depreciating asset that is merged into another depreciating asset is treated as if they had stopped holding the original asset and started holding the merged asset. In these cases, the second-hand exclusion applies to the new asset the holder starts to hold under these provisions.
+[55]
+Leaving a consolidated group
+66. An entity may start to hold depreciating assets by reason of leaving the consolidated or MEC group of which it had been a member. The second-hand asset exclusion will apply to these assets if the head company of the group had satisfied the holding test (that is, it started to hold the assets at or after 2020 Budget Time) when the entity was a member of the group.
+[56]
+For assets first held by the head company before 2020 Budget Time, the leaving entity will not meet the holding requirement under paragraph 40-160(1)(a) of the IT(TP)A in any event as a result of the exit history rule.
+[57]
+Licence relating to an intangible asset
+67. The second-hand asset exclusion will also apply to a licence relating to an intangible asset if the intangible asset itself is subject to a second-hand asset exclusion. However, the intangible asset will not be excluded for an entity under the main case exclusion in paragraph 61 of this Ruling unless the asset was used for the purpose of producing ordinary income before the entity first used it, or had it installed ready for use, for any purpose. Ordinary income, in this context, will not include ordinary income that arises as a result of the disposal of the asset to the entity.
+[58]
+Exclusions for entities using the alternative income test for eligibility
+68. If an entity is eligible for TFE only by reason of the alternative income test, all the asset exclusions referred to in the previous paragraphs of Part B of this Ruling will apply. In addition, there are exclusions under section 40-167 of the IT(TP)A for each of:
+•
+an intangible asset
+•
+an asset held previously by an associate of the entity
+•
+an asset available for use, at any time in the income year, by an associate of the entity or by an entity that is a foreign resident.
+69. The category of 'assets held previously by an associate'
+[59]
+is not limited to assets that have been held by the associate as depreciating assets. For example, it may include assets held as trading stock. In this regard, there is no limitation on how an asset is held in section 40-167 of the IT(TP)A, unlike subsection 40-165(7) of the IT(TP)A (which provides an exception to the second-hand asset exclusion for assets previously held as trading stock).
+70. The exclusion for assets available for use by an associate or a foreign resident
+[60]
+covers circumstances where an asset held by the eligible entity is made available for use by the associate or foreign resident during the income year. It does not cover the case where an associate or foreign resident was able to 'use' the asset as holder of the asset during the income year before it was acquired by the eligible entity from the associate or foreign resident. To read the provision otherwise would effectively extend the exclusion for assets held previously by associates to include unrelated foreign residents. An asset is not excluded from eligibility merely because it has been acquired from a foreign resident (that is not an associate) during the income year.
+Part C - FULL EXPENSING
+71. Part C of this Ruling explains the rules for full expensing of eligible assets by eligible entities under Subdivision 40-BB of the IT(TP)A, including the choice to not apply TFE. The full expensing rules for small business entities electing to use simplified depreciation are explained in Part F of this Ruling.
+Full expensing of eligible assets
+72. If an eligible entity starts to hold an eligible asset between 2020 Budget Time and 30 June 2022, and starts to use
+[61]
+the asset for a taxable purpose in that period, the decline in value under TFE for the income year in which the entity starts to use the asset for a taxable purpose will be the asset's cost as at the end of that income year.
+[62]
+73. 'Cost' for this purpose is determined in accordance with the rules in Subdivision 40-C of the ITAA 1997. This means that adjusting provisions under those rules, such as the car limit under section 40-230 of the ITAA 1997, will be relevant to determine the cost of an asset for TFE purposes. The entity can only deduct the taxable use portion of that cost because of subsection 40-25(2) of the ITAA 1997 which reduces a deduction by the portion of the decline in value attributable to use for a purpose other than a taxable purpose.
+74. An exception to 'cost' as the basis for determining decline in value under TFE applies if the asset had been used, or installed ready for use, by the entity for non-taxable purposes only in the year before it is first used for a taxable purpose.
+[63]
+In this case, the decline in value of the asset under TFE will be its opening adjustable value for the subsequent year and any amount included in second element cost for that year (not counting any amount included in the asset's cost after 30 June 2022).
+[64]
+Example 2 - first use of asset in current year
+75.
+An eligible entity (a 30 June balancing entity) acquires an eligible asset for $500,000 on 22 February 2021. It uses the asset for a taxable purpose immediately. Further expenses ($50,000) are incurred on 31 March 2021 to improve the performance of the asset in the business of the entity. Under TFE, the decline in value of the asset for the 2020-21 income year is $550,000. The entity will be able to deduct the taxable use proportion of that decline in value for the 2020-21 income year.
+Example 3 - first use of asset in earlier year
+76.
+An eligible entity (a 30 June balancing entity) acquires an eligible asset for $500,000 on 22 February 2021. It immediately uses the asset for a non-taxable purpose until 2 August 2021, when it commences using it for a taxable purpose. Further expenses ($50,000) to improve the asset are also incurred during the 2021-22 income year. Under TFE, the decline in value of the asset for the 2021-22 income year will be the opening adjustable value for the year (assume $480,000, based on the decline in value for the period from 22 February 2021 to 30 June 2021 applied to the cost of $500,000) plus the amount included in the second element of cost for the 2021-22 income year ($50,000). The entity will deduct the taxable use proportion of the decline in value ($530,000) determined under TFE for the 2021-22 income year.
+Full expensing of eligible second element of cost
+77. TFE may also be available for an income year for second-element costs only. This may be the case when:
+•
+TFE has applied in the income year in which an asset was first used for a taxable purpose and, in the subsequent year, second-element costs are incurred in respect of the asset (and these costs are incurred before 30 June 2022)
+•
+second-element costs are incurred between 2020 Budget Time and 30 June 2022 in respect of an ineligible asset that would have been eligible but for an exclusion covered by the $50 million or more turnover exception (see exclusions in paragraphs 50 to 67 of this Ruling)
+•
+second-element costs are incurred between 2020 Budget Time and 30 June 2022 in respect of an asset that the entity started to hold before 2020 Budget Time.
+78. In any case, the second-element costs must be in respect of an asset that is not excluded from eligibility by section 40-150 of the IT(TP)A (see paragraphs 40 to 49 of this Ruling) or by the further exclusions that apply if the entity is using the alternative income test to establish eligibility (see paragraphs 68 to 70 of this Ruling).
+79. TFE applies to eligible second-element costs in these cases by calculating decline in value of an asset as the sum of:
+•
+the amount that would be the decline in value of the asset without regard to the eligible second-element costs, and
+•
+the amount of the eligible second-element costs.
+[65]
+Example 4 - second-element costs in later year
+80.
+An eligible entity (a 30 June balancing entity) acquires an eligible asset for $500,000 on 22 February 2021. It uses the asset for a taxable purpose immediately. Further expenses ($50,000) are incurred on 31 August 2021 to improve the performance of the asset in the business of the entity. Under TFE, the decline in value of the asset for the 2020-21 income year is $500,000. The entity will be able to deduct the taxable use proportion of that decline in value in the 2020-21 income year. For the 2021-22 income year, the decline in value of the asset is calculated as the sum of its decline in value without regard to the second element costs incurred on 31 August 2021 (nil), and the amount of those eligible second element costs ($50,000). The decline in value under TFE for 2021-22 is therefore $50,000 and the entity will be able to deduct the taxable use proportion of that amount.
+Example 5 - second-element costs and excluded assets
+81.
+A company (a 30 June balancing entity) acquires a second-hand asset from an unrelated party on 1 December 2020 for $500,000 and an asset from an associate on 8 March 2021 for $300,000. The company incurs second-element costs in respect of both assets before 30 June 2021 ($50,000 for the second-hand asset and $30,000 for the asset acquired from the associate). The company is an eligible entity for TFE only because it satisfies the alternative income test.
+82.
+Assuming the second-hand asset is an otherwise eligible asset, the company will be able to apply TFE to its second-element costs ($50,000). However, it cannot apply TFE to the first element of cost ($500,000) because the asset exclusions for entities with a turnover of $50 million or more also apply to companies satisfying the alternative income test. The company will therefore determine decline in value of the asset for the 2020-21 income year as the sum of the decline in value under the usual Division 40 of the ITAA 1997 rules
+[66]
+(without regard to the second-element costs) plus the second-element costs of $50,000.
+83.
+The company will not be able to apply TFE to either the first-element cost ($300,000) or second-element cost ($30,000) of the asset acquired from the associate because assets previously held by associates are excluded from TFE generally for entities that are eligible only on the basis of satisfying the alternative income test.
+[67]
+Example 6 - second-element costs for assets first held before 2020 Budget Time
+84.
+An entity with an aggregated turnover of $250 million for the purposes of the eligible entity test (a 30 June balancing entity) acquired a new asset for $500,000 on 1 September 2020. It started to use the asset for a taxable purpose immediately. Further expenses ($50,000) were incurred on 31 March 2021 to improve the performance of the asset in the business of the entity. Except for its acquisition before 2020 Budget Time, the asset would be an eligible asset for TFE.
+85.
+TFE will not be applicable to the first-element cost of the asset. However, TFE will apply to the second-element costs of $50,000. For the first element of cost, the entity will not be eligible for IAWO because the cost exceeded the $150,000 threshold applicable at the relevant time. However, BBI may be available for the first element because the entity meets the aggregated turnover threshold for the BBI rules (less than $500 million). In this example, decline in value of the asset would be determined as the sum of the amount resulting from the application of BBI to the cost of the asset (without regard to the second-element costs) plus the amount of the second-element costs to which TFE applies ($50,000).
+[68]
+Choice not to apply temporary full expensing
+86. If Subdivision 40-BB of the IT(TP)A applies to work out the decline in value of a depreciating asset, then no other provision of the IT(TP)A or the ITAA 1997 applies for that purpose.
+[69]
+However, an entity may choose that the decline in value of an asset for an income year is not to be worked out under Subdivision 40-BB of the IT(TP)A.
+[70]
+An entity may make a similar choice for an asset that otherwise would be covered by BBI.
+[71]
+87. This choice in each case must be made in the approved form and cannot be revoked. It must be given to the ATO by the date of lodgment of the tax return for the income year to which the choice relates.
+[72]
+88. It should be noted that the opt-out choice relates to the application of TFE in respect of an asset for a particular income year. If an entity chooses not to apply TFE under Subdvision 40-BB of the IT(TP)A for an income year, it is possible that TFE may again apply in a future income year in respect of the same asset (this may happen if second-element costs are incurred before 30 June 2022, as in paragraph 80 of this Ruling). If the entity does not want TFE to apply in that future year in respect of the same asset, a further choice would need to be made for Subdivision 40-BB of the IT(TP)A not to apply for that year by the date of lodgment of the relevant tax return.
+89. If an entity chooses not to apply Subdivision 40-BB of the IT(TP)A in relation to an asset, the asset may be eligible for write-off under other provisions such as IAWO under section 40-82 of the ITAA 1997. For example, if an entity that is a 'medium sized'
+[73]
+business acquires an asset at a cost of less than $150,000 between 2020 Budget Time and 31 December 2020, and starts to use it (or has it installed ready for use) for a taxable purpose before 30 June 2021, the decline in value of the asset will be its full cost. There is no choice to not apply section 40-82 of the ITAA 1997 in these circumstances.
+90. For small business entities that choose to use the simplified depreciation rules of Subdivision 328-D of the ITAA 1997, and therefore apply full expensing under those rules rather than Subdivision 40-BB of the IT(TP)A, there is no choice to not apply full expensing. For further information on small business entities, see Part F of this Ruling.
+Balancing adjustment events
+91. If a balancing adjustment event happens to an asset in the same income year that TFE would otherwise apply to first or second elements of the asset's cost, then TFE does not apply.
+[74]
+If the balancing adjustment event happens in a later income year, TFE will apply, but the usual consequences of a balancing adjustment event under Subdivision 40-D of the ITAA 1997 will also apply in that later year.
+92. There may be little practical difference between the two scenarios if the balancing adjustment event in the later year simply reverses the effect of applying TFE in the earlier year. A more significant difference might arise for the balancing adjustment event under subsection 40-295(2) of the ITAA 1997 (occuring upon a change of partnership interests in a depreciating asset) for which a rollover may apply.
+Example 7 - balancing adjustment event in relation to partnership assets
+93.
+A partnership acquires a new depreciating asset for $300,000 on 1 January 2021 that otherwise qualifies for TFE in the 2020-21 income year.
+•
+On 1 July 2020, a new partner joined the partnership and acquired a 5% interest. While a balancing adjustment event under subsection 40-295(2) of the ITAA 1997 occurs in respect of assets held by the partnership at that time, it does not preclude the partnership from accessing TFE in respect of the asset acquired on 1 January 2021.
+•
+On 1 June 2021, a different partner exits the partnership and disposes of a 5% interest. As this causes a balancing adjustment event to occur in respect of the asset acquired on 1 January 2021, TFE is not available to the partnership, irrespective of whether rollover relief under section 40-340 of the ITAA 1997 is chosen for the balancing adjustment event.
+94.
+If, however, the exiting partner had left the partnership after 30 June 2021 and disposed of a 5% interest, a balancing adjustment event would have occurred in respect of the asset in the later income year. TFE would have remained available to the partnership in the 2020-21 income year and the usual consequences of the balancing adjustment event under Subdivision 40-D of the ITAA 1997 would apply in respect of the 2021-22 income year.
+95. It is to be noted that any non-taxable use of an asset in an income year after the year in which TFE has been claimed will not reduce balancing adjustment amounts under section 40-290 of the ITAA 1997 for balancing adjustment events happening after the TFE claim year.
+Example 8 - no reduction of balancing adjustment amount
+96.
+An entity with a 30 June balance date acquires an asset on 1 February 2021 that is immediately used for a taxable purpose only. From 1 November 2021, the entity starts to use the asset partly for non-taxable purposes (20% private use). A balancing adjustment event then happens in the 2022-23 income year because the entity disposes of the asset. There is no reduction of the balancing adjustment amount for non-taxable use because there was no reduction of the TFE deduction under subsection 40-25(2) of the ITAA 1997 (that is, there was no non-taxable use in the 2020-21 income year).
+97. A further balancing adjustment event has been introduced, relevant only for assets to which TFE has applied. The balancing adjustment event will happen if the decline in value for a depreciating asset is worked out under Subdivision 40-BB of the IT(TP)A and at a time in a later income year:
+•
+it becomes not reasonable to conclude that the entity will use the asset principally in Australia for the principal purpose of carrying on a business, or
+•
+it becomes reasonable to conclude that the asset will never be located in Australia.
+[75]
+98. The first of these two triggers listed in paragraph 97 of this Ruling can happen either because it becomes no longer reasonable to conclude that the entity will use the asset principally in Australia or it becomes no longer reasonable to conclude that the entity will use the asset for the principal purpose of carrying on a business.
+99. This balancing adjustment event does not happen if TFE applies under the simplified depreciation rules of Subdivision 328-D of the ITAA 1997 (as modified by section 328-181 of the IT(TP)A). However, if a small business entity chooses not to apply the simplified depreciation rules for an income year, and TFE applies to an asset under Subdivision 40-BB of the IT(TP)A in that year, the consequences of the further balancing adjustment event happening to the asset in a future year will apply. This will be the case even if the entity has again chosen to apply simplified depreciation for the year in which the event happens.
+Part D - Consolidation interactions
+100. During consolidation, an eligible head company of a consolidated group
+[76]
+will be able to access TFE broadly in the same way as a 'stand-alone' entity for assets acquired by members of the group. Because TFE relates to working out head company deductions
+[77]
+, the single entity rule in section 701-1 of the ITAA 1997 will treat subsidiary members of the consolidated group as part of the head company to determine whether the head company meets the conditions to access TFE. Similarly, the single entity rule will also be relevant to determine whether any of the exclusions apply to the head company.
+101. Specific issues for consolidated groups under TFE include:
+•
+the effect on tax cost setting for assets of a joining entity to which TFE, IAWO or BBI applied prior to the joining time
+•
+how a head company can access TFE for assets of a joining entity, and
+•
+how the alternative income test for entity eligibility applies to a head company.
+Assets of a joining entity previously depreciated under temporary full expensing, backing business investment or instant asset write-off
+102. Where a joining entity becomes a subsidiary member of a consolidated group and, prior to the joining time, the decline in value of a depreciating asset of the joining entity was worked out for Division 40 of the ITAA 1997 purposes under TFE, BBI or IAWO, then subsection 705-45(2) of the ITAA 1997 will apply to the asset. Subsection 705-45(2) of the ITAA 1997 provides that, if the tax cost setting amount for the asset exceeds the terminating value for the asset just before the joining time (that is, in the joining entity's hands), the tax cost setting amount is reduced to that terminating value. Note 2 to subsection 705-45(2) of the ITAA 1997 confirms that the reduction amount is not reallocated to other assets.
+Example 9 - joining entity has an asset previously subject to temporary full expensing and another asset subject to the usual depreciation rules
+103.
+On 1 September 2021, Sub Co becomes a subsidiary member of the Head Co consolidated group. At the joining time, Sub Co has an asset (Asset A) with a market value of $200,000. Asset A was acquired by Sub Co after 2020 Budget Time and Sub Co met the remaining conditions for TFE (such that a deduction for the cost of Asset A was claimed in Sub Co's tax return for the 2020-21 income year). Therefore, just before joining the Head Co consolidated group, the terminating value for Asset A in Sub Co's hands was nil.
+104.
+When
+working
+out the allocation of an allocable cost amount to Sub Co's reset cost base assets, based on the proportionate market values of those assets, the tax cost setting amount for Asset A is worked out to be $200,000. In this example, subsection 705-45(2) of the ITAA 1997 applies because it is a depreciating asset that previously (that is, before the joining time) had its decline in value worked out under TFE. Therefore, as Sub Co's terminating value for Asset A was nil, the tax cost setting amount is reduced to nil and the excess (that is, $200,000) cannot be reallocated.
+105.
+In addition, when Sub Co becomes a subsidiary member of the Head Co consolidated group, it has another depreciating asset (Asset B). Prior to the joining time, all deductions for the decline in value of Asset B had been worked out using the usual depreciation provisions.
+[78]
+106.
+As a result, the tax cost setting amount for Asset B (worked out as $120,000) is not reduced because subsection 705-45(2) of the ITAA 1997 does not apply.
+Access to temporary full expensing for assets of a joining entity
+Joining entity's assets are acquired by the head company for depreciation purposes
+107. The head company of a consolidated group (whose aggregated turnover is under $50 million) can access TFE in respect of a depreciating asset that it starts to hold because a joining entity becomes a subsidiary member of the consolidated group. As illustrated in paragraphs 103 to 106 of this Ruling, if the joining entity had previously worked out the decline in value of the asset under TFE, BBI or IAWO rules, subsection 705-45(2) of the ITAA 1997 will affect the tax cost for the head company.
+[79]
+108. When a joining entity becomes a subsidiary member of a consolidated group, subsection 701-10(4) of the ITAA 1997 provides that the tax cost of each asset
+[80]
+of the joining entity is set at the joining time at the asset's tax cost setting amount.
+109. Section 701-55 of the ITAA 1997 provides the meaning of the expression 'an asset's tax cost is set'. Where any of Subdivisions 40-A to 40-D, sections 40-425 to 40-445 and Subdivisions 328-D and 355-E of the ITAA 1997 is to apply in relation to the asset, paragraph 701-55(2)(a) of the ITAA 1997 provides that the provisions apply as if the asset were acquired at a particular time (the joining time) for a payment equal to its tax cost setting amount.
+Where the joining time occurs during the relevant period
+110. This deemed acquisition will be relevant to the TFE condition in paragraph 40-150(1)(a) of the IT(TP)A that an entity starts to hold an asset on or before 2022.
+[81]
+It will also be relevant to the condition in paragraph 40-160(1)(a) of the IT(TP)A that an entity starts to hold an asset at or after the 2020 Budget Time. Therefore, if the joining time occurs in the period after 2020 Budget Time and on or before 30 June 2022, the effect of paragraph 701-55(2)(a) of the ITAA 1997 is that the head company will meet these conditions.
+[82]
+Joining entity's assets are second-hand assets in the head company's hands
+111. The deemed acquisition will also be relevant and 'trigger' the limitations that apply under subsection 40-165(7) of the IT(TP)A (for second-hand assets) because the deemed acquisition affects the history in relation to the asset that would otherwise be 'inherited' by the head company
+[83]
+under the entry history rule in section 701-5 of the ITAA 1997.
+112. Section 40-25 of the ITAA 1997 provides a deduction for the decline in value (worked out under Division 40 of the ITAA 1997) for an income year of a depreciating asset. Section 40-65 of the ITAA 1997 provides the choice of two methods
+[84]
+for working out the decline in value of such an asset. Note 4 to subsection 40-65(1) of the ITAA 1997 provides that Subdivisions 40-BA and 40-BB of the IT(TP)A may affect the operation of section 40-65 of the ITAA 1997.
+113. Usually, when subsection 701-55(2) of the ITAA 1997 applies to an asset of a joining entity, paragraphs 701-55(2)(b) to (e) of the ITAA 1997 are relevant to determine the decline in value of that asset.
+[85]
+However, where the conditions in subsection 40-150(1) of the IT(TP)A are met (and the exclusions do not apply), then section 40-145 of the IT(TP)A needs to be taken into account. It states:
+If this Subdivision applies to work out the decline in value of a depreciating asset you hold for an income year, no other provision of this Act or the
+Income Tax Assessment Act 1997
+applies to work out that decline in value.
+114. Therefore, if the head company's aggregated turnover is less than $50 million
+[86]
+, the head company will be able to work out the decline in value for the depreciating asset under Subdivision 40-BB of the IT(TP)A, rather than by reference to the conditions in paragraphs 701-55(2)(b) to (e) of the ITAA 1997.
+115. This is because section 40-145 of the IT(TP)A is not confined to provisions within Division 40 of the ITAA 1997.
+[87]
+Rather, it covers any other provision of the ITAA 1997 or IT(TP)A that applies to working out the decline in value. Paragraphs 701-55(2)(b) to (e) of the ITAA 1997 are all relevant to working out the asset's decline in value and therefore, where relevant
+[88]
+, these provisions are 'switched off' by section 40-145 of the IT(TP)A. In contrast, paragraph 701-55(2)(a) of the ITAA 1997 provides the deemed acquisition of the asset, the timing of that acquisition and the relevant cost (that is, the tax cost setting amount) and is therefore relevant to working out if the conditions in subsection 40-150(1) of the IT(TP)A are satisfied and the head company's acquisition cost (for the operation of Subdivision 40-BB of the IT(TP)A).
+116. It should be noted that there is no equivalent provision to section 40-145 of the IT(TP)A within the IAWO rules in section 40-82 of the ITAA 1997. Accordingly, if an entity joined a consolidated group before 2020 Budget Time and the head company was taken to have acquired a depreciating asset for an amount less than the IAWO threshold, paragraphs 701-55(2)(b) to (e) of the ITAA 1997 would nonetheless apply in the usual way. The absence of a priority rule to determine decline in value within section 40-82 of the ITAA 1997 means the application of paragraphs 701-55(2)(b) to (e) of the ITAA 1997 in the context of an entity joining a consolidated group is not displaced.
+Example 10 - head company has an aggregated turnover of less than $50 million
+117.
+Returning to the facts from Example 9 of this Ruling, in addition Head Co has an aggregated turnover of less than $50 million.
+118.
+As a consequence, although Head Co is taken to acquire Assets A and B when Sub Co joins the Head Co consolidated group on 1 September 2021 (such that they are both second-hand assets in Head Co's hands), the TFE exclusion for second-hand assets does not apply to Head Co.
+[89]
+119.
+Therefore, for the 2021-22 income year, Head Co will be eligible to use TFE to work out the deduction for the decline in value of Asset B, based on an acquisition cost of $120,000 (that is, the tax cost setting amount for Asset B).
+120.
+Although Head Co would also have been eligible to use TFE in respect of Asset A, because the tax cost setting amount worked out for Asset A has been reduced to nil (under subsection 705-45(2) of the ITAA 1997), Head Co will not be able to claim a decline in value deduction for Asset A.
+How the alternative income test applies to a head company
+121. To be eligible to apply the alternative income test in section 40-157 of the IT(TP)A, an entity must be a corporate tax entity at any time in the income year.
+[90]
+Section 960-115 of the ITAA 1997 provides that an entity is a corporate tax entity at a particular time if the entity is a company at that time. A head company will meet this requirement because an entity is only eligible to be a head company of a consolidated group if it is a company.
+[91]
+122. The single entity rule will be relevant to work out the amount of the head company's ordinary and statutory income for the purpose of satisfying the first condition of the alternative income test referred to in paragraph 26 of this Ruling. The single entity rule will also be relevant to determine if the head company meets the second condition
+[92]
+of the alternative income test (referred to in paragraph 28 of this Ruling) concerning the cost of tangible depreciable assets that the head company held and had started to use or had installed ready for use for a taxable purpose in relevant years.
+123. A joining entity's 'pre-joining time' acquisition and holding history in relation to tangible depreciable assets is not 'inherited' by the head company through the entry history rule in section 701-5 of the ITAA 1997 for the purposes of the second condition. This is because such history is overridden at the joining time through the operation of the tax cost setting process and subsection 701-55(2) of the ITAA 1997. Note 1 to section 701-5 of the ITAA 1997 refers to such an outcome by identifying that other provisions of Part 3-90 of the ITAA 1997 may affect the tax history that is inherited (and provides the example of an asset's cost base history).
+124. To determine if the second condition of the alternative income test is satisfied, the head company will take into account the cost of each of the tangible depreciable assets that it holds that meets the conditions in subsection 40-157(3) of the IT(TP)A in the relevant income years. If a joining entity becomes a subsidiary member of a consolidated group in one of the income years
+[93]
+, and subsection 701-55(2) of the ITAA 1997 has applied to an asset
+[94]
+because the joining entity has joined the consolidated group, the asset's tax cost setting amount will be the relevant cost for the head company becoming the holder of that asset in the income year for the purposes of subsection 40-157(3) of the IT(TP)A.
+Part E - INTERACTION OF TEMPORARY FULL EXPENSING WITH INSTANT ASSET WRITE-OFF, BACKING BUSINESS INVESTMENT AND THE R&D TAX OFFSET
+125. Part E of this Ruling provides guidance on the interaction of TFE, IAWO and BBI for entities other than small business entities that choose to use simplified depreciation (interaction issues for these entities are covered in Part F of this Ruling). It does not outline the IAWO and BBI rules in detail but, rather, focuses on their interaction with TFE and the resulting practical outcomes for taxpayers. The ATO has also produced an infographic
+[95]
+to show the interactions at a summary level. This Part also explains the relevance of TFE for the notional decline in value deduction under the R&D tax offset provisions of Division 355 of the ITAA 1997.
+126. During 2020, IAWO was enhanced and BBI introduced before TFE was enacted. The measures have different dates of application, asset cost thresholds, and rules for entity and asset eligibility. As a result, all may potentially apply in an income year to an entity in respect of its asset acquisitions.
+Instant asset write-off
+127. Applicable to assets first acquired at or after the relevant time
+[96]
+on 2 April 2019, IAWO under section 40-82 of the ITAA 1997 extended immediate write-off rules that previously had only applied to small business entities using simplified depreciation. Section 40-82 of the ITAA 1997 initially applied to entities with an aggregated turnover of $10 million or more but less than $50 million, and provided access to IAWO for depreciating assets covered by Division 40 of the ITAA 1997 with a cost of less than $30,000.
+128. An eligible asset had to be first acquired after the relevant time on 2 April 2019 and before 12 March 2020. It also had to be first used, or installed ready for use, for a taxable purpose before 12 March 2020. The IAWO applied in the income year the asset was first used, or installed ready for use, for a taxable purpose.
+Enhancement of instant asset write-off
+129. During 2020, the law was amended to raise the cost threshold for assets covered by IAWO to $150,000 and extend eligibility to entities with an aggregated turnover of $10 million or more but less than $500 million. The changes applied to assets first acquired at or after the relevant time on 2 April 2019 and on or before 31 December 2020, and which an entity started to use, or had installed ready for use, for a taxable purpose on or after 12 March 2020 and on or before 30 June 2021.
+Backing business investment
+130. At the time IAWO was enhanced, BBI was introduced through Subdivision 40-BA of the IT(TP)A for assets with a cost of $150,000 or more
+[97]
+, or where IAWO was otherwise not available. It applies if an entity starts to hold an asset and starts to use it (or has it installed ready for use) for a taxable purpose in the period between 12 March 2020 and 30 June 2021.
+[98]
+131. BBI provides an entitlement to determine decline in value as 50% of the cost of an eligible asset in the year of first holding and use for a taxable purpose. Furthermore, an additional decline in value of the asset could be determined in that year, and in subsequent years, based on the effective life rules of Division 40 of the ITAA 1997.
+[99]
+132. Entities are eligible for BBI using the same $500 million aggregated turnover threshold as under the enhanced IAWO, except that entities with an aggregated turnover of up to $10 million are also eligible.
+[100]
+133. Eligible assets are broadly the same as under IAWO. However, there are the following exclusions
+[101]
+:
+•
+second-hand assets and commitments entered into before 12 March 2020 (similar to the TFE exclusions in paragraphs 50 to 67 of this Ruling except that there is no $50 million aggregated turnover threshold limiting the application of these exclusions), and
+•
+assets without the relevant connection to business carried on in Australia (similar to the TFE exclusions described in paragraph 42 of this Ruling)
+134. There is an entitlement to opt out of BBI on an asset-by-asset basis in the same way as under TFE.
+[102]
+This is in contrast to IAWO which provides no entitlement to opt out where it applies. Unlike opt out under TFE, which applies to an asset in relation to a particular income year only, the opt out under BBI applies to an asset for the first year for which the choice is made and all subsequent years. The choice cannot be revoked and must be given to the ATO in the approved form by the date of lodgment of the income tax return for the first income year to which the choice relates.
+[103]
+135. Small business entities using simplified depreciation apply BBI in a different way without the ability to opt out (see Part F of this Ruling).
+136. Example 11 of this Ruling illustrates the interaction of these measures with TFE for a 30 June balancing entity with an aggregated turnover of $100 million for the 2020-21 income year. Unless otherwise specified, all acquired assets are eligible under the relevant write-off incentive and used immediately for a taxable purpose only.
+Example 11 - application of temporary full expensing, instant asset write-off and backing business investment in the 2020-21 income year
+137.
+During the 2020-21 income year, a company:
+•
+Acquires second-hand depreciating assets (Asset A for $120,000 and Asset B for $300,000) on 1 August 2020.
+-
+The company will not be eligible for TFE because these assets are pre-2020 Budget Time acquisitions. However, the company will deduct the cost of Asset A under IAWO (no opt out). It will not be able to deduct the cost of Asset B under IAWO because it exceeds the $150,000 threshold. It also will not be able to use BBI because of the second-hand asset exclusion. The company will determine the decline in value for Asset B under the usual Division 40 of the ITAA 1997 rules.
+•
+Acquires a new asset (Asset C) for $200,000 on 15 August 2020.
+-
+The company will not be eligible for TFE because Asset C is a pre-2020 Budget Time acquisition. It will not be able to deduct its cost under IAWO because it exceeds the $150,000 threshold. However, it will be able to use BBI to deduct $100,000 plus an amount for decline in value under Division 40 of the ITAA 1997 rules based on cost of $100,000 (it will also be able to opt out of this treatment and use the usual Division 40 of the ITAA 1997 rules).
+•
+Acquires a new asset (Asset D) for $100,000 on 30 September 2020.
+-
+The company will not be eligible for TFE because Asset D is a pre-2020 Budget Time acquisition. However, it will achieve the same outcome by deducting its cost under IAWO (no opt out).
+•
+Incurs an improvement cost of $25,000 for Asset B on 1 November 2020.
+-
+The company may be eligible for TFE in respect of these second-element costs incurred after 2020 Budget Time. Under TFE, the company will calculate the decline in value of Asset B for the 2020-21 income year as the amount resulting from applying Division 40 of the ITAA 1997 rules to the $300,000 cost of acquiring the asset (excluding the second element costs of $25,000) and adding the $25,000 second element costs. Under TFE, a deduction of $25,000 will be available for the second-element costs because those costs are not subject to the second-hand asset exclusion.
+-
+Note that the company may opt out of TFE for the second-element costs, in which case the second-element costs would form part of the cost of the asset for the 2020-21 income year to which the usual decline in value rules under Division 40 would apply (IAWO would not apply to these second element costs)
+[104]
+.
+•
+Acquires a second-hand asset (Asset E) for $130,000 and a new asset (Asset F) for $90,000 on 15 December 2020.
+-
+The company will not be eligible for TFE in respect of Asset E because it is subject to the second-hand asset exclusion. However, it will be eligible for IAWO (no opt out). The company can deduct $90,000 in respect of Asset F under TFE. Although there is a choice to opt out of TFE, the same amount would be deducted under IAWO.
+•
+Acquires a new asset (Asset G) for $400,000 on 10 February 2021.
+-
+The company will be able to deduct $400,000 under TFE in respect of Asset G. It can also opt out of TFE, in which case it would determine the decline in value of Asset G under BBI (or the usual Division 40 of the ITAA 1997 rules if it opts out of BBI). IAWO does not apply because the asset was acquired after 31 December 2020.
+R&D tax offset
+138. A notional deduction for decline in value of a tangible depreciating asset is taken into account in the calculation of the R&D tax offset under Division 355 of the ITAA 1997 if the conditions of section 355-305 of the ITAA 1997 are satisfied. The notional deduction under section 355-305 of the ITAA 1997 is the decline in value of the asset that would be deductible under section 40-25 of the ITAA 1997 if Division 40 of the ITAA 1997 applied with the changes described in section 355-310 of the ITAA 1997.
+[105]
+139. There is no provision in Subdivision 355-E of the ITAA 1997 which precludes the use of Subdivision 40-BB of the IT(TP)A to determine decline in value for the purpose of calculating the notional deduction. Accordingly, if the conditions for application of Subdivision 40-BB can be satisfied, and none of its exclusions apply, an entity may be able to use the Subdivision to determine decline in value of a tangible asset for the purpose of calculating a notional deduction under section 355-305 of the ITAA 1997.
+Part F - SMALL BUSINESS ENTITIES
+140. Part F of this Ruling outlines the operation of TFE for small business entities. The focus is small business entities choosing simplified depreciation, but it also describes how the rules work for entities who do not make that choice.
+Small business entities choosing simplified depreciation
+141. For small business entities that have chosen to use the simplified depreciation rules in Subdivision 328-D of the ITAA 1997, access to TFE is provided by section 328-181 of the IT(TP)A which removes thresholds for immediate deduction under sections 328-180 and 328-210 of the ITAA 1997.
+142. Section 328-180 of the ITAA 1997 is the IAWO provision for small business entities using simplified depreciation which ordinarily operates with an asset cost threshold of $1,000. For assets acquired since 12 May 2015, the provision has operated with higher asset cost thresholds and, for the period during which IAWO applies for larger entities under section 40-82 of the ITAA 1997, the asset cost thresholds under the two provisions are aligned.
+Eligible entities
+143. An entity will be eligible for TFE under simplified depreciation rules if it is a 'small business entity' electing to use those rules.
+[106]
+An entity will be a small business entity for an income year if it carries on business in that year (see paragraph 17 of this Ruling) and its aggregated turnover is less than $10 million (see paragraphs 22 and 23 of this Ruling for how to apply the aggregated turnover test).
+Eligible assets
+144. Most depreciating assets will be eligible. Some of the exclusions applicable to larger entities also apply to small business entities (see the excluded assets in paragraph 41 of this Ruling). There are also exclusions that apply specifically to small business entities under the simplified depreciation rules:
+•
+assets leased or expected to be leased predominantly on a depreciating asset lease
+[107]
+•
+horticultural plants
+[108]
+•
+primary production assets where a choice has been made to deduct amounts under Subdivisions 40-F or 40-G of the ITAA 1997
+[109]
+•
+certain assets in a low-value pool or software development pool
+[110]
+•
+assets for which a notional decline in value deduction gives rise to an R&D tax offset
+[111]
+, and
+•
+second-hand assets used to produce income from residential property.
+[112]
+145. Exclusion of these assets from the simplified depreciation rules does not mean that decline in value deductions cannot be obtained for these assets under other rules. A small business entity may still access TFE for such an asset under Subdivision 40-BB of the IT(TP)A if eligibility requirements are met.
+146. If such an asset is not eligible for TFE under Subdivision 40-BB of the IT(TP)A (for example, it was first held before 2020 Budget Time), it will also be ineligible for IAWO under section 40-82 of the ITAA 1997 because those rules do not apply to small business entities.
+[113]
+However, the asset may be eligible for BBI under Subdivision 40-BA of the IT(TP)A or may be depreciated under the usual Division 40 of the ITAA 1997 rules. If eligible second-element costs are incurred for the asset at or after 2020 Budget Time and by no later than 30 June 2022, the entity may apply TFE in respect of those costs under the Subdivision 40-BB rules in the way described in paragraph 85 of this Ruling.
+147. The treatment of assets excluded from TFE under the simplified depreciation rules is illustrated in Example 12 of this Ruling using the example of a leased asset.
+148. Motor vehicles are eligible for TFE under the simplified depreciation rules, although a car limit ($59,136 in the 2020-21 income year) may apply to determine the maximum cost amount that can be deducted.
+[114]
+Applying temporary full expensing under simplified depreciation rules
+149. A small business entity choosing to use the simplified depreciation rules accesses TFE in the following ways:
+•
+For an asset first held at or after 2020 Budget Time and first used or installed for a taxable purpose by no later than 30 June 2022, the entity deducts the taxable use proportion of the adjustable value of the asset for the income year in which it is first used or installed for a taxable purpose.
+[115]
+•
+The entity can deduct the taxable purpose proportion of second-element costs (such as improvements) incurred at or after 2020 Budget Time and by no later than 30 June 2022 in respect of assets for which an amount was deductible in an earlier year under subsection 328-180(1) of the ITAA 1997.
+[116]
+•
+The entity deducts the balance of its general small business pool for an income year ending between 2020 Budget Time and 30 June 2022.
+[117]
+150. Small business entities can choose not to use the simplified depreciation rules for an income year and instead apply the general depreciation rules in Division 40 of the ITAA 1997 (see paragraphs 154 and 155 of this Ruling for the consequences of not using the simplified rules). However, if small business entities opt into the simplified depreciation rules, TFE applies to all eligible assets and small business entities cannot opt out of applying TFE for individual assets for an income year. They also cannot opt out of applying TFE to the balance of a general small business pool.
+Small business entity example
+151. Example 12 of this Ruling concerns a small business entity with a 30 June balancing date that elects to use simplified depreciation in the 2020-21 income year after not having used simplified depreciation in the previous year. At 30 June 2020, the entity has existing depreciating assets with adjustable values totalling $250,000 that are eligible for simplified depreciation. Example 12 of this Ruling illustrates how TFE and other rules will apply in relation to depreciating assets acquired, expenditure incurred and the balance of a general small business pool in the 2020-21 income year. In all cases, it is to be assumed that the acquired asset is immediately used exclusively for a taxable purpose during the 2020-21 income year.
+Example 12 - small business depreciation deductions in the 2020-21 income year
+152.
+A company runs a business of providing accommodation and hospitality services in a regional destination, mainly for holiday-makers seeking an escape from the city. Before the COVID-19 pandemic, it had planned to commence additional activities of providing tour guide services and transporting guests and visitors to local wineries and tourist attractions. Although business declined during 2020 as result of COVID-19, the company sees new opportunities for domestic tourism in recovery from the pandemic.
+153.
+The company
+decides
+to purchase assets and incur expenditure in respect of its business:
+•
+On 1 August 2020, the company purchases a commercial coffee machine for $30,000.
+-
+This asset is acquired before 2020 Budget Time and ineligible for immediate write-off of its cost under TFE. However, the cost of the asset is less than the threshold of $150,000 for IAWO under simplified depreciation which applies to assets acquired before 2020 Budget Time (where first used for a taxable purpose from 12 March 2020). The company will claim a deduction for $30,000 in the 2020-21 income year.
+•
+On 1 September 2020, the company purchases a new luxury coach (for transporting guests and visitors to local wineries and tourist attractions) for $160,000.
+-
+This asset is acquired before 2020 Budget Time and ineligible for immediate write-off of its cost under TFE. It is also not eligible for the instant write-off rules applicable to pre-TFE assets because its cost exceeds the $150,000 threshold. However, full tax write-off is effectively achieved through the operation of the simpler depreciation rules for small business entities. Under those rules, TFE will apply to the balance of the company's general small business pool for the 2020-21 income year. The coach will be an asset allocated to the pool in that year.
+•
+On 30 September 2020, a new minibus is purchased for $70,000 and is immediately leased to another local tourist operator.
+-
+As this asset is leased, it is not eligible for simplified depreciation (see paragraph 144 of this Ruling) but may be depreciated under other rules. It is not eligible for TFE under Subdivision 40-BB of the IT(TP)A because it has been acquired before 2020 Budget Time. It is also not eligible for IAWO under section 40-82 of the ITAA 1997 because those rules do not apply to small business entities. However, it will be eligible for write-off using BBI under Subdivision 40-BA of the IT(TP)A. Under those rules, in the 2020-21 income year the company can obtain a deduction for half of the cost of the asset ($35,000) and also claim a decline in value deduction based on a cost amount of $35,000 (50% of the actual cost) using the usual depreciation rules under Division 40 of the ITAA 1997. The company may instead choose not to apply BBI and apply only the Division 40 of the ITAA 1997 rules.
+•
+On 15 January 2021, outdoor leisure and fitness equipment for use by guests is purchased for $20,000.
+-
+These assets are acquired after 2020 Budget Time, so no cost threshold applies. The company will claim a deduction for the cost of these assets in the 2020-21 income year.
+•
+On 24 February 2021, a motor vehicle (a mid-size sports SUV) is purchased (to be used exclusively by company staff for business purposes) for $65,000.
+-
+This asset is eligible for TFE but, because it is a car
+[118]
+designed mainly for carrying passengers (and exceptions to the car limit do not apply)
+[119]
+, the cost for these purposes is reduced to the car limit of $59,136 which applies in the 2020-21 income year
+[120]
+.
+The company will deduct $59,136.
+•
+In March 2021, the company incurs costs to improve existing depreciating assets relating to its business of providing hospitality services (second-element costs). Deductions for first-element costs were claimed in an earlier income year under the simplified depreciation IAWO rules.
+-
+The company will claim a deduction for these second-element costs because they are incurred after 2020 Budget Time.
+•
+The company will also deduct the balance of its general small business pool for the 2020-21 income year, comprising
+-
+the pool's opening pool balance for the income year ($250,000), and
+-
+the adjustable value of the luxury coach acquired on 1 September 2020 and allocated to the pool ($160,000).
+Small business entities not using simplified depreciation
+154. A small business entity that has not elected to use simplified depreciation for an income year may access TFE under Subdivision 40-BB of the IT(TP)A for that income year in the same way as other entities. In these circumstances the entity can opt out of TFE on an asset-by-asset basis.
+155. However, if the entity has previously used simplified depreciation and allocated assets to a general small business pool, the entity will continue to deduct amounts for those assets in accordance with the pool rules.
+[121]
+As a result, the entity will access TFE in respect of the asset pool through Subdivision 328-D of the ITAA 1997 and subsection 328-181(5) of the IT(TP)A. These rules provide that the balance of the small business pool is written-off at the end of an income year ending in the period from 2020 Budget Time to 30 June 2022.
+Example 13 - small business entity not using simplified depreciation
+156.
+A small business entity (SBE) is a 30 June balancing entity. It has chosen to use simplified depreciation under Subdivision 328-D of the ITAA 1997 for several years and maintains a general small business pool for assets that exceeded the cost threshold for immediate write-off in income years before the 2020-21 income year. At 30 June 2020, the balance of the pool was $200,000.
+157.
+On 1 November 2020, the SBE made a significant depreciating asset purchase for $300,000 and does not wish to claim TFE for the cost of the asset in the 2020-21 income year. As there is no opt out of TFE if a choice has been made to use simplified depreciation, the SBE decides not to choose simplified depreciation for the 2020-21 income year.
+158.
+TFE will instead be available to the SBE under Subdivision 40-BB of the IT(TP)A, but it can opt out of this treatment for otherwise eligible assets. The SBE makes the opt-out choice for the asset purchased for $300,000 when it lodges its tax return for the 2020-21 income year. The SBE also chooses not to apply BBI in respect of the asset (and IAWO under Division 40 of the ITAA 1997 is not available for small business entities that opt out of the simplified depreciation rules).
+159.
+Accordingly, SBE uses the usual depreciation rules under Division 40 of the ITAA 1997 to determine decline in value of the asset for the 2020-21 income year and deducts the business-use proportion of the decline in value. However, because the SBE has previously used simplified depreciation rules and maintains a general small business asset pool, those rules (including TFE) continue to govern the balance of the pool. This means that the SBE will deduct the balance of the pool ($200,000) at the end of the 2020-21 income year.
+Part G - INTEGRITY ISSUES
+160. Full expensing under TFE may provide substantial tax benefits for taxpayers during the period of its operation, particularly if large deductions create tax losses that result in refundable tax offsets under the loss carry-back measure. It is expected that taxpayers will engage in behaviour that enables them to access these incentives, and an increased scale of investment in response to these measures is not, of itself, likely to attract the attention of the ATO.
+161. However, there is always a potential for integrity rules, such as Part IVA of the
+Income Tax Assessment Act 1936,
+to apply to arrangements whose features suggest they are driven by tax, rather than commercial, outcomes. Without limiting the scope of arrangements to which integrity rules in the tax law may apply, a focus for the ATO will be arrangements involving transactions between related parties that facilitate the claiming of TFE, and potentially also loss carry-back tax offsets, without any increase in the business asset base of the economic group.
+162. The ATO can be expected to provide guidance on arrangements of concern as they emerge.
+[122]
+Commissioner of Taxation
+22 December 2021
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+Under section 40-82 of the ITAA 1997 and section 328-180 of the IT(TP)A.
+[2]
+Under Subdivision 40-BA and section 328-182 of the IT(TP)A.
+[3]
+TFE applies to entities with an aggregated turnover under $5 billion.
+[4]
+7.30pm, by legal time in the Australian Capital Territory, on 6 October 2020.
+[5]
+Section 40-160 of the IT(TP)A.
+[6]
+Section 40-170 of the IT(TP)A. 'Second element' costs are worked out after an entity starts to hold an asset and ordinarily comprises costs that contribute to bringing an asset to its present condition and location from time to time after the entity started to hold it (section 40-190 of the ITAA 1997).
+[7]
+Sections 40-150 and 328-181 of the IT(TP)A.
+[8]
+Sections 40-175 and 328-181 of the IT(TP)A.
+[9]
+Subsection 328-181(5) of the IT(TP)A.
+[10]
+The rules for small business entities choosing simplified depreciation are covered in Part F of this Ruling.
+[11]
+Section 40-155 of the IT(TP)A.
+[12]
+Section 40-157 of the IT(TP)A.
+[13]
+Brookton Co-operative Society Ltd v Commissioner of Taxation (Cth)
+[1981] HCA 28 per Aickin J;
+Spriggs v Commissioner of Taxation
+[2009] HCA 22.
+[14]
+Paragraph 52 of TR 2019/1.
+[15]
+Subparagraph 40-155(b)(ii) of the IT(TP)A and subsection 328-110(5) of the ITAA 1997.
+[16]
+Subsection 328-110(1) of the ITAA 1997.
+[17]
+Subsection 328-110(2) of the ITAA 1997.
+[18]
+Subsection 328-110(3) of the ITAA 1997.
+[19]
+Subsection 328-110(4) of the ITAA 1997.
+[20]
+For example, as well as TFE, an aggregated turnover test is relevant for IAWO under section 40-82 of the ITAA 1997 and loss carry-back under Division 160 of the ITAA 1997.
+[21]
+Subparagraph 40-157(1)(b)(i) of the IT(TP)A.
+[22]
+Subparagraph 40-157(1)(b)(ii) of the IT(TP)A.
+[23]
+Subsection 40-157(2) of the IT(TP)A.
+[24]
+Paragraph 40-157(1)(c) and subsection 40-157(3) of the IT(TP)A.
+[25]
+Subsection 40-157(4) of the IT(TP)A.
+[26]
+Paragraph 40-157(3)(b) of the IT(TP)A.
+[27]
+Treasury Laws Amendment (2021 Measures No.5) Act 2021.
+[28]
+Section 40-180 of the ITAA 1997 describes the first element of cost of a depreciating asset. It is generally worked out as at the time an entity begins to hold an asset and is ordinarily the amount paid to hold it.
+[29]
+Subsections 40-150(1) and 40-160(1) of the IT(TP)A.
+[30]
+Section 40-170 of the IT(TP)A.
+[31]
+Paragraphs 40-150(1)(b), 40-160(1)(c) and 40-170(1)(b) of the IT(TP)A.
+[32]
+Subsection 40-150(2) of the IT(TP)A.
+[33]
+Subsection 40-150(3) of the IT(TP)A.
+[34]
+Subsection 40-150(4) of the IT(TP)A.
+[35]
+Subsection 40-45(1) of the ITAA 1997.
+[36]
+Subsection 40-45(2) of the ITAA 1997.
+[37]
+Subsection 40-45(5) of the ITAA 1997.
+[38]
+Paragraph 40-150(3)(a) of the IT(TP)A.
+[39]
+Paragraph 40-150(3)(b) of the IT(TP)A.
+[40]
+For this reason, it is unlikely that TFE could be relevant for working out the attributable income of a CFC.
+[41]
+Section 40-185 of the IT(TP)A.
+[42]
+Section 40-430 of the ITAA 1997.
+[43]
+However, IAWO under section 40-82 of the ITAA 1997 may be available if relevant conditions are satisfied because subsection 40-425(7A) of the ITAA 1997 prevents allocation of an asset to a low-value pool in the event that section 40-82 of the ITAA 1997 applies.
+[44]
+Subsection 40-450(2) of the ITAA 1997.
+[45]
+Subsection 40-515(1) of the ITAA 1997.
+[46]
+Section 40-165 of the IT(TP)A.
+[47]
+For the purposes of the pre-existing commitments exclusion, there are references in subsections 40-165(2), (3), (4) and (5) of the IT(TP)A to the actions of an entity entering into a contract under which it would hold an asset, acquiring an option to enter into such a contract, or starting to construct an asset. If the relevant entity is partnership, and any of those actions is undertaken by a partner in the partnership, the actions are treated as done by the partnership instead of the partner (subsection 40-165(6) of the IT(TP)A).
+[48]
+Subsection 40-165(2) of the IT(TP)A.
+[49]
+Subsection 40-165(5) of the IT(TP)A.
+[50]
+Refer to ATO Interpretative Decision ATO ID 2009/69
+Capital Allowances: tax break - investment commitment time - option to delay construction.
+[51]
+Subsection 40-165(4) of the IT(TP)A.
+[52]
+The explanatory memorandum accompanying the Bill that introduced TFE does not provide examples of such expenditure. However, it is considered that Example 1.16 in paragraph 1.104 of the Explanatory Memorandum to the Tax Laws Amendment (Small Business and General Business Tax Break) Bill 2009 is a reasonable illustration of when an entity would first incur expenditure in respect of an asset's construction for TFE purposes.
+[53]
+Subsection 40-165(3) of the IT(TP)A.
+[54]
+Paragraph 40-165(7)(a) of the IT(TP)A.
+[55]
+Paragraph 40-165(7)(b) of the IT(TP)A.
+[56]
+Paragraph 40-165(7)(c) of the IT(TP)A.
+[57]
+Under subsection 701-40(3) of the ITAA 1997, the leaving entity will be taken to have first held the asset before 2020 Budget Time.
+[58]
+Subsections 40-165(8) and (9) of the IT(TP)A.
+[59]
+Subsection 40-167(3) of the IT(TP)A.
+[60]
+Subsection 40-167(4) of the IT(TP)A.
+[61]
+Or has it installed ready for use in that period.
+[62]
+Paragraph 40-160(3)(a) of the IT(TP)A.
+[63]
+This is because the asset's start time (determined under section 40-60 of the ITAA 1997) has occurred in an earlier year.
+[64]
+Paragraph 40-160(3)(b) of the IT(TP)A.
+[65]
+Section 40-170 of the IT(TP)A.
+[66]
+The company will not meet eligibility requirements for IAWO (section 40-82 of the ITAA 1997) or BBI (Subdivision 40-BA of the IT(TP)A).
+[67]
+Subsection 40-167(3) of the IT(TP)A.
+[68]
+Paragraph 40-170(2)(b) and subsection 40-170(4) of the IT(TP)A.
+[69]
+Section 40-145 of the IT(TP)A.
+[70]
+Section 40-190 of the IT(TP)A.
+[71]
+Section 40-137 of the IT(TP)A.
+[72]
+The ATO may defer the time for giving the choice (refer to section 388-55 in Schedule 1 to the
+Taxation Administration Act 1953)
+.
+[73]
+Aggregated turnover from $10 million to less than $500 million.
+[74]
+Paragraphs 40-160(1)(e) and 40-170(1)(e) of the IT(TP)A.
+[75]
+Section 40-185 of the IT(TP)A.
+[76]
+Part D of this Ruling applies equally to provisional head companies of MEC groups.
+[77]
+Refer to paragraph 4 of Taxation Ruling TR 2004/11
+Income tax: consolidation: the meaning and application of the single entity rule in Part 3-90 of the Income Tax Assessment Act 1997.
+[78]
+That is, not using TFE, IAWO or BBI.
+[79]
+In relation to Example 9 of this Ruling, this meant that the tax cost setting amount worked out for Asset A was reduced to nil.
+[80]
+Including an asset that is an 'intra-group' asset (refer to subsection 701-10(2) of the ITAA 1997).
+[81]
+Noting that subsection 1-10(1) of the IT(TP)A provides that an expression in the IT(TP)A has the same meaning as in the ITAA 1997. Therefore, section 40-40 of the ITAA 1997, which identifies who holds a depreciating asset, is relevant to identifying who is the holder of an asset for the purposes of paragraph 40-150(1)(a) of the IT(TP)A. This, in turn, is affected by the operation of subsection 701-55(2) of the ITAA 1997 which treats the head company as having acquired the asset for its tax cost setting amount at the joining time.
+[82]
+The head company will also meet the condition in paragraph 40-150(1)(b) of the IT(TP)A provided that the head company starts to use the asset, or has it installed ready for use, for a taxable purpose during that period.
+[83]
+From the joining entity.
+[84]
+That is, the diminishing value method or the prime cost method.
+[85]
+For example, in order to work out the amount of the head company's deduction provided for under section 40-25 of the ITAA 1997.
+[86]
+Such that the exclusion for second-hand assets in subsection 40-165(7) of the IT(TP)A will not apply.
+[87]
+Or other capital allowance provisions such as Subdivision 328-D of the ITAA 1997.
+[88]
+That is, where the conditions in Subdivision 40-BB of the IT(TP)A are satisfied.
+[89]
+Refer to paragraph 61 of this Ruling, where the second-hand asset exclusion for an entity with an aggregated turnover of $50 million or more is explained.
+[90]
+Paragraph 40-157(1)(a) of the IT(TP)A.
+[91]
+Refer to column 2 of table item 1 in subsection 703-15(2) of the ITAA 1997.
+[92]
+Paragraph 40-157(1)(c) of the IT(TP)A.
+[93]
+That is, the 2016-17, 2017-18 and 2018-19 income years.
+[94]
+That is a tangible depreciating asset.
+[95]
+Interaction of tax depreciation incentives
+[96]
+At or after 7.30pm, by legal time in the Australian Capital Territory, on 2 April 2019.
+[97]
+There is no asset cost threshold as such within Subdivision 40-BA of the IT(TP)A. Rather, BBI is not available where IAWO under section 40-82 of the ITAA 1997 applies.
+[98]
+Subsection 40-125(1) of the IT(TP)A.
+[99]
+Section 40-130 of the IT(TP)A.
+[100]
+Subsection 40-120(2) of the IT(TP)A.
+[101]
+Section 40-125 of the IT(TP)A.
+[102]
+Section 40-137 of the IT(TP)A.
+[103]
+The ATO may defer the time for giving the choice (refer to section 388-55 in Schedule 1 to the
+Taxation Administration Act 1953).
+[104]
+The total asset cost for the 2020-21 income year exceeds the $150,000 IAWO threshold.
+[105]
+Paragraph 355-305(1)(c ) of the ITAA 1997.
+[106]
+Subsection 328-175(1) of the ITAA 1997.
+[107]
+Subsection 328-175(6) of the ITAA 1997.
+[108]
+Subsection 328-175(5) of the ITAA 1997.
+[109]
+Subsections 328-175(3) and (4) of the ITAA 1997.
+[110]
+Subsection 328-175(7) of the ITAA 1997.
+[111]
+Subsection 328-175(9) of the ITAA 1997.
+[112]
+Subsection 328-175(9A) of the ITAA 1997.
+[113]
+Paragraphs 40-82(4)(a) and 40-82(4B)(b) of the ITAA 1997.
+[114]
+Section 40-230 of the ITAA 1997.
+[115]
+Subsection 328-180(1) of the ITAA 1997 (as modified by section 328-181 of the IT(TP)A).
+[116]
+Subsection 328-180(2) of the ITAA 1997 (as modified by section 328-181 of the IT(TP)A).
+[117]
+Section 328-210 of the ITAA 1997 (as modified by section 328-181 of the IT(TP)A).
+[118]
+Defined under subsection 995-1(1) of the ITAA 1997 as '... a motor vehicle (except a motor cycle or similar vehicle) designed to carry a load of less than 1 tonne and fewer than 9 passengers'.
+[119]
+Under subsection 40-230(2) of the ITAA 1997.
+[120]
+The car limit for the 2021-22 income year is $60,733.
+[121]
+Subsection 328-185(7) of the ITAA 1997.
+[122]
+See
+Economic Stimulus Measures
+to highlight what attracts our attention in terms of behaviours relating to these measures.
+Previously released in draft form as LCR 2021/D1
+References
+ATO references:
+NO  1-57TGV3L
+ISSN: 2209-1300
+Business Line:
+PW
+Related Rulings/Determinations:
+TR 97/11
+TR 2004/11
+TR 2019/1
+Legislative References:
+ITAA 1936 Pt IVA
+ITAA 1997 40-25
+ITAA 1997 40-25(2)
+ITAA 1997 40-40
+ITAA 1997 40-45
+ITAA 1997 40-45(1)
+ITAA 1997 40-45(2)
+ITAA 1997 40-45(5)
+ITAA 1997 40-60
+ITAA 1997 40-65
+ITAA 1997 40-65(1)
+ITAA 1997 40-65(2)
+ITAA 1997 40-82
+ITAA 1997 40-82(4)(a)
+ITAA 1997 40-82(4B)(b)
+ITAA 1997 40-95(4)
+ITAA 1997 40-115
+ITAA 1997 40-125
+ITAA 1997 40-180
+ITAA 1997 40-190
+ITAA 1997 40-215
+ITAA 1997 40-230
+ITAA 1997 40-230(2)
+ITAA 1997 40-290
+ITAA 1997 40-295(2)
+ITAA 1997 40-340
+ITAA 1997 40-425
+ITAA 1997 40-425(7A)
+ITAA 1997 40-430
+ITAA 1997 40-445
+ITAA 1997 40-450(2)
+ITAA 1997 40-515(1)
+ITAA 1997 328-110(1)
+ITAA 1997 328-110(2)
+ITAA 1997 328-110(3)
+ITAA 1997 328-110(4)
+ITAA 1997 328-110(5)
+ITAA 1997 328-175(1)
+ITAA 1997 328-175(3)
+ITAA 1997 328-175(4)
+ITAA 1997 328-175(5)
+ITAA 1997 328-175(6)
+ITAA 1997 328-175(7)
+ITAA 1997 328-175(9)
+ITAA 1997 328-175(9A)
+ITAA 1997 328-180
+ITAA 1997 328-180(1)
+ITAA 1997 328-180(2)
+ITAA 1997 328-185(7)
+ITAA 1997 328-210
+ITAA 1997 355-305
+ITAA 1997 355-310
+ITAA 1997 355-310(3)
+ITAA 1997 355-310(4)
+ITAA 1997 355-715(2)
+ITAA 1997 701-1
+ITAA 1997 701-5
+ITAA 1997 701-10(2)
+ITAA 1997 701-10(4)
+ITAA 1997 701-40(3)
+ITAA 1997 701-55
+ITAA 1997 701-55(2)
+ITAA 1997 701-55(2)(a)
+ITAA 1997 701-55(2)(b)
+ITAA 1997 701-55(2)(c)
+ITAA 1997 701-55(2)(d)
+ITAA 1997 701-55(2)(e)
+ITAA 1997 703-15(2)
+ITAA 1997 705-45(2)
+ITAA 1997 960-115
+ITAA 1997 995-1(1)
+ITAA 1997 Div 40
+ITAA 1997 Div 41
+ITAA 1997 Div 43
+ITAA 1997 Div 160
+ITAA 1997 Div 328
+ITAA 1997 Div 355
+ITAA 1997 Pt 3-90
+ITAA 1997 Subdiv 40-A
+ITAA 1997 Subdiv 40-B
+ITAA 1997 Subdiv 40-C
+ITAA 1997 Subdiv 40-D
+ITAA 1997 Subdiv 40-E
+ITAA 1997 Subdiv 40-F
+ITAA 1997 Subdiv 40-G
+ITAA 1997 Subdiv 328-C
+ITAA 1997 Subdiv 328-D
+ITAA 1997 Subdiv 355-E
+IT(TP)A 1-10(1)
+IT(TP)A 40-120(2)
+IT(TP)A 40-125
+IT(TP)A 40-125(1)
+IT(TP)A 40-130
+IT(TP)A 40-137
+IT(TP)A 40-145
+IT(TP)A 40-150
+IT(TP)A 40-150(1)
+IT(TP)A 40-150(1)(a)
+IT(TP)A 40-150(1)(b)
+IT(TP)A 40-150(2)
+IT(TP)A 40-150(3)
+IT(TP)A 40-150(3)(a)
+IT(TP)A 40-150(3)(b)
+IT(TP)A 40-150(4)
+IT(TP)A 40-155
+IT(TP)A 40-155(b)(ii)
+IT(TP)A 40-157
+IT(TP)A 40-157(1)(a)
+IT(TP)A 40-157(1)(b)(i)
+IT(TP)A 40-157(1)(b)(ii)
+IT(TP)A 40-157(1)(c)
+IT(TP)A 40-157(2)
+IT(TP)A 40-157(3)
+IT(TP)A 40-157(3)(b)
+IT(TP)A 40-157(4)
+IT(TP)A 40-160
+IT(TP)A 40-160(1)
+IT(TP)A 40-160(1)(a)
+IT(TP)A 40-160(1)(c)
+IT(TP)A 40-160(1)(e)
+IT(TP)A 40-160(3)(a)
+IT(TP)A 40-160(3)(b)
+IT(TP)A 40-165
+IT(TP)A 40-165(2)
+IT(TP)A 40-165(3)
+IT(TP)A 40-165(4)
+IT(TP)A 40-165(5)
+IT(TP)A 40-165(6)
+IT(TP)A 40-165(7)
+IT(TP)A 40-165(7)(a)
+IT(TP)A 40-165(7)(b)
+IT(TP)A 40-165(7)(c)
+IT(TP)A 40-165(8)
+IT(TP)A 40-165(9)
+IT(TP)A 40-167
+IT(TP)A 40-167(3)
+IT(TP)A 40-167(4)
+IT(TP)A 40-170
+IT(TP)A 40-170(1)(b)
+IT(TP)A 40-170(1)(e)
+IT(TP)A 40-170(2)(b)
+IT(TP)A 40-170(4)
+IT(TP)A 40-175
+IT(TP)A 40-185
+IT(TP)A 40-190
+IT(TP)A 328-180
+IT(TP)A 328-181
+IT(TP)A 328-181(5)
+IT(TP)A 328-182
+IT(TP)A Subdiv 40-BA
+IT(TP)A Subdiv 40-BB
+TAA 1953 Sch 1 388-55
+Treasury Laws Amendment (A Tax Plan for the COVID-19 Economic Recovery) Act 2020
+Treasury Laws Amendment (2021 Measures No.5) Act 2021
+Treasury Laws Amendment (2020 Measures No.6) Act 2020
+Case References:
+Brookton Co-operative Society Ltd v Commissioner of Taxation (Cth)
+[1981] HCA 28
+(1981) 147 CLR 441
+55 ALJR 479
+35 ALR 295
+11 ATR 880
+81 ATC 4346
+Spriggs v Commissioner of Taxation
+[2009] HCA 22
+(2009) 239 CLR 1
+83 ALJR 749
+256 ALR 596
+Other References:
+ATO ID 2009/69
+Economic Stimulus Measures
+Explanatory Memorandum
+to the Tax Laws Amendment (Small Business and General Business Tax Break) Bill 2009
+Interaction of tax depreciation incentives
+Back to top

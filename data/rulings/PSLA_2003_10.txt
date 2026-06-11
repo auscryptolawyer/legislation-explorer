@@ -1,0 +1,408 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+19 related documents
+ATO Practice Statement Law Administration
+PS LA 2003/10 (Withdrawn)
+SUBJECT:
+Management of Priority Technical Issues
+PURPOSE:
+To advise of procedures to ensure that the highest priority technical issues are appropriately prioritised, managed and maintained on Siebel
+This practice statement was withdrawn on 18 May 2012.  It has been replaced by
+PS LA 2012/1
+Management of high risk technical issues and engagement of tax technical officers in Law and Practice.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+FOI status: may be released
+This Practice Statement is issued under the authority of the Commissioner and must be read in conjunction with
+Law Administration Practice Statement
+PS LA 1998/1
+.
+It must be followed by Tax officers unless doing so creates unintended consequences.
+Where this occurs officers must follow their Business Line's escalation process.
+TABLE OF CONTENTS
+Paragraph
+STATEMENT
+1
+Definitions
+11
+PTI Committee
+13
+PTI process guide
+14
+Determination of priority
+15
+Approval process
+17
+Potential PTIs with unassessed risks
+20
+Identification of potential issues by TCN or CoE officers
+23
+Escalation to the PTIC
+24
+Management of PTIs
+26
+Allocation of PTI Owners
+28
+Responsibilities of SES Risk Owners and Risk Contact
+31
+Responsibilities of PTI Owners
+32
+Responsibilities of PTI SES
+33
+Responsibilities of Band 2 SES officers
+34
+Recording on Siebel
+35
+Finalising PTIs
+40
+Attachment A
+Page 11
+Attachment B
+Page 12
+STATEMENT
+1. This practice statement requires ATO staff to follow special procedures in relation to Priority Technical Issues (PTIs). These procedures are designed to ensure that processes for identification and resolution of PTIs are aligned with the ATO Risk Management policy and corporate strategies and processes to address risks. They are also designed to ensure that proper planning, management and governance is applied to all PTIs.
+2. Accordingly, this practice statement must be read in conjunction with PS CM 2003/02 Risk and issues management, which provides guidance on the risk management framework within the ATO and PS CM 2003/03 Corporate governance.
+3. The outcomes of the approach outlined in this practice statement should result in:
+•
+optimal integration of the resolution of PTIs with other elements of strategies developed to address areas of risk
+•
+the ATO's senior technical officers working on the highest level technical issues
+•
+correct identification and prioritisation of technical issues with systemic implications that cross taxpayer markets, industry segments or revenue line boundaries
+•
+optimal use of intelligence gathered from technical issues in identifying and assessing areas of risk, and
+•
+conformance with corporate governance requirements through more accurate reporting (see PS CM 2003/03 Corporate governance).
+4. Strategies developed by business lines to address particular risks often identify a technical issue that requires resolution. The Tax Counsel Network (TCN) and Centres of Expertise (CoE) are actively involved where the resolution of the technical issue is important to addressing the risk.
+5. Nevertheless, nothing in this practice statement should preclude the ability of a Senior Executive Service (SES) Risk Owner (the business line SES officer with responsibility for the management of the risk) to request special assistance from TCN (or vice versa) where a corporate need exists, including collaborative processes for issue identification in relation to significant cases.
+6. In urgent situations, where it is not practical at the time to follow the processes set out in this practice statement, a matter can be referred directly to a Deputy Chief Tax Counsel (DCTC) or a SES officer from a CoE. However, the processes in this practice statement should be considered and applied as soon as possible after the referral.
+7. This practice statement does not alter existing business line escalation processes for referring technical issues to a CoE as prescribed by Law Administration Practice Statement PS LA 2004/4 Referral of issues to Centres of Expertise for the creation of precedential ATO view, and early engagement of internal technical specialists in active compliance cases and litigation. It only applies to work that has been (or is likely to be) escalated to SES level from ATO risk management processes and potentially requires specialist attention by TCN and/or CoE resources.
+8. The emphasis in this practice statement is on technical issue resolution and does not cover the management of cases which may depend upon such resolution, or the wider implementation of the view taken.
+9. In resolving the technical issues, it is essential that all relevant business lines and stakeholders cultivate productive working relationships to that end. The respective responsibilities of a business line, a CoE and TCN are set out in the Online Resource Centre for Law Administration (ORCLA). It is important that all officers ensure they provide timely and constructive feedback about the capability of, and the level of assistance provided by, the other officers with whom they have been working. This feedback should be provided formally to the respective areas of those officers when deemed appropriate.
+10. It is important that PTIs are actively managed to effect a timely resolution. The resolution of a PTI has priority over other work, unless that work has been risk assessed to a higher level than that associated with the PTI. Progress of PTIs is reviewed regularly by the PTI Committee (see paragraph 13 of this practice statement).
+Definitions
+11. For the purposes of this practice statement, a PTI is a technical issue which has been ranked in accordance with this practice statement to be of Priority 1, 2 or 3 (see paragraph 16 of this practice statement).
+12. For the purposes of this practice statement, a technical issue is an issue of an interpretative nature that requires resolution by way of:
+•
+the formation and/or application of the precedential ATO view of the law
+•
+provision of advice, including all policy advice or need for legislative change, to the ATO Executive, the Department of the Treasury
+[1]
+or the Government, and/or
+•
+clearance of content, relating to any of the above, in an ATO publication; for example, TaxPack and Taxpayer Alerts.
+PTI Committee
+13. A corporate level PTI Committee (PTIC) chaired by the Chief Tax Counsel has been established to provide guidance and direction, and to monitor the management of PTIs within the established corporate framework. Issues that become 'blocked' at any stage can be escalated to PTIC for assistance (see paragraphs 24 and 24 of this practice statement).
+PTI process guide
+14. In addition to what is outlined in this practice statement, detailed procedures for prioritising, approving and managing PTIs are outlined in the PTI process guide.
+Determination of priority
+15. Prioritisation will only be applied to those technical issues which are considered by an SES Risk Owner to be potential PTIs based on an assessment of the risks involved. All issues raised by the National Tax Liaison Group or a National Tax Liaison Group sub-committee must also be subject to risk assessment and prioritisation.
+16. Table 1 below sets out the relative priority levels of PTIs and how these are derived. The method is based on the premise that the level of priority assigned will be obtained by considering together:
+•
+the rating of the risk associated with a technical issue as determined during formal business line risk assessment processes using the ATO Risk Matrix, and
+•
+the importance (critical, required or incidental) of resolution of the technical issue as part of the whole mitigation strategy for that risk.
+Table 1 Prioritisation Matrix
+Responsibility of Risk Owner
+Joint Responsibility of SES Risk Owner with a DCTC or an SES officer from a CoE
+Risk Rating as per Risk Rating Matrix
+Importance of resolution of a potential PTI (Priority Technical Issue) to the Risk Mitigation Strategy
+Risk Rating as per Risk Rating Matrix
+Critical Element
+Required Element
+Incidental Element
+Severe
+PTI Priority 1
+PTI Priority 1
+PTI Priority 2
+High
+PTI Priority 1
+PTI Priority 2
+PTI Priority 3
+Significant
+PTI Priority 2
+PTI Priority 3
+PTI Priority 3
+Moderate
+PTI Priority 3
+Business as usual
+Business as usual
+Low
+Business as usual
+Business as usual
+Business as usual
+Critical Element
+means that the risk mitigation strategy totally or very heavily depends on resolving the technical issue. For example, substantial education and enforcement action cannot proceed until a public ruling issues. The resolution of the technical issue via the public ruling is on the 'critical path' of the mitigation strategy.
+Required Element
+means that the technical issue clearly must be resolved and is an important element of the overall risk mitigation strategy. However, that strategy can proceed and is not dependent on the technical resolution, at least initially. The resolution is 'essential' but not 'urgent'. As the deadline for the technical resolution approaches a 'required' decision may escalate in importance to 'critical'.
+Incidental Element
+means that resolution of the technical issue is an ancillary element of the overall risk mitigation strategy. The resolution would, for example, clarify the ATO view but if the matter is not resolved there would not be a major impact on the success of the overall strategy.
+For example, a technical issue will be designated Priority 1 if the associated risk is judged to have a risk rating of high and the resolution of the technical issue is a critical element in the risk mitigation strategy.
+By way of contrast, if the associated risk is rated as moderate but resolution of the technical issue is only an incidental element in the risk mitigation strategy, the resolution of the technical issue will not be managed as a PTI and will be resolved by existing business-as-usual processes by the relevant business line technical area including reference to a CoE where creation of a precedential ATO view is required.
+Approval process
+17. Where the related risk has already been identified, assessed and rated following approved business line procedures, and the issue is considered potentially to be a PTI requiring specialist attention by TCN or CoE resources, the priority of the issue should be determined following the methodology in paragraph 16 of this practice statement. This determination must be confirmed by agreement between a minimum of two SES officers - the SES Risk Owner together with the PTI SES being either a DCTC or an SES officer from the relevant CoE, as follows:
+•
+Issues where a precedential ATO view is not required - by agreement of the SES Risk Owner and a DCTC.
+•
+Issues where a precedential ATO view is required - by agreement of the SES Risk Owner and an SES CoE officer.
+In addition, where:
+(i)
+it is proposed to assign a Priority 1 level to the issue; or
+(ii)
+the publication of a ruling, determination, significant addendum
+[2]
+or LAPS form part of the mitigation strategy,
+the PTI proposal, resolution schedule and rulings or LAPS notification form (if required) must be referred by the SES CoE officer to a DCTC for endorsement.
+18. It is only after this approval process is complete, and only if the technical issue is agreed to be Priority 1, 2 or 3, that appropriate TCN and/or CoE resources may be allocated to resolve the technical issue as a PTI. The Law and Practice officer who is allocated will be designated as the PTI Owner (see also paragraphs 28 to 30 and 32 of this practice statement). The relevant business line officers are expected to work collaboratively with the PTI Owner and provide assistance in the resolution of the technical issue.
+19. Any issue that is not agreed to be Priority 1, 2 or 3 is, by default, considered to be business-as-usual and will be resolved through the usual business line or CoE processes; for example, finalisation of a private ruling or the creation of an ATO ID.
+[3]
+It should be noted that the precedent setting function of a CoE generally falls within the description of business-as-usual.
+Potential PTIs with unassessed risks
+20. It is recognised that a technical issue, or a series of related technical issues, might be an important source of intelligence about risks which have not been assessed and rated in accordance with approved business line procedures. Such issues might be identified from a wide range of sources including provision of advice work, field work, industry and professional liaison, the media, etcetera. In these circumstances a potential PTI can be prioritised pending a formal risk assessment following approved business line procedures.
+21. In this situation, the relevant SES officers (see paragraph 17 of this practice statement) will consider the apparent level of risk and whether the resolution of the technical issue is likely to be a critical, required or incidental element of the risk mitigation strategy. This process will allow the early allocation of technical resources, pending formal risk assessment and strategy development which should be expedited by the SES Risk Owner as soon as possible.
+22. Prioritisation in these circumstances will be subject to formal risk assessment and strategy development in accordance with approved business line procedures. These should be reviewed at least every three months in view of the most up to date information available about the nature of the risk.
+Identification of potential issues by TCN or CoE officers
+23. In the course of their day-to-day work, TCN or CoE officers may identify that a particular issue involves sufficient risk that it is potentially a PTI. In these circumstances, the officer must refer the issue to the appropriate business line gatekeeper for consideration of the risk.
+Escalation to the PTIC
+24. In the event that the relevant SES officers (see paragraph 17 of this practice statement) fail to agree that an issue is a PTI, a PTI proposal and supporting submission may be referred to the PTIC, subject to engaging the Deputy Commissioner (DC). Where such an issue crosses more than one line the PTIC will, in conjunction with the relevant DC, decide where accountability for that issue will belong.
+25. Where resolution of a PTI becomes impeded or is not being progressed in a timely manner, the issue can be escalated to PTIC for assistance. This is in addition to the escalation process undertaken by PTI Owners and SES Risk Owners for issues that miss milestone and completion dates (see paragraph 27 of this practice statement).
+Management of PTIs
+26. Consistent with good management principles, PTIs must be supported from the outset by a plan which sets out the treatment strategy for resolution of the issue. The plan, which is documented by way of the resolution schedule, should be agreed to by the PTI Owner, PTI SES
+[4]
+and SES Risk Owner, and must state an expected completion date and dates for key milestones or activities which form part of the treatment strategy. Where the resolution schedule strategy involves the publication of a ruling, determination, significant addendum or LAPS, a rulings or LAPS notification form will be completed in conjunction with the PTI proposal and resolution schedule.
+27. Progress against the plan must be regularly reviewed. Where it becomes apparent that a key milestone will be missed, requiring a change to the expected completion date, the relevant SES Band 2 officers
+[5]
+must be provided with an explanation and a revised resolution schedule. Their approval to extend the key milestone and completion dates must be obtained.
+Allocation of PTI Owners
+28. Each PTI will be assigned a PTI Owner (see paragraph 18 of this practice statement). The responsibilities of the PTI Owner are described in paragraph 32 of this practice statement.
+29. PTIs requiring the establishment of a precedential ATO view will be assigned to a CoE officer as PTI Owner. Issues not requiring establishment of a precedential ATO view will be assigned to a TCN officer as PTI Owner. TCN may also become involved in precedential matters, following the requirements of paragraph 30 of this practice statement, but ordinarily only after the matter has been referred to the appropriate CoE. The need for the involvement of TCN should be assessed immediately after the issue has been referred to the CoE and reviewed as work on the issue progresses.
+30. The following requirements also apply:
+•
+For Priority 1 and 2 issues, the PTI Owner assigned must be of at least an EL 2 classification.
+•
+Where the suggested treatment of the technical issue is a public ruling or legislative amendment an appropriate TCN officer must have involvement with the issue.
+•
+Potential PTIs associated with legislative projects approved by the Policy Implementation Forum are to be approved by an SES CoE officer although the PTI Owner will be an appropriate TCN officer.
+•
+For Priority 1 issues an appropriate Senior Tax Counsel must have involvement with the issue, for example, approving a public ruling.
+Responsibilities of SES Risk Owners and Risk Contact
+31. The SES Risk Owner, together with the nominated Risk Contact who reports to them, is responsible for:
+•
+managing the overall mitigation strategy (or project, should one exist, of which resolution of the PTI is a part) for the relevant risk including, for example, Taxpayer Alerts, call centre scripts, communication strategies, systems requirements, follow up compliance strategies, advice to Government
+•
+ensuring that the risk associated with the PTI is recorded and maintained on the ATO or business line Risk Register where relevant
+•
+with the PTI Owner, regularly reviewing the level of risk and the importance of resolving the PTI, and therefore the priority level of the PTI
+•
+advising the PTI Owner of any new intelligence, changes to the importance of resolution of the technical issue to the risk mitigation strategy or changes to the rating of the associated risk
+•
+ensuring that the PTI Owner is given every assistance in resolving the technical issue
+•
+liaising with the PTI Owner and stakeholders in articulating the technical issue and ensuring the resolution strategy deals appropriately with the business risks
+•
+with the PTI Owner and PTI SES, developing a plan to resolve the PTI, including the establishment of milestones and deadlines and the conduct of a consultative process
+•
+in consultation with the PTI Owner, engaging as early as possible all relevant stakeholders including other business lines and parties external to the ATO
+•
+regularly reviewing progress of resolution of the technical issue (with the PTI Owner, PTI SES and stakeholders) to ensure that milestones and deadlines are being met and/or updated
+•
+with the PTI Owner, escalating changes to key milestones and completion dates to relevant Band 2 SES officers for approval
+•
+ensuring that any related cases are maintained and managed in the appropriate case management systems and finalised once the technical issue is resolved
+•
+determining any residual risk and evaluating the risk mitigation strategy on completion, and
+•
+ensuring that all relevant information about management of the risk is maintained in the enterprise system.
+Responsibilities of PTI Owners
+32. PTI Owners are responsible for:
+•
+liaising with the SES Risk Owner, Risk Contact and all other stakeholders in articulating the technical issue to enable external publication of issues where appropriate without a breach of secrecy or taxpayer privacy
+•
+with the SES Risk Owner, Risk Contact and PTI SES, developing a plan to resolve the PTI, including the establishment of milestones and deadlines and the conduct of consultative processes
+•
+regularly reviewing progress of resolution of the technical issue (with the SES Risk Owner, Risk Contact, PTI SES and stakeholders) to ensure that milestones and deadlines will be met or require updating
+•
+with the SES Risk Owner and Risk Contact, escalating changes to key milestone dates and completion dates to relevant Band 2 SES officers for approval
+•
+coordinating all work undertaken in relation to the resolution of the technical issue (including work done in the business line)
+•
+anticipating downstream or consequential impacts and ensuring that they are addressed in the strategy to resolve the technical issue. For example, whether the issuing of a public ruling on income tax matters might give rise to the need for a companion public ruling on GST or FBT (or vice versa)
+•
+assisting the SES Risk Owner and Risk Contact to engage as early as possible all relevant stakeholders including other business lines and parties external to the ATO
+•
+with the SES Risk Owner and Risk Contact, regularly reviewing the level of risk and the importance of resolving the PTI, and therefore the priority level of the PTI, and
+•
+ensuring that all relevant information about management of the technical issue is maintained in the enterprise system.
+Responsibilities of PTI SES
+33. PTI SES are responsible for:
+•
+ensuring appropriate resources are allocated to resolve the issue
+•
+with the PTI Owner, SES Risk Owner and Risk Contact, developing a plan to resolve the PTI, including the establishment of milestones and deadlines and the conduct of consultative processes
+•
+regularly reviewing progress of resolution of the technical issue (with the SES Risk Owner, PTI Owner and stakeholders) to ensure that milestones and deadlines are being met and/or updated, and
+•
+providing leadership and assistance to the PTI Owner and/or SES Risk Owner where required.
+Responsibilities of Band 2 SES officers
+34. Band 2 SES officers are responsible for:
+•
+the overall management of PTIs, including management of the technical issue and management of the associated risk
+•
+the review and approval of changes to key milestones and expected completion dates, and
+•
+providing leadership and assistance to the PTI Owner and/or SES Risk Owner where required.
+Recording on Siebel
+35. The corporate enterprise system for managing the PTI process is Siebel. The Interpretative Assistance Intranet site (available to ATO staff only) contains detailed instructions on how to create and maintain a Risk PTI case and related PTI, Rulings, Determination and LAPS cases on Siebel. A link to the procedures for managing the PTIs on Siebel is available in the Other References section at the conclusion of this practice statement. Further information is also provided in the PTI process guide.
+36. Case officers should note that:
+•
+the relevant Siebel case should focus on the issues rather than any associated audit case or taxpayer circumstances. They should not contain details that may identify a taxpayer unless those details are a matter of public record
+•
+an officer who identifies an issue but finds an apparent Risk-PTI or related case for that issue already on Siebel should liaise with the owner of the case to clarify the situation and/or contribute new intelligence, and
+•
+the technical issue should be accurately described so that its full scope can be clearly understood both internally and externally. Judgment needs to be exercised regarding whether a  case should be created for groups of related technical issues or as separate cases. For example, where a number of related issues are to be dealt with in a single public ruling it would be usual for all of those issues to be escalated and approved in a single Risk PTI case with the management of the issues to be managed in the draft rulings and final rulings cases.
+37. Failure to properly manage Risk-PTI and related cases on Siebel could lead to major risks going undetected or risks not being properly managed or prioritised. Accordingly, Risk-PTI cases and related cases:
+•
+should be linked to other Risk-PTI cases, PTI cases, Ruling and Determination cases or LAPS cases, audit cases, private ruling requests, litigation etc, as relevant
+•
+should at a minimum, be reviewed and updated monthly, especially:
+-
+the resolution schedule
+-
+the current action and treatment status, and
+-
+progress against key milestones and completion dates, and
+•
+should be updated immediately the facts, priority or status of the risk and/or importance of resolving the technical issue change.
+Finalising PTIs
+38. A PTI is ordinarily ready for finalisation when the issue has been resolved by one or more of the methods of resolution outlined in paragraph 12 of this practice statement. However, a PTI should not be finalised until the engagement of the PTI Owner is no longer required in relation to the particular issue.
+39. In some instances, there may be a need for the PTI Owner to continue to be involved even though an ATO view has been established. For example, a final ruling may have issued but it is expected to be challenged. Similarly, if a draft ruling has issued, the PTI cannot be finalised until the ruling has been issued in final form. Also, although an ATO view has been established, the issue may have been referred to Treasury for consideration of policy implications, requiring the PTI Owner to continue their involvement until Treasury has reached a conclusion on the policy question. In these circumstances the issue will be managed in the appropriate case in Siebel. For example, if application of the ATO view has resulted in litigation the issue should be managed in a litigation case on Siebel.
+40. Once the PTI has been finalised, the SES Risk Owner is responsible for ensuring that any dependent cases or other outstanding actions with regard to the overall risk mitigation strategy are completed as appropriate.
+41. Proper risk management requires that the risk be reassessed after important elements of the strategy are implemented. For example, it would be necessary to assess the residual risk after issue of a public ruling.
+[6]
+It also requires an evaluation of the risk mitigation strategy including, for example, the contribution of any public ruling, private ruling or other communication of the ATO view, issued as part of the strategy. Such evaluation should be an integral component of the overall documented and structured approach for identifying, assessing, prioritising and treating the risk.
+Attachment A
+Attachment B
+Amendment history
+Date of amendment
+Part
+Comment
+20 May 2011
+Contact details
+Updated.
+5 January 2011
+Various
+Update 'Tax Office' to 'ATO'; minor revisions to update some references.
+Paragraphs 17, 26
+Revised to add explain the updated approval process due to the PTI improvement streamlining project
+Paragraphs 36 and 37
+Revised to update work management requirements regarding Siebel.
+Contact details
+Updated.
+23 July 2010
+Paragraph 14
+Strategic PTIC reference removed as no longer relevant.
+Various
+Updated table of paragraph referencing.
+20 July 2010
+Paragraph 14
+Strategic PTIC reference removed as no longer relevant.
+Various
+Updated paragraph referencing.
+13 May 2010
+Other references
+Updated
+September 2009
+Various
+Updated to allow for requirements to record and manage Risk-PTI and PTI cases on Siebel and procedural changes in regard to litigation.
+Contact details
+Updated
+9 January 2009
+Various
+Update to allow for practice management changes introduced in July 2008, including escalation to Band 2 SES.
+28 February 2008
+Contact details
+Updated
+4 December 2006
+Paragraph 16
+Update link for ATO Risk Matrix.
+1 July 2006
+Various
+Update hyperlinks.
+Paragraph 29 (third dot point)
+Rewritten for clarification.
+Contact details
+Updated
+1 June 2005
+Paragraph 12
+Include reference to priority private binding rulings.
+7 April 2005
+Paragraphs 4, 5, 6, 13, 15 and 24
+Rewritten and re-inserted.
+Paragraph 12
+Addition of 'an interpretative nature'.
+Paragraphs 7-12 and 35-38
+Rewritten for clarification.
+Date of Issue:
+6 April 2005
+Date of Effect:
+6 April 2005
+[1]
+See PS CM 2003/14 Provision of formal ATO advice to Treasury.
+[2]
+An addendum is significant if it is the main strategy to resolve a PTI. Significant addenda are published on the Public Rulings program.
+[3]
+Where an issue that has arisen (for example, from a private ruling request, compliance activity or a call centre request) requires an ATO precedential view to be established and promulgated.
+[4]
+See paragraph 17 of this practice statement for further guidance.
+[5]
+Further details are provided in the PTI process guide.
+[6]
+See also Part 13 of the Public Rulings Manual.
+File  2002/010803, 03/11927-28, 03/11931; 1-2LDXZYQ
+Related Practice Statements:
+PS CM 2003/02
+PS CM 2003/05
+PS CM 2003/14
+PS LA 2003/3
+PS LA 2005/10
+Other References:
+ATO Risk Matrices
+ORCLA
+Public Rulings Manual
+PTI process guide
+PTI Proposal template
+PTI homepage
+Siebel procedures
+Subject References:
+priority technical issues
+PTI
+risk management
+significant issues
+Authorised by:
+Michael D'Ascenzo
+Other business lines consulted:
+All
+PS LA 2003/10 (Withdrawn) history
+Date:
+Version:
+7 September 2009
+Updated statement
+13 May 2010
+Updated statement
+23 July 2010
+Updated statement
+5 January 2011
+Updated statement
+You are here
+18 May 2012
+Archived
+This practice statement was originally published on 3 November 2003. Versions published from September 2009 are available electronically - refer to the online version of the practice statement.   Versions published prior to this date are not available electronically. If needed, these can be requested by emailing
+TCNLawPublishingandPolicy@ato.gov.au
+.
+Back to top

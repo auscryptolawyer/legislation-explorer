@@ -1,0 +1,830 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+104 related documents
+Taxation Ruling
+TR 2014/7
+Income tax:  foreign currency hedging transactions - applying the foreign income tax offset limit under section 770-75 of the
+Income Tax Assessment Act 1997
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+TR 2014/7EC
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+LEGALLY BINDING SECTION:
+What this Ruling is about
+1
+Terminology
+4
+Ruling
+13
+Examples
+25
+Date of effect
+62
+NOT LEGALLY BINDING SECTION:
+Appendix 1: Explanation
+65
+Appendix 2:Alternative views
+184
+Appendix 3:Detailed contents list
+201
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling applies to an Australian resident taxpayer deriving assessable gains and deductible losses from foreign currency hedging transactions undertaken to mitigate the foreign currency fluctuation risk attached to the market value of a portfolio of assets and sets out the application of section 770-75 of the
+Income Tax Assessment Act 1997
+(ITAA 1997)
+[1]
+(the foreign income tax offset limit) to these gains and losses.
+2. This Ruling deals with:
+•
+when gains from foreign currency hedging transactions will be from a source other than an Australian source for the purposes of subparagraph 770-75(4)(a)(ii)
+•
+when losses from foreign currency hedging transactions will be reasonably related to income that is covered by paragraph 770-75(4)(a) (disregarded income) for the purposes of subparagraph 770-75(4)(b)(ii).
+3. This Ruling does not deal with the source of any other income.
+Terminology
+4. The following terminology is used for the purposes of this Ruling.
+Disregarded income
+5. A taxpayer's 'disregarded income' is so much of their assessable income that is covered by paragraph 770-75(4)(a). This will be comprised of so much of their assessable income in respect of which they have paid foreign income tax (including within the meaning of Subdivision 770-C) or which is not from an Australian source.
+Foreign currency hedging transactions
+6. 'Foreign currency hedging transactions' are transactions entered into to offset all, or part, of any foreign currency fluctuation risk attached to the value of an underlying portfolio of assets. These transactions may also be referred to as 'trades' and are cash settlable. This risk is generally mitigated through the use of derivatives such as forwards and swaps. Where a Master International Swaps and Derivatives Associations Agreement (Master ISDA) is in place, the term 'foreign currency hedging transaction' is referring to each transaction entered into under that Master ISDA.
+Foreign currency hedging gains
+7. 'Foreign currency hedging gains' describe any gain from a foreign currency hedging transaction to the extent that it is included in assessable income under any provision of the ITAA 1997.
+Foreign currency hedging losses
+8. 'Foreign currency hedging losses' describe any loss from a foreign currency hedging transaction to the extent that it is deductible from assessable income under any provision of the ITAA 1997.
+Foreign currency hedging strategy
+9. The term 'foreign currency hedging strategy' refers to a predetermined strategy to manage exchange rate fluctuations in relation to a particular portfolio of assets. Foreign currency hedging transactions are entered into based on the exchange rate risk associated with the value of the portfolio as opposed to specific assets within that portfolio. Such a hedging strategy is typically referred to as an 'overlay'. Foreign currency hedging transactions are undertaken in accordance with this strategy by either the entity itself or a third party hedge manager who is engaged to enter into some or all of the transactions as an agent of the entity. The hedging strategy may or may not have a separate benchmark return over and above the maintenance of the underlying market value of the assets.
+10. For the purposes of this Ruling, the thing which differentiates one hedging strategy from another is the specific portfolio of assets in respect of which the exposure is being hedged. An entity may therefore have a number of different hedging strategies if they choose to manage the foreign currency exposure separately for each portfolio. For example, an entity may have one hedging strategy for international equities, one for global bonds and one for infrastructure. An example of a foreign currency hedging strategy is set out in paragraphs 34 to 36 of this Ruling.
+Portfolio of assets
+11. A 'portfolio of assets' refers to assets which are grouped together by a taxpayer for the purpose of (or purposes which include) managing the foreign currency risk associated with those assets. For example, a portfolio of assets may be a specific class of assets or various assets denominated in a particular foreign currency or a mixture of both. The precise composition of a portfolio of assets may change. In this Ruling a portfolio of assets refers to a portfolio as it may be comprised from time to time. An example of a portfolio of assets is contained in paragraph 34 of this Ruling.
+Underlying asset
+12. The term 'underlying asset' refers to an individual asset included at some time in the portfolio of assets in respect of which the currency exposure is hedged.
+Ruling
+Source of foreign currency hedging gains
+13. While the source of income will always depend on the particular facts and circumstances, for the transactions the subject of this Ruling, the place where each foreign currency hedging contract is formed is the most important element in determining the source of any resulting foreign currency hedging gain.
+14. [Omitted.]
+15. [Omitted.]
+Meaning of 'reasonably related'
+16. The term 'reasonably related' in subparagraph 770-75(4)(b)(ii) includes a relationship that may either be direct or indirect. A reasonable relationship between a deduction and the disregarded income will exist where the deduction was incurred in connection with the disregarded income and that connection is not remote or coincidental.
+17. Subparagraph 770-75(4)(b)(ii) only requires that a
+reasonable
+relationship exists between the deductions and the disregarded income for that year. Therefore, the deduction does not need to be incurred in deriving the disregarded income and it does not need to be exclusively related to the disregarded income.
+18. Subparagraph 770-75(4)(b)(ii) does not require determining to which income a deduction is 'most' reasonably related, only to which income a deduction is reasonably related. Therefore, a deduction can be reasonably related to more than one type of income. It follows that the whole of a deduction can be reasonably related to one type of income with the whole or part of the same deduction also being reasonably related to another type of income. Whether apportionment is then appropriate depends on why and how the deduction is reasonably related to the income.
+When are losses from foreign currency hedging transactions reasonably related to disregarded income?
+19. Whether a foreign currency hedging loss is reasonably related to disregarded income depends on the risk the foreign currency hedging transactions is designed to hedge.
+20. A foreign currency hedging loss will be reasonably related to a foreign currency hedging gain that is disregarded income where the foreign currency hedging transactions giving rise to the losses and gains are entered into under the same foreign currency hedging strategy. This is the case irrespective of the size of the portfolio of assets and irrespective of the nature and denomination of the assets making up the portfolio.
+21. A foreign currency hedging loss will also, in part, be reasonably related to any assessable foreign sourced gain arising from the realisation of an underlying asset, if the loss is made from a foreign currency hedging transaction entered into as part of the foreign currency hedging strategy in respect of the portfolio of assets which includes that underlying asset.
+22. Likewise, to the extent that a gain recognised under Division 230 reflects the value of the underlying assets in a portfolio and can be said to be from a source other than an Australian source, a foreign currency hedging loss made in hedging the value of that portfolio of assets will at least in part be reasonably related to that gain.
+Apportionment
+23. A foreign currency hedging strategy may give rise to both foreign sourced and Australian sourced foreign currency hedging gains. In this case the hedging losses are apportioned. Apportionment is also necessary where the only disregarded income is assessable gains arising from the foreign assets forming the basis of the hedging portfolio.
+24. There is, however, no apportionment just because the hedging losses are related to foreign currency hedging gains that are disregarded income and are also reasonably related to income as described in paragraphs 21 and 22 of this Ruling. Nor is there any apportionment to reflect that the hedging loss also has a relationship to any unrealised value of the portfolio. That is, once the amount of hedging loss reasonably related to the foreign source hedging gains is ascertained, this amount is the amount 'reasonably related' to the disregarded income and no apportionment occurs.
+Examples
+25. [Omitted.]
+26. [Omitted.]
+27. [Omitted.]
+28. [Omitted.]
+29. [Omitted.]
+30. [Omitted.]
+31. [Omitted.]
+32. [Omitted.]
+33. [Omitted.]
+Example 1
+34.
+An Australian resident entity (the Australian entity) has three separately identified portfolios of international assets, each managed by a different investment manager
+:
+•
+International equities (market value $100 million
+).
+•
+Private market property (market value $80 million
+).
+•
+Infrastructure (market value $50 million
+).
+35.
+The Australian entity engages an Australian based, external hedge manager (the Manager) to manage its exposure to foreign currency fluctuations in respect of each of its asset portfolios on an overlay basis for each portfolio. The asset portfolios are identified separately in the management agreement. The Manager's performance is assessed monthly against performance criteria set separately for each portfolio of assets
+.
+36.
+The Australian entity determines how much of the value of each of its asset portfolios it wishes to hedge and instructs the Manager accordingly
+.
+37.
+The Manager enters into forward contracts as agent of the Australian entity. All hedging gains are foreign sourced
+.
+38.
+Foreign currency hedging gains and losses (which are respectively assessable income and allowable deductions of the Australian entity) are realised in respect of each portfolio
+.
+39.
+In an income year the following occurs
+:
+•
+In respect of the international equities portfolio there are foreign currency hedging gains of $5 million and foreign currency hedging losses of $6 million
+.
+•
+In respect of the private market property portfolio there are foreign currency hedging gains of $1 million and foreign currency hedging losses of $500
+,
+000
+.
+•
+In respect of the infrastructure portfolio there are foreign currency hedging gains of $500
+,
+000 and foreign currency hedging losses of $1.5 million
+.
+No foreign income tax is paid on the foreign currency hedging gains.
+40.
+In the same income year, the Australian entity also derived assessable dividends from the international equities, in respect of which it paid foreign income tax. In respect of the other two portfolios, the Australian entity made capital losses and did not derive any assessable income
+.
+41. Both the foreign currency hedging gains and the dividend income are disregarded income under paragraph 770-75(4)(a).
+42. In respect of each portfolio, the foreign currency hedging losses are reasonably related to the foreign currency hedging gains. There is therefore an amount of disregarded income to which each of the foreign currency hedging losses wholly reasonably relate.
+43. Whilst there is therefore no need to consider whether those losses also relate to any other disregarded income, for completeness, it is nonetheless noted that none of the foreign currency hedging losses relate to the dividend income.
+44. For the purposes of the calculation in subsection 770-75(4):
+•
+the disregarded income for the income year is the $6.5 million foreign currency hedging gains and the dividend income;
+•
+the amount of the deductions referred to in subparagraph 770-75(4)(b)(ii) for the income year is the $8 million total foreign currency hedging losses.
+Example 2
+45.
+The facts are the same as in Example 1 except that a capital gain of $1 million from the infrastructure portfolio representing the sale of one asset within the portfolio is included in the net capital gain of the Australian entity
+.
+46. As stated in Example 1, because - in respect of each portfolio - the foreign currency hedging losses are reasonably related, in their entirety, to the hedging gains, there is no need to consider whether those losses also relate to any other disregarded income. (For completeness, it is nonetheless noted that in respect of the infrastructure portfolio, the foreign currency hedging losses are also, in part, reasonably related to the net capital gain income.)
+47. For the purposes of the calculation in subsection 770-75(4), the disregarded income is $7.5 million plus the dividend income, while the amount of deductions referred to in subparagraph 770-75(4)(b)(ii) are as set out in Example 1.
+Example 3
+48.
+An Australian resident superannuation fund (the Fund) has investments in foreign assets which include foreign property. As part of its investment strategy, the Fund adopts a foreign currency hedging strategy to manage its exposure to fluctuations in foreign exchange movements in respect of the foreign property
+.
+49.
+The Fund enters into an agreement with an Australian hedge manager to manage the foreign currency risk in respect of the foreign property portfolio
+.
+50.
+The Australian hedge manager enters into foreign currency hedging transactions. The foreign currency hedging gains are Australian sourced. The Fund makes both foreign currency hedging gains and losses from transactions entered into under this strategy
+.
+51.
+The Fund disposes of some of the foreign property and realises a capital gain and pays foreign income tax on this gain
+.
+52. The capital gain from the foreign property is included in the Fund's net capital gain and is disregarded income within the meaning of subparagraph 770-75(4)(a)(i). The foreign currency hedging gains under the hedging strategy are not disregarded income as they are from an Australian source.
+53. The foreign currency hedging losses from hedging transactions which hedge the market value of the portfolio of assets (that includes the foreign property that gave rise to the capital gain) are, in part, reasonably related to the disregarded net capital gain income.
+54. As the foreign currency hedging losses relate to the whole portfolio of assets, only a portion of these losses is reasonably related to the net capital gain. Therefore, the foreign currency hedging losses from this portfolio will need to be apportioned on a reasonable basis.
+Example 4
+55.
+An Australian resident superannuation fund (the Fund) has investments in foreign assets which are all included in one portfolio valued at $70 million. As part of its investment strategy, the Fund adopts a foreign currency hedging strategy to manage its exposure to fluctuations in foreign exchange movements in respect of the foreign assets
+.
+56.
+It engages an external hedge manager to manage its exposure to foreign currency fluctuations in respect of that portfolio
+.
+57. [Omitted.]
+58.
+The Fund makes foreign currency hedging gains of $2 million and foreign currency hedging losses of $2.5 million under the foreign currency hedging strategy. It also sells an underlying asset which represents less than 1% of the value of the portfolio and makes a net capital gain in that same income year
+.
+59.
+The Fund determines that 20% of the hedging gains made under the foreign currency hedging strategy are from an Australian source
+.
+60.
+Therefore, the foreign currency hedging gains from a foreign source are $1.6 million (80% of $2 million). Applying that same percentage to the foreign currency hedging losses, $2 million (80% of $2.5 million) are 'reasonably related' to disregarded income for the purposes of paragraph 770-75(4)(b)(ii).
+61. Because the underlying asset sold represents only a very small value of the portfolio, no additional amount of the foreign currency hedging loss (over the 80% already taken into account) would need to be included in the foreign income tax offset cap calculation.
+Date of effect
+62. With the exception of paragraph 13, this Ruling applies to years of income commencing on or after 1 July 2014.
+63. Paragraph 13 of this Ruling applies to years of income commencing on or after 1 July 2015. This Ruling was issued in different form in December 2014. Those parts of the original Ruling addressing source applied from income years commencing 1 July 2014 and the parts of this Ruling addressing source apply from 1 July 2015.
+64. This Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+Commissioner of Taxation
+10 December 2014
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Background
+65. Large institutional investors, such as superannuation funds, typically manage their exposure to foreign currency arising from their investments denominated in foreign currency on an overlay basis. Under this method, a decision is made to adopt a foreign currency hedging strategy whereby a percentage of the value of one or more portfolios of assets is hedged. The foreign currency hedging strategy is typically quite separate to the management of the underlying assets themselves.
+66. The purpose of the foreign currency hedging strategy is to minimise the foreign currency risk from the effect foreign currency fluctuations could have on the underlying investment values such that any changes arising from foreign currency movements are negated.
+67. The very nature of a foreign currency hedging strategy means that both (deductible) foreign currency hedging losses and (assessable) foreign currency hedging gains will result. Under a foreign currency hedging strategy, the foreign currency hedging losses are not necessarily made in pursuit of a foreign currency hedging gain. The foreign currency hedging strategy and therefore the individual hedging transactions are in respect of a dollar value informed by the market value of the underlying assets making up the portfolio.
+68. This Ruling focusses on a foreign currency hedging strategy conducted on an overlay basis.
+Overview of Division 770
+69. The foreign income tax offset rules contained in Division 770 provide relief from the double taxation that may arise where a taxpayer pays foreign tax on income that is also taxable in Australia. A non-refundable tax offset for foreign income tax paid is allowed in respect of amounts which are also included in assessable income in Australia.
+70. To be entitled to an offset under subsection 770-10(1), a taxpayer must have:
+•
+included an amount in their assessable income for that income year, and
+•
+paid foreign income tax (as defined in subsection 770-15(1)) in respect of that amount.
+71. The amount of the foreign income tax offset will be the amount of foreign income tax paid, subject to the foreign income tax offset limit worked out under section 770-75. The foreign income tax offset limit essentially limits the offset to the amount of Australian tax otherwise payable on the net foreign income (or other amounts in respect of which the taxpayer has paid foreign income tax) included in assessable income.
+72. Subsection 770-75(1) provides that where the foreign income tax offset exceeds the offset limit, the offset is reduced by the amount of the excess.
+[2]
+73. In determining the foreign income tax offset limit, paragraph 770-75(2)(b) requires the calculation of two different amounts.
+74. The first amount is the income tax payable for the income year before any tax offsets or penalties are applied (subparagraph 770-75(2)(b)(i)). The second amount is the income tax payable for the income year before any tax offsets or penalties are applied and assuming certain other amounts are disregarded (subparagraph 770-75(2)(b)(ii)).
+75. The second amount is subtracted from the first amount to determine the limit and consequently, the maximum amount of foreign income tax offset allowable.
+76. Subsection 770-75(4) provides the assumptions for the purposes of calculating the second amount as follows:
+Assume that:
+(a)
+your assessable income did not include:
+(i)
+so much of any amount included in your assessable income as represents an amount in respect of which you paid *foreign income tax that counts towards the *tax offset for the year; and
+(ii)
+any other amounts of *ordinary income or *statutory income from a source other than an *Australian source; and
+(b)
+you were not entitled to any deductions that:
+(i)
+are *debt deductions that are attributable to an *overseas permanent establishment of yours; or
+(ii)
+are deductions (other than debt deductions) that are reasonably related to amounts covered by paragraph (a) for that year.
+77. A foreign currency hedging gain will therefore be taken into account under paragraph 770-75(4)(a) if either:
+•
+foreign tax was paid in respect of it, or
+•
+it is from a source other than an Australian source.
+78. A deductible foreign currency hedging loss will be taken into account under paragraph 770-75(4)(b) if it is reasonably related to an amount that is either assessable income in respect of which foreign tax has been paid or from a source other than an Australian source.
+79. It is therefore necessary to determine:
+(a)
+how these gains and losses are treated for Australian tax purposes, and
+(b)
+the source of the foreign currency hedging gains.
+Tax treatment of foreign currency hedging gains and losses
+80. Division 230 and Division 775 need to be taken into account when determining the tax treatment of foreign currency hedging gains and losses. Division 775 is only relevant where Division 230 is not applicable to the transaction.
+[3]
+Division 230
+81. Division 230 deals with the taxation of gains and losses from financial arrangements commencing on or after 1 July 2010,
+[4]
+with some exceptions.
+[5]
+82. Where Division 230 applies to a financial arrangement, section 230-15 operates to make gains from that financial arrangement assessable income and losses from that financial arrangement deductible to the extent that the losses are made in gaining or producing assessable income or are necessarily incurred in carrying on business for the purposes of gaining or producing assessable income.
+83. Foreign currency hedging transactions meet the definition of a 'financial arrangement' in section 230-45.
+84. Division 230 provides for various tax methods to determine the basis for calculating what amounts are assessable or deductible in each income year.
+85. With the exception of certain gains and losses worked out under the hedging financial arrangements method provided by Subdivision 230-E (discussed below), gains and losses are treated as being revenue in nature and therefore separately form part of assessable income and allowable deductions respectively.
+[6]
+86. Subdivision 230-E allows for a 'hedging financial arrangements method' to apply to a 'hedging financial arrangement'
+[7]
+where an election is made and certain other criteria are satisfied.
+[8]
+87. The hedging financial arrangements method seeks to reduce post-tax mismatch by ensuring that gains and losses from hedging financial arrangements are included in taxable income at the same time that the gains or losses made from the hedged item or items are included in taxable income.
+[9]
+88. Broadly, where the hedging financial arrangements method applies, a gain or loss from a hedging financial arrangement will be treated as a capital gain or loss to the extent that it is reasonably attributable to a CGT event happening to the underlying asset and the circumstances are such that a gain made in respect of the underlying asset would be included in the taxpayer's net capital gain (rather than being assessable as ordinary income).
+[10]
+89. Where the hedging financial arrangements method applies and a hedging financial arrangement is reasonably attributable to a hedged item that produces ordinary or statutory income, the table in subsection 230-310(4) generally applies such that a gain is treated as ordinary or statutory income and any loss from the arrangement is treated as a loss incurred in gaining or producing ordinary or statutory income.
+90. Where a foreign currency hedging loss is treated as a capital loss it is taken into account in calculating the net capital gain
+[11]
+or net capital loss
+[12]
+for the relevant income year. Therefore, if the foreign currency hedging loss is treated as being on capital account under Subdivision 230-E, it will not be a 'deduction' for the purpose of subparagraph 770-75(4)(b)(ii). Likewise, because a capital loss is not an amount that is deductible, such losses are not 'foreign currency hedging losses' within the meaning of this Ruling.
+[13]
+Division 775
+91. Where Division 230 does not apply, Division 775 will be relevant to the foreign currency hedging gains and losses.
+[14]
+92. In respect of forex gains the basic rule in subsection 775-15(1) provides that assessable income for an income year includes a forex realisation gain made as a result of a forex realisation event that happens during that year.
+93. In respect of forex losses the basic rule in subsection 775-30(1) provides that you can deduct from assessable income for an income year a forex realisation loss you make as a result of a forex realisation event that happens during that year.
+94. Foreign currency hedging gains and losses covered by Division 775 therefore form part of assessable income or allowable deductions.
+Source of foreign currency hedging gains
+95. Assessable income from a source other than an Australian source, upon which the taxpayer has not (or is not taken to have) paid foreign tax, is disregarded pursuant to subparagraph 770-75(4)(a)(ii).
+[15]
+96. Determining the source of an item of income:
+•
+is a matter of fact to be determined having regard to the facts and circumstances of each case and the relative weight to be given to those facts and circumstances
+[16]
+•
+looks to the element or elements in the transaction which contribute to the derivation of the income and the relative importance of each, viewed through an eye focussed on practical business affairs.
+[17]
+97. Importantly, the focus is not on 'why' the gain is being made but on 'where'.
+[18]
+98. In cases where the operations are characterised by entering into transactions, there are cases in which the place of formation of the contract has been given significant weight.
+[19]
+There are other cases where the place of formation of the contract was considered to be only one contributory factor or given little significance.
+[20]
+The difference lies in determining what it is that generates the profit.
+[21]
+99. In a hedging transaction of a type described in this Ruling, while the source of income will always depend on the particular facts and circumstances, the activity which is, as a practical matter of fact, most important in producing the gain is the entering into and conclusion of the contract itself. Matters preliminary to the contract, such as entering into the Master ISDA, decisions as to how to best manage the foreign currency risk and the instructions on the management of that risk are, then, part of the reason
+why
+the transaction was entered into.
+[22]
+100. As a consequence, the place where each foreign currency hedging transaction is formed is the most important element in determining source of any resulting foreign currency heding gain.
+101. Absent express or implied terms to the contrary, a contract is formed where the communication of the acceptance is received.
+[23]
+102. [Omitted.]
+103. [Omitted.]
+104. [Omitted.]
+105. [Omitted.]
+106. [Omitted.]
+107. [Omitted.]
+108. [Omitted.]
+109. [Omitted.]
+110. [Omitted.]
+111. [Omitted.]
+112. [Omitted.]
+113. [Omitted.]
+114. [Omitted.]
+115. [Omitted.]
+116. [Omitted.]
+117. [Omitted.]
+118. [Omitted.]
+119. [Omitted.]
+120. [Omitted.]
+121. [Omitted.]
+122. [Omitted.]
+The meaning of 'reasonably related'
+123. Deductions will be disregarded under subparagraph 770-75(4)(b)(ii) where they are 'reasonably related' to disregarded income.
+124. The meaning of 'reasonably related' was considered in the High Court case
+Airservices Australia v. Canadian Airlines International Ltd
+[45]
+in the context of whether charges were 'reasonably related' to expenses incurred by the Civil Aviation Authority in the provision of services and facilities. McHugh J stated the following:
+The concept of 'reasonableness' is a category of indeterminate reference. Its application in a given factual situation cannot depend upon a logical formulation. In one sense, the appearance of the word 'reasonable' or a variant in a statutory provision is, as Oliver Wendell Holmes Jr pointed out, nothing more than a direction to the court applying the provision '[to derive] the rule to be applied from daily experience'. The requirement that the charges be reasonably related to the expenses as described above at least requires that there be some rational relationship between the charges and the expenses. But once this rather low threshold is met, the degree of closeness of the relationship which is required in order for the statutory requirement to be satisfied cannot be described in the abstract. It depends on the application, to the circumstances of a particular case, of the fact-value complex that the word 'reasonably' invokes.
+[46]
+125. The meaning of 'reasonably related' therefore depends on the statutory context.
+[47]
+Statutory context
+126. The object of Division 770 is to relieve double taxation where foreign tax has been paid by a taxpayer on their assessable income by granting a foreign income tax offset. As outlined in paragraphs 69 to 75 of this Ruling, the offset is capped at the Australian tax otherwise payable.
+127. This is achieved by comparing the tax actually payable and what would be payable had the net double taxed income (and other net income not double taxed but still not from Australian sources) been disregarded (the disregarded income).
+128. In this sense, the nature of the connection required is determined by whether it is appropriate to reduce the disregarded income for the purposes of ascertaining the amount of Australian tax otherwise payable on the disregarded income.
+129. In this respect, the context, and hence nature of the connection between a deduction and the foreign income, is not materially different to the former foreign tax credit provisions in former section 160AF of the
+Income Tax Assessment Act 1936
+(ITAA 1936).
+[48]
+Under these provisions, the foreign tax credit was also effectively capped at the amount of Australian tax payable in respect of the foreign income calculated by reference to the defined concept of 'net foreign income'. In calculating net foreign income, assessable foreign income was reduced by deductions that 'related exclusively' to that income and so much of other deductions which, in the opinion of the Commissioner were 'appropriately related' to that income. These two concepts have been replaced by the one concept of 'reasonably related'. In the absence of any intent to change the policy in this particular regard, it can be assumed that 'reasonably related' was intended to encompass the two formerly separate concepts.
+130. There is therefore no reason to not then describe the relationship in similar terms to those used by Senior Member Block in
+AAT Case 11
+,
+375
+[49]
+who held that to be related the deductions must be connected, have reference to, or stand in some relation to the foreign income. Further, the term 'connected' must, having regard to the qualifying word 'appropriately', mean that the relevant connection has more than a mere passing or peripheral connection.
+131. Whether or not the deduction has this connection is a question of context. The context is a provision ascertaining a maximum offset by reference to what would have been the Australian tax payable had the foreign income not been derived and the deductions reasonably related not been incurred. In other words, via a process of elimination, it is ascertaining what net amount of foreign income has entered the Australian tax regime and what additional Australian tax would have been payable as a result of this foreign income. In this regard there is a clear change in policy intent from the former FTC provisions, such that this calculation is now performed in respect of foreign income (and related deductions) as a whole in contrast to the 'basketing' approach under former section 160AF of the ITAA 1936. This has the potential for allowing a greater foreign income tax offset as it allows high tax and low taxed income to be amalgamated. However, this 'whole of income' approach also has the potential to produce a lower cap where the reasonably related deductions are high (whereas previously those deductions may have generated a quarantined loss of a separate basket). The wording of subparagraph 770-75(4)(b)(ii), gives no indication that producing a lower foreign income tax offset cap was unintended.
+132. Furthermore, paragraph 770-75(4)(b) is not asking to what disregarded income the deduction is
+most
+reasonably related. It is simply asking whether the deduction (arising in an income year) is reasonably related to disregarded income (arising in that same income year).
+133. There is nothing in the use of the term 'related' that suggests that a deduction cannot relate to more than one amount of income. It is a separate question as to whether the deduction is reasonably related to each amount of income. Thus, the relationship of the deduction to one amount of income does not necessarily diminish, or otherwise affect, the relationship of the same deduction to another amount of income. The finding of the first relationship does not rule out there being other relationships between the deductions and other amounts of income. This does however then raise the question of whether apportionment is required and appropriate.
+Conclusion on 'reasonably related'
+134. The phrase 'reasonably related' denotes a relationship that may either be direct or indirect, provided that the relationship consists of a real connection such that it is appropriate for the deduction to be taken into account in determining how much Australian tax is payable on the disregarded income.
+135. The words do not require an identification of deductions that relate exclusively to the disregarded income or even deductions which can be identified as incurred in deriving the disregarded income. Clearly both would meet the description of being 'reasonably related' but a direct, causal connection is not required. The test, on its words, is not the same as the 'incurred in gaining or producing' test in section 8-1. It is merely requiring the identification of a relationship to disregarded income that is reasonable in the legislative context.
+136. Further, a deduction can be reasonably related to more than one identifiable amount of disregarded income.
+137. Whether two items are reasonably related to each other is a question of fact, and the facts are to be determined by the nature of the transaction and its context.
+Are foreign currency hedging losses reasonably related to disregarded income?
+138. In respect of a portfolio of assets where the foreign currency risk is managed under an overlay, there are three items of income that can be 'disregarded' under paragraph 770-75(4)(a):
+•
+the foreign currency hedging gains (where foreign sourced)
+•
+assessable gains from the underlying assets which are from a foreign source or subject to foreign tax, and
+•
+any revenue flows from the underlying assets such as dividend and interest which are from a foreign source or subject to foreign tax.
+139. Whether a sufficient relationship exists between foreign currency hedging losses and any of these items of income is considered below.
+Foreign currency hedging gains
+140. As noted, the objective of a foreign currency hedging strategy is to manage exposure to currency movements to protect the investor from depreciating foreign currencies, by offsetting a decrease in the AUD value of assets held by an investor against the profit from a hedging transaction.
+141. In this context, a foreign currency hedging strategy sets out in detail the overall level of acceptable risk, types of foreign currency hedging transactions that are to be undertaken, requirements that these transactions must comply with and criteria under which the strategy will be evaluated.
+142. The value of the portfolio to be hedged is determined by the market value of the assets forming that portfolio. The hedge manager is typically provided with the market value of the portfolio on a regular basis and adjusts the hedging transactions accordingly.
+143. The transactions entered into to manage foreign currency risk will, by their nature, result in both foreign currency hedging gains and foreign currency hedging losses. The gain on one transaction and the loss on another are not connected in the sense that one arises
+because of
+the other. They result from separate transactions represented by separate contracts. Viewed at the level of the individual transactions, the loss on one has no bearing on the gain on another. The motive behind such transactions may not even be one of profit but simply one of managing risk. The loss cannot, therefore, necessarily be said to be incurred in pursuance of a particular gain on another hedging transaction. In a different context, the deductibility of a loss may be determined by reference to the nature of the gain which might have arisen on that hedging transaction.
+144. The foreign currency hedging gains and losses, however, do arise in pursuance of the same objective of hedging the foreign currency risk associated with a portfolio of assets. They are both a natural consequence of the hedging strategy undertaken to manage that risk. In the context of a hedging strategy, the transactions themselves will not be viewed in isolation to each other. It is their overall net effect which is important in terms of determining the effectiveness of the hedging strategy. In this sense, there is a relationship between the gain on one hedging transaction and the loss on another because of the connection to the foreign currency hedging strategy in pursuance of which the gains and losses are made.
+145. The question is whether this relationship is 'reasonable' in the context of Division 770. That is, the question is, where the deduction is in fact a 'loss' on one transaction, as distinct from an expense, can it be reasonably related to an amount of income on another transaction.
+146. As noted, the intent of the foreign income tax offset limit calculation is to ascertain the Australian tax payable on the foreign income to determine the extent of the double taxation that requires relief by way of a foreign income tax offset. The deductions to be taken into account must therefore be identified because these reduce the Australian tax payable and hence reduce the extent of double taxation. The test is not, however, what deductions are incurred in gaining or producing that income but what deductions are reasonably related such that it is reasonable to take them into account in ascertaining the extent of the double taxation.
+147. In the context of a provision calculating a net amount of foreign income for an income year, the fact that the foreign currency hedging gain and loss are arising because of the management of the foreign currency risk associated with a particular portfolio of assets is sufficient to establish this relationship as reasonable. In such a situation, the foreign currency hedging losses 'stand in relation to' or 'have reference to' the foreign currency hedging gains as they both arise from transactions entered into as part of managing the foreign currency risk of the portfolio.
+148. As noted the relationship required is not one of 'incurred in gaining or producing'. The relationship does not, therefore, have to be found in looking solely at the income producing activity - the foreign currency hedging transaction giving rise to a gain - and asking whether the loss was incurred in pursuance of this activity. Because the relationship can be indirect, it can be found at the level of the object and purpose of the taxpayer in entering into the transactions. That object and purpose is to protect the market value of the portfolio of assets and will necessarily give rise to both foreign currency hedging gains and losses.
+149. As established above, the hedging losses are properly deductible and, as such, reduce Australian tax payable. Where they arise because of a strategy which also produces gains, it is considered that it would create a distortion of the true position, in terms of the net foreign income, to include only the foreign currency hedging gains and exclude the foreign currency hedging losses from the calculation in paragraph 770-75(4)(b).
+150. The Explanatory Memorandum to the Tax Laws Amendment (2007 Measures No. 4) Bill 2007 (the EM), at paragraph 1.141 provides that including untaxed foreign income 'has the effect of increasing the amount of the foreign tax offset cap'. Typically, foreign tax is not paid in respect of hedging losses. This passage in the EM suggests that the intent was that untaxed foreign income should only operate to increase and not reduce the foreign income tax offset. As a general proposition, the inclusion of untaxed foreign income may often have this result and the EM can be read as referring to this more general proposition. However, based on the wording in the legislation, there is no basis for then concluding deductions cannot be reasonably related to such income or only be taken into account to the extent of the income.
+151. It follows that for the purposes of subparagraph 770-75(4)(b)(ii), foreign currency hedging losses are reasonably related to foreign currency hedging gains where both result from transactions entered into as part of the same foreign currency hedging strategy in respect of the same portfolio of assets. Because the connection is found at the level of the hedging strategy, it exists irrespective of whether the transactions are in respect of different currencies. It is also for this reason that where the management of the foreign currency hedging strategy remains unchanged but the hedge manager changes part way through an income year, foreign currency hedging gains and losses from transactions entered by each manager are reasonably related to each other as they were realised from foreign currency hedging transactions related to the same portfolio of assets.
+152. However, foreign currency hedging losses arising in respect of one portfolio are not reasonably related to foreign currency hedging gains arising in respect of a different portfolio. Such gains do not arise under the same foreign currency hedging strategy, which forms the basis of the relationship between hedging gains and losses in respect of a single portfolio. The foreign currency risk being managed for each portfolio is different. The foreign currency hedging transactions in respect of one portfolio, therefore, cannot be said to stand in connection to or be related to foreign currency hedging transactions in another portfolio. Therefore, in the unusual situation where there are only hedging losses (and no hedging gains) arising from one portfolio, these losses will be isolated to that portfolio and will not offset any disregarded income (including hedging gains arising in respect of different portfolios) unless and to the extent that they can be said to reasonably relate to any other disregarded income.
+Gains from realisation of foreign investments
+153. As established above, a foreign currency hedging loss (or gain) arises in pursuance of the foreign currency hedging strategy, the purpose of which is to minimise the foreign currency risk to 'smooth over' the effect foreign currency fluctuations have on the underlying investment values. The hedging losses can be said to be incurred in hedging the underlying value of the portfolio of the assets. In light of this purpose, there is a connection between the underlying portfolio of assets and the foreign currency hedging transactions entered into for that portfolio.
+154. Where an asset within the portfolio is sold which results in a capital gain (or other gain assessable under either Division 230 or section 6-5), that gain reflects the market value forming the basis of a portion of the hedge.
+155. Furthermore, that gain will reflect any movements in currency occurring between acquisition and the realisation of that asset (or other CGT event). There is therefore a relationship between the gain made on realisation, and the hedging losses which consists of a real connection which is not coincidental or remote.
+156. Likewise, to the extent that a gain recognised under Division 230 reflects the value of the underlying assets in a portfolio and can be said to be from a source other than an Australian source, a foreign currency hedging loss made in hedging the value of that portfolio of assets will have a real and not coincidental or remote connection to that gain.
+157. That is, in summary, any foreign currency hedging losses resulting from hedging the underlying assets are, in part, reasonably related to any assessable gain made on realising an asset (or otherwise bringing to tax movements in the value of an asset) forming part of that portfolio. It follows that where there is an overall net assessable gain made on realisation or recognition of the movement in value of an asset forming part of a portfolio subject to a foreign currency hedging strategy, in circumstances where that gain is either subject to foreign tax or otherwise foreign sourced, there is disregarded income to which the foreign currency hedging loss can, at least in part, be reasonably related to.
+158. In these circumstances, because the hedging loss is made in respect of the entire portfolio, represented by a value, and the assessable gain may be made in respect of only a partial realisation or movement in value of an underlying asset, only a portion (as reasonably determined) of that hedging loss can be said to be reasonably related to disregarded income (see paragraphs 167 to 183 of this Ruling).
+159. Subparagraph 770-75(4)(b)(ii) only requires that a reasonable relationship exists between the relevant deductions and the disregarded income for the income year. Therefore, where an assessable gain arises for an income year, the only foreign currency hedging losses relevant are those that are deductible in that same income year.
+160. Note that where a taxpayer is in an overall net capital loss position for a year, there will not be any capital gain income forming part of the disregarded income under paragraph 770-75(4)(a) to which foreign currency hedging losses can be reasonably related. However, this does not mean that the foreign currency hedging losses cannot be reasonably related to other income, for example foreign currency hedging gains, that are disregarded income as per paragraphs 140 to 152 of this Ruling.
+Revenue returns from the underlying foreign assets
+161. As noted above, the value of the portfolio which is hedged is derived from the market value of the underlying assets. The market value of an asset may reflect both the potential capital and revenue returns.
+162. Under an overlay foreign currency hedging strategy, the market value of the portfolio, and hence the dollar value being hedged, will be updated regularly (usually monthly depending on the type of assets) to ensure an accurate dollar value.
+163. Thus, in hedging the value of a portfolio, there is a basis to say that the future revenue flows from that portfolio are also being hedged.
+164. However, the objective of an overlay foreign currency hedging strategy is risk minimisation to preserve the underlying market values. In practice revenue flows are not normally hedged or separately taken into account in constructing the trades to effect the hedging program.
+165. Thus, while the market value of the portfolio informing the dollar value to be hedged may, in respect of some assets, reflect both capital and revenue flows, the relationship is more tenuous than the relationship to the overall net assessable gain made on realisation or recognition of the movement in value of an asset forming part of a portfolio subject to a foreign currency hedging strategy. The revenue flow (rent for instance), may or may not produce an effect on the market value of the underlying assets in the portfolio. Furthermore, where there are revenue flows, the value of these do not separately form part of the dollar value being hedged.
+166. In the context of a provision seeking to establish a net foreign income amount to calculate the offset limit, the foreign currency hedging loss on a transaction to manage foreign currency exposure based on values of a portfolio does not have a
+reasonable
+relationship to the revenue flows from the underlying items such that a netting off effect against this type of income is required. The foreign currency hedging loss, therefore, while related to the revenue flow, is not reasonably related to such a degree that it is to be taken into account in determining the net amount of foreign income unless that revenue flow is specifically part of the hedging strategy.
+Do foreign currency hedging losses covered by subparagraph 770-75(4)(b)(ii) need to be apportioned?
+167. Where foreign currency hedging gains from both an Australian and foreign source arise in an income year in respect of a portfolio of assets, foreign currency hedging losses for that income year will be reasonably related to foreign sourced hedging gains in the same proportion (that is, in the same proportion as the proportion of foreign sourced foreign currency hedging gains in respect of that portfolio to Australian sourced foreign currency hedging gains in respect of that portfolio) (see Example 4).
+168. Once the proportion of foreign hedging losses is established, there is a further question as to whether this amount should be further apportioned on that basis that the losses (the deductions) are reasonably related to more than just the foreign currency hedging gains from a foreign source.
+169.  The EM states at paragraphs 1.145 to 1.147 the following about the apportionment of deductions:
+1.145 Whether a deduction
+reasonably relates
+to the disregarded income amounts will be a question of fact depending on the circumstances of the taxpayer. Expenses that relate
+exclusively
+to the disregarded income amounts will be ignored in calculating the second element of the cap calculation. Deductions that relate to both the disregarded income amounts and other assessable income will need to be apportioned on a reasonable basis between the different income amounts.
+[Schedule 1, item 1, subparagraph 770-75(4)(b)(ii)]
+1.146 The nature and size of the taxpayer's business, the type of income concerned and the methods used by the taxpayer to account for foreign income and expenses may be relevant in determining how the taxpayer should apportion deductions. A common example of the type of deduction a taxpayer will need to apportion would be head office expenses incurred by a taxpayer who operates both in Australia and overseas and which are relevant to the operation of both activities.
+1.147 Provided the approach adopted is objective and results in a reasonable apportionment of the deductions, it will (generally) be acceptable. To the extent such expenses are considered to reasonably relate to the disregarded income amounts, they will be ignored in calculating the second element of the cap calculation.
+[Schedule 1, item 1, subparagraph 770-75(4)(b)(ii)]
+170. The EM at paragraph 1.145 provides that deductions 'that relate to both the disregarded income amounts and other assessable income will need to be apportioned on a reasonable basis between the different income amounts'.
+171. It has been contended that unless a deduction relates exclusively to disregarded income in an income year, it must be apportioned. Therefore, in a situation where the foreign currency hedging loss is reasonably related to both foreign currency hedging gains and, for example, a net capital gain, apportionment is required. Moreover, because the foreign currency hedging loss relates to the unrealised capital value of the portfolio, apportionment is required in the absence of any other disregarded income.
+172. Whether apportionment is required or appropriate depends on why and how the deduction is reasonably related to the income. Apportionment such as that referred to in the example in paragraph 1.146 of the EM is referring to where there is a single outlay which has a dual purpose. This is not the case with foreign currency hedging losses incurred in hedging a particular foreign currency risk in respect of a portfolio of assets. The incurrence of such losses, unlike the expenses discussed in the EM, serve a single purpose. Specifically, such losses are incurred for the single purpose of hedging the relevant foreign currency risk. They are
+not
+incurred with the purpose of producing either related foreign currency hedging gains on other hedging transactions, or assessable gains in respect of the realisation or movement in value of the underlying assets.
+173. The reasonable relationship to the foreign currency hedging gains is found on the basis that they both arise under the same foreign currency hedging strategy. On this basis, it cannot be said that only part of the foreign currency hedging loss relates to the foreign currency hedging gains. This relationship exists and is unaffected by the relevance of the foreign currency hedging loss to any other income or unrealised value. Therefore, where a foreign currency hedging loss in its entirety relates to disregarded income and also to another amount of income, apportionment is neither required nor appropriate.
+174. As explained above, a foreign currency hedging loss can relate to both a foreign currency hedging gain and an assessable gain made upon a realisation of an underlying asset (or other CGT event happening to an underlying asset), or upon a movement in the value of the underlying asset.
+175. Where the foreign currency hedging gains are all foreign sourced, the foreign currency hedging losses from transactions entered into as part of the same hedging strategy are reasonably related to the disregarded income that is the foreign currency hedging gains. That is, in these circumstances the foreign currency hedging losses are reasonably related, in their entirety, to the foreign currency hedging gains (which are disregarded income). There is therefore no need to consider whether those losses also relate to any other disregarded income.
+176. The consequence of this is that where the foreign currency hedging losses exceed the foreign currency hedging gains, the 'excess' hedging losses will reduce other disregarded income with the potential to then reduce the overall foreign income tax offset available. Whilst this raises the possibility that deductions reasonably related to untaxed foreign income can, effectively, reduce the foreign income tax offset allowable in respect of foreign tax paid on income to which the deductions are not reasonably related, this is not inconsistent with the policy of Division 770.
+177. Rather, this result is a function of the fact that the foreign income tax offset limit calculation is undertaken in respect of all income, both untaxed foreign income and income subject to foreign tax. Just as untaxed foreign income can potentially increase the available foreign income tax offset by increasing the upper limit, so will deductions properly reasonably related to this income potentially reduce the available foreign income tax offset. There is nothing in the wording or in the policy of Division 770 which would require that deductions, once they properly enter the calculation, be confined to the income which caused them to enter the calculation.
+178. This effect may be thought to be inconsistent with the statement in the EM, noted above, that the inclusion of untaxed foreign income has the effect of increasing the amount of the foreign income tax offset cap. However, as discussed, the EM cannot be considered to secure a result that deductions are necessarily capped at the amount of income. To do so would be to reintroduce the 'basketing' approach to the calculation which no longer applies.
+179. Furthermore, it is not the function of a foreign income tax offset to provide an offset for all foreign tax paid, only (broadly stated) to provide an offset to the extent that, on a whole of income basis, there is double taxation.
+180. Issues of apportionment will however arise where foreign currency hedging losses do not relate in their entirety to disregarded income. For example, where any associated foreign currency hedging gains are Australian sourced, the only disregarded income to which the hedging losses relate, at least in part, may be an assessable gain arising from the realisation or change in market value of the underlying assets comprising the hedged portfolio.
+181. As mentioned above, where such an assessable gain is made in respect of only a part of the portfolio (whereas the hedging loss relates to the entire portfolio), reasonable apportionment is required to determine how much of the foreign currency hedging loss reasonably relates to disregarded income.
+182. As noted, in some circumstances, a hedging strategy in respect of a particular foreign currency risk for a portfolio of assets will give rise to both Australian and foreign sourced hedging gains and so the foreign hedging losses arising from that strategy need to be apportioned to reflect this. There may further be foreign sourced assessable gains in respect of the realisation or change in market value of the underlying assets. In these circumstances, a reasonable apportionment of any relevant foreign currency hedging losses will require that both the amount of the foreign sourced hedging gains (as a percentage of the total hedging gains from the same hedging strategy for that particular portfolio), and the other assessable income arising from the realisation or movement in value of certain assets within the portfolio are taken into account in a manner which ensures those hedging losses are not double-counted for the purposes of the foreign income tax offset limit calculation. This is illustrated in Example 4.
+183. What is an appropriate method of apportionment is a question of fact. The method to be adopted in any particular case must be 'fair and reasonable' in all the circumstances.
+[50]
+There may be more than one fair and reasonable basis for apportionment. The Commissioner will accept the method adopted provided it is fair and reasonable and applied consistently.
+Appendix 2 - Alternative views
+This Appendix sets out alternative views and explains why they are not supported by the Commissioner. It does not form part of the binding public ruling.
+Source of foreign currency hedging gains
+184. Some taxpayers are of the view that the source of a gain in the given transaction is Australia where the relevant decision making is occurring in Australia and that place of contract is not important. Therefore, if all the decisions regarding the timing, size and nature of the trade are undertaken in Australia, the alternative view would conclude the source of the gain will be Australia. Under this approach, source is viewed as being where decisions are made and weight is not placed on the formal steps leading to the formation of the contract.
+185. However, as discussed at paragraph 99 of this Ruling, focussing on the decisions being made is to focus more on 'why' the foreign currency hedging gain is being made and the activity involved in this, than on 'where' the foreign currency hedging gain is made and the activity involved in this aspect. Thus, the Commissioner does not accept this alternative view.
+186. It has also been suggested that the appropriate contract to be looking to in determining source is the Master ISDA and not to the individual contracts themselves. This is on the basis that the Master ISDA, in setting out the terms and conditions upon which each individual contract is then executed, is the source of the income.
+187. This is not accepted as an appropriate view of the function of the Master ISDA. Gillard J in
+Powercor Australia v. Pacific Power
+[1999] VSC 110, cited with approval the following description of the Master ISDA:
+...the master agreement sets out the rules of the game which the parties are to play, as those rules are understood by the market place, whereas each transaction is a separate playing of that game.
+[51]
+188. Therefore, as explained in paragraph 99 of this Ruling, what gives rise to the income is not the Master ISDA itself but each transaction, each contract, entered into under the Master ISDA.
+189. [Omitted.]
+190. [Omitted.]
+191. [Omitted.]
+192. [Omitted.]
+193. [Omitted.]
+Are foreign currency hedging losses reasonably related to foreign currency hedging gains?
+194. The conclusion at paragraphs 140 to 152 of this Ruling is that a foreign currency hedging loss is reasonably related to a foreign currency hedging gain where the loss and gain are made in pursuance of the same hedging strategy.
+195. There is an alternative view that the relationship required between the deduction and the income should be found in looking only at the income producing activity itself. On this basis a foreign currency hedging loss is not related to a particular foreign currency hedging gain because, viewed on a transactional level, the two transactions are not related. The loss is only related to the potential gain that might have occurred on that transaction.
+196. This view adopts a narrow approach to the meaning of 'reasonable relationship'. It essentially requires the connection to be similar to the connection required by section 8-1 - that of 'incurred in gaining or producing'. The Commissioner does not accept this view. The very nature of the different description used, and the similarities in policy to the former provisions, means that a wider view is to be adopted.
+197. As discussed at paragraph 146 of this Ruling, to look only to the hedging gains is to ignore the effect that deductible losses have on Australian tax payable and hence does not produce an appropriate calculation of the Australian tax otherwise payable on the foreign income.
+198. It is appropriate to find the relationship at the level of the hedging strategy because the gains and losses both stem from this hedging strategy. To not have regard to the foreign currency hedging losses would not reflect the true, overall position of the taxpayer in respect of its foreign income (in this instance, the foreign currency hedging gains).
+199. Regarding the issue of apportionment, there are strongly held alternative views that:
+•
+because there is a significant relationship between the foreign currency hedging loss and the value of the portfolio, only some of the foreign currency hedging loss should be taken to be reasonably related to the foreign currency hedging gain, and
+•
+where the deduction, the foreign currency hedging loss, relates to more than one amount of income, the deduction must be apportioned no matter how difficult an exercise this is.
+200. The Commissioner does not consider that the provision itself demands apportionment in this circumstance - whether or not it is appropriate to do so depends on the nature of the relationship between the deduction and the income. Because the foreign currency hedging losses are reasonably related to the foreign currency hedging gains on the basis that they both arise in pursuit of a net hedging position under a single strategy, no apportionment is required in this instance irrespective of the extent to which the foreign currency hedging loss is also reasonably related to any other income or value, disregarded or otherwise (see paragraphs 167 to 183 of this Ruling).
+Appendix 3 - Detailed contents list
+201. The following is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Terminology
+4
+Disregarded income
+5
+Foreign currency hedging transactions
+6
+Foreign currency hedging gains
+7
+Foreign currency hedging losses
+8
+Foreign currency hedging strategy
+9
+Portfolio of assets
+11
+Underlying asset
+12
+Ruling
+13
+Source of foreign currency hedging gains
+13
+Meaning of 'reasonably related'
+16
+When are losses from foreign currency hedging transactions reasonably related to disregarded income?
+19
+Apportionment
+23
+Examples
+25
+Example 1
+34
+Example 2
+45
+Example 3
+48
+Example 4
+55
+Date of effect
+62
+Appendix 1 - Explanation
+65
+Background
+65
+Overview of Division 770
+69
+Tax treatment of foreign currency hedging gains and losses
+80
+Division 230
+81
+Division 775
+91
+Source of foreign currency hedging gains
+95
+The meaning of 'reasonably related'
+123
+Statutory context
+126
+Conclusion on 'reasonably related'
+134
+Are foreign currency hedging losses reasonably related to disregarded income
+?
+138
+Foreign currency hedging gains
+140
+Gains from realisation of foreign investments
+153
+Revenue returns from the underlying foreign assets
+161
+Do foreign currency hedging losses covered by subparagraph 770-75(4)(b)(ii) need to be apportioned?
+167
+Appendix 2 - Alternative views
+184
+Source of foreign currency hedging gains
+184
+Are foreign currency hedging losses reasonably related to foreign currency hedging gains?
+194
+Appendix 3 - Detailed contents list
+201
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+Unless specified otherwise all references to legislation are to provisions contained in the ITAA 1997.
+[2]
+If the total foreign income tax paid is $1,000 or less, it is not necessary to calculate the foreign income tax offset limit.
+[3]
+Subsection 230-20(4).
+[4]
+A taxpayer could also elect to apply the rules to financial arrangements acquired on or after the first day of the first income year starting on or after 1 July 2009.
+[5]
+Subdivision 230-H.
+[6]
+One of the objects of Division 230 is to allocate gains and losses to income years throughout the life of financial arrangements. This approach may cause mismatches where a foreign jurisdiction taxes gains at the end of the financial arrangement. When foreign income tax is paid after the year in which the income is included in Australian taxable income, the assessment can be amended to increase the foreign income tax offset.
+[7]
+As defined in section 230-335.
+[8]
+See subsection 230-315(2).
+[9]
+See paragraph 8.6 of the Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 which inserted Division 230.
+[10]
+See Item 1 of the table to subsection 230-310(4).
+[11]
+Section 102-5.
+[12]
+Section 102-10.
+[13]
+See paragraph 8 of this Ruling.
+[14]
+See paragraph 85 of Taxation Ruling TR 2012/3. Division 775 applies to transactions entered into in or after the first income year commencing on or after 1 July 2003 and, at the option of the taxpayer, transactions entered into prior to the first income year commencing after 1 July 2003 but realised after that time.
+[15]
+Assessable income upon which the taxpayer has (or is taken to have) paid foreign tax, is disregarded pursuant to subparagraph 770-75(4)(a)(i).
+[16]
+Nathan v. Federal Commissioner of Taxation
+(1918) 25 CLR 183; [1918] HCA 45. Because source is always a practical matter of fact, different factors may be relevant in determining source where a contractual gain arises in a different context than in relation to the transactions the subject of this Ruling.
+[17]
+Re Thorpe Nominees Pty Ltd v. Federal Commissioner of Taxation
+88 ATC 4886; (1988) 19 ATR 1834 and
+Deputy Commissioner of Taxation v. Kirk
+[1900] AC 588.
+[18]
+Commissioner of Taxation (Western Australia) v. D & W Murray Ltd
+(1929) 42 CLR 332; [1929] HCA 21 at CLR 346.
+[19]
+Premier Automatic Ticket Issuers Ltd. v. Federal Commissioner of Taxation
+(1933) 50 CLR 268;
+Tariff Reinsurances Ltd. v. Commissioner of Taxes (Vict.)
+(1938) 59 CLR 194;
+Spotless Services Limited v. Federal Commissioner of Taxation
+93 ATC 4397; (1993) 25 ATR 344.
+[20]
+Re Thorpe Nominees Pty Ltd v. FC of T
+88 ATC 4886; (1988) 19 ATR 1834,
+Malayan Shipping Co. Ltd v. Federal Commissioner of Taxation
+(1946) 71 CLR 156; (1946) 3 AITR 258; (1946) 8 ATD 75,
+Cliff's International Inc v. Federal Commissioner of Taxation
+85 ATC 4374; (1985) 16 ATR 601.
+[21]
+Federal Commissioner of Taxation v. United Aircraft Corporations
+(1943) 68 CLR 525; [1943] HCA 50; (1943) 7 ATD 318 at CLR 538; ATD 324. See also Gibbs J in
+Esquire Nominees Ltd v. Federal Commissioner of Taxation
+(1972) 129 CLR 177; 72 ATC 4076; (1972) 3 ATR 105 at CLR 192; ATC 4086; ATR 116.
+[22]
+See for example
+Commissioner of Inland Revenue v. Hang Seng Bank Ltd
+[1991] AC 306,
+Commissioner of Income Tax, Bombay Presidency and Aden v. Chunilal B. Mehta of Bombay
+(1938) LR 65 Ind App 332,
+Commissioner of Inland Revenue v. N V Phillips' Gloeilampenfabrieken
+[1955] NZLR 868.
+[23]
+Tallerman & Co Pty Ltd v Nathan's Merchandise (Vic) Pty Ltd
+(1957) 98 CLR 93, 111. For telephone, see
+Sydbank Soenderjylland A/S v Bannerton Holdings Pty Ltd
+(1996) 68 FCR 539. For fax, see
+Schib Packaging Srl v Emrich Industries Pty Ltd
+[2005] VSCA 236.
+[24]
+[Omitted.]
+[25]
+[Omitted.]
+[26]
+[Omitted.]
+[27]
+[Omitted.]
+[28]
+[Omitted.]
+[29]
+[Omitted.]
+[30]
+[Omitted.]
+[31]
+[Omitted.]
+[32]
+[Omitted.]
+[33]
+[Omitted.]
+[34]
+[Omitted.]
+[35]
+[Omitted.]
+[36]
+[Omitted.]
+[37]
+[Omitted.]
+[38]
+[Omitted.]
+[39]
+[Omitted.]
+[40]
+[Omitted.]
+[41]
+[Omitted.]
+[42]
+[Omitted.]
+[43]
+[Omitted.]
+[44]
+[Omitted.]
+[45]
+(1999) 202 CLR 133; [1999] HCA 62; (2000) 43 ATR 246.
+[46]
+At CLR 220; HCA 62 paragraph 253.
+[47]
+See also
+HP Mercantile Pty Ltd v. Commissioner of Taxation
+(2005) 143 FCR 553; [2005] FCAFC 126 and
+Woodside Energy Ltd v. Federal Commissioner of Taxation
+(2006) 155 FCR 357; [2006] FCA 1303; (2006) 64 ATR 379.
+[48]
+Former Division 18 of the ITAA1936 was replaced by Division 770 with effect from income years commencing on or after 1July 2008.
+[49]
+[1996] AATA 404; 96 ATC 598; (1996) 34 ATR 1034.
+[50]
+Ronpibon Tin NL and Tongkah Compound NL v. Federal Commissioner of Taxation
+(1949) 78 CLR 47 at 59; [1949] HCA 15 at paragraph 18;
+Adelaide Racing Club Inc v. Federal Commissioner of Taxation
+(1964) 114 CLR 517 at 526; [1964] HCA 57 at paragraph 16.
+[51]
+[1999] VSC 110 at [319].
+Previously released in draft form as TR 2014/D2
+References
+ATO references:
+NO  1-5D1SQXG
+ISSN: 1039-0731
+Related Rulings/Determinations:
+TR 2006/10
+TR 2012/3
+Legislative References:
+ITAA 1936 former 160AF
+ITAA 1936 former Div 18
+ITAA 1997 6-5
+ITAA 1997 8-1
+ITAA 1997 102-5
+ITAA 1997 102-10
+ITAA 1997 Div 230
+ITAA 1997 230-15
+ITAA 1997 230-20(4)
+ITAA 1997 230-45
+ITAA 1997 230-310(4)
+ITAA 1997 230-315(2)
+ITAA 1997 230-335
+ITAA 1997 Subdiv 230-E
+ITAA 1997 Subdiv 230-H
+ITAA 1997 Div 770
+ITAA 1997 770-10(1)
+ITAA 1997 770-15(1)
+ITAA 1997 770-75
+ITAA 1997 770-75(1)
+ITAA 1997 770-75(2)(b)
+ITAA 1997 770-75(2)(b)(i)
+ITAA 1997 770-75(2)(b)(ii)
+ITAA 1997 770-75(4)
+ITAA 1997 770-75(4)(a)
+ITAA 1997 770-75(4)(a)(i)
+ITAA 1997 770-75(4)(a)(ii)
+ITAA 1997 770-75(4)(b)
+ITAA 1997 770-75(4)(b)(ii)
+ITAA 1997 Subdiv 770-C
+ITAA 1997 775-15(1)
+ITAA 1997 775-30(1)
+ITAA 1997 Div 775
+TAA 1953
+Case References:
+AAT Case 11,375
+(1996) 34 ATR 1034
+Case 67/96
+96 ATC 598
+[1996] AATA 404
+Adelaide Racing Club Inc v Federal Commissioner of Taxation
+(1964) 114 CLR 517
+[1964] HCA 57
+(1964) 9 AITR 404
+(1964) 13 ATD 361
+Airservices Australia v Canadian Airlines International Ltd
+(1999) 202 CLR 133
+[1999] HCA 62
+(2000) 43 ATR 246
+Cliff's International Inc v. Federal Commissioner of Taxation
+85 ATC 4374
+(1985) 16 ATR 601
+Commissioner of Income Tax, Bombay Presidency and Aden v. Chunilal B. Mehta of Bombay
+(1938) LR 65 Ind App 332
+Commissioner of Inland Revenue v. Hang Seng Bank Ltd
+[1991] AC 306
+Commissioner of Inland Revenue v. N V Phillips' Gloeilampenfabrieken
+[1955] NZLR 868
+Commissioner of Taxation (Western Australia) v. D & W Murray Ltd
+(1929) 42 CLR 332
+[1929] HCA 21
+Deputy Commissioner of Taxation v. Kirk
+[1900] AC 588
+Esquire Nominees Ltd v. Federal Commissioner of Taxation
+(1972) 129 CLR 177
+72 ATC 4076
+(1972) 3 ATR 105
+Federal Commissioner of Taxation v. United Aircraft Corporations
+(1943) 68 CLR 525
+[1943] HCA 50
+(1943) 7 ATD 318
+HP Mercantile Pty Ltd v Commissioner of Taxation
+(2005) 143 FCR 553
+[2005] FCAFC 126
+2005 ATC 4571
+(2005) 60 ATR 106
+Malayan Shipping Co. Ltd v. Federal Commissioner of Taxation
+(1946) 71 CLR 156
+(1946) 3 AITR 258
+(1946) 8 ATD 75
+Nathan v. Federal Commissioner of Taxation
+(1918) 25 CLR 183
+[1918] HCA 45
+Powercor Australia v. Pacific Power
+[1999] VSC 110
+Premier Automatic Ticket Issuers Ltd. v. Federal Commissioner of Taxation
+(1933) 50 CLR 268
+Re Thorpe Nominees Pty Ltd v. Federal Commissioner of Taxation
+88 ATC 4886
+(1988) 19 ATR 1834
+Ronpibon Tin NL and Tongkah Compound NL v Federal Commissioner of Taxation
+(1949) 78 CLR 47
+[1949] HCA 15
+(1949) 8 ATD 431
+(1949) 4 AITR 245
+Schib Packaging Srl v Emrich Industries Pty Ltd
+[2005] VSCA 236
+Spotless Services Limited v. Federal Commissioner of Taxation
+93 ATC 4397
+(1993) 25 ATR 344
+Sydbank Soenderjylland A/S v Bannerton Holdings Pty Ltd
+(1996) 68 FCR 539
+Tallerman & Co Pty Ltd v Nathan's Merchandise (Vic) Pty Ltd
+(1957) 98 CLR 93
+Tariff Reinsurances Ltd. v. Commissioner of Taxes (Vict.)
+(1938) 59 CLR 194
+Woodside Energy Ltd v Federal Commissioner of Taxation
+(2006) 155 FCR 357
+[2006] FCA 1303
+(2006) 64 ATR 379
+Other References:
+Explanatory memorandum
+to the Tax Laws Amendment (2007 Measures No. 4) Bill 2007
+Explanatory memorandum
+to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008
+TR 2014/7 history
+Date:
+Version:
+Change:
+10 December 2014
+Original ruling
+24 June 2015
+Consolidated ruling
+Partial Withdrawal
+You are here
+16 March 2016
+Consolidated ruling
+Addendum
+Back to top

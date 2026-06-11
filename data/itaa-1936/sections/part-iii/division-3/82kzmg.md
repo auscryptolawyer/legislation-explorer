@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 82KZMG Deductions for certain forestry expenditure
 
-
 <a id="s82KZMG-1"></a>
 **(1)** Sections 82KZMD and 82KZMF do not affect the timing of a deduction for expenditure incurred by a taxpayer in a year of income (the expenditure year) to the extent that the requirements of this section are met. General requirements for expenditure
 

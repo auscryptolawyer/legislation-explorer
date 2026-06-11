@@ -1,0 +1,212 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+3 related documents
+Practical Compliance Guideline
+PCG 2017/3
+Income tax - supporting the implementation of the changes to the taxation of transition to retirement income streams
+This Guideline has been updated to reflect amendments to the law by Schedule 1 to the
+Treasury Laws Amendment (2017 Measures No. 2) Act 2017
+and Schedule 8 to the
+Treasury Laws Amendment (2018 Measures No. 4) Act 2019
+.
+This Guideline only applies for the 2017-18 income year and to funds as set out in paragraph 2 of the Guideline.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+What this Guideline is about
+1
+Application
+2
+Background
+4
+Determining Fund assessable income
+13
+Pay As You Go Instalments
+18
+Segregated current pension assets and segregated exempt assets
+19
+Alternative methods
+21
+Fund assurance and governance
+22
+Substituted Accounting Periods
+25
+Relying on this Guideline
+This Practical Compliance Guideline sets out a practical administration approach to assist taxpayers in complying with relevant tax laws. Provided you follow this guideline in good faith, the Commissioner will administer the law in accordance with this approach.
+What this Guideline is about
+1. This Guideline outlines the ATO's compliance approach for certain APRA regulated superannuation funds (including exempt public sector superannuation schemes), pooled superannuation trusts (PSTs) and life insurance companies (collectively referred to as 'Funds') facing practical difficulties in complying with recent legislative amendments affecting various transition to retirement income stream products (collectively referred to as 'TRIS')
+[1]
+during the transition period.
+Application
+2. This Guideline has effect from its date of issue for Funds that:
+•
+hold assets in segregated current pension asset pools or segregated exempt asset pools ('segregated asset pools') before the 2017-18 income year and those assets include assets supporting the payment of TRIS that is not in the retirement phase (a 'non-retirement phase TRIS') that are unable to be transferred or otherwise distinguished from the segregated asset pool(s) at the start of the 2017-18 income year, and
+•
+have deployed a full system solution by the end of 30 June 2018.
+3. This Guideline does not apply to self-managed superannuation funds and Funds who do not deploy a full solution by the end of 30 June 2018.
+Background
+4. Schedule 8 to the
+Treasury Laws Amendment (Fair and Sustainable Superannuation) Act 2016
+and Schedule 1 to the
+Treasury Laws Amendment (2017 Measures No. 2) Act 2017
+amended the
+Income Tax Assessment Act 1997
+(ITAA 1997) by removing the tax exemption afforded the income attributable to assets supporting the payment of a non-retirement phase TRIS. The changes apply from the beginning of the 2017-18 income year.
+5. Individuals who have reached their preservation age, but not retired from the workforce or attained age 65, are able to access their superannuation benefits by starting a TRIS.
+6. Prior to the amendments mentioned in paragraph 4 of this Guideline, the ITAA 1997 contained earnings tax exemption provisions
+[2]
+for Funds with respect to ordinary and statutory income from those assets that support payment of superannuation income streams, including TRIS.
+7. From the commencement of the 2017-18 income year, the earnings tax exemption provisions in the ITAA 1997 will apply to Funds only for a superannuation income stream in the retirement phase.
+[3]
+7A. A TRIS will not be in the retirement phase unless a superannuation income stream benefit is currently payable from it and the recipient:
+•
+is 65 years old or older, or
+•
+has met a relevant condition of release with a nil cashing restriction (retirement, terminal medical condition, permanent incapacity) and they have notified the superannuation provider for the TRIS of that fact, or
+•
+is in receipt of the TRIS as a reversionary beneficiary
+[3A]
+.
+8. TRIS where certain criteria are not met are specifically excluded from being superannuation income streams in the retirement phase.
+[4]
+9. This may cause practical compliance difficulties for Funds as they may be unable to:
+•
+transfer or otherwise distinguish assets supporting payment of a non-retirement phase TRIS from segregated asset pools, or
+•
+deploy appropriate IT systems
+in time for the commencement of the 2017-18 income year.
+10. Where these difficulties exist, a Fund is unlikely to be able to calculate assessable income and exempt income for that interim period before they deploy a full solution to address these implementation issues, and this has potential to impact on tax compliance.
+11. The ATO understands Funds' business need to implement a full system solution to the TRIS changes as soon as possible. We also acknowledge Funds' concerns about additional costs of developing interim IT arrangements to be effective from the start date of the 2017-18 income year in advance of the implementation of Funds' full IT solutions.
+12. To facilitate earliest feasible adoption of full system solutions, the ATO recognises that Funds may apply interim arrangements in respect of some products or platforms and not others, or to deploy full system solutions for different products or platforms at different times.
+Determining Fund assessable income
+13. In calculating assessable income for the 2017-18 income year, Funds to which this Guideline applies may have the following two periods:
+•
+the interim period - from the commencement of the Fund's 2017-18 income year to the time at which the Fund deploys a full solution, which must not be later than 30 June 2018. This is the period when assets that support payment of a non-retirement phase TRIS continue to be allocated to an asset pool with assets that support payment of superannuation income streams in the retirement phase, and the Fund is not able to calculate assessable income through its existing systems.
+•
+the remainder period - from the deployment of a full solution system to 30 June 2018, where assessable income and tax on earnings from assets that support payment of a non-retirement phase TRIS is calculated normally. This is the period when the systems in place will recognise assets supporting payment of a non-retirement phase TRIS are segregated from assets supporting payment of superannuation income streams in the retirement phase. We note that in some cases a Fund may not have a remainder period because the full solution is not deployed until 30 June 2018.
+14. Where the full solution system deployed is forward looking only, and is unable to determine assessable income retrospectively from a reconstruction of the correct segregated asset pool with effect from the commencement of the 2017-18 income year, a specific calculation will be necessary to reflect the assessable income attributable to assets that support a non-retirement phase TRIS for the interim period (the 'interim method'). An interim method for the purposes of this Guideline consists of the following steps:
+Step 1:
+Determine the ordinary and statutory income for the interim period of the asset pool that was a segregated asset pool immediately before the 2017-18 income year began.
+Step 2:
+Determine the average value of assets in this asset pool that support the payment of a non-retirement phase TRIS for the interim period.
+Step 3:
+Determine the proportion this value represents to the average value of the total assets in the pool for the interim period.
+Step 4:
+Apply that proportion to the sum of the income amounts determined at Step 1 to determine the assessable income attributable to assets supporting the payment of a non-retirement phase TRIS during the interim period.
+15. In determining assessable income in respect of the 2017-18 year of income, where a Fund has used this interim method, their assessable income will include three separately calculated components:
+•
+assessable income referrable to the interim period, determined using the Fund's ordinary systems. This amount should be correct other than that it excludes income derived in relation to assets supporting payment of a non-retirement phase TRIS which the ordinary systems continue to recognise as exempt during that interim period
+•
+the amount of assessable income reflecting income referrable to assets supporting payment of a non-retirement phase TRIS during the interim period using the interim method described at paragraph 14 of this Guideline, and
+•
+assessable income referrable to the remainder period (if any), determined using the Fund's full solution system. As this period represents that period for which the Fund has deployed a full solution system, this amount will accurately include assessable income derived in relation to assets supporting payment of a non-retirement phase TRIS that will have been transferred from the Fund's segregated asset pool(s).
+16. Where the full solution system deployed is capable of retrospectively calculating the Fund's assessable income for the income year, including assessable income derived from assets supporting payment of a non-retirement phase TRIS, based on reconstruction of a fully compliant segregated asset pool from the commencement of the 2017-18 income year, no separate interim method will be required.
+17. Where a Fund adopts either approaches outlined in paragraphs 14 to 16 of this Guideline, the ATO will not allocate compliance resources to review the calculation of the actual assessable income and exempt income of the Fund's asset pools for the 2017-18 income year, to the extent that the calculations are related to the implementation of the TRIS amendments and/or interim measures to facilitate that implementation.
+Pay as you go instalments
+18. For the 2017-18 income year, the ATO will not allocate compliance resources to review whether a Fund has correctly reported its instalment income for the purposes of imposing a penalty under subsection 284-75(1) of Schedule 1 to the
+Taxation Administration Act 1953
+where:
+•
+during the interim period
+[5]
+, the Fund calculates its instalment income without including an amount reflecting the income derived in relation to assets supporting payment of a non-retirement phase TRIS and uses the instalment rate that would ordinarily be applied for the relevant instalments to work out its pay as you go (PAYG) instalment, and
+•
+where the Fund has both an interim and remainder period within the 2017-18 year of income, the Fund works out its first PAYG instalment during the remainder period by including the amount of assessable income calculated at Step 4 of paragraph 14 of this Guideline with its other instalment income and uses the instalment rate that would be ordinarily applied.
+•
+where the Fund has no remainder period within the 2017-18 year of income, the Fund works out its PAYG instalment for the period that includes the end of the 2017-18 year of income by including the amount of assessable income calculated at Step 4 of paragraph 14 of this Guideline with its other instalment income and uses the instalment rate that would be ordinarily applied.
+Segregated current pension assets and segregated exempt assets
+19. Where Funds continue to have assets supporting the payment of both a non-retirement phase TRIS and income streams in the retirement phase co-mingled in an asset pool after the commencement of the 2017-18 income year, the assets will not meet the definition of segregated current pension assets
+[6]
+or segregated exempt assets.
+[7]
+20. For the 2017-18 income year, the ATO will not allocate compliance resources to review whether the Funds' asset pools that have co-mingled assets that supports the payment of both a non-retirement phase TRIS and retirement phase income streams meet the definition of segregated current pension assets or segregated exempt assets.
+Alternative methods
+21. Funds are entitled to self-assess their tax liability using an alternative method they believe satisfies their tax obligations under the law. The ATO's compliance response does not apply in circumstances where Funds use such other methods, and these Funds may be subject to more detailed review by the ATO.
+Fund assurance and governance
+22. Funds that rely on this Guideline are expected to have appropriate governance, assurance and approvals by trustees or the board (collectively referred to as 'Trustee') on the method they used to determine the assessable income, and the tax liability on that income, from assets that support the payment of a non-retirement phase TRIS during the interim period.
+23. The assurance should include a statement made by the Trustee. The Trustees must be satisfied that the tax payable by Funds on the income from assets that support the payment of a non-retirement phase TRIS during the interim period reflects appropriate and sufficient tax, given the TRIS changes introduced from the commencement of the 2017-18 income year.
+24. Trustees of such Funds must ensure that the Fund's governance documentation is retained as this may be requested by the ATO under risk assessment or review processes.
+Substituted accounting periods
+25. A Fund's 2017-18 income year may end before 30 June 2018 where it has a substituted accounting period. Where this occurs, the Fund's interim period discussed at paragraph 13 of this Guideline may extend for the whole of the Fund's 2017-18 year of income. In addition, the Fund may have a further interim period extending from the start of its 2018-19 year of income up to 30 June 2018.
+26. In this situation, the Fund may calculate PAYG Instalments using the method described in paragraph 18 of this Guideline for each of the two separate interim periods.
+27. ATO compliance resources will be allocated in a manner consistent with that described in this Guideline.
+Commissioner of Taxation
+30 March 2017
+Amendment history
+Date of amendment
+Part
+Comment
+15 January 2020
+All
+This Guideline has been updated to reflect amendments to the law by Schedule 1 to the
+Treasury Laws Amendment (2017 Measures No. 2) Act 2017
+and Schedule 8 to the
+Treasury Laws Amendment (2018 Measures No. 4) Act 2019
+.
+This Guideline only applies for the 2017-18 income year and to funds as set out in paragraph 2 of this Guideline
+Throughout
+Inserted 'a non-retirement phase TRIS'
+Paragraph 7A
+Footnote 3A
+Insert
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+[1]
+Transition to retirement income streams, non-commutable allocated annuities, and non-commutable allocated pensions within the meaning of Part 6 of the
+Superannuation Industry (Supervision) Regulations 1994
+. It also includes transition to retirement pensions and non-commutable allocated pensions within the meaning of Part 4 of the
+Retirement Savings Accounts Regulations 1997
+. See subsection 307-80(3) of the ITAA 1997.
+[2]
+Subdivision 295-F; Subdivision 320-B and Subdivision 320-H of the ITAA 1997.
+[3]
+When a superannuation income stream is in the retirement phase is set out in section 307-80 of the ITAA 1997.
+[3A]
+Subsection 307-80(3) of the ITAA 1997. This subsection was amended by Schedule 8 to the
+Treasury Laws Amendment (2018 Measures No. 4) Act 2019
+.
+[4]
+Subsection 307-80(3) of the ITAA 1997.
+[5]
+We note that the interim period may extend to 30 June 2018 for some Funds.
+[6]
+In section 295-385 of the ITAA 1997.
+[7]
+In Subdivision 320-H of the ITAA 1997.
+ATO references:
+File  1-JYBMOSP
+ISSN: 2209-1297
+Business Line:
+PGI
+Superannuation
+Legislative References:
+ITAA 1997  Subdiv 295-F
+ITAA 1997  295-385
+ITAA 1997  307-80
+ITAA 1997  307-80(3)
+ITAA 1997  Subdiv 320-B
+ITAA 1997  Subdiv 320-H
+TAA 1953  Sch1 284-75(1)
+RSAR 1997  Pt 4
+SISR 1994  Pt 6
+Treasury Laws Amendment (Fair and Sustainable Superannuation) Act 2016  Sch 8
+Treasury Laws Amendment (2017 Measures No. 2) Act 2017 Sch 1
+Treasury Laws Amendment (2018 Measures No. 4) Act 2019 Sch 8
+PCG 2017/3 history
+Date:
+Version:
+Change:
+30 March 2017
+Original guideline
+You are here
+15 January 2020
+Updated guideline
+Back to top

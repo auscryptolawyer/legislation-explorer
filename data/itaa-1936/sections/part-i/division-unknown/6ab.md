@@ -15,7 +15,6 @@ source_pdf: "vol01.pdf"
 
 # 6AB Foreign income and foreign tax
 
-
 <a id="s6AB-1"></a>
 **(1)** A reference in this Act to foreign income is a reference to income (including superannuation lump sums and employment termination payments) derived from sources in a foreign country or foreign countries, and includes a reference to an amount included in assessable income under section 102AAZD, 456, 457 or 459A of this Act, or section 305-70 of the Income Tax Assessment Act 1997. 
 

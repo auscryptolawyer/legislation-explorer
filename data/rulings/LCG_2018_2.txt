@@ -1,0 +1,643 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2018/2
+GST on supplies made through electronic distribution platforms
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+LCR 2018/2EC
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+11
+Glossary of terms
+14
+Electronic distribution platforms
+15
+Outline of the EDP rules
+18
+Step 1: Is the supply made through an EDP?
+19
+Service allows entities to make supplies available to end-users
+24
+Example 1 – service that allows entities to make supplies available to end-users
+29
+Example 2 – service that does not allow entities to make supplies available to end-users
+31
+Service delivered by electronic communication
+32
+Example 3 – service that is delivered by electronic communication even though a call centre is involved
+38
+Inbound intangible consumer supplies must be made by electronic communication
+40
+Services that are excluded from the definition of EDP
+42
+Carriage service
+43
+Payment system or processing of payments
+44
+Face value vouchers
+46
+Step 2: Is the supply subject to the EDP rules?
+48
+Offshore supplies of low value goods
+49
+When is a supply a digital product or digital service?
+51
+What is an inbound intangible consumer supply?
+55
+Example 4 – supply of digital products by an Australian-based supplier
+59
+Digital supplies that are subject to the EDP rules if there is an agreement
+60
+Example 5 – GST liability for supplies shifted to the EDP operator
+65
+Step 3: Is the supply excluded from the EDP rules?
+69
+When does an EDP operator authorise the charge for the supply?
+72
+Example 6 – EDP operator that authorises the charge
+74
+Example 7 – EDP operator that does not authorise the charge
+76
+When does an EDP operator authorise delivery of the supply?
+78
+Example 8 – EDP operator that authorises delivery
+80
+Example 9 – EDP operator that does not authorise delivery
+82
+When does an EDP operator directly or indirectly set any of the terms and conditions under which the supply is made?
+83
+Example 10 – EDP operator that directly or indirectly sets any of the terms and conditions
+90
+Example 11 – EDP operator that does not directly or indirectly set any of the terms and conditions
+92
+Documentation requirements
+94
+Example 12 - EDP operator that meets the documentation requirements
+99
+Step 4: if multiple EDPs are involved, which EDP operator is responsible for GST?
+105
+Relying on this Ruling
+This publication is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Ruling applies to you, and you correctly rely on it in good faith, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+(
+Note: This is a consolidated version of this document.
+)
+What this Ruling is about
+1. The
+Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 2016
+(the Act) introduced provisions that apply from 1 July 2017 to make an 'electronic distribution platform' (EDP) operator responsible for GST on supplies of digital products and digital services made through their platform.
+2. The
+Treasury Laws Amendment (GST Low Value Goods) Act 2017
+(the amending Act) extends these provisions to offshore supplies of low value goods brought to the indirect tax zone, with some modifications, from 1 July 2018. In this Ruling, the 'indirect tax zone' is referred to as 'Australia'.
+3. This Ruling explains how GST will apply to supplies made through EDPs from 1 July 2017. In particular, the Guidance explains the four steps of the EDP rules:
+•
+whether a supply is made through an EDP
+•
+whether a supply is subject to the EDP rules
+•
+whether a supply is excluded from the EDP rules, and
+•
+if multiple EDPs are involved, which EDP operator is responsible for the GST.
+4. An example where an EDP operator can be responsible for GST is where they operate an online marketplace through which merchants can make offshore supplies of low value goods or supplies of digital products or digital services available to end-users.
+5. If each of the four steps set out in this Ruling are satisfied, an EDP operator will be responsible for GST on a supply made through their platform. If the EDP operator is responsible for GST, the merchant will not be responsible for GST.
+6. An EDP operator will not be responsible for GST on some supplies that are connected with Australia under existing rules, including supplies of goods that are sourced from within Australia, and certain digital services or digital products supplied by Australian-based merchants.
+7. An EDP operator will only need to account for GST on a supply if it is a taxable supply.
+[1]
+Amongst other requirements, this means that the supply must be connected with Australia and the entity must be registered or required to be registered for GST. An EDP is required to register if its current or projected annualised GST turnover equals or exceeds the $75,000 threshold (or $150,000 for non-profit bodies).
+[2]
+8. For further information on when a supply of low value goods is connected with Australia, see Law Companion Ruling LCR 2018/1
+GST on low value imported goods.
+9. For further information on when a supply of services, rights or digital products is connected with Australia because it is made to an Australian consumer, see Goods and Services Tax Ruling GSTR 2017/1
+Goods and Services Tax: making cross-border supplies to Australian consumers.
+10. In this Ruling, all legislative references are to the
+A New Tax System (Goods and Services) Tax Act 1999,
+unless otherwise stated.
+Date of effect
+11. This Ruling applies:
+•
+for supplies of digital services and digital products, in working out net amounts for tax periods starting on or after 1 July 2017, and
+•
+for offshore supplies of low value goods, in working out net amounts for tax periods starting on or after 1 July 2018 and to taxable importations relating to supplies made on or after 1 July 2018.
+12. [Omitted.]
+13. [Omitted.]
+Glossary of terms
+14. The following terms are regularly referred to in this Ruling:
+Australia
+refers to the defined term 'indirect tax zone'.
+[3]
+inbound intangible consumer supply
+[4]
+is a supply of anything other than goods or real property where the recipient is an Australian consumer.
+[5]
+This term is explained further in paragraphs 55 to 58 of this Ruling.
+low value goods
+are goods (except for tobacco, tobacco products and alcoholic beverages) that have a customs value of $1,000 or less.
+[6]
+merchant
+as used in this Ruling is referring to the entity which actually makes the supply, not the entity deemed to be responsible for GST.
+offshore supply of low value goods
+[7]
+is a supply of low value goods being brought into Australia where the entity that is treated as the supplier for GST purposes, procures, arranges or facilitates the delivery of goods into Australia.
+Electronic distribution platforms
+15. If each of the four steps of the EDP rules is satisfied, the EDP operator (instead of the merchant) is treated for GST purposes as:
+•
+having made the supply
+•
+having done so for the consideration for which it was made, and
+•
+having done so in the course or furtherance of an enterprise
+[8]
+that the operator carries on.
+[9]
+16. If a supply that meets each of the four steps is connected with Australia
+[10]
+, the EDP operator must count the value of the supply (plus any other supplies it makes that are connected with Australia) when determining whether it is required to register for GST.
+17. As the EDP operator is treated as making these supplies, the merchant should not count these supplies when determining whether they are required to register.
+Outline of the EDP rules
+18. Diagram 1 of this Ruling outlines where each of the four steps is discussed in the Ruling.
+Diagram 1: Outline of the four steps discussed in this Ruling
+Step 1: Is the supply made through an EDP?
+19. The first step is that the supply must be made through a service which is an EDP.
+[11]
+20. A service that can be an EDP includes (but is not limited to) a website, internet portal, gateway, store or marketplace.
+21. A service will be an EDP where it satisfies all of the following:
+[12]
+a)
+the service allows entities to make supplies available to end-users (see paragraphs 24 to 31 of this Ruling), and
+b)
+the service is delivered by means of electronic communication (see paragraphs 32 to 39 of this Ruling), and
+c)
+if the relevant supplies are inbound intangible consumer supplies (that is, not offshore supplies of low value goods), the supplies are made by means of electronic communication (see paragraphs 40 to 41 and 51 to 59 of this Ruling).
+22. However, a service is not an EDP if it
+only
+provides one or more of the following in relation to a supply:
+a)
+a carriage service (see paragraph 43 of this Ruling), or
+b)
+a service of providing access to a payment system or processing payments (see paragraphs 44 to 45 of this Ruling), or
+c)
+a service of providing 'face value vouchers', the supply of which is not a taxable supply (see paragraph 46 of this Ruling).
+[13]
+23. An entity that provides one or more of these excluded services can still be operating an EDP because of other services that it offers in relation to a supply.
+Service allows entities to make supplies available to end-users
+24. The first requirement is that the service allows entities to make supplies available to end-users. An EDP service which allows buyers to make an offer for an item, or which allows merchants to accept orders by buyers, will satisfy this requirement.
+25. This includes situations where an end-user can click a button to make an offer to buy goods at a particular price, where this is converted into a message to the merchant.
+[14]
+26. This requirement will not be satisfied by services that merely create awareness of possible supplies, for example, advertising on a business directory
+[15]
+or a click through advertisement which redirects you to a merchant's or EDP operator's website.
+27. A service is not an EDP if it only builds or maintains the infrastructure behind a service that makes supplies available to end-users. For example, a service provider who builds a website that includes a shopping cart functionality (for the operator of a website) is not itself an EDP. However, the operator of the website, which is the recipient of those services, could be an EDP.
+28. However, a website operator does not cease to be an EDP if certain aspects of the EDP's operation are performed for the operator by other entities. For example, the EDP may outsource functionality and infrastructure used to enable its website to function.
+Example 1 – service that allows entities to make supplies available to end-users
+29.
+Tansy Platform has a variety of merchants' storefronts on its platform. The platform allows merchants to interact with buyers. Jeremiah decides to search Tansy Platform to find upholstery fabric. He accesses Ruth's store on Tansy Platform and adds the fabric to his shopping cart. When he checks out online, the sale of the fabric is processed through the platform.
+30.
+As Tansy Platform provides a means for merchants to receive offers and to sell their products, it meets the requirement that the service allows entities to make supplies available to end-users.
+Example 2 – service that does not allow entities to make supplies available to end-users
+31.
+Tropicbird Books advertises its books on Great Egret, which is a website that only advertises businesses. If a buyer clicks on Great Egret's site they are redirected to Tropicbird Books' website where the books may be purchased. Even though the buyer is redirected to Tropicbird Books' website, the buyer is not able to make an offer for an item on Great Egret, and Tropicbird Books' acceptance of the order is not through Great Egret's site. Great Egret is not operating an EDP as its website does not enable supplies by merchants such as Tropicbird Books to be made to end-users. It instead provides online advertising to merchants like Tropicbird.
+Service delivered by electronic communication
+32. The second requirement is that the service of allowing entities to make supplies available to end-users must be delivered by electronic communication.
+33. Electronic communication is defined to mean:
+[16]
+(a)
+a communication of information in the form of data, text or images by means of guided and/or unguided electromagnetic energy; or
+(b)
+a communication of information in the form of speech by means of guided and/or unguided electromagnetic energy, where the speech is processed at its destination by an automated voice recognition system.
+34. This requirement will be satisfied where the service is delivered by fully automated electronic communication, such as by a website, an automated email or an automated pre-recorded telephone call.
+35. Where human intervention is involved, the service can still be delivered (and supplies can still be made) by means of electronic communication, but this will depend on whether the human involvement is incidental or optional to the service. A service will not be an EDP if it is carried out primarily through human interaction, such as via a call centre.
+[17]
+36. Incidental communications by employees or assistance in helping the end-user to use the service will not affect whether the service is delivered by means of electronic communication. For example, if the service involves a 'click to chat' option or call centre that a recipient can use to make enquiries before purchasing via an online checkout, the service will still be delivered by electronic communication.
+37. Often businesses have an internet presence in addition to their physical store. In this case, the supplies made through the physical store alone
+[18]
+will not be subject to the EDP rules, as this service is not provided by electronic communication. For example, a grocery store will not be an EDP, even if a customer buys a one month subscription for digital streaming from an offshore third party provider at the store.
+Example 3 – service that is delivered by electronic communication even though a call centre is involved
+38.
+Scarlett Publications has a website which allows customers to subscribe to a number of different e-magazines from various publishers. Transactions to purchase a subscription are fully automated through the website. Indigo looks at Scarlett Publications' website to see what subscriptions she is interested in, but she is having trouble accessing the subscription she would like to purchase. Indigo calls a customer service representative who assists her to make the order through the website.
+39.
+The service of allowing entities to make supplies available to end-users provided by Scarlett Publications is delivered by means of electronic communication. The communication with the customer service representative was incidental to this service.
+Inbound intangible consumer supplies must be made by electronic communication
+40. The last requirement is that, if the supply is an inbound intangible consumer supply
+[19]
+, the supply must be made (that is, delivered) by electronic communication. This means the EDP rules for inbound intangible consumer supplies only apply to digital products or digital services. This requirement does not apply to offshore supplies of low value goods.
+41. Step 2 discusses these supplies at paragraphs 51 to 54 of this Ruling, as well as other supplies that are subject to the EDP rules.
+Services that are excluded from the definition of EDP
+42. The law specifically excludes certain services that should not be regarded as an EDP. These rules ensure that the excluded services are not, on their own, an EDP.
+Carriage service
+43. The first exclusion from the definition of an EDP is where a service is a carriage service within the meaning of the
+Telecommunications Act 1997.
+[20]
+A carriage service is a service for carrying communications by means of guided or unguided electromagnetic energy. It includes services such as those provided by an internet service provider, pay telephony and broadband, but not content services such as pay television.
+Payment system or processing of payments
+44. The definition of EDP excludes entities which solely provide a service of providing access to a payment system or payment processing. These services are usually only involved in the supply to the extent that they facilitate payment from the end-user to the merchant or the EDP operator.
+45. A payment services provider or payment processor may act solely on the instructions of the EDP or another party to the transaction.
+Face value vouchers
+46. The last exclusion concerns the supply of 'face value' vouchers which are taxed on redemption or expiry.
+[21]
+This ensures that entities whose online business includes providing a platform on which merchants sell face value vouchers, such as gift vouchers that can be redeemed for a range of supplies up to a particular monetary value, are not treated as an EDP operator solely because the vouchers were issued by the merchant through that platform.
+[22]
+However, the EDP operator may still be responsible for GST where the voucher is redeemed for a supply made through the EDP on redemption of the face value voucher.
+47. This means that if a face value voucher is issued by a merchant through an EDP and:
+•
+the voucher is redeemed for a subsequent supply made through the EDP – this subsequent supply may still be a supply made through the EDP for which the EDP operator may be responsible for the GST. Where the subsequent supply is made through the EDP, the consideration for that supply will include the stated monetary value of the voucher and any additional consideration provided for that subsequent supply
+•
+the voucher is redeemed for a subsequent supply made by a merchant, and that subsequent supply is not made through the EDP, the merchant is responsible for any GST payable on that subsequent supply. The subsequent supply is not made through the EDP solely because it was purchased using a voucher that was issued through the EDP
+•
+if the voucher remains unredeemed, the merchant issuing the voucher is responsible for any increasing adjustment.
+Step 2: Is the supply subject to the EDP rules?
+48. The EDP rules do not apply to all supplies. An operator of an EDP will only be responsible for GST where the supply is made through an EDP and the supply is:
+•
+an offshore supply of low value goods. However the EDP rules do not apply if the supply is connected with Australia under other provisions (refer to paragraphs 49 and 50 of this Ruling)
+[23]
+•
+a supply of a digital service or digital product. If the supply is an inbound intangible consumer supply it is automatically subject to the EDP rules (refer to paragraphs 55 to 58 of this Ruling). In other situations the supply may be made subject to the EDP rules by agreement between the merchant and the EDP operator
+[24]
+(refer to paragraphs 60 to 68 of this Ruling).
+Offshore supplies of low value goods
+49. The amending Act extends the EDP rules to offshore supplies of low value goods that are made through an EDP. LCR 2018/1 explains when a supply is an offshore supply of low value goods.
+50. However, the EDP rules do not apply if the supply is connected with Australia because the goods are sourced within Australia, or the merchant is the importer.
+[25]
+In these situations, the merchant will be responsible for GST.
+When is a supply a digital product or digital service?
+51. An EDP operator will automatically be responsible for GST on inbound intangible consumer supplies made through their platform, if the supplies are made by means of electronic communication, such as supplies of digital products or digital services. Examples of these supplies include:
+•
+the supply of an online game
+•
+streaming of a video
+•
+the supply of an e-book
+•
+an online subscription to a newspaper.
+52. Although the supply must be made by electronic communication, it is not necessary that a supply be delivered through the platform itself. For example, if a supply is made through an EDP, but the digital product or service supplied is delivered through an email from the merchant to the recipient, the requirement will still be met.
+[26]
+53. The EDP rules for inbound intangible consumer supplies apply only to digital supplies. If a customer purchases something which entitles the customer to a specific supply in the future
+[27]
+, then that future supply must be a digital service or digital product for the EDP rules to apply. For example, if the operator of a theme park in Australia issues digital confirmation of a booking, this will not be a supply made by electronic communication as the access to the theme park is not a supply made by electronic communication. By contrast, a supply of an online streaming subscription is a supply made by electronic communication, as the online streaming is a supply by electronic communication.
+54. The EDP rules will not apply to supplies of rights, even if issued as a digital voucher, if those rights entitle the customer to receive a non-digital product or service in Australia (for example, a sky diving experience). In this scenario, the merchant with whom the recipient redeems the rights or voucher would be responsible for GST.
+What is an inbound intangible consumer supply?
+55. An inbound intangible consumer supply is defined as a supply of anything other than goods or real property and the recipient is an Australian consumer
+[28]
+, unless:
+•
+the thing supplied is wholly done in Australia, or
+•
+the supply is made wholly through an enterprise the merchant carries on in Australia.
+56. A supply is made wholly through an enterprise that the merchant carries on in Australia if:
+•
+the merchant carries on an enterprise in Australia, and
+•
+the supply is made wholly through that enterprise.
+57. A supply will not be made wholly through an enterprise that the merchant carries on in Australia where part of the supply is made by an enterprise that the merchant carries on outside of Australia.
+58. Unless the EDP operator has information to the contrary at the time of the transaction, if the EDP operator's agreement with the merchant supplying digital services or digital products specifies a business address for the merchant:
+•
+in Australia, it is reasonable to assume that the supply is not an inbound intangible consumer supply (and that therefore the merchant, and not the EDP operator, will be responsible for GST).
+•
+outside Australia, it is reasonable to assume that the supply is an inbound intangible consumer supply (and that therefore the EDP operator will be responsible for GST).
+Example 4 – supply of digital products by an Australian-based supplier
+59.
+Michael is an app developer. He creates an app which he then decides to sell through a third party EDP. The activities of Michael's enterprise are wholly carried on in Australia. Michael's supply is not an inbound intangible consumer supply and therefore Michael is responsible for GST on the supply of his app, unless he enters into an agreement with the EDP operator.
+Digital supplies that are subject to the EDP rules if there is an agreement
+60. Section 84-60 provides the option for an EDP operator to treat all digital products and digital services made through the platform in the same way, regardless of whether the thing supplied is an inbound intangible consumer supply.
+61. An EDP operator may make an agreement with an merchant about these supplies where all of the following apply:
+[29]
+•
+the supply is made by means of electronic communication (it is a digital supply)
+•
+the supply is made through the EDP
+•
+the supply is covered by a written agreement
+[30]
+entered into between the merchant and the EDP operator before the supply is made for the supply to be treated as if it were an inbound intangible supply made through the platform, and
+•
+the EDP operator is registered for GST.
+62. However, the EDP operator and merchant cannot enter into an agreement under section 84-60 where:
+[31]
+•
+the supply is GST-free
+[32]
+or input taxed
+[33]
+, or
+•
+if the EDP operator would not be treated under section 84-55 as being the supplier of, and making the supply, if it were an inbound intangible consumer supply. This excludes supplies that the EDP operator would not be responsible for GST on, such as supplies that are excluded from the EDP rules under Step 3.
+63. The consequence of an agreement being made under section 84-60 is that the supply is treated as being made in the course or furtherance of carrying on the enterprise of the EDP operator.
+[34]
+If the EDP operator's enterprise is carried on outside Australia, the EDP operator will be responsible for GST on all supplies made to Australian consumers.
+64. If instead, the EDP operator's enterprise is carried on in Australia, all of the supplies (including supplies made to GST-registered businesses) made through the platform will be connected with Australia.
+[35]
+This is because the supplies are made through an enterprise the EDP operator carries on in Australia.
+Example 5 – GST liability for supplies shifted to the EDP operator
+65.
+Schonell Gaming is an EDP operator that carries on its enterprise outside Australia. It operates an online gaming store on which a number of merchants sell apps. Most of these merchants are offshore and Schonell Gaming is liable for GST on these supplies when they are made to Australian consumers.
+66.
+However, Raynott Gaming is a merchant that carries on the development of apps in Australia. Its supplies to Australian consumers will not be inbound intangible consumer supplies as its supplies are wholly made through an enterprise that Raynott Gaming carries on in Australia. These supplies are made by means of electronic communication.
+67.
+Schonell Gaming decides that it would be easier for its accounting systems if it could account for all of the supplies on the same basis and charge GST on all the supplies to Australian consumers made through its platform.
+68.
+Schonell Gaming and Raynott Gaming enter into a written agreement by email that the supplies made by Schonell Gaming are to be treated as if they were inbound intangible consumer supplies. Subsequently, Schonell Gaming charges GST on all the supplies made through its platform, unless they are not connected with Australia.
+Step 3: Is the supply excluded from the EDP rules?
+69. An EDP operator is not always responsible for GST on an offshore supply of low value goods, or an inbound intangible supply made through their platform. Where the exclusion applies
+[36]
+, the merchant, instead of the EDP operator, will be responsible for GST.
+70. For the exclusion to apply,
+all
+of the following criteria must be met in relation to a supply made through the platform:
+•
+the EDP operator does not authorise the charge to the recipient of the supply
+•
+the EDP operator does not authorise delivery of the supply
+•
+the EDP operator does not set (whether directly or indirectly) any of the terms and conditions under which the supply is made
+•
+a document relating to the supply issued to the recipient identifies the supply and the merchant as the supplier of that supply, and
+•
+the merchant and the EDP operator have agreed in writing that the merchant is the entity liable for paying the GST for the supply. Alternatively, the merchant and the EDP operator have agreed in writing that the merchant is the entity liable for paying GST for a class of supplies that includes the supply concerned.
+71. Subdivision 153-B allows an intermediary and a principal (the merchant) to agree that a supply by the principal will be treated as two supplies if certain requirements are met; one supply by the principal to the intermediary and one from the intermediary to the recipient. These arrangements are not available for supplies where an EDP operator is responsible for GST under section 84-55.
+[37]
+When does an EDP operator authorise the charge for the supply?
+72. The EDP operator authorises the charge to the recipient if it communicates the liability to pay to the customer, or otherwise influences whether or at what time the customer pays for the supply. This may be done by initiating the process through which the recipient is charged. This includes situations where an EDP operator's website connects the recipient to a third party who receives the EDP operator's instruction and processes the payment.
+73. To authorise the charge, it is not necessary for the EDP operator to collect or receive payment, or that it is involved in each of the steps in the payment authorisation process.
+Example 6 – EDP operator that authorises the charge
+74.
+When using Taro's website to buy goods, Sally selects the option to pay using Pay Dynamo, a third party payment processor. Taro connects Sally to Pay Dynamo's website, and provides data to Pay Dynamo that allows them to process the payment. Pay Dynamo takes payment, which is received by the merchant.
+75.
+Taro authorises the charge to Sally. This is because it has communicated Sally's liability to pay for the goods.
+Example 7 – EDP operator that does not authorise the charge
+76.
+Giselle is a merchant on Cassava's website. Her profile advertises the fact that she has an active account on Pay Dynamo, a third party payment processor. She uses the messaging function on the website to provide buyers with her account details.
+77.
+Cassava does not communicate the buyer's liability to pay, or influence whether or at what time the customer pays for the supply. It does not authorise the charge.
+When does an EDP operator authorise delivery of the supply?
+78. An EDP operator authorises delivery of a supply if it sends approval to commence delivery, delivers the item itself or instructs the merchant or a third party to make delivery.
+79. To authorise delivery, it is not necessary for the EDP operator to make delivery itself.
+Example 8 – EDP operator that authorises delivery
+80.
+Perilla is an app store through which merchants sell digital products (gaming applications). When Harris purchases an app through the app store, Perilla allows him to download the app to his device.
+81.
+Perilla authorises delivery of the supply.
+Example 9 – EDP operator that does not authorise delivery
+82.
+Axel is a merchant selling art supplies through Tamarind's website. Blanche contacts Axel through Tamarind's messaging service and buys a set of watercolour paints. Axel, and not Tamarind, authorises delivery of the item, given the arrangements for the order and delivery of the goods are made directly with Axel.
+When does an EDP operator directly or indirectly set any of the terms and conditions under which the supply is made?
+83. The exclusion does not apply where an EDP operator
+directly or indirectly
+sets
+any
+of the terms and conditions under which a supply is made through its platform.
+[38]
+This is a wide concept that looks beyond the formal contractual relationship to the influence exercised by the operator of the EDP. The substance of the arrangement, as well as the legal form, will be relevant in determining whether the condition applies.
+84. The above means that there are limited circumstances where an EDP operator will not be responsible for the GST on supplies made through their platform.
+85. The terms and conditions refer to the rights and obligations of the merchant and recipient, including terms such as the price and quality of items, arrangements for payment and delivery, and any guarantees or warranties.
+86. To be responsible for GST on supplies because of this requirement, it is not necessary that the EDP operator has any direct involvement in determining the contractual arrangements between merchants and buyers using the platform (for example, by being involved in the negotiation of the price or providing a standard contract).
+87. The supply will not be excluded in situations where an EDP operator indirectly dictates the terms and conditions of the supply through its own contractual relationship with merchants using their platform.
+88. An example of an EDP operator that does not directly or indirectly set any of the terms and conditions is one which operates an online classified service through which offers are accepted by consumers via a messaging service, but where its only influence on the supply is in restricting the form of the advertising that can be used on its website.
+89. Some examples where an EDP operator directly or indirectly sets any of the terms or conditions under which a supply is made include where the EDP operator requires:
+•
+the offer, acceptance or payment for the items to be communicated through the EDP
+•
+a merchant to accept one or more specific payment methods or shipping or delivery methods to be used in fulfilling the transaction
+•
+or provides the types of packaging to be used by the merchant
+•
+that merchants using the platform will match the prices of items which are sold cheaper elsewhere (that is, a price guarantee)
+•
+the right to withhold the buyer's payment from the merchant until the buyer confirms they are satisfied with the product
+•
+use of its grievance or dispute management procedure for merchants and buyers
+•
+the right to set the price for which goods are sold, such as by offering a discount through a customer loyalty programme
+•
+merchants to meet particular performance requirements, such as those relating to the quality of the goods or requiring them to maintain a particular customer rating to use the platform, or
+•
+requires merchants to display a rating based on stipulated behaviours relating to that merchant's conduct on the platform.
+[39]
+Example 10 – EDP operator that directly or indirectly sets any of the terms and conditions
+90.
+Star Anise offers features and imposes requirements on merchants and buyers, each of which mean that it directly or indirectly sets some of the terms and conditions under which the supplies through it are made.
+91.
+These features include that Star Anise:
+•
+requires merchants to process the transaction through its platform, and prohibits them from directly transacting with buyers outside of its platform. This ensures that Star Anise can collect the correct fee amount, which is based on the value of the sale.
+•
+stipulates the situations in which either the merchant or buyer will be responsible for paying the costs of returning goods
+•
+provides a rating of the merchant's performance on the platform, using metrics such as number of complaints and ratings from buyers. If the merchant does not achieve a certain rating, restrictions can apply, such as its items receiving a lower search ranking, or funds being withheld until buyers are satisfied. This rating system influences the merchant's conduct when selling items through Star Anise.
+Example 11 – EDP operator that does not directly or indirectly set any of the terms and conditions
+92.
+Sago operates an EDP. However, the only requirements that it places on merchants and buyers using its website are that certain goods (such as firearms) cannot be listed for sale and that listings cannot contain offensive language.
+93.
+Sago does not directly or indirectly set any of the terms and conditions under which the supply is made.
+Documentation requirements
+94. Two documentation requirements must also be met for the exclusion to apply.
+95. The first requirement is that a document must be issued to the recipient of the supply which identifies the supply and the merchant as the supplier of that supply. 'Document' means any record of information, and includes anything on which there is writing as well as anything from which sounds, images or writings can be reproduced with or without the aid of anything else.
+[40]
+This requirement would be met by the sending of a receipt by email.
+96. This requirement is also satisfied where this information is included prominently on a screen that is displayed to the recipient when they use the platform to buy items, such as in the listing. However, the EDP operator will need to be able to retain evidence to show that the information has been displayed in this way.
+97. The second requirement is that the merchant and the EDP operator have agreed in writing that the merchant is the entity liable for paying the GST for a particular supply. Alternatively, the merchant and the EDP operator have agreed in writing that the merchant is the entity liable for paying GST for a class of supplies (for example, supplies that are offshore supplies of low value goods) that includes the supply concerned.
+[41]
+98. This requirement could be met by including this in the terms and conditions for the merchant to use the platform, which the merchant agrees to electronically.
+Example 12 – EDP operator that meets the documentation requirements
+99.
+Galangal is a website that allows merchants to interact with buyers, including by allowing buyers to make an offer to buy goods at a particular price by clicking a button on the listing. This offer is converted into a message to the merchant.
+100.
+Galangal provides a means for merchants to receive offers and to sell their products but it is not further involved in the sale. It does not authorise the charge for the supply, authorise the delivery or directly or indirectly set any of the terms and conditions under which the supply is made. Galangal is able to exclude the supply if it meets the documentation requirements.
+101.
+Marie-Louise, a designer in France, places an advertisement on Galangal to sell her silk scarfs. Odette arranges through Galangal to purchase one of Marie-Louise's scarfs for $60 and for it to be sent to Australia.
+102.
+Galangal's website meets the first requirement. Odette accesses a screen that clearly shows the scarf she is purchasing and which identifies Marie-Louise as the merchant.
+103.
+Galangal sets in its terms and conditions between itself and its merchants that the merchant will be responsible for GST on all offshore supplies of the low value goods that they make through Galangal's website. Marie-Louise has agreed to this term.
+104.
+As Galangal has met all the exclusion rules, Marie-Louise is responsible for the GST (if any) on the supply.
+Step 4: if multiple EDPs are involved, which EDP operator is responsible for GST?
+105. In some circumstances, an inbound intangible consumer supply or an offshore supply of low value goods may be made through multiple EDPs. There are special priority rules to ensure that only one of the EDP operators is responsible for GST on the supply.
+106. The EDP operators may agree amongst themselves, by way of a written agreement, on which operator is to be treated as making the supply and consequently responsible for the GST on the supply.
+[42]
+107. Where there is no agreement between the operators and no legislative instrument, there are default rules which apply. Under the default rules, the operator responsible for the GST is the first of the EDP operators to receive or authorise the charging of any of the consideration for the supply.
+[43]
+In the event that none of the operators meet this criterion, the relevant operator will be the first of the operators to authorise the delivery of the supply. The Commissioner also has the power to prescribe, by legislative instrument, additional rules to determine which EDP operator is responsible for GST. These additional rules will operate only in the absence of a written agreement between the EDP operators.
+Commissioner of Taxation
+7 March 2018
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+Section 9-5.
+[2]
+See Goods and Services Tax Ruling GSTR 2001/7
+Goods and services tax: meaning of GST turnover, including the effect of section 188-25 on projected GST turnover
+.
+[3]
+Indirect tax zone is defined in section 195-1.
+[4]
+Section 84-65.
+[5]
+Australian consumer is defined under subsection 9-25(7) and Goods and Services Tax Ruling GSTR 2017/1
+Goods and services tax: making cross border supplies to Australian consumers
+.
+[6]
+Section 84-79. See paragraphs 34 to 52 of Law Companion Ruling LCR 2018/1
+GST on low value imported goods
+.
+[7]
+Section 84-77. See paragraphs 72 to 84 of LCR 2018/1.
+[8]
+The term 'enterprise' is defined in section 9-20.
+[9]
+Subsection 84-55(1).
+[10]
+Section 9-25.
+[11]
+Subsection 84-55(1).
+[12]
+Subsection 84-70(1).
+[13]
+Subsection 84-70(2).
+[14]
+Note that the exclusion rules may apply so that the EDP operator is not responsible for GST on a supply. Example 12 describes a situation where a supply is made through an EDP but the exclusion rules apply, so that the merchant remains responsible for GST.
+[15]
+Explanatory Memorandum (EM) to Tax and Superannuation Laws Amendment (2016 Measures No. 1) Bill 2016, paragraph 1.110.
+[16]
+Section 195-1 states that 'electronic communication' has the same meaning as in the
+Electronic Transactions Act 1999
+, which is in section 5 of that Act.
+[17]
+This would include call centres operated through telephone lines as well as voice over internet protocol (VoIP).
+[18]
+See paragraph 1.109 of the EM to Tax and Superannuation Laws Amendment (2016 Measures No. 1) Bill 2016.
+[19]
+See paragraphs 55 to 58 of this Ruling for an explanation of what an inbound intangible consumer supply is.
+[20]
+Section 7 of the
+Telecommunications Act 1997
+.
+[21]
+The GST treatment of vouchers is discussed in Goods and Services Tax Ruling GSTR 2003/5
+Goods and Services Tax: Vouchers
+. This also deals (at paragraphs 121 onwards) with when an increasing adjustment occurs.
+[22]
+See Division 100 and subparagraph 84-70(2)(b)(iii).
+[23]
+See subsection 84-81(3).
+[24]
+Section 84-60.
+[25]
+Subsection 84-81(1) restricts subsection 84-81(3), with the effect that an EDP operator will only be responsible for GST on a supply that is only connected with Australia because of Subdivision 84-C. This is explained further at paragraphs 257 to 268 of LCR 2018/1.
+[26]
+See paragraph 1.112 of the EM to Tax and Superannuation Laws Amendment (2016 Measures No. 1) Bill 2016.
+[27]
+For example, a voucher, membership, pass, subscription or experience.
+[28]
+Australian consumer is defined under subsection 9-25(7) and explained in GSTR 2017/1.
+[29]
+Subsection 84-60(1).
+[30]
+A written agreement can be made electronically. See the broad meaning of 'writing' in section 2B of the
+Acts Interpretation Act 1901
+.
+[31]
+Subsection 84-60(2).
+[32]
+Section 9-30 and Division 38 explain the meaning of GST-free supplies.
+[33]
+Division 40 explains input taxed supplies.
+[34]
+Subsection 84-60(3).
+[35]
+See paragraphs 1.130 and 1.131 of the EM to the Tax and Superannuation Laws Amendment (2016 Measures No. 1) Bill 2016.
+[36]
+Subsection 84-55(4).
+[37]
+Subsection 153-55(4A) and subsection153-60(3A).
+[38]
+Prior to 1 July 2018, subparagraph 84-55(4)(c)(iii) required that the EDP operator 'does not set the terms or conditions under which the supply is made'. The Explanatory Memorandum to the Treasury Laws Amendment (GST Low Value Goods) Bill 2017 explains that this merely clarifies the effect of the provision (see paragraph 1.130). In particular, this removes any doubt that the condition will not be satisfied where an EDP operator unilaterally dictates terms and conditions without direct involvement in contractual arrangements or where they set only one term or condition.
+[39]
+Examples are provided in paragraph 1.131 of the EM to the Treasury Laws Amendment (GST Low Value Goods) Bill 2017.
+[40]
+See section 2B of the
+Acts Interpretation Act 1901
+.
+[41]
+Subsection 84-55(4).
+[42]
+Paragraph 84-55(2)(a).
+[43]
+Subparagraph 84-55(2)(c)(i).
+References
+ATO references:
+NO  1-B5JTAFO
+Business Line:
+ISP - GST
+Related Rulings/Determinations:
+GSTR 2001/7
+GSTR 2003/5
+GSTR 2017/1
+LCR 2018/1
+Legislative References:
+ANTS(GST)A 1999
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-20
+ANTS(GST)A 1999 9-25
+ANTS(GST)A 1999 9-25(7)
+ANTS(GST)A 1999 9-30
+ANTS(GST)A 1999 Div 38
+ANTS(GST)A 1999 Div 40
+ANTS(GST)A 1999 84-55
+ANTS(GST)A 1999 84-55(1)
+ANTS(GST)A 1999 84-55(2)(a)
+ANTS(GST)A 1999 84-55(2)(c)(i)
+ANTS(GST)A 1999 84-55(4)
+ANTS(GST)A 1999 84-55(4)(c)(iii)
+ANTS(GST)A 1999 84-60
+ANTS(GST)A 1999 84-60(1)
+ANTS(GST)A 1999 84-60(2)
+ANTS(GST)A 1999 84-60(3)
+ANTS(GST)A 1999 84-65
+ANTS(GST)A 1999 84-70(1)
+ANTS(GST)A 1999 84-70(2)
+ANTS(GST)A 1999 84-70(2)(b)(iii)
+ANTS(GST)A 1999 Subdiv 84-C
+ANTS(GST)A 1999 84-77
+ANTS(GST)A 1999 84-79
+ANTS(GST)A 1999 84-81(1)
+ANTS(GST)A 1999 84-81(3)
+ANTS(GST)A 1999 Div 100
+ANTS(GST)A 1999 153-55(4A)
+ANTS(GST)A 1999 153-60(3A)
+ANTS(GST)A 1999 195-1
+Acts Interpretation Act 1901 2B
+Electronic Transactions Act 1999 5
+Telecommunications Act 1997 7
+Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 2016
+Treasury Laws Amendment (GST Low Value Goods) Act 2017
+Other References:
+Treasury Laws Amendment (GST Low Value Goods) Bill 2017
+Explanatory Memorandum
+to the Treasury Laws Amendment (GST Low Value Goods) Bill 2017
+LCR 2018/2 history
+Date:
+Version:
+Change:
+7 March 2018
+Original ruling
+You are here
+19 November 2025
+Consolidated ruling
+Addendum
+Back to top

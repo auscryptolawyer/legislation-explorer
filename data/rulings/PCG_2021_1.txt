@@ -1,0 +1,276 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+29 related documents
+Practical Compliance Guideline
+PCG 2021/1
+Application of market value substitution rules when there is a buy-back or redemption of hybrid securities - methodologies for determining market value for investors holding their securities on capital account
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+What this Guideline is about
+1
+Date of effect
+6
+Requirement to determine market value on off-market buy-back or redemption
+7
+Scope of this Guideline
+17
+Transaction structure
+18
+Practical compliance approach
+20
+Market value on specified call date
+22
+Market value on reinvestment date
+23
+Examples
+26
+Scenario 1 - single-date approach
+27
+Scenario 2 - 2 dates approach
+32
+Scenario 3 - 2 dates approach with resale mechanism
+37
+Calculation of modified volume weighted average price
+45
+Relying on this Guideline
+This Practical Compliance Guideline sets out a practical administration approach to assist taxpayers in complying with relevant tax laws. Provided you follow this Guideline in good faith, the Commissioner will administer the law in accordance with this approach.
+What this Guideline is about
+1. A common form of security in the market is a hybrid security, which is an instrument that exhibits features of both debt and equity. Some of the more common types of hybrid securities are preference shares and capital notes, with these being particularly common in the banking and finance industry. The terms of such hybrid securities will generally permit (but not require) the issuer of the hybrid security to 'repay' investors at a particular time in the future where certain conditions are satisfied. Where the issuer does not elect to repay the investors at that time, the hybrid securities will usually convert into ordinary shares in the issuer at a determined point in time or continue to remain on issue until another relevant date with the option to repay or convert.
+2. The actual form of repayment will depend on the legal form of the hybrid security. Where the hybrid security is in the form of a preference share (
+hybrid share
+), the issuer may, among other mechanisms, repay the investor through an off-market buy-back of the share or, where the hybrid security is in the form of a note (
+(hybrid note
+), through redemption of the note. Where this happens certain market value substitution rules (MVSRs) in Australia's income tax law (as discussed at paragraphs 7 to 14 of this Guideline) will require the holder of the hybrid security to determine its market value as a part of the process of determining the capital proceeds from the repayment or redemption.
+3. In this type of fact pattern it is important to emphasise that MVSRs can apply despite the fact that the hybrid securities are widely held and the issuer is acting at arm's length from the holders. This is of relevance because the capital proceeds that are substituted under the MVSRs may not necessarily be equal to the amount actually received.
+4. The ATO recognises the practical problems faced by investors in determining the market value of a hybrid security for the purposes of calculating capital proceeds from a buy-back or redemption. This Guideline provides a practical compliance approach for determining the market value of a hybrid security for capital gains tax (CGT) purposes when it is bought back or redeemed (as relevant) from an investor holding it on capital account.
+5. This Guideline does not apply to an acquisition, buy-back or redemption of a hybrid security that is subject to the taxation of financial arrangements (TOFA) provisions under Division 230 of the
+Income Tax Assessment Act 1997.
+[1]
+Date of effect
+6. This Guideline applies both before and after its date of issue.
+Requirement to determine market value on off-market buy-back or redemption
+7. Generally, one of 2 CGT events will happen when a hybrid security held by an investor on capital account
+[2]
+is subject to a buy-back or redemption:
+•
+CGT event A1 under subsection 104-10(1), or
+•
+CGT event C2 under subsection 104-25(1).
+8. CGT event A1 happens when a security in the nature of a hybrid share is bought back off-market.
+9. CGT event C2 happens when a security in the nature of a hybrid note is redeemed.
+10. In both cases it will be necessary for an investor to determine the capital proceeds from the relevant CGT event happening. This is relevant to determining whether an investor makes a capital gain or capital loss from the CGT event (subsections 104-10(4) and 104-25(3)).
+11. The general rule is that the capital proceeds from a CGT event are the total of the money an investor receives or is entitled to receive in respect of the event happening or, if the consideration includes property, the market value of the property the investor receives or is entitled to receive (worked out at the time of the event) (section 116-20). However, this general rule is subject to certain modifications. This Guideline considers 2 modifications that are relevant to the buy-back or redemption of a hybrid security.
+12. Firstly, where a hybrid security has been bought back off-market and CGT event A1 happens, the capital proceeds may be modified by section 159GZZZQ of the
+Income Tax Assessment Act 1936
+(ITAA 1936). Relevantly, subsection 159GZZZQ(2) of the ITAA 1936 states:
+If apart from this section:
+(a)
+the purchase price in respect of the buy-back;
+is less than:
+(b)
+the amount that would have been the market value of the share at the time of the buy-back if the buy-back did not occur and was never proposed to occur;
+then ... the amount of consideration that the seller is taken to have received or to be entitled to receive in respect of the sale of the share is equal to the market value ...
+13. Secondly, where a hybrid security has been redeemed and CGT event C2 happens, the capital proceeds may be substituted by subsection 116-30(2) (and taking particular note of subsection 116-30(3A)).
+[3]
+14. The relevant subsections in section 116-30 provide as follows:
+(2) The capital proceeds from a CGT event are replaced with the market value of the CGT asset that is the subject of the event if:
+...
+(b) those capital proceeds are more or less than the market value of the asset and:
+...
+(ii) the CGT event is CGT event C2 (about cancellation, surrender and similar endings).
+...
+(3A) If you need to work out the market value of a CGT asset that is the subject of CGT event C2, work it out as if the event had not occurred and was never proposed to occur.
+15. Importantly, section 159GZZZQ of the ITAA 1936 in respect of CGT event A1 operates differently to the MVSR in section 116-30 in respect of CGT event C2. Section 159GZZZQ only operates to substitute the capital proceeds where the purchase price is less than the relevant market value. Consequently, where the purchase price is
+more
+than the market value the capital proceeds will be the purchase price (that is, the general rule applies without modification).
+16. The MVSRs will not be relevant to investors where the issuer of a hybrid security chooses to use a resale mechanism whereby the hybrid securities are acquired from the investors not by the issuer but by a purchaser nominated by the issuer, and the issuer subsequently buys back or redeems the hybrid securities from that purchaser.
+Scope of this Guideline
+17. The methodologies in this Guideline are confined to the application of the MVSRs in the situations mentioned in paragraphs 7 to 14 in this Guideline (that is, redemption of a hybrid note held on capital account or buy-back of a hybrid share held on capital account). However, this Guideline does not consider the appropriateness (or otherwise) of different mechanisms to repay investors in hybrid securities (for example, resale mechanism) for the purposes of the anti-avoidance rules.
+Transaction structure
+18. When a hybrid security is subject to a buy-back or redemption one of 2 approaches is generally adopted by the issuer of the hybrid security:
+•
+Single-date approach
+- the issuer will announce to the market that all securities will be bought back or redeemed on a particular date specified in the terms of issue (which in the remainder of this Guideline will be referred to as the 'call date'
+[4]
+), and an investor may elect either to receive cash for its securities or to reinvest the proceeds into another tranche of hybrid securities to be issued on that date. Under this approach all hybrid securities on issue are bought back or redeemed on the same date.
+•
+Two-dates approach
+[5]
+- the issuer will announce to the market at a time close to the call date that an investor may elect to have its hybrid securities bought back or redeemed on a particular date before the call date (usually referred to as the 'reinvestment date') and to have the proceeds reinvested into another tranche of hybrid securities. This event is often referred to as an 'early reinvestment' because it occurs earlier than the call date. The balance of hybrid securities not bought back or redeemed on the reinvestment date will then be bought back or redeemed on the call date for cash. Under this approach, the totality of the original hybrid securities on issue will be bought back or redeemed on 2 different dates - the reinvestment date for investors receiving a new issue of securities, and the call date for investors receiving cash.
+19. As the 'two-dates approach' involves a buy-back or redemption of hybrid securities on 2 different dates, the market value for CGT purposes will need to be determined separately for each date.
+Practical compliance approach
+20. The methodology described in this Guideline will apply to a hybrid security with the following features:
+•
+The hybrid security is an equity interest under Division 974.
+•
+The issuer has an option (which may be subject to conditions) under which it may buy-back or redeem the hybrid security on a specified call date.
+•
+The hybrid security is listed on the Australian Securities Exchange, an overseas securities exchange, or offered or held through a clearing system during the time the issuer has an option to buy-back or redeem the hybrid security before the specified call date.
+•
+The terms of the hybrid security specify that the amount paid by the issuer to the holder to buy-back or redeem the hybrid security must be equal to the face value of the hybrid security. The call date is also often a distribution payment date.
+•
+The hybrid security will convert into ordinary shares in the issuer, or a connected entity of the issuer, if it is not bought back or redeemed on or before the specified call date.
+•
+The hybrid security carries a right to regular (at least annual) distributions calculated by reference to a fixed or floating market-based coupon rate.
+•
+There is a strong and demonstrated market expectation prior to the announcement of a redemption or buy-back that the hybrid security will be redeemed or bought back (or wound-up through some other appropriate mechanism in the terms) on a date prior to the specified call date. This is evidenced where the price is within the acceptable tolerance range (refer to paragraph 23 of this Guideline).
+21. The ATO will adopt the following practical compliance approach for a hybrid security that satisfies the requirements in paragraph 20 of this Guideline.
+Market value on specified call date
+22. For the purposes of subsection 116-30(2) or subsection 159GZZZQ(2) of the ITAA 1936 (as relevant), the ATO will accept that the market value of a hybrid security on its specified call date is equal to its face value.
+[6]
+Market value on reinvestment date
+23. For the purposes of subsection 116-30(2) or subsection 159GZZZQ(2) of the ITAA 1936 (as relevant), where a hybrid security features a reinvestment date before its specified call date then the ATO will accept that the market value of the hybrid security on the reinvestment date is equal to an amount calculated in accordance with the hybrid security's volume weighted average price (VWAP) over the last 5 trading days prior to the first announcement date, adjusted for any accrued distributions (refer to paragraph 45 of this Guideline for the steps to calculate the modified VWAP). Such an amount will be accepted so long as the result is within a tolerance of 2% of the amount received for the buy-back or redemption.
+[7]
+24. Where the calculated VWAP is outside the acceptable tolerance range then:
+•
+the VWAP amount can still be applied where it is supported by an independent valuation which justifies the VWAP result
+[8]
+, or
+•
+an independent market valuation is obtained using a methodology other than VWAP.
+[9]
+25. In relation to the accepted valuation methodology for these early reinvestment date calculations, requiring the result of the VWAP calculation to be within an acceptable tolerance, is designed to cater for unusual conditions that may be present (for example, insufficient trading to produce a true market price) and which may indicate that the VWAP valuation methodology does not produce an acceptable proxy for determining the market value of the relevant securities.
+Examples
+26. The following examples assume that there will be no incidental or other costs (for example, brokerage or advisory fees) associated with the acquisition, disposal or redemption of the relevant hybrid securities. Investors who incur such costs will need to take them into account in working out any capital gain or capital loss they make from a buy-back or redemption of their hybrid securities.
+Scenario 1 - single-date approach
+27.
+Bank A issued subordinated preference shares to the market with a face value of $100 per preference share, with a call date at the end of the fifth year after issue.
+28.
+Bank A announced to the market, one month prior to the call date, that holders of the preference shares will have the option of reinvesting the proceeds of the preference shares into a new tranche of preference shares to be issued by the Bank on the call date. As part of the reinvestment process, Bank A will buy back the original shares and apply the proceeds to the issue of new shares on the call date.
+29.
+The preference shares are bought back from investors on the call date and they receive the face value of $100 per preference share.
+30.
+In this scenario, for the purposes of determining an investor's capital proceeds, CGT event A1 happens to an investor upon the preference shares being bought back by Bank A. In determining the capital proceeds an investor is taken to receive may be modified by the MVSR in section 159GZZZQ of the ITAA 1936. However, the capital proceeds from the buy-back will not be modified by the MVSR as the ATO accepts the market value of each note as being $100 (that is, the amount received which is equal to the face value) at the time of the preference shares being bought back.
+31.
+This means an investor that subscribed for the preference shares for $100 when they were originally issued and that is holding the securities on capital account will not have a capital gain or capital loss.
+Scenario 2 - 2-dates approach
+32.
+Bank B issued subordinated convertible notes (original notes) to the market with a face value of $100 per note, with a call date at the end of the fifth year after issue.
+33.
+Bank B announced to the market 3 months prior to the call date that holders of the notes have the option of reinvesting the proceeds of the notes into a new tranche of notes to be issued by the Bank 2 months prior to the call date of the original notes (date X). As part of this reinvestment process, Bank B will redeem the original notes from investors participating in the reinvestment for $100 per note, with the proceeds being applied to the issue of new notes.
+34.
+The 5-day VWAP of each original note calculated at the time of the announcement is $100.80.
+35.
+Investors that chose not to participate in the reinvestment option had their notes redeemed on the call date, receiving an amount equal to the face value of $100 per note.
+36.
+In this scenario, for the purposes of determining an investor's capital proceeds, CGT event C2 happens on date X for investors that participate in the reinvestment and on the final call date for non-participating investors. The ATO accepts that:
+•
+At date X, the market value of each note for the purpose of the MVSR in section 116-30 will equal the 5-day VWAP of $100.80, as this amount is within a 2% tolerance threshold (which would be a range between $98 and $102). Therefore, the capital proceeds which are substituted by the MVSR are $100.80. This means an investor that subscribed for a note for $100 when they were originally issued and that is holding the note on capital account, will return a capital gain of 80 cents for each note that was redeemed by Bank B on this date.
+•
+At the final call date, the market value of each note is $100 (that is, the amount received, which is equal to the face value). The capital proceeds from the event will not be modified by the MVSR as the ATO accepts the market value of each note as being $100 at the time the notes are redeemed. This means an investor that subscribed for a note for $100 when they were originally issued and that is holding the note on capital account, will not have a capital gain or capital loss.
+Scenario 3 - 2-dates approach with resale mechanism
+37.
+Bank C issued subordinated convertible notes (original notes) to the market with a face value of $100 per note, with a call date at the end of the fifth year after issue. An optional resale mechanism (exercisable at the option of Bank C) is included in the terms and conditions in the prospectus for the convertible notes whereby Bank C can elect to engage a third party (the Purchaser), usually an investment bank, to acquire the original notes from the investors (instead of redeeming the original notes directly from investors). Where Bank C chooses the resale mechanism, it will redeem all (or a portion) of the notes from the Purchaser immediately after the acquisition. Bank C included this resale option in the terms of notes to provide it with flexibility in managing its capital position, as there was a possibility it may have wanted to convert some securities to ordinary shares depending on its equity capital position at the time of redemption.
+38.
+Bank C announced to the market 3 months prior to the call date that holders of the subordinated convertible notes have the option of reinvesting the notes into a new tranche of notes to be issued by the Bank 2 months prior to the call date of the original notes (date Y). As part of the reinvestment and redemption process, Bank C has elected to engage the optional resale mechanism.
+39.
+The 5-day VWAP of each original subordinated convertible note calculated at the time of the announcement is $99.80.
+40.
+Investors that chose not to participate in the reinvestment option had their subordinated convertible notes bought back on the call date, receiving an amount equal to the face value of $100 per note.
+41.
+On date Y, the Purchaser acquired the original notes from the participating holders for an amount of $100 per note. The proceeds were applied on behalf of the holders of the original notes towards payment of the subscription price for the new notes.
+42.
+On the call date, the Purchaser acquires all the remaining notes on issue from the investors for an amount of $100 per note. Immediately after the Purchaser acquires the original notes from the investors, Bank C redeems all the notes from the Purchaser for $100 per note.
+43.
+In this scenario, for the purposes of determining the capital proceeds for an investor, CGT event A1 happens to the investors when the Purchaser acquires their original notes and the capital proceeds from the event will be $100 per note. The MVSR will not apply to this event. This means an investor that subscribed for the hybrid securities for $100 per note when they were originally issued, and that is holding the securities on capital account, will not have a capital gain or capital loss.
+44.
+The taxation consequences for the Purchaser will depend on a number of factors, including (but not limited to):
+•
+whether the resale mechanism is a financial arrangement for the purposes of the TOFA regime and whether a TOFA gain or loss arises in respect of it, and
+•
+whether the Purchaser holds the securities as trading stock.
+Calculation of modified volume weighted average price
+45. The process of applying modified VWAP involves the following steps:
+1.
+Identify the first date of the issuer's announcement of buy-back or redemption of the securities.
+2.
+Identify the date of the last coupon payment and the amount payable on the next coupon date. Use this information to calculate the daily amount of accrued interest.
+3.
+Obtain the last price of the security and volume traded for each of the 5 days prior to the announcement.
+4.
+For each of the 5 days prior to the announcement, subtract the accrued interest from the last price paid for the security to produce the 'clean price' of the security for each of the 5 days. For the abundance of clarity, the amount of accrued interest to be subtracted should include the value of the expected franking credits (that is, the grossed-up interest and franking credits amount).
+5.
+Multiply the clean price by the volume traded for each of the 5 days.
+6.
+Calculate the sum of step 5 for the 5 days.
+7.
+Calculate total volume traded over the 5 days.
+8.
+Divide step 6 by step 7 to yield the final VWAP amount.
+46. Note that in calculating the VWAP, regard should be given to the definition of 'volume weighted average market price' in the ASX Listing Rules 19.12, introduced on 1 July 2014.
+Commissioner of Taxation
+13 January 2021
+Amendment history
+22 November 2023
+Part
+Comment
+Paragraph 45
+Step 4 updated to confirm the existing ATO view that a reference in the Guideline to stripping out an accrued coupon is a reference to the grossed-up coupon.
+Paragraph 46
+Confirms that regard should be given to the ASX Listing Rules 19.12 definition when calculating the VWAP.
+Throughout
+Minor style and formatting changes.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+[1]
+All legislative references in this Guideline are to the
+Income Tax Assessment Act 1997
+unless otherwise indicated.
+[2]
+This Guideline only applies where hybrid securities are held on capital account.
+[3]
+The MVSR exemption in subsection 116-30(2B) does not extend to non-share interests such as hybrid capital notes.
+[4]
+The original prospectus (or other issuance document) would normally specify a date, or include an indicative date, for some or all of the securities to be redeemed at the option of the issuer (this may also be subject to approval from Australian Prudential Regulation Authority if the hybrid security is intended to qualify as regulatory capital for the purposes of the prudential standards). We understand that this date may also be referred to as the optional 'conversion', 'redemption', 'resale', 'transfer' or 'exchange' date.
+[5]
+This generally only occurs where the hybrid security is listed on the Australian Securities Exchange.
+[6]
+This is because at the specified call date all outstanding securities are either bought back or redeemed, which means the only factor relevant to determining the market price is the entitlement to receive the face value back.
+[7]
+This is because the ATO is unable to accept that the market value of a hybrid security before its specified call date is equal to its face value because all such securities on issue have not yet been bought back or redeemed (or otherwise terminated) in their entirety.
+[8]
+In this situation the ATO would accept the results of an independent valuation commissioned by the issuer or, where relevant, the nominated purchaser.
+[9]
+In this situation the ATO would accept the results of an independent valuation commissioned by the issuer or, where relevant, the nominated purchaser.
+Not previously issued as a draft.  However, see discussion paper Buy-back or redemption of certain hybrid securities for background information about the development of the practical compliance approach.
+ATO references:
+File  1-ICB5WPO
+ISSN: 2209-1297
+Business Line:
+PG
+Legislative References:
+ITAA 1997 104-10(1)
+ITAA 1997 104-10(4)
+ITAA 1997 104-25(1)
+ITAA 1997 104-25(3)
+ITAA 1997 116-20
+ITAA 1997 116-30
+ITAA 1997 116-30(2)
+ITAA 1997 116-30(2B)
+ITAA 1997 116-30(3A)
+ITAA 1997 Div 230
+ITAA 1997 Div 974
+ITAA 1936 159GZZZQ
+ITAA 1936 159GZZZQ(2)
+Other References:
+Buy-back or redemption of certain hybrid securities
+ASX Listing Rule 19.12
+PCG 2021/1 history
+Date:
+Version:
+Change:
+13 January 2021
+Original guideline
+You are here
+22 November 2023
+Updated guideline
+Back to top

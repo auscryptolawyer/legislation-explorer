@@ -68,6 +68,9 @@
       "accumulated VETSL debt": {
         "anchor": "s995-1-1-b"
       },
+      "ACNC type of entity": {
+        "anchor": "s995-1-1-b"
+      },
       "acquisition time": {
         "anchor": "s995-1-1-b"
       },
@@ -86,13 +89,13 @@
       "active build to rent part": {
         "anchor": "s995-1-1-b"
       },
-      "oreign business asset of a company that is a foreign resident": {
+      "resident": {
         "anchor": "s995-1-1-b"
       },
       "active foreign business asset percentage of a company": {
         "anchor": "s995-1-1-b"
       },
-      "registered emissions unit": {
+      "emissions unit": {
         "anchor": "s995-1-1-b"
       },
       "actuary": {
@@ -134,7 +137,7 @@
       "adjusted on-lent amount": {
         "anchor": "s995-1-1-b-ii"
       },
-      "adjusted withholding income": {
+      "withholding income": {
         "anchor": "s995-1-1-b-ii"
       },
       "adjusted taxable income": {
@@ -144,6 +147,9 @@
         "anchor": "s995-1-1-b-ii"
       },
       "alteration time for a company": {
+        "anchor": "s995-1-1-b-ii"
+      },
+      "adjusted withholding income": {
         "anchor": "s995-1-1-b-ii"
       },
       "adopted child of a person": {
@@ -212,6 +218,9 @@
       "amount": {
         "anchor": "s995-1-1-b"
       },
+      "payment": {
+        "anchor": "s995-1-1-b"
+      },
       "withholding payment": {
         "anchor": "s995-1-1-b"
       },
@@ -247,6 +256,9 @@
       },
       "annuity": {
         "anchor": "s995-1-1-c"
+      },
+      "annuity instrument": {
+        "anchor": "s995-1-1-b"
       },
       "apartment building": {
         "anchor": "s995-1-1-b"
@@ -344,6 +356,9 @@
       "assessable recoupment": {
         "anchor": "s995-1-1-c"
       },
+      "assessed build to rent development misuse tax": {
+        "anchor": "s995-1-1-c"
+      },
       "assessed Division 293 tax": {
         "anchor": "s995-1-1-c"
       },
@@ -377,10 +392,10 @@
       "asset for insurance acquisition cash flows": {
         "anchor": "s995-1-1-b"
       },
-      "d in the total assets of a company that is a foreign resident": {
+      "associate": {
         "anchor": "s995-1-1-b"
       },
-      "associate": {
+      "associated enterprises article": {
         "anchor": "s995-1-1-b"
       },
       "associated government entity": {
@@ -413,7 +428,7 @@
       "attributable taxpayer": {
         "anchor": "s995-1-1-b"
       },
-      "consolidated financial statements for an entity for a period": {
+      "period": {
         "anchor": "s995-1-1-b"
       },
       "auditing standard": {
@@ -482,6 +497,9 @@
       "Australian law": {
         "anchor": "s995-1-1-b"
       },
+      "Australian legislature": {
+        "anchor": "s995-1-1-b"
+      },
       "overseas fund": {
         "anchor": "s995-1-1-d"
       },
@@ -536,6 +554,9 @@
       "balancing adjustment event": {
         "anchor": "s995-1-1-d"
       },
+      "BAS amount": {
+        "anchor": "s995-1-1-d"
+      },
       "base assessment": {
         "anchor": "s995-1-1-d"
       },
@@ -584,9 +605,6 @@
       "borrowing": {
         "anchor": "s995-1-1-b-iii"
       },
-      "and": {
-        "anchor": "s995-1-1-b-iii"
-      },
       "branch hybrid": {
         "anchor": "s995-1-1-b-iii"
       },
@@ -630,6 +648,9 @@
         "anchor": "s995-1-1-b-iii"
       },
       "business kilometres": {
+        "anchor": "s995-1-1-b-iii"
+      },
+      "business meeting": {
         "anchor": "s995-1-1-b-iii"
       },
       "business profits article": {
@@ -734,7 +755,13 @@
       "superannuation income stream": {
         "anchor": "s995-1-1-c"
       },
+      "company": {
+        "anchor": "s995-1-1-c"
+      },
       "clean building": {
+        "anchor": "s995-1-1-c"
+      },
+      "clean building managed investment trust": {
         "anchor": "s995-1-1-c"
       },
       "Climate Change Minister": {
@@ -797,7 +824,7 @@
       "Commonwealth of Nations country": {
         "anchor": "s995-1-1-b"
       },
-      "ection 995-1 Commonwealth public sector superannuation scheme": {
+      "Commonwealth public sector superannuation scheme": {
         "anchor": "s995-1-1-c"
       },
       "community charity corporation": {
@@ -814,9 +841,6 @@
       },
       "community shed": {
         "anchor": "s995-1-1-c"
-      },
-      "company": {
-        "anchor": "s995-1-1-c-ii"
       },
       "comparison rate": {
         "anchor": "s995-1-1-b"
@@ -905,6 +929,9 @@
       "contributions segment": {
         "anchor": "s995-1-1-b"
       },
+      "contributions-splitting superannuation benefit": {
+        "anchor": "s995-1-1-b"
+      },
       "control a non-fixed trust": {
         "anchor": "s995-1-1-b"
       },
@@ -956,6 +983,9 @@
       "corporate tax entity": {
         "anchor": "s995-1-1-b-xii"
       },
+      "registered emissions unit": {
+        "anchor": "s995-1-1-c"
+      },
       "cost-free debt capital": {
         "anchor": "s995-1-1-c"
       },
@@ -996,6 +1026,9 @@
         "anchor": "s995-1-1-b-ii"
       },
       "Crown lease": {
+        "anchor": "s995-1-1-b-ii"
+      },
+      "CRS Commentary": {
         "anchor": "s995-1-1-b-ii"
       },
       "crystallised reduction amount": {
@@ -1064,6 +1097,9 @@
       "deducting hybrid": {
         "anchor": "s995-1-1-b-ii"
       },
+      "deducting hybrid mismatch": {
+        "anchor": "s995-1-1-b-ii"
+      },
       "deduction": {
         "anchor": "s995-1-1-b-ii"
       },
@@ -1127,6 +1163,9 @@
       "depository entity": {
         "anchor": "s995-1-1-c"
       },
+      "Deputy Commissioner": {
+        "anchor": "s995-1-1-c"
+      },
       "derivative financial arrangement": {
         "anchor": "s995-1-1-c"
       },
@@ -1154,7 +1193,7 @@
       "film": {
         "anchor": "s995-1-1-c"
       },
-      "is incurred in meeting the development costs for the film and": {
+      "film and": {
         "anchor": "s995-1-1-a"
       },
       "died in the line of duty": {
@@ -1235,6 +1274,9 @@
       "diverted profits tax": {
         "anchor": "s995-1-1-b"
       },
+      "dividend": {
+        "anchor": "s995-1-1-b"
+      },
       "dividend stake": {
         "anchor": "s995-1-1-b"
       },
@@ -1286,6 +1328,9 @@
       "effectively non-contingent obligation": {
         "anchor": "s995-1-1-b"
       },
+      "election to rely on financial reports": {
+        "anchor": "s995-1-1-b"
+      },
       "electronic payment": {
         "anchor": "s995-1-1-b"
       },
@@ -1304,7 +1349,7 @@
       "eligible community housing provider": {
         "anchor": "s995-1-1-b"
       },
-      "former exempting entity": {
+      "entity": {
         "anchor": "s995-1-1-b"
       },
       "eligible Division 166 company": {
@@ -1343,6 +1388,9 @@
       "end benefit": {
         "anchor": "s995-1-1-b-viii"
       },
+      "endowment policy": {
+        "anchor": "s995-1-1-b-viii"
+      },
       "end user of an asset": {
         "anchor": "s995-1-1-b-viii"
       },
@@ -1350,9 +1398,6 @@
         "anchor": "s995-1-1-b-viii"
       },
       "entertainment": {
-        "anchor": "s995-1-1-b-viii"
-      },
-      "entity": {
         "anchor": "s995-1-1-b-viii"
       },
       "entity EBITDA": {
@@ -1389,6 +1434,9 @@
         "anchor": "s995-1-1-b"
       },
       "excepted MIT CSA income": {
+        "anchor": "s995-1-1-b"
+      },
+      "excepted trust": {
         "anchor": "s995-1-1-b"
       },
       "excess concessional contributions": {
@@ -1503,6 +1551,9 @@
         "anchor": "s995-1-1-c"
       },
       "exempting surplus": {
+        "anchor": "s995-1-1-c"
+      },
+      "exempt life insurance policy": {
         "anchor": "s995-1-1-c"
       },
       "expected financial benefits": {
@@ -1640,6 +1691,9 @@
       "first home super saver tax": {
         "anchor": "s995-1-1-b"
       },
+      "first use time": {
+        "anchor": "s995-1-1-b"
+      },
       "Fiscal Year": {
         "anchor": "s995-1-1-b"
       },
@@ -1730,6 +1784,9 @@
       "foreign law": {
         "anchor": "s995-1-1-b"
       },
+      "foreign life insurance company": {
+        "anchor": "s995-1-1-b"
+      },
       "foreign pension fund": {
         "anchor": "s995-1-1-b"
       },
@@ -1776,6 +1833,9 @@
         "anchor": "s995-1-1-b"
       },
       "form approved by Industry Innovation and Science Australia": {
+        "anchor": "s995-1-1-b"
+      },
+      "former exempting entity": {
         "anchor": "s995-1-1-b"
       },
       "fourth element expenditure": {
@@ -1838,6 +1898,9 @@
       "friendly society": {
         "anchor": "s995-1-1-b"
       },
+      "friendly society dispensary": {
+        "anchor": "s995-1-1-d"
+      },
       "fringe benefit": {
         "anchor": "s995-1-1-b"
       },
@@ -1896,6 +1959,9 @@
         "anchor": "s995-1-1-b"
       },
       "quarter": {
+        "anchor": "s995-1-1-b"
+      },
+      "general class investor": {
         "anchor": "s995-1-1-b"
       },
       "general deduction": {
@@ -2042,7 +2108,7 @@
       "GST turnover": {
         "anchor": "s995-1-1-b-ii"
       },
-      "esidual value for an asset that is put to a tax preferred use": {
+      "use": {
         "anchor": "s995-1-1-b-ii"
       },
       "Guide": {
@@ -2121,6 +2187,9 @@
         "anchor": "s995-1-1-b"
       },
       "Immigration Department": {
+        "anchor": "s995-1-1-b"
+      },
+      "Immigration Secretary": {
         "anchor": "s995-1-1-b"
       },
       "import": {
@@ -2204,7 +2273,13 @@
       "index number": {
         "anchor": "s995-1-1-a"
       },
+      "number": {
+        "anchor": "s995-1-1-b"
+      },
       "Indigenous holding entity": {
+        "anchor": "s995-1-1-b"
+      },
+      "Indigenous land": {
         "anchor": "s995-1-1-b"
       },
       "Indigenous person": {
@@ -2239,6 +2314,9 @@
       },
       "indirect tax information": {
         "anchor": "s995-1-1-b"
+      },
+      "indirect tax law": {
+        "anchor": "s995-1-1-c"
       },
       "indirect tax or excise ruling": {
         "anchor": "s995-1-1-d"
@@ -2315,6 +2393,9 @@
       "interest in membership interests": {
         "anchor": "s995-1-1-c"
       },
+      "interest realignment adjustment": {
+        "anchor": "s995-1-1-c"
+      },
       "interest realignment arrangement": {
         "anchor": "s995-1-1-c"
       },
@@ -2337,6 +2418,9 @@
         "anchor": "s995-1-1-b"
       },
       "irrigation water provider": {
+        "anchor": "s995-1-1-b"
+      },
+      "IVS period": {
         "anchor": "s995-1-1-b"
       },
       "IVS time": {
@@ -2387,6 +2471,9 @@
       "leisure facility": {
         "anchor": "s995-1-1-b"
       },
+      "liability for incurred claims": {
+        "anchor": "s995-1-1-b"
+      },
       "liability for remaining coverage": {
         "anchor": "s995-1-1-b"
       },
@@ -2405,7 +2492,7 @@
       "life insurance business": {
         "anchor": "s995-1-1-b"
       },
-      "the expression life policy in the Life Insurance Act 1995 but": {
+      "policy in the Life Insurance Act 1995 but": {
         "anchor": "s995-1-1-b"
       },
       "life insurance premium": {
@@ -2472,6 +2559,9 @@
         "anchor": "s995-1-1-b"
       },
       "loss year": {
+        "anchor": "s995-1-1-b"
+      },
+      "low-cost asset": {
         "anchor": "s995-1-1-b"
       },
       "low rate cap amount": {
@@ -2582,6 +2672,9 @@
       "Minimum Tax Rules": {
         "anchor": "s995-1-1-e"
       },
+      "minimum training expenditure amount": {
+        "anchor": "s995-1-1-e"
+      },
       "mining and quarrying operations": {
         "anchor": "s995-1-1-e"
       },
@@ -2629,6 +2722,9 @@
       },
       "money equivalent": {
         "anchor": "s995-1-1-d-ii"
+      },
+      "moneylending debt": {
+        "anchor": "s995-1-1-b"
       },
       "monthly payer": {
         "anchor": "s995-1-1-b"
@@ -2720,6 +2816,9 @@
       "new investment threshold": {
         "anchor": "s995-1-1-b"
       },
+      "new residential premises": {
+        "anchor": "s995-1-1-b"
+      },
       "New Zealand-sourced amount": {
         "anchor": "s995-1-1-b"
       },
@@ -2755,6 +2854,9 @@
       },
       "non-entity joint venture": {
         "anchor": "s995-1-1-e"
+      },
+      "non-equity share": {
+        "anchor": "s995-1-1-b"
       },
       "non-fixed trust": {
         "anchor": "s995-1-1-b"
@@ -2882,6 +2984,9 @@
       "opening pool balance": {
         "anchor": "s995-1-1-d-v"
       },
+      "operating entity": {
+        "anchor": "s995-1-1-d-v"
+      },
       "oral ruling": {
         "anchor": "s995-1-1-d-v"
       },
@@ -2897,7 +3002,7 @@
       "ordinary investment policy": {
         "anchor": "s995-1-1-d-v"
       },
-      "inal excess non-concessional contributions tax assessment day": {
+      "day": {
         "anchor": "s995-1-1-d"
       },
       "original franking assessment day": {
@@ -2941,6 +3046,9 @@
       },
       "partnership": {
         "anchor": "s995-1-1-a"
+      },
+      "partnership loss": {
+        "anchor": "s995-1-1-b"
       },
       "s proportion": {
         "anchor": "s995-1-1-b"
@@ -2991,6 +3099,9 @@
         "anchor": "s995-1-1-b"
       },
       "performing artist": {
+        "anchor": "s995-1-1-b"
+      },
+      "periodic aggregate tax information": {
         "anchor": "s995-1-1-b"
       },
       "period of the loan": {
@@ -3102,6 +3213,9 @@
         "anchor": "s995-1-1-e"
       },
       "pre-CGT proportion": {
+        "anchor": "s995-1-1-e"
+      },
+      "precious metal": {
         "anchor": "s995-1-1-e"
       },
       "precluded asset": {
@@ -3218,6 +3332,9 @@
       "professional arts business": {
         "anchor": "s995-1-1-b"
       },
+      "professional year 1": {
+        "anchor": "s995-1-1-b"
+      },
       "professional year 2": {
         "anchor": "s995-1-1-b"
       },
@@ -3323,6 +3440,9 @@
       "qualifying forex account": {
         "anchor": "s995-1-1-b"
       },
+      "qualifying investor": {
+        "anchor": "s995-1-1-c-ii"
+      },
       "qualifying security": {
         "anchor": "s995-1-1-c-ii"
       },
@@ -3335,10 +3455,7 @@
       "quarterly payer": {
         "anchor": "s995-1-1-c-ii"
       },
-      "nstalments annually on the basis of GDP-adjusted notional tax": {
-        "anchor": "s995-1-1-c-ii"
-      },
-      "erly payer who pays on the basis of GDP-adjusted notional tax": {
+      "tax": {
         "anchor": "s995-1-1-c-ii"
       },
       "quarterly payer who pays on the basis of instalment income": {
@@ -3362,6 +3479,9 @@
       "realisation event": {
         "anchor": "s995-1-1-c-ii"
       },
+      "realisation-time method": {
+        "anchor": "s995-1-1-c-ii"
+      },
       "reasonably arguable": {
         "anchor": "s995-1-1-b"
       },
@@ -3377,10 +3497,7 @@
       "receives a refund of income tax": {
         "anchor": "s995-1-1-b"
       },
-      "of a company that is a foreign resident": {
-        "anchor": "s995-1-1-b"
-      },
-      "of 2 or more companies that are foreign residents": {
+      "companies that are foreign residents": {
         "anchor": "s995-1-1-b-ii"
       },
       "recognised new investment amount": {
@@ -3404,10 +3521,13 @@
       "reduce a franking assessment": {
         "anchor": "s995-1-1-b"
       },
-      "s net income for an income year": {
+      "year": {
         "anchor": "s995-1-1-b"
       },
       "reduced net asset amount": {
+        "anchor": "s995-1-1-b"
+      },
+      "income year": {
         "anchor": "s995-1-1-b"
       },
       "reduction amount": {
@@ -3429,6 +3549,9 @@
         "anchor": "s995-1-1-b"
       },
       "registered tax agent": {
+        "anchor": "s995-1-1-b"
+      },
+      "registration requirements of an AFOF": {
         "anchor": "s995-1-1-b"
       },
       "registration requirements of an ESVCLP": {
@@ -3503,7 +3626,7 @@
       "resident investment vehicle": {
         "anchor": "s995-1-1-d"
       },
-      "ts in the income or property of the trust resident unit trust": {
+      "resident unit trust": {
         "anchor": "s995-1-1-b"
       },
       "changeover time": {
@@ -3548,6 +3671,9 @@
       "reviewable fuel tax decision": {
         "anchor": "s995-1-1-b"
       },
+      "reviewable GST decision": {
+        "anchor": "s995-1-1-b"
+      },
       "reviewable GST transitional decision": {
         "anchor": "s995-1-1-b"
       },
@@ -3560,7 +3686,7 @@
       "right to use": {
         "anchor": "s995-1-1-b"
       },
-      "risk component of a claim paid under a life insurance policy": {
+      "policy": {
         "anchor": "s995-1-1-b"
       },
       "roll-over cost": {
@@ -3638,6 +3764,9 @@
       "segregated current pension assets": {
         "anchor": "s995-1-1-c"
       },
+      "segregated non-current assets": {
+        "anchor": "s995-1-1-c"
+      },
       "self-assessed clearance declaration advice": {
         "anchor": "s995-1-1-c"
       },
@@ -3674,7 +3803,7 @@
       "share capital account": {
         "anchor": "s995-1-1-e"
       },
-      "life insurance company for an income year": {
+      "company for an income year": {
         "anchor": "s995-1-1-e"
       },
       "shareholding interest": {
@@ -3917,6 +4046,9 @@
       "superannuation income stream benefit": {
         "anchor": "s995-1-1-e-ii"
       },
+      "income stream": {
+        "anchor": "s995-1-1-e-ii"
+      },
       "superannuation interest": {
         "anchor": "s995-1-1-d"
       },
@@ -3926,6 +4058,12 @@
       "superannuation member benefit": {
         "anchor": "s995-1-1-d"
       },
+      "superannuation plan": {
+        "anchor": "s995-1-1-d"
+      },
+      "supply": {
+        "anchor": "s995-1-1-c"
+      },
       "tainting amount": {
         "anchor": "s995-1-1-c"
       },
@@ -3933,9 +4071,6 @@
         "anchor": "s995-1-1-c"
       },
       "taskforce officer of a prescribed taskforce": {
-        "anchor": "s995-1-1-c"
-      },
-      "tax": {
         "anchor": "s995-1-1-c"
       },
       "taxable Australian property": {
@@ -4022,6 +4157,9 @@
       "tax-exempt bonus share": {
         "anchor": "s995-1-1-c"
       },
+      "tax-exempt foreign resident": {
+        "anchor": "s995-1-1-c"
+      },
       "tax exempt vendor": {
         "anchor": "s995-1-1-c"
       },
@@ -4047,6 +4185,9 @@
         "anchor": "s995-1-1-d"
       },
       "tax preferred end user": {
+        "anchor": "s995-1-1-d"
+      },
+      "tax preferred entity": {
         "anchor": "s995-1-1-d"
       },
       "tax profit on the disposal or death": {
@@ -4077,6 +4218,9 @@
         "anchor": "s995-1-1-c"
       },
       "terminating value": {
+        "anchor": "s995-1-1-c"
+      },
+      "termination amount": {
         "anchor": "s995-1-1-c"
       },
       "arrangement in relation to property ends and": {
@@ -4181,6 +4325,9 @@
       "transfer balance credit": {
         "anchor": "s995-1-1-f"
       },
+      "transfer balance debit": {
+        "anchor": "s995-1-1-f"
+      },
       "transferor trust": {
         "anchor": "s995-1-1-f"
       },
@@ -4256,6 +4403,9 @@
       "undeducted construction expenditure": {
         "anchor": "s995-1-1-b"
       },
+      "asset": {
+        "anchor": "s995-1-1-b"
+      },
       "unequal share structure": {
         "anchor": "s995-1-1-e"
       },
@@ -4287,6 +4437,9 @@
         "anchor": "s995-1-1-e"
       },
       "unused concessional contributions cap": {
+        "anchor": "s995-1-1-e"
+      },
+      "unused long service leave payment": {
         "anchor": "s995-1-1-e"
       },
       "unused tax profit on the disposal or death": {
@@ -4343,7 +4496,7 @@
       "venture capital surplus": {
         "anchor": "s995-1-1-d"
       },
-      "on 995-1 very large superannuation balance earnings component": {
+      "very large superannuation balance earnings component": {
         "anchor": "s995-1-1-d"
       },
       "very large superannuation balance threshold": {
@@ -4403,13 +4556,16 @@
       "wine tax law": {
         "anchor": "s995-1-1-b-iv"
       },
+      "WIP amount asset": {
+        "anchor": "s995-1-1-b-iv"
+      },
       "withholder": {
         "anchor": "s995-1-1-b-iv"
       },
       "withholding MIT": {
         "anchor": "s995-1-1-b-iv"
       },
-      "ovision in Schedule 1 to the Taxation Administration Act 1953": {
+      "Schedule 1 to the Taxation Administration Act 1953": {
         "anchor": "s995-1-1-c"
       },
       "withholding tax": {
@@ -4425,6 +4581,9 @@
         "anchor": "s995-1-1-e"
       },
       "working holiday maker": {
+        "anchor": "s995-1-1-e"
+      },
+      "working holiday taxable income": {
         "anchor": "s995-1-1-e"
       },
       "work in progress amount": {
@@ -5055,6 +5214,998 @@
       },
       "t to an accounting period adopted in lieu of a year of income": {
         "anchor": "s6-2AA"
+      }
+    }
+  },
+  "gst-1999": {
+    "section": "195-1",
+    "terms": {
+      "90% owned group": {
+        "anchor": "s195-1-90-owned-group"
+      },
+      "100% subsidiary": {
+        "anchor": "s195-1-100-subsidiary"
+      },
+      "ABN": {
+        "anchor": "s195-1-abn"
+      },
+      "account on a cash basis": {
+        "anchor": "s195-1-account-on-a-cash-basis"
+      },
+      "account on the same basis": {
+        "anchor": "s195-1-account-on-the-same-basis"
+      },
+      "ACNC-registered charity": {
+        "anchor": "s195-1-acnc-registered-charity"
+      },
+      "ACNC-registered religious institution": {
+        "anchor": "s195-1-acnc-registered-religious-institution"
+      },
+      "acquisition": {
+        "anchor": "s195-1-acquisition"
+      },
+      "actual application of a thing": {
+        "anchor": "s195-1-actual-application-of-a-thing"
+      },
+      "additional consideration": {
+        "anchor": "s195-1-additional-consideration"
+      },
+      "adjustment": {
+        "anchor": "s195-1-adjustment"
+      },
+      "adjustment event": {
+        "anchor": "s195-1-adjustment-event"
+      },
+      "adjustment note": {
+        "anchor": "s195-1-adjustment-note"
+      },
+      "adjustment period": {
+        "anchor": "s195-1-adjustment-period"
+      },
+      "adult and community education course": {
+        "anchor": "s195-1-adult-and-community-education-course"
+      },
+      "Aged Care Minister": {
+        "anchor": "s195-1-aged-care-minister"
+      },
+      "aged care service list": {
+        "anchor": "s195-1-aged-care-service-list"
+      },
+      "Aged Care System Governor": {
+        "anchor": "s195-1-aged-care-system-governor"
+      },
+      "aircraft’s stores": {
+        "anchor": "s195-1-aircrafts-stores"
+      },
+      "airport shop goods": {
+        "anchor": "s195-1-airport-shop-goods"
+      },
+      "amalgamated company, in relation to an *amalgamation,": {
+        "anchor": "s195-1-amalgamated-company-in-relation-to-an-amalgamation"
+      },
+      "amalgamating company, in relation to an *amalgamation,": {
+        "anchor": "s195-1-amalgamating-company-in-relation-to-an-amalgamation"
+      },
+      "amalgamation": {
+        "anchor": "s195-1-amalgamation"
+      },
+      "amount": {
+        "anchor": "s195-1-amount"
+      },
+      "annual tax period": {
+        "anchor": "s195-1-annual-tax-period"
+      },
+      "approved form": {
+        "anchor": "s195-1-approved-form"
+      },
+      "approved pathology practitioner": {
+        "anchor": "s195-1-approved-pathology-practitioner"
+      },
+      "approved residential care home": {
+        "anchor": "s195-1-approved-residential-care-home"
+      },
+      "approved valuation": {
+        "anchor": "s195-1-approved-valuation"
+      },
+      "assessable income": {
+        "anchor": "s195-1-assessable-income"
+      },
+      "assessable professional income": {
+        "anchor": "s195-1-assessable-professional-income"
+      },
+      "assessed net amount, for a *tax period,": {
+        "anchor": "s195-1-assessed-net-amount-for-a-tax-period"
+      },
+      "assessment": {
+        "anchor": "s195-1-assessment"
+      },
+      "associate": {
+        "anchor": "s195-1-associate"
+      },
+      "at least a 90% stake in a *company": {
+        "anchor": "s195-1-at-least-a-90-stake-in-a-company"
+      },
+      "Australian-based business recipient": {
+        "anchor": "s195-1-australian-based-business-recipient"
+      },
+      "Australian Business Register": {
+        "anchor": "s195-1-australian-business-register"
+      },
+      "Australian Business Registrar": {
+        "anchor": "s195-1-australian-business-registrar"
+      },
+      "Australian consumer": {
+        "anchor": "s195-1-australian-consumer"
+      },
+      "Australian fee or charge": {
+        "anchor": "s195-1-australian-fee-or-charge"
+      },
+      "Australian government agency": {
+        "anchor": "s195-1-australian-government-agency"
+      },
+      "Australian law": {
+        "anchor": "s195-1-australian-law"
+      },
+      "Australian resident": {
+        "anchor": "s195-1-australian-resident"
+      },
+      "Australian tax": {
+        "anchor": "s195-1-australian-tax"
+      },
+      "average income": {
+        "anchor": "s195-1-average-income"
+      },
+      "average input tax credit fraction": {
+        "anchor": "s195-1-average-input-tax-credit-fraction"
+      },
+      "base year": {
+        "anchor": "s195-1-base-year"
+      },
+      "batch repair process": {
+        "anchor": "s195-1-batch-repair-process"
+      },
+      "beverage": {
+        "anchor": "s195-1-beverage"
+      },
+      "borrowing": {
+        "anchor": "s195-1-borrowing"
+      },
+      "business": {
+        "anchor": "s195-1-business"
+      },
+      "business day": {
+        "anchor": "s195-1-business-day"
+      },
+      "car": {
+        "anchor": "s195-1-car"
+      },
+      "car limit": {
+        "anchor": "s195-1-car-limit"
+      },
+      "car parts, in relation to *cars, includes: (a) bodies for those cars (including insulated bodies, tank-bodies, and other bodies designed for the transport or delivery of goods or other property of particular kinds); and (b) underbody hoists, and other equipment or apparatus of a kind ordinarily fitted to cars for use in connection with the transport or delivery of goods or other property by those road vehicles. carried on in the indirect tax zone, in relation to an *enterprise,": {
+        "anchor": "s195-1-car-parts-in-relation-to-cars-includes-a-bodies-for-those-cars-including-insulated-bodies-tank-bodies-and-other-bodies-designed-for-the-transport-or-delivery-of-goods-or-other-property-of-particular-kinds-and-b-underbody-hoists-and-other-equipment-or-apparatus-of-a-kind-ordinarily-fitted-to-cars-for-use-in-connection-with-the-transport-or-delivery-of-goods-or-other-property-by-those-road-vehicles-carried-on-in-the-indirect-tax-zone-in-relation-to-an-enterprise"
+      },
+      "carrying on an *enterprise": {
+        "anchor": "s195-1-carrying-on-an-enterprise"
+      },
+      "cash accounting turnover threshold": {
+        "anchor": "s195-1-cash-accounting-turnover-threshold"
+      },
+      "Child Care Minister": {
+        "anchor": "s195-1-child-care-minister"
+      },
+      "commercial accommodation": {
+        "anchor": "s195-1-commercial-accommodation"
+      },
+      "commercial residential premises": {
+        "anchor": "s195-1-commercial-residential-premises"
+      },
+      "Commissioner": {
+        "anchor": "s195-1-commissioner"
+      },
+      "company": {
+        "anchor": "s195-1-company"
+      },
+      "complying superannuation fund": {
+        "anchor": "s195-1-complying-superannuation-fund"
+      },
+      "Comptroller-General of Customs has the same meaning as in the Customs Act 1901. compulsory third party scheme is a scheme or arrangement: (a) that is established by an *Australian law; and (b) that is specified in the regulations, or that is of a kind specified in the regulations, made for the purposes of this definition. connected with the indirect tax zone, in relation to a supply,": {
+        "anchor": "s195-1-comptroller-general-of-customs-has-the-same-meaning-as-in-the-customs-act-1901-compulsory-third-party-scheme-is-a-scheme-or-arrangement-a-that-is-established-by-an-australian-law-and-b-that-is-specified-in-the-regulations-or-that-is-of-a-kind-specified-in-the-regulations-made-for-the-purposes-of-this-definition-connected-with-the-indirect-tax-zone-in-relation-to-a-supply"
+      },
+      "consideration, for a supply or acquisition,": {
+        "anchor": "s195-1-consideration-for-a-supply-or-acquisition"
+      },
+      "consolidated group": {
+        "anchor": "s195-1-consolidated-group"
+      },
+      "consumer": {
+        "anchor": "s195-1-consumer"
+      },
+      "contributing operator": {
+        "anchor": "s195-1-contributing-operator"
+      },
+      "contributing operator’s payment": {
+        "anchor": "s195-1-contributing-operators-payment"
+      },
+      "contribution amount": {
+        "anchor": "s195-1-contribution-amount"
+      },
+      "corrected GST amount": {
+        "anchor": "s195-1-corrected-gst-amount"
+      },
+      "corrected input tax credit amount": {
+        "anchor": "s195-1-corrected-input-tax-credit-amount"
+      },
+      "course materials, in relation to an *education course,": {
+        "anchor": "s195-1-course-materials-in-relation-to-an-education-course"
+      },
+      "creditable acquisition": {
+        "anchor": "s195-1-creditable-acquisition"
+      },
+      "creditable importation": {
+        "anchor": "s195-1-creditable-importation"
+      },
+      "CTP ancillary payment or supply": {
+        "anchor": "s195-1-ctp-ancillary-payment-or-supply"
+      },
+      "CTP compensation payment or supply": {
+        "anchor": "s195-1-ctp-compensation-payment-or-supply"
+      },
+      "CTP dual premium or election payment or supply": {
+        "anchor": "s195-1-ctp-dual-premium-or-election-payment-or-supply"
+      },
+      "CTP hybrid payment or supply": {
+        "anchor": "s195-1-ctp-hybrid-payment-or-supply"
+      },
+      "current GST lodgment record": {
+        "anchor": "s195-1-current-gst-lodgment-record"
+      },
+      "current GST turnover": {
+        "anchor": "s195-1-current-gst-turnover"
+      },
+      "customs clearance area": {
+        "anchor": "s195-1-customs-clearance-area"
+      },
+      "customs duty": {
+        "anchor": "s195-1-customs-duty"
+      },
+      "customs value, in relation to goods,": {
+        "anchor": "s195-1-customs-value-in-relation-to-goods"
+      },
+      "dealer in precious metal": {
+        "anchor": "s195-1-dealer-in-precious-metal"
+      },
+      "decreasing adjustment": {
+        "anchor": "s195-1-decreasing-adjustment"
+      },
+      "dental practitioner": {
+        "anchor": "s195-1-dental-practitioner"
+      },
+      "deposit account": {
+        "anchor": "s195-1-deposit-account"
+      },
+      "digital currency": {
+        "anchor": "s195-1-digital-currency"
+      },
+      "Disability Services Minister": {
+        "anchor": "s195-1-disability-services-minister"
+      },
+      "dividend": {
+        "anchor": "s195-1-dividend"
+      },
+      "early net amount": {
+        "anchor": "s195-1-early-net-amount"
+      },
+      "education course": {
+        "anchor": "s195-1-education-course"
+      },
+      "education institution": {
+        "anchor": "s195-1-education-institution"
+      },
+      "electronic communication": {
+        "anchor": "s195-1-electronic-communication"
+      },
+      "electronic distribution platform": {
+        "anchor": "s195-1-electronic-distribution-platform"
+      },
+      "electronic lodgment turnover threshold": {
+        "anchor": "s195-1-electronic-lodgment-turnover-threshold"
+      },
+      "electronic payment": {
+        "anchor": "s195-1-electronic-payment"
+      },
+      "eligible Australian carbon credit unit": {
+        "anchor": "s195-1-eligible-australian-carbon-credit-unit"
+      },
+      "eligible emissions unit": {
+        "anchor": "s195-1-eligible-emissions-unit"
+      },
+      "eligible international emissions unit": {
+        "anchor": "s195-1-eligible-international-emissions-unit"
+      },
+      "employee share scheme": {
+        "anchor": "s195-1-employee-share-scheme"
+      },
+      "endorsed charity": {
+        "anchor": "s195-1-endorsed-charity"
+      },
+      "English language course for overseas students": {
+        "anchor": "s195-1-english-language-course-for-overseas-students"
+      },
+      "enterprise": {
+        "anchor": "s195-1-enterprise"
+      },
+      "entertainment": {
+        "anchor": "s195-1-entertainment"
+      },
+      "entity": {
+        "anchor": "s195-1-entity"
+      },
+      "essential prerequisite": {
+        "anchor": "s195-1-essential-prerequisite"
+      },
+      "estimated annual GST amount": {
+        "anchor": "s195-1-estimated-annual-gst-amount"
+      },
+      "excisable goods": {
+        "anchor": "s195-1-excisable-goods"
+      },
+      "excise duty": {
+        "anchor": "s195-1-excise-duty"
+      },
+      "exempt entity": {
+        "anchor": "s195-1-exempt-entity"
+      },
+      "expense payment benefit": {
+        "anchor": "s195-1-expense-payment-benefit"
+      },
+      "family member": {
+        "anchor": "s195-1-family-member"
+      },
+      "farming business": {
+        "anchor": "s195-1-farming-business"
+      },
+      "FBT year": {
+        "anchor": "s195-1-fbt-year"
+      },
+      "Finance Minister": {
+        "anchor": "s195-1-finance-minister"
+      },
+      "financial acquisition": {
+        "anchor": "s195-1-financial-acquisition"
+      },
+      "financial supply": {
+        "anchor": "s195-1-financial-supply"
+      },
+      "financial year": {
+        "anchor": "s195-1-financial-year"
+      },
+      "first aid or life saving course": {
+        "anchor": "s195-1-first-aid-or-life-saving-course"
+      },
+      "floating home": {
+        "anchor": "s195-1-floating-home"
+      },
+      "the platform, but does not include any structure that has": {
+        "anchor": "s195-1-the-platform-but-does-not-include-any-structure-that-has"
+      },
+      "food": {
+        "anchor": "s195-1-food"
+      },
+      "foreign law": {
+        "anchor": "s195-1-foreign-law"
+      },
+      "Foreign Minister": {
+        "anchor": "s195-1-foreign-minister"
+      },
+      "formation, in relation to a *GST joint venture,": {
+        "anchor": "s195-1-formation-in-relation-to-a-gst-joint-venture"
+      },
+      "freight container": {
+        "anchor": "s195-1-freight-container"
+      },
+      "fringe benefit": {
+        "anchor": "s195-1-fringe-benefit"
+      },
+      "*ITAA 1997 but": {
+        "anchor": "s195-1-itaa-1997-but"
+      },
+      "fringe benefits tax": {
+        "anchor": "s195-1-fringe-benefits-tax"
+      },
+      "fund-raising event": {
+        "anchor": "s195-1-fund-raising-event"
+      },
+      "futures exchange": {
+        "anchor": "s195-1-futures-exchange"
+      },
+      "gambling event": {
+        "anchor": "s195-1-gambling-event"
+      },
+      "gambling supply": {
+        "anchor": "s195-1-gambling-supply"
+      },
+      "general interest charge": {
+        "anchor": "s195-1-general-interest-charge"
+      },
+      "gift-deductible entity": {
+        "anchor": "s195-1-gift-deductible-entity"
+      },
+      "gift-deductible purpose, of an entity,": {
+        "anchor": "s195-1-gift-deductible-purpose-of-an-entity"
+      },
+      "global GST amount": {
+        "anchor": "s195-1-global-gst-amount"
+      },
+      "goods": {
+        "anchor": "s195-1-goods"
+      },
+      "government entity": {
+        "anchor": "s195-1-government-entity"
+      },
+      "government school": {
+        "anchor": "s195-1-government-school"
+      },
+      "*MEC group": {
+        "anchor": "s195-1-mec-group"
+      },
+      "GST": {
+        "anchor": "s195-1-gst"
+      },
+      "GST benefit": {
+        "anchor": "s195-1-gst-benefit"
+      },
+      "GST branch": {
+        "anchor": "s195-1-gst-branch"
+      },
+      "GST branch registration number, of a branch,": {
+        "anchor": "s195-1-gst-branch-registration-number-of-a-branch"
+      },
+      "GST disadvantage": {
+        "anchor": "s195-1-gst-disadvantage"
+      },
+      "GST-free": {
+        "anchor": "s195-1-gst-free"
+      },
+      "GST group": {
+        "anchor": "s195-1-gst-group"
+      },
+      "GST instalment": {
+        "anchor": "s195-1-gst-instalment"
+      },
+      "GST instalment payer": {
+        "anchor": "s195-1-gst-instalment-payer"
+      },
+      "GST instalment quarter": {
+        "anchor": "s195-1-gst-instalment-quarter"
+      },
+      "GST joint venture": {
+        "anchor": "s195-1-gst-joint-venture"
+      },
+      "GST law": {
+        "anchor": "s195-1-gst-law"
+      },
+      "GST religious group": {
+        "anchor": "s195-1-gst-religious-group"
+      },
+      "GST return": {
+        "anchor": "s195-1-gst-return"
+      },
+      "Health Minister": {
+        "anchor": "s195-1-health-minister"
+      },
+      "higher education institution": {
+        "anchor": "s195-1-higher-education-institution"
+      },
+      "HIH company": {
+        "anchor": "s195-1-hih-company"
+      },
+      "HIH rescue entity": {
+        "anchor": "s195-1-hih-rescue-entity"
+      },
+      "hire purchase agreement": {
+        "anchor": "s195-1-hire-purchase-agreement"
+      },
+      "hospital treatment": {
+        "anchor": "s195-1-hospital-treatment"
+      },
+      "hybrid settlement sharing arrangement": {
+        "anchor": "s195-1-hybrid-settlement-sharing-arrangement"
+      },
+      "import": {
+        "anchor": "s195-1-import"
+      },
+      "inbound intangible consumer supply": {
+        "anchor": "s195-1-inbound-intangible-consumer-supply"
+      },
+      "incapacitated entity": {
+        "anchor": "s195-1-incapacitated-entity"
+      },
+      "incidental valuable metal goods": {
+        "anchor": "s195-1-incidental-valuable-metal-goods"
+      },
+      "income year": {
+        "anchor": "s195-1-income-year"
+      },
+      "increasing adjustment": {
+        "anchor": "s195-1-increasing-adjustment"
+      },
+      "indirect tax zone": {
+        "anchor": "s195-1-indirect-tax-zone"
+      },
+      "individual": {
+        "anchor": "s195-1-individual"
+      },
+      "industrial instrument": {
+        "anchor": "s195-1-industrial-instrument"
+      },
+      "ineligible for the margin scheme": {
+        "anchor": "s195-1-ineligible-for-the-margin-scheme"
+      },
+      "inherit": {
+        "anchor": "s195-1-inherit"
+      },
+      "input tax credit": {
+        "anchor": "s195-1-input-tax-credit"
+      },
+      "input taxed": {
+        "anchor": "s195-1-input-taxed"
+      },
+      "instalment tax period": {
+        "anchor": "s195-1-instalment-tax-period"
+      },
+      "instalment turnover threshold": {
+        "anchor": "s195-1-instalment-turnover-threshold"
+      },
+      "insurance broker": {
+        "anchor": "s195-1-insurance-broker"
+      },
+      "insurance policy means a policy of insurance (or of reinsurance) against loss, damage, injury or risk of any kind, whether under a contract or a law. However, it does not include such a policy to the extent that it does not relate to insurance (or reinsurance) against loss, damage, injury or risk of any kind. insurance policy settlement sharing arrangement": {
+        "anchor": "s195-1-insurance-policy-means-a-policy-of-insurance-or-of-reinsurance-against-loss-damage-injury-or-risk-of-any-kind-whether-under-a-contract-or-a-law-however-it-does-not-include-such-a-policy-to-the-extent-that-it-does-not-relate-to-insurance-or-reinsurance-against-loss-damage-injury-or-risk-of-any-kind-insurance-policy-settlement-sharing-arrangement"
+      },
+      "international transport": {
+        "anchor": "s195-1-international-transport"
+      },
+      "invoice": {
+        "anchor": "s195-1-invoice"
+      },
+      "inwards duty free shop": {
+        "anchor": "s195-1-inwards-duty-free-shop"
+      },
+      "ITAA 1936": {
+        "anchor": "s195-1-itaa-1936"
+      },
+      "ITAA 1997": {
+        "anchor": "s195-1-itaa-1997"
+      },
+      "legal practitioner": {
+        "anchor": "s195-1-legal-practitioner"
+      },
+      "life insurance policy": {
+        "anchor": "s195-1-life-insurance-policy"
+      },
+      "limited registration entity": {
+        "anchor": "s195-1-limited-registration-entity"
+      },
+      "liquidator": {
+        "anchor": "s195-1-liquidator"
+      },
+      "local entry": {
+        "anchor": "s195-1-local-entry"
+      },
+      "lodged electronically": {
+        "anchor": "s195-1-lodged-electronically"
+      },
+      "long-term accommodation": {
+        "anchor": "s195-1-long-term-accommodation"
+      },
+      "long-term lease": {
+        "anchor": "s195-1-long-term-lease"
+      },
+      "luxury car": {
+        "anchor": "s195-1-luxury-car"
+      },
+      "luxury car tax": {
+        "anchor": "s195-1-luxury-car-tax"
+      },
+      "managing operator": {
+        "anchor": "s195-1-managing-operator"
+      },
+      "managing operator’s payment or supply": {
+        "anchor": "s195-1-managing-operators-payment-or-supply"
+      },
+      "margin scheme": {
+        "anchor": "s195-1-margin-scheme"
+      },
+      "MEC group": {
+        "anchor": "s195-1-mec-group"
+      },
+      "medical practitioner": {
+        "anchor": "s195-1-medical-practitioner"
+      },
+      "medical service": {
+        "anchor": "s195-1-medical-service"
+      },
+      "mineral deposit": {
+        "anchor": "s195-1-mineral-deposit"
+      },
+      "minerals": {
+        "anchor": "s195-1-minerals"
+      },
+      "monetary prize": {
+        "anchor": "s195-1-monetary-prize"
+      },
+      "money": {
+        "anchor": "s195-1-money"
+      },
+      "net amount, for a tax period,": {
+        "anchor": "s195-1-net-amount-for-a-tax-period"
+      },
+      "net capital loss": {
+        "anchor": "s195-1-net-capital-loss"
+      },
+      "net GST": {
+        "anchor": "s195-1-net-gst"
+      },
+      "net refund position": {
+        "anchor": "s195-1-net-refund-position"
+      },
+      "new recreational boat": {
+        "anchor": "s195-1-new-recreational-boat"
+      },
+      "new residential premises": {
+        "anchor": "s195-1-new-residential-premises"
+      },
+      "non-cash benefit": {
+        "anchor": "s195-1-non-cash-benefit"
+      },
+      "non-creditable insurance event": {
+        "anchor": "s195-1-non-creditable-insurance-event"
+      },
+      "non-deductible expense": {
+        "anchor": "s195-1-non-deductible-expense"
+      },
+      "non-entity joint venture": {
+        "anchor": "s195-1-non-entity-joint-venture"
+      },
+      "non-government higher education institution": {
+        "anchor": "s195-1-non-government-higher-education-institution"
+      },
+      "non-profit association": {
+        "anchor": "s195-1-non-profit-association"
+      },
+      "Non-profit sub-entity": {
+        "anchor": "s195-1-non-profit-sub-entity"
+      },
+      "non-resident": {
+        "anchor": "s195-1-non-resident"
+      },
+      "non-taxable importation": {
+        "anchor": "s195-1-non-taxable-importation"
+      },
+      "notified instalment amount": {
+        "anchor": "s195-1-notified-instalment-amount"
+      },
+      "officer": {
+        "anchor": "s195-1-officer"
+      },
+      "offshore supply of low value goods": {
+        "anchor": "s195-1-offshore-supply-of-low-value-goods"
+      },
+      "operator of a *compulsory third party scheme": {
+        "anchor": "s195-1-operator-of-a-compulsory-third-party-scheme"
+      },
+      "outwards duty free shop": {
+        "anchor": "s195-1-outwards-duty-free-shop"
+      },
+      "overdue: a debt is overdue if there has been a failure to discharge the debt, and that failure is a breach of the debtor’s obligations in relation to the debt. participant, in relation to a *GST joint venture,": {
+        "anchor": "s195-1-overdue-a-debt-is-overdue-if-there-has-been-a-failure-to-discharge-the-debt-and-that-failure-is-a-breach-of-the-debtors-obligations-in-relation-to-the-debt-participant-in-relation-to-a-gst-joint-venture"
+      },
+      "partnership": {
+        "anchor": "s195-1-partnership"
+      },
+      "period of review, for an *assessment,": {
+        "anchor": "s195-1-period-of-review-for-an-assessment"
+      },
+      "person": {
+        "anchor": "s195-1-person"
+      },
+      "place of consignment of goods": {
+        "anchor": "s195-1-place-of-consignment-of-goods"
+      },
+      "place of export of goods": {
+        "anchor": "s195-1-place-of-export-of-goods"
+      },
+      "potential residential land": {
+        "anchor": "s195-1-potential-residential-land"
+      },
+      "precious metal means: (a) gold (in an investment form) of at least 99.5% fineness; or 204                        A New Tax System (Goods and Services Tax) Act 1999 Dictionary Part 6-3 Dictionary Division 195 (b) silver (in an investment form) of at least 99.9% fineness; or (c) platinum (in an investment form) of at least 99% fineness; or (d) any other substance (in an investment form) specified in the regulations of a particular fineness specified in the regulations. predominantly for long-term accommodation": {
+        "anchor": "s195-1-precious-metal-means-a-gold-in-an-investment-form-of-at-least-995-fineness-or-204------------------------a-new-tax-system-goods-and-services-tax-act-1999-dictionary-part-6-3-dictionary-division-195-b-silver-in-an-investment-form-of-at-least-999-fineness-or-c-platinum-in-an-investment-form-of-at-least-99-fineness-or-d-any-other-substance-in-an-investment-form-specified-in-the-regulations-of-a-particular-fineness-specified-in-the-regulations-predominantly-for-long-term-accommodation"
+      },
+      "pre-establishment acquisition": {
+        "anchor": "s195-1-pre-establishment-acquisition"
+      },
+      "pre-establishment importation": {
+        "anchor": "s195-1-pre-establishment-importation"
+      },
+      "premium selection test is satisfied": {
+        "anchor": "s195-1-premium-selection-test-is-satisfied"
+      },
+      "prepaid phone card or facility": {
+        "anchor": "s195-1-prepaid-phone-card-or-facility"
+      },
+      "pre-school course": {
+        "anchor": "s195-1-pre-school-course"
+      },
+      "previously attributed GST amount": {
+        "anchor": "s195-1-previously-attributed-gst-amount"
+      },
+      "price, in relation to a supply,": {
+        "anchor": "s195-1-price-in-relation-to-a-supply"
+      },
+      "primary course": {
+        "anchor": "s195-1-primary-course"
+      },
+      "primary production business": {
+        "anchor": "s195-1-primary-production-business"
+      },
+      "private health insurance": {
+        "anchor": "s195-1-private-health-insurance"
+      },
+      "professional or trade course": {
+        "anchor": "s195-1-professional-or-trade-course"
+      },
+      "professional service": {
+        "anchor": "s195-1-professional-service"
+      },
+      "projected GST turnover": {
+        "anchor": "s195-1-projected-gst-turnover"
+      },
+      "property subdivision plan": {
+        "anchor": "s195-1-property-subdivision-plan"
+      },
+      "quarterly tax period": {
+        "anchor": "s195-1-quarterly-tax-period"
+      },
+      "real property": {
+        "anchor": "s195-1-real-property"
+      },
+      "recipient, in relation to a supply,": {
+        "anchor": "s195-1-recipient-in-relation-to-a-supply"
+      },
+      "recipient created tax invoice": {
+        "anchor": "s195-1-recipient-created-tax-invoice"
+      },
+      "recipients contribution": {
+        "anchor": "s195-1-recipients-contribution"
+      },
+      "recipient’s payment": {
+        "anchor": "s195-1-recipients-payment"
+      },
+      "recognised professional": {
+        "anchor": "s195-1-recognised-professional"
+      },
+      "recognised tax adviser": {
+        "anchor": "s195-1-recognised-tax-adviser"
+      },
+      "reduced credit acquisition": {
+        "anchor": "s195-1-reduced-credit-acquisition"
+      },
+      "refiner of precious metal": {
+        "anchor": "s195-1-refiner-of-precious-metal"
+      },
+      "registered": {
+        "anchor": "s195-1-registered"
+      },
+      "registration turnover threshold": {
+        "anchor": "s195-1-registration-turnover-threshold"
+      },
+      "relates to business finance": {
+        "anchor": "s195-1-relates-to-business-finance"
+      },
+      "religious practitioner": {
+        "anchor": "s195-1-religious-practitioner"
+      },
+      "representative": {
+        "anchor": "s195-1-representative"
+      },
+      "required to be registered": {
+        "anchor": "s195-1-required-to-be-registered"
+      },
+      "resident agent": {
+        "anchor": "s195-1-resident-agent"
+      },
+      "residential premises": {
+        "anchor": "s195-1-residential-premises"
+      },
+      "retailer": {
+        "anchor": "s195-1-retailer"
+      },
+      "retirement village": {
+        "anchor": "s195-1-retirement-village"
+      },
+      "reviewable GST decision": {
+        "anchor": "s195-1-reviewable-gst-decision"
+      },
+      "scheme": {
+        "anchor": "s195-1-scheme"
+      },
+      "school": {
+        "anchor": "s195-1-school"
+      },
+      "secondary course": {
+        "anchor": "s195-1-secondary-course"
+      },
+      "serviced apartment": {
+        "anchor": "s195-1-serviced-apartment"
+      },
+      "settlement amount": {
+        "anchor": "s195-1-settlement-amount"
+      },
+      "share in a *company": {
+        "anchor": "s195-1-share-in-a-company"
+      },
+      "ship": {
+        "anchor": "s195-1-ship"
+      },
+      "ship’s stores": {
+        "anchor": "s195-1-ships-stores"
+      },
+      "simplified accounting method": {
+        "anchor": "s195-1-simplified-accounting-method"
+      },
+      "small business entity": {
+        "anchor": "s195-1-small-business-entity"
+      },
+      "small enterprise entity": {
+        "anchor": "s195-1-small-enterprise-entity"
+      },
+      "small enterprise turnover threshold": {
+        "anchor": "s195-1-small-enterprise-turnover-threshold"
+      },
+      "special education course": {
+        "anchor": "s195-1-special-education-course"
+      },
+      "special professional": {
+        "anchor": "s195-1-special-professional"
+      },
+      "State law": {
+        "anchor": "s195-1-state-law"
+      },
+      "statutory compensation scheme": {
+        "anchor": "s195-1-statutory-compensation-scheme"
+      },
+      "stratum unit": {
+        "anchor": "s195-1-stratum-unit"
+      },
+      "student accommodation": {
+        "anchor": "s195-1-student-accommodation"
+      },
+      "Student Assistance Minister": {
+        "anchor": "s195-1-student-assistance-minister"
+      },
+      "individual,": {
+        "anchor": "s195-1-individual"
+      },
+      "superannuation fund": {
+        "anchor": "s195-1-superannuation-fund"
+      },
+      "supply": {
+        "anchor": "s195-1-supply"
+      },
+      "supply of a going concern": {
+        "anchor": "s195-1-supply-of-a-going-concern"
+      },
+      "supply of low value goods": {
+        "anchor": "s195-1-supply-of-low-value-goods"
+      },
+      "taxable at less than 1/11 of the price": {
+        "anchor": "s195-1-taxable-at-less-than-111-of-the-price"
+      },
+      "taxable dealing, in relation to *wine,": {
+        "anchor": "s195-1-taxable-dealing-in-relation-to-wine"
+      },
+      "taxable importation": {
+        "anchor": "s195-1-taxable-importation"
+      },
+      "taxable importation of a luxury car": {
+        "anchor": "s195-1-taxable-importation-of-a-luxury-car"
+      },
+      "taxable supply": {
+        "anchor": "s195-1-taxable-supply"
+      },
+      "taxation law": {
+        "anchor": "s195-1-taxation-law"
+      },
+      "tax invoice": {
+        "anchor": "s195-1-tax-invoice"
+      },
+      "48-57(1), and": {
+        "anchor": "s195-1-48-571-and"
+      },
+      "taxi travel": {
+        "anchor": "s195-1-taxi-travel"
+      },
+      "tax loss": {
+        "anchor": "s195-1-tax-loss"
+      },
+      "tax period": {
+        "anchor": "s195-1-tax-period"
+      },
+      "tax period turnover threshold": {
+        "anchor": "s195-1-tax-period-turnover-threshold"
+      },
+      "tax-related liability": {
+        "anchor": "s195-1-tax-related-liability"
+      },
+      "telecommunication supply": {
+        "anchor": "s195-1-telecommunication-supply"
+      },
+      "Territory law": {
+        "anchor": "s195-1-territory-law"
+      },
+      "tertiary course": {
+        "anchor": "s195-1-tertiary-course"
+      },
+      "tertiary residential college course": {
+        "anchor": "s195-1-tertiary-residential-college-course"
+      },
+      "thing": {
+        "anchor": "s195-1-thing"
+      },
+      "third party adjustment note": {
+        "anchor": "s195-1-third-party-adjustment-note"
+      },
+      "total Subdivision 66-B credit amount": {
+        "anchor": "s195-1-total-subdivision-66-b-credit-amount"
+      },
+      "total Subdivision 66-B GST amount": {
+        "anchor": "s195-1-total-subdivision-66-b-gst-amount"
+      },
+      "tradex order": {
+        "anchor": "s195-1-tradex-order"
+      },
+      "tradex scheme goods": {
+        "anchor": "s195-1-tradex-scheme-goods"
+      },
+      "transportation document": {
+        "anchor": "s195-1-transportation-document"
+      },
+      "group": {
+        "anchor": "s195-1-group"
+      },
+      "turnover threshold": {
+        "anchor": "s195-1-turnover-threshold"
+      },
+      "unit trust": {
+        "anchor": "s195-1-unit-trust"
+      },
+      "untaxable Commonwealth entity": {
+        "anchor": "s195-1-untaxable-commonwealth-entity"
+      },
+      "valid meal entertainment register": {
+        "anchor": "s195-1-valid-meal-entertainment-register"
+      },
+      "valuable metal": {
+        "anchor": "s195-1-valuable-metal"
+      },
+      "valuable metal threshold": {
+        "anchor": "s195-1-valuable-metal-threshold"
+      },
+      "varied instalment amount": {
+        "anchor": "s195-1-varied-instalment-amount"
+      },
+      "voucher": {
+        "anchor": "s195-1-voucher"
+      },
+      "wine": {
+        "anchor": "s195-1-wine"
+      },
+      "wine tax": {
+        "anchor": "s195-1-wine-tax"
+      },
+      "withholding payment": {
+        "anchor": "s195-1-withholding-payment"
       }
     }
   }

@@ -1,0 +1,623 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2021/1
+OECD hybrid mismatch rules - targeted integrity rule
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+LCR 2021/1EC
+.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+4
+Outline of the law
+5
+Specific issues for guidance
+16
+Control of the ultimate parent entity
+16
+Example 1 - control and identification of ultimate parent entity
+22
+The single entity rule and the requirements of section 832-725
+30
+Adjustments in later years
+36
+Residual operation of the targeted integrity rule - deducting hybrid mismatch
+44
+Subject to foreign tax at a rate of 10% or less
+47
+Principal purpose test - paragraph 832-725(1)(h)
+61
+Matters in subsection 832-725(2)
+63
+Matter (a) - the facts and circumstances that exist in relation to the scheme
+64
+Example 2 - matter (a)
+68
+Matter (b) - the source of the funds used by the interposed foreign entity (the payee) to provide the entity (the payer) with the loan or other debt interest (in respect of which the interest payment is made)
+71
+Matter (c) - whether the interposed foreign entity (the payee) engages in substantial commercial activities in carrying on a banking, financial or other similar business
+75
+Example 3 - matter (c)
+81
+Example 4 - matter (c)
+87
+Interaction of matters taken into account
+91
+Exception for CFC regimes
+93
+Back-to-back arrangements
+95
+Relying on this Ruling
+This publication is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Ruling applies to you, and you correctly rely on it in good faith, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+What this Ruling is about
+1. This Ruling provides the Commissioner's view of particular aspects of the law in relation to the hybrid mismatch targeted integrity rule in Subdivision 832-J of the
+Income Tax Assessment Act 1997
+[1]
+, legislated as part of the package of measures making up Australia's hybrid mismatch rules.
+2. This Ruling also covers the amendments to the targeted integrity rule (and other provisions impacted by the rule's hypothetical operation), contained in Parts 1 and 3 of Schedule 1 to the
+Treasury Laws Amendment (2020 Measures No. 2) Act 2020
+(the Act).
+[2]
+3. Broadly the amendments
+[3]
+:
+•
+clarify that the entity that is entitled to a deduction in respect of the payment (disregarding the operation of the targeted integrity rule) does not have to be the entity that is making the payment
+[4]
+(refer to paragraphs 30 to 35 of this Ruling)
+•
+specify that a deduction (the later year deduction) will not be permitted where a deduction has been disallowed in an earlier income year (under section 832-180
+[5]
+or section 832-530
+[6]
+) if, under certain assumptions, the targeted integrity rule would have denied a deduction in respect of a payment (upon which the entitlement to the later year deduction has its basis) in that earlier income year (refer to paragraphs 36 to 43 of this Ruling)
+[7]
+•
+specify that the targeted integrity rule can apply in the same income year in which there is a deducting hybrid mismatch (to the extent that the deduction component of that mismatch has not been 'neutralised' by the deducting hybrid mismatch rule)
+[8]
+(refer to paragraphs 44 to 46 of this Ruling), and
+•
+clarify that state and municipal taxes can be taken into account in working out the rate of foreign income tax that applied to the payment (refer to paragraphs 51 to 58 of this Ruling).
+[9]
+Date of effect
+4. This Ruling is effective from 1 January 2019.
+Outline of the law
+5. The hybrid mismatch rules are intended to deter the use of certain hybrid arrangements that exploit differences in the tax treatment of an arrangement and/or entity under the income tax laws of two or more countries. When applicable, they neutralise the effect of hybrid mismatches so that unfair tax advantages do not accrue for multinational groups as compared with domestic groups.
+6. The hybrid mismatch rules, including the targeted integrity rule, apply to pre-existing arrangements in the same way as they apply to arrangements entered into after the application date of Division 832.
+7. For the purposes of these rules, a hybrid mismatch arises where there is a double non-taxation benefit where a cross-border dealing results in a:
+•
+deduction/non-inclusion (D/NI) mismatch (broadly, a deduction being received for a payment in one country, where the corresponding income is not assessable income in another country), or
+•
+deduction/deduction (DD) mismatch (broadly, a deduction entitlement arising in two countries for the same payment).
+8. In addition, the hybrid mismatch rules include the targeted integrity rule in Subdivision 832-J, which seeks to prevent offshore multinationals from otherwise circumventing the hybrid mismatch rules by routing investment or financing into Australia via an entity located in a no- or low-tax (10% or less) jurisdiction. Were it not for the targeted integrity rule, the result of the interposition of such an entity, would be to effectively replicate a D/NI mismatch
+[10]
+but fall outside the scope of the operative provisions of Division 832 pertaining to a D/NI mismatch.
+[11]
+9. Under Subdivision 832-J, where the core elements are present, the targeted integrity rule will apply to deny the deduction for a payment of interest
+[12]
+or an amount under a derivative financial arrangement.
+[13]
+The core elements, each of which have to be present for the rule to apply, are outlined in subsection 832-725(1) as follows:
+•
+an entity (the paying entity) makes a payment to a foreign entity (the interposed foreign entity), either directly or indirectly
+[14]
+•
+the paying entity, the interposed foreign entity and another foreign entity (the ultimate parent entity) are all in the same Division 832 control group
+[15]
+•
+the ultimate parent entity is not controlled by any other entity (other than an entity that is not a member of the Division 832 control group)
+•
+disregarding section 832-725, an entity would otherwise be entitled to a deduction in an income year in respect of the payment
+•
+the payment is not subject to Australian income tax
+•
+the payment is either
+-
+subject to foreign income tax in one or more foreign countries with the highest rate of tax not exceeding 10%, or
+-
+not subject to foreign income tax, and
+•
+it is reasonable to conclude (having regard to the matters referred to in paragraph 10 of this Ruling) that the entity, or one of the entities that entered into or carried out any part of the scheme, did so for a principal purpose of, or for more than one principal purpose that includes a purpose of, enabling
+-
+a deduction to be obtained in respect of the payment, and
+-
+foreign income tax to not be imposed on the payment or to be imposed at a rate not exceeding 10%.
+10. The principal purpose test
+[16]
+is to be determined having regard to matters outlined in subsection 832-725(2) as follows:
+•
+the facts and circumstances that exist in relation to the scheme
+•
+if the payment is an amount of interest, the source of funds used by the interposed foreign entity to provide the paying entity with the loan or other debt interest on which the interest payment is made, and
+•
+whether the interposed foreign entity engages in substantial commercial activities in carrying on a banking, financial or other similar business.
+11. Where the conditions (in subsection 832-725(1)) for applying the targeted integrity rule are satisfied, subsection 832-725(3) applies to deny the entitlement to a deduction for the whole of the payment.
+12. There are certain exceptions
+[17]
+to the operation of the targeted integrity rule. A deduction for the payment will not be denied under the rule if, in any of the following contexts, it is reasonable to conclude that:
+•
+the payment is taken into account under Part X of the ITAA 1936 and the sum of the attribution percentages of each attributable taxpayer in relation to the interposed foreign entity
+[18]
+is at least 100%, or
+•
+the payment is taken into account under a law of a foreign country that has substantially the same effect as Part X and the sum of the foreign equivalent of attribution percentages of each attributable taxpayer in relation to the interposed foreign entity is at least 100%, or
+•
+assuming that the payment was treated as being divided into two separate payments, the payments are taken into account under Part X (or a law of a foreign country that has substantially the same effect as Part X) and the sum of the attribution percentages of each attributable taxpayer in relation to the interposed foreign entity (and/or the foreign equivalent thereof) is at least 100%, or
+•
+assuming that the payment had instead been made directly from the paying entity to the ultimate parent entity of the Division 832 control group
+-
+the payment would not have been subject to foreign income tax or if it was it would have been subject to foreign income tax at a rate that is the same or less than the highest rate of foreign income tax that did apply to the payment, and
+-
+the assumed payment would not otherwise have triggered the operative provisions of Division 832 pertaining to a D/NI mismatch.
+13. The targeted integrity rule also applies to payments made under a back-to-back arrangement pursuant to section 832-730 where one or more entities are interposed between the original paying entity and a foreign entity. In a back-to-back arrangement Subdivision 832-J is to apply as if the original paying entity had made the payment to the foreign entity.
+14. Consistent with the approach throughout Division 832, in the event that Subdivision 832-J applies and a deduction is denied, the character of the payment is not affected for any other Australian income tax purposes (for example, the withholding tax provisions in Division 11A of Part III of the ITAA 1936 and the thin capitalisation rules in Division 820).
+15. In the event that the targeted integrity rule does not apply, the potential application of Part IVA of the ITAA 1936 to an arrangement involving the circumvention of the hybrid mismatch rules is not precluded.
+Specific issues for guidance
+Control of the ultimate parent entity
+16. The targeted integrity rule only applies to multinational groups and requires the identification of at least three separate entities that are members of the same Division 832 control group:
+•
+the paying entity - that is, the party who makes a payment that results in an entitlement for an entity (but for the potential operation of this rule) to a deduction for the payment for Australian income tax purposes
+•
+a foreign entity (that is, the interposed foreign entity) in receipt of the payment, and
+•
+another foreign entity that is the ultimate parent entity of the Division 832 control group (in respect of which it, the paying entity and the interposed foreign entity are members).
+17. Broadly, two (or more) entities are in the same Division 832 control group if
+[19]
+:
+•
+the entities are consolidated with one another for accounting purposes in the same group, or
+•
+one of the entities holds a total participation interest of 50% or more in the other entity (or each of the other entities), or
+•
+a third entity holds a total participation interest of 50% or more in each of the (subsidiary) entities.
+18. Paragraph 832-725(1)(c) identifies the ultimate parent entity
+[20]
+of a Division 832 control group as a foreign entity which is
+not
+controlled by any other entity, other than an entity that is
+not
+a member of the Division 832 control group. Another way of expressing this requirement would be that an entity is the ultimate parent entity provided no other member of the Division 832 control group controls that entity.
+19. The ultimate parent entity of the Division 832 group will typically be the ultimate majority owner of participation interests. However, in circumstances where entities have been grouped with one another for accounting consolidation purposes on the basis of accounting control, it may be the case that entities are members of the same Division 832 control group even where one entity does not have total participation interests of 50% or more in the other.
+20. A paying entity can be a member of more than one Division 832 control group and as a result can potentially have more than one ultimate parent entity for the purposes of the targeted integrity rule.
+21. The Commissioner's view of the meaning of the word 'controlled' as used in paragraph 832-725(1)(c) is that it is intended to reflect the conditions that cause the entities to be members of the same Division 832 control group. Accordingly, if the reason the entities are members of the same Division 832 control group is because they have been grouped for accounting consolidation purposes, that same control criterion should be relevant to identifying the ultimate parent entity of that control group for the purposes of the targeted integrity rule. Conversely, if the entities are in the same Division 832 control group as a result of participation interests one might have in the other, the participation interest control criterion should be relevant to identifying the ultimate parent entity of that control group.
+Example 1 - control and identification of ultimate parent entity
+Background facts
+22.
+A foreign entity, Top Co, is widely held by unrelated foreign resident investors (Investors A).
+23.
+Top Co holds a total participation interest of less than 50% in a limited partnership (LP). The remaining percentage of LP is widely held by unrelated foreign investors (Investors B).
+24.
+Top Co also holds a total participation interest of 100% in a foreign resident company (GP) which acts as the general partner of LP. GP has 'operational control' of LP for accounting purposes.
+25.
+LP holds a total participation interest of 100% in an Australian resident company, Aus Co.
+26.
+Top Co, GP, LP and Aus Co are consolidated in the same group for accounting purposes.
+Analysis
+27.
+Top Co, GP, LP and Aus Co will be members of the same Division 832 control group pursuant to paragraph 832-205(1)(a).
+28.
+Top Co is a member of the Division 832 control group and is not controlled by any other entity in the Division 832 control group. Top Co is therefore the ultimate parent entity for the purpose of paragraph 832-725(1)(c). This is despite Top Co not holding a total participation interest of 50% or more in LP or Aus Co, respectively, and with an entitlement to less than 50% of the economic gains in LP.
+29.
+LP is not the ultimate parent entity of the Division 832 control group because it is controlled by GP
+[21]
+for accounting consolidation purposes and, in this case, the accounting consolidation criterion is what defines the membership of the Division 832 control group.
+The single entity rule and the requirements of section 832-725
+30. Paragraph 832-30(1)(a) provides that, for the purposes of Division 832, the single entity rule in section 701-1 is disregarded in determining whether an entity makes or receives a payment. Where the entity that makes the payment (that is, the paying entity as described in paragraph 832-725(1)(a)) to the foreign entity (that is, the interposed foreign entity described in that same paragraph) is a subsidiary member of a consolidated group, the effect of paragraph 832-30(1)(a) is that the subsidiary member of the consolidated group, not the head company of that group, is the entity that makes the payment (and will therefore be identified as the paying entity).
+31. However, this disregarding of the single entity rule is limited, for the purposes of Division 832, to determining whether an entity makes or receives a payment.
+[22]
+This is confirmed by section 832-35 that provides that the single entity rule is not otherwise disregarded in applying Division 832.
+32. Prior to the amendments, the condition in paragraph 832-725(1)(e) applies if the paying entity is entitled to a deduction in respect of the payment (disregarding the targeted integrity rule).
+33. The Commissioner's view is that this condition relates to the entitlement to a deduction and therefore the single entity rule would have application in determining whether that condition is satisfied, because it considers an issue related to head company and entity core purposes (subsections 701-1(2) and (3) respectively).
+[23]
+As such, where the paying entity is a subsidiary member of a consolidated group, it would be treated as part of the head company of that group when considering the condition in paragraph 832-725(1)(e).
+34. Therefore, where the paying entity is a subsidiary member of a consolidated group, it would be the head company of that group that would be the relevant entity for the condition in paragraph 832-725(1)(e) (that is, the entity that would be entitled to the deduction, disregarding the targeted integrity rule). This reasoning equally applies to subsection 832-725(3) in the period prior to the amendments taking effect.
+[24]
+35. Accordingly, it is considered that the amendments to paragraph 832-725(1)(e) and subsection 832-725(3) (to remove the reference to the paying entity in those provisions) merely clarify the Commissioner's view on the existing law.
+Adjustments in later years
+36. Under subsection 832-725(6)
+[25]
+, the targeted integrity rule will not apply where the payment gives rise to a hybrid financial instrument mismatch
+[26]
+, a hybrid payer mismatch
+[27]
+, a reverse hybrid mismatch
+[28]
+, a branch hybrid mismatch
+[29]
+or an imported hybrid mismatch.
+[30]
+This non-application of the rule is on the basis that one of the other Subdivisions in Division 832, which is applicable to the relevant mismatch to which the payment has given rise, has already had application to the payment. However, there are certain situations where a deduction for some or all of the payment may be disallowed in an income year, but where an entitlement to a deduction in respect of that payment may be available in a subsequent income year or years.
+37. This can arise where a deduction has been disallowed under subsection 832-180(2) in an income year (the earlier income year) in respect of a payment giving rise to a hybrid financial instrument mismatch, where, in a later income year, subsection 832-240(2) permits a deduction of an amount equal to some or all of the previously disallowed deduction (on the basis that the amount has been subject to foreign income tax in a period corresponding to that later income year).
+38. Subsection 832-240(2A) prevents subsection 832-240(2) from having application (resulting in no deduction being permitted in the later income year) if the deduction for the payment would have been denied by the targeted integrity rule in the earlier income year, based on the assumptions that:
+•
+subsection 832-180(2) is disregarded (that is, if this provision had not applied to disallow a deduction in respect of any part of the payment), and
+•
+subsection 832-725(6) is disregarded (that is, if the targeted integrity rule was not prevented from applying because there was a hybrid financial instrument mismatch).
+39. In other words, if based on the assumptions, the targeted integrity rule would have applied to the payment in the earlier income year, no deduction will ever be allowed in relation to the payment giving rise to the hybrid financial instrument mismatch.
+40. A similar outcome arises where a deduction has been disallowed under subsection 832-530(2) in an income year (the earlier income year) in respect of a payment giving rise to a deducting hybrid mismatch
+[31]
+and, in a later income year, subsection 832-565(2) permits a deduction for dual-inclusion income in respect of some or all of the previously disallowed deduction (on the basis that dual-inclusion income is available to be applied by the deducting hybrid in that later income year).
+41. Subsection 832-565(2A) prevents subsection 832-565(2) from having application (resulting in a deduction not being permitted in the later income year) if the deduction for the payment would have been denied by the targeted integrity rule in the earlier income year, based on the assumption that subsection 832-530(2) is disregarded (that is, if this provision had not applied to disallow a deduction in respect of the payment).
+[32]
+42. Again, if based on the assumption, the targeted integrity rule would have applied to deny the deduction, no deduction will ever be allowed in relation to the payment giving rise to the deducting hybrid mismatch.
+43. This ensures that if the targeted integrity rule would have otherwise applied to the payment in the earlier income year (that is, were it not for the fact that the payment gave rise to a hybrid financial instrument mismatch or a deducting hybrid mismatch, respectively) deductions will not be available in respect of the payment in a later income year. This ensures that the outcome that would have arisen under the targeted integrity rule is not circumvented.
+Residual operation of the targeted integrity rule - deducting hybrid mismatch
+44. Subsection 832-725(7) provides that the targeted integrity rule does not apply to a payment only to the extent to which an amount of a deduction was disallowed in respect of the payment under subsection 832-530(2).
+[33]
+This ensures that, if the targeted integrity rule would otherwise apply to the payment, any amount of a deduction in respect of the payment which is not otherwise disallowed in the current income year because of the deducting hybrid mismatch
+[34]
+, will be denied under the targeted integrity rule. For example, if in an income year a payment (which would otherwise be subject to the targeted integrity rule) of $100 gives rise to a deducting hybrid mismatch, such that a deduction of $60 is disallowed in respect of that payment under subsection 832-530(2), a deduction for the remaining part (that is, $40) of the payment (that is, the amount of the mismatch that was not 'neutralised') will be denied under the targeted integrity rule.
+45. This ensures that, if the targeted integrity rule would have otherwise applied to the payment giving rise to a deducting hybrid mismatch, having an amount of dual-inclusion income available to be applied in the current year (which in the case of the example in paragraph 44 of this Ruling would have been an amount of $40) will not result in the outcome that would have arisen under the targeted integrity rule being circumvented.
+46. In addition, no deduction in respect of the payment that gave rise to a deducting hybrid mismatch in the current year (in the case of the example in paragraph 44 of this Ruling, the remaining $60) will be available in later income years because of the operation of subsection 832-565(2A). This results in no deduction ever being allowed in respect of the payment.
+Subject to foreign tax at a rate of 10% or less
+47. The targeted integrity rule only applies to the payment of interest, or an amount under a derivative financial arrangement, which is not subject to foreign income tax, or the highest rate of foreign income tax applied to the payment is 10% or less.
+[35]
+Where two countries both tax the whole payment, it is the higher rate of tax that is applied to the whole of the payment that is determinative rather than ascertaining a cumulative effect for these purposes.
+48. Unlike the other Subdivisions in Division 832, the targeted integrity rule does not measure the 'amount' of a D/NI
+[36]
+and the 'subject to foreign income tax' test is a gateway test for the rule to apply rather than being determinative of the amount to be denied. In the Commissioner's view, the targeted integrity rule requires the whole of the payment to be subject to foreign income tax at a rate of greater than 10%, in order to fall outside the condition in paragraph 832-725(1)(g). (Alternatively, the rule will not apply if the payment is subject to Australian income tax.
+[37]
+)
+49. Broadly, an amount of income or profits is subject to foreign income tax if foreign income tax
+[38]
+is payable under the law of the foreign country because the amount is included in that country's tax base.
+[39]
+50. Paragraph 1.103 of the EM states that amounts would not be regarded as subject to foreign income tax if a foreign law does not impose tax on the type of payment or subjects the type of payment to tax at a rate of 0%. Similarly, where a payment is made to an entity in a country that does not impose an income tax, the payment cannot be regarded as having been subject to income tax in that country.
+51. Where a payment is subject to foreign income tax within the meaning of section 832-130, as modified by subsection 832-725(1A), the question of whether the rate of tax applied to the whole of the payment is 10% or less must be answered having regard to the specific facts surrounding the actual payment. It considers the tax rate that would have been applied to the income (excluding offsetting deductions for expenses) rather than an effective tax rate.
+52. Where a country, in working out the applicable income tax liability, provides a deduction for the tax that would apply to an entity's profit
+[40]
+that deduction reduces the rate of tax that applies, or can apply, to the payment for the purposes of determining the foreign country rate applicable. It is the Commissioner's view that such deductions are a relevant consideration that needs to be taken into account in considering the rate of tax applied to the whole of the payment.
+53. For example, Country A has a company income tax rate of 11% and provides a deduction for the income tax that would be imposed on an entity's profit, in determining the tax liability applicable. ForCo, located in Country A, receives a $300 interest payment and would, prima facie, be subject to tax payable of $33 (that is, $300 × 11%) in respect of that payment. However, the actual company tax payable by ForCo in Country A is based on the net profit of $267 (that is, $300 - $33), and therefore the actual tax liability payable would be $29.37 ($267 × 11%). This represents a tax rate of 9.79% (that is, $300 × 9.79% = $29.37), which is the rate applicable to the payment irrespective of any deductions for expenditure available to the taxpayer and is therefore the relevant rate of foreign income tax that applies to the payment in Country A (for the purposes of considering the condition in paragraph 832-725(1)(g)).
+54. Subsection 832-725(1A) provides that for the purposes of subsection 832-725(1)
+[41]
+, paragraphs 832-130(7)(d) and (e) are disregarded. These paragraphs specify that, in working out whether an amount of income or profits is subject to foreign income tax, municipal tax and, in the case of a federal foreign country, state tax, are disregarded.
+55. Therefore, foreign income taxes levied on the payment at the national, state and municipal levels, will all be relevant in working out the rate of foreign income tax the payment is subject to in a particular country for the purposes of subsection 832-725(1).
+[42]
+In this regard it will be the cumulative total consisting of the income taxes applied, within the one country, to the payment at each level (national, state and municipal) that will be used to determine an aggregate foreign country rate for the purposes of paragraph 832-725(1)(g).
+56. For example, Country A imposes income taxes at the national level of 7% on a payment of interest. One of the states within Country A also imposes income taxes on the same payment of interest at a rate of 8%. No taxes are imposed at a municipal level in Country A. In this example, the interest payment included in Country A's tax base will be subject to foreign income tax at a foreign country rate of 15% for the purposes of subsection 832-725(1) which consists of the national and state level taxes imposed.
+57. The Commissioner also considers that, where income taxes are imposed at different levels within a country, the foreign country rate needs to be calculated based on the pre-credit amount (using a consistent approach to the way in which credits allowed for taxes imposed by a different country would apply to the calculation). This means any credits, rebates or similar concessions for income taxes imposed at the different levels within a country need to be factored in when determining the rate at that level that forms part of the cumulative total, in addition to any income taxes imposed outside of the country that also give rise to a credit, rebate or similar concession.
+58. Therefore, where a country has a headline corporate tax rate (consisting of the multiple government level impositions, as discussed in paragraphs 54 to 57 of this Ruling) of more than 10%, but tax imposed on the actual interest or derivative payment is at a rate equal to or less than 10%, the payment would be in the scope of the targeted integrity rule (subject to the other qualifying factors also being satisfied).
+59. Furthermore, a payment which is only subject to foreign income tax if remitted to the foreign country will only be regarded as being subject to foreign tax at a particular rate if it is in fact remitted. As the payments are between entities within a Division 832 control group, the payer should be aware of, or be able to confirm, the treatment of the payment under the foreign laws of the payee's country.
+60. If an entity has negotiated a tax holiday or concessional rate of tax on the basis of its particular activities or status, this would also impact on whether an amount of tax is payable and would therefore be relevant in determining the rate of foreign tax applicable for the purposes of the targeted integrity rule.
+Principal purpose test - paragraph 832-725(1)(h)
+61. As noted in paragraph 9 of this Ruling, in order for the targeted integrity rule to apply, one of the key prerequisites is that it must be reasonable to conclude that the entity, or one of the entities who entered into or carried out any part of the scheme, did so for a principal purpose of, or for more than one principal purpose that includes a purpose of enabling:
+•
+a deduction to be obtained in respect of the payment, and
+•
+foreign income tax to be imposed on the payment at a rate of 10% or less, or enabling foreign income tax not to be imposed on the payment.
+62. The phrase '... for the purpose of, or for more than one principal purpose that includes a purpose of ...' is also used in the context of the multinational anti-avoidance legislation (MAAL)
+[43]
+and the diverted profits tax (DPT).
+[44]
+Although the MAAL and DPT are in Part IVA of the ITAA 1936 and the hybrid rules are not, the meaning of the phrase will be interpreted consistently by the Commissioner for the purposes of paragraph 832-725(1)(h). The Commissioner's view is that it is therefore appropriate to interpret the phrase in the targeted integrity rule consistent with the views contained in paragraphs 11 to 16 of Law Companion Ruling LCR 2015/2
+Section 177DA of the Income Tax Assessment Act 1936: schemes that limit a taxable presence in Australia.
+Matters in subsection 832-725(2)
+63. As set out in paragraph 10 of this Ruling, for the purposes of determining the reasonableness of the conclusion arrived at in the context of the principal purpose test in paragraph 832-725(1)(h), it is necessary to have regard to the matters outlined in subsection 832-725(2).
+Matter (a) - the facts and circumstances that exist in relation to the scheme
+64. The targeted integrity rule is intended to ensure that the effect of the hybrid mismatch rules, to counter the exploitation of different tax treatments in different tax jurisdictions, cannot be circumvented by the adoption of particular investment structures.
+[45]
+It is directed at structures with the potential to effectively replicate a D/NI outcome where multinational groups may interpose conduit-type entities effectively paying no tax to invest into Australia.
+[46]
+65. The circumstances surrounding the establishment of the interposed entity and how it fits into the overall structure of the Division 832 control group would be relevant in considering whether the paying entity or one of the entities who entered into or carried out the scheme (or any part of the scheme) did so for the requisite purpose.
+66. The facts and circumstances to be considered under the matter in paragraph 832-725(2)(a) have been drafted with a broad scope beyond those facts and circumstances that relate directly to the interposed foreign entity that receives the payment, which gives rise to the deduction. The relevant scheme referred to in this matter would include not only the payment arrangement but all of the surrounding facts and circumstances
+[47]
+including the indirect funding of the interposed entity. The concept of scheme is broad enough to encompass any actions or arrangements entered into by any of the parties to the scheme also contributing to the effective replication of the D/NI outcome; the subject of Subdivision 832-J. This would include any arrangements referred to in section 832-730.
+67. In the Commissioner's view, participation interests held by entities outside the Division 832 control group or circumstances surrounding the functions and activities carried out by the interposed entity would also be relevant matters to be taken into account under paragraph 832-725(2)(a). However, whether such facts and circumstances are indicative of the requisite principal purpose can only be tested by an examination and weighing up of the actual facts and circumstances of an individual scheme. For example, where a recipient of the payment or the ultimate parent entity is a tax-transparent entity, the potential for a range of tax rates to apply to the members of those entities may be a relevant consideration.
+Example 2 - matter (a)
+Background facts
+68.
+Following on from Example 1 of this Ruling, Aus Co is determining whether the targeted integrity rule applies with respect to the interest payment to LP. Assume that the gateway requirements of the targeted integrity rule in paragraphs 832-725(1)(a) to (g) are met.
+Analysis
+69.
+That greater than 50%
+[48]
+of LP is owned by investors outside of the Division 832 control group is a relevant fact as part of the scheme that should be taken into account in determining whether the principal purpose test in 832-725(1)(h) is satisfied. For example, the extent to which ownership interests held by non-Division 832 control group members dilute the benefit to the ultimate parent entity of the effective replication of a D/NI outcome would be a relevant consideration.
+70.
+In practice, these facts would need to be weighed up against other facts and circumstances of the scheme, including the matters specified in paragraphs 832-725(2)(b) and (c), in determining whether paragraph 832-725(1)(h) is met.
+Matter (b) - the source of the funds used by the interposed foreign entity (the payee) to provide the entity (the payer) with the loan or other debt interest (in respect of which the interest payment is made)
+71. In the case of interest payments, the source of the funds used by the interposed foreign entity to provide the loan or debt interest is a specific matter to which regard must be had in applying the principal purpose test. In the Commissioner's view, this matter looks to the source of funds from the perspective of the interposed foreign entity and involves an enquiry into the character of that flow, servicing costs associated with that source, and the foreign tax effects to the interposed foreign entity (and the broader Division 832 control group) of that entity sourcing funds in that manner (and of that particular character) compared with alternative sources and characterisations.
+72. This view is supported by the outcomes focus underlying the objective of the targeted integrity rule, which is to deny the deduction from arrangements which effectively replicate D/NI outcomes.
+[49]
+The effective replication of a D/NI outcome is maximised where, from the perspective of the interposed foreign entity, the funding is sourced in such a way as to not bear a servicing cost (for example by way of equity) and not be subject to tax at the ultimate parent entity's income tax rate (for example, because it enjoys some sort of participation exemption and little if any controlled foreign company attribution).
+[50]
+73. Conversely, to the extent the funding for the interposed entity is sourced, for example, by way of interest-bearing debt (and it is reasonable to expect the interest in the hands of the lender would be subject to foreign tax at a rate in excess of 10%), then the potential D/NI replication effect (from the perspective of the ultimate parent entity) of interposing the interposed foreign entity would be mitigated.
+74. As noted in paragraph 1.356 of the EM, the principal purpose test would be expected to be satisfied where the ultimate parent entity routes funding through a no or low-tax jurisdiction as a conduit to effectively convert taxable interest income to exempt dividends. It would be less likely that the principal purpose test would be satisfied, were it to source the funds from borrowings from third parties unrelated to any members of the Division 832 control group. Source in this context does not specifically refer to the identity or location of the investor, though these factors may also be relevant to determining the foreign tax effects to the interposed foreign entity and the broader Division 832 control group of sourcing the funds in that manner and of that character. Essentially, where the payment is an amount of interest, the second matter requires consideration of whether effectively there can be a conversion of a taxable interest payment in the ultimate recipient's hands to a non-taxable
+[51]
+return as a result of being routed via the interposed foreign entity.
+Matter (c) - whether the interposed foreign entity (the payee) engages in substantial commercial activities in carrying on a banking, financial or other similar business
+75. This matter requires consideration of the degree and nature of the economic activity undertaken by the payee. Whether there are substantial commercial activities being carried out by the interposed foreign entity will depend on the relevant facts and circumstances including an analysis of the entity's particular functions, assets and risks. While there may be scope for the activities to be staffed by people not directly employed by the interposed foreign entity (for example, a related or sister entity), it must be the interposed foreign entity that is conducting the substantial commercial activities.
+76. Whether the activities in question conducted by the interposed foreign entity are sufficiently analogous to carrying on a banking, financial, or other similar business essentially is a factual enquiry, having regard again to the functions, assets and risks of that entity. The relevance of this matter is that to the extent it can be satisfied, it is a pointer economically to the business in question being one of the nature of borrowing and lending such that any effective replication of the D/NI mismatch (similar to the second factor in paragraph 71 of this Ruling relating to source) would be mitigated.
+77. Factors pointing to such a characterisation of the business being carried on by the interposed foreign entity would include:
+•
+undertaking spread activities common to banking business
+[52]
+•
+actual borrowing and lending, and the identity of the lenders and borrowers
+•
+a pooling of funds approach (typically a feature in the banking and finance industry) that would make it difficult to ascertain the source of funds (as pointed out in paragraph 71 of this Ruling)
+•
+risk management activities consistent with such a business, and
+•
+whether the interposed foreign entity is capitalised in a manner and at a level consistent with that of a stand-alone entity engaged in such business.
+78. A company with few functions, assets or risks of its own in relation to its lending or derivative arrangements would not be considered to engage in substantial commercial activities in carrying on a banking, financial or other similar business.
+79. The activities of a banking business would typically involve raising finance through borrowing and on-lending at a margin. However, a single outlay of funds to lend is not sufficient to be carrying on a banking business. A financial or similar business would typically undertake all the same activities as a banking business. However, a potential difference may be that a financial or other similar business would not have been granted a banking licence to operate a banking business.
+80. Substantial commercial activities are more relevant in the context of the principal purpose test to the extent those activities constitute carrying on a banking, financial or other similar business. Substantial commercial activities of any other nature are not elevated for particular regard for the purposes of paragraph 832-725(1)(h).
+Example 3 - matter (c)
+Background facts
+81.
+Parent Co wholly owns all of the shares in its Australian subsidiary, Aus Co, and a company incorporated in Country Y, Interposed Co.
+82.
+Interposed Co performs an internal treasury function for the group and makes interest-bearing loans to group subsidiaries including Aus Co. Interposed Co does not make loans to entities outside the Parent Co multinational group.
+83.
+Interposed Co has employees whose roles include activities relating to the management of the loan receivables owing to it from group members.
+84.
+Interposed Co has no borrowings. The loans it makes to group subsidiaries, including Aus Co, are funded from separate equity capital injections from Parent Co.
+Analysis
+85.
+A banking, financial or other similar business would typically involve raising finance through borrowing and on-lending at a margin. The fact that the Interposed Co does not borrow and on-lend, but rather sources its funding through equity capital injections, suggests that Interposed Co does not engage in substantial commercial activities in carrying on a banking, financial or other similar business. While there may be employees whose role involves managing the loan book, given the lending is intra-group, that task is not akin to the tasks performed in a banking and finance business by those charged with managing the debt book. Further, in a banking and finance business there would be employees also engaged in the fundraising side of the business, a task that is not required when the interposed treasury function is funded by equity and not external debt. Considered in isolation, these elements would suggest that it is reasonable to conclude that the requisite principal purpose exists.
+86.
+However, these considerations would need to be weighed up against other facts and circumstances of the scheme and the matter specified in paragraph 832-725(2)(b) in determining whether paragraph 832-725(1)(h) is met.
+Example 4 - matter (c)
+Background facts
+87.
+As for Example 3 of this Ruling, however, assume that the loans made to group subsidiaries are not sourced from separate equity capital injections from Parent Co but rather Interposed Co has a mix of intra-group and external interest-bearing borrowings and also draws down on retained earnings from previous on-lending activities.
+88.
+Due to the pooling of funds approach adopted by Interposed Co, Interposed Co is not able to readily identify the source of the payments, that is, equity on which the returns are non-taxable to Parent Co or interest-bearing borrowings.
+Analysis
+89.
+In this case, as Interposed Co borrows and on-lends with a view to making a profit on the margin of the on-lent principal, it is considered more likely that Interposed Co does engage in substantial commercial activities in carrying on a banking, financial or other similar business.
+90.
+This consideration would need to be weighed up against other facts and circumstances of the scheme and the matter specified in paragraph 832-725(2)(b) in determining whether paragraph 832-725(1)(h) is met.
+Interaction of matters taken into account
+91. In the Commissioner's view where the matters in paragraphs 832-725(2)(b) and (c) present contrary conclusions, the relevant facts and circumstances in relation to the scheme (that is, the matter in paragraph 832-725(2)(a)) may influence the appropriate weighting. For example, if specific acquisition finance has been obtained via an entity that is engaged in a financial business which can be contemporaneously traced to an exempt source of funding (for example, equity funding) into the interposed foreign entity, such facts and circumstances would indicate that the matter in paragraph 832-725(2)(b) should hold greater significance or weight in determining the principal purpose test than those matters in paragraph 832-725(2)(c).
+92. This accords with the comments contained in Example 1.27 of the EM, which indicate that where an entity has a mix of sources of funding it may be difficult to determine a reasonable conclusion either way with respect to the principal purpose test having regard only to the second matter. Example 1.27 notes that if a fact existing in relation to the scheme indicates that the loan was not consistent with the interposed foreign entity's normal business practice, this could detract from the significance of the matter in paragraph 832-725(2)(c) and give more weighting to the matter in paragraph 832-725(2)(b) for determining the principal purpose test.
+Exception for CFC regimes
+93. An exception to the targeted integrity rule exists where the interest or derivative payment is taken into account under Part X of the ITAA 1936 or a CFC regime that has substantially the same effect as Part X.
+[53]
+94. This exception is limited to wholly-owned groups and situations where there is an attributable taxpayer with an attribution interest of 100%. The outcome under a foreign CFC regime will not be treated as having substantially the same effect as Part X where the amount included is reduced or offset by an amount of a kind not allowable under Part X.
+[54]
+For example, if a foreign law allows any types of offsets, including losses from other entities, the foreign law would not be considered to have substantially the same effect as Part X.
+Back-to-back arrangements
+95. Section 832-730 extends the targeted integrity rule to payments of interest made under back-to-back arrangements. The key elements are:
+•
+there is a payment of interest to an entity
+•
+that entity, or a further entity, makes a payment of interest to a foreign entity, and
+•
+the interest payments are made under an arrangement involving back-to-back loans or an arrangement that is economically equivalent and intended to have a similar effect to back-to-back loans.
+96. A back-to-back arrangement can arise regardless of what rate of foreign income tax applies to the payment of interest received by the initial interposed entity. The purpose of the back-to-back rule is to determine which entity is effectively or economically entitled to that original payment of interest.
+97. As explained in paragraph 1.358 of the EM, a back-to-back loan or economically equivalent arrangement would exist where the recipient of a payment has an effective obligation to pass on substantially all of that amount to another entity under another loan or similar arrangement. This obligation may be expressed or implied by the surrounding circumstances, including the relationship between the entities.
+98. Ordinarily, equity interests would not be expected to constitute part of an arrangement which is economically equivalent to a back-to-back loan, as returns on equity are discretionary and not obligatory. However, an exception to this may arise where entities are part of a fiscal unity, consolidated group, or otherwise subject to group relief such that the equity component of the arrangement is effectively disregarded for foreign income tax purposes. In that case, it is possible that an arrangement economically equivalent to a back-to-back loan could exist where the 'further entity' referred to in paragraph 832-730(1)(b) is an entity which does not directly receive a payment of interest under the arrangement. For example, if B1 and B2 are entitled to group relief in country B, an arrangement involving a loan made by entity C1 (who is a resident of country C) to B1 and a loan made by B2 to A1 (who is a resident of country A) could be regarded as economically equivalent to a back-to-back loan notwithstanding that B2 is not contractually obligated to pass on payments received from A1. In these types of circumstances, it would be expected that an overall connection between the loan made by C1 to B1 and the loan made by B2 to A1 would exist. If that were the case, for the purposes of the targeted integrity rule, the payment made by A1 is treated as if it had been made to C1.
+99. With respect to the initial payment and the payment made by the final 'further entity' there is an element of tracing and a commercial nexus between the payments of interest required to demonstrate the existence of a back-to-back loan. When considering whether an arrangement is back-to-back (or economically equivalent to), regard is given to any connection or nexus of the loans with one another in terms of the overarching intent or logic. Paragraphs 832-730(1)(a) and (b) both require the payments to be of a 'kind' mentioned in subparagraph 832-725(1)(d)(i) which refers to an expanded statutory definition of 'interest'. In particular, this inclusive definition includes payments (such as dividends) on hybrid instruments that are legal form equity but which are treated as debt interests for tax purposes.
+100. Accordingly, in the Commissioner's view, the substance of the payment made by the interposed entity or the further entity needs to be tested and will constitute a payment of 'that kind' where it has the same tax effect for the interposed entity or further entity as the deductible interest payment has for Australian tax purposes. Hybrid financial instruments that give rise to deductible payments to a foreign entity may therefore be considered to give rise to payments of that kind for the purposes of determining if the back-to-back arrangements rule applies.
+101. As noted in paragraph 1.360 of the EM, it is expected that the terms of each loan would be substantially the same in order to be considered a back-to-back loan. We expect this to be the case in most back-to-back loans, but in the Commissioner's view it is not essential that the terms of the individual loans be identical and differences such as the currency in which the loan is denominated and the amount of the loan would not necessarily mean loans could not be part of a back-to-back arrangement. For example, multiple loans which are combined into a single on-lent amount may constitute an overall back-to-back loan arrangement.
+102. The temporal connection between the loans is likely to be a significant factor in determining if they are part of a back-to-back arrangement, but again a disparity in issue dates would not of itself be conclusive that there is no back-to-back arrangement.
+103. If an arrangement is a back-to-back loan or economically equivalent, the targeted integrity rule applies as if the original interest payment is made directly to the foreign entity that is the final recipient of the interest payment under the back-to-back loan (subsection 832-730(2). Any consequences flowing from this deeming are to be treated as the actual state of affairs in applying the integrity rule.
+[55]
+104. In applying subsection 832-725(1), the tax outcomes (such as whether the payment is subject to foreign income tax at a rate of 10% or less) are based on the payment being made to the foreign entity that is the final recipient of the interest payment. These tax outcomes are treated as the real outcomes rather than those that resulted from the payment made to the original recipient. For example, if Aus1 Co ('the original paying entity' in paragraph 832-730(1)(a)) makes an interest payment to Aus2 Co ('another entity' mentioned in paragraph 832-730(1)(a)), who in turn makes an interest payment to Foreign Co ('the foreign entity' mentioned in paragraph 832-730(1)(b)) under a back-to-back loan arrangement, the condition in paragraph 832-725(1)(f) will be met (that is, the payment is not subject to Australian income tax). This is because, under subsection 832-730(2), for the purposes of applying the integrity rule, Aus1 Co is treated as making the interest payment to Foreign Co (and not to Aus2 Co).
+Commissioner of Taxation
+13 January 2021
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+All legislative references in this Ruling are to the
+Income Tax Assessment Act 1997
+unless otherwise indicated.
+[2]
+As introduced in the House of Representatives on 13 May 2020.
+[3]
+These amendments apply to assessments for income years starting on or after 2 April 2019 (with the exception of the ability to treat amounts subject to state and municipal taxes as being subject to foreign income tax for the purposes of the targeted integrity rule, which applies to assessments for income years starting on or after 1 January 2019).
+[4]
+For example, where the entity making the payment is a subsidiary member of a consolidated group, it is the head company of that consolidated group that would be entitled to the deduction (but for the potential operation of the targeted integrity rule).
+[5]
+Because of a hybrid financial instrument mismatch.
+[6]
+Because of a deducting hybrid mismatch.
+[7]
+In these cases, the targeted integrity rule would not have had application in the earlier income year because of subsection 832-725(6) in respect of the hybrid financial instrument mismatch or because of subsection 832-725(7) in respect of the deducting hybrid mismatch (to the extent that a deduction was disallowed under subsection 832-530(2)).
+[8]
+Section 832-530, with the deduction being disallowed under subsection 832-530(2).
+[9]
+Noting that this clarification applies to assessments for income years starting on or after 1 January 2019.
+[10]
+Refer to paragraph 1.351 of the Revised Explanatory Memorandum to the Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Bill 2018 (the EM).
+[11]
+Operative provisions of Division 832 pertaining to a D/NI mismatch - that is, Subdivision 832-C (Hybrid financial instrument mismatch), Subdivision 832-D (Hybrid payer mismatch) and Subdivision 832-E (Reverse hybrid mismatch).
+[12]
+Within the meaning of subsection 128A(1AB) of the
+Income Tax Assessment Act 1936
+(ITAA 1936) per subparagraph 832-725(1)(d)(i).
+[13]
+'Derivative financial arrangement' has the meaning given by subsection 230-350(1).
+[14]
+That is, through one or more interposed Australian trusts or partnerships within the meaning of Part X of the ITAA 1936.
+[15]
+Refer to section 832-205.
+[16]
+Refer to paragraph 832-725(1)(h).
+[17]
+Refer to subsections 832-725(4) and (5).
+[18]
+For the purposes of sections 456 and 457 of the ITAA 1936 in respect of the income year in which the payment is made.
+[19]
+Refer to section 832-205.
+[20]
+For the purposes of the targeted integrity rule (and, in particular, the condition in paragraph 832-725(1)(b)).
+[21]
+Another entity of the Division 832 control group.
+[22]
+And the resulting income and profits of an entity (under subsection 832-30(3)).
+[23]
+For those purposes, subsidiary members are treated as parts of the head company rather than separate entities.
+[24]
+That is, for assessments for income years commencing from 1 January 2019 to 1 April 2019.
+[25]
+Prior to the amendments, subsection 832-725(6) also referred to a deducting hybrid mismatch.
+[26]
+Refer to Subdivision 832-C.
+[27]
+Refer to Subdivision 832-D.
+[28]
+Refer to Subdivision 832-E.
+[29]
+Refer to Subdivision 832-F.
+[30]
+Refer to Subdivision 832-H.
+[31]
+Refer to Subdivision 832-G.
+[32]
+If no amount was disallowed by subsection 832-530(2), this would mean that subsection 832-725(7) would not prevent any part of the payment from being subject to the targeted integrity rule (refer to paragraph 44 of this Ruling).
+[33]
+That is, in relation to a deducting hybrid mismatch.
+[34]
+Refer to Subdivision 832-G.
+[35]
+Refer to paragraph 832-725(1)(g).
+[36]
+Refer to section 832-105.
+[37]
+Refer to paragraph 832-725(1)(f).
+[38]
+With the exception of credit absorption tax (as defined in subsection 770-15(2)), unitary tax (as defined in subsection 770-15(3)) or withholding-type tax.
+[39]
+Refer to section 832-130.
+[40]
+Or the country provides some other concession that has the consequence of reducing the rate of tax applicable to any income earned.
+[41]
+That is, the conditions that must exist in order for the targeted integrity rule to apply.
+[42]
+Where the taxes imposed at the different levels meet the requirements to be a credit absorption tax, a unitary tax or a withholding-type tax they will continue to be excluded by paragraphs 832-130(7)(a) to (c) - that is, they will not be relevant for determining the highest country rate for the purposes of paragraph 832-725(1)(g).
+[43]
+Refer to paragraph 177DA(1)(b) of the ITAA 1936.
+[44]
+Refer to paragraph 177J(1)(b) of the ITAA 1936.
+[45]
+Department of Treasury, 2017,
+Mid-Year Economic and Fiscal Outlook 2017-18,
+Commonwealth of Australia, Canberra, p. 120.
+[46]
+Refer to paragraph 1.351 of the EM.
+[47]
+Giving rise to the enablement of the deduction and the enablement of the imposition of foreign income tax at a rate of 10% or less (or foreign income tax not to be imposed on the payment).
+[48]
+This percentage is illustrative only and should not be taken as a bright-line test.
+[49]
+Refer to paragraph 1.351 of the EM.
+[50]
+Refer to Example 1.26 of the EM.
+[51]
+Non-taxable for the purposes of Subdivision 832-J includes tax rates of 10% or less.
+[52]
+For example, refer to the description of spread activities in Taxation Ruling TR 2005/5
+Income tax: ascertaining the right to tax United States (US) and United Kingdom (UK) resident financial institutions under the US and the UK Taxation Conventions in respect of interest income arising in Australia.
+[53]
+Refer to subsection 832-725(4).
+[54]
+Refer to paragraph 1.364 of the EM.
+[55]
+Marshall (Inspector of Taxes) v Kerr
+[1993] STC 360 at 366, which was subsequently approved in the appeal decision in the House of Lords, supports this position (per Gibson, J):
+… I further bear in mind, that because one must treat as real that which is only deemed to be so, one must treat as real the consequences and incidents inevitably flowing from or accompanying that deemed state of affairs, unless prohibited from doing so.
+LCR 2019/D1 (issued 5 April 2019; reissued 8 July 2020)
+References
+ATO references:
+NO  1-G1Y9LS8
+ISSN: 2209-1300
+Business Line:
+ISP
+Related Rulings/Determinations:
+LCR 2015/2
+TR 2005/5
+Legislative References:
+ITAA 1997 230-350(1)
+ITAA 1997 701-1
+ITAA 1997 701-1(2)
+ITAA 1997 701-1(3)
+ITAA 1997 770-15(2)
+ITAA 1997 770-15(3)
+ITAA 1997 Div 820
+ITAA 1997 Div 832
+ITAA 1997 832-30(1)(a)
+ITAA 1997 832-30(3)
+ITAA 1997 832-35
+ITAA 1997 832-105
+ITAA 1997 832-130
+ITAA 1997 832-130(7)(a)
+ITAA 1997 832-130(7)(b)
+ITAA 1997 832-130(7)(c)
+ITAA 1997 832-130(7)(d)
+ITAA 1997 832-130(7)(e)
+ITAA 1997 Subdiv 832-C
+ITAA 1997 832-180
+ITAA 1997 832-180(2)
+ITAA 1997 832-205
+ITAA 1997 832-205(1)(a)
+ITAA 1997 832-240(2)
+ITAA 1997 832-240(2A)
+ITAA 1997 Subdiv 832-D
+ITAA 1997 Subdiv 832-E
+ITAA 1997 Subdiv 832-F
+ITAA 1997 Subdiv 832-G
+ITAA 1997 832-530
+ITAA 1997 832-530(2)
+ITAA 1997 832-565(2)
+ITAA 1997 832-565(2A)
+ITAA 1997 Subdiv 832-H
+ITAA 1997 Subdiv 832-J
+ITAA 1997 832-725
+ITAA 1997 832-725(1)
+ITAA 1997 832-725(1)(a)
+ITAA 1997 832-725(1)(b)
+ITAA 1997 832-725(1)(c)
+ITAA 1997 832-725(1)(d)
+ITAA 1997 832-725(1)(d)(i)
+ITAA 1997 832-725(1)(e)
+ITAA 1997 832-725(1)(f)
+ITAA 1997 832-725(1)(g)
+ITAA 1997 832-725(1)(h)
+ITAA 1997 832-725(1A)
+ITAA 1997 832-725(2)
+ITAA 1997 832-725(2)(a)
+ITAA 1997 832-725(2)(b)
+ITAA 1997 832-725(2)(c)
+ITAA 1997 832-725(3)
+ITAA 1997 832-725(4)
+ITAA 1997 832-725(5)
+ITAA 1997 832-725(6)
+ITAA 1997 832-725(7)
+ITAA 1997 832-730
+ITAA 1997 832-730(1)(a)
+ITAA 1997 832-730(1)(b)
+ITAA 1997 832-730(2)
+ITAA 1936 128A(1AB)
+ITAA 1936 Pt III Div 11A
+ITAA 1936 Pt IVA
+ITAA 1936 177DA(1)(b)
+ITAA 1936 177J(1)(b)
+ITAA 1936 Part X
+ITAA 1936 456
+ITAA 1936 457
+Treasury Laws Amendment (2020 Measures No. 2) Act 2020 Sch 1 Pt 1
+Treasury Laws Amendment (2020 Measures No. 2) Act 2020 Sch 1 Pt 3
+Case References:
+Marshall (Inspector of Taxes) v Kerr
+[1993] STC 360
+Other References:
+Revised Explanatory Memorandum
+to the Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Bill 2018
+Department of Treasury, 2017, Mid Year Economic and Fiscal Outlook 2017-18, Commonwealth of Australia, Canberra
+Back to top

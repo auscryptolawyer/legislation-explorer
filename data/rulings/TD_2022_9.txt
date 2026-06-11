@@ -1,0 +1,358 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+39 related documents
+Taxation Determination
+TD 2022/9
+Income tax: is section 951A of the US Internal Revenue Code a provision of a law of a foreign country that corresponds to sections 456 or 457 of the
+Income Tax Assessment Act 1936
+for the purpose of subsection 832-130(5) of the
+Income Tax Assessment Act 1997
+?
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+TD 2022/9EC
+.
+Table of Contents
+Paragraph
+Ruling
+1
+Examples
+3
+Example 1 - identification and calculation of the deduction/non-inclusion outcome
+3
+Example 2 - identification and calculation of dual inclusion income
+7
+Date of effect
+14
+Appendix 1 - Explanation
+15
+Subsection 832-130(5)
+15
+Meaning of 'corresponds to'
+18
+Sections 456 and 457
+27
+Section 951A
+31
+The GILTI regime
+35
+Does section 951A correspond to sections 456 or 457?
+40
+Appendix 2 - Legislative provisions
+44
+Relying on this Determination
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Determination applies to you, and you correctly rely on it, we will apply the law to you in the way set out in this Determination. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Determination.
+Ruling
+1. No. Section 951A of the
+Internal Revenue Code of 1986
+(Internal Revenue Code) of the United States of America (US) is not a provision of a law of a foreign country that corresponds to sections 456 or 457 of the
+Income Tax Assessment Act 1936
+for the purpose of subsection 832-130(5) of the
+Income Tax Assessment Act 1997.
+2. All legislative references in this Determination are to provisions of the
+Income Tax Assessment Act 1936,
+the
+Income Tax Assessment Act 1997
+or the Internal Revenue Code, as detailed in the table in Appendix 2 of this Determination.
+Examples
+Example 1 - identification and calculation of the deduction/non-inclusion outcome
+3.
+US Co is a US-resident company that has numerous wholly-owned foreign subsidiaries, including Aus Co (an Australian-resident company) and Foreign LP, a limited partnership which is a reverse hybrid entity (as a result of an election to be treated as an association taxable as a corporation for US federal income tax purposes).
+4.
+Aus Co makes a deductible payment of $100 to Foreign LP, which is not taxed in Foreign LP's formation country because the formation country treats US Co as the liable entity in respect of Foreign LP's income and profits. The payment of $100 is also not taxed in the hands of US Co because, for US federal income tax purposes, Foreign LP is treated as a foreign corporation and the liable entity in respect of Foreign LP's income and profits.
+5.
+Section 951A applies to US Co with respect to its interests in its foreign subsidiaries, including Foreign LP. The payment of $100 from Aus Co to Foreign LP is taken into account in calculating whether Foreign LP has tested income or a tested loss amount, which in turn is taken into account in determining the section 951A inclusion amount for US Co.
+6.
+Because section 951A does not correspond to sections 456 or 457, even if any part of the $100 payment from Aus Co to Foreign LP is represented in any section 951A inclusion amount for US Co, none of the $100 payment from Aus Co to Foreign LP is subject to foreign income tax under subsection 832-130(5).
+Example 2 - identification and calculation of dual inclusion income
+7.
+Aus Co 1 and Aus Co 2 are Australian-resident companies that are wholly-owned subsidiaries of US Parent, a US-tax resident corporation.
+8.
+US Parent is the 100% shareholder of Aus Co 1. In turn, Aus Co 1 is the 100% shareholder of Aus Co 2. Aus Co 1 (head company) and Aus Co 2 (subsidiary member) are members of a tax consolidated group for Australian tax purposes.
+9.
+An election was made for Aus Co 1 to be 'disregarded' for US federal income tax purposes. As a result, the income derived by, and all of the deductible payments made by Aus Co 1 are treated as income and expenses of US Parent for US federal income tax purposes, with the exception of any transactions directly between Aus Co 1 and US Parent, which are disregarded. The election is limited to Aus Co 1. Aus Co 2 is treated as a foreign corporation of US Parent for US federal income tax purposes.
+10.
+Aus Co 1 makes a $100 deductible payment to US Parent which gives rise to a hybrid payer mismatch amount under Subdivision 832-D.
+11.
+Aus Co 2 has income from sales to third parties that is included in the assessable income of Aus Co 1 (as head company of the tax consolidated group) and regarded as subject to Australian income tax under section 832-125.
+12.
+Section 951A applies to US Parent with respect to its interest in Aus Co 2 (and any other foreign subsidiaries that are treated as foreign corporations for US federal income tax purposes). As part of the calculation of the section 951A inclusion amount for US Parent, the income and expenses of Aus Co 2 are taken into account.
+13.
+Because section 951A does not correspond to sections 456 or 457, even if any part of Aus Co 2's income from sales to third parties is reflected in any section 951A inclusion amount for US Parent, none of Aus Co 2's income from sales to third parties is subject to foreign income tax under subsection 832-130(5). As a result, none of that income is 'dual inclusion income' under subsection 832-680(1).
+Date of effect
+14. This Determination applies both before and after its date of issue. However, this Determination will not apply to taxpayers to the extent that it conflicts with the terms of settlement of a dispute agreed to before the date of issue of the Determination (see paragraphs 75 to 76 of Taxation Ruling TR 2006/10
+Public Rulings).
+Commissioner of Taxation
+29 June 2022
+Appendix 1 - Explanation
+This Explanation is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Subsection 832-130(5)
+15. Subsection 832-130(5) does not merely clarify the definition of 'subject to foreign income tax' in subsection 832-130(1), but operates independently of that provision.
+16. Subsection 832-130(5) states:
+An amount of income or profits of an entity is
+subject to foreign income tax
+if the amount is included in working out the tax base of another entity under a provision of a law of a foreign country that corresponds to section 456 or 457 of the
+Income Tax Assessment Act 1936
+(including a tax base that is nil, or a negative amount).
+17. Therefore, where section 951A includes income or profits of a controlled foreign corporation in working out the tax base of a US shareholder, the income or profits can only be regarded as being 'subject to foreign income tax' for the purposes of Division 832 if section 951A corresponds to sections 456 or 457.
+Meaning of 'corresponds to'
+18. The phrase 'corresponds to'
+[1]
+in subsection 832-130(5) is not defined, so regard should be had to the ordinary meaning of 'correspond'. Dictionary definitions of 'correspond' share common indicators. In the ordinary sense, for 2 things to correspond to each other they should agree, be similar or analogous, or be equivalent in function.
+[2]
+19. In
+Chevron Australia Holdings Pty Ltd v Commissioner of Taxation (No 4)
+[2015] FCA 1092
+(Chevron),
+one of the issues considered was whether Article 9 of the US Convention
+[3]
+corresponded to Article 9 of the United Kingdom Convention
+[4]
+for the purpose of subsection 815-15(5). Robertson J said, at [565]:
+... In my opinion, "corresponding provision" does not focus on the detail but refers to another provision the gist of which is the same ... acknowledging that the meaning of "corresponding provision" depends on the context ...
+20. A provision will correspond with another provision if it answers it in character and function, is similar in purpose, prescribes the same thing to be done, and is designed to produce the same result: see
+Winter v Ministry of Transport
+[1972] NZLR 539 at 541.
+21. Australia's hybrid mismatch rules in Division 832 were inserted by the
+Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Act 2018.
+Division 832 implements part of the Organisation for Economic Co-operation and Development (OECD) hybrid mismatch rules by preventing entities that are liable to income tax in Australia from avoiding income tax, or obtaining a double non-taxation benefit, by exploiting differences in the treatment of entities and instruments across different jurisdictions.
+[5]
+Section 832-130 is relevant to various aspects of Division 832, including identifying whether a payment gives rise to a deduction/non-inclusion mismatch
+[6]
+and identifying whether an amount of income or profits is dual inclusion income.
+[7]
+22. Paragraph 1.108 of the EM states that subsection 832-130(5) 'applies in a corresponding manner to subsection 832-125(3) and in accordance with the comments in paragraphs 37 and 38 of the OECD Action 2 Report'.
+[8]
+23. Subsection 832-125(3) deals with income or profits of a controlled foreign company (CFC) that are 'subject to Australian income tax' as a result of being included under sections 456 or 457 in the assessable income of an attributable taxpayer (broadly, an Australian shareholder of the CFC).
+24. The OECD Action 2 Report indicates that the purpose of recognising inclusion under a CFC regime is to avoid economic double taxation where a payment that otherwise gives rise to a deduction/non-inclusion outcome as between the payer and payee jurisdictions may be included in income under a CFC regime.
+[9]
+The OECD Action 2 Report makes it clear, however, that not all CFC inclusions should be recognised, and paragraphs 37 and 38 of the OECD Action 2 Report outline a set of suggested conditions under which CFC income inclusions can be taken into account when a country implements hybrid mismatch rules.
+25. In the context of Australia's hybrid mismatch rules, the definition of 'subject to foreign income tax' in subsection 832-130(5) sets out a threshold question, being whether there is correspondence between the relevant foreign law provision and sections 456 or 457. To determine whether there is correspondence, it is necessary to consider the features of the foreign law provision and its statutory object or purpose.
+26. It is also relevant to consider that there are CFC-type regimes in several countries, with each regime varying in its features and statutory object or purpose. As noted in
+Chevron,
+the question of correspondence does not focus on detail, but rather on the 'gist', being the substance of a provision or its essential parts.
+[10]
+Therefore, in determining whether a provision of a law of a foreign country corresponds to sections 456 or 457, it is not necessary to focus on the mere mechanics of the law.
+Sections 456 and 457
+27. Sections 456 and 457 are contained in Part X, which sets out Australia's CFC regime. They are assessing provisions which include the attributable income of a CFC in the assessable incomes of certain Australian residents that have a defined controlling interest in the CFC (attributable taxpayers).
+28. Australia's CFC regime was introduced as an anti-deferral measure for taxing certain foreign-source income that has been derived by Australian-controlled foreign entities. Sections 456 and 457 include in an Australian controller's assessable income its pro rata share of a CFC's specified tainted income less related expenses incurred by the CFC (the net amount being attributable income) as it is earned, unless the income is comparably taxed offshore or the CFC satisfies an active income test.
+[11]
+Examples of tainted income include interest, royalties, dividends and amounts arising from certain related party transactions. Broadly, tainted income represents the 'most mobile form of income and is thus readily diverted for tax planning purposes to avoid or defer Australian tax', reflecting the anti-deferral purpose of Australia's CFC regime.
+[12]
+29. Section 456 is the main assessing provision in Part X. Section 457 is an assessing provision that only operates where a CFC changes residence from an 'unlisted country' to a 'listed country' or Australia.
+30. Consistent with their anti-deferral purpose, any amount of attributable income included under sections 456 or 457 is not subject to any further reduction or concession, other than allowable deductions to which the attributable taxpayer would already be entitled outside of Part X for their own expenditure. Further, an attributable taxpayer may be entitled to a foreign income tax offset for certain taxes paid by the CFC in respect of income that has been attributed.
+[13]
+Section 951A
+31. Section 951A was added to subpart F of the Internal Revenue Code (subpart F) as part of the tax reforms contained in the US Act known as the
+Tax Cuts and Jobs Act of 2017.
+32. Section 951A is the assessing provision for the US 'global intangible low-taxed income' (GILTI) regime. Section 951A
+[14]
+includes GILTI in the gross income of US controlling shareholders of CFCs.
+33. GILTI is determined by grouping all of a US shareholder's CFCs. In broad terms, GILTI is the excess of the CFCs' net income (excluding certain items)
+[15]
+over a deemed 'normal' return on the CFCs' tangible property. Subject to the excluded items, net income can include any type of income of a CFC in the group less related deductions. Broadly, the deemed 'normal' return is based on the value of a CFC's tangible depreciable property multiplied by 10%, less certain interest expenses.
+34. The House of Representatives Committee on Ways and Means and the Senate Committee on Finance described the purpose of section 951A as being to protect the US tax base against erosion following the US' transition from a worldwide system to a participation exemption system, which would increase the incentive to concentrate a multinational enterprise's high value functions, assets and risks in low taxed jurisdictions.
+[16]
+The Senate Committee on Finance saw intangible income as the type of high return income most readily allocated to low or no tax jurisdictions. However, the section 951A inclusion amount is not specifically limited to intangible or 'tainted' income.
+The GILTI regime
+35. Section 250 and subsection 960(d) complete the GILTI regime.
+36. Subject to a taxable income limitation, section 250 allows a domestic corporation to claim a deduction equal to 50%
+[17]
+of GILTI included in its gross income.
+[18]
+This reduces the US federal tax rate on GILTI to 10.5%
+[19]
+for domestic corporations. Section 250 operates alongside section 951A and is a fundamental feature of the GILTI regime. As noted by the Senate Committee on Finance
+[20]
+:
+... the Committee recognizes that taxing that income at the full U.S. corporate tax rate may hurt the competitive position of U.S. corporations relative to their foreign counterparts, and has decided to tax that income at a reduced rate (with a portion of foreign tax credits available to offset U.S. tax).
+37. Under subsection 960(d), a domestic corporation that is a controlling shareholder is deemed to have paid a portion of certain foreign income taxes paid or accrued by its CFCs. Subject to a foreign tax credit limitation, this 'deemed paid credit' effectively reduces the US federal income tax payable in respect of GILTI included in a domestic corporation's gross income under section 951A.
+38. The Senate Committee on Finance described the intended result of section 250 and subsection 960(d) on GILTI inclusions as follows
+[21]
+[22]
+:
+As a result of the [section 250 deduction], and with respect to domestic corporations ... the effective U.S. tax rate on GILTI is 10 percent for taxable years beginning after December 31, 2017, and before January 1, 2026. Since only a portion (80 percent) of foreign tax credits are allowed to offset U.S. tax on GILTI, the minimum foreign tax rate, with respect to GILTl, at which no U.S. residual tax is owed by a domestic corporation is 12.5 percent. If the foreign tax rate on GILTI is zero percent, then the U.S. residual tax rate on GILTI is 10 percent. Therefore, as foreign tax rates on GILTI range between zero percent and 12.5 percent, the total combined foreign and U.S. tax rate on GILTI ranges between 10 percent and 12.5 percent. At foreign tax rates greater than or equal to 12.5 percent, there is no residual U.S. tax owed on GlLTI, so that the combined foreign and U.S. tax rate on GILTl equals the foreign tax rate.
+39. The objective of the GILTI regime is to achieve a minimum tax rate on GILTI.
+Does section 951A correspond to sections 456 or 457?
+40. There are substantive differences between section 951A and sections 456 and 457.
+41. Critically, the purpose of section 951A differs to the purpose of sections 456 and 457. At its core, the objective of section 951A (which operates in conjunction with section 250 and subsection 960(d)) is to impose a minimum rate of tax on deemed high or above-normal returns of CFCs. In contrast, sections 456 and 457 are not inclusion provisions for a minimum tax regime. The purpose of sections 456 and 457 is to deter tainted income from being shifted offshore for the aim of avoiding or deferring Australian tax. In line with this purpose, attributable income of a CFC included in the assessable income of an Australian-resident controller is not subject to any further reduction or concession, other than the allowable deductions to which the controller would be entitled outside of Part X for their own expenditure.
+42. While section 951A was added to subpart F (which also contains longstanding CFC anti-deferral rules), it is considered that section 951A cannot correspond to sections 456 or 457 merely because it is within subpart F or because it applies to the income of CFCs. The location of a provision of a foreign law does not by itself explain the gist, substance or essential parts of the provision.
+43. For the reasons stated in paragraphs 41 and 42 of this Determination, the 'gist' or substance of section 951A is not the same as the 'gist' or substance of sections 456 or 457. Accordingly, section 951A is not a provision of a law of a foreign country that corresponds to sections 456 or 457 for the purpose of subsection 832-130(5).
+Appendix 2 - Legislative provisions
+44. This paragraph sets out the details of the provisions ruled upon or referenced in this Determination.
+Income Tax Assessment Act 1936
+Part X
+Income Tax Assessment Act 1936
+section 456
+Income Tax Assessment Act 1936
+section 457
+Income Tax Assessment Act 1997
+section 770-135
+Income Tax Assessment Act 1997
+subsection 815-15(5)
+Income Tax Assessment Act 1997
+Division 832
+Income Tax Assessment Act 1997
+Subdivision 832-C
+Income Tax Assessment Act 1997
+Subdivision 832-D
+Income Tax Assessment Act 1997
+Subdivision 832-E
+Income Tax Assessment Act 1997
+Subdivision 832-F
+Income Tax Assessment Act 1997
+Subdivision 832-G
+Income Tax Assessment Act 1997
+Subdivision 832-H
+Income Tax Assessment Act 1997
+section 832-105
+Income Tax Assessment Act 1997
+section 832-125
+Income Tax Assessment Act 1997
+subsection 832-125(3)
+Income Tax Assessment Act 1997
+section 832-130
+Income Tax Assessment Act 1997
+subsection 832-130(1)
+Income Tax Assessment Act 1997
+subsection 832-130(5)
+Income Tax Assessment Act 1997
+section 832-680
+Income Tax Assessment Act 1997
+subsection 832-680(1)
+Internal Revenue Code of 1986
+(US)
+section 250
+Internal Revenue Code of 1986
+(US)
+subpart F
+Internal Revenue Code of 1986
+(US)
+section 951A
+Internal Revenue Code of 1986
+(US)
+subsection 951A(a)
+Internal Revenue Code of 1986
+(US)
+subsection 960(d)
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+For the avoidance of doubt, this Determination does not cover the Commissioner's view on the meaning of 'corresponds to' in other contexts, such as the definition of 'foreign hybrid mismatch rules', which requires consideration of whether a foreign law corresponds to any of Subdivisions 832-C, 832-D, 832-E, 832-F, 832-G or 832-H.
+[2]
+Gwynn, M & Laugesen, A (ed.) (2017)
+Australian Concise Oxford Dictionary,
+6th edition, Oxford University Press, South Melbourne; Macmillan Publishers Australia,
+The Macquarie Dictionary
+online,
+www.macquariedictionary.com.au
+,
+accessed 27 May 2022.
+[3]
+Convention between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income
+[1983] ATS 16.
+[4]
+Convention between the Government of Australia and the Government of the United Kingdom of Great Britain and Northern Ireland for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income and on Capital Gains
+[2003] ATS 22.
+[5]
+Paragraph 1.1 of the Revised Explanatory Memorandum to the Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Bill 2018 (the EM).
+[6]
+Section 832-105.
+[7]
+Section 832-680.
+[8]
+Organisation for Economic Co-operation and Development (2015)
+Neutralising the Effects of Hybrid Mismatch Arrangements, Action 2 - 2015 Final Report,
+OECD Publishing, Paris.
+[9]
+Paragraph 36 of the OECD Action 2 Report.
+[10]
+Refer to the definition of 'gist' (Macmillan Publishers Australia,
+The Macquarie Dictionary
+online,
+www.macquariedictionary.com.au
+,
+accessed 27 May 2022).
+[11]
+Refer to the General outline in the Explanatory Memorandum to the Taxation Laws Amendment (Foreign Income) Bill 1990, the Second Reading Speech for that Bill by Mr Crean, the Minister Assisting the Treasurer on 13 September 1990 in the House of Representatives, and paragraph 2.3 of the Explanatory Memorandum to the Taxation Laws Amendment (Foreign Income Measures) Bill 1997.
+[12]
+Refer to paragraph 2.4 of the Explanatory Memorandum to the Taxation Laws Amendment (Foreign Income Measures) Bill 1997, which summarises the policy objectives of Australia's CFC regime.
+[13]
+Section 770-135.
+[14]
+Via subsection 951A(a).
+[15]
+Such as, broadly, effectively connected income, subpart F income, certain income covered by a high-tax exception, dividends received from a related person and foreign oil and gas extraction income.
+[16]
+Committee on Ways and Means (2017)
+Tax Cuts and Jobs Act: Report of the Committee on Ways and Means House of Representatives on H.R. 1 together with dissenting and additional views,
+U.S. Government Publishing Office, Washington, pp. 388-390; Committee on the Budget United States Senate (2017)
+Reconciliation Recommendations pursuant to H. Con. Res. 71: Committee Recommendations as submitted to the Committee on the Budget pursuant to H. Con. Res. 71,
+U.S. Government Publishing Office, Washington
+(Reconciliation Recommendations 2017)
+, p. 370.
+[17]
+37.5% for taxable years beginning after 31 December 2025.
+[18]
+Section 4301 of the Tax Cuts and Jobs Bill initially required a US shareholder to include in their gross income only 50% of the relevant GILTI amount (formerly known as the 'foreign high return amount'). Following amendments, a US shareholder is required to include in their gross income the full GILTI amount but, subject to a taxable income limitation, a domestic corporation is allowed a deduction equal to 50% of the GILTI amount.
+[19]
+13.125% for taxable years beginning after 31 December 2025.
+[20]
+Reconciliation Recommendations 2017,
+p. 370.
+[21]
+Reconciliation Recommendations 2017,
+pp. 376-377.
+[22]
+At the time of the Committee's report, the US was contemplating introducing a flat corporate tax rate of 20% - refer to
+Reconciliation Recommendations 2017,
+pp. 113-114.
+Previously released in draft form as TD 2019/D12
+References
+ATO references:
+NO  1-J2SMIUS
+ISSN: 2205-6211
+Related Rulings/Determinations:
+TR 2006/10
+Business Line:
+ISP
+Legislative References:
+Tax Cuts and Jobs Act of 2017 (US)
+Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Act 2018
+Cases relied on:
+Chevron Australia Holdings Pty Ltd v Commissioner of Taxation (No 4)
+[2015] FCA 1092
+2015 ATC 20-535
+102 ATR 13
+Winter v Ministry of Transport
+[1972] NZLR 539
+Other References:
+Committee on the Budget United States Senate (2017) Reconciliation Recommendations pursuant to H. Con. Res. 71: Committee Recommendations as submitted to the Committee on the Budget pursuant to H. Con. Res. 71, U.S. Government Publishing Office, Washington
+Committee on Ways and Means (2017) Tax Cuts and Jobs Act: Report of the Committee on Ways and Means House of Representatives on H.R. 1 together with dissenting and additional views, U.S. Government Publishing Office, Washington
+Convention between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income
+[1983] ATS 16
+Convention between the Government of Australia and the Government of the United Kingdom of Great Britain and Northern Ireland for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income and on Capital Gains
+[2003] ATS 22
+Explanatory Memorandum
+to the Taxation Laws Amendment (Foreign Income) Bill 1990
+Explanatory Memorandum
+to the Taxation Laws Amendment (Foreign Income Measures) Bill 1997
+Gwynn, M & Laugesen, A (ed.) (2017) Australian Concise Oxford Dictionary, 6th edition, Oxford University Press, South Melbourne
+Macmillan Publishers Australia, The Macquarie Dictionary online,
+www.macquariedictionary.com.au
+Organisation for Economic Co-operation and Development (2015) Neutralising the Effects of Hybrid Mismatch Arrangements, Action 2 - 2015 Final Report, OECD Publishing, Paris.
+Revised Explanatory Memorandum
+to the Treasury Laws Amendment (Tax Integrity and Other Measures No.2) Bill 2018
+Simon Crean MP, Second Reading Speech, Taxation Laws Amendment (Foreign Income) Bill 1990, Commonwealth of Australia, House of Representatives, Official Hansard, 13 September 1990, page 1858
+Back to top

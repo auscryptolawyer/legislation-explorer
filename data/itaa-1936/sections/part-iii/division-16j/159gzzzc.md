@@ -15,7 +15,6 @@ source_pdf: "vol03.pdf"
 
 # 159GZZZC Interpretation—general
 
-
 <a id="s159GZZZC-1"></a>
 **(1)** In this Division: associate has the same meaning as in section 318. cancellation includes redemption. disposal includes cancellation. entity means a company, a partnership or a trust estate. pre-cancellation period, in relation to a cancellation of shares to which this Division applies, means the period beginning when the holding company concerned became a holding company of the subsidiary concerned and ending at the time of the cancellation. security means stock, a bond or debenture, or any other document evidencing the indebtedness of a person, whether or not the debt is secured.
 

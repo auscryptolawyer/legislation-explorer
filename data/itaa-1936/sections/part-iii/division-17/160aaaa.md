@@ -15,7 +15,6 @@ source_pdf: "vol03.pdf"
 
 # 160AAAA Tax rebate for low income aged persons and pensioners
 
-
 <a id="s160AAAA-1"></a>
 **(1)** Subject to subsection 160AAA(4), a taxpayer who is an individual (other than in the capacity as trustee) is entitled to a rebate of tax in the taxpayer’s assessment in respect of income of a year of income of an amount (if any), ascertained in accordance with the regulations, if the taxpayer satisfies the conditions in subsections (2) and (3).
 

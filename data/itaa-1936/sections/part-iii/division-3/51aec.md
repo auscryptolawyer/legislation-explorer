@@ -15,7 +15,6 @@ source_pdf: "vol01.pdf"
 
 # 51AEC Entertainment facility—election under section 152B of Fringe Benefits Tax Assessment Act 1986 to use 50/50 split method
 
-
 <a id="s51AEC-1"></a>
 **(1)** If a taxpayer has made an election under section 152B of the Fringe Benefits Tax Assessment Act 1986:
 

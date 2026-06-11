@@ -1,0 +1,562 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+28 related documents
+Practice Statement Law Administration
+PS LA 2022/1
+Administrative penalties for electronic sales suppression tools
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+1. What is this Practice Statement about?
+1
+2. What is an ESST?
+2
+3. Deciding whether something is an ESST
+3
+4. When does an ESST penalty apply?
+4
+5. When ESST penalties do not apply
+5
+6. Remitting penalties
+6
+7. How do ESST penalties interact with other administrative penalties?
+7
+8. Notifying taxpayers of their penalty
+8
+9. Rights of review
+9
+10. Criminal prosecutions
+10
+11. More information
+11
+APPENDIX A - EXAMPLES
+Appendix A
+This Practice Statement is an internal ATO document and is an instruction to ATO staff.
+This Law Administration Practice Statement provides guidance on the application and remission of administrative penalties for electronic sales suppression tools.
+1. What is this Practice Statement about?
+This Practice Statement provides guidance on the application and remission of administrative penalties for the production, supply, possession and use of an electronic sales suppression tool (ESST). It includes:
+•
+what is an ESST?
+•
+when an ESST penalty applies
+•
+factors to consider when deciding whether to remit an ESST penalty
+•
+notifying a taxpayer of their penalty.
+2. What is an ESST?
+ESSTs are designed to interfere with electronic sales records; that is, they can falsify, manipulate, hide, obfuscate, destroy or prevent the creation of electronic sales records, often without an audit trail showing the interference.
+[1]
+They can take various forms and are constantly evolving, but some examples include:
+•
+software that deletes or modifies point of sale (POS) records
+•
+storage devices (such as back-up drives) containing software that deletes or modifies records
+•
+POS devices with software that deletes or modifies records.
+An ESST may be a device, software program or other thing, a part of any such thing, or a combination of any such things or parts that has the capability and a principal function of interfering with sales records electronically.
+[2]
+Penalties apply for producing, supplying, possessing, and incorrectly keeping records using ESSTs, as well as aiding or abetting another to do so.
+If you discover an entity has possession of or is using an ESST, in addition to considering if a penalty applies, you should work with the entity to ensure that the ESST is removed so the entity will no longer engage in conduct that can attract a penalty.
+3. Deciding whether something is an ESST
+To be an ESST, the tool must both be capable of interfering with a record and one of its principal functions must be to interfere with sales records. A modification or additional features added to a legitimate sales system can be an ESST, even if the device or program as a whole is not.
+[3]
+Records are information in any format that explain an entity's transactions or other actions. Precisely what they are and what form they take depends on the circumstances. They generally include tax invoices, receipts and records of sales and all business transaction information.
+[4]
+An ESST must be capable of interfering with records. Typically, a tool can interfere with records if it can:
+•
+manipulate, falsify or delete the record of transactions
+•
+renumber or recharacterise transactions
+•
+interfere with records without showing an audit trail of the changes.
+A tool passes the capability test for an ESST if it can interfere with a record that:
+•
+an entity is required by a taxation law
+[5]
+to keep or make, and
+•
+has been, or could be, created by a POS system which creates or feeds data into an entity's tax records.
+[6]
+You do not need evidence that the tool has been used to interfere with a record, just that it is 'capable' of doing so.
+In addition to the capability test, a tool must pass the principal function test. It passes this test if a reasonable person would conclude that one of its principal functions is interfering with records that an entity is required to keep under a taxation law.
+The ability to interfere with records does not have to be the sole function of the tool, merely one of its principal functions. For example, a tool which provides storage or record-keeping functionality and also has a capability to interfere with records would meet the principal function test, even if that capability is not currently being used. A tool can be stored and encoded in the POS system or could be located separately.
+The principal function test operates in conjunction with the capability test to ensure that it does not capture legitimate features of POS systems. For example, standard POS systems may allow the user to modify transactions to correct mistakes or to train staff and keep a history log to record all the modifications made. A system would not be an ESST solely because of that function.
+See Example 1 in Appendix A of this Practice Statement for further guidance.
+4. When does an ESST penalty apply?
+An administrative penalty (ESST penalty) applies if an entity engages in the following ESST conduct:
+•
+manufactures, develops, or publishes an ESST
+[7]
+•
+supplies or makes an ESST available for use (or a right to use an ESST)
+[8]
+•
+provides a service to an entity that involves the use of an ESST
+[9]
+•
+acquires, has possession or control of an ESST (or a right to use an ESST)
+[10]
+•
+uses an ESST to keep, make or alter a record, or uses it to prevent a record being kept, made or altered
+[11]
+•
+aids, abets, counsels or procures any of the above conduct.
+[12]
+There are different matters to consider for each penalty (including different penalty unit amounts that apply)
+[13]
+, which are set out separately in this Practice Statement.
+Penalties for producing an ESST
+A penalty applies to each instance an entity manufactures, develops or publishes an ESST.
+[14]
+You should consider the following when determining if a penalty applies for producing an ESST:
+•
+An ESST penalty applies each time an entity manufactures, develops or publishes an ESST. For example, if an entity has published two ESSTs, they may be liable to two penalties.
+•
+An ESST penalty applies when an entity modifies something into an ESST or upgrades an existing ESST (such as a 'software patch'). For example, if an entity has manufactured an ESST then develops an upgrade for it, they may be liable for two penalties.
+•
+It is not necessary that the manufacturer knows or intends for the ESST to be used on records required under Australian taxation law. All that is required is that there is evidence that the ESST meets the capability and the principal function tests.
+An entity is liable to 60 penalty units for each instance a penalty applies.
+See Example 5 in Appendix A of this Practice Statement for further guidance.
+Penalties for supplying an ESST
+A penalty applies to each instance an entity:
+•
+supplies, or makes an ESST available, or grants a right to use an ESST
+[15]
+, or
+•
+provides a service to an entity that involves the use of an ESST.
+[16]
+You should consider the following when determining if a penalty applies for supplying an ESST:
+•
+'Supply' means any form of supply and includes both goods and services.
+[17]
+•
+An entity may be penalised more than once if they supply more than one ESST or provide a service to more than one entity.
+•
+Supplying upgrades or modifications (for example, a software patch) to an ESST is a supply of an ESST. This may also be penalised. For example, if an entity has supplied an ESST and then a later upgrade, they may be liable for two penalties.
+•
+It is not necessary to show the supplier knows or intends for the ESST to be used on records required under Australian taxation law.
+An entity is liable to 60 penalty units for each instance a penalty applies.
+See Example 5 in Appendix A of this Practice Statement for further guidance.
+Penalties for possessing an ESST
+A penalty applies if an entity:
+•
+is required to keep or make a record under a taxation law
+[18]
+(other than an Excise Act
+[19]
+), and
+•
+acquires, or has possession or control of an ESST or a right to use an ESST.
+[20]
+You should consider the following when determining if a penalty applies for possessing an ESST:
+•
+A penalty can only be applied where the entity has record-keeping obligations under a taxation law (see section 3 of this Practice Statement).
+•
+A penalty applies for each different ESST an entity acquires, possesses or controls.
+•
+It is not necessary for the entity to have knowledge that they possess the ESST.
+An entity is liable to 30 penalty units for each instance a penalty applies.
+See Examples 2 to 5 in Appendix A of this Practice Statement for further guidance.
+Penalties for incorrectly keeping records using an ESST
+A penalty applies to an entity where:
+•
+the entity is required under a taxation law (other than an Excise Act) to keep or make a record
+[21]
+•
+the record is
+-
+kept, made, altered with the use of an ESST, or
+-
+prevented by the use of an ESST from being kept, made or altered, and
+•
+as a result of the use, the record does not correctly record and explain the thing it relates to or is not kept or made in accordance with Australian taxation law.
+[22]
+'Use' in this context means that the ESST has interfered with the functions or features of accounting or business systems (which would otherwise produce accurate tax records or accurate inputs to tax records).
+[23]
+This includes where an ESST is used to alter records after they were originally recorded or alters the record as it is first made.
+You should consider the following when determining if a penalty applies for incorrectly keeping records using an ESST:
+•
+A penalty can only apply where an entity has record-keeping obligations under a taxation law.
+•
+Penalties apply to an entity even if they did not use the tool themselves to alter their records, including where a third party used the tool to make the alterations (for example, a tax agent or other service provider).
+Where an ESST is used to alter a group of related records, separate penalties should not be applied for each and every record altered. Rather, it would be appropriate to apply a penalty in relation to the alterations of the records over a relevant period of time. For instance, where sales records are altered that are taken into account in a business activity statement (BAS), a penalty could be applied to the altered records relating to that BAS. It may be appropriate to apply a further penalty if the behaviour extends into periods for which another BAS will be lodged.
+An entity is liable to 60 penalty units for each instance a penalty applies.
+See Examples 3 and 4 in Appendix A of this Practice Statement for further guidance.
+Penalties for aiding and abetting ESST conduct
+An entity that aids, abets, counsels or procures another entity to engage in ESST conduct is liable for:
+•
+60 penalty units if the other entity engages in manufacturing, developing or publishing an ESST
+•
+60 penalty units if the other entity engages in supplying an ESST, or providing a service to an entity that involves the use of an ESST
+•
+30 penalty units if the other entity engages in the possession of an ESST
+•
+60 penalty units if the other entity engages in the incorrect keeping of records using an ESST.
+[24]
+You should consider the following in determining if a penalty applies for aiding and abetting another entity to engage in ESST conduct:
+•
+The penalty for aiding, abetting, counselling or procuring conduct is designed to capture the actions of an entity which result in another entity becoming liable to a penalty.
+•
+You must have evidence that the entity has actually aided, abetted, counselled or procured another entity to engage in the conduct before imposing a penalty on the entity.
+For example, a director of a company in their capacity as an individual may be liable to this penalty where their decisions have resulted in the company procuring an ESST for use.
+See Example 6 in Appendix A of this Practice Statement for further guidance.
+5. When ESST penalties do not apply
+Entities who produce, supply or possess an ESST or aid or abet another entity to produce, supply or possess an ESST are not liable to an administrative penalty if the conduct is undertaken for the purpose of preventing or deterring tax evasion or enforcing a taxation law.
+[25]
+For example, researchers developing an ESST to assist them understanding and conducting training on how the tools function will not be liable to an administrative penalty when they do so for a law enforcement agency.
+An entity will not be liable to an administrative penalty where criminal prosecution has commenced for the same conduct. See section 10 of this Practice Statement for more information.
+6. Remitting penalties
+When an ESST penalty applies, you must consider whether it is appropriate to remit any of the penalty.
+[26]
+This is done by deciding whether the penalty outcome is just and reasonable having regard to the facts and circumstances of the case.
+When making this decision, you may consider whether remission meets:
+•
+the objectives of administrative penalties generally; that is, to encourage entities to take reasonable care in complying with their tax obligations and to promote consistent treatment between all taxpayers, and
+•
+the objectives of the ESST penalty regime in deterring the production, supply, possession and use of ESSTs, which facilitate systemic tax evasion and undermine the integrity of the tax system.
+As such, it may not generally be appropriate to remit a penalty for incorrectly keeping records using an ESST where an entity has deliberately destroyed or omitted records within the period during which they are required to be kept.
+[27]
+Factors that may also be relevant to your remission decision, include but are not limited to:
+•
+whether the entity expected any benefit as a result of the ESST
+•
+the compliance history of the entity, including whether they have previously engaged in any tax evasion-type behaviour
+•
+whether the entity had taken any remedial action and when this occurred (for example, before or after ATO interaction) and whether they cooperated with our investigations
+•
+whether the entity was aware or should have been aware of the existence of the ESST
+•
+whether multiple penalties have arisen from substantially similar conduct
+•
+whether the entity has engaged in more than one instance of prohibited ESST conduct
+•
+whether the imposition of the penalty or penalties provides an unintended or unjust result, such as the total penalty imposed is disproportionate to the conduct. The amount of the penalty alone, without specific reasons why it would be unjust in the taxpayer's particular circumstances, is not considered to be unjust.
+See Examples 2 to 6 in Appendix A of this Practice Statement for further guidance.
+7. How do ESST penalties interact with other administrative penalties?
+When more than one administrative penalty applies to an entity, you should consider whether each penalty results from the same act when making your remission decision. This is because, generally, a person should not be punished more than once for the same act.
+You should consider the facts of the case with care. While in some circumstances it may appear that the penalties result from the same conduct, the conduct may, in fact, consist of separate acts that each result in different penalties.
+For example, when an entity uses an ESST to delete records from their POS system, then uses the falsified records to understate their income on their income tax return, it is not just one act but three separate acts.
+Possessing an ESST is an act that attracts the penalty for possessing an ESST. The subsequent use of the ESST to delete records is a separate act that attracts the penalty for incorrectly keeping records using the ESST. The use of the falsified records to understate income on the income tax return attracts the penalty for making a false or misleading statement.
+Consequently, the three administrative penalties are for different acts.
+See Example 4 in Appendix A of this Practice Statement for further guidance.
+8. Notifying taxpayers of their penalty
+You must give the entity written notice of the penalty and the reasons for the decision where the penalty has not been remitted or where it has been partially remitted.
+[28]
+You must provide the reasons for the decision at the same time or as soon as possible after you give written notice of the penalty.
+You do not have to give notice or reasons for the penalty decision where the penalty has been remitted to nil.
+9. Rights of review
+An entity cannot object to the imposition of an ESST penalty; however, it may object to the remission decision if the penalty payable after the remission decision is more than two penalty units.
+[29]
+The entity may also seek judicial review of the decision if the penalty is not wholly remitted.
+[30]
+10. Criminal prosecutions
+An entity that produces, supplies or possesses an ESST or uses an ESST to incorrectly keep taxation records may be liable for criminal prosecution.
+[31]
+The ATO may seek prosecution of an offence by conducting a criminal investigation and referring the matter to the Commonwealth Director of Public Prosecutions.
+This Practice Statement only covers administrative penalties relating to ESSTs. If you have a case that may be suitable for prosecution, you must follow Chief Executive Instruction
+External Fraud
+and should engage your team leader or technical leader early to discuss the appropriate action.
+Where the ATO initiates a criminal prosecution for an offence, the entity is not liable for an administrative penalty for the same conduct, even if the prosecution is later withdrawn.
+[32]
+11. More information
+For more information, see:
+•
+Taxation Ruling TR 96/7
+Income tax:  record keeping - section 262A - general principles
+•
+Taxation Ruling TR 2018/2
+Income tax:  record keeping and access - electronic records
+•
+Law Administration Practice Statement PS LA 2005/2
+Penalty for failure to keep or retain records
+•
+Law Administration Practice Statement PS LA 2008/14
+Record keeping when using commercial off the shelf software
+•
+Law Administration Practice Statement PS LA 2011/30
+Remission of administrative penalties relating to schemes imposed by subsection 284-145(1) of Schedule 1 to the Taxation Administration Act 1953
+•
+Law Administration Practice Statement PS LA 2012/4
+Administration of the false or misleading statements penalty - where there is no shortfall amount
+•
+Law Administration Practice Statement PS LA 2012/5
+Administration of the false or misleading statement penalty - where there is a shortfall amount
+•
+Chief Executive Instruction
+External fraud
+(link available internally only)
+APPENDIX A - EXAMPLES
+Example 1 - not an ESST - changes are recorded
+Bellissima Beans Café Ltd buys a POS system for their new café. This POS system includes a function to reverse and void transactions. The manufacturer states that this function is for correcting mistakes and generating refunds.
+The POS system records all changes to transactions in its history log. It produces a receipt and marks it as a void transaction. All receipts have sequential transaction numbers so any void transactions with missing receipts can be identified.
+Although this function gives Bellissima Beans Café Ltd the ability to delete and reverse transactions, the POS system creates an audit trail, so a reasonable person would not conclude that one of its principal functions is interfering with records. The POS system is not an ESST.
+Example 2 - possession of an ESST - full remission
+The ATO conducts a routine audit of a bookstore owned by Book Worms Pty Ltd (Book Worms). Bob is the director of this company and runs the bookstore. During the audit, a hidden function within the system allows sales transactions to be deleted or manipulated without leaving a record of the original transaction. As a reasonable person would conclude that one of the primary functions of this system is to interfere with sales records, it is an ESST.
+Bob is surprised to discover that his system has an ESST and explains that he had no idea that it was there. He had bought the bookstore from Keanu in March 2017, who had not mentioned that there was anything unusual about the business or the equipment. He explains that he had not used the ESST and contacts his POS system supplier immediately to ensure ESST capabilities are removed.
+At the conclusion of the audit, no evidence was found that the ESST had been used to alter any of Book Worms' business records. The audit did not result in any amendments to Book Worms' income tax returns or BASs. Book Worms has a good compliance history.
+Notwithstanding the above, Book Worms is liable to an administrative penalty of 30 units for possessing an ESST. It does not matter that Book Worms came into possession of the ESST before the legislation was enacted.
+The case officer considers whether it would be appropriate to remit the penalty in full or in part by taking into account the following facts:
+•
+Book Worms was unaware that it was in possession of an ESST.
+•
+Book Worms complied with all requests made by the audit team and has taken prompt remedial action to remove the ESST after the discovery of the ESST.
+•
+Book Worms has a good compliance history.
+Based on these facts, the case officer considers it appropriate to remit the administrative penalty in full.
+Example 3 - possessing and using an ESST - partial remission
+Jack purchases a POS system with an ESST function and alters his records every day for three months to underreport his sales income. He relies on these altered records to complete and lodge one BAS.
+Jack subsequently disposes of his ESST-enabled POS system and purchases a legitimate POS system. Jack requests that the Commissioner amends his BAS to reflect his actual sales income and pays the resulting debt on time. The ATO then initiates an audit of Jack's business affairs, and the case officer finds evidence of both Jack's possession and use of the ESST.
+Jack is liable to ESST penalties for:
+•
+possessing an ESST (30 penalty units), and
+•
+one instance of incorrectly keeping records using an ESST (60 penalty units).
+The case officer takes into account the following facts and circumstances and considers it would be appropriate to remit the possession penalty by 50%:
+•
+There were no legitimate reasons for Jack to have possessed the ESST.
+•
+Jack undertook remedial action by disposing of the ESST before the ATO initiated any audit action.
+•
+The object of the ESST penalty regime is to deter the possession of ESSTs, which facilitates systemic tax evasion and undermines the integrity of the tax system. Remitting the penalty by 50% is appropriate in the circumstances and is proportionate to the seriousness of the conduct.
+The case officer also considers it appropriate to remit the use penalty by 50%, based on the following facts and circumstances:
+•
+Jack undertook remedial action by requesting an amendment of his BAS before the ATO initiated any audit action.
+•
+While Jack received a financial benefit from the use of the ESST, this was reversed when he requested an amendment on his BAS based on his actual sales income.
+•
+The object of the ESST penalty regime is to deter the use of ESSTs, which facilitates systemic tax evasion and undermines the integrity of the tax system. Applying the penalty acts as a deterrent and is proportionate to the seriousness of the conduct.
+The case officer considers this to be an appropriate remission decision as it reflects the seriousness of the conduct and does not produce an unjust outcome.
+Example 4 - possessing and using an ESST, and making false or misleading statements
+Roberta owns the Hazelnut Cafe. She buys a new POS system from POSsibilities Pty Ltd, which contains an extra feature allowing Roberta to delete or change the value of completed sales without an audit trail. This feature is coded directly into the POS system and can be accessed by a secret menu.
+The hidden program is part of the POS system itself and is an ESST, as a reasonable person would consider that one of its principal functions is to falsify the user's records.
+Roberta uses the ESST to alter her records every day for three months from July 2020. She relies on these altered records to complete and lodge her September quarter BAS.
+Roberta is liable to ESST penalties for:
+•
+possessing an ESST (30 penalty units), and
+•
+incorrectly keeping records using an ESST (60 penalty units).
+Roberta's September BAS is amended based on evidence that the Commissioner holds of what her income and sales were. She is liable to pay the additional tax shortfall and general interest charges. She is also liable to a penalty for making statements which were false or misleading to the Commissioner, based on the records she altered using the ESST. The quantum of the penalty imposed for making statements which were false or misleading is determined separately based on the behaviour involved.
+[33]
+The case officer takes into account the following facts and circumstances when considering whether it would be appropriate to remit the ESST penalties in full or in part:
+•
+Roberta has obtained a benefit from using the ESST as the records she relied on (that had been altered using the ESST) resulted in contrived refunds.
+•
+The penalties do not result from the same conduct, as possessing an ESST and using an ESST are two separate acts.
+•
+The total penalty amount imposed on the entity is not disproportionate to Roberta's circumstances. Roberta possessed and used an ESST to alter records and thereby facilitated tax evasion. Roberta used the records to deliberately make statements to the Commissioner which she knew were false and misleading.
+The case officer considers it appropriate to not remit either penalty, as they reflect the seriousness of the conduct and do not produce an unjust outcome.
+Example 5 - producing and supplying an ESST
+Edith is a sole trader who has manufactured an ESST (the first ESST) and sells it to five separate entities.
+A year later, Edith develops a software patch to improve and upgrade the ESST and provide new features. The software patch is an ESST in its own right. Producing the patch is an act separate to the conduct of producing the first ESST. The case officer does not find any evidence that the software patch has been sold to other entities.
+Edith is liable to 480 penalty units for:
+•
+producing the first ESST (60 penalty units)
+•
+producing the software patch (60 penalty units)
+•
+possessing two ESSTs (60 penalty units), and
+•
+supplying the first ESST to five entities (300 penalty units).
+Producing, possessing and supplying the ESST are separate acts. The manufacture of an ESST involves the actual design and creation of an ESST, possession involves ownership or control, and the supply involves making an ESST available for others to use. In this case:
+•
+The production penalties did not arise from the same conduct. Two separate ESSTs were developed at different times and for different purposes (that is, the original software, then the software patch which was in effect an ESST upgrade).
+•
+The possession penalties did not arise from the same conduct. Two separate ESSTs are in Edith's control.
+•
+The supply penalties did not arise from the same conduct. Edith engaged in five separate acts of supply by selling the first ESST to five different entities.
+The case officer takes into account the following facts and circumstances when considering whether it would be appropriate to remit the penalties in full or in part:
+•
+Edith does not have any history of tax evasion behaviour.
+•
+Edith has benefited financially from the supply of the ESST. She sold each ESST for $2,000 (totalling $10,000).
+•
+The object of the ESST penalty regime is to deter the production, supply and possession of ESSTs, which facilitates systemic tax evasion and undermines the integrity of the tax system.
+The case officer does not consider it appropriate to remit the penalties relating to the production and possession of the two ESSTs. This is because the penalty outcomes are not disproportionate to Edith's actions and will act as a deterrence, consistent with the object of the ESST penalty regime. She has also financially benefitted from her conduct as there was no reason (apart from to facilitate tax evasion) for the production, possession or supply of these ESSTs.
+The case officer does not consider it appropriate to remit the penalties for the supply of five ESSTs, as while it is a substantial penalty outcome, Edith has received significant financial benefit from the supply. The case officer also considers that supplying an ESST facilitates tax evasion and that the penalties in this case provide effective deterrence.
+Example 6 - aiding and abetting the possession and use of an ESST
+An audit of the tax affairs of Poppy Flowers Ltd (Poppy Flowers) identifies that it possessed an ESST and used it to alter records relied on in preparing two BASs. The case team determines that administrative penalties apply to Poppy Flowers for possessing an ESST, and for incorrectly keeping records twice using an ESST.
+The case team also discovers emails that indicate that Poppy Flowers' tax agent, Doug, is involved in the acquisition of the ESST and commenced an audit of Doug's business tax affairs. They find evidence showing that Doug has:
+•
+encouraged Poppy Flowers' directors to obtain and use the ESST
+•
+helped them source the ESST
+•
+provided ongoing support, including how to use the ESST, for the first six months, and
+•
+received a financial benefit from the company for sourcing and providing ongoing support on the use of the ESST.
+Doug is a separate entity to Poppy Flowers. As there is sufficient evidence to show that Doug has aided Poppy Flowers to engage in conduct that gave rise to Poppy Flowers' liability to ESST penalties, Doug is liable to 150 penalty units for aiding Poppy Flowers to:
+•
+possess an ESST (30 penalty units), and
+•
+use the ESST to incorrectly keep records for two BAS lodgments (120 penalty units).
+In addition, Doug is referred to the Tax Practitioners Board for investigation.
+The case officer takes into account the following facts and circumstances when considering whether it would be appropriate to remit the ESST penalties in full or in part:
+•
+Doug has benefitted from aiding Poppy Flowers to possess and use the ESST as he received payment from the company for sourcing the ESST and the ongoing support he gave them in connection with its use.
+•
+The penalties do not result from the same conduct, as aiding possession and aiding use of the ESST are two separate acts.
+•
+The total penalty amount imposed on Doug is not disproportionate in the circumstances. Doug's conduct in aiding the possession and use of an ESST encouraged and facilitated tax evasion.
+The case officer considers it appropriate to not remit either penalty, as they reflect the seriousness of the conduct and do not produce an unjust outcome.
+Amendment history
+Date of amendment
+Part
+Comment
+5 April 2023
+Summary
+Remove the word 'proposed'.
+More information
+Fix the broken link to PS LA 2008/14.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Date of Issue:
+24 February 2022
+Date of Effect:
+24 February 2022
+[1]
+Future use of the terms 'interfere' or 'interfering' should be taken to include 'falsifying, manipulating, hiding, obfuscating, destroying, or preventing the creation of a record'.
+[2]
+Section 8WAB of the
+Taxation Administration Act 1953
+(TAA).
+[3]
+Paragraph 1.27 of the Explanatory Memorandum to the Treasury Laws Amendment (Black Economy Taskforce Measures No.1) Bill 2018.
+[4]
+Section 262A of the
+Income Tax Assessment Act 1936
+and section 382-5 of Schedule 1 to the TAA. All legislative references in this Practice Statement are to Schedule 1 to the TAA unless otherwise specified. For further information, see Law Administration Practice Statement PS LA 2005/2
+Penalty for failure to keep or retain records.
+[5]
+See Appendix 1 of PS LA 2005/2 for a list of record-keeping obligations required by taxation law.
+[6]
+Paragraph 1.34 of the Explanatory Memorandum to the Treasury Laws Amendment (Black Economy Taskforce Measures No. 1) Bill 2018.
+[7]
+Paragraph 288-125(1)(a).
+[8]
+Paragraph 288-125(1)(b).
+[9]
+Paragraph 288-125(1)(c).
+[10]
+Paragraph 288-130(1)(b).
+[11]
+Subsection 288-135(1).
+[12]
+Subsections 288-125(2), 288-130(2) and 288-135(2).
+[13]
+The value of a penalty unit is contained in section 4AA of the
+Crimes Act 1914
+and is indexed regularly. A table containing penalty unit values can be found by searching for 'penalty unit' on
+ato.gov.au
+[14]
+Subsection 288-125(1).
+[15]
+Paragraph 288-125(1)(b).
+[16]
+Paragraph 288-125(1)(c).
+[17]
+Section 8WAB of the TAA provides that 'supply' has the meaning given by section 9-10 of the
+A New Tax System (Goods and Services Tax) Act 1999.
+[18]
+'Taxation law' is defined in subsection 995-1(1) of the
+Income Tax Assessment Act 1997.
+[19]
+'Excise Act' is defined in subsection 4(1) of the
+Excise Act 1901.
+[20]
+Subsection 288-130(1).
+[21]
+The term 'record' has been outlined in section 3 of this Practice Statement.
+[22]
+Subsection 288-135(1).
+[23]
+'Use' is not defined in the legislation and takes its ordinary meaning as 'to employ for some purpose' or 'put into service'; Macmillan Publishers Australia,
+The Macquarie Dictionary
+online,
+www.macquariedictionary.com.au,
+accessed 8 September 2021.
+[24]
+Subsections 288-125(2), 288-130(2) and 288-135(2).
+[25]
+Subsections 288-125(3) and 288-130(3).
+[26]
+Section 298-20.
+[27]
+This is consistent with the penalty for failure to keep or retain records remission principles in paragraph 9 of PS LA 2005/2.
+[28]
+Section 298-20.
+[29]
+Subsection 298-20(3).
+[30]
+A judicial review application may be made in the Federal Court or the Federal Circuit and Family Court under the
+Administrative Decisions (Judicial Review) Act 1977
+or to the Federal Court under section 39B of the
+Judiciary Act 1903.
+[31]
+Subdivision BAA of Division 2 of Part III of the TAA.
+[32]
+Section 8ZE of the TAA.
+[33]
+This should be determined in accordance with the principles in Division 284, PS LA 2012/4 and PS LA 2012/5.
+File  1-SHAEMLY
+Related Rulings/Determinations:
+TR 96/7
+TR 2018/2
+Related Practice Statements:
+PS LA 2005/2
+PS LA 2008/14
+PS LA 2011/30
+PS LA 2012/4
+PS LA 2012/5
+Other References:
+Chief Executive Instruction
+External fraud
+Explanatory Memorandum
+to the Treasury Laws Amendment (Black Economy Taskforce Measures No.1) Bill 2018Macmillan Publishers Australia, The Macquarie Dictionary online,
+www.macquariedictionary.com.au
+Legislative References:
+ANTS(GST)A 1999 9-10
+ITAA 1936 262A
+ITAA 1997 995-1(1)
+TAA 1953 Pt III Div 2
+TAA 1953 8WAB
+TAA 1953 8ZE
+TAA 1953 Sch 1 284-145(1)
+TAA 1953 Sch 1 288-125(1)
+TAA 1953 Sch 1 288-125(1)(a)
+TAA 1953 Sch 1 288-125(1)(b)
+TAA 1953 Sch 1 288-125(1)(c)
+TAA 1953 Sch 1 288-125(2)
+TAA 1953 Sch 1 288-125(3)
+TAA 1953 Sch 1 288-130(1)
+TAA 1953 Sch 1 288-130(1)(b)
+TAA 1953 Sch 1 288-130(2)
+TAA 1953 Sch 1 288-130(3)
+TAA 1953 Sch 1 288-135(1)
+TAA 1953 Sch 1 288-135(2)
+TAA 1953 Sch 1 298-20
+TAA 1953 Sch 1 298-20(3)
+TAA 1953 Sch 1 382-5
+Crimes Act 1914 4AA
+Excise Act 1901 4(1)
+Judiciary Act 1903 39B
+Business Line:
+SD
+ISSN:
+2651-9526
+PS LA 2022/1 history
+Date:
+Version:
+24 February 2022
+Original statement
+You are here
+5 April 2023
+Updated statement
+Back to top

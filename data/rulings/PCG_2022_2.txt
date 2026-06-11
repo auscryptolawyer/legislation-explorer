@@ -1,0 +1,915 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+21 related documents
+Practical Compliance Guideline
+PCG 2022/2
+Section 100A reimbursement agreements - ATO compliance approach
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+There is a Compendium for this document:
+PCG 2022/2EC
+.
+Table of Contents
+Paragraph
+What this Guideline is about
+1
+Background
+8
+Compliance approach
+13
+White-zone arrangements
+16
+Green-zone arrangements
+18
+Green zone: scenario 1 – distribution to individuals who are members of a family
+20
+Green zone: scenario 2 – beneficiary's entitlement received and used by the beneficiary
+22
+Green zone: scenario 3A and 3B – retention of funds by the trustee
+25
+Green zone: scenario 3A – individual beneficiary and retention of funds by the trustee
+26
+Green zone: scenario 3B – company or trust beneficiary and retention of funds by the trustee
+28
+Green zone: scenario 4 – examples described in TR 2022/4 as being an ordinary family or commercial dealing
+30
+Exclusion from the green zone
+32
+Red zone arrangements
+33
+Red zone: scenario 1 – arrangements where the presently entitled beneficiary lends or gifts some or all of their entitlement to another party
+34
+Red zone: scenario 2 – arrangements where trust income is returned to the trust by the beneficiary in the form of assessable income
+36
+Red zone: scenario 3 – arrangements where the presently entitled beneficiary is issued units by the trustee (or related trust) and the amount owed for the units is set-off against the beneficiary's entitlement
+41
+Red zone: scenario 4 – arrangements where the share of net income included in a beneficiary's assessable income is significantly more than the beneficiary's entitlement
+43
+Red zone: scenario 5 – arrangements where the presently entitled beneficiary has losses and is outside the family group
+45
+Red zone: scenario 6 – arrangements subject to a Taxpayer Alert
+48
+Record keeping
+49
+Date of effect
+53
+Appendix – Examples
+56
+Example 1 – arrangement ceased before 1 July 2014
+56
+Example 2 – arrangement continues before and after 1 July 2014
+60
+Example 3 – taxpayer under audit for fraud or evasion
+65
+Green-zone arrangements
+69
+Example 4 – funds used for family purposes
+69
+Example 5 – time lag between a beneficiary becoming presently entitled and that entitlement being satisfied
+76
+Example 6 – time lag between a loss trustee beneficiary becoming presently entitled and that entitlement being satisfied
+85
+Example 7 – use of funds condition and part-payment of unpaid present entitlement
+95
+Example 8 – distributions from a family business
+103
+Example 9 – distributions involving a trustee undertaking a farming business
+110
+Example 10 – testamentary trust
+120
+Example 11 – use of funds condition and unpaid present entitlement
+126
+Example 12 – trustee retains funds and services loan agreement
+134
+Example 13 – distributions to a company beneficiary with tax losses
+143
+Red-zone arrangements
+153
+Example 14 – amounts provided to the parent in respect of expenses incurred before the beneficiary turns 18 years of age
+153
+Example 15 – non-resident beneficiary makes a loan or gift to another party
+162
+Example 16 – the presently entitled beneficiary is issued units by the trustee (or related trust) and the amount owed for the units is set-off against the beneficiary's entitlement
+171
+Example 17 – the share of net income included in a beneficiary's assessable income is significantly more than the beneficiary's entitlement
+180
+Example 18 – the presently entitled beneficiary has losses
+190
+Relying on this Guideline
+This Practical Compliance Guideline sets out a practical administration approach to assist taxpayers in complying with relevant tax laws. Provided you follow this Guideline in good faith, the Commissioner will administer the law in accordance with this approach.
+What this Guideline is about
+1. The use of trusts as business and investment vehicles in Australia is common. We recognise that most trustees appropriately comply with their obligations. The purpose of this Guideline is to support trustees with managing their compliance risks with respect to section 100A of the
+Income Tax Assessment Act 1936
+[1]
+, a tax law integrity provision.
+2. This Guideline sets out how we differentiate risk and how we manage that risk through our compliance approach for a range of trust arrangements to which section 100A may potentially apply. We aim to give you more certainty by setting out how we will engage with you; in particular, how we:
+(a)
+assess the level of risk regarding trust distribution arrangements based on a risk framework
+(b)
+determine the level of engagement you can expect from us, and
+(c)
+will allocate compliance resources to consider section 100A.
+3. This Guideline uses 3 coloured zones to denote risk ratings. Table 1 at paragraph 13 of this Guideline summarises each of these zones and the corresponding compliance approach. The Appendix to this Guideline contains examples of how to apply the risk zones.
+4. This Guideline is designed to give you confidence that, if your circumstances align with the principles in the white zone or green zone set out in this Guideline, we will not allocate compliance resources to test the tax outcomes of your arrangement, except to confirm that your arrangements meet the requirements of the zone.
+5. This Guideline will be updated from time to time to reflect modifications to our risk framework.
+6.
+Note:
+This Guideline does not replace, alter or affect the ATO's interpretation of the law in any way. It complements, and should be read together with, Taxation Ruling TR 2022/4
+Income tax: section 100A reimbursement agreements,
+which sets out the ATO's interpretative position on the application of section 100A. This means that if, under this Guideline, we allocate compliance resources to consider section 100A, our consideration of section 100A will be in accordance with our interpretation set out in TR 2022/4.
+7. We have published further guidance about section 100A that complements this Guideline on our website.
+Background
+8. Section 100A may be relevant to a broad range of arrangements involving a beneficiary's present entitlement to trust income.
+9. Where a beneficiary's present entitlement
+[2]
+has arisen from a reimbursement agreement, the beneficiary is deemed not to be, and never to have been, presently entitled to the relevant trust income. In these cases, section 100A generally applies to make the trustee, rather than the presently entitled beneficiary, liable to tax at the top marginal rate. One element of the definition of a reimbursement agreement is that the entitlement has arisen out of, or in connection with, an agreement, arrangement or understanding that provides for a payment or benefit to another person.
+[3]
+10. There is no reimbursement agreement and section 100A will not apply to a beneficiary's present entitlement to trust income where any of the following apply:
+(a)
+The beneficiary is under 18 years of age or otherwise under a legal disability.
+(b)
+Only the beneficiary benefits from their trust entitlement and no one else benefits from the beneficiary's share of trust net income and trust capital gains.
+(c)
+There was no agreement, arrangement or understanding to provide a benefit to someone other than the beneficiary at the time the beneficiary became presently entitled.
+11. An agreement is not a reimbursement agreement where it has been entered into in the course of ordinary family or commercial dealing.
+[4]
+The Commissioner's view in TR 2022/4 is that ordinary family or commercial dealing is a dealing explained by the family or commercial objectives it will achieve. If the objective of a dealing can be explained as the payment of less tax to maximise group wealth, rather than a family or commercial objective, it is not an ordinary family or commercial dealing.
+12. For example, an agreement that includes the creation of a present entitlement to funds that are retained by a trustee will satisfy some of the basic elements of a reimbursement agreement, as it will involve a present entitlement and the provision of a benefit to the trustee. However, whether such an agreement is a reimbursement agreement will depend on whether it meets the other elements of a reimbursement agreement. This will include a consideration of whether it was entered into in the course of ordinary family or commercial dealing (in which case it is not a reimbursement agreement).
+[5]
+This consideration will be undertaken against a background which acknowledges that it is regular for the controllers of an entity that conduct income-earning activities to re-invest in that entity so that it can derive further income.
+Compliance approach
+13. Table 1 of this Guideline describes our compliance approach for arrangements to which section 100A may apply.
+Table 1: Compliance approach
+Risk level
+Risk zone
+Desription and compliance approach
+Low risk
+White zone
+The white zone applies to arrangements entered into in income years that ended prior to 1 July 2014.
+Except as described at paragraph 16 of this Guideline, we will not dedicate new compliance resources to consider the application of section 100A to arrangements in the white zone.
+Low risk
+Green zone
+The green zone applies to arrangements that are described in paragraphs 20 to 30 of this Guideline.
+We will not dedicate compliance resources to consider the application of section 100A to arrangements in the green zone, other than to confirm that the features of the relevant scenario are present in your circumstances.
+High risk
+Red zone
+The red zone applies to arrangements that are described in paragraphs 34 to 48 of this Guideline
+Arrangements in this zone will attract our attention and we will conduct further analysis on the facts and circumstances of your arrangement as a matter of priority.
+If further analysis confirms the facts and circumstances of your arrangement are high risk, we may proceed to audit where appropriate.
+14. This Guideline does not provide guidance on our compliance approach to arrangements outside of the zones. For arrangements not within the white, green or red zones, the following principles can be used to guide you as to whether your arrangement has a higher risk of the ATO dedicating compliance resources to consider the application of section 100A:
+(a)
+a benefit is provided to a person other than the beneficiary
+(b)
+the provision of that benefit involves complexity or contrivance
+(c)
+that benefit could have been provided in a more direct manner, and
+(d)
+the arrangement results in significantly less tax being paid compared to if the benefit had been provided more directly.
+15. Where your arrangement is not within the zones in this Guideline, this does not mean that there is a high risk of section 100A applying. Where an arrangement that is not in the green zone is subject to compliance activities, we may engage with you to better understand your arrangement, including the risk of section 100A applying.
+16. We will not commence new compliance activities to consider the application of section 100A for income years ended before 1 July 2014, unless it is outside the green zone and:
+(a)
+we are otherwise considering your income tax affairs for those years
+[6]
+, or
+(b)
+you have entered into an arrangement that continues before and after that date.
+17. See Example 1 of this Guideline for an example of a white-zone arrangement. Example 2 of this Guideline illustrates an arrangement that continues before and after 1 July 2014. See Example 3 of this Guideline for an arrangement that commenced before 1 July 2014 but is not a white-zone arrangement.
+18 We will not dedicate compliance resources to consider the application of section 100A to green-zone arrangements, other than to confirm that the features of the relevant scenario are present in your circumstances. If you choose to rely on this Guideline, you should document how your circumstances meet the requirements for the green zone.
+19. All green-zone scenarios in this Guideline proceed on the basis that none of the exclusions listed in paragraph 32 of this Guideline are present.
+Green zone: scenario 1 – distribution to individuals who are members of a family
+20. An individual beneficiary is made presently entitled to income of the trust estate, none of the exclusions listed in paragraph 32 of this Guideline are present and the funds are paid to the beneficiary (including to a jointly-held account) and used to:
+(a)
+benefit the beneficiary, the beneficiary's spouse or dependants; for example, to meet household expenditure
+(b)
+make personal contributions to a superannuation fund, or
+(c)
+make a donation to a deductible gift recipient.
+21. Diagram 1 of this Guideline illustrates circumstances within the scope of this scenario.
+Diagram 1
+Green zone: scenario 2 – beneficiary's entitlement received and used by the beneficiary
+22. A beneficiary is made presently entitled to income of the trust estate and both of the following are satisfied:
+(a)
+the beneficiary receives their entitlement within 2 years of becoming presently entitled and the beneficiary uses the entitlement
+(b)
+none of the exclusions set out in paragraph 32 of this Guideline are present.
+23. For the purposes of this scenario:
+(a)
+A beneficiary receives their entitlement to the extent that their entitlement is either paid to them or applied on their behalf.
+(b)
+A beneficiary uses the entitlement where that entitlement is kept or used to purchase goods or services, to meet liabilities or expenses, or invested for the beneficiary, their spouse or dependants. A beneficiary that is a trustee or company also uses their entitlement by making a distribution to their beneficiaries or members respectively.
+(c)
+A beneficiary does not use the entitlement where the use involves
+(i)
+a trustee retention of funds (as covered by Green zone: scenarios 3A or 3B) beyond 2 years of the date when the beneficiary was made presently entitled, or
+(ii)
+an investment or other transaction with another related party where the consideration or amount paid by the beneficiary exceeds market value or the terms are not commercial.
+24. While this scenario describes a low-risk scenario, failure to satisfy this scenario due to a beneficiary's entitlement remaining unpaid after 2 years in itself does not mean there is a high risk of section 100A applying.
+Green zone: scenarios 3A and 3B – retention of funds by the trustee
+25. For the purposes of these scenarios:
+(a)
+Trustee retention of funds
+refers to the beneficiary allowing the trustee to retain funds that the beneficiary would otherwise receive in satisfaction of their entitlement by
+(i)
+not yet calling for that entitlement to be satisfied and leaving it unpaid, or
+(ii)
+lending the funds representing their entitlement back to the trustee.
+(b)
+There is no trustee retention of funds if and to the extent that
+(i)
+the retention of funds ends within 2 years of the date when the beneficiary was made presently entitled, or
+(ii)
+the beneficiary's entitlement is satisfied and subsequently made available to the trustee by way of dividend or distribution.
+(c)
+The
+trustee working capital condition
+means that the trustee (in its capacity as trustee and as permitted by the trust instruments) only uses or holds the funds that represent the beneficiary's entitlement in one or more of the following ways
+[7]
+(i)
+in the working capital of a business that it actively carries on
+(ii)
+for the acquisition, maintenance or improvement of investment assets of the trust, or servicing of debt used to acquire, maintain or improve those assets
+(iii)
+to lend the funds to another entity within the family group on commercial terms where the borrowing entity uses the funds in a way that satisfies subparagraphs 25(c)(i) or (ii) of this Guideline.
+(d)
+The trustee working capital condition is not satisfied if an arrangement provides a benefit (other than by way of a loan covered by paragraph 25(c) of this Guideline) to a person or persons other than the beneficiary. For example, a trust investment asset is made available for use by someone other than the beneficiary, their spouse or their dependants, for less than market value consideration.
+(e)
+A loan is on
+commercial terms
+if
+(i)
+the rate of interest is at least equivalent to the benchmark interest rate for the purposes of Division 7A (whether or not Division 7A applies to the arrangement)
+(ii)
+the term of the loan does not exceed 7 years, and
+(iii)
+the loan requires repayment on terms no more favourable (to the borrower) than the minimum yearly repayment formula in subsection 109E(6) (whether or not the provision applies to the arrangement).
+(f)
+A beneficiary or entity is a member of the same
+family group
+as the trust where
+(i)
+the trust has made a family trust election (FTE)
+[8]
+, the beneficiary or entity is an eligible member of the specified individual's family group, as defined in section 272-90 of Division 272 of Schedule 2F
+(ii)
+no FTE has been made, the beneficiary or entity is a company or trustee that is controlled by either an individual who also controls the trust or that individual's spouse.
+(g)
+Despite paragraph 25(f) of this Guideline, where a beneficiary is a trustee of a trust that is taken to have capital gains under section 115-215 of the
+Income Tax Assessment Act 1997
+(ITAA 1997) as a result of its trust entitlement, and that beneficiary has capital losses or carried forward capital losses, then that beneficiary will only satisfy the requirement in paragraph 28(c) of this Guideline if the beneficiary either
+(i)
+made an FTE that commenced before it made the capital loss and carried forward capital loss, and the beneficiary is also an eligible member of the specified individual's family group in respect of the FTE made for the distributing trust, or
+(ii)
+has been continuously controlled by either an individual who also controls the distributing trust or that individual's spouse since just before the beneficiary made the capital loss and carried forward capital loss.
+(h)
+An individual controls the trust where either the trustee will act in accordance with the wishes of the individual or the individual can appoint and remove the trustee.
+Green zone: scenario 3A – individual beneficiary and retention of funds by the trustee
+26. A beneficiary, being an individual, is made presently entitled to income of the trust estate and all of the following apply:
+(a)
+there is a 'trustee retention of funds'
+[9]
+(b)
+the trustee working capital condition
+[10]
+is satisfied
+(c)
+none of the exclusions set out in paragraph 32 of this Guideline are present
+(d)
+either
+(i)
+the individual or their spouse (or both) is a trustee of the trust or controls the trustee of the trust, or
+(ii)
+the individual is employed in the management of a business that the trustee conducts.
+27. Diagram 2 of this Guideline illustrates the circumstances within the scope of this scenario.
+Diagram 2
+Green zone: scenario 3B – company or trust beneficiary and retention of funds by the trustee
+28. A beneficiary, being a trustee or company, is made presently entitled to income of the trust estate and all of the following apply:
+(a)
+there is a trustee retention of funds
+[11]
+(b)
+the beneficiary is not an exempt entity
+(c)
+the beneficiary is a member of the same family group as the trustee of the trust estate who has made the FTE
+(d)
+the trustee working capital condition
+[12]
+is satisfied
+(e)
+none of the exclusions set out in paragraph 32 of this Guideline are present, and
+(f)
+the terms on which the entitlement is made available for a trustee retention of funds is by way of loan on commercial terms.
+29. Diagram 3 of this Guideline illustrates circumstances within the scope of this scenario.
+Diagram 3
+Green zone: scenario 4 – examples described in TR 2022/4 as being an ordinary family or commercial dealing
+30. Arrangements that are relevantly identical to an example in Appendix 2 of TR 2022/4 which concludes that the arrangement would likely be entered into in the course of ordinary family or commercial dealing.
+[13]
+31. Examples 4 to 13 in the Appendix to this Guideline illustrate the scenarios that are green-zone arrangements.
+Exclusion from the green zone
+32. Arrangements are not in the green zone if they have one or more of the following features:
+(a)
+the arrangement is a red-zone arrangement (see paragraphs 34 to 48 of this Guideline)
+(b)
+the beneficiary makes a gift of the funds received either in satisfaction of their trust entitlement or from an associated amount (an example of an associated amount includes where the unpaid present entitlement (UPE) was converted into a loan) except where the gift meets the requirement of Green zone: scenario 1
+(c)
+the beneficiary disclaims their entitlement or forgives or releases the trustee from its obligation to pay their trust entitlement or an associated amount receivable from the trust (an example of an associated amount is where the UPE was converted into a loan)
+(d)
+the beneficiary's entitlement is less than the beneficiary's share of net income, franked dividends of the trust and trust capital gains as a result of the trustee exercising a power, or the deed being amended or varied, to affect the quantum of income of the trust estate
+(e)
+a beneficiary's trust entitlement is satisfied by payments that are sourced from that beneficiary, or a beneficiary's trust entitlement has been made subject to a loan agreement and the repayments of that loan are sourced from payments or loans from that beneficiary; examples include where a trustee
+(i)
+satisfies a corporate beneficiary's UPE or makes a loan repayment to that corporate beneficiary by way of set-off against a dividend paid by that corporate beneficiary
+(ii)
+issues units in the trust to the beneficiary and the amount owed for the units is set-off against the amount payable by the trust to the beneficiary, or
+(iii)
+satisfies a beneficiary's entitlement or satisfies a loan repayment to that corporate beneficiary by way of set-off against that trustee's entitlement to income of another trust that includes franked distributions paid by that corporate beneficiary
+(f)
+the beneficiary is a loss company or loss trust
+[14]
+that uses its trust entitlement to fund a distribution to its members and that distribution compromises the ability of the beneficiary to repay its existing or future liabilities
+(g)
+the beneficiary is a private company that uses its trust entitlement to fund a distribution that is made directly or indirectly to a non-resident
+(h)
+the beneficiary is a private company or trust that uses its trust entitlement to fund a distribution that is made directly or indirectly to the trustee that made the beneficiary presently entitled to income
+(i)
+the trustee has not notified the beneficiary of their entitlement to trust income by the earlier of the trustee's due date and actual date of lodgment
+(j)
+where the beneficiary that is presently entitled to trust income in a year is required to lodge a tax return for that year, either the
+(i)
+beneficiary has not lodged, or
+(ii)
+the beneficiary has understated or omitted in that tax return their share of the trust net income, trust capital gains or franked dividends received from the trust
+(k)
+the beneficiary uses the trust entitlement to pay excessive consideration where the parties are not dealing at arm's length.
+33. When an arrangement is described in the red zone, it does not necessarily mean that section 100A applies to the arrangement. The relevance of an arrangement being in the red zone means that it attracts our attention and we will dedicate compliance resources to consider the application of section 100A as a matter of priority. Section 100A will be considered in accordance with our view of how it applies, as set out in TR 2022/4.
+Red zone: scenario 1 – arrangements where the presently entitled beneficiary lends or gifts some or all of their entitlement to another party
+34. An individual adult beneficiary is made presently entitled to income of the trust estate and any of the following apply:
+(a)
+funds that represent the entitlement are paid to the parent or other caregiver of the beneficiary in connection with expenses incurred by the parent or the caregiver before the beneficiary turned 18 years of age
+(b)
+the trustee applies the funds that represent the entitlement against a debit balance account for the beneficiary (for example, an amount recorded in the trust's accounts as a loan) representing expenses incurred by the trustee in respect of the beneficiary before they turned 18 years of age
+(c)
+the beneficiary is a non-resident relative of the resident controller of the trust and the funds that represent the entitlement are made available to a resident taxpayer by way of loan or gift.
+35. Examples 14 and 15 in the Appendix to this Guideline illustrate this scenario.
+Red zone: scenario 2 – arrangements where trust income is returned to the trust by the beneficiary in the form of assessable income
+36. A private company beneficiary is made presently entitled to income of the trust estate, and all of the following features are present:
+(a)
+the trustee of a trust owns shares in the private company
+(b)
+the trustees, or directors of the trustee company, and the directors of the beneficiary private company are the same (or related) individuals
+(c)
+the private company includes its share of the trust's net income in its assessable income for the income year in which it became entitled and pays tax at the corporate rate
+(d)
+the private company pays a fully franked dividend to the trustee in the subsequent income year, sourced from the trust income, and the dividend forms part of the trust income and net income in that subsequent income year
+(e)
+the trustee makes the private company presently entitled to all, or part of, the trust income (represented by the dividend paid by the company at paragraph 36(d) of this Guideline) at the end of that subsequent income year
+(f)
+the preceding steps are repeated in the next subsequent years.
+37. An arrangement where a trust receives a dividend that is not sourced from income of that trust, is outside this scenario.
+38. Diagram 4 of this Guideline illustrates the circumstances within the scope of this scenario.
+Diagram 4
+39. The arrangement is unusual, cannot be explained by any commercial objective and appears to be more properly explained by the objective of reducing the tax that would otherwise have been payable had the trustee simply accumulated the income.
+40. Example 12 of TR 2022/4 illustrates this scenario.
+Red zone: scenario 3 – arrangements where the presently entitled beneficiary is issued units by the trustee (or related trust) and the amount owed for the units is set-off against the beneficiary's entitlement
+41. A trustee of a closely held trust
+[15]
+sets off a beneficiary's UPE against an amount the trustee is owed by the beneficiary, being the subscription price to acquire units, and either of the following apply:
+(a)
+the subscription price of the units is greater than their market value (the market value of the units being determined by reference to the rights and obligations attached to the units and the terms of the trust deed)
+(b)
+the trust instruments provide the trustee with a unilateral right to issue new units in satisfaction of a UPE.
+42. Example 16 in the Appendix to this Guideline illustrates this scenario.
+Red zone: scenario 4 – arrangements where the share of net income included in a beneficiary's assessable income is significantly more than the beneficiary's entitlement
+43. The share of trust net income included in a beneficiary's assessable income, together with the beneficiary's share of franked distributions
+[16]
+and capital gains
+[17]
+of the trust, is significantly more than the beneficiary's entitlement to income of the trust estate, and all of the following apply:
+(a)
+The difference between the beneficiary's entitlement and the beneficiary's share of net income, trust capital gains and trust franked distributions (other than a difference that is merely due to franking credits) is the result of deliberate actions that affect the computation of trust distributable income and that are directed at causing there to be a difference. Examples of actions include amending or varying a trust deed, a trustee determining what is income and capital of the trust, or choosing to undertake a transaction or arrangement in order to create a difference.
+(b)
+Some or all of the amount reflecting that difference has accrued to, or been retained by, an entity other than the presently entitled beneficiary.
+(c)
+The tax paid by the beneficiary on their share of the trust net income is significantly less than the tax that would have been paid by the entity who accrues or retains the amount, had that entity been assessed on that share of net income instead.
+44. Example 17 in the Appendix to this Guideline illustrates this scenario.
+Red zone: scenario 5 – arrangements where the presently entitled beneficiary has losses and is outside the family group
+45. A beneficiary's taxable income is less than the share of trust net income included in the beneficiary's assessable income or the beneficiary's net capital gain is less than the beneficiary's share of trust capital gains.
+46. This scenario will not apply to a beneficiary's present entitlement to trust income where:
+(a)
+the beneficiary's taxable income is less than the beneficiary's share of the trust net income due to a tax depreciation measure
+[18]
+(b)
+a green-zone scenario described in this Guideline would otherwise be satisfied in respect of the entitlement, or
+(c)
+the beneficiary is in the same family group as described in paragraph 25(f) of this Guideline, as the distributing trust.
+47. Example 18 in the Appendix to this Guideline illustrates this scenario.
+Red zone: scenario 6 – arrangements subject to a Taxpayer Alert
+48. An arrangement that is the subject of a Taxpayer Alert where the Commissioner expresses a concern that section 100A applies.
+[19]
+Record keeping
+49. You should prepare and keep good records that explain the transactions that have happened. Having a clear understanding as to why a beneficiary has chosen to deal with their entitlement in the way they have and knowledge of the relevant parties to the transaction or arrangement will help support your position. It will also assist in the timely resolution of any compliance activity we undertake.
+50. While each arrangement depends on its facts, the following documents and records are important and should be kept wherever possible:
+(a)
+the trust deed (including amendments), trustee resolutions and contact details of the trustee and former trustees
+(b)
+notes, contemporaneous documents and records of discussions or meetings explaining the transactions that have happened or calculations that have been made
+(c)
+details of how the beneficiary was notified of their present entitlement to trust income
+(d)
+details of how the present entitlement to trust income was satisfied and, where practical, used by the beneficiary
+(e)
+details of how the trustee utilised the underlying funds; for example, to satisfy the trustee retention of funds or the trustee working capital condition referred to in paragraph 25 of this Guideline
+(f)
+copies of loan agreements and records showing how the loan repayments were satisfied from time to time.
+51. We acknowledge that family arrangements are typically conducted with a greater level of informality than dealings between unrelated parties. Nonetheless, to the extent possible, the trustee or their registered tax agent should maintain contemporaneous records that are ordinarily created which demonstrate the objectives an arrangement was intended to achieve and how it would achieve them. For example, this could be in the form of a file note of a meeting between the trustee and registered tax agent.
+52. The maintenance of contemporaneous records by the trustee is part of good governance arrangements for managing the trust's affairs and dealing with the ATO. Notwithstanding that an arrangement is fully documented, section 100A may still apply, particularly where the arrangement is contrived or artificial, is overly complex or has tax-driven features so that the dealings cannot be explained by ordinary family or commercial purposes.
+[20]
+Date of effect
+53. This Guideline applies to present entitlements to income of a trust estate arising before and after its date of issue.
+54. For entitlements arising before 1 July 2022, the Commissioner will stand by the administrative position in
+Trust taxation – reimbursement agreement
+, which was first published on our website in July 2014, to the extent it is more favourable to the taxpayer's circumstances than this Guideline.
+55. In addition, we will not dedicate compliance resources to consider the application of section 100A to an entitlement arising before 1 July 2022 where you demonstrate to us that:
+(a)
+your arrangement satisfies the white zone, or
+(b)
+you have taken reasonable care in applying the administrative position in
+Trust taxation – reimbursement agreement
+to determine that section 100A does not apply to that arrangement.
+Commissioner of Taxation
+8 December 2022
+Appendix – Examples
+Arrangements that commenced before 1 July 2014
+Example 1 – arrangement ceased before 1 July 2014
+56.
+Reformed Trust acquires investment assets. Xavier Co is the trustee of Reformed Trust. Mr Xavier is a beneficiary of Reformed Trust and the sole director of Xavier Co.
+57.
+In income years ending before 1 July 2014, Reformed Trust and Mr Xavier entered into arrangements in relation to present entitlements conferred on Mr Xavier which are red-zone arrangements in this Guideline.
+58.
+Reformed Trust and Mr Xavier changed the nature of their arrangements in relation to present entitlements conferred on Mr Xavier from the 2014-15 income year onward. None of the exclusions in paragraph 16 of this Guideline apply.
+59.
+The entitlements conferred in income years before 1 July 2014 are white-zone arrangements and we will not dedicate new compliance resources to consider the application of section 100A to them. The risk rating of the arrangement modified in July 2014 would need to be tested separately.
+Example 2 – arrangement continues before and after 1 July 2014
+60.
+Zed Co is a resident company that acts as the trustee of Zed Family Trust.
+61.
+Mr Zed, a resident individual, is the controller of Zed Family Trust given that he is both the appointor of Zed Family Trust and he is the sole director of Zed Co.
+62.
+Between the 2012-13 and 2019-20 income years, the trustee of Zed Family Trust has been paid $300,000 franked dividends each year. In each of these income years, the dividend income was appointed by Zed Co as trustee to Ms Lee, a non-resident beneficiary who is the sister-in-law of Mr Zed.
+63.
+Ms Lee's entitlements to the dividend income remains unpaid while Zed Co has permitted Mr Zed to use the corresponding dividend receipts of the trust to both meet his personal expenses and to repay debt that he owes to other private companies that he controls. The arrangement is not within the green zone.
+64.
+The arrangement is not in the white zone as the arrangement commenced before 1 July 2014 and continued after that date. That is, the arrangement in respect of Ms Lee's present entitlement to trust income for 2012-13 and 2013-14 income years appears to have continued into the 2014-15 and following income years.
+Example 3 – taxpayer under audit for fraud or evasion
+65.
+The ATO is undertaking an audit of Cash Discount Trust for the period 1 July 2010 to 30 June 2014.
+66.
+The focus of the audit is the understatement of the assessable income of Cash Discount Trust, with the trustee of Cash Discount Trust having omitted significant cash receipts from its reported assessable income as a result of evasion.
+67.
+During the course of the audit, the ATO ascertains that the beneficiaries used their trust entitlements to make gifts in each year under audit. The recipient of the gifts is the beneficiaries' mother who controls Cash Discount Trust. The arrangement satisfies the criteria of Red zone: scenario 1.
+68.
+The arrangement is not in the white zone as we are otherwise considering the income tax affairs of Cash Discount Trust in connection with evasion that resulted in understating of net income in the trust tax returns.
+Green-zone arrangements
+Example 4 – funds used for family purposes
+69.
+Greater Trust is a discretionary trust controlled by Ms Great. The beneficiaries of Greater Trust include Ms Great, her spouse Mr Better and members of their extended family. The trustee of Greater Trust is Greater Pty Ltd. The director and shareholder of Greater Pty Ltd is Ms Great.
+70.
+Greater Trust holds a number of investment assets.
+71.
+Ms Great and Mr Better have 2 children – Hubert (aged 15) and Violet (aged 17).
+72.
+On 30 June 2023, the trustee of Greater Trust makes a determination to appoint 50% of the trust income to Ms Great and appoint 50% to Mr Better. Funds representing the entitlement are paid to a bank account jointly held by Ms Great and Mr Better. The funds are subsequently used for purposes which benefit both of them and their children.
+73.
+Diagram 5 of this Guideline illustrates the facts in this Example.
+Diagram 5
+74.
+We would not dedicate compliance resources to the arrangement in this Example, on the basis that it meets the conditions in Green zone: scenario 1 of this Guideline and it does not have any features that excludes it from the green zone under paragraph 32 of this Guideline. The entitlements were used for joint family purposes and to benefit the beneficiaries' dependent children.
+75.
+The facts of this Example should be contrasted with Red zone: scenario 1 and Example 14 of this Guideline, both of which describe situations when an arrangement involving children of a beneficiary will be high risk.
+Example 5 – time lag between a beneficiary becoming presently entitled and that entitlement being satisfied
+76.
+Tortoise Trust holds a number of investment assets and is controlled by Mr Hare Senior.
+77.
+On 30 June 2023, the trustee of Tortoise Trust makes a determination to appoint 100% of the trust income to Mr Hare Junior.
+78.
+On 15 March 2024, the trustee of Tortoise Trust finalises its accounts for the 2022-23 income year. In doing so, the trustee ascertains that the amount of trust income to which Mr Hare Junior is presently entitled for the 2022-23 income year is $120,000.
+79.
+On 18 March 2024, Mr Hare Junior is informed by the trustee of Tortoise Trust as to the amount of his trust entitlement.
+80.
+On 31 March 2024, Mr Hare Junior lodges his 2022-23 tax return and includes his trust entitlement of $120,000 from Tortoise Trust in his assessable income. That same day, he calls for a $30,000 part-payment of his trust entitlement, which is then paid by Tortoise Trust so that Mr Hare Junior can pay his tax liability.
+81.
+By 30 April 2025 (which is within 2 years of the entitlement being conferred), Mr Hare Junior has received the $90,000 balance of the $120,000 from the trustee of Tortoise Trust in satisfaction of Mr Hare Junior's trust entitlement for the 2022-23 income year.
+82.
+Mr Hare Junior uses the funds representing his trust entitlement to invest in a new florist business he has commenced as a sole trader.
+83.
+Prior to satisfying Mr Hare Junior's trust entitlement, the $120,000 income receipts had been retained by the trustee of Tortoise Trust as part of the investment portfolio maintained by the trustee.
+84.
+We would not dedicate compliance resources to this arrangement as it meets the conditions in Green zone: scenario 2 of this Guideline and the arrangement does not have any features that excludes it from the green zone under paragraph 32 of this Guideline.
+Example 6 – time lag between a loss trustee beneficiary becoming presently entitled and that entitlement being satisfied
+85.
+Doctor Evergreen controls and is a beneficiary of both Top Trust and Bottom Trust.
+86.
+Doctor Evergreen is the specified individual in the FTEs made by each of the trustees of Top Trust and Bottom Trust.
+87.
+Top Trust undertakes investment activities.
+88.
+Bottom Trust undertakes a business that has prior year tax losses, with the trustee of Bottom Trust indebted to other parties – the debts arose in the course of carrying on the business.
+89.
+For the 2022-23 income year, the trustee of Top Trust appoints all the income of that trust to Bottom Trust.
+90.
+On 30 September 2023, the trustee of Top Trust finalises its accounts for the 2022-23 income year and ascertains that the unpaid trust entitlement owing to the trustee of Bottom Trust is $250,000 for that year. The trustee of Bottom Trust is informed of the amount of its trust entitlement on the same day.
+91.
+On 31 October 2023, the trustee lodges the trust tax return for Bottom Trust and includes the $250,000 as assessable income. Bottom Trust has nil taxable income as its deductions exceed its assessable income.
+92.
+On 1 December 2023, the trustee of Top Trust receives cash in respect of a 6-month interest-bearing term deposit that has matured. $250,000 is transferred by the trustee of Top Trust into the bank account of Bottom Trust in satisfaction of the entitlement (which is within 2 years of when the beneficiary was made presently entitled).
+93.
+The trustee of Bottom Trust uses the $250,000 in first repaying debts incurred in carrying on the business it undertakes and uses the balance to make a capital distribution to the beneficiaries.
+94.
+We would not dedicate compliance resources to this arrangement as it meets the conditions in Green zone: scenario 2 of this Guideline and the arrangement does not have any features that exclude it from the green zone under paragraph 32 of this Guideline.
+Example 7 – use of funds condition and part-payment of unpaid present entitlement
+95.
+Homewares Trust is a discretionary trust controlled by Ms Retail. The trustee of Homewares Trust is Homewares Pty Ltd (and all references to Homewares Pty Ltd are in that capacity). The director and shareholder of Homewares Pty Ltd is Ms Retail. The beneficiaries of Homewares Trust include Ms Retail, her spouse Mr Retail and members of their extended family.
+96.
+Homewares Trust carries on a retail business selling homewares.
+97.
+On 30 June 2023, Homewares Pty Ltd resolves to appoint 50% of the trust income to Ms Retail and to appoint the remaining 50% to Mr Retail.
+98.
+Mr Retail and Ms Retail use some of their trust entitlements for the 2022-23 income year to meet their personal expenses during the 2023-24 income year. The balance of their entitlements remain unpaid and are used to supplement the working capital of the business carried on by Homewares Trust.
+99.
+Diagram 6 of this Guideline illustrates the facts in this Example.
+Diagram 6
+100.
+Ms Retail and Mr Retail expect to be paid the remainder of their entitlements but they have no firm plans on the timing of payment. They allow the trustee to use those funds in the homewares business for working capital purposes.
+101.
+Funds representing Ms Retail and Mr Retail's trust entitlements have been either paid to them or retained by the trustee for working capital of the business.
+102.
+We would not dedicate compliance resources to this arrangement as it meets the conditions in Green zone: scenario 3A of this Guideline and the arrangement does not have any features that excludes it from the green zone described in paragraph 32 of this Guideline.
+Example 8 – distributions from a family business
+103.
+Newsagent Trust is a discretionary trust controlled by Ms Magazine. The trustee of Newsagent Trust is Newsagent Pty Ltd. Ms Magazine is the director and shareholder of Newsagent Pty Ltd. The beneficiaries of Newsagent Trust include Ms Magazine, her spouse Mr Magazine and members of their extended family.
+104.
+Newsagent Trust carries on a business as a newsagent.
+105.
+Danny is aged 18 and is the daughter of Ms Magazine.
+106.
+During the 2022-23 income year, Newsagent Trust derives income of $150,000 (the trust's net income is also $150,000). On 30 June 2023, the trustee of Newsagent Trust makes a determination to appoint $18,000 to Danny and 50% of the remainder to each of Ms Magazine and Mr Magazine.
+107.
+Funds representing Danny's entitlement are paid into her bank account and she subsequently uses them to pay her university fees.
+108.
+Ms Magazine and Mr Magazine do not call for their entitlements to be satisfied and funds representing each of their entitlements are retained by the trustee and used in the working capital of the newsagent business.
+109.
+We would not dedicate compliance resources to the arrangement in this Example, on the basis that:
+(a)
+it meets the conditions in Green zone: scenario 3A of this Guideline in relation to the unpaid entitlements of Ms Magazine and Mr Magazine
+(b)
+Danny enjoys the benefit of her trust entitlement, and
+(c)
+none of the features described in paragraph
+32
+of this Guideline are present.
+Example 9 – distributions involving a trustee undertaking a farming business
+110.
+McDonald Family Trust is a discretionary trust controlled by Old McDonald.
+111.
+The trustee of McDonald Family Trust carries on a farming business.
+112.
+The management of the farming business is undertaken by Old McDonald and his daughter Young McDonald.
+113.
+It is intended that Young McDonald will take control of McDonald Family Trust when her father passes away.
+114.
+During the 2022-23 income year, Old McDonald and Young McDonald each draw on funds from the trust bank account to meet their private outgoings.
+115.
+On 30 June 2023, the trustee of McDonald Family Trust makes Old McDonald and Young McDonald each presently entitled to a 50% share of the income of the trust for that year.
+116.
+The entitlements of both Old McDonald and Young McDonald are first set-off against the amounts each drew throughout the year with the balance remaining unpaid. The funds representing the unpaid entitlements are retained by the trustee and used to maintain and improve the farm.
+117.
+It is intended that Old McDonald and Young McDonald will each call on so much of their trust entitlements to meet future private outgoings, with funds representing any unpaid entitlements used by the trustee in the farming business and expected to benefit them through future profitability of the enhanced business.
+118.
+We would not dedicate compliance resources to this arrangement as it meets the conditions in Green zone: scenario 3A of this Guideline and the arrangement does not have any features described in paragraph 32 of this Guideline.
+119.
+Diagram 7 of this Guideline illustrates the facts in this Example.
+Diagram 7
+Example 10 – testamentary trust
+120.
+A trust established under a will provides that Gemini, the daughter of the deceased, is entitled each year to all of the trust income and to receive the trust corpus once she reaches 30 years of age or (if she dies before attaining the age of 30) to her estate.
+121.
+Gemini is 18 years of age at the time the trust is created.
+122.
+Gemini's entitlement to trust income is not immediately satisfied in full each year. Instead, the trustee pays Gemini a weekly allowance of $500 with the balance of funds representing Gemini's income entitlement retained by the trustee.
+123.
+Gemini uses her allowance to pay her personal living expenses. This includes paying $250 per week to her aunt for food and board.
+124.
+The funds representing so much of Gemini's income entitlement that is retained by the trustee is invested in income-producing assets for Gemini's direct future benefit.
+125.
+The arrangement does not have any features that excludes it from the green zone under paragraph 32 of this Guideline. We would not dedicate compliance resources to this arrangement as it meets the conditions in Green zone: scenario 3A of this Guideline.
+Example 11 – use of funds condition and unpaid present entitlement
+126.
+Investment Trust is a discretionary trust controlled by Ms Alia. The trustee of Investment Trust is Investment Pty Ltd. The beneficiaries of Investment Trust include Ms Alia, her spouse Mr Aarif, their extended family and Beneficiary Pty Ltd. Ms Alia is the director and shareholder of Investment Pty Ltd and Beneficiary Pty Ltd.
+127.
+Investment Trust holds a number of investment assets including shares in listed companies and commercial property from which it derives dividend and rental income respectively.
+128.
+In the 2022-23 income year, Investment Trust derives income comprised of dividends from listed companies. The income is used to purchase further shares pursuant to dividend reinvestment plans.
+129.
+On 30 June 2023, Investment Pty Ltd resolves to appoint 60% of the trust income to Beneficiary Pty Ltd, 20% to Ms Alia and 20% to Mr Iarif. At the time of appointment, there is an understanding between the parties that each of the beneficiaries will use their entitlement to lend money back to Investment Trust. The unpaid entitlements are used by Investment Trust to purchase listed shares.
+130.
+The arrangement between Investment Trust and Beneficiary Pty Ltd amounts to financial accommodation.
+[21]
+Ms Alia and Mr Aarif expect to be paid their entitlements, but they have no firm plans on the timing of payment.
+131.
+During the 2023-24 income year, Investment Pty Ltd enters into an arrangement with Beneficiary Pty Ltd to borrow an amount equal to the funds that Beneficiary Pty Ltd is entitled to receive from the Investment Trust on commercial terms.
+[22]
+132.
+During the 2023-24 income year and subsequent income years, Investment Pty Ltd uses trust receipts to meet its principal and interest obligations under the loan agreement.
+133.
+Funds representing the beneficiaries' present entitlements that have been retained satisfy the use of funds condition and a written loan agreement has been entered into between Investment Pty Ltd and Beneficiary Pty Ltd on commercial terms. We would not dedicate compliance resources to this arrangement as it meets the conditions in Green zone: scenarios 3A and 3B of this Guideline and does not have any features that exclude it from the green zone under paragraph 32 of this Guideline.
+Example 12 – trustee retains funds and services loan agreement
+134.
+Flower Trust is a discretionary trust controlled by Ms Rose. The trustee of Flower Trust is Flower Pty Ltd. The beneficiaries of Flower Trust include Ms Rose, her spouse Mr Rose, their extended family and Plant Pty Ltd. Ms Rose is the director and shareholder of Flower Pty Ltd and Plant Pty Ltd.
+135.
+Flower Trust carries on a business as a florist.
+136.
+During the 2022-23 income year, Flower Trust derives income of $100,000 (the trust's net income is also $100,000).
+137.
+On 30 June 2023, Flower Pty Ltd resolves to make Plant Pty Ltd presently entitled to all of the income of Flower Trust.
+138.
+Flower Trust partially satisfies the entitlement of Plant Pty Ltd to enable it to pay its tax on the $100,000. The balance of the entitlement remains unpaid and is used by the trustee of Flower Trust in funding the working capital of the business. The arrangement amounts to financial accommodation
+[23]
+and Flower Pty Ltd and Plant Pty Ltd put in place a loan agreement on commercial terms that comply with section 109N.
+139.
+Diagram 8 of this Guideline illustrates the facts in this Example.
+Diagram 8
+140.
+Flower Pty Ltd uses the receipts from the trust's business to make interest and principal payments to Plant Pty Ltd to comply with the terms of the loan agreement.
+141.
+Funds representing Plant Pty Ltd's present entitlement have been retained by the trustee for working capital of the business and a written loan agreement has been entered into on commercial terms.
+142.
+The arrangement does not have any features described in the red zone. We would not dedicate compliance resources to this arrangement as it meets the conditions in Green zone: scenario 3B of this Guideline.
+Example 13 – distributions to a company beneficiary with tax losses
+143.
+Ms Willow is the appointor of Black Trust and her spouse controls Red Pty Ltd.
+144.
+Noir Co is the trustee of Black Trust (all references to Noir Co are in that capacity) and is controlled by Ms Willow.
+145.
+Black Trust carries on a manufacturing business.
+146.
+Red Pty Ltd has prior year tax losses as a result of operating a business venture that continues to operate and has a nil distributable surplus.
+147.
+On 30 June 2023, Noir Co makes a determination to appoint 100% of the trust income to Red Pty Ltd, being $300,000.
+148.
+Red Pty Ltd includes $300,000 in its assessable income, being the net income of Black Trust. After deducting tax losses of $300,000, the taxable income of Red Pty Ltd is nil.
+149.
+The funds representing Red Pty Ltd's trust entitlement were retained by Noir Co for the purpose of funding the working capital for the manufacturing business. Noir Co and Red Pty Ltd subsequently enter into a loan agreement on commercial terms that comply with section 109N.
+150.
+Diagram 9 of this Guideline illustrates the facts in this Example.
+Diagram 9
+151.
+Noir Co uses the receipts from the business to make interest and principal payments to Red Pty Ltd to comply with the terms of the loan agreement.
+152.
+The arrangement does not have any features that excludes it from the green zone under paragraph 32 of this Guideline. We would not dedicate compliance resources to this arrangement as it meets the conditions in Green zone: scenario 3B of this Guideline.
+Red-zone arrangements
+Example 14 – amounts provided to the parent in respect of expenses incurred before the beneficiary turns 18 years of age
+153.
+Patel Trust's beneficiaries include the members of the Patel Family. Patel Co is the trustee of Patel Trust and Lila Patel is the sole shareholder and director of the trustee.
+154.
+Lila is the parent of 3 adult children – Sima (aged 26), Kumar (aged 21) and Jai (aged 19).
+155.
+During the 2022-23 income year, Sima is self-employed and has a taxable income of $90,000. Kumar and Jai study full time and derive no income during the income year. Lila's children live at home with her at all times throughout the income year.
+156.
+During the 2022-23 income year, Patel Trust derives $240,000 in income (the trust's net income is also $240,000). Throughout that year, Patel Co makes regular payments totalling $240,000 into Lila's bank account. Those payments are recorded as a 'beneficiary loan' in the accounts of Patel Trust. Lila uses these amounts throughout the year to meet her personal living expenses and those of the household.
+157.
+On 30 June 2023, Patel Co resolves to make Kumar and Jai each presently entitled to $120,000 of the Patel Trust income.
+158.
+Patel Co applies their entitlements against the beneficiary loan owed by Lila. The entitlements of Kumar and Jai are each recorded as having been fully paid in the accounts of Patel Trust. Lila assists in the preparation of Kumar and Jai's tax returns and pays the tax liability arising in relation to their entitlements from her personal funds.
+159.
+The entitlements of Kumar and Jai are applied in this manner because they each purportedly have an outstanding debt owed to Lila in respect of education expenses and their share of the Patel household expenses that Lila paid before they each turned 18.
+160.
+Diagram 10 of this Guideline illustrates the facts in this Example.
+Diagram 10
+161.
+On the basis that this arrangement meets the conditions in Red zone: scenario 1 of this Guideline, we would apply compliance resources to consider the application of section 100A in these circumstances.
+Example 15 – non-resident beneficiary makes a loan or gift to another party
+162.
+Oberon Trust is a discretionary trust with beneficiaries including the members of the Oberon Family. Oberon Co is the trustee of Oberon Trust, and Titan Oberon is the sole shareholder and director of the trustee. Both Oberon Co and Titan Oberon are residents of Australia.
+163.
+Oberon Trust has made an FTE and Titan Oberon is the specified individual in that election.
+164.
+Titan is aged 44 and his parents are Sylvia (aged 66) and Sylvester (aged 67). His parents reside outside of Australia and are non-residents for tax purposes.
+165.
+During the 2022-23 income year, Oberon Trust derives $400,000 income that is comprised of fully franked dividends. The dividends are paid directly into Titan's bank account. Titan uses these amounts to meet his personal expenses and mortgage repayments. The trust income is recorded as a 'beneficiary loan' in the accounts of Oberon Trust.
+166.
+On 30 June 2023, Oberon Co exercises its power to appoint income to make Sylvia and Sylvester each entitled to $200,000 of Oberon Trust's income. Oberon Trust is not required to pay or withhold tax in respect of the distribution to Sylvia and Sylvester.
+167.
+At the time income is appointed to Sylvia and Sylvester, they have agreed to use their entitlements to lend $400,000 to Titan on interest-free at-call terms.
+168.
+In the accounts of Oberon Trust, Oberon Co records that Sylvia's and Sylvester's entitlements are fully satisfied in being applied to repay the $400,000 beneficiary loan owed by Titan.
+169.
+Diagram 11 of this Guideline illustrates the facts in this Example.
+Diagram 11
+170.
+On the basis that this arrangement meets the conditions in Red zone: scenario 1 of this Guideline, we would apply compliance resources to consider the application of section 100A in these circumstances.
+Example 16 – the presently entitled beneficiary is issued units by the trustee (or related trust) and the amount owed for the units is set-off against the beneficiary's entitlement
+171.
+Johnson Trust is a hybrid trust that carries on a profitable business providing building repair services to the public. Johnson Co is the corporate trustee of Johnson Trust and Lauren Johnson is its sole shareholder and director.
+172.
+Hammer Co is a private company with Lauren Johnson as the sole director and shareholder.
+173.
+As a hybrid trust, Johnson Trust has 2 classes of beneficiaries. One class is comprised of the unit holders and the second class are the discretionary beneficiaries.
+174.
+The terms of the trust deed for Johnson Trust include the following:
+(a)
+On or before 30 June of a relevant income year, the trustee has the power to appoint income of that year to one or more of the discretionary beneficiaries.
+(b)
+The unit holders are entitled to so much of the income of the trust for a particular income year that the trustee has not appointed to any discretionary beneficiary with a unitholder's entitlement being proportional to the number of units they hold.
+(c)
+Upon vesting of the trust, or earlier where the trustee chooses, the unit holders are entitled to capital of the trust equal to the paid up value of the units.
+(d)
+The trustee has the discretion to pay the balance of the capital of the trust to one or more discretionary beneficiaries of the trust.
+175.
+During the 2022-23 income year, Johnson Trust derives income of $500,000 (the trust's net income is also $500,000) from its business activities. The trust reinvests the net income into its business activities as working capital.
+176.
+On 30 June 2023, Johnson Trust resolves to distribute 100% of the trust income to Hammer Co which is within the class of discretionary beneficiaries.
+177.
+On 1 October 2023, the trustee of Johnson Trust exercises its power to issue new units to Hammer Co for $500,000. The accounts of Hammer Co and Johnson Trust recognise a set-off of Hammer Co's $500,000 UPE against the unit subscription amount. The market value of the units is significantly less than $500,000.
+178.
+Diagram 12 of this Guideline illustrates the facts in this Example.
+Diagram 12
+179.
+On the basis that this arrangement meets the conditions in Red zone: scenario 3 of this Guideline, we would apply compliance resources to consider the application of section 100A in these circumstances.
+Example 17 – the share of net income included in a beneficiary's assessable income is significantly more than the beneficiary's entitlement
+180.
+Since before 2023, a private group controlled by Ms Day has consisted of Operating Trust, Passive Pty Ltd and Holding Trust.
+181.
+Holding Trust is a discretionary trust and the shareholder of Passive Pty Ltd. The deed of Holding Trust defines trust income as being equal to the net income of the trust calculated under section 95.
+182.
+Passive Pty Ltd receives trust distributions from Operating Trust which represent the annual profits from Operating Trust's business. Passive Pty Ltd has retained profits that reflect distributions from Operating Trust over the past 5 years.
+183.
+Passive Pty Ltd uses its retained profits to make loans to Ms Day.
+184.
+During the 2022-23 income year, the private group undertakes the following steps so that most of the retained profits in Passive Pty Ltd can be distributed to Ms Day:
+(a)
+The trust deed of Holding Trust is amended so that proceeds from share buy-backs are capital of the trust.
+(b)
+New Bucket Pty Ltd is created with its shares held by Operating Trust.
+(c)
+Passive Pty Ltd buys back 90% of its shares held by Holding Trust for $2.8 million, which is treated as a franked distribution for tax law purposes.
+[24]
+(d)
+The $2.8 million share buy-back proceeds are a capital receipt of Holding Trust.
+(e)
+Holding Trust has trust income for the year of $1,000.
+(f)
+Holding Trust distributes the $1,000 trust income (which does not include the share buy-back dividend) to New Bucket Pty Ltd.
+(g)
+Holding Trust distributes $2.8 million capital to Ms Day.
+185.
+Operating Trust continues to appoint its trust income to Passive Pty Ltd and there are no other changes to the group structure.
+186.
+The tax outcome regarding the share buy-back is that the assessable income of Holding Trust includes $2.8 million dividends and $1.2 million franking credits. This is included in the assessable income of New Bucket Pty Ltd since it is presently entitled to the entire $1,000 trust income of Holding Trust. New Bucket Pty Ltd obtains no benefit from the share buy-back.
+187.
+The economic outcome regarding the share buy-back is that Holding Trust has received $2.8 million which is ultimately distributed as capital to Ms Day.
+188.
+Diagram 13 of this Guideline illustrates the facts in this Example.
+Diagram 13
+189.
+On the basis that this arrangement meets the conditions in Red zone: scenario 4 of this Guideline, we would apply compliance resources to consider the application of section 100A in these circumstances.
+Example 18 – the presently entitled beneficiary has losses
+190.
+Rouge Trust is controlled by Mr Rouge and has historically distributed to Mr Rouge and members of his family.
+191.
+During the 2022-23 income year, Mr Rouge meets Ms Loss who has significant tax losses from prior years. They agree that Ms Loss will be made entitled to income of Rouge Trust and that only 10% of her entitlements will ever be paid.
+192.
+As Ms Loss is not part of Mr Rouge's family, the trust deed of Rouge Trust is amended to include Ms Loss as a beneficiary of the trust on 1 June 2023.
+193.
+On 30 June 2023, Rouge Trust has $500,000 trust income (the trust's net income is also $500,000) to which Ms Loss is made presently entitled.
+194.
+Ms Loss includes the $500,000 net income of Rouge Trust as assessable income in her tax return for the 2022-23 income year and reports taxable income of nil after applying deductions for prior year tax losses.
+195.
+Only $50,000 of Ms Loss' entitlement to the $500,000 income of Rouge Trust is paid. The remaining $450,000 is used by the trustee to make loans to Mr Rouge in lieu of the trust distributions that have historically been made to him and his family.
+196.
+Diagram 14 of this Guideline illustrates the facts in this Example.
+Diagram 14
+197.
+On the basis that this arrangement meets the conditions in Red zone: scenario 5 of this Guideline, we would apply compliance resources in these circumstances.
+Amendment history
+Date
+Part
+Comment
+27 September 2023
+Paragraphs 32(b) and32(c)
+Changes have been made to further clarify some features of arrangements that are excluded from the green zone.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+[1]
+All legislative references in this Guideline are to the
+Income Tax Assessment Act 1936,
+unless otherwise indicated.
+[2]
+This includes a beneficiary that is deemed to be presently entitled.
+[3]
+Subsections 100A(1), (2), (7), (11) and (13).
+[4]
+Subsection 100A(13).
+[5]
+There are other elements that, depending on the particular facts of a case, could cause a present entitlement not to have arisen under a reimbursement agreement. See, for example, subsections 100A(5) and (8).
+[6]
+Examples of where we are otherwise considering a taxpayer's tax affairs include where there is suspected fraud or evasion, where a trustee or beneficiary has not met their lodgment obligations or where a trustee's or beneficiary's 4-year period of review has yet to expire.
+[7]
+Incidental use of retained funds, otherwise than in accordance with paragraph 25(c) of this Guideline, will not prevent an arrangement from satisfying this green-zone scenario.
+[8]
+Section 272-80 of Subdivision 272-D of Schedule 2F.
+[9]
+For the purposes of this Guideline, this term has the meaning set out in paragraph 25 of this Guideline.
+[10]
+For the purposes of this Guideline, this term has the meaning set out in paragraph 25 of this Guideline.
+[11]
+For the purposes of this Guideline, this term has the meaning set out in paragraph 25 of this Guideline.
+[12]
+For the purposes of this Guideline, this term has the meaning set out in paragraph 25 of this Guideline.
+[13]
+Refer to Examples 6, 7, 8 (applying the facts in paragraph 143 only), 9 (excluding the facts in paragraph 147) and 10 (excluding the facts in paragraph 153) in Appendix 2 of TR 2022/4.
+[14]
+A beneficiary, being a company or trustee, is a loss company or a loss trust where either:
+•
+the beneficiary's taxable or net income is less than the share of trust net income included in the beneficiary's assessable income, or
+•
+the beneficiary's net capital gain is less than the beneficiary's share of trust capital gains under section 115-215 of the ITAA 1997.
+[15]
+The term 'closely held trust' takes its meaning from section 102UC.
+[16]
+Section 207-35 of the ITAA 1997.
+[17]
+Section 115-215 of the ITAA 1997.
+[18]
+In this Guideline, 'tax depreciation measure' means the temporary full expensing, instant asset write-off and backing business investment measures, and the general depreciation rules.
+[19]
+For example, Taxpayer Alerts TA 2013/1
+Arrangements to exploit mismatches between trust and taxable income,
+TA 2016/12
+Trust income reduction arrangements
+or TA 2022/1
+Parents benefitting from the trust entitlements of their children over 18 years of age.
+[20]
+For further information about ordinary family or commercial dealings, refer to paragraphs 25 to 32 of TR 2022/4.
+[21]
+Taxation Determination TD 2022/11
+Income tax: Division 7A: when will an unpaid present entitlement or amount held on sub-trust become the provision of 'financial accommodation'?
+sets out the Commissioner's views on application of Division 7A in these circumstances.
+[22]
+Note, there may be Division 7A consequences if these terms do not comply with section 109N (see TD 2022/11).
+[23]
+TD 2022/11 sets out the Commissioner's views on application of Division 7A in these circumstances.
+[24]
+On the basis it is an off-market buy-back subject to section 159GZZZP.
+Previously issued in draft format as PCG 2022/D1
+ATO references:
+ATO references:
+NO  1-SGE9MEP
+ISSN: 2209-1297
+Business Line:
+PW
+Related Rulings/Determinations:
+TD 2022/11
+TR 2012/D1
+TR 2022/4
+Legislative References:
+ITAA 1936 Div 7A
+ITAA 1936 95
+ITAA 1936 100A
+ITAA 1936 100A(1)
+ITAA 1936 100A(2)
+ITAA 1936 100A(5)
+ITAA 1936 100A(7)
+ITAA 1936 100A(8)
+ITAA 1936 100A(11)
+ITAA 1936 100A(13)
+ITAA 1936 101
+ITAA 1936 102UC
+ITAA 1936 109D(3)
+ITAA 1936 109E(6)
+ITAA 1936 109N
+ITAA 1936 159GZZZP
+ITAA 1936 Sch 2F Subdiv 272-D
+ITAA 1936 272-80
+ITAA 1997 115-215
+ITAA 1997 207-35
+Other References:
+Trust taxation - reimbursement agreement
+TA 2013/1
+TA 2016/12
+TA 2022/1
+PCG 2022/2 history
+Date:
+Version:
+Change:
+8 December 2022
+Original guideline
+You are here
+27 September 2023
+Updated guideline
+Back to top

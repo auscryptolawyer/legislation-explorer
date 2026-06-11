@@ -13,8 +13,7 @@ compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
 
-# 160AAAB Tax rebate for low income aged persons and pensioners— trustees assessed under section 98
-
+# 160AAAB Tax rebate for low income aged persons and pensioners— trustees assessed under
 
 <a id="s160AAAB-1"></a>
 **(1)** Subject to subsection 160AAA(4A), a trustee who is liable to be assessed under section 98 in respect of a beneficiary’s share of the net income of the trust estate is entitled to a rebate of tax in the trustee’s assessment in respect of income of a year of income of an amount (if any), ascertained in accordance with the regulations, if the conditions in subsections (2) and (3) are satisfied.

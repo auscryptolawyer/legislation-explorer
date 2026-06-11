@@ -15,7 +15,6 @@ source_pdf: "vol01.pdf"
 
 # 24AYA Effect of unfunded superannuation liabilities
 
-
 <a id="s24AYA-1"></a>
 **(1)** This section applies to a deduction under section 290-60 of the Income Tax Assessment Act 1997 in respect of a contribution made in relation to a person who was an employee of a prescribed excluded STB when it ceased to be an STB.
 

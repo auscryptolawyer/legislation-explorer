@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 82KZMGB CGT event in relation to interest in 82KZMG agreement
 
-
 <a id="s82KZMGB-1"></a>
 **(1)** This section applies if:
 

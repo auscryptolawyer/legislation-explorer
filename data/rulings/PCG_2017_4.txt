@@ -1,0 +1,1880 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+33 related documents
+Practical Compliance Guideline
+PCG 2017/4
+ATO compliance approach to taxation issues associated with cross-border related party financing arrangements and related transactions
+On 8 April 2024, the
+Treasury Law Amendment (Making Multinationals Pay Their Fair Share - Integrity and Transparency) Act 2024
+was enacted. The amendments apply to assessments for income years commencing on or after 1 July 2023, with the exception of new integrity rules (debt deduction creation rules) which apply in relation to assessments for income years starting on or after 1 July 2024.
+Under the new thin capitalisation rules:
+•
+the newly classified 'general class investors' will be subject to one of 3 new tests
+o
+fixed ratio test
+o
+group ratio test
+o
+third party debt test
+•
+financial entities will continue to be subject to the existing safe harbour test and worldwide gearing test or may choose the new third party debt test
+•
+ADIs will continue to be subject to the previous thin capitalisation rules
+•
+the arm's length debt test has been removed for all taxpayers.
+ADIs, securitisation vehicles and certain special purpose entities are excluded from the debt deduction creation rules.
+Entities that are Australian plantation forestry entities are excluded from the new rules. For these entities, the previous rules will continue to apply.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+There is a Compendium for this document:
+PCG 2017/4EC
+.
+Table of Contents
+Paragraph
+What this Guideline is about
+1
+Structure of this Guideline
+5
+Date of effect
+10
+Arrangements to which this Guideline applies
+13
+The ATO's compliance approach
+15
+Documenting your legal arrangements
+20
+THE RISK ASSESSMENT FRAMEWORK
+21
+What, when and how to risk assess your related party financing arrangements
+25
+Evidencing your self-assessment
+37
+Reporting your self-assessment
+39
+What you can expect given your risk zone
+41
+Who to contact
+42
+SCHEDULE 1 - Related party debt funding
+44
+SCHEDULE 2 - Related party derivative arrangements
+114
+SCHEDULE 3 - Interest-free loans between related partiess
+193
+Relying on this Guideline
+This Practical Compliance Guideline sets out a practical administration approach to assist taxpayers in complying with relevant tax laws. Provided you follow this Guideline in good faith, the Commissioner will administer the law in accordance with this approach.
+What this Guideline is about
+1. This Practical Compliance Guideline outlines our compliance approach to the taxation outcomes associated with:
+(a)
+a 'financing arrangement', as defined in section 995-1 of the
+Income Tax Assessment Act 1997
+(ITAA 1997), or
+(b)
+a related transaction or contract
+entered into with a cross-border related party. Such an arrangement, transaction or contract is referred to in this Guideline as a 'related party financing arrangement'. This Guideline does not cover financing arrangements characterised as equity in accordance with Division 974 of the ITAA 1997.
+2. We use the framework in this Guideline and the accompanying schedules to assess risk and tailor our engagement with you according to the features of your related party financing arrangement, the profile of the parties to the related party financing arrangement and the choices and behaviours of your group. The tax risk associated with your related party financing arrangement is assessed having regard to a combination of quantitative and qualitative indicators.
+3. If your related party financing arrangement is rated as low risk, then you can expect the Commissioner will generally not apply compliance resources to review the taxation outcomes other than to fact check the appropriate risk rating. If your related party financing arrangement falls outside the low risk category, you can expect the Commissioner will monitor, test and/or verify the taxation outcomes. The higher the risk rating, the more likely your arrangements will be reviewed as a matter of priority.
+4. You can use the framework set out in this Guideline to:
+(a)
+assess the tax risk of your related party financing arrangement
+(b)
+understand the compliance approach we are likely to adopt given the risk profile of your related party financing arrangement
+(c)
+work with us to mitigate the transfer pricing risk in relation to your related party financing arrangement and be confident you have reduced your risk exposure, and
+(d)
+understand the type of analysis and evidence we would require when assessing the risk outcomes of your related party financing arrangements.
+Structure of this Guideline
+5. This Guideline is structured as follows:
+(a)
+the main body sets out general principles relevant to our framework for considering risk and applying compliance resources to related party financing arrangements, and
+(b)
+schedules expand on these principles giving more specific details and indicators relevant to considering the risk of compliance activity in relation to your related party financing arrangement.
+6. You will need to read and apply the schedules in conjunction with the general principles set out in the Guideline.
+7. This Guideline does not provide advice or guidance on the technical interpretation or application of Australia's transfer pricing rules or other taxation provisions.
+8. Additional schedules may be included as part of this Guideline providing specific risk indicators for particular types of entities or other financing arrangements, for example, financial guarantees.
+9. Where more than one schedule applies to you or your financing arrangement, you should use the schedules in a manner which most specifically addresses your circumstances. For example, Schedule 3 will modify how Schedule 1 is used to assess the risk rating where you have an outbound interest-free loan with a related party.
+Date of effect
+10. This Guideline has effect from 1 July 2017 and applies to existing and newly created financing arrangements.
+11. Each Schedule may have effect from a different date. Where this is the case the date of effect will be stated in the relevant Schedule.
+12. The use and application of this Guideline will be under continuous review over the three years following initial publication. Any revisions to improve its efficacy will be made at the end of the review period or on an 'as necessary' basis. We will consult with you in relation to proposed material changes.
+Arrangements to which this Guideline applies
+13. This Guideline applies to any financing arrangement entered into with a related party that is not a resident of Australia and which the cross-border test under Subdivision 815-B of the ITAA 1997 applies. The Guideline applies to both inbound and outbound related party financing arrangements.
+14. Unless explicitly stated in a schedule, the Guideline does not apply to a financing arrangement that is either:
+(a)
+entered into by a member of a wholly-owned group containing an ADI (as defined in section 995-1 of the ITAA 1997)
+(b)
+entered into by a member of a wholly-owned group containing an Australian resident securitisation vehicle (as defined in section 995-1 of the ITAA 1997) or an entity to which section 820-39 of the ITAA 1997 applies to
+(c)
+entered into by a member of a wholly-owned group that is (or contains) an Australian resident taxpayer that has appropriately applied the simplified transfer pricing record-keeping options in relation to loans (inbound and outbound), and
+(d)
+a form of Islamic finance.
+The ATO's compliance approach
+15. We concentrate our efforts on international related party dealings that pose the highest risk of not complying with the transfer pricing rules or other relevant provisions identified in a particular schedule.
+16. As a consequence of new legislation and court decisions, the approach used by some taxpayers may no longer be appropriate. Therefore, this Guideline highlights arrangements where we see risk of non-compliance and it offers opportunities for taxpayers to transition their arrangements to lower risk positions.
+17. This Guideline does not constitute a 'safe harbour' and the information provided in this Guideline does not replace, alter or affect, in any way, our interpretation of the relevant law. It does not relieve you of your legal obligation to self-assess your compliance with all relevant taxation laws.
+18. Following this Guideline does not limit or waive the operation of the law. However, if you follow this Guideline and align your related party financing arrangement (or your related party financing arrangement already aligns) with the low risk category, we will generally not allocate compliance resources to examine the relevant tax outcomes.
+19. We review both inbound and outbound financing arrangements. Australia's transfer pricing rules do not differentiate between inbound and outbound dealings. As such, our interpretation and application of the provisions does not differentiate between scenarios involving inbound or outbound arrangements and transactions.
+Documenting your legal arrangements
+20. If we undertake a review of your financing arrangements, our starting point will be the legal agreement(s). Therefore, we expect that agreements are put in place reflecting the relative rights, responsibilities and undertakings of each party that accurately reflect the substance of the financing arrangement. The agreements should include the key terms and conditions that borrowers and lenders would require to enter into the arrangements.
+THE RISK ASSESSMENT FRAMEWORK
+21. Our compliance approach will vary depending on the risk rating of your related party financing arrangement. The following principles will assist you to understand how we assess risk in relation to related party financing arrangements and generally allow you to assess your compliance risk.
+22. If you fall outside the low risk zone, there is no presumption your related party financing arrangement is uncommercial or otherwise fails to comply with the Australian tax law. Falling outside the low risk zone means we consider your related party financing arrangement, or your treatment of that arrangement, is at risk of giving rise to an inappropriate tax outcome. Therefore, we will generally conduct some form of compliance activity to further test the taxation outcomes of your arrangement.
+23. If we conduct a review of your related party financing arrangement, we may take account of other factors beyond those contained in this Guideline. This is because we will need to evaluate, among other things, the evidence that supports the commerciality of your related party financing arrangement.
+24. The ATO's related party financing arrangement risk framework is made up of six risk zones.
+Risk zone
+Risk level
+White
+arrangements already reviewed and concluded
+Green
+low risk
+Blue
+low to moderate risk
+Yellow
+moderate risk
+Amber
+high risk
+Red zone
+very high risk
+What, when and how to risk assess your related party financing arrangements
+25. You will need to risk assess each financing arrangement you enter into with a related party that is not a resident of Australia:
+(a)
+for existing arrangements, either
+(i)
+at the start of each income year with subsequent reviews during the year where additional information becomes available (for example, if global group accounts are finalised two months after the start of the income year, the arrangement should be reviewed at that stage), or
+(ii)
+before tax returns for the relevant income year are lodged and more contemporaneous financial information is available to assess outcomes for that income year
+(b)
+where a new arrangement is entered into during an income year, at the time it is entered into.
+26. To determine the risk rating for your related party financing arrangement, you need to compare the conditions that actually exist in relation to your related party financing arrangement (or that have been reasonably assumed by you for the purposes of pricing your related party financing arrangement) with the indicators in the relevant schedule. Each indicator carries a particular score and the aggregate score for all relevant indicators will be your 'risk zone' number.
+27. Each indicator is expressed either as:
+(a)
+a closed (yes/no) question, or
+(b)
+a qualitative or quantitative range.
+28. The indicators and their relative weightings reflect features the ATO has observed:
+(a)
+from market data, relating to transactions between independent parties, obtained from a variety of sources widely used by companies
+(b)
+independent parties acting at arm's length consider relevant in pricing financing arrangements, and
+(c)
+through its interaction with taxpayers, to be indicative of tax risk.
+29. You should not adjust your arrangements so you sit higher within a particular range (as set out in the relevant schedule) merely because it does not change your risk zone. We will monitor outcomes for related party financing arrangements to ensure there is no such 'drift' within a range for an indicator. For example, if your gearing level (ratio of debt to book capitalisation) is historically 40%, we will monitor instances where your level of debt drifts to 50% but you remain within the same risk zone.
+30. You may be required to report your risk zone for an income year for each financing arrangement or on another basis. For example, as part of a schedule which may accompany a tax return you may be asked to disclose the risk zones of your three largest related party financing arrangements.
+31. Generally, the risk scoring is to be based on the most relevant finalised financial accounts available. However, if you feel a multi-year average, a point in time approach or an alternative approach is more appropriate for your circumstances, you may request an exception to the general rule by emailing your rationale to
+International@ato.gov.au
+.
+32. You will be taken to be in the same risk zone (or zones, in the case of multiple disclosures) for the entire year unless you subsequently enter into additional reportable related party financing arrangements.
+33. You are deemed to be in the white zone and do not need to self-assess the risk rating of your related party financing arrangement where:
+(a)
+any of the following apply to a related party financing arrangement for the current year
+(i)
+an advance pricing arrangement (APA)
+(ii)
+a settlement agreement between you and us
+(iii)
+a court decision, and
+(iv)
+we have conducted a review of your related party financing arrangement (where the review commenced on or after 1 January 2015) and provided you with a low risk rating for your financing arrangement.
+AND
+(b)
+there has not been a material change in the conditions of the related party financing arrangement including the terms, pricing, global group funding arrangements, comparability factors and/or risks since the time of the agreement, decision or review.
+34. In performing your self-assessment you may consider certain features of your business or circumstances result in a risk zone that is not reflective of your underlying risk. Where this occurs, you may engage with us with your rationale and, if we find it acceptable, a white zone risk assessment may be granted.
+35. For example, a capital-intensive project in start-up phase may report a low interest coverage ratio which results in a higher risk zone. If this interest coverage ratio is the only indicator causing you to fall outside the green zone, you may engage with us to request a white zone risk assessment.
+36. You must confirm eligibility with us before self-assessing yourself within the white zone.
+Evidencing your self-assessment
+37. We may, in the course of our ordinary compliance activities or any specific assurance activity relating to this Guideline, fact check your assessment of your risk zone. If you are unable to provide adequate evidence to support your assessment, we may undertake further compliance activity.
+38. Where you have concluded the actual conditions of your related party debt do not reflect arm's length conditions, you should prepare and retain comprehensive analysis and data in order to support your choice of substituted conditions which do satisfy arm's length conditions.
+Reporting your self-assessment
+39. You may be required to disclose whether you have self-assessed the risk rating of your related party financing arrangement. If you meet the criteria to complete a Reportable Tax Position (RTP) schedule, you will be asked to disclose your self-assessed risk zone rating for certain financing arrangements. It is not a requirement for you to self-assess your risk rating using this Guideline, but if you are unable to (or choose not to) you will also need to disclose this on the RTP schedule. Only arrangements entered into since 1 January 2015 should be reported for RTP schedule reporting purposes.
+40. Where you qualify in accordance with paragraph 33 of this Guideline that you are in the white zone, your reporting disclosure for that financing arrangement is the white zone.
+What you can expect given your risk zone
+41. You can expect the following treatment depending on your risk zone.
+Who to contact
+42. We have a dedicated team responsible for the oversight and management of related party financing arrangement risks. If you wish to discuss your related party financing arrangement with the ATO you may contact the International Tax Structuring team at
+International@ato.gov.au
+.
+43. Alternatively, if you have a dedicated relationship manager, you may approach them directly for assistance with your case.
+Commissioner of Taxation
+18 December 2017
+Schedule 1 - Related party debt funding
+Table of Contents
+Paragraph
+Scope of this Schedule
+44
+Interaction with future schedules
+46
+Review of Schedule
+47
+Related party financing risk indicator guide
+50
+Evidencing your self-assessment of your risk zone
+57
+Definitions
+58
+Global group
+58
+Consistent with the global consolidated group
+59
+Priced relative to traceable third-party debt, relevant third-party debt of the group,  or global group cost of funds
+60
+Appropriate collateral
+69
+Subordinated debt (including mezzanine debt)
+72
+Currency of debt is not consistent with operating currency
+74
+Presence of exotic features or instruments
+75
+Sovereign risk of borrower entity
+77
+Leverage of borrower
+82
+Interest coverage ratio
+88
+Applicable tax rate of lender entity jurisdiction
+89
+Involves an arrangement covered by a taxpayer alert
+94
+Involves a hybrid arrangement
+95
+Examples of how to determine your risk zone
+96
+Example 1 - Australian subsidiary of a US oil and gas company
+96
+Example 2 - New Zealand subsidiary of an Australian asset management company
+105
+Scope of this Schedule
+44. Generally, we expect pricing of a related party debt to align with the commercial incentive of achieving the lowest possible 'all in' cost to the borrower. We also expect in most cases, the cost of financing to align with the costs that could be achieved, on an arm's length basis, by the parent of the global group to which the borrower and lender both belong. The indicators in this Schedule and their weighting have been developed with this expectation in mind.
+45. This Schedule is limited to risks relating to the application of the transfer pricing rules in Division 815 of the ITAA 1997 or an international tax agreement, as defined in section 995-1 of the ITAA 1997. It does not set out our approach reviewing other taxation issues that might arise in relation to related party debt such as the:
+•
+application of the debt/equity rules in Division 974 of the ITAA 1997
+•
+substantive deductibility of interest payments or other losses (for example, under subsection 230-15(2) of the ITAA 1997)
+•
+application of the thin capitalisation rules in Division 820 of the ITAA 1997
+•
+existence or otherwise of liability for interest withholding tax, and
+•
+application of Pt IVA of the
+Income Tax Assessment Act 1936
+(ITAA 1936).
+Interaction with future schedules
+46. The risk indicators contained in paragraphs 55 and 56 of this Schedule may be modified by future schedules to this Guideline. The exact nature and extent of any modification or further interaction between this Schedule and others will be contained in the subsequent schedules. For example, Schedule 3 modifies how this Schedule is to be used to determine the risk zone for an outbound interest-free loan between related parties.
+Review of Schedule
+47. We may review and modify the indicators contained in this Schedule to align it with changes in the Australian debt market conditions. Our review will be contingent on the movement of certain indicators contained in the 'Aggregate Measures of Australian Corporate Bond Spreads and Yields' statistical table maintained by the Reserve Bank of Australia.
+48. For example, the basis points applied in the Price indicator reflects the current Australian debt capital market conditions. If these market conditions significantly change, the score and the basis points applied to this indicator will be reviewed and may be modified to reflect those changes.
+49. Any changes to the scoring will align with the change in the underlying indicator. The changes will be prospective and will not be applicable to any tax return completed prior to the change being published.
+Related party financing risk indicator guide
+50. Determining your risk zone requires you to:
+(a)
+select the appropriate criteria for your financing arrangement (an outbound loan; that is, you're an Australian taxpayer lending to a related party or an inbound loan; that is, you're an Australian taxpayer borrowing from a related party)
+(b)
+identify the indicators (left hand column of the tables) relevant to your circumstances, and
+(c)
+determine your score (first row of the tables) for each indicator based on the actual conditions applying to your related party debt (or you have taken to exist for the purposes of pricing the related party debt according to arm's length conditions).
+51. Where the indicator is expressed as a range, your score for that indicator will be determined by reference to where you sit in that range.
+52. An indicator with a score of 10 or 15 is individually capable of resulting in a risk score outside the green zone.
+53. Your risk zone is determined by combining your outcomes under the pricing and motivational risk scoring tables (paragraphs 55 and 56 of this Schedule, respectively) according to the following matrix:
+54. An explanation of each indicator (including how to calculate, where relevant) is given at paragraphs 58 to 96 of this Schedule.
+55. Pricing risk scoring table:
+56. Motivational risk scoring table:
+Evidencing your self-assessment of your risk zone
+57. The following are examples of evidence, which would be prudent to have in place in order to minimise the burden of any such fact checking, as described in paragraph 37 of this Guideline.
+Indicator
+Example of evidence
+•
+Pricing of your related party debt
+•
+Size of your related party debt
+•
+Tenor
+•
+Subordination
+•
+Exotic features
+•
+Currency
+•
+Existence of guarantees or security
+Relevant executed legal agreements setting out these terms
+•
+Traceable third-party debt
+Relevant executed legal agreement setting out the terms of that external loan
+Contemporaneous records, such as Board minutes, indicating the funds drawn down under the external loan were on lent via the related party debt
+•
+Operating currency of the Australian group
+Bank statements
+Industry data (supported by financial statements)
+Major sales contracts indicating the currency used
+•
+Hybrid arrangement
+Evidence of registration under the relevant legislation in the jurisdiction of incorporation
+Constitutions (or equivalent legal agreements) of the parties to the related party debt
+•
+Leverage of the Australian group or global group
+•
+Interest coverage ratio
+•
+Global group's cost of funds
+Audited financial accounts of the Australian group or the audited consolidated financial accounts of the group's parent entity (or the equivalent to such accounts where such accounts, or a single set of such accounts, are not prepared)
+•
+Residency of the lender
+Evidence of the jurisdiction of incorporation or registration
+Other evidence of central management and control
+•
+Arrangements where arm's length conditions are substituted for actual conditions for the purposes of deriving an interest rate (for example, a legally subordinated loan is priced as a senior loan)
+Documentation as to the arm's length conditions applied and how the pricing was determined (usually contained within transfer pricing documentation)
+Definitions
+Global group
+58. The definition of global group differs based on the structure of the group.
+Structure
+Definition
+Publicly listed companies
+As per the definition of a member of a group of entities consolidated for accounting purposes in accordance with paragraph 960-555(2)(a) of the ITAA 1997
+[1]
+Privately owned companies
+Includes the taxpayer and their associates as defined in section 318 of the ITAA 1936
+Joint venture / consortium entities
+Where a joint venture partner or consortium member with more than 20% direct or indirect interest in the entity has provided capital by way of debt, that particular instrument is assessed against the global group of that particular joint venture partner or consortium member
+Consistent with the global consolidated group
+59. 'Consistent with global consolidated group' means a ratio that has been calculated in accordance with their respective definition, which is either equal to or within a 10% differential. For example, if your leverage is within a factor of 0.9 to 1.1, they will be taken as consistent.
+Priced relative to traceable third-party debt, relevant third-party debt of the group, or global group cost of funds
+60. This indicator requires a comparison of the 'all in' cost of debt under the related party financing arrangement to the cost of debt issued to an unrelated third party. 'All in' cost is all the cost associated or connected to the pricing of the debt. For example, guarantee fees, associated hedging cost, line fees and any anticipated foreign exchange gains or losses.
+61. Three options for comparison are available, which must be considered in the following order of priority:
+1.
+Traceable third-party debt.
+2.
+Relevant third-party debt.
+3.
+Global group cost of funds.
+62. The comparison can only be in respect of one of the options. For example, where traceable third-party debt is available for use it must be used and the other two options cannot be used.
+63. Related party debt is considered traceable third-party debt when:
+(a)
+the key terms, conditions and events (including but not limited to, start date of the arrangement, principal drawdown, repayments and the interest rates) of the related party debt provided to or by the taxpayer mirror those of the third-party debt obtained by the group, and
+(b)
+the group's accounting systems can demonstrate the appropriate amount of cash being provided by the third party to a group member(s) and that this entity then provided the same amount of cash to the borrowing entity.
+64. Relevant third-party debt of the borrowing entity exists where the nature of the third party and the related party borrowing are consistent. For example, medium or long-term bonds issued by the borrowing entity would be relevant third-party debt for long-term debt provided by a related party. By way of contrast, working capital or overdraft facilities with banks would not be considered relevant third-party debt. Any third-party debt of the borrowing entity should be considered first and then that of other members of the global group.
+65. Global group cost of funds is defined as:
+Group interest / Average of opening and closing debt balances
+where:
+•
+group Interest
+= gross interest expense
+plus
+other borrowing expenses (for example, fees, swap costs) per the income statement of the consolidated global group accounts, in Australian dollar (A$) equivalent
+•
+debt
+= short-term debt
+plus
+current portion of long-term debt
+plus
+long-term debt (net of current portion)
+plus
+liability for capital leases (if not already included in debt) per the balance sheet or asset statement of audited financial reports, in A$ equivalent
+Note debt does not include other types of liabilities
+•
+closing balance
+= balance as at the end of the accounting period that most closely matches the income tax year of the taxpayer
+•
+opening balance
+= balance as at the end of the previous accounting period, relative to the closing period
+OR
+For a newly issued debt instrument, the global cost of funds is what the group's cost of debt would be for that particular instrument at the time it is entered into, where the taxpayer can provide evidence of this.
+66. If the currency of the relevant reference rate is different to the currency of the related party borrowing the reference rate will require adjusting. For example, if traceable third-party debt is borrowed in Euros and the related party borrowing is in Australian dollars (A$), the traceable third-party debt would need to be converted to an A$ equivalent rate.
+67. You calculate the A$ equivalent rate for the purpose of determining your pricing risk score by taking the average of either the:
+(a)
+spread over the relevant currency base rate and applying that spread to a relevant A$ base rate. For example, if the group records borrowings in US$ and has an average cost of debt of US$ Libor + 80 bps, the A$ equivalent rate can be taken to be A$ Bank Bill Swap Rate (BBSW) + 80bps, or
+(b)
+interest rate in the relevant group's currency and converting the rate to A$ equivalent using a cross-currency interest rate swap conversion tool.
+68. If you have no third-party debt arrangements, we recommend you contact us to discuss an appropriate pricing indicator for your specific circumstances.
+Appropriate collateral
+69. Appropriate collateral refers to the appropriate levels of protection that would be expected to be provided by the borrower to the lender in independent dealings. From our observations of market activity, this will generally depend on the credit rating of the issuing entity. For example, it is more common for non-investment grade entities to offer security over assets than for investment grade entities.
+70. Appropriate collateral may include:
+(a)
+Provision of security - where the borrower pledges assets as collateral for the debt, which can be repossessed if the borrower stops making loan payments. Our observations are that lenders will generally try to maximise the value of the security available against their debt.
+(b)
+A guarantee - defined as a legal obligation for a third-party guarantor to assume the liabilities of the borrower to the lender, in the event the borrower is unable to meet its interest or principal repayments.
+(c)
+Covenants (including representations, warranties and events of default) - promises that certain activities or events will or will not occur or that the borrower will stay above or below determined ratios. Common covenants include
+(i)
+a prohibition from issuing debt which ranks higher
+(ii)
+a restriction on the amount of debt raised, often expressed by way of a gearing ratio
+(iii)
+restrictions on the sale of assets
+(iv)
+minimum working capital requirements, and
+(v)
+interest cover or debt service cover ratios.
+71. Answer yes if the lack of appropriate collateral has not been taken into account in pricing the financial arrangement.
+Subordinated debt (including mezzanine debt)
+72. Subordinated debt is defined as a loan or security that ranks below other loans and securities with regard to claims on a company's assets or earnings in the event of a default. Subordination may arise from the terms of the debt itself or through structural subordination.
+73. Answer no if subordination has not been taken into account in pricing the financial arrangement.
+Currency of debt is not consistent with operating currency
+74. The operating currency of the borrower is either:
+(a)
+the currency in which it earns the majority of its revenues, or
+(b)
+any currency where the borrower has free cash flow greater than or equivalent to 150% of the anticipated interest expense in that particular currency.
+Presence of exotic features or instruments
+75. Exotic features or instruments include:
+(a)
+payment in kind or other forms of interest payment deferral
+(b)
+promissory notes or other instruments that do not provide rights to foreclose/accelerate repayment etcetera
+(c)
+options which give rise to premiums on interest rates (for example, early repayment by the borrower or loan calls to the lender)
+(d)
+convertibility to equity or other exchange
+(e)
+contingencies (for example, interest only repaid under certain conditions),
+(f)
+the legal or borrowing currency, as reflected in the terms of the loan, is different to the operating currency
+(g)
+the currency actually transferred or effectively provided by the lender to the borrower is different to your operating currency.
+76. Answer no if the exotic features or instruments included in the arrangement have not been factored into the pricing of the financial arrangement.
+Sovereign risk of borrower entity
+77. Sovereign rating of the jurisdiction of the borrower is determined as per Moody's, Standard and Poor's (S&P), or Fitch. The equivalent ratings of these agencies are provided in paragraph 78 of this Schedule. If no sovereign rating is provided by any of the credit rating agencies then assume a CC rating or equivalent.
+78. Equivalent ratings:
+Investment grade
+Moody's
+Aaa
+Aa1
+Aa2
+Aa3
+A1
+A2
+A3
+Baa1
+Baa2
+Baa3
+S&P
+AAA
+AA+
+AA
+AA-
+A+
+A
+A-
+BBB+
+BBB
+BBB-
+Fitch
+AAA
+AA+
+AA
+AA-
+A+
+A
+A-
+BBB+
+BBB
+BBB-
+Non-investment grade
+Moody's
+Ba1
+Ba2
+Ba3
+B1
+B2
+B3
+Caa1
+Caa2
+Caa3
+Ca
+S&P
+BB+
+BB
+BB-
+B+
+B
+B-
+CCC+
+CCC
+CCC-
+CC
+Fitch
+BB+
+BB
+BB-
+B+
+B
+B-
+CCC+
+CCC
+CCC-
+CC
+79. If your pricing arrangements have made reliable adjustments for the sovereign risk of the borrower entity relative to Australian sovereign risk, then assume the sovereign risk is AAA.
+80. For example, for a loan made between an Australian entity (AAA rated) and an entity in a jurisdiction where the sovereign risk is BB, the difference in rate between AAA and BB is calculated at equivalent to 125 bps. This difference (125 bps) is then added to the lending rate to compensate for the sovereign risk.
+81. If Australia's credit rating falls below AAA and a jurisdiction is rated equal to or higher than Australia, no adjustment for sovereign risk is required.
+Leverage of borrower
+82. This indicator requires comparison of the leverage of the Australian taxpayer and the global group or other leverage ranges listed in the motivational risk score table.
+83. Leverage of taxpayer is defined as:
+tax debt / total Australian assets
+where:
+•
+tax debt
+= debt for Division 974 purposes, in A$ equivalent
+•
+total Australian assets
+= current and non-current assets attributable to Australian operations less amounts lent to, and invested in, associate entities
+The value of these assets shall be the amount recorded in audited financial reports or historic cost where those reports are not available.
+84. Leverage of group is defined as:
+Debt / Total assets as contained in the groups consolidated accounts
+where:
+•
+debt
+is as defined in paragraph 65 of this Schedule.
+85. Where your leverage is consistent with or lower than your global group's consolidated leverage your score for this indicator is zero and the motivational risk scoring table in paragraph 56 of this Schedule is not applied to your 'stand alone' leverage.
+86. If you are a financial entity for thin capitalisation purposes, you may substitute the 60% leverage benchmark in this indicator for your pre-asset revaluation safe harbour gearing ratio. For example, an inward-investing financial entity that has a pre-asset revaluation safe harbour gearing ratio of 78% may replace the 60% leverage benchmark in this indicator with their safe harbour gearing ratio.
+87. Pre-asset revaluation safe harbour gearing ratio defined as:
+Pre-asset revaluation safe harbour debt amount / Total Australian assets
+where:
+•
+pre-asset revaluation safe harbour debt amount
+= Safe harbour debt amount for Division 820 purposes before accounting for any asset revaluation that were conducted for thin capitalisation purpose only; in A$ equivalent.
+Interest coverage ratio
+88. The interest coverage ratio is calculated as follows:
+Interest coverage ratio = EBITDA / interest
+where:
+•
+EBITDA
+= pre-tax income + interest + non-recurring expenses (gains) + depreciation expenses + amortisation of intangibles
+•
+interest
+= gross interest expense + other borrowing expenses
+and
+•
+other borrowing expenses
+include, for example, fees and swap costs. Amounts are per the income statement. Note that interest income is not included.
+•
+gross interest expense
+= interest paid or credited. It includes amounts accrued, accumulated or capitalised.
+Applicable tax rate of lender entity jurisdiction
+89. The applicable tax rate is the corporate rate of taxation for the jurisdiction to which the lending entity is a tax resident.
+90. Where the tax rate applied to the lending entity or the lending entity's interest income (for example, tax holidays or concessional tax treatment of certain income) is different to the headline rate (even temporarily) the actual rate applied should be used for this indicator.
+91. If the lending entity is not a tax resident of any jurisdiction, assume the headline tax rate is 0%.
+92. No points should be assigned for the purpose of this indicator where the lending entity is either:
+(a)
+the ultimate parent entity
+(b)
+a subsidiary of the ultimate parent entity, whose ownership chain remains in the same jurisdiction as the ultimate parent entity, and it and all members of its ownership chain are taxed as corporations in the parent's jurisdiction, or
+(c)
+the global Treasury entity for the group with the sole purpose to manage the capital requirements of the group including, but not limited to, the raising of third-party finance, management of interest rate or currency exposures with third parties and management of the group's cash positions. There must be substance to its operation evidenced through having sufficiently senior employees and capital to effectively control, manage and bear the risks of managing the group's treasury operations.
+93. Where the ultimate parent entity is exempt from paying income tax in the jurisdiction it is a tax resident of (for example, sovereign wealth funds, pension funds), no points should be assigned for the purposes of this indicator.
+Involves an arrangement covered by a taxpayer alert
+94. Answer yes if you have an arrangement that can reasonably be described as being covered by any of the following taxpayer alerts:
+•
+Taxpayer Alert
+TA 2016/1
+Inappropriate recognition of internally generated intangible assets and revaluation of intangible assets for thin capitalisation purposes
+•
+Taxpayer Alert
+TA 2016/3
+Arrangements involving related party foreign currency denominated finance with related party cross currency interest rate swaps
+•
+Taxpayer Alert
+TA 2016/9
+Thin capitalisation - Incorrect calculation of the value of 'debt capital' treated wholly or partly as equity for accounting purposes
+•
+Taxpayer Alert
+TA 2016/10
+Cross-Border Round Robin Financing Arrangements
+•
+Taxpayer Alert
+TA 2019/1
+Multiple entry consolidated (MEC) groups avoiding CGT through intra-group debt
+•
+Taxpayer Alert
+TA 2020/2
+Mischaracterised arrangements and schemes connected with foreign investment into Australian entities
+•
+All taxpayer alerts released after the publication of this Guideline dealing with financial arrangements.
+Involves a hybrid arrangement
+95. Answer yes if the income (gain) or expenditure (loss) from your financial arrangements (including derivatives or spot transactions) is not subject to consistent or symmetrical tax treatment under the laws of the relevant overseas tax jurisdiction(s). Inconsistent treatment includes that due to tax deferral, or the treatment of the entity or other ownership arrangement in connection with holding or issuing of the financial arrangement. Tax treatment does not refer to differences in tax rates between jurisdictions.
+Examples of how to determine your risk zone
+Example 1 - Australian subsidiary of a US oil and gas company
+96.
+ForCo Inc. is a company incorporated in the United States of America (US) and is the parent of the global group. AusCo Pty Ltd is an Australia subsidiary of ForCo Inc.
+97.
+Relevant aspects of ForCo Inc. and AusCo's profiles are detailed in the following table:
+ForCo
+AusCo
+Year end
+31 December (accounting)
+31 December (tax and accounting)
+Interest coverage ratio
+16
+13
+Leverage
+33%
+[2]
+35%
+[3]
+Average cost of debt
+2.54%
+98.
+AusCo Pty Ltd is in the oil and gas industry, primarily undertaking exploration for, and extraction of, gas. It has an accounting and tax functional currency of U.S. dollars (USD). On 1 January 2016 AusCo Pty Ltd receives a loan from a related party. The relevant terms of the loan, as set out in the executed legal agreement, are:
+•
+interest rate of 6.16%
+•
+currency is USD
+•
+the loan is subordinated to senior debt, and
+•
+no security.
+99.
+The loan:
+•
+is not a hybrid instrument
+•
+does not involve hybrid entities
+•
+does not have exotic features, and
+•
+there are no associated related party derivatives.
+100.
+The lender is in Hong Kong, which has a headline tax rate of 16.5%.
+101.
+AusCo claims a 3.16% interest rate on its USD loan as the loan is priced as a senior debt for tax purposes.
+102.
+The risk indicator guide is applied to the circumstances of AusCo Pty Ltd as follows:
+Pricing indicator
+Application of criteria
+Score
+Priced consistently with global group cost of debt
+3.16% is 62 basis points higher than the group average cost of 2.54%
+1
+Security
+None
+3
+Subordination
+None
+0
+Currency of debt is different to operating currency
+No
+0
+Exotic features
+No
+0
+Total
+4
+Behavioural indicator
+Application of criteria
+Score
+Leverage
+Consistent with parent
+0
+Interest coverage ratio
+13
+1
+Headline tax rate of lender entity jurisdiction
+16.5%
+3
+Involves an arrangement covered by a taxpayer alert
+No
+0
+Hybrid arrangements
+No
+0
+Total
+4
+103.
+AusCo Pty Ltd's score of four for both indicators places it in zone 3 for pricing and zone A for behaviour. It's combined score places it in the yellow zone - moderate risk.
+104.
+AusCo Pty Ltd would likely be in the green zone if it:
+•
+offered security as part of the terms of the loan, and
+•
+priced the related party debt at no more than 50 basis points above the global group cost of debt (with flow on effects on AusCo Pty Ltd.'s interest coverage ratio).
+Example 2 - New Zealand subsidiary of an Australian asset management company
+105.
+AusCo Limited is an Australian incorporated asset management company listed on the ASX and is the parent of the global group. ForCo Ltd is a New Zealand subsidiary of AusCo Limited.
+106.
+Relevant aspects of AusCo Limited and ForCo Ltd.'s profiles are as follows:
+AusCo
+ForCo
+Year end
+30 June (accounting)
+30 June (accounting and tax)
+Average cost of debt
+2.54%
+[4]
+Functional currency
+Australian dollars
+(accounting and tax)
+New Zealand dollars
+(accounting and tax)
+Sovereign risk rating
+AAA
+A
+107.
+ForCo Ltd is in the real estate industry, primarily undertaking management and investment in real estate.
+108.
+On 1 January 2016 AusCo Limited provides a loan to ForCo Ltd; the relevant terms of the loan as set out in the executed legal agreement are an interest rate of 0% and currency of Australian dollars.
+109.
+The loan:
+•
+is not a hybrid instrument
+•
+does not involve hybrid entities
+•
+does not involve arrangement covered by a taxpayer alert, and
+•
+has no associated related party derivatives accompanying it.
+110.
+The risk indicator guide is applied to the circumstances of AusCo Pty Ltd as follows:
+Pricing indicator
+Application of criteria
+Score
+Priced consistently with global group cost of debt
+Zero interest on the related party facility
+10
+Currency of debt is different to operating currency
+Yes, but consistent with AusCo's tax and accounting functional currency
+0
+Sovereign risk of borrower entity
+Sovereign risk of New Zealand is A
+1
+Total
+11
+Behavioural indicator
+Application of criteria
+Score
+Involves an arrangement covered by a taxpayer alert
+No
+0
+Hybrid arrangement
+No
+0
+Total
+0
+111.
+AusCo Limited's score of 11 for pricing and zero for behavioural places it in zone 4 and zone A, respectively. Their combined score places them in the amber zone - high risk.
+112.
+AusCo Limited could be in the green zone if it:
+•
+charged an appropriate interest rate on its facility with ForCo Ltd, and
+•
+applied an appropriate adjustment for the sovereign risk of the borrower entity.
+113.
+In this example, a review would consider the application of Australia's transfer pricing rules and potentially the application of general deductibility provisions to the extent that AusCo incurred financing costs in order to on-lend to its New Zealand subsidiary.
+This Schedule originally published 18 December 2017
+SCHEDULE 2 - Related party derivative arrangements
+Table of Contents
+Paragraph
+Scope of this Schedule
+114
+Interaction with future schedules
+119
+Date of effect
+120
+Transitioning existing arrangements to the green zone
+121
+Related party derivative arrangement risk indicator guide
+127
+Evidencing your self assessment of your risk zone
+134
+Definition
+135
+Derivatives
+135
+Indicators
+(i) The entity has made an appropriate functional currency determination/choice where possible
+136
+(ii) The underlying transactions causing the exposure arises in relation to dealings with a non-related party on commercial terms
+138
+(iii) There is a history of the relevant type of derivative transaction in question being terminated by the entity or group before its maturity date
+141
+(iv) The related party derivative transaction gives rise to periodic net cash flows
+145
+(v) The derivative associated with the underlying transaction is initially with a related party but it is ultimately backed out to the market to a non-related party to mirror the same terms
+147
+(vi) There is an exposure for the entity or the group which is only a tax or internal accounting exposure, or an exposure that relates solely to intra-group transactions
+150
+(vii) The purpose and the effect of the derivative is to hedge, but not to over hedge, the exposure
+152
+(viii) The derivative triggers a loss without triggering a corresponding gain on the underlying transaction
+154
+(ix) The stand-alone legal entity that entered into the underlying transaction giving rise to the exposure is also the entity entering into the derivative transaction said to hedge this exposure
+155
+(x) The transacting entities entering into the derivative transaction have financial substance at the time the derivative was entered into (excluding parental support)
+157
+(xi) The entities entering into the derivative transactions are hybrid mismatch entities
+160
+(xii) The related counterparty to the derivative or to the underlying transaction giving rise to the exposure is in a low tax jurisdiction, or is favourably taxed, or is in a tax loss position
+162
+(xiii) The terms of the derivatives reflect terms that would be found in an equivalent arrangement between non-related parties dealing at arm's length
+163
+(xiv) The derivative has the effect of a partial or full synthetic sale of the underlying asset without triggering a gain for tax purposes
+164
+Examples of how to determine your risk zone
+165
+Example 1 - Australian subsidiary of a US oil and gas company
+165
+Example 2 - Australian subsidiary of a US automotive company
+173
+Example 3 - Australian subsidiary of a US asset management company
+185
+Scope of this Schedule
+114. This Schedule sets out specific risk indicators for related party derivative arrangements that are used to hedge or manage the economic exposure of a company or group of companies. In the normal course of events any derivative transaction being scored
+needs to be with a related party and hedging a related party financing arrangement
+. Notwithstanding this defined scope there is one exception where the scope of the Schedule is broadened. Where the transaction or contract involves a derivative being a total return swap (TRS) then the TRS should be scored even where the parties are not related. There is no need for the TRS to be related to a financing arrangement or be with a related party to be scored under this Schedule.
+115. Where a derivative is used for commercially rational hedging purposes, that is, to manage an economic exposure for a company or group of companies, the derivative will normally be entered into with an unrelated third party (either directly or indirectly via one or more interposed related parties). Where the derivative is entered into with a related party, the ATO is likely to consider the arrangement as higher risk unless the terms and conditions of the related party derivative are then backed out to a non-related party dealing at arm's length in the external market on mirror terms. Where a derivative has been either directly or indirectly, via one or more interposed related parties, backed out to the external market to a non-related party dealing at arm's length on mirror terms then the arrangement being scored will only be in either the green or blue zone
+[5]
+(this excludes TRS arrangements).
+116. The risk indicators set out in this Schedule have been developed with these matters in mind. You can use the indicators to consider the risk of compliance activity in relation to the following issues which arise in relation to related party derivative arrangements:
+•
+deductibility of payments
+•
+liability to withholding tax
+•
+the application of the transfer pricing rules in Division 815 of the ITAA 1997
+•
+the application of Part IVA of the ITAA 1936 to schemes which are confined to such arrangements.
+117. This Schedule does not provide interpretative or related guidance on Division 815, Part IVA or any other taxation provisions.
+118. In addition, this Schedule does not set out our compliance approach to reviewing other taxation issues which can arise in relation to related party derivative arrangements, including but not limited to:
+•
+the application of the debt/equity rules in Division 974 of the ITAA 1997
+•
+the application of the thin capitalisation rules in Division 820 of the ITAA 1997
+•
+the application of the hybrid mismatch rules in Division 832 of the ITAA 1997.
+Interaction with future schedules
+119. The risk indicators set out in this Schedule may be modified by future schedules to this Guideline. Where relevant, the nature and extent of any interaction between this Schedule and a future schedule will be contained in that future schedule.
+Date of effect
+120. This Schedule has effect from 1 January 2019 and applies to existing and newly created related party derivative arrangements.
+Transitioning existing arrangements to the green zone
+121. The Commissioner recognises the publication of this Schedule may cause taxpayers to review their derivative financial arrangements. Consequently, some taxpayers may modify their arrangements to prospectively come within the green zone.
+122. Until 30 June 2020 we will consider remitting shortfall penalties
+[6]
+to nil and the shortfall interest charge
+[7]
+to the base rate if certain pre-conditions are met. The conditions are that you make a voluntary disclosure in relation to all income years where your arrangements are in place and adjust your historic and prospective derivative financial arrangements to come within the green zone. If you do so, we will view this as a strong factor in favour of exercising the Commissioner's discretion to remit.
+[8]
+123. Taxpayers may inform us if they wish to transition their arrangements during or before a risk review, pre-compliance review, justified trust review or any similar product, but not after any notification to the taxpayer of the commencement of formal audit activity.
+124. For the back years within the amendment period, when the derivative financial arrangement was in place, you may be subject to the compliance approach outlined in this Guideline for the risk zone your derivative financial arrangements fall within.
+125. Taxpayers wishing to modify their derivative financial arrangements on a prospective basis can notify us through existing ATO relationship teams or via email to
+International@ato.gov.au
+of their intention to transition their arrangements. Taxpayers are required to provide details regarding:
+(a)
+existing derivative financial arrangements including how those arrangements comply with this Schedule
+(b)
+proposed derivative financial arrangements and their compliance with this Schedule
+(c)
+how the transition will be executed and any tax consequences associated with the transition, and
+(d)
+any proposal for resolution of relevant open years.
+[9]
+126. Where we reach agreement with you on your transitional arrangements, that agreement will be executed by way of deed and will apply for the duration of the new financial arrangements, subject to any critical assumptions agreed to as part of the deed.
+Related party derivative arrangement risk indicator guide
+127. Determining your risk zone requires you to:
+(a)
+select the appropriate criteria that applies to you, that is
+(i)
+the outbound taxpayer criteria, if you are an Australian ultimate holding company with one or more offshore subsidiaries, or
+(ii)
+the inbound taxpayer criteria, if you are an Australian taxpayer that is a subsidiary of an offshore entity
+(b)
+identify the indicators (set out in the left hand column of the tables at paragraph 133 of this Schedule) relevant to your circumstances, and
+(c)
+determine your score for each indicator based on the actual conditions applying to your related party derivative arrangement.
+128. The indicators are expressed as binary (yes/no) questions. Your score for each indicator is determined by reference to your answer to the question. The relative weighting for the indicators reflects our experience of features which tend to indicate risk.
+129. An indicator with a score of 10 or 15 is individually capable of resulting in a risk score outside the green zone.
+130. Where you have multiple derivative financial arrangements your risk zone rating will be equal to that of your highest scoring individual arrangement.
+131. Your aggregate score for all indicators will determine your risk zone for your derivative financing arrangement as follows:
+132. An explanation of each risk indicator is given at paragraphs 136 to 164 of this Schedule.
+133. Related party derivative arrangement risk indicator guide:
+Evidencing your self-assessment of your risk zone
+134. The following are examples of the kind of evidence it would be prudent to have easily accessible to minimise the burden of any fact checking, as described in paragraph 37 of this Guideline.
+Indicator
+Example of evidence
+•
+operating currency
+•
+functional currency election
+•
+major sales contracts indicating currencies used
+•
+contemporaneous records detailing internal hedge accounting elections or evidencing the group's policy concerning the use of derivatives by the Group
+•
+bank statements
+•
+industry data (supported by financial statements)
+•
+underlying transaction
+•
+derivative transactions
+•
+entities to the arrangements
+•
+relevant executed legal agreements setting out the terms of the arrangement(s)
+•
+contemporaneous records, such as Board minutes, indicating the purpose of entering into these arrangements
+•
+internal documents and submissions covering the origination of each derivative and underlying transaction, such as:
+-
+internal documents originated by the relevant business unit or risk management assessments
+-
+submissions made to and sign offs by the various administration areas of the Group including Accounting, Tax, Risk Management and Corporate Governance
+-
+submissions made to and approvals by the Board
+-
+copies of documents created by outside parties (accounting firms, law firms)
+•
+cash flow
+•
+bank statements
+•
+cash flow statements (supported by financial statements)
+•
+counterparty jurisdictions
+•
+counterparties tax loss positions
+•
+evidence of jurisdiction of incorporation or registration (or other evidence of central management and control)
+•
+copies of the recent prior tax returns lodged and assessments received in that jurisdiction
+•
+financial substance
+•
+copies of the recent prior tax returns lodged and assessments received in that jurisdiction
+•
+copies of annual reports prepared for the year in question
+•
+hybrid entities
+•
+evidence of registration under the relevant legislation in the jurisdiction of incorporation
+•
+Constitutions (or equivalent legal agreements) of the parties to the related party derivatives
+•
+arrangements are mispriced to the market
+•
+comparable evidence in the market
+•
+comparable executed legal agreements
+Definition
+Derivatives
+135. 'Derivative' in this context is as defined in the accounting standard AASB 139 and includes embedded derivatives. The derivative (excluding total return swaps) must relate to a financing arrangement (the underlying transaction) and be with a related party.
+Indicators
+(i) The entity has made an appropriate functional currency determination/choice where possible
+136. A 'functional currency determination/choice' in this context refers to both accounting functional currency and tax functional currency.
+137. An 'appropriate' functional currency determination is one which complies with the Australian accounting standards. If a tax functional currency choice has not been made and this does not make commercial sense other than from a tax perspective, we would not consider this to be appropriate.
+(ii) The underlying transactions causing the exposure arises in relation to dealings with a related or non-related party on commercial terms
+138. This indicator requires you to identify the counterparty to the underlying transaction which was entered into that caused you to be exposed to a certain market risk. Where the counter party is not related then the question would only apply to a transaction involving a TRS.
+139. 'Underlying transaction' refers to the transactions, arrangements or contracts entered into which give rise to the identified hedged exposure.
+140. 'Commercial terms' refers to the commerciality of the transactions or arrangements and the commercial outcomes produced by entering into these transactions or arrangements (is the transaction arm's length).
+(iii) There is a history of the relevant type of derivative transaction in question being terminated by the entity or group before its maturity date
+141. Answer yes if you or your group has previously terminated one or more similar kinds of derivative arrangements prior to the full term of the arrangement in the last seven years. This does not include internal derivatives which have been backed out to the market on mirror terms where the underlying exposure being hedged also ceases.
+142. For the avoidance of doubt, termination in this context also does not extend to taking an equal and opposite derivative position to close off an entity's current derivative position.
+143. The Commissioner considers the early termination of a derivative arrangement in any future year, after you have self-assessed your derivative arrangement against this Schedule, to be an exceptional circumstance as detailed in paragraph 41 of this Guideline.
+144. For example, if you rate a derivative arrangement as green for a particular year, but you terminate the derivative early, we reserve the right to apply compliance resources to review your related party derivative arrangement.
+(iv) The related party derivative transaction gives rise to periodic net cash flows
+145. Answer yes if your related party derivative arrangement actually results in the periodic payment or receipt of cash or periodic net cash flows.
+146. Answer no if the cash used in financing the net cash flow from the arrangement was funded via a payment in kind, a subscription of shares or additional debt creation.
+(v) The derivative associated with the underlying transaction is initially with a related party, but it is ultimately backed out to the market to a non-related party to mirror the same terms
+147. This indicator requires you to identify your relationship with the counterparty to the derivative arrangement and determine whether the counterparty, if it is a related party, has entered into a subsequent back-to-back derivative arrangement with a non-related party in the market, dealing at arm's length, to mirror the same terms. Dealing at arm's length in this context can be determined in the light of whether the external transaction entered into would be considered contrived by an objective observer.
+148. A derivative is considered traceable to a third party when:
+•
+the derivative entered into between your related party (or other group member) and a non-related third party mirror the key terms, conditions and events (including the start date of the arrangement, currency, swap rates, and cash flows) of the related party derivative entered into by you, and
+•
+the group's accounting system can demonstrate that the appropriate amount of cash flow being provided to your related party (or other group member) by you is the same amount provided to the non-related third party.
+If your transaction under review satisfies all the above conditions (Yes) then the arrangement does not have to be scored any further under this Schedule and the arrangement being scored will only be in the green or blue zone as scored for indicators (i) to (v) (see paragraph 115 of this Schedule). Note that this excludes arrangements involving total return swap transactions.
+149. Answer no if the counterparty to your derivative arrangement is a related party and the derivative is not traceable to a non-related third party.
+(vi) There is an exposure for the entity or the group which is only a tax or internal accounting exposure, or an exposure that relates solely to intra-group transactions
+150. 'Exposure' in this context refers to the economic variables associated with:
+(a)
+translational risk (balance sheet risk)
+(b)
+transactional or commitment risk (income statement risk), and
+(c)
+economic, operation or competitive risk.
+151. Answer yes if your hedge is not being used to manage balance sheet exposure or cash flow exposure of the group (excluding taxation); but rather the derivative is said to hedge or offset an exposure which arises in connection with:
+(a)
+a transaction between group members, or
+(b)
+taxation or accounting exposure caused by the intra-group transactions (for example, the hedging of a potential tax exposure relating to foreign currency movements on repayment of a related party loan).
+(vii) The purpose and the effect of the derivative is to hedge, but not to over hedge, the exposure
+152. The derivative is said to hedge an identified exposure if:
+(a)
+the Australian taxpayer entity is entering into the derivative in order to hedge an exposure
+(b)
+the derivative entered into by either the Australian entity or the group effectively hedges this exposure, and
+(c)
+the derivative is not entered into for speculation or profit-making purposes.
+153. Answer no if your derivative financial arrangement is not on similar terms as the underlying transaction or if your derivative financial arrangement over hedges the identified exposure (that is, you are paying way more than required to achieve an effective hedge).
+(viii) The derivative triggers a loss without triggering a corresponding gain on the underlying transaction
+154. Answer yes if the loss on the derivative which hedges the identified exposure is claimed as a deduction in a different income year to the corresponding gain of the underlying transaction.
+(ix) The stand-alone legal entity that entered into the underlying transaction giving rise to the exposure is also the entity entering into the derivative transaction said to hedge this exposure
+155. Answer no if the derivative which hedges the identified exposure is entered into or held by a different legal entity to the entity which entered into or holds the underlying transaction producing the identified hedged exposure.
+156. For the avoidance of doubt, should the derivative arrangement and the underlying transaction be held by different stand-alone legal entities of a consolidated group (or multiple entry consolidated group), and there are no legal transfers of risk directly between the stand-alone legal entities, answer no to this question.
+(x) The transacting entities entering into the derivative transaction have financial substance at the time the derivative was entered into (excluding parental support)
+157. Financial substance in this context refers to the ability to meet any adverse financial settlement associated with the derivative.
+158. For the avoidance of doubt, the provision of security by a related party through such instruments as a pledge, providing a guarantee, covenants, parental support and the like are not regarded as providing the entity holding the derivative with financial substance.
+159. Answer no if at the time you entered into the derivative arrangement, either you or the counterparty to the derivative arrangement had insufficient ability to honour any adverse financial settlement associated with the arrangement.
+(xi) The entities entering into the derivative transactions are hybrid mismatch entities
+160. Answer yes if you or the counterparty to your derivative is an entity that has inconsistent tax treatment under the laws of two or more jurisdictions.
+161. 'Inconsistent tax treatment' includes tax deferral but does not include a simple difference in tax rate between jurisdictions.
+(xii) The related counterparty to the derivative or to the underlying transaction giving rise to the exposure is in a low tax jurisdiction, or is favourably taxed, or is in a tax loss position
+162. Answer yes if the counterparty to your derivative arrangement resides in a jurisdiction with a collective corporate tax rate below 15% (including where there are specific tax holidays or other concessional tax treatments driving the counterparty's tax rate below 15%) or if the counterparty to the your derivative arrangement is in a tax loss position.
+(xiii) The terms of the derivatives reflect terms that would be found in an equivalent arrangement between non-related parties dealing at arm's length
+163. Answer no to this indicator if the terms of the derivative with your related counterparty do not reflect terms that would be found in an equivalent arrangement between non-related parties dealing at arm's length (for example, under a cross-currency swap the notional interest rate being paid is higher than what is observed in the market).
+(xiv) The derivative has the effect of a partial or full synthetic sale of the underlying asset without triggering a gain for tax purposes
+164. Answer yes if the effect of the derivative is a transfer of the economic ownership of all or part of the underlying asset (that is, a synthetic sale) and this transfer does not result in an assessable gain for taxation purposes (for example, a total return swap or asset swap).
+Examples of how to determine your risk zone
+Example 1 - Australian subsidiary of a US oil and gas company
+165.
+AusCo Pty Ltd is an Australian subsidiary of ForCo Inc., a company incorporated in the state of Delaware in the US.
+166.
+AusCo Pty Ltd is in the oil and gas industry primarily undertaking exploration for, and the extraction of gas. It has an accounting and tax functional currency of US dollars (US$).
+167.
+On 1 January 2017 a related party raised finance in the EURO commercial bond market and then on-lent EURO to Aus Co. The relevant terms of AusCo Pty Ltd's loan and the bond issuance are identical. The terms as set out in the executed legal agreements, were:
+•
+interest rate of 1.28% per annum fixed
+•
+currency in EURO
+•
+principal Euro 2,000,000,000 or equivalent
+•
+interest payable quarterly, and
+•
+term eight years.
+168.
+On 1 January 2017 AusCo Pty Ltd entered into a cross-currency interest rate swap with ForCo Inc. to swap USD fixed for Euro fixed. The relevant terms of this cross currency interest rate swap, as set out in the executed legal agreement are as follows:
+•
+AusCo Pty Ltd receives fixed Euro 1.28%
+•
+AusCo Pty Ltd pays fixed US$ 2.21%
+•
+principal Euro €2 billion or equivalent
+•
+net cash paid quarterly, and
+•
+term eight years.
+169.
+At the same time, ForCo Inc. entered into a derivative transaction to back out the exposure to the market with a third-party bank that mirrored the arrangement entered into with AusCo Pty Ltd.
+170.
+Other key details relevant to the AusCo Pty Ltd and ForCo Inc. group are detailed here:
+•
+There is a history of ForCo Inc. and AusCo Pty Ltd terminating cross-currency interest rate swaps prematurely.
+•
+The policies of the ForCo Inc. group do not allow hedging for speculative purposes.
+•
+The terms of the underlying exposure (the Euro loan from Related Party Co) do reflect terms that would be found in an equivalent arrangement between non-related parties dealing at arm's length.
+•
+The periodic payments under the swap and loan are claimed for Australian tax purposes when they are derived and incurred in Australia.
+171.
+There is no need to score this arrangement further than the first five indicators ((i) to (v) of the risk indicator guide) for AusCo Pty Ltd as the internal derivative associated with the underlying transaction was ultimately backed out to the market to a non-related party (Third Party Bank) with another derivative that mirrored the same terms.
+172.
+AusCo Pty Ltd's risk score for this transaction would be three points. AusCo Pty Ltd had a previous history of prematurely closing out these types of transactions and this attracts three points under indicator (iii). Indicators (i), (ii), (iv) and (v) each score zero points. Therefore, Ausco Pty Ltd's risk rating would likely be in the green zone on this fact scenario. Note if the current transaction is also prematurely closed out then we reserve the right to apply compliance resources to review your related party derivative arrangement (see paragraphs 143 to 144 of this Schedule).
+Example 2 - Australian subsidiary of a US automotive company
+173.
+AusLLP is a limited liability partnership formed in Australia by two subsidiary companies of ForCo Inc.
+174.
+ForCo Inc. is a company incorporated in the state of Delaware in the US.
+175.
+As a limited liability partnership operating in Australia, AusLLP is treated as an Australian resident company under Division 5A of the ITAA 1936 but still treated as a partnership for US tax purposes.
+176.
+AusLLP is the head of the AusLLP tax consolidated group (TCG); this group has an Australian dollar (A$) functional currency.
+177.
+AusCo Pty Ltd is an Australian resident subsidiary of Forco Inc. and is treated as a member of the AusLLP TCG. AusCo Pty Ltd operates in the automotive industry and is primarily involved in the distribution of automotive parts to the Australian market and derives most of its income in A$.
+178.
+On 1 January 2017, AusCo Pty Ltd received financing from ForCo Inc. The relevant terms of this financing facility to AusCo Pty Ltd., as set out in the executed legal agreement were:
+•
+interest rate of 2.21% per annum
+•
+currency in US$
+•
+principal US$2 billion
+•
+interest payable quarterly, and
+•
+term eight years.
+179.
+The ForCo Inc. group's policy is to fully hedge group currency exposures.
+180.
+On 1 January 2017, AusLLP entered into a cross currency interest rate swap with USCo, a subsidiary of ForCo Inc., to swap US$ fixed for A$ fixed. The relevant terms of this swap, as set out in the executed legal agreement are as follows:
+•
+AUSLLP receives fixed US$ 2.21%
+•
+AusLLP pays fixed A$ 4.2%
+•
+principal US$2 billion or equivalent
+•
+net cash paid quarterly, and
+•
+term eight years.
+181.
+Other key details relevant to the ForCo Inc. group are:
+•
+Members of the ForCo Inc. group have no history of terminating related party cross-currency interest rate swaps prematurely.
+•
+AusLLP accrues it obligations under the swap as the group does not have the means (until parental intervention) to repay the facility.
+•
+The gain or loss of the derivative principal and underlying transaction are claimed when the arrangement matures.
+•
+The periodic payments under the swap and loan are claimed for tax purposes when they are derived and incurred on a tax consolidated basis in Australia.
+•
+The terms of the US$ loan and the derivative reflect terms that would be found in an equivalent arrangement between non-related parties dealing at arm's length.
+182.
+The risk indicator guide is applied to the circumstances of AusCo Pty Ltd in the following manner:
+Pricing indicator
+Application of criteria
+Score
+(i)
+The entity has made an appropriate functional currency determination/choice where possible.
+Yes
+0
+(ii)
+The underlying transactions causing the exposure arises in relation to dealings with a related or non-related party on commercial terms.
+Yes
+0
+(iii)
+There is a history of the relevant type of derivative transaction in question being terminated by the entity or group before its maturity date.
+No
+0
+(iv)
+The related party derivative transaction gives rise to periodic net cash flows.
+Yes
+0
+(v)
+The derivative associated with the underlying transaction is initially with a related party, but it is ultimately backed out to the market to a non-related party to mirror the same terms (note that 'yes' means the transaction does not have to be scored further).
+No, there is no indication that the arrangement is backed out to the market
+10
+(vi)
+There is an exposure for the entity or the group which is only a tax or internal accounting exposure, or an exposure that relates solely to intra-group transactions.
+Yes, the exposure relates to an internal accounting exposure
+10
+(vii)
+The purpose and the effect of the derivative is to hedge, but not to over hedge, the exposure.
+Yes
+0
+(viii)
+The derivative triggers a loss without triggering a corresponding gain on the underlying transaction.
+No
+0
+(ix)
+The stand alone legal entity that entered into the underlying transaction giving rise to the exposure is also the entity entering into the derivative transaction said to hedge this exposure.
+No, the underlying transaction is entered into by AusCo Pty Ltd, but the derivative is entered into by AusLLP
+15
+(x)
+The transacting entities entering into the derivative transaction have financial substance at the time the derivative was entered into (excluding parental support).
+No, without parental support AusLLP has no way of meeting its obligation to make periodic payments under the derivative
+15
+(xi)
+The entities entering into the derivative transactions are hybrid mismatch entities.
+Yes, AusLLP is a hybrid entity that is treated as a company in Australia but a partnership in the US
+15
+(xii)
+The related counterparty to the derivative or to the underlying transaction giving rise to the exposure is in a low tax jurisdiction, or is favourably taxed, or is in a tax loss position.
+No
+0
+(xiii)
+The terms of the derivatives reflect terms that would be found in an equivalent arrangement between non-related parties dealing at arm's length.
+Yes, the terms of the derivative have been found to be at arm's length
+0
+(xiv)
+The derivative has the effect of a partial or full synthetic sale of the underlying asset without triggering a gain for tax purposes.
+No
+0
+Total
+65
+The AusLLP TCG falls into the red 'very high risk' zone. AusLLP TCG can expect priority compliance activity.
+183.
+The AusLLP TCG would likely be in the blue zone if:
+•
+AusCo Pty Ltd was the entity hedging the exposure
+•
+the parties to the derivative arrangement had financial substance
+•
+there was not a hybrid mismatch entity, and
+•
+there was a real economic exposure to the group other than merely tax or accounting.
+184.
+The transaction would likely be in the green zone if the exposure to the group was removed via a hedge with an external party in the market on mirror terms as that of the internal derivative.
+Example 3 - Australian subsidiary of a US asset management company
+185.
+AusCo Pty Ltd is an Australian subsidiary of ForCo Inc., a company incorporated in the state of Delaware in the US. ForCo Inc. has not 'checked the box' for AusCo Pty Ltd so therefore AusCo Pty Ltd is not fiscally transparent for US tax purposes.
+186.
+AusCo Pty Ltd is in the infrastructure and property development industry, primarily involved in the investment and development of commercial properties in Australia. It has an accounting and tax functional currency of A$.
+187.
+On 1 January 2015, AusCo Pty Ltd entered into a loan with third-party banks to fund the acquisition and development of the property.
+188.
+On 1 December 2015, AusCo Pty entered into a total return asset swap with ForCo Inc. The relevant terms of this swap for ForCo Inc. as set out in the executed legal agreements are as follows:
+•
+ForCo Inc. receives gross rent from the Property in A$
+•
+ForCo Inc. pays all property expenses in A$
+•
+ForCo Inc. pays the equivalent of the BBSW plus a margin
+•
+ForCo Inc. pays/receives the difference in the value of the property at the termination of the asset swap
+•
+ForCo Inc. receives an option to acquire the property from AusCo, and
+•
+the term of the derivative is five years.
+189.
+ForCo Inc. subsequently entered into a second total return asset swap with an unrelated overseas collective investment vehicle (CIV) in another tax jurisdiction with the same terms except a premium was also paid to ForCo Inc. by the CIV when entering into the second total return asset swap.
+190.
+The risk indicator guide is applied to the circumstances of AusCo Pty Ltd as follows:
+Pricing indicator
+Application of criteria
+Score
+(i)
+The entity has made an appropriate functional currency determination/choice where possible.
+Yes
+0
+(ii)
+The underlying transactions causing the exposure arises in relation to dealings with a related or non-related party on commercial terms.
+Yes
+0
+(iii)
+There is a history of the relevant type of derivative transaction in question being terminated by the entity or group before its maturity date.
+No
+0
+(iv)
+The related party derivative transaction gives rise to periodic net cash flows.
+Yes
+0
+(v)
+The derivative associated with the underlying transaction is initially with a related party, but it is ultimately backed out to the market to a non-related party to mirror the same terms (note that even if the answer is 'yes' the transaction still needs to be scored further as it is a TRS)
+No, the second TRS has a premium
+10
+(vi)
+There is an exposure for the entity or the group which is only a tax or internal accounting exposure, or an exposure that relates solely to intra-group transactions.
+No
+0
+(vii)
+The purpose and the effect of the derivative is to hedge, but not to over hedge, the exposure.
+No, the swap is ultimately entered into for profit making purposes and not to merely hedge the exposure
+10
+(viii)
+The derivative triggers a loss without triggering a corresponding gain on the underlying transaction.
+No
+0
+(ix)
+The stand alone legal entity that entered into the underlying transaction giving rise to the exposure is also the entity entering into the derivative transaction said to hedge this exposure.
+Yes
+0
+(x)
+The transacting entities entering into the derivative transaction have financial substance at the time the derivative was entered into (excluding parental support).
+Yes
+0
+(xi)
+The entities entering into the derivative transactions are hybrid mismatch entities.
+No, AusCo is not fiscally transparent for US tax purposes
+0
+(xii)
+The related counterparty to the derivative or to the underlying transaction giving rise to the exposure is in a low tax jurisdiction, or is favourably taxed, or is in a tax loss position.
+No
+0
+(xiii)
+The terms of the derivatives reflect terms that would be found in an equivalent arrangement between non-related parties dealing at arm's length.
+No, the terms of the derivative have not been found to be at arm's length
+15
+(xiv)
+The derivative has the effect of a partial or full synthetic sale of the underlying asset without triggering a gain for tax purposes.
+Yes, the total return results in the synthetic sale of the property without triggering a gain for tax purposes
+15
+Total
+50
+191.
+AusCo Pty Ltd falls into the red 'very high risk' zone. AusCo Pty Ltd can expect priority compliance activity.
+192.
+AusCo Pty Ltd would likely be in the green zone if it did not enter into the total return asset swap but instead entered into a direct sale of the property to ForCo Inc. or the CIV at an arm's length market price.
+This Schedule originally published 27 November 2019
+SCHEDULE 3 - Interest-free loans between related parties
+Table of Contents
+Paragraph
+Scope of this Schedule
+193
+Interaction with future schedules
+200
+Date of effect
+201
+Related party financing risk indicator guide
+202
+Application of the risk indicator guide to outbound interest free loans
+206
+Framing considerations for identifying the arm's length conditions
+210
+Relevant factors to be taken into account
+214
+Step 1 - minimum required factors
+214
+Evidence to substantiate an inability to borrow funds
+215
+Step 2 - additional factors
+216
+Evidencing your self-assessment of your risk zone
+224
+Definitions
+226
+Global group
+226
+Examples
+227
+Example 1 - Country A subsidiary of an Australian mining company
+231
+Example 2 - Country B subsidiary of an Australian manufacturing company
+242
+Example 3 - Country C subsidiary of an Australian infrastructure company
+254
+Example 4 - Country D subsidiary of an Australian commercial property management company
+265
+Scope of this Schedule
+193. This Schedule outlines the factors under which the risk score assigned to outbound interest-free loans made between related parties may be modified for the purposes of Schedule 1 of this Guideline.
+194. The factors outlined in this Schedule seek to provide practical guidance as to when the ATO will dedicate resources to review arrangements involving outbound interest-free loans between cross-border related parties.
+195. This Schedule should be read in conjunction with:
+•
+Taxation Ruling TR 2014/6
+Income tax:  transfer pricing - the application of section 815-130 of the Income Tax Assessment Act 1997
+for advice on the application of section 815-130 of the ITAA 1997, and
+•
+Taxation Determination TD 2019/10
+Income tax:  can the debt and equity rules in Division 974 of the Income Tax Assessment Act 1997 limit the operation of the transfer pricing rules in Subdivision 815-B of the Income Tax Assessment Act 1997?
+for advice on the interaction of Division 974 and Subdivision 815-B of the ITAA 1997.
+196. In general, the ATO considers that there is a high transfer pricing risk with an outbound interest-free loan between related parties. This is because generally, loans are not provided by independent parties on an interest-free basis. Subject to this Schedule, an outbound interest-free loan would have an amber or red rating under this Guideline.
+197. There may be circumstances where it would be appropriate to apply Subdivision 815-B on the basis that the interest-free loan transaction ought to be compared to a subscription of shares or other investments of equity, rather than a loan. In these circumstances, there should be no transfer pricing benefit from an interest-free loan.
+198. This Schedule does not set out the parameters for when a transfer pricing analysis of an interest-free loan ought to be conducted by regarding the transaction as a contribution of equity. However, it does acknowledge that there are particular circumstances where an outbound interest-free loan is not as high risk for transfer pricing purposes because it might be established that it is appropriate to compare to an equity contribution.
+199. This Schedule is limited to risks relating to the application of the transfer pricing rules in Subdivision 815-B of the ITAA 1997. It does not set out the approach of the ATO to reviewing other taxation issues which might arise in relation to related party interest-free loans including, but not limited to the application of:
+•
+the debt/equity rules in Division 974 of the ITAA 1997
+•
+the thin capitalisation rules in Division 820 of the ITAA 1997
+•
+the hybrid mismatch rules in Division 832 of the ITAA 1997
+•
+the application of Part IVA of the ITAA 1936.
+Interaction with future schedules
+200. The risk indicators contained in this Schedule may be modified by future schedules to this Guideline. The exact nature and extent of any modification or further interaction between this Schedule and others will be contained in those subsequent schedules.
+Date of effect
+201. This Schedule has effect from 1 January 2020 and applies to existing and newly created related party interest-free loans.
+Related party financing risk indicator guide
+202. Schedule 1 of this Guideline contains the pricing risk scoring table (replicated in paragraph 209 of this Schedule).
+203. The 'sovereign risk of borrower entity' indicator of the pricing risk scoring table has been removed for this Schedule. However, this risk indicator will continue to apply to interest-bearing loans.
+204. Your risk zone is determined by combining your outcomes under the pricing and motivational risk scoring tables according to the following matrix.
+205. The motivational risk scoring table in paragraph 56 of this Guideline has not been replicated in this Schedule, however, still needs to be considered in determining your overall risk rating.
+Application of the risk indicator guide to outbound interest-free loans
+206. Having zero interest charged on an outbound related party loan gives a base score of 10, prior to consideration of any other factors listed in the motivational risk scoring table.
+207. In the first instance, an outbound interest-free related party loan will automatically place you in the amber zone. You will remain in the amber zone unless it can be evidenced that:
+•
+the zero-interest rate is an arm's length condition of the loan, or
+•
+the loan is in substance an equity contribution, or
+•
+independent entities would not have entered into the actual loan and would have entered into an equity funding arrangement.
+208. Notwithstanding the pricing indicator, the interest-free loan may have other features (for example, the currency of the borrower) which further increases the risk profile of that arrangement.
+209. The following is the pricing risk scoring table:
+Framing considerations for identifying the arm's length conditions
+210. Prior to examining the relevant factors which should be considered in determining whether the pricing risk scoring in Schedule 1 of this Guideline may be modified, some considerations by which to frame an analysis on the arm's length conditions are set out in paragraphs 214 to 223 of this Schedule.
+211. The framing considerations and factors contained in this Schedule should be applied to the relevant facts and circumstances of each case in respect of outbound interest-free related party financing arrangements.
+212. There are some circumstances where it may be appropriate to identify the arm's length conditions on the basis that the commercial or financial relations comprise an equity contribution, rather than a loan. This may be the case where:
+•
+although in the form of a loan, the substance of the lending arrangement is an investment of equity, or
+•
+it can be demonstrated that independent entities dealing with each other in comparable circumstances would not have entered into a loan, but would instead, have entered into an equity funding arrangement.
+213. In conducting your preliminary assessment, the following features may be relevant to whether a transfer pricing analysis ought to be conducted on the basis that there would have been an equity contribution where:
+•
+The rights of the provider of funds are similar to those of a shareholder, for example, the lender may have, in relation to the loan, voting rights, a return dependent upon profits, or other rights that usually attach to equity ownership.
+•
+There is no date for repayment of interest and principal, and no reasonable expectation of repayment until the lender is able to generate positive cash flows, for example, the funds are used for the prospecting or exploration stage of a mining business and the entity has no assets that could be provided as security nor does it have any present income flows from which it could make repayments.
+•
+The rights to repayment are deeply subordinated below that of other lenders, for example, there is existing third-party senior debt secured against assets which would rank higher than the interest-free loan.
+•
+There is evidence to demonstrate that the borrower could not reasonably borrow the amount from an arm's length independent lender on commercial terms.
+Relevant factors to be taken into account
+Step 1 - minimum required factors
+214. In circumstances where you answer 'yes' to one of the alternatives for each of the following questions, you should only add three points (blue zone/low to moderate risk) rather than 10 points (amber zone/high risk) on account of having a zero interest rate on a loan under the pricing risk scoring table in paragraph 209 of this Schedule.
+(a)
+Can it be evidenced that:
+(i)
+the rights and obligations of the provider of funds are effectively the same as the rights and obligations of a shareholder?
+or
+(ii)
+the parties had no intention of creating a debt with a reasonable expectation of repayment and, therefore, did not have the intent of creating a debtor-creditor relationship?
+AND
+(b)
+Can it be evidenced that:
+(i)
+the intentions of the parties are that the funds would only be repaid or interest imputed at such time that the borrower is in a position to repay?
+or
+(ii)
+the borrower is in a position where it has questionable prospects for repayment and is unable to borrow externally (see paragraphs 215 of this Schedule)?
+Evidence to substantiate an inability to borrow funds
+215. Relevant factors in considering whether the recipient of the funds could have borrowed the amount advanced from an independent lender in comparable circumstances may include:
+•
+common funding practices of the industry in which the recipient's business operates for entities in comparable circumstances
+-
+Commercial practices in the industry in which the recipient's business operates (including the particular time at which debt funding is sought and the purpose for the borrowing) for entities in comparable circumstances may be an indicator of whether an independent lender is more likely to lend at a particular time and for a particular purpose.
+-
+Where the debt to equity ratio is very high compared to the average for comparable entities in the particular industry or in the country in which the investment is made, this may be an indicator of the borrower's ability to obtain loan financing.
+-
+Even if it is not unusual for participants in a particular industry to be highly geared, it is necessary to consider whether the business of an individual entity operating in that industry could sustain a high level of debt.
+•
+the business activity of the recipient entity
+-
+The nature of the activity of a business at a particular time may be one that no independent lender would lend to in their ordinary course of business. An example of such an activity may be the prospecting or exploration stage of a mining business where there are a lack of assets to provide as security, no current revenue stream to meet repayment obligations or the business activity is still at the pre-final investment decision stage.
+•
+the financial position of the recipient entity
+-
+In determining the amount it would be prepared to lend, an independent lender would be expected to focus on potential default risk and the creditworthiness of the entity by examining the levels of security available and income, profits and cash flows (historic, current and projected) relative to the debt amount.
+-
+The capacity of the recipient to fund the payment of interest and the repayment of principal are relevant considerations; lack of such capacity may be indicative that an advance is in substance equity.
+-
+Factors such as poor operating cash flow, high gearing levels and poor economic outlook are indicative of an entity that would be unlikely to be able to borrow at commercial rates and would seek equity funding, where possible.
+Step 2 - additional factors
+216. Although not determinative when viewed in isolation, the following additional factors may support a zero interest rate as an arm's length condition or support an equity characterisation and
+may further reduce
+your risk assessment from three points (blue zone / moderate risk) to zero (green zone / low risk).
+217. In performing a risk assessment, a relevant question is whether independent entities behaving in a commercially rational manner and acting in their own best commercial and economic interests would have dealt with one another in the same way, given the options that are realistically available to them. This question needs to be addressed from the perspectives of both the provider of funds and the recipient.
+218. There may be circumstances where the non-charging of interest would be identified as an arm's length condition. For example, an off-take arrangement where the commercial benefit of interest has been substituted for consideration in another form (that is, delivery of a commodity/resource being extracted). The funding would be considered low risk in this case, if evidence can be provided which demonstrates commercial arrangements in the same or similar circumstances to that of the parties.
+219. Absence of a fixed maturity date or a lender's rights to enforce payment is generally indicative that there is no obligation to repay and supports characterising an advance of funds as equity. Additional conditions regarding repayment of the loan which may indicate that the funding should be characterised as equity and therefore low risk, include where the right to repayment is deeply subordinated below the claims of other lenders, and absent are any conditions for a short repayment period or conditions effectuating the loan being repayable on demand.
+220. Circumstances can arise where there are restrictions on an investment of additional equity into the country of which the borrower is resident. Regulatory barriers which limit the percentage of foreign investment or historically proven sovereign risk associated with withdrawing capital may go towards explaining why the arrangement may not be undertaken as a contribution of equity, however it does not unequivocally lead to the conclusion that the arrangement could not have been in substance debt.
+221. Where interest-free loans have been legally documented as debt, the funding would be considered low risk if evidence can be provided to demonstrate:
+•
+that the purpose of the loan was to acquire capital assets for the expansion of the core business
+•
+where it is customary in the applicable industry to enter into longer-term investments
+•
+there is evidence that the borrower it is not in a position to repay the loan until the project turns cash flow positive over the long term
+•
+it is unlikely that it would be able to secure funds externally, and
+•
+the purpose was aligned with the group's policies and practices in respect of funding needs.
+[10]
+222. Any risk assessment conducted should be based on the relevant commercial or financial relations ascertained at the time that the transaction was entered into. It follows that the characterisation would not be expected to change over the life of the transaction unless there are material amendments to the arrangement or it can be demonstrated that there are material changes to the borrower's circumstances such that a different characterisation is warranted.
+223. We would consider the arm's length conditions that are taken to operate by virtue of section 815-115 of the ITAA 1997 apply for all parts of the income tax legislation. For example, if for the purposes of Subdivision 815-B of the ITAA 1997, the arm's length conditions are identified based on an interest-free loan arrangement that is regarded as an equity transaction, but a deduction was claimed under commercial debt forgiveness rules in respect of the amount of the funding, this would be considered high risk. Consistent treatment of the arrangement under Subdivision 815-B and for all parts of the income tax legislation would go towards further supporting an overall low risk score.
+Evidencing your self-assessment of your risk zone
+224. While economic arguments presented may be useful in certain circumstances, the factors outlined in this Schedule will primarily have regard to available evidence.
+225. The following are examples of source documents which would be prudent to have in place in order to minimise the burden of any such fact checking, as described in paragraph 229 of this Schedule.
+Indicator
+Example of evidence
+•
+pricing of your related party debt
+•
+size of your related party debt
+•
+tenor
+•
+subordination
+•
+exotic features
+•
+currency
+•
+existence of guarantees or security
+•
+relevant executed legal agreements setting out these terms
+•
+ability to obtain finance
+•
+group treasury policies and practices
+•
+independent research on relevant industry/market practices
+•
+creditworthiness
+•
+credit rating provided by an independent credit rating agency
+•
+pre-approval for external bank debt (for example, final investment decision approval document or a banking feasibly study)
+•
+leverage of the Australian group or global group
+•
+global group's cost of funds
+•
+audited financial accounts of the Australian group or the audited consolidated financial accounts of the group's parent entity (or the equivalent to such accounts where such accounts, or a single set of such accounts, are not prepared)
+•
+existence of relationship with company shareholding
+•
+confirmation of voting rights and/or other forms of participation in share capital
+Definitions
+Global group
+226. The definition of global group differs based on the structure of the group.
+Structure
+Definition
+Publicly listed companies
+A member of a group of entities that are consolidated for accounting purposes as a single group
+Privately owned companies
+Includes the taxpayer and their associates as defined in section 318 of the ITAA 1936
+Joint venture/consortium entities
+Where a joint venture partner or consortium member with more than 20% direct or indirect interest in the entity has provided capital by way of debt, that particular instrument is assessed against the global group of that particular joint venture partner or consortium member
+Examples
+227. The following examples may assist you in understanding the analysis required to determine whether the factors contained within this Schedule apply to your circumstances.
+228. These examples highlight some of the factors which we may consider in assessing whether an arrangement remains or falls out of the amber zone of the risk matrix outlined in this Guideline.
+229. To assess whether your arrangement remains or falls out of the amber zone, you will need to exercise judgment having regard to the factors provided in this Schedule. For an arrangement to be considered lower risk, it must be reasonable to conclude that either the zero interest rate is an arm's length condition of the loan, that the loan is in substance an equity contribution, or that independent entities would not have entered into the actual loan but would have entered into an equity funding arrangement.
+230. While some of the examples are considered low risk in the context of the factors contained in this Schedule, a low risk assessment will not necessarily preclude the application of other tax provisions, such as the anti-hybrid rules and other anti-avoidance rules of the income tax legislation.
+Example 1 - Country A subsidiary of an Australian mining company
+231.
+AusCo Limited is an Australian incorporated company that is the parent of a global mining group.
+232.
+ForCo Ltd is a Country A incorporated company and is a subsidiary of AusCo Limited.
+233.
+Under Country A's legal framework, there are requirements in respect of local government involvement and restrictions on foreign ownership for ForCo Ltd when conducting mining exploration projects.
+234.
+The project is at the early stage of development and there is no positive cash flow. The local government does not have sufficient funds to contribute to the exploration project. Furthermore, although third-party debt is available, the conditions of the debt are not commercially viable and do not fall within the acceptable policies and practices of the group.
+235.
+On 1 January 2018, AusCo Limited provided a documented loan to ForCo Ltd, with the intention of providing funding with preferential payment status.
+236.
+The loan funding will be used by ForCo Ltd to undertake a mining exploration and extraction project in the Country A.
+237.
+The pricing risk matrix at paragraph 209 of this Schedule is applied to the arrangement between AusCo Limited and ForCo Ltd as follows:
+Pricing indicator
+Application of criteria
+Score
+Priced consistently with global group cost of debt
+Zero interest on the related party facility
+10
+Total
+10
+238.
+AusCo Limited's total score of 10 places the entity in Zone 4A. This score places them in the amber zone - high risk.
+239.
+The factors contained in this Schedule are applied to the facts and circumstances of AusCo Limited's arrangement as follows:
+References within this Schedule
+Required factors
+Application of factors
+Paragraph 214(a)(i)
+Rights and obligations of a shareholder?
+Yes.
+ForCo Ltd is a subsidiary of AusCo Limited.
+Paragraph 214(a)(ii)
+No intention of creating a debtor-creditor relationship?
+No.
+Under the legal framework in Country A, AusCo Limited is not allowed to inject capital funds as there are restrictions on foreign ownership.
+The loan is documented with the evidence demonstrating that there is a legal obligation to repay, as well as Ausco's right to receive the balance of the loan in the event of default.
+Both the form and substance of the arrangement is akin to that of a debt interest.
+Paragraph 214(b)(i)
+Intention that funds would be repaid, or interest imputed at such time that the borrower is in a position to repay?
+Yes.
+AusCo Limited issued the documented loan to ForCo Ltd with the intention of having a preferential payment status for ForCo Ltd to repay the invested funds when the project starts producing positive cash flows.
+Paragraph 214(b)(ii)
+Borrower has questionable prospects for repayment and unable to borrow externally?
+Yes.
+Although third-party debt is available to ForCo Ltd, the terms and conditions offered are not in accordance with the policies and practices of the group. Therefore it is unlikely ForCo Ltd would have taken on additional debt from a third party.
+240.
+The response to at least one of the factors in subparagraph 214(a) of this Schedule and one of the factors in subparagraph 214(b) would be a 'yes' in this example. Accordingly, the pricing indicator can be reduced from 10 to three. The result will reduce AusCo Limited's score for this arrangement from Zone 4A, amber zone - high risk to Zone 2A, blue zone - low to moderate risk.
+241.
+Other additional factors which could further reduce the risk rating to nil may include the fact that it is a common funding practice for the mining industry in Country A to borrow from their parent entities at the early development stage of a mining exploration project. This consideration, combined with the expectation that the invested funds will only be repaid when project starts producing positive cash flows, may go towards indicating that independent entities would only have entered into an equity funding arrangement.
+Example 2 - Country B subsidiary of an Australian manufacturing company
+242.
+AusCo Limited is an Australian incorporated company that is the parent of a global manufacturing group specialising in mining equipment.
+243.
+ForCo Ltd is a Country B incorporated company that is wholly owned by AusCo Limited. It is a well-known, established company in Country B.
+244.
+ForCo Ltd has a good credit rating and has third-party interest-bearing loans from local banks. The company is profitable and has positive net cash flows sufficient to repay additional borrowings.
+245.
+Due to increasing commodity prices, there is a high demand for mining equipment. The increasing commodity prices has resulted in both AusCo Limited and ForCo Ltd being profitable companies with high earnings before interest, taxes, depreciation and amortisation.
+246.
+On 1 January 2018 AusCo Limited provided a documented loan to ForCo Ltd, with the following terms:
+•
+interest rate of 0%
+•
+Australian-dollar denominated
+•
+tenor of eight years.
+247.
+The purpose of the loan was to enable ForCo Ltd to acquire land holdings in Country B for investment.
+248.
+The pricing risk matrix at paragraph 207 of this Schedule is applied to the circumstances of AusCo Limited as follows:
+Pricing indicator
+Application of criteria
+Score
+Priced consistently with global group cost of debt
+Zero interest on the related party facility
+10
+Total
+10
+249.
+AusCo Limited's total score of 10
+[11]
+places the entity in Zone 4A. This score places them in the amber zone - high risk.
+250.
+The minimum required factors contained in this Schedule are applied to the facts and circumstances of AusCo Limited as follows:
+References within this Schedule
+Required factors
+Application of factors
+Paragraph 214(a)(i)
+Rights and obligations of a shareholder?
+Yes.
+ForCo Ltd is a wholly-owned subsidiary of AusCo Limited.
+Paragraph 214(a)(ii)
+No intention of creating a debtor-creditor relationship?
+No.
+There is a documented loan in place with the intention to create a debtor-creditor relationship as there is a legal obligation to repay for ForCo Ltd.
+Paragraph 214(b)(i)
+Intention that funds would be repaid, or interest imputed at such time that the borrower is in a position to repay?
+No.
+ForCo Ltd's healthy financial position and good creditworthiness demonstrates clear evidence of ForCo Ltd's ability to make repayments on the loan. The arm's length conditions would be identified on this basis, including that an independent lender dealing wholly and independently in comparable circumstances would have charged an arm's length interest rate on the loan.
+These factors, along with low default risk, all go towards establishing that the substance of the commercial and financial relations would be regarded as a debt interest.
+Paragraph 214(b)(ii)
+Borrower has questionable prospects for repayment and unable to borrow externally?
+No.
+Based on the facts, ForCo Ltd has a good credit rating and has external interest-bearing bank loans. Commercially, it is unlikely that an independent party dealing on arm's length terms would provide the financing on an interest-free basis, but would only lend on an interest bearing basis. Furthermore, ForCo Ltd has sufficient cash flow to meet repayment obligations, as evidenced by its overall profitability.
+251.
+All the required factors listed in this Schedule would not be satisfied in this example as only subparagraph 214(a) is satisfied. Accordingly, the indicator relating to pricing will remain unchanged at a score of 10 as the arrangement is a debt interest and not in substance equity. AusCo Limited's risk rating for this arrangement will stay in Zone 4A, amber - high risk.
+252.
+The factors overall, along with low default risk, all go towards establishing that the substance of the commercial and financial relations would be regarded as a debt interest.
+253.
+AusCo Limited could transition to the green zone if it charged an appropriate arm's length interest rate on the loan to ForCo Ltd.
+Example 3 - Country C subsidiary of an Australian infrastructure company
+254.
+AusCo Limited is an Australian incorporated company that is the parent of an investment group dealing in large scale infrastructure projects.
+255.
+MinCo Limited is a Country D incorporated company that is wholly owned by AusCo Limited.
+256.
+ForCo Ltd is a Country C incorporated company that is wholly owned by MinCo Limited, which owns and operates a major toll road. ForCo Ltd has third-party financing secured against its assets, which takes its gearing levels to within industry norms.
+257.
+ForCo Ltd is operating at a loss and is not forecasted to be in a net positive cash flow position for another 20 years.
+258.
+On 1 July 2018, AusCo Limited provided a loan to ForCo Ltd, the purpose of the loan being to invest in the expansion of the existing toll road (that is, the 'investment').
+259.
+The relevant terms of the loan as set out in the executed legal agreement include:
+•
+interest rate of 0%
+•
+Australian-dollar denominated
+•
+tenor of nine years
+•
+no obligation to repay down the principal until there is positive cash flow from the investment
+•
+loan is subordinated to ForCo Ltd's existing senior debt and claims by other creditors.
+260.
+The pricing risk matrix at paragraph 207 of this Schedule is applied to the arrangement between AusCo Limited and ForCo Ltd as follows:
+Pricing indicator
+Application of criteria
+Score
+Priced consistently with global group cost of debt
+Zero interest on the related party facility
+10
+Total
+10
+261.
+AusCo Limited's total score of 10
+[12]
+places the entity in Zone 4A. This score places them in the amber zone - high risk.
+262.
+The minimum required factors contained in this Schedule are applied to the facts and circumstances of AusCo Limited's arrangement as follows:
+References within this Schedule
+Required factors
+Application of factors
+Paragraph 214(a)(i)
+Rights and obligations of a shareholder?
+Yes.
+ForCo Ltd is an indirect subsidiary of AusCo Limited. (ForCo Ltd is a wholly-owned subsidiary of MinCo Limited, which is a subsidiary of AusCo Limited).
+Paragraph 214(a)(ii)
+No intention of creating a debtor-creditor relationship?
+No.
+There is an intention to create a debtor-creditor relationship and that repayment would be made once there is positive cash flows from the investment.
+The fact that the funds are provided interest-free, are being used for investment in a long-term asset for use in the core business and assuming that this is customary in that industry, may go towards establishing the substance of the commercial and financial relations as equity in nature.
+Paragraph 214(b)(i)
+Intention that funds would be repaid, or interest imputed at such time that the borrower is in a position to repay?
+Yes.
+The nature and purpose of the project and industry of the taxpayer indicates a long-term expectation in respect of a return on investment, including the evidence of the forecasted positive cash flows in 20 years.
+Paragraph 214(b)(ii)
+Borrower has questionable prospects for repayment and unable to borrow externally?
+Yes.
+ForCo Ltd is currently operating at a loss and is not forecasted to be in a net positive cash flow position for another 20 years, evidencing that it is not in a position to repay and it is unlikely that it would be able to secure funds externally.
+263.
+At least one of the required factors listed in paragraph 214 of this Schedule would be satisfied in this example. Accordingly, the pricing indicator can be reduced from a score of 10 to three. The result will reduce AusCo Limited's score for this arrangement from Zone 4A, amber zone - high risk to Zone 2A, blue zone - low to moderate risk.
+264.
+In terms of additional factors which could reduce the risk rating further, ForCo Ltd has existing third-party debt secured against its assets and the purpose of the loan is for the expansion of its existing core business. These considerations, combined with the likelihood that repayments would be contingent on the investment generating positive cash flow, may go towards indicating that independent entities would only have entered into an equity funding arrangement.
+Example 4 - Country D subsidiary of an Australian commercial property management company
+265.
+AusCo Limited is an Australian incorporated company that is the parent of a global commercial property management company.
+266.
+ForCo Ltd is a Country D incorporated company that is wholly owned by AusCo Limited and is in the business of long-term development of several shopping centres and buildings.
+267.
+On 1 January 2017 AusCo Limited provided a loan to ForCo Ltd, the relevant terms of the loan as set out in the executed legal agreement are:
+•
+interest rate of 2.35%
+•
+Australian-dollar denominated
+•
+tenor of eight years
+•
+loan immediately repayable in the event of default.
+268.
+The purpose of the loan was to acquire and develop commercial infrastructure. At the time of the entering into the loan, ForCo Ltd was profitable and had positive net cash flows.
+269.
+In March 2018, due to falling property prices, liquidity dried up and local lending at commercial rates was no longer available. ForCo Ltd continues with construction plans but the entity has a negative cash flow and forecasts a difficult economic climate for the next few years.
+270.
+On 1 June 2018, AusCo Limited ceased charging interest on the loan.
+271.
+The pricing matrix at paragraph 207 of this Schedule are applied to the facts and circumstances of AusCo Limited, post amendment, as follows:
+Pricing indicator
+Application of criteria
+Score
+Priced consistently with global group cost of debt
+Zero interest on the related party facility
+10
+Total
+10
+272.
+AusCo Limited's total score of 10 places the company in Zone 4A. This score places them in the amber zone - high risk.
+273.
+Application of the minimum required factors to the circumstances of AusCo Limited is as follows:
+References within this Schedule
+Required factors
+Application of factors
+Paragraph 214(a)(i)
+Rights and obligations of a shareholder?
+Yes.
+ForCo Ltd is a wholly-owned subsidiary of AusCo Limited.
+Paragraph 214(a)(ii)
+No intention of creating a debtor-creditor relationship?
+No.
+Although the economic environment has changed, the intention of the parties to enter into a loan are taken to be unchanged from the time the transaction was entered into. As evidenced in the executed loan agreement, the intention of the parties was to enter into a debtor-creditor relationship.
+Notwithstanding ForCo Ltd's poor financial performance, there remains a legal and equitable obligation to repay, as well as AusCo Limited's right to receive the balance of the loan in the event of default. Prima facie, both the form and substance of the arrangement is akin to that of a debt interest.
+Paragraph 214(b)(i)
+Intention that funds would be repaid or interest imputed at such time that the borrower is in a position to repay?
+No.
+Commercially, it is unlikely that an independent party dealing wholly independently in comparable circumstances would cease charging interest on the loan. It is possible the lender would charge and accrue the interest or initiate action to obtain repayment of the outstanding principal, which are not the actions of AusCo Limited in this scenario.
+However, though not determinative in and of itself, if evidence can be provided that an interest moratorium would be granted by an independent lender in similar circumstances (that is, in similar industries or economies), in order to protect the right to receive the principal, this may demonstrate that the zero interest rate is an arm's length condition of the loan. The evidentiary burden on the taxpayer under these circumstances is higher because in the ordinary course an independent lender would need assurance that the interest moratorium would be an effective short-term measure in order to increase the likelihood of future repayments.
+Paragraph 214(b)(ii)
+Borrower has questionable prospects for repayment and unable to borrow externally?
+No.
+Based on the facts, ForCo Ltd has a good credit rating and has external interest-bearing bank loans. Commercially, it is unlikely that an independent party dealing on arm's length terms would provide the financing on an interest-free basis at the time of entering into the loan but would only lend on an interest-bearing basis. Furthermore, at the time of entering into the loan arrangement ForCo Ltd has sufficient cash flow to meet standard repayment obligations, as evidenced by its overall profitability.
+274.
+None of the required factors listed in paragraph 214 of this Schedule would be satisfied in this example, as only subparagraph 214(a) is satisfied. Accordingly, the indicator relating to pricing will remain unchanged from a score of 10 as the arrangement is a debt interest and not in substance equity. AusCo's risk rating for this arrangement will remain in Zone 4A, amber - high risk.
+275.
+AusCo Limited could transition to the green zone if:
+•
+it charged an appropriate arm's length interest rate on the loan to ForCo Ltd, or
+•
+it was able to demonstrate through evidence that commercial practices at the time involved commercial lenders pausing or deferring the payment of interest. AusCo would need to demonstrate that its circumstances were sufficiently comparable to those.
+This Schedule published 10 December 2020.
+Amendment history
+Date of amendment
+Part
+Comment
+10 December 2020
+Whole document
+Minor amendments to reflect 2021 RTP Schedule changes and minor formatting throughout.
+Schedule 3 - interest-free loans between related parties finalised.
+12 August 2020
+Schedule 3
+Schedule 3 added and published as draft for comment.
+27 November 2019
+Schedule 2
+Schedule 2 - Related party derivative arrangements finalised.
+24 January 2019
+Whole document
+Minor amendments made throughout document to improve clarity from feedback. Minor amendments made to correct errors.
+13 June 2018
+All
+Minor formatting corrections.
+Schedule 1
+Inserted paragraphs 93A and 93B.
+2 February 2018
+Whole document
+Minor amendments made throughout document to improve clarity. Minor amendments made to correct errors.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+[1]
+Although section 960-555 of the ITAA 1997 refers to significant global entities, this is not limited to only significant global entities.
+[2]
+Interest coverage ratio, average cost of debt and leverage are calculated according to this Schedule, using data from ForCo Inc.'s financial accounts for the year ended 31 December 2015.
+[3]
+Leverage and interest coverage ratio are calculated according to this Schedule, using data from AusCo Pty Ltd.'s tax filings and financial accounts for the year ended 31 December 2015, respectively.
+[4]
+Average cost of debt is calculated according to this Schedule using data from AusCo Limited's audited financial accounts for the year ended 30 June 2015.
+[5]
+See indicator guide - compliance attribute (v) at paragraphs 127 to 133 of this Schedule.
+[6]
+Division 284 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+[7]
+Division 280 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+[8]
+The Commissioner's guidelines on remission of shortfall penalties are set out in Law Administration Practice Statements PS LA 2011/30
+Remission of administrative penalties relating to schemes imposed by subsection 284-145(1) of Schedule 1 to the Taxation Administration Act 1953
+, PS LA 2012/4
+Administration of the false or misleading statement penalty - where there is no shortfall amount
+, PS LA 2012/5
+Administration of the false or misleading statement penalty - where there is a shortfall amount
+, PS LA 2014/2
+Administration of transfer pricing penalties for income years commencing on or after 29 June 2013
+, PS LA 2014/4
+Administration of the penalty imposed under subsection 284-75(3) of Schedule 1 to the Taxation Administration Act 1953
+and PS LA 2016/2
+Administration of scheme penalties arising from the application of Subdivision 815-A for income years which started on or after 1 July 2004 and before 1 July 2012 (transition period).
+The Commissioner's guidelines on remission of shortfall interest charge are set out in Law Administration Practice Statement PS LA 2006/8
+Remission of shortfall interest charge and general interest charge for shortfall periods.
+[9]
+Open years are those within the amendment period.
+[10]
+See Example 3 of this Schedule.
+[11]
+Assume a score of nil for the motivational risk matrix in Schedule 1 of this Guideline.
+[12]
+Assume a score of nil for the motivational risk matrix in Schedule 1 of this Guideline.
+ATO references:
+File  1-BAPMBWJ; 1-DD5AP2E
+ISSN: 2209-1297
+Business Line:
+PGI
+Related Rulings/Determinations:
+TD 2019/10
+TR 2014/6
+Legislative References:
+ITAA 1936  Pt IVA
+ITAA 1936  318
+ITAA 1997  230-15(2)
+ITAA 1997  Div 815
+ITAA 1997  Subdiv 815-B
+ITAA 1997  815-115
+ITAA 1997  815-130
+ITAA 1997  Div 820
+ITAA 1997  820-39
+ITAA 1997  Div 832
+ITAA 1997  Div 974
+ITAA 1997  960-555
+ITAA 1997  960-555(2)(a)
+ITAA 1997  995-1
+TAA 1953 Sch 1 Div 280
+TAA 1953 Sch 1 Div 284
+Other References:
+PS LA 2006/8
+PS LA 2011/13
+PS LA 2011/30
+PS LA 2012/4
+PS LA 2012/5
+PS LA 2014/2
+PS LA 2014/4
+PS LA 2016/2
+TA 2016/1
+TA 2016/3
+TA 2016/9
+TA 2016/10
+TA 2019/1
+TA 2020/2
+PCG 2017/4 history
+Date:
+Version:
+Change:
+16 May 2017
+Draft guideline
+18 December 2017
+Finalised guideline
+5 February 2018
+Updated guideline
+13 June 2018
+Updated guideline
+27 November 2019
+Updated guideline
+You are here
+10 December 2020
+Updated guideline
+Back to top

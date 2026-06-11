@@ -1,830 +1,1214 @@
 {
-  "adjusted taxable income for rebates": {
+  "100% subsidiary": {
+    "term": "100% subsidiary",
     "section": "6",
-    "anchor": "s6-adjusted-taxable-income-for-rebates"
+    "anchor": "s6-100-subsidiary",
+    "act": "ITAA 1936"
+  },
+  "adjusted taxable income for rebates": {
+    "term": "adjusted taxable income for rebates",
+    "section": "6",
+    "anchor": "s6-adjusted-taxable-income-for-rebates",
+    "act": "ITAA 1936"
   },
   "afof": {
+    "term": "AFOF",
     "section": "6",
-    "anchor": "s6-afof"
+    "anchor": "s6-afof",
+    "act": "ITAA 1936"
+  },
+  "agent": {
+    "term": "agent",
+    "section": "6",
+    "anchor": "s6-agent",
+    "act": "ITAA 1936"
+  },
+  "way as it applies to agents": {
+    "term": "way as it applies to agents",
+    "section": "6",
+    "anchor": "s6-way-as-it-applies-to-agents",
+    "act": "ITAA 1936"
   },
   "allowable deduction": {
+    "term": "allowable deduction",
     "section": "6",
-    "anchor": "s6-allowable-deduction"
+    "anchor": "s6-allowable-deduction",
+    "act": "ITAA 1936"
   },
   "amit (short for attribution managed investment trust)": {
+    "term": "AMIT (short for attribution managed investment trust)",
     "section": "6",
-    "anchor": "s6-amit-short-for-attribution-managed-investment-trust"
+    "anchor": "s6-amit-short-for-attribution-managed-investment-trust",
+    "act": "ITAA 1936"
   },
   "amount paid-up on a share": {
+    "term": "amount paid-up on a share",
     "section": "6",
-    "anchor": "s6-amount-paid-up-on-a-share"
+    "anchor": "s6-amount-paid-up-on-a-share",
+    "act": "ITAA 1936"
   },
   "amount unpaid on a share": {
+    "term": "amount unpaid on a share",
     "section": "6",
-    "anchor": "s6-amount-unpaid-on-a-share"
+    "anchor": "s6-amount-unpaid-on-a-share",
+    "act": "ITAA 1936"
   },
   "apportionable deductions": {
+    "term": "apportionable deductions",
     "section": "6",
-    "anchor": "s6-apportionable-deductions"
+    "anchor": "s6-apportionable-deductions",
+    "act": "ITAA 1936"
   },
   "approved form": {
+    "term": "approved form",
     "section": "6",
-    "anchor": "s6-approved-form"
+    "anchor": "s6-approved-form",
+    "act": "ITAA 1936"
   },
   "approved stock exchange": {
+    "term": "approved stock exchange",
     "section": "6",
-    "anchor": "s6-approved-stock-exchange"
+    "anchor": "s6-approved-stock-exchange",
+    "act": "ITAA 1936"
   },
   "assessable income": {
+    "term": "assessable income",
     "section": "6",
-    "anchor": "s6-assessable-income"
+    "anchor": "s6-assessable-income",
+    "act": "ITAA 1936"
   },
   "assessment": {
+    "term": "assessment",
     "section": "6",
-    "anchor": "s6-assessment"
+    "anchor": "s6-assessment",
+    "act": "ITAA 1936"
+  },
+  "attribution managed investment trust": {
+    "term": "attribution managed investment trust",
+    "section": "6",
+    "anchor": "s6-attribution-managed-investment-trust",
+    "act": "ITAA 1936"
   },
   "australia": {
+    "term": "Australia",
     "section": "6",
-    "anchor": "s6-australia"
+    "anchor": "s6-australia",
+    "act": "ITAA 1936"
   },
   "australian superannuation fund": {
+    "term": "Australian superannuation fund",
     "section": "6",
-    "anchor": "s6-australian-superannuation-fund"
+    "anchor": "s6-australian-superannuation-fund",
+    "act": "ITAA 1936"
+  },
+  "bank or banker": {
+    "term": "bank or banker",
+    "section": "6",
+    "anchor": "s6-bank-or-banker",
+    "act": "ITAA 1936"
   },
   "base interest rate": {
+    "term": "base interest rate",
     "section": "6",
-    "anchor": "s6-base-interest-rate"
+    "anchor": "s6-base-interest-rate",
+    "act": "ITAA 1936"
   },
   "basic income tax liability": {
+    "term": "basic income tax liability",
     "section": "6",
-    "anchor": "s6-basic-income-tax-liability"
+    "anchor": "s6-basic-income-tax-liability",
+    "act": "ITAA 1936"
   },
   "business": {
+    "term": "business",
     "section": "6",
-    "anchor": "s6-business"
+    "anchor": "s6-business",
+    "act": "ITAA 1936"
   },
   "capital gain": {
+    "term": "capital gain",
     "section": "6",
-    "anchor": "s6-capital-gain"
+    "anchor": "s6-capital-gain",
+    "act": "ITAA 1936"
   },
   "capital loss": {
+    "term": "capital loss",
     "section": "6",
-    "anchor": "s6-capital-loss"
+    "anchor": "s6-capital-loss",
+    "act": "ITAA 1936"
   },
   "capital proceeds": {
+    "term": "capital proceeds",
     "section": "6",
-    "anchor": "s6-capital-proceeds"
+    "anchor": "s6-capital-proceeds",
+    "act": "ITAA 1936"
   },
   "cgt asset": {
+    "term": "CGT asset",
     "section": "6",
-    "anchor": "s6-cgt-asset"
+    "anchor": "s6-cgt-asset",
+    "act": "ITAA 1936"
   },
   "cgt event": {
+    "term": "CGT event",
     "section": "6",
-    "anchor": "s6-cgt-event"
+    "anchor": "s6-cgt-event",
+    "act": "ITAA 1936"
   },
   "chief executive centrelink": {
+    "term": "Chief Executive Centrelink",
     "section": "6",
-    "anchor": "s6-chief-executive-centrelink"
+    "anchor": "s6-chief-executive-centrelink",
+    "act": "ITAA 1936"
   },
   "child": {
+    "term": "child",
     "section": "6",
-    "anchor": "s6-child"
+    "anchor": "s6-child",
+    "act": "ITAA 1936"
   },
   "commissioner": {
+    "term": "Commissioner",
     "section": "6",
-    "anchor": "s6-commissioner"
+    "anchor": "s6-commissioner",
+    "act": "ITAA 1936"
   },
   "commonwealth education or training payment": {
+    "term": "Commonwealth education or training payment",
     "section": "6",
-    "anchor": "s6-commonwealth-education-or-training-payment"
+    "anchor": "s6-commonwealth-education-or-training-payment",
+    "act": "ITAA 1936"
   },
   "company": {
+    "term": "company",
     "section": "6",
-    "anchor": "s6-company"
+    "anchor": "s6-company",
+    "act": "ITAA 1936"
   },
   "complying approved deposit fund": {
+    "term": "complying approved deposit fund",
     "section": "6",
-    "anchor": "s6-complying-approved-deposit-fund"
+    "anchor": "s6-complying-approved-deposit-fund",
+    "act": "ITAA 1936"
   },
   "complying superannuation fund": {
+    "term": "complying superannuation fund",
     "section": "6",
-    "anchor": "s6-complying-superannuation-fund"
+    "anchor": "s6-complying-superannuation-fund",
+    "act": "ITAA 1936"
   },
   "consolidated group": {
+    "term": "consolidated group",
     "section": "6",
-    "anchor": "s6-consolidated-group"
-  },
-  "constituent document, in relation to a company": {
-    "section": "6",
-    "anchor": "s6-constituent-document-in-relation-to-a-company"
+    "anchor": "s6-consolidated-group",
+    "act": "ITAA 1936"
   },
   "corporate limited partnership": {
+    "term": "corporate limited partnership",
     "section": "6",
-    "anchor": "s6-corporate-limited-partnership"
+    "anchor": "s6-corporate-limited-partnership",
+    "act": "ITAA 1936"
   },
   "corporate tax entity": {
+    "term": "corporate tax entity",
     "section": "6",
-    "anchor": "s6-corporate-tax-entity"
+    "anchor": "s6-corporate-tax-entity",
+    "act": "ITAA 1936"
   },
   "corporate tax rate": {
+    "term": "corporate tax rate",
     "section": "6",
-    "anchor": "s6-corporate-tax-rate"
+    "anchor": "s6-corporate-tax-rate",
+    "act": "ITAA 1936"
   },
   "cost base of a cgt asset": {
+    "term": "cost base of a CGT asset",
     "section": "6",
-    "anchor": "s6-cost-base-of-a-cgt-asset"
+    "anchor": "s6-cost-base-of-a-cgt-asset",
+    "act": "ITAA 1936"
   },
   "creditable acquisition": {
+    "term": "creditable acquisition",
     "section": "6",
-    "anchor": "s6-creditable-acquisition"
+    "anchor": "s6-creditable-acquisition",
+    "act": "ITAA 1936"
   },
   "debt interest": {
+    "term": "debt interest",
     "section": "6",
-    "anchor": "s6-debt-interest"
+    "anchor": "s6-debt-interest",
+    "act": "ITAA 1936"
   },
   "deductible gift recipient": {
+    "term": "deductible gift recipient",
     "section": "6",
-    "anchor": "s6-deductible-gift-recipient"
+    "anchor": "s6-deductible-gift-recipient",
+    "act": "ITAA 1936"
   },
   "demerged entity": {
+    "term": "demerged entity",
     "section": "6",
-    "anchor": "s6-demerged-entity"
+    "anchor": "s6-demerged-entity",
+    "act": "ITAA 1936"
   },
   "demerger": {
+    "term": "demerger",
     "section": "6",
-    "anchor": "s6-demerger"
+    "anchor": "s6-demerger",
+    "act": "ITAA 1936"
   },
   "demerger allocation": {
+    "term": "demerger allocation",
     "section": "6",
-    "anchor": "s6-demerger-allocation"
+    "anchor": "s6-demerger-allocation",
+    "act": "ITAA 1936"
   },
   "demerger dividend": {
+    "term": "demerger dividend",
     "section": "6",
-    "anchor": "s6-demerger-dividend"
+    "anchor": "s6-demerger-dividend",
+    "act": "ITAA 1936"
   },
   "demerger group": {
+    "term": "demerger group",
     "section": "6",
-    "anchor": "s6-demerger-group"
+    "anchor": "s6-demerger-group",
+    "act": "ITAA 1936"
   },
   "demerger subsidiary": {
+    "term": "demerger subsidiary",
     "section": "6",
-    "anchor": "s6-demerger-subsidiary"
+    "anchor": "s6-demerger-subsidiary",
+    "act": "ITAA 1936"
   },
   "demerging entity": {
+    "term": "demerging entity",
     "section": "6",
-    "anchor": "s6-demerging-entity"
+    "anchor": "s6-demerging-entity",
+    "act": "ITAA 1936"
   },
   "depreciating asset": {
+    "term": "depreciating asset",
     "section": "6",
-    "anchor": "s6-depreciating-asset"
+    "anchor": "s6-depreciating-asset",
+    "act": "ITAA 1936"
   },
   "deputy commissioner": {
+    "term": "Deputy Commissioner",
     "section": "6",
-    "anchor": "s6-deputy-commissioner"
-  },
-  "distribution, when used in a franking context": {
-    "section": "6",
-    "anchor": "s6-distribution-when-used-in-a-franking-context"
+    "anchor": "s6-deputy-commissioner",
+    "act": "ITAA 1936"
   },
   "diverted profits tax": {
+    "term": "diverted profits tax",
     "section": "6",
-    "anchor": "s6-diverted-profits-tax"
+    "anchor": "s6-diverted-profits-tax",
+    "act": "ITAA 1936"
   },
-  "division 230 financial arrangement": {
+  "dividend": {
+    "term": "dividend",
     "section": "6",
-    "anchor": "s6-division-230-financial-arrangement"
+    "anchor": "s6-dividend",
+    "act": "ITAA 1936"
   },
   "dual resident investment company": {
+    "term": "dual resident investment company",
     "section": "6",
-    "anchor": "s6-dual-resident-investment-company"
+    "anchor": "s6-dual-resident-investment-company",
+    "act": "ITAA 1936"
   },
   "dwelling": {
+    "term": "dwelling",
     "section": "6",
-    "anchor": "s6-dwelling"
+    "anchor": "s6-dwelling",
+    "act": "ITAA 1936"
   },
   "eligible taxable income": {
+    "term": "eligible taxable income",
     "section": "6",
-    "anchor": "s6-eligible-taxable-income"
+    "anchor": "s6-eligible-taxable-income",
+    "act": "ITAA 1936"
   },
   "employment secretary": {
+    "term": "Employment Secretary",
     "section": "6",
-    "anchor": "s6-employment-secretary"
+    "anchor": "s6-employment-secretary",
+    "act": "ITAA 1936"
   },
   "employment termination payment": {
+    "term": "employment termination payment",
     "section": "6",
-    "anchor": "s6-employment-termination-payment"
+    "anchor": "s6-employment-termination-payment",
+    "act": "ITAA 1936"
   },
   "equity holder": {
+    "term": "equity holder",
     "section": "6",
-    "anchor": "s6-equity-holder"
+    "anchor": "s6-equity-holder",
+    "act": "ITAA 1936"
   },
   "equity interest": {
+    "term": "equity interest",
     "section": "6",
-    "anchor": "s6-equity-interest"
+    "anchor": "s6-equity-interest",
+    "act": "ITAA 1936"
   },
   "esvclp": {
+    "term": "ESVCLP",
     "section": "6",
-    "anchor": "s6-esvclp"
+    "anchor": "s6-esvclp",
+    "act": "ITAA 1936"
   },
   "exempt entity": {
+    "term": "exempt entity",
     "section": "6",
-    "anchor": "s6-exempt-entity"
+    "anchor": "s6-exempt-entity",
+    "act": "ITAA 1936"
   },
   "exempt income": {
+    "term": "exempt income",
     "section": "6",
-    "anchor": "s6-exempt-income"
+    "anchor": "s6-exempt-income",
+    "act": "ITAA 1936"
   },
   "exploration credit": {
+    "term": "exploration credit",
     "section": "6",
-    "anchor": "s6-exploration-credit"
+    "anchor": "s6-exploration-credit",
+    "act": "ITAA 1936"
   },
   "families secretary": {
+    "term": "Families Secretary",
     "section": "6",
-    "anchor": "s6-families-secretary"
+    "anchor": "s6-families-secretary",
+    "act": "ITAA 1936"
   },
   "farm management deposit": {
+    "term": "farm management deposit",
     "section": "6",
-    "anchor": "s6-farm-management-deposit"
+    "anchor": "s6-farm-management-deposit",
+    "act": "ITAA 1936"
   },
   "fmd provider": {
+    "term": "FMD provider",
     "section": "6",
-    "anchor": "s6-fmd-provider"
+    "anchor": "s6-fmd-provider",
+    "act": "ITAA 1936"
   },
   "foreign superannuation fund": {
+    "term": "foreign superannuation fund",
     "section": "6",
-    "anchor": "s6-foreign-superannuation-fund"
+    "anchor": "s6-foreign-superannuation-fund",
+    "act": "ITAA 1936"
   },
   "foreign tax": {
+    "term": "foreign tax",
     "section": "6",
-    "anchor": "s6-foreign-tax"
+    "anchor": "s6-foreign-tax",
+    "act": "ITAA 1936"
   },
   "frankable distribution": {
+    "term": "frankable distribution",
     "section": "6",
-    "anchor": "s6-frankable-distribution"
+    "anchor": "s6-frankable-distribution",
+    "act": "ITAA 1936"
   },
   "franked part of a distribution": {
+    "term": "franked part of a distribution",
     "section": "6",
-    "anchor": "s6-franked-part-of-a-distribution"
+    "anchor": "s6-franked-part-of-a-distribution",
+    "act": "ITAA 1936"
   },
   "franking credit": {
+    "term": "franking credit",
     "section": "6",
-    "anchor": "s6-franking-credit"
+    "anchor": "s6-franking-credit",
+    "act": "ITAA 1936"
   },
   "franking debit": {
+    "term": "franking debit",
     "section": "6",
-    "anchor": "s6-franking-debit"
+    "anchor": "s6-franking-debit",
+    "act": "ITAA 1936"
   },
   "franking deficit tax": {
+    "term": "franking deficit tax",
     "section": "6",
-    "anchor": "s6-franking-deficit-tax"
+    "anchor": "s6-franking-deficit-tax",
+    "act": "ITAA 1936"
   },
   "franking surplus": {
+    "term": "franking surplus",
     "section": "6",
-    "anchor": "s6-franking-surplus"
+    "anchor": "s6-franking-surplus",
+    "act": "ITAA 1936"
   },
   "franks with an exempting credit": {
+    "term": "franks with an exempting credit",
     "section": "6",
-    "anchor": "s6-franks-with-an-exempting-credit"
+    "anchor": "s6-franks-with-an-exempting-credit",
+    "act": "ITAA 1936"
   },
   "friendly society": {
+    "term": "friendly society",
     "section": "6",
-    "anchor": "s6-friendly-society"
+    "anchor": "s6-friendly-society",
+    "act": "ITAA 1936"
   },
   "friendly society dispensary": {
+    "term": "friendly society dispensary",
     "section": "6",
-    "anchor": "s6-friendly-society-dispensary"
+    "anchor": "s6-friendly-society-dispensary",
+    "act": "ITAA 1936"
   },
   "fringe benefit": {
+    "term": "fringe benefit",
     "section": "6",
-    "anchor": "s6-fringe-benefit"
-  },
-  "year)": {
-    "section": "6",
-    "anchor": "s6-year"
+    "anchor": "s6-fringe-benefit",
+    "act": "ITAA 1936"
   },
   "fund payment": {
+    "term": "fund payment",
     "section": "6",
-    "anchor": "s6-fund-payment"
+    "anchor": "s6-fund-payment",
+    "act": "ITAA 1936"
   },
   "general insurance company": {
+    "term": "general insurance company",
     "section": "6",
-    "anchor": "s6-general-insurance-company"
+    "anchor": "s6-general-insurance-company",
+    "act": "ITAA 1936"
   },
   "general insurance policy": {
+    "term": "general insurance policy",
     "section": "6",
-    "anchor": "s6-general-insurance-policy"
+    "anchor": "s6-general-insurance-policy",
+    "act": "ITAA 1936"
   },
   "general interest charge": {
+    "term": "general interest charge",
     "section": "6",
-    "anchor": "s6-general-interest-charge"
+    "anchor": "s6-general-interest-charge",
+    "act": "ITAA 1936"
   },
   "general partner": {
+    "term": "general partner",
     "section": "6",
-    "anchor": "s6-general-partner"
+    "anchor": "s6-general-partner",
+    "act": "ITAA 1936"
   },
   "gst act": {
+    "term": "GST Act",
     "section": "6",
-    "anchor": "s6-gst-act"
+    "anchor": "s6-gst-act",
+    "act": "ITAA 1936"
   },
   "head company of a consolidated group or a mec group": {
+    "term": "head company of a consolidated group or a MEC group",
     "section": "6",
-    "anchor": "s6-head-company-of-a-consolidated-group-or-a-mec-group"
+    "anchor": "s6-head-company-of-a-consolidated-group-or-a-mec-group",
+    "act": "ITAA 1936"
   },
   "head entity of a demerger group": {
+    "term": "head entity of a demerger group",
     "section": "6",
-    "anchor": "s6-head-entity-of-a-demerger-group"
+    "anchor": "s6-head-entity-of-a-demerger-group",
+    "act": "ITAA 1936"
   },
   "health minister": {
+    "term": "Health Minister",
     "section": "6",
-    "anchor": "s6-health-minister"
-  },
-  "hold, in relation to an rsa": {
-    "section": "6",
-    "anchor": "s6-hold-in-relation-to-an-rsa"
-  },
-  "holder, in relation to an rsa": {
-    "section": "6",
-    "anchor": "s6-holder-in-relation-to-an-rsa"
+    "anchor": "s6-health-minister",
+    "act": "ITAA 1936"
   },
   "exertion": {
+    "term": "exertion",
     "section": "6",
-    "anchor": "s6-exertion"
+    "anchor": "s6-exertion",
+    "act": "ITAA 1936"
   },
   "income from property or income derived from property": {
+    "term": "income from property or income derived from property",
     "section": "6",
-    "anchor": "s6-income-from-property-or-income-derived-from-property"
+    "anchor": "s6-income-from-property-or-income-derived-from-property",
+    "act": "ITAA 1936"
   },
   "income tax": {
+    "term": "income tax",
     "section": "6",
-    "anchor": "s6-income-tax"
+    "anchor": "s6-income-tax",
+    "act": "ITAA 1936"
   },
   "indigenous land": {
+    "term": "Indigenous land",
     "section": "6",
-    "anchor": "s6-indigenous-land"
+    "anchor": "s6-indigenous-land",
+    "act": "ITAA 1936"
   },
   "indigenous person": {
+    "term": "Indigenous person",
     "section": "6",
-    "anchor": "s6-indigenous-person"
-  },
-  "industrial, commercial or scientific equipment": {
-    "section": "6",
-    "anchor": "s6-industrial-commercial-or-scientific-equipment"
+    "anchor": "s6-indigenous-person",
+    "act": "ITAA 1936"
   },
   "insurance business": {
+    "term": "insurance business",
     "section": "6",
-    "anchor": "s6-insurance-business"
-  },
-  "insurance funds, in relation to a company": {
-    "section": "6",
-    "anchor": "s6-insurance-funds-in-relation-to-a-company"
-  },
-  "interest income, in relation to a taxpayer": {
-    "section": "6",
-    "anchor": "s6-interest-income-in-relation-to-a-taxpayer"
-  },
-  "income, the company": {
-    "section": "6",
-    "anchor": "s6-income-the-company"
+    "anchor": "s6-insurance-business",
+    "act": "ITAA 1936"
   },
   "junior minerals exploration incentive tax offset": {
+    "term": "junior minerals exploration incentive tax offset",
     "section": "6",
-    "anchor": "s6-junior-minerals-exploration-incentive-tax-offset"
-  },
-  "life assurance company": {
-    "section": "6",
-    "anchor": "s6-life-assurance-company"
-  },
-  "life assurance policy": {
-    "section": "6",
-    "anchor": "s6-life-assurance-policy"
-  },
-  "life assurance premium": {
-    "section": "6",
-    "anchor": "s6-life-assurance-premium"
+    "anchor": "s6-junior-minerals-exploration-incentive-tax-offset",
+    "act": "ITAA 1936"
   },
   "limited partner": {
+    "term": "limited partner",
     "section": "6",
-    "anchor": "s6-limited-partner"
+    "anchor": "s6-limited-partner",
+    "act": "ITAA 1936"
   },
   "limited partnership": {
+    "term": "limited partnership",
     "section": "6",
-    "anchor": "s6-limited-partnership"
+    "anchor": "s6-limited-partnership",
+    "act": "ITAA 1936"
   },
   "liquidator": {
+    "term": "liquidator",
     "section": "6",
-    "anchor": "s6-liquidator"
+    "anchor": "s6-liquidator",
+    "act": "ITAA 1936"
   },
   "listed public company": {
+    "term": "listed public company",
     "section": "6",
-    "anchor": "s6-listed-public-company"
+    "anchor": "s6-listed-public-company",
+    "act": "ITAA 1936"
   },
   "loss carry back tax offset": {
+    "term": "loss carry back tax offset",
     "section": "6",
-    "anchor": "s6-loss-carry-back-tax-offset"
+    "anchor": "s6-loss-carry-back-tax-offset",
+    "act": "ITAA 1936"
   },
   "loss year": {
+    "term": "loss year",
     "section": "6",
-    "anchor": "s6-loss-year"
+    "anchor": "s6-loss-year",
+    "act": "ITAA 1936"
   },
   "managed investment trust": {
+    "term": "managed investment trust",
     "section": "6",
-    "anchor": "s6-managed-investment-trust"
+    "anchor": "s6-managed-investment-trust",
+    "act": "ITAA 1936"
   },
   "mec group": {
+    "term": "MEC group",
     "section": "6",
-    "anchor": "s6-mec-group"
+    "anchor": "s6-mec-group",
+    "act": "ITAA 1936"
   },
   "medicare levy": {
+    "term": "Medicare levy",
     "section": "6",
-    "anchor": "s6-medicare-levy"
+    "anchor": "s6-medicare-levy",
+    "act": "ITAA 1936"
   },
   "medicare levy (fringe benefits) surcharge": {
+    "term": "Medicare levy (fringe benefits) surcharge",
     "section": "6",
-    "anchor": "s6-medicare-levy-fringe-benefits-surcharge"
+    "anchor": "s6-medicare-levy-fringe-benefits-surcharge",
+    "act": "ITAA 1936"
   },
   "member of a consolidated group or mec group": {
+    "term": "member of a consolidated group or MEC group",
     "section": "6",
-    "anchor": "s6-member-of-a-consolidated-group-or-mec-group"
+    "anchor": "s6-member-of-a-consolidated-group-or-mec-group",
+    "act": "ITAA 1936"
+  },
+  "care": {
+    "term": "care",
+    "section": "6",
+    "anchor": "s6-care",
+    "act": "ITAA 1936"
   },
   "minerals": {
+    "term": "minerals",
     "section": "6",
-    "anchor": "s6-minerals"
+    "anchor": "s6-minerals",
+    "act": "ITAA 1936"
   },
   "mining withholding tax": {
+    "term": "mining withholding tax",
     "section": "6",
-    "anchor": "s6-mining-withholding-tax"
+    "anchor": "s6-mining-withholding-tax",
+    "act": "ITAA 1936"
+  },
+  "mortgage": {
+    "term": "mortgage",
+    "section": "6",
+    "anchor": "s6-mortgage",
+    "act": "ITAA 1936"
   },
   "mutual life assurance company": {
+    "term": "mutual life assurance company",
     "section": "6",
-    "anchor": "s6-mutual-life-assurance-company"
+    "anchor": "s6-mutual-life-assurance-company",
+    "act": "ITAA 1936"
   },
   "natural resource": {
+    "term": "natural resource",
     "section": "6",
-    "anchor": "s6-natural-resource"
+    "anchor": "s6-natural-resource",
+    "act": "ITAA 1936"
   },
   "net capital gain": {
+    "term": "net capital gain",
     "section": "6",
-    "anchor": "s6-net-capital-gain"
+    "anchor": "s6-net-capital-gain",
+    "act": "ITAA 1936"
   },
   "net capital loss": {
+    "term": "net capital loss",
     "section": "6",
-    "anchor": "s6-net-capital-loss"
+    "anchor": "s6-net-capital-loss",
+    "act": "ITAA 1936"
   },
   "net gst": {
+    "term": "net GST",
     "section": "6",
-    "anchor": "s6-net-gst"
+    "anchor": "s6-net-gst",
+    "act": "ITAA 1936"
   },
   "net input tax credit": {
+    "term": "net input tax credit",
     "section": "6",
-    "anchor": "s6-net-input-tax-credit"
+    "anchor": "s6-net-input-tax-credit",
+    "act": "ITAA 1936"
   },
   "non-assessable non-exempt income": {
+    "term": "non-assessable non-exempt income",
     "section": "6",
-    "anchor": "s6-non-assessable-non-exempt-income"
+    "anchor": "s6-non-assessable-non-exempt-income",
+    "act": "ITAA 1936"
   },
   "non-complying approved deposit fund": {
+    "term": "non-complying approved deposit fund",
     "section": "6",
-    "anchor": "s6-non-complying-approved-deposit-fund"
+    "anchor": "s6-non-complying-approved-deposit-fund",
+    "act": "ITAA 1936"
   },
   "non-complying superannuation fund": {
+    "term": "non-complying superannuation fund",
     "section": "6",
-    "anchor": "s6-non-complying-superannuation-fund"
+    "anchor": "s6-non-complying-superannuation-fund",
+    "act": "ITAA 1936"
   },
   "non-entity joint venture": {
+    "term": "non-entity joint venture",
     "section": "6",
-    "anchor": "s6-non-entity-joint-venture"
+    "anchor": "s6-non-entity-joint-venture",
+    "act": "ITAA 1936"
   },
   "non-equity share": {
+    "term": "non-equity share",
     "section": "6",
-    "anchor": "s6-non-equity-share"
+    "anchor": "s6-non-equity-share",
+    "act": "ITAA 1936"
   },
   "non-resident": {
+    "term": "non-resident",
     "section": "6",
-    "anchor": "s6-non-resident"
+    "anchor": "s6-non-resident",
+    "act": "ITAA 1936"
   },
   "non-share capital account": {
+    "term": "non-share capital account",
     "section": "6",
-    "anchor": "s6-non-share-capital-account"
+    "anchor": "s6-non-share-capital-account",
+    "act": "ITAA 1936"
   },
   "non-share capital return": {
+    "term": "non-share capital return",
     "section": "6",
-    "anchor": "s6-non-share-capital-return"
+    "anchor": "s6-non-share-capital-return",
+    "act": "ITAA 1936"
   },
   "non-share distribution": {
+    "term": "non-share distribution",
     "section": "6",
-    "anchor": "s6-non-share-distribution"
+    "anchor": "s6-non-share-distribution",
+    "act": "ITAA 1936"
   },
   "non-share dividend": {
+    "term": "non-share dividend",
     "section": "6",
-    "anchor": "s6-non-share-dividend"
+    "anchor": "s6-non-share-dividend",
+    "act": "ITAA 1936"
   },
   "non-share equity interest": {
+    "term": "non-share equity interest",
     "section": "6",
-    "anchor": "s6-non-share-equity-interest"
+    "anchor": "s6-non-share-equity-interest",
+    "act": "ITAA 1936"
+  },
+  "once-only deduction": {
+    "term": "once-only deduction",
+    "section": "6",
+    "anchor": "s6-once-only-deduction",
+    "act": "ITAA 1936"
   },
   "ordinary class": {
+    "term": "ordinary class",
     "section": "6",
-    "anchor": "s6-ordinary-class"
+    "anchor": "s6-ordinary-class",
+    "act": "ITAA 1936"
   },
   "ordinary income": {
+    "term": "ordinary income",
     "section": "6",
-    "anchor": "s6-ordinary-income"
+    "anchor": "s6-ordinary-income",
+    "act": "ITAA 1936"
   },
   "over-franking tax": {
+    "term": "over-franking tax",
     "section": "6",
-    "anchor": "s6-over-franking-tax"
+    "anchor": "s6-over-franking-tax",
+    "act": "ITAA 1936"
   },
   "owner of a farm management deposit": {
+    "term": "owner of a farm management deposit",
     "section": "6",
-    "anchor": "s6-owner-of-a-farm-management-deposit"
+    "anchor": "s6-owner-of-a-farm-management-deposit",
+    "act": "ITAA 1936"
   },
   "ownership interest": {
+    "term": "ownership interest",
     "section": "6",
-    "anchor": "s6-ownership-interest"
+    "anchor": "s6-ownership-interest",
+    "act": "ITAA 1936"
+  },
+  "paid in relation to dividends or non-share dividends": {
+    "term": "paid in relation to dividends or non-share dividends",
+    "section": "6",
+    "anchor": "s6-paid-in-relation-to-dividends-or-non-share-dividends",
+    "act": "ITAA 1936"
   },
   "paid-up share capital": {
+    "term": "paid-up share capital",
     "section": "6",
-    "anchor": "s6-paid-up-share-capital"
+    "anchor": "s6-paid-up-share-capital",
+    "act": "ITAA 1936"
   },
   "parent": {
+    "term": "parent",
     "section": "6",
-    "anchor": "s6-parent"
+    "anchor": "s6-parent",
+    "act": "ITAA 1936"
   },
   "partnership": {
+    "term": "partnership",
     "section": "6",
-    "anchor": "s6-partnership"
+    "anchor": "s6-partnership",
+    "act": "ITAA 1936"
   },
   "part of a distribution that is franked with an exempting credit": {
+    "term": "part of a distribution that is franked with an exempting credit",
     "section": "6",
-    "anchor": "s6-part-of-a-distribution-that-is-franked-with-an-exempting-credit"
+    "anchor": "s6-part-of-a-distribution-that-is-franked-with-an-exempting-credit",
+    "act": "ITAA 1936"
   },
-  "year of income": {
+  "part of a distribution that is franked with a venture capital credit": {
+    "term": "part of a distribution that is franked with a venture capital credit",
     "section": "6",
-    "anchor": "s6-year-of-income"
+    "anchor": "s6-part-of-a-distribution-that-is-franked-with-a-venture-capital-credit",
+    "act": "ITAA 1936"
   },
   "income": {
+    "term": "income",
     "section": "6",
-    "anchor": "s6-income"
+    "anchor": "s6-income",
+    "act": "ITAA 1936"
   },
   "pdf (pooled development fund)": {
+    "term": "PDF (pooled development fund)",
     "section": "6",
-    "anchor": "s6-pdf-pooled-development-fund"
-  },
-  "of income": {
-    "section": "6",
-    "anchor": "s6-of-income"
-  },
-  "state)": {
-    "section": "6",
-    "anchor": "s6-state"
+    "anchor": "s6-pdf-pooled-development-fund",
+    "act": "ITAA 1936"
   },
   "person": {
+    "term": "person",
     "section": "6",
-    "anchor": "s6-person"
+    "anchor": "s6-person",
+    "act": "ITAA 1936"
   },
   "pooled superannuation trust": {
+    "term": "pooled superannuation trust",
     "section": "6",
-    "anchor": "s6-pooled-superannuation-trust"
+    "anchor": "s6-pooled-superannuation-trust",
+    "act": "ITAA 1936"
   },
   "post fif abolition credit": {
+    "term": "post FIF abolition credit",
     "section": "6",
-    "anchor": "s6-post-fif-abolition-credit"
+    "anchor": "s6-post-fif-abolition-credit",
+    "act": "ITAA 1936"
   },
   "post fif abolition debit": {
+    "term": "post FIF abolition debit",
     "section": "6",
-    "anchor": "s6-post-fif-abolition-debit"
+    "anchor": "s6-post-fif-abolition-debit",
+    "act": "ITAA 1936"
   },
   "post fif abolition surplus": {
+    "term": "post FIF abolition surplus",
     "section": "6",
-    "anchor": "s6-post-fif-abolition-surplus"
+    "anchor": "s6-post-fif-abolition-surplus",
+    "act": "ITAA 1936"
   },
   "prescribed dual resident": {
+    "term": "prescribed dual resident",
     "section": "6",
-    "anchor": "s6-prescribed-dual-resident"
-  },
-  "business in australia and": {
-    "section": "6",
-    "anchor": "s6-business-in-australia-and"
+    "anchor": "s6-prescribed-dual-resident",
+    "act": "ITAA 1936"
   },
   "primary production business": {
+    "term": "primary production business",
     "section": "6",
-    "anchor": "s6-primary-production-business"
+    "anchor": "s6-primary-production-business",
+    "act": "ITAA 1936"
   },
   "principal beneficiary of a special disability trust": {
+    "term": "principal beneficiary of a special disability trust",
     "section": "6",
-    "anchor": "s6-principal-beneficiary-of-a-special-disability-trust"
-  },
-  "private company, in relation to a year of income": {
-    "section": "6",
-    "anchor": "s6-private-company-in-relation-to-a-year-of-income"
+    "anchor": "s6-principal-beneficiary-of-a-special-disability-trust",
+    "act": "ITAA 1936"
   },
   "proclaimed superannuation standards day": {
+    "term": "proclaimed superannuation standards day",
     "section": "6",
-    "anchor": "s6-proclaimed-superannuation-standards-day"
-  },
-  "provider, in relation to an rsa": {
-    "section": "6",
-    "anchor": "s6-provider-in-relation-to-an-rsa"
+    "anchor": "s6-proclaimed-superannuation-standards-day",
+    "act": "ITAA 1936"
   },
   "prudential standards": {
+    "term": "prudential standards",
     "section": "6",
-    "anchor": "s6-prudential-standards"
+    "anchor": "s6-prudential-standards",
+    "act": "ITAA 1936"
   },
   "rebatable benefit": {
+    "term": "rebatable benefit",
     "section": "6",
-    "anchor": "s6-rebatable-benefit"
+    "anchor": "s6-rebatable-benefit",
+    "act": "ITAA 1936"
   },
   "recognised large credit union": {
+    "term": "recognised large credit union",
     "section": "6",
-    "anchor": "s6-recognised-large-credit-union"
+    "anchor": "s6-recognised-large-credit-union",
+    "act": "ITAA 1936"
   },
   "recognised medium credit union": {
+    "term": "recognised medium credit union",
     "section": "6",
-    "anchor": "s6-recognised-medium-credit-union"
+    "anchor": "s6-recognised-medium-credit-union",
+    "act": "ITAA 1936"
   },
   "recognised small credit union": {
+    "term": "recognised small credit union",
     "section": "6",
-    "anchor": "s6-recognised-small-credit-union"
+    "anchor": "s6-recognised-small-credit-union",
+    "act": "ITAA 1936"
   },
   "reduced cost base of a cgt asset": {
+    "term": "reduced cost base of a CGT asset",
     "section": "6",
-    "anchor": "s6-reduced-cost-base-of-a-cgt-asset"
+    "anchor": "s6-reduced-cost-base-of-a-cgt-asset",
+    "act": "ITAA 1936"
   },
   "relative": {
+    "term": "relative",
     "section": "6",
-    "anchor": "s6-relative"
+    "anchor": "s6-relative",
+    "act": "ITAA 1936"
   },
   "reportable superannuation contributions": {
+    "term": "reportable superannuation contributions",
     "section": "6",
-    "anchor": "s6-reportable-superannuation-contributions"
+    "anchor": "s6-reportable-superannuation-contributions",
+    "act": "ITAA 1936"
   },
   "resident or resident of australia": {
+    "term": "resident or resident of Australia",
     "section": "6",
-    "anchor": "s6-resident-or-resident-of-australia"
-  },
-  "australia, and": {
-    "section": "6",
-    "anchor": "s6-australia-and"
+    "anchor": "s6-resident-or-resident-of-australia",
+    "act": "ITAA 1936"
   },
   "resident trust for cgt purposes": {
+    "term": "resident trust for CGT purposes",
     "section": "6",
-    "anchor": "s6-resident-trust-for-cgt-purposes"
+    "anchor": "s6-resident-trust-for-cgt-purposes",
+    "act": "ITAA 1936"
   },
   "return on a debt interest or equity interest": {
+    "term": "return on a debt interest or equity interest",
     "section": "6",
-    "anchor": "s6-return-on-a-debt-interest-or-equity-interest"
+    "anchor": "s6-return-on-a-debt-interest-or-equity-interest",
+    "act": "ITAA 1936"
   },
   "return of income": {
+    "term": "return of income",
     "section": "6",
-    "anchor": "s6-return-of-income"
+    "anchor": "s6-return-of-income",
+    "act": "ITAA 1936"
   },
-  "to, and is furnished as a": {
+  "royalty or royalties": {
+    "term": "royalty or royalties",
     "section": "6",
-    "anchor": "s6-to-and-is-furnished-as-a"
+    "anchor": "s6-royalty-or-royalties",
+    "act": "ITAA 1936"
   },
   "rsa": {
+    "term": "RSA",
     "section": "6",
-    "anchor": "s6-rsa"
+    "anchor": "s6-rsa",
+    "act": "ITAA 1936"
   },
   "rsa provider": {
+    "term": "RSA provider",
     "section": "6",
-    "anchor": "s6-rsa-provider"
+    "anchor": "s6-rsa-provider",
+    "act": "ITAA 1936"
   },
   "second commissioner": {
+    "term": "Second Commissioner",
     "section": "6",
-    "anchor": "s6-second-commissioner"
+    "anchor": "s6-second-commissioner",
+    "act": "ITAA 1936"
   },
   "share in a company": {
+    "term": "share in a company",
     "section": "6",
-    "anchor": "s6-share-in-a-company"
+    "anchor": "s6-share-in-a-company",
+    "act": "ITAA 1936"
   },
   "share capital account": {
+    "term": "share capital account",
     "section": "6",
-    "anchor": "s6-share-capital-account"
+    "anchor": "s6-share-capital-account",
+    "act": "ITAA 1936"
+  },
+  "shareholder": {
+    "term": "shareholder",
+    "section": "6",
+    "anchor": "s6-shareholder",
+    "act": "ITAA 1936"
   },
   "shortfall interest charge": {
+    "term": "shortfall interest charge",
     "section": "6",
-    "anchor": "s6-shortfall-interest-charge"
+    "anchor": "s6-shortfall-interest-charge",
+    "act": "ITAA 1936"
   },
   "small business entity": {
+    "term": "small business entity",
     "section": "6",
-    "anchor": "s6-small-business-entity"
+    "anchor": "s6-small-business-entity",
+    "act": "ITAA 1936"
   },
   "social security law": {
+    "term": "social security law",
     "section": "6",
-    "anchor": "s6-social-security-law"
+    "anchor": "s6-social-security-law",
+    "act": "ITAA 1936"
   },
   "special disability trust": {
+    "term": "special disability trust",
     "section": "6",
-    "anchor": "s6-special-disability-trust"
+    "anchor": "s6-special-disability-trust",
+    "act": "ITAA 1936"
   },
   "spouse": {
+    "term": "spouse",
     "section": "6",
-    "anchor": "s6-spouse"
+    "anchor": "s6-spouse",
+    "act": "ITAA 1936"
   },
   "statutory income": {
+    "term": "statutory income",
     "section": "6",
-    "anchor": "s6-statutory-income"
+    "anchor": "s6-statutory-income",
+    "act": "ITAA 1936"
   },
   "student assistance secretary": {
+    "term": "Student Assistance Secretary",
     "section": "6",
-    "anchor": "s6-student-assistance-secretary"
+    "anchor": "s6-student-assistance-secretary",
+    "act": "ITAA 1936"
   },
   "subsidiary member of a consolidated group or a mec group": {
+    "term": "subsidiary member of a consolidated group or a MEC group",
     "section": "6",
-    "anchor": "s6-subsidiary-member-of-a-consolidated-group-or-a-mec-group"
+    "anchor": "s6-subsidiary-member-of-a-consolidated-group-or-a-mec-group",
+    "act": "ITAA 1936"
   },
   "superannuation benefits": {
+    "term": "superannuation benefits",
     "section": "6",
-    "anchor": "s6-superannuation-benefits"
+    "anchor": "s6-superannuation-benefits",
+    "act": "ITAA 1936"
   },
   "superannuation fund": {
+    "term": "superannuation fund",
     "section": "6",
-    "anchor": "s6-superannuation-fund"
+    "anchor": "s6-superannuation-fund",
+    "act": "ITAA 1936"
   },
   "superannuation fund for foreign residents": {
+    "term": "superannuation fund for foreign residents",
     "section": "6",
-    "anchor": "s6-superannuation-fund-for-foreign-residents"
+    "anchor": "s6-superannuation-fund-for-foreign-residents",
+    "act": "ITAA 1936"
   },
   "superannuation lump sum": {
+    "term": "superannuation lump sum",
     "section": "6",
-    "anchor": "s6-superannuation-lump-sum"
+    "anchor": "s6-superannuation-lump-sum",
+    "act": "ITAA 1936"
   },
   "tax": {
+    "term": "tax",
     "section": "6",
-    "anchor": "s6-tax"
+    "anchor": "s6-tax",
+    "act": "ITAA 1936"
   },
   "taxable australian property": {
+    "term": "taxable Australian property",
     "section": "6",
-    "anchor": "s6-taxable-australian-property"
+    "anchor": "s6-taxable-australian-property",
+    "act": "ITAA 1936"
   },
   "taxable income": {
+    "term": "taxable income",
     "section": "6",
-    "anchor": "s6-taxable-income"
+    "anchor": "s6-taxable-income",
+    "act": "ITAA 1936"
   },
   "taxable supply": {
+    "term": "taxable supply",
     "section": "6",
-    "anchor": "s6-taxable-supply"
+    "anchor": "s6-taxable-supply",
+    "act": "ITAA 1936"
   },
   "tax cost is set": {
+    "term": "tax cost is set",
     "section": "6",
-    "anchor": "s6-tax-cost-is-set"
+    "anchor": "s6-tax-cost-is-set",
+    "act": "ITAA 1936"
   },
   "tax loss": {
+    "term": "tax loss",
     "section": "6",
-    "anchor": "s6-tax-loss"
+    "anchor": "s6-tax-loss",
+    "act": "ITAA 1936"
   },
   "tax offset refund": {
+    "term": "tax offset refund",
     "section": "6",
-    "anchor": "s6-tax-offset-refund"
+    "anchor": "s6-tax-offset-refund",
+    "act": "ITAA 1936"
   },
   "taxpayer": {
+    "term": "taxpayer",
     "section": "6",
-    "anchor": "s6-taxpayer"
+    "anchor": "s6-taxpayer",
+    "act": "ITAA 1936"
+  },
+  "this act": {
+    "term": "this Act",
+    "section": "6",
+    "anchor": "s6-this-act",
+    "act": "ITAA 1936"
   },
   "total net investment loss": {
+    "term": "total net investment loss",
     "section": "6",
-    "anchor": "s6-total-net-investment-loss"
+    "anchor": "s6-total-net-investment-loss",
+    "act": "ITAA 1936"
   },
   "trading stock": {
+    "term": "trading stock",
     "section": "6",
-    "anchor": "s6-trading-stock"
+    "anchor": "s6-trading-stock",
+    "act": "ITAA 1936"
   },
   "tribunal": {
+    "term": "Tribunal",
     "section": "6",
-    "anchor": "s6-tribunal"
+    "anchor": "s6-tribunal",
+    "act": "ITAA 1936"
   },
   "unfranked part of a distribution": {
+    "term": "unfranked part of a distribution",
     "section": "6",
-    "anchor": "s6-unfranked-part-of-a-distribution"
+    "anchor": "s6-unfranked-part-of-a-distribution",
+    "act": "ITAA 1936"
   },
   "vclp": {
+    "term": "VCLP",
     "section": "6",
-    "anchor": "s6-vclp"
+    "anchor": "s6-vclp",
+    "act": "ITAA 1936"
   },
   "vcmp": {
+    "term": "VCMP",
     "section": "6",
-    "anchor": "s6-vcmp"
+    "anchor": "s6-vcmp",
+    "act": "ITAA 1936"
   },
   "venture capital deficit tax": {
+    "term": "venture capital deficit tax",
     "section": "6",
-    "anchor": "s6-venture-capital-deficit-tax"
+    "anchor": "s6-venture-capital-deficit-tax",
+    "act": "ITAA 1936"
   },
   "venture capital management partnership": {
+    "term": "venture capital management partnership",
     "section": "6",
-    "anchor": "s6-venture-capital-management-partnership"
+    "anchor": "s6-venture-capital-management-partnership",
+    "act": "ITAA 1936"
   },
   "withholding tax": {
+    "term": "withholding tax",
     "section": "6",
-    "anchor": "s6-withholding-tax"
+    "anchor": "s6-withholding-tax",
+    "act": "ITAA 1936"
   },
   "benefits": {
+    "term": "benefits",
     "section": "6",
-    "anchor": "s6-benefits"
+    "anchor": "s6-benefits",
+    "act": "ITAA 1936"
+  },
+  "year of income": {
+    "term": "year of income",
+    "section": "6",
+    "anchor": "s6-year-of-income",
+    "act": "ITAA 1936"
   },
   "year of tax": {
+    "term": "year of tax",
     "section": "6",
-    "anchor": "s6-year-of-tax"
+    "anchor": "s6-year-of-tax",
+    "act": "ITAA 1936"
+  },
+  "failure to do an act or thing": {
+    "term": "failure to do an act or thing",
+    "section": "6",
+    "anchor": "s6-failure-to-do-an-act-or-thing",
+    "act": "ITAA 1936"
   }
 }

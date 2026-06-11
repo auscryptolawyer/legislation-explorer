@@ -15,7 +15,6 @@ source_pdf: "vol01.pdf"
 
 # 6CA Source of natural resource income derived by a non-resident
 
-
 <a id="s6CA-1"></a>
 **(1)** In this section: double tax agreement means an agreement within the meaning of the International Tax Agreements Act 1953. natural resource income means income that:
 

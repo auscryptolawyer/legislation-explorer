@@ -1,0 +1,2998 @@
+[
+  {
+    "id": "what-is-gst",
+    "title": "What is GST?",
+    "paragraph": "¶1-000",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "a-10-point-guide-to-gst",
+    "title": "A 10-point guide to GST",
+    "paragraph": "¶1-010",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "gst-liability-and-input-tax-credits",
+    "title": "GST liability and input tax credits",
+    "paragraph": "¶1-100",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "registration",
+    "title": "Registration",
+    "paragraph": "¶1-110",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "tax-periods",
+    "title": "Tax periods",
+    "paragraph": "¶1-120",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "basis-of-accounting",
+    "title": "Basis of accounting",
+    "paragraph": "¶1-130",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "gst-returns-payments-and-refunds",
+    "title": "GST returns, payments and refunds",
+    "paragraph": "¶1-140",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "tax-invoices-and-adjustments",
+    "title": "Tax invoices and adjustments",
+    "paragraph": "¶1-150",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "non-taxable-and-gst-free-supplies",
+    "title": "Non-taxable and GST-free supplies",
+    "paragraph": "¶1-160",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "input-taxed-supplies",
+    "title": "Input taxed supplies",
+    "paragraph": "¶1-170",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "special-rules-and-concessions",
+    "title": "Special rules and concessions",
+    "paragraph": "¶1-180",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "transitional-rules",
+    "title": "Transitional rules",
+    "paragraph": "¶1-200",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "overview-small-businesses",
+    "title": "Overview: small businesses",
+    "paragraph": "¶1-250",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "carrying-on-a-business",
+    "title": "Carrying on a business",
+    "paragraph": "¶1-255",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "aggregated-turnover-test",
+    "title": "Aggregated turnover test",
+    "paragraph": "¶1-260",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "calculating-aggregated-turnover",
+    "title": "Calculating aggregated turnover",
+    "paragraph": "¶1-265",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "affiliates",
+    "title": "Affiliates",
+    "paragraph": "¶1-275",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "connected-entities",
+    "title": "Connected entities",
+    "paragraph": "¶1-280",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "sources-of-gst-legislation",
+    "title": "Sources of GST legislation",
+    "paragraph": "¶1-300",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "complexity-of-gst",
+    "title": "Complexity of GST",
+    "paragraph": "¶1-310",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "interpretation-of-gst-legislation",
+    "title": "Interpretation of GST legislation",
+    "paragraph": "¶1-315",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "commissioners-rulings",
+    "title": "Commissioner’s rulings",
+    "paragraph": "¶1-540",
+    "chapter": "01",
+    "chapter_title": "Overview and Basic Concepts"
+  },
+  {
+    "id": "dealing-with-gst",
+    "title": "Dealing with GST",
+    "paragraph": "¶2-000",
+    "chapter": "02",
+    "chapter_title": "Getting Started with GST"
+  },
+  {
+    "id": "a-20-point-plan-for-managing-gst",
+    "title": "A 20-point plan for managing GST",
+    "paragraph": "¶2-010",
+    "chapter": "02",
+    "chapter_title": "Getting Started with GST"
+  },
+  {
+    "id": "checklist-for-management-of-gst-administration",
+    "title": "Checklist for management of GST administration",
+    "paragraph": "¶2-020",
+    "chapter": "02",
+    "chapter_title": "Getting Started with GST"
+  },
+  {
+    "id": "importance-of-registration",
+    "title": "Importance of registration",
+    "paragraph": "¶3-000",
+    "chapter": "03",
+    "chapter_title": "Registration"
+  },
+  {
+    "id": "pros-and-cons-of-registration",
+    "title": "Pros and cons of registration",
+    "paragraph": "¶3-010",
+    "chapter": "03",
+    "chapter_title": "Registration"
+  },
+  {
+    "id": "only-entities-can-be-registered",
+    "title": "Only “entities” can be registered",
+    "paragraph": "¶3-015",
+    "chapter": "03",
+    "chapter_title": "Registration"
+  },
+  {
+    "id": "carrying-on-an-enterprise",
+    "title": "Carrying on an enterprise",
+    "paragraph": "¶3-020",
+    "chapter": "03",
+    "chapter_title": "Registration"
+  },
+  {
+    "id": "the-gst-turnover-test",
+    "title": "The GST turnover test",
+    "paragraph": "¶3-030",
+    "chapter": "03",
+    "chapter_title": "Registration"
+  },
+  {
+    "id": "procedure-for-registration",
+    "title": "Procedure for registration",
+    "paragraph": "¶3-040",
+    "chapter": "03",
+    "chapter_title": "Registration"
+  },
+  {
+    "id": "australian-business-number",
+    "title": "Australian Business Number",
+    "paragraph": "¶3-050",
+    "chapter": "03",
+    "chapter_title": "Registration"
+  },
+  {
+    "id": "cancellation-of-registration",
+    "title": "Cancellation of registration",
+    "paragraph": "¶3-070",
+    "chapter": "03",
+    "chapter_title": "Registration"
+  },
+  {
+    "id": "simplified-registration-for-certain-non-residents",
+    "title": "Simplified registration for certain non-residents",
+    "paragraph": "¶3-075",
+    "chapter": "03",
+    "chapter_title": "Registration"
+  },
+  {
+    "id": "special-rules-about-registration",
+    "title": "Special rules about registration",
+    "paragraph": "¶3-080",
+    "chapter": "03",
+    "chapter_title": "Registration"
+  },
+  {
+    "id": "what-are-taxable-supplies",
+    "title": "What are taxable supplies?",
+    "paragraph": "¶4-000",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "requirement-1-there-must-be-a-supply",
+    "title": "Requirement 1: there must be a “supply”",
+    "paragraph": "¶4-010",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "multi-party-transactions",
+    "title": "Multi-party transactions",
+    "paragraph": "¶4-015",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "requirement-2-supply-must-be-for-consideration",
+    "title": "Requirement 2: supply must be “for consideration”",
+    "paragraph": "¶4-020",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "gifts-tips-promotions-and-stolen-property",
+    "title": "Gifts, tips, promotions and stolen property",
+    "paragraph": "¶4-030",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "competitions-and-prizes",
+    "title": "Competitions and prizes",
+    "paragraph": "¶4-035",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "grants-appropriations-subsidies-and-sponsorships",
+    "title": "Grants, appropriations, subsidies and sponsorships",
+    "paragraph": "¶4-040",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "redeemable-vouchers",
+    "title": "Redeemable vouchers",
+    "paragraph": "¶4-060",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "frequent-flyer-shopper-and-loyalty-programs",
+    "title": "Frequent flyer, shopper and loyalty programs",
+    "paragraph": "¶4-062",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "cancellation-fees",
+    "title": "Cancellation fees",
+    "paragraph": "¶4-065",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "security-deposits",
+    "title": "Security deposits",
+    "paragraph": "¶4-070",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "fines-penalties-taxes-and-charges",
+    "title": "Fines, penalties, taxes and charges",
+    "paragraph": "¶4-080",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "court-orders-and-out-of-court-settlements",
+    "title": "Court orders and out-of-court settlements",
+    "paragraph": "¶4-085",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "requirement-3-in-course-of-enterprise",
+    "title": "Requirement 3: in course of “enterprise”",
+    "paragraph": "¶4-090",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "requirement-4-connection-with-australia",
+    "title": "Requirement 4: connection with Australia",
+    "paragraph": "¶4-100",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "connected-with-australia-key-concepts",
+    "title": "Connected with Australia: key concepts",
+    "paragraph": "¶4-102",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "telecommunication-supplies",
+    "title": "Telecommunication supplies",
+    "paragraph": "¶4-103",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "supplies-partly-connected-with-australia",
+    "title": "Supplies partly connected with Australia",
+    "paragraph": "¶4-104",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "requirement-5-registration",
+    "title": "Requirement 5: registration",
+    "paragraph": "¶4-105",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "requirement-6-supplies-not-gst-free-or-input-taxed",
+    "title": "Requirement 6: supplies not GST-free or input taxed",
+    "paragraph": "¶4-110",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "how-gst-is-worked-out",
+    "title": "How GST is worked out",
+    "paragraph": "¶4-200",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "rounding-off-rules-for-gst",
+    "title": "Rounding off rules for GST",
+    "paragraph": "¶4-205",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "buying-and-selling-at-auction",
+    "title": "Buying and selling at auction",
+    "paragraph": "¶4-210",
+    "chapter": "04",
+    "chapter_title": "Liability for GST and Taxable Supplies"
+  },
+  {
+    "id": "what-is-an-input-tax-credit",
+    "title": "What is an input tax credit?",
+    "paragraph": "¶5-000",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "creditable-acquisitions",
+    "title": "Creditable acquisitions",
+    "paragraph": "¶5-010",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "calculation-of-input-tax-credit",
+    "title": "Calculation of input tax credit",
+    "paragraph": "¶5-020",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "if-company-is-not-yet-set-up",
+    "title": "If company is not yet set up",
+    "paragraph": "¶5-030",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "role-of-tax-invoices",
+    "title": "Role of tax invoices",
+    "paragraph": "¶5-100",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "contents-of-tax-invoices",
+    "title": "Contents of tax invoices",
+    "paragraph": "¶5-110",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "sample-tax-invoices",
+    "title": "Sample tax invoices",
+    "paragraph": "¶5-120",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "postponing-credit-claim-to-later-bas",
+    "title": "Postponing credit claim to later BAS",
+    "paragraph": "¶5-125",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "modifications-to-tax-invoice-requirements",
+    "title": "Modifications to tax invoice requirements",
+    "paragraph": "¶5-130",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "recipient-created-tax-invoices",
+    "title": "Recipient created tax invoices",
+    "paragraph": "¶5-140",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "contents-of-recipient-created-tax-invoices",
+    "title": "Contents of recipient created tax invoices",
+    "paragraph": "¶5-150",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "low-value-acquisitions",
+    "title": "Low-value acquisitions",
+    "paragraph": "¶5-170",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "acting-through-an-agent-or-broker",
+    "title": "Acting through an agent or broker",
+    "paragraph": "¶5-190",
+    "chapter": "05",
+    "chapter_title": "Claiming Input Tax Credits and Tax Invoices"
+  },
+  {
+    "id": "types-of-gst-adjustment",
+    "title": "Types of GST adjustment",
+    "paragraph": "¶6-000",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "what-are-adjustment-events",
+    "title": "What are adjustment events?",
+    "paragraph": "¶6-100",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "adjustment-notes",
+    "title": "Adjustment notes",
+    "paragraph": "¶6-110",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "contents-of-adjustment-notes",
+    "title": "Contents of adjustment notes",
+    "paragraph": "¶6-115",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "modifications-to-adjustment-note-requirements",
+    "title": "Modifications to adjustment note requirements",
+    "paragraph": "¶6-130",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "adjustment-note-exemption-for-minor-adjustments",
+    "title": "Adjustment note exemption for minor adjustments",
+    "paragraph": "¶6-135",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "special-rules-about-adjustment-notes",
+    "title": "Special rules about adjustment notes",
+    "paragraph": "¶6-140",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "bad-or-overdue-debts",
+    "title": "Bad or overdue debts",
+    "paragraph": "¶6-200",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "attributing-bad-debt-adjustments-to-tax-periods",
+    "title": "Attributing bad debt adjustments to tax periods",
+    "paragraph": "¶6-205",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "what-is-a-bad-debt",
+    "title": "What is a bad debt?",
+    "paragraph": "¶6-210",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "other-rules-affecting-bad-debts",
+    "title": "Other rules affecting bad debts",
+    "paragraph": "¶6-220",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "changes-to-planned-use",
+    "title": "Changes to planned use",
+    "paragraph": "¶6-300",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "adjustment-periods",
+    "title": "Adjustment periods",
+    "paragraph": "¶6-304",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "interaction-with-other-adjustment-rules",
+    "title": "Interaction with other adjustment rules",
+    "paragraph": "¶6-306",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "sales-of-things-acquired-without-full-credits",
+    "title": "Sales of things acquired without full credits",
+    "paragraph": "¶6-310",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "goods-applied-solely-to-private-or-domestic-use",
+    "title": "Goods applied solely to private or domestic use",
+    "paragraph": "¶6-320",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "adjustments-for-newly-registered-businesses",
+    "title": "Adjustments for newly-registered businesses",
+    "paragraph": "¶6-400",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "adjustments-on-cessation-of-registration",
+    "title": "Adjustments on cessation of registration",
+    "paragraph": "¶6-410",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "where-business-owner-dies",
+    "title": "Where business owner dies",
+    "paragraph": "¶6-415",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "adjustments-after-bankruptcy-liquidation-etc",
+    "title": "Adjustments after bankruptcy, liquidation, etc",
+    "paragraph": "¶6-417",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "adjustments-on-acquisition-of-business",
+    "title": "Adjustments on acquisition of business",
+    "paragraph": "¶6-420",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "other-rules-about-adjustments",
+    "title": "Other rules about adjustments",
+    "paragraph": "¶6-510",
+    "chapter": "06",
+    "chapter_title": "GST Adjustments"
+  },
+  {
+    "id": "offsetting-credits-against-gst",
+    "title": "Offsetting credits against GST",
+    "paragraph": "¶7-000",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "determining-the-tax-period",
+    "title": "Determining the tax period",
+    "paragraph": "¶7-100",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "non-standard-tax-periods",
+    "title": "Non-standard tax periods",
+    "paragraph": "¶7-105",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "the-20-million-turnover-test",
+    "title": "The $20 million turnover test",
+    "paragraph": "¶7-110",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "concluding-tax-periods",
+    "title": "Concluding tax periods",
+    "paragraph": "¶7-120",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "accruals-basis",
+    "title": "Accruals basis",
+    "paragraph": "¶7-205",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "cash-basis",
+    "title": "Cash basis",
+    "paragraph": "¶7-300",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "how-the-cash-basis-operates",
+    "title": "How the cash basis operates",
+    "paragraph": "¶7-320",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "when-consideration-is-received-or-provided",
+    "title": "When consideration is received or provided",
+    "paragraph": "¶7-325",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "where-gst-or-credits-are-adjusted",
+    "title": "Where GST or credits are adjusted",
+    "paragraph": "¶7-330",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "changing-your-accounting-basis",
+    "title": "Changing your accounting basis",
+    "paragraph": "¶7-400",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "progressive-or-periodic-supplies",
+    "title": "Progressive or periodic supplies",
+    "paragraph": "¶7-420",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "lay-by-sales",
+    "title": "Lay-by sales",
+    "paragraph": "¶7-430",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "barter-transactions-and-trade-exchanges",
+    "title": "Barter transactions and trade exchanges",
+    "paragraph": "¶7-435",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "hire-purchase-transactions",
+    "title": "Hire-purchase transactions",
+    "paragraph": "¶7-438",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "ato-guidelines-on-particular-attribution-situations",
+    "title": "ATO guidelines on particular attribution situations",
+    "paragraph": "¶7-440",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "other-special-attribution-rules",
+    "title": "Other special attribution rules",
+    "paragraph": "¶7-450",
+    "chapter": "07",
+    "chapter_title": "Accounting Basis and Tax Periods"
+  },
+  {
+    "id": "various-options-for-lodgment-of-gst-returns",
+    "title": "Various options for lodgment of GST returns",
+    "paragraph": "¶8-000",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "gst-return-for-each-tax-period",
+    "title": "GST return for each tax period",
+    "paragraph": "¶8-002",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "standard-method-time-for-lodgment",
+    "title": "Standard method: time for lodgment",
+    "paragraph": "¶8-005",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "standard-method-completion-of-gst-return",
+    "title": "Standard method: completion of GST return",
+    "paragraph": "¶8-010",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "option-to-use-streamlined-quarterly-remittance-form",
+    "title": "Option to use streamlined quarterly remittance form",
+    "paragraph": "¶8-036",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "small-business-option-to-pay-gst-instalments",
+    "title": "Small business option to pay GST instalments",
+    "paragraph": "¶8-037",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "option-to-report-and-pay-annually",
+    "title": "Option to report and pay annually",
+    "paragraph": "¶8-040",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "authorised-bas-preparers",
+    "title": "Authorised BAS preparers",
+    "paragraph": "¶8-042",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "how-a-gst-return-is-lodged",
+    "title": "How a GST return is lodged",
+    "paragraph": "¶8-043",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "correcting-and-revising-an-earlier-bas",
+    "title": "Correcting and revising an earlier BAS",
+    "paragraph": "¶8-045",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "other-special-rules-for-gst-returns",
+    "title": "Other special rules for GST returns",
+    "paragraph": "¶8-050",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "gst-assessments",
+    "title": "GST assessments",
+    "paragraph": "¶8-080",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "amending-an-assessment",
+    "title": "Amending an assessment",
+    "paragraph": "¶8-090",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "payment-of-net-gst",
+    "title": "Payment of net GST",
+    "paragraph": "¶8-100",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "liability-of-directors-for-unpaid-gst-liability",
+    "title": "Liability of directors for unpaid GST liability",
+    "paragraph": "¶8-105",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "payment-of-gst-refunds",
+    "title": "Payment of GST refunds",
+    "paragraph": "¶8-110",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "restriction-where-refund-would-give-rise-to-windfall",
+    "title": "Restriction where refund would give rise to windfall",
+    "paragraph": "¶8-115",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "review-and-other-rules-about-refunds",
+    "title": "Review and other rules about refunds",
+    "paragraph": "¶8-120",
+    "chapter": "08",
+    "chapter_title": "GST Returns, BAS, Payment, Assessment and Refunds"
+  },
+  {
+    "id": "taxable-importations-of-goods",
+    "title": "Taxable importations of goods",
+    "paragraph": "¶9-000",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "gst-is-payable-by-importer",
+    "title": "GST is payable by importer",
+    "paragraph": "¶9-005",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "input-tax-credits-on-imports",
+    "title": "Input tax credits on imports",
+    "paragraph": "¶9-010",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "installation-or-assembly-of-goods-brought-to-australia",
+    "title": "Installation or assembly of goods brought to Australia",
+    "paragraph": "¶9-020",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "non-taxable-importations-of-goods",
+    "title": "Non-taxable importations of goods",
+    "paragraph": "¶9-030",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "where-importation-is-partly-taxable",
+    "title": "Where importation is partly taxable",
+    "paragraph": "¶9-040",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "where-goods-have-previously-been-exported-for-repair",
+    "title": "Where goods have previously been exported for repair",
+    "paragraph": "¶9-050",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "re-importation-of-breeding-livestock",
+    "title": "Re-importation of breeding livestock",
+    "paragraph": "¶9-055",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "excisable-goods-held-in-bond",
+    "title": "Excisable goods held “in bond”",
+    "paragraph": "¶9-060",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "imported-second-hand-goods",
+    "title": "Imported second-hand goods",
+    "paragraph": "¶9-070",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "importations-through-an-agent",
+    "title": "Importations through an agent",
+    "paragraph": "¶9-080",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "offshore-business-supplies-of-services-and-rights",
+    "title": "Offshore business supplies of services and rights",
+    "paragraph": "¶9-100",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "consumers",
+    "title": "consumers",
+    "paragraph": "¶9-120",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "offshore-supplies-of-low-value-goods-to-consumers",
+    "title": "Offshore supplies of “low value” goods to consumers",
+    "paragraph": "¶9-130",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "treatment-of-exports",
+    "title": "Treatment of exports",
+    "paragraph": "¶9-200",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "exports-of-goods",
+    "title": "Exports of goods",
+    "paragraph": "¶9-210",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "export-of-aircraft-or-ship",
+    "title": "Export of aircraft or ship",
+    "paragraph": "¶9-215",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "other-gst-free-exports-of-goods",
+    "title": "Other GST-free exports of goods",
+    "paragraph": "¶9-220",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "lease-of-goods-used-overseas",
+    "title": "Lease of goods used overseas",
+    "paragraph": "¶9-230",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "tooling-used-by-non-residents",
+    "title": "Tooling used by non-residents",
+    "paragraph": "¶9-235",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "exports-of-services-and-other-things",
+    "title": "Exports of services and other things",
+    "paragraph": "¶9-240",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "repair-or-treatment-of-goods-under-warranty",
+    "title": "Repair or treatment of goods under warranty",
+    "paragraph": "¶9-250",
+    "chapter": "09",
+    "chapter_title": "Imports and Exports"
+  },
+  {
+    "id": "overview",
+    "title": "Overview",
+    "paragraph": "¶10-000",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "financial-supplies-general-requirements",
+    "title": "Financial supplies: general requirements",
+    "paragraph": "¶10-005",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "financial-supplies-specific-items",
+    "title": "Financial supplies: specific items",
+    "paragraph": "¶10-010",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "what-are-not-financial-supplies",
+    "title": "What are not financial supplies?",
+    "paragraph": "¶10-020",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "apportioning-input-tax-credits",
+    "title": "Apportioning input tax credits",
+    "paragraph": "¶10-030",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "input-tax-credits-for-expenses-of-borrowing",
+    "title": "Input tax credits for expenses of borrowing",
+    "paragraph": "¶10-035",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "75-reduced-input-tax-credit-for-certain-services",
+    "title": "75% “reduced” input tax credit for certain services",
+    "paragraph": "¶10-040",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "provision-of-fringe-benefits-by-financial-suppliers",
+    "title": "Provision of fringe benefits by financial suppliers",
+    "paragraph": "¶10-045",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "exported-financial-services",
+    "title": "Exported financial services",
+    "paragraph": "¶10-050",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "sales-of-things-acquired-to-make-supplies",
+    "title": "Sales of things acquired to make supplies",
+    "paragraph": "¶10-060",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "sales-to-satisfy-debts",
+    "title": "Sales to satisfy debts",
+    "paragraph": "¶10-070",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "superannuation-funds",
+    "title": "Superannuation funds",
+    "paragraph": "¶10-080",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "issue-of-life-insurance-policies",
+    "title": "Issue of life insurance policies",
+    "paragraph": "¶10-100",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "issue-of-general-insurance-policies",
+    "title": "Issue of general insurance policies",
+    "paragraph": "¶10-110",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "insurance-settlements",
+    "title": "Insurance settlements",
+    "paragraph": "¶10-120",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "statutory-compensation-schemes",
+    "title": "Statutory compensation schemes",
+    "paragraph": "¶10-130",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "gst-free-insurance",
+    "title": "GST-free insurance",
+    "paragraph": "¶10-140",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "other-special-insurance-rules",
+    "title": "Other special insurance rules",
+    "paragraph": "¶10-150",
+    "chapter": "10",
+    "chapter_title": "Financial Supplies and Insurance"
+  },
+  {
+    "id": "summary-of-gst-position-on-sales",
+    "title": "Summary of GST position on sales",
+    "paragraph": "¶11-000",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "sale-of-new-residential-premises",
+    "title": "Sale of “new” residential premises",
+    "paragraph": "¶11-020",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "purchaser-of-new-premises-to-remit-gst",
+    "title": "Purchaser of new premises to remit GST",
+    "paragraph": "¶11-022",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "sale-of-commercial-residential-premises",
+    "title": "Sale of commercial residential premises",
+    "paragraph": "¶11-030",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "sale-of-non-residential-premises",
+    "title": "Sale of non-residential premises",
+    "paragraph": "¶11-050",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "long-term-leases",
+    "title": "Long-term leases",
+    "paragraph": "¶11-060",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "development-leases",
+    "title": "Development leases",
+    "paragraph": "¶11-062",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "subdivision-and-sale",
+    "title": "Subdivision and sale",
+    "paragraph": "¶11-063",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "partitions-of-co-owned-land",
+    "title": "Partitions of co-owned land",
+    "paragraph": "¶11-064",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "attribution-of-gst-and-credits-on-taxable-sales",
+    "title": "Attribution of GST and credits on taxable sales",
+    "paragraph": "¶11-065",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "easements-restrictive-covenants-and-options",
+    "title": "Easements, restrictive covenants and options",
+    "paragraph": "¶11-068",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "other-matters-associated-with-property",
+    "title": "Other matters associated with property",
+    "paragraph": "¶11-070",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "how-the-margin-scheme-works",
+    "title": "How the margin scheme works",
+    "paragraph": "¶11-100",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "how-to-calculate-the-margin",
+    "title": "How to calculate the margin",
+    "paragraph": "¶11-110",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "requirements-for-valuation",
+    "title": "Requirements for valuation",
+    "paragraph": "¶11-120",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "bad-debts-under-the-margin-scheme",
+    "title": "Bad debts under the margin scheme",
+    "paragraph": "¶11-130",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "special-situations",
+    "title": "Special situations",
+    "paragraph": "¶11-140",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "bodies-corporate",
+    "title": "Bodies corporate",
+    "paragraph": "¶11-200",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "summary-of-gst-position-on-leases",
+    "title": "Summary of GST position on leases",
+    "paragraph": "¶11-300",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "accommodation-in-residential-premises",
+    "title": "Accommodation in residential premises",
+    "paragraph": "¶11-310",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "accommodation-in-commercial-residential-premises",
+    "title": "Accommodation in commercial residential premises",
+    "paragraph": "¶11-320",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "leased-commercial-premises",
+    "title": "Leased commercial premises",
+    "paragraph": "¶11-330",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "sale-of-real-property-subject-to-lease",
+    "title": "Sale of real property subject to lease",
+    "paragraph": "¶11-335",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "leases-entered-into-before-1-july-2000",
+    "title": "Leases entered into before 1 July 2000",
+    "paragraph": "¶11-340",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "grants-of-crown-land",
+    "title": "Grants of Crown land",
+    "paragraph": "¶11-400",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "certain-sales-of-farms-are-gst-free",
+    "title": "Certain sales of farms are GST-free",
+    "paragraph": "¶11-410",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "where-farm-land-is-subdivided",
+    "title": "Where farm land is subdivided",
+    "paragraph": "¶11-420",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "gst-free-supplies-of-going-concerns",
+    "title": "GST-free supplies of going concerns",
+    "paragraph": "¶11-500",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "enterprise-must-be-carried-on-until-day-of-supply",
+    "title": "Enterprise must be carried on until day of supply",
+    "paragraph": "¶11-503",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "supply-must-be-of-all-things-necessary",
+    "title": "Supply must be of all things necessary",
+    "paragraph": "¶11-506",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "if-going-concern-exemption-does-not-apply",
+    "title": "If “going concern” exemption does not apply",
+    "paragraph": "¶11-510",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "assumption-of-liabilities-by-purchaser-of-business",
+    "title": "Assumption of liabilities by purchaser of business",
+    "paragraph": "¶11-515",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "private-supplies",
+    "title": "private supplies",
+    "paragraph": "¶11-520",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "sale-of-business-by-selling-shares",
+    "title": "Sale of business by selling shares",
+    "paragraph": "¶11-530",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "sale-of-franchise",
+    "title": "Sale of franchise",
+    "paragraph": "¶11-540",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "option-to-purchase-business",
+    "title": "Option to purchase business",
+    "paragraph": "¶11-550",
+    "chapter": "11",
+    "chapter_title": "Real Estate, Accommodation and Sale of Business"
+  },
+  {
+    "id": "overseas-and-domestic-travel",
+    "title": "Overseas and domestic travel",
+    "paragraph": "¶12-000",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "transporting-handling-and-insuring-goods",
+    "title": "Transporting, handling and insuring goods",
+    "paragraph": "¶12-010",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "travel-insurance-agents-and-related-matters",
+    "title": "Travel insurance, agents and related matters",
+    "paragraph": "¶12-020",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "tourist-refund-scheme",
+    "title": "Tourist Refund Scheme",
+    "paragraph": "¶12-030",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "international-mail",
+    "title": "International mail",
+    "paragraph": "¶12-050",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "gst-on-supply-of-cars",
+    "title": "GST on supply of cars",
+    "paragraph": "¶12-080",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "input-tax-credits-on-cars-above-car-limit",
+    "title": "Input tax credits on cars above car limit",
+    "paragraph": "¶12-110",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "second-hand-vehicles",
+    "title": "Second-hand vehicles",
+    "paragraph": "¶12-120",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "trade-ins",
+    "title": "Trade-ins",
+    "paragraph": "¶12-125",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "evaluation-and-product-launches",
+    "title": "Evaluation and product launches",
+    "paragraph": "¶12-128",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "taxis-limousines-and-ride-sourcing",
+    "title": "Taxis, limousines and ride-sourcing",
+    "paragraph": "¶12-130",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "sale-of-car-on-termination-of-lease",
+    "title": "Sale of car on termination of lease",
+    "paragraph": "¶12-145",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "cars-and-other-vehicles-for-the-disabled",
+    "title": "Cars and other vehicles for the disabled",
+    "paragraph": "¶12-150",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "refunds-for-diplomats",
+    "title": "Refunds for diplomats",
+    "paragraph": "¶12-160",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "associated-transport-costs",
+    "title": "Associated transport costs",
+    "paragraph": "¶12-170",
+    "chapter": "12",
+    "chapter_title": "Transport, Travel and Vehicles"
+  },
+  {
+    "id": "overview",
+    "title": "Overview",
+    "paragraph": "¶13-000",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "gst-free-supplies-of-food",
+    "title": "GST-free supplies of food",
+    "paragraph": "¶13-100",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "definition-of-food",
+    "title": "Definition of “food”",
+    "paragraph": "¶13-110",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "restaurant-catered-or-eat-in-food",
+    "title": "Restaurant, catered or eat-in food",
+    "paragraph": "¶13-120",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "hot-takeaway-food",
+    "title": "Hot takeaway food",
+    "paragraph": "¶13-130",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "prepared-meals-and-food",
+    "title": "Prepared meals and food",
+    "paragraph": "¶13-140",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "bakery-products",
+    "title": "Bakery products",
+    "paragraph": "¶13-150",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "confectionery-snacks-ice-cream-and-biscuits",
+    "title": "Confectionery, snacks, ice-cream and biscuits",
+    "paragraph": "¶13-160",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "food-combinations-and-hampers",
+    "title": "Food combinations and hampers",
+    "paragraph": "¶13-170",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "drinks",
+    "title": "Drinks",
+    "paragraph": "¶13-180",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "wine-beer-and-spirits",
+    "title": "Wine, beer and spirits",
+    "paragraph": "¶13-190",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "food-additives",
+    "title": "Food additives",
+    "paragraph": "¶13-195",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "food-packaging",
+    "title": "Food packaging",
+    "paragraph": "¶13-200",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "simplified-gst-accounting-for-food-suppliers",
+    "title": "Simplified GST accounting for food suppliers",
+    "paragraph": "¶13-210",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "other-simplified-methods-for-food-retailers",
+    "title": "Other simplified methods for food retailers",
+    "paragraph": "¶13-215",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "other-optional-methods",
+    "title": "Other optional methods",
+    "paragraph": "¶13-216",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "giveaways-and-promotions",
+    "title": "Giveaways and promotions",
+    "paragraph": "¶13-220",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "ato-food-and-beverage-checklist",
+    "title": "ATO food and beverage checklist",
+    "paragraph": "¶13-230",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "gst-free-health-services",
+    "title": "GST-free health services",
+    "paragraph": "¶13-300",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "medical-practitioners-services",
+    "title": "Medical practitioners’ services",
+    "paragraph": "¶13-310",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "allied-health-professionals-services",
+    "title": "Allied health professionals’ services",
+    "paragraph": "¶13-320",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "hospital-services",
+    "title": "Hospital services",
+    "paragraph": "¶13-330",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "residential-care-home-care-and-disability-services",
+    "title": "Residential care, home care and disability services",
+    "paragraph": "¶13-340",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "medical-aids-and-appliances",
+    "title": "Medical aids and appliances",
+    "paragraph": "¶13-350",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "drugs-medicines-and-health-goods",
+    "title": "Drugs, medicines and health goods",
+    "paragraph": "¶13-360",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "private-health-insurance",
+    "title": "Private health insurance",
+    "paragraph": "¶13-370",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "funerals",
+    "title": "Funerals",
+    "paragraph": "¶13-380",
+    "chapter": "13",
+    "chapter_title": "Food, Health and Medical"
+  },
+  {
+    "id": "gst-free-educational-supplies",
+    "title": "GST-free educational supplies",
+    "paragraph": "¶14-000",
+    "chapter": "14",
+    "chapter_title": "Education and Child Care"
+  },
+  {
+    "id": "education-courses",
+    "title": "Education courses",
+    "paragraph": "¶14-002",
+    "chapter": "14",
+    "chapter_title": "Education and Child Care"
+  },
+  {
+    "id": "other-educational-supplies",
+    "title": "Other educational supplies",
+    "paragraph": "¶14-004",
+    "chapter": "14",
+    "chapter_title": "Education and Child Care"
+  },
+  {
+    "id": "school-tuckshops-and-canteens",
+    "title": "School tuckshops and canteens",
+    "paragraph": "¶14-010",
+    "chapter": "14",
+    "chapter_title": "Education and Child Care"
+  },
+  {
+    "id": "special-education-courses",
+    "title": "“Special education” courses",
+    "paragraph": "¶14-012",
+    "chapter": "14",
+    "chapter_title": "Education and Child Care"
+  },
+  {
+    "id": "adult-and-community-education-courses",
+    "title": "Adult and community education courses",
+    "paragraph": "¶14-015",
+    "chapter": "14",
+    "chapter_title": "Education and Child Care"
+  },
+  {
+    "id": "professional-or-trade-qualification-courses",
+    "title": "Professional or trade qualification courses",
+    "paragraph": "¶14-020",
+    "chapter": "14",
+    "chapter_title": "Education and Child Care"
+  },
+  {
+    "id": "education-checklist",
+    "title": "Education checklist",
+    "paragraph": "¶14-030",
+    "chapter": "14",
+    "chapter_title": "Education and Child Care"
+  },
+  {
+    "id": "other-options-for-educational-institutions",
+    "title": "Other options for educational institutions",
+    "paragraph": "¶14-040",
+    "chapter": "14",
+    "chapter_title": "Education and Child Care"
+  },
+  {
+    "id": "gst-free-childcare-services",
+    "title": "GST-free childcare services",
+    "paragraph": "¶14-100",
+    "chapter": "14",
+    "chapter_title": "Education and Child Care"
+  },
+  {
+    "id": "special-rules-for-charities-and-not-for-profits",
+    "title": "Special rules for charities and not-for-profits",
+    "paragraph": "¶15-000",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "summary-of-gst-concessions",
+    "title": "Summary of GST concessions",
+    "paragraph": "¶15-005",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "supplies-for-nominal-value",
+    "title": "Supplies for “nominal” value",
+    "paragraph": "¶15-010",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "raffles-and-bingo",
+    "title": "Raffles and bingo",
+    "paragraph": "¶15-020",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "donated-second-hand-goods",
+    "title": "Donated second-hand goods",
+    "paragraph": "¶15-030",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "gifts-in-general",
+    "title": "Gifts in general",
+    "paragraph": "¶15-040",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "religious-services",
+    "title": "Religious services",
+    "paragraph": "¶15-050",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "gst-religious-groups",
+    "title": "GST religious groups",
+    "paragraph": "¶15-052",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "religious-practitioners",
+    "title": "Religious practitioners",
+    "paragraph": "¶15-053",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "fundraising-activities",
+    "title": "Fundraising activities",
+    "paragraph": "¶15-055",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "simplified-accounting-methods",
+    "title": "Simplified accounting methods",
+    "paragraph": "¶15-060",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "independent-branches-of-non-profit-bodies",
+    "title": "Independent branches of non-profit bodies",
+    "paragraph": "¶15-080",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "ceasing-to-be-a-sub-entity",
+    "title": "Ceasing to be a sub-entity",
+    "paragraph": "¶15-090",
+    "chapter": "15",
+    "chapter_title": "Charities, Religious and Non-Profit Bodies"
+  },
+  {
+    "id": "special-accounting-for-gambling",
+    "title": "Special accounting for gambling",
+    "paragraph": "¶16-000",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "if-gambling-debts-are-not-paid",
+    "title": "If gambling debts are not paid",
+    "paragraph": "¶16-010",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "gst-thresholds-for-gambling-suppliers",
+    "title": "GST thresholds for gambling suppliers",
+    "paragraph": "¶16-030",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "application-of-gst-to-second-hand-goods",
+    "title": "Application of GST to second-hand goods",
+    "paragraph": "¶16-100",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "special-input-tax-credit",
+    "title": "Special input tax credit",
+    "paragraph": "¶16-110",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "global-accounting-for-second-hand-dealers",
+    "title": "“Global” accounting for second-hand dealers",
+    "paragraph": "¶16-120",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "goods-held-at-1-july-2000",
+    "title": "Goods held at 1 July 2000",
+    "paragraph": "¶16-130",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "supplies-by-charities-and-gift-deductible-bodies",
+    "title": "Supplies by charities and gift-deductible bodies",
+    "paragraph": "¶16-140",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "water-sewerage-and-drainage",
+    "title": "Water, sewerage and drainage",
+    "paragraph": "¶16-200",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "precious-metals",
+    "title": "Precious metals",
+    "paragraph": "¶16-210",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "emissions-units",
+    "title": "Emissions units",
+    "paragraph": "¶16-220",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "diplomatic-staff-and-international-organisations",
+    "title": "Diplomatic staff and international organisations",
+    "paragraph": "¶16-230",
+    "chapter": "16",
+    "chapter_title": "Gambling, Second-Hand Goods and Other Measures"
+  },
+  {
+    "id": "why-the-need-for-special-rules-for-groups",
+    "title": "Why the need for special rules for groups?",
+    "paragraph": "¶17-000",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "forming-a-gst-group",
+    "title": "Forming a GST group",
+    "paragraph": "¶17-010",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "trusts",
+    "title": "trusts",
+    "paragraph": "¶17-014",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "requirements-for-government-departments",
+    "title": "Requirements for government departments",
+    "paragraph": "¶17-016",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "effect-of-having-a-gst-group",
+    "title": "Effect of having a GST group",
+    "paragraph": "¶17-020",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "indirect-tax-sharing-agreements",
+    "title": "Indirect tax sharing agreements",
+    "paragraph": "¶17-025",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "change-of-group-membership-or-dissolution",
+    "title": "Change of group membership or dissolution",
+    "paragraph": "¶17-030",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "opportunities-presented-by-grouping-provisions",
+    "title": "Opportunities presented by grouping provisions",
+    "paragraph": "¶17-040",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "where-companies-amalgamate",
+    "title": "Where companies amalgamate",
+    "paragraph": "¶17-100",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "supplies-and-acquisitions",
+    "title": "Supplies and acquisitions",
+    "paragraph": "¶17-110",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "outstanding-gst-and-credits",
+    "title": "Outstanding GST and credits",
+    "paragraph": "¶17-120",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "joint-ventures",
+    "title": "Joint ventures",
+    "paragraph": "¶17-200",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "formation-of-joint-ventures",
+    "title": "Formation of joint ventures",
+    "paragraph": "¶17-210",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "procedure-for-formation",
+    "title": "Procedure for formation",
+    "paragraph": "¶17-212",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "consequences-of-formation-of-joint-venture",
+    "title": "Consequences of formation of joint venture",
+    "paragraph": "¶17-220",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "change-of-joint-venture-membership-or-dissolution",
+    "title": "Change of joint venture membership or dissolution",
+    "paragraph": "¶17-230",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "registration-of-branches",
+    "title": "Registration of branches",
+    "paragraph": "¶17-300",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "cancelling-a-branch-registration",
+    "title": "Cancelling a branch registration",
+    "paragraph": "¶17-310",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "liability-of-agents-for-gst",
+    "title": "Liability of agents for GST",
+    "paragraph": "¶17-400",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "agents-for-non-residents",
+    "title": "Agents for non-residents",
+    "paragraph": "¶17-410",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "agreements-for-agent-to-act-as-principal",
+    "title": "Agreements for agent to act as principal",
+    "paragraph": "¶17-420",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "goods-sold-on-consignment-or-sale-or-return",
+    "title": "Goods sold on consignment, or “sale or return”",
+    "paragraph": "¶17-422",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "legal-services-fees-and-disbursements",
+    "title": "Legal services, fees and disbursements",
+    "paragraph": "¶17-425",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "sharefarming-agreements",
+    "title": "Sharefarming agreements",
+    "paragraph": "¶17-430",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "other-special-rules-relating-to-agents",
+    "title": "Other special rules relating to agents",
+    "paragraph": "¶17-440",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "special-rules-applying-to-associates",
+    "title": "Special rules applying to associates",
+    "paragraph": "¶17-500",
+    "chapter": "17",
+    "chapter_title": "GST Groups, Branches, Agents and Associates"
+  },
+  {
+    "id": "general-administration-of-gst",
+    "title": "General administration of GST",
+    "paragraph": "¶18-000",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "commissioners-rulings",
+    "title": "Commissioner’s rulings",
+    "paragraph": "¶18-030",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "obligation-to-keep-records",
+    "title": "Obligation to keep records",
+    "paragraph": "¶18-040",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "overview-commissioners-powers",
+    "title": "Overview: Commissioner’s powers",
+    "paragraph": "¶18-100",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "information-gathering-powers",
+    "title": "Information-gathering powers",
+    "paragraph": "¶18-110",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "access-to-premises-documents-and-other-property",
+    "title": "Access to premises, documents and other property",
+    "paragraph": "¶18-120",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "confidentiality-of-information",
+    "title": "Confidentiality of information",
+    "paragraph": "¶18-130",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "exchanging-gst-information-with-foreign-countries",
+    "title": "Exchanging GST information with foreign countries",
+    "paragraph": "¶18-135",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "legal-professional-privilege",
+    "title": "Legal professional privilege",
+    "paragraph": "¶18-140",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "role-of-gst-audits",
+    "title": "Role of GST audits",
+    "paragraph": "¶18-160",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "ato-powers-and-taxpayer-rights",
+    "title": "ATO powers and taxpayer rights",
+    "paragraph": "¶18-165",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "common-gst-errors",
+    "title": "Common GST errors",
+    "paragraph": "¶18-170",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "ato-data-collection-techniques",
+    "title": "ATO data collection techniques",
+    "paragraph": "¶18-175",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "atos-compliance-focus",
+    "title": "ATO’s compliance focus",
+    "paragraph": "¶18-180",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "countering-the-shadow-economy",
+    "title": "Countering the “shadow economy”",
+    "paragraph": "¶18-182",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "preparing-for-an-audit",
+    "title": "Preparing for an audit",
+    "paragraph": "¶18-185",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "conduct-and-management-of-an-audit",
+    "title": "Conduct and management of an audit",
+    "paragraph": "¶18-190",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "overview-personal-liabilities",
+    "title": "Overview: personal liabilities",
+    "paragraph": "¶18-200",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "partners",
+    "title": "Partners",
+    "paragraph": "¶18-210",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "gst-joint-venture-partners",
+    "title": "GST joint venture partners",
+    "paragraph": "¶18-220",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "members-of-unincorporated-associations",
+    "title": "Members of unincorporated associations",
+    "paragraph": "¶18-230",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "non-profit-sub-entities",
+    "title": "Non-profit sub-entities",
+    "paragraph": "¶18-235",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "members-of-a-gst-group",
+    "title": "Members of a GST group",
+    "paragraph": "¶18-240",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "representatives-of-incapacitated-entities",
+    "title": "Representatives of incapacitated entities",
+    "paragraph": "¶18-250",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "company-officers",
+    "title": "Company officers",
+    "paragraph": "¶18-260",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "trustees",
+    "title": "Trustees",
+    "paragraph": "¶18-270",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "overview-of-gst-penalties",
+    "title": "Overview of GST penalties",
+    "paragraph": "¶18-300",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "discretionary-remission-of-penalties-and-gic",
+    "title": "Discretionary remission of penalties and GIC",
+    "paragraph": "¶18-305",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "other-provisions-relating-to-penalties",
+    "title": "Other provisions relating to penalties",
+    "paragraph": "¶18-310",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "objections-to-commissioners-decisions",
+    "title": "Objections to Commissioner’s decisions",
+    "paragraph": "¶18-600",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "time-limit-for-lodging-an-objection",
+    "title": "Time limit for lodging an objection",
+    "paragraph": "¶18-610",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "grounds-of-objection",
+    "title": "Grounds of objection",
+    "paragraph": "¶18-620",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "decision-on-objection",
+    "title": "Decision on objection",
+    "paragraph": "¶18-630",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "choosing-between-tribunal-and-federal-court",
+    "title": "Choosing between Tribunal and Federal Court",
+    "paragraph": "¶18-640",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "review-of-objection-decisions-by-tribunal",
+    "title": "Review of objection decisions by Tribunal",
+    "paragraph": "¶18-650",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "decision-of-art",
+    "title": "Decision of ART",
+    "paragraph": "¶18-660",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "appeals-from-art-decisions",
+    "title": "Appeals from ART decisions",
+    "paragraph": "¶18-670",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "appeals-to-federal-court",
+    "title": "Appeals to Federal Court",
+    "paragraph": "¶18-680",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "review-of-commissioners-discretion",
+    "title": "Review of Commissioner’s discretion",
+    "paragraph": "¶18-690",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "appeals-from-federal-court-decisions",
+    "title": "Appeals from Federal Court decisions",
+    "paragraph": "¶18-700",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "alternative-dispute-resolution",
+    "title": "Alternative dispute resolution",
+    "paragraph": "¶18-750",
+    "chapter": "18",
+    "chapter_title": "Administration, Audit and Review"
+  },
+  {
+    "id": "overview-transitional-rules",
+    "title": "Overview: transitional rules",
+    "paragraph": "¶19-000",
+    "chapter": "19",
+    "chapter_title": "Contracts and Transitional Rules"
+  },
+  {
+    "id": "timing-of-supply-and-acquisition",
+    "title": "Timing of supply and acquisition",
+    "paragraph": "¶19-100",
+    "chapter": "19",
+    "chapter_title": "Contracts and Transitional Rules"
+  },
+  {
+    "id": "rights-exercisable-after-30-june-2000",
+    "title": "Rights exercisable after 30 June 2000",
+    "paragraph": "¶19-200",
+    "chapter": "19",
+    "chapter_title": "Contracts and Transitional Rules"
+  },
+  {
+    "id": "progressive-or-periodical-supplies",
+    "title": "Progressive or periodical supplies",
+    "paragraph": "¶19-210",
+    "chapter": "19",
+    "chapter_title": "Contracts and Transitional Rules"
+  },
+  {
+    "id": "life-memberships-or-rights",
+    "title": "Life memberships or rights",
+    "paragraph": "¶19-220",
+    "chapter": "19",
+    "chapter_title": "Contracts and Transitional Rules"
+  },
+  {
+    "id": "construction-contracts",
+    "title": "Construction contracts",
+    "paragraph": "¶19-230",
+    "chapter": "19",
+    "chapter_title": "Contracts and Transitional Rules"
+  },
+  {
+    "id": "cross-border-business-transactions",
+    "title": "Cross-border business transactions",
+    "paragraph": "¶19-250",
+    "chapter": "19",
+    "chapter_title": "Contracts and Transitional Rules"
+  },
+  {
+    "id": "covering-gst-in-the-contract",
+    "title": "Covering GST in the contract",
+    "paragraph": "¶19-400",
+    "chapter": "19",
+    "chapter_title": "Contracts and Transitional Rules"
+  },
+  {
+    "id": "the-general-anti-avoidance-provision",
+    "title": "The general anti-avoidance provision",
+    "paragraph": "¶20-000",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "what-attracts-the-anti-avoidance-rules",
+    "title": "What attracts the anti-avoidance rules?",
+    "paragraph": "¶20-010",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "first-requirement-there-must-be-a-scheme",
+    "title": "First requirement: there must be a scheme",
+    "paragraph": "¶20-020",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "second-requirement-there-must-be-a-gst-benefit",
+    "title": "Second requirement: there must be a GST benefit",
+    "paragraph": "¶20-030",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "third-requirement-benefit-must-be-from-the-scheme",
+    "title": "Third requirement: benefit must be from the scheme",
+    "paragraph": "¶20-040",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "fourth-requirement-reasonable-conclusion",
+    "title": "Fourth requirement: reasonable conclusion",
+    "paragraph": "¶20-050",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "what-are-the-relevant-factors",
+    "title": "What are the relevant factors?",
+    "paragraph": "¶20-060",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "powers-of-the-commissioner",
+    "title": "Powers of the Commissioner",
+    "paragraph": "¶20-070",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "summary-of-scheme-promoter-rules",
+    "title": "Summary of scheme promoter rules",
+    "paragraph": "¶20-100",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "promotion-of-tax-exploitation-scheme",
+    "title": "“Promotion” of “tax exploitation scheme”",
+    "paragraph": "¶20-110",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "imposition-of-penalty",
+    "title": "Imposition of penalty",
+    "paragraph": "¶20-130",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "injunctions-and-voluntary-undertakings",
+    "title": "Injunctions and voluntary undertakings",
+    "paragraph": "¶20-140",
+    "chapter": "20",
+    "chapter_title": "Anti-Avoidance Rules"
+  },
+  {
+    "id": "failure-to-disclose-gst-in-price",
+    "title": "Failure to disclose GST in price",
+    "paragraph": "¶21-010",
+    "chapter": "21",
+    "chapter_title": "Planning, Pricing and Cashflow"
+  },
+  {
+    "id": "pricing-in-the-cash-economy",
+    "title": "Pricing in the cash economy",
+    "paragraph": "¶21-045",
+    "chapter": "21",
+    "chapter_title": "Planning, Pricing and Cashflow"
+  },
+  {
+    "id": "impact-on-cashflow",
+    "title": "Impact on cashflow",
+    "paragraph": "¶21-050",
+    "chapter": "21",
+    "chapter_title": "Planning, Pricing and Cashflow"
+  },
+  {
+    "id": "effect-of-accounting-basis-on-cashflow",
+    "title": "Effect of accounting basis on cashflow",
+    "paragraph": "¶21-060",
+    "chapter": "21",
+    "chapter_title": "Planning, Pricing and Cashflow"
+  },
+  {
+    "id": "other-factors-affecting-cashflow",
+    "title": "Other factors affecting cashflow",
+    "paragraph": "¶21-070",
+    "chapter": "21",
+    "chapter_title": "Planning, Pricing and Cashflow"
+  },
+  {
+    "id": "some-other-planning-issues",
+    "title": "Some other planning issues",
+    "paragraph": "¶21-100",
+    "chapter": "21",
+    "chapter_title": "Planning, Pricing and Cashflow"
+  },
+  {
+    "id": "outline-of-wet",
+    "title": "Outline of WET",
+    "paragraph": "¶22-000",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "what-is-wine",
+    "title": "What is wine?",
+    "paragraph": "¶22-010",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "summary-of-assessable-dealings",
+    "title": "Summary of assessable dealings",
+    "paragraph": "¶22-150",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "wholesale-sales",
+    "title": "Wholesale sales",
+    "paragraph": "¶22-160",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "certain-retail-sales",
+    "title": "Certain retail sales",
+    "paragraph": "¶22-165",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "application-to-own-use",
+    "title": "Application to own use",
+    "paragraph": "¶22-170",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "local-entry-of-imported-wine",
+    "title": "Local entry of imported wine",
+    "paragraph": "¶22-180",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "removal-from-customs-clearance-area",
+    "title": "Removal from customs clearance area",
+    "paragraph": "¶22-185",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "calculating-wet-and-taxable-value",
+    "title": "Calculating WET and taxable value",
+    "paragraph": "¶22-280",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "notional-wholesale-selling-price",
+    "title": "Notional wholesale selling price",
+    "paragraph": "¶22-290",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "paying-wet",
+    "title": "Paying WET",
+    "paragraph": "¶22-300",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "summary-of-exemptions",
+    "title": "Summary of exemptions",
+    "paragraph": "¶22-400",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "quoting-on-a-dealing",
+    "title": "Quoting on a dealing",
+    "paragraph": "¶22-420",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "form-of-quoting",
+    "title": "Form of quoting",
+    "paragraph": "¶22-430",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "what-is-a-wet-credit",
+    "title": "What is a WET credit?",
+    "paragraph": "¶22-530",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "grounds-for-claiming-wet-tax-credits",
+    "title": "Grounds for claiming WET tax credits",
+    "paragraph": "¶22-550",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "wine-producer-rebate",
+    "title": "Wine producer rebate",
+    "paragraph": "¶22-560",
+    "chapter": "22",
+    "chapter_title": "Wine Equalisation Tax"
+  },
+  {
+    "id": "overview-of-lct",
+    "title": "Overview of LCT",
+    "paragraph": "¶23-000",
+    "chapter": "23",
+    "chapter_title": "Luxury Car Tax"
+  },
+  {
+    "id": "liability-for-luxury-car-tax",
+    "title": "Liability for luxury car tax",
+    "paragraph": "¶23-050",
+    "chapter": "23",
+    "chapter_title": "Luxury Car Tax"
+  },
+  {
+    "id": "luxury-cars",
+    "title": "Luxury cars",
+    "paragraph": "¶23-100",
+    "chapter": "23",
+    "chapter_title": "Luxury Car Tax"
+  },
+  {
+    "id": "lct-value-and-lct-threshold",
+    "title": "LCT value and LCT threshold",
+    "paragraph": "¶23-150",
+    "chapter": "23",
+    "chapter_title": "Luxury Car Tax"
+  },
+  {
+    "id": "calculating-luxury-car-tax",
+    "title": "Calculating luxury car tax",
+    "paragraph": "¶23-200",
+    "chapter": "23",
+    "chapter_title": "Luxury Car Tax"
+  },
+  {
+    "id": "refund-for-primary-producers-and-tourist-operators",
+    "title": "Refund for primary producers and tourist operators",
+    "paragraph": "¶23-210",
+    "chapter": "23",
+    "chapter_title": "Luxury Car Tax"
+  },
+  {
+    "id": "quoting-an-abn",
+    "title": "Quoting an ABN",
+    "paragraph": "¶23-250",
+    "chapter": "23",
+    "chapter_title": "Luxury Car Tax"
+  },
+  {
+    "id": "accounting-for-lct",
+    "title": "Accounting for LCT",
+    "paragraph": "¶23-260",
+    "chapter": "23",
+    "chapter_title": "Luxury Car Tax"
+  },
+  {
+    "id": "gst-and-income-tax",
+    "title": "GST and income tax",
+    "paragraph": "¶24-000",
+    "chapter": "24",
+    "chapter_title": "Income Tax and FBT"
+  },
+  {
+    "id": "gst-is-not-assessable",
+    "title": "GST is not assessable",
+    "paragraph": "¶24-010",
+    "chapter": "24",
+    "chapter_title": "Income Tax and FBT"
+  },
+  {
+    "id": "whether-gst-component-of-price-is-deductible",
+    "title": "Whether GST component of price is deductible",
+    "paragraph": "¶24-030",
+    "chapter": "24",
+    "chapter_title": "Income Tax and FBT"
+  },
+  {
+    "id": "payments-of-net-gst-in-returns",
+    "title": "Payments of net GST in returns",
+    "paragraph": "¶24-040",
+    "chapter": "24",
+    "chapter_title": "Income Tax and FBT"
+  },
+  {
+    "id": "changes-in-planned-business-usage",
+    "title": "Changes in planned business usage",
+    "paragraph": "¶24-050",
+    "chapter": "24",
+    "chapter_title": "Income Tax and FBT"
+  },
+  {
+    "id": "effect-of-gst-on-capital-gains-tax",
+    "title": "Effect of GST on capital gains tax",
+    "paragraph": "¶24-060",
+    "chapter": "24",
+    "chapter_title": "Income Tax and FBT"
+  },
+  {
+    "id": "other-special-rules",
+    "title": "Other special rules",
+    "paragraph": "¶24-070",
+    "chapter": "24",
+    "chapter_title": "Income Tax and FBT"
+  },
+  {
+    "id": "tax-deductions-for-gst-start-up-costs",
+    "title": "Tax deductions for GST start-up costs",
+    "paragraph": "¶24-100",
+    "chapter": "24",
+    "chapter_title": "Income Tax and FBT"
+  },
+  {
+    "id": "fringe-benefits-and-gst",
+    "title": "Fringe benefits and GST",
+    "paragraph": "¶24-200",
+    "chapter": "24",
+    "chapter_title": "Income Tax and FBT"
+  },
+  {
+    "id": "acquisitions-used-to-provide-fringe-benefits",
+    "title": "Acquisitions used to provide fringe benefits",
+    "paragraph": "¶24-210",
+    "chapter": "24",
+    "chapter_title": "Income Tax and FBT"
+  },
+  {
+    "id": "exempt-or-concessional-transactions",
+    "title": "Exempt or concessional transactions",
+    "paragraph": "¶25-000",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "gst-free-supplies",
+    "title": "GST-free supplies",
+    "paragraph": "¶25-010",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "input-taxed-supplies",
+    "title": "Input taxed supplies",
+    "paragraph": "¶25-020",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "common-commercial-transactions",
+    "title": "Common commercial transactions",
+    "paragraph": "¶25-030",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "key-gst-concepts-rates-and-thresholds",
+    "title": "Key GST concepts, rates and thresholds",
+    "paragraph": "¶25-040",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "contingent-gst-dates",
+    "title": "Contingent GST dates",
+    "paragraph": "¶25-055",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "accommodation-and-residence",
+    "title": "Accommodation and residence",
+    "paragraph": "¶25-100",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "charities-and-non-profit-organisations",
+    "title": "Charities and non-profit organisations",
+    "paragraph": "¶25-110",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "entertainment-and-culture",
+    "title": "Entertainment and culture",
+    "paragraph": "¶25-120",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "e-commerce",
+    "title": "E-commerce",
+    "paragraph": "¶25-125",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "health-and-care",
+    "title": "Health and care",
+    "paragraph": "¶25-130",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "primary-producers",
+    "title": "Primary producers",
+    "paragraph": "¶25-140",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "professions",
+    "title": "Professions",
+    "paragraph": "¶25-150",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "restaurants-cafes-and-caterers",
+    "title": "Restaurants, cafes and caterers",
+    "paragraph": "¶25-160",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "retailers",
+    "title": "Retailers",
+    "paragraph": "¶25-170",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "schools-and-higher-education",
+    "title": "Schools and higher education",
+    "paragraph": "¶25-180",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "small-businesses",
+    "title": "Small businesses",
+    "paragraph": "¶25-190",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "motor-vehicles",
+    "title": "Motor vehicles",
+    "paragraph": "¶25-200",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  },
+  {
+    "id": "summary-of-gst-terms",
+    "title": "Summary of GST terms",
+    "paragraph": "¶25-500",
+    "chapter": "25",
+    "chapter_title": "GST Checklists and GST Terms"
+  }
+]

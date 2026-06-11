@@ -1,0 +1,35 @@
+---
+act: "Australian Master Tax Guide"
+part: "02"
+section: "higher-education-loan-program"
+title: "Higher Education Loan Program"
+paragraph: "¶2-380"
+---
+
+# Higher Education Loan Program ¶2-380
+
+Most students who enrol to study in award courses in higher education institutions are required to pay a contribution towards the cost of their study under the Higher Education Contribution Scheme (HECS) and the Higher Education Loan Program (HELP). Debts deferred through the Open Learning Deferred Payment Scheme, Postgraduate Education Loan Scheme and Bridging for Overseas Trained Professionals Loan Scheme were included in an accumulated HECS debt and subject to the same repayment arrangements.
+
+The HECS-HELP program allows eligible students to defer their student contribution and repay it later through the taxation system.
+
+Vocational education and training student loan debts (VET debts) have been separated from other forms of HELP debts and VET student loans have been established as a separate income-contingent loan, from 1 July 2019.
+
+Students who elect to pay through the tax system will not have to make any repayments until their “repayment income” reaches a minimum level. Repayment income is the sum of the taxpayer’s taxable income, total net investment loss, ie from ﬁnancial investments (shares, interests in managed investment schemes (including forestry schemes), rights and options, and like investments), and from rental properties, reportable fringe beneﬁts, exempt foreign employment income for the year, and reportable superannuation contributions (HESA s 154-5).
+
+Once the minimum level of repayment income is reached, the amount of the repayment is set so that the higher the repayment income, the higher the level of repayments. From 1 January 2018, the index for amounts that are indexed annually under the Higher Education Support Act 2003 has changed from the Higher Education Grants Index (HEGI) to the Consumer Price Index (CPI).
+
+From 1 July 2019, repayment thresholds including minimum repayment income were indexed using the CPI rather than average weekly earnings. The Universities Accord (Student Support and Other Measures) Act 2024 contains amendments to the Higher Education Support Act 2003 to cap the HELP indexation rate to be the lower of either the CPI or the Wage Price Index. The amendments provide an indexation credit to an individual’s HELP account to ensure the new HELP indexation cap has eﬀect from 1 June 2023. The ATO will automatically apply the credit for outstanding student loans or issue a refund for HELP debts completely repaid after the application of 2023 or 2024 indexation. The measure was announced in the 2024–25 Budget, following historically high indexation rates that applied on 1 June 2023 and 1 June 2024.
+
+Australians who have moved overseas for more than 6 months are required to pay back the same amount of their HELP debt as they would if they were residing in Australia. For these debtors, an obligation has been created to make repayments on their HELP debts based on their total Australian and foreign-sourced income, known as their worldwide income. From 1 January 2016, debtors going overseas for more than 6 months (183 days) are required to register with the ATO, while those already living overseas had until 1 July 2017 to register. Repayment obligations commenced from 1 July 2017, for income earned in the 2016–17 year.
+
+Students may also be entitled to an income-contingent loan, the student start-up loan. There is a limit of 2 loans a year of $1,025 each (indexed from 2017). The loans are available on a voluntary basis, and are repayable under similar arrangements to HELP debts. Repayments of loans do not form part of deductible self-education expenses (¶16-450).
+
+From 1 July 2019, all study and training loans are covered by one set of thresholds and rates. 2024–25 Study and training repayment thresholds and rates The study and training repayment income thresholds and repayment rates for the 2024–25 income year are as follows: Repayment income                                                                  Rate of repayment* Below $54,435                                                                           Nil $54,435–$62,850                                                                         1.0% $62,851–$66,620                                                                         2.0% $66,621–$70,618                                                                         2.5% $70,619–$74,855                                                                         3.0% $74,856–$79,346                                                                         3.5% $79,347–$84,107                                                                         4.0% $84,108–$89,154                                                                         4.5% $89,155–$94,503                                                                         5.0% $94,504–$100,174                                                                        5.5% $100,175–$106,185                                                                        6.0% $106,186–$112,556                                                                        6.5% $112,557–$119,309                                                                        7.0% $119,310–$126,467                                                                        7.5% $126,468–$134,056                                                                        8.0% $134,057–$142,100                                                                        8.5% $142,101–$150,626                                                                        9.0% $150,627–$159,663                                                                        9.5% $159,664 and above                                                                      10.0% * The repayment rate is applied to the repayment income.
+
+A person with a spouse and/or dependant(s) is not liable to make repayments if no Medicare levy is payable on their taxable income for that income year or if the amount of levy payable on their taxable income is reduced (HESA s 154-1(2)). The Commissioner (or the AAT) has the discretion to amend a HELP assessment so as to reduce or defer an amount payable if he is of the opinion that payment of the assessed amount has or would cause serious hardship to the person, or there are other special reasons that make it fair and reasonable to amend the assessment (HESA s 154-50; Case 12/2004 2004 ATC 234; [2004] AATA 1073).
+
+Higher education contributions cannot be claimed as a tax deduction, regardless of whether they are paid by the student, a parent, an employer or some other person, unless incurred in providing a fringe beneﬁt (ITAA97 s 26-20).
+
+A checklist summarising other tax measures relevant to students is at ¶44-140.
+
+*Refs: s 154-5), s 154-1(2)), s 154-50, ITAA97 s 26-20)*

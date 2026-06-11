@@ -15,7 +15,6 @@ source_pdf: "vol01.pdf"
 
 # 6BA Taxation treatment of certain shares
 
-
 <a id="s6BA-1"></a>
 **(1)** This section applies if a shareholder holds shares in a company (the original shares) and the company issues other shares (the bonus shares) in respect of the original shares.
 

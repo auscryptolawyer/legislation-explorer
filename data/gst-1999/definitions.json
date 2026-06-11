@@ -1,0 +1,1916 @@
+{
+  "90% owned group": {
+    "term": "90% owned group",
+    "section": "195-1",
+    "anchor": "s195-1-90-owned-group",
+    "act": "GST Act 1999"
+  },
+  "100% subsidiary": {
+    "term": "100% subsidiary",
+    "section": "195-1",
+    "anchor": "s195-1-100-subsidiary",
+    "act": "GST Act 1999"
+  },
+  "abn": {
+    "term": "ABN",
+    "section": "195-1",
+    "anchor": "s195-1-abn",
+    "act": "GST Act 1999"
+  },
+  "account on a cash basis": {
+    "term": "account on a cash basis",
+    "section": "195-1",
+    "anchor": "s195-1-account-on-a-cash-basis",
+    "act": "GST Act 1999"
+  },
+  "account on the same basis": {
+    "term": "account on the same basis",
+    "section": "195-1",
+    "anchor": "s195-1-account-on-the-same-basis",
+    "act": "GST Act 1999"
+  },
+  "acnc-registered charity": {
+    "term": "ACNC-registered charity",
+    "section": "195-1",
+    "anchor": "s195-1-acnc-registered-charity",
+    "act": "GST Act 1999"
+  },
+  "acnc-registered religious institution": {
+    "term": "ACNC-registered religious institution",
+    "section": "195-1",
+    "anchor": "s195-1-acnc-registered-religious-institution",
+    "act": "GST Act 1999"
+  },
+  "acquisition": {
+    "term": "acquisition",
+    "section": "195-1",
+    "anchor": "s195-1-acquisition",
+    "act": "GST Act 1999"
+  },
+  "actual application of a thing": {
+    "term": "actual application of a thing",
+    "section": "195-1",
+    "anchor": "s195-1-actual-application-of-a-thing",
+    "act": "GST Act 1999"
+  },
+  "additional consideration": {
+    "term": "additional consideration",
+    "section": "195-1",
+    "anchor": "s195-1-additional-consideration",
+    "act": "GST Act 1999"
+  },
+  "adjustment": {
+    "term": "adjustment",
+    "section": "195-1",
+    "anchor": "s195-1-adjustment",
+    "act": "GST Act 1999"
+  },
+  "adjustment event": {
+    "term": "adjustment event",
+    "section": "195-1",
+    "anchor": "s195-1-adjustment-event",
+    "act": "GST Act 1999"
+  },
+  "adjustment note": {
+    "term": "adjustment note",
+    "section": "195-1",
+    "anchor": "s195-1-adjustment-note",
+    "act": "GST Act 1999"
+  },
+  "adjustment period": {
+    "term": "adjustment period",
+    "section": "195-1",
+    "anchor": "s195-1-adjustment-period",
+    "act": "GST Act 1999"
+  },
+  "adult and community education course": {
+    "term": "adult and community education course",
+    "section": "195-1",
+    "anchor": "s195-1-adult-and-community-education-course",
+    "act": "GST Act 1999"
+  },
+  "aged care minister": {
+    "term": "Aged Care Minister",
+    "section": "195-1",
+    "anchor": "s195-1-aged-care-minister",
+    "act": "GST Act 1999"
+  },
+  "aged care service list": {
+    "term": "aged care service list",
+    "section": "195-1",
+    "anchor": "s195-1-aged-care-service-list",
+    "act": "GST Act 1999"
+  },
+  "aged care system governor": {
+    "term": "Aged Care System Governor",
+    "section": "195-1",
+    "anchor": "s195-1-aged-care-system-governor",
+    "act": "GST Act 1999"
+  },
+  "airport shop goods": {
+    "term": "airport shop goods",
+    "section": "195-1",
+    "anchor": "s195-1-airport-shop-goods",
+    "act": "GST Act 1999"
+  },
+  "amalgamation": {
+    "term": "amalgamation",
+    "section": "195-1",
+    "anchor": "s195-1-amalgamation",
+    "act": "GST Act 1999"
+  },
+  "amount": {
+    "term": "amount",
+    "section": "195-1",
+    "anchor": "s195-1-amount",
+    "act": "GST Act 1999"
+  },
+  "annual apportionment election": {
+    "term": "annual apportionment election",
+    "section": "195-1",
+    "anchor": "s195-1-annual-apportionment-election",
+    "act": "GST Act 1999"
+  },
+  "annual apportionment turnover threshold": {
+    "term": "annual apportionment turnover threshold",
+    "section": "195-1",
+    "anchor": "s195-1-annual-apportionment-turnover-threshold",
+    "act": "GST Act 1999"
+  },
+  "annual tax period": {
+    "term": "annual tax period",
+    "section": "195-1",
+    "anchor": "s195-1-annual-tax-period",
+    "act": "GST Act 1999"
+  },
+  "annual tax period election": {
+    "term": "annual tax period election",
+    "section": "195-1",
+    "anchor": "s195-1-annual-tax-period-election",
+    "act": "GST Act 1999"
+  },
+  "approved form": {
+    "term": "approved form",
+    "section": "195-1",
+    "anchor": "s195-1-approved-form",
+    "act": "GST Act 1999"
+  },
+  "approved pathology practitioner": {
+    "term": "approved pathology practitioner",
+    "section": "195-1",
+    "anchor": "s195-1-approved-pathology-practitioner",
+    "act": "GST Act 1999"
+  },
+  "approved residential care home": {
+    "term": "approved residential care home",
+    "section": "195-1",
+    "anchor": "s195-1-approved-residential-care-home",
+    "act": "GST Act 1999"
+  },
+  "approved valuation": {
+    "term": "approved valuation",
+    "section": "195-1",
+    "anchor": "s195-1-approved-valuation",
+    "act": "GST Act 1999"
+  },
+  "assessable income": {
+    "term": "assessable income",
+    "section": "195-1",
+    "anchor": "s195-1-assessable-income",
+    "act": "GST Act 1999"
+  },
+  "assessable professional income": {
+    "term": "assessable professional income",
+    "section": "195-1",
+    "anchor": "s195-1-assessable-professional-income",
+    "act": "GST Act 1999"
+  },
+  "assessment": {
+    "term": "assessment",
+    "section": "195-1",
+    "anchor": "s195-1-assessment",
+    "act": "GST Act 1999"
+  },
+  "associate": {
+    "term": "associate",
+    "section": "195-1",
+    "anchor": "s195-1-associate",
+    "act": "GST Act 1999"
+  },
+  "at least a 90% stake in a company": {
+    "term": "at least a 90% stake in a company",
+    "section": "195-1",
+    "anchor": "s195-1-at-least-a-90-stake-in-a-company",
+    "act": "GST Act 1999"
+  },
+  "australian-based business recipient": {
+    "term": "Australian-based business recipient",
+    "section": "195-1",
+    "anchor": "s195-1-australian-based-business-recipient",
+    "act": "GST Act 1999"
+  },
+  "australian business register": {
+    "term": "Australian Business Register",
+    "section": "195-1",
+    "anchor": "s195-1-australian-business-register",
+    "act": "GST Act 1999"
+  },
+  "australian business registrar": {
+    "term": "Australian Business Registrar",
+    "section": "195-1",
+    "anchor": "s195-1-australian-business-registrar",
+    "act": "GST Act 1999"
+  },
+  "australian consumer": {
+    "term": "Australian consumer",
+    "section": "195-1",
+    "anchor": "s195-1-australian-consumer",
+    "act": "GST Act 1999"
+  },
+  "australian fee or charge": {
+    "term": "Australian fee or charge",
+    "section": "195-1",
+    "anchor": "s195-1-australian-fee-or-charge",
+    "act": "GST Act 1999"
+  },
+  "australian government agency": {
+    "term": "Australian government agency",
+    "section": "195-1",
+    "anchor": "s195-1-australian-government-agency",
+    "act": "GST Act 1999"
+  },
+  "australian law": {
+    "term": "Australian law",
+    "section": "195-1",
+    "anchor": "s195-1-australian-law",
+    "act": "GST Act 1999"
+  },
+  "australian resident": {
+    "term": "Australian resident",
+    "section": "195-1",
+    "anchor": "s195-1-australian-resident",
+    "act": "GST Act 1999"
+  },
+  "australian tax": {
+    "term": "Australian tax",
+    "section": "195-1",
+    "anchor": "s195-1-australian-tax",
+    "act": "GST Act 1999"
+  },
+  "average income": {
+    "term": "average income",
+    "section": "195-1",
+    "anchor": "s195-1-average-income",
+    "act": "GST Act 1999"
+  },
+  "average input tax credit fraction": {
+    "term": "average input tax credit fraction",
+    "section": "195-1",
+    "anchor": "s195-1-average-input-tax-credit-fraction",
+    "act": "GST Act 1999"
+  },
+  "base year": {
+    "term": "base year",
+    "section": "195-1",
+    "anchor": "s195-1-base-year",
+    "act": "GST Act 1999"
+  },
+  "batch repair process": {
+    "term": "batch repair process",
+    "section": "195-1",
+    "anchor": "s195-1-batch-repair-process",
+    "act": "GST Act 1999"
+  },
+  "beverage": {
+    "term": "beverage",
+    "section": "195-1",
+    "anchor": "s195-1-beverage",
+    "act": "GST Act 1999"
+  },
+  "borrowing": {
+    "term": "borrowing",
+    "section": "195-1",
+    "anchor": "s195-1-borrowing",
+    "act": "GST Act 1999"
+  },
+  "business": {
+    "term": "business",
+    "section": "195-1",
+    "anchor": "s195-1-business",
+    "act": "GST Act 1999"
+  },
+  "business day": {
+    "term": "business day",
+    "section": "195-1",
+    "anchor": "s195-1-business-day",
+    "act": "GST Act 1999"
+  },
+  "car": {
+    "term": "car",
+    "section": "195-1",
+    "anchor": "s195-1-car",
+    "act": "GST Act 1999"
+  },
+  "car limit": {
+    "term": "car limit",
+    "section": "195-1",
+    "anchor": "s195-1-car-limit",
+    "act": "GST Act 1999"
+  },
+  "carrying on an enterprise": {
+    "term": "carrying on an enterprise",
+    "section": "195-1",
+    "anchor": "s195-1-carrying-on-an-enterprise",
+    "act": "GST Act 1999"
+  },
+  "cash accounting turnover threshold": {
+    "term": "cash accounting turnover threshold",
+    "section": "195-1",
+    "anchor": "s195-1-cash-accounting-turnover-threshold",
+    "act": "GST Act 1999"
+  },
+  "child care minister": {
+    "term": "Child Care Minister",
+    "section": "195-1",
+    "anchor": "s195-1-child-care-minister",
+    "act": "GST Act 1999"
+  },
+  "commercial accommodation": {
+    "term": "commercial accommodation",
+    "section": "195-1",
+    "anchor": "s195-1-commercial-accommodation",
+    "act": "GST Act 1999"
+  },
+  "commercial residential premises": {
+    "term": "commercial residential premises",
+    "section": "195-1",
+    "anchor": "s195-1-commercial-residential-premises",
+    "act": "GST Act 1999"
+  },
+  "commissioner": {
+    "term": "Commissioner",
+    "section": "195-1",
+    "anchor": "s195-1-commissioner",
+    "act": "GST Act 1999"
+  },
+  "company": {
+    "term": "company",
+    "section": "195-1",
+    "anchor": "s195-1-company",
+    "act": "GST Act 1999"
+  },
+  "complying superannuation fund": {
+    "term": "complying superannuation fund",
+    "section": "195-1",
+    "anchor": "s195-1-complying-superannuation-fund",
+    "act": "GST Act 1999"
+  },
+  "comptroller-general of customs": {
+    "term": "Comptroller-General of Customs",
+    "section": "195-1",
+    "anchor": "s195-1-comptroller-general-of-customs",
+    "act": "GST Act 1999"
+  },
+  "consolidated group": {
+    "term": "consolidated group",
+    "section": "195-1",
+    "anchor": "s195-1-consolidated-group",
+    "act": "GST Act 1999"
+  },
+  "consumer": {
+    "term": "consumer",
+    "section": "195-1",
+    "anchor": "s195-1-consumer",
+    "act": "GST Act 1999"
+  },
+  "contributing operator": {
+    "term": "contributing operator",
+    "section": "195-1",
+    "anchor": "s195-1-contributing-operator",
+    "act": "GST Act 1999"
+  },
+  "contribution amount": {
+    "term": "contribution amount",
+    "section": "195-1",
+    "anchor": "s195-1-contribution-amount",
+    "act": "GST Act 1999"
+  },
+  "corrected gst amount": {
+    "term": "corrected GST amount",
+    "section": "195-1",
+    "anchor": "s195-1-corrected-gst-amount",
+    "act": "GST Act 1999"
+  },
+  "corrected input tax credit amount": {
+    "term": "corrected input tax credit amount",
+    "section": "195-1",
+    "anchor": "s195-1-corrected-input-tax-credit-amount",
+    "act": "GST Act 1999"
+  },
+  "creditable acquisition": {
+    "term": "creditable acquisition",
+    "section": "195-1",
+    "anchor": "s195-1-creditable-acquisition",
+    "act": "GST Act 1999"
+  },
+  "creditable importation": {
+    "term": "creditable importation",
+    "section": "195-1",
+    "anchor": "s195-1-creditable-importation",
+    "act": "GST Act 1999"
+  },
+  "ctp ancillary payment or supply": {
+    "term": "CTP ancillary payment or supply",
+    "section": "195-1",
+    "anchor": "s195-1-ctp-ancillary-payment-or-supply",
+    "act": "GST Act 1999"
+  },
+  "ctp compensation or ancillary payment or supply": {
+    "term": "CTP compensation or ancillary payment or supply",
+    "section": "195-1",
+    "anchor": "s195-1-ctp-compensation-or-ancillary-payment-or-supply",
+    "act": "GST Act 1999"
+  },
+  "ctp compensation payment or supply": {
+    "term": "CTP compensation payment or supply",
+    "section": "195-1",
+    "anchor": "s195-1-ctp-compensation-payment-or-supply",
+    "act": "GST Act 1999"
+  },
+  "ctp dual premium or election payment or supply": {
+    "term": "CTP dual premium or election payment or supply",
+    "section": "195-1",
+    "anchor": "s195-1-ctp-dual-premium-or-election-payment-or-supply",
+    "act": "GST Act 1999"
+  },
+  "ctp hybrid payment or supply": {
+    "term": "CTP hybrid payment or supply",
+    "section": "195-1",
+    "anchor": "s195-1-ctp-hybrid-payment-or-supply",
+    "act": "GST Act 1999"
+  },
+  "current gst lodgment record": {
+    "term": "current GST lodgment record",
+    "section": "195-1",
+    "anchor": "s195-1-current-gst-lodgment-record",
+    "act": "GST Act 1999"
+  },
+  "current gst turnover": {
+    "term": "current GST turnover",
+    "section": "195-1",
+    "anchor": "s195-1-current-gst-turnover",
+    "act": "GST Act 1999"
+  },
+  "customs clearance area": {
+    "term": "customs clearance area",
+    "section": "195-1",
+    "anchor": "s195-1-customs-clearance-area",
+    "act": "GST Act 1999"
+  },
+  "customs duty": {
+    "term": "customs duty",
+    "section": "195-1",
+    "anchor": "s195-1-customs-duty",
+    "act": "GST Act 1999"
+  },
+  "dealer in precious metal": {
+    "term": "dealer in precious metal",
+    "section": "195-1",
+    "anchor": "s195-1-dealer-in-precious-metal",
+    "act": "GST Act 1999"
+  },
+  "decreasing adjustment": {
+    "term": "decreasing adjustment",
+    "section": "195-1",
+    "anchor": "s195-1-decreasing-adjustment",
+    "act": "GST Act 1999"
+  },
+  "dental practitioner": {
+    "term": "dental practitioner",
+    "section": "195-1",
+    "anchor": "s195-1-dental-practitioner",
+    "act": "GST Act 1999"
+  },
+  "deposit account": {
+    "term": "deposit account",
+    "section": "195-1",
+    "anchor": "s195-1-deposit-account",
+    "act": "GST Act 1999"
+  },
+  "digital currency": {
+    "term": "digital currency",
+    "section": "195-1",
+    "anchor": "s195-1-digital-currency",
+    "act": "GST Act 1999"
+  },
+  "disability services minister": {
+    "term": "Disability Services Minister",
+    "section": "195-1",
+    "anchor": "s195-1-disability-services-minister",
+    "act": "GST Act 1999"
+  },
+  "dividend": {
+    "term": "dividend",
+    "section": "195-1",
+    "anchor": "s195-1-dividend",
+    "act": "GST Act 1999"
+  },
+  "early net amount": {
+    "term": "early net amount",
+    "section": "195-1",
+    "anchor": "s195-1-early-net-amount",
+    "act": "GST Act 1999"
+  },
+  "education course": {
+    "term": "education course",
+    "section": "195-1",
+    "anchor": "s195-1-education-course",
+    "act": "GST Act 1999"
+  },
+  "education institution": {
+    "term": "education institution",
+    "section": "195-1",
+    "anchor": "s195-1-education-institution",
+    "act": "GST Act 1999"
+  },
+  "electronic communication": {
+    "term": "electronic communication",
+    "section": "195-1",
+    "anchor": "s195-1-electronic-communication",
+    "act": "GST Act 1999"
+  },
+  "electronic distribution platform": {
+    "term": "electronic distribution platform",
+    "section": "195-1",
+    "anchor": "s195-1-electronic-distribution-platform",
+    "act": "GST Act 1999"
+  },
+  "electronic lodgment turnover threshold": {
+    "term": "electronic lodgment turnover threshold",
+    "section": "195-1",
+    "anchor": "s195-1-electronic-lodgment-turnover-threshold",
+    "act": "GST Act 1999"
+  },
+  "electronic payment": {
+    "term": "electronic payment",
+    "section": "195-1",
+    "anchor": "s195-1-electronic-payment",
+    "act": "GST Act 1999"
+  },
+  "eligible australian carbon credit unit": {
+    "term": "eligible Australian carbon credit unit",
+    "section": "195-1",
+    "anchor": "s195-1-eligible-australian-carbon-credit-unit",
+    "act": "GST Act 1999"
+  },
+  "eligible emissions unit": {
+    "term": "eligible emissions unit",
+    "section": "195-1",
+    "anchor": "s195-1-eligible-emissions-unit",
+    "act": "GST Act 1999"
+  },
+  "eligible international emissions unit": {
+    "term": "eligible international emissions unit",
+    "section": "195-1",
+    "anchor": "s195-1-eligible-international-emissions-unit",
+    "act": "GST Act 1999"
+  },
+  "employee share scheme": {
+    "term": "employee share scheme",
+    "section": "195-1",
+    "anchor": "s195-1-employee-share-scheme",
+    "act": "GST Act 1999"
+  },
+  "endorsed charity": {
+    "term": "endorsed charity",
+    "section": "195-1",
+    "anchor": "s195-1-endorsed-charity",
+    "act": "GST Act 1999"
+  },
+  "english language course for overseas students": {
+    "term": "English language course for overseas students",
+    "section": "195-1",
+    "anchor": "s195-1-english-language-course-for-overseas-students",
+    "act": "GST Act 1999"
+  },
+  "enterprise": {
+    "term": "enterprise",
+    "section": "195-1",
+    "anchor": "s195-1-enterprise",
+    "act": "GST Act 1999"
+  },
+  "entertainment": {
+    "term": "entertainment",
+    "section": "195-1",
+    "anchor": "s195-1-entertainment",
+    "act": "GST Act 1999"
+  },
+  "entity": {
+    "term": "entity",
+    "section": "195-1",
+    "anchor": "s195-1-entity",
+    "act": "GST Act 1999"
+  },
+  "essential prerequisite": {
+    "term": "essential prerequisite",
+    "section": "195-1",
+    "anchor": "s195-1-essential-prerequisite",
+    "act": "GST Act 1999"
+  },
+  "estimated annual gst amount": {
+    "term": "estimated annual GST amount",
+    "section": "195-1",
+    "anchor": "s195-1-estimated-annual-gst-amount",
+    "act": "GST Act 1999"
+  },
+  "exceed the financial acquisitions threshold": {
+    "term": "exceed the financial acquisitions threshold",
+    "section": "195-1",
+    "anchor": "s195-1-exceed-the-financial-acquisitions-threshold",
+    "act": "GST Act 1999"
+  },
+  "excisable goods": {
+    "term": "excisable goods",
+    "section": "195-1",
+    "anchor": "s195-1-excisable-goods",
+    "act": "GST Act 1999"
+  },
+  "excise duty": {
+    "term": "excise duty",
+    "section": "195-1",
+    "anchor": "s195-1-excise-duty",
+    "act": "GST Act 1999"
+  },
+  "exempt entity": {
+    "term": "exempt entity",
+    "section": "195-1",
+    "anchor": "s195-1-exempt-entity",
+    "act": "GST Act 1999"
+  },
+  "expense payment benefit": {
+    "term": "expense payment benefit",
+    "section": "195-1",
+    "anchor": "s195-1-expense-payment-benefit",
+    "act": "GST Act 1999"
+  },
+  "explanatory section": {
+    "term": "explanatory section",
+    "section": "195-1",
+    "anchor": "s195-1-explanatory-section",
+    "act": "GST Act 1999"
+  },
+  "family member": {
+    "term": "family member",
+    "section": "195-1",
+    "anchor": "s195-1-family-member",
+    "act": "GST Act 1999"
+  },
+  "farming business": {
+    "term": "farming business",
+    "section": "195-1",
+    "anchor": "s195-1-farming-business",
+    "act": "GST Act 1999"
+  },
+  "fbt year": {
+    "term": "FBT year",
+    "section": "195-1",
+    "anchor": "s195-1-fbt-year",
+    "act": "GST Act 1999"
+  },
+  "finance minister": {
+    "term": "Finance Minister",
+    "section": "195-1",
+    "anchor": "s195-1-finance-minister",
+    "act": "GST Act 1999"
+  },
+  "financial acquisition": {
+    "term": "financial acquisition",
+    "section": "195-1",
+    "anchor": "s195-1-financial-acquisition",
+    "act": "GST Act 1999"
+  },
+  "financial supply": {
+    "term": "financial supply",
+    "section": "195-1",
+    "anchor": "s195-1-financial-supply",
+    "act": "GST Act 1999"
+  },
+  "financial year": {
+    "term": "financial year",
+    "section": "195-1",
+    "anchor": "s195-1-financial-year",
+    "act": "GST Act 1999"
+  },
+  "first aid or life saving course": {
+    "term": "first aid or life saving course",
+    "section": "195-1",
+    "anchor": "s195-1-first-aid-or-life-saving-course",
+    "act": "GST Act 1999"
+  },
+  "floating home": {
+    "term": "floating home",
+    "section": "195-1",
+    "anchor": "s195-1-floating-home",
+    "act": "GST Act 1999"
+  },
+  "food": {
+    "term": "food",
+    "section": "195-1",
+    "anchor": "s195-1-food",
+    "act": "GST Act 1999"
+  },
+  "foreign law": {
+    "term": "foreign law",
+    "section": "195-1",
+    "anchor": "s195-1-foreign-law",
+    "act": "GST Act 1999"
+  },
+  "foreign minister": {
+    "term": "Foreign Minister",
+    "section": "195-1",
+    "anchor": "s195-1-foreign-minister",
+    "act": "GST Act 1999"
+  },
+  "freight container": {
+    "term": "freight container",
+    "section": "195-1",
+    "anchor": "s195-1-freight-container",
+    "act": "GST Act 1999"
+  },
+  "fringe benefit": {
+    "term": "fringe benefit",
+    "section": "195-1",
+    "anchor": "s195-1-fringe-benefit",
+    "act": "GST Act 1999"
+  },
+  "itaa 1997 but": {
+    "term": "ITAA 1997 but",
+    "section": "195-1",
+    "anchor": "s195-1-itaa-1997-but",
+    "act": "GST Act 1999"
+  },
+  "fringe benefits tax": {
+    "term": "fringe benefits tax",
+    "section": "195-1",
+    "anchor": "s195-1-fringe-benefits-tax",
+    "act": "GST Act 1999"
+  },
+  "fund-raising event": {
+    "term": "fund-raising event",
+    "section": "195-1",
+    "anchor": "s195-1-fund-raising-event",
+    "act": "GST Act 1999"
+  },
+  "futures exchange": {
+    "term": "futures exchange",
+    "section": "195-1",
+    "anchor": "s195-1-futures-exchange",
+    "act": "GST Act 1999"
+  },
+  "gambling event": {
+    "term": "gambling event",
+    "section": "195-1",
+    "anchor": "s195-1-gambling-event",
+    "act": "GST Act 1999"
+  },
+  "gambling supply": {
+    "term": "gambling supply",
+    "section": "195-1",
+    "anchor": "s195-1-gambling-supply",
+    "act": "GST Act 1999"
+  },
+  "general interest charge": {
+    "term": "general interest charge",
+    "section": "195-1",
+    "anchor": "s195-1-general-interest-charge",
+    "act": "GST Act 1999"
+  },
+  "gift-deductible entity": {
+    "term": "gift-deductible entity",
+    "section": "195-1",
+    "anchor": "s195-1-gift-deductible-entity",
+    "act": "GST Act 1999"
+  },
+  "global gst amount": {
+    "term": "global GST amount",
+    "section": "195-1",
+    "anchor": "s195-1-global-gst-amount",
+    "act": "GST Act 1999"
+  },
+  "goods": {
+    "term": "goods",
+    "section": "195-1",
+    "anchor": "s195-1-goods",
+    "act": "GST Act 1999"
+  },
+  "government entity": {
+    "term": "government entity",
+    "section": "195-1",
+    "anchor": "s195-1-government-entity",
+    "act": "GST Act 1999"
+  },
+  "government school": {
+    "term": "government school",
+    "section": "195-1",
+    "anchor": "s195-1-government-school",
+    "act": "GST Act 1999"
+  },
+  "mec group": {
+    "term": "MEC group",
+    "section": "195-1",
+    "anchor": "s195-1-mec-group",
+    "act": "GST Act 1999"
+  },
+  "gst": {
+    "term": "GST",
+    "section": "195-1",
+    "anchor": "s195-1-gst",
+    "act": "GST Act 1999"
+  },
+  "gst benefit": {
+    "term": "GST benefit",
+    "section": "195-1",
+    "anchor": "s195-1-gst-benefit",
+    "act": "GST Act 1999"
+  },
+  "gst branch": {
+    "term": "GST branch",
+    "section": "195-1",
+    "anchor": "s195-1-gst-branch",
+    "act": "GST Act 1999"
+  },
+  "gst disadvantage": {
+    "term": "GST disadvantage",
+    "section": "195-1",
+    "anchor": "s195-1-gst-disadvantage",
+    "act": "GST Act 1999"
+  },
+  "gst-free": {
+    "term": "GST-free",
+    "section": "195-1",
+    "anchor": "s195-1-gst-free",
+    "act": "GST Act 1999"
+  },
+  "gst group": {
+    "term": "GST group",
+    "section": "195-1",
+    "anchor": "s195-1-gst-group",
+    "act": "GST Act 1999"
+  },
+  "gst instalment": {
+    "term": "GST instalment",
+    "section": "195-1",
+    "anchor": "s195-1-gst-instalment",
+    "act": "GST Act 1999"
+  },
+  "gst instalment payer": {
+    "term": "GST instalment payer",
+    "section": "195-1",
+    "anchor": "s195-1-gst-instalment-payer",
+    "act": "GST Act 1999"
+  },
+  "gst instalment quarter": {
+    "term": "GST instalment quarter",
+    "section": "195-1",
+    "anchor": "s195-1-gst-instalment-quarter",
+    "act": "GST Act 1999"
+  },
+  "gst joint venture": {
+    "term": "GST joint venture",
+    "section": "195-1",
+    "anchor": "s195-1-gst-joint-venture",
+    "act": "GST Act 1999"
+  },
+  "gst law": {
+    "term": "GST law",
+    "section": "195-1",
+    "anchor": "s195-1-gst-law",
+    "act": "GST Act 1999"
+  },
+  "gst religious group": {
+    "term": "GST religious group",
+    "section": "195-1",
+    "anchor": "s195-1-gst-religious-group",
+    "act": "GST Act 1999"
+  },
+  "gst return": {
+    "term": "GST return",
+    "section": "195-1",
+    "anchor": "s195-1-gst-return",
+    "act": "GST Act 1999"
+  },
+  "head company of a consolidated group or a mec group": {
+    "term": "head company of a consolidated group or a MEC group",
+    "section": "195-1",
+    "anchor": "s195-1-head-company-of-a-consolidated-group-or-a-mec-group",
+    "act": "GST Act 1999"
+  },
+  "health minister": {
+    "term": "Health Minister",
+    "section": "195-1",
+    "anchor": "s195-1-health-minister",
+    "act": "GST Act 1999"
+  },
+  "higher education institution": {
+    "term": "higher education institution",
+    "section": "195-1",
+    "anchor": "s195-1-higher-education-institution",
+    "act": "GST Act 1999"
+  },
+  "hih company": {
+    "term": "HIH company",
+    "section": "195-1",
+    "anchor": "s195-1-hih-company",
+    "act": "GST Act 1999"
+  },
+  "hih rescue entity": {
+    "term": "HIH rescue entity",
+    "section": "195-1",
+    "anchor": "s195-1-hih-rescue-entity",
+    "act": "GST Act 1999"
+  },
+  "hire purchase agreement": {
+    "term": "hire purchase agreement",
+    "section": "195-1",
+    "anchor": "s195-1-hire-purchase-agreement",
+    "act": "GST Act 1999"
+  },
+  "hospital treatment": {
+    "term": "hospital treatment",
+    "section": "195-1",
+    "anchor": "s195-1-hospital-treatment",
+    "act": "GST Act 1999"
+  },
+  "hybrid settlement sharing arrangement": {
+    "term": "hybrid settlement sharing arrangement",
+    "section": "195-1",
+    "anchor": "s195-1-hybrid-settlement-sharing-arrangement",
+    "act": "GST Act 1999"
+  },
+  "import": {
+    "term": "import",
+    "section": "195-1",
+    "anchor": "s195-1-import",
+    "act": "GST Act 1999"
+  },
+  "inbound intangible consumer supply": {
+    "term": "inbound intangible consumer supply",
+    "section": "195-1",
+    "anchor": "s195-1-inbound-intangible-consumer-supply",
+    "act": "GST Act 1999"
+  },
+  "incapacitated entity": {
+    "term": "incapacitated entity",
+    "section": "195-1",
+    "anchor": "s195-1-incapacitated-entity",
+    "act": "GST Act 1999"
+  },
+  "incidental valuable metal goods": {
+    "term": "incidental valuable metal goods",
+    "section": "195-1",
+    "anchor": "s195-1-incidental-valuable-metal-goods",
+    "act": "GST Act 1999"
+  },
+  "income year": {
+    "term": "income year",
+    "section": "195-1",
+    "anchor": "s195-1-income-year",
+    "act": "GST Act 1999"
+  },
+  "increasing adjustment": {
+    "term": "increasing adjustment",
+    "section": "195-1",
+    "anchor": "s195-1-increasing-adjustment",
+    "act": "GST Act 1999"
+  },
+  "indirect tax zone": {
+    "term": "indirect tax zone",
+    "section": "195-1",
+    "anchor": "s195-1-indirect-tax-zone",
+    "act": "GST Act 1999"
+  },
+  "individual": {
+    "term": "individual",
+    "section": "195-1",
+    "anchor": "s195-1-individual",
+    "act": "GST Act 1999"
+  },
+  "industrial instrument": {
+    "term": "industrial instrument",
+    "section": "195-1",
+    "anchor": "s195-1-industrial-instrument",
+    "act": "GST Act 1999"
+  },
+  "ineligible for the margin scheme": {
+    "term": "ineligible for the margin scheme",
+    "section": "195-1",
+    "anchor": "s195-1-ineligible-for-the-margin-scheme",
+    "act": "GST Act 1999"
+  },
+  "inherit": {
+    "term": "inherit",
+    "section": "195-1",
+    "anchor": "s195-1-inherit",
+    "act": "GST Act 1999"
+  },
+  "input tax credit": {
+    "term": "input tax credit",
+    "section": "195-1",
+    "anchor": "s195-1-input-tax-credit",
+    "act": "GST Act 1999"
+  },
+  "input taxed": {
+    "term": "input taxed",
+    "section": "195-1",
+    "anchor": "s195-1-input-taxed",
+    "act": "GST Act 1999"
+  },
+  "instalment tax period": {
+    "term": "instalment tax period",
+    "section": "195-1",
+    "anchor": "s195-1-instalment-tax-period",
+    "act": "GST Act 1999"
+  },
+  "instalment turnover threshold": {
+    "term": "instalment turnover threshold",
+    "section": "195-1",
+    "anchor": "s195-1-instalment-turnover-threshold",
+    "act": "GST Act 1999"
+  },
+  "insurance broker": {
+    "term": "insurance broker",
+    "section": "195-1",
+    "anchor": "s195-1-insurance-broker",
+    "act": "GST Act 1999"
+  },
+  "insurance policy": {
+    "term": "insurance policy",
+    "section": "195-1",
+    "anchor": "s195-1-insurance-policy",
+    "act": "GST Act 1999"
+  },
+  "insurance policy settlement sharing arrangement": {
+    "term": "insurance policy settlement sharing arrangement",
+    "section": "195-1",
+    "anchor": "s195-1-insurance-policy-settlement-sharing-arrangement",
+    "act": "GST Act 1999"
+  },
+  "intended or former application of a thing": {
+    "term": "intended or former application of a thing",
+    "section": "195-1",
+    "anchor": "s195-1-intended-or-former-application-of-a-thing",
+    "act": "GST Act 1999"
+  },
+  "international transport": {
+    "term": "international transport",
+    "section": "195-1",
+    "anchor": "s195-1-international-transport",
+    "act": "GST Act 1999"
+  },
+  "invoice": {
+    "term": "invoice",
+    "section": "195-1",
+    "anchor": "s195-1-invoice",
+    "act": "GST Act 1999"
+  },
+  "inwards duty free shop": {
+    "term": "inwards duty free shop",
+    "section": "195-1",
+    "anchor": "s195-1-inwards-duty-free-shop",
+    "act": "GST Act 1999"
+  },
+  "itaa 1936": {
+    "term": "ITAA 1936",
+    "section": "195-1",
+    "anchor": "s195-1-itaa-1936",
+    "act": "GST Act 1999"
+  },
+  "itaa 1997": {
+    "term": "ITAA 1997",
+    "section": "195-1",
+    "anchor": "s195-1-itaa-1997",
+    "act": "GST Act 1999"
+  },
+  "legal practitioner": {
+    "term": "legal practitioner",
+    "section": "195-1",
+    "anchor": "s195-1-legal-practitioner",
+    "act": "GST Act 1999"
+  },
+  "life insurance policy": {
+    "term": "life insurance policy",
+    "section": "195-1",
+    "anchor": "s195-1-life-insurance-policy",
+    "act": "GST Act 1999"
+  },
+  "limited registration entity": {
+    "term": "limited registration entity",
+    "section": "195-1",
+    "anchor": "s195-1-limited-registration-entity",
+    "act": "GST Act 1999"
+  },
+  "liquidator": {
+    "term": "liquidator",
+    "section": "195-1",
+    "anchor": "s195-1-liquidator",
+    "act": "GST Act 1999"
+  },
+  "local entry": {
+    "term": "local entry",
+    "section": "195-1",
+    "anchor": "s195-1-local-entry",
+    "act": "GST Act 1999"
+  },
+  "lodged electronically": {
+    "term": "lodged electronically",
+    "section": "195-1",
+    "anchor": "s195-1-lodged-electronically",
+    "act": "GST Act 1999"
+  },
+  "long-term accommodation": {
+    "term": "long-term accommodation",
+    "section": "195-1",
+    "anchor": "s195-1-long-term-accommodation",
+    "act": "GST Act 1999"
+  },
+  "long-term lease": {
+    "term": "long-term lease",
+    "section": "195-1",
+    "anchor": "s195-1-long-term-lease",
+    "act": "GST Act 1999"
+  },
+  "luxury car": {
+    "term": "luxury car",
+    "section": "195-1",
+    "anchor": "s195-1-luxury-car",
+    "act": "GST Act 1999"
+  },
+  "luxury car tax": {
+    "term": "luxury car tax",
+    "section": "195-1",
+    "anchor": "s195-1-luxury-car-tax",
+    "act": "GST Act 1999"
+  },
+  "managing operator": {
+    "term": "managing operator",
+    "section": "195-1",
+    "anchor": "s195-1-managing-operator",
+    "act": "GST Act 1999"
+  },
+  "margin scheme": {
+    "term": "margin scheme",
+    "section": "195-1",
+    "anchor": "s195-1-margin-scheme",
+    "act": "GST Act 1999"
+  },
+  "medical practitioner": {
+    "term": "medical practitioner",
+    "section": "195-1",
+    "anchor": "s195-1-medical-practitioner",
+    "act": "GST Act 1999"
+  },
+  "medical service": {
+    "term": "medical service",
+    "section": "195-1",
+    "anchor": "s195-1-medical-service",
+    "act": "GST Act 1999"
+  },
+  "mineral deposit": {
+    "term": "mineral deposit",
+    "section": "195-1",
+    "anchor": "s195-1-mineral-deposit",
+    "act": "GST Act 1999"
+  },
+  "minerals": {
+    "term": "minerals",
+    "section": "195-1",
+    "anchor": "s195-1-minerals",
+    "act": "GST Act 1999"
+  },
+  "monetary prize": {
+    "term": "monetary prize",
+    "section": "195-1",
+    "anchor": "s195-1-monetary-prize",
+    "act": "GST Act 1999"
+  },
+  "money": {
+    "term": "money",
+    "section": "195-1",
+    "anchor": "s195-1-money",
+    "act": "GST Act 1999"
+  },
+  "net capital loss": {
+    "term": "net capital loss",
+    "section": "195-1",
+    "anchor": "s195-1-net-capital-loss",
+    "act": "GST Act 1999"
+  },
+  "net gst": {
+    "term": "net GST",
+    "section": "195-1",
+    "anchor": "s195-1-net-gst",
+    "act": "GST Act 1999"
+  },
+  "net refund position": {
+    "term": "net refund position",
+    "section": "195-1",
+    "anchor": "s195-1-net-refund-position",
+    "act": "GST Act 1999"
+  },
+  "new recreational boat": {
+    "term": "new recreational boat",
+    "section": "195-1",
+    "anchor": "s195-1-new-recreational-boat",
+    "act": "GST Act 1999"
+  },
+  "new residential premises": {
+    "term": "new residential premises",
+    "section": "195-1",
+    "anchor": "s195-1-new-residential-premises",
+    "act": "GST Act 1999"
+  },
+  "nominal defendant settlement sharing arrangement": {
+    "term": "nominal defendant settlement sharing arrangement",
+    "section": "195-1",
+    "anchor": "s195-1-nominal-defendant-settlement-sharing-arrangement",
+    "act": "GST Act 1999"
+  },
+  "non-cash benefit": {
+    "term": "non-cash benefit",
+    "section": "195-1",
+    "anchor": "s195-1-non-cash-benefit",
+    "act": "GST Act 1999"
+  },
+  "non-creditable insurance event": {
+    "term": "non-creditable insurance event",
+    "section": "195-1",
+    "anchor": "s195-1-non-creditable-insurance-event",
+    "act": "GST Act 1999"
+  },
+  "non-deductible expense": {
+    "term": "non-deductible expense",
+    "section": "195-1",
+    "anchor": "s195-1-non-deductible-expense",
+    "act": "GST Act 1999"
+  },
+  "non-entity joint venture": {
+    "term": "non-entity joint venture",
+    "section": "195-1",
+    "anchor": "s195-1-non-entity-joint-venture",
+    "act": "GST Act 1999"
+  },
+  "non-government higher education institution": {
+    "term": "non-government higher education institution",
+    "section": "195-1",
+    "anchor": "s195-1-non-government-higher-education-institution",
+    "act": "GST Act 1999"
+  },
+  "non-profit association": {
+    "term": "non-profit association",
+    "section": "195-1",
+    "anchor": "s195-1-non-profit-association",
+    "act": "GST Act 1999"
+  },
+  "non-profit sub-entity": {
+    "term": "Non-profit sub-entity",
+    "section": "195-1",
+    "anchor": "s195-1-non-profit-sub-entity",
+    "act": "GST Act 1999"
+  },
+  "non-resident": {
+    "term": "non-resident",
+    "section": "195-1",
+    "anchor": "s195-1-non-resident",
+    "act": "GST Act 1999"
+  },
+  "non-taxable importation": {
+    "term": "non-taxable importation",
+    "section": "195-1",
+    "anchor": "s195-1-non-taxable-importation",
+    "act": "GST Act 1999"
+  },
+  "notified instalment amount": {
+    "term": "notified instalment amount",
+    "section": "195-1",
+    "anchor": "s195-1-notified-instalment-amount",
+    "act": "GST Act 1999"
+  },
+  "officer": {
+    "term": "officer",
+    "section": "195-1",
+    "anchor": "s195-1-officer",
+    "act": "GST Act 1999"
+  },
+  "offshore supply of low value goods": {
+    "term": "offshore supply of low value goods",
+    "section": "195-1",
+    "anchor": "s195-1-offshore-supply-of-low-value-goods",
+    "act": "GST Act 1999"
+  },
+  "operator of a compulsory third party scheme": {
+    "term": "operator of a compulsory third party scheme",
+    "section": "195-1",
+    "anchor": "s195-1-operator-of-a-compulsory-third-party-scheme",
+    "act": "GST Act 1999"
+  },
+  "outwards duty free shop": {
+    "term": "outwards duty free shop",
+    "section": "195-1",
+    "anchor": "s195-1-outwards-duty-free-shop",
+    "act": "GST Act 1999"
+  },
+  "overdue": {
+    "term": "overdue",
+    "section": "195-1",
+    "anchor": "s195-1-overdue",
+    "act": "GST Act 1999"
+  },
+  "partnership": {
+    "term": "partnership",
+    "section": "195-1",
+    "anchor": "s195-1-partnership",
+    "act": "GST Act 1999"
+  },
+  "person": {
+    "term": "person",
+    "section": "195-1",
+    "anchor": "s195-1-person",
+    "act": "GST Act 1999"
+  },
+  "place of consignment of goods": {
+    "term": "place of consignment of goods",
+    "section": "195-1",
+    "anchor": "s195-1-place-of-consignment-of-goods",
+    "act": "GST Act 1999"
+  },
+  "place of export of goods": {
+    "term": "place of export of goods",
+    "section": "195-1",
+    "anchor": "s195-1-place-of-export-of-goods",
+    "act": "GST Act 1999"
+  },
+  "potential residential land": {
+    "term": "potential residential land",
+    "section": "195-1",
+    "anchor": "s195-1-potential-residential-land",
+    "act": "GST Act 1999"
+  },
+  "precious metal": {
+    "term": "precious metal",
+    "section": "195-1",
+    "anchor": "s195-1-precious-metal",
+    "act": "GST Act 1999"
+  },
+  "predominantly for long-term accommodation": {
+    "term": "predominantly for long-term accommodation",
+    "section": "195-1",
+    "anchor": "s195-1-predominantly-for-long-term-accommodation",
+    "act": "GST Act 1999"
+  },
+  "pre-establishment acquisition": {
+    "term": "pre-establishment acquisition",
+    "section": "195-1",
+    "anchor": "s195-1-pre-establishment-acquisition",
+    "act": "GST Act 1999"
+  },
+  "pre-establishment importation": {
+    "term": "pre-establishment importation",
+    "section": "195-1",
+    "anchor": "s195-1-pre-establishment-importation",
+    "act": "GST Act 1999"
+  },
+  "premium selection test is satisfied": {
+    "term": "premium selection test is satisfied",
+    "section": "195-1",
+    "anchor": "s195-1-premium-selection-test-is-satisfied",
+    "act": "GST Act 1999"
+  },
+  "prepaid phone card or facility": {
+    "term": "prepaid phone card or facility",
+    "section": "195-1",
+    "anchor": "s195-1-prepaid-phone-card-or-facility",
+    "act": "GST Act 1999"
+  },
+  "pre-school course": {
+    "term": "pre-school course",
+    "section": "195-1",
+    "anchor": "s195-1-pre-school-course",
+    "act": "GST Act 1999"
+  },
+  "previously attributed gst amount": {
+    "term": "previously attributed GST amount",
+    "section": "195-1",
+    "anchor": "s195-1-previously-attributed-gst-amount",
+    "act": "GST Act 1999"
+  },
+  "previously attributed input tax credit amount": {
+    "term": "previously attributed input tax credit amount",
+    "section": "195-1",
+    "anchor": "s195-1-previously-attributed-input-tax-credit-amount",
+    "act": "GST Act 1999"
+  },
+  "primary course": {
+    "term": "primary course",
+    "section": "195-1",
+    "anchor": "s195-1-primary-course",
+    "act": "GST Act 1999"
+  },
+  "primary production business": {
+    "term": "primary production business",
+    "section": "195-1",
+    "anchor": "s195-1-primary-production-business",
+    "act": "GST Act 1999"
+  },
+  "private health insurance": {
+    "term": "private health insurance",
+    "section": "195-1",
+    "anchor": "s195-1-private-health-insurance",
+    "act": "GST Act 1999"
+  },
+  "professional or trade course": {
+    "term": "professional or trade course",
+    "section": "195-1",
+    "anchor": "s195-1-professional-or-trade-course",
+    "act": "GST Act 1999"
+  },
+  "professional service": {
+    "term": "professional service",
+    "section": "195-1",
+    "anchor": "s195-1-professional-service",
+    "act": "GST Act 1999"
+  },
+  "projected gst turnover": {
+    "term": "projected GST turnover",
+    "section": "195-1",
+    "anchor": "s195-1-projected-gst-turnover",
+    "act": "GST Act 1999"
+  },
+  "property subdivision plan": {
+    "term": "property subdivision plan",
+    "section": "195-1",
+    "anchor": "s195-1-property-subdivision-plan",
+    "act": "GST Act 1999"
+  },
+  "quarterly tax period": {
+    "term": "quarterly tax period",
+    "section": "195-1",
+    "anchor": "s195-1-quarterly-tax-period",
+    "act": "GST Act 1999"
+  },
+  "real property": {
+    "term": "real property",
+    "section": "195-1",
+    "anchor": "s195-1-real-property",
+    "act": "GST Act 1999"
+  },
+  "recipient created tax invoice": {
+    "term": "recipient created tax invoice",
+    "section": "195-1",
+    "anchor": "s195-1-recipient-created-tax-invoice",
+    "act": "GST Act 1999"
+  },
+  "recipients contribution": {
+    "term": "recipients contribution",
+    "section": "195-1",
+    "anchor": "s195-1-recipients-contribution",
+    "act": "GST Act 1999"
+  },
+  "recognised professional": {
+    "term": "recognised professional",
+    "section": "195-1",
+    "anchor": "s195-1-recognised-professional",
+    "act": "GST Act 1999"
+  },
+  "recognised tax adviser": {
+    "term": "recognised tax adviser",
+    "section": "195-1",
+    "anchor": "s195-1-recognised-tax-adviser",
+    "act": "GST Act 1999"
+  },
+  "reduced credit acquisition": {
+    "term": "reduced credit acquisition",
+    "section": "195-1",
+    "anchor": "s195-1-reduced-credit-acquisition",
+    "act": "GST Act 1999"
+  },
+  "refiner of precious metal": {
+    "term": "refiner of precious metal",
+    "section": "195-1",
+    "anchor": "s195-1-refiner-of-precious-metal",
+    "act": "GST Act 1999"
+  },
+  "registered": {
+    "term": "registered",
+    "section": "195-1",
+    "anchor": "s195-1-registered",
+    "act": "GST Act 1999"
+  },
+  "registration turnover threshold": {
+    "term": "registration turnover threshold",
+    "section": "195-1",
+    "anchor": "s195-1-registration-turnover-threshold",
+    "act": "GST Act 1999"
+  },
+  "relates to business finance": {
+    "term": "relates to business finance",
+    "section": "195-1",
+    "anchor": "s195-1-relates-to-business-finance",
+    "act": "GST Act 1999"
+  },
+  "religious practitioner": {
+    "term": "religious practitioner",
+    "section": "195-1",
+    "anchor": "s195-1-religious-practitioner",
+    "act": "GST Act 1999"
+  },
+  "representative": {
+    "term": "representative",
+    "section": "195-1",
+    "anchor": "s195-1-representative",
+    "act": "GST Act 1999"
+  },
+  "required to be registered": {
+    "term": "required to be registered",
+    "section": "195-1",
+    "anchor": "s195-1-required-to-be-registered",
+    "act": "GST Act 1999"
+  },
+  "resident agent": {
+    "term": "resident agent",
+    "section": "195-1",
+    "anchor": "s195-1-resident-agent",
+    "act": "GST Act 1999"
+  },
+  "residential premises": {
+    "term": "residential premises",
+    "section": "195-1",
+    "anchor": "s195-1-residential-premises",
+    "act": "GST Act 1999"
+  },
+  "retailer": {
+    "term": "retailer",
+    "section": "195-1",
+    "anchor": "s195-1-retailer",
+    "act": "GST Act 1999"
+  },
+  "retirement village": {
+    "term": "retirement village",
+    "section": "195-1",
+    "anchor": "s195-1-retirement-village",
+    "act": "GST Act 1999"
+  },
+  "reviewable gst decision": {
+    "term": "reviewable GST decision",
+    "section": "195-1",
+    "anchor": "s195-1-reviewable-gst-decision",
+    "act": "GST Act 1999"
+  },
+  "scheme": {
+    "term": "scheme",
+    "section": "195-1",
+    "anchor": "s195-1-scheme",
+    "act": "GST Act 1999"
+  },
+  "school": {
+    "term": "school",
+    "section": "195-1",
+    "anchor": "s195-1-school",
+    "act": "GST Act 1999"
+  },
+  "secondary course": {
+    "term": "secondary course",
+    "section": "195-1",
+    "anchor": "s195-1-secondary-course",
+    "act": "GST Act 1999"
+  },
+  "serviced apartment": {
+    "term": "serviced apartment",
+    "section": "195-1",
+    "anchor": "s195-1-serviced-apartment",
+    "act": "GST Act 1999"
+  },
+  "settlement amount": {
+    "term": "settlement amount",
+    "section": "195-1",
+    "anchor": "s195-1-settlement-amount",
+    "act": "GST Act 1999"
+  },
+  "share in a company": {
+    "term": "share in a company",
+    "section": "195-1",
+    "anchor": "s195-1-share-in-a-company",
+    "act": "GST Act 1999"
+  },
+  "ship": {
+    "term": "ship",
+    "section": "195-1",
+    "anchor": "s195-1-ship",
+    "act": "GST Act 1999"
+  },
+  "simplified accounting method": {
+    "term": "simplified accounting method",
+    "section": "195-1",
+    "anchor": "s195-1-simplified-accounting-method",
+    "act": "GST Act 1999"
+  },
+  "small business entity": {
+    "term": "small business entity",
+    "section": "195-1",
+    "anchor": "s195-1-small-business-entity",
+    "act": "GST Act 1999"
+  },
+  "small enterprise entity": {
+    "term": "small enterprise entity",
+    "section": "195-1",
+    "anchor": "s195-1-small-enterprise-entity",
+    "act": "GST Act 1999"
+  },
+  "small enterprise turnover threshold": {
+    "term": "small enterprise turnover threshold",
+    "section": "195-1",
+    "anchor": "s195-1-small-enterprise-turnover-threshold",
+    "act": "GST Act 1999"
+  },
+  "special education course": {
+    "term": "special education course",
+    "section": "195-1",
+    "anchor": "s195-1-special-education-course",
+    "act": "GST Act 1999"
+  },
+  "special professional": {
+    "term": "special professional",
+    "section": "195-1",
+    "anchor": "s195-1-special-professional",
+    "act": "GST Act 1999"
+  },
+  "state law": {
+    "term": "State law",
+    "section": "195-1",
+    "anchor": "s195-1-state-law",
+    "act": "GST Act 1999"
+  },
+  "statutory compensation scheme": {
+    "term": "statutory compensation scheme",
+    "section": "195-1",
+    "anchor": "s195-1-statutory-compensation-scheme",
+    "act": "GST Act 1999"
+  },
+  "stratum unit": {
+    "term": "stratum unit",
+    "section": "195-1",
+    "anchor": "s195-1-stratum-unit",
+    "act": "GST Act 1999"
+  },
+  "student accommodation": {
+    "term": "student accommodation",
+    "section": "195-1",
+    "anchor": "s195-1-student-accommodation",
+    "act": "GST Act 1999"
+  },
+  "student assistance minister": {
+    "term": "Student Assistance Minister",
+    "section": "195-1",
+    "anchor": "s195-1-student-assistance-minister",
+    "act": "GST Act 1999"
+  },
+  "superannuation fund": {
+    "term": "superannuation fund",
+    "section": "195-1",
+    "anchor": "s195-1-superannuation-fund",
+    "act": "GST Act 1999"
+  },
+  "supplier-taxed offshore supply of low value goods": {
+    "term": "supplier-taxed offshore supply of low value goods",
+    "section": "195-1",
+    "anchor": "s195-1-supplier-taxed-offshore-supply-of-low-value-goods",
+    "act": "GST Act 1999"
+  },
+  "supply": {
+    "term": "supply",
+    "section": "195-1",
+    "anchor": "s195-1-supply",
+    "act": "GST Act 1999"
+  },
+  "supply of a going concern": {
+    "term": "supply of a going concern",
+    "section": "195-1",
+    "anchor": "s195-1-supply-of-a-going-concern",
+    "act": "GST Act 1999"
+  },
+  "supply of low value goods": {
+    "term": "supply of low value goods",
+    "section": "195-1",
+    "anchor": "s195-1-supply-of-low-value-goods",
+    "act": "GST Act 1999"
+  },
+  "taxable importation": {
+    "term": "taxable importation",
+    "section": "195-1",
+    "anchor": "s195-1-taxable-importation",
+    "act": "GST Act 1999"
+  },
+  "taxable importation of a luxury car": {
+    "term": "taxable importation of a luxury car",
+    "section": "195-1",
+    "anchor": "s195-1-taxable-importation-of-a-luxury-car",
+    "act": "GST Act 1999"
+  },
+  "taxable supply": {
+    "term": "taxable supply",
+    "section": "195-1",
+    "anchor": "s195-1-taxable-supply",
+    "act": "GST Act 1999"
+  },
+  "taxation law": {
+    "term": "taxation law",
+    "section": "195-1",
+    "anchor": "s195-1-taxation-law",
+    "act": "GST Act 1999"
+  },
+  "tax invoice": {
+    "term": "tax invoice",
+    "section": "195-1",
+    "anchor": "s195-1-tax-invoice",
+    "act": "GST Act 1999"
+  },
+  "taxi travel": {
+    "term": "taxi travel",
+    "section": "195-1",
+    "anchor": "s195-1-taxi-travel",
+    "act": "GST Act 1999"
+  },
+  "tax loss": {
+    "term": "tax loss",
+    "section": "195-1",
+    "anchor": "s195-1-tax-loss",
+    "act": "GST Act 1999"
+  },
+  "tax period": {
+    "term": "tax period",
+    "section": "195-1",
+    "anchor": "s195-1-tax-period",
+    "act": "GST Act 1999"
+  },
+  "tax period turnover threshold": {
+    "term": "tax period turnover threshold",
+    "section": "195-1",
+    "anchor": "s195-1-tax-period-turnover-threshold",
+    "act": "GST Act 1999"
+  },
+  "tax-related liability": {
+    "term": "tax-related liability",
+    "section": "195-1",
+    "anchor": "s195-1-tax-related-liability",
+    "act": "GST Act 1999"
+  },
+  "telecommunication supply": {
+    "term": "telecommunication supply",
+    "section": "195-1",
+    "anchor": "s195-1-telecommunication-supply",
+    "act": "GST Act 1999"
+  },
+  "territory law": {
+    "term": "Territory law",
+    "section": "195-1",
+    "anchor": "s195-1-territory-law",
+    "act": "GST Act 1999"
+  },
+  "tertiary course": {
+    "term": "tertiary course",
+    "section": "195-1",
+    "anchor": "s195-1-tertiary-course",
+    "act": "GST Act 1999"
+  },
+  "tertiary residential college course": {
+    "term": "tertiary residential college course",
+    "section": "195-1",
+    "anchor": "s195-1-tertiary-residential-college-course",
+    "act": "GST Act 1999"
+  },
+  "thing": {
+    "term": "thing",
+    "section": "195-1",
+    "anchor": "s195-1-thing",
+    "act": "GST Act 1999"
+  },
+  "third party adjustment note": {
+    "term": "third party adjustment note",
+    "section": "195-1",
+    "anchor": "s195-1-third-party-adjustment-note",
+    "act": "GST Act 1999"
+  },
+  "total subdivision 66-b credit amount": {
+    "term": "total Subdivision 66-B credit amount",
+    "section": "195-1",
+    "anchor": "s195-1-total-subdivision-66-b-credit-amount",
+    "act": "GST Act 1999"
+  },
+  "total subdivision 66-b gst amount": {
+    "term": "total Subdivision 66-B GST amount",
+    "section": "195-1",
+    "anchor": "s195-1-total-subdivision-66-b-gst-amount",
+    "act": "GST Act 1999"
+  },
+  "tradex order": {
+    "term": "tradex order",
+    "section": "195-1",
+    "anchor": "s195-1-tradex-order",
+    "act": "GST Act 1999"
+  },
+  "tradex scheme goods": {
+    "term": "tradex scheme goods",
+    "section": "195-1",
+    "anchor": "s195-1-tradex-scheme-goods",
+    "act": "GST Act 1999"
+  },
+  "transportation document": {
+    "term": "transportation document",
+    "section": "195-1",
+    "anchor": "s195-1-transportation-document",
+    "act": "GST Act 1999"
+  },
+  "group": {
+    "term": "group",
+    "section": "195-1",
+    "anchor": "s195-1-group",
+    "act": "GST Act 1999"
+  },
+  "turnover threshold": {
+    "term": "turnover threshold",
+    "section": "195-1",
+    "anchor": "s195-1-turnover-threshold",
+    "act": "GST Act 1999"
+  },
+  "unit trust": {
+    "term": "unit trust",
+    "section": "195-1",
+    "anchor": "s195-1-unit-trust",
+    "act": "GST Act 1999"
+  },
+  "untaxable commonwealth entity": {
+    "term": "untaxable Commonwealth entity",
+    "section": "195-1",
+    "anchor": "s195-1-untaxable-commonwealth-entity",
+    "act": "GST Act 1999"
+  },
+  "valid meal entertainment register": {
+    "term": "valid meal entertainment register",
+    "section": "195-1",
+    "anchor": "s195-1-valid-meal-entertainment-register",
+    "act": "GST Act 1999"
+  },
+  "valuable metal": {
+    "term": "valuable metal",
+    "section": "195-1",
+    "anchor": "s195-1-valuable-metal",
+    "act": "GST Act 1999"
+  },
+  "valuable metal threshold": {
+    "term": "valuable metal threshold",
+    "section": "195-1",
+    "anchor": "s195-1-valuable-metal-threshold",
+    "act": "GST Act 1999"
+  },
+  "varied instalment amount": {
+    "term": "varied instalment amount",
+    "section": "195-1",
+    "anchor": "s195-1-varied-instalment-amount",
+    "act": "GST Act 1999"
+  },
+  "voucher": {
+    "term": "voucher",
+    "section": "195-1",
+    "anchor": "s195-1-voucher",
+    "act": "GST Act 1999"
+  },
+  "wine": {
+    "term": "wine",
+    "section": "195-1",
+    "anchor": "s195-1-wine",
+    "act": "GST Act 1999"
+  },
+  "wine tax": {
+    "term": "wine tax",
+    "section": "195-1",
+    "anchor": "s195-1-wine-tax",
+    "act": "GST Act 1999"
+  },
+  "wine tax act": {
+    "term": "Wine Tax Act",
+    "section": "195-1",
+    "anchor": "s195-1-wine-tax-act",
+    "act": "GST Act 1999"
+  },
+  "schedule 1 to the taxation administration act 1953": {
+    "term": "Schedule 1 to the Taxation Administration Act 1953",
+    "section": "195-1",
+    "anchor": "s195-1-schedule-1-to-the-taxation-administration-act-1953",
+    "act": "GST Act 1999"
+  },
+  "withholding payment": {
+    "term": "withholding payment",
+    "section": "195-1",
+    "anchor": "s195-1-withholding-payment",
+    "act": "GST Act 1999"
+  }
+}

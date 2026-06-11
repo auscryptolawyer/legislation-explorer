@@ -1,0 +1,631 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+24 related documents
+Taxation Determination
+TD 2024/5
+Income tax: how the non-arm's length income and capital gains tax provisions interact to determine the amount of statutory income that is non-arm's length income
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+TD 2024/5EC
+.
+Table of Contents
+Paragraph
+What this Determination is about
+1
+Ruling
+3
+An amount of statutory income – subsection 295-550(1)
+4
+Tax payable by superannuation funds – sections 295-10 and 295-545
+10
+Application of non-arm's length income where a net capital loss arises
+15
+Example 1 – non-arm's length expenditure incurred to acquire a CGT asset at below market value – paragraph 295-550(1)(b)
+16
+Example 2 – capital losses exceed all capital gains in the income year – paragraph 295-550(1)(b)
+22
+Example 3 – capital proceeds inflated as a result of parties dealing on a non-arm's length basis for the 2022–23 income year – subsection 116-30(2C) and paragraph 295-550(1)(a)
+26
+Date of effect
+30
+Appendix 1 – Explanation
+31
+Taxation of superannuation funds and non-arm's length income
+31
+Calculating the net capital gain
+39
+Interaction between the non-arm's length income and capital gains tax provisions
+43
+The amount of statutory income being non-arm's length income
+43
+Paragraph 295-550(1)(a)
+44
+Paragraphs 295-550(1)(b) and (c)
+45
+The interaction between subsection 295-550(1) and the capital gains tax provisions
+47
+Calculating the tax payable by the superannuation fund in respect of the non-arm's length capital gain
+49
+Subsections 295-545(2) and (2A) – deductions attributable to non-arm's length income
+52
+Application of non-arm's length income where a net capital loss arises
+58
+Appendix 2 – Alternative views
+59
+Non-arm's length income applies to the whole net capital gain
+59
+Non-arm's length income is to be calculated in accordance with section 102-5
+63
+Non-arm's length income arises in future income years
+65
+The difference between arm's length and non-arm's length capital gains is a contribution
+67
+The 'amount of' statutory income under subsection 295-550(1) can refer to a capital gain amount after some of the steps in method statement under subsection 102-5(1) are applied – the proportionate or disaggregated approach
+70
+Relying on this Determination
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Determination applies to you, and you correctly rely on it, we will apply the law to you in the way set out in this Determination. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Determination.
+What this Determination is about
+1. This Determination outlines our views as to how the non-arm's length income (NALI)
+[1]
+and capital gains tax (CGT)
+[2]
+provisions interact in determining the amount of statutory income that is NALI where a capital gain arises as a result of non-arm's length dealings.
+2. All legislative references in this Determination are to the
+Income Tax Assessment Act 1997,
+unless otherwise indicated.
+Ruling
+3. The calculation of the net capital gain in the method statement in subsection 102-5(1) (including the application of capital losses, discount percentage and small business concessions
+[3]
+) is relevant in calculating:
+•
+statutory income for the purposes of subsection 295-550(1), and
+•
+tax payable by superannuation funds, approved deposit funds and pooled superannuation trusts
+[4]
+using the method statement in subsection 295-10(1).
+An amount of statutory income – subsection 295-550(1)
+4. The statutory income
+[5]
+of a superannuation fund that has made a capital gain includes the superannuation fund's net capital gain calculated under subsection 102-5(1).
+5. Subsection 295-550(1) refers to 'an amount of ordinary or statutory income' that is NALI as a result of a scheme in which the parties were not dealing with each other at arm's length in relation to the scheme.
+6. The phrase 'an amount' can, as a matter of ordinary usage, apply to an amount which is part of a larger amount. As such, what is NALI under subsection 295-550(1) is an amount of statutory income, being that part of the superannuation fund's net capital gain for the income year that satisfies the requirements of subsection 295-550(1).
+7. Specifically, a capital gain made by a superannuation fund that arises as a result of a scheme – the parties to which were not dealing with each other at arm's length – is NALI under subsection 295-550(1) where one or more of the following applies:
+•
+the amount of the capital gain is more than the amount the superannuation fund might have been expected to derive if the parties had been acting at arm's length in relation to the scheme (paragraph 295-550(1)(a))
+•
+for a self-managed superannuation fund (SMSF) or an APRA-regulated superannuation fund with no more than 6 members – in gaining or producing the capital gain, non-arm's length expenditure (NALE) is incurred (including nil expenditure) in respect of a CGT asset that is less than the amount of a loss, outgoing or expenditure that the superannuation fund might have been expected to incur if those parties were dealing with each other at arm's length in relation to the scheme (paragraphs 295-550(1)(b) or (c)).
+8. The amount of NALI is determined by reference to the amount of the non-arm's length capital gain
+[6]
+, being the capital proceeds less the cost base arising from the scheme in which the parties were not dealing at arm's length, that gives rise to the application of subsection 295-550(1). This non-arm's length capital gain is subject to the relevant CGT market value substitution rules (if any) and is reduced by any attributable deductions to calculate the non-arm's length component (NALC) under subsection 295-545(2) or (2A).
+9. However, in determining 'the amount' of statutory income that is NALI, the amount of NALI cannot exceed the superannuation fund's net capital gain as calculated under subsection 102-5(1) for the relevant income year. In circumstances where the non-arm's length capital gain made by the superannuation fund would otherwise exceed the superannuation fund's net capital gain, the amount of NALI equals the superannuation fund's net capital gain.
+Tax payable by superannuation funds – sections 295-10 and 295-545
+10. When calculating the tax payable by the superannuation fund using the method statement in subsection 295-10(1), subsection 102-5(1) is applied (including the application of capital losses, discount percentage and small business concessions as relevant) in calculating the:
+•
+assessable income of the superannuation fund under Step 2 of the method statement in subsection 295-10(1) (the net capital gain calculated under subsection 102-5(1), which comprises all arm's length and non-arm's length capital gains for the income year, is included as statutory income), and
+•
+taxable income of the superannuation fund under Step 3 of the method statement in subsection 295-10(1).
+11. Under Step 4 of the method statement in subsection 295-10(1), the NALC and low tax component (LTC) of the taxable income are calculated by reference to section 295-545.
+12. The NALC is calculated under subsections 295-545(2) or (2A) depending on the type of superannuation fund. When working out the NALC, you include any non-arm's length capital gain, being the NALI amount, reduced by any deductions attributable to that non-arm's length capital gain. The LTC is calculated under subsection 295-545(3) as any remaining part of the superannuation fund's taxable income for the income year.
+13. Capital losses (including net capital losses), discount percentage and small business concessions in Subdivisions 152-C to 152-E which are taken into account in the method statement in subsection 102-5(1) are not 'deductions' as defined in subsection 995-1(1) by reference to sections 8-1 and 8-5. Subsection 102-10(2) specifically provides that a net capital loss cannot be deducted from an entity's assessable income.
+14. In accordance with the
+Income Tax Rates Act 1986,
+the NALC is taxed at the highest marginal rate, while a concessional rate applies to the LTC.
+Application of non-arm's length income where a net capital loss arises
+15. Where a superannuation fund's net capital gain for the income year is nil due to the application of capital losses and previously unapplied net capital losses at Steps 1 and 2 of the method statement in subsection 102-5(1) respectively, the superannuation fund will have no amount of NALI referable to the non-arm's length capital gain.
+Example 1 – non-arm's length expenditure incurred to acquire a CGT asset at below market value – paragraph 295-550(1)(b)
+16.
+Anya is one of the trustees of the Forja SMSF which had the following for the 2022–23 income year:
+•
+$500,000 arm's length capital gain
+•
+$2 million non-arm's length capital gain as reported by the Forja SMSF
+However, the CGT asset had been acquired by the Forja SMSF in the 2020–21 income year for $100,000 (market value being $800,000) under a scheme where the parties to the scheme had not dealt with each other at arm's length such that paragraph 295-550(1)(b) applies. The CGT asset was sold in 2022–23 income year for $2,100,000 to a third party for an arm's length price, resulting in a capital gain of $2 million
+[7]
+being reported by the taxpayer. Noting the operation of the market value substitution rule in section 112-20, what should have been reported by the Forja SMSF is a capital gain of $1.3 million, as the cost base is $800,000, being the market value that would have been paid for the CGT asset if the parties had dealt with each other at arm's length in relation to the asset.
+•
+other assessable income of $883,333.33 – which is not a capital gain or an assessable contribution or contributions.
+[8]
+17.
+Forja SMSF had a current year capital loss of $200,000 and no previous year net capital losses. Both capital gains are discount capital gains, but the small business concessions in Subdivisions 152-C, 152-D and 152-E do not apply.
+18.
+The net capital gain reported was $1,533,333.34, calculated using the method statement under subsection 102-5(1) (the CGT market value substitution rule in section 112-20 that modifies the cost base was not applied by the trustees):
+$2,500,000† - $200,000‡ - $766,666.66§ = $1,533,333.34
+Where:
+•
+†
+is $500,000 + $2,000,000
+•
+‡
+is the capital loss
+[9]
+•
+§
+is the 33 ⅓% discount percentage for SMSFs.
+[10]
+19.
+The net capital gain that should have been reported is $1,066,666.67 (applying the relevant CGT market value substitution rule in section 112-20), calculated as follows:
+$1,800,000† - $200,000‡ - $533,333.33§ = $1,066,666.67
+Where:
+•
+†
+is $500,000 + $1,300,000
+•
+‡
+is the capital loss
+[11]
+•
+§
+is the 33 ⅓% discount percentage for SMSFs.
+[12]
+20.
+The expenditure incurred by the Forja SMSF in acquiring the asset is NALE as it is less than the expenditure the superannuation fund would have been expected to incur had it been dealing at arm's length with the entity from which it acquired the asset. There is a sufficient nexus between the expenditure incurred by the Forja SMSF in acquiring the asset and the capital gain made on the asset for paragraph 295-550(1)(b) to apply.
+[13]
+While the non-arm's length capital gain as a result of a CGT event happening to the CGT asset was $1.3 million, the amount of NALI calculated by reference to the non-arm's length capital gain cannot exceed Forja SMSF's net capital gain for the income year, being $1,066,666.67. The amount of NALI is therefore $1,066,666.67.
+21.
+As such, the tax payable by the Forja SMSF under subsection 295-10(1) is calculated as follows:
+Step 1 – is not applicable
+Step 2 – work out the entity's assessable income and deductions taking into account of the special rules in Division 295
+The assessable income is $1,066,666.67 (net capital gain) plus $883,333.33 (other income) = $1,950,000. The deductions are nil.
+Step 3 – work out the entity's taxable income
+The taxable income is $1,950,000 less nil deductions = $1,950,000
+Step 4 – calculate the non-arm's length component
+The amount of the non-arm's length component is $1,066,666.67:
+This amount is calculated as the lesser of:
+$1,066,666.67† - nil‡ = $1,066,666.67
+and
+the taxable income of $1,950,000 less assessable contributions of $0 plus deductions of $0 attributable to those contributions.
+[14]
+Where:
+•
+†
+is the NALI amount
+•
+‡
+the capital losses and discount percentage are not 'deductions' for section 295-545 purposes
+Calculate the low tax component
+The low tax component of the taxable income is $883,333.33:
+$1,950,000† - $1,066,666.67‡ = $833,333.33
+Where:
+•
+†
+is the taxable income
+•
+‡
+is the non-arm's length component
+Step 5 – Apply the applicable rates as set out in the Income Tax Rates Act 1986
+The non-arm's length component of $1,066,666.67 is taxed at the highest marginal rate (45%) and the low tax component of $883,333.33 is taxed at 15%
+Step 6 – is not applicable.
+Example 2 – capital losses exceed all capital gains in the income year – paragraph 295-550(1)(b)
+22.
+Assume the same facts as in Example 1 of this Determination, but that Forja SMSF had a current year capital loss of $6 million.
+23.
+The net capital gain calculated in subsection 102-5(1) was reported as nil:
+$2,500,000† - $2,500,000‡ - $0§ = $0
+Where:
+•
+†
+is $500,000 + $2,000,000
+•
+‡
+is the capital loss applied
+[15]
+; $3,500,000 carried forward
+•
+§
+is the 33 ⅓% discount percentage for SMSFs.
+[16]
+24.
+Although the nil amount reported is the correct outcome, the correct calculation (applying the relevant CGT market value substitution rule) should be as follows:
+$1,800,000† - $1,800,000‡ - $0§ = $0
+Where:
+•
+†
+is $500,000 plus $1,300,000
+•
+‡
+is the capital loss applied
+[17]
+; $4,200,000 carried forward
+•
+§
+is the 33 ⅓% discount percentage for SMSFs.
+[18]
+25.
+In this example, the non-arm's length capital gain exceeds Forja SMSF's net capital gain of nil. Although paragraph 295-550(1)(b) applies for the reasons set out in Example 1 of this Determination, the amount of NALI derived by the Forja SMSF is nil as the amount of NALI cannot exceed the superannuation fund's net capital gain.
+Example 3 – capital proceeds inflated as a result of parties dealing on a non-arm's length basis for the 2022–23 income year – subsection 116-30(2C) and paragraph 295-550(1)(a)
+26.
+Hakuho is one of the trustees of the Ichiban SMSF which had made the following in the 2022–23 income year:
+•
+$1 million arm's length capital gain
+•
+$5 million non-arm's length capital gain as reported by the Ichiban SMSF
+However, this capital gain arose as a result of a CGT event where Ichiban SMSF received capital proceeds of $6 million for a CGT asset with a market value of $1.5 million (noting the arm's length cost base for this CGT asset was $1 million). If the parties had dealt with each other at arm's length in respect of the scheme, the gain would have been $500,000. As such, paragraph 295-550(1)(a) applies as the relevant income under the scheme is more than what might have been expected to have been derived if the parties had been dealing with each other at arm's length in relation to the scheme
+•
+there are no assessable contribution or contributions.
+27.
+Ichiban SMSF had a current year capital loss of $100,000 and no previous net capital losses. Both capital gains are discount capital gains, but the small business concessions in Subdivisions 152-C to 152-E do not apply.
+28.
+The net capital gain as calculated under subsection 102-5(1) was $3,933,333.34. Subsection 116-30(2) generally applies to replace the capital proceeds with the market value of the CGT asset if the capital proceeds are more than the market value of the CGT asset if parties did not deal with each other at arm's length. However, subsection 116- 30(2C) provides that the market value substitution rule in subsection 116-30(2) does not apply where the capital proceeds from the CGT event exceed the market value and assuming that those capital proceeds were statutory income, the proceeds would be NALI. The net capital gain is, therefore, calculated as:
+$6,000,000† – $100,000‡ – $1,966,666.66§ = $3,933,333.34
+Where:
+•
+†
+is $1,000,000 + $5,000,000
+[19]
+•
+‡
+is the capital loss
+[20]
+•
+§
+is the 33 ⅓% discount percentage for SMSFs
+[21]
+29.
+As such, the tax payable by the Ichiban SMSF under section 295-10 is calculated as follows:
+Step 1 – is not applicable
+Step 2 – work out the entity's assessable income and deductions taking into account the special rules in Division 295
+The assessable income is $3,933,333.34. The deductions are nil.
+Step 3 – work out the entity's taxable income
+Assessable income of $3,933,333.34 less deductions of nil, equals $3,933,333.34 taxable income.
+Step 4 – calculate the non-arm's length component
+The non-arm's length component is $3,933,333.34:
+This amount is calculated as the lesser of:
+$3,933,333.34† – $0‡ = $3,933,333.34
+and
+the taxable income of $3,933,333.34 less assessable contributions of $0 plus deductions of $0 attributable to those contributions.
+[22]
+Notes:
+•
+†
+While the capital gain reported under the scheme was $5 million, the non-arm's length capital gain cannot exceed Ichiban SMSF's net capital gain
+•
+‡
+Capital loss and discount percentage are not deductions
+Calculate the low tax component
+The low tax component of the taxable income is nil:
+$3,933,333.34† – $3,933,333.34‡ = $0
+Where:
+•
+†
+is the taxable income
+•
+‡
+is the non-arm's length component
+Step 5 – apply the applicable rates as set out in the Income Tax Rates Act 1986
+The non-arm's length component of $3,933,333.34 is taxed at the highest marginal rate (45%) and the low tax component of $0 is taxed at 15%
+Step 6 – is not applicable.
+Date of effect
+30. This Determination applies to years of income commencing both before and after its date of issue.
+Commissioner of Taxation
+17 July 2024
+Appendix 1 – Explanation
+This Explanation is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Taxation of superannuation funds and non-arm's length income
+31. Subsection 295-10(1) provides the following method statement for superannuation funds to work out their tax payable:
+Step 1.
+For a superannuation fund, work out the no-TFN contributions income. Apply the applicable rates as set out in the
+Income Tax Rates Act 1986
+to that income.
+Step 2.
+Work out the entity's assessable income and deductions taking account of the special rules in this Division. The special rules modify some provisions of this Act. They also include amounts in assessable income, allow deductions and exempt amounts from income tax.
+Step 3.
+Work out the entity's taxable income as if its trustee:
+(a)
+were an Australian resident (except where paragraph (b) applies); or
+(b)
+for a non-complying superannuation fund that is a foreign superannuation fund for the income year – were not an Australian resident.
+Step 4.
+For a complying superannuation entity, work out the low tax component and non-arm's length component of the entity's taxable income.
+Step 5.
+Apply the applicable rates as set out in the
+Income Tax Rates Act 1986
+to:
+(a)
+if step 4 applies to the entity – the components worked out under that step; or
+(b)
+otherwise – the entity's taxable income.
+Step 6.
+Subtract the entity's tax offsets from the step 5 amount or, for a superannuation fund, from the sum of the fund's step 1 and step 5 amounts.
+32. Section 295-545 states that the taxable income of a complying superannuation fund is split into the NALC and the LTC.
+33. The NALC for an income year is defined in subsections 295-545(2) or (2A) and its calculation differs depending on the type of superannuation fund. If the fund is a SMSF or an APRA-regulated superannuation fund with no more than 6 members then the NALC is calculated under subsection 295-545(2A) as the lesser of:
+(a)
+the sum of
+(i)
+each amount of the fund's NALI under subsections 295-550(1), (2), (4) or (5) less any deductions to the extent that they are attributable to that income, and
+(ii)
+each amount of NALI under subsections 295-550(8) or (9) for that year
+and
+(b)
+the fund's taxable income less contributions that are included in the fund's assessable income under Subdivision 295-C for the income year plus any deductions to the extent that they are attributable to those contributions.
+For all other types of superannuation funds, the NALC is calculated under subsection 295-545(2) as the entity's NALI less any deductions attributable to that income.
+34. For all superannuation funds, the LTC is calculated under subsection 295-545(3) as any remaining part of the superannuation fund's taxable income for the income year.
+35. NALI is defined in section 295-550. Subsection 295-550(1) states that an amount of ordinary or statutory income is NALI if, as a result of a scheme the parties to which were not dealing with each other at arm's length in relation to the scheme, one or more of the following applies:
+•
+the amount of the income is more than the amount that the superannuation fund might have expected to derive if those parties had been dealing with each other at arm's length in relation to the scheme
+•
+for a SMSF or an APRA-regulated superannuation fund with no more than 6 members – in gaining or producing the income, the fund incurs a loss, outgoing or expenditure (including a nil amount) that is less than the loss, outgoing or expenditure) that the superannuation fund might have been expected to incur if those parties had been dealing with each other at arm's length in relation to the scheme.
+36. Subsection 995-1(1) provides that 'statutory income' has the meaning given by section 6-10.
+37. Subsection 6-10(1) states your assessable income includes amounts that are not ordinary income and refers to section 10-5 for a list of such statutory income.
+38. Section 10-5 specifies section 102-5 in relation to capital gains.
+Calculating the net capital gain
+39. Subsection 102-5(1) provides the following method statement to calculate an entity's net capital gain for an income year:
+Your assessable income includes your net capital gain (if any) for the income year. You work out your
+net capital gain
+in this way:
+Working out your net capital gain
+Step 1.
+Reduce the capital gains you made during the income year by the capital losses (if any) you made during the income year.
+Note 1:
+You choose the order in which you reduce your capital gains. You have a net capital loss for the income year if your capital losses exceed your capital gains: see section 102-10.
+Note 2:
+Some provisions of this Act (such as Divisions 104 and 118) permit or require you to disregard certain capital gains or losses when working out your net capital gain. Subdivision 152-B permits you, in some circumstances, to disregard a capital gain on an asset you held for at least 15 years.
+Step 2.
+Apply any previously unapplied net capital losses from earlier income years to reduce the amounts (if any) remaining after the reduction of capital gains under step 1 (including any capital gains not reduced under that step because the capital losses were less than the total of your capital gains).
+Note 1:
+Section 102-15 explains how to apply net capital losses.
+Note 2:
+You choose the order in which you reduce the amounts.
+Step 3.
+Reduce by the discount percentage each amount of a discount capital gain remaining after step 2 (if any).
+Note:
+Only some entities can have discount capital gains, and only if they have capital gains from CGT assets acquired at least a year before making the gains. See Division 115.
+Step 4.
+If any of your capital gains (whether or not they are discount capital gains) qualify for any of the small business concessions in Subdivisions 152-C, 152-D and 152-E, apply those concessions to each capital gain as provided for in those Subdivisions.
+Note 1:
+The basic conditions for getting these concessions are in Subdivision 152-A.
+Note 2:
+Subdivision 152-C does not apply to CGT events J2, J5 and J6. In addition, Subdivision 152-E does not apply to CGT events J5 and J6.
+Step 5.
+Add up the amounts of capital gains (if any) remaining after step 4. The sum is your
+net capital gain
+for the income year.
+Note:
+For exceptions and modifications to these rules: see section 102-30.
+40. Relevant to the calculation of the net capital gain in subsection 102-5(1) are the CGT market value substitution rules. Subsection 112-20(1) provides that the first element of your cost base and reduced cost base of a CGT asset you acquire from another entity is its market value (at the time of acquisition) if you did not incur expenditure to acquire it (subject to certain exceptions
+[23]
+) or you did not deal at arm's length with the other entity in connection with the acquisition.
+41. Similarly, section 116-30 provides that the capital proceeds from a CGT event are substituted with the market value of the CGT asset (worked out as at the time of the event) where no capital proceeds were received
+[24]
+or the capital proceeds are more or less than the market value of the asset and you did not deal at arm's length with the other entity in connection with the event.
+[25]
+However, subsection 116-30(2C) applies from, and including the 2021–22 income year, and provides that the market value substitution rule in subsection 116-30(2) does not apply to a superannuation fund where the capital proceeds exceed the market value of the CGT asset and, assuming the capital proceeds were statutory income, the proceeds would be NALI.
+42. The CGT market value substitution rules apply in determining the amount of NALI as outlined in Law Companion Ruling LCR 2021/2
+Non-arm's length income – expenditure incurred under a non-arm's length arrangement.
+[26]
+Interaction between the non-arm's length income and capital gains tax provisions
+The amount of statutory income being non-arm's length income
+43. An amount of statutory income for the purposes of subsection 295-550(1) can include a part of the net capital gain calculated in accordance with the method statement in subsection 102-5(1). That is, where a capital gain arises as a result of a non-arm's length dealing, the NALI is determined by reference to the amount of the non-arm's length capital gai
+n,
+being the capital proceeds less the cost base arising from the scheme in which the parties were not dealing at arm's length. This non-arm's length capital gain is subject to the relevant CGT market value substitution rules (if any) and is then reduced by any attributable deductions to calculate the NALC.
+Paragraph 295-550(1)(a)
+44. Paragraph 295-550(1)(a) applies such that ordinary or statutory income is NALI where the amount of the income derived by the superannuation fund is more under the scheme than the amount the superannuation fund might have been expected to derive if the parties had been dealing with each other at arm's length in relation to the scheme.
+Paragraphs 295-550(1)(b) and (c)
+45. Paragraphs 295-550(1)(b) and (c) apply to a SMSF or an APRA-regulated superannuation fund with no more than 6 members where, in gaining or producing ordinary or statutory income, the superannuation fund:
+•
+incurs a loss, outgoing or expenditure that is less than the amount the superannuation fund might have been expected to incur if the parties had been dealing with each other at arm's length in relation to a scheme, or
+•
+does not incur a loss, outgoing or expenditure that the superannuation fund might have been expected to incur if the parties had been dealing with each other at arm's length in relation to a scheme.
+These amounts are referred to in this Determination as NALE.
+[27]
+46. For a SMSF or an APRA-regulated superannuation fund with no more than 6 members, where there is a sufficient nexus between an amount of NALE and an amount of ordinary or statutory income of a superannuation fund, that income will be NALI under paragraphs 295-550(1)(b),(1)(c), or subsections 295-550(8) or (9) and will form part of the superannuation fund's NALC that is taxed at the highest marginal rate.
+[28]
+In circumstances where the superannuation fund incurs NALE to acquire a specific asset, there is a sufficient nexus between the NALE and any capital gain that arises from a CGT event in relation to the particular asset for paragraphs 295-550(1)(b) or (c) to apply such that the capital gain is NALI.
+The interaction between subsection 295-550(1) and the capital gains tax provisions
+47. The amount of NALI is determined by reference to the amount of the non-arm's length capital gain, being the capital proceeds less the cost base arising from the scheme in which the parties were not dealing at arm's length, that gives rise to the application of subsection 295-550(1). This non-arm's length capital gain is subject to the relevant CGT market value substitution rules (if any) and is reduced by any attributable deductions to calculate the NALC under subsections 295-545(2) and (2A).
+48. However, in determining 'the amount' of statutory income that is NALI, the amount of NALI cannot exceed the superannuation fund's net capital gain as calculated under subsection 102-5(1) for the relevant income year. In circumstances where the non-arm's length capital gain made by the superannuation fund would otherwise exceed the superannuation fund's net capital gain, the amount of NALI equals the superannuation fund's net capital gain. This is because when working out the tax payable by superannuation funds as per the method statement in subsection 295-10(1), at Step 2 you work out the assessable income of the superannuation fund which involves identifying the net capital gain in subsection 102-5(1). This ascertains the maximum amount of statutory income arising from CGT events of the superannuation fund that can be NALI.
+Calculating the tax payable by the superannuation fund in respect of the non-arm's length capital gain
+49. When calculating the tax payable by a superannuation fund under the method statement in subsection 295-10(1), Step 2 requires the superannuation fund to work out its assessable income and deductions. The assessable income of the superannuation fund consists of its ordinary income and statutory income.
+[29]
+The superannuation fund's statutory income includes its net capital gain (if any) for the income year as calculated by the method statement in subsection 102-5(1).
+50. Step 3 of the method statement in subsection 295-10(1) requires the superannuation fund to work out its taxable income. This calculation applies the amounts in Step 2 which includes the non-arm's length capital gain.
+51. Step 4 of the method statement calculates, by reference to section 295-545, the NALC and LTC of the taxable income worked out at Step 3.
+Subsections 295-545(2) or (2A) – deductions attributable to non-arm's length income
+52. Under subsections 295-545(2) or (2A), the NALI amount can be reduced by
+deductions
+attributable to the non-arm's length capital gain to calculate the NALC.
+53. The word 'deduction' is defined in subsection 995-1(1) to mean 'an amount that you can deduct' and 'deduct' is also defined in subsection 995-1(1) to have the meaning given by sections 8-1 and 8-5. Further, section 4-15 (which determines how to work out taxable income) states that what is a deduction is referred to in Division 8.
+54. Subsection 8-1(1) provides what entities can deduct and subsection 8-1(2) outlines what entities cannot deduct under section 8-1. Under paragraph 8-1(2)(a), entities cannot deduct a loss or outgoing of capital, or of a capital nature. Under paragraph 8-1(2)(d) entities cannot deduct a loss or outgoing if any provision in 'this Act' prevents you from deducting it. Subsection 8-5(1) provides that entities can also deduct an amount that a provision of the
+Income Tax Assessment Act 1997
+allows you to deduct.
+55. A list of provisions about specific types of deductions is provided in section 12-5. Section 12-5 refers to section 102-10 and subsection 102-10(2) provides that you cannot deduct from your assessable income a net capital loss as calculated under that section.
+56. Further, section 295-85 provides that section 8-1 does not apply if a CGT event happens involving a CGT asset owned by a superannuation fund.
+57. In light of the provisions referred to in paragraphs 54 and 55 of this Determination, when working out the NALC under subsections 295-545(2) or (2A) that involves a non-arm's length capital gain, the following are not 'deductions' within the meaning in subsection 995-1(1):
+•
+any capital loss
+•
+a net capital loss carried forward from a prior year
+[30]
+•
+a discount percentage, or
+•
+small business concessions in Subdivisions 152-C to 152-E.
+Application of non-arm's length income where a net capital loss arises
+58. Our view is that there will be no amount of NALI referable to the non-arm's length capital gain where:
+•
+there is a net capital loss for the income year (worked out in section 102-10)
+•
+net capital losses carried forward from an earlier income year reduce the capital gains (including any non-arm's length capital gains) in the income year to nil, or
+•
+the net capital loss (or any remaining net capital losses carried forward from an earlier income year) is carried forward to a future income year and applied only against arm's length capital gains in that future year.
+Appendix 2 – Alternative views
+This Appendix sets out alternative views and explains why they are not supported by the Commissioner. It does not form part of the binding public ruling.
+Non-arm's length income applies to the whole net capital gain
+59. It may be argued that, because subsection 295-550(1) refers to an amount of statutory income as NALI and the statutory income is the net capital gain at the conclusion of the method statement in subsection 102-5(1), it is the whole net capital gain amount that is NALI.
+60. The basis of this view is that the net capital gain for an income tax year is a singular amount of statutory income, and it cannot be disaggregated to identify specific capital gains resulting from arm's length dealings and non-arm's length dealings. The words 'an amount' refer to the relevant statutory income amount, which in respect of capital gains is the net capital gain as calculated under subsection 102-5(1).
+61. Therefore where:
+•
+paragraph 295-550(1)(a) is satisfied as the net capital gain reported under the scheme is more than the net capital gain the superannuation fund might have been expected to derive if the parties had been dealing at arm's length (taking into account the CGT market value substitution rules, except where subsection 116-30(2C) applies) in relation to the scheme, or
+•
+paragraphs 295-550(1)(b) or (c) apply as NALE has been incurred and there is a sufficient nexus between the expenditure and the amount of statutory income, being the net capital gain,
+the whole net capital gain amount calculated in subsection 102-5(1) – including both arm's length and non-arm's length capital gains and taking into account the capital losses, discount percentage and small business concessions – is NALI.
+62. We do not agree with this alternative view. While recognising the arguments for this alternative interpretation, we consider the better view is that the phrase 'an amount', as a matter of ordinary usage, applies to an amount which is part of the statutory income in subsection 295-550(1).
+Non-arm's length income is to be calculated in accordance with section 102-5
+63. It may be argued that the non-arm's length capital gain that is NALI must be calculated in accordance with the principles in section 102-5. Therefore, the amount of NALI in relation to the non-arm's length capital gain is calculated by reference to the capital proceeds, the cost base and any of the reductions in section 102-5 (including capital losses, discount percentage and small business concessions) in respect of the non-arm's length capital gain only.
+64. We consider that the basis for this alternative view is not sustainable on the wording of the CGT and NALI provisions. The calculation of the net capital gain under subsection 102-5(1) takes into account all capital gains (both arm's length and non-arm's length) as determined by the relevant CGT event, being capital proceeds less the relevant cost base. The capital gains are then subject to any of the reductions in subsection 102-5(1) and comprises the fund's net capital gain as its statutory income. However, the amount of statutory income that is NALI must also satisfy the requirements of subsection 295-550(1). Accordingly, it is only those capital gains arising from a scheme to which the parties were not dealing with each other at arm's length which are NALI.
+Non-arm's length income arises in future income years
+65. It may be argued under paragraph 295-550(1)(a) that the NALI provisions can apply to capital gains made in future years where, in a previous income year, a non-arm's length capital gain was derived but there:
+•
+were capital losses or unapplied net capital losses from earlier income years that reduced the net capital gain in that previous income year, or
+•
+was no amount of NALI referable to the non-arm's length capital gain as there was a net capital loss in that previous income year for the reasons outlined in paragraph 58 of this Determination, not already covered by the above dot point.
+66. The basis for this view is that the capital losses referred to in paragraph 65 of this Determination were applied to reduce capital gains (including non-arm's length capital gains) in the previous income year, when they should have been available to reduce capital gains in the future year. Accordingly, the net capital gain in the future year is more than the amount that the superannuation fund might have been expected to derive if the parties had been dealing at arm's length in relation to the scheme. We disagree with this alternative view as we consider it extends beyond the intended operation of paragraph 295-550(1)(a).
+The difference between arm's length and non-arm's length capital gain is a contribution
+67. It may be argued that any difference between the arm's length and non-arm's length capital gain should be treated as a contribution to the fund. Taxation Ruling TR 2010/1
+Income tax: superannuation contributions
+explains our views as to the ordinary meaning of the word 'contribution', and our position as to the interaction between the contribution and NALI provisions is outlined in LCR 2021/2.
+68. In summary, a contribution is anything of value that increases the capital of a superannuation fund provided by a person whose purpose is to benefit one or more particular members of the fund or all of the members in general.
+[31]
+Paragraphs 27 and 28 of LCR 2021/2 indicate that whether there has been a contribution is a question of fact.
+69. In situations where the terms of a contract between the complying superannuation fund and the seller of the asset make it clear that the asset is being purchased by the fund, the difference between the consideration paid (if any) by the fund and the market value of the asset purchased under the contract does not represent the value of an in-specie contribution made by the other party. Where the asset was acquired by the fund, then it is not appropriate to treat as a contribution the difference between the net capital gain arising from the scheme and the net capital gain calculated with reference to any relevant market value substitution rules. While the value of the superannuation fund increased, there was no requisite purpose to make such a contribution, and the NALI and CGT provisions operate to determine the tax payable as outlined in this Determination.
+The 'amount of' statutory income under subsection 295-550(1) can refer to a capital gain amount after some of the steps in method statement under subsection 102-5(1) are applied – the proportionate or disaggregated approach
+70. It may be argued that the 'amount of' statutory income – being the net capital gain worked out under the method statement in subsection 102-5(1) – is a proportion of the net capital gain that was attributable to non-arm's length capital gains at the penultimate step of the method statement in subsection 102-5(1) – referred to as the proportionate or disaggregated approach.
+71. It is noted that this approach requires a dissection of the net capital gain by focusing on the amount of the capital gain after some (but not all) of the steps in the method statement in subsection 102-5(1) are applied.
+72. The Commissioner considers that any such dissection of the net capital gain amount is not available on the wording of subsections 295-550(1) and 102-5(1) and when considering how those provisions interact. A net capital gain is a single amount of statutory income for the purposes of subsection 295-550(1), calculated after all the steps in the method statement subsection 102-5(1) are undertaken.
+73. As outlined in this Determination, the Commissioner considers that the phrase in subsection 295-550(1) of 'an amount' of statutory income can, as a matter of ordinary usage, apply to an amount which is part of a larger amount. The amount that is NALI is determined by reference to the amount of the non-arm's length capital gain, being the capital proceeds less the cost base arising from the scheme in which the parties were not dealing at arm's length, that gives rise to the application of subsection 295-550(1). No part of that process requires any dissection of that singular net capital gain, or the process undertaken to calculate it.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+See Subdivision 295-H.
+[2]
+See Part 3-1 and in particular, section 102-5.
+[3]
+See subsection 102-5(1)
+-
+small business concessions in Subdivisions 152-C to 152E.
+[4]
+A later reference to a superannuation fund in this Determination is equally applicable to an approved deposit fund or a pooled superannuation trust.
+[5]
+See section 6-10, as referenced by subsection 995-1(1).
+[6]
+The term 'non-arm's length capital gain' is used in this Determination to describe those capital gains where the requirements in subsection 295-550(1) are satisfied.
+[7]
+For simplicity, the cost base of $100,000 consists only of the first element of the cost base under subsection 110-25(2) and there are no other amounts under any of the other cost base elements.
+[8]
+For simplicity, there are no deductions attributable to the income.
+[9]
+See Step 1 of the method statement in subsection 102-5(1).
+[10]
+See paragraph 115-100(b).
+[11]
+See Step 1 of the method statement in subsection 102-5(1).
+[12]
+See paragraph 115-100(b).
+[13]
+Depending on the circumstances, consideration could also be given to the potential application of paragraph 295-550(1)(a).
+[14]
+See subsection 295-545(2A).
+[15]
+See Step 1 of the method statement in subsection 102-5(1).
+[16]
+See paragraph 115-100(b).
+[17]
+See Step 1 of the method statement in subsection 102-5(1).
+[18]
+See paragraph 115-100(b).
+[19]
+CGT market value substitution rule does not apply - see subsection 116-30(2C). Note that for income years prior to the 2021-22 income year, the CGT market value substitution rule in subsection 116-30(2) would apply where its requirements are met.
+[20]
+See Step 1 of the method statement in subsection 102-5(1).
+[21]
+See paragraph 115-100(b).
+[22]
+See subsection 295-545(2A).
+[23]
+See subsection 112-20(3).
+[24]
+See subsection 116-30(1).
+[25]
+See subsection 116-30(2).
+[26]
+See paragraphs 81 to 87 of LCR 2021/2.
+[27]
+This terminology replicates that used in paragraph 7 of this Determination.
+[28]
+See LCR 2021/2.
+[29]
+See subsection 6-1(1).
+[30]
+Section 102-10.
+[31]
+Paragraph 4 of TR 2010/1.
+Previously released in draft form as TD 2023/D1
+References
+ATO references:
+NO  1-JPW3O3S
+ISSN: 2205-6211
+Related Rulings/Determinations:
+LCR 2021/2
+TR 2010/1
+Business Line:
+SEO
+Legislative References:
+ITAA 1997 4-15
+ITAA 1997 6-1(1)
+ITAA 1997 6-10
+ITAA 1997 6-10(1)
+ITAA 1997 Div 8
+ITAA 1997 8-1
+ITAA 1997 8-1(1)
+ITAA 1997 8-1(2)
+ITAA 1997 8-1(2)(a)
+ITAA 1997 8-1(2)(d)
+ITAA 1997 8-5
+ITAA 1997 8-5(1)
+ITAA 1997 10-5
+ITAA 1997 12-5
+ITAA 1997 Part 3-1
+ITAA 1997 102-5
+ITAA 1997 102-5(1)
+ITAA 1997 102-10
+ITAA 1997 102-10(2)
+ITAA 1997 102-15
+ITAA 1997 102-30
+ITAA 1997 Div 104
+ITAA 1997 110-25(2)
+ITAA 1997 112-20
+ITAA 1997 112-20(1)
+ITAA 1997 112-20(3)
+ITAA 1997 Div 115
+ITAA 1997 115-100(b)
+ITAA 1997 116-30
+ITAA 1997 116-30(1)
+ITAA 1997 116-30(2)
+ITAA 1997 116-30(2C)
+ITAA 1997 Div 118
+ITAA 1997 Subdiv 152-B
+ITAA 1997 Subdiv 152-C
+ITAA 1997 Subdiv 152-D
+ITAA 1997 Subdiv 152-E
+ITAA 1997 Subdiv 295-C
+ITAA 1997 Subdiv 295-H
+ITAA 1997 295-10
+ITAA 1997 295-10(1)
+ITAA 1997 295-85
+ITAA 1997 295-545
+ITAA 1997 295-545(2)
+ITAA 1997 295-545(2A)
+ITAA 1997 295-545(3)
+ITAA 1997 295-550
+ITAA 1997 295-550(1)
+ITAA 1997 295-550(1)(a)
+ITAA 1997 295-550(1)(b)
+ITAA 1997 295-550(1)(c)
+ITAA 1997 295-550(2)
+ITAA 1997 295-550(4)
+ITAA 1997 295-550(5)
+ITAA 1997 295-550(8)
+ITAA 1997 295-550(9)
+ITAA 1997 995-1(1)
+ITRA 1986
+Back to top

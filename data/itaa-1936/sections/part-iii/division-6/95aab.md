@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 95AAB Adjustments under Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997—references in this Act to assessable income under section 97, 98A or 100
 
-
 <a id="s95AAB-1"></a>
 **(1)** Subsection (2) applies if an amount is included in the assessable income of a beneficiary of a trust estate because of Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997.
 

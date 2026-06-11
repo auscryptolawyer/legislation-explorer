@@ -15,7 +15,6 @@ source_pdf: "vol03.pdf"
 
 # 159GZZZI Additional application of sections 159GZZZG and 159GZZZH to associates
 
-
 <a id="s159GZZZI-1"></a>
 **(1)** Subject to this section, where a natural person is an associate of a holding company (otherwise than solely because of being the trustee of a trust estate), sections 159GZZZG and 159GZZZH apply (in addition to any application apart from this application of this section) as if references in those sections to:
 

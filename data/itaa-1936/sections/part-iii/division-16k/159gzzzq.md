@@ -15,7 +15,6 @@ source_pdf: "vol03.pdf"
 
 # 159GZZZQ Consideration in respect of off-market purchase
 
-
 <a id="s159GZZZQ-1"></a>
 **(1)** Subject to this section, if a buy-back of a share is an off-market purchase, then:
 

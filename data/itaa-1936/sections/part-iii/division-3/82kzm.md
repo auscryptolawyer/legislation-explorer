@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 82KZM Expenditure by small and medium business entities and individuals incurring non-business expenditure
 
-
 <a id="s82KZM-1"></a>
 **(1)** Where:
 

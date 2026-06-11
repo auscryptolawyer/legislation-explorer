@@ -15,7 +15,6 @@ source_pdf: "vol03.pdf"
 
 # 159GZZZP Part of off-market purchase price is a dividend if the company is not a listed public company
 
-
 <a id="s159GZZZP-1"></a>
 **(1)** For the purposes of this Act, but subject to subsection (1A), where a buy-back of a share or non-share equity interest by a company is an off-market purchase, the difference between:
 

@@ -1,0 +1,433 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2017/3
+Superannuation reform:  Superannuation death benefits and the transfer balance cap
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Superannuation death benefits
+4
+Reversionary and non-reversionary death benefit income streams
+10
+Example 1:  Reversionary death benefit income stream commencing before 1 July 2017
+19
+Example 2:  Non-reversionary death benefit income stream commencing before 1 July 2017
+22
+Transfer balance credit that arises for a reversionary death benefit income stream
+27
+Example 3:  Reversionary death benefit income stream commencing before 1 July 2017
+32
+Example 4:  Reversionary death benefit income stream commencing after 1 July 2017
+37
+Transfer balance credit that arises for non-reversionary death benefit income stream
+42
+Example 5:  Non-reversionary death benefit income stream commencing before 1 July 2017
+46
+Example 6:  Non-reversionary death benefit income stream commencing after 1 July 2017
+51
+Regulatory requirements of paying a death benefit income stream
+56
+Excess transfer balance
+67
+Example 7:  Excess transfer balance - reversionary death benefit income stream
+70
+Superannuation death benefits as superannuation roll-over benefits
+75
+Relying on this Ruling
+This publication (with the exception of statements referencing the Superannuation Acts and Regulations listed below) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+This Ruling describes how the Commissioner will apply the law in the
+Treasury Laws Amendment (Fair and Sustainable Superannuation) Act 2016
+(the Act) to entities that rely on this Ruling in good faith.
+To the extent that it is a public ruling, if you rely on this Ruling in good faith, you will not have to pay any underpaid tax, penalties or interest in respect of matters covered by the Ruling if it does not correctly state how a relevant provision applies to you.
+Statements applying the Superannuation Acts and Regulations specified represent the Commissioner's view about the way they apply in respect of self-managed superannuation funds. These statements are not legally binding on the Commissioner however, if you act in accordance with the view expressed in good faith, the Commissioner will endeavour to stand by these statements in applying the law.
+Superannuation Acts and Regulations
+Superannuation Industry (Supervision) Act 1993
+(SISA)
+Superannuation Industry (Supervision) Regulations 1994
+(SISR)
+Retirement Savings Accounts Regulations 1997
+(RSAR)
+Retirement Savings Accounts Act 1997
+(RSAA)
+What this Ruling is about
+1. This Ruling provides guidance on the tax and regulatory treatment of superannuation death benefits and the treatment of death benefit income streams under the transfer balance cap provisions.
+[1]
+2. This Ruling does not address the modifications that apply for child recipients of death benefit income streams. These are addressed in paragraphs 3.266 to 3.294 of the Explanatory Memorandum to the
+Treasury Laws Amendment (Fair and Sustainable Superannuation) Bill 2016.
+3. All legislative references are to the
+Income Tax Assessment Act 1997
+(ITAA 1997) unless otherwise stated.
+Superannuation death benefits
+4. If you have a superannuation interest when you die, your death creates a compulsory cashing requirement for the superannuation provider. This requires the superannuation provider to cash your superannuation interests to your beneficiaries or to your legal personal representative as soon as practicable.
+[2]
+The payment of your superannuation interests after your death is called a superannuation death benefit.
+[3]
+5. For dependant beneficiaries, superannuation death benefits can be cashed:
+•
+as a superannuation lump sum that is paid out of the superannuation system
+[4]
+•
+as death benefit income streams that are retained in the superannuation system
+[5]
+(from 1 July 2017 such superannuation income streams must also be in the retirement phase), or
+•
+a combination of the two.
+6. For other beneficiaries or your legal personal representative, superannuation death benefits can only be cashed as a superannuation lump sum that is paid out of the superannuation system.
+7. For the purposes of determining who can be paid a death benefit income stream, a dependant beneficiary is a dependant
+[6]
+of the deceased member, which includes:
+•
+a spouse
+•
+a child under 18 years of age
+•
+a financially dependent child who is under 25
+•
+a child who is disabled irrespective of their age,
+[7]
+and
+•
+a person who was in an interdependency relationship
+[8]
+with the deceased.
+8. Where no superannuation income stream is cashed and a superannuation death benefit is paid out of the superannuation system as a superannuation lump sum, a transfer balance credit does not arise in the recipient's transfer balance account.
+9. However, where the deceased member's interest is retained within the superannuation system and cashed to a dependant beneficiary in the form of a death benefit income stream, a credit arises in the dependant beneficiary's transfer balance account.
+[9]
+Reversionary and non-reversionary death benefit income streams
+10. A death benefit income stream can either be reversionary or non-reversionary.
+11. The general rule is a superannuation income stream ceases when the recipient (member) dies. This is because there is no longer a member who is entitled to the superannuation income stream benefit payments.
+[10]
+As such, the superannuation provider's liability to make periodic superannuation income stream benefit payments (for example, the superannuation income stream) comes to an end.
+12. A reversionary death benefit income stream is the exception to this general rule. A reversionary death benefit income stream is a superannuation income stream that reverts to the reversionary beneficiary automatically upon the member's death. That is, the superannuation income stream continues with the entitlement to it passing from one person (the member) to another (the dependant beneficiary).
+13. The superannuation income stream reverts in this manner because the governing rules or the agreement/standards under which the superannuation income stream is provided expressly provides for reversion, as opposed to the superannuation provider exercising a power or discretion to determine a benefit in the beneficiary's favour.
+[11]
+That is, the preconditions necessary for a superannuation income stream to revert must exist within the rules governing the superannuation income stream prior to the member's death. If this is not the case then the superannuation income stream ceases on the member's death.
+14. Administrative steps, such as confirming that the reversionary beneficiary is a dependant beneficiary, obtaining bank account details or other account information about the dependant beneficiary, do not preclude a superannuation income stream from being reversionary.
+15. A binding death benefit nomination, by itself, does not make a superannuation income stream reversionary. If the governing rules or the agreement/standards under which the superannuation income stream is provided does not expressly provide for reversion then a binding death benefit nomination cannot alter this. The binding death benefit nomination may have the effect of directing the superannuation provider as to whom the death benefit is to be paid and the form, but it cannot turn a non-reversionary superannuation income stream into a reversionary superannuation income stream.
+16. A non-reversionary death benefit income stream is a new superannuation income stream created and paid to the dependant beneficiary or beneficiaries.
+17. Death benefit income streams are non-reversionary if the superannuation provider has the power or discretion to determine:
+•
+to whom the death benefit is paid
+•
+the form in which the death benefit will be paid (for example as a superannuation lump sum or a superannuation income stream), or
+•
+the amount of the death benefit paid.
+18. However, a death benefit income stream is not precluded from being reversionary if the rules under which the superannuation income stream is provided set the value of a reversionary death benefit income stream. That is, the rules of the fund or the superannuation income stream may allow for a superannuation income stream to revert to a dependant beneficiary but, for example, limit the value to a set percentage (for example 75%) of the amount that was payable to the deceased member.
+Example 1:  Reversionary death benefit income stream commencing before 1 July 2017
+19.
+Audrey commenced a superannuation income stream on 29 July 2005. The governing rules of Audrey's superannuation fund provide that upon Audrey's death 75% of her superannuation income stream reverts to a dependant beneficiary.
+20.
+Audrey's only dependant beneficiary is her husband Clark, which she notified her superannuation fund of when she commenced the superannuation income stream.
+21.
+On 10 May 2015, on Audrey's death, entitlement to 75% of the superannuation income stream automatically passes to Clark in accordance with the governing rules of Audrey's fund. Clark is the reversionary beneficiary of Audrey's superannuation income stream.
+Example 2:  Non-reversionary death benefit income stream commencing before 1 July 2017
+22.
+Mateus commenced a pension on 21 January 2008. The rules governing the provision of Mateus' pension do not provide that it may revert to another upon his death.
+23.
+Mateus lodges a binding death benefit nomination with his superannuation provider on 1 July 2009 directing that all of his remaining superannuation interests are to be paid to his wife, Evelyn, as a death benefit income stream upon his death.
+24.
+On 15 September 2010, Mateus' dies and the pension ceases. This is because the rules of Mateus' pension do not provide that it reverts.
+25.
+The superannuation interest supporting the pension on 15 September 2010 was $500,000. Mateus had no other superannuation interests. On 10 October 2010 the superannuation provider, pursuant to Mateus' binding death benefit nomination, pays the $500,000 to Evelyn as a death benefit income stream.
+26.
+As Mateus' pension ceased on his death, Evelyn is not a reversionary beneficiary and the pension being paid to her is a new death benefit income stream.
+Transfer balance credit that arises for a reversionary death benefit income stream
+27. If you are the recipient of a reversionary death benefit income stream, you are a reversionary beneficiary and a transfer balance credit arises in your transfer balance account.
+[12]
+The time at which the credit arises is:
+(a)
+for death benefit income streams commencing before 1 July 2017
+•
+the later of 1 July 2017 or 12 months from the day the death benefit income stream first became payable, and
+(b)
+for death benefit income streams commencing on or after 1 July 2017
+•
+12 months from the day (the starting day) when you started to be the retirement phase recipient of the death benefit income stream.
+28. As a reversionary beneficiary automatically becomes entitled to the death benefit income stream on the death of the original superannuation member, the day the death benefit income stream first becomes payable to the reversionary beneficiary (the starting day) is the date of the death of the original superannuation member.
+29. The reason for the 12 month delay for the transfer balance credit to arise is to give the reversionary beneficiary sufficient time to adjust their superannuation affairs before consequences, such as a breach of their transfer balance cap, takes effect.
+30. While the credit that arises for a dependant beneficiary in receipt of a reversionary capped defined benefit income stream is delayed for 12 months, the income tax consequence of receiving defined benefit income
+[13]
+is not delayed. That is, if the defined benefit income you receive from the reversionary death benefit income stream, either on its own or in combination with other defined benefit income received, exceeds your defined benefit income cap during the first 12 months, then you may have to pay more income tax on that income.
+[14]
+31. The transfer balance credit that arises in the reversionary beneficiary's transfer balance account is equal to the value
+[15]
+of the superannuation interest that supports the death benefit income stream:
+(a)
+for death benefit income streams commencing before 1 July 2017
+•
+the value just before 1 July 2017, and
+(b)
+for death benefit income streams commencing on or after 1 July 2017
+•
+the value on the 'starting day'.
+Example 3:  Reversionary death benefit income stream commencing before 1 July 2017
+32.
+Larissa commenced a pension on 1 October 2000. The rules of the pension allow for it to revert to a dependant beneficiary. Larissa dies on 1 January 2017. Brad is Larissa's spouse and is the reversionary beneficiary of this pension.
+33.
+As Brad is a reversionary beneficiary, Larissa's pension automatically becomes payable to Brad on the date of Larissa's death (1 January 2017).
+34.
+The value of the superannuation interest that supports the reversionary pension just before 1 July 2017 is $1,000,000.
+35.
+A transfer balance credit arises in Brad's transfer balance account 12 months from the day that the reversionary pension first became payable to Brad (1 January 2018).
+36.
+The transfer balance credit that arises is equal to the value of the superannuation interest that supports the reversionary pension just before 1 July 2017 ($1,000,000) and not the value of the superannuation interest when the transfer balance credit arises (1 January 2018).
+Example 4:  Reversionary death benefit income stream commencing after 1 July 2017
+37.
+Theodor commenced a superannuation income stream on 1 October 2017. The rules of the superannuation income stream allow for it to revert to a dependant beneficiary. Theodor dies on 1 January 2018. Valerie is Theodor's spouse and is the reversionary beneficiary of this superannuation income stream.
+38.
+As Valerie is a reversionary beneficiary, the 'starting day' of the reversionary death benefit income stream is the date of Theodor's death (1 January 2018).
+39.
+The value of the superannuation interest that supports the reversionary death benefit income stream on 1 January 2018 is $1,000,000.
+40.
+A transfer balance credit arises 12 months from this date (1 January 2019) in Valerie's transfer balance account.
+41.
+The transfer balance credit is equal to the value of the superannuation interest that supports the reversionary death benefit income stream on the 'starting day' ($1,000,000) and not the value of the superannuation interest when the transfer balance credit arises (1 January 2019).
+Transfer balance credit that arises for non-reversionary death benefit income stream
+42. If you are the recipient of a non-reversionary death benefit income stream, a transfer balance credit arises in your transfer balance account on the later of 1 July 2017, or when you start to be the recipient of the death benefit income stream (that is, when you become entitled to be paid the death benefit income stream).
+43. The transfer balance credit is the value of the superannuation interest that supports the death benefit income stream:
+(a)
+for death benefit income streams commencing before 1 July 2017
+•
+the value just before 1 July 2017, and
+(b)
+for death benefit income streams commencing on or after 1 July 2017
+•
+the value when the dependant beneficiary becomes entitled to be paid the death benefit income stream.
+44. This value may include any investment earnings that accrued to the deceased member's interest between the date of death and the date the dependant beneficiary becomes entitled to be paid the death benefit income stream. It may also include other amounts, for example from the deceased member's accumulation interest or an amount paid under a life insurance policy held by the superannuation provider in respect of the member, if the superannuation provider has made a decision to pay these amounts out as a death benefit income stream. See examples 5 and 6.
+45. The addition of other amounts to the superannuation interest that previously supported the member's superannuation income stream may have different income tax consequences.
+[16]
+Example 5:  Non-reversionary death benefit income stream commencing before 1 July 2017
+46.
+Terence commenced a superannuation income stream worth $1,400,000 on 1 October 2000. The rules of the superannuation income stream do not provide that it may revert to another person on Terence's death. Terence dies on 1 January 2017.
+47.
+At the time of Terence's death, the value of the superannuation interest supporting the superannuation income stream is $1,000,000. He also has $350,000 in an accumulation interest. The total of Terence's remaining superannuation interests at the time of his death on 1 January 2017 is $1,350,000.
+48.
+Aurelia is Terence's spouse and the only beneficiary. On 15 January 2017 she becomes entitled to all of Terence's remaining superannuation interest ($1,350,000), to be paid as a death benefit income stream.
+49.
+During the period between when Aurelia first becomes entitled to the death benefit income stream (15 January 2017) and when Aurelia first commences to have a transfer balance account (1 July 2017), the superannuation interest that supports the death benefit income stream declines in value. The value of the superannuation interest that supports the death benefit income stream just before 1 July 2017 is $1,300,000.
+50.
+On 1 July 2017, Aurelia commences to have a transfer balance account and a transfer balance credit arises on 1 July 2017 in respect of the death benefit income stream equal to the value of the superannuation interest that supports the death benefit income stream just before 1 July 2017 ($1,300,000).
+Example 6:  Non-reversionary death benefit income stream commencing after 1 July 2017
+51.
+Nathaniel commenced a pension worth $1,400,000 on 1 October 2017. The rules of the pension do not provide that it may revert to another person on Nathaniel's death. Nathaniel dies on 1 January 2018.
+52.
+At the time of Nathaniel's death, the value of the superannuation interest supporting the pension is $1,300,000. Nathaniel had no other superannuation interests.
+53.
+Malena is Nathaniel's spouse and the only beneficiary. On 15 June 2018 she becomes entitled to all of Nathaniel's remaining superannuation interest, to be paid as a death benefit income stream.
+54.
+During the period between Nathaniel's death (1 January 2018) and when Malena becomes entitled to be paid the death benefit income stream (15 June 2018), $1,000 of investment earnings accrued to the superannuation interest bringing its value to $1,301,000. The value of the superannuation interest supporting the death benefit income stream on 15 June 2018 is $1,301,000.
+55.
+A transfer balance credit arises in Malena's transfer balance account on 15 June 2018 in respect of the death benefit income stream equal to the value of the superannuation interest that supports the death benefit income stream on 15 June 2018 ($1,301,000).
+Regulatory requirements of paying a death benefit income stream
+56. The payment of superannuation death benefits by superannuation providers is governed by the regulatory provisions.
+[17]
+57. A core principle of the regulatory provisions is that the death of the member is a compulsory cashing requirement, meaning that the deceased member's remaining superannuation interests must be paid out by the superannuation provider as soon as practicable.
+[18]
+58. The term 'cashed' or 'cashing' as used within the regulatory payment standards
+[19]
+means that the member's superannuation interests are paid out of the superannuation system. That is, they are not rolled over, transferred or left within accumulation phase.
+59. The compulsory cashing requirement that arises on a member's death specify the form in which the deceased member's superannuation interest may be cashed, being:
+[20]
+•
+a single superannuation lump sum
+•
+an interim superannuation lump sum and a final superannuation lump sum
+[21]
+, and
+•
+one or more superannuation income streams that are in the retirement phase (only to dependant beneficiaries subject to certain restrictions see paragraph 7 of this Ruling).
+60. Where the superannuation provider cashes a deceased member's superannuation interest to a beneficiary, dependant beneficiary or legal personal representative as a superannuation lump sum, then the compulsory cashing requirement is met when the superannuation lump sum is paid out of the superannuation system.
+61. Where the superannuation provider cashes a deceased member's superannuation interest to a beneficiary as a superannuation income stream (death benefit income stream) then the compulsory cashing requirement is met as long as the superannuation income stream continues to be paid and continues to be in the retirement phase.
+62. A superannuation provider will not have fully met their obligations under the compulsory cashing requirements until all of the deceased member's superannuation interest has been paid out of the superannuation system.
+63. Broadly, in the case of a death benefit income stream this will be when the superannuation interest supporting the death benefit income stream is exhausted or the dependant beneficiary commutes the death benefit income stream in full and the resulting superannuation lump sum is paid out of the superannuation system to the dependant beneficiary.
+64. In this context a superannuation provider will contravene the compulsory cashing requirement if it:
+(a)
+allows the deceased member's superannuation interest to remain in the accumulation phase after a time when it became practicable to cash the deceased member's superannuation interest, or
+(b)
+pays the deceased member's superannuation interest to a dependant beneficiary as a superannuation income stream that is not in the retirement phase.
+65. The regulatory provisions allow superannuation providers one limited exception to cashing the deceased member's superannuation interest. This is where the deceased member's superannuation is rolled over as soon as practicable for immediate cashing.
+[22]
+66. This means that the superannuation provider that has received the rolled over death benefit must immediately cash the deceased member's superannuation interest. The superannuation provider is subject to the same compulsory cashing requirement as the original superannuation provider. That is, the deceased member's superannuation interest must be cashed as soon as practicable in the form stated in paragraph 59 above.
+Excess transfer balance
+67. The transfer balance credit that arises in your transfer balance account as a result of receiving a death benefit income stream may cause you to exceed your transfer balance cap.
+[23]
+68. To reduce your excess transfer balance so that you no longer exceed your transfer balance cap you can choose to either commute fully or partially the death benefit income stream or, if you have one, a superannuation income stream you already have in the retirement phase. If you choose to commute your own superannuation income stream, the commuted amount can, if you choose, remain within the superannuation system as an accumulation phase interest.
+69. If however, you choose to commute the death benefit income stream, the commuted amount cannot be retained as an accumulation phase interest and the commuted amount must be paid out of the superannuation system to you as a death benefit superannuation lump sum. This is because the superannuation regulatory provisions, as discussed at paragraph 56 to 66 of this Ruling, require that death benefits are cashed out of the superannuation system as soon as practicable.
+Example 7:  Excess transfer balance - reversionary death benefit income stream
+70.
+Heather is in receipt of a pension of which the supporting superannuation interest is worth $1,000,000 at the time of her death on 1 August 2017. This pension reverts to Heather's spouse, John, who is already in receipt of his own pension and who had a transfer balance of $800,000 prior to Heather's death.
+71.
+On 1 September 2017, John is advised that he became the recipient of Heather's reversionary pension at the time of her death. As a reversionary beneficiary, a transfer balance credit of $1,000,000 will arise in his transfer balance account in respect of the reversionary death benefit income stream on 1 August 2018 (12 months from Heather's date of death). If John does nothing, his transfer balance on 1 August 2018 will be $1,800,000 and will exceed his transfer balance cap ($1,600,000).
+72.
+To prevent an excess transfer balance, John can (subject to the terms and conditions governing the pensions):
+(a)
+partially commute the reversionary pension by $200,000 (the amount that will exceed his transfer balance cap) and take this as a death benefit lump sum out of the superannuation system, or
+(b)
+partially commute his own pension by $200,000. In respect of this $200,000, John has the choice of either;
+•
+taking this as a superannuation lump sum out of the superannuation system, or
+•
+transferring the amount to an accumulation phase interest and leaving it in the superannuation system.
+73.
+On 1 July 2018, John partially commutes his own pension by $200,000 and chooses to transfer that amount to an accumulation phase interest. On that date, a debit arises in his transfer balance account for that amount bringing his transfer balance down to $600,000.
+74.
+The $1,000,000 credit in respect of the reversionary pension arises in John's transfer balance account on 1 August 2018 bringing his transfer balance to $1,600,000. Consequently, John has not exceeded his transfer balance cap. The value of the credit that arises in John's transfer balance account will be the value of the superannuation interest supporting the reversionary pension when he started to be the recipient of the reversionary pension on Heather's death ($1,000,000) regardless of the value of the superannuation interest supporting the reversionary pension on 1 August 2018.
+Superannuation death benefits as superannuation roll-over benefits
+75. From 1 July 2017, the definition of a roll-over superannuation benefit is amended to allow a superannuation lump sum death benefit for dependant beneficiaries to be rolled over.
+[24]
+As discussed at paragraph 65 to 66 of this Ruling, death benefits that are rolled over must be immediately cashed by the receiving superannuation provider.
+76. This amendment provides more flexibility for dependant beneficiaries receiving death benefits, allowing them to roll them over to their choice of superannuation provider.
+[25]
+A death benefit that is rolled over is considered non-assessable non-exempt income of the dependant beneficiary.
+[26]
+77. Benefits that are specified in the regulations
+[27]
+are specifically excluded from being a roll-over superannuation benefit. Only superannuation death benefits paid to dependant beneficiaries of the deceased member qualify as a roll-over superannuation benefit.
+[28]
+78. The proportioning rule continues to apply to the roll-over death benefit. That is, the death benefit comprises the same tax-free and taxable components it had prior to the rollover.
+79. Qualifying as a roll-over superannuation benefit under the income tax provisions does not enable the amount to remain in an accumulation phase interest or be mixed with the dependant beneficiary's own superannuation interest. This is because, as discussed in detail at paragraphs 56 to 66 of this Ruling, the deceased member's superannuation interest continues to be subject to the compulsory cashing condition in the regulatory provisions. As such it must be cashed from the system, either as a death benefit lump sum or, where allowed, a death benefit income stream as soon as practicable.
+Commissioner of Taxation
+8 May 2017
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+General guidance on the transfer balance cap is provided in LCR 2016/9
+Superannuation Reform:  transfer balance cap
+.
+[2]
+See regulation 6.21 of the
+Superannuation Industry (Supervision) Regulations 1994
+(SISR) and regulation 4.24 of the
+Retirement Savings Accounts Regulations 1997
+(RSAR).
+[3]
+Subsections 307-5(1) and (4).
+[4]
+Paragraph 6.21(2)(a) of the SISR and paragraph 4.24(3)(a) of the RSAR.
+[5]
+Paragraph 6.21(2)(b) of the SISR and paragraph 4.24(3)(b) of the RSAR.
+[6]
+See section 10 of the
+Superannuation Industry (Supervision) Act 1993
+(SISA) and subregulation 6.21(2A) of the SISR.
+[7]
+Reference to 'disabled' means a disability of a kind described in subsection 8(1) of the
+Disability Services Act 1986
+.
+[8]
+Section 10A of the SISA and section 20A of the
+Retirement Savings Accounts Act 1997
+(RSAA) give the meaning of interdependency relationship.
+[9]
+Items 1 or 2 of the table in subsection 294-25(1).
+[10]
+See paragraph 14 of Taxation Ruling TR 2013/5 Income tax:  when a superannuation income stream commences and ceases.
+[11]
+See paragraph 126 to 127 of
+Taxation Ruling TR 2013/5 Income tax:  when a superannuation income stream commences and ceases
+.
+[12]
+Item 1 or 2 in the table in subsection 294-25(1).
+[13]
+Subsection 303-2(2).
+[14]
+See paragraphs 17 to 65 including example 6 of LCR 2016/10
+Superannuation reform:  defined benefit income streams - non commutable, lifetime pensions and lifetime annuities
+and paragraphs 15 to 64 including example 6 of LCR 2017/1
+Superannuation reform:  capped defined benefit income streams - pensions or annuities paid from non-commutable, life expectancy or market-linked products
+for further information on consequences of exceeding the defined benefit income cap.
+[15]
+The value of capped defined benefit income streams is the 'special value' of the superannuation interest. For further information on 'special value' see paragraphs 10 to 16 of LCR 2016/10
+Superannuation reform:  capped defined benefit income streams - non commutable, lifetime pensions and lifetime annuities and paragraph 10 to 14 of LCR 2017/1 Superannuation reform:  capped defined benefit income streams - pensions or annuities paid from non-commutable, life expectancy or market-linked products
+.
+[16]
+See subregulations 995-1.01(3) and (4) of the
+Income Tax Assessment Regulations 1997
+which extend the earnings tax exemption in Subdivision 295-F where an interest that supported a superannuation income stream is paid as a superannuation death benefit, but only where the interest that supported the superannuation income stream is not added to, other than by way of investment earnings (not including insurance proceeds). Further, regulation 307-125.02 of the Income Tax Assessment Regulations 1997 also provides an alternative basis for applying the proportioning rule. In circumstances where additional amounts, like insurance proceeds, are added to the interest from which the death benefit income stream will be commenced, this regulation ensures that those additional amounts are excluded from the concessional proportioning treatment.
+[17]
+The SISA, SISR, RSAA and RSAR.
+[18]
+Regulation 6.21 of the SISR and regulation 4.24 of the RSAR.
+[19]
+Part 6 of the SISR and Part 4 of the RSAR.
+[20]
+Subregulation 6.21(2) and (2A) of the SISR and subregulation 4.24(3) and (3A) of the RSAR.
+[21]
+An interim and final superannuation lump sum is only provided under subregulation 6.21(2)(a) of the SISR.
+[22]
+Subregulation 6.21(3) of the SISR and subregulation 4.24(4) of the RSAR.
+[23]
+For account-based pensions refer to paragraphs 70 to 107 of LCR 2016/9
+Superannuation reform:  transfer balance cap for more information on exceeding your transfer balance cap. For defined benefit income streams refer to paragraphs 17 to 65 including example 6 of LCR 2016/10 Superannuation reform:  defined benefit income streams - non commutable, lifetime pensions and lifetime annuities and paragraphs 17 to 64 including example 6 of LCR 2017/1 Superannuation reform:  capped defined benefit income streams - pensions or annuities paid from non-commutable, life expectancy or market-linked products
+for further information on consequences of exceeding the defined benefit income cap.
+[24]
+Paragraph 306-10(a).
+[25]
+Subsections 307-5(3), (3A) and (3B) of the ITAA 1997 which altered the tax status of a superannuation death benefit to a superannuation member benefit in certain circumstances was repealed with application from 1 July 2017. The exposure draft of Treasury Laws Amendment (2017 Measures No.2) Bill 2017 proposes that the repeal of those subsections applies on the day after that Bill is introduced into the House of Representatives.
+[26]
+Section 306-5.
+[27]
+Regulation 306-10.01 of the
+Income Tax Assessment Regulations 1997
+.
+[28]
+Paragraph 306-10.01(a) of the
+Income Tax Assessment Regulations 1997
+.
+References
+Business Line:
+SEO
+Related Rulings/Determinations:
+TR 2013/5
+LCR 2016/9
+LCR 2016/10
+LCR 2017/1
+Legislative References:
+ITAA 1997
+ITAA 1997 294-25(1)
+ITAA 1997 294-200
+ITAA 1997 Subdiv 295-F
+ITAA 1997 303-2(2)
+ITAA 1997 306-5
+ITAA 1997 306-10(a)
+ITAA 1997 307-5(1)
+ITAA 1997 307-5(3)
+ITAA 1997 307-5(3A)
+ITAA 1997 307-5(3B)
+ITAA 1997 307-5(4)
+ITAR 1997 306-10.01
+ITAR 1997 307-125.02
+ITAR 1997 995-1.01(3)
+ITAR 1997 995-1.01(4)
+SISA 1993 10
+SISR 1994
+RSAR 1997
+Disability Services Act 1986 8(1)
+LCR 2017/3 history
+Date:
+Version:
+Change:
+13 February 2017
+Draft ruling
+8 May 2017
+Finalised ruling
+You are here
+19 February 2018
+Consolidated ruling
+Addendum
+Back to top

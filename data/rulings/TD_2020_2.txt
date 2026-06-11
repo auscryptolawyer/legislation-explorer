@@ -1,0 +1,164 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+10 related documents
+Taxation Determination
+TD 2020/2
+Income tax: thin capitalisation - valuation of debt capital for the purposes of Division 820
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+TD 2020/2EC
+.
+On 8 April 2024, the
+Treasury Law Amendment (Making Multinationals Pay Their Fair Share - Integrity and Transparency) Act 2024
+was enacted. The amendments apply to assessments for income years commencing on or after 1 July 2023, with the exception of new integrity rules (debt deduction creation rules) which apply in relation to assessments for income years starting on or after 1 July 2024.
+Under the new thin capitalisation rules:
+•
+the newly classified 'general class investors' will be subject to one of 3 new tests
+o
+fixed ratio test
+o
+group ratio test
+o
+third party debt test
+•
+financial entities will continue to be subject to the existing safe harbour test and worldwide gearing test or may choose the new third party debt test
+•
+ADIs will continue to be subject to the previous thin capitalisation rules
+•
+the arm's length debt test has been removed for all taxpayers.
+ADIs, securitisation vehicles and certain special purpose entities are excluded from the debt deduction creation rules.
+Entities that are Australian plantation forestry entities are excluded from the new rules. For these entities, the previous rules will continue to apply.
+Table of Contents
+Paragraph
+What this Determination is about
+1
+Ruling
+3
+Example 1 - loan note
+8
+Example 2 - perpetual note
+11
+Example 3 - mandatorily redeemable preference shares
+14
+Date of effect
+18
+Appendix 1 - Explanation
+19
+Appendix 2 - Alternate view
+58
+Relying on this Determination
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953
+.
+If this Determination applies to you, and you correctly rely on it, we will apply the law to you in the way set out in this Determination. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Determination.
+Further, if we think that this Determination disadvantages you, we may apply the law in a way that is more favourable to you.
+What this Determination is about
+1. This Determination sets out how an entity must value its 'debt capital' for the purposes of Division 820 of the
+Income Tax Assessment Act 1997.
+[1]
+2. The concept of debt capital is used, among other things, to work out a non-ADI
+[2]
+entity's 'adjusted average debt' for the purposes of the thin capitalisation rules in sections 820-85 and 820-185.
+Ruling
+3. Paragraph 820-680(1)(b) requires an entity to comply with the accounting standards in calculating 'the value of its liabilities (including its debt capital)'.
+4. The debt capital of an entity at a particular time is defined in subsection 995-1(1) to mean 'any debt interests issued by the entity that are still on issue at that time'. A 'debt interest' in an entity has the meaning given in Subdivision 974-B.
+5. An entity's debt capital must be valued in its entirety in the manner required by the accounting standards regardless of whether it comprises debt interests that are classified as financial liabilities, equity instruments or compound financial instruments under the accounting standards.
+6. Pursuant to section 820-690, if the Commissioner considers that an entity has undervalued its debt capital in relation to a calculation under Division 820, the Commissioner may, having regard to the accounting standards and Subdivision 820-G, substitute a value that the Commissioner considers is appropriate.
+7. The transfer pricing rules in Subdivision 815-B may also operate to substitute the arm's length conditions for the actual conditions that operate between an entity and another entity in connection with their commercial or financial relations, including in relation to the entity's debt capital.
+Example 1 - loan note
+8.
+ABC Ltd issues a loan note to raise $50 million. The loan note pays interest at the rate of 3.5%. Based on the terms of the note, it is treated as debt capital for the purposes of Division 820 and classified as a financial liability under the accounting standards.
+9.
+ABC Ltd is required to include the value of the loan note in its adjusted average debt for the purposes of Division 820. The loan note must be valued in its entirety in accordance with the requirements contained in the accounting standards.
+10.
+For accounting purposes, ABC Ltd values the loan note at $50 million less principal repayments made up to the date of valuation. The Commissioner considers that this valuation is appropriate for thin capitalisation purposes.
+Example 2 - perpetual note
+11.
+EFG Ltd issues a perpetual note to raise $75 million. The principal amount and any deferred interest are payable in full on liquidation ahead of equity. However, if the principal amount and any deferred interest are not paid within 10 years, the interest rate thereafter increases by a very significant amount. Based on the terms of the note, it is treated as debt capital for the purposes of Division 820, but is classified as an equity instrument under the accounting standards.
+12.
+EFG Ltd is required to include the value of the perpetual note in its adjusted average debt for the purposes of Division 820. The perpetual note must be valued in its entirety in accordance with the requirements contained in the accounting standards.
+13.
+For accounting purposes, EFG Ltd values the perpetual note at $75 million less principal repayments made up to the date of valuation. The Commissioner considers that this valuation is appropriate for thin capitalisation purposes.
+Example 3 - mandatorily redeemable preference shares
+14.
+XYZ Ltd issues 30,000 mandatorily redeemable preference shares (MRPS) at $1,000 each to raise $30 million. The MRPS carry a cumulative dividend of 3.5% per annum and must be redeemed by XYZ Ltd within nine years of issue. The payment of dividends is at the discretion of XYZ Ltd and any accumulated dividends that remain unpaid at redemption are not added to the redemption amount. Based on the terms of the MRPS, the MRPS are treated as debt capital for the purposes of Division 820 but are classified as compound financial instruments under the accounting standards.
+15.
+XYZ Ltd is required to include the value of the MRPS in its adjusted average debt for the purposes of Division 820. The MRPS must be valued in their entirety in accordance with the requirements contained in the accounting standards.
+16.
+For accounting purposes, XYZ Ltd values the MRPS at $30 million on the issue date, consisting of:
+•
+a liability component of $20 million, representing the net present value of $30 million redemption amount, discounted at market rates at the time of issue of comparable instruments, and
+•
+an equity component of $10 million, being the difference between the transaction price of the instrument as a whole and the value of the liability component. This amount represents the value of the holders' rights to receive discretionary dividends, if declared.
+17.
+The Commissioner considers that the value of XYZ Ltd's debt capital for thin capitalisation purposes is $30 million at the issue date of the MRPS.
+Date of effect
+18. This Determination applies both before and after its date of issue. However, this Determination will not apply to taxpayers to the extent that it conflicts with the terms of settlement of a dispute agreed to before the date of issue of this Determination (see paragraphs 75 to 76 of Taxation Ruling TR 2006/10
+Public Rulings
+).
+Commissioner of Taxation
+25 March 2020
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's preliminary view has been reached. It does not form part of the proposed binding public ruling.
+19. The object of Division 820, as set out in section 820-30, is to ensure that certain entities do not reduce their tax liabilities by using excessive amounts of debt capital to finance their Australian operations. For non-ADI entities, this object is achieved by the thin capitalisation rules in sections 820-85 and 820-185. These rules, which apply depending on whether an entity is an outward-investing entity (non-ADI) or an inward-investing entity (non-ADI), operate to disallow all or a part of each debt deduction of an entity for an income year if the entity's adjusted average debt exceeds its maximum allowable debt.
+20. A non-ADI entity's adjusted average debt is the result of applying the method statement in subsections 820-85(3) or 820-185(3). The first step in the method statement requires an entity to work out the average value, for the relevant year, of 'all the debt capital of the entity that gives rise to debt deductions of the entity for that or any other income year'.
+21. For these purposes, the debt capital of an entity at a particular time is defined in subsection 995-1(1) to mean any debt interests issued by the entity that are still on issue at that time. A debt interest in an entity has the meaning given in Subdivision 974-B.
+22. For the purposes of Division 820, average values are required to be worked out in accordance with Subdivision 820-G. Subsection 820-680(1), which is part of Subdivision 820-G, provides:
+For the purposes of this Division, an entity must comply with the accounting standards in determining what are its assets and liabilities and in calculating:
+(a)
+the value of its assets; and
+(b)
+the value of its liabilities (including its debt capital); and
+(c)
+the value of its equity capital.
+23. The effect of the parenthetical statement '(including its debt capital)' is that the value of debt capital must be calculated in accordance with accounting standards.
+24. An entity's debt capital must be valued in its entirety in the manner required by the accounting standards. This is so whether the entity's debt capital comprises debt interests that are classified as financial liabilities, equity instruments or compound financial instruments under the accounting standards.
+Appendix 2 - Alternative view
+This Appendix sets out an alternative view and explains why it is not supported by the Commissioner. This Appendix does not form part of the binding public ruling.
+25. There is an opposing argument that the value of an entity's debt capital, calculated in compliance with the accounting standards, is limited to the value of that part of the debt capital that is classified as a financial liability for accounting purposes. On this view, the parenthetical statement in paragraph 820-680(1)(b) indicates that only the accounting liability value of debt capital is relevant for the purposes of Division 820. A consequence of this view is that an entity's debt capital has no value for the purposes of Division 820 to the extent that it comprises debt interests that are classified wholly or partly as equity, rather than as financial liabilities, under the accounting standards.
+26. The Commissioner disagrees with this view. The Commissioner considers that it is wholly inconsistent with the language of section 820-680, the context in which that provision operates, and the object of Division 820 as a whole. The concept of debt capital is central to determining an entity's adjusted average debt for the purposes of Division 820. The statutory task under subsections 820-85(3) and 820-185(3) is to calculate the average value of all the debt capital of an entity, as defined, that gives rise to debt deductions. Paragraph 820-680(1)(b) as properly construed requires an entity to comply with the accounting standards in performing this statutory task. The provisions do not operate to confine the calculation of value to that part of the debt capital that is classified as a financial liability under the accounting standards.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+All legislative references in this Determination are to the
+Income Tax Assessment Act 1997
+unless otherwise indicated.
+[2]
+ADI' stands for 'authorised deposit-taking institution' and is defined in subsection 995-1(1) to mean 'a body corporate that is an ADI for the purposes of the
+Banking Act 1959
+'.
+Previously released in draft form as TD 2018/D4
+References
+ATO references:
+NO  1-EH5MTUK
+ISSN: 2205-6211
+Related Rulings/Determinations:
+TR 2006/10
+Business Line:
+PG
+Legislative References:
+ITAA 1997 Subdiv 815-B
+ITAA 1997 Div 820
+ITAA 1997 Subdiv 820-G
+ITAA 1997 820-30
+ITAA 1997 820-85
+ITAA 1997 820-85(3)
+ITAA 1997 820-185
+ITAA 1997 820-185(3)
+ITAA 1997 820-680
+ITAA 1997 820-680(1)
+ITAA 1997 820-680(1)(b)
+ITAA 1997 820-690
+ITAA 1997 995-1(1)
+ITAA 1997 Subdiv 974-B
+Banking Act 1959
+Back to top

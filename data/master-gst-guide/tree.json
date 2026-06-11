@@ -1,0 +1,2295 @@
+{
+  "act": "Australian Master GST Guide",
+  "parts": [
+    {
+      "id": "ch-01",
+      "title": "Ch 01 — Overview and Basic Concepts",
+      "sections": [
+        {
+          "id": "a-10-point-guide-to-gst",
+          "title": "A 10-point guide to GST",
+          "path": "a-10-point-guide-to-gst.md"
+        },
+        {
+          "id": "affiliates",
+          "title": "Affiliates",
+          "path": "affiliates.md"
+        },
+        {
+          "id": "aggregated-turnover-test",
+          "title": "Aggregated turnover test",
+          "path": "aggregated-turnover-test.md"
+        },
+        {
+          "id": "basis-of-accounting",
+          "title": "Basis of accounting",
+          "path": "basis-of-accounting.md"
+        },
+        {
+          "id": "calculating-aggregated-turnover",
+          "title": "Calculating aggregated turnover",
+          "path": "calculating-aggregated-turnover.md"
+        },
+        {
+          "id": "carrying-on-a-business",
+          "title": "Carrying on a business",
+          "path": "carrying-on-a-business.md"
+        },
+        {
+          "id": "commissioners-rulings",
+          "title": "Commissioner’s rulings",
+          "path": "commissioners-rulings.md"
+        },
+        {
+          "id": "complexity-of-gst",
+          "title": "Complexity of GST",
+          "path": "complexity-of-gst.md"
+        },
+        {
+          "id": "connected-entities",
+          "title": "Connected entities",
+          "path": "connected-entities.md"
+        },
+        {
+          "id": "gst-liability-and-input-tax-credits",
+          "title": "GST liability and input tax credits",
+          "path": "gst-liability-and-input-tax-credits.md"
+        },
+        {
+          "id": "gst-returns-payments-and-refunds",
+          "title": "GST returns, payments and refunds",
+          "path": "gst-returns-payments-and-refunds.md"
+        },
+        {
+          "id": "input-taxed-supplies",
+          "title": "Input taxed supplies",
+          "path": "input-taxed-supplies.md"
+        },
+        {
+          "id": "interpretation-of-gst-legislation",
+          "title": "Interpretation of GST legislation",
+          "path": "interpretation-of-gst-legislation.md"
+        },
+        {
+          "id": "non-taxable-and-gst-free-supplies",
+          "title": "Non-taxable and GST-free supplies",
+          "path": "non-taxable-and-gst-free-supplies.md"
+        },
+        {
+          "id": "overview-small-businesses",
+          "title": "Overview: small businesses",
+          "path": "overview-small-businesses.md"
+        },
+        {
+          "id": "registration",
+          "title": "Registration",
+          "path": "registration.md"
+        },
+        {
+          "id": "sources-of-gst-legislation",
+          "title": "Sources of GST legislation",
+          "path": "sources-of-gst-legislation.md"
+        },
+        {
+          "id": "special-rules-and-concessions",
+          "title": "Special rules and concessions",
+          "path": "special-rules-and-concessions.md"
+        },
+        {
+          "id": "tax-invoices-and-adjustments",
+          "title": "Tax invoices and adjustments",
+          "path": "tax-invoices-and-adjustments.md"
+        },
+        {
+          "id": "tax-periods",
+          "title": "Tax periods",
+          "path": "tax-periods.md"
+        },
+        {
+          "id": "transitional-rules",
+          "title": "Transitional rules",
+          "path": "transitional-rules.md"
+        },
+        {
+          "id": "what-is-gst",
+          "title": "What is GST?",
+          "path": "what-is-gst.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-02",
+      "title": "Ch 02 — Getting Started with GST",
+      "sections": [
+        {
+          "id": "a-20-point-plan-for-managing-gst",
+          "title": "A 20-point plan for managing GST",
+          "path": "a-20-point-plan-for-managing-gst.md"
+        },
+        {
+          "id": "checklist-for-management-of-gst-administration",
+          "title": "Checklist for management of GST administration",
+          "path": "checklist-for-management-of-gst-administration.md"
+        },
+        {
+          "id": "dealing-with-gst",
+          "title": "Dealing with GST",
+          "path": "dealing-with-gst.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-03",
+      "title": "Ch 03 — Registration",
+      "sections": [
+        {
+          "id": "australian-business-number",
+          "title": "Australian Business Number",
+          "path": "australian-business-number.md"
+        },
+        {
+          "id": "cancellation-of-registration",
+          "title": "Cancellation of registration",
+          "path": "cancellation-of-registration.md"
+        },
+        {
+          "id": "carrying-on-an-enterprise",
+          "title": "Carrying on an enterprise",
+          "path": "carrying-on-an-enterprise.md"
+        },
+        {
+          "id": "importance-of-registration",
+          "title": "Importance of registration",
+          "path": "importance-of-registration.md"
+        },
+        {
+          "id": "only-entities-can-be-registered",
+          "title": "Only “entities” can be registered",
+          "path": "only-entities-can-be-registered.md"
+        },
+        {
+          "id": "procedure-for-registration",
+          "title": "Procedure for registration",
+          "path": "procedure-for-registration.md"
+        },
+        {
+          "id": "pros-and-cons-of-registration",
+          "title": "Pros and cons of registration",
+          "path": "pros-and-cons-of-registration.md"
+        },
+        {
+          "id": "simplified-registration-for-certain-non-residents",
+          "title": "Simplified registration for certain non-residents",
+          "path": "simplified-registration-for-certain-non-residents.md"
+        },
+        {
+          "id": "special-rules-about-registration",
+          "title": "Special rules about registration",
+          "path": "special-rules-about-registration.md"
+        },
+        {
+          "id": "the-gst-turnover-test",
+          "title": "The GST turnover test",
+          "path": "the-gst-turnover-test.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-04",
+      "title": "Ch 04 — Liability for GST and Taxable Supplies",
+      "sections": [
+        {
+          "id": "buying-and-selling-at-auction",
+          "title": "Buying and selling at auction",
+          "path": "buying-and-selling-at-auction.md"
+        },
+        {
+          "id": "cancellation-fees",
+          "title": "Cancellation fees",
+          "path": "cancellation-fees.md"
+        },
+        {
+          "id": "competitions-and-prizes",
+          "title": "Competitions and prizes",
+          "path": "competitions-and-prizes.md"
+        },
+        {
+          "id": "connected-with-australia-key-concepts",
+          "title": "Connected with Australia: key concepts",
+          "path": "connected-with-australia-key-concepts.md"
+        },
+        {
+          "id": "court-orders-and-out-of-court-settlements",
+          "title": "Court orders and out-of-court settlements",
+          "path": "court-orders-and-out-of-court-settlements.md"
+        },
+        {
+          "id": "fines-penalties-taxes-and-charges",
+          "title": "Fines, penalties, taxes and charges",
+          "path": "fines-penalties-taxes-and-charges.md"
+        },
+        {
+          "id": "frequent-flyer-shopper-and-loyalty-programs",
+          "title": "Frequent flyer, shopper and loyalty programs",
+          "path": "frequent-flyer-shopper-and-loyalty-programs.md"
+        },
+        {
+          "id": "gifts-tips-promotions-and-stolen-property",
+          "title": "Gifts, tips, promotions and stolen property",
+          "path": "gifts-tips-promotions-and-stolen-property.md"
+        },
+        {
+          "id": "grants-appropriations-subsidies-and-sponsorships",
+          "title": "Grants, appropriations, subsidies and sponsorships",
+          "path": "grants-appropriations-subsidies-and-sponsorships.md"
+        },
+        {
+          "id": "how-gst-is-worked-out",
+          "title": "How GST is worked out",
+          "path": "how-gst-is-worked-out.md"
+        },
+        {
+          "id": "multi-party-transactions",
+          "title": "Multi-party transactions",
+          "path": "multi-party-transactions.md"
+        },
+        {
+          "id": "redeemable-vouchers",
+          "title": "Redeemable vouchers",
+          "path": "redeemable-vouchers.md"
+        },
+        {
+          "id": "requirement-1-there-must-be-a-supply",
+          "title": "Requirement 1: there must be a “supply”",
+          "path": "requirement-1-there-must-be-a-supply.md"
+        },
+        {
+          "id": "requirement-2-supply-must-be-for-consideration",
+          "title": "Requirement 2: supply must be “for consideration”",
+          "path": "requirement-2-supply-must-be-for-consideration.md"
+        },
+        {
+          "id": "requirement-3-in-course-of-enterprise",
+          "title": "Requirement 3: in course of “enterprise”",
+          "path": "requirement-3-in-course-of-enterprise.md"
+        },
+        {
+          "id": "requirement-4-connection-with-australia",
+          "title": "Requirement 4: connection with Australia",
+          "path": "requirement-4-connection-with-australia.md"
+        },
+        {
+          "id": "requirement-5-registration",
+          "title": "Requirement 5: registration",
+          "path": "requirement-5-registration.md"
+        },
+        {
+          "id": "requirement-6-supplies-not-gst-free-or-input-taxed",
+          "title": "Requirement 6: supplies not GST-free or input taxed",
+          "path": "requirement-6-supplies-not-gst-free-or-input-taxed.md"
+        },
+        {
+          "id": "rounding-off-rules-for-gst",
+          "title": "Rounding off rules for GST",
+          "path": "rounding-off-rules-for-gst.md"
+        },
+        {
+          "id": "security-deposits",
+          "title": "Security deposits",
+          "path": "security-deposits.md"
+        },
+        {
+          "id": "supplies-partly-connected-with-australia",
+          "title": "Supplies partly connected with Australia",
+          "path": "supplies-partly-connected-with-australia.md"
+        },
+        {
+          "id": "telecommunication-supplies",
+          "title": "Telecommunication supplies",
+          "path": "telecommunication-supplies.md"
+        },
+        {
+          "id": "what-are-taxable-supplies",
+          "title": "What are taxable supplies?",
+          "path": "what-are-taxable-supplies.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-05",
+      "title": "Ch 05 — Claiming Input Tax Credits and Tax Invoices",
+      "sections": [
+        {
+          "id": "acting-through-an-agent-or-broker",
+          "title": "Acting through an agent or broker",
+          "path": "acting-through-an-agent-or-broker.md"
+        },
+        {
+          "id": "calculation-of-input-tax-credit",
+          "title": "Calculation of input tax credit",
+          "path": "calculation-of-input-tax-credit.md"
+        },
+        {
+          "id": "contents-of-recipient-created-tax-invoices",
+          "title": "Contents of recipient created tax invoices",
+          "path": "contents-of-recipient-created-tax-invoices.md"
+        },
+        {
+          "id": "contents-of-tax-invoices",
+          "title": "Contents of tax invoices",
+          "path": "contents-of-tax-invoices.md"
+        },
+        {
+          "id": "creditable-acquisitions",
+          "title": "Creditable acquisitions",
+          "path": "creditable-acquisitions.md"
+        },
+        {
+          "id": "if-company-is-not-yet-set-up",
+          "title": "If company is not yet set up",
+          "path": "if-company-is-not-yet-set-up.md"
+        },
+        {
+          "id": "low-value-acquisitions",
+          "title": "Low-value acquisitions",
+          "path": "low-value-acquisitions.md"
+        },
+        {
+          "id": "modifications-to-tax-invoice-requirements",
+          "title": "Modifications to tax invoice requirements",
+          "path": "modifications-to-tax-invoice-requirements.md"
+        },
+        {
+          "id": "postponing-credit-claim-to-later-bas",
+          "title": "Postponing credit claim to later BAS",
+          "path": "postponing-credit-claim-to-later-bas.md"
+        },
+        {
+          "id": "recipient-created-tax-invoices",
+          "title": "Recipient created tax invoices",
+          "path": "recipient-created-tax-invoices.md"
+        },
+        {
+          "id": "role-of-tax-invoices",
+          "title": "Role of tax invoices",
+          "path": "role-of-tax-invoices.md"
+        },
+        {
+          "id": "sample-tax-invoices",
+          "title": "Sample tax invoices",
+          "path": "sample-tax-invoices.md"
+        },
+        {
+          "id": "what-is-an-input-tax-credit",
+          "title": "What is an input tax credit?",
+          "path": "what-is-an-input-tax-credit.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-06",
+      "title": "Ch 06 — GST Adjustments",
+      "sections": [
+        {
+          "id": "adjustment-note-exemption-for-minor-adjustments",
+          "title": "Adjustment note exemption for minor adjustments",
+          "path": "adjustment-note-exemption-for-minor-adjustments.md"
+        },
+        {
+          "id": "adjustment-notes",
+          "title": "Adjustment notes",
+          "path": "adjustment-notes.md"
+        },
+        {
+          "id": "adjustment-periods",
+          "title": "Adjustment periods",
+          "path": "adjustment-periods.md"
+        },
+        {
+          "id": "adjustments-after-bankruptcy-liquidation-etc",
+          "title": "Adjustments after bankruptcy, liquidation, etc",
+          "path": "adjustments-after-bankruptcy-liquidation-etc.md"
+        },
+        {
+          "id": "adjustments-for-newly-registered-businesses",
+          "title": "Adjustments for newly-registered businesses",
+          "path": "adjustments-for-newly-registered-businesses.md"
+        },
+        {
+          "id": "adjustments-on-acquisition-of-business",
+          "title": "Adjustments on acquisition of business",
+          "path": "adjustments-on-acquisition-of-business.md"
+        },
+        {
+          "id": "adjustments-on-cessation-of-registration",
+          "title": "Adjustments on cessation of registration",
+          "path": "adjustments-on-cessation-of-registration.md"
+        },
+        {
+          "id": "attributing-bad-debt-adjustments-to-tax-periods",
+          "title": "Attributing bad debt adjustments to tax periods",
+          "path": "attributing-bad-debt-adjustments-to-tax-periods.md"
+        },
+        {
+          "id": "bad-or-overdue-debts",
+          "title": "Bad or overdue debts",
+          "path": "bad-or-overdue-debts.md"
+        },
+        {
+          "id": "changes-to-planned-use",
+          "title": "Changes to planned use",
+          "path": "changes-to-planned-use.md"
+        },
+        {
+          "id": "contents-of-adjustment-notes",
+          "title": "Contents of adjustment notes",
+          "path": "contents-of-adjustment-notes.md"
+        },
+        {
+          "id": "goods-applied-solely-to-private-or-domestic-use",
+          "title": "Goods applied solely to private or domestic use",
+          "path": "goods-applied-solely-to-private-or-domestic-use.md"
+        },
+        {
+          "id": "interaction-with-other-adjustment-rules",
+          "title": "Interaction with other adjustment rules",
+          "path": "interaction-with-other-adjustment-rules.md"
+        },
+        {
+          "id": "modifications-to-adjustment-note-requirements",
+          "title": "Modifications to adjustment note requirements",
+          "path": "modifications-to-adjustment-note-requirements.md"
+        },
+        {
+          "id": "other-rules-about-adjustments",
+          "title": "Other rules about adjustments",
+          "path": "other-rules-about-adjustments.md"
+        },
+        {
+          "id": "other-rules-affecting-bad-debts",
+          "title": "Other rules affecting bad debts",
+          "path": "other-rules-affecting-bad-debts.md"
+        },
+        {
+          "id": "sales-of-things-acquired-without-full-credits",
+          "title": "Sales of things acquired without full credits",
+          "path": "sales-of-things-acquired-without-full-credits.md"
+        },
+        {
+          "id": "special-rules-about-adjustment-notes",
+          "title": "Special rules about adjustment notes",
+          "path": "special-rules-about-adjustment-notes.md"
+        },
+        {
+          "id": "types-of-gst-adjustment",
+          "title": "Types of GST adjustment",
+          "path": "types-of-gst-adjustment.md"
+        },
+        {
+          "id": "what-are-adjustment-events",
+          "title": "What are adjustment events?",
+          "path": "what-are-adjustment-events.md"
+        },
+        {
+          "id": "what-is-a-bad-debt",
+          "title": "What is a bad debt?",
+          "path": "what-is-a-bad-debt.md"
+        },
+        {
+          "id": "where-business-owner-dies",
+          "title": "Where business owner dies",
+          "path": "where-business-owner-dies.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-07",
+      "title": "Ch 07 — Accounting Basis and Tax Periods",
+      "sections": [
+        {
+          "id": "accruals-basis",
+          "title": "Accruals basis",
+          "path": "accruals-basis.md"
+        },
+        {
+          "id": "ato-guidelines-on-particular-attribution-situations",
+          "title": "ATO guidelines on particular attribution situations",
+          "path": "ato-guidelines-on-particular-attribution-situations.md"
+        },
+        {
+          "id": "barter-transactions-and-trade-exchanges",
+          "title": "Barter transactions and trade exchanges",
+          "path": "barter-transactions-and-trade-exchanges.md"
+        },
+        {
+          "id": "cash-basis",
+          "title": "Cash basis",
+          "path": "cash-basis.md"
+        },
+        {
+          "id": "changing-your-accounting-basis",
+          "title": "Changing your accounting basis",
+          "path": "changing-your-accounting-basis.md"
+        },
+        {
+          "id": "concluding-tax-periods",
+          "title": "Concluding tax periods",
+          "path": "concluding-tax-periods.md"
+        },
+        {
+          "id": "determining-the-tax-period",
+          "title": "Determining the tax period",
+          "path": "determining-the-tax-period.md"
+        },
+        {
+          "id": "hire-purchase-transactions",
+          "title": "Hire-purchase transactions",
+          "path": "hire-purchase-transactions.md"
+        },
+        {
+          "id": "how-the-cash-basis-operates",
+          "title": "How the cash basis operates",
+          "path": "how-the-cash-basis-operates.md"
+        },
+        {
+          "id": "lay-by-sales",
+          "title": "Lay-by sales",
+          "path": "lay-by-sales.md"
+        },
+        {
+          "id": "non-standard-tax-periods",
+          "title": "Non-standard tax periods",
+          "path": "non-standard-tax-periods.md"
+        },
+        {
+          "id": "offsetting-credits-against-gst",
+          "title": "Offsetting credits against GST",
+          "path": "offsetting-credits-against-gst.md"
+        },
+        {
+          "id": "other-special-attribution-rules",
+          "title": "Other special attribution rules",
+          "path": "other-special-attribution-rules.md"
+        },
+        {
+          "id": "progressive-or-periodic-supplies",
+          "title": "Progressive or periodic supplies",
+          "path": "progressive-or-periodic-supplies.md"
+        },
+        {
+          "id": "the-20-million-turnover-test",
+          "title": "The $20 million turnover test",
+          "path": "the-20-million-turnover-test.md"
+        },
+        {
+          "id": "when-consideration-is-received-or-provided",
+          "title": "When consideration is received or provided",
+          "path": "when-consideration-is-received-or-provided.md"
+        },
+        {
+          "id": "where-gst-or-credits-are-adjusted",
+          "title": "Where GST or credits are adjusted",
+          "path": "where-gst-or-credits-are-adjusted.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-08",
+      "title": "Ch 08 — GST Returns, BAS, Payment, Assessment and Refunds",
+      "sections": [
+        {
+          "id": "amending-an-assessment",
+          "title": "Amending an assessment",
+          "path": "amending-an-assessment.md"
+        },
+        {
+          "id": "authorised-bas-preparers",
+          "title": "Authorised BAS preparers",
+          "path": "authorised-bas-preparers.md"
+        },
+        {
+          "id": "correcting-and-revising-an-earlier-bas",
+          "title": "Correcting and revising an earlier BAS",
+          "path": "correcting-and-revising-an-earlier-bas.md"
+        },
+        {
+          "id": "gst-assessments",
+          "title": "GST assessments",
+          "path": "gst-assessments.md"
+        },
+        {
+          "id": "gst-return-for-each-tax-period",
+          "title": "GST return for each tax period",
+          "path": "gst-return-for-each-tax-period.md"
+        },
+        {
+          "id": "how-a-gst-return-is-lodged",
+          "title": "How a GST return is lodged",
+          "path": "how-a-gst-return-is-lodged.md"
+        },
+        {
+          "id": "liability-of-directors-for-unpaid-gst-liability",
+          "title": "Liability of directors for unpaid GST liability",
+          "path": "liability-of-directors-for-unpaid-gst-liability.md"
+        },
+        {
+          "id": "option-to-report-and-pay-annually",
+          "title": "Option to report and pay annually",
+          "path": "option-to-report-and-pay-annually.md"
+        },
+        {
+          "id": "option-to-use-streamlined-quarterly-remittance-form",
+          "title": "Option to use streamlined quarterly remittance form",
+          "path": "option-to-use-streamlined-quarterly-remittance-form.md"
+        },
+        {
+          "id": "other-special-rules-for-gst-returns",
+          "title": "Other special rules for GST returns",
+          "path": "other-special-rules-for-gst-returns.md"
+        },
+        {
+          "id": "payment-of-gst-refunds",
+          "title": "Payment of GST refunds",
+          "path": "payment-of-gst-refunds.md"
+        },
+        {
+          "id": "payment-of-net-gst",
+          "title": "Payment of net GST",
+          "path": "payment-of-net-gst.md"
+        },
+        {
+          "id": "restriction-where-refund-would-give-rise-to-windfall",
+          "title": "Restriction where refund would give rise to windfall",
+          "path": "restriction-where-refund-would-give-rise-to-windfall.md"
+        },
+        {
+          "id": "review-and-other-rules-about-refunds",
+          "title": "Review and other rules about refunds",
+          "path": "review-and-other-rules-about-refunds.md"
+        },
+        {
+          "id": "small-business-option-to-pay-gst-instalments",
+          "title": "Small business option to pay GST instalments",
+          "path": "small-business-option-to-pay-gst-instalments.md"
+        },
+        {
+          "id": "standard-method-completion-of-gst-return",
+          "title": "Standard method: completion of GST return",
+          "path": "standard-method-completion-of-gst-return.md"
+        },
+        {
+          "id": "standard-method-time-for-lodgment",
+          "title": "Standard method: time for lodgment",
+          "path": "standard-method-time-for-lodgment.md"
+        },
+        {
+          "id": "various-options-for-lodgment-of-gst-returns",
+          "title": "Various options for lodgment of GST returns",
+          "path": "various-options-for-lodgment-of-gst-returns.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-09",
+      "title": "Ch 09 — Imports and Exports",
+      "sections": [
+        {
+          "id": "consumers",
+          "title": "consumers",
+          "path": "consumers.md"
+        },
+        {
+          "id": "excisable-goods-held-in-bond",
+          "title": "Excisable goods held “in bond”",
+          "path": "excisable-goods-held-in-bond.md"
+        },
+        {
+          "id": "export-of-aircraft-or-ship",
+          "title": "Export of aircraft or ship",
+          "path": "export-of-aircraft-or-ship.md"
+        },
+        {
+          "id": "exports-of-goods",
+          "title": "Exports of goods",
+          "path": "exports-of-goods.md"
+        },
+        {
+          "id": "exports-of-services-and-other-things",
+          "title": "Exports of services and other things",
+          "path": "exports-of-services-and-other-things.md"
+        },
+        {
+          "id": "gst-is-payable-by-importer",
+          "title": "GST is payable by importer",
+          "path": "gst-is-payable-by-importer.md"
+        },
+        {
+          "id": "importations-through-an-agent",
+          "title": "Importations through an agent",
+          "path": "importations-through-an-agent.md"
+        },
+        {
+          "id": "imported-second-hand-goods",
+          "title": "Imported second-hand goods",
+          "path": "imported-second-hand-goods.md"
+        },
+        {
+          "id": "input-tax-credits-on-imports",
+          "title": "Input tax credits on imports",
+          "path": "input-tax-credits-on-imports.md"
+        },
+        {
+          "id": "installation-or-assembly-of-goods-brought-to-australia",
+          "title": "Installation or assembly of goods brought to Australia",
+          "path": "installation-or-assembly-of-goods-brought-to-australia.md"
+        },
+        {
+          "id": "lease-of-goods-used-overseas",
+          "title": "Lease of goods used overseas",
+          "path": "lease-of-goods-used-overseas.md"
+        },
+        {
+          "id": "non-taxable-importations-of-goods",
+          "title": "Non-taxable importations of goods",
+          "path": "non-taxable-importations-of-goods.md"
+        },
+        {
+          "id": "offshore-business-supplies-of-services-and-rights",
+          "title": "Offshore business supplies of services and rights",
+          "path": "offshore-business-supplies-of-services-and-rights.md"
+        },
+        {
+          "id": "offshore-supplies-of-low-value-goods-to-consumers",
+          "title": "Offshore supplies of “low value” goods to consumers",
+          "path": "offshore-supplies-of-low-value-goods-to-consumers.md"
+        },
+        {
+          "id": "other-gst-free-exports-of-goods",
+          "title": "Other GST-free exports of goods",
+          "path": "other-gst-free-exports-of-goods.md"
+        },
+        {
+          "id": "re-importation-of-breeding-livestock",
+          "title": "Re-importation of breeding livestock",
+          "path": "re-importation-of-breeding-livestock.md"
+        },
+        {
+          "id": "repair-or-treatment-of-goods-under-warranty",
+          "title": "Repair or treatment of goods under warranty",
+          "path": "repair-or-treatment-of-goods-under-warranty.md"
+        },
+        {
+          "id": "taxable-importations-of-goods",
+          "title": "Taxable importations of goods",
+          "path": "taxable-importations-of-goods.md"
+        },
+        {
+          "id": "tooling-used-by-non-residents",
+          "title": "Tooling used by non-residents",
+          "path": "tooling-used-by-non-residents.md"
+        },
+        {
+          "id": "treatment-of-exports",
+          "title": "Treatment of exports",
+          "path": "treatment-of-exports.md"
+        },
+        {
+          "id": "where-goods-have-previously-been-exported-for-repair",
+          "title": "Where goods have previously been exported for repair",
+          "path": "where-goods-have-previously-been-exported-for-repair.md"
+        },
+        {
+          "id": "where-importation-is-partly-taxable",
+          "title": "Where importation is partly taxable",
+          "path": "where-importation-is-partly-taxable.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-10",
+      "title": "Ch 10 — Financial Supplies and Insurance",
+      "sections": [
+        {
+          "id": "75-reduced-input-tax-credit-for-certain-services",
+          "title": "75% “reduced” input tax credit for certain services",
+          "path": "75-reduced-input-tax-credit-for-certain-services.md"
+        },
+        {
+          "id": "apportioning-input-tax-credits",
+          "title": "Apportioning input tax credits",
+          "path": "apportioning-input-tax-credits.md"
+        },
+        {
+          "id": "exported-financial-services",
+          "title": "Exported financial services",
+          "path": "exported-financial-services.md"
+        },
+        {
+          "id": "financial-supplies-general-requirements",
+          "title": "Financial supplies: general requirements",
+          "path": "financial-supplies-general-requirements.md"
+        },
+        {
+          "id": "financial-supplies-specific-items",
+          "title": "Financial supplies: specific items",
+          "path": "financial-supplies-specific-items.md"
+        },
+        {
+          "id": "gst-free-insurance",
+          "title": "GST-free insurance",
+          "path": "gst-free-insurance.md"
+        },
+        {
+          "id": "input-tax-credits-for-expenses-of-borrowing",
+          "title": "Input tax credits for expenses of borrowing",
+          "path": "input-tax-credits-for-expenses-of-borrowing.md"
+        },
+        {
+          "id": "insurance-settlements",
+          "title": "Insurance settlements",
+          "path": "insurance-settlements.md"
+        },
+        {
+          "id": "issue-of-general-insurance-policies",
+          "title": "Issue of general insurance policies",
+          "path": "issue-of-general-insurance-policies.md"
+        },
+        {
+          "id": "issue-of-life-insurance-policies",
+          "title": "Issue of life insurance policies",
+          "path": "issue-of-life-insurance-policies.md"
+        },
+        {
+          "id": "other-special-insurance-rules",
+          "title": "Other special insurance rules",
+          "path": "other-special-insurance-rules.md"
+        },
+        {
+          "id": "overview",
+          "title": "Overview",
+          "path": "overview.md"
+        },
+        {
+          "id": "provision-of-fringe-benefits-by-financial-suppliers",
+          "title": "Provision of fringe benefits by financial suppliers",
+          "path": "provision-of-fringe-benefits-by-financial-suppliers.md"
+        },
+        {
+          "id": "sales-of-things-acquired-to-make-supplies",
+          "title": "Sales of things acquired to make supplies",
+          "path": "sales-of-things-acquired-to-make-supplies.md"
+        },
+        {
+          "id": "sales-to-satisfy-debts",
+          "title": "Sales to satisfy debts",
+          "path": "sales-to-satisfy-debts.md"
+        },
+        {
+          "id": "statutory-compensation-schemes",
+          "title": "Statutory compensation schemes",
+          "path": "statutory-compensation-schemes.md"
+        },
+        {
+          "id": "superannuation-funds",
+          "title": "Superannuation funds",
+          "path": "superannuation-funds.md"
+        },
+        {
+          "id": "what-are-not-financial-supplies",
+          "title": "What are not financial supplies?",
+          "path": "what-are-not-financial-supplies.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-11",
+      "title": "Ch 11 — Real Estate, Accommodation and Sale of Business",
+      "sections": [
+        {
+          "id": "accommodation-in-commercial-residential-premises",
+          "title": "Accommodation in commercial residential premises",
+          "path": "accommodation-in-commercial-residential-premises.md"
+        },
+        {
+          "id": "accommodation-in-residential-premises",
+          "title": "Accommodation in residential premises",
+          "path": "accommodation-in-residential-premises.md"
+        },
+        {
+          "id": "assumption-of-liabilities-by-purchaser-of-business",
+          "title": "Assumption of liabilities by purchaser of business",
+          "path": "assumption-of-liabilities-by-purchaser-of-business.md"
+        },
+        {
+          "id": "attribution-of-gst-and-credits-on-taxable-sales",
+          "title": "Attribution of GST and credits on taxable sales",
+          "path": "attribution-of-gst-and-credits-on-taxable-sales.md"
+        },
+        {
+          "id": "bad-debts-under-the-margin-scheme",
+          "title": "Bad debts under the margin scheme",
+          "path": "bad-debts-under-the-margin-scheme.md"
+        },
+        {
+          "id": "bodies-corporate",
+          "title": "Bodies corporate",
+          "path": "bodies-corporate.md"
+        },
+        {
+          "id": "certain-sales-of-farms-are-gst-free",
+          "title": "Certain sales of farms are GST-free",
+          "path": "certain-sales-of-farms-are-gst-free.md"
+        },
+        {
+          "id": "development-leases",
+          "title": "Development leases",
+          "path": "development-leases.md"
+        },
+        {
+          "id": "easements-restrictive-covenants-and-options",
+          "title": "Easements, restrictive covenants and options",
+          "path": "easements-restrictive-covenants-and-options.md"
+        },
+        {
+          "id": "enterprise-must-be-carried-on-until-day-of-supply",
+          "title": "Enterprise must be carried on until day of supply",
+          "path": "enterprise-must-be-carried-on-until-day-of-supply.md"
+        },
+        {
+          "id": "grants-of-crown-land",
+          "title": "Grants of Crown land",
+          "path": "grants-of-crown-land.md"
+        },
+        {
+          "id": "gst-free-supplies-of-going-concerns",
+          "title": "GST-free supplies of going concerns",
+          "path": "gst-free-supplies-of-going-concerns.md"
+        },
+        {
+          "id": "how-the-margin-scheme-works",
+          "title": "How the margin scheme works",
+          "path": "how-the-margin-scheme-works.md"
+        },
+        {
+          "id": "how-to-calculate-the-margin",
+          "title": "How to calculate the margin",
+          "path": "how-to-calculate-the-margin.md"
+        },
+        {
+          "id": "if-going-concern-exemption-does-not-apply",
+          "title": "If “going concern” exemption does not apply",
+          "path": "if-going-concern-exemption-does-not-apply.md"
+        },
+        {
+          "id": "leased-commercial-premises",
+          "title": "Leased commercial premises",
+          "path": "leased-commercial-premises.md"
+        },
+        {
+          "id": "leases-entered-into-before-1-july-2000",
+          "title": "Leases entered into before 1 July 2000",
+          "path": "leases-entered-into-before-1-july-2000.md"
+        },
+        {
+          "id": "long-term-leases",
+          "title": "Long-term leases",
+          "path": "long-term-leases.md"
+        },
+        {
+          "id": "option-to-purchase-business",
+          "title": "Option to purchase business",
+          "path": "option-to-purchase-business.md"
+        },
+        {
+          "id": "other-matters-associated-with-property",
+          "title": "Other matters associated with property",
+          "path": "other-matters-associated-with-property.md"
+        },
+        {
+          "id": "partitions-of-co-owned-land",
+          "title": "Partitions of co-owned land",
+          "path": "partitions-of-co-owned-land.md"
+        },
+        {
+          "id": "private-supplies",
+          "title": "private supplies",
+          "path": "private-supplies.md"
+        },
+        {
+          "id": "purchaser-of-new-premises-to-remit-gst",
+          "title": "Purchaser of new premises to remit GST",
+          "path": "purchaser-of-new-premises-to-remit-gst.md"
+        },
+        {
+          "id": "requirements-for-valuation",
+          "title": "Requirements for valuation",
+          "path": "requirements-for-valuation.md"
+        },
+        {
+          "id": "sale-of-business-by-selling-shares",
+          "title": "Sale of business by selling shares",
+          "path": "sale-of-business-by-selling-shares.md"
+        },
+        {
+          "id": "sale-of-commercial-residential-premises",
+          "title": "Sale of commercial residential premises",
+          "path": "sale-of-commercial-residential-premises.md"
+        },
+        {
+          "id": "sale-of-franchise",
+          "title": "Sale of franchise",
+          "path": "sale-of-franchise.md"
+        },
+        {
+          "id": "sale-of-new-residential-premises",
+          "title": "Sale of “new” residential premises",
+          "path": "sale-of-new-residential-premises.md"
+        },
+        {
+          "id": "sale-of-non-residential-premises",
+          "title": "Sale of non-residential premises",
+          "path": "sale-of-non-residential-premises.md"
+        },
+        {
+          "id": "sale-of-real-property-subject-to-lease",
+          "title": "Sale of real property subject to lease",
+          "path": "sale-of-real-property-subject-to-lease.md"
+        },
+        {
+          "id": "special-situations",
+          "title": "Special situations",
+          "path": "special-situations.md"
+        },
+        {
+          "id": "subdivision-and-sale",
+          "title": "Subdivision and sale",
+          "path": "subdivision-and-sale.md"
+        },
+        {
+          "id": "summary-of-gst-position-on-leases",
+          "title": "Summary of GST position on leases",
+          "path": "summary-of-gst-position-on-leases.md"
+        },
+        {
+          "id": "summary-of-gst-position-on-sales",
+          "title": "Summary of GST position on sales",
+          "path": "summary-of-gst-position-on-sales.md"
+        },
+        {
+          "id": "supply-must-be-of-all-things-necessary",
+          "title": "Supply must be of all things necessary",
+          "path": "supply-must-be-of-all-things-necessary.md"
+        },
+        {
+          "id": "where-farm-land-is-subdivided",
+          "title": "Where farm land is subdivided",
+          "path": "where-farm-land-is-subdivided.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-12",
+      "title": "Ch 12 — Transport, Travel and Vehicles",
+      "sections": [
+        {
+          "id": "associated-transport-costs",
+          "title": "Associated transport costs",
+          "path": "associated-transport-costs.md"
+        },
+        {
+          "id": "cars-and-other-vehicles-for-the-disabled",
+          "title": "Cars and other vehicles for the disabled",
+          "path": "cars-and-other-vehicles-for-the-disabled.md"
+        },
+        {
+          "id": "evaluation-and-product-launches",
+          "title": "Evaluation and product launches",
+          "path": "evaluation-and-product-launches.md"
+        },
+        {
+          "id": "gst-on-supply-of-cars",
+          "title": "GST on supply of cars",
+          "path": "gst-on-supply-of-cars.md"
+        },
+        {
+          "id": "input-tax-credits-on-cars-above-car-limit",
+          "title": "Input tax credits on cars above car limit",
+          "path": "input-tax-credits-on-cars-above-car-limit.md"
+        },
+        {
+          "id": "international-mail",
+          "title": "International mail",
+          "path": "international-mail.md"
+        },
+        {
+          "id": "overseas-and-domestic-travel",
+          "title": "Overseas and domestic travel",
+          "path": "overseas-and-domestic-travel.md"
+        },
+        {
+          "id": "refunds-for-diplomats",
+          "title": "Refunds for diplomats",
+          "path": "refunds-for-diplomats.md"
+        },
+        {
+          "id": "sale-of-car-on-termination-of-lease",
+          "title": "Sale of car on termination of lease",
+          "path": "sale-of-car-on-termination-of-lease.md"
+        },
+        {
+          "id": "second-hand-vehicles",
+          "title": "Second-hand vehicles",
+          "path": "second-hand-vehicles.md"
+        },
+        {
+          "id": "taxis-limousines-and-ride-sourcing",
+          "title": "Taxis, limousines and ride-sourcing",
+          "path": "taxis-limousines-and-ride-sourcing.md"
+        },
+        {
+          "id": "tourist-refund-scheme",
+          "title": "Tourist Refund Scheme",
+          "path": "tourist-refund-scheme.md"
+        },
+        {
+          "id": "trade-ins",
+          "title": "Trade-ins",
+          "path": "trade-ins.md"
+        },
+        {
+          "id": "transporting-handling-and-insuring-goods",
+          "title": "Transporting, handling and insuring goods",
+          "path": "transporting-handling-and-insuring-goods.md"
+        },
+        {
+          "id": "travel-insurance-agents-and-related-matters",
+          "title": "Travel insurance, agents and related matters",
+          "path": "travel-insurance-agents-and-related-matters.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-13",
+      "title": "Ch 13 — Food, Health and Medical",
+      "sections": [
+        {
+          "id": "allied-health-professionals-services",
+          "title": "Allied health professionals’ services",
+          "path": "allied-health-professionals-services.md"
+        },
+        {
+          "id": "ato-food-and-beverage-checklist",
+          "title": "ATO food and beverage checklist",
+          "path": "ato-food-and-beverage-checklist.md"
+        },
+        {
+          "id": "bakery-products",
+          "title": "Bakery products",
+          "path": "bakery-products.md"
+        },
+        {
+          "id": "confectionery-snacks-ice-cream-and-biscuits",
+          "title": "Confectionery, snacks, ice-cream and biscuits",
+          "path": "confectionery-snacks-ice-cream-and-biscuits.md"
+        },
+        {
+          "id": "definition-of-food",
+          "title": "Definition of “food”",
+          "path": "definition-of-food.md"
+        },
+        {
+          "id": "drinks",
+          "title": "Drinks",
+          "path": "drinks.md"
+        },
+        {
+          "id": "drugs-medicines-and-health-goods",
+          "title": "Drugs, medicines and health goods",
+          "path": "drugs-medicines-and-health-goods.md"
+        },
+        {
+          "id": "food-additives",
+          "title": "Food additives",
+          "path": "food-additives.md"
+        },
+        {
+          "id": "food-combinations-and-hampers",
+          "title": "Food combinations and hampers",
+          "path": "food-combinations-and-hampers.md"
+        },
+        {
+          "id": "food-packaging",
+          "title": "Food packaging",
+          "path": "food-packaging.md"
+        },
+        {
+          "id": "funerals",
+          "title": "Funerals",
+          "path": "funerals.md"
+        },
+        {
+          "id": "giveaways-and-promotions",
+          "title": "Giveaways and promotions",
+          "path": "giveaways-and-promotions.md"
+        },
+        {
+          "id": "gst-free-health-services",
+          "title": "GST-free health services",
+          "path": "gst-free-health-services.md"
+        },
+        {
+          "id": "gst-free-supplies-of-food",
+          "title": "GST-free supplies of food",
+          "path": "gst-free-supplies-of-food.md"
+        },
+        {
+          "id": "hospital-services",
+          "title": "Hospital services",
+          "path": "hospital-services.md"
+        },
+        {
+          "id": "hot-takeaway-food",
+          "title": "Hot takeaway food",
+          "path": "hot-takeaway-food.md"
+        },
+        {
+          "id": "medical-aids-and-appliances",
+          "title": "Medical aids and appliances",
+          "path": "medical-aids-and-appliances.md"
+        },
+        {
+          "id": "medical-practitioners-services",
+          "title": "Medical practitioners’ services",
+          "path": "medical-practitioners-services.md"
+        },
+        {
+          "id": "other-optional-methods",
+          "title": "Other optional methods",
+          "path": "other-optional-methods.md"
+        },
+        {
+          "id": "other-simplified-methods-for-food-retailers",
+          "title": "Other simplified methods for food retailers",
+          "path": "other-simplified-methods-for-food-retailers.md"
+        },
+        {
+          "id": "overview",
+          "title": "Overview",
+          "path": "overview.md"
+        },
+        {
+          "id": "prepared-meals-and-food",
+          "title": "Prepared meals and food",
+          "path": "prepared-meals-and-food.md"
+        },
+        {
+          "id": "private-health-insurance",
+          "title": "Private health insurance",
+          "path": "private-health-insurance.md"
+        },
+        {
+          "id": "residential-care-home-care-and-disability-services",
+          "title": "Residential care, home care and disability services",
+          "path": "residential-care-home-care-and-disability-services.md"
+        },
+        {
+          "id": "restaurant-catered-or-eat-in-food",
+          "title": "Restaurant, catered or eat-in food",
+          "path": "restaurant-catered-or-eat-in-food.md"
+        },
+        {
+          "id": "simplified-gst-accounting-for-food-suppliers",
+          "title": "Simplified GST accounting for food suppliers",
+          "path": "simplified-gst-accounting-for-food-suppliers.md"
+        },
+        {
+          "id": "wine-beer-and-spirits",
+          "title": "Wine, beer and spirits",
+          "path": "wine-beer-and-spirits.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-14",
+      "title": "Ch 14 — Education and Child Care",
+      "sections": [
+        {
+          "id": "adult-and-community-education-courses",
+          "title": "Adult and community education courses",
+          "path": "adult-and-community-education-courses.md"
+        },
+        {
+          "id": "education-checklist",
+          "title": "Education checklist",
+          "path": "education-checklist.md"
+        },
+        {
+          "id": "education-courses",
+          "title": "Education courses",
+          "path": "education-courses.md"
+        },
+        {
+          "id": "gst-free-childcare-services",
+          "title": "GST-free childcare services",
+          "path": "gst-free-childcare-services.md"
+        },
+        {
+          "id": "gst-free-educational-supplies",
+          "title": "GST-free educational supplies",
+          "path": "gst-free-educational-supplies.md"
+        },
+        {
+          "id": "other-educational-supplies",
+          "title": "Other educational supplies",
+          "path": "other-educational-supplies.md"
+        },
+        {
+          "id": "other-options-for-educational-institutions",
+          "title": "Other options for educational institutions",
+          "path": "other-options-for-educational-institutions.md"
+        },
+        {
+          "id": "professional-or-trade-qualification-courses",
+          "title": "Professional or trade qualification courses",
+          "path": "professional-or-trade-qualification-courses.md"
+        },
+        {
+          "id": "school-tuckshops-and-canteens",
+          "title": "School tuckshops and canteens",
+          "path": "school-tuckshops-and-canteens.md"
+        },
+        {
+          "id": "special-education-courses",
+          "title": "“Special education” courses",
+          "path": "special-education-courses.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-15",
+      "title": "Ch 15 — Charities, Religious and Non-Profit Bodies",
+      "sections": [
+        {
+          "id": "ceasing-to-be-a-sub-entity",
+          "title": "Ceasing to be a sub-entity",
+          "path": "ceasing-to-be-a-sub-entity.md"
+        },
+        {
+          "id": "donated-second-hand-goods",
+          "title": "Donated second-hand goods",
+          "path": "donated-second-hand-goods.md"
+        },
+        {
+          "id": "fundraising-activities",
+          "title": "Fundraising activities",
+          "path": "fundraising-activities.md"
+        },
+        {
+          "id": "gifts-in-general",
+          "title": "Gifts in general",
+          "path": "gifts-in-general.md"
+        },
+        {
+          "id": "gst-religious-groups",
+          "title": "GST religious groups",
+          "path": "gst-religious-groups.md"
+        },
+        {
+          "id": "independent-branches-of-non-profit-bodies",
+          "title": "Independent branches of non-profit bodies",
+          "path": "independent-branches-of-non-profit-bodies.md"
+        },
+        {
+          "id": "raffles-and-bingo",
+          "title": "Raffles and bingo",
+          "path": "raffles-and-bingo.md"
+        },
+        {
+          "id": "religious-practitioners",
+          "title": "Religious practitioners",
+          "path": "religious-practitioners.md"
+        },
+        {
+          "id": "religious-services",
+          "title": "Religious services",
+          "path": "religious-services.md"
+        },
+        {
+          "id": "simplified-accounting-methods",
+          "title": "Simplified accounting methods",
+          "path": "simplified-accounting-methods.md"
+        },
+        {
+          "id": "special-rules-for-charities-and-not-for-profits",
+          "title": "Special rules for charities and not-for-profits",
+          "path": "special-rules-for-charities-and-not-for-profits.md"
+        },
+        {
+          "id": "summary-of-gst-concessions",
+          "title": "Summary of GST concessions",
+          "path": "summary-of-gst-concessions.md"
+        },
+        {
+          "id": "supplies-for-nominal-value",
+          "title": "Supplies for “nominal” value",
+          "path": "supplies-for-nominal-value.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-16",
+      "title": "Ch 16 — Gambling, Second-Hand Goods and Other Measures",
+      "sections": [
+        {
+          "id": "application-of-gst-to-second-hand-goods",
+          "title": "Application of GST to second-hand goods",
+          "path": "application-of-gst-to-second-hand-goods.md"
+        },
+        {
+          "id": "diplomatic-staff-and-international-organisations",
+          "title": "Diplomatic staff and international organisations",
+          "path": "diplomatic-staff-and-international-organisations.md"
+        },
+        {
+          "id": "emissions-units",
+          "title": "Emissions units",
+          "path": "emissions-units.md"
+        },
+        {
+          "id": "global-accounting-for-second-hand-dealers",
+          "title": "“Global” accounting for second-hand dealers",
+          "path": "global-accounting-for-second-hand-dealers.md"
+        },
+        {
+          "id": "goods-held-at-1-july-2000",
+          "title": "Goods held at 1 July 2000",
+          "path": "goods-held-at-1-july-2000.md"
+        },
+        {
+          "id": "gst-thresholds-for-gambling-suppliers",
+          "title": "GST thresholds for gambling suppliers",
+          "path": "gst-thresholds-for-gambling-suppliers.md"
+        },
+        {
+          "id": "if-gambling-debts-are-not-paid",
+          "title": "If gambling debts are not paid",
+          "path": "if-gambling-debts-are-not-paid.md"
+        },
+        {
+          "id": "precious-metals",
+          "title": "Precious metals",
+          "path": "precious-metals.md"
+        },
+        {
+          "id": "special-accounting-for-gambling",
+          "title": "Special accounting for gambling",
+          "path": "special-accounting-for-gambling.md"
+        },
+        {
+          "id": "special-input-tax-credit",
+          "title": "Special input tax credit",
+          "path": "special-input-tax-credit.md"
+        },
+        {
+          "id": "supplies-by-charities-and-gift-deductible-bodies",
+          "title": "Supplies by charities and gift-deductible bodies",
+          "path": "supplies-by-charities-and-gift-deductible-bodies.md"
+        },
+        {
+          "id": "water-sewerage-and-drainage",
+          "title": "Water, sewerage and drainage",
+          "path": "water-sewerage-and-drainage.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-17",
+      "title": "Ch 17 — GST Groups, Branches, Agents and Associates",
+      "sections": [
+        {
+          "id": "agents-for-non-residents",
+          "title": "Agents for non-residents",
+          "path": "agents-for-non-residents.md"
+        },
+        {
+          "id": "agreements-for-agent-to-act-as-principal",
+          "title": "Agreements for agent to act as principal",
+          "path": "agreements-for-agent-to-act-as-principal.md"
+        },
+        {
+          "id": "cancelling-a-branch-registration",
+          "title": "Cancelling a branch registration",
+          "path": "cancelling-a-branch-registration.md"
+        },
+        {
+          "id": "change-of-group-membership-or-dissolution",
+          "title": "Change of group membership or dissolution",
+          "path": "change-of-group-membership-or-dissolution.md"
+        },
+        {
+          "id": "change-of-joint-venture-membership-or-dissolution",
+          "title": "Change of joint venture membership or dissolution",
+          "path": "change-of-joint-venture-membership-or-dissolution.md"
+        },
+        {
+          "id": "consequences-of-formation-of-joint-venture",
+          "title": "Consequences of formation of joint venture",
+          "path": "consequences-of-formation-of-joint-venture.md"
+        },
+        {
+          "id": "effect-of-having-a-gst-group",
+          "title": "Effect of having a GST group",
+          "path": "effect-of-having-a-gst-group.md"
+        },
+        {
+          "id": "formation-of-joint-ventures",
+          "title": "Formation of joint ventures",
+          "path": "formation-of-joint-ventures.md"
+        },
+        {
+          "id": "forming-a-gst-group",
+          "title": "Forming a GST group",
+          "path": "forming-a-gst-group.md"
+        },
+        {
+          "id": "goods-sold-on-consignment-or-sale-or-return",
+          "title": "Goods sold on consignment, or “sale or return”",
+          "path": "goods-sold-on-consignment-or-sale-or-return.md"
+        },
+        {
+          "id": "indirect-tax-sharing-agreements",
+          "title": "Indirect tax sharing agreements",
+          "path": "indirect-tax-sharing-agreements.md"
+        },
+        {
+          "id": "joint-ventures",
+          "title": "Joint ventures",
+          "path": "joint-ventures.md"
+        },
+        {
+          "id": "legal-services-fees-and-disbursements",
+          "title": "Legal services, fees and disbursements",
+          "path": "legal-services-fees-and-disbursements.md"
+        },
+        {
+          "id": "liability-of-agents-for-gst",
+          "title": "Liability of agents for GST",
+          "path": "liability-of-agents-for-gst.md"
+        },
+        {
+          "id": "opportunities-presented-by-grouping-provisions",
+          "title": "Opportunities presented by grouping provisions",
+          "path": "opportunities-presented-by-grouping-provisions.md"
+        },
+        {
+          "id": "other-special-rules-relating-to-agents",
+          "title": "Other special rules relating to agents",
+          "path": "other-special-rules-relating-to-agents.md"
+        },
+        {
+          "id": "outstanding-gst-and-credits",
+          "title": "Outstanding GST and credits",
+          "path": "outstanding-gst-and-credits.md"
+        },
+        {
+          "id": "procedure-for-formation",
+          "title": "Procedure for formation",
+          "path": "procedure-for-formation.md"
+        },
+        {
+          "id": "registration-of-branches",
+          "title": "Registration of branches",
+          "path": "registration-of-branches.md"
+        },
+        {
+          "id": "requirements-for-government-departments",
+          "title": "Requirements for government departments",
+          "path": "requirements-for-government-departments.md"
+        },
+        {
+          "id": "sharefarming-agreements",
+          "title": "Sharefarming agreements",
+          "path": "sharefarming-agreements.md"
+        },
+        {
+          "id": "special-rules-applying-to-associates",
+          "title": "Special rules applying to associates",
+          "path": "special-rules-applying-to-associates.md"
+        },
+        {
+          "id": "supplies-and-acquisitions",
+          "title": "Supplies and acquisitions",
+          "path": "supplies-and-acquisitions.md"
+        },
+        {
+          "id": "trusts",
+          "title": "trusts",
+          "path": "trusts.md"
+        },
+        {
+          "id": "where-companies-amalgamate",
+          "title": "Where companies amalgamate",
+          "path": "where-companies-amalgamate.md"
+        },
+        {
+          "id": "why-the-need-for-special-rules-for-groups",
+          "title": "Why the need for special rules for groups?",
+          "path": "why-the-need-for-special-rules-for-groups.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-18",
+      "title": "Ch 18 — Administration, Audit and Review",
+      "sections": [
+        {
+          "id": "access-to-premises-documents-and-other-property",
+          "title": "Access to premises, documents and other property",
+          "path": "access-to-premises-documents-and-other-property.md"
+        },
+        {
+          "id": "alternative-dispute-resolution",
+          "title": "Alternative dispute resolution",
+          "path": "alternative-dispute-resolution.md"
+        },
+        {
+          "id": "appeals-from-art-decisions",
+          "title": "Appeals from ART decisions",
+          "path": "appeals-from-art-decisions.md"
+        },
+        {
+          "id": "appeals-from-federal-court-decisions",
+          "title": "Appeals from Federal Court decisions",
+          "path": "appeals-from-federal-court-decisions.md"
+        },
+        {
+          "id": "appeals-to-federal-court",
+          "title": "Appeals to Federal Court",
+          "path": "appeals-to-federal-court.md"
+        },
+        {
+          "id": "ato-data-collection-techniques",
+          "title": "ATO data collection techniques",
+          "path": "ato-data-collection-techniques.md"
+        },
+        {
+          "id": "ato-powers-and-taxpayer-rights",
+          "title": "ATO powers and taxpayer rights",
+          "path": "ato-powers-and-taxpayer-rights.md"
+        },
+        {
+          "id": "atos-compliance-focus",
+          "title": "ATO’s compliance focus",
+          "path": "atos-compliance-focus.md"
+        },
+        {
+          "id": "choosing-between-tribunal-and-federal-court",
+          "title": "Choosing between Tribunal and Federal Court",
+          "path": "choosing-between-tribunal-and-federal-court.md"
+        },
+        {
+          "id": "commissioners-rulings",
+          "title": "Commissioner’s rulings",
+          "path": "commissioners-rulings.md"
+        },
+        {
+          "id": "common-gst-errors",
+          "title": "Common GST errors",
+          "path": "common-gst-errors.md"
+        },
+        {
+          "id": "company-officers",
+          "title": "Company officers",
+          "path": "company-officers.md"
+        },
+        {
+          "id": "conduct-and-management-of-an-audit",
+          "title": "Conduct and management of an audit",
+          "path": "conduct-and-management-of-an-audit.md"
+        },
+        {
+          "id": "confidentiality-of-information",
+          "title": "Confidentiality of information",
+          "path": "confidentiality-of-information.md"
+        },
+        {
+          "id": "countering-the-shadow-economy",
+          "title": "Countering the “shadow economy”",
+          "path": "countering-the-shadow-economy.md"
+        },
+        {
+          "id": "decision-of-art",
+          "title": "Decision of ART",
+          "path": "decision-of-art.md"
+        },
+        {
+          "id": "decision-on-objection",
+          "title": "Decision on objection",
+          "path": "decision-on-objection.md"
+        },
+        {
+          "id": "discretionary-remission-of-penalties-and-gic",
+          "title": "Discretionary remission of penalties and GIC",
+          "path": "discretionary-remission-of-penalties-and-gic.md"
+        },
+        {
+          "id": "exchanging-gst-information-with-foreign-countries",
+          "title": "Exchanging GST information with foreign countries",
+          "path": "exchanging-gst-information-with-foreign-countries.md"
+        },
+        {
+          "id": "general-administration-of-gst",
+          "title": "General administration of GST",
+          "path": "general-administration-of-gst.md"
+        },
+        {
+          "id": "grounds-of-objection",
+          "title": "Grounds of objection",
+          "path": "grounds-of-objection.md"
+        },
+        {
+          "id": "gst-joint-venture-partners",
+          "title": "GST joint venture partners",
+          "path": "gst-joint-venture-partners.md"
+        },
+        {
+          "id": "information-gathering-powers",
+          "title": "Information-gathering powers",
+          "path": "information-gathering-powers.md"
+        },
+        {
+          "id": "legal-professional-privilege",
+          "title": "Legal professional privilege",
+          "path": "legal-professional-privilege.md"
+        },
+        {
+          "id": "members-of-a-gst-group",
+          "title": "Members of a GST group",
+          "path": "members-of-a-gst-group.md"
+        },
+        {
+          "id": "members-of-unincorporated-associations",
+          "title": "Members of unincorporated associations",
+          "path": "members-of-unincorporated-associations.md"
+        },
+        {
+          "id": "non-profit-sub-entities",
+          "title": "Non-profit sub-entities",
+          "path": "non-profit-sub-entities.md"
+        },
+        {
+          "id": "objections-to-commissioners-decisions",
+          "title": "Objections to Commissioner’s decisions",
+          "path": "objections-to-commissioners-decisions.md"
+        },
+        {
+          "id": "obligation-to-keep-records",
+          "title": "Obligation to keep records",
+          "path": "obligation-to-keep-records.md"
+        },
+        {
+          "id": "other-provisions-relating-to-penalties",
+          "title": "Other provisions relating to penalties",
+          "path": "other-provisions-relating-to-penalties.md"
+        },
+        {
+          "id": "overview-commissioners-powers",
+          "title": "Overview: Commissioner’s powers",
+          "path": "overview-commissioners-powers.md"
+        },
+        {
+          "id": "overview-of-gst-penalties",
+          "title": "Overview of GST penalties",
+          "path": "overview-of-gst-penalties.md"
+        },
+        {
+          "id": "overview-personal-liabilities",
+          "title": "Overview: personal liabilities",
+          "path": "overview-personal-liabilities.md"
+        },
+        {
+          "id": "partners",
+          "title": "Partners",
+          "path": "partners.md"
+        },
+        {
+          "id": "preparing-for-an-audit",
+          "title": "Preparing for an audit",
+          "path": "preparing-for-an-audit.md"
+        },
+        {
+          "id": "representatives-of-incapacitated-entities",
+          "title": "Representatives of incapacitated entities",
+          "path": "representatives-of-incapacitated-entities.md"
+        },
+        {
+          "id": "review-of-commissioners-discretion",
+          "title": "Review of Commissioner’s discretion",
+          "path": "review-of-commissioners-discretion.md"
+        },
+        {
+          "id": "review-of-objection-decisions-by-tribunal",
+          "title": "Review of objection decisions by Tribunal",
+          "path": "review-of-objection-decisions-by-tribunal.md"
+        },
+        {
+          "id": "role-of-gst-audits",
+          "title": "Role of GST audits",
+          "path": "role-of-gst-audits.md"
+        },
+        {
+          "id": "time-limit-for-lodging-an-objection",
+          "title": "Time limit for lodging an objection",
+          "path": "time-limit-for-lodging-an-objection.md"
+        },
+        {
+          "id": "trustees",
+          "title": "Trustees",
+          "path": "trustees.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-19",
+      "title": "Ch 19 — Contracts and Transitional Rules",
+      "sections": [
+        {
+          "id": "construction-contracts",
+          "title": "Construction contracts",
+          "path": "construction-contracts.md"
+        },
+        {
+          "id": "covering-gst-in-the-contract",
+          "title": "Covering GST in the contract",
+          "path": "covering-gst-in-the-contract.md"
+        },
+        {
+          "id": "cross-border-business-transactions",
+          "title": "Cross-border business transactions",
+          "path": "cross-border-business-transactions.md"
+        },
+        {
+          "id": "life-memberships-or-rights",
+          "title": "Life memberships or rights",
+          "path": "life-memberships-or-rights.md"
+        },
+        {
+          "id": "overview-transitional-rules",
+          "title": "Overview: transitional rules",
+          "path": "overview-transitional-rules.md"
+        },
+        {
+          "id": "progressive-or-periodical-supplies",
+          "title": "Progressive or periodical supplies",
+          "path": "progressive-or-periodical-supplies.md"
+        },
+        {
+          "id": "rights-exercisable-after-30-june-2000",
+          "title": "Rights exercisable after 30 June 2000",
+          "path": "rights-exercisable-after-30-june-2000.md"
+        },
+        {
+          "id": "timing-of-supply-and-acquisition",
+          "title": "Timing of supply and acquisition",
+          "path": "timing-of-supply-and-acquisition.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-20",
+      "title": "Ch 20 — Anti-Avoidance Rules",
+      "sections": [
+        {
+          "id": "first-requirement-there-must-be-a-scheme",
+          "title": "First requirement: there must be a scheme",
+          "path": "first-requirement-there-must-be-a-scheme.md"
+        },
+        {
+          "id": "fourth-requirement-reasonable-conclusion",
+          "title": "Fourth requirement: reasonable conclusion",
+          "path": "fourth-requirement-reasonable-conclusion.md"
+        },
+        {
+          "id": "imposition-of-penalty",
+          "title": "Imposition of penalty",
+          "path": "imposition-of-penalty.md"
+        },
+        {
+          "id": "injunctions-and-voluntary-undertakings",
+          "title": "Injunctions and voluntary undertakings",
+          "path": "injunctions-and-voluntary-undertakings.md"
+        },
+        {
+          "id": "powers-of-the-commissioner",
+          "title": "Powers of the Commissioner",
+          "path": "powers-of-the-commissioner.md"
+        },
+        {
+          "id": "promotion-of-tax-exploitation-scheme",
+          "title": "“Promotion” of “tax exploitation scheme”",
+          "path": "promotion-of-tax-exploitation-scheme.md"
+        },
+        {
+          "id": "second-requirement-there-must-be-a-gst-benefit",
+          "title": "Second requirement: there must be a GST benefit",
+          "path": "second-requirement-there-must-be-a-gst-benefit.md"
+        },
+        {
+          "id": "summary-of-scheme-promoter-rules",
+          "title": "Summary of scheme promoter rules",
+          "path": "summary-of-scheme-promoter-rules.md"
+        },
+        {
+          "id": "the-general-anti-avoidance-provision",
+          "title": "The general anti-avoidance provision",
+          "path": "the-general-anti-avoidance-provision.md"
+        },
+        {
+          "id": "third-requirement-benefit-must-be-from-the-scheme",
+          "title": "Third requirement: benefit must be from the scheme",
+          "path": "third-requirement-benefit-must-be-from-the-scheme.md"
+        },
+        {
+          "id": "what-are-the-relevant-factors",
+          "title": "What are the relevant factors?",
+          "path": "what-are-the-relevant-factors.md"
+        },
+        {
+          "id": "what-attracts-the-anti-avoidance-rules",
+          "title": "What attracts the anti-avoidance rules?",
+          "path": "what-attracts-the-anti-avoidance-rules.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-21",
+      "title": "Ch 21 — Planning, Pricing and Cashflow",
+      "sections": [
+        {
+          "id": "effect-of-accounting-basis-on-cashflow",
+          "title": "Effect of accounting basis on cashflow",
+          "path": "effect-of-accounting-basis-on-cashflow.md"
+        },
+        {
+          "id": "failure-to-disclose-gst-in-price",
+          "title": "Failure to disclose GST in price",
+          "path": "failure-to-disclose-gst-in-price.md"
+        },
+        {
+          "id": "impact-on-cashflow",
+          "title": "Impact on cashflow",
+          "path": "impact-on-cashflow.md"
+        },
+        {
+          "id": "other-factors-affecting-cashflow",
+          "title": "Other factors affecting cashflow",
+          "path": "other-factors-affecting-cashflow.md"
+        },
+        {
+          "id": "pricing-in-the-cash-economy",
+          "title": "Pricing in the cash economy",
+          "path": "pricing-in-the-cash-economy.md"
+        },
+        {
+          "id": "some-other-planning-issues",
+          "title": "Some other planning issues",
+          "path": "some-other-planning-issues.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-22",
+      "title": "Ch 22 — Wine Equalisation Tax",
+      "sections": [
+        {
+          "id": "application-to-own-use",
+          "title": "Application to own use",
+          "path": "application-to-own-use.md"
+        },
+        {
+          "id": "calculating-wet-and-taxable-value",
+          "title": "Calculating WET and taxable value",
+          "path": "calculating-wet-and-taxable-value.md"
+        },
+        {
+          "id": "certain-retail-sales",
+          "title": "Certain retail sales",
+          "path": "certain-retail-sales.md"
+        },
+        {
+          "id": "form-of-quoting",
+          "title": "Form of quoting",
+          "path": "form-of-quoting.md"
+        },
+        {
+          "id": "grounds-for-claiming-wet-tax-credits",
+          "title": "Grounds for claiming WET tax credits",
+          "path": "grounds-for-claiming-wet-tax-credits.md"
+        },
+        {
+          "id": "local-entry-of-imported-wine",
+          "title": "Local entry of imported wine",
+          "path": "local-entry-of-imported-wine.md"
+        },
+        {
+          "id": "notional-wholesale-selling-price",
+          "title": "Notional wholesale selling price",
+          "path": "notional-wholesale-selling-price.md"
+        },
+        {
+          "id": "outline-of-wet",
+          "title": "Outline of WET",
+          "path": "outline-of-wet.md"
+        },
+        {
+          "id": "paying-wet",
+          "title": "Paying WET",
+          "path": "paying-wet.md"
+        },
+        {
+          "id": "quoting-on-a-dealing",
+          "title": "Quoting on a dealing",
+          "path": "quoting-on-a-dealing.md"
+        },
+        {
+          "id": "removal-from-customs-clearance-area",
+          "title": "Removal from customs clearance area",
+          "path": "removal-from-customs-clearance-area.md"
+        },
+        {
+          "id": "summary-of-assessable-dealings",
+          "title": "Summary of assessable dealings",
+          "path": "summary-of-assessable-dealings.md"
+        },
+        {
+          "id": "summary-of-exemptions",
+          "title": "Summary of exemptions",
+          "path": "summary-of-exemptions.md"
+        },
+        {
+          "id": "what-is-a-wet-credit",
+          "title": "What is a WET credit?",
+          "path": "what-is-a-wet-credit.md"
+        },
+        {
+          "id": "what-is-wine",
+          "title": "What is wine?",
+          "path": "what-is-wine.md"
+        },
+        {
+          "id": "wholesale-sales",
+          "title": "Wholesale sales",
+          "path": "wholesale-sales.md"
+        },
+        {
+          "id": "wine-producer-rebate",
+          "title": "Wine producer rebate",
+          "path": "wine-producer-rebate.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-23",
+      "title": "Ch 23 — Luxury Car Tax",
+      "sections": [
+        {
+          "id": "accounting-for-lct",
+          "title": "Accounting for LCT",
+          "path": "accounting-for-lct.md"
+        },
+        {
+          "id": "calculating-luxury-car-tax",
+          "title": "Calculating luxury car tax",
+          "path": "calculating-luxury-car-tax.md"
+        },
+        {
+          "id": "lct-value-and-lct-threshold",
+          "title": "LCT value and LCT threshold",
+          "path": "lct-value-and-lct-threshold.md"
+        },
+        {
+          "id": "liability-for-luxury-car-tax",
+          "title": "Liability for luxury car tax",
+          "path": "liability-for-luxury-car-tax.md"
+        },
+        {
+          "id": "luxury-cars",
+          "title": "Luxury cars",
+          "path": "luxury-cars.md"
+        },
+        {
+          "id": "overview-of-lct",
+          "title": "Overview of LCT",
+          "path": "overview-of-lct.md"
+        },
+        {
+          "id": "quoting-an-abn",
+          "title": "Quoting an ABN",
+          "path": "quoting-an-abn.md"
+        },
+        {
+          "id": "refund-for-primary-producers-and-tourist-operators",
+          "title": "Refund for primary producers and tourist operators",
+          "path": "refund-for-primary-producers-and-tourist-operators.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-24",
+      "title": "Ch 24 — Income Tax and FBT",
+      "sections": [
+        {
+          "id": "acquisitions-used-to-provide-fringe-benefits",
+          "title": "Acquisitions used to provide fringe benefits",
+          "path": "acquisitions-used-to-provide-fringe-benefits.md"
+        },
+        {
+          "id": "changes-in-planned-business-usage",
+          "title": "Changes in planned business usage",
+          "path": "changes-in-planned-business-usage.md"
+        },
+        {
+          "id": "effect-of-gst-on-capital-gains-tax",
+          "title": "Effect of GST on capital gains tax",
+          "path": "effect-of-gst-on-capital-gains-tax.md"
+        },
+        {
+          "id": "fringe-benefits-and-gst",
+          "title": "Fringe benefits and GST",
+          "path": "fringe-benefits-and-gst.md"
+        },
+        {
+          "id": "gst-and-income-tax",
+          "title": "GST and income tax",
+          "path": "gst-and-income-tax.md"
+        },
+        {
+          "id": "gst-is-not-assessable",
+          "title": "GST is not assessable",
+          "path": "gst-is-not-assessable.md"
+        },
+        {
+          "id": "other-special-rules",
+          "title": "Other special rules",
+          "path": "other-special-rules.md"
+        },
+        {
+          "id": "payments-of-net-gst-in-returns",
+          "title": "Payments of net GST in returns",
+          "path": "payments-of-net-gst-in-returns.md"
+        },
+        {
+          "id": "tax-deductions-for-gst-start-up-costs",
+          "title": "Tax deductions for GST start-up costs",
+          "path": "tax-deductions-for-gst-start-up-costs.md"
+        },
+        {
+          "id": "whether-gst-component-of-price-is-deductible",
+          "title": "Whether GST component of price is deductible",
+          "path": "whether-gst-component-of-price-is-deductible.md"
+        }
+      ]
+    },
+    {
+      "id": "ch-25",
+      "title": "Ch 25 — GST Checklists and GST Terms",
+      "sections": [
+        {
+          "id": "accommodation-and-residence",
+          "title": "Accommodation and residence",
+          "path": "accommodation-and-residence.md"
+        },
+        {
+          "id": "charities-and-non-profit-organisations",
+          "title": "Charities and non-profit organisations",
+          "path": "charities-and-non-profit-organisations.md"
+        },
+        {
+          "id": "common-commercial-transactions",
+          "title": "Common commercial transactions",
+          "path": "common-commercial-transactions.md"
+        },
+        {
+          "id": "contingent-gst-dates",
+          "title": "Contingent GST dates",
+          "path": "contingent-gst-dates.md"
+        },
+        {
+          "id": "e-commerce",
+          "title": "E-commerce",
+          "path": "e-commerce.md"
+        },
+        {
+          "id": "entertainment-and-culture",
+          "title": "Entertainment and culture",
+          "path": "entertainment-and-culture.md"
+        },
+        {
+          "id": "exempt-or-concessional-transactions",
+          "title": "Exempt or concessional transactions",
+          "path": "exempt-or-concessional-transactions.md"
+        },
+        {
+          "id": "gst-free-supplies",
+          "title": "GST-free supplies",
+          "path": "gst-free-supplies.md"
+        },
+        {
+          "id": "health-and-care",
+          "title": "Health and care",
+          "path": "health-and-care.md"
+        },
+        {
+          "id": "input-taxed-supplies",
+          "title": "Input taxed supplies",
+          "path": "input-taxed-supplies.md"
+        },
+        {
+          "id": "key-gst-concepts-rates-and-thresholds",
+          "title": "Key GST concepts, rates and thresholds",
+          "path": "key-gst-concepts-rates-and-thresholds.md"
+        },
+        {
+          "id": "motor-vehicles",
+          "title": "Motor vehicles",
+          "path": "motor-vehicles.md"
+        },
+        {
+          "id": "primary-producers",
+          "title": "Primary producers",
+          "path": "primary-producers.md"
+        },
+        {
+          "id": "professions",
+          "title": "Professions",
+          "path": "professions.md"
+        },
+        {
+          "id": "restaurants-cafes-and-caterers",
+          "title": "Restaurants, cafes and caterers",
+          "path": "restaurants-cafes-and-caterers.md"
+        },
+        {
+          "id": "retailers",
+          "title": "Retailers",
+          "path": "retailers.md"
+        },
+        {
+          "id": "schools-and-higher-education",
+          "title": "Schools and higher education",
+          "path": "schools-and-higher-education.md"
+        },
+        {
+          "id": "small-businesses",
+          "title": "Small businesses",
+          "path": "small-businesses.md"
+        },
+        {
+          "id": "summary-of-gst-terms",
+          "title": "Summary of GST terms",
+          "path": "summary-of-gst-terms.md"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2019/2
+Consolidation: churning of joining entities
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+LCR 2019/2EC
+.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+6
+Where multiple entities join the consolidated group
+8
+Example 1 - 100% owned subsidiary
+12
+Example 2 - 70% owned subsidiary
+17
+Associates of the control entity
+22
+Example 3 - associate-inclusive control
+26
+Relief for post-acquisition restructures within 12 months
+32
+Example 4 - post-acquisition restructures within 12 months
+34
+Arrangements which may seek to exploit the relief from the churning measure for post-acquisition restructures within 12 months
+42
+Relying on this Ruling
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953
+.
+If this Ruling applies to you, and you correctly rely on it in good faith, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+Further, if we think that this Ruling disadvantages you, we may apply the law in a way that is more favourable to you.
+What this Ruling is about
+1. This Ruling provides guidance on the churning measure
+[1]
+in section 716-440 of the
+Income Tax Assessment Act 1997
+(ITAA 1997).
+[2]
+2. All legislative references in this Ruling are to the ITAA 1997 unless otherwise indicated.
+3. The churning measure switches off certain entry tax cost setting rules
+[3]
+(as specified in subsection 716-440(3)) when a joining entity becomes a subsidiary member of a consolidated group where:
+(a)
+a foreign resident entity ceased to hold membership interests in:
+•
+the joining entity, or
+•
+a higher level entity which holds membership interests in the joining entity directly or through one or more interposed entities and which becomes a member of the consolidated group at the same time
+[4]
+,
+within the period starting 12 months before the joining time and ending immediately after the joining time (test period)
+(b)
+a capital gain or capital loss (if any) made by the foreign resident entity would be disregarded because of the operation of Division 855
+[5]
+, and
+(c)
+there has been no change in the majority economic ownership of the joining entity throughout the test period.
+4. The Explanatory Memorandum to the Treasury Laws Amendment (Income Tax Consolidation Integrity) Bill 2018 (the EM) contains a detailed outline of the measure in paragraphs 1.173 to 1.191.
+5. This Ruling supplements the EM by providing:
+(a)
+practical examples on the application of subsections 716-440(4) and (5)
+(b)
+a practical example on the 'associate-inclusive' total participation interests requirements in paragraphs 716-440(1)(f) and (g)
+(c)
+a practical example on relief for post-acquisition restructures within 12 months, and
+(d)
+a warning on the potential application of the general anti-avoidance provisions of Part IVA of the
+Income Tax Assessment Act 1936
+(ITAA 1936) in relation to artificial or contrived arrangements designed to exploit the 12-month test period in paragraph 716-440(1)(b).
+Date of effect
+6. This Ruling applies in relation to an income year in respect of an entity that becomes a subsidiary member of a consolidated group or multiple entry consolidated (MEC) group under an arrangement that commences on or after 7.30pm, by legal time in the Australian Capital Territory, on 14 May 2013 unless paragraph 7 of this Ruling applies.
+7. The extension of the control test to cover participation interests of associates, as discussed in paragraphs 22 to 31 of this Ruling will only apply to an arrangement that commences on or after the start of the day on 15 February 2018.
+[6]
+Where multiple entities join the consolidated group
+8. Subsection 716-440(1) sets out the conditions to be satisfied in order for the entry tax cost setting rules, as they apply to a joining entity's assets, to be switched off under subsection 716-440(3).
+9. One of these conditions requires a disposing entity to cease holding membership interests in the:
+(a)
+joining entity, or
+(b)
+a higher level entity which holds membership interests in the joining entity directly or through one or more interposed entities and which becomes a member of the consolidated group or MEC group
+[7]
+at the same time,
+during the test period that starts 12 months before the joining time and ends immediately after the joining time (the 'ceasing to hold' condition).
+[8]
+10. A membership interest means each interest or set of interests, or each right or set of rights, in relation to an entity by virtue of which another entity is a member.
+11. The purpose of the 'ceasing to hold' condition applying to membership interests in a higher level entity is to ensure that the entry tax cost setting rules are switched off in respect of the assets of all joining entities with linked membership interests when multiple entities join a consolidated group or MEC group at the same time.
+Example 1 - 100 % owned subsidiary
+12.
+On 1 July 2017, FP Co (a foreign resident company) beneficially owns all of the membership interests in NH Co, HL Co and PHC Co respectively. HL Co, in turn, beneficially owns all of the membership interests in JE Co.
+13.
+NH Co, HL Co, PHC Co and JE Co are all Australian resident companies. HL Co, PHC Co and JE Co are members of a MEC group. NH Co is not a member of a consolidated group or MEC group.
+14.
+On 1 September 2018, FP Co disposed of all of its membership interests in HL Co to NH Co. As a result, CGT event A1 happened and FP Co makes a capital gain which is disregarded under Division 855. It is reasonable to conclude that throughout the test period there were no other changes to the beneficial ownership of membership interests in NH Co, HL Co, PHC Co and JE Co.
+15.
+Upon NH Co becoming the beneficial owner of all of the membership interests in HL Co, NH Co makes a choice to form a consolidated group with effect from 1 September 2018 (the joining time) consisting of NH Co, HL Co and JE Co (the NH Co consolidated group) and notifies the ATO of this choice.
+16.
+The conditions in subsection 716-440(1) are satisfied for both HL Co and JE Co in this example. The following analysis focuses on the application of the churning rule to JE Co:
+•
+Paragraph 716-440(1)(a) is satisfied as JE Co (the joining entity) became a subsidiary member of a consolidated group (the NH Co consolidated group) at the joining time.
+•
+Paragraph 716-440(1)(b) is modified by subsection 716-440(5) because:
+•
+HL Co (the higher level entity) holds membership interests in JE Co (the joining entity)
+[9]
+, and
+•
+HL Co becomes a subsidiary member of the NH Co consolidated group at the joining time.
+[10]
+•
+As such, subsection 716-440(5) operates to extend the condition in paragraph 716-440(1)(b) to include a reference to FP Co ceasing to hold membership interests in HL Co and, because FP Co ceased to hold the membership interests in HL Co during the period starting 12 months before the joining time and ending immediately after the joining time (the 'test period'), paragraph 716-440(1)(b) is satisfied.
+•
+Paragraphs 716-440(1)(c) and (d) are satisfied as CGT event A1 happened as a result of FP Co ceasing to hold membership interests in HL Co and the resulting capital gain was disregarded under Division 855.
+•
+Paragraph 716-440(1)(e) is satisfied because, if the churning measure did not apply, the entry tax cost setting rules would have applied to reset the tax cost of JE Co's assets at the joining time.
+[11]
+•
+Paragraph 716-440(1)(f) is satisfied as, throughout the test period, FP Co (the control entity) held total participation interests of 50% or more in JE Co.
+•
+Paragraph 716-440(1)(g) is not relevant in this example as FP Co is the control entity and the disposing entity.
+Example 2 - 70% owned subsidiary
+17.
+On 1 May 2017, FP Co (a foreign resident company) beneficially owns all of the membership interests in NH Co, HL Co and PHC Co respectively. HL Co, in turn, owns 70% of the membership interests in JE Co. The remaining 30% of the membership interests in JE Co are owned by NH Co.
+18.
+HL Co, PHC Co and JE Co are all Australian resident companies. HL Co and PHC Co are members of a MEC group. NH Co is a wholly owned Australian resident subsidiary of FP Co but sits outside the MEC group.
+19.
+On 1 July 2018, FP Co disposed of all of its membership interests in HL Co to NH Co. As a result, CGT event A1 happened and FP Co makes a capital gain which is disregarded under Division 855. It is reasonable to conclude that throughout the test period there were no other changes to the beneficial ownership of membership interests in NH Co, HL Co and JE Co.
+20.
+Upon NH Co becoming the beneficial owner of all of the membership interests in HL Co, NH Co makes a choice to form a consolidated group with effect from 1 July 2018 (the joining time) consisting of NH Co, HL Co and JE Co (the NH Co consolidated group) and notifies the ATO of this choice.
+21.
+The conditions in subsection 716-440(1) are satisfied for both HL Co and JE Co in this example. The following analysis focuses on the application of the churning rule to JE Co:
+•
+Paragraph 716-440(1)(a) is satisfied as JE Co (the joining entity) became a subsidiary member of a consolidated group (the NH Co consolidated group) at the joining time.
+•
+Paragraph 716-440(1)(b) is modified by subsection 716-440(5) because:
+-
+HL Co (the higher level entity) holds 70% of the membership interests in JE Co (the joining entity)
+[12]
+-
+HL Co becomes a subsidiary member of the NH Co consolidated group at the joining time.
+[13]
+•
+As such, subsection 716-440(5) operates to extend the condition in paragraph 716-440(1)(b) to include a reference to FP Co ceasing to hold membership interests in HL Co and, because FP Co ceased to hold the membership interests in HL Co during the period starting 12 months before the joining time and ending immediately after the joining time (the 'test period'), paragraph 716-440(1)(b) is satisfied.
+•
+Paragraphs 716-440(1)(c) and (d) are satisfied as CGT event A1 happened as a result of FP Co ceasing to hold membership interests in HL Co and the resulting capital gain was disregarded under Division 855.
+•
+Paragraph 716-440(1)(e) is satisfied because, if the churning measure did not apply, the entry tax cost setting rules would have applied to reset the tax cost of JE Co's assets at the joining time.
+•
+Paragraph 716-440(1)(f) is satisfied as, throughout the test period, FP Co (the control entity) maintained a total participation interest of at least 50% in JE Co.
+•
+Paragraph 716-440(1)(g) is not relevant in this example as FP Co (the control entity) is the disposing entity.
+Associates of the control entity
+22. The operation of paragraphs 716-440(1)(f) and 716-440(1)(g) are outlined in the EM at paragraphs 1.179 to 1.181. As noted at paragraph 1.189 of the EM, the extension of the control test in these paragraphs to include participation interests held by associates (of a relevant control entity) applies in respect of arrangements (under which the entity becomes a subsidiary member of a consolidated or MEC group) that commence on and after 15 February 2018.
+23. The test in paragraph 716-440(1)(f) requires that throughout the period mentioned in paragraph 716-440(1)(b)
+'the sum of the *total participation interests held by an entity (the
+control entity)
+and its *associates in the joining entity was 50% or more'
+The period mentioned in paragraph 716-440(1)(b) is the period beginning 12 months before the joning time and ending immediately after the joining time.
+24. If the control entity is
+not
+the disposing entity, then the test in paragraph 716-440(1)(g) applies. This test requires the sum of the total participation interests held by the control entity and its associates in the disposing entity to be 50% or more at the time the CGT event happened.
+25. The term 'associate' takes its meaning from section 318 of the ITAA 1936. In this context, the control entity's associates may include:
+•
+another entity
+[14]
+which exercises sufficient influence over
+[15]
+, or holds a majority voting interest in
+[16]
+, the control entity, and
+•
+another company that the control entity exercises sufficient influence over,
+[17]
+or holds a majority voting interest in.
+[18]
+Example 3 - associate-inclusive control
+26.
+On 1 September 2018, Foreign Co 1, Foreign Co 2 and Foreign Co 3 (all foreign resident companies) beneficially own all of the membership interests in Aus Co. Aus Co is an Australian resident company.
+27.
+The membership interests in Foreign Co 1, Foreign Co 2 and Foreign Co 3 are all owned by a foreign family.
+28.
+On 1 October 2019, Foreign Co 1, Foreign Co 2 and Foreign Co 3 jointly incorporate an Australian resident company, New Co.
+29.
+On 1 October 2019, Foreign Co 1, Foreign Co 2 and Foreign Co 3 dispose of the membership interests in Aus Co to New Co. CGT event A1 happens to each of Foreign Co 1, Foreign Co 2 and Foreign Co 3 and each company makes a capital gain that is disregarded under Division 855. It is reasonable to conclude that throughout the test period there were no other changes to the beneficial ownership of membership interests in Aus Co.
+30.
+New Co makes a choice to form a consolidated group with Aus Co (the New Co consolidated group) with effect from 1 October 2019 (the joining time) and notifies the ATO of that choice.
+31.
+The conditions in subsection 716-440(1) are satisfied in this example. That is:
+•
+Paragraph 716-440(1)(a) is satisfied as Aus Co became a subsidiary of a consolidated group (the New Co consolidated group) at the joining time.
+•
+Paragraph 716-440(1)(b) is satisfied as Foreign Co 1, Foreign Co 2 and Foreign Co 3 all ceased to hold membership interests in Aus Co during the period starting 12 months before the joining time and ending immediately after the joining time (the 'test period').
+•
+Paragraphs 716-440(1)(c) and (d) are satisfied as CGT event A1 happened as a result of Foreign Co 1, Foreign Co 2 and Foreign Co 3 ceasing to hold membership interests in Aus Co and the resulting capital gain was disregarded under Division 855.
+•
+Paragraph 716-440(1)(e) is satisfied because, if the churning measure did not apply, the entry tax cost setting rules would have applied to reset the tax cost of Aus Co's assets at the joining time.
+•
+Paragraph 716-440(1)(f) is satisfied as, throughout the test period, the total participation interests held by each of the control entities and their associates in Aus Co remained the same, taking into account the following factors:
+-
+Foreign Co 1, Foreign Co 2 and Foreign Co 3 are each associates of each other because they are collectively controlled by the same foreign family
+[19]
+-
+from the start of the test period to just before the joining time, 100% of the total participation interests in Aus Co were jointly held by Foreign Co 1, Foreign Co 2 and Foreign Co 3
+-
+immediately after the joining time, the sum of the indirect participation interests (held through New Co), and therefore the sum of the total participation interests held by Foreign Co 1, Foreign Co 2 and Foreign Co 3 in Aus Co was 100%
+-
+at all relevant times each of Foreign Co 1, Foreign Co 2 and Foreign Co 3 is a control entity and a disposing entity because at those times the sum of the total participation interests held by each of those entities and their associates was 100% (disregarding any particular direct participation interest or particular indirect participation interest that could be taken into account more than once
+[20]
+).
+•
+Paragraph 716-440(1)(g) is not relevant because each of Foreign Co 1, Foreign Co 2 and Foreign Co 3 is a control entity and a disposing entity.
+Relief for post-acquisition restructures within 12 months
+32. As stated at paragraph 23 of this Ruling, the test in paragraph 716-440(1)(f) requires that it must be reasonable to conclude that an entity (the control entity) and its associates held (collectively) total participation interests of 50% or more in the joining entity
+throughout
+the period that started 12 months before the joining time and ended immediately after the joining time.
+33. The condition in paragraph 716-440(1)(f) ensures that the churning measure does
+not
+apply, when it otherwise would, where it is reasonable to conclude that 50% or more of the participation interests in the joining entity have not been held by an entity (the control entity) and its associates throughout the 12-month period ending immediately after the joining time.
+[21]
+The condition reflects Recommendation 5.6 of the Board of Taxation's June 2012 Report. As explained in the Report, the churning measure should not apply where the ownership of a newly acquired joining entity is restructured within 12 months of it first becoming majority (50% or more) owned by an entity and its associates.
+[22]
+Example 4 - post-acquisition restructure within 12 months
+34.
+On 1 July 2019, the Head Co consolidated group consists of two Australian resident companies, Head Co and Acquirer Co. At the same time, Foreign Co, a foreign resident subsidiary of Foreign Parent Co, owns all of the membership interests in Target Co, an Australian resident company having acquired all of these membership interests on 1 July 2018. Foreign Parent Co and Foreign Co are unrelated to the Head Co consolidated group.
+35.
+On 1 February 2020, Head Co acquired all the membership interests in Foreign Co from (unrelated third party) Foreign Parent Co.
+36.
+On 1 May 2020, Foreign Co disposed of all of its membership interests in Target Co to Acquirer Co. As a result, CGT event A1 happens and Foreign Co makes a capital gain which is disregarded under Division 855.
+37.
+At the time Acquirer Co became the owner of all of the membership interests in Target Co, Target Co became a subsidiary member of the Head Co consolidated group.
+38.
+Applying the churning conditions (other than paragraph 716-440(1)(f)) in subsection 716-440(1):
+•
+Paragraph 716-440(1)(a) is satisfied as Target Co became a subsidiary member of a consolidated group (the Head Co consolidated group) at a time (1 May 2020).
+•
+Paragraph 716-440(1)(b) is satisfied as Foreign Co ceased to hold membership interests in Target Co on 1 May 2020, which is during the period - the test period is a period of 12 months ending just after the joining time of 1 May 2020.
+•
+Paragraphs 716-440(1)(c) and (d) are satisfied as CGT event A1 happened as a result of Foreign Co ceasing to hold membership interests in Target Co and the resulting capital gain was disregarded under Division 855.
+•
+Paragraph 716-440(1)(e) is satisfied as, if the churning measure did not apply, the tax cost of Target Co's assets would be reset under the consolidation entry tax cost setting rules.
+39.
+The control entity can be any entity that owns direct or indirect participation interests in the joining entity. In this example, both Head Co and Foreign Co can be regarded as a control entity for the purposes of paragraph 716-440(1)(f). However, paragraph 716-440(1)(f) is not satisfied in respect of either control entity in this example.
+40.
+This is because throughout the 12-month test period (beginning 1 May 2019 and ending immediately after the joining time on 1 May 2020), Head Co together with its associates did not hold total participation interests of 50% or more in Target Co.
+41.
+Foreign Co holds participation interests of 50% or more until just before the joining time, but does not hold any participation interest immediately after the joining time. Paragraph 716-440(1)(f) is not considered to be satisfied where Head Co was not an associate of Foreign Co for the first part of the test period (from 1 May 2019 to 1 February 2020). This conclusion is consistent with the policy articulated in the Board of Taxation's June 2012 Report and the EM that the churning measure should not apply where there has been a change in the majority economic ownership of the joining entity within 12 months of the joining time.
+Arrangements which may seek to exploit the relief from the churning measure for post-acquisition restructures within 12 months
+42. Another situation where the condition in paragraph 716-440(1)(f) would not be satisfied (such that the churning measure would not apply) is where, for example:
+•
+a foreign resident top company of an existing MEC group acquires or creates an entity as an eligible tier-1 entity of the MEC group (ET Co), and
+•
+ET Co acquires Australian assets that have been held for more than 12 months from other members of the first MEC group (which would be disregarded by the single entity rule), and
+•
+ET Co later joins another consolidated group or MEC group of the same controlling group within 12 months of its acquisition or creation.
+43. When the foreign resident top company transfers ET Co to the other consolidated group or MEC group, the controlling group may benefit from the application of Division 855. Even if the majority underlying economic ownership of those Australian assets by the controlling group has not changed for more than 12 months, the controlling group may also benefit from an uplift in the tax cost of ET Co's Australian assets. In effect, the controlling group can uplift the tax
+cost
+of those Australian assets where there has been no change in their underlying ownership and without recognising a capital gain from the transfer to the joining entity.
+[23]
+44. In such circumstances, the requirements of paragraph 716-440(1)(f) would not be satisfied because that condition focuses on the ownership of participation interests in the joining entity and not the assets of the joining entity.
+45. However, where a controlling group enters into such an asset transfer arrangement with a newly acquired or created entity and obtains a benefit under Division 855 and the tax cost setting rules, the application of Part IVA would be carefully considered if the restructure is not motivated by commercial reasons but is entered into for the dominant purpose of enabling the relevant taxpayer to obtain a tax benefit. Where Part IVA applies to such restructure, the Commissioner may make a determination, under section 177F of the ITAA 1936, to cancel any tax benefit obtained in connection with it.
+Commissioner of Taxation
+17 July 2019
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+This measure reflects Recommendation 5.6 of the
+Post-Implementation Review into Certain Aspects of the Consolidation Regime
+(Board of Taxation 2012,
+Post-Implementation Review into Certain Aspects of the Consolidation Regime - A Report to the Assistant Treasurer
+, Board of Taxation) (the Board of Taxation's June 2012 Report).
+[2]
+Section 716-440 was inserted by the
+Treasury Laws Amendment (Income Tax Consolidation Integrity) Act 2018
+.
+[3]
+The switching-off of specified entry tax cost setting rules do not include the cost setting rule under section 715-375 in respect of an amount of liability that is a Division 230 financial arrangement.
+[4]
+For example, where a consolidated group is acquired by another consolidated group or multiple entities linked by membership interests are acquired by a consolidated group.
+[5]
+Where the amount of the capital gain or capital loss is nil, the churning measure would still apply if Division 855 would have applied to disregard an amount if there had been a capital gain or loss (subparagraph 716-440(1)(d)(ii)).
+[6]
+The date on which Treasury Laws Amendment (Income Tax Consolidation Integrity) Bill 2018 (that contained the churning measure) was introduced into the House of Representatives.
+[7]
+By operation of section 719-2, section 716-440 applies to a MEC group in the same way it applies to a consolidated group.
+[8]
+Paragraph 716-440(1)(b), as modified by subsection 716-440(5) where relevant.
+[9]
+Paragraph 716-440(4)(a).
+[10]
+Paragraph 716-440(4)(b).
+[11]
+It is noted that there is an obvious drafting error in paragraph 716-440(1)(e), which refers to subsection 716-440(2). It should be read as if instead referred to subsection 716-440(3).
+[12]
+Paragraph 716-440(4)(a).
+[13]
+Paragraph 716-440(4)(b).
+[14]
+In this context, an 'entity' takes its meaning from section 960-100 of the ITAA 1997.
+[15]
+Subparagraph 318(2)(d)(i) of the ITAA 1936.
+[16]
+Subparagraph 318(2)(d)(ii) of the ITAA 1936.
+[17]
+Subparagraph 318(2)(e)(i) of the ITAA 1936.
+[18]
+Subparagraph 318(2)(e)(ii) of the ITAA 1936.
+[19]
+Paragraphs 318(2)(d) and 318(2)(e) of the ITAA 1936.
+[20]
+Subsection 716-440(2) ensures that a particular direct participation interest or a particular indirect participation interest is not counted more than once.
+[21]
+See paragraphs 1.173 and 1.179 of the EM.
+[22]
+See paragraphs 5.47 to 5.49.
+[23]
+This is the concern identified in paragraph 5.41 of the Board of Taxation's June 2012 Report.
+Previously released in draft format as LCR 2018/D3
+References
+ISSN: 2209-1297
+Business Line:
+PG
+Legislative References:
+ITAA 1936
+ITAA 1936 177F
+ITAA 1936 318
+ITAA 1936 318(2)(d)(i)
+ITAA 1936 318(2)(d)(ii)
+ITAA 1936 318(2)(e)(i)
+ITAA 1936 318(2)(e)(ii)
+ITAA 1936  Pt IVA
+ITAA 1997
+ITAA 1997 Div 230
+ITAA 1997 715-375
+ITAA 1997 716-440
+ITAA 1997 716-440(1)
+ITAA 1997 716-440(1)(a)
+ITAA 1997 716-440(1)(b)
+ITAA 1997 716-440(1)(c)
+ITAA 1997 716-440(1)(d)
+ITAA 1997 716-440(1)(d)(ii)
+ITAA 1997 716-440(1)(e)
+ITAA 1997 716-440(1)(f)
+ITAA 1997 716-440(1)(g)
+ITAA 1997 716-440(2)
+ITAA 1997 716-440(3)
+ITAA 1997 716-440(4)
+ITAA 1997 716-440(4)(a)
+ITAA 1997 716-440(4)(b)
+ITAA 1997 716-440(4)(c)
+ITAA 1997 716-440(5)
+ITAA 1997 719-2
+ITAA 1997 Div 855
+ITAA 1997 960-100
+TAA 1953
+Treasury Laws Amendment (Income Tax Consolidation Integrity) Act 2018
+Other References:
+Explanatory Memorandum to the Treasury Laws Amendment (Income Tax Consolidation Integrity) Bill 2018
+Board of Taxation 2012, Post-Implementation Review into Certain Aspects of the Consolidation Regime - A Report to the Assistant Treasurer, Board of Taxation
+Board of Taxation 2010, Post-Implementation Review into Certain Aspects of the Consolidation Regime - Position Paper, Board of Taxation
+Back to top

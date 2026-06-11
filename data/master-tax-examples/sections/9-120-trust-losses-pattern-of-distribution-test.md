@@ -1,0 +1,25 @@
+---
+act: "Australian Master Tax Examples"
+part: "9"
+section: "9-120-trust-losses-pattern-of-distribution-test"
+title: "9-120 - Trust losses pattern of distribution test"
+paragraph: "None"
+---
+
+# 9-120 - Trust losses pattern of distribution test
+
+Worked example: Trust losses; pattern of distribution test Issue During the year ended 30 June 2020, the Davidson Family discretionary trust derived trust income of $290,000 and capital of $150,000. Brian Ross acting as trustee of the Davidson Trust distributed income to the Davidson family beneficiaries — Peter 30%, Geraldine 45% and Lenny 25% respectively. The capital beneficiaries to whom the capital gain is streamed comprised Phillip 40%, Colin 40% and Claire 20%.
+
+During the year ended 30 June 2021, the trust incurred a trading loss of $350,000 and a capital loss of $200,000 due to a downturn in the economy. Subsequently, the business was restructured and placed under new management which gradually returned it to profitability deriving a profit of $500,000 by the year ended 30 June 2025. The trustee subsequently made income distributions to Peter 20%, Geraldine 25% and Lenny 55% in the 2024–25 tax year. The trustee also made distributions of capital to Phillip 30%, Colin 60% and Claire 10% during this period.
+
+Apply the pattern of distributions test to determine whether the trust losses can be absorbed.
+
+Solution The pattern of distributions test applies to non-fixed trusts and applies independently to both income and capital. Broadly ITAA36 Sch 2F s 269-60 requires that the same group of individuals must have received (directly or indirectly) distributions of more than 50% of both income and capital of the trust in a year before the loss year, the income year the loss is recouped and any intervening years over a 7-year period (see also ITAA36 Sch 2F s 269-65(1)). The test only applies if a non-fixed trust has distributed income or capital in the year in which the previous year tax loss is to be claimed (or within 2 months of the year end) and a distribution of income or capital was made in one of the previous 6 years.
+
+The ITAA36 s 269-60 test requires that the trust must have distributed more than 50% of any distributions of income or capital either directly or indirectly to the same individuals for their own benefit in each year during the test period. As the test is separately applied to income and capital distributions, capital distributions need not be made to the same individuals who received income distributions when applying the greater than 50% criteria. Consequently, where the income and capital beneficiaries differ as in this case, the test needs to be satisfied twice.
+
+To comply with ITAA36 s 269-70 requires beneficiaries who receive different percentages of income and capital distributions in different years, to take into account the smallest percentage of such distributions.
+
+Consequently, in applying the pattern of distribution test to the Davidson Trust it is necessary to compare income distributions made in the 2020 and 2025 tax years since during the test period these are the only years in which distributions were made. The lowest percentage of income distributions in these 2 years will be the percentage of distributions taken into account: Beneficiary                                2019–20 tax year                             2024–25 tax year             Lowest percentage Peter                                      30%                                          20%                          20% Geraldine                                  45%                                          25%                          25% Lenny                                      25%                                          55%                          25% Total income                               100%                                         100%                         70% Phillip                                    40%                                          30%                          30% Colin                                      40%                                          60%                          40% Claire                                     20%                                          10%                          10% Total capital                              100%                                         100%                             80% Based on the above table, the trust passes the pattern of distributions test as 70% of the same persons received income distributions over the test period (ie 70% > 50%). The trading loss of $350,000 for the year ended 30 June 2021 can be carried forward to be offset against trust income of the 2024–25 tax year or future years. Likewise, the test is also passed for the capital distributions over the test period (ie 80% > 50%) and the capital loss of $200,000 for the year ended 30 June 2021 can be carried forward to be offset against trust capital for the 2024–25 tax year or future years.
+
+*Refs: s 269-60, s 269-65(1)), ITAA36 s 269-60, ITAA36 s 269-70*

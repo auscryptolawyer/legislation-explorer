@@ -1,0 +1,1050 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+20 related documents
+Practical Compliance Guideline
+PCG 2021/4
+Allocation of professional firm profits - ATO compliance approach
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+There is a Compendium for this document:
+PCG 2021/4EC
+.
+Table of Contents
+Paragraph
+What this Guideline is about
+1
+Date of effect
+17
+Definitions
+20
+How to use this Guideline
+21
+Application
+28
+Arrangements to which this Guideline applies
+30
+Income of the firm that is not personal services income
+34
+Part IVA and this Guideline
+36
+Gateway 1 – commercial rationale
+39
+Gateway 2 – high-risk features
+47
+Financing arrangements relating to non-arm's length transactions
+50
+Example 1 – financing arrangements relating to non-arm's length transactions
+51
+Exploitation of the difference between accounting standards and tax law
+52
+Example 2 – amortising an intangible asset
+54
+Arrangements that are materially different in principle to Everett and Galland
+55
+Example 3 – non-equity partner assigns income
+57
+Multiple classes of shares and units held by non-equity holders
+58
+Gateway 2 – summary
+60
+The risk assessment framework
+65
+How to risk assess your arrangement
+70
+Part-time IPPs
+71
+Remuneration
+72
+Fringe benefits tax
+73
+Other relevant considerations
+74
+Risk assessment scoring table
+76
+Risk zones
+77
+Explanation of the risk assessment factors
+82
+Risk assessment factor 1 – proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+82
+Risk assessment factor 2 – effective tax rate
+84
+Example 4 – calculation of effective tax rate
+87
+Example 5 – calculation of effective tax rate where IPP has firm-related deductions
+94
+IPP's superannuation contributions received by a fund that may or may not be an associated entity
+95
+Risk assessment factor 2 and fringe benefits tax
+97
+Example 6 – calculation of effective tax rate where IPP has reportable fringe benefits
+98
+Risk assessment factor 3 – appropriate remuneration
+100
+The ATO's compliance approach
+106
+Evidencing your self-assessment
+111
+Transitional arrangements
+112
+Who to contact
+120
+Appendix - Case studies
+122
+Case study 1 – IPP disposes of 45% of partnership interest
+124
+Case study 2 – IPP disposes of 40% of partnership interest and receives service trust income
+130
+Case study 3 – IPP disposes of 35% of partnership interest
+135
+Case study 4 – IPP disposes of 35% of partnership interest and has a jointly-held negatively-geared rental property
+140
+Case study 5 – IPP is a trustee partner
+147
+Case study 6 – IPP returns 100% of the profit received after a less profitable year
+152
+Case study 7 – IPP disposes of 40% of partnership interest and assesses against the appropriate remuneration factor
+155
+Case study 8 – IPP disposes of 40% of partnership interest
+159
+Case study 9 – IPP disposes of 50% of partnership interest
+163
+Case study 10 – IPP in a company firm structure
+167
+Case study 11 – IPP in a company firm structure
+173
+Case study 12 – IPP trades via a trust structure
+177
+Relying on this Guideline
+This Practical Compliance Guideline sets out a practical administration approach to assist taxpayers in complying with relevant tax laws. Provided you follow this Guideline in good faith, the Commissioner will administer the law in accordance with this approach.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal database
+(ato.gov.au/law)
+to check its currency and to view the details of all changes.]
+What this Guideline is about
+1. This Guideline sets out the ATO's compliance approach to the allocation of profits or income from professional firms in the assessable income of the individual professional practitioner (IPP).
+2. This Guideline is concerned with whether there is a risk that income earned by an IPP is not appropriately taxed to the IPP. The approach assists the ATO to differentiate risk in order to tailor our engagement. It uses 2 'gateways' and a risk assessment framework of objective factors to rate IPP arrangements as low (green), moderate (amber) or high (red) risk. Analysis of the facts and circumstances of individual arrangements in the high and moderate risk zones would then be undertaken to determine investment of compliance resources where appropriate.
+3. Historically, most professional firms were partnerships of natural persons. Professional firms are now structured in a variety of ways, reflecting the economic and legal choices made by owners of those firms. This Guideline uses the term 'professional firm' to refer to all business structures providing professional services. In some cases, these structures may be used in ways that give rise to different tax consequences and resulting tax compliance risks.
+4. The ATO is concerned about arrangements involving taxpayers who redirect their income to an associated entity from a business or activity which includes their professional services where it has the effect of significantly reducing their tax liability.
+5. The use of companies, trusts and other business structures do not of themselves give rise to avoidance concerns. Further, the profit generated by the business may not be wholly generated by the individual and there may also be good non-tax reasons as to why the IPP receives significantly less of the business' profits than would otherwise be the case. However, the use of those structures can provide the IPP with an opportunity to redirect income from them. When the business involves the provision of services, we will be concerned with arrangements where the compensation received by the individual is artificially low while associated entities benefit (or the individual ultimately benefits) and commercial reasons do not justify the arrangement.
+6. Our concern increases the more the actual return to the IPP is linked to the individual performance of the IPP during the year in question (as contrasted to a given share of the overall profit of the professional firm, a share which may increase over time as the partner's contribution to the partnership accumulates) but is not reflected in the actual direct compensation to the individual. At an extreme, the overall remuneration arrangements of an IPP may reflect that the role is more akin to a highly paid employee (with bonus entitlements or remuneration at risk) rather than a partner in a professional firm. In this case, our concern is that the partnership structure may be used to provide artificial tax advantages.
+7. The Commissioner's view is that the profit or income of a professional firm may comprise different components, reflecting a mixture of income from the efforts, labour and application of skills of the firm's IPPs (that is, personal exertion) and income generated by the business structure.
+8. We are aware that in some cases, professional firm income has been treated as being derived from a business structure, even though the source of that income remains, (to a significant extent) the provision of professional services by one or more individuals. In that context, we may look to apply Part IVA of the
+Income Tax Assessment Act 1936
+(ITAA 1936)
+[1]
+where income is redirected away from the individuals, despite the existence of a business structure.
+9. This Guideline explains the ATO's risk-based approach to IPPs and how their professional firms allocate profits. The application of Part IVA requires consideration of the matters identified in subsection 177D(2). A consideration of Part IVA would go beyond the gateways, including, for example, an IPP's profit allocation arrangement. It is only after having passed the gateways in this Guideline that an IPP (or the firm more generally) can assess their risk rating under this Guideline. The Commissioner will use the 'risk assessment factors' in this Guideline to determine whether there is cause to allocate compliance resources to structures or transactions after gateways have been satisfied.
+10. The Guideline only applies if the 2 gateways are passed:
+•
+We expect there to be a
+sound commercial rationale
+for entering into and operating the arrangement or structure - see paragraphs 39 to 46 of this Guideline.
+•
+There
+must not be certain 'high-risk features'
+- see paragraphs 47 to 59 of this Guideline.
+11. Where an IPP's circumstances pass Gateways 1 and 2, the risk assessment framework explained in this Guideline may be used by the IPP and the ATO to understand whether further attention may be given to the arrangement.
+12. Where an IPP's circumstances do not pass Gateways 1 and 2, the risk assessment framework is not available to them. If you need advice on how the law applies to you, you can submit an
+Early engagement advice request
+.
+13. Overall, schemes which are designed to ensure that the IPP is not directly rewarded for the services they provide to the business, or receives a reward which is substantially less than the value of those services, are considered high risk by the ATO. Where an IPP attempts to alienate amounts of income flowing from their personal exertion (as opposed to income generated by the business structure), the Commissioner will consider applying the anti-avoidance provisions under Part IVA or other integrity rules - see paragraphs 36 to 38 of this Guideline.
+14. This Guideline does not replace, alter or affect the operation of the law in any way. It does not relieve you of your legal obligation to comply with all relevant tax laws or create any safe harbour administrative concessions. This Guideline is not a technical analysis of the judicial decisions in this area.
+15. The ATO is continuing work to identify taxpayers whose circumstances fall outside of this Guideline or who wish to nominate themselves as a test case to obtain further judicial guidance.
+16. This Guideline does not replace, alter or affect the ATO view as expressed in public rulings and other publications. A list of related public rulings is contained in the References section of this Guideline.
+Date of effect
+17. This Guideline applies from 1 July 2022.
+18. The use and application of this Guideline will be reviewed from and during the 2022-23 income year.
+19. For discussion of transitional arrangements, see paragraphs 112 to 119 of this Guideline.
+Definitions
+20. Definitions of certain terms used in this Guideline are:
+•
+An 'individual professional practitioner' (IPP) is an individual who provides services to clients of the firm, or to the firm itself, in circumstances where the IPP or associated entities have a legal or beneficial interest in the firm.
+•
+'Personal services income' (PSI) is income earned mainly as a result of personal efforts or skills of the IPPs, rather than being generated by assets or employees of the firm and is dealt with under the PSI rules in Part 2-42 of the
+Income Tax Assessment Act 1997.
+•
+'Professional firms' offer customised, knowledge-based services to clients in a variety of professions which include, but are not limited to, accounting, architecture, engineering, financial services, law, medicine and management consulting.
+•
+A 'professional' is a member of a recognised profession. For a discussion of the term 'profession', see paragraph 33 of this Guideline.
+How to use this Guideline
+21. The framework in this Guideline will be used to differentiate risk and tailor our engagement with IPPs.
+22. IPPs may use this Guideline to:
+•
+determine the level of risk regarding your profit allocation arrangement based on the risk assessment framework
+•
+determine the level of engagement that you can expect from us based on your assessment of the risk regarding your arrangement, or
+•
+support your application for binding advice about how the law applies to you.
+23. This Guideline is designed to give you confidence that, if your circumstances align with the low-risk rating set out in this Guideline, we will generally not allocate compliance resources to test the relevant tax outcomes of your arrangement.
+24. If we do undertake a review of your arrangement, our starting point will be the contemporaneous documentation substantiating the arrangement you have applied.
+25. We expect you to annually assess your eligibility to apply this Guideline. If you want to apply this Guideline, we expect you to document your assessment of, and also to review, your eligibility as your business or arrangement changes.
+26. This Guideline is limited to the risks associated with the allocation of profits within professional firms. It does not affect our compliance approach to other tax issues that might arise in connection with your professional firm arrangements – for example, whether Division 7A of Part III applies to an arrangement within the IPP's group. If we consider that your arrangement poses a risk under other tax provisions, the Commissioner may apply compliance resources to address those risks.
+27. For an explanation of the arrangements to which this Guideline applies, see paragraphs 30 to 33 of this Guideline.
+Application
+28. This Guideline applies if all of the following criteria are met:
+•
+an IPP provides professional services to clients of the firm or is actively involved in the management of the firm and, in either case, the IPP or associated entities have a legal or beneficial interest in the firm
+•
+the income of the firm is not subject to the PSI rules
+•
+the firm operates by way of a legally-effective structure – for example, structures including partnerships, trusts and/or companies
+•
+an IPP is an equity holder, directly or through an associated entity
+•
+the arrangement is commercially driven – that is, it satisfies Gateway 1, and
+•
+the firm and IPP do not demonstrate any high-risk features; that is, Gateway 2 is satisfied.
+29. However, if all of the criteria in paragraph 28 of this Guideline are not satisfied, this Guideline is not appropriate in your circumstances. If you need advice on how the law applies to you, you can submit an
+Early engagement advice request
+.
+Arrangements to which this Guideline applies
+30. The ATO recognises there is a wide variety of businesses of all sizes where equity holders contribute to the business through the provision of their skilled labour. However, this Guideline only formally applies to tax compliance risks arising from the particular commercial and regulatory contexts for professional firm arrangements. That said, other similar businesses may find this Guideline useful in understanding whether their income or profit allocation arrangements may attract the attention of the ATO.
+31. This Guideline applies to relevant arrangements within professional firms including, but not limited to, those providing services in the accounting, architectural, engineering, financial services, legal, medical and management consulting professions.
+32. This Guideline does not apply to professions where the IPP is not permitted to provide services through an entity but must provide those services directly.
+33. A professional is a member of a recognised profession. The term 'profession' is not defined by tax legislation. For the purpose of this Guideline, the Australian Council of Professions provides useful reference for defining a profession.
+[2]
+From this guidance, we consider the following as indicators of a professional:
+•
+those who are required to be accredited and adhere to ethical guidelines in order to enter into and maintain practice in the relevant field
+•
+those who are accepted by the public as possessing special knowledge and skills in a widely recognised body of learning, derived from research, education and training at a high level and who are prepared to apply this knowledge and exercise these skills in the interest of others
+•
+their behaviour and practice are beyond the personal moral obligations of an individual
+•
+they uphold a high standard of behaviour in respect to the services provided to the public and in dealing with professional colleagues.
+Income of the firm that is not personal services income
+34. This Guideline only applies where an IPP has received an amount of income from a practice which generates its income from a business carried on in a business structure that is not subject to the PSI regime.
+35. For the purposes of determining whether income earned by an IPP from a professional practice is PSI, the ATO will continue to apply the views set out in its existing rulings.
+[3]
+Part IVA and this Guideline
+36. We consider that Part IVA may apply to schemes which are designed to ensure that the IPP is not appropriately rewarded for the services they provide to the business or receives a reward which is substantially less than the value of those services in order to reduce the tax payable on their overall economic return. Where an IPP attempts to alienate amounts of income flowing from their personal exertion (as opposed to income generated by the business structure), the ATO may consider the application of the anti-avoidance provisions under Part IVA.
+37. The application of anti-avoidance provisions depends on a broad survey of the circumstances in each case. Just because a Gateway is not satisfied, or the arrangement is in the higher risk zone (red zone), does not necessarily mean Part IVA applies. The relevance of failing a Gateway, or being in the red zone (or the amber zone), is that the Commissioner is likely to give closer attention to the individual facts and circumstances of the arrangement, including a deeper consideration of whether anti-avoidance provisions apply.
+38. Where an audit team is considering the potential application of Part IVA, there are various procedures and safeguards that the ATO has put in place to ensure a consistent approach to Part IVA, including the General Anti-Avoidance Rules (GAAR) panel. Reference should be had to Law Administration Practice Statement PS LA 2005/24
+Application of General Anti-Avoidance Rules.
+Gateway 1 – commercial rationale
+39. Gateway 1 considers whether the implemented arrangement and the way in which it operates are commercially driven. This means there must be a genuine commercial basis for the arrangement and also for the way in which profits are distributed.
+40. There must be a genuine commercial rationale for the arrangement for all parties involved and the arrangement must achieve that end. The arrangement should reflect the commercial needs of the business. For example, the arrangement is likely to enhance, assist or improve the business' ability to produce income or make profits or the commercial benefits asserted to be achieved by the arrangement are justified.
+41. There must be evidence that the stated commercial purpose was achieved as a result of the arrangement. For example, the mere assertion of 'asset protection' for an IPP is not sufficient if the arrangement does not actually provide improved asset protection. The ATO considers it is best practice to record the commercial rationale for the decision to adopt the arrangements used and for the way in which profits are distributed.
+42. Where there are aspects of the arrangement that would not be expected to be present in a more straightforward or commercial dealing, there must be a commercial rationale for the arrangement.
+43. The legal form and documentation must be consistent with the economic substance of how the professional firm operates in practice. The presence of discrepancies may indicate artifice or contrivance in the manner in which the arrangement is carried out. For example, arrangements that are not legitimately implemented or are operating in a manner contrary to or outside the scope of the relevant constituent documents would not adequately demonstrate a commercial rationale for the arrangement. We may consider other documents, such as internal management documents, procedures and practices as well as the firm's constituent documents, in our analysis.
+44. When considered in its entirety, any change in tax performance, absent any other non-tax related practical changes, is a strong indicator of a lack of commercial rationale for the arrangement.
+45. Indicators to the Commissioner that an arrangement lacks a sound commercial rationale include:
+•
+The arrangement seems more complex than is necessary to achieve the relevant commercial objective.
+•
+The arrangement includes a step, or a series of steps, that appears to serve no real purpose other than to gain a tax advantage – for example
+-
+transactions which interpose an entity to access a tax benefit
+-
+intra-group or related-party dealings that merely produce a tax result, or
+-
+arrangements involving a circularity of funds or no real money.
+•
+The tax result of the arrangement appears at odds with its commercial or economic result – for example, a tax loss is claimed for what was a profitable commercial venture or transaction.
+•
+The arrangement results in little or no risk in circumstances where significant risks would normally be expected – for example
+-
+use of non-recourse or limited recourse loans which limit the parties' risk or actual detriment in relation to debts or investments
+-
+arrangements where the taxpayer's risk is significantly limited because of the existence – for example, of a 'put' option.
+•
+The parties to the arrangement are operating on non-commercial terms or in a non-arm's length manner – for example
+-
+financial arrangements made on unusual terms, such as interest rates above or below market rates, insufficient security or deferment of repayment of the loan until the end of a lengthy repayment period
+-
+transactions which do not occur at market rates or value.
+•
+There is a gap between the substance of what is being achieved under the arrangement (or any part of it) and the legal form it takes - for example, arrangements where a series of transactions taken together produce no economic gain or loss, such as where the whole scheme is self-cancelling.
+46. There must also be a genuine commercial basis for the way in which profits are distributed between the IPP and related parties, especially in the form of remuneration paid. Relevant considerations are whether:
+•
+The IPP actually receives an amount of the profits or income which reflects a reward for their personal efforts or skill and reflects an appropriate return for the services they provide.
+•
+An IPP's return in a given period is linked in whole or part to their personal performance in that period (rather than the performance of the overall firm) and whether their direct remuneration reflects that linkage.
+•
+The income has been distributed in substance.
+•
+The IPP ultimately benefits from the distribution of income to associated entities, which is referrable to the personal efforts or skill of the IPP.
+•
+The remuneration is less than a true commercial comparable and would not be perceived as an arm's length payment.
+•
+There are loan accounts relevant to the arrangement, including whose name those accounts are in and whether they are aware of the loans.
+•
+The payment recipients have
+-
+control in managing the entity's cash flows and financials
+-
+use and enjoyment of the money or it is in fact predominantly for the IPP's use and enjoyment.
+Gateway 2 – high-risk features
+47. If, after considering Gateway 1, you conclude that your arrangement is commercially driven, you must then assess whether your arrangement contains any high-risk features, such as those arrangements covered by a Taxpayer Alert. We also consider the following as potentially high-risk features:
+•
+financing arrangements relating to non-arm's length transactions
+•
+exploitation of the difference between accounting standards and tax law
+•
+arrangements where a partner assigns a portion of a partnership interest that is materially different in principle from
+Taxation, Commissioner of (Cth) v Everett
+[1980] HCA 6 (
+Everett
+) and
+Commissioner of Taxation (Cth) v Galland
+[1986] HCA 83 (
+Galland
+)
+•
+multiple classes of shares and units held by non-equity holders.
+48. [Omitted.]
+49. These features are described in more detail in paragraphs 50 to 59 of this Guideline.
+Financing arrangements relating to non-arm's length transactions
+50. The Commissioner considers arrangements with related parties generally involve a greater level of potential tax compliance risk. The Commissioner does not accept there is a commercial purpose when an associated entity of the IPP utilises finance to acquire an existing portion of the IPP's equity interest in a professional firm. Therefore, financing arrangements involving associated entities that give rise to a tax benefit are considered high risk.
+Example 1 – financing arrangements relating to non-arm's length transactions
+51.
+An IPP disposes of a portion of their interest in a professional firm to an associated discretionary trust which borrows money from a bank to pay for the transaction. The borrowing is secured and guaranteed by the IPP as an individual. The trust obtains a deduction for the interest paid on the borrowing. The IPP uses the money received from the trust for the interest in the firm to pay off mortgage debt on their primary residence. The effect of this financing arrangement is to convert non-deductible debt to deductible debt through the use of a non-arm's length transaction.
+Exploitation of the difference between accounting standards and tax law
+52. The ATO has identified arrangements that create artificial differences between taxable income and accounting income. Some arrangements create differences which are exploited to have the income assessed to individuals or businesses that pay little or no tax while allowing others to enjoy the economic benefits.
+53. Work-in-progress and employee leave provisions would not ordinarily give rise to any concern under this factor.
+Example 2 – amortising an intangible asset
+54.
+An IPP may utilise the different treatment between accounting and tax for amortising an intangible asset (for example, the assigned portion of the IPP's interest in the firm). Pursuant to accounting standards, the intangible asset should be tested for impairment or amortisation each year. Where the book cost exceeds the net realisable value, the asset should be impaired. The impairment or amortisation is a non-cash accounting expense and does not give rise to a tax deduction. This will likely generate a situation where there is a difference (not otherwise being a temporary difference) between the taxable income, the accounting income and the cash available for distribution resulting in the ability to distribute the taxable income to certain entities, with the cash being distributed by other means to other entities.
+Arrangements that are materially different in principle to Everett and Galland
+55. The Commissioner considers the following arrangements to be materially different in principle to
+Everett
+and
+Galland
+where a partner assigns a portion of their partnership interest:
+•
+arrangements purporting to admit an individual as a partner, where the individual is not an owner or equity holder in the partnership, and
+•
+arrangements where the IPP's relationship has characteristics indicating their relationship with the partnership is akin to a contractor or employee.
+56. Factors we consider may indicate there has been a departure from
+Everett
+and
+Galland
+include but are not limited to:
+•
+indemnification of non-owner/non-equity holders by equity partners against any professional liability in respect of actions against the partnership
+•
+a fixed draw or salary, particularly where there is limited or no exposure (without indemnification) to the risks and benefits associated with the performance of the partnership as to the payment of that draw or salary, and
+•
+a lack of rights to full participation in management and the benefits of the partnership, relative to other partners.
+Example 3 – non-equity partner assigns income
+57.
+An individual is made a non-equity partner in a professional firm. The non-equity partner is not required to make a capital contribution, has a fixed draw component of $130,000, and has no right to vote or participate in the management of the firm. The non-equity partner undertakes an Everett assignment of their income to their family discretionary trust. The ATO does not consider this arrangement to be in line with the principles in Everett and Galland. In these circumstances, this Guideline does not apply.
+Multiple classes of shares and units held by non-equity holders
+58. The ATO considers the issuing of multiple classes of shares in a company or units in a unit trust in a professional firm, without the accompanying voting rights, to be a high-risk feature due to the potential for alienation of income by professionals that are non-owner or non-equity holders in a structure. Further, the discretionary nature of these shares or units is usually linked to the personal performance of the non-owner or non-equity holder in order to receive any distribution or dividends.
+59. An example is a dividend access share arrangement which pays dividends, at the discretion of the directors of the firm, to the dividend access shareholders or unit holders (who are associated entities of a professional who is not an owner or equity holder). The entitlement to receive any distribution or dividends is linked to the personal performance of the non-owner/non-equity holder.
+Gateway 2 – summary
+60. The ATO considers the arrangements in paragraphs 50 to 59 of this Guideline illustrate high-risk features. We would expect the IPP to engage with the ATO where any of these features appear in their arrangement.
+61. The ATO signals its concerns about particular arrangements to the public by releasing Taxpayer Alerts. If you have arrangements which are similar to, or the subject of, a Taxpayer Alert, you should contact the ATO prior to applying this Guideline. A complete list of
+Taxpayer Alerts
+is available on our Legal database.
+62. The high-risk features outlined in paragraphs 50 to 59 of this Guideline are not exhaustive and will be subject to amendment and addition as the ATO becomes aware of further high-risk arrangements.
+63. The absence of any published guidance on a specific arrangement or a variation on an arrangement does not mean that the ATO accepts or endorses that arrangement or variation or the underlying tax consequences.
+64. [Omitted.]
+The risk assessment framework
+65. The Commissioner's compliance approach will vary depending on the risk rating of your allocation of profit arrangement. The following principles will assist you to understand how the Commissioner assesses risk in relation to allocation of profit arrangements and generally allow you to assess your compliance risk.
+66. This Guideline adopts a risk assessment methodology made up of 3 risk zones (low, moderate and high) to assess your profit allocation arrangement. The risk zone applicable to your arrangement is determined by combining your scores for each of the 3 risk assessment factors in paragraph 76 of this Guideline. In most cases, it is only necessary to consider the first 2 risk assessment factors, but in some cases it may be appropriate to consider all 3. The risk zones are determined in paragraph 78 of this Guideline.
+67. If your arrangement does not have a low (green zone) risk rating (per paragraph 78 of this Guideline), we consider your arrangement, or your treatment of that arrangement, is at risk of giving rise to an inappropriate tax outcome. Therefore, we will generally conduct some form of compliance activity to understand the facts and circumstances of your arrangement and the resulting tax outcome.
+68. Where other compliance issues are present, the Commissioner may apply compliance resources to address those risks. Such issues could include but are not limited to:
+•
+cases of non-recognition of net capital gains
+•
+transfer mispricing
+•
+misuse of the superannuation system
+•
+promotion of schemes
+•
+failure to lodge returns or a history of late lodgment of returns
+•
+income injection to entities with carried-forward losses
+•
+the application of Division 7A of Part III
+•
+the application of section 100A
+•
+inappropriate access to low-income tax offsets or other benefits, and
+•
+non-tax advantages which are dependent on taxable income.
+69. Relying on this Guideline does not preclude the Commissioner from considering other compliance issues relevant to the IPP or their associated entities.
+How to risk assess your arrangement
+70. Where you satisfy Gateways 1 and 2, you may self-assess your risk level against each of the risk assessment factors described in paragraphs 82 to 105 of this Guideline. Your performance against that risk assessment factor has a corresponding score. The aggregate of your score against each risk assessment factor determines which risk zone you fall within.
+Part-time IPPs
+71. If you are a part-time IPP or only work part year, your assessment under risk assessment factor 2 should be made on a pro-rata basis. Part-time IPPs should adjust their profit allocation to a full-time equivalent in order to self-assess their level of risk.
+Remuneration
+72. All components of remuneration are to be included in your risk assessment (including cash, superannuation, fringe benefits and any other non-cash benefits).
+Fringe benefits tax
+73. Fringe benefits are included in your risk assessment as they form part of your overall remuneration. Where fringe benefits tax (FBT) is paid by the firm, the tax paid will be included in calculating the risk assessment factor.
+Other relevant considerations
+74. The Commissioner recognises there may be a number of other relevant factors pertaining to individual arrangements which will affect an IPP's self-assessed risk rating. These may include timing differences, retention of income within a firm in a particular year for commercial purposes, access to tax concessions and provisions including accelerated depreciation and instant asset write-off, and other extraordinary business factors.
+75. [Omitted.]
+Risk assessment scoring table
+76. The following table sets out the score for each risk assessment factor:
+Table 1: Score for each risk assessment factor
+Risk assessment factor
+Score of 1
+Score of 2
+Score of 3
+Score of 4
+Score of 5
+Score of 6
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+>90%
+>75% to ≤90%
+>60% to ≤75%
+≥50% to ≤60%
+>25% to <50%
+≤25%
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities
+[6]
+>40%
+>35% to ≤40%
+≥30% to ≤35%
+>25% to <30%
+>20% to ≤25%
+≤20%
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+>200%
+>150% to ≤200%
+>100% to ≤150%
+>90% to ≤100%
+>70% to ≤90%
+≤70%
+Risk zones
+77. You can self-assess your profit allocation arrangement using:
+•
+risk assessment factors 1 and 2 only, or
+•
+all 3 risk assessment factors.
+78. The following table sets out the risk rating depending on whether you risk assess against 2 factors or all 3 factors in the table at paragraph 76 of this Guideline:
+Table 2: Risk rating based on number factors used
+Risk zone
+Risk level
+Aggregate score against first 2 factors
+Aggregate of all 3 factors*
+Green
+Low risk
+≤7
+≤10
+Amber
+Moderate risk
+8
+11 & 12
+Red
+High risk
+≥9
+≥13
+*Note:
+The use of the third risk assessment factor is optional as we recognise that it is difficult to determine accurately.
+79. If using all 3 risk assessment factors, to be considered low risk (green zone), your score must be 10 or less.
+80. The first 2 risk assessment factors may be used (instead of all 3) where it is impractical to accurately determine an appropriate commercial remuneration against which to benchmark. To be considered low risk (green zone), in that circumstance, your aggregate score for those 2 factors must be 7 or less.
+81. Where an IPP returns 100% of the profit, there is no need to assess against the other risk factors. The arrangement is low risk because none of the income is diverted to other entities.
+Explanation of the risk assessment factors
+Risk assessment factor 1 - proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+82. Risk assessment factor 1 provides a score based on the proportion of the profit entitlement included in the IPP's assessable income to the total amount of income to which the IPP and their associated entities are collectively entitled (whether directly or indirectly) from the whole of firm group.
+83. Income from the whole of firm group will include the income from the service entity and other associated businesses to the firm to which the IPP or their associated entities are entitled.
+Risk assessment factor 2 - effective tax rate
+84. Risk assessment factor 2 provides a score based on the total effective tax rate paid by the IPP and their associated entities.
+85. The total effective tax rate is calculated using the following formula:
+Where:
+•
+total tax paid by the IPP and associated entities of the IPP on professional firm income is the larger of
+(a)
+the tax that would be payable on firm-related amounts (including income and associated deductions) assuming no other sources of income or deductions, or
+(b)
+the amount being the income tax paid for the year, less the amount which would be payable if firm-related amounts (including income and associated deductions) were disregarded.
+86. Your total effective tax rate is not the marginal rate applicable to the last dollar of income you derive. Rather, it is referrable to the average rate of tax paid across the entire income from the firm.
+Example 4 – calculation of effective tax rate
+87.
+An IPP receives $600,000 of firm income and pays $240,667 in tax (based on 2020-21 income tax rates) on this income. As the IPP has no other income or deductions, the IPP's total tax paid is the same under both subparagraphs (a) and (b) of paragraph 85 of this Guideline.
+88.
+Associate 1 of the IPP receives $100,000 of firm income and pays $22,967 in tax (based on 2020-21 income tax rates) on this income. As Associate 1 has no other income or deductions, Associate 1's total tax paid is the same under both subparagraphs (a) and (b) of paragraph 85 of this Guideline.
+89.
+Associate 2 of the IPP receives $100,000 of firm income and has $50,000 of other income. Under:
+(a)
+subparagraph 85(a) of this Guideline (tax payable on firm income only), the amount would be $22,967
+(b)
+subparagraph 85(b) of this Guideline, the amount would be $33,850. On all income ($150,000), Associate 2 would pay $40,567 in tax. If the firm income of $100,000 was disregarded, Associate 2 would have paid tax of $6,717. Associate 2 is therefore considered to have paid $33,850 on the $100,000 of firm income (being the difference between $40,567 and $6,717).
+As (b) is greater than (a), the amount for (b) of $33,850 is used as Associate 2's total tax paid.
+90.
+Associate 3 of the IPP receives $100,000 of firm income and has $50,000 of deductible donations. Under:
+(a)
+subparagraph 85(a) of this Guideline (tax payable on firm income only), the amount would be $22,967
+(b)
+subparagraph 85(b) of this Guideline, the amount would be $6,717. On all taxable income ($50,000), Associate 3 would pay $6,717 in tax. If the firm income of $100,000 was disregarded, Associate 3 would pay nil tax. Associate 3 is therefore considered to have paid $6,717 tax on the $100,000 of firm income (being the difference between $6,717 and nil).
+As (a) is greater than (b), the amount for (a) of $22,967 is used as Associate 3's total tax paid.
+91.
+Associate 4 of the IPP receives $100,000 of firm income and has $100,000 of carried forward losses. Under:
+(a)
+subparagraph 85(a) of this Guideline (tax payable on firm income only), the amount would be $22,967
+(b)
+subparagraph 85(b) of this Guideline, the amount would be nil. On all taxable income (nil), Associate 4 would pay nil tax. If the firm income was disregarded, Associate 4 would still pay nil tax.
+As (a) is greater than (b), the amount for (a) of $22,967 is used as Associate 4's total tax paid.
+92.
+Associate 5 receives $100,000 of firm income and has $100,000 in other income and $100,000 in other deductions and losses. Under:
+(a)
+subparagraph 85(a) of this Guideline (tax payable on firm income only), the amount would be $22,967
+(b)
+subparagraph 85(b) of this Guideline, the amount would be $22,967. On all taxable income ($100,000), Associate 5 would pay $22,967 in tax. If the firm income of $100,000 was disregarded, Associate 5 would pay nil tax. Associate 5 is therefore considered to have paid a total of $22,967 (being the difference between $22,967 and nil).
+As (a) is equal to (b), the amount of $22,967 is used as Associate 5's total tax paid.
+93.
+Therefore, for the IPP and their associates, the total effective tax rate is 33.3%, calculated as follows:
+Example 5 – calculation of effective tax rate where IPP has firm-related deductions
+94.
+An IPP receives $600,000 from the firm and has a $40,000 interest deduction in relation to a working capital loan made to the firm. The IPP also has $50,000 in other income unrelated to the firm. Under subparagraph 85(a) of this Guideline, tax is assessable on firm income of $560,000 only, and the tax on that income would be $222,667 (based on 2020-21 income tax rates). The tax payable on all income (of $610,000) would be $245,167. However, if the firm income was disregarded, the IPP would pay $6,717 in tax. Therefore, under subparagraph 85(b) of this Guideline, the IPP is considered to have paid a total of $238,450 (being the difference between $245,167 and $6,717). As (b) is greater than (a), the IPP has a total tax paid of $238,450.
+IPP's superannuation contributions received by a fund that may or may not be an associated entity
+95. An IPP's superannuation contributions are included, whether or not made by the firm, in the calculation for the purpose of the effective tax rate measure. This is because the amount would otherwise have flowed directly through to the IPP as a profit distribution, in the absence of a partnership of discretionary trust or other business structuring arrangement.
+96. Where these superannuation contributions are deductible to the IPP or the firm, they will be subject to tax in the hands of the superannuation fund at a rate of 15%. We will recognise the 15% tax paid as part of the calculations.
+Risk assessment factor 2 and fringe benefits tax
+97. Fringe benefits are included as they form part of the IPP's overall remuneration and part of their share of the firm's profits. Where FBT is paid by the firm, the tax paid will be included in calculating the risk assessment factor.
+Example 6 – calculation of effective tax rate where IPP has reportable fringe benefits
+98.
+An incorporated practice has 2 IPPs. IPP 1 receives their share of income as a salary totalling $200,000, and pays $60,667 in tax (based on 2020-21 income tax rates), resulting in an effective tax rate of 30.33%.
+99.
+IPP 2 receives $75,000 in salary and $75,000 in reportable fringe benefits. IPP 2 pays $14,842 in tax (based on 2020-21 income tax rates) resulting in an effective rate of 19.79% on the salary and FBT is paid on their reportable fringe benefits. The grossed up taxable value of the reportable fringe benefits is $156,015 (assuming they are Type 1 GST-creditable benefits - gross up rate 2.0802). The company pays FBT of $73,327.05 on these benefits provided (47%). This means that IPP 2 has:
+•
+total tax paid or payable equal to $88,169.05 on their remuneration and the grossed-up value of benefits provided ($14,842 + $73,327.05)
+•
+total remuneration of $231,015 ($75,000 + $156,015)
+•
+an effective tax rate of 38.17%.
+Risk assessment factor 3 - appropriate remuneration
+100. Risk assessment factor 3 requires consideration of the remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm.
+101. The IPP should receive assessable income from the firm in their own hands which reflects an appropriate return for the services they provide to the firm. To establish an appropriate benchmark you may consider, among other things:
+•
+employees within the firm who perform commensurate duties and have commensurate levels of responsibility
+•
+employees or principals in comparable firms, and
+•
+relevant industry benchmarks for the provision of equivalent or similar services.
+102. Where you do not have an immediately comparable rate of remuneration, the rate of remuneration being utilised to establish the benchmark should be adjusted to reflect differences in duties performed, responsibilities, personal risk and liability. Some relevant factors to consider for this purpose are:
+•
+the extent and nature of client interactions
+•
+the extent of involvement in business development
+•
+responsibility for the attraction and retention of clients and staff
+•
+responsibility for the supervision and performance management of professional staff and authorisation of work or advice
+•
+the extent of involvement in firm management decisions, including voting rights
+•
+the extent of involvement in the management of billings
+•
+the extent of involvement in the strategic direction of the firm
+•
+the extent of involvement in partner admissions
+•
+the extent of income which is at risk based on the performance of the firm
+•
+the extent of income which is at risk based on the performance of the IPP's team, and
+•
+the extent of income which is at risk based on the performance of the IPP.
+103. Benchmarking should reflect the market comparability of remuneration for the role, using a fact-based methodology. All components of remuneration are to be included (including cash, superannuation, fringe benefits and any other non-cash benefits) to reflect the true cost to the business of employing a comparable individual.
+104. The assessment of the appropriate remuneration benchmark must be reviewed annually.
+105. An acceptable benchmark may be established if the business approached an employment agency and negotiated remuneration based on the considerations outlined in paragraphs 101 and 102 of this Guideline. The remuneration agreed with the employment agency should provide a reasonable benchmark of the true value of hiring a comparable individual.
+The ATO's compliance approach
+106. We will assess your level of risk pursuant to the criteria set out in this Guideline.
+107. We will monitor outcomes for profit allocation arrangements to ensure there is no 'drift' to the limit of the green zone without commercial drivers. For example, where arrangements are in place such that the income from a firm results in 85% of profit entitlement being returned personally by an IPP over a period of time, and the operation of the arrangement changes, resulting in 55% of the profit entitlement being returned personally by the IPP, we may engage with you to determine the commercial rationale of this change, notwithstanding the arrangement may still result in a low risk assessment.
+108. [Omitted.]
+109. If you satisfy Gateways 1 and 2 outlined in this Guideline and your aggregate risk score is in the green zone, your arrangement will be treated by the ATO as low risk.
+110. You can expect the following treatment depending on your risk zone.
+Table 3: ATO treatment by risk zone
+Risk zone
+ATO treatment
+Green
+Low risk
+We will only apply compliance resources to review your allocation of profit in exceptional circumstances, such as where:
+•
+we are not satisfied your self-assessment is correct, or is adequately supported with evidence
+•
+we become concerned that higher-risk features are present in your arrangement
+•
+we become concerned, from our own data and analysis, that there is a change in your arrangement causing a shift towards the border of compliance
+•
+we become concerned that your broader arrangements present a compliance risk (for example, with Division 7A of Part III)
+•
+your arrangement relates to a broader set of circumstances being reviewed by us
+•
+changes to your arrangement may not have been appropriately treated or disclosed.
+Where there has been no material change, then we will generally only apply compliance resources to the arrangement to:
+•
+confirm your calculations were done according to this Guideline
+•
+confirm the absence of any exclusionary factors (for example, the high-risk features under Gateway 2)
+•
+provide binding advice where you request it, if you wish to obtain certainty.
+Amber
+Moderate risk
+We are likely to conduct further analysis on the facts and circumstances of your arrangement.
+We may contact you to understand the arrangement and resolve any areas of difference.
+Red
+High risk
+We will conduct further analysis on the facts and circumstances of your arrangement as a matter of priority.
+If further analysis confirms the facts and circumstances of your arrangement remain high risk, we may proceed to audit where appropriate.
+Evidencing your self-assessment
+111. We may fact-check your assessment of your profit allocation. If you are unable to provide evidence to support your assessment, we may undertake further compliance activity.
+Transitional arrangements
+112. We encourage willing and cooperative compliance and recognise that the publication of this Guideline may cause taxpayers to review their existing arrangements. Consequently, some taxpayers may modify their arrangements to prospectively come within the green zone.
+113. Taxpayers with pre-existing arrangements are able to continue to rely on the suspended
+Assessing the risk: allocation of profits within professional firms guidelines
+(Suspended Guidelines) (published on ato.gov.au in 2015) for the years ending 30 June 2018, 30 June 2019, 30 June 2020, 30 June 2021 and 30 June 2022, as long as their arrangement:
+•
+complies with those Suspended Guidelines
+•
+is commercially driven, and
+•
+does not exhibit any of the high-risk features outlined in paragraph 47 of this Guideline.
+114. In recognition that certain IPP's arrangements considered low risk under the Suspended Guidelines may have a higher risk rating under this Guideline, we are allowing a transitional period for those IPPs to continue to apply the Suspended Guidelines to their arrangements until 30 June 2024.
+115. If, upon reviewing your arrangements, it is identified that you are no longer low risk, and you wish to transition your arrangements to a lower risk zone, you can inform us of your intentions at any time. If you engage with us in good faith, this engagement will be on a 'without prejudice' basis.
+116. If you need advice about how the law will apply to you, including the tax consequences of any proposed restructure of your arrangements, you can submit an
+Early engagement advice request
+.
+117. We recognise that there will be different requirements for transition depending on the current arrangements of the IPP and their firm.
+118. Some arrangements will have flexibility and sufficient discretion in terms of distribution of firm income. For arrangements with these characteristics, compliance with this Guideline can be achieved by making suitable resolutions in relation to the distributions of income for the year ending 30 June 2025 and subsequent years.
+119. [Omitted.]
+Who to contact
+120. If you are considering restructuring in a way that may not be assessed as low risk pursuant to this Guideline and would like to mitigate your compliance risk or to obtain a greater level of certainty, we encourage you to engage with the ATO about your proposed restructure.
+121. You can submit an
+Early engagement advice request
+if you have questions on how the law applies to your particular circumstances.
+Commissioner of Taxation
+16 December 2021
+Appendix – Case studies
+122. The tax calculations in the following case studies are based on 2020-21 income tax rates.
+123. The case studies that feature trusts assume that the trust's distributable income is the same as the net income for tax purposes.
+Case study 1 – IPP disposes of 45% of partnership interest
+124.
+Nicolas is an IPP in a partnership. His total income entitlement from the partnership is $600,000. Nicolas has disposed of 45% of his partnership interest to an associated company.
+125.
+Nicolas returns 55% of the partnership income ($330,000) in his personal tax return. Nicolas's tax liability on this amount is $119,167.
+126.
+The company receives a total of $270,000 from the distribution and is liable for tax of $70,200 (26% of $270,000).
+127.
+Together Nicolas and the company have a total effective tax rate of 31.56%.
+128.
+The risk assessment is:
+Table 4: Risk assessment for Case study 1
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$330,000, or 55%, of Nicolas's profit entitlement from the partnership is returned by Nicolas personally.
+4
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020--21 income year)
+Nicolas pays tax of $119,167 on the $330,000 returned by him.
+The associated company pays tax of $70,200 on the $270,000 received by it, at a rate of 26%.
+[7]
+The calculation of total effective tax rate is as follows:
+The total effective tax rate is 31.56%.
+3
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Not applicable. Nicolas has determined that in the circumstances it is impractical to accurately determine an appropriate commercial remuneration to benchmark against and therefore his aggregate score is determined against the first 2 factors only.
+0
+129.
+The aggregate score of 7 places Nicolas' arrangement in the green zone (per paragraph 78 of this Guideline).
+Case study 2 – IPP disposes of 40% of partnership interest and receives service trust income
+130.
+Donald is an IPP in a partnership. The partnership has a service trust entity in its group that provides services to the partnership. Donald has disposed of 40% of his interest in the partnership to a discretionary trust. The beneficiary of the discretionary trust is an associated company. An adult individual associated with Donald is a beneficiary of the service trust.
+131.
+Donald's income entitlement from the partnership is $800,000. There is also an entitlement to $80,000 profit from the service trust. Therefore, the total profit entitlement is $880,000.
+132.
+Donald includes $480,000 of the partnership income in his tax return, the corporate beneficiary includes $320,000 in its tax return and the service trust income of $80,000 is distributed to the adult individual beneficiary.
+133.
+The risk assessment is:
+Table 5: Risk assessment for Case study 2
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$480,000, or 54.5%, of Donald's entitlement of $880,000 is returned by Donald personally.
+4
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+Donald pays tax of $186,667 on the $480,000 returned by him.
+The associated corporate beneficiary pays tax of $83,200 on the $320,000 it received.
+The individual beneficiary pays tax of $16,467 on their $80,000 distribution from the service trust.
+The calculation of total effective tax rate is:
+The total effective tax rate is 32.54%.
+3
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Not applicable. Donald has determined that in the circumstances it is impractical to accurately determine an appropriate commercial remuneration to benchmark against and therefore his aggregate score is determined against the first 2 factors only.
+0
+134.
+The aggregate score of 7 places Donald's arrangement in the green zone (per paragraph 78 of this Guideline).
+Case study 3 – IPP disposes of 35% of partnership interest
+135.
+Hilary is an IPP in a partnership and has disposed of 35% of her partnership interest to a discretionary trust. The beneficiary of the discretionary trust is an associated company. Hilary's total income entitlement from the partnership is $250,000.
+136.
+Hilary includes $162,500 (65%) from the partnership in her tax return. The tax liability on this is $45,192.
+137.
+The corporate beneficiary includes $87,500 (35%) in its tax return. The company's tax liability on this is $22,750.
+138.
+The risk assessment is:
+Table 6: Risk assessment for Case study 3
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$162,500, or 65%, of Hilary's entitlement of $250,000 is returned by Hilary personally.
+3
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+Hilary pays tax of $45,192 on the $162,500 returned by her.
+The corporate beneficiary pays tax of $22,750 on the $87,500 received by it.
+The calculation of total effective tax rate is:
+The total effective tax rate of 27.18% is used.
+4
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Not applicable. Hilary has determined that in the circumstances it is impractical to accurately determine an appropriate commercial remuneration to benchmark against and therefore her aggregate score is determined against the first two factors only.
+0
+139.
+The aggregate score of 7 places Hilary's arrangement in the green zone (per paragraph 78 of this Guideline).
+Case study 4 – IPP disposes of 35% of partnership interest and has a jointly-held negatively-geared rental property
+140.
+Bernie is an IPP in a partnership. Bernie has assigned 35% of his interest in the partnership to a discretionary trust. The beneficiaries of the discretionary trust include Bernie's spouse, Jane.
+141.
+Bernie's income entitlement from the partnership is $500,000.
+142.
+Bernie and Jane jointly (in equal shares) own a rental property which is negatively geared and which generated a net rental loss of $40,450.
+143.
+Bernie includes $325,000 (65% of the partnership income) in his tax return and the discretionary trust includes $175,000 (35% of the partnership income) as net income in the trust tax return. All of the trust income is distributed to Jane, who includes the $175,000 trust net income in her tax return.
+144.
+Bernie and Jane claim the rental loss equally – that is, $20,225 each. For the purposes of calculating the total effective tax rate, deductions not related to the professional income are disregarded.
+145.
+The risk assessment is:
+Table 7: Risk assessment for Case study 4
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$325,000, or 65%, of Bernie's entitlement of $500,000 is returned by Bernie personally.
+3
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+Bernie pays tax of $116,916 on the $325,000 returned by him.
+Jane pays tax of $49,817 on the $175,000 received by her (her rental loss of $20,225 is disregarded).
+The calculation of total effective tax rate is:
+The total effective tax rate is 33.35%.
+3
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Not applicable. Bernie has determined that in the circumstances it is impractical to accurately determine an appropriate commercial remuneration to benchmark against and therefore his aggregate score is determined against the first 2 factors only.
+0
+146.
+The aggregate score of 6 places Bernie's arrangement in the green zone (per paragraph 78 of this Guideline).
+Case study 5 – IPP is a trustee partner
+147.
+Frank is an IPP in a professional firm that operates as a partnership of discretionary trusts with three equal discretionary trust partners (with individual representative IPPs as trustees, of which Frank is one) and 10 employees.
+148.
+The professional firm generates a profit of $1.5 million for the year.
+149.
+The partnership distributes Frank's $500,000 profit share to his discretionary trust. The discretionary trust subsequently distributes to its beneficiaries as:
+•
+$300,000 to Frank
+•
+$200,000 to a company owned and controlled by Frank's spouse.
+150.
+The risk assessment is:
+Table 8: Risk assessment for Case study 5
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$300,000, or 60%, of Frank's entitlement of $500,000 is returned by him personally.
+4
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+Frank pays tax of $105,666 on the $300,000 returned by him.
+The corporate beneficiary pays tax of $52,000 on the $200,000 distributed to it.
+The calculation of total effective tax rate is:
+The total effective tax rate is 31.53%.
+3
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Not applicable. Frank has determined that in the circumstances it is impractical to accurately determine an appropriate commercial remuneration to benchmark against and therefore his aggregate score is determined against the first 2 factors only.
+0
+151.
+The aggregate score of 7 places Frank's arrangement in the green zone (per paragraph 78 of this Guideline).
+Case study 6 – IPP returns 100% of the profit received after a less profitable year
+152.
+Felix is an IPP in a firm which operates as a partnership of discretionary trusts. Due to some adverse business impacts, the firm income is significantly decreased. Felix's total income entitlement from the firm is $65,000. He returns 100% (that is, $65,000) of the income in his personal tax return. Felix has a tax liability of $11,592 on this income.
+153.
+The risk assessment is:
+Table 9: Risk assessment for Case study 6
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$65,000, or 100%, of Felix's entitlement of $65,000 is returned by Felix personally.
+1
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+As Felix has returned 100% of his entitlement in his personal tax return, he is not required to assess against other risk assessment factors.
+0
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+As Felix has returned 100% of his entitlement in his personal tax return, he is not required to assess against other risk assessment factors.
+0
+154.
+As Felix has returned 100% of his profit entitlement in his personal tax return, he is automatically in the green zone and there is no requirement to assess against the other risk factors.
+Case study 7 – IPP disposes of 40% of partnership interest and assesses against the appropriate remuneration factor
+155.
+Jacinta is an IPP in a partnership. Her total income entitlement from the partnership is $600,000. Jacinta disposes of 40% of her partnership interest to a discretionary trust. Therefore, Jacinta returns 60% of her entitlement in her personal tax return (that is, $360,000). The tax liability on this amount is $132,667.
+156.
+The discretionary trust's beneficiaries are Jacinta's spouse and a corporate beneficiary. The beneficiaries receive a total of $240,000 (being 40% of $600,000) from the firm. Jacinta's spouse receives $180,000 and the corporate beneficiary receives $60,000. Jacinta's spouse has a $51,667 tax liability on their distribution and the corporate beneficiary has a tax liability of $15,600 on its distribution of $60,000 (26% of $60,000).
+157.
+The risk assessment is:
+Table 10: Risk assessment for Case study 7
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$360,000 of $600,000 results in 60% of the IPP's profit entitlement from the firm group being returned by the IPP personally.
+4
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+Jacinta pays tax of $132,667 on the $360,000 returned by her.
+Jacinta's spouse pays tax of $51,667 on $180,000 received by them.
+The corporate beneficiary pays tax of $15,600 on the $60,000, at a rate of 26%.
+The calculation of total effective tax rate is:
+The total effective tax rate is 33.32%.
+3
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Jacinta has reflected on her contribution to her firm and compared her contribution to that of other employees with commensurate duties and responsibilities. She has considered all of the factors in paragraphs 101 and 102 of this Guideline.
+Jacinta considered the additional duties, responsibilities, risks and roles she undertakes in the firm and the commercial remuneration that she has arrived at for her role is $350,000.
+Jacinta's remuneration as a percentage of the commercial benchmark for her services is calculated as:
+That is:
+3
+158.
+The aggregate score of 10 places Jacinta's arrangement in the green zone for assessment against all 3 factors (per paragraph 78 of this Guideline).
+Case study 8 – IPP disposes of 40% of partnership interest
+159.
+Maria is an IPP in a partnership. Her total income entitlement from the partnership is $600,000. Maria disposes 40% of her partnership interest to a discretionary trust. Therefore, Maria returns in her personal income tax return $360,000 (60% of $600,000) of the total income entitlement from the partnership. The tax liability on this amount is $132,667.
+160.
+The discretionary trust's beneficiaries are Maria's spouse and a corporate beneficiary. The beneficiaries receive a total of $240,000 (40% of $600,000) from the firm. Maria's spouse receives $180,000 and the corporate beneficiary receives $60,000 of the $240,000. Maria's spouse has a $51,667 tax liability on the distribution and the corporate beneficiary has a tax liability of $15,600 on the distribution of $60,000 (26% of $60,000).
+161.
+The risk assessment is:
+Table 11: Risk assessment for Case study 8
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$360,000 of $600,000 results in 60% of the IPP's profit entitlement from the firm group being returned by the IPP personally.
+4
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+Maria pays tax of $132,667 on the $360,000 returned by her.
+Maria's spouse pays tax of $51,667 on the $180,000 received by them.
+The corporate beneficiary pays tax of $15,600 on the $60,000, at a rate of 26%.
+The calculation of total effective tax rate is:
+The total effective tax rate is 33.32%.
+3
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Not applicable. Maria has determined that in the circumstances it is impractical to accurately determine an appropriate commercial remuneration to benchmark against and therefore her aggregate score is determined against the first 2 factors only.
+0
+162.
+The aggregate score of 7 places Maria's arrangement within the green zone (per paragraph 78 of this Guideline).
+Case study 9 – IPP disposes of 50% of partnership interest
+163.
+David is an IPP in a partnership. David's total income entitlement from the partnership is $600,000. David has disposed of 50% of his partnership interest to an associated company. Therefore, David returns 50% of the partnership income in his tax return personally ($300,000 of $600,000). David's tax liability on this amount is $105,667.
+164.
+The corporate beneficiary receives a total of $300,000 from the distribution. The corporate beneficiary has a tax liability of $78,000 on this amount (26% of $300,000).
+165.
+The risk assessment is:
+Table 12: Risk assessment for Case study 9
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$300,000 of $600,000 results in 50% of the IPP's profit entitlement from the firm group being returned by the IPP personally.
+4
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+David pays tax of $105,667 on the $300,000 returned by him.
+The corporate beneficiary pays tax of $78,000 on the $300,000, at a rate of 26%.
+The calculation of total effective tax rate is:
+The total effective tax rate is 30.61%.
+3
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Not applicable. David has determined that in the circumstances it is impractical to accurately determine an appropriate commercial remuneration to benchmark against and therefore his aggregate score is determined against the first 2 factors only.
+0
+166.
+The aggregate score of 7 places David's arrangement within the green zone (per paragraph 78 of this Guideline).
+Case study 10 – IPP in a company firm structure
+167.
+Astrid is an IPP in a professional firm that operates through a company structure. Astrid is a director and the Astrid Family Trust is a shareholder of the company.
+168.
+Astrid's total entitlement from the company is $400,000.
+169.
+Astrid receives salary and wages of $200,000 and the Astrid Family Trust receives fully franked dividends from the company of $200,000 ($140,000 in cash and $60,000 in franking credits).
+170.
+The Astrid Family Trust distributes the dividend as:
+•
+75% to Astrid's spouse James (that is, $150,000)
+•
+25% to another related company, Astrid Investments Pty Ltd (that is, $50,000).
+171.
+The risk assessment is:
+Table 13: Risk assessment for Case study 10
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$200,000 of $400,000 results in 50% of the IPP's profit entitlement from the firm group being returned by the IPP.
+4
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+Astrid pays tax of $60,667 on the $200,000 returned by her.
+Astrid's spouse pays tax of $40,567 on the $150,000 received by him.
+The corporate beneficiary, Astrid Investments Pty Ltd, pays tax of $13,000 on the $50,000, at a rate of 26%.
+The calculation of total effective tax rate is:
+The total effective tax rate is 28.56%.
+4
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Not applicable. Astrid has determined that in the circumstances it is impractical to accurately determine an appropriate commercial remuneration to benchmark against and therefore her aggregate score is determined against the first 2 factors only.
+0
+172.
+The aggregate score of 8 places Astrid's arrangement within the amber zone (per paragraph 78 of this Guideline).
+Case study 11 – IPP in a company firm structure
+173.
+Yan is an IPP in a professional firm that operates through a company structure. Yan's total profit entitlement from the company is $400,000. The company pays a salary of $100,000 to Yan and franked dividends of $300,000 to a discretionary trust.
+174.
+The discretionary trust distributes $200,000 to Yan and $100,000 to a corporate beneficiary.
+175.
+The risk assessment is:
+Table 14: Risk assessment for Case study 11
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$300,000 of $400,000 results in 75% of the IPP's profit entitlement from the firm group being returned by the IPP personally.
+3
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+Yan pays tax of $105,667 on the $300,000 returned by him.
+The corporate beneficiary pays tax of $26,000 on the $100,000, at a rate of 26%.
+The calculation of total effective tax rate is:
+The total effective tax rate is 32.92%.
+3
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Not applicable. Yan has determined that in the circumstances it is impractical to accurately determine an appropriate commercial remuneration to benchmark against and therefore his aggregate score is determined against the first 2 factors only.
+0
+176.
+The aggregate score of 6 places Yan's arrangement within the green zone (per paragraph 78 of this Guideline).
+Case study 12 – IPP trades via a trust structure
+177.
+Benjamin is an IPP in a professional firm that trades via a unit trust. Benjamin's units
+in
+the unit trust are held by an associated discretionary trust.
+178.
+Benjamin's profit entitlement from the firm is $600,000.
+179.
+The associated discretionary trust distributes $300,000 to Benjamin, $100,000 to Benjamin's spouse and $200,000 to a corporate beneficiary.
+180.
+The risk assessment is:
+Table 15: Risk assessment for Case study 12
+Risk assessment factor
+Application of criteria
+Score
+(1) Proportion of profit entitlement from the whole of firm group returned in the hands of the IPP
+$300,000 of $600,000 results in 50% of the IPP's profit entitlement from the firm group being returned by the IPP personally.
+4
+(2) Total effective tax rate for income received from the firm by the IPP and associated entities (using tax rates applicable to the 2020-21 income year)
+Benjamin pays tax of $105,667 on the $300,000 returned by him.
+The corporate beneficiary pays tax of $52,000 on $200,000, at a rate of 26%.
+Benjamin's spouse pays tax of $22,967 on the $100,000 reported in their return.
+The calculation of total effective tax rate is:
+The total effective tax rate is 30.11%.
+3
+(3) Remuneration returned in the hands of the IPP as a percentage of the commercial benchmark for the services provided to the firm
+Not applicable. Benjamin has determined that in the circumstances it is impractical to accurately determine an appropriate commercial remuneration to benchmark against and therefore his aggregate score is determined against the first 2 factors only.
+0
+181.
+The aggregate score of 7 places Benjamin's arrangement within the green zone (per paragraph 78 of this Guideline).
+Amendment History
+19 June 2024
+Part
+Comment
+Paragraphs 12, 29, 116, 121
+Updated to clarify that contact via ProfessionalPdts mailbox is no longer available and to request Early engagement advice if clarification on application of law is required.
+Paragraph 22
+Deleted third bullet point to clarify that contact via the mailbox to discuss high risk arrangement is no longer available.
+Minor change to fourth bullet point to clarify that this guideline can be used to support applications for binding advice on how the law applies.
+Paragraphs 48, 64, 75, 108, 119
+Deleted paragraphs where the ProfessionalPdts mailbox contact was mentioned as this mailbox is no longer available.
+Throughout
+Updated in line with current ATO style and accessibility requirements.
+17 December 2021
+Part
+Comment
+Paragraph 28
+Changed wording of fourth bullet point from:
+•
+an IPP is an equity holder
+to
+•
+an IPP is an equity holder, directly or through an associated entityan IPP is an equity holder, directly or through an associated entity.
+8 February 2021
+Part
+Comment
+Paragraph 113
+Added link to Suspended Guidelines.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+[1]
+All legislative references in this Guideline are to the ITAA 1936, unless otherwise indicated.
+[2]
+Australian Council of Professions (2003)
+What is a Professional?
+, professions.org.au, accessed 9 November 2021.
+[3]
+Related public rulings are set out in the References section of this Guideline.
+[4]
+[Omitted.]
+[5]
+[Omitted.]
+[6]
+Any levy1 based on taxable income (for example, Medicare levy, Medicare levy surcharge or the temporary budget repair levy) is not included in the calculation of the effective tax rate.
+[7]
+Where examples in this Guideline refer to corporate taxpayers, the base rate entities rate of 26% has been used.
+Previously issued in draft format as PCG 2021/D2
+ATO references:
+ATO references:
+NO  1-E7COE4W
+ISSN: 2209-1297
+Business Line:
+PW
+Related Rulings/Determinations:
+IT 25
+IT 2121
+IT 2330
+IT 2503
+IT 2639
+TR 2001/7
+TR 2001/8
+Legislative References:
+ITAA 1936 100A
+ITAA 1936 Pt III Div 7A
+ITAA 1936 177D(2)
+ITAA 1936 Pt IVA
+ITAA 1997 Pt 2-42
+Case References:
+Commissioner of Taxation (Cth) v Galland
+[1986] HCA 83
+162 CLR 408
+18 ATR 33
+86 ATC 4885
+Taxation, Commissioner of (Cth) v Everett
+[1980] HCA 6
+143 CLR 440
+10 ATR 608
+80 ATC 4076
+Other References:
+Everett assignments
+PS LA 2005/24
+PCG 2021/4 history
+Date:
+Version:
+Change:
+16 December 2021
+Original guideline
+You are here
+19 June 2024
+Updated guideline
+Back to top

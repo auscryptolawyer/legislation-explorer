@@ -1,0 +1,734 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+43 related documents
+Taxation Ruling
+TR 2014/8
+Income tax:  transfer pricing documentation and Subdivision 284-E
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+TR 2014/8EC
+.
+Contents
+Para
+LEGALLY BINDING SECTION:
+What this Ruling is about
+1
+Background
+5
+Ruling
+21
+Date of effect
+64
+NOT LEGALLY BINDING SECTION:
+Appendix 1: Example
+66
+Appendix 2: A suggested framework for satisfying Subdivision 284-E
+74
+Appendix 3: Quick Reference Table
+123
+Appendix 4: Detailed contents list
+124
+Preamble
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+What this Ruling is about
+1. This Ruling sets out the Commissioner's views on the transfer pricing documentation an entity should have kept in order to meet the requirements of Subdivision 284-E of Schedule 1 to the
+Taxation Administration Act 1953
+(TAA 1953). If an entity does not meet these requirements, Division 284 of Schedule 1 to the TAA 1953 (dealing with administrative penalties) will apply as though a matter was not reasonably arguable. Meeting the documentation requirements will mean that an entity is still able to argue that its transfer pricing treatment was reasonably arguable notwithstanding that the position is ultimately found to be incorrect.
+2. This Ruling is part of a package of guidance dealing with transfer pricing documentation. The other publications are:
+•
+Taxation Ruling TR 2014/6
+Income tax
+:
+transfer pricing
+-
+the application of section 815-130 of the Income Tax Assessment Act 1997
+(ITAA 1997),
+•
+Law Administration Practice Statement PS LA 2014/2
+Administration of transfer pricing penalties for income years commencing on or after 29 June 2013
+, and
+•
+Law Administration Practice Statement PS LA 2014/3
+Simplifying transfer pricing record keeping
+.
+3. This Ruling applies to:
+•
+dealings where the actual conditions that operate satisfy the cross-border test under subsection 815-120(3) of the ITAA 1997 (referred to in this Ruling as 'relevant dealings'). The cross-border test will generally be met where the actual conditions are not purely on a domestic basis, and
+•
+the attribution of profits to permanent establishments (PEs) for the purposes of Subdivision 815-C of the ITAA 1997.
+4. Except where specified otherwise, all legislative references in this Ruling are to Schedule 1 to the TAA 1953.
+Background
+5. As part of the modernisation of Australia's transfer pricing rules, the
+Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Act 2013
+introduced Subdivisions 815-B, 815-C and 815-D of the ITAA 1997 (referred to collectively in this Ruling as 'the transfer pricing rules') together with Subdivision 284-E.
+6. For income years commencing on or after 29 June 2013, the transfer pricing rules replace Subdivision 815-A of the ITAA 1997 and former Division 13 of Part III of the
+Income Tax Assessment Act 1936
+(ITAA 1936).
+7. The authoritative statement of the arm's length principle is set out in paragraph 1 of Article 9 (the Associated Enterprises Article) of the
+OECD Model Tax Convention on Income and on Capital
+. Paragraph 1 of Article 9 states:
+[Where] conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
+8. Section 815-130 of the ITAA 1997 requires that the identification of the arm's length conditions must be based on certain commercial or financial relations as specified in subsections 815-130(1) to 815-130(4). It sets out when and to what extent an entity's actual commercial or financial relations are relevant to the identification of the arm's length conditions.
+[1]
+9. For the purpose of determining the effect that Subdivisions 815-B and 815-C of the ITAA 1997 have in relation to an entity, sections 815-135 and 815-235 of the ITAA 1997 require an entity to identify the arm's length conditions so as best to achieve consistency with the prescribed guidance material, which currently is as follows:
+•
+the Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations, OECD, 22 July 2010 (2010 OECD TP Guidelines), and
+•
+the Model Tax Convention on Income and on Capital and its Commentaries, as adopted by the Council of the OECD and last amended on 22 July 2010, to the extent that document extracts the text of Article 7 and its Commentary as they read before 22 July 2010 (OECD Commentary).
+10. The legislation allows for regulations to prescribe documents under the list of guidance material.
+[2]
+Where applicable, any additional prescribed documents will need to be taken into account.
+11. The former transfer pricing rules under Division 13 of the ITAA 1936 and Subdivision 815-A of the ITAA 1997 required the Commissioner to make determinations. By contrast, Subdivisions 815-B and 815-C of the ITAA 1997 are self-executing provisions.
+[3]
+12. A person carrying on a business must keep records that explain all transactions and other acts as set out in section 262A of the ITAA 1936 for any purpose of the Act.
+[4]
+This general statutory obligation includes transfer pricing.
+13. Subdivision 284-E sets out special rules about unarguable positions for cross-border transfer pricing. Subsection 284-255(1) specifies records to be kept by an entity for an entity to meet the requirements in Subdivision 284-E for documenting the application or non-application of the transfer pricing rules to a matter (or identical matters). An entity will not be precluded from taking a reasonably arguable position as regards its application (or non-application) of the transfer pricing rules to a matter (or identical matters)
+[5]
+, for the purposes of the penalty provisions,
+[6]
+if the records kept by an entity (in respect of transfer pricing):
+(a)
+are prepared before the time the entity lodges its income tax return for the income year relevant to the matter (or matters), and
+(b)
+are in English, or readily accessible and convertible into English, and
+(c)
+explain the particular way in which Subdivision 815-B or 815-C of the ITAA 1997 applies (or does not apply) to the matter (or matters), and
+(d)
+explain why the application of Subdivision 815-B or 815-C of the ITAA 1997 to the matter (or matters) in that particular way best achieves the consistency with the prescribed guidance material.
+14. Further, subsection 284-255(2) specifies that the records must allow each of the following to be readily ascertained:
+(a)
+the arm's length conditions relevant to the matter (or matters),
+(b)
+the particulars of the method used and comparable circumstances relevant to identifying those arm's length conditions,
+(c)
+where records explain the application (as opposed to the non-application) of Subdivision 815-B or 815-C of the ITAA 1997, the records must also explain the result that the application in that particular way has as compared to the non-application,
+(d)
+for Subdivision 815-B of the ITAA 1997 - the actual conditions relevant to the matter (or matters), and
+(e)
+for Subdivision 815-C of the ITAA 1997 - the actual profits and the arm's length profits as well as the particulars of the activities and circumstances to the extent they are relevant to the matter (or matters).
+15. If an entity does not have documentation as prescribed in section 284-255, section 284-250 provides that Division 284
+[7]
+has effect as if the entity's transfer pricing treatment was not reasonably arguable for the purposes of applying administrative penalties, which ultimately impacts on the working out of a base penalty amount.
+[8]
+16. Whilst Subdivision 284-E does not mandate the preparation or keeping of transfer pricing documentation,
+[9]
+(and, indeed, a transfer pricing treatment may be correct even where there is little or no contemporaneous documentation), subsection 262A(1) of the ITAA 1936 obliges every taxpayer that carries on a business to keep records that record and explain all transactions and other acts engaged in by the taxpayer that are relevant for tax purposes. This includes transactions and other acts subject to the self-assessment regime, including the transfer pricing rules.
+17. If an entity's records do not meet the requirements of Subdivision 284-E and the Commissioner makes a transfer pricing adjustment, the entity will be treated as if a transfer pricing treatment was not reasonably arguable for penalty purposes and will be liable for a higher base penalty amount
+[10]
+than it would have otherwise been, had it been eligible to take a reasonably arguable position.
+[11]
+18. The legal benefit of keeping records in accordance with Subdivision 284-E, is that an entity will not be precluded, in the event of a transfer pricing adjustment, from arguing that it had a reasonably arguable position on its transfer pricing treatment for penalty purposes, thereby potentially reducing its base penalty amount exposure.
+19. In addition, due to the comprehensiveness of the records to be kept by an entity to satisfy Subdivision 284-E, an entity may lessen the likelihood of audit activity and minimise additional compliance costs by meeting these requirements. Even when a transfer pricing adjustment is made, holding contemporaneous records will mean that an entity is well placed, in the event of disputed transfer pricing benefit, to mitigate penalty exposure.
+20. PS LA 2014/2 gives guidance on the administration of scheme administrative penalties in transfer pricing cases.
+Ruling
+The legislative scheme
+21. An undocumented transfer pricing treatment
+[12]
+, if ultimately found to be incorrect, is taken to be not reasonably arguable for purposes of Division 284. Subdivision 284-E sets out the requirements for an entity to have a documented transfer pricing treatment. This is separate from the general obligation to keep records under subsection 262A(1) of the ITAA 1936.
+22. Section 284-250 makes an undocumented transfer pricing treatment not reasonably arguable in the absence of records that meet the requirements of the Subdivision. In other words, for a given position to be eligible to be taken as reasonably arguable for Division 284 purposes,
+that
+position must be one that was documented in accordance with Subdivision 284-E.
+23. Section 284-255 sets out the records that are required to document a transfer pricing treatment for the purposes of Division 284. Both subsections 284-255(1) and 284-255(2) need to be satisfied for an entity to have documented its transfer pricing treatment.
+24. The question is whether, on an objective examination of its records, an entity has met the requirements of the Subdivision, taking into account all of the relevant facts and circumstances of the relevant dealing or dealings.
+25. An entity is required to self-assess its Australian tax position for income tax and withholding tax purposes as if the arm's length conditions had operated.
+[13]
+An entity should have kept contemporaneous documentation in respect of the conditions that are both material and relevant to the transfer pricing treatment for the relevant income year. A condition is material
+[14]
+if it affects the entity's Australian tax position and is ultimately relevant where it is subject to an adjustment by the Commissioner.
+[15]
+26. Subsection 284-255(1) paragraphs (a) to (e) set out the requirements to be met for documenting an entity's transfer pricing treatment.
+General approach to the Subdivision
+27. The requirements of the Subdivision should be approached with a practical and commercially realistic sense of what entities can reasonably be expected to include in their records. In particular, the degree of detail and comprehensiveness required is a function of the complexity of the transfer pricing problem involved and the materiality of the risk as measured against the entity's overall tax position.
+[16]
+28. For example, if an entity has controlled buying and selling transactions that are mirrored closely by uncontrolled transactions without any material variation, then the documentation to be kept may be relatively short and simple, reflecting the relatively straightforward nature of the transfer pricing analysis involved.
+29. By contrast, if a business engages in a controlled transaction that produces a very material transfer pricing benefit, and there is a serious and difficult question as to (for example) the application of the exceptions in section 815-130 in the ITAA 1997
+[17]
+which makes the identification of the arm's length conditions challenging and controversial, then the records would need to give considerable attention to this problem.
+30. More generally, to the extent that the taxpayer's argument depends for its 'reasonableness' on one or more particularly crucial contentions of fact or analytical propositions, particular attention should be directed to whether these are set out and explained in the contemporaneous documentation. This is more important than devoting time to making good propositions that are likely to be relatively uncontroversial, or not especially relevant to the problem.
+Records kept by an entity - the meaning of 'kept'
+31. To meet the requirements in Subdivision 284-E, records in paper or electronic form
+[18]
+must be kept by the entity. For this purpose, 'kept' means made and retained.
+[19]
+32. To be kept for the purposes of subsection 284-255(1), records must be:
+•
+in the possession of the entity,
+•
+in the entity's care and control, or, in existence and readily accessed by the entity, that is, the entity must have continuous full and free access to the records.
+'Prepared before the time by which the entity lodges its income tax return for the income year relevant to the matter (or matters)' (paragraph 284-255(1)(a))
+33. The relevant records kept by an entity need to be 'prepared before the time by which the entity lodges its income tax return for the income year relevant to the matter (or matters)'. This permits records to be prepared beyond the end of the income year, up to the point when the relevant income tax return is lodged. Records that were not kept as at the time of lodgment cannot be taken into account in concluding whether an entity meets its Subdivision 284-E requirements.
+34. Records kept before this time are referred to in this Ruling as 'contemporaneous documentation'.
+35. If an entity has not documented its transfer pricing treatment in accordance with the Subdivision or it documents its transfer pricing treatment after the income tax return for the income year has been lodged, then it will be taken to have an undocumented and therefore not reasonably arguable transfer pricing treatment for the purposes of Division 284. For a detailed example, refer to Appendix 1 of this Ruling.
+The records 'are in English, or readily accessible and convertible into English' (paragraph 284-255(1)(b))
+36. If the records are not kept in English, they will need to be readily accessible and convertible into English. 'Convertible' means able to be put into English.
+'Explain the particular way in which the Subdivision applies (or does not apply) to the matter (or matters)' (paragraph 284-255(1)(c))
+37. The term 'explain' takes its ordinary meaning, which is to make it clear to someone.
+[20]
+For documentation to 'explain' a transfer pricing treatment, that treatment must be clear from the records themselves.
+38. Paragraph 284-255(1)(c) requires that the records explain the particular application of the transfer pricing treatment; that is, that an entity's documentation provides sufficient information to evidence and support its transfer pricing treatment. Such records should show whether or not the conditions that operate between the entity and other entities in connection with commercial or financial relations (or the entity and its PE in the case of attribution of profits) are consistent with the arm's length principle, and that the entity did (or did not) obtain a transfer pricing benefit.
+[21]
+39. To establish that these conditions (as reflected in their overall Australian tax position) accord with the arm's length principle, an entity will need to document the process it undertook to:
+•
+identify the arm's length conditions,
+[22]
+and
+•
+select the most appropriate and reliable method or combination of methods, including evaluating the degree of comparability having regard to all relevant factors, inclusive of those listed at subsection 815-125(3) of the ITAA 1997.
+40. In doing so, an entity should demonstrate that there were no differences that materially affected a condition relevant to the method in ensuring circumstances remain comparable to actual circumstances or that accurate and reliable adjustments were made to neutralise any material differences.
+[23]
+41. The Commissioner considers 'materially affected' and 'material' in this context depends on the facts and circumstances. Whether differences do materially affect a condition and whether comparability adjustments can or should be made is a matter of judgment. The amount of information that is to be kept will also depend on the facts and circumstances.
+42. An entity should focus on whether there is a sufficiency of information to enable the Commissioner to reach a conclusion about the correctness or otherwise of the transfer pricing treatment taken by the entity.
+[24]
+43. To document a transfer pricing treatment, an entity's records must identify and explain the arm's length conditions, being conditions that might be expected to operate between independent entities dealing wholly independently with one another in comparable circumstances.
+44. In the case of entities operating through a PE, the records must explain the process used to determine the arm's length profits a PE might be expected to make if that PE were a distinct and separate entity engaged in the activities being undertaken by the PE in the circumstances faced by that PE and operating under arm's length conditions.
+[25]
+Such profits are worked out by allocating the actual expenditure and income of an entity between itself and its PE so that the profits attributed to the PE equal the profits the PE might be expected to make if the PE were a distinct and separate entity operating under arm's length conditions. This process will require identifying reliable comparables and include an analysis of the PE's functions, assets and risks borne.
+'Explain why the application of the Subdivision to the matter (or matters) in that way best achieves the consistency mentioned in sections 815-135 or 815-235' of the ITAA 1997 (the prescribed guidance material) (paragraph 284-255(1)(d))
+45. Section 815-135 of the ITAA 1997 states, for the purpose of determining the effect of Subdivision 815-B of the ITAA 1997 in relation to an entity, that the arm's length conditions must be identified in the way that best achieves consistency with the prescribed guidance material.
+46. Similarly, section 815-235 of the ITAA 1997 states, for the purpose of determining the effect of Subdivision 815-C of the ITAA 1997 in relation to an entity, that the arm's length profits must be worked out, and the arm's length conditions identified, in the way that best achieves consistency with the prescribed guidance material.
+47. An entity should refer to those parts of the prescribed guidance material that are relevant to the matters being documented. The documentation should also explain how the prescribed guidance material has been taken into account by the entity in applying the Subdivision. Any departure from the prescribed guidance material should be explained.
+48. The requirement to demonstrate the consistency with the relevant guidance material applies whether or not the dealings or profits in question relate to an entity or permanent establishment in a country with which Australia has a tax treaty.
+[26]
+'Explain the particular way in which the Subdivision applies (or does not apply) to the matter (or matters)' (paragraph 284-255(1)(c)) in the context of applying section 815-130 of the ITAA 1997
+49. Section 815-130 of the ITAA 1997 specifies the relevance of the actual commercial or financial relations to the identification of the arm's length conditions. The Commissioner's views on the application of section 815-130 are set out in TR 2014/6.
+50. Paragraph 284-255(1)(c) requires that an entity's records explain the particular application of the transfer pricing treatment. To explain the particular way subsection 815-130(1) of the ITAA 1997 applies, an entity will need to have contemporaneous documentation which identify the arm's length conditions and explain how the arm's length conditions are based on the commercial and financial relations in connection with which the actual conditions operate. An entity should document how it has had regard to the form and substance of those commercial and financial relations.
+51. If the exceptions to the basic rule in subsection 815-130(1) do not apply, an entity's records will need to explain how the entity has applied the basic rule in subsection 815-130(1) and why it considers the exceptions do not apply.
+52. In many cases, showing that the basic rule in section 815-130 applies will be relatively straight-forward. In particular, it will often be easy to establish that there is no difference between the form and the substance of the commercial and financial relations in question.
+53. Reliable comparables of themselves tend to show that independent parties dealing wholly independently in comparable circumstances would have entered into the actual commercial or financial relations in question, rather than other commercial or financial relations or none at all.
+54. In these situations, it is not necessary to go to great lengths to dispense with the possibility of the exceptions applying.
+55. For example,
+where using the CUP method an entity (say, a simple distributor with annual turnover above
+$
+50m) has controlled buying and selling transactions that are mirrored closely by uncontrolled transactions without significant variation, all that might need to be documented in relation to the non-application of any of the exceptions to the basic rule is
+:
+•
+the comparability analysis, and
+•
+a short explanation as to the non-application of the exceptions based on the substance of these transactions being consistent with their form and the comparability analysis
+.
+56. If, on the other hand, there is a reasonable possibility (having regard to the views set out in TR 2014/6) that the view might be taken that any of the exceptions do apply, more attention should be given to explaining the possibility in the documentation.
+57. If any of the exceptions apply, an entity will need to explain how the exceptions apply.
+'Explain the particular way in which the Subdivision applies (or does not apply) to the matter (or matters)' (paragraph 284-255(1)(c)) in the context of applying section 815-140 of the ITAA 1997
+58. If working out the costs in accordance with the arm's length conditions involves applying a rate to a debt interest, an entity is required under subsection 815-140(2) of the ITAA 1997 to:
+(a)
+work out the rate as if the arm's length conditions had operated, but
+(b)
+apply the rate to the debt interest the entity actually issued.
+59. In working out the rate in paragraph 815-140(2), an entity will be required to identify the rate as though the relevant arm's length condition had operated.
+60. If the modifications in section 815-140 apply, entities will need to have contemporaneous documentation that explains this.
+'Readily ascertained' (subsection 284-255(2))
+61. For the information set out in subsection 284-255(2) to be 'readily ascertained',
+[27]
+the information should be able to be relatively quickly and easily understood, bearing in mind however that that the material involved will often not be simple.
+The interaction between subsection 262A(1) of the ITAA 1936 (which deals with the general record keeping requirements) and Subdivision 284-E
+62. If an entity has records that meet the requirements of Subdivision 284-E, it will have met its obligations under subsection 262A(1) of the ITAA 1936. The reverse does not necessarily apply.
+Contemporaneous documentation for trusts and partnerships under Subdivision 815-D
+63. Subdivision 815-D of the ITAA 1997 sets out special rules to give effect to the transfer pricing rules when applying those rules to trusts and partnerships as well as trusts and partnerships operating at or through PEs. Subdivision 284-E applies to trusts and partnerships.
+Date of effect
+64. The Ruling applies to income years commencing on or after 29 June 2013 in relation to income tax. In relation to withholding tax, the Ruling applies to income derived, or taken to have been derived, in income years commencing on or after 29 June 2013. This is consistent with the application of the new transfer pricing rules.
+65. However, the Ruling will not apply to taxpayers to the extent that it conflicts with the terms of settlement of a dispute agreed to before the date of issue of the Ruling (see paragraphs 75 to 76 of Taxation Ruling TR 2006/10
+Public Rulings
+).
+Commissioner of Taxation
+17 December 2014
+Appendix 1 - Example
+This Appendix is provided as information to help you understand the Commissioner's view. It does not form part of the binding public ruling.
+'Prepared before the time by which the entity lodges its income tax return for the income year relevant to the matter (or matters)' (paragraph 284-255(1)(a))
+66. It is expected for the most part that the person(s) responsible for signing the tax return will be familiar with the content of the records and be satisfied that the records are fit for purpose.
+Example - Records prepared and kept
+67.
+US Co is a US resident company for tax purposes that operates a global multinational enterprise producing merchandise and selling the merchandise around the world
+.
+68.
+Aus Co is an Australian resident company for tax purposes and a subsidiary of US Co. Aus Co purchases merchandise from US Co and on sells the merchandise to unrelated Australian buyers
+.
+69.
+Aus Co and US Co operate under a standardised global contract that includes terms for the cost of the merchandise. Aus Co maintains source documentation comprising the global contract and transactional data prepared by US Co at the time of the transaction. This information is held partly in paper form by Aus Co in Australia and partly in electronic form on a global shared drive. Aus Co has full and free access to the global shared drive. Aus Co did not have any other records that evidenced the application of Subdivision 815-B, such as the methods used or the comparable circumstances, as Aus Co relied on assurances from US Co that the costs were arm's length in accordance with the 2010 OECD TP Guidelines
+.
+70.
+Aus Co lodges its income tax return on the basis that there is no transfer pricing benefit as the arm's length conditions and the actual conditions are the same. Aus Co then receives notification that a transfer pricing audit is to be conducted by the ATO. Aus Co subsequently obtains access to information from US Co that was brought into existence by US Co prior to Aus Co lodging its income tax return detailing the method used and a functional analysis that was not available on the global shared drive. Aus Co also subsequently submits a transfer pricing report produced by their tax agent after Aus Co has lodged its income tax return that supports the position that arm's length conditions equate to the actual conditions
+.
+71.
+The Commissioner conducts an audit and establishes that Aus Co got a transfer pricing benefit as, had the arm's length conditions operated instead of the actual conditions, Aus Co's taxable income would have been greater as specified in paragraph 815-120(1
+)(
+c) of the ITAA 1997
+.
+72.
+In considering whether Aus Co satisfied the transfer pricing documentation requirements under section 284-255, the Commissioner could conclude on the facts that
+:
+(a)
+the source documentation comprising the global contract and transactional data was kept by Aus Co for the purposes of Subdivision 284-E as these records were in Aus Co's possession or otherwise ready and available to Aus Co
+.
+(b)
+The documentation held in electronic form on the global shared drive is also taken to be kept by Aus Co as Aus Co had full and free access to these records both at the time it applied Subdivision 815-B of the ITAA 1997 and on an ongoing basis
+,
+(c)
+The documents referred to in paragraphs (a) and (b) were also prepared before Aus Co lodged its income tax return for the relevant year
+.
+(d)
+the documentation that Aus Co subsequently obtained from US Co that was brought into existence by US Co prior to Aus Co lodging its income tax return detailing the method used and a functional analysis was not
+'
+kept' by Aus Co for the purposes of applying Subdivision 284-E as, even though these records were prepared before the time Aus Co lodged its income tax return, these records were not in the possession or otherwise ready and available to Aus Co for the purposes of applying the Subdivision. In other words, Aus Co had not documented contemporaneously its transfer pricing treatment as merely relying on assurances is not sufficient to satisfy Subdivision 284-E, and
+(e)
+the transfer pricing report produced by Aus Co's tax agent did not meet the Subdivision 284-E requirements, as these records were not prepared before the time by which Aus Co lodged its income tax return for the income year relevant to the matter
+.
+73.
+Accordingly, the entity does not have records that meet the requirements in section 284-255 in relation to the way the entity has applied subdivision 815-B of the ITAA 1997 to the matter(s) giving rise to the entity getting a transfer pricing benefit. This is the case notwithstanding that the Commissioner concluded that the records at paragraph 72(a) of this Ruling have been prepared and kept by the entity
+.
+Appendix 2 - A suggested framework for satisfying Subdivision 284-E
+This Appendix does not form part of the binding public ruling.
+Introduction
+74. The suggested framework set out in this Appendix is provided to guide an entity in seeking to comply with Subdivision 284-E.
+75. The Commissioner understands Subdivision 284-E to have been enacted as an incentive for taxpayers to make a serious and genuine effort to correctly self-assess their tax positions under the transfer pricing rules and for that effort to be evidenced by documenting that treatment before filing their income tax returns for a given year. We realise though that some transfer pricing problems are much more complex than others and some risks are more material than others. All taxpayers, and especially small and medium-sized taxpayers, are limited in the amount of time and money they can sensibly devote to documenting transfer pricing treatments.
+76. To be considered to have a documented transfer pricing treatment (as distinct from an undocumented transfer pricing treatment)
+[28]
+an entity's records should explain its transfer pricing treatment. It does this by documenting all material facts and circumstances, whilst making it clear how the entity understands the law applies to those facts and circumstances and why and on what basis, adjusting for any material differences, the entity has adopted the transfer pricing treatment. In order to "explain" a transfer pricing treatment,
+[29]
+an entity cannot simply make an assertion that the law applies (or does not apply) in a particular way.
+77. Therefore, if it is reasonable to form a view that what is not recorded is material to a correct assessment under the transfer pricing rules, and in the context of the matter under review, the entity may risk not meeting the documentation requirements.
+[30]
+78. When an entity is considering whether or not it has met the Subdivision 284-E requirements, it may choose to have regard to whether or not it is eligible to apply one or more of the transfer pricing record keeping simplification options to its circumstances.
+79. The following suggested framework consists of a discussion of some key questions that should be addressed in transfer pricing documentation, followed by some suggestions as to how to deal with the particular analysis required by section 815-130 of the ITAA 1997.
+Key questions
+80. Here are five key questions for an entity to consider when documenting its transfer pricing treatment:
+1.
+What are the actual conditions that are relevant to the matter (or matters)?
+2.
+What are the comparable circumstances relevant to identifying the arm's length conditions?
+3.
+What are the particulars of the methods used to identify the arm's length conditions?
+4.
+What are the arm's length conditions and is/was the transfer pricing treatment appropriate?
+5.
+Have any material changes and updates been identified and documented?
+81. The ATO recommends that an entity considers all five questions (not necessarily sequentially) in light of its own facts and circumstances, including the relative complexity and materiality of its relevant dealings and its self-assessed risk.
+Question 1:  What are the actual conditions that are relevant to the matter (or matters)?
+82. Application of the arm's length principle in Subdivision 815-B or 815-C in the ITAA 1997 is based on a comparison of the actual conditions with the arm's length conditions. Accordingly, paragraphs 284-255(2)(d) and (e) specify that the transfer pricing documentation must allow for the actual conditions (or the actual profits) relevant to the matter (or matters) to be readily ascertained.
+83. An entity's documentation should explain its characterisation of the relevant dealings that may be integral to its transfer pricing treatment. In other words, the documentation should explain what the economically significant characteristics are, or what the nature of what was done or is being done is.
+84. Paragraph 35 of TR 2014/6 states that:
+35. The 'actual conditions that operate' between the entity and another entity in connection with their commercial or financial relations are the things which ultimately affect each entity's economic or financial position. These conditions need not be explicit contractual terms and can also include the price paid for the sale or purchase of goods or services, the terms of an agreement that have an economic impact on the margin of profits earned by one or both the entities, or a division of profits between the entities.
+85. The transfer pricing documentation should allow for the actual conditions (or the actual profits) relevant to the matter (or matters) to be readily ascertained. This part of the documentation is about recording and explaining what was actually done and why it was done in that particular way. The documentation of the actual conditions should:
+•
+provide context to the matter by explaining the relevance of the actual commercial or financial relations in connection with which the actual conditions operate,
+•
+have regard to the factors relevant to identifying comparable circumstances in the context of the actual conditions,
+•
+explain how the matter was characterised, and
+•
+explain how this characterisation is consistent with the substance of the actual commercial and financial relations.
+86. Entities need to document all of their commercial or financial relations, in so far as they are economically relevant to a transfer pricing analysis. A broad examination is necessary to sufficiently account for any material connections or dealings between the entities that relate to or could otherwise affect the actual conditions. This may include dealings between other entities which are directly or indirectly related to the tested dealings and materially affect the actual conditions.
+87. An explanation as to why the entity has concluded that particular material aspects of the commercial or financial relations are or are not relevant to the matter should be documented. Documentation of the commercial or financial relations may also consider the alternative options realistically available to the entity and explain the actual conditions in this context. The alternative options may be documented and explained as part of the commercial or financial relations or comparability factors for the actual conditions.
+Relevance of actual commercial or financial relations
+88. The basic rule in subsection 815-130(1) of the ITAA 1997 states that the identification of the arm's length conditions must be based on the commercial or financial relations in connection with which the actual conditions operate. Regard must also be had to the form and substance of those relations. It will therefore be necessary for the documentation to explain these commercial or financial relations.
+89. In documenting commercial or financial relations, consideration should be given to the dealings between all relevant entities and the nature and extent of their relationship with the taxpayer entity. The relationships identified may include formal ownership (parent-subsidiary relationship), joint venture, franchise or similar links, strategic alliances, cost contribution arrangements, common or cross shareholding, as well as informal agreements or co-operative ventures.
+90. Information about the capital structure of the entity in the context of the global group may be relevant. The balance and sources of debt and equity funding may need to be included.
+91. Relevant information may include:
+•
+the organisational and corporate structure of the worldwide group,
+•
+the internal procedures and controls which are in place. This may include manuals and written instructions drawn up by the entity in the ordinary course of carrying on its business,
+•
+information from a range of key managerial and commercial staff to assist in obtaining an accurate perspective of the functions, assets, risks and operational aspects of the business. This is particularly important when an enterprise adopts strategies that have a measurable effect on the actual conditions (for example, particular pricing strategies) or where those strategies have not previously been documented, and
+•
+mission statements, corporate plans and divisional business plans, reports proposing and recommending strategies and relevant records of meetings of Boards of Directors or corporate management groups that include recommendations for the implementation of these strategies, policies or objectives for consideration and approval.
+92. It would not be necessary to physically include copies of primary information of this kind with the transfer pricing documentation itself. It is sufficient to refer to it, provided that the materials are kept and are readily accessible in the same way as the transfer pricing documentation must be.
+93. Documentation may include information on:
+•
+the nature of the industry and the markets within which the enterprise (or its separate divisions) conducts its business, including factors such as industry development, technology, location, resource needs and innovation, market size and growth, changes in customer groups and patterns of buying, and changing channel structure,
+•
+the structure, intensity and dynamics of competition experienced, including an identification of competitors, an assessment of the economic power of suppliers and customers, the possibility of new entrants, and the potential threat of substitutes, and
+•
+any broader economic, regulatory and other factors affecting the taxpayer's business, for example relevant shifts in the regional and Australian economy, in international trade relations, exchange rates and government policies.
+Comparability factors
+94. Entities should have regard to the comparability factors in relation to the actual conditions. These should be documented and explained in light of the relative effect they are likely to have on the actual conditions. The factors listed at subsection 815-125(3) of the ITAA 1997 relevant to identifying comparable circumstances include:
+(a)
+the functions performed, assets used and risks borne by the entities,
+(b)
+the characteristics of any property or services transferred,
+(c)
+the terms of any relevant contracts between entities,
+(d)
+the economic circumstances,
+(e)
+the business strategies of the entities.
+95. This part of an entity's documentation should explain:
+•
+the economic significance of the factors in relation to the actual conditions having regard to the substance of those relations, and
+•
+why things were done in that particular way in the context of the actual commercial or financial relations..
+96. In particular, for business restructures, the documentation should explain any options realistically available. This could include the option of doing nothing (for example, continuing to perform the function or assume the risk itself).
+[31]
+Question 2:  What are the comparable circumstances relevant to identifying the arm's length conditions?
+97. The documentation should allow for the comparable circumstances relevant to identifying the arm's length conditions to be 'readily ascertained'. The comparable circumstances relevant to identifying the arm's length conditions should be clear or apparent and evident from the documentation. It should be possible to gauge from the documentation the degree of comparability between the actual circumstances and the comparable circumstances, having regard to:
+•
+the comparability factors in subsection 815-125(3) of the ITAA 1997, and
+•
+how and why any adjustments made under subsection 815-125(4) of the ITAA 1997 can be relied upon to eliminate the effect of material differences on a condition that is relevant to the method.
+98. It should be clear from the documents that the identified comparable circumstances are consistent with the prescribed guidance material. Further assistance can be found in the 2010 OECD TP Guidelines at paragraph 1.33.
+99. For further guidance on the factors determining comparability, refer to paragraphs 1.38 to 1.63 of the 2010 OECD TP Guidelines.
+100. If potential comparable circumstances are not documented at all, and it is reasonable to expect that those potential comparable circumstances should have been identified and considered, because it is or was evidently material to the application of the Subdivision, an entity risks having an undocumented transfer pricing treatment. If documented comparable circumstances are inexplicably inconsistent with the 2010 OECD TP Guidelines, an entity again bears a similar risk. If potential comparable circumstances were identified but there is a failure to reach consensus on the explanation about why it was included or rejected, then this should not in and of itself result in a view that the transfer pricing treatment has not been documented.
+Question 3:  What are the particulars of the methods used to identify the arm's length conditions?
+101. The documentation should allow the particulars of the methods used relevant to identifying the arm's length conditions to be readily ascertained.
+[32]
+The documentation should explain why the method used is the most appropriate and reliable and should include consideration of the relevant factors in subsection 815-125(2) of ITAA 1997. The documentation, in explaining the method or combination of methods used, should draw upon the information documented for the actual conditions and comparable circumstances.
+102. Consistent with paragraph 2.2 of the 2010 OECD TP Guidelines, subsection 815-125(2) of the ITAA 1997 states:
+In identifying the *arm's length conditions, use the method, or the combination of methods, that is the most appropriate and reliable, having regard to all relevant factors, including the following:
+(a)
+the respective strengths and weaknesses of the possible methods in their application to the actual conditions;
+(b)
+the circumstances, including the functions performed, assets used and risks borne by the entities;
+(c)
+the availability of reliable information required to apply a particular method;
+(d)
+the degree of comparability between the actual circumstances and the comparable circumstances, including the reliability of any adjustments to eliminate the effect of material differences between those circumstances.
+Note: The possible methods include the methods set out in the documents mentioned in section 815-135 (about relevant guidance material).
+103. Similar to paragraph 2.2 of the 2010 OECD TP Guidelines, paragraph 3.108 of the EM states:
+The method must be capable of practicable application and produce an arm's length outcome that is a reasonable estimate of what would have been expected if the dealings had been undertaken between independent entities dealing wholly independently with one another.
+104. In addressing question 3, an entity's documentation should provide an explanation based on these factors to support the selection of the method or methods used. This explanation should include how the selection of the method used best achieves consistency with the 2010 OECD TP Guidelines.
+[33]
+105. In instances where an alternative method or combination of methods to OECD-recognised methods provides a more appropriate arm's length outcome, the selection should be supported by an explanation of why OECD-recognised methods were regarded as less appropriate and why the alternative method or combination of methods selected was regarded as more appropriate.
+[34]
+106. Further information on the transfer pricing methods is outlined in chapter II of the 2010 OECD TP Guidelines.
+Question 4:  What are the arm's length conditions and is/was the transfer pricing treatment appropriate?
+107. The documentation must allow for the arm's length conditions to be readily ascertained and must explain the particular way in which the Subdivision applies (or does not apply) to the matter (or matters).
+108. The arm's length conditions should be clearly identified and explained in the context of the particulars of the method or combination of methods used in identifying the arm's length conditions and the relevant comparable circumstances.
+109. To document a transfer pricing treatment, the documentation should explain the application of the arm's length principle in Subdivision 815-B or 815-C in the ITAA 1997, which is based on a comparison of the actual conditions with the arm's length conditions.
+110. In the case of the arm's length conditions between entities under Subdivision 815-B of the ITAA 1997, the records must explain the arm's length conditions and the actual conditions for each transfer pricing treatment. The arm's length conditions will then need to be compared to the actual conditions to ascertain whether there is a difference that results in a transfer pricing benefit.
+111. If the actual conditions differ from the arm's length conditions, thereby giving rise to a transfer pricing benefit, the arm's length conditions are taken to operate for income tax and withholding tax purposes.
+[35]
+112. For permanent establishments, the records must explain the transfer pricing treatment and why the transfer pricing treatment best achieves consistency with the prescribed guidance. This will need to be explained in the context of the arm's length profits compared to the actual profits of the permanent establishment to ascertain whether there is a difference that results in a transfer pricing benefit.
+[36]
+113. If the actual profits differ from the arm's length profits, thereby giving rise to a transfer pricing benefit, the arm's length profits are taken to have been attributed to the permanent establishment of an entity.
+114. If the entity's documentation shows that the Subdivision applies and the entity is required to substitute the arm's length conditions or the arm's length profits, the entity should document how they gave effect to this in working out their Australian tax position.
+115. Relevantly, in considering question 4, it should be clear from the documentation that the identification of the arm's length conditions is supported by the actual conditions, the method selected, comparable circumstances and that the transfer pricing treatment best achieves consistency with the prescribed guidance material. It may be advisable in some cases to check the commerciality of the outcome at this step with the application of another transfer pricing method. That is, another method may be used as a cross check to ensure that the outcome is consistent with the arm's length principle. For instance, if a CUP is the primary method, the commercial outcomes may be checked with a profit method. This cross check may indicate that there is an issue with one of the elements of the documentation but would not in and of itself mean that the transfer pricing treatment will be treated as undocumented.
+Question 5:  Have any material changes and updates been identified and documented?
+116. One of the Subdivision 284-E requirements is that the records are contemporaneous. If documentation is for a relevant dealing that is relevant to more than one income year, the documentation will need to be updated to include any changes that are likely to have a material effect on transfer pricing treatment for that year.
+117. For transfer pricing documentation to be contemporaneous, an entity needs to identify, record and explain any material changes.
+118. Paragraph 3.82 of the 2010 OECD TP Guidelines states:
+It is a good practice for taxpayers to set up a process to establish, monitor and review their transfer prices, taking into account the size of the transactions, their complexity, level of risk involved, and whether they are performed in a stable or changing environment. Such a practical approach would conform to a pragmatic risk assessment strategy or prudent business management principle. In practice, this means that it may be reasonable for a taxpayer to devote relatively less effort to finding information on comparables supporting less significant or less material controlled transactions. For simple transactions that are carried out in a stable environment and the characteristics of which remain the same or similar, a detailed comparability (including functional) analysis may not be needed every year.
+119. Types of relevant and material changes may include:
+•
+new competition in an existing market or entry into a new market,
+•
+development of new products or know-how,
+•
+new business strategies,
+•
+the impact of economic conditions on a specific market or business segment,
+•
+change in the incidence of risk, and
+•
+internal changes, such as changes to the capital structure, management or ownership of the taxpayer's business.
+120. To take account of any impact on actual conditions and arm's length conditions and whether it has made the necessary adjustments in terms of its transfer prices, an entity should check the following:
+•
+the selection and application of the transfer pricing methods, and
+•
+the particulars of the comparable circumstances relevant to identifying the actual conditions and the arm's length conditions.
+121. If an entity's documentation is not contemporaneous because it has not been updated to include and explain a material change relevant to the transfer pricing treatment, the Subdivision 284-E documentation requirements may not be met in that income year.
+How to address section 815-130
+122. The ATO understands that compliance with section 815-130 of the ITAA 1997 is an area of particular concern for taxpayers. The features set out below may assist an entity when considering what an entity is to document contemporaneously in relation to its transfer pricing treatment, in particular, the identification of the arm's length conditions under section 815-130. These are iterative considerations and an entity should document only those features that apply to its facts and circumstances:
+(a)
+the identification of the commercial or financial relations and the actual conditions that operate in connection with those relations,
+(b)
+a consideration of the form and substance of the actual commercial or financial relations to determine the extent to which they are consistent,
+(c)
+the disregarding of the form of the actual commercial or financial relations to the extent (if any) it is inconsistent with the substance of those relations,
+(d)
+the identification of the commercial or financial relations that would be entered into by independent entities dealing wholly independently with each other in comparable circumstances,
+(e)
+an evaluation of the degree of comparability between the actual commercial or financial relations with the conditions in commercial or financial relations between independent entities in comparable circumstances by application of comparability analysis based on all relevant factors, the concept of materiality and potential adjustments to improve comparability where reasonably accurate adjustments can be made in the course of identifying what independent entities dealing wholly independently would have done,
+(f)
+the determination on the basis of a systematic comparability analysis of whether independent entities dealing wholly independently with one another in comparable circumstances would have entered into the actual commercial or financial relations,
+(g)
+in cases where independent entities would not have entered into the actual commercial or financial relations, an evaluation, based on the evidence, of whether independent entities dealing wholly independently with one another would have entered into other commercial or financial relations that differ in substance from the actual commercial or financial relations. In relevant cases, a description of those other commercial or financial relations based on a comparability analysis,
+(h)
+the use of the actual relations, if they meet the economic substance and arm's length requirements, as a basis for identifying the arm's length conditions, and
+(i)
+in other cases, the use of the arm's length commercial or financial relations as a basis for identifying the arm's length conditions, provided independent entities dealing wholly independently with one another would have in fact entered into commercial or financial relations.
+Appendix 3 - Quick Reference Table
+123. The following is a quick legislative reference table for this Ruling:
+Documentation
+Legislative references
+Schedule 1 to the TAA 1953
+ITAA 1997
+- the actual conditions relevant to the matter (or matters)
+Paragraphs 284-255(2)(d) and (e) (the records must allow the actual conditions or profits to be readily ascertained)
+Subsection 815-125(3) about comparability of circumstances
+Section 815-130 about the relevance of actual commercial or financial relations
+Section 815-225 (permanent establishments)
+- comparable circumstances relevant to identifying the arm's length conditions
+Paragraph 284-255(2)(b) (the records must allow the comparable circumstances relevant to identifying the arm's length conditions to be readily ascertained)
+Subsections 815-125(3) and (4) about comparability of circumstances
+- the particulars of the method or methods used to identify the arm's length conditions
+Paragraph 284-255(2)(b) (the records must allow the particulars of the method used relevant to identifying the arm's length conditions to be readily ascertained)
+Subsection 815-125(2) about the most appropriate and reliable method to be used
+- the arm's length conditions and application of the Subdivision
+Paragraph 284-255(1)(c) explains the particular way in which the Subdivision applies (or does not apply) to the matter (or matters)
+Paragraph 284-255(1)(c) explains why this best achieves consistency with guidance material
+Section 815-125 and 815-225 about the meaning of arm's length conditions or profits Section 815-115 and 815-215 about the substitution of the arm's length conditions or arm's length profits
+- identification and documentation of material changes
+Paragraph 284-255(1)(a) about contemporaneous documentation
+See above
+Appendix 4 - Detailed contents list
+124. The following is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Background
+5
+Ruling
+21
+The legislative scheme
+21
+General approach to the Subdivision
+27
+Records kept by an entity - the meaning of 'kept'
+31
+'Prepared before the time by which the entity lodges its income tax return for the income year relevant to the matter (or matters)' (paragraph 284-255(1)(a))
+33
+The records 'are in English, or readily accessible and convertible into English' (paragraph 284-255(1)(b))
+36
+'Explain the particular way in which the Subdivision applies (or does not apply) to the matter (or matters)' (paragraph 284-255(1)(c))
+37
+'Explain why the application of the Subdivision to the matter (or matters) in that way best achieves the consistency mentioned in sections 815-135 or 815-235' of the ITAA 1997 (the prescribed guidance material) (paragraph 284-255(1)(d))
+45
+'Explain the particular way in which the Subdivision applies (or does not apply) to the matter (or matters)' (paragraph 284-255(1)(c)) in the context of applying section 815-130 of the ITAA 1997
+49
+'Explain the particular way in which the Subdivision applies (or does not apply) to the matter (or matters)' (paragraph 284-255(1)(c)) in the context of applying section 815-140 of the ITAA 1997
+58
+'Readily ascertained' (subsection 284-255(2))
+61
+The interaction between subsection 262A(1) of the ITAA 1936 (which deals with the general record keeping requirements) and Subdivision 284-E
+62
+Contemporaneous documentation for trusts and partnerships under Subdivision 815-D
+63
+Date of effect
+64
+Appendix 1 - Example
+66
+'Prepared before the time by which the entity lodges its income tax return for the income year relevant to the matter (or matters)' (paragraph 284-255(1)(a))
+66
+Example
+-
+Records prepared and kept
+67
+Appendix 2 - A suggested framework for satisfying Subdivision 284-E
+74
+Introduction
+74
+Key questions
+80
+Question 1: What are the actual conditions that are relevant to the matter (or matters)?
+82
+Relevance of actual commercial or financial relations
+88
+Comparability factors
+94
+Question 2: What are the comparable circumstances relevant to identifying the arm's length conditions
+?
+97
+Question 3: What are the particulars of the methods used to identify the arm's length conditions
+?
+101
+Question 4: What are the arm's length conditions and is/was the transfer pricing treatment appropriate
+?
+107
+Question 5: Have any material changes and updates been identified and documented
+?
+116
+How to address section 815-130
+122
+Appendix 3
+-
+Quick Reference Table
+123
+Appendix 4
+-
+Detailed contents list
+124
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+See paragraphs 18 and 25 of TR 2014/6.
+[2]
+The OECD Model Tax Convention on Income and on Capital and its Commentaries was updated as from 15 July 2014. No regulations exist as at the date of release of this Ruling.
+[3]
+The Commissioner may still make determinations for consequential adjustments under section 815-145 the ITAA 1997.
+[4]
+"This Act" is defined under subsection 6(1) of the ITAA 1936 to include the ITAA 1997, Schedule 1 to the TAA 1953 and Part IVC of the TAA 1953.
+[5]
+For ease of reference, the term 'Transfer pricing treatment' in this ruling includes the application (or non-application) of a transfer pricing rule or the transfer pricing rules to a matter (or identical matters).
+[6]
+Refer to section 284-15.
+[7]
+Administrative penalties for statements, unarguable positions and schemes.
+[8]
+Section 284-160. Guidelines for the administration of transfer pricing administrative penalties are set out in PS LA 2014/2.
+[9]
+Explanatory Memorandum to the Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Bill 2013 (EM), paragraph 2.34.
+[10]
+Section 284-160.
+[11]
+Refer to paragraphs 32 to 40 of PS LA 2014/2.
+[12]
+For an explanation of this term, see paragraph 35 of this Ruling.
+[13]
+Section 815-105 of the ITAA 1997. An entity that gets a transfer pricing benefit must substitute the arm's length conditions for the actual conditions or the arm's length profits for the actual profits, as the case may be, see sections 815-115 and 815-215 of the ITAA 1997.
+[14]
+For example, one that specifies the price or consideration payable for goods or the provision of services.
+[15]
+EM paragraph 6.25.
+[16]
+See paragraph 108 to 109 of PS LA 2014/2 which sets out the remission circumstances unique to an entity.
+[17]
+In relation to section 815-130 of the ITAA 1997, see also paragraphs 49 to 57 and 122 of this Ruling and TR 2014/6.
+[18]
+For electronic records, the Electronic Transactions Act 1999 requires that those records be 'readily accessible so as to be usable for subsequent reference'. Taxation Ruling TR 2005/9 Income Tax:  record keeping - electronic records, at paragraph 19, states, 'It is expected that that electronically stored information should be retrievable on the taxpayer's computer system and or databases for the full retention period required by law and that where electronic records are made available in compliance with record keeping requirements that they be 'readily accessible'.
+[19]
+See paragraph 47 to 48 of Taxation Ruling TR 96/7 Income Tax:  record keeping - section 262A - general principles states that 'keep' means to make and retain for the purposes of section 262A of the ITAA 1936. The view taken in this ruling is consistent with that view.
+[20]
+"The meaning of the term 'explain' is consistent with the meaning applied in TR 96/7 in the context of section 262A of the ITAA 1936 (paragraph 30 of TR 96/7)"
+[21]
+Sections 815-120 and 815-220 of the ITAA 1997.
+[22]
+Paragraph 284-255(1)(d).
+[23]
+See subsection 815-125(4) of the ITAA 1997.
+[24]
+In relation to full and true disclosures, Menzies J, in Austin Distributors Pty Ltd v Federal Commissioner of Taxation (1964) 13 ATD 429, adopted an approach that is very close to an objective standard; that is, an ascertainable minimum amount of information from which the Commissioner could make a correct assessment. In some cases, it has been ruled that the taxpayer had made disclosure sufficient for the Commissioner to reach a conclusion on the facts before him. In W Thomas & Co Pty Ltd v Federal Commissioner of Taxation (1965) 115 CLR 58; (1965) 39 ALJR 246; [1966] ALR 915; (1965) 14 ATD 78; [1965] HCA 54 , Windeyer J observed that there has not been a failure of proper disclosure simply because more facts emerge before the court than were made available to the Commissioner. In relation to whether a matter is material when documenting a transfer pricing treatment, an entity should focus on what is stated in this paragraph rather than whether there is an 'ascertainable minimum amount of information'.
+[25]
+Subsection 284-255(1) of Schedule 1 to the TAA 1953.
+[26]
+EM, paragraph 3.27.
+[27]
+The term 'readily ascertained' is not defined in the ITAA 1936, the ITAA 1997 or the TAA 1953. The Macquarie Dictionary Online, Sixth Edition (published October 2013) defines 'readily' as 1. promptly; quickly; easily, 2. in a ready manner; easily.
+[28]
+Section 284-250. Also, see paragraph 35 of this Ruling.
+[29]
+See paragraph 37 of this Ruling.
+[30]
+In W. Thomas & Co Pty Ltd v. Federal Commissioner of Taxation (1965) 115 CLR 58, Windeyer J was considering whether a taxpayer had made a full and true disclosure of all the material facts relevant to a claim for a deduction of an amount claimed to have been incurred for repairs to the taxpayer's premises. Having found that the work was capital in nature, the question of whether the amended assessment in dispute was validly issued under original subsection 170(2) of the ITAA 1936, or was not permissible under original subsection 170(3), was crucial.
+[31]
+See section 815-130 of the ITAA 1997.
+[32]
+Paragraph 284-255(2)(b).
+[33]
+The EM sets out a discussion on selecting the method or combination of methods to determine the arm's length conditions.
+[34]
+OECD TP Guidelines, paragraph 2.9.
+[35]
+Sections 815-120 and 815-115 of the ITAA 1997.
+[36]
+Section 815-215, 815-220 and 815-225 of the ITAA 1997.
+Previously released in draft form as TR 2014/D4
+References
+ATO references:
+NO  1-5EO68X8
+ISSN: 1039-0731
+Related Rulings/Determinations:
+TR 96/7
+TR 2005/9
+TR 2006/10
+TR 2014/6
+Subject References:
+actual conditions,arm's length conditions
+arm's length principle,arm's length profits
+associated entities
+comparable circumstances,contemporaneous documentation
+cross-border test
+documentation
+methods used
+multinational enterprise
+OECD Guidelines
+OECD Model Tax Convention
+Organisation for Economic Co-operation & Development
+risk assessment
+tax treaties
+transfer pricing
+transfer pricing documentation
+transfer pricing method
+transfer pricing rules
+transfer pricing treatment
+Business Line:
+PG
+Legislative References:
+ITAA 1936
+ITAA 1936 6(1)
+ITAA 1936 170(2)
+ITAA 1936 262A
+ITAA 1936 262A(1)
+ITAA 1936 Pt III Div 13
+ITAA 1997
+ITAA 1997 Subdiv 815-A
+ITAA 1997 Subdiv 815-B
+ITAA 1997 815-105
+ITAA 1997 815-115
+ITAA 1997 815-120
+ITAA 1997 815-120(1)(c)
+ITAA 1997 815-120(3)
+ITAA 1997 815-125(2)
+ITAA 1997 815-125(3)
+ITAA 1997 815-125(4)
+ITAA 1997 815-130
+ITAA 1997 815-130(1)
+ITAA 1997 815-130(4)
+ITAA 1997 815-135
+ITAA 1997 815-140
+ITAA 1997 815-140(2)
+ITAA 1997 815-145
+ITAA 1997 Subdiv 815-C
+ITAA 1997 815-215
+ITAA 1997 815-220
+ITAA 1997 815-225
+ITAA 1997 815-235
+ITAA 1997 Subdiv 815-D
+TAA 1953
+TAA 1953 Pt IVC
+TAA 1953 Sch 1 Div 284
+TAA 1953 Sch 1 284-15
+TAA 1953 Sch 1 Subdiv 284-E
+TAA 1953 Sch 1 284-160
+TAA 1953 Sch 1 284-250
+TAA 1953 Sch 1 284-255
+TAA 1953 Sch 1 284-255(1)
+TAA 1953 Sch 1 284-255(1)(a)
+TAA 1953 Sch 1 284-255(1)(b)
+TAA 1953 Sch 1 284-255(1)(c)
+TAA 1953 Sch 1 284-255(1)(d)
+TAA 1953 Sch 1 284-255(2)
+TAA 1953 Sch 1 284-255(2)(b)
+Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Act 2013
+Electronic Transactions Act 1999
+Case References:
+Austin Distributors Pty Ltd v Federal Commissioner of Taxation
+(1964) 13 ATD 429
+W Thomas & Co Pty Ltd v Federal Commissioner of Taxation
+(1965) 115 CLR 58
+(1965) 39 ALJR 246
+[1966] ALR 915
+(1965) 14 ATD 78
+[1965] HCA 54
+Other References:
+Explanatory Memorandum to the Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Bill 2013
+Law Administration Practice Statement
+PS LA 2014/2
+Law Administration Practice Statement
+PS LA 2014/3
+Macquarie Dictionary Online, Sixth Edition (published October 2013)
+Model Tax Convention on Income and on Capital, and its Commentaries, OECD, 22 July 2010
+Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations, OECD, 22 July 2010
+Back to top

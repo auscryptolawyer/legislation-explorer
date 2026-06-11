@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 82KZMGA Deductions for certain forestry expenditure
 
-
 <a id="s82KZMGA-1"></a>
 **(1)** A taxpayer cannot deduct expenditure in relation to which the requirements in section 82KZMG (apart from paragraph 82KZMG(2)(a)) are met if:
 

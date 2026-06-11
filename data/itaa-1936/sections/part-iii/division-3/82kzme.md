@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 82KZME Expenditure under some agreements
 
-
 <a id="s82KZME-1"></a>
 **(1)** Section 82KZMF applies to set the amount and timing of deductions for expenditure that a taxpayer incurs in a year of income (the expenditure year) if:
 

@@ -15,7 +15,6 @@ source_pdf: "vol01.pdf"
 
 # 51AEB Meal entertainment—election under section 37CA of Fringe Benefits Tax Assessment Act 1986 to use the 12 week register method
 
-
 <a id="s51AEB-1"></a>
 **(1)** If a taxpayer has made an election under section 37CA of the Fringe Benefits Tax Assessment Act 1986:
 

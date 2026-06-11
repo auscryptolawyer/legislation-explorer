@@ -1,0 +1,779 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+26 related documents
+Practical Compliance Guideline
+PCG 2024/2
+Electric vehicle home charging rate - calculating electricity costs when a vehicle is charged at an employee's or individual's home
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+What this Guideline is about
+1
+Who this Guideline applies to
+8
+Employers who can rely on this Guideline
+8
+Individuals who can rely on this Guideline
+9
+Date of effect
+11
+Practical compliance approach
+13
+Electric vehicles
+16
+Plug-in hybrid electric vehicles
+17
+Plug-in hybrid electric vehicle methodology
+18
+Step 1: Calculate actual petrol costs for the FBT or income year
+18
+Step 2: Calculate actual quantity of petrol purchased in the year
+19
+Step 3: Calculate total petrol kilometres
+21
+Step 4: Calculate total annual kilometres
+22
+Step 5: Calculate total electricity kilometres
+23
+Step 6: Calculate total electricity cost
+25
+Step 7: Calculate total fuel expenses
+27
+Home charging percentage can be accurately determined
+28
+Example 1 – home charging percentage can be accurately determined
+30
+Home charging percentage cannot be accurately determined
+33
+Example 2 – home charging percentage cannot be accurately determined
+35
+Transitional approachs
+37
+Vehicles that are not plug-in hybrid electric vehicles – 2022–23 and 2023–24 FBT and income tax years
+37
+Vehicles that are plug-in hybrid electric vehicles – 2024–25 FBT and income tax years
+38
+Employers with FBT obligations
+40
+Taxable value of a car fringe benefit
+40
+Expense payment fringe benefit
+43
+Residual fringe benefit
+45
+Examples
+46
+Example 3 – reimbursement by the employer of electricity charging cost for a car benefit provided under a novated lease arrangement
+47
+Example 4 – reimbursement of electricity charging cost as a car expense payment benefit
+52
+Example 5 – statutory formula method, electric vehicle above the luxury car tax threshold and not eligible for FBT exemption
+55
+Example 6 – electric vehicle eligible for FBT exemption and benefit is required to be included in employee's reportable fringe benefits amount
+59
+Example 7 – home charging of electric vehicle using operating cost method
+66
+Example 8 – plug-in hybrid electric vehicle is eligible for the FBT exemption and benefit is required to be included in employee's reportable fringe benefits amount
+71
+Example 9 – plug-in hybrid electric vehicle is not eligible for the FBT exemption and car fringe benefit is calculated using operating cost method
+79
+Deductibility of electric vehicle or plug-in hybrid electric vehicle electricity charging expenses for income tax purposes
+87
+Electric vehicles
+91
+Plug-in hybrid electric vehicles
+96
+Example 10 – home charging of electric vehicle using logbook method
+97
+Example 11 – home charging of plug-in hybrid electric vehicle using logbook method
+102
+Record keeping
+111
+Relying on this Guideline
+This Practical Compliance Guideline sets out a practical administration approach to assist taxpayers in complying with relevant tax laws. Provided you follow this Guideline in good faith, the Commissioner will administer the law in accordance with this approach.
+What this Guideline is about
+1. Zero emissions vehicle
+[1]
+(electric vehicle) and plug-in hybrid electric vehicle
+[2]
+(PHEV) use is on the rise in Australia. Employers with fringe benefits tax (FBT) obligations and individual taxpayers (individuals) who incur work-related car and motor vehicle expenses face a compliance challenge in calculating electricity costs of charging vehicles at residential premises. This is because electricity usage for charging electric vehicles and PHEVs is combined with the total electrical consumption of the household, and often cannot be separately identified and valued.
+2. To address the compliance challenge for employers and individuals, this Guideline outlines methodologies we have developed to calculate the cost of electricity when an electric vehicle or PHEV is charged at an employee's or individual's home.
+3. A different methodology applies to PHEVs which recognises that they operate on a combination of both electricity and petrol fuel.
+4. To determine the cost of the electricity used, an individual or an employer may choose to use one of the methodologies outlined in this Guideline, or, may identify the actual cost. The choice of method is to be made for each vehicle and is to be applied for the whole of the income or FBT year. The method chosen can be changed by the employer or individual from year to year.
+5. This Guideline does not apply to electric motorcycles or electric scooters.
+6. Table 1 of this Guideline outlines the relevant provisions for FBT and income tax purposes for which the electric vehicle or PHEV home charging rate (EV home charging rate) may be applied.
+Table 1: When to apply the EV home charging rate
+Fringe Benefits Tax Assessment Act 1986
+(FBTAA)
+Income Tax Assessment Act 1997
+(ITAA 1997)
+•
+taxable value of a car
+[3]
+fringe benefit under Subdivision B of Division 2 of Part III
+•
+taxable value of a residual fringe benefit
+[4]
+under Subdivision B of Division 12 of Part III
+•
+taxable value of a car expense payment fringe benefit under Division 5 of Part III
+•
+reimbursement of car expenses under Division 13 of Part III
+•
+reportable fringe benefits amount under Part XIB
+•
+car
+[5]
+expenses claimed using the logbook method under Division 28
+•
+motor vehicle
+[6]
+expenses claimed under section 8-1
+7. This Guideline does not deal with the GST implications of payments that employers make to their employees in relation to the cost of charging of an electric vehicle or PHEV at an employee's home.
+Who this Guideline applies to
+Employers who can rely on this Guideline
+8. You may rely on this Guideline to calculate electricity costs of charging an electric vehicle or PHEV at the employee's home if you are an employer who:
+•
+provides the electric vehicle or PHEV to an employee or their associate for private use resulting in the provision of either a car fringe benefit
+[7]
+or a residual fringe benefit, or pays for expenses associated with the car resulting in a car expense payment benefit
+•
+provides the electric vehicle or PHEV to an employee or their associate who charges the electric vehicle or PHEV using electricity at a residential premises, where the electricity cost directly attributable to charging that vehicle cannot be practically segregated from the cost of running other electrical appliances in the home, and
+•
+is required to calculate the taxable value for one or more of the following as part of your FBT obligations
+-
+car fringe benefit
+-
+residual fringe benefit
+-
+car expense payment benefit – where the electricity charging cost incurred by the employee is reimbursed by the employer, or
+-
+the grossed-up taxable value for reporting of the reportable fringe benefits amount (RFBA) for your employee – which continues to be reportable, even if the car benefit arising from the provision of the electric vehicle or PHEV is exempt.
+[8]
+Individuals who can rely on this Guideline
+9. You may rely on this Guideline to calculate electricity costs of charging an electric vehicle or PHEV at your home if you:
+•
+use either an electric vehicle or PHEV in gaining or producing your assessable income
+•
+incur electricity expenses when charging your vehicle at home, and
+•
+have kept the relevant records
+[9]
+for the income year.
+10. If you choose to rely on this Guideline, you must have incurred the vehicle home charging electricity cost. The vehicle home charging electricity cost is incurred when an amount is actually paid or when a definitive obligation to pay the amount arises. This will generally occur where you have entered into a contract for the supply of electricity for the home which is in place at the time you charge the electric vehicle or PHEV. Further, it would generally be accepted the electricity cost is incurred by you where there is a private household arrangement under which you had a shared obligation (either solely or jointly) to pay the bill in a household. See Taxation Ruling TR 97/7
+Income tax: section 8-1 – meaning of 'incurred' – timing of deductions
+for more detailed guidance on the meaning of 'incurred' and the timing of deductions under section 8-1 of the ITAA 1997.
+Date of effect
+11. This Guideline applies for electric vehicles:
+•
+for FBT purposes, from 1 April 2022, when calculating the taxable value of benefits outlined in Table 1 of this Guideline, or
+•
+for income tax purposes, from 1 July 2022, when calculating the relevant car or motor vehicle expenses, as outlined in Table 1 of this Guideline.
+12. This Guideline applies for PHEVs:
+•
+for FBT purposes, from 1 April 2024, when calculating the taxable value of benefits outlined in Table 1 of this Guideline, or
+•
+for income tax purposes, from 1 July 2024, when calculating the relevant car or motor vehicle expenses, as outlined in Table 1 of this Guideline.
+Practical compliance approach
+13. If you are an employer that satisfies the criteria outlined in paragraph 8 of this Guideline, you can choose to rely on this Guideline.
+14. If you are an individual who satisfies the criteria outlined in paragraph 9 of this Guideline, you can choose to rely on this Guideline.
+15. If you choose to rely on this Guideline for an electric vehicle or PHEV, that choice applies for the whole of the FBT or income year. However, you may choose to use a different method from year to year.
+Electric vehicles
+16. The Commissioner would not have cause to apply compliance resources to review your calculation of electricity costs of charging an electric vehicle at a residential premises for FBT purposes or for income tax purposes (see Table 1 of this Guideline) if you multiply the cents per kilometre rate (the EV home charging rate indicated in Table 2 of this Guideline) by the total number of relevant kilometres travelled by the electric vehicle in the relevant income year or FBT year.
+Table 2: Cents per kilometre rate
+Rate applying
+EV home charging rate
+Fringe benefits tax year or income year commencing on and after 1 April 2022
+4.20 cents per km
+[10]
+Plug-in hybrid electric vehicles
+17. The Commissioner would not have cause to apply compliance resources to review your calculation of electricity costs of charging a PHEV at a residential premises for FBT purposes or for income tax purposes (see Table 1 of this Guideline) if you apply the methodology in paragraphs 18 to 27 of this Guideline.
+Plug-in hybrid electric vehicle methodology
+Step 1: Calculate actual petrol costs for the FBT or income year
+18. This is your actual petrol
+[11]
+costs for the PHEV for either the FBT or income year (year).
+Step 2: Calculate actual quantity of petrol purchased in the year
+19. To calculate the actual quantity of petrol purchased in the year (petrol amount), you can either:
+•
+total the actual quantity in litres of petrol purchased during the year, or
+•
+convert actual petrol cost to litres of petrol purchased in the year by dividing the Step 1 amount by the average petrol rate.
+20. You can calculate the average petrol rate (that is, average cost per litre of petrol purchased) yourself using a reasonable basis or by using published information such as the Australian Institute of Petroleum's
+AIP Annual Retail Price Data
+.
+Step 3: Calculate total petrol kilometres
+21. Calculate the total petrol kilometres travelled by the PHEV during the year by converting the petrol amount into litres using the PHEV's petrol consumption rate. You do this by dividing the Step 2 result by the petrol consumption rate.
+Total petrol km = Step 2 amount ÷ petrol consumption rate
+Where:
+•
+Petrol consumption rate is the Condition B test cycle fuel economy figure, which is comparable to the vehicle in standard 'hybrid driving mode'. This will need to be obtained from the PHEV manufacturer or another reliable source.
+[12]
+Step 4: Calculate total annual kilometres
+22. Calculate the total annual kilometres, using your PHEV's odometer readings, as follows:
+•
+Subtract from the odometer reading at the end of the year either
+-
+the odometer reading at the start of the year, or
+-
+the odometer reading
+o
+for FBT purposes – when the PHEV was first made available for private use during the year
+o
+for income tax purposes – if the PHEV was purchased part-way through the same year, when the PHEV was purchased.
+Step 5: Calculate total electricity kilometres
+23. Calculate the total electricity kilometres using the following formula:
+Total electricity km = Step 4 amount (total annual km) - the Step 3 amount (total petrol km)
+24. This is the total kilometres driven by the PHEV using electricity.
+Step 6: Calculate total electricity cost
+25. Calculate the total electricity cost by multiplying the Step 5 amount (total electricity kilometres) by the EV home charging rate.
+Total electricity cost = Step 5 amount (total electricity km) × EV home charging rate
+26. Refer to Table 2 of this Guideline for the EV home charging rate.
+Step 7: Calculate total fuel expenses
+27. Calculate the total fuel expenses by adding the Step 1 amount (actual petrol costs) to the Step 6 amount (total electricity cost).
+Total fuel expenses = Step 1 amount (actual petrol costs) + Step 6 amount (total electricity costs)
+Home charging percentage can be accurately determined
+28. Where an electric vehicle or PHEV has the functionality to accurately report the percentage of a vehicle's total charge based on the type of charging location, electric vehicle charging costs can include both home charging and commercial charging station costs. This is because the extent to which the vehicle has been charged at home (that is, its home charging percentage) can be accurately determined.
+29. The total number of relevant kilometres used to calculate home charging costs must be adjusted by applying the home charging percentage to arrive at the relevant kilometres for the purpose of this Guideline.
+Example 1 – home charging percentage can be accurately determined
+30.
+Bill owns an electric vehicle which generates a report detailing the annual percentage of total charge that relates to home charging. Bill charges his electric vehicle 75% at home during the 2022–23 FBT year.
+31.
+Bill travels a total of 10,000 km in the 2022–23 FBT year. His home charging kilometres are determined by applying the home charging percentage of 75% to the 10,000 total kilometres travelled. Therefore, the relevant kilometres for the purpose of this Guideline are 7,500 km.
+32.
+Bill has kept relevant records and can therefore also claim the cost of electricity purchased at a commercial charging station.
+Home charging percentage cannot be accurately determined
+33. If electric vehicle or PHEV charging costs are incurred at a commercial charging station and the home charging percentage cannot be accurately determined, you can choose to either:
+•
+use the EV home charging rate, but only if the commercial charging station cost is disregarded, or
+•
+use the commercial charging station cost, but only if the EV home charging methodology set out in this Guideline is not applied.
+34. Further, all necessary records such as receipts must be kept to substantiate the claim, as per normal record-keeping rules.
+Example 2 – home charging percentage cannot be accurately determined
+35.
+Sue owns an electric vehicle. She usually charges it at home and occasionally at a commercial charging station. Her electricity purchase from the commercial charging station was $250 for the income year. Sue has kept the relevant records
+[13]
+and opts to rely on this Guideline but her electric vehicle does not have the functionality to accurately determine her home charging percentage.
+36.
+Using the EV home charging rate, Sue calculates her electricity work-related car expenses to be $840. Given Sue has relied on this Guideline, she must disregard the $250 cost of electricity purchased at a commercial charging station and not include the amount as part of her work-related car expenses deduction claim.
+Transitional approaches
+Vehicles that are not plug-in hybrid electric vehicles – 2022–23 and 2023–24 FBT and income tax years
+37. If odometer records have not been maintained as at the start of the 2022–23 or 2023–24 FBT or income tax years (that is, as at 1 April or 1 July 2022, or as at 1 April or 1 July 2023), for vehicles that are not PHEVs, a reasonable estimate may be used based on service records, logbooks or other available information.
+Vehicles that are plug-in hybrid electric vehicles – 2024–25 FBT and income tax years
+38. If odometer records have not been maintained for PHEVs, as at the start or end of the 2024–25 FBT or income tax years (that is, as at 1 April or 1 July 2024, or 31 March or 30 June 2025), a reasonable estimate may be used based on service records, logbooks or other available information.
+39. If records substantiating actual petrol costs have not been maintained for PHEVs, as at the start of the 2024–25 FBT or income tax years (that is, as at 1 April or 1 July 2024), a reasonable estimate may be used based on available information.
+Employers with FBT obligations
+Taxable value of a car fringe benefit
+40. If you are an employer and your employees use a car you hold for private purposes, you may be providing a car fringe benefit and may be liable for FBT.
+41. To calculate the taxable value of a benefit arising from the provision of an electric vehicle or PHEV which is a car fringe benefit, you can use either the statutory formula method or the operating cost method.
+42. The EV home charging rate can be used under this Guideline to determine the home electricity charging costs for the:
+•
+statutory formula method – to include in the recipient contribution component, or
+•
+operating cost method – to include the electricity charging cost, both for the operating cost and the recipient contribution components.
+Expense payment fringe benefit
+43. An expense payment fringe benefit arises when your employee incurs home electricity charging expenses for the electric vehicle or PHEV that the employee owns, and you either reimburse them or pay a third party for the expense. This may be an exempt benefit where the EV home charging rate is used to calculate the amount of the reimbursement.
+[14]
+44. Where a car benefit is provided and you reimburse your employee's associated car expenses
+[15]
+, including fuel, the reimbursement of these expenses is an exempt benefit
+[16]
+and no FBT liability will arise. This would include the amount of a reimbursement that is calculated using the EV home charging rate.
+Residual fringe benefit
+45. Where you provide your employee with an electric vehicle or PHEV that is not a car
+[17]
+and is used for private purposes, a residual fringe benefit will arise (unless an exemption applies). To calculate the taxable value of the residual benefit you can apportion operating costs on the basis of the proportion of private kilometres to total kilometres travelled. This will probably require the keeping of a logbook. Alternatively, you can use the cents per kilometre method in respect of private kilometres travelled.
+[18]
+Examples
+46. The following examples illustrate the application of the practical compliance approach to calculating electricity costs of charging an electric vehicle or PHEV at the employee's home in an FBT context:
+Example 3 – reimbursement by the employer of electricity charging cost for a car benefit provided under a novated lease arrangement
+47.
+Sally and her employer have a salary sacrifice arrangement in place where benefits are provided in exchange for a reduction in salary. A car is provided under a novated lease agreement. The car is an electric vehicle, eligible for the electric vehicle exemption.
+48.
+Sally exclusively charges her vehicle at home. The odometer reading is provided for the relevant period, and the cost of electricity is calculated using the methodology for electric vehicles outlined in this Guideline.
+49.
+Sally seeks reimbursement of the electricity cost from her employer under the lease arrangement.
+50.
+The reimbursement of the electricity cost is an exempt car expense payment benefit under section 53 of the FBTAA.
+51.
+From a reportable fringe benefits perspective, expenses reimbursed under a salary sacrifice agreement are not a recipient contribution, and therefore cannot reduce the taxable value of the benefit.
+Example 4 – reimbursement of electricity charging cost as a car expense payment benefit
+52.
+Jack owns an electric vehicle and uses the vehicle for both work-related and private purposes. Based on Jack's records, he travels a total of 10,000 kilometres in the 2022–23 FBT year.
+53.
+Roger, who employs Jack, reimburses the home electricity charging cost Jack incurs. He calculates the amount of the reimbursement using the methodology for electric vehicles, to be:
+electric vehicle electricity charging cost = total km travelled by vehicle × EV home charging rate
+10,000 km × 4.20c = $420
+54.
+This amount is an exempt benefit under section 22 of the FBTAA. The amount will be included in Jack's assessable income under section 15-70 of the ITAA 1997.
+Example 5 – statutory formula method, electric vehicle above the luxury car tax threshold and not eligible for FBT exemption
+55.
+An employer purchases an electric vehicle for $120,000 (including goods and services tax and luxury car tax) on 1 July 2022. It is provided to an employee for private use for the 2022–23 FBT year, and the employee travels a total of 27,037 kilometres during that FBT year.
+56.
+The employee charges the electric vehicle at their residential premises throughout the year, pays for the electricity and provides the employer with the necessary declaration for the electricity costs. The home charging electricity cost is a recipient contribution amount.
+57.
+Applying the EV home charging rate and using the methodology for electric vehicles, the employee works out the home charging electricity cost as:
+electric vehicle electricity charging cost = total km travelled by vehicle × EV home charging rate
+27,037 km × 4.20c = $1,135
+58.
+Therefore, the taxable value for FBT purposes is:
+(base value of the car × statutory formula %) × (days held in year ÷ 365) - recipient contribution
+($120,000 × 20%) × (274 ÷ 365) - $1,135 = $16,881
+Example 6 – electric vehicle eligible for FBT exemption and benefit is required to be included in employee's reportable fringe benefits amount
+59.
+An employer purchases an electric vehicle for $60,000 (including goods and services tax) on 1 July 2022. It is provided to an employee for private use for the 2022–23 FBT year, and the employee travels a total of 27,037 kilometres.
+60.
+As the value of the electric vehicle at the first retail sale is below the luxury car tax threshold for fuel-efficient vehicles, and it is first held and used on or after 1 July 2022, the car fringe benefit is an exempt benefit and therefore not subject to FBT.
+61.
+However, its taxable value must be determined for the purpose of determining the employee's RFBA for the 2022–23 FBT year in which the exempt benefit is provided.
+62.
+The employee home-charges the electric vehicle throughout the year, pays the electricity bills and provides the employer with the necessary declaration for the electricity costs. The home charging electricity cost forms part of the recipient contribution amount.
+63.
+Applying the EV home charging rate and using the methodology for electric vehicles, the employee works out the home charging electricity cost as:
+electric vehicle electricity charging cost = total km travelled by vehicle × EV home charging rate
+27,037 km × 4.20c = $1,135
+64.
+Therefore, the taxable value for FBT purposes is:
+(base value of the car × statutory formula %) × (days held in year ÷ 365) - recipient contribution
+($60,000 × 20%) × (274 ÷ 365) - $1,135 = $7,873
+65.
+As the taxable value of the car fringe benefit provided to the employee exceeds $2,000 in the FBT year, the employer must include the grossed-up taxable value in the employee's RFBA.
+Example 7 – home charging of electric vehicle using operating cost method
+66.
+An electric vehicle purchased by an employer in April 2022 is provided to an employee for private use throughout the 2022–23 FBT year. During the FBT year, the employee travels a total of 27,037 kilometres.
+67.
+The employee home-charges the electric vehicle throughout the year, pays for the electricity and provides the employer with the necessary declaration for the electricity costs. The home charging electricity cost forms part of the recipient contribution amount.
+68.
+Applying the EV home charging rate and using the methodology for electric vehicles, the employee works out the home charging electricity cost as:
+total km travelled by vehicle × EV home charging rate = electric vehicle electricity charging cost
+27,037 km × 4.20c = $1,135
+69.
+The $1,135 home charging electricity cost forms part of the $11,800 total operating costs, which also includes insurance, registration, repairs, and decline in value. Further, the employee's logbook and odometer records for the 12-week period show 75% business travel and 25% private travel.
+70.
+Applying the operating cost method, the taxable value for FBT purposes is:
+A × B
+-
+C
+$11,800 × 25%
+-
+$1,135 = $1,815
+Where:
+•
+A is the total operating costs
+•
+B is the percentage of private use
+•
+C is the amount of the recipient contribution.
+Example 8 – plug-in hybrid electric vehicle is eligible for the FBT exemption and benefit is required to be included in employee's reportable fringe benefits amount
+71.
+An employer purchases a PHEV for $50,000 (including goods and services tax) on 1 July 2024. It is provided to an employee for private use for the 2024–25 FBT year and is the only non-cash benefit the employee receives. During the FBT year, the employee travels a total of 10,000 kilometres.
+72.
+As the value of the PHEV at the first retail sale is below the luxury car tax threshold for fuel-efficient vehicles, and it is first held and used on or after 1 July 2022, the car fringe benefit is an exempt benefit and therefore not subject to FBT.
+[19]
+73.
+However, its taxable value must be determined for the purpose of determining the employee's RFBA for the 2024–25 FBT year in which the exempt benefit is provided.
+74.
+The employee home-charges the PHEV throughout the year, pays the electricity bills and provides the employer with the necessary declaration for the electricity and fuel costs. The home charging electricity cost forms part of the recipient contribution amount.
+75.
+The employee provides the following information to the employer:
+•
+substantiated petrol costs totalling $1,000 for the FBT year
+•
+an average rate of petrol – that is, the average cost per litre over the FBT year, of $1.98 (this being determined having regard to AIP Annual Retail Price Data from the Australian Institute of Petroleum)
+•
+the Condition B test cycle fuel economy figure of 6.7 litres per 100 kilometres (provided by the vehicle's manufacturer)
+•
+the number of kilometres travelled during the FBT year as 10,000 kilometres (the vehicle had an odometer reading of 125 kilometres when it was first provided in the FBT year and an odometer reading of 10,125 kilometres at the end of the FBT year).
+76.
+Using the methodology for PHEVs, the employee works out the home charging electricity cost as:
+•
+Step 1: Calculate actual petrol costs for the year
+The employer calculates their substantiated petrol costs as $1,000.
+•
+Step 2: Calculate actual quantity of petrol purchased in the year
+The employer chooses to convert actual petrol cost to litres of petrol purchased in the year by dividing the Step 1 amount by the average petrol rate.
+Petrol amount = petrol purchased in year ÷ average petrol rate
+$1,000 ÷ $1.98 = 505 litres
+•
+Step 3: Calculate total petrol kilometres
+Total petrol km = Step 2 amount ÷ petrol consumption rate
+505 litres ÷ 0.067 = 7,537 km
+•
+Step 4: Calculate total annual kilometres
+Total annual km = odometer reading at end of year – odometer reading when car was first made available for private use
+10,125 km - 125 km = 10,000 km
+•
+Step 5: Calculate total electricity kilometres
+Total electricity km = Step 4 amount (total annual km) - the Step 3 amount (total petrol km)
+10,000 km - 7,537 km = 2,463 km
+•
+Step 6: Calculate total electricity cost
+Total electricity cost = Step 5 amount (total electricity km) × EV home charging rate
+2,463 km × 4.20c = $103.45
+•
+Step 7: Calculate total fuel expenses
+Total fuel expenses = Step 1 amount (actual petrol costs) + Step 6 amount (total electricity costs)
+$1,000 + $103 = $1,103
+77.
+Assuming the employer uses the statutory formula method, the taxable value for FBT purposes would be:
+(base value of the car × statutory formula %) × (days held in year ÷ 365) - recipient contribution
+($50,000 × 20%) × (274 ÷ 365) - $1,103 = $6,403
+78.
+The employer must include the grossed up taxable value in the employee's RFBA. The employee will have an RFBA amount for the FBT year as the taxable value of the car fringe benefit provided to the employee exceeds $2,000.
+Example 9 – plug-in hybrid electric vehicle is not eligible for the FBT exemption and car fringe benefit is calculated using operating cost method
+79.
+An employer purchases a PHEV for $38,000 (including goods and services tax) on 1 April 2025. It is first provided to an employee for private use for the 2025–26 FBT year, and the employee travels a total of 15,000 kilometres.
+80.
+As the PHEV is first provided for FBT purposes on 1 April 2025, it is not exempt from FBT. This is the only fringe benefit the employee receives from their employer.
+81.
+The employee home-charges the PHEV throughout the year, pays the electricity bills and provides the employer with the necessary declaration for the electricity and fuel costs. The home charging electricity and fuel cost forms part of the recipient contribution amount.
+82.
+The employee provides the following information to the employer:
+•
+substantiated petrol costs totalling $1,000 for the FBT year
+•
+an average rate of petrol – that is, the average cost per litre over the FBT year of $1.98 (this being determined having regard to AIP Annual Retail Price Data from the Australian Institute of Petroleum)
+•
+the Condition B test cycle fuel economy figure of 5 litres per 100 kilometres (provided by the vehicle's manufacturer)
+•
+the number of kilometres travelled during the FBT year as 15,000 kilometres (the vehicle had an odometer reading of 175 kilometres when it was first provided in the FBT year and an odometer reading of 15,175 kilometres at the end of the FBT year)
+•
+total other operating costs excluding fuel costs for the FBT year of $10,594, which includes insurance, registration, servicing and repair costs and decline in value
+•
+the employee's logbook and odometer records for the 12-week period showing 60% business travel and 40% private travel.
+83.
+Applying the EV home charging rate using the methodology for PHEVs, the employee works out the home charging electricity cost using the following calculations:
+•
+Step 1: Calculate actual petrol costs for the year
+The employer calculates their substantiated petrol costs as $1,000.
+•
+Step 2: Calculate actual quantity of petrol purchased in the year
+The employer chooses to convert actual petrol cost to litres of petrol purchased in the year by dividing the Step 1 amount by the average petrol rate.
+Petrol amount = petrol purchased in year ÷ average petrol rate
+$1,000 ÷ $1.98 = 505 litres
+•
+Step 3: Calculate total petrol kilometres
+Total petrol km = Step 2 amount ÷ petrol consumption rate
+505 litres ÷ 0.05 = 10,100 km
+•
+Step 4: Calculate total annual kilometres
+Total annual km = odometer reading at end of year - odometer reading when car was first made available for private use
+15,175 km - 175 km = 15,000 km
+•
+Step 5: Calculate total electricity kilometres
+Total electricity km = Step 4 amount (total annual km) - the Step 3 amount (total petrol km)
+15,000 km - 10,100 km = 4,900 km
+•
+Step 6: Calculate total electricity cost
+Total electricity cost = Step 5 amount (total electricity km) × EV home charging rate
+4,900 km × 4.20c = $205.80
+•
+Step 7: Calculate total fuel expenses
+Total fuel expenses = Step 1 amount (actual petrol costs) + Step 6 amount (total electricity costs)
+$1,000 + $206 = $1,206
+84.
+Total operating costs for the FBT year are $11,800, being the total fuel expenses of $1,206 added to the total other operating costs of $10,594.
+85.
+Applying the operating cost method, the taxable value for FBT purposes is:
+A × B
+-
+C
+$11,800 × 40%
+-
+$1,206 = $3,514
+Where:
+•
+A is the total operating costs
+•
+B is the percentage of private use
+•
+C is the amount of the recipient contribution.
+86.
+The employer must include the grossed-up taxable value in the employee's RFBA. The employee will have an RFBA amount for the FBT year as the taxable value of the car fringe benefit provided to the employee exceeds $2,000.
+Deductibility of electric vehicle or plug-in hybrid electric vehicle electricity charging expenses for income tax purposes
+87. For income tax purposes, the EV home charging rate can be used to calculate work-related car expenses when using the logbook method and otherwise when calculating work-related motor vehicle expenses.
+88. To use the logbook method to claim your work-related car expenses, you need to keep:
+•
+a valid logbook
+[20]
+•
+odometer records
+[21]
+•
+written evidence
+[22]
+of your car expenses.
+[23]
+89. To indicate you are using the logbook method when completing your individual tax return, in item 'D1 Work-related car expenses', enter the code letter 'B' in the 'Claim type' box beside your total claim.
+[24]
+90. A home charging electricity deduction will be based on the number of business kilometres
+[25]
+the car travelled during the income year. You calculate the number of business kilometres by making a reasonable estimate which must take into account:
+•
+any logbook, odometer records or other records you have
+•
+any variations in the pattern of use of the car, and
+•
+any changes in the number of cars you used to undertake your work-related activities.
+Electric vehicles
+91. To calculate the home charging electricity cost for your electric vehicle, you calculate the total kilometres travelled by the car during the period you owned it during the income year and multiply the total kilometres by the EV home charging rate:
+total km travelled by car × EV home charging rate = home charging electricity cost
+92. You then apply the business use percentage
+[26]
+(business kilometres during the period you owned it during the income year divided by the total number of kilometres the car travelled in the period you owned it during the income year) to your home charging electricity cost as follows:
+business km ÷ total km × home charging electricity cost = home charging electricity deduction
+93. The business use percentage is also applied to your other car expenses:
+business km ÷ total km × other car expenses = other car expenses deduction
+94. If you use a motor vehicle which does not meet the definition of a car, you can claim the work-related percentage of your vehicle expenses.
+[27]
+Although you are not required to keep a logbook, it is the easiest way to calculate your work-related use of your motor vehicle.
+95. To calculate the home charging electricity cost for your vehicle, you calculate the total kilometres travelled by the vehicle during the period you owned it during the income year and multiply it by the EV home charging rate. You then apply your work-related use percentage to your home charging electricity cost. The work-related use percentage is also applied to your other vehicle expenses.
+Plug-in hybrid electric vehicles
+96. The PHEV home charging methodology is outlined in paragraphs 18 to 27 of this Guideline. To calculate the home charging electricity cost for your PHEV, you calculate the total kilometres travelled and split between petrol-fuelled kilometres travelled and electricity-fuelled kilometres travelled.
+Example 10 – home charging of electric vehicle using logbook method
+97.
+Ephrem is an owner of an electric vehicle that satisfies the definition of a 'car' and he charges its battery at his home on average 3 nights per week.
+98.
+Ephrem drives his electric vehicle for both business and private purposes. He keeps a logbook for 12 continuous weeks to record his business travel, which is broadly representative of his travel throughout the year. He records the odometer readings at the start and end of the logbook period, and the start and end of the income year. For the 2022–23 income year, Ephrem's records show he drove 32,000 kilometres.
+99.
+Ephrem's logbook and odometer records show that he travelled 8,000 kilometres for the 12-week logbook period, and 4,000 kilometres were for work-related purposes. As Ephrem's logbook is representative of the business kilometres he travelled during the 2022–23 income year, his business use percentage is 50% and his total business kilometres will be 16,000 km (32,000 kilometres × 50%).
+100.
+Applying the EV home charging rate, Ephrem calculates his work-related home electricity charging cost as:
+home charging electricity cost = 32,000 km × 4.20c = $1,344
+home charging electricity deduction = 16,000 km ÷ 32,000 km × $1,344 = $672
+101.
+Ephrem can claim a home charging electricity deduction of $672, along with 50% of his other car expenses, for the 2022–23 income year.
+Example 11 – home charging of plug-in hybrid electric vehicle using logbook method
+102.
+Rod is the owner of a PHEV that satisfies the definition of a 'car' that he charges at his home on average 3 nights per week.
+103.
+Rod drives his PHEV for both business and private purposes. He keeps a logbook for 12 continuous weeks to record his business travel, which is broadly representative of his travel throughout the year. He records the odometer readings at the start and end of the logbook period, and the start and end of the income year. For the 2024–25 income year, Rod's odometer records show he drove 15,000 kilometres.
+104.
+Rod's logbook and odometer records show that he travelled 3,000 kilometres for the 12-week logbook period, and 1,500 kilometres were for work-related purposes. As Rod's logbook is representative of the business kilometres he travelled during the 2024–25 income year, his business use percentage is 50% and his total business kilometres will be 7,500 km (15,000 kilometres × 50%).
+105.
+Total other car expenses excluding fuel costs for the income year are $10,000. This includes insurance, registration, servicing and repair costs and decline in value. Rod's total petrol costs for the 2024–25 income year are $750.
+106.
+The Condition B test cycle fuel economy figure is 5 litres per 100 kilometres (provided by the vehicle's manufacturer). Using the AIP Annual Retail Price Data from the Australian Institute of Petroleum, Rod determines the average cost of the fuel he uses for the 2024–25 income year is $1.98 per litre.
+107.
+Applying the EV home charging rate using the methodology for PHEVs, Rod calculates his work-related home electricity charging cost as follows.
+•
+Step 1: Calculate actual petrol costs for the year
+Rod calculates his substantiated petrol costs as $750.
+•
+Step 2: Calculate actual quantity of petrol purchased in the year
+Rod chooses to convert actual petrol cost to litres of petrol purchased in the year by dividing the Step 1 amount by the average petrol rate.
+Petrol amount = petrol purchased in year ÷ average petrol rate
+$750 ÷ $1.98 = 379 litres
+•
+Step 3: Calculate total petrol kilometres
+Total petrol km = Step 2 amount ÷ petrol consumption rate
+379 litres ÷ 0.05 = 7,580 km
+•
+Step 4: Calculate total annual kilometres
+Total annual km = odometer reading at end of year - odometer reading at the start of the year
+Total kilometres driven by the vehicle for the year are 15,000 km.
+•
+Step 5: Calculate total electricity kilometres
+Total electricity km = Step 4 amount (total annual km) - the Step 3 amount (total petrol km)
+15,000 km - 7,580 km = 7,420 km
+•
+Step 6: Calculate total electricity cost
+Total electricity cost = Step 5 amount (total electricity km) × EV home charging rate
+7,420 km × 4.20c = $311.64
+•
+Step 7: Calculate total fuel expenses
+Total fuel expenses = Step 1 amount (actual petrol costs) + Step 6 amount (total electricity costs)
+$750 + $312 = $1,062
+108.
+The total car expenses incurred for the car for the income year are $11,062 – that is, $10,000 other car expenses plus total fuel expenses of $1,062.
+109.
+Applying the logbook method, the deductible car expenses are:
+total car expenses × business use percentage
+$11,062 × 50% = $5,531
+110.
+Rod can therefore claim a deduction of $5,531 for car expenses for the 2024–25 income year.
+Record keeping
+111. If you are an employer or an individual choosing to rely on the EV home charging rate to calculate the electricity charging expenses, you will need to keep a record of the distance travelled by the car (odometer records) in either the applicable FBT year to 31 March or the income year to 30 June.
+112. If you are an employer or an individual choosing to rely on the EV home charging rate to calculate the electricity charging expenses where the vehicle is a PHEV, you also need to keep records to substantiate the amount of actual petrol costs incurred in either the applicable FBT year to 31 March or the income year to 30 June.
+113. If you are an employer choosing to apply this Guideline and the EV home charging rate for FBT purposes, a valid logbook must be maintained if the operating cost method is used.
+114. If you are an individual choosing to apply this Guideline and the EV home charging rate for income tax purposes, to satisfy the record-keeping requirements you must have:
+•
+a valid logbook to use the logbook method of calculating work-related car expenses (for other vehicles, it is recommended a logbook is maintained to demonstrate work-related use of the vehicle), and
+•
+one electricity bill for your residential premises in the applicable income year to show you have incurred electricity costs.
+Commissioner of Taxation
+1 February 2024
+Amendment history
+20 November 2025
+Part
+Comment
+Throughout
+Updated to refer to PHEVs and clearly specify which parts only relate to zero emissions electric vehicles, given the extension of the Guideline to now also incorporate them.
+Paragraphs 4, 15
+Wording of the paragraph has been clarified.
+Paragraphs 17-27 and 96
+Methodology outlined to calculate electricity expenses for PHEVs.
+Paragraphs 38-39
+Transitional approach outlined for PHEVs.
+Paragraphs 71-86 and 97-110
+Examples added pertaining to PHEVs.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+[1]
+A zero emissions vehicle, referred to as an electric vehicle, (which includes a car and a motor vehicle) is a road vehicle that:
+•
+uses one or more electric motors to drive, and
+•
+is fuelled by any of the following
+-
+an off-vehicle electrical power source
+-
+a battery
+-
+an electric generator, or
+-
+a hydrogen fuel cell.
+[2]
+A plug-in hybrid electric vehicle, referred to as a PHEV, is a car or motor vehicle that satisfies all of the following:
+•
+uses an electric motor for propulsion
+•
+takes and stores energy from an external source of electricity
+•
+is fitted with an internal combustion engine for either or both of
+-
+the generation of electrical energy
+-
+propulsion of the vehicle.
+[3]
+Under the FBTAA, 'car' has the meaning given by subsection 995-1(1) of the ITAA 1997.
+[4]
+'Residual fringe benefit' means a fringe benefit that is a residual benefit – subsection 136(1) of the FBTAA.
+[5]
+For income tax purposes, 'car' is defined in subsection 995-1(1) of the ITAA 1997 to mean a motor vehicle (exept motorcycle or similar vehicle) designed to carry a load of less than 1 tonne and fewer than 9 passengers.
+[6]
+This includes vehicles not covered by the definition of 'car' in subsection 995-1(1) of the ITAA 1997. However, as per paragraph 5, for the purposes of this Guideline it also excludes motorcycles and scooters.
+[7]
+This includes providing a car to an employee (or their associate) by way of a novated lease arrangement.
+[8]
+The
+Treasury Laws Amendment (Electric Car Discount) Act 2022
+applies to benefits provided on or after 1 July 2022 and exempts from FBT the use, or availability for use, of cars that are zero or low emissions vehicles (provided no amount of luxury car tax is payable) made available by employers to current employees) – subsection 8A(1) of the FBTAA. These exempt benefits continue to be included in the employee's individual fringe benefits amount for the purposes of determining the employee's reportable fringe benefits amount for each FBT year in which the exempt benefit is provided – subsection 135P(3) of the FBTAA.
+[9]
+See paragraphs 111 to 114 of this Guideline.
+[10]
+This rate is based on the state and territory new motor vehicle registrations data (2014–2020), electrical consumption rates (watt hours per km) from the
+Electric Vehicle Database
+and
+Green Vehicle Guide
+, and the
+Australian Energy Market Commission
+state and territory electricity prices to derive the long-term population-weighted national average electricity cost.
+[11]
+'Petrol' means unleaded petrol, premium unleaded petrol (95 or 98), ethanol blends (E10), regular diesel, premium diesel, lead replacement petrol and liquid petroleum gas (LPG).
+[12]
+The most accurate petrol consumption rate is the Condition B test cycle fuel economy figure, which is comparable to the vehicle in standard 'hybrid driving mode'. This rate will need to be obtained from the vehicle manufacturer. Should the petrol consumption rate' become available from a different, more accessible and reliable source, you are not restricted to only using the Condition B rate. The marketed petrol consumption rate of PHEV's is not an alternative reliable source because it assumes extremely low petrol kilometres.
+[13]
+See paragraphs 111 to 114 of this Guideline.
+[14]
+Section 22 of the FBTAA. Note that this amount will need to be included in the employee's assessable income under section 15-70 of the ITAA 1997.
+[15]
+As defined in subsection 136(1) of the FBTAA.
+[16]
+Section 53 of the FBTAA.
+[17]
+A motor vehicle designed to carry a load of one tonne or more or 9 or more passengers – see the definition of car in subsection 995-1(1) of the ITAA 1997.
+[18]
+Refer to Miscellaneous Taxation Ruling MT 2034
+Fringe benefits tax: private use of motor vehicles other than cars
+for further information.
+[19]
+For the 2025–26 and later FBT years, the exemption will only apply if that PHEV was used, or available for use, before 1 April 2025 (and that use, or availability for use, was exempt). There must also be a financially binding commitment to continue providing the use, or availability for use, of the car for private purposes on and after 1 April 2025 (but any optional extension of the agreement is not considered binding).
+[20]
+See Subdivision 28-G and section 28-150 of the ITAA 1997.
+[21]
+See Subdivisions 28-H and 28-I and section 28-155 of the ITAA 1997.
+[22]
+See section 28-100 and Subdivisions 900-C, 900-D and 900-E of the ITAA 1997.
+[23]
+Under subsection 900-70(3) of the ITAA 1997, if you are using the logbook method and your expense is for fuel or oil, you do not need to get written evidence of it, because section 28-100 already requires you to keep odometer records for the period when you held the car in the income year.
+[24]
+Refer to the information for Label D1 Work-related car expenses in the Individual tax return instructions for the relevant income year.
+[25]
+Business kilometres are kilometres the car travelled in the course of producing your assessable income or your travel between workplaces (see subsection 28-90(4) of the ITAA 1997).
+[26]
+See section 28-90 of the ITAA 1997.
+[27]
+For which you have kept written evidence as per sections 900-15 and 900-80 and Subdivision 900-E of the ITAA 1997.
+Previously issued as PCG 2024/2DC1
+Previously released in draft form as PCG 2023/D1
+ATO references:
+ATO references:
+NO  1-TSHP5B5; 1-16RLZCEB
+ISSN: 2209-1297
+Business Line:
+SEO, IAI
+Related Rulings/Determinations:
+MT 2034
+TR 97/7
+Legislative References:
+ITAA 1997 8-1
+ITAA 1997 15-70
+ITAA 1997 Div 28
+ITAA 1997 28-90
+ITAA 1997 28-90(4)
+ITAA 1997 28-100
+ITAA 1997 28-150
+ITAA 1997 28-155
+ITAA 1997 Subdiv 28-G
+ITAA 1997 Subdiv 28-H
+ITAA 1997 Subdiv 28-I
+ITAA 1997 900-15
+ITAA 1997 Subdiv 900-C
+ITAA 1997 900-70(3)
+ITAA 1997 Subdiv 900-D
+ITAA 1997 900-80
+ITAA 1997 Subdiv 900-E
+ITAA 1997 995-1(1)
+FBTAA 1986 8A(1)
+FBTAA 1986 Pt III Div 5
+FBTAA 1986 Pt III Div 2 Subdiv B
+FBTAA 1986 Pt III Div 12 Subdiv B
+FBTAA 1986 Pt III Div 13
+FBTAA 1986 22
+FBTAA 1986 53
+FBTAA 1986 Pt XIB
+FBTAA 1986 135P(3)
+FBTAA 1986 136(1)
+Treasury Laws Amendment (Electric Car Discount) Act 2022
+Other References:
+Australian Institute of Petroleum
+AIP Annual Retail Price Data
+, aip.com.au (7 July 2025) accessed 14 November 2025.
+Electric Vehicle Database
+EV database
+, ev-database.org, n.d., accessed 14 November 2025
+Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+Green Vehicle Guide
+, greenvehicleguide.gov.au, n.d., accessed 14 November 2025
+Australian Energy Market Commission
+Australian Energy Market Commission
+, aemc.gov.au, n.d., accessed 14 November 2025
+PCG 2024/2 history
+Date:
+Version:
+Change:
+1 February 2024
+Original guideline
+You are here
+20 November 2025
+Updated guideline
+Back to top

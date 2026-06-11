@@ -1,0 +1,372 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2019/3
+OECD hybrid mismatch rules - concept of structured arrangement
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+LCR 2019/3EC
+.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+2
+Background
+3
+Specific issues for guidance
+12
+Scheme
+12
+Structured arrangements definition - two alternative limbs
+21
+Priced into the terms
+25
+Design feature
+30
+Design feature - facts and circumstances
+34
+Party to the structured arrangement
+37
+Related ATO guidance
+44
+Relying on this Ruling
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953
+.
+If this Ruling applies to you, and you correctly rely on it in good faith, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+Further, if we think that this Ruling disadvantages you, we may apply the law in a way that is more favourable to you.
+What this Ruling is about
+1. This Ruling provides the Commissioner's view of the law in relation to the phrases 'structured arrangement' and 'party to the structured arrangement' set out in section 832-210 of the
+Income Tax Assessment Act 1997
+(ITAA 1997).
+[1]
+Date of effect
+2. This Ruling is effective from 1 January 2019.
+Background
+3. Schedules 1 and 2 to the
+Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Act 2018
+(the Act), amend the ITAA 1997, introducing Division 832 and associated measures implementing the hybrid mismatch rules.
+[2]
+These rules are based on the recommendations of the Organisation for Economic Cooperation and Development (OECD)
+[3]
+regarding neutralising hybrid mismatch arrangements taking into account the recommendations made by the Board of Taxation in its March 2016 report.
+[4]
+4. The hybrid mismatch rules are intended to neutralise the effects of hybrid mismatches so that unfair tax advantages do not accrue for multinational groups as compared with domestic groups.
+[5]
+Whilst hybrid arrangements are most common in controlled group scenarios, it is also possible for a hybrid mismatch to arise between related or unrelated parties by way of a structured arrangement.
+[6]
+5. For the purposes of these rules a hybrid mismatch arises where there is a double non-taxation benefit where a cross border dealing results in:
+•
+a deduction/non-inclusion (D/NI) mismatch (broadly, a deduction being received for a payment in one country, where the corresponding income is not assessable income or is not included in the tax base in another country), or
+•
+a deduction/deduction (DD) mismatch (broadly, a deduction being received in two countries for the same payment).
+6. For the purposes of the operative provisions of Division 832, the various types of hybrid mismatches are identified in different subdivisions, with specific qualification criteria and neutralisation impacts
+[7]
+for each type of hybrid mismatch. This Ruling is relevant for the following mismatches and subdivisions:
+•
+hybrid financial instrument mismatch (Subdivision 832-C)
+•
+hybrid payer mismatch (Subdivision 832-D)
+•
+reverse hybrid mismatch (Subdivision 832-E)
+•
+branch hybrid mismatch (Subdivision 832-F)
+[8]
+•
+deducting hybrid mismatch (Subdivision 832-G - secondary response only), and
+•
+imported hybrid mismatch (Subdivision 832-H).
+7. If the scheme satisfies the hybrid mismatch criteria (in the relevant subdivision) and at least one of the scope requirements
+[9]
+, the amount of the hybrid mismatch will be neutralised by either:
+•
+disallowing a deduction, or
+•
+including an amount in assessable income.
+8. Broadly, the scope requirements for the hybrid mismatch rules include satisfaction of at least one of the following:
+•
+the payment is made under a structured arrangement
+[10]
+, or
+•
+the entities involved in the scheme are members of the same Division 832 control group
+[11]
+, or
+•
+for the hybrid financial instrument mismatch, the entities involved in the scheme are related persons.
+[12]
+9. Particular subdivisions dealing with particular hybrid mismatches also contain an exception provision for taxpayers who might otherwise be subject to these rules. If a payment is made under a structured arrangement, the operative provision will only apply if the entity is a party to the structured arrangement.
+[13]
+Subsection 832-210(3) defines when an entity is 'party to a structured arrangement'.
+10. Chapters 1 to 3 of the EM contain a detailed outline of the hybrid mismatch rules.
+11. Additionally, paragraph 1.19 of the EM makes it clear that in applying the provisions in Division 832, where appropriate, regard should be had to the commentary in the OECD Action 2 Report and the OECD Branch Mismatch Arrangements Report. In the context of the structured arrangement scope requirement, Division 832 is consistent with the policy principles espoused in Chapter 10 of the OECD Action 2 Report and therefore the Commissioner considers that material to be relevant.
+Specific issues for guidance
+Scheme
+12. Whether a payment is made under a structured arrangement must be determined by reference to a scheme.
+[14]
+Specifically, section 832-110 requires consideration of whether a hybrid mismatch is priced into the terms of a scheme under which a payment is made or whether it is reasonable to conclude that the hybrid mismatch is a design feature of such a scheme.
+13. The word 'scheme', defined in section 995-1, is widely drawn and includes any agreement, arrangement, understanding, promise, undertaking, scheme, plan or proposal.
+14. The question whether a hybrid mismatch has been priced into the terms or was a design feature of a scheme is answered by reference to the facts and circumstances surrounding the scheme at the time of the scheme's inception. Notwithstanding a scheme might have been entered into prior to the application date of Division 832, where the requisite elements existed in fact at the time of the scheme's inception, the scheme will nevertheless satisfy the definition of structured arrangement for these purposes and therefore potentially fall within the scope of Division 832. The rules apply to payments occurring on or after the relevant application date with no grandparenting.
+[15]
+[16]
+15. When identifying the scheme, in determining whether the structured arrangement definition is satisfied, regard must be had to the relevant type of hybrid mismatch (that is, Subdivisions 832-C, 832-D, 832-E, 832-F, 832-H, or 832-G (secondary response)) as each type of mismatch is made up of different elements giving rise to the double non-taxation benefit. For example, in identifying the scheme for the purposes of a Subdivision 832-C hybrid financial instrument, the relevant elements would include the choice of instrument and the terms of the instrument. It may also include features of the parties to the arrangement, such as the tax residence of each party.
+16. Similarly, to identify the scheme for the purposes of a Subdivision 832-H imported hybrid mismatch, the relevant elements include the importing payment, the offshore hybrid mismatch and any payments between each interposed entity. The scheme has regard to the type and character of each of these elements and their connection or nexus with one another in terms of an overarching intent or logic. This is consistent with the OECD Action 2 Report where it says, in determining the nexus between the importing payment and the hybrid deduction, that
+[17]
+:
+The structured imported mismatch rule applies a tracing approach that starts with the imported mismatch payment in one jurisdiction and follows the path of payments under the structured arrangement, through the interconnected entities and payments that make up the arrangement, to identify whether that imported mismatch payment has directly or indirectly funded expenditure that gives rise to the hybrid deduction.
+17. In example 8.2 in the OECD Action 2 Report, the loan between B Co and D Co was in place before the hybrid financial instrument arrangement was entered into. Unless that loan could be shown to be part of the same scheme plan or understanding as the financial arrangements put in place for the rest of the rest of the group, then the interest payment made by D Co should be treated as outside the scope of the structured imported mismatch rule.
+18. In the Commissioner's view, the fact that the Australian importing payment is made after the original offshore financing arrangement was implemented does not mean that the importing paying is not part of the same scheme as the original financing arrangement.
+19. In this context, the transactions need to be connected with one another in a commercial or business sense, or as part of a coordinated group arrangement. The individual component arrangements in the chain of transactions culminating in the importation of a hybrid mismatch may have been entered into at different times. Regardless, where such a connection or a coordinated group arrangement evidences the requisite nexus between the transactions, the Commissioner will consider them to constitute a scheme for the purposes of the structured arrangement definition.
+20. For each type of hybrid mismatch, a proper understanding of the scheme necessarily has regard to the surrounding facts and circumstances, including, for example, the entity type and tax residence of each party.
+Structured arrangements definition - two alternative limbs
+21. While there are two alternate limbs of the structured arrangement definition contained in paragraphs (a) and (b) of subsection 832-210(1), elements that might be indicative of the hybrid mismatch being priced into the scheme
+[18]
+might also be pertinent in determining whether the hybrid mismatch is a design feature of the scheme.
+[19]
+22. Whether a hybrid mismatch has been priced into the terms, or it is reasonable to conclude the hybrid mismatch is a 'design feature' of a scheme, are objective tests.
+23. The 'design feature' limb of the structured arrangement definition must also be determined by reference to the facts and circumstances that exist in connection with the scheme, including its terms.
+[20]
+A payment may therefore be considered to be made under a structured arrangement, regardless of the parties' intentions, where for example the facts and circumstances would indicate to an objective observer that the hybrid mismatch was a 'design feature' of the arrangement
+[21]
+, the meaning of which is further considered in paragraphs 30 to 36 of this Ruling.
+24. Pursuant to the relevant subdivision (that is, Subdivisions 832-C, 832-D, 832-E, 832-F or 832-H, or Subdivision 832-G - secondary response) being applied in relation to the scheme (and the language of subsection 832-210(1)), the test of whether a payment is made under a structured arrangement will be relevant for these purposes whenever a payment is made. That is, the testing time is not limited to when the arrangement was entered into. For example, in the context of an imported hybrid mismatch, the relevant testing time will be each time an importing payment is made. However, it is important to note that, in terms of satisfying this scope requirement, not only does the payment need to be made under a structured arrangement but for the purposes of Subdivisions 832-C, 832-D, 832-E, 832-F or 832-H the entity must also be a party to that arrangement (as defined in subsection 832-210(3)). If neither the entity nor any member of its control group could reasonably have been expected to be aware of, nor obtain a benefit from the hybrid mismatch, then they would not be considered to be a party to a structured arrangement (where relevant for the particular hybrid mismatch being tested). Who is a 'party to a structured arrangement' is discussed further at paragraphs 39 to 43 of this Ruling.
+Priced into the terms
+25. The first alternative limb to be considered is whether the hybrid mismatch is priced into the terms of the scheme. Basically the test will be satisfied if the mismatch has been factored into the calculation of the return under the arrangement as agreed between the parties.
+[22]
+26. In determining whether the hybrid mismatch has been priced into the terms of the scheme, the Commissioner will consider whether, based on the terms of the arrangement or dealings (including any fees), the calculation of the return under the scheme has been impacted by the hybrid mismatch.
+27. The test is a legal and factual test which looks only to the terms of the instrument, arrangement, or dealings and pricing of risk versus return between the parties to the scheme.
+[23]
+The 'priced into the terms' limb of the structured arrangement definition tests whether the pricing of the scheme is explicable by hybrid outcomes and is different from what would have been agreed to if the mismatch had not arisen.
+[24]
+Where, for example, the pricing of an arrangement is inconsistent with market pricing of that risk (that is, the rate is above or below pre-tax market rate) this would be evidence that the benefit of the hybrid mismatch has been priced into the terms of the scheme.
+28. The examples provided in the OECD Action 2 Report in this context illustrate that the question of whether the hybrid mismatch has been priced into the arrangement can be answered either explicitly (refer to Example 10.1) or implicitly (Example 10.2). Example 10.1 involves a hybrid financial instrument scenario giving rise to a deduction non-inclusion outcome. Importantly in this context the amount the borrower pays the lender over the term of the arrangement is discounted, explicitly by reference to the tax rate of the lender.
+[25]
+29. Example 10.2
+[26]
+which involves back-to-back lending through an intermediary illustrates that, whilst not explicitly stated in the terms, pricing above (or below) market can also satisfy this test if the divergence is explicable by reference to a hybrid mismatch. Beyond the divergence in the price from market, additional indicators in this example that the hybrid mismatch was priced into the return included:
+•
+the intermediary entity's pre-tax negative return, and
+•
+their entitlement to terminate the arrangement if the tax benefits were no longer available.
+Design feature
+30. The second alternative limb to be considered is whether it is reasonable to conclude that the hybrid mismatch is a design feature of a scheme under which the payment is made. Determining whether it is reasonable to conclude that the hybrid mismatch is a 'design feature' of a scheme is a facts and circumstances test (subsection 832-210(2)) and is a wider test than the alternate 'priced into the terms' limb of the definition.
+[27]
+31. Whether it is 'reasonable to conclude' the hybrid mismatch is a design feature is an objective test.
+[28]
+It requires that a reasonable person, on an objective view of the facts and circumstances, would conclude that the hybrid mismatch was a 'design feature' of the scheme.
+32. In the Commissioner's view this means that the 'design feature' limb of the structured arrangement definition requires one to look at an arrangement or dealings (including any marketing of the transaction or structure) and make an objective assessment about whether the relevant facts and circumstances contributing to the hybrid mismatch were included intentionally or deliberately. Such a conclusion should be readily distinguishable from a scenario where a mismatch arose merely as an unintended consequence. The test does not require one to consider the purpose of the parties to the transaction or scheme. The rationale, commercial or otherwise, for entering into the scheme, whilst perhaps one of a number of facts to be taken into account, need not determine whether the hybrid mismatch was a design feature of the scheme. The question posed by the 'design feature' limb is less about why overall the scheme was entered into and more about the detail of how the intended outcome was delivered. In the context, for example, of an imported hybrid mismatch (Subdivision 832-H), the relevant facts and circumstances to consider in respect of the design feature limb would include:
+•
+the making of the importing payment
+•
+the character and quantum of the importing payment
+•
+the arrangement under which the importing payment arises
+•
+how the arrangement was conceived and the circumstances in which the taxpayer adopted the arrangement (including whether the arrangement was marketed to the taxpayer with the hybrid mismatch clearly demonstrated)
+•
+any other payments by interposed entities making up the scheme (including particulars of any such interposition), and
+•
+any overarching commercial nexus between the importing payment and the payment by the offshore deducting entity giving rise to the offshore hybrid mismatch.
+33. If it is determined that a hybrid mismatch is a design feature of a scheme, there is no further balancing of this factor against any commercial aspects of the scheme or its broader rationale to determine a degree of significance or purpose in respect of the hybrid mismatch element. This limb of the structured arrangement definition is not a 'purpose' test. Accordingly, where a scheme produces a combination of tax and commercial benefits it will still be treated as a structured arrangement if an objective observer would conclude that part of the explanation for the design of the scheme was to generate a hybrid mismatch.
+[29]
+Design feature - facts and circumstances
+34. Subsection 832-210(2) makes it clear that in determining whether the hybrid mismatch is a design feature of the scheme, regard must be had to the facts and circumstances that exist in connection with the scheme. The Commissioner will have regard to demonstrable evidence when considering whether it would be concluded that the hybrid mismatch was a design feature of the scheme. Whilst the overarching purpose and commercial outcomes (intended and actual) may be relevant perhaps providing context for the scheme, purpose need not have a bearing on the question whether the hybrid mismatch is a design feature of the scheme.
+35. The EM
+[30]
+provides further context to the facts and circumstances that would be relevant for the purposes of the broader second limb test of whether the hybrid mismatch is a design feature of the scheme. It provides a non-exhaustive list of factors to which one would have regard:
+•
+an arrangement that is designed, or is part of a plan, to create a hybrid mismatch
+•
+an arrangement that incorporates a term, step or transaction used in order to create a hybrid mismatch
+•
+an arrangement that is marketed, in whole or in part, as a tax-advantaged product where some or all of the tax-advantage derives from the hybrid mismatch
+•
+an arrangement that is primarily marketed to taxpayers in a jurisdiction where the hybrid mismatch arises
+•
+an arrangement that contains features that alter the terms under an arrangement, including the return, in the event that the hybrid mismatch is no longer available, and
+•
+an arrangement that would produce a negative return absent the hybrid mismatch.
+[31]
+36. These factors are based on the factors listed and more widely discussed at Recommendation 10.2 of the OECD Action 2 Report.
+[32]
+In accordance with the principles outlined in Chapter 10 of the OECD Action 2 Report, the presence of any of these factors would be indicative that the hybrid mismatch was a design feature of the scheme and therefore that the arrangement satisfies the definition of structured arrangement.
+Party to the structured arrangement
+37. As noted in paragraph 9 of this Ruling, particular subdivisions dealing with particular hybrid mismatches also have an exception provision that could apply for taxpayers who might otherwise be subject to these rules. The operative provisions
+[33]
+will only apply where the affected entities are also party to the arrangement.
+[34]
+38. Accordingly in the context of a Subdivision 832-C hybrid financial instrument mismatch, where either paragraph 832-210(1)(a) or (b) has been satisfied, an entity that entered into or carried out the scheme or any part of the scheme, will be party to the structured arrangement, unless they can satisfy all of the following three conditions:
+•
+they could not reasonably have been expected to be aware that the scheme gave rise to a hybrid mismatch
+•
+no other entity in the same Division 832 control group as the entity (being tested) could reasonably have been expected to be aware that the scheme gave rise to a hybrid mismatch, and
+•
+the financial position of each entity in the entity's Division 832 control group would reasonably be expected to have been the same if the scheme had not given rise to the hybrid mismatch.
+[35]
+39. Where an entity satisfies these three conditions the rules will not apply to neutralise the mismatch for that entity.
+[36]
+Subdivisions 832-D, 832-E, 832-F and 832-H each have a 'party to' exception that will be determined having regard to subsection 832-210(3).
+40. The rationale for the 'party to' exception is that the hybrid mismatch rules generally are not intended to apply to a taxpayer where, based on the information objectively available to them, they could not reasonably be expected to be aware of the mismatch and derive no benefit from it
+[37]
+(that is, not share in the value of the mismatch). Whether a taxpayer is party to a structured arrangement is an objective test.
+41. Two of the three requirements
+[38]
+of the test look to whether it would be reasonable to expect the taxpayer (or any other member of the taxpayer's Division 832 control group) to be aware of the mismatch.
+42. Whether an entity is party to the structured arrangement is determined based on the information that would reasonably be available to the taxpayer (or a member of the taxpayer's Division 832 control group) at the time they entered into the structured arrangement or when the payment is made. As outlined in paragraph 343 of the OECD Action 2 Report, the test does not require a taxpayer to undertake commercial due diligence of the relevant transaction above and beyond that of a reasonable person. Based on this available information, if the taxpayer could reasonably be expected to be aware that they have shared in the value of the hybrid mismatch then they would be considered to be a party to the structured arrangement. The quantum of the benefit is not relevant.
+43. The third requirement
+[39]
+of the test looks to whether the financial positon of each member in the entity's Division 832 control group would reasonably be expected to have been the same had the scheme not given rise to the hybrid mismatch. In the Commissioner's view this requirement requires one to test on a reasonable basis whether they (or any member in their Division 832 control group) obtained a benefit from the hybrid mismatch. The testing requires a comparison of an entity's actual financial position with its financial position absent the hybrid mismatch but assuming the transaction or arrangement still occurred with the same non-hybrid elements (for example including pricing and funding flows).
+Related ATO guidance
+44. This Ruling is related to Practical Compliance Guide PCG 2019/6
+OECD hybrid mismatch rules - concept of structured arrangement
+which contains practical guidance to assist taxpayers assessing the risk of the hybrid mismatch rules applying to their circumstances, in particular in relation to the concept of 'structured arrangement' in section 832-210.
+Commissioner of Taxation
+24 July 2019
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+All legislative references are to the ITAA 1997 unless otherwise indicated.
+[2]
+A reference to the hybrid mismatch rules collectively refers to Division 832 and associated amendments.
+[3]
+OECD, 2015,
+Neutralising the Effects of Hybrid Mismatch Arrangements, Action 2 - 2015 Final Report
+, OECD/G20 Base Erosion and Profit Shifting Project, OECD Publishing, Paris (OECD Action 2 Report) and OECD, 2017,
+Neutralising the Effects of Branch Mismanagement Arrangements, Action 2: Inclusive Framework on BEPS
+, OECD/G20 Base Erosion and Profit Shifting Project, OECD Publishing, Paris (OECD Branch Mismatch Arrangements Report).
+[4]
+Board of Taxation, 2016,
+Implementation of the OECD hybrid mismatch rules: A report to the Treasurer
+, Board of Taxation (Board of Taxation Implementation of the OECD hybrid mismatch rules Report).
+[5]
+Refer to paragraph 1.14 of the Revised Explanatory Memorandum to the Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Bill 2018 (the EM).
+[6]
+Refer to paragraph 122 of the OECD, 2014,
+Public discussion draft: BEPS Action 2: Neutralise the effects of hybrid mismatch arrangements (Recommendations for Domestic Laws)
+, OECD Publishing, Paris where it makes clear that the ambit of the measures should '... apply if the taxpayer is nevertheless a party to a structured arrangement that has been deliberately designed to engineer a mismatch between the holder and the issuer.
+'
+[7]
+As described in paragraph 7 of this Ruling.
+[8]
+Together with section 23AH of the
+Income Tax Assessment Act 1936
+(ITAA 1936).
+[9]
+Refer to paragraph 8 of this Ruling.
+[10]
+As defined in section 832-210.
+[11]
+As defined in section 832-205.
+[12]
+As defined in subsection 832-200(4).
+[13]
+Refer to section 832-190 (for a Subdivision 832-C hybrid financial instrument mismatch), section 832-295 (for a Subdivision 832-D hybrid payer mismatch), section 832-385 (for a Subdivision 832-E reverse hybrid mismatch), section 832-460 (for a Subdivision 832-F branch hybrid mismatch), or section 832-615 (for a Subdivision 832-H imported hybrid mismatch).
+[14]
+Refer to section 832-210.
+[15]
+Apart from the changes to the franking rules as they relate to Additional tier-1 capital instruments referred to in section 3 of Schedule 2 Part 3 to the Act.
+[16]
+Refer to Paragraph 3.17 of the Board of Taxation Implementation of the OECD hybrid mismatch rules Report.
+[17]
+Refer to paragraph 247 of the OECD Action 2 Report.
+[18]
+Refer to paragraph 832-210(1)(a).
+[19]
+Refer to paragraph 832-210(1)(b).
+[20]
+Refer to subsection 832-210(2).
+[21]
+Refer to paragraph 1.138 of the EM.
+[22]
+Refer to paragraph 323 of the OECD Action 2 Report.
+[23]
+Ibid
+.
+[24]
+Ibid
+.
+[25]
+Refer to paragraph 2 of Example 10.1 of the OECD Action 2 Report - where the interest formula is [market rate  ×  (1  -  tax rate)].
+[26]
+Refer to paragraphs 8 and 9 of Example 10.2 of the OECD Action 2 Report.
+[27]
+Refer to paragraph 326 of the OECD Action 2 Report.
+[28]
+Refer to paragraph 1.138 of the EM.
+[29]
+Refer to paragraph 1.140 of the EM.
+[30]
+Refer to paragraph 1.139.
+[31]
+Refer to paragraph 1.139.
+[32]
+Refer to paragraphs 330 to 340 of the OECD Action 2 Report.
+[33]
+Refer to section 832-190 (for a Subdivision  832-C hybrid financial instrument), section 832-295 (for a Subdivision 832-D hybrid payer), section 832-385 (for a Subdivision 832-E reverse hybrid, section 832-460 (for a Subdivision 832-F branch hybrid), or section 832-615 (for a Subdivision 832-H imported mismatch).
+[34]
+Refer to subsection 832-210(3).
+[35]
+Refer to subsection 832-210(3).
+[36]
+For example, section 832-180 would not apply to disallow a deduction.
+[37]
+Refer to paragraph 1.142 of the EM.
+[38]
+Refer to paragraph 832-210(3)(a) and 832-210(3)(b).
+[39]
+Refer to paragraph 832-210(3)(c).
+Previously released in draft format as LCR 2018/D9
+References
+ISSN: 2209-1300
+Business Line:
+PG
+Legislative References:
+ITAA 1997
+ITAA 1997  Div 832
+ITAA 1997  Subdiv 832-C
+ITAA 1997  832-180
+ITAA 1997  832-190
+ITAA 1997  832-200(4)
+ITAA 1997  832-205
+ITAA 1997  832-210
+ITAA 1997  832-210(1)
+ITAA 1997  832-210(1)(a)
+ITAA 1997  832-210(1)(b)
+ITAA 1997  832-210(2)
+ITAA 1997  832-210(3)
+ITAA 1997  832-210(3)(c)
+ITAA 1997  Subdiv 832-D
+ITAA 1997  832-295
+ITAA 1997  Subdiv 832-E
+ITAA 1997  832-385
+ITAA 1997  Subdiv 832-F
+ITAA 1997  832-460
+ITAA 1997  Subdiv 832-G
+ITAA 1997  Subdiv 832-H
+ITAA 1997  832-615
+ITAA 1997  995-1
+ITAA 1936
+ITAA 1936  23AH
+TAA 1953
+Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Act 2018
+Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Act 2018  Sch 1
+Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Act 2018  Sch 2
+Other References:
+PCG 2019/6
+Board of Taxation, 2016, Implementation of the OECD hybrid mismatch rules: A report to the Treasurer, Board of Taxation
+OECD, 2014, Public discussion draft: BEPS Action 2: Neutralise the effects of hybrid mismatch arrangements (Recommendations for Domestic Laws), OECD Publishing, Paris
+OECD, 2015, Neutralising the Effects of Hybrid Mismatch Arrangements, Action 2 - 2015 Final Report, OECD/G20 Base Erosion and Profit Shifting Project, OECD Publishing, Paris
+OECD, 2017, Neutralising the Effects of Branch Mismanagement Arrangements, Action 2: Inclusive Framework on BEPS, OECD/G20 Base Erosion and Profit Shifting Project, OECD Publishing, Paris
+Revised EM
+to the Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Bill 2018
+Back to top

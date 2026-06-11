@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 102AAZD Assessable income of attributable taxpayer to include attributable income of trust estate to which taxpayer has transferred property or services
 
-
 <a id="s102AAZD-1"></a>
 **(1)** Subject to section 102AAZE and to this section, if:
 

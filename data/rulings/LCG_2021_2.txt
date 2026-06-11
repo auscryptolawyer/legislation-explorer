@@ -1,0 +1,717 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2021/2
+Non-arm's length income - expenditure incurred under a non-arm's length arrangement
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There are Compendiums for this document:
+LCR 2021/2EC
+and
+LCR 2021/2EC2
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+4
+Overview of the 2024 amendments to the non-arm's length income provisions
+5
+Non-arm's length component
+6A
+Other changes made by the 2024 amendments – for complying superannuation funds
+7
+Non-arm's length expenditure – requirements of paragraphs 295-550(1)(b) and (c), paragraphs 295-550(5)(b) and (c), and subsections 295-550(8) and (9)
+9
+Specific non-arm's length expense – paragraphs 295-550(1)(b) and (c)
+10
+General non-arm's length expense – subsections 295-550(8) and (9)
+11A
+Non-arm's length expenditure – requirements of paragraphs 295-550(5)(b) and (c)
+12
+Application of non-arm's length expenditure provisions
+14
+Example 1 – non-arm's length expenditure was incurred to acquire an asset – NALI
+22
+Example 2 – non-arm's length expenditure incurred has a nexus to all income of the fund – NALI
+24
+Purchase of an asset under a non-arm's length arrangement
+27
+Example 3 – purchase less than market value and no in specie contribution – NALI
+31
+Example 4 – purchase financed through a limited recourse borrowing arrangement on non-arm's length terms – NALI
+34
+Example 5 – part purchase and part in specie contribution at market value – not NALI
+38
+Capacity in which activities are performed – self-managed superannuation funds
+40
+Whether dealings are on a non-arm's length basis
+49
+Example 6 – internal arrangement within an SMSF – trustee provides services to the SMSF
+54
+Example 7 – SMSF trustee carrying out duties – trustee capacity
+55
+Example 7A – SMSF trustee carrying out duties – trustee capacity
+57A
+Example 8 – third party providing services – discounts
+58
+Example 9 – SMSF trustee carrying out duties and services – different capacities
+61
+Example 10 – SMSF trustee – individual capacity
+70
+Example 11 – SMSF trustee – individual capacity
+72
+Expenditure relating to a superannuation entity as a beneficiary of a trust
+76
+Example 12 – SMSF incurs non-arm's length expenditure in acquiring a fixed entitlement in a unit trust
+77
+Application of the market value substitution rules
+81
+Example 13 – market value substitution rules (CGT consequences for the transferor and the fund)
+83
+Relying on this Ruling
+This publication is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Ruling applies to you, and you correctly rely on it in good faith, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+[Note: This is a consolidated version of this document.]
+What this Ruling is about
+1. This Ruling clarifies how the amendments to section 295-550 of the
+Income Tax Assessment Act 1997
+(ITAA 1997)
+[1]
+(2024 amendments) operate in a scheme where the parties do not deal with each other at arm's length and the trustee of a small complying superannuation fund (a complying superannuation entity
+[2]
+with no more than 6 members including a self-managed superannuation fund (SMSF)), incurs non-arm's length expenditure (or where expenditure is not incurred) in gaining or producing ordinary or statutory income.
+1A. The 2024 amendments apply in relation to income derived and a loss, outgoing or expenditure that is incurred (or not incurred but might have expected to be incurred) in the 2018–19 income year and later income years. These amendments supersede amendments made by the
+Treasury Laws Amendment (2018 Superannuation Measures No. 1) Act 2019
+(TLA Act 2019).
+[3A]
+2. For the purposes of readability, a reference in this Ruling to 'non-arm's length expenditure' includes where no loss, outgoing or expenditure is incurred under the relevant scheme, as outlined in paragraph 11 of this Ruling.
+3. All further legislative references in this Ruling are to the ITAA 1997 unless otherwise indicated.
+Date of effect
+4. This Ruling is effective from 1 July 2018.
+Overview of the 2024 amendments to the non-arm's length income provisions
+5. The taxable income of a complying superannuation fund is made up of 2 components – a 'low tax component', which is taxed at 15%, and a 'non-arm's length component' (NALC), which is taxed at the top marginal tax rate.
+6. The 2024 amendments have modified the calculation of the NALC for an income year for small complying superannuation funds.
+Non-arm's length component
+6A. For a superannuation fund, other than a small complying superannuation fund, the NALC for an income year is the amount of that entity's non-arm's length income (NALI) less any deductions to the extent that they are attributable to that income.
+[5A]
+6B. For a small complying superannuation fund, the NALC for an income year is the lesser of ('lesser of' calculation) the:
+•
+sum of
+–
+each amount of NALI (other than NALI as a result of a general expense that is a non-arm's length expense) less deductions attributable to that NALI, and
+–
+each amount of NALI as a result of a general expense that is a non-arm's length expense
+[5B]
+•
+fund's taxable income for the year less assessable contributions plus any deductions to the extent they are attributable to those contributions.
+[5C]
+6C. The formula outlined in paragraph 6B of this Ruling introduces a cap on the NALC to ensure that assessable contributions (minus related deductions) are not subject to the higher tax rates under the NALI provisions.
+[5D]
+6D. The amount of NALI as a result of a general expense that is a non-arm's length expense is calculated using the 'twice the difference' approach.
+[5E]
+Other changes made by the 2024 amendments – for complying superannuation funds
+7. For all complying superannuation funds, the low tax component of a complying superannuation fund's taxable income is the amount of the fund's taxable income less its NALC.
+[6A]
+The ordinary and statutory income of any complying superannuation fund that is NALI is not exempt current pension income.
+[6B]
+8. Following the 2024 amendments the NALI provisions continue to apply where a complying superannuation fund:
+•
+derived ordinary or statutory income under a scheme where
+–
+the parties to the scheme were not dealing with each other at arm's length in relation to the scheme, and
+–
+the amount of income is more than what might have been expected to have been derived if those parties had been dealing with each other at arm's length in relation to the scheme
+[7]
+•
+derived an amount of ordinary or statutory income (unless that amount is consistent with an arm's length dealing) if it is either
+–
+a dividend paid to the fund by a private company, or
+–
+ordinary income or statutory income that is reasonably attributable to such a dividend
+[7A]
+•
+derived income as a beneficiary of a trust, other than because of holding a fixed entitlement to the income of the trust
+[7B]
+•
+derived income under a scheme as a beneficiary of a trust through holding a fixed entitlement to the income of the trust where
+–
+the parties to the scheme were not dealing with each other at arm's length in relation to the scheme, and
+–
+the amount of income is more than what might have been expected to have been derived if those parties had been dealing with each other at arm's length.
+[8]
+8A. From 1 July 2018, the non-arm's length expenditure provisions will apply to small complying superannuation funds. As explained later in this Ruling, these provisions will apply where the small complying superannuation fund incurs a non-arm's length expense that:
+•
+relates to a specific expense in respect of a particular asset or assets of the fund, or
+•
+is of a general nature that does not relate to a specific expense of the fund.
+8B. The non-arm's length expenditure provisions do not apply to expenditure incurred or expected to have been incurred before 1 July 2018.
+[8A]
+8C. Superannuation funds other than a small complying superannuation fund, including large APRA-regulated funds, exempt public sector superannuation funds, pooled superannuation trusts and approved deposit funds (large APRA funds), are exempt from the NALI rules arising from non-arm's length expenditure for both general and specific expenses. These large APRA funds are still subject to the other NALI rules.
+[8B]
+Non-arm's length expenditure – requirements of paragraphs 295-550(1)(b) and (c), paragraphs 295-550(5)(b) and (c), and subsections 295-550(8) and (9)
+9. The amount of ordinary or statutory income of a small complying superannuation fund that is NALI will depend on whether the non-arm's length expenditure is a specific expense or a general expense.
+Specific non-arm's length expense – paragraphs 295-550(1)(b) and (c)
+10. An amount of ordinary or statutory income will be NALI of a small complying superannuation fund where:
+•
+there is a scheme in which the parties to the scheme were not dealing with each other at arm's length
+•
+in gaining or producing the income of the fund
+in relation
+to any particular asset or assets of the fund, the fund incurs a loss, outgoing or expenditure of an amount, and
+•
+the amount of the loss, outgoing or expenditure is less than the amount that the fund might have been expected to incur had those parties been dealing with each other at arm's length in relation to the scheme.
+[10]
+11. An amount of ordinary or statutory income will also be NALI of a small complying superannuation fund where:
+•
+there is a scheme in which the parties to the scheme were not dealing with each other at arm's length, and
+•
+in gaining or producing income
+in relation
+to any particular asset or assets of the fund, the fund does not incur a loss, outgoing or expenditure that the fund might have been expected to incur if those parties had been dealing with each other at arm's length in relation to the scheme.
+[11]
+General non-arm's length expense – subsections 295-550(8) and (9)
+11A. An amount of ordinary or statutory income will be NALI of a small complying superannuation fund where:
+•
+there is a scheme in which the parties to the scheme were not dealing with each other at arm's length
+•
+in gaining or producing the income of the fund
+(but not
+in gaining or producing the income
+in relation
+to any particular asset or assets of the fund) the fund incurs a loss, outgoing or expenditure of an amount, and
+•
+the amount of the loss, outgoing or expenditure is less than the amount that the fund might have been expected to incur had those parties been dealing with each other at arm's length in relation to the scheme.
+[11A]
+11B. An amount of ordinary or statutory income will also be NALI of a small complying superannuation fund where:
+•
+there is a scheme in which the parties to the scheme were not dealing with each other at arm's length, and
+•
+in gaining or producing the income
+(but not
+in gaining or producing the income
+in relation
+to any particular asset or assets of the fund) the fund does not incur a loss, outgoing or expenditure that the fund might have been expected to incur if those parties had been dealing with each other at arm's length in relation to the scheme.
+[11B]
+11C. As a result of the 2024 amendments, NALI that results from a non-arm's length general expense will be calculated according to the 'twice the difference' approach. Where a non-arm's length general expense is incurred, the amount that is NALI is equal to twice the difference of the amount that the entity actually incurred and the amount that the entity might have expected to incur if the parties had been dealing at arm's length. Where no expense was incurred, the amount will be equal to twice the amount that might have been expected if the parties has been dealing at arm's length.
+11D. Where a non-arm's length general expense is actually incurred, when calculating the NALC, the amount of NALI using the 'twice the difference' approach is not reduced by the amount actually incurred.
+[11C]
+Non-arm's length expenditure – requirements of paragraphs 295-550(5)(b) and (c)
+12. Other income derived by a small complying superannuation fund as a beneficiary of a trust through holding a fixed entitlement to the income of the trust is NALI of the fund where:
+•
+there is a scheme in which the parties to the scheme were not dealing with each other at arm's length
+•
+the fund incurs a loss, outgoing or expenditure of an amount in acquiring the entitlement or in gaining or producing the income, and
+•
+the amount of the loss, outgoing or expenditure is less than the amount that the fund might have been expected to incur if those parties had been dealing with each other at arm's length in relation to the scheme.
+[12]
+13. Other income derived by a small complying superannuation fund as a beneficiary of a trust through holding a fixed entitlement to the income of the trust is also NALI where:
+•
+there is a scheme in which the parties to the scheme were not dealing with each other at arm's length, and
+•
+the fund does not incur a loss, outgoing or expenditure in acquiring the entitlement or in gaining or producing the income that the fund might have been expected to incur if those parties had been dealing with each other at arm's length in relation to the scheme.
+[13]
+13A. A non-arm's length expense incurred in relation to acquiring the fixed entitlement to the income of a trust or in gaining or producing the income as a beneficiary of such a trust is a specific expense and not a general expense. This is because the income derived is
+in relation
+to a particular asset or assets of the fund, being the fixed entitlement in the trust.
+Application of non-arm's length expenditure provisions
+14. In applying paragraphs 295-550(1)(b) and (c), 295-550(5)(b) and (c), or 295-550(8)(b) and (9)(b) (non-arm's length expenditure provisions), it is necessary to identify the relevant scheme under which the parties to the scheme were not dealing with each other at arm's length. A 'scheme' is defined as '… any arrangement; or … any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise'.
+[14]
+15. It is therefore necessary to identify both the steps of the relevant scheme and the parties that deal with each other under those steps of the scheme.
+16. Within the identified steps of the scheme, it is then necessary to determine whether the small complying superannuation fund incurs non-arm's length expenditure in:
+•
+gaining or producing the ordinary or statutory income
+[14A]
+and whether it is
+in relation
+to any particular asset or assets of the fund
+[14B]
+, or
+•
+in acquiring the fixed entitlement to the income of a trust or in gaining or producing the income derived as beneficiary of a trust.
+[14C]
+17. In identifying whether the small complying superannuation fund has incurred NALI, there must be a sufficient nexus between the non-arm's length expenditure and the relevant ordinary or statutory income. That is, the expenditure must have been incurred 'in' gaining or producing the relevant income (or acquiring the relevant entitlement). Further, to determine whether the income is
+in relation
+to any particular asset or assets of the fund, there must also be a sufficient nexus between the non-arm's length expenditure and ordinary or statutory income derived in respect of that asset or assets including the disposal of that asset.
+17A. While guidance can be obtained from jurisprudence concerning the application of section 8-1 to determine whether there is a sufficient nexus between the non-arm's length expenditure and the relevant income
+[15A]
+, the non-arm's length expenditure does not have to be deductible under section 8-1 for the non-arm's length expenditure provisions to apply. The non-arm's length expenditure may be of a revenue or capital nature
+[16]
+, or deductible under a specific provision, provided there is a sufficient nexus to the relevant income.
+18. Non-arm's length expenditure incurred to acquire an asset (including associated financing costs) will be specific expenditure and will have a sufficient nexus to all ordinary or statutory income derived by the small complying superannuation fund in respect of that particular asset. This includes any capital gain derived on the disposal of the asset (see Example 1 of this Ruling).
+[17]
+There will still be a sufficient nexus between the initial non-arm's length expenditure incurred to acquire an asset (including associated financing costs) and an amount of statutory income, determined by reference to any capital gain derived by the fund on the disposal of that particular asset
+[17A]
+even where the trustee subsequently refinances the borrowing arrangement on arm's length terms (see Example 4 of this Ruling).
+19. In some instances, the non-arm's length expenditure will have a sufficient nexus to all of the ordinary income, statutory income, or both, derived by the fund rather than to any particular asset or assets of the fund. A general expense is a loss, outgoing or expenditure of an amount that is incurred in gaining or producing income of the fund
+but not in relation
+to any particular asset or assets of the fund. A reference to a general expense includes where the fund does not incur a loss, outgoing or expenditure that the fund might have been expected to incur in gaining or producing income of the fund, but not in relation to any particular asset or assets of the fund. For example, a fund may incur expenditure that does not specifically relate to a particular asset or assets owned or acquired by the fund but still has a sufficient nexus more generally to the income derived by the fund to be deductible under section 8-1, such as
+[18]
+:
+•
+actuarial costs – except those incurred in complying with, or managing, the fund's income tax affairs and obligations (for example, Subdivision 295-F) which are ordinarily deductible under section 25-5
+[18A]
+•
+accountancy fees – except those incurred in complying with, or managing, the fund's income tax affairs and obligations (for example, Subdivision 295-F) which are ordinarily deductible under section 25-5
+[18B]
+•
+audit fees
+•
+costs of complying with a 'regulatory provision' as defined in section 38A of the
+Superannuation Industry (Supervision) Act 1993
+(SISA) (unless the cost is a capital expense)
+•
+trustee fees and premiums under an indemnity insurance policy
+•
+costs in connection with the calculation and payment of benefits to members (but not the cost of the benefit itself); for example, interest on money borrowed to secure temporary finance for payment of benefits and medical costs in assessing invalidity benefit claims
+•
+investment adviser fees and costs in providing pre-retirement services to members, and
+•
+other administrative costs incurred in managing the fund.
+20. Where the fund incurs non-arm's length general expenditure of the nature outlined in paragraph 19 of this Ruling, the amount of income that is NALI is calculated using the 'twice the difference' approach as follows (see Example 2 of this Ruling):
+•
+where an amount of non-arm's length general expense is incurred – the amount that might have been expected to be incurred if the parties to the scheme had been dealing at arm's length, minus the amount actually incurred, with the resulting number multiplied by 2
+[18C]
+, or
+•
+where no amount of non-arm's length general expense is incurred – twice the amount that might have been expected to be incurred if the parties to the scheme had been dealing at arm's length.
+[18D]
+20A. Where a non-arm's length general expense is actually incurred, when calculating the NALC, the amount of NALI using the 'twice the difference' approach is not reduced by the amount actually incurred.
+[18E]
+This is because the 'twice the difference' approach already takes into account the amount actually incurred by subtracting it from the amount that might have been expected to be incurred if the parties had been dealing with each other at arm's length, before multiplying the result by 2 to arrive at the amount of NALI.
+[18F]
+21. Where a small complying superannuation fund incurs non-arm's length expenditure that does not relate to the acquisition of any particular asset
+[19]
+under a scheme that only has a nexus with the fund deriving ordinary or statutory income during a particular income year, and subsequently ceases to incur that non-arm's length expenditure in a later income year, income derived by the fund in that later income year is not NALI (see Example 2 of this Ruling). Interest expenses incurred under a limited recourse borrowing arrangement (LRBA) is an example of expenditure that is incurred in relation to an acquisition of an asset.
+Example 1 – non-arm's length expenditure was incurred to acquire an asset – NALI
+22.
+During the 2022–23 income year, Armin holds commercial property with a market value of $800,000. During the income year, he sells the commercial property to himself acting as a trustee of his SMSF for $200,000. The SMSF leases the property to a third party.
+23.
+For the purposes of subsection 295-550(1), the scheme involves the SMSF acquiring the commercial property from Armin for an amount that is less than its market value. There is a sufficient nexus between the non-arm's length expenditure incurred in acquiring that property and the rental income the SMSF derives from leasing the property for the rental income to be NALI. Further, there will be a sufficient nexus between the non-arm's length expenditure and an amount of statutory income, determined by reference to any capital gain derived by the fund on the disposal of that particular property. The non-arm's length expenditure incurred by the SMSF in acquiring the property is a specific expense. The SMSF's NALC is calculated using the 'lesser of' calculation referred to in paragraph 6B of this Ruling.
+Example 2 – non-arm's length expenditure incurred has a nexus to all income of the fund – NALI
+24.
+For the 2020–21 income year, Mikasa (as a trustee of her SMSF) engages an accounting firm, where she is a partner, to provide accounting services for the SMSF. The accounting services include services other than those relating to complying with, or managing, the SMSF's income tax affairs and obligations, which are ordinarily deductible under section 25-5. The accounting firm does not charge the SMSF for those services as a result of non-arm's length dealings between the parties (and not as part of any discount policy referred to in paragraph 51 of this Ruling).
+25.
+For the purposes of subsection 295-550(1), the scheme involves the SMSF acquiring the accounting services under a non-arm's length arrangement. The non-arm's length expenditure (being the nil amount incurred for the services) has a sufficient nexus with all of the ordinary and statutory income derived by the SMSF for the 2020–21 income year. The non-arm's length expenditure incurred by the SMSF in acquiring the accounting services (nil amount) is a general expense. As such, for the 2020–21 income year, the amount of NALI as a result of the general expense will be twice the difference between the amount of the expense that might have been expected to be incurred had the parties been dealing at arm's length and the amount the entity incurred. The SMSF's NALC is calculated using the 'lesser of' calculation referred to in paragraph 6B of this Ruling.
+26.
+Subsection 295-550(1) would cease to apply if the arrangement changes for the 2021–22 income year so that the SMSF incurs expenditure for the accounting services provided by the accounting firm of an amount that would have been expected to be incurred where the parties were acting at arm's length. In this situation, none of the SMSF's income for the 2021–22 income year is NALI.
+Purchase of an asset under a non-arm's length arrangement
+27. Where a small complying superannuation fund purchases an asset at less than market value under a scheme where the parties were not dealing at arm's length, the fund incurs non-arm's length expenditure for the purposes of applying the non-arm's length expenditure provisions. In applying those provisions, it does not matter whether the amount of the loss, outgoing or expenditure is revenue or capital in nature.
+[20]
+28. In situations where the terms of a contract between the small complying superannuation fund and the seller of the asset make it clear that the asset is being purchased by the fund, the difference between the consideration paid (if any) by the fund and the market value of the asset purchased under the contract cannot represent the value of an in specie contribution made by the other party. This is because there is no other asset being transferred to the superannuation fund that can be regarded as being an in specie contribution. The difference between the consideration (if any) paid by the fund and the market value is not an asset being transferred to the superannuation fund.
+29. An in specie contribution can be made in conjunction with a complying superannuation fund purchasing part of an asset where a contract makes it clear the fund is only acquiring part of the asset. In such situations, the fund:
+•
+purchases the interest in the asset specified under the contract, and
+•
+receives the in specie contribution of the remaining interest in the asset.
+29A. The small complying superannuation fund will not have incurred non-arm's length expenditure for the purposes of subsections 295-550(1) or (5) where that part of the asset acquired under the contract is purchased at market value. However, if the fund pays less than market value for the part of the asset purchased under the contract, then the non-arm's length expenditure provisions apply for the reasons outlined in paragraph 27 of this Ruling. This would be the case even if the in specie contribution relating to the other part of the asset is recorded at market value in the fund's accounts and is allocated to the member's superannuation interest.
+30. The non-arm's length expenditure incurred by the fund in acquiring the property is a specific expense. A consequence of the non-arm's length expenditure provisions applying to the purchase of either all, or a part, of the asset is that all of the income derived from that asset will be NALI, including any capital gains from the disposal of the asset.
+Example 3 – purchase less than market value and no in specie contribution – NALI
+31.
+During the 2018–19 income year, Russell (as a trustee of his SMSF) purchases listed shares from a related entity for $500,000. The market value of the shares at the time of purchase is $900,000. The terms of the agreement specify the purchase price as $500,000, rather than $900,000. Accordingly, the arrangement does not involve an in specie contribution being made to the SMSF.
+32.
+The non-arm's length dealing between Russell's SMSF and his related entity amounts to a scheme, which has resulted in his SMSF incurring expenditure that was less than would otherwise be expected if those parties were dealing with each other at arm's length in relation to the scheme. The expenditure was incurred in gaining or producing the dividend income. The non-arm's length expenditure incurred by the SMSF in purchasing the listed shares is a specific expense. Any dividend income derived by the SMSF from the shares will be NALI. The SMSF's NALC is calculated using the 'lesser of' calculation referred to in paragraph 6B of this Ruling.
+33.
+The non-arm's length expenditure incurred in acquiring the shares would also result in any future amount of statutory income, determined by reference to any capital gain being derived by the fund on the disposal of those particular shares being NALI. Refer to Example 13 of this Ruling for an explanation of how this operates in conjunction with the market value substitution rule.
+Example 4 – purchase financed through a limited recourse borrowing arrangement on non-arm's length terms – NALI
+34.
+During the 2018–19 income year, Kellie (as a trustee of her SMSF) enters into a non-commercial LRBA with herself in her individual capacity to purchase a commercial property valued at $2 million. Her SMSF borrows 100% of the purchase price and the terms of the loan include interest being charged at a rate of 1.5% per annum and repayments only being made on an annual basis over a 25-year period. Kellie's SMSF receives a commercial rate of rent from the property of $12,000 per month.
+35.
+If Kellie's SMSF had entered into an LRBA on arm's length terms, it would be expected that repayments of principal and interest would occur on a monthly basis and interest would be charged on the LRBA at a commercial rate. The loan-to-market value ratio would have also not exceeded commercial levels.
+36.
+For the purposes of subsection 295-550(1), the scheme involves the SMSF entering into the LRBA with Kellie, complying with the terms of the LRBA, purchasing the commercial property, and deriving the rental income. The terms of the LRBA constitute a non-arm's length dealing between the SMSF and Kellie, which resulted in the SMSF incurring expenditure in gaining or producing rental income that was less than would otherwise be expected if those parties were dealing with each other at arm's length in relation to the scheme. The non-arm's length expenditure incurred by the SMSF in purchasing the commercial property is a specific expense. The rental income derived from the commercial property by the SMSF for all income years is therefore NALI, regardless of whether the LRBA is subsequently refinanced on arm's length terms. The SMSF's NALC is calculated using the 'lesser of' calculation referred to in paragraph 6B of this Ruling.
+37.
+The non-arm's length expenditure incurred under the LRBA would also result in any future amount of statutory income, determined by reference to any capital gain derived by the fund on the disposal of that particular property being NALI. This will be the case regardless of whether the LRBA is subsequently refinanced on arm's length terms.
+Example 5 – part purchase and part in specie contribution at market value – not NALI
+38.
+During the 2023–24 income year, Nadia owns commercial premises that she leases to a third party which use the premises to carry on a business. The commercial premises has a market value of $500,000. Nadia would like to transfer it to her SMSF, but her SMSF only has $400,000 in cash. Nadia's SMSF purchases 50% of the commercial premises under a contract from Nadia for $250,000. Nadia makes an in specie non-concessional contribution of the remaining 50% interest in the commercial premises (valued at $250,000). The acceptance of the in specie contribution by Nadia as trustee of the SMSF is recorded by her in writing and the market value of the in specie contribution is reported in the SMSF's accounts. The SMSF reports the non-concessional contribution to the ATO.
+39.
+Nadia's SMSF continues to lease the commercial premises to the third party at a commercial rate of rent. As the commercial premises were acquired by the SMSF at market value and a commercial rate of rent was charged, the rental income derived by the SMSF is not considered to be NALI. Any capital gain that might arise from the disposal of the commercial premises will also not be NALI.
+Capacity in which activities are performed – self-managed superannuation funds
+40. In the context of SMSFs, it may be necessary for an individual to ascertain whether they are performing an activity as a trustee of the superannuation fund or whether they are acting in a different capacity. An SMSF is a superannuation fund that satisfies the conditions set out in sections 17A and 17B of the SISA.
+[21]
+The statutory scheme requires a member of an SMSF to be either a trustee of the fund or a director of a body corporate that is a trustee of the fund.
+[22]
+The SISA also prevents a trustee, or a director of a body corporate that is a trustee, of an SMSF from receiving remuneration for any duties or services performed by the trustee or director in relation to the SMSF.
+[23]
+41. However, subsections 17B(1) and (2) of the SISA provides exceptions to paragraphs 17A(1)(f) and (g) and paragraphs 17A(2)(c) and (d) of the SISA, such that a trustee or director of a corporate trustee can receive remuneration for duties or services performed by them if they:
+•
+perform the duties or services other than in their capacity as trustee or director of a body corporate that is a trustee
+•
+are appropriately qualified, and hold all necessary licences, to perform the duties or services
+•
+perform the duties or services in the ordinary course of a business, carried on by them, of performing similar duties or services for the public, and
+•
+receive remuneration that is no more favourable to them than that which it is reasonable to expect would apply if they were dealing with the relevant other party at arm's length in the same circumstances.
+42. Given the statutory restrictions that prevent a trustee or director of a corporate trustee from receiving remuneration, paragraphs 295-550(1)(b) and (c) or subsections 295-550(8) and (9) will not be enlivened due to the trustee or director not charging for the services performed in relation to the fund.
+[24]
+Therefore, the non-arm's length expenditure provision will not apply where:
+•
+a trustee acting in that capacity, provides services to the fund for no remuneration, or
+•
+a trustee acting in a capacity other than as trustee, provides services to the fund for no remuneration where the requirements in section 17B of the SISA are not met.
+43. However, the fund does incur non-arm's length expenditure under either paragraph 295-550(1)(b) or (c) or subsection 295-550(8) or (9) when the trustee or director of a corporate trustee operates in another capacity and they can receive remuneration for their service under section 17B of the SISA, but either:
+•
+does not receive any remuneration for those services, or
+•
+receives remuneration that is less than what parties dealing with each other at arm's length might have been expected to receive.
+44. A trustee or director of a corporate trustee of an SMSF will be required to perform particular actions in order to satisfy obligations imposed on them, including:
+•
+any conditions imposed by statute (for example, the SISA and the
+Corporations Act 2001)
+•
+any fiduciary conditions imposed under the law, and
+•
+any duties or obligations imposed under the trust deed of the SMSF.
+45. The trust deed of the SMSF may also provide the trustee or director of the corporate trustee the power to perform certain actions.
+46. An individual's business, profession, life experiences or employment may result in the individual having skills and knowledge that can assist the individual perform their duties in their capacity as trustee, or as a director of a corporate trustee, of an SMSF. Utilising such skills and knowledge of itself does not indicate that the individual is not acting in their capacity as trustee or as a director of a corporate trustee. For example, a financial adviser who is a trustee of an SMSF can utilise their skills and knowledge in deciding the investment strategy of the SMSF in their capacity as trustee.
+47. In the context of applying paragraphs 295-550(1)(b) and (c) or subsection 295-550(8) or (9), it is appropriate to presume that an individual is acting in their capacity as a trustee, or director of a corporate trustee, where the actions are consistent with a duty, obligation or power referred to in paragraph 44 of this Ruling, unless there are factors that suggest a contrary conclusion. Factors to be considered when determining whether an individual is performing their activities in their individual capacity and not in their capacity as a trustee, or a director of a corporate trustee, include:
+•
+The individual charges the complying SMSF for performing the services. However, there can be circumstances where the individual can be acting in their individual capacity even though they do not charge the SMSF for performing the services.
+•
+The individual uses the equipment and other assets of their business, or equipment and other assets used in their profession or employment in a material manner. However, minor, infrequent or irregular use of equipment or assets will not, of itself, indicate the individual is acting in their individual capacity. For example, in the absence of any other factor indicating otherwise, minor, infrequent or irregular use of a business computer at the office by an individual would not, of itself, indicate the individual is acting in their individual capacity.
+•
+The individual performs the activities pursuant to a licence or qualification relating to their business, or their profession or employment. That is, the activity can only be performed due to the individual or business holding the relevant licence or qualification.
+•
+The activity is covered by an insurance policy relating to their business, or their profession or employment (for example, indemnity insurance).
+48. It is necessary to carefully weigh up all the relevant facts, circumstances and factors in deciding whether the individual is acting in a capacity other than as trustee, or as a director of a corporate trustee, of an SMSF.
+Whether dealings are on a non-arm's length basis
+49. Where a trustee, or a director of a corporate trustee, of a small complying superannuation fund performs services other than in these capacities (for example, in their individual capacity) to a small complying superannuation fund for remuneration, the non-arm's length expenditure provisions will apply where the remuneration is incurred by the fund in gaining or producing ordinary or statutory income and the remuneration is non-arm's length expenditure. The non-arm's length expenditure provisions will also apply in these situations where no remuneration is provided. For example, the non-arm's length expenditure provisions will apply where a trustee (being an accountant by profession) contracts the bookkeeping or accounting services to their accounting firm, which charges non-arm's length rates.
+[24A]
+50. If arm's length charges are paid, the non-arm's length expenditure provisions will not apply. We would expect the trustee (or a director of a corporate trustee) of a small complying superannuation fund and the service provider to have a sound basis, such as the application of commercial pricing policies, for arriving at the amount to be charged.
+51. A small complying superannuation fund might enter into arrangements that result in it receiving discounted prices. Such arrangements will still be on arm's length terms where they are consistent with normal commercial practices, such as an individual acting in their capacity as trustee (or a director of a corporate trustee) being entitled to a discount under a discount policy where the same discount is provided to all employees, partners, shareholders or office holders. Where this is not the case, or where the trustee (or director of a corporate trustee) of the fund is able to influence the discount policy, this may indicate that the discount policy is not consistent with normal commercial practices.
+52. Further, services provided to a small complying superannuation fund on a pro bono basis will also still be on arm's length terms where the trustee (or director of a corporate trustee) of the fund is not able to influence the service provider's decision to supply the services on a pro bono basis.
+53. Other than arrangements covered in paragraph 51 of this Ruling, pricing based on a cost-recovery basis is considered to be for less than market value when applying ordinary commercial pricing policies to the goods and services provided and will not be consistent with an arm's length dealing.
+Example 6 – internal arrangement within an SMSF – trustee provides services to the SMSF
+54.
+Leonie is a trustee of an SMSF of which she is the sole member. She is a chartered accountant and registered tax agent who is employed in an accounting and tax agent business. Leonie (in her capacity as trustee) prepares the accounts for the SMSF. The accounting services include services other than those relating to complying with, or managing, the SMSF's income tax affairs and obligations, which are ordinarily deductible under section 25-5. She does not use the equipment or assets of her employer, nor does she lodge the annual return using her tax agent registration. As she performs these duties or services as trustee of the SMSF, she does not charge the SMSF for this work.
+[26]
+The non-arm's length expenditure provisions do not apply as the duties or services performed by Leonie are in her capacity as trustee rather than under an arrangement in which parties are dealing with one another on a non-arm's length basis.
+Example 7 – SMSF trustee carrying out duties – trustee capacity
+55.
+Levi is a trustee of his SMSF of which he is the sole member. He is also a financial adviser and director of Levi and Co Financial Services
+.
+Levi operates the business of Levi and Co Financial Services from a commercial office and on regular occasions from his home. At home, Levi uses the computer and office equipment supplied by and paid for by the business.
+56.
+When at home, but not while working or billing clients, Levi undertakes the bookwork and occasionally makes online investments for his SMSF using the computer and office equipment supplied by the business.
+57.
+Levi performs these activities as trustee of his SMSF and does not charge the SMSF for this work. Levi's use of the computer and office equipment at home is minor and incidental in nature and will not, of itself, indicate that he is undertaking these services in any capacity other than as trustee for his SMSF.
+Example 7A – SMSF trustee carrying out duties – trustee capacity
+57A.
+Mina is a trustee of her SMSF of which she is the sole member. She is a chartered accountant and she operates Once Accounting Services as a sole trader. Whilst at the office, Mina receives a phone call on her office phone from her SMSF auditor during her business hours. The call is related to supporting documentation for an investment made by her SMSF required by the SMSF auditor to complete the audit process. After the phone call, Mina sends a follow-up email to the SMSF auditor using her business computer providing the relevant supporting documentation.
+57B.
+Mina performs these activities as trustee of her SMSF and does not charge her SMSF. Although Mina undertakes the activities at her business premises where she operates her accounting business, the use of the business supplied computer and the office telephone is minor and incidental in nature, and would not, of itself, indicate that Mina is acting in any capacity other than as trustee for her SMSF. Accordingly, the non-arm's length expenditure provisions will not apply.
+Example 8 – third party providing services – discounts
+58.
+Sasha is a trustee of her SMSF of which she is the sole member. She is also an employee of Eren & Co Accountants.
+59.
+Sasha engages Eren and Co Accountants to provide accounting services to her SMSF. The accounting services include services other than those relating to complying with, or managing, the SMSF's income tax affairs and obligations, which are ordinarily deductible under section 25-5. Sasha is entitled to a staff discount rate that is available to all staff of Eren and Co Accountants. Sasha is charged the discounted rate for these services.
+60.
+The discounted rate is consistent with the normal commercial practices of Eren and Co Accountants. It is available to all staff and is not able to be influenced by Sasha. Accordingly, the discounted rate has been provided on an arm's length basis and the non-arm's length expenditure provisions will not apply.
+Example 9 – SMSF trustee carrying out duties and services – different capacities
+61.
+Trang is a trustee of her SMSF of which she is the sole member. She is also a plumber by trade and runs her own business as a sole trader in which she also employs an apprentice, Novee.
+62.
+Trang's SMSF has 2 investment properties which are leased for a commercial rate of rent.
+63.
+After finishing work for the day, Trang stops by one of the SMSF's investment properties to connect a stand-alone water filter provided (and to be taken away at lease end) by the tenant. She uses some of her tools of trade to complete the installation.
+64.
+Trang performs this activity as trustee of her SMSF and does not charge the SMSF for this work. Trang's use of the tools of her trade in respect of this property is minor, infrequent or irregular in nature and will not, of itself, indicate that she is undertaking these services in any other capacity other than as trustee for her SMSF. Accordingly, the non-arm's length expenditure provisions will not apply.
+65.
+In respect of the second SMSF rental property, Trang undertakes a complete renovation of the bathroom and kitchen. She schedules time in her work calendar to undertake the work and uses the tools of her trade to undertake all plumbing work on the renovations. She also engages Novee in all works.
+66.
+Trang does not charge the SMSF for the work undertaken in respect of the second SMSF rental property.
+67.
+In this instance, Trang's use of the tools of her trade will not be considered minor, infrequent or irregular in nature. Considering all her activities, she will be considered to be undertaking these services in her individual capacity, rather than as trustee for her SMSF.
+68.
+For the purposes of subsection 295-550(1), the scheme involves the SMSF obtaining the services from Trang and deriving the rental income. Trang not charging the SMSF for the services provided constitutes a non-arm's length dealing between the SMSF and Trang, which resulted in the SMSF not incurring expenditure in gaining or producing rental income that would otherwise be expected if those parties were dealing with each other at arm's length in relation to the scheme.
+69.
+As such, there is sufficient nexus between the non-arm's length expenditure and the rental income derived from the second SMSF rental property. The rental income will therefore be NALI. The non-arm's length expenditure incurred by the SMSF in acquiring the plumbing services for the second SMSF rental property is a specific expense. The SMSF's non-arm's length component is calculated using the 'lesser of' calculation referred to in paragraph 6B of this Ruling. The non-arm's length expenditure will also result in any future amount of statutory income, determined by reference to any capital gain derived by the fund on the disposal of the second SMSF rental property, being NALI.
+Example 10 – SMSF trustee – individual capacity
+70.
+Jean is a trustee of his SMSF of which he is the sole member. He is also a licensed electrician by trade, operating an electrician business as a sole trader. The SMSF owns a residential property which it leases for a commercial rate of rent.
+71.
+Jean undertakes electrical work on the rental property done in his capacity as a licensed electrician. The electrical work is covered under his businesses professional indemnity insurance and he utilises the business' equipment and tools of trade. In that instance, the work done by Jean is not as trustee of his SMSF but in his individual capacity. Jean charges the SMSF the commercial rate for the work undertaken on the rental property. Accordingly, the non-arm's length expenditure provisions will not apply.
+Example 11 – SMSF trustee – individual capacity
+72.
+Sharon is a director of the corporate trustee of an SMSF of which she is the sole member. She is a licensed real estate agent and is the director of Ringo Real Estate Co which conducts a real estate business, including property management services for rental properties. The SMSF holds a residential property which it leases for a commercial rate of rent. Sharon provides property management services to the SMSF as a licenced real estate agent. She utilises the equipment and assets of Ringo Real Estate Co (including the business' website) in performing these services. Her actions are covered by the applicable insurance policies in respect of Ringo Real Estate Co. Accordingly, Sharon provides property management services in her individual capacity to the SMSF with respect to the residential property. Ringo Real Estate Co does not have a discount policy referred to in paragraph 51 of this Ruling. She charges the SMSF 50% of the price for her services that Ringo Real Estate Co would otherwise charge a party.
+73.
+For the purposes of subsection 295-550(1), the scheme involves the SMSF obtaining the services from Sharon and deriving the rental income. The price charged to the SMSF constitutes a non-arm's length dealing between the SMSF, Ringo Real Estate Co and Sharon, which resulted in the SMSF incurring expenditure in gaining or producing rental income that was less than would otherwise be expected if those parties were dealing with each other at arm's length in relation to the scheme. The non-arm's length expenditure incurred by the SMSF in acquiring the property management services with respect to the residential property is a specific expense.
+74.
+As such, there is sufficient nexus between the non-arm's length expenditure and the rental income derived from the residential property. The rental income will therefore be NALI for each income year the non-arm's length dealing remains in place. The SMSF's NALC is calculated using the 'lesser of' calculation referred to in paragraph 6B of this Ruling.
+75.
+Due to the nature of the non-arm's length expenditure, there will not be a sufficient nexus between the non-arm's length expenditure and any future amount of statutory income, determined by reference to any capital gain derived by the fund on the disposal of that particular residential property.
+Expenditure relating to a superannuation entity as a beneficiary of a trust
+76. As explained in paragraphs 12 to 13A of this Ruling, the non-arm's length expenditure provisions apply to expenditure incurred (or that might have been expected to have been incurred) by a small complying superannuation fund as a beneficiary of a trust. Examples of expenditure to which paragraphs 295-550(5)(b) and (c) may apply include:
+•
+a small complying superannuation fund incurs non-arm's length expenditure in acquiring the interest in the trust, or
+•
+the fund enters into an LRBA on non-arm's length terms in order to obtain funds to acquire the fixed entitlement.
+Example 12 – SMSF incurs non-arm's length expenditure in acquiring a fixed entitlement in a unit trust
+77.
+During the 2018–19 income year, Scott (as a trustee of his SMSF) enters into a non-commercial LRBA with himself in his individual capacity to purchase units, valued at $50,000, in a stock exchange-listed unit trust. The SMSF borrows 100% of the purchase price and the terms of the loan include no interest being charged and repayments of principal not being required until the end of the 25-year term of the loan. The units provide the SMSF with a fixed entitlement to the income of the unit trust. The unit trust distributes $8,000 to the SMSF at the end of the 2020–21 income year.
+78.
+If Scott's SMSF had entered into an LRBA on arm's length terms, it would be expected that repayments of principal and interest would occur monthly and interest would be charged under the LRBA at a commercial rate. It could have also used its own cash assets to fund part of the purchase to reduce the loan to market value ratio to commercial levels.
+79.
+For the purposes of subsection 295-550(5), the scheme involves the SMSF entering into the LRBA with Scott, complying with the terms of the LRBA, purchasing the units in the unit trust, and deriving income from those units. The terms of the LRBA constitute a non-arm's length dealing between the SMSF and Scott, which result in the SMSF incurring expenditure in gaining or producing income that was less than would otherwise be expected if those parties were dealing with each other at arm's length in relation to the scheme. The non-arm's length expenditure incurred by the SMSF in entering into the non-commercial LRBA to purchase the units in the unit trust is a specific expense. The $8,000 distribution derived from the units in the unit trust in the 2020–21 income year, and any distribution derived in future years, is therefore NALI. The SMSF's NALC is calculated using the 'lesser of' calculation referred to in paragraph 6B of this Ruling.
+80.
+The non-arm's length expenditure under the LRBA will also result in any future amount of statutory income, determined by reference to any capital gain derived by the fund on the disposal of those particular units being NALI.
+Application of the market value substitution rules
+81. Where a superannuation fund acquires a CGT asset at less than its market value, the market value substitution rules in section 112-20 may apply to modify the cost base or reduced cost base of the asset. The superannuation fund, when determining the cost base of its CGT asset, is treated as having acquired the asset at market value.
+[27]
+This affects the amount of any capital gain that may arise from a later CGT event, but does not affect the application of the non-arm's length expenditure provisions in determining whether the asset was acquired by the fund at market value.
+[28]
+82. Any capital gain that the fund makes from a subsequent CGT event happening in relation to the asset (such as a disposal of the CGT asset) will be NALI.
+Example 13 – market value substitution rules (CGT consequences for the transferor and the fund)
+83.
+Continuing on from Example 3 of this Ruling, 2 years later Russell's SMSF sells the shares it acquired for $500,000 for $1 million.
+84.
+When calculating the capital gain for the SMSF on disposal of the shares, the cost base of the shares will be modified by the market value substitution rule in section 112-20
+[29]
+as the parties did not deal with each other at arm's length in relation to the acquisition.
+85.
+This means that the cost base for the shares will be their market value at the time of acquisition by Russell's SMSF, which was $900,000. The SMSF has therefore realised a capital gain of $100,000 ($1 million sale proceeds less deemed cost base of $900,000).
+86.
+The $100,000 capital gain derived by the SMSF is subject to the NALI provisions. This is because the amount of expenditure incurred by the SMSF in acquiring the asset was less than what the SMSF might have been expected to incur if the parties were dealing with each other at arm's length. The SMSF's NALC is calculated using the 'lesser of' calculation referred to in paragraph 6B of this Ruling.
+87.
+It should also be noted that the market value substitution rules in paragraph 116-30(2)(b) would have applied in relation to the capital proceeds received by the related entity at the time Russell's SMSF acquired the shares as the parties were not dealing with each other at arm's length. The rules have the effect of replacing the capital proceeds from the disposal with the market value of the shares at the time the disposal took place.
+Commissioner of Taxation
+28 July 2021
+88. [Omitted.]
+89. [Omitted.]
+90. [Omitted.]
+91. [Omitted.]
+92. [Omitted.]
+93. [Omitted.]
+94. [Omitted.]
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+See Schedule 7 to the
+Treasury Laws Amendment (Support for Small Business and Charities and Other Measures) Act 2024
+(TLA Act 2024).
+[2]
+A 'complying superannuation entity' is defined in subsection 995-1(1) of the ITAA 1997 as a complying superannuation fund, a complying approved deposit fund, or a pooled superannuation trust. While acknowledging that it is the trustee of the complying superannuation entity that derives the relevant income and incurs the relevant expenditure, for the purposes of readability, this Ruling refers to how the provisions apply to a complying superannuation fund. However, the provisions apply equally to a trustee of a complying approved deposit fund and a pooled superannuation trust.
+[3]
+[Omitted.]
+[3A]
+See paragraphs (1) to (3) of item 5 of Schedule 7 to the TLA Act 2024.
+[4]
+[Omitted.]
+[5]
+[Omitted.]
+[5A]
+Subsection 295-545(2).
+[5B]
+Paragraph 295-545(2A)(a).
+[5C]
+Paragraph 295-545(2A)(b).
+[5D]
+Paragraph 7.24 of the Explanatory Memorandum to the Treasury Laws Amendment (Support for Small Business and Charities and Other Measures) Bill 2023 (EM to the TLA Bill 2023).
+[5E]
+Subsection 295-550(8) or (9).
+[6]
+[Omitted.]
+[6A]
+Subsection 295-545(3).
+[6B]
+Paragraphs 295-385(2)(a), 295-390(2)(a) and 295-400(2)(a).
+[7]
+Paragraph 295-550(1)(a).
+[7A]
+Subsection 295-550(2).
+[7B]
+Subsection 295-550(4).
+[8]
+Paragraph 295-550(5)(a).
+[8A]
+Paragraphs (1) to (3) of item 5 of Schedule 7 to the TLA Act 2024. This exclusion does not limit the potential application of other NALI provisions in section 295-550 where there is non-arm's length expenditure.
+[8B]
+Paragraphs 295-550(1)(a), subsections 295-550(2), (3) and (4) and paragraph 295-550(5)(a).
+[9]
+[Omitted.]
+[10]
+Paragraph 295-550(1)(b).
+[11]
+Paragraph 295-550(1)(c).
+[11A]
+Subsection 295-550(8).
+[11B]
+Subsection 295-550(9).
+[11C]
+Subparagraph 295-545(2A)(a)(ii).
+[12]
+Paragraph 295-550(5)(b).
+[13]
+Paragraph 295-550(5)(c).
+[14]
+Subsection 995-1(1).
+[14A]
+Paragraphs 295-550(8) and (9).
+[14B]
+Subparagraph 295-550(8)(b)(i) and paragraph 295-550(9)(b).
+[14C]
+Paragraphs 295-550(5)(b) and (c).
+[15]
+[Omitted.]
+[15A]
+See Taxation Ruling TR 93/17
+Income tax: income tax deductions available to superannuation funds
+.
+[16]
+Subsection 295-550(7).
+[17]
+Paragraphs 7.2 and 7.40 of the EM to the TLA Bill 2023 refer back to the TLA Act 2019. As such, see Example 2.1 and paragraph 2.39 of the Explanatory Memorandum to the TLA Bill 2019 (EM to the TLA Bill 2019).
+[17A]
+See Taxation Determination TD 2024/5
+Income tax
+:
+how the non
+-
+arm's length income and capital gains tax provisions interact to determine the amount of statutory income that is non
+-
+arm's length income
+.
+[18]
+See paragraph 4 of TR 93/17. See also
+Commissioner of Taxation
+(
+Cth
+)
+v Green
+[1950] HCA 20.
+[18A]
+Expenditure deductible under section 25-5, which would not also satisfy the requirements of section 8-1, does not have a sufficient nexus to ordinary or statutory income and accordingly the NALI provisions will not apply to this expenditure.
+[18B]
+See footnote 18A of this Ruling.
+[18C]
+Subsection 295-550(8).
+[18D]
+Subsection 295-550(9).
+[18E]
+Subparagraph 295-545(2A)(a)(ii).
+[18F]
+Paragraph 7.23 of the EM to the TLA Bill 2023.
+[19]
+See paragraph 18 of this Ruling concerning non-arm's length expenditure incurred to acquire an asset.
+[20]
+Subsection 295-550(7).
+[21]
+See section 10 of the SISA.
+[22]
+See paragraphs 17A(1)(b) to (d), and 17A(2)(a) and (b) of the SISA.
+[23]
+See paragraphs 17A(1)(f) and (g), and 17A(2)(c) and (d) of the SISA.
+[24]
+See paragraphs 7.28 to 7.32 of the EM to the TLA Bill 2023.
+[24A]
+See paragraph 19 and footnote 18A of this Ruling concerning when accounting fees may not be a general expense that is non-arm's length expenditure.
+[25]
+[Omitted.]
+[26]
+In accordance with paragraph 17A(1)(f) of the SISA.
+[27]
+Assuming that none of the exceptions in subsection 112-20(3) apply.
+[28]
+Paragraph 7.2 of the EM to the TLA Bill 2023 refers back to the TLA Act 2019. As such, see paragraphs 2.46 to 2.48 of the EM to the TLA Bill 2019.
+[29]
+Assuming that none of the exceptions in subsection 112-20(3) apply.
+Previously released in draft form as LCR 2019/D3
+References
+ATO references:
+NO  1-O30MVWB
+ISSN: 2209-1300
+Business Line:
+SEO
+Related Rulings/Determinations:
+TR 93/17
+Legislative References:
+ITAA 1997 8-1
+ITAA 1997 25-5
+ITAA 1997 112-20(3)
+ITAA 1997 Subdiv 295-F
+ITAA 1997 295-385(2)(a)
+ITAA 1997 295-390(2)(a)
+ITAA 1997 295-400(2)(a)
+ITAA 1997 295-545(2)
+ITAA 1997 295-545(2A)(a)
+ITAA 1997 295-545(2A)(a)(ii)
+ITAA 1997 295-545(2A)(b)
+ITAA 1997 295-545(3)
+ITAA 1997 295-550
+ITAA 1997 295-550(1)
+ITAA 1997 295-550(1)(a)
+ITAA 1997 295-550(1)(b)
+ITAA 1997 295-550(1)(c)
+ITAA 1997 295-550(2)
+ITAA 1997 295-550(4)
+ITAA 1997 295-550(5)
+ITAA 1997 295-550(5)(a)
+ITAA 1997 295-550(5)(b)
+ITAA 1997 295-550(5)(c)
+ITAA 1997 295-550(7)
+ITAA 1997 295-550(8)
+ITAA 1997 295-550(8)(b)(i)
+ITAA 1997 295-550(9)
+ITAA 1997 295-550(9)(b)
+ITAA 1997 995-1(1)
+SISA 1993 10
+SISA 1993 17A
+SISA 1993 17A(1)
+SISA 1993 17A(1)(b)
+SISA 1993 17A(1)(c)
+SISA 1993 17A(1)(d)
+SISA 1993 17A(1)(f)
+SISA 1993 17A(1)(g)
+SISA 1993 17A(2)(a)
+SISA 1993 17A(2)(b)
+SISA 1993 17A(2)(c)
+SISA 1993 17A(2)(d)
+SISA 1993 17B
+SISA 1993 17B(1)
+SISA 1993 17B(2)
+SISA 1993 38A
+Corporations Act 2001
+Treasury Laws Amendment (2018 Superannuation Measures No. 1) Act 2019 Sch 2 4
+Treasury Laws Amendment (Support for Small Business and Charities and Other Measures) Act 2024 Sch 7
+Case References:
+Commissioner of Taxation (Cth) v Green
+[1950] HCA 20
+81 CLR 313
+[1950] ALR 531
+9 ATD 142
+24 ALJ 303
+Other References:
+Explanatory Memorandum
+to the Treasury Laws Amendment (2018 Superannuation measures No. 1) Bill 2019
+Explanatory Memorandum
+to the Treasury Laws Amendment (Support for Small Business and Charities and Other Measures) Bill 2023
+LCR 2021/2 history
+Date:
+Version:
+Change:
+28 July 2021
+Original ruling
+4 August 2021
+Consolidated ruling
+Erratum
+10 June 2022
+Consolidated ruling
+Addendum
+You are here
+24 September 2025
+Consolidated ruling
+Addendum
+Back to top

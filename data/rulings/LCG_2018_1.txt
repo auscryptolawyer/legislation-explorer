@@ -1,0 +1,1265 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2018/1
+GST on low value imported goods
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+LCR 2018/1EC
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+12
+When do the amendments apply?
+13
+Key principles
+17
+Who is responsible for GST on offshore supplies of low value goods?
+21
+Registering for GST
+25
+Interaction with collection of revenue at the border
+29
+When is a supply of low value goods connected with Australia?
+32
+Outline of the elements of the new connection rules as discussed in this Ruling
+33A
+What is a supply of low value goods?
+34
+Definition of a supply of low value goods
+34
+Example 1 – separate supply of low value goods
+46
+Example 2 – supply includes excluded items
+51
+Working out the customs value
+53
+Example 3 – supplier working out customs value
+62
+Currency conversion when determining the customs value of goods
+65
+Currency conversion under the Customs Act
+67
+Currency conversion as determined by the Commissioner
+70
+What is an offshore supply of low value goods?
+72
+Merchant assists
+76
+EDP operator assists
+77
+Redeliverer assists
+79
+Example 4 – supplier does not deliver, or procure, arrange or facilitate delivery
+81
+Example 5 – supplier procures, arranges or facilitates delivery
+83
+When is a recipient not a consumer of the supply?
+85
+What is the exception under which a supply will not be connected with Australia?
+92
+When are goods imported as a taxable importation (that is, subject to GST at the border)?
+99
+Business systems approach
+103
+Example 6 – supplier using the business systems approach
+108
+Example 7 – operator of an EDP who can use the business systems approach
+111
+When is a supplier able to use the business systems approach?
+113
+Example 8 – operator of an EDP who cannot use the business systems approach
+114
+Reasonable steps approach
+119
+Example 9 – reasonable steps approach
+123
+When may you reasonably believe the goods will be a taxable importation?
+126
+Example 10 – goods are sent together on recipient's instruction
+133
+When is the exception applied?
+139
+Example 11 – unexpected event after transaction is finalised
+142
+Example 12 – change in consideration
+145
+Further examples
+149
+Example 13 – multiple orders to a supplier from one recipient in separate consignments
+149
+Example 14 – supplies to multiple recipients
+152
+Example 15 – redeliverer consolidates items from several merchants into one package
+154
+Example 16 – EDP consolidates items from several merchants into one package
+158
+How are GST-free or input taxed supplies treated?
+165
+Example 17 – GST-free supplies of low value goods
+169
+How do you calculate the GST payable on a supply?
+171
+Other considerations
+173
+Australian consumer law requirements
+176
+Example 18 – conversion for goods sold in foreign currency
+182
+When are shipping and insurance fees subject to GST?
+186
+Modified rules for redeliverers
+191
+Information requirements
+193
+Notice issued to consumers
+194
+Requirement to ensure information is included in customs documents
+197
+Preventing double taxation of goods
+205
+Supplies of low value goods that are not subject to GST at the border
+207
+Notice requirements under section 42-15
+212
+Interaction with broader requirement to report information under section 84-93
+214
+Example 19 – switching off taxable importation
+215
+Interaction with the broader requirement to issue a notice to the recipient
+221
+Example 20 – switching off taxable importation
+224
+Supplies of low value goods that are subject to GST at the border
+226
+Example 21 – switching off taxable supply
+231
+What if a supply is incorrectly treated as a taxable supply?
+236
+Supplies that are incorrectly treated as a taxable supply and incorrectly treated as a non-taxable importation
+241
+Example 22 – supply to a recipient who is not a consumer treated as a taxable supply
+244
+What if goods are returned by the recipient after sale?
+247
+Example 23 – goods returned by recipient
+249
+Example 24 – damaged goods returned by recipient
+252
+Goods sold to offshore customer and subsequently returned to Australia
+254
+Returned goods where the goods were imported as a taxable importation
+255
+Interaction with other rules about when supplies are connected with Australia
+257
+When does the supplier import the goods into Australia?
+261
+Example 25 – supplies that are connected under subsection 9-25(3)
+265
+Relying on this Ruling
+This publication is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Ruling applies to you, and you correctly rely on it in good faith, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+(
+Note: This is a consolidated version of this document.
+)
+What this Ruling is about
+1. This Ruling discusses the amendments to the
+A New Tax System (Goods and Services Tax) Act 1999
+made by
+Treasury Laws Amendment (GST Low Value Goods) Act 2017
+(the Act) which applies from 1 July 2018. The broad purpose of the legislation is to ensure that Australian goods and services tax (GST) is payable on offshore supplies of low value goods that are purchased by consumers and brought to the indirect tax zone.
+[1]
+In this Ruling, the 'indirect tax zone' is referred to as 'Australia'.
+2. Prior to the amendments, the supply of imported goods to consumers in Australia was not connected with Australia, unless the supplier was the importer. Imported goods are generally only a taxable importation (and therefore, subject to GST at the border) if imported in a consignment with a customs value exceeding $1,000.
+3. For you to be liable for GST on a taxable supply, the supply must be connected with Australia. This Ruling discusses when a supply of low value goods will be connected with Australia because of the amendments. This will be relevant to merchants, operators of electronic distribution platforms (EDP operators) and redeliverers.
+4. This Ruling also discusses:
+•
+how to calculate the GST payable on a supply of low value goods
+•
+the rules to prevent double taxation of goods, and to correct errors or deal with changes in the GST treatment of a supply
+•
+how the rules interact with other rules under which supplies are connected with Australia.
+5. This Ruling does not discuss how to determine whether an EDP operator or a redeliverer, instead of the merchant who sells goods, is treated as the supplier for GST purposes. This is discussed in:
+•
+Law Companion Ruling LCR 2018/2
+GST on supplies made through electronic distribution platforms
+•
+Law Companion Ruling LCR 2018/3
+When is a redeliverer responsible for GST on a supply of low value imported goods?
+6. The entity that is treated as the supplier for GST purposes will need to determine if the supply is connected with Australia.
+7. In this Ruling, all legislative references are to
+A New Tax System (Goods and Services) Tax Act 1999
+(GST Act) and all currency references are to Australian currency, unless otherwise stated.
+8. Any reference to 'supplier' in this Ruling includes entities treated as the supplier for GST purposes, such as EDP operators or redeliverers, unless otherwise stated.
+9. A term 'merchant' is a reference to the actual supplier of the goods. A merchant may sell independently via a website or they may sell on a platform.
+10. [Omitted.]
+11. [Omitted.]
+Date of effect
+12. This Ruling applies from 1 July 2018.
+When do the amendments apply?
+13. In working out your net amount, the amendments apply to tax periods starting on or after 1 July 2018.
+[2]
+14. This means that if the supplier:
+•
+accounts on a cash basis, the amendments apply to a supply to the extent that consideration is received on or after 1 July 2018, or
+•
+does not account on a cash basis, the amendments apply to a supply if the earliest of either any consideration being received or an invoice being issued happens on or after 1 July 2018.
+[3]
+15. If an EDP operator is responsible for GST, this will be based on when the consideration is received or invoice is issued by either the merchant or EDP operator.
+16. The amendments, so far as they relate to importations of goods, do not apply if the importation also involves a supply that is attributable to a tax period before 1 July 2018, or the goods were imported before 1 July 2018.
+Key principles
+17. The amendments make supplies of low value goods to consumers connected with Australia if they are imported into Australia. This means that GST may now apply to the supply of these goods.
+18. Low value goods are goods that have a customs value of $1,000 or less when the consideration for the supply is first agreed with the recipient.
+[4]
+While the customs value of goods is used to determine whether GST applies to a supply, it is not used in working out the amount of GST payable on the supply.
+[5]
+The GST payable will be determined by reference to the price actually payable by the recipient of the supply.
+19. The existing taxable importation rules, under which GST is paid at the border or deferred, will prevail if:
+•
+an item purchased has a customs value exceeding the $1,000 low value import threshold, or
+•
+the supplier reasonably believes that low value goods purchased will be a taxable importation (the exception to a supply being connected with Australia under Subdivision 84-C).
+[6]
+20. The amendments do not apply to goods that are tobacco, tobacco products or alcoholic beverages.
+[7]
+These goods are always taxable importations regardless of their customs value.
+Who is responsible for GST on offshore supplies of low value goods?
+21. GST is normally payable by the merchant who sells the goods. The GST on offshore supplies of low value goods may be payable by either an EDP operator, a merchant, or a redeliverer. A recipient may also be liable for GST through reverse charge provisions if they are registered or required to be registered and their purchases are for private use or relate to making input taxed supplies (known as exempt supplies in other jurisdictions).
+[8]
+22. To determine who is liable for GST, the legislation establishes a hierarchy, under which:
+•
+if an EDP operator is responsible for GST on a supply, the merchant will not be responsible for GST
+[9]
+, and
+•
+if an EDP operator or the merchant is responsible for GST on a supply, a redeliverer will not be responsible for GST.
+[10]
+23. An EDP is a service (such as a website) that is delivered by means of electronic communication and which allows entities to make supplies available to end-users.
+[11]
+The Act extends the existing provisions about EDPs, which apply to inbound intangible consumer supplies, so that they also apply to offshore supplies of low value goods (with some differences in application).
+[12]
+24. Redeliverers can also be responsible for GST on offshore supplies of low value goods.
+[13]
+Redeliverers are generally entities which have an arrangement with recipients to bring goods to Australia. These arrangements usually involve the redeliverer providing an address outside Australia to which goods are delivered, after which the redeliverer arranges for the goods to be sent to Australia from that address.
+Registering for GST
+25. A supplier will only need to account for GST on offshore supplies of low value goods to consumers in Australia if they are registered or required to be registered for GST. The amendments do not change the requirements for registration, under which a supplier is required to register if its current or projected annualised GST turnover equals, or exceeds, $75,000 (or $150,000 for non-profit bodies).
+[14]
+26. The entity that is responsible for GST on offshore supplies of low value goods that are connected with Australia under the amendments must count the value of those supplies when determining whether they meet the GST turnover threshold. This means that, if an EDP operator is responsible for GST on such supplies, these supplies count towards the EDP operator's GST turnover, rather than the merchant's turnover.
+27. Supplies do not count towards an entity's GST turnover if they are not connected with Australia. For example, supplies are not connected with Australia because of the amendments if the recipient is not a consumer – these supplies are not counted unless the supply is connected with Australia for another reason.
+[15]
+28. More information about how and when to register for GST is at
+GST for non-resident businesses
+.
+Interaction with collection of revenue at the border
+29. Under the GST Act, goods imported in a consignment with a customs value that exceeds $1,000 will be a taxable importation. The amendments do not change these rules.
+30. The amendments do make changes to the revenue collection processes at the border where an offshore supply of low value goods was a taxable supply and notification requirements are satisfied. In these circumstances, GST will not be payable at the border.
+[16]
+Any applicable taxes other than GST, such as duty, will remain payable under existing procedures and processes as required by customs law.
+31. Where GST has been charged by a supplier, but remains payable on the importation of low value goods because the notification requirement has not been satisfied, the recipient may seek a reimbursement of GST from the supplier. This will not affect border revenue collection processes. The supplier (or entity treated as the supplier) may incur a penalty if they do not give a notice to the recipient of the supply showing the amount of GST payable or they failed to take reasonable steps to ensure information is included in customs documents.
+[17]
+When is a supply of low value goods connected with Australia?
+32. Under section 84-75, a supply will be connected with Australia if:
+•
+the supply is a supply of low value goods, and
+•
+the supply is an offshore supply of low value goods, in that a supply of low value goods is brought to Australia with the assistance of the supplier or an entity treated as the supplier, and
+•
+the recipient is a consumer of the supply.
+33. However, under section 84-83, if the supplier reasonably believes that the goods will be imported as a taxable importation, the supply will not be connected with Australia.
+Outline of the elements of the new connection rules as discussed in this Ruling
+33A. An outline of the elements of the connection rules are provided in Diagram 1 of this Ruling.
+Diagram 1: Outline of the elements of the connection rules
+What is a supply of low value goods?
+Definition of a supply of low value goods
+34. A supply will not be connected with Australia under Subdivision 84-C unless the supply is a supply of low value goods. Goods that are tobacco, tobacco products or alcoholic beverages are excluded from the definition of a supply of low value goods.
+[18]
+35. A supply of goods is a supply of low value goods to the extent that the customs value of one or more of the goods making up the supply would have been $1,000 or less at the time when the consideration for the supply was first agreed.
+[19]
+36. Under section 84-79, each of the goods supplied that individually has a customs value of $1,000 or less will form part of a supply of low value goods, even if the total customs value of the transaction exceeds $1,000. This outcome recognises that while many goods could be bought in the one transaction they will not necessarily be sent to Australia as one import.
+37. However, not all supplies that are supplies of low value goods will be connected with Australia, due to the exception in section 84-83. Where the supplier reasonably believes there will be a taxable importation, as the goods will be sent to Australia in one consignment with a customs value exceeding $1,000, then the supply will not be connected with Australia under Subdivision 84-C (see paragraphs 99 to 164 of this Ruling).
+38. To apply the exception the supplier will need to determine how the goods will be sent to Australia. Conversely, where the customs value of goods supplied is $1,000 or less, the supplier will be required to return GST on the goods where the supply is a taxable supply.
+39. Goods that individually have a customs value exceeding $1,000 will not form part of a supply of low value goods and will continue to be subject to the existing taxable importation rules.
+40. Under subsection 84-79(1), a supply is a supply of low value goods if:
+•
+the goods supplied are goods that have a customs value of $1,000 or less, or
+•
+the goods supplied include goods that have a customs value of $1,000 or less.
+41. Consequently, the supply of six shirts with a customs value of $200 for each shirt will be treated as one supply of low value goods, even though the total customs value of the transaction is $1,200.
+42. In some cases, a transaction will involve one or more goods that each have a customs value of $1,000 or less and, at the same time, one or more goods that each have a customs value exceeding $1,000.
+43. In this situation, subsection 84-79(2) splits the transaction into two separate supplies:
+•
+the first supply consists of all the goods which individually are low value goods (goods with a customs value of $1,000 or less, except for alcoholic beverages, tobacco and tobacco products), and
+•
+the second supply consists of the remaining goods supplied in the transaction.
+44. The first supply is a supply of low value goods which can be connected with Australia, unless an exception applies because the supplier reasonably believes the goods will be a taxable importation (as they will be imported in a consignment with a customs value over $1,000).
+45. The second supply is not a supply of low value goods and will not be connected with Australia under the amendments. As these goods will be a taxable importation (unless they are GST-free), GST will be collected at the border.
+Example 1 – separate supply of low value goods
+46.
+Joshua purchases some electronic equipment from EveryGood; a laptop for $1,200, a laptop bag for $150 and a computer headset for $80.
+47.
+The supply that EveryGood is treated as making is split into two supplies. As the laptop bag and computer headset both have a customs value of $1,000 or less individually, they are together treated as one supply of low value goods.
+48.
+As the laptop has a customs value exceeding $1,000, it is treated as a supply which is not a supply of low value goods. The laptop will be a taxable importation and GST will be collected at the border.
+49.
+If the supply is a taxable supply, EveryGood will be liable for GST on the supply of the laptop bag and computer headset, and not the supply of the laptop.
+50.
+However, if EveryGood reasonably believed the goods would be a taxable importation, as they will be sent to Australia in one consignment with a customs value exceeding $1,000, then the supply of low value goods will not be connected with Australia under Subdivision 84-C (see paragraphs
+92
+to
+164
+of this Ruling).
+Example 2 – supply includes excluded items
+51.
+Raphael purchases some wine for $150 and six crystal wine glasses for $90 from a quality wine merchant in New Zealand.
+52.
+The supply by the wine merchant is separated into two supplies, as the wine supplied is alcoholic wine. The supply of the six wine glasses is treated as a supply of low value goods. The supply of the wine is treated as supply which is not a supply of low value goods. This is because alcoholic beverages are excluded from being low value goods and are a taxable importation.
+Working out the customs value
+53. Whether goods are low value goods is determined by reference to their 'customs value'.
+54. The term 'customs value' is defined in the GST Act as the customs value of the goods for the purposes of Division 2 of Part VIII of the
+Customs Act 1901.
+[20]
+55. However, when determining whether goods are low value goods, for GST purposes the customs value is modified by subsection 84-79(4). The modifications require the customs value of the goods to be worked out at the time at which the consideration for the supply is first agreed, and as if:
+•
+the goods were exported at the time the consideration for the supply was first agreed and imported into Australia as a result of that agreement, and
+•
+to the extent that determining the customs value would require an assumption of the way a discretion by a delegate of the Collector (within the meaning of the
+Customs Act 1901)
+would be exercised, this discretion had been exercised reasonably and in accordance with the law.
+56. The most common method for determining the customs value of an import is the transaction value method, which is based on the price paid or payable for the goods. This method can be used where there is an import sales transaction, which is the transaction for the sale of goods that gives rise to their export from a foreign country and importation into Australia.
+57. Where the entity that is liable for GST was not a party to the import sales transaction (such as an EDP operator or a redeliverer) they must identify the price that the recipient actually paid for the goods in order to use this method.
+58. The transaction value of goods is defined in section 161 of the
+Customs Act 1901,
+as an amount equal to the sum of the adjusted price of goods in their import sales transaction, plus any price related costs that have not been taken into account when determining the price.
+59. For a typical consumer transaction where goods are sold in Australian dollars and where the price includes freight and insurance from the supplier to the address in Australia, the only usual adjustment to the price to obtain customs value will be to deduct any amount that was included in the price for freight and insurance from the place of export to the Australian address.
+60. To arrive at a customs value for imported goods under the transaction value method, the supplier must take the following steps:
+i
+Identify the import sales transaction.
+ii
+Establish the price of the imported goods under the import sales transaction. For customs purposes, this is the amount actually paid or payable for the goods, excluding Australian taxes, such as Australian GST. Foreign sales taxes are not deducted from the price if included.
+[21]
+iii
+Arrive at the adjusted price by deducting specified amounts.
+[22]
+Amounts that should be deducted to arrive at the adjusted price, if included within the price, include:
+•
+any freight and insurance costs in transporting the goods from the 'place of export' to the place of delivery in Australia. The place of export is where the goods were posted from, containerised, loaded onto a ship or aircraft or crossed an international border after they were otherwise loaded
+•
+any Australian administrative costs on importation, such as brokerage fees.
+iv
+Add any price related costs to the adjusted price, as required by section 154 of the
+Customs Act 1901,
+if they are not already included in the price. Price related costs include foreign inland freight and insurance charges incurred to get the goods to their place of export.
+v
+If the price is not in Australian dollars, the price should be converted at the stipulated ruling exchange rate for the relevant day (discussed at paragraphs 65 and 66 of this Ruling).
+61. Other methods to work out the customs value are provided under the
+Customs Act 1901
+where the transaction value method cannot be used, such as in cases where the price or any amount that would ordinarily form part of the customs value cannot be determined.
+[23]
+Example 3 – supplier working out customs value
+62.
+Phoebe purchases a mobile phone from Scarlet's Mobile Phones in Singapore for $1,100 Australian dollars, including $40 shipping and insurance costs.
+63.
+Scarlet's Mobile Phones uses the transaction value method to arrive at the customs value of the goods. As transport costs from the place of export to the address in Australia are deducted under this method, the $40 shipping and insurance costs are not included in working out the customs value of the mobile phone.
+64.
+The customs value of the mobile phone is therefore $1,060. As the customs value is greater than $1,000, the supply is not a supply of low value goods. The mobile phone will be subject to GST at the border under the existing taxable importation rules.
+Currency conversion when determining the customs value of goods
+65. For the purposes of determining whether goods are low value goods, the customs value of the goods needs to be determined in Australian dollars. This will require the conversion of foreign currency values into Australian dollars, if it is unclear whether the customs value will be $1,000 or less once the amount is converted.
+66. Under paragraph 84-79(4)(e), there are two ways of working out the equivalent value in Australian currency of goods sold in a foreign currency:
+•
+the way provided in section 161J of the
+Customs Act 1901,
+or
+•
+in the manner determined by the Commissioner.
+Currency conversion under the Customs Act
+67. Section 161J of the
+Customs Act 1901
+stipulates that the customs value of goods must be expressed in Australian currency based on the ruling rate of exchange on the day of exportation of the goods to Australia. However, when determining whether there is a supply of low value goods, the customs value of the goods is calculated at the time the consideration was first agreed.
+[24]
+As a result, if goods are sold in a currency other than Australian dollars, currency fluctuations that happen after consideration is first agreed will not affect whether the supply is connected with Australia under Subdivision 84-C.
+68. The rates provided for under section 161J of the
+Customs Act 1901
+are, in respect of 28 selected currencies, uploaded by the Department of Home Affairs into the Integrated Cargo System and as a compilation seven-day report on the Federal Register of Legislation.
+69. For further information, see
+Exchange Rates
+on the Department of Home Affairs website.
+Currency conversion as determined by the Commissioner
+70. Subsection 84-79(5) provides the Commissioner with the ability to make a legislative instrument that specifies an alternative method of converting amounts into Australian dollars.
+71. The Commissioner has now issued
+Goods and Services Tax: Foreign Currency (Customs Value of Low Value Goods) Determination 2018
+.
+What is an offshore supply of low value goods?
+72. A supply will be an 'offshore supply of low value goods' under section 84-77 if:
+•
+it is a supply of low value goods (see paragraphs 34 to 52 of this Ruling)
+•
+the supply involves the goods being brought to Australia, and
+•
+one or more of the following occurs
+–
+the merchant delivers the goods to Australia or procures, arranges or facilitates delivery of the goods into Australia
+–
+an EDP operator delivers the goods to Australia or procures, arranges or facilitates delivery of the goods into Australia
+–
+a redeliverer delivers the goods to Australia or procures, arranges or facilitates delivery of the goods into Australia.
+73. In summary, a supply of low value goods is an offshore supply of low value goods if any of the merchant, operator of an EDP or a redeliverer assists in bringing goods to Australia.
+74. Section 84-77 only considers whether the supply is an offshore supply of low value goods. References to supplier in this provision refer to the actual supplier (the merchant), instead of the entity who is treated as the supplier for GST purposes.
+[25]
+It does not consider who is responsible for GST on that supply.
+75. An EDP operator can be responsible for GST on an offshore supply of low value goods in both situations where they assist in bringing the goods to Australia and where the merchant assists in bringing the goods to Australia.
+[26]
+Merchant assists
+76. A supply made through an EDP may be an offshore supply of low value goods under subsection 84-77(1), where it is the merchant, instead of the EDP operator, that assists in bringing the goods to Australia. The effect of this is that an EDP operator can be responsible for GST on an offshore supply of low value goods even though they do not assist in bringing the goods to Australia.
+EDP operator assists
+77. Subsection 84-77(2) considers the role of an EDP operator in bringing goods to Australia. The provision is only relevant if the supply is made through a platform.
+78. The consequence of subsection 84-77(2) is that a supply of low value goods will be an offshore supply of low value goods if the EDP operator delivers or procures, arranges or facilitates the delivery of the goods to Australia. Therefore supplies that are made through an EDP, when the EDP operator is assisting in bringing the goods to Australia, are also offshore supplies of low value goods.
+Redeliverer assists
+79. The consequence of subsection 84-77(3) is that a supply of low value goods will be an offshore supply of low value goods if a redeliverer delivers or procures, arranges or facilitates the delivery of the goods to Australia. The definition of redeliverer
+[27]
+recognises that these entities have a role in bringing the goods to Australia under an arrangement with the recipient (or an entity acting on their behalf), but are not the actual supplier of the goods.
+80. If the supply is also an offshore supply of low value goods under subsection 84-77(1) or 84-77(2) (because the merchant or EDP operator also assists in bringing the goods to Australia), the redeliverer will not be responsible for GST on these supplies.
+Example 4 – supplier does not deliver, or procure, arrange or facilitate delivery
+81.
+Audrey, who is on holiday from Australia, buys board shorts in Tahiti for the equivalent of $60 from Tahiti Fashion Designs, for her nephew, Harris. Audrey takes the board shorts with her and brings them back to Australia in her luggage. While this would be a supply of low value goods, Tahiti Fashion Designs did not deliver or procure, arrange or facilitate the delivery of the goods to Australia.
+82.
+Tahiti Fashion Designs will not be liable for GST on the board shorts as the supply is not connected with Australia.
+Example 5 – supplier procures, arranges or facilitates delivery
+83.
+While on holiday from Australia, Juliette buys an evening dress for the equivalent of $800 from Tahiti Fashion Designs. Juliette is unable to bring the dress back to Australia and accepts Tahiti Fashion Designs' assistance in arranging for the dress to be delivered to her home address. Tahiti Fashion Designs engages Deliver!, a transport company, to deliver the dress to Australia. Tahiti Fashion Designs has arranged for delivery of the dress by procuring the services of a transport company.
+84.
+The supply of the dress is connected with Australia and will be a taxable supply if Tahiti Fashion Designs is registered or required to be registered.
+When is a recipient not a consumer of the supply?
+85. A supply is only connected with Australia under Subdivision 84-C if the recipient of the supply is a consumer of the supply. However, such a supply could also be connected with Australia under other provisions (see paragraphs 257 to 268 of this Ruling).
+86. A consumer is defined as an entity that is:
+•
+not registered for GST, or
+•
+if the entity is registered for GST, the entity did not acquire the thing either solely or partly for their enterprise carried on in Australia.
+[28]
+87. Section 84-105 allows a supplier to treat a recipient as not being a consumer if, based on certain information, they reasonably believe that the recipient is not a consumer.
+88. Under this section, a belief that the recipient is not a consumer will only be reasonable if:
+•
+the recipient's ABN
+[29]
+(or other prescribed information) has been disclosed to them, and
+•
+the recipient has provided a declaration or other information which indicates that they are registered for GST.
+89. This safe harbour sets the standard for the information suppliers must obtain to form a reasonable belief that the recipient is not a consumer. It does not require information about whether the recipient's acquisition is for the purpose of an enterprise the recipient carries on.
+90. The declaration or information that an entity has an ABN is not, by itself, evidence of whether a recipient is registered for GST, as a recipient may have an ABN without being registered for GST.
+91. The evidentiary requirements for determining whether the recipient of the supply is a consumer are, in substance, equivalent for offshore supplies of low value goods and intangibles. These requirements are outlined in paragraphs 94 to 102 of Goods and Services Tax Ruling GSTR 2017/1
+Goods and services tax: making cross-border supplies to Australian consumers.
+What is the exception under which a supply will not be connected with Australia?
+92. There is a qualification to subsection 84-75(1) for when supplies of low value goods are connected with Australia. Even if a supply satisfies the requirements for a supply of low value goods, the supply will not be connected with Australia if:
+•
+the supplier has taken reasonable steps to obtain information about whether or not the goods will be imported as a taxable importation, and
+•
+after taking these steps, reasonably believes that the goods will be imported as a taxable importation.
+93. The test has two elements – reasonable belief and reasonable steps. If these elements are satisfied, the supply is not connected with Australia under Subdivision 84-C, even if the supplier's reasonable belief is incorrect and the importation of the goods is not a taxable importation.
+94. A supplier's use of their usual business systems and processes will constitute taking reasonable steps if this provides them with a reasonable basis for forming a reasonable belief about whether or not goods will be imported as a taxable importation (the business systems approach).
+[30]
+95. Other than when a redeliverer is treated as the supplier, the two elements must be applied when the consideration for the supply is agreed. If the consideration changes, the relevant point in time will be when the consideration is set at the most recent time before the export of the goods. This should usually align with the point at which the supplier will determine whether to include GST in the price.
+96. However, if a redeliverer is responsible for GST on the supply, this test applies at the time they deliver the goods into Australia, or at the time they procure, arrange or facilitate the delivery of the goods into Australia.
+[31]
+97. To apply the exception, the supplier will need to determine how the goods will be sent to Australia to work out whether the supply will be connected with the Australia and how the goods are taxed. For example, if there is a supply of two goods, one that has a customs value of $600 and another that has a customs value of $950, the supplier can decide that the supply is not connected with Australia if it reasonably believes the goods will be sent to Australia in one consignment:
+•
+Where the supplier reasonably believes that goods will be sent together and will be a taxable importation, the supplier will not return GST on these goods.
+•
+If on the other hand, if the supplier knows that the goods will be consigned separately or is uncertain whether the goods will be sent together then they will need to return GST on the goods.
+98. Table 1 of this Ruling summarises how this exception interacts with the collection of revenue at the border when the goods are later imported.
+Table 1: Application of the exemption
+Scenario
+The supplier reasonably believes goods will be a taxable importation
+The supplier is uncertain about whether goods will be a taxable importation
+The goods are a taxable importation (but for section 42-15)
+The goods are imported as a taxable importation and GST, duty and import processing charges are payable by the importer.
+The supply is not connected with Australia due to the exception in section 84-83. The supplier is not required to return GST on the supply (unless it is connected with Australia under another provision).
+The supply is connected with Australia. If it is a taxable supply, the supplier must return GST on the supply.
+To prevent double taxation of the goods:
+•
+if notification is provided in the approved form, before a taxable importation is made, that the supply was a taxable supply, the goods will not be a taxable importation (see paragraphs 207 to 225 of this Ruling).
+•
+if notification is not provided in time, the goods will be a taxable importation and the recipient will have to seek a refund of GST paid from the supplier (see paragraphs 226 to 235 of this Ruling).
+Any customs duty and import processing charges payable will be assessed at the border under existing processes.
+The goods are not imported as a taxable importation
+The supply is not connected with Australia due to the exception in subsection 84-83. The supplier will not be required to return GST on the supply (unless it is connected with Australia under another provision).
+The supply is connected with Australia. If it is a taxable supply, the supplier must return GST on the supply.
+When are goods imported as a taxable importation (that is, subject to GST at the border)?
+99. To apply the exception in section 84-83, the supplier must take reasonable steps to obtain information, and after taking these steps, the supplier must form a reasonable belief that the importation will not be a taxable importation. Goods and Services Tax Ruling GSTR 2003/15
+Goods and services tax: importation of goods into Australia
+explains what is a taxable importation.
+100. Unless certain exceptions apply, the importation of goods will not be a taxable importation if goods are included in a consignment with a customs value of $1,000 or less that is:
+•
+sent by international mail from one person to another, or
+•
+sent by air or sea cargo, from one person to another, where the goods are all transported to Australia in the same ship or aircraft.
+[32]
+101. For this reason, determining whether a supply of goods will be a taxable importation will require the supplier to consider whether the goods are to be imported as one consignment.
+102. More information about determining whether goods will be sent in one consignment is available from the Department of Home Affairs:
+•
+Cargo reporting and import declaration requirements
+•
+Australian Customs Notice No. 2021/01 – Definition of consignment for the purposes of Section 68 of the Customs Act 1901
+•
+Australian Customs Notice 2009/47 – Definition of "consignor" and "consignee" and Compliance Approach for the purposes of reporting cargo.
+Business systems approach
+103. If the supplier's usual business systems and processes provide a reasonable basis for forming a reasonable belief about whether goods supplied will be a taxable importation, it will not be necessary for them to take additional steps to obtain information beyond what is usually collected through their business processes in order to determine whether the goods will be imported into Australia as a taxable importation.
+104. A supplier's usual business systems and processes are those systems and processes the supplier normally uses for business purposes, including both automated and manual processes. It does not matter if the systems and processes the supplier normally uses differ from the systems and processes typically used in the supplier's industry.
+105. EDP operators can take into account the terms and conditions of their platform operations as well as other agreements they have with particular merchants. For example, if the EDP operator has an agreement that requires the goods in an order to be transported by the merchant in a particular way, this can be used to form a reasonable belief using the business systems approach. However, if the EDP operator has actual knowledge of a departure from the usual systems and conditions, they must take this into account when forming their reasonable belief.
+106. All the relevant information collected through the supplier's usual business systems and processes must be considered and must, on balance, support the reasonable belief that the goods will be imported as a taxable importation.
+107. The supplier will be required to keep records about how their systems provide a reasonable basis for forming a reasonable belief. The records should be at a systemic level but do not need to be at an individual transaction level.
+Example 6 – supplier using the business systems approach
+108.
+Great Sports Co is a New Zealand supplier of sporting goods. Marie, a consumer in Australia, purchases two cricket bats from Great Sports Co which each have a customs value of $600.
+109.
+When consideration for the supply is set, Great Sports Co's business systems indicate that each of the items is in stock in the warehouse. Great Sports Co's standard business processes are to consolidate orders in their warehouse if all of the items are in stock. Under this process, Marie's items will be packed into one package in the warehouse before being exported. This package will be a consignment with a customs value exceeding $1,000.
+110.
+The information gathered through Great Sports Co's usual business systems and processes, about whether the items are in stock and how goods are typically consigned, provides them with a reasonable basis for forming a reasonable belief that the goods will be imported as a taxable importation.
+Example 7 – operator of an EDP who can use the business systems approach
+111.
+Green Hu Enterprises operates an EDP. Green Hu Enterprises has agreed procedures in place with merchants as to how the goods will be consigned to Australia. The amount of the shipping charges applied at checkout is based on these procedures. Once Green Hu Enterprises processes the transaction through its online checkout, it sends a notification to each merchant instructing it to send the goods to the recipient, and a shipping label to facilitate this.
+112.
+Green Hu Enterprises has put in place business procedures with merchants that would allow it to apply the exception in section 84-83. The information gathered through Green Hu Enterprises' usual business systems and processes, about how goods will be consigned, provides it with a reasonable basis for a reasonable belief that the goods will be imported as a taxable importation.
+When is a supplier able to use the business systems approach?
+113. The 'business systems approach' is only available where a supplier's usual business systems and processes gather sufficient information to provide the supplier with a reasonable basis for forming a reasonable belief about whether the goods will be imported as a taxable importation. This would usually require the supplier to have oversight of the logistics and supply chain through which goods will be sent to Australia, including situations where an EDP operator has oversight through its relationship with a merchant as described in paragraph 105 of this Ruling.
+Example 8 – operator of an EDP who cannot use the business systems approach
+114.
+Sladja Co operates an EDP through which fashion apparel is sold to consumers in Australia from merchants in China, the United Kingdom and Singapore.
+115.
+Nicole purchases a number of items through Sladja Co's platform. She purchases four dresses, each of which has a customs value of $300.
+116.
+Sladja Co does not have business processes in place to know which of the merchants' warehouses the items will be sent from, or whether the items will be consolidated and sent from a particular warehouse, at the point when consideration is set.
+117.
+Therefore, Sladja Co is not able to apply the exception using the business systems approach, as its usual business processes do not provide a reasonable basis for a reasonable belief that goods will be sourced from the same warehouse and sent to Australia in one consignment.
+118.
+This means that the supply of the dresses will be connected with Australia unless Sladja Co uses the reasonable steps approach. The supply will be a taxable supply if Sladja Co is registered or required to be registered.
+Reasonable steps approach
+119. A supplier is not limited to their usual business systems and processes when deciding whether the exception in section 84-83 applies. Where a supplier's usual business systems and processes do not gather sufficient information to provide the supplier with a reasonable basis for forming a reasonable belief about whether the goods will be imported as a taxable importation, a supplier may also take reasonable steps beyond their usual business processes to obtain this information.
+120. Whether a supplier has taken reasonable steps to obtain information in this context is an objective test that will depend on the circumstances in which the supplier makes the supply. The supplier must consider, in all the circumstances, whether it is reasonable to rely on the information that they have received as a result of these steps. If not, the supplier should seek further information if it wishes to apply the exception.
+121. The Commissioner considers the following are examples of a supplier taking reasonable steps:
+•
+actively taking steps to seek additional information not normally provided by its usual business systems and processes about how a supply of goods will be sent to Australia, and
+•
+acting on additional information it receives about how a supply of goods will be sent to Australia that is outside what is normally generated by its business systems and processes.
+122. The requirement is not that the supplier must take 'all reasonable steps', but rather that the steps that actually were taken in totality are reasonable in their circumstances. What steps are reasonable in their circumstances will depend on the value and volume of the supplier's sales to Australia. However, the requirement to take reasonable steps to obtain information will not be satisfied where no steps are taken.
+Example 9 – reasonable steps approach
+123.
+Albert, a consumer in Brisbane, wishes to purchase two made-to-order chairs from DEF Furniture Co, which is an Australian-based business that uses an offshore fulfilment business model. Under this business model, goods are sent directly from DEF Furniture Co's manufacturer in Singapore to consumers in Australia.
+124.
+The manufacturer usually ships each chair as a single consignment. Once it receives an enquiry from Albert through its website, DEF Furniture Co's representatives phone its manufacturer in Singapore to order the chairs. DEF Furniture Co takes the additional step of requesting that for this order the chairs will be sent together.
+125.
+DEF Furniture Co has taken reasonable steps to obtain information about how the goods will be imported.
+When may you reasonably believe the goods will be a taxable importation?
+126. Once a supplier has satisfied the requirement to obtain information under either the business systems approach or reasonable steps approach, it must consider whether, as a result of this information, it reasonably believes that the goods will be a taxable importation. In this context, an entity's reasonable belief is a belief by the entity (or an agent or employee of the entity) about the likely treatment of the goods on importation into Australia.
+127. Forming a reasonable belief includes both objective and subjective elements. To form a reasonable belief, a supplier must genuinely believe that the goods will be a taxable importation and this belief must be one that a reasonable person in their position would hold.
+128. Absent the supplier having knowledge of material and conflicting information, the Commissioner accepts that the usual business systems approach and reasonable steps described in paragraphs 126 and 127 of this Ruling, where they enable the supplier to form a reasonable belief that goods will be a taxable importation, will satisfy this requirement.
+129. In most cases the sale of goods will take place through automated processes. This requirement can therefore be met where the supplier's systems are designed to conclude that goods will be a taxable importation. However, when applying the test, the system design must be able to consider and weigh up all relevant information available at the relevant time (see paragraphs 106 and 107 of this Ruling).
+130. Suppliers should keep records that set out the process through which they determine whether the exception applies to supplies of low value goods, including what information is gathered and used to apply the test. Information concerning the basis for the reasonable belief is not required to be provided with the goods that are sent to Australia.
+131. If a supplier repeatedly applies this exception to goods that are later, in fact, not a taxable importation, this is an indicator that the ATO may use in considering whether the exception was applied correctly.
+132. If a supplier deliberately changes their arrangements to ensure that goods are consigned separately after they have applied the exception, so that the goods are not a taxable importation, the anti-avoidance rules in Division 165 may apply.
+Example 10 – goods are sent together on recipient's instruction
+133.
+Sureni Co, an EDP operator, has arrangements with its merchants that provide it with access to detailed inventory information, including information about how products purchased through the platform will be sent to recipients.
+134.
+This information is displayed to the recipient when they make a purchase on the platform. If one item is not available to be sent with other items, the recipient is given the option of having the items sent separately as they become available, or waiting and having them sent together to reduce shipping costs.
+135.
+When the option to send items together is selected, goods are typically shipped in one consignment. Occasionally, items intended to be consigned together can only be consigned separately (for example, if the merchant is temporarily out of stock). In Sureni Co's experience, these events occur infrequently and this is not foreseeable at the time that consideration for the supply is set.
+136.
+Gregory purchases multiple low value goods with a customs value of $1,350 using Sureni Co's platform. He selects the option where his items will be sent together.
+137.
+The information gathered through Sureni Co's usual business systems and processes provide it with a reasonable basis to form a reasonable belief that the goods will be a taxable importation.
+138.
+As a result of the information provided by its systems, Sureni Co reasonably believes, at the time that consideration for the supply is set before export, that the goods will be a taxable importation. The supply is not connected with Australia under Subdivision 84-C.
+When is the exception applied?
+139. The exception is a 'point in time' test, which applies at the point at which the consideration for the supply is set prior to export, or at the point when a redeliverer assists in bringing the goods to Australia (if a redeliverer is responsible for GST on the supply). Information that arises after this point in time will not impact on whether a particular supply is connected with Australia.
+140. If the supplier has formed a reasonable belief that the goods will be a taxable importation using the business systems approach or reasonable steps approach, they can disregard the possibility that unpredictable events could occur after the consideration is finalised.
+141. However, if events that could lead to goods being consigned separately are reasonably expected at the relevant point in time, they should be factored in when deciding whether the exception applies.
+Example 11 – unexpected event after transaction is finalised
+142.
+In Example 5, Great Sports Co supplied two cricket bats to Marie, a recipient in Australia. Great Sports Co did not charge GST on the supply because it applied the exception in section 84-83 at the point at which consideration for the supply was set prior to the goods being exported.
+143.
+After the transaction is finalised, Great Sports Co realises that one of the two cricket bats it has in stock is damaged. It orders another cricket bat from its vendor and sends the remaining one to Marie separately.
+144.
+The damage to the cricket bat was an unpredictable event which occurred after the time at which consideration was set. As the exception applies as a 'point in time' test, this does not impact on whether the supply is connected with Australia.
+Example 12 – change in consideration
+145.
+Bicycle Co operates under a business model where goods that are ordered from its website are dispatched from its fulfilment centre once a week. Under its business processes, multiple orders from one recipient within a weekly period will be consolidated and shipped in one consignment.
+146.
+Thomas orders two bicycles from Bicycle Co in two separate transactions, which each have a customs value of $700. At the time of supply for the first order, Bicycle Co treats the sale as a taxable supply. Part of the consideration for the supply is a $50 fee to send the goods to Thomas (which is not included in the customs value
+–
+see paragraphs
+53
+to
+69
+of this Ruling, but can be included in the consideration for the supply
+–
+see paragraph
+186
+of this Ruling).
+147.
+However, when Bicycle Co receives the second order, its systems link the two transactions and identifies that these goods will be shipped in one consignment. As Bicycle Co offers free shipping if a recipient's order is over $1,000, it refunds Thomas the $50 shipping fee. This means there is a change in the consideration for the first order.
+148.
+As Bicycle Co is the merchant who sells the goods, the exception in section 84-83 applies at the most recent time prior to export that the consideration for the supply was set. Using the business systems approach, it forms a reasonable belief that the two bicycles will be imported as a taxable importation. As the exception applies, the supply is not connected with Australia under Subdivision 84-C. Bicycle Co refunds the GST charged on the first order at the same time that it refunds the shipping fees.
+Further examples
+Example 13 – multiple orders to a supplier from one recipient in separate consignments
+149.
+Fashion Co receives two online orders of goods from a consumer in Melbourne, Pepino. The orders each have a customs value of $800, with the total customs value being $1,600.
+150.
+Unlike Bicycle Co, in Example 12 of this Ruling, Fashion Co's business systems do not have the capability to consolidate multiple orders from one recipient. This means that each of Pepino's orders will be filled and paid for separately. When the goods are transported to Australia, each of the orders will be shipped as a separate consignment. Fashion Co does not take additional steps to change these processes.
+151.
+Fashion Co would not be able to apply the exception under section 84-83 to these supplies.
+Example 14 – supplies to multiple recipients
+152.
+Great Sports Co receives a number of orders for wetsuits, each with a customs value of $400, from six different recipients in Albany, Western Australia. Even though it ships these items at the same time to Australia, the shipment is not one consignment, because there are multiple consignees.
+153.
+As Great Sports Co knows that the goods will be shipped as part of multiple consignments, each with a customs value of less than $1,000, it knows the importation of the goods will not be a taxable importation. Accordingly, Great Sports Co would not be able to apply the exception under section 84-83.
+Example 15 – redeliverer consolidates items from several merchants into one package
+154.
+Frank has a subscription with Heathcliff Deliveries, a redeliverer located in Portland, Oregon. Shipping Co receives a number of packages that Frank has ordered from two stores in the United States. Each of the packages has a customs value of $750.
+155.
+Heathcliff Deliveries gathers Frank's purchases in its warehouse, consolidates them into one package, and transports them to his address in Geelong, Australia. However, as there are multiple consignors (the suppliers in the United States), the goods form part of multiple consignments even though they are sent together. Each consignment will have a customs value of $1,000 or less.
+156.
+The redeliverer, Heathcliff Deliveries, is not the consignor because it does not initiate the sending of the goods to a person in Australia. As the goods are not imported in one consignment with a customs value exceeding $1,000, they will not be a taxable importation.
+157.
+Heathcliff Deliveries would not be able to apply the exception under section 84-83.
+Example 16 – EDP consolidates items from several merchants into one package
+158.
+Orinaco.com operates an EDP through which low value goods are sold to consumers in Australia. It operates fulfilment centres outside Australia into which all its merchants place the stock they wish to sell through its platform. Orinaco.com is not the legal owner of any of the goods consolidated and sent from its fulfilment centre, and so is not the merchant who sells the goods.
+159.
+Bridget, who lives in Canberra, Australia purchases hi-fi items which have a customs value of $850 and $600, from two merchants who are selling through Orinaco.com's platform. However, Bridget has no interaction with the merchants in purchasing the goods.
+160.
+The items Bridget has ordered are not in stock in Orinaco.com's fulfilment centre, so it asks the merchants to deliver replenishment stock to its fulfilment centre for consolidation and dispatch.
+161.
+Once they arrive, Orinaco.com packs the two items from the different merchants and dispatches them to Bridget. Under this business model, the consignor is Orinaco.com. The goods supplied to Bridget will be included in one consignment with a customs value that exceeds $1,000.
+162.
+Orinaco.com's business model means that it has control of how the goods are sent to Australia, and the fact that the order has a customs value exceeding $1,000 is gathered through its usual business systems.
+163.
+Using the business systems approach, it forms a reasonable belief that the goods will be a taxable importation. This supply is not connected with Australia under Subdivision 84-C.
+164.
+The same outcome would arise if the order could be fulfilled with shelf stock (that is, if its fulfilment centre did not have to wait for replenishment stock from the merchants selling the goods on its platform).
+How are GST-free or input taxed supplies treated?
+165. Suppliers are not required to return GST on low value goods that are either GST-free (equivalent to the term 'zero-rated' in other jurisdictions) or input taxed (equivalent to the term 'exempt' in other jurisdictions).
+[33]
+166. These goods are not subject to GST when they are imported, as an importation of goods that would have been GST-free or input taxed, if it were a supply, is a non-taxable importation.
+[34]
+167. GST-free supplies made by a non-resident are only counted in determining if they are required to register for GST if they are made through an enterprise that the non-resident carries on in Australia.
+[35]
+168. Goods that are GST-free include certain medical aids and appliances. More information about GST-free goods is available at
+GST-free sales
+.
+Example 17 – GST-free supplies of low value goods
+169.
+Dylan Medical Supplies Co (Dylan Co) is a supplier of medical equipment in Ireland. It supplies specialised walking frames to recipients with disabilities in Australia. The specialised walking frames are specifically designed for people with an illness or disability and not widely used by people without an illness or disability.
+170.
+As the supply of the goods is GST-free, Dylan Co is not required to return GST on any of the goods, even if they are low value goods. When the goods are imported, they will also be a non-taxable importation.
+How do you calculate the GST payable on a supply?
+171. For suppliers (except for redeliverers) GST on the supply of low value goods is calculated under the ordinary rules. Generally, this will mean that the GST will be one-eleventh of the GST-inclusive price charged for the supply of the goods.
+172. Special rules apply for redeliverers. Where redeliverers are liable for GST, the amount of GST on the supply will be 10% of the price of the supply.
+[36]
+Other considerations
+173. The differences between the customs value of goods (which is used to determine whether there is a supply of low value goods) and the price of the supply (which is used to calculate how much GST applies to a supply) should be noted, as these values are often not the same. For example, freight and insurance costs in transporting the goods to Australia are not included in the customs value (see paragraphs 53 to 64 of this Ruling). These costs however, can be included in the price of the supply when calculating the GST payable on the supply.
+174. When calculating the amount of GST payable, consideration received in a currency other than Australian dollars for the supply of the goods must be converted into Australian currency.
+[37]
+175. Advice on how to convert foreign currency amounts into Australian dollars is contained in Goods and Service Tax Ruling GSTR 2001/2
+Goods and Services Tax: foreign exchange conversions
+and
+Goods and Services Tax: Foreign Currency Conversion Determination (No 1) 2017.
+Australian consumer law requirements
+176. Generally speaking, Australian consumer law requires retailers to provide a price that is inclusive of GST, where GST is applicable. Once an offshore supplier is aware that GST is likely to apply to a supply, the supplier should include the GST component in the total advertised price that is displayed to the recipient.
+177. However, as part of the process of determining whether GST will apply, the supplier will need to collect information, such as whether the goods are being sent to Australia or if the recipient is not a consumer under GST law because they are registered for GST. If it is initially considered less likely that GST will apply to the supply, then the supplier can instead display a message that notes the potential for additional taxes to apply.
+178. A GST-inclusive price can then be shown when it becomes clear that GST applies.
+179. The exact requirements of the Australian consumer law will depend on the relevant facts of each supply. However, typically, when an offshore supplier is aware that they are offering low value goods for sale into Australia to consumers, the price displayed should be a GST-inclusive price. Indicators that this is the case would include situations where a website is advertising consumer goods in Australian dollars, or through the use of a .com.au domain name or where location services show the recipient is in Australia.
+180. These requirements apply in addition to the requirement for the supplier (or other entity that is treated as making the supply) to issue a notice to the consumer in the approved form which includes the amount of GST payable on the supply (see paragraphs 193 to 204 of this Ruling).
+181. The Australian consumer law is administered by the Australian Competition and Consumer Commission (ACCC) and each State and Territory's consumer law agency. For more information, contact the ACCC or visit
+accc.gov.au
+.
+Example 18 – conversion for goods sold in foreign currency
+182.
+Cassia buys an electronic tablet online from the Italian website Priscilla and Tarquin. The website provides a warning that additional taxes may apply depending on where the goods are sent. The website offers to arrange delivery and insurance for purchases made through the site. Cassia decides to accept the options for delivery and insurance. The price of the electronic tablet is 600 euros (excluding delivery and insurance). On check out, Cassia accepts the total price and makes the payment for the electronic tablet.
+183.
+Priscilla and Tarquin need to work out whether there is a supply of low value goods. The consideration for the electronic tablet when it was first agreed is 600 euros. The website uses the rates of exchange published by the
+Department of Home Affairs
+to work out the customs value of the electronic tablet, which is $845. This means that the supply is a supply of a low value goods.
+184.
+Priscilla and Tarquin convert the amounts to Australian dollars on the day of the transaction.
+185.
+In accounting for GST on the supply, they decide to use the same rate they used in determining whether there was a supply of low value goods.
+[38]
+When are shipping and insurance fees subject to GST?
+186. In the majority of cases, where the price paid by the recipient includes transport, insurance and packing arranged by the merchant, there is typically a composite supply of delivered goods.
+[39]
+This means that these costs are included in the consideration for the supply of the goods on which GST is calculated and payable. These costs will not form part of a separate supply of GST-free international transport or insurance.
+[40]
+187. There is a composite supply of delivered goods if the delivery is integral, ancillary or incidental to the supply of the goods. If this is the case and the goods are taxable, then the whole supply is taxable. If the goods are GST-free, then the whole supply is GST-free.
+188. Where a transaction involves both taxable and GST-free goods, as well as delivery, apportionment of the delivery charges will be required. Examples are provided in Goods and Services Tax Determination GSTD 2002/3
+Goods and services tax: how do I account for GST when I supply taxable goods, non-taxable goods and delivery services together?
+189. The following factors will indicate that the international transport is integral, ancillary or incidental to the supply of goods:
+•
+the transport is procured, arranged or facilitated by the merchant or EDP operator
+•
+the recipient does not have a genuine choice
+[41]
+about which entity brings the goods into Australia (meaning that the recipient is obliged to use the shipping service arranged by the merchant or EDP operator)
+•
+a single contract has been entered into that requires the goods to be delivered to the recipient in Australia, and
+•
+delivery is a means necessary for the recipient to receive the goods, but is not an aim in itself.
+190. However, there may be situations where there is a separate GST-free supply of international transport, if the recipient has a genuine direct arrangement with the transport provider. An example is where the recipient pays for a fixed monthly subscription with a transporter to receive unlimited shipping of goods sold by participating merchants (if the goods are imported directly by the recipient from outside Australia). Given the participating merchant assists in getting the goods to Australia through their arrangement with the transporter, the merchant will be responsible for GST (unless an EDP operator is responsible for GST). This means that the transporter will not be responsible for GST as a redeliverer.
+[42]
+Modified rules for redeliverers
+191. In the context of redeliverers, these services are likely to be provided as a separate supply. The Act includes an amendment which ensures that these services are taxed in the same way as the underlying goods.
+192. Under subsection 38-355(3), the supply of international transport will not be GST-free if it:
+•
+relates to goods that are supplied as a taxable supply, and
+•
+the entity treated as making the supply of the goods is a redeliverer.
+Information requirements
+193. The amendments contain additional information requirements for suppliers (or entities treated as suppliers). These are that:
+•
+a supplier that makes a taxable supply which is connected with Australia under Subdivision 84-C must issue a notice to the recipient in the approved form that includes the amount of GST, if any, on certain supplies of low value goods,
+[43]
+and
+•
+entities that are registered, or required to be registered for GST are required to ensure that certain information is included on the customs documentation for goods supplied as an offshore supply of low value goods.
+[44]
+Notice issued to consumers
+194. To satisfy section 84-89, the supplier must issue a notice to consumers in the approved form. This can be in an electronic form, such as an email confirmation or receipt.
+195. To be in the approved form, the notice must contain the following information:
+•
+the name of the supplier
+•
+the GST registration number of the supplier, which is either an ATO Reference Number (ARN) or Australian Business Number (ABN)
+•
+the name of the recipient (this is only required if the total price of the transaction is over $1,000)
+•
+the date of issue
+•
+a description of what goods were supplied, including the quantity (if applicable) and the GST-inclusive price of the goods
+•
+the amount of GST payable for each of the goods, and
+•
+information that identifies the extent to which each of the goods were supplied as a taxable supply.
+196. The last two requirements can be met:
+•
+if all of the goods supplied were a taxable supply, by including the total GST-inclusive price and stating that this price includes GST (or alternatively by including the amount of GST for each of the goods), or
+•
+if only some of the goods supplied were a taxable supply, by including the amount of GST for each of the goods.
+Requirement to ensure information is included in customs documents
+197. The requirement in section 84-93 applies in situations including where the entity:
+•
+has treated an offshore supply of low value goods as a taxable supply
+•
+has not treated a supply as a taxable supply because the recipient is not a consumer, or
+•
+has not treated a supply as a taxable supply because it applied the exception in section 84-83, as it reasonably believed that the goods would be imported as a taxable importation.
+198. The information that suppliers (or entities treated as suppliers) must ensure is included in the customs documents is:
+•
+the registration number of the supplier (or entity treated as making the supply)
+•
+the ABN of the recipient, if disclosed to the supplier, and
+•
+the extent to which the supply was treated as a taxable supply.
+199. The penalty for failing to comply with this requirement only applies if the supplier (or entity treated as the supplier) has failed to take reasonable steps to ensure the information is included on the customs documentation.
+[45]
+This is intended to recognise the practical reality of these arrangements, and to make it clear that the reporting entity is only required to do what is reasonable in the circumstances.
+200. In practice, a supplier will have taken reasonable steps where they include the relevant information on their commercial documentation which is passed through the logistics chain (for example, where commercial documentation is provided from the supplier to their carrier, and then used by the customs broker or goods transporter to complete the customs documentation on behalf of the importer).
+201. A supplier can produce a single commercial document that both:
+•
+satisfies the requirement to issue a notice to consumers (see paragraphs 194 to 196 of this Ruling), and
+•
+can be used to ensure that the required information is included on the customs documentation.
+202. For offshore supplies of low value goods made to consumers, the notice which satisfies the requirements in paragraphs 194 to 196 of this Ruling will contain the information that suppliers must ensure is included in the customs documents for the goods. This means this information can be passed through the logistics chain and can be used to complete the customs documents.
+203. To ensure that the required information is included on customs documentation for supplies made to GST-registered businesses which are not consumers, suppliers can also issue a similar notice for these sales, and pass this information through the logistics chain. For these sales, the notice:
+•
+would not include an amount of GST payable, as the amendments only make supplies connected with Australia if the recipient is a consumer of the supply (see paragraphs 85 to 91 of this Ruling), and
+•
+would need to include the ABN of the recipient (where this has been disclosed to the supplier) to the notice, as this is one of the pieces of information that suppliers must ensure is included on the customs documents.
+204. If an EDP operator is treated as the supplier for GST purposes, in many cases they may not assist in bringing the goods to Australia. In these cases, an EDP operator will have taken reasonable steps if they include the relevant information on the commercial documentation which they require merchants to pass through the logistics chain on their behalf.
+Preventing double taxation of goods
+205. The amendments are designed to ensure that GST is not applied twice to low value goods that are imported to Australia. For this to occur, the Act ensures that an offshore supply of low value goods is either only treated as a taxable supply or only treated as a taxable importation. This is achieved by 'switching off' either the taxable supply or taxable importation rules so both don't apply to the same goods.
+206. In general:
+•
+if notification is provided in the approved form (which is linked to the import declaration) that a supply was a taxable supply under these amendments, the taxable importation will be switched off, and
+•
+if notification is not provided before a taxable importation is made, the taxable supply can be switched off, if certain conditions are met.
+Supplies of low value goods that are not subject to GST at the border
+207. Under section 42-15, an importation of goods is a non-taxable importation to the extent that:
+•
+the supply was an offshore supply of low value goods that was a taxable supply under section 9-5
+•
+the supply was connected with Australia only because Subdivision 84-C applied to the supply, and
+•
+prior to the time by which a taxable importation would have been made, notification is provided to the Comptroller-General of Customs in the approved form that the supply was a taxable supply.
+208. If the requirement to provide notification is met, section 42-15 will prevent goods from being a taxable importation in situations such as:
+•
+when GST has been charged on multiple low value goods that are imported in a consignment with a customs value exceeding $1,000 (and the supplier did not apply the exception in section 84-83, as they did not reasonably believe that the goods would be a taxable importation), and
+•
+a depreciation in the Australian dollar occurs so that goods had a customs value of $1,000 or less when consideration was first agreed, so GST was charged, but the customs value of the goods exceeded $1,000 on the day of export and therefore the goods would otherwise have been a taxable importation.
+209. A taxable importation will not be switched off in situations where a supply has been incorrectly treated as a taxable supply but it is not connected with Australia under Subdivision 84-C, or where the supply is connected with Australia under other provisions (for example, because the supplier is the importer).
+210. This means that the taxable importation will not be switched off in situations such as:
+•
+when GST is incorrectly applied to the sale of an item with a customs value exceeding $1,000 or the sale of tobacco, tobacco products or alcoholic beverages, and
+•
+when GST is incorrectly applied to the sale of goods to a recipient who is not a consumer in relation to the supply (that is, the recipient is registered for GST and acquires the goods to some extent for use in their enterprise).
+211. In these situations, the supplier (or entity treated as the supplier) can refund the recipient for the GST incorrectly charged on the supply (see paragraphs 236 to 246 of this Ruling).
+Notice requirements under section 42-15
+212. The approved form requirements will be met if the following information is included on the import declaration for the goods:
+•
+the GST registration number of the supplier, and
+•
+information indicating which goods were a taxable supply (this will be displayed by use of a GST-paid exemption code).
+213. To switch off the taxable importation, this notification must be provided by the time at which the taxable importation would otherwise have been made. Using the terms in the customs legislation, this means the notification must be provided prior to goods being delivered into home consumption in accordance with an authority to deal, by including the information in the import declaration, or in an amended import declaration.
+Interaction with broader requirement to report information under section 84-93
+214. The information required to complete these fields to switch off a taxable importation under section 42-15 will match the information that entities must ensure is included on the customs documents under section 84-93 (see paragraph 197 of this Ruling). However, this requirement applies more broadly than just in cases where the taxable importation needs to be switched off.
+Example 19 – switching off taxable importation
+215.
+Victoria purchases a number of items from Stewart Bridal's online store. Her purchase includes four bridesmaid dresses that each has a customs value of $300, and one wedding dress with a customs value of $1,500.
+216.
+As the wedding dress is not a supply of low value goods, Stewart Bridal does not return GST on the dress. Stewart Bridal treated the supply of low value goods (which consisted of the four bridesmaids' dresses) as a taxable supply that was connected with Australia under Subdivision 84-C, as it was uncertain about whether the goods would be imported as a taxable importation. As Victoria was the importer, the supply was only connected with Australia under Subdivision 84-C.
+217.
+It later turns out that the bridesmaid dresses and the wedding dress ordered by Victoria are actually consolidated into one shipment from Stewart Bridal's warehouse in Singapore, and are shipped in one consignment with a customs value exceeding $1,000. Usually this means that the goods would be imported as a taxable importation.
+218.
+However, Stewart Bridal has complied with the requirement under section 84-93, as its registration number and the fact that GST has been applied to the sale of the bridesmaid dresses was included on the commercial documentation provided with the goods to their courier company.
+219.
+The customs broker entering the declaration inputs this information into the import declaration on Victoria's behalf. As notification has been provided in the approved form, the importation of the goods is a non-taxable importation to the extent that the supply of the goods was a taxable supply only under Subdivision 84-C. Consequently, Victoria does not have to pay GST at the border for the bridesmaid dresses, if the goods were entered correctly.
+220.
+The supply of the wedding dress is not a supply of low value goods. Section 42-15 does not apply to switch off the taxable importation of this item, even if the fact that GST has already been paid is included on the import declaration for the goods. This exemption should not be claimed for this item. Victoria would be liable to pay GST on the wedding dress at the border as it is a taxable importation. Victoria would need to seek a refund from Stewart Bridal for the excess GST that she paid on the supply.
+Interaction with the broader requirement to issue a notice to the recipient
+221. There may be cases where the import declaration does not include the information which would satisfy the notification requirement when the goods are imported.
+222. Section 84-89 requires the supplier (or entity treated as the supplier) of a taxable supply of low value goods to issue the recipient of the supply with a notice of the amount of GST, if any, payable on the supply (see paragraph 194 of this Ruling).
+223. In these cases, the recipient may use the notice in the approved form which the supplier (or entity treated as the supplier) is required to issue to them in order to satisfy this requirement (provided this information is entered into the import declaration before the taxable importation is made).
+Example 20 – switching off taxable importation
+224.
+If instead in Example 18 of this Ruling, the commercial documentation was incomplete, Victoria may be contacted by the customs broker when the goods are imported.
+225.
+As Stewart Bridal has complied with the requirement in section 84-89 to issue a notice to Victoria in the approved form, Victoria is able to provide the customs broker with this notice. The import declaration is amended to include this information. As this notification is provided prior to the taxable importation being made, this satisfies the notice requirement under section 42-15.
+Supplies of low value goods that are subject to GST at the border
+226. If the notification that a supply was a taxable supply is not provided on the import declaration prior to the goods being imported, section 42-15 cannot be used to obtain a refund of the GST paid at the border.
+227. Instead, to relieve the double taxation of the goods, the recipient can seek a refund from the supplier (or the entity treated as the supplier) by declaring or providing information that the goods were a taxable importation.
+228. Under section 84-85, an offshore supply of low value goods ceases to be a taxable supply to the extent that:
+•
+the supply is a taxable supply under section 9-5 that is connected with Australia only because of Subdivision 84-C
+•
+the importation of the goods was a taxable importation
+•
+the recipient (or other entity such as their agent) has been reimbursed for any GST that has been passed on
+[46]
+in relation to the supply, and
+•
+the recipient (or other entity) provides a declaration or information that indicates GST has been paid on the taxable importation of the goods.
+229. The recipient may provide a receipt or an import declaration advice, available from their customs broker, to show that they have paid GST at the border because the goods have been treated as a taxable importation.
+230. If these requirements are met, an adjustment event arises for the supplier (or entity treated as the supplier). If the adjustment event occurs in the same period in which GST on the supply was attributable, the supplier will not account for GST in their return to the extent this provision applied. If the adjustment event occurs in a later tax period, the supplier will make a decreasing adjustment in their return, which reduces their net amount of GST payable by the amount of overpaid GST on the supply.
+Example 21 – switching off taxable supply
+231.
+Jacob purchases four chefs knives and sharpening equipment from Championship Knives through the platform of an EDP operator, Great Cookware Co. The goods had a total customs value exceeding $1,000 at the time that consideration was first agreed, but Great Cookware Co applied GST on the items at checkout as it was uncertain whether the goods would be sent to Australia as part of one consignment.
+232.
+Great Cookware Co requires merchants that use its platform to include Great Cookware Co's registration number, the extent to which the goods were supplied as a taxable supply, and the ABN of the recipient (if disclosed) on their commercial documentation when goods are brought into Australia. However, in this case, Championship Knives fails to provide this information on their commercial documents, which is used by the customs broker who input the import declaration on Jacob's behalf.
+233.
+As the import declaration did not include notification in the approved form that the supply was a taxable supply, the goods were entered as a taxable importation and Jacob paid GST at the border.
+234.
+To prevent GST from applying twice to the goods, Jacob seeks a refund from Great Cookware Co for the GST charged on the items. He contacts the company and provides a copy of the documentation he has received from the broker showing GST was paid on the items at the border.
+235.
+Great Cookware Co reimburses Jacob for the GST charged on the items. Once it has reimbursed Jacob for the passed on GST on the supply, an adjustment event will arise under section 84-85. In this case, Jacob provides this information to Great Cookware Co in the same tax period in which the GST on the supply was attributable. Great Cookware Co does not account for GST on the supply in its return.
+What if a supply is incorrectly treated as a taxable supply?
+236. In some cases, a supplier (or entity treated as the supplier) may later discover that they have, incorrectly charged GST on a supply which was not a taxable supply, because:
+•
+the item had a customs value exceeding $1,000
+•
+the goods were tobacco, tobacco products or alcoholic beverages
+•
+the recipient was not a consumer in relation to the supply (that is, the recipient was registered for GST and acquired the goods to some extent for use in their enterprise), or
+•
+the supply is GST-free or input taxed.
+237. As section 42-15 only applies to a supply that satisfied the requirements to be connected with Australia under Subdivision 84-C, the taxable importation of goods will not be switched off in these situations, even though the supply was treated as a taxable supply. This is the case even if the fact that GST has already been paid is included on the import declaration for the goods. This exemption should not be claimed. Instead, the recipient can seek a refund from the supplier (or entity treated as the supplier) for the GST paid on the supply.
+238. If the supplier (or entity treated as the supplier) discovers that the supply should not have been a taxable supply, either because of information about the nature of the goods or of the recipient, an adjustment event will arise.
+239. If the supplier has already included the GST payable on such a supply in its assessed net amount in a return, the amount will be excess GST under Division 142. Section 142-10 applies so that an amount of excess GST is only refundable to the supplier if either it has not been passed on to the recipient, or the recipient has been reimbursed for the excess GST that has been passed on. Once the reimbursement has been made to the recipient, the supply ceases to be a taxable supply and the supplier can make a decreasing adjustment.
+240. If the excess GST has not been passed on to the recipient, section 142-10 does not apply and the supplier may request an amended assessment, or if the conditions set out in
+A New Tax System (Goods and Services Tax) (Correcting GST Errors) Determination 2023
+are satisfied, the supplier may claim a refund in a later tax period.
+Supplies that are incorrectly treated as a taxable supply and incorrectly treated as a non-taxable importation
+241. In some cases, an error may occur where goods are incorrectly treated as a taxable supply under Subdivision 84-C, and as a result of this they are incorrectly treated as a non-taxable importation under section 42-15, when in fact GST should have been collected at the border.
+242. If this occurs, section 142-16 applies to prevent a supplier (or entity treated as the supplier) from obtaining a refund of excess GST on the supply, unless:
+•
+the recipient has been reimbursed for any GST that has been passed on
+[47]
+in relation to the supply, and
+•
+the recipient provides a declaration or information that indicates GST has been paid on the taxable importation of the goods.
+243. However, this restriction does not apply if the recipient of the supply was not a consumer in relation to the supply (for example, if a registered recipient later provides their ABN and a declaration that they are registered).
+Example 22 – supply to a recipient who is not a consumer treated as a taxable supply
+244.
+Following on from Example 21 of this Ruling, Jacob realises that he has incorrectly been charged GST, as he is registered for GST and has purchased the items for use in his catering business. He provides his ABN and declares to Great Cookware Co that he is registered for GST.
+245.
+Great Cookware Co reimburses Jacob for the GST charged on the items. As it had already included the GST payable in its return for that period, Great Cookware Co makes a decreasing adjustment in the return for the period in which Jacob provided the information.
+246.
+Great Cookware Co does not need to consider whether the goods were a taxable importation when seeking a refund of the GST on the supply, as Jacob is not a consumer.
+What if goods are returned by the recipient after sale?
+247. The usual GST rules apply for returned goods, or where the price for the goods is adjusted. However, if GST is attributed to a particular tax period, but later events change the amount of GST payable for the supply, the supplier may need to make adjustments to their net amount in the later tax period. For example, an adjustment event occurs where an offshore supply of low value goods is cancelled, such as where the recipient receives a refund associated with returning goods to the merchant. These circumstances may require the issue of an adjustment note,
+[48]
+however, the amendments provide an exclusion from this requirement.
+[49]
+Further guidance can be found in Goods and Services Tax Ruling GSTR 2000/19
+Goods and services tax: making adjustments under Division 19 for adjustment events.
+248. A supplier is not entitled to a refund of an amount of excess GST
+[50]
+where they have charged the recipient GST and have not reimbursed the recipient for the amount they paid.
+[51]
+That means that the supplier cannot make a decreasing adjustment to their net amount until the recipient has been reimbursed the GST they have paid. If goods are returned in the same tax period to which the GST is attributed and the recipient is reimbursed in that same tax period, then the supplier does not need to adjust their net amount in a later tax period.
+Example 23 – goods returned by recipient
+249.
+Olympia pays $400 for two pairs of shoes in different sizes as she is not sure which size will fit her. When Olympia receives the shoes she discovers the larger pair of shoes does not fit. She returns the larger pair and seeks a refund of the amount she has paid for them.
+250.
+In the terms and conditions of using the platform, Get-Nu-Shoes require merchants to notify them when they refund money for returned goods. The merchant sends a notification to Get-Nu-Shoes that they have refunded the money paid on the sale of a pair of shoes. Get-Nu-Shoes is satisfied that a refund has been made and refunds the GST that was charged to Olympia.
+251.
+Get-Nu-Shoes is then able to make a decreasing adjustment in its return for the period in which the shoes are returned. If instead Get-Nu-Shoes had not included the GST in their return, they would not include the GST in their return and consequently would not need to make a decreasing adjustment.
+Example 24 – damaged goods returned by recipient
+252.
+Olympia also orders one pair of shoes in her favourite style from Get-Nu-Shoes. On delivery she discovers that the shoes have been badly damaged. She informs the merchant who arranges for a free replacement pair to be sent to Olympia.
+253.
+No adjustment is necessary in Get-Nu-Shoes return for the replacement shoes. GST has already been charged on the supply of the original pair of shoes.
+Goods sold to offshore customer and subsequently returned to Australia
+254. Where goods are returned by a customer to a supplier in Australia, for example because the goods are faulty or not required, the return of the goods will not be an offshore supply of low value goods. The return of the goods typically results in a cancellation of the original supply by the exporter or a change in the consideration of the supply. The return will also normally be made without consideration. This means that a customer returning goods to the supplier in Australia will not be liable for GST on the return of those goods to Australia.
+Returned goods where the goods were imported as a taxable importation
+255. An adjustment event cannot occur for a taxable importation. Therefore there is no relief for GST charged on a taxable importation if goods are returned.
+256. However, there may be other rules under which the replacement goods are not a taxable importation. For example, goods that are returned to Australia after repair or replacement that is free of charge under warranty or supplied as part of a product safety recall may be a non-taxable importation because of item 18 of Schedule 4 to the
+Customs Tariff Act 1995.
+Interaction with other rules about when supplies are connected with Australia
+257. The amendments apply to both non-resident and Australian resident suppliers of low value goods. These rules equally apply to Australian-based merchants who sell goods that are sent directly from overseas to a consumer in Australia (for example, in Example 9 of this Ruling).
+258. The new rules for supplies of low value goods connected with Australia apply in addition to the other rules already contained in section 9-25 that make supplies connected with Australia.
+[52]
+259. This means that a supply can be connected with Australia under both Subdivision 84-C and also either:
+•
+wholly within Australia – under subsection 9-25(1), a supply of goods is connected with Australia if the goods are delivered, or made available, in Australia to the recipient of the supply, or
+•
+to Australia – under subsection 9-25(3), a supply of goods connected with Australia if the supplier imports the goods into Australia.
+260. In this case, the usual GST rules will apply to the supply instead of the special rules for supplies of low value goods. This means that, where a supplier is making supplies that are connected with Australia under subsection 9-25(1) or subsection 9-25(3), their current GST obligations are not affected by the amendments.
+When does the supplier import the goods into Australia?
+261. GSTR 2003/15 considers when a supplier is the importer for the purposes of determining if a supply is connected with Australia under subsection 9-25(3).
+262. A supplier imports goods into Australia if the supplier causes the goods to be brought to Australia to apply them to its own purposes and completes the customs formalities.
+263. If goods are supplied under delivered duty paid (DDP) terms
+[53]
+, the supplier undertakes to deliver the products to an address in Australia and to complete the customs formalities, including payment of duties and GST. This includes making an import declaration that is required where imported goods with a customs value above $1,000 are entered for home consumption. In this case, the supplier is the importer of the goods and the supply of those goods would be connected with Australia under the existing rules.
+264. If goods are not required to be entered for home consumption because they have a customs value of $1,000 or less, an import declaration is not required but a self-assessed clearance (SAC) will be required if not imported through the post.
+[54]
+For these low value imports:
+•
+if goods are sent to Australia by international post, the goods are released to the postal authority, who is acting on behalf of the addressee. The addressee, who receives the goods, is the importer, and
+•
+if goods are sent to Australia by sea or air cargo, the goods are released to the cargo reporter, who is acting on behalf of the consignee.
+[55]
+The consignee, who receives the goods, is the importer. If the consignee is the supplier, or an entity acting on its behalf, the supply will be connected with Australia under subsection 9-25(3).
+Example 25 – supplies that are connected under subsection 9-25(3)
+265.
+Quentin's Lenses supplies a digital camera with a customs value of $1,200 to Tom, who is not a consumer of the supply (he is registered for GST). The goods are delivered under Delivered Duty Paid (DDP) incoterms, which means that Quentin's Lenses undertakes to deliver the products to Australia and to complete the customs formalities, including payment of duties and GST.
+266.
+This supply is connected with Australia under subsection 9-25(3) because Quentin's Lenses imports the goods into Australia and pays the GST on its taxable importation. If Quentin's Lenses is registered or required to be registered, the supply is a taxable supply. Quentin's Lenses will also be entitled to an input tax credit if the importation is a creditable importation.
+267.
+Quentin's Lenses does not need to consider the special rules that apply to supplies of low value goods under Subdivision 84-C. The fact that Tom is not a consumer of the supply is not relevant to the GST treatment of the supply.
+268. Table 2 of this Ruling summarises the GST treatment of supplies for different entities depending on whether the supply is connected only under Subdivision 84-C, or also under subsection 9-25(1) or subsection 9-25(3). These outcomes arise regardless of whether entities are carrying on an enterprise in Australia.
+Table 2: GST treatment of supplies for different entities
+How is the supply connected with Australia?
+How does the merchant who sells the goods treat the supply?
+What if the supply is made through an EDP?
+How does a recipient that is not a consumer treat the supply?
+Supply is connected with Australia under Subdivision 84-C only.
+The merchant must return GST on a supply which is an offshore supply of low value goods and if the recipient of the supply is a consumer (unless the exceptions in section 84-83 or section 84-85 apply, the supply is GST-free or an EDP operator is responsible for GST on the supply).
+The merchant is required to issue the recipient with a notice in the approved form, in accordance with section 84-89.
+The EDP operator is responsible for GST on these supplies (unless all of the criteria in subsection 84-55(4) are met).
+These supplies count towards the registration threshold for the EDP operator only.
+The supplier for GST purposes is not required to return GST if the recipient is not a consumer.
+The reverse charge provision in subsection 84-5(1) may apply.
+Supply is connected with Australia under subsection 9-25(1) or subsection 9-25(3) in addition to Subdivision 84-C (for example, because the supplier is the importer or the goods are sourced from an Australian warehouse).
+The merchant is responsible for GST on these supplies.
+The merchant is required to issue tax invoices to the recipient of a supply within 28 days of their request.
+The merchant is responsible for GST on these supplies, even if they are made through an EDP.
+These supplies count towards the registration threshold for the merchant only.
+The registered recipient is entitled to an input tax credit if they have a tax invoice and to the extent that the purchase is a creditable acquisition.
+Commissioner of Taxation
+7 March 2018
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+The 'indirect tax zone' is the area to which Australia's GST applies. Paragraphs 26 and 27 of Law Companion Ruling LCR 2016/1
+GST and carrying on an enterprise in the indirect tax zone (Australia)
+explain the term 'indirect tax zone' and list the external territories excluded from this zone.
+[2]
+Section 65 of Schedule 1 to the
+Treasury Laws Amendment (GST Low Value Goods) Act 2017.
+[3]
+See section 29-5 and Division 156 for special rules about periodic and progressive supplies.
+[4]
+Section 84-79.
+[5]
+Paragraphs 171 to 175 of this Ruling
+[6]
+Section 84-83, see paragraphs 99 to 164 of this Ruling.
+[7]
+Paragraph 84-79(3)(b).
+[8]
+Subsections 84-5(1), 84-5(1A) and 84-5(1B).
+[9]
+Subsections 84-81(3) and 84-55(1).
+[10]
+Subsection 84-81(4).
+[11]
+Section 84-70.
+[12]
+Subsection 84-81(3) and Subdivision 84-B. See LCR 2018/2
+GST on supplies made through electronic distribution platforms
+for more information.
+[13]
+Subsection 84-81(4). See LCR 2018/3
+When is a redeliverer responsible for GST on a supply of low value imported goods?
+for more information.
+[14]
+See Goods and Services Tax Ruling GSTR 2001/7
+Goods and services tax: meaning of GST turnover, including the effect of section 188-25 on projected GST turnover
+for more information on how to calculate the GST turnover.
+[15]
+Paragraphs 257 to 268 of this Ruling outline the other reasons the supply could be connected with Australia.
+[16]
+See section 42-15 and paragraphs 207 to 225 of this Ruling.
+[17]
+See section 84-89 and subsection 288-45(2) of Schedule 1 to the
+Taxation Administration Act 1953
+(TAA). See also section 84-93, subsection 288-45(2A) and section 288-46 in Schedule 1 to the TAA, and paragraphs 193 to 204 of this Ruling.
+[18]
+Paragraph 84-79(3)(b).
+[19]
+Paragraphs 53 to 71 of this Ruling.
+[20]
+See section 195-1.
+[21]
+The definition of price under section 154 of the
+Customs Act 1901
+excludes taxes that are payable by law because of the importation into, or subsequent use, sale or disposition in, Australia of the goods.
+[22]
+Subsection 161(2) of the
+Customs Act 1901.
+[23]
+More information about determining the customs value for imported goods is available from the Department of Home Affairs in
+Border Practice Statement 2009/01
+Customs Valuation
+.
+[24]
+Subsection 84-79(4).
+[25]
+Subsection 84-77(5).
+[26]
+Subsection 84-81(3).
+[27]
+Subsection 84-77(4).
+[28]
+Subsection 84-75(2).
+[29]
+An 'ABN' is an Australian Business Number and it is defined in section 41 of the
+A New Tax System (Australian Business Number) Act 1999.
+[30]
+Subsection 84-83(3).
+[31]
+Paragraph 84-83(4)(b).
+[32]
+See section 42-5, item 26 in Schedule 4 to the
+Customs Tariff Act 1995
+,
+Customs By-Law No. 2300079
+and also paragraphs 68(1)(e) and (f) of the
+Customs Act 1901
+, and section 26 of the
+Customs Regulation 2015
+. The exceptions in Customs By-Law No. 2300079 include tobacco, tobacco products or alcoholic beverages.
+[33]
+Section 9-5.
+[34]
+Section 13-10.
+[35]
+Paragraph 188-15(3)(d) and paragraph 188-20(3)(d).
+[36]
+Subsection 84-91(1). For more information see Law Companion Ruling LCR 2018/3
+When is a redeliverer responsible for GST on a supply of low value imported goods?
+[37]
+Section 9-85.
+[38]
+GSTR 2001/2 and
+Goods and Services Tax: Foreign Currency Conversion Determination 2018
+describe the existing rules for currency conversion under section 9-85. The Determination allows limited registration entities to use a conversion date at the final day of the relevant tax period in which GST is payable on their supplies.
+[39]
+See Goods and Services Tax Ruling GSTR 2001/8
+Goods and services tax: Apportioning the consideration for a supply that includes taxable and non-taxable parts
+and GSTD 2002/3.
+[40]
+Subdivision 38-K makes certain supplies of international transport and related services GST-free. Paragraph (b) of item 5 in the table in subsection 38-355(1) provides that, subject to subsection 38-355(2), the supply of international transport of goods from a place outside Australia to their place of consignment in Australia will be GST-free.
+[41]
+Genuine choice is more than the delivery time chosen. It is a genuine choice in selecting the transporter that will deliver the goods to Australia. Where the EDP operator or merchant contract directly with the transporter this does not provide the recipient with a genuine choice.
+[42]
+See LCR 2018/3.
+[43]
+Section 84-89.
+[44]
+Section 84-93.
+[45]
+Subsection 288-45(2A) and section 288-46 in Schedule 1 to the TAA.
+[46]
+The meaning of the term 'passed on' is discussed in Goods and Services Tax Ruling GSTR 2015/1
+Goods and services tax: the meaning of the terms 'passed on' and 'reimburse' for the purposes of Division 142 of the A New Tax System (Goods and Services Tax) Act 1999.
+[47]
+The meaning of the term 'passed on' is discussed in GSTR 2015/1.
+[48]
+Goods and Services Tax Ruling GSTR 2013/2
+Goods and services tax: adjustment notes.
+[49]
+Subsection 84-87(2).
+[50]
+This is the amount of GST that has been incorrectly charged.
+[51]
+GSTR 2015/1.
+[52]
+Subsection 84-75(3), and subsection 9-25(3A).
+[53]
+Australian Customs and Border Protection Notice No.
+2014/50
+Delivered Duty Paid (DDP) Transactions
+.
+[54]
+Paragraphs 68(1)(e) and (f) of the
+Customs Act 1901
+and section 26 of
+the Customs Regulation 2015.
+[55]
+The consignee for the purposes of this discussion is the equivalent to the addressee in international post situations.
+Previously released in draft form as LCR 2017/D2
+References
+Business Line:
+ISP - GST
+Related Rulings/Determinations:
+GSTD 2002/3
+GSTR 2000/19
+GSTR 2001/2
+GSTR 2001/7
+GSTR 2001/8
+GSTR 2003/15
+GSTR 2013/2
+GSTR 2015/1
+GSTD 2002/3
+GSTR 2000/19
+GSTR 2001/2
+GSTR 2001/7
+GSTR 2001/8
+GSTR 2003/15
+GSTR 2013/2
+GSTR 2015/1
+GSTR 2017/1
+GSTE 2013/1
+LCR 2016/1
+LCR 2018/2
+LCR 2018/3
+Legislative References:
+ANTS(ABN)A 1999
+ANTS(ABN)A 1999 41
+ANTS(GST)A 1999
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-25
+ANTS(GST)A 1999 9-25(1)
+ANTS(GST)A 1999 9-25(3)
+ANTS(GST)A 1999 9-25(3A)
+ANTS(GST)A 1999 9-85
+ANTS(GST)A 1999 13-10
+ANTS(GST)A 1999 29-5
+ANTS(GST)A 1999 42-5
+ANTS(GST)A 1999 42-15
+ANTS(GST)A 1999 Subdiv 38-K
+ANTS(GST)A 1999 38-355(1) table item 5 paragraph b
+ANTS(GST)A 1999 38-355(2)
+ANTS(GST)A 1999 38-355(3)
+ANTS(GST)A 1999 Subdiv 84-B
+ANTS(GST)A 1999 Subdiv 84-C
+ANTS(GST)A 1999 84-5(1)
+ANTS(GST)A 1999 84-5(1A)
+ANTS(GST)A 1999 84-5(1B)
+ANTS(GST)A 1999 84-55(1)
+ANTS(GST)A 1999 84-55(4)
+ANTS(GST)A 1999 84-70
+ANTS(GST)A 1999 84-75
+ANTS(GST)A 1999 84-75(1)
+ANTS(GST)A 1999 84-75(2)
+ANTS(GST)A 1999 84-75(3)
+ANTS(GST)A 1999 84-77
+ANTS(GST)A 1999 84-77(1)
+ANTS(GST)A 1999 84-77(2)
+ANTS(GST)A 1999 84-77(3)
+ANTS(GST)A 1999 84-77(4)
+ANTS(GST)A 1999 84-77(5)
+ANTS(GST)A 1999 84-79
+ANTS(GST)A 1999 84-79(1)
+ANTS(GST)A 1999 84-79(2)
+ANTS(GST)A 1999 84-79(3)(b)
+ANTS(GST)A 1999 84-79(4)
+ANTS(GST)A 1999 84-79(4)(e)
+ANTS(GST)A 1999 84-79(5)
+ANTS(GST)A 1999 84-81(3)
+ANTS(GST)A 1999 84-81(4)
+ANTS(GST)A 1999 84-83
+ANTS(GST)A 1999 84-83(3)
+ANTS(GST)A 1999 84-83(4)(b)
+ANTS(GST)A 1999 84-85
+ANTS(GST)A 1999 84-87(2)
+ANTS(GST)A 1999 84-89
+ANTS(GST)A 1999 84-91(1)
+ANTS(GST)A 1999 84-93
+ANTS(GST)A 1999 84-105
+ANTS(GST)A 1999 Div 142
+ANTS(GST)A 1999 142-10
+ANTS(GST)A 1999 142-16
+ANTS(GST)A 1999 Div 156
+ANTS(GST)A 1999 Div 165
+ANTS(GST)A 1999 188-15(3)(d)
+ANTS(GST)A 1999 188-20(3)(d)
+TAA 1953
+TAA 1953 Sch 1 288-45(2A)
+TAA 1953 Sch 1 288-46
+Customs Act 1901
+Customs Act 1901 Div2 Part VIII
+Customs Act 1901 68(1)(e)
+Customs Act 1901 68(1)(f)
+Customs Act 1901 154
+Customs Act 1901 161
+Customs Act 1901 161(2)
+Customs Act 1901 161J
+Customs Tariff Act 1995
+Customs Tariff Act 1995 Sch 4 item 18
+Customs Tariff Act 1995 Sch 4 item 26
+Customs By-Law No 1305011
+Customs Regulation 2015
+Customs Regulation 2015 26
+Treasury Laws Amendment (GST Low Value Goods) Act 2017
+Other References:
+Border Practice Statement 2009/01 Customs Valuation
+Cargo reporting and import declaration requirements
+Australian Customs Notice 2009/47 – Definition of "consignor" and "consignee" and Compliance Approach for the purposes of reporting cargo
+Australian Customs and Border Protection Notice No. 2014/50 Delivered Duty Paid (DDP) Transactions
+Australian Customs Notice No. 2021/01 - Definition of consignment for the purposes of Section 68 of the Customs Act 1901
+LCR 2018/1 history
+Date:
+Version:
+Change:
+7 March 2018
+Original ruling
+You are here
+19 November 2025
+Consolidated ruling
+Addendum
+Back to top

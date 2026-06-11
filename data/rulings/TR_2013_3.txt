@@ -1,0 +1,1520 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+103 related documents
+Taxation Ruling
+TR 2013/3
+Income tax: research and development tax offsets: feedstock adjustments
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+TR 2013/3EC
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+LEGALLY BINDING SECTION:
+What this Ruling is about
+1
+Ruling
+10
+Examples
+77
+Date of effect
+114
+NOT LEGALLY BINDING SECTION
+Appendix 1:
+Explanation
+115
+Appendix 2:
+Alternative views
+243
+Appendix 3
+Detailed contents list
+252
+Preamble
+This publication provides you with the following level of protection:
+This publication (excluding appendices) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, we must apply the law to you in the way set out in the ruling (unless we are satisfied that the ruling is incorrect and disadvantages you, in which case we may apply the law in a way that is more favourable for you - provided we are not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal Database (ato.gov.au/law) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling considers certain aspects of the feedstock adjustment
+[1]
+provisions in Subdivision 355-H of the
+Income Tax Assessment Act 1997 (
+ITAA 1997),
+[2]
+specifically:
+•
+the breadth of the expression 'expenditure... in acquiring or producing goods, or materials' in paragraph 355-465(1)(a) (including its application to multi-stage production processes);
+•
+the meaning of the expression 'transformed feedstock output' in paragraph 355-465(1)(c);
+•
+the meaning of 'applied... to the R&D entity's own use', and of 'other than use for the purpose of transforming that product for supply', in subparagraph 355-465(1)(c)(ii);
+•
+determining which of the two amounts referred to in subsection 355-465(2) is the 'lesser' amount;
+•
+when an allocation method will show the extent to which certain amounts are 'reasonably attributable to the production of the feedstock output', for the purposes of paragraph 355-465(2)(b);
+•
+when a single calculation might be done under subsection 355-465(2) of the lesser amount, for a number of feedstock outputs; and
+•
+the meaning of the expression 'cost of producing' in section 355-470 (calculation of 'feedstock revenue').
+Class of entities/scheme
+2. The class of entities to which this Ruling applies are known as R&D entities (as defined in section 355-35).
+[3]
+This Ruling concerns R&D entities conducting registered R&D activities
+[4]
+(as defined by sections 355-20, 355-25 and 355-30) that become entitled to a tax offset under section 355-100.
+Legislative history
+3. This Ruling deals with the operation of certain provisions in Subdivision 355-H. The Subdivision is part of Division 355, which was introduced into the ITAA 1997 with the passage of the
+Tax Laws Amendment (Research and Development) Act 2011.
+Division 355 applies to R&D entities and to income years commencing on or after 1 July 2011. Division 355 replaces a number of provisions of the
+Income Tax Assessment Act 1936 (
+ITAA 1936), most notably, former section 73B.
+Statutory scheme
+Division 355
+4. Generally Division 355 allows an R&D entity that has engaged in registered R&D activities to claim either:
+•
+a refundable tax offset calculated as 45% of the notional deductions
+[5]
+it is entitled to under the Division, where its aggregated turnover is less than $20 million (and it is not controlled by one or more exempt entities); or
+•
+a non-refundable tax offset calculated as 40% of its notional deductions (see generally section 355-100).
+Subdivision 355-H
+5. Subdivision 355-H reduces the concessional effect of allowing a tax offset for expenditure on registered R&D activities, where these activities involve the production of one or more tangible products. Subdivision 355-H applies to all activities for which the three conditions for a feedstock adjustment outlined in paragraphs 9 and 121 of this Ruling are met, including where only one tangible product is produced. The key effect of the Subdivision is to include an amount in the assessable income of the R&D entity conducting these activities (as calculated under subsection 355-465(2)). This is the '
+feedstock
+adjustment' to which the heading of Subdivision 355-H refers.
+6. Where the feedstock revenue (as defined in section 355-470) from supplying that tangible product to someone else, or applying it to the R&D entity's own use,
+[6]
+is nil, there is no additional amount included in assessable income under section 355-465.
+7. Where the feedstock revenue is less than the relevant notional deductions, the feedstock adjustment is calculated by reference to that feedstock revenue (by making the assessable amount one third (1/3) of that feedstock revenue); and otherwise it is calculated by reference to those notional deductions (by making the assessable amount one third (1/3) of those notional deductions).
+8. There are no specific exclusions or exemptions identified in Subdivision 355-H. As a result, the provisions can apply to a wide range of products and activities including 'one-off' activities such as the development of a prototype or demonstration model. However, where the prototype or demonstration model is a depreciating asset which is not used in acquiring or producing any feedstock inputs, expenditure incurred as part of its cost will not give rise to any feedstock adjustment where that expenditure gives rise to notional deductions under Division 355.
+Definitions
+9. In this Ruling the following shorthand terms are used.
+[7]
+These terms represent important concepts in the operation of Subdivision 355-H.
+feedstock inputs
+refers to goods or materials acquired or produced by the R&D entity and transformed or processed during R&D activities
+[8]
+, where that transformation or processing also results in the production of one or more tangible products.
+[9]
+(refer paragraph 355-465(1)(a))
+feedstock outputs
+refers to a tangible product produced from the transformation or processing of feedstock inputs.
+[9A]
+(refer paragraph 355-465(1)(a))
+transformed feedstock output
+has the meaning set out at paragraphs 29 to 35 of this Ruling.
+marketable product
+refers to a feedstock output, or a transformed feedstock output (including one that has undergone more than one transformation), for which a feedstock trigger condition has been met.
+(refer paragraph 355-465(1)(c))
+The following shorthand terms are defined only for the purposes of this Ruling:
+feedstock input expenditure
+refers to expenditure incurred by an R&D entity that meets the first and second conditions.
+the first condition
+refers to the condition in paragraph 355-465(1)(a) that the R&D entity has incurred expenditure in one or more income years in acquiring or producing feedstock inputs during R&D activities in producing one or more feedstock outputs.
+the second condition
+refers to the condition in paragraph 355-465(1)(b) that the R&D entity obtains a tax offset under section 355-100 for one or more income years for [notional] deductions: (a) for the expenditure described in paragraph 355-465(1)(a); (b) for expenditure incurred by the R&D entity on any energy input directly into the transformation or processing referred to in paragraph 355-465(1)(a); or (c) for the decline in value of assets used in acquiring or producing the feedstock inputs.
+the third condition, referred to as
+the feedstock trigger conditions
+refers to the final conditions, in paragraph 355-465(1)(c), required for a feedstock adjustment to arise under subsection 355-465(2). These conditions are that during an income year the R&D entity has a marketable product which is either: (i) supplied by the R&D entity to another entity; or (ii) applied by the R&D entity to the R&D entity's own use, other than use for the purpose of transforming that product for supply.
+feedstock adjustment
+refers to the inclusion of an amount in the assessable income of an R&D entity under subsection 355-465(2).
+Note:
+this Ruling sometimes refers to circumstances where expenditure may have been incurred on one or more R&D activities. This is not to be read as a statement that the activities in question do qualify as R&D activities for the purposes of Division 355. In the vast majority of cases the Commissioner will refer such questions to Innovation Australia under paragraph 27F(3)(a) of the
+Industry Research and Development Act 1986.
+Ruling
+Conditions for a feedstock adjustment
+The first condition: meaning of 'expenditure ... in acquiring or producing goods, or materials' - paragraph 355-465(1)(a)
+[10]
+10. Paragraph 355-465(1)(a) sets out the first condition for a feedstock adjustment to arise. This paragraph refers to three tests that must be satisfied for the first condition to be met as outlined below:
+•
+an R&D entity incurs expenditure in one or more income years in acquiring or producing goods, or materials (the feedstock inputs);
+•
+the feedstock inputs are transformed or processed;
+•
+feedstock inputs are transformed or processed during R&D activities in producing one or more tangible products (feedstock outputs).
+11. The words 'expenditure ... in acquiring or producing goods, or materials' form a composite phrase in paragraph 355-465(1)(a), where that phrase describes expenditure of a particular character
+[11]
+and is limited in its scope to only covering expenditure incurred up to the time transformation or processing activities begin. This expenditure does not include expenditure incurred on the transformation or processing of the relevant goods or materials, with the exception of certain expenditure found in multistage production processes (discussed in paragraphs 24 and 26 of this Ruling).
+12. This character concerns expenditure incurred in acquiring or producing goods or materials which have been 'transformed or processed during R&D activities in producing one or more tangible products (the
+feedstock outputs)
+', as indicated by the concluding words of the first condition. The fact that the expenditure must be of this character and have resulted in tangible products being produced is an important part of the first condition. If this precondition is not met then a feedstock adjustment will not happen.
+13. The words 'expenditure ... in acquiring or producing goods, or materials', as a composite phrase, must be given a meaning as a whole, whereby 'the significance of individual words is affected by other words and the syntax of the whole'.
+[12]
+The meaning of this composite phrase is also heavily governed by the character of the expenditure the phrase identifies; that is, expenditure resulting in the R&D entity having been able to acquire or produce goods or materials that have been processed or transformed.
+14. In relation to the composite phrase, the word 'in' is sometimes used in a narrow sense, as meaning 'directly in'. Depending on the context in which it is used, it can also have a broader meaning, as meaning 'in the course of', or 'in connection with',
+[13]
+or 'in the process or act of'.
+[14]
+15. The word 'acquired' has been held to be one with a wide range of possible applications. It is not restricted only to situations where what has been acquired is legal title.
+[15]
+In its ordinary sense it can simply refer to 'come into possession of'.
+[16]
+The act of acquiring something according to this meaning could involve some length of time and a number of steps. In paragraph 355-465(1)(a) however, the word 'acquiring' refers to possession of a type allowing what is acquired to be transformed or processed at some point. In this context it does not matter whether, for example, legal title is obtained before or after possession occurs.
+16. The word 'producing', in its ordinary sense, can mean bringing something forth or into existence, often from raw materials or constituent elements
+[17]
+and regardless of whether that production was intended. It can refer to both an assembly stage and a transportation stage.
+[18]
+The ordinary meaning of 'a production process' is 'the creation or manufacture by a series of operations of some marketable commodity'.
+[19]
+17. The broad character of the expenditure that paragraph 355-465(1)(a) refers to, as indicated by the wide meanings of 'acquiring' and 'producing', support a broader meaning of 'in', as meaning 'in the course of', or 'in connection with', or 'in the process or act of'.
+18. However, subject to paragraphs 23 to 28 of this Ruling, the first condition does not apply to expenditure on the transformation or processing activities themselves. This limitation is consistent with the fact that where section 355-465 intends to bring such expenditure into the calculation of a feedstock adjustment it does so expressly; and then only where it is incurred on energy input directly into transformation or processing; see subparagraph 355-465(1)(b)(ii). This limitation also applies to expenditure on goods and materials which are merely acquired or created to subject other goods and materials to transformation or processing during R&D activities.
+[19A]
+Such items represent a cost of the process of transforming or processing other goods or materials, rather than something to be transformed or processed in their own right.
+18A. It is noted that there is an inherent link between feedstock inputs and feedstock outputs. This relationship is reflected in the distinction between:
+•
+those goods or materials which
+are themselves
+transformed or processed during R&D activities, and
+•
+those which are merely acquired or produced to subject
+other
+goods or materials to transformation or processing during such activities.
+18B. In this context, a feedstock input will
+itself
+be transformed or processed where it continues to exist, in some form, in the output being produced. The provisions necessarily contemplate that inputs will be transformed or processed during R&D activities. Therefore, it is not a requirement that the feedstock input exist in the feedstock output in its original form. Nor is it a requirement that
+all
+of the feedstock input form part of the feedstock output. Once it is identified that the feedstock input continues to exist in the output being produced, other than in the form of a trace amount or as unwanted residue
+[19B]
+, the full amount of the expenditure on the feedstock input is feedstock input expenditure. This is the case, even though part of the feedstock input may not be present in the feedstock output.
+18C. In contrast, a feedstock input will not
+itself
+be transformed or processed where it does not exist (in any form) as part of the output, or is only present in that output in trace amounts or as unwanted residue.
+19. The phrase 'expenditure ... in acquiring or producing goods, or materials' in paragraph 355-465(1)(a) refers to all expenditure incurred in the course of, or in connection with, or in the process or act of, acquiring or producing feedstock inputs. They are an important part of the first condition for a feedstock adjustment, and describe all types of expenditure incurred by an R&D entity in bringing the relevant goods or materials to a state where they can begin to be transformed or processed during R&D activities.
+20. Whether or not particular expenditure comes within the first condition is determined also by the facts and circumstances concerning the relationship between the R&D activities and the R&D entity's production process. The following is premised on there being a close connection between the acquisition or production of the goods or materials in question and their subsequent use in these R&D activities and this production process.
+21. So, for example, expenditure incurred directly in producing a feedstock input, such as direct labour and material costs, is expenditure meeting the first condition. Expenditure incurred in connection with the production of a feedstock input, such as the costs of transporting it to a place where production, or transformation or processing, can occur, also comes within the first condition.
+22. Other amounts incurred to bring a feedstock input to a state where it can begin to be transformed or processed, such as insurance for it while in transit, and administrative costs associated with transporting and inspecting it, are also within the first condition. This applies whether or not the expenditure is incurred merely in acquiring the feedstock inputs or is incurred as part of the process of producing them.
+Multi-stage production processes
+23. The first and second conditions draw a clear distinction between expenditure associated with the acquisition or production of feedstock inputs, and expenditure on the transformation or processing of those inputs. Expenditure associated with the acquisition or production of feedstock inputs is relevant to the calculation of a feedstock adjustment whereas expenditure on the transformation or processing is not relevant.
+24. An exception to this is provided by subparagraph 355-465(1)(b)(ii). This subparagraph specifically includes expenditure incurred 'on any energy input directly into the transformation or processing' which an R&D entity has been able to notionally deduct.
+25. Notional deductions for this type of expenditure can come within the calculation of a feedstock adjustment, where paragraph 355-465(2)(b) applies. This is where the total relevant notional deductions are less than the feedstock revenue for the feedstock output in question.
+26. Another exception, where the costs of the transformation or processing of feedstock inputs may be relevant to the calculation of a feedstock adjustment, occurs where those costs are incurred in the production of an output which in turn becomes a feedstock input
+[20]
+in relation to some other R&D activities.
+[21]
+Those costs fall within the description of expenditure 'in producing' that second category of feedstock input.
+[22]
+27. This is not restricted only to the case of sequential R&D activities which are associated with the production of a feedstock input. It will apply any time the relevant feedstock input is an ultimate output from a number of different production stages.
+28. In such cases it will be the total amount of expenditure on all of those production stages, as also represented in amounts that the R&D entity has been able to notionally deduct, which will come within the second condition.
+The feedstock trigger conditions: meaning of 'transformed feedstock output' - paragraph 355-465(1)(c)
+[23]
+29. The feedstock trigger conditions set out in paragraph 355-465(1)(c) apply whenever a 'feedstock output' or a 'transformed feedstock output' is either:
+(i)
+supplied by the R&D entity to another entity; or
+(ii)
+applied by the R&D entity to the R&D entity's own use, other than use for the purpose of transforming that product for supply.
+30. The meaning of 'feedstock output' flows from paragraph 355-465(1)(a), where it is the label used to refer to the tangible product obtained from an intersection of R&D activities and other activities which produce that product. The term 'transformed feedstock output' is not defined, and so, its meaning is determined by the context of subsection 355-465(1) and its purpose in Subdivision 355-H.
+31. In this context 'transformed feedstock output' is, along with 'feedstock output', a product described by the label 'marketable product', capable of being one to which either of the feedstock trigger conditions can apply, that is, it is a product which can be supplied to another entity, or applied to the R&D entity's own use.
+32. The word 'transformed' is used here, according to its ordinary meaning.
+[24]
+The juxtaposition of the two terms 'feedstock output', and 'transformed feedstock output' suggest both that there is a difference between them, as well as a particular association.
+33. That association is found in the R&D entity's production process, an examination of which will demonstrate in a rational and coherent way how production of a particular feedstock output is linked to the production of a particular marketable product.
+34. Where this marketable product results from transforming an associated feedstock output, so that a new and different product emerges, with a different appearance, condition, nature or character, that marketable product will be a 'transformed feedstock output'.
+35. No bar to a feedstock adjustment therefore arises merely because a particular transformed feedstock output has a totally different character from a feedstock output it is associated with, in the manner described above.
+The feedstock trigger conditions: meaning of 'applied to the R&D entity's own use', and 'other than use for the purpose of transforming that product for supply' - subparagraph 355-465(1)(c)(ii)
+[25]
+36. The phrase 'applied ... to the R&D entity's own use' appears in subparagraph 355-465(1)(c)(ii). It refers to the use of a marketable product, and is an alternative trigger to that where a marketable product has been 'supplied by the R&D entity to another entity' (see subparagraph 355-465(1)(c)(i)).
+37. The meaning of the phrase is guided by the history of its use in the former sales tax law. This history shows the phrase is of broad import and equivalent to 'employed for his own purposes'
+(Max Factor & Company Inc v. FC of T (
+1971) 124 CLR 353 at 362).
+38. However, it refers to actual use, and is not satisfied in the case where a product has been produced and is merely being held for supply to someone else at a later time
+(FC of T v. Stewart (
+1984) 154 CLR 385; (1984) 15 ATR 387; 84 ATC 4146; [1984] HCA 11).
+39. An example of a marketable product being applied by an R&D entity to its own use is where it has produced a tangible depreciating asset that it then uses in its operations.
+[26]
+It is only the first time that such use occurs however that can trigger a feedstock adjustment
+[27]
+(see paragraph 355-465(3)(b)).
+[28]
+Meaning of 'other than use for the purpose of transforming that product for supply'
+40. There is an exception to the application to own use feedstock trigger condition, where the R&D entity uses the marketable product 'for the purpose of transforming that product for supply'.
+41. Not all actual use of a feedstock output or a transformed feedstock output in a further stage of a production process will be for this purpose. It is only actual use in which a new and different product is produced with some relevant change in appearance, condition, nature or character, when compared to the product considered to have been transformed, which comes within the exception.
+42. If there is actual use of a feedstock output or a transformed feedstock output in a further stage of the production process (but that does not involve any transformation), then a feedstock adjustment is triggered the first time that use occurs.
+[29]
+This is the case whether an associated final product is supplied to another entity at a later time, or whether the actual use involves the feedstock output or transformed feedstock output being consumed, and not transformed for supply, in that further stage. The term 'consumed' here refers to the feedstock output ceasing to exist, and, hence, not capable of becoming a transformed feedstock output.
+43. For example, there might be further steps in a production process requiring actual use of a feedstock output or transformed feedstock output in order to progress to the stage where a final product can be supplied to another entity, but those further steps have not involved that feedstock output or transformed feedstock output being transformed. This use will not be covered by the exception in subparagraph 355-465(1)(c)(ii), and a feedstock adjustment will be triggered the first time this use occurs.
+Calculating the feedstock adjustment
+Determining which of the two amounts referred to in subsection 355-465(2) is the 'lesser'
+[30]
+44. The calculation under subsection 355-465(2) of the amount to be included in the assessable income of an R&D entity requires a comparison between two amounts and an identification of the 'lesser'. The two amounts are:
+(a)
+the feedstock revenue for the feedstock output; and
+(b)
+so much of the total of the amounts deducted as described in paragraph (1)(b) that is reasonably attributable to the production of the feedstock output.
+[31]
+45. The R&D entity need not calculate each of these amounts precisely, if on the balance of probabilities it is evident that one of them is clearly the 'lesser' one. The burden of showing on the balance of probabilities which particular amount is clearly the lesser one can be discharged by drawing a proper inference to this effect from the evidence of the relevant circumstances (see Gibbs J in
+McCormack v. FC of T (
+1979) 143 CLR 284 at 303).
+46. However, the relevant circumstance may either show one amount is clearly less than the other, or that the difference between the two amounts in question is such that in the absence of calculating both, all that can be done is estimate which seems more likely to be the lesser. For a proper inference to be drawn that one amount is the lesser, the evidence must form a reasonable basis for a definite conclusion on this question. There must be a fact, or facts, which positively suggests that a specific state of affairs existed so as to draw that conclusion.
+[32]
+Mere conjecture, or guessing, will not be sufficient.
+47. Thus, it might be shown, for example, that the proper inference is that the feedstock revenue for the relevant feedstock outputs is clearly less than the relevant notional deductions, based on the R&D entity's contemporaneous records concerning such things as:
+•
+the nature of the relevant R&D activities, including their impact on the market value of the feedstock outputs; and
+•
+the circumstances surrounding the production of those outputs, for example, that it was a lengthy and costly process with relatively high unit costs involved.
+48. Similarly, showing that the relevant notional deductions, as a matter of proper inference, clearly represent the lesser amount, might also be demonstrated based on the same or similar matters. For example, in the case of R&D activities aimed at improving a particular production process for an intrinsically high value output, it might be able to be shown that the proper inference is that these activities have not materially adversely affected that value, and that the relevant notional deductions are clearly less than the market value for the feedstock outputs produced from those activities.
+49. Once one of the two amounts referred to in subsection 355-465(2) has been determined to be the lesser amount, then it must be calculated with as much precision as is reasonably practicable in the circumstances. What is reasonably practicable will depend on the type and extent of cost allocation and determination of market value for the purposes of paragraph 355-465(2)(a), or of the reasonable attribution of notional deductions required under paragraph 355-465(2)(b).
+When notionally deducted amounts are 'reasonably attributable' to the production of the feedstock output - paragraph 355-465(2)(b)
+[33]
+50. If the conditions for a feedstock adjustment are met for one or more feedstock outputs, and subsection 355-465(3) does not apply, it is necessary to determine which of the two amounts to which subsection 355-465(2) refers is the lesser one. This involves calculating how much of the relevant amounts, which have been notionally deducted under paragraph 355-465(1)(b), are 'reasonably attributable' to the production of the relevant feedstock output(s).
+51. The process of determining a reasonable attribution is similar to that for a reasonable estimate. There will be the forming of an opinion or judgment based on reason, made in good faith and not merely involving some arbitrary method that ignores the individual circumstances in the case in question.
+52. In simple cases, where the circumstances surrounding this production, and the record keeping methods employed, allow precise identification of both the total notional deductions in question and the number of feedstock output(s) produced from the R&D activities to which those notional deductions relate, the attribution of these notional deductions to the relevant feedstock outputs
+[34]
+can proceed accurately and reasonably.
+53. For example, where an R&D entity produces 100 feedstock outputs that are substantially identical, from a single production run, during a discrete set of R&D activities, then a uniform attribution of the notional deductions across those outputs would be reasonable. Thus, where the notional deductions are $20,000 and for the income year in question, 30 of the outputs are supplied to another entity (and hence trigger a feedstock adjustment), then $6,000 (that is, 30/100 x $20,000) is the amount of the notional deductions 'reasonably attributed' to the number of feedstock outputs to which the feedstock trigger condition applies.
+54. In more complex cases, where this type of uniformity is not present, what will represent a reasonable attribution will depend on the circumstances surrounding the production and the attribution method chosen. These sorts of cases may also involve the attribution of indirect amounts associated with the production of a number of different types of outputs, which cannot be separately identified in relation to the accounting methods used to record those indirect amounts.
+55. Attribution methods that ignore clear differences across different production runs, in relation to different types of feedstock outputs, typically will not produce a reasonable attribution.
+56. For example, say an R&D entity produces two different types of feedstock output where the following circumstances exist.
+Output type 1
+Output type 2
+Total
+Notional deductions
+$100,000
+$500,000
+$600,000
+Number produced
+4
+2
+6
+Number sold (subject to a feedstock adjustment)
+1
+1
+2
+57. If a uniform attribution were applied across the total notional deductions it would attribute $200,000 (that is, 2/6 x $600,000) to the production of the feedstock outputs for which a feedstock trigger condition is met. This is because only the figures in the last column are used.
+58. If the two different types of outputs are considered separately however, then the attribution would be:
+-
+for output type 1, 1/4 x $100,000 = $25,000; and
+-
+for output type 2, 1/2 x $500,000 = $250,000,
+or $275,000 in total, to the production of the relevant feedstock outputs, the supply of which triggers a feedstock adjustment.
+59. There is a material difference between the results produced by the two different attribution methods, indicating that the latter method, which takes account of the difference in unit costs, for the two different types of output, is a reasonable method, whereas the former method, which ignores this difference, is not.
+When can multiple feedstock outputs be treated in practice as a single output, under subsection 355-465(2)?
+[35]
+60. The Note
+[36]
+to subsection 355-465(2) provides that a feedstock adjustment calculation should be performed for each and every feedstock output for which a feedstock trigger condition is met.
+61. How an R&D entity complies with this requirement will depend on the facts and circumstances in each case. However, the Explanatory Memorandum
+[37]
+to the Tax Laws Amendment (Research and Development) Bill 2010 ('the Explanatory Memorandum') recognises that in many situations the overall outcome is the same whether the calculation is performed separately in respect of a large number of identical or sufficiently similar feedstock outputs, or whether it is performed for an aggregation of those outputs.
+62. Whether that aggregation is appropriate or not depends on the same considerations as that applying to the basis of reasonable attribution (see paragraphs 50 to 59 of this Ruling). Where the outcome of a single calculation for such an aggregation differs materially from what would be reasonably expected to occur if the feedstock outputs were not aggregated it would be inappropriate to perform a single calculation.
+63. As with the basis of reasonable attribution (at paragraphs 50 to 59 of this Ruling), relevant factors include those to do with the extent to which circumstances differ across different production runs and R&D activities, and the extent to which different output types differ in terms of their unit cost and unit revenue.
+64. Where there is a material variation in the notional deductions properly referable to the individual units produced, or the feedstock revenue calculated, which would result in a materially different calculation of the feedstock adjustment for an aggregated calculation versus a calculation for each feedstock output the law requires that the feedstock adjustment be calculated in a way that the material difference is taken into account.
+65. The calculation of feedstock adjustments under subsection 355-465(2) involves looking at the respective values of the notional deductions reasonably attributable to the feedstock output in question, and the feedstock revenue for that output. As a result, the types of factors referred to above can mean that different production runs for what is otherwise the same or similar type of output(s), should be treated differently, rather than merely aggregating them, when applying subsection 355-465(2).
+66. Such outcomes are apt in the context of Subdivision 355-H. It is appropriate to recognise that differences in the level of technical risk applying across different sets of R&D activities can affect whether or not the feedstock revenue for outputs produced from those activities exceeds, or is less than, the relevant amount of notional deductions. Whether or not an R&D entity is able to show that these sorts of different outcomes have come about will depend on its record keeping methods.
+Calculating feedstock revenue under section 355-470: what is included in the 'cost of producing the feedstock output' and the 'cost of producing the marketable product'
+[38]
+67. In section 355-470 feedstock revenue is worked out by applying the proportion that the 'cost of producing the feedstock output' is to the 'cost of producing the marketable product', to the market value of that marketable product.
+68. The phrases 'cost of producing the feedstock output' and 'cost of producing the marketable product' are not defined. However, in the context of the calculation of feedstock revenue under section 355-470 they serve the purpose of fixing the amounts in the numerator and denominator, respectively, in the formula in this section.
+69. The purpose of this formula is to calculate an appropriate proportion of the market value of the relevant marketable product to be used in the calculation of a feedstock adjustment, rather than the whole of that market value.
+70. This context suggests a wide rather than a narrow or restrictive meaning is to be given to the phrases, 'cost of producing the feedstock output' and 'cost of producing the marketable product' in section 355-470. What is also important is that the same methodology be used for calculating the cost of producing the marketable product as for calculating the cost of producing the feedstock output.
+71. The methodology adopted will depend on what is reasonable and appropriate in the circumstances. In Australia, for example, Australian Accounting Standard AASB 102
+Inventories (
+AASB 102), requires that the cost of inventories (subject to some exceptions), for inventory valuation purposes, is the sum of all costs of purchase, costs of conversion, and other costs incurred in bringing the inventories in question to their present location and condition.
+[39]
+72. The reasoning in
+Philip Morris Ltd v. FC of T (
+1979) 38 FLR 383; 79 ATC 4352; (1979) 10 ATR 44
+(Philip Morris)
+adopted this approach when considering the meaning of 'cost price' of the taxpayer's trading stock taken into account at the end of a year of income under former section 31 of the ITAA 1936. In that case Jenkinson J said at FLR 393:
+The concept expressed by the words 'cost price' in s.31(1) in my opinion is, in its application to an article of trading stock manufactured by a taxpayer, directed to the ascertainment of the expenditure which has been incurred by the taxpayer in the course of his materials purchasing and manufacturing activities, to bring the article to the state in which it was when it became part of his trading stock on hand.
+73. The cost of producing the feedstock output as referred to in section 355-470 is unlikely to equal the expenditure described in paragraph 355-465(2)(b). The cost of producing the feedstock output is not limited to the notionally deducted amounts described in paragraph 355-465(1)(b) that are reasonably attributable to the production of the feedstock output. In most cases, the costs of producing the feedstock output will be greater than the expenditure referred to in paragraph 355-465(2)(b). The cost of producing the feedstock output would include all costs as determined by appropriate accounting absorption costing methodology. The same point applies to determining the cost of producing the marketable product.
+74. However, in some instances it may not be possible or practicable to calculate these 'cost' amounts with absolute precision. The purpose of section 355-470 is to allocate the market value of the marketable product between the R&D activities that resulted in the production of an associated feedstock output and the non-R&D activities that were undertaken in developing the marketable product, where the identity of the two differs.
+75. Methods of calculating the cost of producing the feedstock output and the cost of producing the marketable product which rely on approximation will be acceptable as long as they can be shown to achieve this purpose. In all cases however, such methods should be the same as those used in the R&D entity's ordinary cost accounting systems, and be based on the same type of 'systematic allocation', and allocation between products on a 'rational and consistent basis' to which AASB 102 refers.
+'Cost of producing the feedstock output' up to the end of the associated R&D activities
+76. When used in the formula in section 355-470, the expression 'cost of producing the feedstock output' means only those production costs attributable to producing the feedstock output up to the end of the R&D activities identified under paragraph 355-465(1)(a) as associated with that production.
+[40]
+Examples
+77. In the following examples there are some references to amounts being incurred on particular R&D activities. These are not to be taken as definitive statements that the activities in question qualify as 'R&D activities' for the purposes of Division 355.
+[41]
+Example 1 - reasonable attribution
+78.
+Chocca Chocolate Pty Ltd (Chocca) is an R&D entity and undertakes R&D activities in its production, resulting in the production of 500 tangible products, which fall into three distinct groups:
+•
+300 successful products. These were supplied during the income year for $15 each; that is, for $4,500 in total;
+•
+150 faulty products. These were inedible and had to be thrown away; and
+•
+50 products supplied as 'factory seconds' during the income year for $10 each; that is, for $500 in total.
+79.
+Although these production activities were affected by the R&D activities, which caused the quality of the products to vary, Chocca's contemporaneous records for this production do not show there was any material variation in the expenditure incurred on producing the three distinct groups of products. All of these products qualify as both feedstock outputs and marketable products for the purposes of Subdivision 355-H.
+80.
+Chocca incurred $3,000 on producing the goods, or materials transformed or processed during the R&D activities, and $1,000 on energy directly input into the transformation or processing. It has notional deductions of $4,000 under section 355-205. As Chocca has made sales of marketable products in relation to these notional deductions, a feedstock adjustment is required. This will call for these notional deductions to be reasonably attributed under paragraph 355-465(2)(b) across all of the feedstock outputs connected to the relevant marketable products.
+81.
+One option available to Chocca in attributing the notional deductions in question is to use the revenue derived from each of the three distinct product groups as a basis. However, its records do not show the relevant circumstances of the production of any one group of products meant incurring any more or less expenditure, when compared to the other groups.
+82.
+Chocca concludes that a uniform allocation of the notional deductions in question will be a reasonable attribution of them. This means the total of these notional deductions ($3,000
++ $
+1,000) of $4,000 is evenly attributed to the production of each of the 500 feedstock outputs in question.
+Example 2 - calculating the feedstock adjustment
+83.
+Using the figures from Example 1, while subsection 355-465(2) requires a feedstock adjustment calculation to be made for each of the feedstock outputs produced, it is recognised that the overall outcome would be the same based on the facts that obvious groupings of feedstock outputs can be aggregated. Specifically, the three distinct product groups can effectively be reduced to only two, for the purposes of calculating the necessary feedstock adjustments, as seen from the table below.
+Product group
+Successful
+'factory seconds'
+Faulty
+Total
+No. units produced
+300
+50
+150
+500
+(a) Attribution of notional deductions [based on $8 per unit]
+$2,400
+$400
+$1,200
+$4,000
+(b) Revenue
+$4,500
+$500
+nil
+$5,000
+Lesser of (a) and (b) amounts
+$2,400
+$400
+nil
+$2,800
+Feedstock adjustment (lesser amount divided by 3)
+$800
+$133
+nil
+$933
+84.
+For the first two product categories above, the lesser amount for each one is the amount of the notional deductions reasonably attributable to their production. The overall outcome of calculating the feedstock adjustment for all of the feedstock outputs in these categories is the same whether or not a separate calculation is performed for each, or the calculation is done on an aggregated basis.
+85.
+For units in the last category, which were all discarded, the feedstock revenue is clearly the lesser amount.
+[42]
+A separate calculation of the feedstock adjustment for each of the feedstock outputs in this category is also not required, and when done on an aggregated basis, shows that no feedstock adjustment is required in relation to all of the feedstock outputs in this category.
+Example 3 - calculation of feedstock adjustment/calculation of feedstock revenue
+86.
+Plastique Co (Plastique) produces a range of plastic products. It carries out R&D activities to improve the performance of some of the components of these products. One particular component is common to all of its marketable products.
+87.
+Plastique incurs expenditure on producing feedstock inputs which it transforms during registered R&D activities in producing an improved version of this particular component. The improved components are added to the stock on hand of components but Plastique's ordinary accounting system does not allow it to track precisely which of the improved components are then used in the manufacture of the various types of marketable products it sells to its customers.
+88.
+Plastique has the following notional deductions in relation to these R&D activities, which fall within the first and second conditions in subsection 355-465(1):
+Expenditure in producing feedstock inputs
+$100,000
+Expenditure on direct energy
+$10,000
+Decline in value of assets used in producing feedstock inputs
+$2,000
+Total
+$112,000
+89.
+Contemporaneous records of the R&D activities also show that these activities added considerably to the length and cost of the production of the improved components, being the relevant feedstock outputs for the purposes of Subdivision 355-H. In fact, Plastique abandoned the new processes to produce these components once it determined the costs far exceeded the benefits from using them.
+90.
+Although its records allow Plastique to calculate it produced 20,000 feedstock outputs from the relevant R&D activities, it is not able to calculate precisely how many of them were then used in making various marketable products, compared to equivalent outputs not produced from any R&D activities.
+91.
+The records do show however, that the stock of these components turns over completely on average about every 60 days. Matching this fact to the length of time over which the relevant R&D activities were carried out, and adopting a first-in first-out approach to the turnover, shows that a reasonable approximation is that 8,000 feedstock outputs of this type have subsequently been transformed in producing 4,000 marketable products sold during the income year in which the notional deductions arose.
+92.
+The 4,000 marketable products were sold for $10 each, or $40,000 in total, in arm's length transactions. In the circumstances the market value of each marketable product is $10.
+93.
+It is clear that Plastique is required to make a feedstock adjustment for the income years in which sales of these marketable products occur (that is, when a feedstock trigger condition is met).
+94.
+For the first of these income years Plastique's first step is to work out the extent to which the relevant notional deductions are reasonably attributable to the production in this year of the 8,000 feedstock outputs (being the number of such outputs out of the total of 20,000 produced from the R&D activities in question, subject to a feedstock adjustment for this year).
+95.
+Records of the relevant R&D activities show that although the production process was relatively lengthy and costly, no part of that process could be identified as causing any material variation in the extent to which the expenditure in question was incurred or the extent to which the relevant assets were used in producing the feedstock outputs.
+Reasonably attributed notional deductions - first year
+96.
+Plastique concludes that a uniform allocation of attribution is reasonable, that is, of the total of the relevant notional deductions, $112,000 x 8,000/20,000 = $44,800, is a reasonable attribution for the purposes of paragraph 355-465(2)(b). This represents the extent to which the relevant notional deductions are reasonably attributable to the production of the 8,000 feedstock outputs, the sale of their associated marketable products which has then triggered a feedstock adjustment for the first income year in question.
+Calculating feedstock revenue
+97.
+Plastique then contrasts this amount with the total market value of the 4,000 marketable products, of $40,000, as the next step in determining for the purposes of subsection 355-465(2) which is the 'lesser' amount for the first income year.
+98.
+It is clear that even if the formula in section 355-470 showed 100 per cent of this market value was the appropriate amount of feedstock revenue, it would still be less than the amount of reasonably attributable notional deductions of $44,800. Experience and analysis tells Plastique that the cost of producing the feedstock outputs has been around 60.45% of the overall cost of producing the associated marketable products.
+99.
+Plastique concludes that in order to apply subsection 355-465(2) for the first income year it will need to calculate the feedstock revenue for the 8,000 feedstock outputs, as this will produce the 'lesser' amount. It also knows that the ratio of the cost of producing these outputs compared to the cost of producing the associated marketable products will have increased since its last analysis, as these feedstock outputs were more costly to produce due to various difficulties encountered in doing the R&D activities in question.
+100.
+Plastique's ordinary accounting system does not allow it to calculate this ratio with absolute precision. However, using a rational and systematic allocation of costs absorbed in the production of both the feedstock outputs and the marketable products, coupled with reliable sampling techniques, produces a ratio of the cost of producing the feedstock outputs to the cost of producing the marketable products of 70.23%.
+Calculating the feedstock adjustment
+101.
+This means the feedstock revenue for these feedstock outputs is $40,000 x 70.23% = $28,092. Plastique calculates the amount it needs to include in its assessable income under subsection 355-465(2) for the first of the relevant income years is therefore:
+$28,092 x 1/3 = $9,364.
+Example 4 - multistage production process and supply to associated company
+102.
+Douglas Ore Pty Ltd (Douglas) mines a range of ores and processes those ores through various stages until a concentrate is produced. This concentrate is supplied to entities not connected with Douglas, as well as to Global Smelters Ltd (Global), an entity Douglas is connected with for the purposes of paragraph 355-475(a).
+103.
+The production process involves ten different stages. Stages 9 and 10 involve the use of a machine to thicken the concentrate ('the concentrate thickener'), and the use of a pressure filter before transporting the concentrate to a stockpile.
+104.
+During Stages 9 and 10 Douglas carries out certain R&D activities to test the performance of a new concentrate thickener it has designed and constructed. These activities require testing over 6 months.
+105.
+Douglas registers the activities concerning operating and testing the new concentrate thickener for this period. It considers whether it should also register the earlier stages involving the extraction and crushing, grinding, and other processes necessary to get the processed ore to a state in which it can be put through the concentrate thickener, on the basis that the activities in these earlier stages might qualify as 'supporting R&D activities'. There are questions however, whether these activities would qualify and Douglas decides not to register the activities in respect of the earlier stages.
+106.
+Douglas' expenditure for the earlier stages results in a concentrate which is processed during the R&D activities in Stages 9 and 10, that is, during those R&D activities which have been registered. This expenditure therefore falls within the first condition, as it qualifies as expenditure incurred in producing goods or materials (the concentrate) processed during R&D activities (by being fed through the concentrate thickener), in producing one or more tangible products (the thickened concentrate transported to the concentrate stockpile).
+107.
+However, although this earlier stage expenditure falls within the first condition, the fact that it has been incurred on activities which have not been registered as R&D activities, means that Douglas does not have notional deductions for this expenditure under Division 355. Douglas does not obtain a tax offset under Division 355 for any deductions for this expenditure, and hence, the expenditure does not come within the second condition.
+108.
+The supply of concentrate from the stockpile to other entities triggers a feedstock adjustment. Douglas' records show that the market value of the concentrate supplied far exceeds its notional deductions for the 6 months of operating and testing the concentrate thickener, which fall within the second condition, and so its feedstock adjustment is calculated as one third of these notional deductions.
+109.
+If Douglas had registered the earlier stages as R&D activities, but had not calculated its notional deductions for its expenditure on these stages, it would still have to consider the effect of section 355-715.
+This section provides that if an R&D entity clearly can notionally deduct expenditure under the relevant provisions of Division 355, then it cannot also deduct that expenditure under some other provision, such as section 8-1.
+110.
+As Douglas has not registered the earlier stage activities however, it has no entitlement under Division 355 to notional deductions for any expenditure on these stages, and therefore, this expenditure is not affected by section 355-715.
+111.
+Douglas claims this expenditure under section 8-1 as a general deduction.
+112.
+The concentrate that Douglas supplies to Global at a mark-up, is processed during R&D activities conducted by Global in one of its smelters. Global registered those activities and becomes entitled to deductions for expenditure in relation to the smelter trials. Global's expenditure which it has incurred to Douglas qualifies as expenditure in acquiring goods or materials transformed or processed during R&D activities in producing tangible products from the smelter. Thus, this expenditure falls within the first condition, and to the extent Global obtains a tax offset for it, under Division 355, within the second condition also.
+113.
+However, it is the actual expenditure Global has incurred to Douglas which qualifies in this regard, and not Douglas' costs of producing the concentrate it supplies to Global.
+Example 5 - transformation of feedstock input forming part of tangible product
+113A.
+Copper Co Pty Ltd is an R&D entity that undertakes R&D activities in its copper refining process which results in the production of tangible products. As part of its R&D activities it acquires oxygen which is then used in the R&D activities where the oxygen reacts with copper sulphide and sulphur in the process to create copper and sulphur dioxide.
+113B.
+The sulphur dioxide comes off as a gas. The sulphur dioxide produced is collected and delivered to a third party to be used for that third party's commercial purposes. It is a product. Oxygen forms part of that product. Accordingly the expenditure on the acquisition of oxygen used in these R&D activities is incurred in acquiring goods transformed or processed by the Copper Co during R&D activities in producing a tangible output, the sulphur dioxide. It does not matter that only part of the oxygen input into the process forms part of the new product, or that the oxygen now exists in the form of sulphur dioxide.
+[42A]
+Example 6 - feedstock input not part of tangible product
+113C.
+Zinc Co Pty Ltd is an R&D entity that undertakes R&D activities in its zinc refining process, resulting in the production of zinc concentrate.
+113D.
+Part of this process involves floating unrefined zinc in water, and later adding flocculants to bring the zinc particles together. The flocculants remain in the concentrate but naturally decompose once it dries. Therefore, they are not part of Zinc Co's feedstock output.
+113E.
+Zinc Co also uses explosives, compressed air, lubricants, anti-scalant, welding gases and batteries as part of the zinc concentration process. These materials do not form any part of the zinc concentrate produced and are not therefore transformed or processed into outputs for the purposes of the feedstock provisions.
+[42B]
+Date of effect
+114. This Ruling applies to years of income commencing both before and after its date of issue. This is subject to the necessary qualification that Subdivision 355-H and Division 355 can only apply to assessments for income years commencing on or after 1 July 2011. However, the Ruling will not apply to taxpayers to the extent that it conflicts with the terms of any settlement of a dispute agreed to before the date of issue of the Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+Commissioner of Taxation
+20 February 2013
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Interpretation of Division 355 generally, and Subdivision 355-H specifically
+115. The object of Division 355 is stated to be:
+[43]
+To encourage industry to conduct research and development activities that might otherwise not be conducted because of an uncertain return from the activities, in cases where knowledge gained is likely to benefit the wider Australian economy.
+The object is to be achieved by providing a tax incentive for industry to conduct, in a scientific way, experimental activities for the purpose of generating new knowledge or information in either a general or applied form (including new knowledge in the form of new or improved materials, products, devices, processes or services).
+116. The 'tax incentive' referred to is the tax offset an R&D entity may be able to claim under section 355-100.
+117. The fact that the overall object of Division 355 is to encourage the carrying out of R&D activities does not detract from the object of Subdivision 355-H, namely to reduce the economic impact of granting a tax offset under Division 355 in particular situations.
+118. This is clearly expressed in paragraphs 3.142 and 3.143 of the Explanatory Memorandum, which are set out in full in paragraph 166 of this Ruling.
+119. The starting point in interpreting Subdivision 355-H is the text of its provisions within the context in which that text appears and within the general purpose and policy of those provisions.
+[44]
+Legislative Scheme - Subdivision 355-H
+120. The operation of the key provisions in Subdivision 355-H is described in paragraphs 121 to 131 of this Ruling.
+The three conditions for a feedstock adjustment
+121. Subsection 355-465(1) describes the three conditions for a feedstock adjustment to arise in relation to each relevant 'feedstock output', being:
+•
+the first condition in paragraph 355-465(1)(a), to do with whether the R&D entity has incurred a particular type of expenditure;
+•
+the second condition in paragraph 355-465(1)(b), to do with whether the R&D entity has obtained a tax offset under section 355-100 for certain notional deductions connected to the first condition; and
+•
+the feedstock trigger conditions in paragraph 355-465(1)(c), to do with whether the R&D entity has supplied a 'marketable product' to another entity, or applied it to its own use (other than in transforming it for supply).
+How to calculate the feedstock adjustment
+122. Subsection 355-465(2) sets out the basis of the calculation of that feedstock adjustment, as one third (1/3) of the lesser of:
+(a)
+the feedstock revenue for the relevant feedstock output; and
+(b)
+so much of the relevant notionally deductible amounts as are 'reasonably attributable to the production of the feedstock output'.
+Exceptions
+123. Subsection 355-465(3) sets out two circumstances in which a feedstock adjustment is not required:
+•
+where the relevant feedstock output becomes, or is transformed into, a feedstock input (see paragraph 355-465(3)(a)), and
+•
+a 'once-only rule' that prevents multiple feedstock adjustments where a feedstock trigger condition has already been met for a particular feedstock output (see paragraph 355-465(3)(b)).
+How to calculate feedstock revenue
+124. Section 355-470 sets out the formula for calculating feedstock revenue, based on an appropriate proportion of the market value of the marketable product that is the product to which one of the two feedstock trigger conditions applies. The marketable product may be the same product as the feedstock output produced from the R&D activities in question. However, there may be costs of producing that marketable product incurred after those R&D activities have ended, which will mean the costs of producing the marketable product exceed the costs of producing the feedstock output for the purposes of section 355-470 (refer to paragraphs 73 and 76, and footnote 40 of this Ruling). In such cases the formula in section 355-470 will apply to mean only the appropriate proportion of the market value of the marketable product is used in working out the feedstock revenue for the feedstock output, and used in calculating the amount of the feedstock adjustment under subsection 355-465(2).
+Connected entities and affiliates
+125. Section 355-475 applies to the operation of the feedstock trigger conditions and caters for arrangements between the R&D entity and entities connected with it, affiliates of the R&D entity, or entities of which the R&D entity is an affiliate. If any of these other entities have supplied or used a relevant marketable product Subdivision 355-H applies as if that supply or use were by the R&D entity.
+The feedstock trigger conditions
+126. A feedstock trigger condition is met where either:
+(a)
+the marketable product is supplied by the R&D entity to another entity; or
+(b)
+the marketable product is applied by the R&D entity to its own use, other than for the purpose of transforming that product for supply.
+127. The definition of supplied which applies here is the broad one found in section 9-10 of the
+A New Tax System (Goods and Services Tax) Act 1999 (
+refer to subsection 995-1(1) of the ITAA 1997 definition of supply).
+'Marketable product', 'feedstock output' and 'transformed feedstock output'
+128. The term 'marketable product' as used in paragraph 355-465(1)(c) and section 355-470 is a statutory label and refers to either a 'feedstock output', or a 'transformed feedstock output', as indicated by the opening words of paragraph 355-465(1)(c). 'Feedstock outputs' are those tangible products produced during the transformation or processing of the feedstock inputs during the R&D activities in question (see paragraph 355-465(1)(a)).
+129. The term 'transformed feedstock output' is not defined. However, in the context of Subdivision 355-H it refers to those feedstock outputs produced from particular R&D activities which have been transformed outside of the R&D activities in order to be able to be supplied to another entity, or applied to the R&D entity's own use (see further paragraphs 177 to 187 of this Ruling).
+130. Where the production of a marketable product has coincided with the claiming of notional deductions under Division 355 in the way subsections 355-465(1) and 355-465(2) refer, and the feedstock revenue for the feedstock output associated with that marketable product is less than the relevant notional deductions, then the feedstock adjustment is calculated as one third (1/3) of that feedstock revenue. Otherwise, the feedstock adjustment is calculated as one third (1/3) of those relevant notional deductions.
+131. The following features of Subdivision 355-H are also worth emphasising in relation to the overall context and purpose of its provisions:
+•
+producing a feedstock output, or an associated transformed feedstock output, can lead to only one feedstock adjustment (this occurs chiefly because of the interaction between the various exceptions described in paragraph 123 of this Ruling);
+[45]
+•
+feedstock adjustments are not confined to 'mass production activities', a feedstock adjustment can arise even where there is only the one tangible product produced;
+[46]
+•
+where multiple feedstock outputs have been produced, and meet one of the feedstock trigger conditions at different times, a feedstock adjustment calculation is required for each one; and this may give rise to an assessable amount in a later income year than the one in which the associated amounts are notionally deducted;
+[47]
+and
+•
+where a feedstock output from one R&D activity becomes or is transformed into a feedstock input to a subsequent R&D activity, no feedstock adjustment arises at that point - only to the marketable product 'from the final R&D activity in the chain'.
+[48]
+Conditions for a feedstock adjustment
+The first condition: meaning of 'expenditure ... in acquiring or producing goods, or materials' - paragraph 355-465(1)(a)
+132. Subdivision 355-H provides that a feedstock adjustment will arise where the three conditions set out in subsection 355-465(1) are met. These are expressed as:
+•
+the first condition:
+the R&D entity incurs
+expenditure in one or more income years in acquiring or producing goods, or materials (the
+feedstock inputs),
+transformed or processed during R&D activities in producing one or more tangible products (the
+feedstock outputs);
+[49]
+•
+the second condition:
+the R&D entity
+obtains under section 355-100 tax offsets for one or more income years for deductions under this Division [
+Division 355
+], (i) for the expenditure [
+in the first condition], or (ii)
+for expenditure incurred on energy input directly into the transformation or processing
+in question, or (iii)
+for the decline in value of assets used in acquiring or producing the feedstock inputs;
+[50]
+and
+•
+the feedstock trigger conditions:
+during the present year a marketable product is
+supplied by the R&D entity to another entity
+or is
+applied ... to the R&D entity's own use, other than for the purpose of transforming that product for supply.
+[51]
+133. The first condition requires consideration of the meaning of 'expenditure ... in acquiring or producing goods, or materials'. Neither this expression, nor any of the individual things it mentions, are defined.
+134. However, the words 'expenditure ... in acquiring or producing goods, or materials' form a composite phrase
+[52]
+in subsection 355-465(1):
+expenditure ... in acquiring or producing goods, or materials, transformed or processed during *R&D activities (the
+feedstock inputs)
+in producing one or more tangible products (the
+feedstock outputs).
+135. The words 'expenditure ... in acquiring or producing goods, or materials' have a meaning governed by the context of this composite phrase and its purpose in Subdivision 355-H, where that phrase describes expenditure of a particular character.
+136. This character concerns expenditure incurred in achieving the goal set out in the final part of the first condition. That goal is expressed as where the goods or materials to which the expenditure relates have been 'transformed or processed during R&D activities in producing one or more tangible products'.
+137. The meaning of 'expenditure ... in acquiring or producing goods, or materials' in this setting is governed by the context of the composite phrase in prescribing that the expenditure have the character referred to, and the purpose of the composite phrase in Subdivision 355-H. The phrase must be given a meaning as a whole, whereby 'the significance of individual words is affected by other words and the syntax of the whole'.
+[53]
+138. A starting point therefore is the ordinary meaning of the words in each component in paragraph 355-465(1)(a), that is of expenditure incurred in 'acquiring' feedstock inputs, and expenditure incurred in 'producing' feedstock inputs.
+The meaning of 'acquiring' and 'producing'
+139. In
+Allina Pty Ltd v. FC of T
+[54]
+the Full Federal Court considered the question of when a taxpayer could be said to have 'acquired' an asset from another person. The court said at FCR 209-210:
+The verb 'to acquire', according to its ordinary and natural meaning, connotes in our view to obtain, gain or get something. The first meaning given in the
+Oxford English Dictionary (
+2nd ed, 1989), is:
+'1. To gain, obtain or get as one's own, to gain the ownership of (by one's own exertions or qualities).'
+The second meaning is:
+'2. To receive, or get as one's own (without reference to the manner), to come into possession of.'
+The Macquarie Dictionary gives a similar definition. There must be something in existence that can be obtained or gained; but the word is apt to encompass the case where one person creates an asset which at the same time comes into the possession of or is obtained by another person.
+140. In
+Lock v. FC of T
+[55]
+Goldberg J referred to the same dictionary meaning in holding, for the purposes of the provision there in question, that:
+In the context in which it appears in s 66(1) and (3), the expression 'acquire' means 'obtain' or 'gain' or 'receive' and 'acquisition has a corresponding meaning. The expression 'acquire' is a word of common usage and does not have a technical meaning.
+141. In
+FC of T v. Suttons Motors (Chullora) Wholesale Pty Ltd
+[56]
+Bowen CJ said that the word 'acquired' had been held to have a wide range of possible applications, and was not restricted only to situations where what had been acquired was legal title.
+142. In
+GTK Trading Pty Ltd v. Export Development Grants Board
+[57]
+the Full Federal Court dealt with the question of whether live lobsters caught for the purpose of export overseas were 'produced' or 'processed' within the meaning of the
+Export Expansion Grants Act 1978.
+The court noted that the term 'produced' was not defined by that Act. The court said at 382:
+The other question is whether they are 'produced'. The
+Shorter Oxford Dictionary
+defines the verb 'produce' as 'to bring forth, bring into being or existence; to bring (a thing) into existence from its raw materials or elements; to give rise to, bring about, effect (an action, condition etc)'. In relation to an animal or plant, it defines it to mean 'to generate, bring forth, yield'.
+Webster
+includes in the definition of 'produce' the following meaning - 'to make economically valuable: to make or create so as to be available for satisfaction of human needs'.
+In the light of the
+Shorter Oxford
+definition, it is, in our opinion, appropriate to describe the act of catching the lobsters as bringing them forth or 'producing' them. We think it is also apt to describe the act of catching them together with what happens to them from the moment they are caught until they start their journey to Japan as 'producing' them.
+On the other hand, we have difficulty in describing what happens to them from the moment the applicant purchases them from fishermen until they leave on their journey as 'producing them'
+. Webster's
+definition 'to make economically valuable or to make so as to be available for satisfaction of human needs' is perhaps appropriate to describe what occurs at this stage. However, we do not think in ordinary parlance these actions could be described as the production of live lobsters. In our view their production involves their catching as well as the subsequent on-shore activity.
+143. In
+Faywin Investments Pty Ltd v. FC of T
+[58]
+Lockhart J dealt with various income tax provisions governing deductibility of moneys expended in producing a film, under former Division 10BA of the ITAA 1936. His Honour said at 607-608:
+Division 10BA is concerned to allow as a deduction expenses incurred in the process of the production of a film. What constitutes producing a film and hence the cost of producing a film must again be determined in the light of the facts of each case. The
+Oxford English Dictionary
+defines the verb 'produce', so far as relevant, as 'to bring into being or existence from its raw materials or elements, or as the result of a process - to compose or bring about by mental or physical labour (a work of literature or art); to work out from raw materials', and the noun 'production' is there defined as 'the action of or process of producing a stage play, film or other performance. Also the performance itself.'
+In Div 10BA, in particular s 124ZAF(1)(a), when talking of the cost of producing a film, the relevant elements of production of the film are all the steps in the process or processes of production of the film as a result of which the film is created. To produce the film is to bring it into existence from its constituent elements and as a result of the various processes whereby it is put together. It is the action or process of producing the film and all the ingredients involved in that.
+144. Later his Honour said at 608:
+The costs of producing a film for the purposes of s 124ZAF(1)(a) do not in my view extend beyond the costs involved in the processes or production of the film. Where the essential character of the expenses is concerned with the marketing of the film I doubt if they would be included, although, again, it must depend upon the facts of the case.
+145. The notion that producing something can often involve a number of steps was also adopted by the Full Federal Court in
+Frame Set & Match Pty Ltd v. FC of T,
+[59]
+when considering the operation of former Item 26(1) of the
+Sales Tax (Exemptions and Classifications) Act 1992.
+146. It is important to note that the word 'producing' appears twice in paragraph 355-465(1)(a). The first time it is used is in the alternative to 'acquiring', in relation to how the R&D entity has come to possess the feedstock inputs that have been 'transformed or processed during R&D activities'. The second time it is used is in describing an outcome of those R&D activities, specifically that they have been carried out not only to obtain the goals of the definitions of 'R&D activities',
+[60]
+but also 'in producing one or more tangible products (the feedstock outputs)'.
+147. The statutory scheme is one therefore that recognises that the R&D activities of an R&D entity may often intersect with its 'production process', using that latter expression in its ordinary sense.
+[61]
+The meaning of 'in'
+148. In
+FC of T v. Faywin Investments Pty Ltd,
+on appeal,
+[62]
+Hill J observed at 483:
+The word 'in' followed by a participle, may lend itself to either a broad or more restrictive interpretation, depending upon the context in which it is employed. That broader interpretation construes the word 'in' as meaning 'in the course of' or 'in connection with': see
+Pioneer Concrete (NSW) Pty Ltd v. Commissioner of Taxation (Cth) (
+1986) 85 FLR 315 at 321
+; Amalgamated Zinc (De Bavay's) Ltd v. Commissioner of Taxation (Cth) (
+1935) 54 CLR 295 at 309. The narrower interpretation construes the word 'in' as meaning 'directly in'.
+[63]
+149. The case of
+Pioneer Concrete (NSW) Pty Ltd v. FC of T
+[64]
+relevantly concerned the issue of whether a transit concrete mixer was 'for use exclusively or primarily or principally for business or industrial purposes in ... constructing ... buildings', within the meaning of Item 7(1) of the former
+Sales Tax (Exemptions and Classifications) Act 1935.
+Yeldham J said at 321:
+In my opinion the proper inquiry is whether the mixer is an apparatus used principally for industrial purposes in the course of the construction of a building. That question I would answer in the affirmative. The situation is precisely the same as if a concrete mixer had been used on site for the preparation of concrete for use in the building being erected upon that site. The critical inquiry is into the characteristic of the equipment. Here it is adapted to the construction of a building and that is the sole use to which it is put. In my opinion the word 'in' should be construed as meaning 'in the course of' or 'in connection with': see
+Amalgamated Zinc (De Bavay's) Ltd v Federal Commissioner of Taxation (
+1935) 54 CLR 295 at 309.
+150. In
+Chief Executive Officer of Customs v. Dyno Wesfarmers Ltd
+[65]
+the Full Federal Court considered the ambit of the expression 'in mining operations', as used in the diesel fuel rebate provisions of the
+Customs Act 1901.
+This occurred in relation to the question of whether such operations could be carried out somewhere else other than at the mining site.
+151. The company respondent was referred to as 'DWL', and produced and distributed explosives. In doing so it used special trucks called 'mobile manufacturing units', or 'MMUs' to manufacture and deliver explosives to mine sites in the Kalgoorlie area. This necessitated travelling lengthy distances between the base and the mining tenements. After discussing the role of the vehicles in question as it concerned the relevant mining operations, the court said at 5:
+In s 164(1)(a), the preposition 'in' is used to connect the words 'for use by him' with the term 'mining operations' so as to require the prospective use of the diesel to be use within the ambit of 'mining operations'. The
+Shorter Oxford English Dictionary
+uses the expression 'In the process or act of' to express the meaning of the word 'in' in such a context.
+152. Later, at 6 the court said:
+The issue whether an activity is an activity 'in mining' is essentially a question of fact unless as Kitto J pointed out in
+Blue-Metal Quarries,
+only one conclusion is reasonably open. The term 'mining' is not a narrow technical term, it is a wide term of ordinary parlance. Whether an activity is 'in mining' must depend very much upon what that activity is and how mining is carried out.
+153. The court at 7, rejected the argument that an operation 'in mining' can take place only on the mining site. They stated:
+When the issue is whether a particular operation is 'in' a specified activity, matters respecting locality and place can be, and often are, relevant.
+154. The court expressed their agreement with an earlier related decision of the Administrative Appeals Tribunal at 7-8:
+In our opinion, it was open to the Tribunal to conclude, as it did, that the operations of the MMUs were operations 'in mining'. That was how mining was conducted by DWL's clients in the Kalgoorlie area. Clearly the cost of the operations of DWL was an ordinary and regular cost of the mining operations. The cost was a direct cost of producing the ore, or of removing the overburden if that was the case. It was not in dispute that the mixing of the explosive ingredients on site and the pumping of those ingredients into the drill-holes was part of the mining process. In these circumstances, the Tribunal was entitled to conclude as a matter of fact, if it thought it proper to do so, that the MMUs were used as they were because it was good mining practice to do so and that their use was a feature of, a part of the process of, mining in the Kalgoorlie area.
+154A. The discussion in paragraphs 132 to 154 of this Ruling shows that the word 'in' has a wide meaning in this context, and that the first condition is concerned with whether the R&D entity has incurred expenditure of a particular character. The character is determined both by the breadth of the meaning of the word 'in' in the first condition and the relationship between the first and second conditions.
+The importance of the relationship between the first and second conditions
+154B. The language of paragraph 355-465(1)(a) and paragraphs 355-465(1)(b) and 355-465(2)(b) reflects the inherent link between feedstock inputs and feedstock outputs. This link provides guidance on how to distinguish between goods or materials which are
+themselves
+transformed or processed during R&D activities and those which subject
+other
+goods and materials to transformation or processing.
+154C. Paragraph 355-465(1)(a) demonstrates the link
+[65A]
+required between the feedstock inputs and the feedstock outputs. That is, the transformation or processing of feedstock inputs results in the production of one or more tangible products, the feedstock outputs. Paragraph 355-465(2)(b) then refers to the amounts referred to in paragraph 355-465(1)(b) and the amounts reasonably attributable to the production of the feedstock outputs. Where the ingredients or raw materials continue to exist in some form in the final product they would meet the requirements of being feedstock inputs for the purposes of Subdivision 355-H regardless of whether all of the feedstock input exists in the final output.
+155. Once it has been identified that the R&D entity has incurred expenditure of a particular character the first condition does not require a calculation of the expenditure it refers to. Rather, it interacts with the second condition and subsection 355-465(2) which concerns the calculation of the feedstock adjustment. This is because the first part of the second condition asks whether the R&D entity has notionally deducted an amount 'for the expenditure', being the expenditure referred to in the first condition.
+156. Paragraph 355-465(2)(b) then asks what is the extent to which such a notional deduction is 'reasonably attributable' to the production of the feedstock output.
+157. It is important to note that in this context notional deductibility depends on satisfying other provisions in Division 355. For example, if expenditure within the first condition is notionally deductible it needs to have been incurred 'on one or more R&D activities'.
+[66]
+This requires identifying the activities on which the expenditure has been incurred and determining whether they fall within the relevant definitions. Section 355-20 defines R&D activities as either core R&D activities, or supporting R&D activities, where these further terms are defined in sections 355-25 and 355-30 respectively.
+158. In the fact situations to which the feedstock provisions commonly apply,
+[67]
+expenditure that does not qualify as incurred on any core R&D activities may qualify as incurred on supporting R&D activities depending on whether the activities in question meet the dominant purpose test in the definition of supporting R&D activities (refer subsection 355-30(2)).
+159. Whether or not that test will be met in these situations is outside the scope of this Ruling, as is the general question of when activities involved with the production of tangible products will be R&D activities.
+160. The first and second conditions read together means that only so much of the expenditure on acquiring or producing the feedstock inputs in question which are notional deductions of the type referred to in the second condition is relevant to the calculation of the feedstock adjustment.
+161. This raises the question whether expenditure incurred in relation to acquiring or producing feedstock inputs for the purpose of transforming or processing those inputs, can be notionally deductible,
+[68]
+but not fall within the first condition in subsection 355-465(1). Take the case of expenditure on transporting a feedstock input, after an R&D entity has taken possession of it, to where it can be transformed or processed during particular R&D activities.
+162. If this expenditure on transportation did qualify as incurred on an R&D activity, but not as coming within the first condition, it would give rise to a notional deduction (other conditions for notional deductibility being satisfied), but not one subject to any feedstock adjustment. The issue goes to the breadth of the expression in the first condition, 'expenditure ... in acquiring or producing goods, or materials', in the context.
+163. Resolution of the issue requires examination of the purpose of Subdivision 355-H and the role of the first condition in achieving that purpose.
+The purpose of Subdivision 355-H in relation to the first and second conditions
+164. The key effect of Subdivision 355-H is to assess an R&D entity on the lesser of two amounts, being broadly, the lesser of the notional deductions obtained under Division 355 associated with the production of feedstock outputs, and the feedstock revenue for those feedstock outputs. Including one third of the lesser amount in the assessable income of the R&D entity under subsection 355-465(2) is referred to as making a 'feedstock adjustment'.
+165. The feedstock adjustment is intended to reduce the effect of the R&D entity having obtained such notional deductions by the extent to which the production of the relevant feedstock outputs has provided valuable tangible products. Where the feedstock revenue for those feedstock outputs exceeds the associated notional deductions the feedstock adjustment seeks to 'recover 10 percentage points' in relation to the R&D entity having been allowed a tax offset under Division 355.
+[69]
+166. In Subdivision 355-H the first and second conditions identify the expenditure associated with the acquisition or production of feedstock inputs transformed or processed during R&D activities in producing feedstock outputs. This role is discussed in paragraphs 3.142 and 3.143 of the Explanatory Memorandum:
+[70]
+3.142
+The feedstock adjustment is intended to 'claw back' the incentive component of the R
+&
+D tax offset that is enjoyed on the recouped feedstock expenditure.
+The incentive component is the excess of the tax offset over the company tax rate - that is, the excess over the tax benefit that would otherwise have been obtained from normal tax deductions without the incentive.
+3.143
+The intended net outcome is that the R
+&
+D incentive is effectively enjoyed on feedstock expenditure to the extent that it is not offset by feedstock revenue.
+This is achieved by basing the adjustment on the lesser of feedstock expenditure and feedstock revenue.
+•
+Where feedstock revenue exceeds
+the feedstock output's related feedstock expenditure,
+the feedstock adjustment will be based on the feedstock expenditure - because the
+effective net cost of the feedstock inputs and energy
+was nil; and
+•
+Where feedstock revenue is less than
+the feedstock output's related feedstock expenditure,
+the feedstock adjustment will be based on the feedstock revenue - because
+the effective net cost of the feedstock inputs and energy
+was reduced by that amount (emphasis added).
+167. The notion of the 'feedstock output's related feedstock expenditure' referred to in paragraph 166 of this Ruling is represented in subsection 355-465(1), as that expenditure within the first condition as also gives rise to notional deductions obtained by the R&D entity within the second condition.
+168. The goal of measuring the 'effective net cost of the feedstock inputs and energy' suggests a broad purpose for the feedstock adjustment conditions, of identifying the full extent to which expenditure associated with the acquisition or production of the feedstock inputs also contributes to the notional deductions claimed by the R&D entity. This is to be compared to the feedstock revenue generated from the R&D activities in which those inputs have been transformed or processed.
+169. A narrow view of the first condition has the potential for this measurement to be restricted for example, to only expenditure directly incurred in acquiring or producing these inputs, even though expenditure indirectly associated with these activities might also give rise to notional deductions under Division 355 (and also represent expenditure recouped by deriving feedstock revenue).
+170. By contrast, a wider view of the first condition is consistent with the ordinary meanings of 'acquiring' and 'producing', as affected by the context of the composite phrase in which these terms appear, and with the broader meaning of the word 'in', as discussed in paragraphs 132 to 163 of this Ruling.
+171. The better view is that the first condition applies to expenditure on all the steps undertaken in the course of, or in connection with, or in the process or act of, acquiring or producing the feedstock inputs in question, in order to bring them to the state where they can be transformed or processed during the relevant R&D activities. This interpretation is consistent with the way the character of the expenditure the first condition refers to is described, taking the meaning of the composite phrase as a whole, and promotes the purpose of Subdivision 355-H.
+Multi-stage production processes
+172. The second condition involves only one type of notional deduction concerned with the actual transformation or processing of the relevant feedstock inputs. That is, where the R&D entity has obtained a notional deduction for expenditure incurred 'on any energy input directly into the transformation or processing' of these inputs.
+[71]
+173. The text of subsection 355-465(1) indicates that other types of expenditure incurred in the conduct of such transformation or processing (that is, what might be called the 'cost of conducting the actual R&D activities', as distinct from the expenditure on acquiring or producing the inputs to those activities), are not intended to come within the first and second conditions. An example of such expenditure is an amount expended on employees of the R&D entity engaged in carrying out the transformation or processing in question.
+174. A necessary qualification to this view is where such labour costs are also the costs of producing goods or materials that themselves are feedstock inputs to some other set of R&D activities. That is, where the feedstock output from one set of R&D activities becomes the feedstock inputs to another set.
+[71A]
+175. This qualification is not restricted to cases where the feedstock inputs to the second set of R&D activities have been produced from another set of R&D activities. In all cases where the feedstock inputs in question have been produced from a multi-stage production process,
+[72]
+all of the expenditure in that production, including labour and other variable costs, as well as indirect costs, will come within the first condition, where they have been incurred 'in producing' those inputs and bringing them to a state in which they can be relevantly transformed or processed during the R&D activities in question.
+176. The relevance of this to the calculation of any feedstock adjustment only arises to the extent to which expenditure of this type has also qualified under the second condition, giving rise to notional deductions leading to the R&D entity obtaining a tax offset under Division 355.
+The third condition - meaning of 'transformed feedstock output' - paragraph 355-465(1)(c)
+177. The feedstock trigger conditions set out in paragraph 355-465(1)(c) apply whenever a 'feedstock output' or a 'transformed feedstock output' is either:
+(i)
+supplied by the R&D entity to another entity; or
+(ii)
+applied by the R&D entity to its own use, other than use for the purpose of transforming that product for supply.
+178. The term 'feedstock output' refers to a tangible product produced from the R&D activities and production activities referred to in the first condition in paragraph 355-465(1)(a).
+179. However, the term 'transformed feedstock output' is not defined. In paragraph 355-465(1)(c) it is used to describe a 'marketable product' produced by the R&D entity that is in some way different from the feedstock output with which it is associated.
+[73]
+180. The nature of the difference between the two is explained by the use of the adjective 'transformed', adopting the ordinary meaning of this word.
+181. The
+Macquarie Dictionary
+[74]
+definition of 'transform' includes:
+verb (t)
+1.
+to change in form; change to something of a different form; metamorphose
+. 2.
+to change in appearance, condition, nature, or character, especially completely or extensively.
+182. This meaning is complemented by the text of the exception to the application to own use feedstock trigger condition set out in paragraph 177 of this Ruling. This exception contemplates that a feedstock output might be put to some further use in an R&D entity's production process. This further use is described in the exception as use 'for the purpose of transforming that product [that is, a particular feedstock output or transformed feedstock output] for supply'.
+183. The transformation referred to will, in the final result, be one from which a marketable product emerges. The feedstock trigger condition is met in relation to that marketable product if it is either supplied to another entity, or applied to the R&D entity's own use (other than for the purpose of transforming that product for supply).
+184. The nature of the association between a particular feedstock output and the marketable product meeting the feedstock trigger condition in question is illustrated by the circumstances of the R&D entity's production process and how they operate to produce the marketable product with the attributes necessary for it to be supplied or applied to the R&D entity's own use in the ways contemplated by the feedstock trigger conditions.
+185. Examination of this production process will illustrate a rational, coherent link between the production of a particular feedstock output and the production of an associated marketable product. Typically, use of this feedstock output will be a necessary and integral part of the production process from which this marketable product is produced. The issue of whether that marketable product is a transformed feedstock output only arises though, as noted already, where what is relevantly supplied or applied to the R&D entity's own use is sufficiently different from the feedstock output in question.
+186. Whilst questions of fact and degree may often arise, where a marketable product results from transforming an associated feedstock output (using 'transforming' in its ordinary sense), so that a new and different product emerges, with a different appearance, condition, nature or character, the marketable product answers the description of a 'transformed feedstock output'.
+187. In the context of Subdivision 355-H therefore, there will be no bar to a feedstock adjustment arising merely because a particular transformed feedstock output may have a totally different character from a feedstock output it is associated with, in the manner described in paragraphs 177 to 186 of this Ruling.
+The third condition: meaning of 'applied ... to the R&D entity's own use' - paragraph 355-465(1)(c)
+188. The application to own use feedstock trigger condition set out in paragraph 355-465(1)(c) for a feedstock adjustment to occur is expressed as where there is a marketable product which is 'applied by the R&D entity to the R&D entity's own use, other than use for the purpose of transforming that product for supply' (see subparagraph 355-465(1)(c)(ii)).
+189. Where the marketable product is transformed for supply, the effect is to defer the time of the feedstock adjustment, typically to the time the transformed product is supplied to another entity.
+190. The concept of the marketable product being applied to the R&D entity's own use is not a defined one. However, an equivalent concept has a long history in the former sales tax law, and decisions regarding that sales tax concept are capable of providing sound guidance regarding the operation of the current concept in Subdivision 355-H.
+191. In
+Max Factor & Company Inc v. FC of T (
+1971) 124 CLR 353; (1971) 2 ATR 420; 71 ATC 4136; [1971] HCA 36
+(Max Factor)
+the High Court considered the meaning of the phrase 'applied to his own use', in former section 17 of the
+Sales Tax Assessment Act (No.1) 1930.
+At 362 Gibbs J (Barwick CJ and McTiernan and Windeyer JJ agreeing) said:
+The phrase 'applied to his own use' is of broad import, and is equivalent in meaning to 'employed for his own purposes'.
+192. The High Court in that case held that a manufacturer applied certain goods to its own use, notwithstanding they were given away, as the purpose for this was a purpose of the manufacturer in promoting the sale of its products.
+193. In
+FC of T v. Stewart (
+1984) 154 CLR 385; (1984) 15 ATR 387; 84 ATC 4146; [1984] HCA 11
+(Stewart)
+however, the High Court held that certain machines manufactured and kept ready for subsequent delivery to a public benevolent institution, were not applied to the maker's own use at that time. This only occurred at the later time of actual delivery, at which point a particular exemption applied.
+194. The reasoning in
+Stewart
+supports the view that the application to own use feedstock trigger condition in subparagraph 355-465(1)(c)(ii) does not apply where a marketable product is merely intended for supply (within the broad terms of the definition of this word in subsection 995-1(1)) and that supply has not yet occurred.
+195. Both
+Max Factor
+and
+Stewart
+indicate the application to own use trigger condition applies to those cases where an R&D entity has produced a marketable product which it then uses in its operations, rather than supplying it to another entity.
+196. For example, the R&D entity might produce a tangible depreciating asset which it then uses in its operations. A feedstock adjustment, assuming the other conditions were met, would be triggered the first time such use occurred, but not on subsequent occasions (refer paragraph 355-465(3)(b)).
+[75]
+Meaning of 'other than use for the purpose of transforming that product for supply'
+197. The exception to the application to own use feedstock trigger condition applies where the actual use of a marketable product has been 'for the purpose of transforming that product for supply'.
+198. The verb 'transforming' is used in this context in its ordinary sense, to refer to changing the appearance, condition, nature or character of the marketable product in question.
+[76]
+The purpose referred to is one which clearly envisages that the transformation of the product transformed will be connected with the supply of some final product to another entity.
+199. The change in appearance, condition, nature or character will be one, having regard to any one or more of those attributes, where the product produced from the relevant transformation is a new and different one, compared to the marketable product which has been transformed.
+200. Given the various different ways in which a production process might be used to produce a marketable product, not all uses of a feedstock output or a transformed feedstock output will be 'for a purpose of transforming that product for supply'.
+201. Thus, a feedstock output or transformed feedstock output might only be subjected to some further stages of the production process in which it is not transformed, before being supplied or applied to the R&D entity's own use.
+202. This type of actual use in the R&D entity's production process will not come within the exception. A feedstock adjustment will therefore be triggered at the time this use first occurs, even though there may be a final product supplied to another entity at some later time, unless the use means the feedstock output has become a feedstock input to some other R&D activities (refer paragraph 355-465(3)(a)).
+203. The same outcome arises where actual use of a feedstock output or transformed feedstock output does not involve any transformation of that product for supply, because it is used as an input to a further stage in the production process in which it is consumed.
+[77]
+This is another example of where a marketable product is applied to an R&D entity's own use in a way which triggers a feedstock adjustment at the time this use first occurs. The term 'consumed' here refers to the feedstock output ceasing to exist, and, hence, not capable of becoming a transformed feedstock output.
+204. The application to own use feedstock trigger condition is always subject, each time it might otherwise apply, to the transforming for supply exception. In a multi-stage production process there may be a number of different transformed feedstock outputs produced at different stages, all of which are intended to be transformed in the course of producing a final product for supply. The exception applies at each stage up until no further transformation occurs, and there is a final product supplied to another entity, or an application to own use that does not come within the exception.
+Calculating the feedstock adjustment
+Determining which of the two amounts referred to in subsection 355-465(2) is the 'lesser'
+205. Where the conditions for a feedstock adjustment in subsection 355-465(1) are satisfied subsection 355-465(2) requires an R&D entity to determine which of two separate amounts referred to in subsection 355-465(2) is the 'lesser' one, in order to calculate what is the amount to be included in its assessable income.
+206. The two amounts referred to in subsection 355-465(2) are:
+(a)
+the feedstock revenue for the feedstock output; and
+(b)
+so much of the total of the amounts deducted as described in paragraph (1)(b) that is reasonably attributable to the production of the feedstock output
+207. The standard which applies in deciding which of these two amounts is the lesser is that which applies generally in taxation law. If the R&D entity were to be in dispute with the Commissioner of Taxation, in proceedings to which either of sections 14ZZK or 14ZZO of the
+Taxation Administration Act 1953 (
+TAA 1953) applied, the onus would be on the R&D entity to show on the balance of probabilities that its determination of the lesser amount was the correct one.
+208. No higher (or lesser) standard applies to the R&D entity in preparing its income tax return.
+209. The burden of showing on the balance of probabilities which of the two amounts referred to in subsection 355-465(2) is clearly the lesser one can be discharged by drawing a proper inference from the evidence of the relevant circumstances.
+210. In
+McCormack v. FC of T (
+1979) 143 CLR 284; (1979) 9 ATR 610; 79 ATC 4111; [1979] HCA 18 the High Court considered the operation of former paragraph 190(b) of the ITAA 1936, being the predecessor of sections 14ZZK and 14ZZO of the TAA 1953. Gibbs J stated at CLR 303:
+The taxpayer bears the burden of proving that the assessment was excessive. To discharge that burden in a case such as the present he must prove affirmatively, on the balance of probabilities, that the property was not acquired for the purpose of profit-making by sale. The burden may be discharged by drawing inferences from the evidence...
+The taxpayer will succeed if the proper inference from the evidence is that the property was not acquired for the relevant purpose, but if there is no evidence as to the purpose for which the taxpayer acquired the property the appeal must fail.
+211. It is noted that there is a distinction to be made between what would be a proper inference and what would be mere conjecture. Kitto J in
+Jones v. Dunkel & anor (
+1959) 101 CLR 298 at 305 stated:
+... one does not pass from the realm of conjecture into the realm of inference until some fact is found which positively suggests, that is to say provide a reason, special to the particular case under consideration, for thinking it likely that in that actual case a specific event happened or a specific state of affairs existed.
+212. Evidence which will be relevant to drawing a proper inference about which of the two amounts in question is clearly less than the other will include the R&D entity's contemporaneous records concerning:
+•
+its R&D activities and the various feedstock outputs produced from those activities;
+•
+the expenditures and other amounts going to its claim for notional deductions under Division 355 relating to these R&D activities;
+•
+the costs of producing those feedstock outputs and the marketable products (where these are different), associated with those feedstock outputs; and
+•
+the market value(s) of the relevant marketable products.
+213. Once one of the two amounts referred to in subsection 355-465(2) is determined to be the lesser amount, then it must be calculated with as much precision as is reasonably practicable in the circumstances. What is reasonably practicable will depend on the type, and extent of, cost allocation and determination of market value carried out for the purposes of paragraph 355-465(2)(a), or of the reasonable attribution of notional deductions required under paragraph 355-465(2)(b).
+When notionally deducted amounts are 'reasonably attributable' to the production of the feedstock output - paragraph 355-465(2)(b)
+214. The amount of assessable income that is a feedstock adjustment under subsection 355-465(2) can be based on amounts notionally deducted by the R&D entity, as noted in paragraphs 44 and 206 of this Ruling. Paragraph 355-465(2)(b) requires a determination as to what extent the notional deductions described in paragraph 355-465(1)(b) are 'reasonably attributable' to the production of the relevant feedstock output.
+215. These notional deductions fall into three categories:
+(a)
+for the expenditure in acquiring or producing the feedstock inputs;
+(b)
+for expenditure on energy input directly into the transformation or processing of those inputs; and
+(c)
+for the decline in value of assets used in acquiring or producing the feedstock inputs.
+[78]
+216. Paragraph 355-465(2)(b) asks in effect, which of these notional deductions might be so linked to the production of a number of different feedstock outputs as to require some allocation between them. Although that link might be described in terms of causation, the starting point is identifying what purpose this question of allocation is directed to (see
+FC of T v. Sun Alliance Investments Pty Ltd (in liq) (
+2005) 225 CLR 488 at 514-515 in discussing the meaning of 'attributable to' as one to do with causation).
+217. In simple cases these notional deductions might be able to be linked precisely to the feedstock outputs in question. This is especially so where the feedstock output produced from the R&D entity's R&D activities is also the marketable product which has been subject to a feedstock trigger condition.
+218. Thus, in the simplest of situations, in which an R&D entity's R&D activities coincide with the production of only one feedstock output in a particular income year, all of its notional deductions within the three categories in paragraph 215 of this Ruling link only to that feedstock output, and there is no question that any part of them might reasonably be attributed to the production of any other feedstock output.
+219. There are at least two situations in which the notional deductions in question might need to be reasonably attributed to the production of a number of different feedstock outputs in a less precise manner. They occur where the production of the different outputs causes the conditions for these notional deductions to arise in situations where they cannot be precisely connected to the production of only one of them.
+220. The first situation is where some of the notional deductions are connected to the production of a number of different feedstock outputs in circumstances in which ordinary record keeping methods are unable to identify how much of those notional deductions are caused precisely by the production of any one output. An example is a notional deduction for expenditure on electricity used to run a large number of items of production equipment.
+221. The second situation is where although the notional deductions might be caused by the production of only one type of feedstock output, those outputs have been the subject of feedstock trigger conditions in different income years, and hence, an allocation of these notional deductions to those different income years is required.
+222. What will be a method of reasonable attribution in these situations will depend on the facts in each circumstance and whether the attribution methodology used is reasonable, given those facts.
+223. A reasonable method of attribution will have features resembling those for an estimate to be reasonable. The method will result from forming an opinion or judgment based on reason, made in good faith and not merely involving some arbitrary method that ignores the individual circumstances of the case in question.
+224. Cost accounting methods that might otherwise already be in use by the R&D entity, such as those required under AASB 102, are considered to produce acceptable results, in that the method should involve one of 'systematic allocation', and occur on a 'rational and consistent basis'.
+[79]
+When can multiple feedstock outputs be treated in practice as a single output, under subsection 355-465(2)?
+225. The Note to subsection 355-465(2) provides that a feedstock adjustment calculation should be performed for each and every feedstock output produced.
+226. How an R&D entity complies with this requirement will depend on the facts and circumstances in each case. However, the Explanatory Memorandum at paragraph 3.150 recognises that in many situations, the overall outcome is the same whether the calculation is performed separately in respect of a large number of identical or sufficiently similar feedstock outputs, or whether it is performed in respect of the aggregation of those outputs.
+227. The second dot point in paragraph 3.150 states:
+•
+In practical terms, where an R&D activity produces a number of substantially identical feedstock outputs (such as ingots of gold produced by a processing experiment), those outputs can be treated as if a single feedstock output.
+228. While subsection 355-465(2) requires a feedstock adjustment to be calculated for each feedstock output, feedstock outputs that are substantially identical can be aggregated to calculate a single feedstock adjustment. Where the outcome of that single calculation differs however from what would be reasonably expected to occur if the feedstock outputs were not aggregated it would be inappropriate to perform a single calculation. This would arise, for example, where the circumstances of the R&D activities in question, and the manner in which the relevant notional deductions have arisen differ materially at different times. This point was expressed in the first and third dot points in paragraph 3.150 of the Explanatory Memorandum as follows:
+•
+Treating each feedstock output separately has the effect that, where R&D activities 'turn a profit' with respect to one feedstock output, the surplus of that output's feedstock revenue over related feedstock expenditure will not carry across to net off amounts relating to other feedstock outputs (if any);
+...
+•
+On the other hand, where multiple outputs of similar items are of variable quality, the [R&D entity] is able to treat faulty production units separately from successful production units.
+229. As a result, while subsection 355-465(2) requires a feedstock adjustment to be calculated for each feedstock output, feedstock outputs that are substantially identical can be aggregated to calculate a single feedstock adjustment. This would be the case in a number of situations where the R&D activities produce a number of individual outputs that are identical, or substantially identical in nature, and have the same notional deductions attributable to each of them, and have the same feedstock revenue amount as calculated under section 355-470.
+Calculating feedstock revenue under section 355-470: what is included in the 'cost of producing the feedstock output' and the 'cost of producing the marketable product'
+230. The phrases 'cost of producing the feedstock output' and 'cost of producing the marketable product' appear in the numerator and denominator respectively, in the formula in section 355-470 for the calculation of feedstock revenue, which states:
+The
+feedstock revenue,
+for the feedstock output, is worked out as follows:
+*Market value of the marketable product x ( Cost of producing the feedstock output / Cost of producing the marketable product)
+where:
+market value of the marketable product
+means the marketable product's *market value at the time it is:
+(a)
+*supplied by the *R&D entity to the other entity; or
+(b)
+first applied by the R&D entity to the R&D entity's own use, other than use for the purpose of transforming that product for supply.
+231. The term 'cost' is not expressly defined in Division 355 and so adopts its ordinary meaning. The court in
+Philip Morris
+adopted this approach when considering the meaning of 'cost price' of the taxpayer's trading stock taken into account at the end of a year of income under former section 31 of the ITAA 1936. In that case Jenkinson J said at FLR 393:
+The concept expressed by the words 'cost price' in s.31(1) in my opinion is, in its application to an article of trading stock manufactured by a taxpayer, directed to the ascertainment of the expenditure which has been incurred by the taxpayer in the course of his materials purchasing and manufacturing activities, to bring the article to the state in which it was when it became part of his trading stock on hand.
+232. The meaning of 'cost' is also to be understood in the context of the purpose of the formula in section 355-470, as explained in paragraphs 3.138 and 3.139 of the Explanatory Memorandum:
+3.138 The feedstock adjustment involves a comparison of the amounts claimed for feedstock inputs and energy with the 'feedstock revenue' associated with the related feedstock outputs. Where the feedstock output is immediately sold, the figure used for 'feedstock revenue' will be the market value at that point.
+3.139
+Where amounts are absorbed into the feedstock output's cost between the R
+&
+D activity that produced it and the point of sale, the related 'snapshots' of the product's cost will be used to derive the feedstock revenue figure from the market value of the 'marketable product' that is sold. Such additional cost amounts could arise from transforming the feedstock output in some way, or simply reflect holding costs.
+'Marketable product' is a term used in the feedstock provisions to mean the product when the firm sells it or applies it to its own use (regardless of how 'marketable' it might appear at that or an earlier stage) (emphasis added).
+233. There is no indication that the meaning of the term 'cost' in section 355-470 is meant to differ from that according to accepted industry practice
+, Philip Morris
+and standard accounting methodologies as outlined in AASB 102.
+234. Where the feedstock output is supplied to another entity at the conclusion of the relevant R&D activities, then no further costs are absorbed in the production of the marketable product (that is, they are the one and the same good which is supplied). In the typical situation for this feedstock output the market value will be represented by the supply price, and the proportion of that value which will be the feedstock revenue is the same as the proportion of the cost of the marketable product included in the product's cost at the stage it became the feedstock output.
+235. However, in many other more complex cases, judgment and reasonable approximation may often be called for, and 'mathematical exactitude is generally impossible'.
+[80]
+What will be necessary however, is the use of the same methodology in calculating both the denominator and the numerator, in order to derive an appropriate proportion of the marketable product's market value as the measure of the feedstock output's feedstock revenue.
+236. Where the market value of the marketable product is zero, so too will be the amount of the feedstock revenue for the feedstock output in question. Hence, in these cases, as the feedstock revenue is the lesser amount for the purposes of subsection 355-465(2), the amount of the feedstock adjustment will be zero.
+The 'cost of producing the feedstock output' up to the end of the associated R&D activities
+237. There will be cases where the marketable product meeting a feedstock trigger condition is a feedstock output on which further production costs are incurred, after the time the related R&D activities have finished.
+238. These costs will not be associated with transforming that feedstock output to produce a 'transformed feedstock output', but they may involve some further processing or holding costs.
+239. The question arises whether the expression 'cost of producing the feedstock output' extends to cover all the costs of producing the feedstock output up to the time the relevant feedstock trigger condition is met, or alternatively, whether the expression refers only to those costs of producing the feedstock output as a tangible product produced from the activities described in the first condition in paragraph 355-465(1)(a)? Either view is open on the text of section 355-470.
+240. In the context in which the expression is used in section 355-470 it means only the cost of producing the feedstock output up to the end of the R&D activities associated with its production, to which paragraph 355-465(1)(a) refers.
+241. The point is illustrated by Example 3.15, 'Feedstock output subject to additional costs', in paragraph 3.148 of the Explanatory Memorandum.
+242. In Example 3.15 the cost of producing the feedstock output, granulized granite, up to the end of the relevant R&D activities is $12,000. By the time the granulized granite is delivered and sold the production costs have increased to $15,000. Although the 'cost of producing the marketable product' can be inferred in Example 3.15 to be the figure of $15,000, the 'cost of producing the feedstock output' is given as the lesser figure of $12,000, being the 'cost of the granules when at the feedstock output stage', that is, when at the stage of having been produced from the activities to which paragraph 355-465(1)(a) refers.
+Appendix 2 - Alternative views
+This Appendix sets out alternative views and explains why they are not supported by the Commissioner. It does not form part of the binding public ruling.
+Alternative view of the first condition in paragraph 355-465(1)(a)
+243. An alternative view of paragraph 355-465(1)(a) is that the words 'in acquiring' should be read narrowly. Their meaning should be restricted to expenditure incurred only up until the time the R&D entity comes into possession of the feedstock inputs.
+[81]
+This means that expenditure incurred after that time falls outside the first condition, unless it has been incurred 'in producing' these feedstock inputs.
+244. Under this view, assuming no question of the expenditure being incurred in producing the feedstock inputs arises, expenditure incurred after the time the R&D entity comes into possession of the goods or materials in question up until they begin to be transformed or processed, would not come within the first condition.
+245. This is regardless of the fact that the R&D entity might have obtained notional deductions for such expenditure.
+246. Examples of expenditure incurred after the time the R&D entity comes into possession of the feedstock inputs but before those feedstock inputs are begun to be transformed or processed, might include expenditure on transporting them to where this transforming or processing is to occur, and storage costs up to this point.
+247. This alternative view expresses a narrow outlook on the process of acquisition contemplated by the composite phrase in paragraph 355-465(1)(a), which does not aid the purpose of fully identifying expenditure of the character referred to in that provision. A broader view of the first condition is preferred, for the reasons set out in paragraphs 10 to 22 and 132 to 171 of this Ruling.
+Alternative view of the meaning of 'transformed feedstock output'
+248. An alternative view of the meaning of 'transformed feedstock output' is that it only refers to a narrow category of products. This narrow category only includes those products which can be seen to comprise feedstock outputs which 'have gone into and are part of in some way' the resulting 'transformed feedstock output'.
+249. Under this view, where a feedstock output is subjected to some part of the production process in a way where it loses its character as a separate product, the product emerging from the production process at that stage is said not to qualify as a 'transformed feedstock output'.
+250. This view is not preferred. Paragraphs 29 to 35 of this Ruling set out the essential character of a 'transformed feedstock output' as one involving the possibility of a complete change in identity of a product answering the description of 'transformed feedstock output', when compared to the feedstock outputs which may have been used in the production process in question in order to produce that product.
+251. Where the production process shows a rational and coherent link between the use of a feedstock output and some transformation of that feedstock output within that process in order to produce a product at some further production stage, that product will be a 'transformed feedstock output'.
+Appendix 3 - Detailed contents list
+252. The following is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Class of entities/scheme
+2
+Legislative history
+3
+Statutory scheme
+4
+Division 355
+4
+Subdivision 355-H
+5
+Definitions
+9
+Ruling
+10
+Conditions for a feedstock adjustment
+10
+The first condition: meaning of 'expenditure ... in acquiring or producing goods, or materials' - paragraph 355-465(1)(a)
+10
+Multi-stage production processes
+23
+The feedstock trigger conditions: meaning of 'transformed feedstock output' - paragraph 355-465(1)(c)
+29
+The feedstock trigger conditions: meaning of 'applied to the R&D entity's own use', and 'other than use for the purpose of transforming that product for supply' - subparagraph 355-465(1)(c)(ii)
+36
+Meaning of 'other than use for the purpose of transforming that product for supply'
+40
+Calculating the feedstock adjustment
+44
+Determining which of the two amounts referred to in subsection 355-465(2) is the 'lesser'
+44
+When notionally deducted amounts are 'reasonably attributable' to the production of the feedstock output - paragraph 355-465(2)(b)
+50
+When can multiple feedstock outputs be treated in practice as a single output, under subsection 355-465(2)
+?
+60
+Calculating feedstock revenue under section 355-470: what is included in the 'cost of producing the feedstock output' and the 'cost of producing the marketable product'
+67
+'
+Cost of producing the feedstock output' up to the end of the associated R&D activities 76
+Examples
+77
+Example 1 - reasonable attribution
+78
+Example 2 - calculating the feedstock adjustment
+83
+Example 3 - calculation of feedstock adjustment/calculation of feedstock revenue
+86
+Reasonably attributed notional deductions - first year
+96
+Calculating feedstock revenue
+97
+Calculating the feedstock adjustment
+101
+Example 4 - multistage production process and supply to an associated company
+102
+Example 5 - transformation of feedstock input forming part of tangible product
+113A
+Example 6 - feedstock input not part of tangible product
+113C
+Date of effect
+114
+Appendix 1 - Explanation
+115
+Interpretation of Division 355 generally, and Subdivision 355-H specifically
+115
+Legislative Scheme - Subdivision 355-H
+120
+The three conditions for a feedstock adjustment
+121
+How to calculate the feedstock adjustment
+122
+Exceptions
+123
+How to calculate feedstock revenue
+124
+Connected entities and affiliates
+125
+The feedstock trigger conditions
+126
+'
+Marketable product', 'feedstock output' and 'transformed feedstock output'
+128
+Conditions for a feedstock adjustment
+132
+The first condition: meaning of 'expenditure ... in acquiring or producing goods, or materials' - paragraph 355-465(1)(a)
+132
+The meaning of 'acquiring' and 'producing'
+139
+The meaning of 'in'
+148
+The importance of the relationship between the first and second conditions
+154B
+The purpose of Subdivision 355-H in relation to the first and second conditions
+164
+Multi-stage production processes
+172
+The third condition - meaning of 'transformed feedstock output' - paragraph 355-465(1)(c)
+177
+The third condition - meaning of 'applied... to the R&D entity's own use' -paragraph 355-465(1)(c)
+188
+Meaning of 'other than use for the purpose of transforming that product for supply'
+197
+Calculating the feedstock adjustment
+205
+Determining which of the two amounts referred to in subsection 355-465(2) is the 'lesser'
+205
+When notionally deducted amounts are 'reasonably attributable' to the production of the feedstock output - paragraph 355-465(2)(b)
+214
+When can multiple feedstock outputs be treated in practice as a single output, under subsection 355-465(2)
+?
+225
+Calculating feedstock revenue under section 355-470: what is included in the 'cost of producing the feedstock output' and the 'cost of producing the marketable product'
+230
+The 'cost of producing the feedstock output' up to the end of the associated R&D activities
+237
+Appendix 2 - Alternative views
+243
+Alternative view of the first condition in paragraph 355-465(1)(a)
+243
+Alternative view of the meaning of 'transformed feedstock output'
+248
+Appendix 3 - Detailed contents list
+252
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+Feedstock adjustment is a reference to including an amount in an R&D entity's assessable income under subsection 355-465(2). The term 'R&D entity' is defined in section 355-35.
+[2]
+Unless indicated otherwise all legislative references are to the ITAA 1997.
+[3]
+Broadly, under section 355-35, to be an R&D entity an entity needs to be a body corporate, incorporated under an Australian law, or a foreign law, provided it is an Australian resident. Body corporates acting in the capacity of trustee are excluded, unless they act in the capacity of a trustee of a public trading trust. Certain non resident body corporates resident in foreign countries Australia has a double tax agreement with also qualify. However, an exempt entity cannot be an R&D entity.
+[4]
+Registration of R&D activities occurs under section 27A of the
+Industry Research and Development Act 1986
+on a year by year basis.
+[5]
+The term 'notional deductions' signifies that they are not deductions in the sense of being allowable deductions recognised under section 4-15 in calculating taxable income, but they are deemed to be deductions for certain purposes, to allow other provisions to operate in relation to them (see section 355-105).
+[6]
+Other than applying that product in transforming it for supply: see subparagraph 355-465(1)(c)(ii).
+[7]
+These four terms are used in the operative provisions in Subdivision 355-H.
+[8]
+There is a distinction between goods or materials that are the subject of transformation or processing during R&D activities and those that subject those goods or materials to transformation or processing; see further, paragraph 18 of this Ruling.
+[9]
+This is not confined to mass production activities but will include single production items.
+[9A]
+There is an inherent link between feedstock outputs and feedstock inputs, since a feedstock output is produced from feedstock inputs and this results from transformation or processing of those inputs. See paragraphs 18A to 18C of this Ruling for more detail.
+[10]
+Refer
+Explanation
+at paragraphs 132 to 154 of this Ruling.
+[11]
+The fact that the phrase refers to alternatives, separated by the word 'or', does not prevent it being regarded as a composite phrase: see for example
+, Fesl & ors v. Delegate of the Native Title Registrar & anor (
+2008) 173 FCR 150; [2008] FCA 1469; and
+New Zealand v. Johnston [
+2011] FCAFC 2.
+[12]
+R v. Brown [
+1996] AC 543 at 561, approved in
+Collector of Customs v. Agfa-Gevaert Ltd (
+1996) 186 CLR 389 at 396. Refer also
+Hartnett v. Migration Agents Authority (
+2004) 140 FCR 388; [2004] FCAFC 269 at [60].
+[13]
+Refer
+Amalgamated Zinc (De Bavay's) Ltd v. FC of T (
+1935) 54 CLR 295 at 309.
+[14]
+See
+Chief Executive Officer of Customs v. Dyno Wesfarmers Ltd (
+1997) 73 FCR 1.
+[15]
+See
+FC of T v. Suttons Motors (Chullora) Wholesale Pty Ltd (
+1983) 68 FLR 181, per Bowen CJ at 185; Toohey J at 191.
+[16]
+See, for example
+, Allina Pty Ltd v. FC of T (
+1991) 28 FCR 203; 21 ATR 1320; 91 ATC 4195.
+[17]
+See, for example
+, GTK Trading Pty Ltd v. Export Development Grants Board (
+1981) 40 ALR 375 at 382
+; Faywin Investments Pty Ltd v. FC of T (
+1989) 89 ALR 599 at 607-608.
+[18]
+See, for example
+, Secretary, Department of Industry, Tourism and Resources v. Brambles Australia Ltd (
+2006) 228 ALR 682; [2006] FCAFC 56.
+[19]
+BHP Billiton Iron Ore Pty Ltd v. National Competition Council (
+2008) 236 CLR 145; [2008] HCA 45 at [37].
+[19A]
+GHP 104 160 689 Pty Ltd v. Commissioner of Taxation
+[2014] AATA 515; 2014 ATC 10-373.
+[19B]
+These things can be disregarded on the basis that their amount or value is so trifling as to be negligible;
+Wilkes v. Goodwin
+143 [1923] 2 KB 86; [1923] All ER 61.
+[20]
+Whether immediately or at some later point in the production process.
+[21]
+Note that where a feedstock output becomes or is transformed into a feedstock input there will be no feedstock adjustment at that point (see paragraph 355-465(3)(a)).
+[22]
+In other words, there is a further operation of paragraph 355-465(1)(a) in identifying expenditure within the first condition. See
+GHP 104 160 689 Pty Ltd v. Commissioner of Taxation
+[2014] AATA 515; 2014 ATC 10 373 at paragraphs 328-348.
+[23]
+Refer
+Explanation
+at paragraphs 177 to 187 of this Ruling.
+[24]
+The Macquarie Dictionary, [
+Multimedia], version 5.0.0, 1/10/01 defines 'transformation' to mean:
+noun
+1. the act of transforming.
+2. the state of being transformed.
+3. change in form, appearance, nature, or character.
+4. Physics the change of one nuclide or element into another.
+[25]
+Refer
+Explanation
+at paragraphs 188 to 204 of this Ruling.
+[26]
+Notional deductions that an R&D entity has obtained for the decline in value of assets used in acquiring or producing feedstock inputs form part of the class of notional deductions to which a feedstock adjustment can apply.
+[27]
+Where the use in question does not concern decline in value notional deductions within subparagraph 355-465(1)(b)(iii), then no feedstock adjustment will arise; it is only where the asset in question comes within the second condition that such use can trigger a feedstock adjustment.
+[28]
+Refer
+Explanation
+at paragraphs 188 to 196 of this Ruling.
+[29]
+An exception to this is where the use of the feedstock output has resulted in it becoming a feedstock input for some other R&D activities: refer paragraph 355-465(3)(a).
+[30]
+Refer
+Explanation
+at paragraphs 205 to 213 of this Ruling.
+[31]
+Refer subsection 355-465(2).
+[32]
+Refer Kitto J in
+Jones v. Dunkel & anor (
+1959) 101 CLR 298 at 305.
+[33]
+Refer
+Explanation
+at paragraphs 214 to 224 of this Ruling.
+[34]
+The relevant feedstock outputs are those associated with the marketable product(s) to which one of the feedstock trigger conditions applies.
+[35]
+Refer
+Explanation
+at paragraphs 225 to 229 of this Ruling.
+[36]
+The Note states: 'This subsection applies separately for each of the feedstock outputs.'
+[37]
+At paragraph 3.150 of the Explanatory Memorandum.
+[38]
+Refer
+Explanation
+at paragraphs 230 to 242 of this Ruling.
+[39]
+Refer paragraphs 10 and 15, AASB 102.
+[40]
+Conversely, 'cost of producing the marketable product' in section 355-470 means the costs incurred in producing the marketable product up to the time at which the 'market value' referred to in the section is to be determined, that is, the time at which the marketable product is either supplied, or applied to the R&D entity's own use, in a way which satisfies paragraph 355-465(1)(c).
+[41]
+Refer to the Note to paragraph 9 of this Ruling.
+[42]
+Whether or not the discarding of these items triggers a feedstock adjustment depends on whether they can be said to be supplied to another entity, or applied to Chocca's own use. For the purposes of this example, this is assumed to be the case. Where there is no feedstock revenue for these items, or the feedstock trigger conditions have not been met, the result is the same, that is, no feedstock adjustment arises in relation to them.
+[42A]
+GHP 104 160 689 Pty Ltd v. Commissioner of Taxation
+[2014] AATA 515; 2014 ATC 10-373.
+[42B]
+GHP 104 160 689 Pty Ltd v. Commissioner of Taxation
+[2014] AATA 515; 2014 ATC 10-373.
+[43]
+Section 355-5.
+[44]
+Alcan (NT) Alumina Pty Ltd v. Commissioner of Territory Revenue (Northern Territory) (
+2009) 239 CLR 27 at 47; [2009] HCA 41.
+[45]
+See also paragraph 3.147 of the Explanatory Memorandum.
+[46]
+See the reference to 'one or more tangible products' in paragraph 355-465(1)(a), and paragraph 3.148 of the Explanatory Memorandum.
+[47]
+See paragraphs 3.141 and 3.150 of the Explanatory Memorandum.
+[48]
+See subsection 355-465(3) and paragraph 3.151 of the Explanatory Memorandum.
+[49]
+Paragraph 355-465(1)(a).
+[50]
+Paragraph 355-465(1)(b).
+[51]
+Paragraph 355-465(1)(c).
+[52]
+The fact that the phrase refers to alternatives, separated by the word 'or' does not prevent the phrase from being regarded as a 'composite phrase': see for example, those phrases involving alternatives considered as composite phrases, in
+Fesl & ors v. Delegate of the Native Title Registrar & anor (
+2008) 173 FCR 150; [2008] FCA 1469; and
+New Zealand v. Johnston [
+2011] FCAFC 2.
+[53]
+R v. Brown [
+1996] AC 543 at 561, approved in
+Collector of Customs v. Agfa-Gevaert Ltd (
+1996) 186 CLR 389 at 396. Refer also
+Hartnett v. Migration Agents Authority (
+2004) 140 FCR 388; [2004] FCAFC 269 at [60].
+[54]
+(1991) 28 FCR 203; 21 ATR 1320; 91 ATC 4195.
+[55]
+(2003) 129 FCR 1; [2003] FCA 309.; (2003) 52 ATR 575.
+[56]
+(1983) 68 FLR 181 at 185.
+[57]
+(1981) 40 ALR 375.
+[58]
+(1989) 89 ALR 599.
+[59]
+2000 ATC 4589; (2000) 45 ATR 105; [2000] FCA 1168.
+[60]
+Refer to sections 355-20, 355-25 and 355-30. In particular, paragraph 355-25(1)(b) requires that for activities to be 'core R&D activities', that they are '... conducted for the purpose of generating new knowledge (including new knowledge in the form of new or improved materials, products, devices, processes or services)'.
+[61]
+In
+BHP Billiton Iron Ore Pty Ltd v. National Competition Council (
+2008) 236 CLR 145; [2008] HCA 45 the High Court said at [37]: 'It may be accepted that the expression 'a production process' in para (f) of the definition of 'service' has what in
+Hamersley Iron Pty Ltd v. National Competition Council
+was identified as its ordinary meaning of 'the creation or manufacture by a series of operations of some marketable commodity.' [citation omitted].
+[62]
+(1990) 22 FCR 461.
+[63]
+Hill J was the dissenting member of the Full Federal Court in this appeal, and the majority made no comment on this aspect of the provisions. Hill J himself said at 483 that it was not necessary in deciding the appeal to define with precision what is involved in the concept of 'production'.
+[64]
+(1986) 85 FLR 315; (1986) 17 ATR 733; 86 ATC 4435.
+[65]
+(1997) 73 FCR 1.
+[65A]
+GHP 104 160 689 Pty Ltd v. Commissioner of Taxation
+[2014] AATA 515; 2014 ATC 10-373 (
+GHP
+) at paragraphs 197-198, in relation to former section 73B of the ITAA 1936.
+[66]
+See paragraph 355-205(1)(a).
+[67]
+That is, situations in which tangible products are produced from the transformation or processing of feedstock inputs during R&D activities. The activities in question will thereby commonly be those which either produce goods, or are directly related to producing goods within subsection 355-30(2) ('the dominant purpose test').
+[68]
+For example under section 355-205.
+[69]
+Refer to paragraph 3.144 of the Explanatory Memorandum.
+[70]
+The Explanatory Memorandum can be referred to as material 'capable of assisting in the ascertainment of the meaning of a provision', where that meaning is, for example, ambiguous: see paragraph 15AB(1)(b) of the
+Acts Interpretation Act 1901,
+and refer for example to
+Screen Australia v. EME Productions No 1 Pty Ltd [
+2012] FCAFC 19; (2012) 287 ALR 186 at 48.
+[71]
+See subparagraph 355-465(1)(b)(ii).
+[71A]
+See
+GHP 104 160 689 Pty Ltd v. Commissioner of Taxation
+[2014] AATA 515; 2014 ATC 10-373 at paragraphs 328-348.
+[72]
+That is, a production process that involves multiple stages, whether those stages be sequential or otherwise.
+[73]
+In paragraph 355-465(1)(c) both 'feedstock output' and 'transformed feedstock output' bear the label 'marketable product'. The label is a drafting device to save repeating these terms in full each time, such as in section 355-470. The label is not intended to operate as a definition. If the two terms to which the label refers were not intended to refer to different notions, there would be no need to use them both in this way.
+[74]
+The Macquarie Dictionary, [
+Multimedia], version 5.0.0, 1/10/01
+[75]
+In the Explanatory Memorandum an example of the operation of paragraph 355-465(3)(b) is given in paragraph 3.147, which says:
+Feedstock output can only lead to one feedstock adjustment. For example, where a feedstock adjustment is triggered by an R&D entity applying a feedstock output to its own use - but not for the purpose of transforming it for supply - and it is later sold (with or without transformation), the sale will not trigger a further feedstock adjustment.
+[76]
+Refer to paragraphs 177 to 187 of this Ruling where the same approach is taken to the meaning of 'transformed feedstock output'.
+[77]
+This could not be said to meet the exception in subparagraph 355-465(1)(c)(ii) but rather it is an application to own use.
+[78]
+R&D entities are entitled to notionally deduct the decline in value of a tangible depreciating asset used for the purpose of conducting one or more registered R&D activities, under section 355-305.
+[79]
+In the Explanatory Memorandum at paragraph 3.150 the observation is made that a reasonable attribution need '... not entail feedstock expenditure being evenly attributed across disparate joint outputs'.
+[80]
+Per the majority in
+Dart Industries Inc v. The Décor Corporation Pty Ltd & anor (
+1992) 179 CLR 101 at 111, in commenting upon the task of making an accounting for profits lost as a result of patent infringement. Later, at 119 the majority observed that such an accounting may require allocation of overheads attributable to the manufacture and sale of the infringing product, and that 'it is here that approximation rather than precision may be necessary'.
+[81]
+This view would accept however, that expenditure incurred after obtaining legal title to the goods or materials up until the time the R&D entity comes into possession of them is within the first condition.
+TD 2012/D6
+References
+ATO references:
+NO  1-48PCNT6
+ISSN: 1039-0731
+Related Rulings/Determinations:
+TR 2006/10
+Legislative References:
+ITAA 1936
+ITAA 1936 Div 10BA
+ITAA 1936 31
+ITAA 1936 31(1)
+ITAA 1936 73B
+ITAA 1936 190(b)
+ITAA 1997
+ITAA 1997 4-15
+ITAA 1997 8-1
+ITAA 1997 Div 355
+ITAA 1997 Subdiv 355-H
+ITAA 1997 355-5
+ITAA 1997 355-20
+ITAA 1997 355-25
+ITAA 1997 355-25(1)(b)
+ITAA 1997 355-30
+ITAA 1997 355-30(2)
+ITAA 1997 355-35
+ITAA 1997 355-100
+ITAA 1997 355-105
+ITAA 1997 355-205
+ITAA 1997 355-205(1)(a)
+ITAA 1997 355-305
+ITAA 1997 355-465
+ITAA 1997 355-465(1)
+ITAA 1997 355-465(1)(a)
+ITAA 1997 355-465(1)(b)
+ITAA 1997 355-465(1)(b)(ii)
+ITAA 1997 355-465(1)(b)(iii)
+ITAA 1997 355-465(1)(c)
+ITAA 1997 355-465(1)(c)(i)
+ITAA 1997 355-465(1)(c)(ii)
+ITAA 1997 355-465(2)
+ITAA 1997 355-465(2)(a)
+ITAA 1997 355-465(2)(b)
+ITAA 1997 355-465(3)
+ITAA 1997 355-465(3)(a)
+ITAA 1997 355-465(3)(b)
+ITAA 1997 355-470
+ITAA 1997 355-475
+ITAA 1997 355-475(a)
+ITAA 1997 355-715
+ITAA 1997 995-1(1)
+TAA 1953
+TAA 1953 14ZZK
+TAA 1953 14ZZO
+ANTS(GST)A 1999 9-10
+Customs Act 1901
+Sales Tax Assessment Act (No. 1) 1930 17
+Sales Tax (Exemptions and Classifications) Act 1935 Item 7(1)
+Sales Tax (Exemptions and Classifications) Act 1992 Item 26(1)
+Acts Interpretation Act 1901 15AB(1)(b)
+Export Expansion Grants Act 1978
+Industry Research and Development Act 1986 27A
+Industry Research and Development Act 1986 27F(3)(a)
+Tax Laws Amendment (Research and Development) Act 2011
+Case References:
+Alcan (NT) Alumina Pty Ltd v. Commissioner of Territory Revenue (Northern Territory)
+(2009) 239 CLR 27
+[2009] HCA 41
+(2009) 73 ATR 256
+2009 ATC 20-134
+Allina Pty Ltd v. FC of T
+(1991) 28 FCR 203
+(1991) 21 ATR 1320
+91 ATC 4195
+Amalgamated Zinc (De Bavay's) Ltd v. FC of T
+(1935) 54 CLR 295
+(1935) 3 ATD 288
+BHP Billiton Iron Ore Pty Ltd v. National Competition Council
+(2008) 236 CLR 145
+[2008] HCA 45
+Chief Executive Officer of Customs v. Dyno Wesfarmers Ltd
+(1997) 73 FCR 1
+Collector of Customs v. Agfa-Gevaert Ltd
+(1996) 186 CLR 389
+35 ATR 249
+96 ATC 5240
+Dart Industries Inc v. The Décor Corporation Pty Ltd & anor
+(1992) 179 CLR 101
+Faywin Investments Pty Ltd v. FC of T
+(1989) 89 ALR 599
+(1989) 20 ATR 1282
+(1989) 89 ATC 5024
+FC of T v. Faywin Investments Pty Ltd
+(1990) 22 FCR 461
+(1990) 93 ALR 241
+(1990) 21 ATR 256
+(1990) 90 ATC 4361
+FC of T v. Stewart
+(1984) 154 CLR 385
+(1984) 15 ATR 387
+84 ATC 4146
+[1984] HCA 11
+FC of T v. Sun Alliance Investments Pty Ltd (in liq)
+(2005) 225 CLR 488
+[2005] HCA 70
+2005 ATC 4955
+(2005) 60 ATR 560
+FC of T v. Suttons Motors (Chullora) Wholesale Pty Ltd
+(1983) 68 FLR 181
+(1983) 14 ATR 262
+83 ATC 4304
+Fesl & ors v. Delegate of the Native Title Registrar & anor
+(2008) 173 FCR 150
+[2008] FCA 1469
+Frame Set & Match Pty Ltd v. FC of T
+2000 ATC 4589
+(2000) 45 ATR 105
+[2000] FCA 1168
+GHP 104 160 689 Pty Ltd v. Commissioner of Taxation
+[2014] AATA 515
+2014 ATC 10-373
+GTK Trading Pty Ltd v. Export Development Grants Board
+(1981) 40 ALR 375
+Hartnett v. Migration Agents Authority
+(2004) 140 FCR 388
+[2004] FCAFC 269
+Jones v. Dunkel & anor
+(1959) 101 CLR 298
+Lock v. FC of T
+(2003) 129 FCR 1
+[2003] FCA 309
+(2003) 52 ATR 575
+Max Factor & Company Inc v. FC of T
+(1971) 124 CLR 353
+(1971) 2 ATR 420
+71 ATC 4136
+[1971] HCA 36
+McCormack v. FC of T
+(1979) 143 CLR 284
+(1979) 9 ATR 610
+79 ATC 4111
+[1979] HCA 18
+New Zealand v. Johnston
+[2011] FCAFC 2
+Philip Morris Ltd v. FC of T
+(1979) 38 FLR 383
+79 ATC 4352
+(1979) 10 ATR 44
+Pioneer Concrete (NSW) Pty Ltd v. FC of T
+(1986) 85 FLR 315
+(1986) 17 ATR 733
+86 ATC 4435
+R v. Brown
+[1996] AC 543
+Secretary, Department of Industry, Tourism and Resources v. Brambles Australia Ltd
+(2006) 228 ALR 682
+[2006] FCAFC 56
+Screen Australia v. EME Productions No 1 Pty Ltd
+(2012) 287 ALR 186
+[2012] FCAFC 19
+2012 ATC 20-304
+Other References:
+Australian Accounting Standards AASB 102 Inventories (as at 2 November 2009)
+Explanatory Memorandum
+to the Tax Laws Amendment (Research and Development) Bill 2010
+The Macquarie Dictionary, [Multimedia], version 5.0.0, 1/10/01
+TR 2013/3 history
+Date:
+Version:
+Change:
+20 February 2013
+Original ruling
+19 August 2015
+Consolidated ruling
+Addendum
+You are here
+20 February 2019
+Consolidated ruling
+Addendum
+Back to top

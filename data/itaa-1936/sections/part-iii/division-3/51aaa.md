@@ -15,7 +15,6 @@ source_pdf: "vol01.pdf"
 
 # 51AAA Deductions not allowable in certain circumstances
 
-
 <a id="s51AAA-1"></a>
 **(1)** Where:
 

@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 82KZMF Proportional deduction
 
-
 <a id="s82KZMF-1"></a>
 **(1)** If this section applies to expenditure incurred by a taxpayer in a year of income:
 

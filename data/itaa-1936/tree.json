@@ -1,11 +1,9 @@
 {
-  "act": "ITAA 1936",
-  "compilation_no": 191,
-  "compilation_date": "2026-04-01",
+  "act": "Income Tax Assessment Act 1936",
   "parts": [
     {
       "id": "I",
-      "title": "Preliminary",
+      "title": "PRELIMINARY",
       "divisions": [],
       "sections": [
         {
@@ -35,12 +33,12 @@
         },
         {
           "id": "6C",
-          "title": "Source of royalty income derived by a non-resident",
+          "title": "Source of royalty income derived by a non - resident",
           "path": "part-i/division-unknown/6c.md"
         },
         {
           "id": "6CA",
-          "title": "Source of natural resource income derived by a non-resident",
+          "title": "Source of natural resource income derived by a non - resident",
           "path": "part-i/division-unknown/6ca.md"
         },
         {
@@ -67,28 +65,28 @@
     },
     {
       "id": "II",
-      "title": "Administration",
+      "title": "ADMINISTRATION",
       "divisions": [],
       "sections": [
-        {
-          "id": "14",
-          "title": "Annual report",
-          "path": "part-ii/division-unknown/14.md"
-        },
         {
           "id": "8",
           "title": "Commissioner",
           "path": "part-ii/division-unknown/8.md"
+        },
+        {
+          "id": "14",
+          "title": "Annual report",
+          "path": "part-ii/division-unknown/14.md"
         }
       ]
     },
     {
       "id": "III",
-      "title": "Liability to taxation",
+      "title": "LIABILITY - TO TAXATION",
       "divisions": [
         {
           "id": "1",
-          "title": "Preliminary",
+          "title": "General",
           "subdivisions": [],
           "sections": [
             {
@@ -108,7 +106,7 @@
             },
             {
               "id": "21A",
-              "title": "Non-cash business benefits",
+              "title": "Non - cash business benefits",
               "path": "part-iii/division-1/21a.md"
             },
             {
@@ -170,32 +168,12 @@
               "id": "23L",
               "title": "Certain benefits in the nature of income not assessable",
               "path": "part-iii/division-1/23l.md"
-            },
-            {
-              "id": "160ZZV",
-              "title": "Definitions",
-              "path": "part-iii/division-1/160zzv.md"
-            },
-            {
-              "id": "160ZZVA",
-              "title": "Object",
-              "path": "part-iii/division-1/160zzva.md"
-            },
-            {
-              "id": "160ZZVB",
-              "title": "Application",
-              "path": "part-iii/division-1/160zzvb.md"
-            },
-            {
-              "id": "160ZZW",
-              "title": "Certain provisions to apply as if Australian branch of foreign bank were a separate legal entity",
-              "path": "part-iii/division-1/160zzw.md"
             }
           ]
         },
         {
           "id": "1AB",
-          "title": "Certain State/Territory bodies exempt",
+          "title": "Certain State/Territory bodies exempt from income tax",
           "subdivisions": [
             {
               "id": "A",
@@ -208,7 +186,7 @@
                 },
                 {
                   "id": "24AL",
-                  "title": "Diagram\u2014guide to work out if body is exempt under this Division",
+                  "title": "Diagram - guide to work out if body is exempt under this Division",
                   "path": "part-iii/division-1ab/24al.md"
                 },
                 {
@@ -299,7 +277,7 @@
         },
         {
           "id": "2",
-          "title": "Provisions relating to income tax",
+          "title": "Income",
           "subdivisions": [
             {
               "id": "A",
@@ -312,7 +290,7 @@
                 },
                 {
                   "id": "26AB",
-                  "title": "Assessable income\u2014premium for lease",
+                  "title": "Assessable income - premium for lease",
                   "path": "part-iii/division-2/26ab.md"
                 },
                 {
@@ -332,12 +310,12 @@
                 },
                 {
                   "id": "26AH",
-                  "title": "Bonuses and other amounts received in respect of certain short-term life assurance policies",
+                  "title": "Bonuses and other amounts received in respect of certain short - term life assurance policies",
                   "path": "part-iii/division-2/26ah.md"
                 },
                 {
                   "id": "26AJ",
-                  "title": "Investment-related lottery winnings to be included in assessable income",
+                  "title": "Investment - related lottery winnings to be included in assessable income",
                   "path": "part-iii/division-2/26aj.md"
                 },
                 {
@@ -359,7 +337,7 @@
             },
             {
               "id": "AA",
-              "title": "Non-superannuation annuities etc.",
+              "title": "Non-superannuation annuities etc",
               "sections": [
                 {
                   "id": "27H",
@@ -379,7 +357,7 @@
                 },
                 {
                   "id": "43B",
-                  "title": "Application of Subdivision to non-share dividends",
+                  "title": "Application of Subdivision to non - share dividends",
                   "path": "part-iii/division-2/43b.md"
                 },
                 {
@@ -409,7 +387,7 @@
                 },
                 {
                   "id": "45C",
-                  "title": "Effect of determinations under sections 45A and 45B for capital",
+                  "title": "Effect of determinations under sections 45A and 45B for capital benefits",
                   "path": "part-iii/division-2/45c.md"
                 },
                 {
@@ -419,12 +397,12 @@
                 },
                 {
                   "id": "46FA",
-                  "title": "Deduction for dividends on-paid to non-resident owner",
+                  "title": "Deduction for dividends on - paid to non - resident owner",
                   "path": "part-iii/division-2/46fa.md"
                 },
                 {
                   "id": "46FB",
-                  "title": "Unfranked non-portfolio dividend account",
+                  "title": "Unfranked non - portfolio dividend account",
                   "path": "part-iii/division-2/46fb.md"
                 },
                 {
@@ -434,63 +412,17 @@
                 },
                 {
                   "id": "47A",
-                  "title": "Distribution benefits\u2014CFCs",
+                  "title": "Distribution benefits - CFCs",
                   "path": "part-iii/division-2/47a.md"
                 }
               ]
             }
           ],
-          "sections": [
-            {
-              "id": "160ZZX",
-              "title": "Income of branch to have Australian source",
-              "path": "part-iii/division-2/160zzx.md"
-            },
-            {
-              "id": "160ZZZ",
-              "title": "Notional borrowing by branch from bank",
-              "path": "part-iii/division-2/160zzz.md"
-            },
-            {
-              "id": "160ZZZA",
-              "title": "Notional payment of interest by branch to bank",
-              "path": "part-iii/division-2/160zzza.md"
-            },
-            {
-              "id": "160ZZZC",
-              "title": "Offshore banking units",
-              "path": "part-iii/division-2/160zzzc.md"
-            },
-            {
-              "id": "160ZZZE",
-              "title": "Notional derivative transactions between branch and bank",
-              "path": "part-iii/division-2/160zzze.md"
-            },
-            {
-              "id": "160ZZZF",
-              "title": "Notional foreign exchange transactions between branch and bank",
-              "path": "part-iii/division-2/160zzzf.md"
-            },
-            {
-              "id": "160ZZZG",
-              "title": "Losses",
-              "path": "part-iii/division-2/160zzzg.md"
-            },
-            {
-              "id": "160ZZZH",
-              "title": "Net capital losses",
-              "path": "part-iii/division-2/160zzzh.md"
-            },
-            {
-              "id": "160ZZZI",
-              "title": "Certain transactions to be disregarded",
-              "path": "part-iii/division-2/160zzzi.md"
-            }
-          ]
+          "sections": []
         },
         {
           "id": "3",
-          "title": "Provisions relating to withholding tax",
+          "title": "Deductions",
           "subdivisions": [
             {
               "id": "A",
@@ -508,17 +440,17 @@
                 },
                 {
                   "id": "51AEA",
-                  "title": "Meal entertainment\u2014election under section 37AA of Fringe Benefits Tax Assessment Act 1986 to use 50/50 split method",
+                  "title": "Meal entertainment - election under section 37AA of Fringe Benefits Tax Assessment Act 1986 to use 50/50 split method",
                   "path": "part-iii/division-3/51aea.md"
                 },
                 {
                   "id": "51AEB",
-                  "title": "Meal entertainment\u2014election under section 37CA of Fringe Benefits Tax Assessment Act 1986 to use the 12 week register method",
+                  "title": "Meal entertainment - election under section 37CA of Fringe Benefits Tax Assessment Act 1986 to use the 12 week register method",
                   "path": "part-iii/division-3/51aeb.md"
                 },
                 {
                   "id": "51AEC",
-                  "title": "Entertainment facility\u2014election under section 152B of Fringe Benefits Tax Assessment Act 1986 to use 50/50 split method",
+                  "title": "Entertainment facility - election under section 152B of Fringe Benefits Tax Assessment Act 1986 to use 50/50 split method",
                   "path": "part-iii/division-3/51aec.md"
                 },
                 {
@@ -538,17 +470,17 @@
                 },
                 {
                   "id": "51AJ",
-                  "title": "Deductions not allowable for private component of contributions for fringe benefits etc.",
+                  "title": "Deductions not allowable for private component of contributions for fringe benefits etc",
                   "path": "part-iii/division-3/51aj.md"
                 },
                 {
                   "id": "51AK",
-                  "title": "Agreements for the provision of non-deductible non-cash business benefits",
+                  "title": "Agreements for the provision of non - deductible non - cash business benefits",
                   "path": "part-iii/division-3/51ak.md"
                 },
                 {
                   "id": "52",
-                  "title": "Loss on property acquired for profit-making",
+                  "title": "Loss on property acquired for profit - making",
                   "path": "part-iii/division-3/52.md"
                 },
                 {
@@ -563,7 +495,7 @@
                 },
                 {
                   "id": "63D",
-                  "title": "Bad debts etc. of money-lenders not allowable deductions where attributable to listed country or unlisted country branches",
+                  "title": "Bad debts etc. of money - lenders not allowable deductions where attributable to listed country or unlisted country branches",
                   "path": "part-iii/division-3/63d.md"
                 },
                 {
@@ -573,7 +505,7 @@
                 },
                 {
                   "id": "63F",
-                  "title": "Limit on deductions where debt write offs and debt/equity",
+                  "title": "Limit on deductions where debt write offs and debt/equity swaps occur",
                   "path": "part-iii/division-3/63f.md"
                 },
                 {
@@ -598,7 +530,7 @@
                 },
                 {
                   "id": "73AA",
-                  "title": "Section 73A roll-over relief in the case of certain CGT roll-overs",
+                  "title": "Section 73A roll - over relief in the case of certain CGT roll - overs",
                   "path": "part-iii/division-3/73aa.md"
                 },
                 {
@@ -607,10 +539,36 @@
                   "path": "part-iii/division-3/78a.md"
                 }
               ]
-            },
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "266",
+          "title": "Income tax consequences for fixed trusts of abnormal trading or change in ownership",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "266-10",
+              "title": "Diagram giving overview of this Division",
+              "path": "sections/part-iii/division-266/266-10.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "III",
+      "title": "LIABILITY - TO TAXATION",
+      "divisions": [
+        {
+          "id": "3",
+          "title": "Deductions",
+          "subdivisions": [
             {
               "id": "D",
-              "title": "Losses and outgoings incurred under certain",
+              "title": "Losses and outgoings incurred under certain tax avoidance schemes",
               "sections": [
                 {
                   "id": "82KH",
@@ -619,7 +577,7 @@
                 },
                 {
                   "id": "82KJ",
-                  "title": "Deduction not allowable in respect of certain pre-paid outgoings",
+                  "title": "Deduction not allowable in respect of certain pre - paid outgoings",
                   "path": "part-iii/division-3/82kj.md"
                 },
                 {
@@ -636,7 +594,7 @@
             },
             {
               "id": "H",
-              "title": "Period of deductibility of certain advance",
+              "title": "Period of deductibility of certain advance expenditure",
               "sections": [
                 {
                   "id": "82KZL",
@@ -645,7 +603,7 @@
                 },
                 {
                   "id": "82KZLA",
-                  "title": "Subdivision does not apply to financial arrangements to which Subdivision 250-E applies",
+                  "title": "Subdivision does not apply to financial arrangements to which Subdivision 250 - E applies",
                   "path": "part-iii/division-3/82kzla.md"
                 },
                 {
@@ -655,7 +613,7 @@
                 },
                 {
                   "id": "82KZM",
-                  "title": "Expenditure by small and medium business entities and individuals incurring non-business expenditure",
+                  "title": "Expenditure by small and medium business entities and individuals incurring non - business expenditure",
                   "path": "part-iii/division-3/82kzm.md"
                 },
                 {
@@ -665,7 +623,7 @@
                 },
                 {
                   "id": "82KZMD",
-                  "title": "Business expenditure and non-business expenditure by non-individual",
+                  "title": "Business expenditure and non - business expenditure by non - individual",
                   "path": "part-iii/division-3/82kzmd.md"
                 },
                 {
@@ -710,22 +668,17 @@
             {
               "id": "79A",
               "title": "Rebates for residents of isolated areas",
-              "path": "part-iii/division-3/79a.md"
+              "path": "part-iii/division-17/79a.md"
             },
             {
               "id": "79B",
               "title": "Rebates for members of Defence Force serving overseas",
-              "path": "part-iii/division-3/79b.md"
+              "path": "part-iii/division-17/79b.md"
             },
             {
               "id": "82",
               "title": "Double deductions",
               "path": "part-iii/division-3/82.md"
-            },
-            {
-              "id": "160ZZZJ",
-              "title": "Withholding tax on interest paid by branch to bank",
-              "path": "part-iii/division-3/160zzzj.md"
             }
           ]
         },
@@ -735,14 +688,14 @@
           "subdivisions": [],
           "sections": [
             {
-              "id": "82L",
-              "title": "Interpretation",
-              "path": "part-iii/division-3a/82l.md"
-            },
-            {
               "id": "82LA",
               "title": "Application of Division",
               "path": "part-iii/division-3a/82la.md"
+            },
+            {
+              "id": "82L",
+              "title": "Interpretation",
+              "path": "part-iii/division-3a/82l.md"
             },
             {
               "id": "82M",
@@ -761,12 +714,12 @@
             },
             {
               "id": "82R",
-              "title": "Interest on certain convertible notes not to be an allowable",
+              "title": "Interest on certain convertible notes not to be an allowable deduction",
               "path": "part-iii/division-3a/82r.md"
             },
             {
               "id": "82SA",
-              "title": "Interest on certain convertible notes to be an allowable",
+              "title": "Interest on certain convertible notes to be an allowable deduction - where loan made on or after 1 January 1976",
               "path": "part-iii/division-3a/82sa.md"
             },
             {
@@ -777,20 +730,8 @@
           ]
         },
         {
-          "id": "4",
-          "title": "Extension of Part to Australian branches of",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "160ZZZK",
-              "title": "Treatment like Australian branches of foreign banks",
-              "path": "part-iii/division-4/160zzzk.md"
-            }
-          ]
-        },
-        {
           "id": "5",
-          "title": "Modifications relating to hybrid mismatch",
+          "title": "Partnerships",
           "subdivisions": [],
           "sections": [
             {
@@ -815,28 +756,8 @@
             },
             {
               "id": "94",
-              "title": "Partner not having control and disposal of share in partnership",
+              "title": "Partner not having control and disposal of share in partnership income",
               "path": "part-iii/division-5/94.md"
-            },
-            {
-              "id": "160ZZZL",
-              "title": "Certain \u201chybrid mismatch\u201d deductions denied",
-              "path": "part-iii/division-5/160zzzl.md"
-            },
-            {
-              "id": "160ZZZN",
-              "title": "Adjusting if Australian branch derives dual inclusion income in a later year",
-              "path": "part-iii/division-5/160zzzn.md"
-            },
-            {
-              "id": "160ZZZP",
-              "title": "Dual inclusion income not to be applied more than once",
-              "path": "part-iii/division-5/160zzzp.md"
-            },
-            {
-              "id": "160ZZZR",
-              "title": "Interpretation",
-              "path": "part-iii/division-5/160zzzr.md"
             }
           ]
         },
@@ -881,7 +802,7 @@
                 },
                 {
                   "id": "94F",
-                  "title": "Change in composition of limited partnership\u2014election that partnership not be treated as an eligible limited partnership",
+                  "title": "Change in composition of limited partnership - election that partnership not be treated as an eligible limited partnership",
                   "path": "part-iii/division-5a/94f.md"
                 },
                 {
@@ -893,7 +814,7 @@
             },
             {
               "id": "C",
-              "title": "Corporate tax modifications applicable to",
+              "title": "Corporate tax modifications applicable to corporate limited partnerships",
               "sections": [
                 {
                   "id": "94H",
@@ -937,12 +858,12 @@
                 },
                 {
                   "id": "94R",
-                  "title": "Liquidator may include partner in corporate limited",
+                  "title": "Liquidator may include partner in corporate limited partnership",
                   "path": "part-iii/division-5a/94r.md"
                 },
                 {
                   "id": "94S",
-                  "title": "Continuity of corporate limited partnership not affected by",
+                  "title": "Continuity of corporate limited partnership not affected by changes in composition",
                   "path": "part-iii/division-5a/94s.md"
                 },
                 {
@@ -976,28 +897,18 @@
           "subdivisions": [],
           "sections": [
             {
-              "id": "95",
-              "title": "Interpretation",
-              "path": "part-iii/division-6/95.md"
-            },
-            {
-              "id": "95A",
-              "title": "Special provisions relating to present entitlement",
-              "path": "part-iii/division-6/95a.md"
-            },
-            {
               "id": "95AAA",
-              "title": "Simplified outline of the relationship between this Division, Division 6E and Subdivisions 115-C and 207-B of the Income Tax Assessment Act 1997",
+              "title": "Simplified outline of the relationship between this Division, Division 6E and Subdivisions 115 - C and 207 - B of the Income Tax Assessment Act 1997",
               "path": "part-iii/division-6/95aaa.md"
             },
             {
               "id": "95AAB",
-              "title": "Adjustments under Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997\u2014references in this Act to assessable income under section 97, 98A or 100",
+              "title": "Adjustments under Subdivision 115 - C or 207 - B of the Income Tax Assessment Act 1997 - references in this Act to assessable income under section 97, 98A or 100",
               "path": "part-iii/division-6/95aab.md"
             },
             {
               "id": "95AAC",
-              "title": "Adjustments under Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997\u2014references in this Act to liabilities under section 98, 99 or 99A",
+              "title": "Adjustments under Subdivision 115 - C or 207 - B of the Income Tax Assessment Act 1997 - references in this Act to liabilities under section 98, 99 or 99A",
               "path": "part-iii/division-6/95aac.md"
             },
             {
@@ -1006,9 +917,19 @@
               "path": "part-iii/division-6/95aad.md"
             },
             {
+              "id": "95",
+              "title": "Interpretation",
+              "path": "part-iii/division-6/95.md"
+            },
+            {
               "id": "95AB",
               "title": "Modifications for special disability trusts",
               "path": "part-iii/division-6/95ab.md"
+            },
+            {
+              "id": "95A",
+              "title": "Special provisions relating to present entitlement",
+              "path": "part-iii/division-6/95a.md"
             },
             {
               "id": "95B",
@@ -1037,12 +958,12 @@
             },
             {
               "id": "98A",
-              "title": "Non-resident beneficiaries assessable in respect of certain income",
+              "title": "Non - resident beneficiaries assessable in respect of certain income",
               "path": "part-iii/division-6/98a.md"
             },
             {
               "id": "98B",
-              "title": "Deduction from beneficiary\u2019s tax",
+              "title": "Deduction from beneficiary's tax",
               "path": "part-iii/division-6/98b.md"
             },
             {
@@ -1067,12 +988,12 @@
             },
             {
               "id": "99D",
-              "title": "Refund of tax to non-resident beneficiary",
+              "title": "Refund of tax to non - resident beneficiary",
               "path": "part-iii/division-6/99d.md"
             },
             {
               "id": "99E",
-              "title": "Later trust not taxed on income already taxed under",
+              "title": "Later trust not taxed on income already taxed under subsection 98(4)",
               "path": "part-iii/division-6/99e.md"
             },
             {
@@ -1096,11 +1017,6 @@
               "path": "part-iii/division-6/100.md"
             },
             {
-              "id": "100A",
-              "title": "Present entitlement arising from reimbursement agreement",
-              "path": "part-iii/division-6/100a.md"
-            },
-            {
               "id": "100AA",
               "title": "Failure to pay or notify present entitlement of exempt entity",
               "path": "part-iii/division-6/100aa.md"
@@ -1109,6 +1025,11 @@
               "id": "100AB",
               "title": "Adjusted Division 6 percentage exceeding benchmark percentage: present entitlement of exempt entity",
               "path": "part-iii/division-6/100ab.md"
+            },
+            {
+              "id": "100A",
+              "title": "Present entitlement arising from reimbursement agreement",
+              "path": "part-iii/division-6/100a.md"
             },
             {
               "id": "101",
@@ -1128,31 +1049,164 @@
           ]
         },
         {
-          "id": "6A",
-          "title": "Alienation of income",
-          "subdivisions": [],
-          "sections": [
+          "id": "6AAA",
+          "title": "Special provisions relating to non-resident trust estates etc",
+          "subdivisions": [
             {
-              "id": "102A",
-              "title": "Interpretation",
-              "path": "part-iii/division-6a/102a.md"
+              "id": "A",
+              "title": "Preliminary",
+              "sections": [
+                {
+                  "id": "102AAA",
+                  "title": "Object of Division",
+                  "path": "part-iii/division-6aaa/102aaa.md"
+                },
+                {
+                  "id": "102AAB",
+                  "title": "Interpretation",
+                  "path": "part-iii/division-6aaa/102aab.md"
+                },
+                {
+                  "id": "102AAC",
+                  "title": "Each listed country and unlisted country to be treated as a separate foreign country",
+                  "path": "part-iii/division-6aaa/102aac.md"
+                },
+                {
+                  "id": "102AAD",
+                  "title": "Subject to tax - application of subsection 324(2)",
+                  "path": "part-iii/division-6aaa/102aad.md"
+                },
+                {
+                  "id": "102AAE",
+                  "title": "Listed country trust estates",
+                  "path": "part-iii/division-6aaa/102aae.md"
+                },
+                {
+                  "id": "102AAF",
+                  "title": "Public unit trusts",
+                  "path": "part-iii/division-6aaa/102aaf.md"
+                },
+                {
+                  "id": "102AAG",
+                  "title": "When entity is in a position to control a trust estate",
+                  "path": "part-iii/division-6aaa/102aag.md"
+                },
+                {
+                  "id": "102AAH",
+                  "title": "Non - resident family trusts",
+                  "path": "part-iii/division-6aaa/102aah.md"
+                },
+                {
+                  "id": "102AAJ",
+                  "title": "Transfer of property or services",
+                  "path": "part-iii/division-6aaa/102aaj.md"
+                },
+                {
+                  "id": "102AAK",
+                  "title": "Deemed transfers of property or services to trust estate",
+                  "path": "part-iii/division-6aaa/102aak.md"
+                },
+                {
+                  "id": "102AAL",
+                  "title": "Division not to apply to transfers by trustees of deceased estates",
+                  "path": "part-iii/division-6aaa/102aal.md"
+                }
+              ]
             },
             {
-              "id": "102B",
-              "title": "Certain income transferred for short periods to be included in assessable income of transferor",
-              "path": "part-iii/division-6a/102b.md"
+              "id": "B",
+              "title": "Payment of interest by taxpayer on distributions from certain non-resident trust estates",
+              "sections": [
+                {
+                  "id": "102AAM",
+                  "title": "Payment of interest by taxpayer on distributions from certain non - resident trust estates",
+                  "path": "part-iii/division-6aaa/102aam.md"
+                },
+                {
+                  "id": "102AAN",
+                  "title": "Collection etc. of interest",
+                  "path": "part-iii/division-6aaa/102aan.md"
+                }
+              ]
             },
             {
-              "id": "102C",
-              "title": "Effect of certain transfers of rights to receive income from",
-              "path": "part-iii/division-6a/102c.md"
-            },
-            {
-              "id": "102CA",
-              "title": "Consideration in respect of transfer to be included in assessable income of transferor in certain cases",
-              "path": "part-iii/division-6a/102ca.md"
+              "id": "D",
+              "title": "Accruals system of taxation of certain non-resident trust estates",
+              "sections": [
+                {
+                  "id": "102AAS",
+                  "title": "Object of Subdivision",
+                  "path": "part-iii/division-6aaa/102aas.md"
+                },
+                {
+                  "id": "102AAT",
+                  "title": "Accruals system of taxation - attributable taxpayer",
+                  "path": "part-iii/division-6aaa/102aat.md"
+                },
+                {
+                  "id": "102AAU",
+                  "title": "Attributable income of a trust estate",
+                  "path": "part-iii/division-6aaa/102aau.md"
+                },
+                {
+                  "id": "102AAV",
+                  "title": "Double tax agreements to be disregarded",
+                  "path": "part-iii/division-6aaa/102aav.md"
+                },
+                {
+                  "id": "102AAW",
+                  "title": "Certain provisions to be disregarded in calculating attributable income",
+                  "path": "part-iii/division-6aaa/102aaw.md"
+                },
+                {
+                  "id": "102AAY",
+                  "title": "Modified application of trading stock provisions",
+                  "path": "part-iii/division-6aaa/102aay.md"
+                },
+                {
+                  "id": "102AAZ",
+                  "title": "Modified application of depreciation provisions",
+                  "path": "part-iii/division-6aaa/102aaz.md"
+                },
+                {
+                  "id": "102AAZB",
+                  "title": "General modifications - CGT",
+                  "path": "part-iii/division-6aaa/102aazb.md"
+                },
+                {
+                  "id": "102AAZBA",
+                  "title": "Modified application of CGT - effect of certain changes of residence",
+                  "path": "part-iii/division-6aaa/102aazba.md"
+                },
+                {
+                  "id": "102AAZC",
+                  "title": "Modified application of loss provisions - pre - 1990 - 91 losses",
+                  "path": "part-iii/division-6aaa/102aazc.md"
+                },
+                {
+                  "id": "102AAZD",
+                  "title": "Assessable income of attributable taxpayer to include attributable income of trust estate to which taxpayer has transferred property or services",
+                  "path": "part-iii/division-6aaa/102aazd.md"
+                },
+                {
+                  "id": "102AAZE",
+                  "title": "Accruals system of taxation does not apply to small amounts",
+                  "path": "part-iii/division-6aaa/102aaze.md"
+                },
+                {
+                  "id": "102AAZF",
+                  "title": "Only resident partners, beneficiaries etc. liable to be assessed as a result of attribution",
+                  "path": "part-iii/division-6aaa/102aazf.md"
+                },
+                {
+                  "id": "102AAZG",
+                  "title": "Keeping of records",
+                  "path": "part-iii/division-6aaa/102aazg.md"
+                }
+              ]
             }
-          ]
+          ],
+          "sections": []
         },
         {
           "id": "6AA",
@@ -1202,164 +1256,31 @@
           ]
         },
         {
-          "id": "6AAA",
-          "title": "Special provisions relating to",
-          "subdivisions": [
+          "id": "6A",
+          "title": "Alienation of income",
+          "subdivisions": [],
+          "sections": [
             {
-              "id": "A",
-              "title": "Preliminary",
-              "sections": [
-                {
-                  "id": "102AAA",
-                  "title": "Object of Division",
-                  "path": "part-iii/division-6aaa/102aaa.md"
-                },
-                {
-                  "id": "102AAB",
-                  "title": "Interpretation",
-                  "path": "part-iii/division-6aaa/102aab.md"
-                },
-                {
-                  "id": "102AAC",
-                  "title": "Each listed country and unlisted country to be treated as a separate foreign country",
-                  "path": "part-iii/division-6aaa/102aac.md"
-                },
-                {
-                  "id": "102AAD",
-                  "title": "Subject to tax\u2014application of subsection 324(2)",
-                  "path": "part-iii/division-6aaa/102aad.md"
-                },
-                {
-                  "id": "102AAE",
-                  "title": "Listed country trust estates",
-                  "path": "part-iii/division-6aaa/102aae.md"
-                },
-                {
-                  "id": "102AAF",
-                  "title": "Public unit trusts",
-                  "path": "part-iii/division-6aaa/102aaf.md"
-                },
-                {
-                  "id": "102AAG",
-                  "title": "When entity is in a position to control a trust estate",
-                  "path": "part-iii/division-6aaa/102aag.md"
-                },
-                {
-                  "id": "102AAH",
-                  "title": "Non-resident family trusts",
-                  "path": "part-iii/division-6aaa/102aah.md"
-                },
-                {
-                  "id": "102AAJ",
-                  "title": "Transfer of property or services",
-                  "path": "part-iii/division-6aaa/102aaj.md"
-                },
-                {
-                  "id": "102AAK",
-                  "title": "Deemed transfers of property or services to trust estate",
-                  "path": "part-iii/division-6aaa/102aak.md"
-                },
-                {
-                  "id": "102AAL",
-                  "title": "Division not to apply to transfers by trustees of deceased estates",
-                  "path": "part-iii/division-6aaa/102aal.md"
-                }
-              ]
+              "id": "102A",
+              "title": "Interpretation",
+              "path": "part-iii/division-6a/102a.md"
             },
             {
-              "id": "B",
-              "title": "Payment of interest by taxpayer on",
-              "sections": [
-                {
-                  "id": "102AAM",
-                  "title": "Payment of interest by taxpayer on distributions from certain non-resident trust estates",
-                  "path": "part-iii/division-6aaa/102aam.md"
-                },
-                {
-                  "id": "102AAN",
-                  "title": "Collection etc. of interest",
-                  "path": "part-iii/division-6aaa/102aan.md"
-                }
-              ]
+              "id": "102B",
+              "title": "Certain income transferred for short periods to be included in assessable income of transferor",
+              "path": "part-iii/division-6a/102b.md"
             },
             {
-              "id": "D",
-              "title": "Accruals system of taxation of certain",
-              "sections": [
-                {
-                  "id": "102AAS",
-                  "title": "Object of Subdivision",
-                  "path": "part-iii/division-6aaa/102aas.md"
-                },
-                {
-                  "id": "102AAT",
-                  "title": "Accruals system of taxation\u2014attributable taxpayer",
-                  "path": "part-iii/division-6aaa/102aat.md"
-                },
-                {
-                  "id": "102AAU",
-                  "title": "Attributable income of a trust estate",
-                  "path": "part-iii/division-6aaa/102aau.md"
-                },
-                {
-                  "id": "102AAV",
-                  "title": "Double tax agreements to be disregarded",
-                  "path": "part-iii/division-6aaa/102aav.md"
-                },
-                {
-                  "id": "102AAW",
-                  "title": "Certain provisions to be disregarded in calculating attributable income",
-                  "path": "part-iii/division-6aaa/102aaw.md"
-                },
-                {
-                  "id": "102AAY",
-                  "title": "Modified application of trading stock provisions",
-                  "path": "part-iii/division-6aaa/102aay.md"
-                },
-                {
-                  "id": "102AAZ",
-                  "title": "Modified application of depreciation provisions",
-                  "path": "part-iii/division-6aaa/102aaz.md"
-                },
-                {
-                  "id": "102AAZB",
-                  "title": "General modifications\u2014CGT",
-                  "path": "part-iii/division-6aaa/102aazb.md"
-                },
-                {
-                  "id": "102AAZBA",
-                  "title": "Modified application of CGT\u2014effect of certain changes of residence",
-                  "path": "part-iii/division-6aaa/102aazba.md"
-                },
-                {
-                  "id": "102AAZC",
-                  "title": "Modified application of loss provisions\u2014pre-1990-91 losses",
-                  "path": "part-iii/division-6aaa/102aazc.md"
-                },
-                {
-                  "id": "102AAZD",
-                  "title": "Assessable income of attributable taxpayer to include attributable income of trust estate to which taxpayer has transferred property or services",
-                  "path": "part-iii/division-6aaa/102aazd.md"
-                },
-                {
-                  "id": "102AAZE",
-                  "title": "Accruals system of taxation does not apply to small amounts",
-                  "path": "part-iii/division-6aaa/102aaze.md"
-                },
-                {
-                  "id": "102AAZF",
-                  "title": "Only resident partners, beneficiaries etc. liable to be assessed as a result of attribution",
-                  "path": "part-iii/division-6aaa/102aazf.md"
-                },
-                {
-                  "id": "102AAZG",
-                  "title": "Keeping of records",
-                  "path": "part-iii/division-6aaa/102aazg.md"
-                }
-              ]
+              "id": "102C",
+              "title": "Effect of certain transfers of rights to receive income from property",
+              "path": "part-iii/division-6a/102c.md"
+            },
+            {
+              "id": "102CA",
+              "title": "Consideration in respect of transfer to be included in assessable income of transferor in certain cases",
+              "path": "part-iii/division-6a/102ca.md"
             }
-          ],
-          "sections": []
+          ]
         },
         {
           "id": "6C",
@@ -1430,7 +1351,7 @@
         },
         {
           "id": "6D",
-          "title": "Provisions relating to certain closely held",
+          "title": "Provisions relating to certain closely held trusts",
           "subdivisions": [
             {
               "id": "A",
@@ -1449,7 +1370,7 @@
               "sections": [
                 {
                   "id": "102UB",
-                  "title": "Definitions\u2014general",
+                  "title": "Definitions - general",
                   "path": "part-iii/division-6d/102ub.md"
                 },
                 {
@@ -1479,7 +1400,7 @@
                 },
                 {
                   "id": "102UI",
-                  "title": "Tax-preferred amount",
+                  "title": "Tax - preferred amount",
                   "path": "part-iii/division-6d/102ui.md"
                 },
                 {
@@ -1491,11 +1412,11 @@
             },
             {
               "id": "C",
-              "title": "Trustee beneficiary non-disclosure tax on share",
+              "title": "Trustee beneficiary non-disclosure tax on share of net income",
               "sections": [
                 {
                   "id": "102UK",
-                  "title": "Trustee beneficiary non-disclosure tax where no correct TB statement",
+                  "title": "Trustee beneficiary non - disclosure tax where no correct TB statement",
                   "path": "part-iii/division-6d/102uk.md"
                 },
                 {
@@ -1505,28 +1426,28 @@
                 },
                 {
                   "id": "102UM",
-                  "title": "Trustee beneficiary non-disclosure tax where share is distributed to trustee of closely held trust",
+                  "title": "Trustee beneficiary non - disclosure tax where share is distributed to trustee of closely held trust",
                   "path": "part-iii/division-6d/102um.md"
                 }
               ]
             },
             {
               "id": "D",
-              "title": "Payment etc. of trustee beneficiary",
+              "title": "Payment etc. of trustee beneficiary non-disclosure tax",
               "sections": [
                 {
                   "id": "102UN",
-                  "title": "Amount of trustee beneficiary non-disclosure tax reduced by notional tax offset",
+                  "title": "Amount of trustee beneficiary non - disclosure tax reduced by notional tax offset",
                   "path": "part-iii/division-6d/102un.md"
                 },
                 {
                   "id": "102UO",
-                  "title": "Payment of trustee beneficiary non-disclosure tax",
+                  "title": "Payment of trustee beneficiary non - disclosure tax",
                   "path": "part-iii/division-6d/102uo.md"
                 },
                 {
                   "id": "102UP",
-                  "title": "Late payment of trustee beneficiary non-disclosure tax",
+                  "title": "Late payment of trustee beneficiary non - disclosure tax",
                   "path": "part-iii/division-6d/102up.md"
                 },
                 {
@@ -1541,18 +1462,18 @@
                 },
                 {
                   "id": "102USA",
-                  "title": "Recovery of trustee beneficiary non-disclosure tax from trustee beneficiaries providing incorrect information etc. to head trustee",
+                  "title": "Recovery of trustee beneficiary non - disclosure tax from trustee beneficiaries providing incorrect information etc. to head trustee",
                   "path": "part-iii/division-6d/102usa.md"
                 }
               ]
             },
             {
               "id": "E",
-              "title": "Making correct TB statement about trustee",
+              "title": "Making correct TB statement about trustee beneficiaries of tax-preferred amounts",
               "sections": [
                 {
                   "id": "102UT",
-                  "title": "Requirement to make correct TB statement about trustee beneficiaries of tax-preferred amounts",
+                  "title": "Requirement to make correct TB statement about trustee beneficiaries of tax - preferred amounts",
                   "path": "part-iii/division-6d/102ut.md"
                 }
               ]
@@ -1578,7 +1499,7 @@
         },
         {
           "id": "6E",
-          "title": "Adjustment of Division 6 assessable amount",
+          "title": "Adjustment of Division 6 assessable amount in relation to capital gains, franked distributions and franking credits",
           "subdivisions": [],
           "sections": [
             {
@@ -1605,7 +1526,7 @@
           "sections": [
             {
               "id": "102V",
-              "title": "Application of Division to non-share dividends",
+              "title": "Application of Division to non - share dividends",
               "path": "part-iii/division-7/102v.md"
             },
             {
@@ -1620,14 +1541,14 @@
             },
             {
               "id": "109",
-              "title": "Excessive payments to shareholders, directors and associates",
+              "title": "Excessive payments to shareholders, directors and associates deemed to be dividends",
               "path": "part-iii/division-7/109.md"
             }
           ]
         },
         {
           "id": "7A",
-          "title": "Distributions to entities connected with a",
+          "title": "Distributions to entities connected with a private company",
           "subdivisions": [
             {
               "id": "A",
@@ -1646,24 +1567,24 @@
               "sections": [
                 {
                   "id": "109BA",
-                  "title": "Application of Division to non-share dividends",
+                  "title": "Application of Division to non - share dividends",
                   "path": "part-iii/division-7a/109ba.md"
                 },
                 {
                   "id": "109BB",
-                  "title": "Application of Division to closely-held corporate limited partnerships",
+                  "title": "Application of Division to closely - held corporate limited partnerships",
                   "path": "part-iii/division-7a/109bb.md"
                 },
                 {
                   "id": "109BC",
-                  "title": "Application of Division to non-resident companies",
+                  "title": "Application of Division to non - resident companies",
                   "path": "part-iii/division-7a/109bc.md"
                 }
               ]
             },
             {
               "id": "B",
-              "title": "Private company payments, loans and debt",
+              "title": "Private company payments, loans and debt forgiveness are treated as dividends",
               "sections": [
                 {
                   "id": "109C",
@@ -1694,7 +1615,7 @@
             },
             {
               "id": "C",
-              "title": "Forgiven debts that are not treated as",
+              "title": "Forgiven debts that are not treated as dividends",
               "sections": [
                 {
                   "id": "109G",
@@ -1705,7 +1626,7 @@
             },
             {
               "id": "D",
-              "title": "Payments and loans that are not treated as",
+              "title": "Payments and loans that are not treated as dividends",
               "sections": [
                 {
                   "id": "109H",
@@ -1719,7 +1640,7 @@
                 },
                 {
                   "id": "109K",
-                  "title": "Inter-company payments and loans not treated as dividends",
+                  "title": "Inter - company payments and loans not treated as dividends",
                   "path": "part-iii/division-7a/109k.md"
                 },
                 {
@@ -1729,7 +1650,7 @@
                 },
                 {
                   "id": "109M",
-                  "title": "Loans made in the ordinary course of business on arm\u2019s length terms not treated as dividends",
+                  "title": "Loans made in the ordinary course of business on arm's length terms not treated as dividends",
                   "path": "part-iii/division-7a/109m.md"
                 },
                 {
@@ -1739,7 +1660,7 @@
                 },
                 {
                   "id": "109NA",
-                  "title": "Certain liquidator\u2019s distributions and loans not treated as dividends",
+                  "title": "Certain liquidator's distributions and loans not treated as dividends",
                   "path": "part-iii/division-7a/109na.md"
                 },
                 {
@@ -1822,12 +1743,12 @@
                 },
                 {
                   "id": "109V",
-                  "title": "Amount of private company\u2019s payment to target entity through one or more interposed entities",
+                  "title": "Amount of private company's payment to target entity through one or more interposed entities",
                   "path": "part-iii/division-7a/109v.md"
                 },
                 {
                   "id": "109W",
-                  "title": "Private company\u2019s loan to target entity through one or more interposed entities",
+                  "title": "Private company's loan to target entity through one or more interposed entities",
                   "path": "part-iii/division-7a/109w.md"
                 },
                 {
@@ -1865,7 +1786,7 @@
             },
             {
               "id": "EB",
-              "title": "Unpaid present entitlements\u2014interposed",
+              "title": "Unpaid present entitlements - interposed entities",
               "sections": [
                 {
                   "id": "109XE",
@@ -1896,7 +1817,7 @@
             },
             {
               "id": "F",
-              "title": "General rules applying to all amounts treated",
+              "title": "General rules applying to all amounts treated as dividends",
               "sections": [
                 {
                   "id": "109Y",
@@ -1956,12 +1877,12 @@
           "sections": [
             {
               "id": "117",
-              "title": "Co-operative companies",
+              "title": "Co - operative companies",
               "path": "part-iii/division-9/117.md"
             },
             {
               "id": "118",
-              "title": "Company not co-operative if less than 90% of business with members",
+              "title": "Company not co - operative if less than 90% of business with members",
               "path": "part-iii/division-9/118.md"
             },
             {
@@ -1971,7 +1892,7 @@
             },
             {
               "id": "120",
-              "title": "Deductions allowable to co-operative company",
+              "title": "Deductions allowable to co - operative company",
               "path": "part-iii/division-9/120.md"
             },
             {
@@ -1982,138 +1903,8 @@
           ]
         },
         {
-          "id": "9A",
-          "title": "Offshore banking units",
-          "subdivisions": [
-            {
-              "id": "A",
-              "title": "Object and simplified outline",
-              "sections": [
-                {
-                  "id": "121B",
-                  "title": "Simplified outline",
-                  "path": "part-iii/division-9a/121b.md"
-                }
-              ]
-            },
-            {
-              "id": "B",
-              "title": "Interpretation",
-              "sections": [
-                {
-                  "id": "121C",
-                  "title": "Interpretation",
-                  "path": "part-iii/division-9a/121c.md"
-                },
-                {
-                  "id": "121D",
-                  "title": "Meaning of OB activity",
-                  "path": "part-iii/division-9a/121d.md"
-                },
-                {
-                  "id": "121DA",
-                  "title": "Meaning of expressions relevant to investment activity",
-                  "path": "part-iii/division-9a/121da.md"
-                },
-                {
-                  "id": "121DB",
-                  "title": "Meaning of OB eligible contract activity",
-                  "path": "part-iii/division-9a/121db.md"
-                },
-                {
-                  "id": "121DC",
-                  "title": "Meaning of OB advisory activity",
-                  "path": "part-iii/division-9a/121dc.md"
-                },
-                {
-                  "id": "121DD",
-                  "title": "Meaning of OB leasing activity",
-                  "path": "part-iii/division-9a/121dd.md"
-                },
-                {
-                  "id": "121E",
-                  "title": "Meaning of offshore person",
-                  "path": "part-iii/division-9a/121e.md"
-                },
-                {
-                  "id": "121EA",
-                  "title": "OBU requirement",
-                  "path": "part-iii/division-9a/121ea.md"
-                },
-                {
-                  "id": "121EAA",
-                  "title": "Activities recorded in domestic books not OB activities",
-                  "path": "part-iii/division-9a/121eaa.md"
-                },
-                {
-                  "id": "121EB",
-                  "title": "Internal financial dealings of an OBU",
-                  "path": "part-iii/division-9a/121eb.md"
-                },
-                {
-                  "id": "121EC",
-                  "title": "Meaning of OBU resident-owner money",
-                  "path": "part-iii/division-9a/121ec.md"
-                },
-                {
-                  "id": "121ED",
-                  "title": "Meaning of trade with a person",
-                  "path": "part-iii/division-9a/121ed.md"
-                },
-                {
-                  "id": "121EDA",
-                  "title": "Meaning of OB income",
-                  "path": "part-iii/division-9a/121eda.md"
-                },
-                {
-                  "id": "121EE",
-                  "title": "Definitions relating to assessable income of an OBU",
-                  "path": "part-iii/division-9a/121ee.md"
-                },
-                {
-                  "id": "121EF",
-                  "title": "Definitions relating to allowable deductions of an OBU",
-                  "path": "part-iii/division-9a/121ef.md"
-                }
-              ]
-            },
-            {
-              "id": "C",
-              "title": "Operative provisions",
-              "sections": [
-                {
-                  "id": "121EJ",
-                  "title": "Source of income derived from OB activities",
-                  "path": "part-iii/division-9a/121ej.md"
-                },
-                {
-                  "id": "121EK",
-                  "title": "Deemed interest on 90% of certain OBU resident-owner money",
-                  "path": "part-iii/division-9a/121ek.md"
-                },
-                {
-                  "id": "121EL",
-                  "title": "Exemption of income etc. of OBU offshore investment trusts",
-                  "path": "part-iii/division-9a/121el.md"
-                },
-                {
-                  "id": "121ELA",
-                  "title": "Exemption of income etc. of overseas charitable institutions",
-                  "path": "part-iii/division-9a/121ela.md"
-                },
-                {
-                  "id": "121ELB",
-                  "title": "Adjustment of capital gains and losses from disposal of units in OBU offshore investment trusts",
-                  "path": "part-iii/division-9a/121elb.md"
-                }
-              ]
-            }
-          ],
-          "sections": []
-        },
-        {
           "id": "9AA",
-          "title": "Demutualisation of insurance companies",
+          "title": "Demutualisation of insurance companies and affiliates",
           "subdivisions": [
             {
               "id": "A",
@@ -2207,7 +1998,7 @@
                 },
                 {
                   "id": "121AP",
-                  "title": "Subsidiary and wholly-owned subsidiary",
+                  "title": "Subsidiary and wholly - owned subsidiary",
                   "path": "part-iii/division-9aa/121ap.md"
                 },
                 {
@@ -2227,71 +2018,6 @@
               "title": "Tax consequences of demutualisation",
               "sections": [
                 {
-                  "id": "1",
-                  "title": "Event described in item 1 of Table 1.                      No amount is included in, or allowable as a deduction from, assessable income in",
-                  "path": "part-iii/division-9aa/1.md"
-                },
-                {
-                  "id": "2",
-                  "title": "Event described in item 3 or 4 of Table 1. 1. If the disposal takes place before the demutualisation listing day (see note 4 to",
-                  "path": "part-iii/division-9aa/2.md"
-                },
-                {
-                  "id": "3",
-                  "title": "Event that would be described in item 5 of Table 1 if 1. If the disposal is of a demutualisation share, or interest in such a share, and the the references in that item to bonus shares and original disposal takes place before the demutualisation listing day: shares mentioned in section 130-20 (about bonus (a) no loss is allowable as a deduction from the disposer\u2019s assessable income shares) of the Income Tax Assessment Act 1997 were in respect of the disposal; and instead references to bonus shares and original shares",
-                  "path": "part-iii/division-9aa/3.md"
-                },
-                {
-                  "id": "4",
-                  "title": "Event that would be described in item 6 of Table 1 if 1. If the disposal is of a demutualisation share, or interest in such a share, and the the references in that item to bonus shares and original disposal takes place before the demutualisation listing day: shares mentioned in section 130-20 (about bonus (a) no loss is allowable as a deduction from the disposer\u2019s assessable income shares) of the Income Tax Assessment Act 1997 were in respect of the disposal; and instead references to bonus shares and original shares",
-                  "path": "part-iii/division-9aa/4.md"
-                },
-                {
-                  "id": "5",
-                  "title": "Event that would be described in item 7 of Table 1 if       The same modifications as for item 3 of this table apply. the references in that item to bonus shares and original shares mentioned in section 130-20 (about bonus shares) of the Income Tax Assessment Act 1997 were instead references to bonus shares and original shares mentioned in section 6BA.",
-                  "path": "part-iii/division-9aa/5.md"
-                },
-                {
-                  "id": "6",
-                  "title": "Event described in item 8 of Table 1.                       No amount is included in, or allowable as a deduction from, assessable income in",
-                  "path": "part-iii/division-9aa/6.md"
-                },
-                {
-                  "id": "7",
-                  "title": "Event that would be described in item 9 of Table 1 if 1. The person in the policyholder/member group, instead of the trustee is taken: the references in that item to bonus shares and original (a) to have sold the demutualisation share or non-demutualisation bonus shares mentioned in section 130-20 (about bonus share; and shares) of the Income Tax Assessment Act 1997 were",
-                  "path": "part-iii/division-9aa/7.md"
-                },
-                {
-                  "id": "8",
-                  "title": "Event that would be described in item 11 of Table 1 if      The same modifications as for item 3 of this table apply. the references in that item to bonus shares and original shares mentioned in section 130-20 (about bonus shares) of the Income Tax Assessment Act 1997 were instead references to bonus shares and original shares mentioned in section 6BA.",
-                  "path": "part-iii/division-9aa/8.md"
-                },
-                {
-                  "id": "9",
-                  "title": "Under demutualisation method 6, the whole of the life       The other company is taken to continue to carry on the transferred life insurance insurance business of a life insurance company is           business of the mutual life insurance company. transferred to another company as mentioned in paragraph 121AK(1)(b).",
-                  "path": "part-iii/division-9aa/9.md"
-                },
-                {
-                  "id": "10",
-                  "title": "An ordinary share is issued or distributed to a person No amount is included in, or allowable as a deduction from, assessable income of in the policyholder/member group as mentioned in the person in respect of the issue or distribution of the share, except where the share paragraph 121AF(1)(b), 121AG(1)(c) or (d), is issued in consideration for services provided, or to be provided, by the person. 121AH(1)(c), 121AI(1)(e) or (f), 121AJ(1)(c) or (d), 121AK(1)(c) or (d) or 121AL(1)(c) or (d).",
-                  "path": "part-iii/division-9aa/10.md"
-                },
-                {
-                  "id": "11",
-                  "title": "Ordinary shares in the company are issued or              If the trustee pays a superannuation benefit to the member, the tax free component distributed as mentioned in paragraph 121AF(1)(b),        (within the meaning of the Income Tax Assessment Act 1997) of the superannuation 121AG(1)(c) or (d), 121AH(1)(c), 121AI(1)(e) or (f),      interest (within the meaning of that Act) from which the benefit is paid is increased 121AJ(1)(c) or (d), 121AK(1)(c) or (d) or                 by the amount worked out using the formula: 121AL(1)(c) or (d) to a person in the policyholder/member group who is the trustee of a            Number of allocation shares              Applicable company",
-                  "path": "part-iii/division-9aa/11.md"
-                },
-                {
-                  "id": "12",
-                  "title": "A resolution is passed to proceed, in accordance with The franking surplus is reduced to nil at the beginning of the demutualisation one of the demutualisation methods, with the resolution day. demutualisation of:",
-                  "path": "part-iii/division-9aa/12.md"
-                },
-                {
-                  "id": "13",
-                  "title": "A resolution is passed to proceed with the No franking credit arises for the company or the subsidiary in relation to the demutualisation of a mutual insurance company or payment of the dividend on or after the demutualisation resolution day. both a mutual insurance company and a mutual affiliate company. A dividend that was declared before the demutualisation resolution day is paid on or after the demutualisation resolution day to:",
-                  "path": "part-iii/division-9aa/13.md"
-                },
-                {
                   "id": "121AS",
                   "title": "CGT consequences of demutualisation",
                   "path": "part-iii/division-9aa/121as.md"
@@ -2305,6 +2031,156 @@
                   "id": "121AU",
                   "title": "This Subdivision does not apply to demutualisation of friendly society health or life insurers",
                   "path": "part-iii/division-9aa/121au.md"
+                },
+                {
+                  "id": "9",
+                  "title": "Under demutualisation method 6, the whole of the life       The other company is taken to continue to carry on the transferred life insurance insurance business of a life insurance company is           business of the mutual life insurance company. transferred to another company as mentioned in paragraph 121AK(1)(b).",
+                  "path": "sections/part-iii/division-9aa/9.md"
+                },
+                {
+                  "id": "10",
+                  "title": "An ordinary share is issued or distributed to a person No amount is included in, or allowable as a deduction from, assessable income of in the policyholder/member group as mentioned in the person in respect of the issue or distribution of the share, except where the share paragraph 121AF(1)(b), 121AG(1)(c) or (d), is issued in consideration for services provided, or to be provided, by the person. 121AH(1)(c), 121AI(1)(e) or (f), 121AJ(1)(c) or (d), 121AK(1)(c) or (d) or 121AL(1)(c) or (d).",
+                  "path": "sections/part-iii/division-9aa/10.md"
+                },
+                {
+                  "id": "12",
+                  "title": "A resolution is passed to proceed, in accordance with The franking surplus is reduced to nil at the beginning of the demutualisation one of the demutualisation methods, with the resolution day. demutualisation of:",
+                  "path": "sections/part-iii/division-9aa/12.md"
+                },
+                {
+                  "id": "13",
+                  "title": "A resolution is passed to proceed with the No franking credit arises for the company or the subsidiary in relation to the demutualisation of a mutual insurance company or payment of the dividend on or after the demutualisation resolution day. both a mutual insurance company and a mutual affiliate company. A dividend that was declared before the demutualisation resolution day is paid on or after the demutualisation resolution day to:",
+                  "path": "sections/part-iii/division-9aa/13.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "9A",
+          "title": "Offshore banking units",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Object and simplified outline",
+              "sections": [
+                {
+                  "id": "121B",
+                  "title": "Simplified outline",
+                  "path": "part-iii/division-9a/121b.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Interpretation",
+              "sections": [
+                {
+                  "id": "121C",
+                  "title": "Interpretation",
+                  "path": "part-iii/division-9a/121c.md"
+                },
+                {
+                  "id": "121D",
+                  "title": "Meaning of OB activity",
+                  "path": "part-iii/division-9a/121d.md"
+                },
+                {
+                  "id": "121DA",
+                  "title": "Meaning of expressions relevant to investment activity",
+                  "path": "part-iii/division-9a/121da.md"
+                },
+                {
+                  "id": "121DB",
+                  "title": "Meaning of OB eligible contract activity",
+                  "path": "part-iii/division-9a/121db.md"
+                },
+                {
+                  "id": "121DC",
+                  "title": "Meaning of OB advisory activity",
+                  "path": "part-iii/division-9a/121dc.md"
+                },
+                {
+                  "id": "121DD",
+                  "title": "Meaning of OB leasing activity",
+                  "path": "part-iii/division-9a/121dd.md"
+                },
+                {
+                  "id": "121E",
+                  "title": "Meaning of offshore person",
+                  "path": "part-iii/division-9a/121e.md"
+                },
+                {
+                  "id": "121EA",
+                  "title": "OBU requirement",
+                  "path": "part-iii/division-9a/121ea.md"
+                },
+                {
+                  "id": "121EAA",
+                  "title": "Activities recorded in domestic books not OB activities",
+                  "path": "part-iii/division-9a/121eaa.md"
+                },
+                {
+                  "id": "121EB",
+                  "title": "Internal financial dealings of an OBU",
+                  "path": "part-iii/division-9a/121eb.md"
+                },
+                {
+                  "id": "121EC",
+                  "title": "Meaning of OBU resident - owner money",
+                  "path": "part-iii/division-9a/121ec.md"
+                },
+                {
+                  "id": "121ED",
+                  "title": "Meaning of trade with a person",
+                  "path": "part-iii/division-9a/121ed.md"
+                },
+                {
+                  "id": "121EDA",
+                  "title": "Meaning of OB income",
+                  "path": "part-iii/division-9a/121eda.md"
+                },
+                {
+                  "id": "121EE",
+                  "title": "Definitions relating to assessable income of an OBU",
+                  "path": "part-iii/division-9a/121ee.md"
+                },
+                {
+                  "id": "121EF",
+                  "title": "Definitions relating to allowable deductions of an OBU",
+                  "path": "part-iii/division-9a/121ef.md"
+                }
+              ]
+            },
+            {
+              "id": "C",
+              "title": "Operative provisions",
+              "sections": [
+                {
+                  "id": "121EJ",
+                  "title": "Source of income derived from OB activities",
+                  "path": "part-iii/division-9a/121ej.md"
+                },
+                {
+                  "id": "121EK",
+                  "title": "Deemed interest on 90% of certain OBU resident - owner money",
+                  "path": "part-iii/division-9a/121ek.md"
+                },
+                {
+                  "id": "121EL",
+                  "title": "Exemption of income etc. of OBU offshore investment trusts",
+                  "path": "part-iii/division-9a/121el.md"
+                },
+                {
+                  "id": "121ELA",
+                  "title": "Exemption of income etc. of overseas charitable institutions",
+                  "path": "part-iii/division-9a/121ela.md"
+                },
+                {
+                  "id": "121ELB",
+                  "title": "Adjustment of capital gains and losses from disposal of units in OBU offshore investment trusts",
+                  "path": "part-iii/division-9a/121elb.md"
                 }
               ]
             }
@@ -2313,7 +2189,7 @@
         },
         {
           "id": "9C",
-          "title": "Assessable income diverted under certain tax",
+          "title": "Assessable income diverted under certain tax avoidance schemes",
           "subdivisions": [],
           "sections": [
             {
@@ -2333,7 +2209,7 @@
             },
             {
               "id": "121J",
-              "title": "Ascertainment of diverted income or diverted trust income",
+              "title": "Ascertainment of diverted income or diverted trust income deemed to be an assessment",
               "path": "part-iii/division-9c/121j.md"
             },
             {
@@ -2347,7 +2223,14 @@
               "path": "part-iii/division-9c/121l.md"
             }
           ]
-        },
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "III",
+      "title": "LIABILITY - TO TAXATION",
+      "divisions": [
         {
           "id": "10E",
           "title": "PDFs (pooled development funds)",
@@ -2393,14 +2276,14 @@
                   "path": "part-iii/division-10e/124zs.md"
                 },
                 {
-                  "id": "124ZT",
-                  "title": "SME assessable income",
-                  "path": "part-iii/division-10e/124zt.md"
-                },
-                {
                   "id": "124ZTA",
                   "title": "Taxable income in first year as PDF if PDF component is nil",
                   "path": "part-iii/division-10e/124zta.md"
+                },
+                {
+                  "id": "124ZT",
+                  "title": "SME assessable income",
+                  "path": "part-iii/division-10e/124zt.md"
                 },
                 {
                   "id": "124ZU",
@@ -2416,7 +2299,7 @@
             },
             {
               "id": "C",
-              "title": "Adjustments of the tax treatment of capital",
+              "title": "Adjustments of the tax treatment of capital gains and capital losses of PDFs",
               "sections": [
                 {
                   "id": "124ZW",
@@ -2460,7 +2343,7 @@
         },
         {
           "id": "11",
-          "title": "Interest paid by companies on bearer",
+          "title": "Interest paid by companies on bearer debentures",
           "subdivisions": [],
           "sections": [
             {
@@ -2482,12 +2365,17 @@
         },
         {
           "id": "11A",
-          "title": "Dividends, interest and royalties paid to",
+          "title": "Dividends, interest and royalties paid to non-residents and to certain other persons",
           "subdivisions": [
             {
               "id": "A",
               "title": "General",
               "sections": [
+                {
+                  "id": "128AAA",
+                  "title": "Application of Division to non - share dividends",
+                  "path": "part-iii/division-11a/128aaa.md"
+                },
                 {
                   "id": "128A",
                   "title": "Interpretation",
@@ -2499,18 +2387,13 @@
                   "path": "part-iii/division-11a/128aa.md"
                 },
                 {
-                  "id": "128AAA",
-                  "title": "Application of Division to non-share dividends",
-                  "path": "part-iii/division-11a/128aaa.md"
-                },
-                {
                   "id": "128AB",
                   "title": "Certificates relating to issue price of certain securities",
                   "path": "part-iii/division-11a/128ab.md"
                 },
                 {
                   "id": "128AC",
-                  "title": "Deemed interest in respect of hire-purchase and certain other agreements",
+                  "title": "Deemed interest in respect of hire - purchase and certain other agreements",
                   "path": "part-iii/division-11a/128ac.md"
                 },
                 {
@@ -2545,7 +2428,7 @@
                 },
                 {
                   "id": "128F",
-                  "title": "Division does not apply to interest on certain publicly offered",
+                  "title": "Division does not apply to interest on certain publicly offered company debentures or debt interests",
                   "path": "part-iii/division-11a/128f.md"
                 },
                 {
@@ -2590,7 +2473,7 @@
         },
         {
           "id": "11C",
-          "title": "Payments in respect of mining operations",
+          "title": "Payments in respect of mining operations on Indigenous land",
           "subdivisions": [],
           "sections": [
             {
@@ -2617,7 +2500,7 @@
           "sections": [
             {
               "id": "129",
-              "title": "Taxable income of ship-owner or charterer",
+              "title": "Taxable income of ship - owner or charterer",
               "path": "part-iii/division-12/129.md"
             },
             {
@@ -2669,12 +2552,12 @@
             },
             {
               "id": "142",
-              "title": "Income derived by non-resident insurer",
+              "title": "Income derived by non - resident insurer",
               "path": "part-iii/division-15/142.md"
             },
             {
               "id": "143",
-              "title": "Taxable income of non-resident insurer",
+              "title": "Taxable income of non - resident insurer",
               "path": "part-iii/division-15/143.md"
             },
             {
@@ -2699,7 +2582,7 @@
             },
             {
               "id": "148",
-              "title": "Reinsurance with non-residents",
+              "title": "Reinsurance with non - residents",
               "path": "part-iii/division-15/148.md"
             }
           ]
@@ -2773,7 +2656,7 @@
         },
         {
           "id": "16D",
-          "title": "Certain arrangements relating to the use of",
+          "title": "Certain arrangements relating to the use of property",
           "subdivisions": [],
           "sections": [
             {
@@ -2803,7 +2686,7 @@
             },
             {
               "id": "159GJ",
-              "title": "Effect of application of Division on certain deductions etc.",
+              "title": "Effect of application of Division on certain deductions etc",
               "path": "part-iii/division-16d/159gj.md"
             },
             {
@@ -2835,7 +2718,7 @@
         },
         {
           "id": "16E",
-          "title": "Accruals assessability etc. in respect of",
+          "title": "Accruals assessability etc. in respect of certain security payments",
           "subdivisions": [],
           "sections": [
             {
@@ -2895,7 +2778,7 @@
             },
             {
               "id": "159GW",
-              "title": "Effect of Division in relation to non-residents",
+              "title": "Effect of Division in relation to non - residents",
               "path": "part-iii/division-16e/159gw.md"
             },
             {
@@ -2917,17 +2800,17 @@
         },
         {
           "id": "16J",
-          "title": "Effect of cancellation of subsidiary\u2019s shares",
+          "title": "Effect of cancellation of subsidiary's shares in holding company",
           "subdivisions": [],
           "sections": [
             {
               "id": "159GZZZC",
-              "title": "Interpretation\u2014general",
+              "title": "Interpretation - general",
               "path": "part-iii/division-16j/159gzzzc.md"
             },
             {
               "id": "159GZZZD",
-              "title": "Meaning of eligible entity, eligible interest and eligible proportion",
+              "title": "Meaning of eligible entity , eligible interest and eligible proportion",
               "path": "part-iii/division-16j/159gzzzd.md"
             },
             {
@@ -2942,12 +2825,12 @@
             },
             {
               "id": "159GZZZG",
-              "title": "Pre-cancellation disposals of eligible interests",
+              "title": "Pre - cancellation disposals of eligible interests",
               "path": "part-iii/division-16j/159gzzzg.md"
             },
             {
               "id": "159GZZZH",
-              "title": "Post-cancellation disposals of eligible interests etc.",
+              "title": "Post - cancellation disposals of eligible interests etc",
               "path": "part-iii/division-16j/159gzzzh.md"
             },
             {
@@ -2961,6 +2844,17 @@
           "id": "16K",
           "title": "Effect of buy-backs of shares",
           "subdivisions": [
+            {
+              "id": "AA",
+              "title": "Application of Division to non-share equity interests",
+              "sections": [
+                {
+                  "id": "159GZZZIA",
+                  "title": "Application of Division to non - share dividends",
+                  "path": "part-iii/division-16k/159gzzzia.md"
+                }
+              ]
+            },
             {
               "id": "A",
               "title": "Interpretation",
@@ -2977,24 +2871,13 @@
                 },
                 {
                   "id": "159GZZZL",
-                  "title": "Special buy-backs not made in ordinary course of trading on a stock exchange",
+                  "title": "Special buy - backs not made in ordinary course of trading on a stock exchange",
                   "path": "part-iii/division-16k/159gzzzl.md"
                 },
                 {
                   "id": "159GZZZM",
-                  "title": "Purchase price in respect of buy-back",
+                  "title": "Purchase price in respect of buy - back",
                   "path": "part-iii/division-16k/159gzzzm.md"
-                }
-              ]
-            },
-            {
-              "id": "AA",
-              "title": "Application of Division to non-share equity",
-              "sections": [
-                {
-                  "id": "159GZZZIA",
-                  "title": "Application of Division to non-share dividends",
-                  "path": "part-iii/division-16k/159gzzzia.md"
                 }
               ]
             },
@@ -3004,7 +2887,7 @@
               "sections": [
                 {
                   "id": "159GZZZN",
-                  "title": "Buy-back and cancellation disregarded for certain purposes",
+                  "title": "Buy - back and cancellation disregarded for certain purposes",
                   "path": "part-iii/division-16k/159gzzzn.md"
                 }
               ]
@@ -3015,17 +2898,17 @@
               "sections": [
                 {
                   "id": "159GZZZP",
-                  "title": "Part of off-market purchase price is a dividend if the company is not a listed public company",
+                  "title": "Part of off - market purchase price is a dividend if the company is not a listed public company",
                   "path": "part-iii/division-16k/159gzzzp.md"
                 },
                 {
                   "id": "159GZZZPA",
-                  "title": "No part of off-market purchase price is a dividend if the company is a listed public company",
+                  "title": "No part of off - market purchase price is a dividend if the company is a listed public company",
                   "path": "part-iii/division-16k/159gzzzpa.md"
                 },
                 {
                   "id": "159GZZZQ",
-                  "title": "Consideration in respect of off-market purchase",
+                  "title": "Consideration in respect of off - market purchase",
                   "path": "part-iii/division-16k/159gzzzq.md"
                 }
               ]
@@ -3036,12 +2919,12 @@
               "sections": [
                 {
                   "id": "159GZZZR",
-                  "title": "No part of on-market purchase price is a dividend",
+                  "title": "No part of on - market purchase price is a dividend",
                   "path": "part-iii/division-16k/159gzzzr.md"
                 },
                 {
                   "id": "159GZZZS",
-                  "title": "Consideration in respect of on-market purchase",
+                  "title": "Consideration in respect of on - market purchase",
                   "path": "part-iii/division-16k/159gzzzs.md"
                 }
               ]
@@ -3100,19 +2983,19 @@
               "title": "Miscellaneous",
               "sections": [
                 {
-                  "id": "160AAA",
-                  "title": "Rebate in respect of certain benefits etc.",
-                  "path": "part-iii/division-17/160aaa.md"
-                },
-                {
                   "id": "160AAAA",
                   "title": "Tax rebate for low income aged persons and pensioners",
                   "path": "part-iii/division-17/160aaaa.md"
                 },
                 {
                   "id": "160AAAB",
-                  "title": "Tax rebate for low income aged persons and pensioners\u2014 trustees assessed under section 98",
+                  "title": "Tax rebate for low income aged persons and pensioners - trustees assessed under section 98",
                   "path": "part-iii/division-17/160aaab.md"
+                },
+                {
+                  "id": "160AAA",
+                  "title": "Rebate in respect of certain benefits etc",
+                  "path": "part-iii/division-17/160aaa.md"
                 },
                 {
                   "id": "160AAB",
@@ -3138,15 +3021,147 @@
       "sections": []
     },
     {
-      "id": "IV",
-      "title": "Returns and assessments",
-      "divisions": [],
-      "sections": [
+      "id": "IIIB",
+      "title": "AUSTRALIAN - BRANCHES OF FOREIGN BANKS",
+      "divisions": [
         {
           "id": "1",
-          "title": "The taxpayer\u2019s return of income The Commissioner cannot make an",
-          "path": "part-iv/division-unknown/1.md"
+          "title": "Preliminary",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "160ZZVA",
+              "title": "Object",
+              "path": "part-iii/division-11a/160zzva.md"
+            },
+            {
+              "id": "160ZZVB",
+              "title": "Application",
+              "path": "part-iii/division-11a/160zzvb.md"
+            },
+            {
+              "id": "160ZZV",
+              "title": "Definitions",
+              "path": "part-iii/division-11a/160zzv.md"
+            },
+            {
+              "id": "160ZZW",
+              "title": "Certain provisions to apply as if Australian branch of foreign bank were a separate legal entity",
+              "path": "part-iii/division-11a/160zzw.md"
+            }
+          ]
         },
+        {
+          "id": "2",
+          "title": "Provisions relating to income tax",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "160ZZX",
+              "title": "Income of branch to have Australian source",
+              "path": "part-iii/division-11a/160zzx.md"
+            },
+            {
+              "id": "160ZZZ",
+              "title": "Notional borrowing by branch from bank",
+              "path": "part-iii/division-11a/160zzz.md"
+            },
+            {
+              "id": "160ZZZA",
+              "title": "Notional payment of interest by branch to bank",
+              "path": "part-iii/division-11a/160zzza.md"
+            },
+            {
+              "id": "160ZZZC",
+              "title": "Offshore banking units",
+              "path": "part-iii/division-11a/160zzzc.md"
+            },
+            {
+              "id": "160ZZZE",
+              "title": "Notional derivative transactions between branch and bank",
+              "path": "part-iii/division-11a/160zzze.md"
+            },
+            {
+              "id": "160ZZZF",
+              "title": "Notional foreign exchange transactions between branch and bank",
+              "path": "part-iii/division-11a/160zzzf.md"
+            },
+            {
+              "id": "160ZZZG",
+              "title": "Losses",
+              "path": "part-iii/division-11a/160zzzg.md"
+            },
+            {
+              "id": "160ZZZH",
+              "title": "Net capital losses",
+              "path": "part-iii/division-11a/160zzzh.md"
+            },
+            {
+              "id": "160ZZZI",
+              "title": "Certain transactions to be disregarded",
+              "path": "part-iii/division-11a/160zzzi.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Provisions relating to withholding tax",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "160ZZZJ",
+              "title": "Withholding tax on interest paid by branch to bank",
+              "path": "part-iii/division-11a/160zzzj.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Extension of Part to Australian branches of foreign financial entities",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "160ZZZK",
+              "title": "Treatment like Australian branches of foreign banks",
+              "path": "part-iii/division-11a/160zzzk.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Modifications relating to hybrid mismatch rules",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "160ZZZL",
+              "title": "Certain \"hybrid mismatch\" deductions denied",
+              "path": "part-iii/division-11a/160zzzl.md"
+            },
+            {
+              "id": "160ZZZN",
+              "title": "Adjusting if Australian branch derives dual inclusion income in a later year",
+              "path": "part-iii/division-11a/160zzzn.md"
+            },
+            {
+              "id": "160ZZZP",
+              "title": "Dual inclusion income not to be applied more than once",
+              "path": "part-iii/division-11a/160zzzp.md"
+            },
+            {
+              "id": "160ZZZR",
+              "title": "Interpretation",
+              "path": "part-iii/division-11a/160zzzr.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "IV",
+      "title": "RETURNS - AND ASSESSMENTS",
+      "divisions": [],
+      "sections": [
         {
           "id": "161",
           "title": "Annual returns",
@@ -3159,7 +3174,7 @@
         },
         {
           "id": "161AA",
-          "title": "Contents of returns of full self-assessment taxpayers",
+          "title": "Contents of returns of full self - assessment taxpayers",
           "path": "part-iv/division-unknown/161aa.md"
         },
         {
@@ -3193,14 +3208,14 @@
           "path": "part-iv/division-unknown/167.md"
         },
         {
+          "id": "168",
+          "title": "Special assessment",
+          "path": "part-iv/division-unknown/168.md"
+        },
+        {
           "id": "169",
           "title": "Assessments on all persons liable to tax",
           "path": "part-iv/division-unknown/169.md"
-        },
-        {
-          "id": "169A",
-          "title": "Reliance by Commissioner on returns and statements",
-          "path": "part-iv/division-unknown/169a.md"
         },
         {
           "id": "169AA",
@@ -3208,8 +3223,18 @@
           "path": "part-iv/division-unknown/169aa.md"
         },
         {
+          "id": "169A",
+          "title": "Reliance by Commissioner on returns and statements",
+          "path": "part-iv/division-unknown/169a.md"
+        },
+        {
+          "id": "170",
+          "title": "Amendment of assessments",
+          "path": "part-iv/division-unknown/170.md"
+        },
+        {
           "id": "170A",
-          "title": "Amendment of assessments\u2014interaction with other Acts",
+          "title": "Amendment of assessments - interaction with other Acts",
           "path": "part-iv/division-unknown/170a.md"
         },
         {
@@ -3229,7 +3254,7 @@
         },
         {
           "id": "171A",
-          "title": "Limited period to make assessments for nil liability returns for the 2003-04 year of income or earlier",
+          "title": "Limited period to make assessments for nil liability returns for the 2003 - 04 year of income or earlier",
           "path": "part-iv/division-unknown/171a.md"
         },
         {
@@ -3265,8 +3290,20 @@
         {
           "id": "177",
           "title": "Section 295-270                   Commissioner makes an assessment on the basis",
-          "path": "part-iv/division-unknown/177.md"
+          "path": "sections/part-iv/division-unknown/177.md"
         },
+        {
+          "id": "210",
+          "title": "Division 393 Farm management deposits",
+          "path": "sections/part-iv/division-unknown/210.md"
+        }
+      ]
+    },
+    {
+      "id": "IVA",
+      "title": "SCHEMES - TO REDUCE INCOME TAX",
+      "divisions": [],
+      "sections": [
         {
           "id": "177A",
           "title": "Interpretation",
@@ -3309,12 +3346,12 @@
         },
         {
           "id": "177EB",
-          "title": "Cancellation of franking credits\u2014consolidated groups",
+          "title": "Cancellation of franking credits - consolidated groups",
           "path": "part-iv/division-unknown/177eb.md"
         },
         {
           "id": "177F",
-          "title": "Cancellation of tax benefits etc.",
+          "title": "Cancellation of tax benefits etc",
           "path": "part-iv/division-unknown/177f.md"
         },
         {
@@ -3324,74 +3361,54 @@
         },
         {
           "id": "177H",
-          "title": "Diverted profits tax\u2014objects",
+          "title": "Diverted profits tax - objects",
           "path": "part-iv/division-unknown/177h.md"
         },
         {
           "id": "177J",
-          "title": "Diverted profits tax\u2014application",
+          "title": "Diverted profits tax - application",
           "path": "part-iv/division-unknown/177j.md"
         },
         {
           "id": "177K",
-          "title": "Diverted profits tax\u2014$25 million income test",
+          "title": "Diverted profits tax - $25 million income test",
           "path": "part-iv/division-unknown/177k.md"
         },
         {
           "id": "177L",
-          "title": "Diverted profits tax\u2014sufficient foreign tax test",
+          "title": "Diverted profits tax - sufficient foreign tax test",
           "path": "part-iv/division-unknown/177l.md"
         },
         {
           "id": "177M",
-          "title": "Diverted profits tax\u2014sufficient economic substance test",
+          "title": "Diverted profits tax - sufficient economic substance test",
           "path": "part-iv/division-unknown/177m.md"
         },
         {
           "id": "177N",
-          "title": "Diverted profits tax\u2014consequences",
+          "title": "Diverted profits tax - consequences",
           "path": "part-iv/division-unknown/177n.md"
         },
         {
           "id": "177P",
-          "title": "Diverted profits tax\u2014liability",
+          "title": "Diverted profits tax - liability",
           "path": "part-iv/division-unknown/177p.md"
         },
         {
           "id": "177Q",
-          "title": "Diverted profits tax\u2014general interest charge on unpaid diverted profits tax or shortfall interest charge",
+          "title": "Diverted profits tax - general interest charge on unpaid diverted profits tax or shortfall interest charge",
           "path": "part-iv/division-unknown/177q.md"
         },
         {
           "id": "177R",
-          "title": "Diverted profits tax\u2014when shortfall interest charge is payable",
+          "title": "Diverted profits tax - when shortfall interest charge is payable",
           "path": "part-iv/division-unknown/177r.md"
-        },
-        {
-          "id": "2",
-          "title": "The taxpayer\u2019s return of income           The Commissioner cannot make an",
-          "path": "part-iv/division-unknown/2.md"
-        },
-        {
-          "id": "210",
-          "title": "Division 393 Farm management deposits",
-          "path": "part-iv/division-unknown/210.md"
-        },
-        {
-          "id": "3",
-          "title": "The taxpayer had a tax loss in a nil The Commissioner cannot make an",
-          "path": "part-iv/division-unknown/3.md"
-        },
-        {
-          "id": "4",
-          "title": "(a) the taxpayer had a tax loss in a     The Commissioner cannot make an",
-          "path": "part-iv/division-unknown/4.md"
         }
       ]
     },
     {
-      "id": "V",
-      "title": "A\u2014Tax file numbers",
+      "id": "VA",
+      "title": "TAX - FILE NUMBERS",
       "divisions": [
         {
           "id": "1",
@@ -3464,7 +3481,7 @@
         },
         {
           "id": "3",
-          "title": "Quotation of tax file numbers by recipients of",
+          "title": "Quotation of tax file numbers by recipients of eligible PAYG payments",
           "subdivisions": [],
           "sections": [
             {
@@ -3509,14 +3526,14 @@
             },
             {
               "id": "202CG",
-              "title": "Disclosing recipients\u2019 tax file numbers to payers",
+              "title": "Disclosing recipients' tax file numbers to payers",
               "path": "part-v/division-3/202cg.md"
             }
           ]
         },
         {
           "id": "4",
-          "title": "Quotation of tax file numbers in connection",
+          "title": "Quotation of tax file numbers in connection with certain investments",
           "subdivisions": [],
           "sections": [
             {
@@ -3583,7 +3600,7 @@
         },
         {
           "id": "4A",
-          "title": "Quotation of tax file numbers in connection",
+          "title": "Quotation of tax file numbers in connection with farm management deposits",
           "subdivisions": [],
           "sections": [
             {
@@ -3600,7 +3617,7 @@
         },
         {
           "id": "4B",
-          "title": "Quotation of tax file numbers in connection",
+          "title": "Quotation of tax file numbers in connection with certain closely held trusts",
           "subdivisions": [],
           "sections": [
             {
@@ -3632,12 +3649,12 @@
           "sections": [
             {
               "id": "202EA",
-              "title": "Persons receiving certain pensions etc.\u2014employment",
+              "title": "Persons receiving certain pensions etc. - employment",
               "path": "part-v/division-5/202ea.md"
             },
             {
               "id": "202EB",
-              "title": "Persons receiving certain pensions etc.\u2014investments",
+              "title": "Persons receiving certain pensions etc. - investments",
               "path": "part-v/division-5/202eb.md"
             },
             {
@@ -3647,7 +3664,7 @@
             },
             {
               "id": "202EE",
-              "title": "Non-residents",
+              "title": "Non - residents",
               "path": "part-v/division-5/202ee.md"
             },
             {
@@ -3700,8 +3717,8 @@
       "sections": []
     },
     {
-      "id": "VII",
-      "title": "B\u2014Medicare levy and Medicare levy",
+      "id": "VIIB",
+      "title": "MEDICARE - LEVY AND MEDICARE LEVY SURCHARGE",
       "divisions": [],
       "sections": [
         {
@@ -3753,7 +3770,7 @@
     },
     {
       "id": "VIII",
-      "title": "Miscellaneous",
+      "title": "MISCELLANEOUS",
       "divisions": [],
       "sections": [
         {
@@ -3778,7 +3795,7 @@
         },
         {
           "id": "255",
-          "title": "Person in receipt or control of money from non-resident",
+          "title": "Person in receipt or control of money from non - resident",
           "path": "part-viii/division-unknown/255.md"
         },
         {
@@ -3825,7 +3842,7 @@
     },
     {
       "id": "X",
-      "title": "Attribution of income in respect of",
+      "title": "ATTRIBUTION - OF INCOME IN RESPECT OF CONTROLLED FOREIGN COMPANIES",
       "divisions": [
         {
           "id": "1",
@@ -3859,7 +3876,7 @@
             },
             {
               "id": "321",
-              "title": "Each listed country and each unlisted country to be treated as a",
+              "title": "Each listed country and each unlisted country to be treated as a separate foreign country",
               "path": "part-x/division-1/321.md"
             },
             {
@@ -3904,7 +3921,7 @@
             },
             {
               "id": "328",
-              "title": "Non-resident family trusts",
+              "title": "Non - resident family trusts",
               "path": "part-x/division-1/328.md"
             },
             {
@@ -3939,7 +3956,7 @@
             },
             {
               "id": "335",
-              "title": "References extend to pre-commencement matters and things",
+              "title": "References extend to pre - commencement matters and things",
               "path": "part-x/division-1/335.md"
             }
           ]
@@ -4026,7 +4043,7 @@
                 },
                 {
                   "id": "348",
-                  "title": "Eligible transferor in relation to a non-discretionary trust or a",
+                  "title": "Eligible transferor in relation to a non - discretionary trust or a public unit trust",
                   "path": "part-x/division-2/348.md"
                 }
               ]
@@ -4036,7 +4053,7 @@
         },
         {
           "id": "3",
-          "title": "Control interests, attribution interests,",
+          "title": "Control interests, attribution interests, attributable taxpayers and attribution percentages",
           "subdivisions": [
             {
               "id": "A",
@@ -4044,7 +4061,7 @@
               "sections": [
                 {
                   "id": "349",
-                  "title": "Associate-inclusive control interest in a company or trust",
+                  "title": "Associate - inclusive control interest in a company or trust",
                   "path": "part-x/division-3/349.md"
                 },
                 {
@@ -4112,7 +4129,7 @@
             },
             {
               "id": "C",
-              "title": "Attributable taxpayers and attribution",
+              "title": "Attributable taxpayers and attribution percentages",
               "sections": [
                 {
                   "id": "361",
@@ -4186,7 +4203,7 @@
             },
             {
               "id": "373",
-              "title": "Grossed-up amount of an attribution debit",
+              "title": "Grossed - up amount of an attribution debit",
               "path": "part-x/division-4/373.md"
             }
           ]
@@ -4206,7 +4223,7 @@
                 },
                 {
                   "id": "382",
-                  "title": "Attributable income is taxable income calculated on certain",
+                  "title": "Attributable income is taxable income calculated on certain assumptions",
                   "path": "part-x/division-7/382.md"
                 },
                 {
@@ -4247,7 +4264,7 @@
                 },
                 {
                   "id": "389",
-                  "title": "Certain provisions to be disregarded in calculating attributable",
+                  "title": "Certain provisions to be disregarded in calculating attributable income",
                   "path": "part-x/division-7/389.md"
                 },
                 {
@@ -4262,7 +4279,7 @@
                 },
                 {
                   "id": "392",
-                  "title": "Notional assessable amounts are to be pre-tax",
+                  "title": "Notional assessable amounts are to be pre - tax",
                   "path": "part-x/division-7/392.md"
                 },
                 {
@@ -4272,7 +4289,7 @@
                 },
                 {
                   "id": "394",
-                  "title": "Notional allowable deduction for eligible finance share",
+                  "title": "Notional allowable deduction for eligible finance share dividends, widely distributed finance share dividends and transitional finance share dividends",
                   "path": "part-x/division-7/394.md"
                 },
                 {
@@ -4312,7 +4329,7 @@
                 },
                 {
                   "id": "400",
-                  "title": "Modified cross-border requirement for transfer pricing",
+                  "title": "Modified cross - border requirement for transfer pricing",
                   "path": "part-x/division-7/400.md"
                 },
                 {
@@ -4322,24 +4339,24 @@
                 },
                 {
                   "id": "402",
-                  "title": "Additional notional exempt income\u2014unlisted or listed country",
+                  "title": "Additional notional exempt income - unlisted or listed country CFC",
                   "path": "part-x/division-7/402.md"
                 },
                 {
                   "id": "403",
-                  "title": "Additional notional exempt income\u2014unlisted country CFC",
+                  "title": "Additional notional exempt income - unlisted country CFC",
                   "path": "part-x/division-7/403.md"
                 },
                 {
                   "id": "404",
-                  "title": "Application of Subdivision 768-A of the Income Tax Assessment",
+                  "title": "Application of Subdivision 768 - A of the Income Tax Assessment Act 1997",
                   "path": "part-x/division-7/404.md"
                 }
               ]
             },
             {
               "id": "C",
-              "title": "Modifications relating to Australian capital",
+              "title": "Modifications relating to Australian capital gains tax",
               "sections": [
                 {
                   "id": "405",
@@ -4348,7 +4365,7 @@
                 },
                 {
                   "id": "406",
-                  "title": "Meaning of commencing day and commencing day asset",
+                  "title": "Meaning of c ommencing day and commencing day asset",
                   "path": "part-x/division-7/406.md"
                 },
                 {
@@ -4368,7 +4385,7 @@
                 },
                 {
                   "id": "410",
-                  "title": "General modifications\u2014CGT",
+                  "title": "General modifications - CGT",
                   "path": "part-x/division-7/410.md"
                 },
                 {
@@ -4383,7 +4400,7 @@
                 },
                 {
                   "id": "413",
-                  "title": "Adjustment of cost base as at commencing day\u2014return of",
+                  "title": "Adjustment of cost base as at commencing day - return of capital",
                   "path": "part-x/division-7/413.md"
                 },
                 {
@@ -4398,27 +4415,27 @@
                 },
                 {
                   "id": "418A",
-                  "title": "Effect of change of residence from Australia to listed or",
+                  "title": "Effect of change of residence from Australia to listed or unlisted country",
                   "path": "part-x/division-7/418a.md"
                 },
                 {
                   "id": "419",
-                  "title": "Modified application of Subdivision 126-B of the Income Tax Assessment Act 1997",
+                  "title": "Modified application of Subdivision 126 - B of the Income Tax Assessment Act 1997",
                   "path": "part-x/division-7/419.md"
                 },
                 {
                   "id": "421",
-                  "title": "Elections under CGT roll-over provisions",
+                  "title": "Elections under CGT roll - over provisions",
                   "path": "part-x/division-7/421.md"
                 },
                 {
                   "id": "422",
-                  "title": "Adjustment of capital proceeds where change of residence by",
+                  "title": "Adjustment of capital proceeds where change of residence by eligible CFC from unlisted to listed country",
                   "path": "part-x/division-7/422.md"
                 },
                 {
                   "id": "423",
-                  "title": "Adjustment of capital proceeds where section 47A applies to",
+                  "title": "Adjustment of capital proceeds where section 47A applies to rolled - over assets",
                   "path": "part-x/division-7/423.md"
                 }
               ]
@@ -4429,7 +4446,7 @@
               "sections": [
                 {
                   "id": "425",
-                  "title": "Sometimes-exempt income etc.",
+                  "title": "Sometimes - exempt income etc",
                   "path": "part-x/division-7/425.md"
                 },
                 {
@@ -4449,7 +4466,7 @@
                 },
                 {
                   "id": "429",
-                  "title": "Notional allowable deduction for (sometimes-exempt income)",
+                  "title": "Notional allowable deduction for (sometimes - exempt income) loss",
                   "path": "part-x/division-7/429.md"
                 },
                 {
@@ -4468,7 +4485,7 @@
           "subdivisions": [
             {
               "id": "A",
-              "title": "Basic conditions for passing the active income",
+              "title": "Basic conditions for passing the active income test",
               "sections": [
                 {
                   "id": "432",
@@ -4520,7 +4537,7 @@
               "sections": [
                 {
                   "id": "438",
-                  "title": "Roll-overs\u2014asset disposals",
+                  "title": "Roll - overs - asset disposals",
                   "path": "part-x/division-8/438.md"
                 },
                 {
@@ -4530,12 +4547,12 @@
                 },
                 {
                   "id": "440",
-                  "title": "Asset disposals\u2014revaluations and arm\u2019s length amounts",
+                  "title": "Asset disposals - revaluations and arm's length amounts",
                   "path": "part-x/division-8/440.md"
                 },
                 {
                   "id": "441",
-                  "title": "Hire-purchase and other property financing transactions",
+                  "title": "Hire - purchase and other property financing transactions",
                   "path": "part-x/division-8/441.md"
                 },
                 {
@@ -4555,14 +4572,14 @@
                 },
                 {
                   "id": "445",
-                  "title": "Net gains\u2014disposal of tainted assets",
+                  "title": "Net gains - disposal of tainted assets",
                   "path": "part-x/division-8/445.md"
                 }
               ]
             },
             {
               "id": "E",
-              "title": "Passive income, tainted sales income and",
+              "title": "Passive income, tainted sales income and tainted services income",
               "sections": [
                 {
                   "id": "446",
@@ -4583,16 +4600,16 @@
             },
             {
               "id": "F",
-              "title": "Special rules relating to AFI subsidiaries",
+              "title": "Special rules relating to AFI subsidiaries carrying on financial intermediary business",
               "sections": [
                 {
                   "id": "449",
-                  "title": "AFI subsidiaries\u2014interest income",
+                  "title": "AFI subsidiaries - interest income",
                   "path": "part-x/division-8/449.md"
                 },
                 {
                   "id": "450",
-                  "title": "AFI subsidiaries\u2014asset disposals and currency transactions",
+                  "title": "AFI subsidiaries - asset disposals and currency transactions",
                   "path": "part-x/division-8/450.md"
                 }
               ]
@@ -4603,22 +4620,22 @@
               "sections": [
                 {
                   "id": "451",
-                  "title": "Active income test\u2014substantiation requirements for company",
+                  "title": "Active income test - substantiation requirements for company",
                   "path": "part-x/division-8/451.md"
                 },
                 {
                   "id": "452",
-                  "title": "Active income test\u2014substantiation requirements for",
+                  "title": "Active income test - substantiation requirements for partnership",
                   "path": "part-x/division-8/452.md"
                 },
                 {
                   "id": "453",
-                  "title": "Active income test\u2014substantiation requirements for",
+                  "title": "Active income test - substantiation requirements for attributable taxpayer",
                   "path": "part-x/division-8/453.md"
                 },
                 {
                   "id": "454",
-                  "title": "Assessment on assumption\u2014retention of accounts etc. and",
+                  "title": "Assessment on assumption - retention of accounts etc. and compliance with information notices",
                   "path": "part-x/division-8/454.md"
                 },
                 {
@@ -4633,12 +4650,12 @@
         },
         {
           "id": "9",
-          "title": "Attribution of attributable income and other",
+          "title": "Attribution of attributable income and other amounts",
           "subdivisions": [],
           "sections": [
             {
               "id": "456",
-              "title": "Assessability in respect of CFC\u2019s attributable income",
+              "title": "Assessability in respect of CFC's attributable income",
               "path": "part-x/division-9/456.md"
             },
             {
@@ -4648,7 +4665,7 @@
             },
             {
               "id": "457",
-              "title": "Assessability where CFC changes residence from unlisted",
+              "title": "Assessability where CFC changes residence from unlisted country to listed country or to Australia",
               "path": "part-x/division-9/457.md"
             },
             {
@@ -4658,7 +4675,7 @@
             },
             {
               "id": "460",
-              "title": "Only resident partners, beneficiaries etc. liable to be assessed as",
+              "title": "Only resident partners, beneficiaries etc. liable to be assessed as a result of attribution",
               "path": "part-x/division-9/460.md"
             },
             {
@@ -4687,17 +4704,17 @@
           "sections": [
             {
               "id": "462",
-              "title": "Keeping of records\u2014section 456",
+              "title": "Keeping of records - section 456",
               "path": "part-x/division-11/462.md"
             },
             {
               "id": "462A",
-              "title": "Keeping of records\u2014section 457",
+              "title": "Keeping of records - section 457",
               "path": "part-x/division-11/462a.md"
             },
             {
               "id": "464A",
-              "title": "Keeping of records\u2014section 459A",
+              "title": "Keeping of records - section 459A",
               "path": "part-x/division-11/464a.md"
             },
             {
@@ -4712,7 +4729,7 @@
             },
             {
               "id": "467",
-              "title": "Circumstances where records not required to be kept\u2014 reasonable excuse etc.",
+              "title": "Circumstances where records not required to be kept - reasonable excuse etc",
               "path": "part-x/division-11/467.md"
             },
             {
@@ -4724,6 +4741,1179 @@
         }
       ],
       "sections": []
+    }
+  ],
+  "compilation_no": 191,
+  "compilation_date": "2026-04-01",
+  "schedules": [
+    {
+      "id": "schedule-2",
+      "title": "Schedule 2",
+      "sections": [
+        {
+          "id": "schedule-2",
+          "title": "Zone rebate",
+          "path": "sections/schedule-2/schedule-2.md"
+        }
+      ]
+    },
+    {
+      "id": "schedule-2d",
+      "title": "Schedule 2D",
+      "sections": [
+        {
+          "id": "57-1",
+          "title": "What this Division is about",
+          "path": "sections/schedule-2d/division-57/57-1.md"
+        },
+        {
+          "id": "57-10",
+          "title": "Activities of transition taxpayer\u2019s predecessor attributed to",
+          "path": "sections/schedule-2d/division-57/57-10.md"
+        },
+        {
+          "id": "57-100",
+          "title": "No elections etc. before transition time",
+          "path": "sections/schedule-2d/division-57/57-100.md"
+        },
+        {
+          "id": "57-105",
+          "title": "Special rules for mining and quarrying",
+          "path": "sections/schedule-2d/division-57/57-105.md"
+        },
+        {
+          "id": "57-110",
+          "title": "Apportionment of balancing adjustments",
+          "path": "sections/schedule-2d/division-57/57-110.md"
+        },
+        {
+          "id": "57-115",
+          "title": "Modification of trading stock provisions",
+          "path": "sections/schedule-2d/division-57/57-115.md"
+        },
+        {
+          "id": "57-120",
+          "title": "Cancellation of franking surplus, credit or debit",
+          "path": "sections/schedule-2d/division-57/57-120.md"
+        },
+        {
+          "id": "57-125",
+          "title": "Subsidiary",
+          "path": "sections/schedule-2d/division-57/57-125.md"
+        },
+        {
+          "id": "57-130",
+          "title": "Plant or depreciating assets covered by Subdivision 58-B of",
+          "path": "sections/schedule-2d/division-57/57-130.md"
+        },
+        {
+          "id": "57-135",
+          "title": "Balancing adjustment on ceasing to have a Division 230",
+          "path": "sections/schedule-2d/division-57/57-135.md"
+        },
+        {
+          "id": "57-15",
+          "title": "Time when income derived",
+          "path": "sections/schedule-2d/division-57/57-15.md"
+        },
+        {
+          "id": "57-20",
+          "title": "Time when losses and outgoings incurred",
+          "path": "sections/schedule-2d/division-57/57-20.md"
+        },
+        {
+          "id": "57-25",
+          "title": "Deemed disposal and re-acquisition of assets",
+          "path": "sections/schedule-2d/division-57/57-25.md"
+        },
+        {
+          "id": "57-30",
+          "title": "Deemed cessation and re-assumption of liabilities",
+          "path": "sections/schedule-2d/division-57/57-30.md"
+        },
+        {
+          "id": "57-32",
+          "title": "Division 230 financial arrangements\u2014market value of assets",
+          "path": "sections/schedule-2d/division-57/57-32.md"
+        },
+        {
+          "id": "57-33",
+          "title": "Division 230 financial arrangements\u2014transition taxpayer\u2019s",
+          "path": "sections/schedule-2d/division-57/57-33.md"
+        },
+        {
+          "id": "57-35",
+          "title": "Interpretation",
+          "path": "sections/schedule-2d/division-57/57-35.md"
+        },
+        {
+          "id": "57-40",
+          "title": "Contributions under defined benefit superannuation schemes",
+          "path": "sections/schedule-2d/division-57/57-40.md"
+        },
+        {
+          "id": "57-45",
+          "title": "Deduction for surplus to meet defined benefit superannuation scheme liabilities",
+          "path": "sections/schedule-2d/division-57/57-45.md"
+        },
+        {
+          "id": "57-5",
+          "title": "Entities to which this Division applies",
+          "path": "sections/schedule-2d/division-57/57-5.md"
+        },
+        {
+          "id": "57-50",
+          "title": "Contributions generally",
+          "path": "sections/schedule-2d/division-57/57-50.md"
+        },
+        {
+          "id": "57-52",
+          "title": "Section 57-50 does not apply if there is a surplus at transition",
+          "path": "sections/schedule-2d/division-57/57-52.md"
+        },
+        {
+          "id": "57-55",
+          "title": "Deductions reduced under both sections 57-40 and 57-50",
+          "path": "sections/schedule-2d/division-57/57-55.md"
+        },
+        {
+          "id": "57-60",
+          "title": "Effect of pre-transition time accrued leave entitlements",
+          "path": "sections/schedule-2d/division-57/57-60.md"
+        },
+        {
+          "id": "57-65",
+          "title": "Treatment of bad debts",
+          "path": "sections/schedule-2d/division-57/57-65.md"
+        },
+        {
+          "id": "57-70",
+          "title": "Treatment of superannuation lump sums and employment",
+          "path": "sections/schedule-2d/division-57/57-70.md"
+        },
+        {
+          "id": "57-75",
+          "title": "Domestic losses",
+          "path": "sections/schedule-2d/division-57/57-75.md"
+        },
+        {
+          "id": "57-85",
+          "title": "What are the modified deduction rules and corresponding deduction provisions?",
+          "path": "sections/schedule-2d/division-57/57-85.md"
+        },
+        {
+          "id": "57-90",
+          "title": "Post-transition deductions\u2014assume that the transition",
+          "path": "sections/schedule-2d/division-57/57-90.md"
+        },
+        {
+          "id": "57-95",
+          "title": "Amount of deduction not allowable for transition year",
+          "path": "sections/schedule-2d/division-57/57-95.md"
+        }
+      ]
+    },
+    {
+      "id": "schedule-2f",
+      "title": "Schedule 2F",
+      "sections": [
+        {
+          "id": "265-10",
+          "title": "Diagram giving overview of Schedule",
+          "path": "sections/schedule-2f/division-265/265-10.md"
+        },
+        {
+          "id": "265-5",
+          "title": "What this Schedule is about",
+          "path": "sections/schedule-2f/division-265/265-5.md"
+        },
+        {
+          "id": "266-100",
+          "title": "What this Subdivision is about",
+          "path": "sections/schedule-2f/division-266/266-100.md"
+        },
+        {
+          "id": "266-105",
+          "title": "Diagram giving overview of this Subdivision",
+          "path": "sections/schedule-2f/division-266/266-105.md"
+        },
+        {
+          "id": "266-110",
+          "title": "Listed widely held trust may be denied tax loss deduction",
+          "path": "sections/schedule-2f/division-266/266-110.md"
+        },
+        {
+          "id": "266-115",
+          "title": "Listed widely held trust may be required to work out its net",
+          "path": "sections/schedule-2f/division-266/266-115.md"
+        },
+        {
+          "id": "266-120",
+          "title": "Listed widely held trust may be denied debt deduction",
+          "path": "sections/schedule-2f/division-266/266-120.md"
+        },
+        {
+          "id": "266-125",
+          "title": "There must be no abnormal trading (subject to 50% stake or business continuity exceptions)",
+          "path": "sections/schedule-2f/division-266/266-125.md"
+        },
+        {
+          "id": "266-130",
+          "title": "Deducting part of a tax loss",
+          "path": "sections/schedule-2f/division-266/266-130.md"
+        },
+        {
+          "id": "266-135",
+          "title": "Listed widely held unit trust may be denied tax loss",
+          "path": "sections/schedule-2f/division-266/266-135.md"
+        },
+        {
+          "id": "266-140",
+          "title": "What this Subdivision is about",
+          "path": "sections/schedule-2f/division-266/266-140.md"
+        },
+        {
+          "id": "266-145",
+          "title": "Diagram giving overview of this Subdivision",
+          "path": "sections/schedule-2f/division-266/266-145.md"
+        },
+        {
+          "id": "266-15",
+          "title": "What this Subdivision is about",
+          "path": "sections/schedule-2f/division-266/266-15.md"
+        },
+        {
+          "id": "266-150",
+          "title": "Unlisted very widely held trust or wholesale widely held trust may be denied tax loss deduction",
+          "path": "sections/schedule-2f/division-266/266-150.md"
+        },
+        {
+          "id": "266-155",
+          "title": "Unlisted very widely held trust or wholesale widely held trust may be required to work out its net income and tax loss in a special way",
+          "path": "sections/schedule-2f/division-266/266-155.md"
+        },
+        {
+          "id": "266-160",
+          "title": "Unlisted very widely held trust or wholesale widely held trust may be denied debt deduction",
+          "path": "sections/schedule-2f/division-266/266-160.md"
+        },
+        {
+          "id": "266-165",
+          "title": "There must be no abnormal trading (subject to 50% stake exception)",
+          "path": "sections/schedule-2f/division-266/266-165.md"
+        },
+        {
+          "id": "266-170",
+          "title": "Deducting part of a tax loss",
+          "path": "sections/schedule-2f/division-266/266-170.md"
+        },
+        {
+          "id": "266-175",
+          "title": "What this Subdivision is about",
+          "path": "sections/schedule-2f/division-266/266-175.md"
+        },
+        {
+          "id": "266-180",
+          "title": "Information about family trusts with interests in other",
+          "path": "sections/schedule-2f/division-266/266-180.md"
+        },
+        {
+          "id": "266-185",
+          "title": "Notices where requirements of section 266-180 are met",
+          "path": "sections/schedule-2f/division-266/266-185.md"
+        },
+        {
+          "id": "266-20",
+          "title": "Diagram giving overview of this Subdivision",
+          "path": "sections/schedule-2f/division-266/266-20.md"
+        },
+        {
+          "id": "266-25",
+          "title": "Fixed trust may be denied tax loss deduction",
+          "path": "sections/schedule-2f/division-266/266-25.md"
+        },
+        {
+          "id": "266-30",
+          "title": "Fixed trust may be required to work out its net income and",
+          "path": "sections/schedule-2f/division-266/266-30.md"
+        },
+        {
+          "id": "266-35",
+          "title": "Fixed trust may be denied debt deduction",
+          "path": "sections/schedule-2f/division-266/266-35.md"
+        },
+        {
+          "id": "266-40",
+          "title": "The trust must pass 50% stake test",
+          "path": "sections/schedule-2f/division-266/266-40.md"
+        },
+        {
+          "id": "266-45",
+          "title": "The trust must meet non-fixed trust stake test",
+          "path": "sections/schedule-2f/division-266/266-45.md"
+        },
+        {
+          "id": "266-5",
+          "title": "What this Division is about",
+          "path": "sections/schedule-2f/division-266/266-5.md"
+        },
+        {
+          "id": "266-50",
+          "title": "Deducting part of a tax loss",
+          "path": "sections/schedule-2f/division-266/266-50.md"
+        },
+        {
+          "id": "266-55",
+          "title": "Information about non-fixed trusts with interests in fixed",
+          "path": "sections/schedule-2f/division-266/266-55.md"
+        },
+        {
+          "id": "266-60",
+          "title": "Notices where requirements of section 266-55 are met",
+          "path": "sections/schedule-2f/division-266/266-60.md"
+        },
+        {
+          "id": "266-65",
+          "title": "What this Subdivision is about",
+          "path": "sections/schedule-2f/division-266/266-65.md"
+        },
+        {
+          "id": "266-70",
+          "title": "Diagram giving overview of this Subdivision",
+          "path": "sections/schedule-2f/division-266/266-70.md"
+        },
+        {
+          "id": "266-75",
+          "title": "Unlisted widely held trust may be denied tax loss deduction",
+          "path": "sections/schedule-2f/division-266/266-75.md"
+        },
+        {
+          "id": "266-80",
+          "title": "Unlisted widely held trust may be required to work out its net income and tax loss in a special way",
+          "path": "sections/schedule-2f/division-266/266-80.md"
+        },
+        {
+          "id": "266-85",
+          "title": "Unlisted widely held trust may be denied debt deduction",
+          "path": "sections/schedule-2f/division-266/266-85.md"
+        },
+        {
+          "id": "266-90",
+          "title": "If abnormal trading or end of income year, trust must pass",
+          "path": "sections/schedule-2f/division-266/266-90.md"
+        },
+        {
+          "id": "266-95",
+          "title": "Deducting part of a tax loss",
+          "path": "sections/schedule-2f/division-266/266-95.md"
+        },
+        {
+          "id": "267-10",
+          "title": "Diagram giving overview of this Division",
+          "path": "sections/schedule-2f/division-267/267-10.md"
+        },
+        {
+          "id": "267-15",
+          "title": "What this Subdivision is about",
+          "path": "sections/schedule-2f/division-267/267-15.md"
+        },
+        {
+          "id": "267-20",
+          "title": "Non-fixed trust may be denied tax loss deduction",
+          "path": "sections/schedule-2f/division-267/267-20.md"
+        },
+        {
+          "id": "267-25",
+          "title": "Non-fixed trust may be denied debt deduction",
+          "path": "sections/schedule-2f/division-267/267-25.md"
+        },
+        {
+          "id": "267-30",
+          "title": "If certain distributions are made, the trust must pass the",
+          "path": "sections/schedule-2f/division-267/267-30.md"
+        },
+        {
+          "id": "267-35",
+          "title": "The trust must not have previously failed to meet the condition in subsection 267-30(2)",
+          "path": "sections/schedule-2f/division-267/267-35.md"
+        },
+        {
+          "id": "267-40",
+          "title": "If there are individuals with more than a 50% stake in",
+          "path": "sections/schedule-2f/division-267/267-40.md"
+        },
+        {
+          "id": "267-45",
+          "title": "Group must not begin to control the trust",
+          "path": "sections/schedule-2f/division-267/267-45.md"
+        },
+        {
+          "id": "267-5",
+          "title": "What this Division is about",
+          "path": "sections/schedule-2f/division-267/267-5.md"
+        },
+        {
+          "id": "267-50",
+          "title": "Deducting part of a tax loss",
+          "path": "sections/schedule-2f/division-267/267-50.md"
+        },
+        {
+          "id": "267-55",
+          "title": "What this Subdivision is about",
+          "path": "sections/schedule-2f/division-267/267-55.md"
+        },
+        {
+          "id": "267-60",
+          "title": "Trust may be required to work out its net income and tax",
+          "path": "sections/schedule-2f/division-267/267-60.md"
+        },
+        {
+          "id": "267-65",
+          "title": "Non-fixed trust may be denied debt deduction",
+          "path": "sections/schedule-2f/division-267/267-65.md"
+        },
+        {
+          "id": "267-70",
+          "title": "If there are individuals with more than a 50% stake in",
+          "path": "sections/schedule-2f/division-267/267-70.md"
+        },
+        {
+          "id": "267-75",
+          "title": "Group must not begin to control trust",
+          "path": "sections/schedule-2f/division-267/267-75.md"
+        },
+        {
+          "id": "267-80",
+          "title": "What this Subdivision is about",
+          "path": "sections/schedule-2f/division-267/267-80.md"
+        },
+        {
+          "id": "267-85",
+          "title": "Information about family trusts with interests in other trusts",
+          "path": "sections/schedule-2f/division-267/267-85.md"
+        },
+        {
+          "id": "267-90",
+          "title": "Notices where requirements of section 267-85 are met",
+          "path": "sections/schedule-2f/division-267/267-90.md"
+        },
+        {
+          "id": "268-10",
+          "title": "Income year of fixed trust to be divided into periods\u2014first",
+          "path": "sections/schedule-2f/division-268/268-10.md"
+        },
+        {
+          "id": "268-15",
+          "title": "Income year of fixed trust to be divided into periods\u2014second",
+          "path": "sections/schedule-2f/division-268/268-15.md"
+        },
+        {
+          "id": "268-20",
+          "title": "Income year of widely held unit trust to be divided into",
+          "path": "sections/schedule-2f/division-268/268-20.md"
+        },
+        {
+          "id": "268-25",
+          "title": "Income year of non-fixed trust to be divided into periods",
+          "path": "sections/schedule-2f/division-268/268-25.md"
+        },
+        {
+          "id": "268-30",
+          "title": "Calculate the notional loss or net income for each period",
+          "path": "sections/schedule-2f/division-268/268-30.md"
+        },
+        {
+          "id": "268-35",
+          "title": "How to attribute deductions to periods",
+          "path": "sections/schedule-2f/division-268/268-35.md"
+        },
+        {
+          "id": "268-40",
+          "title": "How to attribute assessable income to periods",
+          "path": "sections/schedule-2f/division-268/268-40.md"
+        },
+        {
+          "id": "268-45",
+          "title": "How to calculate the trust\u2019s net income for the income year",
+          "path": "sections/schedule-2f/division-268/268-45.md"
+        },
+        {
+          "id": "268-5",
+          "title": "What this Division is about",
+          "path": "sections/schedule-2f/division-268/268-5.md"
+        },
+        {
+          "id": "268-60",
+          "title": "How to work out the trust\u2019s section 36-10 tax loss for the income year",
+          "path": "sections/schedule-2f/division-268/268-60.md"
+        },
+        {
+          "id": "268-70",
+          "title": "How to calculate the trust\u2019s notional loss or net income for a period when the trust was a partner",
+          "path": "sections/schedule-2f/division-268/268-70.md"
+        },
+        {
+          "id": "268-75",
+          "title": "How to calculate the trust\u2019s share of a partnership\u2019s notional loss or notional net income for a period if both entities have the same income year",
+          "path": "sections/schedule-2f/division-268/268-75.md"
+        },
+        {
+          "id": "268-80",
+          "title": "How to calculate the trust\u2019s share of a partnership\u2019s notional loss or notional net income for a period if the entities have different income years",
+          "path": "sections/schedule-2f/division-268/268-80.md"
+        },
+        {
+          "id": "268-85",
+          "title": "Trust\u2019s full year deductions include a share of partnership\u2019s",
+          "path": "sections/schedule-2f/division-268/268-85.md"
+        },
+        {
+          "id": "269-10",
+          "title": "Trading",
+          "path": "sections/schedule-2f/division-268/269-10.md"
+        },
+        {
+          "id": "269-100",
+          "title": "Passing the business continuity test",
+          "path": "sections/schedule-2f/division-268/269-100.md"
+        },
+        {
+          "id": "269-105",
+          "title": "Modified test for income years starting on or after 1 July 2015",
+          "path": "sections/schedule-2f/division-268/269-105.md"
+        },
+        {
+          "id": "269-15",
+          "title": "Abnormal trading\u2014general",
+          "path": "sections/schedule-2f/division-268/269-15.md"
+        },
+        {
+          "id": "269-20",
+          "title": "Abnormal trading\u2014suspected acquisition or merger",
+          "path": "sections/schedule-2f/division-268/269-20.md"
+        },
+        {
+          "id": "269-25",
+          "title": "Abnormal trading\u20145% of units in a single transaction",
+          "path": "sections/schedule-2f/division-268/269-25.md"
+        },
+        {
+          "id": "269-30",
+          "title": "Abnormal trading\u2014suspected 5% of units in a series of transactions",
+          "path": "sections/schedule-2f/division-268/269-30.md"
+        },
+        {
+          "id": "269-35",
+          "title": "Abnormal trading\u201420% of units traded, issued or redeemed over 60 day period",
+          "path": "sections/schedule-2f/division-268/269-35.md"
+        },
+        {
+          "id": "269-40",
+          "title": "Abnormal trading\u201450% stake not maintained",
+          "path": "sections/schedule-2f/division-268/269-40.md"
+        },
+        {
+          "id": "269-45",
+          "title": "Time at which trustee to have knowledge or suspicion",
+          "path": "sections/schedule-2f/division-268/269-45.md"
+        },
+        {
+          "id": "269-47",
+          "title": "Abnormal trading where holding trust",
+          "path": "sections/schedule-2f/division-268/269-47.md"
+        },
+        {
+          "id": "269-49",
+          "title": "No abnormal trading where proportionate issue of units",
+          "path": "sections/schedule-2f/division-268/269-49.md"
+        },
+        {
+          "id": "269-5",
+          "title": "What this Division is about",
+          "path": "sections/schedule-2f/division-268/269-5.md"
+        },
+        {
+          "id": "269-50",
+          "title": "More than a 50% stake in income or capital",
+          "path": "sections/schedule-2f/division-268/269-50.md"
+        },
+        {
+          "id": "269-55",
+          "title": "Passing the 50% stake test",
+          "path": "sections/schedule-2f/division-268/269-55.md"
+        },
+        {
+          "id": "269-60",
+          "title": "Pattern of distributions test",
+          "path": "sections/schedule-2f/division-268/269-60.md"
+        },
+        {
+          "id": "269-65",
+          "title": "Test year distribution of income or capital",
+          "path": "sections/schedule-2f/division-268/269-65.md"
+        },
+        {
+          "id": "269-70",
+          "title": "When individual receives different percentages",
+          "path": "sections/schedule-2f/division-268/269-70.md"
+        },
+        {
+          "id": "269-75",
+          "title": "Incomplete distributions",
+          "path": "sections/schedule-2f/division-268/269-75.md"
+        },
+        {
+          "id": "269-80",
+          "title": "Where individual\u2019s death or breakdown of marriage or relationship",
+          "path": "sections/schedule-2f/division-268/269-80.md"
+        },
+        {
+          "id": "269-85",
+          "title": "Arrangements to pass pattern of distributions test",
+          "path": "sections/schedule-2f/division-268/269-85.md"
+        },
+        {
+          "id": "269-95",
+          "title": "Control a non-fixed trust",
+          "path": "sections/schedule-2f/division-268/269-95.md"
+        },
+        {
+          "id": "270-10",
+          "title": "Schemes to take advantage of deductions",
+          "path": "sections/schedule-2f/division-270/270-10.md"
+        },
+        {
+          "id": "270-15",
+          "title": "Tax consequences of schemes",
+          "path": "sections/schedule-2f/division-270/270-15.md"
+        },
+        {
+          "id": "270-20",
+          "title": "Benefit",
+          "path": "sections/schedule-2f/division-270/270-20.md"
+        },
+        {
+          "id": "270-25",
+          "title": "Outsider to trust",
+          "path": "sections/schedule-2f/division-270/270-25.md"
+        },
+        {
+          "id": "270-5",
+          "title": "What this Division is about",
+          "path": "sections/schedule-2f/division-270/270-5.md"
+        },
+        {
+          "id": "271-10",
+          "title": "Family trust distribution tax",
+          "path": "sections/schedule-2f/division-271/271-10.md"
+        },
+        {
+          "id": "271-105",
+          "title": "Amounts subject to family trust distribution tax not assessable",
+          "path": "sections/schedule-2f/division-271/271-105.md"
+        },
+        {
+          "id": "271-15",
+          "title": "Tax liability where family trust makes distribution etc. outside family group",
+          "path": "sections/schedule-2f/division-271/271-15.md"
+        },
+        {
+          "id": "271-20",
+          "title": "Tax liability where interposed trust makes distribution etc. outside family group",
+          "path": "sections/schedule-2f/division-271/271-20.md"
+        },
+        {
+          "id": "271-25",
+          "title": "Tax liability where interposed partnership makes distribution etc. outside family group",
+          "path": "sections/schedule-2f/division-271/271-25.md"
+        },
+        {
+          "id": "271-30",
+          "title": "Tax liability where interposed company makes distribution outside family group",
+          "path": "sections/schedule-2f/division-271/271-30.md"
+        },
+        {
+          "id": "271-35",
+          "title": "Avoidance of double-counting",
+          "path": "sections/schedule-2f/division-271/271-35.md"
+        },
+        {
+          "id": "271-40",
+          "title": "Exclusion of directors from liability to pay tax",
+          "path": "sections/schedule-2f/division-271/271-40.md"
+        },
+        {
+          "id": "271-45",
+          "title": "Requirements for section 271-55 notice to family trust",
+          "path": "sections/schedule-2f/division-271/271-45.md"
+        },
+        {
+          "id": "271-5",
+          "title": "What this Division is about",
+          "path": "sections/schedule-2f/division-271/271-5.md"
+        },
+        {
+          "id": "271-50",
+          "title": "Requirements for section 271-55 notice to interposed entity",
+          "path": "sections/schedule-2f/division-271/271-50.md"
+        },
+        {
+          "id": "271-55",
+          "title": "Notice requiring information about non-resident",
+          "path": "sections/schedule-2f/division-271/271-55.md"
+        },
+        {
+          "id": "271-60",
+          "title": "Tax liability where non-resident family trust\u2019s tax unpaid",
+          "path": "sections/schedule-2f/division-271/271-60.md"
+        },
+        {
+          "id": "271-65",
+          "title": "Tax liability where non-resident interposed entity\u2019s tax unpaid",
+          "path": "sections/schedule-2f/division-271/271-65.md"
+        },
+        {
+          "id": "271-70",
+          "title": "Reduction of liability where tax paid",
+          "path": "sections/schedule-2f/division-271/271-70.md"
+        },
+        {
+          "id": "271-75",
+          "title": "Payment of family trust distribution tax",
+          "path": "sections/schedule-2f/division-271/271-75.md"
+        },
+        {
+          "id": "271-80",
+          "title": "Late payment of family trust distribution tax",
+          "path": "sections/schedule-2f/division-271/271-80.md"
+        },
+        {
+          "id": "271-90",
+          "title": "Notice of liability",
+          "path": "sections/schedule-2f/division-271/271-90.md"
+        },
+        {
+          "id": "271-95",
+          "title": "Request for notice of liability",
+          "path": "sections/schedule-2f/division-271/271-95.md"
+        },
+        {
+          "id": "272-10",
+          "title": "Fixed entitlement to share of income or capital of a company",
+          "path": "sections/schedule-2f/division-272/272-10.md"
+        },
+        {
+          "id": "272-100",
+          "title": "Excepted trust",
+          "path": "sections/schedule-2f/division-272/272-100.md"
+        },
+        {
+          "id": "272-105",
+          "title": "Widely held unit trust",
+          "path": "sections/schedule-2f/division-272/272-105.md"
+        },
+        {
+          "id": "272-110",
+          "title": "Unlisted widely held trust",
+          "path": "sections/schedule-2f/division-272/272-110.md"
+        },
+        {
+          "id": "272-115",
+          "title": "Listed widely held trust",
+          "path": "sections/schedule-2f/division-272/272-115.md"
+        },
+        {
+          "id": "272-120",
+          "title": "Unlisted very widely held trust",
+          "path": "sections/schedule-2f/division-272/272-120.md"
+        },
+        {
+          "id": "272-125",
+          "title": "Wholesale widely held trust",
+          "path": "sections/schedule-2f/division-272/272-125.md"
+        },
+        {
+          "id": "272-127",
+          "title": "Kind of trust can be affected by ownership by higher level trust",
+          "path": "sections/schedule-2f/division-272/272-127.md"
+        },
+        {
+          "id": "272-130",
+          "title": "Trusts beginning or ceasing to exist",
+          "path": "sections/schedule-2f/division-272/272-130.md"
+        },
+        {
+          "id": "272-135",
+          "title": "Listed public company",
+          "path": "sections/schedule-2f/division-272/272-135.md"
+        },
+        {
+          "id": "272-140",
+          "title": "Definitions",
+          "path": "sections/schedule-2f/division-272/272-140.md"
+        },
+        {
+          "id": "272-15",
+          "title": "Fixed entitlement to share of income or capital of a",
+          "path": "sections/schedule-2f/division-272/272-15.md"
+        },
+        {
+          "id": "272-20",
+          "title": "Fixed entitlement to share of income or capital held",
+          "path": "sections/schedule-2f/division-272/272-20.md"
+        },
+        {
+          "id": "272-25",
+          "title": "Special cases of fixed entitlements held directly or indirectly",
+          "path": "sections/schedule-2f/division-272/272-25.md"
+        },
+        {
+          "id": "272-30",
+          "title": "Additional special cases of fixed entitlements held directly or indirectly",
+          "path": "sections/schedule-2f/division-272/272-30.md"
+        },
+        {
+          "id": "272-35",
+          "title": "Arrangements to pass fixed entitlement tests",
+          "path": "sections/schedule-2f/division-272/272-35.md"
+        },
+        {
+          "id": "272-40",
+          "title": "Continued holding of fixed entitlement where death occurs",
+          "path": "sections/schedule-2f/division-272/272-40.md"
+        },
+        {
+          "id": "272-45",
+          "title": "Trust distribution to beneficiary",
+          "path": "sections/schedule-2f/division-272/272-45.md"
+        },
+        {
+          "id": "272-5",
+          "title": "Fixed entitlement to share of income or capital of a trust",
+          "path": "sections/schedule-2f/division-272/272-5.md"
+        },
+        {
+          "id": "272-50",
+          "title": "Company distribution to shareholder",
+          "path": "sections/schedule-2f/division-272/272-50.md"
+        },
+        {
+          "id": "272-55",
+          "title": "Partnership distribution to partner",
+          "path": "sections/schedule-2f/division-272/272-55.md"
+        },
+        {
+          "id": "272-60",
+          "title": "Other distributions of income and capital",
+          "path": "sections/schedule-2f/division-272/272-60.md"
+        },
+        {
+          "id": "272-63",
+          "title": "Distribute indirectly",
+          "path": "sections/schedule-2f/division-272/272-63.md"
+        },
+        {
+          "id": "272-65",
+          "title": "Fixed trust",
+          "path": "sections/schedule-2f/division-272/272-65.md"
+        },
+        {
+          "id": "272-70",
+          "title": "Non-fixed trust",
+          "path": "sections/schedule-2f/division-272/272-70.md"
+        },
+        {
+          "id": "272-75",
+          "title": "Family trust",
+          "path": "sections/schedule-2f/division-272/272-75.md"
+        },
+        {
+          "id": "272-80",
+          "title": "Family trust election",
+          "path": "sections/schedule-2f/division-272/272-80.md"
+        },
+        {
+          "id": "272-85",
+          "title": "Interposed entity election",
+          "path": "sections/schedule-2f/division-272/272-85.md"
+        },
+        {
+          "id": "272-87",
+          "title": "Passing the family control test",
+          "path": "sections/schedule-2f/division-272/272-87.md"
+        },
+        {
+          "id": "272-90",
+          "title": "Family group",
+          "path": "sections/schedule-2f/division-272/272-90.md"
+        },
+        {
+          "id": "272-95",
+          "title": "Family",
+          "path": "sections/schedule-2f/division-272/272-95.md"
+        }
+      ]
+    },
+    {
+      "id": "schedule-2h",
+      "title": "Schedule 2H",
+      "sections": [
+        {
+          "id": "326-1",
+          "title": "What this Division is about",
+          "path": "sections/schedule-2h/division-326/326-1.md"
+        },
+        {
+          "id": "326-10",
+          "title": "Mutual entity and demutualisation",
+          "path": "sections/schedule-2h/division-326/326-10.md"
+        },
+        {
+          "id": "326-100",
+          "title": "Disposal by pre-CGT member of a demutualisation original",
+          "path": "sections/schedule-2h/division-326/326-100.md"
+        },
+        {
+          "id": "326-105",
+          "title": "Disposal by pre-CGT member of a demutualisation original",
+          "path": "sections/schedule-2h/division-326/326-105.md"
+        },
+        {
+          "id": "326-110",
+          "title": "Disposal by pre-CGT member of a demutualisation original",
+          "path": "sections/schedule-2h/division-326/326-110.md"
+        },
+        {
+          "id": "326-115",
+          "title": "Disposal by post-CGT member of a demutualisation",
+          "path": "sections/schedule-2h/division-326/326-115.md"
+        },
+        {
+          "id": "326-120",
+          "title": "Adjusted market value",
+          "path": "sections/schedule-2h/division-326/326-120.md"
+        },
+        {
+          "id": "326-125",
+          "title": "Undeducted membership costs",
+          "path": "sections/schedule-2h/division-326/326-125.md"
+        },
+        {
+          "id": "326-130",
+          "title": "Adjusted first day trading price of demutualisation shares",
+          "path": "sections/schedule-2h/division-326/326-130.md"
+        },
+        {
+          "id": "326-135",
+          "title": "Application of Subdivision",
+          "path": "sections/schedule-2h/division-326/326-135.md"
+        },
+        {
+          "id": "326-140",
+          "title": "Disposal by pre-CGT member of a demutualisation share",
+          "path": "sections/schedule-2h/division-326/326-140.md"
+        },
+        {
+          "id": "326-145",
+          "title": "Disposal by pre-CGT member of a demutualisation share",
+          "path": "sections/schedule-2h/division-326/326-145.md"
+        },
+        {
+          "id": "326-15",
+          "title": "Provisions relating to listing on a stock exchange",
+          "path": "sections/schedule-2h/division-326/326-15.md"
+        },
+        {
+          "id": "326-150",
+          "title": "Disposal by post-CGT member of a demutualisation share",
+          "path": "sections/schedule-2h/division-326/326-150.md"
+        },
+        {
+          "id": "326-155",
+          "title": "Disposal by pre-CGT member of a demutualisation original",
+          "path": "sections/schedule-2h/division-326/326-155.md"
+        },
+        {
+          "id": "326-160",
+          "title": "Disposal by pre-CGT member of a demutualisation original",
+          "path": "sections/schedule-2h/division-326/326-160.md"
+        },
+        {
+          "id": "326-165",
+          "title": "Disposal by post-CGT member of a demutualisation",
+          "path": "sections/schedule-2h/division-326/326-165.md"
+        },
+        {
+          "id": "326-170",
+          "title": "Various adjusted market values",
+          "path": "sections/schedule-2h/division-326/326-170.md"
+        },
+        {
+          "id": "326-175",
+          "title": "Undeducted membership costs",
+          "path": "sections/schedule-2h/division-326/326-175.md"
+        },
+        {
+          "id": "326-180",
+          "title": "Amount taken to be paid for acquisition of shares or interest by member to be increased by capital gain or reduced by capital loss",
+          "path": "sections/schedule-2h/division-326/326-180.md"
+        },
+        {
+          "id": "326-185",
+          "title": "Disposal of right to receive shares in demutualised entity",
+          "path": "sections/schedule-2h/division-326/326-185.md"
+        },
+        {
+          "id": "326-190",
+          "title": "Extinguishment of right to shares in demutualised entity by the issue of the shares",
+          "path": "sections/schedule-2h/division-326/326-190.md"
+        },
+        {
+          "id": "326-195",
+          "title": "Disposal of right to receive shares in holding company",
+          "path": "sections/schedule-2h/division-326/326-195.md"
+        },
+        {
+          "id": "326-20",
+          "title": "Demutualisation resolutions etc.",
+          "path": "sections/schedule-2h/division-326/326-20.md"
+        },
+        {
+          "id": "326-200",
+          "title": "Disposal of interest in trust that holds shares in",
+          "path": "sections/schedule-2h/division-326/326-200.md"
+        },
+        {
+          "id": "326-205",
+          "title": "Transfer of share or distribution of proceeds of sale of share",
+          "path": "sections/schedule-2h/division-326/326-205.md"
+        },
+        {
+          "id": "326-210",
+          "title": "Disposal by a trustee",
+          "path": "sections/schedule-2h/division-326/326-210.md"
+        },
+        {
+          "id": "326-215",
+          "title": "Change of rights to, and replacement of, special shares",
+          "path": "sections/schedule-2h/division-326/326-215.md"
+        },
+        {
+          "id": "326-220",
+          "title": "Disposal of shares or interest in shares",
+          "path": "sections/schedule-2h/division-326/326-220.md"
+        },
+        {
+          "id": "326-225",
+          "title": "Payment out of assets of demutualised entity that is not",
+          "path": "sections/schedule-2h/division-326/326-225.md"
+        },
+        {
+          "id": "326-230",
+          "title": "Indexing of amounts",
+          "path": "sections/schedule-2h/division-326/326-230.md"
+        },
+        {
+          "id": "326-235",
+          "title": "Indexation factor",
+          "path": "sections/schedule-2h/division-326/326-235.md"
+        },
+        {
+          "id": "326-240",
+          "title": "Index number",
+          "path": "sections/schedule-2h/division-326/326-240.md"
+        },
+        {
+          "id": "326-245",
+          "title": "General taxation consequences of issue of demutualisation shares",
+          "path": "sections/schedule-2h/division-326/326-245.md"
+        },
+        {
+          "id": "326-25",
+          "title": "Demutualisation shares",
+          "path": "sections/schedule-2h/division-326/326-25.md"
+        },
+        {
+          "id": "326-30",
+          "title": "Existing members and new members",
+          "path": "sections/schedule-2h/division-326/326-30.md"
+        },
+        {
+          "id": "326-35",
+          "title": "Pre-CGT members and post-CGT members",
+          "path": "sections/schedule-2h/division-326/326-35.md"
+        },
+        {
+          "id": "326-40",
+          "title": "Methods of demutualisation",
+          "path": "sections/schedule-2h/division-326/326-40.md"
+        },
+        {
+          "id": "326-45",
+          "title": "Direct method",
+          "path": "sections/schedule-2h/division-326/326-45.md"
+        },
+        {
+          "id": "326-5",
+          "title": "Application",
+          "path": "sections/schedule-2h/division-326/326-5.md"
+        },
+        {
+          "id": "326-50",
+          "title": "Holding company method",
+          "path": "sections/schedule-2h/division-326/326-50.md"
+        },
+        {
+          "id": "326-52",
+          "title": "Combined direct and holding company method",
+          "path": "sections/schedule-2h/division-326/326-52.md"
+        },
+        {
+          "id": "326-55",
+          "title": "Distributing trust method",
+          "path": "sections/schedule-2h/division-326/326-55.md"
+        },
+        {
+          "id": "326-60",
+          "title": "Continuity of beneficial interest test",
+          "path": "sections/schedule-2h/division-326/326-60.md"
+        },
+        {
+          "id": "326-65",
+          "title": "Extinguishment of membership rights",
+          "path": "sections/schedule-2h/division-326/326-65.md"
+        },
+        {
+          "id": "326-70",
+          "title": "Application of Subdivision",
+          "path": "sections/schedule-2h/division-326/326-70.md"
+        },
+        {
+          "id": "326-75",
+          "title": "Capital losses made from certain disposals to be disregarded",
+          "path": "sections/schedule-2h/division-326/326-75.md"
+        },
+        {
+          "id": "326-80",
+          "title": "Disposal by pre-CGT member of a demutualisation share",
+          "path": "sections/schedule-2h/division-326/326-80.md"
+        },
+        {
+          "id": "326-85",
+          "title": "Disposal by pre-CGT member of a demutualisation share",
+          "path": "sections/schedule-2h/division-326/326-85.md"
+        },
+        {
+          "id": "326-90",
+          "title": "Disposal by pre-CGT member of a demutualisation share",
+          "path": "sections/schedule-2h/division-326/326-90.md"
+        },
+        {
+          "id": "326-95",
+          "title": "Disposal by post-CGT member of a demutualisation share",
+          "path": "sections/schedule-2h/division-326/326-95.md"
+        }
+      ]
     }
   ]
 }

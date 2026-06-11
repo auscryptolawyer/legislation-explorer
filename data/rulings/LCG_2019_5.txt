@@ -1,0 +1,720 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2019/5
+Base rate entities and base rate entity passive income
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+LCR 2019/5EC
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+5
+General scheme
+6
+Base rate entity passive income
+9
+Interest (or payments in the nature of interest)
+10
+What is interest?
+11
+Payments in the nature of interest
+12
+Royalties
+13
+Rent
+15
+A net capital gain
+16
+Trusts and partnerships
+17
+Streaming of franked dividends and capital gains by the trustee of a trust
+19
+Apportionment of expenses
+23
+Example 1.1 - apportionment of directly referable trust income
+24
+Example 1.2 - working out amount of a company's share of net income attributable to BREPI
+27
+Example 1.3 - working out amount of a company's BREPI where it receives a distribution from an attribution managed investment trust (AMIT)
+31
+Example 1.4 - how to characterise income received by a trust
+35
+Example 1.5 - apportionment of indirectly referable trust income
+39
+Example 1.6 - apportionment of trust expenses
+47
+Imputation
+53
+Example 2.1 - company does not have a previous income year
+59
+Example 2.2 - company does not have any assessable income in the previous  income year
+61
+Example 2.3 - corporate tax rate is different to corporate tax rate for imputation  purposes because of aggregated turnover change in consecutive income years
+65
+Example 2.4 - corporate tax rate is different to corporate tax rate for imputation  purposes because of a change in the percentage of BREPI in consecutive  income years
+68
+Appendix 1 - Related ATO rulings and guidance
+71
+Relying on this Ruling
+This publication (excluding appendix) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Ruling applies to you, and you correctly rely on it in good faith, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+Further, if we think that this Ruling disadvantages you, we may apply the law in a way that is more favourable to you.
+[Note:
+This is a consolidated version of this document. Refer to the Legal Database
+(www.ato.gov.au/Law)
+to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling considers the
+Treasury Laws Amendment (Enterprise Tax Plan Base Rate Entities) Act 2018
+which amends the law to limit access to the lower corporate tax rate. From the 2017-18 income year a corporate tax entity must be a 'base rate entity' to be taxed at the lower rate. This Act also makes changes to how a corporate tax entity calculates the amount of a franking credit it may attach to a frankable distribution.
+2. This Ruling provides advice on:
+•
+the general scheme of the new law
+•
+what amounts of assessable income are 'base rate entity passive income' (BREPI)
+•
+the meaning of rent, interest and when a share of net income of a trust or partnership is referable to an amount of BREPI, and
+•
+how to calculate a corporate tax entity's corporate tax rate for imputation purposes and work out the maximum amount of the franking credit it may attach to frankable distributions.
+3. This Ruling does not provide guidance on terms and concepts where there is existing ATO guidance on their meaning and the context of the law does not suggest a different meaning. This existing advice is summarised in Appendix 1 of this Ruling.
+4. All legislative references in this Ruling are to the
+Income Tax Rates Act 1986
+(ITRA 1986) unless otherwise indicated.
+Date of effect
+5. This Ruling is a public ruling, effective for those who rely on it in good faith from the 2017-18 income year and later income years as set out in the
+Treasury Laws Amendment (Enterprise Tax Plan Base Rate Entities) Act 2018
+.
+General scheme
+6. Under the new law, a corporate tax entity will be taxed at the lower corporate tax rate if it is a base rate entity. A corporate tax entity will be a base rate entity for an income year if:
+•
+no more than 80% of its assessable income for that year is BREPI
+[1]
+, and
+•
+its aggregated turnover
+[2]
+for that income year, worked out as at the end of that year, is less than the aggregated turnover threshold for the year ($25 million in the 2017-18 income year, $50 million from the 2018-19 year).
+[3]
+6A. It is important to note that aggregated turnover is calculated for the income year in which base rate entity status is being determined, and is worked out as at the end of that year. This means that aggregated turnover for any earlier income year is irrelevant for determining base rate entity status. The corporate entity's aggregated turnover is the sum of its ordinary income, and the ordinary income of any connected entities
+[5A]
+or affiliates
+[5B]
+, derived in the ordinary course of carrying on a business.
+7. Unlike the aggregated turnover test, a corporate tax entity does not include the BREPI or assessable income of any connected entity or affiliate when determining whether it meets the 80% BREPI test. In other words, it is only the BREPI and assessable income of the corporate tax entity that is relevant when determining whether 80% or more of its assessable income is BREPI. The BREPI and assessable income of any connected entity or affiliate is not relevant for this purpose.
+8. Eligibility for the lower corporate tax rate depends on an entity's BREPI and aggregated turnover in an income year. A corporate tax entity's tax rate may change if there are fluctuations in either their BREPI, as a percentage of their assessable income, or their aggregated turnover. The Commissioner does not have a discretion to allow an entity to be a base rate entity in an income year, if its BREPI is more than 80% of its assessable income or its aggregated turnover exceeds the applicable threshold in that income year.
+Base rate entity passive income
+9. The types of assessable income of an entity
+[6]
+that are BREPI are listed in section 23AB. Table 1 of this Ruling summarises the different forms of assessable income that are BREPI and whether they are defined terms.
+Table 1 - types of base rate entity passive income
+Base rate entity passive income
+Is the form of BREPI a defined term?
+Distributions by a corporate tax entity (but not including non-portfolio dividends) and franking credits on these distributions
+[7]
+Yes:  distribution (section 960-120 of the ITAA 1997) by a corporate tax entity (section 960-115 of the ITAA 1997)
+Yes:  non-portfolio dividend:  section 317 of the
+Income Tax Assessment Act 1936
+(ITAA 1936)
+Yes:  franking credits:  section 205-15 of the ITAA 1997
+Non-share dividends
+[8]
+Yes:  section 974-120 of the ITAA 1997
+Interest (or payments in the nature of interest)
+[9]
+except:
+•    where the entity
+No:  interest (or payments in the nature of interest)
+-    is a financial institution
+[10]
+Yes:  financial institution:  section 202A of the ITAA 1936
+-    is a 'registered entity' that carries on a general business of providing finance on a commercial basis
+[11]
+Yes:  registered entity:  subsection 5(3) of the
+Financial Sector (Collection of Data) Act 2001
+(FSCDA)
+Yes:  providing finance:  subsection 32(1) of the FSCDA
+-    holds an 'Australian credit licence' or is a 'credit representative' of another entity that holds such an Australian credit licence
+[12]
+, or
+Yes:  Australian credit licence:  subsection 35(1) of the
+National Consumer Credit Protection Act 2009
+(NCCPA)
+Yes:  credit representative:  subsections 64(2) and 65(2) of the NCCPA
+-    is a 'financial services licensee' whose licence covers dealings in securities, or is an 'authorised representative' of such a financial services licensee, or
+Yes:  financial services licensee:  section 761A of the
+Corporations Act 2001
+Yes:  authorised representative:  section 761A of the
+Corporations Act 2001
+•    to the extent that it is a return on an equity interest in a company
+[13]
+Yes:  equity interest in a company: Subdivision 974-C of the ITAA 1997
+Royalties
+[14]
+Yes
+[15]
+:  subsection 6(1) of the ITAA 1936
+Rent
+[16]
+No:  rent means the consideration payable by a tenant to a landlord for the exclusive possession and use of land or premises
+[17]
+A gain on a qualifying security
+[18]
+Yes:  qualifying security:  Division 16E of Part III of the ITAA 1936
+A net capital gain
+[19]
+Yes:  net capital gain:  sections 102-5 and 165-111 of the ITAA 1997
+An amount included in the assessable income of a partner or a beneficiary from a trust or partnership, to the extent it is referable to an amount that is otherwise BREPI
+[20]
+No:  this is the corporate tax entity's share of net income worked out under Divisions 5 and 6 of Part III of the ITAA 1936 (and Subdivisions 115-C and 207-B of the ITAA 1997) to the extent it is attributable to BREPI
+Interest (or payments in the nature of interest)
+10. Interest (or payments in the nature of interest) is BREPI
+[21]
+, except in the circumstances outlined in Table 1 of this Ruling.
+What is interest?
+11. Interest means 'the return, consideration, or compensation for the use or retention by one person of a sum of money belonging to, or owed to, another, and that interest must be referable to a principal'.
+[22]
+Payments in the nature of interest
+12. Payments in the nature of interest must have the character of return or profit to the lender for the use of money belonging to, or owed to another.
+[23]
+Whether a payment has this character turns on its substance, no matter how it is calculated.
+[24]
+For example, payments are not in the nature of interest if they are payable under a clause in a contract that requires a borrower to pay a lender's costs and liabilities a lender incurs to establish a loan, or under an indemnification clause to pay amounts of tax payable on interest received.
+[25]
+Royalties
+13. 'Royalties' in paragraph 23AB(1)(d) has the meaning given by subsection 6(1) of the ITAA 1936.
+[26]
+The ATO's views on the meaning of royalty are contained in the advice listed in Appendix 1 of this Ruling.
+14. The definition of 'royalties' in subsection 6(1) of the ITAA 1936 extends the ordinary meaning of royalties to include specified payments. For example, the expanded definition of royalties includes the right to use industrial, commercial or scientific equipment.
+[27]
+Therefore, a hiring fee for the use of or the right to use industrial, commercial or scientific equipment (including machinery) will be a royalty within the meaning of subsection 6(1) and will be BREPI.
+[28]
+Rent
+15. Consistent with the purpose of the amendment, 'rent' in paragraph 23AB(1)(d) means the consideration payable by a tenant to a landlord for the exclusive possession and use of land or premises.
+[29]
+The Commissioner's view and examples on when consideration paid for the use of land or premises will be rent for the purpose of paragraph 23AB(1)(d) are set out in TD 2006/78. As rent takes its ordinary meaning there are no statutory income tax law exceptions that apply in contrast to the definition for interest (or payments in the nature of interest).
+A net capital gain
+16. A net capital gain for an income year is calculated using the method described in subsection 102-5(1) of the ITAA 1997.
+[30]
+Broadly, it is calculated by subtracting the total of capital losses made in the income year and carried forward net capital losses, from the total of capital gains made in an income year. This is then adjusted for any small business concessions to which the taxpayer is entitled.
+[31]
+Trusts and partnerships
+17. If a company is assessed on a share of net income from a trust, or their individual interest in the net income of a partnership, it will have BREPI to the extent that the amount included in its assessable income under Divisions 5 or 6 of Part III of the ITAA 1936 is referable to BREPI of the trust or partnership.
+[32]
+18. Where there is a chain of trusts or partnerships, the tests must be applied at each level.
+Streaming of franked dividends and capital gains by the trustee of a trust
+19. Where a trust makes capital gains or receives a franked distribution, the trustee may (where they have an express or implied power under the trust deed) stream these amounts to particular beneficiaries for tax purposes.
+[33]
+This can occur by making a beneficiary specifically entitled to these amounts.
+20. Where a franked dividend paid to a trustee of a trust is streamed to a beneficiary that is a corporate tax entity, it is not a non-portfolio dividend of the corporate tax entity, as the dividend is not paid to a company that has a voting interest of at least 10% of the voting power in the company paying the dividend.
+[34]
+21. The amount of a franked dividend streamed to a beneficiary of a trust is treated as being included in the beneficiary's assessable income under Division 6 of the ITAA 1936 for the purposes of applying the BREPI test in section 23AB.
+[35]
+22. Other amounts of the net income of a trust (including capital gains and franked distributions to which no beneficiary is specifically entitled) are proportionately shared between beneficiaries based on their present entitlements to trust income.
+[36]
+Apportionment of expenses
+23. In determining each beneficiary's or partner's share of net income, the trustee or partners must allocate expenses in a fair and reasonable way. Generally, expenses that can be clearly attributed to income should be allocated against that income. Indirect expenses that relate to more than one amount such as overheads, must be fairly and reasonably apportioned between different amounts.
+[37]
+Example 1.1 - apportionment of directly referable trust income
+24.
+John Smith and Smith Pty Ltd are the beneficiaries of the JD Smith Trust. The JD Smith Trust owns a commercial investment property. In the 2017-18 income year, the net income of the JD Smith Trust comprised:
+•
+$800,000 in rental income (net of expenses), and
+•
+$200,000 in fees for services (net of expenses).
+25.
+John Smith and Smith Pty Ltd were each presently entitled to half of the distributable income of the JD Smith Trust. Therefore, the amount included in the assessable income of each of the beneficiaries is $500,000 under Division 6 of the ITAA 1936 (as each beneficiary's share of the net income of the trust estate).
+26.
+The $500,000 included in the assessable income of Smith Pty Ltd will be BREPI to the extent that it is referable to another amount that is BREPI. Rental income is BREPI
+[38]
+, so the amount of the trust's net income assessed to Smith Pty Ltd that is referable to rental income ($400,000) will be BREPI. The amount referable to fees for services ($100,000) is not BREPI. Assuming Smith Pty Ltd has no other income, its BREPI will be 80% of its assessable income. As a result, for that income year it is eligible for the lower corporate tax rate.
+Example 1.2 - working out amount of a company's share of net income attributable to BREPI
+27.
+Company 1, Sub Trust 1 and Bob are beneficiaries of the Busy Trust. The net income of Busy Trust consisted of the following amounts:
+•
+$500,000 business income (net of expenses)
+•
+$300,000 unfranked dividend (net of expenses), and
+•
+$200,000 rental income (net of expenses).
+28.
+For trust law purposes, the trustee of Busy Trust resolved to make Company 1 presently entitled to its net business income, Bob presently entitled to the net unfranked dividend and Sub Trust 1 presently entitled to the net rental income.
+29.
+For tax law purposes, as Company 1 was presently entitled to $500,000 of the trust's income available for distribution (that is, $1 million or 50%), it was assessable on 50% of the trust's net income.
+30.
+Although Company 1's share of net income is $500,000, that amount is not referable solely to business income. The effect of Division 6 of the ITAA 1936 is that Company 1's share of net income is attributable to:
+•
+$250,000 of business income, which is not BREPI
+•
+$150,000 of unfranked dividend income, which is BREPI, and
+•
+$100,000 of rental income, which is BREPI.
+Assuming Company 1 has no other income, its BREPI will be 50% of its assessable income. As a result, for that income year it is eligible for the lower corporate tax rate.
+Example 1.3 - working out the amount of a company's BREPI where it receives a distribution from an attribution managed investment trust (AMIT)
+31.
+Company 1 is a unit holder in the Alpha Attribution Managed Investment Trust (AMIT). The Alpha AMIT is a beneficiary of the Bega Trust. The net income of the Bega Trust consists of the following amounts:
+•
+$50,000 interest income
+•
+$400,000 net capital gains, and
+•
+$300,000 franked dividends.
+32.
+Alpha AMIT is specifically entitled to the capital gains and franked distributions of the Bega Trust, and so the amounts of $400,000 and $300,000 are included in its assessable income under Subdivision 115-C of the ITAA 1997 and Subdivision 207-B of the ITAA 1997, respectively.
+33.
+The trustee of the Bega Trust resolves to distribute all of the remaining net income of the trust to the Alpha AMIT, with the amount $50,000 (referable to interest derived by the Bega Trust) included in Alpha AMIT's assessable income as a presently entitled beneficiary under Division 6 of the ITAA 1936.
+[39]
+34.
+When Company 1 receives its distribution from the Alpha AMIT, for the purposes of determining the effects to Company 1 of including an amount in its assessable income, section 276-80 of the ITAA 1997 treats the amounts distributed as having been derived by Company 1 in its own right, and with the character of each amount flowing through to Company 1.
+[40]
+Therefore, Company 1's share of the following amounts will be BREPI of Company 1:
+•
+the net capital gain (paragraph 23AB(1)(f))
+•
+the franked dividend (paragraph 23AB(1)(a), noting that the dividend is not a non-portfolio dividend as it is not paid to a company that has a voting interest of at least 10% of the voting power in the company paying the dividend)
+•
+the franking credit on the franked dividend (paragraph 23AB(1)(b)), and
+•
+the Division 6 of the ITAA 1936 amount (paragraph 23A(1)(g), as the amount that is included in the assessable income of Alpha AMIT under Division 6 is entirely referable (indirectly) to an amount of interest that is BREPI under paragraph 23AB(1)(d)).
+As 100% of Company 1's assessable income for the year of income is BREPI, it is taxable at the rate of 30%. As a result, for that income year it is not eligible for the lower corporate tax rate.
+Example 1.4 - how to characterise dividends received by a trust
+35.
+Top Floor Co is wholly owned by the Mezanine Trust, which has two beneficiaries:  Freddy and Basement Co. Top Floor Co derives only rental income. Top Floor Co pays a franked dividend to the MezanineTrust.
+36.
+The Mezanine Trust also derives interest from a bank account. The trustee streams the franked dividend to Basement Co for trust law purposes and this is effective for tax purposes under Subdivision 207-B of the ITAA 1997. Basement Co has no other income. The trustee resolved to distribute all of the remaining distributable income of the trust to Freddy (that is, the interest income).
+37.
+Basement Co needs to determine the extent to which its share of the net income of the Mezanine Trust is attributable to another amount that is BREPI. The franked dividend received by Mezanine Trust from Top Floor Co is not a non-portfolio dividend, as it is not paid to a company.
+[41]
+The franked dividend received by Mezanine Trust is BREPI.
+[42]
+38.
+Basement Co's share of the net income of the Mezanine Trust is entirely referable to BREPI.
+[43]
+As a result, for that income year it is not eligible for the lower corporate tax rate.
+Example 1.5 - apportionment of indirectly referable trust income
+39.
+Succotash Pty Ltd and Tom Edwards are beneficiaries of the Beta Trust. The Beta Trust is the sole beneficiary of the Central Property Trust.
+40.
+The Central Property Trust owns commercial rental properties which it leases on normal commercial terms. In the 2017-18 income year, the Central Property Trust's net income was $900,000, derived solely from the rental of its commercial properties. All (100%) of its net income is attributable to BREPI.
+41.
+The Beta Trust was entitled to all Central Property Trust's trust income. Beta Trust's net income included $900,000 of BREPI, attributable to the net income from the Central Property Trust.
+42.
+The Beta Trust also earned $100,000 in net trading income by operating a retail business. The net income of the Beta Trust for the 2017-18 income year was $1 million.
+43.
+The $900,000 share of net income of the Central Property Trust is attributable solely to rental income, and so is referable to BREPI. Beta Trust has also included $100,000 in net trading income in its net income. Of Beta Trust's $1 million in assessable income in the 2017-18 income year, 90% is BREPI.
+44.
+Succotash Pty Ltd is presently entitled to 50% of the trust income of the Beta Trust. Half (50%) of the net income of the Beta Trust is included in its assessable income.
+45.
+Succotash Pty Ltd earned no other income in the 2017-18 income year. Its  2017-18 assessable income was $500,000, consisting entirely of the Beta Trust distribution.
+46.
+Of the $500,000 share of net income of the Beta Trust on which Succotash Pty Ltd is assessed, 90% is referable to BREPI, therefore it is taxable at the 30% rate. As a result, for that income year it is not eligible for the lower corporate tax.
+Example 1.6 - apportionment of trust expenses
+47.
+Orange Grove Co is the beneficiary of the Orange Trust, which owns and operates a small citrus grove. In the 2017-18 income year, the Orange Trust received:
+•
+$850,000 from the sale of oranges, and
+•
+$400,000 from renting out parts of the grove.
+48.
+In the 2017-18 income year the Orange Trust paid an accountant to handle the financial affairs to the Trust, which cost $50,000. It also hired labourers to assist in the sale of oranges, which cost $150,000, and staff to manage the renting of the grove, which cost $100,000.
+49.
+In determining its net income, the Orange Trust allocated its expenses against its two sources of income. The cost of $150,000 for hiring labourers was attributed to trading income from the sale of oranges, reducing that amount to $700,000. The cost of $100,000 for hiring staff to manage the renting of the grove was attributed to rental income, reducing that amount to $300,000. The accountant's cost of $50,000 related to both income amounts and needed to be apportioned on a fair and reasonable basis. In these circumstances, an apportionment that reflected the proportions of each income source was considered to be fair and reasonable.
+50.
+The $50,000 spent on an accountant was apportioned in the following way:
+•
+$35,000 was attributed to the income from selling oranges (that is, $50,000 × $700,000 / ($700,000 + $300,000)), reducing that amount to $665,000, and
+•
+$15,000 was attributed to the income from renting the grove (that is, $50,000 × $300,000 / ($300,000 + $700,000)), reducing that amount to $285,000.
+51.
+Orange Grove Co was presently entitled to all of the trust income of the Orange Trust in the 2017-18 income year. Its assessable income therefore included all of the net income of the Orange Trust totalling $950,000. Orange Grove Co included no other income in its assessable income. Of the $950,000, the $285,000 referable to rental income was BREPI.
+[44]
+The remaining $665,000 was referable to trading income, which is not BREPI.
+52.
+Orange Grove Co has BREPI of 30% and its aggregated turnover is below the relevant threshold of $25 million. As a result, for that income year it is eligible for the lower corporate tax rate.
+Imputation
+53. This section provides guidance on the imputation consequences of the lower corporate tax rate and the distinction between the corporate tax rate and the 'corporate tax rate for imputation purposes'.
+54. The franking credit a corporate tax entity may attach to a frankable distribution cannot exceed the maximum franking credit for the distribution.
+[45]
+The maximum franking credit is worked out by reference to the corporate tax entity's corporate tax rate for imputation purposes.
+[46]
+55. A corporate tax entity's corporate tax rate for imputation purposes is worked out differently to its tax rate. This means a corporate tax entity's tax rate for an income year may be different to the rate it can frank dividends in that year.
+56. The
+Treasury Laws Amendment (Enterprise Tax Plan Base Rate Entities) Act 2018
+amends the meaning of corporate tax rate for imputation purposes from the 2017-18 income year.
+[47]
+From the 2017-18 income year a corporate tax entity works out its corporate tax rate for imputation purposes by
+[48]
+:
+•
+assuming that its aggregated turnover, BREPI and assessable income are the same as in the previous income year, and
+•
+applying the corporate tax rate for the current income year.
+57. In determining the corporate tax rate for imputation purposes for an income year, a corporate tax entity does not apply the aggregated turnover threshold for the previous income year. Rather, it compares its aggregated turnover for the previous income year against the aggregated turnover threshold for the current income year.
+58. If the entity did not exist in the previous income year, its corporate tax rate for imputation purposes is 27.5%.
+[49]
+Example 2.1 - company does not have a previous income year
+59.
+Kookaburra Co was founded on 1 July 2017.
+60.
+As Kookaburra Co did not exist in the prior income year (the 2016-17 income year), its 2017-18 corporate tax rate for imputation purposes is 27.5%.
+Example 2.2 - company does not have any assessable income in the previous income year
+61.
+Swan Co has been carrying on a business since 1 July 2014.
+62.
+In the 2016-17 income year, Swan Co was dormant and had no aggregated turnover.
+Swan
+Co's 2016-17 assessable income was nil, and so its BREPI was nil.
+63.
+As Swan Co existed in the 2016-17 income year, the corporate tax rate for imputation purposes of Swan Co for the 2017-18 income year is determined as the corporate tax rate for the 2017-18 income year based on the assumption that its aggregated turnover, BREPI and assessable income are the same as the 2016-17 income year.
+64.
+As Swan Co's assessable income and BREPI for the 2016-17 income year are nil, it has no more than 80% of its assessable income as BREPI. As Swan Co has no connected entities or affiliated entities in the 2016-17 income year, Swan Co's aggregated turnover for the 2016-17 income year is nil, its aggregated turnover is less than the relevant threshold for the 2017-18 income year. Therefore, its corporate tax rate for imputation purposes for the 2017-18 income year is 27.5%.
+Example 2.3 - corporate tax rate is different to corporate tax rate for imputation purposes because of aggregated turnover change in consecutive income years
+65.
+In the 2016-17 income year, Emu Co had aggregated turnover of $24 million. Emu Co's 2016-17 assessable income was 55% BREPI.
+66.
+In the 2017-18 income year, Emu Co had aggregated turnover of $28 million. Emu Co's 2017-18 assessable income was 62% BREPI. Because Emu Co's 2017-18 aggregated turnover was above the aggregated turnover threshold of $25 million, it is not a base rate entity, and had a 2017-18 corporate tax rate of 30%.
+67.
+Emu Co has a 2017-18 corporate tax rate for imputation purposes of 27.5%. This is because it is assumed its aggregated turnover, BREPI and assessable income are the same as the previous income year. As such, it is assumed that, for the purposes of determining the corporate tax rate for imputation purposes for the 2017-18 income year, Emu Co's aggregated turnover is the same as the 2016-17 income year, being $24 million and of that, 55% is BREPI. Accordingly, as its aggregated turnover is below the threshold of $25 million and its BREPI is not more than 80% of its assessable income, its corporate tax rate for imputation purposes is 27.5%.
+Example 2.4 - corporate tax rate is different to corporate tax rate for imputation purposes because of a change in the percentage of BREPI in consecutive income years
+68.
+In the 2017-18 income year, Cockatoo Co had an aggregated turnover of $48 million. Cockatoo Co's 2017-18 assessable income was 82% BREPI.
+69.
+In the 2018-19 income year, Cockatoo Co had aggregated turnover of $46 million. Cockatoo Co's 2018-19 assessable income was 75% BREPI. Cockatoo Co's 2018-19 aggregated turnover was below the aggregated turnover threshold of $50 million, and its BREPI was below the 80% threshold. Therefore, it was a base rate entity, with a 2018-19 corporate tax rate of 27.5%.
+70.
+Cockatoo Co has a 2018-19 corporate tax rate for imputation purposes of 30%. This is because it is assumed its aggregated turnover, BREPI and assessable income are the same as the previous income year. As such it is assumed that, for the purposes of determining the corporate tax rate for imputation for the 2018-19 income year, Cockatoo Co's aggregated turnover is the same as the 2017-18 income year, being $48 million, of which 82% is BREPI. Although the aggregated turnover is below the threshold of $50 million, its BREPI is above the 80% threshold. Accordingly, its corporate tax rate for imputation purposes is 30%.
+Commissioner of Taxation
+13 December 2019
+Appendix 1 - Related ATO rulings and guidance
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+71. The first column of the below table lists amounts of assessable income that are base rate entity passive income. The second column lists other guidance material relevant to those amounts.
+Base rate entity passive income
+Other guidance material
+Corporate distributions (but not including non-portfolio dividends) and franking credits on these distributions
+[50]
+Taxation Ruling 2012/5
+Income tax:  section 254T of the Corporations Act 2001 and the assessment and franking of dividends paid from 28 June 2010
+Taxation Determination TD 2008/25
+Income tax:  can section 23AJ of the Income Tax Assessment Act 1936 apply to a dividend paid by a company (not being a Part X Australian resident) to the trustee of a trust, even where the trustee then pays an amount attributable to the dividend to an Australian resident company beneficiary?
+Taxation Determination TD 2008/24
+Income tax:  can section 23AJ of the Income Tax Assessment Act 1936 apply to a dividend when it is paid by a company (not being a Part X Australian resident) to an Australian resident company which receives it in its capacity as a partner in a partnership?
+Interest (or payments in the nature of interest)
+[51]
+Taxation Ruling TR 2002/4
+Income tax:  taxation implications of the Century Yuasa Batteries decision
+Royalties
+[52]
+Taxation Ruling IT 2660
+Income tax:  definition of royalties
+Taxation Ruling TR 2008/7
+Income tax:  royalty withholding tax and the assignment of copyright
+Taxation Ruling TR 93/12
+Income tax:  computer software
+Taxation Ruling TR 95/6
+Income tax:  primary production and forestry
+Taxation Ruling TR 2004/17
+Income tax:  indemnification of royalty withholding tax
+Rent
+[53]
+Taxation Determination TD 2006/78
+Income tax:  capital gains:  are there any circumstances in which the premises used in a business of providing accommodation for reward may satisfy the active asset test in section 152-35 of the Income Tax Assessment Act 1997 notwithstanding the exclusion in paragraph 152-40(4)(e) of the Income Tax Assessment Act 1997 for assets whose main use is to derive rent?
+Taxation Ruling TR 2002/14
+Income tax:  taxation of retirement village operators
+A gain on a qualifying security
+[54]
+Taxation Ruling TR 96/3
+Income tax:  'periodic interest' in Division 16E of the Income Tax Assessment Act 1936
+Taxation Ruling TR 96/14
+Income tax:  traditional securities
+An amount included in the assessable income of a partner or a beneficiary from a trust or partnership, to the extent it is referable (either directly or indirectly) to an amount that is otherwise BREPI
+[55]
+Draft Taxation Ruling TR 2012/D1
+Income tax:  meaning of 'income of the trust estate' in Division 6 of Part III of the Income Tax Assessment Act 1936 and related provisions
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+Paragraph 23AA(a).
+[2]
+This takes its meaning from section 328-115 of the
+Income Tax Assessment Act 1997
+(ITAA 1997).
+[3]
+Paragraph 23AA(b).
+[4]
+[Omitted.]
+[5]
+[Omitted.]
+[5A]
+As defined in section 328-125 of the ITAA 1997.
+[5B]
+As defined in section 328-130 of the ITAA 1997.
+[6]
+Excluding any amounts that are not assessable income of an entity because of the operation of another provision of the Act (for example, Subdivision 86-A of the ITAA 1997 dealing with attribution of personal services income).
+[7]
+Paragraphs 23AB(1)(a) and (b).
+[8]
+Paragraph 23AB(1)(c).
+[9]
+Paragraph 23AB(1)(d).
+[10]
+Subparagraph 23AB(2)(a)(i).
+[11]
+Subparagraph 23AB(2)(a)(ii).
+[12]
+Subparagraph 23AB(2)(a)(iii).
+[13]
+Paragraph 23AB(2)(b).
+[14]
+Paragraph 23AB(1)(d).
+[15]
+Section 4 incorporates the definition of royalties from the ITAA 1936 into the ITRA 1986.
+[16]
+Paragraph 23AB(1)(d).
+[17]
+Taxation Determination TD 2006/78
+Income tax:  capital gains:  are there any circumstances in which the premises used in a business of providing accommodation for reward may satisfy the active asset test in section 152-35 of the Income Tax Assessment Act 1997 notwithstanding the exclusion in paragraph 152-40(4)(e) of the Income Tax Assessment Act 1997 for assets whose main use is to derive rent?
+.
+[18]
+Paragraph 23AB(1)(e).
+[19]
+Paragraph 23AB(1)(f).
+[20]
+Paragraph 23AB(1)(g).
+[21]
+Paragraph 23AB(1)(d).
+[22]
+The Commissioner of Taxation v Century Yuasa Batteries Pty Ltd
+[1998] FCA 269;
+Federal Wharf Company Limited v Deputy Federal Commissioner of Taxation
+[1930] HCA 30, page 28.
+[23]
+The Commissioner of Taxation v Century Yuasa Batteries Pty Ltd
+[1998] FCA 269.
+[24]
+Ibid.
+[25]
+Ibid.
+[26]
+Section 4.
+[27]
+For further guidance on what is regarded as a royalty see Taxation Ruling IT 2660
+Income tax:  definition of royalties
+; Taxation Ruling TR 2008/7
+Income tax:  royalty withholding tax and the assignment of copyright
+; Taxation Ruling TR 93/12
+Income tax:  computer software
+; Taxation Ruling TR 95/6
+Income tax:  primary production and forestry
+and Taxation Ruling TR 2004/17
+Income tax:  indemnification of royalty withholding tax
+.
+[28]
+Consistent with paragraph 18 of IT 2660.
+[29]
+Section 15AA of the
+Acts Interpretation Act 1901
+;  Revised Explanatory Memorandum  to Treasury Laws Amendment (Enterprise Tax Plan Base Rate Entities) Bill 2018;
+Radaich v Smith
+[1959] HCA 45;
+C H Bailey Ltd v Memorial Enterprises Ltd
+[1974] 1 All ER 1003 at [1010];
+United Scientific Holdings Ltd v Burnley Borough Council
+[1977] 2 All ER 62 at [76], [86], [93] and [99];  Bruce Moore (ed), 1999,
+Australian Oxford Dictionary
+,  Oxford University Press, Melbourne;
+Halsbury's Laws of England
+, Volume 27(1), 4th edn Reissue, Butterworths, London, paragraph 212 ('Landlord and Tenant').
+[30]
+Paragraph 23AB(1)(f).
+[31]
+Capital gains concessions are available to small business entities with an aggregated turnover of less than $2 million.
+[32]
+Paragraph 23AB(1)(g).
+[33]
+Subdivisions 115-C and 207-B of the ITAA 1997.
+[34]
+Section 317 of the ITAA 1936.
+[35]
+Paragraph 23AB(1)(g), together with the operation of subsection 95AAB(2) of the ITAA 1936 and section 4.
+[36]
+Commissioner of Taxation v Greenhatch
+[2012] FCAFC 84.
+[37]
+Ronpibon Tin NL v Commissioner of Taxation (Cth
+) [1949] HCA 15.
+[38]
+Paragraph 23AB(1)(d).
+[39]
+Section 95AAD is only applicable to the AMIT as a trust estate, and so amounts can be included in the AMIT's assessable income as a beneficiary under Division 6 of the ITAA 1936.
+[40]
+Section 276-80 of the ITAA 1997.
+[41]
+Section 317 of the ITAA 1936.
+[42]
+Paragraph 23AB(1)(a).
+[43]
+Paragraph 23AB(1)(g), together with the operation of subsection 95AAB(2) of the ITAA 1936 and section 4.
+[44]
+Paragraph 23AB(1)(d).
+[45]
+Section 202-60 of the ITAA 1997.
+[46]
+Subsection 995-1(1) of the ITAA 1997 defines 'corporate tax rate for imputation purposes'.
+[47]
+Item 2 of Part 1 of Schedule 2 of the
+Treasury Laws Amendment (Enterprise Tax Plan Base Rate Entities) Act 2018
+.
+[48]
+Paragraph (a) of definition of 'corporate tax rate for imputation purposes' in subsection 995-1(1) of the ITAA 1997.
+[49]
+Paragraph (b) of definition of 'corporate tax rate for imputation purposes' in subsection 995-1(1) of the ITAA 1997.
+[50]
+Paragraphs 23AB(1)(a) and (b).
+[51]
+Paragraph 23AB(1)(d).
+[52]
+Paragraph 23AB(1)(d).
+[53]
+Paragraph 23AB(1)(d).
+[54]
+Paragraph 23AB(1)(e).
+[55]
+Paragraph 23AB(1)(g).
+Previously released in draft format as LCR 2018/D7
+References
+ATO references:
+NO  1-CYTCVCC
+ISSN: 2209-1300
+Business Line:
+IND
+Related Rulings/Determinations:
+IT 2660
+TD 2006/78
+TD 2008/24
+TD 2008/25
+TR 93/12
+TR 95/6
+TR 96/3
+TR 96/14
+TR 2002/4
+TR 2002/14
+TR 2004/17
+TR 2008/7
+TR 2012/D1
+TR 2012/5
+Legislative References:
+ITRA 1986 4
+ITRA 1986 23AA(a)
+ITRA 1986 23AA(b)
+ITRA 1986 23AB
+ITRA 1986 23AB(1)(a)
+ITRA 1986 23AB(1)(b)
+ITRA 1986 23AB(1)(c)
+ITRA 1986 23AB(1)(d)
+ITRA 1986 23AB(1)(e)
+ITRA 1986 23AB(1)(f)
+ITRA 1986 23AB(1)(g)
+ITRA 1986 23AB(2)(a)(i)
+ITRA 1986 23AB(2)(a)(ii)
+ITRA 1986 23AB(2)(a)(iii)
+ITRA 1986 23AB(2)(b)
+ITAA 1936 Div 5 Pt III
+ITAA 1936 Div 6 Pt III
+ITAA 1936 Div 16E Pt III
+ITAA 1936 6(1)
+ITAA 1936 95AAB(2)
+ITAA 1936 95AAD
+ITAA 1936 202A
+ITAA 1936 317
+ITAA 1997 Subdiv 86-A
+ITAA 1997 102-5
+ITAA 1997 102-5(1)
+ITAA 1997 Subdiv 115-C
+ITAA 1997 152-35
+ITAA 1997 152-40(4)(e)
+ITAA 1997 165-111
+ITAA 1997 202-60
+ITAA 1997 205-15
+ITAA 1997 Subdiv 207-B
+ITAA 1997 276-80
+ITAA 1997 328-115
+ITAA 1997 328-125
+ITAA 1997 328-130
+ITAA 1997 960-115
+ITAA 1997 960-120
+ITAA 1997 Subdiv 974-C
+ITAA 1997 974-120
+ITAA 1997 995-1(1)
+FSCDA 2001 5(3)
+FSCDA 2001 32(1)
+NCCPA 2009 35(1)
+NCCPA 2009 64(2)
+NCCPA 2009 65(2)
+Treasury Laws Amendment (Enterprise Tax Plan Base Rate Entities) Act 2018
+Acts Interpretation Act 1901 15AA
+Corporations Act 2001 254T
+Corporations Act 2001 761A
+Case References:
+C H Bailey Ltd v Memorial Enterprises Ltd
+[1974] 1 All ER 1003
+The Commissioner of Taxation v Century Yuasa Batteries Pty Ltd
+[1998] FCA 269
+82 FCR 288
+98 ATC 4381
+38 ATR 442
+Federal Wharf Company Limited v Deputy Federal Commissioner of Taxation
+[1930] HCA 30
+44 CLR 24
+(1930) 4 ALJ 200
+(1930) 1 ATD 70
+(1930) 36 ALR 349
+Commissioner of Taxation v Greenhatch
+[2012] FCAFC 84
+203 FCR 134
+2012 ATC 20-322
+(2012) 88 ATR 560
+Radaich v Smith
+[1959] HCA 45
+(1959) 101 CLR 209
+[1959] ALR 1253
+(1959) 33 ALJR 214
+(1959) 69 WN (NSW) 97
+Ronpibon Tin NL v Commissioner of Taxation (Cth)
+[1949] HCA 15
+78 CLR 47
+8 ATD 431
+[1949] ALR 785
+United Scientific Holdings Ltd v Burnley Borough Council
+[1977] 2 All ER 62
+[1978] AC 904
+[1977] 2 WLR 806
+(1977) 75 LGR (Eng) 407
+Other References:
+Revised Explanatory Memorandum
+to Treasury Laws Amendment (Enterprise Tax Plan Base Rate Entities) Bill 2018
+Halsbury's Laws of England, 4th Edition Reissue, Butterworths, London 1994, vol 27(1), paragraph 212, 'Landlord and Tenant', The Australian Oxford Dictionary, 1999, Oxford University Press, Melbourne
+LCR 2019/5 history
+Date:
+Version:
+Change:
+13 December 2019
+Original ruling
+You are here
+20 October 2021
+Consolidated ruling
+Addendum
+Back to top

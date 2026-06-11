@@ -1,0 +1,925 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2024/1
+The corporate collective investment vehicle regime
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+LCR 2024/1EC
+.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+6
+Overview of regulatory regime
+7
+What is a sub-fund of a CCIV?
+10
+Who is a member of a CCIV sub-fund?
+15
+Regulatory framework for a CCIV
+16
+Specific issues for guidance
+17
+Deemed trust relationship for tax law purposes
+17
+Scope of deeming principle
+19
+Tax entities recognised under deeming principle
+25
+CCIV as deemed trustee
+26
+CCIV sub-fund trust
+28
+Example 1 – CCIV sub-fund trusts
+33
+Members as deemed beneficiaries
+35
+Example 2 – members as unit holders
+38
+Taxation outcomes under the deeming approach
+41
+CCIV sub-fund taxed as a trust – entity-level taxation
+41
+CCIV sub-fund not subject to laws applicable to corporate tax entities
+45
+Fixed entitlement
+47
+The assessment pathway – resident investors
+48
+AMIT flow-through tax regime
+51
+General trust taxation provisions
+57
+Division 6 of Part III of the ITAA 1936
+58
+Income of the trust estate
+60
+Present entitlement
+62
+Division 6C of Part III of the ITAA 1936
+67
+CCIV interactions with third parties
+68
+Example 3 – associates
+70
+CCIV sub-fund to sub-fund dealings not recognised
+79
+Example 4 – purported lease between CCIV sub-fund trusts that are members of same umbrella CCIV
+81
+Limits on deeming
+83
+Capital returns
+83
+Trust resettlement
+85
+Specific entitlement to capital gains and franked dividends
+87
+GST-specific issues
+89
+Australian business number and GST registration
+89
+CCIV
+89
+CCIV sub-fund trust
+92
+Corporate director
+96
+Supplies
+98
+Supplies by corporate director
+98
+Issue of shares in a CCIV
+100
+Other supplies by a CCIV sub-fund trust
+104
+Acquisitions and input tax credits
+106
+Corporate director
+106
+CCIV sub-fund trusts
+109
+Tax invoices
+121
+Relying on this Ruling
+This publication is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Ruling applies to you, and you correctly rely on it, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+What this Ruling is about
+1. This Ruling is about amendments made to the taxation law to specify the tax treatment for corporate collective investment vehicles (CCIVs). The amendments were enacted by the
+Corporate Collective Investment Vehicle Framework and Other Measures Act 2022
+(the CCIV legislation).
+2. A CCIV is a new type of company limited by shares that is available for funds management. From a regulatory perspective, a CCIV is a registered company with all its assets and liabilities segregated into 'sub-funds' and is operated by a single corporate director.
+3. However, the tax framework treats each CCIV sub-fund as a separate tax entity that is a trust. The general intent is to align the tax outcomes of CCIVs and their investors with the existing treatment of investors in attribution managed investment trusts (AMITs). The general trust taxation rules apply to CCIVs, subject to some modifications, where it does not qualify for the AMIT regime.
+4. This Ruling:
+•
+outlines the operation of the CCIV regime
+•
+explains the deeming principle and its effect on the tax treatment of a CCIV, a CCIV sub-fund trust and investors, and
+•
+provides views on specific tax interpretative issues.
+5. Additional guidance on the CCIV tax framework may be provided as new interpretive issues emerge.
+Date of effect
+6. This Ruling is effective from 1 July 2022, being the commencement date of the CCIV regime.
+[1]
+Overview of regulatory regime
+7. A CCIV is a legal form company that is required to be limited by shares.
+[2]
+8. A company may be registered as a CCIV if it meets certain registration requirements, including
+[3]
+:
+•
+it is required to have a public company as its sole director which conducts the affairs of the CCIV
+•
+it must have a constitution, and
+•
+on registration, it will have at least one sub-fund, and each sub-fund must have at least one member.
+9. An existing company cannot register as a CCIV.
+[4]
+What is a sub-fund of a CCIV?
+10. A sub-fund is all of or part of a CCIV's business that is registered as a sub-fund.
+[5]
+Each sub-fund may offer investors a different investment strategy under the CCIV umbrella vehicle.
+11. The regulatory framework requires each sub-fund of the CCIV to be operated as a separate business, with the CCIV to allocate its assets and liabilities among the sub-funds.
+[6]
+12. While each sub-fund can be identified by its separate business, assets and liabilities, a sub-fund does not have legal personality.
+[7]
+In its own name, the sub-fund cannot:
+•
+legally enter into contracts
+•
+sue or be sued
+•
+acquire, hold or sell assets, or
+•
+incur liabilities.
+13. While the CCIV itself has the legal personality to do all of this, it should be noted that member and third-party rights and obligations may accrue against the assets and liabilities of the sub-fund at the sub-fund level.
+[8]
+By way of example, while the CCIV itself may incur a debt by the declaration of a dividend for a sub-fund, such debt would only be capable of being met from the assets of the respective sub-fund in respect of which the declaration had been made.
+14. Each sub-fund must have a minimum of one class of shares on issue, the rights of which are referable only to the assets of that particular sub-fund.
+[9]
+Generally, each share in a class of shares on issue in a sub-fund must have the same rights to dividends.
+[10]
+However, sub-funds are permitted to issue different classes of shares within the sub-fund
+[11]
+, allowing for differences in rights to dividends, capital and voting to be reflected in different classes of shares on issue. Any additional classes of shares on issue by a particular sub-fund are still subject to the requirement that the rights are only referable to the assets of that particular sub-fund.
+Who is a member of a CCIV sub-fund?
+15. A person is a member of a CCIV sub-fund if they hold one or more shares in the CCIV that are referable to the sub-fund.
+[12]
+The rights attaching to each share must relate to the assets of one sub-fund of the CCIV and no other sub-fund.
+[13]
+Regulatory framework for a CCIV
+16. An overview of the regulatory framework was provided in Diagram 1.1 of the EM. It is reproduced in this Ruling to provide a high-level overview:
+Diagram 1.1: Regulatory framework for a CCIV
+Note: This diagram shows the regulatory framework as it applies to a retail CCIV. A wholesale CCIV is not required to have a compliance plan. The CCIV and the corporate director may each appoint agents and service providers to exercise their respective powers and function.
+Specific issues for guidance
+Deemed trust relationship for tax law purposes
+17. The CCIV tax framework leverages the existing tax framework that applies to trusts and the existing attribution flow-through regime (that is, the AMIT regime)
+[14]
+, instead of creating a bespoke tax regime. This is primarily achieved through the introduction of a deeming principle in Subdivision 195-C of the ITAA 1997, under which it is taken that:
+•
+the business, assets and liabilities of a CCIV sub-fund constitute the trust estate of a separate trust, and
+•
+the CCIV is the trustee and the members of the sub-fund are beneficiaries of this separate trust.
+[15]
+18. A trust that is taken to exist in respect of a sub-fund of a CCIV is called a 'CCIV sub-fund trust'.
+Scope of deeming principle
+19. The deemed trust relationship applies 'for the purposes of all taxation laws'.
+20. Broadly, a 'taxation law' is any Act of which the Commissioner of Taxation has the general administration (including any legislative instruments made under that Act).
+[16]
+An exception applies to ensure the deeming rule's operation does not extend to the
+Foreign Acquisitions and Takeovers Act 1975
+(and legislative instruments made under that Act).
+[17]
+21. The deeming principle overrides how the existing tax laws would ordinarily apply to a CCIV and its investors. For example, application of the deeming rule means that:
+•
+a CCIV is not taxed as a company, and
+•
+CCIV investors are not taxed as shareholders.
+22. The deeming approach for 'all taxation laws' adopted in the CCIV legislation is noticeably different from most deeming provisions, in that it takes a broad approach to its intended scope.
+23. Given that the CCIV tax regime is intended to align with the existing AMIT regime
+[18]
+, we consider that the deeming principle is intended to have wide operation. It is the chief mechanism that gives effect to the intended purpose of taxing parts of a specific type of corporate entity (from a legal perspective) as a trust, without creating a bespoke regime. The 'deeming' principle therefore needs to be construed broadly for tax purposes.
+24. It should be noted that the statutory fiction created by the deeming principle is confined to how the taxation law applies to relevant transactions or activities. No actual trust relationship is created for general law purposes.
+[19]
+For the avoidance of doubt, all references in this Ruling to 'trustee', 'trust', and 'trust estate' should be understood as references to statutory fictions resulting from the deeming principle when that principle relevantly operates for the purposes of a taxation law even when the deeming principle is not expressly mentioned.
+Tax entities recognised under deeming principle
+25. The deeming principle results in the following entities being recognised for tax purposes.
+CCIV as deemed trustee
+26. Due to the operation of Subdivision 195-C of the ITAA 1997 and its interaction with subsections 960-100(2) and (3) of the ITAA 1997, the CCIV is deemed for tax purposes to be a trustee for each CCIV sub-fund trust and is taken to be a separate entity in its capacity as trustee for each CCIV sub-fund trust.
+27. A CCIV deemed to be acting in its capacity as a trustee of a CCIV sub-fund trust is, for tax purposes, a different and distinct entity from the CCIV itself.
+CCIV sub-fund trust
+28. The deeming principle allows the tax system to recognise each CCIV sub-fund trust as a distinct entity for tax purposes. This does not mean that a sub-fund is deemed to have legal personality for tax purposes. It means that when a provision of the tax legislation uses the word 'entity' as defined by section 960-100 of the ITAA 1997, the transactions relevant to that provision are those entered into by the CCIV as deemed trustee of the sub-fund in question.
+29. The deeming principle requires each CCIV sub-fund to be viewed as a trust for tax purposes. As a result, a deemed CCIV sub-fund trust is recognised as a separate tax entity.
+[20]
+30. The tax obligations of the CCIV sub-fund trust attach to the CCIV, as the relevant legal entity and deemed trustee for the CCIV sub-fund trust.
+[21]
+Further, any transactions that are referable to a CCIV sub-fund are deemed to apply to the CCIV, as the trustee for the corresponding CCIV sub-fund trust.
+31. The CCIV is required to keep records of the transactions that relate to each CCIV sub-fund, as well as the financial position of each CCIV sub-fund.
+[22]
+32. A CCIV sub-fund trust is taken to be a unit trust.
+[23]
+The way in which a CCIV sub-fund trust (and its investors) is taxed will depend on whether it meets the criteria for AMIT treatment.
+Example 1 – CCIV sub-fund trusts
+33.
+CCIV A consists of 3 sub-funds, being sub-fund A1, sub-fund A2 and sub-fund A3.
+34.
+For taxation purposes, CCIV A is deemed to be the trustee for each of sub-funds A1, A2 and A3 as if each of these sub-funds were trusts for taxation purposes. Accordingly, CCIV A will be required to lodge tax returns for each of these deemed trusts as deemed trustee.
+Members as deemed beneficiaries
+35. Under the deeming principle, members who hold shares in the CCIV that are referable to a CCIV sub-fund are treated as beneficiaries of the corresponding CCIV sub-fund trust.
+[24]
+The members' shares that are referable to the sub-fund are taken to be units held in the CCIV sub-fund trust.
+[25]
+36. Therefore, the relevant tax provisions which apply to the members of the CCIV are those which apply on the basis that they are beneficiaries in a trust, not as shareholders.
+37. The same rights, obligations and other characteristics which attach to the shares are taken to attach to the deemed units, where practical.
+Example 2 – members as unit holders
+38.
+CCIV A consists of 2 sub-funds, being sub-fund A1 and sub-fund A2.
+39.
+The rights attaching to shares attributable to each sub-fund are:
+•
+Sub-fund A1: shares with dividend, capital and voting rights. The shares are not redeemable at the member's option.
+•
+Sub-fund A2: shares with dividend, capital and voting rights. The shares are redeemable at the shareholder's option.
+40.
+For taxation purposes, sub-fund A1 and sub-fund A2 will be deemed to be unit trusts, with the shares referable to each sub-fund deemed to be units in the sub-fund with the following rights attaching to the deemed units:
+•
+Sub-fund A1: units with income, capital and voting rights. The units are not redeemable at the member's option.
+•
+Sub-fund A2: units with income, capital and voting rights. The units are redeemable at the member's option.
+Taxation outcomes under the deeming approach
+CCIV sub-fund taxed as a trust – entity-level taxation
+41. Subsection 960-100(1) of the ITAA 1997 provides a list of entities which are subject to the taxation laws in a definitional sense. It is an important gateway provision, as the taxation treatment of a particular entity will vary according to the nature of the entity. The list of entities provides both for a 'trust' and 'body corporate' as potential entities for taxation purposes. As a CCIV sub-fund is deemed to be a trust for all purposes of the taxation law, in determining the nature of the CCIV sub-fund under section 960-100, it would be regarded as a trust entity for taxation purposes.
+42. The starting point for the taxation of any CCIV sub-fund is that it will be taxed as a trust. However, one of the provisions that potentially applies to a trust is Division 6C of Part III of the
+Income Tax Assessment Act 1936
+(ITAA 1936), which provides that if a trust falls within its ambit, it will effectively be taxed as a company. This particular feature of trust taxation is equally applicable to a CCIV sub-fund if the conditions in Division 6C of Part III of the ITAA 1936 are satisfied.
+43. It should be noted that in these circumstances, the Division 6C CCIV sub-fund is subject to corporate taxation as a result of its structure and operations falling within the ambit of Division 6C of Part III of the ITAA 1936, and not because of the legal form of a CCIV.
+44. As is made clear by section 195-110 of the ITAA 1997, each sub-fund of a CCIV is taken to be a separate trust and, thus, a separate entity for tax purposes.
+CCIV sub-fund not subject to laws applicable to corporate tax entities
+45. A CCIV sub-fund is taken to be a trust for tax purposes. This will have many consequences where the traditional taxation treatment for companies will not apply to it.
+46. As a CCIV sub-fund will be taxed as a trust
+[26]
+and a CCIV as a deemed trustee, this overrides the operation of other tax laws that would normally otherwise apply to the CCIV and its members. For example:
+•
+'Dividend' payments
+– investors will not be recognised as having received dividends from a CCIV for income tax purposes. Accordingly, the definition of dividend in subsection 6(1) of the ITAA 1936, and the expanded definitions of dividend in subsection 6(4) and section 44 of the ITAA 1936, have no application to a CCIV sub-fund trust.
+•
+Imputation system
+– as a CCIV sub-fund trust will not be regarded as a 'corporate tax entity'
+[27]
+, the imputation system
+[28]
+as it pertains to corporate tax entities has no application to a CCIV sub-fund trust or its deemed beneficiaries. Although a CCIV itself may constitute a corporate tax entity, it does not pay tax in its own capacity and accordingly this designation will be of no practical consequence for imputation purposes.
+•
+Bonus share issues
+– as there are no shareholders in a company for taxation purposes, the provisions dealing with the issuance of 'bonus shares' in sections 6BA and section 45 of the ITAA 1936 will not apply to a CCIV that issues bonus shares to its members.
+•
+Share buy-backs
+– the express regulatory power that allows a CCIV to buy back shares does not necessarily flow through to the taxation treatment.
+[29]
+This is because it cannot be said that a company buys a share in itself from a shareholder in the company.
+[30]
+•
+Redemptions
+– the Corporations Act provides specific rules regarding the redemption of shares by a CCIV.
+[31]
+On redemption by a CCIV, the relevant share is cancelled.
+[32]
+For tax purposes, a CCIV sub-fund is regarded as a trust and is considered to have units on issue.
+[33]
+Any redemption of shares by a CCIV at law would be regarded as a cancellation of the units in the relevant deemed CCIV sub-fund trust
+[34]
+for tax purposes.
+[35]
+•
+Share capital treatment
+– as trusts do not have share capital, a CCIV sub-fund trust will not
+–
+be required to keep a 'share capital account', as defined in subsection 975-300(1) of the ITAA 1997, for taxation purposes
+–
+be subject to the 'share capital tainting' provisions of Division 197 of the ITAA 1997
+–
+be capable of providing a capital benefit or a demerger benefit to a shareholder for the purposes of sections 45A and 45B of the ITAA 1936.
+•
+Conduit foreign income
+– as a CCIV sub-fund is regarded as a trust, it will not have the capacity to declare an amount to be conduit foreign income for the purposes of Subdivision 802-A of the ITAA 1997.
+Fixed entitlement
+47. For tax purposes, an investor (beneficiary) in a CCIV sub-fund trust is taken to have a fixed entitlement to shares of income and capital of the CCIV sub-fund trust. This outcome is achieved by the specific language of section 195-120 of the ITAA 1997, which states that a beneficiary has a share of the income or capital of the CCIV based upon that beneficiary's proportionate interest in the underlying shares in the CCIV that have the right to the dividend or capital return. In a practical sense, an investor's 'fixed interest' is determined by their corporations law entitlements rather than trust law concepts. This has relevance for the application of the 'trust loss' rules
+[36]
+, under which the determination of a CCIV sub-fund trust's 'fixed entitlement' is determined under the specific provisions of subsections 195-120(1) and (2) of the ITAA 1997.
+The assessment pathway – resident investors
+48. The traditional dividend assessment pathway for taxation purposes does not apply to any legal form dividends paid from a CCIV to its investors.
+49. The taxation rules that apply to trusts determine how the CCIV sub-fund trust and its investors (deemed beneficiaries) are taxed in an income year.
+50. A CCIV sub-fund trust that meets the eligibility criteria for an AMIT (with some modifications) is taxed under the attribution flow-through tax regime in Division 276 of the ITAA 1997.
+[37]
+Where the AMIT eligibility criteria are not met, the normal trust taxation rules (with some modifications) will apply to the CCIV sub-fund trust and its members.
+AMIT flow-through tax regime
+51. An AMIT is a trust under general law. However, rather than applying the general trust taxation rules in Division 6 of Part III of the ITAA 1936, it applies the attribution regime in Division 276 of the ITAA 1997.
+52. Broadly, under Division 276 of the ITAA 1997 the trustee attributes taxable amounts to members on a character by character basis with the members then being assessed as though they derived the amount directly and in the same circumstances as the trustee (other than its residency status).
+53. AMITs also benefit from deemed fixed trust treatment and can apply the 'unders and overs' regime which allows the trust to bring amounts to account in the income year that they are discovered rather than in the income year to which they relate. AMITs are also a subset of managed investment trusts (MITs), which means they are eligible to make a capital account election under Subdivision 275-B of the ITAA 1997.
+54. Division 276 of the ITAA 1997 attribution treatment will apply to a CCIV sub-fund trust that meets modified AMIT eligibility criteria, including that it is:
+•
+an Australian resident
+•
+widely held (and not closely held), and
+•
+not a trading trust (under Division 6C of Part III of the ITAA 1936).
+55. Subsection 275-10(6) of the ITAA 1997 provides that a trust will satisfy the widely held requirements and closely held restrictions in its start-up and wind-down phases. Section 275-55 of the ITAA 1997 extends the definition of a MIT to include a trust that fails to meet a MIT requirement as a result of a temporary circumstance outside the trustee's control, and it is fair and reasonable to treat the trust as a MIT, having regard to a number of factors. These rules similarly apply to CCIV sub-fund trusts.
+56. For completeness, it is noted that the modified AMIT criteria for CCIV sub-fund trusts exclude the following that apply to general AMITs:
+•
+The choice provision in paragraph 276-10(1)(e) of the ITAA 1997 is disregarded for CCIV sub-fund trusts, which means CCIV sub-fund trusts that meet the other AMIT eligibility requirements are automatically treated as AMITs.
+[38]
+•
+The ability to elect to treat separate membership classes as separate AMITs for the purposes of the AMIT rules in section 276-20 of the ITAA 1997 is disregarded for CCIV sub-fund trusts.
+[39]
+General trust taxation provisions
+57. A CCIV sub-fund trust that does not satisfy the AMIT eligibility requirements will be taxed as a trust under the normal Division 6 or 6C of Part III of the ITAA 1936 tax regimes for trusts.
+Division 6 of Part III of the ITAA 1936
+58. Under the general trust assessing provisions, the net income of a trust is assessed to beneficiaries, the trustee or both. A beneficiary who is 'presently entitled' to 'a share' of the 'income of the trust estate' is assessed on 'that share' of the trust's net income under section 97 of the ITAA 1936. Any amount of the trust's net income not assessed to beneficiaries (or to the trustee on their behalf where appropriate under section 98 of the ITAA 1936) is assessed to the trustee under sections 99 or 99A of the ITAA 1936.
+59. As the CCIV is a legal form company that pays dividends, additional deeming rules are required to ensure the general trust taxing provisions are capable of being applied to the CCIV sub-trust fund and its members.
+Income of the trust estate
+60. The income of the trust estate (or 'trust income') for a CCIV sub-fund trust is worked out under section 195-123 of the ITAA 1997. The calculation depends on whether a CCIV is a retail or wholesale CCIV at the end of the income year:
+•
+Retail CCIV
+– the accounting profit of the CCIV sub-fund reported in the financial report of an income year is taken to be the trust income of the sub-fund.
+[40]
+•
+Wholesale CCIV
+– the income of the trust estate for the income year is equal to the CCIV sub-fund trust's accounting profits for that income year calculated as if it had been a retail CCIV at year end and prepared financial reports for the sub-fund in accordance with the accounting standards.
+[41]
+That is, it must apply all of the same accounting standards that would apply as if it were a retail fund.
+61. There may be cases where the CCIV sub-fund trust has an accounting loss or simply no profit, and therefore nil trust income, but a positive amount of net income for the income year. For example, where amounts are expenses for accounting purposes but not deductible for tax, this could contribute to such a scenario. In such cases, the CCIV (as trustee) is assessable and liable to pay tax on all of that net income of the CCIV sub-fund trust.
+[42]
+Present entitlement
+62. Beneficiaries of a CCIV sub-fund trust are deemed to be presently entitled to a share of trust income for an income year where certain conditions are met.
+63. Broadly, the share of trust income to which a beneficiary is presently entitled is so much of any of the sub-fund's profit for an income year that was, or is, payable by way of a dividend declared during, or within 3 months after, the income year.
+[43]
+64. This means that a beneficiary of a CCIV sub-fund trust's present entitlement is determined by the dividends declared as payable, not whether the dividend is paid. Of note, subsection 195-125(5) of the ITAA 1997 provides an exclusivity provision, such that for the purposes of Division 6 of Part III of the ITAA 1936, a beneficiary of a CCIV sub-fund trust's present entitlement is only worked out pursuant to section 195-125 of the ITAA 1997 and no other provision.
+[44]
+65. When a dividend is declared or paid during the first 3 months of an income year, it may be uncertain whether the present entitlement attaches to the current year or the previous year if there are distributable accounting profits for both years, since a dividend of profits of either year will support notional present entitlement to income.
+[45]
+However, there are certain requirements as to notification, which are pitched at 2 levels. Both are required by notification to the beneficiary in the approved form within 3 months after the end of the income year. Firstly, the CCIV must notify the beneficiary if they are presently entitled to a share of the income of the trust estate and, if so, the amount of that share. Secondly, the CCIV must also notify beneficiaries for each dividend declared during (or within 3 months of the end) of the income year:
+•
+the amount of the dividend, and
+•
+how much of the dividend consists of the CCIV sub-fund's profit for the income year.
+[46]
+66. Unless the notification is inconsistent with the resolution or other corporate act that appropriates profits for the dividend, the Commissioner is of the view that present entitlement is to be determined on the basis of what is contained in the notification to beneficiaries required to be made by the CCIV. In the absence of any notification, where a dividend is declared within the first 3 months of an income year, we will assume that prior-year profits have been appropriated (as this is the more normal practice) and treat the present entitlement as arising in the preceding income year. To avoid any anomalies in reconciling present entitlement amounts with profits for a particular year, we strongly recommend that notification to beneficiaries pursuant to subsection 195-125(3) of the ITAA 1997 clearly indicates the income year the present entitlement relates to and is appropriately supported by director's resolution or other corporate records regarding the declaration or payment of the dividend.
+Division 6C of Part III of the ITAA 1936
+67. For those CCIV sub-fund trusts which fall within the ambit of Division 6C of Part III of the ITAA 1936, it will be the exclusive code of taxation for such entities. Generally, Division 6C of Part III of the ITAA 1936 applies to public unit trusts that are taken to carry on a 'trading business'.
+CCIV interactions with third parties
+68. The application of the deeming rule for all tax purposes means it is not limited to the CCIV and its investors. Third parties may need to consider the tax effect of the deeming rule for their own tax purposes. This will be relevant where the application of the tax law to the third party is impacted by the tax treatment of the CCIV and its investors.
+[47]
+69. One example of this would be in the application of the associate definition in section 318 of the ITAA 1936. This would be applied in respect of each CCIV sub-fund trust as if it was a trust that is separate from any other CCIV sub-fund trusts that operate under the umbrella of a specific CCIV.
+Example 3 – associates
+70.
+The InvestInMe CCIV provides foreign investors with a mix of property and other passive investment opportunities in Australia, and operates these businesses through 3 separate sub-funds, being sub-funds A, B and C.
+71.
+As at 30 June 2022, sub-funds A and B each had 4 unrelated foreign-resident individual investors, and sub-fund C had 3 unrelated foreign-resident individual investors. Sub-funds A, B and C did not have any common investors.
+72.
+One of the foreign-resident individual investors in sub-fund C, Mr Q, also held 80% of the shares (and therefore voting rights) in Money Co Pty Ltd, a small proprietary company in Australia.
+73.
+Under section 195-110 of the ITAA 1997:
+•
+the InvestInME CCIV is taken to be the trustee of sub-fund trusts A, B and C, and
+•
+the foreign resident investors in sub-fund trusts A, B and C are taken to be beneficiaries of CCIV sub-fund trusts.
+74.
+Subdivision 195-C of the ITAA 1997 has effect for the purposes of all taxation laws to the exclusion of those laws as they would otherwise apply in relation to CCIVs and their members.
+[48]
+Therefore, for the purposes of determining the associate relationships on 30 June 2022 under section 318 of the ITAA 1936, InvestInMe CCIV is taken to be a trustee of sub-fund trusts A, B and C, and the foreign resident individual investors are taken to be beneficiaries of the respective CCIV sub-fund trusts representing their investment interests.
+75.
+InvestInMe CCIV, in its capacity as trustee of CCIV sub-fund trust A, is an associate of the foreign resident individual beneficiaries of CCIV sub-fund trust A but will not, without more, be an associate of the foreign resident individual beneficiaries of CCIV sub-fund trusts B or C.
+[49]
+This applies correspondingly to InvestInMe CCIV in its capacity as trustee of CCIV sub-fund trust B and C.
+76.
+Money Co Pty Ltd is an associate of Mr Q, as Mr Q holds the majority voting interest in Money Co Pty Ltd.
+[50]
+77.
+Mr Q is an associate of Money Co Pty Ltd as the controlling entity.
+[51]
+78.
+As Mr Q is an associate of Money Co Pty Ltd under subsection 318(2) of the ITAA 1936 and benefits from CCIV sub-fund trust C, InvestInMe Co is an associate of Money Co Pty Ltd in its capacity as trustee of CCIV sub-fund trust C.
+[52]
+CCIV sub-fund to sub-fund dealings not recognised
+79. We do not consider that a CCIV sub-fund can enter into transactions with another sub-fund of the same CCIV.
+[53]
+At law, a CCIV is a legal company limited by shares.
+[54]
+A sub-fund of a CCIV is only a part of the business of a CCIV and does not have legal personality.
+[55]
+The regulatory framework does not provide specific recognition at law of any purported notional CCIV sub-fund to sub-fund dealings.
+[56]
+Thus, there is nothing in the law that would give effect to, for example, a purported contract between the CCIV and itself in respect of different sub-funds.
+80. Further, we do not consider that the deeming rule under the CCIV tax framework has any different result.
+[57]
+Treating each sub-fund as an entity for tax purposes has the effect that the transactions of the CCIV that in fact exist are attributed for tax purposes to the relevant entity, but it does not have the effect that purported transactions otherwise without effect at law are notionally treated as effective for tax purposes.
+Example 4 – purported lease between CCIV sub-fund trusts that are members of same umbrella CCIV
+81.
+CCIV sub-fund B purports to enter into a lease of land owned by CCIV sub-fund A (both sub-funds are part of the same CCIV).
+82.
+Pursuant to the Corporations Act, CCIV sub-funds A and B do not have separate legal personality. Rather, each CCIV sub-fund is required to be operated as a separate business
+[58]
+, and assets and liabilities of the CCIV are required to be allocated between the CCIV's sub-funds.
+[59]
+The CCIV is itself a company
+.
+[60]
+If the outcome in this example was possible, it would involve the CCIV leasing to itself and then allocating the benefits and liabilities of lessor and lessee to the CCIV sub-funds. At law the CCIV cannot lease property to itself. The fact that sub-funds A and B are treated as separate trusts for tax purposes does not change this conclusion.
+Limits on deeming
+Capital returns
+83. We do not consider the rules that deem a CCIV sub-fund trust to be a trust for tax purposes extend so far as to the creation of an actual trust at equity such that principles such as 'trust corpus' are recognised by the tax system. Returns of regulatory 'contributed capital' by a CCIV therefore would not be treated as returns of trust corpus by the relevant CCIV sub-fund trust for tax purposes. Nevertheless, such returns of regulatory contributed capital would not form part of the assessable income of the beneficiary of a CCIV sub-fund trust under Division 276 of the ITAA 1997, for a CCIV sub-fund trust which meets the AMIT requirements, or otherwise under Division 6 or Division 6C of Part III of the ITAA 1936, as they would be regarded as the return of an investment and, thus, on capital account. The amounts would be treated as a return of capital to the investors in respect of their deemed unit-holding, which may result in CGT event E10 (for CCIV sub-fund trusts that are AMITs) or CGT event E4 (Division 6 or Division 6C CCIV sub-fund trusts) happening.
+84. It is important to note that whether any given distribution is a return of contributed capital will depend on whether share capital has been reduced and returned for company law purposes.
+Trust resettlement
+85. A CCIV sub-fund trust is only deemed to be a trust for tax purposes. As the deeming rule does not extend to creating a state of affairs beyond the required tax recognition, difficulty may arise in trying to apply trust principles in general to some actions taken at the corporate regulatory level.
+86. For example, we do not consider that changes in the nature of the interests for regulatory purposes in the deemed CCIV sub-fund trust can result in a resettlement of the trust at equity.
+Specific entitlement to capital gains and franked distributions
+87. For CCIV sub-fund trusts subject to the default treatment under Division 6 of Part III of the ITAA 1936, the issue of the creation of a 'specific entitlement' to an amount of a capital gain or a franked distribution may arise. We consider that specific entitlement to an amount of a capital gain or a franked distribution is not available for CCIV sub-fund trusts. Specific entitlement is premised on actions taken in accordance with the 'terms of the trust'.
+[61]
+However, the CCIV tax regime does not go so far as deeming an equivalent to an actual trust deed, nor is there anything which specifically deems there to be 'terms of the trust'.
+88. Further, there is no provision which contemplates a clear intention to accommodate specific entitlement. The legislative scheme goes no further than: deeming a unit trust to exist
+[62]
+; working out what is the income of the trust estate
+[63]
+; and ascertaining when a beneficiary is presently entitled to a share of income of the trust estate.
+[64]
+The income of the trust estate is taken to be the accounting profit of the CCIV sub-fund for the income year
+[65]
+, with beneficiaries envisaged to be taxed on their proportionate share
+[66]
+of that profit multiplied by the net income of the CCIV sub-fund trust, and the trustee taxed on any balance of net income not attributed to a beneficiary.
+[67]
+Without more, the taxation of beneficiaries appears intended to be exclusively dealt with under present entitlement principles.
+GST-specific issues
+Australian business number and GST registration
+CCIV
+89. A CCIV, in its capacity as a Corporations Act company, is entitled to have an Australian business number (ABN).
+[68]
+90. However, for goods and services tax (GST) purposes, the CCIV is essentially a nominee company operating only as a corporate trustee with no employees and undertaking no transactions other than those in its capacity as trustee of one or more CCIV sub-fund trusts, each of which is a separate entity for tax purposes.
+[69]
+91. Therefore, it is unlikely that a typical CCIV will have to register for GST in its own capacity as a company. However, a typical CCIV may be required to register for GST in its role as deemed trustee of one or more CCIV sub-fund trusts.
+CCIV sub-fund trust
+92. A trust is an entity for GST purposes.
+[70]
+A CCIV sub-fund trust, as a deemed trust, is therefore an entity for the purposes of the GST Act and the ABN Act.
+[71]
+93. As explained in paragraphs 71 to 80 of Miscellaneous Taxation Ruling MT 2006/1
+The New Tax System: the meaning of entity carrying on an enterprise for the purposes of entitlement to an Australian Business Number,
+a trust will only ever have one ABN regardless of whether the trustee changes. The trustee is the legal person who is taken to be the trust entity and holds the ABN for the trust and meets the obligations under the ABN Act. The same applies in a GST context.
+[72]
+94. To determine whether a CCIV sub-fund trust is required to register for GST, it is necessary to ascertain:
+•
+whether the CCIV sub-fund trust is carrying on an enterprise
+[73]
+, and
+•
+the GST turnover of the CCIV sub-fund trust.
+[74]
+95. Under section 184-1 of the GST Act, a trustee acting in different capacities is taken to be a different entity in each of those capacities. Therefore, where more than one CCIV sub-fund trust is required to be registered for GST, each CCIV sub-fund trust will need to be registered separately.
+Corporate director
+96. A CCIV can only have one director and that director must be a public company.
+[75]
+The director of a CCIV is the company named in ASIC's record of the CCIV's registration as the corporate director.
+[76]
+The corporate director of a CCIV has an obligation to operate the business and conduct the affairs of the CCIV.
+[77]
+97. The corporate director, being a public company and therefore a Corporations Act company, is entitled to have its own ABN
+[78]
+, separate from that of the CCIV. It will carry on an enterprise and make supplies or acquisitions in its own capacity, including making supplies to one or more of the CCIV sub-fund trusts for which it may be entitled to be paid fees.
+[79]
+A corporate director, in its capacity as a separate company, is required to register for GST if it exceeds the GST turnover threshold.
+Supplies
+Supplies by corporate director
+98. In making supplies or acquisitions relating to CCIV sub-fund trusts, the corporate director needs to consider the capacity in which it is acting. A corporate director may make supplies of goods and services in respect of its own activities as a company, or alternatively it may be acting on behalf of a CCIV in respect of a CCIV sub-fund trust. For example, it will be making supplies to a CCIV sub-fund trust in its own capacity as a separate company when it undertakes its activities as a corporate director for which it has a right to be paid fees. Where the corporate director makes supplies in respect of its own activities, it will be liable for GST on those supplies, subject to all of the requirements of section 9-5 of the GST Act being met.
+99. Where it makes acquisitions from third parties on behalf of the CCIV in respect of a CCIV sub-fund trust, for GST purposes the acquisitions are taken to be made by the relevant CCIV sub-fund trust. In this case, the corporate director does not itself supply the thing to the CCIV sub-fund trust and a GST liability will not arise for the corporate director.
+Issue of shares in a CCIV
+100. Under the deeming provisions, members of the CCIV are treated as beneficiaries of a CCIV sub-fund trust.
+[80]
+The shares referable to a sub-fund issued by the CCIV (in legal form) are taken to be units in the CCIV sub-fund trust.
+[81]
+It is the CCIV sub-fund trust that is taken to make the supply for GST purposes.
+101. Where the CCIV sub-fund trust is registered or required to be registered for GST, this supply will be treated as a financial supply by the CCIV sub-fund trust of an interest in or under a security within table item 10 of subsection 40-5.09(3) of the
+A New Tax System (Goods and Services Tax) Regulations 2019
+(GST Regulations). Therefore the supply of the interest in the CCIV sub-fund trust is an input-taxed financial supply.
+102. However, if the supply of the interest is made in certain circumstances to a non-resident outside the indirect tax zone, it may be GST-free under table items 2, 3 or 4 of subsection 38-190(1) of the GST Act.
+[82]
+103. Paragraphs 144 to 170B of Goods and Services Tax Ruling GSTR 2002/2
+Goods and services tax: GST treatment of financial supplies and related supplies and acquisitions
+explain how section 38-190 of the GST Act applies to financial supplies that are for consumption outside the indirect tax zone.
+[83]
+Further, paragraphs 180 to 199 of Goods and Services Tax Ruling GSTR 2004/7
+Goods and services tax: in the application of items 2 and 3 and paragraph (b) of item 4 in the table in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999: when is a 'non-resident' or other 'recipient' of a supply 'not in Australia when the thing supplied is done'? when is 'an entity that is not an Australian resident' 'outside Australia when the thing supplied is done'?
+provide discussion on the meaning of 'not in Australia', 'outside Australia' and 'when the thing supplied is done' for the purposes of section 38-190 of the GST Act.
+Other supplies by a CCIV sub-fund trust
+104. A CCIV sub-fund trust may make other supplies such as selling assets (for instance, real property) allocated to the sub-fund. Any GST liability arising for a CCIV sub-fund trust from these supplies will be determined under the general GST rules.
+105. Cross-investment is permitted by a CCIV across sub-funds.
+[84]
+In these circumstances there is taken to be a supply from one CCIV sub-fund trust to the other for GST purposes (and a corresponding acquisition by the other CCIV sub-fund trust).
+Acquisitions and input tax credits
+Corporate director
+106. In making acquisitions relating to CCIV sub-fund trusts, the corporate director needs to consider the capacity in which it is acting. A corporate director may make acquisitions of goods and services in respect of its own activities as a company, or alternatively it may be acting on behalf of a CCIV in respect of a CCIV sub-fund trust.
+107. Where a corporate director makes acquisitions of goods and services in respect of its own activities, it will need to apply the general rules under Division 11 of the GST Act to determine its entitlement to any input tax credits. It will also need to consider whether it exceeds the financial acquisitions threshold under Division 189 of the GST Act and, if so, whether it is entitled to any reduced input tax credits under Division 70 of the GST Act.
+108. Where the corporate director makes acquisitions of goods and services acting on behalf of a CCIV in respect of a CCIV sub-fund trust, it will not be entitled to any input tax credits in its own right. These are instead acquisitions of the relevant CCIV sub-fund trust.
+CCIV sub-fund trusts
+109. Assets of a CCIV generally comprise money and property that the CCIV (in legal form) acquires in the course of conducting its business. Under the CCIV allocation rules, assets (and liabilities) of a CCIV must be allocated to the CCIV's constituent sub-funds.
+[85]
+110. Assets may relate solely to the business of one CCIV sub-fund or they may relate to more than one sub-fund. In the case of the latter, the assets must be allocated to all of the relevant sub-funds in a proportion that is fair and reasonable at the time of acquisition. The proportion that is fair and reasonable to allocate may be nil.
+[86]
+111. For GST purposes, CCIV sub-fund trusts may make acquisitions of goods and services either:
+•
+from the corporate director acting in its own capacity, or
+•
+from other entities via the corporate director acting on behalf of the CCIV in respect of a CCIV sub-fund trust.
+112. In either case set out in paragraph 111 of this Ruling, the CCIV sub-fund trusts may be entitled to input tax credits, including reduced input tax credits where they make creditable acquisitions or reduced credit acquisitions. Where an acquisition is referable to more than one CCIV sub-fund trust, any input tax credit entitlement would need to be apportioned across the relevant CCIV sub-fund trusts.
+113. One of the requirements for making a creditable acquisition is that it is acquired solely or partly for a creditable purpose. An entity does not acquire a thing for a creditable purpose to the extent that the acquisition relates to making input-taxed supplies (such as financial supplies).
+114. However, subsection 11-15(4) of the GST Act provides that an acquisition is not treated as relating to supplies that would be input taxed if:
+•
+the only reason it would be treated as relating to input-taxed supplies is because it relates to making financial supplies, and
+•
+the entity does not exceed the financial acquisitions threshold.
+115. Division 189 of the GST Act explains when an entity exceeds the financial acquisitions threshold.
+[87]
+As the CCIV sub-fund trusts are deemed to be separate entities for tax purposes, the financial acquisitions threshold test is applied to each CCIV sub-fund trust separately.
+116. Entities that are not entitled to an input tax credit under section 11-15 of the GST Act because the acquisition relates to making an input-taxed financial supply (and they exceed the financial acquisitions threshold) may still be entitled to a reduced input tax credit.
+[88]
+117. The table in subsection 70-5.02(1) of the GST Regulations lists acquisitions (reduced credit acquisitions) that relate to making financial supplies that can give rise to an entitlement to a reduced input tax credit. This Ruling does not consider all possible reduced credit acquisitions that may apply for acquisitions by CCIV sub-fund trusts. However, we outline specific trust-related items that will not apply.
+118. Table item 29 of subsection 70-5.02(1) of the GST Regulations deals with certain services provided by trustees. The services dealt with under this item are provided by entities that have trustee obligations and responsibilities at general law.
+119. The CCIV as deemed trustee for each CCIV sub-fund trust does not make supplies of trustee services to each of the CCIV sub-fund trusts. The CCIV is only taken to be a trustee for tax law purposes, not as a trustee in the legal sense.
+[89]
+While the deeming will result in a supply of services being recognised between the corporate director and the CCIV sub-fund trusts, these services are not trustee services. As such, each CCIV sub-fund trust will not be making reduced credit acquisitions that table item 29 of subsection 70-5.02(1) of the GST Regulations could apply to.
+[90]
+120. Table item 32 of subsection 70-5.02(1) of the GST Regulations covers supplies to a recognised trust scheme. A recognised trust scheme is defined in section 196-1.01 of the GST Regulations. A CCIV sub-fund trust does not satisfy paragraph (b) of the definition and therefore table item 32 does not apply.
+Tax invoices
+121. An entity is required to hold a tax invoice before attributing an input tax credit to a tax period unless the value of the creditable acquisition is $75 or less.
+122. Subsection 29-70(1) of the GST Act sets out the requirements for a tax invoice. In particular, one requirement is that the tax invoice must include enough information to enable the following to be clearly ascertained:
+•
+the supplier's identity and ABN
+[91]
+, and
+•
+the recipient's identity
+[92]
+or ABN where the total price of the supply or supplies is at least $1,000.
+[93]
+123. For supplies made by a CCIV sub-fund trust, the identity and ABN of the CCIV sub-fund trust must be clearly ascertainable from the document.
+124. Where an acquisition relates to a single CCIV sub-fund trust, it must hold a tax invoice that contains enough information to clearly ascertain its identity or ABN before attributing the input tax credit.
+125. Where an acquisition relates to more than one CCIV sub-fund trust and the total price of the supply or supplies is at least $1,000, the tax invoice issued by the supplier must contain the identity or ABN of each CCIV sub-fund trust to which the acquisition relates.
+Commissioner of Taxation
+2 October 2024
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+Refer to the CCIV legislation.
+[2]
+Paragraph 1222(a) of the
+Corporations Act 2001
+(Corporations Act).
+[3]
+See, generally, section 1222 of the Corporations Act.
+[4]
+Section 1222P of the Corporations Act. Also refer to paragraph 2.77 of the Explanatory Memorandum to the Corporate Collective Investment Vehicle Framework and Other Measures Bill 2021 (the EM).
+[5]
+Subsection 1222Q(1) of the Corporations Act.
+[6]
+Sections 1233B, 1233D and 1233E of the Corporations Act.
+[7]
+Subsection 1222Q(2) of the Corporations Act.
+[8]
+Paragraph 2.82 of the EM.
+[9]
+Sections 1230 and 1230A of the Corporations Act.
+[10]
+Unless otherwise provided by the CCIV's constitution or by special resolution of the sub-fund - see section1230N of the Corporations Act.
+[11]
+Paragraph 4.18 of the EM.
+[12]
+Subsection 1222Q(3) of the Corporations Act.
+[13]
+Subsection 1230(1) of the Corporations Act.
+[14]
+Refer Division 276 of the
+Income Tax Assessment Act 1997
+(ITAA 1997).
+[15]
+Subsection 195-110(1) of the ITAA 1997.
+[16]
+See the definition of 'taxation law' in subsection 995-1(1) of the ITAA 1997, which covers other legislation.
+[17]
+Subsections 195-105(1) and (3) of the ITAA 1997.
+[18]
+Refer paragraph 13.8 of the EM.
+[19]
+See, for example, the comment of Gageler J in
+Wellington Capital Limited v Australian Securities and Investments Commission
+[2014] HCA 43, in which his Honour states at [51] that '[o]rdinarily, a legal fiction is not construed to have a legal operation beyond that required to achieve the object of its incorporation.'
+[20]
+Section 960-100, together with subsection 195-110(1), of the ITAA 1997.
+[21]
+This would include any taxation obligations arising from a trustee-based assessment, which we would understand to constitute a liability allocated by the CCIV to the relevant CCIV sub-fund and capable of being met from the sub-fund assets.
+[22]
+See, for example, subsection 1232A(1) of the Corporations Act:
+… the CCIV must also, for each sub-fund of the CCIV, keep written financial records that:
+(a)
+correctly record and explain the transactions relating to the sub-fund and the financial position and performance of the sub-fund; and
+(b)
+would enable true and fair financial statements to be prepared and audited for the sub-fund … [in line with Part 2M.2 of the Corporations Act].
+[23]
+Subsection 195-115(1) of the ITAA 1997.
+[24]
+Subsection 195-110(1) of the ITAA 1997.
+[25]
+Subsection 195-115(2) of the ITAA 1997.
+[26]
+The only exception would be a CCIV sub-fund trust that is subject to Division 6C of Part III of the ITAA 1936 treatment as a 'public trading trust'.
+[27]
+Per section 960-115 of the ITAA 1997.
+[28]
+In Part 3-6 of the ITAA 1997.
+[29]
+Ordinarily, Division 16K of the ITAA 1936.
+[30]
+Section 159GZZZK of the ITAA 1936.
+[31]
+Refer Subdivision B of Division 1 of Part 8B.4 of the Corporations Act.
+[32]
+Section 1230E of the Corporations Act.
+[33]
+Sections 195-110 and 195-115 of the ITAA 1997.
+[34]
+Being the shares in the CCIV referable to the relevant CCIV sub-fund.
+[35]
+This would give rise to CGT event C2. See also CGT Determination Number 40 TD 40
+Capital Gains: What is the treatment where units in a unit trust are issued or redeemed by the trustee?
+[36]
+In Schedule 2F to the ITAA 1936.
+[37]
+For lodgement purposes it will be referred to as an Attribution CCIV sub-fund trust.
+[38]
+Paragraph 195-135(2)(b) of the ITAA 1997.
+[39]
+Subsection 195-135(3) of the ITAA 1997.
+[40]
+Subsection 195-123(2) of the ITAA 1997.
+[41]
+Subsection 195-123(3) of the ITAA 1997.
+[42]
+Refer section 99A of the ITAA 1936.
+[43]
+Subections195-125(1) and (2) of the ITAA 1997.
+[44]
+It should be noted that the rules prescribed in sections 195-123 and 195-125 of the ITAA 1997 practically only have application for the case in which a CCIV sub-fund trust is subject to Division 6 of Part III of the ITAA 1936. For an Attribution CCIV sub-fund trust, the functionality of these rules is performed by the AMIT attribution model.
+[45]
+That is, does the present entitlement pertain to dividends declared in the first 3 months of Year 2 that are referable to profits of Year 1 or, less commonly, to dividends declared in the first 3 months of Year 2 that are referable to profits of Year 2?
+[46]
+Refer subsection 195-125(3) of the ITAA 1997.
+[47]
+Subsection 195-105(2) of the ITAA 1997.
+[48]
+Subsection 195-105(1) of the ITAA 1997.
+[49]
+Paragraph 318(1)(d) of the ITAA 1936.
+[50]
+Sub-subparagraph 318(1)(e)(ii)(A) of the ITAA 1936.
+[51]
+Sub-subparagraph 318(2)(d)(ii)(A) of the ITAA 1936.
+[52]
+Paragraph 318(2)(c) of the ITAA 1936.
+[53]
+For example, a purported loan, lease or sale or purchase of an asset.
+[54]
+Paragraph 1222(a) of the Corporations Act.
+[55]
+Section 1222Q of the Corporations Act.
+[56]
+However, cross investment (that is, where one sub-fund invests in another sub-fund of the same CCIV) is permitted: section 1230Q of the Corporations Act.
+[57]
+That is, section 195-110 of the ITAA 1997.
+[58]
+Section 1233B of the Corporations Act.
+[59]
+Division 3 of Part 8B.5 of the Corporations Act.
+[60]
+See sections 112 and 1222 of the Corporations Act.
+[61]
+Refer to section 115-228 and section 207-58 of the ITAA 1997.
+[62]
+Refer to section 195-110 and subsection 195-115(1) of the ITAA 1997.
+[63]
+Refer to section 195-123 of the ITAA 1997.
+[64]
+Refer to section 195-125 of the ITAA 1997.
+[65]
+If any - refer to section 195-123 of the ITAA 1997.
+[66]
+Expressed as a fraction, being share of income of the trust divided by total income of the trust.
+[67]
+Refer to paragraphs 13.89 and 13.90 of the EM.
+[68]
+Subsection 8(2) of the
+A New Tax System (Australian Business Number) Act 1999
+(ABN Act).
+[69]
+See paragraph 13.133 of the EM.
+[70]
+Section 184-1 of the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act).
+[71]
+For GST purposes, we refer to the CCIV sub-fund trust as the relevant entity that is taken to make supplies or acquisitions, even though it is a deemed trust.
+[72]
+Goods and Services Tax Determination GSTD 2006/6
+Goods and services tax: does MT 2006/1 have equal application to the meaning of 'entity' and 'enterprise' for the purposes of the A New Tax System (Goods and Services Tax) Act 1999?
+[73]
+Section 9-20 of the GST Act.
+[74]
+Sections 23-5 and 188-10 of the GST Act.
+[75]
+Subsection 1224(1) and section 1224F of the Corporations Act.
+[76]
+Subsections 1224(2) and (3) of the Corporations Act.
+[77]
+Section 1224J of the Corporations Act and paragraph 1.45 of the EM.
+[78]
+Subsection 8(2) of the ABN Act.
+[79]
+Section 1224N of the Corporations Act.
+[80]
+Subsection 195-110(1) of the ITAA 1997.
+[81]
+Subsection 195-115(2) of the ITAA 1997.
+[82]
+Subsection 9-30(3) of the GST Act.
+[83]
+As defined in section 195-1 of the GST Act.
+[84]
+Section 1230Q of the Corporations Act.
+[85]
+See Division 3 of Part 8B.5 of the Corporations Act and paragraphs 6.15 and 6.16 of the EM.
+[86]
+Paragraph 1233H(2)(e) of the Corporations Act.
+[87]
+See Goods and Services Tax Ruling GSTR 2003/9
+Goods and services tax: financial acquisitions threshold.
+[88]
+Goods and Services Tax Ruling GSTR 2004/1
+Goods and services tax: reduced credit acquisitions
+provides an explanation of the application of Division 70 of the GST Act.
+[89]
+Section 195-105 of the ITAA 1997.
+[90]
+See paragraphs 663 to 698 of GSTR 2004/1 for discussion of reduced credit acquisitions of trustee and custodial services under table item 29 of subsection 70-5.02(1) of the GST Regulations.
+[91]
+Subparagraph 29-70(1)(c)(i) of the GST Act.
+[92]
+The 'recipient' is defined in section 195-1 of the GST Act to be the entity to which a supply was made.
+[93]
+Subparagraph 29-70(1)(c)(ii) of the GST Act.
+Previous draft: LCR 2023/D1
+References
+ATO references:
+NO  1-XV2O6WJ
+ISSN: 2209-1300
+Business Line:
+PG
+Related Rulings/Determinations:
+GSTD 2006/6
+GSTR 2002/2
+GSTR 2003/9
+GSTR 2004/1
+GSTR 2004/7
+MT 2006/1
+TD 40
+Legislative References:
+ANTS(ABN)A 1999 8(2)
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-20
+ANTS(GST)A 1999 9-30(3)
+ANTS(GST)A 1999 Div 11
+ANTS(GST)A 1999 11-15
+ANTS(GST)A 1999 11-15(4)
+ANTS(GST)A 1999 23-5
+ANTS(GST)A 1999 29-70(1)
+ANTS(GST)A 1999 29-70(1)(c)(i)
+ANTS(GST)A 1999 29-70(1)(c)(ii)
+ANTS(GST)A 1999 38-190
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 Div 70
+ANTS(GST)A 1999 184-1
+ANTS(GST)A 1999 188-10
+ANTS(GST)A 1999 Div 189
+ANTS(GST)A 1999 195-1
+ANTS(GST)R 2019 40-5.09(3)
+ANTS(GST)R 2019 70-5.02(1)
+ANTS(GST)R 2019 196-1.01
+ITAA 1936 6(1)
+ITAA 1936 6(4)
+ITAA 1936 6BA
+ITAA 1936 Pt III Div 6
+ITAA 1936 Pt III Div 6C
+ITAA 1936 44
+ITAA 1936 45
+ITAA 1936 45A
+ITAA 1936 45B
+ITAA 1936 97
+ITAA 1936 98
+ITAA 1936 99
+ITAA 1936 99A
+ITAA 1936 159GZZZK
+ITAA 1936 318
+ITAA 1936 318(1)(d)
+ITAA 1936 318(1)(e)(ii)(A)
+ITAA 1936 318(2)
+ITAA 1936 318(2)(c)
+ITAA 1936 318(2)(d)(ii)(A)
+ITAA 1936 Pt III Div 16K
+ITAA 1936 Sch 2F
+ITAA 1997 Subdiv 195-C
+ITAA 1997 195-105
+ITAA 1997 195-105(1)
+ITAA 1997 195-105(2)
+ITAA 1997 195-105(3)
+ITAA 1997 195-110
+ITAA 1997 195-110(1)
+ITAA 1997 195-115
+ITAA 1997 195-115(1)
+ITAA 1997 195-115(2)
+ITAA 1997 195-120
+ITAA 1997 195-120(1)
+ITAA 1997 195-120(2)
+ITAA 1997 195-123
+ITAA 1997 195-123(2)
+ITAA 1997 195-123(3)
+ITAA 1997 195-125
+ITAA 1997 195-125(1)
+ITAA 1997 195-125(2)
+ITAA 1997 195-125(3)
+ITAA 1997 195-125(5)
+ITAA 1997 195-135(2)(b)
+ITAA 1997 195-135(3)
+ITAA 1997 Div 197
+ITAA 1997 Pt 3-6
+ITAA 1997 275-10(6)
+ITAA 1997 275-55
+ITAA 1997 Subdiv 275-B
+ITAA 1997 Div 276
+ITAA 1997 276-10(1)(e)
+ITAA 1997 276-20
+ITAA 1997 Subdiv 802-A
+ITAA 1997 960-100
+ITAA 1997 960-100(1)
+ITAA 1997 960-100(2)
+ITAA 1997 960-100(4)
+ITAA 1997 960-115
+ITAA 1997 975-300(1)
+ITAA 1997 995-1
+Corporate Collective Investment Vehicle Framework and Other Measures Act 2022
+Corporations Act 2001 112
+Corporations Act 2001 1222
+Corporations Act 2001 1222(a)
+Corporations Act 2001 1222P
+Corporations Act 2001 1222Q
+Corporations Act 2001 1222Q(1)
+Corporations Act 2001 1222Q(2)
+Corporations Act 2001 1222Q(3)
+Corporations Act 2001 1224(1)
+Corporations Act 2001 1224(2)
+Corporations Act 2001 1224(3)
+Corporations Act 2001 1224J
+Corporations Act 2001 1224N
+Corporations Act 2001 1230
+Corporations Act 2001 1230(1)
+Corporations Act 2001 1230A
+Corporations Act 2001 1230E
+Corporations Act 2001 1230N
+Corporations Act 2001 1230Q
+Corporations Act 2001 1232A(1)
+Corporations Act 2001 1233B
+Corporations Act 2001 1233D
+Corporations Act 2001 1233E
+Corporations Act 2001 1233H(2)(e)
+Corporations Act 2001 1224F
+Corporations Act 2001 Pt 2M.2
+Corporations Act 2001 Pt 8B.4 Div 1 Subdiv B
+Corporations Act 2001 Pt 8B.5 Div 3
+Foreign Acquisitions and Takeovers Act 1975
+Case References:
+Wellington Capital Limited v Australian Securities and Investments Commission
+[2014] HCA 43
+254 CLR 288
+314 ALR 211
+[2015] ALMD 79
+89 ALJR 24
+Other References:
+Explanatory Memorandum
+to the Corporate Collective Investment Vehicle Framework and Other Measures Bill 2021
+Back to top

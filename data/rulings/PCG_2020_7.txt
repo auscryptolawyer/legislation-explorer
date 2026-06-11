@@ -1,0 +1,1186 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+19 related documents
+Practical Compliance Guideline
+PCG 2020/7
+ATO compliance approach to the arm's length debt test
+On 8 April 2024, the
+Treasury Law Amendment (Making Multinationals Pay Their Fair Share - Integrity and Transparency) Act 2024
+was enacted. The amendments apply to assessments for income years commencing on or after 1 July 2023, with the exception of new integrity rules (debt deduction creation rules) which apply in relation to assessments for income years starting on or after 1 July 2024.
+Under the new thin capitalisation rules:
+•
+the newly classified 'general class investors' will be subject to one of 3 new tests
+o
+fixed ratio test
+o
+group ratio test
+o
+third party debt test
+•
+financial entities will continue to be subject to the existing safe harbour test and worldwide gearing test or may choose the new third party debt test
+•
+ADIs will continue to be subject to the previous thin capitalisation rules
+•
+the arm's length debt test has been removed for all taxpayers.
+ADIs, securitisation vehicles and certain special purpose entities are excluded from the debt deduction creation rules.
+Entities that are Australian plantation forestry entities are excluded from the new rules. For these entities, the previous rules will continue to apply.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+What this Guideline is about
+1
+Date of effect
+8
+Review of this Guideline
+9
+The ATO's compliance approach
+11
+The risk assessment framework
+17
+Applying the risk assessment framework
+22
+Evidencing your self-assessment
+25
+Reporting your self-assessment
+26
+What you can expect given your risk zone
+27
+Applying the arm's length debt test
+47
+1. The notional Australian business
+51
+Consideration of all factual assumptions
+52
+2. Arm's length terms and conditions
+70
+All comparables are independent entities operating in the same industry
+71
+Consideration of the terms and conditions that would reasonably be expected
+78
+The role of credit rating
+85
+Terms and conditions - covenants
+93
+Commercial lending institutions
+100
+3. Consideration of all relevant factors
+102
+The borrower's amount
+107
+The independent lender's amount
+107
+The arm's length debt amount
+107
+How and to what degree relevant factors are weighted
+108
+Consideration of quantitative factors
+117
+Consideration of qualitative factors
+151
+Corroborative analysis (borrower's amount) - notional return to the Australian business relative to expected return
+180
+Example
+185
+1. The notional Australian business
+186
+2. Arm's length terms and conditions
+190
+3. Consideration of all relevant factors
+196
+4. The arm's length debt amount
+210
+Who to contact
+211
+Relying on this Guideline
+This Practical Compliance Guideline sets out a practical administration approach to assist taxpayers in complying with relevant tax laws. Provided you follow this Guideline in good faith, the Commissioner will administer the law in accordance with this approach.
+What this Guideline is about
+1. This Guideline provides guidance to entities in applying the arm's length debt test in Division 820 of the
+Income Tax Assessment Act 1997
+[1]
+and should be read in conjunction with Taxation Ruling TR 2020/4
+Income tax:  thin capitalisation
+-
+the arm's length debt test.
+2. This Guideline also provides a risk assessment framework that outlines our compliance approach to an application of the arm's length debt test.
+3. The arm's length debt test is one of the tests available to establish an entity's maximum allowable debt for thin capitalisation purposes. The test focuses on identifying an amount of debt a notional stand-alone Australian business would reasonably be expected to borrow, and what independent commercial lenders would reasonably be expected to lend on arm's length terms and conditions. An entity's debt deductions are reduced to the extent that its adjusted average debt exceeds its maximum allowable debt.
+4. The arm's length debt test may be used to support debt deductions for commercially-justifiable levels of debt. In practice, the test is typically only used when an entity is unable to satisfy the safe harbour and worldwide gearing tests (as the compliance burden of applying these tests is generally lower). It is not common for independent Australian businesses to gear in excess of 60% of their net assets and historically, relatively few entities have applied the arm's length debt test. We consider the choice to apply the arm's length debt test carries with it the necessity to undertake more rigorous analysis than the safe harbour and worldwide gearing tests.
+5. While the arm's length debt test in some respects draws upon arm's length concepts that are broadly common to transfer pricing, the test itself is not a transfer pricing analysis, nor does it necessarily proxy an outcome consistent with the arm's length conditions under Subdivision 815-B. Rather, it requires an overlay of factual assumptions that produce a hypothetical entity against which specific factors are to be assessed.
+6. This Guideline is limited to providing guidance and a risk assessment framework relating to the application of the arm's length debt test contained in sections 820-105 and 820-215. It does not set out our approach to reviewing other taxation issues that might arise in relation to debt deductions, such as the:
+•
+application of the safe harbour and worldwide gearing tests also contained in Division 820
+•
+application of the transfer pricing rules in Division 815
+•
+application of the debt/equity rules in Division 974
+•
+substantive deductibility of interest payments or other losses (for example, under subsection 230-15(2))
+•
+existence or otherwise of liability for interest withholding tax, and
+•
+application of Pt IVA of the
+Income Tax Assessment Act 1936.
+7. This Guideline does not apply to entities considered to be authorised deposit-taking institutions (ADIs).
+Date of effect
+8. This Guideline has effect from income years commencing on or after 1 January 2019 and will apply where the arm's length debt test has been used to establish an entity's maximum allowable debt from this date.
+Review of this Guideline
+9. The use and application of this Guideline will be under continuous review during the three years following publication. Any revisions to improve its efficacy will be made at the end of the review period or on an 'as necessary' basis. We will consult publicly on proposed material changes.
+10. It is also anticipated that over time it may be appropriate to introduce further risk assessment criteria (for example, additional low risk zones may be identified).
+The ATO's compliance approach
+11. The ATO has found there are limited circumstances in which an independent Australian business would gear in excess of 60% of its net assets. In most circumstances, we do not consider the arm's length debt test will enable an entity to achieve a maximum allowable debt in excess of the safe harbour debt amount. It is expected the test is more likely to be relied upon in an industry where it is common practice to operate with higher debt to equity ratios (such as certain regulated infrastructure entities).
+12. As a consequence, an application of the arm's length debt test is seen as posing a greater risk of non-compliance relative to other tests available under the thin capitalisation rules. We consider this assessment to be appropriate given the arm's length debt test is typically only used by very highly-geared entities (above the safe harbour) and requires the exercise of a high degree of judgment in its application to the particular facts and circumstances of the entity.
+13. This Guideline provides what the ATO considers to be a reasonable approach to undertaking the arm's length debt test. It establishes a series of considerations that we would take into account in evaluating your regard to the factual assumptions and analysis of the relevant factors in applying the test. While not exhaustive, it does represent the minimum standard expected of a comprehensive and robust arm's length debt test analysis.
+14. This Guideline also sets out a framework that we will use to assess your level of risk and determine any subsequent engagement with you. The framework is based on facts and circumstances that we consider to be reflective of the varying degrees of risk associated with an application of the arm's length debt test.
+15. The information provided in this Guideline does not replace, alter or affect, in any way, our interpretation of the relevant law. It does not relieve you of your legal obligation to self-assess your compliance with all relevant taxation laws.
+16. Following this Guideline does not limit or waive the operation of the law. However, if you follow this Guideline and determine your circumstances to be consistent with a low risk zone, we will generally not allocate compliance resources to examine your arm's length debt test analysis, except to the extent of confirming your facts and circumstances meet the relevant zone criteria.
+The risk assessment framework
+17. The arm's length debt test risk framework is made up of five risk zones:
+Risk zone
+Facts and circumstances
+White
+Arrangements already reviewed and concluded.
+Low
+Arrangements consistent with low risk zone criteria (paragraphs 30, 32 and 40 of this Guideline).
+Low to moderate
+Arrangements consistent with low to moderate risk zone criteria (paragraph 45 of this Guideline).
+Medium
+Arrangements that are not eligible for 'white', 'low' or 'low to moderate' risk zones, facts and circumstances pertaining to high risk zone are not present
+and,
+application of the arm's length debt test consistent with this Guideline.
+High
+Application of the arm's length debt test that is not consistent with this Guideline, or arrangements that have two or more of the following characteristics:
+•
+cross-border related party debt comprises more than 50% of the notional Australian business' debt capital
+•
+subordinated cross-border related party debt comprises more than 25% of the notional Australian business' debt capital
+•
+two years of positive (unadjusted) earnings before interest and tax (EBIT) and negative profit before tax (PBT) during the previous five-year period.
+18. For the purpose of determining your risk rating, the phrase 'consistent with this Guideline' is taken to mean consistent with the approach and principles outlined in the example set out at paragraphs 185 to 211 of this Guideline.
+[2]
+19. Our compliance approach will vary depending on the risk rating of your arm's length debt test.
+20. If you fall outside the low risk zone, there is no presumption that your analysis has erred or otherwise fails to comply with Australian tax law. Nevertheless, we may conduct some form of compliance activity to further test its application.
+21. If we conduct a review of your arm's length debt test analysis, we may take account of other factors beyond those contained in this Guideline. This is because we will need to evaluate, among other things, the evidence that supports your analysis of the relevant factors as well as the regard given to the factual assumptions.
+Applying the risk assessment framework
+22. You may choose to self-assess whether you satisfy the low risk zone in each income year that you rely upon the arm's length debt test to establish your maximum allowable debt.
+23. You are deemed as being within the white zone if:
+•
+any of the following apply to you for the current year (in relation to an application of the arm's length debt test)
+-
+an advance pricing arrangement
+-
+a settlement agreement between you and the Commissioner
+-
+a court decision to which you were a party
+-
+we have conducted a review of your arm's length debt amount in the last two years and provided you with a low risk rating for thin capitalisation purposes; and your circumstances have not materially changed
+[3]
+-
+you have approached the ATO in order to seek a white zone assessment of your arm's length debt amount and such an assessment was agreed, and
+•
+you have complied with the terms of the relevant agreement or decision in the current year (if applicable).
+24. In performing your self-assessment, it may become evident that your arrangements do not qualify for a low risk zone assessment. In the event that you do not perceive the assessment is reflective of your actual risk you may engage with us with your rationale and, if we find it acceptable, a white zone risk assessment will be provided.
+Evidencing your self-assessment
+25. We may, in the course of our ordinary compliance activities, or any specific assurance activity relating to this Guideline, fact-check your self-assessment of your risk zone. If you are unable to provide adequate evidence to support your assessment or the ATO disagrees with your assessment, we may undertake further compliance activity.
+Reporting your self-assessment
+26. You may be required to disclose whether you have self-assessed the risk rating of your application of the arm's length debt test. If you are notified by us to complete a Reportable tax position schedule, you will be asked to disclose your self-assessed risk zone for the relevant year. It is not a requirement for you to self-assess your risk rating, but if you are unable to (or choose not to) you will also need to disclose this on the Reportable tax position schedule.
+What you can expect given your risk zone
+27. You can expect the following treatment depending on your risk zone.
+Risk zone
+ATO treatment
+White
+No review other than to confirm ongoing consistency with the agreed/determined approach.
+Low
+No review other than to confirm you have satisfied the necessary criteria to fall within the low risk zone.
+Low to moderate
+We will actively monitor your arrangements using available data and will review arrangements by exception.
+Alternative dispute resolution (ADR) might be effective in resolving any areas of difference.
+Medium
+We may apply compliance resources to review your arm's length debt test in circumstances such as where:
+(a)
+we are concerned, from our own data and analysis, that your circumstances do not justify use of the arm's length debt test to sustain an amount of debt capital in excess of the safe harbour or the arm's length debt amount is otherwise too high
+(b)
+your debt capital is subject to a broader review by us in relation to provisions not addressed in this Guideline.
+Depending upon the outcome of our review, ADR might be effective in resolving any areas of difference, however in some instances it is anticipated that cases will proceed to review or audit.
+High
+Reviews are likely to be commenced as a matter of priority.
+Cases might proceed directly to audit.
+You will not be eligible to access the advance pricing arrangement program.
+We are likely to use formal powers for information gathering.
+Practically, it will be more difficult to resolve disputes through settlement or ADR.
+Low risk zones
+28. The ATO considers that the criteria set out in each of the low risk zones in paragraphs 30, 32 and 40 of this Guideline represent an appropriate proxy or 'shortcut' method in arriving at an arm's length debt amount. That is, provided the criteria are satisfied, and clearly evidenced, it is considered there is a low risk of non-compliance and the entity may take its adjusted average debt to be its arm's length debt amount for the applicable income year. In such circumstances, further compliance resources are unlikely to be allocated to review the entity's arm's length debt amount other than to confirm the existence of the requisite criteria for an application of the risk zone. On this basis, the ATO will not expect the entity's documentation or analysis of the arm's length debt test to necessarily meet the standard as set out in this Guideline. However, documentation that demonstrates satisfaction of the relevant criteria must be readily available.
+[4]
+29. If your circumstances are consistent with the criteria in paragraphs 30, 32 and 40 of this Guideline, you may self-assess as being within the low risk zone.
+Inward low risk zone
+30. For the purpose of this Guideline, we accept your arm's length debt amount as falling within the low risk zone where all of the following factors are present, such that:
+•
+the entity receives debt funding solely from a commercial lending institution/s that is not an associate of the entity. The entity and the actual lender/s must have been dealing at arm's length with each other in relation to the debt interests such that the debt is considered to be on arm's length terms and conditions or the entity has received part or all of its debt funding on back-to-back terms from an associate
+[5]
+•
+the entity operates an Australian business only and has no foreign operations, for example, no foreign permanent establishments or controlled foreign entity equity
+•
+the entity is not an associate entity of another Australian entity that is an outward investor, and
+•
+the entity receives no guarantee, security or other form of explicit credit support from an associate.
+31. To demonstrate satisfaction of these criteria, the following documentation, although not exhaustive, might include:
+•
+bilateral/syndicated loan agreements/prospectuses
+•
+audited annual reports, and
+•
+organisational charts.
+Outward low risk zone
+32. For the purpose of this Guideline, we will accept your arm's length debt amount as falling within the low risk zone where all of the following factors are present:
+•
+the entity is a widely-held
+[6]
+publicly-listed entity on the Australian Securities Exchange
+•
+the entity is an outward investing entity (and not also an inward investing entity), and
+•
+it can be shown that the entity's notional Australian business would have the same issuer credit rating
+[7]
+as the actual entity did in fact have, where the entity's actual rating has been determined by an internationally-recognised credit rating agency and encompasses the entire global group's operations.
+33. In undertaking the credit rating assessment for the notional Australian business, the ratings analysis must follow the same methodology and be performed on the same basis as that of the entity. To reduce the impact of subjective elements of the credit rating creating uncertainty, we will accept a comparison that only incorporates the quantifiable elements (that is, financial metrics and ratios) of the credit rating assessment.
+34. While the actual credit rating held will reflect only third-party debt obtained on arm's length terms and conditions, the notional Australian business will be assessed based on the adjusted average debt (post any adjustments to ensure the debt is on arm's length terms and conditions).
+35. The notional Australian business rating must reflect the same notch, not just rating category (that is, A+ should match A+) for the purpose of this zone.
+36. To demonstrate satisfaction of the factors listed in paragraph 32 of this Guideline, the following documentation, although not exhaustive, might include:
+•
+bilateral/syndicated loan agreements/prospectuses
+•
+audited annual reports, and
+•
+credit rating reports (including any information exchanged between the rated entity and credit rating agency).
+Regulated utilities low risk zone
+37. It is recognised that for entities operating in the regulated utilities industry, it may be commercially rational in certain circumstances to be geared in excess of the safe harbour.
+38. The ATO understands there are different national, state and territory regulatory regimes across Australia for infrastructure services. These regimes have a range of purposes that include price-setting, price oversight and determining access terms for certain services. Eligibility to apply this low risk zone is limited to entities that are engaged in electricity networks covered by the National Electricity Law and National Electricity Rules and gas networks covered by the National Gas Laws and National Gas Rules (referred to as a 'regulated utility').
+39. An entity will be deemed to be a regulated utility business if at least 70% of its total assets comprise regulated assets (that is, regulated asset base (RAB) to total assets).
+40. For entities operating a regulated utility business, we shall accept your arm's length debt test as falling within the low risk zone where all of the following factors are present, such that the entity's notional Australian business:
+•
+has a net debt to RAB leverage equal to, or less than 70%, during the relevant year, and
+•
+has a cash flow from operations (CFO) interest cover ratio equal to, or greater than, 2.7 times, during the relevant year.
+41. Consideration of the factors in paragraphs 39 and 40 of this Guideline is to be based on the following:
+RAB/Total assets = Average of opening and closing balance of RAB ÷ Average of opening and closing balance of total assets
+Net debt/RAB = Average of opening and closing balance net debt balance ÷ Average of opening and closing balance of RAB
+CFO interest cover = Cash flow operating activities plus interest expense ÷ Interest expense
+Where:
+•
+Total assets
+= current + non-current assets, based on balance sheet of the entity
+•
+Regulated asset base
+= RAB value(s) as published on the Australian Energy Regulator website
+•
+Net debt
+= current + non-current interest-bearing liabilities (including liability for capital leases, if not already) less cash on hand, based on balance sheet of the entity
+•
+Cash flow from operations
+= cash flow from operating activities, based on the cash flow statement of the entity
+•
+Interest expense
+= interest (finance) expense, based on the profit and loss statement of the entity
+•
+Opening balance
+= balance as at the end of the previous accounting period (relative to the closing period) that most closely matches the income year of the entity
+•
+Closing balance
+= balance as at the end of the accounting period that most closely matches the income year of the entity
+42. For the avoidance of doubt, in applying the metrics for the factors listed in paragraph 40 of this Guideline to confirm whether the entity's actual debt amount satisfies the low risk zone, the accounting treatment for net debt and interest expense must approximate the tax treatment (that is, the accounting debt liability value should reflect the debt interest value for tax). Further the interest expense relied upon must be arm's length and based on arm's length terms and conditions.
+43. While the low risk zone detailed here relates to regulated utilities only, over time this may be expanded to include other infrastructure businesses where, for example, the impact of regulation creates a level of predictability around income and recovery of certain costs and the industry generally operates at higher levels of gearing. In such cases the selection of metrics and outcomes of those metrics to create any further low risk zone will be tailored to the particular industry segment. The metric outcomes for regulated utilities in paragraph 40 of this Guideline may not necessarily be appropriate for another industry segment despite the fact the entity operates in an industry that may be broadly classified as infrastructure.
+44. To demonstrate satisfaction of the factors in paragraph 39 and 40 of this Guideline, the following documentation, although not exhaustive, might include:
+•
+audited annual reports
+•
+calculations as prescribed at paragraph 41 of this Guideline, and
+•
+information exchanged between the entity and a regulatory body.
+Low to moderate risk zone
+45. While the use of credit ratings (as outlined in paragraphs 33 to 35 of this Guideline) alone is not considered sufficiently reliable to enable the designation of a low risk zone, we will accept your arm's length debt amount as falling within the low to moderate risk zone in the following circumstances
+[8]
+:
+•
+where the global group is publicly rated on third-party debt that is on arm's length terms and conditions and the notional Australian business would achieve the same credit rating on the basis of its arm's length debt amount
+[9]
+; or
+•
+an inward investing entity is owned by a consortium of foreign investors (each with no more than a 20% direct or indirect interest) and the public credit rating of the entity based on the entity's third-party debt (that is, on arm's length terms and conditions) is equivalent to the credit rating of the notional Australian business on the basis of its arm's length debt amount
+[10]
+, and
+•
+no other facts or circumstances pertaining to the high risk zone are present.
+46. The approach used in evaluating the credit rating of the notional Australian business should be consistent with that set out in paragraphs 33 to 35 of this Guideline.
+Applying the arm's length debt test
+47. This Guideline, while not exhaustive, provides a structured series of considerations that are essential in producing a robust arm's length debt test analysis.
+48. An application of the arm's length debt test is highly dependent upon the facts and circumstances specific to the entity. As such, it is not possible to prescribe a single methodology that is 'fit for purpose' for the circumstances of all entities.
+49. Importantly, satisfying the arm's length debt test requires a thorough analysis that takes into account the construct of the notional Australian business and consideration of all the relevant factors set out in the legislation. The analysis undertaken and documented must support the conclusion that the relevant debt amount being tested (on arm's length terms and conditions) would 'reasonably be expected' under the borrower's test and the independent lender's test. It is our experience that entities often do not present adequate evidence to substantiate their analysis and conclusion.
+50. In the event there is insufficient evidence presented to support the entity's arm's length debt amount, it is to be expected the Commissioner may seek to amend the entity's assessment to substitute an alternative debt amount.
+51. The following guidance sets out what we consider to be an appropriate approach to applying the arm's length debt test. It also outlines the level of analysis and evidence we would expect of a comprehensive and robust analysis.
+1. The notional Australian business
+Consideration of all factual assumptions
+52. The role of the factual assumptions is to construct the notional Australian business which forms the basis upon which to determine the arm's length debt amount. The assumptions serve to create a stand-alone entity that does not have regard to certain foreign activities or the provision of credit support.
+53. The object of the arm's length debt test is to determine an amount of debt capital that would reasonably be expected to be attributable to the notional Australian business (and by implication the equity, or overall capital structure of the entity that results). Therefore, in constructing the notional Australian business it necessarily follows that aspects of the entity's existence that pertain to its
+actual
+gearing and capital structure are not taken into account. For example, the notional Australian business should not take into account the actual debt and equity amounts (that is, capital structure), management's risk appetite in relation to gearing and the actual interest cost. Once the factual assumptions are applied, the setting upon which to assess the entity's arm's length debt amount is established.
+Factual assumption 1
+The entity's commercial activities in connection to Australia (the Australian business) during that year:
+•
+for
+outward investing entities
+does not include
+-
+any business carried on by the entity at or through its overseas permanent establishments
+-
+the holding of any associate entity debt, controlled foreign entity debt or controlled foreign entity equity
+•
+for
+inward investing entities
+that are
+inward investment vehicles
+does not include
+-
+the holding of any associate entity debt
+•
+for
+inward investing entities
+that are
+inward investors
+does not include
+-
+the holding of any associate entity debt that is attributable to its Australian permanent establishments.
+54. This factual assumption identifies the entity's commercial activities in connection to Australia by excluding specified foreign related activities or interests and certain loans to associate entities.
+55. It is anticipated the accounting information relied upon in the preparation of the entity's Australian tax return will usually be the starting point for the collation of the necessary financial data for the notional Australian business. For example, the item 6 accounting information from the tax return of a corporate tax entity will contain the profit and loss information that serves as a starting point for the preparation of the notional Australian business' profit and loss. Adjustments should then be made to remove the items specified in the legislation.
+56. For example, in the case of an outward investing entity, adjustments will include interest income attributable to the holding of associate entity debt and controlled foreign entity debt and dividend income from the holding of controlled foreign entity equity. The relevant assets must also be excluded from the entity's notional Australian business balance sheet. To identify relevant amounts pertaining to an overseas permanent establishment the entity's permanent establishment attribution exercise should be relied upon to identify amounts to exclude.
+57. Having identified amounts that are not connected to the commercial activities of the notional Australian business, the flow-on effect of removing such items should be addressed. For example, the removal of interest income on associate entity debt will result in a lower net profit for the notional Australian business. However, it is not necessary to trace adjustments made in the notional profit and loss through to the balance sheet (that is, cash on hand, retained earnings, etc).
+58. In addition to the profit and loss and balance sheet, the entity should also prepare a cash flow statement for the notional Australian business. For completeness, a 'balance sheet' for the purpose of constructing the notional Australian business simply refers to the assets and non-debt liabilities (that is, excluding debt interests) and 'profit and loss' does not include financing costs. Until the arm's length debt test analysis progresses to testing a particular capital structure, a debt and equity amount is not attributed to the notional Australian business.
+[11]
+59. It is expected that all calculations used in the determination or adjustment of an amount are documented. It must also be shown that any adjustments made, or accounting items removed, are limited to those specifically prescribed in the legislation. For the avoidance of doubt, it is expected that items reflect transfer pricing adjustments (where applicable).
+Factual assumption 2
+The entity had carried on the Australian business that it actually carried on during that year.
+60. This factual assumption ensures that the notional Australian business is based on the commercial activities in connection to Australia that were actually carried on.
+61. While it is necessary to have regard to the commercial activities in connection to Australia throughout the analysis, the emphasis on the 'business that it actually carried on' should be considered when evaluating the functions performed, assets used and risks assumed as part of the relevant factors. Necessarily this will be from the perspective of the notional Australian business in isolation; for example, functions related to an overseas permanent establishment will not be taken into account, nor will the risks associated with the actual debt and gearing.
+Factual assumption 3
+The nature of the entity's assets and liabilities (to the extent that they are attributable to the Australian business) had been as they were during that year.
+62. This factual assumption ensures that the nature of the entity's assets and liabilities that are attributable to the Australian business are taken to be the same as they actually were. This requires an enquiry that is broader than simply the assets and liabilities that are recognised for accounting purposes.
+63. It is also acknowledged that 'values' are not necessarily constrained to book values and may comprise of other values, or concepts taken from other permissible reference points. To substantiate a variation from the entity's accounting records it will be necessary to explain the basis of the variation and provide evidence of the appropriateness of the revised amount. For example, independent lenders may have regard to RAB (in the case of regulated utilities) for the purpose of determining credit quality. Evidence to support this may include publicly available credit rating agency methodologies that stipulate quantitative metrics based on RAB.
+Factual assumption 4
+The entity had carried on the Australian business in the same circumstances as what actually existed during that year.
+64. This factual assumption ensures that the notional Australian business is taken to have carried on its business in the same circumstances that actually existed for the entity. However, this is only to the extent that certain matters (as specified) are not excluded. In effect, this assumption will exclude the actual debt amount and deductions of the entity, the existence of any credit support and any activities, assets and liabilities not connected to the notional Australian business.
+[12]
+65. The entity carrying on the Australian business in the 'same circumstances' may be taken to include reference to the operation of the business in the industry with the same customers and suppliers, as well as factors such as the regulatory, political and economic environment in which the business is conducted. The entity's position as a member of a global group is not permitted to be taken into account.
+66. It is expected that emphasis on the 'same circumstances as what actually existed' is given regard when evaluating comparability and providing evidence relating to independent entities.
+Factual assumption 5
+Any guarantee, security or other form of credit support provided to the entity in relation to the Australian business during that year by:
+•
+its associates, or
+•
+the use of assets of the entity that are attributable to the entity's overseas permanent establishments
+is taken not to have been received by the entity.
+67. The determination of the arm's length debt amount must be made on the basis that no guarantee, security or other form of credit support is provided to the entity. This factual assumption in and of itself does not require the analysis to quantify the effect (if any) of removing guarantees, security or other form of credit actually provided to the entity.
+68. Rather, the assumption operates to ensure that when determining the arm's length debt amount, including the relevant arm's length terms and conditions applicable to that debt amount, no such support may be taken into account.
+[13]
+The effect is that testing to establish the arm's length debt amount is determined on the basis of a stand-alone Australian business. It follows the entity cannot rely on the benefit of parental support or affiliation to justify an amount of debt the notional Australian business could not otherwise sustain on an independent basis.
+69. The existence of a commercial arrangement undertaken at arm's length between the notional Australian business and an associate should not necessarily be taken to indicate the existence of credit support. This will turn on the precise facts but an example that is considered unlikely to constitute credit support is an offtake agreement for the sale of a commodity. In contrast, an arrangement entered into for the purpose of facilitating lending from a third-party lender, such as a commitment to deferred equity by a shareholder, is likely to have a sufficient nexus to the provision of financing to constitute credit support.
+2. Arm's length terms and conditions
+70. Our experience indicates that insufficient regard is often had to the requirement to apply arm's length terms and conditions to any debt interests and to the selection of appropriate comparables in applying the arm's length debt test. Paragraphs 71 to 101 of this Guideline outline matters that we would take into account in evaluating your regard to the factual assumptions and analysis of the relevant factors in applying the test.
+All comparables are independent entities operating in the same industry
+71. We consider arm's length outcomes to be better reflected in the operating performance and financing arrangements of independent companies.
+72. The selection of comparables should be undertaken in accordance with the arm's length principle per the
+Model Tax Convention on Income and on Capital
+[14]
+and specific guidance contained in the
+OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2017
+[15]
+(or subsequent iterations of these documents).
+73. However, in relying on transfer pricing guidance, it should be noted that by way of the factual assumptions, the ensuing analysis requires the entity (this being, the notional Australian business) to be considered independent and stand alone. This requires that transfer pricing principles (and considerations) associated with the entity's membership of the global group be disregarded.
+74. To the extent that no comparables can be identified within the Australian market, regard can be had to other geographical markets on the basis that the analysis demonstrates:
+•
+consideration and rejection of potential Australian comparables, and
+•
+there are no material differences between the Australian market and the other geographical markets (and adjustments are appropriately reflected).
+75. For regulated industries, overseas regulated markets are not considered to be comparable given the issues expected in quantifying adjustments.
+76. It is expected that the analysis provides details of the comparable selection (and rejection) process. This should identify the source of the proposed comparables, the criteria against which they were assessed and the reasons for rejection (where applicable). The selection of comparables is usually critical in an application of the arm's length debt test and the ATO expects the analysis associated with the selection process to be robust and supportable.
+[16]
+77. For the avoidance of doubt, the gearing of the notional Australian business (being the object of the arm's length debt test) is not a criterion on which comparability should be based.
+[17]
+Consideration of the terms and conditions that would reasonably be expected
+78. In arriving at an arm's length debt amount, it must be established that each debt interest provides for terms and conditions that would reasonably be expected to have applied if the entity (the notional Australian business) and the independent lenders had been dealing at arm's length.
+79. The analysis must consider and give effect to the arm's length terms and conditions on which the stand-alone notional Australian business would have borrowed.
+80. The terms and conditions that would have applied to the debt interest had the notional Australian business and independent lenders been dealing at arm's length may differ to those accepted for transfer pricing purposes.
+[18]
+Accordingly it is not acceptable to assume that a financing arrangement that is determined not to give rise to a transfer pricing benefit is appropriate to rely on without undertaking analysis to ensure compliance in the arm's length debt test context.
+81. It is also expected that the analysis evaluates the impact on terms and conditions even where the actual debt is provided by a non-associate given the hypothetical construct (the notional Australian business) may differ to the circumstances of the entity who issued the debt.
+82. Any remodelling of the terms and conditions (for example, interest rate and covenants) of debt capital must be based on sound commercial principles (for example, the use of an appropriate credit rating) and substantiated with appropriate evidence. It is critical that these are based on actual terms and conditions contained in the debt interests of independent parties in similar circumstances as the notional Australian business.
+83. To the extent legal agreements between independent parties are not publicly available, the analysis may rely on evidence obtained from third-party databases, documents lodged with government securities agencies (for example, Securities and Exchange Commission) or notes to the audited financial statements.
+[19]
+84. For the avoidance of doubt, this analysis applies to both associate and non-associate debt.
+The role of credit rating
+85. Commercial lending institutions will have regard to the credit worthiness of a borrower as a means of evaluating risk or loss in the event of default. A credit score or rating of a borrower can also have implications as to the price associated with a debt interest, among other terms and conditions. When it comes to assessing debt levels, there is little guidance apart from credit rating agency methodologies (as banks do not publish their lending criteria). Credit rating guidance is publicly available and reasonably transparent.
+86. However, as the credit rating itself is based on the actual (and expected) debt of an entity, there is an inherent constraint upon the usefulness of a credit rating (for the purpose of the arm's length debt test) given an input into the assessment is the actual debt itself.
+87. The object of the arm's length debt test is to establish an arm's length debt amount that would reasonably be expected in the circumstances to which the factual assumptions give rise.
+[20]
+The actual capital structure of the entity may or may not be a commercial capital structure (this is what is to be tested) and a credit evaluation based on this capital structure should not be used to the extent it predicates the outcome of the analysis. For example, refining the selection of comparables to match the entity's actual credit rating is not appropriate where those comparables are ultimately used to establish a purportedly arm's length range of gearing outcomes against which to assess the gearing of the notional Australian business.
+88. However, the ATO accepts there are various ways that information pertaining to credit rating assessments can be used to support an entity's arm's length debt test analysis. Where a credit rating is relied upon, it is important to consider the reasonableness of that approach.
+89. For the purpose of an arm's length debt test analysis, a reasonable basis to estimate the credit worthiness of the notional Australian business is to have regard to the credit ratings of independent comparables. It is expected that the selection of a particular credit rating should correlate to those independent comparables that exhibit a greater degree of comparability to the notional Australian business (having regard to the functional analysis).
+90. That credit rating may be useful in discrete aspects of the arm's length debt test analysis, such as to identify a consistent set of limits or ranges attributable to certain covenants. It might also inform an appropriate interest rate attributable to the debt capital of the notional Australian business.
+91. To the extent such comparables do not have publicly available credit ratings, it will be acceptable to rely on third-party credit estimation tools or an analysis of actual and implied interest rates and their relationship to Australian-based yield curves (or a combination of both).
+[21]
+92. The commercial practices adopted by independent parties may also incorporate a consideration of credit rating assessments. Information available from a credit rating agency for particular industries, comparable entity reports, or the actual entity's report may also contain useful detail around the factors considered relevant (and the weight of those factors) that can be used in applying the independent lender's test.
+Terms and conditions - covenants
+93. The analysis in relation to the arm's length terms and conditions is expected to have regard to covenants, among other terms and conditions.
+94. 'Covenants' are undertakings made by the borrower to operate within certain financial parameters (for example, gearing, interest coverage ratio) or not to undertake various actions, including asset sales, mergers, issuance of debt and repatriation of dividends. Generally, covenants fall into the following categories:
+•
+negative pledges (including incurrence), or
+•
+financial (also referred to as maintenance).
+95. Covenants agreed to between the borrower and lender will be specified and defined in the legal agreement of the debt interest. The penalty or remediation for breaching a covenant will also be set out.
+96. The type of covenants that would typically be agreed upon between a borrower and lender depend on the nature of the debt interest. For example, fixed income bond instruments are generally 'covenant lite' tending toward the use of negative pledges, whereas unsecured bank loans will often contain numerous financial covenants and associated reporting requirements (in order to monitor the performance of the borrower). With respect to financial covenants, the choice of a particular financial measure and the manner in which it is calculated is usually determined having regard to the industry of the borrower and its profit drivers.
+97. For the purpose of the arm's length debt test, any covenants should reflect those that the notional Australian business and non-associate commercial lenders acting at arm's length would reasonably be expected to have entered into.
+98. It is expected that the analysis demonstrates that any covenants (or absence of) are commensurate to those contained in the debt interests of independent parties in similar circumstances as the notional Australian business.
+99. To the extent legal agreements between independent parties are not publicly available, the analysis may rely on evidence obtained from third-party databases.
+Commercial lending institutions
+100. Commercial lending institutions encompass banks, ADIs and entities that conduct activities (or perform functions) analogous to banking and finance businesses. These activities (or functions) would typically involve raising finance through borrowing and on-lending at a margin. It would be expected that the entity operates with a view to maximising its profit or return on capital such that the terms and conditions on which finance is provided are arm's length.
+101. For the avoidance of doubt, investors that purchase or subscribe to bonds (or similar instruments) on debt capital markets are taken to satisfy the meaning of commercial lending institution. However, entities such as special purpose vehicles or government-owned organisations would not be considered commercial lending institutions.
+3. Consideration of all relevant factors
+102. The objective of the test is to determine an amount of debt the notional Australian business would reasonably be expected to borrow, and commercial lending institutions would reasonably be expected to lend, on arm's length terms and conditions, throughout the income year.
+103. This requires a standard that is higher than a prediction of a possible level of debt. The debt amount must be the reasonably likely or expected position (that is, it must be probable rather than a mere possibility) and the prediction must be based on evidence. This standard must inform an application of the test and, in practice, results in the need to provide compelling evidence to support the notional amount.
+104. The analysis must take into account all of the factors in determining the arm's length debt amount from the perspective of the borrower and independent lenders.
+105. The manner in which the relevant factors are to be taken into account and the weight given to each factor will depend on the facts and circumstances of the notional Australian business.
+106. While it is not practical to prescribe an order in which the relevant factors are evaluated, it is important to note the analysis should not consider each relevant factor in isolation. It may be appropriate for certain factors to be considered in conjunction with, or prior to, others. In particular, the relevant factor referencing functions, assets and risks may go toward characterising the notional Australian business as a reference point for the purpose of selecting comparables.
+107. The following guidance set out what we consider to be an appropriate approach to analysing the relevant factors.
+The borrower's amount
+Quantitative factors
+•
+are primarily concerned with whether the adjusted average debt amount gives rise to arm's length outcomes
+•
+must be based on metrics relevant to a borrower
+•
+are used to quantify an amount of debt capital
+Weight
+The entity's capacity to meet all its liabilities in relation to the Australian business
+%
+The profit of the entity in relation to the Australian business
+%
+The return on capital of the Australian business
+%
+The debt to equity ratio of the Australian business
+%
+Quantified borrower's amount
+↓
+Qualitative factors
+•
+consider whether each factor is adverse, neutral or supportive of the amount quantified above
+A
+N/S
+The functions performed, assets used and risks assumed
+The terms and conditions of the debt capital the entity actually had
+The nature of, and title to, any assets attributable to the Australian business available as security
+The purposes for which the schemes for debt capital had actually been entered into
+The debt to equity ratios of the entity, the Australian business, each associate entity that engages in commercial activities similar to the Australian business and each entity in which a direct or indirect interest is held (comparative analysis)
+The commercial practices adopted by independent parties in the industry (in Australia or comparable markets elsewhere)
+The way in which the entity financed its commercial activities (other than the Australian business)
+The general state of the Australian economy throughout that year
+All of the above factors existing at the time the entity last entered into debt capital that remains on issue throughout that year
+The independent lender's amount
+Quantitative factors
+•
+are primarily concerned with whether the borrower's amount satisfies the terms and conditions of the respective debt interests
+•
+in the absence of relevant terms and conditions the analysis will test the borrower's amount against the arm's length outcomes of comparables
+•
+must be based on metrics relevant to an independent lender
+•
+are used to quantify an amount of debt capital
+Weight
+The entity's capacity to meet all its liabilities in relation to the Australian business
+%
+The profit of the entity in relation to the Australian business
+%
+The return on capital of the Australian business
+%
+The debt to equity ratio of the Australian business
+%
+Quantified independent lender's amount
+↓
+Qualitative factors
+•
+consider whether each factor is adverse, neutral or supportive of the amount quantified above
+A
+N/S
+The functions performed, assets used and risks assumed
+The terms and conditions of the debt capital the entity actually had
+The nature of, and title to, any assets attributable to the Australian business available as security
+The purposes for which the schemes for debt capital had actually been entered into
+The debt to equity ratios of the entity, the Australian business, each associate entity that engages in commercial activities similar to the Australian business and each entity in which a direct or indirect interest is held (comparative analysis)
+The commercial practices adopted by independent parties in the industry (in Australia or comparable markets elsewhere)
+The way in which the entity financed its commercial activities (other than the Australian business)
+The general state of the Australian economy throughout that year
+All of the above factors existing at the time the entity last entered into debt capital that remains on issue throughout that year
+The independent lender's amount
+The arm's length debt amount
+How and to what degree relevant factors are weighted
+108. Of those factors that must be analysed in determining the arm's length debt amount, some will have a stronger correlation to the determination or quantification of an amount, whereas others may go toward corroborating that amount. The analysis may consider bifurcating the relevant factors into quantitative and qualitative categories. However as noted, the analysis should not consider each relevant factor (or category of factor) in isolation and it may be appropriate for certain factors to be considered in conjunction with, or prior to others.
+109. With respect to quantitative factors (that is, factors that can be used to directly determine an amount), it is granted that some may have more bearing than others and as such it would be appropriate to weight these accordingly. However, it is expected that the analysis provides a detailed explanation and evidence as to how and to what degree each of the relevant factors are weighted.
+110. For the purpose of determining the borrower's amount, the weight attributed to a particular factor should be based on its relevance and significance to a borrower in similar circumstances as the notional Australian business.
+111. The evidence used to support the relative weighting of each factor must be based on independent entities (comparables) and publicly available information. Examples of this may include:
+•
+capital (and risk) management measures of comparables referred to in annual reports
+•
+dividend targets that have been announced/signalled to the market, or
+•
+loan covenants (for example, dividend restrictions, interest coverage) available from loan agreements sourced from third-party databases or lodged with government securities agencies (for example, Securities and Exchange Commission).
+112. For the purpose of determining the independent lender's amount, the weight attributed to a particular factor should be taken into account from the perspective of an independent lender. An example of evidence that could be used to support the relative weighting of each factor may include a credit ratings agency methodology which sets out the scale and significance of various credit measures (both quantitative and qualitative).
+113. With respect to the qualitative factors, the analysis may designate each factor according to the following classifications:
+•
+Adverse - where consideration of the relevant factor produces an outcome that does not support the notional amount. For example, an adverse finding would apply for paragraphs 820-105(3)(g) and (i) where the proportions of debt and equity used to fund the notional Australian business is very different to the way the entity financed its foreign operations (so that the Australian business is highly leveraged versus the offshore activities that are predominantly equity funded).
+•
+Neutral - where consideration of the relevant factor produces an outcome that has no material effect upon the notional amount. For example, having regard to paragraph 820-105(3)(j), the general state of the Australian economy in the current year and the earlier year when the debt was issued is assessed as having been quite stable and is not perceived to have had a particular bearing on the amount of debt that would reasonably be expected in the current year.
+•
+Supportive - where consideration of the relevant factor produces an outcome that supports the notional amount. For example, having regard to paragraph 820-105(3)(d), the entity raised debt capital to partially fund a capital expenditure expansion of an existing Australian project that is consistent with the entity's business plans and forecast to produce a return on investment in line with the entity's targeted operational returns.
+114. Arriving at an arm's length debt amount following an appropriate weighting of the factors calls for the exercise of judgment based on an assessment of objective evidence. It is not possible to prescribe rules that will fit comfortably with all the possible facts and circumstances that may arise.
+115. However, where a qualitative factor has an adverse finding, an appropriate way to ameliorate that consequence may be to accept a notional amount based on the median point in the arm's length range for each quantitative factor.
+116. Where an analysis has not appropriately taken into account the finding of an adverse factor and/or the weighting of a factor, the Commissioner may consider substituting another arm's length debt amount that the Commissioner considers better reflects the relevant factors.
+[22]
+Consideration of quantitative factors
+117. The analysis must consider each of the quantitative factors from the perspective of both a borrower and independent lender. The analysis requires (for each scenario) a relevant measure which addresses the respective factor.
+118. Identifying an appropriate metric must be evidence-based in that it is expected that a borrower (and/or independent lenders) would have regard to that metric and the basis on which it is measured (that is, historical and/or forecast data). It is expected that the analysis adopts a metric that is commonly relied upon and appropriate in the context of the notional Australian business.
+119. The borrower's amount is quantified by comparing (for each of the factors) the performance outcomes of the notional Australian business (predicated on the adjusted average debt) against those of comparable entities based on their audited financial statements during the relevant year.
+120. It is expected that the analysis provides full details of all relevant calculations pertaining to the comparable results. There should be an alignment of financial year results across the comparables and the notional Australian business.
+121. Should an outcome fall within (or exceed) the arm's length range established by the comparables, the adjusted average debt attributable to the entity is an arm's length amount for the purpose of that factor.
+[23]
+122. Where an outcome falls below the arm's length range, the analysis must contemplate and give effect to an appropriate adjustment. An appropriate adjustment would serve to align the performance outcome (and debt amount) to the closest interquartile point within the range, or where observations are few, the closest point for that range. This adjustment to the relevant metric, whether it is to interest expense, profits or equity, should have a corresponding (downward) effect on the debt capital amount attributable to the notional Australian business. It is expected that this adjustment is to be confined to the evaluation of the respective measure and must be explained and quantified (supported by detailed calculations).
+123. Similarly, the independent lender's amount is also quantified by comparing the performance outcomes of the notional Australian business against arm's length reference points, being the terms and conditions of the debt interests or a range of results established by comparable entities.
+124. For the avoidance of doubt, any adjustment seeking to align the performance outcomes of the notional Australian business to parameters set by covenants must have regard to an appropriate amount of headroom in determining the desired outcome. An appropriate amount of headroom is required in order to demonstrate the debt amount would reasonably be expected.
+125. For the purpose of deriving the independent lender's amount the analysis is required to predicate the performance outcomes of the notional Australian business based on the borrower's amount (as its debt capital) and the subsequent flow-on effects (for example, equity, interest expense). Therefore, it is necessary to have undertaken the relevant factor analysis (both quantitative and qualitative) from the perspective of a borrower and to remodel line items based on the prevailing capital structure (if necessary), prior to determining the independent lender's amount.
+126. Furthermore, in circumstances where the adoption of a debt capital amount (adjusted average debt, borrower's amount) for the purpose of testing the quantitative factors gives rise to negative equity it is perceived as being highly likely that the level of gearing is not sustainable. However, if the debt capital is commercially justified the analysis must provide details to evidence why this is the case (for example, when the assets of the Australian business are reflected at a value independent lenders would recognise the gearing ratio is commercially realistic).
+Quantitative factor 1
+The entity's capacity to meet all its liabilities in relation to the Australian business (whether during that year or at any other time).
+127. This factor considers the capacity of the notional Australian business to meet all of its liabilities including the repayment of principal. This requires an evaluation of the borrower's ability to service its obligations having regard to available income and cash flows. It is necessary to evaluate the forecast earnings to demonstrate there is capacity to cover financing costs, repayment obligations and all other operational expenses. This factor will be particularly important from the commercial lender's perspective.
+128. To determine the borrower's amount, the analysis must identify appropriate metrics to assess the capacity of the notional Australian business to meet all of its liabilities. After-tax profit and cash flows should be considered in the analysis as an interest coverage ratio in isolation will not adequately address the application of this factor.
+129. The reliability of cash flow will be an important consideration in the application of this factor. For example, long-term contracts or regulated income streams indicate the forecast amounts are more certain. When forecast amounts are less certain, historical earnings will assist in supporting those forecasts.
+130. Having measured the notional Australian business' capacity to meet its liabilities, the analysis should compare this result against those of comparable entities based on their audited financial statements during the relevant year.
+131. If the notional Australian business' results are considered arm's length as established by the comparables, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this relevant factor.
+132. Where the result of the notional Australian business falls below the arm's length range, the analysis must contemplate and give effect to an appropriate adjustment.
+133. To determine the independent lender's amount, the analysis must first consider whether the arm's length terms and conditions (for example, covenants) of each debt interest provide a basis on which to test the debt serviceability of the notional Australian business (as predicated on the borrower's amount). To the extent that the debt interests contain covenants that relate to debt serviceability, it must also be demonstrated that those covenants are satisfied having regard to there being an appropriate amount of headroom.
+134. Where the terms and conditions do not provide a basis on which to assess debt serviceability, the analysis must have regard to metrics that independent commercial lenders would otherwise rely upon. An arm's length range should then be derived having regard to the comparables, against which the performance results of the notional Australian business should be tested.
+135. If the notional Australian business' results are considered arm's length having regard to the debt serviceability covenants of the respective debt interests, or in the absence of such, the range of results established by the comparables, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this relevant factor. Where the result of the notional Australian business falls below the arm's length range, the analysis must contemplate and give effect to an appropriate adjustment.
+Quantitative factor 2
+The profit of the entity (within the meaning of the accounting standards) and the return on its capital in relation to the Australian business (whether in that year or at any other time).
+136. The return on capital of the notional Australian business is considered one of the most important factors in assessing the borrower's test. Its objective is to evaluate the amount of debt capital a borrower would reasonably be expected to hold relative to the profits it is able to generate so that it may provide an adequate return to its owners (during the relevant year or at any other time).
+137. The willingness of a borrower to take on debt will depend upon a range of considerations that vary to those of a lender. A borrowing decision of an entity will be influenced by the overall cost of funding and the need to ensure an appropriate return to equity holders. Generally, the return available on equity capital should exceed the required rate of return (that is, hurdle rate).
+138. To determine the borrower's amount, the analysis must first identify appropriate metrics to assess the profit of the notional Australian business and its return on capital.
+139. Having measured the profit of the notional Australian business and its return on capital, the analysis should compare these results against those of comparable entities based on their audited financial statements during the relevant year.
+140. If the notional Australian business' results are considered arm's length as established by the comparables, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this relevant factor. Where the result of the notional Australian business falls below the arm's length range, the analysis must contemplate and give effect to an appropriate adjustment.
+141. To determine the independent lender's amount, the analysis must first consider whether the terms and conditions (for example, covenants) of each debt interest provide a basis on which to test the profit of the notional Australian business (as predicated on the borrower's amount) and its return on capital. To the extent that the debt interests contain covenants that relate to these measures, it must also be demonstrated that those covenants are satisfied having regard to there being an appropriate amount of headroom.
+142. Where the terms and conditions do not provide a basis on which to assess the profit of the notional Australian business and its return on capital, the analysis must have regard to metrics that independent commercial lenders would otherwise rely upon. An arm's length range should then be derived having regard to the comparables, against which the performance results of the notional Australian business should be tested.
+143. If the notional Australian business' results are considered arm's length having regard to any relevant covenants of the debt interests, or in the absence of such, the range of results established by the comparables, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this factor. Where the results fall below the arm's length range, the analysis must contemplate and give effect to an appropriate adjustment.
+Quantitative factor 3
+The debt to equity ratio of the entity in relation to the Australian business.
+144. This factor evaluates (from a quantitative perspective) the gearing of the notional Australian business in the context of what would reasonably be expected. The analysis should consider the relative proportions of debt and equity assumed by the notional Australian business against arm's length capital structures.
+145. To determine the borrower's amount, the analysis must first identify appropriate metrics to assess the debt to equity (or gearing) of the notional Australian business. While it may be appropriate to have regard to the debt to equity measure, in some industries it is commercial practice to measure gearing on a basis other than accounting equity (for example, regulated utilities may have regard to their RAB).
+146. Having measured the debt to equity (or gearing) of the notional Australian business, the analysis should compare these results against those of comparable entities based on their audited financial statements during the relevant year.
+147. If the notional Australian business' results are considered arm's length as established by the comparables, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this relevant factor. Where the result of the notional Australian business is above the arm's length range, the analysis must contemplate and give effect to an appropriate adjustment.
+148. To determine the independent lender's amount, the analysis must first consider whether the terms and conditions (for example, covenants) of each debt interest provide a basis on which to test the debt to equity (or gearing) of the notional Australian business (as predicated on the borrower's amount). To the extent that the debt interests contain covenants that relate to debt to equity (or gearing), it must be demonstrated that those covenants are satisfied with an appropriate amount of headroom.
+149. Where the terms and conditions do not provide a basis on which to assess the debt to equity (or gearing) of the notional Australian business, the analysis must have regard to a metric that independent commercial lenders would otherwise rely upon. An arm's length range should then be derived having regard to the comparables, against which the performance results of the notional Australian business should be tested.
+150. If the notional Australian business' results are considered arm's length having regard to the covenants of the debt interests, or in the absence of such, the range of results established by the comparables, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this factor. Where the debt to equity (or gearing) of the notional Australian business is above the arm's length range, the analysis must contemplate and give effect to an appropriate adjustment.
+Consideration of qualitative factors
+151. The analysis must consider each of the qualitative factors from the perspective of both a borrower and independent lender.
+Qualitative factor 1
+The functions performed, the assets used and the risks assumed by the entity in relation to the Australian business throughout that year.
+152. The analysis must provide a functional profile of the notional Australian business that takes into account the functions performed, assets used and risks assumed. While transfer pricing principles and guidance may be relied upon, it is important the application respects the construct of the notional Australian business. It is also critical that the functional analysis has no regard to the financial risk preferences of the entity in relation to its Australian business.
+153. It is expected that the characterisation of the notional Australian business is used as a basis for the selection of comparables.
+[24]
+The analysis must also have regard to the characterisation of the notional Australian business in identifying the debt interests of independent parties in similar circumstances for the purpose of determining the arm's length terms and conditions.
+154. The characterisation of the notional Australian business is also relevant in the selection of any credit assessment criteria that is relied upon in analysing the independent lender's amount. For example, if an entity is characterised as a healthcare service provider, it may be appropriate to have regard to ratings methodologies used to assess the creditworthiness of entities operating in the healthcare industry. It is expected that any credit assessment criteria relied upon will be contemporaneous and publicly available.
+Qualitative factor 2
+The terms and conditions of the debt capital the entity actually had in relation to the Australian business throughout that year.
+155. This factor requires the analysis to have regard to the terms and conditions of the debt capital the entity actually had throughout the year. This serves as a point of comparison and contrast in identifying appropriate arm's length terms and conditions that are applicable in arriving at the arm's length debt amount (with reliance only upon the Australian business to support the debt and the absence of credit support).
+156. In an outbound context, it may be that the terms and conditions of the actual debt have been determined in circumstances where the entity has very profitable overseas operations. The notional Australian business may not be offered such terms and conditions given the higher risk associated with the Australian business. Generally, less favourable terms and conditions would deter or constrain a borrower such that it might reasonably be expected to hold less debt. Whereas more favourable terms and conditions would entice (or enable) a borrower so that it might reasonably be expected to hold more debt.
+Qualitative factor 3
+The nature of, and title to, any assets of the entity attributable to the Australian business that were available throughout that year as security.
+157. This factor considers the extent to which the assets of the notional Australian business can be used as security against which to borrow. The arm's length terms and conditions will determine the extent and form of any security required by independent commercial lenders.
+158. In certain industries it is expected that the availability of security will set a cap on the borrowing capacity of the notional Australian business (for example, the value of commercial property).
+Qualitative factor 4
+The purposes for which schemes for debt capital had actually been entered into by the entity in relation to the Australian business throughout that year.
+159. The analysis must detail the purpose of each borrowing. It is expected that the commercial rationale for undertaking the borrowing is explained. The purpose of the borrowing will also be relevant in assessing the arm's length terms and conditions that would reasonably be expected to apply. For example, debt to fund working capital may have different terms and conditions to project finance used to construct an infrastructure asset.
+160. In most instances the purpose of the borrowing will be readily explainable by reference to the commercial operations of the entity (for example, funding a capital expenditure project, acquiring a new business). However, in some instances the occasion of the borrowing is not readily explainable and appears to be more closely linked with achieving a particular tax outcome. In such circumstances it may be difficult to sustain the contention that the debt capital would reasonably be expected.
+Qualitative factor 5
+The debt to equity ratios of the following throughout the year:
+•
+the entity
+•
+the entity in relation to the Australian business
+•
+each of the entity's associate entities that engage in commercial activities similar to the Australian business, and
+•
+each other entity in which the entity has a direct or indirect interest.
+161. This factor requires the calculation of debt to equity ratios for the entity, the notional Australian business, associates that engage in commercial activities similar to that of the Australian operations and other entities in which a direct or indirect interest is held. The factor provides reference points against which to compare the gearing of the notional Australian business.
+162. To undertake this analysis, any differences in gearing that arise between the notional Australian business and each of the relevant entities should be discussed and explained. The Explanatory Memorandum to the New Business Tax System (Thin Capitalisation) Bill 2001 notes
+[25]
+that where a global group is geared at a relatively low level it would be extremely difficult to justify that the group could load debt into similar Australian operations so that they are comparatively highly geared.
+163. The analysis should also reflect upon the gearing of entities in which the entity has a direct or indirect interest.
+[26]
+Qualitative factor 6
+The commercial practices adopted by independent parties dealing with each other at arm's length in the industry in which the entity carries on the Australian business throughout that year (in Australia or comparable markets elsewhere).
+164. This factor requires the analysis to take into account the commercial practices adopted by independent parties dealing at arm's length. The focus should be on the practices adopted in the borrower's industry in Australia but also enables consideration of those practices in comparable markets. As a minimum we would expect comparables to be sourced from the Australian market to the extent possible. Comparability should be established based on transfer pricing principles and differences in markets should be taken into account and adjusted for.
+165. The ATO considers that this factor is very broad and enables evidence to be drawn from the transactions of independent entities operating in the same industry to be used to support the arm's length debt test analysis of the entity. The evidence must be drawn from arm's length behaviour only and care must be taken to ensure evidence is drawn from independent parties only.
+166. The relevant commercial practices of independent entities will vary depending on the facts and circumstances of the notional Australian business. An example may be where it is a commercial practice for a borrower to use a longer time horizon for the purpose of calculating their return on capital. Another example may be where an independent commercial lender would have regard to factors (or criteria) that would be relevant to a credit rating agency for the purpose of entering into a scheme.
+Qualitative factor 7
+The way in which the entity financed its commercial activities (other than the Australian business).
+167. This factor considers the way in which an outward investing entity has financed its overseas operations.
+168. It is expected that the analysis addresses the correlation between the capitalisation of the notional Australian business and any overseas operations. Where an overseas operation is found to be over-capitalised, the explanation must consider whether the notional Australian business is under-capitalised as a consequence.
+Qualitative factor 8
+The general state of the Australian economy throughout that year.
+169. This factor requires the analysis to take into account the general state of the Australian economy (that is, macro-economic conditions) to the extent that it would have a bearing on what a borrower and independent lenders would do.
+170. The analysis must consider whether the impact of prevailing macro-economic conditions is consistent with the arm's length debt amount that is being tested or whether those conditions would have differently affected the behaviour of a borrower or independent lenders relative to that tested amount. If the general state of the Australian economy does not have a material bearing on the financing arrangements it will not be necessary to give further consideration to this factor. Given the reference to 'general state of the Australian economy' we would expect wider financial circumstances, for example a recession, to be relevant here.
+171. Where it is found that the general state of the Australian economy is likely to have an impact on the behaviour of independent parties, the analysis should provide evidence of this and explain the impact.
+Qualitative factor 9
+All of the relevant factors existing at the time the entity last entered into a scheme that gave rise to debt capital of the Australian business that remains on issue throughout that year.
+172. In certain circumstances this factor provides for an arm's length debt test analysis undertaken in a prior year to be taken into account where the debt capital remains on issue. Notably, the relevant prior year here is limited to the year the entity last entered into a scheme that gave rise to debt capital (and that debt capital remains on issue).
+173. This factor may assist in alleviating the compliance burden associated with an application of the arm's length debt test in the current year when it is evident nothing has materially changed during the intervening years. In cases where the notional Australian business has remained relatively consistent this factor may reduce the extent of analysis necessary to support the current year amount.
+174. To consider this factor, the assessment must first determine whether there has been a material change in the notional Australian business. Where the business being operated is the same and the financials are substantially similar (including assets, profit and cash flow) the prior year analysis may be relied upon. The relevant debt capital for the purpose of this exercise will also be the same (that is, the debt must be that which has remained on issue and no further debt must have been raised in the intervening period). The entity should replicate the financial ratios relied upon in the prior year based on the appropriate current year data. For example, if the prior year calculations relied on three-year forecast data, the preparation of ratios for the current year should also rely on three-year forecasts. These results must be acceptable based on the current year data on the same basis as they were found to be acceptable in the prior year (that is, the ratio outcome is the same or similar when compared to the prior year outcome).
+175. It must be the case that the methodology adopted in the prior year and extent of evidence used to substantiate that outcome is sufficient to establish the prior year application of the test was appropriate. In these circumstances, the current year documentation may focus on the consistency in the nature of the business operations and the substantially similar financial results and ratios/metrics.
+176. In addition to this factor, it is also accepted that provided an entity's analysis in one year appropriately considers the construct of the notional business and appropriately takes into account all the factors, the testing in the next two years should be less onerous absent a material change in the circumstances.
+177. For example, absent a material change in circumstances in relation to the Australian business, the analysis undertaken in Year 2 might be undertaken in a similar manner to Year 1 but take into account updated financial data (current year and forecast for example). This would alleviate the need to justify the specific application of the relevant factors and selection of comparables and would enable a roll-forward of the analysis to occur.
+178. The determination of whether there has been a material change calls for the exercise of judgment. It is expected that the analysis identifies and sets appropriate parameters against which to evaluate the degree of change (where applicable). Where quantitative parameters have been used, calculations must be provided. For example, assume an entity has returned shareholder capital and paid down a proportionate amount of debt. As a result, the debt to equity ratio of the notional Australian business has not materially changed relative to that in the relevant prior year. To evaluate the degree of change, the analysis sets reasonable parameters of +/-10% (or a ratio of 1:0.9-1.1) to measure the total movement over the period. The analysis finds the debt to equity ratio increased from 1.70 times to 1.85 times (approximately 9%). As the degree of change (for this relevant factor) did not exceed the set parameter it is not considered to be material.
+179. Where it can be substantiated that no material change has occurred during the year, the assessment may have regard to the relevant factor analysis undertaken in the relevant prior year. Alternatively, if it is found there has been material change (that is, breach of parameters) the assessment cannot have regard to a prior-year analysis.
+Corroborative analysis (borrower's amount) - notional return to the Australian business relative to expected return
+180. After determining the borrower's amount based on the factual assumptions and relevant factors, the analysis should corroborate this amount from a commercial perspective. The ATO considers such analysis to be best practice in terms of substantiating the outcome of the borrower's amount.
+181. As the decision to raise debt capital is not made independent of its impact on equity, the analysis should consider the returns attributable to the hypothetical owners of the notional Australian business, adjusting the capital structure accordingly to take into account the borrower's amount. This additional analysis of the borrower's amount provides assurance from a compliance perspective that the debt amount is reasonable for the purposes of the test.
+182. To identify returns that are commercial, it must be found that the notional return on equity generated by the notional Australian business (under the adjusted capital structure) equals or is greater than the expected rate of return (for that same capital structure).
+[27]
+The inference in this respect being that the hypothetical owners would not adopt a capital structure that produces a return below what is expected.
+183. Where it is found that the notional return on equity generated by the notional Australian business (under the adjusted capital structure) is less than the expected rate of return (for that same capital structure), it is expected that the analysis revisits the application of the relevant factors and make appropriate adjustments to the borrower's amount.
+184. Although there are a number of approaches to deriving an expected return, for compliance (and monitoring) purposes the ATO will be adopting the capital asset pricing model. An example of how this analysis is performed has been provided at paragraphs 198 to 208 of this Guideline.
+Example
+185. This example demonstrates an application of the arm's length debt test. This example is for illustrative purposes only and is merely intended to provide an outline of how the analysis may proceed. The example does not reflect the detailed level of analysis or evidence required.
+1. The notional Australian business
+186.
+Utility Co Pty Ltd (Utility Co) is a privately-owned Australian company engaged in transmission of electricity in Australia. The transmission of electricity is a regulated industry overseen by the Australian Energy Regulator.
+187.
+Utility Co is owned by a consortium of foreign shareholders and is an inward investment vehicle (general). Utility Co does not own any offshore businesses and as such its financial statements reflect solely an Australian business. The adjusted average debt for the income year is $2.1 billion (comprising of third-party fixed income bonds of $1.5 billion and shareholder loans of $600 million). The RAB is $2.5 billion.
+188.
+For the relevant income year, Utility Co has determined its maximum allowable debt pursuant to the arm's length debt test. Assume its circumstances do not align with the relevant criteria for it to meet a low risk zone.
+189.
+The first step of this analysis is to apply the factual assumptions. The application of the factual assumptions is considered in the following table.
+Factual assumption
+Consideration
+For inward investing entities (that are inward investment vehicles) the entity's commercial activities in connection to Australia (notional Australian business) during that year do not include the holding of any associate entity debt
+Utility Co's commercial activities are solely within Australia and it has no associate entity debt. It will not be necessary to remove accounting items.
+The entity had carried on the Australian business that it actually carried on during the year
+Utility Co carried on the business of electricity transmission. These commercial activities will also be reflected in the functional analysis of the notional Australian business (with the exception of financial risks associated with the entity's actual debt capital, including level of gearing).
+The nature of the entity's assets and liabilities (to the extent that they are attributable to the Australian business) had been as they were during that year
+The assets of Utility Co include:
+•
+fixed assets (property, plant, and equipment) of $2.8 billion
+•
+liquid assets (cash) of $100 million
+•
+other assets of $30 million
+•
+RAB as determined by the Australian Energy Regulator of $2.5 billion.
+The liabilities of Utility Co include (excluding debt capital non-debt liabilities of $30 million.
+It is also noted that the analysis has had regard to book values and an independent determination. The basis for this is evidence which suggests that independent lenders would have regard to the RAB value.
+Except as stated in paragraphs (1)(b), (2)(e), (2)(f) and (2)(g), the entity had carried on the Australian business in the same circumstances as what actually existed during that year
+For the purpose of the analysis, Utility Co is taken to have carried on the Australian business in the same circumstances as what actually existed (all its activities, assets and liabilities relate to the Australian business). These circumstances will also be reflected in undertaking a comparability analysis.
+Any guarantee, security or other form of credit support provided to the entity in relation to the Australian business during that year by:
+•
+its associates, or
+•
+the use of assets of the entity that are attributable to the entity's overseas permanent establishments.
+For the purpose of the analysis it must be assumed Utility Co received no guarantee, security or other form of credit support and Utility Co is treated as a stand-alone entity.
+2. Arm's length terms and conditions
+190.
+The next step of this analysis is to identify entities that are comparable to the notional Australian business. A functional analysis should be undertaken with a view to characterising the Australian business. Utility Co (as the notional Australian business) is characterised as a provider of network transmission services. An initial search of Australian entities revealed there are five independent entities that are similar to Utility Co to be considered for the purpose of identifying comparables. These considerations are provided in the following table.
+[28]
+Company
+Contractual terms
+Functions, assets & risks
+Characteristics of prop. or services
+Economic circumstances
+Business strategies
+Accept/ Reject
+Company 1
+na
+✓
+na
+✓
+✓
+Accept
+Company 2
+na
+✓
+na
+✓
+✓
+Accept
+Company 3
+na
+x
+na
+✓
+x
+Reject
+Company 4
+na
+✓
+na
+✓
+✓
+Accept
+Company 5
+na
+✓
+na
+✓
+✓
+Accept
+191.
+Of the four comparables selected, those that exhibited a greater degree of comparability were rated BBB+/Baa1. For the purpose of this analysis the notional Australian business is targeting a rating of BBB+/Baa1.
+192.
+The second step of this analysis requires the consideration of terms and conditions that would have applied to the debt interests had the notional Australian business and independent lenders been dealing at arm's length.
+193.
+An analysis of the actual debt interests suggests that the shareholder loans were conservatively priced from a transfer pricing perspective (that is, no tax benefit existed), however the terms and conditions that independent parties (based on a credit rating of BBB+/Baa1) would reasonably be expected to have entered into suggested an interest rate uplift of 2%. As a result, when undertaking the analysis of the relevant factors the adjusted interest expense (and corresponding decrease in net income) should be taken into account. All other terms and conditions were considered to be arm's length and as such, no further adjustments were required.
+194.
+The relevant financial data for Utility Co that will be used for the purpose of initially undertaking the borrower's test is set out in the following table. This assumes for the purpose of analysing the relevant factors, the adjusted average debt amount is initially tested (reflecting the adjusted interest expense to incorporate arm's length terms and conditions).
+Profit and Loss Statement
+Year ended 30 June 2019
+Total revenue
+$400,000,000
+Total expenses
+$90,000,000
+Earnings before interest, tax, depreciation and amortisation
+$310,000,000
+Depreciation
+$110,000,000
+Earnings before interest and tax (EBIT)
+$200,000,000
+Interest expense
+$120,000,000
+Profit before tax
+$80,000,000
+Tax
+$10,000,000
+Net profit after tax
+$70,000,000
+Balance Sheet
+Year ended 30 June 2019
+Total assets
+$2,930,000,000
+Cash on hand
+$100,000,000
+Current (portion of) liabilities
+$450,000,000
+Non-debt liabilities
+$30,000,000
+Adjusted average debt
+$2,100,000,000
+Net debt
+$2,000,000,000
+Total equity
+$800,000,000
+Australian Energy Regulator Determination
+Year ended 30 June 2019
+Regulated asset base
+$2,500,000,000
+Cash Flow Statement
+Year ended 30 June 2019
+Cash flow from operations
+$293,000,000
+Funds from operation
+$220,000,000
+3. Consideration of all relevant factors
+195.
+The analysis should next consider the weighting and designation of the relevant factors. For the purpose of this exercise, the factors have been categorised as either quantitative or qualitative. The consideration of each factor and its relative weightings and designations are provided in the following tables.
+The borrower's amount
+Quantitative factors
+Relevant factor
+Consideration
+Weight
+Amount
+The entity's capacity to meet all its liabilities
+Based on evidence of independent entities in similar circumstances to Utility Co, a cash flow from operations (CFO) debt cover ratio was selected to assess the capacity of the notional Australian business to meet all of its liabilities. Defined as CFO/total debt, the CFO debt cover is 13.95 times. This falls within the arm's length range established by comparables and as such, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this factor.
+20%
+$2,100,000,000
+The profit of the entity
+Based on evidence of independent entities in similar circumstances to Utility Co, a return on assets (ROA) measure was selected to assess the profitability of the notional Australian business. Defined as EBIT/total fixed assets, the ROA is 7.14%. This falls within the arm's length range established by comparables and as such, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this factor.
+30%
+$2,100,000,000
+The return on its capital
+Based on evidence of independent entities in similar circumstances to Utility Co, a return on capital employed(ROCE) measure was selected to assess the notional Australian business' return on capital. Defined as EBIT/total assets less current liabilities, the ROCE is 8.06%. This falls within the arm's length range established by comparables and as such, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this factor.
+30%
+$2,100,000,000
+The debt to equity ratio of the Australian business
+Based on evidence of independent entities in similar circumstances to Utility Co, a net debt to RAB measure was selected to assess the gearing of the notional Australian business. Defined as net debt/RAB, the gearing is 80%. This falls outside of the arm's length range established by comparables and as such an adjustment has been made to reflect a debt capital amount that reflects an arm's length outcome.
+20%
+$1,600,000,000
+Quantified borrower's amount
+$2,000,000,000
+Qualitative factors
+Relevant factor
+Consideration
+Adv.
+Neut. / Supp.
+The functions performed, assets used and risks assumed
+Utility Co (as the notional Australian business) operates electricity transmission assets.
+Utility Co's assets comprise of transmission lines, high-voltage substations and centralised monitoring, control and switching facilities. Utility Co's risks assumed include 'event' risk as a result of natural catastrophe and revenue risk stemming from the regulation of returns. Utility Co is characterised as a provider of network transmission services. This factor has been taken into account in selecting comparables in similar circumstances to Utility Co.
+[ ]
+[x]
+The terms and conditions of the debt capital the entity actually had
+This factor is taken into account in considering the change in terms and conditions relative to what debt capital Utility Co actually had throughout the year. This change resulted in an uplift of the interest rate associated with the shareholder loans. Although this adjustment did not alter the outcome of the quantitative analysis in this instance (refer to analysis provided for quantitative factors), it reduces the amount of profit available to service debt capital and as such it would be reasonable to expect a borrower may hold less debt capital (relative to the debt capital attributable to the notional Australian business).
+[ ]
+[x]
+The nature of, and title to, any assets attributable to the Australian business available as security
+This factor has been taken into account earlier where the terms and conditions of the debt interests were considered having regard to the value of assets available as security that are attributable to the notional Australian business. The analysis determined there are sufficient assets to support the amount of secured debt capital.
+[ ]
+[x]
+The purposes for which the schemes for debt capital had actually been entered into
+This factor has been taken into account as the analysis has considered the purpose of the schemes in evaluating the terms and conditions a borrower would enter into.
+[ ]
+[x]
+The debt to equity ratios of the entity, the Australian business, each of its associate entities that engage in commercial activities similar to the Australian business and any other entity in which the entity has a direct or indirect interest
+This factor has been taken into account through a comparison of the debt to equity ratio of the notional Australian business and the entity. The results of the respective entities are the same. The shareholders of Utility Co do not engage in similar commercial activities and no other relevant associates or interests exist.
+[ ]
+[x]
+The commercial practices adopted by independent parties in the industry
+This factor has been taken into account in having regard to the arm's length terms and conditions entered into by borrowers in similar circumstances as the notional Australian business.
+[ ]
+[x]
+The general state of the Australian economy throughout that year
+This factor has been taken into account having considered macroeconomic factors such as political and regulatory environments and these are not expected to have had a material impact on the behaviour of a borrower.
+[ ]
+[x]
+All of the above factors existing at the time the entity last entered into debt capital that remains on issue that year
+This factor has been taken into account and will not be given effect. In the intervening period, there has been a regulatory reset that has influenced the returns achieved by Utility Co. The change in returns is material, estimated at 11%.
+[ ]
+[x]
+196.
+The outcome of relevant factor analysis is a borrower's amount of $2,000,000,000.
+[29]
+Corroborative analysis
+197.
+The next step of this analysis is a corroborative exercise that is designed to test the commerciality of returns attributable to hypothetical owners having regard to a revised capital structure reflecting the borrower's amount.
+198.
+For the purpose of this exercise, it will be necessary to generate the notional return on equity pursuant to the borrower's amount. To do this, adjustments are to be made to specific line items as presented in the following tables.
+Profit and Loss Statement
+Original
+Remodelled
+Total revenue
+$400,000,000
+$400,000,000
+Total expenses
+$90,000,000
+$90,000,000
+Earnings before interest, tax, depreciation and amortisation
+$310,000,000
+$310,000,000
+Depreciation
+$110,000,000
+$110,000,000
+EBIT
+$200,000,000
+$200,000,000
+Interest expense
+$120,000,000
+$110,000,000
+Profit before tax
+$80,000,000
+$90,000,000
+Tax
+$10,000,000
+$13,000,000
+Net profit after tax
+$70,000,000
+$77,000,000
+Balance Sheet
+Original
+Remodelled
+Total assets
+$2,930,000,000
+$2,937,000,000
+Cash on hand
+$100,000,000
+$107,000,000
+Current (portion of) liabilities
+$450,000,000
+$350,000,000
+Non-debt liabilities
+$30,000,000
+$30,000,000
+Total debt
+$2,100,000,000
+$2,000,000,000
+Net debt
+$2,000,000,000
+$1,893,000,000
+Total equity
+$800,000,000
+$907,000,000
+Cash Flow Statement
+Original
+Remodelled
+Cash flow from operations
+$293,000,000
+$334,000,000
+Funds from operation
+$220,000,000
+$227,000,000
+199.
+To identify returns that are commercial, it must be found that the notional return on equity generated by the notional Australian business (under the adjusted capital structure) equals or is greater than the expected rate of return (for that same capital structure).
+200.
+Based on the remodelled values, the Australian business is able to generate a notional return on equity of 8.49% (based on net profit after tax).
+201.
+An expected return on equity is the minimum rate of return to be achieved on a capital contribution. Although there are a number of approaches to deriving an expected return, this analysis has adopted the capital asset pricing model. Generally, this model is presented as follows:
+202.
+This model is used to determine the expected return of an asset based on its relationship to market risk. This relationship is measured by way of a beta which represents the volatility of an asset's value (or returns) against the broader market to which it is attributed. For example, a beta of 1 suggests that an asset moves in line with the market, whereas a beta that is lower than one suggests the value (or returns) of an asset is less volatile relative to the market. Where the entity does not have a published beta, it would be appropriate to have regard to a similar listed entity (or comparable) whose beta can be obtained from a third-party database.
+203.
+To derive the expected rate of return for the notional Australian business, the analysis has adopted the following inputs. These inputs have been selected having regard to independent entities in similar circumstances to the Australian business.
+CAPM inputs
+Value*
+Source
+Firm equity beta (levered)
+0.90
+Bloomberg Stock (Equity) beta of comparable
+Expected market return
+9.70%
+Country Risk Premium function on Bloomberg, expected market return
+Risk-free rate
+3.00%
+Long-term government bond reported on Bloomberg
+* The numbers used in this table are for illustrative purposes only.
+204.
+Prior to deriving the expected rate of return, the actual or assumed beta must be unlevered to reflect the pre-capital raising proportion of debt and equity. This has been illustrated in the following table.
+Item
+Input
+A is beta (levered)
+0.90
+B is the tax rate
+0.30
+C is the debt to equity ratio (1:2)
+0.50
+Beta unlevered = A  ÷ (1+ (1 - B) × C)
+1.06
+205.
+To re-lever the pre-capital raising beta, it will be necessary to impute the adjusted capital structure, as remodelled (at paragraph 199 of this Guideline). The following table provides an example of how to re-lever a beta to reflect an alternative capital structure.
+Item
+Input
+A is beta (unlevered)
+1.06
+B is the tax rate
+0.30
+C is the debt to equity ratio (1:2.21)
+0.45
+Beta re-levered = A × (1 + (1 - B) × C)
+0.81
+206.
+Based on these values, the notional Australian business has an expected return on equity of 8.43%.
+207.
+The results of this analysis demonstrate that the notional return would have exceeded the expected return on equity and in doing so, corroborates the commerciality of the borrower's amount.
+The independent lender's amount
+208.
+The next step of this analysis is to test whether the borrower's amount is also an amount that is attributable to schemes that non-associate commercial lending institutions would reasonably be expected to have entered into. To determine this, it will be necessary to adopt the remodelled line items (at paragraph 199 of this Guideline) to reflect the adoption of the borrower's amount in lieu of the debt capital previously attributed to the Australian business (the adjusted average debt). For the purpose of the analysis the arm's length terms and conditions originally identified remain relevant based on the revised notional debt amount.
+209.
+The consideration of each factor and their relative weightings and designations are provided in the following tables.
+Quantitative factors
+Relevant factor
+Consideration
+Weight
+Amount
+The entity's capacity to meet all its liabilities
+Based on the arm's length terms and conditions, a funds from operation interest coverage ratio(FFO ICR) covenant was identified and selected as the basis on which to test the borrower's amount. Defined as funds from operations plus interest expense/interest expense, the FFO ICR is 3.06 times. This falls within the parameters (accounting for headroom) set out under the respective covenant and as such, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this factor.
+50%
+$2,000,000,000
+The profit of the entity
+Based on evidence of independent lenders, a regulatory return on assets (ROA measure was selected to assess profitability under the remodelled capital structure. Defined as EBIT/RAB, the ROA is 8.0%. This falls within the arm's length range established by comparables and as such, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this factor.
+5%
+$2,000,000,000
+The return on its capital
+Based on evidence of independent lenders, a return on equity (ROE) measure was selected to assess return on capital under the remodelled capital structure. Defined as EBIT/ total equity, the ROE is 22%. This exceeds the arm's length range established by comparables and as such, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this factor.
+5%
+$2,000,000,000
+The debt to equity ratio of the Australian business
+Based on the arm's length terms and conditions, a net debt/RAB gearing covenant was identified and selected as the basis on which to test the borrower's amount. Defined as net debt/RAB, the gearing is 76%. This falls within the parameters (accounting for headroom) set out under the respective covenant and as such, the debt capital attributable to the notional Australian business is an arm's length amount for the purpose of this factor.
+40%
+$2,000,000,000
+Quantified independent lender's amount
+$2,000,000,000
+Qualitative factors
+Relevant factor
+Consideration
+Adv.
+Neut. / Supp.
+The functions performed, assets used and risks assumed
+This factor has been taken into account having relied upon Moody's Regulated Electric & Gas Networks Methodology for the identification of metrics and relative weightings.
+[ ]
+[x]
+The terms and conditions of the debt capital the entity actually had
+This factor is taken into account in considering the change in terms and conditions relative to the debt capital Utility Co actually had throughout the year. This change resulted in an uplift of the interest rate associated with the shareholder loans.
+[ ]
+[x]
+The nature of, and title to, any assets attributable to the Australian business available as security
+The analysis determined there are sufficient assets to support the amount of secured debt capital.
+[ ]
+[x]
+The purposes for which the schemes for debt capital had actually been entered into
+This factor has been taken into account as the analysis has considered the purpose for which the schemes had been entered into in evaluating the terms and conditions an independent lender would enter into.
+[ ]
+[x]
+The debt to equity ratios of the entity, the Australian business, each of its associate entities that engage in commercial activities similar to the Australian business and any other entity in which the entity has a direct or indirect interest
+This factor has been taken into account through a comparison of the debt to equity ratios of the notional Australian business and the entity. Based on the remodelled line items, the notional Australian business has a more conservative debt to equity ratio.
+[ ]
+[x]
+The commercial practices adopted by independent parties in the industry
+This factor has been taken into account in having regard to the arm's length terms and conditions entered into by independent lenders in the same circumstances as the notional Australian business.
+[ ]
+[x]
+The general state of the Australian economy throughout that year
+This factor has been taken into account having considered macro-economic factors such as money markets and global economic outlooks. It is not expected that these considerations will have a material impact on the behaviour of an independent lender.
+[ ]
+[x]
+All of the above factors existing at the time the entity last entered into debt capital that remained on issue that year
+This factor has been taken into account and will not be given effect. In the intervening period, there has been a regulatory reset that has influenced the returns achieved by Utility Co. The change in returns is material, estimated at 11%.
+[ ]
+[x]
+4. The arm's length debt amount
+210.
+The final step in this analysis is to confirm that the borrower's amount satisfies the independent lender's test. As demonstrated in paragraph 209 of this Guideline, the borrower's amount satisfies the relevant factor analysis from the lender's perspective and as such, the arm's length debt amount is $2 billion.
+Who to contact
+211. We have a dedicated team responsible for the oversight and management of thin capitalisation risks. If you wish to discuss your application of the arm's length debt test with the ATO, you may contact International Tax Structuring at
+International@ato.gov.au
+.
+212. Alternatively, if you have a dedicated relationship manager, you may approach them directly for assistance with your case.
+Commissioner of Taxation
+12 August 2020
+Amendment history
+Date of amendment
+Part
+Comment
+5 November 2020
+Paragraph 101
+Reference to Clean Energy Finance Corporation removed.
+Paragraphs 204 and 205
+Correction to formulas.
+Footnotes 14 and 15
+Citations corrected.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+[1]
+All legislative references in this Guideline are to the
+Income Tax Assessment Act 1997
+unless otherwise indicated.
+[2]
+Principles that are relevant, including those beginning at paragraphs 71, 78, 85, 93 and 100 of this Guideline.
+[3]
+Material change should be considered pursuant to paragraph 178 of this Guideline.
+[4]
+If we find your self-assessment is not appropriate, you will be required to prepare documentation per section 820-980 of the ITAA 1997 and section 262A of the
+Income Tax Assessment Act 1936.
+[5]
+'Back-to-back terms' means the initial debt capital has been provided on the same terms and conditions (for example, price and tenor) as the third-party loan agreement. While related party loan agreements might lack certain terms and conditions entered into between independent parties, our expectation is that the key terms and conditions (for example, price and tenor) are to be the same.
+[6]
+An entity will be considered 'widely held' in this context if no shareholder (or group of related shareholders) holds 50% or more of the listed shares.
+[7]
+As was actually determined by an internationally-recognised credit rating agency.
+[8]
+On this basis, the ATO will not expect the entity's documentation or analysis of the arm's length debt test to necessarily meet the standard as set out in this Guideline. However, documentation that demonstrates consideration of the factual assumptions and relevant factors must be readily available.
+[9]
+This is applicable to both inward and outward investing entities.
+[10]
+Using the entity's actual rating to support the arm's length debt amount is not always suitable (that is, the actual credit rating is not necessarily indicative of a reasonable amount of debt so starting from this premise may not be appropriate). However, in this fact pattern there can only be sufficient integrity to ensure an appropriate outcome if the credit rating of the notional Australian business does not slip when any related party debt is taken into account in addition to the third-party debt that is reflected in the entity's actual credit rating. Additional evidence demonstrating the credit rating is in line with independent comparable entities in the same industry will be required to support such an approach, along with evidence there is no credit support being received by the entity in respect of the debt and that serviceability and equity returns are adequate.
+[11]
+As a practical matter, it is expected an entity may initially input their actual capital structure as the first iteration of their analysis of the relevant factors in order to determine if its adjusted average debt satisfies the test.
+[12]
+Refer to paragraphs 820-105(2)(f) and (g), and 820-215(2)(f) and (g). These paragraphs ensure that for the purpose of determining the arm's length debt amount in accordance with the second limb of the test (the independent lender's test), only the Australian business is taken to exist in setting the arm's length terms and conditions of the arm's length debt amount.
+[13]
+If the performance of the notional Australian business on a stand-alone basis can sustain an amount of debt at arm's length terms and conditions (for example, as evidenced by comparable entities and transactions between independent entities), the existence of support does not automatically indicate the adjusted average debt is not sustainable as the arm's length debt amount.
+[14]
+OECD, 2017,
+Model Tax Convention on Income and on Capital: Condensed Version 2017,
+OECD Publishing, Paris.
+[15]
+OECD, 2017,
+OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2017,
+OECD Publishing, Paris.
+[16]
+Deficiencies in applying the arm's length debt test are often identified in connection with the selection of comparables. For example, comparables that are not independent and that have the same shareholder as the tested entity will not be accepted.
+[17]
+Analysis that identifies comparables by reference to their gearing (and/or credit rating) being similar to the entity is not accepted for the purpose of applying the test.
+[18]
+Refer to paragraphs 94 to 102 of TR 2020/4 for further discussion regarding the interaction of the arm's length debt test and the transfer pricing regime.
+[19]
+In the first instance, the analysis is expected to identify relevant terms and conditions attributable to the comparables. If reasonable avenues of enquiry have been exhausted (and this can be demonstrated), the analysis may relax its search criteria and consider relevant terms and conditions attributable to entities in a similar industry elsewhere.
+[20]
+Note the factual assumptions do not attribute a debt and equity amount to the notional Australian business.
+[21]
+In the absence of a credit rating, should arm's length terms and conditions be readily identifiable and considered sufficiently applicable to the circumstances of the notional Australian business, then the analysis could proceed on the basis of those terms and conditions, as the need to establish a credit rating no longer exists.
+[22]
+Subsections 820-105(4) and 820-215(4).
+[23]
+When the comparable range of results constitute an arm's length range and all amounts in the range may be said to be equally reliable, any point in the range may be appropriate for the purpose of the test. However, given the difficulty entities usually encounter in identifying highly comparable entities it is prudent to refine the set of results to an interquartile range.
+[24]
+Where the notional Australian business operates a diversified business portfolio with separate and distinct operations, it would be appropriate to bifurcate the entity along relevant business lines.
+[25]
+See paragraph 10.50.
+[26]
+The
+Treasury Laws Amendment (Making Sure Foreign Residents Pay Their Fair Share of Tax in Australia and Other Measures) Act 2019
+applies to income years commencing on or after 1 July 2018 to safeguard against investors attempting to double gear their investment structure. Non-associated lenders, when considering lending to an investment company to finance an investment, will have regard to the capital structure of the underlying entity when assessing whether and how much to lend. The ability of relevant investments of the entity to act as asset backing to support the entity's debt is determined taking into account the burden of any debt claims the investments already have against their underlying assets.
+[27]
+It will be necessary to remodel line items (for example, interest expense, equity) to reflect the adoption of the borrower's amount.
+[28]
+The ATO does not consider the gearing preferences of the entity (being the object of the arm's length debt test) as criteria on which comparability may be based.
+[29]
+The weighting of the quantitative factors is considered appropriate for the purpose of the example and despite the fact the borrower's amount exceeds the debt amount calculated under the debt to equity ratio, this ratio in this instance is not considered to cap the debt amount that would reasonably be expected in the facts and circumstances assumed to exist.
+Previously released in draft format as PCG 2019/D3
+ATO references:
+File  1-DVUNNI8
+ISSN: 2209-1297
+Business Line:
+PGI
+Related Rulings/Determinations:
+TR 2003/1
+TR 2020/4
+Legislative References:
+ITAA 1997 Div 815
+ITAA 1997 Subdiv 815-B
+ITAA 1997 Subdiv 815-C
+ITAA 1997 Subdiv 815-D
+ITAA 1997 Div 820
+ITAA 1997 820-105
+ITAA 1997 820-105(2)(f)
+ITAA 1997 820-105(2)(g)
+ITAA 1997 820-105(3)(d)
+ITAA 1997 820-105(3)(g)
+ITAA 1997 820-105(3)(i)
+ITAA 1997 820-105(3)(j)
+ITAA 1997 820-105(4)
+ITAA 1997 820-215
+ITAA 1997 820-215(2)(g)
+ITAA 1997 820-215(4)
+ITAA 1997 Div 974
+ITAA 1997 995-1
+ITAA 1936  262A
+ITAA 1936  Pt IVA
+Other References:
+Explanatory Memorandum
+to New Business Tax System (Thin Capitalisation) Bill 2001
+Treasury Laws Amendment (Making Sure Foreign Residents Pay Their Fair Share of Tax in Australia and Other Measures) Act 2019
+OECD, 2017, Model Tax Convention on Income and on Capital: Condensed Version 2017, OECD Publishing, Paris
+OECD, 2017, OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2017, OECD Publishing, Paris
+PCG 2020/7 history
+Date:
+Version:
+Change:
+12 August 2020
+Original guideline
+You are here
+5 November 2020
+Updated guideline
+Back to top

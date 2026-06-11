@@ -1,0 +1,672 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+30 related documents
+Taxation Ruling
+TR 2017/3
+Income tax: distributions from foreign companies - meaning of 'at the time the distribution is made' when applying the participation test
+Please note that the
+PDF version
+is the authorised version of this ruling.
+The Government has announced that from 7:30pm AEDST on 25 October 2022, there will no longer be a dividend component in respect of the price paid by a listed public company undertaking an off-market share buy-back. The entire buy-back price paid for the share will be treated as capital proceeds for a share held on capital account, or as the entire proceeds for a share held as trading stock or on revenue account (but not as trading stock).
+Retrospective tax law changes have effect for a period before the date of enactment once the legislation is passed. See
+Administrative treatment of retrospective legislation
+.
+Contents
+Para
+LEGALLY BINDING SECTION:
+Summary - what this Ruling is about
+1
+The Commissioner's view
+2
+Outcome of ATO view
+3
+Ruling
+4
+Examples
+16
+Date of effect
+46
+NOT LEGALLY BINDING SECTION:
+Appendix 1: Explanation
+47
+Appendix 2: Detailed contents list
+113
+Preamble
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+Summary - what this ruling is about
+1. This ruling provides guidance on applying the participation test in Subdivision 768-A when working out whether an equity distribution received by an Australian corporate tax entity from a foreign company is not assessable and not exempt (NANE)
+[1]
+income.
+The Commissioner's view
+2. It is the Commissioner's view that for the purposes of Subdivision 768-A:
+•
+to have a participation interest in the foreign company, an entity must be a registered member of the foreign company at the start of the day the distribution is made
+[2]
+•
+where the distribution is a dividend or non-share dividend, the distribution is made on the day that the foreign company pays or credits the distribution, and
+•
+where the distribution is a deemed dividend, the distribution is made on the day the tax legislation deems the dividend to have been taken to be paid.
+The outcome from the ATO view
+3. The outcome of this view is that for the purposes of Subdivision 768-A:
+•
+to have a participation interest, an entity must be a registered member of the foreign company at the start of the day the foreign company pays or credits the distribution
+•
+an entity can have a participation interest where the foreign company makes a distribution on the cancellation of its equity interest, provided that the entity is a registered member at the start of the day the distribution is paid
+[3]
+, and
+•
+where the distribution is made under an off market share buy-back
+[4]
+, an entity will have a participation interest equal to the registered membership that it holds at the start of the day that it enters into the share buy-back contract with the foreign company.
+Ruling
+Subdivision 768-A
+4. Subdivision 768-A provides that an equity distribution received by an Australian corporate tax entity from a foreign company is NANE income in certain circumstances.
+The participation test
+5. For the distribution to be NANE income, the Australian corporate tax entity must (amongst other things) have a direct or indirect
+[5]
+participation interest in the foreign company, the sum of which is at least 10%.
+[6]
+6. The Australian corporate tax entity will satisfy the participation test if it has a sufficient
+direct control interest
+in the foreign company within the meaning of section 350 of the ITAA 1936.
+[7]
+7. Section 350 of the ITAA 1936 provides that the
+direct control interest
+that an entity 'holds' in another entity 'at a particular time' is equal to the percentage of share capital, rights to distribution or rights to vote that the entity 'holds' (or is 'entitled to acquire') in the other entity 'at that time.'
+Meaning of 'holds' and 'entitled to acquire'
+8. The Commissioner considers that an entity will 'hold' the rights specified in section 350 of the ITAA 1936 at a particular time where the entity is the legal owner of shares in a company established by reference to the register of members of that company 'at the time the distribution is made'
+[8]
+.
+9. If the entity doesn't 'hold' the rights specified in section 350 of the ITAA 1936 it may still have a direct control interest at a particular time equal to the percentage of those rights that the entity is entitled to acquire at that time.
+[9]
+Satisfying the participation test
+10. For the purposes of section 768-5 the Commissioner considers that an entity will satisfy the participation test 'at the time the distribution is made'
+[10]
+by the foreign company if the entity is the registered holder of at least a 10% participation interest in that company at the commencement of the day that the distribution is made.
+11. An entity will not satisfy the participation test 'at the time the distribution is made' where the entity acquires a registered interest equal to at least a 10% participation interest in the foreign company after the time the foreign company makes the distribution.
+When a distribution is made
+12. Where the foreign equity distribution is a dividend or non-share dividend, the time the distribution is made, is the day that the foreign company pays or credits the equity distribution.
+[11]
+13. Where the foreign equity distribution is a deemed dividend, the time the distribution is made is the time the tax legislation
+[12]
+deems the dividend to be taken to be paid.
+When the distribution is made under an off market share buy-back
+[13]
+14. Subsection 159GZZZP(1) of the ITAA 1936 provides that a specified part of the purchase price of an off market buy-back is deemed to be a dividend 'on the day the buy-back occurs'.
+15. The Commissioner considers that the time the buy-back occurs for the purpose of subsection 159GZZZP(1) of the ITAA 1936 is anytime on the day that the entities enter into the share buy-back contract.
+Examples
+16. The following examples illustrate the Commissioner's view of the application of the participation test and the meaning of 'at the time the distribution is made' in Subdivision 768 A in specific circumstances.
+Example 1 - When an entity 'holds' or is 'entitled to acquire' a participation interest
+17.
+Australian Company is the registered shareholder of 12% of the ordinary shares in Foreign Company.
+[14]
+18.
+On 1 May 2016 Foreign Company declares a dividend.
+19.
+On 1 June 2016 Australian Company enters into a contract to sell all of its shares in Foreign Company to Purchaser Company.
+20.
+On 1 July 2016 Foreign Company pays the dividend to Australian Company.
+21.
+On 1 August 2016 the sale contract between Australian Company and Purchaser Company is completed and Australian Company is removed from the register as a shareholder.
+22.
+On the day the dividend is paid (being 1 July 2016), Australian Company is the registered shareholder of 12% of the ordinary shares in Foreign Company and therefore has a participation interest of 12%.
+23.
+As Australian Company has at least a 10% participation interest in Foreign Company at the time the distribution is made it will satisfy the participation test in section 768-15.
+24.
+If Foreign Company paid the dividend on 10 August 2016, Australian Company would no longer hold a registered shareholding at that time. Australian Company would fail the participation test (notwithstanding that Australian Company was a registered shareholder of 12% of the ordinary shares at the time the dividend was declared).
+Example 2 - Distribution on the cancellation of a share
+25.
+Australian Company is the registered shareholder of 12% of the ordinary shares in Foreign Company.
+26.
+On 1 March 2016 Foreign Company passes a special resolution approving a selective share cancellation of all the shares Australian Company holds in Foreign Company for a consideration of $50 per share.
+27.
+On 20 March 2016 Foreign Company cancels all of its shares held by Australian Company and pays Australian Company $50 per share. Some of this consideration will be a dividend under subsection 6(1) of the ITAA 1936.
+28.
+At the start of the day on 20 March 2016 Australian Company is a registered member of Foreign Company (notwithstanding that at the end of the day it will not be).
+29.
+As Australian Company will hold a participation interest of 12% in Foreign Company at the start of the day on which the dividend is distributed, Australian Company will pass the participation test (as it holds at least a 10% participation interest).
+Example 3 - Distribution made via an Interposed Trust
+30.
+Australian Company holds 70% of the units in Interposed Trust which holds 50% of the ordinary shares in Foreign Company.
+31.
+On 1 April 2016 Foreign Company pays a dividend to Interposed Trust.
+32.
+On 1 May 2016 the trustee of Interposed Trust enters into a contract to sell all of its shares in Foreign Company to a third party.
+33.
+On 15 May 2016 the sale is completed and Foreign Company removes Interposed Trust from its share register.
+34.
+On 30 June 2016 Interposed Trust distributes the dividend from Foreign Company to Australian Company.
+35.
+The participation test is applied on 1 April 2016 (being the date Foreign Company pays the dividend to Interposed Trust) rather than 30 June 2016 (being the date Interposed Trust makes its distribution to Australian Company).
+36.
+On 1 April 2016 Australian Company will have a participation interest of 35% in Foreign Company (being its direct control interest of 70% in Interposed Trust multiplied by Interposed Trust's direct control interest of 50% in Foreign Company).
+[15]
+37.
+Australian Company will satisfy the participation test as its participation interest in Foreign Company is at least 10%. This is despite the fact that Australian Company will have no participation interest in Foreign Company on 30 June 2016 when it receives the distribution from Interposed Trust as Interposed Trust is no longer a shareholder in Foreign Company at that time.
+Example 4 - Distribution from an off market share buy-back
+38.
+Australian Company is the registered shareholder of 12% of the ordinary shares in Foreign Company.
+39.
+On 1 February 2016 Foreign Company announces that it will conduct an off market share buy-back. Foreign Company invites its shareholders to tender to sell the shares they hold in the company on the terms set out in the buyback documents issued to shareholders.
+40.
+On 1 March 2016 Australian Company submits a tender to sell two thirds of the shares it holds back to Foreign Company. This tender constitutes an offer to sell on the terms set out in the buy-back documents.
+41.
+On 1 April 2016 Foreign Company accepts Australian Company's offer to sell the shares.
+42.
+On 1 May 2016 the buy-back contract is completed. Foreign Company buys back the shares offered by Australian Company, pays the purchase price and cancels the shares.
+43.
+Subsection 159GZZZP(1) of the ITAA 1936 provides that a specified portion of the purchase price is taken to be a dividend paid by Foreign Company 'on the day the buy-back occurs.'
+44.
+The buy-back will occur on the day that the share buy-back contract is formed.
+[16]
+The contract is formed when Foreign Company accepts Australian company's tender on 1 April 2016.
+45.
+On 1 April 2016 Australian Company will be the registered shareholder of a 12% participation interest in foreign Company. As it holds at least a 10% participation interest in Foreign Company on 1 April 2016 Australian Company will satisfy the participation test at the time the distribution is made.
+Date of effect
+46. This Ruling applies to foreign equity distributions made on or after 17 October 2014, being the date Subdivision 768-A commenced operation. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+Commissioner of Taxation
+28 June 2017
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Subdivision 768-A
+47. Subdivision 768-A provides that an equity distribution received by an Australian corporate tax entity from a foreign company is NANE income in certain circumstances.
+48. Subdivision 768-A replaces section 23AJ of the ITAA 1936 and commenced operation on 17 October 2014.
+49. An amount will be NANE income under Subdivision 768-A if:
+•
+the recipient of the distribution is an Australian resident and a corporate tax entity
+[17]
+•
+the distribution is made by a company that is a foreign resident in respect of an equity interest in itself
+[18]
+•
+the Australian corporate tax entity receives the foreign equity distribution, either directly or indirectly through one or more interposed trusts or partnerships
+[19]
+, and
+•
+the Australian corporate tax entity satisfies the participation test in relation to the foreign company at the time the distribution is made.
+[20]
+50. This Ruling provides the Commissioner's view on the circumstances in which an Australian corporate tax entity satisfies the participation test at the time the distribution is made.
+The participation test
+51. An Australian corporate tax entity will satisfy the participation test at a time if at that time the sum of its direct and indirect participation interest in the foreign company is at least 10%.
+[21]
+Direct participation interest
+52. Where the Australian corporate tax entity holds its interest in the foreign company directly, its participation interest is equal to the
+direct control interest
+that the Australian corporate tax entity holds in the foreign company as set out in section 350 of the ITAA 1936.
+[22]
+Indirect participation interest
+53. Where the Australian corporate tax entity holds its interest in the foreign company through a trust or partnership, its indirect participation interest is equal to its
+direct participation interest
+in the interposed entity multiplied by the interposed entity's
+direct participation interest
+in the foreign company.
+[23]
+Direct control interest
+54. Section 350 of the ITAA 1936 provides that the
+direct control interest
+that an entity 'holds' in another entity 'at a particular time' is equal to the percentage of share capital, rights to distribution or rights to vote that the entity 'holds' (or is 'entitled to acquire') in the other entity 'at that time', disregarding any rights on winding up.
+55. When applying section 350 of the ITAA 1936:
+•
+where the shareholder's percentage share of these rights differ, the greater percentage is used
+[24]
+•
+in calculating the percentage of rights to distributions, the percentage needs to be calculated at the end of the statutory accounting period
+[25]
+, and
+•
+disregard subsection 350(3), which is about rights to distributions on winding up.
+[26]
+56. The meaning of 'holds,' 'entitled to acquire' and 'at that time' in section 350 of the ITAA 1936 is explained below.
+Meaning of 'holds'
+57. For an entity to have a 'direct control interest' in another entity, the first entity must 'hold' or be 'entitled to acquire' the interest in the other entity.
+[27]
+58. The meaning of the term 'holds' is not defined for the purpose of applying section 350 of the ITAA 1936.
+59. The words 'hold' and 'held' in legislation relating to shares in companies has been examined judicially.
+60. In
+Dalgety Downs Pastoral Co Pty. Ltd. v. Federal Commissioner of Taxation
+(1952) 10 ATD 55; [1952] ALR 946; (1952) 86 CLR 335 Webb, Fullagar and Kitto JJ stated at 341-342:
+...the verb 'hold' and its variants, when used in relation to shares in companies, normally refers to the legal ownership of the shares according to the register of members. The Companies Acts of the United Kingdom and of the several States of the Commonwealth have uniformly used the word in this sense, and common usage has followed their example. Before a different meaning is accepted, some justification must be found in the context, or the subject matter.
+61. This decision was affirmed in
+Patcorp Investments Limited v. Federal Commissioner of Taxation
+76 ATC 4225; (1976) 6 ATR 420; (1976) 140 CLR 247 (see judgement of Gibbs and Jacob JJ at 295 and 303 respectively).
+62. Consistent with the above cases, the majority of the High Court in
+Federal Commissioner of Taxation v. Linter Textiles Australia Ltd. (In liq)
+[2005] HCA 20; 2005 ATC 4255; (2005) 59 ATR 177; (2005) 220 CLR 592 at 604 stated:
+When used in relation to companies, 'hold' normally refers to legal ownership established by reference to the register of members...
+63. Using the ordinary meaning of the term 'holds' as outlined above does not lead to any absurdity or inconsistency within the context in which the term is used for present purposes.
+[28]
+64. The Commissioner considers that the direct control interest that an entity 'holds' in the foreign company for the purpose of the participation test is equal to the percentage of share capital, rights to distribution
+[29]
+or rights to vote (disregarding rights on winding up) that the entity holds (or is entitled to acquire) as established by reference to the registers of members of the company.
+[30]
+65. Example 1 (refer to paragraphs 17 to 24 of this Ruling) illustrates when an entity will hold the relevant rights in section 350 of the ITAA 1936 such that it passes the participation test in Subdivision 768-A.
+Meaning of 'entitled to acquire'
+66. Subsection 350(1) of the ITAA 1936 provides that an entity can have a direct control interest in the foreign company at a particular time equal to the percentage of share capital or rights set out in the subsection that it is 'entitled to acquire' in the foreign company at that time.
+67. Section 322 of the ITAA 1936 provides that an entity is 'entitled to acquire' anything that it:
+is absolutely or contingently entitled to acquire,
+whether because of any constituent document of a company, the exercise of any right or option or for any other reason. [Italics added]
+68. Further guidance on the meaning of 'entitled to acquire' in section 322 of the ITAA 1936 is contained in Taxation Ruling TR 2002/3
+Income tax: whether the holding of pre-emptive rights, call options and put options constitute a contingent entitlement to acquire for controlled foreign company (CFC) purposes.
+'At the time the distribution is made'
+69. Paragraphs 768-5(1)(b) and 768-5(2)(d) require that the entity must satisfy the participation test 'at the time the distribution is made'.
+70. Accordingly, to ascertain whether an entity satisfies the participation test it is necessary to identify:
+•
+the relevant distribution, and
+•
+the time at which that distribution is made.
+Meaning of 'the distribution' in section 768-5
+71. The 'distribution' referred to in section 768-5 is a 'foreign equity distribution' defined in section 768-10 as:
+a distribution or non-share dividend
+made by a company that is a foreign resident in respect of an equity interest in the company. [Italics added]
+Meaning of 'distribution'
+72. Subsection 960-120(1) provides that a 'distribution' from a company is:
+a dividend,
+or something
+taken to be a dividend,
+under this Act.
+[31]
+[Italics added]
+Meaning of 'dividend'
+73. The term 'dividend' is defined in subsection 6(1) of the ITAA 1936 to include:
+•
+a distribution of money or property made by a company to its shareholders (as shareholders), and
+•
+an amount credited by a company to its shareholders (as shareholders).
+[32]
+74. However, an amount will not be a dividend if it is debited against the company's share capital account.
+[33]
+Meaning of 'taken to be a dividend'
+75. Something that is 'taken to be a dividend' is also a distribution to which Subdivision 768-A applies.
+[34]
+76. An amount will be 'taken to be a dividend' under subsection 960-120(1) if it is taken to be a dividend by a specific provision of the tax legislation
+[35]
+, notwithstanding that it is not a 'dividend' within the meaning of subsection 6(1) of the ITAA 1936.
+77. Section 159GZZZP of the ITAA 1936 provides that a specified portion of the buy-back price in an off market share buyback is 'taken to be a dividend'. This amount is 'taken to be a dividend' within the meaning of subsection 960-120(1) and can be a distribution which is NANE income under Subdivision 768-A if all of the requirements of the Subdivision are satisfied.
+Meaning of 'non-share dividend'
+78. Section 768-10 states that a foreign equity distribution also includes a 'non-share dividend'.
+79. The term 'non-share dividend' is defined in section 974-120 in the same way as 'dividend' is defined in subsection 6(1) of the ITAA 1936, except that a non-share dividend is paid to a non-share equity holder and a dividend is paid to a shareholder.
+[36]
+When a distribution is made
+80. In summary, a 'distribution' to which Subdivision 768-A applies is a dividend, something taken to be a dividend or a non-share dividend made by a company that is a foreign resident.
+81. Each of these distributions has distinct rules about when it is made.
+When a dividend is made
+82. Subsection 960-120(2) sets out when a dividend is made. It states that:
+A corporate tax entity makes a distribution in the form of a dividend
+on the day
+on which the dividend is
+paid,
+or
+taken to have been paid.
+[Italics added]
+83. A distribution in the form of a dividend will be made 'on the day' the dividend is 'paid', or 'taken to have been paid.'
+When a non-share dividend is made
+84. Although subsection 960-120(2) specifies when a distribution in the form of a dividend is made there is no equivalent provision that sets out when a non-share dividend is made.
+85. However, there is evidence of a legislative intention that the time at which a non-share dividend is made is determined in the same way as a dividend.
+86. Under subsection 960-120(2) a dividend is made on the day it is 'paid'. The term 'paid' is defined in subsection 6(1) of the ITAA 1936 and the definition expressly applies to both dividends and non-share dividends.
+[37]
+87. In addition, section 43B of the ITAA 1936 states that the Subdivision dealing with the taxation of dividends:
+[38]
+...applies to a non-share dividend in the same way as it applies to a dividend.
+88. It is the Commissioner's view that for the purposes of Subdivision 768-A, the time at which a non-share dividend is made is determined in the same way as the time at which a dividend is made under subsection 960-120(2). That is, a non-share dividend will be made on the day on which the non-share dividend is paid.
+When a dividend and non-share dividend is 'paid'
+89. Subsection 6(1) of the ITAA 1936 states that the term 'paid':
+... in relation to dividends or non-share dividends includes credited or distributed.
+90. The ordinary meaning of the word 'paid' includes 'to discharge a debt or obligation as by giving or doing something', 'to give money to discharge a debt' and 'to satisfy the claims of a person by giving money'.
+[39]
+91. Mason J in
+Brookton Co-operative Society Ltd v. FCT
+(1981) 147 CLR 441; (1981) 11 ATR 880; (1981) 81 ATC 4346 (with whom Gibbs CJ and Aickin J agreed) held at 4355 that the declaration of a dividend creates a debt and the dividend will not be 'credited or distributed' until that debt is discharged:
+...a dividend does not form part of the assessable income of shareholder unless it is paid or credited, notwithstanding that the declaration of a final dividend...creates a debt.
+When a deemed dividend is made
+92. Subsection 960-120(2) also provides that a distribution in the form of a dividend is made 'on the day' on which the dividend is 'taken to be paid'.
+[40]
+93. To establish when such a dividend is made for the purposes of Subdivision 768-A, it will be necessary to determine the time at which the relevant provision in the tax legislation takes the dividend to have been paid.
+94. Paragraphs 104 to 112 of this Ruling consider when a dividend arising from an off market share buy-back is 'taken to be paid'.
+Satisfying the participation test
+95. Paragraphs 768-5(1)(b) and 768-5(2)(d) provide that the entity must satisfy the participation test 'at the time the distribution is made'.
+96. The Commissioner considers that to satisfy the participation test 'at the time the distribution is made', the entity must be the registered holder of at least a 10% participation interest at the start of the day that the distribution is made, whether or not that interest is held for the entirety of the day.
+97. Generally, the law does not recognise fractions of a day. Windeyer J in
+Associated Beauty Aids Pty Limited v. Commissioner of Taxation
+(1965) 113 CLR 662
+(Associated Beauty)
+at 669 stated that:
+I incline to the view that, if nothing to the contrary appears, what is meant is that the result of the act is operative from the first moment of the day on which the act is done -not because the act has a retroactive effect, but because it takes effect instanter, and when a day is spoken of the law does not take cognizance of parts of a day.
+98. As a result, an Australian corporate tax entity can satisfy the participation test when a dividend is made on the cancellation of an equity interest, provided that the entity holds (or is entitled to acquire) the requisite percentage of share capital or rights set out in subsection 350(1)
+[41]
+on the start of the day that the distribution is made.
+99. However, it is the Commissioner's view that paragraphs 768-5(1)(b) and 768-5(2)(d) will not be satisfied if the entity acquires a registered interest equal to at least a 10% participation interest in the foreign company after the start of the day that the distribution is made.
+100. Example 2 (refer to paragraphs 25 to 29 of this Ruling) illustrates how the participation test applies for the purposes of Subdivision 768-A to a distribution paid by a foreign company to its shareholder on a share cancellation.
+'On the day' is the day the distribution is made not received
+101. There would usually be timing differences between when the foreign company makes a dividend or non-share dividend payment and when the payment is received by an equity holder. This would depend on the method of payment and the time taken to deliver the payment to the equity holder.
+102. The relevant time under section 960-120 is the day on which the foreign company makes the payment rather than the day on which it is received by the equity holder.
+103. This means that whether an Australian corporate tax entity passes the participation test must be ascertained on the day that the foreign company makes the distribution rather the day on which the Australian corporate tax entity (or any interposed trust or partnership) receives that distribution.
+Meaning of 'taken to be paid' for deemed dividends from off market share buy-backs
+104. Division 16K of the ITAA 1936 applies to an off market buy- back where:
+•
+a company buys an equity interest in itself back from its equity holder
+[42]
+, and
+•
+if the equity interest is listed on a stock exchange the buy-back is not made in the ordinary course of trading on that stock exchange.
+[43]
+105. Subsection 159GZZZP(1) of Division 16K provides that a specified part of the purchase price of an off market buy-back:
+[44]
+...
+is taken to be a dividend paid by the company:
+(c)
+to the seller as a shareholder in the company; and
+(d)
+out of profits derived by the company; and
+(e)
+on the day the buy-back occurs.
+[Italics added]
+When does an off market share buy-back occur?
+106. An off market share buy-back can involve a number of steps which can include the company:
+•
+announcing to its shareholders that it will conduct an off market share buy-back, and
+-
+inviting its shareholders to make an offer to tender some or all of their shares for sale within a specified price range or the final price determined under the tender process ('tender process'), or
+-
+making an offer to its shareholders to buy-back some or all of their shares for a specified price ('fixed price process'), and
+•
+entering into an agreement with its shareholders to buy-back their shares either by:
+-
+accepting each shareholders' offer to sell its shares under a tender process, or
+-
+the shareholders accepting the company's offer to buy the shareholders' shares under a fixed price process, and
+•
+paying its shareholders the buy-back price (part of which is deemed to be a dividend under subsection 159GZZZP(1)), and
+•
+cancelling the shares that it has bought back from its shareholders.
+107. Subsection 159GZZZP(1) provides that the deemed dividend 'is taken to be a dividend paid by the company
+...on the day the buy back occurs.
+The question is at what point of the buy-back process summarised above does the 'buy back occur' for the purposes of subsection 159GZZZP(1).
+108. Although it did not expressly rule on point, the High Court in
+FCT v. Consolidated Media Holdings Ltd
+[2012] HCA 55; 2012 ATC 20 361; (2012) 84 ATR 1 accepted that the date on which the buy-back occurred for the purposes of subsection 159GZZZP(1) was the date on which the company and shareholder entered into the buy-back agreement.
+[45]
+109. The Commissioner considers that the phrase
+'on
+the day the buy-back occurs' is the day when the buy-back contract is formed,
+[46]
+rather than on the day the purchase price is paid.
+'On the day' the buy-back contract is formed
+110. For the same reasons set out in paragraphs 95 to 100 of this Ruling, the Commissioner considers that provided the shareholder satisfies the participation test
+anytime
+on the day the share buy-back contract is entered into, the Australian corporate tax entity can satisfy the participation test in respect of the purchased shares.
+111. The result is that provided that a shareholder is a registered member
+[47]
+anytime on the day it enters into the share buy-back agreement, it is possible for it to have a participation interest in respect of the bought back shares. This is notwithstanding that the shareholders rights may be suspended from the particular point in time during the day that it enters into the share buy-back agreement under the relevant jurisdictio
+n's
+corporation law.
+112. Example 4 (refer to paragraphs 38 to 45 of this Ruling) demonstrates when a shareholder participating in an off market share buy-back will satisfy the participation test.
+Appendix 2 - Detailed contents list
+113. The following is a detailed contents list for this Ruling:
+Paragraph
+Summary - what this ruling is about
+1
+The Commissioner's view
+2
+The outcome from the ATO view
+3
+Ruling
+4
+Subdivision 768-A
+4
+The participation test
+5
+Meaning of 'holds' and 'entitled to acquire'
+8
+Satisfying the participation test
+10
+When a distribution is made
+12
+When the distribution is made under an off market share buy-back
+14
+Examples
+16
+Example 1 - When an entity 'holds' or is 'entitled to acquire' a participation interest
+17
+Example 2 - Distribution on the cancellation of a share
+25
+Example 3 - Distribution made via an Interposed Trust
+30
+Example 4 - Distribution from an off market share buy-back
+38
+Date of effect
+46
+Appendix 1 - Explanation
+47
+Subdivision 768-A
+47
+The participation test
+51
+Direct participation interest
+52
+Indirect participation interest
+53
+Direct control interest
+54
+Meaning of 'holds'
+57
+Meaning of 'entitled to acquire'
+66
+'At the time the distribution is made'
+69
+Meaning of 'the distribution' in section 768-5
+71
+Meaning of 'distribution'
+72
+Meaning of 'dividend'
+73
+Meaning of 'taken to be a dividend'
+75
+Meaning of 'non-share dividend'
+78
+When a distribution is made
+80
+When a dividend is made
+82
+When a non-share dividend is made
+84
+When a dividend and non-share dividend is 'paid'
+89
+When a deemed dividend is made
+92
+Satisfying the participation test
+95
+'On the day' is the day the distribution is made not received
+101
+Meaning of 'taken to be paid' for deemed dividends from off market share buy-backs
+104
+When does an off market share buy-back occur?
+106
+On the day' the buy-back contract is formed
+110
+Appendix 2 - Detailed contents list
+113
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+All references are to the
+Income Tax Assessment Act 1997
+(ITAA 1997) unless otherwise indicated.
+[2]
+Or be absolutely or contingently entitled to be a registered member at the time the distribution is made.
+[3]
+Notwithstanding that the entity's equity interest may be cancelled later that day.
+[4]
+To which Division 16K of the
+Income Tax Assessment Act 1936
+(ITAA 1936) applies.
+[5]
+Or both. See sections 960-180, 960-185 and 960-190.
+[6]
+See section 768-15. For the other requirements that must be satisfied for the distribution to be NANE income see paragraph 49 of this Ruling.
+[7]
+See sections 768-15, 960-185 and 960-190 and section 350 of the ITAA 1936. When applying the participation test subsections 350(6) and 350(7) are disregarded (paragraph 960-190(2)(b)). If the Australian corporate tax entity holds its interest in the foreign company via one or more interposed trusts or partnerships, the interposed entity(s) must have a sufficient direct control interest in the foreign company. See paragraph 53 of this ruling.
+[8]
+See paragraphs 768-5(1)(b) and 768-5(2)(d), sections 960-185 and 960-190, and section 350 of the ITAA 1936.
+[9]
+The meaning of 'entitled to acquire' is set out in section 322 of the ITAA 1936.
+[10]
+Within the meaning of paragraphs 768-5(1)(b) and 768-5(2)(d).
+[11]
+Being the day that the foreign company discharges its debt to pay the distribution.
+[12]
+Being the ITAA 1997 or the ITAA 1936.
+[13]
+To which Division 16K of the ITAA 1936 applies.
+[14]
+All the examples assume that Foreign Company has only 1 class of shares on issue.
+[15]
+See section 960-185 and sections 351 and 350 of ITAA 1936.
+[16]
+See explanation at paragraphs 106 to 109 of this Ruling.
+[17]
+Paragraphs 768-5(1)(a) and 768-5(2)(a). The Australian resident receiving the distribution can be a company, corporate limited partnership, corporate unit trust or public trading trust.
+[18]
+Subsection 768-5(1) and section 768-10.
+[19]
+Subsection 768-5(2). Where the Australian corporate tax entity receives the distribution through one or more interposed trusts or partnerships, the amount that is NANE income must be attributable to a foreign equity distribution and be included in the interposed entity's assessable income (apart from Subdivision 768-A) (paragraphs 768-5(2)(b) and 768-5(2)(c)). The amount will not be NANE income if the Australian corporate tax entity receives the foreign equity distribution in the capacity of a trustee (subparagraphs 768-5(1)(c)(i)) and 768-5(2)(e)(i)).
+[20]
+Paragraphs 768-5(1)(b) and 768-5(2)(d).
+[21]
+Section 768-15.
+[22]
+See item 1 of subsection 960-190(1). See also the modifications to section 350 of the ITAA 1936 in section 960-190.
+[23]
+See sections 960-185 and 960-190, and section 350 of the ITAA 1936. If the Australian corporate tax entity holds its interest in the foreign company through more than one trust or partnership, the direct control interest of each entity in the next entity in the control chain must be multiplied to work out the Australian corporate tax entity's indirect participation interest in the foreign company. For further guidance on working out the participation interest of a partnership or a trust, refer to Taxation Determination TD 2016/D6
+Income tax: where an Australian corporate tax entity is a partner in a partnership, can the partnership 'hold' a direct control interest (within the meaning of section 350 of the Income Tax Assessment Act 1936) in a foreign company for the purpose of Subdivision 768-A of the Income Tax Assessment Act 1997?
+and Taxation Determination TD 2016/D7
+Income tax: where an Australian corporate tax entity is a beneficiary of a trust, can the trust be taken to 'hold' a direct control interest (within the meaning of section 350 of the Income Tax Assessment Act 1936) in a foreign company for the purpose of Subdivision 768-A of the Income Tax Assessment Act 1997
+respectively.
+[24]
+See subsection 350(1)
+[25]
+See subsection 350(4)
+[26]
+As the participation test in section 768-15 provides that rights on winding up are to be disregarded.
+[27]
+Being an interest described in subsection 350(1) of the ITAA 1936.
+[28]
+See also paragraphs 55 to 61 of Taxation Ruling TR 2004/7
+Income tax: capital gains: application of Division 149 of the Income Tax Assessment Act 1997 and Division 20 of Part IIIA of the Income Tax Assessment Act 1936 to public entities.
+[29]
+In calculating an entity's percentage rights to distribution, the percentage must be calculated at the end of the entity's statutory accounting period (section 350(4) of the ITAA 1936).
+[30]
+Although section 350 of the ITAA 1936 refers only to 'shareholders', subdivision 768-A is intended to apply to distributions to shareholders and also to non-share dividends made to non-share equity holders (see section 768-10). For the purposes of subdivision 768-A, an entity will 'hold' an interest in section 350 of the ITAA 1936 if the entity is listed as a shareholder on the register of members of the company or listed as a non-share equity holder on another register or other records of the company.
+[31]
+'This Act' includes both the ITAA 1997 and the ITAA 1936 (subsection 995-1(1)).
+[32]
+See paragraphs (a) and (b) of the definition of 'dividend' in subsection 6(1) of the ITAA 1936.
+[33]
+See paragraphs (d) and (e) of the definition of 'dividend' in subsection 6(1) of the ITAA 1936. See also subsections 6(4), 6BA(5) and section 94L of the ITAA 1936.
+[34]
+See subsection 960-120(1) item 1 and section 768-10.
+[35]
+Being the ITAA 1997 or the ITAA 1936.
+[36]
+See sections 974-120 and 974-115.
+[37]
+See also
+Blank v Commissioner of Taxation
+[2014] FCA 87; 2014 ATC 20-442 at paragraph 91.
+[38]
+Being subdivision D of Division 2 of Part III of the ITAA 1936.
+[39]
+Case 10/2000 2000 ATC 189; Case [2000] AATA 625 (2000) 45 ATR 1019 at 1036.
+[40]
+Reading item 1 of subsections 960-120(1) and 960-120(2) together.
+[41]
+Which comprises at least a 10% participation interest.
+[42]
+The company can be a foreign resident (see paragraph 159GZZZK(c)). Division 16K applies to both shares and non-share equity interests (section 159GZZZIA). A non-share dividend can be a deemed dividend under Division 16K.
+[43]
+See section 159GZZZK.
+[44]
+Being the difference between the purchase price and the amount that is debited against the company's share capital account (section 159GZZZP).
+[45]
+See (2012) 84 ATR 1 at paragraphs 10, 18 and 49.
+[46]
+This has been the Commissioner's view in a number of previous class rulings. See, for example, Class Ruling CR 2015/27
+Income tax: off-market share buy-back: Rio Tinto Limited
+at paragraph 59.
+[47]
+Or is entitled to be a registered member.
+Previously released in draft form as TR 2016/D2
+References
+ATO references:
+NO  1-6TF9TQ2
+ISSN: 2205-6122
+Related Rulings/Determinations:
+CR 2015/27
+TR 2002/3
+TR 2004/7
+TR 2006/10
+TD 2016/D6
+TD 2016/D7
+Business Line:
+ISP
+Legislative References:
+ITAA 1997
+ITAA 1997 Subdiv 768-A
+ITAA 1997 768-5
+ITAA 1997 768-5(1)
+ITAA 1997 768-5(1)(a)
+ITAA 1997 768-5(1)(b)
+ITAA 1997 768-5(1)(c)
+ITAA 1997 768-5(1)(c)(i)
+ITAA 1997 768-5(2)
+ITAA 1997 768-5(2)(a)
+ITAA 1997 768-5(2)(b)
+ITAA 1997 768-5(2)(c)
+ITAA 1997 768-5(2)(d)
+ITAA 1997 768-5(2)(e)(i)
+ITAA 1997 768-10
+ITAA 1997 768-15
+ITAA 1997 960-120(1)
+ITAA 1997 960-120(2)
+ITAA 1997 960-180
+ITAA 1997 960-185
+ITAA 1997 960-190
+ITAA 1997 960-190(1)
+ITAA 1997 960-190(2)(b)
+ITAA 1997 974-115
+ITAA 1997 974-120
+ITAA 1997 995-1(1)
+ITAA 1936
+ITAA 1936 Pt III Div 2 Subdiv D
+ITAA 1936 6(1)
+ITAA 1936 6(4)
+ITAA 1936 6BA(5)
+ITAA 1936 Div 16K
+ITAA 1936 23AJ
+ITAA 1936 43B
+ITAA 1936 94L
+ITAA 1936 159GZZZIA
+ITAA 1936 159GZZZK
+ITAA 1936 159GZZZK(c)
+ITAA 1936 159GZZZP
+ITAA 1936 159GZZZP(1)
+ITAA 1936 322
+ITAA 1936 350
+ITAA 1936 350(1)
+ITAA 1936 350(3)
+ITAA 1936 350(4)
+ITAA 1936 350(6)
+ITAA 1936 350(7)
+ITAA 1936 351
+TAA 1953
+Back to top

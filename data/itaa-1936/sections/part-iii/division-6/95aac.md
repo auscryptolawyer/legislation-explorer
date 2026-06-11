@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 95AAC Adjustments under Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997—references in this Act to liabilities under section 98, 99 or 99A
 
-
 <a id="s95AAC-1"></a>
 **(1)** Subsection (2) applies if an amount in respect of which a trustee of a trust estate is liable to be assessed (and pay tax) under section 98 in respect of the beneficiary is increased because of Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997.
 

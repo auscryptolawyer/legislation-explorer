@@ -15,7 +15,6 @@ source_pdf: "vol03.pdf"
 
 # 159GZZZF Effect on subsidiary of share cancellations to which this Division applies
 
-
 <a id="s159GZZZF-1"></a>
 **(1)** Where:
 

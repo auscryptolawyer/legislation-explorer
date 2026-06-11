@@ -1,0 +1,474 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+71 related documents
+Taxation Determination
+TD 2022/7
+Income tax: aggregated turnover - application of the 'connected with' concept to partnerships, foreign hybrids and non-entity joint ventures
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+TD 2022/7EC
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+Ruling
+1
+Example 1 - working out whether an entity is connected with a partnership
+15
+Example 2 - working out whether an entity is connected with a foreign hybrid company
+22
+Example 3 - working out aggregated turnover where an entity is in a non-entity joint venture
+28
+Date of effect
+38
+Appendix - Explanation
+39
+Background to Subdivision 328-C
+39
+Meanings of 'connected with' and 'affiliate'
+41
+Partnerships
+44
+Foreign hybrids treated as partnerships
+51
+Non-entity joint ventures
+59
+Relying on this Determination
+This publication (excluding appendix) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Determination applies to you, and you correctly rely on it, we will apply the law to you in the way set out in this Determination. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Determination.
+[Note:  This is a consolidated version of this document. Refer to the Legal Database
+(
+ato.gov.au/law
+)
+to check its currency and to view the details of all changes.]
+Ruling
+1. All legislative references in this Determination are to the
+Income Tax Assessment Act 1997
+(ITAA 1997), unless otherwise indicated.
+2. Subdivision 328-C sets out the rules for determining the 'aggregated turnover'
+[1]
+of an 'entity'.
+[2]
+3. An entity's aggregated turnover for an income year is comprised of its 'annual turnover'
+[3]
+, together with the annual turnover of any entity (including foreign resident) that is 'connected with'
+[4]
+it, or is an 'affiliate'
+[5]
+of it, at any time during the income year.
+[6]
+Partnerships
+4. Subdivision 328-C applies to a 'partnership'
+[7]
+as though it were an entity separate to its partners.
+5. A partner is capable of directly controlling a partnership based on the tests in subparagraphs 328-125(2)(a)(i) or (iii) (the 'general control tests') or the specific test for determining whether an entity directly controls a partnership under subparagraph 328-125(2)(a)(ii) (the 'partnership control test').
+6. When determining whether a partnership directly controls another entity under section 328-125, the partnership is the relevant entity, rather than the individual partners in their capacity as partners.
+7. Where an entity is directly controlled by a partnership within the meaning of section 328-125, that entity will also need to consider whether it is indirectly controlled by any other entities that control the partnership, including the individual partners in their capacity as partners of the partnership.
+[8]
+8. Likewise, where a partner directly controls a partnership, that partner will also need to consider whether they indirectly control any other entities that are controlled by the partnership.
+9. Further, as only an individual or a company can be an affiliate within the meaning of section 328-130, a partnership is not capable of being an affiliate of another entity.
+Foreign hybrids
+10. By virtue of being treated as a partnership, rather than a company, for Australian tax purposes
+[9]
+an entity that is a 'foreign hybrid limited partnership'
+[10]
+or a 'foreign hybrid company'
+[11]
+(collectively, a 'foreign hybrid'
+[12]
+) is treated as though it were a partnership for the purposes of Subdivision 328-C.
+[13]
+11. Therefore, a partner of a foreign hybrid limited partnership or a member of a foreign hybrid company is capable of directly controlling the foreign hybrid based on the general control tests in subparagraphs 328-125(2)(a)(i) or (iii), or the partnership control test under subparagraph 328-125(2)(a)(ii). Paragraph 328-125(2)(b), which is a specific test for determining whether an entity directly controls a company (the 'voting control test'), does not apply to determining direct control of a foreign hybrid.
+12. Further, by virtue of being treated as a partnership for Australian tax purposes, an entity that is a foreign hybrid is not capable of being an affiliate of another entity within the meaning of section 328-130.
+Non-entity joint ventures
+13. Unlike a partnership, a 'non-entity joint venture'
+[14]
+is not an entity in its own right for the purposes of Subdivision 328-C. Therefore, when applying the aggregation rules in Subdivision 328-C, the relevant entities are each of the parties to the non-entity joint venture, in their separate capacities.
+14. Additionally, a party to a non-entity joint venture will not be an affiliate of another party to that non-entity joint venture merely because of the nature of their business relationship.
+[15]
+Example 1 - working out whether an entity is connected with a partnership
+15.
+XYZ Pty Ltd (XYZ) needs to calculate its aggregated turnover for the 2020-21 income year to determine its eligibility for the loss carry back tax offset.
+16.
+Under section 328-115, XYZ's aggregated turnover includes its own annual turnover, together with the annual turnover of any entity that is connected with, or an affiliate of, XYZ at any time during the income year. Therefore, to undertake this calculation, XYZ needs to identify any entities connected with it.
+17.
+The major shareholder in XYZ is a partnership known as ABCD Partners (the Partnership). AB Pty Ltd (AB) and CD Pty Ltd (CD) each hold 50% of the interests in the Partnership and receive equal distributions of income and capital made by the Partnership.
+18.
+The Partnership's assets include 51% of the ordinary shares in XYZ. These shares carry full rights to voting, capital and dividends.
+19.
+The Partnership directly controls XYZ by virtue of holding 51% of the rights to voting, capital and dividends in XYZ, therefore satisfying the general control tests in subparagraphs 328-125(2)(a)(i) and (iii), as well as the voting control test in paragraph 328-125(2)(b).
+20.
+As XYZ is directly controlled by the Partnership, it also needs to consider whether it is indirectly controlled by AB and/or CD. As AB and CD are each entitled to receive 50% of any distributions of income or capital made by the Partnership, they are each taken to directly control the Partnership in accordance with the general control tests in subparagraphs 328-125(2)(a)(i) and (iii). Accordingly, by virtue of the indirect control test in subsection 328-125(7), AB and CD each indirectly control XYZ.
+21.
+Therefore, XYZ is connected with the Partnership, AB and CD, and will need to include the annual turnover of each of these entities in its aggregated turnover for the 2020-21 income year.
+Note
+: In accordance with paragraphs 328-115(3)(a) and (b), XYZ's aggregated turnover does not include amounts derived by each of XYZ, the Partnership, AB and CD from their dealings with each other. For example, this would include distributions made by XYZ to the Partnership, and by the Partnership to AB and CD during the 2020-21 income year, to the extent those amounts would otherwise have been included in the respective annual turnovers of each of those entities under section 328-120.
+Example 2 - working out whether an entity is connected with a foreign hybrid company
+22.
+ABC LLC (ABC) is a limited liability company formed in the United States of America (US). For Australian tax purposes, ABC is a foreign hybrid company within the meaning of subsection 830-15(1) and is therefore treated as a partnership for Australian tax purposes.
+23.
+ABC's members include XYZ Ltd (XYZ), an Australian-resident company. The capital contributed by XYZ to ABC comprises an amount equal to 52% of ABC's total capital. Under ABC's operating agreement, XYZ is entitled to receive a percentage of ABC's distributable profits that is equivalent to the percentage of XYZ's contributed capital (that is, 52%).
+24.
+XYZ needs to work out its aggregated turnover for the 2020-21 income year to determine whether it is eligible to carry back a tax loss. A key question is whether it is connected with ABC.
+25.
+As ABC is a foreign hybrid company, it is treated as though it were a partnership for Australian tax purposes and XYZ is treated as though it were a partner in the partnership.
+26.
+In accordance with section 830-30, XYZ's individual interest in ABC's net income is deemed to be equal to the percentage of ABC's profits that XYZ could reasonably be expected to receive if ABC made a distribution at the end of the income year. XYZ is entitled to receive 52% of any profits distributed by ABC and is therefore deemed to be entitled to receive 52% of the net income of ABC.
+27.
+Therefore, XYZ is connected with ABC within the meaning of subparagraph 328-125(2)(a)(ii) and will need to include ABC's annual turnover in its aggregated turnover for the 2020-21 income year.
+Note
+: In accordance with paragraph 328-115(3)(a), XYZ's aggregated turnover does not include amounts derived by XYZ or ABC from their dealings with each other. For example, this includes any distributions made by ABC to XYZ during the 2020-21 income year, to the extent those amounts would otherwise have been included in XYZ's annual turnover under section 328-120.
+Example 3 - working out aggregated turnover where an entity is in a non-entity joint venture
+28.
+On 1 July 2018, A Co Pty Ltd (A Co) entered into a contractual agreement with an unrelated company, B Co Pty Ltd (B Co), to undertake a new joint venture. This agreement is a non-entity joint venture within the meaning of subsection 995-1(1) and is therefore not an entity for income tax purposes.
+29.
+A Co and B Co each carry on a business and the joint venture forms part of their respective business activities.
+30.
+B Co does not act, nor is there a reasonable expectation that it would act, in accordance with the directions or wishes of A Co, or in concert with A Co, in relation to B Co's business affairs outside of the non-entity joint venture.
+31.
+A Co needs to work out its aggregated turnover for the 2020-21 income year to determine its eligibility to claim a deduction under temporary full expensing.
+32.
+During the 2020-21 income year, A Co derives $1.2 million of ordinary income from the joint venture. A Co derives this ordinary income in the ordinary course of carrying on its business.
+33.
+Therefore, the amount of $1.2 million is included in A Co's annual turnover in accordance with section 328-120.
+34.
+Under section 328-115, A Co's aggregated turnover for the 2020-21 income year includes its own annual turnover, together with the annual turnover of any entity that is connected with, or an affiliate of, A Co during the 2020-21 income year.
+35.
+A Co and B Co do not hold any direct or indirect ownership interests in each other (including by virtue of their affiliates). Therefore, A Co is not connected with B Co under section 328-125.
+36.
+B Co is not an affiliate of A Co within the meaning of section 328-130 merely because of the nature of their business relationship in the non-entity joint venture. As B Co does not act, nor is there a reasonable expectation that it would act, in accordance with the directions or wishes of A Co, or in concert with A Co, in relation to B Co's business affairs outside of the non-entity joint venture, B Co is not an affiliate of A Co.
+37.
+Therefore, A Co does not include B Co's annual turnover in its aggregated turnover for the 2020-21 income year.
+Date of effect
+38. This Determination applies both before and after its date of issue. However, this Determination will not apply to taxpayers to the extent that it conflicts with the terms of settlement of a dispute agreed to before the date of issue of this Determination (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10
+Public Rulings).
+Commissioner of Taxation
+30 March 2022
+Appendix - Explanation
+This Explanation is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Background to Subdivision 328-C
+39. Under Subdivision 328-C
+[16]
+, an entity will be a small business entity for an income year if it carries on a business and its aggregated turnover is under the relevant threshold.
+[17]
+An entity's aggregated turnover for an income year is comprised of its annual turnover
+[18]
+, together with the annual turnover of any entity (including foreign resident) that is connected with
+[19]
+it, or is an affiliate
+[20]
+of it, at any time during the income year.
+[21]
+40. The concepts of small business entity and aggregated turnover in Subdivision 328-C are utilised in a number of provisions in the taxation law, including the temporary loss carry back
+[22]
+and temporary full expensing
+[23]
+measures. These measures cover entities that would meet the definition of a small business entity in section 328-110 if the aggregated turnover threshold under that definition was $5 billion (instead of $10 million).
+[24]
+Consequently, the aggregation provisions in Subdivision 328-C (and related concepts) are relevant to determining whether an entity is eligible to carry back a tax loss or claim a deduction under temporary full expensing. As a result, these provisions now apply to a broader range of business structures and entities, including large businesses and multinational entities.
+Meanings of 'connected with' and 'affiliate'
+41. An entity is connected with another entity if either entity controls the other entity in a way described in section 328-125 or both entities are controlled in a way described in that section by the same third entity.
+[25]
+Subsection 328-125(2) sets out the test for determining whether an entity directly controls another entity, other than a discretionary trust
+[26]
+, as:
+An entity (the
+first entity)
+controls another entity if the first entity, its affiliates, or the first entity together with its affiliates:
+(a) except if the other entity is a discretionary trust - own, or have the right to acquire the ownership of, interests in the other entity that carry between them the right to receive a percentage (the
+control percentage)
+that is at least 40% of:
+(i)
+any distribution of income by the other entity; or
+(ii)
+if the other entity is a partnership - the net income of the partnership; or
+(iii)
+any distribution of capital by the other entity; or
+(b) if the other entity is a company - own, or have the right to acquire the ownership of, equity interests in the company that carry between them the right to exercise, or control the exercise of, a percentage (the
+control percentage)
+that is at least 40% of the voting power in the company.
+42. An entity will also be connected with another entity if it indirectly controls that entity (or vice versa) within the meaning of subsection 328-125(7). Where an entity (the first entity) directly controls a second entity and the second entity controls (whether directly or indirectly) a third entity, the first entity will be taken to indirectly control the third entity.
+[27]
+43. Under subsection 328-130(1), an individual or company is an affiliate of yours if they act, or could reasonably be expected to act, in accordance with your directions or wishes, or in concert with you, in relation to their business affairs. However, an individual or a company is not your affiliate merely because of the nature of the business relationship you and the individual or company share.
+[28]
+Partnerships
+44. Subdivision 328-C refers to the term 'entity'. Subsection 995-1(1) provides that, except so far as the contrary intention appears, entity has the meaning given by section 960-100. Relevantly, an entity within the meaning of section 960-100 includes, among other things, a partnership.
+[29]
+45. A partnership is defined in subsection 995-1(1) to mean:
+(a) an association of persons (other than a company or a limited partnership) carrying on business as partners or in receipt of ordinary income or statutory income jointly; or
+(b) a limited partnership.
+46. Subdivision 328-C applies to a partnership as though it were an entity in its own right. For example, a person who is a partner in a partnership in an income year is not, in his or her capacity as a partner, a small business entity for the income year.
+[30]
+Paragraph 2.109 of the Explanatory Memorandum to the Tax Laws Amendment (2009 Measures No. 2) Bill 2009 explains that the clear intention of the small business entity regime was that a partner in a partnership cannot, in their capacity as a partner, be a small business entity; it is only the partnership that can be a small business entity.
+47. In the context of the 'connected with' concept, the direct control tests in paragraph 328-125(2)(a) apply to determining direct control of a partnership.
+48. A partner will directly control a partnership if the partner, its affiliates or the partner together with its affiliates own or have the right to acquire ownership of interests in the partnership that carry between them the right to receive:
+•
+at least 40% of any distributions of income
+[31]
+or capital
+[32]
+by the partnership, or
+•
+at least 40% of the net income
+[33]
+of the partnership.
+49. For the purposes of determining whether a partnership directly controls another entity under section 328-125, it is the partnership itself (being the partners collectively in their capacity as partners) that is taken to control the other entity.
+50. For completeness, an individual partner in a partnership may still be taken to directly control another entity under section 328-125, where its interests in that entity are held in a separate capacity, outside of the partnership.
+Foreign hybrids treated as partnerships
+51. Under Division 830, an entity that is a foreign hybrid limited partnership
+[34]
+or a foreign hybrid company
+[35]
+is treated as a partnership, rather than a company, for Australian tax purposes.
+[36]
+52. A limited partnership that is a foreign hybrid limited partnership in relation to an income year is not a corporate limited partnership
+[37]
+in relation to that income year.
+[38]
+As a result, Division 5 of Part III of the
+Income Tax Assessment Act 1936
+(ITAA 1936), which deals with ordinary partnerships, will apply to the limited partnership.
+[39]
+53. Where a company is a foreign hybrid company in relation to an income year, the foreign hybrid tax provisions (which include, among other provisions, Subdivision 328-C)
+[40]
+apply as if the company were a partnership.
+[41]
+54. Subdivision 830-B extends the application of Division 5 of Part III of the ITAA 1936 to foreign hybrid companies by deeming, among other things, that the:
+•
+partners in the partnership are the shareholders in the company
+[42]
+,
+•
+individual interest of a partner in the net income or partnership loss of the partnership of the income year is equal to the percentage that, if the profits of the company for the income year were distributed at the end of the income year to its shareholders
+-
+as dividends, or
+-
+if the company's constitution or other rules provide for the distribution of profits other than as dividends - in accordance with the constitution or those rules,
+the partner, as a shareholder, could reasonably be expected to receive of the total distribution
+[43]
+, and
+•
+interest each partner has in the assets of the partnership, under the partnership agreement, is equal to the percentage that, if the capital of the company were distributed to its shareholders on a winding-up of the company at the end of the income year, the partner, as a shareholder, could reasonably be expected to receive of the total distribution.
+[44]
+55. With respect to US limited liability companies (LLCs), paragraph 9.41 of the Explanatory Memorandum to the Taxation Laws Amendment Bill (No. 7) 2003 explains that while a US LLC may not issue shares, the members are equivalent to stockholders of a corporation. Therefore, such an interest holder will fall within the definition of a 'shareholder' and be treated as a partner in a partnership.
+56. By virtue of being treated as a partnership rather than as a company for Australian tax purposes, the aggregation rules in Subdivision 328-C apply to a foreign hybrid as though it were a partnership.
+57. Therefore:
+•
+an entity is capable of directly controlling a foreign hybrid based on the general control tests in subparagraphs 328-125(2)(a)(i) or (iii), or the partnership control test under subparagraph 328-125(2)(a)(ii), and
+•
+the voting control test in paragraph 328-125(2)(b) does not apply to determining direct control of a foreign hybrid.
+58. In the context of the affiliate concept, only an individual or a company is capable of being an affiliate of another entity.
+[45]
+Therefore, by virtue of being treated as a partnership for Australian tax purposes, a foreign hybrid is not capable of being an affiliate of another entity within the meaning of section 328-130.
+Non-entity joint ventures
+59. While the term 'joint venture' does not have a settled meaning at common law
+[46]
+, it is commonly used to describe a contractual arrangement whereby two or more parties undertake a specific economic activity or project.
+60. The income tax law recognises a non-entity joint venture. Under subsection 995-1(1), a non-entity joint venture is defined to mean:
+... an arrangement that the Commissioner is satisfied is a contractual arrangement:
+(a) under which 2 or more parties undertake an economic activity that is subject to the joint control of the parties; and
+(b) that is entered into to obtain individual benefits for the parties, in the form of a share of the output of the arrangement rather than joint or collective profits for all the parties.
+61. An entity, for the purposes of section 960-100, includes 'any other unincorporated association or body of persons'.
+[47]
+However, subsection 960-100(1A) expressly excludes a non-entity joint venture from being an entity within the meaning of paragraph 960-100(1)(e). Paragraphs 7.1, 7.16 and 7.18 of the Explanatory Memorandum to the Indirect Tax Legislation Amendment Bill 2000 explained that the insertion of subsection 960-100(1A) into the ITAA 1997, along with other related amendments, would '... clarify that a joint venture that does not involve the establishment of a joint venture entity is not a company or any other entity for taxation purposes.'
+62. Accordingly, it is clear that a non-entity joint venture does not constitute an entity for the purposes of Subdivision 328-C. In practical terms, this means that the relevant entities for the purposes of Subdivision 328-C are the parties to the joint venture, in their separate capacities.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+'Aggregated turnover' is defined in section 328-115.
+[2]
+'Entity' is defined in section 960-100.
+[3]
+'Annual turnover' is defined in section 328-120.
+[4]
+An entity is 'connected with' another entity within the meaning of section 328-125.
+[5]
+An entity is an 'affiliate' of yours within the meaning of section 328-130.
+[6]
+Section 328-115. This is subject to the excluded amounts listed in subsection 328-115(3).
+[7]
+'Partnership' is defined in subsection 995-1(1).
+[8]
+Subsection 328-125(7) contains the test for determining whether an entity is indirectly controlled by another entity.
+[9]
+Under Division 830.
+[10]
+'Foreign hybrid limited partnership' is defined in subsection 830-10(1). As a foreign hybrid limited partnership is not a corporate limited partnership, the ordinary partnership provisions in Division 5 of Part III of the
+Income Tax Assessment Act 1936
+(ITAA 1936) apply to it; see subsection 94D(5) of the ITAA 1936.
+[11]
+'Foreign hybrid company' is defined in subsection 830-15(1).
+[12]
+Section 830-5.
+[13]
+Where a company is a foreign hybrid company in relation to an income year, the 'foreign hybrid tax provisions' (which, under subsection 995-1(1), include the ITAA 1997 (other than Subdivisions 830-A and 830-B)) apply as if the company were a partnership; see section 830-20.
+[14]
+'Non-entity joint venture' is defined in subsection 995-1(1).
+[15]
+See subsection 328-130(2).
+[16]
+Subdivision 328-C applies in relation to the 2007-08 and later income years; see paragraphs 1.37 and 2.69 of the Explanatory Memorandum to the Tax Laws Amendment (Small Business) Bill 2007.
+[17]
+Section 328-110.
+[18]
+'Annual turnover' is defined in section 328-120.
+[19]
+An entity is connected with another entity within the meaning of section 328-125.
+[20]
+An entity is an affiliate of yours within the meaning of section 328-130.
+[21]
+Section 328-115. This is subject to the excluded amounts listed in subsection 328-115(3).
+[22]
+The temporary loss carry back provisions are contained in Division 160.
+[23]
+The temporary full expensing provisions are contained in Subdivision 40-BB of the
+Income Tax (Transitional Provisions) Act 1997.
+[24]
+For temporary loss carry back, see subparagraph 160-20(b)(i) which amends the reference in Subdivision 328-C from $10 million to $5 billion. For temporary full expensing, see subparagraph 40-155(b)(i) of the
+Income Tax (Transitional Provisions) Act 1997,
+which amends the reference in Subdivision 328-C from $10 million to $5 billion.
+[25]
+Subsection 328-125(1).
+[26]
+Subsections 328-125(3) to (5) set out the tests for determining whether an entity directly controls a discretionary trust.
+[27]
+This is subject to the public entity exception in subsection 328-125(8).
+[28]
+Subsection 328-130(2).
+[29]
+Paragraph 960-100(1)(d).
+[30]
+Subsection 328-110(6). For completeness, a partner in a partnership may still be a small business entity in another capacity.
+[31]
+Subparagraph 328-125(2)(a)(i).
+[32]
+Subparagraph 328-125(2)(a)(iii).
+[33]
+Subparagraph 328-125(2)(a)(ii). 'Net income', in relation to a partnership, is defined in section 90 of the ITAA 1936.
+[34]
+A partnership will be a foreign hybrid limited partnership in relation to an income year if it satisfies the conditions in subsection 830-10(1).
+[35]
+A company will be a foreign hybrid company in relation to an income year if it satisfies the conditions in subsection 830-15(1).
+[36]
+Section 830-1. Division 830 applies to assessments for the 2003-04 income year, and each later income year, of a taxpayer who will as a result be a partner in an entity that is a foreign hybrid in relation to that income year; see subsection 830-1(1).
+[37]
+As defined in section 94D of the ITAA 1936.
+[38]
+Subsection 94D(5) of the ITAA 1936.
+[39]
+Note to subsection 94D(5) of the ITAA 1936.
+[40]
+This is because under subsection 995-1(1), foreign hybrid tax provisions include the ITAA 1997 (other than Subdivisions 830-A and 830-B).
+[41]
+Section 830-20. This is subject to the special rules in Subdivisions 830-C and 830-D.
+[42]
+Section 830-25.
+[43]
+Section 830-30.
+[44]
+Section 830-35.
+[45]
+Subsection 328-130(1).
+[46]
+United Dominions Corporation Ltd v Brian Pty Ltd
+[1985] HCA 49 (per Mason, Brennan and Deane JJ).
+[47]
+Paragraph 960-100(1)(e).
+Previously issued in draft format as TD 2021/D2
+References
+ATO references:
+NO  1-QY2NPW4
+ISSN: 2205-6211
+Related Rulings/Determinations:
+TR 2006/10
+Business Line:
+PG
+Legislative References:
+ITAA 1936 Div 5 Pt III
+ITAA 1936 90
+ITAA 1936 94D
+ITAA 1936 94D(5)
+ITAA 1997 Div 160
+ITAA 1997 160-20(b)(i)
+ITAA 1997 Subdiv 328-C
+ITAA 1997 328-110
+ITAA 1997 328-110(6)
+ITAA 1997 328-115
+ITAA 1997 328-115(3)
+ITAA 1997 328-115(3)(a)
+ITAA 1997 328-115(3)(b)
+ITAA 1997 328-120
+ITAA 1997 328-125
+ITAA 1997 328-125(1)
+ITAA 1997 328-125(2)
+ITAA 1997 328-125(2)(a)(i)
+ITAA 1997 328-125(2)(a)(ii)
+ITAA 1997 328-125(2)(a)(iii)
+ITAA 1997 328-125(2)(b)
+ITAA 1997 328-125(3)
+ITAA 1997 328-125(4)
+ITAA 1997 328-125(5)
+ITAA 1997 328-125(7)
+ITAA 1997 328-125(8)
+ITAA 1997 328-130
+ITAA 1997 328-130(1)
+ITAA 1997 328-130(2)
+ITAA 1997 Div 830
+ITAA 1997 Subdiv 830-A
+ITAA 1997 Subdiv 830-B
+ITAA 1997 Subdiv 830-C
+ITAA 1997 Subdiv 830-D
+ITAA 1997 830-1
+ITAA 1997 830-5
+ITAA 1997 830-10(1)
+ITAA 1997 830-15(1)
+ITAA 1997 830-20
+ITAA 1997 830-25
+ITAA 1997 830-30
+ITAA 1997 830-35
+ITAA 1997 960-100
+ITAA 1997 960-100(1)(d)
+ITAA 1997 960-100(1)(e)
+ITAA 1997 960-100(1A)
+ITAA 1997 995-1(1)
+ITTP Act Subdiv 40-BB
+ITTP Act 40-155(b)(i)
+ITTP Act 830-1(1)
+Cases relied on:
+United Dominions Corporation Ltd v Brian Pty Ltd
+[1985] HCA 49
+157 CLR 1
+59 ALJR 676
+60 ALR 741
+Other References:
+Explanatory Memorandum
+to the Indirect Tax Legislation Amendment Bill 2000
+Explanatory Memorandum
+to the Taxation Laws Amendment Bill (No. 7) 2003
+Explanatory Memorandum
+to the Tax Laws Amendment (Small Business) Bill 2007
+Explanatory Memorandum
+to the Tax Laws Amendment (2009 Measures No. 2) Bill 2009
+TD 2022/7 history
+Date:
+Version:
+Change:
+30 March 2022
+Original ruling
+You are here
+3 August 2022
+Consolidated ruling
+Erratum
+Back to top

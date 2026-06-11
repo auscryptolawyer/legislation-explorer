@@ -1,0 +1,37 @@
+---
+act: "Australian Master GST Guide"
+part: "11"
+section: "supply-must-be-of-all-things-necessary"
+title: "Supply must be of all things necessary"
+paragraph: "¶11-506"
+---
+
+# Supply must be of all things necessary ¶11-506
+
+To obtain the exemption, the seller must supply the purchaser with all things necessary for the continued operation of the business (s 38-325(2)(a)). It is not necessary that all those things must be provided in the same single supply. There may be more than one supply, provided that they are all made under the one arrangement.
+
+In some cases, it is not technically possible for the seller to supply all things necessary for the continued operation of the business. For example, there may be an essential non-assignable licence or quota that can only be reissued to the purchaser by a government authority. The Commissioner considers that such a reissue will be treated as a supply of the licence by the seller if the seller makes all reasonable efforts to facilitate the reissue (GST Ruling GSTR 2002/5). Alternatively, if assignment is possible, but normal commercial practice is for the right to be surrendered and reissued, such a reissue may be treated as a supply if it is facilitated by the seller.
+
+Care must be taken if a business such as a farm and the land on which it is conducted are owned by separate entities (eg a family trust and a family company). The reason is that neither may be able to supply all the things necessary, even though together they could. If each of them is carrying on a separate enterprise, each enterprise must be capable of continued operation by the purchaser (GST Ruling GSTR 2002/5). Corresponding difficulties may arise if the sale is to two entities.
+
+What is “necessary” for the continued operation of the business will vary according to the circumstances. For example, a fitted-out vehicle may be necessary for the continued operation of a mobile mechanic business, but a car may not be necessary for a broking business that operates from fixed premises. On the other hand, where a business is necessarily conducted from premises, for example, a hotel, either premises or the right to occupy them must be supplied (see also Debonne Holdings Pty Ltd v FC of T [2006] AATA 886). If the premises are leased, the lease should be assigned; alternatively, the lease could be surrendered and the lessor should facilitate the entry of a new lease to the recipient. This also applies where a lease has already expired and the supplier continues to occupy under a short-term periodic tenancy — in this case, the benefit of that tenancy should be supplied to the recipient. However, the Commissioner considers that where the supplier occupies premises under a tenancy which is terminable “at will”, this cannot be assigned and the conditions for exemption therefore cannot technically be satisfied (GST Ruling GSTR 2002/5). If there is significant goodwill attached to a key site, or a site has special features essential to the operation of the business, that particular site or the right to occupy it would normally need to be supplied.
+
+Where the enterprise has goodwill that is capable of being transferred, that goodwill would be treated as necessary for the continued operation of the business. For example, the sale of the assets of a business without a transfer of goodwill or of forward bookings was held not to be the supply of a going concern in Allen Yacht Charters Ltd v CIR (1994) 16 NZTC 11,270. Providing introductions to existing clients and facilitating continuity of marketing arrangements would also be a typical part of a supply of a going concern. So would an assignment of trade debts (GST Advice GSTA TPP 014).
+
+Where there are key personnel whose skills are essential to the running of the business, the seller must take all reasonable steps to facilitate the transfer of those skills and knowledge, for example by training sessions or provision of training manuals (GST Ruling GSTR 2002/5). Similarly, the Commissioner accepts that where non-transferable personal qualifications of a sole proprietor are essential to the business, it will be sufficient that everything else necessary is transferred.
+
+In the case of a trading name, it is sufficient if this is licensed to the purchaser, rather than sold (Interpretative Decision ID 2002/237).
+
+It may happen that only part of the things necessary for the continued operation of the business needs to be supplied because the purchaser already has some of them already available. In this situation, the Commissioner considers that the requirements for exemption have not been met (GST Ruling GSTR 2002/5). necessary The arrangement may also include things that are not essential to the continued operation of the business, even though they are actually used in it (GST Ruling GSTR 2002/5). However, the exemption will not apply to the supply of such things if they are supplied independently of the arrangement (Interpretative Decision ID 2012/54).
+
+If surplus non-essential assets are retained by the seller, the exemption may still apply, but the supplier may be liable for an increasing GST adjustment (¶6-410).
+
+The supply of property that would have been taxable if sold by itself may become GST-free if sold as part of a going concern. For example, a milk quota sold by a dairy business is normally taxable, but if sold as part of the business, the whole sale may be GST-free under the going concern exemption. The same would apply to the sale of a commercial fishing licence.
+
+The Commissioner considers that if the enterprise consists solely of the leasing of property, even if carried on as part of a broader enterprise, the supply of associated management and service contracts is not necessary for the continued operation of that enterprise. However, the benefit of the covenants in the lease must be supplied and there could therefore not be a supply of a going concern to the lessee where the property is simply transferred to it (GST Ruling GSTR 2002/5). For the position where the property is held by a tax law partnership, see ¶3-020.
+
+The Commissioner considers that where a property development enterprise involves the supply of residential houses or strata units under construction, the necessary things may include: title to the land; council or local authority applications and approvals; construction schedules; intellectual property such as names, project plans, construction plans and drawings, and details of covenants; marketing plans and contracts, and “off the plan” sales contracts; quality assurance plans; assignment of subcontracts and lists of subcontractors; and a site sales and marketing office. In the case of an enterprise involving the supply of lots or development land, necessary things may include: rezoning applications, approvals or deeds; intellectual property such as engineering plans for headworks construction and utilities infrastructure, and environmental impact studies; and rights of access (former GST Ruling GSTR 2002/5).
+
+For the sale of a business by a mortgagee, see ¶10-070. For the position where liabilities for long service leave are transferred to the purchaser, see ¶4-010. not apply
+
+*Refs: s 38-325(2)(*

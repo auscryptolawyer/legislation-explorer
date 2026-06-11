@@ -1,0 +1,506 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+40 related documents
+Taxation Determination
+TD 2024/4
+Income tax: hybrid mismatch rules - application of certain aspects of the 'liable entity' and 'hybrid payer' definitions
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+TD 2024/4EC
+.
+Table of Contents
+Paragraph
+What this Determination is about
+1
+Ruling
+4
+Example 1 – liable entity in Australia based on hypothetical income or profits within Australia's tax base
+7
+Example 2 – liable entity in the United States based on hypothetical income or profits within the tax base of the United States
+9
+Example 3 – Y Co is a hybrid payer in respect of its royalty payments to X Co
+14
+Date of effect
+21
+Appendix 1 – Explanation
+22
+Liable entity
+22
+The general test
+26
+Subsection 832-325(4) and the note to that subsection
+27
+The meaning of 'imposed' in section 832-325
+29
+Support within explanatory memorandums
+30
+Hybrid payer
+38
+Subsection 832-320(3) and 'a non-including country'
+42
+Support within explanatory memorandums
+46
+Appendix 2 – Alternative views
+49
+Liable entity
+49
+Hybrid payer
+54
+Relying on this Determination
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Determination applies to you, and you correctly rely on it, we will apply the law to you in the way set out in this Determination. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Determination.
+What this Determination is about
+1. Division 832 of the
+Income Tax Assessment Act 1997
+(ITAA 1997) contains hybrid mismatch rules. In broad terms, these rules are designed to prevent multinational corporations from exploiting differences in the tax treatment of an entity or instrument under the laws of 2 or more tax jurisdictions.
+2. This Determination sets out our view on 2 separate but related issues. These are, whether:
+•
+hypothetical income or profits
+[1]
+within the tax base of a country can be used to identify a 'liable entity' or entities in the country for the purpose of section 832-325, and
+•
+a 'non-including country' for the purpose of subsection 832-320(3) of the 'hybrid payer' definition
+[2]
+can be a jurisdiction other than the country where the payee of the relevant payment is located or resides.
+3. All legislative references in this Determination are to the ITAA 1997, unless otherwise indicated.
+Ruling
+4. The identification of a 'liable entity' or entities in a country in respect of income or profits for the purpose of section 832-325 can be based wholly on hypothetical income or profits within the tax base of the country. This will be necessary where, for example:
+•
+an entity has not actually derived any income or profits in a particular period, or
+•
+an entity has derived income or profits in a particular period, but no part of those income or profits are within the tax base of the country.
+5. Section 832-325 does not restrict when hypothetical income or profits within the tax base of a country can be used to identify a liable entity in the country. For example, there is no requirement that the entity being tested as a liable entity in the country must:
+•
+be a tax resident of the country
+•
+have previously carried on, currently carry on, or propose to carry on, activities that produce or may produce income or profits within the tax base of the country, or
+•
+normally derive income or profits within the tax base of the country.
+6. For the purpose of subsection 832-320(3), a non-including country can be a jurisdiction other than the country where the payee of the relevant payment is located or resides. Therefore, the laws of a jurisdiction other than the country where the payee is located or resides may fall for consideration in determining whether there is a hybrid payer within the meaning given by section 832-320.
+Example 1 – liable entity in Australia based on hypothetical income or profits within Australia's tax base
+7.
+Aus Co is a dormant Australian company that has never derived any income or profits. Aus Co is not a member of a consolidated group or multiple entry consolidated group. Despite Aus Co never having derived any income or profits, Aus Co is a liable entity in Australia in respect of its own income or profits under subparagraph 832-325(1)(a)(i).
+[3]
+8.
+Similarly, Aus Co is also a liable entity in respect of its own income or profits under subparagraph 832-325(1)(b)(i) in every foreign country that imposes foreign income tax on companies and recognises Aus Co as a taxpayer in respect of its own income or profits.
+Example 2 – liable entity in the United States based on hypothetical income or profits within the tax base of the United States
+Diagram 1: Outline of ownership arrangements – Example 2
+9.
+US Parent wholly owns X Co. In turn, X Co wholly owns Y Co.
+10.
+For United States (US) federal income tax purposes:
+•
+X Co is a controlled foreign corporation (CFC) of US Parent, and
+•
+Y Co is classified as a disregarded entity of X Co – that is, for US federal income tax purposes, Y Co is treated as part of X Co and not as a separate taxpayer.
+[4]
+11.
+X Co is a company established in Country X. Country X does not impose corporate income tax.
+12.
+Y Co is a company established and resident in Country Y. Country Y imposes corporate income tax.
+13.
+Despite the fact that during the relevant period neither X Co nor Y Co derived any income or profits within the tax base of the US, X Co is a liable entity in the US in respect of its own income or profits and Y Co's income or profits.
+[5]
+Example 3 – Y Co is a hybrid payer in respect of its royalty payments to X Co
+Diagram 2: Outline of arrangements – Example 3
+14.
+In addition to the facts described in Example 2 of this Determination, X Co owns intangible property. X Co has granted Y Co a licence to exploit the intangible property in non-US territories in exchange for royalties. Aus Co (a company established and resident in Australia and wholly owned by Y Co) purchases property from Y Co for sale to Australian customers.
+15.
+The royalties paid by Y Co to X Co give rise to deduction/non-inclusion (D/NI) mismatches.
+[6]
+This is because the royalties:
+•
+give rise to foreign income tax deductions
+[7]
+in Country Y
+•
+are not subject to foreign income tax
+[8]
+in Country X because Country X does not impose corporate income tax, and
+•
+are not subject to foreign income tax in the US (that is, the royalties are not subpart F income
+[9]
+under the US's CFC regime because the royalties are disregarded for US federal income tax purposes as a result of Y Co being classified as a disregarded entity of X Co. Therefore, no amount of the royalties are included in US Parent's tax base under the US's CFC regime for the purpose of subsection 832-130(5)).
+16.
+For the purpose of applying the hybrid payer definition in section 832-320 to Example 3, Y Co is the test entity
+[10]
+, Country Y is the deducting country
+[11]
+, and the US is a non-including country.
+[12]
+17.
+Y Co is a liable entity in Country Y in respect of its own income or profits under subparagraph 832-325(1)(b)(i) and X Co is a liable entity in Country Y in respect of its own income or profits under subparagraph 832-325(1)(b)(i). Country Y recognises Y Co and X Co as separate taxpayers.
+18.
+For the reasons given in Example 2 of this Determination, X Co is a liable entity in the US in respect of its own and Y Co's income or profits.
+19.
+Y Co is a hybrid payer in relation to the royalty payments it makes to X Co because:
+•
+Y Co is a liable entity in Country Y (the deducting country) in respect of its own income or profits but is not also a liable entity in Country Y in respect of X Co's income or profits.
+[13]
+Therefore, subsection 832-320(2) applies to Y Co in relation to Country Y and the royalty payments
+[14]
+, and
+•
+X Co
+[15]
+is a liable entity in the US (a non-including country) in respect of Y Co's income or profits and is also a liable entity in the US in respect of its own income or profits. Therefore, subsection 832-320(3) applies to Y Co in relation to the US and the royalty payments.
+[16]
+20.
+Depending on other relevant facts and circumstances:
+•
+the royalty payments made by Y Co to X Co may give rise to hybrid payer mismatches
+[17]
+that are offshore hybrid mismatches
+[18]
+, and
+•
+the offshore hybrid mismatches may give rise to imported hybrid mismatches
+[19]
+that are neutralised under Subdivision 832-H.
+Date of effect
+21. This Determination applies both before and after its date of issue. However, the Determination will not apply to taxpayers to the extent that it conflicts with the terms of settlement of a dispute agreed to before the date of issue of the Determination (see paragraphs 75 to 76 of Taxation Ruling TR 2006/10
+Public Rulings).
+Commissioner of Taxation
+3 July 2024
+Appendix 1 – Explanation
+This Explanation is provided as information to help you understand how the Commissioner's preliminary view has been reached. It does not form part of the binding public ruling.
+Liable entity
+22. The 'liable entity' concept is an important concept for Division 832. Among other purposes, and relevant to this Determination, it is used to identify whether an entity is a hybrid entity under Division 832
+[20]
+, including whether an entity is a hybrid payer
+[21]
+.
+23. 'Liable entity' has the meaning given by section 832-325.
+[22]
+24. An entity can be a liable entity in a country in respect of:
+•
+its own income or profits
+[23]
+, or
+•
+the income or profits of another entity.
+[24]
+25. An entity can be a liable entity in more than one country.
+The general test
+26. The general test for whether an entity is a liable entity in a country in respect of its own or another entity's income or profits is whether tax
+[25]
+is
+imposed
+on the entity in respect of all or part of those income or profits for an income year.
+[26]
+This is expressed in subparagraph 832-325(1)(a)(i), paragraph 832-325(1)(b), and paragraphs 832-325(2)(a) and (b).
+Subsection 832-325(4) and the note to that subsection
+27. Subsection 832-325(4) clarifies the operation of subsections 832-325(1) and (2) by providing that an entity may be a liable entity in a country in respect of its own or another entity's income or profits even if any of the following situations exist:
+•
+There are no actual income or profits.
+[27]
+•
+There are income or profits, but no part of the income or profits is subject to income tax in the relevant country.
+[28]
+•
+The entity is not actually liable to pay an amount of tax or foreign income tax.
+[29]
+28. In determining whether an entity is a liable entity in the situations described by subsection 832-325(4), the note to that subsection directs the reader to assume that income or profits within the tax base of the relevant country exist. The note forms part of section 832-325.
+[30]
+The meaning of 'imposed' in section 832-325
+29. In determining whether an entity is a liable entity under section 832-325, the text of subsection 832-325(4) is clear. The existence of actual income or profits is not required, nor is the entity required to in fact be liable to pay tax or foreign income tax. Subsection 832-325(4) opens with the words '[t]o avoid doubt' and therefore
+clarifies
+the operation of subsections 832-325(1) and (2). Because subsection 832-325(4) contemplates an entity having no actual income or profits at all in a particular period upon which tax could in fact be levied or paid, the word 'imposed' in subsection 832-325(1) and (2) cannot mean (or at least cannot solely mean) levied or paid. 'Imposed' can include imposition based on hypothetical income or profits within the tax base of the relevant country. The object is not to work out which entity will in fact pay tax in a particular period, but rather to work out whether a particular entity
+could
+be liable to tax. Subsections 832-325(1) and (2) serve the purpose of working out whether a particular entity is a taxable entity in a particular country (regardless of whether actual income or profits within the tax base of the relevant country have in fact been derived).
+Support within explanatory memorandums
+30. The Revised Explanatory Memorandum to the Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Bill 2018
+[31]
+(the Revised EM) supports the hypothetical nature of the liable entity test in section 832-325. Paragraph 1.207 of the Revised EM restates the note to subsection 832-325(4):
+...in determining whether an entity is a liable entity [in a situation described by subsection 832-325(4)] it must be assumed that income or profits within the tax base of the country exist.
+31. Paragraph 1.208 of the Revised EM then explains (emphasis added):
+Therefore, for the purposes of determining whether an entity is a liable entity in a particular country in respect of its own or another entity's income or profits,
+it is necessary to consider who would pay tax on that income or profits, rather than the actual circumstances of a particular entity in a particular income year.
+32. Paragraph 1.209 of the Revised EM provides an example of an entity that is not actually liable to pay an amount of tax for an income year because the entity has a tax loss for the income year. This example is just one of several situations contemplated by subsection 832-325(4). Paragraph 1.209 of the Revised EM recognises that an entity of a type that is normally subject to tax in a country may not be subject to tax in a particular year, or in a particular situation, and that does not deprive the entity of the characteristics which inform whether it is a liable entity in that country.
+33. The Explanatory Memorandum to the Treasury Laws Amendment (2020 Measures No. 2) Bill 2020
+[32]
+(the 2020 EM) also supports the hypothetical nature of the liable entity test in section 832-325.
+34. Paragraphs 1.36 and 1.37 of the 2020 EM explain:
+A number of provisions in the hybrid mismatch rules refer to an entity that is a liable entity. Generally, an entity is a liable entity in Australia if income tax is imposed on the entity in respect of all or part of its profits, or in respect of all or part of the profits of another entity (section 832-325). An entity may be a liable entity for a country even if it has no actual liability to pay income tax.
+A trust that is taxed under Division 6 of Part III of the ITAA 1936 is taxed as a flow-through entity. In these circumstances:
+•
+the trustee of the trust (in its capacity as trustee) is a liable entity in Australia in respect of the income or profits of the trust because it is liable to tax on the net income of the trust in some circumstances; and
+•
+each beneficiary of the trust is also a liable entity in Australia in respect of the income or profits of the trust because they are liable to tax on the net income of the trust in some circumstances.
+35. In respect of the explanation in paragraph 34 of this Determination, the trustee and beneficiaries are liable entities because they 'are liable to tax ...
+in some circumstances'.
+36. Example 1.1 of the 2020 EM illustrates this using a non-resident trust estate (NZUT) that is subject to Division 6 of Part III of the
+Income Tax Assessment Act 1936
+(ITAA 1936) for Australian income tax purposes. The example identifies each of the beneficiaries of the unit trust (Benny and Anne) and the trustee of the unit trust (Constance) as liable entities in Australia in respect of the income or profits of the unit trust. In respect of identifying Constance as a liable entity in Australia, the example explains (emphasis added):
+... Constance is also a liable entity because,
+if
+NZUT had net income attributable to Australian sources but no income to which any beneficiary was presently entitled, Constance (in her capacity as trustee)
+would be
+liable to taxation under section 99A of the ITAA 1936.
+37. Constance may not in fact be liable to pay an amount of tax in a particular income year (that is, a situation covered by paragraph 832-325(4)(c)). However, the possibility of being taxed is sufficient to make Constance a liable entity.
+Hybrid payer
+38. A 'hybrid payer mismatch' may be neutralised by Subdivision 832-D. If a hybrid payer mismatch is an 'offshore hybrid mismatch', the offshore hybrid mismatch might give rise to an 'imported hybrid mismatch' which may be neutralised by Subdivision 832-H.
+39. A payment gives rise to a hybrid payer mismatch if (among other requirements), the payment is made by a 'hybrid payer'.
+[33]
+40. 'Hybrid payer' is defined by section 832-320. An entity (defined as the 'test entity'), is a hybrid payer in relation to a payment it makes if:
+•
+subsection 832-320(2) applies to the entity in relation to a country and the payment, and
+•
+subsection 832-320(3) applies to the entity in relation to a different country and the payment.
+41. Subsection 832-320(2) is relevant to the deducting country. Subsection 832-320(3) is relevant to a non-including country.
+Subsection 832-320(3) and 'a non-including country'
+42. Relevantly, subsection 832-320(3) provides:
+Non-including country – entity is grouped with recipient
+This subsection applies to a test entity in relation to a country (a
+non-including country
+) and a payment the test entity makes if:
+(a) the test entity, or another entity, is a liable entity in the non-including country in respect of income or profits of the test entity (or a part of the income or profits); and
+(b) that liable entity is also a liable entity in the non-including country in respect of income or profits of the recipient of the payment.
+43. The opening text of subsection 832-320(3) includes the expression 'a country' and, immediately after, the defined term 'a
+non-including country
+'. Both the word 'country' and the defined term 'non-including country' are preceded by the indefinite article 'a'. This language is clear in permitting more than one country to be considered in identifying the non-including country for the purpose of subsection 832-320(3).
+[34]
+44. Moreover, the neutralising amount for a hybrid payer mismatch arising under Example 3 of this Determination would be reduced by any 'dual inclusion income' in the US and Country Y that is available to be applied to reduce the neutralising amount.
+[35]
+Therefore, there is symmetry in the operation of the provisions and the broad policy of the hybrid payer rule is maintained (that is, the rule only applies where the deduction in the payer jurisdiction offsets income that is not dual inclusion income).
+45. Y Co in Example 3 of this Determination is a hybrid entity. The hybrid nature of Y Co (that is, being disregarded for US federal income tax purposes), contributes to the D/NI mismatches (double non-taxation) in respect of the royalties. The Commissioner's view that a 'non-including country' for the purpose of subsection 832-320(3) of the 'hybrid payer' definition
+[36]
+can be a jurisdiction other than the country where the payee of the relevant payment is located or resides is consistent with the overarching purpose of Division 832. That is, the prevention of tax advantages arising from the exploitation of differences in the tax treatment of entities (or financial instruments) under the laws of 2 or more tax jurisdictions.
+Support within explanatory memorandums
+46. Example 1.14 of the Revised EM is about the hybrid requirement in section 832-315.
+[37]
+However, the facts on which Example 1.14 of the Revised EM is based support the view that a 'non-including country' in subsection 832-320(3) is not limited to the country in which the payee of the relevant payment is located or resides.
+47. The facts of Example 1.14 of the Revised EM are represented diagrammatically as follows:
+Diagram 3: Outline of arrangements that apply in Example 1.14 of the Revised EM
+48. There are 2 non-including countries in Example 1.14 of the Revised EM: Country C (the payee jurisdiction
+[38]
+) and Country B. In testing the hybrid requirement in section 832-315, Example 1.14 of the Revised EM has identified
+Country B
+as the non-including country for the purpose of subsection 832-320(3). Country B is
+not
+the country in which B Sub (the payee of the payment) is located or resides. Therefore, Example 1.14 of the Revised EM supports the view that a 'non-including country' in subsection 832-320(3) can be a jurisdiction other than the country where the payee of the relevant payment is located or resides.
+Appendix 2 – Alternative views
+This Appendix sets out alternative views and explains why they are not supported by the Commissioner. It does not form part of the binding public ruling.
+Liable entity
+49. An alternative view put to the Commissioner is that identifying X Co in Example 2 of this Determination as the liable entity in the US in respect of its own and Y Co's income or profits is inconsistent with paragraphs 1.203 and 1.209 of the Revised EM. Proponents of this alternative view suggest that, because X Co and Y Co do not normally derive income or profits within the tax base of the US (and therefore the US does not normally impose income tax on X Co
+in actuality),
+X Co should not be regarded as a liable entity in the US.
+50. This Commissioner does not accept this alternative view.
+51. Paragraph 1.203 of the Revised EM explains:
+Where a foreign country does not impose income tax or does not impose income tax on particular types of entities (because, for example, a foreign country does not impose company tax), there may not be a liable entity in that foreign country in respect of all or part of the income or profits of the test entity.
+52. Identifying X Co in Example 2 of this Determination as the liable entity in the US in respect of its own and Y Co's income or profits is consistent with paragraph 1.203 of the Revised EM. This is because the US
+does
+impose income tax on foreign corporations such as X Co (see sections 11 and 882 of the US Internal Revenue Code
+[39]
+). Nothing in subsection 832-325(4) restricts the application of the assumption to only entities that normally derive income or profits within the tax base of the US. As stated at paragraph 29 of this Determination, subsections 832-325(1) and (2) serve the purpose of working out whether a particular entity is a
+taxable entity
+in a particular country (regardless of whether actual income or profits within the tax base of the relevant country have in fact been derived). On the assumption that X Co or Y Co derived income or profits covered by section 882 of the US Internal Revenue Code, X Co would be the liable entity (that is,
+the taxpayer)
+in the US in respect of those income or profits.
+53. Identifying X Co in Example 2 of this Determination as the liable entity in the US in respect of its own and Y Co's income or profits is also consistent with paragraph 1.209 of the Revised EM. As stated at paragraph 32 of this Determination, what paragraph 1.209 of the Revised EM recognises is that an entity
+of a type
+that is normally subject to tax may not be subject to tax in a particular year, or in a particular situation, and that does not deprive the entity of the characteristics which inform whether it is a 'liable entity'. X Co, being a foreign corporation, is an entity
+of a type
+that is normally subject to tax in the US. Even if X Co or Y Co have never derived income or profits within the tax base of the US, that does not prevent X Co from being a liable entity in the US in respect of its own or Y Co's income or profits. Subsection 832-325(4) requires an assumption to be made that such income or profits exist. An entity of a type that is normally subject to tax in a country may not actually be liable to pay an amount of tax or foreign income tax in that country because it has losses (such as in the example in paragraph 1.209 of the Revised EM). It may also not actually be liable to pay an amount of tax or foreign income tax because it has no actual income or profits at all.
+[40]
+Hybrid payer
+54. An alternative view put to the Commissioner is that a 'non-including country' defined in subsection 832-320(3) can only be the country in which the payee of the relevant payment is located or resides.
+55. Proponents of this alternative view argue that subsection 832-320(3) should be read down as a result of paragraph 115 of the OECD Action 2 Report.
+[41]
+This is because paragraph 115 only refers to a payment made by a hybrid entity that is disregarded under the laws of the payee jurisdiction. Paragraph 115 does not refer to a payment made by a hybrid entity that is disregarded under the laws of a third jurisdiction (such as the US in Example 3 of this Determination). Paragraph 115 of the OECD Action 2 Report states:
+A deductible payment can give rise to a D/NI outcome where the payment is made by a hybrid entity that is disregarded under the laws of the payee jurisdiction. Such disregarded payments can give rise to tax policy concerns where that deduction is available to be set-off against an amount that is not treated as income under the laws of the payee jurisdiction (i.e. against income that is not "dual inclusion income"). The purpose of the disregarded hybrid payments rule is to prevent a taxpayer from entering into structured arrangements, or arrangements with members of the same control group, that exploit differences in the tax treatment of payer to achieve such outcomes.
+56. The Commissioner does not accept this alternative view. The task of construing subsection 832-320(3) must begin (and end) with a consideration of the text itself, and extrinsic materials (including the OECD Action 2 Report) cannot be relied on to displace the clear meaning of that text.
+[42]
+57. While the OECD Action 2 Report might not have explicitly contemplated a hybrid payer mismatch where the payment is disregarded under the laws of a third jurisdiction, this fact does not affect the interpretation of subsection 832-320(3). To the extent the clear text of Division 832 departs from the OECD Action 2 Report, Division 832 will be given effect according to its own terms. Ultimately, the Commissioner's view is based on the clear text of subsection 832-320(3), surrounding context (including the overarching purpose of Division 832), and Example 1.14 of the Revised EM.
+58. In any case, Recommendation 3.2 of the OECD Action 2 Report (at paragraphs 132 to 134 of that Report) might be read in a manner that reflects the possibility that the payment is disregarded either because of the way it is treated under the laws of the payee jurisdiction or because it is not otherwise recognised for tax purposes, in the payee jurisdiction or otherwise. Paragraph 133 of the OECD Action 2 Report refers to the laws of the payee jurisdiction and then explains that a disregarded payment can, in the alternative, be one 'that is not otherwise taken into account as a receipt for tax purposes'. Therefore, there is a textual basis in paragraph 133 of the OECD Action 2 Report for the identification of a hybrid payer by reference to the treatment of the payment other than solely by reference to the laws of the payee jurisdiction.
+59. It has also been put to the Commissioner that identifying a third country (such as the US in Example 3 of this Determination) as a 'non-including country' for the purpose of subsection 832-320(3) is inconsistent with subsection 832-305(3). This is because (using Example 3 of this Determination as a reference), subsection 832-305(3) does not require US Parent to be within the same Division 832 control group as Y Co (the hybrid payer) and X Co (the liable entity in respect of the hybrid payer).
+60. The Commissioner does not accept this alternative view.
+61. Subdivision 832-D has 2
+alternative
+'scope' requirements. The first alternative is subsection 832-305(3), which, referring to Example 3 of this Determination, requires Y Co and X Co to be in the same Division 832 control group. The second alternative is subsection 832-305(4), which, referring to Example 3 of this Determination, requires the payment by Y Co to X Co to be made under a structured arrangement (for example, the hybrid mismatch which the payment gave rise to is a design feature of a scheme under which the payment is made). A payment that gives rise to a hybrid mismatch under section 832-310 cannot give rise to a hybrid payer mismatch unless at least one of these scope requirements is satisfied. Sometimes, both scope requirements are satisfied (that is, a structured arrangement within a control group).
+62. The fact that US Parent may not be required to be within the same Division 832 control group as Y Co and X Co for the purpose of subsection 832-305(3) is not an indication that the US should not be considered as a non-including country for the purpose of subsection 832-320(3). Provided a payment gives rise to a hybrid mismatch under section 832-310, the payment will give rise to a hybrid payer mismatch if
+either
+subsection 832-305(3)
+or
+(4) is satisfied. If there is a structured arrangement that falls within subsection 832-305(4), it does not matter whether subsection 832-305(3) is satisfied. The alternative conditions in subsection 832-305(3) or (4) are either satisfied or they are not, and this has no bearing on what is a hybrid payer.
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+That is, income or profits that have not in fact been derived.
+[2]
+Section 832-320.
+[3]
+Subsection 832-325(4) and the note to that subsection. Also see note 2 to subsection 832-325(1).
+[4]
+US
+Code of Federal Regulations,
+26 CFR §301.7701-2(a).
+[5]
+Applying subsection 832-325(4) and the note to that subsection, assuming that X Co and Y Co derived income or profits within the tax base of the US, US federal income tax would be imposed on X Co in respect of those income or profits. Therefore, X Co would be a liable entity in the US in respect of its own and Y Co's income or profits.
+[6]
+Within the meaning given by section 832-105.
+[7]
+Within the meaning given by section 832-120.
+[8]
+Within the meaning given by section 832-130.
+[9]
+As defined by the US Internal Revenue Code, 26 USC §952.
+[10]
+Subsection 832-320(1).
+[11]
+Subsection 832-320(2).
+[12]
+Subsection 832-320(3).
+[13]
+X Co being 'the recipient of the payment' for the purpose of paragraph 832-320(2)(b).
+[14]
+Y Co is 'not grouped' with X Co for Country Y income tax purposes. See the heading to subsection 832-320(2).
+[15]
+'[A]nother entity' for the purpose of paragraph 832-320(3)(a).
+[16]
+Y Co 'is grouped' with X Co for US federal income tax purposes. See the heading to subsection 832-320(3).
+[17]
+Within the meaning given by section 832-305.
+[18]
+Within the meaning given by section 832-300.
+[19]
+Within the meaning given by section 832-615.
+[20]
+Division 832 contemplates four types of hybrid entities: a 'hybrid payer', a 'reverse hybrid', a 'branch hybrid' and a 'deducting hybrid' (see sections 832-320, 832-410, 832-485 and 832-550).
+[21]
+Section 832-320.
+[22]
+Subsection 995-1(1).
+[23]
+Subsection 832-325(1).
+[24]
+Subsection 832-325(2).
+[25]
+Or foreign income tax for a foreign country.
+[26]
+Or foreign tax period for a foreign country.
+[27]
+Paragraph 832-325(4)(a).
+[28]
+Subparagraphs 832-325(4)(b)(i) and (ii).
+[29]
+Paragraph 832-325(4)(c).
+[30]
+Section 2-45, subsection 950-100(1) and section 13 of the
+Acts Interpretation Act 1901.
+The note to subsection 832-325(4) can be used as an aid to construe section 832-325.
+[31]
+Being the Bill for the Act that added Division 832 to the ITAA 1997.
+[32]
+Being the Bill for the Act that amended certain aspects of Division 832, including the liable entity definition in section 832-325.
+[33]
+Paragraphs 832-305(1)(a), 832-310(1)(b) and 832-315(1)(a).
+[34]
+Contrast the opening text of subsection 832-320(3) with the opening text of subsection 832-320(2), which includes the defined term '
+the
+deducting country'. Also contrast the opening text of subsection 832-320(3) with the opening text of subsection 832-410(2), which includes the defined term '
+the
+formation country').
+[35]
+See subsections 832-330(1) and (4).
+[36]
+Section 832-320.
+[37]
+Subsection 832-315(3) is relevant to the facts of Example 1.14 of the Revised EM.
+[38]
+Division 832 recognises B Sub as the recipient of the payment notwithstanding that it is disregarded for tax purposes in Country B. See subsection 832-30(1).
+[39]
+26 USC §11 and 26 USC §882. Section 11 of the US Internal Revenue Code imposes tax for each taxable year on the taxable income of every corporation (including foreign corporations). Section 882 of the US Internal Revenue Code taxes foreign corporations on amounts effectively connected with the conduct of a trade or business within the US.
+[40]
+Paragraph 832-325(4)(a).
+[41]
+OECD (2015)
+Neutralising the Effects of Hybrid Mismatch Arrangements, Action 2 -- 2015 Final Report,
+OECD Publishing, Paris, p. 50.
+[42]
+Alcan (NT) Alumina Pty Ltd v Commissioner of Territory Revenue
+[2009] HCA 41 at [47].
+Previously released in draft form as TD 2024/D1
+References
+ATO references:
+NO  1-116F2AMY
+ISSN: 2205-6211
+Related Rulings/Determinations:
+TR 2006/10
+Business Line:
+PG
+Legislative References:
+AIA 1901 13
+ITAA 1936 Div 6 Pt III
+ITAA 1936 99A
+ITAA 1997 2-45
+ITAA 1997 Div 832
+ITAA 1997 832-105
+ITAA 1997 832-120
+ITAA 1997 832-130
+ITAA 1997 832-130(5)
+ITAA 1997 Subdiv 832-D
+ITAA 1997 832-300
+ITAA 1997 832-305
+ITAA 1997 832-305(1)(a)
+ITAA 1997 832-305(3)
+ITAA 1997 832-305(4)
+ITAA 1997 832-310
+ITAA 1997 832-310(1)(b)
+ITAA 1997 832-315
+ITAA 1997 832-315(1)(a)
+ITAA 1997 832-315(3)
+ITAA 1997 832-320
+ITAA 1997 832-320(1)
+ITAA 1997 832-320(2)
+ITAA 1997 832-320(2)(b)
+ITAA 1997 832-320(3)
+ITAA 1997 832-320(3)(a)
+ITAA 1997 832-325
+ITAA 1997 832-325(1)
+ITAA 1997 832-325(1)(a)(i)
+ITAA 1997 832-325(1)(b)
+ITAA 1997 832-325(1)(b)(i)
+ITAA 1997 832-325(2)
+ITAA 1997 832-325(2)(a)
+ITAA 1997 832-325(2)(b)
+ITAA 1997 832-325(4)
+ITAA 1997 832-325(4)(a)
+ITAA 1997 832-325(4)(b)(i)
+ITAA 1997 832-325(4)(b)(ii)
+ITAA 1997 832-325(4)(c)
+ITAA 1997 832-330(1)
+ITAA 1997 832-330(4)
+ITAA 1997 832-410
+ITAA 1997 832-410(2)
+ITAA 1997 832-485
+ITAA 1997 832-550
+ITAA 1997 Subdiv 832-H
+ITAA 1997 832-615
+ITAA 1997 950-100(1)
+ITAA 1997 995-1(1)
+Cases relied on:
+Alcan (NT) Alumina Pty Ltd v Commissioner of Territory Revenue
+[2009] HCA 41
+239 CLR 27
+83 ALJR 1152
+260 ALR 1
+Other References:
+Revised Explanatory Memorandum
+to the Treasury Laws Amendment (Tax Integrity and Other Measures No.2) Bill 2018
+Explanatory Memorandum
+to the Treasury Laws Amendment (2020 Measures No. 2) Bill 2020
+Title 26, US Code of Federal Regulations
+Title 26, US Internal Revenue Code
+OECD (2015), Neutralising the Effects of Hybrid Mismatch Arrangements, Action 2 - 2015 Final Report, OECD Publishing, Paris
+Back to top

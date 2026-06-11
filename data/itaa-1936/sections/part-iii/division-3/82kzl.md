@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 82KZL Interpretation
 
-
 <a id="s82KZL-1"></a>
 **(1)** In this Subdivision, unless the contrary intention appears: agreement means any agreement, arrangement, understanding or scheme, whether formal or informal, whether express or implied and whether or not enforceable, or intended to be enforceable, by legal proceedings. associate has the meaning given by section 318. eligible service period, in relation to an amount of expenditure incurred under an agreement, means the period from the beginning of:
 

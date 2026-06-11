@@ -1,0 +1,1109 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+63 related documents
+Taxation Ruling
+TR 2014/6
+Income tax: transfer pricing - the application of section 815-130 of the Income Tax Assessment Act 1997
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+TR 2014/6EC
+.
+On 8 April 2024, the
+Treasury Law Amendment (Making Multinationals Pay Their Fair Share - Integrity and Transparency) Act 2024
+was enacted. The amendments apply to assessments for income years commencing on or after 1 July 2023, with the exception of new integrity rules (debt deduction creation rules) which apply in relation to assessments for income years starting on or after 1 July 2024.
+Under the new thin capitalisation rules:
+•
+the newly classified 'general class investors' will be subject to one of 3 new tests
+o
+fixed ratio test
+o
+group ratio test
+o
+third party debt test
+•
+financial entities will continue to be subject to the existing safe harbour test and worldwide gearing test or may choose the new third party debt test
+•
+ADIs will continue to be subject to the previous thin capitalisation rules
+•
+the arm's length debt test has been removed for all taxpayers.
+ADIs, securitisation vehicles and certain special purpose entities are excluded from the debt deduction creation rules.
+Entities that are Australian plantation forestry entities are excluded from the new rules. For these entities, the previous rules will continue to apply.
+Contents
+Para
+LEGALLY BINDING SECTION:
+What this Ruling is about
+1
+Ruling
+29
+Date of effect
+77
+NOT LEGALLY BINDING SECTION:
+Appendix 1: Explanation
+79
+Appendix 2:Detailed contents list
+189
+Preamble
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+What this Ruling is about
+1. This Ruling provides the Commissioner's views about the application of section 815-130 of the
+Income Tax Assessment Act 1997
+(ITAA 1997),
+[1]
+which specifies the relevance of the actual commercial or financial relations to the identification of the arm's length conditions. The identification of these conditions is relevant to ascertaining whether an entity gets a transfer pricing benefit from the actual conditions which operate between the entity and another entity in connection with their cross-border dealings.
+2. In doing so, the Ruling discusses the meaning of the terms used in section 815-130 and its interaction with certain other parts of Subdivision 815-B, including the relevance of certain Organisation for Economic Cooperation and Development (OECD) guidance material for the purposes of determining the effect this Subdivision has in relation to an entity.
+Background
+3. Subdivision 815-B was introduced by the
+Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Act 2013
+(Act No. 101, 2013
+),
+which inserted Subdivisions 815-B, 815-C and 815-D into the ITAA 1997 and Subdivision 284-E into Schedule 1 to the
+Taxation Administration Act 1953
+(TAA 1953), and also repealed Division 13 and subsections 170(9B) and (9C) of the
+Income Tax Assessment Act 1936
+(ITAA 1936), with effect from 29 June 2013.
+[2]
+These new Subdivisions ensure that Australia's transfer pricing rules better align with the arm's length principle and the internationally consistent transfer pricing approaches as set out by the OECD.
+[3]
+The arm's length principle and the OECD
+4. The authoritative statement of the arm's length principle is set out in paragraph 1 of Article 9 (the Associated Enterprises Article) of the
+OECD Model Tax Convention on Income and on Capital.
+Paragraph 1 of Article 9 states:
+[Where] conditions are made or imposed between the two [associated] enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
+5. Paragraphs 1.6, 1.7 and 1.14 of the Transfer Pricing Guidelines for Multinational Enterprises and Tax Administration, as approved by the Council of the Organisation for Economic Cooperation and Development last amended on 22 July 2010 (the 2010 OECD TP Guidelines) provide that:
+1.6 By seeking to adjust profits by reference to the conditions which would have obtained between independent enterprises in comparable transactions and comparable circumstances ... 'comparability analysis' is at the heart of the application of the arm's length principle...
+1.7 Paragraph 1 of Article 9 of the OECD Model Tax Convention is the foundation for comparability analyses because it introduces the need for:
+A comparison between conditions (including prices, but not only prices) made or imposed between associated enterprises and those which would be made between independent enterprises ...; and
+A determination of the profits which would have accrued at arm's length ....
+1.14 ... The arm's length principle ... adopts as a benchmark the normal operation of the market.
+6. The intent of the OECD, as expressed particularly in Chapters 1 and 9
+[4]
+of the 2010 OECD TP Guidelines, is that the application of the arm's length principle is not merely an exercise in pricing the legal form of a transaction or arrangement seen in isolation and as presented by a taxpayer.
+[5]
+7. Article 9 is concerned with the conditions and profits resulting from the commercial or financial relations between associated enterprises, not merely with the particular labels assigned to those relations.
+[6]
+The form chosen to document a transaction or arrangement does not necessarily dictate its substance,
+[7]
+or whether it is commercially rational, or inform as to whether it has been undertaken at arm's length. In applying the arm's length principle, it is important to consider the economic reality and effect of a transaction or arrangement (that is, its substance), rather than proceeding only on the basis of how it has been characterised or structured.
+8. The arm's length principle effectively requires an assessment of whether the commercial or financial relations and ensuing conditions, transactions and the allocation of profits, make commercial sense for all of the parties to the transaction or arrangement, judged from the perspective of independent parties dealing wholly independently with each other.
+9. Consequently, a key consideration is whether the transaction or arrangement conveys economic value from one enterprise to another - whether that benefit derives from tangible property, intangibles, services or other items or activities. An arm's length party will be willing to pay for an activity only to the extent that the activity confers on it a benefit of economic or commercial value.
+[8]
+10. Where independent enterprises in comparable circumstances would not have characterised and/or structured the transaction or arrangement as the associated enterprises have, Article 9 allows an adjustment of the conditions to reflect those which the parties would have agreed had the transaction or arrangement been structured and characterised in accordance with the economic and commercial reality of separate and independent parties dealing at arm's length.
+11. This raises the question of whether the transaction or arrangement would have happened at all, or on those terms, if the dealings were between arm's length parties.
+12. As such, it requires consideration of whether arm's length parties, acting in their own best interests and seeking to maximise the overall value to them from the economic resources available to or obtainable by them, and after comparing all the options realistically available to them, would enter into that type of transaction or arrangement.
+[9]
+One arm's length option for such an entity may be to not enter into the transaction or arrangement.
+[10]
+13. Specifically, the 2010 OECD TP Guidelines set out two exceptions to the policy of recognising the transaction or arrangement as actually undertaken and structured, being where:
+•
+the economic substance of the transaction or arrangement differs from its form, or
+•
+independent enterprises behaving in a commercially rational manner in comparable circumstances would not have characterised or structured the transaction or arrangement as the associated enterprises have and arm's length pricing cannot reliably be determined for that transaction or arrangement.
+[11]
+14. Paragraph 9.169 of the 2010 OECD TP Guidelines states that:
+9.169 In accordance with paragraphs 1.64-1.69, it may exceptionally be appropriate for a tax administration not to recognise the parties' characterisation or structuring of a transaction or arrangement where, having regard to all of the facts and circumstances, it concludes that:
+•
+The economic substance of the transaction or arrangement differs from its form (Section C.2); or
+•
+Independent enterprises in comparable circumstances would not have characterised or structured the transaction or arrangement as the associated enterprises have, and arm's length pricing cannot reliably be determined for that transaction or arrangement (Sections C.3 and C.4).
+Both of these situations are instances where the parties' characterisation or structuring of the transaction or arrangement is regarded as the result of conditions that would not have existed between independent enterprises (see paragraph 1.66).
+Object of Subdivision 815-B
+15. Consistent with Article 9 of the
+OECD Model Tax Convention on Income and on Capital
+and the 2010 OECD TP Guidelines, the object of Subdivision 815-B is to ensure that the amount that is brought to tax in Australia in respect of cross-border commercial and financial relations and conditions between separate legal entities reflects the arm's length contribution (that is, the economic functions performed, assets used and risks assumed) by the Australian operations and the conditions that might be expected to operate between independent entities dealing at arm's length.
+[12]
+Subdivision 815-B implements this object by requiring entities that would otherwise get a tax advantage in Australia from actual conditions that differ from arm's length conditions, to calculate their Australian tax position as though the arm's length conditions had instead operated for income tax and withholding tax purposes.
+[13]
+16. Unlike both former Division 13 of the ITAA 1936 and Subdivision 815-A,
+[14]
+Subdivision 815-B is self-executing in its operation.
+[15]
+This means that the Subdivision applies on a self-assessment basis and does not require the Commissioner to make a determination.
+[16]
+Structure of Subdivision 815-B
+17. Subdivision 815-B addresses the adoption of non-arm's length structures, arrangements and dealings, through which an entity may get a transfer pricing benefit, using a two-step process.
+18. First, section 815-130 of Subdivision 815-B requires that the identification of the arm's length conditions must be based on certain commercial or financial relations as specified in subsections 815-130(1) to 815-130(4).
+19. Second, subsection 815-115(1) provides that, if an entity gets a transfer pricing benefit from the actual conditions that operate between the entity and another entity in connection with their commercial or financial relations:
+(a)
+those conditions are taken not to operate, and
+(b)
+instead, the arm's length conditions are taken to operate.
+20. The operation of subsection 815-115(1) thereby requires the existence of a transfer pricing benefit and a connection between the obtaining of that transfer pricing benefit and the 'conditions that operate between the entity and another entity in connection with their commercial or financial relations'.
+Meaning of arm's length conditions
+21. Central to the operation of Subdivision 815-B is the identification of the arm's length conditions which, in relation to conditions that operate between an entity and another entity, are the conditions that might be expected to operate between independent entities dealing wholly independently with one another in comparable circumstances (see subsection 815-125(1)).
+When an entity gets a transfer pricing benefit
+22. An entity gets a transfer pricing benefit for the purposes of Subdivision 815-B if the cross-border
+[17]
+'actual conditions' that operate between the entity and another entity in connection with their commercial or financial relations differ from the arm's length conditions and, had the arm's length conditions operated instead, one or more of the following would apply:
+•
+the amount of the entity's taxable income for an income year would be greater,
+•
+the amount of the entity's loss of a particular sort for an income year would be less,
+•
+the amount of the entity's tax offsets for an income year would be less,
+•
+an amount of withholding tax payable in respect of interest or royalties would be greater.
+[18]
+23. Subsection 815-120(2) provides that there is taken to be a difference between the actual conditions and the arm's length conditions if:
+(a)
+an actual condition exists that is not one of the arm's length conditions, or
+(b)
+a condition does not exist in the actual conditions but is one of the arm's length conditions.
+24. Therefore, both acts and omissions that are not at arm's length are addressed in Subdivision 815-B, since profit shifting between associated enterprises can take place either through acting or refraining from acting.
+Relevance of actual commercial or financial relations
+25. A key feature of Subdivision 815-B, which is the subject of this Ruling, is that it sets out when and to what extent the actual commercial or financial relations are relevant to the identification of the arm's length conditions; see section 815-130 of Subdivision 815-B. This ensures that the identification of the arm's length conditions is based on an appropriate framework which has regard to the form and substance of the actual commercial and financial relations and to what independent entities dealing wholly independently with one another in comparable circumstances would have done.
+Guidance in section 815-135
+26. Notably, for the purposes of determining the effect Subdivision 815-B has in relation to an entity, the arm's length conditions should be identified so as best to achieve consistency with the 2010 OECD TP Guidelines; see section 815-135 of Subdivision 815-B. This requirement is not expressed in absolute terms.
+27. The inclusion of the adverb 'best' in the equivocal phrase 'so as best to achieve consistency' recognises that:
+•
+there might be a choice between two or more approaches to the identification of the arm's length conditions, and
+•
+when determining the effect Subdivision 815-B has in relation to an entity, it might not be possible to identify arm's length conditions so as to achieve total consistency with the relevant OECD guidance.
+28. Therefore, the approach which achieves the highest level of consistency with the guidance material is to be preferred.
+Ruling
+Relevance of actual commercial or financial relations in the identification of the arm's length conditions
+29. Subsection 815-130(1) of Subdivision 815-B provides the 'basic rule' for the way in which the arm's length conditions are to be identified, based on the commercial or financial relations in connection with which the actual conditions operate. Subsections 815-130(2) to 815-130(4) then provide exceptions to that rule depending on whether the form and substance of those relations is consistent, or on what independent entities dealing wholly independently with one another in comparable circumstances would have done, or would not have done.
+30. The exceptions contained in subsections 815-130(2) to 815-130(4) of Subdivision 815-B operate automatically. There is no discretion with their application. In particular, section 815-130 neither requires nor contemplates the existence of any other 'exceptional circumstances', nor any subjective analysis in this regard, before subsections 815-130(2) to 815-130(4) inclusive apply. Rather, the exceptional circumstances required for their operation are strictly defined within these subsections.
+31. This means, for example, that the requirement of the second circumstance set out in paragraph 1.65 of the 2010 OECD TP Guidelines, that 'the actual structure practically impedes the tax administration from determining an appropriate transfer price', is not a separate condition for the operation of subsection 815-130(3).
+[19]
+32. The operation of the 'basic rule', the exceptions to that rule, the meaning of the terms in section 815-130 and its interaction with other parts of Subdivision 815-B are discussed below.
+The 'basic rule'
+33. The 'basic rule' requires that the identification of the arm's length conditions must be based on the commercial or financial relations in connection with which the actual conditions operate, having regard to both the form and substance of those relations.
+34. The term 'commercial or financial relations' is broad and describes the totality of the arrangements between the entities. However, for the purposes of subsection 815-130(1), the identification of the arm's length conditions is based only on 'the commercial and financial relations in connection with which the actual conditions operate'.
+35. The 'actual conditions that operate' between the entity and another entity in connection with their commercial or financial relations are the things which ultimately affect each entity's economic or financial position. These conditions need not be explicit contractual terms and can also include the price paid for the sale or purchase of goods or services, the terms of an agreement that have an economic impact on the margin of profits earned by one or both entities, or a division of profits between the entities. Furthermore, it is implicit in the structure of Subdivision 815-B that, for the purposes of section 815-130, the actual conditions must satisfy the cross-border test in subsection 815-120(3).
+36. The expression 'in connection with', in the phrase 'commercial or financial relations in connection with which the actual conditions operate', requires that there be a nexus between those conditions and the commercial or financial relations between the entities. While conditions that directly result from the commercial or financial relations are clearly within the scope of the provision, the expression 'in connection with' is broad enough to cover conditions that have a less direct or immediate connection. Accordingly, cross-border conditions arising out of the structures put in place by a multinational group would fall within the scope of Subdivision 815-B, where those conditions relate to or affect the commercial or financial relations between one entity and another and produce a transfer pricing benefit.
+37. The 'form' of the commercial or financial relations describes the features or legal characteristics of the dealings between entities. This would generally be evident from the documented contractual terms of transactions, arrangements or other relations between the entities that define explicitly or implicitly how the responsibilities, risks and benefits are to be divided between all parties. The terms of a transaction or arrangement may also be found in other correspondence between the parties.
+38. In some cases, the commercial and financial relations will not have been documented (or not fully documented). The relevance of such relations will be identified based on their connection with the actual (cross-border) conditions that operate between the entities. In those cases, the form of those relations will need to be determined by reference to:
+•
+all the facts and circumstances, including the behaviours of the entities in relation to each other
+•
+the legal and funding structures that have been put in place
+•
+the roles allocated to the entities
+•
+the transactions or arrangements that occur within those structures and pursuant to the allocated roles, and
+•
+the economic and financial impacts produced for the relevant entities by those structures, roles and transactions as reflected in their business records.
+39. The 'substance' of the commercial or financial relations describes the economic reality or essence of those dealings and is determined by examining all of the relevant facts and circumstances, such as the economic and commercial context of the commercial or financial relations, the object and economic and financial effects of those relations from a practical and business point of view on each of the entities and the conduct of the parties, including the functions performed, assets used and risks assumed by them.
+[20]
+Hence, the actual structure, appearance and characterisation of the commercial or financial relations, including the legal rights and obligations created, are not decisive in the identification of the arm's length conditions under the 'basic rule'.
+40. In most cases, it is expected that the identification of the arm's length conditions will be able to be accomplished by applying the 'basic rule' and determining the arm's length contribution made by the Australian operations based upon the form and substance of the commercial or financial relations in connection with which the actual conditions operate.
+[21]
+This is because it is expected that entities will formalise their economic and commercial objectives in preparing their business and commercial contracts and legal agreements, to reflect the economic and commercial effect of their transactions or arrangements. It would be exceptional for independent entities dealing with each other at arm's length to do otherwise.
+41. If entities structure and characterise their cross-border commercial or financial relations in a manner such that their form is consistent with their substance as defined above, then subsection 815-130(2) will not apply. Further, if entities enter into cross-border commercial or financial relations compelled or encouraged by business or regulatory realities, that would be entered into by independent entities dealing wholly independently with one another in comparable circumstances then, equally, subsections 815-130(3) and 815-130(4) should not apply.
+42. For example, paragraph 9.172 of the 2010 OECD TP Guidelines states that:
+9.172 Where reliable data show that comparable uncontrolled transactions exist, it cannot be argued that such transactions between associated enterprises would lack commercial rationality. The existence of comparables data evidencing arm's length pricing for an associated enterprise arrangement demonstrates that it is commercially rational for independent enterprises in comparable circumstances.
+43. On the other hand, if the cross-border commercial or financial relations create legal rights or obligations which would not be created, and/or give rise to transactions or arrangements which would not be implemented, by independent parties dealing at arm's length, then in these exceptional circumstances subsections 815-130(2) to 815-130(4) inclusive may apply.
+The first exception to the 'basic rule' - where the 'form' of the actual commercial or financial relations is inconsistent with the 'substance' of those relations
+44. Subsection 815-130(2) provides an exception to the 'basic rule' and permits the form of the actual commercial and financial relations
+[22]
+to be disregarded to the extent that it is inconsistent with the substance of those relations.
+45. This exception is based on the first circumstance outlined in paragraph 1.65 of the 2010 OECD TP Guidelines and, for the purposes of section 815-130; 'substance' is more than mere legal substance.
+[23]
+It 'is determined by examining all of the facts and circumstances, such as the economic and commercial context of the transaction or arrangement, its object and effect from a practical and business point of view, and the conduct of the parties, including the functions performed, assets used and risks assumed by them'.
+[24]
+46. The effect of this exception is that some aspects of the actual commercial or financial relations are re-characterised or disregarded and the identification of the arm's length conditions is based only on the modified commercial or financial relations that fully and accurately reflect the substance of those relations.
+47. Whether the form and substance of the actual commercial or financial relations are inconsistent will be a question of fact having regard to all relevant factors, including the actual structure adopted by the entities, the conduct of the entities, their characterisation of the relations, the legal rights and obligations created, any flows of funds between entities (including circular flows), the overall economic consequences (including exposure to economic risks and rewards and actual transfers of wealth) and their effects on the net economic positions of entities. The cases to which subsection 815-130(2) is directed are those where the inconsistency between form and substance would yield a distorted outcome in the identification of the arm's length conditions, that would undermine the object of the Subdivision if the inconsistency were not addressed.
+48. Where the substance of the commercial or financial relations is inconsistent with the form of those relations, subsection 815-130(2) mandates that entities must disregard the form of the actual commercial or financial relations to the extent that it is inconsistent with the substance of those relations. There is no discretion provided by subsection 815-130(2). The effect of this exception applying is that the economic reality and essence of the actual commercial or financial relations is ultimately relevant and decisive in the identification of the arm's length conditions.
+The second exception - where independent entities would have entered into other commercial or financial relations which differ in 'substance' from the actual commercial or financial relations
+49. Subsection 815-130(3) provides a second exception to the 'basic rule' where it is concluded that independent entities dealing wholly independently with one another in comparable circumstances, would not have entered into the actual commercial or financial relations, but would have entered into other such relations which differ in substance from the actual commercial or financial relations. In this circumstance, the identification of the arm's length conditions must be based on those other commercial or financial relations that independent entities would instead have entered into.
+[25]
+Implicit in this requirement is that regard must be had to the substance of the actual conditions that were made or imposed between the entities in their commercial or financial relations and hypothesising what independent entities behaving in a commercially rational manner would have done in comparable circumstances.
+50. The requirement that independent entities 'would' have entered into other commercial or financial relations must be satisfied and it is not of itself sufficient to propose that independent entities might have dealt with one another in an alternative manner.
+[26]
+This doesn't mean that actual third party transactions or arrangements that exactly replicate those other relations must be identified. Where exact real world comparables are unavailable, it will be sufficient to identify in accordance with section 815-125 what independent entities would have done by reference to alternatively structured transactions or arrangements that most closely reflect the substance of the other relations, provided appropriate adjustments for any material differences can reliably be made.
+51. The application of subsection 815-130(3) also requires that the other commercial or financial relations must differ in substance from the actual commercial or financial relations. However, this doesn't mean they must be entirely different. The other commercial or financial relations acceptable to independent entities dealing wholly independently with one another could both retain and reject elements of the actual relations and would include any additional elements on which independent entities would insist.
+52. The relevant question is whether the actual commercial or financial relations adopted by the entities differ from those which would have been adopted by independent entities dealing wholly independently with one another in comparable circumstances, having regard to their own best commercial and economic interests and the arm's length options realistically available to them.
+53. Whether these inferences can be drawn will depend on the facts and circumstances having regard to all relevant factors,
+[27]
+including comparability analysis,
+[28]
+whether there is reliable evidence that comparable uncontrolled transactions exist or that other transfer pricing methods support the actual commercial or financial relations and whether those relations make commercial sense for independent entities in all of the circumstances of the dealings.
+54. Where the circumstances are such that this exception applies, the commercial or financial relations actually undertaken by the entities are disregarded to the extent they differ from the relations that would be adopted by independent entities, and the identification of the arm's length conditions must be based on the other commercial or financial relations. This is to reflect what independent entities acting in a commercially rational manner would have done had the actual commercial or financial relations been structured in accordance with the economic and commercial reality of independent parties dealing at arm's length.
+55. A situation where this exception could apply would be a sale under a long-term contract, for a lump sum payment, of unlimited entitlement to the intellectual property rights arising as a result of future research for the term of the contract. Here, having regard to all relevant factors, it could be the case that it would reasonably be concluded that independent entities dealing wholly independently with one another in comparable circumstances would not have entered into the actual commercial or financial relations, and hence the contract for the sale of intellectual property rights on those terms.
+56. The lump sum payment for the transfer of intellectual property could be considered not to be commercially rational for two reasons. Firstly, valuation difficulties exist at the time of the transaction because the intellectual property rights do not yet exist. It would be virtually impossible to set a price for the property rights agreed to have been sold. Secondly, the static pricing mechanism (lump sum) used in such an arrangement would likely be unacceptable to both an arm's length transferor and an arm's length transferee.
+57. In this case, it would be appropriate to conform the terms of that transfer in their entirety (and not simply by reference to pricing) to the commercial or financial relations that would have been entered into had the transfer of property been the subject of a transaction involving independent entities dealing wholly independently with one another. Thus, in the case described above, it might be appropriate to adjust the terms of the agreement in a commercially rational manner as a continuing research agreement and identify the arm's length conditions on that basis.
+[29]
+The third exception - where independent entities would not have entered into commercial or financial relations
+58. Subsection 815-130(4) provides a third exception to the 'basic rule' where it can be concluded that independent entities dealing wholly independently with one another in comparable circumstances would not have entered into any commercial or financial relations. In this case, the identification of the arm's length conditions is to be based on that absence of commercial or financial relations; therefore on the premise that independent entities would have maintained their existing positions and done nothing in the circumstances.
+59. Whether these inferences can be drawn will be a matter of fact having regard to all relevant factors,
+[30]
+including comparability analysis, whether the actual commercial or financial relations can be re-characterised to conform with what independent entities dealing wholly independently with one another would have done, the availability of reliable evidence concerning comparable uncontrolled transactions and/or other transfer pricing methods, and whether, having regard to their own economic interests, independent entities dealing wholly independently with one another would have entered into commercial or financial relations.
+60. Where the circumstances are such that this exception applies, the actual commercial or financial relations are disregarded for the purposes of identifying the arm's length conditions. In addition, the arm's length conditions, being the conditions that might be expected to operate between independent entities dealing wholly independently with one another in comparable circumstances, are to be identified based on the conclusion that independent entities dealing wholly independently with one another in comparable circumstances would not have entered into any commercial or financial relations where these conditions are made or imposed between them. That is, the arm's length conditions are to be identified based on the parties not entering into such relations, with the result that the arm's length condition is that nothing would have occurred.
+61. A situation where this exception could apply would be the sale of unlimited entitlement to the intellectual property rights identified above where instead, having regard to all relevant factors, it is concluded that independent entities dealing wholly independently with one another in comparable circumstances would not have entered into the contract for the use of the intellectual property on those terms, nor any other commercial or financial relations. In this situation, the identification of the arm's length conditions must be based upon that absence of commercial or financial relations. That is, the actual conditions are disregarded and the arm's length condition that nothing would have occurred is substituted in their place. The effect of this is that the taxpayer is treated as taking the option of not entering into the transaction or arrangement.
+Interaction of sections 815-130 and 815-120
+62. An entity will get a transfer pricing benefit if all of the requirements of subsection 815-120(1) are satisfied including, had the arm's length conditions operated instead of the actual conditions, that one or more of the following would apply (paragraph 815-120(1)(c)):
+•
+the amount of the entity's taxable income for an income year would be greater
+•
+the amount of the entity's loss of a particular sort for an income year would be less
+•
+the amount of the entity's tax offsets for an income year would be less
+•
+the amount of the withholding tax payable in respect of interest or royalties by the entity would be greater.
+63. In relation to paragraph 815-120(1)(a), the actual conditions which operate between the entities will differ from the arm's length conditions where the actual and arm's length conditions are not identical to each other. A difference between the actual and the arm's length conditions will also be taken to exist if an actual condition exists that is not one of the arm's length conditions, or a condition does not exist in the actual conditions but is one of the arm's length conditions (subsection 815-120(2)).
+64. The exceptions to the basic rule under subsections 815-130(2) to 815-130(4) will have effect only if their operation results in an entity being treated as getting a transfer pricing benefit. In other words, sections 815-115, 815-120 and 815-130 only work in one direction. The exceptions to the basic rule will not apply to enable an entity to get a taxation advantage.
+Interaction of sections 815-130 and 815-140
+65. Section 815-140 modifies the way in which an entity that gets a transfer pricing benefit works out its taxable income or tax loss for an income year, if the thin capitalisation provisions in Division 820 apply to the entity and the operation of the arm's length conditions involves applying a rate to a debt interest to work out costs that are debt deductions
+[31]
+of the entity. This provision requires that the rate is worked out on the basis that the arm's length conditions operated and that arm's length rate is then applied to the debt interest actually issued by the entity; instead of the debt interest that would have been issued had the arm's length conditions operated. In some cases, Division 820 may apply to further reduce debt deductions if the entity has not complied with the relevant statutory threshold for debt and equity funding.
+66. Section 815-130 is concerned with the relevance of the actual commercial or financial relations to the identification of the arm's length conditions. This purpose is not affected by the operation of section 815-140, which operates only after any arm's length conditions relevant to determining and applying a rate to a debt interest are identified.
+67. This means that, whatever effect the operation of section 815-130 has upon the identification of arm's length conditions, including where it affects costs which are worked out by applying a rate to a debt interest (such as applying a rate of interest to a loan amount, or applying a rate to the amount of debt covered by a finance guarantee), those arm's length conditions prevail for the purposes of determining the arm's length rate under Subdivision 815-B. Section 815-140 merely operates to modify the way in which an entity to which section 815-115 applies works out its taxable income or tax loss, by requiring that the arm's length rate is applied to the debt interest actually issued, rather than to the amount of debt that the tested entity would have had if the arm's length conditions operated.
+68. The following example is intended purely to illustrate the interaction of section 815-130 with the operation of section 815-140. It is not intended to suggest that a particular method for pricing of debt must be applied to the circumstances of a particular case.
+Example 1:  transfer pricing adjustment and thin capitalisation
+69.
+Aus Co is an Australian resident subsidiary company of For Co, the parent company. Being an industrial company and not an Authorised Deposit-taking Institution (ADI), Aus Co is an 'inward investment vehicle (general)' for the purposes of Subdivision 820-C.
+70.
+For an income year, Aus Co has:
+•
+a 'safe harbour debt amount', determined in accordance with section 820-195, of $300m,
+•
+'adjusted average debt', determined in accordance with subsection 820-185(3), of $300m borrowed from For Co at an interest rate of 15%, and
+•
+equity of $100m.
+71.
+Aus Co's only debt deductions are for the interest incurred at a rate of 15% on its $300m debt, meaning that it has $45m of debt deductions for the income year.
+72.
+Aus Co does not have borrowings from independent parties that could be used as a comparable. However, the available data as to market reference rates for a borrowing of that size and the credit standing that the capital markets would give Aus Co might be able to be used in determining a market rate of interest for the loan from For Co, where Aus Co's credit standing would allow it to borrow $300m from independent lenders. This might, in turn, be used to determine the arm's length consideration for the loan, provided this price produces an outcome that makes commercial sense for For Co and Aus Co in all of the circumstances.
+73.
+By contrast, the analysis may show that the loan from For Co might not reasonably be expected to exist between independent parties dealing at arm's length, for instance because the relatively high cost of the loan produces an outcome for Aus Co, in terms of the profitability, viability or competitiveness of its business, that does not make commercial sense for it. Assume that, in this scenario, after considering all arm's length pricing methods and taking account of all the necessary elements of comparability, it is not possible to ascertain the arm's length consideration in respect of the relevant acquisition, there being no evidence that similar arrangements would have been entered into between unrelated parties.
+74.
+Assume also that the information available to the taxpayer in this particular case supports a conclusion that the closest arm's length scenario (at which a loan might reasonably be expected to exist between independent parties dealing at arm's length) is a loan of $250m at 10%, provided a further $50m of equity is raised. In accordance with subsection 815-130(3), the arm's length conditions are identified based on this scenario, including an arm's length interest amount of $25m ($250m at 10%) and an arm's length amount of debt of $250m.
+75.
+The taxpayer works out that it would get a transfer pricing benefit if it claimed the entire $45m of debt deductions as deductible in working out its taxable income for the income year. In accordance with section 815-140, the taxpayer applies the rate of 10% to the actual debt amount of $300m to work out its debt deductions of $30m.
+76.
+This leaves a total amount of debt deductions of $30m to be considered for the purposes of Division 820. Section 820-220 would not operate to deny any of that $30m because Aus Co does not exceed the 'safe harbour debt amount'.
+Date of effect
+77. This Ruling applies to income years commencing on or after 29 June 2013 in relation to income tax. In relation to withholding tax, it applies to income derived or taken to be derived in the income years specified above. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+78. Subdivision 815-B applies to transactions or arrangements that occurred before 29 June 2013, to the extent that those transactions or arrangements affect an entity's Australian tax position in the income years to which Subdivision 815-B applies.
+[32]
+Commissioner of Taxation
+12 November 2014
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Section 815-130 relevance of actual commercial or financial relations
+79. Section 815-130 deals with the relevance of the actual commercial or financial relations to the identification of the arm's length conditions. The meaning of the terms used in the section and its operation are explained below.
+Basic rule in subsection 815-130(1)
+80. The 'basic rule' in subsection 815-130(1) of Subdivision 815-B requires that the identification of the arm's length conditions must be based on the commercial or financial relations in connection with which the actual conditions operate, having regard to both the form and substance of those relations.
+[33]
+In most cases, it is expected that the object of Subdivision 815-B
+[34]
+can be satisfied by applying this rule.
+Commercial and financial relations
+81. The commercial or financial relations referred to in the 'basic rule' are those in connection with which the actual conditions operate. These relations are the actual commercial or financial relations for the purposes of section 815-B.
+[35]
+82. The 'commercial and financial relations' are the totality of arrangements related to the interactions of two entities (the context in which each of the actual conditions arise). This includes any connection or dealings between the entities that relate to or could otherwise affect the commercial or financial activities of one of the entities.
+[36]
+83. This includes, but is not limited to, one or more of:
+•
+a single transaction or a series of transactions
+•
+a practice, understanding, arrangement, thing to be done or not be done, whether express or implied and whether or not legally enforceable
+•
+the alternatives realistically available to each entity
+•
+unilateral actions or mutual dealings
+•
+a strategy, or
+•
+overall profit outcomes achieved by the entities.
+[37]
+84. However, the commercial or financial relations that are relevant for the purposes of subsection 815-130(1) are those 'in connection with which the actual conditions operate'. The expression 'in connection with' must be interpreted in accordance with the intent of the relevant statute.
+[38]
+In
+Hatfield v. Health Insurance Commission,
+[39]
+Davies J stated that:
+Expressions such as 'relating to', 'in relation to', 'in connection with' and 'in respect of' are commonly found in legislation but invariably raise problems of statutory interpretation. They are terms that fluctuate in operation from statute to statute ... The terms may have a very wide operation but they do not usually carry the widest possible ambit, for they are subject to the context in which they are used, to the words with which they are associated and to the object or purpose of the statutory provision in which they appear.
+85. This passage was approved by the Full Federal Court in
+Burswood Management Ltd v. Attorney-General
+(1990) 23 FCR 144.
+[40]
+At FCR 146, their Honours concluded that reference to reported cases is of little assistance in determining the meaning of the words 'in connection with', because they take their meaning from the particular statute in which they appear.
+86. When read together with the words 'with which the actual conditions operate' (in paragraph 815-130(1)(a)), the expression 'in connection with' indicates that the requisite connection of the 'commercial or financial relations' with the 'actual conditions' is that those relations relate to or affect the actual conditions that arise from the commercial or financial activities of one of the entities.
+87. Accordingly, consistent with the purpose of subsection 815-130(1) to limit the identification of the arm's length conditions based on the commercial or financial relations in connection with which the actual conditions operate, in some cases the relevant commercial or financial relations could be confined to certain aspects of a broader set of relations. In such cases, the comparison of form and substance of the commercial or financial relations relates to that confined subset of the broader relations.
+Actual Conditions
+88. The 'actual conditions' operating in connection with the commercial or financial relations of two entities are the things that ultimately affect each entity's economic or financial positions. Conditions need not be explicit contractual terms, but can include the price paid for the sale or purchase of goods or services, terms of an agreement that have an economic impact (such as the allocation of an expense), the margin of profits earned by one or both entities, or a division of profits between the entities.
+[41]
+'Form' for the purposes of section 815-130
+89. The 'form' of the commercial or financial relations describes the features or legal characteristics of the dealings between entities,
+[42]
+that is, of the legal relationship that has been set up.
+'Substance' for the purposes of section 815-130
+90. The 'substance' of the commercial or financial relations describes the economic or commercial substance, or economic reality or essence of those relations.
+[43]
+91. Paragraphs 1.65, 9.169 and 9.183 of the 2010 OECD TP Guidelines each refer to the substance of a transaction or arrangement as being the 'economic substance'.
+[44]
+In particular, paragraphs 1.65 and 9.170 of the 2010 OECD TP Guidelines state that:
+1.65 ... where the economic substance of a transaction differs from its form ... the tax administration may disregard the parties' characterisation of the transaction and re-characterise it in accordance with its substance ...
+9.170 The economic substance of a transaction or arrangement is determined by examining all of the facts and circumstances, such as the economic and commercial context of the transaction or arrangement, its object and effect from a practical and business point of view, and the conduct of the parties, including the functions performed, assets used and risks assumed by them.
+92. As subsection 815-135(1) specifies that arm's length conditions are to be identified so as to best achieve consistency with the documents covered by the section, the Commissioner considers that the meaning to be given to the term 'substance' in section 815-130 needs to be consistent with the 2010 OECD TP Guidelines.
+93. Determining the substance of the commercial or financial relations involves an examination of the economic and commercial context and setting of the transaction or arrangement and its object or effect from a practical or business point of view. It also requires a detailed functional analysis to appropriately determine and characterise the economically relevant activities, roles, responsibilities, risks and characteristics of the situations being considered - and to demonstrate whether the economic outcome of the commercial or financial relations is consistent with contractual arrangements between the parties.
+94. 'Substance' also includes a consideration of whether:
+•
+the parties have correctly characterised
+[45]
+the transaction or arrangement in their contracts or agreements
+[46]
+•
+an entity has done what it purported to do and/or whether it has borne the risk as evidenced by the contract or agreement,
+[47]
+and
+•
+the parties have followed the terms and conditions of the contracts or agreements.
+[48]
+95. For example, entities cannot conceal the substance of their commercial or financial relations by characterising them based on a form or structure that is different from the economic effect of the legal rights and obligations actually assumed by them. Likewise, the choice of language used in documenting their commercial or financial relations cannot overcome the substance or effect of those commercial or financial relations.
+96. The intended meaning of 'substance' for the purposes of section 815-130 is stated at paragraph 3.84 of the EM as follows:
+the 'substance' of the commercial or financial relations describes the economic reality or essence of those dealings. The substance of the commercial or financial relations is determined by examining all relevant facts and circumstances, including the economic and commercial context of any arrangements entered into, its object and effect from a practical and business point of view, the conduct of the entities and the functions performed, assets used and risks assumed by them.
+97. The elements of this explanation are expanded upon in the paragraphs below by drawing on relevant guidance in the 2010 OECD TP Guidelines. In this regard, the explanation quoted above is almost identical to the definition of 'economic substance' in paragraph 9.170 of the 2010 OECD TP Guidelines.
+Economic reality and essence
+98. The Commissioner considers that the economic reality or essence of the commercial or financial relations looks at the real economic and commercial effect and result of a transaction or arrangement - that is, in contrast to its strict legal form and effect.
+Economic and commercial context
+99. The Commissioner considers that the economic and commercial context of the commercial or financial relations looks at the relevant setting within which the commercial or financial relations took place - including the circumstances surrounding their creation. Such considerations could include whether the actual commercial or financial relations:
+•
+accord with normal commercial behaviour, that is, were they consistent with commercial understandings and practices, as understood and carried out in the trade or industry
+[49]
+•
+bore the ordinary economic and commercial burdens and risks typically associated with such a transaction or arrangement
+[50]
+•
+added economic value or provided an economic or commercial advantage to enhance the entity's commercial position,
+[51]
+or
+•
+were contrary to the entity's own separate commercial and economic interests, such that they would never have been made by an independent entity in a commercial context. It would be inconsistent with the statutory object (and the arm's length principle) as reflected in Subdivision 815-B, for an entity to incur a commercial or economic disadvantage in relation to its Australian operations in a form that reduces its profit or profitability in order to confer a commercial or economic benefit on another entity outside of Australia.
+[52]
+Object and effect from a practical and business point of view
+100. The phrase 'from a practical and business point of view' is taken from the judgement by Dixon J in
+Hallstroms Pty Ltd v FC of T
+[53]
+where he noted:
+What is an outgoing of capital and what is an outgoing on account of revenue depends on what the expenditure is calculated to effect from a practical and business point of view, rather than upon the juristic classification of the legal rights, if any, secured, employed or exhausted in the process.
+101. Subsequently, in the Full Federal Court decision in
+Foxwood (Tolga) Pty Limited v Federal Commissioner of Taxation;
+[54]
+Deane J added at page 4098 that:
+... it has long been accepted in this country that the courts in characterizing outgoings in fact incurred in a business or commercial context are both entitled and constrained to look at the business and commercial substance or reality of 'the whole set of circumstances...
+Conduct of the entities
+102. As part of the consideration of 'substance', the Commissioner considers it is important to examine whether the conduct of the entities conforms to their contractual obligations. The conduct of entities is relevant in ascertaining the actual terms and conditions that operate between the parties.
+[55]
+The 'substance' of the commercial or financial relations (as characterised by an entity) will be inconsistent with the form of those relations for the purposes of section 815-130 if the actual conduct of the entities differs from the terms of their written agreement or the commercial or financial relations the entities otherwise purport to have undertaken.
+[56]
+103. When independent entities transact with each other, the conditions of their commercial and financial relations ordinarily are determined by market forces.
+[57]
+Such entities will ordinarily hold each other to the terms of their agreement. However, the same divergence of interests may not exist between associated entities, such that they may not feel the same need to conform to contractual terms and conditions, because of their association with the other party.
+[58]
+In such cases, further analysis will always be required to determine the true commercial or financial relations.
+Functions performed, assets used and risks assumed
+104. The Commissioner considers that the determination of the 'substance' of the commercial and financial relations between entities is guided by the object of Subdivision 815-B, which is set out in subsection 815-105(1). That envisages an evaluation of whether the amount brought to tax in Australia is commensurate with the economic contribution made by the functions the entity performed, the tangible and intangible assets it used and risks it assumed, judged by reference to the contribution as independent entities would evaluate it, and in accordance with the conditions that might be expected to operate between independent entities dealing at arm's length.
+Summary of 'substance' for the purposes of section 815-130
+105. From the above, the Commissioner considers that the determination of 'substance' in section 815-130 necessitates a consideration of the economic, commercial, financial and legal
+[59]
+consequences of the actual commercial or financial relations.
+106. To be consistent with their substance for the purposes of subsection 815-130(1), the actual commercial or financial relations should:
+•
+accord with the normal commercial or business behaviour and practices of the entity and the industry within which it operates (including, for example, no artificially introduced transactions),
+•
+make a difference in terms of economic benefits and outgoings, exposure to economic liabilities, funds flows, financial outcomes and the creation or addition of economic or commercial value; such that they permanently and commensurately affect the net economic position of the parties to those relations, and thereby
+•
+produce an effect that is proportionate to the economic risks and rewards, and economic contributions made and/or economic burdens borne by each of the parties.
+107. Where there is no commercial justification or economic reality, net economic result or objective economic effect from the commercial or financial relations; that is, such relations do not vary, control or change the flow of economic benefits such that a party's economic position is unchanged, there may
+prima facie
+be no substance to the transaction, arrangement or other dealings.
+108. For example, if funds begin and end with the same entity, or if there is some form of indemnity or reimbursement received, recoupment made, or self-cancelling transaction undertaken in a particular arrangement, the entity will likely be considered not to have made an economic outlay or to have incurred any economic loss, because it will not have suffered any economic detriment. Here, the substance of such commercial or financial relations may be that the taxpayer is left in materially the same economic position.
+How to determine the 'substance' of the commercial or financial relations for the purposes of section 815-130
+109. The Commissioner considers that the following features or characteristics could be considered in determining the 'substance' of the commercial or financial relations for the purposes of section 815-130:
+•
+the commercial reality of the rights and obligations arising under the actual commercial or financial relations, as opposed to the legal form - and whether those rights and obligations are in conformity with reasonable commercial practices or dealings; having commercial purpose, character or rationale
+•
+whether the relations make commercial and financial sense in all of the circumstances - that is, do they provide a commercially realistic return for the functions performed, assets used and risks assumed or managed in the relevant business activities, and are not contrary to the commercial interests of the parties
+•
+whether a purported participant to an arrangement lacks the financial capacity to assume the share of a risk assigned to it contractually
+[60]
+•
+intentional set-offs where a taxpayer holds offsetting positions that largely reduce or eliminate the economic risk of a transaction or arrangement
+[61]
+•
+whether there is any real economic or financial risk, that is, a market determined risk of a loss, for example, an exposure to economic loss of the amount invested - or whether an apparent financial outlay is largely protected from risk and is reasonably expected to be returned
+•
+whether the commercial or financial relations involve only fleeting or economically inconsequential investments, or offsetting divestments, that are inconsistent with the economic benefits and burdens of ownership
+•
+where there is no net economic result or objective economic effect from a transaction or arrangement - that is, the commercial or financial relations do not vary control or change the flow of economic benefits, such that a party's economic position is unchanged
+•
+in some cases, the accounting treatment of a transaction or arrangement may assist in the determination of 'substance'. An entity may have adopted a 'substance over form' approach for accounting purposes. Where the accounting treatment reflects the economic and commercial substance or effect of a transaction or arrangement, this may be relevant in determining the 'substance' of the commercial or financial relations
+•
+a transaction or arrangement which on its face results in a loss, or an 'artificial' or 'paper' or 'fictional' loss as distinct from a genuine 'economic' loss
+•
+whether the commercial or financial relations are highly structured and/or include unnecessary steps (for example, inserted steps that have no independent economic significance or commercial purpose)
+•
+a pre-ordained series of transactions or, a single composite transaction, or a single continuous operation; integrated and mutually dependent steps
+•
+a series of circular
+[62]
+cash flows making no commercial sense, round trip financing, complex interrelated arrangements; reimbursement agreements, self-cancelling series of transactions
+•
+the interposition or use of conduits or intermediaries; for example, back-to-back loans or other arrangements that are economically equivalent, including for transactions or arrangements in or through tax shelter countries.
+110. These features or characteristics alone or together may not be determinative of the substance of the commercial or financial relations in connection with which the actual conditions operate, but where they are present in such relations they should be taken into consideration in that determination.
+111. In some cases, in determining the substance of the commercial or financial relations between two entities, it may be appropriate to have regard to structures, operations and flows of funds involving more than just those entities; for example, where a foreign parent company requires an Australian subsidiary to enter non-arm's length dealings with a company in a low tax jurisdiction that is operating as a conduit, potentially enabling the income flows the company in the low tax jurisdiction receives to be remitted onto the parent in a tax exempt form.
+[63]
+In such a case, it may be that the tripartite relations are the relevant commercial or financial relations for the purposes of the 'basic rule' and that multiple transfer pricing benefits may arise.
+112. In this regard, paragraphs 2.33 and 3.9 of the 2010 OECD TP Guidelines provide that:
+2.33 In a case where there is a chain of distribution of goods through an intermediate company, it may be relevant for tax administrations to look not only at the resale price of goods that have been purchased from the intermediate company but also at the price that such company pays to its own supplier and the functions that the intermediate company undertakes. ... If it cannot be demonstrated that the intermediate company either bears a real risk or performs an economic function in the chain that has increased the value of the goods, then any element in the price that is claimed to be attributable to the activities of the intermediate company would reasonably be attributed elsewhere in the MNE group ...
+3.9 Ideally, in order to arrive at the most precise approximation of arm's length conditions, the arm's length principle should be applied on a transaction-by-transaction basis. However, there are often situations where separate transactions are so closely linked or continuous that they cannot be evaluated adequately on a separate basis. ... A further example would be the routing of a transaction through another associated enterprise; it may be more appropriate to consider the transaction of which the routing is a part in its entirety, rather than consider the individual transactions on a separate basis.
+[64]
+Example 2:  Basic rule - have regard to both the form and substance
+113.
+Watch Co, a foreign manufacturer of wristwatches, is the registered holder of the XY trademark in Australia and in other countries worldwide. In year 1, Watch Co enters the Australian market by entering into an arrangement to sell XY wristwatches to its newly organised Australian subsidiary, Aus Sub, for distribution in the Australian market. Under the terms of the distribution agreement, Watch Co is obliged to spend a specified amount on a worldwide marketing campaign to promote the XY brand and Aus Sub must incur a specified amount of expenditure on marketing in Australia. Aus Sub agrees to pay Watch Co a fixed price per wristwatch.
+114.
+In years 1 through 6, Aus Sub markets and sells XY wristwatches in the Australian market. During this period Aus Sub and Watch Co undertake, without separate compensation, marketing activities to establish the XY trademark in the Australian market. It makes commercial sense for Aus Sub to undertake these marketing activities to reach its sales and gross profit targets. Unrelated foreign producers of (other) trademarked wristwatches and their authorised Australian distributors, respectively, undertake similar marketing activities in independent arrangements involving distribution of trademarked wristwatches in the Australian market.
+115.
+Having regard to both the form and substance of the commercial relations between Watch Co and Aus Sub in connection with these dealings, it is evident that the form of the relations reflects their economic and commercial effect. In accordance with the 'basic rule' in subsection 815-130(1), the identification of the arm's length conditions is based on these relations.
+116.
+Assume that, after making any adjustments for differences necessary to reflect the characteristics of XY wristwatches and improve the reliability of the comparison, it is accepted that the price paid per wristwatch by the independent, authorised distributors of wristwatches in comparable circumstances would provide the most reliable measure of the arm's length price per XY wristwatch. Providing that the fixed price paid by Aus Sub is consistent with that arm's length price, a transfer pricing benefit would not arise as the requirement in paragraph 815-120(1)(a) is not satisfied.
+117.
+Slightly adjusting the assumed facts, assume instead that Aus Sub negotiated the terms of the arrangement to require Watch Co to incur the specified amount of expenditure on marketing in Australia, (notwithstanding that authorised Australian distributors of foreign trademarked wristwatches would usually undertake their own marketing activities in the Australian market). Separately, the price per XY wristwatch is higher than the comparable price paid by other authorised Australian distributers of comparable watches (to reflect the reduced expenditure to be incurred by Aus Sub). Providing:  the conduct of the parties is consistent with this arrangement; the difference is taken into account to identify the arm's length conditions; and the higher price paid per XY wristwatch is an arm's length amount, a transfer pricing benefit would not arise.
+118.
+These outcomes are consistent with the statutory purpose set out in section 815-105 that the amount brought to tax in Australia from cross-border conditions between entities should reflect the arm's length contribution made by Australian operations based on the functions performed, assets used, risks assumed and the conditions that might be expected to operate between entities dealing at arm's length.
+The exceptions to the basic rule
+119. The 'basic rule', that the identification of the arm's length conditions must be based on the commercial or financial relations having regard to both the form and substance of those relations, is modified if one of the exceptions at subsections 815-130(2) to 815-130(4) applies.
+120. The EM explains that:
+3.92 There are three exceptions to the 'basic rule' for identifying arm's length conditions. Where these exceptions apply, actual commercial or financial relations in connection with which the actual conditions operate are disregarded for the purposes of identifying arm's length conditions. Specific rules for each exception then provide the alternative means of identifying arm's length conditions. As with the basic rule, the exceptions continue to constrain the way in which the arm's length conditions must be identified. ...
+3.95 The first exception is based on the approach taken under the OECD Guidelines in relation to economic substance (see for example paragraphs 1.65, 9.169 and 9.183 of the OECD Guidelines). In this regard, paragraph 9.183 of the OECD Guidelines states:
+'Under the first circumstance of paragraph 1.65, where the economic substance of a transaction differs from its form, the tax administration may disregard the parties' characterisation of the transaction and re-characterise it in accordance with its substance.'
+3.96 The second and third exceptions are based on the approach taken under the OECD Guidelines in relation to the non-recognition and alternative characterisation of certain arrangements (see for example paragraphs 1.65, 1.66, 9.61, 9.175, 9.169 and 9.185 of the OECD Guidelines). In this regard, paragraph 1.66 of the OECD Guidelines states:
+'Article 9 would thus allow an adjustment of conditions to reflect those which the parties would have attained had the transaction been structured in accordance with the economic and commercial reality of parties dealing at arm's length.'
+121. The Commissioner considers that the circumstances in which subsections 815-130(2) to 815-130(4) would operate are consistent with the exceptional circumstances discussed in the 2010 OECD TP Guidelines in the context of the non-recognition and alternative characterisation of certain arrangements or transactions.
+[65]
+That is, the exceptions to the 'basic rule' would apply in the exceptional circumstances where, having regard to all relevant factors stated in Subdivision 815-B and the 2010 OECD TP Guidelines, the evidence and analysis reveals that the form of the actual commercial or financial relations is inconsistent with the substance of those relations, or the evidence supports a conclusion that independent entities dealing wholly independently with one another in comparable circumstances would not have entered into those relations. The presence of these exceptional circumstances would generally impede the identification of the arm's length conditions because, in order to identify those conditions, it would be necessary to re-characterise or disregard the actual structure adopted by the taxpayer.
+122. Since the specific rules within each exception provide a different basis to be used in identifying the arm's length conditions, the Commissioner also considers that the exceptions to the basic rule are mutually exclusive of each other.
+[66]
+123. The use of the word 'despite' in subsections 815-130(2) to 815-130(4) means that entities must determine whether the circumstances described in one of those subsections apply and, as a result, whether the commercial or financial relations in connection with which the actual conditions operate are disregarded for the purposes of identifying the arm's length conditions.
+Subsection 815-130(2) - first exception to the basic rule
+124. The examination of a controlled transaction
+[67]
+would ordinarily be based on the transaction actually undertaken by the entities as it has been structured by them, using the most reliable and appropriate methods, having regard to all relevant factors, so as best to achieve consistency with the 2010 OECD TP Guidelines.
+[68]
+125. However, consistent with the 2010 OECD TP Guidelines, there may be circumstances in which it is appropriate to disregard all or part of the actual commercial or financial relations in the course of identifying the arm's length conditions. One such circumstance is where the substance of a transaction differs from its form. In this situation, subsection 815-130(2) has the effect of modifying the 'basic rule' by directing that the form
+[69]
+of the commercial or financial relations must be disregarded to the extent that it is inconsistent with the substance of those relations. This means that, to the extent of the inconsistency between form and substance, taxpayers must have regard to the substance of the commercial or financial relations
+[70]
+in identifying the arm's length conditions.
+126. As previously mentioned, the need to identify the arm's length conditions based on 'substance' requires a consideration of the economic and commercial effect of the commercial or financial relations. In essence, subsection 815-130(2) places 'substance over form'
+[71]
+(that is, subordinates legal form to the economic and commercial substance), where these are inconsistent.
+127. Paragraph 1.65 of the 2010 OECD TP Guidelines explains that:
+1.65. ... there are two particular circumstances in which it may, exceptionally, be both appropriate and legitimate for a tax administration to consider disregarding the structure adopted by a taxpayer in entering into a controlled transaction. The first circumstance arises where the economic substance of a transaction differs from its form. In such a case the tax administration may disregard the parties' characterisation of the transaction and re-characterise it in accordance with its substance. ...
+128. Paragraph 3.97 of the EM is consistent with paragraphs 1.65, 9.169 and 9.183 of the 2010 OECD TP Guidelines, stating that:
+3.97 In cases where the form and substance of the actual commercial or financial relations of the entities differ, the form is disregarded to the extent of the inconsistency with the substance.
+129. So as to identify the arm's length conditions to best achieve the consistency with the 2010 OECD TP Guidelines, the Commissioner considers that in interpreting the term 'inconsistent' in subsection 815-130(2), it is sufficient that the form of the commercial or financial relations differs from the substance of those relations to the extent the differences would or do yield a different economic result.
+Example 3:  first exception to the basic rule - form and substance not consistent
+130.
+Assume the facts in Example 2 except that, in years 1 through 6, Aus Sub undertakes incremental marketing and promotional activities in addition to the activities similar to those observed in independent distribution transactions in the Australian market. The terms of the arrangement entered into between Watch Co and Aus Sub do not require Aus Sub to undertake these additional activities, which materially exceed its commitment to spend a specified amount on marketing in Australia. Furthermore, Watch Co does not directly or indirectly compensate Aus Sub for performing the incremental activities during years 1 through 6.
+131.
+By year 7, as a result of the incremental marketing activities, the wristwatches with the XY trademark generate a premium return in the Australian market, as compared to wristwatches marketed by the independent distributors. In that year, substantially all the premium return from the XY trademark in the Australian market is attributed to Watch Co, for example through an increase in the price paid per watch by Aus Sub, or by some other means.
+132.
+Aus Sub's undertaking of the incremental marketing activities in years 1 through 6 is a course of conduct that is inconsistent with the terms of their arrangement. Furthermore, this conduct and the parties' attribution to Watch Co in year 7 of substantially all the premium return from the enhanced XY trademark in the Australian market, results in divergence between the features and legal obligations arising under the terms of the arrangement and the commercial reality of their actual commercial relations.
+133.
+In year 7, having regard to these circumstances, the Commissioner concludes that the form of the actual commercial or financial relations and the commercial effect and reality of those relations are not consistent. In this case, in identifying the arm's length conditions, the form of those relations must be disregarded to the extent of that inconsistency.
+134.
+Assume, after having regard to all relevant circumstances, that the evidence shows it is unlikely that an uncontrolled taxpayer operating at arm's length in comparable circumstances would have engaged in the incremental marketing activities to develop or enhance intangible property owned by another party; unless it received contemporaneous compensation or otherwise had a reasonable anticipation of receiving a future benefit from those activities (for example, through a long term contract to be supplied watches at a reduced price).
+135.
+In identifying the arm's length conditions, the Commissioner, in disregarding the form of the commercial relations that are not consistent with the economic reality and effect of those relations, might resolve the matter by imputing additional terms in the arrangement between Aus Sub and Watch Co which best reflect the substance of their actual commercial relations and would afford Aus Sub an appropriate portion of the premium return from the XY trademark wristwatches. For example, consistent with the substance of their commercial or financial relations, the Commissioner may impute terms which reflect a separate services agreement that affords Aus Sub contingent payment compensation for its incremental marketing activities in years 1 through 6, which benefited Watch Co by contributing to the value of the trademark owned by Watch Co.
+136.
+Aus Sub may present additional facts that could indicate there is an alternative approach on which to characterise the commercial or financial relations to best reflect the substance of the underlying transactions.
+137.
+It could be the case that, after determining the arm's length price, Aus Sub gets a transfer pricing benefit because the amount of the entity's taxable income for an income year would be greater, or the amount of the entity's loss of a particular sort for an income year would be less (refer to section 815-120).
+138.
+These outcomes are consistent with the statutory purpose set out in section 815-105 that the amount brought to tax in Australia from cross-border conditions between entities should reflect the arm's length contribution made by Australian operations based on the functions performed, assets used, risks assumed and the conditions that might be expected to operate between entities dealing at arm's length.
+Example 4:  first exception to the basic rule not applicable - form and substance consistent
+139.
+An Australian coal producer restructures its selling and marketing activities by entering into an arrangement with a wholly owned non-resident company, For Co, for the sale and marketing of coal in existing and new markets. Under the arrangement, For Co will acquire existing sales contracts executed by its Australian parent entity, perform a number of sales and marketing functions and assume the accounts receivable late payment risk for all existing and new coal sale contracts. Payment terms with third party customers are for payment in full within 30 days. For Co is contractually required to transfer payments to Aus Co on immediate receipt from third party customers. For Co is sufficiently capitalised to accommodate late payment of accounts receivable and it has the ability to manage and control any exposure to the risk.
+140.
+For performing the functions and assuming the 'late payment' risk, Aus Co will pay For Co a fee equal to 1% of gross sales. Assume that, after carrying out a review of the form and substance of the commercial or financial relations in which the actual conditions operate, it is concluded that the conduct of the parties and the economic effect of the dealings are consistent with the form of the relations.
+141.
+In this case, subsection 815-130(2) would not apply to disregard the form of the actual commercial or financial relations.
+Subsection 815-130(3) - second exception to the basic rule
+142. Subsection 815-130(3) provides an exception to the 'basic rule' where:
+•
+independent entities dealing wholly independently with one another in comparable circumstances would not have entered into the actual commercial or financial relations, and
+•
+such entities would have entered into other commercial or financial relations, and
+•
+those other commercial or financial relations differ in substance from the actual commercial or financial relations.
+[72]
+143. In these circumstances, the identification of the arm's length conditions must be based on the other commercial or financial relations.
+144. Subsection 815-130(3) is based on the second circumstance described in paragraphs 1.65-1.66 of the 2010 OECD TP Guidelines,
+[73]
+which states in part:
+1.65. ... The second circumstance arises where ... the arrangements made in relation to the transaction, viewed in their totality, differ from those which would have been adopted by independent enterprises behaving in a commercially rational manner and the actual structure practically impedes the tax administration from determining an appropriate transfer price. ...
+1.66. ... Article 9 would thus allow an adjustment of conditions to reflect those which the parties would have attained had the transaction been structured in accordance with the economic and commercial reality of parties transacting at arm's length.
+...
+145. The situation where independent parties dealing at arm's length would not have entered into the actual transaction or arrangement existed in the European Court of Justice case of
+Lankhorst-Hohorst GmbH v. Finanzamt Steinfurt,
+[74]
+where the court noted that the loan would not have been made between parties acting at arm's length:
+Having regard to the over-indebtedness of Lankhorst-Hohorst and its inability to provide security, it could not in fact have obtained a similar loan from a third party ...
+146. In such a scenario, it would be reasonable to have regard to whether an alternatively structured transaction would have occurred between independent entities dealing in comparable circumstances; such as a different loan, or a combination of a loan and an equity injection.
+147. For the purposes of subsection 815-130(3), in identifying 'comparable circumstances', regard must be had to all relevant factors, including those stated in subsection 815-125(3).
+148. The Commissioner considers that for the purpose of subsection 815-130(3), circumstances are comparable if, to the extent that the circumstances differ from the actual circumstances, the difference does not materially affect a condition that is relevant to the transfer pricing method (or combination of methods) used to identify the arm's length conditions; or a reasonably accurate adjustment can be made to eliminate the effect of the difference on a condition that is relevant to the method.
+[75]
+Determining whether subsection 815-130(3) applies
+149. The Commissioner considers that determining whether each of the requirements in subsection 815-130(3) are met will be a question of fact having regard to all relevant factors,
+[76]
+including comparability analysis
+[77]
+and whether, having regard to their own economic interests, independent entities dealing wholly independently with one another would have entered into the actual commercial or financial relations or other such relations.
+[78]
+150. Implicit in the concept of the 'arm's length principle' is the notion that independent parties when evaluating the terms of a potential deal would compare the deal to the other options realistically available to them and would enter into the deal only if there was no alternative clearly of greater commercial advantage to the individual entity. It could therefore be said that independent parties who were dealing at arm's length would each seek to maximise the overall value of their respective entities from the economic resources available to or obtainable by them.
+[79]
+151. The answer will depend on a survey of the commercial and financial relations and the conditions adopted by independent entities dealing wholly independently with one another in comparable circumstances. Central to the identification of the relevant arm's length conditions is a systematic and careful analysis of the comparability factors listed in subsection 815-125(3).
+152. This will involve an examination of whether the actual commercial or financial relations make economic and commercial sense for the parties by reference to the actual conditions adopted and a comparison with the conditions that would have existed
+[80]
+between independent parties in comparable circumstances.
+153. It is expected that the processes applied in undertaking this examination will be consistent with the guidance for applying the arm's length principle set out in Section D of Chapter 1 of the 2010 OECD TP Guidelines.
+154. It is not of itself sufficient to infer that independent entities might have dealt with one another in an alternative manner; this requirement must be established. Moreover, the mere fact that actual independent entities have not been observed to deal with one another in a particular way (or that information on such independent dealings is not available) will not necessarily mean that independent entities would not have entered into the commercial or financial relations that the entities actually did.
+[81]
+155. It may be the case that it can be hypothesised on a rational basis that the actual commercial and financial relations, even though unique, are commercially rational and best serve the separate commercial and economic interests of the tested entity having regard to the options realistically available to it; including the option of not entering the tested relations if independent entities would not have done so.
+[82]
+156. However, if a cross-border transaction or arrangement lacks commercial foundation, is not commercially rational, feasible or viable, does not make commercial or economic sense; would not exist in a competitive (commercial or business) context, is not a business arrangement as understood in trade or industry and/or is not in accordance with commercial practice or explicable from a practical and business point of view, then it is likely that either subsection 815-130(3) or subsection 815-130(4) could apply.
+157. For example, if the transaction or arrangement was inconsistent with the business of the entity and its role within the group, or for example, inconsistent with the location of the entity's employees, offices, business assets, real estate, the location of natural resources, manufacturing plants, warehouses, research laboratories etcetera; then
+prima facie
+, it may be commercially irrational such that it would not be entered into by independent entities.
+158. Further, if the taxpayer purchased property or services without a reasonable expectation of being able to exploit the purchased property or services either directly or indirectly (for example, through resale, licence, or leasing it out) in the taxpayer's business, then its realistically available option of not acquiring the property or services would be clearly more attractive than the actual acquisition, with the consequence that the acquisition would be commercially irrational.
+159. This will always be the case where the taxpayer had options realistically available other than to enter into the actual transaction or arrangement and one or more of these options were more economically attractive (that is, by its ability to contribute to the taxpayer's profits, by increasing its gross income and/or reducing its costs) than the arrangement actually adopted.
+Example 5:  identifying the arm's length conditions based on commercial or financial relations other than the actual commercial or financial relations
+160.
+Suppose on 1 July 2013, in return for a lump sum payment, a taxpayer enters into a long-term contract to sell unlimited entitlement to all intellectual property rights arising as a result of future research conducted for the term of the contract.
+161.
+The taxpayer's accountants are asked to document the transaction for transfer pricing purposes and they encounter valuation difficulties in relation to the transaction, because the intellectual property rights do not yet exist. In addition, they undertake comparability analysis and testing using appropriate transfer pricing procedures and methods (in accordance with the 2010 OECD TP Guidelines) and find that:
+(a)
+there is no market based evidence such as comparable uncontrolled transactions or other comparable data supporting the taxpayer's sale of future intellectual property rights for an advance payment of a fixed lump sum amount
+(b)
+the static pricing mechanism (lump sum) used in such an arrangement is unusual and would likely be unacceptable to both an arm's length transferor and an arm's length transferee
+(c)
+it does not make commercial sense for the taxpayer to sell the entitlement to intellectual property rights for a fixed lump sum payment, and
+(d)
+the actual structure of the transaction adopted by the taxpayer impedes the identification of an appropriate transfer price.
+162.
+In order to identify what a real or hypothetical independent entity would do in comparable circumstances, taking into account its own economic interests and the options realistically available to it; the accountants determine that an independent entity would not have entered into the long term contract to sell future intellectual property rights for an advance payment of a fixed lump sum, but instead would have entered into a continuing research agreement or other similar commercial relations which differ in substance to the actual commercial relations. (As an alternative, the accountants may instead have determined that some form of royalty arrangement was appropriate:  in which case, the reasoning below would follow, except in determining the appropriate terms and conditions of a royalty agreement.)
+163.
+In this case, in order to work out an appropriate transfer price, it would be appropriate to conform the terms of the transfer of intellectual property in their entirety (and not simply by reference to pricing) to the commercial or financial relations that would have been entered into had the transfer of property been the subject of a transaction involving independent entities dealing wholly independently with one another. Thus, it would be appropriate to adjust the terms of the agreement in a commercially rational manner as a continuing research agreement, and identify the arm's length conditions on that basis.
+164.
+It could be the case, after determining the appropriate transfer price, that the taxpayer gets a transfer pricing benefit because the amount of the entity's taxable income for an income year would be greater, or the amount of the entity's loss of a particular sort for an income year would be less (refer to section 815-120). If this result applies, the arm's length conditions are taken to operate for the purposes of subsection 815-115(2).
+165.
+Depending on how the taxpayer treated the lump sum payment, the Commissioner could make a determination under section 815-145 to provide a consequential adjustment in respect of that amount in the relevant income year.
+Example 6:  identify the arm's length conditions based on other commercial or financial relations
+166.
+An Australian manufacturer (the taxpayer) sells goods to a controlled distributor located in another country. Under the terms of the arrangement, the distributor agrees to accept all of the manufacturing warranty risk associated with the goods in return for a fee equal to 1% of its gross sales, to be paid by the manufacturer on a quarterly basis. The result is that the distributor is liable to meet the cost of any warranty claims made by purchasers of the goods, including the cost of replacing or repairing faulty or defective units.
+167.
+Suppose, however, the results of a comprehensive economic functional analysis reveal that the controlled distributor does not have the financial capacity to bear the manufacturing warranty risk, nor any ability to control or mitigate it.
+[83]
+In addition, the Australian manufacturer has, historically, had low warranty claims, the cost of which has been materially less than the 1% fee it is paying to the distributor. Further, there is no market-based evidence such as internal or external comparable uncontrolled transactions to indicate that manufacturing entities dealing wholly independently with distributors in comparable circumstances would assign the warranty risk to the distributor. Rather, the market-based evidence indicates that manufacturing entities in comparable circumstances retain responsibility for the manufacturing warranty risk.
+168.
+The information and economic analysis lead to conclusions that:
+•
+the transfer of warranty risk to the distributor doesn't make commercial sense in the circumstances, and
+•
+entities dealing wholly independently with one another in comparable circumstances would not have entered into the actual commercial or financial relations, but they would have entered into other relations whereby the manufacturer retains the warranty risk.
+169.
+In these circumstances, the taxpayer must identify the arm's length conditions based on the other commercial or financial relations. This would result in elimination of the actual conditions concerning the assignment of the manufacturing warranty risk and determination of the arm's length condition(s) on that basis.
+170.
+In these circumstances, the Australian manufacturer, assuming it is otherwise entitled to claim deductions for the 1% warranty fee paid to the distributor, obtains a transfer pricing benefit. This is because, had the arm's length conditions operated instead of the actual conditions, the amount of the entity's taxable income for an income year would be greater, or the amount of the entity's loss of a particular sort for an income year would be less (refer to section 815 120). It follows that, for the purposes of working out the amount (if any) of the entity's taxable income for the income year, or the amount of the entity's loss of a particular sort for the income year, the actual conditions concerning the assignment of the manufacturing risk are taken not to operate and, instead, the arm's length conditions are taken to operate (refer to section 815-115).
+Example 7:  identify the arm's length conditions based on other commercial or financial relations
+171.
+An Australian importer/distributor, the taxpayer, is a subsidiary member of a global group. The Australian subsidiary buys certain products from group companies overseas and sells them to unrelated end-users in Australia. Over the years, in agreement with other group companies, the taxpayer has undertaken market development activities at its own expense and risk, and enhanced the value of the global group's brand name, with the strategy of building the group's market share in Australia (including increased sales by third party distributors). These marketing activities have significantly eroded the profitability of the taxpayer such that, from its incorporation, the entity consistently returns tax losses.
+[84]
+172.
+There is no market based evidence such as internal or external comparable uncontrolled transactions supporting the taxpayer's practice of undertaking market development activities at its own expense and risk. Further, having regard to comparability and using the most appropriate transfer pricing method in accordance with section 815-125, it doesn't make commercial sense for the taxpayer to incur marketing development costs which benefit the global group as a whole whilst it continues to make losses.
+[85]
+173.
+The evidence and analysis indicates that independent entities dealing wholly independently in comparable circumstances would not enter into the actual commercial or financial relations. To the contrary, having regard to what a real or hypothetical independent entity would do in comparable circumstances, taking into account its own economic circumstances and best interests; it is concluded that an independent entity would only enter into dealings where its contribution to market development expenditure is reflected in the economic contribution made by the Australian operations of the global group. An example where the Australian subsidiary's contribution to the value of the global group's brand name is recognised could be by way of a price rebate for trading stock purchased from the group companies, and the net cost of the products sold to the Australian subsidiary would thus be set accordingly.
+[86]
+174.
+Alternatively, instead of seeking a price rebate for the goods acquired, the comparability analysis indicates that an independent entity dealing wholly independently in comparable circumstances would have sought separate compensation for the special costs and risks incurred in acting for the long-term benefit of the group.
+[87]
+For example, an independent distributor could be expected to obtain an arm's length share of the intangible-related returns from the owner of the trademark or related intangibles, or some other benefits.
+[88]
+175.
+In these circumstances, having regard to the application of subsection 815-130(3), the Australian subsidiary should disregard the actual financial or commercial relations and identify the arm's length conditions based on other commercial or financial relations that would have been adopted by independent entities dealing with each other in comparable circumstances and behaving in a commercially rational manner. If various other actual or hypothetical commercial or financial relations are identified, the relations that best identify
+[89]
+the conditions that might be expected to operate between independent entities dealing wholly independently with one another in comparable circumstances should be adopted.
+176.
+Suppose it is concluded that, in comparable circumstances, the arm's length conditions would be such that compensation for the market development activities undertaken would be obtained by way of a price rebate for the trading stock purchased. In that case, the taxpayer has obtained a transfer pricing benefit because, had the arm's length conditions operated instead of the actual conditions, the amount of the entity's taxable income for an income year would be greater, or the amount of the entity's loss of a particular sort for an income year would be less (refer to section 815-120). It follows that, for the purposes of working out the amount (if any) of the entity's taxable income for the income year, or the amount of the entity's loss of a particular sort for the income year, the actual conditions concerning the market development activities are taken not to operate and, instead, the arm's length conditions are taken to operate (refer to section 815-115).
+Subsection 815-130(4) - third exception to the basic rule - Identification of the arm's length conditions based on the absence of commercial or financial relations
+177. Implicit in the concept of the arm's length principle is the notion that an independent entity would not enter into a transaction if it sees an alternative option that is realistically available and clearly more attractive,
+[90]
+including the option not to enter into any commercial or financial relations.
+[91]
+178. The exception provided in subsection 815-130(4) applies where it can be concluded that independent entities dealing wholly independently with one another in comparable circumstances, would take the option not to enter into the actual commercial or financial relations, nor any other commercial or financial relations. In this circumstance, the identification of the arm's length conditions must be based on the absence of commercial or financial relations between the entities involved
+[92]
+- that is, there is an explicit supposition that there are no commercial or financial relations.
+179. Thus, if independent entities dealing wholly independently with one another in comparable circumstances would not be expected to have done anything, subsection 815-130(4) provides that the arm's length conditions are to be identified as if what was actually done had not been done. It follows that the actual conditions connected with the commercial or financial relations are completely disregarded in identifying the arm's length conditions and the overriding condition is that nothing has occurred.
+[93]
+180. Whether the requirements in subsection 815-130(4) are met will involve the same examination as that explained at paragraphs 149 to 159 of this Ruling in relation to the operation of subsection 815-130(3).
+181. Importantly, any arm's length conditions that are identified under this exception are still subject to the general transfer pricing benefit requirements set out under section 815-120, meaning that this exception does not apply if disregarding the commercial or financial relations would result in the entity obtaining an Australian tax advantage (for example, an actual payment to the entity could not be disregarded under this exception).
+[94]
+As such, application of this exclusion is limited to disregarding positive actions of an entity that give rise to a transfer pricing benefit. One example of this would be where the actual commercial or financial relations result in an expense being borne by an entity that would simply not have been borne by an independent entity in comparable circumstances. In such instances, the non-recognition of the expense would result in the entity not being able to claim a deduction.
+[95]
+Example 8:  identify the arm's length conditions based on an absence of commercial or financial relations
+182.
+Assume the scenario set out in Example 4. In addition, For Co is required by the legal agreement with Aus Co to assume accounts receivable default risk on sales to existing and new customers. In legal form, this arrangement is presented as a debt-factoring arrangement. For assuming the accounts receivable risk, Aus Co will pay For Co a fee equal to 3% of gross sales.
+183.
+Historically, there has never been a payment default by an existing customer. This is largely due to the nature of the commodity and market and the existence of bank guarantees and/or letters of credit obtained from the customer.
+184.
+Following a comprehensive economic functional analysis, the key terms of the actual commercial or financial relations in connection with which the terms of the purported debt factoring arrangement operate do not make commercial sense for the parties, such that, independent parties dealing wholly independently with one another in comparable circumstances would not have entered into the arrangement. In particular, having regard to comparability of circumstances and the most appropriate transfer pricing method in accordance with section 815-125, there is no evidence from internal or external comparable uncontrolled transactions supporting the accounts receivable risk allocation in the controlled transaction. Further, the evidence indicates there is low probability of payment default risk. As part of the economic functional analysis, it is discovered that Aus Co and For Co do not transact with a third party customer, unless the customer provides a letter of credit and/or bank guarantee. Furthermore, For Co through its operational structure has limited ability to control or mitigate the risk.
+185.
+The totality of the analysis establishes that the arm's length conditions cannot be identified by making adjustments for differences, or re-characterising the actual commercial or financial relations. It also highlights that the payment of a fee equal to 3% of gross sales does not make commercial sense for Aus Co, having regard to all of the alternatives that are realistically available to the company, including doing nothing. This leads to the conclusion that independent entities dealing wholly independently with one another in comparable circumstances would not have entered into any commercial or financial relations involving the transfer of accounts receivable risk.
+186.
+In these circumstances, the identification of the arm's length conditions will be based upon that absence of commercial or financial relations. That is, the actual conditions that operate in connection with the transfer of accounts receivable risk are disregarded and no arm's length conditions are substituted in their place.
+187.
+The effect is that, under subsection 815-130(4), the taxpayer is treated as taking the option of not entering into the transaction or arrangement which is annihilated.
+188.
+It follows that, for the purposes of working out the amount (if any) of Aus Co's taxable income for the income year, or the amount of the entity's loss of a particular sort for the income year, the actual conditions concerning the transfer of accounts receivable risk are taken not to operate and, instead, the arm's length conditions that nothing occurred are taken to operate (refer to section 815-115).
+Appendix 2 - Detailed contents list
+189. The following is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Background
+3
+The arm's length principle and the OECD
+4
+Object of Subdivision 815-B
+15
+Structure of Subdivision 815-B
+17
+Meaning of arm's length conditions
+21
+When an entity gets a transfer pricing benefit
+22
+Relevance of actual commercial or financial relations
+25
+Guidance in section 815-135
+26
+Ruling
+29
+Relevance of actual commercial or financial relations in the identification of the arm's length conditions
+29
+The 'basic rule'
+33
+The first exception to the 'basic rule' - where the 'form' of the actual commercial or financial relations is inconsistent with the 'substance' of those relations
+44
+The second exception - where independent entities would have entered into other commercial or financial relations which differ in 'substance' from the actual commercial or financial relations
+49
+The third exception - where independent entities would not have entered into commercial or financial relations
+58
+Interaction of sections 815-130 and 815-120
+62
+Interaction of sections 815-130 and 815-140
+65
+Example 1:  transfer pricing adjustment and thin capitalisation
+69
+Date of effect
+77
+Appendix 1 - Explanation
+79
+Section 815-130 relevance of actual commercial or financial relations
+79
+Basic rule in subsection 815-130(1)
+80
+Commercial and financial relations
+81
+Actual Conditions
+88
+'Form' for the purposes of section 815-130
+89
+'Substance' for the purposes of section 815-130
+90
+Economic reality and essence
+98
+Economic and commercial context
+99
+Object and effect from a practical and business point of view
+100
+Conduct of the entities
+102
+Functions performed, assets used and risks assumed
+104
+Summary of 'substance' for the purposes of section 815-130
+105
+How to determine the 'substance' of the commercial or financial relations for the purposes of section 815-130
+109
+Example 2:  Basic rule - have regard to both the form and substance
+113
+The exceptions to the basic rule
+119
+Subsection 815-130(2) - first exception to the basic rule
+124
+Example 3:  first exception to the basic rule - form and substance not consistent
+130
+Example 4:  first exception to the basic rule not applicable - form and substance consistent
+139
+Subsection 815-130(3) - second exception to the basic rule
+142
+Determining whether subsection 815-130(3) applies
+149
+Example 5:  identifying the arm's length conditions based on commercial or financial relations other than actual commercial or financial relations
+160
+Example 6:  identify the arm's length conditions based on other commercial or financial relations
+166
+Example 7:  identify the arm's length conditions based on other commercial or financial relations
+171
+Subsection 815-130(4) - third exception to the basic rule - Identification of the arm's length conditions based on the absence of commercial or financial relations
+177
+Example 8:  identify the arm's length conditions based on an absence of commercial or financial relations
+182
+Appendix 2 - Detailed contents list
+189
+Footnotes
+[1]
+All legislative references in this Ruling are to the
+Income Tax Assessment Act 1997
+unless stated otherwise.
+[2]
+Section 815-15 of the
+Income Tax (Transitional Provisions) Act 1997
+provides that Subdivisions 815-B, 815-C and 815-D apply to income years starting on or after the earlier of 1 July 2013 and the day the
+Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Act 2013
+received Royal Assent (being 29 June 2013).
+[3]
+See paragraphs 2.1, 2.5, 2.16 and 3.2 of the Explanatory Memorandum to Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Bill 2013 (EM) which accompanied the
+Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Act 2013.
+[4]
+Note that paragraph 9.9 of Chapter 9 (Business Restructurings) of the 2010 OECD TP Guidelines emphasises:
+9.9 This chapter starts from the premise that the arm's length principle and these Guidelines do not and should not apply differently to restructurings or post-restructuring transactions than to transactions that were structured as such from the beginning.
+[5]
+See paragraphs 1.33-1.35, 1.42-1.43, 1.48-1.53, 1.65-1.69, 3.9, 7.6, 7.18, 9.11-9.12, 9.22, 9.34, 9.55-9.56, 9.59-9.61, 9.64, 9.133, 9.159, 9.162-9.171, 9.175-9.176, 9.180, 9.182-9.187, 9.192, and footnote 13 to paragraph 9.168 of the 2010 OECD TP Guidelines.
+[6]
+See paragraphs 7.18 and 9.133 of the 2010 OECD TP Guidelines.
+[7]
+See for example, paragraphs 20, 28 and 56-57 of Taxation Ruling TR 96/2, paragraphs 65-66 of Taxation Ruling TR 98/21 and paragraphs 86-87 of Taxation Ruling TR 2013/1.
+[8]
+See paragraph 7.6 of the 2010 OECD TP Guidelines.
+[9]
+Paragraph 1.34 of the 2010 OECD TP Guidelines states:
+1.34 Independent enterprises, when evaluating the terms of a potential transaction, will compare the transaction to the other options realistically available to them, and they will only enter into the transaction if they see no alternative that is clearly more attractive.
+[10]
+See paragraphs 1.34, 9.59, 9.61 and 9.175-9.176 of the 2010 OECD TP Guidelines.
+[11]
+See paragraphs 1.64-1.66, 9.161, 9.164, 9.168-9.169 and 9.183-9.185 of the 2010 OECD TP Guidelines.
+[12]
+See subsection 815-105(1).
+[13]
+See subsection 815-105(2) and paragraphs 2.22-2.24 and 3.3 of the EM.
+[14]
+Subsection 815-1(2) of the
+Income Tax (Transitional Provisions) Act 1997
+provides that Subdivision 815-A does not apply to an income year to which Subdivisions 815-B and 815-C apply.
+[15]
+See paragraphs 2.17 and 3.29 of the EM.
+[16]
+See paragraphs 2.13-2.20 of the EM.
+[17]
+See the 'cross-border test' in subsection 815-120(3).
+[18]
+See subsection 815-120(1) and paragraphs 3.11, 3.37-3.38 and 3.47-3.48 of the EM.
+[19]
+Nevertheless, where the arm's length conditions cannot be identified based on the commercial or financial relations in connection with which the actual conditions operate, it will usually be the case that the identification of those conditions is impeded by the actual structure adopted by the taxpayer.
+[20]
+For the purposes of determining the effect Subdivision 815-B has in relation to an entity, the identification of the arm's length conditions based on the method by which 'substance' is determined best achieves consistency with the documents covered by section 815-135.
+[21]
+See paragraph 3.98 of the EM.
+[22]
+Being the commercial or financial relations in connection with which the actual conditions operate.
+[23]
+Legal substance is 'that which results from the legal rights and obligations of the parties ascertained upon ordinary legal principles'. See, the judgement by Lord Tomlin in the House of Lords decision in
+The Commissioners of Inland Revenue Appellants v. His Grace the Duke of Westminster Respondent
+[1936] AC 1.
+[24]
+Refer to paragraph 9.170 of the 2010 OECD TP Guidelines.
+[25]
+Although it is not a condition for the operation of subsection 815-130(3), in this circumstance the actual structure practically impedes the identification of the arm's length conditions. The operation of subsection 815-130(3) to resolve this, by disregarding the actual commercial or financial relations and identifying the arm's length conditions based on what independent parties would have done instead, best achieves consistency with paragraph 1.65 of the 2010 OECD TP Guidelines.
+[26]
+Refer to paragraphs 3.101 to 3.103 of the EM.
+[27]
+See subsection 815-130(5), which provides that subsections 815-125(3) and 815-125(4) apply for the purposes of section 815-130.
+[28]
+Guidance on the comparability analysis is found in Chapters I and III of the 2010 OECD TP Guidelines.
+[29]
+This example is taken from paragraph 1.65 of the 2010 OECD TP Guidelines. See also paragraphs 6.28-6.35 and 9.87-9.88 of the 2010 OECD TP Guidelines.
+[30]
+See subsection 815-130(5), which provides that subsections 815-125(3) and 815-125(4) apply for the purposes of section 815-130.
+[31]
+See section 820-40.
+[32]
+Where appropriate, the Commissioner would consider applying section 815-145 to make a consequential adjustment to a 'disadvantaged entity' where the section operates to enable this and he considers it is fair and reasonable to do so.
+[33]
+The arm's length conditions are the conditions that might be expected to operate between independent entities dealing wholly independently with one another in comparable circumstances (subsection 815-125(1)).
+[34]
+See paragraph 15 above and section 815-105.
+[35]
+See paragraph 3.83 of the EM.
+[36]
+Refer to paragraphs 3.40-3.41 of the EM.
+[37]
+Refer to paragraph 3.42 of the EM.
+[38]
+See the discussion about the expression 'in connection with' at paragraphs 348-353 of Miscellaneous Taxation Ruling MT 2006/1.
+[39]
+(1987) 15 FCR 487 at page 491; (1987) 77 ALR 103.
+[40]
+(1990) 23 FCR 144; (1990) 94 ALR 220; (1990) 20 ALD 357; [1990] ATPR 41-032.
+[41]
+Refer to paragraph 3.43 of the EM.
+[42]
+Refer to paragraph 3.84 of the EM.
+[43]
+As distinct from only the legal effect, being the legal rights and obligations created by the commercial or financial relations.
+[44]
+Paragraphs 3.94-3.95 of the EM provide that 'substance' in section 815-130 is equivalent to the term 'economic substance' as used in the 2010 OECD TP Guidelines.
+[45]
+Isaacs J in
+Curtis v. Perth and Fremantle Bottle Exchange Co Limited
+(1914) 18 CLR 17 at 25 said:
+Where parties enter into a bargain with one another whereby certain rights and obligations are created, they cannot by a mere consensual label alter the inherent character of the relations they have actually called into existence. Many cases have arisen where Courts have disregarded such labels, because in law they were wrong, and have looked beneath them to the real substance.
+[46]
+See paragraphs 1.65, 7.18 and 9.133 of the 2010 OECD TP Guidelines.
+[47]
+See paragraph 1.48-1.49 of the 2010 OECD TP Guidelines. See also paragraphs 3.74, 7.18, 9.12 and 9.166 of the 2010 OECD TP Guidelines.
+[48]
+See paragraphs 1.53, 9.12, 9.34, 9.104, 9.108, 9.164-9.166 and footnote 13 to paragraph 9.168 of the 2010 OECD TP Guidelines. Paragraph 9.34 provides that:
+9.34 ... As a starting point, the tax administration would examine the contractual terms between the parties and whether they have economic substance, determined by reference to the conduct of the parties, and are arm's length. ...
+[49]
+See paragraph 9.174 of the 2010 OECD TP Guidelines.
+[50]
+See paragraphs 1.49, 9.20, 9.30-9.31, 9.36-9.38 and 9.192 of the 2010 OECD TP Guidelines.
+[51]
+See paragraphs 7.6 and 9.41 of the 2010 OECD TP Guidelines.
+[52]
+See paragraphs 1.70-1.71, 3.10, 9.63, 9.84, 9.86, 9.175-9.178 and 9.191-9.192 of the 2010 OECD TP Guidelines.
+[53]
+(1946) 72 CLR 634 at 648; (1946) 20 ALJ 277; (1946) 8 ATD 190; [1946] ALR 434; [1946] HCA 34.
+[54]
+[1980] FCA 29; (1980) 44 FLR 277.
+[55]
+See paragraphs 1.53 and 9.34 of the 2010 OECD TP Guidelines.
+[56]
+See paragraphs 1.48, 9.12-9.14, 9.34, 9.108, 9.165-9.166, 9.170 and 9.189 of the 2010 OECD TP Guidelines.
+[57]
+Refer paragraphs 1.2-1.3 of the 2010 OECD TP Guidelines.
+[58]
+See paragraph 3.84 of the EM, paragraphs 1.53, 1.67, 9.13, 9.104 and 9.106 and footnote 13 to paragraph 9.168 of the 2010 OECD TP Guidelines.
+[59]
+Consideration of the legal consequences will include the legal rights and obligations that are created by the commercial or financial relations.
+[60]
+See paragraphs 9.20 and 9.29-9.33 of the 2010 OECD TP Guidelines.
+[61]
+Paragraph 3.13 of the 2010 OECD TP Guidelines explains intentional set-offs as occurring when one associated enterprise has provided a benefit to another associated enterprise within the group that is balanced to some degree by different benefits received from that enterprise in return.
+[62]
+Circularity in this context refers to movements of money which conceal the fact that there is little or no underlying economic activity or any real economic outlays and/or which leave the taxpayer in essentially the same financial position as before. For examples of circularity more broadly, see
+Stamp v. Federal Commissioner of Taxation
+(1988) 19 FCR 423; (1988) 19 ATR 1810; (1988) 88 ATC 4803 and
+FCT v. Sleight
+[2004] FCAFC 94; (2004) 55 ATR 555; (2004) 206 ALR 511; 2004 ATC 4477; [2004] ALMD 4873; [2004] ALMD 4882; [2004] ALMD 4885; (2004) 136 FCR 211.
+[63]
+Note that this example is not dependent upon the payment to the parent being in a tax exempt form.
+[64]
+See where similar concepts to these were considered in subparagraph 2.74(2) of Taxation Ruling TR 97/20 and paragraph 4.9 of Taxation Ruling TR 98/11.
+[65]
+See paragraph 3.94 of the EM.
+[66]
+See paragraph 3.92 of the EM.
+[67]
+The Glossary to the 2010 OECD TP Guidelines refers to 'controlled transactions' as being 'Transactions between two enterprises that are associated enterprises with respect to each other.'
+[68]
+Refer to subsection 815-125(2), subsection 815-135(1) and also paragraphs 1.48-1.49, 1.52-1.53, 1.64, 8.14, 9.11-9.14, 9.30, 9.34, 9.50, 9.60, 9.104, 9.118, 9.155, 9.159, 9.161, 9.164-9.166 and 9.168 of the 2010 OECD TP Guidelines.
+[69]
+See paragraphs 37-38 of this Ruling.
+[70]
+See paragraphs 39 and 44-48 of this Ruling.
+[71]
+With regard to substance over form, the OECD Glossary of Tax Terms defines the 'substance over form doctrine' as the:
+Doctrine which allows the tax authorities to ignore the legal form of an arrangement and to look to its actual substance in order to prevent artificial structures from being used for tax avoidance purposes.
+[72]
+See also paragraph 3.99 of the EM.
+[73]
+See paragraph 3.96 of the EM. Also, the subsection is consistent with some of the discussion in paragraphs 9.169, 9.171, 9.175-9.176, 9.184 and 9.185 of the 2010 OECD TP Guidelines.
+[74]
+[2002] EU:  Case C-324/00.
+[75]
+See subsection 815-125(4).
+[76]
+See subsection 815-130(5), which provides that subsections 815-125(3) and 815-125(4) apply for the purposes of section 815-130.
+[77]
+Guidance on the comparability analysis is found in Chapters I and III of the 2010 OECD TP Guidelines.
+[78]
+This is consistent with paragraphs 1.65-1.66, 9.61, 9.169, 9.171, 9.175-9.176 and 9.184-9.185 of the 2010 OECD TP Guidelines. See also paragraph 3.96 of the EM.
+[79]
+See paragraph 1.34 of the 2010 OECD TP Guidelines.
+[80]
+It is inappropriate to be prescriptive in discussing what these conditions would be, particularly as this depends upon facts and circumstances and the availability of data on comparable uncontrolled transactions or arrangements.
+[81]
+See paragraph 3.101 of the EM.
+[82]
+Refer again to paragraph 3.101 of the EM.
+[83]
+See paragraphs 9.20 and 9.29-9.33 of the 2010 OECD TP Guidelines.
+[84]
+Paragraph 1.70 of the 2010 OECD TP Guidelines states that:
+... an independent enterprise would not be prepared to tolerate losses that continue indefinitely. An independent enterprise that experiences recurring losses will eventually cease to undertake business on such terms. In contrast, an associated enterprise that realizes losses may remain in business if the business is beneficial to the MNE group as a whole.
+[85]
+See paragraphs 1.70-1.72, 9.63, 9.84 and 9.178 of the 2010 OECD TP Guidelines.
+[86]
+See paragraphs 1.62 and 6.36-6.38 of the 2010 OECD TP Guidelines.
+[87]
+A similar approach under former Division 13 of the ITAA 1936 is outlined at paragraph 5.33 of Taxation Ruling TR 98/11.
+[88]
+See paragraphs 1.47, 6.36 and 6.38 of the 2010 OECD TP Guidelines.
+[89]
+Refer to section 815-135.
+[90]
+See paragraphs 1.34, 6.13, 9.59-9.64, 9.73, 9.103, 9.159 and 9.175-9.176 of the 2010 OECD TP Guidelines.
+[91]
+See paragraphs 81, 84, 91 and 94 of TR 2011/1 where the option of not entering into commercial or financial relations was also considered.
+[92]
+The proposition inherent in this subsection is echoed in paragraphs 9.59, 9.61 and 9.175-9.176 of the 2010 OECD TP Guidelines.
+[93]
+See paragraph 3.105 of the EM.
+[94]
+See paragraph 3.106 of the EM.
+[95]
+The Commissioner has taken a similar approach previously. See, for example, paragraphs 23, 26, 59, 180, 184, 194-197 and 212 of TR 2004/1 in the context of cost contribution arrangements and also paragraphs 91, 94, 133 and 137-138 of TR 2011/1 in the context of business restructuring.
+Previously released in draft form as TR 2014/D3
+References
+ATO references:
+NO  1-549WCNK
+ISSN: 1039-0731
+Related Rulings/Determinations:
+TR 96/2
+TR 97/20
+TR 98/11
+TR 98/21
+TR 2004/1
+TR 2006/10
+TR 2011/1
+TR 2013/1
+MT 2006/1
+Subject References:
+actual conditions
+arm's length conditions
+arm's length principle
+arm's length profits
+comparable circumstances
+cross-border test
+multinational enterprise
+Organisation for Economic Co-operation & Development
+tax treaties
+transfer pricing
+Business Line:
+PG
+Legislative References:
+ITAA 1997
+ITAA 1997 Subdiv 815-A
+ITAA 1997 Subdiv 815-B
+ITAA 1997 Subdiv 815-C
+ITAA 1997 Subdiv 815-D
+ITAA 1997 815-105
+ITAA 1997 815-105(1)
+ITAA 1997 815-105(2)
+ITAA 1997 815-115
+ITAA 1997 815-115(1)
+ITAA 1997 815-115(2)
+ITAA 1997 815-120
+ITAA 1997 815-120(1)
+ITAA 1997 815-120(1)(a)
+ITAA 1997 815-120(1)(c)
+ITAA 1997 815-120(2)
+ITAA 1997 815-120(3)
+ITAA 1997 815-125
+ITAA 1997 815-125(1)
+ITAA 1997 815-125(2)
+ITAA 1997 815-125(3)
+ITAA 1997 815-125(4)
+ITAA 1997 815-130
+ITAA 1997 815-130(1)
+ITAA 1997 815-130(1)(a)
+ITAA 1997 815-130(2)
+ITAA 1997 815-130(3)
+ITAA 1997 815-130(4)
+ITAA 1997 815-130(5)
+ITAA 1997 815-135
+ITAA 1997 815-135(1)
+ITAA 1997 815-140
+ITAA 1997 815-145
+ITAA 1997 Div 820
+ITAA 1997 Subdiv 820-C
+ITAA 1997 820-40
+ITAA 1997 820-185(3)
+ITAA 1997 820-195
+ITAA 1997 820-220
+ITAA 1936
+ITAA 1936 Div 13
+ITAA 1936 170(9B)
+ITAA 1936 170(9C)
+IT(TP)A 1997
+IT(TP)A 1997 815-1(2)
+IT(TP)A 1997 815-15
+TAA 1953 Sch 1
+TAA 1953 Subdiv 284-E
+Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Act 2013
+Case References:
+Burswood Management Ltd v. Attorney-General
+(1990) 23 FCR 144
+(1990) 94 ALR 220
+(1990) 20 ALD 357
+[1990] ATPR 41-032
+Curtis v Perth and Fremantle Bottle Exchange Co Limited
+[1914] HCA 21
+(1914) 18 CLR 17
+(1914) 20 ALR 313
+FCT v Sleight
+[2004] FCAFC 94
+(2004) 136 FCR 211
+2004 ATC 4477
+(2004) 55 ATR 555
+(2004) 206 ALR 511
+[2004] ALMD 4873
+[2004] ALMD 4882
+[2004] ALMD 4885
+Foxwood (Tolga) Pty. Limited v Federal Commissioner of Taxation
+[1980] FCA 29
+80 ATC 4096
+(1980) 10 ATR 676
+(1980) 44 FLR 277
+(1980) 29 ALR 399
+Hatfield v Health Insurance Commission
+(1987) 15 FCR 487
+(1987) 77 ALR 103
+Hallstroms Pty. Ltd. v. F.C. of T.
+[1946] HCA 34
+(1946) 72 CLR 634
+(1946) 20 ALJ 277
+(1946) 8 ATD 190
+3 AITR 436
+[1946] ALR 434
+Lankhorst-Hohorst GmbH v. Finanzamt Steinfurt
+[2002] EU: Case C-324/00
+Stamp v. Federal Commissioner of Taxation
+(1988) 19 FCR 423
+88 ATC 4803
+(1988) 19 ATR 1810
+The Commissioners of Inland Revenue Appellants v. His Grace the Duke of Westminster Respondent
+[1936] AC 1
+Other References:
+Explanatory Memorandum
+to Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Bill 2013 (EM) which accompanied the Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Act 2013
+The Transfer Pricing Guidelines for Multinational Enterprises and Tax Administration, as approved by the Council of the Organisation for Economic Cooperation and Development last amended on 22 July 2010
+OECD Glossary of Tax Terms
+OECD Model Tax Convention on Income and on Capital
+Back to top

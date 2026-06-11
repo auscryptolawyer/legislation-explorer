@@ -15,7 +15,6 @@ source_pdf: "vol03.pdf"
 
 # 159GZZZG Pre-cancellation disposals of eligible interests
 
-
 <a id="s159GZZZG-1"></a>
 **(1)** Where:
 

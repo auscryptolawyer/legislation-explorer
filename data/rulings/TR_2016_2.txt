@@ -1,0 +1,1241 @@
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+54 related documents
+Taxation Ruling
+TR 2016/2
+Income tax: taxation of financial arrangements - how section 230-120 of the
+Income Tax Assessment Act 1997
+applies to the taxation of swaps under the accrual/realisation rules in Subdivision 230-B of that Act
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+TR 2016/2EC
+.
+Contents
+Para
+LEGALLY BINDING SECTION:
+Executive summary
+1
+Ruling
+4
+Examples
+18
+Date of effect
+27
+NOT LEGALLY BINDING SECTION:
+Appendix 1:  Explanation
+28
+Appendix 2: Analysis of Example 1 according to the EM
+102
+Appendix 3: Detailed contents list
+115
+Preamble
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+Executive summary
+1. This Ruling sets out how section 230-120 of the
+Income Tax Assessment Act 1997
+(ITAA 1997)
+[1]
+applies to the taxation of swaps under the accrual/realisation rules in Subdivision 230-B.
+[2]
+2. The key provision is section 230-120. If a financial arrangement
+[3]
+satisfies the test in subsection 230-120(1), subsection 230-120(3) operates in conjunction with the accruals/realisation methods in Subdivision 230-B to work out the gains and losses from the financial arrangement.
+3. Four examples of swap contracts are given:
+•
+an interest rate swap with a non-periodic lump sum payment
+•
+a cross currency swap
+•
+a total return swap, and
+•
+a credit default swap.
+Ruling
+Section 230-120
+4. Subsection 230-120(1) provides a test which must be satisfied if the section is to apply to a financial arrangement. If the section applies, subsection 230-120(3) provides how the financial arrangement is to be taxed under Subdivision 230-B.
+The test in subsection 230-120(1)
+5. The test in subsection 230-120(1) is satisfied where, having regard to the actual pricing, terms and conditions of the actual financial arrangement, there is, in substance or effect, a notional arrangement (referred to in this Ruling as the notional construct) that has specified characteristics.
+Pricing, terms and conditions
+6. In determining whether the arrangement gives rise to the notional construct, regard must be had to the pricing, terms and conditions of the arrangement.
+7. 'Pricing' is not merely the price, but includes how the price is set and what price is set, in the context of market pricing.
+Notional construct
+8. As subsection 230-120(2) puts beyond doubt, the notional construct contemplated by the test in subsection 230-120(1) need not be the actual financial benefits or notional principal as a matter of legal form. Rather, the test is whether, in substance or effect, the notional construct exists.
+Notional construct - legs
+9. The notional construct consists of two legs and possibly one or more other things where the following things are true:
+•
+Each leg is comprised of the provision or receipt of both a notional principal and financial benefits.
+•
+The notional principals are of equal value at the start of the arrangement. The 'value' of the notional principal refers to its worth.
+•
+For each leg, all or part of the notional principal must be provided or received (paragraph 230-120(1)(c)).
+•
+The financial benefit provided or received for each leg must be related to the notional principal by being either:
+-
+calculated by reference to the notional principal, or
+-
+reasonably related to the notional principal.
+When a financial benefit is in substance the result of an equation that contains the notional principal as a term, the financial benefit is calculated by reference to the notional principal.
+10. However, in terms of the legal form of the actual financial arrangement, the notional principal need not be actually provided or received (subsection 230-120(2)).
+Notional construct - thing
+11. A 'thing' is anything else of which the notional construct consists which is not a leg (subparagraph 230-120(1)(a)(iii)). In particular, anything not relevantly related to the notional principal will not form part of a leg.
+Subsection 230-120(3)
+12. Where a financial arrangement satisfies the test in subsection 230-120(1), the gains and losses from the arrangement are worked out under subsection 230-120(3).
+Working out the financial benefits of the notional construct
+13. The financial benefits from each leg of the notional construct and any other 'thing' are worked out separately (subparagraph 230-120(3)(a)(i)). The effect of the notional construct must be consistent with the timing and amount of the actual financial benefits of the financial arrangement (subparagraph 230-120(3)(a)(ii)).
+Working out the gains and losses from the arrangement
+14. The accruals/realisation methods of Subdivision 230-B apply at the level of each leg or thing (subparagraph 230-120(3)(b)(i)).
+15. The gains and losses produced by applying Subdivision 230-B at the level of each leg or thing are treated as being the gains and losses from the financial arrangement (subparagraph 230-120(3)(b)(ii)).
+How to recognise gains and losses in tax periods
+16. In working out the gains or losses for each element of the notional construct, and when they ought to be recognised, the result must properly reflect the financial substance of the financial arrangement (paragraph 230-120(3)(c)).
+Section 230-120 and swaps
+17. It is clear that section 230-120 will generally apply to swaps. However, the provision does not operate on the basis of what an arrangement is called, so an arrangement must satisfy the test in subsection 230-120(1) in order for section 230-120 to apply to the arrangement.
+Examples
+18. The following examples
+[4]
+of swap contracts illustrate the principles identified in this Ruling and set out the Commissioner's view on how section 230-120 and Subdivision 230-B operate in relation to these swaps.
+Example 1 - interest rate swap with a non-periodic lump sum payment
+19. Eleanor Co enters into an interest rate swap on 1 March 2013 on a 2 year term. Under the financial arrangement, it receives annual floating payments calculated as BBSW
+[5]
+multiplied by a notional principal of $100,000 and pays annual fixed payments calculated as 5% of a notional principal of $100,000. Further, it pays an upfront payment of $1,833, which is the present value of the difference between the 5% fixed payment that it pays under this swap and the 6% fixed payment it would otherwise be required to pay but for the upfront payment.
+[6]
+The upfront payment is calculated using a discount rate of 6%, which is the fixed rate of the swap.
+[7]
+Diagram for Example 1
+20. The above interest rate swap satisfies the test in subsection 230-120(1). For the purposes of applying Subdivision 230-B to the swap, the notional construct consists of two legs (the floating leg and the fixed leg). The floating leg includes provision and receipt of the notional principal and the floating receipts. The floating receipts are financial benefits which are sufficiently certain, and so give rise to sufficiently certain gains accrued in accordance with the accruals method. The fixed leg includes provision and receipt of the notional principal and the fixed payments and the upfront payment. The upfront payment is part of the leg because it is a financial benefit which is calculated by reference to the notional principal. The fixed payment and the upfront payment are sufficiently certain financial benefits and so give rise to sufficiently certain losses accrued in accordance with the accruals method.
+Diagram for the notional construct - Example 1
+Example 2 - cross currency swap
+21. Rosemary Co enters into a 3 year cross currency swap. Under the financial arrangement, it pays Australian dollar (AUD) fixed amounts that are calculated by reference to a notional principal of AUD10m, and receives US dollar (USD) fixed amounts which are calculated by reference to a notional principal of USD6m. The exchange rate of AUD to USD is such that AUD10m is equal in value to USD6m at the start of the swap arrangement. The notional principals are exchanged on entry into the swap and re-exchanged at the maturity of the swap.
+Diagram for Example 2
+22. The above cross currency swap satisfies the test in subsection 230-120(1). For the purposes of applying Subdivision 230-B to the swap, the notional construct consists of two legs (the AUD leg and the USD leg). The AUD leg includes provision and receipt of the notional principal and the AUD fixed payments. The AUD fixed payments are sufficiently certain financial benefits, and so give rise to sufficiently certain losses accrued in accordance with the accruals method. The USD leg includes provision and receipt of the notional principal and the USD fixed receipts. The USD fixed receipts are treated as sufficiently certain financial benefits under subsection 230-115(8), and so give rise to sufficiently certain gains accrued in accordance with the accruals method. When the USD notional principal is received back under the USD leg, any gain or loss attributable to the change in the USD-AUD exchange rate is brought to account under the balancing adjustment under Subdivision 230-G.
+Diagram for the notional construct - Example 2
+Example 3 - total return swap
+23. Verity Co enters into a 3 year total return swap. Under the financial arrangement, it makes periodic payments that are calculated as a rate multiplied by a reference amount of $100 million (the interest-equivalent amounts) and receives periodic payments that are calculated by reference to dividends paid on a reference portfolio of a corporation's preference shares whose value at the time of entering into the swap is $100 million (the dividend-equivalent amounts). In addition, at the end of the swap, it will also make a single payment if there is a loss in the value of the reference portfolio or will receive a single payment if there is a gain in the value of the reference portfolio (the maturity amount).
+Diagram for Example 3
+24. The above total return swap satisfies the test in subsection 230-120(1). For the purposes of applying Subdivision 230-B to the swap, the notional construct consists of two legs. One leg includes provision and receipt of the notional principal and the interest-equivalent amounts. The interest-equivalent amounts are sufficiently certain financial benefits, and so give rise to sufficiently certain losses accrued in accordance with the accruals method. The other leg includes provision and receipt of the notional principal and the dividend-equivalent amounts and the maturity amount. Each dividend equivalent amount constitutes a particular gain that is sufficiently certain when the dividend is declared in respect of the reference portfolio. Each such gain is accrued in accordance with the accruals method. Any payment or receipt of the maturity amount is subject to a balancing adjustment under Subdivision 230-G.
+Diagram for the notional construct - Example 3
+Example 4 - credit default swap
+25. Bronwen Co enters into a credit default swap with a bond issued by a reference entity as a reference obligation. Under the financial arrangement, Bronwen Co receives periodic payments that are calculated as a rate multiplied by a reference amount and makes a single payment if there is an occurrence of a defined credit event related to the reference entity.
+[8]
+The credit default swap terminates, regardless of its term, when the credit event occurs.
+Diagram for Example 4
+26. The above credit default swap satisfies the test in subsection 230-120(1). For the purposes of applying Subdivision 230-B to the swap, the notional construct consists of two legs (the premium leg and the protection leg). The premium leg has provision and receipt of the notional principal and periodic receipts calculated by reference to the notional principal. The periodic receipts are sufficiently certain financial benefits, and so give rise to sufficiently certain gains which are accrued in accordance with the accruals method. The protection leg contains provision and receipt of the notional principal and the single maturity payment due in the event of a credit event. Any loss resulting from such a payment is subject to a balancing adjustment under Subdivision 230-G.
+Diagram for the notional construct - Example 4
+Date of effect
+27. This Ruling applies to years of income commencing both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+Commissioner of Taxation
+25 May 2016
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Section 230-120 - legislative context
+28. Section 230-120 is in Subdivision 230-B which is headed '[t]he accruals/realisation method'. Subdivision 230-B is one of a number of Subdivisions (Subdivisions 230-B to 230-F) which determine the gain and loss from a financial arrangement and when that gain or loss is to be recognised. While the other Subdivisions apply only if an election is made, Subdivision 230-B applies as the default approach if no election is made.
+29. In this context, section 230-120 provides that if you have a financial arrangement which satisfies the test in subsection 230-120(1), in applying Subdivision 230-B, you work out the gains and losses from the financial arrangement under subsection 230-120(3). If the test is not satisfied, the section does not apply and the remainder of Subdivision 230-B applies on its own terms to the financial arrangement.
+30. Section 230-120 applies to financial arrangements. Sections 230-45 and 230-50 identify financial arrangements. Those sections operate on rights and obligations you have under an arrangement. Subsection 230-55(4) identifies what is the arrangement.
+[9]
+According to the Explanatory Memorandum to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008 (the EM), 'a swap financial arrangement (comprising all of the taxpayer's rights and obligations) generally is to be considered as one arrangement'.
+[10]
+Subsection 230-120(1)
+31. Subsection 230-120(1) provides a test as to whether section 230-120 applies to a financial arrangement.
+In substance or effect
+32. The test in subsection 230-120(1) is one of substance or effect. The phrase 'in substance or effect' is not a term with a precise meaning.
+The Macquarie Dictionary
+defines 'in substance' as 'a. substantially. b. actually; really'. It defines 'in effect' as 'in fact or reality, although perhaps not formally acknowledged as such'. The enquiry as to the satisfaction of the test in subsection 230-120(1) is not an enquiry as to mere legal form, but as to reality.
+33. Broadly, the subsection 230-120(1) test asks whether, as a matter of financial substance, the actual legal rights and obligations give rise to the specified notional construct.
+Having regard to the pricing, terms and conditions of the arrangement
+34. In determining whether the actual financial arrangement gives rise to the notional construct, regard must be had to the pricing, terms and conditions of the arrangement. 'Pricing' is not merely the price, but includes how the price is set and what price is set, in the context of market pricing.
+The New Shorter Oxford English Dictionary
+[11]
+defines 'pricing' as 'the action or process of establishing a price or prices; the overall level of prices so fixed'.
+Paragraph 230-120(1)(a) - two legs and, if any, one or more other things
+35. The enquiry of paragraph 230-120(1)(a) is whether, in substance or effect, having regard to the pricing, terms and conditions of the actual financial arrangement, the arrangement consists of the notional construct of two legs and, if any, one or more other things. Before looking at what a leg is, it is helpful to look more broadly at the purpose of section 230-120.
+36. The purpose of section 230-120, as subsection 230-120(3) shows, is to enable the accruals/realisation methods of Subdivision 230-B to operate at the level of the legs (and the other things, if any) of a financial arrangement, not at the level of the financial arrangement.
+37. In order for the accruals method to operate at the level of the legs, it is apparent that a leg includes not only cash flows provided or received but also the notional principal being provided or received at the beginning and end of the arrangement. This is confirmed by paragraph 230-120(1)(c) which states that, in the notional construct, 'all or part of the notional principal in relation to each leg is provided or received at a time regardless of whether that time is different in relation to each leg'.
+38. The notional construct contemplated by the test in subsection 230-120(1) need not be the actual financial benefits or notional principal as a matter of legal form. Rather, the test is whether, in substance or effect, the notional construct exists. Both the financial benefits in a leg and the notional principal may or may not exist.
+39. The term 'notional principal' commonly refers to an amount used to calculate payment streams. It has been defined as:
+Notional principal, or notional amount, of a derivative contract is a hypothetical underlying quantity upon which interest rate or other payment obligations are computed.
+[12]
+Within the notional construct, the notional principal not only is provided and received, but also forms the basis of calculation of the other financial benefits
+[13]
+that form part of the legs. In actuality, it may or may not be provided and received.
+[14]
+In interest rate swaps it is usual for principals not to be exchanged and re-exchanged. In contrast, for cross currency swaps, the standard documentation provides that principals are exchanged.
+[15]
+Paragraph 230-120(1)(b)- notional principal of equal value
+40. This paragraph requires the value of the notional principal to be equal for both the legs at the start of the arrangement.
+The Macquarie Dictionary
+defines value as '4. the worth of a thing as measured by the amount of other things for which it can be exchanged, or as estimated in terms of a medium of exchange'.
+41. The word 'value' centrally refers to worth. This can be compared with the word 'amount', used in subparagraphs 230-120(3)(a)(ii), 230-120(3)(c)(i) and 230-120(3)(c)(ii), which refers to a nominal quantity.
+42. The EM expresses the test to be whether the legs are of equal value,
+[16]
+whereas the legislation expresses the test in terms of the value of the notional principal in relation to each leg. At first glance, these might appear to be in conflict. But the conflict is apparent, not real. Consider this example:
+A vanilla fixed/floating swap with a $100,000 notional principal entered into at market pricing has a floating rate of BBSW and a fixed rate of 10%, both with one annual payment. In such a case, there would be a notional construct under subsection 230-120(1) that consists of: a fixed leg with a notional principal of $100,000 and periodic annual cash flows of $10,000; and a floating leg with a notional principal of $100,000 and periodic annual cash flows of $100,000 x BBSW. The notional principal of each leg would be $100,000 at the start of the arrangement. Similarly, the value of each leg would be (presumably less a dealer's margin) equal at the start of the arrangement: $100,000 is the value of a bond entered into at that date with a floating rate of BBSW or with a fixed rate of 10%.
+Paragraph 230-120(1)(c)- notional principal provided or received
+43. Paragraph 230-120(1)(c) has the effect that the notional construct of a leg includes not only cash flows but also the notional principals being provided or received.
+Subsection 230-120(2)
+44. Subsection 230-120(2) puts beyond doubt what is already apparent from subsections 230-120(1) and (3), that both the financial benefits in relation to the legs, and the notional principal in relation to each leg, need not actually be provided or received. This puts beyond doubt that the subsection 230-120(1) enquiry is as to the existence of a notional construct, not as to the legal form of the financial arrangement.
+Subsection 230-120(3)
+45. Subsection 230-120(3) explains how to apply the accruals/realisation methods of Subdivision 230-B to a financial arrangement which satisfies the test in subsection 230-120(1).
+46. For such a financial arrangement, the accruals/realisation methods apply at the level of the notional construct legs and potentially things in subsection 230-120(1). The accruals/realisation methods that work out the gains and losses from the financial arrangement operate in the following manner:
+•
+The financial benefits from each thing of which the arrangement consists are worked out separately from the financial benefits from each other thing of which the arrangement consists (subparagraph 230-120(3)(a)(i)).
+•
+The effect of the notional construct must be consistent with the timing and amount of the actual financial benefits of the financial arrangement (subparagraph 230-120(3)(a)(ii)).
+•
+The gains and losses from each thing of which the arrangement consists are worked out separately from the gains and losses from each other thing of which the arrangement consists (subparagraph 230-120(3)(b)(i)).
+•
+The gains and losses worked out from each thing of which the arrangement consists are taken to be the gains and losses from the financial arrangement (subparagraph 230-120(3)(b)(ii)).
+•
+In working out the gains or losses for each element of the notional construct, and when they ought to be recognised, the result must properly reflect the financial substance of the financial arrangement (paragraph 230-120(3)(c)).
+Section 230-120 and swaps
+47. A swap contract is listed as an example at the foot of subsection 230-120(1). Sections 2-35 and 2-45 and subsection 950-100(1) make it clear that examples form part of the Act, but are not operative provisions. Such provisions are to 'help you identify accurately and quickly the provisions that are relevant to you and to help you understand them' (section 2-35).
+48. It is clear that section 230-120 will generally apply to swaps. However, the provision does not operate on the basis of what an arrangement is called, so an arrangement must satisfy the test in subsection 230-120(1) in order for section 230-120 to apply to the arrangement.
+Explanation for the Examples provided in this Ruling
+49. The following explanation is provided for the Examples in the Ruling.
+Example 1 - interest rate swaps with a non-periodic lump sum payment
+Notional construct
+50. The swap in Example 1, in substance or effect, and having regard to its pricing, terms and conditions, consists of a notional construct of:
+•
+one leg with a notional principal of $100,000 provided at the start of the leg and received at its end
+[17]
+and two annual BBSW receipts (the floating leg), and
+•
+another leg with: a notional principal of $100,000 received at the start of the leg and provided at its end; one upfront payment of $1,833; and two annual 5% payments (the fixed leg).
+51. The above notional construct satisfies the test in subsection 230-120(1) because:
+•
+there are two legs, each of which is comprised of the provision or receipt of the notional principal and financial benefits
+•
+the notional principals are of equal value at the start of the arrangement, being $100,000, and
+•
+the financial benefits in each leg are calculated by reference to the notional principal.
+[18]
+52. The upfront payment is relevantly related to the notional principal, and therefore is part of a leg. Because it is part of a leg, it is not what subparagraph 230-120(1)(a)(iii) refers to as a 'thing'.
+[19]
+53. The notional construct includes the upfront payment in the fixed leg, which is considered appropriate as the upfront payment entitles Eleanor Co to reduce the fixed payments by 1%.
+54. As the arrangement satisfies the test, the gains and losses from the arrangement are worked out under subsection 230-120(3).
+Paragraph 230-120(3)(a) - work out financial benefits from the legs/things
+55. The floating leg has financial benefits of the two annual BBSW receipts whereas the fixed leg has financial benefits of the $1,833 upfront payment and the two annual 5% payments. The financial benefits worked out in relation to the legs are consistent with the timing and amount of financial benefits to be actually provided or received under the swap, which satisfies subparagraph 230-120(3)(a)(ii).
+Paragraph 230-120(3)(b) - work out the gains and losses from the legs/things
+56. Working out the gains and losses under Subdivision 230-B from a financial arrangement involves the following steps:
+•
+decide, under section 230-115, whether a financial benefit to be provided or received under the financial arrangement is sufficiently certain
+•
+having regard to the sufficiently certain financial benefits identified, decide, under sections 230-105 and 230-110, whether there is a sufficiently certain overall or particular gain or loss from the financial arrangement
+•
+apply the accruals method to the sufficiently certain overall or particular gain or loss (subsections 230-100(2) and (3)), and
+•
+apply the realisation method to a gain or loss from the arrangement if the accruals method does not apply to the gain or loss (subsection 230-100(5)).
+57. In accordance with subparagraph 230-120(3)(b)(i), the above steps need to be repeated for each of the legs and the thing.
+58. In the case of the floating leg, the following steps are taken:
+•
+Each BBSW receipt that Eleanor Co is to receive is a financial benefit that Eleanor Co is sufficiently certain to receive because: it is reasonably certain that Eleanor Co will receive each annual BBSW payment; and the amount of each BBSW receipt is determinable with reasonable accuracy on the paragraph 230-115(4)(a) or (b) assumption that the BBSW rate will continue to have the value it does at the time Eleanor Co starts to have the floating leg. Any difference between the BBSW assumed and the actual BBSW will be brought to account under the balancing adjustment under section 230-175 or the re-estimation under section 230-190, which are discussed below in paragraphs 68 and 69.
+•
+In deciding whether there is a sufficiently certain overall or particular gain or loss from the floating leg, it is required under subparagraph 230-120(3)(c)(i) to take into account the notional principal provided/received at the start/end of the floating leg.
+•
+Having regard to the sufficiently certain financial benefits (the BBSW receipts) and the provision and receipt of the notional principal, the floating leg has: a sufficiently certain overall gain of '$100,000 x initial BBSW x 2; and one sufficiently certain particular gain of '$100,000 x BBSW on 1 March 2013' and another sufficiently certain particular gain of '$100,000 x BBSW on 1 March 2014'.
+•
+If Eleanor Co chooses, under paragraph 230-100(2)(c), to apply the accruals method to the overall gain, the accruals method applies the overall gain and the two particular gains are disregarded under paragraph 230-110(2)(b).
+•
+If no such choice is made, the accruals method does not apply to the overall gain and the accruals method applies to the two particular gains.
+59. In the case of the fixed leg, having regard to the upfront payment and fixed payments Eleanor Co is sufficiently certain to provide and the notional principal received and provided, it has a sufficiently certain overall loss of $11,833 ($1,833 + $100,000 x 5% x 2). There are also three sufficiently certain particular losses of: $1,833; $100,000 x 5%; and $100,000 x 5%, all of which will be disregarded if a choice is made to apply the accruals method to the overall loss.
+60. As the sufficiently certain gains and losses from the things of which the arrangement consists are worked out, the next step is applying the accruals method to the gains and losses from the things.
+61. According to section 230-125, applying the accruals method to a gain or loss involves the following steps:
+•
+work out, under section 230-130, the period over which the gain or loss is to be spread
+•
+work out, under section 230-135, how to allocate the gain or loss to particular intervals within the period, and
+•
+if an interval to which part of the gain or loss is allocated straddles 2 income years, work out, under section 230-170, how to allocate that part of the gain or loss allocated between those 2 income years.
+62. To show how the accruals method operates in relation to the floating leg, it is assumed that the BBSW on 1 March 2013 and on 1 March 2014 is respectively 5% and 6%.
+Accruals method - floating leg (overall gain)
+63. Where a choice is made to apply the accruals method to the overall gain of $10,000, the period over which the gain is to be spread is the period from the start to the end of the floating leg (subsection 230-130(1)). The method to be used to spread the gain is compounding accruals or a method whose results approximate those obtained using the compounding accruals (subsection 230-135(2)). In applying compounding accruals over the period, the interval to which parts of the gain are allocated must not exceed 12 months, and must be of the same length (apart from the first and last intervals) (subsection 230-135(4)). In this case, a daily compounding accruals basis is used
+[20]
+, which means the interval is one day and each interval is of the same length. (Where an interval used for accrual falls into more than one year, the gain for such interval is to be spread between the two years on a reasonable basis under section 230-170. This issue does not arise in this example because an interval of one day is used).
+64. Then, it is required under subsection 230-135(5) to determine a rate of return and an amount to which the rate of return is applied.
+[21]
+A 'rate of return' is not defined in the legislation but it is commercially known as the internal rate of return (IRR). This is confirmed by the EM which states (at paragraph 4.143) that 'to apply the compounding accruals method, a taxpayer estimates the rate of return (the discount rate) that equates the net present value of all relevant cash flows (financial benefits) to zero'. In the floating leg, the IRR is 5% p.a. compounded annually.
+[22]
+This annual compounding rate is converted to a daily compounding rate of 0.0134%.
+[23]
+In relation to the amount to which the IRR is to be applied, the IRR is always applied to the initial cost of the investment. This is again confirmed by the EM which states (at paragraph 4.143) that '[a] taxpayer applies the rate to the initial investment'. Therefore, the IRR is applied to the initial cost of the investment, which in this case of the floating leg is the amount of the notional principal provided at the start of the arrangement.
+65. Subsection 230-135(6) provides that regard is to be had to the amount and timing of financial benefits provided or received during the interval in determining the amount to which the rate of return is applied. Subsection 230-135(7) provides that the gain and loss is to be spread assuming that you will continue to have the swap for the rest of its life. Subsection 230-135(8) provides that in allocating the gain and loss to intervals, regard is to be had to the financial benefits to be provided or received in each interval.
+66. Given the above, the following table is the compounding accruals treatment of the overall gain under the floating leg.
+Table 1: Floating Leg - Accruals (overall gain of $10,000)
+Period ending
+Days
+Rate
+Opening Balance
+Accrual
+Accrual - year end
+Cash flow
+Closing Balance
+1/03/2013
+0
+0.00%
+n/a
+0
+0
+-100,000
+n/a
+30/06/2013
+122
+1.64%
+100,000
+1,644
+1,644
+0
+101,644
+1/03/2014
+243
+3.30%
+101,644
+3,356
+5,000
+100,000
+30/06/2014
+122
+1.64%
+100,000
+1,644
+5,000
+0
+101,644
+1/03/2015
+243
+3.30%
+101,644
+3,356
+105,000
+0
+30/06/2015
+0
+0.00%
+0
+0
+3,356
+0
+0
+Total
+10,000
+10,000
+67. In the above and all the following tables:
+•
+'Days' is the number of days during the period. For example, the first 122 is calculated by counting the number of days from (and including) 1 March 2013 to (and including) 30 June 2013) and the first 243 is calculated by counting the number of days from (and excluding) 30 June 2013) to (and excluding) 1 March 2014)
+•
+'Rate' is: (daily compounding rate)
+Day
+- 1
+•
+'Opening Balance' is the initial cost of the investment
+•
+'Accrual' is: Rate x Opening Balance
+•
+'Accrual - year end' is the sum of Accrual for a year of income. For example, $5,000 is the sum of $3,356 and $1,644
+•
+'Cash Flow' is the cash flows during the period
+[24]
+, and
+•
+'Closing Balance' is: Opening Balance + Accrual - Cash Flow. Closing Balance of any particular interval becomes Opening Balance of the next interval.
+68. On 1 March 2014, the BBSW that was assumed to be constant at 5% under paragraph 230-115(4)(a) or (b) is changed to 6%. This triggers a running balancing adjustment under section 230-175 and, therefore, it is required to compare the amount estimated ($5,000) and the amount Eleanor Co received ($6,000). As the amount received is greater than the amount estimated, the difference of $1000 is a gain under subsection 230-175(2). Eleanor Co is taken to make that gain in the income year in which it receives the benefit, which is the 2015 income year.
+69. On the other hand, if the difference of $1000 is considered to be 'not insignificant' for the purposes of paragraph 230-190(3)(b), Eleanor Co is required under section 230-190 to re-estimate the gain from the floating leg.
+Accruals method - floating leg (particular gains)
+70. Where no choice is made to apply the accruals method to the overall gain of $10,000, there is one particular gain of $5,000 and another particular gain of $6,000. These particular gains are spread over 'the period to which the gain relates' (subsection 230-130(3)) subject to subsections 230-130(4) and (5).
+71. The particular gain of $5000 relates to the period starting on 1 March 2013 and ending on 28 February 2014, which satisfies subsections 230-130(4) and (5) because the period; does not start before 1 March 2013 (being the time when Eleanor Co starts to have the financial arrangement: paragraph 230-130(4)(a)); does not start before 1 July 2012 (being the start of the income year in which the gain becomes sufficiently certain: paragraph 230-130(4)(b)); and does not end later than 1 March 2015 (being the time when Eleanor Co ceases to have the arrangement: subsection 230-130(5)). The gain is spread over this period using a daily compounding accruals basis
+[25]
+, which is shown in the table below.
+Table 2: Floating Leg - Accruals (particular gain of $5,000)
+Period ending
+Days
+Rate
+Opening Balance
+Accrual
+Closing Balance
+1/03/2013
+0
+0.00%
+n/a
+0
+n/a
+30/06/2013
+122
+1.64%
+100,000
+1,644
+101,644
+1/03/2014
+243
+3.30%
+101,644
+3,356
+105,000
+Total
+5,000
+72. The other particular gain of $6,000 relates to the period starting on 1 March 2014 and ending on 1 March 2015, which also satisfies subsections 230-130(4) and (5). This gain is spread over the period using a daily compounding accruals basis,
+[26]
+which is shown in the table below.
+Table 3: Floating Leg - Accruals (particular gain of $6,000)
+Period ending
+Days
+Rate
+Opening Balance
+Accrual
+Closing Balance
+1/03/2014
+0
+0.00%
+n/a
+0
+n/a
+30/06/2014
+122
+1.97%
+100,000
+1,967
+101,967
+1/03/2015
+243
+3.96%
+101,967
+4,033
+106,000
+Total
+6,000
+73. The table below shows the difference between the compounding accruals of the overall gain and the particular gains. The difference is caused by the running balancing adjustment in accruing the overall gain.
+Table 4: Floating Leg - Accruals (overall gain vs particular gains)
+Income Year
+Accruals of Overall Gain
+[1]
+with Running Balancing Adjustment
+Accrual of Particular Gains
+[2]
+Difference
+2013
+1,644
+1,644
+0
+2014
+5,000
+5,323
+-323
+2015
+4,356
+[3]
+4,033
+323
+Total
+11,000
+11,000
+0
+[1]
+Table 1
+[2]
+Table 2 plus Table 3
+[3]
+$3,356 from Table 1 plus $1,000 gain from running balancing adjustment
+Accruals method - fixed leg (overall loss)
+74. The fixed leg has a sufficiently certain overall loss of $11,833, ($1,833 + $100,000 x 5% x 2). That overall loss is spread over the life of the arrangement using a daily compounding rate of 0.0159% (converted from the IRR of 6% p.a.)
+[27]
+which is applied to the initial cash flow of $98,167 ($100,000 - $1,833). The result is shown in the table below.
+Table 5: Fixed Leg - Accruals (overall loss of $11,833)
+Period ending
+Days
+Rate
+Opening Balance
+Accrual
+Accrual - year end
+Cash flow
+Closing Balance
+1/03/2013
+0
+0.00%
+n/a
+0
+98,167
+[1]
+n/a
+30/06/2013
+122
+1.97%
+-98,167
+-1,931
+-1,931
+0
+-100,098
+1/03/2014
+243
+3.96%
+-100,098
+-3,959
+-5,000
+-99,057
+30/06/2014
+122
+1.97%
+-99,057
+-1,948
+-5,907
+0
+-101,005
+1/03/2015
+243
+3.96%
+-101,005
+-3,995
+-105,000
+0
+30/06/2015
+0
+0.00%
+0
+0
+-3,995
+0
+0
+Total
+-11,833
+-11,833
+[1]
+notional principal of $100,000 less upfront payment of $1,833
+Accruals method - fixed leg (particular losses)
+75. When no choice is made to apply the accruals method to the overall loss, there are three particular losses of $1,833, $5,000 and $5,000. To apply the daily compounding accruals method to these losses, it is necessary to determine a daily compounding rate for the losses and the amount to which the rate is to be applied. The fixed leg has an IRR of 6% p.a and therefore the daily compounding rate is 0.0159%. The amount to which the rate is to be applied is $14,830
+[28]
+for the $1,833 loss and $83,337
+[29]
+for the other two $5,000 losses.
+76. The particular loss of $1,833 is spread using a daily compounding accruals basis, which is shown in the table below.
+Table 6: Fixed Leg - Accruals (particular loss of $1,833)
+Period ending
+Days
+Rate
+Opening Balance
+Accrual
+Accrual - year end
+Cash flow
+Closing Balance
+1/03/2013
+0
+0.00%
+n/a
+0
+14,830
+[1]
+n/a
+30/06/2013
+122
+1.97%
+-14,830
+-292
+-292
+0
+-15,122
+1/03/2014
+243
+3.96%
+-15,122
+-598
+0
+-15,720
+30/06/2014
+122
+1.97%
+-15,720
+-309
+-907
+0
+-16,029
+1/03/2015
+243
+3.96%
+-16,029
+-634
+-16,663
+0
+30/06/2015
+0
+0.00%
+0
+0
+-634
+0
+0
+Total
+-1,833
+-1,833
+[1]
+$16,663 less $1,833 (refer footnote 28)
+77. The other two particular losses of $5,000 each is spread using a daily compounding accruals basis, which is shown in the table below.
+Table 7: Fixed Leg - Accruals (two particular losses of $5,000)
+Period ending
+Days
+Rate
+Opening Balance
+Accrual
+Accrual - year end
+Cash flow
+Closing Balance
+1/03/2013
+0
+0.00%
+n/a
+0
+83,337
+[1]
+n/a
+30/06/2013
+122
+1.97%
+-83,337
+-1,639
+-1,639
+0
+-84,976
+1/03/2014
+243
+3.96%
+-84,976
+-3,361
+-5,000
+-83,337
+30/06/2014
+122
+1.97%
+-83,337
+-1,639
+-5,000
+0
+-84,976
+1/03/2015
+243
+3.96%
+-84,976
+-3,361
+-88,337
+0
+30/06/2015
+0
+0.00%
+0
+0
+-3,361
+0
+0
+Total
+-10,000
+-10,000
+[1]
+$100,00 less $16,663 (refer footnote 29)
+78. When the compounding accruals of the three particular gains are combined, the result is shown in the table below.
+Table 8: Fixed Leg - Accruals (particular losses: Table 6 plus Table 7)
+Income Year
+Total Accruals
+2013
+-1,931
+2014
+-5,907
+2015
+-3,995
+Total
+-11,833
+79. As shown in Tables 5 and 8, there is no difference in the tax outcome whether the accruals method is applied to the overall loss or particular losses in the fixed leg of this particular example.
+Accruals method - the swap
+80. According to subparagraph 230-120(3)(b)(ii), the gains and losses from the two legs and the thing are taken to be the gains and losses from the financial arrangement.
+How the EM deals with Example 1
+81. The approach taken above in relation to Example 1 is that the notional construct under section 230-120 consists only of two legs. The EM, by contrast, approached the facts in Example 1 as if the upfront payment is not part of the fixed leg but another thing.
+[30]
+A 'thing' in section 230-120 is anything else of which the notional construct consists which is not a leg, as not being relevantly related to the notional principal. As noted above, in this example, the upfront payment is relevantly related to the notional principal, and therefore is part of a leg. Further, as Appendix 2 shows, treating the upfront payment as part of a leg produces the same tax outcome as achieved under the approach taken in the EM. A detailed analysis of Example 1 according to the approach taken in the EM is provided in Appendix 2.
+Example 2 - cross currency swaps
+82. The cross currency swap financial arrangement in Example 2 is distinguished from interest rate swaps as the AUD and USD are actually exchanged at the start and end of the swap and one set of cash flows is denominated in the USD.
+[31]
+As already explained at paragraph 39, a notional principal can be actually exchanged.
+83. The cross currency swap satisfies the test in subsection 230-120(1). The value, that is the worth, of the notional principal for the AUD and USD amounts is equal at the start of the arrangement because the value of USD6M is equal to the value of AUD10m at the start of the arrangement according to the exchange rate at that time. For the purposes of applying Subdivision 230-B to the swap, the notional construct consists of two legs (the AUD leg and the USD leg) and, therefore, Rosemary Co is required to work out the financial benefits and the gains/losses from each leg separately.
+84. All the financial benefits under the AUD leg are fixed and therefore it has a sufficiently certain overall loss and particular losses. The accruals method applies to the overall loss or the particular losses depending on the choice Rosemary Co makes under paragraph 230-100(2)(c).
+85. Under the USD leg, while the receipts are fixed at a particular rate, they are foreign currency amounts and therefore the value of those financial benefits is subject to exchange rate fluctuations. Under paragraph 230-120(3)(a), the financial benefits and gains/losses from the USD leg are to be worked out separately from the AUD leg, and so, for the purposes of applying Subdivision 230-B to the USD leg, the USD leg is treated like a stand-alone financial arrangement. Subsection 230-115(8) provides:
+If all of the *financial benefits provided and received under the *financial arrangement are denominated in a particular foreign currency, those financial benefits are not to be translated into: (a) your *applicable functional currency; or (b) if you do not have an applicable function currency - Australian currency, for the purposes of applying subsection (2) to the arrangement.
+86. Therefore, all the financial benefits under the USD leg are fixed and, therefore, the USD leg has a sufficiently certain overall gain and particular gains. The accruals method applies to the overall gain or the particular gains depending on the choice under paragraph 230-100(2)(c).
+87. When the USD notional principal is received back under the USD leg, any gain or loss attributable to the change in the USD-AUD exchange rate is brought to account under the balancing adjustment under Subdivision 230-G.
+Example 3 - total return swaps
+88. The total return swap financial arrangement in Example 3, in substance or effect and having regard to its pricing, terms and conditions, consists of a notional construct of:
+•
+a leg containing the notional principal of $100m and interest equivalent amounts (the bond leg), and
+•
+another leg containing the notional principal of $100m
+[32]
+together with the dividend equivalent amounts and the maturity amount (the share leg).
+[33]
+89. This notional construct satisfies the test in subsection 230-120(1) as: the interest equivalent amounts, the dividend equivalent amounts and the maturity amount are all calculated by reference to the notional principal of $100m or the reference portfolio worth $100m at the start of the swap; and the notional principal is exchanged.
+[34]
+90. Under this notional construct, the interest equivalent amounts payable under the bond leg are fixed and therefore the bond leg has a sufficiently certain overall loss and particular losses, either of which can be accrued according to the accruals method of Subdivision 230-B.
+91. On the other hand, as each dividend equivalent amount to be received under the share leg becomes fixed at the time each dividend is declared in relation to the reference share portfolio, the share leg has no sufficiently certain overall gain.
+92. However, there is a question as to whether each dividend equivalent amount can be accrued over the period between the declaration and payment of the dividend, as giving rise to a particular gain under subsection 230-110(1) that becomes sufficiently certain at the time of declaration. As the share leg contains not only the dividend equivalent amounts but also the maturity amount, in working out whether each dividend equivalent amount constitutes a sufficiently certain particular gain, Verity Co is required under paragraph 230-110(2)(a) to have regard to:
+•
+the extent of the risk that the maturity amount that Verity Co is not sufficiently certain to provide may reduce the amount of the gain consisting of each dividend equivalent amount, and
+•
+the extent to which the maturity amount is, for the purposes of subsection 230-70(2), reasonably attributable to each dividend equivalent amount.
+93. There is a significant risk that the maturity amount that may be required to be provided due to the capital loss would outweigh all the dividend equivalent amounts received. However, for the purposes of subsection 230-70(2), it cannot be said that the maturity amount paid is reasonably attributable to any dividend equivalent amounts received because the maturity amount is not a cost attributable to the receipt of the dividend equivalent amounts.
+[35]
+94. Therefore, each dividend equivalent amount under the share leg constitutes a particular gain that becomes sufficiently certain when the dividend is declared in respect of the reference portfolio, which, according to subsections 230-130(3), (4) and (5), is to be accrued over the period between the declaration and payment of the dividend.
+95. Any payment or receipt of the maturity amount will not be known until the swap is due to terminate. As such, any such payment or receipt will be subject to the balancing adjustment of Subdivision 230-G.
+96. Rather than the reference portfolio referencing one share, a total return swap will commonly reference a portfolio of different shares, or a proprietary index the composition of which may not be known. The dividend equivalent amounts under these sorts of total return swaps would be subject to realisation unless the amounts were sufficiently certain at some point prior to payment, in which case they would be subject to accrual from that point.
+Example 4 - Credit default swaps
+97. The issue is whether the credit default swap financial arrangement in Example 4, in substance or effect and having regard to its pricing, terms and conditions, gives rise to a notional construct consisting of two legs.
+98. Under the credit default swap, Bronwen Co receives the periodic payments calculated by reference to the reference amount in return for a contingent payment, if payable, calculated by reference to the same reference amount. As such, the reference amount constitutes a notional principal.
+99. Furthermore, the credit default swap, in substance or effect and having regard to its pricing, terms and conditions, gives rise to a notional construct of two legs - the premium leg and the protection leg. Under the premium leg, Bronwen Co provides the notional principal, receives the periodic payments calculated by reference to the notional principal, and receives back the notional principal on termination of the swap. Under the protection leg, Bronwen Co receives the notional principal and returns the notional principal together with the contingent payment if there is a credit event; or only the notional principal if there is no credit event. Therefore, the credit default swap satisfies the test in subsection 230-120(1).
+100. The premium leg has sufficiently certain financial benefits, the periodic payments, which give rise to a sufficiently certain overall gain. Alternatively, each periodic payment constitutes a sufficiently certain particular gain. Depending on the choice that Bronwen Co makes under paragraph 230-100(2)(c), either can be accrued according to the accruals method of Subdivision 230-B.
+101. If Bronwen Co is required to pay any amount under the protection leg, the swap terminates and therefore the payment is subject to the balancing adjustment of Subdivision 230-G. If no credit event occurs during the term of the swap, Bronwen Co makes no gain or loss under the protection leg.
+Appendix 2 - Analysis of Example 1 according to the EM
+Notional construct according to the EM
+102. According to the EM, the arrangement, in substance or effect, and having regard to its pricing, terms and conditions, consists of:
+•
+one leg with a notional principal of $100,000 and 2 annual BBSW receipts (the floating leg)
+•
+another leg with a notional principal of $100,000 and 2 annual 6% payments (the fixed leg), and
+•
+one thing with an upfront payment of $1,833 and 2 annual 1% receipts (the thing).
+Diagram for the notional construct
+103. The above notional construct identifies a market-priced fixed leg and a thing whereby $1,833 is paid in return for two annual 1% receipts. The floating leg remains unchanged. To ascertain if the above notional construct would produce a different tax outcome, the accruals method is applied to the above fixed leg and the thing.
+Accruals method - fixed leg (overall loss)
+104. The fixed leg has an overall loss of $12,000 ($100,000 x 6% x 2). If a choice is made to apply the accruals method to this overall loss, it is required to be spread over the life of the fixed leg. In this case, a daily compounding method is used.
+[36]
+The table below shows the compounding accruals treatment of the overall gain under the fixed leg.
+Table 9: EM's Fixed Leg - Accruals (overall loss of $12,000)
+Period ending
+Days
+Rate
+Opening Balance
+Accrual
+Accrual - year end
+Cash flow
+Closing Balance
+1/03/2013
+0
+0.00%
+n/a
+0
+100,000
+n/a
+30/06/2013
+122
+1.97%
+-100,000
+-1,967
+-1,967
+0
+-101,967
+1/03/2014
+243
+3.96%
+-101,967
+-4,033
+-6,000
+-100,000
+30/06/2014
+122
+1.97%
+-100,000
+-1,967
+-6,000
+0
+-101,967
+1/03/2015
+243
+3.96%
+-101,967
+-4,033
+-106,000
+0
+30/06/2015
+0
+0.00%
+0
+0
+-4,033
+0
+0
+Total
+-12,000
+-12,000
+Accruals method - fixed leg (particular losses)
+105. Where no choice is made to apply the accruals method to the overall loss, there is one particular loss of $6,000 and another particular loss of $6,000. These particular losses are spread over the period to which they relate using a daily compounding accruals basis, which is shown in the table below.
+Table 10: EM's Fixed Leg - Accruals (first particular loss of $6,000)
+Period ending
+Days
+Rate
+Opening Balance
+Accrual
+Closing Balance
+1/03/2013
+0
+0.00%
+n/a
+0
+n/a
+30/06/2013
+122
+1.97%
+-100,000
+-1,967
+-101,967
+1/03/2014
+243
+3.96%
+-101,967
+-4,033
+-106,000
+Total
+-6,000
+Table 11: EM's Fixed Leg - Accruals (second particular loss of $6,000}
+Period ending
+Days
+Rate
+Opening Balance
+Accrual
+Closing Balance
+1/03/2014
+0
+0.00%
+n/a
+0
+n/a
+30/06/2014
+122
+1.97%
+-100,000
+-1,967
+-101,967
+1/03/2015
+243
+3.96%
+-101,967
+-4,033
+-106,000
+Total
+-6,000
+106. When the compounding accruals of the two particular gains are combined, the result is shown in the table below.
+Table 12: EM's Fixed Leg - Accruals (particular losses: Table 10 plus Table 11)
+Income Year
+Total Accruals
+2013
+-1,967
+2014
+-6,000
+2015
+-4,033
+Total
+-12,000
+107. As shown in Tables 9 and 12, there is no difference in the tax outcome whether the accruals method is applied to the overall loss or particular losses in the fixed leg of this particular example.
+Accruals method - thing (overall gain)
+108. The thing has the upfront payment of $1,833 and the two sufficiently certain 1% annual receipts. Therefore, it has a sufficiently certain overall gain of $167 ($100,000 x 1% x 2 - $1,833). The same amount also constitutes a sufficiently certain particular gain.
+[37]
+Depending on the choice Eleanor Co makes under paragraph 230-100(2)(c), the accruals method applies to the overall gain or the particular gain.
+109. When a choice is made to apply the accruals method to the overall gain of $167, the overall gain is required to be spread over the life of the arrangement. When a daily compounding accruals basis is used, based on the IRR of 6% p.a.
+[38]
+and the daily compounding rate of 0.0159%, the overall gain of $167 is accrued as follows.
+Table 13: EM's Thing - Accruals (overall gain of $167)
+Period ending
+Days
+Rate
+Opening Balance
+Accrual
+Accrual - year end
+Cash flow
+Closing Balance
+1/03/2013
+0
+0.00%
+n/a
+0
+-1,833
+n/a
+30/06/2013
+122
+1.97%
+1,833
+36
+36
+0
+1,869
+1/03/2014
+243
+3.96%
+1,869
+74
+1,000
+943
+30/06/2014
+122
+1.97%
+943
+19
+93
+0
+962
+1/03/2015
+243
+3.96%
+962
+38
+1,000
+0
+30/06/2015
+0
+0.00%
+0
+0
+38
+0
+0
+Total
+167
+167
+Accruals method - thing (particular gain)
+110. When the accruals method does not apply to the overall gain, a particular gain of the same amount arises. This particular gain relates to the entire life of the arrangement and, therefore, it is to be spread over the life of the arrangement. This also satisfies subsections 230-130(4) and (5).
+111. As such, there is no difference in the accruals amounts in each interval whether the daily compounding accruals basis is applied to the overall gain or the particular gain.
+Comparison - tax outcomes of the two notional constructs
+112. The following table compares the tax outcomes of the notional construct identified in the Ruling and the notional construct according to the EM.
+Table 14: Comparison - tax outcomes of the two approaches
+Notional construct of this Ruling
+Notional construct of the EM
+Income Year
+Fixed Leg
+[1]
+Fixed Leg
+[2]
+Thing
+[3]
+Fixed Leg + Thing
+[4]
+2013
+-1,931
+-1,967
+36
+-1,931
+2014
+-5,907
+-6,000
+93
+-5,907
+2015
+-3,995
+-4,033
+38
+-3,995
+Total
+-11,833
+-12,000
+167
+-11,833
+[1]
+Table 5 (overall loss) or Table 8 (particular losses)
+[2]
+Table 9 (overall loss) or Table 12 (particular losses)
+[3]
+Table 13 (overall gain and particular gain - refer to paragraph 111)
+[4]
+Total of the gains and losses from the fixed leg and the thing
+113. The above table shows that the amount of loss accrued in each income year is identical under each approach. Mathematically, this will always hold true where the discount rate used in the pricing of the upfront payment is the same 6% p.a rate inherent in the fixed cash flows.
+114. Therefore, although the notional construct identified in this Ruling would appear to be contrary to comments in the EM as to an upfront payment not being part of a leg, it is the case that treating it as part of a leg is not only appropriate and interpretatively consistent with the language of section 230-120, but also produces the same tax outcome as achieved under the approach taken in case study 6 of the EM.
+Appendix 3 - Detailed contents list
+115. The following is a detailed contents list for this Ruling:
+Paragraph
+Executive summary
+1
+Ruling
+4
+Section 230-120
+4
+The test in subsection 230-120(1)
+5
+Pricing, terms and conditions
+6
+Notional construct
+8
+Notional construct - legs
+9
+Notional construct - thing
+11
+Subsection 230-120(3)
+12
+Working out the financial benefits of the notional construct
+13
+Working out the gains and losses from the arrangement
+14
+How to recognise gains and losses in tax periods
+16
+Section 230-120 and swaps
+17
+Examples
+18
+Example 1 - interest rate swap with a non-periodic lump sum payment
+19
+Example 2 - cross currency swap
+21
+Example 3 - total return swap
+23
+Example 4 - credit default swap
+25
+Date of effect
+27
+Appendix 1 - Explanation
+28
+Section 230-120 - legislative context
+28
+Subsection 230-120(1)
+31
+In substance or effect
+32
+Having regard to the pricing, terms and conditions of the arrangement
+34
+Paragraph 230-120(1)(a) - two legs and, if any, one or more other things
+35
+Paragraph 230-120(1)(b) - notional principal of equal value
+40
+Paragraph 230-120(1)(c) - notional principal provided or received
+43
+Subsection 230-120(2)
+44
+Subsection 230-120(3)
+45
+Section 230-120 and swaps
+47
+Explanations for the Examples provided in this Ruling
+49
+Example 1 - interest rate swap with a non-periodic lump sum payment
+50
+Notional construct
+50
+Paragraph 230-120(3)(a) - work out financial benefits from the legs/things
+55
+Paragraph 230-120(3)(b) - work out the gains and losses from the legs/things
+56
+Accruals method - floating leg (overall gain)
+63
+Accruals method - floating leg (particular gains)
+70
+Accruals method - fixed leg (overall loss)
+74
+Accruals method - fixed leg (particular losses)
+75
+Accruals method - the swap
+80
+How the EM deals with Example 1
+81
+Example 2 - cross currency swaps
+82
+Example 3 - total return swaps
+88
+Example 4 - credit default swaps
+97
+Appendix 2 - Analysis of Example 1 according to the EM
+102
+Notional construct according to the EM
+102
+Accruals method - fixed leg (overall loss)
+104
+Accruals method - fixed leg (particular losses)
+105
+Accruals method - thing (overall gain)
+108
+Accruals method - thing (particular gain)
+110
+Comparison - tax outcomes of the two notional constructs
+112
+Appendix 3 - Detailed contents list
+115
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+All legislative references in this Ruling are to the ITAA 1997 unless otherwise indicated.
+[2]
+The rules in Division 230 provide for a number of elective methods for the taxation of financial arrangements. If those elective methods are not chosen, the default accrual/realisation methods apply. Broadly, the elective methods rely on financial accounting. This Ruling only deals with how section 230-120 applies to the taxation of swaps under the accruals/realisation rules, and does not address how swaps are taxed under the elective methods.
+[3]
+Sections 230-45 and 230-50 identify when you have a financial arrangement.
+[4]
+It is assumed that Subdivision 230-B applies to the gains and losses from the arrangements in the Examples.
+[5]
+Bank bill swap rate.
+[6]
+Effectively, Eleanor Co reduces its fixed payments by 1% (from 6% to 5%) by paying the upfront payment of $1,833.
+[7]
+$1,833 = [$100,000 x (6%-5%)]/1.06 + [$100,000 x (6%-5%)]/1.06
+2
+.
+[8]
+The payment Bronwen Co makes is calculated as: the reference amount x (100% - the price of the reference obligation, expressed as a percentage, at the time of the credit event). For example, where a reference bond that has a face value of $100 is worth $30 because of a credit event, Bronwen Co makes a payment that is the reference amount times 70%.
+[9]
+See Taxation Ruling TR 2012/4.
+[10]
+Paragraph 4.95 of the EM.
+[11]
+The Macquarie Dictionary
+does not define 'pricing'.
+[12]
+Defined at
+http://www.isda.org/educat/faqs.html
+accessed June 2015.
+[13]
+The phrase 'financial benefits' appears consistently to be used in tandem with 'notional principal' in subsections 230-120(1), (2) and (3), which suggests that the phrase 'financial benefits' means 'financial benefits not including the notional principal'.
+[14]
+As is put beyond doubt by subsection 230-120(2).
+[15]
+Parties need not contract on the basis of standard terms.
+[16]
+EM Case study 6 (in the 2nd unnumbered paragraph at page 451) states that '[s]ubsection 230-120(1) is designed on the basis of a notional principal arrangement with
+two legs of equal value
+when the entity starts to have the arrangement, with the possibility of one or more other things'. (emphasis added)
+[17]
+As throughout this Ruling, the notional construct refers to that arrangement contemplated by paragraph 230-120(1)(a), not the legal form of the arrangement. On the facts in this example, the provision and receipt of the notional principal happens in the notional construct, but not as a matter of legal form.
+[18]
+The upfront payment is calculated by reference to the notional principal as: $1,833 = [$100,000 x (6%-5%)]/1.06 + [$100,000 x (6%-5%)]/1.06
+2
+. Furthermore, considering the ordinary meaning of the word 'leg' and its context within section 230-120, it is difficult to point to anything which requires or even suggests that the financial benefits of a leg must be regular and periodic.
+[19]
+Note the contrary view in the EM discussed at paragraph 81 below.
+[20]
+Although this Ruling shows the operation of the compounding accruals method, it is expected that its results will be consistent with those of the effective interest method mentioned in the accounting standard AASB 139. The Commissioner would also accept straight line accruals where the regularity of payments is at least annual, the notional principal is the same and does not change, there are no lumpy payments (see case study 5 and case study 6 of the EM) and a consistent approach is taken with all similar amounts in accordance with section 230-80. The Example 1 swap would not qualify, as having a lumpy payment of $1,833.
+[21]
+The rate of return is calculated on the assumption that the BBSW rate will continue to have the value it does at the time Eleanor Co starts to have the swap. Any difference between the BBSW assumed and the actual BBSW will be brought to account under the balancing adjustment under section 230-175 or the re-estimation under section 230-190, which are discussed in paragraphs 68 and 69.
+[22]
+$100,000 = ($100,000 x 5%)/1.05 + [$100,000 + ($100,000 x 5%)]/1.05
+2
+[23]
+0.0134% = (1+5%)
+(1/365)
+- 1
+[24]
+Cash flows include the notional principal provided and received whether or not it is actually provided or received, as confirmed by paragraph 230-120(1)(c).
+[25]
+Again, the daily compounding accruals basis is done using a daily compounding rate of 0.0134% converted from the IRR of 5% p.a.
+[26]
+The daily compounding rate is 0.0159%, converted from the IRR of 6% p.a. (0.0159% = (1+6%)
+(1/365)
+- 1).
+[27]
+$98,167 = ($100,000 x 5%)/1.06 + [$100,000 + ($100,000 x 5%)]/1.06
+2
+[28]
+In relation to the loss of $1,833, the amount to which the daily compounding rate is applied is determined by solving this mathematical equation:
+X
+- $1,833 =
+X
+/1.06
+2
+. Therefore, X is $16,663. Then, the daily compounding rate is applied to the initial cash flow of $14,830 ($16,663 less $1,833).
+[29]
+$100,000 - $16.663 = $83,337
+[30]
+The third unnumbered paragraph in Case Study 6 (at pages 451-453) states that '[i]n these circumstances, the upfront payment is, instead, another thing'. See also paragraph 4.93 of the EM.
+[31]
+In this swap on these facts, the notional principals are exchanged in both legal form and under the notional construct.
+[32]
+This notional principal of $100m is the value of the reference portfolio.
+[33]
+This is the approach taken by Case Study 8 of the EM (at pages 460-461). The third unnumbered paragraph in Case Study 8 states that '[a]ny gains or losses on Party B's share-based leg would have to take into account financial benefits, the value of which are dependent on dividends on the reference shares, and the movement in the share price'.
+[34]
+The notional principal is not exchanged as a matter of legal form.
+[35]
+The Explanatory Memorandum to Tax and Superannuation Laws Amendment (2013 Measures No. 2) Bill 2013 which amended paragraph 230-110(2)(a) states at paragraph 8.33 as follows:
+Example 8.19
+DeFran Co holds an equity-linked bond that pays an annual coupon. When the bond matures, DeFran Co will either pay or receive an additional amount based on the performance of the issuer's listed share price.
+DeFran Co does not have regard to the additional contingent financial benefit that may become payable upon maturity when determining whether it has a sufficiently certain particular gain referable to the annual coupon. This is because that financial benefit is not a cost attributable to the receipt of the coupon payment.
+[36]
+The IRR is 6% p.a ($100,000 = ($100,000 x 6%)/1.06 + [$100,000 + ($100,000 x 6%)]/1.06
+2
+), which is converted to the daily compounding rate of 0.0159%.
+[37]
+The upfront payment of $1,833 is not a particular loss because, under subsection 230-75(2), it is required, in working out whether Eleanor Co will make a loss at a time when Eleanor Co provides a particular financial benefit ($1,833), to have regard to the extent to which the financial benefits that Eleanor Co is to receive (the two annual receipts) are reasonably attributable to the financial benefit ($1,833). Similarly, the two annual receipts are not particular gains because of subsection 230-75(1). However, the difference between the upfront payment and the two annual receipts is a particular gain.
+[38]
+$1,833 = $1,000/1.06 + $1,000/1.06
+2
+Previously released in draft form as TR 2015/D3
+References
+ATO references:
+NO  1-7AW6WX3
+ISSN: 2205-6122
+Related Rulings/Determinations:
+TR 2006/10
+TR 2012/4
+Legislative References:
+ITAA 1997
+ITAA 1997 2-35
+ITAA 1997 2-45
+ITAA 1997 Div 230
+ITAA 1997 Subdiv 230-B
+ITAA 1997 Subdiv 230-G
+ITAA 1997 230-45
+ITAA 1997 230-50
+ITAA 1997 230-55(4)
+ITAA 1997 230-70(2)
+ITAA 1997 230-75(1)
+ITAA 1997 230-75(2)
+ITAA 1997 230-80
+ITAA 1997 230-100(2)
+ITAA 1997 230-100(2)(c)
+ITAA 1997 230-100(3)
+ITAA 1997 230-100(5)
+ITAA 1997 230-105
+ITAA 1997 230-110
+ITAA 1997 230-110(1)
+ITAA 1997 230-110(2)(a)
+ITAA 1997 230-110(2)(b)
+ITAA 1997 230-115
+ITAA 1997 230-115(4)(a)
+ITAA 1997 230-115(4)(b)
+ITAA 1997 230-115(8)
+ITAA 1997 230-120
+ITAA 1997 230-120(1)
+ITAA 1997 230-120(1)(a)
+ITAA 1997 230-120(1)(a)(iii)
+ITAA 1997 230-120(1)(b)
+ITAA 1997 230-120(1)(c)
+ITAA 1997 230-120(2)
+ITAA 1997 230-120(3)
+ITAA 1997 230-120(3)(a)
+ITAA 1997 230-120(3)(a)(i)
+ITAA 1997 230-120(3)(a)(ii)
+ITAA 1997 230-120(3)(b)
+ITAA 1997 230-120(3)(b)(i)
+ITAA 1997 230-120(3)(b)(ii)
+ITAA 1997 230-120(3)(c)
+ITAA 1997 230-120(3)(c)(i)
+ITAA 1997 230-120(3)(c)(ii)
+ITAA 1997 230-125
+ITAA 1997 230-130
+ITAA 1997 230-130(1)
+ITAA 1997 230-130(3)
+ITAA 1997 230-130(4)
+ITAA 1997 230-130(4)(a)
+ITAA 1997 230-130(4)(b)
+ITAA 1997 230-130(5)
+ITAA 1997 230-135
+ITAA 1997 230-135(2)
+ITAA 1997 230-135(4)
+ITAA 1997 230-135(5)
+ITAA 1997 230-135(6)
+ITAA 1997 230-135(7)
+ITAA 1997 230-135(8)
+ITAA 1997 230-170
+ITAA 1997 230-175
+ITAA 1997 230-175(2)
+ITAA 1997 230-190
+ITAA 1997 230-190(3)(b)
+ITAA 1997 950-100(1)
+TAA 1953
+Other References:
+Explanatory Memorandum
+to the Tax Laws Amendment (Taxation of Financial Arrangements) Bill 2008
+Explanatory Memorandum
+to Tax and Superannuation Laws Amendment (2013 Measures No. 2) Bill 2013
+The Macquarie Dictionary, 2009, 5th edn, The Macquarie Library Pty Ltd, NSW
+The New Shorter Oxford English Dictionary, 1993, Clarendon Press, Oxford
+Back to top

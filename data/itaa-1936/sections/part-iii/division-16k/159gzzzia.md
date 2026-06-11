@@ -15,7 +15,6 @@ source_pdf: "vol03.pdf"
 
 # 159GZZZIA  Application of Division to non-share dividends
 
-
 <a id="s159GZZZIA-1"></a>
 **(1)**  This Division:
 

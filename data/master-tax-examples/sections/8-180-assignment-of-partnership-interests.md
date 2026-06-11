@@ -1,0 +1,33 @@
+---
+act: "Australian Master Tax Examples"
+part: "8"
+section: "8-180-assignment-of-partnership-interests"
+title: "8-180 - Assignment of partnership interests"
+paragraph: "None"
+---
+
+# 8-180 - Assignment of partnership interests
+
+Worked example: Assignment of partnership interests Issue Adam North and Sally Marsden have been in partnership since 1 July 1995, sharing profits and losses equally. For the year ended 30 June 2025, the net income of the partnership was $210,000.
+
+The balance sheet at 30 June 2025 showed: Assets                                                                                                              $            $ Cash at bank                                                                                                                 15,000 Debtors                                                                                                         11,800 Less: Provision for doubtful debts                                                                               (800)       11,000 Trading stock (at cost) (market value is $180,000)                                                                       120,000 Fixed assets                                                                                                230,000 Less: Accumulated depreciation                                                                              130,000      100,000 246,000 Less: Liabilities — Creditors                                                                                   10,000 — Loan                                                                                    16,000   (26,000) NET ASSETS                                                                                                                       220,000 Represented by: Capital — Adam                                                                                                           110,000 — Sally                                                                                                       110,000 220,000 On 1 June 2025, Adam makes an equitable assignment of half of his partnership interest to his wife, Laura, for consideration of $80,000. This entitles Laura to half of any amounts Adam receives as a partner, but it does not make Laura a partner.
+
+How does this affect the tax liability of Adam?
+
+Solution An assignment of half of Adam’s interest in the partnership to Laura constitutes a disposal of a post- CGT asset and triggers CGT event A1 for Adam. Each partner has an interest in owning a part of each partnership asset and consequently an assignment of an interest results in a change in ownership (ITAA97 ss 106-5 and 108-5(2)). In this case, as the capital proceeds of $80,000 exceed $55,000 ($110,000 × 50%), that is, Adam’s one-half share of the capital, on face value a taxable gain of $25,000 would arise.
+
+However, it is noted that in this case Adam’s assignment was not at arm’s length and consequently the capital proceeds deemed to be received are based on the market value of the assigned assets despite the passing of consideration from Adam’s wife (ITAA97 s 116-30(2)(b)). See also Reynolds v Commissioner of State Taxation (WA) 86 ATC 4528.
+
+The assignment will be effective from 1 July 2025 when the partnership commenced as the net income from the partnership is not derived until the end of the year.
+
+See FC of T v Galland 86 ATC 4885 and Taxation Ruling IT 2501 which indicates that valid assignments consistent with the decisions in FC of T v Everett 80 ATC 4076 and Galland are acceptable and not subject to the anti-avoidance provisions, a position that was accepted by the ATO for many years. In 2015, the ATO varied its position concluding that an Everett assignment could constitute a tax avoidance arrangement when one of the ATO’s pre-defined benchmarks was not satisfied. In 2021, the ATO released Practical Compliance Guideline PCG 2021/4 (Allocation of professional firm profits – ATO compliance approach), which provides a risk assessment framework to assist individual partners in self-assessing their risk. Broadly, the guideline applies where 2 gateways are passed; the first is where an individual professional practitioner’s (IPP’s) arrangement for allocating their professional firm profits has a genuine commercial basis and the second is where the arrangement does not contain high-risk features. Where an IPP’s circumstances pass the 2 gateways, the risk assessment framework explained in the guideline may be used by the practitioner and the ATO to understand whether further attention may be given to the arrangement. The application of these guidelines will need to be carefully considered in Adam’s case, since the amounts of income that Adam receives from the partnership (compared to the amounts that Laura receives) may trigger an ATO audit on the basis that there is a risk that income earned by Adam is not appropriately taxed to him.
+
+A situation that may prevent a valid assignment could be where a revocation clause exists in the relevant deed of assignment and ITAA36 s 102 applies, which renders the assignment ineffective (see Taxation Ruling IT 2501). There is no evidence of this in the present case.
+
+When considering the deduction available to the assignor partner (Adam), Taxation Ruling IT 2608 should also be considered with regard to the allocation of expenses.
+
+It is noted that Adam’s capital gain may also be reduced by the 50% CGT discount given the event took place after 21 September 1999 and the asset was held for more than 12 months. This is also based on the assumptions that Adam is an Australian resident and has not elected to employ the indexation method in calculating his capital gain.
+
+The CGT small business concessions will not be available. For CGT events that occur after 7.30 pm in the Australian Capital Territory on 8 May 2018, the small business CGT concessions are only available for CGT events involving a right or interest in a partnership if the right or interest would be sufficient to make the entity holding the right or interest a partner (including, for example, the transfer of all or part of a partner’s share in a partnership to another entity, making that other entity a partner or increasing their existing share in the partnership). Other rights and interests are not membership interests within the meaning of the income tax law and cannot satisfy the new condition. In this case, the interest transferred to Laura does not make her a partner, which excludes the application of the CGT concessions.
+
+*Refs: s 106-5, ITAA97 s 116-30(2)(*

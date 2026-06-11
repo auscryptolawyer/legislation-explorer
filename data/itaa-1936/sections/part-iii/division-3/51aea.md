@@ -15,7 +15,6 @@ source_pdf: "vol01.pdf"
 
 # 51AEA  Meal entertainment—election under section 37AA of Fringe Benefits Tax Assessment Act 1986 to use 50/50 split method
 
-
 <a id="s51AEA-1"></a>
 **(1)**  If a meal entertainment fringe benefit arises for a taxpayer for an FBT year and the taxpayer elects that Division 9A of Part III of the Fringe Benefits Tax Assessment Act 1986 applies to the taxpayer for the FBT year, and has not elected that Subdivision C of that Division applies:
 

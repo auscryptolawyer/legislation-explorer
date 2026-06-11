@@ -1,0 +1,995 @@
+Legal database
+Legal database
+Contents
+Email
+Print
+Back to browse
+Law Companion Ruling
+LCR 2020/1
+JobKeeper payment - original decline in turnover test
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+8
+Background
+9
+The test time
+11
+GST turnover and modifications for the JobKeeper scheme
+19
+Step A - Supplies included in projected GST turnover and current GST turnover
+20
+No supply - donations and gifts
+21
+Exceptions under the Payments and Benefits Rules
+22
+Government grants
+24
+GST religious groups
+26
+Supplies excluded under both current and projected GST turnover
+27
+Supplies that are input taxed
+28
+Supplies not connected with Australia
+30
+Supplies for which you are not the supplier
+33
+Supplies excluded only under projected GST turnover
+34
+Alternative methods to working out when a supply is made
+36
+Step B - Allocating supplies to relevant periods
+38
+Allocation of supplies to a relevant comparison period or turnover test period
+39
+Principles accepted by the Commissioner to determine when a supply is made
+42
+Supplies not made on a progressive or periodic basis
+42
+Supplies made on a progressive or periodic basis
+47
+Deemed supplies by charities and deductible gift recipients
+48
+When is a supply likely to be made
+49
+ATO compliance approach - tolerance around predicting likely supplies
+53
+Deemed supplies likely to be made by charities and deductible gift recipients
+55
+Example 1 - predicting supplies
+56
+Example 2 - predicting supplies - impact of government COVID-19 restrictions
+57
+Step C - Determining the value of supplies allocated to a relevant period
+59
+Changes to value that you are required to take into account
+66
+GST adjustment events
+71
+Deemed supplies by charities and deductible gift recipients
+72
+ATO compliance approach - alternative methods for applying Steps B and C
+73
+Alternative method one - accrual accounting
+75
+Alternative method two - GST attribution basis
+76
+GST adjustment events
+78
+Using a GST cash or accruals (non-cash) basis
+80
+Alternative method three - income tax accounting (if not registered for GST)
+86
+Other requirements where you use one of the alternative methods
+87
+Examples
+89
+Example 3 - sale of accommodation
+90
+Time of supply method
+92
+GST attribution method
+93
+Example 4 - actual supplies higher than predicted
+96
+Relying on this Ruling
+This Ruling is not a 'public ruling' for the purposes of the
+Taxation Administration Act 1953.
+The Ruling is, however, administratively binding on the Commissioner of Taxation.
+What this Ruling is about
+1. A decline in turnover test (the original decline in turnover test)was introduced by the
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020
+(the Payments and Benefits Rules)
+[1]
+and is one of the criteria for determining eligibility for the JobKeeper payment.
+[2]
+For JobKeeper fortnights from 28 September 2020 (the JobKeeper extension), an actual decline in turnover test has been introduced and is an additional requirement for eligibility for the JobKeeper payment.
+[2A]
+1A. Entities that satisfied the original decline in turnover test for JobKeeper fortnights before 28 September 2020 do not need to satisfy the original test again for the JobKeeper extension. They only need to consider whether they satisfy the actual decline in turnover test.
+1B. Entities seeking to enrol in the JobKeeper scheme for the first time for fortnights from 28 September 2020 must satisfy both the original and actual decline in turnover tests. Generally, entities will not need to consider in detail the original decline in turnover test for JobKeeper fortnights beginning from 28 September 2020. If an entity first seeks to qualify for the scheme for a fortnight beginning on or after 28 September 2020, then unless you are a university that is a Table A provider
+[2B]
+, we accept that satisfying the actual decline in turnover test for one turnover test period means that you satisfy the original decline in turnover test because:
+•
+the same turnover test period (either the quarter starting 1 July 2020 or the quarter starting 1 October 2020) can be used for both tests
+•
+current GST turnover does not exclude supplies discussed at paragraph 34 of this Ruling and therefore the current GST turnover, for the turnover test period, will always be equal to or more than projected GST turnover for the same turnover test period, and
+•
+the method that must be used for allocating supplies to the turnover test period and relevant comparison period under the actual decline in turnover test is a method that can be used for the original decline in turnover test.
+1C. This Ruling is relevant to the original decline in turnover test. In this Ruling, when we refer to the 'decline in turnover test', we are referring to the original decline in turnover test.
+1D. The decline in turnover test requires you to calculate 'current GST turnover' and 'projected GST turnover', which are terms defined in Division 188 of the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act), subject to modifications to those definitions by the Payments and Benefits Rules.
+2. To assist you in working out if you have met the decline in turnover test this Ruling covers the following:
+•
+Step A - what supplies are relevant when calculating projected GST turnover and current GST turnover
+•
+Step B - how you allocate supplies to relevant periods
+•
+Step C - how you determine the value of each supply that has been allocated to a relevant period, and
+•
+the ATO compliance approach, which effectively allow you to work out Step B and Step C at the same time.
+2A. The actual decline in turnover test also requires you to calculate 'current GST turnover', subject to the same modifications as for the original test. However, there are differences between the two tests. The actual decline in turnover test:
+•
+must be done for specific quarterly periods
+•
+does not use projected GST turnover
+•
+has specific rules for allocating supplies to relevant periods under a legislative instrument that specifies the time when a supply is taken to be made.
+[2C]
+2B. This Ruling does not cover the actual decline in turnover test in detail -
+ato.gov.au
+includes material on the actual decline in turnover test. However, the following paragraphs of this Ruling discuss issues that are equally relevant to both tests:
+•
+paragraphs 19 to 33 of this Ruling about the meaning of current GST turnover
+•
+paragraph 72 of this Ruling on the value of deemed supplies by charities and deductible gift recipients.
+3. This Ruling sets out the Commissioner's view of the law and if you follow that view in good faith, it will be administratively binding on the Commissioner. The Ruling also recognises that the application of the law may be practically difficult for certain entities depending on their circumstances and those circumstances will vary considerably between entities. Accordingly, this Ruling also sets out practical compliance approaches which can be applied by an entity to calculate its turnover.
+4. This Ruling supplements guidance on
+ato.gov.au
+in relation to the Payments and Benefits Rules. It is not our intent to focus compliance resources on circumstances where you have already used guidance on our website in good faith to determine whether you satisfy the decline in turnover test. The reason for this Ruling is that we are continuing to receive questions about some aspects of the turnover test that require further explanation in a product of this type. It is intended to assist those who have not yet applied the turnover test and are still considering if they are eligible for JobKeeper. This Ruling is not, however, intended to provide comprehensive advice on all aspects of the Payments and Benefits Rules, and we encourage reference to published material on
+ato.gov.au.
+5. This Ruling does not directly address the alternative tests for decline in turnover in the
+Coronavirus Economic Response Package (Payments and Benefits) Alternative Decline in Turnover Test Rules 2020.
+[2D]
+However, the principles in this Ruling may assist you in applying the alternative tests.
+[3]
+6. The Ruling does not address amendments to the Payments and Benefits Rules made by
+Coronavirus Economic Response Package (Payments and Benefits) Amendment Rules (No. 2) 2020.
+[4]
+If you are a university, an entity that is registered with the Australian Charities and Not-for-profits Commission (ACNC) (other than a school or university) or an entity whose principal activity is supplying labour services to other members of a group then the amendments to the Payments and Benefits Rules may affect your decline in turnover test calculation.
+7. This Ruling does not consider the application of section 19 of the
+Coronavirus Economic Response Package (Payments and Benefits) Act 2020,
+which allows the Commissioner to make a determination that an entity is not entitled to some or all of a JobKeeper payment where, broadly, a scheme is entered into or carried out for the sole or dominant purpose of receiving that payment or part of that payment. This may include schemes entered into or carried out for the sole or dominant purpose of satisfying the original and actual decline in turnover tests. The ATO's approach to this section is explained in Practical Compliance Guideline
+PCG 2020/4
+Schemes in relation to the JobKeeper payment.
+Date of effect
+8. This Ruling is administratively binding on the Commissioner and applies from 9 April 2020. This Ruling is not able to be made legally binding on the Commissioner, as the provisions on which it provides advice are not within the legally binding framework for public rulings in Schedule 1 of the
+Taxation Administration Act 1953.
+An explanation of the protections afforded by administratively binding advice is provided in paragraphs 199 to 204 of Law Administration Practice Statement
+PS LA 2008/3
+Provision of advice and guidance by the ATO.
+[5]
+Background
+9. The Payments and Benefits Rules provide that an entity satisfies the decline in turnover test at a time (the test time) if:
+•
+the entity's
+projected GST turnover
+for a turnover test period in which the test time occurs falls short of the entities
+current GST turnover
+for a relevant comparison period (the comparison turnover), and
+•
+the shortfall, expressed as a percentage of the comparison turnover, equals or exceeds the specified percentage for the entity.
+[6]
+10. The decline in turnover test applies to both entities that are registered and not registered for GST in determining if they are eligible for the JobKeeper payment.
+The test time
+11. The
+turnover test period
+[7]
+must be:
+•
+a calendar month that ends after 30 March 2020 and before 1 January 2021 (that is, March 2020, April 2020, May 2020, June 2020, July 2020, August 2020, September 2020, October 2020, November 2020 or December 2020), or
+•
+a quarter that starts on 1 April 2020, 1 July 2020 or 1 October 2020.
+12. The
+relevant comparison period
+[8]
+must be the period in 2019 that corresponds to the turnover test period.
+13. In this Ruling we use the term
+relevant period
+when explaining concepts that apply to both the turnover test period and the relevant comparison period.
+14. You can choose whether you are comparing monthly or quarterly periods.
+[9]
+You can choose to compare the relevant month or quarter, regardless of whether you report quarterly or monthly for GST reporting.
+[10]
+In addition, if you are a member of a GST group, you are not required to choose the same period as the other entities of the group for the purposes of applying the decline in turnover test.
+15. To qualify for the JobKeeper payment for a fortnight ending before 28 September 2020, an entity must satisfy the qualification requirements in section 7 'at or before the end of the fortnight'. This means that the relevant turnover test period in which the test time occurs can be in the month or quarter in which some or all of the fortnight occurs. The turnover test period can also be an earlier month or quarter. However, this was also limited by subsection 8(7)
+[10A]
+which provided that a turnover test period must be a calendar month that ends after 30 March 2020 and before 1 October 2020, or a quarter that starts on 1 April 2020 or 1 July 2020. Accordingly, the month of March 2020 is the first month that can be tested, and the quarter starting 1 April 2020 is the first quarter that can be tested.
+16. Therefore, for qualification from the start of the scheme, the turnover test period month used can be either March 2020 or April 2020 or if you use a turnover test period quarter, you must use the one starting on 1 April 2020. To qualify at a later time, you must use the turnover test period month or turnover test period quarter in which the first fortnight for which you claim the JobKeeper payment ends, or an earlier turnover test period month or turnover test period quarter.
+17. You only need to satisfy the decline in turnover test once. You don't need to test your turnover in the following months or quarter. However, there are ongoing monthly turnover reporting requirements.
+[11]
+The information you provide in accordance with those reporting requirements does not affect your ongoing eligibility for JobKeeper payments.
+18. The Commissioner acknowledges that the comparison of turnover in the relevant month or quarter will generally be calculated by most entities at or shortly before either the time that the entity elects to participate in the JobKeeper scheme (under paragraphs 6(1)(e) or 11(1)(e)), or the time the entity gives the Commissioner information about its entitlement for the first fortnight for which it claims the JobKeeper payment. This means the time when you actually make this calculation may be after your test time (after the end of your turnover test period).
+GST turnover and modifications for the JobKeeper scheme
+19. The Payments and Benefits Rules modify 'current GST turnover' and 'projected GST turnover' in the GST Act as follows:
+•
+They are calculated for the relevant period being tested rather than for 12 months.
+[12]
+•
+Where an entity is part of a GST group, the entity calculates the turnover as if it wasn't part of the GST group.
+[13]
+This means supplies made by one group member to another are included.
+[14]
+•
+Unless received from an associate, they include:
+-
+certain gifts received by a deductible gift recipient
+[15]
+-
+gifts of money, property (with a market value of more than $5,000) and listed Australian shares received by an ACNC-registered charity (that is not a deductible gift recipient).
+[16]
+•
+External Territories (for example, Norfolk Island) are treated as forming part of the indirect tax zone.
+[17]
+•
+There are some other modifications for universities, and for ACNC-registered charities (other than schools and universities).
+[18]
+Step A - Supplies included in projected GST turnover and current GST turnover
+20. Unless an exception applies
+[19]
+, the term 'supplies' in the definition of current GST turnover
+[20]
+and projected GST turnover
+[21]
+refers to all supplies
+[22]
+and is not limited to taxable supplies.
+[23]
+No supply - donations and gifts
+21. The receipt of a donation or a gift is not consideration for making a supply. As such, except for the modifications under the Payments and Benefits Rules, the payments or the market value of the gift are not relevant in calculating current GST turnover and projected GST turnover.
+Exceptions under the Payments and Benefits Rules
+22. Unless received from an associate, the following receipts are treated as being consideration for making a supply:
+•
+the receipt of certain gifts
+[23A]
+by a deductible gift recipient
+[24]
+•
+gifts of money, property (with a market value of more than $5,000) and listed Australian shares received by an ACNC-registered charity (that is not a deductible gift recipient).
+[25]
+23. How these amounts are allocated to the relevant period is discussed under Step B (see paragraphs 38 to 58 of this Ruling) and the value of these amounts is discussed in Step C (see paragraphs 59 to 72 of this Ruling).
+Government grants
+24. Government payments made to you that are not consideration for a supply are not included in calculating your GST turnover. Whether a government grant is consideration for a supply is considered in Goods and Services Tax Ruling
+GSTR 2012/2
+Goods and services tax: financial assistance payments.
+[26]
+25. For example, the following government payments are not consideration for a supply and therefore not included in GST turnover:
+•
+JobKeeper payment
+•
+cash flow boost payment
+•
+the Early Childhood Education & Care Relief Package paid to approved child care providers
+[27]
+•
+payment of grants to an entity where the entity has no binding obligations to do anything or does not provide goods and services in return for the monies.
+GST religious groups
+26. Division 49 of the GST Act allows GST-registered entities that are part of the same religious organisation to form a GST religious group. Unlike GST groups in Division 48 of the GST Act, each member of the GST religious group accounts for its own GST. A member of a GST religious group needs to consider all their own supplies, including supplies to other members that are not taxable supplies due to membership.
+Supplies excluded under both current and projected GST turnover
+27. The following supplies are excluded from the calculation of current GST turnover and projected GST turnover as modified under the Payments and Benefits Rules:
+•
+supplies that are input taxed (see paragraphs 28 and 29 of this Ruling)
+[28]
+•
+supplies not connected with Australia (see paragraphs 30 to 32 of this Ruling)
+•
+certain supplies for which you are responsible for the GST but for which you are not the supplier (see paragraph 33 of this Ruling)
+•
+supplies that are not for consideration (and are not taxable supplies between associates under section 72-5 of the GST Act)
+•
+supplies not made in connection with an enterprise that you carry on (for example, the sale of your private motor vehicle).
+Supplies that are input taxed
+28. Division 40 of the GST Act sets out the supplies that are input taxed supplies. These include:
+•
+financial supplies (such as lending money or the provision of trade credit for a fee)
+•
+selling or renting out residential premises (other than new residential premises)
+•
+precious metals
+•
+where a valid choice is in place to treat supplies as input taxed
+-
+supplies of food by not-for-profit body through school tuckshops and canteens
+[29]
+-
+supplies connected with fundraising events conducted by charities and gift deductible entities
+[30]
+-
+supplies of commercial accommodation where the supplier has chosen not to apply Division 87 of the GST Act to their supplies.
+[31]
+29. Except in the circumstances where a supplier has chosen for a supply to be treated as an input taxed supply, to the extent a supply can be both GST-free and input taxed, the supply is GST-free.
+[32]
+Supplies not connected with Australia
+30. Generally, only supplies connected with Australia are included in projected GST turnover and current GST turnover. The GST Act defines Australia by reference to the indirect tax zone. The indirect tax zone is the area of Australia covered by the GST Act and this area does not include external Territories. Under modifications to the definitions of current GST turnover and projected GST turnover in the Payments and Benefits Rules, the external Territories
+[33]
+(for example, Norfolk Island) are to be treated as being part of the indirect tax zone.
+31. For an Australian entity the most common supplies that are not connected with Australia will be:
+•
+supplies of services not made through a business you carry on in Australia
+[34]
+•
+supplies of goods purchased and sold from a place outside Australia
+[35]
+•
+sale of real property situated outside Australia.
+[36]
+32. Except for input taxed supplies, supplies that are connected with Australia are included in calculating current GST turnover and projected GST turnover. A supply of goods that involves the goods leaving Australia is a supply connected with Australia and may also be a GST-free export.
+[37]
+Supplies for which you are not the supplier
+33. For supplies that you are responsible for under the GST Act, you:
+•
+do not include acquisitions for which you are responsible for paying the GST to the ATO through reverse charge
+[38]
+•
+do not include supplies by a non-resident principal made through you as their resident agent
+[39]
+•
+are not required to include supplies in which you are an intermediary and you have an agreement under Subdivision 153-B of the GST Act in place with the supplier. Despite the GST law treating you as the supplier you are entitled to calculate your GST turnover as if that agreement was not in place.
+[40]
+Supplies excluded only under projected GST turnover
+34. A business may intend on making substantial changes to their structure and operations as part of responding to COVID-19. When working out your projected GST turnover, section 188-25 of the GST Act requires you to disregard the following:
+•
+any supply made, or likely to be made, by you by way of transfer of ownership of a capital asset of yours, and
+•
+any supply made, or likely to be made, by you solely as a consequence of
+-
+ceasing to carry on an enterprise, or
+-
+substantially and permanently reducing the size or scale of an enterprise.
+[41]
+35. A 10% reduction is generally accepted as a substantial reduction in size and scale (a smaller reduction may be substantial depending on the particular circumstances of the enterprise). The reduction will be permanent if it is enduring but not if it is reasonable to expect the reduction will end, for example in one or two years. This means that, for example, where an entity decides to close one out of its 10 stores in its business and sells that store, the income from selling the store or selling the assets used in the store would be excluded when calculating projected GST turnover.
+[42]
+Alternative methods to working out when a supply is made
+36. As an alternative to allocating a supply to a relevant period (Step B) and then determining its value (Step C) based
+strictly
+on the time the supply is made (which may be practically difficult to determine for the reasons explained in paragraph 41 of this Ruling), the Commissioner will allow you to use alternative methods to allocate supplies to a relevant period and determine the value of those supplies under the ATO compliance approach in paragraphs 73 to 88 of this Ruling. These alternative methods are:
+•
+accrual accounting
+•
+GST attribution basis
+•
+income tax accounting - if you are not registered for GST.
+37. If you are adopting one of the alternative methods outlined in the ATO compliance approach, you do not need to apply Steps B and C. Instead, you can apply the alternative methods.
+Step B - Allocating supplies to relevant periods
+38. In allocating supplies to the right period, you need to:
+•
+allocate supplies to the
+turnover test period
+[43]
+(that is, the relevant month or quarter in 2020) to work out
+projected GST turnover
+•
+allocate supplies to the
+relevant comparison period
+[44]
+(that is, the month or quarter in 2019 that corresponds to the turnover test period) to work out
+current GST turnover
+.
+Allocation of supplies to a relevant comparison period or turnover test period
+39. Your current GST turnover during a relevant comparison period is the sum of the value
+[45]
+of all the supplies you have made during that period.
+[46]
+40. Your projected GST turnover during a turnover test period is the sum of the value
+[47]
+of all the supplies you have made, or are likely to make during that period.
+[48]
+Depending on when you calculate your projected GST turnover, you may or may not need to predict future supplies that you are likely to make. For example, if your turnover test period is March 2020 and you are calculating your projected GST turnover during April 2020 then you only need to consider the supplies you made during March 2020. However, if your turnover test period is the quarterly period starting on 1 April and ending on 30 June, and you are calculating your projected GST turnover for this period on 1 May 2020, then you do need to calculate the supplies you have made from 1 April and also the supplies you are likely to make from 1 May 2020 up to and including 30 June 2020.
+41. When a supply is made (time of supply) is determined in each case by reference to the terms of the particular contract, if applicable, and the nature of the supply.
+[49]
+Unless you use the ATO compliance approach outlined in paragraphs 73 to 88 of this Ruling (about using the GST attribution rules as proxy for determining the value of supplies made in a relevant period), the attribution rules in Division 29 of the GST Act are not relevant in determining when a supply is made and therefore are not, strictly speaking, relevant in determining current GST turnover or projected GST turnover for a period. The ATO compliance approach is made available because determining the 'sum of the value of the supplies made' during the relevant period is likely to be difficult for many businesses as:
+•
+It is often difficult to determine with certainty the time of supply and largely unnecessary as the practical operation of the GST system is heavily based on payment and invoicing (GST attribution). A supply does not necessarily happen at a single moment in time, but can take place over a period of time. Moreover, a single transaction for which consideration is paid, may in fact consist of more than one supply occurring at different times, although GST will only be paid once in the period of attribution.
+[50]
+•
+If the time of supply is different to how an entity has recorded supplies for GST attribution purposes, there is likely to be a high compliance burden on the entity in tracing supplies to the relevant period. Tracing the goods to the time of supply before allocating any supplies to the relevant period may have a high compliance cost.
+Principles accepted by the Commissioner to determine when a supply is made
+Supplies not made on a progressive or periodic basis
+42. For supplies that are not made on a progressive or periodic basis, we accept that 'when a supply is made' can be determined consistently with the principles in section 6 of the
+A New Tax System (Goods and Services Tax Transition) Act 1999
+(GST Transition Act).
+43. A supply of goods is made:
+•
+when the goods are removed
+•
+if the goods are not removed - when the goods are made available to the recipient
+•
+if the goods are removed before it is certain that a supply will be made (for example, if the goods are given or taken on approval, sale or return, or similar terms) - when it becomes certain that a supply has been made.
+44. A supply of real property is made when the property is made available to the recipient. In the case of a sale this is generally at settlement. A supply of real property includes the supply of accommodation.
+[51]
+45. A supply of services is made when the services are performed.
+46. A supply of anything other than goods, real property or services is made when the thing is performed or done.
+Supplies made on a progressive or periodic basis
+47. For supplies made on a progressive or periodic basis we accept the service, right or lease of goods or real property is made:
+•
+on a continuous and uniform basis throughout the period
+[52]
+, or
+•
+when the revenue for the service, right or lease of goods or real property is recognised in financial reports prepared in accordance with accounting principles relevant to your business and those accounting principles require the revenue to be recognised at the time the relevant supply is made.
+[53]
+Deemed supplies by charities and deductible gift recipients
+48. For the supplies covered by paragraph 22 of this Ruling, the supplies are made at the time the gifts are received.
+[54]
+When is a supply likely to be made
+49. It may be necessary to determine the supplies that an entity is likely to make in a turnover test period where the projected GST turnover is being calculated before the turnover test period has ended. The expression 'likely to be made' means that on the balance of probabilities, it can be predicted that the supply is more likely than not to be made.
+[55]
+Such a prediction will include making a reasonable determination as to whether, or the extent to which, you would stay open for the remainder of the turnover test period based on your business circumstances at the time the projected GST turnover for that period is being calculated. For the purpose of determining supplies likely to be made, we will accept a calculation based on a bona fide business plan, accounting budget or some other reasonable estimate based on the evidence about the projected facts and circumstances for the remainder of the turnover test period. The evidence must have been in existence at the time you calculate the projected GST turnover.
+50. The principles discussed in this section of the Ruling about when a supply is 'likely to be made' and predicting future supplies also apply if you are using an ATO compliance approach method.
+51. Relevant evidence which would support a prediction of supplies likely to be made may include:
+•
+a decline in supplies during the turnover test period or since 1 March 2020 as a result of government COVID-19 restrictions
+•
+customers cancelling or modifying existing contracts for supplies on or from 1 March 2020
+•
+being required to close or pausing the business due to government COVID-19 restrictions
+•
+delays in being able to get access to trading stock sourced from overseas on or from 1 March 2020
+•
+evidence of your business's reliance on tourism
+•
+any consequential impact on the price of what you supply, for example, the impact on the market value of new property being sold by a developer
+•
+information known to the business, whether or not publicly available
+•
+economic forecasts undertaken by a reputable organisation that are relevant to your type of business
+•
+the likely timing of government COVID-19 restrictions being lifted for your type of business based on government announcements.
+52. It is acknowledged that the actual supplies you make during a turnover test period might ultimately differ from the supplies you had predicted and that this could, in part, be the result of the positive impact on your business of receiving JobKeeper payments. In calculating your projected GST turnover you are not expected to take into account the impact that the JobKeeper payments may have on your ongoing business. To do this would be to presume the answer to the very question you are asking.
+ATO compliance approach - tolerance around predicting likely supplies
+53. Your projected GST turnover needs to be a reasonable assessment of what was likely at the point in time you calculated the test. If it later eventuates that your actual turnover for your turnover test period is greater than your prediction of your projected turnover, you do not lose access to the JobKeeper scheme. The Commissioner will accept your assessment of these turnovers unless he has reason to believe that your calculation of your projected GST turnover was not reasonable.
+54. If there is a significant difference between your projected turnover, and what eventuates, we would likely make further enquiries to ascertain whether your assessment of what was likely to happen was reasonable. Keeping good records, similar to those outlined in paragraph 51of this Ruling, explaining how you undertook the calculation will be necessary to show how you took reasonable steps.
+Deemed supplies likely to be made by charities and deductible gift recipients
+55. For the supplies covered by paragraph 22 of this Ruling, the supplies are likely to be made at the time the gifts are likely to be received.
+[56]
+Example 1 - predicting supplies
+56.
+John owns a hairdressing salon with two employees, who are paid $750 each week in wages. In the last week of March 2020, John's supplies declined and he only made supplies with a value of $2,000. John chooses to use the quarter starting 1 April 2020 and ending 30 June 2020 as his turnover test period. On 30 April, John calculates the supplies he has made from 1 April to 30 April 2020, and also needs to predict his likely supplies from 30 April up to 30 June 2020. In making a reasonable prediction of his likely supplies to the end of his turnover test period, John calculates his likely supplies on the basis that he is able to keep the salon open based on his current circumstances. He could use the supplies he receives during the last week of March, and the supplies made from 1 April as a starting point to predict the supplies during the remainder of the turnover test period.
+Example 2 - predicting supplies - impact of government COVID-19 restrictions
+57.
+Lilly owns a swim school. Due to government COVID-19 restrictions she is unable to continue with swimming lessons. Lilly is unsure when the restrictions will be lifted and she can again start offering swimming lessons.
+58.
+The projected GST turnover should be based on what Lilly knows at the time she calculates her turnover. As such if it is unlikely that Lilly will be able to re-open the swimming pool during the turnover test period, then it is reasonable for Lilly to predict that she will have no swimming related supplies in her test period. Lilly needs to keep a record of the information used to show how she took reasonable steps in predicting likely supplies. The evidence must have been in existence at the time you calculate the projected GST turnover (see paragraphs 49 to 54 of this Ruling).
+Step C - Determining the value of supplies allocated to a relevant period
+59. Once you have allocated your supplies to the relevant periods by applying the principles outlined in Step B you need to determine the
+value
+of those supplies.
+[57]
+Your current GST turnover is the sum of the respective values (price excluding GST) of the supplies you made in your 2019 relevant comparison period. Your projected GST turnover is the sum of the respective values (price excluding GST) of the supplies you have made or are likely to make in your 2020 turnover test period.
+60. The value of a supply that is a:
+•
+taxable supply is the GST-exclusive price of the supply
+[58]
+•
+non-taxable supply (that is, a GST-free supply) is the price of the supply.
+[59]
+61. In some cases the amounts you might use for GST reporting purposes may not reflect the value of the supplies for the decline in turnover test. For example:
+•
+For supplies of real property where the GST is calculated under the margin scheme - you will need to include the full value of the supply of real property not just the margin.
+•
+If the total value of the supply is not known at the time you make the supply and
+Goods and Services Tax: Particular Attribution Rules Where Total Consideration is Not Known Determination 2017
+applies to that supply, we accept you can either:
+-
+include a value for the supply based on the GST you have attributed to the relevant period in accordance with that Determination provided you have used the Determination for attributing the GST on that category of supplies in both relevant periods, or
+-
+if the supply is made only in the relevant period
+[60]
+, you can include a value for the supply based on the known consideration, and a reasonable estimate of the likely future consideration. This needs to be based on evidence, such as the actual total consideration for that category of supplies that you have made in the past, and
+-
+if you use either the above methods, you must use the same method in calculating both the 2019 relevant comparison period and 2020 turnover test period, and apply that method to all supplies of that type.
+62. For your 2019 relevant comparison period, the calculation of the value of your supplies is determined at the end of the period.
+[61]
+63. For your 2020 turnover test period, the calculation of the value of your supplies can be determined during or at the end of the period.
+64. The value of a supply, including GST-free supplies
+[62]
+, can fluctuate due to later events that change the original value of a supply. Such events include:
+•
+refunds on cancelled supplies and returns
+•
+discounts
+•
+the settling or compromising of a debt, but not writing off a bad debt or making a bad debt adjustment, as that doesn't change the value of the supply
+[63]
+•
+a security deposit forfeited or applied as all or part of the consideration for a supply.
+[64]
+65. We recognise that taking into account fluctuations in value may be practically difficult for some businesses. We have set out in paragraphs 66 to 72 of this Ruling the Commissioner's view on what changes in value are required to be taken into account in calculating current GST turnover and project GST turnover.
+Changes to value that you are required to take into account
+66. In your 2019 relevant comparison period, the only events that will have an impact on the calculation of your current GST turnover are those that occur in the period and change the value of the supplies that you have allocated to the period.
+67. For your 2019 relevant comparison period, because current GST turnover is determined at the end of the period, you are not required to take into account any event that occurs after the period that would otherwise change the value of the supply you have allocated to the period.
+68. For your 2020 turnover test period, if your test time for projected GST turnover is at the end of the period then, as for the 2019 comparison period, you are not required to take into account any event that occurs after the period that would otherwise change the value of the supply you have allocated to the period.
+69. However if your test time for projected GST turnover for your 2020 turnover test period is before the end of the period, we accept you can take into account events that are likely to occur up to the end of that period that would change the value of the supply you have allocated to that period.
+[65]
+70. A consequence of determining turnover in a period when the supply is made, and potentially before it is billed, or consideration is paid, is in some cases the value is not yet known at that time. For these cases an objective assessment of the value ought to be made that can take into account normal business practice and experience. This can be relevant where there is unbilled revenue for services that have been performed in the period, and it is ordinary practice not to bill all revenue. This can occur when the amount payable will be reduced for prompt payment, and this is likely to occur but will happen after the relevant period. Once the value has been determined, any other events which may happen after the relevant period and change value cannot be taken into account.
+GST adjustment events
+71. If you make adjustments for GST reporting purposes, this means that:
+•
+Adjustment events (that would be recognised for GST reporting purposes for a GST reporting period that coincides with a relevant period
+[66]
+) that change the value of supplies and occur
+[67]
+in the relevant period are only taken into account in determining the value of a supply to the extent that they relate to the value of supplies you have already allocated to the period. Adjustments that you take into account for GST reporting purposes during a relevant period, but which relate to supplies to another period are not relevant and should be excluded from your turnover calculation for the relevant period where practicable to do so.
+•
+Adjustments for bad debts under Division 21 of the GST Act are not taken into account as there is no change in the value of the supply.
+[68]
+Deemed supplies by charities and deductible gift recipients
+72. For the receipt of gifts that are treated as supplies (see paragraph 22 of this Ruling) the value of the gift is the:
+[69]
+•
+amount of the gift (if the gift is money), or
+•
+market value of the gift (if the gift is not money)
+ATO compliance approach - alternative methods for applying Steps B and C
+73. As outlined at paragraphs 49 to 52 of this Ruling, it is necessary to allocate supplies made, or likely to be made, to a turnover test period or relevant comparison period based on when the supply is made or is likely to be made and determine the value of those supplies. We accept that there may be practical compliance difficulties in linking amounts you have received or invoiced based
+strictly
+on the time a supply is made or likely to be made. Accordingly, this Ruling outlines alternative methods which, if applied in good faith, we accept can be used as a proxy for determining the value of supplies were made or likely to be made in a relevant period.
+74. The principles set out regarding predicting likely supplies under the heading 'When is a supply likely to be made' at paragraphs 49 to 52 of this Ruling are still relevant if you are using an alternative method.
+Alternative method one - accrual accounting
+75. Firstly, we accept that the 'value of all supplies you made, or are likely to make' in a relevant period may closely align with when revenue is, or would be, recognised for accounting purposes (broadly, accounting on an accruals basis). That is, when revenue is recognised in financial reports prepared in accordance with accounting principles relevant to your business.
+[70]
+Therefore, where this is the case, the Commissioner will allow you to use the GST-exclusive revenue from making supplies that would be recognised in financial accounts prepared in accordance with (or otherwise substantially consistent with
+[71]
+) accounting principles as a proxy for the value of supplies made or likely to be made in a turnover test period.
+[72]
+You can use this method even if you would otherwise account for GST or income tax on a cash basis.
+Alternative method two - GST attribution basis
+76. Secondly, the Commissioner acknowledges that the total GST-exclusive value of your supplies that you would allocate to a relevant period under the GST attribution rules (assuming the relevant period was also a GST reporting period
+[73]
+) may be used as a proxy for the 'value of all supplies you made, or are likely to make' in a relevant period.
+77. For supplies that are included in your current GST turnover or projected GST turnover in the relevant period that are not taxable supplies, for example GST-free supplies, you should use the GST attribution rules as if they applied in the same way as they do for your taxable supplies and as if the relevant period was a reporting period for GST purposes. In some cases the amounts you might use for GST reporting purposes may not reflect the value of the supplies for the decline in turnover test. You should ensure you include the value of the supply when the GST may have been calculated on a different basis, for example, for supplies of real property where the GST is calculated under the margin scheme - you will need to include the full value of the supply of real property not just the margin.
+GST adjustment events
+78. You do not take into account adjustments
+[74]
+you have attributed or would attribute to the relevant period for GST purposes (assuming it was your GST reporting period). This is because such adjustments change the value of your supplies attributed to a prior period for GST purposes. Examples of adjustments you do not take into account include:
+•
+adjustments you have attributed to the relevant period for GST purposes because you have changed the value of supplies you would have attributed to a prior period for GST purposes, such as discounts given in the relevant period for supplies attributed in a prior period
+•
+adjustments attributed, or likely to be attributed to a period after the relevant period that have changed the value of supplies you attributed to the relevant period, such as discounts given in a future period for supplies attributed to the relevant period
+•
+bad debt adjustments, as they do not change the value of your supplies and may relate to supplies you would attribute to a prior period for GST purposes.
+79. However, we recognise that some entities may have already determined whether they satisfy the decline in turnover test before this Ruling was issued by including GST adjustments in their calculations when adopting a GST attribution approach. We won't be concerned where such an approach has been taken, as long as it has been done consistently for both the relevant periods.
+Using a GST cash or accruals (non-cash) basis
+80. If you are registered for GST and account for GST on a cash basis, you can use either the cash or accruals (non-cash) basis to calculate your GST turnover.
+81. If you are registered for GST and currently use an accruals (non-cash) basis to account for GST, we expect in most cases you would continue to use this method. However, if you choose to use the cash basis we may want to understand why the different approach is an appropriate reflection of turnover (see paragraph 85 of this Ruling).
+82. If you use the GST attribution rules you need to include GST-free supplies and any other supplies that are not taxable supplies, which are included in the calculation (see Step A at paragraphs 20 to 37 of this Ruling).
+83. If you use the GST attribution basis, we accept that you can select a relevant period type that is different from your GST tax periods, for example a GST monthly tax period entity can choose to use quarterly relevant periods. However you cannot choose a relevant period type that is not a calendar month or calendar quarter.
+[75]
+84. We consider that a calculation based on your GST attribution basis should exclude supplies you have attributed to a relevant period to correct a GST error in an earlier period,
+[76]
+and exclude adjustments you have attributed to that period, that relate to supplies you originally accounted for in another period. We recognise it may be practically difficult for some entities to exclude these errors or adjustments and we will have some tolerance if this is not achieved, especially with smaller businesses. The main thing is that you must apply the same approach consistently for both the relevant periods.
+85. If you use the GST attribution rules they should be applied in good faith. If you normally account for GST on an accruals (non-cash) basis, but seek to make your calculation using the GST attribution rules that apply to cash basis taxpayers we may seek to further understand the rationale for your calculation and ensure it has integrity as a proxy for the supplies you have made in the relevant periods. We would be more likely to scrutinise calculations by large business in the Top 500 private groups program or the Top 100 or Top 1,000 program in Public Groups & International where they use a cash basis to calculate turnover. We would be particularly concerned where businesses are using GST attribution rules as an alternative method in circumstances where they delay issuing invoices, or request payments to be delayed, for supplies already made in order to artificially meet the turnover test.
+Alternative method three - income tax accounting (if not registered for GST)
+86. If you are not registered for GST and you do not use any other alternative methods in this Ruling, you may use the same accounting method you use for income tax purposes. That is, broadly, you can treat the income or gains that you derive, or are likely derive, in a relevant period for income tax purposes as being the value of the supplies you make, or are likely to make in that relevant period (provided the income or gains are from a supply covered by Step A).
+[77]
+Other requirements where you use one of the alternative methods
+87. If you use any of these alternative methods for allocating supplies to the relevant periods, you must use the same method, and apply it consistently, for both relevant periods. In addition, you will need to keep reasonable records to show which method you used. Where you used a cash basis when you normally attribute on a non-cash basis you need to keep a record showing why that method is a reasonable proxy for supplies made.
+88. Whatever method you use should also be used for your monthly JobKeeper reporting requirements.
+[78]
+Examples
+89. The following example illustrates how the way you determine the value of supplies you make, or are likely to make, in a relevant period will vary depending on which of the approaches in this Ruling you use.
+Example 3 - sale of accommodation
+90.
+On 15 March 2019 a room was booked to stay at your Australian Hotel for 10 days from 2 June 2019. An invoice was issued on the same day for the room seeking full payment by 15 April 2019. The room was paid for in full on 15 April 2019.
+91.
+You have chosen the turnover test period as being April 2020. As such, your relevant comparison period is April 2019.
+Time of supply method
+92.
+As current GST turnover is determined by allocating supplies to a period based on when the supply was made, the sale of accommodation would not be allocated to April 2019 given the accommodation was supplied in June 2019. Depending on the accounting principles relevant to your business, you may have the same outcome, that the supply is recognised for revenue purposes in June 2019.
+GST attribution method
+93.
+Under alternative method two outlined in paragraphs 76 to 85 of this Ruling, we will allow you, if you choose, to allocate the supply of accommodation to the relevant comparison period using the GST attribution rules (on the condition you also apply that same method for allocating supplies to the turnover test period, April 2020).
+94.
+Under the GST attribution rules the supply of accommodation would be allocated as follows, if you are:
+•
+non-cash basis
+[79]
+- the supply is not allocated to April 2019 as the invoice was issued in March 2019
+•
+cash basis
+[80]
+- the supply is allocated to April 2019 given you were paid in full on 15 April 2019.
+95.
+In allocating supplies to April 2020 (your turnover test period) you must use the same method you used in allocating supplies to your April 2019 relevant comparison period. That is, you must determine project GST turnover according to when supplies are invoiced or when you are paid for supplies (as applicable).
+Example 4 - actual supplies higher than predicted
+96.
+Harris owns a gym. Harris works out his turnover test period projected GST turnover for the June 2020 quarter with information known to him at the end of April 2020. Due to the government COVID-19 restrictions his gym has been closed all of April. There is no public information that it is likely that government restrictions will be lifted in the turnover test period. Harris did not make any supplies in April and considers it's likely he will not make any supplies for the rest of the period.
+97.
+His relevant comparison period of the June 2019 quarter had a current GST turnover of $50,000. Harris keeps good records of when he calculated the test and all of the information he relied on at the time.
+98.
+It turns out later that the government restrictions in his area are lifted during May 2020 and the gym reopened. By the end of June 2020, the value of supplies actually made by Harris during the June 2020 quarter indicates that his turnover did not decline by more than 30%. The Commissioner accepts that Harris' projected GST turnover for the June 2020 quarter was correctly determined at the end of April, made on the information available to him at that time.
+Commissioner of Taxation
+4 May 2020
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+All legislative references in this Ruling are to the Payments and Benefits Rules, unless otherwise indicated.
+[2]
+Subsections 8(1) and 8(2).
+[2A]
+Coronavirus Economic Response Package (Payments and Benefits) Amendment Rules (No. 8) 2020,
+which introduced paragraph 7(1)(c) and section 8B.
+[2B]
+Universities that are Table A providers within the meaning of the
+Higher Education Support Act 2003
+have a six-month turnover test period that applies to them under subsection 8(7).
+[2C]
+Coronavirus Economic Response Package (Payments and Benefits) (Timing of Supplies Made and Decline in Turnover Test) Rules 2020 (No. 1).
+[2D]
+This instrument has been repealed and replaced by the
+Coronavirus Economic Response Package (Payments and Benefits) Alternative Decline in Turnover Test Rules (No. 2) 2020
+for fortnights starting on or after 28 September 2020.
+[3]
+Subsection 8(5).
+[4]
+Registered on 1 May 2020.
+[5]
+The references to tax in that document should be read as a reference to an overpayment of a JobKeeper payment (as a result of an entity not being entitled to the payment).
+[6]
+See subsection 8(2) for the specified percentage for the entity.
+[7]
+Paragraph 8(7)(a). The months and quarters that can be used were extended by the
+Coronavirus Economic Response Package (Payments and Benefits) Amendment Rules (No. 8) 2020
+to include periods after September 2020. The change does not affect entities that had already satisfied the decline in turnover test. The extended periods overlap with the turnover test periods that must be considered for the actual decline in turnover test. We accept that entities enrolling in the JobKeeper Payment scheme for fortnights starting from 28 September 2020 that satisfy the actual decline in turnover test will also satisfy the original decline in turnover test. Further guidance on the actual decline in turnover test is provided on
+ato.gov.au
+[8]
+Paragraph 8(7)(b).
+[9]
+Subsection 8(7) and the explanation of 'Decline in turnover test' in Attachment A of the Explanatory Statement to the
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020.
+[10]
+If your tax period for GST reporting is neither a calendar month nor calendar quarter the Payments and Benefits Rules requires you to use calendar month or calendar quarter. Sections 27-35 and 27-37 of the GST Act can alter the end and length of a tax period away from calendar months.
+[10A]
+For JobKeeper fortnights ending before 28 September 2020, subsection 8(7) did not include any months or quarters starting from 1 October 2020. The changes under
+Coronavirus Economic Response Package (Payments and Benefits) Amendment Rules (No. 8) 2020
+to subsection 8(7) only apply for JobKeeper fortnights starting from 28 September 2020.
+[11]
+Section 16 sets out the monthly reporting requirements.
+[12]
+Paragraphs 8(8)(a), (c), and (d).
+[13]
+Noting paragraph 5 of this Ruling, for an entity whose principal activity is supplying labour services to other members of a group, the amendments to the Payments and Benefits Rules may affect your decline in turnover test calculation.
+[14]
+Paragraph 8(8)(b) requires subsections 188-15(2) and 188-20(2) of the GST Act to be disregarded.
+[15]
+Paragraph 8(8)(f). See paragraph 22 and footnotes 23A and 24 of this Ruling.
+[16]
+Paragraph 8(8)(g). For the meaning of deductible gift recipient, see footnote 24 of this Ruling.
+[17]
+Paragraph 8(8)(e). Under the GST Act the area covered by the indirect tax zone does not include the external Territories.
+[18]
+See paragraph 6 of this Ruling.
+[19]
+See paragraph 22 of this Ruling.
+[20]
+Section 188-15 of the GST Act.
+[21]
+Section 188-20 of the GST Act.
+[22]
+Supplies are defined in section 9-10 of the GST Act.
+[23]
+Taxable supplies is defined in section 195-1 of the GST Act, and includes section 9-5 of the GST Act.
+[23A]
+Gift takes its ordinary meaning as explained in Taxation Ruling TR 2005/13
+Income tax: tax deductible gifts - what is a gift.
+Paragraph 8(8)(f) refers to a gift described in an applicable table item in section 30-15 of the
+Income Tax Assessment Act 1997
+(ITAA 1997) as a gift (gift does not include a contribution as described in the table items). The gift does not need to be deductible for the donor.
+[24]
+Under paragraph 30-227(2)(b) of the ITAA 1997 a deductible gift recipient includes an entity that is endorsed to operate a fund, authority or institution that is a deductible gift recipient.
+[25]
+Paragraph 8(8)(g).
+[26]
+Subsection 9-17(3) of the GST Act treats consideration for some supplies between government related entities as being zero. Under paragraph 8(8)(ea) of the Payment and Benefits Rules, Universities must ignore subsection 9-17(3) of the GST Act for the grants received from core Commonwealth grants.
+[27]
+For further information on this payment see details on the
+Department of Education, Skills and Training website
+.
+[28]
+Division 40 of the GST Act covers all supplies that are input taxed.
+[29]
+Section 40-130 of the GST Act.
+[30]
+Section 40-160 of the GST Act.
+[31]
+Sections 87-25 and 40-35 of the GST Act.
+[32]
+Subsection 9-30(3) of the GST Act. For examples of otherwise input taxed supplies that are GST-free, see Goods and Services Tax Ruling
+GSTR 2002/2
+Goods and services tax: GST treatment of financial supplies and related supplies and acquisitions.
+[33]
+For a list of external Territories that are not in the indirect tax zone, refer to paragraph 27 of Law Companion Ruling
+LCR 2016/1
+GST and carrying on an enterprise in the indirect tax zone (Australia
+).
+[34]
+Refer to Goods and Services Tax Ruling
+GSTR 2019/1
+Goods and services tax: supply of anything other than goods or real property connected with the indirect tax zone (Australia).
+[35]
+Goods and Services Tax Ruling
+GSTR 2018/2
+Goods and services tax: supplies of goods connected with the indirect tax zone (Australia).
+[36]
+Goods and Services Tax Ruling
+GSTR 2018/1
+Goods and services tax: supplies of real property connected with the indirect tax zone(Australia).
+[37]
+Under subsection 9-25(2) of the GST Act supplies that involve goods leaving Australia are connected with Australia and that supply may also be GST-free under section 38-185 of the GST Act.
+[38]
+Sections 188-15 and 188-20 of the GST Act only apply to supplies and not acquisitions. Section 188-23 of the GST Act makes it clear reverse charge supplies under Divisions 83 and 86 of the GST Act are disregarded by the recipient. Also subsection 84-5(2) of the GST Act is not linked to Division 188 therefore these acquisitions are not included in determining current GST turnover or projected GST turnover.
+[39]
+Division 57 of the GST Act makes a resident agent responsible for the GST on taxable supplies made by a non-resident through a resident agent.
+[40]
+Refer to section 188-24 of the GST Act.
+[41]
+For the Commissioner's view on applying the exclusions in section 188-25 of the GST Act, see paragraph 29 of Goods and Services Tax Ruling
+GSTR 2001/7
+Goods and services tax: meaning of GST turnover, including the effect of section 188-25 on projected GST turnover.
+[42]
+See paragraph 43 of
+GSTR 2001/7
+.
+[43]
+Paragraph 8(7)(a).
+[44]
+Paragraph 8(7)(b).
+[45]
+See Step C (paragraphs 59 to 72 of this Ruling).
+[46]
+As per subsection 188-15(1) of the GST Act as modified by paragraph 8(8)(a) and subparagraph 8(8)(c)(ii).
+[47]
+See Step C (paragraphs 59 to 72 of this Ruling).
+[48]
+As per subsection 188-20(1) of the GST Act and as modified by paragraphs 8(8)(a) and (d) of the Payments and Benefits Rules.
+[49]
+Paragraph 24 of
+GSTR 2001/7
+.
+[50]
+Commissioner of Taxation v Qantas Airways Limited
+[2012] HCA 41 at [5] and [19];
+Commissioner of Taxation v MBI Properties Pty Ltd
+[2014] HCA 49 at [35], [36] and [42-45] and
+Commissioner of Taxation v Reliance Carpet Co Pty Limited
+[ 2008] HCA 22 at [13] and [37-42].
+[51]
+Refer to Goods and Services Tax Ruling
+GSTR 2018/1
+Goods and services tax: supplies of real property connected with the indirect tax zone (Australia
+).
+[52]
+This is consistent with subsection 12(2) of the GST Transition Act and, in the case of a lease, the High Court's view in
+Commissioner of Taxation v MBI Properties Pty Ltd
+[2014] HCA 49.
+[53]
+This includes accounting standards as defined in the
+Corporations Act 2001
+or if there are no such accounting standards applicable to the matter, authoritative pronouncements of the Australian Accounting Standards Board that apply to the preparation of financial statements or otherwise commercially accepted accounting principles as relevant to your business. By way of example only, a relevant accounting standard may be
+AASB 15
+Revenue from contracts with customers.
+[54]
+Paragraphs 8(8)(f) and (g).
+[55]
+Paragraph 23 of
+GSTR 2001/7
+.
+[56]
+Paragraphs 8(8)(f) and (g).
+[57]
+Step C is not relevant if you use one of the alternative ATO compliance approaches.
+[58]
+Sections 9-75 and 9-80 of the GST Act.
+[59]
+Section 188-30 of the GST Act.
+[60]
+For example, the supply must only be made in the relevant period, it cannot be a supply that commences to be made in the relevant period, and continues to be made after the relevant period has ended.
+[61]
+Subparagraph 8(8)(c)(i).
+[62]
+Section 188-30.
+[63]
+Divisions 21 and 136 of the GST Act. Refer to paragraphs 45 and 46 of Goods and Services Tax Ruling
+GSTR 2000/2
+Goods and Services Tax: adjustments for bad debts
+. While a debt is still in existence the consideration (and value) for the supply has not changed.
+[64]
+Section 99-5 of the GST Act excludes security deposits from the meaning of consideration under section 9-15 of the GST Act, and therefore section 9-75 of the GST Act.
+[65]
+If your test time is before the end of the turnover test period, strictly speaking, under subsection 188-20(1) you can only take into account changes to value that happened up to the test time.
+[66]
+An entity may have monthly GST reporting but choose a quarterly relevant period under the Payments and Benefits Rules, as such may have adjustment events that change the value of the supply.
+[67]
+If you are determining the value of supplies allocated to the turnover test period before the end of the period, you will also need to determine the supplies likely to be made in the remainder of the period and therefore the likely value of those supplies. This means you can take into account an adjustment event that is likely to occur in the remainder of the period provided it relates to a supply allocated to the period.
+[68]
+Refer to paragraphs 45 and 46 of
+GSTR 2000/2
+. While a debt is still in existence the consideration (and value) for the supply has not changed.
+[69]
+Paragraphs 8(8(f) and (g).
+[70]
+This includes accounting standards as defined in the
+Corporations Act 2001
+or if there are no such accounting standards applicable to the matter, authoritative pronouncements of the Australian Accounting Standards Board that apply to the preparation of financial statements or otherwise commercially accepted accounting principles relevant to your business.
+[71]
+For example, if you are not required to prepare financial reports in accordance with accounting standards, we would not expect you to prepare a new financial report. Provided that your financial reports are at least prepared in a manner that is consistent with commercially accepted accounting principles, that will generally be sufficient. However, if you are required to prepare your financial reports in accordance with accounting standards, we would expect you to make a reasonable attempt to apply those standards if you are using this alternative method.
+[72]
+An example of such an accounting principle is in object clause 2 of
+AASB 15
+.
+[73]
+In some cases a relevant period may be the same as your GST reporting period. However, this may not always be the case. For example, if you report GST on a monthly basis but your relevant period is the April quarter, you will effectively need to determine what you would attribute to the relevant period for GST reporting purposes if it was your GST reporting period.
+[74]
+Divisions 19, 21 and 136 of the GST Act.
+[75]
+Sections 27-30 and 27-35 of the GST Act allow alternative tax periods for GST reporting that are not calendar months.
+[76]
+Goods and Services Tax: Correcting GST Errors Determination 2013
+.
+[77]
+The GST component of any income or gain is ignored for income tax purposes (section 17-5 of the ITAA 1997). However, this should not be relevant to you if you are not registered for GST.
+[78]
+Section 16 sets out the monthly reporting requirements. For the November 2020 monthly declaration and later months, you may use a GST attribution approach or the method you used for your decline in turnover test.
+[79]
+Subsection 29-5(1) of the GST Act.
+[80]
+Subsection 29-5(2) of the GST Act.
+References
+ATO references:
+NO  1-LEOP2KG
+ISSN: 2209-1300
+Business Line:
+SMB
+Related Rulings/Determinations:
+GSTR 2000/2
+GSTR 2001/7
+GSTR 2002/2
+GSTR 2012/2
+GSTR 2018/1
+GSTR 2018/2
+GSTR 2019/1
+LCR 2016/1
+TR 2005/13
+Legislative References:
+Coronavirus Economic Response Package (Payments and Benefits) Act 2020
+Coronavirus Economic Response Package (Payments and Benefits) Act 2020 19
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 6(1)(e)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 7
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(2)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(7)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(7)(a)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(7)(b)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(8)(a)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(8)(b)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(8)(c)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(8)(c)(ii)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(8)(d)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(8)(e)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(8)(ea)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(8)(f)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 8(8)(g)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 11(1)(e)
+Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 16
+Coronavirus Economic Response Package (Payments and Benefits) Amendment Rules (No. 2) 2020
+Coronavirus Economic Response Package (Payments and Benefits) Alternative Decline in Turnover Test Rules 2020
+Coronavirus Economic Response Package (Payments and Benefits) Alternative Decline in Turnover Test Rules (No. 2) 2020
+Coronavirus Economic Response Package (Payments and Benefits) Amendment Rules (No. 8) 2020 7(1)(c)
+Coronavirus Economic Response Package (Payments and Benefits) Amendment Rules (No. 8) 2020 8B
+Coronavirus Economic Response Package (Payments and Benefits) (Timing of Supplies Made and Decline in Turnover Test) Rules 2020 (No. 1)
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-10
+ANTS(GST)A 1999 9-25(2)
+ANTS(GST)A 1999 9-30(3)
+ANTS(GST)A 1999 9-75
+ANTS(GST)A 1999 9-80
+ANTS(GST)A 1999 Div19
+ANTS(GST)A 1999 Div21
+ANTS(GST)A 1999 27-30
+ANTS(GST)A 1999 27-35
+ANTS(GST)A 1999 27-37
+ANTS(GST)A 1999 Div29
+ANTS(GST)A 1999 29-5(1)
+ANTS(GST)A 1999 29-5(2)
+ANTS(GST)A 1999 38-185
+ANTS(GST)A 1999 38-190
+ANTS(GST)A 1999 Div 40
+ANTS(GST)A 1999 40-35
+ANTS(GST)A 1999 40-130
+ANTS(GST)A 1999 40-160
+ANTS(GST)A 1999 Div 48
+ANTS(GST)A 1999 Div 49
+ANTS(GST)A 1999 Div 57
+ANTS(GST)A 1999 72-5
+ANTS(GST)A 1999 Div 83
+ANTS(GST)A 1999 84-5(2)
+ANTS(GST)A 1999 Div 86
+ANTS(GST)A 1999 Div 87
+ANTS(GST)A 1999 87-25
+ANTS(GST)A 1999 99-5
+ANTS(GST)A 1999 Div 136
+ANTS(GST)A 1999 Subdiv 153-B
+ANTS(GST)A 1999 Div 188
+ANTS(GST)A 1999 188-15
+ANTS(GST)A 1999 188-15(1)
+ANTS(GST)A 1999 188-15(2)
+ANTS(GST)A 1999 188-20
+ANTS(GST)A 1999 188-20(1)
+ANTS(GST)A 1999 188-20(2)
+ANTS(GST)A 1999 188-23
+ANTS(GST)A 1999 188-24
+ANTS(GST)A 1999 188-25
+ANTS(GST)A 1999 188-30
+ANTS(GST)A 1999 195-1
+ANTS(GST Transition) Act 1999 6
+ANTS(GST Transition) Act 1999 12(2)
+Corporations Act 2001
+ITAA 1997 17-5
+ITAA 1997 30-15
+ITAA 1997 30-227(2)(b)
+Higher Education Support Act 2003
+Case References:
+Commissioner of Taxation v Qantas Airways Limited
+[2012] HCA 41
+247 CLR 286
+(2012) 86 ALJR 1243
+2012 ATC 20-352
+83 ATR 1
+Commissioner of Taxation v MBI Properties Pty Ltd
+[2014] HCA 49
+254 CLR 376
+2014 ATC 20-474
+(2014) 92 ATR 241
+Commissioner of Taxation v Reliance Carpet Co Pty Limited
+[2008] HCA 22
+236 CLR 342
+82 ALJR 968
+2008 ATC 20-028
+68 ATR 158
+Other References:
+PCG 2020/4
+Explanatory Statement
+to the Coronavirus Economic Response Package (Payments and Benefits) Rules 2020
+AASB 15
+Revenue from contracts with customers
+Goods and Services Tax: Correcting GST Errors Determination 2013
+Goods and Services Tax: Particular Attribution Rules Where Total Consideration is Not Known Determination 2017
+Department of Education, Skills and Training website
+LCR 2020/1 history
+Date:
+Version:
+Change:
+4 May 2020
+Original ruling
+7 May 2020
+Consolidated ruling
+Addendum
+10 May 2020
+Consolidated ruling
+Addendum
+You are here
+21 October 2020
+Consolidated ruling
+Addendum
+Back to top

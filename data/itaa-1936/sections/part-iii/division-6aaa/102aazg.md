@@ -15,7 +15,6 @@ source_pdf: "vol02.pdf"
 
 # 102AAZG Keeping of records
 
-
 <a id="s102AAZG-1"></a>
 **(1)** Subject to this section, a person who is an attributable taxpayer:
 
