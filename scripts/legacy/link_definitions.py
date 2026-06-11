@@ -19,7 +19,7 @@ from pathlib import Path
 
 def load_definitions(data_dir: Path, act: str) -> dict[str, dict]:
     """Load the appropriate definition lookup table."""
-    if act == "itaa-1997":
+    if act in ("itaa-1997", "gst-1999"):
         path = data_dir / "definitions.json"
         if path.exists():
             return json.loads(path.read_text(encoding="utf-8"))
@@ -139,7 +139,7 @@ def process_file(md_path: Path, defs: dict[str, dict], index: dict, act: str) ->
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--act", choices=["itaa-1997", "itaa-1936"], required=True)
+    ap.add_argument("--act", choices=["itaa-1997", "itaa-1936", "gst-1999"], required=True)
     ap.add_argument("--data-dir", type=Path, default=None)
     ap.add_argument("--log-level", default="INFO")
     args = ap.parse_args()
@@ -164,6 +164,8 @@ def main() -> None:
 
     for md_path in md_files:
         if md_path.name == "995-1.md" and args.act == "itaa-1997":
+            continue
+        if md_path.name == "195-1.md" and args.act == "gst-1999":
             continue
 
         unresolved = process_file(md_path, defs, index, args.act)

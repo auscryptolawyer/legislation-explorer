@@ -1,36 +1,31 @@
 """
-parse_itaa36.py — ITAA 1936 PDF-to-markdown structural parser.
+parse_taa53.py — TAA 1953 PDF-to-markdown structural parser.
 
-Pipeline stage 2 for ITAA 1936. Reads pdftotext -layout output from
-raw/*.txt and emits one markdown file per section under sections/.
-
-Usage:
-    python3 pipeline/parse_itaa36.py --raw-dir data/itaa-1936/raw \
-                                     --out-dir data/itaa-1936/sections \
-                                     --compilation-no 191 \
-                                     --compilation-date 2026-04-01
+Reads pdftotext -layout output from raw/*.txt and emits one markdown file
+per section under sections/.
 """
-
 from __future__ import annotations
 
 import argparse
+import json
 import logging
 import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from dictionary_utils import starts_new_definition
+def _natural_key(s: str):
+    """Natural sort key: '2' < '10', '83A' after '83'."""
+    return [int(t) if t.isdigit() else t for t in re.split(r'(\d+)', s)]
 
 # ---------------------------------------------------------------------------
 # Regex patterns
 # ---------------------------------------------------------------------------
+RE_PART = re.compile(r"^Part\s+([IVX]+[A-Z]?)\s*[—–\-]?\s*(.+)$")
+RE_DIVISION = re.compile(r"^Division\s+(\d+[A-Z]*)\s*[—–\-]?\s*(.+)$")
+RE_SUBDIVISION = re.compile(r"^Subdivision\s+([A-Z]+)\s*[—–\-]?\s*(.+)$")
 
-RE_PART = re.compile(r"^Part\s+([IVX]+)\s*[\u2014\u2013\-]?\s*(.+)$")
-RE_DIVISION = re.compile(r"^Division\s+(\d+[A-Z]*)\s*[\u2014\u2013\-]?\s*(.+)$")
-RE_SUBDIVISION = re.compile(r"^Subdivision\s+([A-Z]+)\s*[\u2014\u2013\-]?\s*(.+)$")
-
-# Section header: "6 Interpretation" or "6AB Foreign income and foreign tax"
-RE_SECTION = re.compile(r"^(\d+[A-Z]*)\s+(\S.*)$")
+# Section header: "1 Short title" or "45-1 What this Division is about"
+RE_SECTION = re.compile(r"^(\d+[A-Z]*(?:-\d+)?)\s+(\S.*)$")
 
 RE_SUBSECTION = re.compile(r"^\s*\((\d+[A-Z]*)\)\s+(.*)$")
 RE_PARAGRAPH = re.compile(r"^\s+\(([a-z]{1,3})\)\s+(.*)$")
@@ -41,7 +36,7 @@ RE_EXAMPLE = re.compile(r"^\s*Example\s*\d*:\s*(.*)$")
 
 RE_NOISE = re.compile(
     r"^("
-    r"Income Tax Assessment Act 1936|"
+    r"Taxation Administration Act 1953|"
     r"Compilation No\.|"
     r"Authorised Version|"
     r"Compilation date:|"
@@ -56,7 +51,6 @@ RE_NOISE = re.compile(
 # ---------------------------------------------------------------------------
 # Data structures
 # ---------------------------------------------------------------------------
-
 @dataclass
 class ParseContext:
     part: str | None = None
@@ -87,7 +81,6 @@ class Section:
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
-
 def strip_page_number(title: str) -> str:
     return re.sub(r"\s+\d+\s*$", "", title).strip()
 
@@ -97,41 +90,37 @@ def has_trailing_page_number(line: str) -> bool:
 
 
 def is_page_footer(line: str) -> bool:
-    return "Income Tax Assessment Act 1936" in line
+    return "Taxation Administration Act 1953" in line
 
 
 def is_toc_section_entry(line: str) -> bool:
-    return bool(re.match(r"^\s+\d+[A-Z]*\s+\S.*\.{3,}", line))
+    return bool(re.match(r"^\s+\d+[A-Z]*(?:-\d+)?\s+\S.*\.{3,}", line))
 
 
 def is_page_header_noise(line: str) -> bool:
     if not line.strip():
         return True
     stripped = line.strip()
-    # Standalone Section lines (page headers / TOC artifacts)
-    if re.match(r"^Section\s+\d+[A-Z]*$", stripped):
+    if re.match(r"^Section\s+\d+[A-Z]*(?:-\d+)?$", stripped):
         return True
-    # Part/Division/Subdivision without em-dash (running headers)
-    if re.match(r"^Part\s+[IVX]+\s+(?!—)[^—].*$", stripped):
+    if re.match(r"^Part\s+[IVX]+[A-Z]?\s+(?!—)[^—].*$", stripped):
         return True
     if re.match(r"^Division\s+\d+[A-Z]*\s+(?!—)[^—].*$", stripped):
         return True
     if re.match(r"^Subdivision\s+[A-Z]+\s+(?!—)[^—].*$", stripped):
         return True
-    # Reverse-order running headers e.g. "Liability to taxation Part III"
-    if re.search(r"Part\s+[IVX]+$", stripped):
+    if re.search(r"Part\s+[IVX]+[A-Z]?$", stripped):
         return True
     if re.search(r"Division\s+\d+[A-Z]*$", stripped):
         return True
-    if re.search(r"Section\s+\d+[A-Z]*$", stripped):
+    if re.search(r"Section\s+\d+[A-Z]*(?:-\d+)?$", stripped):
         return True
     if RE_NOISE.match(line):
         return True
     return False
 
 
-def _continues_title(lines: list[str], i: int, structural_patterns: list) -> str | None:
-    """Look ahead for multi-line title. Returns appended text or None."""
+def _continues_title(lines: list[str], i: int, structural_patterns: list) -> tuple[str | None, int]:
     extra = ""
     while i + 1 < len(lines):
         next_line = lines[i + 1]
@@ -141,8 +130,6 @@ def _continues_title(lines: list[str], i: int, structural_patterns: list) -> str
             break
         if RE_NOISE.match(next_line) or is_page_footer(next_line):
             break
-        # For structural elements (Part/Division/Subdivision) we allow any indent
-        # For sections we stop if indentation is deep (body text)
         leading_ws = len(next_line) - len(next_line.lstrip())
         if RE_SECTION in structural_patterns and leading_ws >= 10:
             break
@@ -154,7 +141,6 @@ def _continues_title(lines: list[str], i: int, structural_patterns: list) -> str
 # ---------------------------------------------------------------------------
 # Markdown serialisation
 # ---------------------------------------------------------------------------
-
 def classify_body_line(line: str) -> tuple[str, dict]:
     if not line.strip():
         return "blank", {}
@@ -179,7 +165,7 @@ def render_section_markdown(section: Section) -> str:
     ctx = section.context
     fm_lines = [
         "---",
-        'act: "ITAA 1936"',
+        'act: "TAA 1953"',
         f'part: "{ctx.part or ""}"',
         f'part_title: "{ctx.part_title or ""}"',
         f'division: "{ctx.division or ""}"',
@@ -234,12 +220,7 @@ def render_section_markdown(section: Section) -> str:
             body.append("")
             body.append(f"> **Example:** {data['text']}")
         elif kind == "continuation":
-            text = data["text"]
-            is_new_def = section.number == "6" and starts_new_definition(text)
-            if is_new_def:
-                body.append("")
-                body.append(text)
-            elif body and body[-1].startswith("> > "):
+            if body and body[-1].startswith("> > "):
                 body[-1] = body[-1] + " " + data["text"]
             elif body and body[-1].startswith("> "):
                 body[-1] = body[-1] + " " + data["text"]
@@ -260,7 +241,6 @@ def render_section_markdown(section: Section) -> str:
 # ---------------------------------------------------------------------------
 # Main parse loop
 # ---------------------------------------------------------------------------
-
 def parse_volume(raw_text: Path, out_dir: Path, ctx: ParseContext, dry_run: bool = False) -> list[Section]:
     sections: list[Section] = []
     current: Section | None = None
@@ -332,7 +312,6 @@ def parse_volume(raw_text: Path, out_dir: Path, ctx: ParseContext, dry_run: bool
                 current = None
             ctx.division = div_match.group(1)
             ctx.division_title = strip_page_number(div_match.group(2))
-            # Multi-line division title
             extra, i = _continues_title(lines, i, [RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION, RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH, RE_NOTE, RE_EXAMPLE])
             if extra:
                 ctx.division_title += extra
@@ -369,7 +348,6 @@ def parse_volume(raw_text: Path, out_dir: Path, ctx: ParseContext, dry_run: bool
             section_ctx = ParseContext(**vars(ctx))
             section_number = m.group(1)
             section_title = m.group(2).strip()
-            # Multi-line section title
             extra, i = _continues_title(lines, i, [RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION, RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH, RE_NOTE, RE_EXAMPLE])
             if extra:
                 section_title += extra
@@ -401,26 +379,91 @@ def parse_volume(raw_text: Path, out_dir: Path, ctx: ParseContext, dry_run: bool
 
 
 # ---------------------------------------------------------------------------
-# CLI
+# Tree builder
 # ---------------------------------------------------------------------------
 
+def build_tree(sections: list[Section]) -> dict:
+    tree = {"act": "TAA 1953", "compilation_no": 222, "compilation_date": "2026-04-01", "parts": []}
+    part_map: dict[str, dict] = {}
+    div_map: dict[tuple[str, str], dict] = {}
+
+    for s in sections:
+        ctx = s.context
+        part_id = ctx.part or ""
+        part_title = ctx.part_title or ""
+        div_id = ctx.division or ""
+        div_title = ctx.division_title or ""
+        subdiv_id = ctx.subdivision or ""
+        subdiv_title = ctx.subdivision_title or ""
+
+        if part_id not in part_map:
+            part_node = {"id": part_id, "title": part_title, "divisions": [], "sections": []}
+            part_map[part_id] = part_node
+            tree["parts"].append(part_node)
+        part_node = part_map[part_id]
+
+        if subdiv_id:
+            # Need division -> subdivision hierarchy
+            if (part_id, div_id) not in div_map:
+                div_node = {"id": div_id, "title": div_title, "subdivisions": [], "sections": []}
+                div_map[(part_id, div_id)] = div_node
+                part_node["divisions"].append(div_node)
+            div_node = div_map[(part_id, div_id)]
+
+            # Find or create subdivision
+            subdiv_node = None
+            for sd in div_node.get("subdivisions", []):
+                if sd["id"] == subdiv_id:
+                    subdiv_node = sd
+                    break
+            if subdiv_node is None:
+                subdiv_node = {"id": subdiv_id, "title": subdiv_title, "sections": []}
+                div_node["subdivisions"].append(subdiv_node)
+            subdiv_node["sections"].append({"id": s.number, "title": s.title, "path": str(s.output_path)})
+        elif div_id:
+            if (part_id, div_id) not in div_map:
+                div_node = {"id": div_id, "title": div_title, "subdivisions": [], "sections": []}
+                div_map[(part_id, div_id)] = div_node
+                part_node["divisions"].append(div_node)
+            div_node = div_map[(part_id, div_id)]
+            div_node["sections"].append({"id": s.number, "title": s.title, "path": str(s.output_path)})
+        else:
+            part_node["sections"].append({"id": s.number, "title": s.title, "path": str(s.output_path)})
+
+    # Sort everything naturally
+    tree["parts"].sort(key=lambda p: _natural_key(p["id"]))
+    for part in tree["parts"]:
+        part["divisions"].sort(key=lambda d: _natural_key(d["id"]))
+        # Sort sections directly under part, if any
+        if "sections" in part:
+            part["sections"].sort(key=lambda s: _natural_key(s["id"]))
+        for div in part["divisions"]:
+            div["subdivisions"].sort(key=lambda s: _natural_key(s["id"]))
+            div["sections"].sort(key=lambda s: _natural_key(s["id"]))
+            for sub in div["subdivisions"]:
+                sub["sections"].sort(key=lambda s: _natural_key(s["id"]))
+
+    return tree
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--raw-dir", type=Path, required=True)
     ap.add_argument("--out-dir", type=Path, required=True)
-    ap.add_argument("--compilation-no", type=int, required=True)
-    ap.add_argument("--compilation-date", type=str, required=True)
+    ap.add_argument("--compilation-no", type=int, default=222)
+    ap.add_argument("--compilation-date", type=str, default="2026-04-01")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--log-level", default="INFO")
-    ap.add_argument("--volume", type=str, default=None)
     args = ap.parse_args()
 
     logging.basicConfig(level=args.log_level, format="%(message)s")
 
     total = 0
-    raw_files = sorted(args.raw_dir.glob("vol0[1-4].txt"))  # only vol1-4 for now
-    if args.volume:
-        raw_files = [f for f in raw_files if args.volume in f.name]
+    all_sections: list[Section] = []
+    raw_files = sorted(args.raw_dir.glob("vol0[1-3].txt"))  # vol1-3, skip vol4 (endnotes)
 
     for raw_file in raw_files:
         logging.info("=== Parsing %s ===", raw_file.name)
@@ -432,7 +475,13 @@ def main() -> None:
         sections = parse_volume(raw_file, args.out_dir, ctx, dry_run=args.dry_run)
         logging.info("  -> %d sections", len(sections))
         total += len(sections)
+        all_sections.extend(sections)
 
+    # Write tree.json
+    tree = build_tree(all_sections)
+    tree_path = args.out_dir.parent / "tree.json"
+    tree_path.write_text(json.dumps(tree, indent=2, ensure_ascii=False), encoding="utf-8")
+    logging.info("Wrote %s (%d parts)", tree_path, len(tree["parts"]))
     logging.info("Done. %d sections total.", total)
 
 

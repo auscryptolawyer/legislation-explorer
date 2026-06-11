@@ -53,8 +53,15 @@ def build_tree(sections_dir: Path, act: str, compilation_no: int, compilation_da
 
         part_id = fm.get("part", "")
         part_title = fm.get("part_title", "")
+        # Fall back to schedule for schedule-based sections (ITAA 1936 vol05)
+        if not part_id:
+            part_id = fm.get("schedule", "")
+            part_title = fm.get("schedule_title", "")
         division_id = fm.get("division", "")
         division_title = fm.get("division_title", "")
+        if division_id.lower() == "unknown":
+            division_id = ""
+            division_title = ""
         subdivision_id = fm.get("subdivision", "")
         subdivision_title = fm.get("subdivision_title", "")
         section_id = fm.get("section", "")
@@ -129,6 +136,7 @@ def build_tree(sections_dir: Path, act: str, compilation_no: int, compilation_da
     tree["parts"].sort(key=lambda p: _natural_key(p["id"]))
     for part in tree["parts"]:
         part["divisions"].sort(key=lambda d: _natural_key(d["id"]))
+        part.get("sections", []).sort(key=lambda s: _natural_key(s["id"]))
         for div in part["divisions"]:
             div["subdivisions"].sort(key=lambda s: _natural_key(s["id"]))
             div["sections"].sort(key=lambda s: _natural_key(s["id"]))

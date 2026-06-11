@@ -1,15 +1,14 @@
 """
-parse_itaa97.py — ITAA 1997 PDF-to-markdown structural parser.
+parse_gst1999.py — GST Act 1999 PDF-to-markdown structural parser.
 
-Pipeline stage 2. Reads pdftotext -layout output from data/itaa-1997/raw/*.txt
-and emits one markdown file per section under data/itaa-1997/sections/.
+Pipeline stage 2 for GST Act 1999. Reads pdftotext -layout output from
+raw/*.txt and emits one markdown file per section under sections/.
 
 Usage:
-    python3 pipeline/parse_itaa97.py --raw-dir data/itaa-1997/raw \
-                                     --out-dir data/itaa-1997/sections \
-                                     --compilation-no 263 \
-                                     --compilation-date 2026-04-01 \
-                                     [--dry-run]
+    python3 pipeline/parse_gst1999.py --raw-dir data/gst-1999/raw \
+                                      --out-dir data/gst-1999/sections \
+                                      --compilation-no 96 \
+                                      --compilation-date 2026-01-01
 """
 
 from __future__ import annotations
@@ -26,29 +25,25 @@ from dictionary_utils import starts_new_definition
 # Regex patterns
 # ---------------------------------------------------------------------------
 
-# Part/Division/Subdivision — match both em-dash (TOC) and space (body) variants.
+RE_CHAPTER = re.compile(r"^Chapter\s+(\d+)\s*[\u2014\u2013\-]?\s*(.+)$")
 RE_PART = re.compile(r"^Part\s+(\d+-\d+)\s*[\u2014\u2013\-]?\s*(.+)$")
-RE_DIVISION = re.compile(r"^Division\s+(\d+[A-Z]*)\s*[\u2014\u2013\-]?\s*(.+)$")
-RE_SUBDIVISION = re.compile(r"^Subdivision\s+(\d+-[A-Z])\s*[\u2014\u2013\-]?\s*(.+)$")
+RE_DIVISION = re.compile(r"^Division\s+(\d+)\s*[\u2014\u2013\-]?\s*(.+)$")
+RE_SUBDIVISION = re.compile(r"^Subdivision\s+(\d+-[A-Z]+)\s*[\u2014\u2013\-]?\s*(.+)$")
 
-# Section header: "6-5 Income according to ordinary concepts"
-# Must start at column 0 (body headers are not indented).
-RE_SECTION = re.compile(r"^(\d+[A-Z]*-\d+[A-Z]*(?:\d+)?)\s+(\S.*)$")
+# Section header: "9-5 Taxable supplies"
+RE_SECTION = re.compile(r"^(\d+-\d+)\s+(\S.*)$")
 
-# Numbered structural elements within a section body.
 RE_SUBSECTION = re.compile(r"^\s*\((\d+)\)\s+(.*)$")
 RE_PARAGRAPH = re.compile(r"^\s+\(([a-z]{1,3})\)\s+(.*)$")
 RE_SUBPARAGRAPH = re.compile(r"^\s+\(([ivx]+)\)\s+(.*)$")
 
-# Notes and examples within sections.
 RE_NOTE = re.compile(r"^\s*Note\s*\d*:\s*(.*)$")
 RE_EXAMPLE = re.compile(r"^\s*Example\s*\d*:\s*(.*)$")
 
-# Header/footer noise to discard.
 RE_NOISE = re.compile(
     r"^("
-    r"Income Tax Assessment Act 1997|"
-    r"\d+\s+Income Tax Assessment Act 1997|"
+    r"A New Tax System \(Goods and Services Tax\) Act 1999|"
+    r"\d+\s+A New Tax System \(Goods and Services Tax\) Act 1999|"
     r"Compilation No\.|"
     r"Authorised Version|"
     r"Compilation date:|"
@@ -57,7 +52,6 @@ RE_NOISE = re.compile(
     r")"
 )
 
-# The asterisk footer line and surrounding separator
 RE_ASTERISK_FOOTER = re.compile(r"^\*To find definitions of asterisked terms.*$")
 RE_FOOTER_SEPARATOR = re.compile(r"^_{3,}$")
 
@@ -67,7 +61,8 @@ RE_FOOTER_SEPARATOR = re.compile(r"^_{3,}$")
 
 @dataclass
 class ParseContext:
-    """Tracks the current structural position while parsing a volume."""
+    chapter: str | None = None
+    chapter_title: str | None = None
     part: str | None = None
     part_title: str | None = None
     division: str | None = None
@@ -81,7 +76,6 @@ class ParseContext:
 
 @dataclass
 class Section:
-    """One section, accumulated line-by-line then serialised to markdown."""
     number: str
     title: str
     context: ParseContext
@@ -99,51 +93,109 @@ class Section:
 # ---------------------------------------------------------------------------
 
 def strip_page_number(title: str) -> str:
-    """Strip trailing page numbers like 'Preliminary    1' or 'Preliminary 94'."""
     return re.sub(r"\s+\d+\s*$", "", title).strip()
 
 
 def has_trailing_page_number(line: str) -> bool:
-    """True if line ends with a page number (TOC entry). Body headers never do."""
     return bool(re.search(r"\s+\d+\s*$", line))
 
 
+def has_trailing_page_number_multi(lines: list[str], i: int) -> tuple[bool, int]:
+    """Check if a multi-line title ends with a page number within 2 lines."""
+    extra = ""
+    j = i
+    while j + 1 < len(lines) and j < i + 3:
+        next_line = lines[j + 1]
+        if not next_line.strip():
+            break
+        if has_trailing_page_number(next_line):
+            return True, j + 1
+        # If next line is a structural marker, stop
+        if any(p.match(next_line) for p in [RE_CHAPTER, RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION]):
+            break
+        j += 1
+        extra += " " + next_line.strip()
+    return False, i
+
+
 def is_toc_section_entry(line: str) -> bool:
-    """True if line looks like a TOC section listing (indented with dots)."""
     return bool(re.match(r"^\s+\d+-\d+\s+\S.*\.{3,}", line))
 
 
 def is_page_header_noise(line: str) -> bool:
-    """Lines that are always noise after a form feed."""
     stripped = line.strip()
     if not stripped:
         return True
-    if stripped.startswith("Chapter "):
+    # Any structural line without an em-dash (\u2014) or en-dash (\u2013) is a running header.
+    has_body_dash = bool(re.search(r"[\u2014\u2013]", stripped))
+    if stripped.startswith("Chapter ") and not has_body_dash:
         return True
-    if stripped.startswith("Section ") and re.match(r"^Section \d+[A-Z]*-\d+[A-Z]*(?:\d+)?$", stripped):
+    if stripped.startswith("Part ") and not has_body_dash:
+        return True
+    if stripped.startswith("Division ") and not has_body_dash:
+        return True
+    if stripped.startswith("Subdivision ") and not has_body_dash:
+        return True
+    if stripped.startswith("Section ") and re.match(r"^Section \d+-\d+$", stripped):
+        return True
+    # Reverse-order running headers (title first, structural element last)
+    if re.search(r"Chapter \d+$", stripped):
+        return True
+    if re.search(r"Part \d+-\d+$", stripped):
+        return True
+    if re.search(r"Division \d+$", stripped):
+        return True
+    if re.search(r"Subdivision \d+-[A-Z]+$", stripped):
         return True
     # Running headers (truncated, often indented)
-    if stripped in (
-        "Introduction and core provisions",
-        "Liability rules of general application",
-        "Specialist liability rules",
-        "Business and investment income",
-        "International",
-        "Compliance and administration",
-        "Dictionary",
-        "Endnotes",
-    ):
+    if re.match(r"^The basic rules Chapter \d+$", stripped):
         return True
-    # Multi-line running headers for dictionary sections
-    if re.match(r"^The Dictionary Chapter \d+$", stripped):
+    if re.match(r"^The exemptions Chapter \d+$", stripped):
         return True
-    if re.match(r"^(Dictionary definitions|Concepts and topics|Rules for interpreting this Act) Part \d+-\d+$", stripped):
+    if re.match(r"^The special rules Chapter \d+$", stripped):
         return True
-    if re.match(r"^(Dictionary definitions|Definitions|Rules for interpreting this Act) (Part|Division) \d+(-\d+)?$", stripped):
+    if re.match(r"^Miscellaneous Chapter \d+$", stripped):
         return True
-    if re.match(r"^Section \d+[A-Z]*-\d+[A-Z]*(?:\d+)?$", stripped):
+    if re.match(r"^Interpretative provisions Chapter \d+$", stripped):
+        return True
+    if re.match(r"^Administration, collection and recovery Chapter \d+$", stripped):
+        return True
+    if re.match(r"^(Introduction|Preliminary|Using this Act|Supplies and acquisitions|Importations|Net amounts and adjustments|Registration|Tax periods|Returns, payments and refunds|GST-free supplies|Input taxed supplies|Special rules|Miscellaneous|Interpretation) Part \d+-\d+$", stripped):
+        return True
+    if re.match(r"^(Taxable supplies|Creditable acquisitions|Taxable importations|Creditable importations|Adjustment events|Bad debts|Who is required to be registered|How you become registered|How to work out the tax periods|What is attributable to tax periods|GST returns|Payments of GST|Refunds|GST-free supplies|Input taxed supplies|Special rules|Miscellaneous|Interpretation) Division \d+$", stripped):
         return True
     return False
+
+
+def gather_title(lines: list[str], i: int, base_title: str) -> tuple[str, int]:
+    """Gather continuation lines for a multi-line title."""
+    title = base_title
+    j = i
+    while j + 1 < len(lines):
+        next_line = lines[j + 1]
+        if not next_line.strip():
+            break
+        # If next line is a structural marker or body element, stop
+        if any(p.match(next_line) for p in [
+            RE_CHAPTER, RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION,
+            RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH,
+            RE_NOTE, RE_EXAMPLE,
+        ]):
+            break
+        if RE_NOISE.match(next_line) or RE_ASTERISK_FOOTER.match(next_line):
+            break
+        # Stop if next line has a trailing page number (TOC)
+        if has_trailing_page_number(next_line):
+            break
+        # Stop at guide/table markers
+        stripped = next_line.strip()
+        if stripped in ("Table of Subdivisions", "Guide to this Division", "Guide to this Part", "Guide to this Chapter"):
+            break
+        if stripped.startswith("Table of Subdivisions") or stripped.startswith("Guide to "):
+            break
+        j += 1
+        title += " " + stripped
+    return title, j
 
 
 # ---------------------------------------------------------------------------
@@ -151,11 +203,6 @@ def is_page_header_noise(line: str) -> bool:
 # ---------------------------------------------------------------------------
 
 def classify_body_line(line: str) -> tuple[str, dict]:
-    """
-    Classify a single body line into one of:
-      - subsection, paragraph, subparagraph, note, example,
-      - continuation, blank, noise.
-    """
     if not line.strip():
         return "blank", {}
 
@@ -194,12 +241,13 @@ def classify_body_line(line: str) -> tuple[str, dict]:
 # ---------------------------------------------------------------------------
 
 def render_section_markdown(section: Section) -> str:
-    """Convert accumulated section.lines into structured markdown."""
     ctx = section.context
 
     fm_lines = [
         "---",
-        'act: "ITAA 1997"',
+        'act: "GST Act 1999"',
+        f'chapter: "{ctx.chapter or ""}"',
+        f'chapter_title: "{ctx.chapter_title or ""}"',
         f'part: "{ctx.part or ""}"',
         f'part_title: "{ctx.part_title or ""}"',
         f'division: "{ctx.division or ""}"',
@@ -262,7 +310,7 @@ def render_section_markdown(section: Section) -> str:
 
         elif kind == "continuation":
             text = data["text"]
-            is_new_def = section.number == "995-1" and starts_new_definition(text)
+            is_new_def = section.number == "195-1" and starts_new_definition(text)
             if is_new_def:
                 body.append("")
                 body.append(text)
@@ -293,13 +341,10 @@ def parse_volume(
     ctx: ParseContext,
     dry_run: bool = False,
 ) -> list[Section]:
-    """Walk a single volume's pdftotext output line by line."""
     sections: list[Section] = []
     current: Section | None = None
     after_form_feed = False
 
-    # CRITICAL: use split("\n") NOT splitlines() because splitlines()
-    # splits on form feed (\x0c) and we need to detect it.
     with raw_text.open("r", encoding="utf-8", errors="replace") as f:
         lines = f.read().split("\n")
 
@@ -307,7 +352,7 @@ def parse_volume(
     while i < len(lines):
         line = lines[i].rstrip("\r")
 
-        # Detect form feed — may appear at start or anywhere in line.
+        # Detect form feed
         if "\f" in line:
             after_form_feed = True
             line = line.replace("\f", "")
@@ -322,7 +367,7 @@ def parse_volume(
 
         # Also strip running headers/footers that appear before a form feed
         stripped = line.strip()
-        if re.match(r"^Income Tax Assessment Act 1997\s+\d+$", stripped):
+        if re.match(r"^A New Tax System \(Goods and Services Tax\) Act 1999\s+\d+$", stripped):
             i += 1
             continue
         if re.match(r"^Authorised Version C\d+ registered \d{2}/\d{2}/\d{4}$", stripped):
@@ -337,13 +382,15 @@ def parse_volume(
 
         # For Part/Division/Subdivision lines after a form feed:
         # skip only if they repeat the current context.
-        # If they introduce a new context, process them normally.
-        # Determine this by matching the regexes first.
+        chapter_match = RE_CHAPTER.match(line)
         part_match = RE_PART.match(line)
         div_match = RE_DIVISION.match(line)
         sub_match = RE_SUBDIVISION.match(line)
 
         if after_form_feed:
+            if chapter_match and chapter_match.group(1) == ctx.chapter:
+                i += 1
+                continue
             if part_match and part_match.group(1) == ctx.part:
                 i += 1
                 continue
@@ -353,7 +400,6 @@ def parse_volume(
             if sub_match and sub_match.group(1) == ctx.subdivision:
                 i += 1
                 continue
-            # Any other line after form feed that isn't noise resets the flag
             after_form_feed = False
 
         # Skip TOC section listings (indented with dots and page numbers)
@@ -362,49 +408,75 @@ def parse_volume(
             continue
 
         # Structural markers
+        if chapter_match:
+            is_toc, skip_to = has_trailing_page_number_multi(lines, i)
+            if is_toc or has_trailing_page_number(line):
+                i = skip_to + 1
+                continue
+            if current:
+                sections.append(current)
+                current = None
+            ctx.chapter = chapter_match.group(1)
+            title, i = gather_title(lines, i, strip_page_number(chapter_match.group(2)))
+            ctx.chapter_title = title
+            ctx.part = None
+            ctx.part_title = None
+            ctx.division = None
+            ctx.division_title = None
+            ctx.subdivision = None
+            ctx.subdivision_title = None
+            logging.info("Chapter %s — %s", ctx.chapter, ctx.chapter_title)
+            i += 1
+            continue
+
         if part_match:
-            # Skip TOC entries that end with a page number.
-            if has_trailing_page_number(line):
-                i += 1
+            is_toc, skip_to = has_trailing_page_number_multi(lines, i)
+            if is_toc or has_trailing_page_number(line):
+                i = skip_to + 1
                 continue
             if current:
                 sections.append(current)
                 current = None
             ctx.part = part_match.group(1)
-            ctx.part_title = strip_page_number(part_match.group(2))
+            title, i = gather_title(lines, i, strip_page_number(part_match.group(2)))
+            ctx.part_title = title
             ctx.division = None
             ctx.division_title = None
             ctx.subdivision = None
             ctx.subdivision_title = None
-            logging.info("Part %s — %s", ctx.part, ctx.part_title)
+            logging.info("  Part %s — %s", ctx.part, ctx.part_title)
             i += 1
             continue
 
         if div_match:
-            if has_trailing_page_number(line):
-                i += 1
+            is_toc, skip_to = has_trailing_page_number_multi(lines, i)
+            if is_toc or has_trailing_page_number(line):
+                i = skip_to + 1
                 continue
             if current:
                 sections.append(current)
                 current = None
             ctx.division = div_match.group(1)
-            ctx.division_title = strip_page_number(div_match.group(2))
+            title, i = gather_title(lines, i, strip_page_number(div_match.group(2)))
+            ctx.division_title = title
             ctx.subdivision = None
             ctx.subdivision_title = None
-            logging.info("  Division %s — %s", ctx.division, ctx.division_title)
+            logging.info("    Division %s — %s", ctx.division, ctx.division_title)
             i += 1
             continue
 
         if sub_match:
-            if has_trailing_page_number(line):
-                i += 1
+            is_toc, skip_to = has_trailing_page_number_multi(lines, i)
+            if is_toc or has_trailing_page_number(line):
+                i = skip_to + 1
                 continue
             if current:
                 sections.append(current)
                 current = None
             ctx.subdivision = sub_match.group(1)
-            ctx.subdivision_title = strip_page_number(sub_match.group(2))
-            logging.info("    Subdivision %s — %s", ctx.subdivision, ctx.subdivision_title)
+            title, i = gather_title(lines, i, strip_page_number(sub_match.group(2)))
+            ctx.subdivision_title = title
+            logging.info("      Subdivision %s — %s", ctx.subdivision, ctx.subdivision_title)
             i += 1
             continue
 
@@ -424,7 +496,7 @@ def parse_volume(
                 if leading_ws >= 12:
                     break
                 if any(p.match(next_line) for p in [
-                    RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION,
+                    RE_CHAPTER, RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION,
                     RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH,
                     RE_NOTE, RE_EXAMPLE
                 ]):
@@ -439,7 +511,7 @@ def parse_volume(
                 title=section_title,
                 context=section_ctx,
             )
-            logging.info("      s %s — %s", current.number, current.title)
+            logging.info("        s %s — %s", current.number, current.title)
             i += 1
             continue
 
