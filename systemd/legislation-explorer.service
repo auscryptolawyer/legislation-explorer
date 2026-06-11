@@ -6,9 +6,10 @@ After=network.target
 Type=simple
 User=harrison
 WorkingDirectory=/home/harrison/legislation-explorer
-Environment="LEGISLATION_BEARER_TOKEN=legislation-explorer-2026"
-ExecStart=/usr/bin/python3 -m uvicorn backend.main:app --host 127.0.0.1 --port 8765
+EnvironmentFile=-/home/harrison/legislation-explorer/.env
+ExecStart=/home/harrison/legislation-explorer/backend/venv/bin/uvicorn backend.main:app --host 127.0.0.1 --port 8765
 Restart=on-failure
+RestartSec=5
 
 [Install]
 WantedBy=multi-user.target

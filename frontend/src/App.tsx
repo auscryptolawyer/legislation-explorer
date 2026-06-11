@@ -3,147 +3,37 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
 import { api } from './api'
+import { Tree, PinItem, COLORS } from './components/common/types'
+import { TreeNode, findExpandedIds } from './components/TreeNode'
+import MCPModal from './components/MCPModal'
+import KeyboardShortcuts from './components/KeyboardShortcuts'
+import PinnedTabs from './components/PinnedTabs'
+import SmartLinkPanel from './components/SmartLinkPanel'
+import DefinitionPopover from './components/DefinitionPopover'
+import SectionContent from './components/SectionContent'
+import RulingContent from './components/RulingContent'
 
-type Section = { id: string; title: string; path: string }
-type Subdivision = { id: string; title: string; sections: Section[] }
-type Division = { id: string; title: string; subdivisions: Subdivision[]; sections: Section[] }
-type Part = { id: string; title: string; divisions: Division[]; sections: Section[] }
-type Signpost = { id: string; title: string; is_signpost: true }
-type Tree = { act: string; parts: (Part | Division | Signpost)[] }
+// ---------------------------------------------------------------------------
+// Helpers
+// ---------------------------------------------------------------------------
 
-// Cadena Legal brand palette
-const COLORS = {
-  bg: '#0a1214',
-  surface: '#0b1b1f',
-  surfaceHover: '#141e20',
-  border: '#253d3d',
-  text: '#aebec2',
-  textMuted: '#758696',
-  accent: '#279e88',
-  accentHover: '#1f5858',
-  heading: '#ffffff',
+const DICT_SECTIONS = new Set(['995-1', '195-1', '6'])
+
+function isDefinitionLink(href?: string) {
+  if (!href) return false
+  const m = href.match(/\/([a-z0-9-]+)\/s([^#]+)(?:#(.+))?/)
+  if (!m) return false
+  return DICT_SECTIONS.has(m[2])
 }
 
-function TreeNode({ node, level, activeSection, onSelect, isMobile }: {
-  node: Part | Division | Subdivision | Section | Signpost
-  level: number
-  activeSection: string
-  onSelect: (id: string) => void
-  isMobile: boolean
-}) {
-  const [expanded, setExpanded] = useState(false)
-  const isSignpost = 'is_signpost' in node && (node as any).is_signpost
-  const isSection = !isSignpost && 'path' in node
-  const isPart = !isSignpost && 'divisions' in node
-  const isDivision = !isSignpost && 'subdivisions' in node && 'sections' in node && !isPart
-  const isSubdivision = !isSignpost && 'sections' in node && !('subdivisions' in node) && !isPart && !isSection
-  const hasChildren = !isSignpost && !isSection && (
-    (isPart && (((node as Part).divisions || []).length > 0 || ((node as Part).sections || []).length > 0)) ||
-    (isDivision && (((node as Division).subdivisions || []).length > 0 || ((node as Division).sections || []).length > 0)) ||
-    (isSubdivision && ((node as Subdivision).sections || []).length > 0)
-  )
-
-  const toggle = (e: React.MouseEvent) => {
-    e.stopPropagation()
-    setExpanded(!expanded)
-  }
-
-  const displayId = isSection ? (node as Section).id : (node as Part | Division | Subdivision | Signpost).id
-  const displayTitle = isSection
-    ? (node as Section).title
-    : (node as Part | Division | Subdivision | Signpost).title
-
-  const indent = isMobile ? Math.min(level * 10, 40) : level * 14
-
-  if (isSignpost) {
-    return (
-      <div style={{ marginLeft: indent }}>
-        <div style={{
-          padding: isMobile ? '8px 8px' : '6px 6px',
-          borderTop: `1px solid ${COLORS.border}`,
-          color: COLORS.textMuted,
-          fontWeight: 600,
-          fontSize: 10,
-          fontFamily: "'Montserrat', sans-serif",
-          textTransform: 'uppercase',
-          minHeight: isMobile ? 32 : 28,
-          display: 'flex',
-          alignItems: 'center',
-        }}>
-          Part {displayId} — {displayTitle}
-        </div>
-      </div>
-    )
-  }
-
-  return (
-    <div style={{ marginLeft: indent }}>
-      <div
-        style={{
-          padding: isMobile ? '4px 8px' : '2px 6px',
-          cursor: 'pointer',
-          borderRadius: 4,
-          background: isSection && (node as Section).id === activeSection ? 'rgba(39,158,136,0.12)' : 'transparent',
-          color: isSection ? COLORS.text : COLORS.textMuted,
-          fontWeight: isSection ? 400 : 500,
-          fontSize: isMobile ? 13 : 12,
-          fontFamily: "'Montserrat', sans-serif",
-          display: 'flex',
-          alignItems: 'center',
-          whiteSpace: 'nowrap',
-          overflow: 'hidden',
-          minHeight: isMobile ? 36 : 28,
-        }}
-        onClick={() => {
-          if (isSection) onSelect((node as Section).id)
-          else setExpanded(!expanded)
-        }}
-      >
-        {hasChildren && (
-          <span onClick={toggle} style={{
-            width: 36, minHeight: 36, display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
-            textAlign: 'center', fontSize: 10,
-            color: COLORS.textMuted, flexShrink: 0,
-          }}>
-            {expanded ? '\u25bc' : '\u25b6'}
-          </span>
-        )}
-        {!hasChildren && <span style={{ width: 36, display: 'inline-block', flexShrink: 0 }} />}
-        <span style={{ marginLeft: 4, whiteSpace: 'nowrap', flexShrink: 0, color: COLORS.heading }}>
-          {isDivision ? `Division ${displayId}` : displayId}
-        </span>
-        {displayTitle && (
-          <span style={{ marginLeft: 6, opacity: 0.65, fontWeight: 400, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-            — {displayTitle}
-          </span>
-        )}
-      </div>
-      {expanded && hasChildren && (
-        <div>
-          {isPart && ((node as Part).divisions || []).map(d => (
-            <TreeNode key={d.id} node={d} level={level + 1} activeSection={activeSection} onSelect={onSelect} isMobile={isMobile} />
-          ))}
-          {isPart && ((node as Part).sections || []).map(s => (
-            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} isMobile={isMobile} />
-          ))}
-          {isDivision && ((node as Division).sections || []).map(s => (
-            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} isMobile={isMobile} />
-          ))}
-          {isDivision && ((node as Division).subdivisions || []).map(s => (
-            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} isMobile={isMobile} />
-          ))}
-          {isSubdivision && ((node as Subdivision).sections || []).map(s => (
-            <TreeNode key={s.id} node={s} level={level + 1} activeSection={activeSection} onSelect={onSelect} isMobile={isMobile} />
-          ))}
-        </div>
-      )}
-    </div>
-  )
-}
+// ---------------------------------------------------------------------------
+// App
+// ---------------------------------------------------------------------------
 
 export default function App() {
   const [act, setAct] = useState('itaa-1997')
   const [tree, setTree] = useState<Tree | null>(null)
+  const [acts, setActs] = useState<any[]>([])
   const [activeSection, setActiveSection] = useState('')
   const [sectionData, setSectionData] = useState<any>(null)
   const [search, setSearch] = useState('')
@@ -152,6 +42,107 @@ export default function App() {
   const [drawerOpen, setDrawerOpen] = useState(false)
   const [isMobile, setIsMobile] = useState(false)
 
+  // Sidebar width with localStorage persistence
+  const [sidebarWidth, setSidebarWidth] = useState(() => {
+    try {
+      const saved = localStorage.getItem('legislation-sidebar-width')
+      return saved ? Math.max(280, Math.min(600, parseInt(saved, 10))) : 400
+    } catch { return 400 }
+  })
+  const [isResizing, setIsResizing] = useState(false)
+
+  const [activeRuling, setActiveRuling] = useState<string | null>(null)
+  const [rulingData, setRulingData] = useState<any>(null)
+  const [commentaryData, setCommentaryData] = useState<any>(null)
+  const [casesData, setCasesData] = useState<any>(null)
+  const [rulingsForSectionData, setRulingsForSectionData] = useState<any>(null)
+
+  const [mcpOpen, setMcpOpen] = useState(false)
+  const [showShortcuts, setShowShortcuts] = useState(false)
+  const [pins, setPins] = useState<PinItem[]>(() => {
+    try { return JSON.parse(localStorage.getItem('legislation-pins') || '[]') }
+    catch { return [] }
+  })
+
+  const [commentaryOpen, setCommentaryOpen] = useState(false)
+  const [casesOpen, setCasesOpen] = useState(false)
+  const [rulingsOpen, setRulingsOpen] = useState(false)
+
+  // Pins
+  const togglePin = () => {
+    if (!activeSection || !sectionData) return
+    const newPin = { act, section: activeSection, title: sectionData.frontmatter?.title || activeSection }
+    const exists = pins.some(p => p.act === act && p.section === activeSection)
+    const nextPins = exists
+      ? pins.filter(p => !(p.act === act && p.section === activeSection))
+      : [...pins, newPin]
+    setPins(nextPins)
+    localStorage.setItem('legislation-pins', JSON.stringify(nextPins))
+  }
+  const unpin = (pin: PinItem) => {
+    const nextPins = pins.filter(p => !(p.act === pin.act && p.section === pin.section))
+    setPins(nextPins)
+    localStorage.setItem('legislation-pins', JSON.stringify(nextPins))
+  }
+  const isPinned = pins.some(p => p.act === act && p.section === activeSection)
+
+  // Definition link popover
+  const renderLink = (href?: string, children?: React.ReactNode) => {
+    if (!isDefinitionLink(href)) return null
+    const m = href!.match(/\/([a-z0-9-]+)\/s([^#]+)(?:#(.+))?/)
+    const linkAct = m ? m[1] : act
+    return (
+      <DefinitionPopover
+        act={linkAct}
+        href={href}
+        onNavigate={(section, anchor) => {
+          if (linkAct === act) {
+            setActiveSection(section)
+            setActiveRuling(null)
+            if (anchor) {
+              setTimeout(() => {
+                const el = document.getElementById(anchor)
+                if (el) el.scrollIntoView({ behavior: 'smooth' })
+              }, 150)
+            }
+          }
+        }}
+      >
+        {children}
+      </DefinitionPopover>
+    )
+  }
+
+  // Navigation wrappers for child components
+  const onNavigate = (targetAct: string, section: string, anchor?: string) => {
+    setAct(targetAct)
+    setActiveSection(section)
+    setActiveRuling(null)
+    if (anchor) {
+      setTimeout(() => {
+        const el = document.getElementById(anchor)
+        if (el) el.scrollIntoView({ behavior: 'smooth' })
+      }, 150)
+    }
+  }
+  const onNavigateRuling = (citation: string) => {
+    setActiveRuling(citation)
+    setActiveSection('')
+  }
+
+  // Keyboard shortcuts
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => {
+      if (e.key === '?' && !e.ctrlKey && !e.metaKey && !e.altKey) {
+        e.preventDefault()
+        setShowShortcuts(s => !s)
+      }
+    }
+    window.addEventListener('keydown', handler)
+    return () => window.removeEventListener('keydown', handler)
+  }, [])
+
+  // Mobile detection
   useEffect(() => {
     const check = () => setIsMobile(window.innerWidth < 768)
     check()
@@ -159,6 +150,12 @@ export default function App() {
     return () => window.removeEventListener('resize', check)
   }, [])
 
+  // Load acts list
+  useEffect(() => {
+    api.acts().then(data => setActs(data)).catch(() => setActs([]))
+  }, [])
+
+  // Load tree when act changes
   useEffect(() => {
     api.tree(act).then(data => {
       setTree(data)
@@ -169,39 +166,86 @@ export default function App() {
     setDrawerOpen(false)
   }, [act])
 
+  // Load section / ruling content
   useEffect(() => {
-    if (!activeSection) return
-    api.section(act, activeSection)
-      .then(data => {
-        setSectionData(data)
-        setError('')
-      })
-      .catch(e => {
-        if (e.message?.includes('404')) {
-          setActiveSection('')
-          setSectionData(null)
-        } else {
-          setError(e.message)
-        }
-      })
-    window.history.pushState(null, '', `/${act}/s${activeSection}`)
-    if (isMobile) setDrawerOpen(false)
-  }, [act, activeSection, isMobile])
+    if (!activeSection && !activeRuling) {
+      setSectionData(null)
+      setRulingData(null)
+      setCommentaryData(null)
+      setCasesData(null)
+      setRulingsForSectionData(null)
+      return
+    }
 
+    if (activeRuling) {
+      api.ruling(activeRuling)
+        .then(data => { setRulingData(data); setError('') })
+        .catch(e => { setRulingData(null); setError(e.message) })
+      window.history.pushState(null, '', `/rulings/s${activeRuling}`)
+    } else if (activeSection) {
+      api.section(act, activeSection)
+        .then(data => { setSectionData(data); setError('') })
+        .catch(e => {
+          if (e.message?.includes('404')) {
+            setActiveSection('')
+            setSectionData(null)
+          } else {
+            setError(e.message)
+          }
+        })
+      api.commentary(act, activeSection).then(setCommentaryData).catch(() => {})
+      api.cases(act, activeSection).then(setCasesData).catch(() => {})
+      api.rulings(act, activeSection).then(setRulingsForSectionData).catch(() => {})
+      window.history.pushState(null, '', `/${act}/s${activeSection}`)
+    }
+    if (isMobile) setDrawerOpen(false)
+  }, [act, activeSection, activeRuling, isMobile])
+
+  // URL → state sync
   useEffect(() => {
     const handler = () => {
-      const m = window.location.pathname.match(/\/(itaa-\d{4})\/s(.+)/)
-      if (m) {
-        setAct(m[1])
-        setActiveSection(m[2])
+      const sectionMatch = window.location.pathname.match(/\/([a-z0-9-]+)\/s(.+)/)
+      const rulingMatch = window.location.pathname.match(/\/rulings\/s(.+)/)
+      const actOnlyMatch = window.location.pathname.match(/^\/([a-z0-9-]+)$/)
+
+      if (rulingMatch) {
+        setAct('rulings')
+        setActiveRuling(decodeURIComponent(rulingMatch[1]))
+        setActiveSection('')
+      } else if (sectionMatch) {
+        setAct(sectionMatch[1])
+        setActiveSection(sectionMatch[2])
+        setActiveRuling(null)
+      } else if (actOnlyMatch) {
+        setAct(actOnlyMatch[1])
+        setActiveSection('')
+        setActiveRuling(null)
       } else {
         setActiveSection('')
+        setActiveRuling(null)
       }
     }
     handler()
     window.addEventListener('popstate', handler)
     return () => window.removeEventListener('popstate', handler)
   }, [])
+
+  // Resize handlers
+  useEffect(() => {
+    const onMouseMove = (e: MouseEvent) => {
+      if (!isResizing) return
+      const newWidth = Math.max(280, Math.min(600, e.clientX))
+      setSidebarWidth(newWidth)
+      localStorage.setItem('legislation-sidebar-width', String(newWidth))
+    }
+    const onMouseUp = () => setIsResizing(false)
+    window.addEventListener('mousemove', onMouseMove)
+    window.addEventListener('mouseup', onMouseUp)
+    return () => {
+      window.removeEventListener('mousemove', onMouseMove)
+      window.removeEventListener('mouseup', onMouseUp)
+    }
+  }, [isResizing])
 
   const doSearch = async () => {
     if (!search.trim()) return
@@ -212,7 +256,7 @@ export default function App() {
   if (error) return <div style={{ padding: 20, color: '#ef4444' }}>Error: {error}</div>
   if (!tree) return <div style={{ padding: 20, color: COLORS.textMuted }}>Loading...</div>
 
-  const sidebarWidth = isMobile ? 280 : 400
+  const mobileSidebarWidth = isMobile ? Math.min(window.innerWidth * 0.85, 380) : sidebarWidth
 
   return (
     <div style={{ display: 'flex', height: '100vh', background: COLORS.bg }}>
@@ -223,7 +267,7 @@ export default function App() {
           style={{
             position: 'fixed',
             top: 12,
-            left: drawerOpen ? sidebarWidth - 56 : 12,
+            left: drawerOpen ? mobileSidebarWidth - 56 : 12,
             zIndex: 110,
             background: COLORS.surface,
             color: COLORS.heading,
@@ -245,27 +289,24 @@ export default function App() {
         </button>
       )}
 
-      {/* Backdrop on mobile */}
+      {/* Mobile backdrop */}
       {isMobile && drawerOpen && (
         <div
           onClick={() => setDrawerOpen(false)}
-          style={{
-            position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.5)',
-            zIndex: 90,
-          }}
+          style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.5)', zIndex: 90 }}
         />
       )}
 
-      {/* Sidebar / Drawer */}
+      {/* Sidebar */}
       <div style={{
-        width: sidebarWidth,
+        width: mobileSidebarWidth,
         background: COLORS.surface,
         borderRight: `1px solid ${COLORS.border}`,
         display: 'flex', flexDirection: 'column',
         position: isMobile ? 'fixed' : 'relative',
-        left: isMobile ? (drawerOpen ? 0 : -sidebarWidth - 10) : 0,
+        left: isMobile ? (drawerOpen ? 0 : -mobileSidebarWidth - 10) : 0,
         top: 0, bottom: 0, zIndex: 100,
-        transition: 'left 0.25s ease',
+        transition: isMobile ? 'left 0.25s ease' : 'none',
       }}>
         <div style={{ padding: isMobile ? '12px 14px' : '14px', borderBottom: `1px solid ${COLORS.border}` }}>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
@@ -283,8 +324,14 @@ export default function App() {
                 fontFamily: "'Montserrat', sans-serif",
               }}
             >
-              <option value="itaa-1997">ITAA 1997</option>
-              <option value="itaa-1936">ITAA 1936</option>
+              {acts.length > 0 ? acts.map(a => (
+                <option key={a.id} value={a.id}>{a.name}</option>
+              )) : (
+                <>
+                  <option value="itaa-1997">ITAA 1997</option>
+                  <option value="itaa-1936">ITAA 1936</option>
+                </>
+              )}
             </select>
             <div style={{ display: 'flex', gap: 6 }}>
               <input
@@ -310,6 +357,18 @@ export default function App() {
                 }}
               >
                 Search
+              </button>
+              <button
+                onClick={() => setMcpOpen(true)}
+                style={{
+                  padding: isMobile ? '10px 14px' : '8px 14px', borderRadius: 6,
+                  background: COLORS.surface, color: COLORS.textMuted,
+                  border: `1px solid ${COLORS.border}`, fontSize: 13, cursor: 'pointer',
+                  fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
+                  whiteSpace: 'nowrap',
+                }}
+              >
+                MCP
               </button>
             </div>
             {searchResults.length > 0 && (
@@ -341,10 +400,25 @@ export default function App() {
         </div>
         <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
           {(tree.parts || []).map(p => (
-            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={setActiveSection} isMobile={isMobile} />
+            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={setActiveSection} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
           ))}
         </div>
       </div>
+
+      {/* Resize handle */}
+      {!isMobile && (
+        <div
+          className={`resize-handle${isResizing ? ' dragging' : ''}`}
+          onMouseDown={() => setIsResizing(true)}
+          style={{
+            width: 4,
+            background: isResizing ? '#279e88' : 'transparent',
+            position: 'relative',
+            zIndex: 101,
+            flexShrink: 0,
+          }}
+        />
+      )}
 
       {/* Main content */}
       <div style={{
@@ -354,65 +428,55 @@ export default function App() {
         fontFamily: "'Lora', serif",
         color: COLORS.text,
       }}>
-        {sectionData ? (
-          <div>
-            <div style={{
-              marginBottom: 20, color: COLORS.textMuted, fontSize: 12,
-              fontFamily: "'Montserrat', sans-serif", letterSpacing: 0.3,
-              textTransform: 'uppercase' as const,
-            }}>
-              {sectionData.frontmatter.act} &rsaquo; Part {sectionData.frontmatter.part} &rsaquo; Division {sectionData.frontmatter.division}
-            </div>
-            <div style={{
-              lineHeight: 1.7, fontSize: isMobile ? 15 : 15, color: COLORS.text,
-            }}>
-              <ReactMarkdown
-                remarkPlugins={[remarkGfm]}
-                rehypePlugins={[rehypeRaw]}
-                components={{
-                  h1: ({ children }) => <h1 style={{ color: COLORS.heading, fontSize: isMobile ? 20 : 22, marginBottom: 16, fontWeight: 600, borderBottom: `1px solid ${COLORS.border}`, paddingBottom: 8 }}>{children}</h1>,
-                  h2: ({ children }) => <h2 style={{ color: COLORS.heading, fontSize: isMobile ? 17 : 18, marginTop: 24, marginBottom: 12, fontWeight: 600 }}>{children}</h2>,
-                  h3: ({ children }) => <h3 style={{ color: COLORS.heading, fontSize: isMobile ? 15 : 16, marginTop: 20, marginBottom: 10, fontWeight: 600 }}>{children}</h3>,
-                  p: ({ children }) => <p style={{ marginBottom: 12, color: COLORS.text }}>{children}</p>,
-                  a: ({ children, href }) => {
-                    const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
-                      if (href) {
-                        const m = href.match(/\/(itaa-\d{4})\/s([^#]+)(?:#(.+))?/)
-                        if (m) {
-                          const targetAct = m[1]
-                          const targetSection = m[2]
-                          const anchor = m[3]
-                          if (targetAct === act) {
-                            e.preventDefault()
-                            setActiveSection(targetSection)
-                            if (anchor) {
-                              setTimeout(() => {
-                                const el = document.getElementById(anchor)
-                                if (el) el.scrollIntoView({ behavior: 'smooth' })
-                              }, 150)
-                            }
-                          }
-                        }
-                      }
-                    }
-                    return <a href={href} onClick={handleClick} style={{ color: COLORS.accent, textDecoration: 'none' }}>{children}</a>
-                  },
-                  blockquote: ({ children }) => <blockquote style={{ marginLeft: 16, paddingLeft: 12, borderLeft: `3px solid ${COLORS.border}`, color: COLORS.textMuted }}>{children}</blockquote>,
-                  ul: ({ children }) => <ul style={{ marginLeft: 20, marginBottom: 12 }}>{children}</ul>,
-                  ol: ({ children }) => <ol style={{ marginLeft: 20, marginBottom: 12 }}>{children}</ol>,
-                  li: ({ children }) => <li style={{ marginBottom: 4 }}>{children}</li>,
-                }}
-              >
-                {sectionData.markdown}
-              </ReactMarkdown>
-            </div>
-          </div>
+        {pins.length > 0 && (
+          <PinnedTabs
+            pins={pins}
+            act={act}
+            activeSection={activeSection}
+            isMobile={isMobile}
+            setAct={setAct}
+            setActiveSection={setActiveSection}
+            unpin={unpin}
+          />
+        )}
+
+        {activeRuling && rulingData ? (
+          <RulingContent
+            rulingData={rulingData}
+            isMobile={isMobile}
+            renderLink={renderLink}
+            onNavigate={onNavigate}
+            onNavigateRuling={onNavigateRuling}
+          />
+        ) : sectionData ? (
+          <SectionContent
+            act={act}
+            sectionData={sectionData}
+            commentaryData={commentaryData}
+            casesData={casesData}
+            rulingsForSectionData={rulingsForSectionData}
+            isMobile={isMobile}
+            isPinned={isPinned}
+            togglePin={togglePin}
+            renderLink={renderLink}
+            onNavigate={onNavigate}
+            onNavigateRuling={onNavigateRuling}
+            commentaryOpen={commentaryOpen}
+            setCommentaryOpen={setCommentaryOpen}
+            casesOpen={casesOpen}
+            setCasesOpen={setCasesOpen}
+            rulingsOpen={rulingsOpen}
+            setRulingsOpen={setRulingsOpen}
+          />
         ) : (
           <div style={{ color: COLORS.textMuted, fontSize: 14 }}>
             Select a section from the tree.
           </div>
         )}
       </div>
+
+      <MCPModal open={mcpOpen} onClose={() => setMcpOpen(false)} />
+      <KeyboardShortcuts showShortcuts={showShortcuts} setShowShortcuts={setShowShortcuts} />
     </div>
   )
 }

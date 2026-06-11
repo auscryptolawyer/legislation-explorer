@@ -11,11 +11,57 @@ async function fetchJson(path: string) {
   return res.json()
 }
 
+async function fetchData(url: string, method: string = 'GET', body: any = null) {
+  const options: RequestInit = {
+    method,
+    headers: {
+      ...authHeaders(),
+      'Content-Type': 'application/json',
+    },
+  };
+  if (body) {
+    options.body = JSON.stringify(body);
+  }
+  const res = await fetch(`${API_BASE}${url}`, options);
+  if (!res.ok) {
+    let errorMsg = `${res.status}: ${res.statusText}`;
+    try {
+      const errorData = await res.json();
+      errorMsg = errorData.message || errorMsg;
+    } catch (e) {
+      // Ignore if JSON parsing fails
+    }
+    throw new Error(errorMsg);
+  }
+  return res.json();
+}
+
 export const api = {
-  acts: () => fetchJson('/acts'),
-  tree: (act: string) => fetchJson(`/tree/${act}`),
+  acts: () => fetchData('/acts'),
+  tree: (act: string) => fetchData(`/tree/${act}`),
+  generateMcpToken: () => fetchData('/mcp-token', 'POST'),
+  listMcpTokens: () => fetchData('/mcp-tokens'),
+  revokeMcpToken: (token: string) => fetchData(`/mcp-tokens/${token}/revoke`, 'POST'),
   section: (act: string, section: string) => fetchJson(`/section/${act}/${section}`),
+  commentary: (act: string, section: string) => fetchJson(`/commentary/${act}/${section}`),
+  cases: (act: string, section: string) => fetchJson(`/cases/${act}/${section}`),
+  rulings: (act: string, section: string) => fetchJson(`/rulings/${act}/${section}`),
   definitions: (act: string) => fetchJson(`/definitions/${act}`),
   definition: (act: string, term: string) => fetchJson(`/definition/${act}/${term}`),
-  search: (q: string, act?: string) => fetchJson(`/search?q=${encodeURIComponent(q)}${act ? `&act=${act}` : ''}`),
+  definitionText: (act: string, term: string) => fetchJson(`/definition-text/${act}/${term}`),
+  search: (q: string, act?: string, offset?: number, limit?: number) => {
+    let url = `/search?q=${encodeURIComponent(q)}`
+    if (act) url += `&act=${act}`
+    if (offset !== undefined) url += `&offset=${offset}`
+    if (limit !== undefined) url += `&limit=${limit}`
+    return fetchJson(url)
+  },
+  ruling: (citation: string) => fetchJson(`/ruling/${encodeURIComponent(citation)}`),
+  rulingSections: (citation: string) => fetchJson(`/ruling-sections/${encodeURIComponent(citation)}`),
+  listComments: (act: string, section: string) => fetchJson(`/comments/${act}/${section}`),
+  createComment: (act: string, section: string, author: string, text: string) =>
+    fetchData('/comments', 'POST', { act, section, author, text }),
+  resolveComment: (commentId: number) =>
+    fetchData('/comments/resolve', 'POST', { comment_id: commentId }),
+  sectionRefs: (act: string, section: string) => fetchJson(`/section-refs/${act}/${section}`),
 }
