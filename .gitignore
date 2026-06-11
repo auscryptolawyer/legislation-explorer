@@ -21,4 +21,5 @@ data/definitions_all.json
 data/definitions_supplemental*.json
 data/missing_terms*.txt
 !data/itaa-*/
-!data/gst-*/md_files.txt
+!data/gst-*/
+md_files.txt
