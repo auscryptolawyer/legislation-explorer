@@ -27,7 +27,17 @@ async function fetchData(url: string, method: string = 'GET', body: any = null) 
     let errorMsg = `${res.status}: ${res.statusText}`;
     try {
       const errorData = await res.json();
-      errorMsg = errorData.message || errorMsg;
+      if (errorData.message) {
+        errorMsg = errorData.message;
+      } else if (errorData.error) {
+        errorMsg = errorData.error;
+      } else if (errorData.detail) {
+        if (typeof errorData.detail === 'string') {
+          errorMsg = errorData.detail;
+        } else if (Array.isArray(errorData.detail)) {
+          errorMsg = errorData.detail.map((d: any) => d.msg || d.message).join('; ');
+        }
+      }
     } catch (e) {
       // Ignore if JSON parsing fails
     }
@@ -39,7 +49,7 @@ async function fetchData(url: string, method: string = 'GET', body: any = null) 
 export const api = {
   acts: () => fetchData('/acts'),
   tree: (act: string) => fetchData(`/tree/${act}`),
-  generateMcpToken: () => fetchData('/mcp-token', 'POST'),
+  generateMcpToken: () => fetchData('/mcp-token', 'POST', {}),
   listMcpTokens: () => fetchData('/mcp-tokens'),
   revokeMcpToken: (token: string) => fetchData(`/mcp-tokens/${token}/revoke`, 'POST'),
   section: (act: string, section: string) => fetchJson(`/section/${act}/${section}`),
