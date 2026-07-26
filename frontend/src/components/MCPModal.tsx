@@ -9,6 +9,8 @@ interface MCPModalProps {
 
 type TokenInfo = {
   id: number;
+  name: string;
+  created_by: string;
   created_at: number;
   last_used: number | null;
   request_count: number;
@@ -21,6 +23,8 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
   const [error, setError] = useState<string | null>(null);
   const [copiedUrl, setCopiedUrl] = useState(false);
   const [copiedToken, setCopiedToken] = useState(false);
+  const [renamingId, setRenamingId] = useState<number | null>(null);
+  const [renameValue, setRenameValue] = useState('');
 
   const baseUrl = 'https://legislation.scriptkitty.yachts/mcp/sse';
   const fullUrl = generatedToken ? `${baseUrl}?token=${generatedToken}` : baseUrl;
@@ -56,6 +60,38 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
     }
   };
 
+  const revokeToken = async (tokenId: number) => {
+    setError(null);
+    try {
+      await api.revokeMcpToken(String(tokenId));
+      loadTokens();
+    } catch (e: any) {
+      setError(e.message);
+    }
+  };
+
+  const startRename = (token: TokenInfo) => {
+    setRenamingId(token.id);
+    setRenameValue(token.name || '');
+  };
+
+  const submitRename = async () => {
+    if (renamingId === null) return;
+    setError(null);
+    try {
+      await api.renameMcpToken(renamingId, renameValue.trim() || 'Untitled');
+      setRenamingId(null);
+      loadTokens();
+    } catch (e: any) {
+      setError(e.message);
+    }
+  };
+
+  const cancelRename = () => {
+    setRenamingId(null);
+    setRenameValue('');
+  };
+
   const copyToClipboard = (text: string, type: 'url' | 'token') => {
     navigator.clipboard.writeText(text).then(() => {
       if (type === 'url') {
@@ -88,7 +124,7 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
       <div
         style={{
           background: COLORS.surface, border: `1px solid ${COLORS.border}`,
-          borderRadius: 8, padding: 24, maxWidth: 600, width: '90%',
+          borderRadius: 8, padding: 24, maxWidth: 640, width: '90%',
           overflowY: 'auto', maxHeight: '90vh', position: 'relative',
         }}
         onClick={e => e.stopPropagation()}
@@ -106,7 +142,7 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
         </button>
 
         <h2 style={{ color: COLORS.heading, marginTop: 0, fontFamily: "'Montserrat', sans-serif", fontSize: 18 }}>
-          MCP Server Connection
+          MCP Server
         </h2>
 
         <p style={{ color: COLORS.textMuted, fontSize: 13, lineHeight: 1.5 }}>
@@ -131,7 +167,7 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
         </div>
 
         {error && (
-          <div style={{ marginTop: 12, color: '#ef4444', fontSize: 13 }}>
+          <div style={{ marginTop: 12, padding: 10, borderRadius: 6, background: 'rgba(239,68,68,0.1)', color: '#ef4444', fontSize: 13 }}>
             {error}
           </div>
         )}
@@ -172,7 +208,7 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
           </div>
         )}
 
-        {/* SSE URL */}
+        {/* SSE Endpoint URL */}
         <div style={{ marginTop: 24 }}>
           <div style={{ color: COLORS.heading, fontSize: 13, fontWeight: 600, marginBottom: 8, fontFamily: "'Montserrat', sans-serif" }}>
             SSE Endpoint URL
@@ -209,30 +245,80 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
         {/* Token list */}
         {tokens.length > 0 && (
           <div style={{ marginTop: 24 }}>
-            <div style={{ color: COLORS.heading, fontSize: 13, fontWeight: 600, marginBottom: 8, fontFamily: "'Montserrat', sans-serif" }}>
-              Active Tokens ({tokens.length})
+            <div style={{ color: COLORS.heading, fontSize: 13, fontWeight: 600, marginBottom: 12, fontFamily: "'Montserrat', sans-serif" }}>
+              Your Tokens ({tokens.length})
             </div>
             <div style={{
-              maxHeight: 200, overflowY: 'auto',
+              maxHeight: 320, overflowY: 'auto',
               border: `1px solid ${COLORS.border}`, borderRadius: 6,
             }}>
               {tokens.map(t => (
                 <div key={t.id} style={{
-                  padding: '10px 12px',
+                  padding: '12px 14px',
                   borderBottom: `1px solid ${COLORS.border}`,
                   fontSize: 12, color: COLORS.text,
                   fontFamily: "'Montserrat', sans-serif",
                 }}>
-                  <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-                    <span style={{ color: COLORS.textMuted }}>Token #{t.id}</span>
-                    <span style={{ color: COLORS.accent }}>{t.request_count} requests</span>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8 }}>
+                    <div style={{ flex: 1, minWidth: 0 }}>
+                      {renamingId === t.id ? (
+                        <div style={{ display: 'flex', gap: 4, alignItems: 'center' }}>
+                          <input
+                            value={renameValue}
+                            onChange={e => setRenameValue(e.target.value)}
+                            onKeyDown={e => { if (e.key === 'Enter') submitRename(); if (e.key === 'Escape') cancelRename(); }}
+                            autoFocus
+                            style={{
+                              flex: 1, padding: '4px 8px', borderRadius: 4, fontSize: 12,
+                              background: COLORS.bg, color: COLORS.heading,
+                              border: `1px solid ${COLORS.accent}`, outline: 'none',
+                              fontFamily: "'Montserrat', sans-serif",
+                            }}
+                          />
+                          <button onClick={submitRename} style={{ padding: '4px 8px', borderRadius: 4, background: COLORS.accent, color: '#fff', border: 'none', cursor: 'pointer', fontSize: 10, fontWeight: 600 }}>Save</button>
+                          <button onClick={cancelRename} style={{ padding: '4px 8px', borderRadius: 4, background: COLORS.bg, color: COLORS.textMuted, border: `1px solid ${COLORS.border}`, cursor: 'pointer', fontSize: 10 }}>Cancel</button>
+                        </div>
+                      ) : (
+                        <div
+                          onClick={() => startRename(t)}
+                          style={{ color: COLORS.heading, fontWeight: 600, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: 4 }}
+                          title="Click to rename"
+                        >
+                          {t.name || `Token #${t.id}`}
+                          <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke={COLORS.textMuted} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                            <path d="M17 3a2.83 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/>
+                          </svg>
+                        </div>
+                      )}
+                    </div>
+                    <button
+                      onClick={() => revokeToken(t.id)}
+                      title="Revoke token"
+                      style={{
+                        padding: '4px 8px', borderRadius: 4,
+                        background: 'rgba(239,68,68,0.1)', color: '#ef4444',
+                        border: 'none', cursor: 'pointer',
+                        fontSize: 10, fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
+                        whiteSpace: 'nowrap', flexShrink: 0,
+                      }}
+                    >
+                      Revoke
+                    </button>
                   </div>
-                  <div style={{ color: COLORS.textMuted, fontSize: 11, marginTop: 4 }}>
-                    Created: {formatDate(t.created_at)} · Last used: {formatDate(t.last_used)}
+                  <div style={{ display: 'flex', gap: 12, marginTop: 6, color: COLORS.textMuted, fontSize: 11 }}>
+                    <span><strong style={{ color: COLORS.accent }}>{t.request_count}</strong> calls</span>
+                    <span>Created: {formatDate(t.created_at)}</span>
+                    <span>Last used: {formatDate(t.last_used)}</span>
                   </div>
                 </div>
               ))}
             </div>
+          </div>
+        )}
+
+        {tokens.length === 0 && !generatedToken && (
+          <div style={{ marginTop: 20, color: COLORS.textMuted, fontSize: 12, fontStyle: 'italic' }}>
+            No tokens yet. Generate one above to get started.
           </div>
         )}
 

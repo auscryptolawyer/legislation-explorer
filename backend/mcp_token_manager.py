@@ -133,6 +133,27 @@ class TokenManager:
             )
             conn.commit()
 
+    def rename_token(self, token_hash_id: str, new_name: str) -> bool:
+        """Rename a token by its hash string or id. Returns True if it existed."""
+        with _connect() as conn:
+            # Try matching by hash first, then by id
+            cur = conn.execute(
+                "UPDATE mcp_tokens SET name = ? WHERE token_hash = ? AND revoked_at IS NULL",
+                (new_name.strip(), token_hash_id),
+            )
+            if cur.rowcount == 0:
+                # Try numeric id
+                try:
+                    tid = int(token_hash_id)
+                    cur = conn.execute(
+                        "UPDATE mcp_tokens SET name = ? WHERE id = ? AND revoked_at IS NULL",
+                        (new_name.strip(), tid),
+                    )
+                except ValueError:
+                    pass
+            conn.commit()
+            return cur.rowcount > 0
+
     def revoke_token(self, token: str) -> bool:
         """Revoke a token. Returns True if it existed."""
         token_hash = _hash(token)
@@ -144,17 +165,30 @@ class TokenManager:
             conn.commit()
             return cur.rowcount > 0
 
-    def list_tokens(self) -> list[dict]:
-        """List all non-revoked tokens (without hashes). Includes created_by."""
+    def list_tokens(self, created_by: str = "") -> list[dict]:
+        """List all non-revoked tokens (without hashes). Includes created_by.
+        If created_by is provided, only returns tokens created by that user.
+        """
         with _connect() as conn:
-            rows = conn.execute(
-                """
-                SELECT id, name, created_by, created_at, last_used, request_count
-                FROM mcp_tokens
-                WHERE revoked_at IS NULL
-                ORDER BY created_at DESC
-                """
-            ).fetchall()
+            if created_by:
+                rows = conn.execute(
+                    """
+                    SELECT id, name, created_by, created_at, last_used, request_count
+                    FROM mcp_tokens
+                    WHERE revoked_at IS NULL AND created_by = ?
+                    ORDER BY created_at DESC
+                    """,
+                    (created_by,),
+                ).fetchall()
+            else:
+                rows = conn.execute(
+                    """
+                    SELECT id, name, created_by, created_at, last_used, request_count
+                    FROM mcp_tokens
+                    WHERE revoked_at IS NULL
+                    ORDER BY created_at DESC
+                    """
+                ).fetchall()
             return [
                 {
                     "id": r["id"],

@@ -52,6 +52,7 @@ export const api = {
   generateMcpToken: () => fetchData('/mcp-token', 'POST', {}),
   listMcpTokens: () => fetchData('/mcp-tokens'),
   revokeMcpToken: (token: string) => fetchData(`/mcp-tokens/${token}/revoke`, 'POST'),
+  renameMcpToken: (tokenId: number, name: string) => fetchData(`/mcp-tokens/${tokenId}/rename`, 'POST', { name }),
   section: (act: string, section: string) => fetchJson(`/section/${act}/${section}`),
   commentary: (act: string, section: string) => fetchJson(`/commentary/${act}/${section}`),
   cases: (act: string, section: string) => fetchJson(`/cases/${act}/${section}`),
