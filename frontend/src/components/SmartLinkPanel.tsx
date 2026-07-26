@@ -29,13 +29,36 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({ act, section, onNavigat
   const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
-    const fetchSectionRefs = async () => {
+    const fetchData = async () => {
       setLoading(true)
       setError(null)
       try {
-        const data = await api.sectionRefs(act, section)
-        setRelatedSections(data.sections || [])
-        setDefinedTerms(data.definitions || [])
+        const [refs, defTerms] = await Promise.all([
+          api.sectionRefs(act, section),
+          api.sectionDefinedTerms(act, section).catch(() => ({ terms: [] })),
+        ])
+        setRelatedSections(refs.sections || [])
+        // Merge definitions from both sources
+        const refDefs: DefinedTerm[] = (refs.definitions || []).map((d: any) => ({
+          term: d.term || d.id || '',
+          section: d.section || '',
+          anchor: d.anchor || '',
+          title: d.title || `s ${d.section}`,
+        }))
+        const bodyDefs: DefinedTerm[] = (defTerms.terms || []).map((d: any) => ({
+          term: d.term,
+          section: d.section,
+          anchor: d.anchor,
+          title: `s ${d.section}`,
+        }))
+        // Deduplicate by term
+        const seen = new Set<string>()
+        const merged = [...refDefs, ...bodyDefs].filter(d => {
+          if (seen.has(d.term.toLowerCase())) return false
+          seen.add(d.term.toLowerCase())
+          return true
+        })
+        setDefinedTerms(merged)
       } catch (e: any) {
         setError(e.message)
       } finally {
@@ -43,7 +66,7 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({ act, section, onNavigat
       }
     }
 
-    fetchSectionRefs()
+    fetchData()
   }, [act, section])
 
   const handleSectionClick = (link: RelatedSection) => {

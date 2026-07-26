@@ -82,4 +82,5 @@ export const api = {
   info: () => fetchJson('/info'),
   mcpHallOfFame: () => fetchJson('/mcp-hall-of-fame'),
   sectionRefs: (act: string, section: string) => fetchJson(`/section-refs/${act}/${section}`),
+  sectionDefinedTerms: (act: string, section: string) => fetchJson(`/section-defined-terms/${act}/${section}`),
 }
