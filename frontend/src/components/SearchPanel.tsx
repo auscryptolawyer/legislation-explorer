@@ -24,7 +24,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
   const [results, setResults] = useState<FlatResult[]>([])
   const [autoResults, setAutoResults] = useState<FlatResult[]>([])
   const [filterOpen, setFilterOpen] = useState(false)
-  const [bestMatch, setBestMatch] = useState(true)
+  const [sortMode, setSortMode] = useState<'bestmatch' | 'bysection' | 'byact'>('bestmatch')
   const [loading, setLoading] = useState(false)
   const [autoLoading, setAutoLoading] = useState(false)
   const [selectedActs, setSelectedActs] = useState<Set<string>>(new Set())
@@ -69,7 +69,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
 
     setLoading(true)
     try {
-      if (bestMatch) {
+      if (sortMode === 'bestmatch') {
         const data = await api.searchFlat(term)
         const allResults: FlatResult[] = data.results || data || []
         if (selectedActs.size > 0) {
@@ -224,13 +224,14 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
           onClick={() => setFilterOpen(!filterOpen)}
           title="Filters"
           style={{
-            padding: isMobile ? '10px 12px' : '8px 12px', borderRadius: 6,
+            width: 24, height: 24, borderRadius: 4,
             background: filterOpen ? COLORS.accent : COLORS.surface,
             color: filterOpen ? '#fff' : COLORS.textMuted,
             border: `1px solid ${filterOpen ? COLORS.accent : COLORS.border}`,
             fontSize: 13, cursor: 'pointer',
             display: 'flex', alignItems: 'center', justifyContent: 'center',
             fontFamily: "'Montserrat', sans-serif",
+            flexShrink: 0, padding: 0,
           }}
         >
           {filterButtonSvg}
@@ -245,43 +246,55 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
           padding: 10,
           display: 'flex', flexDirection: 'column', gap: 8,
         }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-            <label style={{ fontSize: 12, color: COLORS.text, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: 6, fontFamily: "'Montserrat', sans-serif" }}>
-              <input
-                type="checkbox"
-                checked={bestMatch}
-                onChange={() => setBestMatch(!bestMatch)}
-              />
-              Best matches (cross-act ranking)
-            </label>
+          {/* Sort options */}
+          <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Sort:</div>
+          <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
+            {(['bestmatch', 'bysection', 'byact'] as const).map(mode => (
+              <label
+                key={mode}
+                style={{
+                  fontSize: 11, color: COLORS.text, cursor: 'pointer',
+                  display: 'flex', alignItems: 'center', gap: 4,
+                  padding: '3px 6px', borderRadius: 4,
+                  background: sortMode === mode ? COLORS.accent + '22' : 'transparent',
+                  fontFamily: "'Montserrat', sans-serif",
+                }}
+              >
+                <input
+                  type="radio"
+                  name="sortMode"
+                  checked={sortMode === mode}
+                  onChange={() => setSortMode(mode)}
+                  style={{ margin: 0 }}
+                />
+                {mode === 'bestmatch' ? 'Best match' : mode === 'bysection' ? 'By section' : 'By act'}
+              </label>
+            ))}
           </div>
-          {!bestMatch && (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
-              <div style={{ fontSize: 11, color: COLORS.textMuted, marginBottom: 2, fontFamily: "'Montserrat', sans-serif" }}>Sources:</div>
-              <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4 }}>
-                {acts.map(a => (
-                  <label
-                    key={a.id}
-                    style={{
-                      fontSize: 11, color: COLORS.text, cursor: 'pointer',
-                      display: 'flex', alignItems: 'center', gap: 4,
-                      padding: '2px 6px', borderRadius: 4,
-                      background: selectedActs.has(a.id) ? COLORS.accent + '22' : 'transparent',
-                      fontFamily: "'Montserrat', sans-serif",
-                    }}
-                  >
-                    <input
-                      type="checkbox"
-                      checked={selectedActs.has(a.id)}
-                      onChange={() => toggleAct(a.id)}
-                      style={{ margin: 0 }}
-                    />
-                    {shortActName(a.id)}
-                  </label>
-                ))}
-              </div>
-            </div>
-          )}
+          {/* Source filters */}
+          <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Sources:</div>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4 }}>
+            {acts.map(a => (
+              <label
+                key={a.id}
+                style={{
+                  fontSize: 11, color: COLORS.text, cursor: 'pointer',
+                  display: 'flex', alignItems: 'center', gap: 4,
+                  padding: '3px 6px', borderRadius: 4,
+                  background: selectedActs.has(a.id) ? COLORS.accent + '22' : 'transparent',
+                  fontFamily: "'Montserrat', sans-serif",
+                }}
+              >
+                <input
+                  type="checkbox"
+                  checked={selectedActs.has(a.id)}
+                  onChange={() => toggleAct(a.id)}
+                  style={{ margin: 0 }}
+                />
+                {shortActName(a.id)}
+              </label>
+            ))}
+          </div>
         </div>
       )}
 
@@ -323,7 +336,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
               }}>
                 {r.title || r.headline}
               </span>
-              {bestMatch && r.score > 0 && (
+              {sortMode === 'bestmatch' && r.score > 0 && (
                 <span style={{ fontSize: 9, color: COLORS.textMuted, opacity: 0.5, marginLeft: 'auto', flexShrink: 0 }}>
                   {Math.round(r.score)}
                 </span>

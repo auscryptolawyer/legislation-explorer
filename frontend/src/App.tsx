@@ -310,33 +310,17 @@ export default function App() {
   return (
     <ThemeProvider>
       <div style={{ display: 'flex', height: '100vh', background: COLORS.bg }}>
-      {/* Mobile sidebar toggle */}
-      {isMobile && !drawerOpen && (
-        <button
-          onClick={() => setDrawerOpen(true)}
-          style={{
-            position: 'fixed', top: 12, left: 12, zIndex: 110,
-            background: COLORS.surface, color: COLORS.heading,
-            border: `1px solid ${COLORS.border}`,
-            borderRadius: 6, padding: '10px 12px',
-            fontSize: 18, cursor: 'pointer', lineHeight: 1,
-            minWidth: 44, minHeight: 44,
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
-          }}
-        >
-          {'\u2630'}
-        </button>
-      )}
+
+      {/* Mobile close button - positioned at top of sidebar, outside act picker */}
       {isMobile && drawerOpen && (
         <button
           onClick={() => setDrawerOpen(false)}
           style={{
-            position: 'fixed', top: 12, left: mobileSidebarWidth - 56, zIndex: 110,
-            background: COLORS.surface, color: COLORS.heading,
-            border: `1px solid ${COLORS.border}`,
-            borderRadius: 6, padding: '10px 12px',
-            fontSize: 18, cursor: 'pointer', lineHeight: 1,
-            minWidth: 44, minHeight: 44,
+            position: 'fixed', top: 8, left: mobileSidebarWidth - 40, zIndex: 200,
+            background: 'transparent', color: COLORS.heading,
+            border: 'none',
+            fontSize: 20, cursor: 'pointer', lineHeight: 1,
+            width: 32, height: 32,
             display: 'flex', alignItems: 'center', justifyContent: 'center',
             transition: 'left 0.25s ease',
           }}
@@ -415,11 +399,12 @@ export default function App() {
           ))}
         </div>
 
-        {/* Sidebar bottom: settings, bug report, login */}
+        {/* Sidebar bottom: settings, bug report, sign in/user */}
         <div style={{
           borderTop: `1px solid ${COLORS.border}`,
-          padding: isMobile ? '8px 12px' : '8px 12px',
+          padding: isMobile ? '10px 12px' : '8px 12px',
           display: 'flex', gap: 6, alignItems: 'center',
+          flexWrap: 'wrap', justifyContent: 'center',
         }}>
           <div ref={settingsRef} style={{ position: 'relative' }}>
             <button
@@ -467,8 +452,9 @@ export default function App() {
               </span>
             )}
           </button>
+          <div style={{ flex: 1, minWidth: 0 }} />
           {user ? (
-            <div style={{ display: 'flex', alignItems: 'center', gap: 4, flex: 1, minWidth: 0 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 4, minWidth: 0 }}>
               <div style={{
                 fontSize: 10, color: COLORS.accent, fontFamily: "'Montserrat', sans-serif",
                 overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap',
@@ -494,11 +480,11 @@ export default function App() {
           ) : (
             <button
               onClick={() => window.location.href = '/auth/login'}
-              title="Sign in with Microsoft"
+              title="Sign in"
               style={{
                 padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
-                background: COLORS.bg, color: COLORS.textMuted,
-                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                background: COLORS.accent, color: '#fff',
+                border: 'none', cursor: 'pointer',
                 display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
                 fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
               }}
@@ -506,6 +492,7 @@ export default function App() {
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/>
               </svg>
+              Sign in
             </button>
           )}
         </div>
@@ -529,7 +516,7 @@ export default function App() {
       {/* Main content */}
       <div style={{
         flex: 1, overflow: 'auto',
-        padding: isMobile ? '16px 16px 24px' : '20px 40px',
+        padding: isMobile ? '16px 12px 24px' : '20px 40px',
         paddingTop: isMobile ? (hasContent ? 12 : 16) : (hasContent ? 12 : 20),
         maxWidth: 960, margin: '0 auto',
         fontFamily: "'Lora', serif",
@@ -537,29 +524,6 @@ export default function App() {
         display: 'flex', flexDirection: 'column',
         position: 'relative',
       }}>
-        {/* Top-right login / user info */}
-        {!authLoading && (
-          <div style={{ position: 'absolute', top: 20, right: 40, zIndex: 60 }}>
-            {user ? (
-              <span style={{ fontSize: 11, color: COLORS.accent, fontFamily: "'Montserrat', sans-serif" }}>
-                {user.name || user.email}
-              </span>
-            ) : (
-              <button
-                onClick={() => window.location.href = '/auth/login'}
-                style={{
-                  padding: '6px 12px', borderRadius: 6,
-                  background: COLORS.accent, color: '#fff',
-                  border: 'none', cursor: 'pointer',
-                  fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 600,
-                }}
-              >
-                Sign in
-              </button>
-            )}
-          </div>
-        )}
-
         {/* Sticky search bar — only when content is open */}
         {hasContent && (
           <div style={{
