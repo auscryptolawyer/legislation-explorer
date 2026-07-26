@@ -68,9 +68,18 @@ export default function App() {
   })
 
   const [appInfo, setAppInfo] = useState<any>(null)
+  const [user, setUser] = useState<any>(null)
+  const [authLoading, setAuthLoading] = useState(true)
 
   useEffect(() => {
     api.info().then(setAppInfo).catch(() => {})
+  }, [])
+
+  useEffect(() => {
+    fetch('/auth/me')
+      .then(r => r.ok ? r.json() : null)
+      .then(u => { setUser(u); setAuthLoading(false) })
+      .catch(() => { setUser(null); setAuthLoading(false) })
   }, [])
 
   const [settingsOpen, setSettingsOpen] = useState(false)
@@ -486,21 +495,47 @@ export default function App() {
               </span>
             )}
           </button>
-          <button
-            onClick={() => {/* TBD: login */}}
-            title="Sign in"
-            style={{
-              padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
-              background: COLORS.bg, color: COLORS.textMuted,
-              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-              display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
-              fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
-            }}
-          >
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/>
-            </svg>
-          </button>
+          {user ? (
+            <div style={{ display: 'flex', alignItems: 'center', gap: 4, flex: 1, minWidth: 0 }}>
+              <div style={{
+                fontSize: 10, color: COLORS.accent, fontFamily: "'Montserrat', sans-serif",
+                overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap',
+              }}>
+                {user.name || user.email}
+              </div>
+              <button
+                onClick={() => window.location.href = '/auth/logout'}
+                title="Sign out"
+                style={{
+                  padding: '4px 6px', borderRadius: 4,
+                  background: COLORS.bg, color: COLORS.textMuted,
+                  border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                  display: 'flex', alignItems: 'center', justifyContent: 'center',
+                  fontSize: 10, fontFamily: "'Montserrat', sans-serif", flexShrink: 0,
+                }}
+              >
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/>
+                </svg>
+              </button>
+            </div>
+          ) : (
+            <button
+              onClick={() => window.location.href = '/auth/login'}
+              title="Sign in with Microsoft"
+              style={{
+                padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+                background: COLORS.bg, color: COLORS.textMuted,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
+                fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+              }}
+            >
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/>
+              </svg>
+            </button>
+          )}
         </div>
       </div>
 
@@ -528,7 +563,31 @@ export default function App() {
         fontFamily: "'Lora', serif",
         color: COLORS.text,
         display: 'flex', flexDirection: 'column',
+        position: 'relative',
       }}>
+        {/* Top-right login / user info */}
+        {!authLoading && (
+          <div style={{ position: 'absolute', top: 20, right: 40, zIndex: 60 }}>
+            {user ? (
+              <span style={{ fontSize: 11, color: COLORS.accent, fontFamily: "'Montserrat', sans-serif" }}>
+                {user.name || user.email}
+              </span>
+            ) : (
+              <button
+                onClick={() => window.location.href = '/auth/login'}
+                style={{
+                  padding: '6px 12px', borderRadius: 6,
+                  background: COLORS.accent, color: '#fff',
+                  border: 'none', cursor: 'pointer',
+                  fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 600,
+                }}
+              >
+                Sign in
+              </button>
+            )}
+          </div>
+        )}
+
         {/* Sticky search bar — only when content is open */}
         {hasContent && (
           <div style={{
