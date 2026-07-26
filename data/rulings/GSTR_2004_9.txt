@@ -1,0 +1,808 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 358
+  • Division 358
+  • Subdivision 38-A
+  • Subdivision 9-C
+  • div 38
+  • div 9
+  • division 38
+  • division 9
+
+Cases Referenced:
+  • Inland Revenue v. New Zealand Forest Research Institute Ltd
+
+  • Inland Revenue v. New Zealand Forest Research Institute Ltd
+(2000) 19 NZTC 15
+  • Iona Farm Limited v. Commissioner 
+  • Ors v. Commissioner 
+  • Re Hornsby Shire Council v. Commissioner 
+  • Reglon Pty Limited v. Commissioner 
+  • Shaw v. Director 
+  • Taxation v Morgan
+(1961) 106 CLR 517
+  • Taxation v. Foxwood 
+  • Westley Nominees Pty Ltd v. Coles Supermarkets Australia Pty Ltd
+(2006) 152 FCR 461
+
+Topics: GST, Trusts, Companies, International, Employment
+
+
+
+================================================================================
+
+GSTR 2004/9 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+33 related documents
+Goods and Services Tax Ruling
+GSTR 2004/9
+Goods and services tax:  GST consequences of the assumption of vendor liabilities by the purchaser of an enterprise
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+FOI status:
+may be released
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+8
+Background
+10
+Ruling
+23
+Explanation (this forms part of the Ruling)
+38
+Examples
+119
+Detailed contents list
+150
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 37 of the
+Taxation Administration Act 1953
+and former section 105-60 of Schedule 1 to the
+Taxation Administration Act 1953.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[
+Note:
+This is a consolidated version of this document. Refer to the ATO Legal database (
+ato.gov.au/law
+) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling is about the application of the
+A New Tax System (Goods and Services Tax) Act 1999
+('GST Act') to an entity that purchases all of those things that make up an enterprise ('purchaser') where some, or all, of the liabilities of the vendor are assumed by the purchaser.
+2. For simplicity, a transaction for the supply of all those things that make up an enterprise is referred to in this Ruling as the 'supply of an enterprise'. The Ruling considers a variety of liabilities of the vendor that may be assumed by the purchaser as part of the supply of an enterprise. The mechanisms to assume a liability are discussed along with the respective GST treatment.
+3. This Ruling discusses whether the purchaser of an enterprise makes a supply to the vendor by agreeing to assume liabilities of the vendor as part of the acquisition of the enterprise. The Ruling also addresses the supply of an enterprise by the vendor, and the consideration for that supply.
+4. In some circumstances, the supply of an enterprise may constitute the supply of a GST-free going concern for the purposes of section 38-325 of the GST Act. Goods and Services Tax Ruling GSTR 2002/5, which deals with when a 'supply of a going concern' is GST-free, explains section 38-325. This Ruling should be read in conjunction with GSTR 2002/5.
+5. This Ruling does not apply to a transaction, the substance of which is an assumption of another entity's liability in return for payment, where there is no supply of an enterprise.
+[1]
+5A. This Ruling does not apply to the supply of a retirement village covered by the class of arrangement in Goods and Services Tax Ruling GSTR 2011/1 Goods and services tax:  development, lease and disposal of a retirement village tenanted under a 'loan-lease' arrangement.
+[1A]
+6. The examples included at the end of this Ruling present a variety of scenarios where liabilities are assumed as part of a supply of an enterprise. The interpretations and views outlined in this Ruling are applied in these examples.
+7. Unless otherwise stated, all legislative references in this Ruling are to the GST Act.
+Date of effect
+8. This Ruling explains the Commissioner's view of the law as it applied from 1 July 2000. You can rely upon this Ruling on and from its date of issue for the purposes of former section 105-60 or section 357-60 of Schedule 1 to the
+Taxation Administration Act 1953
+(as applicable).
+8A. The Addendum to this Ruling that issued on 12 December 2018 explains the Commissioner's view of the law as it applied from 1 July 2017. You can rely on this Addendum from its date of effect for the purposes of section 357-60 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+9. If any of the Addenda conflict with a previous private ruling that you have obtained or a previous public ruling, the Addendum prevails. However, if you have relied on a previous ruling (including the public Ruling that the Addendum amends), you are protected in respect of what you have done up to the date of issue of the Addendum or, if there is a change to the legislation, you are protected in respect of what you have done up to the date the legislative change takes effect. This means that if you have relied on the earlier ruling and have underpaid an amount of GST, you are not liable for the shortfall prior to either the issue date of the Addendum or the date the legislative change takes effect, as appropriate. Similarly, if you have relied on the earlier ruling you are not liable to repay an amount overpaid by the Commissioner as a refund.
+Background
+Meaning of liabilities
+10. Immediately prior to the settlement date of a contract for the supply of an enterprise, the vendor is responsible for paying liabilities that have been incurred prior to that date. However, in negotiating the supply of the enterprise, the vendor and purchaser may contractually agree that the purchaser will assume certain obligations to pay the vendor's existing and or future liabilities.
+11. The word 'liability' is not defined in the GST Act. A liability is generally described as an 'obligation especially for payment; debt or pecuniary obligations; something disadvantageous'.
+[2]
+To be liable means to be 'subject, exposed, or open to something possible or likely' or to be 'under a legal obligation; responsible or answerable'.
+[3]
+For accounting purposes, a liability of a business is something owed by the business.
+12. The following types of liabilities are commonly assumed by a purchaser:
+•
+trade creditors/accounts payable;
+•
+product warranties;
+•
+long service leave obligations of employees;
+•
+environmental rehabilitation;
+•
+rent;
+•
+rates;
+•
+land tax; and
+•
+plant and equipment or property leases.
+13. For the purposes of this Ruling, an 'assumption of a liability' by the purchaser of an enterprise focuses on the contractual arrangements entered into between the vendor and purchaser. It is the contractual arrangements and surrounding facts and circumstances that identify the transaction. This is the process by which the parties agree for a liability of the enterprise to be assumed by the purchaser. Therefore, it is not necessary to establish whether a liability of the vendor is in fact present and existing, contingent or uncertain at the time the enterprise is supplied. The focus is on what is agreed by the parties and the GST consequences that flow from this agreement.
+Assumption of liabilities
+14. Liabilities may be imposed by and regulated by statute.
+15. If liabilities are imposed by statute, for example, the liability for and calculation of employee long service leave entitlements, the statute may have the effect of imposing the liability on the then owner of the enterprise at the time the liability is to be paid. In these circumstances, the purchaser assumes the liability as a consequence of purchasing the enterprise. Upon transfer of the enterprise, the statute ceases to impose the liability on the former owner (vendor) and has the effect of imposing a liability on the purchaser. This effect is imposed and arises from the operation of the statute and not the agreement between the vendor and the purchaser.
+16. Liabilities imposed by statute are to be contrasted to liabilities the purchaser agrees by the terms of the contract to assume from the vendor. For example, a purchaser may agree to assume a contractual liability of the vendor of a balance owing to a trade creditor. Similarly, the purchaser may agree to assume a statutory liability of the vendor, where the effect of the statute is that the legal liability remains with the vendor. For example, unpaid rates for a rating period ending prior to the period when settlement occurs. In these cases, it is the agreement of the vendor and purchaser that causes the liability to be assumed by the purchaser.
+17. The assumption of a liability by contractual agreement in the case of a sale of a business was discussed by Gummow J in
+TNT Skypak International (Aust) Pty Ltd v. FCT
+.
+[4]
+His Honour said:
+The liabilities could not be assumed in a legal sense by the taxpayer without novations with the creditors involved. For this the agreement did not provide. Rather, the assets of the business ... were to be purchased and there was to be, as between the taxpayer and [the vendor], an assumption of liabilities, that is a promise by the [purchaser] to [the vendor] to pay the creditors of [the vendor], together with an indemnity of [the vendor] by the [purchaser] against claims by the creditors of [the vendor]. Thus, from a practical point of view, it may be said that the taxpayer 'assumed' the liabilities of [the vendor].
+18. In view of the above, an agreement between a vendor and purchaser for the transfer of a liability to the purchaser, without the consent of the creditor, has the
+practical effect
+of assigning the obligation. Although not legally released from the obligation, the vendor is
+effectively released
+because of the contractual promise by the purchaser to the vendor to pay the liability, and the indemnity provided in conjunction with the promise. For the purposes of this Ruling, we refer to this type of assumption as an 'effective assumption'.
+19. An effective assumption is to be distinguished from a novation where the liability is legally assigned. 'Novation' can be described as a tripartite agreement whereby a contract between two parties is rescinded in consideration for a new contract being entered into on the same terms by one of the parties and a third party. It is a method of releasing one party from the contract and introducing another in its place.
+[5]
+Consideration for the enterprise
+20. Under an agreement for the supply of an enterprise, if a purchaser agrees to assume an existing liability of the vendors or if the purchaser becomes subject to a statutory liability after settlement, the vendor may:
+•
+allow a 'set-off' (or reduction) to the agreed purchase price; or
+•
+pay an amount to the purchaser representing the liability.
+21. For example, if an enterprise is sold for an agreed price of $100,000 and, as part of the agreement, the purchaser assumes the obligation to pay an outstanding liability of the vendor of $10,000 owing to a trade creditor, the contract may allow a 'set-off' or reduction to the purchase price. Therefore, at settlement the purchaser pays $90,000 to the vendor, with an amount of $10,000 to be paid by the purchaser to a trade creditor.
+22. Alternatively, the vendor may make a separate payment to the purchaser for the amount of the assumed liability. Using the above example, the vendor pays $10,000 to the purchaser at settlement, instead of allowing a 'set-off' in the contract. The purchaser pays $100,000 to the vendor so that, effectively, the vendor receives $90,000 ($100,000 less $10,000 paid to the purchaser) from the purchaser and $10,000 to be paid to a trade creditor.
+Ruling
+Statutory liabilities imposed on the purchaser
+23. A purchaser of an enterprise does not make a supply within the meaning of section 9-10, or specifically within the meaning of paragraph 9-10(2)(g), of an entry into an obligation, if the liability upon the purchaser is imposed, required and effected by the words of a statute.
+24. This is also the case where the statutory liability is merely confirmed by way of contractual agreement between the parties.
+25. The consideration for the supply of the enterprise by the vendor does not include the value of a liability which will be imposed upon the purchaser by statute after settlement. Any set-off allowed at settlement, or any payment from the vendor to the purchaser in respect of a statutory liability imposed on the purchaser, is a reduction to the price of the enterprise.
+Liabilities effectively assumed by the purchaser
+26. A purchaser assumes a liability of the vendor for the purposes of this Ruling if, as part of the terms of the supply of the enterprise, the purchaser promises to the vendor that it will discharge, either immediately or in the future, the vendor's liability to a third party.
+Quantified liabilities
+27. A quantified liability is an amount quantified with certainty at the time it is assumed. That is, the purchaser agrees to pay an amount of money to a third party. In these circumstances, a purchaser of an enterprise does not make a supply within the meaning of section 9-10.
+28. The purchaser's assumption of the liability forms part of the consideration for the supply of the enterprise, expressed as money, paid by the purchaser for the enterprise.
+Unquantified liabilities
+29. If the amount of the liability has not been quantified by the vendor then it is the provision of non-monetary consideration if it has an economic value and a separate independent identity. The GST inclusive market value of the purchaser's promise to pay the vendor's liability forms part of the consideration for the supply of the enterprise. For a vendor and purchaser dealing at arm's length, a value agreed and allowed as a set-off in the calculation of the purchase price is likely to accurately represent the GST-inclusive market value.
+30. In the context of a supply of an enterprise, the purchaser does not make a supply if the terms and conditions of the contractual agreement for the supply provide for the purchaser to assume an unquantified liability of the vendor.
+Assignment of agreements
+31. If the vendor's interest in an ongoing contractual agreement is assigned to the purchaser as part of the supply of an enterprise, the purchaser, by assuming the future contractual liability, does not make a supply within the meaning of section 9-10.
+32. In these circumstances, the assigned agreement requires the purchaser to pay to a third party an amount in respect of the third party's performance of the contract after settlement. The obligations under the agreement assigned to the purchaser do not form part of the consideration for the supply of the enterprise. The payments are for the creditor's performance of its obligations under the assigned agreement, the benefit of which has been assigned to the purchaser.
+33. If the vendor has amounts outstanding prior to the assignment, to the extent the purchaser agrees to pay these amounts, the liability forms part of the consideration for the supply of the enterprise.
+Indemnities in respect of liabilities assumed
+34. If a purchaser agrees to indemnify the vendor against any claims by a third party in respect of a liability assumed by the purchaser (for example, a trade creditor), the provision of the indemnity does not have an economic value and an independent identity that is separate from the obligation on the purchaser to pay the purchase price, part of which includes the obligation to pay the creditor the amount of the liabilities assumed. The indemnity is not a separate supply by the purchaser.
+Does the purchaser make a taxable supply when it offers employment to the vendor's employees?
+35. As part of the agreement for the acquisition of an enterprise, the purchaser may agree with the vendor to offer employment to some or all of the vendor's employees. The agreement may also provide for the vendor to pay the purchaser an amount representing the accrued leave entitlements of employees that accept the purchaser's offer of employment. The obligation to offer employment is not a taxable supply as the purchaser is not making a supply for consideration, within the meaning of paragraph 9-5(a).
+GST-free supply of a going concern
+36. The above principles apply equally whether or not the going concern exemption in section 38-325 is available to the vendor and the purchaser. Provided the conditions in that section are satisfied, the assumption of liabilities by the purchaser will not affect the vendor's ability to make a GST-free supply of a going concern.
+Supply of an enterprise with taxable and non-taxable parts
+37. If the exemption in section 38-325 is not available and if the supply of the things that make up an enterprise is a mixed supply and does not satisfy the requirements of section 38-325, the total consideration for the supply of enterprise is to be allocated between the taxable and non-taxable components. An acceptable method of allocation would be the same methodology adopted when applying section 9-80.
+[6]
+Explanation (this forms part of the Ruling)
+Does the purchaser of an enterprise make a 'supply' if liabilities are assumed?
+'Supply'
+38. The first requirement for a taxable supply under paragraph 9-5(a) is that 'you make a supply for consideration'. In order to determine whether an entity makes a supply within the meaning of the GST Act, it is necessary to examine the meaning of 'supply'.
+[6A]
+39. The word 'supply' is defined in subsection 9-10(1) as 'any form of supply whatsoever'. In a previous Ruling we have taken 'supply' to mean 'to furnish or provide'.
+40. Without limiting subsection 9-10(1), subsection 9-10(2), provides that 'supply' includes any of these:
+(a)
+a supply of goods;
+(b)
+a supply of services;
+(c)
+a provision of advice or information;
+(d)
+a grant, assignment or surrender of real property;
+(e)
+a creation, grant, transfer, assignment or surrender of any right;
+(f)
+a financial supply;
+(g)
+an entry into, or release from, an obligation to do anything, to refrain from an act, or to tolerate an act or situation; and
+(h)
+any combination of any 2 or more of the matters referred to above.
+[8]
+41. In adopting the ordinary and natural meaning of the term, 'to furnish or provide', court and tribunal decisions have suggested that an entity must take some action to 'make a supply'.
+[8A]
+This notion is consistent with the use of active phrases throughout the examples of supplies in section 9-10, such as the terms:  'a provision', 'a grant', 'a creation', 'a transfer', 'an entry into', and 'an assignment'.
+42. However, the High Cort decision in
+Commissioner of Taxation v. MBI Properties Pty Ltd
+(2014) 254 CLR 376; [2014] HCA 49; (2014) 92 ATR 241; 2014 ATC 20-474 (
+MBI Properties
+) recognises that performance of an obligation can result in the entity making a supply, even though in performing the obligation the entity may do nothing more than refrain from taking some action or tolerate a situation during a contractually defined period.
+[9]
+In this context, the High Court observed that the making of a supply need not always involve the taking of some action on the part of the supplier.
+[9A]
+43. The Commissioner considers that to make a 'supply' an entity must provide something of value to another entity.
+[10]
+In addition, the Commissioner considers that an entity does not make a paragraph 9-10(2)(g) obligation supply simply by having a legal obligation imposed on it because circumstances exist which bring the entity within the terms of the obligation in question.
+[11]
+44. [Omitted.]
+45. To establish whether a purchaser makes a supply requires an examination and analysis of the transaction. It is necessary to determine whether the purchaser provides something under the agreement.
+Does the purchaser make a supply if a statutory obligation exists, for example, employee entitlements or environmental rehabilitation obligations are imposed on the purchaser?
+46. A vendor may, at the time immediately before settlement, be subject to a statutory liability associated with carrying on the enterprise. The statutory obligation may be a liability for the payment of money (such as long service leave entitlements to employees) or to do some other thing (such as environmental rehabilitation work). After settlement, the statute may operate to impose the liability on the purchaser because the liability rests with whoever is the employer or owner of land. As a result of the statute, after settlement, the vendor is no longer liable in relation to the matter covered by the statute because it is no longer an employee or owner of the land.
+47. For example, in relation to a mining enterprise, a statute may impose environmental obligations on the operator of the enterprise to rehabilitate the land where mining activities have been carried out. A consequence of a sale of the mining enterprise is that the purchaser becomes the holder of the mining tenement and subject to the statutory liability. The vendor is no longer responsible under the statute.
+48. Similarly, if there is a sale of an enterprise, the effect of various Commonwealth, State or Territory industrial relations statutes is to impose an obligation on the purchaser to pay the long service leave entitlements of ongoing employees. A common feature of the statutes is that they require the current employer to pay the entitlements calculated on the basis that the employee's period of service is deemed not to be broken by the change of employer as a result of the sale.
+49. The particular statute and not the contract between the purchaser and the vendor imposes, requires and effects the obligation on the purchaser after settlement. This is the case even if the contract merely acknowledges the statutory liability and provides for an adjustment to the contract price to reflect that the purchaser undertakes to pay the liability. These contractual clauses merely confirm the operation of the statute.
+50. It can be argued that the purchaser, by purchasing an enterprise that attracts a statutory liability, enters into an obligation within the definition of 'supply' in section 9-10. If this were the case, it would follow that the purchaser makes a supply in satisfaction of those obligations.
+51. However, for there to be a supply in the context of obligations arising by operation of law, an entity must provide something in satisfaction of those obligations. In the case of a purchaser of an enterprise who becomes an employer of the enterprise's continuing employees, the purchaser does not actively enter into an obligation to provide long service leave entitlements to the continuing employees in respect of their accumulated period of service with the previous employer (vendor). This obligation is imposed by statute, irrespective of anything done by the purchaser.
+52. Similarly, the purchaser of a mining enterprise does not actively enter into any obligations with the vendor to rehabilitate land if those obligations attach to the current holder of the mining tenement.
+53. In these cases, the purchaser does not 'make a supply' simply by having a legal obligation imposed on it because circumstances exist which bring the entity within the terms of the obligation. The statute imposes, requires and effects the entry into the obligation, imposing the obligation as a consequence of being the current employer or the current holder of a mining tenement.
+54. To establish whether or not a statutory liability is imposed on the purchaser after settlement requires, in each case, an examination of the words of the particular statute in question. If the effect of the particular statute is that the original entity that incurred the liability remains legally liable despite supplying the enterprise, then the purchaser does not have an obligation imposed, required and effected by statute. For example, in most States the obligation to pay accrued annual leave entitlements is not imposed by statute on the purchaser of the enterprise. The vendor remains legally liable under the statute to pay the employees their accrued annual leave entitlements.
+[12]
+55. If the effect of a particular statute is that the vendor remains legally liable after settlement, the purchaser can only effectively assume the obligation by contractual agreement with the vendor. This requires some action by the purchaser, such that it is necessary to consider whether the purchaser makes a supply. The following paragraphs consider the effective assumption of a liability by way of contractual agreement.
+Does the purchaser make a supply if the vendor's quantified liabilities are assumed by contractual agreement? For example, trade creditors, enterprise overheads, arrears of rates and land taxes, outstanding rent and lease payments?
+56. If a purchaser acquires an enterprise and assumes an existing quantified liability of the vendor, it agrees to pay the purchase price to the vendor and to pay an amount directly to a creditor. In these circumstances:
+(a)
+the payment of the amount of the purchase price to the vendor is monetary consideration for the supply of the enterprise; and
+(b)
+the payment to the creditor is also part of the consideration for the supply of the enterprise.
+[12A]
+57. In relation to the payment to the creditor, it may be argued that the purchaser enters into an obligation to pay, which is a supply within paragraph 9-10(2)(g) of the meaning of supply. If this were the case, it would follow that the purchaser makes a supply.
+58. However, for the entry into an obligation to be a separate supply, the obligation must have economic value and an independent identity that is separate from the underlying transaction.
+[13]
+59. The true nature of the transaction will characterise whether the provision of some rights and obligations are conditions of the contract or supplies within the meaning prescribed in section 9-10.
+60. We consider that these obligations are essentially another way of describing the consideration, such that they have no separate existence.
+[14]
+The 'obligation to make a payment' does not exist separately from the 'payment that is to be made'.
+[15]
+The 'obligation' is not capable of being separately analysed as a supply for the purposes of section 9-10.
+[16]
+The obligation on the purchaser is to pay the purchase price.
+61. The purchaser's entry into the obligation to pay the vendor the purchase price does not have an independent identity that is separate from the actual payment.
+[17]
+Similarly, the purchaser's entry into an obligation to pay an amount to a creditor at the direction of the vendor, while it has economic value, does not have an independent identity separate from the promise to pay the full purchase price. The purchaser simply pays the purchase price, partly to the vendor at settlement and partly to the creditor (at the vendor's direction).
+Does the purchaser make a supply if the vendor's unquantified liabilities are assumed by contractual agreement, for example, product warranties?
+62. If a purchaser acquires an enterprise and assumes an existing unquantified liability of the vendor, it agrees to pay the purchase price to the vendor and to pay an unspecified amount directly to a third party. For example, a purchaser may agree to honour product warranty liabilities of the vendor.
+63. In relation to an agreement to pay a third party, it may be argued that the purchaser enters into an obligation to pay, which is a supply within section 9-10(2)(g) of the meaning of supply.
+64. The true nature of the transaction will characterise whether the provision of rights and obligations are conditions of the contract or supplies within section 9-10.
+65. If an enterprise is supplied, the nature of the transaction is the supply of all things necessary for the conduct of that enterprise. If a purchaser agrees to honour product warranty liabilities of the vendor this is merely a term or condition of the contract of sale. That is, the enterprise is supplied on the condition that the warranty liabilities are to be satisfied.
+66. The underlying supply is all the things that make up the enterprise. The terms or conditions of the supply are not of themselves individual or separate supplies within section 9-10.
+67. Therefore, the purchaser does not make a supply if, as a term or condition of the contract for the acquisition of the enterprise, the purchaser agrees to assume an unquantified liability of the vendor.
+Does the purchaser make a supply if it provides an indemnity for the liabilities it assumes?
+68. If a purchaser agrees to indemnify the vendor against claims by the creditor in respect of the liability assumed, it may be argued that the provision of the indemnity by the purchaser is within the meaning of supply.
+69. However, in the context of the supply of an enterprise where liabilities are assumed, we consider that the purchaser's provision of an indemnity is merely a term or condition of the transaction under which the enterprise is supplied and the liabilities assumed. The indemnity does not have an economic value and an independent identity that is separate from the obligation on the purchaser to pay the purchase price, part of which includes the obligation to pay the creditor the amount of the liabilities assumed.
+[18]
+The 'obligation to make a payment' under the indemnity does not exist separately from the 'payment that is to be made'
+[19]
+and is not a supply for the purposes of section 9-10.
+[20]
+Does the purchaser make a supply by offering employment to the vendor's employees in circumstances where the purchase price is adjusted for the accrued entitlements of continuing employees?
+70. It could be argued that a reduction or set-off to the consideration for the supply of the enterprise in the above circumstances is consideration provided by the vendor for a supply by the purchaser of entering into an obligation to offer employment to the vendor's employees. This obligation is not imposed by statute. Although the purchaser positively acts to effect the entry into the obligation as part of the contract, the purchaser is not considered to make a supply for consideration.
+71. A term in the agreement where a purchaser agrees to offer employment is considered to be a term or condition for the supply of the enterprise. It does not have any economic value and independent identity separate from the transaction.
+72. Further, the reduction or set-off by the vendor in respect of the accrued leave entitlements of the transferring employees does not amount to consideration for a supply by the purchaser of entering into an obligation to offer employment. A payment must have a sufficient connection, or nexus to a supply to represent consideration provided for that supply.
+[21]
+There is an insufficient nexus between this payment by the vendor and the entry into the obligation, with the payment being made as a result of employees accepting the offers, not in relation to the purchaser agreeing to make the offers. The payment represents a reduction to the purchase price for the enterprise, equal to an amount of money the new employer will require to comply with the statutory requirements in respect of long service leave entitlements.
+What consideration is provided by the purchaser for the supply of an enterprise?
+73. Consideration for a supply (or acquisition) is defined in section 195-1 to mean 'any consideration, within the meaning given by sections 9-15 and 9-17, in connection with the supply or acquisition.'
+74. Subsection 9-15(1) provides that a payment, or any act or forbearance, is consideration for a supply if it is 'in connection with',
+[22]
+'in response to or for the inducement of'
+[23]
+a supply. A payment must have a sufficient connection, or nexus to the supply to represent consideration provided for that supply.
+[24]
+75. Consideration for a supply can be money or something other than money. This is recognised in section 9-75 which provides for the calculation of GST payable on a taxable supply by reference to the price for the supply, which is the sum of:
+•
+the consideration for the supply as expressed as an amount of money ('monetary consideration'); and
+•
+the GST inclusive market value of any consideration that is not expressed as money ('non-monetary consideration').
+76. In determining whether acts, rights or obligations are non-monetary consideration, the thing must have economic value and an independent identity which is separate from the underlying transaction.
+[25]
+Calculating the GST payable
+77. If a supply of the things that make up an enterprise is not GST-free as a supply of a going concern, the GST payable on the supply is calculated in accordance with Subdivision 9-C. If some of the things that make up the enterprise are GST-free or input taxed supplies, the supply of an enterprise is treated in the same way as a mixed supply. For example, the trading stock of the enterprise may be food that is GST-free under Subdivision 38-A. In these circumstances, the GST payable on the supply of the enterprise is calculated as 10% of the value of all the taxable components of the transaction.
+[26]
+78. For a mixed supply, the total consideration for the supply of the enterprise must be apportioned using a reasonable method of apportionment.
+[27]
+Therefore, for an enterprise that is made up of some things that are supplied as taxable supplies, and some things that are supplied as GST-free or input taxed supplies, the total consideration for the transaction must be allocated to the various things.
+79. The following paragraphs discuss how to determine the total consideration for the supply of the enterprise where liabilities are assumed.
+Consideration - statutory liability imposed on the purchaser
+80. Where the effect of a statute is to impose a liability on the purchaser as a consequence of acquiring a particular enterprise, the purchaser must pay the liability irrespective of any agreement entered into with the vendor. The statute requires the purchaser to pay the liability.
+81. Given that the purchaser becomes legally liable after settlement, the consideration for the supply of the enterprise by the vendor does not include the value of a statutory liability imposed on the purchaser.
+82. Any set-off allowed at settlement in respect of the statutory liability merely represents a reduction (or discount) to the purchase price for the supply of the enterprise. This discount reflects the fact that the enterprise is worth less to the purchaser, given that the purchaser will become subject to the statutory obligation. The set-off is simply the means by which the parties calculate the consideration that the purchaser must pay for the enterprise under the contract.
+83. Support for this view is found by analysing which of the entities is legally liable to the creditor. For example, for long service leave entitlements, the uniform effect of the various industrial relations statutes is to extinguish the liability of the vendor, and to impose a liability on the purchaser. It follows that, when the purchaser actually pays the entitlements to the employees, the purchaser does so in satisfaction of its own legal obligation. The payments discharge the purchaser's legal liability, not the vendor's. Since neither the actual payments nor the obligation to make the payments, are provided to the vendor, or at the vendor's direction for the discharge of the vendor's debt, the amount does not form part of the consideration for the supply of the enterprise by the vendor. There is not a sufficient nexus between the payment of the statutory liability and the supply of the enterprise by the vendor. This is in contrast to the effective assumption by the purchaser of, for example, a trade creditor debt where the effect of the payment by the purchaser is the discharge of the vendor's debt.
+84. Support for this view is found in
+Federal Commissioner of Taxation v. Foxwood (Tolga) Pty Ltd
+[28]
+where the High Court considered whether a payment from a vendor to a purchaser in respect of accrued leave entitlements was deductible for income tax purposes. The Court held the amount paid in respect of holiday pay to be a revenue outgoing, given that the vendor remained liable to the employees for this amount, whereas the amount paid in respect of long service leave was capital, given that the vendor was no longer to be liable to the employees for this outgoing. Wilson J, said in relation to the amount for long service leave:
+By virtue of the Act, the purchaser of the business became solely responsible for that liability. This being so, the payment necessarily assumes the character of an adjustment to the purchase price on the sale of the taxpayer's business.
+[29]
+85. In addition, it was noted by Young J in the High Court of New Zealand in
+Iona Farm Limited v. Commissioner of Inland Revenue
+,
+[30]
+that a liability to pay rates imposed on a lessee is not part of the consideration for the supply under the lease. In that case, the effect of the statute was to impose rates on the lessee, since the lease was for greater than twelve months. His Honour distinguished this from the situation in
+The Trustee, Executors and Agency Company New Zealand Limited & Ors v. Commissioner of Inland Revenue
+,
+[31]
+where the primary liability for the rates was with the lessor, the lessee being obliged to pay only because of a term of the lease.
+Does the consideration for the supply include settlement adjustments?
+86. In cases where real property is supplied as part of the things that make up an enterprise, the consideration for the supply of the enterprise will not always be the purchase price shown on the contract as adjustments are commonly made on settlement for rates, land tax and other outgoings.
+87. Rates or land tax may be assessed to and paid by the vendor before the date of settlement. In such a case, the contract will usually require the purchaser to pay an extra amount to the vendor for the balance of the rates or land tax period that reflects the purchaser's period of ownership. In the usual case where the contract stipulates that both the purchase price and the adjustment must be paid at settlement, in return for possession and title documents, the vendor is receiving and the purchaser is paying extra consideration for the sale and purchase of the enterprise.
+88. Alternatively, rates may be assessed to the purchaser after settlement where part of the rates period reflects the vendor's period of ownership prior to settlement. In these circumstances, the terms of the contract usually require an adjustment in favour of the purchaser, based on the vendor's period of ownership. The purchaser is paying less consideration to the vendor than the purchase price reflected in the contract.
+89. In other circumstances, rates or land tax assessed to the vendor may remain unpaid at settlement. In this case the purchaser may withhold an amount from the purchase price and pay this amount to the municipal or revenue authority. The purchaser is merely applying part of the agreed consideration to meet the vendor's liability for rates or land tax. The consideration for the supply of the enterprise is the sum of the amount paid at settlement to the vendor, and the amount paid to the municipal authority.
+90. In respect of rent outgoings, any adjustment made in favour of the vendor in respect of prepaid rent is additional consideration for the supply of the enterprise. This is consistent with the treatment of prepaid rates or land tax in paragraph 87. Outstanding rent that remains the liability of the vendor that the purchaser agrees to pay forms part of the consideration for the supply of the enterprise. This is consistent with the treatment of outstanding rates or land tax in paragraph 88.
+Alternative view
+91. There is an alternative view that settlement adjustments made for rates paid in advance do not change the consideration for the supply of enterprise. Any adjustment made on the transfer of possession in these circumstances is not in respect of the purchase price of the enterprise, but is reimbursement of rates for the respective period of usage.
+92. Support for this view is based on the decision in
+Commissioner of Taxation v Morgan
+(1961) 106 CLR 517. The High Court held that a purchaser of income producing property was allowed an income tax deduction for the additional amount paid at settlement for a rates adjustment.
+93. We do not accept that the decision in Morgan's case is applicable. The High Court was considering the character of the particular outgoing, being the payment of the rates adjustment, in a capital versus revenue context for the purposes of deductibility under the
+Income Tax Assessment Act 1936
+. For GST purposes, the relevant factor is the nature of the supply and the consideration in connection to that supply. In these circumstances, we consider that there is a supply of all things that make up an enterprise including any relevant land.
+Consideration - liability effectively assumed
+Quantified liabilities
+94. In relation to the effective assumption by the purchaser of a quantified liability of the vendor, which consists of the payment of the vendor's liability to a third party, the question arises as to whether this amount forms part of the consideration for the purchase of the enterprise. That is, does the purchase price of the enterprise include the payment to a third party?
+95. The Commissioner has stated in Goods and Services Tax Determination GSTD 2000/10
+[32]
+that, if a single supply of real property under a commercial property lease is made, the reimbursement or direct payment (to third parties) of the landlord's obligations is consideration for the supply of the premises.
+96. Support for this view is found in the decision of Chisholm J in the New Zealand case of
+The Trustee, Executors and Agency Company New Zealand Limited & Ors v. Commissioner of Inland Revenue
+.
+[33]
+His Honour stated that a payment made directly to a third party does not disqualify the payment from satisfying a sufficient nexus to a supply by a vendor. Chisholm J stated at 13,086:
+But in my opinion the crucial factor is the strength of the connection between the payment and the supply. If there is sufficient proximity between the supply and payment to satisfy the requirement that the payment is 'in respect of' (or 'in response to, or for the inducement of') the supply of goods then the payment qualifies as 'consideration' notwithstanding that the payment is made to a third party.
+97. In that case, Chisholm J considered whether the payment of rates by a tenant in accordance with their lease agreement was consideration for a supply by the local rating authority, or whether it was merely additional consideration for the supply of the leased premises by the landlord. He found that the landlord was primarily liable for the rates and that the payment by the tenant to meet that liability is properly regarded as part of the consideration for the supply of the premises.
+98. Further, the Privy Council in
+Commissioner of Inland Revenue v. New Zealand Forest Research Institute Ltd
+[34]
+held an amount that represented the assumed liabilities of a vendor formed a part of the purchase price despite the fact that the payments when made were paid directly to a third party. The Privy Council stated at 15,692 that:
+It seems to their Lordships plain that, viewed in this light, the payments [to the third parties] were capital expenditure, being part of what was paid for the acquisition of the assets. There can be no doubt that the discharge of the vendor's liability to a third party, whether vested or contingent can be part of the purchase price. It does not matter that the payment is not made at once but pursuant to an arrangement whereby the purchaser agrees to be substituted as debtor to the third party.
+99. The amount that the purchaser agrees to pay to a third party is monetary consideration that forms part of the consideration for the supply of the enterprise. It is part of the purchase price that is paid at the direction of the vendor to a third party.
+100. By way of contrast, the provision of an indemnity by the purchaser to the vendor in respect of claims by creditors is integral and ancillary, or incidental to the provision of the monetary consideration. The indemnity has no additional independent value to the payment of the monetary consideration to the third parties.
+101. If a contract expresses an amount for the purchase price and allows a set-off to the purchase price at settlement in respect of the amount of a quantified liability of the vendor that has been assumed, the liability assumed forms part of the total consideration for the supply of the enterprise.
+102. For example, a contract may express the purchase price as $100,000, with a set-off allowed at settlement for a creditor liability assumed of $10,000. The liability is to be paid directly to the creditor. In this case, the consideration for the supply of the enterprise is the purchase price of $100,000. $90,000 is paid at settlement and $10,000 is paid to the creditor. If the vendor's supply of the enterprise is a taxable supply and a tax invoice is issued, the tax invoice will reflect the total purchase price of $100,000.
+103. In some circumstances, the set-off allowed in the contract at settlement may be less than the amount that the purchaser effectively assumes. For example, the set-off allowed in respect of annual leave liabilities effectively assumed is commonly only 70% of the amount of annual leave entitlements owed.
+[35]
+The contractual set-off is the method by which the parties to the contract arrive at the cash component of the consideration to be paid by the purchaser to the vendor at settlement. The total consideration for the supply of the enterprise includes the full amount of the annual leave liability effectively assumed, even though the set-off allowed in the contract is a lesser sum. For example, a contract may express the purchase price as $100,000 less a set-off of $7,000 allowed for annual leave entitlements. $93,000 is paid to the vendor at settlement. The actual amount of leave entitlement is $10,000. If the vendor's supply of the enterprise is a taxable supply and a tax invoice is issued, the tax invoice will reflect the total consideration of $103,000 ($93,000 paid at settlement plus the $10,000 liability effectively assumed).
+104. If a contract expresses the purchase price exclusive of the amount of liabilities assumed,  and if there is no 'set-off' in respect of the liabilities assumed, the consideration for the enterprise is:
+•
+the purchase price paid to the vendor at settlement; plus
+•
+the amount of the liability effectively assumed.
+105. For example, a contract may express the purchase price as $90,000, the parties having already taken into account the liabilities in negotiating the price. In addition to the purchaser's obligation to pay the purchase price, the contract also includes a clause for the effective assumption of a liability of $10,000 for overdue lease payments. The consideration for the supply of the enterprise is $100,000, being the sum of the purchase money paid at settlement, and the amount to be paid to the creditor. If the vendor's supply of the enterprise is a taxable supply and a tax invoice is issued, the tax invoice will reflect the total purchase price of $100,000.
+Applying the attribution rules if part of the consideration for a supply of an enterprise is the effective assumption of a liability - vendor accounts on a cash basis
+106. In circumstances where part of the consideration for the supply of an enterprise is the effective assumption of a liability, for example, a trade creditor debt, the vendor may not be aware when the purchaser pays the liability. This means that if the vendor accounts for GST on a cash basis, it may not be aware of:
+•
+when to attribute the input tax credit for the original acquisition from the creditor (if it is a creditable acquisition); and
+•
+when to attribute the GST payable in respect of the part of the consideration for the supply of the enterprise that the purchaser provides directly to the creditor (if it is a taxable supply).
+[36]
+107. However, to correctly account for GST, the vendor must attribute for the GST payable on a taxable supply in a tax period only to the extent that the consideration is received in that tax period.
+[37]
+Similarly, input tax credits on a creditable acquisition are attributable to a tax period only to the extent that the consideration is provided in that tax period.
+[38]
+108. It would assist the vendor to meet its GST obligation if the purchaser informs the vendor when payment has been made to the creditor for any liabilities effectively assumed.
+Unquantified liabilities - product warranty liabilities
+109. In relation to the effective assumption by the purchaser of an unquantified liability of the vendor, for example, the agreement to honour product warranty liabilities of the vendor, the question arises as to whether this agreement forms part of the consideration for the purchase of the enterprise.
+110. Because the agreement to make payment of an unspecified amount to the third party is not expressed as money, it is not monetary consideration. However, consideration is defined widely to include any payment or any act or forbearance in connection with or in response to a supply.
+[39]
+A payment is not limited to money. It includes a payment in a non-monetary or 'in kind' form.
+111. Consideration in non-monetary form must have an economic value and an independent identity that is separate from the underlying transaction.
+[40]
+If the effective assumption of an unquantified liability has an economic value and an independent identity, it is non-monetary consideration. We consider that unquantified product warranties have an economic value and an independent identity and the effective assumption of them is non-monetary consideration.
+112. For example, a purchaser may agree to honour the product warranty obligations of a vendor. The purchaser and vendor may also agree to reduce the purchase consideration for the supply of the enterprise by an amount calculated using a statistical estimation of the value of warranty claims likely to be made. The amount agreed is not likely to be the same as the actual amount of warranty claims made. It is not until the warranty claims are made that the actual liability assumed will be quantified.
+113. The consideration for the supply of an enterprise is the sum of the monetary consideration and the GST-inclusive market value of any non-monetary consideration provided to the vendor.
+114. If a vendor and purchaser, dealing with each other at arm's length, agree to allow a set-off or reduction in the purchase price of the enterprise for the estimated amount of a product warranty liability, this amount is likely to represent the GST-inclusive market value of the non-monetary consideration provided.
+Consideration - ongoing agreement assigned to purchaser
+115. In the context of a supply of an enterprise, the vendor may assign to the purchaser its interest under an ongoing agreement for supplies by a third party, for example, a plant and equipment lease or hire purchase arrangements. It is common for hire purchase agreements to be either paid out or novated to the purchaser on the supply of the enterprise. In either case there is no liability assumed by the purchaser. In circumstances where an agreement is validly assigned as part of the supply of the enterprise, the purchaser generally agrees to:
+•
+pay the purchase price;
+•
+assume the future obligations under the assigned agreement; and
+•
+indemnify the vendor against any claims by the third party in respect of the obligations that accrue under the agreement after settlement.
+116. The future amounts to be paid to the third party under the assigned agreement do not form part of the consideration for the supply by the vendor. The payments are for the third party's ongoing performance of the agreement of the purchaser. The ongoing payments do not have a sufficient nexus with the supply of the enterprise by the vendor.
+117. The purchaser assumes the obligations under the assigned agreement as a condition of the supply of the enterprise and the assignment. The purchaser receives the interest in the agreement as part of the things that make up the enterprise, the obligations under the agreement attaching to the interest which is supplied to the purchaser. That is, the thing supplied to the purchaser is the interest under the agreement, which includes the obligations to make future payments in exchange for the performance of the assignee. The assignment is not dissected into a supply by the vendor of the benefits of the agreement, and a supply by the purchaser of an entry into an obligation regarding the burdens of the agreement. The assignment is of a single thing, being the whole of the vendor's interest under the agreement.
+118. If an agreement is assigned to the purchaser, under normal commercial practice the vendor would be indemnified by the purchaser against any claims by the third party arising after the assignment. Similarly, the vendor would indemnify the purchaser against any claims arising under the agreement in respect of the period before the assignment. We consider that these indemnities are merely terms and conditions of the assignment, and are not separate supplies or separate amounts of non-monetary consideration.
+Examples
+119. The principles in the following examples apply regardless of whether the supply of the enterprise is a GST-free supply of a going concern or a taxable supply. The examples focus on whether the purchaser makes a supply. They also show how to calculate the consideration for the supply of an enterprise, which is particularly relevant if the supply of the enterprise is a taxable supply.
+Example 1 - Purchaser of an enterprise assumes employee leave liabilities (long service and annual leave)
+120.
+Vendor enters an agreement to sell its enterprise to Purchaser for an agreed price of $100,000. Under the agreement, Purchaser agrees to retain all of Vendor's employees and to honour their accrued leave entitlements (in this case, long service leave and annual leave). For the purpose of calculating an employee's long service leave entitlements, the relevant state or territory statute deems the employee's period of service to be unbroken when an enterprise is sold. The statute also requires the current employer to pay the entitlements when the employee is eligible, having regard to their deemed 'unbroken' length of service
+.
+121.
+In respect of annual leave, the relevant statute does not preserve a transferring employee's entitlements when a business is sold. Therefore, the vendor remains legally liable to the employees for their accrued annual leave entitlements
+.
+[41]
+122.
+Vendor agrees to allow a settlement adjustment in favour of Purchaser calculated by an agreed formula representing the value of accrued employee entitlements as at the settlement date. The accrued entitlement for long service leave and annual leave is $8,000 and $2,000 respectively. The amount allowed in the contract, after taking into consideration the tax effect of this settlement adjustment, is $5,600 for long service leave and $1,400 for annual leave. Purchaser pays $93,000 to Vendor at settlement
+.
+123.
+Under the transaction, Purchaser does not make a supply of entering into an obligation to pay the employees their long service leave entitlements. This obligation is imposed on Purchaser by statute. The contractual term that provides that Purchaser is liable for payment of employee entitlements merely confirms the obligation imposed by statute
+.
+124.
+Purchaser does not make a supply by agreeing to offer employment to Vendor's employees, and the $7,000 allowed at settlement is not consideration for a supply by Purchaser
+.
+125.
+Purchaser does not make a supply by agreeing to pay a quantified amount to the employees for annual leave accrued while employed by Vendor. The annual leave liability remains with Vendor, but is effectively assumed by Purchaser. The amount agreed between the parties to be set-off against the purchase price forms part of the consideration for the supply of the enterprise
+.
+126.
+The consideration for the supply of the enterprise is $95,000, being the adjusted purchase price ($93,000) plus the amount representing Vendor's liability effectively assumed by Purchaser ($2000). The full amount of $2,000 paid to the employees in respect of annual leave is included in the consideration even though the parties agree to a lesser amount as the set-off in the contract formula. The $5,600 set-off that Vendor allows Purchaser under the terms of the contract in respect of long service leave is a reduction in consideration for the enterprise. The reduction recognises that a statutory liability attaches to the supply of this particular enterprise. If the supply of all of the enterprise assets is a wholly taxable supply, Vendor is liable for GST of 1/11th of $95,000. The purchaser is entitled to claim an input tax credit of the same amount, provided the acquisition is solely for a creditable purpose
+.
+Example 2 - Purchaser of an enterprise pays rates levied on business premises in respect of period during which settlement occurs
+127.
+Purchaser acquires assets making up an enterprise, including the freehold interest in commercial premises. The agreed price under the contract is $500,000, with an adjustment to be made in respect of rates to be levied on the property
+.
+128.
+The effect of the particular rating statute is that the owner of the land for the time being is liable for rates, which are assessed in arrears at the end of each quarter. The contract provides for an adjustment in respect of Vendor's share of rates that will be assessed on Purchaser after settlement. An estimation of the rates for the period is apportioned by the number of days during the period in which Vendor is in possession of the land. The adjustment results in Purchaser being allowed $500 at settlement, given that Purchaser will be liable for the full amount at the end of the rating period
+.
+129.
+The consideration for the supply of the enterprise is $499,500, being the adjusted purchase price. The rates, in accordance with the relevant statute, attach to the land. The $500 adjustment is a reduction of the amount that Purchaser is liable to pay Vendor for the transfer of the enterprise assets, including the land. As the liability for rates is imposed primarily upon Purchaser, payment of the rates does not discharge a liability of Vendor (as once title passes, Vendor is not liable for the rates) and is not a payment at Vendor's direction
+.
+Example 3 - Purchaser of an enterprise pays rates levied on business premises in respect of period before settlement
+130.
+As in Example 2, Vendor enters an agreement to sell its enterprise to Purchaser for an agreed price of $500,000. One of the enterprise assets sold as part of the agreement is the freehold interest in commercial premises
+.
+131.
+Local statutes impose rates on the commercial premises upon the owner of the land.
+[42]
+At settlement date, Vendor has not paid an amount of rates levied prior to settlement of $1,000. The effect of the particular statute is that Vendor is liable for the total amount, as the period in respect of which the rates were levied ended prior to settlement, such that Vendor was the owner for the entire period
+.
+132.
+In the agreement for the supply of the enterprise, Purchaser agrees to pay $1,000 overdue rates of Vendor. Vendor agrees to a set-off of $1,000 against the purchase price of the enterprise assets
+.
+133.
+At settlement Purchaser pays Vendor $499,000. Purchaser does not make a supply by promising to pay Vendor's rates. This is because the promise to pay the rates is part of the consideration for the supply of the enterprise, being an amount paid to the rating authority at the direction of Vendor to discharge Vendor's liability. The consideration for the supply of the enterprise is $500,000
+.
+Example 4 - Purchaser of an enterprise assumes trade creditor liability - 'set-off' of liability
+134.
+Vendor enters an agreement to sell its enterprise to Purchaser for an agreed price of $100,000. Under the agreement, Purchaser agrees to pay all trade creditor liabilities that exist at settlement and provides an indemnity in respect of any claims by the trade creditors. Vendor agrees to allow a set-off to the purchase price in favour of Purchaser equal to the amount of the trade creditor liabilities assumed
+.
+135.
+The trade creditors outstanding at settlement are owed $10,000. The trade creditors are not aware of the agreement between Vendor and Purchaser. In accordance with the
+'
+set-off' provisions in the contract, Purchaser pays $90,000 to Vendor at settlement
+.
+136.
+The consideration for the supply of the enterprise is $100,000, being $90,000 paid to Vendor and $10,000 to be paid, at Vendor's direction, to the creditors. Under the transaction Purchaser does not make a supply, and everything that Purchaser provides is consideration expressed as an amount of money
+.
+Example 5 - Purchaser of an enterprise assumes trade creditor liability - effective assumption of liability
+137.
+As in Example 4, Vendor agrees to sell its enterprise to Purchaser and Purchaser agrees to assume a particular trade creditor liability. Purchaser and Vendor, knowing the liability outstanding to be $10,000, negotiate the purchase price to be $90,000
+.
+138.
+Purchaser pays $90,000 to Vendor at settlement and, pursuant to the terms of the contract, effectively assumes the trade creditor liability of $10,000. The consideration for the supply of the enterprise is $100,000, even though the contract expresses the purchase price as $90,000. That is, the consideration is made up of the $90,000 as well as the additional $10,000 the parties have agreed will be paid to the trade creditors. The assumption of the liability forms part of the consideration for the business and is consideration expressed in money
+.
+139.
+When the purchaser pays the creditor $10,000, this is not consideration for any supply made by the creditor to the purchaser. The purchaser does not make a creditable acquisition from the creditor. The supply made by the creditor was to the vendor
+.
+140.
+If the supply of the enterprise is a GST-free supply under section 38-325, there is no input tax credit entitlement for the purchaser, even though the amount that is paid to the creditor may be as a result of a taxable supply made by the creditor for the GST inclusive value of $10,000
+.
+141.
+If the supply of the enterprise is a wholly taxable supply, Vendor is liable for GST of 1/11th of $100,000. The purchaser is entitled to an input tax credit of the same amount, provided the acquisition is solely for a creditable purpose
+.
+Example 6 - Purchaser of enterprise assumes product warranty liabilities
+142.
+Vendor is a manufacturer of widgets. All widgets are sold with a 3 year warranty. Vendor enters into an agreement to sell its enterprise to Purchaser for an agreed price of $100,000. Under the agreement, Purchaser agrees to honour all warranty obligations to Vendor's customers in respect of defective products sold by Vendor prior to selling the enterprise
+.
+143.
+Vendor agrees to allow a settlement adjustment in favour of the purchaser calculated by a statistical estimation of the value of warranty claims likely to be made, based on previous history of claims and volume of sales. The agreed formula calculates the warranty liability at $4,000, as at settlement date. The customers are not aware of the sale of the enterprise
+.
+144.
+Purchaser pays $96,000 at settlement. Purchaser does not make a supply, by agreeing to pay for warranty claims. However, Purchaser's agreement to honour warranty claims forms part of the consideration for the enterprise. As the parties are dealing with each other at arm's length, the agreed value of $4,000 represents the GST-inclusive market value of the non-monetary consideration. The total consideration for the enterprise is $100,000
+.
+Example 7 - Vendor of enterprise assigns lease agreement to purchaser
+145.
+Vendor enters an agreement to sell its enterprise to Purchaser for an agreed price of $100,000. Vendor leases premises from Landlord for $1,000 per month
+.
+146.
+At the date of settlement, exactly 12 months remain on the lease. All monthly lease payments are paid by Vendor up to the date of settlement
+.
+147.
+Vendor assigns the benefits of the lease of the premises to Purchaser as part of the supply of the enterprise. Purchaser agrees with Vendor to pay the lease payments that fall due in respect of the period after settlement, and to indemnify Vendor against any claims by Landlord in respect of the lease payments
+.
+148.
+Purchaser does not make a supply in respect of assuming the future lease obligations because the entry into the obligation does not have an independent identity separate from the transaction or an economic value and is merely a condition upon which the lease is assigned
+.
+149.
+The consideration for the supply of the business does not include the future lease payments to be made by Purchaser to the Landlord. These payments have a nexus with the supply of premises made by the Landlord under the lease, the benefit of which has been assigned to Purchaser
+.
+Detailed contents list
+150. Below is a detailed contents list for this Goods and Services Tax Ruling:
+Paragraph
+Date of effect
+8
+Background
+10
+Meaning of liabilities
+10
+Assumption of liabilities
+14
+Consideration for the enterprise
+20
+Ruling
+23
+Statutory liabilities imposed on the purchaser
+23
+Liabilities effectively assumed by the purchaser
+26
+Quantified liabilities
+27
+Unquantified liabilities
+29
+Assignments of agreements
+31
+Indemnities in respect of liabilities assumed
+34
+Does the purchaser make a taxable supply when it offers employment to the vendor's employees?
+35
+GST-free supply of a going concern
+36
+Supply of an enterprise with taxable and non-taxable parts
+37
+Explanation (this forms part of the ruling)
+38
+Does the purchaser of an enterprise make a 'supply' if liabilities are assumed?
+38
+'Supply'
+38
+Does the purchaser make a supply if a statutory obligation exists, for example, employee entitlements or environmental rehabilitation obligations are imposed on the purchaser
+?
+46
+Does the purchaser make a supply if the vendor's quantified liabilities are assumed by contractual agreement? For example, trade creditors, enterprise overheads, arrears of rates and land taxes, outstanding rent and lease payments
+?
+56
+Does the purchaser make a supply if the vendor's unquantified liabilities are assumed by contractual agreement, for example, product waranties
+?
+62
+Does the purchaser make a supply if it provides an indemnity for the liabilities it assumes
+?
+68
+Does the purchaser make a supply by offering employment to the vendor's employees in circumstances where the purchase price is adjusted for the accrued entitlements of continuing employees
+?
+70
+What consideration is provided by the purchaser for the supply of an enterprise?
+73
+Calculating the GST payable
+77
+Consideration - statutory liability imposed on the purchaser
+80
+Does the consideration for the supply include settlement adjustments
+86
+Alternative view
+91
+Consideration - liability effectively assumed
+94
+Quantified liabilities
+94
+Applying the attribution rules if part of the consideration for a supply of an enterprise is the effective assumption of a liability - vendor accounts on a cash basis
+106
+Unquantified liabilities product warranty liabilities
+109
+Consideration - ongoing agreement assigned to purchaser
+115
+Examples
+119
+Example 1 - Purchaser of an enterprise assumes employee leave liabilities (long service and annual leave
+)
+120
+Example 2 - Purchaser of an enterprise pays rates levied on business premises in respect of period during which settlement occurs
+127
+Example 3 - Purchaser of an enterprise pays rates levied on business premises in respect of period before settlement
+130
+Example 4 - Purchaser of an enterprise assumes trade creditor liability - 'set-off' of liability
+134
+Example 5 - Purchaser of an enterprise assumes trade creditor liability - assumption of liability
+137
+Example 6 - Purchaser of enterprise assumes product warranty liabilities
+142
+Example 7 - Vendor of enterprise assigns lease agreement to purchaser
+145
+Detailed contents list
+150
+Commissioner of Taxation
+8 December 2004
+Footnotes
+[1]
+This transaction is known as a debt defeasance arrangement. This Ruling does not apply to a debt defeasance arrangement that occurs independently to the sale of an enterprise.
+[1A]
+Refer to paragraphs 4 to 7 of GSTR 2011/1.
+[2]
+The Macquarie Dictionary, Revised Third Edition, 2001.
+[3]
+The Macquarie Dictionary, Revised Third Edition, 2001.
+[4]
+1988 ATC 4279 at 4287; 19 ATR 1067 at 1077.
+[5]
+Osborn's Concise Law Dictionary and Butterworths' Concise Australian Legal Dictionary.
+[6]
+Section 9-80 provides for the allocation of the value of a supply to the taxable component where the supply has taxable, GST-free and input taxed components. Acceptable methods of apportionment are discussed in GSTR 2001/8 Goods and services tax:  apportioning the consideration for a supply that includes taxable and non-taxable parts.
+[6A]
+See also GSTR 2006/9:
+Goods and services tax:  supplies
+.
+[7]
+[Ommitted]
+[8]
+However, under subsection 9-10(4), a supply does not include a supply of money or digital currency, unless the money or digital currency is provided as consideration for a supply that is a supply of money or digital currency. 'Money' and 'digital currency' are defined in section 195-1.
+[8A]
+Shaw v. Director of Housing and State of Tasmania (No. 2)
+[2001] TASSC 2, 2001 ATC 4054, (2001) 46 ATR 242;
+Westley Nominees Pty Ltd v. Coles Supermarkets Australia Pty Ltd
+(2006) 152 FCR 461, 2006 ATC 4363, (2006) 62 ATR 682;
+Re Hornsby Shire Council v. Commissioner of Taxation
+[2008] AATA 1060, 2008 ATC 10 061, (2008) 71 ATR 442,
+Reglon Pty Limited v. Commissioner of Taxation
+(2011) 212 FCR 422, 2011 ATC 20-267, (2011) 81 ATR 599. This is also discussed in further detail in GSTR 2006/9 at paragraphs 71 to 79.
+[9]
+Commissioner of Taxation v. MBI Properties Pty Ltd
+(2014) 254 CLR 376; [2014] HCA 49 at [34]-[36]. See also GSTR 2006/9 at paragraph 77.
+[9A]
+MBI Properties at [33].
+[10]
+See proposition 5 of GSTR 2006/9.
+[11]
+See paragraph 78 in GSTR 2006/9.
+[12]
+Industrial relations legislation in each State needs to be examined. In some States, statute may preserve the accrued annual leave entitlements of transferring employees in the same way that the long service leave provisions apply (see paragraph 48). Where this happens, the GST treatment is the same as for long service leave.
+[12A]
+Settlement adjustments for rates, land tax and other outgoings are discussed in detail in GSTD 2006/3 Goods and services tax:  are settlement adjustments taken into account to determine the consideration for the supply or acquisition of real property?
+[13]
+Paragraphs 80 to 85 of GSTR 2001/6.
+[14]
+Paragraph 85 of GSTR 2001/6.
+[15]
+Paragraph 85 of GSTR 2001/6.
+[16]
+Paragraphs 3 and 16 of GSTR 2001/6.
+[17]
+Paragraphs 80 and 81 of GSTR 2001/6.
+[18]
+Paragraphs 80 to 85 of GSTR 2001/6.
+[19]
+Paragraph 85 of GSTR 2001/6.
+[20]
+Paragraphs 3 and 16 of GSTR 2001/6.
+[21]
+Paragraph 56 of GSTR 2001/6.
+[22]
+Paragraph 9-15(1)(a).
+[23]
+Paragraph 9-15(1)(b).
+[24]
+Paragraph 56 of GSTR 2001/6.
+[25]
+Paragraphs 80 to 81 of GSTR 2001/6.
+[26]
+This is the effect of section 9-80.
+[27]
+Goods and Services Tax Ruling GSTR 2001/8, Goods and services tax:
+apportioning the consideration for a supply that includes taxable and non-taxable parts.
+[28]
+81 ATC 4261; 11 ATR 859.
+[29]
+81 ATC at 4270; 11 ATR at 869.
+[30]
+19 NZTC 15,261.
+[31]
+(1997) 18 NZTC 13,076. This case concerned whether the payment of rates by the tenant was consideration for the supply of premises under the lease of the property.
+[32]
+GSTD 2000/10,
+Goods and services tax:  are outgoings payable by a tenant under a commercial property lease part of the consideration for the supply of the premises?
+[33]
+(1997) 18 NZTC 13,076.
+[34]
+(2000) 19 NZTC 15,689. This was an income tax case dealing with the capital cost of acquiring a business.
+[35]
+The percentage of 70% reflects the purchaser's entitlement to an income tax deduction for the annual leave expense incurred.
+[36]
+These problems are not likely to arise for a vendor that does not account on the cash basis, since these entities are required to attribute GST payable and input tax credits upon the issue of, or receipt of an invoice.
+[37]
+Subsection 29-5(2).
+[38]
+Subsection 29-10(2).
+[39]
+Section 9-15
+[40]
+Paragraphs 80 to 85 of GSTR 2001/6 discuss non-monetary consideration.
+[41]
+In some States, legislation may preserve accrued annual leave entitlements in the same way as for long service leave. That is, the purchaser becomes liable to the employee for their accrued entitlements.
+[42]
+It is necessary to examine individual statutes in the various jurisdictions to establish the effect of the particular statute, particularly where there is a change of ownership.
+previously issued in draft form as GSTR 2004/D2
+References
+ATO references:
+NO  2004/5404
+ISSN:  1443-5160
+Related Rulings/Determinations:
+TR 2006/10
+GSTD 2000/10
+GSTR 2001/6
+GSTR 2001/8
+GSTR 2002/5
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A99  9-5
+ANTS(GST)A99  9-5(a)
+ANTS(GST)A99  9-10
+ANTS(GST)A99  9-10(1)
+ANTS(GST)A99  9-10(2)
+ANTS(GST)A99  9-10(2)(g)
+ANTS(GST)A99  9-10(4)
+ANTS(GST)A99  9-15
+ANTS(GST)A99  9-15(1)
+ANTS(GST)A99  9-15(1)(a)
+ANTS(GST)A99  9-15(1)(b)
+ANTS(GST)A99  9-17
+ANTS(GST)A99  Subdiv 9-C
+ANTS(GST)A99  9-75
+ANTS(GST)A99  9-80
+ANTS(GST)A99  29-5(2)
+ANTS(GST)A99  29-10(2)
+ANTS(GST)A99  Subdiv 38-A
+ANTS(GST)A99  38-325
+ANTS(GST)A99  195-1
+TAA 1953  Sch 1 357-60
+TAA 1953  Sch 1 Div 358
+Case References:
+Commissioner of Taxation v. MBI Properties Pty Ltd
+(2014) 254 CLR 376
+[2014] HCA 49
+(2014) 92 ATR 241
+2014 ATC 20-474
+Commissioner of Inland Revenue v. New Zealand Forest Research Institute Ltd
+(2000) 19 NZTC 15,689
+Commissioner of Taxation v Morgan
+(1961) 106 CLR 517
+Federal Commissioner of Taxation v. Foxwood (Tolga) Pty Ltd
+81 ATC 4261
+11 ATR 859
+Iona Farm Ltd v. CIR
+(1999) 19 NZTC 15,261
+Re Hornsby Shire Council v. Commissioner of Taxation
+[2008] AATA 1060
+2008 ATC 10-061
+(2008) 71 ATR 442
+Reglon Pty Limited v. Commissioner of Taxation
+(2011) 212 FCR 422
+2011 ATC 20-267
+(2011) 81 ATR 599
+Shaw v. Director of Housing and State of Tasmania (No. 2)
+2001 ATC 4054
+(2001) 46 ATR 242
+[2001] TASSC 2
+TNT Skypak International (Aust) Pty Ltd v. FCT
+1988 ATC 4279
+19 ATR 1067
+The Trustee, Executors and Agency Company New Zealand Limited & Ors v. Commissioner of Inland Revenue
+(1997) 18 NZTC 13,076
+Westley Nominees Pty Ltd v. Coles Supermarkets Australia Pty Ltd
+(2006) 152 FCR 461
+2006 ATC 4363
+(2006) 62 ATR 682
+GSTR 2004/9 history
+Date:
+Version:
+Change:
+8 December 2004
+Original ruling
+9 August 2006
+Consolidated ruling
+Addendum
+27 April 2011
+Consolidated ruling
+Addendum
+25 May 2011
+Consolidated ruling
+Consolidated Addendum
+31 October 2012
+Consolidated ruling
+Addendum
+14 August 2013
+Consolidated ruling
+Addendum
+20 December 2017
+Consolidated ruling
+Addendum
+You are here
+12 December 2018
+Consolidated ruling
+Addendum
+Back to top

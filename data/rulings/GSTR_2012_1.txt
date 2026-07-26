@@ -1,0 +1,708 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 11
+  • Div 38
+  • Div 40
+  • Div 72
+  • Division 11
+  • Division 38
+  • Division 40
+  • Division 72
+
+Cases Referenced:
+  • Canada v. The Queen
+
+  • Customs v Baxi Group Ltd
+
+  • Customs v Baxi Group Ltd Baxi Group Ltd
+
+  • Customs v Loyalty Management 
+  • Customs v Total 
+  • Customs v. Total 
+  • Diners Club Pty Ltd v. Ansett Australia Limited
+
+  • Food Supplier v. Federal Commissioner 
+  • See
+Tesco Plc v Commissioners 
+  • Taxation v. Luxottica Retail Australia Pty Ltd
+
+  • Taxation v. Secretary 
+
+Topics: GST, FBT, Trusts, Partnerships, Companies
+
+
+
+================================================================================
+
+GSTR 2012/1 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+48 related documents
+Goods and Services Tax Ruling
+GSTR 2012/1
+Goods and services tax: loyalty programs
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+GSTR 2012/1EC
+.
+From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
+Treasury Legislation Amendment (Repeal Day) Act 2015
+.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+This Ruling contains references to provisions of the
+A New Tax System (Goods and Services Tax) Regulations 1999,
+which have been replaced by the
+A New Tax System (Goods and Services Tax) Regulations 2019.
+This Ruling continues to have effect in relation to the remade Regulations.
+Paragraph 32 of
+TR 2006/10
+provides further guidance on the status and binding effect of public rulings where the law has been repealed and rewritten.
+A
+comparison table
+which provides the replacement provisions in the
+A New Tax System (Goods and Services Tax) Regulations 2019
+for regulations which are referenced in this Ruling is available.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+LEGALLY BINDING SECTION:
+What this Ruling is about
+1
+Ruling
+16
+Date of effect
+44
+NOT LEGALLY BINDING SECTION:
+Appendix 1: Explanation
+48
+Appendix 2:
+0
+Detailed contents list
+111
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling concerns the goods and services tax (GST) implications of certain loyalty programs.
+2. In particular, this Ruling considers:
+(a)
+whether it is necessary to apportion some consideration to the supply of points, when a member pays the consideration to purchase goods or services and as a consequence has points allocated to them;
+(b)
+whether a payment from a program partner to the loyalty program operator is consideration for a supply;
+(c)
+to the extent that such a payment is consideration for a supply, how is that supply characterised? Specifically, the Ruling considers the implications of such characterisation in determining whether the supply is to any extent GST free or input taxed;
+(d)
+whether the provision of a reward to the member (upon redemption of points by them) is a supply to the member for consideration;
+(e)
+whether any payments made by the loyalty program operator to a redemption partner is consideration for a supply made by the redemption partner to the loyalty program operator, or is instead consideration for the supply of the reward made to the member; and
+(f)
+whether the redemption partner makes a supply to the program member, even if it also makes a supply to the loyalty program operator.
+3. This Ruling only deals with GST implications. It does not cover the fringe benefits tax or income tax consequences of loyalty programs.
+[1]
+Interpretation
+4. Unless otherwise stated, all legislative references in this Ruling are to the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act). For the purposes of this Ruling, it is assumed, unless the context indicates otherwise, that all supplies are connected with Australia and are made by entities registered for GST in the course or furtherance of an enterprise.
+5. In this Ruling, unless otherwise stated, a reference to:
+•
+a 'program member' or 'member' means an individual that joins a loyalty program pursuant to a loyalty program membership agreement between them and the loyalty program operator;
+•
+a 'loyalty program operator' or 'operator' means the entity responsible for the operation of the loyalty program, which has agreements with members and (where applicable) program partners and redemption partners. In some cases, the operator may administer the loyalty program; in other cases it may outsource the administration to a third party;
+•
+a 'points fee' means a fee charged by a loyalty program operator to a program partner for the allocation of points (or bonus points) to customers of the program partner. The fee is charged on a periodic basis and calculated by reference to the number of points or bonus points provided to the program partner's customers. In some loyalty programs, a program partner may be charged other fees in addition to, or instead of, a points fee;
+•
+a 'program partner' means an entity that participates in a loyalty program run by the loyalty program operator, upon payment of a points fee. In some cases a program partner is also a redemption partner;
+•
+a 'redemption partner' means an entity that is engaged by the loyalty program operator to provide rewards to members of the loyalty program. In some cases a redemption partner is also a program partner;
+•
+'loyalty points' is a reference to any record keeping mechanism (usually, but not necessarily, called points) which is used to ascertain the member's eligibility for rewards. However, it does not include rights to goods or services in the form of vouchers within the meaning of section 100-25; and
+•
+'redemption of points' is a reference to the exchange by a member of loyalty points for goods or services. The goods or services may be provided by a redemption partner or the loyalty program operator.
+Class of Arrangement
+6. This Ruling applies to loyalty program operators and members. It also applies to program partners and redemption partners, where the loyalty program involves such entities.
+7. This Ruling applies to arrangements whereby a loyalty program is established by the loyalty program operator, and governed by an arrangement between the loyalty program operator and each member, that have all of the following features:
+•
+the loyalty program operator provides a member with loyalty points as a consequence of the member purchasing eligible goods or services or using a credit card to make such a purchase;
+•
+the price paid by a member for making eligible purchases is the same as for a non member (that is they do not pay anything extra for the loyalty points);
+•
+the loyalty points cannot be transferred for money;
+•
+the loyalty points cannot be redeemed for money;
+[2]
+•
+to the extent that points may notionally have a value for program members, the value of points earned in making eligible purchases is low compared to the price of the goods or services themselves (that is the value would be less than 10% of that of the goods or services);
+•
+there is a record keeping mechanism in place that allows the loyalty program operator, member or both, to track how many loyalty points have accrued; and
+•
+the points may be redeemed at some time for a reward, being goods or services or a right to receive goods or services. The actual reward depends on the number of points accrued and redeemed by the member. Accordingly, the greater the number of points redeemed, the more valuable the reward to the member is likely to be.
+8. Other features of some arrangements include:
+•
+the expiry of points after a period of time; and
+•
+the ability of members to make an additional payment to obtain a reward where they have insufficient points (sometimes known as points plus pay).
+9. The Ruling also applies in relation to loyalty programs that involve program partners if the criteria in paragraph 7 are satisfied. Such arrangements involve the loyalty program operator and the program partner entering into an agreement (participation agreement) which involves the payment of a points fee by the program partner to the loyalty program operator
+[3]
+on a regular basis.
+10. The agreement may also provide for other fees to be payable by the program partner. This could include fees for services such as marketing, promotion or administration.
+11. There are also cases where the program partner has its own loyalty program and there is an agreement with the loyalty program operator for points to be transferred from one program to the other.
+12. This Ruling also applies in relation to loyalty programs that involve redemption partners if the criteria in paragraph 7 of this Ruling are satisfied. Where a loyalty program operator has redemption partners, there are the following features:
+•
+there is a contract between the loyalty program operator and each redemption partner pursuant to which the redemption partner will supply rewards, either to program members or the loyalty program operator; and
+•
+the loyalty program operator will make payments to the redemption partner in respect of the provision of rewards.
+13. If an entity is both a program partner and a redemption partner, a single payment between the program partner/redemption partner and loyalty program operator may be made on a periodic basis, which is a net payment of a points fee and an amount for the provision of rewards.
+14. A typical structure of loyalty programs involving program partners and redemption partners is illustrated as follows:
+15. While there are many different loyalty programs, with a range of different features, this Ruling only deals with the GST implications of arrangements which have the features set out at paragraphs 6 to 7 and (where relevant) 9 to 13 of this Ruling. In particular, it does not deal with arrangements to the extent that:
+•
+an allocation of points is made to a member for an activity performed by them at the request of the loyalty program operator (such as the member completing a survey form); or
+•
+the 'points' are in a form that satisfies the definition of a voucher within the meaning of section 100-25 of the GST Act; or
+•
+it involves a payment by the program partner pursuant to a participation agreement which is made to an entity nominated by the operator (such as a trust) which is used to fund the provision of rewards to members.
+Ruling
+Accrual of points by members
+16. When a member pays consideration for goods or services and gets points allocated to them in consequence, the member's payment is consideration for the supply of the goods or services they acquire. There should not be an apportionment of the amount paid by the member between the goods or services and the points.
+Loyalty program arrangements involving program partners
+17. There may be one or more supplies made by a loyalty program operator to a program partner.
+18. A 'points fee' (as defined in paragraph 5 of this Ruling) paid by a program partner is consideration for a supply by the operator to the program partner of those points which are provided by the operator to the program partner's customers.
+19. This constitutes a supply of 'rights', being the rights that program members obtain on receiving points. Supplies to the program partner for which a points fee is consideration:
+•
+are GST free to the extent that the points would be redeemed for supplies which are GST free (paragraph 9-30(1)(b)); and
+•
+are input taxed to the extent that the points would be redeemed for supplies which are input taxed (paragraph 9-30(2)(b)).
+20. If a supply to a program partner for whom a points fee is consideration meets the conditions in subsection 38-190(1), that supply is not GST free under section 38-190 to the extent that points would be redeemed for supplies which are connected with Australia and would not be GST free (subsection 38-190(2)). Since the points are provided to program members, subsections 38-190(3) and (4) need to be taken into account in applying items 2 and 3 in the table in subsection 38-190(1).
+21. Where the program partner makes a payment other than a points fee to the operator, it may be consideration for a different supply, or for a separately identifiable component of a mixed supply. The facts of each arrangement determine the characterisation of the relevant supply.
+22. To the extent that the supply by the operator to the program partner is a taxable supply, and the elements of section 11-5 are met, the program partner makes a creditable acquisition from the loyalty program operator and is entitled to an input tax credit in accordance with Division 11.
+Redemption of points and provision of rewards
+23. Where a member obtains a reward, a supply is made to the member. Depending on the structure of the loyalty program, that supply may be made by an operator or by a redemption partner.
+24. The redemption of points by a member is not consideration for the supply of a reward to the member.
+[4]
+Accordingly, the supply of the reward can only be a taxable supply by the operator or redemption partner to the member where some consideration is provided, for example under a points plus pay arrangement.
+[5]
+25. When a redemption partner provides goods or services to the member upon redemption of points (or upon redemption of points plus additional consideration) under a contractual arrangement between the redemption partner and the loyalty program operator, the redemption partner also makes a supply to the loyalty program operator. A payment from the loyalty program operator to the redemption partner, in return, is consideration for this supply.
+26. The supply is properly characterised as a supply of the underlying rewards (for example goods or services) provided to members. Whether the supply is taxable, GST free or input taxed needs to be determined accordingly. Where the reward is a face value voucher,
+[6]
+the supply of the voucher to the operator (provided to the member) is not a taxable supply in accordance with section 100-5.
+[7]
+27. Where the elements of section 11-5 are met, the loyalty program operator makes a creditable acquisition from the redemption partner and is entitled to an input tax credit in accordance with Division 11.
+[8]
+Examples
+Example one - no GST on loyalty points
+28.
+Larry is a member of the Loyalty Plus program which has all the features of the arrangement set out at paragraphs 6 to 7 and 9 to 13. Larry purchases some clothes from Anna's, a large retail store and a program partner of Loyalty Plus. Larry pays $110 for the clothes and swipes his Loyalty Plus card, which triggers the allocation of 20 points from Loyalty Plus to him. The only taxable supply to Larry is the supply of the clothes by Anna's to Larry, with GST of $10 payable. While points are provided by Loyalty Plus to Larry, none of the $110 paid by Larry is consideration for the supply of points.
+29.
+Larry subsequently makes a number of other purchases in respect of which he earns points on the Loyalty Plus card. A few weeks later, after browsing the Loyalty Plus website, Larry realises that he has enough points for the reward of a monthly bus ticket. He selects an option on the Loyalty Plus website to redeem his points for the bus ticket.
+30.
+The redemption of points by Larry is not consideration for a supply of the bus ticket.
+Example two - payment of a 'points fee'
+31.
+Ace Loyalty Co runs a loyalty program. It enters into a participation agreement with Sunshine Co which provides, amongst other things, that Ace Loyalty Co will allocate points to its members whenever they purchase goods or services from Sunshine. In return, Sunshine agrees to pay a points fee calculated on the number of points allocated to members upon purchase of goods or services from Sunshine. The agreement also provides that at the end of each stipulated period, Ace Loyalty Co will invoice Sunshine for the fees payable.
+32.
+A supply for consideration is made by Ace Loyalty Co to Sunshine Co consisting of the provision of points to Ace Loyalty Co's members.
+Example three - supply to overseas program partner
+33.
+Loyalty Co, a loyalty program operator in Australia, enters into a participation agreement with a program partner Overseas Co, a non resident.
+34.
+Under the participation agreement, points are allocated to members of Loyalty Co when they acquire the relevant goods or services from Overseas Co, in return for which it pays a points fee to Loyalty Co. The supply to Overseas Co is characterised as a supply of rights. It is covered by item 4 of the table in subsection 38-190(1). Loyalty Co offers a range of rewards to its members, the supply of which, in many cases, would be connected with Australia and would not be GST free.
+35.
+Although the supply is covered by item 4 of the table in subsection 38-190(1), subsection 38-190(2) negates the GST free status of the supply to Overseas Co to some extent. First, the supply of the right to Overseas Co is a right for members of the program to receive rewards. Second, as some of the supplies of rewards to members, if made, would be connected with Australia and would not be GST free, the supply of the right to Overseas Co is not GST free to that extent.
+[9]
+Example four - points fee partly for rights to receive a GST free supply
+36.
+XYco runs a loyalty program and enters into a participation agreement with Whyco, a GST registered entity that operates an enterprise in Australia. Under the agreement, XYco agrees to allocate points to its members when they acquire eligible services from Whyco, in return for which Whyco pays XYco a points fee. Under the membership agreement that XYco has with its members, it offers a suite of rewards, including international travel.
+37.
+The supply by XYco to Whyco is a supply of rights, which are provided to Whyco's customers. In working out the extent that points would be redeemed for rewards that are GST free, XYco reasonably estimates that of the 1000 points allocated, 800 will be redeemed as follows
+:
+•
+400 for rewards consisting of international travel, the supply of which would be GST free under section 38-355; and
+•
+400 for rewards consisting of goods, the provisions of which would give rise to taxable supplies if made for consideration.
+As XYco reasonably estimates that 400 of the 800 points to be redeemed would be for rewards, the supply of which would be GST free under section 38-355, the supply of rights by XYco to Whyco is GST free under paragraph 9-30(1)(b) to the extent of 50%. Conversely, as the provision of none of the other rewards would be GST free or input taxed, the supply of rights is a taxable supply to the extent of 50%.
+Example five - supply by a credit card operator to a bonus partner
+38.
+AmyBank is a financial institution which operates a loyalty program that provides points to its credit card holders whenever they use their credit card to make purchases. AmyBank enters into a participation agreement with John's Supermarkets. Under the terms of the participation agreement, in return for John's Supermarkets paying AmyBank a regular points fee, calculated by reference to the number of points allocated to its customers, AmyBank allocates bonus points to their credit card holders whenever they use their credit card to make purchases from John's Supermarkets. AmyBank also undertakes under the agreement to promote John's Supermarkets by distributing marketing material to AmyBank's credit cardholders alerting them to the bonus offer and the goods that can be purchased at John's Supermarkets. John's Supermarkets pays AmyBank an additional monthly fee for this promotion.
+39.
+AmyBank supplies John's Supermarkets rights, which are provided to John's Supermarkets' customers. The points fee is consideration for this supply. AmyBank also supplies promotional services to John's Supermarkets and the additional monthly fee is consideration for these promotional services.
+[10]
+Example six - loyalty program operator makes acquisition from redemption partner
+40.
+Elissa Pty Ltd (Elissa) is a loyalty program operator. It enters into a contract with the redemption partner Reg Pty Ltd (Reg) under which Reg, for a pre determined fee, is to provide jewellery to members as rewards. Member Andrea, a resident, redeems sufficient points to enable her to obtain the reward of a bracelet. Reg provides the bracelet to Andrea, while Elissa pays Reg the fee stipulated in the contract.
+41.
+Reg makes a supply of jewellery to Elissa, which is provided to Andrea. Assuming all the other elements of section 11-5 are met, Elissa makes a creditable acquisition of the bracelet and is entitled to an input tax credit.
+[11]
+Example seven - loyalty program operator makes acquisition of voucher from redemption partner
+42.
+Far Out Ltd (Far Out) is a loyalty program operator. It enters into a contract with redemption partner Red Pty Ltd (Red)for Red to provided rewards to members, for a pre determined fee. Member Debbie, a resident, redeems sufficient points to enable her to obtain the reward of a face value voucher worth $110. Red provides the voucher to Debbie, while Far Out pays Red the fee for the voucher stipulated in the contract.
+43.
+Red makes a supply of the voucher to Far Out, which is provided to Debbie. Section 100-5 applies such that the supply by Red to Far Out is not a taxable supply. Accordingly, Far Out has not made a creditable acquisition within the meaning of section 11-5 and is therefore not entitled to an input tax credit.
+Date of effect
+44. This Ruling applies both before and after its date of issue. However, the Ruling will not apply to taxpayers to the extent that it conflicts with the terms of settlement of a dispute agreed to before the date of issue of the Ruling (see paragraphs 75 to 77 of Taxation Ruling TR 2006/10).
+45. The Commissioner understands that in some loyalty programs, a supply of rights from operator to the program partner is being treated as a wholly taxable supply and GST is being remitted by the operator, when in accordance with the principles in this ruling it may be partly GST free or partly input taxed.
+46. Where this has occurred, the Commissioner will not dispute the input tax credit entitlement of the program partner in so far as it concerns the extent to which the supply (of the thing acquired) made prior to the issue date of this Ruling is treated as taxable. This is on the proviso that the program partner does not obtain a refund from the operator corresponding to the GST it has paid.
+47. Moreover, in such circumstances the Commissioner recognises that some time may be needed to adjust systems to treat the supply as partly GST free or partly input taxed. Accordingly, where suppliers continue to treat such a supply as wholly taxable for a period of six months from the issue date of this Ruling, the Commissioner will not dispute the input tax credit entitlement of the program partner in so far as it concerns the extent to which the supply (of the thing acquired) is a taxable supply.
+47A.	The Addendum to this Ruling that issued on 14 August 2013 applies both before and after its date of issue. You can rely upon this Addendum on and from its date of issue for the purpose of section 357-60 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+47B.	If this Addendum conflicts with a previous private ruling that you have obtained or a previous public ruling, this Addendum prevails. However, if you have relied on a previous ruling (including the public Ruling that the Addendum amends), you are protected in respect of what you have done up to the date of issue of the Addendum or, if there is a change to the legislation, you are protected in respect of what you have done up to the date the legislative change takes effect. This means that if you have relied on the earlier ruling and have underpaid an amount of GST, you are not liable for the shortfall prior to either the issue date of the Addendum or the date the legislative change takes effect, as appropriate. Similarly, if you have relied on the earlier ruling you are not liable to repay an amount overpaid by the Commissioner as a refund.
+Commissioner of Taxation
+4 April 2012
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Accrual of points by members
+48. When a member makes an acquisition of eligible goods or services from a loyalty program operator or a program partner or uses a credit card to make an acquisition, the member is allocated points.
+49. A question arises as to whether any GST consequences arise from the allocation of points to members. In this context, it is necessary to consider whether there is a 'supply' of points.
+50. The term 'supply' is defined broadly in section 9-10, including the extended meaning given to it by subsection 9-10(2). Under the terms of the member agreement, the loyalty program operator is required to allocate the points to members when they acquire the eligible goods or services. Additionally, while the points themselves cannot be transferred or redeemed for money by the member, they can be redeemed for a reward (whether immediately upon purchase or at a later time).
+51. The mere creation of expectations is not a supply.
+[12]
+In the context of points, the question of whether something is 'supplied' turns on whether there are rights provided to members rather than merely expectations created.
+[13]
+52. In the arrangements subject to this Ruling, there is an agreement between the loyalty program operator and member under which points are allocated, and these points can be redeemed for rewards on offer. There are enforceable rights that are conferred on the member and corresponding obligations on the part of the operator. Principally, the rights are for the redemption of points for rewards. In some cases there is a significant discretion held by the loyalty program operators to change the rewards on offer, disqualify members in certain circumstances and even suspend or terminate the relevant loyalty program. Nevertheless, program members do have binding rights, even though in some loyalty programs those rights may be affected by subsequent actions of the operator.
+[14]
+Accordingly, the provision of points to members is a supply.
+53. The next step is to determine whether the supply of points is a supply to members for consideration where points are allocated to the member when they acquire eligible goods or services.
+54. The consideration paid by the member should be treated entirely as consideration for the goods or services they acquire rather than apportioned between the goods or services and the points. Therefore, there is no amount paid by the member that is treated as consideration for the supply of points, even though the points may have some value to the member upon allocation (as representing a right to a future reward).
+[15]
+This approach is consistent with the bargain struck between the parties,
+[16]
+and has regard to the following features of the arrangement:
+•
+the member purchases eligible goods or services for the same price as any non member;
+•
+the points are not something that the operator or program partner purports to 'sell',
+[17]
+rather they are allocated as a consequence of the purchase of the goods or services;
+[18]
+•
+the value of the points to the member (as a right to a potential future reward) is low compared to the total value of the goods or services;
+[19]
+•
+the act of purchasing the goods or services does not have separate independent identity and economic value such that it could be consideration for the allocation of points;
+[20]
+•
+the essence of loyalty programs of this nature is to promote customer loyalty by giving members something for free if they continue to purchase the eligible goods or services; and
+•
+in multi party loyalty programs, points are allocated by the operator of the program, whereas the goods or services may be acquired from another party.
+55. The conclusion that the consideration is not apportioned between goods or services and points is consistent with the approach taken in the United Kingdom with respect to VAT.
+[21]
+56. While the allocation of points is a supply of rights within the meaning of subsection 9-10, in the arrangements to which this Ruling applies the member does not provide consideration for that supply of rights.
+Loyalty program arrangements involving program partners
+57. Some loyalty programs involve participation in the loyalty program by program partners. This is governed by a participation agreement between the loyalty program operator and the program partner. Members of the program can earn points not just by making purchases from the loyalty program operator, but also through purchases from program partners.
+58. From the perspective of a loyalty program operator, admitting program partners into the loyalty program can be desirable as it increases the attraction of the program to members, with flow on benefits to the loyalty program operator. The loyalty program operator may also obtain a direct financial return by receiving fees paid by the program partner pursuant to the agreement.
+59. From the perspective of a program partner, participation in the loyalty program may be beneficial in attracting customers. Having regard to the participation agreement between the loyalty program operator and program partner and the benefits of participation in the loyalty program that flow to the program partner, a supply or supplies are made by the loyalty program operator to the program partner. The points fee and other fees paid by the program partner are consideration for that supply or those supplies.
+60. The GST consequence of a supply made by the loyalty program operator depends on how the supply is characterised. Depending on the nature of the supply, the supply could be either taxable, input taxed or GST free.
+[22]
+Characterising the supplies that are made
+61. In characterising the supply or supplies for consideration that the loyalty program operator makes to the program partner, the logical starting point is the contract between the two entities. The surrounding circumstances of the loyalty program as a whole should be also taken into account, including other documents that are relevant to the operation of the loyalty program, such as the loyalty program membership agreement.
+62. In
+Saga Holidays Limited v. FCT
+,
+[23]
+Stone J took the view that it was appropriate to look at the 'social and economic reality' of a transaction in determining whether there is a single supply or more than one supply.
+[24]
+63. In determining the nature of the supply between a loyalty program operator and a program partner, the Tax Court of Canada took a similar approach in
+Royal Bank of Canada v. The Queen
+,
+[25]
+holding that:
+It is always a question of fact as to how GST will be applied in the context of a particular affinity or loyalty program. While the contractual agreements relating to the program and the actual manner in which the program is conducted will generally dictate how GST will be applied, it is always open for a Court in each case to determine the substance of the supply for which consideration was paid.
+[26]
+64. This Ruling concerns arrangements whereby a points fee is charged by the loyalty program operator to a program partner. The fee is charged on a periodic basis and calculated by reference to the number of points or bonus points provided to the program partner's customers. Moreover, the fee is said to be payable for the allocation of those points.
+65. The points fee is consideration for the operator allocating points to the program partner's customers.
+66. This is consistent with the analysis of the Supreme Court of Victoria, and subsequently the Victorian Court of Appeal, in the context of an agreement between Ansett Airlines and Diners Club in respect of the Ansett frequent flyer program.
+[27]
+67. At paragraphs [18] to [19], Maxwell P said:
+[W]hat Ansett agreed with DC [Diners Club] was to give DC cardholders entry to the GR [Global Rewards] program on a special basis. Unlike other members of the GR program, DC cardholders would be credited with points, not for making purchases of airline tickets from Ansett or one of its partners but for making purchases on the DC card, being purchases from which DC itself would earn 'substantial' commission income. Ansett's giving of that promise enabled DC to offer that special GR access to prospective DC cardholders as an incentive to their becoming cardholders, and to existing DC cardholders as an incentive to their making greater use of their DC cards for purchases. As DC said in its opening at the trial, the ability of members to earn 1.5 GR points for every dollar spent on a DC card was 'the key reason why people became Diners members, and the key driver behind Diners' turnover'.
+DC therefore agreed that it would make a payment to Ansett, not in consideration of Ansett promising to maintain the program but in consideration of Ansett's crediting of each GR point earned by a DC cardholder.
+68. At paragraph [38], Maxwell P concluded:
+In no contractual sense was DC paying for the awards which were available to DC cardholders when, in their capacity as GR members, they redeemed the points which they had thus earned. The fact that Ansett used funds paid by DC under the agreement to defray the expenses of the GR program could not affect this conclusion.
+69. Where there is a payment that is expressed as being for the allocation of points, and calculated by reference to the points allocated, the payment is consideration for a supply to the program partner consisting of the provision of points, and thus rights, to members.
+70. This is not to deny that there may be other payments by the program partner that are properly construed as consideration for other supplies, including specific services of the operator, or even ongoing participation in the loyalty program. Ultimately, the facts of each arrangement determine whether there are other supplies (or separately identifiable components of a mixed supply) that are made for consideration.
+Is the points fee paid for the supply of an interest in a Managed Investment Scheme
+71. In some cases, a loyalty program may be construed as a managed investment scheme.
+[28]
+The supply of an interest in a managed investment scheme
+[29]
+is (subject to certain exceptions) an input taxed supply.
+[30]
+72. It follows that if a loyalty program constitutes a managed investment scheme, the provision of interests in the loyalty program could be a financial supply if the provision is for consideration, is done in the course or furtherance of an enterprise, and is connected with Australia.
+73. However, the points fee is properly construed as paid by the program partner for the allocation of rights to members. In contrast, it is not paid for the supply of an interest in a managed investment scheme.
+74. Accordingly, the points fee is not for a supply of an interest in a managed investment scheme. If, in the context of a particular loyalty program, a payment is made by the program partner, not for the allocation of rights, but for an ongoing interest in the loyalty program, it may be necessary to consider whether the payment is for the supply of an interest in a managed investment scheme.
+Whether the supply to the program partner is GST-free or input-taxed
+75. The points fee is consideration for a supply from the loyalty program operator to the program partner that is characterised as a granting of rights to the program partner. This supply is GST free or input taxed to the extent that it is GST free under Division 38 or paragraph 9-30(1)(b) or input taxed under Division 40 or paragraph 9-30(2)(b).
+Supply of a right to receive a GST free or input taxed supply
+76. Paragraph 9-30(1)(b) provides that a supply is GST free if it is a supply of a right to receive a supply that would be GST free under Division 38 or a provision of another Act. Paragraph 9-30(2)(b) provides a complementary rule for rights to receive input taxed supplies.
+77. The essence of points is that, subject to certain conditions, the holder of the points has a right to redeem them in return for rewards. Hence, points may be described as rights to receive supplies.
+78. Although the program partner does not itself receive the points, rather program members receive the points, the points are granted pursuant to the contract between the operator and the program partner. Hence, what is supplied to the program partner are the points (the rights to receive supplies), which are provided to members.
+79. In some loyalty programs, points may be redeemed by members for GST free or input taxed supplies. The test under paragraphs 9-30(1)(b) and 9-30(2)(b) is whether the points represent a right to receive a supply that
+would be
+GST free or
+would be
+input taxed. This requires a prediction, when the points are allocated, of the extent to which they would be redeemed for GST free or input taxed supplies.
+80. By contrast, where a prediction is made about the extent to which the points would be redeemed for rewards, the supply of which would be taxable, to that extent the supply of the rights would not be GST free under either paragraph 9-30(1)(b) or 9-30(2)(b). Rather, the supply of the rights, to that extent, is taxable.
+[31]
+81. The operator needs to work out the extent to which the points would be redeemed on some fair and reasonable basis. It may be reasonable for the loyalty program operator to determine how the rights (points) would be redeemed by reference to the history of how rewards had been redeemed in the program - although any changes in the nature of the program and the rewards offered to members should be considered.
+82. The focus in paragraphs 9-30(1)(b) and 9-30(2)(b) is on the supplies that are to be received. Particular rights may not be redeemed by members for supplies. In determining the extent to which the allocation of points is GST free or input taxed, points that will never be redeemed should be omitted from the calculation. For example, if under a participation agreement an operator allocates 1.5 million points and reasonably estimates that 1 million of these points will be redeemed, of which it reasonably estimates that 300,000 will be redeemed for GST free supplies, the supply of rights to the program partner is 30% GST free.
+83. As paragraphs 9-30(1)(b) and 9-30(2)(b) require some prediction as to the future GST free or input taxed use of the points, it may be that the actual use of the points differs from the predicted use. In these circumstances, provided the predicted use of the points is calculated on a fair and reasonable basis, the fact that there is a difference does not mean that the GST payable on the supply was overstated or understated, nor that there is an adjustment event which arises within the meaning of section 19-10.
+Alternative views
+84. An alternative view is that the supply to the program partner is not capable of coming within paragraphs 9-30(1)(b) and 9-30(2)(b).
+85. A requirement in paragraphs 9-30(1)(b) and 9-30(2)(b) is that there is a right to receive a supply. In a particular loyalty program there might strictly be no right to receive
+any
+supply until a certain amount of points has been accumulated by the member. Nevertheless, the Commissioner does not think a narrow construction of 'right to receive a supply' should be preferred. The broader view is preferred that points represent rights to receive a supply, even if they can only be effectively utilised in conjunction with further points that the member may accumulate, or in conjunction with the payment of money.
+86. Another argument against the application of paragraphs 9-30(1)(b) and 9-30(2)(b) is that the words 'would be GST free' in paragraph 9-30(1)(b) and 'would be input taxed' in paragraph 9-30(2)(b) require the 'something' which is the subject matter of the supply of the right to receive, to be specifically identified at the time of the supply of the right. The Commissioner does not agree. It is reasonable to construe the words 'would be' as extending to a situation where it can be predicted that the rights would be used to some extent to acquire GST free or input taxed supplies.
+87. A further argument against the application of paragraphs 9-30(1)(b) and 9-30(2)(b) in these circumstances is that there is said to be an implication that the entity that is the recipient of the supply of rights to receive must be the same entity that would exercise those rights to receive the GST free or input taxed supply. However, the Commissioner thinks that the better construction is that these provisions are capable of operation in circumstances where the relevant rights are supplied
+to
+the program partner, but
+provided
+to program members who exercise those rights.
+Supplies for consumption outside Australia
+88. The supply to the program partner is also GST free to the extent that section 38-190 applies.
+89. Subsection 38-190(1) contains a table which sets out supplies of things for consumption outside Australia (other than goods or real property), that are GST free. A supply that is not GST free under one item in the table in subsection 38-190(1) may be GST free under another of the items. If the requirements of any of the five items in the table are met, the supply is GST free, provided that subsections 38-190(2), (2A) or (3) do not negate the GST free status of the supply.
+90. A supply by the loyalty program operator to the program partner (other than a supply of goods or real property) may be GST- free under items 2, 3 or 432 in the table in subsection 38-190(1). In particular, where the program partner is a non resident, who is outside Australia when the rights are granted, item 4(b) may apply.
+91. Since the rights are supplied to program partners and are provided to program members, if item 2 in subsection 38-190(1) applies, it is necessary to take into account subsection 38-190(3). Subsection 38-190(3) will prevent a supply being GST free under item 2, where the rights are provided to the program member in Australia.
+[33]
+92. For the same reasons, in applying item 3 in the table in subsection 38-190(1), it is necessary to consider subsection 38-190(4).
+Subsection 38-190(2)
+93. Subsection 38-190(1) is qualified by subsection 38-190(2) which provides that a supply covered by any of items 1 to 5 is not GST free to the extent that the supply is a supply of a right or option to acquire something the supply of which would be connected with Australia and would not be GST free. Hence, to the extent that points would be used by members to acquire rewards which would be connected with Australia and would not be GST free, the supply of those points (that is, rights) is not GST free under any of items 1 to 5.
+94. The words 'would be' connected with Australia and 'would not be' GST free in subsection 38-190(2) should be given a similar construction to the words 'would be' GST free or input taxed in paragraphs 9-30(1)(b) and 9-30(2)(b) respectively. That is, the provision requires a prediction, when the points are allocated, of the extent to which they would be redeemed for supplies that would be connected with Australia and would not be GST free. The alternative views referred to at paragraphs 84 to 87 could also be advanced in respect of subsection 38-190(2) but are not preferred by the Commissioner for the same reasons indicated in respect of section 9-30.
+Redemption of Points by Member
+95. Under the loyalty program arrangement, once the member has accumulated sufficient points, they can redeem those points for a reward. The nature and scope of things that can constitute rewards depends on the particular loyalty program. However, it is commonplace for the larger programs to offer an extensive range of goods, services and vouchers that can be redeemed by the member as a reward.
+96. Typically, when a member decides they have accumulated sufficient points to redeem a particular reward, they will notify the loyalty program operator (or the nominated entity that manages the program) of their intention to redeem the points for the reward. The loyalty program operator then arranges for the reward to be provided to the member (whether directly or by the redemption partner).
+97. In some loyalty programs, a member may redeem their reward directly from redemption partners by producing (say) an electronic membership card and redeeming the requisite number of points for the relevant reward. In cases where the member does not have sufficient points to acquire the relevant goods or services, they may be permitted to provide additional consideration (this is generally known as points plus pay).
+Is the reward a supply to the member?
+98. Whatever the mechanism for the receipt by the member of the reward, where a member obtains a reward, a supply is made to them.
+99. The supplier of the reward depends on the structure of the loyalty program. In some loyalty programs, the operator supplies the reward to the member.
+[34]
+In other loyalty programs the redemption partner makes the supply to the member pursuant to a contractual arrangement with the loyalty program operator.
+Is it a taxable supply?
+100. Whether the supply of the reward to the member is a taxable supply made to them depends on whether there is any consideration for the supply. If the member does not pay any amount to obtain the reward (that is they redeem sufficient points to obtain the reward), they do not provide any monetary consideration for the supply of the reward.
+101. The redemption of points is not consideration for the supply of rewards to the member. The redemption of points is merely the exercise of a contractual right and not the provision of consideration. The act of redemption does not have any inherent value or independent identity such that they are compensation for the supply of the rewards.
+[35]
+Moreover, subsection 9-17(1) provides that:
+If a right or option to acquire a thing is granted, then:
+•
+the consideration for the supply of the thing on the exercise of the right or option is limited to any additional consideration provided either for the supply or in connection with the exercise of the right or option; or
+•
+if there is no such additional consideration- there is no consideration for the supply.
+102. When the member redeems points in exchange for a reward, they are exercising their right to the supply of the reward. In accordance with paragraph 9-17(1)(a), the consideration for the supply of the thing (the reward) is limited to any additional consideration provided either for the supply or in connection with the exercise of the right. Where the member redeems their points for the reward without providing consideration (that is, it is not a points plus pay situation), the supply of the reward is not a supply to the member for consideration.
+103. Accordingly, the supply of the reward to the member is only a taxable supply where consideration is provided (for example, an amount paid by the member) and the other elements of section 9-5 are met (including that the supply is not GST free or input taxed).
+Does a redemption partner make a supply to the Loyalty Program Operator when it provides rewards to program members?
+104. In some loyalty programs there is an agreement between the operator and a redemption partner, under which rewards are provided by the redemption partner to members on redemption of points. Under such an agreement, the operator pays the redemption partner for the provision of those goods or services (whether or not there is any separate amount payable by the member under a points plus pay arrangement).
+105. In these circumstances an acquisition is made by the operator pursuant to a contract between the parties and the payment by the loyalty program operator is consideration for the provision of the reward.
+106. Where the member pays consideration for the reward under a points plus pay arrangement, there may be two taxable supplies, one to the member and one to the loyalty program operator.
+[36]
+In some loyalty programs both these supplies are made by the redemption partner.
+[37]
+107. The conclusion that the one set of actions by the redemption partner may give rise to two taxable supplies - one to the operator and one to the member - is consistent with the decision in
+Commissioner of Taxation v. Secretary to the Department of Transport (Vic)
+,
+[38]
+where it was held that taxi drivers made a supply not just to their passengers, but also to the Department which paid part of the fare.
+108. The character of what is provided to the member may assist with the characterisation of the thing supplied under the contract between the loyalty program operator and the redemption partner (see Proposition 13 of GSTR 2006/9). This may be relevant in determining, for example, whether the supply by the redemption partner to the loyalty program operator is taxable, GST free or input taxed. For example, where the reward is food provided to the member (that does not fall within the exclusions in section 38-3), the supply by the redemption partner to the operator is GST free.
+109. Where the reward is a face value voucher, the supply of the voucher to the operator (provided to the member) is not a taxable supply in accordance with section 100-5.
+[39]
+110. Where the supply made by the redemption partner to the loyalty program operator is a taxable supply, the loyalty program operator makes a creditable acquisition, if all the other elements of section 11-5 are met.
+Appendix 3 - Detailed contents list
+111. The following is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Interpretation
+4
+Class of Arrangement
+6
+Ruling
+16
+Accrual of points by members
+16
+Loyalty program arrangements involving program partners
+17
+Redemption of points and provision of rewards
+23
+Examples
+28
+Example one - no GST on loyalty points
+28
+Example two - payment of a 'points fee'
+31
+Example three - supply to overseas program partner Example four - points fee partly for rights to receive a GST free supply
+26
+Example five - supply by a credit card operator to a bonus partner
+38
+Example six - loyalty program operator makes acquisition from redemption partner
+40
+Example seven - loyalty program operator makes acquisition of voucher from redemption partner
+42
+Date of effect
+44
+Appendix 1 - Explanation
+48
+Accrual of points by members
+48
+Loyalty program arrangements involving program partners
+57
+Characterising the supplies that are made
+61
+Is the points fee paid for the supply of an interest in a Managed Investment Scheme
+71
+Whether the supply to the program partner is GST free or input taxed
+75
+Supply of a right to receive a GST free or input taxed supply
+76
+Alternative views
+84
+Supplies for consumption outside Australia
+88
+Subsection 38-190(2)
+93
+Redemption of Points by Member
+95
+Is the reward a supply to the member?
+98
+Is it a taxable supply?
+100
+Does a redemption partner make a supply to the Loyalty Program Operator when it provides rewards to program members?
+104
+Appendix 2 - Detailed contents list
+111
+Footnotes
+[1]
+For further information see TR 1999/6; TD 2003/20; TD 1999/34.
+[2]
+Note that GSTR 2002/3 (at paragraphs 189-193) deals with the GST consequences of loyalty points provided by gambling suppliers which have a monetary value (that is, they can be redeemed for money). Such arrangements are outside the scope of this Ruling.
+[3]
+This includes where the points fee is actually paid to an entity that receives the payment on behalf of the operator.
+[4]
+The same view is taken in the context of gambling supply providers in GSTR 2002/3 at paragraph 196.
+[5]
+Except where the member is an associate, in which case Division 72 may apply.
+[6]
+This term takes the meaning it has in GSTR 2003/5.
+[7]
+These circumstances are not the same as those outlined at paragraphs 139-146 of GSTR 2003/5. Rather, the payment by the operator to the member is for a supply of a voucher made to the operator (but provided to the member).
+[8]
+The same view is taken in the context of gambling supply providers in GSTR 2002/3 at paragraph 195.
+[9]
+Item 2 of the table in subsection 38-190(2) may also be applicable. However, it would be necessary to consider the operation of both subsections 38-190(2) and 38-190(3).
+[10]
+AmyBank also makes a supply of points to cardholders who make purchases from John's Supermarkets, but the cardholders do not provide consideration for this supply.
+[11]
+Reg also makes a supply of a bracelet to Andrea. However, as Andrea has not provided any consideration (only points), this is not a taxable supply.
+[12]
+See GSTR 2006/9, paragraphs 102 to 111.
+[13]
+Under paragraph 9-10(2)(e) the creation or grant of a right is a supply, and under paragraph 9-10(2)(g) the entry into an obligation to do anything is a supply.
+[14]
+Note that in
+Re Ansett Australia Limited and Others (all administrators appointed) and Mentha and Another (as administrators)
+(2002) 115 FCR 395, (2002) 188 ALR 186, [2002] FCA 2 it was accepted by the administrators (upon which basis the court proceeded) that members of the Ansett frequent flyer program were creditors of the company.
+[15]
+See paragraphs 56-93; there are circumstances where the program partner pays a points fee to the operator for points to be allocated to the member. This suggests that the points have value. However, determining whether the points are supplied by the operator to the member for consideration, requires consideration of the transaction between the operator and the member.
+[16]
+cf.
+Federal Commissioner of Taxation v. Luxottica Retail Australia Pty Ltd
+[2011] FCAFC 20; 2011 ATC 20-243; (2011) 79 ATR 768.
+[17]
+It is noted that Australian Accounting Standards Board,
+AASB Interpretation 13:  Customer Loyalty Programs,
+in conjunction with
+AASB 118,
+paragraph 13, requires deferral of some revenue where loyalty award credits are issued.
+[18]
+By contrast, in
+Food Supplier v. Federal Commissioner of Taxation
+[2007] AATA 1550; 2007 ATC 157; (2007) 66 ATR 938, there was one packaged supply made by the supplier consisting of food and non-food items.
+[19]
+In some cases, the points may be regarded as merely ancillary or incidental to the supply of goods or services (see GSTR 2001/8, particularly paragraphs 17 to 22), although this characterisation would only be open where the supplier of the goods or services and the supplier of the points is the same entity.
+[20]
+See also paragraphs 80-85 of GSTR 2001/6.
+[21]
+See
+Tesco Plc v Commissioners for Customs and Excise
+[2003] EWCA Civ 1367;
+Commissioners for Her Majesty's Revenue and Customs v Total UK Limited
+[2007] EWCA Civ 987.
+[22]
+There may also be cases where the supply is not connected with Australia, but this is not considered in the Ruling.
+[23]
+[2006] FCAFC 191.
+[24]
+[2006] FCAFC 191 at paragraph 43 of the judgement.
+[25]
+2007 TCC 281.
+[26]
+Paragraph 42 in
+Royal Bank of Canada v. The Queen
+2007 TCC 281.
+[27]
+Diners Club Pty Ltd v. Ansett Australia Limited
+[2008] VSCA 30.
+[28]
+This Ruling does not deal with the circumstances in which the loyalty program would be construed as a managed investment scheme. It is noted that ASIC has provided in Class Order 05/737 relief for loyalty schemes from registration as managed investment schemes under Chapter 5C of the Corporations Act. However, this exemption does not affect the potential classification of the scheme as a managed investment scheme for the purposes of the GST Act.
+[29]
+For this purpose, managed investment scheme takes its meaning from section 9 of the
+Corporations Act 2001.
+[30]
+The provision, acquisition or disposal of an interest mentioned in subregulation 40-5.09(3) or (4) of the A New Tax System (Goods and Services Tax) Regulations (GST Regulations) is a financial supply where it meets the requirements of subregulation 40-5.09(1) of the GST Regulations. Item 10 in the table in subregulation 40-5.09(3) of the GST Regulations includes an interest in or under securities. Securities are defined in the GST Regulations to take the meaning provided in subsection 92(1) of the
+Corporations Act 2001
+(Corporations Act). Paragraph 92(1)(c) of the Corporations Act provides that 'interests in a managed investment scheme' are securities for the purposes of that Act.
+[31]
+See example 4 at paragraphs 36-37 of this Ruling.
+[32]
+It is much rarer that item 1 will be applicable in a loyalty program context.
+[33]
+However, in many cases this may not have a practical effect because item 4(b) in the table in subsection 38-190(1) may also apply. That is, subsection 38-190(3) does not apply to a supply covered by item 4. However, subsection 38-190(2) may apply to negate the GST-free status of the supply.
+[34]
+This includes circumstances where the redemption partner transfers legal ownership of the reward to the operator, but physically provides it to the member as agent for the operator.
+[35]
+See paragraph 81 of GSTR 2001/6.
+[36]
+See also Proposition 15 of GSTR 2006/9. This differs from the approach of the European Court of Justice in the cases of
+Commissioners for Her Majesty's Revenue and Customs v Baxi Group Ltd
+[2010] EUECJ C-55-09 and
+Commissioners for Her Majesty's Revenue and Customs v Loyalty Management UK Ltd
+[2010] EUECJ C-53/09. For example, in
+Loyalty Management UK,
+the court concluded that 'payments' made by the operator of the scheme concerned to redeemers who supply loyalty rewards to members must be regarded as being consideration, paid by a third party, for a supply of goods to those members or, as the case may be, a supply of services to them...'
+[37]
+Consistently with paragraph 99, in other cases there may be a taxable supply from the redemption partner to the operator and a taxable supply from the operator to the member. This includes arrangements whereby ownership of the reward is passed from redemption partner to operator, but physically provided by the redemption partner to the member. In such cases, the redemption partner may act as agent for the operator in collecting consideration from the member.
+[38]
+[2010] FCAFC 84 at [56]; 2010 ATC 20-196; 76 ATR 306.
+[39]
+We do not consider that these circumstances are similar to those outlined at paragraphs 139-146 of GSTR 2003/5. Rather, the payment by the operator to the redemption partner is for a supply of a voucher made to the operator (but provided to the member).
+GSTR 2011/D3
+References
+ATO references:
+NO  1-3H6PM82
+ISSN: 1443-5160
+Related Rulings/Determinations:
+GSTR 2001/6
+GSTR 2001/8
+GSTR 2002/3
+GSTR 2003/5
+GSTR 2006/9
+TR 1999/6
+TR 2006/10
+TD 2003/20
+TD 1999/34
+Subject References:
+acquisition
+apportionment
+composite supply
+consideration
+creditable acquisition
+GST
+GST-free
+input tax credits
+input tax supplies
+input taxed
+mixed supply
+multi-party arrangements
+recipient
+supplier
+supply
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A 1999
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-10
+ANTS(GST)A 1999 9-10(2)
+ANTS(GST)A 1999 9-10(2)(e)
+ANTS(GST)A 1999 9-10(2)(g)
+ANTS(GST)A 1999 9-17(1)
+ANTS(GST)A 1999 9-17(1)(a)
+ANTS(GST)A 1999 9-30
+ANTS(GST)A 1999 9-30(1)(b)
+ANTS(GST)A 1999 9-30(2)(b)
+ANTS(GST)A 1999 Div 11
+ANTS(GST)A 1999 11-5
+ANTS(GST)A 1999 19-10
+ANTS(GST)A 1999 Div 38
+ANTS(GST)A 1999 38-3
+ANTS(GST)A 1999 38-190
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 38-190(1) Item 1
+ANTS(GST)A 1999 38-190(1) Item 2
+ANTS(GST)A 1999 38-190(1) Item 3
+ANTS(GST)A 1999 38-190(1) Item 4
+ANTS(GST)A 1999 38-190(2)
+ANTS(GST)A 1999 38-190(2A)
+ANTS(GST)A 1999 38-190(3)
+ANTS(GST)A 1999 38-190(4)
+ANTS(GST)A 1999 38-190(4)(b)
+ANTS(GST)A 1999 38-355
+ANTS(GST)A 1999 Div 40
+ANTS(GST)A 1999 Div 72
+ANTS(GST)A 1999 100-5
+ANTS(GST)A 1999 100-25
+ANTS(GST)Regs 40-5.09(1)
+ANTS(GST)Regs 40-5.09(3)
+ANTS(GST)Regs 40-5.09(4)
+Corporations Act 2001
+Corporations Act 2001 Ch 5C
+Corporations Act 2001 9
+Corporations Act 2001 92(1)
+Corporations Act 2001 92(1)(c)
+Case References:
+Commissioners for Her Majesty's Revenue and Customs v Baxi Group Ltd Baxi Group Ltd
+[2010] EUECJ C-55-09
+Commissioner of Taxation v. Secretary to the Department of Transport (Victoria)
+[2010] FCAFC 84
+(2010) 76 ATR 306
+2010 ATC 20-196
+Commissioners for her Majesty's Revenue and Customs v. Total UK Limited
+[2007] EWCA Civ 987
+Diners Club Pty Ltd v. Ansett Australia Limited
+[2008] VSCA 30
+Federal Commissioner of Taxation v. Luxottica Retail Australia Pty Ltd
+[2011] FCAFC 20
+2011 ATC 20-243
+(2011) 79 ATR 768
+Food Supplier v. Federal Commissioner of Taxation
+[2007] AATA 1550
+2007 ATC157
+(2007) 66 ATR 938
+Commissioners for Her Majesty's Revenue and Customs v Loyalty Management UK Ltd
+[2010] EUECJ C-53/09
+Re Ansett Australia Limited and Others (all administrators appointed) and Mentha and Another (as administrators)
+(2002) 115 FCR 395
+[2002] FCA 2
+Royal Bank of Canada v. The Queen
+2007 TCC281
+Saga Holidays Limited v. FCT
+[2006] FCAFC 191
+2006 ATC 4841
+(2006) 64 ATR 602
+Other References:
+ASIC Class Order 05/737
+AASB Interpretation 13: Customer Loyalty Programs
+AASB 118
+GSTR 2012/1 history
+Date:
+Version:
+Change:
+4 April 2012
+Original ruling
+You are here
+14 August 2013
+Consolidated ruling
+Addendum
+Back to top

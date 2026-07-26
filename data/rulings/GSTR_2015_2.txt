@@ -1,0 +1,870 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 19
+  • Div 29
+  • Div 81
+  • Div 82
+  • Division 19
+  • Division 29
+  • Division 81
+  • Division 82
+  • Subdivision 38-N
+  • div 38
+  • division 38
+
+Cases Referenced:
+  • Archibald Howie Pty Ltd v Commissioner 
+  • Group Ltd v Commissioner 
+  • Northern Territory v Mr 
+  • Ors v The Treasurer
+  • See
+Archibald Howie Pty Ltd v Commissioner 
+  • State Revenue v Lend Lease Development Pty Ltd
+
+  • Taxation v Qantas Airways Limited
+
+  • Taxation v Qantas Airways Ltd
+
+  • Turner v Minister 
+
+Topics: GST, Partnerships, Companies
+
+
+
+================================================================================
+
+GSTR 2015/2 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+37 related documents
+Goods and Services Tax Ruling
+GSTR 2015/2
+Goods and services tax: development lease arrangements with government agencies
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+GSTR 2015/2EC
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+LEGALLY BINDING SECTION:
+What this Ruling is about
+1
+Ruling
+21
+Date of effect
+113
+NOT LEGALLY BINDING SECTION:
+Appendix 1: Explanation
+119
+Appendix 2: Definitions
+143
+Appendix 3: Detailed contents list
+150
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+Note:
+This is a consolidated version of this document. Refer to the Legal Database (
+ato.gov.au/law
+) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling explains the goods and services tax (GST) treatment of particular transactions arising in the context of development lease arrangements entered into between government agencies
+[1]
+and private developers. These arrangements typically have the following features:
+•
+the private developer (developer) undertaking a development on land owned by a government agency in accordance with the terms of a written agreement between the developer and the government agency, and
+•
+the government agency ultimately supplying the land by way of freehold or grant of a
+long-term lease
+[2]
+to the developer subject to the developer undertaking the development in accordance with the terms of the written agreement. That is, the developer becomes entitled to transfer of the freehold or grant of a long-term lease when the development is completed.
+2. In particular, this Ruling considers:
+•
+the relevant principles for identifying and characterising the various supplies that are made for consideration
+[3]
+under a development lease arrangement, including:
+•
+whether the grant of a short-term lease or licence (development lease) by the government agency to allow the developer to undertake the development on the land is a supply for consideration
+•
+whether, in completing the works on land owned by the government agency, the developer makes a supply of
+development services
+[4]
+to the government agency for consideration, and
+•
+whether the sale of the freehold or grant of the long-term lease of the land by the government agency is a supply for consideration, and whether any consideration the developer provides for supply of the land includes undertaking of the
+development works
+[4A]
+on land owned by the government agency.
+•
+the extent to which the consideration for particular supplies made under a development lease arrangement includes consideration that is not expressed as an amount of money, that is, non-monetary consideration
+•
+how the value of any non-monetary consideration provided for supplies made in the context of a development lease arrangement may be determined
+[5]
+, and
+•
+the attribution, under Division 29 of the GST Act, of the GST liabilities and input tax credit entitlements that may arise under development lease arrangements.
+3. This Ruling does not consider the application of:
+•
+Subdivision 38-N of the GST Act (grants of land by governments)
+•
+Division 81 of the GST Act (payment of taxes, fees and charges), or
+•
+Division 82 of the GST Act (supplies in return for rights to develop land).
+4. This Ruling does not discuss the GST consequences of any arrangements associated with the development entered into between the developer and third parties. For example, the Ruling does not address the GST consequences of the sale of the completed development, or completed units in the development, by the developer to third party purchasers.
+5. This Ruling does not apply to development lease arrangements that do not involve a government agency. The GST implications of arrangements not involving government agencies depend on the features of the particular arrangement in question. However, a number of the principles outlined in this Ruling may also be applicable to similar arrangements involving private entities only.
+6. Sometimes in the Australian Capital Territory (ACT), the ACT Government releases land for sale to developers by granting a holding lease to the developer which is then followed by the grant of a 99 year long-term lease to the developer. The principles outlined in this Ruling may apply to these arrangements in the ACT.
+6A. This Ruling does not apply to the other common way in which a government agency of the ACT releases land to developers. Under these arrangements, a long-term lease (usually 99 years) may be granted to a developer on settlement of the contract. No holding lease is entered into under these arrangements (discussed in detail in Goods and Services Tax Determination GSTD 2021/1
+Goods and services tax: development works in the Australian Capital Territory).
+7. This Ruling does not address every possible factual scenario and does not seek to identify all possible supplies for consideration that may arise in the context of development lease arrangements. Instead, this Ruling sets out some principles and examples which may be relevant to various specific situations.
+8. All legislative references in this Ruling are to the GST Act unless otherwise indicated. Also, unless otherwise specified, any reference to a taxable supply assumes that all of the requirements of section 9-5 are met.
+Summary of the GST outcomes under this Ruling
+Supplies made under a development lease arrangement
+9. Where a government agency grants a development lease to allow a developer to undertake development works on the land, the government agency makes a supply of land to the developer by way of lease or licence. The developer also makes a corresponding acquisition of land by way of lease or licence.
+10. In completing the development works on the land, in accordance with the terms of a development lease arrangement, the developer makes a supply of development services to the government agency.
+Supplies made for consideration under a development lease arrangement
+11. Where the terms of the development lease arrangement make the supply of the land subject to or conditional on the developer completing specified development works, supply of the land by the government agency is consideration for the developer's supply of development services. The supply of development services by the developer is, in turn, consideration for the supply of land by the government agency.
+12. Where the developer completes additional works on land retained by the government agency, the developer makes a supply of development services to the government agency. The supply of the land by the government agency is consideration for this supply of development services by the developer if:
+•
+the terms of the development lease arrangement make the government agency's supply of land subject to or conditional upon the developer completing the additional works, and
+•
+Divisions 81 and 82 do not apply.
+Background
+13. To ensure land development is carried out in accordance with statutory requirements and policy objectives, government agencies commonly sell, or grant long-term leases over land to developers subject to conditions governing the developments to be undertaken on the land. The developments often include commercial/retail and residential components (often strata titled units).
+Common features of development lease arrangements
+14. There are variations between particular arrangements but, in general, the developer is required to carry out development works under a development lease arrangement that involves:
+•
+the government agency initially granting a short-term lease or licence (commonly referred to as a 'development lease') to allow the developer to enter the land and to carry out development works on the land. The developer may be required to pay rent under the development lease and/or may be required to pay a lump sum amount to the government agency for the grant of the development lease
+•
+the terms of the development lease arrangement providing that all risks relating to the development works rest with the developer
+•
+the developer undertaking the development works on its own account and not as an agent or builder for the government agency
+•
+an expectation of the parties that the development works will be completed in accordance with the terms of the development lease arrangement, and
+•
+the government agency transferring or granting the freehold or long-term leasehold title to the land to the developer when certain conditions specified in the development lease arrangement are satisfied. For example, when the development is completed in accordance with the terms of the development lease arrangement.
+15. A common variation that arises in some development lease arrangements is when, under the terms of the arrangement, the developer is also required to complete works, such as infrastructure works, on land that is not to be transferred to or retained by the developer.
+16. In some cases, the terms of a development lease arrangement do not provide for the immediate transfer or grant of the freehold or long-term leasehold title to the land when the development is completed and/or other conditions are satisfied. Instead, the government agency grants an option to the developer which allows the developer to call for the freehold title or a long-term lease (referred to as a 'call option' for the purposes of this Ruling).
+17. In other cases, the government agency grants a call option to the developer on entry into a development lease arrangement. However, under the terms of the arrangement, the developer is not entitled to exercise the call option until the development is completed and/or other specified conditions are satisfied.
+18. Often, development lease arrangements also require the developer to make one or more monetary payments to the government agency. The terms of a particular development lease arrangement specify what the payment or payments are for in each case. For example, a development lease arrangement may require the developer to pay a monetary sum in consideration for the grant of a long-term lease of the land.
+19. There are some development lease arrangements where the government agency initially requires the completed development works for its own use, even though there is to be a subsequent sale or long-term lease of the land containing the completed development works to the developer.
+20. This Ruling does not apply to development lease arrangements to the extent that they have features of the kind referred to in paragraph 19 of this Ruling.
+Ruling
+Supplies for consideration
+21. Identification of the supplies that are made for consideration arising under a development lease arrangement turns on the specific terms of the particular development lease arrangement. The terms of agreements entered into by the parties are primary to identifying the supplies that are made for consideration as part of a development lease arrangement.
+22. The terms of a development lease arrangement typically give rise to a number of actions by the parties, these include:
+•
+The grant, by the government agency, of a development lease (that is, a short-term lease or licence) to the developer to allow the developer to undertake development works on the land.
+•
+The developer undertaking development works on land owned by the government agency.
+•
+The government agency transferring the freehold interest in the land or granting a long-term lease of the land to the developer and/or granting an option for the developer to call for the transfer or grant of the freehold title or a long-term lease.
+•
+The developer making one or more monetary payments to the government agency.
+Grant of a development lease by the government agency to the developer
+23. Where a government agency grants a development lease to allow the developer to undertake development works on the land, it is making a supply of land to the developer by way of lease or licence, and the developer makes a corresponding acquisition of land by way of lease or licence.
+[7]
+24. Where the development lease, or a related agreement, provides for rent to be paid by the developer, the rent is consideration for the supply of land by way of lease.
+25. In some cases, the development lease or a related agreement, may require the developer to pay a lump sum to the government agency on the grant of a development lease. In the absence of express terms or other evidence to the contrary, the payment of this amount is also consideration for the supply of land to the developer by way of lease or licence.
+Example 1: short-term lease of land to the developer for annual rental
+26.
+Government Agency A and the Numbat Development Co enter into a written development lease arrangement for the development of vacant land owned by Agency A.
+27.
+Under the terms of the development lease arrangement
+[8]
+, Agency A grants a development lease to Numbat for a five year term so that Numbat can access the land and construct the development. The terms of the lease require Numbat to pay annual rent of $20,000.
+28.
+The rent paid by Numbat is consideration for the supply of land by way of lease to Numbat by Agency A.
+29.
+Agency A makes a taxable supply of vacant land, by way of lease, to Numbat.
+Example 2: grant of a short-term lease to the developer for an upfront lump sum payment
+30.
+Assuming the same facts from Example 1 except that, rather than being required to pay annual rent, Numbat must pay an upfront monetary sum of $100,000 for the grant of the development lease.
+31.
+The payment is consideration for the supply of land by way of lease made to Numbat by Agency A.
+32.
+Agency A makes a taxable supply of vacant land, by way of lease, to Numbat.
+Undertaking works on land owned by the government agency that is to be transferred to, or retained by, the developer
+33. In completing the development works on the government agency's land, in accordance with the terms of a development lease arrangement, the developer makes a supply of development services to the government agency.
+[9]
+34. The supply of the land to the developer by the government agency is consideration for the developer's supply of development services if there is a sufficient nexus between supply of the development services and transfer of the land.
+35. There is a sufficient nexus between the development services and the transfer of freehold or grant of a long-term lease if the development lease arrangement makes the supply of the land subject to or conditional on the developer completing specified development works.
+[10]
+For example, the developer only becomes entitled to the freehold or long-term lease on completion of the development or a particular stage of the development.
+36. In some cases, under the terms of a development lease arrangement, the government agency grants a call option to the developer. When exercised, the call option entitles the developer to the transfer of the freehold or a long-term leasehold interest in the land. The grant of a call option by the government agency is consideration for the developer's supply of development services if the grant of the call option is subject to or conditional on the developer completing specified development works. This means that the supply of the development services will not be consideration for the supply of the land in this situation.
+37. Where the circumstances set out in paragraphs 33 to 36 of this Ruling apply, supply of development services by the developer is, in turn, consideration for the supply of the land or the grant of a call option by the government agency.
+[11]
+The developer makes a taxable supply of development services and the government agency makes a taxable supply of land or a taxable supply of the grant of a call option.
+38. There may also be some cases where a call option is granted by the government agency to the developer on entry into a development lease arrangement or sometime soon after, and the developer's right to exercise the option is subject to or conditional on completion of the works. In these cases, the works are undertaken in connection with the exercise of the option and, under subsection 9-17(1)
+[12]
+, the development services supplied by the developer form part of the consideration for transfer of the land by the government agency when the developer exercises the option. In turn, transfer of the land by the government agency is consideration for the developer's supply of development services. Any initial payment for the option is not consideration for the supply of the land.
+Example 3: supply of freehold interest to the developer is conditional on the developer completing development works on the land
+39.
+Government Agency B and Pademelon Constructions enter into a development lease arrangement for the development of land owned by Agency B.
+40.
+Agency B is required to transfer the freehold title to the land to Pademelon when Pademelon has completed the development in accordance with the terms of the arrangement. Pademelon is not entitled to the freehold title until it completes the development.
+41.
+On receipt of a certificate of practical completion for the development, Agency B transfers the freehold title to Pademelon.
+42.
+Pademelon makes a supply of development services to Agency B, and Agency B makes a supply of the land to Pademelon.
+43.
+Supply of the land by way of the freehold is consideration for the supply of development services Pademelon makes to Agency B. In turn, Pademelon's supply of development services is consideration for Agency B's supply of land to Pademelon.
+44.
+Pademelon makes a taxable supply of development services to Agency B.
+45.
+Agency B makes a taxable supply of land to Pademelon.
+Example 4: grant of a call option to the developer is conditional on the developer completing development works on the land
+46.
+Assuming the same facts from Example 3, except that Pademelon is entitled to the grant of a call option on practical completion of the development. When exercised, the call option entitles Pademelon to the transfer of the freehold. Pademelon is not entitled to the grant of the call option until the development reaches practical completion.
+47.
+Pademelon makes a supply of development services to Agency B, and Agency B makes a supply of the grant of the call option to Pademelon.
+48.
+The grant of the call option is consideration for the supply of development services that Pademelon makes to Agency B. In turn, Pademelon's supply of development services is consideration for Agency B's supply of the grant of the call option.
+[13]
+49.
+Pademelon makes a taxable supply of development services to Agency B.
+50.
+Agency B makes a taxable supply of the grant of the call option to Pademelon.
+Example 5: exercise of a call option by the developer is conditional on the developer undertaking development works on the land
+51.
+Assuming the same facts from Examples 3 and 4, except that the development lease arrangement provides for the grant of a call option to Pademelon immediately on entry into the arrangement. When exercised, the call option entitles Pademelon to the transfer of the freehold. However, Pademelon is not entitled to exercise the call option until the development reaches practical completion.
+52.
+Pademelon makes a supply of development services to Agency B and, on exercise of the call option by Pademelon, Agency B makes a supply of land to Pademelon.
+53.
+For the purposes of subsection 9-17(1), Pademelon's supply of the development services is in connection with the exercise of the call option. Pademelon's supply of development services is consideration for Agency B's supply of the land. In turn, Agency B's supply of the land to Pademelon is consideration for the supply of development services that Pademelon makes to Agency B.
+54.
+Pademelon makes a taxable supply of development services to Agency B.
+55.
+Agency B makes a taxable supply of land to Pademelon.
+Undertaking of works on land that is not transferred to, or retained by, the developer
+56. In some cases, as a condition of a development lease arrangement, the developer is required to complete works on land that is retained by the government agency and is not transferred to, or retained by, the developer as part of the arrangement (additional works). These works may include construction of other facilities required by the government agency, for example, car parks, parkland, or entertainment precincts. They may also include general infrastructure works such as sewers, roads and footpaths.
+57. The developer makes a supply of development services to the government agency when the developer completes additional works on land that is retained by the government agency, in accordance with the terms of a development lease arrangement.
+58. The supply of the land by the government agency is consideration for this supply of development services, by the developer
+[14]
+, if:
+•
+the terms of the development lease arrangement make the government agency's supply of land subject to or conditional on the developer completing the additional works, and
+•
+Divisions 81 and 82
+[15]
+do not apply.
+59. In other cases, where the grant of a call option by the government agency is subject to or conditional on the developer completing the additional works, the grant of the call option is consideration for the developer's supply of development services if Divisions 81 and 82 do not apply.
+60. Where the circumstances in paragraphs 58 and 59 of this Ruling apply, the supply of development services by the developer, in the form of the additional works, also forms part of the consideration for the government agency's supply of land or grant of the call option.
+Example 6: transfer of a long-term leasehold interest in the land is conditional on the developer undertaking works on the land and additional works on adjacent land
+61.
+Government Agency C and Galah Builders enter into a development lease arrangement for the construction of a development on land owned by Agency C.
+62.
+Under the terms of the arrangement, Galah is entitled to the grant of a long-term lease over the land. However, the grant of the long-term lease to Galah is conditional on Galah completing the required development, as well as constructing a multi-storey car park on adjacent land owned by, and to be retained by, Agency C.
+63.
+When Galah completes the development and construction of the car park, Agency C makes a supply of the grant of a long-term lease over the land to Galah. The consideration for that supply is the development services provided by Galah comprising both construction of the development, as well as construction of the car park on the adjacent land owned by Agency C.
+64.
+The grant of the long-term lease by Agency C is, in turn, consideration for supply of development services by Galah in constructing the development and the car park.
+Example 7: transfer of a long-term leasehold interest in the land is conditional on the developer completing additional works on adjacent land only
+65.
+Assuming the same facts from Example 6 except that the transfer of the long-term lease over the land to Galah is only conditional on Galah constructing the car park. That is, the grant of the long-term lease to Galah is not subject to or conditional on the completion of the development on the land that is to be transferred to it. Galah is entitled to the grant of the long-term lease as soon as construction of the car park on the adjacent land is completed.
+66.
+In constructing the car park, Galah makes a supply of development services to Agency C. The grant of the long-term lease over the land on which the development is to be constructed is consideration for the supply of development services that Galah makes in completing construction of the car park.
+67.
+In turn, Galah's supply of development services in completing construction of the car park is consideration for Agency C's supply of the land by way of long-term lease.
+Valuation of non-monetary consideration provided for supplies made under a development lease arrangement
+68. As explained in paragraphs 33 to 67 of this Ruling, the consideration for supplies made by the developer and the government agency under a development lease arrangement often involve consideration that is not expressed as an amount of money (that is, non-monetary consideration). Where the consideration for a supply is non-monetary, the GST inclusive market value of that consideration is used to work out the price and value of that supply.
+[16]
+The meaning of the term 'market value' is considered in further detail in paragraphs 140 to 158 of GSTR 2001/6.
+69. Where the parties to a development lease arrangement are dealing with each other at arm's length, the Commissioner considers that the things exchanged between the parties are of equal GST inclusive market value.
+[17]
+Therefore, in the context of a development lease arrangement between a government agency and a developer, the parties can use a reasonable valuation method
+[18]
+as agreed between them to determine the GST-inclusive market value of any non-monetary consideration for supplies arising in the context of a development lease arrangement.
+[19]
+70. For example, the full costing of the development works, undertaken by the developer as part of a competitive tender process, which takes into account the full cost of construction (including builder margins), provides a reasonable basis for determining the GST-inclusive market value of the supply of development services by the developer. It also provides a reasonable basis for calculating the price of the government agency's related supply of land (or grant of a call option).
+71. Similarly, a professional valuation of the land can be used in calculating the GST-inclusive market value of the development services. The professional valuation of the land must:
+•
+include the development works on the land that are supplied to the government agency; and
+•
+exclude development works on the land that are not supplied to the government agency.
+71A. In using the professional valuation to calculate the GST-inclusive market value of the development services, adjustments need to be made for any monetary consideration provided for the land by the developer. The professional valuation of the land provides a reasonable basis for calculating the price of the government agency's supply of land (or grant of a call option).
+[21]
+71B. The professional valuation of the land must comply with professional guidelines
+[21A]
+and the law. The High Court in
+Turner v Minister of Public Instruction
+[1956] HCA 7 (
+Turner
+); 93 CLR 245, page 297, stated:
+... A purchaser considering buying land for the purpose of subdividing it would necessarily require a margin between the purchase price of the land and the expected or estimated net return on realization of it in subdivision, and this fact was recognized in this case. The extent of the margin, that is the difference between the purchase price which a purchaser would be prepared to pay for land
+in globo
+and the net return expected to be derived from it on sale in subdivision is a matter to be ascertained from the opinions of experts based upon their experience and their analyses of transactions of this type.
+71C. The approach adopted in
+Turner
+was confirmed by the High Court in
+Northern Territory v Mr A. Griffiths (deceased) and Lorraine Jones on behalf of the Ngaliwurru and Nungali Peoples
+[2019] HCA 7 at [84] and applied in numerous other cases. In
+Australia Pacific LNG Pty Limited & Ors v The Treasurer, Minister for Aboriginal and Torres Strait Islander Partnerships and Minister for Sport
+[2020] QCA 15, it was stated at [81]:
+... In the case of hypothesising a sale of undeveloped land for valuation purposes, it would be an error of law to value the land as if its
+potential
+to be fully developed and subdivided had
+already been realised
+and existed at the date of the hypothetical sale transaction.
+71D. A professional valuation must take into account the market the supply is made in.
+[21B]
+For example, the sale of land from the government agency to the developer is analogous to a wholesale market supply in contrast to the sale by the developer of individual properties in the retail market.
+72. A change in the market value of the works undertaken by the developer (non-monetary consideration) after the parties have agreed, on a reasonable basis, the GST-inclusive market value of those works, on its own, does not give rise to an adjustment event under Division 19.
+[22]
+73. In contrast, if after the GST-inclusive market value of the works has been agreed by the parties there is a variation in the terms of the development lease arrangement that substantially changes the nature, scope or extent of the works the developer is required to undertake, this may give rise to an adjustment event under Division 19.
+Example 8: GST inclusive market value of development services that are consideration for a supply of a freehold interest in the land
+74.
+Government Agency D and a developer, Quoll Pty Ltd, enter into a development lease arrangement for the construction of a development on land owned by Agency D.
+75.
+Quoll is entitled to the transfer of the freehold subject to Quoll completing the development on the land. The terms of the arrangement do not require Quoll to make any monetary payments for the transfer of the freehold.
+76.
+Quoll makes a taxable supply of development services to Agency D in exchange for the transfer of the freehold. Similarly, Agency D makes a taxable supply of the land to Quoll in exchange for Quoll's supply of development services.
+77.
+As part of a competitive tender process, prior to entering into the development lease arrangement, Quoll undertook a full costing of the development works, taking into account building costs (including builder margins), internal margins and other contingencies which amounted to $33 million.
+78.
+Both Quoll and Agency D can agree to account for their respective GST obligations and entitlements on the basis that the GST inclusive market value of the non-monetary consideration provided for their respective supplies is $33 million.
+79.
+On that basis, both parties make taxable supplies for which the GST inclusive price is $33 million. Similarly, both parties also make acquisitions for a GST inclusive price of $33 million.
+Determining the price of taxable supplies made under a development lease arrangement when the consideration comprises both monetary and non-monetary components
+80. In some cases, a development lease arrangement may give rise to a supply of land by the government agency for consideration consisting of a non-monetary component together with an amount of money.
+81. For example, the grant of a long-term lease or transfer of the freehold may not only be subject to the developer completing development works on the land. The developer may also be required to pay a monetary sum to the government agency.
+82. Because the land is supplied by the government agency in exchange for both the monetary payment and the development services, the GST inclusive market value needs to be apportioned to determine the price of the supply of development services made by the developer.
+[23]
+The apportionment is made by deducting the amount of the monetary payment from the GST inclusive market value of the land supplied by the government agency.
+83. In turn, the consideration for the government agency's supply of the land is determined by adding together the amount of the monetary payment and the GST inclusive market value of the development services supplied by the developer.
+Example 9: transfer of freehold interest in land for both monetary and non-monetary consideration
+84.
+Under the terms of a development lease arrangement, Government Agency E agrees to transfer the freehold interest in land to Skink Enterprises, subject to Skink constructing a development on the land and making a lump sum payment of $18 million to Agency E.
+85.
+A professional valuation determines a GST inclusive market value of $68 million for the freehold transferred to Skink. On that basis, the GST inclusive market value of the development services undertaken by Skink is $50 million.
+86.
+Skink makes a taxable supply of development services to Agency E. The price for Skink's taxable supply of development services to Agency E is $50 million.
+87.
+Agency E makes a taxable supply of land to Skink. The price for Agency E's taxable supply of land to Skink is $68 million (comprising the $50 million GST inclusive market value of Skink's supply of development services plus the $18 million payment from Skink).
+Attribution of GST liabilities for taxable supplies arising under a development lease arrangement
+88. Where a party to a development lease arrangement accounts for GST on a non-cash basis, any GST payable or entitlement to an input tax credit is attributable to the tax period in which:
+•
+any of the consideration is received, or
+•
+an invoice is issued,
+whichever is the earlier.
+[24]
+89. In the context of a development lease arrangement, attribution of a GST liability or a corresponding input tax credit entitlement is required in the tax period in which:
+•
+a monetary payment is received, or
+•
+some or part of the non-monetary consideration is received, or
+•
+an invoice is issued,
+whichever is the earlier.
+Attribution of a government agency's GST liability for its taxable supply of land or the grant of a call option
+90. Non-monetary consideration, comprising a supply of development services by the developer, for a supply of land or the grant of a call option by a government agency under a development lease arrangement, is not provided in part (or in full) until the conditions specified in the development lease arrangement are satisfied and the developer is entitled to the supply of the land or the grant of a call option - for example, on practical completion of the development.
+[25]
+91. In circumstances where a monetary payment has not been made in an earlier tax period and an invoice has not been issued in an earlier tax period, the government agency's GST liability for a taxable supply of land (or the supply by way of grant of a call option) is attributable to the tax period in which the development satisfies the requirements of the development lease arrangement and the developer is entitled to the supply of the land or the grant of a call option.
+92. In practical terms, the view expressed at paragraphs 90 and 91 of this Ruling means that the government agency's GST liability for its supply of the land (or the grant of a call option in applicable cases) is not attributable until the specified development is completed (or a specified stage of the development is completed) unless:
+•
+an invoice has been issued in an earlier tax period
+[26]
+, or
+•
+a monetary payment has been received for the land (or the call option) in an earlier tax period.
+[27]
+Attribution of the developer's GST liability for its taxable supply of development services
+93. Non-monetary consideration, comprising the transfer of the freehold or long-term leasehold interest in land (or in other cases, the grant of a call option), for the supply of development services made by a developer is provided in full immediately on the transfer of the freehold or long-term leasehold interest (or immediately on the grant of the call option in applicable cases).
+94. In circumstances where no monetary consideration has been provided in an earlier tax period and no invoice has been issued in an earlier tax period, the developer's GST liability for its taxable supply of development services is attributable to the tax period in which the freehold or long-term leasehold interest in the land is transferred (or the call option is granted).
+Example 10: attribution of GST payable on the supply of land by the government agency when the required works are completed prior to the payment of any monetary consideration and the issue of an invoice
+95.
+Under the terms of a development lease arrangement, Government Agency F agrees to grant a long-term lease of the land to Potoroo Pty Ltd, subject to Potoroo constructing a development on the land. Potoroo is required to complete the development and obtain a certificate of practical completion before it is entitled to the grant of the long-term lease from Agency F.
+96.
+The terms of the development lease arrangement require Agency F to grant the long-term lease to Potoroo immediately on Potoroo obtaining a certificate of practical completion for the development. Potoroo is also required to pay $33 million to Agency F in consideration for the grant of the long-term lease at the time that the long-term lease is granted.
+97.
+Agency F will make a taxable supply of the land to Potoroo. The consideration for that supply will include the development services supplied by Potoroo, in addition to the $33 million payment.
+98.
+As no invoices have been issued and no monetary payment has been made in any earlier tax period, Agency F's GST liability for its taxable supply of the land is attributable to the tax period when Potoroo obtains a certificate of practical completion for the development. No part of the monetary consideration or the non-monetary consideration (in the form of the development services supplied by the developer) for the supply of the land is received by Agency F prior to the practical completion of the development.
+99.
+The total GST liability attributable by Agency F in that tax period in which practical completion of the development is achieved is equal to 1/11 of $33 million plus the GST inclusive market value of the development works supplied by Potoroo.
+Example 11: attribution of GST payable on the supply of land by the government agency when a lump sum payment is made on execution of the agreement and no invoice is issued
+100.
+Quokka Developments enters into a development lease arrangement with Government Agency H to construct a residential complex. Under the terms of the arrangement, Agency H grants Quokka a short-term lease and will subsequently grant a long-term lease of the land to Quokka subject to Quokka undertaking specified works on the land. The terms of the arrangement specified that 30 days after execution of the development lease agreement, Quokka is required to pay $10 million to Agency H in consideration for the
+proposed grant of the long-term lease.
+101.
+On completion of the development, Quokka is required to make a further lump sum payment of $40 million to Agency H. On receipt of the payment Agency H is required to transfer the long-term lease to Quokka.
+102.
+Agency H makes a taxable supply of the land to Quokka. The consideration for that supply includes the development services supplied by Quokka, in addition to the lump sum payments.
+103.
+Quokka makes the $10 million payment to the government agency 30 days after execution of the development lease agreement. No invoices are exchanged prior to this payment being made.
+104.
+Agency H's full GST liability for its taxable supply of the long-term lease to Quokka is attributable to the tax period when the $10 million payment is received. The total GST liability attributable by Agency H in that tax period is equal to 1/11 of ($10 million plus the further $40 million lump sum payment plus the GST inclusive market value of the development works to be undertaken by Quokka).
+Invoices for supplies arising under a development lease arrangement
+105. A document issued by the developer to the government agency on entry into a development lease arrangement or at any time afterwards, notifying the government agency of an obligation to supply the land subject to the development works being completed, is an invoice as defined in section 195-1.
+[28]
+106. If none of the consideration (monetary or non-monetary) for the developer's supply of development services has been received by the developer in an earlier tax period, the developer's GST liability for its taxable supply of development services is attributable to the tax period in which the invoice is issued.
+[29]
+In turn, any corresponding input tax credit that the government agency is entitled to for its acquisition of the development services is attributable to that same tax period.
+[30]
+107. Similarly, the issue of a document by the government agency on entry into a development lease arrangement or at any time afterwards, notifying the developer of its obligation to deliver a specified development outcome contemplated by the development lease arrangement (for example, practical completion of a particular commercial and residential apartment complex on the land), is an invoice as defined in section 195-1.
+[31]
+108. If none of the consideration (monetary or non-monetary) for the government agency's supply of the land has been received by the government agency in an earlier tax period, the government agency's GST liability for its taxable supply of the land is attributable to the tax period in which the invoice is issued. In turn, subject to the requirement to hold a tax invoice in subsection 29-10(3), any input tax credit that the developer is entitled to for its acquisition of the land is attributable to that same tax period.
+Example 12: invoices issued prior to payment of monetary consideration or provision of non-monetary consideration
+109.
+Assuming the same facts from Example 10 above, except that on entry into the development lease arrangement, Agency F and Potoroo exchange tax invoices for their respective obligations arising under the development lease arrangement - that is, transfer of the land by Agency F and the undertaking of the works by Potoroo.
+110.
+At the time the tax invoices are issued, neither Agency F nor Potoroo has provided any monetary or non-monetary consideration for Potoroo's supply of development services or Agency F's supply of the land.
+111.
+Agency F's GST liability for its taxable supply of the land is attributable to the tax period when it issues the tax invoice and provides it to Potoroo. Potoroo's GST liability for its taxable supply of the development works is attributable to the tax period when it issues the tax invoice and provides it to Agency F.
+112.
+As the tax invoices are exchanged in the same tax period, both Agency F's GST liability and Potoroo's respective GST liabilities, are attributable to the same tax period. In turn, any input tax credits that Agency F is entitled to for its acquisition of the development services from Potoroo is also attributable to that same tax period, as are any input tax credits that Potoroo is entitled to for its acquisition of the land from Agency F.
+Date of effect
+113. This Ruling applies on and from its date of issue.
+114. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10
+Public Rulings).
+Transitional treatment of arrangements where parties were commercially before the issue of the Ruling
+Transitional arrangements
+115. It is recognised that, prior to the issue of this Ruling, taxpayers may have applied a different approach to working out their GST obligations and entitlements under a development lease arrangement.
+116. The Commissioner will not seek to disturb the GST treatment of transactions under a development lease arrangement in cases where the parties were commercially committed to the arrangement before the issue of this Ruling, if:
+•
+the parties account for their respective GST liabilities and obligations under the arrangement on the same basis, and
+•
+the parties continue to apply that same basis to account for their respective GST liabilities and obligations under the arrangement for entire life of the arrangement from commencement to completion.
+117. Alternatively, subject to relevant time limits in the
+Taxation Administration Act 1953,
+parties that were commercially committed to a development lease arrangement prior to the issue of this Ruling may choose to revise previously accounted for GST obligations and entitlements in accordance with this Ruling. In these cases, the Commissioner will allow a period of six months from the date of issue of this Ruling for taxpayers to make necessary revisions to previously lodged activity statements. Taxpayers that make necessary revisions within six months of the date of issue of this Ruling will not be subject to penalties or interest.
+When will parties be considered commercially committed to an arrangement prior to the date of issue of this Ruling?
+118. For transitional purposes for GST treatment of GST obligations and entitlements under a development lease arrangement, the parties will be considered to be committed to a development lease arrangement prior to this Ruling if:
+•
+the developer and the government agency have entered into an arrangement prior to the date of this Ruling, and the arrangement is legally binding
+•
+the developer is the preferred tenderer in the final step in a bidding or tendering process relating to the arrangement, or
+•
+the developer has made (with associates), acquisitions having a total GST exclusive value of at least $200,000 in relation to the arrangement, or
+•
+the developer has directly incurred (with associates) internal direct costs of at least $200,000 in relation to the arrangement.
+Commissioner of Taxation
+3 June 2015
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Supply for consideration
+119. In order for there to be a taxable supply, paragraph 9-5(a) requires a supply
+[32]
+for consideration. A payment, act or forbearance is consideration for a supply where there is a sufficient nexus between the payment, act or forbearance and the supply.
+[33]
+The test as to whether there is a sufficient nexus is an objective test.
+[34]
+120. In
+AP Group Ltd v Commissioner of Taxation
+[35]
+, the Court held that in the phrase 'you make the supply for consideration' the word 'for' functions in the statutory description to identify the character of the connection which is required and ensures that not every connection between the giving of consideration and the provision satisfy the first condition of making a taxable supply.
+121. In
+Commissioner of Taxation v Qantas Airways Limited
+[36]
+, the majority
+[37]
+considered that the word 'for' in the phrase 'the supply for consideration' was not used to adopt contractual principles but required 'a connection or relationship between the supply and the consideration'.
+Supplies for consideration in the context of development lease arrangements
+122. For real property transactions, 'consideration' may be regarded as anything that 'moves' the conveyance or transfer.
+[38]
+123. If the terms of a development lease arrangement make a supply of land or a grant of a call option by the government agency to the developer subject to the developer constructing a development on the land, then the completing of the development works on the land by the developer is what 'moves' the transfer of the land or the grant of the option. For the purposes of paragraph 9-5(a), there is a sufficient nexus between the supply of the development services by the developer and the supply of the land (or the grant of the call option) by the government agency. In these circumstances, supply of development services by the developer is consideration for the supply of the land or the grant of the call option by the government agency.
+124. The completing of the development works by the developer on the government agency's land constitutes a supply of development services by the developer for which the government agency's supply of the land or grant of the call option is consideration.
+125. The developer makes a supply of development services to the government agency, under the terms of a development lease arrangement, regardless of whether or not legal title in the works ever passes to the government agency.
+126. Even if the express terms of a development lease arrangement provide that ownership of the physical works undertaken on the government agency's land rests with the developer, having regard to the broad meaning of supply in section 9-10, the developer still makes a supply of development services to the government agency.
+127. The developer by performing its contractual obligations under the development lease arrangement and completing the required works allows the government to fulfil its policy and statutory objectives.
+Attribution of GST liabilities for taxable supplies arising under a development lease arrangement
+128. Where a party to a development lease arrangement accounts for GST on a non-cash basis, any GST payable or any entitlement to an input tax credit is attributable to the tax period in which:
+•
+any of the consideration is received, or
+•
+an invoice is issued,
+whichever is the earlier.
+[39]
+129. In the context of a development lease arrangement, attribution of a GST liability or a corresponding input tax credit entitlement will be required in the tax period in which:
+•
+a monetary payment is received, or
+•
+some or part of the non-monetary consideration is received, or
+•
+an invoice is issued,
+whichever is the earlier.
+Attribution of a government agency's GST liability for its taxable supply of land or the grant of a call option
+130. As discussed at paragraphs 33 to 67 of this Ruling, the consideration for a government agency's supply of land or the grant of a call option can include a non-monetary component or an 'in-kind' payment. The non-monetary consideration or the 'in-kind' payment will be the development services supplied by the developer.
+131. Where an invoice has not been issued and the only consideration provided is non-monetary consideration, for the purposes of determining the tax period to which a government agency's GST liability for a taxable supply of land (or grant of a call option) it makes under a development lease arrangement, it is necessary to ascertain the time when some or part of the non-monetary consideration (that is, the 'development services' supplied by the developer) is received.
+132. The terms of a development lease arrangement which require a developer to complete specified works on the government agency's land are different to a usual contract for the provision of services in the generally understood sense.
+133. As noted at paragraph 14 of this Ruling, the terms of a development lease arrangement ordinarily provide that all risks relating to the development works rest with the developer for the duration of the development phase. The developer completes the development works on its own account and not as an agent or builder for the government agency.
+134. A development lease arrangement provides for the transfer of the land comprising the development to the developer on satisfaction of certain conditions in relation to the development - for example, practical completion of the development.
+135. The completion of the development and any specified additional works is the relevant supply. Acquiring these things also satisfies the government agency's policy objectives and/or statutory obligations. It achieves what the government agency bargained for by entering into the development lease arrangement with the developer.
+136. On the basis of the analysis discussed at paragraphs 130 to 135 of this Ruling, it is considered that the government agency does not receive (neither in part nor in full) any of the non-monetary consideration in the form of the development services supplied by the developer until the specified conditions of the development - for example, practical completion - are satisfied.
+Invoices for supplies arising under a development lease arrangement
+137. An invoice is defined in section 195-1 to mean 'a document notifying an obligation to make a payment'.
+[41]
+A party can only be regarded as under an obligation to make a payment if '...there is a requirement for either an actual payment or, at least, a present obligation to pay a sum certain at some future date'.
+[42]
+138. In cases where the transfer of land by the government agency under a development lease arrangement is consideration for a supply of development services by the developer, the government agency has a presently existing obligation to transfer the land to the developer at a future date (for example, upon practical completion of the works by the developer), from the time of entry into the development lease arrangement.
+139. A document issued by the developer on entry into a development lease arrangement or anytime afterwards, notifying the government agency of that obligation to transfer the land at a future date (for example, upon practical completion of the work by the developer), is an invoice as defined under section 195-1.
+140. It is acknowledged that the government agency's transfer of the land to the developer is contingent on the developer completing the works and/or satisfying other requirements. However, the terms of development lease arrangements do not ordinarily provide for the developer to be otherwise compensated for the development works and there is an expectation of the parties that the development works will be completed and the government agency will be required to transfer the land to the developer. There is a contractually binding obligation upon the government agency, at the outset, to transfer the land to the developer at a future date (that is, when the development works are completed).
+[43]
+141. The practical outcomes of the view set out at paragraphs 137 to 140 of this Ruling is that if the parties to a development lease arrangement exchange invoices/tax invoices on entry into the development lease arrangement, or soon afterwards, their respective GST liabilities and corresponding input tax credit entitlements are attributable to the same tax period.
+142. The agreement entered into by the parties at the commencement of a development lease arrangement is not an invoice in cases where the development lease arrangement does not notify the developer of a presently existing obligation to the developer to undertake particular works. For example, this may be the case if the terms of the agreement do not specify the actual works that the developer is required to undertake because the actual works that the developer is required to undertake is contingent or conditional on the developer or another party obtaining relevant development approvals. In these circumstances, the agreement does not notify the developer of an obligation to 'pay a specific amount'.
+[44]
+Appendix 2 - Definitions
+143. The following terms used in this Ruling (other than development services and development works) are defined in section 195-1.
+144.
+Australian government agency
+has the meaning given by section 995-1 of the ITAA 1997. Section 995-1 of the ITAA 1997 defines an Australian government agency as:
+(a)
+the Commonwealth, a State or Territory; or
+(b)
+an authority of the Commonwealth or of a State or a Territory.
+145.
+Development services
+[45]
+when used in this Ruling, means the delivery, by the developer, of the ultimate development outcome that is contemplated by the terms of a particular development lease arrangement. For example, the practical completion of a residential apartment complex on the government agency's land.
+146. For the purposes of this Ruling, the term 'development services' does not mean supplies made under a development contract whereby a developer provides development services to a landowner progressively for the period of construction.
+146A.
+Development works,
+when used in this Ruling, refers to those development works that are required to be carried out by the developer under the development lease arrangement.
+147.
+Government related entity
+is:
+(a)
+a government entity; or
+(b)
+an entity that would be a government entity but for subparagraph (e)(i) of the definition of government entity in the
+A New Tax System (Australian Business Number) Act 1999;
+or
+(c)
+a local governing body established by or under a State law or Territory law.
+148.
+Long-term lease
+means a supply by way of lease, hire or licence (including a renewal or extension of a lease, hire or licence for at least 50 years) if:
+(a)
+at the time of the lease, hire or licence, or the renewal or extension of the lease, hire or licence, it was reasonable to expect that it would continue for at least 50 years; and
+(b)
+unless the supplier is an Australian government agency - the terms of the lease, hire or licence, or the renewal or extension of the lease, hire or licence, as they apply to the recipient are substantially the same as those under which the supplier held the premises.
+149.
+Invoice
+means a document notifying an obligation to make a payment.
+Appendix 3 - Detailed contents list
+150. The following is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Summary of the GST outcomes under this Ruling
+9
+Supplies made under a development lease arrangement
+9
+Supplies made for consideration under a development lease arrangement
+11
+Background
+13
+Common features of development lease arrangements
+14
+Ruling
+21
+Supplies for consideration
+21
+Grant of a development lease by the government agency to the developer
+23
+Example 1: short-term lease of land to the developer for annual rental
+26
+Example 2: grant of a short-term lease to the developer for an upfront lump sum payment
+30
+Undertaking works on land owned by the government agency that is to be transferred to, or retained by, the developer
+33
+Example 3: supply of freehold interest to the developer is conditional on the developer completing development works on the land
+39
+Example 4: grant of a call option to the developer is conditional on the developer completing development works on the land
+46
+Example 5: exercise of a call option by the developer is conditional on the developer undertaking development works on the land
+51
+Undertaking of works on land that is not transferred to, or retained by, the developer
+56
+Example 6: transfer of a long-term leasehold interest in the land is conditional on the developer undertaking works on the land and additional works on adjacent land
+61
+Example 7: transfer of a long-term leasehold interest in the land is conditional on the developer completing additional works on adjacent land only
+65
+Valuation of non-monetary consideration provided for supplies made under a development lease arrangement
+68
+Example 8: GST inclusive market value of development services that are consideration for a supply of a freehold interest in the land
+74
+Determining the price of taxable supplies made under a development lease arrangement when the consideration comprises both monetary and non-monetary components
+80
+Example 9: transfer of freehold interest in land for both monetary and non-monetary consideration
+84
+Attribution of GST liabilities for taxable supplies arising under a development lease arrangement
+88
+Attribution of a government agency's GST liability fo its taxable supply of land or the grant of a call option
+90
+Attribution of the developer's GST liability for its taxable supply of development services
+93
+Example 10: attribution of GST payable on the supply of land by the government agency when the required works are completed prior to the payment of any monetary consideration and the issue of an invoice
+95
+Example 11: attribution of GST payable on the supply of land by the government agency when a lump sum payment is made on execution of the agreement and no invoice is issued
+100
+Invoices for supplies arising under a development lease arrangement
+105
+Example 12: invoices issued prior to payment of monetary consideration or provision of non-monetary consideration
+109
+Date of effect
+113
+Transitional treatment of arrangements where parties were commercially before the issue of the Ruling
+115
+Transitional arrangements
+115
+When will parties be considered commercially committed to an arrangement prior to the date of issue of this Ruling?
+118
+Appendix 1 - Explanation
+119
+Supply for consideration
+119
+Supplies for consideration in the context of development lease arrangements
+122
+Attribution of GST liabilities for taxable supplies arising under a development lease arrangement
+128
+Attribution of a government agency's GST liability for its taxable supply of land or the grant of a call option
+130
+Invoices for supplies arising under a development lease arrangement
+137
+Appendix 2 - Definitions
+143
+Appendix 3 - Detailed contents list
+150
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+For the purposes of this Ruling the term 'government agency' includes both
+Australian government agencies
+and
+government related entities
+, as defined in section 195-1 of the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act) and subsection 995-1(1) of the
+Income Tax Assessment Act 1997
+(ITAA 1997), and includes local councils.
+[2]
+Terms in bold type are defined in Appendix 2 - Definitions of this Ruling.
+[3]
+Paragraph 9-5(a) of the GST Act requires a 'supply for consideration' for there to be a taxable supply.
+[4]
+The term '
+development services
+', as used in this Ruling, is defined in paragraph 145 of this Ruling.
+[4A]
+The term '
+development works
+', as used in this Ruling, is defined in paragraph 146A of this Ruling.
+[5]
+In accordance with paragraph (b) of the formula in subsection 9-75(1) of the GST Act, the value of a taxable supply includes the GST inclusive market value of any consideration that is not consideration expressed as an amount of money.
+[6]
+[Omitted.]
+[7]
+See proposition 2 in Goods and Services Tax Ruling GSTR 2006/9
+Goods and services tax: supplies.
+Generally, for every supply there is a recipient and an acquisition.
+[8]
+See proposition 11 in GSTR 2006/9. The agreement is the logical starting point when working out the entity making the supply and the recipient of the supply. See also proposition 16 in GSTR 2006/9. The total fact situation will determine the nature of a transaction, the entity that makes a supply and the recipient of the supply.
+[9]
+See proposition 6 in GSTR 2006/9. 'Supply' usually, but not necessarily, requires something to be passed from one entity to another.
+[10]
+For further explanation, see paragraphs 119 to 127 in Appendix 1 to this Ruling.
+[11]
+Paragraph 16 of Goods and Services Tax Ruling GSTR 2001/6
+Goods and services tax: non-monetary consideration.
+[12]
+In particular, paragraph 9-17(1)(a) provides that if a right or option to acquire a thing (in this case, the land) is granted, then the consideration for the supply of the thing on the exercise of the right or option is limited to any additional consideration provided either for the supply or in connection with the exercise of the right or option.
+[13]
+In these circumstances, in accordance with subsection 9-17(1), the consideration for a subsequent supply of the land upon exercise of the call option will not include Pademelon's supply of the development services. See Goods and Services Tax Determination GSTD 2014/2
+Goods and services tax: where real property is acquired following the exercise of a call option
+,
+does the call option fee form part of the consideration for the acquisition for the purposes of subsection 75-10(2) of A New Tax System (Goods and Services Tax) Act 1999?
+[14]
+See proposition 6 of GSTR 2006/9. In these circumstances, ownership of the additional works passes to the government agency.
+[15]
+The application of Division 82 is outside the scope of this Ruling. However, in general terms, Division 82 applies if the developer makes a supply of the works in return for a supply, by a government agency, of a right to develop land. The supply of a right to develop land includes, for example, approval by a government agency for such things as subdivision and rezoning of land.
+[16]
+Paragraph 9-75(1)(b). 'GST inclusive market value' is defined in section 195-1.
+[17]
+See paragraph 19 of GSTR 2001/6.
+[18]
+It is not necessary for the government agency and/or the developer to obtain a formal valuation.
+[19]
+See paragraph 155 of GSTR 2001/6 which states that where you are making a taxable supply and you are dealing with another party at arm's length, you can use a reasonable valuation method as determined between you and the other party. Also, paragraph 142 of GSTR 2001/6 provides further guidance on valuing the consideration.
+[20]
+[Omitted.]
+[21]
+See paragraph 151 of GSTR 2001/6.
+[21A]
+See, for example,
+Australian Property Institute Technical Information Paper - Valuation Procedures - Real Property
+. It states as a general principle that the valuation of multiple properties in one development, sold to one buyer, should be valued as if there was one transaction and incorporate appropriate discounts.
+[21B]
+See paragraphs 141, 142 and 154 of GSTR 2001/6.
+[22]
+See paragraph 164 of GSTR 2001/6.
+[23]
+Paragraphs 132 to 134 of GSTR 2001/6 provide advice on the apportionment of non-monetary consideration where there is a transaction involving money.
+[24]
+Section 29-5.
+[25]
+For further explanation, see paragraphs 130 to 136 of this Ruling.
+[26]
+Paragraph 29-5(1)(b).
+[27]
+Paragraph 29-5(1)(a).
+[28]
+For further information regarding when a copy of a contract can be an invoice, see paragraphs 27 and 30 of Goods and Services Tax Ruling GSTR 2000/34
+Goods and services tax: what is an invoice for the purposes of the A New Tax System (Goods and Services Tax) Act 1999
+('
+GST Act
+')?
+[29]
+Section 29-5.
+[30]
+Provided that as required under subsection 29-10(3) the developer holds a tax invoice at the time that it lodges its GST return for that tax period.
+[31]
+See paragraph 142 of this Ruling. The agreement entered into by the parties at the commencement of a development lease arrangement will not be an invoice if it does not notify the developer of a presently existing obligation to undertake particular works on the land. For example, if the agreement does not specify the actual works that the developer is required to undertake because the actual works that the developer is required to undertake is contingent on the developer or another party obtaining relevant development approvals.
+[32]
+A detailed explanation of the meaning of 'supply' and the circumstances that can give rise to a supply is set out in GSTR 2006/9.
+[33]
+See paragraph 68 of GSTR 2001/6; paragraph 33 of Goods and Services Tax Ruling GSTR 2002/3
+Goods and services tax: prizes
+; paragraph 28 of GSTR 2003/6
+Goods and services tax: transfers of enterprise assets as a result of property distributions under the Family Law Act 1975 or in similar circumstances.
+[34]
+See paragraph 72 of GSTR 2001/6; paragraph 33 of GSTR 2002/3; paragraph 28 of GSTR 2003/6.
+[35]
+[2013] FCAFC 105; (2013) 214 FCR 301; 2013 ATC 20-417; (2013) 92 ATR 629.
+[36]
+(2012) 247 CLR 286; [2012] HCA 41; (2012) 83 ATR 1 at paragraph 41.
+[37]
+Gummow, Hayne, Keifel and Bell JJ.
+[38]
+See
+Archibald Howie Pty Ltd v Commissioner of Stamp Duties
+(NSW) (1948) 77 CLR 143 at 152. See also comments made by Gleeson CJ and Callinan J in their dissenting judgment in the High Court decision
+Chief Commissioner of State Revenue (NSW) v Dick Smith Electronics Holdings Pty Ltd
+(2005) 213 ALR 230 at 235-236 and
+Commissioner of State Revenue v Lend Lease Development Pty Ltd
+[2014] HCA 51, (2014) 315 ALR 170 at paragraphs 49 to 62. See also paragraph 38 of Goods and Services Tax Ruling GSTR 2009/1
+Goods and services tax: general law partnerships and the margin scheme
+and paragraph 91 of Goods and Services Tax Ruling GSTR 2009/2
+Goods and services tax: partitioning of land.
+[39]
+Section 29-5.
+[40]
+[Omitted.]
+[41]
+See section 195-1 and paragraph 12 of GSTR 2000/34.
+[42]
+See paragraph 25 of GSTR 2000/34 and
+Dingwall v FC of T
+95 ATC 4345 at 4351.
+[43]
+Paragraph 12 of GSTR 2000/34.
+[44]
+See paragraphs 29 to 31 of GSTR 2000/34.
+[45]
+For a discussion of development services, see paragraphs 33 to 38 of this Ruling.
+Previously Issued as GSTR 2014/D5
+References
+ATO references:
+NO  1-63M9109
+ISSN: 1443-5160
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2000/34
+GSTR 2001/6
+GSTR 2002/3
+GSTR 2003/6
+GSTR 2006/9
+GSTR 2009/1
+GSTR 2009/2
+GSTD 2014/2
+GSTD 2021/1
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A 1999
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-5(a)
+ANTS(GST)A 1999 9-10
+ANTS(GST)A 1999 9-17(1)
+ANTS(GST)A 1999 9-17(1)(a)
+ANTS(GST)A 1999 9-75(1)
+ANTS(GST)A 1999 Div 19
+ANTS(GST)A 1999 Div 29
+ANTS(GST)A 1999 29-5
+ANTS(GST)A 1999 29-5(1)(a)
+ANTS(GST)A 1999 29-5(1)(b)
+ANTS(GST)A 1999 29-10(3)
+ANTS(GST)A 1999 Subdiv 38-N
+ANTS(GST)A 1999 Div 81
+ANTS(GST)A 1999 Div 82
+ANTS(GST)A 1999 195-1
+ANTS(ABN)A 1999
+ITAA 1997 995-1
+ITAA 1997 995-1(1)
+TAA 1953
+Case References:
+AP Group Ltd v Commissioner of Taxation
+[2013] FCAFC 105
+2013 ATC 20-417
+(2013) 92 ATR 629
+Archibald Howie Pty Ltd v Commissioner of Stamp Duties (NSW)
+(1948) 77 CLR 143
+[1948] 2 ALR 489
+(1948) 22 ALJR 331
+Australia Pacific LNG Pty Limited & Ors v The Treasurer, Minister for Aboriginal and Torres Strait Islander Partnerships and Minister for Sport
+[2020] QCA 15
+Chief Commissioner of State Revenue (NSW) v Dick Smith Electronics Holdings Pty Ltd
+(2005) 213 ALR 230
+Commissioner of State Revenue v Lend Lease Development Pty Ltd
+[2014] HCA 51
+(2014) 315 ALR 170
+Commissioner of Taxation v Qantas Airways Ltd
+[2012] HCA 41
+(2012) 247 CLR 286
+2012 ATC 20-352
+(2012) 83 ATR 1
+Dingwall v FC of T
+(1995) 57 FCR 274
+95 ATC 4345
+(1995) 30 ATR 498
+Northern Territory v Mr A. Griffiths (deceased) and Lorraine Jones on behalf of the Ngaliwurru and Nungali Peoples
+[2019] HCA 7
+93 ALJR 327
+364 ALR 208
+[2019] ALMD 2151
+Turner v Minister of Public Instruction
+[1956] HCA 7
+93 CLR 245
+[1956] ALR 367
+56 SR (NSW 136
+73 WN (NSW) 121
+29 ALJ 759
+GSTR 2015/2 history
+Date:
+Version:
+Change:
+3 June 2015
+Original ruling
+You are here
+2 April 2021
+Consolidated ruling
+Addendum
+Back to top

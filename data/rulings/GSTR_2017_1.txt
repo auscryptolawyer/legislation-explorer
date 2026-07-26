@@ -1,0 +1,632 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 100
+  • Div 156
+  • Division 100
+  • Division 156
+
+Cases Referenced:
+  • George v Rocket
+(1990) 170 CLR 104
+  • George v. Rockett
+(1990) 170 CLR 104
+  • Investments Commission v Healey 
+  • Investments Commission v. Healey 
+
+Topics: GST, Trusts, Partnerships, Companies, Superannuation
+
+
+
+================================================================================
+
+GSTR 2017/1 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+37 related documents
+Goods and Services Tax Ruling
+GSTR 2017/1
+Goods and services tax: making cross-border supplies to Australian consumers
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+GSTR 2017/1EC
+.
+Contents
+Para
+LEGALLY BINDING SECTION:
+Summary - what this ruling is about
+1
+Ruling
+10
+Date of effect
+104
+NOT LEGALLY BINDING SECTION:
+Appendix:
+Detailed contents list
+107
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+Summary - what this ruling is about
+Who this Ruling is relevant to
+1. This Ruling is relevant to you if you are an overseas-based supplier making supplies of services, digital products or rights to Australian consumers
+[1]
+that use or enjoy those supplies in Australia.
+[2]
+2. This Ruling applies to working out net amounts for tax periods starting on or after 1 July 2017.
+What this Ruling is about
+3. For you to be liable for GST on a taxable supply, the supply must be connected with Australia. This Ruling will assist you in determining whether you are making supplies to Australian consumers and as such making supplies that are connected with Australia under paragraph 9-25(5)(d). This is so you can work out if you need to account for GST on those supplies, and whether you need to register for GST.
+4. In some situations it may be easier to determine that the supply is GST-free instead of determining whether the supply is connected with Australia under paragraph 9-25(5)(d). If you determine that a supply is GST-free and that supply is not made through an enterprise you carry on in Australia, then there is no need to consider if that same supply is connected with Australia. For example, if an Australian resident receives a haircut from a hairdresser in Germany, that supply will be GST-free.
+5. The following diagram shows how the provision dealt with in this Ruling fits in with the other requirements for a supply to be a taxable supply.
+6. There are two aspects to consider in determining whether the person or entity you are supplying to (the recipient) is an Australian consumer:
+•
+their residency, and
+•
+their GST registration status and purpose of acquisition.
+These considerations are similar to what is commonly referred to internationally as 'customer location' and 'customer status'.
+7. This Ruling explains how you decide whether a recipient of a supply is an Australian consumer. It explains what evidence you should have, or what steps you should take to collect evidence, in establishing if the supply is not made to an Australian consumer.
+8. Even if your supply is not made to an Australian consumer (and therefore not connected with Australia under paragraph 9-25(5)(d)), you still need to consider if the supply is connected with Australia under other provisions, for example when the supply (thing) is done in Australia or the supply is made by you through an enterprise you carry on in Australia.
+[3]
+If the supply is not connected with Australia, you are not liable for GST on the supply. Supplies that are not connected with Australia do not count in determining if you are over the GST registration threshold.
+9. Please note, under the GST Act, the 'indirect tax zone' is the area that Australia's GST applies to. However, in this Ruling, the 'indirect tax zone' will be referred to as 'Australia'.
+Ruling
+Supplies to Australian consumers
+10. If you supply services, rights or digital products to an Australian consumer the supply is 'connected with Australia' under paragraph 9-25(5)(d).
+Meaning of Australian consumer
+11. Under subsection 9-25(7), to be an 'Australian consumer' of a supply, an entity must:
+•
+be an Australian resident for income tax purposes,
+[4]
+with an exception for residents of external Territories
+[5]
+(the
+'residency element
+'), and
+•
+either:
+-
+not be registered for GST, or
+-
+if the entity is registered for GST, the entity did not acquire the thing for their enterprise (solely or partly) (the
+'consumer element'
+).
+12. We explain when a supply is made to a non-resident in GSTR 2004/7.
+[6]
+Although that ruling considers the definition of non-resident for the purposes of subsection 38-190(1), we adopt an equivalent approach for the definition of Australian consumer.
+Determining if the recipient is an Australian consumer
+13. Under section 84-100, you can treat the supply as having not been made to an Australian consumer if you:
+•
+have satisfied particular evidentiary requirements, and
+•
+reasonably believe
+[7]
+that the recipient is not an Australian consumer.
+14. Your reasonable belief can be founded on a belief that:
+•
+the recipient does not satisfy the residency element (paragraphs 18 to 92 of this Ruling), or
+•
+the recipient does not satisfy the consumer element (paragraphs 93 to 103 of this Ruling).
+15. For you to satisfy the evidentiary requirements in section 84-100, you must have either:
+•
+a reasonable basis for forming a reasonable belief about whether your recipient is an Australian consumer, based on your usual business systems and processes,
+[8]
+(the
+business systems approach
+), or
+•
+have taken reasonable steps to obtain information about whether your recipient is an Australian consumer (the
+reasonable steps approach
+).
+[9]
+16. In determining if a recipient is not an Australian consumer because of the residency element, we accept that the requirements of section 84-100 are met when you:
+•
+satisfy evidentiary requirements from jurisdictions that we have listed as having a comparable residency element (see paragraphs 85 to 89 of this Ruling), or
+•
+collect sufficient evidence to show the recipient does not satisfy the residency element using automated systems (see paragraphs 90 to 92 of this Ruling).
+17. There is specific evidence that you must collect to establish a reasonable belief that the recipient does not satisfy the consumer element. You must have information or a declaration from the recipient to show that the recipient is registered for GST, and the recipient's Australian Business Number (ABN), or other prescribed information, has been disclosed to you.
+Evidentiary requirements - residency of recipient
+Residency element
+18. Under section 84-100, you need to consider various factors to work out whether your recipient satisfies the residency element.
+[10]
+This can be done either by relying on the business systems approach (paragraphs 22 to 41 of this Ruling) or reasonable steps approach (paragraphs 42 to 59 of this Ruling).
+19. The above approaches for suppliers that have automated systems are further explained at paragraphs 90 to 92 of this Ruling.
+20. You may also be able to use evidentiary approaches from comparable jurisdictions to determine whether your recipient satisfies the residency element. This is explained at paragraphs 85 to 89 of this Ruling.
+21. The residency element also needs to be considered for recipients that are not individuals, such as companies or partnerships. These recipients are Australian consumers if they are not registered for GST, or if they are registered for GST but do not make their acquisition solely or partly for the purpose of their enterprise.
+[11]
+Business systems approach
+22. In many cases, information gathered by your usual business systems and processes provides a reasonable basis for forming a reasonable belief about whether the recipient is an Australian consumer. If you have this information, you do not need to take additional steps to obtain information from your recipient, beyond what you need to make the supply or maintain the commercial relationship.
+23. Your usual business systems and processes are those systems and processes you normally use for business purposes. It does not matter if the systems and processes you normally use differ from the systems and processes typically used in your industry.
+24. Business systems and processes are not limited to automated computer systems that a recipient interacts with. It also includes a business's standard procedures used for interacting with its customers. This includes standard processes for taking orders for supplies over the phone or email.
+25. Some entities may change their usual business systems or processes, for example, moving from a phone based call centre to an online form. You should consider whether the systems and processes you use to make a supply are the ones that you normally use at the time when you receive any consideration, or when you issue an invoice before you receive any consideration. It does not matter if your systems and processes change after that time - they will still be your usual business systems and processes for the purposes of that supply.
+26. That time also generally
+[12]
+determines what tax period the GST on a taxable supply is attributed to. Therefore, in this Ruling, that time is referred to as 'the attribution time'. In a practical sense, the 'attribution time' is the time you will need to make your taxing decision for the supply.
+What is a reasonable basis for forming a reasonable belief?
+27. The evidence required to establish that you have a reasonable basis to form a reasonable belief about whether the recipient is an Australian consumer will depend on the facts of the case.
+28. It is not expected that your usual business systems and processes will ordinarily collect information relevant to every part of the residency element. You do not need to consider all aspects of the residency element to establish a reasonable basis for a reasonable belief about whether your recipient is an Australian consumer. The important factor is that the information that is collected by your usual business systems and processes should be used to support your conclusion.
+29. Examples of information that the Commissioner will accept to support a conclusion about whether the recipient satisfies the residency element include:
+•
+the recipient's billing address
+•
+the recipient's mailing address
+•
+the recipient's banking or credit card details, including the location of the bank or credit card issuer
+•
+location-related data from third party payment intermediaries
+•
+mobile phone SIM or landline country code
+•
+recipient's country selection
+•
+tracking/geolocation software
+•
+internet protocol (IP) address
+•
+place of establishment of the recipient (for non-individual recipients)
+•
+representations and warranties given by the recipient
+•
+the origin of correspondence, and
+•
+locations, such as a Wi-Fi spot, where the physical presence of the person receiving the service at that location is needed.
+30. This is not an exhaustive list of evidence that would be relevant to establishing whether a recipient satisfies the residency element.
+[13]
+31. You must consider all the information collected through your usual business systems and processes. These must, on balance, support a conclusion about whether the recipient satisfies the residency element.
+32. In the event that the information you hold about the recipient does not consistently point to one conclusion about whether the recipient satisfies the residency element, you should assess the quality and reliability of all the available information in determining whether there is a reasonable basis for a reasonable belief about whether the recipient is an Australian consumer. Further information about how to weigh up the different information is in paragraphs 74 to 84 of this Ruling.
+Example 1 - residency of an individual
+33.
+Megan purchases online security software from PC Protect, an online software provider. She pays using her German credit card and provides her German billing address. This is the only information that PC Protect's usual business systems and processes collects which is relevant to determining whether Megan satisfies the residency element.
+34.
+PC Protect's usual business systems and processes provide a reasonable basis for a reasonable belief that Megan does not satisfy the residency element. Because the information collected supports a conclusion that Megan resides in Germany, the systems support a conclusion that Megan does not satisfy the residency element. PC Protect does not need to consider other aspects of the residency element to establish a reasonable basis for a reasonable belief that Megan is not an Australian consumer.
+Example 2 - residency of an unregistered business
+35.
+SignDezign provides online business logo design services to businesses. Its online enquiry form collects standard information about its customer's business's name, current business address, industry, year established and place of establishment.
+36.
+JWW Ltd (a company that is not registered for GST) makes an enquiry to SignDezign about creating a logo for its new business. It completes the form, noting that its current business address is in Melbourne, and that it was established in Melbourne in 2016.
+37.
+SignDezign's usual business systems and processes provide a reasonable basis for a reasonable belief that JWW Ltd satisfies the residency element, because they support a conclusion that JWW Ltd satisfies the residency element.
+Example 3 - inconsistent information
+38.
+Continuing from Example 1, Alex also purchases online security software from PC Protect. When Alex signed up for her account with PC Protect, she provided her home address in Australia. However, when paying for her software, Alex pays using her German credit card.
+39.
+This is the only information that PC Protect's usual business systems and processes collects which is relevant to determining whether Alex satisfies the residency element.
+40.
+Given that the information is inconsistent about whether Alex satisfies the residency element, PC Protect assesses the quality and reliability of the information. Although Alex's account indicates that she has an Australian home address, the fact that she paid with a German credit card supports a conclusion that Alex currently resides in Germany. The credit card information is more reliable because it is contemporaneous with the attribution time.
+41.
+PC Protect's usual business systems and processes provide a reasonable basis for a reasonable belief that Alex does not satisfy the residency element. Therefore, PC Protect does not need to consider other aspects of the residency element to establish a reasonable basis for a reasonable belief that Alex is not an Australian consumer.
+Reasonable steps (to obtain information) approach
+42. You are not limited to the business systems approach when deciding whether a recipient satisfies the residency element. You may also take other reasonable steps to obtain information about whether your recipient is an Australian consumer.
+43. The requirement to take reasonable steps to obtain information about whether an entity is an Australian consumer is an objective test that will depend on the circumstances in which you make the supply to the recipient and the relationship between you and the recipient.
+[14]
+However the requirement to take reasonable steps to obtain information will not be satisfied where no steps are taken.
+Example 4 - reasonable steps not taken
+44.
+Mark purchases software from BGL Software by redeeming a face value voucher (Division 100 voucher)
+[15]
+that was gifted to him after being purchased online. BGL Software does not collect any information relevant to whether Mark satisfies the residency element. The voucher does not give any indication as to whether Mark satisfies the residency element, and BGL Software does not take any other steps that could be used to determine if Mark satisfies the residency element.
+45.
+In this example, BGL Software has not taken any steps to determine whether Mark satisfies the residency element. Therefore, BGL Software has not taken reasonable steps.
+46. The requirement in section 84-100 is not one of 'all reasonable steps.' Instead, section 84-100 requires consideration of whether the steps actually taken in totality are reasonable.
+47. Under the requirement, you may need to obtain more information about the recipient than you need to simply make the supply.
+48. The requirement to take reasonable steps to obtain information does not mean that you must always obtain the information that you have sought to obtain. You should consider, in all the circumstances, if it is reasonable to rely on the information you have received. If not, you should seek further information.
+49. There is no one factor that determines whether steps taken are or are not 'reasonable'. The following list of factors to consider is not exhaustive, but we consider them relevant:
+•
+the level of interaction you have with the recipient in making the supply or in maintaining the commercial relationship
+•
+the type of personal information that a recipient usually shares, or is usually willing to share with you in the course of making a supply or in maintaining the commercial relationship, taking into account the type of supply, the value of the supply, and the nature of the commercial relationship between you and the recipient
+•
+the difficulty and costs involved for you in taking steps to obtain information about whether an entity is an Australian consumer of a supply (including both direct and indirect costs), and
+•
+the expected reliability of the information you use to determine whether an entity is an Australian consumer.
+50. The level of interaction you have with the recipient represents the 'minimum' steps you actually take to find out information about them. Knowing this helps you to assess the difficulty and expense of taking additional steps.
+51. The type of personal information that a recipient usually shares, or is usually willing to share, with certain types of suppliers is relevant again for setting context. This helps to define the limits around what information you can reasonably ask a recipient to provide. A recipient will typically share more personal information with you where there is an interactive commercial relationship (as opposed to an automated interaction), or where the supply is of a high value. A recipient will also typically share, or be willing to share, more personal information with a supplier that acts in a professional advisory relationship such as a lawyer or financial adviser.
+52. In considering the costs you might incur to find out information, you can consider direct and indirect costs as follows:
+•
+actual costs you incur to take steps to obtain the relevant information, and
+•
+costs attributable to lost sales that occur, or are likely to occur, as a result of asking for additional information.
+53. It is prudent for you to consider how the expected reliability of information sought will allow you to demonstrate a 'reasonable belief' as to whether the recipient is an Australian consumer, discussed further below.
+Example 5 - reasonable steps
+54.
+Steven uses WebEA, an online personal assistant service based in the United Kingdom (UK) to assist him with his personal administration. Steven uses the service regularly, but the value of each supply made to Steven is modest.
+55.
+Steven is a former senior Australian public servant and his membership of a public sector superannuation fund means he is an Australian resident for taxation purposes, and satisfies the residency element of the Australian consumer definition in subsection 9-25(7), even though he resides in the UK.
+56.
+When Steven signs up to the service, a WebEA representative telephones Steven to ask for his country of residence (to determine his time zone), his credit card number, billing address, and what types of administration services he is likely to need. However, WebEA representatives can use different methods or procedures to interact with their clients.
+57.
+Steven's details are used for each supply of online personal assistant services that WebEA makes to him, although on occasion, WebEA requests further personal details depending on the administrative service being performed.
+58.
+By asking Steven which country he resides in and additional information that corroborates that answer, WebEA has taken reasonable steps to obtain information about whether Steven satisfies the residency element. It is relevant that:
+•
+WebEA is not providing professional advisory services to Steven so it would be unusual for them to request further information to determine Steven's income tax residency status
+•
+the value of the supplies made is modest, and
+•
+it is reasonable to expect that many customers would choose to find an alternative provider rather than provide further information about their income tax residency.
+59.
+Therefore, WebEA does not need to ask any more information about Steven's income tax residency status to have taken reasonable steps.
+[16]
+Reasonable belief that the recipient is not an Australian consumer - residency element
+60. Regardless of whether you rely on the business systems or the reasonable steps approach, you must also reasonably believe that the recipient is
+not
+an
+Australian consumer
+for section 84-100 to apply.
+[17]
+61. The fact that you may only have access to limited information does not make your belief unreasonable.
+62. Where you make the tax decision through a wholly automated system, we consider you can still hold a reasonable belief, as long as your belief is based on a system that takes into account all relevant information you have on hand about the recipient.
+[18]
+63. In forming your belief about the residency element, you should consider all the relevant information that you have on hand about the recipient at the attribution time. This includes any relevant information that you hold about the recipient, for example, any unsolicited information given to you by the recipient.
+64. Where you hold sufficient information at the attribution time to form a reasonable belief about the residency element, you do not need to revise your view if you receive further information after the attribution time. However, the further information may be relevant for any future supplies to your recipient.
+65. For example, where a supply is made for a period or on a progressive basis and consideration is to be provided on a periodic or progressive basis, each progressive or periodic component is attributed as a separate supply.
+[19]
+In these situations, each separate supply has its own 'attribution time' and therefore there is a separate taxing decision for each separate supply.
+[20]
+Example 6 - supplier becomes aware of additional information after transaction for the supply is finalised
+66.
+ABC sells software to SDF.
+[21]
+At the attribution time for the supply of the software to SDF, ABC holds SDF's credit card details and IP address which both indicate that SDF has its business address in the USA. Those details support a conclusion that SDF is not an Australian consumer, and ABC reasonably believes that SDF is not an Australian consumer.
+67.
+Two months after the sale, SDF is having problems with the software. It contacts one of ABC's employees for troubleshooting assistance. In the course of that troubleshooting advice, SDF provides an Australian phone number, a work email address ending in '.au', and advises ABC to only call during Australian business hours.
+68.
+The information ABC receives from SDF as part of the troubleshooting service supports a conclusion that SDF satisfies the residency element. However, ABC has still satisfied the requirement in section 84-100 for the supply of software given they held a reasonable belief at the attribution time that SDF was not an Australian consumer.
+Example 7 - supplier becomes aware of additional information after initial transaction for a progressive or periodic supply is finalised
+69.
+ABC sells a two-year licence to use various software programs and charges customers on a monthly basis. Jane is an Australian resident based in Sydney who travels regularly to the United Kingdom where she previously resided. Jane is in London on holiday when she purchases a month-to-month licence to use a particular software program from ABC.
+70.
+Jane uses her English credit card to sign up with ABC. This supports a conclusion that Jane is not an Australian consumer.
+71.
+After Jane returns to Australia, she changes her billing details with ABC and starts making the monthly payments with her Australian credit card.
+72.
+As the supply of the licence and the payments are on a periodic or progressive basis, each month of the licence is attributed separately. ABC, therefore, needs to consider whether Jane is an Australian consumer each month.
+73.
+Once Jane starts paying with her Australian credit card, the information held by ABC at subsequent attribution times supports a conclusion that Jane is an Australian consumer. ABC cannot now hold a reasonable belief that Jane is not an Australian consumer for any future supplies.
+Inconsistent information
+74. In the event that the information you hold about the recipient does not consistently point to one conclusion about whether the recipient satisfies the residency element, you should weigh up all the available information in determining whether you 'reasonably believe the other entity is not an Australian consumer'.
+75. In weighing up all the available information, consider:
+•
+the expected reliability of the information, including whether:
+-
+the information is necessary for the commercial transaction itself, or you have only requested it for tax or other compliance purposes
+-
+the recipient has an incentive to provide conflicting or false information and the ease with which such information could be provided, and
+•
+whether the majority of the information points towards one conclusion over another.
+76. Information that is necessary for the commercial transaction to proceed (for example, compulsory fields in web-based forms) will generally be more reliable than information that is only necessary for tax or other compliance purposes. If the recipient has an incentive to provide incorrect information and it is relatively straightforward to provide incorrect information, the information may be less reliable. Incentives which are either related or unrelated to tax need to be considered, such as whether a recipient has an incentive to provide false information to access a wider range of supplies which are limited on a geographic basis.
+Example 8 - Customer provides false residency declaration
+77.
+Donna is an Australian resident for income tax purposes who resides in South Australia. She is not registered for GST. She often shops at KeyOrder, an online store which sells goods and digital products to customers around the world. When she signed up for her account with KeyOrder, Donna provided her Australian mailing address.
+78.
+Donna purchases an app from KeyOrder. During checkout, she checks a box to indicate that she is an Australian resident for income tax purposes. She notices the price goes up by 10 per cent when she does this, so she unselects the box and continues. She pays using the payment intermediary she always uses when shopping at KeyOrder. The payment intermediary does not pass on any information to KeyOrder which would indicate whether Donna satisfies the residency element.
+79.
+KeyOrder does not treat Donna as an Australian consumer for the supply of the app, and does not charge GST. Section 84-100 does not apply to KeyOrder. Although Donna incorrectly declared that she was not an Australian resident for income tax purposes, KeyOrder should have used other account information they held about her, such as her Australian mailing address, to determine whether she satisfied the residency element.
+80.
+Even though information about Donna's income tax residency is closely correlated to the residency element, KeyOrder should have considered this information less reliable than the other information Donna has previously provided when signing up for her account. The information about Donna's income tax residency status is less reliable because it is only required for KeyOrder's compliance purposes, and Donna has an incentive to incorrectly declare her residency status to avoid the additional GST cost.
+81.
+Because Donna is an Australian consumer under subsection 9-25(7) and section 84-100 does not apply, the supply by KeyOrder to Donna is connected with Australia under paragraph 9-25(5)(d). If the other requirements in section 9-5 are met, KeyOrder will be liable for GST on the supply.
+[22]
+Example 9 - Customer relocates to another country
+82.
+Katherine is an Australian resident for income tax purposes who resides in Brisbane, Australia. Katherine has moved permanently back to Australia from the UK where she had lived and worked for a number of years. While living in the UK, Katherine subscribed to a website OneRun where she views and downloads clothing patterns. When she signed up for her account she used her UK address and credit card. As Katherine still travels to the UK for holidays, she has maintained her UK bank accounts and still pays for her subscription from that account.
+83.
+When Katherine accesses OneRun after her move back to Australia, OneRun identifies Katherine's current location (Brisbane) which it uses as one factor to help predict patterns that Katherine will be most interested in, based on the season.
+84.
+In supplying clothing patterns, OneRun does not treat Katherine as an Australian consumer. Although her location is now consistently in Australia, OneRun relies on Katherine's account address and credit card which provide a reasonable basis for forming a reasonable belief that Katherine is not an Australian consumer. OneRun have considered all the information collected in their usual business systems and processes (credit card, address, and current location), assessed its reliability, and reached the conclusion that the totality of the information supports their reasonable belief that Katherine is not an Australian consumer. Even though Katherine is an Australian consumer, OneRun has correctly determined that Katherine is not an Australian consumer under section 84-100.
+Acceptable approaches from other comparable jurisdictions - residency element
+85. Subject to paragraphs 86 to 89 of this Ruling, we accept that you have satisfied the evidentiary and reasonable belief requirements for determining that your recipient is not an Australian consumer under section 84-100 where you have:
+•
+set up your systems to comply with an overseas jurisdiction's comparable evidentiary requirements for determining residency, usual residence, permanent address or similar term for VAT or GST purposes, and
+•
+your systems indicate that your recipient's residency, usual residence, permanent address (or similar term) is outside Australia.
+86. We consider the following jurisdictions have comparable evidentiary requirements for determining residency, usual residence, permanent address or similar term, in relation to the supplies in which their rules apply:
+•
+countries within the European Union
+•
+New Zealand, and
+•
+Norway.
+87. The evidentiary requirements for determining residency, usual residence, permanent address or similar term must be publicly available.
+88. For countries within the European Union and Norway, these comparable evidentiary requirements currently apply only to certain types of supplies including digital supplies. If you rely on the comparable evidentiary requirements of a listed jurisdiction, they apply only to the same types of supplies as in that jurisdiction.
+89. The Commissioner may add other jurisdictions to this list upon being satisfied that they have comparable evidentiary requirements.
+Automated systems approach for determining residency element
+90. Where you make supplies using fully automated systems, we accept that there is minimal scope for you to collect additional information beyond those systems that might alter your belief about whether your recipient is an Australian consumer because of the residency element.
+91. We will accept that your supplies are made to recipients that are not Australian consumers under section 84-100 if:
+•
+the supplies do not ordinarily
+[23]
+involve any human interaction by you (or on your behalf) with the recipient in real time in entering the transaction for the supply, and
+•
+your usual business systems provide at least two pieces of non-contradictory evidence that support the conclusion that the recipient has their residency, usual residence, permanent address or similar term at a particular place or jurisdiction outside Australia.
+92. The two pieces of non-contradictory evidence may include:
+•
+the recipient's billing address is an address outside of Australia
+•
+the recipient's mailing address is an address outside of Australia
+•
+the recipient's banking or credit card details, including the location of the bank or credit card issuer being outside of Australia
+•
+the recipient's web-based country selection is for a country other than Australia
+•
+the recipient's location detected through tracking/ geolocation software that shows the recipient is outside of Australia
+•
+the IP address of the device used to make the purchase indicates that the recipient is outside of Australia
+•
+the recipient provides a mobile phone or landline country code that is for a country other than Australia, and
+•
+other commercially relevant information which is relevant to establishing a person's residency.
+Reasonable belief that the recipient is not an Australian consumer - consumer element
+93. Under subsection 9-25(7) an entity that is registered for GST is not an Australian consumer, unless the entity is making the acquisition for a purpose other than the enterprise it carries on.
+[24]
+Evidentiary requirements
+94. Subsection 84-100(3) specifies that if you believe that the recipient is not an Australian consumer because the recipient is registered for GST, your belief is only reasonable if:
+•
+the recipient's ABN (or other prescribed information) has been disclosed to you, and
+•
+the recipient has provided a declaration or other information which indicates that they are registered for GST.
+95. This test sets the standard for the information you must obtain to form a reasonable belief that your recipient does not satisfy the 'consumer element'. However, it does not require information about whether the recipient's acquisition of the thing supplied is for the purpose of an enterprise the recipient carries on.
+96. An ABN alone is not evidence of whether a recipient is registered for GST. A recipient may have an ABN without being registered for GST.
+[25]
+ABN
+97. Section 84-100 requires the recipient's ABN or other prescribed information to be disclosed to you for the section to apply. It does not matter who discloses the ABN to you. For example, the Australian Business Registrar publishes ABN details publicly on the Australian Business Register, which amounts to a disclosure to you.
+98. We expect that you would take reasonable steps to ensure that the ABNs disclosed to you are likely to be valid and belong to the recipient.
+99. The reasonable steps will vary depending on your commercial arrangements, business practices, the cost of taking steps, and the size and scale of your operations. They may include:
+•
+using ABN Lookup where the Australian Business Registrar makes information publicly available for searching one record at a time
+[26]
+•
+ensuring the ABN provided is in the correct format
+[27]
+•
+using the ABN Lookup tool which allows third parties to integrate ABN Lookup validation and data into their own applications. This service can be used to carry out bulk searches,
+[28]
+and
+•
+ensuring that there are no duplicate ABN entries in your system for different recipients.
+Example 10 - High volume low value supplies
+100.
+KeyOrder, from example 8, sells over 100,000 apps to Australian residents per month that usually cost less than $5. As KeyOrder makes a large number of supplies for a small value, the reasonable steps KeyOrder takes to validate any disclosed ABN includes ensuring the ABN is in the correct format and ceasing to accept an ABN if it is provided by a large number of different customers.
+Declaration about GST registration status
+101. In addition to obtaining the recipient's ABN, to rely on section 84-100 you must also receive a declaration or other information from the recipient that indicates that they are registered for GST. This information must be provided by the recipient. You can facilitate this by asking recipients to confirm that they are registered for GST through your normal business systems or processes.
+Where ABN and declaration not collected
+102. If you subjectively believe that your recipient is not an Australian consumer because they do not satisfy the consumer element, but you have not collected the recipient's ABN and declaration as required in subsection 84-100(3), you do not have a reasonable belief for the purposes of section 84-100. This means section 84-100 does not apply, and you will instead need to determine if your supply is connected with Australia under paragraph 9-25(5)(d), considering the definition of Australian consumer in subsection 9-25(7).
+Relevant penalty provision for consumers that misrepresent status
+103. The Commissioner may also impose a penalty on recipients that misrepresent their status as an Australian consumer.
+[29]
+Date of effect
+104. This Ruling applies to arrangements begun to be carried out from 1 July 2016.
+105. Although the commencement date for subsection 9-25(7) and section 84-100 is 1 July 2016, those sections only apply to working out net amounts for tax periods starting on or after 1 July 2017.
+[30]
+106. Also, special transitional rules apply for periodic or progressive supplies that are attributable to tax periods commencing before 1 July 2017.
+[31]
+Supplies made for a period or progressively over a period of time are treated as being supplied continuously over that period. To the extent the supply is taken to be made after 1 July 2017, the tax payable on that portion of the supply is included in the net amount for the first tax period commencing after 1 July 2017.
+Commissioner of Taxation
+7 June 2017
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+107. The following is a detailed contents list for this Ruling:
+Paragraph
+Summary - what this ruling is about
+1
+Who this Ruling is relevant to
+1
+What this Ruling is about
+3
+Ruling
+10
+Supplies to Australian consumers
+10
+Meaning of Australian consumer
+11
+Determining if the recipient is an Australian consumer
+13
+Evidentiary requirements - residency of recipient
+18
+Residency element
+18
+Business systems approach
+22
+What is a reasonable basis for forming a reasonable belief?
+27
+Example 1 - residency of an individual
+33
+Example 2 - residency of an unregistered business
+35
+Example 3 - inconsistent information
+38
+Reasonable steps (to obtain information) approach
+42
+Example 4 - reasonable steps not taken
+44
+Example 5 - reasonable steps
+54
+Reasonable belief that the recipient is not an Australian consumer - residency element
+60
+Example 6 - supplier becomes aware of additional information after transaction for the supply is finalised
+66
+Example 7 - supplier becomes aware of additional information after initial transaction for a progressive or periodic supply is finalised
+69
+Inconsistent information
+74
+Example 8 - Customer provides false residency declaration
+77
+Example 9 - Customer relocates to another country
+82
+Acceptable approaches from other comparable jurisdictions - residency element
+85
+Automated systems approach for determining residency element
+90
+Reasonable belief that the recipient is not an Australian consumer - consumer element
+93
+Evidentiary requirements
+94
+ABN
+97
+Example 10 - High volume low value supplies
+100
+Declaration about GST registration status
+101
+Where ABN and declaration not collected
+102
+Relevant penalty provision for consumers that misrepresent status
+103
+Date of effect
+104
+Appendix - Detailed contents list
+107
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+Paragraph 9-25(5)(d) of
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act)). All legislative references in this Ruling are to the GST Act unless otherwise specified.
+[2]
+This Ruling does not consider supplies that are GST-free under item 3 of the table in subsection 38-190(1). Advice on when supplies are used or enjoyed in Australia is contained in Goods and Services Tax Ruling GSTR 2007/2.
+[3]
+Law Companion Guideline LCG 2016/1
+GST and carrying on an enterprise in the indirect tax zone (Australia).
+[4]
+Under section 6 of the
+Income Tax Assessment Act 1936.
+[5]
+An entity is not an Australian consumer if the entity is an Australian resident solely because Australia includes the external Territories. Paragraph 9-25(7)(a).
+[6]
+GSTR 2004/7 deals with the residency status of entities including partnerships and trusts.
+[7]
+Paragraphs 84-100(1)(b) and (2)(b).
+[8]
+Paragraph 84-100(2)(a).
+[9]
+Paragraph 84-100(1)(a).
+[10]
+Paragraph 9-25(7)(a).
+[11]
+Paragraph 9-25(7)(b).
+[12]
+However, under Division 156, if a taxable supply is made for a period or on a progressive basis and the consideration is provided on a periodic or progressive basis, the GST payable is attributed as if each periodic or progressive component of the supply were a separate supply. See Example 7 of this Ruling for an explanation.
+[13]
+We accept the examples of evidence in this list as relevant in the context of section 84-100. Most of these examples are not relevant more generally for income tax residency.
+[14]
+Australian Securities and Investments Commission v Healey and Others
+[2011] FCA 717 at [143].
+[15]
+Under Division 100, the attribution time is on redemption for vouchers that satisfy section 100-5. Broadly, these vouchers are ones that entitle the holder to supplies up to a stated monetary value.
+[16]
+Even if Steven was an Australian consumer because section 84-100 does not apply, the supply might be GST-free under item 3 in subsection 38-190(1). See GSTR 2007/2.
+[17]
+George v Rocket
+(1990) 170 CLR 104,
+McKinnon v Secretary, Department of Treasury
+[2006] 228 CLR 423.
+[18]
+Paragraph 1.61 of the Explanatory Memorandum to the Tax and Superannuation Laws Amendment (2016 Measures No. 1) Bill 2016.
+[19]
+Division 156.
+[20]
+Section 156-15.This is similar to the approach taken for attributing GST on taxable supplies under Division 156 for supplies that could be GST-free under section 38-190. See paragraph 518 in GSTR 2007/2.
+[21]
+This example does not consider whether SDF is not an Australian consumer based on the 'consumer element'. Business entities that are unregistered for GST will satisfy the 'consumer element' - see paragraphs 93 to 103 of this Ruling.
+[22]
+The Commissioner may impose a penalty on a recipient that misrepresents their status as an Australian consumer: paragraph 284-75(4)(b) in Schedule 1 to the
+Taxation Administration Act 1953.
+[23]
+Supplies that involve limited human interaction can still use this approach, such as assisting a recipient through the standard automated process.
+[24]
+Other than an individual it would be unusual for a registered entity to make an acquisition for a purpose other than the enterprise carried on by it.
+[25]
+Practice Statement Law Administration PS LA 2011/9
+The registration of entities in the ABR.
+[26]
+http://abr.business.gov.au
+[27]
+http://softwaredevelopers.ato.gov.au/ABNformat
+[28]
+http://abr.business.gov.au/UserGuideAbnLookupTool.aspx
+[29]
+Paragraph 284-75(4)(b) in Schedule 1 to the
+Taxation Administration Act 1953.
+[30]
+Item 38 of Schedule 1 to the
+Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 2016.
+[31]
+Item 39 of Schedule 1 to the
+Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 2016.
+GSTR 2016/D1
+References
+ATO references:
+NO  1-A2IMW1P
+ISSN: 2205-6157
+Related Rulings/Determinations:
+GSTR 2004/7
+GSTR 2007/2
+LCG 2016/1
+TR 2006/10
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A 1999
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-25(5)(d)
+ANTS(GST)A 1999 9-25(7)
+ANTS(GST)A 1999 9-25(7)(a)
+ANTS(GST)A 1999 9-25(7)(b)
+ANTS(GST)A 1999 38-190
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 84-100
+ANTS(GST)A 1999 84-100(1)(a)
+ANTS(GST)A 1999 84-100(1)(b)
+ANTS(GST)A 1999 84-100(2)(a)
+ANTS(GST)A 1999 84-100(2)(b)
+ANTS(GST)A 1999 84-100(3)
+ANTS(GST)A 1999 Div 100
+ANTS(GST)A 1999 100-5
+ANTS(GST)A 1999 Div 156
+ANTS(GST)A 1999 156-15
+ITAA 1936
+ITAA 1936 6
+TAA 1953
+TAA 1953 Sch 1 284-75(4)(b)
+Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 2016. Item 38 of Sch 1
+Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 2016 Item 39 of Sch 1
+Case References:
+Australian Securities and Investments Commission v. Healey and Others*
+[2011] FCA 717
+(2011) 278 ALR 618
+(2011) 83 ACSR 484
+[2011] ALMD 4492
+[2011] ALMD 4493
+(2011) 196 FCR 291
+George v. Rockett
+(1990) 170 CLR 104
+(1990) 64 ALJR 384
+(1990) 48 A Crim R 246
+(1990) 93 ALR 483
+[1990] HCA 26
+McKinnon v. Secretary, Department of Treasury
+[2006] HCA 45
+(2006) 80 ALJR 1549
+(2006) 91 ALD 516
+(2006) 63 ATR 409
+(2006) 43 AAR 151
+[2007] ALMD 2793
+(2006) 229 ALR 187
+(2006) 228 CLR 423
+Other References:
+Explanatory Memorandum
+to Tax and Superannuation Laws Amendment (2016 Measures No. 1) Bill 2016, [1.61].
+PS LA 2011/9
+Back to top

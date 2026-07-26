@@ -1,0 +1,1520 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 129
+  • Div 132
+  • Div 138
+  • Div 358
+  • Div 51
+  • Div 75
+  • Division 358
+  • Division 51
+  • Division 75
+  • Division 132
+
+Cases Referenced:
+  • Anor v. Chief Commissioner 
+  • Anor v. Coles Supermarkets Australia Pty Ltd 
+  • Archibald Howie Pty Ltd v. Commissioner 
+  • Bains v. Minist
+  • Bolton v. Puller
+(1796)
+  • Brady King Pty Ltd v. Commissioner 
+  • Croghan v. Grosvenor
+(1991) 57 SASR 545
+  • In
+Re Navakumar v. Commissioner 
+  • In
+Tenure Pty Ltd v. Costala Pty Ltd 
+  • Nullagine Investments Pty Ltd v. Western Australian Club Inc
+(1993) 177 CLR 635
+  • Re Hornsby Shire Council v. Commissioner 
+  • Re Navakumar v. Commissioner 
+  • Schnytzer v. Wielunski
+
+  • See
+Archibald Howie Pty Ltd v. Commissioner 
+  • See
+Nullagine Investments Pty Ltd v. Western Australian Club Inc
+(1993) 177 CLR 635
+
+Topics: CGT, GST, Trusts, Partnerships, Companies
+
+
+
+================================================================================
+
+GSTR 2009/2 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+93 related documents
+Goods and Services Tax Ruling
+GSTR 2009/2
+Goods and services tax: partitioning of land
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+GSTR 2009/2EC
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+6
+Background
+11
+Legislative context
+34
+Ruling with Explanations
+46
+Detailed contents list
+185
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 105 60 of Schedule 1 to the
+Taxation Administration Act 1953.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[
+Note:
+This is a consolidated version of this document.  Refer to the Tax Office Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling considers the goods and services tax (GST) consequences of the partitioning of
+real property
+among joint tenants
+[1]
+or tenants in common
+[2]
+(co-owners).
+2. In particular, this Ruling explains:
+•
+what a partition is;
+•
+whether co-owners of land make a supply of that land under a partition by agreement and if it is in the course or furtherance of an enterprise;
+•
+whether co-owners of land make a supply of land under a court ordered partition;
+•
+if a partition results in a supply, whether the supply is made for consideration;
+•
+if a partition results in the making of a taxable supply of land, whether the margin scheme can apply to the taxable supply;
+•
+a partition of land by a general law partnership; and
+•
+a partition of land under a joint venture.
+3. This Ruling does not consider:
+•
+if consolidations of title
+[3]
+result in land being held jointly or in severalty;
+[4]
+•
+exchanges of land other than in the context of a partition;
+•
+a transfer of an interest in land by a co-owner to other parties other than in the context of a partition;
+•
+a transfer of an interest in land by trustees for partition appointed by a court to co-owners pursuant to a court ordered partition;
+•
+the partition of property other than land or stratum units; or
+•
+a partition of land by a tax law partnership.
+4. This Ruling also does not affect the application of Goods and Services Tax Ruling GSTR 2003/6 Goods and services tax:  transfers of enterprise assets as a result of property distributions under the
+Family Law Act 1975
+or in similar circumstances, to situations that fall within the scope of that Ruling.
+5. Unless otherwise stated, all legislative references in this Ruling are to the
+A New Tax System (Goods and Services Tax) Act 1999
+(the GST Act).
+Date of effect
+6. This ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of taxation ruling TR 2006/10).
+6A. Changes made to this Ruling by Addenda that issued on 3 March 2010, 4 September 2013 and 20 December 2017 have been incorporated into this version of the Ruling.
+7. Since the commencement of the GST Act there have been amendments made to Division 75. The legislative amendments contained in
+Tax Laws Amendment (2005 Measures No. 2) Act 2005
+(2005 Amendment Act) apply to supplies made on or after 17 March 2005, except for the amendments to section 75-5. The amendments to section 75-5 apply to supplies on or after 29 June 2005
+[5]
+that are:
+(a)
+made under contracts entered into on or after 29 June 2005; and
+(b)
+are not made pursuant to rights or options granted before 29 June 2005.
+8. The legislative amendments to Division 75 contained in
+Tax Laws Amendment (2008 Measures No. 5) Act 2008
+(2008 Amendment Act) apply to supplies of real property where the real property was acquired on or after 9 December 2008 and was not acquired:
+(a)
+under a written agreement entered into before 9 December 2008; or
+(b)
+pursuant to a right or option granted before 9 December 2008;
+that specifies in writing the consideration, or a way of working out the consideration, for the supply.
+9. [Omitted]
+10. [Omitted]
+Background
+11. In this Ruling, unless otherwise stated:
+•
+a reference to a taxable supply means that all the requirements of section 9-5 are satisfied;
+•
+a reference to a partnership is a reference to a general law partnership that is either registered or required to be registered for GST;
+•
+a reference to a GST joint venture is a reference to a joint venture under Division 51;
+•
+a reference to land includes stratum units; and
+•
+a reference to an interest in land is a reference to the legal and beneficial interest that an owner or co-owner has in the land.
+What is a Partition?
+12. It is common for real property to be held by more than one entity as either joint tenants or tenants in common whether at law or in equity (co-owners). Circumstances may arise between these entities resulting in the termination of the co-ownership by way of the partition of the real property between them. The circumstances may include a dispute between the co-owners, or the conclusion of a venture between two or more entities to develop, subdivide and share the products of the subdivision.
+13. The term 'partition' is not used or defined in the GST Act. The concept, however, is relevant to the scope of this Ruling. It is defined for the purpose of this Ruling by reference to its ordinary and property law meanings.
+14. The
+Macquarie Dictionary
+provides the following relevant definition:
+[6]
+...
+8.
+Law
+:
+(a)
+a division of property among joint owners or tenants in common, or a sale of such property followed by a division of the proceeds
+(b)
+a division of real property held in co-ownership. ...
+15. The term is also defined at paragraph 1501 of the
+Australian Encyclopaedia of Forms and Precedents
+[7]
+, which states:
+Partition is one of a variety of means of determining the co-ownership of property. It is an equitable remedy which terminates such co-ownership by effecting a physical division of the property owned by the co-owners and conferring separate estates in fee simple to each co-owner in accordance with the respective values of each party's new parcel.
+16. Some State and Territory laws define partition for the purposes of the application of stamp duty laws.
+[8]
+For example, subsection 30(1) of the
+Duties Act 1997
+(NSW) states:
+What is a partition? For the purposes of this section, a partition occurs when dutiable property comprised of land in New South Wales that is held by persons jointly (as joint tenants or tenants in common) is transferred or agreed to be transferred to one or more of those persons.
+17. The term partition, in the context of the law of property, was considered by Young CJ in
+Comptroller of Stamps (Vic) v. Christian & Anor
+.
+[9]
+He said:
+In Vol. 21 of the first edition of
+Halsbury's Laws of England
+the following passage being para. 1512 appears at p.810:
+The legal term 'Partition' (a) is applied to the division of lands, tenements and hereditaments belonging to co-owners (b) and the allotment among them of the parts, (c) so as to put an end to community of ownership between some or all of them... .'
+[10]
+18. For the purposes of this Ruling, the term 'partition', therefore, refers to either:
+•
+the division of land and the transfer of the divided parts between the co-owners; or
+•
+if land is already divided and held by the co-owners, the transfer of the divided parts between the co-owners,
+so that one or more co-owners become the owner in severalty of a specifically ascertained part(s) of the land.
+Partition - how effected
+19. A partition of land may be effected by either an agreement between the co-owners (partition by agreement) or as a result of a court order (court ordered partition).
+[11]
+In the case of a court ordered partition, trustees may be appointed to hold the property on trust pending resolution of the dispute between the co-owners in relation to the real property.
+Partition by agreement
+20. Paragraph 1501 of the
+Australian Encyclopaedia of Forms and Precedents
+states that a:
+Partition may arise by agreement, where all co-owners agree to [the] division of the physical property into separate parts to be taken by each.
+21. Under a partition by agreement, co-owned property may be divided and each co-owner contemporaneously transfers or conveys their respective interest or share in the part of the land being taken by the other. If land is already physically divided, the partition will involve the contemporaneous transfer or conveyance of the co-owner's interest in the land to be taken by the other co-owners.
+Example 1 - Partition of land by tenants in common in equal shares
+22.
+Amy and Bert own Greyacre as tenants in common in equal shares. Amy and Bert agree to subdivide Greyacre to create Blackacre and Whiteacre (each lot of equal value). If Amy takes Whiteacre and Bert takes Blackacre, the partition agreement is effected by
+:
+•
+Amy transferring her undivided interest in Blackacre to Bert, and contemporaneously
+,
+•
+Bert transferring his undivided interest in Whiteacre to Amy
+.
+23.
+The effect of the partition is that where once Amy and Bert each had a 50% undivided interest in Greyacre (and following the subdivision - in both Blackacre and Whiteacre), Amy now has a 100% interest (or sole ownership) in Whiteacre and Bert has a 100% interest (or sole ownership) in Blackacre
+.
+Example 2 - Partition of land by tenants in common in unequal shares
+24.
+Christine and David own Greenacre as tenants in common in unequal shares. Christine has three undivided one-fourth shares and David has one undivided one-fourth share. Christine and David agree to subdivide Greenacre into two new lots - Blueacre having a value of $100,000 and Yellowacre having a value of $300,000. If Christine takes Yellowacre and David takes Blueacre the partition agreement is effected by
+:
+•
+Christine transferring her three undivided one-fourth shares in Blueacre to David, and contemporaneously
+,
+•
+David transferring his one undivided one-fourth share in Yellowacre to Christine
+.
+25.
+The effect of the partition is that where once Christine and David each had an unequal interest in Greenacre (and following the subdivision - in both Blueacre and Yellowacre), Christine now has a 100% interest (or sole ownership) in Yellowacre and David has a 100% interest (or sole ownership) in Blueacre
+.
+Court ordered partitions
+26. Paragraph 1501 of the
+Australian Encyclopaedia of Forms and Precedents
+[12]
+states that:
+Where agreement between co-owners has not proved possible, a partition may be sought as a remedy. Brennan J (as he then was) offers that the purpose of partition under the Acts is 'to provide a statutory mechanism for terminating the co-ownership of land when the co-owners fail themselves to agree on the manner in which the co-ownership shall be terminated.'
+[13]
+This may arise because one owner desires to convert that owner's interest into cash, or because of some other disagreement between co-owners about the management of the property.
+27. Following an application, under the partition laws of each State and Territory, a court may make an order for partition or sale.
+[14]
+28. In making an order for partition, a court may either order the co-owners to transfer their respective interests to one another or appoint trustees to hold the property on statutory trust for partition or sale.
+[15]
+In the latter, the court may order that the property vest in the trustees. In this case, the property passes to the trustees in the capacity as trustees of the trust.
+[16]
+29. If trustees are appointed, following the making of an order by the court, the trustees may be required (with the consent of any encumbrancer) to:
+•
+subdivide the property and transfer the divided parts to the co-owners
+•
+sell the property and distribute the net proceeds to the co-owners, or
+•
+employ a combination of the above,
+proportionate to the respective interests held by each of the co-owners in the land prior to partition or sale.
+[17]
+Owelty
+30. After partition, the proportions of land received by each co-owner may not correspond with the entitlements or interests in the land of the co-owners prior to its division. Even if the portions received by the co-owners are equal in size they may not be precisely equal in value. In these cases, the co-owner(s) in receipt of the greater portion of land or with the greater value may pay compensation (usually a sum of money, called 'owelty' or 'equality' money) to the other co-owner(s) to take account of any differences in the value of the portions of the land they receive.
+[18]
+31. Alternatively, under a partition, one or more co-owners may not take part of the land in which they held an interest prior to its division. In these cases, each co-owner receiving a part of the land may pay monetary consideration ('owelty' money) to the other co-owner(s) for giving up their interests in the land without receiving an interest in any other land in return.
+Example 3 - Partition by agreement with one co-owner not taking a part of the land
+32.
+Angie, Joanne and Nicole own Purpleacre as tenants in common in equal shares. They agree to subdivide Purpleacre to create Redacre and Blueacre (each lot of equal value). Under the partition Angie is to take Redacre, Nicole is to take Blueacre and Joanne is to be paid money for giving up her interests in the two lots. In this case the partition agreement is effected by
+:
+•
+Angie transferring her undivided interest in Blueacre to Nicole and paying money to Joanne which is equal to the value of Joanne's interest in Redacre; and contemporaneously
+;
+•
+Nicole transferring her undivided interest in Redacre to Angie and paying money to Joanne which is equal to the value of Joanne's interest in Blueacre; and contemporaneously; and
+•
+Joanne transferring her undivided interest in Redacre to Angie and her undivided interest in Blueacre to Nicole
+.
+33.
+The effect of the partition is that where once Angie, Joanne and Nicole each had a one third interest in Purpleacre (and following the subdivision - in both Redacre and Blueacre), Angie now has a 100% interest (or sole ownership) in Redacre, Nicole has a 100% interest (or sole ownership) in Blueacre, and Joanne does not have an interest in either. Instead, Joanne received money equal to her proportionate interest in both Redacre and Blueacre
+.
+Legislative context
+34. GST is payable on a taxable supply.
+[19]
+35. The supply of real property may be input taxed under section 40-65 to the extent that the property is residential premises to be used predominantly for residential accommodation unless the residential premises are new residential premises
+[20]
+or commercial residential premises
+[21]
+.
+36. Real property is defined in section 195-1 and includes:
+(a)
+any interest in or right over land; or
+(b)
+a personal right to call for or be granted any interest in or right over land; or
+(c)
+a licence to occupy land or any other contractual right exercisable over or in relation to land.
+37. Land includes a dwelling with its adjacent buildings, inheritable rights, corporeal (tangible) and incorporeal, of any holding or description, and includes all estates or interests, charges, rights, titles, claims, demands, liens or encumbrances at law or in equity.
+[22]
+38. In applying the GST Act, it is relevant to identify the supply and whether it is made for consideration in the course or furtherance of an enterprise carried on by the supplier.
+39. The definition of supply
+[23]
+is very wide.
+40. Consideration
+[24]
+for GST is broader than it is for contractual purposes.
+[25]
+41. Central to the operation of the GST Act is the concept of carrying on an enterprise.
+[26]
+It is one of the elements required to be satisfied for the making of a taxable supply under section 9-5 which relevantly states:
+You make a
+taxable supply
+if:
+(a)
+you make the supply for *consideration; and
+(b)
+the supply is made in the course or furtherance of an *enterprise that you *carry on; ...
+42. The requirement for an entity to issue a tax invoice for a taxable supply is contained in section 29-70.
+43. Division 75 sets out special rules for supplies of real property under the margin scheme. For the margin scheme to apply, the supplier and the recipient must agree in writing that the margin scheme is to apply.
+[27]
+44. The GST Act treats a partnership as an entity
+[28]
+separate from its individual partners. A supply made by or on behalf of a partner of a partnership in his or her capacity as a partner is taken to be a supply made by the partnership.
+[29]
+45. A supply by the joint venture operator of a GST joint venture to a participant in the joint venture is not a taxable supply if the participant acquired the thing supplied for consumption, use or supply in the course of activities for which the joint venture was entered into.
+[30]
+Ruling with Explanations
+What are the GST consequences of a partition?
+Is there a supply under a partition by agreement?
+46. Under a partition by agreement, the transfer or conveyance by each co-owner
+[31]
+of their respective interest in the land to be taken by the other co-owners in severalty is a supply as defined in subsection 9-10(1).
+47. The term 'supply' is broadly defined in subsection 9-10(1) as 'any form of supply whatsoever'. This wide definition of the term includes the transfer or conveyance of an interest in or right over land by a co-owner.
+[32]
+48. To effect a partition under an agreement, all the co-owners agree to divide the land and to mutually transfer or convey their respective interests in the parts to be taken and enjoyed in severalty by the other. Each transfer or conveyance is a supply.
+49. However, a co-owner does not make a supply of its own interest in the land that it is to take in severalty.
+Is the subdivision of land a supply?
+50. The Commissioner considers that the subdivision of land by co-owners does not constitute a supply for the purposes of GST. All that results is that the subdivided land is held under different titles by the same owners. While the effect of the subdivision is to create new rights and titles in substitution of the original rights and titles, there is no change in the ownership of the subdivided land. Accordingly, where land is jointly held, a subdivision, by itself, does not involve a transfer of any interests in the land between the co-owners.
+Is there a supply under a court ordered partition?
+[33]
+Supply by co-owners pursuant to a court ordered partition
+51. If a court makes an order for partition under which the co-owners are directed to execute a transfer or conveyance of their interests in the parts of the land to be taken by the others, the Commissioner considers that each co-owner makes a supply of each interest transferred. Each co-owner is required to comply with the order by doing something.
+52. In Goods and Services Tax Ruling GSTR 2006/9
+Goods and services tax: supplies,
+the Commissioner takes the view that an entity will make a supply if it provides something of value to another entity. For example, a co-owner will provide something if it takes action to transfer property to another co-owner.
+[34]
+53. [Omitted.]
+54. In C & C,
+[38]
+in the context of Family Court proceedings, the Federal Magistrates Court in that case ordered '...the Wife...do all acts and things necessary to seek a partition of the title to the real property...'.
+[39]
+55. Further, in
+Schnytzer v. Wielunski
+,
+[40]
+the Supreme Court of Victoria '...ordered that the said land the subject of the action be partitioned between the parties and that the parties join in a transfer of the lot numbered 2 ... to the defendants absolutely and... lot numbered 1 ... to the plaintiffs absolutely.' It was also '...ordered that the conveyancing and like costs of giving effect to the partition so ordered be borne by the plaintiffs ... and the defendants... in equal shares.'
+56. It is evident from the above cases that a co-owner is required to do something to effect the partition. The transfer or conveyance by the co-owner of its interest in the land is a supply. It is irrelevant that the co-owners were compelled by the order to make the supply. In accordance with the Commissioner's view, in order to make a supply a co-owner has to provide something to another entity.
+Is a supply made by a co-owner under a partition by agreement or court order for co-owners to effect a partition in the course or furtherance of an enterprise?
+57. It is the Commissioner's view that if land is applied or intended to be applied in an enterprise carried on by a co-owner, a supply of that co-owner's interest in the land under a partition by agreement or court order for co-owners to effect a partition is in connection with the enterprise and is a supply in the course or furtherance of that enterprise.
+58. Further, where the partition of that land results in the termination of the enterprise which was carried on, the supply of the interest in the land by the co-owners would still be in connection with the enterprise
+[41]
+carried on by the co-owner and is a supply in the course or furtherance of the enterprise.
+Enterprise
+[42]
+59. The Commissioner recognises that in some cases practical difficulties may arise in determining whether the activities of the co-owners before, or as part of, a partition are an enterprise.
+60. In Miscellaneous Taxation Ruling MT 2006/1 The New Tax System:  the meaning of entity carrying on an enterprise for the purposes of entitlement to an Australian Business Number, the Commissioner sets out a list of factors to provide assistance in determining whether activities (including an isolated transaction) are an enterprise in the form of a business or an adventure or concern in the nature of trade.
+[43]
+The question is necessarily one of fact and degree. It requires a careful weighing of the various factors and exercising judgment in the light of decided case law and commercial experience.
+In the course or furtherance of an enterprise
+61. The phrase, 'in the course or furtherance of an enterprise' is not defined in the GST Act. The phrase forms part of the requirements that must be satisfied in order for a taxable supply to be identified for the purpose of establishing a liability to GST.
+62. The Explanatory Memorandum to the
+A New Tax System (Goods and Services Tax) Bill 1998
+(the Explanatory Memorandum), at paragraph 3.10, supports a broad meaning of the phrase 'in the course or furtherance of'. It states:
+In the course or furtherance' is not defined, but is broad enough to cover any supplies made in connection with your enterprise. An act done for the purpose or object of furthering an enterprise, or achieving its goals, is a furtherance of an enterprise although it may not always be in the course of that enterprise. In the course or furtherance does not extend to the supply of private commodities, such as when a car dealer sells his or her own private car. See
+Case N43
+(1991) 13 NZTC 3361.
+63. Having regard to the context in which the phrase 'in the course or furtherance of' appears and the above statement from the Explanatory Memorandum, the phrase should be given a broad meaning so as to encompass supplies made in connection with the relevant enterprise.
+64. The application of an asset in an enterprise establishes the necessary connection between the supply of the asset and the relevant enterprise. Given the broad meaning of 'in the course or furtherance', the supply of an interest in land under a partition is capable of being made in the course or furtherance of an enterprise where the relevant interest in the land has been applied in an enterprise carried on by the co-owner.
+65. The GST Act does not require that an asset must be applied primarily or principally in carrying on the enterprise for the supply of an asset to be in the course or furtherance of an enterprise. Accordingly, a connection between the supply of the interest in land under a partition and the enterprise carried on by the co-owners exists even if, at the time of the supply, the land is applied in carrying on the enterprise to a minor or secondary extent.
+[44]
+Example 4 - Supply in the course or furtherance of an enterprise
+66.
+ConstructCo and DevelopCo each carry on a separate enterprise of residential property development. Both are interested in developing the same piece of land. They enter into a joint venture to buy the land together in equal shares and to construct 8 strata titled residential units on the land. ConstructCo and DevelopCo agree to take 4 units each after the development is completed
+.
+67.
+When the strata plan is registered at the Land Titles Office each of the 8 units is held jointly as tenants in common in equal shares
+.
+68.
+On completion of the 8 units, under the partition, ConstructCo transfers its interest in units 1 to 4 to DevelopCo. In return DevelopCo transfers its interest in units 5 to 8 to ConstructCo
+.
+69.
+The joint venture entered into by ConstructCo and DevelopCo is not an entity for GST purposes (that is, it is a non-entity joint venture
+).
+[45]
+70.
+The transfer by ConstructCo of its interest in units 1 to 4 to DevelopCo is connected to the enterprise that ConstructCo carries on as the units were applied in ConstructCo's enterprise of property development. As part of that enterprise, ConstructCo will sell, dispose of or transfer units it has constructed. Similarly, the transfer by DevelopCo of its interest in units 5 to 8 is made in the course or furtherance of the enterprise that DevelopCo carries on
+.
+Supply not in the course or furtherance of an enterprise
+71. If the land was not applied in the enterprise carried on by the co-owners, the supply of the land is not in connection with the enterprise, and the supply would not be made in the course or furtherance of that enterprise. These circumstances will usually result from an application of the land for a purpose that is entirely separate from the activities of the enterprise carried on.
+72. However, a supply that has no discernible relationship and hence no connection, with an entity's enterprise cannot be a taxable supply even if the asset is applied by the entity in carrying on an enterprise.  The Commissioner expects that it would be exceptional for a supply of an asset that is applied in the supplier's enterprise not to have a connection with the enterprise. One example of this circumstance is identified in paragraph 42 of GSTR 2003/6.  Although such supplies are not in the course or furtherance of an enterprise, the co-owners making such supplies should consider whether an adjustment under Divisions 129 or 138 is required in respect of all acquisitions or importations that relate to the making of the supply.
+Example 5 - Supply not in the course or furtherance of an enterprise
+73.
+Rohan runs his own profitable business as a personal trainer. In July 2003, he and his sister, Roma (who does not carry on an enterprise), purchased land as tenants in common in equal shares. Both Rohan and Roma use the land to carry out a primary production activity as a hobby
+.
+74.
+In July 2004, Roma wanted to build a house on the land in which to live. Rohan and Roma agreed to subdivide the land into 2 lots because Rohan wanted to continue the primary production activity. Rohan agreed to take Lot 1 and Roma agreed to take Lot 2
+.
+75.
+Rohan and Roma arrange for the land to be surveyed. The land had a road running along its boundary and had some existing services such as electricity. Only minimal activity was required to subdivide the land
+.
+76.
+Rohan and Roma each transferred their interest in part of the subdivided land to the other to give effect to the partition. The transfer by Rohan of his interest in Lot 2 to Roma is not made in the course or furtherance of the enterprise he carries on. Roma's transfer of her interest in Lot 1 to Rohan is also not in the course or furtherance of an enterprise
+.
+77.
+The partition is the division of an asset which does not have a connection with the business carried on by Rohan as it is not applied in his enterprise. His hobby activity, which is a separate and distinct activity from the business, is not an enterprise. Roma also does not carry on an enterprise on or in relation to the land
+.
+Supply in the course or furtherance of an enterprise of a co-owner but not another co-owner
+78. There may be instances where jointly owned land is applied in an enterprise of one or more co-owners but not applied in an enterprise of other co-owners. In these circumstances, a partition of the jointly owned land will result in some co-owners making a supply that is in the course or furtherance of an enterprise and other co-owners making a supply that is not in the course or furtherance of an enterprise.
+Example 6 - Supply in the course or furtherance of an enterprise carried on by one co-owner and not the other co-owner
+79.
+Two friends, Caroline and Shaun, purchase a block of land as tenants in common in equal shares with the intention to subdivide the land, to construct two houses and to take a house each
+.
+80.
+Caroline's intention in entering into the arrangement is to use the house she acquired as her primary residence. Caroline is not carrying on an enterprise in these circumstances. In Caroline's case, the purpose of the arrangement is private and domestic in nature
+.
+81.
+Shaun's intention in entering into the arrangement is to sell the house he acquires for a profit. Shaun is carrying on an enterprise in these circumstances because the activities are business activities or activities in the conduct of a profit making undertaking or scheme and therefore an adventure or concern in the nature of trade
+.
+[46]
+82.
+Shaun and Caroline agree that Shaun will take Lot 1 which includes House 1 and Caroline will take Lot 2 which includes House 2
+.
+83.
+Caroline and Shaun give effect to the partition, after the completion of construction, by Shaun transferring his interest in Lot 2 to Caroline and by Caroline transferring her interest in Lot 1 to Shaun
+.
+84.
+The transfer by Caroline of her interest in Lot 1 to Shaun is not in the course or furtherance of an enterprise she carries on. Caroline's transfer of her interest in Lot 1 to Shaun does not have any connection with an enterprise that she carries on
+.
+[47]
+85.
+In contrast, the transfer by Shaun of his interest in Lot 2 to Caroline is in the course of furtherance of an enterprise he carries on.
+[48]
+Shaun's transfer of his interest in Lot 2 to Caroline is connected with his enterprise of selling new residential premises
+[49]
+for profit
+.
+[50]
+Is a supply under a partition made for consideration?
+Partition by agreement and court order for co-owners to effect a partition
+86. The Commissioner considers that, under a partition by agreement or where a court orders the co-owners to effect a partition, each co-owner makes a supply of land for consideration. In the absence of an owelty payment, the consideration received is entirely non-monetary in that each co-owner gives up their interests in parts of the land in return for the same from other co-owners.
+87. Consideration is defined in section 195-1 to mean 'any consideration within the meaning given by sections 9-15 and 9-17, in connection with the supply.'
+88. Subsection 9-15(1) provides that a payment, or any act or forbearance is consideration for a supply if it is 'in connection with', 'in response to or for the inducement of' a supply. Further, a payment, act or forbearance may be consideration for a supply even though it is not made voluntarily, and regardless of whether it is made by the recipient of the supply.
+[51]
+89. A payment, act or forbearance is consideration for a supply where there is a sufficient nexus between the payment, act or forbearance and the supply.
+[52]
+The test as to whether there is a sufficient nexus is an objective test.
+[53]
+90. In
+Commissioner of Taxation v. Reliance Carpet Co Pty Ltd
+[54]
+the High Court noted that, under section 9-15, consideration includes, among other things, any payment 'in connection with' a supply of anything. In analysing the decision of the European Court of Justice in
+Société thermale d'Eugénie-les-Bains v. Ministère de l'Économie, des Finances et de l'Industrie
+,
+[55]
+the High Court gave some indication that the connection between consideration and a supply need not be direct (see paragraph 30 of the judgment), though it did not expand on what the extent of the connection needs to be.
+91. For land transactions 'consideration' may be regarded as anything that 'moves' the transfer. In
+Re Navakumar v. Commissioner of State Revenue
+[56]
+Deputy President Macnamara of the Victorian Civil and Administrative Tribunal said:
+[57]
+Consideration is a very wide concept. In Equity consideration generally denotes something of significant value, at common law something purely nominal such as $1, a peppercorn or a chocolate wrapper may constitute consideration. In revenue law the meaning of consideration is wider still, it is that which 'moves' the conveyance or transfer. See
+Archibald Howie Pty Ltd v. Commissioner of Stamp Duties (NSW
+) (1948) 77 CLR 143, 152 per Dixon J.
+92. Although a partition ordinarily does not involve a monetary payment, consideration is not limited to a payment of money. It includes a payment in a non-monetary or in an 'in kind' form.
+[58]
+This includes acts, forbearances, and goods or property.
+93. The consideration for a co-owner transferring their interest in land to the other co-owners is the transfer or conveyance made by the other co-owners of their respective interests in another part of the land to the first co-owner. The transfer or conveyance by the other co-owners together with any owelty money paid or payable is consideration received by the first co-owner for the supply of their interest to the others.
+94. This is supported by comments made by Senior Member McCabe in
+Johnson v. FC of T
+[59]
+(
+Johnson
+).
+95. In that case, in considering the consequences of the division of jointly-owned shares between the owners for capital gains tax purposes, Senior Member McCabe said, at paragraphs 15 and 16:
+15. ... Dividing the parcel in two for the purposes of a transfer to each joint owner effectively requires those owners to relinquish ownership of the CGT assets in the shares in the other parcel in return for clear title to the shares in the parcel they are acquiring. It is as if the CGT assets contained in each share have to be unpacked and redistributed so that the taxpayer ends up holding half the number of shares in his or her own right- and those shares do not contain any CGT assets belonging to the other (former) joint owner.
+16. This rearrangement and reallocation of the ownership of CGT assets constitutes a disposition of the CGT asset, and is therefore a CGT event:  s 104-10. Subject to the legislation, tax is levied on the capital proceeds from a CGT event less the cost base of the asset. The capital proceeds are the sum of the money received in respect of the transaction (no money changed hands in this case) and the market value of any other property received (in this case, the market value of the interest acquired in the shares):  s 116-20.
+96. The Commissioner considers that, although the comments made by Senior Member McCabe in
+Johnson
+were in a different context, nevertheless they support the proposition that a supply of land under a partition is for consideration.
+97. The value of the consideration is the sum of the GST inclusive market value of all the other co-owners' interests
+[60]
+in the part of the land acquired by a co-owner plus any owelty money received in respect of the partition.
+98. The Commissioner considers that the transfer of an interest in a part of the land by a co-owner is 'in connection with', 'in response to' or 'for the inducement' of the supply by each of the other co-owners of their respective interests in a part of the land.
+Can the margin scheme apply to a taxable supply of land under a partition?
+99. Subsection 75-5(1) provides that an entity may apply the margin scheme to work out the amount of GST payable on a taxable supply of land it makes by selling a freehold interest in land, a stratum unit, or (granting) a long term lease.
+100. The Commissioner takes the view that the margin scheme can be applied to a taxable supply of land by a co-owner under:
+(i)
+a partition by agreement, or
+(ii)
+a court ordered partition,
+if the requirements of Division 75 are satisfied.
+Freehold interest in land
+101. A supply by a co-owner of their interest in freehold land under a partition will be a sale of a freehold interest in land for the purposes of subsection 75-5(1).
+[61]
+Sale
+102. The Commissioner accepts that the supply of land by co-owners under a partition by agreement or under a court order is a sale and, therefore, accords with the meaning of 'selling' for the purposes of subsection 75-5(1). The margin scheme provisions can be applied to a transfer or conveyance of an interest in land under a partition.
+103. The margin scheme only applies if there is a 'selling' of a freehold interest in land, a stratum unit, or (granting) a long term lease. The terms 'selling' or 'sale' are not defined in the GST Act. Therefore for the purposes of the GST Act the ordinary meaning of these terms is relevant.
+104. The ordinary meaning of the term 'sell' includes:
+to give up or make over for a consideration; dispose of to a purchaser for a price;
+[62]
+to dispose of or transfer ... to a purchaser in exchange for money or other consideration.
+[63]
+Similarly, the ordinary meaning of the term 'sale' includes:
+the exchange of a commodity for money etc.
+[64]
+These dictionary definitions make reference to 'consideration' and 'price' which indicates that the ordinary meaning of sale is broad enough to include a transfer or exchange of something for consideration or a price that is of a non-monetary nature, and is not restricted to a disposal of something for an amount of money.
+105. It is acknowledged that the technical legal meaning usually given to the term 'sale' is the transfer by mutual consent of the ownership of a thing from one person to another person for a monetary price.
+[65]
+However the Commissioner considers that the ordinary meaning of 'sale' and 'selling', the context provided by section 9-70 and the policy underlying Division 75 support a broader interpretation of the term 'selling' in section 75-5.
+106. Section 9-70 provides that the amount of GST on a taxable supply is 10% of the value of the taxable supply. The value of a taxable supply is the price x 10/11, where the price is the sum of the monetary and the non-monetary consideration.
+[66]
+Given that the concept of 'price' for the purposes of the GST Act includes both monetary and non-monetary consideration, both monetary and non-monetary consideration should be taken into account in determining whether there has been a sale for consideration or for a price.
+107. Also, as noted above, the Commissioner considers that the policy underlying the margin scheme supports a broad interpretation of the term 'selling' in subsection 75-5(1). Broadly, the margin scheme operates such that:
+•
+the value added to property before 1 July 2000 or before it enters the GST system is not taxed;
+•
+each registered entity that sells property pays GST on its value added only (and, hence, the over-taxation that would have arisen under the basic rules as property moves in and out of the GST system is avoided); and
+•
+the value added to property by private consumers is not taxed.
+Adopting a broad interpretation of the term 'selling' in section 75-5 to include transfers or disposals for non-monetary consideration is consistent with the underlying policy of the margin scheme.
+108. In the Commissioner's view, the intention behind limiting the margin scheme to taxable supplies by way of sale of a freehold interest in land or stratum units is to exclude taxable supplies consisting of temporary disposals (such as a lease, hire or licence).
+[67]
+The margin scheme should only be available when the freehold interest is wholly and permanently disposed of. Whether that disposal is for monetary consideration, as opposed to some other kind of valuable consideration, is immaterial.
+109. Consistent with the above, the consideration for the supply and the consideration for the acquisition for the purposes of the margin scheme may be either monetary or non-monetary or both.
+[68]
+The fact that a supply of land under a partition is ordinarily for non-monetary consideration therefore does not preclude such a supply from being a sale for the purposes of the margin scheme.
+110. Further, if the co-owners are associates,
+[69]
+for the purposes of subsection 75-5(1), where the relevant co-owner acquired their interest in the land by way of a supply on or after 9 December 2008, any subsequent taxable supply of that interest in the land
+[70]
+under a partition will be taken to be a sale, regardless of whether or not the supply is for consideration.
+[71]
+How is the margin calculated under the margin scheme?
+111. If a supply is made under the margin scheme, the margin for the supply is calculated under either section 75-10 or section 75-11, taking into account section 75-13.
+[72]
+Taxable supplies of land made under a partition before 17 March 2005 where the land was acquired on or after 1 July 2000
+112. The margin for a taxable supply of land made under a partition before 17 March 2005, where the land was acquired on or after 1 July 2000, is calculated under subsection 75-10(2).
+[73]
+113. Under subsection 75-10(2), the margin for the supply is the amount by which the consideration for the supply exceeds the consideration for the acquisition.
+[74]
+114. The consideration for the supply of a co-owner's interest in the land to another co-owner is the GST inclusive market value of that other co-owner's interest in the part of the land
+[75]
+acquired by the first co-owner plus any owelty money received in respect of the interest being supplied.
+Example 7 - Consideration for the supply
+115.
+George and Lizzie each carry on a separate enterprise of land development and each is registered for GST. They enter into a joint venture agreement to acquire a large block of land to develop into 30 commercial lots, and for each to take 15 lots
+.
+116.
+Upon subdivision they agree that George is to take lots 1 to 15 and Lizzie is to take lots 16 to 30
+.
+117.
+The consideration for the supply by George of his interests in lots 16 to 30 to Lizzie is the GST inclusive market value of Lizzie's interests in lots 1 to 15 which she supplies to George. Similarly, the consideration for the supply by Lizzie of her interests in lots 1 to 15 to George is the GST inclusive market value of George's interests in lots 16 to 30 which he supplies to Lizzie
+.
+118. The consideration for the acquisition is the original purchase price of the land apportioned on any fair and reasonable basis, to ascertain the part of the acquisition consideration that relates to the interest that each co-owner supplies.
+119. In the case of subdivided land or stratum units, each co-owner may apportion the consideration for the acquisition of the land to each of the subdivided lots or units.
+[76]
+Each co-owner may further allocate this portion to ascertain the part of the acquisition consideration that relates to the interest in the land that each co-owner supplies. Co-owners may use any fair and reasonable basis to make this apportionment.
+[77]
+Example 8 - Co-owners supply land under a partition before 17 March 2005 that was acquired on or after 1 July 2000
+120.
+RockCo and HardPlaceCo each separately carry on an enterprise of land development and are registered for GST. On 10 August 2001, they purchased a block of land as tenants in common in equal shares and agreed to develop the land into two townhouses. RockCo agreed to take Townhouse 1 and HardPlaceCo agreed to take Townhouse 2. The land was acquired for $220,000
+.
+121.
+In October 2001, RockCo and HardPlaceCo subdivided the land into two lots of equal value and area and commenced construction of the townhouses. Construction was completed in December 2003
+.
+122.
+In January 2004, to give effect to their agreement for partition, RockCo transferred its interest in Townhouse 2 to HardPlaceCo, and contemporaneously HardPlaceCo transferred its interest in Townhouse 1 to RockCo
+.
+123.
+RockCo and HardPlaceCo each used the margin scheme to calculate the GST payable on the supply. At that time, the GST inclusive market value of each townhouse was $330,000
+.
+124.
+The GST inclusive market value of the consideration for the supply of RockCo's half interest in Townhouse 2 is $165,000, being the GST inclusive market value of the supply of HardPlaceCo's half interest in Townhouse 1 that RockCo takes (that is, $330,000 x 50%).
+125.
+Under subsection 75-10(2), RockCo's consideration for the acquisition of the half interest in Townhouse 2 which it supplied to HardPlaceCo is $55,000. This is the proportion of the consideration for the land acquired for Townhouse 2 (using the lots method),
+[78]
+and then apportioned on the basis of RockCo's half interest in that land (that is, (1/2 x $220,000) x 50%).
+126.
+The margin for the supply by RockCo is $110,000, being the difference between the consideration for the supply ($165,000) and the consideration for the acquisition ($55,000
+).
+127.
+The GST payable by RockCo is $10,000, being 1/11th of the margin of $110,000. HardPlaceCo would also be liable to pay this amount for the supply of its interest in Townhouse 1 to RockCo
+.
+Taxable supplies of land made under a partition before 17 March 2005 where the land was acquired before 1 July 2000
+[79]
+128. If the land was acquired before 1 July 2000 and the co-owners have a valuation of the land that is in accordance with one of the Commissioner's written determinations,
+[80]
+the margin for the supply is calculated under subsection 75-10(3). The margin for the supply is the amount by which the consideration for the supply of each co-owner's interest in the land
+[81]
+exceeds that proportion of the valuation
+[82]
+that relates to each co-owner's interest in the land at the valuation date prescribed in that subsection.
+129. If the interest in the land that is supplied by the co-owners was not in existence at the valuation date but arose, for example, from a subdivision of land that was in existence at that date, the valuation must be made as follows:
+•
+a valuation of the land in existence at the valuation date is undertaken;
+•
+then apportioned on any fair and reasonable basis, to ascertain the part of the valuation that relates to the interest of each co-owner; and
+•
+then apportioned on any fair and reasonable basis, to ascertain the part of the valuation that relates to the interest that each co-owner supplies.
+Example 9 - Co-owners supply land under a partition before 17 March 2005 that was acquired before 1 July 2000
+130.
+On 10 February 2000, associated entities CrystalCo and ClearCo purchased land as tenants in common in equal shares for development into two townhouses. CrystalCo agreed to take Townhouse 1 and ClearCo agreed to take Townhouse 2
+.
+131.
+On 30 October 2000, CrystalCo and ClearCo subdivided the land into two lots and commenced construction of the townhouses. Construction was completed in March 2001
+.
+132.
+In April 2001, to give effect to their agreement for partition, CrystalCo transferred its half interest in Townhouse 2 to ClearCo, and contemporaneously ClearCo transferred its half interest in Townhouse 1 to CrystalCo
+.
+133.
+CrystalCo and ClearCo each used the margin scheme to calculate the GST payable on the supply. At that time, the GST inclusive market value of each of the townhouses was $550,000
+.
+134.
+CrystalCo and ClearCo obtained a valuation of the land in accordance with the relevant Commissioner's determination as at 1 July 2000 for the purposes of subsection 75-10(3). The land was valued at $220,000
+.
+135.
+The consideration for the supply made by ClearCo of its half interest in Townhouse 1 is the half interest of CrystalCo in Townhouse 2 that ClearCo takes. The GST inclusive market value of CrystalCo's interest in Townhouse 2 is $275,000 ($550,000 x 50%).
+136.
+The proportion of the valuation of the land as at 1 July 2000 as it relates to ClearCo's interest in Townhouse 1 (using the lots method)
+[83]
+is $55,000
+((
+1/2 x $220,000) x 50%).
+137.
+The margin for the supply by ClearCo is $220,000, being the difference between the consideration for the supply ($275,000) and the proportion of the valuation of the interest in the land supplied by ClearCo to CrystalCo ($55,000
+).
+138.
+The GST payable on the supply by ClearCo is $20,000, being 1/11th of the margin of $220,000. CrystalCo is also liable to pay the same amount of GST on the supply of its interest in Townhouse 2 to ClearCo
+.
+Taxable supplies of land made under a partition on or after 17 March 2005
+139. If a taxable supply of land is made by co-owners under a partition on or after 17 March 2005 the calculation of the margin is the same as explained above
+[84]
+unless section 75-11 applies.
+140. Subsections 75-11(1) to 75-11(7) apply in circumstances where an entity supplies real property that was acquired:
+•
+from a fellow member of a GST group (subsections 75-11(1) and 75-11(2));
+•
+from a joint venture operator of a GST joint venture (subsections 75-11(2A) and 75-11(2B));
+•
+from a deceased estate (subsections 75-11(3) and 75-11(4));
+•
+as a GST-free going concern or as GST-free farmland (subsection 75-11(5)); or
+•
+from an associate (subsections 75-11(6)
+[85]
+and 75-11(7)).
+141. The application of these subsections may arise in the context of supplies of land under a partition between co-owners. For a general discussion of the application of subsections 75-11(1) to 75-11(4) and 75-11(7) please refer to GSTR 2006/7 and GSTR 2006/8. For a discussion on the application of subsections 75-11(6) and 75-11(7) please refer to Goods and Services Tax Ruling GSTR 2009/1 Goods and services tax:  general law partnerships and the margin scheme.
+142. All of the above discussion and examples apply equally where a court orders the co-owners to effect a partition.
+Are co-owners required to issue tax invoices for taxable supplies of land made under a partition?
+143. If the taxable supply of the land is not solely a supply under the margin scheme, or the margin scheme is not applied to the supply, a co-owner will be required to issue a tax invoice for the supply within 28 days after a request by the co-owner acquiring the land.
+[86]
+144. However, a co-owner is not required to issue a tax invoice for a taxable supply of land it makes under a partition where it is solely a supply under the margin scheme.
+[87]
+Partitions and Partnerships
+[88]
+General law partnerships
+Does a general law partnership make a supply when it effects a partition and distributes partnership property to a partner?
+145. In making an
+in specie
+distribution of land, or a supply of an interest in land by way of a partition, the partnership makes a supply to the partners.
+[89]
+This supply is in the course or furtherance of the partnership's enterprise, and is made for consideration.
+Land as partnership property
+146. Land becomes partnership property when the partners make an in kind capital contribution of the property to the partnership, or the land is acquired by the partners in their capacity as partners in the partnership.
+[90]
+What is the interest of the partners in the land of the partnership?
+147. A partnership does not have a legal personality separate from its members. This means that a partnership cannot 'hold' the legal interest in land. The legal interest in land is either held by the partners or held by some partners on trust for all the partners including themselves.
+148. A partner has a beneficial interest in each and every asset of the partnership.
+[91]
+A partner does not have a right to any particular property of the partnership but upon dissolution of the partnership has a right to call for the sale of partnership property and for the distribution of any surplus to the partners.
+Distribution of land by the partnership to a partner
+149. The GST Act treats a partnership as an entity separate from its partners.
+[92]
+A supply, acquisition or importation made by or on behalf of a partner of a partnership in his or her capacity as a partner is taken to be made by the partnership, and not by that partner or any other partner of the partnership.
+[93]
+150. Under the partnership agreement, or if agreed between all the partners, a partnership may divide or apply partnership property into the separate property of one or more partners
+[94]
+by transferring the property to the acquiring partner or partners. This conversion by way of an
+in specie
+distribution may occur either while the partnership is continuing or upon the general dissolution of the partnership.
+151. In
+Macleod v. IRC
+[95]
+it was held that, where two partners dissolved their partnership upon the footing of an equal division of the partnership property, the transaction was a partition or division. This indicates that the distribution of partnership land to the partners may be effected by a partition between the partners.
+152. To effect the partition each partner would transfer their interest in the land to the other partners for absolute ownership of the property to be received by them.
+153. The transfer of a partner's beneficial (and legal) interest in land by each partner to the other partners would be in the capacity as a partner of the partnership. The distribution of the partnership property would therefore be made by the partnership to the acquiring partner in their own right.
+[96]
+In other words, for the purposes of the GST Act it is the partnership and not the partners that makes an
+in specie
+distribution of the whole of the relevant partnership property to the acquiring partner, notwithstanding how the legal title to the property is held by the partners.
+[97]
+154. As noted above, partnership property may be converted into the separate property of a partner by the partnership transferring the property to the acquiring partner. For the acquiring partner to enjoy absolute ownership of the land therefore the partnership must also distribute the remaining beneficial (and legal) interest in the land held by the partner as a partner in the partnership to the partner in their own right. The partnership would therefore make an
+in specie
+distribution of the whole of the land to the acquiring partner.
+Partnerships and court ordered partitions
+155. Where land is part of the partnership property, a partner may not have a right to seek an order from the court for a partition of that land while the partnership continues to exist. In
+Tenure Pty Ltd v. Costala Pty Ltd and Peter Matthew Pty Ltd
+,
+[98]
+McDonald J of the Supreme Court of Victoria said:
+In the 9th ed of the Law of Partnership by Lord Lindley, published in 1924, the learned editors at p28 identifying a number of principle (sic) differences between co-ownership and partnership. In part they stated:
+6. One co-owner of land is entitled to have it divided between himself and co-owners, but not (except by virtue of the Partition Acts) to have it sold against their consent. A partner has no right to partition in specie, but is entitled on a dissolution, to have the partnership property, whether land or not, sold, and the proceeds divided.
+Having regard to these authoritative statements, it is my opinion that in the event of it being determined that there exists in this case a partnership between the parties pursuant to an agreement entered into between them and the land, the subject of these proceedings, is part of the partnership property, then while that partnership continues to exist the plaintiff has no right to seek partition or sale of the land under s222 of the
+Property Law Act
+. ...
+156. It is also unlikely that a court would make an order for a partition of land that is partnership property on the dissolution of a partnership as this would be inconsistent with a partner's interest in the partnership. This interest consists of a right to a proportion of the surplus after the realisation of the assets and payment of the debts and liabilities of the partnership. A partner therefore has a right to call for a sale of partnership assets and for the profits from such sale to be divided in accordance with the interest that each partner has in the partnership.
+[99]
+157. While a court may not order a partition of land that is partnership property during the continued operation, or upon the dissolution, of a partnership this does not preclude the partners from agreeing to a partition of partnership land between themselves at any time (see paragraphs 149 to 154 of this Ruling).
+[100]
+Is an in specie distribution of land a supply for consideration that is made in the course or furtherance of an enterprise carried on by the partnership?
+158. The Commissioner considers that an
+in specie
+distribution of land that is partnership property to a partner in its own capacity is a supply made by the partnership.
+[101]
+It is the Commissioner's view that this supply made by the partnership is a supply for consideration.
+[102]
+159. The Commissioner also considers that the
+in specie
+distribution of partnership property by the partnership to a partner is a supply made in the course or furtherance of the partnership's enterprise. It does not make a difference whether the
+in specie
+distribution is made during the continued operation of the partnership or under a general dissolution.
+[103]
+Can the margin scheme apply to an in specie distribution of land?
+160. The Commissioner takes the view that the margin scheme can be applied to a taxable supply (that is, an
+in specie
+distribution) of land by the partnership to the partners.
+[104]
+Partitions and Joint Ventures
+Supply of land held jointly by the participants (including joint venture operator in capacity as a participant)
+161. Under a partition the transfer by each participant in a joint venture
+[105]
+of their interests in the land is a taxable supply provided all the requirements of section 9-5 are met. It makes no difference whether the joint venture is a GST joint venture or not.
+162. An arrangement between two or more parties entered into for the construction of residential or commercial premises may be a joint venture. The participant's share of the product or output may, for example, be a share of the premises or a specified number of stratum units in a strata title development.
+163. For each participant in a joint venture to obtain their share of the land, it is necessary for each participant to mutually convey their interest in the land to the other. This is a supply that is made for consideration.
+[106]
+Does subsection 51-30(2) apply to a supply of land under a partition by a joint venture participant that is also a joint venture operator?
+164. Subsection 51-30(2) does not apply to the supply of an interest in land under a partition by a joint venture participant, in its capacity as a joint venture operator, to the other participant(s) as the participant acquiring the land does not do so for consumption, use or supply in the course of activities for which the joint venture was entered into. The supply is a taxable supply.
+165. In some circumstances, a joint venture participant in a GST joint venture may also be nominated as a joint venture operator. In these circumstances it is appropriate to consider whether subsection 51-30(2) applies.
+166. Subsection 51-30(2) provides that a supply that the joint venture operator makes under a GST joint venture arrangement is treated as if it were not a taxable supply if:
+(a)
+it is made to another entity that is a participant in the joint venture; and
+(b)
+the participant acquired the thing supplied for consumption, use or supply in the course of the activities for which the joint venture was entered into.
+[107]
+167. It is considered that, in referring to the '...activities for which the joint venture was entered into', subsection 51-30(2) is referring to activities which are part of the specified purpose for which the joint venture was approved.
+168. The acquisition of residential or commercial premises, by a participant under a partition, for the purpose of the participant subsequently selling, retaining, or renting is not an acquisition 'for consumption, use or supply in the course of activities for which the joint venture was entered into'.
+169. The participant acquires the premises for its own purpose which is separate from and not part of the activities for which the joint venture was entered into.
+Can a participant in a joint venture apply the margin scheme to a taxable supply of land?
+170. The Commissioner takes the view that the margin scheme can be applied to a taxable supply of land by a participant in a joint venture, as a result of the partitioning of the land between the joint venture participants, provided the requirements of Division 75 are met.
+Partitions and Sale of New Residential Premises
+171. A sale of land comprised of residential premises may be input taxed under section 40-65 to the extent the residential premises are to be used predominantly for residential accommodation. However, under paragraph 40-65(2)(b), the sale is not input taxed if the premises are new residential premises as defined in section 40-75.
+Co-owners and Joint Ventures
+172. In line with the Commissioner's views in Goods and Services Tax Ruling GSTR 2003/3 Goods and services tax:  when is a sale of real property a sale of new residential premises?, if the land comprises newly constructed residential premises, the supply under a partition between co-owners, or participants in a joint venture, of their interest in the land, would constitute the first sale of new residential premises but only to the extent of the interest supplied by one co-owner or participant to the other.
+173. GSTR 2003/3 discusses the application of section 40-65. It provides that a supply of an interest in real property that comprises residential premises by a tenant in common satisfies the definition of 'residential premises' in section 195-1 because the interest supplied is in respect of premises that is intended to be occupied and are capable of being occupied, as a residence or for residential accommodation.
+[108]
+Accordingly, a co-owner's or a joint venture participant's sale, by way of partition, of an interest in land comprising newly constructed residential premises is a sale of new residential premises to the extent of the interest supplied.
+174. A subsequent supply of the whole of the residential premises by a co-owner or participant in a joint venture would be partly a taxable supply of new residential premises
+[109]
+and partly an input taxed supply of residential premises. The margin scheme can be applied by a co-owner or participant in a joint venture to the sale of the part of the residential premises that is a taxable supply if the requirements of section 75-5 are satisfied.
+175. For the purposes of working out the margin under the margin scheme, as the whole of the residential premises has been sold for a single price, an apportionment of the sale consideration, on a fair and reasonable basis, between the taxable and input taxed portions of the residential premises is required.
+[110]
+The Commissioner's view is that the relative interest in the premises that has not been previously sold, that is the interest that was not acquired by way of partition and is new residential premises, would be a fair and reasonable basis of apportionment in these circumstances. The consideration for the acquisition of the taxable portion, that is the portion that is new residential premises, will be the co-owner's or joint venture participant's consideration
+[111]
+for the part held prior to the partition at the time it was originally acquired.
+Example 11 - Supply of residential premises that was acquired under a partition
+176.
+In January 2005, HardPlaceCo (from example 8) sold the townhouse it acquired by way of a partition to Kasey (an individual) for $550,000
+.
+177.
+The supply by HardPlaceCo is partly a taxable supply of new residential premises in relation to the interest not sold to HardPlaceCo under the partition and partly an input taxed supply of residential premises with respect to the interest sold to HardPlaceCo under the partition
+.
+178.
+HardPlaceCo used the margin scheme to calculate the GST payable on the taxable part of the supply of the townhouse
+.
+179.
+Under subsection 75-10(2), HardPlaceCo's consideration for the supply of the taxable part of the townhouse which it sold to Kasey is $275,000. This amount represents an apportionment of the consideration for the supply relative to the taxable and input taxed parts of the supply. In this case the relative portion of the residential premises that are new residential premises and taxable is 50%.
+180.
+HardPlaceCo's consideration for the acquisition of the taxable part of the townhouse is $55,000. This amount is the proportion of the consideration for the land acquired for the townhouse prior to the partition (using the lots method
+),
+[112]
+and then apportioned on the basis of HardPlaceCo's half interest in that land (that is, (1/2 x $220,000) x 50% = $55,000).
+181.
+The margin for the supply by HardPlaceCo is $220,000 being the difference between the consideration for the supply of the taxable part ($275,000) and the consideration for the acquisition of the taxable part ($55,000
+).
+182.
+The GST payable by HardPlaceCo is $20,000, being 1/11th of the margin of $220,000
+.
+Partnerships
+183. In contrast to the above, an
+in specie
+distribution of an interest in land, comprising of residential premises, by a partnership to a partner would constitute the first sale of new residential premises in their entirety.
+[113]
+The partnership, in this instance, supplies the whole of the interests in the residential premises. In this case the residential premises are either occupied or intended to be occupied and capable of being occupied as a residence or for residential accommodation. Therefore the definition of 'residential premises' in section 195-1 is satisfied.
+184. The
+in specie
+distribution of the new residential premises by the partnership to the partner therefore will be a taxable supply.
+[114]
+A subsequent supply of the residential premises by a partner would be an input taxed supply of residential premises under section 40-65.
+Detailed contents list
+185. Below is a detailed contents list for this Goods and Services Tax Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+6
+Background
+11
+What is a Partition?
+12
+Partition - how effected
+19
+Partition by agreement
+20
+Example 1 - Partition of land by tenants in common in equal shares
+22
+Example 2 - Partition of land by tenants in common in unequal shares
+24
+Court ordered partitions
+26
+Owelty
+30
+Example 3 - Partition by agreement with one co-owner not taking a part of the land
+32
+Legislative context
+34
+Ruling with Explanations
+46
+What are the GST consequences of a partition?
+46
+Is there a supply under a partition by agreement
+?
+46
+Is the subdivision of land a supply
+?
+50
+Is there a supply under a court ordered partition
+?
+51
+Supply by co-owners pursuant to a court ordered partition
+51
+Is a supply made by a co-owner under a partition by agreement or court order for co-owners to effect a partition in the course or furtherance of an enterprise?
+57
+Enterprise
+59
+In the course or furtherance of an enterprise
+61
+Example 4 - Supply in the course or furtherance of an enterprise
+66
+Supply not in the course or furtherance of an enterprise
+71
+Example 5 - Supply not in the course or furtherance of an enterprise
+73
+Supply in the course or furtherance of an enterprise of a co-owner but not another co-owner
+78
+Example 6 - Supply in the course or furtherance of an enterprise carried on by one co-owner and not the other co-owner
+79
+Is a supply under a partition made for consideration
+?
+86
+Partition by agreement and court order for co-owners to effect a partition
+86
+Can the margin scheme apply to a taxable supply of land under a partition?
+99
+Freehold interest in land
+101
+Sale
+102
+How is the margin calculated under the margin scheme
+?
+111
+Taxable supplies of land made under a partition before 17 March 2005 where the land was acquired on or after 1 July 2000
+112
+Example 7 - Consideration for the supply
+115
+Example 8 - Co-owners supply land under a partition before 17 March 2005 that was acquired on or after 1 July 2000
+120
+Taxable supplies of land made under a partition before 17 March 2005 where the land was acquired before 1 July 2000
+128
+Example 9 - Co-owners supply land under a partition before 17 March 2005 that was acquired before 1 July 2000
+130
+Taxable supplies of land made under a partition on or after 17 March 2005
+139
+Are co-owners required to issue tax invoices for taxable supplies of land made under a partition?
+143
+Partitions and Partnerships
+145
+General law partnerships
+145
+Does a general law partnership make a supply when it effects a partition and distributes partnership property to a partner
+?
+145
+Land as partnership property
+146
+What is the interest of the partners in the land of the partnership
+?
+147
+Distribution of land by the partnership to a partner
+149
+Partnerships and court ordered partitions
+155
+Is an in specie distribution of land a supply for consideration that is made in the course or furtherance of an enterprise carried on by the partnership
+?
+158
+Can the margin scheme apply to an in specie distribution of land
+?
+160
+Partitions and Joint Ventures
+161
+Supply of land held jointly by the participants (including joint venture operator in capacity as a participant)
+161
+Does subsection 51-30(2) apply to a supply of land under a partition by a joint venture participant that is also a joint venture operator
+?
+164
+Can a participant in a joint venture apply the margin scheme to a taxable supply of land
+?
+170
+Partitions and Sale of New Residential Premises
+171
+Co-owners and Joint Ventures
+172
+Example 11 - Supply of residential premises that was acquired under a partition
+176
+Partnerships
+183
+Detailed contents list
+185
+Commissioner of Taxation
+8 April 2009
+Footnotes
+[1]
+A joint tenant does not hold a right to any particular part of the land and has a right of survivorship in respect of the land. See
+Wright v. Gibbons
+(1949) 78 CLR 313 per Dixon J at 330.
+[2]
+A tenant in common has an undivided share in and a right to occupy the whole of the property in common with others. See
+Nullagine Investments Pty Ltd v. Western Australian Club Inc
+(1993) 177 CLR 635 per Brennan J at 643-644.
+[3]
+For example, see
+Aoun Investments Pty Ltd & Anor v. Chief Commissioner of State Revenue (NSW)
+[2006] NSWSC 1394; [2007] ALMD 6181; (2006) 65 ATR 301; 2007 ATC 4144 and '
+Joint Proprietors' in the Torrens System
+(2007) 81 ALJ 372.
+[4]
+The
+Macquarie Dictionary, 2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW
+defines 'severalty' to mean the condition, as of land, of being held or owned by separate or individual right.
+[4A]
+[Omitted].
+[5]
+The date of Royal Assent of the
+Tax Laws Amendment (2005 Measures No. 2) Act 2005.
+[6]
+The
+Macquarie Dictionary,
+2001, rev. 3rd edn, The Macquarie Library Pty Ltd, NSW.
+[7]
+Current as at November 2008.
+[8]
+See subsection 30(1) of the
+Duties Act 1997
+(NSW); subsection 29(1) of the
+Duties Act 1999
+(ACT); subsection 31(1) of the
+Duties Act 2001
+(Qld); subsection 26(1) of the
+Duties Act 2001
+(Tas); and subsection 39(1) of the
+Duties Act 2008
+(WA).
+[9]
+[1991] 2 VR 129; 90 ATC 5046; (1990) 21 ATR 1036.
+[10]
+Comptroller of Stamps (Vic) v. Christian & Anor
+[1991] 2 VR 129 at 133; 90 ATC 5046 at 5050; (1990) 21 ATR 1036 at 1041.
+[11]
+Chudleigh, C and Lozzi, V (November 2006), 'Partition',
+Australian Encyclopaedia of Forms and Precedents.
+[12]
+Current as at November 2008.
+[13]
+Nullagine Investments Pty Ltd v. Western Australian Club Inc
+(1993) 177 CLR 635 at 650; (1993) 67 ALJR 739; 116 ALR 26; [1993] HCA 45.
+[14]
+For example, see section 66G of the
+Conveyancing Act 1919
+(NSW). See also section 243 of the
+Civil Law (Property) Act 2006
+(ACT), subsection 40(1) of the
+Law of Property Act 2000
+(NT), subsection 38(1) of the
+Property Law Act 1974
+(Qld), subsection 69(1) of the
+Law of Property Act 1936
+(SA), sections 3 and 7 of the
+Partition Act 1869
+(Tas), Part IV of the
+Property Law Act 1958
+(Vic), and subsection 126(1) of the
+Property Law Act 1969
+(WA).
+[15]
+This Ruling does not consider a court ordered partition involving the appointment of trustees for partition as this circumstance rarely occurs. It is more common for the court to appoint trustees for sale which this Ruling also does not consider.
+[16]
+The time as to when the property vests in the trustees, in the capacity as trustees of the statutory trust, is relative to the type of land (that is, Torrens title or otherwise) and the statutory provisions of each State or Territory. It may be when the order is made, upon the making of entries in the relevant titles register, or when the order itself is registered.
+[17]
+Where the co-owners are joint tenants, the court is not bound to partition the property into equal proportions, but may order either the co-owners or trustees to effect a division that reflects the co-owners' equitable shares. See Butt,
+Land Law,
+5th ed, at paragraph 14102. See also
+Croghan v. Grosvenor
+(1991) 57 SASR 545; [1991] SASC 3066.
+[18]
+For example, see the decision of Debelle J in
+Croghan v. Grosvenor
+(1991) 57 SASR 545 at 548; [1991] SASC 3066 at paragraph 9.
+[19]
+Subsection 7- 1(1).
+[20]
+See section 40-75 for the meaning of new residential premises.
+[21]
+See section 195-1 for the meaning of commercial residential premises.
+[22]
+See paragraphs 22(1)(c) and 22(1)(d) of the
+Acts Interpretations Act 1901
+for the meaning of 'land' and 'estate' respectively.
+[23]
+Section 9-10.
+[24]
+Sections 9-15 and 9-17.
+[25]
+See paragraph 3.9 of the Explanatory Memorandum to the
+A New Tax System (Goods and Services Tax) Bill 1998.
+[26]
+'Enterprise' is defined in subsection 9-20(1). Section 195-1 provides that carrying on an enterprise includes doing anything in the course of the commencement or termination of an enterprise.
+[27]
+Subsection 75-5(1). However, for supplies made under contracts entered into before 29 June 2005, or made pursuant to rights or options granted before that day, a written agreement is not required.
+[28]
+Paragraph 184-1(1)(e).
+[29]
+Section 184-5.
+[30]
+Subsection 51-30(2).
+[31]
+The partition of land in the context of a general law partnership is addressed at paragraphs 145 to 160 of this Ruling. A partition of land is also addressed in the context of a joint venture at paragraphs 161 to 170 of this Ruling.
+[32]
+The Commissioner's view on the meaning of supply is set out in Goods and Services Tax Ruling GSTR 2006/9 Goods and services tax:  supplies.
+[33]
+This Ruling does not consider a court ordered partition involving the appointment of trustees for partition.
+[34]
+See paragraphs 71 to 91 of GSTR 2006/9.See also
+Commissioner of Taxation v. MBI Properties Pty Ltd
+[2014] HCA 49.
+[35]
+[Omitted]
+[36]
+[Omitted]
+[37]
+[Omitted]
+[38]
+[2001] FMCAfam 194.
+[39]
+This discussion illustrates the making of a supply under a partition. It does not effect the application of Goods and Services Tax Ruling GSTR 2003/6 Goods and services tax:  transfers of enterprise assets as a result of property distributions under the Family Law Act 1975 or in similar circumstances to situations that fall within the scope of that Ruling.
+[40]
+[1978] VR 418 at 430.
+[41]
+Section 195-1 provides that carrying on an enterprise includes doing anything in the course of the commencement or termination of an enterprise.
+[42]
+For a full discussion on the meaning of enterprise see Miscellaneous Taxation Ruling MT 2006/1 The New Tax System: the meaning of entity carrying on an enterprise for the purposes of entitlement to an Australian Business Number. GSTD 2006/6 provides that the term 'enterprise' as discussed in MT 2006/1 has equal application for GST purposes.
+[43]
+See paragraphs 170 to 190, paragraphs 233 to 261 and paragraphs 262 to 302 of MT 2006/1.
+[44]
+This view does not affect the application of GSTR 2003/6 to situations that fall within the scope of that Ruling. See also paragraph 72 of this Ruling.
+[45]
+Subsection 995-1(1) of the
+Income Tax Assessment Act 1997
+defines a non-entity joint venture to mean an arrangement that the Commissioner is satisfied is a contractual arrangement:
+(a)
+under which 2 or more parties undertake an economic activity that is subject to the joint control of the parties; and
+(b)
+that is entered into to obtain individual benefits for the parties, in the form of a share of the output of the arrangement rather than joint or collective profits for all the parties.
+[46]
+See paragraph 270 of MT 2006/1.
+[47]
+Caroline would not be entitled to input tax credits for acquisitions she makes in relation to the partition or construction of either house.
+[48]
+Shaun may be entitled to input tax credits for acquisitions he makes in relation to the partition or construction of either house.
+[49]
+The issue of whether a supply of an interest in land comprising residential premises under a partition is a sale of new residential premises is addressed at paragraphs 171 to 184 of this Ruling.
+[50]
+See paragraphs 271 to 302 of MT 2006/1 for further examples of when an entity is carrying on an enterprise of selling new residential premises with a view to making a profit.
+[51]
+Subsection 9-15(2).
+[52]
+See paragraph 68 of Goods and Services Tax Ruling GSTR 2001/6 Goods and services tax:  non-monetary consideration; paragraph 33 of Goods and Services Tax Ruling GSTR 2002/3 Goods and services tax:  prizes; paragraph 28 of GSTR 2003/6.
+[53]
+See paragraph 72 of GSTR 2001/6; paragraph 33 of GSTR 2002/3; paragraph 28 of GSTR 2003/6.
+[54]
+[2008] HCA 22; 2008 ATC 20-028; 68 ATR 158.
+[55]
+[2007] 3 CMLR 1003.
+[56]
+[2007] VCAT 476; (2007) 66 ATR 186.
+[57]
+See also comments made by Gleeson CJ and Callinan J in their dissenting judgment in the High Court decision
+Chief Commissioner of State Revenue (NSW) v. Dick Smith Electronics Holdings Pty Ltd
+(2005) 213 ALR at 235-236 at [22] to [24].
+[58]
+See paragraph 12 of GSTR 2001/6.
+[59]
+[2007] ATAA 1322; 2007 ATC 2161; (2006) ATR 839.
+[60]
+See paragraphs 138 to 158 of GSTR 2001/6 for an explanation of the reasonable methods for determining the GST inclusive market value of non-monetary consideration. See also paragraphs 159 to 165 of GSTR 2001/6 for guidance as to the time when the GST inclusive market value of non-monetary consideration is worked out.
+[61]
+See paragraphs 41 to 43 of Goods and Services Tax Ruling GSTR 2006/8 Goods and services tax:  the margin scheme for supplies of real property acquired on or after 1 July 2000.
+[62]
+The Macquarie Dictionary,
+1998, 3rd edn, The Macquarie Library Pty Ltd, NSW.
+[63]
+The Collins Concise Dictionary,
+1990, Harper Collins, New York.
+[64]
+The Australian Oxford Dictionary
+1999, Oxford University Press, Melbourne.
+[65]
+See
+Halsbury's Law of England,
+1983, vol. 41, 4th edn, Butterworths, London, paragraph 601 and Benjamin, JP,
+Sale of Goods,
+4th Ed, Sweet & Maxwell, London, 1992, at 1-034. See also paragraph 20 of Goods and Services Tax Ruling GSTR 2004/8 Goods and services tax:  when does an entity have a decreasing adjustment under Division 132?
+[66]
+Subsection 9-75(1).
+[67]
+A grant of a long-term lease of real property is not a supply by way of sale but is a supply to which the margin scheme may apply: see paragraph 75-5(1)(c). In the context of the GST Act a long-term lease is to be treated consistently with a sale of real property: see paragraph 5.166 of the Explanatory Memorandum to the
+A New Tax System (Goods and Services Tax) Bill 1998.
+See also paragraph 18 of Goods and Services Tax Ruling GSTR 2003/3 Goods and services tax:  when is a sale of real property a sale of new residential premises?
+[68]
+See GSTR 2006/7 at paragraph 59 and GSTR 2006/8 at paragraph 47.
+[69]
+See section 318 of the
+Income Tax Assessment Act 1936
+(ITAA 1936) for the definition of the term 'associate' for the purposes of section 195-1.
+[70]
+Subsection 72-5(1) provides that a supply of land to an associate without consideration may be a taxable supply if the associate is not registered or required to be registered or does not acquire the land solely for a creditable purpose.
+[71]
+Subsection 75-5(1B).
+[72]
+In specified circumstances section 75-12 and section 75-15 may also impact on the calculation of the margin. See paragraph 130 of GSTR 2006/7 and paragraphs 171 to 173 and paragraph 52 of GSTR 2006/8 for an explanation of the application of these sections.
+[73]
+In limited circumstances, subsection 75-10(3) can also apply where real property was acquired on or after 1 July 2000.
+[74]
+If the consideration for the acquisition is equal to or greater than the consideration for the supply, then the margin for the supply is nil. The consideration for the acquisition is the original purchase price after taking into account settlement adjustments, and does not include costs associated with the purchase of the property, such as legal expenses and stamp duty. It also does not include costs incurred in developing the real property. See paragraphs 48 to 49 of GSTR 2006/8.
+[75]
+See paragraphs 138 to 158 of GSTR 2001/6 for an explanation of the reasonable methods for determining the GST inclusive market value of non-monetary consideration. See also paragraphs 159 to 165 of GSTR 2001/6 for guidance as to the time when the GST inclusive market value of non-monetary consideration is worked out.
+[76]
+See section 75-15.
+[77]
+To ascertain the proportion of the purchase price that relates to the subdivided allotment or stratum unit, see paragraphs 58 to 68 of GSTR 2006/8 for fair and reasonable methods of apportionment. Examples of two bases of apportionment are the area method, whereby the consideration for the real property acquired is apportioned on the basis of the proportion of the total saleable area of the development represented by the particular lot, and the lots or sites method, whereby the apportionment is based on the number of lots or sites.
+[78]
+See paragraph 59 of GSTR 2006/8 for a discussion on this method of apportionment.
+[79]
+The Commissioner takes the view that, in accordance with the decision in
+Brady King Pty Ltd v. Commissioner of Taxation
+[2008] FCAFC 118; 2008 ATC 20-034, for the purposes of the margin scheme, an entity is taken to have held or acquired a sufficient interest in subdivided land or stratum units at the time it entered into the contract to acquire the freehold title to the real property from which the subdivided land or stratum units were created. The margin scheme may therefore be applied to supplies of land under a partition where it has been subdivided.
+[80]
+A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination (No. 1) 2000 MSV 2000/1; A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination (No. 2) 2000 MSV 2000/2; A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination MSV 2005/1; A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination MSV 2005/2; A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination MSV 2005/3; and
+A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination MSV 2009/1
+.
+[81]
+See paragraph 114 of this Ruling.
+[82]
+This is a reference to a valuation in accordance with the relevant Commissioner's determination.
+[83]
+See paragraph 59 of GSTR 2006/8 for a discussion on this method of apportionment.
+[84]
+In specified circumstances section 75-12 may also impact on the calculation of the margin in relation to supplies made on or after 17 March 2005. See paragraph 130 of GSTR 2006/7 and paragraphs 171 to 173 of GSTR 2006/8 for an explanation of the application of this section 75-12.
+[85]
+Subsection 75-11(6) is subject to the application rules set out at paragraph 8 of this Ruling and applies in relation to supplies of real property that was acquired from an associate without consideration.
+[86]
+Section 29-70.
+[87]
+Section 75-30.
+[88]
+This Ruling does not consider the GST treatment of a partition of land by a tax law partnership.
+[89]
+The Commissioner's views on the application of the GST laws to general law partnerships are set out in Goods and Services Tax Ruling GSTR 2003/13 Goods and services tax:  general law partnerships.
+[90]
+In determining whether land has become partnership property it is necessary to look at the intentions of the partners. This involves an examination of the partnership agreement and any relevant conduct of the partners.
+[91]
+See
+Canny Gabriel Castle Advertising Pty Ltd and anor v. Volume Sales (Finance) Pty Ltd
+(1974) 131 CLR 321 at 327; (1974) 3 ALR 409 at 412.
+[92]
+Section 184-1.
+[93]
+Subsection 184-5(1).
+[94]
+Bolton v. Puller
+(1796) 1 Bos & P 539; (1796) 126 ER 1053;
+Federal Commissioner of Taxation v. Everett
+(1980) 143 CLR 440; 80 ATC 4076; (1980) 54 ALJR 196; (1980) 28 ALR 179; (1980) 10 ATR 608.
+[95]
+(1885) 12 R (Ct of Sess) 1045.
+[96]
+Pursuant to paragraph 184-5(1)(a), a supply or acquisition made by or on behalf of a partner in their capacity as a partner of the partnership is taken to be made by the partnership. Under subsection 184-1(1), a partnership is able to make supplies and acquisitions in its own right as it is a separate entity from its partners.
+[97]
+Subsection 184-5(1).
+[98]
+[1997] VConvR 54-565.
+[99]
+See
+Federal Commissioner of Taxation v. Everett
+(1980) 28 ALR 179 at 182, per Barwick CJ, Stephen, Mason & Wilson JJ and
+Tenure Pty Ltd v. Costala Pty Ltd and Peter Matthew Pty Ltd
+[1997] VConvR 54-565, per McDonald J.
+[100]
+See Ed RC I'Anson Banks, '
+Lindley & Banks on Partnership',
+18th Edition, Sweet & Maxwell, at paragraph 35-30 at page 937.
+[101]
+See the Commissioner's views set out at paragraph 85A of GSTR 2003/13 and paragraph 19 of Goods and Services Tax Ruling GSTR 2009/1 Goods and services tax:  general law partnerships and the margin scheme.
+[102]
+See paragraphs 85A to 86 and paragraph 135 and paragraphs 135A to 135G of GSTR 2003/13 for an explanation of the consideration for an
+in specie
+distribution by a partnership to a partner.
+[103]
+See the Commissioner's views set out at paragraphs 85A and 131 to 135 of GSTR 2003/13 and paragraph 20 of GSTR 2009/1.
+[104]
+For the Commissioner's view on the application of the margin scheme to general law partnerships see GSTR 2009/1.
+[105]
+The Commissioner's views on the application of the GST laws to joint ventures are set out in Goods and Services Tax Ruling GSTR 2004/2 Goods and services tax:  What is a joint venture for GST purposes?; Goods and Services Tax Determination GSTD 2004/2 Goods and services tax:  are all supplies made by the entity nominated as the joint venture operator to entities that are participants in the GST joint venture to be treated as if they are not taxable supplies?; Goods and Services Tax Ruling GSTR 2004/3 Goods and services tax:  arrangements of the kind described in Taxpayer Alert TA 2004/2:  Avoidance of GST on the sale of new residential premises.
+[106]
+For an explanation of the consideration for the transfer of the land and how to determine the value of this consideration refer to paragraphs 86 to 98 of this Ruling.
+[107]
+See also GSTD 2004/2 for a discussion of the operation of subsection 51-30(2) in the context of supplies made by the entity nominated as the joint venture operator to entities that are participants in the GST joint venture.
+[108]
+Paragraphs 52 to 52C of GSTR 2003/3.
+[109]
+If all the requirements of section 9-5 are satisfied.
+[110]
+See paragraphs 92 to 111 of GSTR 2001/8.
+[111]
+If subsection 75-10(3) applies, then the margin for the co-owner or joint venture participant is the amount by which the apportioned sale consideration exceeds the apportioned valuation of the part held prior to the partition.
+[112]
+See paragraph 59 of GSTR 2006/8 for a discussion on this method of apportionment.
+[113]
+Subject to the application of subsection 40-75(2). Refer to paragraphs 89 to 93 of GSTR 2003/3 (consolidated 8 April 2009).
+[114]
+If all the requirements of section 9-5 are satisfied.
+GSTR 2008/D3
+References
+ATO references:
+NO  2007/16976
+ISSN: 1443-5160
+Related Rulings/Determinations:
+GSTR 2001/6
+GSTR 2001/8
+GSTR 2002/3
+GSTR 2003/3
+GSTR 2003/6
+GSTR 2003/13
+GSTR 2004/2
+GSTR 2004/3
+GSTR 2004/8
+GSTR 2006/7
+GSTR 2006/8
+GSTR 2006/9
+GSTD 2004/2
+GSTD 2006/6
+MT 2006/1
+GSTR 2009/1
+Subject References:
+acquisition of real estate
+carrying on an enterprise
+GST consideration
+GST enterprise
+GST joint ventures
+GST lease and real property
+GST margin scheme
+GST non-monetary consideration
+GST property and construction
+GST sale of real property
+GST supply
+joint ventures
+partnerships
+partnership restructuring
+partnership interests
+distribution in-specie
+subdivision of real property
+real property
+taxable supply
+Business Line:
+ISP - GST
+Legislative References:
+ANTS (GST) Act 1999 7-1(1)
+ANTS (GST) Act 1999 9-5
+ANTS (GST) Act 1999 9-10
+ANTS (GST) Act 1999 9-10(1)
+ANTS (GST) Act 1999 9-15
+ANTS (GST) Act 1999 9-15(1)
+ANTS (GST) Act 1999 9-15(2)
+ANTS (GST) Act 1999 9-17
+ANTS (GST) Act 1999 9-20(1)
+ANTS (GST) Act 1999 9-70
+ANTS (GST) Act 1999 9-75(1)
+ANTS (GST) Act 1999 29-70
+ANTS (GST) Act 1999 40-65
+ANTS (GST) Act 1999 40-65(2)(b)
+ANTS (GST) Act 1999 40-75
+ANTS (GST) Act 1999 40-75(2)
+ANTS (GST) Act 1999 Div 51
+ANTS (GST) Act 1999 51-30(2)
+ANTS (GST) Act 1999 72-5(1)
+ANTS (GST) Act 1999 Div 75
+ANTS (GST) Act 1999 75-5
+ANTS (GST) Act 1999 75-5(1)
+ANTS (GST) Act 1999 75-5(1)(c)
+ANTS (GST) Act 1999 75-5(1B)
+ANTS (GST) Act 1999 75-10
+ANTS (GST) Act 1999 75-10(2)
+ANTS (GST) Act 1999 75-10(3)
+ANTS (GST) Act 1999 75-11
+ANTS (GST) Act 1999 75-11(1)
+ANTS (GST) Act 1999 75-11(2)
+ANTS (GST) Act 1999 75-11(2A)
+ANTS (GST) Act 1999 75-11(2B)
+ANTS (GST) Act 1999 75-11(3)
+ANTS (GST) Act 1999 75-11(4)
+ANTS (GST) Act 1999 75-11(5)
+ANTS (GST) Act 1999 75-11(6)
+ANTS (GST) Act 1999 75-11(7)
+ANTS (GST) Act 1999 75-12
+ANTS (GST) Act 1999 75-13
+ANTS (GST) Act 1999 75-15
+ANTS (GST) Act 1999 75-30
+ANTS (GST) Act 1999 Div 129
+ANTS (GST) Act 1999 Div 132
+ANTS (GST) Act 1999 Div 138
+ANTS (GST) Act 1999 184-1
+ANTS (GST) Act 1999 184-1(1)
+ANTS (GST) Act 1999 184-1(1)(e)
+ANTS (GST) Act 1999 184-5
+ANTS (GST) Act 1999 184-5(1)
+ANTS (GST) Act 1999 184-5(1)(a)
+ANTS (GST) Act 1999 195-1
+ITAA 1936 318
+ITAA 1997 104-10
+ITAA 1997 116-20
+ITAA 1997 995-1(1)
+Tax Laws Amendment (2005 Measures No. 2) Act 2005
+Tax Laws Amendment (2008 Measures No. 5) Act 2008
+Acts Interpretation Act 1901 22(1)(c)
+Acts Interpretation Act 1901 22(1)(d)
+TAA 1953 Sch 1 Div 358
+Family Law Act 1975
+Conveyancing Act 1919 (NSW) 66G
+Civil Law (Property) Act 2006 (ACT) 243
+Duties Act 1997 (NSW) 30(1)
+Duties Act 1999 (ACT) 29(1)
+Duties Act 2001 (Qld) 31(1)
+Duties Act 2001 (Tas) 26(1)
+Duties Act 2008 (WA) 39(1)
+Law of Property Act 1936 (SA) 69(1)
+Law of Property Act 2000 (NT) 40(1)
+Partition Act 1869 (Tas) 3
+Partition Act 1869 (Tas) 7
+Property Law Act 1958 (Vic) Pt IV
+Property Law Act 1958 (Vic) 222
+Property Law Act 1969 (WA) 126(1)
+Property Law Act 1974 (Qld) 38(1)
+Case References:
+Aoun Investments Pty Ltd & Anor v. Chief Commissioner of State Revenue (NSW)
+[2006] NSWSC 1394
+[2007] ALMD 6181
+(2006) 65 ATR 301
+2007 ATC 4144
+Archibald Howie Pty Ltd v. Commissioner of Stamp Duties (NSW)
+(1948) 77 CLR 143
+(1948) 22 ALJ 331
+(1948) 49 SR (NSW) 112
+(1948) 66 WN (NSW) 51
+[1948] 2 ALR 489
+[1948] HCA 28
+Bolton v. Puller
+(1796) 1 Bos & P 539
+(1796) 126 ER 1053
+Brady King Pty Ltd v. Commissioner of Taxation
+[2008] FCAFC 118
+2008 ATC 20-034
+C & C
+[2001] FMCAfam 194
+Canny Gabriel Castle Advertising Pty Ltd and anor v. Volume Sales (Finance) Pty Ltd
+(1974) 131 CLR 321
+(1974) 48 ALJR 217
+(1974) 3 ALR 409
+[1974] HCA 22
+Case N43
+(1991) 13 NZTC 3361
+Chief Commissioner of State Revenue (NSW) v. Dick Smith Electronics Holdings Pty Ltd
+(2005) 221 CLR 496
+(2005) 213 ALR 230
+(2005) 79 ALJR 550
+2005 ATC 4052
+(2005) 58 ATR 241
+[2005] HCA 3
+[2005] ALMD 3117
+Commissioner of Taxation v. Reliance Carpet Co Pty Ltd
+[2008] HCA 22
+2008 ATC 20-028
+68 ATR 158
+Commissioner of Taxation v. MBI Properties Pty Ltd
+[2014] HCA 49
+Comptroller of Stamps (Vic) v. Christian & Anor
+[1991] 2 VR 129
+90 ATC 5046
+(1990) 21 ATR 1036
+Croghan v. Grosvenor
+(1991) 57 SASR 545
+[1991] SASC 3066
+[1992] ANZ ConvR 260
+Federal Commissioner of Taxation v. Everett
+(1980) 143 CLR 440
+80 ATC 4076
+(1980) 54 ALJR 196
+(1980) 28 ALR 179
+(1980) 10 ATR 608
+Johnson v. FC of T
+[2007] ATAA 1322
+2007 ATC 2161
+(2007) 66 ATR 839
+Macleod v. IRC
+(1885) 12 R (Ct of Sess) 1045
+Nullagine Investments Pty Ltd v. Western Australian Club Inc
+(1993) 177 CLR 635
+(1993) 67 ALJR 739
+(1993) 116 ALR 26
+[1993] HCA 45
+Re Hornsby Shire Council v. Commissioner of Taxation
+[2008] AATA 1060
+2008 ATC 10-061
+Re Navakumar v. Commissioner of State Revenue
+[2007] VCAT 476
+(2007) 66 ATR 186
+Schnytzer v. Wielunski
+[1978] VR 418
+Société thermale d'Eugénie-les-Bains v. Ministére de l'Economie, des Finances et de l'Industrie
+[2007] 3 CMLR 1003
+Tenure Pty Ltd v. Costala Pty Ltd and Peter Matthew Pty Ltd
+[1997] VConvR 54-565
+Westley Nominees Pty Ltd & Anor v. Coles Supermarkets Australia Pty Ltd & Anor
+[2006] FCAFC 115
+2006 ATC 4363
+62 ATR 682
+(2006) 152 FCR 461
+Wright v. Gibbons
+(1949) 78 CLR 313
+(1949) 23 ALJ 104
+[1949] ALR 287
+Other References:
+A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination (No. 1) 2000,
+MSV 2000/1
+A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination (No. 2) 2000,
+MSV 2000/2
+A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination,
+MSV 2005/1
+A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination,
+MS 2005/2
+A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination,
+MSV 2005/3
+A New Tax System (Goods and Services Tax) Margin Scheme Valuation Requirements Determination
+MSV 2009/1
+Australian Encyclopaedia of Forms and Precedents
+Chudleigh, C and Lozzie, V, 'Partition', (November 2006) Australian Encyclopaedia of Forms and Precedents
+Benjamin JP, Sale of Goods, 4th Edition, Sweet & Maxwell, London 1992
+Butt, Land Law, 5th Edition
+Explanatory Memorandum
+to the A New Tax System (Goods and Services Tax) Bill 1998
+Halsbury's Laws of England, 1983, vol 41 4th Edition, Butterworths, London
+Joint Proprietors' in the Torrens System (2007) 81 ALJ 372
+Ed RC I'Anson Banks, 1995, Lindley and Banks on partnership (Lindley and Banks), 18th edition, Sweet & Maxwell, London
+The Australian Oxford Dictionary 1999, Oxford University Press, Melbourne
+The Collins Concise Dictionary 1990, Harper Collins, New York
+The Macquarie Dictionary, 2001, Revised 3rd Edition, The Macquarie Library Pty Ltd, NSW
+GSTR 2009/2 history
+Date:
+Version:
+Change:
+8 April 2009
+Original ruling
+3 March 2010
+Consolidated ruling
+Addendum
+4 September 2013
+Consolidated ruling
+Addendum
+You are here
+20 December 2017
+Consolidated ruling
+Addendum
+Back to top

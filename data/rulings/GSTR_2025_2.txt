@@ -1,0 +1,1378 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 38
+  • Div 84
+  • Division 38
+  • Division 84
+  • Subdivision 38-E
+  • Subdivision 40-B
+  • Subdivision 40-C
+  • div 38
+  • div 40
+  • division 38
+  • division 40
+
+Cases Referenced:
+  • Ors v Morningstar Research Pty Ltd
+
+  • Ors v Morningstar Research Pty Ltd 
+
+Topics: GST, FBT, Trusts, Partnerships, Companies
+
+
+
+================================================================================
+
+GSTR 2025/2 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+47 related documents
+Goods and Services Tax Ruling
+GSTR 2025/2
+Goods and services tax: supplies of things (other than goods or real property) where effective use or enjoyment of the supply takes place outside Australia
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+GSTR 2025/2EC
+.
+Table of Contents
+Paragraph
+What this Ruling is about
+1
+Date of effect
+10
+Related rulings
+11
+Legislative context
+12
+Ruling
+25
+Item 3
+25
+Our approach to determining the place of effective use or enjoyment of a supply
+28
+Determining the entity to which the supply is provided – the providee entity
+43
+The supply is made and provided to the same entity (the recipient is the providee)
+47
+The supply is made to one entity (recipient) but is provided to another entity (the other entity is the providee)
+49
+Supply is provided to more than one entity
+51
+Determining whether effective use or enjoyment of a supply by the providee entity takes place outside Australia
+52
+Alternative view
+60
+Apportionment
+68
+Item 3 and subsection 38-190(4)
+75
+Item 3 and paragraph 9-25(5)(d)
+83
+Application of paragraph (b) of item 3
+90
+Examples
+96
+Identifying the providee entity – determining whether effective use or enjoyment takes place outside Australia
+97
+Example 1 – supply of consultancy services made to a resident company and provided to a resident subsidiary with a presence in Australia and outside Australia
+98
+Example 2 – supply of consultancy services made and provided to a resident company
+110
+Providee entity is an individual – determining whether effective use or enjoyment of a supply takes place outside Australia
+113
+Example 3 – supply of legal services to a resident individual physically located outside Australia
+114
+Example 4 – third-party engagement of legal services to a resident individual physically located outside Australia
+118
+Example 5 – provision of legal services following a resident individual's return to Australia
+124
+Example 6 – supply of foreign tax return preparation services made to a non-resident employer and provided to employees
+127
+Example 7 – supply of life coaching services made to a resident company but provided to its employees in New Zealand
+136
+Example 8 – supply of transport services made to an Australian-resident company and provided to another entity
+141
+Example 9 – supply of delivery services made and provided to a resident company
+155
+Example 10 – supply of accounting services to a resident individual only coincidentally physically located outside Australia
+161
+Example 11 – supply of storage services to a non-resident individual physically located in Australia
+166
+Example 12 – supply of services to an Australian resident who is outside Australia
+174
+Providee entity is a company, partnership, corporate limited partnership or trust – determining whether effective use or enjoyment of a supply takes place outside Australia
+178
+Example 13 – supply of consultancy services to a resident charitable organisation with a presence both in Australia and outside Australia
+179
+Example 14 – supply of consultancy services made by and provided to a resident company
+183
+Example 15 – supply of transport services made to an Australian resident and provided to an entity outside Australia
+192
+Further examples
+208
+Apportionment
+211
+Example 34 – supply provided in part to a non-resident subsidiary and in part to an Australian subsidiary
+212
+Example 35 – supply provided to a non-resident individual in Australia for part of the time when legal services are performed
+222
+Item 3 and paragraph 9-25(5)(d)
+238
+Example 36 – supply made and provided to an Australian resident who is temporarily living outside Australia
+238
+Example 37 – supply of training services made to a non-resident company and provided to another non-resident employee, in Australia
+245
+Example 40 – supply of global audit services made to an Australian resident
+260
+Example 41 – global supply of audit services involving due diligence service
+284
+Relying on this Ruling
+This publication is a public ruling for the purposes of the
+Taxation Administration Act 1953
+.
+If this Ruling applies to you, and you correctly rely on it, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+What this Ruling is about
+1. This Ruling examines the circumstances in which the effective use or enjoyment of a supply takes place outside Australia for the purposes of paragraph (b) of table item 3 of subsection 38-190(1) of the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act). It is only necessary to consider whether paragraph (b) of table item 3 is satisfied if paragraph (a) of table item 3 is satisfied.
+[1]
+2. Unless otherwise indicated, all legislative references in this Ruling are to the GST Act and all references to an item number are to a table item of subsection 38-190(1).
+3. From 1 July 2015, the term 'Australia' was replaced in nearly all instances within the goods and services tax (GST), luxury car tax and wine equalisation tax legislation with the term 'indirect tax zone'. The scope of the term, however, remains the same as the now repealed definition of 'Australia' used in those Acts. This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect. In this Ruling, the 'indirect tax zone' is referred to as 'Australia'.
+4. Subsection 38-190(1) sets out supplies of things (other than goods or real property) that are GST-free. Under item 3, supplies of things (other than goods or real property) made to an entity who is not in Australia when the thing supplied is done are GST-free if certain requirements are met.
+5. In this Ruling, we explain in particular:
+•
+how to determine when effective use or enjoyment of a supply takes place, or does not take place, outside Australia
+•
+what apportionment is required if effective use or enjoyment of the supply takes place in part outside Australia
+•
+the operation of subsection 38-190(4), which extends the application of paragraph (a) of item 3 by treating certain supplies as though they are made to a recipient who is not in Australia, and
+•
+the application of item 3 to certain supplies that are connected with Australia solely because of paragraph 9-25(5)(d).
+6. Goods and Services Tax Ruling GSTR 2025/1
+Goods and services tax: supplies of things (other than goods or real property) made to non-residents but provided to another entity in Australia
+explains, for the purposes of item 2 and subsection 38-190(3), when a supply is made to one entity but is 'provided to another entity'. The explanation in GSTR 2025/1 is relevant to this Ruling because of the approach we take to determining whether 'effective use or enjoyment' of a supply takes place outside Australia.
+7. In this Ruling, we give many examples illustrating the application of item 3. The examples are not intended to create principles to be applied generally. Rather, the examples show how, by examining the facts and circumstances of the supply in question, you can determine where effective use or enjoyment of that supply takes place. It is always necessary to examine the particular circumstances of each case to determine the place where a supply is used or enjoyed.
+8. Unlike item 2, item 3 is not restricted to non-resident entities and may apply to supplies made to any entity irrespective of its residency status. Supplies made to non-residents may be considered under item 2 or item 3.
+9. This Ruling also draws on examples from GSTR 2025/1 and compares the outcomes under items 2 and 3. Tables 2 and 3 (at paragraph 210 of this Ruling) draw on examples from GSTR 2025/1 and compare the outcomes under items 2 and 3. As Tables 2 and 3 illustrate, there are differences in outcome between item 2 and item 3.
+Date of effect
+10. This Ruling applies both before and after its date of issue, subject to the commencement and application of each Act to which it refers. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (refer to paragraphs 75 and 76 of Taxation Ruling TR 2006/10
+Public Rulings).
+Related rulings
+11. The suite of other GST public rulings which explain the operation of section 38-190 are:
+•
+Goods and Services Tax Ruling GSTR 2003/7
+Goods and Services Tax: what do the expressions 'directly connected with goods or real property' and 'a supply of work physically performed on goods' mean for the purposes of subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999?
+•
+Goods and Services Tax Ruling GSTR 2003/8
+Goods and services tax: supply of rights for use outside Australia – subsection 38-190(1), item 4, paragraph (a) and subsection 38-190(2)
+•
+Goods and Services Tax Ruling GSTR 2004/7
+Goods and services tax: in the application of items 2 and 3 and paragraph (b) of item 4 in the table in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999:
+•
+when is a 'non-resident' or other 'recipient' of a supply 'not in Australia when the thing supplied is done'?
+•
+when is 'an entity that is not an Australian resident' 'outside Australia when the thing supplied is done'?
+•
+Goods and Services Tax Ruling GSTR 2005/2
+Goods and services tax: supplies of goods and services in the repair, renovation, modification or treatment of goods from outside Australia whose destination is outside Australia
+•
+Goods and Services Tax Ruling GSTR 2025/1
+Goods and services tax: supplies of things (other than goods or real property) made to non-residents but provided to another entity in Australia.
+Legislative context
+12. Under section 9-5, a supply is not a taxable supply to the extent that it is GST-free or input taxed.
+13. A supply is GST-free if it is GST-free under Division 38 or under a provision of another Act.
+[2]
+14. Subdivision 38-E sets out when exports of goods and other supplies for consumption outside Australia are GST-free.
+15. The relevant section for the purposes of this Ruling is section 38-190.
+16. Subsection 38-190(1) comprises 5 items which set out supplies of things, other than goods or real property, that are for consumption outside Australia and therefore GST-free. A supply that is not GST-free under one item in subsection 38-190(1) may be GST-free under one of the other items.
+17. In particular, item 2 applies to certain supplies made to non-residents who are not in Australia when the thing supplied is done. Item 2 is discussed in GSTR 2025/1 and many of the concepts that are relevant to that item are also relevant to item 3.
+18. If the requirements of one of the items in subsection 38-190(1) are met, the supply is GST-free, provided subsections 38-190(2), (2A), (3) or (5) do not negate that GST-free status.
+19. Subsection 38-190(2) provides that a supply covered by any of items 1 to 5 of subsection 38-190(1) is not GST-free if it is the supply of a right or option to acquire something the supply of which would be connected with Australia and would not be GST-free.
+[3]
+20. Subsection 38-190(2A) provides that a supply covered by any of items 2 to 4 of subsection 38-190(1) is not GST-free if the acquisition of the supply relates (whether directly or indirectly, or wholly or partly) to the making of a supply of real property situated in Australia that would be, wholly or partly, input taxed under Subdivision 40-B or 40-C.
+[4]
+Subdivision 40-B concerns residential rent and Subdivision 40-C concerns sales and long-term leases of residential premises (other than commercial residential premises and new residential premises).
+21. Subsection 38-190(3), which is expressed to not limit subsection 38-190(2) or (2A), provides that certain supplies covered by item 2 are not GST-free.
+[5]
+22. Subsection 38-190(4) extends the scope of item 3. It provides that a supply is taken, for the purposes of item 3, to be a supply made to a recipient who is not in Australia if:
+(a)
+it is a supply under an agreement entered into, whether directly or indirectly, with an Australian resident, and
+(b)
+the supply is provided, or the agreement requires it to be provided, to another entity outside Australia.
+23. Subsection 38-190(5)
+[6]
+limits the scope of subsection (4) and provides that it does not apply to any of the following supplies:
+(a)
+a transport of goods within Australia that is part of, or is connected with, the international transport of the goods;
+(b)
+a loading or handling of goods within Australia that is part of, or is connected with, the international transport of the goods;
+(c)
+a service, done within Australia, in relation to the goods that facilitates the international transport of the goods;
+(d)
+insuring transport covered by paragraph (a);
+(e)
+arranging transport covered by paragraph (a), or insurance covered by paragraph (d).
+24. This Ruling is about determining when, for the purposes of paragraph (b) of item 3, effective use or enjoyment of a supply takes place outside Australia. The expression appears in item 3 as follows:
+Item
+Topic
+These supplies are GST-free
+[
+[7]
+]
+3
+Supplies used or enjoyed outside [Australia]
+a supply:
+(a)
+that is made to a recipient who is not in [Australia] when the thing supplied is done; and
+(b)
+the
+effective use or enjoyment
+of which takes place outside [Australia]; [emphasis added]
+other than a supply of work physically performed on goods situated in [Australia] when the thing supplied is done, or a supply directly connected with real property situated in [Australia].
+Ruling
+Item 3
+25. A supply of a thing (other than goods or real property) is GST-free under item 3 if:
+•
+the recipient entity is not in Australia when the thing supplied is done
+[8]
+, and
+•
+the effective use or enjoyment of the supply takes place outside Australia, and
+•
+the supply is neither a supply of work physically performed on goods situated in Australia when the work is done, nor a supply directly connected with real property situated in Australia.
+[9]
+26. It is only necessary to consider paragraph (b) of item 3 if paragraph (a) of item 3 is satisfied. GSTR 2004/7 explains the requirement in paragraph (a) of item 3 (along with the equivalent requirement in item 2 and paragraph (b) of item 4) that the recipient is not in Australia when the thing supplied is done. However, for the purposes of item 3, it is necessary to also consider subsection 38-190(4), which is not covered in GSTR 2004/7.
+27. Subsection 38-190(4) extends the application of paragraph (a) of item 3, subject to subsection 38-190(5), by treating certain supplies as though they are made to a recipient who is not in Australia (see paragraphs 75 to 80 of this Ruling).
+Our approach to determining the place of effective use or enjoyment of a supply
+28. Paragraph (b) of item 3 requires the place of effective use or enjoyment of a supply to be determined (that is, whether the place is outside Australia). As paragraph (b) refers to the 'effective' use or enjoyment of the supply, it is necessary to enquire as to the entity that has the actual use or enjoyment of the supply.
+29. The requirement in paragraph (a) of item 3 refers to the recipient of the supply. The recipient of the supply is the entity to which the supply is made. A supply that is made to a recipient entity may be provided to another entity. If a supply is made to a recipient and provided to another entity, the entity that actually uses or enjoys the supply is that other entity. For example, if a supply of travel services is made to a company (recipient) and the travel is undertaken by an employee of the recipient, the supply is provided to the employee and it is the employee that actually uses or enjoys the supply.
+30. A supply is made to a recipient and provided to another entity if, in the performance of a service (or in the doing of some thing), the actual flow of that supply is to an entity that is not the recipient entity with which the supplier made the agreement for the supply. That is, while the contractual flow of the supply is to the recipient entity, the actual flow of the supply is to another entity.
+31. Thus, in determining where a supply is used or enjoyed, it is first necessary to establish the entity to which the supply is provided (the providee entity). The providee entity is also the recipient if the supply is not provided to some other entity. However, if the supply is provided to some other entity that other entity is the providee entity.
+32. For example, if a supply of entertainment services is made to a recipient that is a company and, in the performance of that service, the employees are the entities that are entertained, the actual flow of that service is to another entity, being each employee. The supply is made to the non-resident employer company and provided to another entity, each employee (thus each employee is a providee).
+33. Having determined the providee entity, it is then necessary to consider whether use or enjoyment of the supply by that providee entity takes place outside Australia.
+34. Both the heading to section 38-190 and the table in subsection 38-190(1) refer to '[s]upplies of things … for consumption outside Australia'. Thus, in the context of subsection 38-190(1), use or enjoyment of a supply takes place outside Australia if the supply is for consumption by an entity outside Australia.
+35. In our view, a supply is for consumption and thus used or enjoyed outside Australia if there is provision of the supply to the providee entity outside Australia.
+36. On the other hand, effective use or enjoyment of a supply does not take place outside Australia if there is provision of the supply to the providee entity in Australia.
+37. This approach gives effect to the legislative purpose as evidenced by the heading to section 38-190 and the language of section 38-190. Items 2 and 3 and subsections 38-190(3) and (4), which affect the application of items 2 and 3 respectively, evidence parliament's intention that if a supply is provided to an entity at a particular location, the supply is for consumption at that location and the GST consequences are determined accordingly.
+38. Extrinsic material also supports this approach. The Explanatory Memorandum to the Indirect Tax Legislation Amendment Bill 2000 (EM) (which inserted subsection 38-190(4)) explains
+[10]
+that a supply that is made to an entity in Australia but provided to another entity outside Australia should be GST-free as 'the effective use and enjoyment of the supply is outside Australia'. Further and, in particular, as the effective use or enjoyment requirement in paragraph (b) of item 3 pre-dates the EM explaining subsection 38-190(4), it is reasonable to conclude, in our view, that parliament's intention is that provision of a supply to an entity at a particular location is the same as 'effective use or enjoyment' of the supply at that place.
+39. Thus, to work out whether effective use or enjoyment of a supply takes place outside Australia, we take a 2-step approach.
+40. First, we determine the entity to which the supply is provided – the providee entity (we explain how to determine this at paragraphs 43 to 51 of this Ruling).
+41. Second, we determine whether provision of the supply to the providee entity is outside Australia (we explain how to determine this at paragraphs 52 to 67 of this Ruling). Effective use or enjoyment of the supply takes place outside Australia if there is provision of the supply to the providee entity outside Australia.
+42. Sometimes, as a result of the application of paragraph (b) of item 3, apportionment arises. We discuss apportionment at paragraphs 68 to 74 of this Ruling.
+Determining the entity to which the supply is provided – the providee entity
+43. A supply may be made and provided to the same entity or may be made to one entity but be provided to another entity (or entities). Such circumstances are provided for in the legislation by subsections 38-190(3)
+[11]
+and (4).
+[12]
+(See Flow chart 1 of this Ruling.)
+44. We determine whether a supply is made to one entity but provided to another entity in the same way as it is determined in GSTR 2025/1. That Ruling explains when a supply is provided to another entity for the purposes of subsection 38-190(3). As explained in that Ruling, it is necessary to establish the exact nature of the supply.
+[13]
+45. We summarise many of the examples from GSTR 2025/1 in Tables 1 and 2 of this Ruling. See Table 1 for examples that illustrate when the supply is provided to an individual. See Table 2 for examples that illustrate when the supply is provided to an entity other than an individual. For each example, we compare the outcomes under items 2 and 3.
+46. The examples illustrate when we consider a supply is provided to another entity in a given fact situation. In particular, the examples show how, by examining the facts and circumstances of the supply in question, you can determine whether that supply is provided to the recipient entity or to another entity. It is always the entity to which the supply is provided that is the relevant entity for the purposes of determining where effective use or enjoyment of the supply takes place. The examples do not create principles to be applied generally. It is always necessary to examine the particular circumstances of each case to determine the entity to which a supply is provided.
+The supply is made and provided to the same entity (the recipient is the providee)
+47. If it is determined that a supply is made and provided to the same entity (that is, the recipient), the recipient is the providee entity. We determine whether effective use or enjoyment of the supply takes place outside Australia with reference to the recipient or providee entity. (See Flow chart 1 of this Ruling.)
+48. The recipient entity must satisfy paragraphs (a) and (b) of item 3 if the supply is to be GST-free under item 3.
+[14]
+The supply is made to one entity (recipient) but is provided to another entity (the other entity is the providee)
+49. If a supply is made to one entity (that is, the recipient) but is provided to another entity, that other entity is the providee entity. We determine whether effective use or enjoyment of the supply takes place outside Australia with reference to the providee entity and not the recipient entity. (See Flow chart 1 of this Ruling.)
+50. For a supply to be GST-free under item 3, the entity to which the supply is made (the recipient) must satisfy paragraph (a) of item 3 and the other entity to which the supply is provided (the providee) must satisfy paragraph (b) of item 3. However, it is necessary to also consider subsection 38-190(4), as limited by subsection 38-190(5), which extends the application of paragraph (a) of item 3 by treating certain supplies as though they are made to a recipient who is not in Australia (see paragraphs 75 to 80 of this Ruling).
+Supply is provided to more than one entity
+51. If a supply is provided to more than one entity, each entity is a providee for that supply. It is necessary to determine where each providee entity uses or enjoys the supply. Apportionment is required if some, but not all, providee entities use or enjoy the supply outside Australia. We discuss apportionment at paragraphs 68 to 74 of this Ruling.
+Determining whether effective use or enjoyment of a supply by the providee entity takes place outside Australia
+52. Having identified the providee entity, it is then necessary to consider whether effective use or enjoyment of the supply by that providee entity takes place outside Australia and thus whether paragraph (b) of item 3 is satisfied.
+53. This requires determination of whether there is provision of the supply to the providee in Australia or outside Australia. Effective use or enjoyment of the supply only takes place outside Australia, and thus paragraph (b) of item 3 is only satisfied, if there is provision of the supply to the providee entity outside Australia.
+54. We determine whether there is provision of a supply to the providee entity in Australia (and therefore the supply is not used or enjoyed outside Australia) consistent with the approach taken in GSTR 2025/1.
+55. We explain at paragraphs 87 to 89 of GSTR 2025/1 that a supply is provided as and when the thing supplied is done.
+[15]
+This is the relevant time for determining whether there is provision of the supply to the providee in Australia or outside Australia.
+56. If the providee entity is an
+individual,
+we then explain at paragraphs 90 to 112 of GSTR 2025/1 how to determine whether there is provision of the supply to the individual in Australia or outside Australia and thus whether or not effective use or enjoyment of the supply takes place outside Australia. In some instances, this depends on whether the individual's presence at a particular location (in Australia if a non-resident or outside Australia if a resident) is integral to the provision of a supply.
+57. If the providee entity is
+an entity other than an individual,
+we explain at paragraphs 113 to 123 of GSTR 2025/1 how to determine whether there is provision of the supply to that entity in Australia or outside Australia and thus whether or not effective use or enjoyment of the supply takes place outside Australia. It is necessary, as part of this process, to determine whether the entity has a presence in Australia (see the alternative view at paragraphs 60 to 67 of this Ruling).
+58. We also explain in GSTR 2025/1 how to determine whether:
+•
+a supply made to a non-resident employer is provided to an employee in Australia (paragraphs 124 to 129)
+•
+a supply is provided to an agent in Australia (paragraphs 130 to 131)
+•
+a supply is provided to a partner in Australia (paragraphs 132 to 135).
+59. GSTR 2025/1 also explains how to determine whether a supply is provided to another entity in Australia in the context of certain complex subcontract arrangements (refer to paragraphs 171 to 173 of that Ruling) and global supply arrangements (refer to paragraphs 174 to 180 of that Ruling). See also Examples 37 and 40 of this Ruling.
+Alternative view
+60. The alternative view is that effective use or enjoyment should be determined precisely on those words and the presence of an entity at a particular location may or may not be relevant to determining where effective use or enjoyment of a supply occurs.
+61. We recognise that, in establishing the actual place of use or enjoyment, the more exact that one seeks to be the more subjective the analysis becomes and the greater the complexities in application. There has to be a sensible balance between achieving the most accurate outcome (at least from a strict theoretical GST point of view) and the administration of the law. We consider our approach in linking use or enjoyment with a requisite level of presence of an entity, such as a company, in Australia or overseas, achieves this balance.
+62. Importantly, we also consider that the legislative framework of section 38-190 supports our approach in requiring a certain level of presence in a jurisdiction for a supply to be treated as a supply for consumption by an entity at that place.
+63. Under item 2, if a supply is made and provided to a non-resident company that has no presence in Australia, that supply is GST-free (unless the supply is directly connected with goods situated in Australia or a supply of work physically performed on goods situated in Australia). We determine whether the company has a presence in Australia with reference to jurisdiction tests (refer to paragraphs 229 to 379 of GSTR 2004/7).
+64. In
+Fiduciary Ltd and Ors v Morningstar Research Pty Ltd and Ors
+[2004] NSWSC 381
+(Morningstar Research),
+Gzell J noted, with approval, the Commissioner's adoption of the principles applicable to the presence of a corporation in Australia for jurisdictional purposes to item 2.
+[16]
+His Honour considered that '[b]y using the phrase 'in Australia', parliament invited adoption of the body of law dealing with that which constituted a corporate presence in Australia'.
+[17]
+65. It is therefore consistent with the reasoning in
+Morningstar Research
+to apply a jurisdictional approach to determining if an entity to which a supply is made and provided is in Australia when considering the 'not in Australia' requirement in item 2 and paragraph (a) of item 3.
+66. In our view, if a supply is made to one entity (for example, a company) and provided to another entity (for example, another company), the same presence test should be applied to determine if the supply to that other company is for consumption in Australia. That is, the level of presence relevant for consumption in Australia should not change depending on whether the test is applied to the company the supply is made to or the company the supply is provided to.
+67. On this basis, the level of presence test is consistently applied within and across items 2 and 3 and subsections 38-190(3) and (4).
+Apportionment
+68. A supply (or part of a supply) which otherwise satisfies the requirements of item 3 may be partly GST-free and partly taxable
+[18]
+because of the application of paragraph (b) of item 3.
+69. Apportionment may arise for the purposes of paragraph (b) of item 3 if, for example:
+•
+a supply is partly provided to an entity in Australia and partly provided to an entity outside Australia (see Example 34 of this Ruling)
+•
+a supply is partly provided to an entity in Australia and partly provided to that same entity outside Australia (see Example 35 of this Ruling)
+•
+a supply is made to one entity and is provided to another entity in Australia for part of the time.
+70. In such cases, the effective use or enjoyment of the supply takes place outside Australia to the extent the supply is provided to the entity outside Australia.
+71. To work out the value of the taxable part of the supply, the consideration is apportioned to each of the parts (that is, the GST-free and taxable parts) to find the consideration for the taxable part of the supply. The supplier can use any reasonable method that is supportable in the particular circumstances to apportion the consideration.
+[19]
+72. Apportionment also arises if a supply is provided to an entity in Australia and an entity outside Australia (whether the same entity or a different entity) and it is not possible to identify separate parts of the supply flowing to the entity in Australia and the entity outside Australia.
+[20]
+To work out the value of the taxable part of the supply, it is necessary to apportion the consideration between the GST-free and taxable parts of the supply on some fair and reasonable basis taking into account the particular circumstances of the supply.
+73. The supplier should keep records that explain the method used to apportion a supply.
+[21]
+74. GSTR 2025/1 provides further explanation of when apportionment may be required for:
+•
+a supply provided on a periodic or progressive basis (refer to paragraphs 166 to 168 of GSTR 2025/1 and Example 35 of this Ruling), and
+•
+a supply that is performed over more than one tax period but consideration is paid in earlier tax period (refer to paragraphs 169 to 170 of GSTR 2025/1).
+Item 3 and subsection 38-190(4)
+75. If the recipient of a supply does not satisfy the requirements of paragraph (a) of item 3, subsection 38-190(4) may treat a supply as though it was made to a recipient who is not in Australia when the thing supplied is done. Subsection 38-190(4) recognises, in relation to item 3, (as does subsection 38-190(3) in relation to item 2
+[22]
+), that focusing solely on the location of the entity to which the supply is made does not always produce an outcome consistent with the policy intention to treat as GST-free those supplies that are for consumption outside Australia.
+76. Subject to subsection 38-190(5), subsection 38-190(4) applies to extend the application of paragraph (a) of item 3 if a supply is made to an entity that is in Australia in relation to the supply but is provided to another entity outside Australia. In this circumstance, the supply is taken to be made to a recipient who is not in Australia and therefore satisfies paragraph (a) of item 3.
+[23]
+77. To illustrate the application of subsection 38-190(4), the following 2 examples of the types of supplies provided to another entity outside Australia are given in the EM:
+•
+a supply of mobile phone roaming to an Australian business with an employee overseas, and
+•
+a supply to an Australian business of a training course to be conducted overseas.
+[24]
+78. In each of these examples, the supply is covered by subsection 38-190(4) because the supply is made to a resident entity (the Australian business) but is provided to another entity (the employee or person being trained) outside Australia. The supply is therefore taken to satisfy paragraph (a) of item 3.
+79. Subsection 38-190(4), similar to subsection 38-190(3), is about identifying where a supply is for consumption by reference to the location of an entity other than the recipient.
+[25]
+If subsection 38-190(4) applies, it is the location of the entity to which the supply is provided, not the location of the entity to which the supply is made, that is the basis for identifying whether the supply is for consumption outside Australia.
+80. If paragraph (a) of item 3 is satisfied or is taken to be satisfied because of the application of subsection 38-190(4), it is necessary to consider paragraph (b) of item 3 to determine if the supply is GST-free under item 3.
+81. Subsection 38-190(5) limits the scope of subsection 38-190(4) and applies to supplies of specified services that are made on or after 1 July 2010, but not to supplies to the extent that the supplies relate to a taxable importation made before 1 July 2010.
+82. Subsection 38-190(5) provides that subsection (4) does not apply to any of the following supplies:
+(a)
+a transport of goods within Australia that is part of, or is connected with, the international transport of the goods;
+(b)
+a loading or handling of goods within Australia that is part of, or is connected with, the international transport of the goods;
+(c)
+a service, done within Australia, in relation to the goods that facilitates the international transport of the goods;
+(d)
+insuring transport covered by paragraph (a);
+(e)
+arranging transport covered by paragraph (a), or insurance covered by paragraph (d).
+Item 3 and paragraph 9-25(5)(d)
+83. For a supply to be a taxable supply under section 9-5, one of the requirements is that the supply must be connected with Australia.
+[26]
+84. From 1 July 2017, a supply of anything other than goods or real property (an intangible) is connected with Australia if, among other things, the recipient of the supply is an 'Australian consumer'.
+[27]
+85. The phrase 'Australian consumer' is defined in section 195-1 to have the meaning given by subsection 9-25(7) and affected by section 84-100. Under subsection 9-25(7), an entity is an Australian consumer of a supply made to it if the entity:
+•
+is an Australian resident (other than an entity that is an Australian resident solely because the definition of Australia in the ITAA 1997 includes the external Territories), and
+•
+either
+is not registered
+or
+, if it is registered, does not acquire the thing supplied solely or partly for the purpose of an enterprise that it carries on.
+[28]
+86. This means that all supplies of intangibles made to Australian consumers are connected with Australia regardless of where the thing is done (for example, where the service is performed) and regardless of whether the supplier makes the supply through an enterprise it carries on in Australia.
+87. For example, if an Australian resident receives a haircut while holidaying in Germany, the supply of hairdressing services by the German hairdresser is connected with Australia under paragraph 9-25(5)(d). However, item 3 makes such a supply GST-free because the supply is made to a recipient that is outside Australia when the thing supplied is done, the effective use or enjoyment of the supply is outside Australia and it is neither a supply of work physically performed on goods situated in Australia when the work is done nor a supply directly connected with real property situated in Australia.
+88. It is noted that, in some circumstances, it may be easier for a non-resident who makes a supply to an Australian consumer outside Australia to determine whether the supply is GST-free under item 3 than determine whether the supply meets the requirements of section 9-5.
+89. It is further noted that GST-free supplies made by a non-resident that are not made through an enterprise they carry on in Australia are disregarded for the purpose of working out their current GST turnover and projected GST turnover.
+[29]
+Such supplies are not counted for the purpose of determining whether the non-resident meets the registration turnover threshold and is required to be registered for GST.
+[30]
+Application of paragraph (b) of item 3
+90. Flow charts 1 to 4 of this Ruling illustrate, in broad terms, where paragraph (a) of item 3 is satisfied, the application of paragraph (b) of item 3 to a supply made to an entity that is not in Australia when the thing supplied is done, as explained in this Ruling.
+91. The flow charts should be read in conjunction with the relevant paragraphs in this Ruling and GSTR 2025/1.
+92. Flow chart 1 of this Ruling illustrates how to determine to which entity the supply is provided (the providee) – this is the entity that actually uses or enjoys the supply.
+Flow chart 1: Determining the providee entity – the entity that uses or enjoys the supply
+93. Flow chart 2 of this Ruling illustrates how to determine when effective use or enjoyment of a supply provided to a providee that is a resident individual takes place outside Australia.
+Flow chart 2: The providee is a resident
+individual
+– how to determine whether effective use or enjoyment of the supply takes place outside Australia
+94. Flow chart 3 of this Ruling illustrates how to determine when effective use or enjoyment of a supply provided to a providee that is a non-resident individual takes place outside Australia
+Flow chart 3: The providee is a non-resident individual – how to determine whether effective use or enjoyment of the supply takes place outside Australia
+95. Flow chart 4 of this Ruling illustrates when effective use or enjoyment of a supply provided to a providee that is an entity other than an individual takes place outside Australia.
+Flow chart 4: The providee is a company, partnership, corporate limited partnership or trust – how to determine whether effective use or enjoyment of the supply takes place outside Australia
+Examples
+96. In each of the examples in this Ruling, the requirement in item 3 that the supply is not a supply of work physically performed on goods situated in Australia and is not a supply directly connected with real property situated in Australia are satisfied. This requirement in item 3 (which is also relevant for item 2) is discussed in GSTR 2003/7 and is not further discussed in this Ruling.
+Identifying the providee entity – determining whether effective use or enjoyment takes place outside Australia
+97. Examples 1 and 2 of this Ruling illustrate the importance of understanding the exact nature of the supply by having regard to the facts and circumstances of the supply.
+Example 1 – supply of consultancy services made to a resident company and provided to a resident subsidiary with a presence in Australia and outside Australia
+98.
+An Australian business consultancy firm, OzBiz, is engaged by an Australian parent company, Aus Co, to review the business practices and procedures of its subsidiary entity, Sub Co. At all times during the period over which the service is performed, Sub Co is a resident of Australia and carries on business both in Australia (where it has its head office) and Papua New Guinea (PNG) (where it has a branch office).
+99.
+OzBiz undertakes a separate review of both Sub Co's operations – that is, a review of the head office and a review of the PNG branch office. The aim of each review is to identify areas where efficiency gains and cost savings may be made by Sub Co with respect to its head office operations and its branch office operations. The service is performed over a period of time and culminates in the production of 2 reports, one for the management team of the subsidiary's presence in PNG and one for the management team of the subsidiary's presence in Australia.
+Paragraph (a) of item 3
+100.
+The supply of consultancy services by OzBiz is made to Aus Co, a resident entity that is in Australia when the consultancy services are performed. The supply, therefore, does not satisfy paragraph (a) of item 3, unless subsection 38-190(4) applies.
+Subsection 38-190(4)
+101.
+Paragraph 38-190(4)(a) is satisfied because the supply of consultancy services by OzBiz is a supply under an agreement entered into with a resident entity, Aus Co.
+102.
+What is being supplied is the service of separately reviewing the business procedures and practice of Sub Co's operations in Australia and PNG to achieve efficiency gains and cost savings. The consultancy services are provided to another entity, Sub Co for the purposes of paragraph 38-190(4)(b) because they involve reviewing Sub Co's operations to identify improvements for Sub Co's operations.
+103.
+Sub Co is present both in Australia and outside Australia when the thing supplied is done.
+104.
+To the extent that the supply is for the purposes of Sub Co's presence outside Australia (that is, the PNG branch office), the supply is provided to Sub Co outside Australia. To this extent, subsection 38-190(4) is satisfied and paragraph (a) of item 3 is satisfied.
+105.
+To the extent that the supply is for the purposes of Sub Co's presence in Australia (that is, its Australian head office), the supply is provided to Sub Co in Australia. To this extent, subsection 38-190(4) is not satisfied and paragraph (a) of item 3 is not satisfied.
+Paragraph (b) of item 3
+106.
+To the extent that the supply is for the purposes of Sub Co's presence outside Australia (that is, its PNG branch office), the supply is provided to Sub Co outside Australia and effective use or enjoyment of the supply is by Sub Co and this takes place outside Australia. Therefore, paragraph (b) of item 3 is satisfied.
+Summary
+107.
+The supply by OzBiz is GST-free under item 3 to the extent the supply of consultancy services is provided to Sub Co's presence outside Australia (that is, to the extent the consultancy services are for the purposes of the PNG branch office).
+108.
+The supply by OzBiz is not GST-free under item 3 to the extent the supply is provided to Sub Co's presence in Australia (that is, to the extent the consultancy services are for the purposes of the head office in Australia).
+109. Example 1 of this Ruling is contrasted with Example 2 of this Ruling.
+Example 2 – supply of consultancy services made and provided to a resident company
+110.
+Using the same facts as Example 1 of this Ruling, except that now OzBiz is engaged by Aus Co to review the business practices and procedures of Sub Co to assess compliance by Sub Co with Aus Co's reporting requirements and standards. In these circumstances, the service is made and provided to Aus Co, it is not a service which is provided to Sub Co.
+111.
+As the service is made to Aus Co, which is in Australia when the consultancy services are performed, paragraph (a) of item 3 is not satisfied. As the supply is also provided to Aus Co in Australia, subsection 38-190(4) does not apply to extend the application of paragraph (a) of item 3. Therefore, the supply is not GST-free under item 3.
+112.
+While it is unnecessary to consider paragraph (b) of item 3, it is also not satisfied. The supply is provided to Aus Co. As the supply is for the purposes of Aus Co's presence in Australia, it is therefore provided to Aus Co in Australia and thus effective use or enjoyment of the supply does not take place outside Australia.
+Providee entity is an individual – determining whether effective use or enjoyment of a supply takes place outside Australia
+113. Examples 3 to 12 of this Ruling illustrate how to determine whether effective use or enjoyment of a supply takes place outside Australia where the supply is provided to an individual. They illustrate circumstances where the need for the supply arises from the individual's presence at a particular location.
+Example 3 – supply of legal services to a resident individual physically located outside Australia
+114.
+Jane, an Australian resident, is on holidays in New Zealand and, while there, commits an offence. While in New Zealand, Jane engages an Australian solicitor to supply her with legal services.
+Paragraph (a) of item 3
+115.
+The supply of legal services is made to Jane, who is not physically present in Australia when the thing supplied is done (that is the period during which the legal services are performed). The supply therefore satisfies paragraph (a) of item 3.
+[31]
+Paragraph (b) of item 3
+116.
+The supply of legal services is provided to Jane. The need for the supply of legal services arises from Jane's presence in New Zealand and therefore her presence in New Zealand is integral to the provision of the supply. The legal services are therefore provided to Jane outside Australia and the effective use or enjoyment of the supply of legal services takes place outside Australia. Paragraph (b) of item 3 is satisfied.
+117.
+The supply to Jane is therefore GST-free under item 3.
+Example 4 – third-party engagement of legal services to a resident individual physically located outside Australia
+118.
+Referring to Example 3 of this Ruling, this example explains the outcome if Jane's parents (who are also Australian residents) engage the legal services of the solicitor instead of Jane.
+Paragraph (a) of item 3
+119.
+The supply of the legal services is made to Jane's parents, who are physically present in Australia when the thing supplied is done (that is, the period during which the legal services are performed). The supply does not satisfy paragraph (a) of item 3, unless subsection 38-190(4) applies.
+[32]
+Subsection 38-190(4)
+120.
+Paragraph 38-190(4)(a) is satisfied, as the supply is made under an agreement with resident individuals (Jane's parents).
+121.
+It is then necessary to consider if paragraph 38-190(4)(b) is satisfied. Paragraph 38-190(4)(b) is only satisfied if the supply of legal services is provided to another entity outside Australia.
+122.
+The supply of legal services is provided to Jane. As explained at paragraph 116 of this Ruling, Jane's presence outside Australia is integral to the supply as the need for the supply arises from her presence outside Australia. The supply is therefore provided to Jane, another entity, outside Australia and paragraph 38-190(4)(b) is satisfied. Subsection 38-190(4) applies and the supply of legal services satisfies paragraph (a) of item 3.
+Paragraph (b) of item 3
+123.
+Paragraph (b) of item 3 is satisfied and the supply is therefore GST-free under item 3. See the explanation at paragraph 116 of this Ruling.
+Example 5 – provision of legal services following a resident individual's return to Australia
+124.
+Referring to Examples 3 and 4 of this Ruling, this example explains the outcome where the solicitor continues to provide legal services to Jane following her return to Australia.
+125.
+To the extent the solicitor continues to provide legal services to Jane in relation to this matter after she returns to Australia, the supply of those services does not satisfy either paragraph (a) or (b) of item 3 (irrespective of whether the supply is made to Jane or Jane's parents) and, to that extent, the supply of the legal services is not GST-free. Paragraph (a) of item 3 is not satisfied as Jane (Example 3 of this Ruling) or Jane's parents (Example 4 of this Ruling) are physically in Australia when the service is performed
+[33]
+and subsection 38-190(4) is not satisfied in the case of the supply to Jane's parents (Example 4 of this Ruling). Paragraph (b) of item 3 is not satisfied, as the supply of legal services is provided to Jane in Australia and, to this extent, effective use or enjoyment of the supply does not take place outside Australia. Therefore, to the extent legal services are supplied following Jane's return to Australia, the supply is not GST-free under item 3.
+126. Example 6 of this Ruling illustrates that knowledge of the residency status of an individual to whom the supply is provided is unnecessary if it is clear in any case that a supply is provided to an individual at a particular location.
+Example 6 – supply of foreign tax return preparation services made to a non-resident employer and provided to employees
+127.
+An Australian-resident accounting firm enters into an arrangement with a non-resident company to complete foreign tax returns for the non-resident company's employees working in Australia on secondment with a client of the non-resident company. The non-resident company does not carry on business in Australia through a place of its own or through an agent.
+128.
+Each employee is available to answer questions and to provide necessary information. The returns are completed and signed by each employee while the employee is in Australia.
+Paragraph (a) of item 3
+129.
+The supply of tax return services is made to a non-resident company that is not in Australia when the thing supplied is done (that is the period during which the services of preparing the tax returns are performed).
+[34]
+The supply therefore satisfies paragraph (a) of item 3.
+Paragraph (b) of item 3
+130.
+What is being supplied is the service of preparing the tax returns of the employees. The nature of the service is such that the supply of tax return preparation services is provided, in part, to each employee.
+131.
+Each employee is in Australia when the tax return services are performed. On the facts, their presence in Australia is integral to the provision of the supply. It is not merely coincidental to the provision of the supply. The supply is therefore provided to each employee in Australia.
+132.
+As the supply is provided to each employee in Australia, effective use or enjoyment of the supply does not take place outside Australia. Paragraph (b) of item 3 is not satisfied and the supply is not GST-free under item 3.
+133.
+If the finalised returns are sent to the non-resident company and are on-forwarded to its employees in Australia, this does not alter the nature of the supply and the fact that the supply of tax return preparation services is provided to the employees in Australia for the reasons explained at paragraph 130 of this Ruling.
+134.
+The supply will be GST-free under item 2 if the employees are provided with the tax return services as part of their remuneration and the non-resident makes the acquisition solely for a creditable purpose and it is a non-deductible expense. (Refer to subparagraph 38-190(3)(c)(iii) and GSTR 2025/1).
+135. Example 7 illustrates circumstances where the presence of an individual at a particular location is integral to the performance, receipt or delivery of the supply. It also illustrates that knowledge of the residency status of an individual to whom the supply is provided is unnecessary if it is clear in any case that a supply is provided to an individual at a particular location.
+Example 7 – supply of life coaching services made to a resident company but provided to its employees in New Zealand
+136.
+Aus Co is contracted by a resident company to provide life coaching to high-performing employees at its branch in New Zealand. The purpose of the coaching is to groom employees to take on more senior roles within the New Zealand branch.
+137.
+The life coaching takes place at the employees' workplace in New Zealand. The employees are non-resident individuals. All contact, apart from tasks of a minor administrative nature, is with the New Zealand branch.
+Paragraph (a) of item 3
+138.
+The supply of life coaching services is made to a resident company that is not in Australia in relation to the supply. The supply satisfies the requirements of paragraph (a) of item 3.
+[35]
+Paragraph (b) of item 3
+139.
+The supply is provided to each employee. Therefore, the effective use or enjoyment of the supply takes place outside Australia. Paragraph (b) of item 3 is satisfied. The supply is GST-free under item 3.
+140. Example 8 of this Ruling illustrates the approach where goods from a resident entity are sent to a non-resident individual. This can be contrasted with Example 9 of this Ruling, where the delivery is to the public (individuals) at large.
+Example 8 – supply of transport services made to an Australian-resident company and provided to another entity
+141.
+An Australian exporter sells goods to a Japanese individual on delivered duty paid terms. The exporter is therefore obliged to deliver the goods to the Japanese customer at the named place of destination, Tokyo. The goods are addressed to the Japanese customer. The Japanese customer takes delivery of the goods in Tokyo.
+142.
+The Australian exporter contracts with an Australian airline, Aus Air Freight, to transport the goods from Adelaide to Tokyo. Aus Air Freight contracts with an Australian transport supplier, Aus Transport, to undertake the domestic leg of the transport of the goods from Adelaide to Sydney.
+143.
+Aus Transport supplies Aus Air Freight with domestic transport services. Aus Transport moves the goods from Adelaide to Sydney on behalf of Aus Air Freight.
+144.
+Aus Transport arranges with the Australian exporter a suitable time to pick up the goods. The transport service occurs over the time from picking up the goods in Adelaide to delivery in Sydney.
+Paragraph (a) of item 3
+145.
+The supply of domestic transport services by Aus Transport to Aus Air Freight is a supply made to a resident company that is in Australia in relation to the supply when the transport services are performed. The supply does not satisfy paragraph (a) of item 3 unless subsection 38-190(4) applies.
+[36]
+Subsection 38-190(4)
+146.
+The supply of domestic transport services by Aus Transport to Aus Air Freight is a supply under an agreement entered into with a resident. Paragraph 38-190(4)(a) is therefore satisfied.
+147.
+It is then necessary to consider if paragraph 38-190(4)(b) is satisfied. Under the export sale terms, the Australian exporter is required to provide the Japanese customer with the services of delivering the goods to the customer at the named place of destination, Tokyo. The Australian exporter effects provision of delivery services to the Japanese customer through Aus Air Freight, who in turn subcontracts to Aus Transport, part of the provision of delivery services to the Japanese customer.
+148.
+On these facts, the transport services supplied by Aus Transport to Aus Air Freight are provided to the Japanese customer. Delivery services are required to be provided to the Japanese customer and those services are provided to the customer under various subcontract arrangements.
+149.
+We recognise that Aus Transport may not be aware of the full circumstances of the supply of transport services that it makes to Aus Air Freight. At a practical level, if goods from one entity are addressed for delivery to another entity, we consider that it is reasonable for Aus Transport to conclude that the transport services are provided to the addressee entity.
+150.
+If the Japanese customer is not in Australia when the transport services are performed by Aus Transport, the supply is provided to the Japanese customer outside Australia and paragraph 38-190(4)(b) is satisfied. We also recognise that Aus Transport is unlikely to know the specific whereabouts of the Japanese customer. At a practical level, if the goods are addressed to an entity outside Australia, we consider it is reasonable for Aus Transport to conclude that the transport services are provided to that other entity outside Australia. The supply therefore is provided to another entity, the Japanese customer, outside Australia.
+151.
+Subsection 38-190(4) is satisfied and therefore paragraph (a) of item 3 is satisfied.
+Paragraph (b) of item 3
+152.
+The supply is provided to the Japanese customer. To determine whether effective use or enjoyment of the supply takes place outside Australia, it is necessary to consider if provision of the supply is to the Japanese customer outside Australia.
+153.
+We explain at paragraphs 149 and 150 of this Ruling that for the purposes of paragraph 38-190(4)(b), we consider the supply of delivery or freight services is provided to the Japanese customer outside Australia. Therefore, effective use or enjoyment of the supply of the transport services supplied by Aus Transport takes place outside Australia. Paragraph (b) of item 3 is satisfied. The supply of transport services supplied by Aus Transport is therefore GST-free under item 3 (unless subsection 38-190(5) applies to limit the application of subsection 38-190(4)).
+154.
+From 1 July 2010, supplies of transport of goods within Australia that are connected with, or part of, the international transport of the goods are not GST-free under item 3. This is due to the operation of subsection 38-190(5), which provides that subsection 38-190(4) does not apply in these circumstances. Therefore, as the supply of transport services supplied by Aus Transport to Aus Air Freight is done in Australia in connection with the international transport of the goods, the supply will not be GST-free under item 3. Additionally, the supply by Aus Transport to Aus Air Freight, a resident entity, will not be GST-free under item 5 in subsection 38-355(1) (concerning 'supplies of transport and related matters') as neither paragraph 38-355(2)(a) or (b) applies.
+Example 9 – supply of delivery services made and provided to a resident company
+155.
+Booklovers Inc (a resident company) seeks to distribute advertising material in New Zealand to the public at large. Booklovers Inc contracts with Ace Couriers (another Australian company) to distribute the advertising material on its behalf in New Zealand.
+Paragraph (a) of item 3
+156.
+The supply of delivery services by Ace Couriers is made to a resident company that is in Australia in relation to the supply when the delivery services are performed. The supply does not satisfy the requirements of paragraph (a) of item 3, unless subsection 38-190(4) applies.
+Subsection 38-190(4)
+157.
+Subsection 38-190(4) does not apply. The delivery services are not required to be provided to any entity other than Booklovers Inc. The unsolicited delivery of goods to the public at large is not the provision of delivery services to another entity. The supply of delivery services is therefore made and provided to Booklovers Inc.
+158.
+As subsection 38-190(4) does not apply, the supply does not satisfy paragraph (a) of item 3.
+Paragraph (b) of item 3
+159.
+While it is unnecessary to consider paragraph (b) of item 3, it is also not satisfied. The supply is provided to Booklovers Inc and, as the supply is provided to them for the purposes of its Australian presence, the supply is provided to them in Australia. Therefore, effective use or enjoyment of the supply does not take place outside Australia. Paragraph (b) of item 3 is not satisfied and the supply is not GST-free under item 3.
+160. Examples 10 to 12 of this Ruling illustrate circumstances where the individual's presence at that location when the service is performed is merely coincidental with, and not integral to, the provision of the supply and determining where the supply is effectively used or enjoyed.
+Example 10 – supply of accounting services to a resident individual only coincidentally physically located outside Australia
+161.
+Matt, an Australian resident, engages an accountant to prepare and lodge his tax return. During the time that his tax return is prepared, Matt is overseas on holidays. While overseas, Matt has a couple of phone calls with the accountant concerning deductions.
+Paragraph (a) of item 3
+162.
+The supply of accountancy services by the accountant is made to Matt, who is physically located outside Australia for part of the time when the services are being supplied. To the extent that Matt is physically located outside Australia during the period over which the services are supplied, the supply satisfies paragraph (a) of item 3.
+Paragraph (b) of item 3
+163.
+The supply is provided to Matt and, as he is a resident who is physically located outside Australia during the period when the accounting services are performed, it is necessary to determine if his presence outside Australia is integral to, or merely coincidental with, the supply.
+164.
+In the circumstances of this supply, Matt's presence outside Australia is merely coincidental with the provision of the supply and the phone calls to and from the accountant while he is overseas are merely necessitated by his absence from Australia on holiday.
+165.
+As Matt's presence outside Australia is coincidental with, rather than being integral to, the provision of the supply of accountancy services, the supply is not provided to Matt outside Australia. We therefore consider the supply is provided to Matt in Australia and the effective use or enjoyment of the supply does not take place outside Australia. Paragraph (b) of item 3 is not satisfied and the supply is not GST-free under item 3.
+Example 11 – supply of storage services to a non-resident individual physically located in Australia
+166.
+John, formerly an Australian resident, has goods stored in Brisbane at Aus Lock-up's storage facility. John comes to Australia on holiday and calls in to check on the condition and safety of the goods he has stored at the facility. This supply is one of storage services only. It does not give John an interest in real property and is not therefore a supply of real property to John.
+Paragraph (a) of item 3
+167.
+The supply of storage services by Aus Lock-up is made to John, a non-resident, who is physically located in Australia for part of the time over which the services are supplied. As John is a non-resident and in Australia, it is necessary to consider if he is in Australia in relation to the supply.
+[37]
+John is only in Australia in relation to the supply to the extent that he is in contact with the supplier while in Australia and that contact is not minor. As John is only checking on the condition and safety of his stored goods, he is not in Australia in relation to the supply. Therefore, the supply to John satisfies paragraph (a) of item 3.
+Paragraph (b) of item 3
+168.
+The supply is provided to John. As John is a non-resident who is physically located in Australia for part of the time over which the services are supplied, it is necessary to determine if his presence in Australia is integral to, or merely coincidental with, the supply.
+169.
+John's presence in Australia during part of the period over which the storage services are provided is merely coincidental with the supply of storage services and is not in any way integral to the supply of those services. In these circumstances, John merely takes advantage of being in Australia to check on the condition and safety of his stored goods, this does not make his presence in Australia integral to the supply being provided. As John's presence in Australia is not integral to the provision of the supply, the supply is not provided to him in Australia. We therefore consider the supply is provided to John outside Australia at all times and effective use or enjoyment of the supply continues to take place outside Australia, even though for part of the time he is physically located in Australia. Paragraph (b) of item 3 is satisfied and the supply is GST-free under item 3.
+Alternative view
+170.
+On one view, a supply of storage services in respect of goods situated in Australia is effectively used or enjoyed in Australia. However, we consider that a supply of this kind, even though it involves goods situated in Australia, is for consumption outside Australia if the supply is, for example, made to a non-resident who is not in Australia when the storage services are performed. Our view is supported by the legislative framework of items 2 and 3.
+171.
+Items 2 and 3 specifically address supplies that are connected with goods situated in Australia. The GST-free status of a supply that otherwise satisfies the requirements of items 2 or 3 is negated if the supply is a supply of work physically performed on goods. A supply of storage services in respect of goods in Australia is not a supply of work physically performed on goods.
+[38]
+172.
+It is also relevant that parliament extended the scope of services that are GST-free under these items by substituting the phrase 'a supply of work physically performed on goods situated in Australia' (which does not include a supply of storage services of goods situated in Australia) for 'a supply directly connected with goods situated in Australia' (which would have included a supply of storage services in respect of goods situated in Australia).
+[39]
+173.
+It would be anomalous in our view to deny the GST-free status of a supply under paragraph (b) of item 3 on the basis that the supply has a direct connection with goods in Australia.
+Example 12 – supply of services to an Australian resident who is outside Australia
+174.
+Aus Co is a resident of Australia. Aus Co has been contracted by Anna, a sole trader, to take messages and handle phone calls and mail on her behalf while she is on holiday in France. Aus Co, in effect, operates as the postal address and phone contact for Anna's business while she is on holidays. Aus Co does not otherwise conduct any business on behalf of Anna, it merely forwards messages and phone calls to her in France. Once Anna returns to Australia, the services of Aus Co are no longer required.
+Paragraph (a) of item 3
+175.
+The supply of services by Aus Co is made to Anna, who is physically located outside Australia when the thing supplied is done (that is, the period during which the services are performed). The supply therefore satisfies paragraph (a) of item 3.
+[40]
+Paragraph (b) of item 3
+176.
+The supply of services is provided to Anna. As Anna is a resident of Australia who is outside Australia when the services are performed, it is necessary to determine if her presence outside Australia is integral to the supply provided by Aus Co. Anna has business operations in Australia which must continue to be attended to in her absence and which she needs to keep in touch with while she is on overseas. Thus, her absence from Australia gives rise to the need for services such as handling messages, phone calls and mail. The facts are such that the supply is necessitated by circumstances that arise from her usual presence in Australia and not her presence overseas. As Anna's presence outside Australia is not integral to the supply of the services, the supply is provided to her in Australia. Effective use or enjoyment of the supply does not take place outside Australia.
+177.
+Paragraph (b) of item 3 is not satisfied and the supply to Anna is not GST-free under item 3.
+Providee entity is a company, partnership, corporate limited partnership or trust – determining whether effective use or enjoyment of a supply takes place outside Australia
+178. Examples 13 to 15 of this Ruling illustrate how to determine whether effective use or enjoyment of a supply takes place outside Australia where the supply is provided to a company, partnership, corporate limited partnership or trust.
+Example 13 – supply of consultancy services to a resident charitable organisation with a presence both in Australia and outside Australia
+179.
+Irene is a resident sole trader. She is contracted by a charitable organisation that is incorporated (and thus resident) in Australia. The charitable organisation has a presence both in Australia and outside Australia. Irene is to assist the overseas branch of the organisation with its financial management. Most of the consulting work is carried out by Irene overseas, although some of the reports are written up in Australia.
+180.
+Although the work is partly performed outside Australia, it is nonetheless connected with Australia as it is made through an enterprise that Irene carries on in Australia (paragraph 9-25(5)(b)).
+Paragraph (a) of item 3
+181.
+The supply is made to the charitable organisation that is in Australia, but not in relation to the supply, when the services by Irene are performed. Therefore, the supply satisfies the requirements of paragraph (a) of item 3.
+[41]
+Paragraph (b) of item 3
+182.
+The supply is provided to the charitable organisation. Irene's services are for the purposes of the charitable organisation's branch operations outside Australia. The supply of consulting services by Irene is therefore provided to the charitable organisation outside Australia and the effective use or enjoyment of the supply takes place outside Australia. Paragraph (b) of item 3 is therefore satisfied and the supply is GST-free under item 3.
+Example 14 – supply of consultancy services made by and provided to a resident company
+183.
+Probe Co, a resident company, is contracted by a non-resident company NR Co to provide a composite report and recommendation on the viability of an offshore joint venture project, Project X. Probe Co is required to report on matters including the financial viability of the project, its longevity, the environmental impact and its likely overall success. If Probe Co's report to NR Co is suitably favourable, NR Co may invest in the project.
+184.
+Probe Co contracts Aus Co, another resident company, to undertake the environmental impact study. Aus Co does not provide any reports to NR Co. All reports are provided to Probe Co. The copyright or intellectual property in any reports or work produced by Aus Co belongs to Probe Co. The services by Aus Co are performed both in Australia and outside Australia. Aus Co is directly responsible to Probe Co for the performance of the work. Probe Co has no presence outside Australia.
+Paragraph (a) of item 3
+185.
+The supply of services by Aus Co is made to Probe Co, a resident company that is in Australia in relation to the supply. Therefore, paragraph (a) of item 3 is not satisfied, unless subsection 38-190(4) applies.
+Subsection 38-190(4)
+186.
+Paragraph 38-190(4)(a) is satisfied as the supply by Aus Co is made under an agreement with a resident company, Probe Co.
+187.
+It is then necessary to determine if paragraph 38-190(4)(b) is satisfied. Paragraph 38-190(4)(b) is only satisfied if the supply by Aus Co is provided to another entity outside Australia.
+188.
+The facts state that Aus Co is to review the environmental impact of Project X and is required to provide all reports to Probe Co and is responsible only to Probe Co for the performance of the work. Although the report is ultimately used by Probe Co in providing a composite report and recommendation to NR Co, the supply by Aus Co is not provided to NR Co. The supply is not, therefore, provided to another entity. Subsection 38-190(4) does not apply and thus paragraph (a) of item 3 is not satisfied.
+Paragraph (b) of item 3
+189.
+While it is unnecessary to consider paragraph (b) of item 3, it is also not satisfied. The supply is provided by Aus Co to Probe Co. As the supply of services by Aus Co is provided to Probe Co, which has no presence outside Australia, the supply is provided to Probe Co in Australia. As the supply is provided to Probe Co in Australia, effective use or enjoyment of the supply does not take place outside Australia.
+190.
+The supply is not GST-free under item 3.
+191. Example 15 of this Ruling illustrates the approach where goods from one entity are sent to another entity. This can be contrasted with Example 9 of this Ruling, (paragraphs 155 to 159 of this Ruling) where the delivery is to the public at large.
+Example 15 – supply of transport services made to an Australian resident and provided to an entity outside Australia
+192.
+A resident company, Aus Co, supplies goods to a non-resident company, UK Co. Under the export sale terms, Aus Co is obliged to deliver the goods to UK Co. Aus Co engages a resident transport company, Aus Trans Co, to undertake the international movement of goods from Australia to the United Kingdom. The goods are addressed to UK Co and are to be delivered to UK Co in London.
+193.
+Aus Trans Co subcontracts part of the supply to another Australian-resident transport company, Oz Carriers, to transport the goods from Adelaide to Sydney. The transport of the goods from Australia to London is carried out by Aus Trans Co.
+194.
+Oz Carriers picks up the goods in Adelaide and delivers them to Sydney.
+195.
+Oz Carriers arranges a suitable time with Aus Co to pick up the goods. The transport service occurs over the time from picking up the goods in Adelaide until delivery of the goods to Aus Trans Co in Sydney for Aus Trans Co to then transport the goods on to UK Co.
+Paragraph (a) of item 3
+196.
+Oz Carriers makes a supply of transport services to Aus Trans Co, an entity that is in Australia when the services are performed. The supply does not satisfy the requirements of paragraph (a) of item 3 unless subsection 38-190(4) applies.
+Subsection 38-190(4)
+197.
+The supply of transport services by Oz Carriers is a supply under an agreement entered into with a resident, Aus Trans Co. Paragraph 38-190(4)(a) is therefore satisfied.
+198.
+It is then necessary to determine if paragraph 38-190(4)(b) is satisfied.
+199.
+Under the export sale terms, Aus Co is required to provide UK Co with the services of delivering the goods to UK Co in London. Aus Co effects provision of delivery services to UK Co through Aus Trans Co. Aus Trans Co, in turn, subcontracts part of the provision of delivery services to Oz Carriers.
+200.
+On these facts, the supply of domestic transport services by Oz Carriers to Aus Trans Co is provided to UK Co (the overseas customer) of Aus Co (the exporter). Delivery services are required to be provided to the United Kingdom customer and those services are provided to the customer under various subcontract arrangements.
+201.
+We recognise that Oz Carriers may not be aware of all the circumstances of the supply of transport services that it makes to Aus Trans Co. At a practical level, if goods from one entity are addressed for delivery to another entity, we consider that it is reasonable for Oz Carriers to conclude that the transport services are provided to another entity, in this case, UK Co.
+202.
+UK Co is outside Australia when the transport services are performed. If the transport services are for the purposes of UK Co outside Australia, the supply of transport services is provided to another entity, UK Co, outside Australia.
+203.
+We also recognise that Oz Carriers is unlikely to know whether the transport services are for the purposes of UK Co outside Australia. At a practical level, the goods are addressed to UK Co outside Australia and we therefore consider that it is reasonable for Oz Carriers to conclude that the transport services are provided to UK Co for its purposes outside Australia. Therefore, the supply is provided to another entity outside Australia. (Note: the outcome is the same even if UK Co has a presence in Australia.)
+204.
+Subsection 38-190(4), therefore applies and the supply satisfies paragraph (a) of item 3.
+Paragraph (b) of item 3
+205.
+The supply is provided to UK Co. To determine whether effective use or enjoyment of the supply takes place outside Australia, it is necessary to consider whether provision of the supply is to UK Co in Australia or outside Australia. The supply is provided to UK Co outside Australia if the delivery or freight services are for the purposes of UK Co's presence outside Australia.
+206.
+We explain at paragraphs 146 to 151 of this Ruling, for the purposes of paragraph 38-190(4)(b), that we consider the supply of delivery or freight services are for the purposes of UK Co's presence outside Australia, as the goods are addressed to UK Co outside Australia. Paragraph (b) of item 3 is therefore satisfied and the supply is GST-free under item 3 (unless subsection 38-190(5) applies).
+207.
+From 1 July 2010, supplies of transport of goods within Australia that are connected with, or part of, the international transport of the goods are not GST-free under item 3 due to the operation of subsection 38-190(5). Therefore, as the supply of transport services supplied by Oz Carriers to Aus Trans Co is done in Australia in connection with the international transport of the goods, the supply will not be GST-free under item 3. Additionally, the supply by Oz Carriers to Aus Trans Co, a resident entity, will not be GST-free under item 5 in subsection 38-355(1) as neither paragraph 38-355(2)(a) or (b) applies.
+Further examples
+208. In this section of the Ruling, we provide 2 tables which summarise relevant examples from GSTR 2025/1. In each table, we identify the entity to which the supply is provided and where effective use or enjoyment of the supply takes place (see Columns 3 and 4 respectively). We also set out whether the supply is GST-free under item 3 (and item 2 for comparative purposes) (see Columns 5 and 2 of each table respectively). A supply will be GST-free if it is GST-free under either item 2 or 3, provided the GST-free status is not negated by another subsection. The supply does not need to be GST-free under both items.
+209. Table 1 of this Ruling contains a summary of examples from GSTR 2025/1 where the supply is provided to an individual. For further details of the supply, refer to the specific example in GSTR 2025/1.
+210. Table 2 of this Ruling contains a summary of examples from GSTR 2025/1 where the supply is provided to an entity other than an individual. For further details of the supply, refer to the specific example in GSTR 2025/1.
+Table 1: The supply is provided to an individual
+The supply
+Status of supply under item 2
+Who the supply is provided to
+Where the effective use or enjoyment of the supply takes place
+Status of supply under item 3
+Example 16
+Supply of legal services
+(Example 10 of GSTR 2025/1)
+David, an Australian-resident individual, is arrested and charged with an offence while in New Zealand on holiday. A non-resident contracts with an Australian law firm for the supply of legal services. The legal services are provided to David over a 4-week period, during which he is in New Zealand.
+The need for the supply of legal services arises from David's presence outside Australia, his presence outside Australia is not merely coincidental with the provision of the supply. The supply of legal services is therefore provided to David outside Australia.
+Note: if any legal services are provided to David after his return to Australia, those services are provided to David in Australia. To that extent, the supply will not be GST-free under item 2 (subsection 38-190(3) negates the GST-free status of the supply covered by item 2) or under item 3 (the effective use or enjoyment of the supply does not take place outside Australia).
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+David
+Outside Australia – as the supply is provided to David outside Australia
+GST-free under item 3
+Example 17
+Supply of legal services – barrister engaged by solicitor
+(Example 23 of GSTR 2025/1)
+An Australian solicitor, as agent for a non-resident individual, engages an Australian barrister to supply legal services to a non-resident individual on an immigration matter. The individual is not in Australia when the legal services by the barrister are performed and the supply is not directly connected with real property situated in Australia.
+The supply of legal services by the barrister to the non-resident individual is both made and provided to the non-resident, through the solicitor as agent for the non-resident. As the non-resident individual is not in Australia when the services are performed, the supply of legal services by the barrister is provided to the individual outside Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Non-resident individual
+Outside Australia – as the supply by the barrister is provided to the individual outside Australia
+GST-free under item 3
+Example 18
+Supply of entertainment
+(Example 11 of GSTR 2025/1)
+A UK non-resident employer purchases a ticket from a supplier in Australia for his employee in Australia to attend a football match in Melbourne. The employee is a non-resident individual who is temporarily in Australia for work purposes.
+The non-resident employer does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf. The non-resident employer does not have pay as you go (PAYG) withholding obligations in Australia or obligations under the Fringe Benefits Tax Assessment Act 1986.
+The employee is the entity that attends the football match and who is entertained. The supply, although made to the employer, is provided to the employee.
+As the employee's presence in Australia is integral to the performance of the supply of entertainment services, the supply is provided to the individual in Australia.
+Not GST-free under item 2 – as subsection 38-190(3) negates the GST-free status under item 2
+The employee
+Not outside Australia – as the supply is provided to the employee in Australia
+Not GST-free under item 3
+Example 19
+Supply of training
+(Example 19 of GSTR 2025/1)
+An Australian flight school contracts with a non-resident airline company (that has no presence in Australia) to provide training in Australia to employees of the non-resident company. The employees, who are non-resident individuals from China, attend the training in Australia.
+What is being supplied is the teaching and tutoring of the employees of the non-resident airline company. It is in the nature of such training services that it is the individuals that are trained, rather than the individuals' employer, and it is therefore the individual who is provided with the training. These services are of a kind that can only be provided to the employee. The supply is therefore made to the non-resident employer but is provided to its employees.
+The employee pilots are required to physically attend training in Australia. As the employee's presence in Australia is integral to the performance of the training, the supply is provided to the employees in Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Each employee
+Not outside Australia – as the supply is provided to the employees in Australia
+Not GST-free under item 3
+Example 20
+Supply of training
+(Example 20 of GSTR 2025/1)
+The Australian-based flight training school in Example 19 of GSTR 2025/1 also agrees with the non-resident airline to train the employees of the non-resident airline's Australian subsidiary. The employees attend the training in Australia.
+What is being supplied is the teaching and tutoring of the employees of the Australian subsidiary. It is in the nature of such training services that it is the individuals that are trained, rather than the individuals' employer, and it is therefore the individuals who are provided with the training. These services are of a kind that can only be provided to the employees. The flow of the actual services of teaching and tutoring is to the employees and not to the non-resident airline company or the Australian subsidiary. The supply is provided to other entities, being the employees.
+The employee pilots are required to physically attend training in Australia. As their presence in Australia is integral to the performance of the supply, the supply is provided to the employees in Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Each employee
+Not outside Australia – as the supply is provided to the employees in Australia
+Not GST-free under item 3
+Example 21
+Supply of training
+(Example 24 of GSTR 2025/1)
+A partner in a non-resident partnership contracts, on behalf of the partnership, for the supply of training to all newly appointed partners. The training is supplied by a training company through an enterprise it carries on in Australia and is conducted in Australia. The non-resident partnership does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf.
+The training company confirms, through negotiating the terms of the supply, that the participants in the training are partners of the partnership, which carries on an enterprise outside Australia.
+The training services are provided to each partner as the partners are the persons that are trained. As the partners are required to physically attend training in Australia and their presence in Australia is integral to the performance of the supply, the supply is provided to each partner in Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Each partner
+Not outside Australia – as the supply is provided to the partner in Australia
+Not GST-free under item 3
+Example 22
+Supply of delivery services
+(Example 15 of GSTR 2025/1)
+Kate, an individual in Australia who does not carry on an enterprise, purchases a book over the internet from Booklovers Inc. They offer a delivery service for a small extra charge, of which Kate avails herself. Booklovers Inc engages Ace Couriers to deliver the book to Kate. Booklovers Inc is a non-resident company which does not carry on business in Australia, either through a place of business of its own or through an agent acting on its behalf.
+The supply of delivery services by Ace Couriers is made to Booklovers Inc but is provided to Kate. At a practical level, the goods are addressed to Kate in Australia and we therefore consider that it is reasonable for Ace Couriers to conclude that the transport services are provided to Kate in Australia.
+Not GST-free under item 2 – as subsection 38-190(3) negates the GST-free status under item 2
+Kate
+Not outside Australia – as the supply is provided to Kate in Australia
+Not GST-free under item 3
+Example 23
+Repair services to a rental property
+(Example 4 of GSTR 2025/1)
+Angela is a non-resident individual who owns a residential apartment in Australia which is currently being rented. Angela's real estate agent advises her that the air conditioner needs repairing. Angela authorises the repairs, which the agent arranges. Angela is not physically located in Australia at any time during which the repair services are performed. Angela is not registered or required to be registered for GST.
+The supply of the repair services are made and provided to Angela, a non-resident who is not in Australia when the repair services are performed. As landlord, it is Angela's responsibility to maintain the apartment and all inclusions in good repair. While the tenant may subsequently benefit from the supply of the repair services, this does not alter the nature of the supply and the fact that the supply is not provided to the tenant. (The supply is also not provided to the agent who merely arranges for the supply to be made to Angela.)
+However, note that subsection 38-190(2A) may apply to this supply. Where subsection 38-190(2A) applies, although covered by item 2, the supply will not be GST-free. As the supply by Angela is of the leasing of residential premises, which is an input taxed supply, and the acquisition of the repair services relates to the making of that supply, the GST-free status of the supply is negated by subsection 38-190(2A) if the supply of the repair services was made on or after 1 April 2005. If the supply of the repair services was made before 1 April 2005, subsection 38-190(2A) does not negate the GST-free status of the supply.
+Not GST-free under item 2 – for supplies made on or after 1 April 2005 – as subsection 38-190(2A) applies and negates the GST-free status under item 2
+GST-free – for supplies made before 1 April 2005 – as subsection 38-190(3) does not negate the GST-free status under item 2.
+(While paragraph (a) of item 2 is not satisfied, paragraph (b) of item 2 is satisfied.)
+Angela
+Outside Australia – as the supply is provided to Angela outside Australia
+Not GST-free under item 3 – as the supply is either a supply of work physically performed on goods situated in Australia or a supply directly connected with real property, the requirements of item 3 are not satisfied.
+Table 2: The supply is provided to a company, partnership, corporate limited partnership or trust
+The supply
+Status of supply under item 2
+Who the supply is provided to
+Where the effective use or enjoyment of the supply takes place
+Status of supply under item 3
+Example 24
+Supply of technical support services
+(Example 1 of GSTR 2025/1)
+Aus Co is a subsidiary of US Co. Aus Co is contracted by US Co to provide technical support services, in relation to software licensed by US Co, to consumers in Australia. The actual flow of the technical support services is to the Australian consumers. Therefore, the supply by Aus Co is made to US Co but is provided to the consumers in Australia.
+The consumers are in Australia when the service is performed. The supply of technical support services is for their private purposes in Australia. The supply is therefore provided to the consumers in Australia.
+Not GST-free under item 2 – as subsection 38-190(3) negates the GST-free status under item 2
+The consumers
+Not outside Australia – as the supply is provided to the consumers in Australia
+Not GST-free under item 3
+Example 25
+Supply of audit services
+(Example 2 of GSTR 2025/1)
+A non-resident US parent company contracts with an Australian accounting firm to audit its GST-registered subsidiary in Australia. The non-resident US parent company does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf.
+What is being supplied is an audit service effecting compliance by the Australian subsidiary with its obligations under the corporation laws of Australia. The actual flow of the audit service is to another entity, the Australian subsidiary.
+The Australian subsidiary is in Australia when the audit service is performed. As the supply of audit services is for the purposes of the Australian subsidiary, the supply is provided to that entity in Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Australian subsidiary
+Not outside Australia – as the supply is provided to the Australian subsidiary in Australia
+Not GST-free under item 3
+Example 26
+Supply of audit services
+(Example 3 of GSTR 2025/1)
+A non-resident US parent company contracts with an Australian accounting firm to audit its GST-registered subsidiary in Australia. The non-resident US parent company does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf.
+What is being supplied is an audit service effecting compliance by the non-resident US parent company with its reporting obligations in the US. The actual flow of the audit service is to the US parent company, not the Australian subsidiary which is the subject of the audit. The supply is therefore provided to the US parent company.
+The supply of audit services is provided to the US parent company, which has no presence in Australia. The supply is therefore provided to that entity outside Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+US parent company
+Outside Australia – as the supply is provided to the US parent company outside Australia
+Not GST-free under item 3
+Example 27
+Supply of legal services
+(Example 25 of GSTR 2025/1)
+A non-resident partnership is contemplating the acquisition of commercial real property in Australia. The partnership does not carry on any business activities in Australia, so one of the partners comes to Australia to engage and consult with the Australian law firm about the proposed acquisition and is in Australia when the supply of legal services is performed. As the advice concerns the business affairs of the partnership, the supply is provided to the partnership (not the partner).
+As the supply is provided to the partnership which does not have a presence in Australia, the supply is provided to the partnership outside Australia (even though one of the partners is in Australia when the thing supplied is done).
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Non-resident partnership
+Takes place outside Australia – as the supply is provided to the non-resident partnership outside Australia
+GST-free under item 3
+Example 28
+Supply of customs advice
+(Example 16 of GSTR 2025/1)
+A non-resident parent company contracts with a customs specialist for the provision of customs advice in relation to operations in the Asia-Pacific region. The non-resident company does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf. The customs specialist makes the supply through an enterprise it carries on in Australia.
+The non-resident company has a GST-registered Australian subsidiary with a branch in Malaysia. The branch operates an import and export business in Kuala Lumpur. The customs specialist provides advice to the Malaysian branch on aspects of new import restrictions recently introduced in Malaysia.
+The advice is about import restrictions impacting on the Malaysian operations of the Australian subsidiary. The supply is provided to another entity, being the Australian subsidiary. While the Australian subsidiary is in Australia when the services are performed, the advice is for the purposes of its Malaysian branch. The supply is therefore provided to the Australian subsidiary outside Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Australian subsidiary
+Outside Australia – as the supply is provided to the Australian subsidiary outside Australia
+GST-free under item 3
+Example 29
+Supply of speaking services
+(Example 6 of GSTR 2025/1)
+An Australian software expert is engaged by a non-resident company to promote and market its new software product at various seminars throughout Australia. The seminars are pitched to existing and potential customers. The non-resident software company does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf.
+The nature of the service is not the professional development of members of the audience. Rather, it is promoting and marketing a new product – that is, the new software of the non-resident software company to potential customers. While knowledge and information about the software capabilities flow to the audience members, this is only a by-product of the supply of speaking services and does not alter the true nature of the service – that is, the promotion and marketing of the new software.
+The supply by the software expert is made and provided to the non-resident company, which has no presence in Australia. The supply is therefore provided to the non-resident company outside Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Non-resident company
+Outside Australia – as the supply is provided to the non-resident company outside Australia
+GST-free under item 3
+Example 30
+Supply of phone booking services
+(Example 7 of GSTR 2025/1)
+Aus Bookings Co is contracted by Trans-Europe Railways Co (a non-resident company) to operate a phone bookings centre in Australia. Trans-Europe Railways Co does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf.
+[42]
+The phone service is operated for Trans-Europe Railways Co so that it can take bookings from customers in Australia. The customers get information and other benefits, such as their travel booked, by calling Aus Bookings Co. However, the customers are not provided with the service of operating a bookings and enquiries service. This service is provided to Trans-Europe Railways Co.
+The supply by Aus Bookings Co is made and provided to Trans-Europe Railways Co, which has no presence in Australia.
+[43]
+The supply is therefore provided to Trans-Europe Railways Co outside Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Trans-Europe
+Outside Australia – as the supply is provided to Trans-Europe outside Australia
+GST-free under item 3
+Example 31
+Supply of stevedoring services
+(Example 22 of GSTR 2025/1)
+A non-resident shipping company contracts an Australian stevedore company to load and unload its ships when in Australian ports. Some of the employees of the shipping company are present to facilitate the process of loading and unloading the ship. The non-resident shipping company does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf.
+It is the ships of the non-resident shipping company that are loaded or unloaded. The supply by the Australian stevedore company is made and provided to the non-resident shipping company, which has no presence in Australia. The supply is therefore provided to the non-resident shipping company outside Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Non-resident shipping company
+Outside Australia – as the supply is provided to the non-resident shipping company outside Australia
+GST-free under item 3
+Example 32
+Supply of assembly services
+(Example 9 of GSTR 2025/1)
+UK Co sells furniture as an assembled unit to customers in Australia. However, to lower costs it has the furniture assembled by Aus Engineering once it arrives in Australia. UK Co does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf.
+The assembly is undertaken on behalf of UK Co as the goods are sold as assembled goods to the customers in Australia.
+The supply by Aus Engineering is made and provided to UK Co, which has no presence in Australia. The supply is therefore provided to UK Co outside Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+UK Co
+Outside Australia – as the supply is provided to UK Co outside Australia
+GST-free under item 3
+Example 33
+Supply of transport services
+(Example 17 of GSTR 2025/1)
+A non-resident company, UK Co, supplies goods on a delivered duty paid basis to an Australian customer, Oz Co. UK Co contracts with UK Trans Co to deliver those goods to Oz Co in Australia. Neither UK Co nor UK Trans Co carries on business in Australia through a place of business of its own or through an agent acting on its behalf.
+Oz Co is registered for GST, carries on an enterprise in Australia and does not acquire the delivery services for a private or domestic purpose.
+UK Trans Co engages Aus Transport to transport the goods on the domestic leg from Sydney to Adelaide.
+The supply by Aus Transport is made to UK Trans Co but is provided to Oz Co. At a practical level, the goods are addressed to Oz Co in Australia and we therefore consider that it is reasonable for Aus Transport to conclude that the transport services are provided to Oz Co for its purposes in Australia.
+[44]
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Oz Co
+Not outside Australia – as the supply is provided to Oz Co in Australia
+Not GST-free under item 3
+Apportionment
+211. Examples 34 and 35 of this Ruling illustrate the requirement for apportionment of a supply if effective use or enjoyment of a supply takes place partly in Australia and partly outside Australia.
+Example 34 – supply provided in part to a non-resident subsidiary and in part to an Australian subsidiary
+212.
+NZ Co is a non-resident parent company which has a subsidiary company in Australia and a subsidiary company in New Zealand. NZ Co does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf. The New Zealand and Australian subsidiary entities have no presence outside of New Zealand and Australia respectively. The Australian subsidiary is not registered or required to be registered for GST.
+213.
+The non-resident parent company engages an Australian management consultant company, AMC Pty Ltd, to assist each subsidiary company in restructuring its operations. The restructuring operations are required by each subsidiary to achieve cost savings and efficiency gains.
+Paragraph (a) of item 3
+214.
+The supply of management consultancy services by AMC is made to NZ Co, a non-resident company that is not in Australia when the consultancy services are performed. The supply satisfies the requirements of paragraph (a) of item 3.
+Paragraph (b) of item 3
+215.
+The consultancy work is undertaken by the consultant with each of the subsidiaries. The management consultant consults with each subsidiary in turn to restructure its operations to effect cost savings and efficiency gains.
+216.
+The nature of the service is such that the supply is provided to each subsidiary. The actual flow of the services is to each subsidiary. The supply is, therefore, provided to each subsidiary (not the non-resident parent company).
+217.
+The New Zealand subsidiary is not in Australia and therefore the services are not provided to that subsidiary in Australia. Effective use or enjoyment of the supply therefore takes place outside Australia to the extent the supply is provided to the New Zealand subsidiary.
+218.
+The Australian subsidiary is in Australia when the services are performed. The services are provided to that subsidiary in Australia. Effective use or enjoyment of the supply therefore takes place in Australia to the extent the supply is provided to the Australian subsidiary.
+219.
+Therefore, the supply is GST-free under item 3 to the extent that the supply is provided to the New Zealand subsidiary. The supply is not GST-free under item 3 to the extent that it is provided to the Australian subsidiary.
+220.
+The consideration for the supply is required to be apportioned between the GST-free part of the supply (that part of the supply which is provided to the New Zealand subsidiary) and the taxable
+[45]
+part of the supply (that part of the supply which is provided to the Australian subsidiary).
+221. This is the same result that occurs for the supply under item 2 and subsection 38-190(3). Refer to Example 26 of GSTR 2025/1.
+Example 35 – supply provided to a non-resident individual in Australia for part of the time when legal services are performed
+222.
+William, an English tourist, is injured while on holidays in Australia. While in Australia recovering from his injuries, William's parents (who are non-residents) engage Simon, a solicitor, to seek compensation on behalf of William.
+223.
+The case takes 3 months to finalise. During the first month (April 2005), William is in Australia in hospital. Simon visits William in hospital to discuss his case. Simon commences action on behalf of William, who returns home to England at the end of the first month. Subsequently, William travels to Australia to attend a mediation conference on 20 June 2005. William meets with Simon prior to and after the conference. The meetings and the conference take place over a period of 5 days. The matter is settled as a result of the conference.
+224.
+Simon's hourly rate is $200 plus GST (if any) and he bills clients on a monthly basis for work done during the month. He accounts for GST quarterly and on a cash basis.
+225.
+Simon receives the following payments for his services to William:
+Table 3: Facts relating to Example 35 of this Ruling
+Payment date
+Amount
+Hours billed
+5 May 2005
+(for services provided in April 2005 while William was in Australia)
+$7,480
+(including $680 GST payable)
+34
+(34 hours attributable to period supply is provided to William in Australia)
+7 June 2005
+(for services provided in May 2005)
+$2,600
+(no GST payable)
+13
+10 July 2005
+(for services provided in June 2005 for which William was in Australia for part of the time)
+$2,100
+(including $100 GST)
+10
+(5 hours attributable to period supply is provided to William in Australia)
+Paragraph (a) of item 3
+226.
+The supply of legal services is made to non-residents (William's parents) who are not in Australia when the services are performed. The supply satisfies the requirements of paragraph (a) of item 3.
+Paragraph (b) of item 3
+227.
+What is being supplied is a service of seeking on William's behalf, being compensation resulting from an accident in Australia. The nature of the service is such that the supply is provided to William.
+228.
+William is a non-resident individual who is in Australia for part of the time when the service is performed. During this period, the supply is provided to William in Australia and the effective use or enjoyment of the supply does not take place outside Australia. To this extent, paragraph (b) of item 3 is not satisfied and the supply is not GST-free under item 3.
+229.
+Once William returns to England, the supply is provided to him outside Australia and the effective use or enjoyment of the supply takes place outside Australia. To this extent, paragraph (b) of item 3 is satisfied and the supply is GST-free under item 3.
+230.
+The consideration for the supply is required to be apportioned between the GST-free part of the supply (that part of the supply which is provided to William when he is in England) and the taxable part of the supply which is provided to him while he is in Australia).
+231.
+As Simon accounts for GST on a cash basis, GST payable on the supply of legal services is attributable to a tax period to the extent that consideration is received in that tax period. Therefore, the consideration received in a quarterly tax period for the supply of the legal services must be apportioned on a reasonable basis to the extent that the supply is provided to William in Australia during that quarterly tax period.
+Quarterly tax period ended 30 June 2005
+232.
+As a result of the accident in Australia, William's need for the supply of legal services arises in Australia. The supply is therefore provided to William in Australia to the extent that he is physically in Australia when the services are performed. During April 2005, the supply is therefore provided to William in Australia. To this extent, effective use or enjoyment of the supply does not take place outside Australia and is not GST-free under item 3. The supply is not, however, provided to William in Australia to the extent that he is not physically located in Australia (that is, May 2005). To this extent, effective use or enjoyment of the supply takes place outside Australia and is GST-free under item 3. Therefore, the supply performed in the quarterly tax period ending 30 June 2005 is partly taxable and partly GST-free.
+233.
+The circumstances of this supply are such that a time basis is a reasonable basis on which to apportion the consideration – that is, using the hours billed for legal services provided to William in Australia (34 hours) as a proportion of the total hours billed for legal services provided to him for that quarterly tax period (47 hours – that is, 34 hours billed in May 2005 + 13 hours billed in June 2005) to work out the value of the taxable part of the supply.
+234.
+The GST attributable to the quarterly tax period ended 30 June 2005 is calculated as follows:
+Value of the taxable part: (34* ÷ 47**) − $9,400*** = $6,800
+GST payable: $6,800 − 10% = $680
+Consideration payable: $9,400 + $680 = $10,080
+Where:
+•
+* is the number of hours billed during the period for legal services provided to William in Australia and to which the consideration received relates (that is, for services provided in April 2005 for which consideration was received on 5 May 2005)
+•
+** is the total number of hours billed in the quarterly tax period to which the consideration relates (that is, for services provided in April and May 2005 for which consideration was received on 5 May 2005 and 7 June 2005 respectively)
+•
+*** is the total consideration (excluding GST) received from William in the quarterly tax period ending 30 June 2005 (that is, 47 hours − $200).
+Quarterly tax period ended 30 September 2005
+235.
+There is also GST payable on the supply for the quarterly tax period ended 30 September 2005. The consideration received in that tax period includes consideration for services that are performed when William is in Australia. The supply is taxable to the extent that the supply is provided to William in Australia. To work out the value of the taxable part of the supply, it is necessary to apportion the consideration on a reasonable basis.
+236.
+As William is in Australia and his presence is integral to the provision of the supply, it is considered that the supply is provided to him in Australia for 5 days. To this extent, effective use or enjoyment of the supply does not take place outside Australia and is not GST-free under item 3. The part of the supply performed during this time is therefore the taxable part of the supply. The circumstances of this supply are such that a time basis is a reasonable basis on which to apportion the consideration – that is, using the hours billed for legal services provided to William in Australia (5 hours) as a proportion of the total hours billed for legal services provided to him for that quarterly tax period (10 hours) to work out the value of the taxable part of the supply.
+237.
+The GST attributable to the quarterly tax period ended 30 September 2005 is calculated as follows:
+Value of the taxable part: (5* ÷ 10**) − $2,000*** = $1,000
+GST payable: $1,000 − 10% = $100
+Consideration payable: $2,000 + $100 = $2,100
+Where:
+•
+* is the number of hours billed during the period for legal services provided to William in Australia and to which the consideration received relates
+•
+** is the total number of hours billed in the quarterly tax period to which the consideration relates
+•
+*** is the total consideration (excluding GST) received from William in the quarterly tax period ending 30 September 2005 (that is, 10 hours × $200).
+Item 3 and paragraph 9-25(5)(d)
+Example 36 – supply made and provided to an Australian resident who is temporarily living outside Australia
+238.
+Ticket Co is a non-resident event ticketing company based in the UK. Ticket Co does not carry on business in Australia either through a place of its own or through an agent acting on its behalf.
+239.
+Ticket Co is selling tickets to a concert by the famous singer Sweeler Teft.
+240.
+Elle is an Australian resident currently temporarily living in London who is not registered for GST. Elle purchases a ticket from Ticket Co and attends the concert.
+241.
+The supply by Ticket Co is connected with Australia under paragraph 9-25(5)(d) because it is made to an Australian consumer.
+Paragraph (a) of item 3
+242.
+The supply is made to Elle who is not physically present in Australia when the thing supplied is done. The supply therefore satisfies paragraph (a) of item 3.
+Paragraph (b) of item 3
+243.
+The supply is provided to Elle, whose presence outside Australia is integral to, as distinct from being merely coincidental with, the provision of the supply. The supply is therefore provided to Elle outside Australia and the effective use or enjoyment of the supply takes place outside Australia. Paragraph (b) of item 3 is satisfied.
+244. Example 37 of this Ruling illustrates the application of item 3 to subcontract arrangements.
+[46]
+Example 37 – supply of training services made to a non-resident company and provided to another non-resident employee, in Australia
+245.
+An Australian entity, Aus Co (first supplier), enters into an agreement with a non-resident company to provide its employees with management training and occupational health and safety training. Aus Co subcontracts the management component of the training to another Australian entity, Management Training Inc (second supplier). The employees of the non-resident company attend the training in Australia.
+246.
+The non-resident company does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf.
+Supply by Aus Co made to the non-resident company but provided to its employees
+Paragraph (a) of item 3
+247.
+A supply of training services (the occupational health and safety training component and the management component) is made by Aus Co to a non-resident company that is not in Australia when the thing supplied is done. Therefore, the supply by Aus Co satisfies paragraph (a) of item 3.
+Paragraph (b) of item 3
+248.
+While the supply of training services is made to the non-resident company, it is provided to its employees who attend the training. Although Aus Co only provides part of the training itself (having subcontracted the management training to Management Training Inc), Aus Co provides, or is required to provide, the occupational health and safety training and the management training to the employees of the non-resident company in Australia. As the training is provided, or is required to be provided, to the employees in Australia, effective use or enjoyment of the supply does not take place outside Australia. Paragraph (b) of item 3 is not satisfied and the supply by Aus Co to the non-resident company is not GST-free under item 3.
+249.
+The supply by Aus Co will, however, be GST-free under item 2. The supply is covered by item 2 as it is made to a non-resident who is not in Australia when the thing supplied is done, who makes the acquisition in carrying on its enterprise, but who is not registered or required to be registered. The GST-free status is not negated by subsection 38-190(3) as subparagraph 38-190(3)(c)(iii) applies. Refer to paragraphs 136 to 159 and Example 19 of GSTR 2025/1.
+Supply by Management Training Inc made to Aus Co but provided to employees of the non-resident company
+Paragraph (a) of item 3 and subsection 38-190(4)
+250.
+A supply of management training services is made by Management Training Inc to Aus Co. As the supply by Management Training Inc is made to a recipient (Aus Co) who is in Australia when the thing supplied is done, the supply by Management Training Inc does not satisfy the requirements of paragraph (a) of item 3 unless subsection 38-190(4) applies to extend the application of paragraph (a) of item 3.
+251.
+The supply of training services by Management Training Inc is a supply under an agreement entered into with a resident entity, being Aus Co. Paragraph 38-190(4)(a) is therefore satisfied.
+252.
+It is then necessary to consider if paragraph 38-190(4)(b) is satisfied.
+253.
+The training services are provided, or are required to be provided to another entity, the employees. The employees are required to attend the training in Australia and therefore, those services are provided to the employees in Australia. Paragraph 38-190(4)(b) is therefore not satisfied. Consequently paragraph (a) of item 3 is not taken to be satisfied and therefore the supply is not GST-free under item 3.
+Paragraph (b) of item 3
+254.
+While it is unnecessary to consider paragraph (b) of item 3, it is also not satisfied. As the training is provided to the employees in Australia, effective use or enjoyment of the supply does not take place outside Australia.
+255.
+The supply by Management Training Inc will not be GST-free under item 2 either. The supply is not a supply covered by item 2 as not made to a non-resident. Refer to paragraphs 37 to 43 of GSTR 2025/1.
+256. Examples 29 and 30 of GSTR 2025/1 are summarised in Tables 4 and 5 of this Ruling (Examples 38 and 39 of this Ruling) and we illustrate the GST treatment of these supplies under item 2 and item 3 for comparison purposes. It can be seen that the GST outcome under some of these items is not the same.
+Table 4: Example 38 – supply of accounting services to a non-resident entity subcontracted to another supplier
+The supply
+Status of supply under item 2
+Who the supply is provided to
+Where the effective use or enjoyment of the supply takes place
+Status of supply under item 3
+Example 38
+Supply of accounting services to a non-resident entity subcontracted to another supplier
+(Example 29 of GSTR 2025/1)
+A non-resident company contracts with an Australian accounting firm for the supply of accounting services.
+The accounting services are required under the agreement to be provided to the GST-registered Australian subsidiary of the non-resident company.
+The non-resident does not carry on business in Australia either through a place of business of its own or through an agent acting on its behalf.
+The Australian accounting firm subcontracts with another Australian supplier to provide the accounting services to the Australian subsidiary.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Australian subsidiary – as the accounting services are required to be provided to the Australian subsidiary
+Not outside Australia as the supply is provided to the Australian subsidiary in Australia
+Not GST-free under item 3
+257.
+The facts of Example 39 of this Ruling (per Example 30 of GSTR 2025/1) are that an events organiser in Australia agrees with a non-resident parent (an individual) to supply arranging services for the non-resident's son's forthcoming wedding in Australia.
+258.
+The events organiser has dealt with Aus Design in the past and arranges for contracts to be made between Aus Design and the non-resident parent for the supply of the design services for the wedding invitations.
+Table 5: Example 39 – supply of an arranging service to a non-resident entity
+The exact nature of the supply
+Status of supply under item 2
+Who the supply is provided to
+Where the effective use or enjoyment of the supply takes place
+Status of supply under item 3
+Example 39
+Supply by the Australian events organiser to the non-resident parent
+The Australian events organiser has dealt with Aus Design in the past and arranges for contracts to be made between Aus Design and the non-resident parent. Under this contract, Aus Design is required to provide design services for the wedding invitations to the non-resident's son in Australia.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Non-resident parent
+Outside Australia – as the supply is provided to the non-resident parent outside Australia
+GST-free under item 3
+Supply by Aus Design to the non-resident parent
+Aus Design supplies design services to the non-resident parent under an agreement entered into with the non-resident parent but liaises with the son in Australia in relation to all aspects of the service.
+Taxable – as subsection 38-190(3) negates the GST-free status under item 2
+Non-resident's son
+Not outside Australia as the supply is provided to the non-resident's son in Australia
+Taxable
+259. Example 40 of this Ruling illustrates the application of item 3 to global supplies.
+[47]
+Example 40 – supply of global audit services made to an Australian resident
+260.
+An Australian-resident parent company, Aus Co, engages an Australian accounting firm, Aus Accounting, to supply audit services to the world-wide company group. Aus Accounting charges Aus Co on a monthly basis for services rendered in the immediately preceding month.
+261.
+US Sub, a United States subsidiary of Aus Co, requires audit services – in particular a due diligence service for a possible business acquisition. Aus Accounting contracts with a US accounting firm for the provision of audit services to the US Sub.
+262.
+Neither US Sub nor the US accounting firm carry on business in Australia through a place of business of its own or through an agent acting on its behalf.
+263.
+The facts of Example 40 of this Ruling are illustrated in Diagram 1 of this Ruling:
+Diagram 1: Facts for Example 40
+264.
+Aus Co is billed by Aus Accounting for the audit services provided to the US Sub. Aus Co charges US Sub for the cost of the audit.
+Supply by Aus Accounting to Aus Co
+265.
+Aus Accounting is engaged to provide audit services to the worldwide group of Aus Co. Aus Accounting has affiliates throughout the world with the expertise to carry out country-specific audits. As and when a foreign subsidiary requires audit services, Aus Accounting subcontracts the performance of that service to an affiliate in the relevant foreign country.
+Nature of the supply by Aus Accounting to Aus Co
+266.
+The nature of the supply by Aus Accounting to Aus Co is a service. Aus Accounting is engaged to supply audit services. The exact nature of the supply depends on the facts and circumstances of the particular audit. In this example, a due diligence service is to be carried out for US Sub.
+267.
+The fact that Aus Accounting subcontracts this part of the audit service to another supplier, US Accounting, does not alter the nature of the service supplied by Aus Accounting to Aus Co. The supply remains the supply of audit services.
+Paragraph (a) of item 3
+268.
+The supply of audit services by Aus Accounting is made to Aus Co, a resident entity that is in Australia when the audit services are performed. The supply does not therefore satisfy paragraph (a) of item 3 unless subsection 38-190(4) applies.
+Subsection 38-190(4)
+269.
+The supply of audit services by Aus Accounting to Aus Co is a supply under an agreement entered into with a resident. Paragraph 38-190(4)(a) is therefore satisfied.
+270.
+It is then necessary to determine if paragraph 38-190(4)(b) is satisfied.
+271.
+What is being supplied is the service of auditing a business as part of a due diligence being carried out by US Sub. The due diligence service is required to be provided to US Sub, another entity.
+272.
+As US Sub has no presence in Australia, the supply is provided to that entity outside Australia.
+273.
+Subsection 38-190(4) is therefore satisfied and the supply by Aus Accounting to Aus Co is taken to be a supply made to a recipient who is not in Australia. Paragraph (a) of item 3 is therefore satisfied by the operation of subsection 38-190(4).
+274.
+The supply by Aus Accounting to Aus Co would not be GST-free under item 2 as the supply is not made to a non-resident.
+Paragraph (b) of item 3
+275.
+The supply of the audit services by Aus Accounting is required to be provided to US Sub outside Australia. Therefore, effective use or enjoyment of the supply takes place outside Australia.
+276.
+Paragraph (b) of item 3 is therefore satisfied. The supply by Aus Accounting to Aus Co is therefore GST-free under item 3.
+Supply by US Accounting to Aus Accounting
+Supply not connected with Australia (subsection 9-25(5))
+277.
+US Accounting makes a supply of audit services to Aus Accounting. The supply by US Accounting only falls for consideration under the Australian GST system if it is connected with Australia (paragraph 9-25(5)(a) and (b)). If the supply by US Accounting is not connected with Australia, it is outside the scope of the Australian GST system.
+278.
+The audit service conducted by US Accounting is not required to be done in Australia. Secondly, the facts state that US Accounting does not carry on business in Australia through a place of business of its own or through an agent acting on its behalf. Therefore, the supply by US Accounting is not connected with Australia and it is not necessary to consider the supply further for Australian GST purposes.
+Supply by Aus Co to US Sub
+279.
+A supply of audit services is made by Aus Co to US Sub. Aus Co charges US Sub for the cost of the audit service by making a cost allocation to US Sub. The cost allocation covers the audit service and associated administrative and management costs. The facts state that US Sub does not carry on business in Australia through a place of business of its own or through an agent acting on its behalf. The supply of audit services by Aus Co is therefore made to an entity that is not in Australia when the thing supplied is done. The supply therefore satisfies paragraph (a) of item 3.
+280.
+The supply of audit services is provided, or required to be provided, by Aus Co to US Sub, which has no presence in Australia. Therefore, the supply is required to be provided to US Sub outside Australia. As the supply is provided or is required to be provided to US Sub outside Australia, effective use or enjoyment of the supply takes place outside Australia. Paragraph (b) of item 3 is therefore satisfied.
+281.
+The supply by Aus Co to US Sub is therefore GST-free under item 3.
+282.
+The supply by Aus Co to US Sub would also be GST-free under item 2. The supply is covered by item 2 as it is made to a non-resident who is not in Australia when the thing supplied is done, who makes the acquisition in carrying its enterprise, but who is not registered or required to be registered. The GST-free status is not negated by subsection 38-190(3) as the supply is not provided to another entity in Australia.
+283. Example 41 of this Ruling (Example 31 of GSTR 2025/1) is summarised in Table 6 of this Ruling and we illustrate the GST treatment of these supplies under item 2 and item 3 for comparison purposes. It can be seen that the GST outcome under item 2 and item 3 is not the same.
+Example 41 – global supply of audit services involving due diligence service
+284.
+A United States-resident parent company, US Co, engages a United States accounting firm to supply audit services to the worldwide company group. The United States accounting firm charges US Co on a monthly basis for services rendered in the immediately preceding month. Neither US Co, nor the United States accounting firm, carry on business in Australia through a place of business of its own or through an agent acting on its behalf.
+285.
+Aus Sub, a GST-registered Australian subsidiary of US Co, requires audit services – in particular a due diligence service for a possible business acquisition. The United States accounting firm contracts with an Australian-resident accounting firm for the provision of audit services to Aus Sub.
+286.
+US Co is billed by the United States accounting firm for the audit services provided to the Australian subsidiary. US Co charges Aus Sub for the cost of the audit.
+Table 6: Example 41 – global supply of audit services involving due diligence service
+The supply
+Status of supply under item 2
+Who the supply is provided to
+Where the effective use or enjoyment of the supply takes place
+Status of supply under item 3
+GST treatment of the supply by United States accounting firm to US Co
+The supply by the United States accounting firm of audit services to US Co is not connected with Australia, even though it is partly done in Australia, because of table item 2 of subsection 9-26(1).
+The supply by the United States accounting firm of audit services to US Co is not a taxable supply.
+N/A
+N/A
+N/A
+N/A
+The GST treatment of the supply by Australian accounting firm to United States accounting firm
+The supply by the Australian accounting firm is a taxable supply to the extent that the other requirements of section 9-5 are met. However, the supply is not a taxable supply to the extent that it is GST-free.
+The GST treatment is not the same under item 2 and item 3.
+GST-free under item 2 – as subsection 38-190(3) does not negate the GST-free status under item 2
+Aus Sub
+Not outside Australia
+as the supply is provided to Aus Sub in Australia
+Not GST-free under item 3
+The GST treatment of the supply by US Co to Aus Sub
+The supply by the US Co to Aus Sub is not connected with Australia, even though it is partly done in Australia, because of item 2 of subsection 9-26(1).
+Aus Sub will need to consider the reverse charge provisions in Division 84 if it does not acquire the audit services solely for a creditable purpose.
+N/A
+N/A
+N/A
+N/A
+Commissioner of Taxation
+23 July 2025
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+Refer to GSTR 2004/7, which explains when the requirement in paragraph (a) of item 3, (that is, a supply is made to a recipient who is not in Australia when the thing supplied is done), is satisfied.
+[2]
+Paragraph 9-30(1)(a).
+[3]
+Refer to GSTR 2003/8, which explains the operation of subsection 38-190(2).
+[4]
+Refer to GSTD 2007/3
+Goods and services tax: if a non-resident entity owns residential rental premises in Australia and an Australian accountant makes a supply to that entity consisting of advice about the premises and tax return preparation services, is that supply wholly or partly GST-free if made on or after 1 April 2005?
+[5]
+Refer to GSTR 2025/1, which explains the operation of subsection 38-190(3).
+[6]
+Subsection 38-190(5) applies to supplies of specified services that are made on or after 1 July 2010, but not to supplies to the extent that the supplies relate to a taxable importation made before 1 July 2010.
+[7]
+Except to the extent that they are supplies of goods or real property.
+[8]
+Refer to GSTR 2004/7, which explains when an entity is not in Australia for the purposes of paragraph (a) of item 3.
+[9]
+Refer to GSTR 2003/7, which explains the application of this requirement.
+[10]
+At paragraph 3.25.
+[11]
+As explained in GSTR 2025/1.
+[12]
+As explained at paragraphs 186 to 197 of GSTR 2004/7.
+[13]
+Refer to paragraphs 63 to 80 of GSTR 2025/1.
+[14]
+The supply must also satisfy the other requirements of item 3. That is, it must not be a supply of work physically performed on goods situated in Australia when the thing supplied is done, or a supply directly connected with real property situated in Australia.
+[15]
+For further explanation, refer to paragraphs 29 to 60 of Goods and Services Tax Ruling GSTR 2019/1
+Goods and services tax: supply of anything other than goods or real property connected with the indirect tax zone (Australia)
+.
+[16]
+Morningstar Research
+at [32]. At the time of the case, the Commissioner had adopted those principles in the earlier draft rulings (Draft Goods and Services Tax Rulings GSTR 2002/D8
+Goods and Services Tax: when is a non-resident 'not in Australia when the thing supplied is done' for the purposes of item 2 of the table in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999?
+and GSTR 2003/D9
+Goods and services tax: in the application of items 2, 3 and paragraph (b) of item 4 in the table in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999
+•
+when is a 'non-resident' or other 'recipient' of a supply 'not in Australia when the thing supplied is done'?
+•
+when is 'an entity that is not an Australian resident' 'outside Australia' when the thing supplied is done?)
+that preceded GSTR 2004/7. The same principles are now reflected in GSTR 2004/7.
+[17]
+Morningstar Research
+at [44].
+[18]
+Assuming that the requirements of section 9-5 are otherwise satisfied.
+[19]
+Refer to paragraphs 92 to 113 of Goods and Services Tax Ruling GSTR 2001/8
+Goods and services tax: apportioning the consideration for a supply that includes taxable and non-taxable parts
+.
+[20]
+As explained at paragraph 66 of Goods and Services Tax Ruling GSTR 2006/4
+Goods and services tax: determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose,
+the High Court in
+Ronpibon Tin NL v Commissioner of Taxation (Cth)
+[1949] HCA 15 indicated, in the income tax context, that if a certain expense has a 'double aspect', it will need to be apportioned if it 'cannot be dissected'.
+[21]
+Refer to paragraphs 25 to 30B of GSTR 2001/8 and paragraph 382-5(1)(a) of Schedule 1 to the
+Taxation Administration Act 1953
+.
+[22]
+Subsection 38-190(3) negates the GST-free status of certain supplies that are GST-free under item 2.
+[23]
+For a supply covered by subsection 38-190(4) to be GST-free, all of the requirements of item 3 must be satisfied and subsection 38-190(5) must not apply to the supply.
+[24]
+At paragraph 3.27 of the EM.
+[25]
+However, in contrast to subsection 38-190(4), the purpose of subsection 38-190(3) is to negate the GST-free status of certain supplies that are otherwise GST-free under item 2 (refer to GSTR 2025/1).
+[26]
+Paragraph 9-5(c). However, a supply that is not connected with Australia may be a taxable supply under subsection 84-5(1).
+[27]
+See paragraph 9-25(5)(d).
+[28]
+The meaning of 'Australian consumer', including how this meaning is affected by section 84-100, is explained further in Goods and Services Tax Ruling GSTR 2017/1
+Goods and services tax: making cross-border supplies to Australian consumers
+.
+[29]
+Paragraphs 188-15(3)(d) and 188-20(3)(d).
+[30]
+Subsection 188-10(1) and sections 23-5 and 23-15.
+[31]
+Refer to paragraphs 221 to 228 of GSTR 2004/7, which explain when an individual is in Australia for the purposes of item 3. If an individual is in Australia in relation to a supply, paragraph (a) of item 3 is not satisfied.
+[32]
+Refer to paragraphs 221 to 228 of GSTR 2004/7, which explain when an individual is in Australia for the purposes of item 3. If an individual is in Australia in relation to a supply, paragraph (a) of item 3 is not satisfied. Refer to paragraphs 186 to 197 of GSTR 2004/7, which explain subsection 38-190(4).
+[33]
+Refer to paragraphs 221 to 228 of GSTR 2004/7, which explain when an individual is in Australia for the purposes of item 3. If an individual is in Australia in relation to a supply, paragraph (a) of item 3 is not satisfied.
+[34]
+Refer to paragraphs 333 to 372 of GSTR 2004/7, which explain when a company is in Australia for the purposes of item 3. If a company is in Australia in relation to a supply, paragraph (a) of item 3 is not satisfied.
+[35]
+Refer to paragraphs 333 to 372 of GSTR 2004/7, which explain when a company is in Australia for the purposes of item 3. If a company is in Australia in relation to a supply, paragraph (a) of item 3 is not satisfied. Refer to paragraphs 186 to 197 of GSTR 2004/7, which explain subsection 38-190(4).
+[36]
+Refer to paragraphs 333 to 372 of GSTR 2004/7, which explain when a company is in Australia for the purposes of item 3. If a company is in Australia in relation to a supply, paragraph (a) of item 3 is not satisfied. Refer to paragraphs 186 to 197 of GSTR 2004/7, which explain subsection 38-190(4).
+[37]
+Refer to paragraphs 221 to 228 of GSTR 2004/7, which explain when an individual is in Australia for the purposes of item 3. If an individual is in Australia in relation to a supply, paragraph (a) of item 3 is not satisfied.
+[38]
+Refer to paragraphs 56 to 77 of GSTR 2003/7. As storage services do not change the goods or otherwise affect them in some physical way, storage services (similar to transport services) are not a supply of work physically performed on goods.
+[39]
+The
+Indirect Tax Legislation Amendment Act 2000,
+effective 1 July 2000.
+[40]
+Refer to paragraphs 221 to 228 of GSTR 2004/7, which explain when an individual is in Australia for the purposes of item 3. If an individual is in Australia in relation to a supply, paragraph (a) of item 3 is not satisfied.
+[41]
+Refer to paragraphs 333 to 372 of GSTR 2004/7, which explain when a company is in Australia for the purposes of item 3. If a company is in Australia in relation to a supply, paragraph (a) of item 3 is not satisfied.
+[42]
+Refer to paragraphs 277 to 318 of GSTR 2004/7 for an explanation of when a non-resident company carries on business in Australia through an agent at a fixed and definite place for a sufficiently substantial period of time.
+[43]
+Alternatively, if the facts demonstrate that Trans-Europe Railways Co carries on business in Australia, through Aus Booking Co acting on its behalf, the outcome would not change as Trans-Europe Railways Co is not in Australia in relation to the supply of the booking and agency services by Aus Booking Co.
+[44]
+From 1 July 2010, the supply may also be a GST-free supply of international transport of goods under subsection 38-355(1).
+[45]
+Assuming that the requirements of section 9-5 are otherwise satisfied.
+[46]
+That is, a supplier subcontracts the provision of services to its customer to another supplier.
+[47]
+This expression refers to supplies made by a centralised entity (typically a parent or other separate dedicated entity) to other members of a corporate group. Such supplies include accounting, auditing, legal, information technology, research and development and financial services.
+References
+ATO references:
+NO  1-WVNF425
+ISSN: 2205-6122
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2025/1
+GSTD 2007/3
+GSTR 2001/8
+GSTR 2003/7
+GSTR 2003/8
+GSTR 2004/7
+GSTR 2005/2
+GSTR 2005/6
+GSTR 2006/4
+GSTR 2007/2
+GSTR 2017/1
+GSTR 2019/1
+Business Line:
+Legislative References:
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-5(c)
+ANTS(GST)A 1999 9-25(5)
+ANTS(GST)A 1999 9-25(5)(a)
+ANTS(GST)A 1999 9-25(5)(b)
+ANTS(GST)A 1999 9-25(5)(d)
+ANTS(GST)A 1999 9-25(7)
+ANTS(GST)A 1999 9-26(1)
+ANTS(GST)A 1999 9-30(1)(a)
+ANTS(GST)A 1999 23-5
+ANTS(GST)A 1999 23-15
+ANTS(GST)A 1999 Div 38
+ANTS(GST)A 1999 Subdiv 38-E
+ANTS(GST)A 1999 38-190
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 38-190(2)
+ANTS(GST)A 1999 38-190(2A)
+ANTS(GST)A 1999 38-190(3)
+ANTS(GST)A 1999 38-190(3)(c)
+ANTS(GST)A 1999 38-190(3)(c)(iii)
+ANTS(GST)A 1999 38-190(4)
+ANTS(GST)A 1999 38-190(4)(a)
+ANTS(GST)A 1999 38-190(4)(b)
+ANTS(GST)A 1999 38-190(5)
+ANTS(GST)A 1999 38-355(1)
+ANTS(GST)A 1999 38-355(2)(a)
+ANTS(GST)A 1999 38-355(2)(b)
+ANTS(GST)A 1999 Subdiv 40-B
+ANTS(GST)A 1999 Subdiv 40-C
+ANTS(GST)A 1999 Div 84
+ANTS(GST)A 1999 84-5(1)
+ANTS(GST)A 1999 84-100
+ANTS(GST)A 1999 188-10(1)
+ANTS(GST)A 1999 188-15(3)(d)
+ANTS(GST)A 1999 188-20(3)(d)
+ANTS(GST)A 1999 195-1
+TAA 1953 Sch 1 382-5(1)(a)
+Case References:
+Fiduciary Ltd & Ors v Morningstar Research Pty Ltd
+[2004] NSWSC 381
+181 FLR 341
+2004 ATC 4633
+56 ATR 73
+60 NSWLR 425
+Other References:
+Explanatory Memorandum
+to the Indirect Tax Legislation Amendment Bill 2000
+Back to top

@@ -1,0 +1,1622 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 111
+  • Div 129
+  • Div 130
+  • Div 138
+  • Div 40
+  • Div 72
+  • Division 111
+  • Division 129
+  • Division 130
+  • Division 138
+  • Division 358
+  • Division 72
+  • Subdivision 40-A
+  • Subdivision 72-A
+  • Subdivision 72-C
+  • div 40
+  • div 72
+  • division 40
+  • division 72
+
+Cases Referenced:
+  • Abbott v. Abbott
+(1936)
+  • Adam v Newbigging
+(1888)
+  • Anor v. Volume Sales 
+  • Archibald Howie Pty Ltd v. Commissioner 
+  • Bains v. Minist
+  • Cameron v. Murdoch
+
+  • In
+Abbott v. Abbott 
+  • In
+Rowe v. Federal Commissioner 
+  • In
+Sobell v. Boston 
+  • London v. Gibbs 
+  • Mackie Pty Ltd v. Dalziell Medical Practice Pty Ltd
+(1989)
+  • Mackie Pty Ltd v. Dalziell Medical Practice Pty Ltd 
+  • Ors v. Ireland 
+  • Ringthane Pty Ltd v Commissioner 
+  • Rowe v. Federal Commissioner 
+
+Topics: GST, Trusts, Partnerships, Companies, Employment
+
+
+
+================================================================================
+
+GSTR 2003/13 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+146 related documents
+Goods and Services Tax Ruling
+GSTR 2003/13
+Goods and services tax:  general law partnerships
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
+Treasury Legislation Amendment (Repeal Day) Act 2015
+.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+This Ruling contains references to provisions of the
+A New Tax System (Goods and Services Tax) Regulations 1999,
+which have been replaced by the
+A New Tax System (Goods and Services Tax) Regulations 2019.
+This Ruling continues to have effect in relation to the remade Regulations.
+Paragraph 32 of
+TR 2006/10
+provides further guidance on the status and binding effect of public rulings where the law has been repealed and rewritten.
+A
+comparison table
+which provides the replacement provisions in the
+A New Tax System (Goods and Services Tax) Regulations 2019
+for regulations which are referenced in this Ruling is available.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+7
+Background
+9
+Ruling with explanation
+16
+Detailed contents list
+193
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 37 of the
+Taxation Administration Act 1953
+and former section 105-60 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes
+.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you
+.
+[
+Note
+:
+This is a consolidated version of this document. Refer to the Legal Database (http://www.ato.gov.au/law) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling explains how the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act) applies to transactions involving general law partnerships.
+[1]
+2. In particular, this Ruling explains:
+•
+the GST consequences of supplies and acquisitions made between a general law partnership and its partners, specifically:
+-
+on formation of the partnership;
+-
+during its operation; and
+-
+on its dissolution.
+•
+the meaning of an interest in or under the capital of a partnership in Subregulation 40-5.09(3) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST regulations);
+•
+the GST consequences of:
+-
+a reconstitution of a general law partnership;
+-
+in kind capital contributions to a general law partnership by its partners; and
+-
+in kind distributions by a general law partnership to its partners.
+3. This Ruling does not apply to tax law partnerships.
+[2]
+4. This Ruling does not apply to limited partnerships.
+5. This Ruling also does not apply to partial assignments of interests in a partnership of the kind described in
+Federal Commissioner of Taxation v. Everett.
+[3]
+6. Unless otherwise stated, all legislative references in this Ruling are to the GST Act, and all references to the regulations are to the GST regulations.
+Date of effect
+7. This Ruling applies (to tax periods commencing) both before and after its date of issue.
+8. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 to 76 of Taxation Ruling TR 2006/10).
+8A. Changes made to this Ruling by Addenda that issued on 15 August 2007, 8 April 2009, 27 March 2013, 21 August 2013 and 9 May 2018 have been incorporated into this version of the Ruling.
+[3AA]
+Background
+9. A partnership is defined in section 195-1 by reference to the definition of a partnership in section 995-1 of the
+Income Tax Assessment Act 1997
+(ITAA 1997). That definition
+[3A]
+states:
+partnership
+means:
+(a)
+an association of persons (other than a company or a *limited partnership) carrying on business as partners or in receipt of *ordinary income or *statutory income jointly; or
+(b)
+a limited partnership.
+10. The first limb of paragraph (a) of the definition refers to 'an association of persons (other than a company or limited partnership) carrying on business as partners'.. This reflects the general law definition of a partnership, which is 'the relation which subsists between persons carrying on a business in common with a view of profit'.
+[4]
+We refer to this type of partnership as a general law partnership.
+11. The second limb of paragraph (a) of the definition of partnership includes as a partnership an association of persons (other than a company or limited partnership) 'in receipt of ordinary income or statutory income jointly'. This type of partnership is referred to as a tax law partnership.
+12. A general law partnership is formed when persons commence carrying on business together with a view of profit under an agreement, either written or oral. The 'relation' or the 'association' is one that arises under an agreement.
+13. Under general law, a partnership is not an entity. The general law regards the business as being carried on by the persons that are in partnership. The term 'partnership' is merely descriptive of the relation between persons carrying on business with a view of profit.
+14. The position under the GST Act is different. The definition of an entity includes a partnership.
+[5]
+A consequence of this is that the GST Act applies to partnership transactions, in particular dealings between partners and the partnership, in a manner that does not reflect the general law treatment of those transactions. Against this background, we have applied the GST law to general law partnerships in a way that best promotes the purpose or object of the GST Act and produces a sensible result.
+[6]
+15. In this Ruling, unless otherwise stated:
+•
+a reference to a partnership is a reference to a general law partnership as defined in paragraph 10 of this Ruling;
+•
+a reference to a registered partnership is a reference to a partnership that is either registered or required to be registered for GST. Similarly, a reference to an unregistered partnership is a reference to a partnership that is neither registered nor required to be registered;
+•
+a reference to a registered partner is a reference to a partner who is registered or required to be registered for GST because they carry on a separate enterprise;
+•
+a reference to a member of a partnership is a reference to a partner of a partnership;
+•
+a reference to supplies and acquisitions is a reference, where appropriate, to supplies, acquisitions and importations; and
+•
+all supplies and acquisitions are connected with Australia.
+Ruling with explanation
+What is a general law partnership?
+16. A general law partnership, as described in the first limb of paragraph (a) of the definition of a partnership, is 'an association of persons (other than a company or a limited partnership) carrying on business as partners'.
+Formation of a general law partnership
+How and when a general law partnership is formed
+17. A partnership is formed when two or more entities commence carrying on a business as partners. Whether and from what date a general law partnership exists are questions of fact. They are determined having regard to the partnership agreement and the circumstances surrounding the partnership's formation. The execution of a partnership agreement is the strongest evidence of a partnership being formed at a particular time.
+18. The partnership agreement does not have to be in writing. Where there is no written agreement, the question of when a partnership is formed is determined having regard to the intention of the parties as evidenced by their conduct, the manner in which they deal with each other and with other parties, and other circumstances. Other circumstances may include the date of registration of a business or firm name, and the date on which partnership bank accounts are opened.
+Intention not to form a general law partnership
+19. Mutual assent and intention to act as partners is the essential element in demonstrating the existence of a partnership between two or more persons. A lack of intention to be in partnership may mean that a partnership does not exist at law.
+[7]
+20. However, an express intention not to form a partnership, although a strong indicator that the relationship is not a partnership, will not be determinative in all cases. Even a declaration in an agreement between the parties not to form a partnership will be ineffective if all the indicia of a partnership are present.
+[8]
+Nevertheless, such a declaration may be used to rebut inferences that could otherwise be drawn from other clauses of any agreement the parties have between themselves.
+[9]
+If there is no written agreement, then the intention of the parties may be implied by their words and conduct.
+[10]
+General law partnership as an entity for GST purposes
+21. The GST Act definition of entity includes a partnership. The moment that a partnership is formed, it is an entity for GST purposes.
+22. At general law, a partnership is not recognised as an entity distinct from its partners.
+[11]
+The general law definition of a partnership refers to the relationship that exists between persons carrying on business in common with a view of profit. It is the partners that carry on a business together and not the partnership as an entity separate from the partners. As was stated by William J in
+FC of T v. Happ:
+[12]
+Businesses are carried on by the individuals who are in partnership and not by the partnership firm as a separate conception.
+23. A partnership is treated as a separate entity for some income tax purposes. For example, under section 90 of the
+Income Tax Assessment Act 1936
+(ITAA 1936), the net income of the partnership is calculated 'as if the partnership was a taxpayer'. The assessable income or deductions of a partner must include their individual interest in the net income or partnership loss, respectively.
+24. There is judicial authority for this proposition. In
+Rowe v. Federal Commissioner of Taxation,
+[13]
+the Full Federal Court recognised that:
+[14]
+The ITAA 1936 does, for some purposes, treat a partnership as if it were a distinct entity from those who constitute it. Section 91 of the ITAA 1936 requires that a partnership shall furnish a return of the income of the partnership. Section 92 includes in the assessable income of a partner not a share of the gross income derived but 'his individual interest in the net income of the partnership of the year of income'. Section 90 defines the net income of a partnership as meaning the assessable income of the partnership, calculated as if the partnership were a taxpayer, less allowable deductions other than concessional deductions and deductions in respect of past losses. These provisions of the Act are, however, essentially for accounting purposes.
+25. Similar observations were made by Taylor J in
+FC of T v. Beville,
+[15]
+by Lockhart J in
+FC of T v. Sahhar
+[16]
+and by Stephen J in
+Tikva Investments Pty. Ltd. v. FC of T.
+[17]
+26. The concept of a partnership as an entity separate from the partners has been extended under the GST Act. We consider that the GST Act treats a partnership as an entity for all purposes of the Act.
+[18]
+Supplies and acquisitions in the capacity as partner
+27. As an entity, a general law partnership may register for GST, is liable for GST on taxable supplies that it makes,
+[19]
+and is entitled to input tax credits for creditable acquisitions it makes.
+28. Supplies and acquisitions that are made by or on behalf of partners in their capacity as partners are treated as supplies and acquisitions by the partnership. This position is confirmed by subsection 184-5(1) which provides:
+For the avoidance of doubt, a supply, acquisition or importation made by or on behalf of a partner of a partnership in his or her capacity as a partner:
+(a)
+is taken to be a supply, acquisition or importation made by the partnership; and
+(b)
+is not taken to be a supply, acquisition or importation made by that partner or any other partner of the partnership.
+29. Whether a partner makes a supply or acquisition in the capacity as a partner is a question of fact. Factors that may indicate that a supply is made by a partner in that capacity include:
+•
+the consideration for the supply is paid to a common fund, or to all the partners;
+•
+the supply is of a kind typically made in the type of enterprise carried on by the partnership; and
+•
+the invoice or tax invoice shows the firm or business name, or the names of all the partners as supplier.
+30. Factors that may indicate that an acquisition is made by a partner in that capacity include:
+•
+the acquisition is used in the enterprise of the partnership;
+•
+the acquisition is made with the consent of all the partners;
+•
+the acquisition is paid for out of partnership profits or from a partnership account; and
+•
+the invoice or tax invoice shows the firm or business name, or the names of all the partners as recipient.
+Carrying on an enterprise
+31. Under paragraph 9-20(1)(a), an enterprise includes an activity or activities done 'in the form of a business'.
+[20]
+Enterprise has a wider meaning than the concept of 'carrying on a business' in the definition of a partnership. A general law partnership, therefore, carries on an enterprise
+[21]
+and may register for GST from the time of its formation.
+Supplies and acquisitions made by the partnership on formation
+32. Upon formation of a partnership, the partners acquire interests in the partnership. The consideration for those interests can encompass capital contributions and the mutual obligations that each partner undertakes, including promises to provide labour, skills or services in the conduct of the partnership business.
+Interests in a partnership
+33. Upon a partnership coming into existence, its partners hold interests in the partnership. A partner's interest in the partnership may increase or decrease over time. A partner's interest is extinguished if the partner exits the partnership, unless the partner sells or assigns their interest to another entity. No interests in the partnership are held once the partnership ceases to exist.
+34. An interest in a partnership includes a right to a proportion of the surplus after the realisation of the assets and payment of the debts and other liabilities of the partnership,
+[22]
+and is inclusive of a partner's entitlement to a share in the capital of the partnership.
+[23]
+35. For GST purposes, transactions involving the acquisition, disposal, or changes in the level of interests held in a partnership are considered in the context of financial supplies.
+Financial supplies
+36. Section 40-5 provides that financial supplies are input taxed and that their meaning is given by the GST regulations. Subdivision 40-A of the GST regulations is about financial supplies. Under Subregulation 40-5.09(1), the provision, acquisition or disposal of an interest in or under securities, including the capital of a partnership, is a financial supply if:
+(a)
+the provision, acquisition or disposal is:
+(i)
+for consideration;
+(ii)
+in the course or furtherance of an enterprise; and
+(iii)
+connected with Australia.
+(b)
+the supplier is:
+(i)
+registered or required to be registered; and
+(ii)
+a financial supply provider in relation to supply of the interest.
+[24]
+37. For GST purposes, an 'interest' is anything that is recognised at law or in equity as property in any form.
+[25]
+38. Goods and Services Tax Ruling GSTR 2002/2, dealing with the GST treatment of financial supplies and related supplies and acquisitions, explains and clarifies when something is a financial supply. GSTR 2002/2 uses the term 'financial interest' to describe a supply that may be a financial supply because it is mentioned in an item in the table in Subregulation 40-5.09(3) and is capable of satisfying the tests in Subregulation 40-5.09(1).
+[26]
+39. Item 10 in the table in Subregulation 40-5.09(3) (item 10) includes as securities 'the capital of a partnership or trust'.
+[27]
+Part 8 of Schedule 7 to the GST regulations includes 'interests in a partnership' within its list of examples for item 10. Neither an interest in a partnership, nor an interest in or under the capital of a partnership is a security as defined in subsection 92(1) of the
+Corporations Act 2001.
+[28]
+40. As 'an interest in or under the capital of a partnership' and 'interests in a partnership' are each mentioned in the GST regulations, it is important to understand the meaning of the two expressions for the purpose of applying the GST provisions.
+Interest in or under the capital of a partnership and interests in a partnership
+41. The capital of a partnership, as described by Lord Lindley,
+[29]
+is:
+the aggregate of the sums contributed by its members for the purpose of commencing or carrying on the partnership business, and intended to be risked by them in that business. The capital of a partnership is not therefore the same as its property: the capital is a sum fixed by the agreement of the partners; whilst the actual assets of the firm vary from day to day, and includes everything belonging to the firm and having any money value.
+42. This description has been referred to with approval in both
+Rowella Pty Ltd v. Abfam Nominees Pty Ltd
+[30]
+and in
+Federal Commissioner of Taxation v. J.D. Roberts, Federal Commissioner of Taxation v. Smith (Roberts and Smith).
+[31]
+43. In addition, the comments by Hill J in
+Roberts and Smith
+support our view that the expression 'capital of a partnership' in Subregulation 40-5.09(3) is consistent with the Lord Lindley description of capital, and comprises:
+•
+initial and subsequent capital contributions;
+•
+undrawn profit distributions; and
+•
+advances by the partners or other funds which have actually been invested in the partnership, less amounts of capital that are withdrawn by the partners from time to time.
+44. Therefore, a partner's interest
+in
+the capital of a partnership is, for the purposes of item 10, a reference to the amounts ventured by the partners. This is commonly represented by the balance of the partner's capital account.
+45. One view is that the expression 'interest in a partnership' is not synonymous with the expression 'interest in the capital of a partnership', and has a wider meaning. However, as item 10 refers to securities including the capital of a partnership or trust, an interest in a partnership can be a financial interest if it is an interest
+in
+or
+under
+the capital of a partnership.
+46. Under this view, an interest in a partnership is an interest
+under
+the capital of a partnership in the sense that an interest in a partnership is secured by a partner upon the undertaking of obligations by each partner. These are the obligations to contribute capital, or the making of a promise to provide labour, skills or services in the conduct of the partnership business. This gives effect to the clear intention, expressed in Part 8 of Schedule 7 to the GST regulations, for the supply of an interest in a partnership to be a financial supply if the requirements of Subregulation 40-5.09(1) are met.
+[32]
+47. Alternatively, the inclusion of interests in a partnership in the examples indicates a legislative intent that the expression 'capital of a partnership' is to be interpreted widely. Therefore, in the context of Subregulation 40-5.09(3), the expression 'capital of a partnership' has a wider meaning than the Lord Lindley description of capital, and refers to other interests including the net assets (or value) of the partnership. An interest in a partnership includes a partner's right to a proportion of the surplus after realisation of the assets and payment of the debts and other liabilities. In a subsisting partnership, that right is represented by their interest in the net assets of the partnership. The reference to an interest in or under the capital of a partnership is therefore, a reference to an interest in a partnership.
+48. Under either view, the expression 'interest
+in
+or
+under
+the capital of a partnership' in item 10 includes all the interests that a partner acquires from the partnership as a consequence of being a partner of that partnership. Therefore, an interest in a partnership is an interest in or under a security under item 10(d).
+49. We acknowledge that, in interpreting item 10(d), the regulation can be read literally or more purposively. We do not consider it appropriate to adopt a narrow meaning of the expression 'interest in or under the capital of a partnership' in that item. If the expression is interpreted literally and narrowly, something (an interest in a partnership) that is intended to be a financial supply might not be a financial supply. Such an interpretative approach would give rise to an absurd result, in that, what is regarded as an element of other interests in a partnership (an interest in the capital of a partnership) would be within the ambit of item 10(d), but the interest in the partnership itself would not. Having regard to this, we read the relevant provisions more purposively to give effect to what was intended.
+50. Regulation 40-5.11 provides that something mentioned in a Part of Schedule 7 to the GST regulations that relates to a financial supply mentioned in an item in the table in Regulation 40-5.09 is an example of a financial supply mentioned in the item. Note 2 to Regulation 40-5.11 states that if an example is inconsistent with the description of the financial supply to which the example relates, the description prevails.
+51. In our view, the example in Part 8 of Schedule 7 is not inconsistent with the description in item 10(d) of Subregulation 40-5.09(3), as the expression 'an interest
+in
+or
+under
+the capital of a partnership' is broader than the expression 'interest
+in
+the capital of a partnership' and encompasses an 'interest in a partnership'.
+52. In this Ruling, we use the expression 'interest in a partnership' rather than 'interest in or under the capital of a partnership' to describe all the interests that are within the scope of item 10(d) as it is a more commonly used and understood expression.
+Supply of an interest in a partnership as a financial supply
+53. An interest in a partnership is a financial interest under Subregulation 40-5.09(3). It will be a financial supply if the requirements of Subregulation 40-5.09(1) are met. These requirements are listed at paragraph 36, and are explained further in paragraphs 56 to 64.
+Partnership as supplier of the interest in the partnership
+54. In determining the GST consequences of supplies of interests in a partnership, it is important to determine whether these are supplies made by the partners to each other under the terms of the partnership agreement, or whether they are supplies by the partnership to the partners.
+55. We consider the better view to be that the interests in a partnership are supplied by the partnership and not by the partners to each other.
+General law partnership as a financial supply provider
+56. For the purposes of Subdivision 40-A of the GST regulations, a general law partnership is a financial supply provider. We consider that the partnership entity creates an interest in the partnership in making the supply of that interest. This is a consequence of the acceptance of a partnership as an entity, and the fact that partners may act in the capacity of partners.
+[33]
+Therefore, the partnership is a financial supply provider under paragraph 40-5.06(1)(b) of the GST regulations.
+57. Subregulation 40-5.06(2) specifies that the entity acquiring a financial interest is also the financial supply provider in relation to that interest. As a result, in acquiring an interest, a partner may also make a financial supply. GSTR 2002/2 refers to this as an acquisition-supply.
+[34]
+Consideration for the supply of an interest in a partnership
+58. The obligations that each partner undertakes, including capital contributions, or the promise to provide labour, skills or services in the conduct of the partnership business, are consideration for the supply of interests in the partnership.
+Supply of an interest in a partnership made in the course or furtherance of an enterprise
+59. We take the view that the supply of an interest in a partnership is made in the course or furtherance of the enterprise that the partnership carries on. It is consideration for the acquisition of capital, or the promise to provide labour, skills or services in the conduct of the partnership business, from the partners to enable the partnership enterprise to be carried on. The supply of the interest in the partnership has the necessary connection with the enterprise to make the supply 'in the course or furtherance of the enterprise'.
+60. The Explanatory Memorandum to A New Tax System (Goods and Services Tax) Bill 1999 supports this view. The Explanatory Memorandum, at paragraph 3.10 states:
+'In the course or furtherance' is not defined, but is broad enough to cover any supplies made in connection with your enterprise. An act done for the purpose or object of furthering an enterprise, or achieving its goals, is a furtherance of an enterprise although it may not always be in the course of that enterprise.
+61. The above view is also supported by New Zealand's Taxation Review Authority (TRA)
+Case 28, Case N 43,
+[35]
+in which Bathgate DJ found:
+[36]
+An act done for the purpose or object of furthering the taxable activity, or achieving its goal, can be to help, achieve, or advance, and thus a 'furtherance' of a taxable activity.
+[37]
+Registration
+62. Where its projected GST turnover meets the registration turnover threshold,
+[38]
+a partnership is required to be registered upon formation. The registration turnover threshold is $75,000 (or a higher amount as specified in the GST regulations).
+[39]
+63. A partnership may be registered for GST from a particular date
+[40]
+which is not earlier than when the partnership undertakes activities in the commencement of its enterprise. In the event that the enterprise does not proceed, there is a cessation of the enterprise. The partnership is dissolved and it will need to apply for the cancellation of its registration.
+64. A partnership whose registration has been cancelled may still have assets in respect of which it was, or is, entitled to an input tax credit. This may result in increasing adjustments for the partnership under Division 138 to cancel those input tax credits.
+[41]
+Acquisitions by a partnership upon formation
+65. Upon formation, a general law partnership, as an entity for GST purposes, acquires capital from the partners. This may be either in money or in kind, or the promise to provide labour, skills or services in the conduct of the partnership's business.
+66. When a partnership acquires an in kind capital contribution, it has been suggested that the acquisition is either not for or only partly for a creditable purpose because it relates to the supply of a partnership interest which would be input taxed.
+[42]
+67. We consider that the in kind contribution is consideration for the supply of the partnership interest. However, the acquisition relates to the actual operation of the partnership and, therefore, relates to the making of supplies by a partnership in the course of the partnership's ordinary or general business. Any claim, therefore, for input tax credits is determined by reference to the use of the in kind capital contribution in the partnership's business activities and will be a creditable acquisition if the requirements of section 11-5 are met.
+Example 1: In kind capital acquisition relates to taxable supply by partnership
+68.
+George and Claudia form a partnership to run a coffee shop. George is registered for GST in respect of a wholesale restaurant supplies business he conducts. He has an espresso coffee machine which he contributes as an in kind capital contribution. The market value of the coffee machine is $5,500.
+69.
+The consideration provided by the partnership for the coffee machine is the interest in the partnership. The supply of the espresso coffee machine is a taxable supply by George.
+70.
+Although the coffee machine is consideration for the supply of the partnership interest, the acquisition relates to the taxable supplies of coffee in the coffee shop. The partnership is able to claim an input tax credit of $500.
+Supplies and acquisitions made by the partners on formation
+71. A partner does not carry on an enterprise as a partner in a partnership. Therefore, a partner cannot register for GST in relation to the enterprise of the partnership.
+72. Where a registered partner enters into the partnership and makes an in kind capital contribution in the course or furtherance of their own enterprise, the in kind capital contribution is a supply that may be taxable, input taxed or GST-free. A capital contribution of money or digital currency is not a supply.
+[43]
+Example 2:  Formation of the partnership and GST consequences
+73.
+Kate and Sydney form a partnership operating a wholesale pie business and they register the partnership for GST. They acquire equal interests in the partnership. In Kate's case, this is for a capital contribution of $22,000 in money, which is not a supply by Kate. Sydney's capital contribution is a delivery van with a GST inclusive market value of $22,000. This is a supply made by Sydney for consideration, being the interest in the partnership.
+74.
+In the partnership accounts, Kate's and Sydney's capital contributions are recorded as being $22,000 each - a total of $44,000 contributed. However, the partnership is able to claim an input tax credit of $2,000 in respect of the delivery van (assuming 100% creditable purpose) and the partnership assets are shown as: Van - $20,000, Cash - $24,000, a total of $44,000.
+75. It has been suggested that the supply as an in kind capital contribution of a thing acquired in the partner's own enterprise is not made in the course or furtherance of that partner's own enterprise. We consider that the supply, sale or disposal of business assets will be in the course or furtherance of the enterprise in which those assets are used. There is support for this view in
+TRA Case 6, Case K55,
+[44]
+in which Bathgate DJ noted:
+[45]
+If capital assets are used in the carrying on of a taxable activity the sale of those assets, or some of them, can readily be in the course or furtherance of that activity... 'In the course or furtherance of' a taxable activity is not an altogether different concept from the income tax situation of '... in gaining or producing, assessable income'. It may be that to discover whether a supply is in the course or furtherance of a taxable activity some discernible nexus should be apparent between the activity and the supply. It would not appear inappropriate. ...it is a question of fact and degree as to whether a supply is in the course or furtherance of a taxable activity carried on by the person concerned. There must obviously be a discernable relationship between the supply and the activity in the form of a nexus for the supply to be in the course or furtherance of the activity.
+Example 3:  Taxable supply of in kind capital contribution
+76.
+Sydney, from Example 2, is registered in relation to a separate enterprise he carries on. He acquired the van in carrying on that enterprise. The subsequent supply of the van as an in kind capital contribution to the partnership is a supply that Sydney makes in the course of his separate enterprise. As the supply is for consideration, being the interest in the partnership, and Sydney is registered, the supply of the van to the partnership is a taxable supply.
+77. The acquisition by a partner of an interest in the partnership is not a creditable acquisition as its supply to the partner is not a taxable supply.
+[46]
+The partner, in acquiring a financial interest, also makes an acquisition-supply.
+[47]
+Example 4:  Supplies of interests in a partnership
+78.
+Kate and Sydney, from Example 2, have each been supplied with an interest in the partnership. These supplies of financial interests by the partnership are financial supplies because the requirements of Subregulation 40-5.09(1) are met. In acquiring these financial supplies, Kate and Sydney also make acquisition-supplies.
+In kind capital contribution - change in creditable purpose?
+79. A partner making an in kind capital contribution is making two supplies to the partnership, being the supply of the in kind capital contribution and the acquisition-supply of the interest in the partnership. Where the thing supplied by the partner to the partnership was a creditable acquisition by the partner in carrying on a separate enterprise, it has been suggested that there is a change in the partner's creditable purpose. The change relates to making the acquisition-supply, which is an input taxed supply.
+[48]
+80. We consider that the acquisition by the partner has a more direct and immediate link with, and therefore relates to, the supply of the in kind capital contribution made by the partner than with the acquisition-supply of a partnership interest. The partner's entitlement to input tax credits, therefore, is not affected by the acquisition-supply of a partnership interest.
+Example 5: In kind capital contribution - no change in creditable purpose
+81.
+Sydney, from Examples 2, 3 and 4, acquired the van in carrying on his separate enterprise, solely for a creditable purpose. His capital contribution of the van to the partnership is made in return for the interest in the partnership, and is connected to the acquisition-supply he makes. However, the acquisition of the van has a more direct and immediate link with Sydney's taxable supply of the van to the partnership, than with making the acquisition-supply. There is no change in Sydney's application of the van for a creditable purpose.
+Single entity selling an interest in its enterprise to form a partnership
+82. When a single entity takes a partner into its business, the agreement to do so frequently provides for the new partner to purchase a share of the business or a share of the assets of the business.
+83. For GST purposes, this transaction results in the formation of a partnership and an acquisition of an interest in the partnership by each partner. The consideration provided by the 'purchaser' for the interest in the partnership is the amount payable to the 'vendor' in respect of the acquisition of the interest in the business.
+84. We regard this transaction as the supply of an enterprise to the partnership by the entity selling the business, with the consideration being a supply of an interest in the partnership, together with a payment of money.
+85. If the supply of the enterprise meets the requirements of section 38-325, it is a supply of a going concern that is GST-free.
+[49]
+Operation of the partnership
+In specie distributions during the operation of the partnership
+85A. The Commissioner considers that an
+in specie
+distribution of partnership property by a partnership to a partner is a supply made by the partnership. The supply is made in the course or furtherance of the partnership's enterprise and is for consideration.
+In the course or furtherance of an enterprise
+85B. The phrase, 'in the course or furtherance of an enterprise' is not defined in the GST Act. The phrase forms part of the requirements that must be satisfied in order for a taxable supply to be identified for the purpose of establishing a liability to GST.
+85C. The Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998 (the Explanatory Memorandum), at paragraph 3.10, supports a broad meaning of the phrase 'in the course or furtherance of'. It states:
+'In the course or furtherance' is not defined, but is broad enough to cover any supplies made in connection with your enterprise. An act done for the purpose or object of furthering an enterprise, or achieving its goals, is a furtherance of an enterprise although it may not always be in the course of that enterprise. In the course or furtherance does not extend to the supply of private commodities, such as when a car dealer sells his or her own private car. See
+Case N43
+(1991) 13 NZTC 3361.
+85D. Having regard to the context in which the phrase 'in the course or furtherance of' appears and the above statement from the Explanatory Memorandum, the phrase should be given a broad meaning so as to encompass supplies made in connection with the relevant enterprise.
+85E. The application of an asset in an enterprise establishes the necessary connection between the supply of the asset and the relevant enterprise.
+[49A]
+85F. The GST Act does not require that an asset must be applied primarily or principally in carrying on the enterprise for the supply of an asset to be in the course or furtherance of an enterprise. Accordingly, a connection between the supply of partnership property by way of an
+in specie
+distribution and the enterprise carried on by the partnership exists even if, at the time of the supply, the partnership property is applied in carrying on the enterprise to a minor or secondary extent.
+85G. Furthermore, for the purposes of the GST legislation a general law partnership is an association of persons carrying on business as partners. Therefore, the existence of a partnership implies that all of its activities are in the course of its business activities and thus in the course or furtherance of an enterprise carried on by the partnership.
+Supply for consideration
+85H. The Commissioner takes the view that an
+in specie
+distribution of partnership property by a partnership to a partner is made for consideration. The consideration may be monetary, non-monetary or a combination of both.
+85I. 'Consideration' is defined widely in subsection 9-15(1) of the GST Act to include any payment, or any act or forbearance, in connection with, in response to or for the inducement of a supply of anything. Subsection 9-15(1) provides an inclusive definition of the term. Therefore, in addition to the specific terms in the GST Act, it incorporates the meaning of the term in contract law and also incorporates its broader meaning in conveyancing which was referred to by Dixon J in the High Court decision in
+Archibald Howie Pty Ltd v. Commissioner of Stamp Duties (NSW
+)
+[49B]
+(
+Archibald Howie
+). For GST purposes 'consideration' is therefore a broad term.
+85J. In
+Archibald Howie
+, the company transferred shares in another company to two shareholders who held shares in Archibald Howie Pty Ltd. The purpose of the transfers was to carry out a resolution for the reduction of the share capital of the appellant company. The reduction was carried out by a distribution of assets
+in specie
+. In relation to the facts Dixon J stated:
+In the context I think that the word "consideration" should receive the wider meaning or operation that belongs to it in conveyancing rather than the more precise meaning of the law of simple contracts. The difference is perhaps not very material because the consideration must be in money or money's worth. But in the law of simple contracts it is involved with offer and acceptance:  indeed properly understood it is perhaps merely a consequence or aspect of offer and acceptance. Under s. 66 the consideration is rather the money or value passing which moves the conveyance or transfer. (at 152)
+...
+The truth is, however, that the return of ... the amount paid up is the discharge pro tanto of a claim of the shareholder upon the assets of the company. (at 153)
+...
+The reduction in both the amount and value of the share affords an adequate consideration in money and in money's worth. (at 154)
+85K. The Commissioner considers that the comments by Dixon J in
+Archibald Howie
+apply equally to
+in specie
+distributions by partnerships to partners.
+85L. In
+Federal Commissioner of Taxation v. Reliance Carpet Co Pty Ltd
+[49C]
+(
+Reliance Carpet
+) the High Court noted that, under section 9-15 of the GST Act, consideration includes, among other things, any payment 'in connection with' a supply of anything. The High Court in
+Reliance Carpet
+in analysing the decision of the European Court of Justice in
+Société thermale d'Eugénie-les-Bains v. Ministère de l'Économie, des Finances et de l'Industrie
+,
+[49D]
+gave some indication that the connection between consideration and a supply need not be direct, though it did not expand on what the extent of the connection needs to be.
+[49E]
+85M. The capital contributed by a partner to the partnership entitles the partner to an interest in the partnership, and gives rise to an entitlement to a distribution of any surplus remaining on dissolution of the partnership (after payment of partnership debts and other liabilities and after return of capital to the partners). The right to an
+in specie
+distribution is a consequence of the partner contributing capital to the partnership and becoming a partner under the partnership agreement.
+85N. The
+in specie
+distribution of property by a partnership to a partner has the effect of discharging a claim that the partner has over the assets of the partnership. Consequently, when an
+in specie
+distribution is made the partner's entitlement or claim over the assets of the partnership is proportionately reduced. The Commissioner considers that the partner's entitlement or claim over the assets of the partnership forms part of the partner's wider interest in the partnership. Therefore, the consideration for an
+in specie
+distribution from a partnership is the proportion of the partner's interest in the partnership. It is expected that the GST inclusive market value of this proportion of the partner's interest in the partnership, that represents consideration for the
+in specie
+distribution
+[49F]
+, would be reflected by the value of the property distributed and may be represented by:
+(a)
+an amount debited to the capital account of the partner;
+(b)
+an amount debited to the current account of the partner; or
+(c)
+a combination of amounts debited to both the partner's capital account and current account.
+85O. There may be circumstances where the value of the
+in specie
+distribution is greater than the total credit standing to the partner, as reflected by the combined balance of the partner's capital and current account. In these circumstances, the consideration for the
+in specie
+distribution, in addition to the proportion of the partner's interest in the partnership represented by the combination of amounts debited to both the partner's capital account and current account, will also include:
+•
+any monetary payment by the partner to the partnership with respect to the partnership property; plus
+•
+any entry into an obligation, or promise by the partner, to pay the partnership an amount in respect of the partnership property.
+[49G]
+85P. The consideration for the
+in specie
+distribution may be represented by one or more of the things described in paragraphs 85N and 85O of this Ruling.
+86. If a partnership makes supplies to the partners or their associates in the course or furtherance of its enterprise without consideration or for inadequate consideration, Division 72 may apply.
+87. Division 72 ensures that supplies to, and acquisitions from, associates without consideration are brought within the GST system, and that supplies to associates for inadequate consideration are properly valued for GST purposes.
+[50]
+As a partnership and its partners are associates under the GST Act,
+[51]
+Division 72 may apply to supplies between a partnership and its partners.
+88. Subdivision 72-A may apply to a supply made between a partnership and its partners where the supply is without consideration.
+[52]
+A requirement is that the supply would have been a taxable supply but for the fact that the supply was for no consideration. The Subdivision will not apply if the acquirer is both registered and makes the acquisition for a solely creditable purpose.
+89. Subdivision 72-C may apply to a supply made between a partnership and its partners where the consideration for the supply is inadequate.
+[53]
+The Subdivision does not apply if the recipient is both registered and makes the acquisition for a solely creditable purpose.
+90. Where Division 72 applies to a supply that is made without consideration or for inadequate consideration, the value of the supply is its GST exclusive market value.
+[54]
+Example 6:  Supply by a partnership to a partner for no consideration
+91.
+Shylock and Partners, a firm of solicitors, supplies conveyancing services to clients in the course of the enterprise it carries on. The partnership does the conveyancing for Portia, a partner, on her purchase of a private residence. She provides no consideration to the partnership for the supply of the conveyancing services. The GST exclusive market value of the services supplied is $1,000.
+92.
+The supply of the conveyancing services to Portia attracts the application of Division 72 because the supply was made in the course or furtherance of the partnership's enterprise without consideration, she is an associate of the partnership, and the acquisition is not for a creditable purpose. The partnership is liable for GST of $100.
+Acquisition by a partnership for private or domestic use
+93. If a general law partnership makes an acquisition that has an intended use that is partly for private or domestic purposes and partly in carrying on the partnership enterprise, the acquisition is partly for a creditable purpose. The partnership needs to apportion its claim for an input tax credit under section 11-30 to the extent that the acquisition is for a creditable purpose.
+Example 7:  Acquisition partly for a creditable purpose
+94.
+Nigel and Sue are partners in a partnership. The partnership purchases a car that is intended to be used partly for partnership business and partly for private purposes. The partnership estimates that the business use of the car will be 60% and it claims an input tax credit based on this estimate of creditable purpose.
+[55]
+The partnership is not able to claim an input tax credit to the extent that the acquisition of the car is of a private or domestic nature, that is, 40%.
+Changes in creditable purpose
+95. A supply by a partnership of a thing acquired, to a partner, is an application of the thing by the partnership. Section 129-55 provides:
+Apply, in relation to a thing acquired or imported, includes:
+(a)
+supply the thing; and
+(b)
+consume, dispose of or destroy the thing; and
+(c)
+allow another entity to consume, dispose of or destroy the thing.
+96. Where a general law partnership allows a partner to use a thing for a private or domestic purpose that it acquired in carrying on its enterprise, the partnership applies the thing within the meaning of section 129-55.
+97. If the extent of creditable purpose is changed from that originally intended upon acquisition, for instance private or domestic use changes, the partnership may need to make an adjustment under Division 129.
+98. If the acquisition was of goods solely for a creditable purpose, but applied solely for a private or domestic purpose, Division 130 may apply instead.
+Division 129
+99. Division 129 may apply in relation to any thing that is acquired where there is a change in the extent of creditable purpose. If the actual application of the acquisition for a creditable purpose is less than the intended application for that purpose, the partnership may have an increasing adjustment for the adjustment period.
+[56]
+If the actual application of the acquisition for a creditable purpose is greater than its intended application for that purpose, the partnership may have a decreasing adjustment for the adjustment period. Division 129 does not apply if the partnership previously had an adjustment under Division 130 for the acquisition.
+Example 8:  Adjustment for change in extent of creditable purpose
+100.
+Nigel and Sue, from Example 7, subsequently realise that the business use of the car is actually 70%. The partnership has a decreasing adjustment in its first adjustment period, which reflects the change in creditable purpose from 60% to 70%.
+[57]
+Division 130
+101. Division 130 applies only where goods acquired solely for a creditable purpose are subsequently applied
+[58]
+solely to a private or domestic use. Where this occurs, the partnership has an increasing adjustment under Division 130.
+[59]
+Division 130 does not apply if the partnership previously had an adjustment under Division 129 for the acquisition.
+102. For the purposes of Division 130, it is the private or domestic use by the partnership that is relevant. The Commissioner considers that when goods are removed from the partnership for private consumption by a partner, the partnership will not have an increasing adjustment under Division 130. Rather, there is a supply by the partnership in the course or furtherance of its enterprise.
+[60]
+If there is no consideration, or the supply is for inadequate consideration, Division 72 may apply and the supply may still be a taxable supply.
+[60A]
+103. [Omitted]
+Supplies from a partner to the partnership
+104. A supply that a registered partner makes to the partnership is a taxable supply if it satisfies the requirements of section 9-5. A supply may be of an in kind capital contribution,
+[61]
+or a business transaction that does not involve a contribution of capital.
+Example 10:  Supply by a registered partner to the partnership
+105.
+William is a partner in a GST registered partnership, which manufactures model aeroplanes. He also carries on his own enterprise making parts for model aeroplanes and is registered for GST in relation to that enterprise. A film studio orders a specially designed model aeroplane from the partnership. William, from his own business, sells the parts to the partnership for the manufacture of the model.
+106.
+As the supply meets all the requirements of section 9-5, William makes a taxable supply.
+107. Where a registered partner makes a supply to the partnership without consideration, or for inadequate consideration, the supply may be taxable on application of Division 72.
+[62]
+108. A supply by a partner to a partnership may also be GST-free or input taxed. A sale by a registered partner of an enterprise to a partnership may be the supply of a going concern that is GST-free if the requirements of section 38-325 are met.
+[63]
+A loan or advance made by a registered partner to a partnership may be a financial supply (under item 2 of Subregulation 40-5.09(3)).
+[64]
+Example 11:  Partner making a financial supply to the partnership
+109.
+Paul and Art operate a music store in partnership. In order to fund a new stock of sheet music, Paul lends $5,000 to the partnership. Paul carries on a separately registered enterprise as a money lender. In making the loan, Paul is making a financial supply to the partnership of an interest in or under a credit arrangement, for consideration of an interest in a debt.
+Reimbursements
+110. A partner making an acquisition in relation to the enterprise of the partnership ordinarily makes it in the capacity as partner. However, partners may incur expenses that are directly related to their activities as partners of the partnership, but not actually incurred in their capacities as partners. An example is a partner making calls from a private telephone to partnership clients.
+111. When the partnership reimburses the partner for the expense, Division 111 treats the reimbursement as consideration for an acquisition that the partnership makes from the partner. This Division allows registered entities to claim input tax credits on certain acquisitions made by their employees, agents, officers or partners where such expenses are reimbursed. A registered partnership is entitled to an input tax credit if the requirements of Division 111 are satisfied.
+112. One of the requirements of this Division is that the supply to the partner must be taxable. The partner needs to provide the partnership with the tax invoice (except where the value is $75 or less)
+[65]
+it obtained for this supply, as the partnership may claim an input tax credit if it holds this tax invoice.
+[66]
+113. Where a partner makes an acquisition and is acting in the capacity as a partner of the partnership, the acquisition is taken to be by the partnership.
+[67]
+The question of reimbursements in this instance will not arise (see subsection 111-5(3A)).
+Tax Invoices
+Acquisitions by the partnership
+114. In most cases, where a partner makes a creditable acquisition in the capacity as a partner,
+[68]
+the partnership must hold a tax invoice to claim an input tax credit.
+[69]
+If the tax invoice is for a supply or supplies and the total price is at least $1,000, or such higher amount as the regulations specify, subparagraph 29-70(1)(c)(ii) requires that the tax invoice include enough information to clearly ascertain the identity or the ABN of the recipient. Where the recipient is a partnership, enough information to clearly ascertain the identity of the partnership or its ABN is required.
+[70]
+The identity requirement will be met if the tax invoice shows the names of all the partners, or the registered business name of the partnership.
+115. However, there may be occasions when a document issued to the partnership as a tax invoice is for supplies with a total price of at least $1,000, or such higher amount as regulations specify, but contains only the identity of a partner. The Commissioner has made a determination under subsection 29-10(3) to waive the requirement for the partnership to hold a tax invoice before attributing an input tax credit to a tax period, if the partnership holds a document that contains the identity of a partner instead of the partnership, and that otherwise satisfies the requirements of subsection 29-70(1).
+[71]
+116. Where the tax invoice shows a total price of less than $1,000, the fact that it shows the identity of a partner and not the identity of the partnership will make no difference. The identity of the recipient is not a requirement for tax invoices for this amount.
+[72]
+Supplies by the partnership
+117. Similarly, where partners make supplies in their capacity as partners of a partnership, tax invoices issued by the partnership should show enough information to clearly ascertain the partnership's identity and ABN.
+[73]
+The identity requirement will be met if the tax invoice, for example, shows the names of all the partners, or the registered business name of the partnership. However, the Commissioner has made a determination under subsection 29-10(3) to waive the requirement for a recipient to hold a tax invoice before attributing an input tax credit to a tax period, if the recipient holds a document that contains the identity of a partner instead of the partnership (where the supply was made on behalf of the partnership)
+[75]
+and that otherwise satisfies the requirements of subsection 29-70(1).
+[75A]
+Adjustment notes
+118. An adjustment may arise from an adjustment event that occurs in relation to an acquisition made by a partnership.
+[76]
+The adjustment note must contain enough information to clearly ascertain the identitythe address or ABN of the partnership as recipient,
+[77]
+unless the tax invoice for the acquisition showed a total price of less than $1,000, or the price of a supply which becomes taxable was less than $1,000.
+[78]
+However, the Commissioner has made a determination under subsection 29-20(3) to waive the requirement for an entity to hold an adjustment note before attributing a decreasing adjustment to a tax period, if the entity holds a document that contains the identity of a partner instead of the partnership (where the supply was made by or to the partnership)
+[78A]
+and that otherwise satisfies the requirements of subsection 29-75(1).
+[78AA]
+119. [Omitted].
+120. [Omitted].
+Can a general law partnership make a supply of a going concern?
+121. We consider that a general law partnership can make a supply of a going concern.
+[80]
+Under subsection 38-325(2), a partnership supplies a going concern if the supply is made under an arrangement where:
+•
+the partnership supplies to the recipient all of the things necessary for the continued operation of an enterprise; and
+•
+the partnership carries on or will carry on the enterprise until the day of the supply.
+122. The supply of a going concern is GST-free if the requirements of subsection 38-325(1) are met. Those requirements are:
+•
+the supply is for consideration;
+•
+the recipient of the supply is registered or required to be registered; and
+•
+the supplier and the recipient have agreed in writing that the supply is of a going concern.
+123. A general law partnership may make the supply of a going concern to another partnership comprising some of the same partners as the partnership making the supply. This may occur where a partner supplies their interest in the partnership to an incoming partner, or the existing partners.
+124. The supply of an interest in a partnership is not, of itself, a supply of a going concern.
+[81]
+However, if a supply of an interest in a partnership results in the general dissolution and wind-up of the existing partnership (rather than a technical dissolution and reconstitution - see paragraphs 148-171 below), this has the effect of transferring the entire enterprise from the old partnership to the new partnership. The sale of an interest in a partnership under this arrangement results in the supply of a going concern by the 'old' partnership to the 'new' partnership, which may be GST-free if the requirements of subsection 38-325(1) are met.
+125. Upon the supply of a going concern by the old partnership to the new partnership, the old partnership is dissolved and is required to cancel its GST registration. The new partnership needs to apply for a GST registration.
+Dissolution of a partnership
+126. At general law, dissolution of a partnership may be brought about in a number of different ways, including by a change in its membership or by a cessation of its business. Where the partnership no longer carries on a business, it is dissolved and wound up. However, on departure of a partner (upon resignation, retirement or death), the partnership is either wound up or the continuing partners agree that the business or firm may be carried on by the continuing partners, with or without new partners.
+[82]
+In the latter situation, there may be no change in the outward appearance of the partnership business or firm.
+127. A dissolution leading to the winding up of the partnership is called a general dissolution. A dissolution that does not result in the winding up of a partnership is called a technical dissolution.
+[83]
+A technical dissolution occurs where the assets and liabilities of the partnership are taken over by the continuing partners (and any new partners) and the partnership business is continued without any apparent break.
+General dissolution
+128. A general dissolution of a partnership may be brought about in a number of ways. These include:
+•
+by mutual agreement between the partners;
+•
+upon the expiration of time if the partnership is for a fixed period of time;
+•
+by the death or bankruptcy of a partner; and
+•
+permanent cessation of the business carried on.
+[84]
+129. When a partnership dissolution leads to its winding up, the partners retain their authority to bind the other members of the partnership for the purpose of winding up the affairs of the partnership, and only for that purpose. Their other rights and obligations also continue for this purpose. See for instance, subsection 41(1) of Queensland's
+Partnership Act 1891:
+After the dissolution of a partnership the authority of each partner to bind the firm, and the other rights and obligations of the partners, continue notwithstanding the dissolution so far as may be necessary to wind up the affairs of the partnership, and to complete transactions begun but unfinished at the time of the dissolution, but not otherwise.
+[85]
+130. Effectively, a partnership continues, although only for the purpose of winding up. As stated in Lindley & Banks:
+[86]
+For the purposes of winding up, the partnership is deemed to continue; the good faith and honourable conduct due from every partner to his co-partners during the continuance of the partnership being equally due so long as its affairs remain unsettled; and that which was partnership property before, continuing to be so for the purpose of dissolution, as the rights of the partners require.
+GST consequences of a general dissolution
+131. Some or all of the partners may continue to carry on the enterprise of the partnership during its winding up. The definition of 'carrying on an enterprise' includes doing anything in the course of the termination of the enterprise.
+[87]
+The activities, including the final distribution, that are carried out as part of the winding up are in 'carrying on an enterprise'.
+Supplies made by a partnership on winding up
+132. Realising business assets as part of winding up a partnership involves the partnership making supplies in the course or furtherance of an enterprise that it carries on. Those supplies are taxable supplies if all the requirements of section 9-5 are satisfied.
+133. Following the payment of the partnership debts and other liabilities after realisation of assets, any available surplus is applied in making distributions to the partners.
+[88]
+134. Where not all of the assets
+[89]
+of the partnership are required to be sold in order to meet the debts and other liabilities of the partnership, remaining assets may be distributed to the partners.
+[90]
+135. The Commissioner considers that where an asset is distributed
+in specie
+to a partner there is a supply made by the partnership in the course or furtherance of the partnership's enterprise.
+[90A]
+The GST Act specifically provides that anything done in connection with the termination of an enterprise is treated as done in the course of carrying on that enterprise. Accordingly, there can be no doubt that all supplies of assets made whilst the business of the partnership is being wound up are in the course of the enterprise that the partnership carries on.
+Final distributions to the partners
+135A. The Commissioner takes the view that an
+in specie
+distribution to the partners as part of the final distribution is made by a partnership for consideration.
+[90B]
+135B. A partner's interest in the partnership (including an interest in the capital of the partnership) entitles the partner to a return of capital when the partnership is dissolved. The partner's interest in the partnership entitles the partner to a share of the ultimate residue after the payment of the debts and liabilities of the partnership and after the return of capital.
+135C. When a partnership makes an
+in specie
+distribution to a partner as part of a final distribution it is a consequence of the partner contributing capital to the partnership and becoming a partner under the partnership agreement or as a consequence of an accumulation of income within the partnership. The consideration for an
+in specie
+distribution from a partnership is the proportion of the partner's interest in the partnership. It is expected that the GST inclusive market value of this consideration would be reflected by the value of the property distributed and may be represented by:
+[90C]
+(a)
+an amount debited to the capital account of the partner;
+(b)
+an amount debited to the current account of the partner; or
+(c)
+a combination of amounts debited to both the partner's capital account and current account.
+Example 12:  supplies made by a partnership to the partners on winding up
+135D.
+Jim and Myra, painters and decorators, decide to retire and wind up their GST registered partnership. The partnership plant and equipment are sold to another firm of decorators. The supply of plant and equipment is made to the other firm of decorators in the course or furtherance of the partnership's enterprise, and is a taxable supply by the partnership.
+135E.
+However, not all of the partnership assets need to be sold to meet the debts and other liabilities of the partnership. The partnership is left with $6,000 in money, and a motor vehicle with a GST inclusive value of $5,500. The partnership's final distribution to Jim consists solely of the vehicle.
+135F.
+Jim's interest in the partnership is reduced by the value of the vehicle upon the making of the final distribution to him. The supply of the vehicle by the partnership is made in the course or furtherance of the partnership's enterprise, for consideration equal to the reduction in the value of Jim's interest in the partnership (including his interest in the capital of the partnership). As a result, the supply by the partnership to Jim is a taxable supply. As the GST exclusive market value of the vehicle is $5,000, the partnership has a GST liability of $500. After discharging this liability, the partnership has $5,500 in money.
+135G.
+The partnership makes a final distribution of the remaining $5,500 in money to Myra. This is not a supply for GST purposes.
+136. [Withdrawn]
+137. [Withdrawn]
+138. [Withdrawn]
+139. [Withdrawn]
+140. [Withdrawn]
+141. [Withdrawn]
+142. [Withdrawn]
+143. [Withdrawn]
+144. [Withdrawn]
+145. [Withdrawn]
+Supplies made by the partners on winding up a partnership
+146. If, after payment of debts and other liabilities of the partnership, there is a surplus, the partners ordinarily would not make any supplies to the partnership. Where the partnership has a deficiency upon winding up, the partners may contribute money or other assets to ensure that the partnership meets its debts and other liabilities. In this case, the partners' interests in the partnership are not extinguished until the partnership has met its debts and other liabilities.
+147. The contribution of money by a partner to make good a partnership deficiency is not a supply. The supply of other assets by a registered partner to the partnership, if made in the course or furtherance of their separate enterprise, is a taxable supply if all the requirements of section 9-5 are met. The partnership acquires the assets in the course of the termination of its enterprise, that is, in carrying on its enterprise. It therefore makes a creditable acquisition of the asset supplied by the partner.
+Technical dissolution
+148. Under general law, any change in the membership of a general law partnership leads to its dissolution. However, as previously discussed in paragraphs 126 and 127 of this ruling, the dissolution may not lead to the winding up of the partnership. The continuing partners and any new partner may conduct the business of the partnership without any break in its continuity. We refer to this as a reconstituted partnership.
+149. Whether or not there is a reconstituted partnership depends on the intention of the parties and the terms and conditions of the partnership agreement.
+150. A written partnership agreement may expressly provide for the continuation of the firm or business in the event of a change in the membership of the partnership. This provision is often referred to as a continuity or non-dissolution clause. In the absence of a written agreement, such a clause may be implied by the conduct of the partners following the retirement or death of a partner, or introduction of a new partner.
+Effectiveness of continuity clauses
+151. The effectiveness of continuity clauses has been discussed in a number of cases. In
+S.J. Mackie Pty Ltd v. Dalziell Medical Practice Pty Ltd (Dalziell),
+[91]
+two proprietary companies carried on the practice of radiology as partners, pursuant to an agreement. A radiologist who was employed by the partnership was offered a partnership. He accepted. Some months later, he was excluded from the partnership, and he sought an account of the profits and a share of the goodwill of the partnership. The original partnership deed included a clause stipulating that the partnership:
+...shall be a continuing partnership and shall not be dissolved by the transfer or purported transfer of any unit or other interest in the partnership.
+152. The Full Court of the Supreme Court of Queensland took the view that a non-dissolution clause did not negate the basic principle of partnership law that any change in membership 'destroyed'
+[92]
+the existing partnership. The court found it 'impossible to give literal effect to a provision ... that the partnership is a continuing partnership not dissolved by transfer of a unit or other interest in the partnership'.
+[93]
+153. Similarly, in
+FC of T v. Jeffries,
+[94]
+the Court found that a partnership was dissolved when the outgoing partner assigned his interest in the partnership. In
+Hadlee and Sydney Bridge Nominees Ltd v. Commissioner of Inland Revenue (Hadlee),
+[95]
+Eichelbaum J expressed a similar view. The judgments in
+Dalziell
+and
+Hadlee
+drew on comments made in the House of Lords decision,
+Commissioners for General Purposes of Income Tax for City of London v. Gibbs and Others,
+[96]
+which held that the four remaining partners were a different partnership to the original five, with different rights, powers and division of property.
+154. The Courts have, however, distinguished between a technical dissolution and a general dissolution. They have shown a reluctance to order a partnership to be wound up on a change of members where there is an express or implied continuity clause, and it is clear that the firm continues.
+155. In
+Abbott v. Abbott (Abbott),
+[97]
+the Court considered the question of whether there was a general dissolution of a partnership between a father and his five sons when one of them retired. The partnership agreement provided that 'The death or retirement of any partner shall not terminate the partnership', and that 'If any partner shall ... do or suffer any act which would be a ground for the dissolution of the partnership by the court then he shall be considered as having retired.'
+[98]
+156. Clauson J stated:
+[99]
+If this were a partnership at will and one partner said, 'I am determined to go out of this partnership' the effect would be that the partnership would come to an end as between all the partners, although the others might form some new partnership amongst themselves if they so desired.
+157. His Honour also said:
+So there is some limitation upon this character of the partnership; it is subject to the express agreement that a single partner cannot determine the partnership although he can determine it as between himself and the others. This involves the fact that if one intimates his desire to go out, the partnership shall continue among the remaining partners. The partners have agreed that the partnership shall continue, notwithstanding that one partner goes out, and they have also agreed that notwithstanding that one partner dies, the partnership shall continue. That does not mean that the partnership shall continue when all but one of the partners has died or retired, because there cannot be a partnership with one partner.
+[100]
+158. In
+Sobell v. Boston and Others (Sobell),
+[101]
+following an oral agreement between the plaintiff and the defendants, who were practising as solicitors, the plaintiff left the partnership and the defendants continued the business under the same name and from the same address. The plaintiff sought a declaration that the partnership was dissolved, an order for the sale of the assets and goodwill of the business and an account of sums due in respect of his share in the capital and profits.
+159. The application was dismissed. Goff J considered that the determination that he had to make was whether, in light of the conduct of the parties, there was a general dissolution of the partnership or that the plaintiff had retired from the partnership leaving the partnership continuing between the remaining three partners. His Honour found that:
+[102]
+...the true inference from their conduct is that the plaintiff retired ... and the agreement did not work a dissolution.
+160. His Honour went on to say:
+[103]
+...once given that it is found that a partner has retired, I do not see how, as a general rule he can be entitled to a sale which is inconsistent with retirement, involving as that does the other partners taking over the business for themselves ... In my judgment, what he is entitled to is the value of his share at the date of his retirement, including, of course, the then goodwill, the ascertainment of which must at all events normally be a matter of inquiry, accounting and valuation, not sale.
+161.
+Sobell
+[104]
+was referred to with approval in
+Chia & Ors v. Ireland (Chia).
+[105]
+In
+Chia,
+the Court was dealing with a dispute between an outgoing partner (Dr. Ireland) and continuing partners about the value of the outgoing partner's share. The outgoing partner had brought an action claiming that the partnership of medical practitioners had been dissolved, and sought an order for winding up and for the taking of partnership accounts.
+162. The appeal failed. The Court concluded that there had not been a general dissolution of the partnership, but a retirement by Dr Ireland from a continuing business. Williams J observed:
+The distinction between a technical dissolution of partnership upon retirement of one partner from a continuing partnership and a general dissolution when the affairs of the business are fully wound up is of importance to this appeal. An appreciation of the distinction affects an understanding of the nature of the order under appeal and the rights of the outgoing partner with respect to the remaining partners in a continuing enterprise when the partnership agreement is silent as to the consequences of dissolution.
+Continuity clauses - are they effective for GST purposes?
+163. To regard a change in the membership of a partnership as leading to a winding up of an existing partnership and the formation of a new partnership would lead to administrative and compliance difficulties for the partnership and its partners. This would be the case particularly for partnerships that experience frequent membership changes. Every change in membership would require cancellation of the partnership's GST registration (and Australian Business Number (ABN)) and re-application for a new GST registration (and ABN) by the continuing partners.
+164. We consider that, for GST purposes, it is open and appropriate for the Commissioner to accept that a change in membership does not necessarily result in the general dissolution and winding up of the partnership.
+165. We acknowledge that there is judicial support for the view that a continuity clause is ineffective to override the fundamental principle that a change in the membership of a partnership dissolves the old and leads to the formation of a new partnership.
+166. However, other cases support the notion of a reconstituted partnership. This, combined with the practical and administrative considerations and the purposive intent behind the treatment of a partnership as an entity for GST purposes, supports our view that, at least for GST purposes, a continuity clause (whether express or implied) is effective.
+167. The view that there can be continuity of a partnership for GST purposes means that the partnership is dissolved only as far as a retiring or deceased partner is concerned.
+[106]
+The retiring or deceased partner's interest in the partnership crystallises as a debt owing by the partnership to that partner. The reconstituted partnership continues as far as the continuing partners are concerned.
+168. We consider that, for a partnership to be treated as reconstituted, there needs to be an express or implied continuity clause in the partnership agreement, and there should be no break in the continuity of the enterprise or firm. Indicators of continuity of the enterprise or the firm include:
+•
+substantially all of the partnership assets remain with the continuing partnership;
+•
+the nature of the enterprise remains substantially unchanged;
+•
+the client or customer base remains substantially unchanged; and
+•
+the business name or name of the firm remains unchanged.
+169. None of these indicators is conclusive evidence of a reconstituted partnership, nor is its absence necessarily indicative of a dissolution that results in the winding up of the partnership. The position is determined on the facts and circumstances of each case.
+Change in the membership of a two-partner partnership
+170. A partnership can be a reconstituted partnership only where two or more partners remain. In a two-partner partnership, the departure of one through retirement or death will normally lead to a general dissolution and winding up of that partnership. As noted in Abbott, 'there cannot be a partnership with one partner'.
+[107]
+171. However, we accept that a two-person partnership can be reconstituted. This occurs where a partner in a two-partner partnership sells or assigns an interest in the partnership to an incoming partner, or where a partner dies and the partnership agreement allows for continuity of the partnership with either the executor, trustee or beneficiary of the deceased partner's estate. The continuity clause may be express, or implied by way of conduct. Where this happens and the firm continues without any break in the continuity of the enterprise, we consider there is a change in members and a reconstituted partnership.
+GST consequences of a technical dissolution (reconstitution)
+172. A reconstituted partnership retains its GST registration despite the change in its membership. As there is no winding up of the partnership, the change in membership does not give rise to any supplies or acquisition from one partnership to another partnership.
+173. The GST consequences of a reconstituted partnership for the partners will depend on the circumstances of the reconstitution. A reconstitution may result from a partner selling or assigning their interest in the partnership. Alternatively, a change in membership may occur without any sale or assignment by a partner of their interest in the partnership.
+Sale or assignment of an interest in a partnership - partner to partner transaction
+174. A sale or assignment of an interest in a partnership may be made by a continuing partner to an incoming partner, or by an outgoing partner to either a continuing or an incoming partner. The supply is a partner-to-partner transaction and does not involve the creation or supply of any new interest by the partnership. Such a sale or assignment is a supply by the partner of a financial interest, and is a financial supply if the requirements of Subregulation 40-5.09(1) are satisfied. If the partner making the supply is unregistered, or the supply is not made in the course or furtherance of an enterprise carried on by the partner, no GST consequence arises in relation to the supply.
+[108]
+No sale or assignment of interests - partnership transaction
+175. A reconstituted partnership may also involve the creation and supply by the partnership of a new interest in the partnership, rather than the supply of an existing interest by a partner. The GST consequences of such a reconstitution for the partnership, the outgoing partner and the incoming partner are set out in the following paragraphs.
+Outgoing partner and partnership
+176. For a retiring or deceased partner (the outgoing partner), the crystallisation of their interest in the partnership as a debt is not as a consequence of a supply of any new financial interest by the partnership.
+[109]
+A partner's interest in a partnership includes a right to share the surplus (if any) after repayment of debts and other liabilities. This right is acquired when the partnership is formed, or when the partner joins the partnership. The crystallisation is of a right that the partner already has, and is not a new right that is acquired.
+177. The crystallisation of the interest in the partnership as a debt results in the extinguishment of the outgoing partner's interest in the partnership. Following this extinguishment, there is an increase in each of the continuing partners' fractional interest in the partnership. This increase is a consequence of the extinguishment of the outgoing partner's interest and does not involve a supply of any new or additional interests in the partnership by the partnership.
+Incoming partner and partnership
+178. Where a reconstitution results from the addition of a new partner (the incoming partner), there is a supply of a new interest in the partnership by the partnership to the incoming partner. It is a supply of a financial interest in the course or furtherance of the enterprise carried on by the partnership. If the other requirements of Subregulation 40-5.09(1) are satisfied, it is a financial supply.
+179. Consideration for the supply of the new interest is the capital contribution made by the incoming partner
+[110]
+or the promise to provide labour, skills or services in the conduct of the partnership business.
+180. In these circumstances, there will be a reduction, by way of extinguishment, in the interests of the continuing partners, which does not involve a supply by them.
+Change in the legal ownership of property upon a transfer of a partnership interest
+181. As partnerships are not recognised as separate legal entities, legal title in partnership property is held by the partners. Regardless of legal title, each partner has a beneficial interest in each and every partnership asset. The partner or partners holding legal title do so on trust for themselves and the other partners, that is, the partnership.
+182. A supply of an interest in a partnership by a partner may require the outgoing partner to effect a change in legal title or interest in partnership assets. The acquiring partner acquires the beneficial and legal interests under the supply of the interests in the partnership. For GST purposes, the transfer of the legal interest does not involve any separate supply by the outgoing partner.
+183. Any supply of partnership property would be by the partnership. Therefore, where property stays in the partnership, there is no supply as the supply and acquisition would be by the partnership.
+GST liabilities and obligations of partners before and after reconstitution
+184. Retiring partners are only responsible for the GST liabilities and obligations of the partnership before reconstitution and not for any after its reconstitution. Similarly, new partners are only responsible for the GST liabilities and obligations of the partnership after its reconstitution and not for any liabilities and obligations before its reconstitution. However, the continuing partners are responsible for the GST liabilities and obligations of the partnership both before and after reconstitution.
+[111]
+185. The acceptance of a reconstituted partnership and the fact that it retains its existing GST registration makes it prudent for reconstituted partnership and the retiring partner or partners to inform the Commissioner of the change in the membership of the partnership. Where there is a failure to notify the Commissioner of a change in the membership of a general law partnership, recovery action may be contemplated against a retired partner for any unpaid GST liabilities arising after the reconstitution of the partnership.
+186. The notification may be made by the retiring partner, the personal representative of a deceased partner, or the continuing partners and any incoming partner, or by a person authorised by those parties to deal with the Commissioner in relation to their GST affairs. In the case of a large partnership, a managing partner with the consent and authorisation of all partners, retiring, continuing or incoming, may make the notification.
+One partner acquires all the other interests in the partnership and continues as a single entity
+187. Where one partner takes over the business of the partnership, this is usually achieved by the purchase of the other partners' interests in the partnership.
+188. It makes no difference whether the sale or assignment of an interest in a partnership by an outgoing partner is to either an incoming or a continuing partner. Therefore, where one partner acquires the partnership interests of all the other partners, the outgoing partners make supplies of financial interests to the acquiring partner. The supplies by the outgoing partners, and the acquisition-supply by the acquiring partner, will be financial supplies if the requirements of Subregulation 40-5.09(1) are met.
+189. By acquiring all of the other partnership interests, the acquiring partner effectively takes over all of the assets and liabilities of the partnership
+[112]
+and carries on the enterprise in its own right.
+190. Upon the supply of all the other interests in the partnership to the acquiring partner, the partnership is dissolved. Since the partnership is no longer carrying on the enterprise, the partnership GST registration (and ABN) must be cancelled. The purchaser may apply for a new GST registration (and ABN) and must do so if it is required to be registered.
+Cancellation of Registration
+191. A partnership may choose to cancel its GST registration if it no longer meets the registration turnover threshold.
+[113]
+However, a partnership is entitled to retain its GST registration until it has ceased to carry on its enterprise. This will be when the final distributions are made to the partners upon the winding up of the partnership.
+[114]
+At this time, the partnership ceases to exist for the purposes of the GST Act.
+192. Under subsection 25-55(2), the Commissioner must cancel the partnership's registration, even if no application is made:
+•
+if the Commissioner is satisfied that the partnership is not carrying on an enterprise; and
+•
+the Commissioner believes on reasonable grounds that the partnership is unlikely to carry on an enterprise for at least twelve months.
+Detailed contents list
+193. Below is a detailed contents list for this Goods and Services Tax Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+7
+Background
+9
+Ruling with explanation
+16
+What is a general law partnership?
+16
+Formation of a general law partnership
+17
+How and when a general law partnership is formed
+17
+Intention not to form a general law partnership
+19
+General law partnership as an entity for GST purposes
+21
+Supplies and acquisitions in the capacity as partner
+27
+Carrying on an enterprise
+31
+Supplies and acquisitions made by the partnership on formation
+32
+Interests in a partnership
+33
+Financial supplies
+36
+Interest in or under the capital of a partnership and interests in a partnership
+41
+Supply of an interest in a partnership as a financial supply
+53
+Partnership as supplier of the interest in the partnership
+54
+General law partnership as a financial supply provider
+56
+Consideration for the supply of an interest in a partnership
+58
+Supply of an interest in a partnership made in the course or furtherance of an enterprise
+59
+Registration
+62
+Acquisitions by a partnership upon formation
+65
+Example 1: In kind capital acquisition relates to taxable supply by partnership.
+68
+Supplies and acquisitions made by the partners on formation
+71
+Example 2: Formation of the partnership and GST consequences
+73
+Example 3: Taxable supply of in kind capital contribution
+76
+Example 4: Supplies of interests in a partnership
+78
+In kind capital contribution - change in creditable purpose?
+79
+Example 5: In kind capital contribution - no change in creditable purpose
+81
+Single entity selling an interest in its enterprise to form a partnership
+82
+Operation of the partnership
+85A
+In specie distributions during the operation of the partnership
+85A
+In the course or furtherance of an enterprise
+85B
+Supply for consideration
+85H
+Example 6:  Supply by a partnership to a partner for no consideration
+91
+Acquisition by a partnership for private or domestic use
+93
+Example 7:  Acquisition partly for a creditable purpose
+94
+Changes in creditable purpose
+95
+Division 129
+99
+Example 8:  Adjustment for change in extent of creditable purpose
+100
+Division 130
+101
+Supplies from a partner to the partnership
+104
+Example 10:  Supply by a registered partner to the partnership
+105
+Example 11:  Partner making a financial supply to the partnership
+109
+Reimbursements
+110
+Tax Invoices
+114
+Acquisitions by the partnership
+114
+Supplies by the partnership
+117
+Adjustment notes
+118
+Can a general law partnership make a supply of a going concern?
+121
+Dissolution of a partnership
+126
+General dissolution
+128
+GST consequences of a general dissolution
+131
+Supplies made by a partnership on winding up
+132
+Final distributions to the partners
+135A
+Example 12: supplies made by a partnership to the partners on winding up
+135D
+Supplies made by the partners on winding up a partnership
+146
+Technical Dissolution
+148
+Effectiveness of continuity clauses
+151
+Continuity clauses - are they effective for GST purposes?
+163
+Change in the membership of a two-partner partnership
+170
+GST consequences of a technical dissolution (reconstitution)
+172
+Sale or assignment of an interest in a partnership - partner to partner transaction
+174
+No sale or assignment of interests - partnership transaction
+175
+Outgoing partner and partnership
+176
+Incoming partner and partnership
+178
+Change in the legal ownership of property upon a transfer of a partnership interest
+181
+GST liabilities and obligations of partners before and after reconstitution
+184
+One partner acquires all the other interests in the partnership and continues as a single entity
+187
+Cancellation of registration
+191
+Detailed contents list
+193
+Commissioner of Taxation
+29 October 2003
+Footnotes
+[1]
+In this Addendum, an
+in specie
+distribution has the same meaning as an in kind distribution, which is the terminology used in GSTR 2003/13.
+[2]
+See paragraph 11 for what we mean by a tax law partnership.
+[3]
+(1980) 143 CLR 440; 80 ATC 4076; 10 ATR 608.
+[3A]
+The definition of partnership in subsection 995-1(1) of the ITAA 1997 was amended by
+Tax Laws Amendment (2004 Measures No. 2) Act 2004
+- see item 5 of Schedule 3.
+[3AA]
+Refer to each Addendum to see how that Addendum amends this Ruling.
+[4]
+The general law definition is set out in the Partnership Act of each State and Territory as follows: subsection 7(1) WA;  subsection 5 (1) Qld; subsection 5(1) Vic; subsection 1(1) SA; subsection 1(1) NSW; subsection 6(1) ACT; subsection 6(1) Tas; subsection 5(1) NT. This definition is adopted from the common law.
+[5]
+Paragraph 184-1(1)(e).
+[6]
+Section 15AA,
+Acts Interpretation Act 1901.
+[7]
+See para 14 of Taxation Ruling TR 94/8 Income tax: whether business is carried on in partnership (including 'husband and wife' partnerships).
+[8]
+See
+Adam v Newbigging
+(1888) 13 App. Case 308 per Lord Halsbury at 315.
+[9]
+Ed RC I'Anson Banks, 1995,
+Lindley and Banks on partnership
+(Lindley and Banks), 17th edition, Sweet & Maxwell, London, paragraph 5-04.
+[10]
+However, the evidence will frequently be insufficient to prove the existence of a partnership. See for instance,
+Swiss Air Transport Co Ltd v Palmer
+(1976) 2 Lloyd's rep 604, Lindley and Banks, paragraph 5-06.
+[11]
+Lindley and Banks, paragraph 3-04.
+[12]
+(1952) 5 AITR 290 at 293-4; 9 A.T.D. 447, at page 450. Referred to by the Full Federal Court in
+Rowe v. Federal Commissioner of Taxation
+82 ATC 4243; 13 ATR 110.
+[13]
+82 ATC 4243; 13 ATR 110.
+[14]
+82 ATC 4243 at 4243 to 4244; 13 ATR 110 at 111.
+[15]
+10 A.T.D. 170 at 172.
+[16]
+85 ATC 4072; (1985) 5 FCR 247; 59 ALR 98; 16 ATR 208.
+[17]
+72 ATC 4231; (1972) 128 CLR 158; 3 ATR 458.
+[18]
+The note to subsection 184-1(1) supports this conclusion. The note provides that the term 'entity' covers groups of legal persons, and other things that in practice are treated as having a separate identity in the same way as a legal person does.
+[19]
+However, under section 50 of the TAA 1953, the obligations on a partnership are imposed on each partner, and the partners are jointly and severally liable to pay GST.
+[20]
+See Goods and Services Tax Determination GSTD 2006/6 Goods and services tax:  does MT 2006/1 have equal application to the meaning of 'entity' and 'enterprise' for the purposes of the
+A New Tax System (Goods and Services Tax) Act 1999
+?
+[21]
+An exception to this is a partnership of individuals or mostly individuals carrying on an activity or activities without a reasonable expectation of profit or gain. This is not carrying on an enterprise (paragraph 9-20(2)(c)).
+[22]
+See
+Canny Gabriel Castle Jackson Advertising Pty. Ltd. and Anor v. Volume Sales (Finance) Pty. Ltd.
+(1974) 131 CLR 321 at 327; 3 ALR 409 at 412;
+FC of T v. Everett
+80 ATC 4076 at 4079; 28 ALR 179 at 182; 10 ATR 608 at 611;
+Bakewell v. DFC of T
+(SA) (1937) 58 CLR 743 per Dixon and Evatt JJ at 770.
+[23]
+A partner's interest in the capital of a partnership cannot be quantified and assigned separately from the interest or share in the partnership - see
+Kelly v. IRC
+(NZ) (1970) NZLR 161 at 164, 1 ATR 380; referred to by the majority in
+FC of T v. Everett
+80 ATC 4076 at 4080 to 4081; 10 ATR 608 at 612 - 613; 28 ALR 179 at 184 - 185.
+[24]
+Subregulation 40-5.09(1).
+[25]
+Regulation 40-5.02.
+[26]
+See paragraph 24 of GSTR 2002/2.
+[27]
+See paragraph (d) of item 10. In this ruling, we only discuss the meaning of the capital of a partnership.
+[28]
+The term 'securities' is defined in the dictionary to the GST regulations by reference to subsection 92(1) of the Corporations Law.
+[29]
+Lindley and Banks, at paragraph 17-01.
+[30]
+(1989) 64 ALJR 121, 89 ALR 513, (1989) 168 CLR 301.
+[31]
+(1992) 108 ALR 385; 92 ATC 4380; 23 ATR 494.
+[32]
+Partners who make a promise to provide labour, skills and services may have a capital account, but with a nil balance or value in the capital of the partnership at the time of formation of the partnership.
+[33]
+Subsection 184-5(1).
+[34]
+For further information on acquisition-supplies, see Goods and Services Tax Ruling GSTR 2002/2: GST treatment of financial supplies and related supplies and acquisitions. Note particularly paragraph 110 of that Ruling.
+[35]
+(1991) 15 TRNZ 952, (1991) 13 NZTC 3361.
+[36]
+(1991) 15 TRNZ 952 at 958, (1991) 13 NZTC 3361 at 3366.
+[37]
+The New Zealand law specifies that GST applies only to a supply made in the course or furtherance of a taxable activity. The courts have given a broad meaning to 'course or furtherance'.
+[38]
+Section 23-5. Also see GSTR 2001/7: meaning of GST turnover, including the effect of section 188-25 on projected GST turnover. Note that the value of input taxed supplies is not included in the calculation of current or projected GST turnover.
+[39]
+Section 23-15. The registration turnover threshold for non-profit bodies is $150,000 or a higher amount as specified in the GST regulations.
+[40]
+Subsection 23-10(2).
+[41]
+Section 138-5(1).
+[42]
+Paragraph 11-15(2)(a).
+[43]
+A supply of money or digital currency is not a supply under subsection 9-10(4) (unless it is consideration for a supply of money or digital currency).
+[44]
+1988 12 TRNZ 107; 10 NZTC 453.
+[45]
+1988 12 TRNZ 107 at 111; 10 NZTC 453 at 457.
+[46]
+See paragraph 11-5(b).
+[47]
+See paragraph 57 of this Ruling.
+[48]
+See paragraph 129-50(2)(a). For a further explanation, see Goods and Services Tax Ruling GSTR 2006/4 Goods and services tax: determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose.
+[49]
+For further discussion on the supply of a going concern, see paragraphs 121-125 of this Ruling.
+[49A]
+It is noted that a supply that has no discernible relationship and hence no connection with an entity's enterprise cannot be a taxable supply even if the asset is applied by entity in carrying on the enterprise.  The Commissioner considers that it will be an exceptional circumstance for a supply of an asset that is applied in the supplier's enterprise not to have a connection with the enterprise.  One example of this circumstance is identified in paragraph 42 of Goods and Services Tax Ruling GSTR 2003/6. GSTR 2003/6 is about the transfers of enterprise assets as a result of property distributions under the Family Law Act 1975 or in similar circumstances. Although such supplies are not in the course or furtherance of an enterprise, a partnership making such supplies should consider whether an adjustment under Divisions 129 or 138 is required in respect of all acquisitions or importations that relate to the making of the supply.
+[49B]
+(1948) 77 CLR 143; [1948] HCA 28.
+[49C]
+[2008] HCA 22 at [7].
+[49D]
+[2007] 3 CMLR 1003.
+[49E]
+[2008] HCA 22 at [30].
+[49F]
+See section 9-75. Where the consideration for a supply is non-monetary, the GST inclusive market value of that consideration is used to work out the price and value of the supply. 'GST inclusive market value' is defined in section 195-1.
+[49G]
+As reflected in the partner's loan account or similar.
+[50]
+See section 72-1.
+[51]
+'Associate' is defined in section 195-1 by reference to section 318 of the ITAA 1936. The definition is very wide and includes other partners of the partnership, spouses and children of any partner, certain other relatives and their spouses, companies that are controlled by a partner or associates and, if the company is also a partner, any associates of the company.
+[52]
+Supplies from unregistered partners will never be taxable supplies by the partner or creditable acquisitions by the partnership. Division 72 does not apply to supplies by unregistered entities.
+[53]
+Inadequate consideration is consideration that is less than the GST inclusive market value - see subsection 72-70(1).
+[54]
+Sections 72-10 and 72-70.
+[55]
+GST Bulletin 2006/1:  How to claim input tax credits for car expenses, gives guidance on methods of apportionment of input tax credits for motor vehicles.
+[56]
+Section 129-20 defines adjustment periods for acquisitions and importations.
+[57]
+For further information about making adjustments under Division 129, see Goods and Services Tax Ruling GSTR 2000/24: Division 129 - making adjustments for changes in extent of creditable purpose.
+[58]
+See paragraph 95 of this Ruling for the meaning of applied.
+[59]
+Note that Section 17 of
+A New Tax System (Goods and Services Tax Transition) Act 1999
+(and not Division 130) applies where assessable goods held for sale or exchange were acquired prior to 1 July 2000.
+[60]
+See paragraphs 85B to 85G of this Ruling.
+[60A]
+See paragraphs 86 to 92 of this Ruling.
+[61]
+Capital contributions can be made at any time, not only upon formation.
+[62]
+See a more detailed discussion of Division 72 at paragraphs 86 to 92 of this ruling.
+[63]
+The supply of going concerns is discussed at paragraphs 121 to 125 of this ruling.
+[64]
+An interest in or under a credit arrangement - see paragraphs 37 to 42 of Goods and Services Tax Ruling GSTR 2002/2: GST treatment of financial supplies and related supplies and acquisitions.
+[65]
+Section 29-80.
+[66]
+Section 111-15.
+[67]
+Subsection 184-5(1).
+[68]
+For indicia of a partner acting in the capacity as a partner in making an acquisition, see paragraph 30 of this Ruling.
+[69]
+Section 29-10(3). However, see paragraph 10 of Goods and Services Ruling GSTR 2000/17: tax invoices, which explains that you do not need a tax invoice if:
+•
+the value of the taxable supply is $75 or less;
+•
+you are claiming an input tax credit for a creditable importation ; or
+•
+a determination by the Commissioner under subsection 29-10(3) applies to your circumstances.
+[70]
+Paragraphs 57 and 58 of GSTR 2000/17.
+[71]
+Section 111-15, and paragraph 74 of GSTR 2000/17.
+[72]
+Subregulation 29-70.01(3).
+[73]
+Paragraphs 29-70.01(2)(c) and 29-70.01(3)(c) of the GST regulations, and paragraph 29-70(1)(b) of the GST Act.
+[74]
+[Omitted.]
+[75]
+For indicia of a partner acting in the capacity as a partner making supplies, see paragraph 29 of this Ruling.
+[75A]
+See A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Partnership) Legislative Instrument 2013.
+[76]
+Section 19-70.
+[77]
+The identity requirement will be met if the adjustment note shows the names of all the partners, or the registered business name of the partnership.
+[78]
+Paragraph 5(1)(c) of the
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012.
+[79]
+[Omitted].
+[80]
+See paragraphs 190-194 of GSTR 2002/5, GST: When is a supply of a going concern GST-free.
+[81]
+See paragraphs 190 and 191 of GSTR 2002/5.
+[82]
+This is often described as a reconstituted partnership.
+[83]
+A technical dissolution is also referred to as a 'notional' dissolution.
+[84]
+See Lindley and Banks, paragraph 24-38. Note that a temporary cessation of the business will not be taken to be a dissolution of the partnership.
+[85]
+See Partnership Acts of other States and Territories: WA, s.49; Vic, s.42; SA, s.38; NSW, s.38; ACT, s.44; Tas, s.43; NT, s.42.
+[86]
+At paragraph 25-54 (5).
+[87]
+Section 195-1.
+[88]
+The distribution may be in respect of advances by a partner, return of capital or remaining surplus (the ultimate residue). We use the term distribution to cover any or all of the three.
+[89]
+In this context, we refer to the asset to mean property of the partnership other than money as defined in section 195-1.
+[90]
+See decision of the
+Privy Council in Cameron v. Murdoch
+63 ALR 575; (1986) 60 ALJR 280 supporting the conclusions reached by Brinsden J of the Supreme Court of Western Australia reported as
+Cameron v. Murdoch
+[1983] WAR 321.
+[90A]
+It makes no difference whether the in specie distribution is made while the partnership is continuing or under a general dissolution.
+[90B]
+See Archibald Howie Pty Ltd v. Commissioner of Stamp Duties (NSW) (1948) 77 CLR 143 (Archibald Howie) per Dixon J at pages 152-154; [1948] HCA 28. See paragraphs 85I and 85J of this Ruling for a discussion of Archibald Howie.
+[90C]
+See paragraphs 85M to 85P of this Ruling for further details.
+[91]
+(1989) 2 Qd. R 87.
+[92]
+(1989) 2 Qd. R 87 at 91.
+[93]
+(1989) 2 Qd. R 87 at 90.
+[94]
+80 ATC 4659; 11 ATR 429; 49 FLR 385.
+[95]
+M171/88; 11 NZTC 6155.
+[96]
+(1942) AC 402.
+[97]
+(1936) 3 All ER 823.
+[98]
+(1936) 3 All ER 823 at 825.
+[99]
+(1936) 3 All ER 823 at 826.
+[100]
+(1936) 3 All ER 823 at 826-827.
+[101]
+(1975) 1 WLR 1587.
+[102]
+(1975) 1 WLR 1587 at 1590.
+[103]
+(1975) 1 WLR 1587 at 1591.
+[104]
+(1975) 1 WLR 1587.
+[105]
+No. SCGRG -99-648 (2000) SASC 47 (3 March 2000).
+[106]
+Abbott v. Abbott
+(1936) 3 All ER 823 at 827.
+[107]
+(1936) 3 All ER 823 at 827.
+[108]
+It is considered that in most cases, the partners are unlikely to be carrying on an enterprise of dealing in partnership interests.
+[109]
+Financial interests are explained at paragraph 38 of this ruling.
+[110]
+The incoming partner may also pay a premium to the continuing partners. This would not usually give rise to any GST consequence as the premium is either paid in money, and is therefore not a supply, or alternatively it is not a supply in the course or furtherance of an enterprise carried on by the partners. Premiums can also be paid by a person to a sole trader to form a partnership. See Lindley and Banks, paragraph 25-06.
+[111]
+See section 50 of the TAA. The obligations on a partnership are imposed on each partner, and the partners are jointly and severally liable to pay GST.
+[112]
+The acquiring partner acquires the beneficial and legal interests in all the partnership assets under the supply. See also
+Ringthane Pty Ltd v Commissioner of State Taxation
+(WA) 93 ATC 4824, 26 ATR 489 where one partner acquired the other partner's interest in a partnership, thereby gaining full control of the business.
+[113]
+If the partnership holds any assets for which entitlements to input tax credits have arisen, at the time when its registration is cancelled, it may have increasing adjustments under Division 138. The adjustment is attributable to the concluding tax period for the partnership. An entity's concluding tax period is determined under section 27-40.
+[114]
+If there is a deficiency and the partners make good that deficiency, the partnership's enterprise is carried on until all of the partnership's liabilities are met.
+Previously released in draft form as GSTR 2003/D4.
+References
+ATO references:
+NO  2003/003276
+ISSN:  1443-5160
+Related Rulings/Determinations:
+GSTB 2006/1
+MT 2006/1
+GSTD 2003/2
+GSTD  2006/6
+GSTR 2000/24
+GSTR 2001/7
+GSTR 2002/2
+GSTR 2002/5
+GSTR 2003/6
+GSTR 2006/4
+GSTR 2006/10
+GSTR 2013/1
+TR 94/8
+Subject References:
+acquisitions
+acquisition-supplies
+adjustments
+adjustment notes
+apply
+associates
+association of persons
+cancellation of registration
+capacity as a partner
+carrying on an enterprise
+carrying on business
+change in creditable purpose
+consideration
+continuity clauses
+creditable acquisitions
+creditable purpose
+entity
+extinguishment of interest in a partnership
+financial interest
+financial supplies
+financial supply provider
+formation of a partnership
+general dissolution of a partnership
+general law partnership
+going concerns
+goods own use
+GST
+GST-free supplies
+in kind capital contributions
+in the course or furtherance of an enterprise
+input taxed supplies
+interests in a partnership
+interest in the capital of a partnership
+interest under the capital of a partnership
+operation of partnership
+partners
+partnerships
+private or domestic
+projected GST turnover
+receipt of income jointly
+reconstituted partnership
+registration
+reimbursements
+supplies
+surrender of an interest in a partnership
+tax invoices
+tax law partnership
+taxable supplies
+technical dissolution of a partnership
+winding up of a partnership
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST) A99  9-5
+ANTS(GST) A99  9-10(4)
+ANTS(GST) A99  9-15(1)
+ANTS(GST) A99  9-20(1)(a)
+ANTS(GST) A99  9-20(2)(c)
+ANTS(GST) A99  9-75
+ANTS(GST) A99  11-5
+ANTS(GST) A99  11-5(b)
+ANTS(GST) A99  11-15(2)(a)
+ANTS(GST) A99  11-30
+ANTS(GST) A99  17
+ANTS(GST) A99  19-40
+ANTS(GST) A99  19-70
+ANTS(GST) A99  23-5
+ANTS(GST) A99  23-10(2)
+ANTS(GST) A99  23-15
+ANTS(GST) A99  25-55(2)
+ANTS(GST) A99  27-40
+ANTS(GST) A99  19-10(3)
+ANTS(GST) A99  29-10(3)
+ANTS(GST) A99  29-20(3)
+ANTS(GST) A99  29-25
+ANTS(GST) A99  29-70
+ANTS(GST) A99  29-70(1)
+ANTS(GST) A99  29-70(1)(c)
+ANTS(GST) A99  29-70(1)(c)(i)
+ANTS(GST) A99  29-70(1)(c)(ii)
+ANTS(GST) A99  29-70(1B)
+ANTS(GST) A99  29-75(1)
+ANTS(GST) A99  29-80
+ANTS(GST) A99  38-325
+ANTS(GST) A99  38-325(1)
+ANTS(GST) A99  38-325(2)
+ANTS(GST) A99  Sub-div 40-A
+ANTS(GST) A99  40-5
+ANTS(GST) A99  Div 72
+ANTS(GST) A99  Sub-div 72-A
+ANTS(GST) A99  72-1
+ANTS(GST) A99  72-10
+ANTS(GST) A99  Sub-div 72-C
+ANTS(GST) A99  72-70
+ANTS(GST) A99  72-70(1)
+ANTS(GST) A99  Div 111
+ANTS(GST) A99  111-5(3A)
+ANTS(GST) A99  111-15
+ANTS(GST) A99  Div 129
+ANTS(GST) A99  129-20
+ANTS(GST) A99  129-50(2)(a)
+ANTS(GST) A99  129-55
+ANTS(GST) A99  Div 130
+ANTS(GST) A99  Div 138
+ANTS(GST) A99  138-5(1)
+ANTS(GST) A99  184-1(1)
+ANTS(GST) A99  184-1(1)(e)
+ANTS(GST) A99  184-5(1)
+ANTS(GST) A99  188-25
+ANTS(GST) A99  195-1
+ANTS(GST) R99  Div 40
+ANTS(GST) R99  40-5.02
+ANTS(GST) R99  40-5.06(1)(b)
+ANTS(GST) R99  40-5.06(2)
+ANTS(GST) R99  40-5.09
+ANTS(GST) R99  40-5.09(1)
+ANTS(GST) R99  40-5.09(3)
+ANTS(GST) R99  40-5.09(3) item 2
+ANTS(GST) R99  40-5.09(3) item 10
+ANTS(GST) R99  40-5.11
+ANTS(GSTT) A99  17
+ITAA 1936  6(1)
+ITAA 1936  90
+ITAA 1936  91
+ITAA 1936  92
+ITAA 1936  318
+ITAA 1997  995-1
+ITAA 1997  995-1(1)
+TAA 1953  50
+TAA 1953  Sch 1  105-60
+Corporations Act 2001 92(1)
+Acts Interpretation Act 15AA
+Tax Laws Amendment (2004 Measures No. 2) Act 2004  Sch 3
+Partnership Act ACT 6(1)
+Partnership Act ACT 38(1)
+Partnership Act ACT 44
+Partnership Act NSW 1(1)
+Partnership Act NSW 38
+Partnership Act NSW 33(1)
+Partnership Act NT 5(1)
+Partnership Act NT 37(1)
+Partnership Act NT 42
+Partnership Act QLD 5(1)
+Partnership Act QLD 36(1)
+Partnership Act QLD 41(1)
+Partnership Act SA 1(1)
+Partnership Act SA 33(1)
+Partnership Act SA 38
+Partnership Act TAS 6(1)
+Partnership Act TAS 38(1)
+Partnership Act TAS 43
+Partnership Act VIC 5(1)
+Partnership Act VIC 37(1)
+Partnership Act VIC 42
+Partnership Act WA 7(1)
+Partnership Act WA 44(1)
+Partnership Act WA 49
+Case References:
+Abbott v. Abbott
+(1936) 3 All ER 823
+Adam v Newbigging
+(1888) 13 App. Case 308 per Lord Halsbury at 315
+Archibald Howie Pty Ltd v. Commissioner of Stamp Duties (NSW)
+(1948) 77 CLR 143
+[1948] HCA 28
+A.R.M Constructions Corporation Ltd & Ors v. FC of T
+87 ATC 4790
+19 ATR 337
+Bakewell v. DCT
+(1937) 58 CLR 743
+Cameron v. Murdoch
+[1983] WAR 321
+Cameron v. Murdoch
+63 ALR 575
+(1986) 60 ALJR 280
+Canny Gabriel Castle Advertising Pty Ltd and anor v. Volume Sales (Finance) Pty Ltd
+(1974) 131 CLR 321
+3 ALR 409
+Case N43
+(1991) 13 NZTC 3361
+Chia & Ors v. Ireland SCGRG-99-648
+(2000) SASC 47 (3 March 2000)
+Commissioners for General Purposes of Income Tax for City of London v. Gibbs and Others
+[1942] AC 402
+FC of T v. Beville
+10 ATD 170
+5 AITR 458
+Federal Commissioner of Taxation v. Reliance Carpet Co Pty Ltd
+[2008] HCA 22
+(2008) 68 ATR 158
+(2008) 2008 ATC 20-028
+FC of T v. Everett
+(1980) 143 CLR 440
+80 ATC 4076
+10 ATR 608
+FC of T v. Jeffries
+80 ATC 4659
+11 ATR 429
+49 FLR 385
+FC of T v. J.D. Roberts, FC of T v. Smith
+(1992) 108 ALR 385
+92 ATC 4380
+23 ATR 494
+FC of T v. Sahhar
+85 ATC 4072
+5 FCR 247
+59 ALR 98
+16 ATR 208
+FC of T v. Walsh (P.J. and B.J.)
+83 ATC 4415
+14 ATR 399
+48 ALR 253
+Hadlee and Sydney Bridge Nominees Ltd v. Commissioner of Inland Revenue M171/88
+11 NZTC 6155
+FC of T v. Happ
+(1952) 5 AITR 290
+9 ATD 449
+Kelly v. IRC
+(1970) NZLR 161
+1 ATR 380
+Ringthane Pty Ltd v Commissioner of State Taxation (WA)
+93 ATC 4824
+26 ATR 489
+Rowe v. FC of T
+82 ATC 4243
+13 ATR 110
+Rowella Pty Ltd  v. Abfam Nominees Pty Ltd
+(1989) 64 ALJR 121
+89 ALR 513
+(1989) 168 CLR 301
+S.J. Mackie Pty Ltd v. Dalziell Medical Practice Pty Ltd
+(1989) 2 QD. R 87
+Sobell v. Boston and Others
+(1975) 1WLR 1587
+Société Thermale d'Eugénie-les-Bains v. Ministére de l'Economie, des Finances et de l'Industrie
+[2007] 3 CMLR 1003
+Swiss Air Transport Co Ltd v. Palmer
+(1976)2 Lloyd's rep 604
+Tikva Investments Pty Ltd v. FC of T
+72 ATC 4231
+128 CLR 158
+3 ATR 458
+United Dominions Corporation Ltd v. Brian Pty Ltd
+(1985) 157 CLR 1
+60 ALR 741
+TRA Case 6
+(1988) 12 TRNZ 107
+Case K 55
+10 NZTC 453
+TRA Case 28
+(1991) 15 TRNZ 952
+Case N 48
+13 NZTC 3361
+Other References:
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Partnership) Legislative Instrument 2013
+Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012
+A New Tax System (Goods and Services Tax) Waiver of Adjustment Note Requirement (Decreasing Adjustments Relating to Supplies made by or to a Partnership) Legislative Instrument 2013
+GSTR 2003/13 history
+Date:
+Version:
+Change:
+29 October 2003
+Original ruling
+15 August 2007
+Consolidated ruling
+Addendum
+11 June 2008
+Consolidated ruling
+Partial Withdrawal
+8 April 2009
+Consolidated ruling
+Addendum
+27 March 2013
+Consolidated ruling
+Addendum
+21 August 2013
+Consolidated ruling
+Addendum
+You are here
+9 May 2018
+Consolidated ruling
+Addendum
+Back to top

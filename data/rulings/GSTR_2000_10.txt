@@ -1,0 +1,779 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 358
+  • Division 358
+  • Division 54
+  • Subdivision 29-C
+  • division 29
+
+Topics: GST, Trusts, Partnerships, Companies, Superannuation
+
+
+
+================================================================================
+
+GSTR 2000/10 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+55 related documents
+Goods and Services Tax Ruling
+GSTR 2000/10
+Goods and services tax:  recipient created tax invoices
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+This ruling is currently being reviewed as a result of the making of the
+A New Tax System (Goods and Services Tax): Recipient Created Tax Invoice Determination 2023
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+6
+Background
+7
+Summary
+10
+Ruling with explanations
+18
+Definitions
+56
+Detailed contents list
+71
+Schedule 1
+72
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 37 of the
+Taxation Administration Act 1953
+and former section 105-60 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes
+.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you
+.
+[Note
+:
+This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling explains
+A New Tax System (Goods and Services Tax) Act 1999 Classes of Recipient Created Tax Invoice Determination (No. 1) 2000
+(the determination).
+[1]
+In the Ruling these invoices are referred to as recipient created tax invoices (RCTIs).  The Ruling also explains how you may ask the Commissioner to make a further determination for other classes of invoices.
+2. The Ruling also:
+•
+sets out certain requirements a recipient must follow when issuing an RCTI;
+•
+describes the information that an RCTI must contain; and
+•
+addresses the question of whether a recipient who has issued an RCTI can 'set-off' the value of a different supply made by it, against the value of the supply that is the subject of the RCTI.
+3.  The Ruling does not consider what other documents may be treated as tax invoices for the purposes of Subdivision 29-C.
+4. Certain terms used in this Ruling are defined or explained in the
+Definitions
+section of the Ruling.  These terms, when first mentioned elsewhere in the body of the Ruling, appear in
+bold
+type.
+5. Unless otherwise stated, all references in this Ruling are to the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act) or, as indicated, to the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations).
+Date of effect
+6. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+6A. Changes made to this Ruling by Addenda that issued on 27 September 2000, 15 August 2007, 14 January 2009, 6 May 2009, 31 October 2012 and 30 October 2013 have been incorporated into this version of the Ruling.
+[1A]
+Background
+7. To be entitled to claim an
+input tax credit
+for a
+creditable acquisition
+when you are registered for GST, you must hold a
+tax invoice
+when you lodge your Business Activity Statement ('BAS') unless the
+GST
+-
+exclusive value
+of the acquisition is $75 or less.
+8. Usually, the supplier of a taxable supply gives the recipient a tax invoice for the supply.  However, commercially, invoices are also currently created by recipients of supplies, particularly where:
+(a)
+the value of the supply is established by the recipient rather than by the supplier; and
+(b)
+(i)
+the goods involved are of a type that require qualitative analysis to be undertaken before their value can be ascertained (for example, cut sugar cane is analysed by the sugar mill);
+(ii)
+quantitative analysis is undertaken before the recipient can ascertain the value of the supply (for example, work-in-progress in the building and construction industry is analysed by quantity surveyors);
+(iii)
+the supplies are arranged and recorded using electronic purchasing systems operated by the recipients (to require a tax invoice to be issued by the supplier would detract from the effectiveness of these systems); or
+(iv)
+there are mutual efficiencies for the supplier and the recipient in conducting their business on the basis that the recipient notifies the supplier of the value of the supply.
+9. The determination will enable many recipients to claim input tax credits without significantly altering their current invoicing practices.
+Summary
+Three broad classes of RCTIs
+10. The determination describes three classes of tax invoices that may be issued by a recipient of a taxable supply. These classes are:
+(a)
+tax invoices for taxable supplies of agricultural products made to registered recipients who:
+(i)
+satisfy the requirements for issuing RCTIs, and
+(ii)
+determine the value of the agricultural products (and any by-products) subsequent to, and dependent upon, quantitative or qualitative analysis of the supply being undertaken (see paragraphs 22 to 24 of this Ruling);
+(b)
+tax invoices for taxable supplies made to registered government related entities that satisfy the requirements for issuing RCTIs (see paragraphs 25 to 27 of this Ruling); and
+(c)
+tax invoices for taxable supplies made to registered recipients that satisfy the requirements for issuing RCTIs and that:
+(i)
+have a GST turnover (including input taxed supplies) of at least $20 million annually; or
+(ii)
+are members of a group of companies, partnerships or trusts, or a joint venture operator, in which one or more other members of that group or participants in that joint venture have such a GST turnover.
+(The criteria for inclusion in this class of invoices are explained at paragraphs 28 to 36 of this Ruling.)
+11. Tax invoices that come within any of these three classes can be issued by recipients without notifying or applying to the Commissioner.
+Applications for determinations in respect of other classes of invoices
+12. Industry associations, whose members are registered recipients of taxable supplies that are not covered by these broad classes, can ask the Commissioner to make a determination for other classes of tax invoices.  Other registered recipients may also make requests.  The procedures to be followed when making these requests are explained in paragraphs 53 to 55 of this Ruling.
+Requirements for issuing RCTIs
+13. The determination lists the requirements that are integral to the classes of invoices that recipients may issue.  The requirements must be respectively satisfied by recipients and suppliers:
+[3]
+(a)
+the supplier and the recipient must be registered for GST when the invoice is issued and the RCTI must show the Australian Businesses Number ('ABN') of the supplier;
+(b)
+the recipient must issue the original or a copy of the RCTI to the supplier within 28 days of the making, or determining the value, of the taxable supply and must retain the original or a copy;
+(c)
+the recipient must issue the original or a copy of an adjustment note to the supplier within 28 days of the adjustment and must retain the original or a copy;
+(d)
+the recipient must reasonably comply with its obligations under the taxation laws;
+(e)
+the recipient must have either:
+•
+a written agreement with the supplier specifying the supplies to which it relates, that is current and effective when the RCTI is issued, agreeing that:
+(i)
+the recipient can issue tax invoices in respect of the supplies;
+(ii)
+the supplier will not issue tax invoices in respect of the supplies;
+(iii)
+the supplier acknowledges that it is registered for GST when it enters into the agreement and that it will notify the recipient if it ceases to be registered; and
+(iv)
+the recipient acknowledges that it is registered when it enters into the agreement and that it will notify the supplier if it ceases to be registered for GST, or
+•
+an agreement with the supplier embedded in an RCTI it issues that contains the following statement:
+The recipient and the supplier declare that this agreement applies to supplies to which this tax invoice relates. The recipient can issue tax invoices in respect of these supplies. The supplier will not issue tax invoices in respect of these supplies. The supplier acknowledges that it is registered for GST and that it will notify the recipient if it ceases to be registered. The recipient acknowledges that it is registered for GST and that it will notify the supplier if it ceases to be registered for GST. Acceptance of this RCTI constitutes acceptance of the terms of this written agreement.
+Both parties to this supply agree that they are parties to an RCTI agreement. The supplier agrees to notify the recipient if the supplier does not wish to accept the proposed agreement within 21 days of receiving this document.
+(f)
+the recipient must not issue a document that would otherwise be an RCTI, on or after the date when the recipient or the supplier has failed to comply with any of the requirements of the determination.
+14. An invoice issued by a recipient that fails to satisfy all of the requirements of paragraph 13 of this Ruling will not be treated as being a tax invoice
+[4]
+.
+15. These requirements, and what happens if you fail to satisfy them, are explained in paragraphs 37 to 49 of this Ruling.
+What information must an RCTI contain?
+16. An RCTI must satisfy the information requirements under subsection 29-70(1) including:
+•
+the identity or ABN of the recipient even if the total price is less than $1000,
+•
+if GST is payable in relation to any supply - that the GST is payable by the supplier, and
+•
+that the document was intended to be a recipient created tax invoice.
+Set-off
+17. [Omitted].
+Ruling with explanation
+18. An RCTI is a tax invoice that belongs to a class of tax invoices that the Commissioner has determined in writing may be issued by the recipient of a taxable supply.
+[4A]
+19. The determination describes three classes of tax invoices that may be issued by a recipient of a taxable supply.  Also, industry associations whose members are registered recipients of taxable supplies can ask the Commissioner to make determinations for other categories of tax invoices not covered by the three broad classes.
+20. If you are a registered recipient, you may issue RCTIs for certain types of taxable supplies, provided you satisfy the criteria outlined in this Ruling.  If you want to issue RCTIs, you do not have to lodge an application to the Commissioner for approval in relation to tax invoices that belong to any of these three classes of tax invoices.
+21. The classes take into account a number of factors including type of industry, type of taxable supply, GST turnover of the recipient, and certain requirements of issuing RCTIs.  The factors reflect a balance between facilitating the practical use of RCTIs by businesses and maintaining the integrity of the GST system.
+Three broad classes of RCTIs
+Agricultural products
+22. For the purposes of the determination, 'agricultural products' are products derived from viticulture, horticulture, pasturage, apiculture, poultry farming and dairy farming or other operations connected with the cultivation of the soil, the gathering in of crops and the rearing of livestock.
+23. This class includes tax invoices for taxable supplies where the value of agricultural products and by-products has been determined by the recipient.  For example, the testing of crushed sugar cane by a mill to establish sugar content.
+24. The recipient and supplier must also satisfy the requirements stated at paragraphs 37 to 47 of this Ruling.
+Supplies to government related entities
+25. The determination applies to all taxable supplies made by registered suppliers to registered government related entities.  The term 'government related entity' means:
+(a)
+a government entity; or
+(b)
+an entity that would be a government entity but for subparagraph (e)(i) of the definition of
+government entity
+in the
+A New Tax System (Australian Business Number) Act 1999
+; or
+(c)
+a local governing body established by or under a State law or Territory law.
+[6]
+26. The term 'government entity'
+[6A]
+means:
+(a)
+a Department of State of the Commonwealth; or
+(b)
+a Department of the Parliament established under the
+Parliamentary Service Act 1999
+; or
+(c)
+an Executive Agency, or Statutory Agency, within the meaning of the
+Public Service Act 1999
+; or
+(d)
+a Department of State of a State or Territory; or
+(e)
+an organisation that:
+(i)
+is not an entity; and
+(ii)
+is either established by the Commonwealth, a State or a Territory (whether under a law or not) to carry on an enterprise or established for a public purpose by an Australian law; and
+(iii)
+can be separately identified by reference to the nature of the activities carried on through the organisation or the location of the organisation;
+whether or not the organisation is part of a Department or branch described in paragraph (a), (b), (c) or (d) or of another organisation of the kind described in this paragraph.
+[7]
+27. The recipient government related entity and the supplier must also satisfy the requirements at paragraphs 37 to 47 of this Ruling.
+GST turnover
+28. Tax invoices for taxable supplies made by registered suppliers to registered recipients who have GST turnovers (including input taxed supplies) of at least $20 million are a class of tax invoice that may be issued by the recipients.
+Recipients not within a group or joint venture
+29. If you are a registered recipient, you may issue RCTIs provided the Commissioner:
+(a)
+has determined that tax periods of each individual month apply to you (this is based on GST turnover under paragraph 27-15(1)(a)); or
+(b)
+would have determined, including supplies that are input taxed, that tax periods of each individual month apply to you (based on GST turnover under paragraph 27-15(1)(a)).
+Example 1
+30. ABC Pty Ltd is a manufacturing company and has a GST turnover of $20 million.  It may issue RCTIs for supplies received from any of its suppliers who agree to the arrangement, provided it satisfies all the requirements for issuing RCTIs listed in paragraphs 37 to 47 of this Ruling.  ABC does not need to notify the Commissioner that it is issuing RCTIs.
+Example 2
+31. DEF Ltd is a bank and has a GST turnover of $25 million annually, including $10 million of financial supplies.  It may issue RCTIs for supplies received from any of its suppliers who agree to the arrangement, provided it satisfies all the requirements for issuing RCTIs listed in paragraphs 37 to 47 of this Ruling.  DEF does not need to notify the Commissioner that it is issuing RCTIs.
+Recipients within a group or joint venture
+32. If you are a member of a
+group
+or a
+joint venture operator
+of a
+GST joint venture
+you are also able to issue RCTIs if:
+(a)
+you satisfy the
+membership requirements of a GST group
+under section 48-10 or are nominated to be the joint venture operator under section 51-5, or approved as a replacement joint venture operator for the GST joint venture under paragraph 51-70(1)(c); and
+(b)
+a determination of tax periods of each individual month, based on a GST turnover, under paragraph 27-15(1)(a) is in effect for one or more other entities
+[8]
+in that group or participants in that joint venture, or one or more other entities in a group in relation to which a participant satisfies the membership requirements, or would have been in effect except for the exclusions
+[9]
+for supplies that are input taxed.
+33. The recipient, that is the group member or joint venture operator (but not necessarily the group or joint venture), must satisfy all of the requirements of issuing RCTIs stated at paragraphs 37 to 47 of this Ruling when a tax invoice is issued for the supplies received.
+34. In summary, the determination also applies to tax invoices for taxable supplies made by registered suppliers to registered recipients or joint venture operators that do not have a GST turnover of $20 million provided:
+(a)
+the recipient could be a member of a
+GST group
+, or is a joint venture operator of a joint venture, that would include a member or a participant, or a participant who could be a member of a GST group that would include a member, with a GST turnover (including input taxed supplies) of at least $20 million annually; and
+(b)
+for a group, as the case may require, the other member companies are of the same
+90% owned group
+, the other member partnerships satisfy the requirements specified in regulation 48-10.02 of the GST Regulations and the other member trusts satisfy the requirements specified in regulation 48-10.03 of the GST Regulations; or
+(c)
+for a joint venture operator, the other participants satisfy the participation requirements for a GST joint venture under section 51-10.
+35. As a recipient or joint venture operator, you may issue RCTIs even if your group or a participant's group is not approved under section 48-5 as a GST group.  You only need to be able to demonstrate, if requested by the Commissioner, that you or the participant could satisfy the 90% test or the requirements under the regulations, and that you and your supplier satisfy the requirements stated at paragraphs 37 to 47 of this Ruling.
+Example 3
+36. GHI Pty Ltd is 95% owned by ABC Pty Ltd from
+Example 1
+but only has a GST turnover of $5 million.  It may issue RCTIs for supplies received from any of its suppliers who agree to the arrangement, provided it satisfies all the requirements for issuing RCTIs listed at paragraphs 37 to 47 of this Ruling.  GHI does not need to notify the Commissioner that it is issuing RCTIs.
+Requirements for issuing RCTIs
+37. In addition to the requirements in paragraph 16, certain other requirements must be fulfilled when issuing RCTIs.  The descriptions of all three classes of tax invoices, determined under subsection 29-70(3) of the GST Act, that may be issued by recipients include the requirements of issuing RCTIs in paragraph 13 of this Ruling.
+38. To issue RCTIs that belong to one or more of the three classes, the recipient and supplier must satisfy all of these requirements.  That is, a document is an RCTI only if it is issued by a recipient who satisfies the requirements of the determination when the RCTI is issued.
+39. The requirements that recipients and suppliers must satisfy are intended to ensure compliance with the GST law.
+40. The recipient and the supplier
+must be
+registered for GST purposes when an RCTI is issued.  A supplier or recipient who is not registered but is required to be registered does not satisfy the requirements for issuing RCTIs.
+[10]
+A recipient cannot issue an RCTI:
+(a)
+earlier than the
+date of effect of their registration
+, or for any supply received before that date;
+(b)
+on or after the
+date of effect of their cancellation
+of registration, or for any supply received on or after that date; or
+(c)
+if either they or their supplier are merely
+required to be registered
+but are not registered for GST.
+41. Each time the recipient issues a document to a supplier that it treats as an RCTI, the recipient must be reasonably satisfied that the supplier is registered for GST, on or after 1 July 2000, when the document issues.  If you have a reasonable doubt that your supplier is not registered for GST when you issue an RCTI you can access GST registration information via the Internet at
+www.abr.business.gov.au
+.
+Record keeping and administration
+42. The supplier must be aware of its GST liability.  The recipient is required to retain the original or a copy of the RCTI and any adjustment note for five years.
+[11]
+If you are the supplier, keeping the original or a copy of the RCTI and any adjustment note for five years is one way of showing that you have complied with your obligation to retain sufficient records of all your transactions.
+43. To ensure compliance with the GST law (and for the protection of the supplier) permission to issue RCTIs is available only to taxpayers who reasonably comply with the taxation laws (see requirement (d) to paragraph 13 of this Ruling).
+44. The agreement between recipient and supplier (see requirement (e) to paragraph 13 of this Ruling) must include agreement on the matters listed and may also include any other terms and conditions that the parties mutually agree. The duration, termination and reinstatement of the agreement, and supplies to be specified as being subject to RCTIs, are examples of matters that may be mutually agreed.
+45. If a document is issued mistakenly as a tax invoice by the supplier in respect of supplies specified in the written agreement (contrary to the agreement
+[12]
+), then a document issued by the recipient will be taken to be the RCTI in respect of the supply.  In these circumstances, the document issued by the supplier is not taken to be a tax invoice for the purposes of the GST law.  This treatment reinforces the effectiveness of the agreement and ensures that both the supplier and the recipient pay GST and attribute input tax credits on the basis of the RCTI.
+46. Also, as a recipient, you must not issue a document that purports to be an RCTI if it does not come within the class of invoices  covered by this determination (see requirement (f) to paragraph 13 of this Ruling).
+47. This requirement, and requirements (e)(iii) and (iv) in paragraph 13 of this Ruling, are intended to ensure that the GST shown on the RCTI is accounted for in the supplier's BAS, and that both the supplier and the recipient comply with the GST law.
+What happens if you do not meet the requirements?
+48. If you fail to satisfy all of the requirements when issuing an RCTI, it will not be treated as being within the class of invoices  determined as RCTIs.
+49. If this happens, you cannot attribute an input tax credit for the supply to a tax period (even though it may be for a creditable acquisition) until you hold a tax invoice issued by your supplier.
+[13]
+To obtain the input tax credits, you can request a tax invoice for the supply from your supplier, who must give it to you within 28 days after your request.
+[14]
+Set-off
+50. It is common for a recipient (who has issued an RCTI) to supply services in relation to the goods or services that are the subject of the RCTI, for example, analysing and testing sugar by a mill, and the provision of services required for processing cotton.  It is also common for the recipient to deduct the charges for these services from the price payable by it to the supplier, paying the net amount to the supplier.
+51. Even though there is a close connection between the supply to the recipient and the supply made by that recipient, each is a separate supply and the GST law does not allow the price for one supply to be reduced by the price of another.  The GST included in the price of each supply must be included in the calculation of the net amount by each supplier and each recipient can then claim input tax credits for that tax.
+52. However, if the document that is the RCTI includes appropriate details of the separate supply (as required by subsection 29-70(1)) from the recipient to the supplier, it can also be accepted as the tax invoice for that supply.
+[14A]
+Other classes of tax invoices
+53. Industry associations, whose members are registered recipients of taxable supplies not covered by these broad classes, can request that the Commissioner make a determination in respect of other classes of tax invoices.  The request will be considered on the basis of the particular circumstances of the industry, including the nature of the taxable supplies, suppliers and recipients.  Other registered recipients may also make requests.
+54. Your request for a determination should be made in writing or electronically and include the following information and documents:
+(a)
+name of the industry association or registered recipient;
+(b)
+type of industry in which the recipient operates;
+(c)
+details of the supply and related transaction(s), including a description of the thing(s) supplied and current invoicing and payment practices;
+(d)
+a statement acknowledging that the recipient(s) will enter into written agreements with suppliers in accordance with requirement (e) to paragraph 13 of this Ruling; and
+(e)
+an explanation as to why the determination is requested.
+55. Your applications should be addressed to:
+Australian Taxation Office
+PO Box 3524
+Albury NSW 2640
+or
+E-mail to:  gstmail@ato.gov.au
+or
+Facsimile:  1300 139 031.
+Definitions
+56. [Omitted].
+90% owned group
+57. Two companies are members of the same 90% owned group if:
+(a)
+one of the companies has *at least a 90% stake in the other company; or
+(b)
+a third company has *at least a 90% stake in each of the two companies.
+[15]
+Creditable acquisition
+58. You make a creditable acquisition if:
+(a)
+you acquire anything solely or partly for a *creditable purpose; and
+(b)
+the supply of the thing to you is a *taxable supply; and
+(c)
+you provide, or are liable to provide, *consideration for the supply; and
+(d)
+you are *registered, or *required to be registered.
+[16]
+Date of effect of your cancellation
+59. The Commissioner must decide the date on which the cancellation of your *registration under subsection 25-55(1) or (2) or section 25-57 takes effect.  That date may be any day occurring before, on or after the day on which the Commissioner makes the decision.
+[17]
+Date of effect of your registration
+60. The Commissioner must decide the date from which your *registration takes effect, or took effect.  However:
+(a)
+if you did not apply for registration and the Commissioner is satisfied that you are *required to be registered - the date of effect must not be a day before the day on which you became required to be registered; or
+(b)
+if you applied for registration - the date of effect must not be a day before:
+(i)
+the day specified in your application; or
+(ii)
+if the Commissioner is satisfied that you became required to be registered on an earlier day - the day that the Commissioner is satisfied is that earlier day; or
+(c)
+if you are being registered only because you intend to *carry on an *enterprise - the date of effect must not be a day before the day specified, in your application for registration, as the day from which you intend to carry on the enterprise.
+[18]
+Entities
+61. Entity means any of the following:
+(a)
+an *individual;
+(b)
+a body corporate;
+(c)
+a corporation sole;
+(d)
+a body politic;
+(e)
+a *partnership;
+(f)
+any other unincorporated association or body of persons;
+(g)
+a trust;
+(h)
+a *superannuation fund.
+[19]
+GST exclusive value
+62. GST exclusive value means:
+(a)
+in relation to an acquisition:
+(i)
+other than of a *luxury car -- means 10/11 of the *price of the supply of the thing being acquired; or
+(ii)
+of a *luxury car -- means 10/11 of the *price of the supply of the luxury car (excluding any *luxury car tax payable on the supply); and
+(b)
+in relation to an importation that is a taxable importation, means the *value of the importation; and
+(c)
+in relation to an importation that is not a taxable importation, means the amount that would be the value of the importation if it were a taxable importation.
+[20]
+GST group
+63. Two or more entities may form a *GST group if:
+(a)
+each of the entities *satisfies the membership requirements of the group; and
+(b)
+each of the entities agrees in writing to the formation of the group; and
+(c)
+one of those entities notifies the Commissioner, in the *approved from, of the formation of the group; and
+(d)
+that entity is nominated, in that notice, to be the *representative member of the group; and
+(e)
+the entity is an *Australian resident.
+A group of entities that is so formed is a
+GST group
+.
+[21]
+GST joint venture
+64. Two or more entities may become the *participants in a *GST joint venture if:
+(a)
+the joint venture is a joint venture for the exploration or exploitation of *mineral deposits, or for a purpose specified in the regulations; and
+(b)
+the joint venture is not a *partnership; and
+(c)
+(Repealed)
+(d)
+each of those entities *satisfies the participation requirements for that GST joint venture; and
+(e)
+each of those entities agrees in writing to the *formation of the joint venture as a GST joint venture; and
+(ea)
+one of those entities, or another entity, is nominated, in that agreement, to the *joint venture operator of the joint venture; and
+(eb)
+the nominated joint venture operator notifies the Commissioner, in the *approved form, of the formation of the joint venture as a GST joint venture; and
+(f)
+if the nominated joint venture operator is not a party to the joint venture agreement - the nominated joint venture operator satisfies the requirements of paragraphs 51-10(c) and (f).
+Such a joint venture is a
+GST joint venture
+.
+[22]
+Input tax credit
+65. You are entitled to the input tax credit for any *creditable acquisition that you make.
+[23]
+Joint venture operator
+66. Joint venture operator, of a *GST joint venture, is the entity last nominated in relation to the joint venture as mentioned in paragraph 51-5(1)(ea) or 51-70(1)(c), but does not include an entity that does not satisfy the requirements of paragraphs 51-10(c) and (f).
+[24]
+Membership requirements of a GST group
+67.
+(1)
+An entity satisfies the membership requirements of a *GST group, or a proposed GST group, if the entity:
+(a)
+is:
+(i)
+a *company; or
+(ii)
+a *partnership or trust that satisfies the requirements specified in the regulations; and
+(b)
+is, if the entity is a company, a company of the same
+*90% owned group
+as all the other members of the GST group or proposed GST group that are also companies; and
+(c)
+is *registered; and
+(d)
+has the same tax periods applying to it as the tax periods applying to all the other members of the GST group or proposed GST group; and
+(e)
+accounts on the same basis as all the other members of the GST group or proposed GST group; and
+(f)
+does not have any branch that is registered under Division 54.
+(2)
+However, paragraph (1)(b) does not apply if:
+(a)
+the entity is a non-profit body; and
+(b)
+all the other members of the GST group or proposed GST group are non-profit bodies; and
+(c)
+the entity and all those other members are members of the same *non-profit association.
+[25]
+Net amount
+68. Amounts of GST and amounts of input tax credits are set off against each other to produce a *net amount for a tax period (which may be altered to take account of *adjustments).
+[26]
+Required to be registered
+69. You are required to be registered under the GST Act if:
+(a)
+you are *carrying on an *enterprise; and
+(b)
+your *GST turnover meets the *registration turnover threshold.
+[27]
+Tax invoice
+70. A *tax invoice has the meaning given by subsections 29-70(1) and 48-57(1), and includes a document that the Commissioner treats as a tax invoice under subsection 29-70(1B). However, it does not include a document that does not comply with the requirements of section 54-50 (if applicable).
+[28]
+Detailed contents list
+71. Below is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+6
+Background
+7
+Summary
+10
+Three broad classes of RCTIs
+10
+Application for determinations in respect of other classes of invoices
+12
+Requirements for issuing RCTIs
+13
+What information must an RCTI contain?
+16
+Set-off
+17
+Ruling with Explanation
+18
+Three broad classes of RCTIs
+22
+Agricultural products
+22
+Supplies to government related entities
+25
+GST turnover
+28
+Recipients not within a group or joint venture
+29
+Example 1
+30
+Example 2
+31
+Recipients within a group or joint venture
+32
+Example 3
+36
+Requirements for issuing RCTIs
+37
+Record keeping and administration
+42
+What happens if you do not meet the requirements
+?
+48
+Set-off
+50
+Other classes of tax invoices
+53
+Definitions
+56
+90% owned group
+57
+Creditable acquisition
+58
+Date of effect of your cancellation
+59
+Date of effect of your registration
+60
+Entities
+61
+GST exclusive value
+62
+GST group
+63
+GST joint venture
+64
+Input tax credit
+65
+Joint venture operator
+66
+Membership requirements of a GST group
+67
+Net amount
+68
+Required to be registered
+69
+Tax invoice
+70
+Detailed contents list
+71
+Schedule 1
+72
+Commissioner of Taxation
+10 May 2000
+Schedule 1
+[Omitted]
+Footnotes
+[1]
+A copy of the determination is attached at Schedule 1.
+[1A]
+Refer to each Addendum to see how that Addendum amends this Ruling.
+[2]
+[Omitted].
+[3]
+Recipients and suppliers who are involved in transactions with RCTIs do not have to forward any documents to the Commissioner in respect of those transactions.
+[4]
+If you make a false or misleading statement in your invoice you may be liable to a penalty under subsections 284 75(1) and 284 75(4) of Schedule 1 to the Taxation Administration Act 1953.
+[4A]
+Subsection 29 70(3).
+[5]
+[Omitted].
+[6]
+Section 195-1.
+[6A]
+The definition of 'government entity' is contained in section 41 of
+A New Tax System (Australian Business Number) Act 1999.
+[7]
+Section 195-1 of the GST Act and section 41 of the
+A New Tax System (Australian Business Number) Act 1999
+.
+[8]
+Section 184-1.
+[9]
+Paragraphs 188-15(1)(a) and 188-20(1)(a).
+[10]
+See requirements (a), (e)(iii) and (iv) to paragraph 13 of this Ruling.
+[11]
+Section 382-5 of Schedule 1 to the
+Taxation Administration Act 1953.
+[12]
+See requirement (e)(ii) to paragraph 13 of this Ruling.
+[13]
+Subsection 29-10(3).
+[14]
+Subsection 29-70(2).
+[14A]
+This is subject to subsections 48 57(1) and 54 50(1) in relation to GST groups and GST branches, respectively.
+[15]
+Section 190-1.
+[16]
+Section 11-5.
+[17]
+Section 25-60.
+[18]
+Subsectio 25-10(1).
+[19]
+Subsection 184-1(1).
+[20]
+Section 195-1.
+[21]
+Subsection 48-5(1).
+[22]
+Subsection 51-5(1).
+[23]
+Section 11-20.
+[24]
+Section 195-1.
+[25]
+Section 48-10.
+[26]
+Section 7-5.
+[27]
+Section 23-5.
+[28]
+Section 195-1.
+Previous Draft:  GSTR 1999/D5
+References
+ATO references:
+NO  99/17941-4
+ISSN  1034-9758
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2013/1
+Subject References:
+adjustment events
+agricultural products
+Australian Business Number
+business Activity Statement
+classes of tax invoices
+creditable acquisitions
+date of effect of cancellation
+date of effect of registration
+determinations
+entities
+GST group
+GST joint venture
+GST turnover
+Government entities
+input tax credit
+input taxed supplies
+joint venture operator
+net amount
+other classes of tax invoices
+recipients
+recipient created tax invoices
+tax invoice
+registered recipients
+registered suppliers
+suppliers
+supplies to government entities
+taxable supply
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(ABN)A99  41
+ANTS(GST)A99
+ANTS(GST)A99  7-5
+ANTS(GST)A99  11-5
+ANTS(GST)A99  11-20
+ANTS(GST)A99  23-5
+ANTS(GST)A99  25-10(1)
+ANTS(GST)A99  25-55(1)
+ANTS(GST)A99  25-55(2)
+ANTS(GST)A99  25-60
+ANTS(GST)A99  27-15(1)(a)
+ANTS(GST)A99  29-10(3)
+ANTS(GST)A99  29-70
+ANTS(GST)A99  29-70(1)
+ANTS(GST)A99  29-70(1)(a)
+ANTS(GST)A99  29-70(1B)
+ANTS(GST)A99  29-70(2)
+ANTS(GST)A99  29-70(3)
+ANTS(GST)A99  48-5
+ANTS(GST)A99  48-5(1)
+ANTS(GST)A99  48-10
+ANTS(GST)A99  48-57(1)
+ANTS(GST)A99  51-5
+ANTS(GST)A99  51-5(ea)
+ANTS(GST)A99  51-10
+ANTS(GST)A99  51-10(c)
+ANTS(GST)A99  51-10(f)
+ANTS(GST)A99  51-70(1)(c)
+ANTS(GST)A99  54-50
+ANTS(GST)A99  184-1
+ANTS(GST)A99  184-1(1)
+ANTS(GST)A99  188-15(1)(a)
+ANTS(GST)A99  188-20(1)(a)
+ANTS(GST)A99  190-1
+ANTS(GST)A99  195-1
+ANTS(GST)AR00(No1)  48-10.02
+ANTS(GST)AR00(No1)  48-10.03
+TAA 1953  Sch 1 284-75(1)
+TAA 1953  Sch 1 284-75(4)
+TAA 1953  Sch 1 Div 358
+TAA 1953  Sch 1 382-5
+Public Service Act 1999
+Other References:
+A New Tax System (Goods and Services Tax) Act 1999 Classes of Recipient Created Tax Invoice Determination (No. 1) 2000
+GSTR 2000/10 history
+Date:
+Version:
+Change:
+10 May 2000
+Original ruling
+7 June 2000
+Consolidated ruling
+Erratum
+27 September 2000
+Consolidated ruling
+Addendum
+15 August 2007
+Consolidated ruling
+Addendum
+14 January 2009
+Consolidated ruling
+Addendum
+6 May 2009
+Consolidated ruling
+Addendum
+31 October 2012
+Consolidated ruling
+Addendum
+You are here
+30 October 2013
+Consolidated ruling
+Addendum
+Back to top

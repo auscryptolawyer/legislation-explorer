@@ -1,0 +1,156 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Topics: CGT, Trusts, Companies, Superannuation, International
+
+
+
+================================================================================
+
+TA 2025/1 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+7 related documents
+Taxpayer Alert
+TA 2025/1
+Managed investment trusts: restructures to access the managed investment trust withholding regime
+Note: the Government announced on 13 March 2025 that there will be amendments to the income tax laws to ensure certain investors can continue to access concessional withholding tax rates in Australia - see
+Clarifying tax arrangements for managed investment trusts
+. We cannot provide advice on unenacted measures, and any updates to guidance will be provided once legislative amendments are made.
+Table of Contents
+Paragraph
+Description
+1
+What are our concerns?
+2
+Example – restructure to access the managed investment trust withholding regime
+6
+What are we doing?
+14
+What should you do?
+16
+About Taxpayer Alerts
+Alerts provide a summary of our concerns about new or emerging higher risk tax or superannuation arrangements or issues that we have under risk assessment.
+While an Alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an Alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more information about Alerts. See
+Alerts
+issued to date.
+Description
+1. We are currently reviewing arrangements that inappropriately seek to take advantage of the managed investment trust (MIT) withholding regime through the restructure of inward investment structures.
+What are our concerns?
+2. The MIT withholding regime was implemented to provide concessional taxation to Australian collective investment vehicles that predominantly undertake passive investment.
+3. We are concerned with arrangements that restructure an existing trust or other inward investment structure to inappropriately access the MIT withholding regime (including deemed capital gains tax (CGT) treatment), including where that restructure is connected with the disposal of trust property or assets held by entities controlled by the trust.
+4. These arrangements generally display the following features.
+•
+An Australian entity holds passive assets, but does not meet the requirements to access the MIT withholding tax regime, for example, because:
+–
+it is not a trust (for example, it is a company that is not a corporate collective investment vehicle (CCIV))
+–
+it is a unit trust directly owned by a single unitholder (and therefore does not meet the requirements of being a managed investment scheme (MIS)), or
+–
+the management of the trust does not satisfy the requirements in section 275-35 of the
+Income Tax Assessment Act 1997
+(ITAA 1997).
+•
+Restructure steps are undertaken to seek to satisfy the requirements to access the MIT withholding tax regime, for example, by:
+–
+unnecessarily restructuring the ownership of the entity or underlying assets so that:
+o
+the inward investment structure includes an Australian unit trust
+o
+that unit trust is wholly directly owned by 2 or more unitholders who are not all MITs, to meet the pooled investment requirements to be a MIS, and
+o
+it is wholly indirectly owned by a single foreign entity covered by subsection 275-20(4) of the ITAA 1997, or
+–
+changing arrangements such that the management of the trust is provided by an entity which meets the licencing requirements in section 275-35 of the ITAA 1997.
+•
+The restructure steps are done for the purpose of accessing the MIT withholding regime.
+5. We are concerned that:
+•
+These arrangements may present a risk that either:
+–
+the Australian trust does not satisfy the substantive requirement to be a MIT eligible to access the MIT withholding regime (for example, a unit trust will not qualify as a MIS as defined in section 9 of the
+Corporations Act 2001
+where the unitholders in the trust are all companies within the same corporate group and the promoter of the trust is also a member of that corporate group
+[1]
+), or
+–
+Part IVA of the
+Income Tax Assessment Act 1936
+(ITAA 1936) applies where there is no commercial rationale for the steps taken to qualify that trust as a withholding MIT. The tax benefits we are concerned about are the non-inclusion of income (including capital gains) in assessable income where the MIT withholding regime treats that income as non-assessable, non-exempt (NANE) income.
+•
+These arrangements may be accompanied by other features such as the use of multiple CGT rollovers or the introduction of related party debt into Australia, which increase risks relating to the operation of various provisions, including but not limited to Part IVA of the ITAA 1936.
+Example – restructure to access the managed investment trust withholding regime
+6.
+Overseas Entity (OvEn) is a non-resident entity covered by subsection 275-20(4) of the ITAA 1997. OvEn indirectly owns 100% of the shares in Australian Company (AuCo) via its single subsidiary, Overseas Company (OvCo). AuCo owns Australian commercial property assets and has derived rental income from this investment for a number of years. OvEn decides the Australian commercial property interests will be sold in the future.
+7.
+In advance of the eventual sale, OvEn forms a new subsidiary (New OvCo), which it capitalises by injecting share capital. New OvCo subscribes for new shares in AuCo which amount to 10% of the issued shares.
+8.
+OvCo and New OvCo settle an Australian Unit Trust (AuT) and undertake a restructure (utilising CGT rollover provisions and the disregarding of transactions within a tax consolidated group) which results in AuT owning the commercial property assets.
+9.
+As AuT has 2 unitholders, it purports to meet the requirement to be a MIS (as defined by section 9 of the Corporations Act 2001) in paragraph 275-10(3)(c) of the ITAA 1997 and meets the other requirements for being a MIT under paragraph 275-10(1)(a) of the ITAA 1997.
+Diagram 1: Pre-restructure and post-restructure of OvEn
+10.
+For 2 years after the restructure, the result of the restructure is that the 'fund payment' component of the 'net income' of AuT is subject to MIT withholding tax under section 840-805 of the ITAA 1997, and is:
+•
+subject to a final 15% MIT withholding tax, and
+•
+NANE income of OvCo and New OvCo (section 840-815 of the ITAA 1997).
+11.
+AuT then sells its commercial property assets. As a result, CGT event A1 happens and AuT makes a capital gain (and is deemed to be a capital gain regardless of whether the asset was held on revenue account).
+12.
+The capital gain purportedly forms part of the fund payment to AuT's unitholders for the relevant financial year. The intended result is that this fund payment by AuT will be subject to MIT withholding tax under section 840-805 of the ITAA 1997, and will be:
+•
+subject to a final 15% MIT withholding tax, and
+•
+NANE income of OvCo and New OvCo (section 840-815 of the ITAA 1997).
+13.
+If the restructure had not been implemented, AuCo would have been subject to tax on its net rental income and capital gains (or revenue gains) at 30%.
+What are we doing?
+14. We are currently reviewing these arrangements and are engaging in discussions with taxpayers. Taxpayers and advisers who enter into these types of arrangements will be subject to increased scrutiny.
+15. We are also aware that there are existing MITs that were established for the making of new inbound investments into Australia (as opposed to a restructure) that are indirectly owned by a single foreign entity covered by subsection 275-20(4) of the ITAA 1997. The potential application of Part IVA of the ITAA 1936 may also be a relevant consideration for these structures. However, we will not apply our compliance resources to these structures if they were established prior to the publication of this alert unless there is material new investment or ownership change.
+What should you do?
+16. If you have entered, or are contemplating entering, into an arrangement of this type, we encourage you to email us using the contact details provided at the end of this Alert.
+Commissioner of Taxation
+7 March 2025
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Date of Issue:
+7 March 2025
+Date of Effect:
+N/A
+[1]
+Schemes where the unitholders and the scheme's promoter are all companies within the same corporate group (being 'related bodies corporate' as that term is defined in the Corporations Act 2001) are excluded from being a MIS by virtue of the exclusion set out in paragraph (e) in the definition of 'managed investment scheme' in section 9 of the
+Corporations Act 2001
+. For MIT structures where all the unitholders are part of the same corporate group, we will seek to identify the promoter (or promoters) of the unit trust to consider whether this exclusion has application.
+File  1-YXXVAH6
+Related Practice Statements:
+PS LA 2008/15
+Legislative References:
+ITAA 1936 Pt IVA
+ITAA 1997 275-10(1)(a)
+ITAA 1997 275-10(3)(c)
+ITAA 1997 275-20(4)
+ITAA 1997 275-35
+ITAA 1997 840-805
+ITAA 1997 840-815
+Corporations Act 2001 9
+Business Line:
+PG
+Contact officer:
+Dean Barrie
+Email:
+PGIAdvice@ato.gov.au
+ISSN:
+2651-9550
+Back to top

@@ -1,0 +1,1377 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 11
+  • Div 129
+  • Div 130
+  • Div 131
+  • Div 132
+  • Div 138
+  • Div 149
+  • Div 15
+  • Div 151
+  • Div 165
+  • Div 189
+  • Div 19
+  • Div 358
+  • Div 40
+  • Div 48
+  • Div 60
+  • Div 70
+  • Division 11
+  • Division 129
+  • Division 130
+
+Cases Referenced:
+  • Billiton Petroleum Pty Ltd v. Chief Executive Officer 
+  • Mercantile Pty Limited v. Commissioner 
+  • Rio Tinto Services Limited v Commissioner 
+  • Taxation v American Express Wholesale Currency Services Pty Limited
+
+  • Tooheys Ltd v. Commissioner 
+
+Topics: GST, Trusts, Companies, International, Employment
+
+
+
+================================================================================
+
+GSTR 2006/3 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+112 related documents
+Goods and Services Tax Ruling
+GSTR 2006/3
+Goods and services tax:  determining the extent of creditable purpose for providers of financial supplies
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+GSTR 2006/3EC
+.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+FOI status:
+may be released
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+10
+Background
+13
+Previous Ruling
+22
+Ruling
+23
+Explanation (this forms part of the Ruling)
+42
+Examples
+151
+Frequently used terms
+183
+Detailed contents list
+212
+Relying on this Ruling
+This publication is a public ruling for the purposes of the
+Taxation Administration Act 1953
+.
+If this Ruling applies to you and you rely on it, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+Further, if we think that this Ruling disadvantages you, we may apply the law in a way that is more favourable to you.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal Database (ato.gov.au/law) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling provides guidance on methods that can be used for calculating
+input tax credits
+and adjustments for change in use by providers of
+financial supplies
+under the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act), including the
+extent of creditable purpose
+and the
+actual application of the thing
+, under Divisions 11, 15, 72, 84 and 129 of the GST Act.
+2. Unless otherwise stated, all legislative references in this Ruling are to the GST Act. The indirect tax zone, as defined in subsection 195-1 of the GST Act, is referred to as 'Australia'.
+3. This Ruling also explains the way in which the
+reduced input tax credit
+provisions in Division 70 interact with these methods.
+4. This Ruling makes clear that any method (including but not limited to methods discussed in this Ruling) utilised in calculating input tax credits or adjustments for change in creditable purpose must be fair and reasonable in the circumstances of the conduct of your enterprise.
+5. This Ruling does not consider all the other requirements of sections 11-5, 15-5 or Subdivision 129-D on eligibility for input tax credits or adjustments. Nor does this Ruling discuss acquisitions or importations of a private or domestic nature.
+6. This Ruling does not deal in detail with Division 131, which is about annual apportionment of creditable purpose, or with Division 151, which is about annual lodgement and payment.
+[1]
+Explanations and examples in this Ruling are drafted on the assumption that these Divisions do not apply to you.
+7. Methods for determining the extent of
+creditable purpose
+and calculating adjustments for
+creditable acquisitions
+or
+creditable importations
+that relate to making taxable supplies or other
+input taxed supplies
+(such as residential accommodation) are considered in a separate GST ruling.
+[2]
+If you do not exceed the financial acquisitions threshold, you may use that ruling to work out the extent of your creditable purpose.
+8. Certain terms used in this Ruling are defined or explained in the frequently used terms section of the Ruling. These terms, when first mentioned elsewhere in the body of this Ruling, will appear in
+bold
+type.
+Application of the Ruling
+9. This Ruling applies to all entities that are registered or required to be registered, that make (or acquire) financial supplies that exceed the
+financial acquisitions threshold
+, and who may be eligible for input tax credits or reduced input tax credits.
+Date of effect
+10. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+11. [Omitted.]
+Related Ruling
+12. This Ruling replaces Goods and Services Tax Ruling GSTR 2000/22 with effect from the date of issue of this Ruling. GSTR 2000/22 is withdrawn with effect from the date of issue of this Ruling. If you have relied on GSTR 2000/22 to establish the extent of creditable purpose, you are protected in respect of what you have done up to the date of issue of this Ruling.
+[3]
+Background
+13. If you are registered or required to be registered, GST is payable by you on the taxable supplies you make. The scheme of the GST legislation is that you are entitled to input tax credits for the GST included in the price of things you acquire or import for your enterprise. If you make financial supplies, and you exceed the financial acquisitions threshold, you will not be entitled to recover all the GST charged to you, but part of that GST may be able to be recovered.
+14. One of the requirements of paragraphs 11-5(a) and 15-5(a) for an
+acquisition
+to be a creditable acquisition or creditable importation respectively, is that the acquisition be solely or partly for a creditable purpose. In the case of an acquisition partly for a creditable purpose, it is also necessary to establish the extent of creditable purpose.
+15. The use of the terms 'extent' and 'to the extent that' in the context of input tax credit recoverability in the GST legislation contemplates the apportionment of acquisitions between multiple uses, as well as exclusive allocation to specific uses. This treatment of the term 'extent' was established for Australian income tax purposes in
+Ronpibon Tin NL v. FC of T
+,
+[4]
+the principles of which are considered to apply to the interpretation of the GST legislation.
+[5]
+This includes a requirement that the apportionment method adopted be fair and reasonable in the circumstances of your enterprise.
+16. This Ruling outlines a number of methods for determining the intended or actual use of an acquisition or importation. If it is fair and reasonable to do so, you may also use the methods to determine whether acquisitions or importations are used 100% (or not at all) for creditable purposes.
+17. An acquisition will be partly creditable under subsection 11-30(1) if:
+•
+the acquisition is only partly for a creditable purpose; or
+•
+you provide or are liable to provide only part of the consideration.
+18. Under subsection 15-25(1), an importation is partly creditable if it is only partly for a creditable purpose. However, partial consideration is not relevant to importations. An acquisition or importation is partly creditable under sections 11-15 or 15-10 if you use it partly in making input taxed supplies or partly for a private or domestic purpose.
+19. Under subsections 11-15(4) and 15-10(4), if you do not exceed the financial acquisitions threshold, your acquisitions or importations may be fully creditable even if they relate to making input taxed supplies. However, you will still need to establish the extent of creditable purpose for any acquisitions or importations you make that relate to making other input taxed supplies (for instance the supply of residential property), or that are of a private or domestic nature.
+20. If you exceed the financial acquisitions threshold, you are not entitled to input tax credits for acquisitions or importations to the extent that they relate to making financial supplies. However, you may be entitled to reduced input tax credits, if the acquisitions are specified as
+reduced credit acquisitions
+in section 70-5.02 of the
+A New Tax System (Goods and Services Tax) Regulations 2019
+(GST Regulations).
+21. After an acquisition or importation is made, the extent to which it is actually applied or used for a creditable purpose may be different from the planned use. This means that the original input tax credit claimed may require adjustment to reflect actual use. Adjustments for changes in the extent of creditable purpose are subject to the provisions of Division 129 of the GST Act.
+Previous Ruling
+22. GSTR 2000/22
+Goods and services tax: determining the extent of creditable purpose for providers of financial supplies
+.
+Ruling
+23. You acquire or import a thing for a creditable purpose to the extent that you acquire or import it in carrying on your enterprise and it does not relate to making input taxed supplies (such as financial supplies) and is not of a private or domestic nature.
+24. The first step in determining the creditable purpose of an acquisition is therefore to establish a sufficient connection between the acquisition and the enterprise, such that you can be said to have made the acquisition 'in carrying on your enterprise'. This includes acquisitions or importations made in the course of the commencement or termination of that enterprise.
+[6]
+25. Under Divisions 11 and 15, you are not entitled to input tax credits to the extent you acquire or import goods, services or anything else that relates directly or indirectly to making input taxed supplies, and you exceed the financial acquisitions threshold.
+26. The input tax credits you claim have a direct effect on the net amount reported on your Business Activity Statement (BAS), and therefore on the amount payable by you to, or refundable to you by, the Australian Taxation Office for the relevant tax period. The fundamental requirement is that whatever method you adopt to calculate your input tax credits must be fair and reasonable, and appropriately reflect the intended use of your acquisitions (or in the case of an adjustment, the actual use) in calculating the net amount.
+27. To calculate the amount of your input tax credits, you will need to make a fair and reasonable estimate of the extent of creditable purpose for your acquisitions and importations. The requirement that your estimation is fair and reasonable is a prerequisite for any decision you make.
+28. If your estimate of the extent of creditable purpose is 100% of the total purpose (that is the acquisition or importation is allocated solely for a creditable purpose), no apportionment is necessary.
+29. If your estimate of the extent of creditable purpose is zero (that is, the acquisition or importation is allocated not at all for a creditable purpose), you are not entitled to any input tax credits.
+30. If you estimate that the extent of creditable purpose is less than 100% (but greater than zero), then the acquisition is partly creditable, and you need to apportion the total purpose between that part which on your estimate is creditable and that which is not.
+31. The issue of apportionment has been the subject of considerable income tax case law, which the Commissioner considers to be relevant for GST purposes. The essential principles underlying that case law are summarised in the High Court decision in
+Ronpibon Tin NL v. FC of T
+[7]
+where the Court required the amount of a deduction to be determined using 'some fair and reasonable assessment of the extent of the relation of the outlay to assessable income'.
+32. The 'fair and reasonable' principle was used by the High Court in the context of the apportionment of expenditure serving more than one object 'indifferently'.
+[8]
+The High Court did not, in that case, apply this principle in relation to the allocation of specific acquisitions wholly to specific ends, or to apportioning items of expenditure 'distinct and severable parts of which' can be identified as being devoted to such specific ends. However, the Commissioner's view is that the 'fair and reasonable' principle applies equally to the choice of method for allocating or apportioning acquisitions in all circumstances.
+33. Following the principles set out by the High Court, the method you choose to allocate or apportion acquisitions between creditable and non-creditable purposes needs to:
+•
+be fair and reasonable
+[8A]
+;
+•
+reflect the intended use of that acquisition (or in the case of an adjustment, the actual use); and
+•
+be appropriately documented in your individual circumstances.
+34. If you allocate or apportion acquisitions or importations using a method which meets all these principles, the Commissioner will not consider the fact that you choose the method that gives the most advantageous result to be, of itself, an arrangement to which Division 165 applies.
+35. The use of direct methods of allocating or apportioning the intended or actual use of acquisitions to the activities of an enterprise, such as direct estimation (see paragraphs 92 to 101A of this Ruling), best accords with the basic principles explained in paragraph 33 of this Ruling. If direct methods are available to you, the Commissioner's view is that they will best reflect the intended or actual use of your acquisitions for the purposes of this Ruling. To the extent that it is not possible or practicable to use a direct method, you should use some other fair and reasonable basis, which might include an indirect estimation method.
+36. You are not required to use direct and indirect methods in the manner set out in this Ruling. You may use any alternative method provided that whatever method you use is fair and reasonable having regard to the principles in paragraph 33 of this Ruling. You should only choose a method discussed in the Explanation part of this Ruling if it is fair and reasonable in your circumstances.
+37. If a direct method is available to you and you choose to use another method, the Commissioner may need to verify that your calculation of the net amount for a tax period flowed from the use of a fair and reasonable method. In the event that the Commissioner questions the basis of your apportionment, you may find it easier to support your choice of method, and any changes to that method over time, if you have retained sufficient records.
+38. For the purposes of this Ruling, 'acquisition' or 'importation' includes a class of acquisitions or importations. Where a method or example in this Ruling refers to an action or decision being taken in relation to the connection between an acquisition and the supplies or activities of an enterprise, this does not necessarily mean that specific consideration is required of the status of each individual acquisition or importation made. In the case of acquisitions of a particular class (for example, acquired on an ongoing basis), or made by a business area of the enterprise which undertakes a single type of supply or activity, it may be sufficient that a decision has been made in relation to the status of all acquisitions of that class or business area. This will often be the case in automated or semi-automated systems (such as those encompassed by the direct estimation method). In other situations (for example in the case of one-off financial supplies) a more individual consideration of the status of acquisitions may be required.
+38A. Where acquisitions are made by a business area of the enterprise that makes both input taxed and taxable or GST-free supplies, you must ensure that the method gives a fair and reasonable reflection of the extent of the relationships between the relevant acquisitions and the different types of supplies. For example, you will need to have regard to whether some of the acquisitions only relate to making financial supplies. Conversely, you will need to have regard to whether some of the acquisitions only relate to making taxable or GST-free supplies.
+39. If the extent to which an acquisition or importation is subsequently applied for a creditable purpose differs from the planned extent, you may require an appropriate basis for calculating the actual use. The apportionment method you choose for calculating any adjustment under Division 129 should reflect your actual use of the acquisition or importation in carrying on your enterprise.
+40. The methods for determining the extent of creditable purpose outlined in this Ruling are useful for the purposes of Divisions 11, 15, 70 and 129.
+41. If you exceed the financial acquisitions threshold, input tax credits are denied for acquisitions or importations to the extent that the acquisition or importation relates to making input taxed supplies. However, you may be entitled to reduced input tax credits for acquisitions that relate to making financial supplies if those acquisitions are reduced credit acquisitions as specified in section 70-5.02 of the GST Regulations.
+Explanation (this forms part of the Ruling)
+Input tax credits for acquisitions and importations - Divisions 11 and 15
+Calculating input tax credits
+42. Apportionment is required if a decision is made that acquisitions or importations are partly creditable.
+43. Formulae are specified in the GST Act for the calculation of input tax credits for acquisitions and importations that are partly creditable. A different formula is specified for importations, because the extent to which consideration is provided is not relevant for importations. The formulae are:
+For acquisitions
+[9]
+:
+Full input tax credit × Extent of creditable purpose × Extent of consideration
+[10]
+For importations
+[11]
+:
+Full input tax credit × Extent of creditable purpose
+44. For the purpose of claiming input tax credits, you need to estimate the extent to which the acquisition or importation is for a creditable purpose. This means that at the time of acquisition or importation, it is your planned use of the acquisition for a creditable purpose that is relevant in working out your input tax credit. You may estimate the planned use of the acquisition or importation based on:
+•
+records you already have available from a previous period;
+•
+records kept since you made the acquisition or importation, but before you lodge your BAS, including your actual use (full or partial) of the acquisition;
+•
+records kept for some other purpose of the enterprise, for example income tax, management accounting, profitability analysis, intra-entity transfer charging or cost accounting;
+•
+your previous experience concerning the usage of similar acquisitions;
+•
+your business plan; or
+•
+any other fair and reasonable basis.
+45. If your actual extent of use for a creditable purpose later turns out to be different from your planned use, you may need to make an adjustment under Division 129 (see paragraphs 57 to 67 of this Ruling).
+Meaning of extent of creditable purpose
+46. The phrase 'extent of creditable purpose' is defined to mean the extent to which the acquisition or importation is for a creditable purpose, expressed as a percentage of the total purpose of the acquisition or importation.
+[12]
+47. The phrase, 'to the extent that' appears in sections 11-15 and 15-10, which explain the meaning of creditable purpose. The same phrase is to be found in section 8-1 of the
+Income Tax Assessment Act 1997
+and subsection 51(1) of the
+Income Tax Assessment Act 1936
+. Under income tax law, the phrase 'to the extent that' has been found to require an apportionment to be made to decide what part of a loss or outgoing is deductible. The Commissioner views the phrase 'to the extent that' in the GST Act as incorporating the same apportionment concept as under income tax law.
+[13]
+Apportionment under GST
+48. As explained in paragraph 44 of this Ruling, for GST purposes it is the estimated extent of creditable purpose that is relevant to the claiming of input tax credits on acquisitions and importations. You could base your planned usage on past experience or experience to date, if that experience is likely to provide a reasonable reflection of planned usage.
+49. The following principles apply to establishing the extent of your creditable purpose:
+•
+if you plan to use the acquisition or importation solely (100%) for a creditable purpose then it is fully creditable and there is no need to apportion;
+•
+if you plan to use the acquisition or importation partly for both creditable and non-creditable purposes (including where distinct and severable parts are devoted to particular creditable and non-creditable purposes) or as overheads in your enterprise, then apportion on a fair and reasonable basis. The acquisition or importation is partly creditable; and
+•
+if you plan to use the acquisition or importation not at all (0%) for a creditable purpose, it will not be a creditable acquisition or importation. You are not entitled to any input tax credits for the acquisition or importation and there is no need to apportion.
+When will an acquisition or importation be partly creditable?
+50. A creditable acquisition or importation is partly creditable if the extent of creditable purpose is less than 100%.
+[14]
+This will be the case where your acquisitions or importations are partly made in carrying on your enterprise and are partly of a private or domestic nature. It will also be the case where they are made in carrying on your enterprise, but relate partly to making supplies that would be input taxed.
+When is an acquisition or importation made in 'carrying on your enterprise'?
+51. You acquire a thing for a creditable purpose to the extent that you acquire it in carrying on your enterprise. The acquisition must be made in the course of the activities that constitute your enterprise. An acquisition is made 'in carrying on your enterprise' if it is made for the purposes of that enterprise, but not if it is made for some other purpose.
+52. The test for establishing whether you have made an acquisition in carrying on your enterprise is broader than the test for income tax deductibility. Under section 195-1, 'carrying on' is defined to include the commencement or termination of your enterprise. For example, usually the cost of a feasibility study incurred in commencing a business is not deductible for income tax purposes, while acquisitions for the same study conducted in the course of commencing an enterprise could be creditable acquisitions under the GST Act.
+[15]
+Acquisitions made in carrying on an enterprise, but not directly linked to making particular supplies
+53. Carrying on an enterprise includes those activities that you undertake in actually managing or conducting that enterprise.
+[16]
+Certain acquisitions or importations relate to the carrying on of the enterprise as a whole and are not directly linked to the making of supplies but nonetheless they relate indirectly to all activities of the enterprise. These may be referred to as enterprise costs and may include costs such as compliance costs for meeting Australian Securities and Investments Commission (ASIC), GST or income tax obligations, directors' fees or maintaining a register of shareholders. These may still be creditable acquisitions provided you made them in carrying on your enterprise. However, if you make input taxed supplies as well as taxable supplies or GST-free supplies, you will still need to establish the extent of creditable purpose relating to these acquisitions and importations.
+54. An alternative view has been raised that this approach to enterprise costs is not consistent with the provisions of section 11-15. The alternative view requires that the words in subsection 11-15(2), '...to the extent that ... the acquisition relates to making supplies that would be input taxed', are to be interpreted as requiring some direct connection between the acquisition and the supply. It follows from this view that if the acquisitions cannot be directly linked to making supplies or carrying out other activities (including input taxed supplies) the extent of creditable purpose is 100%.
+55. One possible consequence of the alternative view is that all indirect and overhead costs of an enterprise that makes only input taxed supplies would arguably be creditable acquisitions. This is clearly not the intention of the legislation.
+[17]
+In the context of section 11-15 the Commissioner's view is that if acquisitions are made in carrying on an enterprise that involves making input taxed supplies, even if those acquisitions are not directly related to making particular supplies they are still indirectly related to making all supplies. For the purpose of section 11-15, acquisitions can relate indirectly to making input taxed supplies, and the extent of creditable purpose will need to be established accordingly.
+[18]
+56. In a different context, the High Court has interpreted the words 'relating to' as being 'extremely wide' and stated that the meaning must be sought 'in the context in which the expression is used'.
+[19]
+The Court in
+Ronpibon Tin NL v. FC of T
+[20]
+indicated that in the income tax context, if a certain expense has a 'double aspect', it will need to be apportioned if it 'cannot be dissected'. The High Court used directors' fees as an example of an expense having a 'double aspect'.
+Adjustments when your actual application of an acquisition differs from planned use for a creditable purpose - Division 129
+57. The scheme of the GST legislation is that, if there is a change of the creditable purpose determined under Divisions 11, 15 or 70, an adjustment is required.
+58. Adjustments under Division 129 are made in subsequent tax periods called
+adjustment periods
+.
+[21]
+The number of adjustment periods applicable to an acquisition or importation depends on its GST-exclusive value and whether or not the acquisition
+relates to business finance
+.
+59. An acquisition or importation relates to business finance if at the time of acquisition or importation it:
+•
+related solely or partly to making financial supplies; and
+•
+was not solely or partly of a private or domestic nature.
+[22]
+60. No adjustment arises for an acquisition or importation that relates to business finance unless the acquisition or importation had a GST-exclusive value of more than $10,000.
+[23]
+However, even where the GST-exclusive value of the acquisition or importation is $10,000 or less, you may have an increasing adjustment under Division 138 if your registration is cancelled. The number of adjustment periods you have for an acquisition or importation that relates to business finance is explained in the table below:
+[24]
+GST-exclusive value of the acquisition or importation
+Adjustment periods
+$10,000 or less
+None
+$10,001 to $50,000
+One
+$50,001 to $499,999
+Five
+$500,000 or more
+Ten
+61. If the acquisition or importation does not relate to business finance at the time of acquisition or importation, the GST-exclusive threshold value below which no adjustment is necessary is $1,000.
+[25]
+The number of adjustment periods you have in that situation is set out in subsection 129-20(3).
+62. The formula used for making adjustments requires you to calculate your actual application for a creditable purpose as a percentage of total application.
+63. If the actual extent to which the acquisition or importation has been applied for a creditable purpose is greater than the intended or former application,
+[26]
+you will have a decreasing adjustment.
+[27]
+Conversely, if the actual extent to which the acquisition or importation has been applied for a creditable purpose is less than the intended or former application, you will have an increasing adjustment.
+[28]
+Example 1 - adjustment to reflect actual use of acquisition for a creditable purpose
+64.
+Megacorp acquired equipment with a GST-exclusive value of $20,000. Its extent of creditable purpose for claiming an input tax credit was originally 40
+%.
+Megacorp subsequently finds that from the time of acquisition to the end of its first adjustment period, its actual use of the equipment for a creditable purpose is 55
+%.
+65.
+The change in extent of creditable purpose is 15
+%.
+For an acquisition on which the full input tax credit was $2,000, Megacorp will have a decreasing adjustment of $2,000 × 15%, or $300. When it makes this adjustment, Megacorp will have a decrease in its net amount for that tax period
+.
+66. For the purpose of making adjustments under Division 129, the actual application is measured from the time of acquisition or importation until the end of the adjustment period. This means that the calculation of creditable purpose is a cumulative one, starting at the point of acquisition and ending at the end of each relevant adjustment period. This does not necessarily require the calculation of actual application to be the result of a continuous measurement of use. It will be sufficient to make a reasonable estimate based on a representative period, using one of the methods explained in paragraphs 90 to 130 of this Ruling.
+67. In addition to the monetary thresholds set out at paragraphs 60 and 61 of this Ruling, you do not have an adjustment under Division 129 if you have already had an adjustment under Division 130 (which is about goods applied solely to private or domestic use) for the acquisition.
+[29]
+djustments when you sell something acquired, imported or applied to make financial supplies - Division 132
+68. You may have been denied part of the input tax credit relating to an acquisition or importation due to a partial use for making financial supplies.
+[30]
+The denial of input tax credits may arise when a thing is first acquired and/or through a later adjustment (either under Division 19 or 129). If you acquired or imported something and you are not entitled to a full input tax credit for that acquisition, you may have a decreasing adjustment under Division 132 if you make a
+taxable supply
+of the thing.
+69. The amount of the decreasing adjustment
+[31]
+is:
+1/11 × Price × ((1 - (Adjusted input tax credit
+[32]
+÷ Full input tax credit
+[33]
+))
+Choosing your apportionment method
+General principles of apportionment
+70. If you establish that you have made an acquisition, or class of acquisitions, partly for creditable and partly for non-creditable purposes, apportionment of the input tax credit for that acquisition between the uses to which it is either intended or actually put is required. In practice, this will usually involve an initial decision as to whether the acquisition is to be allocated solely to a particular purpose (in which case apportionment is not required).
+71. The principles to be applied in identifying situations where apportionment is appropriate in an income tax context, and the method to be employed where apportionment is required, were considered by the High Court in
+Ronpibon Tin NL v. FC of T
+. In that case, the High Court considered what part of management and administrative expenses incurred by a taxpayer (whose principal business activity has been interrupted by World War II), were referable to gaining or producing assessable income. The High Court considered both the allocation of distinct expenditure to specific activities, and apportionment, and said:
+[34]
+In applying the foregoing test or standard separate and distinct items of expenditure should be dealt with specifically. To begin with there are the payments by Ronpibon Tin No Liability to the dependents of members of that company's Eastern staff. ... from the point of view of the income-tax law they could not be regarded as business expenditure ....
+In the next place the cost incurred by the same company in cables and other communications with reference to the buffer stock scheme cannot be deducted. ... Sufficient details do not appear to say what other distinct and severable items are wholly incapable of reference to the gaining of assessable income.
+The charges for management and the directors' fees are entire sums which probably cannot be dissected. But the provision contained in s.51(1) [of the
+Income Tax Assessment Act 1936
+], as has already been said, contemplates apportionment. The question what expenditure is incurred in gaining or producing assessable income is reduced to a question of fact when once the legal standard or criterion is ascertained and understood. This is particularly true when the problem is to apportion outgoings which have a double aspect, outgoings that are in part attributable to the gaining of assessable income, and in part to some other end or activity. It is perhaps desirable to remark that there are at least two kinds of items of expenditure that require apportionment. One kind consists in undivided items of expenditure in respect of things or services of which distinct and severable parts are devoted to gaining or producing assessable income and distinct and severable parts to some other cause. In such cases it may be possible to divide the expenditure in accordance with the applications which have been made of the things or services. The other kind of apportionable items consists in those involving a single outlay or charge which serves both objects indifferently. Of this directors' fees may be an example. With the latter kind there must be some fair and reasonable assessment of the extent of the relation of the outlay to assessable income. It is an indiscriminate sum apportionable, but hardly capable of arithmetical or ratable division because it is common to both objects.
+72. The High Court, therefore, emphasised the necessity of considering the facts of individual cases. If items of expenditure ('acquisitions' in the context of GST) are not referable to a particular object, then apportionment is required using a method which results in a fair reflection of the relationship of the expenditure to assessable income.
+73. Following the principles set out by the High Court, the method you choose to allocate or apportion acquisitions between creditable and non-creditable purposes needs to:
+•
+be fair and reasonable;
+•
+reflect the intended use of that acquisition (or in the case of an adjustment, the actual use); and
+•
+be appropriately documented in your individual circumstances.
+74. If you allocate or apportion acquisitions or importations using a method which meets all these principles, the Commissioner will not consider the fact that you choose the method that gives the most advantageous result to be, of itself, an arrangement to which Division 165 applies.
+Fair and reasonable method
+75. The extent of your planned use of an acquisition for a creditable purpose must be established on a fair and reasonable basis having regard to the nature of the acquisition and the circumstances of your enterprise. Any apportionment method should aim to achieve an accurate reflection of the input tax credits available for acquisitions or importations acquired in carrying on your enterprise. The criteria used in relation to any expense must therefore recognise the nature of the underlying supply to be made.
+76. [Omitted.]
+77. [Omitted.]
+Adjustments
+78. For the purpose of making adjustments, the most appropriate method for calculating the extent to which you actually applied the acquisition for a creditable purpose depends on the circumstances of each case. In choosing a method to measure the use of an acquisition or importation, the matters you should consider include:
+•
+the nature of the acquisition or importation and the ways of measuring its application; and
+•
+the value of the acquisition or importation and the cost of measuring its application.
+79. The method should, if practicable, use information regarding the actual use to which the acquisition or importation was applied, as this accords with the basic principles explained in paragraph 73 of this Ruling.
+Methods of calculating the extent of creditable purpose
+80. To calculate the amount of your input tax credits, you need to adopt a method of estimating the extent of creditable purpose of your acquisitions and importations. The requirement that your estimation is fair and reasonable in your circumstances is a prerequisite for any decision you make.
+81. The Commissioner considers that the use of direct methods, including direct estimation (see paragraphs 92 to 101A of this Ruling) best accords with the basic principles explained above (see paragraph 73 of this Ruling). If it is not possible or practicable to use a direct method, you may use some other fair and reasonable basis, including an indirect estimation method.
+Example 2 - establishing the extent of creditable purpose - combined use of direct and indirect methods
+82.
+FinanceCo has two business units, one of which makes taxable leasing supplies only, while the other makes input taxed supplies of chattel mortgages. These business units are physically separate and utilise different accounting systems. As part of a major IT upgrade, FinanceCo acquires 1000 desktop computers. 600 of these are intended to be used immediately in the leasing area, 300 in the chattel mortgage area, and 100 will be held in stock in anticipation of an imminent upturn in the financing industry
+.
+83.
+FinanceCo determines using a direct method that the 600 computers allocated to the leasing area are each acquired solely for a creditable purpose, and that the 300 allocated to the chattel mortgage area are each not acquired for a creditable purpose to any extent. In relation to the 100 units held in stock, as the anticipated upturn in activity is considered to equally affect both areas, FinanceCo uses an indirect method based on the specific allocation of the 900 computers. Therefore, as 600 of the 900 computers (two-thirds) specifically allocated were solely for a creditable purpose, the 100 units held in stock are each treated as being for a creditable purpose to the extent of two-thirds. This method of establishing extent of creditable purpose is fair and reasonable in FinanceCo's circumstances, subject to adjustments, if appropriate, under Division 129
+.
+84. You are not required to use direct and indirect methods in the manner set out in this Ruling, provided that whatever alternative method you do use is fair and reasonable having regard to the principles explained in paragraph 73 of this Ruling.
+85. If a direct method is available to you and you choose to use another method, the Commissioner may need to verify that your calculation of a net amount flowed from the use of a fair and reasonable method. In the event that the Commissioner questions the basis of your apportionment, you may find it easier to support your choice of method, and any changes to that method over time, if you have retained sufficient records.
+Example 3 - use of an overall indirect estimation method
+86.
+Using the facts of Example 2, FinanceCo has determined using historical information that, as a whole, 55% of acquisitions relate to leasing, and 45% relate to chattel mortgages. This is based on an overall consideration of the intended use of all acquisitions in these business areas, including overheads, and the apportionment is reviewed by it periodically. The computer upgrade was budgeted for, and therefore taken into account when calculating the overall 55
+/
+45 recovery rate for the current year. FinanceCo has satisfied itself that the use of this method is fair and reasonable in its circumstances. It has a system in place to comply with Division 129, if the creditable use of acquisitions changes over time
+.
+87.
+FinanceCo therefore calculates its input tax credit claim based on 55% of each of the 1000 computers acquired. FinanceCo considers that all the acquisitions made by its enterprise will result in an overall 55
+/
+45 use of total acquisitions across the two business units. Although FinanceCo had access to direct methods of calculating the extent of creditable purpose of the computers, its choice of an overall indirect method is fair and reasonable, subject to adjustments, if appropriate, under Division 129
+.
+88. Your choice of method should be based on its appropriateness in the circumstances, and not just because it provides a more favourable result. Fundamentally, the method chosen must be fair and reasonable and appropriately reflect the intended or actual use of your acquisitions in calculating the net amount. Similarly, a change in method is acceptable if the reason for the change is that another method is now more appropriate, or also produces a fair and reasonable result.
+88A. When the method you use includes factors or characteristics that change over time, those factors or characteristics must be periodically updated and applied to the method to determine intended use. The frequency of these updates will have regard to the frequency with which that source data is refreshed or recalculated within the enterprise. For example, if a method uses an input where updated data is readily available on an annual basis (such as transaction count or revenue data), we would expect the input used in the method to be updated annually.
+89. A combination of different methods might be required for the various acquisitions or importations made by an entity. For example, an entity might be carrying on a number of different businesses or making supplies in different areas, or there might be several kinds of businesses within a single GST group.
+[36]
+Direct methods
+90. Direct methods seek to identify, on a fair and reasonable basis, a direct connection between acquisitions or importations and supplies or other activities of the enterprise. This may result in a decision that acquisitions or importations are solely (or not at all) for a creditable purpose. In other cases, the intended use may be considered to be partly for a creditable purpose.
+91. An assessment that an acquisition or importation is intended to be (or has been) used solely (100%), not at all (0%), or partly in connection with one or more particular supplies or activities of the enterprise could, at the most simple level, be made by considering each acquisition or importation individually. In many cases, however, it may not be practical for such an individual process to be applied. In those cases, an estimation on some fair and reasonable basis may be appropriate.
+Direct estimation
+92. If an estimate of the connection between acquisitions and the activities of an enterprise is required for the purposes of determining the planned or actual uses of those acquisitions, this may be effected via an automated or semi-automated system such as discussed in 'Direct estimation' below. The estimation method chosen should result in a fair and reasonable approximation of the intended or actual usage of acquisitions in your enterprise. The requirement that your estimation is fair and reasonable in your circumstances is a prerequisite for any decision you make.
+92A. Depending on the business unit or product that costs are allocated to, a direct estimation method may either provide the relevant apportionment method by itself, or it may be one of several steps in an apportionment method. Paragraphs 92 to 101A of this Ruling are to be read as being subject to the following propositions:
+•
+no further apportionment method is required where a direct estimation method allocates costs to business units and products that make only one type of supply (for example, where costs are allocated to a business unit that makes only input taxed supplies); and
+•
+further apportionment methods are required to determine the extent of creditable purpose where a direct estimation method allocates costs to business units and products that make a mix of supplies (for example, where costs are allocated to a business unit that makes a combination of input taxed and taxable or GST free supplies). As explained at paragraph 38A of this Ruling, you must ensure that the method used gives a fair and reasonable reflection of the extent of the relationships between the relevant acquisitions and the different types of supplies. For example, you will need to have regard to whether some of the acquisitions only relate to making financial supplies. The method you choose should not by default assume that all acquisitions allocated to a business unit or product relate to all the supplies in that business unit or product.
+92B. Therefore, when these paragraphs refer to a direct estimation method reflecting the intended or actual use of your acquisitions, this may, depending on your circumstances, refer only to the use of the acquisition having been allocated to a business unit or product on a fair and reasonable basis, and other apportionment methods (including combinations of direct and indirect methods) may then need to be used to determine the extent of creditable purpose.
+93. Direct estimation methods are preferable to indirect estimation methods (see paragraphs 102 to 130 of this Ruling), particularly if the direct estimation method used involves a detailed measure of the intended (or actual) use of the acquisition or importation. Measures based on inherent characteristics of, or factors directly connected with, the acquisition usually give a fair reflection of the use of the thing. These factors are sometimes referred to in management accounting and costing systems as 'drivers'.
+94. The use of such characteristics or factors provides an estimation of a direct link between the acquisition or importation and its (or its intended) application. Some examples of these factors and characteristics are:
+•
+distance (for example, for fuel acquired for use partly in connection with bank branches, the kilometres travelled by a motor vehicle as evidenced by a logbook);
+•
+time (for example, computer processing time spent on various input taxed and other activities, as evidenced by a time sheet);
+•
+volume (for example, numbers of financial transactions of particular types);
+•
+space (for example, floor area if the space is used for different activities); and
+•
+staff numbers (for example, measuring the actual use of acquisitions by identified staff).
+The method chosen as fair and reasonable would express the relevant use of the acquisition or importation as a percentage of total application (or intended application).
+95. The Commissioner considers that the use of a
+direct estimation
+method usually gives an accurate estimation of how an acquisition or importation is intended to be used or is used. A direct estimation method (of which Activity Based Costing is but one example) seeks via an automated procedure to identify the costs incurred in achieving a particular income flow for accounting purposes. For instance, the costs incurred by a bank in establishing and maintaining a home loan portfolio would be capable of identification and attribution to the supply of home loans.
+96. The direct estimation method matches specific costs with specific outputs and also allocates mixed purpose costs to specific outputs in accordance with an internal
+cost allocation
+system. For example, the system you use may allocate costs to a specific:
+•
+transaction;
+•
+product line;
+•
+function or activity;
+•
+cost or profit centre; or
+•
+business division.
+These are referred to, for simplicity, as business units and products - generally the lowest functional area into which an entity is organised.
+97. An entity might use an existing accounting system that uses Activity Based Costing, or some other cost allocation system, to allocate costs to a specific cost centre. The purpose of using the existing allocation system for GST purposes should be to isolate each of the separate costs incurred in carrying on your enterprise and identify those that relate to making supplies that are input taxed (including reduced credit acquisitions that relate to making financial supplies) or are acquisitions of a private or domestic nature.
+98. If you already use cost allocation or a direct estimation method as part of your entity's accounting processes then you may consider, taking into account your individual circumstances, that the use of such a method for GST purposes provides the basis for a fair and reasonable reflection of the intended or actual use of your acquisitions.
+99. A direct estimation method usually matches the cost of certain acquisitions or importations solely to certain specified activities. Direct estimation also allows the allocation of a proportion of the cost of mixed purpose acquisitions or importations to those activities. For example, debt collection costs that relate to the provision of credit can be directly allocated to the input taxed supply of that credit arrangement, and may be eligible for a reduced input tax credit. However, overheads such as electricity and rental of premises will often relate to all supplies made by an entity and will need to be apportioned accordingly.
+100. If a direct estimation method is available to you, the Commissioner considers its use will reflect most accurately the actual or intended use of the acquisition. If your accounts satisfy Australian Accounting Standards, or prudential requirements of equivalent rigor, the Commissioner considers that they may provide an appropriate foundation for applying the direct estimation method, subject to that application being fair and reasonable in your individual circumstances.
+101. The Commissioner recognises that, from a practical point of view, it may be difficult to fully attribute individual costs via existing direct estimation systems in many organisations. If
+financial supply providers
+are unable to match individual acquisitions with individual supplies via their direct estimation systems, other apportionment methods (including combinations of direct and indirect methods) may need to be used.
+101A. Where direct methods are available to you for use in combination with your direct estimation system, the Commissioner's view is that they will best reflect the intended use of your acquisitions. Whichever method you use, it must provide a fair and reasonable reflection of the extent of the relationships between your acquisitions and supplies.
+Indirect estimation methods
+102. Indirect methods attempt to estimate the use of acquisitions and importations for creditable purposes by taking into account factors or characteristics that are not directly referable to the use of the particular acquisition. For this reason they may not give as accurate a measure of the creditable purpose of the acquisition or importation as direct methods. Paragraph 155 of the Ruling gives an example (Example 10) of the different extents of creditable purpose potentially available from the use of indirect estimation methods and the factors to take into account in choosing the appropriate method.
+103. Indirect estimation methods may be appropriate in circumstances where there are overhead expenses that are not directly referable to particular supplies or activities. They may also be appropriate if the direct methods do not apportion acquisitions or importations to the level of supplies, or groups of supplies, that require different treatment for GST purposes. It may also be the case that the direct attribution of a large number of small acquisitions or importations is not cost effective. In all cases where indirect methods are used, the method chosen should be fair and reasonable in the context of your enterprise.
+104. The indirect estimation methods listed immediately below (and discussed in paragraphs 102 to 130 of this Ruling) are examples of indirect methods which may be appropriate in your circumstances. They are not the only methods which can be used. The examples are:
+•
+an overall,
+Entity
+-
+based general formula
+, based on the proportion of input taxed and non-input taxed revenues of the entity as a whole;
+•
+Revenue
+-
+based formulas
+which are more narrowly targeted than the entity-based general formula;
+•
+a combination of revenue-based formulas with direct methods; and
+•
+non-revenue-based indirect estimation methods.
+Entity-based general formula
+105. The entity-based general formula provides an estimate of the use (or intended use) of acquisitions or importations based on the proportion of revenues from non-input taxed activities of the enterprise, expressed as a percentage of total revenues of the enterprise. A decision taken to use this method should be based on a fair and reasonable expectation that the use of acquisitions or importations will be accurately reflected in the revenue flows (input taxed and non-input taxed) of the overall enterprise (or GST group). The formula to be used is that expressed in the revenue-based formulas section below, using entity-wide revenue figures.
+106. A fundamental issue to be addressed prior to adopting this method is whether the use of the formula is fair and reasonable, based on the information available to you.
+107. As the entity-based general formula uses the entity-wide (or GST group-wide) revenue flows as the basis for apportionment, it may be especially suitable for use by a smaller financial institution such as a credit union. Such an institution may have little or no access to methods of direct estimation as discussed above. The method might also be appropriately used by financial supply providers other than financial institutions, who may need to apportion overheads (sometimes referred to as enterprise costs) to the limited number of financial supplies (or classes of supplies) that they make.
+108. In the case of entities with access to methods of direct estimation discussed in paragraphs 92 to 101A of this Ruling, the use of the entity-based general formula would be subject to the entity satisfying itself that such usage was fair and reasonable, having regard to the available alternatives.
+Revenue-based formulas
+109. The basic revenue-based formula (also applicable to the entity-based general formula above) can be expressed as follows:
+Percentage credit allowed
+[Revenue* (other than revenue from input taxed supplies) ÷ Total Revenue* (including revenue relating to input taxed supplies)] × 100
+*'Revenue' may be either net revenue or gross revenue depending on which provides the more appropriate reflection of the use of acquisitions in your circumstances. In any case, a consistent approach (gross or net) should be used for the same revenues occurring in both the numerator and denominator.
+If net revenue is used, it should ignore income tax. That is, do not reduce your revenue in the formula by the amount of the income tax deductions to which you may be entitled. The value of non-monetary consideration should also be included in revenue.
+[37]
+110. You may consider that the use of a single apportionment formula based on enterprise-wide (or GST group-wide) revenue flows would not result in a fair and reasonable reflection of the use of acquisitions. This may be because of wide revenue fluctuations between classes of supplies or business areas within the enterprise, such that a single formula would not accurately reflect the use (or intended use) of acquisitions or importations within the enterprise (or GST entity). In that case, it may be more accurate to utilise revenue flows from a more limited base. This might reflect a particular business area generating identifiable revenue flows, or the overall revenue flows of a Division or another area.
+111. The Commissioner has outlined an example of the revenue-based formula and the components that you may include (as are appropriate) at paragraphs 160 to 182 of this Ruling. The Commissioner has provided explanations of some of the common components of revenue in paragraphs 183 to 211 of this Ruling. You may require the use of different components to those used in the numerator and denominator of the basic revenue-based formula in paragraph 109 of this Ruling to ensure that the application of the revenue-based formula in your circumstances is fair and reasonable.
+112. Any revenue-based formula calculates the extent (expressed as a percentage) to which an acquisition or importation is for a creditable purpose for the purpose of subsections 11-30(3) and 15-25(3). The resulting percentage is applied to those input tax credits not previously accounted for under a direct method.
+113. In applying the revenue-based formula (or any other appropriate formula or indirect apportionment method) to apportion remaining input tax credits, you only apply the resulting percentage to those costs for acquisitions or importations that you have not already accounted for using a direct method. This is to avoid double counting of input tax credits previously attributed.
+Combination of revenue-based formulas with direct methods
+114. If you decide that the use of a direct method is appropriate, but that system does not allocate all costs, an indirect estimation method (such as a revenue-based formula) can be used to attribute unallocated costs if that provides a fair and reasonable result.
+[37AA]
+115. The Commissioner accepts that different businesses will be able to directly allocate costs to different levels. For example, some entities may be able to use direct estimation down to an individual supply or activity level while other entities will only be able to directly allocate to particular business units and products. For example, the corporate treasury area of a large manufacturing enterprise might allocate costs only to a single cost area. If you only perform allocation at a level above that of product, it may be necessary to use another method to further allocate other costs to the product level (if, for example, that area makes both input taxed and non-input taxed supplies). That is, the final allocation performed needs to reflect whether (and to what extent) the acquisition or importation relates, or is expected to relate, to particular supplies or activities of the enterprise.
+116. The choice of indirect method for use in conjunction with direct estimation must result in a fair and reasonable apportionment of mixed-use acquisitions in the circumstances of your enterprise.
+Non-revenue-based indirect estimation methods
+Non-revenue formula methods
+117. If a revenue-based formula is not suited to your particular business as a financial supply provider, then you may modify it to better reflect your activities.
+118. An acceptable alternative would be to use the basic revenue-based formula in paragraph 109 of this Ruling as a basis but to use something other than dollar value in the formula.
+119. In circumstances such as these, some indirect measure other than revenue may provide a fair and reasonable outcome. The following measures may be appropriate:
+•
+number of transactions;
+•
+floor space;
+•
+profit; or
+•
+hours.
+If more than one of these indirect measures is available you should select the one which most accurately reflects the relationship between the activities of your enterprise and your acquisitions or importations.
+Example 4 - use of a non-revenue formula
+120.
+Admin Services is a business unit of OmniBank. It is responsible for the administrative functions of the organisation and does not charge out to other units of the organisation. A different basis of allocation to those used for the other business units is chosen for the costs of Admin Services. The basis chosen is salary, as this is determined to provide a fair and reasonable reflection of the intended use of acquisitions
+.
+121.
+The total costs of the business unit are allocated by using the salary costs as a measure of the ratio of work performed for other parts of the organisation which make input taxed, taxable or GST-free supplies. Of the ten staff employed in Admin Services, five are wholly engaged in assisting the separate home loan unit make financial supplies. Therefore half the cost of the business unit is referable to making financial supplies
+.
+'Special allocation approach'
+122. Statutory obligations for financial reporting purposes are imposed on some financial supply providers such as life insurance providers. The means you use to meet these obligations may form an appropriate basis of apportionment for GST purposes. One such approach, for example, could involve applying the special allocation approach as detailed in section 80 of the
+Life Insurance Act 1995
+.
+Example 5 - life insurance
+123.
+Life Insurance Co, in addition to selling life insurance, also sells general insurance. For the purposes of the Life Insurance Act 1995, Life Insurance Co must apportion the amount of income or outgoings relating to the two types of business and work out the amount that relates to the business of the statutory fund
+.
+124.
+The apportionment basis chosen by Life Insurance Co accurately reflects the relationship between its supplies and acquisitions and is made according to generally accepted accounting principles. The Directors of the company obtain written advice from the appointed actuary that the basis of the proposed apportionment is appropriate
+.
+Input based indirect method
+125. Input based indirect methods employ a measure based on the already established use of some inputs ('directly allocated inputs') to estimate the use of other inputs not able to be allocated in this way ('remaining inputs'). These methods are only useful if a direct method (such as direct estimation) has already been used in respect of a majority of acquisitions or importations, so as to provide a reliable basis for their use in calculating the creditable use of the remaining inputs.
+126. The proportion of directly allocated inputs would be calculated as the proportion of total inputs to inputs used in making non-input taxed supplies. This could then be used to establish the extent of creditable purpose in respect of the remaining inputs.
+127. This method will provide the most accurate results if the percentage of remaining inputs does not exceed the proportion of directly allocated inputs. Some examples of input based methods are:
+•
+the cost of acquisitions directly allocated to non-input taxed supplies relative to the total costs of all acquisitions directly allocated; or
+•
+input tax directly allocated to acquisitions used to make non-input taxed supplies relative to total directly allocated input tax.
+Example 6 - an input based method
+128.
+ZXC, a business that makes financial supplies in excess of the financial supply threshold, owns a two-storey building and is registered for GST. It rents out the ground floor to a business (a taxable supply
+).
+Some of ZXC's costs are overheads that it cannot directly allocate to making either taxable supplies or input taxed supplies. ZXC can directly allocate its other costs to making either taxable supplies or input taxed supplies. ZXC could use an input based indirect method as follows
+:
+INPUTS
+Acquisitions - making taxable supplies
+A
+400
+Acquisitions - making input taxed financial supplies
+B
+600
+Acquisitions overheads
+C
+200
+Extent of creditable purpose
+=
+A ÷ (A + B)
+=
+400 ÷ (400 + 600)
+Extent of creditable purpose (expressed as a percentage
+)
+=
+40%
+129.
+ZXC could apply the extent of creditable purpose of 40% to the overheads of $200 (if its historical data is likely to be a reasonable reflection of planned usage) and claim input tax credits calculated on $80 of overheads as well as on the $400 of acquisitions used for making taxable supplies
+.
+130. Based on actual data for the adjustment period, an input based indirect method as outlined above could be used to determine relevant adjustments for the purposes of Division 129.
+Distorting factors
+131. The basis of apportionment or allocation needs to make sense in the context of the enterprise and should not produce significant distortions. Any method to allocate indirect costs must be consistently followed and there should not be any manipulation that produces an inappropriate loading of expenses to particular intended or actual uses. If different types of costs are being allocated, it may be appropriate to use different apportionment or allocation criteria.
+132. To ensure that the apportionment method you use gives a fair and reasonable reflection of the relationship between your supplies and acquisitions you should exclude factors which may distort the results from the calculation, or modify them such that their inclusion is fair and reasonable. These may include extraordinary supplies, income items or acquisitions, for example substantial one-off capital acquisitions. Methods which have the effect of including (for example) the same supplies more than once in the factors used, would also produce a distorted result, and would not be fair and reasonable.
+Reduced input tax credits and apportionment methods
+133. As a financial supply provider, you may make acquisitions that are fully or partly eligible for reduced input tax credits under Division 70. You will also make other acquisitions that are not eligible for reduced input tax credits but relate to making both taxable and input taxed supplies so that you are entitled to partial input tax credits.
+134. Acquisitions that give rise to reduced input tax credits are referred to as reduced credit acquisitions and are set out in section 70-5.02 of the GST Regulations. When you make a reduced credit acquisition, Division 70 provides a formula to work out your input tax credit. Under this formula, a partial input tax credit will be available, notwithstanding that you use the acquisition to make input taxed financial supplies. Division 70 operates to work out a percentage of input tax credits you are entitled to, by taking into account the extent to which you are entitled to an input tax credit under both Division 11 and Division 70, and allowing you to claim either 75% or 55% of input tax credits referable to Division 70.
+[37A]
+Inter-relationship of apportionment method and Division 70
+135. There is a degree of overlap in the apportionment methods used for the purposes of Divisions 11 and 15, and the formula in section 70-20, and entities will need a framework for coordinating the operation of these parallel systems.
+136. You may use the apportionment methods outlined in this Ruling in calculating input tax credits available under Division 70. However, you cannot automatically apply the Division 70 formula to all acquisitions that relate to making financial supplies. It only applies to those reduced credit acquisitions listed in section 70-5.02 of the GST Regulations. Under subsection 70-5(1A), you are not entitled to a reduced input tax credit on an acquisition, to the extent that you would otherwise be entitled to an input tax credit under Division 11 or 15.
+137. You work out the extent to which the acquisition is acquired or applied for a creditable purpose using the following formula:
+Extent of creditable purpose + [Extent of Division 70 creditable purpose × Prescribed credit reduction rate (currently 75% or 55%)]
+If:
+Extent of creditable purpose
+is the extent to which the acquisition was for a creditable purpose otherwise than because of Division 70 (that is under Divisions 11 or 15), expressed as a percentage.
+[38]
+Extent of Division 70 creditable purpose
+is the extent to which the acquisition was for a creditable purpose because of Division 70, expressed as a percentage.
+[39]
+Prescribed credit reduction rate
+is the reduced input tax credit percentage prescribed for an acquisition of that kind (currently 75% or 55%).
+138. The following approach coordinates the operation of these parallel systems:
+Step 1:
+identify those acquisitions or importations that you make in carrying on your enterprise, separately identifying those acquisitions or importations that relate to making input taxed supplies or that are of a private or domestic nature. Work out the extent to which you plan to use them for making each type of supply using a fair and reasonable basis.
+Step 2:
+calculate the extent to which those acquisitions or importations give rise to input tax credits under Divisions 11 or 15. This will be claimed as part of the 'extent of creditable purpose' calculation in section 70-20.
+Step 3:
+of those acquisitions or importations that relate to making input taxed supplies, identify the extent (if any) to which they relate to making financial supplies.
+Step 4:
+of those acquisitions or importations that relate to making financial supplies,
+[40]
+calculate the extent (if any) to which they give rise to a reduced input tax credit under Division 70.
+139. Once you have applied Division 70 to work out the reduced input tax credit available on an acquisition that falls within that division, you do not have to make any further calculation in respect of that acquisition. That is, you do not reapportion the expense through the direct estimation method or an indirect estimation method.
+140. Examples of how Division 70 operates, together with the interaction between it and the formula are provided below.
+Example 7 - reduced input tax credits
+141.
+Little Bank makes a reduced credit acquisition of $110,000 wholly for the purposes of making financial supplies in carrying on its enterprise. The acquisition is wholly for a Division 70 creditable purpose. The percentage credit reduction prescribed in the GST Regulations is 75%. Little Bank is entitled to a reduced input tax credit calculated as a prescribed percentage of the GST payable, namely $10,000 × 75%.
+Example 8 - reduced input tax credit for partly creditable acquisition
+142.
+Medium Financial Supply Provider (MFSP) makes a reduced credit acquisition. Using historical data that is likely to reflect planned usage, MFSP is able to directly attribute the cost of that acquisition and works out that the acquisition is used 55% for making taxable supplies and 45% for making financial supplies. The percentage credit reduction prescribed in the GST Regulations is 75%.
+143.
+The extent to which MFSP makes the acquisition for a creditable purpose is
+:
+55% + (45% × 75%) = 88.75%
+144.
+This percentage is then applied in the formula in section 11-30. Had the acquisition been fully creditable the full input tax credit (assuming MFSP provided all the consideration) for an acquisition of $110,000 would have been $10,000. MFSP's input tax credit would therefore be $8,875
+.
+Record keeping relating to apportionment methods
+145. If you make a creditable acquisition or creditable importation, the
+Taxation Administration Act 1953
+(TAA) sets out the requirements for record keeping.
+[41]
+The records must be sufficient to 'record and explain' all transactions and other acts you engage in that are relevant to your acquisitions, importations or entitlements. For tax periods prior to 1 July 2012, you are required to retain those documents for a period of five years after completion of the transactions or acts to which they relate. For tax periods from 1 July 2012, you are required to retain the records for the longest of:
+•
+five years after the completion of the transactions or acts to which they relate; and
+•
+the period of review for any assessment of a net amount to which those records, transactions or acts relate. In practical terms this means four years from the day after you lodge your GST return that takes into account the relevant acquisition, importation or entitlement unless the period of review is extended in the circumstances set out in subsections 155-35(3) and (4) of Schedule 1 to the TAA; and
+•
+where an assessment has been amended under Subdivision 155-B of Schedule 1 to the TAA, the refreshed period of review that applies to the latest amendment. That is, four years after the day on which the Commissioner gave notice of the last of the amendments.
+145A. If you make any election, choice, estimate, determination or calculation under the GST Act, you must keep records containing particulars of the election, choice, estimate, determination or calculation as well as the basis on which, and the method by which, the estimate, determination, or calculation was made. You are required to retain these records for at least five years after the election, choice, estimate, determination or calculation was made unless a provision specifies when it ceases to have effect. In these cases, you are required to retain the records for at least five years after it ceases to have effect.
+145B. As your allocation or apportionment method is used for the purposes of subsection 11-30(3) to calculate the 'extent of creditable purpose' of an acquisition, you must keep records containing particulars of the method for at least five years after the calculation was made.
+145C. The records need to be such as to enable your liability and entitlements under the GST Act to be readily ascertained.
+146. The method you adopt to determine the intended and actual creditable purpose of acquisitions must be fair and reasonable in the context of your enterprise. Records you normally keep as part of carrying on your enterprise may be sufficient to support the method adopted. If this is not the case, you should consider the need to keep additional records. In the event that the Commissioner questions the basis of your apportionment, you may find it easier to support your choice of method, and any changes to that method over time, if you have retained sufficient records.
+147. [Omitted.]
+148. References to documentation in this Ruling are not meant to be prescriptive or to indicate standardised or predetermined requirements that are to be applied in a rigid and mechanical manner. These references are meant only to be prompts, and your practical response to them needs to take into account the facts and circumstances of the case.
+149. Unusual or 'one-off' transactions may occur during a tax period. The extent of creditable purpose of acquisitions relating to these transactions may not be appropriately calculated using existing apportionment or allocation methods, which may otherwise be fair and reasonable in the context of the enterprise. In applying principles of prudent business management, the expectation that contemporaneous documentation would be created or obtained to explain the basis of an acquisition or supply increases according to the significance of the dealings to the entity's overall business (in terms of quantum and/or proportionality) and the complexity of the acquisition or supply. The legislation does not require you to go beyond what is reasonable in terms of documentation. What is reasonable is determined on the basis of what a reasonable business person in your circumstances would do, having regard to the complexity and importance of the GST issues that arise in your circumstances.
+150. You should consider documenting the steps taken to monitor the continuing relevance of any method for establishing the extent of creditable purpose. If this monitoring indicates that a change in the method may be required, it may be prudent to document the factors that lead to this conclusion, as well as the review of the process itself and any adjustments to the parameters of the process that arise as a result of the review. There can be no prescription for how often a review of this process should be undertaken, or what changes in circumstances would make a review of your process necessary. If there has been a significant impact on factors important to the conduct of an enterprise, or any shift in the critical assumptions which form the basis for the selection and application of a method, a detailed review of process may be required.
+Examples
+Example 9 - allocation of costs down to a business or activity
+151. ABC Bank has two internal information technology areas. These areas perform processing and support activities and do not make supplies to external third parties. One serves only the funds management part of ABC Bank while the other serves the rest of the Bank's business operations but not the funds management business.
+152. ABC Bank decides that it would not be fair and reasonable to spread the GST paid on acquisitions made by these IT functions evenly across the whole ABC Group. Instead ABC Bank wants to attribute the GST paid and the resulting input tax credits in a commercially realistic way to business areas of ABC Bank that make external supplies.
+153. ABC Bank decides to attribute the GST paid by these support or processing activities to the areas that make external sales as closely as ABC Bank's management accounting systems allow. It directly allocates costs incurred by the technology area dealing with funds management to the funds management business. It directly allocates costs incurred by the area dealing with ABC Bank's other activities to the rest of ABC Bank, excluding the funds management business. ABC Bank attributes the GST on the basis of its internal charging mechanisms, if the historical data is likely to reflect planned usage.
+154. A similar allocation method could be used in determining what adjustments may be necessary under Division 129.
+Example 10 - selection of basis for apportionment ratio
+155. Corporate Treasury acquires stationery items and a new photocopier and incurs GST on these items. Corporate Treasury produces 50% GST-free and 50% input taxed supplies (calculated on a dollar turnover basis).
+156. If historical data is likely to be reflective of planned usage, if a dollar turnover basis is used, the ratio for claiming the input tax credit would be 50%. If a number of transactions basis is used the ratio is likely to be different.
+157. Corporate Treasury's existing management accounting records are as follows:
+Measurement Method
+GST-Free Overseas Clients (%)
+Input Taxed Domestic Clients (%)
+Comment
+Dollar Turnover
+50
+50
+Based on dollar turnover (fees and margin)
+Number of Transactions
+65
+35
+Based on the number of transactions for domestic and offshore counter parties
+Headcount
+40
+60
+Based on the number of 'direct' staff plus proportion of 'indirect' staff (may be pure headcount or salary cost)
+158. It is clear that the highest ratio of input tax recovery will occur if the number of transactions basis is used for this business unit. Corporate Treasury's current internal charging mechanism uses the number of transactions methods. For Corporate Treasury this method more accurately reflects the use of acquisitions, as low value transactions may take more time in comparison to high value transactions. In the circumstances of Corporate Treasury, the Number of Transactions method would remain fair and reasonable, even if it resulted in a lower ratio of input tax recovery than other potential methods. The method chosen by Corporate Treasury conforms with Australian Accounting Standards and it keeps records of the apportionment decisions it makes.
+159. Provided Corporate Treasury does not manipulate transaction numbers, this is an acceptable method of calculating the apportionment ratio. If manipulation takes place (for example, if Corporate Treasury artificially multiplies export transactions to generate a higher ratio of GST-free gross revenue) the GST anti-avoidance rules may apply.
+Example 11 - a revenue-based method in practice
+160. Regional Bank makes certain acquisitions which cannot be allocated by available direct methods. It therefore requires an indirect method of estimating the extent of creditable purpose of these acquisitions. It satisfies itself that the use of a revenue-based formula, utilising revenues from across all its operations, results in a fair and reasonable calculation of the extent of creditable purpose of these acquisitions.
+161. Regional Bank includes the following components in the revenue-based method to be used:
+Percentage credit allowed:
+[Revenue* (other than revenue from input taxed supplies) ÷ Total Revenue* (including revenue relating to input taxed supplies)] × 100
+*'Revenue' may be either net revenue or gross revenue depending on which provides the more appropriate reflection of the use of acquisitions in your circumstances. In any case, a consistent approach (gross or net) should be used for the same transactions occurring in both the numerator or denominator.
+If net revenue is used, it should ignore income tax - that is, do not reduce your revenue in the formula by the amount of the income tax deductions to which you may be entitled. The value of non-monetary consideration should also be included in revenue.
+[42]
+Revenue other than revenue from input taxed supplies
+GST-free Financial Services Revenues
+Forex & Derivatives - Actual Margin × sample GST-free percentage
+A
+Interest from Non Residents
+B
+Fees & Commissions from Non Residents - Actual
+C
+Other Revenue from Non Residents
+D
+GST-free Life Insurance supplies
+E
+Other GST-free grandfathered financial supplies
+F
+Revenue from taxable supplies
+Fees & Commissions (eg, safe custody fees) from non-financial supplies
+G
+Other income
+H
+Revenue other than revenue from input taxed supplies =
+A+B+C+D+E+F+G+H
+Revenue in relation to total supplies
+Forex & Derivatives Margins - Actual margin
+I
+Interest
+J
+Fees & Commissions from financial services - Actual
+K
+Other Revenue from Financial Services
+L
+Life Insurance
+M
+Other income
+N
+Revenue in relation to total supplies =
+I+J+K+L+M+N
+Formula components that are GST-exclusive
+Components A to N are included on a GST-exclusive basis.
+Formula components that are net revenues
+Components A and I in the above table are net revenues. The treatment of other components will depend on the nature of the income.
+Exclusions
+162. A revenue-based formula aims to establish the extent of creditable purpose using trading income. Certain items are excluded from the numerator and denominator of the ratio of the general formula as they might otherwise distort the calculation of an accurate ratio. In particular the denominator and numerator should exclude extraordinary items (by their nature and/or timing, and/or extent) even if they would otherwise come within the component. Items to be excluded will depend on the nature of the enterprise, but the following would not normally be included in a revenue-based formula:
+•
+dividends received from wholly owned companies, (except where the company is part of a financing structure),
+[43]
+for example, a special purpose company acquired by a bank to facilitate a transaction for a customer of the bank; and
+•
+capital receipts from asset sales, for example the sale of a head office building, whether or not the sale is a taxable supply.
+Sample procedures
+163. Recognising the difficulty in working out an amount for component A of the numerator (and I of the denominator) of the example revenue-based formula, the Commissioner accepts that a sample may be used for this purpose. The sample should be representative of transactions likely to occur for the full period. The Commissioner will accept the sample procedures set out in paragraphs 163 to 171 of this Ruling.
+164. The sample should cover a continuous representative period of at least 3 months. To ensure the integrity of the sample, it should be recalculated periodically having regard to the frequency with which source data is refreshed or recalculated within the enterprise. Periodic recalculations will be necessary, the frequency of which will depend on the source data and systems involved. If the nature of the enterprise changes significantly (for example, ceasing or commencing to trade in certain contracts), any revenue-based formula utilising a sample based on data prior to the change must be immediately recalculated.
+165. For the purposes of taking the sample the following types of transactions should be covered:
+•
+foreign exchange transactions (whether spot or forward exchange transactions);
+•
+sales of money market securities;
+•
+interest rate swaps;
+•
+currency rate swaps; and
+•
+other financial derivative transactions (including futures, options and other hedges).
+166. To ensure that the sample is representative it should identify the following attributes of all the transactions:
+•
+residence of counterparty;
+•
+dollar amount of the foreign exchange transactions;
+•
+dollar amount of the initial exchange or the final exchange of currency rate swap transactions; and
+•
+notional principal amount of interest rate swap and other financial derivative transactions.
+167. A sample should not include transactions where you are acting (or have acted) as a financial supply facilitator.
+168. There are three options for applying the sample percentage:
+(i)
+product sample percentage times product gross margin;
+(ii)
+aggregate sample percentage times treasury gross margin; and
+(iii)
+weighted average sample percentage times treasury gross margin.
+169. The Commissioner expects that, if the financial supply provider's systems support the use of option (i), then the provider would use option (i). However, the Commissioner will accept the use of the most practicable of these options on the basis of the particular entity's accounting systems, provided that the option is also fair and reasonable in the circumstances. Once you have chosen which option to use, you should use it consistently from year to year. The modification of internal systems with the sole or dominant purpose of achieving a GST benefit might invite the application of Division 165.
+170. If you use option (i) and it results in a negative value, this strongly suggests it is not a representative sample. If this is the case, the use of an alternative option would be appropriate to avoid the distortion that would otherwise occur.
+171. All decisions made in relation to the calculation or use of samples must result in a fair and reasonable estimation of the amount in question. The principles outlined above in relation to estimating components A and I may be of use in estimating other components.
+Components explained
+Actual margin - Components A, I and L
+172. Revenues in these components are those from forex and derivative 'trading' activities. The method used for calculating margins should be the method used in your accounting records. Revenues from hedging derivatives, being typically accounted for against the underlying product being hedged on an accrual basis (by a business unit) will generally be included in the interest income/expense component of the formula.
+173. The use of an actual margin may contribute to volatility in the percentage calculated under the formula. For example, in some years, the actual margin from these activities may result in a negative value. This would suggest that it is not a representative figure. In these circumstances you should use an alternative option.
+Interest from non-residents - Component B
+174. This amount should consist of interest income from non-residents less interest expense related to off-shore lending. Most businesses should already be identifying interest paid to non-residents for withholding tax purposes.
+Fees and commissions from non-residents - Component C
+175. Fees and commissions charged to non-residents for consumption or use and enjoyment outside of Australia are GST-free. Amounts billed to the non-resident's bank overseas may be settled by netting amounts receivable against amounts payable. You should include the gross amounts, that is, before netting.
+Other revenue for non-residents - Component D
+176. Include revenue earned for supplies to non-residents that you have not included in Components B or C.
+Life insurance products - Components E, F and M
+177. Certain life insurance supplies are GST-free. This includes supplies made to non-residents that qualify as exports under section 38-190, and life insurance contracts that are GST-free under section 13 of the
+A New Tax System (Goods and Services Tax Transition) Act 1999
+. You should include revenue from these supplies at Component E and F respectively.
+178. Other supplies of life insurance, included at Component M, may be calculated as follows:
+Revenue
+=
+(Shareholder Operating profit after tax + Acquisition costs + Policy and maintenance costs + Investment management expenses) - Interest on retained earnings
+This calculation is based on Australian Accounting Standard AASB 1038.
+Supplies that are GST-free under Transition Act - Component F
+179. This component includes those other financial supplies that may be GST-free under section 13 of the
+A New Tax System (Goods and Services Tax Transition) Act 1999
+. For financial supply providers, this will generally be limited to those contracts entered into prior to 2 December 1998, and which have not been subject to a review opportunity.
+[44]
+Fees and commissions from non-financial supplies - Components G and N
+180. Commissions and fees from agency or other non-financial supplies should be included in this Component. Some examples are advisory trustee and custodian services, brokerage and merchant fees. The fees and commissions should be accounted for on a gross basis before deducting any related expenses.
+Other income - Component H
+181. At these components, include any other income you have not already included in another component (other than excluded items mentioned at paragraph 162 of this Ruling).
+Use of revenue-based method
+182. Regional Bank considers that the revenue-based method and components described above is fair and reasonable in the context of its enterprise. Provided that Regional Bank does not manipulate revenue figures, and takes care to identify and remove any distorting factors,
+[45]
+this is an acceptable method of calculating the apportionment ratio of the overheads.
+Frequently used terms
+Acquisitions
+183. An 'acquisition' is defined in section 11-10. Refer also to the discussion on classes of acquisitions in paragraph 38 of this Ruling.
+Actual application of the thing
+184. The 'actual application of the thing' is a component used in calculating increasing and decreasing adjustments under Division 129, and is defined in Step 1 of the Method Statement in section 129-40(1) as follows:
+Work out the extent (if any) to which you have applied the thing acquired or imported for a *creditable purpose during the period of time:
+(a)
+starting when you acquired or imported the thing; and
+(b)
+ending at the end of the *adjustment period.
+Adjustment period
+185. An adjustment period for an acquisition or importation is a tax period applying to you that:
+[46]
+(a)
+starts at least 12 months after the end of the tax period to which the acquisition or importation is attributable (or would be attributable if it were a creditable acquisition or creditable importation); and
+(b)
+ends:
+(i)
+on 30 June in any year; or
+(ii)
+if none of the tax periods applying to you in a particular year ends on 30 June, ends closer to 30 June than any of the other tax periods applying to you in that year.
+In addition, a tax period provided for under section 27-40 is an adjustment period for the acquisition or importation.
+[47]
+Cost allocation
+186. Cost allocation (cost accounting) describes an application of accounting principles used to allocate direct and overhead costs to a source of income or business activity.
+Creditable acquisition
+187. Creditable acquisition refers to an acquisition you acquire in carrying on your enterprise. You are entitled to an input tax credit for these acquisitions. Under section 11-5, you make a creditable acquisition if:
+•
+you acquire anything solely or partly for a creditable purpose;
+•
+the supply of the thing to you is a taxable supply;
+•
+you provide, or are liable to provide, consideration for the supply; and
+•
+you are registered or required to be registered.
+Creditable importation
+188. Creditable importation refers to goods you import for carrying on your enterprise. You are entitled to an input tax credit for these importations. Under section 15-5, you make a creditable importation to the extent that:
+•
+you import the goods solely or partly for a creditable purpose;
+•
+the importation is a
+taxable importation
+; and
+•
+you are registered or required to be registered.
+Creditable purpose
+189. Creditable purpose has the meaning given by sections 11-15 and 15-10. Creditable purpose refers to where a thing is acquired or imported by an entity in carrying on its enterprise. However, an acquisition or importation is not for a creditable purpose to the extent that it relates to making input taxed supplies or is for a private or domestic purpose. Creditable purpose is extended by section 70-10 which deals with reduced credit acquisitions.
+Direct method
+190. In the context of this Ruling, direct method refers to the identification, on a fair and reasonable basis, of a direct connection between acquisitions or importations and supplies or other activities of the enterprise.
+Entity-based general formula
+191. Refer to the discussion in paragraphs 105 to 113 of this Ruling. The entity-based general formula provides an estimate of the use (or intended use) of acquisitions or importations based on the assumption that their use will be reflected in the revenue flows (input taxed and non-input taxed) of the overall enterprise (or GST group). The formula to be used is that expressed in the revenue-based formulas section, using entity-wide revenue figures.
+Extent of creditable purpose
+192. For the purposes of Divisions 11 and 15, extent of creditable purpose is the extent to which the acquisition or importation is for a creditable purpose, stated as a percentage of the total purpose of the acquisition or importation.
+[48]
+Both these Divisions use extent of creditable purpose in the context of acquisitions or importations which are partly creditable. Section 70-20(2) calculates reduced credit acquisitions based on the extent of creditable purpose calculated via Division 11 and 15, plus the extent of Division 70 creditable purpose.
+[49]
+Financial supply
+193. Financial supplies are supplies of financial interests set out in subsection 40-5.09 of the GST Regulations, which meet the requirements set out in subsection 40-5.09(1). Examples include maintaining and operating cheque and savings accounts for account holders; lending, including maintaining and discharging loans and mortgages; the sale or acquisition of an interest in a debt, including an income stream; life insurance contracts; conversion of foreign currency; futures contracts; commodity derivatives; options; and trading shares or debentures. Under subsection 40-5.06(2), the acquirer of a financial supply is taken to make a financial supply.
+[50]
+Financial supply facilitator
+194. Under section 40-5.07 of the GST Regulations a financial supply facilitator, in relation to supply of an interest, is an entity facilitating the supply of the interest for a financial supply provider. A supply of an interest under section 40-5.09 facilitated by a financial supply facilitator is a financial supply by the financial supply provider.
+Financial supply provider
+195. Under section 40-5.06 of the GST Regulations an entity who in relation to the supply of an interest that was:
+(a)
+immediately before the supply, the property of the entity; or
+(b)
+created by the entity in making the supply,
+is the
+financial supply provider
+of the interest. Examples of these interests under paragraph (a) include sale of a share or bond, and assignment of rights under a derivative. Examples of interests under paragraph (b) include issue of a share or bond or entry into a derivative.
+Financial acquisitions threshold
+196. Under sections 189-5 and 189-10, an entity exceeds the financial acquisitions threshold at a time in a particular month if, assuming that all the financial acquisitions
+[51]
+it has made, or is likely to make, during the 12 months ending at the end of that month, or during that month and the next 11 months, were made solely for a creditable purpose, either or both of the following would apply:
+•
+the amount of all the input tax credits to which the entity would be entitled for its financial acquisitions would exceed $150,000
+[51A]
+or such other amount specified in the GST Regulations; and
+•
+the amount of the input tax credits to which the entity would be entitled for its financial acquisitions would be more than 10% of the total amount of the input tax credits to which the entity would be entitled for all its acquisitions and importations (including the financial acquisitions) during either of the periods referred to in this paragraph.
+[52]
+197. [Omitted.]
+Gross revenue
+198. For the purposes of the revenue-based formulas, defined in paragraph 109 of this Ruling.
+Input tax credits
+199. The term 'input tax credit' relates to the GST included in the price you pay for an acquisition or the GST paid on an importation. An entitlement arises under section 11-20 (about creditable acquisitions) or section 15-15 (about creditable importations). However, you are not entitled to input tax credits to the extent the acquisition or importation relates to making input taxed supplies or is for a private or domestic purpose.
+Input taxed supply
+200. Input taxed supply means a supply that is input taxed under Division 40, such as a financial supply. If a supply is input taxed you do not pay GST on the supply but you are not entitled to an input tax credit (assuming that you exceed the financial acquisitions threshold) for anything acquired or imported that relates to making the supply. You may still be entitled to reduced credit acquisitions.
+Interest
+201. Interest is the cost incurred (or return earned) on funds out on loan or invested, expressed as a rate per period of time.
+Net amount
+202. Net amount is defined in section 17-5 as:
+GST - Input tax credits
+Where:
+GST
+is the sum of all of the GST for which you are liable on the *taxable supplies that are attributable to the tax period.
+Input tax credits
+is the sum of all the input tax credits to which you are entitled for the *creditable acquisitions and *creditable importations that are attributable to the tax period.
+Net revenue
+203. Net revenue is used in the revenue-based formula to mean an amount of income after deducting corresponding outgoings.
+Reduced credit acquisitions
+204. Reduced credit acquisitions are acquisitions listed in the GST Regulations that, when acquired by a financial supply provider, creates an entitlement to a reduced input tax credit. Subsection 70-5.02(1) contains an exhaustive list of the acquisitions that are reduced credit acquisitions.
+Reduced input tax credits
+205. Reduced input tax credits are input tax credits that can be claimed (subject to the normal qualifications under section 11-5) for certain acquisitions listed in the GST Regulations as reduced credit acquisitions. The entitlement to the credit arises under section 70-5. The amount of the reduced input tax credit is based on the percentage set out in section 70-5.03, which is currently 75% other than to the extent the reduced credit acquisition is covered by item 32. To the extent the reduced credit acquisition is covered by item 32, the percentage is 55%.
+Relates to business finance
+206. An acquisition or importation relates to business finance if at the time of acquisition or importation it:
+•
+related solely or partly to making financial supplies; and
+•
+was not solely or partly of a private or domestic nature.
+Revenue-based formulas
+207. Revenue-based formulas attribute input tax credits and calculate the ratio of taxable and GST-free supplies as a proportion of total supplies. Refer to paragraphs 109 to 113 of this Ruling.
+Taxable importation
+208. Taxable importation under section 13-5 refers to an importation of goods into Australia but only to the extent it is not a non-taxable importation. Supplies that are non-taxable importations are set out in Part 3-2 of the Act and also include a supply that would have been GST-free or input taxed if supplied in Australia.
+Taxable supply
+209. Taxable supply has the meaning given by sections 9-5 (the basic definition), 78-50 (about taxable supplies relating to insurance claims), 84-5 (about intangible supplies from offshore) and 105-5 (about supplies by creditors in satisfaction of debts).
+210. Section 9-5 provides that (except to the extent it is GST-free or input taxed) a supply you make is a taxable supply if:
+•
+the supply is for consideration;
+•
+the supply is made in the course or furtherance of an enterprise that you carry on;
+•
+the supply is connected with Australia; and
+•
+you are registered, or required to be registered.
+Total revenue
+211. Total revenue is used in the denominator of the revenue-based formula to mean the addition of all relevant revenues generated by the enterprise, including input taxed supplies. The relevant revenues will be identified by reference to the use to which the revenue-based formula is to be put. A consistent approach (gross or net) should be used for the same revenues occurring in both the numerator and denominator.
+Detailed contents list
+212. Below is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Application of the Ruling
+9
+Date of effect
+10
+Related Ruling
+12
+Background
+13
+Previous Ruling
+22
+Ruling
+23
+Explanation (this forms part of the Ruling)
+42
+Input tax credits for acquisitions and importations - Divisions 11 and 15
+42
+Calculating input tax credits
+42
+Meaning of extent of creditable purpose
+46
+Apportionment under GST
+48
+When will an acquisition or importation be partly creditable?
+50
+When is an acquisition or importation made in 'carrying on your enterprise'?
+51
+Acquisitions made in carrying on an enterprise, but not directly linked to making particular supplies
+53
+Adjustments when your actual application of an acquisition differs from planned use for a creditable purpose - Division 129
+57
+Example 1 - adjustment to reflect actual use of acquisition for a creditable purpose
+64
+Adjustments when you sell something acquired, imported or applied to make financial supplies - Division 132
+68
+Choosing your apportionment method
+70
+General principles of apportionment
+70
+Fair and reasonable method
+75
+Adjustments
+78
+Methods of calculating the extent of creditable purpose
+80
+Example 2 - establishing the extent of creditable purpose - combined use of direct and indirect methods
+82
+Example 3 - use of an overall indirect estimation method
+86
+Direct methods
+90
+Direct estimation
+92
+Indirect estimation methods
+102
+Entity-based general formula
+105
+Revenue-based formulas
+109
+Combination of revenue-based formulas with direct methods
+114
+Non-revenue-based indirect estimation methods
+117
+Non-revenue formula methods
+117
+Example 4 - use of a non-revenue formula
+120
+'Special allocation approach'
+122
+Example 5 - life insurance
+123
+Input based indirect method
+125
+Example 6 - an input based method
+128
+Distorting factors
+131
+Reduced input tax credits and apportionment methods
+133
+Inter-relationship of apportionment method and Division 70
+135
+Example 7 - reduced input tax credits
+141
+Example 8 - reduced input tax credit for partly creditable acquisition
+142
+Record keeping relating to apportionment methods
+145
+Examples
+151
+Example 9 - allocation of costs down to a business or activity
+151
+Example 10 - selection of basis for apportionment ratio
+155
+Example 11 - a revenue-based method in practice
+160
+Exclusions
+162
+Sample procedures
+163
+Components explained
+172
+Actual margin - Components A, I and L
+172
+Interest from non-residents - Component B
+174
+Fees and commissions from non-residents - Component C
+175
+Other revenue for non-residents - Component D
+176
+Life insurance products - Components E, F and M
+177
+Supplies that are GST-free under Transition Act - Component F
+179
+Fees and commissions from non-financial supplies - Components G and N
+180
+Other income - Component H
+181
+Use of revenue-based method
+182
+Frequently used terms
+183
+Acquisitions
+183
+Actual application of the thing
+184
+Adjustment period
+185
+Cost allocation
+186
+Creditable acquisition
+187
+Creditable importation
+188
+Creditable purpose
+189
+Direct method
+190
+Entity-based general formula
+191
+Extent of creditable purpose
+192
+Financial supply
+193
+Financial supply facilitator
+194
+Financial supply provider
+195
+Financial acquisitions threshold
+196
+Gross revenue
+198
+Input tax credits
+199
+Input taxed supply
+200
+Interest
+201
+Net amount
+202
+Net revenue
+203
+Reduced credit acquisitions
+204
+Reduced input tax credits
+205
+Relates to business finance
+206
+Revenue-based formulas
+207
+Taxable importation
+208
+Taxable supply
+209
+Total revenue
+211
+Detailed contents list
+212
+Commissioner of Taxation
+12 April 2006
+Footnotes
+[1]
+Divisions 131 and 151 were inserted by the
+Tax Laws Amendment (Small Business Measures) Act 2004
+.
+[2]
+GSTR 2006/4
+Goods and services tax: determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose
+.
+[3]
+See former section 37 of the
+Taxation Administration Act 1953
+.
+[4]
+(1949) 78 CLR 47; 4 AITR 236. The case is further discussed at paragraphs 68 to 72 of this Ruling.
+[5]
+Refer to paragraph 37 of Hill J's judgment in
+HP Mercantile Pty Limited v. Commissioner of Taxation
+[2005] FCAFC 126:
+It follows, perhaps more clearly, as well from the requirement of apportionment to be found in the words 'to the extent that' which indicate that an acquisition may relate to the making of supplies that are input taxed as well as supplies that are taxable, as would be the case with undifferentiated general overhead outgoings of an entity making both input taxed and taxable supplies: cf
+Ronpibon Tin NL v. FCT
+(1949) 78 CLR 47 at 55-56; 23 ALJ 139 at 141-142; 8 ATD 431 at 435; [1949] ALR 785 at 788-789.
+[6]
+Definition of '
+carrying on'
+in section 195-1.
+[7]
+Ronpibon Tin NL v. FCT
+(1949) 78 CLR 47 at 58.
+[8]
+Refer to paragraphs 48 to 49 of this Ruling for further discussion of different situations where apportionment is required.
+[8A]
+Confirmed in the GST context in
+Commissioner of Taxation v American Express Wholesale Currency Services Pty Limited
+[2010] FCAFC 122 at [197] and
+Rio Tinto Services Limited v Commissioner of Taxation
+[2015] FCAFC 117 at [7].
+[9]
+Subsection 11-30(3). Subsections 70-20(2), 72-45(1), section 84-13 and subsection 131-40(2) contain similar methods.
+[10]
+Expressed as a percentage of the total consideration for the acquisition.
+[11]
+Subsection 15-25(3) and 131-40(2).
+[12]
+Subsections 11-30(3), 15-25(3) and 131-40(2). References to subsection 11-30(3) 'extent of creditable purpose' can be taken to refer to extent of creditable purpose in subsections 70-20(2), 72-45(1) and section 84-13.
+[13]
+In
+BHP Billiton Petroleum Pty Ltd v. Chief Executive Officer of Customs
+[2003] FCAFC 61, at paragraph 34, in relation to the phrase 'to the extent that', the Full Federal Court confirmed that: 'The phrase 'to the extent that', ... it seems to us, calls for an apportionment ...'.
+[14]
+You also need to make an apportionment where the extent of consideration you provide or are liable to provide for an acquisition is less than 100%.
+[15]
+Refer also to Division 60, which deals with certain pre-establishment costs, incurred before a company comes into existence.
+[16]
+An 'enterprise' is defined expansively in section 9-20 as encompassing an 'activity, or series of activities' of the enterprise. In the predominant number of cases involving enterprises making financial supplies, the activities making up their enterprise will encompass supplies. However, there may be cases where such an enterprise encompasses an independent activity which is not a 'supply' for the purposes of the GST legislation, such as some activities undertaken in the course of termination of an enterprise.
+[17]
+Paragraph 3.26 of the Explanatory Memorandum which accompanied the GST legislation makes clear that the connection between an acquisition and input taxed supplies for section 11-15(2)(a) purposes can be either direct or indirect.
+[18]
+The above analysis would apply equally to importations under section 15-10.
+[19]
+Tooheys Ltd v. Commissioner of Stamp Duties (NSW)
+(1961) 105 CLR 602 per Taylor J at 620. See also Kitto J at 618.
+[20]
+(1949) 78 CLR 47 at 59.
+[21]
+Section 129-90.
+[22]
+Subsection 129-10(3).
+[23]
+Subsection 129-10(1).
+[24]
+Subsection 129-20(2). The adjustment periods in the table above are for acquisitions and importations that relate to business finance.
+[25]
+Subsection 129-10(2).
+[26]
+Subsection 129-40(1).
+[27]
+Section 129-75.
+[28]
+Section 129-70.
+[29]
+Section 129-15.
+[30]
+This also applies, under subsection 132-5(1), where the acquisition, importation or application was solely or partly of a private or domestic nature.
+[31]
+Subsection 132-5(2).
+[32]
+Adjusted input tax credit means the amount of any input tax credit that was attributable to a tax period in respect of the acquisition or importation
+minus
+the sum of any increasing adjustments previously made in respect of that acquisition or importation,
+plus
+any decreasing adjustments previously made in respect of that acquisition or importation.
+[33]
+Full input tax credit is the amount of input tax credit to which you would have been entitled for the acquisition or importation if the acquisition or importation had been solely for a creditable purpose and the supply to you had been a taxable supply under section 9-5.
+[34]
+(1949) 78 CLR 47 pages 58-59.
+[35]
+[Omitted.]
+[36]
+GST groups are covered by Divisions 48 and 149.
+[37]
+For example, subsection 9-75(1) in the case of taxable supplies, and section 72-10 and 72-70 in the case of certain supplies between associates.
+[37A]
+Subsection 70-15(1) of the GST Act and section 70-5.03 of the GST Regulations.
+[37AA]
+Refer to paragraphs 92 to 101A of this Ruling for further guidance.
+[38]
+Step 2 in paragraph 138 of this Ruling.
+[39]
+Step 4 in paragraph 138 of this Ruling.
+[40]
+Division 70 will not apply where subsection 11-15(4) treats an acquisition as not being related to making supplies that would be input taxed.
+[41]
+Subdivision 382-A of Schedule 1 to the TAA.
+[42]
+For example, subsection 9-75(1) in the case of taxable supplies, and section 72-10 and 72-70 in the case of certain supplies between associates.
+[43]
+Dividends received from investment and financing structures may be appropriately included where there is considered to be a relevant nexus between these and the acquisitions of a bank. The decision on whether to include dividends received from third parties in a revenue-based formula will depend upon an assessment of whether the application of the resulting revenue formula to acquisitions will result in a fair estimation of the use of those acquisitions.
+[44]
+As defined in subsection 13(5) of the
+A New Tax System (Goods and Services Tax Transition) Act 1999
+.
+[45]
+Refer to paragraphs 131 to 132 of this Ruling.
+[46]
+Section 129-20.
+[47]
+Section 27-40 deals with concluding tax periods.
+[48]
+Subsections 11-30(3) and 15-25(3) and 131-40(2).
+[49]
+Subsection 70-20(2).
+[50]
+See paragraphs 22 to 27 of Goods and Services Tax Ruling GSTR 2002/2
+Goods and services tax: GST treatment of financial supplies and related supplies and acquisitions
+.
+[51]
+Section 189-15 defines 'financial acquisition' as 'an acquisition that relates to the making of a financial supply (other than a financial supply consisting of a borrowing)'.
+[51A]
+Division 189 was amended to increase the first limb of the financial acquisitions threshold from $50,000 to $150,000. The amendment, effected by the
+Tax Laws Amendment (2011 Measures No. 9) Act 2012
+, applies for working out whether you exceed the financial acquisitions threshold at a time during July 2012 or a later month. The first limb of the financial acquisitions threshold remains at $50,000 when working out whether you exceed the financial acquisitions threshold at a time during a month before July 2012.
+[52]
+See Goods and Services Tax Ruling GSTR 2003/9
+Goods and Services Tax: financial acquisitions threshold
+. For members of a GST group, the financial acquisitions threshold is calculated in accordance with subsections 189-5(2) and 189-10(2).
+Previously issued in draft form as GSTR 2005/D6
+References
+ATO references:
+NO  2004/9406
+ISSN: 2205-6157
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2000/22
+GSTR 2002/2
+GSTR 2003/9
+GSTR 2006/4
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A 1999  9-5
+ANTS(GST)A 1999  9-75(1)
+ANTS(GST)A 1999  9-20
+ANTS(GST)A 1999  Div 11
+ANTS(GST)A 1999  11-5
+ANTS(GST)A 1999  11-5(a)
+ANTS(GST)A 1999  11-10
+ANTS(GST)A 1999  11-15
+ANTS(GST)A 1999  11-15(2)
+ANTS(GST)A 1999  11-15(2)(a)
+ANTS(GST)A 1999  11-15(4)
+ANTS(GST)A 1999  11-20
+ANTS(GST)A 1999  11-30
+ANTS(GST)A 1999  11-30(1)
+ANTS(GST)A 1999  11-30(3)
+ANTS(GST)A 1999  13-5
+ANTS(GST)A 1999  Div 15
+ANTS(GST)A 1999  15-5
+ANTS(GST)A 1999  15-5(a)
+ANTS(GST)A 1999  15-10
+ANTS(GST)A 1999  15-10(4)
+ANTS(GST)A 1999  15-15
+ANTS(GST)A 1999  15-25(1)
+ANTS(GST)A 1999  15-25(3)
+ANTS(GST)A 1999  17-5
+ANTS(GST)A 1999  Div 19
+ANTS(GST)A 1999  27-40
+ANTS(GST)A 1999  38-190
+ANTS(GST)A 1999  Div 40
+ANTS(GST)A 1999  Pt 3-2
+ANTS(GST)A 1999  Div 48
+ANTS(GST)A 1999  Div 60
+ANTS(GST)A 1999  Div 70
+ANTS(GST)A 1999  70-5
+ANTS(GST)A 1999  70-5(1A)
+ANTS(GST)A 1999  70-10
+ANTS(GST)A 1999  70-15(1)
+ANTS(GST)A 1999  70-20
+ANTS(GST)A 1999  70-20(2)
+ANTS(GST)A 1999  72-10
+ANTS(GST)A 1999  72-70
+ANTS(GST)A 1999  78-50
+ANTS(GST)A 1999  84-5
+ANTS(GST)A 1999  105-5
+ANTS(GST)A 1999  Div 129
+ANTS(GST)A 1999  129-10(1)
+ANTS(GST)A 1999  129-10(2)
+ANTS(GST)A 1999  129-10(3)
+ANTS(GST)A 1999  129-20
+ANTS(GST)A 1999  129-20(2)
+ANTS(GST)A 1999  129-20(3)
+ANTS(GST)A 1999  129-40(1)
+ANTS(GST)A 1999  Subdiv 129-D
+ANTS(GST)A 1999  129-15
+ANTS(GST)A 1999  129-70
+ANTS(GST)A 1999  129-75
+ANTS(GST)A 1999  129-90
+ANTS(GST)A 1999  Div 130
+ANTS(GST)A 1999  Div 131
+ANTS(GST)A 1999  131-40(2)
+ANTS(GST)A 1999  Div 132
+ANTS(GST)A 1999  132-5(1)
+ANTS(GST)A 1999  132-5(2)
+ANTS(GST)A 1999  Div 138
+ANTS(GST)A 1999  Div 149
+ANTS(GST)A 1999  Div 151
+ANTS(GST)A 1999  Div 165
+ANTS(GST)A 1999  Div 189
+ANTS(GST)A 1999  189-5
+ANTS(GST)A 1999  189-5(2)
+ANTS(GST)A 1999  189-10
+ANTS(GST)A 1999  189-10(2)
+ANTS(GST)A 1999  189-15
+ANTS(GST)A 1999  195-1
+ANTS(GSTT)A 1999  13
+ANTS(GSTT)A 1999  13(5)
+ANTS(GST)R 2019  40-5.06
+ANTS(GST)R 2019  40-5.06(2)
+ANTS(GST)R 2019  40-5.07
+ANTS(GST)R 2019  40-5.09
+ANTS(GST)R 2019  40-5.09(1)
+ANTS(GST)R 2019  40-5.09(3)
+ANTS(GST)R 2019  70-5.02
+ANTS(GST)R 2019  70-5.02(1)
+ANTS(GST)R 2019  70-5.03
+ITAA 1997  8-1
+ITAA 1936  51(1)
+Life Insurance Act 1995  80
+TAA 1953
+TAA 1953  Sch 1 155-35(3)
+TAA 1953  Sch 1 155-35(4)
+TAA 1953  Sch 1 Div 358
+TAA 1953  Sch 1 Subdiv 382-A
+Tax Laws Amendment (Small Business Measures) Act 2004
+Tax Laws Amendment (2011 Measures No.9) Act 2012
+Case References:
+BHP Billiton Petroleum Pty Ltd v. Chief Executive Officer of Customs
+[2003] FCAFC 61
+(2003) 37 AAR 81
+(2003) 52 ATR 491
+(2003) 129 FCR 31
+[2003] ALMD 6149
+HP Mercantile Pty Limited v. Commissioner of Taxation
+[2005] FCAFC 126
+2005 ATC 4571
+60 ATR 106
+Ronpibon Tin NL v. FC of T
+(1949) 78 CLR 47
+4 AITR 236
+23 ALJ 139
+8 ATD 431
+[1949] ALR 785
+Tooheys Ltd v. Commissioner of Stamp Duties (NSW)
+(1961) 105 CLR 602
+Other References:
+Explanatory Memorandum
+to the A New Tax System (Goods and Services Tax) Bill 1999
+GSTR 2006/3 history
+Date:
+Version:
+Change:
+12 April 2006
+Original ruling
+31 October 2012
+Consolidated ruling
+Addendum
+11 December 2013
+Consolidated ruling
+Addendum
+You are here
+18 December 2019
+Consolidated ruling
+Addendum
+Back to top

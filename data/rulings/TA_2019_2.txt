@@ -1,0 +1,186 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Division 290
+  • Subdivision 126-G
+  • div 126
+  • division 126
+
+Topics: CGT, Trusts, Companies, Superannuation
+
+
+
+================================================================================
+
+TA 2019/2 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+11 related documents
+Taxpayer Alert
+TA 2019/2
+Trusts avoiding CGT by exploiting restructure rollover
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Alerts provide a summary of our concerns about new or emerging higher risk tax or superannuation arrangements or issues that we have under risk assessment.
+While an Alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an Alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more about alerts. See
+Alerts
+issued to date.
+Overview
+We are currently reviewing certain arrangements that purportedly allow a unit trust to effectively dispose of a CGT asset to an arm's length purchaser with no CGT consequences. The arrangements seek to exploit the CGT rollover for trust restructures.
+Under these arrangements, a trustee of a unit trust (
+Transferring Trust
+) sells a CGT asset (
+Relevant Asset
+) with a large unrealised capital gain to an arm's length purchaser
+[1]
+(
+Purchaser
+) for an agreed purchase price (
+Purchase Price
+) by way of:
+•
+transferring the Relevant Asset to a trustee of a new unit trust (
+Receiving Trust
+) for the Purchase Price which gives rise to a debt owing to the Transferring Trust
+•
+choosing rollover under Subdivision 126-G
+[2]
+of the
+Income Tax Assessment Act 1997
+[3]
+for the transfer
+•
+the Purchaser subscribing for new units in the Receiving Trust equal in value to the Purchase Price, and
+•
+the Receiving Trust repaying the debt to the Transferring Trust with the funds received from the issue of the new units.
+By entering into these arrangements rather than selling the Relevant Asset directly to the Purchaser, the Transferring Trust is able to transfer the underlying ownership of the Relevant Asset to the Purchaser but purportedly avoids tax on the large capital gain that would otherwise have been made with an asset sale.
+Description
+The arrangements typically involve the Transferring Trust agreeing to dispose of the Relevant Asset to the Purchaser for the Purchase Price by way of the following steps:
+1.
+The Receiving Trust is settled with nominal funds and issued units. The Transferring Trust and Receiving Trust have the same beneficiaries with the same entitlements and no material discretionary elements.
+2.
+The Transferring Trust transfers the Relevant Asset to the Receiving Trust for the Purchase Price and makes a capital gain.
+3.
+The trustees of the Transferring and Receiving Trusts both choose to obtain Subdivision 126-G rollover. The asserted result is that the Transferring Trust disregards the capital gain it makes from transferring the Relevant Asset to the Receiving Trust.
+4.
+The Receiving Trust's acquisition of the Relevant Asset results in it owing an amount to the Transferring Trust equal to the Purchase Price. This may be in the form of a promissory note.
+5.
+The Purchaser subscribes for a large number of new units in the Receiving Trust equal in value to the Purchase Price and the Receiving Trust uses those subscription funds to repay the amount owing to the Transferring Trust.
+6.
+The Purchaser acquires the original units in the Receiving Trust for typically nominal consideration and replaces the existing trustee with an entity it controls.
+These steps may be implemented in close succession or structured in stages as part of a broad scheme.
+What are our concerns?
+We are concerned that taxpayers may be entering into these arrangements to avoid tax on large capital gains that would otherwise be made from the disposal of CGT assets.
+More specifically, aspects of the arrangements that concern us include:
+•
+whether the conditions for Subdivision 126-G rollover relief are met in respect of the arrangement, in particular
+-
+whether the Receiving Trust's rights under the arrangement (collectively) 'only facilitate the transfer of assets to it from the Transferring Trust' for the purposes of subparagraph 126 225(1)(b)(ii), and
+-
+whether the Purchaser's right under the arrangement to subscribe for units in the Receiving Trust creates an interest in the Receiving Trust such that that trust does not have the same beneficiaries as the Transferring Trust for the purposes of subparagraph 126-225(1)(c)(i)
+•
+the arrangement appears to be designed primarily to allow the Transferring Trust to exploit the Subdivision 126-G rollover to disregard a capital gain that would otherwise be assessable to the trustee or beneficiaries of that trust
+•
+the arrangement results in a change in the underlying ownership of the Relevant Asset without triggering a CGT taxing point, which is contrary to the intent of the Subdivision 126-G rollover
+[4]
+•
+the parties have entered into this arrangement in circumstances where a direct sale of the Relevant Asset by the Transferring Trust to the Purchaser would have been simple, viable and commercially expected
+•
+the commercial substance of the arrangement is a sale of the Relevant Asset by the Transferring Trust to the Purchaser, but the divergent form of the arrangement is explicable only by the tax advantage purportedly obtained by the Transferring Trust, and
+•
+the Transferring Trust receives (and the Purchaser pays) the same total sum under the arrangement as would have been the case if the asset were sold directly to the Purchaser.
+We consider that Part IVA of the
+Income Tax Assessment Act 1936
+may apply to these arrangements where they would otherwise qualify for rollover relief under Subdivision 126-G.
+What are we doing?
+We are actively reviewing these arrangements. Taxpayers and advisors who enter into these types of arrangements will be subject to increased scrutiny.
+What should you do?
+If you have entered, or are contemplating entering, into an arrangement of this type we encourage you to:
+•
+phone or email us at the contact details provided below
+•
+ask us for our view through a private ruling
+•
+seek independent professional advice, and/or
+•
+make a voluntary disclosure to reduce penalties that may apply.
+Penalties may apply to participants in, and promoters of, this type of arrangement. This includes serious penalties under Division 290 of Schedule 1 to the
+Taxation Administration Act 1953
+for promoters. Registered tax agents involved in the promotion of this type of arrangement may be referred to the Tax Practitioners Board to consider whether there has been a breach of the
+Tax Agent Services Act 2009
+.
+Do you have information?
+To provide information about this or another arrangement or a promoter of this or another arrangement:
+•
+phone us on
+1800 060 062
+, or
+•
+complete the
+ATO Tip-Off Form
+Commissioner of Taxation
+31 October 2019
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Amendment history
+Date of amendment
+Comment
+19 January 2024
+Updated ATO tip-off hotline number
+Date of Issue:
+31 October 2019
+Date of Effect:
+N/A
+[1]
+While the purchaser in the arrangement described in this Alert is an arm's length party, our concerns would apply equally if the purchaser was a non-arm's length related party.
+[2]
+Subdivision 126-G provides a CGT rollover when an asset is transferred between certain trusts with the same beneficiaries and certain requirements are met.
+[3]
+All legislative references in this Alert are to the
+Income Tax Assessment Act 1997
+unless otherwise indicated.
+[4]
+That is, to provide rollover relief only where there is no change to the underlying ownership of an asset: see paragraphs 1.7-1.8 of the Explanatory Memorandum to the Tax Laws Amendment (2009 Measures No. 6) Bill 2009.
+Related Practice Statements:
+PS LA 2008/15
+Other References:
+Explanatory Memorandum
+to the Tax Laws Amendment (2009 Measures No. 6) Bill 2009
+Legislative References:
+ITAA 1936 Pt IVA
+ITAA 1997 Subdiv 126-G
+ITAA 1997  126-225(1)(b)(ii)
+ITAA 1997  126-225(1)(c)(i)
+Authorised by:
+Tim Dyce
+Deputy Commissioner
+Business Line:
+Private Wealth
+Contact officer:
+David Mennie
+Email address:
+David.Mennie@ato.gov.au
+Phone:
+(07) 3213 5197
+TA 2019/2 history
+Date:
+Version:
+31 October 2019
+Original alert
+You are here
+19 January 2024
+Updated alert
+Back to top

@@ -1,0 +1,164 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Div 290
+  • Division 104
+  • Division 13
+  • Division 16E
+  • Division 290
+
+Topics: CGT, Companies, International
+
+
+
+================================================================================
+
+TA 2009/2 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+6 related documents
+Taxpayer Alert
+TA 2009/2
+Certain cross-border Prepaid Forward Purchase Agreements
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+FOI status: may be released
+Taxpayer Alerts are intended to be an 'early warning' of significant new and emerging higher risk tax planning issues or arrangements that the Australian Taxation Office has under risk assessment, or where there are recurrences of arrangements that have been previously risk assessed.
+Taxpayer Alerts will provide information that is in the interests of an open tax administration to taxpayers. Taxpayer Alerts are written principally for taxpayers and their advisers and they also serve to inform tax officers of new and emerging higher risk tax planning issues. Not all potential tax planning issues that the Tax Office has under risk assessment will be the subject of a Taxpayer Alert, and some arrangements that are the subject of a Taxpayer Alert may on further examination be found not to be of concern to the Tax Office. In these latter cases the Taxpayer Alert will be withdrawn and a notification published which will be referenced to that Taxpayer Alert.
+Taxpayer Alerts will give the title of the issue (which may be a scheme, arrangement or particular transaction), briefly describe the issue and will highlight the features which are of concern to the Tax Office. These issues will generally require more detailed analysis to provide the Tax Office view to taxpayers.
+Taxpayers who have entered into or are contemplating entering into an arrangement similar to that described in this Taxpayer Alert can seek a formal determination of the Tax Office's position through a private ruling (noting that the Taxation Administration Act 1953 sets out circumstances where the Commissioner may decline to issue such a ruling). Such taxpayers might also contact the tax officer named in the Taxpayer Alert and/or obtain their own advice.
+This Taxpayer Alert is issued under the authority of the Commissioner.
+This Taxpayer Alert describes an arrangement using a Prepaid Forward Purchase Agreement which attempts to reduce the assessable income of an Australian resident taxpayer.
+Description
+This Taxpayer Alert is intended to apply to arrangements with some or all of the following features:
+1.
+A foreign resident (Foreign Sub) is a subsidiary of an Australian resident company (Aus Co).
+2.
+Foreign Sub has a pre-existing interest bearing inter-company loan ("the loan", e.g. for $100) with Aus Co that currently generates an interest income stream to Aus Co (or a related party) in Australia.
+3.
+As part of a refinancing arrangement, Foreign Sub issues an interest bearing instrument (e.g. a Mandatory Convertible Note - "the Note") to a foreign resident counterparty ("the Counterparty") in consideration for a payment equivalent to the loan (i.e. $100).
+4.
+The Note will convert into ordinary shares in Foreign Sub at a future date (e.g. 5 years + 1 day).
+5.
+Concurrently, the Counterparty enters into a Prepaid Forward Purchase Agreement ("the Agreement") with Aus Co, entitling Aus Co to the transfer of the Note at a future date (e.g. 5 years).
+6.
+The consideration payable by Aus Co under the Agreement equals the value of the Note, discounted by the net present value of the interest income stream from the loan (e.g. $100 - $40).
+7.
+Foreign Sub repays the loan to Aus Co ($100).
+8.
+Periodic interest coupons on the value of the Note (i.e. $100) are payable to the Counterparty by Foreign Sub, equalling $40 in net present value terms. These payments are not taxable in Australia.
+9.
+In 5 years, the Note will be transferred to Aus Co, at which time it will automatically convert into a fixed number of ordinary shares in Foreign Sub.
+10.
+Having acquired ordinary shares in Foreign Sub, Aus Co can subsequently dispose of these ordinary shares.
+11.
+From an economic perspective, the arrangement allows Aus Co to:
+(a)
+receive a repayment of the loan from Foreign Sub
+(b)
+pay the purchase price for the Note, and
+(c)
+retain the difference of $40, being the net present value of the income stream from the loan.
+Diagram of the arrangement
+Features which concern us
+The Tax Office considers that arrangements of this type give rise to the following taxation issues, including whether:
+1.
+any amount may be assessable income of Aus Co under section 6-5 of the Income Tax Assessment Act 1997 (ITAA 1997), such as the difference between the value of the Note transferred to Aus Co and the purchase price paid for the Note under the Agreement
+2.
+Division 16E of the Income Tax Assessment Act 1936 (ITAA 1936) may apply to include an amount in the assessable income of Aus Co in relation to the Agreement over the term of the agreement
+3.
+section 26BB of the ITAA 1936 may apply to include a gain in respect of the Agreement in Aus Co's assessable income on the delivery of the Note (as an alternative to point 2 above)
+4.
+a CGT event under Division 104 of the ITAA 1997 may occur in relation to Aus Co, either during the term of or upon completion of the Agreement
+5.
+the transfer pricing provisions in Division 13 of the ITAA 1936 may apply to all or some part of the arrangement, including Aus Co being assessed on deemed interest income over the period to conversion
+6.
+any articles in a relevant tax treaty between Australia and another relevant country may apply, including:
+a.
+the business profits article, or
+b.
+the associated enterprises article
+7.
+the general anti-avoidance rule contained in Part IVA of the ITAA 1936 may allow the cancellation of a tax benefit under all, or some part, of the arrangement, and
+8.
+any entity involved in the arrangement may be a promoter of a tax exploitation scheme for the purposes of Division 290 of Schedule 1 to the Taxation Administration Act 1953 (TAA 1953).
+The Tax Office is currently reviewing these arrangements.
+Note 1:
+If you have received a private ruling in respect of your arrangement, please check that the application of Part IVA of the ITAA 1936 is considered in that ruling. The applicant may not have sought for us to rule on the application of Part IVA to the arrangement ruled upon, or to an associated or wider arrangement of which that arrangement is part. If you want us to rule on whether Part IVA applies to your arrangement, we will first need to obtain and consider all the relevant facts about the arrangement, including (if relevant) the manner in which it has actually been implemented.
+Note 2:
+Base penalties of up to 50% of the tax avoided can apply where Part IVA is applied. Base penalties of up to 75% of the tax avoided can apply where you make a false and misleading statement to the Commissioner. Reductions in base penalty will be available if the taxpayer makes a voluntary disclosure to the Tax Office. If you have any information about the current arrangement, phone us on 1800 060 062. Tax agents wanting to provide information about people or companies who may be promoting arrangements covered by this Alert should call 13 72 86 (Fast Key Code
+3 4
+).
+Note 3:
+Penalties of up to 5,000 penalty units for individuals, 25,000 penalty units for bodies corporate or up to twice the amount of consideration received or receivable may apply to promoters of tax exploitation schemes under Division 290 of Schedule 1 to the TAA 1953. The Commissioner can also apply to the Federal Court of Australia for restraining and performance injunctions against promoters where prohibited conduct has occurred, is occurring or is proposed.
+Note 4:
+Where appropriate, section 167 of the ITAA 1936 may be used to determine the amount of taxable income upon which the taxpayer should be assessed, see Law Administration Practice Statements, PSLA 2007/7 and PSLA 2007/24.
+Amendment history
+Date of amendment
+Comment
+3 May 2024
+Updated Tax Agent tip off hotline number
+19 January 2024
+Updated ATO tip-off hotline numbers
+Date of Issue:
+22 January 2009
+Date of Effect:
+22 January 2009
+Related Practice Statements:
+PS LA 2008/15
+PS LA 2007/7
+PS LA 2007/24
+Subject References:
+Assessable income
+Associated enterprise
+Business profits
+Transfer pricing
+Traditional securities
+Double tax agreements
+International tax
+General anti-avoidance rule
+Promoter penalties
+Legislative References:
+Income Tax Assessment Act 1997
+6-5
+Income Tax Assessment Act 1936
+Division 13
+Division 16E
+26BB
+Part IVA
+International Tax Agreements Act 1953
+The Act
+Taxation Administration Act 1953
+Schedule 1 Div 290
+Authorised by:
+Brett Martin
+Acting Deputy Commissioner
+Contact Officer:
+Bruce Collins
+Assistant Commissioner
+Business Line:
+Aggressive Tax Planning
+Section:
+Technical and Case Leadership
+Phone:
+(02) 6216 2710
+TA 2009/2 history
+Date:
+Version:
+22 January 2009
+Original alert
+19 January 2024
+Updated alert
+You are here
+3 May 2024
+Updated alert
+Back to top

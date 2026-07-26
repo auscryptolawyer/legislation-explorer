@@ -1,0 +1,746 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 134
+  • Div 153A
+  • Div 21
+  • Div 29
+  • Div 48
+  • Div 58
+  • Div 60
+  • Division 134
+  • Division 19
+  • Division 2
+  • Division 21
+  • Division 29
+  • Division 48
+  • Division 58
+  • Division 60
+  • Subdivision 153-A
+  • division 153
+
+Topics: GST, Trusts, Partnerships, Companies, International
+
+
+
+================================================================================
+
+GSTR 2013/2 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+50 related documents
+Goods and Services Tax Ruling
+GSTR 2013/2
+Goods and services tax: adjustment notes
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+GSTR 2013/2EC
+.
+From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
+Treasury Legislation Amendment (Repeal Day) Act 2015
+.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+LEGALLY BINDING SECTION:
+What this Ruling is about
+1
+Ruling
+20
+Date of effect
+60
+NOT LEGALLY BINDING SECTION:
+Appendix 1: Explanation
+62
+Appendix 2: Waiver of adjustment notes legislative instruments
+87
+Appendix 3: Detailed contents list
+89
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling sets out the requirements for adjustment notes under Division 29 of the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act).
+[1]
+2. In particular, the Ruling outlines:
+•
+when a document is in the approved form for an adjustment note;
+•
+the information requirements that the Commissioner has determined under paragraph 29-75(1)(c), and an explanation of how those information requirements in
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012
+(the legislative instrument) apply; and
+•
+when the Commissioner will treat a particular document as an adjustment note even though that document does not meet all of the adjustment note requirements under subsection 29-75(1).
+3. Appendix 2 of this Ruling summarises the circumstances when a decreasing adjustment can be attributed without an adjustment note as determined by the Commissioner under subsection 29-20(3).
+4. This Ruling does not consider third party adjustments and third party adjustment notes under Division 134.
+[2]
+The Ruling does not consider in detail special rules in the GST Act that may be relevant to adjustment notes, including those concerning agents, insurance brokers, GST groups and GST branches. However, so as to provide additional context, these rules are referred to in Appendix 1 of the Ruling.
+Background
+Adjustments
+5. If GST or input tax credits are attributable to a tax period, but later events change the amount of GST or input tax credits for the supply or acquisition, a supplier or recipient may need to make adjustments to their net amount in the later tax period.
+6. There are increasing adjustments and decreasing adjustments. An increasing adjustment increases the net amount for the tax period, while a decreasing adjustment decreases the net amount for the tax period.
+[3]
+Adjustment events
+7. Adjustments can arise because of adjustment events. Under the GST Act, an adjustment event occurs when
+[4]
+:
+•
+a supply or acquisition is cancelled;
+•
+the consideration for a supply or acquisition is changed;
+•
+a supply becomes taxable or stops being taxable; or
+•
+an acquisition becomes creditable or stops being creditable.
+Obligation of the supplier to issue an adjustment note
+8. The supplier must issue an adjustment note within 28 days of the earlier of:
+•
+receiving a request by the recipient of the supply; or
+•
+becoming aware of the adjustment (where the supplier issued, or was requested to issue, a tax invoice).
+[5]
+9. This means that if the supplier did not issue, and was not requested to issue, a tax invoice, they have to issue an adjustment note only if the recipient requests one.
+10. Where the tax invoice in relation to the supply was (or would have been) a recipient created tax invoice, the recipient must instead issue the adjustment note.
+Adjustment notes
+11. A document is an adjustment note if it satisfies subsection 29-75(1). This subsection requires that an adjustment note relating to a taxable supply must:
+(a)
+be issued by the supplier, except for recipient created adjustment notes (paragraph 29-75(1)(a));
+(b)
+set out the Australian Business Number (ABN) of the entity that issues it, which in most cases is the supplier (paragraph 29-75(1)(b));
+(c)
+contain other information determined in writing by the Commissioner (paragraph 29-75(1)(c)); and
+(d)
+be in the approved form (paragraph 29-75(1)(d)).
+Requirements for adjustment notes and recipient created adjustment notes
+Adjustment notes
+12. An adjustment note is a document that complies with the following requirements:
+•
+it is issued by the supplier of the taxable supply (paragraph 29-75(1)(a));
+•
+it sets out the ABN of the entity that issues it (paragraph 29-75(1)(b));
+•
+it is in the approved form (paragraph 29-75(1)(d));
+•
+it meets the information requirements that the Commissioner has determined under paragraph 29-75(1)(c) - for an adjustment note (other than a recipient created adjustment note). This requires that an adjustment note contains the following information, or enough information to enable the following to be clearly ascertained:
+[6]
+-
+that the document is intended as an adjustment note and the effect of the adjustment
+[7]
+;
+-
+the identity of the supplier or the supplier's agent;
+-
+the identity or ABN of the recipient, the recipient's agent, or another member of the recipient's GST group
+[8]
+, if the adjustment note:
+(i)
+relates to a tax invoice showing the total price for the supply or supplies is at least $1,000 (or such higher amount as regulations made pursuant to subparagraph 29-70(1)(c)(ii) of the GST Act specify); or
+(ii)
+arises out of an adjustment event where a supply that was not taxable becomes taxable and the price of the supply is at least $1,000 (or such higher amount as regulations made pursuant to subparagraph 29-70(1)(c)(ii) of the GST Act specify);
+-
+the issue date of the adjustment note;
+-
+a brief explanation of the reason for the adjustment;
+-
+the amount of the adjustment to the GST payable;
+-
+the difference between the price of the supply before the adjustment event and the price of the supply after the adjustment event. If the supply is not a wholly taxable supply, the price of the supply is referable to that part of the supply that is affected by the adjustment event and that is, or becomes, taxable.
+Recipient created adjustment notes
+13. Under the legislative instrument a recipient created adjustment note must contain the recipient's ABN and the following information, or enough information to enable the following to be clearly ascertained:
+[9]
+•
+that the document is intended as a recipient created adjustment note and the effect of the adjustment;
+[10]
+•
+the identity and ABN of the supplier or the supplier's agent;
+•
+the identity
+[11]
+of the recipient or the recipient's agent;
+•
+the issue date of the adjustment note;
+•
+a brief explanation of the reason for the adjustment;
+•
+the amount of the adjustment to the GST payable;
+•
+the difference between the price of the supply before the adjustment event and the price of the supply after the adjustment event. If the supply is not a wholly taxable supply, the price of the supply is referable to that part of the supply that is affected by the adjustment event and that is, or becomes, taxable.
+14. If the amount of the GST payable is 1/11th of the price, a statement can be included as an alternative to the requirement that the amount of the adjustment to the GST payable be clearly ascertainable from the document. The statement must make it clear that the difference in the price of the supply includes GST.
+[12]
+15. A supplier or a recipient must hold an adjustment note to attribute a decreasing adjustment from an adjustment event when completing their GST return
+[13]
+for a tax period.
+[14]
+There are, however, some circumstances in which a supplier or recipient can attribute a decreasing adjustment even if they do not have an adjustment note.
+Circumstances in which an adjustment note is not required
+16. Circumstances in which an adjustment note is not required to be held to attribute a decreasing adjustment include where:
+•
+the amount of the decreasing adjustment does not exceed $75 (or such further amount as the GST Regulations may specify);
+[15]
+•
+the GST on the taxable supply is payable by the recipient because of section 15C of the
+A New Tax System (Goods and Services Tax Transition) Act 1999
+[16]
+(GST Transition Act); or
+•
+a legislative instrument under subsection 29-20(3) applies (these are summarised at Appendix 2 of this Ruling).
+17. A supplier or recipient does not need to hold an adjustment note to attribute an increasing adjustment.
+18. The adjustment note provisions do not apply to adjustments for bad debts under Division 21. The writing off of a bad debt, or a debt becoming overdue for 12 months or more, is not an adjustment event.
+[17]
+19. There is no adjustment where an adjustment event occurs in the same tax period as the GST or input tax credit is attributable. Therefore there is no requirement to issue an adjustment note in these circumstances.
+Ruling
+Approved Form
+20. A document is in the approved form
+[18]
+for an adjustment note if it includes the information required by subsection 29-75(1), including the additional information requirements which the Commissioner has determined in the legislative instrument,
+[19]
+and if applicable section 54-50 (which is about GST branches).
+[20]
+21. Paragraph 44 of Goods and Services Tax Ruling GSTR 2001/2
+Goods and Services Tax
+:
+foreign exchange conversions
+, provides additional approved form requirements for adjustment notes where the consideration for the taxable supply is expressed in a foreign currency.
+22. Details of more than one adjustment may be shown on an adjustment note. If a document includes multiple adjustments and does not meet the requirements of subsection 29-75(1) for a particular adjustment or adjustments, it remains an adjustment note in the approved form for all other adjustments for which the requirements of subsection 29-75(1) are met.
+Adjustment notes in electronic form
+23. A document in electronic form that meets the requirements of subsections 29-75(1) and 54-50(1) (if applicable) will be in the approved form for an adjustment note.
+[21]
+Information requirements in the legislative instrument
+24. The legislative instrument outlines that for a document to be an adjustment note or a recipient created adjustment note,
+[22]
+it must contain certain information, or enough information to enable that information to be clearly ascertained, including the following:
+•
+it is intended as an adjustment note and the effect of the adjustment;
+•
+the identity of the supplier or the recipient as required; and
+•
+the difference between the prices of the supply before and after the adjustment event.
+Clearly ascertained
+25. Subclauses 5(1) and 5(2) of the legislative instrument require that the particular information listed can be clearly ascertained from the information in the document. This means that the information does not have to be specifically stated or in a particular format. What is required is that the information can be found in the document or determined from information within the document. It further means that to be clearly ascertained, enough information must be present and it must be clear what the information represents.
+26. If the information required by subclauses 5(1) and 5(2) can only be determined by reference to another external source (such as the Australian Business Register (ABR)) or another document, then that information cannot be clearly ascertained from the information contained in that document as required by the opening words of subclauses 5(1) and 5(2).
+[23]
+27. One piece of information may be sufficient to satisfy more than one information requirement in subclauses 5(1) or 5(2) of the legislative instrument.
+Example 1 - clearly ascertained
+28.
+A supply of goods with a value (GST exclusive price) of $5,000 is treated as GST-free on the basis that the goods are to be exported. If some or all of the goods are not exported, the agreement provides that GST is to be imposed on the value of the goods not exported. Subsequently, the supplier exports goods to the value of $3,000 but at the recipient's request redirects goods to the value of $2,000 to a branch in Australia
+.
+29.
+There is an adjustment event because the supply of the goods that remain in Australia becomes a taxable supply. Therefore, the price of the goods remaining in Australia is now $2,200 (including $200 GST). The difference in price so far as the supply becomes taxable is $200, and the amount of the adjustment to the GST payable is $200. Paragraphs 5(1)(f) and (g) of the legislative instrument would both be satisfied if the document included a statement to the effect that the price and the GST payable has increased by $200
+.
+Document intended as an adjustment note or a recipient created adjustment note and the effect of the adjustment
+30. It must be clear from the document that it was intended to be an adjustment note or a recipient created adjustment note.
+[24]
+This is an objective test that must be satisfied by reference to the document.
+31. This requirement may be satisfied by including the words 'Adjustment Note'; 'GST Adjustment'; 'Tax Invoice Adjustment'; 'Amended Tax Invoice', 'Recipient Created Adjustment Note', 'Recipient Created GST Adjustment' or 'Adjustment Note Issued by Recipient' in the heading of the document. A statement in the body of the document could also make the intention clear.
+32. In some situations, the context of the document itself may make the intention clear without any title to that effect. For example, a tax invoice could provide terms for a prompt payment discount including the amount of the discount from which it is clearly ascertainable that it is intended as an adjustment note.
+33. It must also be clear from the document what the effect of the adjustment is.
+[25]
+This requirement can be satisfied, for example, by making it clear if the adjustment to the price is a debit or credit amount for the supplier or the recipient, or a positive or negative amount for the supplier or the recipient.
+Identity of the supplier or the recipient
+34. An adjustment note must include information to establish the identity of the supplier or supplier's agent, and the recipient or recipient's agent where applicable.
+[26]
+Information sufficient to identify the supplier or the supplier's agent, or the recipient or the recipient's agent, includes, but is not limited to, the legal name of the entity or the registered business name.
+35. In the case where the supplier or the recipient is a trust, the identity of the trust must be clearly ascertainable from the document. Information sufficient to identify the trust includes, but is not limited to a registered business name
+[27]
+under which the trust's enterprise is carried on. In some cases, the identity of the trust may be clearly ascertainable if the trustee's name is included on the adjustment note. The ABN issued to the trust must also be clearly ascertainable from the document.
+36. Where the supply or acquisition is made by a representative of an incapacitated entity in its capacity as the representative, the supplier or the recipient in most cases
+[28]
+is taken to be the[0][0] incapacitated [0]entity[0].[0][0] Therefore the identity of the incapacitated entity must be clearly ascertainable from the document.
+37. Where a member, officer, or employee of a company has made a pre-establishment acquisition to which Division 60 applies, an adjustment note that is required to[0] identify the recipient should identify the member, officer or employee. The company needs to hold the adjustment note for attributing a decreasing adjustment.
+The difference in the price of the supply
+38. The difference in the price of the supply before the adjustment event and the price of the supply after the adjustment event needs to be shown, or enough information needs to be provided for the difference to be clearly ascertainable from the document.
+[29]
+Example 2 - difference in price
+39.
+Kadel Pty Ltd sells a trail bike to Track Tours Pty Ltd for $6,600 and issues a tax invoice. In the next tax period, Kadel Pty Ltd discovers that they charged Track Tours Pty Ltd the recommended retail price for the trail bike rather than the end of model promotional sales price. Accordingly, Kadel Pty Ltd reduces the price to $5,500
+.
+40.
+Kadel Pty Ltd is required to issue an adjustment note to Track Tours Pty Ltd within 28 days of becoming aware of the adjustment. The adjustment note may show the difference in the price as follows
+.
+Trail Bike
+$6,600
+Less adjustment for incorrect price
+-$1,100
+Total price
+$5,500
+The difference in price includes GST.
+41.
+Alternatively, the adjustment note may show the difference in the price by the inclusion of any two of the following three amounts as follows
+.
+Difference in the GST exclusive price
+-$1,000
+Difference in the GST inclusive price
+-$1,100
+Amount of the adjustment to GST payable
+-$100
+Partly taxable supplies
+42. For a supply that is not a wholly taxable supply before and/or after the adjustment event, the adjustment note may identify only the difference in the price to the extent it causes the adjustment.
+[30]
+Statement as an alternative to showing the amount of adjustment to GST payable
+43. If the amount of GST payable is 1/11th of the price, a statement can be included as an alternative to showing the amount of the adjustment to the GST payable on the adjustment note. The statement must make it clear that the difference in the price of the supply includes GST.
+[31]
+See example 2 at paragraph 40 of this Ruling for an example of a statement.
+Combined adjustment note and tax invoice
+44. One document may be both a tax invoice and an adjustment note if it satisfies the requirements for a tax invoice in subsection 29-70(1) and the requirements for an adjustment note in subsection 29-75(1).
+45. Adjustments may be shown on a tax invoice. For example, a monthly statement may be issued at the end of the month that shows the supplies made during the month, as well as any adjustments from previous months such as returns or discounts. The monthly statement is an adjustment note if it includes the information required by subsection 29-75(1).
+46. When a number of adjustments are included on the one summary statement, a separate amount must be shown for each type of adjustment. For example, a monthly statement should show an amount for total returns during the month, as well as a separate amount for the total discounts during the month.
+Adjustment note contained in two documents - a commercial credit or debit note and a tax invoice
+47. Some suppliers, instead of issuing a credit or debit note for the amount of an adjustment, may cancel the original tax invoice with a credit note and then issue a new tax invoice showing the new price.
+48. Although these are two separate documents, both the entity issuing the documents and the entity receiving the documents (except in the case of recipient created tax invoices) will have a document that may be used to attribute a decreasing adjustment pursuant to subclause 5(4) of the legislative instrument if:
+•
+at least one of the documents satisfies subsection 29-75(1)(a) and (b); and
+•
+both documents read together satisfy the requirements that the Commissioner has determined in the legislative instrument.
+49. Both documents must be held before a decreasing adjustment can be claimed.
+Example 3 - adjustment note contained in two documents
+50.
+In March, Margot issues a tax invoice for the sale of equipment to Sam. The price (GST inclusive) of the equipment is $11,000. Sam attributes the input tax credit for this creditable acquisition in the same monthly tax period. Next month, Margot discovers that she undercharged Sam for the equipment
+.
+51.
+In April, Margot issues a credit note for $11,000 to cancel the original tax invoice and issues a new tax invoice showing the correct price (GST inclusive) of $12,100
+.
+52.
+The decreasing adjustment of $100 cannot be attributed to a tax period until Sam holds both the new tax invoice and the credit note, as this is when the requirements listed in paragraph 48 above are satisfied. The change in the price has the effect of decreasing his net amount for the tax period to which the adjustment is attributed
+.
+Circumstances in which the Commissioner may exercise the discretion to treat a document as an adjustment note
+53. The Commissioner has the discretion to treat a document that does not satisfy the adjustment note requirements as an adjustment note.
+[32]
+This discretion can also be used to treat a document that does not meet the requirements for a recipient created adjustment note as an adjustment note. The Commissioner will exercise this discretion on a case-by-case basis.
+54. There are a number of factors that the Commissioner will consider in the exercise of this discretion which are explained in Law Administration Practice Statement PSLA 2004/11
+The Commissioner's discretions to treat a particular document as a tax invoice or adjustment note
+. These factors are not exhaustive and there may be other circumstances that are relevant in a particular case.
+55. When the Commissioner exercises the discretion to treat a document as an adjustment note, that document is an adjustment note as defined in section 195-1. This treatment applies for the purposes of both the supplier and recipient. The document for which the discretion has been exercised is treated as an adjustment note for the adjustment from the date it was created.
+56. However, this does not mean that the supplier had, before the exercise of the discretion, complied with their obligation to issue an adjustment note within the required time.
+Correcting errors on an adjustment note
+57. A document issued for an adjustment may not meet all of the requirements for an adjustment note because of an error or omission made by the supplier. For example, the document contains transposition errors in the legal name or ABN, shows an incorrect price, or does not include an ABN or the date of issue of the document. When the supplier becomes aware that the document issued does not meet the requirements for an adjustment note, they can cancel and reissue the document for the adjustment. In these circumstances, the replacement document showing the required information is the adjustment note for the adjustment.
+58. If, however, the Commissioner has exercised the discretion to treat a document as an adjustment note, a supplier does not have to issue a replacement document to meet the requirements for an adjustment note. A document for which the discretion has been exercised is an adjustment note as defined in section 195-1 for the purposes of both the supplier and recipient.
+59. This information also applies to recipients in the case of recipient created adjustment notes.
+Date of effect
+60. This Ruling applies on and from its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 to 76 of Taxation Ruling TR 2006/10
+Public Rulings
+).
+60A. [Omitted].
+61. Goods and Services Tax Ruling GSTR 2000/1
+Goods and Services Tax:  adjustment notes
+(GSTR 2000/1) is withdrawn on and from 21 August 2013. If, prior to the issue of this Ruling, you relied on GSTR 2000/1, you will be protected in respect of what you have done up to the date of issue of this Ruling and the withdrawal of GSTR 2000/1.
+Commissioner of Taxation
+21 August 2013
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Overview
+62. A supplier or recipient may need to make adjustments to their net amount for a later tax period if previously attributed GST or input tax credit amounts change.
+63. GST adjustments are either increasing or decreasing. An increasing adjustment increases the net amount for a tax period, while a decreasing adjustment decreases the net amount for the tax period.
+[33]
+64. Except in certain circumstances, a decreasing adjustment of more than $75 cannot be attributed in a GST return to a tax period until an adjustment note is held.
+[34]
+An adjustment note must contain the information about an adjustment as required by subsection 29-75(1), including the other information requirements the Commissioner has determined.
+65. A supplier must issue an adjustment note for an adjustment arising from an adjustment event within 28 days of the earlier of their receiving a request from the recipient of the supply, or their becoming aware of the adjustment (where the supplier issued or was requested to issue a tax invoice).
+[35]
+66. Where a recipient receives a document that fails to meet the requirements, but purports to be an adjustment note the recipient can ask the Commissioner to exercise the discretion to treat the document as an adjustment note under subsection 29-75(1).
+67. Where the tax invoice in relation to the supply was (or would have been) a recipient created tax invoice, the recipient must instead issue the adjustment note.
+Approved form requirement
+68. There is no particular form that an adjustment note needs to be in. To satisfy the approved form requirements, it merely needs to contain at a minimum the requisite information.
+Adjustment notes in electronic form
+69. An adjustment note may be issued in electronic form, for example, by Electronic Data Interchange (EDI). Section 2B of the
+Acts Interpretation Act 1901
+defines 'document' as any record of information. Therefore, a document in electronic form that meets the requirements of subsections 29-75(1) and 54-50(1) (if applicable) is in an approved form for an adjustment note.
+Discounts
+70. A tax invoice that shows the terms of settlement or prompt payment discount
+[36]
+may also be an adjustment note. To be an adjustment note, the tax invoice must contain enough information to enable the difference between the price before and after the adjustment event to be clearly ascertained. The document could therefore show the amount of the reduction in price that is available to the recipient as a settlement or prompt payment discount.
+71. If the tax invoice otherwise meets the requirements for an adjustment note under subsection 29-75(1), the tax invoice can also be an adjustment note. The tax invoice will become an adjustment note when the settlement or prompt payment discount is taken up by the recipient.
+Summary statements and subsequent invoices
+72. Sometimes adjustments are included on tax invoices or on monthly statements that are issued at the end of the month.
+73. If an adjustment note is combined on the next tax invoice or another document, the supplier must issue the adjustment note within 28 days of a request by the recipient or of the supplier becoming aware of the adjustment.
+[37]
+Clearly ascertained
+74. The legislative instrument requires that particular information in subclauses 5(1) and 5(2) be able to be clearly ascertained from the information contained in the document purporting to be an adjustment note or a recipient created adjustment note.
+75. Information cannot be clearly ascertained from the document if it can only be determined by reference to another external source or other document. For example, providing the supplier's ABN is a requirement.
+[38]
+If the supplier does not include their ABN but includes sufficient details on the document so that the ABN could be determined by looking up the entity on the ABR, the ABN requirement is not satisfied as the ABN cannot be ascertained from the document. It can only be ascertained from the document
+and
+some other source. If subclause 5(4) in the legislative instrument is not applicable,
+[39]
+the recipient could:
+•
+ask the supplier to issue a document that complies with the adjustment note requirements; and/or
+•
+make a request for the Commissioner to exercise the discretion to treat the document as an adjustment note.
+[40]
+Review rights if the Commissioner does not exercise the discretion
+76. The recipient may object under Part IVC of the TAA 1953 against an assessment that excludes a decreasing adjustment as a result of the decision not to exercise the discretion. Where the Commissioner disallows the objection, the recipient can, under Part IVC, apply to the Administrative Appeals Tribunal (including the Small Taxation Claims Tribunal, if eligible) for a review of the objection decision or appeal to the Federal Court against the objection decision.
+77. [Omitted].
+Special rules that affect adjustment notes
+78. The GST Act provides a number of special rules for certain types of taxable supplies that affect adjustment notes. These rules are outlined below.
+Agents
+79. Subdivision 153-A has special rules about agents. It reflects the position at common law that when an agent uses his or her authority to act for a principal, then any act done on behalf of that principal is an act of the principal.
+80. Accordingly, if the supplier has a decreasing adjustment for a supply made through an agent, either the supplier or their agent can issue an adjustment note.
+[43]
+Similarly, a decreasing adjustment for a supply or acquisition made through an agent is attributable to a tax period if the supplier or their agent holds the adjustment note.
+[44]
+81. A supplier must not issue an adjustment note for a decreasing adjustment if the supplier makes a supply through an agent and the agent issues an adjustment note.
+[45]
+Supplies of insurance policies through insurance brokers
+82. Subdivision 153-A treats an insurance broker who is an agent for a recipient as an agent of the insurer.
+[46]
+This enables the broker to issue an adjustment note on behalf of the insurer. It is not necessary that the broker is registered, or required to be registered, for GST.
+GST groups
+83. The representative member of a GST group is liable for the GST payable on the taxable supplies made.
+[47]
+The representative member is also liable for any increasing adjustments and entitled to any decreasing adjustments for supplies or acquisitions made.
+[48]
+84. Even though the special rule in Division 48 makes the representative member liable for any increasing adjustments and entitled to any decreasing adjustments, the supplier or supplier's agent
+[49]
+is responsible for issuing adjustment notes for any adjustments for a supply that the supplier makes.
+85. Even though the representative member is entitled to any decreasing adjustment for a creditable acquisition made by a member of the GST group, an adjustment note for a supply with a total price of at least $1,000, or such higher amount as the regulations specify, would have to include enough information to clearly ascertain the identity or ABN of:
+•
+the recipient of the supply; or
+•
+the recipient's agent; or
+•
+another member of the GST group.
+[50]
+GST branches
+86. A parent entity with a separately registered GST branch may make supplies through that branch. When the Commissioner registers a GST branch, the parent entity is notified of the GST branch registration number.
+[51]
+This number must be shown on an adjustment note (including a recipient created adjustment note) for an adjustment relating to a supply made through a GST branch for the adjustment note to be in the approved form.
+[52]
+Appendix 2 - Waiver of adjustment notes legislative instruments
+This Appendix is provided as information to help you understand the circumstances in which the Commissioner has determined in writing that the requirement for an adjustment note under subsection 29-20(3) does not apply. It does not form part of the binding public ruling.
+87. The following table summarises when an adjustment may be attributable without an adjustment note, as determined by the Commissioner under subsection 29 20(3).
+88. Refer to the legislative instrument before relying on it to ensure that the requirements set out in the instrument are met.
+Legislative instrument
+Overview
+A New Tax System (Goods and Services Tax) Waiver of Adjustment Note Requirement (Decreasing Adjustments Relating to Reimbursements of an Employee etc) Legislative Instrument 2013
+In certain circumstances, a decreasing adjustment (arising from an adjustment event in respect of an acquisition made under subsection 111-5(1) where the total price was at least $1,000) is attributable to a tax period when an entity holds a document other than an adjustment note.
+A New Tax System (Goods and Services Tax) Waiver of Adjustment Note Requirement (Decreasing Adjustments Relating to Supplies made by or to a Partnership) Legislative Instrument 2013
+Where a supply or acquisition is made by a partner in their capacity as a partner of a partnership, in certain circumstances the partnership may attribute a decreasing adjustment without holding an adjustment note.
+Goods and Services Tax:  Waiver of Adjustment Note Determination (No. 39) 2016 - Reverse Charged Supplies
+The requirement to hold an adjustment note under subsection 29-20(3) does not apply where the decreasing adjustment relates to a taxable supply to which section 83-5 applies.
+Goods and Services Tax:  Waiver of Adjustment Note Requirement Determination 2017 - for Decreasing Adjustments from Intangible Supplies from Offshore
+The requirement to hold an adjustment note under subsection 29-20(3) does not apply where the decreasing adjustment relates to an offshore taxable supply under section 84-5.
+Goods and Services Tax:  Waiver of Adjustment Note Requirement Determination 2017 - Members of MasterCard International and Visa International - Bank Interchange Transfers
+Where a member of Mastercard International or Visa International holds a 'bank interchange services' report produced by Mastercard International and/or Visa International prior to lodging a GST return, the member is not required to hold an adjustment note for an acquisition recorded on the report.
+Goods and Services Tax:  Waiver of Adjustment Note Requirement (Corporate Card Statements) Determination 2018
+In certain circumstances a corporate card holder of a listed corporate card provider that has a corporate card statement is not required to hold an adjustment note for a decreasing adjustment.
+Appendix 3 - Detailed contents list
+89. The following is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Background
+5
+Adjustments
+5
+Adjustment events
+7
+Obligation of the supplier to issue an adjustment note
+8
+Adjustment notes
+11
+Requirements for adjustment notes and recipient created adjustment notes
+12
+Adjustment notes
+12
+Recipient created adjustment notes
+13
+Circumstances in which an adjustment note is not required
+16
+Ruling
+20
+Approved form
+20
+Adjustment notes in electronic form
+23
+Information requirements in the legislative instrument
+24
+Clearly ascertained
+25
+Example 1 - clearly ascertained
+28
+Document intended as an adjustment note or a recipient created adjustment note and the effect of the adjustment
+30
+Identity of the supplier or the recipient
+34
+The difference in the price of the supply
+38
+Example 2 - difference in the price
+39
+Partly taxable supplies
+42
+Statement as an alternative to showing the amount of adjustment to GST payable
+43
+Combined adjustment note and tax invoice
+44
+Adjustment note contained in two documents - a commercial credit or debit note and a tax invoice
+47
+Example 3 - adjustment note contained in two documents
+50
+Circumstances in which the Commissioner may exercise the discretion to treat a document as an adjustment note
+53
+Correcting errors on an adjustment note
+57
+Date of effect
+60
+Appendix 1 - Explanation
+62
+Overview
+62
+Approved form requirement
+68
+Adjustment notes in electronic form
+69
+Discounts
+70
+Summary statements and subsequent invoices
+72
+Clearly ascertained
+74
+Review rights if the Commissioner does not exercise the discretion
+76
+Special rules that affect adjustment notes
+78
+Agents
+79
+Supplies of insurance policies through insurance brokers
+82
+GST groups
+83
+GST branches
+86
+Appendix 2 - Waiver of adjustment notes legislative instruments
+87
+Appendix 3 - Detailed contents list
+89
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+All legislative references in this Ruling are to the GST Act unless otherwise indicated.
+[2]
+See
+A New Tax System (Goods and Services Tax) Third Party Adjustment Note Information Requirements Determination (No. 1) 2010.
+[3]
+Section 17-10.
+[4]
+Section 19-10.
+[5]
+Subsection 29-75(2). This is subject to the threshold for decreasing adjustments in subsection 29-80(2) and section 29-80.02 of the
+A New Tax System (Goods and Services Tax) Regulations 2019
+(GST Regulations).
+[6]
+As determined by the Commissioner under paragraph 29-75(1)(c) in
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements 2012.
+[7]
+For example, whether it is a positive or negative amount, or a debit or credit amount, to the supplier or the recipient.
+[8]
+Where the document was taken to be a tax invoice under the circumstances in subsection 48-57(1).
+[9]
+As determined by the Commissioner under paragraph 29-75(1)(c) in
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements 2012.
+[10]
+For example, whether it is a positive or negative amount, or a debit or credit amount, to the supplier or the recipient.
+[11]
+Paragraph 29-75(1)(b) also requires the adjustment note to contain the ABN of the entity that issues it. In the case of a recipient created adjustment note, this is either the recipient or the recipient's agent.
+[12]
+Subclause 5(3) of the legislative instrument.
+[13]
+The GST return forms part of the supplier's or recipient's activity statement.
+[14]
+Subsection 29-20(3).
+[15]
+Subsection 29-80(2) and section 29-80.02 of the
+A New Tax System (Goods and Services Tax) Regulations 2019
+.
+[16]
+Division 2 of Part 3 of the GST Transition Act applies to agreements spanning both 1 July 2000 and 1 July 2005. In the circumstances described in section 15C of the GST Transition Act, the GST on a taxable supply made under such an agreement is payable by the recipient (to the extent the supply is made on or after a certain date occurring on or after 1 July 2005). Subsection 15H(4) of the GST Transition Act provides that subsection 29-20(3) does not apply, so that the recipient may make a decreasing adjustment without holding an adjustment note.
+[17]
+See paragraph 18 of Goods and Services Tax Ruling GSTR 2000/2
+Goods and services tax: adjustments for bad debts.
+[18]
+Paragraph 29-75(1)(d) requires an adjustment note to be in the approved form.
+[19]
+The Commissioner has determined the other information that an adjustment note must contain in
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012.
+[20]
+This Ruling constitutes approval in writing by the Commissioner under subsection 388-50(1) of Schedule 1 to the
+Taxation Administration Act 1953
+(TAA 1953) for such documents to be in an approved form for adjustment notes.
+[21]
+This record must be in English or readily accessible and easily convertible to English as required by subsection 382-5(8) of Schedule 1 to the TAA 1953.
+[22]
+A recipient created adjustment note is an adjustment note issued by the recipient. A recipient may only issue an adjustment note if the tax invoice relating to the supply was a recipient created tax invoice. See subsection 29-75(2).
+[23]
+See paragraphs 47 to 49 of this Ruling for a discussion on circumstances when the information requirements under paragraph 29-75(1)(c) may be met from another document.
+[24]
+Paragraphs 5(1)(a) and 5(2)(a) of the legislative instrument.
+[25]
+Paragraphs 5(1)(a) and 5(2)(a) of the legislative instrument.
+[26]
+Paragraphs 5(1)(b) and (c) and 5(2)(b) and (c) of the legislative instrument. In the case of recipient created adjustment notes the supplier's or supplier's agent's ABN is also a requirement.
+[27]
+See the
+Business Names Registration Act 2011.
+[28]
+Section 58-95 provides that Division 58 (including the registration and reporting requirements of Division 58) does not apply to representatives of incapacitated entities to the extent that their supplies would otherwise be of a kind to which subsection 105-5(1)(a) applies.
+[29]
+Paragraphs 5(1)(g) and 5(2)(g) of the legislative instrument.
+[30]
+Subparagraph 5(1)(g) and 5(2)(g) of the legislative instrument. See Goods and Services Tax Ruling GSTR 2001/8
+Goods and services tax: apportioning the consideration for a supply that includes taxable and non-taxable parts.
+[31]
+Subclause 5(3) of the legislative instrument.
+[32]
+Subsection 29-75(1).
+[32A]
+[Omitted].
+[33]
+Section 17-10.
+[34]
+Subsection 29-20(3).
+[35]
+Subsection 29-75(2).
+[36]
+See paragraphs 20 and 21 of Goods and Services Tax Ruling GSTR 2000/19
+Goods and services tax: making adjustments under Division 19 for adjustment event
+s.
+[37]
+Subsection 29-75(2). In some circumstances, the Commissioner has made a determination to extend the time within which an adjustment note must be issued. For example, see
+Goods and Services Tax: Extension of Time to Issue An Adjustment Note Determination (No. 35) 2015
+which provides that a gas retailer may have further time to issue an adjustment note upon becoming aware of an adjustment.
+[38]
+Paragraph 29-75(1)(b).
+[39]
+See paragraphs 47 to 49 for a discussion on the operation of subclause 5(4) of the legislative instrument.
+[40]
+See paragraphs 53 to 56 of this Ruling.
+[41]
+[Omitted].
+[42]
+[Omitted].
+[43]
+Paragraph 153-20(1)(b).
+[44]
+Section 153-10.
+[45]
+Subsection 153-20(2) and paragraph 153-50(1)(b). See also paragraph 68 of Goods and Services Tax Ruling GSTR 2000/37
+Goods and services tax: agency relationships and the application of the law.
+[46]
+Subsection 153-25(1).
+[47]
+Subsection 48-40(1).
+[48]
+Section 48-50.
+[49]
+The agent may include the representative member or another member of the GST group.
+[50]
+Paragraph 5(1)(c) of the legislative instrument.
+[51]
+Section 54-15.
+[52]
+Paragraph 54-50(1)(b).
+GSTR 2013/D1
+References
+ATO references:
+NO  1-49CUN10
+ISSN: 1443-5160
+Related Rulings/Determinations:
+GSTR 2000/1
+GSTR 2000/2
+GSTR 2000/19
+GSTR 2000/37
+GSTR 2001/2
+GSTR 2001/8
+TR 2006/10
+Business Line:
+ISP - GST
+Legislative References:
+AIA 2B
+ANTS(GST)A 1999 17-10
+ANTS(GST)A 1999 19-10
+ANTS(GST)A 1999 Div 21
+ANTS(GST)A 1999 Div 29
+ANTS(GST)A 1999 29-20(3)
+ANTS(GST)A 1999 29-70(1)
+ANTS(GST)A 1999 29-70(1)(c)(ii)
+ANTS(GST)A 1999 29-75(1)
+ANTS(GST)A 1999 29-75(1)(a)
+ANTS(GST)A 1999 29-75(1)(b)
+ANTS(GST)A 1999 29-75(1)(c)
+ANTS(GST)A 1999 29-75(1)(d)
+ANTS(GST)A 1999 29-75(2)
+ANTS(GST)A 1999 29-80(2)
+ANTS(GST)A 1999 Div 48
+ANTS(GST)A 1999 48-50
+ANTS(GST)A 1999 48-40(1)
+ANTS(GST)A 1999 48-57(1)
+ANTS(GST)A 1999 54-15
+ANTS(GST)A 1999 54-50
+ANTS(GST)A 1999 54-50(1)
+ANTS(GST)A 1999 54-50(1)(b)
+ANTS(GST)A 1999 Div 58
+ANTS(GST)A 1999 58-95
+ANTS(GST)A 1999 Div 60
+ANTS(GST)A 1999 83-5
+ANTS(GST)A 1999 84-5
+ANTS(GST)A 1999 105-5(1)(a)
+ANTS(GST)A 1999 111-5(1)
+ANTS(GST)A 1999 Div 134
+ANTS(GST)A 1999 SubDiv 153A
+ANTS(GST)A 1999 153-10
+ANTS(GST)A 1999 153-20(1)(b)
+ANTS(GST)A 1999 153-20(2)
+ANTS(GST)A 1999 153-25(1)
+ANTS(GST)A 1999 153-50(1)(b)
+ANTS(GST)A 1999 195-1
+ANTS(GSTT)A 1999 Pt3 Div2
+ANTS(GSTT)A 1999 15C
+ANTS(GSTT)A 1999 15H(4)
+ANTS(GST)R 2019  29-80.02
+TAA 1953 Pt IVC
+TAA 1953 Sch1 382-5(8)
+TAA 1953 Sch1 388-50(1)
+Other References:
+A New Tax System (Goods and Services Tax) Third Party Adjustment Note Information Requirements Determination (No.1) 2010
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012
+A New Tax System (Goods and Services Tax) Waiver of Adjustment Note Requirement (Decreasing Adjustments Relating to Reimbursements of an Employee etc) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Adjustment Note Requirement (Decreasing Adjustments Relating to Supplies made by or to a Partnership) Legislative Instrument 2013
+Goods and Services Tax:  Extension of Time to Issue An Adjustment Note Determination (No. 35) 2015
+Goods and Services Tax:  Waiver of Adjustment Note Determination (No. 39) 2016 - Reverse Charged Supplies
+Goods and Services Tax:  Waiver of Adjustment Note Requirement Determination 2017 - for Decreasing Adjustments from Intangible Supplies from Offshore
+Goods and Services Tax:  Waiver of Adjustment Note Requirement Determination 2017 - Members of MasterCard International and Visa International - Bank Interchange Transfers
+Goods and Services Tax:  Waiver of Adjustment Note Requirement (Corporate Card Statements) Determination 2018
+GSTR 2013/2 history
+Date:
+Version:
+Change:
+21 August 2013
+Original ruling
+11 September 2013
+Consolidated ruling
+Addendum
+You are here
+3 April 2019
+Consolidated ruling
+Addendum
+Back to top

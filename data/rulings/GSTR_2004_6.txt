@@ -1,0 +1,1827 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 111
+  • Div 129
+  • Div 130
+  • Div 138
+  • Div 153
+  • Div 358
+  • Div 72
+  • Division 111
+  • Division 129
+  • Division 130
+  • Division 138
+  • Division 153
+  • Division 358
+  • Division 72
+  • Subdivision 153-A
+  • Subdivision 72-A
+  • Subdivision 72-C
+  • div 153
+  • div 72
+  • division 153
+
+Cases Referenced:
+  • Anor v. Minister 
+  • Belgian State v. Ghent Coal Terminal 
+  • Catanzariti v. Whitehouse
+(1981) 55 FLR 426
+  • Cripps v. Federal Commissioner 
+  • East Finchley Pty Ltd v. Commissioner 
+  • Falstein v. Official Receiver
+(1962) 108 CLR 523
+  • In
+Falstein v. Official Receiver
+
+  • In
+Kibby v. Registrar 
+  • Kibby v. Registrar 
+  • Nette v. Howarth
+
+  • Nette v. Howarth
+(1935) 53 CLR 55
+  • See
+Catanzariti v. Whitehouse
+(1981) 55 FLR 426
+  • Taxation v. Comber
+
+  • Taxation v. Trustees 
+
+Topics: GST, Trusts, Partnerships, Companies, Employment
+
+
+
+================================================================================
+
+GSTR 2004/6 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+97 related documents
+Goods and Services Tax Ruling
+GSTR 2004/6
+Goods and services tax: tax law partnerships and co-owners of property
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
+Treasury Legislation Amendment (Repeal Day) Act 2015
+.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+This Ruling contains references to provisions of the
+A New Tax System (Goods and Services Tax) Regulations 1999,
+which have been replaced by the
+A New Tax System (Goods and Services Tax) Regulations 2019.
+This Ruling continues to have effect in relation to the remade Regulations.
+Paragraph 32 of
+TR 2006/10
+provides further guidance on the status and binding effect of public rulings where the law has been repealed and rewritten.
+A
+comparison table
+which provides the replacement provisions in the
+A New Tax System (Goods and Services Tax) Regulations 2019
+for regulations which are referenced in this Ruling is available.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+FOI status:
+may be released
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+6
+Background
+8
+Ruling with explanation
+18
+Detailed contents list
+270
+Preamble
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 37 of the
+Taxation Administration Act 1953
+and former section 105-60 of Schedule 1 to the
+Taxation Administration Act 1953.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling explains how the
+A New Tax System (Goods and Services Tax) Act 1999
+(the GST Act) applies to transactions involving tax law partnerships.
+[1]
+2. In particular, this Ruling explains:
+•
+what a tax law partnership is;
+•
+when a tax law partnership is formed,
+[2]
+and the GST consequences of its formation;
+•
+the circumstances in which a tax law partnership carries on an enterprise;
+•
+the circumstances in which the co-owners of an income producing property, rather than a tax law partnership, each carry on an enterprise;
+•
+the GST consequences of transactions between a tax law partnership and its partners;
+•
+the supply of a going concern by a tax law partnership;
+•
+the circumstances in which a tax law partnership is terminated, and the GST consequences of its termination;
+[3]
+and
+•
+the GST consequences if a co-owner, and not a tax law partnership, carries on an enterprise.
+3. Most tax law partnerships arise in situations involving the leasing of co-owned property.
+[4]
+Consequently, this Ruling focuses on tax law partnerships that arise when there is receipt of ordinary income jointly from the leasing of co-owned property.
+4. This Ruling does not apply to:
+•
+an association of persons carrying on business as partners (general law partnership);
+[5]
+or
+•
+a limited partnership
+[6]
+as defined in subsection 995-1(1) of the
+Income Tax Assessment Act 1997
+(ITAA 1997).
+5. Unless otherwise stated, all legislative references in this Ruling are to the GST Act, and all references to the regulations are to the A New Tax System (Goods and Services Tax) Regulations 1999 (the GST regulations).
+Date of effect
+6. This Ruling applies [to tax periods commencing] both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+7. Changes made to this Ruling by Addenda that issued on 15 August 2007, 31 October 2012, 27 March 2013, 21 August 2013 and 28 August 2013 have been incorporated into this version of the Ruling.
+[6A]
+Background
+8. A partnership is defined in section 195-1 of the GST Act by reference to the definition of 'partnership' in subsection 995-1(1) of the ITAA 1997.
+[7]
+That definition states:
+partnership
+means:
+(a)
+an association of persons (other than a company or a limited partnership) carrying on business as partners or in receipt of ordinary income or statutory income jointly; or
+(b)
+a limited partnership.
+9. The first limb of paragraph (a) of the definition refers to 'an association of persons (other than a company or a limited partnership) carrying on business as partners'. This reflects the general law definition of a partnership, which is 'the relation which subsists between persons carrying on a business in common with a view of profit'.
+[8]
+We refer to this type of partnership as a general law partnership.
+10. The second limb of paragraph (a) of the definition includes as a partnership an association of persons (other than a company or a limited partnership) 'in receipt of ordinary income or statutory income jointly'. We refer to this type of partnership as a tax law partnership.
+11. Tax law partnerships exist only for tax purposes. General law does not recognize tax law partnerships. At general law, joint tenancy, tenancies in common, joint property or part ownership do not, in themselves, create a partnership in respect of anything that is so held. Neither does the sharing of any profits from the use of such property result in a partnership. The receipt of income jointly from investments without carrying on business is outside the definition of a partnership under general law.
+[9]
+12. It has been suggested that, as a tax law partnership exists only for tax purposes and is a statutory fiction, it is incapable of making supplies or acquisitions for GST purposes. This is because the provisions that bring a tax law partnership into existence (subsection 995-1(1) of the ITAA 1997 and section 195-1 of the GST Act) are effectively deeming provisions, in that they 'may often deem a state of affairs to exist which does not'.
+[10]
+As stated by Fisher J in
+Commissioner of Taxation v. Comber
+,
+[11]
+deeming provisions:
+are required by their nature to be construed strictly and only for the purpose for which they are resorted to: Ex parte Walton; Re Levy (1881) 17 Ch D 746 per James LJ at 756. It is improper in my view to extend by implication the express application of such a statutory fiction.
+[12]
+13. For the reasons explained later in this Ruling, we do not accept the view that a tax law partnership is incapable of making supplies or acquisitions.
+[13]
+The inclusion of a tax law partnership within the definition of partnership for GST purposes indicates a legislative intent that, to the extent that it is possible, the GST laws apply to these partnerships in the same manner as general law partnerships.
+14. We acknowledge that the treatment of a tax law partnership as an entity for GST purposes, and our views on how the GST laws apply to transactions involving a tax law partnership, differ from the treatment of those transactions under general law or property law. Furthermore, in a GST context, the concept of 'receipt of ordinary income or statutory income jointly', which is central to the existence of a tax law partnership, gives rise to particular concerns about the time of formation of a tax law partnership and the time from which an enterprise, giving rise to receipt of ordinary income or statutory income jointly, is carried on.
+15. Broadly, the GST Act has adopted the income tax concept of a tax law partnership as a means for dealing with the GST obligations and entitlements arising from the common situation of co-ownership of property, the exploitation of which for income producing purposes gives rise to receipt of ordinary income or statutory income jointly.
+16. Against this background, we have taken an approach that promotes the purpose or object of the GST Act to produce the most sensible result, having regard to that purpose or object.
+[14]
+It is in the context of providing a workable partnership entity concept for GST that, where appropriate, the positions taken in this Ruling provide for similar GST treatment between tax law partnerships and general law partnerships.
+17. In this Ruling, unless otherwise stated:
+•
+a reference to the joint receipt of income or receipt of income jointly is a reference to the receipt of either ordinary income or statutory income jointly;
+•
+a reference to a partnership is a reference to a tax law partnership as described in paragraph 10 of this Ruling;
+•
+a reference to an enterprise partnership is a reference to a tax law partnership that carries on an enterprise;
+•
+a reference to a registered partnership is a reference to an enterprise partnership that is either registered or required to be registered for GST purposes. Similarly, a reference to an unregistered partnership is a reference to an enterprise partnership that is neither registered nor required to be registered;
+•
+a reference to 'an activity' is a reference to an activity or activities that do not amount to carrying on a business;
+•
+a reference to a leasing enterprise is a reference to an enterprise being an activity or series of activities done on a regular or continuous basis, in the form of a lease, licence or other grant of an interest in property;
+•
+all supplies and acquisitions are connected with Australia;
+•
+a reference to acquisitions includes importations;
+•
+it is assumed that a supply or acquisition of property or an interest in property is not a supply or acquisition of residential premises that is input taxed;
+•
+a reference to an interest in property is a reference to the legal and beneficial interest that an owner or co-owner has in the property;
+[15]
+and
+•
+it is assumed that the election to apply the margin scheme to supplies of real property is not made.
+Ruling with explanation
+What is a tax law partnership?
+18. A tax law partnership, as described in the second limb of paragraph (a) of the definition of partnership, is 'an association of persons (other than a company or a limited partnership) ... in receipt of ordinary income or statutory income jointly'.
+19. If the 'receipt of income jointly' is from the 'association of persons' carrying on business as partners, that association of persons is a general law partnership, and not a tax law partnership.
+Association of persons
+20. The reference in the GST Act definition of a partnership to an 'association of persons' means that there must be some link, connection, or existence of a mutual or common purpose between the persons.
+21. The term 'association' is not defined in the GST Act and therefore takes its ordinary meaning of: '
+1
+. an organisation of people with a common purpose and having a formal structure;
+5
+. connection or combination'.
+[16]
+22. In
+Kibby v. Registrar of Titles
+,
+[17]
+Mandie J stated:
+...the essence of an 'association' may be described as some form of combination of persons (with a common interest or purpose) with a degree of organisation and continuity at least sufficient to distinguish the combination from an amorphous or fluctuating group of individuals and with some clear criteria or method for the identification of its members.
+[18]
+23. In
+Yeung
+&
+Anor v. FC of T (Yeung
+),
+[19]
+Davies J took the view that:
+It is sufficient for the existence of a partnership as defined in sec.6(1) of the Act that the properties were owned by the six members of the family as tenants-in-common, that the leases were in the names of the six and, therefore that the rents were derived by the six.
+[20]
+24. Persons who are in receipt of income jointly are, therefore, an association of persons and a tax law partnership for GST purposes.
+Receipt of income
+25. A tax law partnership exists only if there is an association of persons 'in receipt of income jointly'. To be in receipt of income jointly, it is not necessary to have actually received the income. We consider that there is receipt of income jointly if there is a joint entitlement to income.
+26. In our view, the expression 'in receipt of' may be read broadly to include, not only the actual receipt of income, but also all the steps leading to the right or entitlement to that income.
+27. The expression 'in receipt of ordinary income...jointly' suggests that two or more persons have commenced an activity which gives rise to, or will give rise to, a right or entitlement to receive jointly an amount or payment of a revenue nature.
+28. The activity must have commenced. In
+Falstein v. Official Receiver
+,
+[21]
+Mr Falstein was in receipt of income from fees from the moment he commenced to earn the fees, notwithstanding that he had no legal right to sue for them. Dixon CJ, after referring to
+Nette v. Howarth
+,
+[22]
+said:
+It is, we think, of no consequence that, in New South Wales, a barrister has no legal right to sue at law for his fees, for a barrister who, in the course of his practice, is earning and receiving fees is, in the language of the section, just as much 'in receipt' of the resultant income as would be a person who, for his services, is, or will in the ordinary course, become entitled to be remunerated by salary or wages or by a share of business or trading profits. 'In receipt of' is, we think, descriptive of an existing and continuing state of affairs and, that being so, it is immaterial that the fees of a barrister are not legally recoverable.
+[23]
+29. We acknowledge that the decision in
+Falstein
+was reached in the context of the application of a provision of the
+Bankruptcy Act 1924-1959
+. However, we consider that the Court's views in relation to the meaning to be attributed to the term 'in receipt of' are relevant in determining whether, and from what time, a tax law partnership exists.
+Formation of a tax law partnership
+Time of association approach
+30. We consider that, for GST purposes, an association of persons in receipt of income jointly is a tax law partnership from the time that the persons jointly commence an activity from which the income is or will be received jointly. We refer to this as the 'time of association' approach.
+31. We take this view because we read the expression 'in receipt of income jointly' broadly to include all the steps leading to a joint right or entitlement to income. There must be a logical and timely progression between all the steps that lead to the joint right or entitlement to income. The time between each step must be reasonable having regard to the facts and circumstances of each case.
+32. For example, in the case where two or more co-owners jointly acquire vacant land for the purpose of constructing commercial premises for leasing, the acquisition of the vacant land may be the first step in a series of consecutive steps leading to the right or entitlement to rental income. The acquisition of the land, the engagement of surveyors and architects, the building of the premises, and the appointment of a property manager and the leasing of the premises under a lease agreement may be regarded as logical and progressive steps culminating in a joint right or entitlement to income. We accept that, in these circumstances, a tax law partnership exists from the time of the joint acquisition of the vacant land. However, if the land is left vacant for a considerable period of time, this may indicate that the activity from which income is to be derived jointly has not yet commenced.
+33. We consider that the 'time of association' approach allows for a practical and sensible approach to determining when a tax law partnership is formed, and in the application of the GST laws to transactions involving tax law partnerships. The approach allows the partnership to claim input tax credits on creditable acquisitions made in the commencement of its enterprise, for example at the time a property is acquired even though there has not yet been an actual receipt of income jointly.
+34. This approach accords with the approach taken by the European Court of Justice (ECJ) in
+Rompelman and Anor v. Minister van Financien
+[24]
+(Rompelman
+). In that case, a husband and wife who intended to lease two as yet uncompleted commercial property units as showrooms wanted to register and claim input tax credits on payments made during the construction phase. In its decision the Court stated:
+The principle that VAT should be neutral as regards the tax burden on a business requires that the first investment expenditure incurred for the purposes of and with the view to commencing a business must be regarded as an economic activity. It would be contrary to that principle if such an activity did not commence until the property was actually exploited, that is to say until it began to yield taxable income. Any other interpretation...would burden the trader with the cost of VAT in the course of his economic activity without allowing him to deduct it.
+[25]
+35. The time of association approach does not preclude the Tax Office from requiring proof that the preliminary steps are part of an activity that gives rise to or will give rise to receipt of income jointly. For example, the acquisition of property for the purpose of commercial exploitation may need to be supported by evidence that the property is purpose built for leasing as commercial premises.
+[26]
+Time of receipt of income approach
+36. An alternative view is that a tax law partnership is not formed until there is in existence at least a right or entitlement to income, for example upon the execution of a lease agreement. We refer to this as the 'time of receipt of income' approach.
+37. The practical effect of the 'time of receipt of income' approach would be to exclude something from being considered as an acquisition by an entity when it is acquired for the purpose of carrying on the enterprise prior to time of receipt of income. The acquisition of property or interests in property would be by the co-owners in their own right and not by the partnership. However, the enterprise that results in the receipt of income jointly may be carried on by the partnership.
+38. We do not consider it appropriate to confine the time of formation of a tax law partnership to the time of receipt of income jointly. Such an approach would give rise to the manifestly absurd result mentioned in paragraph 37 of this Ruling. Also, the approach is inconsistent with a fundamental purpose or object of the GST regime,
+[27]
+the broad meaning of 'carrying on an enterprise' in section 195-1 and the manner in which the GST Act applies to supplies and acquisitions made upon the formation of a general law partnership.
+Practical application of the time of association approach
+39. The practical application of the time of association approach depends on the facts and circumstances of each case. Circumstances in which an enterprise partnership may be formed include:
+•
+two or more entities jointly acquire property with the intention of carrying on an activity from which income will be received jointly;
+•
+an entity (new co-owner) purchases an interest in property from a co-owner (outgoing co-owner) and the new co-owner and the other co-owners intend to jointly carry on an activity from which income is or will be received jointly; and
+•
+co-owners agree to convert their property to an income producing purpose and intend to carry on an activity from which income will be received jointly.
+Joint acquisition of property
+40. Two or more entities may enter into a single agreement to purchase property for leasing purposes. The entering into of the agreement for the acquisition of the property is the initial step by those entities in jointly commencing, and, therefore, carrying on an enterprise. This step is the first of a series of steps resulting in the joint right or entitlement to income. In this situation, we accept that a tax law partnership exists from the time the entities enter into the agreement to acquire the property. The relevant association of persons exists from that time and not from the time that the property is actually leased.
+41. If the same co-owners purchase another income producing property, there is no new partnership. This is regardless of whether or not the co-owners hold identical interests in the new property. We take the view that there exists the same association of persons in receipt of income jointly.
+Example 1: formation of a tax law partnership - joint acquisition of income producing property
+42.
+Raymond and Julie, neither of whom are registered for GST, purchase an industrial shed as joint tenants, with the sole purpose of leasing it. The purchase is funded by joint borrowings
+.
+43.
+As Raymond and Julie act jointly in relation to the acquisition and leasing of the property, they are in a tax law partnership. The partnership is formed when Raymond and Julie enter into the agreement to acquire the industrial shed
+.
+Acquisition of an interest in property by a new co-owner
+44. A co-owner may sell an interest in property to a new co-owner. If the property continues to be leased, this will give rise to a new tax law partnership of the remaining co-owner and the new co-owner. If the new partnership carries on the enterprise, it is formed when the new co-owner enters into an agreement to acquire an interest in the income producing property.
+Example 2: formation of a new tax law partnership - acquisition of an interest in property by a new co-owner as a partner
+45.
+Kurt is a member of a syndicate formed to acquire and lease a small office complex. The syndicate comprises ten individuals, none of whom is registered for GST. A tax law partnership is registered for GST as it carries on the leasing enterprise
+.
+46.
+The rights and obligations of the syndicate members are governed by a syndicate agreement. One of the terms of the syndicate agreement is that the sale of any member's interest to a new investor can only be with the approval of the other members of the syndicate and that the new member must agree to be bound by the syndicate agreement
+.
+47.
+Rodney purchases Kurt's interest on those terms and becomes a member of the syndicate. A new enterprise partnership is formed when Rodney enters into the agreement to buy Kurt's interest in the property
+.
+Conversion of an existing property to an income producing use
+48. The co-owners of property may convert it from a private or other use not connected to an enterprise, to an income producing use. For example, a private residence may be converted to a suite of offices for leasing.
+49. If co-owners jointly apply or convert the property for an income producing purpose, the tax law partnership is formed when the co-owners agree to undertake the conversion of the property. The activities to convert the premises to an income producing use must commence within a reasonable period from the time of agreement. What is a reasonable time will depend on the facts and circumstances of each case.
+Example 3: formation of a tax law partnership - conversion of residential premises into offices for leasing
+50.
+Stephen and Joy own a house in which they live. When the area is rezoned commercial, they agree to convert the house into a suite of offices for leasing. Within a month of the agreement, they move out and apply to the local council for approval to convert the property into offices
+.
+51.
+Stephen and Joy act jointly in relation to the conversion of the property for leasing purposes. A tax law partnership is formed at the time Stephen and Joy agree to convert the house into offices for leasing. The application to the council is one of the initial steps in a series leading to a joint right or entitlement to income and is something done by Stephen and Joy as partners of the partnership
+.
+Tax law partnership as an entity
+52. The definition of 'entity' includes a partnership.
+[28]
+The moment a tax law partnership exists it is an entity for GST purposes. The GST Act treats the partnership as an entity separate from its partners.
+[29]
+Is an entity in a tax law partnership a 'partner' for GST purposes?
+53. We consider that an entity that is in a tax law partnership is a partner for the purposes of the GST Act, and has the capacity to make supplies and acquisitions as a partner.
+54. This view is supported by a number of judicial decisions. For example, in
+FC of T v. McDonald (McDonald
+),
+[30]
+Beaumont J said:
+It is true that, for the purposes of the Act, 'persons in receipt of income jointly' as well as persons carrying on business as partners, are deemed to be 'partners' (see the definition in s. 6(1)). Thus, if co-owners, who might not be partners under the general law, receive income jointly, they are treated as 'partners' for the purposes of the Act.
+[31]
+55. He further stated:
+In the present case, the respondent and his wife were joint tenants, legally and beneficially, of the subject premises. They were in receipt of income jointly from the lettings. By reason of the extended partnership definition, they were deemed to be 'partners' for the purposes of the statute.
+[32]
+56. In
+Tikva Investments Pty Ltd v. FC of T (Tikva
+),
+[33]
+Stephen J, in relation to the reference to a 'partner' in section 92 of the
+Income Tax Assessment Act 1936
+(ITAA 1936), commented:
+No doubt the reference to a 'partner' in sec. 92 is to be understood as referring to one of the persons associated together in the manner specified in the definition of 'partnership'.
+[34]
+57. In
+Tikva
+, Stephen J reached the conclusion that, by virtue of the taxpayer attaining the status of a member of an association of persons either carrying on business as partners or in receipt of income jointly, it became a partner within the meaning of section 92 of the ITAA 1936.
+58. We consider that the comments made by Beaumont J in
+McDonald
+and Stephen J in
+Tikva
+apply equally to entities that are in a tax law partnership.
+59. Some doubt has been expressed as to whether an entity in a tax law partnership can be regarded as a 'partner' for GST purposes. In particular, it has been suggested that the phrase 'as a partner' in subsection 184-5(1) is limited in its application to a partner in a general law partnership. We do not agree with this view.
+Is a tax law partnership capable of carrying on an enterprise?
+60. We consider that, as an entity for GST purposes,
+[35]
+a tax law partnership is capable of carrying on an enterprise.
+[36]
+Carrying on an enterprise includes doing anything in the course of the commencement or termination of an enterprise.
+[37]
+A tax law partnership may make supplies or acquisitions in carrying on its enterprise. Supplies and acquisitions made by or on behalf of a partner in the partnership as partners, are taken to be supplies and acquisitions made by the partnership.
+[38]
+In this Ruling, we refer to a tax law partnership that carries on an enterprise as an enterprise partnership.
+The circumstances in which a tax law partnership carries on an enterprise
+61. The question of whether a tax law partnership carries on an enterprise requires an objective evaluation of all the facts and circumstances of a case, including the conduct of the co-owners of the income producing property.
+62. The following factors may point to an enterprise being carried on by a tax law partnership, and not by each co-owner in their own right:
+•
+an oral or written agreement (for example, a syndicate agreement or agreement between family members) determines the mutual rights and obligations of the parties. The agreement may set out rules by which a co-owner might be admitted to a syndicate, or may indicate an intention to act for the mutual benefit of all family members. This agreement may be made before the acquisition of property (see
+Tikva
+[39]
+and
+FC of T v. Walsh (PJ and BJ)
+[40]
+(Walsh
+)), or it may be made later;
+•
+the income producing property is jointly acquired by the co-owners under a single contract (see
+McDonald,
+[41]
+Walsh
+[42]
+and
+Tikva
+);
+[43]
+•
+property is held by the co-owners as joint tenants;
+•
+the co-owners fund their acquisition of the income producing property out of joint borrowings or funds (see AAT Case 11,324,
+[44]
+Walsh
+,
+[45]
+and
+Cripps v. Federal Commissioner of Taxation
+);
+[46]
+•
+the joint activities of the co-owners of an income producing property are for their family's mutual benefit or the mutual benefit of all the co-owners (see
+Yeung
+[47]
+and
+MacDonald
+);
+[48]
+•
+the co-owners of the income producing property jointly appoint a manager or agent to manage the enterprise or one co-owner may act, with the authority of all the co-owners, on behalf of all the co-owners in managing the enterprise;
+•
+income from the income producing property is paid into a joint bank account of the co-owners;
+•
+expenses relating to the income producing property are paid from a joint bank account of the co-owners; and
+•
+the co-owners jointly pay all liabilities in relation to the income producing property.
+63. In all cases in which a tax law partnership carries on a leasing enterprise, the enterprise involves the interests of all the co-owners of the income producing property.
+The circumstances in which a tax law partnership does not carry on an enterprise
+64. The fact that a tax law partnership exists does not necessarily mean that in every case it is the partnership that carries on an enterprise.
+65. In some cases, an objective evaluation of all the facts and circumstances may lead to a conclusion that an enterprise is carried on by each co-owner and not by a tax law partnership.
+66. The following factors may point to an enterprise being carried on by each co-owner in their own right,
+[49]
+and not by a tax law partnership:
+•
+the co-owner is registered for GST in its own right in relation to a broader enterprise and acquires an interest in property in carrying on that enterprise;
+•
+there is an agreement between the co-owners not to form a partnership nor to jointly carry on an enterprise;
+•
+each co-owner makes independent decisions with regard to the acquisition of an interest in income producing property;
+•
+each co-owner's acquisition of their interest in property is made separately;
+•
+any borrowings by a co-owner are to fund the acquisition of their interest in the income producing property only; the co-owners do not fund the acquisition of each of their interests out of joint funds or borrowings;
+•
+the co-owners act independently of each other in making decisions about their respective investments;
+•
+each co-owner acts independently with respect to the appointment of a manager or agent, even though the same manager or agent is usually appointed to act on behalf of all the co-owners;
+•
+the gross rental income may be paid into a single trust account operated by a property manager or agent and operating expenses may be met from this trust account. The income is not paid into and the expenses are not paid out of a joint bank account in the name of the co-owners;
+•
+the manager or agent accounts to each co-owner separately, both in respect of income and outgoings and will distribute net rental income from the trust account to the co-owners on a regular basis;
+•
+each co-owner does not act for the mutual benefit or on behalf of the other co-owners and is primarily concerned with securing an enhanced value or return on their investment;
+•
+property is held as tenants in common, rather than as joint tenants; and
+•
+although contributing to a mutual fund to pay all liabilities in relation to the income producing property, each co-owner makes the payment in the course of carrying on their own enterprise.
+67. We take the view that it is not possible for each co-owner of an income producing property and a tax law partnership to carry on an enterprise in relation to the same property at the same time.
+Single lease agreement
+68. The fact that a single lease agreement is executed by all the co-owners, and that the lessee pays a single rental amount are further factors that need to be considered and weighed in the context of all the evidence in determining which entity carries on the enterprise. The presence of a single lease agreement and a single lease amount is not decisive of an enterprise being carried on by a tax law partnership.
+69. The execution of a lease agreement is one step (and not necessarily the first step) of several constituting a leasing enterprise carried on by each co-owner
+[50]
+or by all the co-owners as partners of a tax law partnership.
+70. While the factors mentioned in paragraphs 62, 66 and 68 of this Ruling are relevant, they are not exhaustive. Neither the existence nor the absence of any one factor is conclusive one way or the other. The scale of the enterprise, the number of co-owners of each property, the number of properties involved or the value of the property or properties being exploited are also not necessarily determinative of whether the enterprise is being carried on by a partnership or by the co-owners in their own right. It is the overall weight of evidence that is important, and the individual weighting of each factor will depend on the circumstances of each case.
+71. We consider that, in any particular case, a preponderance of the factors mentioned in paragraph 62 of this Ruling would lead to a conclusion that the partnership and not each co-owner, carries on the enterprise.
+[51]
+72. However, a preponderance of the factors mentioned in paragraph 66 of this Ruling would lead to a conclusion that an enterprise is carried on by each co-owner in their own right in respect of their interest in an income producing property. In these cases, we take the view that, although a tax law partnership may exist, it does not carry on any enterprise in relation to the property.
+Example 4: co-owner carrying on an enterprise in respect of its interest in a property - single lease agreement
+73.
+Xena Pty Ltd (Xena) owns a number of commercial properties that are leased. It is registered for GST in relation to the enterprise it carries on
+.
+74.
+Xena decides to increase its investment property portfolio. It contracts with Fishmongers Building Ltd (Fishmongers) to acquire the latter's 50% interest in an office complex. Xena acquires the interest as a tenant in common out of its own funds
+.
+75.
+The property is leased to a legal firm under a single lease agreement. Xena acquires its interest in the property subject to the lease
+.
+76.
+Following the purchase of the property, Xena and the other co-owner, Russell Properties Ltd (Russell) negotiate a co-owners' agreement. This agreement sets out administrative processes such as budget approval, dispute resolution and when to commit funds for refurbishment. Xena appoints the existing manager, Office Properties Management Ltd (Office Properties) to manage its interest in the property
+.
+77.
+The lessee pays a single rental amount to the manager. The manager pays ongoing property expenses from this fund, and accounts to each of Xena and Russell separately for their respective interest in the balance
+.
+78.
+In this case, as there is receipt of income jointly, Xena and Russell are in a tax law partnership
+.
+79.
+The acquisition of Xena's interest in the property is made independently using its own funds. In carrying on its own leasing enterprise, Xena negotiates with Russell as an independent entity, and meets only its own share of the total liabilities in relation to the property. The presence and weight of these factors indicates that a leasing enterprise is carried on by Xena (and similarly by Russell), and not by a tax law partnership. The leasing enterprise in relation to this property is part of the broader enterprise that Xena carries on
+.
+80.
+The fact that a single lease agreement is executed by both Xena and Russell and that they have a co-owners' agreement that sets out administrative processes in relation to the property is not sufficient to outweigh the factors that point to Xena carrying on an enterprise in its own right in relation to this property
+.
+Tax law partnerships involving family members
+81. The acquisition of property for income producing purposes by family members is ordinarily made by them under an arrangement or agreement. The acquisition is often made by them as joint tenants out of joint funds or borrowings, and under a single contract. The property is usually acquired for the mutual benefit of all the family members, including any children.
+[52]
+82. The appointment of an agent or manager to manage the leasing of the property is a joint decision of all members, or by one member acting on behalf of and with the express or implied authority of the other members. Frequently, the person managing the property is a family member. Rental income is deposited into a joint bank account. Outgoings in relation to the property are also paid out of the same account.
+83. A case where these features were present is
+McDonald
+.
+[53]
+In that case, a husband and wife entered into an agreement to invest in income producing properties; they borrowed funds to finance the purchase, the properties were purchased as joint tenants, and the income was paid into a joint bank account from which outgoings were also paid.
+84. In our view, the weight of factors present in these types of cases means that the leasing enterprise is carried on by a tax law partnership.
+Example 5: partnership carrying on the enterprise - family members
+85.
+Sheleigh and Danny purchase a large industrial shed which is leased to a retailer. As husband and wife, they purchase the property as joint tenants out of joint borrowings. Sheleigh manages the property on behalf of both herself and Danny
+.
+86.
+The rental income is banked into, and rental outgoings are paid out of, Sheleigh and Danny's joint bank account
+87.
+Sheleigh and Danny are in a tax law partnership as they are in receipt of income jointly
+.
+88.
+The acquisition of the property is made as joint tenants under a single contract and out of joint borrowings. Sheleigh manages the property on behalf of both herself and Danny. The rental income is banked into and expenses are paid out of the joint bank account. The weight of these factors indicates that the leasing enterprise is carried on by the tax law partnership
+.
+Tax law partnerships involving property syndicates
+89. In cases involving property syndicates, a syndicate agreement normally determines the rights and obligations of each syndicate member. Each member (and any new member) is bound by the terms and conditions of that agreement. The acquisition of the property is under a single agreement and a manager is appointed by the syndicate to manage the leasing of the property. The manager, on behalf of the syndicate, receives the rental income. Any outgoings are regarded as the outgoings of the syndicate and not of each syndicate member in their own right.
+90. This type of arrangement existed in
+Tikva
+. The co-owners of the property had a syndicate agreement that contained 'what was described as the constitution and rules'.
+[54]
+The agreement contained such matters as how the property would be held (that is, as tenants in common), the purpose of the syndicate, liability for outgoings, the management of the syndicate, the circumstances in which any syndicate member was entitled to occupy any part of the property, and when the syndicate was to be dissolved.
+[55]
+91. The weight of factors present in these types of cases also means that the leasing enterprise is carried on by a tax law partnership, notwithstanding the fact that the property may be held as tenants in common.
+Example 6: partnership carrying on the enterprise - property syndicate
+92.
+Nick, Jan, Meryl and Mathew decide to purchase a commercial property known as Pandavest for leasing purposes. They enter into a syndicate agreement that sets out their mutual rights and obligations. Once the syndicate agreement is finalised, the syndicate members enter into a contract for the purchase of the property. Upon purchase, the property is held by Nick, Jan, Meryl and Mathew as tenants in common
+.
+93.
+The syndicate appoints Lease Time Managers Ltd (Lease Time) to manage their investment. Lease Time opens a special account in the name of the syndicate out of which all the outgoings in relation to the property are paid. The property is leased to a firm of accountants who pay the monthly lease payments directly into that account
+.
+94.
+The members of the syndicate are in a tax law partnership as they are in receipt of income jointly
+.
+95.
+The fact that there is a syndicate agreement that determines the rights and obligations of each member, that the property is jointly acquired by them, and that they jointly appoint Lease Time to manage the property means that, for GST purposes, the tax law partnership carries on the leasing enterprise. The mere fact that the property is held by the syndicate members as tenants in common does not result in a different conclusion
+.
+Tax law partnerships involving co-owners converting property to an income producing use
+96. If co-owned property is converted from a non-income producing use (that is, a use which is unconnected with any enterprise being carried on) to an income producing use, the agreement is required of all the co-owners to undertake the activities necessary to effect the conversion. These activities are undertaken jointly by all the co-owners or by one co-owner on behalf of and with the authority of all the co-owners.
+97. Activities that are done in the commencement of the enterprise of the partnership in these circumstances include:
+•
+making of an application by the co-owners to the local council for rezoning of real property from residential to commercial;
+•
+seeking local government or state government planning authority approval to commence the necessary building works;
+•
+the appointment of building contractors to carry out the works;
+•
+making an application for finance to fund the building works;
+•
+commencing refurbishment work to convert premises to make them suitable for leasing, for example, work to convert residential premises into a suite of offices; or
+•
+placing the premises with a real estate agent to manage as a leased property.
+98. We take the view that the weight of factors present in these cases would also lead to a conclusion that the enterprise is carried on by a tax law partnership.
+Does an enterprise partnership have capital or assets?
+99. We consider that, for GST purposes, an enterprise partnership can have assets and liabilities. Things that are acquired by partners, as partners, in an enterprise partnership, are acquisitions of the partnership. Those things can become assets of the partnership.
+100. Our view that a tax law partnership can have partnership assets relies in part on comments made by Fitzgerald J in
+Walsh
+.
+[56]
+In that case, his Honour in his comments in relation to whether or not there was a partnership under the second limb of the definition of a partnership in subsection 6(1) of the ITAA 1936, said:
+The other basis upon which the Commissioner contended that, for income tax purposes, a partnership existed between Syncarpia and the other two companies was that they were in receipt of income jointly.
+...The only income which might have been received jointly by Syncarpia and its co-venturers for present purposes is the profit arising from the sale: sec.26(a) and 26AAA of the Act.
+The only asset of any such partnership was again the land. Again the partners held the legal title to the land as tenants in common. There is nothing in the Act of which I am aware which attributes to such a notional partnership for income tax purposes any of the consequences of a true partnership under the general law. Each of the partners accordingly also held the beneficial title to its interest in the land as a tenant in common.
+...The partnership, or at least the partners, sold the land. The partners paid off their joint debts and were left with the profit.
+[57]
+101. Fitzgerald J's reasoning is not conclusive as to whether, in a GST context, acquisitions made by partners of a tax law partnership as partners can be treated as acquisitions of the partnership. However, it is consistent with the operation of subsection 184-5(1), which removes any doubt about the status for GST purposes of supplies or acquisitions made by or on behalf of partners in their capacity as partners. Paragraphs 114 to 116 of this Ruling discuss the application of this subsection.
+102. In an Administrative Appeals Tribunal (AAT) case,
+Case 12/95; AAT Case 10,079
+,
+[58]
+the Tribunal said:
+...the deeming provisions are required by their nature to be construed strictly and only for the purpose for which they are resorted to and it is improper to extend by implication the express application of such a statutory fiction. This fiction does not, in our opinion, cloak an arrangement of the kind now being contemplated with the additional refinements of partnership assets and liabilities and partners' capital accounts. On that basis the tribunal finds that there are no partnership assets or liabilities nor are there capital accounts capable of being accessed by the applicant or his spouse. What remains is a relationship of co-ownership as joint tenants which is more accurately described as an investment rather than as partners in a business operation. For these reasons the tribunal concludes that the argument of the bank loan being used to replace portion of the capital accounts of the partners is not available to the applicant.
+[59]
+103. We agree with the Tribunal's view that a tax law partnership does not have capital. We further take the view that partners in a tax law partnership have neither interests in the capital of a partnership, nor interests in the partnership. The only interest that a partner in a tax law partnership has is an interest in the property, coupled with a right to a share of the net income or losses in accordance with that interest.
+104. On this basis, we take the view that a supply of a financial interest under item 10(d) of subregulation 40-5.09(3), does not arise in situations involving tax law partnerships.
+105. We consider that the comments made by Fitzgerald J in
+Walsh
+add support to the view that a tax law partnership can have assets.
+106. Our view is also supported by the reference by Stephen J in
+Tikva
+[60]
+to the partnership being represented by the syndicate and to the original purchasers being entitled to the 'same undivided fractional interest in the syndicate's assets, including the Mullaloo land'.
+[61]
+107. The view that an enterprise partnership can have assets is a logical extension of our view that the partnership, as an entity for GST purposes, and having regard to subsection 184-5(1), can make supplies and acquisitions. A thing that is acquired by a partner as a partner and that is taken to be an acquisition made by the partnership, is an asset of the partnership.
+108. As explained in paragraph 49 of this Ruling we take the view that if a co-owned property is converted from a non-income producing use to an income producing use, a tax law partnership is formed when the co-owners enter into the agreement to convert the property. In these cases, the property becomes an asset of the partnership when the partnership is formed and the asset commences to be used for the purposes of the enterprise of the partnership. Any subsequent supply of the property or an interest in the property, is a supply by the partnership.
+GST consequences for an enterprise partnership
+Registration
+109. An enterprise partnership may register for GST. It is required to register if it meets the registration turnover threshold.
+[62]
+The registration turnover threshold is $75,000 (as specified in the GST regulations).
+[63]
+A tax law partnership that does not carry on an enterprise cannot be registered for GST.
+110. The partners of an enterprise partnership cannot register for GST, nor can they acquire an ABN in relation to the enterprise carried on by the partnership. However, they may be registered in relation to a separate enterprise that they carry on in their own right.
+111. An enterprise partnership may be registered from a particular date.
+[64]
+The partnership commences to carry on an enterprise from the time of its formation. It may, therefore, be registered for GST effective from:
+•
+the date of the agreement to purchase the property;
+•
+the time when the co-owners enter into an agreement to apply or convert the property for an income producing purpose; or
+•
+the time that the new co-owner enters into a contract to purchase an interest in the property as a partner in a new enterprise partnership.
+112. In the event that a registered partnership's activities do not proceed beyond the commencement stage, there is a cessation of the enterprise. This may occur, for example, if:
+•
+the contract to purchase the asset is not settled; or
+•
+the property becomes unsuitable for its commercial purpose and is not used for income producing purposes.
+113. If cessation of the enterprise occurs, the partnership must apply for the cancellation of its registration.
+[65]
+Cancellation of registration is explained in paragraph 227 of this Ruling.
+Supplies and acquisitions as partners
+114. As explained in paragraphs 53 to 59 of this Ruling, we take the view that entities that are in a tax law partnership are partners and are capable of acting in their capacity as partners. If a tax law partnership carries on an enterprise, supplies or acquisitions made by, or on behalf of, partners in a tax law partnership in their capacities as partners are taken, under subsection 184-5(1), to be supplies or acquisitions made by the partnership.
+115. Subsection 184-5(1) provides that:
+For the avoidance of doubt, a supply, acquisition or importation made by or on behalf of a partner of a partnership in his or her capacity as a partner:
+(a)
+is taken to be a supply, acquisition or importation made by the partnership; and
+(b)
+is not taken to be a supply, acquisition or importation made by that partner or any other partner of the partnership.
+116. Subsection 184-5(1) is a provision for the avoidance of doubt. It seeks to confirm the position that only the transactions entered into by a partner in the capacity of a partner are transactions of the partnership.
+Operation of an enterprise partnership
+117. A registered partnership has all the rights and obligations under the GST Act that apply to entities generally. It may make supplies that are taxable, input taxed or GST-free, and is liable for GST on taxable supplies that it makes.
+[66]
+The partnership is also entitled to input tax credits for creditable acquisitions that it makes, if the requirements of section 11-5 are met.
+[67]
+Acquisitions and supplies made by an enterprise partnership
+118. If an enterprise partnership is formed when two or more entities enter into a contract to acquire an income producing property, the acquisitions of the property and any conveyancing services required for that acquisition are made by the partnership in the course of the commencement of its enterprise. The partnership is entitled to claim input tax credits for these acquisitions if they are creditable acquisitions under section 11-5.
+Example 7: creditable acquisitions made by an enterprise partnership in commencing its enterprise
+119.
+Shauna and George jointly acquire a commercial property to lease out for a nightclub business. They are in a tax law partnership that is registered for GST. Shauna and George acquire the conveyancing services of Settle It and Associates, Solicitors (Settle It) to make the acquisition. The supply of the property and of the conveyancing services are taxable supplies
+.
+120.
+The acquisitions of the property and the services of Settle It are made by Shauna and George as partners, and are therefore made by the partnership. As the requirements of section 11-5 are met, they are creditable acquisitions made by the partnership. The partnership is entitled to input tax credits for these creditable acquisitions it makes in commencing the leasing enterprise
+.
+121. An enterprise partnership is also entitled to input tax credits for any other creditable acquisitions it makes in carrying on its enterprise. For example, the partnership may purchase furniture for the premises, pay for letting fees and other outgoings, and may undertake capital improvements on the property.
+Example 8: creditable acquisition made by an enterprise partnership in carrying on its enterprise
+122.
+Following from Example 7: Shauna and George as partners purchase some air conditioning units for installation in the property. They also acquire the services of Freeze It Enterprises Ltd (Freeze It) to do the installations. The supplies of the air conditioning units and the installation services of Freeze It are taxable supplies to the partnership
+.
+123.
+The acquisitions of the air conditioning units and the installation services are creditable acquisitions made by the partnership as the requirements of section 11-5 are met. The partnership is entitled to input tax credits for the acquisitions
+.
+124. An enterprise partnership is liable for GST on any taxable supplies it makes. For example, in addition to the supply of premises by way of a lease, the partnership may refurbish the property and sell the old furniture. The sale of the furniture is a supply in the course or furtherance of the partnership's enterprise and is a taxable supply if the requirements of section 9-5 are met.
+Example 9: taxable supply made by an enterprise partnership
+125.
+Following from Example 7: The partnership of Shauna and George lease the property to Nightclubbers Ltd (Nightclubbers), which fits out the building and operates it as a nightclub
+.
+126.
+The partnership makes a taxable supply to Nightclubbers and is liable for GST on the supply
+.
+Supplies by a partner to an enterprise partnership
+127. A partner may make a supply in their own right to an enterprise partnership in which they are a partner. The supply is a taxable supply if it meets the requirements of section 9-5.
+Example 10: taxable supply made by a partner to an enterprise partnership
+128.
+Alistair and Abigail jointly purchase a commercial property to lease out. They are in a tax law partnership which carries on a leasing enterprise. The partnership is registered for GST, effective from the date on which Alistair and Abigail enter into the agreement to buy the property
+.
+129.
+Alistair carries on his own enterprise as a solicitor and is registered for GST. Alistair does the conveyancing for the acquisition of the property in the course of carrying on his own enterprise as a solicitor and charges the partnership
+.
+130.
+Alistair makes a taxable supply to the partnership as the requirements of section 9-5 are met
+.
+131.
+The acquisition of the conveyancing services is a creditable acquisition made by the partnership. The partnership is entitled to an input tax credit for this acquisition
+.
+Supplies by an enterprise partnership to a partner
+132. During its operation, a registered partnership may make supplies to a partner that are taxable. The supply is a taxable supply if it satisfies the requirements of section 9-5. The partnership may also make supplies that are GST-free or input taxed.
+Example 11: taxable supply made by an enterprise partnership to a partner
+133.
+Edward and Claudia are co-owners of leased industrial sheds. The tax law partnership of Edward and Claudia carries on the leasing enterprise and is registered for GST
+.
+134.
+Edward is also registered for GST as a sole trader. He uses one of the sheds for storing his inventory and pays rent to the partnership at the market rate
+.
+135.
+The partnership makes a taxable supply of the use of the shed to Edward and is liable for GST. Edward makes a creditable acquisition of the use of the shed and is entitled to an input tax credit for this acquisition
+.
+The application of Division 72
+136. Division 72 ensures that supplies to, and acquisitions from, associates without consideration are brought within the GST system, and that supplies to associates for inadequate consideration are properly valued for GST purposes.
+[68]
+As a partnership and its partners are associates under the GST Act,
+[69]
+Division 72 may apply to supplies between an enterprise partnership and its partners.
+137. Subdivision 72-A may apply to a supply made between a partnership and its partners if the supply is without consideration.
+[70]
+A requirement is that the supply would have been a taxable supply but for the fact that the supply was for no consideration. The Subdivision will not apply if the acquirer is both registered and makes the acquisition for a solely creditable purpose.
+[71]
+138. Subdivision 72-C may apply to a supply made between a partnership and its partners if the consideration for the supply is inadequate.
+[72]
+The subdivision does not apply if the recipient is both registered and makes the acquisition solely for a creditable purpose.
+139. If Division 72 applies to a supply that is made without consideration, or for inadequate consideration, the value of the supply is its GST exclusive market value.
+[73]
+Example 12: supply without consideration - creditable purpose
+140.
+Charlotte and Giles own a shop that is leased. They are in a tax law partnership that is registered for GST. Giles, who carries on his own enterprise as a carpet retailer, is also registered for GST
+.
+141.
+Giles supplies new carpets for the shop, but does not charge the partnership. The supply by Giles is a normal incident of the enterprise that he carries on and is a supply in the course or furtherance of his own enterprise
+.
+142.
+The supply by Giles would be a taxable supply to the partnership under section 9-5 except that there is no consideration. However, Subdivision 72-A does not apply because the acquisition is both by a registered entity and solely for a creditable purpose
+.
+Example 13: supply for inadequate consideration - no creditable purpose
+143.
+From Example 12: The shop that Charlotte and Giles own also has a cellar that the lessee does not require. Charlotte and Giles actively seek a tenant for the cellar. While they seek a tenant, the partnership allows Giles to store furniture and a large amount of other household effects in the cellar on condition that the cellar is vacated when a tenant is found. Giles uses the cellar for ten weeks and pays the partnership $11.00 a week (which pays only the estimated costs of rates and other expenses
+).
+144.
+The supply of the use of the cellar is made in the course or furtherance of the enterprise that the partnership carries on. It would be a taxable supply, but for inadequate consideration. Although Giles is registered in relation to his enterprise of carpet retailer, the use of the cellar is not for a creditable purpose. Subdivision 72-C applies so that the partnership pays GST on the GST exclusive market value of the cellar
+.
+145.
+The market rent for the use of the cellar under the ad hoc arrangement with Giles is $55.00. The partnership is liable for GST of $50 based on the GST inclusive market value of the supply of $550, rather than the $110 paid by Giles
+.
+146. A view expressed in relation to Example 13 is that, to the extent of the use of the property for a private (non-creditable) purpose, there is no receipt of income jointly and, therefore, no tax law partnership. On this basis it is suggested that Division 72 is of limited application to an enterprise partnership if there is a use of the income producing property by the co-owners for a non-creditable purpose.
+147. Alternatively, it is suggested that Division 129,
+[74]
+and not Division 72, is the more appropriate Division that applies.
+148. Whether Division 72 or Division 129 applies in a particular case depends on the facts and circumstances of each case.
+149. We take the view that if a property is acquired for the purposes of carrying on a leasing enterprise, the fact that a part of that property is temporarily applied for a private (non-creditable) purpose does not negate the existence of a tax law partnership in relation to that part. We consider that the whole property is an asset of the partnership. The temporary use of a part of the property for private purposes is as a consequence of a supply made in the course or furtherance of the partnership's enterprise. If the supply is for nil or inadequate consideration, Division 72 applies.
+150. However, if the property or a part of the property is applied for a private purpose on a permanent basis, the property, or that part, ceases to be used for income producing purposes and ceases to be an asset of the partnership. The application of the property, or a part, for private purposes may not be a supply in the course or furtherance of the partnership's enterprise. In this case, an adjustment under Division 129 may be more appropriate.
+151. Alternatively, if the application of the property for private purposes leads to the termination of the partnership (on the basis that there is no longer any receipt of income jointly), an increasing adjustment under Division 138 may be required upon cancellation of the partnership's registration.
+Acquisition by an enterprise partnership partly for a creditable purpose
+152. If an enterprise partnership acquires goods or services that have an intended use that is partly for private or domestic purposes and partly in carrying on the partnership's enterprise, the acquisition is partly for a creditable purpose. The partnership needs to apportion its claim for an input tax credit under section 11-30 to the extent that the acquisition is for a creditable purpose.
+Example 14: acquisition partly for a creditable purpose
+153.
+Sharon and Keith are co- owners of commercial premises that are fully leased. The tax law partnership of Sharon and Keith carries on the leasing enterprise and is registered for GST. Neither Sharon nor Keith is registered for GST
+.
+154.
+In their capacities as partners of the partnership, they jointly buy a computer for $2
+,
+200, partly to record rent receipts and expenses in relation to the premises and partly for private use. They estimate that the private use will be 40%
+.
+155.
+The acquisition of the computer is by the partnership and is partly for a creditable purpose. The partnership needs to apportion its claim for an input tax credit between the creditable purpose and the private purpose
+.
+156.
+The partnership is entitled to claim 60% of the input tax credits in relation to the acquisition, that is $120 (60% of $200) as this is the extent to which it is acquired for a creditable purpose
+.
+Changes in creditable purpose
+157. A supply by a partnership to a partner is an application by the partnership of a thing it acquired. Section 129-55 sets out the meaning of 'apply' as follows:
+Apply, in relation to a thing acquired or imported includes:
+(a)
+supply the thing; and
+(b)
+consume, dispose of or destroy the thing; and
+(c)
+allow another entity to consume, dispose of or destroy the thing.
+158. If an enterprise partnership allows a partner to use a thing that it acquired in carrying on its enterprise for a private or domestic purpose, the partnership applies the thing within the meaning of section 129-55.
+159. As the application is of a private or domestic nature, there is a change in the extent of creditable purpose for the acquisition by the partnership. The partnership may need to make an adjustment under either Division 129 or, if goods are applied solely to the private or domestic use, Division 130.
+Division 129
+160. Division 129 applies if, for an acquisition, there is a change in the extent of creditable purpose. The change occurs if the actual application of the thing acquired is greater or less than its intended application for a creditable purpose. If the actual application for a creditable purpose is less than its intended application, the partnership may have an increasing adjustment for the adjustment period
+[75]
+for the acquisition. If the actual application for a creditable purpose is greater than its intended application, the partnership may have a decreasing adjustment for the adjustment period for the acquisition.
+Example 15: adjustment for change in creditable purpose
+161.
+Following from Example 14: Sharon and Keith subsequently realise that the use of the computer for private purposes is not 40% but 70%.
+162.
+The partnership has an increasing adjustment under Division 129 to reflect the change in creditable purpose from 60% to 30% in the first adjustment period. The amount of the adjustment is $60 ((60%-30%) of $200).
+Division 130
+163. If an enterprise partnership acquired goods solely for a creditable purpose, but subsequently applies those goods solely to a private or domestic use, the partnership has an increasing adjustment under Division 130. Division 130 does not apply if the goods were previously applied for a creditable purpose, or if the partnership previously had an adjustment under Division 129 for the acquisition.
+164. For the purposes of Division 130, it is the private or domestic use by the partnership that is relevant. We consider that if goods are removed by a partnership for private consumption by a partner, there is an application solely to private or domestic use by the partnership. This application by the partnership does not involve a supply made in the course or furtherance of the partnership's enterprise.
+[76]
+Example 16: adjustment for goods applied solely to private or domestic use
+165.
+Kate and Joni are co-owners of office premises that are leased. The tax law partnership of Kate and Joni carries on the leasing enterprise and is registered for GST. Some of the offices are leased on a furnished basis
+.
+166.
+Kate and Joni decide to replace some of the furniture in these offices and as partners purchase new furniture for this purpose. The new furniture is held in storage until it can be moved into the offices
+.
+167.
+As the new furniture is acquired solely for a creditable purpose, the partnership claims input tax credits for the creditable acquisition. Prior to any of the new furniture being moved to the offices, the partnership allows Kate to take some of it for use in her home
+.
+168.
+In doing this, the partnership applies the new furniture that Kate takes home solely to a private or domestic use. The partnership has an increasing adjustment equal to the amount of the input tax credits to which it was entitled on the acquisition of the new furniture that Kate takes home
+.
+Reimbursements
+169. A partner making an acquisition in relation to the enterprise of a tax law partnership ordinarily makes it in the capacity as partner. However, partners may incur expenses that are directly related to their activities as partners of the partnership but not actually incurred in their capacities as partners. An example is a partner paying parking fees while attending at the offices of their leasing manager.
+170. If the partnership reimburses the partner for the expense, under Division 111, the reimbursement is treated as consideration for an acquisition that the partnership makes from the partner.
+[77]
+This Division allows registered entities to claim input tax credits on certain acquisitions made by their employees, agents, officers or partners if such expenses are reimbursed. A registered partnership is entitled to an input tax credit if the requirements of Division 111 are met.
+171. One of the requirements of this Division is that the supply to the partner must be a taxable supply.
+[78]
+The partner must provide the partnership with the tax invoice (except where the value is $75 or less) it obtained for the supply, as the partnership may claim an input tax credit only if it holds this tax invoice.
+[79]
+172. If a partner makes an acquisition and is acting in the capacity as a partner of the partnership, the acquisition is taken to be by the partnership.
+[80]
+The question of reimbursements in this instance does not arise.
+[81]
+The supply of a going concern
+173. In paragraphs 61 to 98 of this Ruling we explain the circumstances in which a tax law partnership carries on an enterprise and the circumstances in which each co-owner carries on an enterprise in their own right in respect of their individual interest in an income producing property.
+174. In paragraph 63 of this Ruling we express our view that in all cases in which a tax law partnership carries on a leasing enterprise, that enterprise involves the interests of all the co-owners.
+175. If the property or an interest in the property is sold, the supply of that property or the interest in the property may be a taxable supply if the requirements of section 9-5 are met, or may be the supply of a GST-free going concern if the requirements of section 38-325 are met.
+[82]
+Supply of all the interests in the income producing property
+176. We consider that an enterprise partnership can make a supply of a going concern.
+[83]
+The partnership makes a supply of a going concern under subsection 38-325(2) if the supply is made under an arrangement under which:
+•
+the partnership supplies to the recipient all of the things necessary for the continued operation of an enterprise; and
+•
+the partnership carries on or will carry on the enterprise until the day of the supply.
+177. A supply by an enterprise partnership of all the interests in leased property, that is, all the co-owners as partners sell their respective interests in the leased property, may be the supply of all things necessary for the continued operation of the enterprise.
+[84]
+178. This is because the purchaser acquires a reversionary interest, that is, the property subject to the rights and obligations pursuant to the existing lease. If the leased property is subject to a management agreement and the supply of rights under such an agreement is necessary for the continued operation of the enterprise, the partnership will have supplied all the things necessary for the continued operation of a leasing enterprise if there is a supply of all the interests in the leased property and a supply of the rights under the management agreement by assignment or novation.
+179. Paragraph 38-325(2)(b) requires that the supplier carries on, or will carry on, the enterprise until the day of the supply (whether or not as part of a larger enterprise carried on by the supplier).
+180. We consider that, in relation to leased property, a tax law partnership that supplies all the interests in leased property carries on the leasing enterprise in relation to the property until the day of the supply.
+181. The supply of a going concern is GST-free if the requirements of subsection 38-325(1) are met. Those requirements are:
+•
+the supply is for consideration; and
+•
+the recipient of the supply is registered or required to be registered; and
+•
+the supplier and the recipient have agreed in writing that the supply is of a going concern.
+182. If there is a GST-free supply of a going concern, the purchaser is not entitled to input tax credits for the acquisition that they make.
+Supply of an interest in the income producing property
+183. For GST purposes, a sale of a co-owner's interest in property may be a supply by either an enterprise partnership or by a co-owner that carries on a leasing enterprise in its own right.
+[85]
+For the supply of an interest in leased property to be capable of being the supply of a going concern, an enterprise must be carried on in relation to that interest.
+184. We accept that a leasing enterprise can be carried on, and that an enterprise partnership can carry on that enterprise, in relation to each co-owner's interest in the leased property, as part of a larger enterprise involving all the interests.
+185. This view accords with property law. Under property law, one co-owner, whether as a tenant in common or a joint tenant, may grant a lease of their interest in property.
+[86]
+This grant of a lease is binding on the other co-owners unless it interferes with their own rights of occupation, or other rights of enjoyment of the property. In addition, the other co-owners may not interfere with the lessee's rights of occupation granted under the lease.
+[87]
+186. Also, under property law, it is the co-owner that sells an interest in the property, regardless of whether the interest is held as a tenant in common or as a joint tenant.
+[88]
+A tenant in common has a right to sell, transfer, gift or deal in an interest in a property without reference to the other tenants in common.
+[89]
+A joint tenant may also sell an interest in a property, resulting in the severance of the joint tenancy.
+[90]
+If an interest in a property is sold to a third party, the new co-owner becomes a tenant in common with the other co-owners, even if some of the other co-owners remain joint tenants.
+187. We consider that the supply of an interest in leased property is the supply of all things necessary for the continued operation of an enterprise. This is because the purchaser acquires a reversionary interest, that is, the interest in the property subject to the rights and obligations pursuant to the existing lease. If the leased property is subject to a management agreement and the supply of rights under such an agreement is necessary for the continued operation of the enterprise, the partnership will have supplied all the things necessary for the continued operation of a leasing enterprise if there is a supply of that interest and the rights under the management agreement by assignment or novation.
+188. Paragraph 38-325(2)(b) requires that the supplier carries on, or will carry on, the enterprise until the day of the supply (whether or not as part of a larger enterprise carried on by the supplier). We consider that if property is used in a leasing enterprise at the time of the supply, the enterprise partnership, as the supplier of the interest, carries on an enterprise in relation to that interest until the day of the supply.
+189. The supply by an enterprise partnership of an interest in an income producing property is GST-free as the supply of a going concern if it meets the requirements of subsection 38-325(1).
+190. An enterprise partnership may make the supply of a going concern to another partnership comprising some of the same partners as the partnership making the supply.
+[91]
+Example 17: supply that is a GST-free supply of a going concern - supply by an enterprise partnership of an entire leased commercial property
+191.
+The trustees of the Melinda Family Trust and the Karen Family Trust are co-owners of an office complex. The offices are leased to a number of tenants. Each trustee has a 50% interest in the property. The tax law partnership of the two family trusts is registered for GST as it carries on the leasing enterprise
+.
+192.
+The partners agree to jointly sell the complex to Office Buildings Enterprises Ltd (Office Buildings), a company that carries on an enterprise of property development and leasing. It is registered for GST purposes. The partners and Office Buildings agree in writing that the sale is a supply of a going concern by the partnership
+.
+193.
+The partnership makes the supply of the property with the leases in place. The partnership therefore supplies to Office Buildings all things necessary for the continued operation of a leasing enterprise. The partnership carries on the leasing enterprise until the day of the supply of the complex to Office Buildings. The supply of the complex by the partnership to Office Buildings is the supply of a going concern
+.
+194.
+The requirements of subsection 38-325(1) are satisfied as the supply is for consideration, the new owner is registered for GST, and there is an agreement between the supplier and the recipient in writing that the supply is of a going concern
+.
+195.
+The supply of the complex by the partnership is a GST-free supply of a going concern under section 38-325
+Example 18: supply that is a GST-free supply of a going concern - supply by an enterprise partnership of a co-owner's interest in a leased commercial property
+196.
+Hot Summer Properties Ltd (Hot Summer) has a 20% interest in a leased commercial property that it owns with a number of other co-owners. The co-owners operate as a syndicate and have a syndicate agreement. Under the syndicate agreement, any purchaser of an interest in the property is bound by the terms and conditions of the agreement. A tax law partnership, comprising all the syndicate members, is registered for GST as it carries on the leasing enterprise
+.
+197.
+Hot Summer agrees to sell its 20% interest in the property, with all leases in place, to Tall Sky Builders Ltd (Tall Sky). As the leasing enterprise is carried on by the partnership, the supply of Hot Summer's 20% interest in the property is by Hot Summer in its capacity as partner of the partnership, that is, it is a supply by the partnership
+.
+198.
+Tall Sky is bound by the syndicate agreement. When Tall Sky purchases Hot Summer's interest, a new enterprise partnership, which is required to be registered is formed. The purchase by Tall Sky is taken to be by Tall Sky as partner of the new partnership
+.
+199.
+The enterprise is carried on by the old partnership until the day of supply. Hot Summer, as a partner in the old partnership, and Tall Sky, as a partner in the new partnership, agree in writing that the supply is of a going concern
+.
+200.
+The requirements of subsection 38-325(1) are satisfied as the supply is for consideration, the new partnership is required to be registered for GST, and there is an agreement between the supplier and the recipient in writing that the supply is of a going concern
+.
+201.
+The supply of Hot Summer's interest in the property by the partnership is a GST-free supply of a going concern under section 38-325
+.
+Supply of a part interest in a property
+202. The principles outlined in paragraphs 183 to 201 of this Ruling apply equally if part of an interest in leased property is supplied. We consider that the supplier of the part interest carries on a leasing enterprise in relation to that part, as part of a larger enterprise.
+Example 19: supply that is a GST-free supply of a going concern - supply by an enterprise partnership of part of a co-owner's interest in a leased commercial property
+203.
+Cold Winter Properties Ltd (Cold Winter) has a 20% interest in a leased commercial property that it owns with a number of other co-owners. The co-owners operate as a syndicate and have a syndicate agreement. Under the syndicate agreement, any purchaser of an interest in the property is bound by the terms and conditions of the agreement. A tax law partnership, comprising all the syndicate members, is registered for GST as it carries on the leasing enterprise
+.
+204.
+Cold Winter agrees to sell half of its 20% interest in the property, with all leases in place, to Patch Properties Ltd (Patch). As the leasing enterprise is carried on by the partnership, the supply of half of Cold Winter's 20% interest in the property is by Cold Winter in its capacity as partner of the partnership. The supply by the partnership of the part interest is the supply of all the things necessary for the continued operation of an enterprise
+.
+205.
+Patch is bound by the syndicate agreement. When Patch purchases half of Cold Winter's interest, a new enterprise partnership, which is required to be registered, is formed. The purchase by Patch is taken to be by it as a partner of the new partnership
+.
+206.
+The enterprise is carried on by the old partnership until the day of supply. Cold Winter, as a partner in the old partnership, and Patch, as a partner in the new partnership, agree in writing that the supply is a supply of a going concern by the partnership
+.
+207.
+The requirements of subsection 38-325(1) are satisfied as the supply is for consideration, the new partnership is required to be registered for GST, and there is an agreement between the supplier and the recipient in writing that the supply is of a going concern
+.
+208.
+The supply of the part interest in the property by the partnership is a GST-free supply of a going concern under section 38-325
+.
+Tax invoices - enterprise partnerships
+Acquisitions by the partnership
+209. In most cases, if a partner makes a creditable acquisition in the capacity as a partner, the enterprise partnership must hold a tax invoice to claim an input tax credit.
+[92]
+If the tax invoice is for a supply or supplies and the total price is at least $1,000, or such higher amount as the regulations specify, subparagraph 29-70(1)(c)(ii) requires that the tax invoice include enough information to clearly ascertain the identity or the ABN of the recipient. Where the recipient is a partnership, enough information to clearly ascertain the identity of the partnership or its ABN is required. The identity requirement will be met if the tax invoice shows the names of all the partners, or the registered business name of the partnership.
+210. However, there may be occasions when a document issued to the enterprise partnership as a tax invoice is for a supply or supplies with a total price of at least $1,000, or such higher amount as the regulations specify, but contains only the identity of a partner. The Commissioner has made a determination under subsection 29-10(3) to waive the requirement for the partnership to hold a tax invoice before attributing an input tax credit to a tax period, if the partnership holds a document that contains the identity of a partner instead of the partnership, and that otherwise satisfies the requirements of paragraphs 29-70(1)(a) and 29-70(1)(c).
+[94]
+211. If the tax invoice shows a total price of less than $1,000, the fact that it shows the identity of a partner and not the identity of the partnership will make no difference. The identity of the recipient is not a requirement for tax invoices for this amount.
+[95]
+Supplies by the partnership
+212. Similarly, where partners make supplies in their capacity as partners of a partnership, tax invoices issued by the partnership should show enough information to clearly ascertain the partnership's identity and ABN.
+[96]
+The identity requirement will be met if the tax invoice shows the names of all the partners, or the registered business name of the partnership. However, the Commissioner has made a determination under subsection 29-10(3) to waive the requirement for a recipient to hold a tax invoice before attributing an input tax credit to a tax period, if the recipient holds a document that contains the identity of a partner instead of the partnership (where the supply was made on behalf of the partnership) and that otherwise satisfies the requirements of paragraphs 29-70(1)(a) and 29-70(1)(c).
+[97]
+Adjustment notes
+213. An adjustment may arise from an adjustment event that occurs in relation to an acquisition made by an enterprise partnership.
+[98]
+The adjustment note must contain enough information to clearly ascertain the identity or ABN of the partnership as recipient,
+[99]
+unless the tax invoice for the acquisition showed a total price of less than $1,000, or the price of a supply which becomes taxable was less than $1,000.
+[100]
+However, the Commissioner has made a determination under subsection 29-20(3) to waive the requirement for an entity to hold an adjustment note before attributing a decreasing adjustment to a tax period, if the entity holds a document that contains the identity of a partner instead of the partnership (where the supply was made by or to the partnership) and that otherwise satisfies the requirements of subsection 29-75(1).
+[100A]
+214. [Omitted].
+215. [Omitted].
+[101]
+Tax invoices and adjustment notes if a manager or agent is appointed
+216. Co-owners of leased premises often appoint a manager
+[102]
+or agent to manage their interests in the property. Division 153 contains special rules that apply to tax invoices
+[103]
+and adjustment notes
+[104]
+when an entity makes a taxable supply through an agent, or has a decreasing adjustment relating to a supply made through an agent.
+217. If an agent for a partnership issues a tax invoice for a supply made on behalf of the partnership that contains the agent's or property manager's identity and ABN, instead of the identity and ABN of the partnership, the document would not meet the requirements of subsection 29-70(1).
+[105]
+However, the Commissioner has made determinations
+[106]
+under subsection 29-10(3) to waive the requirement for a recipient to hold a tax invoice before attributing an input tax credit to a tax period, if the recipient holds a document that contains the identity and ABN of the partnership's agent or property manager, and that otherwise satisfies the requirements of subparagraphs 29-70(1) and 29-70(1)(c).
+[107]
+218.  An adjustment note relating to a taxable supply made through an agent may contain enough information to clearly ascertain the identity and ABN of the agent as supplier, rather than that of the partnership
+[108]
+.  Similarly, an adjustment note relating to an acquisition made through an agent may contain enough information to clearly ascertain the identity or ABN of  the agent as recipient, rather than that of the partnership
+[109]
+Termination of an enterprise partnership
+219. An enterprise partnership terminates if the association of persons is no longer in receipt of income jointly. Circumstances that may lead to the termination of a tax law partnership include:
+•
+the sale of an income producing property that is the sole source of income;
+•
+the property or properties are no longer used for an income producing purpose; and
+•
+a change of persons comprising the association of persons in receipt of income jointly.
+[110]
+Can a tax law partnership be reconstituted?
+220. If one or more of the co-owners of the income producing property dispose of their interest in that property, this constitutes a change in the association of persons. We do not consider that a tax law partnership can be treated as continuing in these circumstances.
+221. In paragraphs 168 and 169 of GSTR 2003/13 we set out the requirements that, in our view, must be met for there to be a reconstituted general law partnership. For there to be a reconstituted partnership there must be:
+•
+a supply of an interest in the partnership;
+•
+an express or implied continuity clause in a partnership agreement; and
+•
+substantially all of the partnership assets remain with the continuing partnership.
+222. In paragraph 103 of this Ruling, we express our view that partners in a tax law partnership do not have interests in the capital of a partnership, or interests in the partnership.
+223. Unlike general law partnerships, a tax law partnership does not involve a partnership agreement. We take the view that a continuity clause is not found in situations involving tax law partnerships.
+224. Furthermore, the sale of an interest in an income producing property will often mean a substantial change in the ownership of the partnership's asset.
+225. For these reasons we take the view that a tax law partnership cannot be reconstituted.
+GST consequences of termination of an enterprise partnership
+226. A tax law partnership that is registered for GST at termination must apply for cancellation of its registration, and may have an increasing adjustment under Division 138 to cancel particular input tax credits.
+Cancellation of Registration
+227. A registered tax law partnership that is no longer carrying on any enterprise is required to apply to the Commissioner in the approved form for cancellation of the registration. The application must be made within 21 days after the day on which the partnership ceased to carry on any enterprise.
+[111]
+Division 138
+228. A tax law partnership that has its registration cancelled may still have acquisitions and importations for which entitlements to input tax credits have arisen. Division 138 provides for an increasing adjustment to cancel those input tax credits.
+[112]
+229. The partnership will have an increasing adjustment if its GST registration is cancelled and, immediately before the cancellation of registration takes effect, the assets of the partnership include anything in respect of which the partnership was, or is, entitled to an input tax credit.
+[113]
+230. The registration of an enterprise partnership may be cancelled by the partnership because its GST turnover falls below the registration turnover threshold, or because the co-owners cease to carry on the enterprise, but retain the property for private purposes. In these circumstances, there may still be things acquired by the partnership in respect of which the partnership was or is entitled to input tax credits. An increasing adjustment under section 138-5 may arise to cancel those input tax credits.
+231. An enterprise partnership terminates on the sale of the property or an interest in that property. As a consequence, that partnership's GST registration must be cancelled.
+232. If an interest in the property is sold, a new enterprise partnership involving the remaining co-owners and any new co-owner may be formed. In this case, the interests of the remaining partners in the income producing property become assets of a new partnership.
+233. On the sale of the property or an interest in the property, we accept that, immediately before the cancellation of the partnership's registration, the partnership does not have any assets in respect of which it was or is entitled to an input tax credit. Therefore, Division 138 has no application.
+Supplies and acquisitions made by an enterprise partnership upon termination
+Supplies made by the partnership
+234. Any sale of a property or interest in a property which is used in carrying on an enterprise
+[114]
+by a partnership is a supply by the partnership and not by the co-owners.
+[115]
+There are GST consequences if the partnership is registered. For instance, the supply may be a taxable supply if the requirements of section 9-5 are met, or the supply of a going concern that is GST-free if it meets the requirements of section 38-325.
+Example 20: supply of the entire property by the partnership
+235.
+Brendan Pty Ltd (Brendan) and Alexis Pty Ltd (Alexis), as tenants in common, own an industrial property which they jointly lease out. The tax law partnership of Brendan and Alexis carries on the leasing enterprise and is registered for GST
+.
+236.
+Subsequently, Brendan and Alexis agree to sell the property to Unrego Building Pty Ltd, an unregistered entity. The supply of the property by the partnership is in the course of the termination of the enterprise. As the requirements of section 9-5 are met, the supply is a taxable supply
+.
+237.
+Upon the sale of the property, the partnership is terminated as there is no longer an association of persons in receipt of income jointly
+.
+Consequences for remaining co-owners
+238. When a partnership supplies an interest in an income producing property to a new co-owner, there is no supply of the other interests in the property.
+239. The remaining co-owners continue to hold their legal interests in the property and may become partners in a new tax law partnership. This does not involve a supply of their interests in the property.
+[116]
+240. As there is no supply or acquisition by or on behalf of the remaining co-owners either in their own right or as partners in a new partnership, subsection 184-5(1) has no operation.
+241. However, as the old tax law partnership is terminated when the interest of a co-owner in the property is sold, that partnership's registration should be cancelled. Paragraphs 227 to 233 of this Ruling set out the consequences of the cancellation of the partnership's registration.
+GST consequences if the enterprise is carried on by a co-owner and not by a tax law partnership
+242. As previously indicated, in some instances it may be concluded that each co-owner in their own right carries on an enterprise in relation to their interest in the income producing property.
+[117]
+243. In these cases, a tax law partnership is formed because there is receipt of income jointly. However the partnership does not carry on an enterprise in relation to that property.
+[118]
+As discussed at paragraph 67 of this Ruling, we take the view that it is not possible for each co-owner of an income producing property and a tax law partnership to carry on an enterprise in relation to the same property at the same time.
+244. If each co-owner carries on a leasing enterprise in relation to their respective interest in property, the GST laws apply to each co-owner as a separate entity. Each co-owner may be registered for GST, make supplies or acquisitions in carrying on their enterprise, be liable to pay GST, and be required to lodge an activity statement.
+245. A co-owner that acquires property as part of the commencement of a leasing enterprise may register for GST from the date of the agreement to purchase the property.
+246. Any subsequent sale by the registered co-owner of that interest, or part of that interest, is a supply made in the course or furtherance of the enterprise that is carried on by the co-owner. The supply may be a taxable supply if the requirements of section 9-5 are met, or may be the supply of a going concern that is GST-free if the requirements of section 38-325 are met.
+Are co-owners associates for the purposes of Division 72?
+247. Co-owners, carrying on their separate enterprises in relation to their interests in a property, are still partners of a tax law partnership. For the purpose of the GST Act, partners in a partnership are associates of both the partnership and of each other.
+[119]
+This means that Division 72 may apply to supplies between the partners without consideration or for inadequate consideration.
+248. The application of Division 72 is explained in paragraphs 136 to 151 of this Ruling.
+Supply of a going concern by a co-owner
+249. As explained in paragraph 183 of this Ruling, the sale of a co-owner's interest in property may be a supply by that co-owner in carrying on a leasing enterprise in its own right. For the supply of an interest in leased property to be the supply of a going concern, an enterprise must be carried on in relation to that interest.
+250. We consider that a leasing enterprise can be carried on in relation to a co-owner's interest in leased property.
+[120]
+251. If a co-owner carries on a leasing enterprise in relation to their interest in leased property, the supply of part or all of that co-owner's interest in the property is the supply of all things necessary for the continued operation of the enterprise. The requirements of paragraph 38-325(2)(a) are met because the purchaser of the interest acquires a reversionary interest in the interest in the property, that is, that interest subject to the rights and obligations pursuant to the existing lease.
+252. Paragraph 38-325(2)(b) requires that the supplier carries on, or will carry on, the enterprise until the day of the supply (whether or not as part or a larger enterprise carried on by the supplier). We consider that if an interest in a property is used in a leasing enterprise carried on by a co-owner, the co-owner, as the supplier of the interest, carries on an enterprise in relation to that interest until the day of the supply.
+253. The supply of an interest in leased property is GST-free as the supply of a going concern if it meets the requirements of section 38-325.
+Example 21: supply by a co-owner of their interest in leased commercial property
+254.
+Wet Spring Properties Ltd (Wet Spring) has a 50% interest in a leased commercial property. Wet Spring is registered for GST and acquired the interest in carrying on its own broader leasing enterprise. The other co-owner is also registered for GST as it carries on an enterprise in relation to its interest. A partnership is not registered nor required to be registered
+.
+255.
+Wet Spring agrees to sell its 50% interest in the property to Dry Autumn Properties Ltd (Dry Autumn), which also carries on a broader leasing enterprise and is registered for GST. As the leasing enterprise is carried on by Wet Spring, the supply of its 50% interest in the property is by Wet Spring in the course of its enterprise
+.
+256.
+The enterprise is carried on by Wet Spring until the day of supply, and is made with all the leases in place. Wet Spring and Dry Autumn agree in writing that the supply of Wet Spring's interest in the leased commercial property is a supply of a going concern
+.
+257.
+The requirements of subsection 38-325(1) are satisfied as the supply is for consideration, Dry Autumn (the recipient) is registered for GST, and there is an agreement between the supplier and the recipient in writing that the supply is of a going concern
+.
+258.
+The supply of its interest in the property by Wet Spring is a GST-free supply of a going concern under section 38-325
+.
+Tax invoices - co-owners carrying on their own enterprises
+Acquisitions by co-owners
+259. In most cases, each co-owner must hold a tax invoice to claim an input tax credit for a creditable acquisition.
+[121]
+If the tax invoice is for a supply or supplies and the total price is at least $1,000, or such higher amount as the regulations specify, subparagraph 29-70(1)(c)(ii) requires that the tax invoice include enough information to clearly ascertain the identity or the ABN of the recipient. If all of the co-owners are recipients of the supply, enough information to clearly ascertain the identities of all of the co-owners or their ABNs is required.
+260. However, there may be occasions when the document issued as a tax invoice shows the identity or ABN of only one co-owner. If the acquisition is included on a tax invoice and the total price is less than $1,000, the fact that the identity of only one co-owner appears on the tax invoice will not affect its ability to meet the tax invoice requirements. The identity of the recipient is not a requirement for tax invoices for this amount.
+261. A co-owner may act as an agent for the other co-owners under an express or implied agency arrangement (that is not as a partner) in making an acquisition. If the acquisition on the tax invoice has a total price of at least $1,000, or such higher amount as the regulations specify, subparagraph 29-70(1)(c)(ii) requires that the tax invoice include enough information to clearly ascertain the identity or the ABN of the recipient. If all of the co-owners are recipients of the supply, enough information to clearly ascertain the identities of all of the co-owners or their ABNs is required to satisfy subparagraph 29-70(1)(c)(ii). Paragraphs 216 to 218 of this Ruling set out the requirements for a tax invoice in cases involving supplies or acquisitions made through a manager agent.
+262. Each co-owner would normally be required to hold a tax invoice to claim an input tax credit. However, where one co-owner acts as agent for the other co-owners, the document may include enough information to clearly ascertain the identity or ABN of the 'agent co-owner' rather than all of the co-owners. The Commissioner has made a determination under subsection 29-10(3) to waive the requirement for a co-owner to hold a tax invoice before attributing an input tax credit to a tax period, if the co-owner holds the document that contains the identity and ABN of the 'agent co-owner', and that otherwise satisfies the requirements of paragraphs 29-70(1)(a) and 29-70(1)(c).
+[123]
+Supplies by co-owners
+263. If a single tax invoice is issued for a supply made by all the co-owners, it should show enough information to clearly ascertain the identities and ABNs of all the co-owners. However, the document may only contain the identity and ABN of one co-owner as 'agent co-owner' for the other co-owners. The Commissioner has made a determination under subsection 29-10(3) to waive the requirement for a recipient to hold a tax invoice before attributing an input tax credit to a tax period, if the recipient holds the document that contains the identity and ABN of the 'agent co-owner' provided the document otherwise complies with paragraphs 29-70(1)(a) and 29-70(1)(c).
+[124]
+Supplies if not all the co-owners are registered
+264. In some cases, not all the co-owners may be registered for GST.
+265. If one or more co-owners is not registered, and a single tax invoice is issued, it may include both taxable supplies made by registered co-owners and non-taxable supplies made by unregistered co-owners.
+266. To be in the approved form, the tax invoice must be issued by the co-owners making the supply or supplies and contain enough information to enable the following to be clearly ascertained:
+•
+the supplier's identity and ABN;
+•
+the recipient's identity or ABN if the total price is $1,000, or such higher amount as the regulations specify;
+•
+what is supplied, including the quantity and price of what is supplied;
+•
+the extent to which each supply is a taxable supply;
+•
+the date the document is issued;
+•
+the amount of GST payable; and
+•
+such other matters as the regulations specify.
+Adjustment notes - co-owners
+267. An adjustment may arise from an adjustment event relating to an acquisition made by each co owner.
+[125]
+An adjustment note must contain enough information to clearly ascertain the identity or ABN of each of the co owners as recipients, unless the tax invoice for the acquisition showed a total price of less than $1,000, or the price of a supply which becomes taxable was less than $1,000.
+268. An adjustment event may also arise in relation to an acquisition made by a co owner in the capacity as agent for the other co owners. The adjustment note will meet the adjustment note requirements if it contains enough information to clearly ascertain the identity or ABN of the co owner acting as agent,  instead of all of the co owners, and otherwise satisfies the requirements of subsection 29 75(1).
+269. An adjustment may also arise from an adjustment event relating to a supply made by a coZ owner in the capacity as agent
+[127]
+.  The adjustment note will meet the adjustment note requirements if it contains enough information to clearly ascertain the identity and ABN of the co owner acting as agent,128 instead of all of the co owners, and otherwise satisfies the requirements of subsection 29 75(1).
+Detailed contents list
+270. Below is a detailed contents list for this Goods and Services Tax Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+6
+Background
+8
+Ruling with explanation
+18
+What is a tax law partnership?
+18
+Association of persons
+20
+Receipt of income
+25
+Formation of a tax law partnership
+30
+Time of association approach
+30
+Time of receipt of income approach
+36
+Practical application of the time of association approach
+39
+Joint acquisition of property
+40
+Example 1: formation of a tax law partnership - joint acquisition of income producing property
+42
+Acquisition of an interest in property by a new co-owner
+44
+Example 2: formation of a new tax law partnership - acquisition of an interest in property by a new co-owner as a partner
+45
+Conversion of an existing property to an income producing use
+48
+Example 3: formation of a tax law partnership - conversion of residential premises into offices for leasing
+50
+Tax law partnership as an entity
+52
+Is an entity in a tax law partnership a 'partner' for GST purposes
+?
+53
+Is a tax law partnership capable of carrying on an enterprise
+?
+60
+The circumstances in which a tax law partnership carries on an enterprise
+61
+The circumstances in which a tax law partnership does not carry on an enterprise
+64
+Single lease agreement
+68
+Example 4: co-owner carrying on an enterprise in respect of its interest in a property - single lease agreement
+73
+Tax law partnerships involving family members
+81
+Example 5: partnership carrying on the enterprise - family members
+85
+Tax law partnerships involving property syndicates
+89
+Example 6: partnership carrying on the enterprise - property syndicate
+92
+Tax law partnerships involving co-owners converting property to an income producing use
+96
+Does an enterprise partnership have capital or assets
+?
+99
+GST consequences for an enterprise partnership
+109
+Registration
+109
+Supplies and acquisitions as partners
+114
+Operation of an enterprise partnership
+117
+Acquisitions and supplies made by an enterprise partnership
+118
+Example 7: creditable acquisitions made by an enterprise partnership in commencing its enterprise
+119
+Example 8: creditable acquisition made by an enterprise partnership in carrying on its enterprise
+122
+Example 9: taxable supply made by an enterprise partnership
+125
+Supplies by a partner to an enterprise partnership
+127
+Example 10: taxable supply made by a partner to an enterprise partnership
+128
+Supplies by an enterprise partnership to a partner
+132
+Example 11: taxable supply made by an enterprise partnership to a partner
+133
+The application of Division 72
+136
+Example 12: supply without consideration - creditable purpose
+140
+Example 13: supply for inadequate consideration - no creditable purpose
+143
+Acquisition by an enterprise partnership partly for a creditable purpose
+152
+Example 14: acquisition partly for a creditable purpose
+153
+Changes in creditable purpose
+157
+Division 129
+160
+Example 15: adjustment for change in creditable purpose
+161
+Division 130
+163
+Example 16: adjustment for goods applied solely to private or domestic use
+165
+Reimbursements
+169
+The supply of a going concern
+173
+Supply of all the interests in the income producing property
+176
+Supply of an interest in the income producing property
+183
+Example 17: supply that is a GST-free supply of a going concern - supply by an enterprise partnership of an entire leased commercial property
+191
+Example 18: supply that is a GST-free supply of a going concern - supply by an enterprise partnership of a co-owner's interest in a leased commercial property
+196
+Supply of a part interest in a property
+202
+Example 19: supply that is a GST-free supply of a going concern - supply by an enterprise partnership of part of a co-owner's interest in a leased commercial property
+203
+Tax invoices - enterprise partnerships
+209
+Acquisitions by the partnership
+209
+Supplies by the partnership
+212
+Adjustment notes
+213
+Tax invoices and adjustment notes if a manager or agent is appointed
+216
+Termination of an enterprise partnership
+219
+Can a tax law partnership be reconstituted
+?
+220
+GST consequences of termination of an enterprise partnership
+226
+Cancellation of Registration
+227
+Division 138
+228
+Supplies and acquisitions made by an enterprise partnership upon termination
+234
+Supplies made by the partnership
+234
+Example 20: supply of the entire property by the partnership
+235
+Consequences for remaining co-owners
+238
+GST consequences if the enterprise is carried on by a co-owner and not a tax law partnership
+2432
+Are co-owners associates for the purposes of Division 72
+?
+247
+Supply of a going concern by a co-owner
+249
+Example 21: supply by a co-owner of their interest in leased commercial property
+254
+Tax invoices - co-owners carrying on their own enterprises
+259
+Acquisitions by co-owners
+259
+Supplies by co-owners
+263
+Supplies if not all the co-owners are registered
+264
+Adjustment notes - co-owners
+267
+Detailed contents list
+270
+Commissioner of Taxation
+1 September 2004
+Footnotes
+[1]
+See paragraph 10 of this Ruling for what we mean by a tax law partnership.
+[2]
+We use the term 'formed', even though a tax law partnership is not, strictly speaking, 'formed' by the partners. See paragraphs 30 to 51 of this Ruling for a more detailed discussion on the 'formation' of a tax law partnership.
+[3]
+We use the word 'termination' to describe the cessation of a tax law partnership. This is in contrast to a general law partnership which we describe as being dissolved. The distinction is drawn because dissolution has a specific meaning when applied to general law partnerships.
+[4]
+Usually in relation to co-ownership of real property.
+[5]
+The Commissioner's view on how the GST Act applies to general law partnerships is explained in Goods and Services Tax Ruling GSTR 2003/13, Goods and services tax: general law partnerships.
+[6]
+The definition of limited partnership in subsection 995-1(1) of the
+Income Tax Assessment Act 1997
+was amended by
+Tax Laws Amendment (2004 Measures No. 2) Act 2004
+(83 of 2004) - see item 4 of Schedule 3. The definition of a limited partnership is:
+(a)
+an association of persons (other than a company) carrying on business as partners or in receipt of ordinary income or statutory income jointly, where the liability of at least one of those persons is limited; or
+(b)
+an association of persons (other than one referred to in paragraph (a)) with legal personality separate from those persons that was formed solely for the purpose of becoming a VCLP, an AFOF or a VCMP and to carry on activities that are carried on by a body of that kind.
+In the definition VCLP means venture capital limited partnership, AFOF means Australian venture capital fund of funds and VCMP means venture capital management partnership.
+[6A]
+Refer to each Addendum to see how that Addendum amends this Ruling.
+[7]
+The definition of partnership in subsection 995-1(1) of the ITAA 1997 was amended by
+Tax Laws Amendment (2004 Measures No. 2) Act 2004 (83 of 2004
+) - see item 5 of Schedule 3.
+[8]
+The general law definition is set out in the Partnership Act of each State and Territory as follows: ACT
+Partnership Act 1963
+, subsection 6(1); NSW
+Partnership Act 1892
+, subsection 1(1); NT
+Partnership Act 2001
+, subsection 5(1); Qld
+Partnership Act 1891
+, subsection 5(1); SA
+Partnership Act 1891
+, subsection 1(1); Tas
+Partnership Act 1891
+, subsection 6(1); Vic
+Partnership Act 1958
+, subsection 5(1); WA
+Partnership Act 1895
+, subsection 7(1). The definition of 'partnership' in New South Wales and Victoria Partnership Acts includes an incorporated limited partnership - see subsection 1(1) NSW; subsection 5(1) Vic. For the purposes of this Ruling, a reference to a general law partnership does not include an incorporated limited partnership.
+[9]
+See the Partnership Acts of each State and Territory as follows: ACT
+Partnership Act 1963
+, section 7; NSW
+Partnership Act 1892
+, section 2; NT
+Partnership Act 2001
+, section 6; Qld
+Partnership Act 1891
+, section 6; SA
+Partnership Act 1891
+, section 2; Tas
+Partnership Act 1891
+, section 7; Vic
+Partnership Act 1958
+, section 6; WA
+Partnership Act 1895
+, section 8.
+[10]
+East Finchley Pty Ltd v. Commissioner of Taxation
+20 ATR 1623 per Hill J at page 1643; 89 ATC 5280 at page 5297.
+[11]
+17 ATR 413; 86 ATC 4171.
+[12]
+17 ATR 413 at page 420; 86 ATC 4171 at page 4177.
+[13]
+See paragraphs 53 to 59 of this Ruling.
+[14]
+Section 15AA of the
+Acts Interpretation Act 1901
+.
+[15]
+This Ruling does not deal with the assignment or transfer of a leasehold interest by a lessee to another entity as part of a supply of an enterprise as a going concern.
+[16]
+The
+Macquarie Dictionary
+Revised Third Edition.
+[17]
+[1999] 1 VR 861. Mandie J, at paragraph 51, considered that a name or title, or the existence of a written constitution, or rules, or a contract of some sort between the members was not essential, but these, like office-bearers, a committee and a bank account, were indicia of organisation and continuity.
+[18]
+[1999] 1 VR 861, at page 872, at paragraph 50.
+[19]
+88 ATC 4193; (1988) 19 ATR 1006.
+[20]
+88 ATC 4193 at page 4200; (1988) 19 ATR 1006 at page 1013.
+[21]
+(1962) 108 CLR 523.
+[22]
+(1935) 53 CLR 55.
+[23]
+(1962) 108 CLR 523 at 528.
+[24]
+Case No 268/83 (1985) 2 BVC 200157.
+[25]
+Case No 268/83 (1985) 2 BVC 200157 at paragraph 23. Although the comment was in the context of whether or not an economic activity was being carried out, it supports our view that a purposive approach is to be taken in applying the GST laws to tax law partnerships. See also
+Belgian State v. Ghent Coal Terminal NV
+[1998] BVC 139 for a similar approach.
+[26]
+Rompelman and Anor v. Minister van Financien
+Case No 268/83 (1985) 2 BVC 200157 at paragraph 25.
+[27]
+The property is acquired for the purpose of carrying on an enterprise and is used for that purpose and not for 'private consumption'. The GST is effectively a tax on final private consumption in Australia. (Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998, Chapter 1).
+[28]
+Paragraph 184-1(1)(e).
+[29]
+See also the note to subsection 184-1(1), which states: The term 'entity' is used in a number of different but related senses. It covers all kinds of legal persons. It also covers groups of legal persons, and other things, that in practice are treated as having a separate identity in the same way as a legal person does.
+[30]
+(1987) 15 FCR 172; 87 ATC 4541; (1987) 18 ATR 957.
+[31]
+(1987) 15 FCR 172 at page 182; 87 ATC 4541 at pages 4549 to 4550; (1987) 18 ATR 957 at page 967. Although subsection 6(1) of the ITAA 1936 defines 'partnership' and not 'partner', Beaumont J's comments indicate that it can be inferred from the definition of 'partnership' that the entities in a partnership are partners.
+[32]
+(1987) 15 FCR 172 at page 182; 87 ATC 4541 at page 4550; (1987) 18 ATR 957 at page 967.
+[33]
+(1972) 128 CLR 158; 72 ATC 4231; (1972) 3 ATR 458.
+[34]
+(1972) 128 CLR 158 at page 164; 72 ATC 4231 at page 4236; (1972) 3 ATR 458 at page 462.
+[35]
+Subsection 184-1(1).
+[36]
+The meaning of enterprise is set out in section 9-20. An enterprise that a tax law partnership carries on will often be one of leasing property. Under paragraph 9-20(2)(c) an enterprise does not include activities done by a partnership (all or most of the members of which are individuals) without a reasonable expectation of profit or gain. See Goods and Services Tax Determination GSTD 2006/6
+Goods and services tax: does MT 2006/1 have equal application to the meaning of 'entity' and 'enterprise' for the purposes of the A New Tax System (Goods and Services Tax) Act 1999?
+[37]
+Section 195-1.
+[38]
+Subsection 184-5(1). See paragraphs 114 to 116 of this Ruling for a discussion on the operation of subsection 184-5(1).
+[39]
+(1972) 128 CLR 158; 72 ATC 4231; (1972) 3 ATR 458.
+[40]
+83 ATC 4415;
+Federal Commissioner of Taxation v. Trustees of the Lisa Marie Walsh Trust
+(1983) 14 ATR 399.
+[41]
+(1987) 15 FCR 172; 87 ATC 4541; (1987) 18 ATR 957.
+[42]
+83 ATC 4415; 14 ATR 399.
+[43]
+(1972) 128 CLR 158; 72 ATC 4231; (1972) 3 ATR 458.
+[44]
+96 ATC 578; 34 ATR 1018.
+[45]
+83 ATC 4415; 14 ATR 399.
+[46]
+(1999) AATA 937; 99 ATC 2428; 43 ATR 1202.
+[47]
+88 ATC 4193; (1988) 19 ATR 1006.
+[48]
+(1987) 15 FCR 172; 87 ATC 4541; (1987) 18 ATR 957.
+[49]
+In those cases where the leasing enterprise is carried on by a co-owner in their own right, the enterprise involves only that co-owner's interest in the income producing property. See paragraphs 242 to 269 of this Ruling for a discussion on the GST consequences if the enterprise is carried on by a co-owner and not a tax law partnership.
+[50]
+See
+Rompelman
+Case No. 268/83 (1985) 2 BVC 200157 at paragraph 22. Although the decision was in the context of a provision which referred to 'all activities ...' we consider that the principle is equally applicable in determining which activities are in carrying on an enterprise.
+[51]
+We refer to these partnerships as enterprise partnerships. See paragraph 17 of this Ruling.
+[52]
+See, for example,
+Yeung
+88 ATC 4193; (1988) 19 ATR 1006.
+[53]
+(1987) 15 FCR 172; 87 ATC 4541; (1987) 18 ATR 957 at pages 4543 to 4545.
+[54]
+Per Stephen J, (1972) 128 CLR 158 at page 160; 72 ATC 4231 at page 4233; (1972) 3 ATR 458 at page 459.
+[55]
+(1972) 128 CLR 158 at page 170; 72 ATC 4231 at page 4239; (1972) 3 ATR 458 at page 466.
+[56]
+83 ATC 4415; (1983) 14 ATR 399.
+[57]
+83 ATC 4415 at pages 4435 to 4436; (1983) 14 ATR 399 at page 422.
+[58]
+95 ATC 175; AAT Case 10,079 (1995) 30 ATR 1169.
+[59]
+95 ATC 175 at page 181; (1995) 30 ATR 1169 at page 1175.
+[60]
+(1972) 128 CLR 158; 72 ATC 4231; (1972) 3 ATR 458.
+[61]
+(1972) 128 CLR 158 at page 169; 72 ATC 4231 at page 4238; (1972) 3 ATR 458 at page 465.
+[62]
+Section 23-5.
+[63]
+Section 23-15. The registration turnover threshold for non-profit bodies is $150,000 as specified in the GST regulations - subsection 23-15(2). Also see Goods and Services Tax Ruling GSTR 2001/7, Goods and services tax: meaning of GST turnover, including the effect of section 188-25 on projected GST turnover. Note that the value of input taxed supplies is not included in the calculation of current or projected GST turnover.
+[64]
+Subsection 23-10(2).
+[65]
+Section 25-50.
+[66]
+However, under section 50 of the
+Taxation Administration Act 1953
+, the obligations on a partnership are imposed on each partner, and the partners are jointly and severally liable to pay GST.
+[67]
+Section 11-20.
+[68]
+See section 72-1.
+[69]
+'Associate' is defined in section 195-1 of the GST Act by reference to section 318 of the ITAA 1936. The definition is very wide and includes other partners of the partnership, spouses and children of any partner, certain other relatives and their spouses, companies that are controlled by a partner or associates and, if the company is also a partner, any associates of the company.
+[70]
+Supplies from partners who are neither registered nor required to be registered will never be taxable supplies by the partner or creditable acquisitions by the partnership. Division 72, therefore, cannot apply to supplies by unregistered entities.
+[71]
+Section 72-5.
+[72]
+Inadequate consideration is consideration that is less than the GST inclusive market value, see subsection 72-70(1).
+[73]
+Sections 72-10 and 72-70.
+[74]
+Paragraphs 160 to 162 of this Ruling discuss the application of Division 129.
+[75]
+Section 129-20 defines adjustment periods for acquisitions and importations.
+[76]
+For further discussion on the operation of Division 130, see Goods and Services Tax Determination GSTD 2003/2, Goods and services tax: are there GST consequences when a partner in a partnership takes goods held as trading stock for private or domestic use?; and Goods and Services Tax Ruling GSTR 2003/6, Goods and services tax: transfers of enterprise assets as a result of property distributions under the
+Family Law Act 1975
+or in similar circumstances. See, also, Goods and Services Tax Ruling GSTR 2000/24, Goods and services tax: Division 129 - making adjustments for changes in extent of creditable purpose.
+[77]
+Section 111-5.
+[78]
+Paragraph 111-5(3)(b).
+[79]
+Section 111-15.
+[80]
+Subsection 184-5(1).
+[81]
+Subsection 111-5(3A).
+[82]
+See Goods and Services Tax Ruling GSTR 2002/5, Goods and services tax: when is a 'supply of a going concern' GST-free? which explains the requirements of section 38-325.
+[83]
+See paragraphs 190 to 194 of GSTR 2002/5.
+[84]
+Paragraph 38-325(2)(a).
+[85]
+See paragraphs 242 to 269 of this Ruling for a discussion on how the GST law applies in those cases in which a co-owner and not a tax law partnership carries on an enterprise.
+[86]
+See, for instance, paragraph 1434, Butt, P, 2001,
+Land Law
+, 4th edn, Thomson Legal and Regulatory Ltd, Pyrmont, NSW, or paragraph 12.20, Bradbrook, A, MacCallum, S, and Moore, A, 1991,
+Australian Real Property Law
+, The Law Book Company Ltd, Sydney.
+[87]
+See
+Catanzariti v. Whitehouse
+(1981) 55 FLR 426, where a wife left a jointly owned home. The husband subsequently leased the home for twelve months. The wife moved back into the house and interfered with the tenant's rights of occupation. The Court held that the wife had right of entry but could not prevent the tenant from exercising his own rights of occupation.
+[88]
+However, as explained in paragraph 114 of this ruling, if the sale is by the co-owner as a partner, we take the view that the supply is by the partnership and not by the co-owner in their own right.
+[89]
+Teh, G, and Dwyer, B, 1992,
+Introduction to Property Law
+, 2nd edn, Butterworths, Sydney, see paragraph 1136.
+[90]
+Bradbrook, A, MacCallum, S, and Moore, A, 1991,
+Australian Real Property Law
+, Law Book Company Ltd, Sydney, see paragraph 12.19.
+[91]
+See paragraph 194 of GSTR 2002/5 which discusses the sale by a sole trader to a partnership of which he is a member.
+[92]
+Subsection 29-10(3).See Goods and Services Tax Ruling GSTR 2013/1 which explains when you do not need to hold a tax invoice to claim an input tax credit.
+[93]
+[Omitted.]
+[93A]
+[Omitted.]
+[94]
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Partnership) Legislative Instrument 2013.
+[95]
+Paragraph 29-70(1)(c).
+[96]
+Subparagraph 29-70(1)(c)(i). See paragraphs 21 to 24 of GSTR 20013/1.
+[97]
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Partnership) Legislative Instrument 2013.
+[98]
+Section 19-70.
+[99]
+The identity requirement will be met if the adjustment note shows the names of all the partners, or the registered business name of the partnership.
+[100]
+Paragraph 5(1)(c) of the
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012
+.
+[100A]
+See A New Tax System (Goods and Services Tax) Waiver of Adjustment Note Requirement (Decreasing Adjustments Relating to Supplies made by or to a Partnership) Legislative Instrument 2013.
+[101]
+[Omitted].
+[102]
+As the manager is an agent of the co-owners, Division 153 applies.
+[103]
+Section 153-15.
+[104]
+Section 153-20.
+[105]
+The identity or ABN of the recipient is required only where the tax invoice relates to a supply or supplies and the total price is at least $1,000, or such higher amount as the regulations specify. See subparagraph 29-70(1)(c)(ii).
+[106]
+See
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions under an Agency Relationship) Legislative Instrument 2013
+and
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from Property Managers) Legislative Instrument 2013.
+[107]
+[Omitted.]
+[108]
+See clause 5(1)(b) of the
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012.
+[109]
+See clause 5(1)(c) of the
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012.
+Note that these details will be required only where the adjustment note relates to a tax invoice showing a total amount payable of $1,000 or more.
+[110]
+If changes to the percentages of each co-owner's holding do not result in any change in the membership of the tax law partnership, there is no change in the association of persons and, consequently, no termination of the partnership.
+[111]
+Subsection 25-50.
+[112]
+Section 138-1.
+[113]
+Subsection 138-5(1). This is subject to subsection 138-5(3).
+[114]
+Doing something in the course of the termination of the enterprise is included in the meaning of carrying on an enterprise - section 195-1.
+[115]
+See
+Case K55
+(1988) 10 NZTC 453, per Bathgate DJ: If capital assets are used in the carrying on of a taxable activity the sale of those assets, or some of them, can readily be in the course or furtherance of that activity.
+[116]
+See the decision of Wild J in
+CIR v. Campbell Investments
+(2004) 21 NZTC 1 in which his Honour held that a transfer of legal title to the beneficial and legal owners of interests in property was not a supply for the purposes of the New Zealand Goods and Services Tax Act. In cases involving enterprise partnerships, as the legal and beneficial interests of the remaining co owners are already held by them, there is no supply of those interests when the tax law partnership terminates.
+[117]
+See paragraphs 61 to 98 of this Ruling for a discussion on the circumstances in which a tax law partnership carries on an enterprise, and the circumstances in which a co-owner and not the partnership carries on an enterprise.
+[118]
+If the leasing enterprise is being carried on by the individuals and not by the partnership, it follows that the partners of the partnership will not have any joint and several liabilities under section 50 of the
+Taxation Administration Act 1953
+.
+[119]
+See section 195-1 of the GST Act and section 318 of the ITAA 1936.
+[120]
+See paragraphs 184 to 186 of this Ruling for an explanation of why we take this view.
+[121]
+Subsection 29-10(3). However, paragraph 71 of Goods and Services Tax Ruling GSTR 2013/1 explains when you do not need to hold a tax invoice to claim an input tax credit.
+[122]
+[Omitted.]
+[123]
+Subdivision 153-A may apply to attribute the input tax credit for a creditable acquisition of a co-owner to the tax period in which another co owner acting as agent holds the relevant tax invoice.
+[124]
+See
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions under an Agency Relationship) Legislative Instrument 2013.
+[125]
+Section 19-70.
+[126]
+Paragraph 5(1)(c) of the
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012.
+Note that these details will be required only where the adjustment note relates to a tax invoice showing a total price of at least $1,000, or the price of a supply which becomes taxable was at least $1,000.
+[127]
+Section 19-40.
+[128]
+Paragraph 5(1)(c) of the
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012.
+Previously issued as GSTR 2003/D5
+Previously issued as GSTD 2003/D5
+References
+ATO references:
+NO  2003/004047
+ISSN: 1443-5160
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2000/24
+GSTR 2000/37
+GSTR 2001/7
+GSTR 2002/5
+GSTR 2003/6
+GSTR 2003/13
+GSTR 2013/1
+GSTD 2003/2
+GSTD 2006/6
+MT 2006/1
+Subject References:
+acquisition of property
+acquisitions
+adjustments
+apply
+associates
+association of persons
+cancellation of registration
+capacity as a partner
+carrying on an enterprise
+carrying on business
+consideration
+co-ownership
+course or furtherance
+creditable acquisition
+creditable purpose
+entity
+formation of a tax law partnership
+general law partnership
+going concerns
+GST
+GST-free
+GST turnover
+input taxed supplies
+joint receipt of income
+operation of a tax law partnership
+partners
+partnership
+private or domestic
+projected GST turnover
+receipt of income jointly
+registration
+sale of a going concern
+supplies and acquisitions
+tax law partnerships
+taxable supplies
+termination of a tax law
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A99 9-5
+ANTS(GST)A99 9-20
+ANTS(GST)A99 9-20(2)(c)
+ANTS(GST)A99 11-5
+ANTS(GST)A99 11-20
+ANTS(GST)A99 11-30
+ANTS(GST)A99 19-40
+ANTS(GST)A99 19-70
+ANTS(GST)A99 23-5
+ANTS(GST)A99 23-10(2)
+ANTS(GST)A99 23-15
+ANTS(GST)A99 23-15(2)
+ANTS(GST)A99 25-50
+ANTS(GST)A99 29-10(3)
+ANTS(GST)A99 29-20(3)
+ANTS(GST)A99 29-70(1)
+ANTS(GST) A99 29-70(1)(c)
+ANTS(GST) A99 29-70(1)(c)(i)
+ANTS(GST) A99 29-70(1)(c)(ii)
+ANTS(GST)A99 29-75(1)
+ANTS(GST)A99 38-325
+ANTS(GST)A99 38-325(1)
+ANTS(GST)A99 38-325(2)
+ANTS(GST)A99 38-325(2)(a)
+ANTS(GST)A99 38-325(2)(b)
+ANTS(GST)A99 Div 72
+ANTS(GST)A99 Subdiv 72-A
+ANTS(GST)A99 72-1
+ANTS(GST)A99 72-5
+ANTS(GST)A99 72-10
+ANTS(GST)A99 72-70
+ANTS(GST)A99 72-70(1)
+ANTS(GST)A99 Subdiv 72-C
+ANTS(GST)A99 Div 111
+ANTS(GST)A99 111-5
+ANTS(GST)A99 111-5(3)(b)
+ANTS(GST)A99 111-5(3A)
+ANTS(GST)A99 111-15
+ANTS(GST)A99 Div 129
+ANTS(GST)A99 129-20
+ANTS(GST)A99 129-55
+ANTS(GST)A99 Div 130
+ANTS(GST)A99 Div 138
+ANTS(GST)A99 138-1
+ANTS(GST)A99 138-5
+ANTS(GST)A99 138-5(1)
+ANTS(GST)A99 138-5(3)
+ANTS(GST)A99 Div 153
+ANTS(GST)A99 Subdiv 153-A
+ANTS(GST)A99 153-15
+ANTS(GST)A99 153-15(1)
+ANTS(GST)A99 153-20
+ANTS(GST)A99 184-1(1)
+ANTS(GST)A99 184-1(1)(e)
+ANTS(GST)A99 184-5(1)
+ANTS(GST)A99 188-25
+ANTS(GST)A99 195-1
+ANTS(GST)R99 40-5.09(3)
+ITAA 1936 6(1)
+ITAA 1936 26(a)
+ITAA 1936 26AAA
+ITAA 1936 92
+ITAA 1936 318
+ITAA 1997 995-1(1)
+TAA 1953 50
+TAA 1953 Sch1 Div 358
+Acts Interpretation Act 1901 15AA
+Bankruptcy Act 1924-1959
+Family Law Act 1975
+Partnership Act 1963 (ACT) 6(1)
+Partnership Act 1963 (ACT) 7
+Partnership Act 1892 (NSW) 1(1)
+Partnership Act 1892 (NSW) 2
+Partnership Act 2001 (NT) 5(1)
+Partnership Act 2001 (NT) 6
+Partnership Act 1891 (QLD) 5(1)
+Partnership Act 1891 (QLD) 6
+Partnership Act 1891 (SA) 1(1)
+Partnership Act 1891 (SA) 2
+Partnership Act 1891 (TAS) 6(1)
+Partnership Act 1891 (TAS) 7
+Partnership Act 1958 (VIC) 5(1)
+Partnership Act 1958 (VIC) 6
+Partnership Act 1895 (WA) 7(1)
+Partnership Act 1895 (WA) 8
+Tax Laws Amendment (2004 Measures No. 2) Act 2004 Sch 3 item 4
+Tax Laws Amendment (2004 Measures No. 2) Act 2004 Sch 3 item 5
+Case References:
+AAT Case 10,079
+(1995) 30 ATR 1169
+AAT Case 11,324
+96 ATC 578
+34 ATR 1018
+Belgian State v. Ghent Coal Terminal NV (Case C-37/95)
+[1998] BVC 139
+Case 12/95
+95 ATC 175
+Case K 55
+(1988) 10 NZTC 453
+Catanzariti v. Whitehouse
+(1981) 55 FLR 426
+CIR v. Campbell Investments
+(2004) 21 NZTC 18559
+Commissioner of Taxation v. Comber
+17 ATR 413
+86 ATC 4171
+Cripps v. Federal Commissioner of Taxation
+(1999) AATA 937
+99 ATC 2428
+43 ATR 1202
+East Finchley Pty Ltd v. Commissioner of Taxation
+20 ATR 1623
+89 ATC 5280
+Ex parte Walton; Re Levy
+(1881) 17 Ch D 746
+Falstein v. Official Receiver
+(1962) 108 CLR 523
+FC of T v. McDonald
+(1987) 15 FCR 172
+87 ATC 4541
+(1987) 18 ATR 957
+FC of T v. Walsh (PJ and BJ)
+83 ATC 4415
+14 ATR 399
+Federal Commissioner of Taxation v. Trustees of the Lisa Marie Walsh Trust
+(1983) 14 ATR 399
+Kibby v. Registrar of Titles
+[1999] 1 VR 861
+Nette v. Howarth
+(1935) 53 CLR 55
+Rompelman and Anor v. Minister van Financien Case No 268/83
+(1985) 2 BVC 200157
+Tikva Investments Pty Ltd v. FC of T
+(1972) 128 CLR 158
+72 ATC 4231
+(1972) 3 ATR 458
+Yeung & Anor v. FC of T
+88 ATC 4193
+(1988) 19 ATR 1006
+Other References:
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012
+A New Tax System (Goods and Services Tax) Waiver of Adjustment Note Requirement (Decreasing Adjustments Relating to Supplies made by or to a Partnership) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Partnership) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions under an Agency Relationship) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from Property Managers) Legislative Instrument 2013
+Bradbrook, A, MacCallum, S, and Moore, A, 1991, Australian Real Property Law, The Law Book Company Ltd, Sydney
+Butt, P, 2001, Land Law, 4th Edition, Thomson Legal and Regulatory Ltd, Pyrmont, NSW
+Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998 Chapter 1
+Macquarie Dictionary Revised Third Edition
+Teh, G, and Dwyer, B, 1992, Introduction to Property Law, 2nd Edition, Butterworths, Sydney
+GSTR 2004/6 history
+Date:
+Version:
+Change:
+1 September 2004
+Original ruling
+15 August 2007
+Consolidated ruling
+Addendum
+31 October 2012
+Consolidated ruling
+Addendum
+27 March 2013
+Consolidated ruling
+Addendum
+21 August 2013
+Consolidated ruling
+Addendum
+You are here
+28 August 2013
+Consolidated ruling
+Addendum
+Back to top

@@ -1,0 +1,220 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Subdivision 768-A
+  • Subdivision 815-A
+  • Subdivision 815-B
+  • div 768
+  • div 815
+  • division 768
+  • division 815
+
+Topics: Partnerships, Companies, Superannuation, International
+
+
+
+================================================================================
+
+TA 2016/10 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+13 related documents
+Taxpayer Alert
+TA 2016/10
+Cross-Border Round Robin Financing Arrangements
+On 8 April 2024, the
+Treasury Law Amendment (Making Multinationals Pay Their Fair Share - Integrity and Transparency) Act 2024
+was enacted. The amendments apply to assessments for income years commencing on or after 1 July 2023, with the exception of new integrity rules (debt deduction creation rules) which apply in relation to assessments for income years starting on or after 1 July 2024.
+Under the new thin capitalisation rules:
+•
+the newly classified 'general class investors' will be subject to one of 3 new tests
+o
+fixed ratio test
+o
+group ratio test
+o
+third party debt test
+•
+financial entities will continue to be subject to the existing safe harbour test and worldwide gearing test or may choose the new third party debt test
+•
+ADIs will continue to be subject to the previous thin capitalisation rules
+•
+the arm's length debt test has been removed for all taxpayers.
+ADIs, securitisation vehicles and certain special purpose entities are excluded from the debt deduction creation rules.
+Entities that are Australian plantation forestry entities are excluded from the new rules. For these entities, the previous rules will continue to apply.
+Alerts provide a summary of our concerns about new or emerging higher risk tax or superannuation arrangements or issues that we have under risk assessment.
+While an Alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an Alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more about Alerts. See
+Alerts
+issued to date.
+Description
+We are reviewing cross-border round robin type arrangements that involve funding of an overseas entity or operations by an Australian entity, where the funds are subsequently provided back to the Australian entity or its Australian associate in a manner which purportedly generates Australian tax deductions while not generating corresponding Australian assessable income.
+One example of this kind of arrangement was considered by the Federal Court in
+Orica Limited v FCT
+[2015] FCA 1399; 2015 ATC 20-547.
+The arrangements being reviewed essentially involve the round robin movement of funds where:
+•
+an entity claims income tax deductions in Australia for costs of borrowing or obtaining other financial benefits (including satisfaction of liabilities) from an overseas party
+•
+the loan or other financial benefit provided by the overseas party is in substance funded, directly or indirectly, by an investment by the entity claiming the deductions or its Australian associate
+•
+the return on the Australian investment, reflecting the financing costs payable to the overseas party, comes back to Australia in a non-taxable or concessionally taxed form, for example, as a distribution from an overseas subsidiary which is not assessable under Subdivision 768-A of the
+Income Tax Assessment Act 1997
+(ITAA 1997).
+The potential tax consequences are primarily in relation to applying the:
+•
+rules relating to deductibility of financing costs
+•
+rules for income qualifying as not assessable under section 23AH of the
+Income Tax Assessment Act 1936
+(ITAA 1936) or Subdivision 768-A of the ITAA 1997
+•
+rules relating to attribution of expenses and income to operations carried on or through a permanent establishment
+•
+rules that treat cross border dealings as on conditions which might be expected between independent parties dealing wholly independently (i.e. transfer pricing rules)
+•
+general anti-avoidance rules.
+Relevant arrangements may display some or all of the following features:
+a.
+the entity claiming the Australian tax deductions is related to the overseas party providing the loan or other financial benefit
+b.
+the overseas party is an entity resident in a low tax jurisdiction, or is otherwise not taxable in the overseas country on any financing costs payable by the entity claiming the deductions, for example, because it can claim foreign tax credits or tax losses in the overseas country
+c.
+use of hybrid entities or instruments such that:
+i.
+the financing costs payable to the overseas party which are deducted in Australia are not taxable in the relevant overseas jurisdiction, or
+ii.
+the financing costs are deducted twice, i.e. once in Australia and once by the hybrid entity or the hybrid entity's owners in the overseas jurisdiction
+d.
+the financing costs payable to the overseas party is not income taxable in Australia under Australia's controlled foreign company (CFC) provisions
+e.
+the non-assessable foreign sourced income distributed to the Australian entity increases its 'conduit foreign income' balance so it can distribute unfranked dividends funded from its Australian profits to its foreign shareholders free of dividend withholding tax
+f.
+there is no cash transfer of relevant funds and relevant steps are said to be carried out by journal entries
+g.
+the arrangement produces a commercial outcome or achieves an overall advantage to the global group because of the Australian tax benefits.
+The below diagrams show simplified examples of some of the arrangements we are reviewing.
+Example 1
+•
+An Australian resident entity
+(Aus SubCo2)
+funds the acquisition of equity in its non-resident subsidiary
+(For Co)
+and For Co makes a loan at interest to another subsidiary member
+(Aus SubCo1)
+within the same Australian consolidated group
+(Australian Consolidated Group).
+•
+Head Co (as the head company of Australian Consolidated Group) claims interest deductions in Australia on the borrowing from For Co under section 8-1 or section 25-90 of the ITAA 1997.
+•
+For Co utilises tax losses under the tax rules of the overseas jurisdiction resulting in no tax paid in the overseas jurisdiction on interest payable to For Co by Aus SubCo1.
+•
+For Co's profits, which include the interest payable by Aus SubCo1, are distributed to Aus SubCo2. The distributions are not assessable in Australia because of the operation of Subdivision 768-A of the ITAA 1997.
+Diagram of example 1
+Example 2
+•
+A general partnership established under the laws of Delaware in the United States of America
+(USGP)
+has borrowed funds from the Financier. The Financier may or may not be a related party.
+•
+USGP is treated as a subsidiary member of the Australian consolidated group
+(Australian Consolidated Group)
+for Australian income tax purposes because all the partners in USGP are other subsidiary members of the Australian Consolidated Group.
+•
+USGP is taxed as a corporation in the US as a result of the US 'check the box' tax rules. USGP is the head company of a US consolidated group
+(US Consolidated Group)
+under US tax rules which includes US SubCo1 and US SubCo2. Accordingly, a deduction is claimed twice, once in the US and once in Australia, for the interest on the borrowing from the Financier. If the Financier is a foreign resident, Australian withholding tax may be withheld by USGP on the interest payable to the Financier.
+•
+At this point in time, there is purportedly a "double deduction" for the external financing, sometimes referred to as a "double dip".
+•
+USGP invests these borrowed funds in US SubCo1, which invests the funds in US SubCo2.
+•
+At some point, the funds are loaned back by US SubCo2 to USGP and used to repay the external borrowing from the Financier.
+•
+Head Co (as head company of Australian Consolidated Group) now claims interest deductions in Australia on the borrowing by USGP from US SubCo2 under section 8-1 or section 25-90 of the ITAA 1997.
+•
+Australian withholding tax may be withheld by USGP on the interest payable to US SubCo2 (USGP may be able to claim a foreign tax credit in the US for this withholding tax).
+•
+US SubCo2's profits, which include the interest payable by USGP, are distributed to US SubCo1 then USGP. The distribution is not taxable in the US because USGP, US SubCo1 and US SubCo2 are members of the US Consolidated Group. The distributions are not assessable to Head Co (as head company of Australian Consolidated Group) because of the operation of Subdivision 768-A of the ITAA 1997.
+•
+At this point in time, a deduction is being claimed with no external financing cost, sometimes referred to as a "free dip".
+Diagram of example 2
+Example 3
+•
+A foreign owned company operates in Australia through two Australian consolidated groups
+(Australia Consolidated Group 1
+and
+Australia Consolidated Group 2).
+•
+A limited liability partnership is incorporated in the UK
+(UK LLP).
+UK LLP is treated as a subsidiary member of Australian Consolidated Group 1 for Australian income tax purposes because all the partners in UK LLP are other members of Australian Consolidated Group 1.
+•
+The UK LLP is generally predominantly financed by loans or redeemable partnership interests.
+•
+UK LLP makes a loan to a subsidiary member
+(Aus SubCo2)
+of Australian Consolidated Group 2 purportedly in the course of its operations carried on through its UK permanent establishment
+(UK PE).
+•
+Head Co 2 (as head company of Australian Consolidated Group 2) claims an interest deduction in Australia on the borrowing from UK PE. Australian withholding tax may be withheld by Aus SubCo2 on the interest payable to UK PE.
+•
+Any interest income paid on the borrowing from UK PE is treated as not assessable to Head Co 1 (as head company of Australian Consolidated Group 1) under section 23AH of the ITAA 1936. In addition, this non-assessable income is used to increase the 'conduit foreign income' balance of Australian Consolidated Group 1 so Head Co 1 can distribute unfranked dividends funded from its Australian profits to For Co free of dividend withholding tax.
+Diagram of example 3
+Note:
+Reference should also be had to Taxpayer Alert TA 2016/7
+Arrangements involving offshore permanent establishments.
+What are our concerns?
+We are concerned that the taxpayer may not be entitled to a deduction under section 8-1, section 25-85, section 25-90 or section 230-15 of the ITAA 1997, as the case may be, because the borrowing may not have the sufficient necessary nexus with the requisite kind of income. Depending upon the facts, the principles in Taxation Determination TD 2009/21 or Taxation Determination TD 2016/6 may be applicable.
+Even if effective under the substantive provisions, we are concerned that these arrangements are being used for the purpose, or for purposes which include, the claiming of Australian tax deductions or the artificial creation of conduit foreign income to avoid payment of Australian dividend withholding tax on unfranked dividends funded from Australian profits. This might attract the application of Part IVA of the ITAA 1936.
+We are also concerned about whether the actual commercial or financial dealings between the Australian entities and the overseas related parties are on conditions that might be expected to operate between independent parties dealing wholly independently with each other for the purposes of applying Subdivision 815-A or Subdivision 815-B of the ITAA 1997, or involve non-arm's length consideration for the purposes of applying section 136AD of the ITAA 1936.
+What are we doing?
+We are currently reviewing these arrangements and have commenced compliance activities in relation to a number of cases. Compliance activity will continue and we are developing our technical position on arrangements.
+What should you do?
+If you have entered into, or are contemplating entering into, an arrangement of this type we recommend that you seek independent professional advice, review your arrangement or discuss your situation with us by emailing
+PGIAdvice@ato.gov.au
+Date of Issue:
+15 September 2016
+Date of Effect:
+Related Rulings/Determinations:
+TD 2009/21
+TD 2016/6
+Legislative References:
+Income Tax Assessment Act 1936
+23AH
+136AD
+Part IVA
+Income Tax Assessment Act 1997
+8-1
+25-85
+25-90
+230-15
+Subdiv 768-A
+Subdiv 815-A
+Subdiv 815-B
+Case References:
+Orica Limited v FCT
+[2015] FCA 1399
+2015 ATC 20-547
+Authorised by:
+Jeremy Hirschhorn
+Deputy Commissioner
+Business Line:
+PGI
+Contact officer:
+Stephanie Long
+Business Line:
+Public Groups and International
+Phone:
+02 9374 2040
+Back to top

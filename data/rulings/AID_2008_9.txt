@@ -1,0 +1,142 @@
+ATO Interpretative Decision
+ATO ID 2008/9
+==================================================
+
+Income Tax
+        Transferor trusts: attribution of income to deceased transferor
+        FOI status: may be released
+
+
+This document incorporates revisions made since original publication. View its history and amending notices, if applicable.
+
+
+
+CAUTION:
+                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection:
+
+          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
+
+
+
+Issue
+Can income of a non-resident trust estate be attributed under section 102AAZD of the Income Tax Assessment Act 1936 (ITAA 1936) to a natural person in the year of income of their death?
+Decision
+Yes, income of a non-resident trust estate can be attributed under section 102AAZD of the ITAA 1936 to a natural person who is an attributable taxpayer in the year of income of their death.
+Facts
+A natural person (the taxpayer) otherwise meets all of the conditions to be an attributable taxpayer (within the meaning of section 102AAT of the ITAA 1936) in relation to a non-resident trust estate but dies part-way through a financial year (for illustrative purposes, assume that the taxpayer died on 30 September).
+The taxpayer was a resident from before the start of their current year of income until the time of their death.
+The non-resident trust estate's year of income is from 1 January to 31 December.
+Reasons for Decision
+All legislative references are to the ITAA 1936.
+Attributable taxpayer
+Section 102AAT states that an entity is an attributable taxpayer in relation to a year of income of the entity if the entity meets the conditions set out in that section.
+'Entity' is defined in section 102AAB as including 'any other person'. The taxpayer, being a natural person, is an 'entity' up until the time of their death (the taxpayer is not an entity for the period of time from their death to the end of the financial year, or in subsequent years).
+A reference to a 'year of income' would normally be a reference to the period from 1 July to 30 June (see definition of 'year of income' in subsection 6(1)). However, this is subject to a contrary intention.
+The transferor trust provisions are intended to 'apply only where that income was derived during the lifetime of the transferor. Income derived after...death...will be assessed, subject to additional tax, on distribution to any resident beneficiary' (Department of Treasury 1989, Taxation of foreign source income: an information paper, Australian Government Publishing Service, Canberra, paragraph 10.39).
+Moreover, there are no timing rules which require the 'attributable taxpayer' test to be applied at a particular time during a year of income. Contextually, that is because the factors which determine whether a person is an attributable taxpayer are largely historical (for example, sub-subparagraphs 102AAT(1)(a)(i)(C) to (F) and 102AAT(1)(a)(ii)(B) to (D)) or require satisfaction or failure only at some time during the year of income (sub-subparagraphs 102AAT(1)(a)(i)(A) and (B) and 102AAT(1)(a)(ii)(A)).
+Having regard to this context, it is concluded that where the taxpayer dies during a financial year, the reference to a 'year of income of the entity' in section 102AAT refers to the period of time from 1 July to the time of death. This position also aligns with the approach taken in respect of deceased taxpayers more generally, that is, their final income tax return is for the period that runs from 1 July until date of death.
+Accordingly, as the person is an entity during the year of income of their death and otherwise meets the rest of the conditions prescribed by the provision, they are an attributable taxpayer in relation to the year of income of the non-resident trust estate.
+Attribution of income to the taxpayer
+For income to be attributed to an attributable taxpayer, subsection 102AAZD(1) provides that the taxpayer must be an Australian resident for some of their current year of income, and some of the non-resident trust estate's year of income must occur during the taxpayer's current year of income.
+The reference to the 'taxpayer's current year of income' in subsection 102AAZD(1) also refers to the period from 1 July until the time of death for the same reasons as those discussed above in relation to the meaning of 'year of income of the entity'.
+As the taxpayer was resident during their current year of income (from 1 July until 30 September) and the trust's year of income overlapped with the taxpayer's year of income (also from 1 July until 30 September), an amount may be included in the taxpayer's assessable income for the current year of income.
+Amount included in assessable income
+Subsection 102AAZD(1) determines the amount that is included in the assessable income of the taxpayer, based on whether the taxpayer is an Australian resident for all or only some of their current year of income.
+The taxpayer was resident for the whole of their current year of income (1 July until 30 September).
+When a taxpayer is resident for the whole of their current year of income, paragraph 102AAZD(1)(d) provides that the amount to be attributed to the taxpayer is the 'notional attributable income'.
+Notional attributable income
+Subsection 102AAZD(2) defines 'notional attributable income'.
+As the years of income of the trust and the taxpayer do not begin at the same time, paragraph 102AAZD(2)(b) provides that the notional attributable income is calculated using the following formula:
+
+
+Attributable income x (Days in overlapping period / Days in trust's year of income)
+              where:
+              Attributable income
+ means the attributable income of the trust estate of the trust's year of income;
+              Days in overlapping period
+ means the number of whole days in the trust's year of income that occurred during the taxpayer's current year of income;
+              Days in trust's year of income
+ means the number of whole days in the trust's year of income.
+For illustrative purposes, assume that the attributable income of the trust estate of the trust's year of income is $1,000,000 (calculated in accordance with section 102AAU).
+The number of days in the overlapping period is the number of days in the trust's year of income that occurred during the taxpayer's year of income. That is, the number of days from 1 July 2006 to 29 September 2006: 91 days.
+There are 365 days in the trust's year of income.
+Therefore the notional attributable income is:
+
+
+= $1,000,000 x 91 / 365= $249,315 (rounded)
+As the taxpayer is a resident for the whole of the income year, the amount included in the taxpayer's assessable income pursuant to section 102AAZD is $249,315, the notional attributable income.
+
+Amendment History
+
+Date of Amendment
+Part
+Comment
+
+20 February 2018
+Reasons for Decision
+minor changes to wording for clarity
+
+Other references
+corrected
+
+Date of decision:
+         13 December 2007
+
+Year of income:
+           Year ending 30 June 2008
+
+Legislative References:
+
+Income Tax Assessment Act 1936   subsection 6(1)   section 102AAB   section 102AAT   section 102AAU   section 102AAZD
+
+Related ATO Interpretative Decisions
+
+ ATO ID 2008/10
+
+Other References:
+
+Department of Treasury 1989, Taxation of foreign source income: an information paper, Australian Government Publishing Service, Canberra
+
+
+Keywords
+
+Deceased estates
+          Executors
+          Non resident trusts
+          Trusts
+
+
+Siebel/TDMS Reference Number:
+         5776151; 1-5TGNFIU; 1-D6ER9BP
+
+Business Line:
+         Private Groups and High Wealth Individuals
+
+Date of publication:
+         11 January 2008
+
+Date reviewed:
+         25 January 2018
+
+ISSN:
+          1445-2782
+
+ history
+
+
+ 
+
+Date:
+
+
+Version:
+
+
+ 
+13 December 2007
+Original statement
+
+You are here
+20 February 2018
+Updated statement

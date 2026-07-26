@@ -1,0 +1,71 @@
+ATO Interpretative Decision
+ATO ID 2009/153
+==================================================
+
+Income Tax
+        Consolidation:  entry Allocable Cost Amount - identifying the relevant asset for the purposes of section 705-56 of the ITAA 1997
+        FOI status: may be released
+
+
+
+CAUTION:
+                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection:
+
+          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
+
+
+
+Issue
+Where there is a leasing arrangement that is a finance lease for accounting purposes and the leased asset is held by the lessor for tax purposes; is the relevant asset for the purpose of allocating the entry Allocable Cost Amount (ACA) to determine the tax cost setting amount for an asset in accordance with section 705-20 of the Income Tax Assessment Act 1997 (ITAA 1997), the underlying depreciable asset that generates an income stream for the joining entity?
+Decision
+Yes. Section 705-56 of the ITAA 1997 provides that the relevant asset, as between an asset held as an underlying depreciating asset under a finance lease and the associated income stream, to be recognised for the purpose of allocating the entry ACA of the joining entity is the underlying depreciating asset.
+Facts
+XCo leases goods to small business and individual customers.  The type of goods XCo ordinarily leases include retail IT equipment and retail electrical appliances. The underlying depreciable assets leased to its customers are at all relevant times legally owned by XCo.
+For accounting purposes, these leases are treated as finance leases (in accordance with AASB 117). Accordingly, the accounting balance sheet discloses an amount receivable under the terms of the lease as an asset with only the interest component of a periodic lease instalment recognised as revenue.
+For tax purposes, these leases are effectively treated as operating leases. Accordingly, XCo's tax balance sheet discloses the underlying physical asset as an asset (and XCo claims a deduction for tax depreciation). In this way, the full amount of a periodic lease instalment is recognised as income for tax purposes.
+On 1 July 2006 X Co joined the ACo tax consolidated group (the joining time). Therefore, for tax purposes, the tax cost base of the assets held by X Co were recalculated (by performing an ACA calculation and allocating that ACA amongst the various assets now held by the A Co tax consolidated group).
+Reasons for Decision
+When an entity joins a consolidated group, new tax costs for the assets of the joining subsidiary are set as a result of allocating the ACA to the assets of the joining entity. Consequently, the relevant assets of the joining entity need to be identified for this purpose.
+A general definition of 'asset' is not provided in the legislation. However, paragraph 5 of TR 2004/13 'Income tax: the meaning of an asset for the purposes of Part 3-90 of the Income Tax Assessment Act 1997' (TR 2004/13) provides that an asset, for the purpose of the tax cost setting rules, is anything recognised in commerce and business as having economic value to the joining entity at the joining time for which a purchaser of its membership interests would be willing to pay. The business or commercial assets of a joining entity would include the things that would be expected to be identified by a prudent vendor and purchaser as having value in the making of a sale agreement in respect of all the membership interests in an entity and its business. Further, paragraph 6 of TR 2004/13 provides that the commercial or business meaning of an asset in Part 3-90 is not limited to assets that would be recognised under accounting standards or statements of accounting concepts.
+Under TR 2004/13, both the underlying depreciating asset and the joining entity's right to receive lease payments could be considered the relevant asset.
+Section 705-56 of the ITAA 1997 provides a specific modification for tax cost setting in relation to finance leases. The section requires the leasing arrangement to a finance lease in accordance with the accounting standards or statements of accounting concepts. For a lessor the section operates so that only one asset in relation to the lease. That is, either the underlying depreciating asset or the joining entity's right to receive lease payments, is allocated ACA.
+For a lessor, how section 705-56 of the ITAA 1997 applies is affected by whether the lessor is taken to 'hold' the asset just before the joining time. This is determined in accordance with section 40-40 of the ITAA 1997
+Given that XCo remains the legal owner of the asset throughout the term of the lease, item 10 of the table in section 40-40 of the ITAA 1997 would apply to treat XCo as the holder of the underlying depreciating asset that is subject to the lease.
+As XCo is the holder of the asset under section 40-40 of the ITAA 1997, then subsections 705-56(2) and (5) of the ITAA 1997 operate such that the right to receive lease payments is treated as having a tax cost of nil; and the underlying depreciating asset is treated as a reset cost base asset whose cost is set by the allocation of ACA.
+Therefore it is the underlying depreciating asset, albeit that the asset is subject to a finance lease for accounting purposes, that will be allocated ACA under the tax cost setting process.
+It is noted that subsection 705-56(2) of the ITAA 1997 only resolves the issue of which asset between the underlying depreciating assets held for tax purposes under a finance lease and the income stream generated by the leasing business in respect of the depreciating assets is to be treated as the preferred asset for consolidation cost setting purposes. This does not prevent intangible assets of the leasing business such as goodwill or the lease contracts from also being recognised as assets for consolidation cost setting.
+Date of decision:
+         2 December 2009
+
+Year of income:
+           Year ended 30 June 2007
+
+Legislative References:
+
+Income Tax Assessment Act 1997   section 40-40   section 705-20   section 705-56
+
+Related Public Rulings (including Determinations)
+
+Taxation Ruling TR 2004/13
+
+Keywords
+
+Allocation of the Allocable Cost Amount
+          Assets
+          Consolidation
+          Finance lease
+          Tax Cost is set
+
+
+Siebel/TDMS Reference Number:
+         1-1SXUUUA
+
+Business Line:
+         Consolidation Centre of Expertise
+
+Date of publication:
+         11 December 2009
+
+ISSN:
+          1445-2782

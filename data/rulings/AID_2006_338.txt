@@ -1,0 +1,95 @@
+ATO Interpretative Decision
+ATO ID 2006/338
+==================================================
+
+Income Tax
+        Acquisition of the beneficial ownership of all of the shares in a subsidiary member of a consolidated group by another consolidated group
+        FOI status: may be released
+
+
+
+CAUTION:
+                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection:
+
+          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
+
+
+
+Issue
+Does section 45-15 of the Income Tax Assessment 1997 (ITAA 1997) apply to deem a disposal and acquisition of certain depreciating assets (the affected assets) for their market value where:
+
+
+
+•all of the membership interests in a subsidiary member of a consolidated group are acquired by another consolidated group, and
+•the time that the beneficial ownership of the membership interests in the subsidiary is acquired is the same as the transfer time that applies in subparagraph 703-33(1)(a)(i) of the ITAA 1997.
+
+Decision
+No.  Section 45-15 of the ITAA 1997 does not apply to deem a disposal and acquisition of the affected assets for their market value where the time that the beneficial ownership of all of the shares in the subsidiary is acquired is identical to the time it becomes a member of the purchasing consolidated group.
+Facts
+ACo is the head company of a consolidated group (ACo group). BCo is a subsidiary member of the ACo group. DCo is the head company of another consolidated group (DCo group).
+BCo legally owns depreciating assets that are used in a leasing business. These assets are leased to entities that are not members of the ACo group. ACo, as the head company of the ACo group, has been claiming deductions (under Division 40 of the ITAA 1997) for the decline in value of the assets.
+ACo, as the head company of the ACo group, enters into a contract to sell all of the shares in BCo to the DCo group.
+Under the terms of the sale agreement, it is only on settlement that DCo becomes the beneficial owner of BCo's shares and is also entitled to be registered as the owner of those shares (which is the time that BCo becomes a member of the DCo group).
+Just before the shares in BCo are acquired by the DCo group, the written down value of the depreciating assets that have been used in the leasing business is less than the market value of those assets. These assets continue to be legally owned by BCo and will therefore leave the ACo group at the time that BCo ceases to be a member of that group.
+Reasons for Decision
+The tax cost setting rules in Divisions 701 and 705 of Part 3-90 of the ITAA 1997 apply when an entity joins a consolidated group as a subsidiary member. These rules operate to allocate the cost to the head company of acquiring the subsidiary to the assets of the subsidiary member at the joining time.
+Subsection 705-10(3) of the ITAA 1997 provides that the reason for recognising the head company's costs in this way is to align the costs of assets with the costs of membership interests and to allow for the preservation of this alignment until the entity ceases to be a member of a consolidated group. One of the reasons stated for this alignment process is the prevention of double taxation of gains and duplication of losses.
+When an entity that is a subsidiary member of a consolidated group (the vendor group) leaves that group, Division 711 of the ITAA 1997 effectively reverses the tax cost setting process so that the cost base of the membership interests that the head company holds in the subsidiary is derived from the net value of the assets that cease to be assets of the head company when the entity leaves the group. This provides the basis for determining the head company's capital gain or loss on the disposal of the membership interests in the subsidiary.
+Under section 711-20 of the ITAA 1997, the first step in the exit cost setting process (this step is about determining the terminating value of assets that are leaving the consolidated group) with respect to depreciating assets (including those used in the leasing business) utilises the adjustable (or written down) values of those assets.
+Section 45-1 of the ITAA 1997 states that Division 45 of the ITAA 1997 was designed to prevent tax being avoided through certain transactions including the disposal of shares in companies that had leased depreciating assets and deductions had been claimed for the decline in value of those assets.
+Section 45-15 of the ITAA 1997 applies where the beneficial ownership of more than 50% of the shares in a company that is a 100% subsidiary of a wholly-owned group is acquired by an entity and the market value of certain depreciating assets exceeds their written down value.
+Where the conditions in section 45-15 of the ITAA 1997 are met, the subsidiary is treated as if, at the time the beneficial ownership of the shares are acquired, it has disposed of and immediately reacquired the affected depreciating assets for their market value. This would mean that the subsidiary would be taken to have experienced a balancing adjustment event (as defined in section 40-295 of the ITAA 1997) and would therefore have an assessable balancing charge amount under section 40-285 of the ITAA 1997. The entity that is actually to be assessed on the balancing charge amount depends on the interaction between Part 3-90 of the ITAA 1997 and section 45-15 of the ITAA 1997.
+When the subsidiary ceases to be a member of a consolidated group, Division 711 of the ITAA 1997 operates so that the net value of the assets that leave the vendor group, provide the basis for determining the head company of the vendor group's capital gain or loss on the disposal of the membership interests in the subsidiary. The tax cost setting process under Division 711 ensures that the capital gain or loss that will be made by the head company of the vendor group on the disposal of the membership interests in the subsidiary incorporates the adjustable or written down values of the assets that have been used in the leasing business.
+This tax cost setting process therefore encompasses amounts that would otherwise be assessable as a result of the operation of section 45-15 of the ITAA 1997 (deeming a disposal and reacquisition of the affected assets).
+Where the beneficial ownership of all of the shares in the company are acquired by the consolidated group (the 'purchasing group') at the identical time to the transfer time that applies in subparagraph 703-33(1)(a)(i) of the ITAA 1997, the tax cost setting rules that apply, operate at the same time as the deemed acquisition and disposal of the affected assets for their market value (if section 45-15 of the ITAA 1997 also applied).
+The tax cost setting rules have specific application to set the tax cost of the assets (within the meaning of section 701-55 of the ITAA 1997) of the subsidiary when it becomes a member of the purchasing group. The tax cost set under Divisions 701 and 705 of the ITAA 1997 for any depreciating assets (including the affected assets) will provide the basis for determining the quantum of any deductions that the head company of the purchasing group can subsequently claim for the decline in value of those assets.
+In Goodwin v. Phillips (1908) 7 CLR 1 at 17 Isaacs J addressed an apparent conflict between two provisions of state law and said:
+
+The provisions of the two enactments cannot in such case stand together and operate at the same time and for the same purpose, but with varying effect, upon the same set of circumstances.
+
+Where a subsidiary exits one consolidated group and immediately joins another, at the instant in time that section 45-15 of the ITAA 1997 is meant to apply, it is considered that the rules in section 45-15 and the tax cost setting provisions in Divisions 701, 705 and 711 of the ITAA 1997 cannot all 'operate at the same time and for the same purpose, but with varying effect, upon the same set of circumstances.' It is considered that the tax cost setting rules have specific application to situations involving a subsidiary member joining or leaving a consolidated group and that section 45-15 of the ITAA 1997 does not apply where the time that the beneficial ownership of all of the membership interests in the subsidiary is acquired is identical to the time that the subsidiary becomes a member of the purchasing group. Part 3-90 of the ITAA 1997 provides a complete legislative framework that specifically addresses the situation where an entity exits one consolidated group and immediately joins another.
+Date of decision:
+         14 December 2006
+
+Year of income:
+           Year ended 30 June 2006
+
+Legislative References:
+
+Income Tax Assessment Act 1997   section 40-85   section 40-285   section 40-295   section 45-15   section 701-55   section 703-30   section 703-33   section 705-5   subsection 705-10(1)   subsection 705-10(2)   subsection 705-10(3)   section 711-1   section 711-25   section 975-500   section 975-505   Part 3-90   Division 701   Division 705   Division 711
+
+Case References:
+
+
+Goodwin v. Phillips   (1908) 7 CLR 1
+
+Keywords
+
+Adjustable value of a depreciating asset
+          Allocable cost amount
+          Consolidated group
+          Consolidation
+          Consolidation - exiting
+          Cost setting rules
+          Division 45
+          Joining entity
+          Joining time
+          Leaving entity
+          Leaving time
+          Over-depreciation of an asset
+          Tax cost setting amount
+          Terminating value for a head company
+
+
+Siebel/TDMS Reference Number:
+         5479904
+
+Business Line:
+         Consolidation Centre of Expertise
+
+Date of publication:
+         22 December 2006
+
+ISSN:
+          1445-2782

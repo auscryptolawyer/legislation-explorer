@@ -1,0 +1,763 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 358
+  • Division 358
+  • Subdivision 40-A
+  • div 40
+  • division 40
+
+Cases Referenced:
+  • Chan v. Cresdon Pty Ltd
+(1989) 168 CLR 242
+  • Chapman v. Sutton
+(1846) 2 CB 634
+  • Credits Pty Ltd v. Miles
+
+  • Inland Revenue v. Motorcorp Holdings Ltd 
+  • Mockett v. Ames
+(1871) 23 LT 729
+  • Montreal v. Germain
+
+  • Montreal v. Sperling Hotel Co Ltd
+(1973)
+  • Morrell v. Cowan
+(1877)
+  • National Australia Bank Ltd v. Mc
+  • Raikes v. Todd
+(1838)
+  • Refrigeration Co Pty Ltd v. Nuco Pty Ltd
+(1992) 110 FLR 25
+  • Robertson v. Healy
+(1866)
+  • Shaw v. Director 
+  • Smith v. Passmore
+(1883)
+  • Sunbird Plaza Pty Ltd v. Maloney
+(1988) 166 CLR 245
+
+Topics: CGT, GST, Trusts, Companies, Superannuation
+
+
+
+================================================================================
+
+GSTR 2006/1 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+34 related documents
+Goods and Services Tax Ruling
+GSTR 2006/1
+Goods and services tax:  guarantees and indemnities
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+This Ruling is being reviewed to incorporate the amendments made by
+Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 2016
+. The changes impact how GST applies to cross-border supplies. Schedule 1 of this Act (about business to consumers supplies) applies from 1 July 2017 and Schedule 2 (generally about business to business supplies) applies from 1 October 2016. For more information see
+www.ato.gov.au/AusGST
+.
+This Ruling contains references to provisions of the
+A New Tax System (Goods and Services Tax) Regulations 1999,
+which have been replaced by the
+A New Tax System (Goods and Services Tax) Regulations 2019.
+This Ruling continues to have effect in relation to the remade Regulations.
+Paragraph 32 of
+TR 2006/10
+provides further guidance on the status and binding effect of public rulings where the law has been repealed and rewritten.
+A
+comparison table
+which provides the replacement provisions in the
+A New Tax System (Goods and Services Tax) Regulations 2019
+for regulations which are referenced in this Ruling is available.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+What this Ruling is about
+1
+Date of effect
+4
+Frequently used terms
+6
+Background
+20
+Ruling and Explanation
+48
+Detailed contents list
+140
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 37 of the Taxation Administration Act 1953 and former section 105-60 of Schedule 1 to the Taxation Administration Act 1953.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling explains how guarantees and indemnities are treated under the GST legislation. To do this, the Ruling explains the meaning and application of items 7 and 7A in the table in subregulation 40-5.09(3) of the
+A New Tax System (Goods and Services Tax) Regulations 1999
+(the GST regulations).
+2. In particular, this Ruling describes the different kinds of guarantees and indemnities, and distinguishes between contracts and rights commonly known as guarantees or indemnities that do not fall within items 7 or 7A, and those contracts and rights that do.
+3. The Ruling also identifies the supplies that take place under typical guarantees and indemnities, and classifies them into those arrangements  that may be taxable supplies and those arrangements that may be financial supplies, and therefore potentially input taxed supplies.
+Date of effect
+4. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+5. [Omitted.]
+Frequently used terms
+'Guarantee' and 'indemnity'
+6. This Ruling deals with guarantees and indemnities. It uses common legal concepts of both these terms to explain how GST applies to them. Both terms, however, can have a number of meanings in commercial and legal contexts, and must, therefore, be defined with care. This section explains these terms, and some related terms, and how they are used in this Ruling.
+7. The guarantee and indemnity arrangements covered by items 7 and 7A in the table in subregulation 40-5.09(3) of the GST Regulations have characteristics in common:  they all involve three parties, and underlying indemnities flow from the relationships between the parties. The nature of the risk undertaken by the surety in these arrangements is a form of credit risk. In this Ruling 'credit risk' means the risk that the principal will be unable to reimburse the surety if the surety is required to make a payment.
+8. [Omitted.]
+Terms for the parties to a guarantee or indemnity arrangement
+9. The three parties involved in guarantees and indemnities covered by items 7 or 7A are known by a number of different names in commercial practice.
+10. The party who wishes, for example, to borrow money, receive services on credit, or enter into some other arrangement under which there is some form of credit risk, is often known as the:
+•
+debtor;
+•
+principal debtor;
+•
+principal; or
+•
+obligor.
+11. In this Ruling, for simplicity and consistency, this party in a guarantee or an indemnity is referred to as the 'principal'.
+12. The party who has the risk, and who requires the guarantee or indemnity, is often known as the:
+•
+creditor; or
+•
+obligee.
+13. In this Ruling, this party is referred to as the 'creditor' despite the fact that there is not always a debtor-creditor relationship with the principal.
+14. Lastly, there is the person who guarantees or indemnifies the creditor against loss. This person is often known as the:
+•
+guarantor;
+•
+surety; or
+•
+indemnifier.
+15. In this Ruling, this party is called the 'surety'. To assist readers to understand the analysis, the term 'surety' has been used consistently throughout the Ruling, even though an indemnifier is not technically a surety. 'Surety under a guarantee', or 'surety under an indemnity' is specified where necessary.
+16. For example, therefore, in a simple guarantee for a bank loan, the borrower is referred to as the principal, the bank is referred to as the creditor, and the person who stands as guarantor is referred to as the surety.
+Terms used for parties to a guarantee of performance under a contract of service
+17. Different terms are used for the parties to contracts that guarantee the performance of services. If a guarantee is given that certain work will be done, or services performed, the following terms are used:  the 'service provider' is the party whose services are guaranteed; the 'recipient' is the party who receives the services and the benefit of the guarantee; and the 'surety' is the party giving the guarantee.
+18. Thus, in a simple guarantee of the performance of building work where a bank guarantees the work of a contractor for a land owner:  the contractor is the service provider; the land owner is the recipient; and the bank is the surety.
+Deeds of guarantee
+19. For simplicity, this Ruling refers to guarantees as
+contracts of guarantee
+, whether the guarantees are created for consideration or by deed, and whether written or unwritten.
+Background
+Guarantees and indemnities in GST
+20. Under section 40-5 of the
+A New Tax System (Goods and Services Tax) Act 1999
+(the GST Act), financial supplies are input taxed. The term
+financial supplies
+is defined in the GST regulations under Subdivision 40-A.
+21. The table in sub-regulation 40-5.09(3) lists the interests which can be financial supplies when they are provided, acquired, or disposed of. Item 7 of the table specifies a guarantee.
+[1A]
+Item 7A specifies an indemnity that holds a person harmless from any loss as a result of a transaction the person enters with a third party.
+22. Parts 5 and 5A of Schedule 7 to the GST Regulations provide the following examples of guarantees covered by item 7 and indemnities covered by item 7A:
+1.
+a surety bond that is a guarantee (item 7);
+2.
+a performance bond (item 7); and
+3.
+an indemnity that is not a contract of insurance (item 7A).
+[1B]
+23. None of the terms referred to in paragraphs 21 and 22 are defined in the GST Act or GST regulations.
+Guarantees and indemnities in general law
+24. A guarantee is an agreement under which one entity (the surety) agrees to be liable for the obligations of another (the principal) if the principal defaults. An indemnity is an obligation to an entity (the creditor) assumed by another (the surety), under which the surety agrees to keep the creditor harmless from risks arising from dealings with a third party.
+[1]
+25. Under a guarantee, there are two obligations:  the primary and secondary obligation. The principal has the primary obligation to the creditor, the surety the secondary. In other words, the surety has no liability under the guarantee unless the principal defaults on the primary obligation.
+26. A surety under a guarantee can not have a primary liability, nor can the surety's liability be greater than the principal's liability. If the primary obligation is extinguished, so is the guarantee. An event that alters the surety's liability may also extinguish the guarantee.
+27. The nature of the obligation assumed by the surety is the main distinction between a guarantee and an indemnity. In a contract of guarantee, the surety assumes a secondary obligation in case of the principal's default. In an indemnity, the surety assumes a primary obligation from the time the contract is made, whether or not the principal defaults. That is, the creditor can recover directly from the surety under an indemnity, without waiting for default by the principal. The principal, of course, also has a primary liability to the creditor. Unlike the obligation of the surety under a guarantee, the obligation under an indemnity may differ from what would have been the obligation of the principal.
+28. The surety under either a guarantee or an indemnity has a right of recovery for losses against the principal. That is, the surety has a right to be indemnified or reimbursed by the principal. This right may be contractual or arise only in equity. This Ruling refers to this as the 'underlying indemnity'.
+Statute of Frauds
+29. Much of the case law on the character of guarantees concerns the
+Statute of Frauds
+.
+[2]
+To be enforceable as a guarantee under the Statute, a guarantee must be in writing.
+30. The requirements for guarantees under the Statute have been written into most relevant Australian State and Territory legislation, though in New South Wales and the ACT, guarantees need not be in writing to be enforceable.
+[3]
+31. This body of law is principally concerned with the enforceability of contracts of guarantee. It is clear, however, that a contract of guarantee need not be enforceable under statute to be a 'guarantee'. For the purposes of item 7, therefore, guarantees need not be in writing.
+32. Indemnities are not covered by the Statute of Frauds, and need not be in writing for the purposes of item 7A.
+Warranty
+33. The term
+warranty
+is often used interchangeably with
+guarantee
+in commercial parlance. The two terms, however, are not equivalent in law, or under the GST legislation. Warranties are legally distinct from guarantees,
+[4]
+and their treatment under the GST law differs. The distinction between a guarantee and a warranty is further discussed at paragraphs 92 to 99.
+34. Warranties may exist within broader contracts. Technically, a warranty is a collateral or incidental term of a contract that gives an injured party a right to damages, but not the right to terminate the contract.
+[5]
+In contract law, warranties under contracts are contrasted with
+conditions
+, which relate to the main purpose of the contract and the breach of which can result in termination.
+35. In the context of contracts for the sale of goods, warranties are terms (express or implied) that are collateral to the contract for sale, and which give the purchaser the right to damages if the seller breaches the warranty, but not the right to reject the goods and terminate the contract. A typical example of a warranty in a sale of goods is that the goods will pass to the purchaser in the condition described, and perform their function for a prescribed period.
+36. Not everything called a warranty in commercial dealings is a warranty in legal terms. In the commercial world, particularly in retail sales,
+warranties
+are often contracts in their own right, in which a supplier or manufacturer agrees to repair or replace faulty goods or compensate faulty workmanship where these come to light within an agreed period of time. In some cases, a third party may offer this contractual 'warranty' for goods as an incentive for a purchaser to enter into a contract of sale with another entity or may offer, for a fee, to extend the warranty offered by the supplier. This is discussed further at paragraphs 92 to 99.
+37.
+Warranty
+also has a particular meaning under contracts of insurance.
+Insurance
+38. A contract of insurance may be classified according to its nature, that is, whether it is one of indemnity or whether it amounts to a contract for the payment of a sum of money on the happening of a contingency.
+[6]
+Indemnity insurance holds the insured harmless against loss. This is the object of the most commonly understood type of insurance.
+[7]
+39. Contracts of insurance can be distinguished from guarantees and other forms of indemnity. Unlike a surety under a guarantee or indemnity covered by item 7 or 7A, an insurer has no underlying right to be indemnified by the insured. The insurer bears the full risk of the contract. For this reason, contracts of insurance are contracts
+uberrimae fidei
+- contracts of 'utmost good faith' - and are therefore conditional on the insured disclosing to the insurer facts relevant to the risk the insurer will bear.
+40. Another distinguishing feature of insurance is that it must be effected with a direct, explicit, and independent contract. In a guarantee, the three parties can assume their roles as principal, creditor, and surety under separate agreements which, for the purposes of GST, need not be in writing. Indemnities need not be written and can be recognised in equity rather than contract in some circumstances. Insurance, however, requires a contract. This is usually in response to a signed proposal from the insured. Under the contract, the insurer agrees to pay the insured a sum on the happening of a certain event.
+41. Summarising, the distinguishing features of insurance are:
+•
+The insurer has primary liability under the contract;
+•
+The insurer bears the risk of loss,
+[8]
+that is, the insurer has no right to be indemnified by the insured under the contract;
+•
+The contract is made in utmost good faith, that is, the insured must disclose anything relevant to the insurer's risk;
+•
+The insured is not entitled to profit from the contract, that is, if the insured salvages anything from the loss, the amount salvaged is reflected in the settlement by the insurer;
+•
+The contract is usually made in a commercial context, and the insurer receives a premium;
+•
+The contract of insurance is usually formed by the insurer issuing a policy in response to a proposal by the insured;
+•
+A contract of insurance is void if the insured has no insurable interest in the subject matter; and
+•
+The insurer must be an entity authorised to carry on an insurance business.
+Reinsurance
+42. Only an insurer can reinsure. Reinsurance is the method insurers use to lay off or cede part or all of their risk under a policy. A reinsurance policy is insurance against an insurer's risk of having to pay out on a policy the insurer has issued. It is, therefore, a form of indemnity and, like other insurance, a contract of utmost good faith between the insurer and reinsurer.
+43. An insurer may reinsure with a number of insurers, to spread large risks. If the insured makes a claim upon which the insurer must pay, each reinsurer is only liable for the amount under their policy of reinsurance, not for the whole amount of the insurer's liability under the policy.
+44. For there to be reinsurance, there must be an original insurance contract (that is, a contract between insurer and insured, which then becomes the subject of reinsurance by the insurer).
+45. Reinsurance has the characteristics of insurance. Like other forms of insurance, reinsurance is not a financial supply. The only exception to this is life insurance, which is a financial supply, as is its reinsurance.
+46. Paragraphs 103 to 105 discuss the special industry use of the term 'reinsurance' in the context of surety bonds.
+Performance bonds
+47. In a performance bond, a surety is liable for the performance, by a service provider, of the conditions under the service provider's contract with the recipient of the services.
+[9]
+The surety's obligation is to make good the service provider's obligation. Performance bonds do not usually cover an obligation of the service provider to make payment, but rather an obligation to perform services, or carry out other work, or meet conditions in a contract. A performance bond may take the form of a guarantee (that is, the surety has a secondary liability), but are commonly indemnities (where the surety takes on a primary liability along with the service provider).
+Ruling and Explanation
+Meaning of the terms 'guarantee' and 'indemnity' in items 7 and 7A
+48. [Omitted.]
+49. [Omitted.]
+50. [Omitted.]
+51. Common characteristics of guarantees and indemnities, in the context of items 7 and 7A of the table in subregulation 40-5.09(3) of the GST Regulations, are that the arrangements involve three parties, and in each arrangement there is an underlying indemnity which flows from the relationships between the parties.
+52. Because of the existence of this underlying indemnity, the nature of the risk undertaken by the surety in these arrangements is the risk that the principal will be unable to reimburse the surety if it is required to make a payment. This risk is a form of credit risk.
+Guarantees
+53. There are three parties to a guarantee:  the principal, the creditor and the surety. Guarantees are contractual arrangements under which the surety agrees to make good the obligation of the principal if the principal defaults.
+54. Guarantees (and indemnities) may be recompensed or non-recompensed. In a recompensed guarantee, the surety is paid a fee, usually by the principal. Most guarantees provided in a commercial environment are recompensed guarantees. But the form of guarantee under which the directors of a family company guarantee the company's obligations is usually a non-recompensed guarantee.
+55. The diagram below sets out the flow of obligations and consideration under a typical recompensed guarantee for lease payments. The creditor supplies a commercial lease to the principal. The principal pays the surety to provide rights under a guarantee to the creditor (a financial supply). The surety, in this case, receives consideration from two sources, the creditor and the principal.
+Figure 1:  Flow of supplies and consideration under a guarantee
+Supply of an interest in a guarantee
+56. Paragraph 12 of Taxation Ruling TR 96/23,
+[15]
+which is about the capital gains tax implications of a non-recompensed guarantee to pay a debt, says:
+On entering into a guarantee contract, a creditor acquires a further asset (in addition to the underlying debt) being the contractual rights under the guarantee, that is, rights including a right to call on the guarantor for payment.
+57. The supply of an interest in a guarantee must be for consideration unless the guarantee is under seal:
+The consideration for the guarantee must move from the person to whom the guarantee is given; although indeed the whole consideration need not move from that person. In the context of a guarantee, the consideration will be in the form of a creditor incurring some detriment in reliance on the promise to guarantee rather than conferring some benefit upon the guarantor.
+[16]
+58. The consideration that the creditor provides is their entry into the arrangement with the principal:  for example, the entry into a lease. This view follows that given in Taxation Ruling TR 96/23 at paragraph 59 to 60, which itself cites the second edition of
+The Modern Contract of Guarantee
+and cases to support its view. The third edition of
+The Modern Contract of Guarantee
+states:
+[17]
+The usual form of consideration provided by the creditor is the creditor's action in entering into the principal transaction (for example, by the supply of particular goods;
+[18]
+the making of advances to the principal;
+[19]
+the entering into a lease
+[20]
+[...]) In cases in which the consideration is the actual act of entering into the principal transaction, the guarantee will only become binding when that act occurs, that is, by the actual supply of goods, the actual making of advances or the entering into a lease.
+[21]
+59. The surety therefore makes a supply of an interest in a guarantee for consideration. Taxation Ruling TR 96/23 identifies the consideration provided by the creditor as the promise of the creditor to make a loan, or extend or maintain credit to the debtor. The Ruling sets the market value of the consideration provided by the creditor at nil.
+[22]
+60. While the entry into the principal transaction is consideration, that consideration is in the form of a detriment to the creditor, rather than a benefit to the surety. The entry into the transaction, therefore, is not, of itself, a supply by the creditor to the surety for the purposes of the GST law.
+61. Whether or not the principal pays a fee to the surety, the principal has no rights under the guarantee, and does not acquire an interest in a guarantee for the purposes of item 7. That is, the surety does not make a supply of an interest in a guarantee to the principal. It does, however, make a supply of such an interest to the creditor, as shown in Figure 1.
+62. If the principal pays the surety a fee, it is further consideration for the supply of an item 7 interest in a guarantee, that is, in addition to the consideration provided by the creditor.
+63. The surety, in creating the interest in the guarantee, makes a supply to the creditor and is therefore the financial supply provider of the interest. If the other conditions of subregulation 40-5.09(1) of the GST regulations are met, the surety makes a financial supply.
+64. The creditor, in acquiring the interest, may also make a financial supply.
+[23]
+The underlying indemnity
+65. In most guarantees, the surety has the right to be indemnified by the principal. This occurs as a matter of course when a surety enters into a guarantee at the request of the principal, or the principal has knowledge of, or concurs with, the granting of the guarantee. As noted at paragraph 30 of Taxation Ruling TR 96/23:
+On entering into a contract of guarantee, the guarantor acquires an asset which is a right to be indemnified by the principal debtor. That right of indemnity arises by way of an express or implied term in the contract of guarantee, if the contract is a tri-partite agreement. Otherwise, the right of indemnity arises under an implied contract of indemnity between the principal debtor and the guarantor on entry into the contract of guarantee. Until default by the principal debtor and payment by the guarantor, a guarantor is not entitled to sue on the right of indemnity (whether it is a legal or an equitable right). Of course, the debtor may not default, the debt may be otherwise paid or it may be released.
+66. If the principal is not a party to the contract, and neither requested nor was aware of it, the surety's ability to obtain reimbursement relies on a restitutionary claim.
+67. The creation of the underlying indemnity in a guarantee, whether it arises under contract or otherwise, is not the provision of an indemnity for the purposes of item 7A. The Commissioner considers that the intention of listing a 'guarantee' in item 7 and an 'indemnity' in item 7A was to ensure that supplies of interests in guarantees and those indemnities covered by item 7A are financial supplies.
+68. The Commissioner does not consider that the intention was to require such guarantees and indemnities to be further analysed to expose the underlying indemnities that arise incidentally under those contracts, and treat them as separate supplies. Following this reasoning, these underlying indemnities do not give rise to separate supplies and therefore the incidental creation of such underlying indemnities is not a financial supply.
+69. [Omitted.]
+Indemnities
+69A. Item 7A, which applies from 1 July 2012, covers an indemnity that holds a person harmless from any loss as a result of a transaction the person enters with a third party. An income guarantee is therefore not covered by item 7A as it does not involve holding a person harmless from any loss as a result of a transaction the person enters into with a third party.
+69B. Prior to the introduction of item 7A, the provision of an interest in an indemnity made before 1 July 2012 was covered by item 7. The expression 'indemnity' takes different meanings according to its context. At its broadest, it is used to refer to an undertaking to hold another harmless against loss. In this broad sense, it may embrace recompense for any loss or liability which one person has incurred, arising out of contract or by operation of law. An example of the latter is a guarantor's right of indemnity from a principal.
+[23A]
+69C. The High Court in
+Sunbird Plaza Pty Ltd v. Maloney (Sunbird Plaza)
+[23B]
+has described an indemnity as 'a promise by the promisor that he will keep the promisee harmless against loss as a result of entering into a transaction
+with a third
+party' (emphasis added). Given its use in former item 7 as part of the expression 'Guarantee including an indemnity' in the context of guarantees and indemnities of the type supplied for consideration, we consider that 'indemnity' was used in former item 7 in the sense articulated by the High Court in
+Sunbird Plaza
+.
+69D. Although item 7A expressly limits the type of indemnity that it covers, the introduction of item 7A does not indicate that the previous use of the term 'indemnity' in former item 7 had a broader meaning. In discussing the introduction of item 7A, the Explanatory Statement to
+A New Tax System (Goods and Services Tax) Amendment Regulation 2012 (No. 1)
+states:
+It is not intended that these amendments change the existing interpretation of the terms guarantee, indemnity or warranty as set out under item 7 of the table in subregulation 40-5.09(3). The amendments merely clarify the drafting and confirm the existing treatment.
+70. In an indemnity covered by item 7A, the surety takes primary responsibility for an obligation arising in relation to a third party. That is, the creditor may recover directly from the surety, regardless of whether the principal defaults.
+71. As with guarantees, indemnities may be recompensed or non-recompensed. Under the GST regulations, supplies of interests under an indemnity are treated in the same way as those made under a guarantee.
+72. In common with guarantees, the surety under an indemnity to which item 7A applies has a right to be indemnified or reimbursed by the principal. This underlying indemnity may arise either contractually or in equity, depending on whether the principal requested or had knowledge of the granting of the indemnity.
+73. As with underlying indemnities arising under guarantees, the incidental creation of underlying indemnities within indemnities is not a financial supply.
+73A. Not every arrangement involving three parties that results in the creation of an indemnity involves a supply of an indemnity under item 7A. For example, there is a requirement arising in law that a principal indemnifies its agent, or a third party that contracted with its agent, if the agent is unwilling or unable to do so. These indemnities are not treated as being separate to the contract under which they arise, in a similar way to the underlying indemnity.
+Payment under a guarantee or indemnity
+74. If the surety is called upon to make a payment to the creditor under a guarantee or indemnity, the payment is made as a result of the exercise of the creditor's rights under the guarantee or indemnity.
+[24]
+75. Where the surety pays money, this is not consideration for the release of the surety from an obligation under paragraph 9-10(2)(g) of the GST Act, nor is it consideration for the surrender of the creditor's rights under paragraph 9-10(2)(e). Rather, the payment discharges (or partly discharges) the surety's obligations under the contract.
+[25]
+Accordingly, there is no supply to the surety by the creditor in consideration of the payment by the surety.
+76. The payment of money on the exercise of a right is also not a supply by the surety because of subsection 9-10(4) of the GST Act.
+[26]
+77. Following a payment by the surety under the guarantee or indemnity, the surety is entitled to payment from the principal under the underlying indemnity. This payment is also not consideration for the release of the principal from an obligation, nor for the surrender of the surety's rights. The payment discharges the principal's obligations under the contract or in accordance with the law. That is, there is no supply to the principal by the surety in consideration of the payment by the principal.
+78. As is the case with a payment by the surety to the creditor under a guarantee or indemnity (see paragraph 76), the payment of money on the exercise by the surety of the right to be indemnified is also not a supply by the principal because of subsection 9-10(4) of the GST Act.
+Payment in the hands of the creditor
+79. Although the payment made by the surety is not a supply, and is not consideration for a financial supply of the release of obligations under the guarantee, it may be consideration for a supply made by the creditor to the principal.
+80. Where the creditor has made a supply to the principal, payment for which is guaranteed by the surety, a payment by the surety is third-party consideration for that supply.
+81. This is the case whether the payment is made under a guarantee or an indemnity. In the case of a guarantee, the payment is limited by the liability of the principal.
+Example 1
+82. Tarot Corporation (Tarot) agrees to guarantee the lease payments of its subsidiary, Channel Limited (Channel), if Highrise Unit Trust (Highrise) enters into a two year lease with Channel.
+83. Channel fails to make the lease payments and Tarot pays the amount owing to Highrise. The payment is consideration for the supply by way of the lease by Highrise. The payment is third party consideration by Tarot.
+84. Tarot has a right of indemnity against Channel for the amount it paid Highrise.
+85. In the case of an indemnity, the payment may exceed the actual consideration for the supply made to the principal, the surety being called upon to make good the loss of the creditor in full. If this is the case, the GST treatment of the payment will depend upon what the payment to the creditor is for.
+Example 2
+86. Channel Limited is a manufacturer of greeting cards. It does not have a good credit rating, and its suppliers of paper products are reluctant to provide further supplies on credit. Tarot Corporation, its parent company, undertakes to indemnify Papier Limited (Papier) in relation to amounts owing on paper products it supplies to Channel.
+87. In the course of delivering the paper products to Channel, one of Papier's trucks is damaged on Channel's poorly maintained driveway.
+88. Papier claims payment from Tarot of both the cost of the paper products and the repairs to the truck.
+89. The payment that relates to the supply of paper products is third-party consideration for that supply. The part of the payment that relates to the repair of the truck is compensation for damage caused and is not consideration for a supply under the GST law.
+90. Tarot has a right of indemnity against Channel for the full amount it has paid Papier.
+91. This Ruling does not deal with the entitlement to, or attribution of, input tax credits when a payment is made under a guarantee or indemnity which relates to an acquisition by the principal from the creditor.
+Warranties
+92. Supplies of warranties are not financial supplies under item 7, except where they have the characteristics of a guarantee. This does not commonly occur.
+93. In commercial parlance, the terms
+warranty
+and
+guarantee
+are sometimes used interchangeably. In general, the term
+guarantee
+describes a collateral contract 'by which one person is bound to another for the due fulfilment of a promise or engagement of a third party', while the term
+warranty
+describes 'a contract as to title, quality or quantity of a thing sold'.
+[27]
+Written or oral assurances as to the quality or performance of consumer goods are warranties at law, not guarantees.
+94. Under item 21 in the table in regulation 40-5.12, a supply of, or an interest in or under a warranty for goods is not a financial supply.
+[27A]
+Goods, according to the Dictionary in the GST Act, are 'any form of tangible personal property'.
+[28]
+95. A warranty for the quality of services, or property other than goods, although not covered by item 21 in the table in regulation 40-5.12, does not fall within item 7 in the table in subregulation 40-5.09(3) unless it has the character of a guarantee. This is because item 7 deals with guarantees, and only arrangements which have the characteristics of a guarantee described in paragraphs 24 to 28 and 53 to 55 fit within the item. Should a warranty for services or property other than goods have the necessary characteristics, it will fall within item 7.
+96. A warranty does not usually relate to the obligations of a third party. However, in some cases a warranty may be given by an entity to induce a customer to purchase goods or services from another entity. In this case, the provider of the warranty agrees to make good defects in goods or services provided to the customer, if those goods or services are not of the standard warranted by the supplier.
+97. An extended warranty offered on goods, where for a fee a third party agrees to make good any faults in goods sold by a retailer for a specified period, is another example of a three party warranty. Neither this, nor the example in paragraphs 100 to 102, is a guarantee for the purposes of item 7.
+98. These warranties are three-party agreements containing 'a promise by the promisor that he will keep the promisee harmless against loss as a result of entering into a transaction with a third party'.
+[29]
+Few three-party warranties, however, contain an underlying indemnity under which the surety (in this example the third party) has the right to be indemnified by the principal (in this case the retailer) for any payment made to the creditor (in this case, the customer). These warranties do not, therefore, have the relevant characteristics of a guarantee identified in paragraphs 24 to 28 and 53 to 55, and are not financial supplies under item 7.
+99. Some guarantees may exist that take the superficial form of a warranty for goods or services. However, where these have three parties in the proper relationships, and an underlying indemnity between the entity providing the 'warranty' and the goods or services provider, the proper characterisation is as a guarantee, notwithstanding that goods or services are the subject matter of the agreement. Performance bonds for construction work are an example of this type of guarantee.
+Example 3
+100. Norman's, a motorcycle repairer and spare parts dealer, offers a five year warranty to purchasers of selected models of the Nippy 2000 motorbike. The Nippy 2000 comes with a one year warranty from the dealer. For a payment of $400 Norman's agrees to repair any faults in the bike for four years after the initial warranty period. Valentino Bianco agrees to buy a Nippy 2000 from Mr. Toad's Motors and purchases the extended warranty.
+101. When, one year and 10 days later, the bike develops some problems due to a faulty part, Valentino takes it back to Mr Toad's, which sends it to Norman's to make the repairs. Norman's bears the costs under the extended warranty.
+102. Despite there being three parties to the agreement, this is not a guarantee under item 7, as Norman's has no right to be indemnified by Mr Toad's Motors. The supply of the extended warranty is a taxable supply for which the $400 is consideration.
+Reinsurance of surety bonds
+103. Reinsurance, as discussed at paragraphs 42 to 46, is a form of insurance, and always relates to underlying contracts of insurance.
+104. An exception to this occurs in relation to surety bonds under which the risk of the surety is ceded in part or wholly to another entity. These arrangements are referred to, in the surety industry, as 'reinsurance'. In these arrangements, the underlying contract is not a contract of insurance, but rather a guarantee. The so-called 'reinsurance' contract is also not a contract of insurance.
+105. This 'reinsurance' of surety bond products has the same character as a surety bond product itself. That is, such arrangements involve a supply of an interest in or under a guarantee and are not contracts of insurance. The 'reinsurer' therefore makes a financial supply by entering into the ceding arrangement. As the recipient of the 'reinsurance', the surety also makes a financial supply, being an acquisition supply.
+Examples of interests included in items 7 and 7A
+106. The following paragraphs discuss particular types of guarantees and indemnities covered by items 7 and 7A.
+An indemnity that is not a contract of insurance
+107. The example in Part 5A of Schedule 7 to the GST regulations for item 7A is 'an indemnity that is not a contract of insurance'. Insurance is a special form of indemnity and is included in item 10 of regulation 40-5.12. Therefore, a supply of, or an interest in or under insurance is not a financial supply. The characteristics of guarantees covered by item 7, indemnities covered by item 7A and contracts of insurance are quite different. Paragraphs 38 to 41 discuss the features of insurance.
+108. Some contracts of indemnity are neither indemnities covered by item 7A in the table in subregulation 40-5.09(3) nor contracts of insurance.
+109. An example is a 'commercial' indemnity in which one entity agrees to make good the loss of a second entity in certain circumstances not involving a transaction with a third party. This type of indemnity includes income 'guarantees' in which a vendor of a business agrees to pay the difference between the estimated income from the business and the actual income to the purchaser for a given period.
+110. If this type of indemnity is provided for consideration, it may be a taxable supply by the entity making the promise.
+[31]
+A surety bond that is a guarantee
+111. The first example in Part 5 of Schedule 7 for item 7 is surety bonds. Surety bonds are commercial products under which the surety undertakes to secure certain obligations owed by a principal to a creditor. Performance bonds are particular types of surety bonds.
+112. Surety bonds have the character of guarantees. The provision, creation, or acquisition of an interest in a surety bond may therefore be a financial supply.
+113. Supplies of interests under contracts described as surety bonds, but which are not guarantees under item 7, are not financial supplies.
+A performance bond
+114. The second example of an item 7 interest is 'a performance bond'.
+What is a performance bond?
+115. A performance bond is an undertaking by a person to make good a contractual obligation of another to a third party, usually on proof of the failure of that other person to perform the relevant obligation.
+116. When an entity agrees to guarantee the work or performance of another under a performance bond, the entity makes a financial supply in the same manner as discussed at paragraphs 53 to 64. The supply of rights under a performance bond is a financial supply, and the consideration consists of the recipient's engagement of the service provider, together with any fees the service provider pays for the guarantee.
+117. The entry into the contract with the service provider is not a supply by the recipient to the surety for the purposes of the GST law.
+118. The diagram below sets out the flow of obligations and consideration under a typical performance bond for building work. The recipient enters into a building contract with the principal. The service provider pays the surety to provide rights under a performance bond to the recipient (a financial supply). The surety receives consideration from two sources:  the recipient and the service provider.
+Figure 2:  Flow of supplies and consideration under a performance bond
+119. Performance bonds are used in large-scale project financing transactions. An example arising in the construction industry is an unconditional undertaking from a financial institution or insurance company addressed to a proprietor of land, in which the institution or company promises to pay the proprietor the amount set out in the undertaking on demand from the proprietor.
+[32]
+120. Some performance bonds contain an option for the surety to perform the contract rather than pay the relevant amount, while, rarely, others will require performance only.
+121. Performance bonds may be conditional or unconditional. A conditional performance bond imposes a secondary obligation on the surety and is only enforceable on breach by the service provider.
+122. An unconditional performance bond permits the recipient to call first upon the surety, and does not require proof of a breach before it is invoked.
+123. Performance bonds may also be known as 'bank guarantees' or 'insurance bonds'. These terms indicate the nature of the entity providing the assurance, and generally refer to unconditional performance bonds.
+124. Insurance bonds that are issued by an insurance company are distinct from contracts of insurance. The provision, creation, or acquisition of an interest in an insurance bond that is a performance bond falls within item 7 and is an input taxed supply. However, to the extent that a product is a contract of insurance, the product falls within item 10 of the table in subregulation 40-5.12 as it is not a financial supply.
+125. Regardless of the name given to the product, it is a guarantee under item 7 if it has the characteristics outlined at paragraphs 24 to 28 and 53 to 55 of this Ruling or an indemnity under item 7A if it has the characteristics outlined at paragraphs 27 to 28 and 69A to 73A of this Ruling. The effect of payments or supplies made under these products is dealt with below.
+Supplies made under performance bonds
+126. In commercial practice, performance bonds are given for the quality, timeliness, or some other measure of supplies being made to an entity. In this case, the recipient has contracted for the service provider to make a supply to the recipient. The surety guarantees the quality or timeliness of the completed work.
+127. If the work is not satisfactorily completed, the recipient has the right to call on the surety under the bond (often without calling on the service provider in the case of an unconditional bond). The surety may choose to complete or repair the work instead of making a payment, if this is allowed in the bond document, and there is no legal impediment.
+128. Whether the surety pays an amount or makes a supply, the payment or supply is not consideration for the release from an obligation for the same reasons discussed in paragraph 76.
+129. If the surety makes a cash payment, the payment is not a supply.
+[34]
+130. If the surety makes a supply of work and the recipient provides no additional consideration to the surety when it performs the work, there is no consideration for the supply. There is, therefore, no taxable supply by the surety.
+[35]
+131. In some performance bond contracts, the recipient is not interested in compensation for uncompleted work, but simply wants assurance that the surety will complete the work if the service provider does not. Even where no provision is made in the performance bond for the surety to make a cash payment, the surety's supply of the rights under the performance bond to the recipient is a financial supply in common with other performance bonds and standard guarantees.
+132. If the payments under the underlying contract (for example, a construction contract) have all been made to the original contractor, and no payments are made to the surety for the completion of the contract, the supply of completing the contract is for no consideration, and is not a taxable supply by the surety.
+133. If, under the terms of the contract between the parties, the recipient pays part of the consideration for the work to the surety, this is consideration for a taxable supply of the work the surety performs, as distinct from a supply of rights under the performance bond.
+134. Under all of these circumstances, the surety has a right to be indemnified by the service provider. But this underlying indemnity is not regarded as a separate supply (see paragraph 139).
+Payment or supplies under a performance bond in the hands of the recipient
+135. The recipient in a contract for services (for example, building services) contracts for an outcome. A performance bond guarantees that outcome.
+136. If the supply that the service provider makes to the recipient is inferior or incomplete, and the recipient receives a payment from the surety, this payment is made to meet the surety's obligations under the performance bond. It is not an adjustment to the price of the original supply, nor is it consideration for a separate supply by the recipient.
+137. The effect of the surety choosing to complete or repair the work is as follows. The recipient contracts for a completed job of a certain standard, and the job is completed to that standard by the surety. The recipient achieves what it contracted for, but by way of supplies by two entities instead of one. One of the entities (the service provider) makes a taxable supply, while the other (the surety), provided it received no payment from the recipient, makes a supply for no consideration.
+138. If some of the payments for the work are actually made to the surety, both entities make a taxable supply in completing the job the recipient contracted for.
+139. Whether the surety makes a payment or completes the work, it is entitled to be indemnified by the service provider for the payment or the value of the work done. As with other guarantees and indemnities (see paragraphs 65 to 68 and 71 to 73), the underlying indemnities arising incidentally out of performance bonds are not separate supplies, and, therefore, do not involve financial supplies.
+Detailed contents list
+140. Below is a detailed contents list for this Goods and Services Tax Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+4
+Frequently used terms
+6
+'Guarantee' and 'indemnity'
+6
+Terms for the parties to a guarantee or indemnity arrangement
+9
+Terms used for parties to a guarantee of performance under a contract of service
+17
+Deeds of guarantee
+19
+Background
+20
+Guarantees and indemnities in GST
+20
+Guarantees and indemnities in general law
+24
+Statute of Frauds
+29
+Warranty
+33
+Insurance
+38
+Reinsurance
+42
+Performance bonds
+47
+Ruling and Explanation
+48
+Meaning of the terms 'guarantee' and indemnity' in items 7 and 7A
+48
+Guarantees
+53
+Supply of an interest in a guarantee
+56
+The underlying indemnity
+65
+Indemnities
+69A
+Payment under a guarantee or indemnity
+74
+Payment in the hands of the creditor
+79
+Example 1
+82
+Example 2
+86
+Warranties
+92
+Example 3
+100
+Reinsurance of surety bonds
+103
+Examples of interests included in items 7 and 7A
+106
+An indemnity that is not a contract of insurance
+107
+A surety bond that is a guarantee
+111
+A performance bond
+114
+What is a performance bond
+?
+115
+Supplies made under performance bonds
+126
+Payment or supplies under a performance bond in the hands of the recipient
+135
+Detailed contents list
+140
+Commissioner of Taxation
+22 March 2006
+Footnotes
+[1]
+Indemnities can also be contracted against the occurrence of some event, but these indemnities are often in the nature of insurance, and are therefore not covered by item 7. For further discussion on insurance-type indemnities, see paragraphs 38 to 41.
+[1A]
+Item 7 was amended by
+A New Tax System (Goods and Services Tax) Amendment Regulation 2012 (No.1)
+with effect from 1 July 2012. Item 7 previously covered 'a guarantee, including an indemnity (except a warranty for goods or a contract of insurance or reinsurance)'.
+[1B]
+A New Tax System (Goods and Services Tax) Amendment Regulation 2013 (No. 2)
+amended the examples for guarantees and indemnities previously listed under Part 5 of Schedule 7 to the Regulations.
+[2]
+Statute of Frauds 1677
+(UK).
+[3]
+O'Donovan, J & Phillips, J 1996,
+The Modern Contract of Guarantee
+(3rd ed), Law Book Company, Sydney, p. 67.
+[4]
+The two are distinguished in the New Zealand case,
+The Commissioner of Inland Revenue v. Motorcorp Holdings Ltd and Ors
+[2005] NZCA 33, CA17/04, paragraphs [60] and [61].
+[5]
+Halsbury's Laws of England
+(4th ed) 9:  543; 18:  1299n.
+[6]
+Sutton, K 1999,
+Insurance Law in Australia
+(3rd ed), Law Book Company, Sydney, p. 12.
+[7]
+Contingency insurance, by contrast, is insurance contingent on the occurrence of some event. Loss of income insurance is an example of contingency insurance.
+[8]
+Except to the extent of any excess the insured must pay on a claim.
+[9]
+See paragraphs 17 and 18 for an explanation of 'service provider' and 'recipient'.
+[10]
+[Omitted.]
+[11]
+[Omitted.]
+[12]
+[Omitted.]
+[13]
+[Omitted.]
+[14]
+[Omitted.]
+[15]
+TR 96/23 Income tax:  capital gains:  implications of a guarantee to pay a debt.
+[16]
+O'Donovan, J & Phillips, J 1996,
+The Modern Contract of Guarantee
+(3rd ed), Law Book Company, Sydney, p. 52.
+[17]
+O'Donovan, J & Phillips, J 1996,
+The Modern Contract of Guarantee
+(3rd ed), Law Book Company, Sydney, p. 54.
+[18]
+Raikes v. Todd
+(1838) 8 Ad & El 846 at 857; 112 ER 1058 at 1062 per Patterson J,
+Robertson v. Healy
+(1866) 5 SCR (NSW) 290,
+Chapman v. Sutton
+(1846) 2 CB 634; 135 ER 1095,
+Bank of Montreal v. Germain
+[1976] WWD 75
+[19]
+Smith v. Passmore
+(1883) 4 LR (NSW) 274,
+SH Lock Discounts
+&
+Credits Pty Ltd v. Miles
+[1963] VR 656,
+Westhead v. Sproson
+(1861) 6 H & N 728; 158 ER 301. See also
+Mockett v. Ames
+(1871) 23 LT 729.
+[20]
+Chan v. Cresdon Pty Ltd
+(1989) 168 CLR 242.
+[21]
+Greenham Ready Mixed Concrete Ltd v. CAS (Industrial Development) Ltd
+(1965) 109 SJ 209 (the consideration was 'recommencing to supply' the principal),
+National Australia Bank Ltd v. McKay
+[1995] ATPR 41-409 (consideration constituted by provision of 'banking accommodation'),
+Hill Equipment
+&
+Refrigeration Co Pty Ltd v. Nuco Pty Ltd
+(1992) 110 FLR 25; (1992) 10 BCL 375,
+Chan v. Cresdon Pty Ltd
+(1989) 168 CLR 242,
+Bank of Montreal v. Sperling Hotel Co Ltd
+(1973) 36 DLR (3d) 130,
+Westhead v. Sproson
+(1861) 6 H & N 728; 158 ER 301,
+Morrell v. Cowan
+(1877) 6 Ch D 166 at 170.
+[22]
+TR 96/23 paragraph 14.
+[23]
+Provided the other conditions of subregulation 40-5.09(1) of the GST regulations are met. Given that under subregulation 40-5.06(2) of the GST regulations, the acquirer of a financial interest is also the financial supply
+provider
+of the interest, it is usual for the acquirer of an interest under subregulation 40-5.09(1) to also be making a financial supply. This is known as the 'acquisition-supply'. For more detail on the acquisition-supply, see GSTR 2002/2 Goods and services tax:  GST treatment of financial supplies and related supplies and acquisitions.
+[23A]
+J Phillips and J Donovan,
+The modern contract of guarantee,
+3rd Edn, LBC Information Services, Sydney, 1996 at page 25.
+[23B]
+(1988) 166 CLR 245 at 254; (1988) 77ALR 205 at 207.
+[24]
+For the purposes of capital gains tax, the exercise of the creditor's rights is a disposal of its rights under the guarantee and a CGT C2 event under section 104-25 of the
+Income Tax Assessment Act 1997
+.
+[25]
+This is analogous to the discharge of the judgement debtor's obligation referred to by Underwood J in
+Shaw v. Director of Housing and State of Tasmania (No. 2
+) (2001) 10 Tas R 1; (2001) 159 FLR 322; 2001 ATC 4054; (2001) 46 ATR 242; [2001] TASSC 2.
+[26]
+Subsection 9-10(4) of the GST Act states that a supply of money is not a supply, unless it is provided as consideration for another supply of money.
+[27]
+O'Donovan, J & Phillips, J 1996,
+The Modern Contract of Guarantee (3rd ed
+), Law Book Company, Sydney, p. 31.
+[27A]
+Item 21 applies from 1 July 2012. Prior to 1 July 2012, item 7 in the table in subregulation 40-5.09(3) excluded a warranty for goods.
+[28]
+GST Act section 195-1.
+[29]
+Sunbird Plaza
+(1988) 166 CLR 245 at 254; (1988) 77 ALR 205 at 207.
+[30]
+[Omitted.]
+[31]
+GSTR 2003/16 paragraphs 69 and 72.
+[32]
+Butterworths Australian Legal Dictionary
+, 1997, Butterworths, Sydney, p. 866.
+[33]
+[Omitted.]
+[34]
+Subsection 9-10(4) of the GST Act.
+[35]
+Paragraph 9-17(1)(b) of the GST Act.
+Previously issued in draft form as GSTR 2005/D2
+References
+ATO references:
+NO  2005/2263
+ISSN:  1443-5160
+Related Rulings/Determinations:
+GSTR 2002/2
+GSTR 2003/16
+TR 96/23
+TR 2006/10
+Subject References:
+contract
+creditor
+debtor
+deed of guarantee
+financial interest
+financial supply
+financial supply provider
+guarantee
+guarantor
+indemnifier
+indemnity
+input taxed supply
+insurance
+obligee
+obligor
+performance bond
+principal
+reinsurance
+rights
+Statute of Frauds
+surety
+surety bond
+three-party contract
+utmost good faith
+warranty
+Business Line:
+ISP - GST
+Legislative References:
+AIA 1901  15AD
+ANTS(GST)A 1999  9-10(2)(e)
+ANTS(GST)A 1999  9-10(2)(g)
+ANTS(GST)A 1999  9-10(4)
+ANTS(GST)A 1999 9-17(1)(b)
+ANTS(GST)A 1999  40-5
+ANTS(GST)A 1999  195-1
+ANTS(GST)R 1999  Subdiv 40-A
+ANTS(GST)R 1999  40-5.06(2)
+ANTS(GST)R 1999  40-5.09(1)
+ANTS(GST)R 1999  40-5.09(3)
+ANTS(GST)R 1999  40-5.11
+ANTS(GST)R 1999 40-5.12
+ANTS(GST)R 1999  Sch 7 Pt 5
+ITAA 1997  104-25
+Statute of Frauds 1677 (UK)
+TAA 1953  37
+TAA 1953 Sch 1 Div 358
+A New Tax System (Goods and Services Tax) Amendment Regulation 2012 (No. 1)
+A New Tax System (Goods and Services Tax) Amendment Regulation 2013 (No. 2)
+Case References:
+Bank of Montreal v. Germain
+[1976] WWD 75
+Bank of Montreal v. Sperling Hotel Co Ltd
+(1973) 36 DLR (3d) 130
+Chan v. Cresdon Pty Ltd
+(1989) 168 CLR 242
+Chapman v. Sutton
+(1846) 2 CB 634
+135 ER 1095
+Greenham Ready Mixed Concrete Ltd v. CAS (Industrial Development) Ltd
+(1965) 109 SJ 209
+Hill Equipment & Refrigeration Co Pty Ltd v. Nuco Pty Ltd
+(1992) 110 FLR 25
+(1992) 10 BCL 375
+Mockett v. Ames
+(1871) 23 LT 729
+Morrell v. Cowan
+(1877) 6 Ch D 166 at 170
+National Australia Bank Ltd v. McKay
+[1995] ATPR 41-409
+Raikes v. Todd
+(1838) 8 Ad & El 846
+112 ER 1058
+Robertson v. Healy
+(1866) 5 SCR (NSW) 290
+SH Lock Discounts & Credits Pty Ltd v. Miles
+[1963] VR 656
+Shaw v. Director of Housing and State of Tasmania (No. 2)
+(2001) 10 Tas R 1
+(2001) 159 FLR 322
+2001 ATC 4054
+(2001) 46 ATR 242
+[2001] TASSC 2
+Smith v. Passmore
+(1883) 4 LR (NSW) 274
+Sunbird Plaza Pty Ltd v. Maloney
+(1988) 166 CLR 245
+(1988) 77 ALR 205
+The Commissioner of Inland Revenue v. Motorcorp Holdings Ltd and Ors
+[2005] NZCA 33, CA17/04
+Total Oil Products (Aust) v. Robinson
+[1970] 1 NSWR 701
+Westhead v. Sproson
+(1861) 6 H & N 728
+158 ER 301
+Yeoman Credit Ltd v. Latter
+[1961] 2 All ER 294.
+Other References:
+Butterworths Australian Legal Dictionary, 1997, Butterworths, Sydney
+Halsbury's Laws of England (4th ed)
+O'Donovan, J & Phillips, J 1996, The Modern Contract of Guarantee (3rd ed), Law Book Company, Sydney
+O'Donovan, J & Phillips, J 2004, The Modern Contract of Guarantee (4th ed), Lawbook Online, accessed on-line via:  http://thompson.com.au
+Sutton, K 1999, Insurance Law in Australia (3rd ed), Law Book Company, Sydney
+Explanatory Statement
+to the A New Tax System (Goods and Services Tax) Amendment Regulation 2012 (No. 1)
+GSTR 2006/1 history
+Date:
+Version:
+Change:
+22 March 2006
+Original ruling
+You are here
+11 December 2013
+Consolidated ruling
+Addendum
+Back to top
