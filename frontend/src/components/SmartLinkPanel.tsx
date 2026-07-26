@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { api } from '../api'
 import { COLORS } from './common/types'
+import { shortActName } from '../utils/display'
 
 interface RelatedSection {
   id: string
@@ -118,7 +119,7 @@ const SmartLinkPanel: React.FC<SmartLinkPanelProps> = ({ act, section, onNavigat
               onMouseEnter={e => { (e.currentTarget as HTMLDivElement).style.background = COLORS.surfaceHover }}
               onMouseLeave={e => { (e.currentTarget as HTMLDivElement).style.background = COLORS.surface }}
             >
-              {link.title || link.id}
+              {shortActName(link.act)} s{link.id}{link.title ? ` — ${link.title}` : ''}
             </div>
           ))}
         </>

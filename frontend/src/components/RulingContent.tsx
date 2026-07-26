@@ -4,6 +4,7 @@ import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
 import { COLORS } from './common/types'
 import { createMarkdownComponents } from './MarkdownRenderers'
+import { shortActName } from '../utils/display'
 
 type RulingContentProps = {
   rulingData: any
@@ -59,7 +60,7 @@ export default function RulingContent({
                   }}
                   style={{ color: COLORS.accent, textDecoration: 'none', fontSize: 14 }}
                 >
-                  {ref.section} {ref.title && `— ${ref.title}`}
+                  {shortActName(ref.act)} s{ref.section} {ref.title && `— ${ref.title}`}
                 </a>
               </li>
             ))}

@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { useTheme, FONTS, ThemeConfig } from '../ThemeContext'
 import { COLORS } from './common/types'
 import { api } from '../api'
+import { shortActName } from '../utils/display'
 
 const ACCENT_PRESETS = [
   '#279e88', '#2563eb', '#7c3aed', '#059669',
@@ -175,7 +176,7 @@ export default function SettingsPanel({ onClose }: { onClose: () => void }) {
                 }}
               >
                 {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }]).map(a => (
-                  <option key={a.id} value={a.id}>{a.name}</option>
+                  <option key={a.id} value={a.id}>{shortActName(a.id)}</option>
                 ))}
               </select>
             </div>

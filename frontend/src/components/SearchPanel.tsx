@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react'
 import { COLORS } from './common/types'
 import { api } from '../api'
+import { shortActName } from '../utils/display'
 
 interface FlatResult {
   act: string
@@ -189,13 +190,11 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
                   onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
                 >
                   <span style={{
-                    fontSize: 10, color: COLORS.textMuted, opacity: 0.7,
-                    whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', maxWidth: 90,
-                    flexShrink: 0,
+                    fontSize: 10, color: COLORS.accent, fontWeight: 600,
+                    whiteSpace: 'nowrap', flexShrink: 0,
                   }}>
-                    {r.act_name || r.act}
+                    {shortActName(r.act)} s{r.section}
                   </span>
-                  <span style={{ color: COLORS.accent, fontWeight: 600, flexShrink: 0 }}>{r.section}</span>
                   <span style={{ color: COLORS.textMuted, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
                     {r.title}
                   </span>
@@ -277,7 +276,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
                       onChange={() => toggleAct(a.id)}
                       style={{ margin: 0 }}
                     />
-                    {a.name}
+                    {shortActName(a.id)}
                   </label>
                 ))}
               </div>
@@ -313,13 +312,11 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
               onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
             >
               <span style={{
-                fontSize: 10, color: COLORS.textMuted,
-                whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
-                maxWidth: 120, flexShrink: 0, opacity: 0.7,
+                fontSize: 10, color: COLORS.accent, fontWeight: 600,
+                whiteSpace: 'nowrap', flexShrink: 0,
               }}>
-                {r.act_name || r.act}
+                {shortActName(r.act)} s{r.section}
               </span>
-              <span style={{ color: COLORS.accent, fontWeight: 600, flexShrink: 0 }}>{r.section}</span>
               <span style={{
                 color: COLORS.textMuted, overflow: 'hidden',
                 textOverflow: 'ellipsis', whiteSpace: 'nowrap',

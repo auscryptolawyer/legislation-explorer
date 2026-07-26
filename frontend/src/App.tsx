@@ -15,6 +15,7 @@ import RulingContent from './components/RulingContent'
 import SettingsPanel from './components/SettingsPanel'
 import SearchPanel from './components/SearchPanel'
 import { ThemeProvider } from './ThemeContext'
+import { shortActName } from './utils/display'
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -366,7 +367,7 @@ export default function App() {
         <div style={{ padding: isMobile ? '12px 14px' : '12px 14px', borderBottom: `1px solid ${COLORS.border}` }}>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
             {(() => {
-              const currentLabel = acts.find(a => a.id === act)?.name || act
+              const currentLabel = shortActName(act)
               return (
                 <div ref={pickerRef} style={{ position: 'relative' }}>
                   <button onClick={() => { setPickerOpen(!pickerOpen); if (isMobile) setDrawerOpen(true) }} style={{
@@ -397,7 +398,7 @@ export default function App() {
                         }}
                           onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
                           onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
-                        >{a.name}</button>
+                        >{shortActName(a.id)}</button>
                       ))}
                     </div>
                   )}
