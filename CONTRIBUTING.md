@@ -58,15 +58,29 @@
 3. Critical user flow works: search → click result → view content → navigate tree
 4. If data changed: verify a few live URLs to confirm content is fresh
 
-### Debugging (Ralph Loop)
-1. First attempt: fix and retry.
-2. Second attempt: diagnose root cause, fix with more context.
-3. Third attempt: escalate — delegate to Claude Code or rethink approach.
+## Coding Tools
 
-### Code Review
+### Implementation — Kimi Code
+- Primary coding tool: `kimi` (`~/.local/bin/kimi`).
+- Use for writing new features, refactoring, data pipelines, and bug fixes.
+- Kimi implements; Claude reviews.
+
+### Code Review — Claude Code
 - Before merging non-trivial branches, request a Claude Code review:
   `claude --dangerously-skip-permissions --review`
 - Review should catch: type errors, missing edge cases, performance issues, dead code.
+- Claude does NOT do implementation unless Kimi is unavailable or the task is Claude-specific.
+
+### Debugging (Ralph Loop)
+1. First attempt: fix and retry (use Kimi Code).
+2. Second attempt: diagnose root cause, fix with more context (still Kimi).
+3. Third attempt: escalate — delegate to Claude Code with full context, or rethink approach.
+
+### Feature Design Process (for complex features)
+For non-trivial features, use the competitive multi-model workflow:
+1. Claude Code + Kimi Code both write implementation plans independently.
+2. Kimi reviews Claude's plan, then implements.
+3. Claude reviews/verifies the implementation.
 
 ## Environments
 - **Dev:** `dev.scriptkitty.yachts` (port 3000, Vite dev server, hot reload)
