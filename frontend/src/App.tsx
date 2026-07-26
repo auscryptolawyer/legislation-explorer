@@ -75,6 +75,9 @@ export default function App() {
 
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [bugReportOpen, setBugReportOpen] = useState(false)
+  const [changelogOpen, setChangelogOpen] = useState(false)
+  const [hofOpen, setHofOpen] = useState(false)
+  const [hofData, setHofData] = useState<any>(null)
   const [bugReportPending, setBugReportPending] = useState(() => {
     try { return JSON.parse(localStorage.getItem('bugReports') || '[]').length }
     catch { return 0 }
@@ -292,38 +295,44 @@ export default function App() {
   if (!tree) return <div style={{ padding: 20, color: COLORS.textMuted }}>Loading...</div>
 
   const mobileSidebarWidth = isMobile ? Math.min(window.innerWidth * 0.85, 380) : sidebarWidth
+  const hasContent = !!(activeSection || activeRuling)
 
   return (
     <div style={{ display: 'flex', height: '100vh', background: COLORS.bg }}>
-      {/* Mobile hamburger */}
-      {isMobile && (
+      {/* Mobile sidebar toggle */}
+      {isMobile && !drawerOpen && (
         <button
-          onClick={() => setDrawerOpen(!drawerOpen)}
+          onClick={() => setDrawerOpen(true)}
           style={{
-            position: 'fixed',
-            top: 12,
-            left: drawerOpen ? mobileSidebarWidth - 56 : 12,
-            zIndex: 110,
-            background: COLORS.surface,
-            color: COLORS.heading,
+            position: 'fixed', top: 12, left: 12, zIndex: 110,
+            background: COLORS.surface, color: COLORS.heading,
             border: `1px solid ${COLORS.border}`,
-            borderRadius: 6,
-            padding: '10px 12px',
-            fontSize: 18,
-            cursor: 'pointer',
-            lineHeight: 1,
-            minWidth: 44,
-            minHeight: 44,
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
+            borderRadius: 6, padding: '10px 12px',
+            fontSize: 18, cursor: 'pointer', lineHeight: 1,
+            minWidth: 44, minHeight: 44,
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+          }}
+        >
+          {'\u2630'}
+        </button>
+      )}
+      {isMobile && drawerOpen && (
+        <button
+          onClick={() => setDrawerOpen(false)}
+          style={{
+            position: 'fixed', top: 12, left: mobileSidebarWidth - 56, zIndex: 110,
+            background: COLORS.surface, color: COLORS.heading,
+            border: `1px solid ${COLORS.border}`,
+            borderRadius: 6, padding: '10px 12px',
+            fontSize: 18, cursor: 'pointer', lineHeight: 1,
+            minWidth: 44, minHeight: 44,
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
             transition: 'left 0.25s ease',
           }}
         >
-          {drawerOpen ? '\u2715' : '\u2630'}
+          {'\u2715'}
         </button>
       )}
-
       {/* Mobile backdrop */}
       {isMobile && drawerOpen && (
         <div
@@ -343,13 +352,14 @@ export default function App() {
         top: 0, bottom: 0, zIndex: 100,
         transition: isMobile ? 'left 0.25s ease' : 'none',
       }}>
-        <div style={{ padding: isMobile ? '12px 14px' : '14px', borderBottom: `1px solid ${COLORS.border}` }}>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+        {/* Sidebar header: act picker only */}
+        <div style={{ padding: isMobile ? '12px 14px' : '12px 14px', borderBottom: `1px solid ${COLORS.border}` }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
             {(() => {
               const currentLabel = acts.find(a => a.id === act)?.name || act
               return (
                 <div ref={pickerRef} style={{ position: 'relative' }}>
-                  <button onClick={() => setPickerOpen(!pickerOpen)} style={{
+                  <button onClick={() => { setPickerOpen(!pickerOpen); if (isMobile) setDrawerOpen(true) }} style={{
                     width: '100%', padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
                     background: COLORS.bg, color: COLORS.heading,
                     border: `1px solid ${COLORS.border}`, fontSize: 12,
@@ -368,7 +378,7 @@ export default function App() {
                       boxShadow: '0 8px 24px rgba(0,0,0,0.4)',
                     }}>
                       {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }]).map(a => (
-                        <button key={a.id} onClick={() => { setPickerOpen(false); goHome(); setAct(a.id) }} style={{
+                        <button key={a.id} onClick={() => { setPickerOpen(false); goHome(); setAct(a.id); if (isMobile) setDrawerOpen(false) }} style={{
                           display: 'block', width: '100%', padding: '6px 12px',
                           background: 'transparent', border: 'none',
                           color: act === a.id ? COLORS.accent : COLORS.text,
@@ -384,94 +394,113 @@ export default function App() {
                 </div>
               )
             })()}
-            <SearchPanel
-              acts={acts}
-              onNavigate={(targetAct, section) => {
-                setAct(targetAct)
-                setActiveSection(section)
-                setActiveRuling(null)
-              }}
-              isMobile={isMobile}
-            />
-            <div style={{ display: 'flex', gap: 6 }}>
-              <button
-                onClick={() => setMcpOpen(true)}
-                style={{
-                  flex: 1, padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
-                  background: COLORS.surface, color: COLORS.text,
-                  border: `1px solid ${COLORS.border}`, fontSize: 11, cursor: 'pointer',
-                  fontWeight: 500, fontFamily: "'Montserrat', sans-serif",
-                  whiteSpace: 'nowrap', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
-                }}
-              >
-                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M16.5 9.4 7.55 4.24"/><path d="M21 16.2 7.55 4.24"/><path d="m7.55 4.24.1 10.52"/><path d="M12 22V12"/><path d="m16.5 14.6 1.53 3.53"/></svg>
-                MCP Tools
-              </button>
-              <div ref={settingsRef} style={{ position: 'relative' }}>
-                <button
-                  onClick={() => setSettingsOpen(!settingsOpen)}
-                  title="Settings"
-                  style={{
-                    padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
-                    background: COLORS.surface, color: COLORS.textMuted,
-                    border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                    display: 'flex', alignItems: 'center', justifyContent: 'center',
-                  }}
-                >
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                    <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
-                  </svg>
-                </button>
-                {settingsOpen && (
-                  <div style={{
-                    position: 'absolute', bottom: '100%', right: 0, zIndex: 300,
-                    marginBottom: 4, background: COLORS.surface,
-                    border: `1px solid ${COLORS.border}`,
-                    borderRadius: 8, padding: 8, minWidth: 180,
-                    boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
-                  }}>
-                    <div style={{ fontSize: 11, color: COLORS.textMuted, marginBottom: 6, fontFamily: "'Montserrat', sans-serif" }}>
-                      {appInfo?.version || 'v2.0.0'}
-                    </div>
-                    <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>
-                      Legislation Explorer
-                    </div>
-                  </div>
-                )}
-              </div>
-              <button
-                onClick={() => setBugReportOpen(true)}
-                title="Report a bug"
-                style={{
-                  padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
-                  background: COLORS.surface, color: COLORS.textMuted,
-                  border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                  display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
-                  position: 'relative',
-                }}
-              >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <rect x="8" y="2" width="8" height="4" rx="1"/><path d="M4 12.5a6 6 0 0 1 6-6h4a6 6 0 0 1 6 6V16a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4z"/><path d="M12 8v8"/><path d="M8 12h8"/>
-                </svg>
-                {bugReportPending > 0 && (
-                  <span style={{
-                    position: 'absolute', top: -4, right: -4,
-                    background: '#ef4444', color: '#fff',
-                    borderRadius: 8, padding: '0 5px',
-                    fontSize: 9, fontWeight: 700, lineHeight: '16px',
-                    minWidth: 16, textAlign: 'center',
-                  }}>
-                    {bugReportPending}
-                  </span>
-                )}
-              </button>
-            </div>
           </div>
         </div>
+
+        {/* Tree */}
         <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
           {(tree.parts || []).map(p => (
-            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={setActiveSection} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
+            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { setActiveSection(e); if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
           ))}
+        </div>
+
+        {/* Sidebar bottom: settings, bug report, login */}
+        <div style={{
+          borderTop: `1px solid ${COLORS.border}`,
+          padding: isMobile ? '8px 12px' : '8px 12px',
+          display: 'flex', gap: 6, alignItems: 'center',
+        }}>
+          <div ref={settingsRef} style={{ position: 'relative' }}>
+            <button
+              onClick={() => setSettingsOpen(!settingsOpen)}
+              title="Settings & Tools"
+              style={{
+                padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+                background: settingsOpen ? COLORS.accent + '22' : COLORS.bg,
+                color: COLORS.text,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
+                fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+              }}
+            >
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+              </svg>
+              Settings
+            </button>
+            {settingsOpen && (
+              <div style={{
+                position: 'absolute', bottom: '100%', left: 0, zIndex: 300,
+                marginBottom: 4, background: COLORS.surface,
+                border: `1px solid ${COLORS.border}`,
+                borderRadius: 8, padding: 8, minWidth: 200,
+                boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
+              }}>
+                <div style={{ fontSize: 11, color: COLORS.textMuted, marginBottom: 4, fontFamily: "'Montserrat', sans-serif" }}>
+                  v{appInfo?.version || '2.0.0'}
+                </div>
+                <div style={{ fontSize: 10, color: COLORS.textMuted, marginBottom: 8, fontFamily: "'Montserrat', sans-serif", opacity: 0.6 }}>
+                  Legislation Explorer
+                </div>
+                <button
+                  onClick={() => { setSettingsOpen(false); setMcpOpen(true) }}
+                  style={{
+                    width: '100%', padding: '6px 8px', borderRadius: 6,
+                    background: COLORS.bg, color: COLORS.text,
+                    border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                    fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+                    display: 'flex', alignItems: 'center', gap: 6,
+                    textAlign: 'left',
+                  }}
+                >
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M16.5 9.4 7.55 4.24"/><path d="M21 16.2 7.55 4.24"/><path d="m7.55 4.24.1 10.52"/><path d="M12 22V12"/><path d="m16.5 14.6 1.53 3.53"/></svg>
+                  MCP Tools
+                </button>
+              </div>
+            )}
+          </div>
+          <button
+            onClick={() => setBugReportOpen(true)}
+            title="Report a bug"
+            style={{
+              padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+              background: COLORS.bg, color: COLORS.textMuted,
+              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+              display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
+              fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+              position: 'relative',
+            }}
+          >
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <rect x="8" y="2" width="8" height="4" rx="1"/><path d="M4 12.5a6 6 0 0 1 6-6h4a6 6 0 0 1 6 6V16a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4z"/><path d="M12 8v8"/><path d="M8 12h8"/>
+            </svg>
+            {bugReportPending > 0 && (
+              <span style={{
+                position: 'absolute', top: -4, right: -4,
+                background: '#ef4444', color: '#fff',
+                borderRadius: 8, padding: '0 5px',
+                fontSize: 9, fontWeight: 700, lineHeight: '16px',
+                minWidth: 16, textAlign: 'center',
+              }}>
+                {bugReportPending}
+              </span>
+            )}
+          </button>
+          <button
+            onClick={() => {/* TBD: login */}}
+            title="Sign in"
+            style={{
+              padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+              background: COLORS.bg, color: COLORS.textMuted,
+              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+              display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
+              fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+            }}
+          >
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/>
+            </svg>
+          </button>
         </div>
       </div>
 
@@ -493,11 +522,33 @@ export default function App() {
       {/* Main content */}
       <div style={{
         flex: 1, overflow: 'auto',
-        padding: isMobile ? '64px 16px 24px' : '28px 40px',
+        padding: isMobile ? '16px 16px 24px' : '20px 40px',
+        paddingTop: isMobile ? (hasContent ? 12 : 16) : (hasContent ? 12 : 20),
         maxWidth: 960, margin: '0 auto',
         fontFamily: "'Lora', serif",
         color: COLORS.text,
+        display: 'flex', flexDirection: 'column',
       }}>
+        {/* Sticky search bar — only when content is open */}
+        {hasContent && (
+          <div style={{
+            position: 'sticky', top: 0, zIndex: 50,
+            background: COLORS.bg,
+            padding: '6px 0 10px 0',
+            marginBottom: 8,
+          }}>
+            <SearchPanel
+              acts={acts}
+              onNavigate={(targetAct, section) => {
+                setAct(targetAct)
+                setActiveSection(section)
+                setActiveRuling(null)
+              }}
+              isMobile={isMobile}
+            />
+          </div>
+        )}
+
         {pins.length > 0 && (
           <PinnedTabs
             pins={pins}
@@ -510,8 +561,8 @@ export default function App() {
           />
         )}
 
-        {(activeSection || activeRuling) && (
-          <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 12 }}>
+        {hasContent && (
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
             <button
               onClick={goHome}
               title="Back to tree"
@@ -599,24 +650,22 @@ export default function App() {
             <div style={{ fontSize: 11, color: COLORS.textMuted }}>
               Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || 'v2.0.0'}</span>
             </div>
-            <div style={{ display: 'flex', gap: 16, marginTop: 16, flexWrap: 'wrap', justifyContent: 'center' }}>
-              <span style={{ fontSize: 11, color: COLORS.textMuted, opacity: 0.5 }}>Search above or browse the tree</span>
-            </div>
             <div style={{ display: 'flex', gap: 12, marginTop: 20, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
-              <a
-                href="/changelog"
-                onClick={e => { e.preventDefault(); window.open('https://github.com/auscryptolawyer/legislation-explorer/releases', '_blank') }}
-                style={{ fontSize: 11, color: COLORS.accent, textDecoration: 'none', cursor: 'pointer' }}
+              <button
+                onClick={() => setChangelogOpen(true)}
+                style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
               >
                 Changelog →
-              </a>
-              <a
-                href="/hall-of-fame"
-                onClick={e => { e.preventDefault(); /* open HOF modal */ }}
-                style={{ fontSize: 11, color: COLORS.accent, textDecoration: 'none', cursor: 'pointer' }}
+              </button>
+              <button
+                onClick={() => {
+                  setHofOpen(true)
+                  api.mcpHallOfFame().then(setHofData).catch(() => {})
+                }}
+                style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
               >
                 Hall of Fame →
-              </a>
+              </button>
             </div>
           </div>
         )}
@@ -640,9 +689,87 @@ export default function App() {
           }}
         />
       )}
+
+      {/* Changelog modal */}
+      {changelogOpen && appInfo?.changelog && (
+        <ModalOverlay onClose={() => setChangelogOpen(false)}>
+          <div style={{ fontSize: 15, fontWeight: 600, color: COLORS.heading, marginBottom: 16, fontFamily: "'Montserrat', sans-serif" }}>
+            Changelog
+          </div>
+          <div style={{ maxHeight: '60vh', overflow: 'auto' }}>
+            {appInfo.changelog.map((entry: any, i: number) => (
+              <div key={i} style={{ marginBottom: 16, paddingBottom: 16, borderBottom: i < appInfo.changelog.length - 1 ? `1px solid ${COLORS.border}` : 'none' }}>
+                <div style={{ fontSize: 13, fontWeight: 600, color: COLORS.accent, marginBottom: 2, fontFamily: "'Montserrat', sans-serif" }}>
+                  v{entry.version} — {entry.date}
+                </div>
+                <div style={{ fontSize: 11, color: COLORS.textMuted, marginBottom: 6, fontFamily: "'Montserrat', sans-serif" }}>
+                  {entry.title}
+                </div>
+                <ul style={{ margin: 0, paddingLeft: 16, fontSize: 11, color: COLORS.text, fontFamily: "'Montserrat', sans-serif", lineHeight: 1.6 }}>
+                  {entry.changes.map((c: string, j: number) => (
+                    <li key={j}>{c}</li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </ModalOverlay>
+      )}
+
+      {/* Hall of Fame modal */}
+      {hofOpen && (
+        <ModalOverlay onClose={() => setHofOpen(false)}>
+          <div style={{ fontSize: 15, fontWeight: 600, color: COLORS.heading, marginBottom: 16, fontFamily: "'Montserrat', sans-serif" }}>
+            MCP Hall of Fame
+          </div>
+          {hofData ? (
+            <div style={{ maxHeight: '60vh', overflow: 'auto', fontSize: 12, color: COLORS.text, fontFamily: "'Montserrat', sans-serif" }}>
+              <pre style={{ whiteSpace: 'pre-wrap', fontSize: 11, lineHeight: 1.5, color: COLORS.textMuted }}>
+                {JSON.stringify(hofData, null, 2)}
+              </pre>
+            </div>
+          ) : (
+            <div style={{ fontSize: 12, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>
+              Loading...
+            </div>
+          )}
+        </ModalOverlay>
+      )}
     </div>
   )
 }
+
+// ---------------------------------------------------------------------------
+// ModalOverlay — shared backdrop + container
+// ---------------------------------------------------------------------------
+
+function ModalOverlay({ onClose, children }: { onClose: () => void; children: React.ReactNode }) {
+  return (
+    <div
+      onClick={onClose}
+      style={{
+        position: 'fixed', inset: 0, zIndex: 1000,
+        background: 'rgba(0,0,0,0.6)',
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+      }}
+    >
+      <div
+        onClick={e => e.stopPropagation()}
+        style={{
+          background: COLORS.surface, borderRadius: 12,
+          padding: 24, width: '90%', maxWidth: 520,
+          boxShadow: '0 16px 48px rgba(0,0,0,0.5)',
+        }}
+      >
+        {children}
+      </div>
+    </div>
+  )
+}
+
+// ---------------------------------------------------------------------------
+// BugReportModal
+// ---------------------------------------------------------------------------
 
 function BugReportModal({ onClose, onReport }: { onClose: () => void; onReport: (text: string) => void }) {
   const [text, setText] = useState('')

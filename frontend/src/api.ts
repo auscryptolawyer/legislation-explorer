@@ -69,5 +69,6 @@ export const api = {
     return fetchJson(url)
   },
   info: () => fetchJson('/info'),
+  mcpHallOfFame: () => fetchJson('/mcp-hall-of-fame'),
   sectionRefs: (act: string, section: string) => fetchJson(`/section-refs/${act}/${section}`),
 }
