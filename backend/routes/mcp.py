@@ -19,10 +19,11 @@ def create_mcp_token(request: Request, body: CreateTokenRequest):
     """Create a new named MCP access token. Requires authentication."""
     from backend.auth import require_user
     try:
-        require_user(request)
+        user = require_user(request)
     except Exception:
         return JSONResponse({"error": "Login required to create MCP tokens"}, status_code=401)
-    token = token_manager.create_token(body.name)
+    created_by = user.get("email") or user.get("name", "")
+    token = token_manager.create_token(name=body.name, created_by=created_by)
     return {"token": token, "message": "Copy this token now — it will not be shown again."}
 
 

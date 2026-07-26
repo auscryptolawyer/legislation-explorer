@@ -34,6 +34,7 @@ def _init_db():
                 id INTEGER PRIMARY KEY,
                 token_hash TEXT UNIQUE NOT NULL,
                 name TEXT,
+                created_by TEXT DEFAULT '',
                 created_at REAL NOT NULL,
                 last_used REAL,
                 request_count INTEGER DEFAULT 0,
@@ -57,10 +58,17 @@ def _init_db():
         conn.execute(
             "CREATE INDEX IF NOT EXISTS idx_mcp_call_log_created ON mcp_call_log(created_at)"
         )
-        # Migrate: add name column to pre-existing DBs
+        conn.commit()
+
+
+def _run_migration():
+    """Add created_by column to pre-existing databases."""
+    with _connect() as conn:
         cols = [r["name"] for r in conn.execute("PRAGMA table_info(mcp_tokens)").fetchall()]
         if "name" not in cols:
             conn.execute("ALTER TABLE mcp_tokens ADD COLUMN name TEXT")
+        if "created_by" not in cols:
+            conn.execute("ALTER TABLE mcp_tokens ADD COLUMN created_by TEXT DEFAULT ''")
         conn.commit()
 
 
@@ -87,15 +95,16 @@ _global_bucket = Bucket(GLOBAL_RPM, time.time())
 class TokenManager:
     def __init__(self):
         _init_db()
+        _run_migration()
 
-    def create_token(self, name: str = "") -> str:
-        """Create a new named token. Returns the raw token (shown once)."""
+    def create_token(self, name: str = "", created_by: str = "") -> str:
+        """Create a new named token associated with a user. Returns the raw token (shown once)."""
         raw = secrets.token_hex(32)
         token_hash = _hash(raw)
         with _connect() as conn:
             conn.execute(
-                "INSERT INTO mcp_tokens (token_hash, name, created_at) VALUES (?, ?, ?)",
-                (token_hash, name.strip(), time.time()),
+                "INSERT INTO mcp_tokens (token_hash, name, created_by, created_at) VALUES (?, ?, ?, ?)",
+                (token_hash, name.strip(), created_by.strip(), time.time()),
             )
             conn.commit()
         return raw
@@ -136,11 +145,11 @@ class TokenManager:
             return cur.rowcount > 0
 
     def list_tokens(self) -> list[dict]:
-        """List all non-revoked tokens (without hashes)."""
+        """List all non-revoked tokens (without hashes). Includes created_by."""
         with _connect() as conn:
             rows = conn.execute(
                 """
-                SELECT id, name, created_at, last_used, request_count
+                SELECT id, name, created_by, created_at, last_used, request_count
                 FROM mcp_tokens
                 WHERE revoked_at IS NULL
                 ORDER BY created_at DESC
@@ -150,6 +159,7 @@ class TokenManager:
                 {
                     "id": r["id"],
                     "name": r["name"],
+                    "created_by": r["created_by"] or "",
                     "created_at": r["created_at"],
                     "last_used": r["last_used"],
                     "request_count": r["request_count"],
