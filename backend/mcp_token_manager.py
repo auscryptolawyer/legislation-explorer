@@ -155,13 +155,24 @@ class TokenManager:
             return cur.rowcount > 0
 
     def revoke_token(self, token: str) -> bool:
-        """Revoke a token. Returns True if it existed."""
+        """Revoke a token by its hash or numeric id. Returns True if it existed."""
+        # Try by hash first
         token_hash = _hash(token)
         with _connect() as conn:
             cur = conn.execute(
                 "UPDATE mcp_tokens SET revoked_at = ? WHERE token_hash = ? AND revoked_at IS NULL",
                 (time.time(), token_hash),
             )
+            if cur.rowcount == 0:
+                # Try by numeric id
+                try:
+                    tid = int(token)
+                    cur = conn.execute(
+                        "UPDATE mcp_tokens SET revoked_at = ? WHERE id = ? AND revoked_at IS NULL",
+                        (time.time(), tid),
+                    )
+                except ValueError:
+                    pass
             conn.commit()
             return cur.rowcount > 0
 

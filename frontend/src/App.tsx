@@ -12,7 +12,9 @@ import SmartLinkPanel from './components/SmartLinkPanel'
 import DefinitionPopover from './components/DefinitionPopover'
 import SectionContent from './components/SectionContent'
 import RulingContent from './components/RulingContent'
+import SettingsPanel from './components/SettingsPanel'
 import SearchPanel from './components/SearchPanel'
+import { ThemeProvider } from './ThemeContext'
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -307,7 +309,8 @@ export default function App() {
   const hasContent = !!(activeSection || activeRuling)
 
   return (
-    <div style={{ display: 'flex', height: '100vh', background: COLORS.bg }}>
+    <ThemeProvider>
+      <div style={{ display: 'flex', height: '100vh', background: COLORS.bg }}>
       {/* Mobile sidebar toggle */}
       {isMobile && !drawerOpen && (
         <button
@@ -421,11 +424,11 @@ export default function App() {
         }}>
           <div ref={settingsRef} style={{ position: 'relative' }}>
             <button
-              onClick={() => setSettingsOpen(!settingsOpen)}
+              onClick={() => setSettingsOpen(true)}
               title="Settings & Tools"
               style={{
                 padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
-                background: settingsOpen ? COLORS.accent + '22' : COLORS.bg,
+                background: COLORS.bg,
                 color: COLORS.text,
                 border: `1px solid ${COLORS.border}`, cursor: 'pointer',
                 display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
@@ -437,36 +440,6 @@ export default function App() {
               </svg>
               Settings
             </button>
-            {settingsOpen && (
-              <div style={{
-                position: 'absolute', bottom: '100%', left: 0, zIndex: 300,
-                marginBottom: 4, background: COLORS.surface,
-                border: `1px solid ${COLORS.border}`,
-                borderRadius: 8, padding: 8, minWidth: 200,
-                boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
-              }}>
-                <div style={{ fontSize: 11, color: COLORS.textMuted, marginBottom: 4, fontFamily: "'Montserrat', sans-serif" }}>
-                  v{appInfo?.version || '2.0.0'}
-                </div>
-                <div style={{ fontSize: 10, color: COLORS.textMuted, marginBottom: 8, fontFamily: "'Montserrat', sans-serif", opacity: 0.6 }}>
-                  Legislation Explorer
-                </div>
-                <button
-                  onClick={() => { setSettingsOpen(false); setMcpOpen(true) }}
-                  style={{
-                    width: '100%', padding: '6px 8px', borderRadius: 6,
-                    background: COLORS.bg, color: COLORS.text,
-                    border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                    fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
-                    display: 'flex', alignItems: 'center', gap: 6,
-                    textAlign: 'left',
-                  }}
-                >
-                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M16.5 9.4 7.55 4.24"/><path d="M21 16.2 7.55 4.24"/><path d="m7.55 4.24.1 10.52"/><path d="M12 22V12"/><path d="m16.5 14.6 1.53 3.53"/></svg>
-                  MCP Tools
-                </button>
-              </div>
-            )}
           </div>
           <button
             onClick={() => setBugReportOpen(true)}
@@ -731,6 +704,7 @@ export default function App() {
       </div>
 
       <MCPModal open={mcpOpen} onClose={() => setMcpOpen(false)} />
+      {settingsOpen && <SettingsPanel onClose={() => setSettingsOpen(false)} />}
       <KeyboardShortcuts showShortcuts={showShortcuts} setShowShortcuts={setShowShortcuts} />
 
       {/* Bug report modal */}
@@ -795,6 +769,7 @@ export default function App() {
         </ModalOverlay>
       )}
     </div>
+    </ThemeProvider>
   )
 }
 

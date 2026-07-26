@@ -13,6 +13,8 @@ from .rulings import router as rulings_router
 from .commentary import router as commentary_router
 from .comments import router as comments_router
 from .tax_cases import router as tax_cases_router
+from .user_prefs import router as user_prefs_router
+from .admin import router as admin_router
 
 router = APIRouter()
 router.include_router(acts_router)
@@ -23,6 +25,8 @@ router.include_router(rulings_router)
 router.include_router(commentary_router)
 router.include_router(comments_router)
 router.include_router(tax_cases_router)
+router.include_router(user_prefs_router)
+router.include_router(admin_router)
 
 
 VERSION = "2.3.1"

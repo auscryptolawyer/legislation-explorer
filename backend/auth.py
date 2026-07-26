@@ -95,6 +95,9 @@ async def callback(request: Request) -> RedirectResponse:
         }
 
         session_token = create_session_token(claims)
+        # Log the login
+        from backend.services.login_log import log_login
+        log_login(claims.get("email", ""), claims.get("name", ""))
         response = RedirectResponse(url="/", status_code=303)
         response.set_cookie(
             key="session",
