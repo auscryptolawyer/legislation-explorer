@@ -73,6 +73,14 @@ export default function App() {
     api.info().then(setAppInfo).catch(() => {})
   }, [])
 
+  const [settingsOpen, setSettingsOpen] = useState(false)
+  const [bugReportOpen, setBugReportOpen] = useState(false)
+  const [bugReportPending, setBugReportPending] = useState(() => {
+    try { return JSON.parse(localStorage.getItem('bugReports') || '[]').length }
+    catch { return 0 }
+  })
+  const settingsRef = useRef<HTMLDivElement>(null)
+
   const [commentaryOpen, setCommentaryOpen] = useState(false)
   const [casesOpen, setCasesOpen] = useState(false)
   const [rulingsOpen, setRulingsOpen] = useState(false)
@@ -145,11 +153,13 @@ export default function App() {
     window.history.pushState(null, '', '/')
   }
 
-  // Close picker on click outside
+  // Close picker and settings on click outside
   useEffect(() => {
     const handler = (e: MouseEvent) => {
       if (pickerRef.current && !pickerRef.current.contains(e.target as Node))
         setPickerOpen(false)
+      if (settingsRef.current && !settingsRef.current.contains(e.target as Node))
+        setSettingsOpen(false)
     }
     document.addEventListener('mousedown', handler)
     return () => document.removeEventListener('mousedown', handler)
@@ -397,19 +407,63 @@ export default function App() {
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M16.5 9.4 7.55 4.24"/><path d="M21 16.2 7.55 4.24"/><path d="m7.55 4.24.1 10.52"/><path d="M12 22V12"/><path d="m16.5 14.6 1.53 3.53"/></svg>
                 MCP Tools
               </button>
+              <div ref={settingsRef} style={{ position: 'relative' }}>
+                <button
+                  onClick={() => setSettingsOpen(!settingsOpen)}
+                  title="Settings"
+                  style={{
+                    padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
+                    background: COLORS.surface, color: COLORS.textMuted,
+                    border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                    display: 'flex', alignItems: 'center', justifyContent: 'center',
+                  }}
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+                  </svg>
+                </button>
+                {settingsOpen && (
+                  <div style={{
+                    position: 'absolute', bottom: '100%', right: 0, zIndex: 300,
+                    marginBottom: 4, background: COLORS.surface,
+                    border: `1px solid ${COLORS.border}`,
+                    borderRadius: 8, padding: 8, minWidth: 180,
+                    boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
+                  }}>
+                    <div style={{ fontSize: 11, color: COLORS.textMuted, marginBottom: 6, fontFamily: "'Montserrat', sans-serif" }}>
+                      {appInfo?.version || 'v2.0.0'}
+                    </div>
+                    <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>
+                      Legislation Explorer
+                    </div>
+                  </div>
+                )}
+              </div>
               <button
-                onClick={() => {/* TBD: settings */}}
-                title="Settings"
+                onClick={() => setBugReportOpen(true)}
+                title="Report a bug"
                 style={{
                   padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
                   background: COLORS.surface, color: COLORS.textMuted,
                   border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                  display: 'flex', alignItems: 'center', justifyContent: 'center',
+                  display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
+                  position: 'relative',
                 }}
               >
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+                  <rect x="8" y="2" width="8" height="4" rx="1"/><path d="M4 12.5a6 6 0 0 1 6-6h4a6 6 0 0 1 6 6V16a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4z"/><path d="M12 8v8"/><path d="M8 12h8"/>
                 </svg>
+                {bugReportPending > 0 && (
+                  <span style={{
+                    position: 'absolute', top: -4, right: -4,
+                    background: '#ef4444', color: '#fff',
+                    borderRadius: 8, padding: '0 5px',
+                    fontSize: 9, fontWeight: 700, lineHeight: '16px',
+                    minWidth: 16, textAlign: 'center',
+                  }}>
+                    {bugReportPending}
+                  </span>
+                )}
               </button>
             </div>
           </div>
@@ -454,6 +508,46 @@ export default function App() {
             setActiveSection={setActiveSection}
             unpin={unpin}
           />
+        )}
+
+        {(activeSection || activeRuling) && (
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 12 }}>
+            <button
+              onClick={goHome}
+              title="Back to tree"
+              style={{
+                padding: '6px 8px', borderRadius: 6,
+                background: COLORS.surface, color: COLORS.textMuted,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', gap: 4,
+                fontSize: 11, fontFamily: "'Montserrat', sans-serif",
+                fontWeight: 500,
+              }}
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+                <polyline points="9 22 9 12 15 12 15 22"/>
+              </svg>
+              <span style={{ fontSize: 10, opacity: 0.6 }}>{'<<'}</span>
+            </button>
+            <button
+              onClick={() => {
+                navigator.clipboard.writeText(window.location.href).catch(() => {})
+              }}
+              title="Copy link"
+              style={{
+                padding: '6px 8px', borderRadius: 6,
+                background: COLORS.surface, color: COLORS.textMuted,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+              }}
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+                <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+              </svg>
+            </button>
+          </div>
         )}
 
         {activeRuling && rulingData ? (
@@ -530,6 +624,89 @@ export default function App() {
 
       <MCPModal open={mcpOpen} onClose={() => setMcpOpen(false)} />
       <KeyboardShortcuts showShortcuts={showShortcuts} setShowShortcuts={setShowShortcuts} />
+
+      {/* Bug report modal */}
+      {bugReportOpen && (
+        <BugReportModal
+          onClose={() => setBugReportOpen(false)}
+          onReport={(text: string) => {
+            try {
+              const reports = JSON.parse(localStorage.getItem('bugReports') || '[]')
+              reports.push({ text, time: new Date().toISOString(), url: window.location.href })
+              localStorage.setItem('bugReports', JSON.stringify(reports))
+              setBugReportPending(reports.length)
+            } catch {}
+            setBugReportOpen(false)
+          }}
+        />
+      )}
+    </div>
+  )
+}
+
+function BugReportModal({ onClose, onReport }: { onClose: () => void; onReport: (text: string) => void }) {
+  const [text, setText] = useState('')
+
+  return (
+    <div
+      onClick={onClose}
+      style={{
+        position: 'fixed', inset: 0, zIndex: 1000,
+        background: 'rgba(0,0,0,0.6)',
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+      }}
+    >
+      <div
+        onClick={e => e.stopPropagation()}
+        style={{
+          background: COLORS.surface, borderRadius: 12,
+          padding: 24, width: '90%', maxWidth: 480,
+          boxShadow: '0 16px 48px rgba(0,0,0,0.5)',
+        }}
+      >
+        <div style={{ fontSize: 14, fontWeight: 600, color: COLORS.heading, marginBottom: 12, fontFamily: "'Montserrat', sans-serif" }}>
+          Report a Bug
+        </div>
+        <textarea
+          value={text}
+          onChange={e => setText(e.target.value)}
+          placeholder="Describe what went wrong..."
+          rows={4}
+          style={{
+            width: '100%', padding: 10, borderRadius: 6,
+            background: COLORS.bg, color: COLORS.heading,
+            border: `1px solid ${COLORS.border}`, fontSize: 13,
+            fontFamily: "'Montserrat', sans-serif", resize: 'vertical',
+            outline: 'none',
+          }}
+        />
+        <div style={{ display: 'flex', gap: 8, justifyContent: 'flex-end', marginTop: 12 }}>
+          <button
+            onClick={onClose}
+            style={{
+              padding: '8px 16px', borderRadius: 6,
+              background: COLORS.bg, color: COLORS.text,
+              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+              fontSize: 12, fontFamily: "'Montserrat', sans-serif",
+            }}
+          >
+            Cancel
+          </button>
+          <button
+            onClick={() => { if (text.trim()) onReport(text.trim()) }}
+            disabled={!text.trim()}
+            style={{
+              padding: '8px 16px', borderRadius: 6,
+              background: text.trim() ? COLORS.accent : COLORS.border,
+              color: text.trim() ? '#fff' : COLORS.textMuted,
+              border: 'none', cursor: text.trim() ? 'pointer' : 'default',
+              fontSize: 12, fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
+            }}
+          >
+            Submit
+          </button>
+        </div>
+      </div>
     </div>
   )
 }
