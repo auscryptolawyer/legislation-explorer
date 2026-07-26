@@ -22,6 +22,7 @@ from backend.config import ALLOWED_ORIGINS, BEARER_TOKEN, FRONTEND_DIST, SEARCH_
 from backend import config
 from backend.logging_config import setup_logging
 from backend.middleware.metrics import MetricsMiddleware
+from backend.middleware.ratelimit import RateLimitMiddleware
 from backend.routes.api import router as api_router
 from backend.routes.mcp import router as mcp_router
 from backend.mcp_server import handle_mcp_sse, mcp_post_message_app
@@ -57,6 +58,9 @@ app.add_middleware(
 
 # Metrics
 app.add_middleware(MetricsMiddleware)
+
+# Rate limiting (on by default, disable with RATE_LIMIT_ENABLED=false)
+app.add_middleware(RateLimitMiddleware, enabled=os.environ.get("RATE_LIMIT_ENABLED", "true").lower() == "true")
 
 # ---------------------------------------------------------------------------
 # Microsoft Entra ID SSO auth

@@ -167,13 +167,11 @@ export default function App() {
     window.history.pushState(null, '', '/')
   }
 
-  // Close picker and settings on click outside
+  // Close picker on click outside
   useEffect(() => {
     const handler = (e: MouseEvent) => {
       if (pickerRef.current && !pickerRef.current.contains(e.target as Node))
         setPickerOpen(false)
-      if (settingsRef.current && !settingsRef.current.contains(e.target as Node))
-        setSettingsOpen(false)
     }
     document.addEventListener('mousedown', handler)
     return () => document.removeEventListener('mousedown', handler)

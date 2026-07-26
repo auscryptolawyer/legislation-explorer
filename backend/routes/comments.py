@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import logging
 
-from fastapi import HTTPException, APIRouter
+from fastapi import HTTPException, APIRouter, Request
 from pydantic import BaseModel
 
 from backend.services.comments_service import get_comments, add_comment, resolve_comment
@@ -11,10 +11,18 @@ logger = logging.getLogger(__name__)
 router = APIRouter()
 
 
+def _require_user(request: Request) -> dict | None:
+    """Return user dict if authenticated, None otherwise."""
+    try:
+        from backend.auth import require_user
+        return require_user(request)
+    except Exception:
+        return None
+
+
 class CommentCreate(BaseModel):
     act: str
     section: str
-    author: str = "Anonymous"
     text: str
 
 
@@ -23,7 +31,8 @@ class CommentResolve(BaseModel):
 
 
 @router.get("/api/comments/{act}/{section}")
-def list_comments(act: str, section: str, limit: int = 100, offset: int = 0):
+def list_comments(act: str, section: str, request: Request, limit: int = 100, offset: int = 0):
+    """Comments are public to read — no auth required."""
     try:
         comments = get_comments(act, section, limit, offset)
         return {"act": act, "section": section, "count": len(comments), "comments": comments}
@@ -33,9 +42,14 @@ def list_comments(act: str, section: str, limit: int = 100, offset: int = 0):
 
 
 @router.post("/api/comments")
-def create_comment(payload: CommentCreate):
+def create_comment(payload: CommentCreate, request: Request):
+    """Requires auth — author is pulled from session, not user-supplied."""
+    user = _require_user(request)
+    if not user:
+        raise HTTPException(status_code=401, detail="Login required to comment")
+    author = user.get("name") or user.get("email", "Unknown")
     try:
-        return add_comment(payload.act, payload.section, payload.author, payload.text)
+        return add_comment(payload.act, payload.section, author, payload.text)
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
     except Exception:
@@ -44,7 +58,11 @@ def create_comment(payload: CommentCreate):
 
 
 @router.post("/api/comments/resolve")
-def mark_resolved(payload: CommentResolve):
+def mark_resolved(payload: CommentResolve, request: Request):
+    """Requires auth."""
+    user = _require_user(request)
+    if not user:
+        raise HTTPException(status_code=401, detail="Login required")
     try:
         resolve_comment(payload.comment_id)
         return {"ok": True}

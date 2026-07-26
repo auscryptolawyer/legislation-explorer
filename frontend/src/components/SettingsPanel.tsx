@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
-import { useTheme, FONTS } from '../ThemeContext'
+import { useTheme, FONTS, ThemeConfig } from '../ThemeContext'
 import { COLORS } from './common/types'
+import { api } from '../api'
 
 const ACCENT_PRESETS = [
   '#279e88', '#2563eb', '#7c3aed', '#059669',
@@ -15,7 +16,7 @@ export default function SettingsPanel({ onClose }: { onClose: () => void }) {
     resetTheme, savePrefs,
   } = useTheme()
 
-  const [tab, setTab] = useState<'profile' | 'appearance'>('profile')
+  const [tab, setTab] = useState<'profile' | 'appearance' | 'mcp'>('profile')
   const [editingDisplayName, setEditingDisplayName] = useState(userPrefs?.display_name || '')
   const [saving, setSaving] = useState(false)
   const [saved, setSaved] = useState(false)
@@ -110,6 +111,16 @@ export default function SettingsPanel({ onClose }: { onClose: () => void }) {
               borderBottom: tab === 'appearance' ? `2px solid ${c.accent}` : '2px solid transparent',
             }}
           >Appearance</button>
+          <button
+            onClick={() => setTab('mcp')}
+            style={{
+              padding: '8px 16px', border: 'none', cursor: 'pointer',
+              background: 'transparent', color: tab === 'mcp' ? c.accent : c.textMuted,
+              fontSize: 12, fontWeight: tab === 'mcp' ? 600 : 400,
+              fontFamily: "var(--heading-font, 'Montserrat'), sans-serif",
+              borderBottom: tab === 'mcp' ? `2px solid ${c.accent}` : '2px solid transparent',
+            }}
+          >MCP Tokens</button>
         </div>
 
         {tab === 'profile' && (
@@ -244,7 +255,7 @@ export default function SettingsPanel({ onClose }: { onClose: () => void }) {
                   width: '100%', padding: '8px 10px', borderRadius: 6, fontSize: 12,
                   background: c.bg, color: c.heading,
                   border: `1px solid ${c.border}`, outline: 'none',
-                  fontFamily: e => e ? e.target.value : "'Montserrat', sans-serif",
+                  fontFamily: "'Montserrat', sans-serif",
                   cursor: 'pointer',
                 }}
               >
@@ -294,7 +305,293 @@ export default function SettingsPanel({ onClose }: { onClose: () => void }) {
             </button>
           </div>
         )}
+
+        {tab === 'mcp' && (
+          <MCPTabContent c={c} />
+        )}
       </div>
     </div>
   )
+}
+
+type TokenInfo = {
+  id: number;
+  name: string;
+  created_by: string;
+  created_at: number;
+  last_used: number | null;
+  request_count: number;
+};
+
+function MCPTabContent({ c }: { c: ThemeConfig }) {
+  const [generatedToken, setGeneratedToken] = useState<string | null>(null);
+  const [tokens, setTokens] = useState<TokenInfo[]>([]);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [copiedUrl, setCopiedUrl] = useState(false);
+  const [copiedToken, setCopiedToken] = useState(false);
+  const [renamingId, setRenamingId] = useState<number | null>(null);
+  const [renameValue, setRenameValue] = useState('');
+
+  const baseUrl = 'https://legislation.scriptkitty.yachts/mcp/sse';
+  const fullUrl = generatedToken ? `${baseUrl}?token=${generatedToken}` : baseUrl;
+
+  React.useEffect(() => {
+    loadTokens();
+    setGeneratedToken(null);
+    setError(null);
+  }, []);
+
+  const loadTokens = async () => {
+    try {
+      const data = await api.listMcpTokens();
+      setTokens(data.tokens || []);
+    } catch (e: any) {
+      setError(e.message);
+    }
+  };
+
+  const generateToken = async () => {
+    setLoading(true);
+    setError(null);
+    try {
+      const data = await api.generateMcpToken();
+      setGeneratedToken(data.token);
+      loadTokens();
+    } catch (e: any) {
+      setError(e.message);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const revokeToken = async (tokenId: number) => {
+    setError(null);
+    try {
+      await api.revokeMcpToken(String(tokenId));
+      loadTokens();
+    } catch (e: any) {
+      setError(e.message);
+    }
+  };
+
+  const startRename = (token: TokenInfo) => {
+    setRenamingId(token.id);
+    setRenameValue(token.name || '');
+  };
+
+  const submitRename = async () => {
+    if (renamingId === null) return;
+    setError(null);
+    try {
+      await api.renameMcpToken(renamingId, renameValue.trim() || 'Untitled');
+      setRenamingId(null);
+      loadTokens();
+    } catch (e: any) {
+      setError(e.message);
+    }
+  };
+
+  const cancelRename = () => {
+    setRenamingId(null);
+    setRenameValue('');
+  };
+
+  const copyToClipboard = (text: string, type: 'url' | 'token') => {
+    navigator.clipboard.writeText(text).then(() => {
+      if (type === 'url') {
+        setCopiedUrl(true);
+        setTimeout(() => setCopiedUrl(false), 2000);
+      } else {
+        setCopiedToken(true);
+        setTimeout(() => setCopiedToken(false), 2000);
+      }
+    }).catch(() => {});
+  };
+
+  const formatDate = (ts: number | null) => {
+    if (!ts) return 'Never';
+    return new Date(ts * 1000).toLocaleString();
+  };
+
+  return (
+    <div>
+      <p style={{ color: c.textMuted, fontSize: 12, marginBottom: 16, lineHeight: 1.5 }}>
+        Connect Claude Desktop or other MCP clients to this Legislation Explorer.
+      </p>
+
+      {/* Generate Token */}
+      <button
+        onClick={generateToken}
+        disabled={loading}
+        style={{
+          padding: '10px 18px', borderRadius: 6,
+          background: c.accent, color: '#fff',
+          border: 'none', fontSize: 13, cursor: loading ? 'not-allowed' : 'pointer',
+          fontWeight: 600, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif",
+          opacity: loading ? 0.7 : 1,
+        }}
+      >
+        {loading ? 'Generating...' : 'Generate New Token'}
+      </button>
+
+      {error && (
+        <div style={{ marginTop: 12, padding: 10, borderRadius: 6, background: 'rgba(239,68,68,0.1)', color: '#ef4444', fontSize: 12 }}>
+          {error}
+        </div>
+      )}
+
+      {/* Newly generated token */}
+      {generatedToken && (
+        <div style={{
+          marginTop: 20, padding: 14, borderRadius: 6,
+          background: 'rgba(39,158,136,0.08)', border: `1px solid ${c.accent}`,
+        }}>
+          <div style={{ color: c.accent, fontSize: 11, fontWeight: 600, marginBottom: 8, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif" }}>
+            Copy this token now — it will not be shown again
+          </div>
+          <div style={{ position: 'relative' }}>
+            <pre style={{
+              background: c.bg, color: c.text,
+              padding: 10, borderRadius: 6, fontSize: 11,
+              overflowX: 'auto', whiteSpace: 'pre-wrap', wordBreak: 'break-all',
+              fontFamily: 'monospace', margin: 0,
+              border: `1px solid ${c.border}`,
+            }}>
+              {generatedToken}
+            </pre>
+            <button
+              onClick={() => copyToClipboard(generatedToken, 'token')}
+              style={{
+                position: 'absolute', top: 6, right: 6,
+                padding: '4px 8px', borderRadius: 4,
+                background: copiedToken ? c.accent : c.surface,
+                color: copiedToken ? '#fff' : c.text,
+                border: `1px solid ${c.border}`, fontSize: 10, cursor: 'pointer',
+                fontWeight: 600, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif",
+              }}
+            >
+              {copiedToken ? 'Copied!' : 'Copy'}
+            </button>
+          </div>
+        </div>
+      )}
+
+      {/* SSE Endpoint URL */}
+      <div style={{ marginTop: 20 }}>
+        <div style={{ color: c.heading, fontSize: 12, fontWeight: 600, marginBottom: 6, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif" }}>
+          SSE Endpoint URL
+        </div>
+        <div style={{ position: 'relative' }}>
+          <pre style={{
+            background: c.bg, color: c.text,
+            padding: 12, borderRadius: 6, fontSize: 11,
+            overflowX: 'auto', whiteSpace: 'pre-wrap', wordBreak: 'break-all',
+            fontFamily: 'monospace', margin: 0,
+            border: `1px solid ${c.border}`,
+            minHeight: 36, display: 'flex', alignItems: 'center',
+          }}>
+            {fullUrl}
+          </pre>
+          <button
+            onClick={() => copyToClipboard(fullUrl, 'url')}
+            style={{
+              position: 'absolute', top: 6, right: 6,
+              padding: '4px 8px', borderRadius: 4,
+              background: copiedUrl ? c.accent : c.surface,
+              color: copiedUrl ? '#fff' : c.text,
+              border: `1px solid ${c.border}`, fontSize: 10, cursor: 'pointer',
+              fontWeight: 600, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif",
+            }}
+          >
+            {copiedUrl ? 'Copied!' : 'Copy URL'}
+          </button>
+        </div>
+      </div>
+
+      {/* Token list */}
+      {tokens.length > 0 && (
+        <div style={{ marginTop: 20 }}>
+          <div style={{ color: c.heading, fontSize: 12, fontWeight: 600, marginBottom: 10, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif" }}>
+            Your Tokens ({tokens.length})
+          </div>
+          <div style={{
+            maxHeight: 280, overflowY: 'auto',
+            border: `1px solid ${c.border}`, borderRadius: 6,
+          }}>
+            {tokens.map(t => (
+              <div key={t.id} style={{
+                padding: '10px 12px',
+                borderBottom: `1px solid ${c.border}`,
+                fontSize: 11, color: c.text,
+                fontFamily: "var(--heading-font, 'Montserrat'), sans-serif",
+              }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8 }}>
+                  <div style={{ flex: 1, minWidth: 0 }}>
+                    {renamingId === t.id ? (
+                      <div style={{ display: 'flex', gap: 4, alignItems: 'center' }}>
+                        <input
+                          value={renameValue}
+                          onChange={e => setRenameValue(e.target.value)}
+                          onKeyDown={e => { if (e.key === 'Enter') submitRename(); if (e.key === 'Escape') cancelRename(); }}
+                          autoFocus
+                          style={{
+                            flex: 1, padding: '4px 6px', borderRadius: 4, fontSize: 11,
+                            background: c.bg, color: c.heading,
+                            border: `1px solid ${c.accent}`, outline: 'none',
+                            fontFamily: "var(--heading-font, 'Montserrat'), sans-serif",
+                          }}
+                        />
+                        <button onClick={submitRename} style={{ padding: '3px 6px', borderRadius: 4, background: c.accent, color: '#fff', border: 'none', cursor: 'pointer', fontSize: 10, fontWeight: 600 }}>Save</button>
+                        <button onClick={cancelRename} style={{ padding: '3px 6px', borderRadius: 4, background: c.bg, color: c.textMuted, border: `1px solid ${c.border}`, cursor: 'pointer', fontSize: 10 }}>Cancel</button>
+                      </div>
+                    ) : (
+                      <div
+                        onClick={() => startRename(t)}
+                        style={{ color: c.heading, fontWeight: 600, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: 4 }}
+                        title="Click to rename"
+                      >
+                        {t.name || `Token #${t.id}`}
+                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke={c.textMuted} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                          <path d="M17 3a2.83 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/>
+                        </svg>
+                      </div>
+                    )}
+                  </div>
+                  <button
+                    onClick={() => revokeToken(t.id)}
+                    title="Revoke token"
+                    style={{
+                      padding: '3px 6px', borderRadius: 4,
+                      background: 'rgba(239,68,68,0.1)', color: '#ef4444',
+                      border: 'none', cursor: 'pointer',
+                      fontSize: 10, fontWeight: 600, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif",
+                      whiteSpace: 'nowrap', flexShrink: 0,
+                    }}
+                  >
+                    Revoke
+                  </button>
+                </div>
+                <div style={{ display: 'flex', gap: 10, marginTop: 4, color: c.textMuted, fontSize: 10 }}>
+                  <span><strong style={{ color: c.accent }}>{t.request_count}</strong> calls</span>
+                  <span>Created: {formatDate(t.created_at)}</span>
+                  <span>Last used: {formatDate(t.last_used)}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {tokens.length === 0 && !generatedToken && (
+        <div style={{ marginTop: 16, color: c.textMuted, fontSize: 11, fontStyle: 'italic' }}>
+          No tokens yet. Generate one above to get started.
+        </div>
+      )}
+
+      <p style={{ color: c.textMuted, fontSize: 11, marginTop: 20, lineHeight: 1.4 }}>
+        In Claude Desktop, go to <strong>Settings → Developer → Add MCP Server</strong> and paste the URL above.
+      </p>
+    </div>
+  );
 }
