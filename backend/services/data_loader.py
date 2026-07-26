@@ -12,6 +12,27 @@ from backend.config import DATA_DIR, COMMENTARY_DIR, CASE_DIR, RULING_DIR, ATO_R
 
 logger = logging.getLogger(__name__)
 
+# Ligature normalisation — some CCH content uses typographic ligatures
+# (ﬃ, ﬁ, ﬀ) that don't render on all devices
+_LIGATURE_TABLE = str.maketrans({
+    '\ufb00': 'ff',   # ﬀ
+    '\ufb01': 'fi',   # ﬁ
+    '\ufb02': 'fl',   # ﬂ
+    '\ufb03': 'ffi',  # ﬃ
+    '\ufb04': 'ffl',  # ﬄ
+    '\ufb05': 'st',   # ﬅ
+    '\ufb06': 'st',   # ﬆ
+})
+def _normalise_text(s: str) -> str:
+    return s.translate(_LIGATURE_TABLE)
+
+
+_ATO_ID_HEADER = re.compile(
+    r'^(ATO\s+Interpretative\s+Decision|ATO\s+ID\s+\d{4}/\d+|={3,}|'
+    r'File\s+Number|FOI\s+status|This\s+ATO\s+ID|This\s+document)',
+    re.IGNORECASE
+)
+
 
 # ---------------------------------------------------------------------------
 # Acts / sections
@@ -22,7 +43,21 @@ def load_tree(act: str) -> dict:
     path = DATA_DIR / act / "tree.json"
     if not path.exists():
         raise HTTPException(status_code=404, detail=f"Act {act} not found")
-    return json.loads(path.read_text(encoding="utf-8"))
+    tree = json.loads(path.read_text(encoding="utf-8"))
+    # Normalise section titles
+    for part in tree.get("parts", []):
+        for sec in part.get("sections", []):
+            sec["title"] = _normalise_text(sec["title"])
+        for div in part.get("divisions", []):
+            for sec in div.get("sections", []):
+                sec["title"] = _normalise_text(sec["title"])
+            for sub in div.get("subdivisions", []):
+                for sec in sub.get("sections", []):
+                    sec["title"] = _normalise_text(sec["title"])
+                sub["title"] = _normalise_text(sub.get("title", ""))
+            div["title"] = _normalise_text(div.get("title", ""))
+        part["title"] = _normalise_text(part.get("title", ""))
+    return tree
 
 
 @functools.lru_cache(maxsize=None)
@@ -85,8 +120,8 @@ def _load_commentary_index() -> dict[str, list[dict]]:
                     entry = {
                         "publication": pub_name,
                         "chapter_number": ch.get("number"),
-                        "chapter_title": ch.get("title"),
-                        "heading_title": mh.get("title"),
+                        "chapter_title": _normalise_text(ch.get("title", "")),
+                        "heading_title": _normalise_text(mh.get("title", "")),
                         "paragraph_number": mh.get("paragraph_number"),
                         "content_blocks": mh.get("content_blocks", []),
                         "sub_headings": mh.get("sub_headings", []),
@@ -268,27 +303,69 @@ def load_rulings() -> list[dict]:
             title = f.stem
             year = 0
             ruling_type = "LCG"
-            m = re.match(r'^([A-Za-z]+)_(\d{4})_(\d+)', f.stem)
+            m = re.match(r'^([A-Za-z]+)_(\d{2,4})_(\d+)', f.stem)
             if m:
                 ruling_type = m.group(1).upper()
+                # Normalize PSLA → PS LA for display consistency
+                if ruling_type == "PSLA":
+                    ruling_type = "PS LA"
                 year = int(m.group(2))
+                # Normalise 2-digit years (98 → 1998, 04 → 2004)
+                if year < 100:
+                    year += 1900 if year >= 90 else 2000
+            else:
+                # Single-number format: IT_262, SGR_2006_1, etc.
+                m2 = re.match(r'^([A-Za-z]+)_(\d+)$', f.stem)
+                if m2:
+                    ruling_type = m2.group(1).upper()
             if meta_path.exists():
                 meta = json.loads(meta_path.read_text(encoding="utf-8"))
                 title = meta.get("title", title)
                 ruling_type = meta.get("ruling_type") or meta.get("type") or ruling_type
-                year = meta.get("year") or 0
+                if meta.get("year"):
+                    year = int(meta["year"])
                 if meta.get("issue_date"):
                     dm = re.search(r'(\d{4})', str(meta.get("issue_date")))
                     if dm:
                         year = int(dm.group(1))
             content = f.read_text(encoding="utf-8")
+            # Extract descriptive title from content (line after the ruling citation)
+            full_title = title
+            # Strip ATO ID header lines before extracting title
+            content_for_title = content
+            if ruling_type == "PS LA" or ruling_type == "AID":
+                # Remove known header lines
+                ct_lines = content.splitlines()
+                for ci, cl in enumerate(ct_lines):
+                    if re.match(r'^(ATO\s+Interpretative\s+Decision|ATO\s+ID\s+\d{4}/\d+|=+)$', cl.strip(), re.IGNORECASE):
+                        continue
+                    if re.match(r'^(File\s+Number|FOI\s+status)', cl.strip(), re.IGNORECASE):
+                        continue
+                    if not cl.strip():
+                        continue
+                    content_for_title = '\n'.join(ct_lines[ci:])
+                    break
+            lines = content_for_title.splitlines()
+            for i, ln in enumerate(lines):
+                ln = ln.strip()
+                # Find the citation line, take the next non-empty line as the title
+                if re.match(r'^[A-Z]+ \d{4}/\d+', ln) or re.match(r'^\w{2,4} \d{4}/\d+', ln) or re.match(r'^ATO ID \d{4}/\d+', ln) or re.match(r'^PS LA \d{4}/\d+', ln):
+                    for j in range(i + 1, min(i + 5, len(lines))):
+                        next_ln = lines[j].strip()
+                        if next_ln and not next_ln.startswith("Please") and not next_ln.startswith("PDF") and not next_ln.startswith("This ATO ID") and not next_ln.startswith("This document") and not re.match(r'^[A-Z]+ \d{4}/\d+', next_ln) and not re.match(r'^={3,}', next_ln):
+                            full_title = next_ln
+                            break
+                    break
+            withdrawn = bool(re.search(r'\bwithdrawn\b', content[:1000], re.IGNORECASE))
             rulings.append({
                 "citation": f.stem,
                 "title": title,
+                "full_title": full_title,
                 "type": ruling_type,
                 "year": year,
                 "source": str(f),
                 "preview": content[:500],
+                "withdrawn": withdrawn,
             })
         except Exception:
             logger.exception("Error loading ruling %s", f.name)
@@ -301,6 +378,17 @@ def load_rulings() -> list[dict]:
                 content = f.read_text(encoding="utf-8")
                 lines = content.splitlines()
                 title = lines[0].strip() if lines else f.stem
+                # Extract descriptive title: find the citation line, take next non-empty meaningful line
+                full_title = title
+                for i, ln in enumerate(lines):
+                    ln = ln.strip()
+                    if re.match(r'^[A-Z]+ \d{4}/\d+', ln) or re.match(r'^\w{2,4} \d{4}/\d+', ln):
+                        for j in range(i + 1, min(i + 5, len(lines))):
+                            next_ln = lines[j].strip()
+                            if next_ln and not next_ln.startswith("Please") and not next_ln.startswith("PDF"):
+                                full_title = next_ln
+                                break
+                        break
                 year_match = re.search(r'(\d{4})', f.stem)
                 year = int(year_match.group(1)) if year_match else 0
                 rulings.append({
@@ -313,6 +401,92 @@ def load_rulings() -> list[dict]:
                 })
             except Exception:
                 logger.exception("Error loading ATO ruling %s", f.name)
+
+    # ── URL generators ────────────────────────────────────────────────────────
+    _ato_doc_map = {
+        "TR": "TXR",
+        "TD": "TXD",
+        "PCG": "COG",
+        "LCG": "COG",
+        "LCR": "COG",
+        "PS LA": "ATOPSLA",
+        "PS_LA": "ATOPSLA",
+        "PSLA": "ATOPSLA",
+        "GSTR": "GST",
+        "MT": "MXR",
+        "TA": "TPA",
+        "SGR": "SGR",
+        "AID": "AID",
+    }
+
+    def _ato_url(rtype: str, prefix: str, year: int | None, num: str) -> str | None:
+        """Generate ATO URL — document viewer with PiT parameter.
+
+        Format: law/view/document?DocID={code}/{prefix}{yr}{num}/NAT/ATO/00001&amp;PiT=99991231235958
+        PiT=99991231235958 is the "latest point in time" parameter.
+        Plain slashes work (no URL encoding needed).
+        """
+        if rtype == "IT":
+            docid = f"ITR/IT{num}/NAT/ATO/00001"
+        elif rtype == "AID":
+            return f"https://www.ato.gov.au/law/view/document?docid=AID/AID{year}{num}/00001"
+        else:
+            code = _ato_doc_map.get(rtype)
+            if not code:
+                return None
+            yr = str(year) if year else ""
+            docid = f"{code}/{prefix}{yr}{num}/NAT/ATO/00001"
+        return f"https://www.ato.gov.au/law/view/document?DocID={docid}&PiT=99991231235958"
+
+    def _austlii_url(rtype: str, docid_num: str, year: int) -> str | None:
+        ato_path_map = {
+            "TR": f"ATOTR/{year}/TR{docid_num}.html",
+            "TD": f"ATOTD/{year}/TD{docid_num}.html",
+            "PCG": f"ATOPCG/{year}/PCG{docid_num}.html",
+            "LCG": f"ATOLCG/{year}/LCG{docid_num}.html",
+            "LCR": f"ATOLCR/{year}/LCR{docid_num}.html",
+            "PS LA": None,
+            "PS_LA": None,
+        }
+        path = ato_path_map.get(rtype)
+        if not path:
+            return None
+        return f"https://www8.austlii.edu.au/au/other/rulings/ato/{path}"
+
+    for r in rulings:
+        parts = r["citation"].split("_", 2)
+        if len(parts) == 3:
+            rtype, yr_raw, num = parts
+            # Handle PS LA citations: "PS"_"LA"_"2011_10" → type="PS_LA", yr=2011, num=10
+            if rtype.upper() == "PS" and yr_raw.upper() == "LA":
+                rtype = "PSLA"
+                yr_doc_num = num.split("_", 1)
+                yr_raw = yr_doc_num[0]
+                num = yr_doc_num[1] if len(yr_doc_num) > 1 else yr_doc_num[0]
+            yr = str(r["year"]) if r["year"] else yr_raw
+            # Build the docid number part: <year><num> with correct year width
+            if rtype == "PSLA":
+                r["citation_display"] = f"PS LA {yr}/{num}"
+            elif rtype == "AID":
+                r["citation_display"] = f"ATO ID {yr}/{num}"
+            else:
+                r["citation_display"] = f"{rtype} {yr}/{num}"
+            yr_doc = str(r["year"])[-2:] if r["year"] and r["year"] < 2000 else str(r["year"]) if r["year"] else yr_raw
+            docid_num = f"{yr_doc}{num}"
+            r["ato_url"] = _ato_url(r["type"], rtype, r.get("year"), num) or ""
+            r["austlii_url"] = _austlii_url(r["type"], docid_num, r["year"]) or ""
+        elif len(parts) == 2 and parts[0].upper() == "IT":
+            # IT rulings: IT_262 — sequential numbering, no year
+            rtype, num = parts
+            r["citation_display"] = f"IT {num}"
+            # ATO URL: plain DocID with PiT parameter
+            r["ato_url"] = f"https://www.ato.gov.au/law/view/document?DocID=ITR/IT{num}/NAT/ATO/00001&PiT=99991231235958"
+            r["austlii_url"] = ""
+        else:
+            r["citation_display"] = r["citation"]
+            r["ato_url"] = ""
+            r["austlii_url"] = ""
+
     return rulings
 
 
@@ -425,6 +599,7 @@ def get_act_section_content(act: str, section: str) -> tuple[dict, str]:
 
 
     content = md_path.read_text(encoding="utf-8")
+    content = _normalise_text(content)
     fm = {}
     body = content
     if content.startswith("---"):
@@ -467,21 +642,33 @@ def get_definition_text(act: str, term: str) -> dict | None:
         body = content
 
     term_lower = term.lower()
-    idx = body.lower().find(term_lower)
-    if idx == -1:
+    escaped = re.escape(term_lower)
+    # Match: term followed by definition keywords anywhere in the body text
+    # (?<!\w) ensures we don't match compound terms like "demerger dividend" for "dividend"
+    patterns = [
+        rf'(?<!\w){escaped}\s+(?:has\s+(?:the\s+)?(?:same\s+)?meaning|means|includes)(?:\s|:|$)',
+        rf'(?<!\w){escaped}\s*:',
+    ]
+    m = None
+    for pat in patterns:
+        m = re.search(pat, body, re.IGNORECASE)
+        if m:
+            break
+    if not m:
         return None
+    idx = m.start()
 
-    end_pos = len(body)
-    all_terms = sorted(defs.keys(), key=len, reverse=True)
-    for t in all_terms:
-        if t == term_lower:
-            continue
-        search_start = idx + len(term_lower)
-        t_idx = body.lower().find(t, search_start)
-        if t_idx != -1 and t_idx < end_pos:
-            preceding = body[max(0, t_idx - 20):t_idx]
-            if t_idx == 0 or body[t_idx - 1] in ".;:\n" or re.search(r"[.;:]\s*$", preceding) or re.search(r"\n\s*$", preceding):
-                end_pos = t_idx
+    # Find end: next col-0 line (start of next definition) or sentence boundary
+    rest = body[idx + len(m.group()):]
+    m2 = re.search(r'\n(?=[^\s>#<\-\d\[\(\*\'\`"])', rest)
+    if m2:
+        end_pos = idx + len(m.group()) + m2.start()
+    else:
+        m3 = re.search(r'\.\s+(?=[A-Z][a-z])', rest)
+        if m3:
+            end_pos = idx + len(m.group()) + m3.start() + 1
+        else:
+            end_pos = len(body)
 
     text = body[idx:end_pos].strip()
     text = re.sub(r'<a id="[^"]+"></a>\s*\n?', "", text)

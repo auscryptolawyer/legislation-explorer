@@ -1,0 +1,9626 @@
+{
+  "[2026] HCA 18": [
+    {
+      "act": "itaa-1936",
+      "section": "109D",
+      "base": "109D"
+    }
+  ],
+  "[2025] HCA 30": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "128B",
+      "base": "128B"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177J",
+      "base": "177J"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "128A",
+      "base": "128A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177A",
+      "base": "177A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177CB",
+      "base": "177CB"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177H",
+      "base": "177H"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177N",
+      "base": "177N"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177P",
+      "base": "177P"
+    }
+  ],
+  "[2024] HCA 36": [
+    {
+      "act": "gst-1999",
+      "section": "9-5",
+      "base": "9-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "69-10",
+      "base": "69-10"
+    },
+    {
+      "act": "gst-1999",
+      "section": "2-5",
+      "base": "2-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "9-1",
+      "base": "9-1"
+    },
+    {
+      "act": "gst-1999",
+      "section": "15-1",
+      "base": "15-1"
+    }
+  ],
+  "[2021] HCA 22": [
+    {
+      "act": "itaa-1936",
+      "section": "128A",
+      "base": "128A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "128",
+      "base": "128"
+    }
+  ],
+  "[2021] HCA 8": [
+    {
+      "act": "gst-1999",
+      "section": "17-5",
+      "base": "17-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "33-5",
+      "base": "33-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "35-5",
+      "base": "35-5"
+    }
+  ],
+  "[2020] HCA 5": [
+    {
+      "act": "itaa-1936",
+      "section": "318",
+      "base": "318"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "340",
+      "base": "340"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "447",
+      "base": "447"
+    }
+  ],
+  "[2019] HCA 41": [
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[2022] HCA 10": [
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95A",
+      "base": "95A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "96",
+      "base": "96"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    }
+  ],
+  "[2018] HCA 62": [
+    {
+      "act": "itaa-1936",
+      "section": "94A",
+      "base": "94A"
+    }
+  ],
+  "[2016] HCA 45": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "6-5",
+      "base": "6-5"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "995-1",
+      "base": "995-1"
+    }
+  ],
+  "[2017] HCA 26": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "taa-1953",
+      "section": "357-60",
+      "base": "357-60"
+    },
+    {
+      "act": "taa-1953",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[2019] HCA 36": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "40-880",
+      "base": "40-880"
+    }
+  ],
+  "[2016] HCA 42": [
+    {
+      "act": "itaa-1997",
+      "section": "6-5",
+      "base": "6-5"
+    }
+  ],
+  "[2015] HCA 48": [
+    {
+      "act": "itaa-1936",
+      "section": "254",
+      "base": "254"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "5-5",
+      "base": "5-5"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "104-10",
+      "base": "104-10"
+    }
+  ],
+  "[2016] HCA 51": [
+    {
+      "act": "itaa-1936",
+      "section": "102M",
+      "base": "102M"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102P",
+      "base": "102P"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102R",
+      "base": "102R"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102S",
+      "base": "102S"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102T",
+      "base": "102T"
+    }
+  ],
+  "[2015] HCA 25": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2018] HCA 31": [
+    {
+      "act": "itaa-1936",
+      "section": "96",
+      "base": "96"
+    }
+  ],
+  "[2012] HCA 41": [
+    {
+      "act": "gst-1999",
+      "section": "9-5",
+      "base": "9-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "7-1",
+      "base": "7-1"
+    },
+    {
+      "act": "gst-1999",
+      "section": "9-10",
+      "base": "9-10"
+    },
+    {
+      "act": "gst-1999",
+      "section": "9-15",
+      "base": "9-15"
+    },
+    {
+      "act": "gst-1999",
+      "section": "29-5",
+      "base": "29-5"
+    }
+  ],
+  "[2012] HCA 51": [
+    {
+      "act": "itaa-1936",
+      "section": "177EA",
+      "base": "177EA"
+    }
+  ],
+  "[2010] HCA 10": [
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[2013] HCA 16": [
+    {
+      "act": "gst-1999",
+      "section": "165-5",
+      "base": "165-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "165-10",
+      "base": "165-10"
+    }
+  ],
+  "[2010] HCA 40": [
+    {
+      "act": "itaa-1997",
+      "section": "6-5",
+      "base": "6-5"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "51-1",
+      "base": "51-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "51-10",
+      "base": "51-10"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "51-35",
+      "base": "51-35"
+    }
+  ],
+  "[2014] HCA 49": [
+    {
+      "act": "gst-1999",
+      "section": "135-5",
+      "base": "135-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "9-75",
+      "base": "9-75"
+    },
+    {
+      "act": "gst-1999",
+      "section": "38-325",
+      "base": "38-325"
+    },
+    {
+      "act": "gst-1999",
+      "section": "40-35",
+      "base": "40-35"
+    }
+  ],
+  "[2015] HCA 44": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[2012] HCA 55": [
+    {
+      "act": "itaa-1936",
+      "section": "6D",
+      "base": "6D"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "159GZZZP",
+      "base": "159GZZZP"
+    }
+  ],
+  "[2011] HCA 17": [
+    {
+      "act": "itaa-1997",
+      "section": "243-20",
+      "base": "243-20"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "243-15",
+      "base": "243-15"
+    }
+  ],
+  "[2010] HCA 33": [
+    {
+      "act": "gst-1999",
+      "section": "38-190",
+      "base": "38-190"
+    },
+    {
+      "act": "gst-1999",
+      "section": "9-5",
+      "base": "9-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "9-10",
+      "base": "9-10"
+    },
+    {
+      "act": "gst-1999",
+      "section": "9-30",
+      "base": "9-30"
+    }
+  ],
+  "[2009] HCA 23": [
+    {
+      "act": "taa-1953",
+      "section": "15A",
+      "base": "15A"
+    },
+    {
+      "act": "taa-1953",
+      "section": "2",
+      "base": "2"
+    },
+    {
+      "act": "taa-1953",
+      "section": "16",
+      "base": "16"
+    }
+  ],
+  "[2011] HCA 46": [
+    {
+      "act": "itaa-1936",
+      "section": "459A",
+      "base": "459A"
+    }
+  ],
+  "[2011] HCA 35": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[2010] HCA 42": [
+    {
+      "act": "itaa-1997",
+      "section": "50-5",
+      "base": "50-5"
+    }
+  ],
+  "[2009] HCA 33": [
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    }
+  ],
+  "[2009] HCA 22": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "995-1",
+      "base": "995-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "6-5",
+      "base": "6-5"
+    }
+  ],
+  "[2008] HCA 22": [
+    {
+      "act": "gst-1999",
+      "section": "9-10",
+      "base": "9-10"
+    },
+    {
+      "act": "gst-1999",
+      "section": "9-15",
+      "base": "9-15"
+    },
+    {
+      "act": "gst-1999",
+      "section": "99-5",
+      "base": "99-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "9-5",
+      "base": "9-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "99-1",
+      "base": "99-1"
+    },
+    {
+      "act": "gst-1999",
+      "section": "99-10",
+      "base": "99-10"
+    }
+  ],
+  "[2008] HCA 32": [
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[2009] HCA 32": [
+    {
+      "act": "taa-1953",
+      "section": "260-5",
+      "base": "260-5"
+    },
+    {
+      "act": "taa-1953",
+      "section": "260-45",
+      "base": "260-45"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "118",
+      "base": "118"
+    },
+    {
+      "act": "taa-1953",
+      "section": "5A",
+      "base": "5A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "468",
+      "base": "468"
+    },
+    {
+      "act": "taa-1953",
+      "section": "260-15",
+      "base": "260-15"
+    },
+    {
+      "act": "taa-1953",
+      "section": "260-20",
+      "base": "260-20"
+    },
+    {
+      "act": "taa-1953",
+      "section": "260-50",
+      "base": "260-50"
+    }
+  ],
+  "[2008] HCA 41": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[2008] HCA 21": [
+    {
+      "act": "itaa-1936",
+      "section": "100A",
+      "base": "100A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[2008] HCA 53": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2007] HCA 5": [
+    {
+      "act": "itaa-1997",
+      "section": "6-5",
+      "base": "6-5"
+    }
+  ],
+  "[2008] HCA 55": [
+    {
+      "act": "itaa-1997",
+      "section": "50-1",
+      "base": "50-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "50-5",
+      "base": "50-5"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "50-50",
+      "base": "50-50"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "50-52",
+      "base": "50-52"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "50-55",
+      "base": "50-55"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "50-65",
+      "base": "50-65"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "50-105",
+      "base": "50-105"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "50-110",
+      "base": "50-110"
+    }
+  ],
+  "[2007] HCA 54": [
+    {
+      "act": "itaa-1936",
+      "section": "255",
+      "base": "255"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "257",
+      "base": "257"
+    }
+  ],
+  "[2004] HCA 26": [
+    {
+      "act": "itaa-1936",
+      "section": "177A",
+      "base": "177A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    }
+  ],
+  "[2007] HCA 8": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[2006] HCA 29": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZO",
+      "base": "14ZZO"
+    }
+  ],
+  "[2006] HCA 35": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2003] HCA 31": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZF",
+      "base": "14ZZF"
+    }
+  ],
+  "[2005] HCA 21": [
+    {
+      "act": "itaa-1997",
+      "section": "4-1",
+      "base": "4-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "4-15",
+      "base": "4-15"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "6-5",
+      "base": "6-5"
+    }
+  ],
+  "[2001] HCA 32": [
+    {
+      "act": "itaa-1936",
+      "section": "177E",
+      "base": "177E"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177A",
+      "base": "177A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    }
+  ],
+  "[2000] HCA 4": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "171",
+      "base": "171"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[2001] HCA 33": [
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "45",
+      "base": "45"
+    }
+  ],
+  "[1999] HCA 67": [
+    {
+      "act": "itaa-1936",
+      "section": "118",
+      "base": "118"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "119",
+      "base": "119"
+    }
+  ],
+  "[1999] HCA 34": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1998] HCA 33": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    }
+  ],
+  "[1998] HCA 53": [
+    {
+      "act": "itaa-1936",
+      "section": "27H",
+      "base": "27H"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    }
+  ],
+  "[2026] FCA 140": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[2026] FCA 197": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "900-200",
+      "base": "900-200"
+    }
+  ],
+  "[2026] FCA 521": [
+    {
+      "act": "itaa-1997",
+      "section": "110-25",
+      "base": "110-25"
+    }
+  ],
+  "[2026] FCA 529": [
+    {
+      "act": "itaa-1997",
+      "section": "50-5",
+      "base": "50-5"
+    }
+  ],
+  "[2026] FCA 609": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2026] FCA 658": [
+    {
+      "act": "taa-1953",
+      "section": "290-50",
+      "base": "290-50"
+    }
+  ],
+  "[2026] FCA 935": [
+    {
+      "act": "itaa-1997",
+      "section": "707-145",
+      "base": "707-145"
+    }
+  ],
+  "[2026] FCA 950": [
+    {
+      "act": "itaa-1997",
+      "section": "50-5",
+      "base": "50-5"
+    }
+  ],
+  "[2026] FCA 902": [
+    {
+      "act": "itaa-1936",
+      "section": "172",
+      "base": "172"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[2025] FCA 1126": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "172",
+      "base": "172"
+    }
+  ],
+  "[2026] FCA 898": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[2025] FCA 115": [
+    {
+      "act": "itaa-1997",
+      "section": "230-45",
+      "base": "230-45"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "230-60",
+      "base": "230-60"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "230-445",
+      "base": "230-445"
+    },
+    {
+      "act": "taa-1953",
+      "section": "260-60",
+      "base": "260-60"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "8-10",
+      "base": "8-10"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "974-30",
+      "base": "974-30"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "230-65",
+      "base": "230-65"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "230-460",
+      "base": "230-460"
+    }
+  ],
+  "[2025] FCA 1184": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZO",
+      "base": "14ZZO"
+    }
+  ],
+  "[2025] FCA 1317": [
+    {
+      "act": "itaa-1997",
+      "section": "855-10",
+      "base": "855-10"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "855-15",
+      "base": "855-15"
+    }
+  ],
+  "[2025] FCA 1314": [
+    {
+      "act": "taa-1953",
+      "section": "298-10",
+      "base": "298-10"
+    },
+    {
+      "act": "taa-1953",
+      "section": "284-90",
+      "base": "284-90"
+    },
+    {
+      "act": "taa-1953",
+      "section": "298-30",
+      "base": "298-30"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZL",
+      "base": "14ZZL"
+    }
+  ],
+  "[2025] FCA 1316": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    }
+  ],
+  "[2025] FCA 1499": [
+    {
+      "act": "itaa-1997",
+      "section": "104-10",
+      "base": "104-10"
+    }
+  ],
+  "[2025] FCA 1656": [
+    {
+      "act": "taa-1953",
+      "section": "8AAZI",
+      "base": "8AAZI"
+    },
+    {
+      "act": "taa-1953",
+      "section": "8AAZJ",
+      "base": "8AAZJ"
+    }
+  ],
+  "[2025] FCA 1693": [
+    {
+      "act": "gst-1999",
+      "section": "93-5",
+      "base": "93-5"
+    }
+  ],
+  "[2025] FCA 240": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2025] FCA 336": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZP",
+      "base": "14ZZP"
+    }
+  ],
+  "[2025] FCA 372": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "394-25",
+      "base": "394-25"
+    }
+  ],
+  "[2025] FCA 461": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2025] FCA 749": [
+    {
+      "act": "itaa-1936",
+      "section": "172",
+      "base": "172"
+    }
+  ],
+  "[2025] FCA 848": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[2025] FCA 87": [
+    {
+      "act": "itaa-1997",
+      "section": "83-175",
+      "base": "83-175"
+    }
+  ],
+  "[2024] FCA 1154": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    }
+  ],
+  "[2024] FCA 1033": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZE",
+      "base": "14ZZE"
+    }
+  ],
+  "[2024] FCA 1346": [
+    {
+      "act": "itaa-1997",
+      "section": "355-25",
+      "base": "355-25"
+    }
+  ],
+  "[2024] FCA 1448": [
+    {
+      "act": "taa-1953",
+      "section": "290-50",
+      "base": "290-50"
+    }
+  ],
+  "[2024] FCA 253": [
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    }
+  ],
+  "[2024] FCA 421": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "40-880",
+      "base": "40-880"
+    }
+  ],
+  "[2024] FCA 452": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "taa-1953",
+      "section": "284-220",
+      "base": "284-220"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[2024] FCA 498": [
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177E",
+      "base": "177E"
+    }
+  ],
+  "[2024] FCA 535": [
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    }
+  ],
+  "[2024] FCA 585": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[2024] FCA 592": [
+    {
+      "act": "itaa-1936",
+      "section": "45B",
+      "base": "45B"
+    }
+  ],
+  "[2024] FCA 687": [
+    {
+      "act": "itaa-1997",
+      "section": "116-30",
+      "base": "116-30"
+    }
+  ],
+  "[2024] FCA 720": [
+    {
+      "act": "itaa-1936",
+      "section": "254",
+      "base": "254"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "106-30",
+      "base": "106-30"
+    }
+  ],
+  "[2024] FCA 761": [
+    {
+      "act": "itaa-1936",
+      "section": "177EA",
+      "base": "177EA"
+    }
+  ],
+  "[2024] FCA 777": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    }
+  ],
+  "[2024] FCA 899": [
+    {
+      "act": "itaa-1997",
+      "section": "50-5",
+      "base": "50-5"
+    }
+  ],
+  "[2024] FCA 90": [
+    {
+      "act": "itaa-1997",
+      "section": "615-20",
+      "base": "615-20"
+    }
+  ],
+  "[2023] FCA 1247": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZF",
+      "base": "14ZZF"
+    }
+  ],
+  "[2023] FCA 1523": [
+    {
+      "act": "itaa-1997",
+      "section": "118-37",
+      "base": "118-37"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "82-130",
+      "base": "82-130"
+    }
+  ],
+  "[2023] FCA 1260": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[2023] FCA 574": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2023] FCA 377": [
+    {
+      "act": "taa-1953",
+      "section": "350-10",
+      "base": "350-10"
+    }
+  ],
+  "[2023] FCA 63": [
+    {
+      "act": "itaa-1997",
+      "section": "70-5",
+      "base": "70-5"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "50-5",
+      "base": "50-5"
+    }
+  ],
+  "[2023] FCA 561": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[2023] FCA 676": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2023] FCA 710": [
+    {
+      "act": "itaa-1997",
+      "section": "355-205",
+      "base": "355-205"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "355-210",
+      "base": "355-210"
+    }
+  ],
+  "[2023] FCA 725": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZO",
+      "base": "14ZZO"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZP",
+      "base": "14ZZP"
+    }
+  ],
+  "[2023] FCA 954": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "6-5",
+      "base": "6-5"
+    }
+  ],
+  "[2022] FCA 1112": [
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "100A",
+      "base": "100A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "207-35",
+      "base": "207-35"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "207-155",
+      "base": "207-155"
+    }
+  ],
+  "[2022] FCA 1278": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZP",
+      "base": "14ZZP"
+    }
+  ],
+  "[2022] FCA 1092": [
+    {
+      "act": "itaa-1936",
+      "section": "177A",
+      "base": "177A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    }
+  ],
+  "[2022] FCA 1403": [
+    {
+      "act": "taa-1953",
+      "section": "353-10",
+      "base": "353-10"
+    }
+  ],
+  "[2022] FCA 1612": [
+    {
+      "act": "itaa-1997",
+      "section": "50-5",
+      "base": "50-5"
+    }
+  ],
+  "[2022] FCA 510": [
+    {
+      "act": "gst-1999",
+      "section": "75-10",
+      "base": "75-10"
+    }
+  ],
+  "[2022] FCA 750": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "taa-1953",
+      "section": "12",
+      "base": "12"
+    }
+  ],
+  "[2022] FCA 972": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "taa-1953",
+      "section": "284-90",
+      "base": "284-90"
+    }
+  ],
+  "[2021] FCA 1": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    }
+  ],
+  "[2021] FCA 108": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2022] FCA 971": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "171A",
+      "base": "171A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166A",
+      "base": "166A"
+    },
+    {
+      "act": "taa-1953",
+      "section": "284-90",
+      "base": "284-90"
+    }
+  ],
+  "[2021] FCA 1253": [
+    {
+      "act": "itaa-1936",
+      "section": "91",
+      "base": "91"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[2021] FCA 1405": [
+    {
+      "act": "itaa-1997",
+      "section": "880-15",
+      "base": "880-15"
+    }
+  ],
+  "[2021] FCA 1619": [
+    {
+      "act": "itaa-1936",
+      "section": "100A",
+      "base": "100A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    }
+  ],
+  "[2021] FCA 303": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    }
+  ],
+  "[2021] FCA 306": [
+    {
+      "act": "taa-1953",
+      "section": "290-50",
+      "base": "290-50"
+    },
+    {
+      "act": "taa-1953",
+      "section": "290-5",
+      "base": "290-5"
+    }
+  ],
+  "[2021] FCA 496": [
+    {
+      "act": "itaa-1997",
+      "section": "40-80",
+      "base": "40-80"
+    }
+  ],
+  "[2021] FCA 523": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    }
+  ],
+  "[2021] FCA 633": [
+    {
+      "act": "taa-1953",
+      "section": "255-100",
+      "base": "255-100"
+    },
+    {
+      "act": "taa-1953",
+      "section": "255-105",
+      "base": "255-105"
+    },
+    {
+      "act": "taa-1953",
+      "section": "255-115",
+      "base": "255-115"
+    }
+  ],
+  "[2021] FCA 766": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "taa-1953",
+      "section": "284-220",
+      "base": "284-220"
+    },
+    {
+      "act": "taa-1953",
+      "section": "284-90",
+      "base": "284-90"
+    }
+  ],
+  "[2020] FCA 1096": [
+    {
+      "act": "taa-1953",
+      "section": "27A",
+      "base": "27A"
+    },
+    {
+      "act": "taa-1953",
+      "section": "8AAZN",
+      "base": "8AAZN"
+    }
+  ],
+  "[2021] FCA 98": [
+    {
+      "act": "taa-1953",
+      "section": "290-50",
+      "base": "290-50"
+    }
+  ],
+  "[2020] FCA 1139": [
+    {
+      "act": "taa-1953",
+      "section": "290-50",
+      "base": "290-50"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "290-60",
+      "base": "290-60"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "290-65",
+      "base": "290-65"
+    },
+    {
+      "act": "taa-1953",
+      "section": "284-150",
+      "base": "284-150"
+    },
+    {
+      "act": "taa-1953",
+      "section": "290-55",
+      "base": "290-55"
+    }
+  ],
+  "[2020] FCA 1126": [
+    {
+      "act": "taa-1953",
+      "section": "5",
+      "base": "5"
+    }
+  ],
+  "[2020] FCA 1186": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "taa-1953",
+      "section": "280-160",
+      "base": "280-160"
+    },
+    {
+      "act": "taa-1953",
+      "section": "8AAG",
+      "base": "8AAG"
+    }
+  ],
+  "[2020] FCA 1479": [
+    {
+      "act": "itaa-1936",
+      "section": "102UK",
+      "base": "102UK"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102UC",
+      "base": "102UC"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    }
+  ],
+  "[2020] FCA 1322": [
+    {
+      "act": "taa-1953",
+      "section": "290-50",
+      "base": "290-50"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "290-60",
+      "base": "290-60"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "290-65",
+      "base": "290-65"
+    },
+    {
+      "act": "taa-1953",
+      "section": "284-15",
+      "base": "284-15"
+    },
+    {
+      "act": "taa-1953",
+      "section": "284-150",
+      "base": "284-150"
+    },
+    {
+      "act": "taa-1953",
+      "section": "290-55",
+      "base": "290-55"
+    }
+  ],
+  "[2020] FCA 1295": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "gst-1999",
+      "section": "126-10",
+      "base": "126-10"
+    }
+  ],
+  "[2020] FCA 337": [
+    {
+      "act": "itaa-1936",
+      "section": "128",
+      "base": "128"
+    }
+  ],
+  "[2020] FCA 409": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "40-880",
+      "base": "40-880"
+    }
+  ],
+  "[2020] FCA 413": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    }
+  ],
+  "[2020] FCA 544": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2020] FCA 559": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "855-10",
+      "base": "855-10"
+    }
+  ],
+  "[2020] FCA 817": [
+    {
+      "act": "taa-1953",
+      "section": "269-35",
+      "base": "269-35"
+    }
+  ],
+  "[2019] FCA 1027": [
+    {
+      "act": "itaa-1936",
+      "section": "128",
+      "base": "128"
+    }
+  ],
+  "[2019] FCA 1076": [
+    {
+      "act": "taa-1953",
+      "section": "8AAZLF",
+      "base": "8AAZLF"
+    },
+    {
+      "act": "taa-1953",
+      "section": "8AAZLH",
+      "base": "8AAZLH"
+    }
+  ],
+  "[2019] FCA 1195": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "775-35",
+      "base": "775-35"
+    }
+  ],
+  "[2019] FCA 1247": [
+    {
+      "act": "itaa-1997",
+      "section": "87-20",
+      "base": "87-20"
+    }
+  ],
+  "[2019] FCA 1246": [
+    {
+      "act": "itaa-1997",
+      "section": "87-18",
+      "base": "87-18"
+    }
+  ],
+  "[2019] FCA 1582": [
+    {
+      "act": "itaa-1997",
+      "section": "41-5",
+      "base": "41-5"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "44-5",
+      "base": "44-5"
+    }
+  ],
+  "[2019] FCA 1306": [
+    {
+      "act": "taa-1953",
+      "section": "14ZYA",
+      "base": "14ZYA"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZY",
+      "base": "14ZY"
+    }
+  ],
+  "[2019] FCA 1602": [
+    {
+      "act": "taa-1953",
+      "section": "355-25",
+      "base": "355-25"
+    },
+    {
+      "act": "taa-1953",
+      "section": "355-50",
+      "base": "355-50"
+    }
+  ],
+  "[2019] FCA 1729": [
+    {
+      "act": "taa-1953",
+      "section": "255-5",
+      "base": "255-5"
+    },
+    {
+      "act": "taa-1953",
+      "section": "8AAG",
+      "base": "8AAG"
+    }
+  ],
+  "[2019] FCA 1679": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[2019] FCA 2011": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2019] FCA 1849": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[2019] FCA 1768": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "taa-1953",
+      "section": "3A",
+      "base": "3A"
+    }
+  ],
+  "[2019] FCA 2185": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    }
+  ],
+  "[2019] FCA 2118": [
+    {
+      "act": "gst-1999",
+      "section": "38-250",
+      "base": "38-250"
+    }
+  ],
+  "[2019] FCA 228": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2019] FCA 394": [
+    {
+      "act": "itaa-1997",
+      "section": "115-30",
+      "base": "115-30"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "115-34",
+      "base": "115-34"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "115-25",
+      "base": "115-25"
+    }
+  ],
+  "[2019] FCA 426": [
+    {
+      "act": "itaa-1936",
+      "section": "102R",
+      "base": "102R"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102P",
+      "base": "102P"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    }
+  ],
+  "[2019] FCA 77": [
+    {
+      "act": "itaa-1936",
+      "section": "21A",
+      "base": "21A"
+    }
+  ],
+  "[2019] FCA 627": [
+    {
+      "act": "taa-1953",
+      "section": "37",
+      "base": "37"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZF",
+      "base": "14ZZF"
+    }
+  ],
+  "[2019] FCA 543": [
+    {
+      "act": "taa-1953",
+      "section": "18-15",
+      "base": "18-15"
+    }
+  ],
+  "[2019] FCA 945": [
+    {
+      "act": "itaa-1936",
+      "section": "128A",
+      "base": "128A"
+    },
+    {
+      "act": "taa-1953",
+      "section": "353-10",
+      "base": "353-10"
+    }
+  ],
+  "[2018] FCA 1051": [
+    {
+      "act": "taa-1953",
+      "section": "8AAZLG",
+      "base": "8AAZLG"
+    },
+    {
+      "act": "gst-1999",
+      "section": "31-5",
+      "base": "31-5"
+    }
+  ],
+  "[2018] FCA 1084": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2018] FCA 1275": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "35-10",
+      "base": "35-10"
+    }
+  ],
+  "[2018] FCA 1339": [
+    {
+      "act": "itaa-1997",
+      "section": "768-910",
+      "base": "768-910"
+    }
+  ],
+  "[2018] FCA 1420": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZA",
+      "base": "14ZZA"
+    },
+    {
+      "act": "taa-1953",
+      "section": "25",
+      "base": "25"
+    },
+    {
+      "act": "taa-1953",
+      "section": "43",
+      "base": "43"
+    }
+  ],
+  "[2018] FCA 182": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    }
+  ],
+  "[2018] FCA 1857": [
+    {
+      "act": "itaa-1997",
+      "section": "770-10",
+      "base": "770-10"
+    }
+  ],
+  "[2018] FCA 1652": [
+    {
+      "act": "itaa-1997",
+      "section": "20-5",
+      "base": "20-5"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "20-15",
+      "base": "20-15"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "20-25",
+      "base": "20-25"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "20-50",
+      "base": "20-50"
+    }
+  ],
+  "[2018] FCA 2015": [
+    {
+      "act": "taa-1953",
+      "section": "8AAZLE",
+      "base": "8AAZLE"
+    }
+  ],
+  "[2018] FCA 2041": [
+    {
+      "act": "taa-1953",
+      "section": "260-5",
+      "base": "260-5"
+    },
+    {
+      "act": "taa-1953",
+      "section": "255-1",
+      "base": "255-1"
+    }
+  ],
+  "[2018] FCA 352": [
+    {
+      "act": "taa-1953",
+      "section": "35A",
+      "base": "35A"
+    },
+    {
+      "act": "taa-1953",
+      "section": "255-1",
+      "base": "255-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "250-10",
+      "base": "250-10"
+    },
+    {
+      "act": "taa-1953",
+      "section": "350-10",
+      "base": "350-10"
+    }
+  ],
+  "[2018] FCA 576": [
+    {
+      "act": "itaa-1997",
+      "section": "31-1",
+      "base": "31-1"
+    }
+  ],
+  "[2018] FCA 92": [
+    {
+      "act": "taa-1953",
+      "section": "18-15",
+      "base": "18-15"
+    }
+  ],
+  "[2017] FCA 110": [
+    {
+      "act": "gst-1999",
+      "section": "144-5",
+      "base": "144-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "195-1",
+      "base": "195-1"
+    }
+  ],
+  "[2017] FCA 1406": [
+    {
+      "act": "taa-1953",
+      "section": "255-100",
+      "base": "255-100"
+    }
+  ],
+  "[2017] FCA 1486": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[2017] FCA 185": [
+    {
+      "act": "itaa-1936",
+      "section": "47A",
+      "base": "47A"
+    }
+  ],
+  "[2017] FCA 20": [
+    {
+      "act": "taa-1953",
+      "section": "14S",
+      "base": "14S"
+    }
+  ],
+  "[2017] FCA 287": [
+    {
+      "act": "itaa-1997",
+      "section": "126-15",
+      "base": "126-15"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "126-5",
+      "base": "126-5"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "104-10",
+      "base": "104-10"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "103-10",
+      "base": "103-10"
+    }
+  ],
+  "[2017] FCA 478": [
+    {
+      "act": "itaa-1997",
+      "section": "20-20",
+      "base": "20-20"
+    }
+  ],
+  "[2017] FCA 390": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZO",
+      "base": "14ZZO"
+    }
+  ],
+  "[2017] FCA 572": [
+    {
+      "act": "itaa-1936",
+      "section": "95A",
+      "base": "95A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "101",
+      "base": "101"
+    }
+  ],
+  "[2017] FCA 659": [
+    {
+      "act": "taa-1953",
+      "section": "357-110",
+      "base": "357-110"
+    },
+    {
+      "act": "taa-1953",
+      "section": "359-60",
+      "base": "359-60"
+    }
+  ],
+  "[2017] FCA 819": [
+    {
+      "act": "taa-1953",
+      "section": "353-10",
+      "base": "353-10"
+    }
+  ],
+  "[2017] FCA 875": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2017] FCA 908": [
+    {
+      "act": "itaa-1997",
+      "section": "40-15",
+      "base": "40-15"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "20-5",
+      "base": "20-5"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "20-50",
+      "base": "20-50"
+    }
+  ],
+  "[2017] FCA 944": [
+    {
+      "act": "taa-1953",
+      "section": "8AAG",
+      "base": "8AAG"
+    }
+  ],
+  "[2016] FCA 322": [
+    {
+      "act": "itaa-1997",
+      "section": "26-47",
+      "base": "26-47"
+    }
+  ],
+  "[2016] FCA 465": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "171",
+      "base": "171"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    }
+  ],
+  "[2016] FCA 570": [
+    {
+      "act": "itaa-1997",
+      "section": "20-5",
+      "base": "20-5"
+    }
+  ],
+  "[2016] FCA 577": [
+    {
+      "act": "itaa-1997",
+      "section": "855-30",
+      "base": "855-30"
+    }
+  ],
+  "[2016] FCA 761": [
+    {
+      "act": "itaa-1936",
+      "section": "23AG",
+      "base": "23AG"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "770-10",
+      "base": "770-10"
+    }
+  ],
+  "[2016] FCA 860": [
+    {
+      "act": "itaa-1936",
+      "section": "65",
+      "base": "65"
+    }
+  ],
+  "[2026] FCAFC 30": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "230-45",
+      "base": "230-45"
+    }
+  ],
+  "[2026] FCAFC 11": [
+    {
+      "act": "itaa-1997",
+      "section": "83-175",
+      "base": "83-175"
+    }
+  ],
+  "[2026] FCAFC 75": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    }
+  ],
+  "[2025] FCAFC 168": [
+    {
+      "act": "itaa-1997",
+      "section": "20-20",
+      "base": "20-20"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177EA",
+      "base": "177EA"
+    }
+  ],
+  "[2025] FCAFC 171": [
+    {
+      "act": "itaa-1936",
+      "section": "45B",
+      "base": "45B"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    }
+  ],
+  "[2025] FCAFC 180": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2025] FCAFC 15": [
+    {
+      "act": "itaa-1936",
+      "section": "109D",
+      "base": "109D"
+    }
+  ],
+  "[2025] FCAFC 172": [
+    {
+      "act": "gst-1999",
+      "section": "75-10",
+      "base": "75-10"
+    },
+    {
+      "act": "gst-1999",
+      "section": "142-10",
+      "base": "142-10"
+    }
+  ],
+  "[2025] FCAFC 21": [
+    {
+      "act": "itaa-1997",
+      "section": "615-5",
+      "base": "615-5"
+    }
+  ],
+  "[2025] FCAFC 23": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[2025] FCAFC 56": [
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177E",
+      "base": "177E"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "230-460",
+      "base": "230-460"
+    }
+  ],
+  "[2024] FCAFC 148": [
+    {
+      "act": "gst-1999",
+      "section": "9-5",
+      "base": "9-5"
+    }
+  ],
+  "[2025] FCAFC 4": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    }
+  ],
+  "[2024] FCAFC 173": [
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    }
+  ],
+  "[2024] FCAFC 21": [
+    {
+      "act": "itaa-1997",
+      "section": "294-140",
+      "base": "294-140"
+    }
+  ],
+  "[2024] FCAFC 28": [
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    }
+  ],
+  "[2024] FCAFC 172": [
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    }
+  ],
+  "[2024] FCAFC 80": [
+    {
+      "act": "itaa-1997",
+      "section": "207-155",
+      "base": "207-155"
+    }
+  ],
+  "[2024] FCAFC 86": [
+    {
+      "act": "itaa-1936",
+      "section": "177J",
+      "base": "177J"
+    }
+  ],
+  "[2023] FCAFC 146": [
+    {
+      "act": "taa-1953",
+      "section": "268-40",
+      "base": "268-40"
+    }
+  ],
+  "[2023] FCAFC 3": [
+    {
+      "act": "itaa-1936",
+      "section": "100A",
+      "base": "100A"
+    }
+  ],
+  "[2023] FCAFC 89": [
+    {
+      "act": "itaa-1936",
+      "section": "100A",
+      "base": "100A"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "207-150",
+      "base": "207-150"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "207-155",
+      "base": "207-155"
+    }
+  ],
+  "[2022] FCAFC 2": [
+    {
+      "act": "itaa-1997",
+      "section": "40-80",
+      "base": "40-80"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "40-60",
+      "base": "40-60"
+    }
+  ],
+  "[2023] FCAFC 43": [
+    {
+      "act": "itaa-1997",
+      "section": "355-205",
+      "base": "355-205"
+    }
+  ],
+  "[2022] FCAFC 92": [
+    {
+      "act": "taa-1953",
+      "section": "35A",
+      "base": "35A"
+    }
+  ],
+  "[2022] FCAFC 204": [
+    {
+      "act": "gst-1999",
+      "section": "75-10",
+      "base": "75-10"
+    }
+  ],
+  "[2021] FCAFC 209": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    }
+  ],
+  "[2021] FCAFC 230": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    }
+  ],
+  "[2021] FCAFC 39": [
+    {
+      "act": "taa-1953",
+      "section": "8AAZN",
+      "base": "8AAZN"
+    }
+  ],
+  "[2021] FCAFC 99": [
+    {
+      "act": "itaa-1997",
+      "section": "115-220",
+      "base": "115-220"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "115-215",
+      "base": "115-215"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "855-10",
+      "base": "855-10"
+    }
+  ],
+  "[2020] FCAFC 100": [
+    {
+      "act": "itaa-1936",
+      "section": "128A",
+      "base": "128A"
+    }
+  ],
+  "[2021] FCAFC 197": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "40-880",
+      "base": "40-880"
+    }
+  ],
+  "[2020] FCAFC 139": [
+    {
+      "act": "itaa-1997",
+      "section": "87-20",
+      "base": "87-20"
+    }
+  ],
+  "[2020] FCAFC 135": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[2021] FCAFC 54": [
+    {
+      "act": "itaa-1997",
+      "section": "355-25",
+      "base": "355-25"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "355-30",
+      "base": "355-30"
+    }
+  ],
+  "[2020] FCAFC 155": [
+    {
+      "act": "itaa-1997",
+      "section": "152-40",
+      "base": "152-40"
+    }
+  ],
+  "[2020] FCAFC 150": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    }
+  ],
+  "[2020] FCAFC 10": [
+    {
+      "act": "taa-1953",
+      "section": "8AAZLG",
+      "base": "8AAZLG"
+    }
+  ],
+  "[2020] FCAFC 169": [
+    {
+      "act": "itaa-1936",
+      "section": "21A",
+      "base": "21A"
+    }
+  ],
+  "[2020] FCAFC 25": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2020] FCAFC 158": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[2020] FCAFC 92": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2019] FCAFC 116": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "taa-1953",
+      "section": "284-220",
+      "base": "284-220"
+    }
+  ],
+  "[2019] FCAFC 130": [
+    {
+      "act": "taa-1953",
+      "section": "269-20",
+      "base": "269-20"
+    },
+    {
+      "act": "taa-1953",
+      "section": "8AAZLE",
+      "base": "8AAZLE"
+    }
+  ],
+  "[2019] FCAFC 131": [
+    {
+      "act": "itaa-1997",
+      "section": "43-10",
+      "base": "43-10"
+    }
+  ],
+  "[2019] FCAFC 225": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZO",
+      "base": "14ZZO"
+    }
+  ],
+  "[2019] FCAFC 226": [
+    {
+      "act": "itaa-1936",
+      "section": "102P",
+      "base": "102P"
+    }
+  ],
+  "[2019] FCAFC 29": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[2019] FCAFC 141": [
+    {
+      "act": "itaa-1997",
+      "section": "770-10",
+      "base": "770-10"
+    }
+  ],
+  "[2019] FCAFC 211": [
+    {
+      "act": "itaa-1997",
+      "section": "118-110",
+      "base": "118-110"
+    }
+  ],
+  "[2018] FCAFC 11": [
+    {
+      "act": "itaa-1997",
+      "section": "20-25",
+      "base": "20-25"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "20-20",
+      "base": "20-20"
+    }
+  ],
+  "[2018] FCAFC 163": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "40-880",
+      "base": "40-880"
+    }
+  ],
+  "[2019] FCAFC 4": [
+    {
+      "act": "itaa-1936",
+      "section": "318",
+      "base": "318"
+    }
+  ],
+  "[2018] FCAFC 212": [
+    {
+      "act": "taa-1953",
+      "section": "18-15",
+      "base": "18-15"
+    }
+  ],
+  "[2018] FCAFC 44": [
+    {
+      "act": "itaa-1997",
+      "section": "104-10",
+      "base": "104-10"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "103-10",
+      "base": "103-10"
+    }
+  ],
+  "[2018] FCAFC 61": [
+    {
+      "act": "itaa-1936",
+      "section": "95A",
+      "base": "95A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "101",
+      "base": "101"
+    }
+  ],
+  "[2018] FCAFC 38": [
+    {
+      "act": "taa-1953",
+      "section": "353-10",
+      "base": "353-10"
+    }
+  ],
+  "[2017] FCAFC 131": [
+    {
+      "act": "taa-1953",
+      "section": "14ZX",
+      "base": "14ZX"
+    }
+  ],
+  "[2018] FCAFC 86": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[2017] FCAFC 147": [
+    {
+      "act": "taa-1953",
+      "section": "35A",
+      "base": "35A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "326",
+      "base": "326"
+    }
+  ],
+  "[2017] FCAFC 167": [
+    {
+      "act": "itaa-1936",
+      "section": "23AG",
+      "base": "23AG"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "770-10",
+      "base": "770-10"
+    }
+  ],
+  "[2017] FCAFC 154": [
+    {
+      "act": "taa-1953",
+      "section": "355-75",
+      "base": "355-75"
+    }
+  ],
+  "[2017] FCAFC 164": [
+    {
+      "act": "taa-1953",
+      "section": "255-100",
+      "base": "255-100"
+    }
+  ],
+  "[2016] FCAFC 132": [
+    {
+      "act": "itaa-1997",
+      "section": "292-465",
+      "base": "292-465"
+    }
+  ],
+  "[2016] FCAFC 31": [
+    {
+      "act": "itaa-1997",
+      "section": "110-25",
+      "base": "110-25"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "122-70",
+      "base": "122-70"
+    }
+  ],
+  "[2016] FCAFC 94": [
+    {
+      "act": "itaa-1997",
+      "section": "26-25A",
+      "base": "26-25"
+    }
+  ],
+  "[2015] FCAFC 119": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2015] FCAFC 176": [
+    {
+      "act": "itaa-1997",
+      "section": "70-40",
+      "base": "70-40"
+    }
+  ],
+  "[2015] FCAFC 183": [
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[2015] FCAFC 196": [
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[2015] FCAFC 34": [
+    {
+      "act": "taa-1953",
+      "section": "14ZYA",
+      "base": "14ZYA"
+    }
+  ],
+  "[2015] FCAFC 92": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "6-5",
+      "base": "6-5"
+    }
+  ],
+  "[2014] FCAFC 113": [
+    {
+      "act": "taa-1953",
+      "section": "12-280",
+      "base": "12-280"
+    }
+  ],
+  "[2014] FCAFC 133": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "254",
+      "base": "254"
+    }
+  ],
+  "[2014] FCAFC 162": [
+    {
+      "act": "itaa-1997",
+      "section": "6-20",
+      "base": "6-20"
+    }
+  ],
+  "[2014] FCAFC 27": [
+    {
+      "act": "itaa-1936",
+      "section": "173",
+      "base": "173"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "5-5",
+      "base": "5-5"
+    }
+  ],
+  "[2014] FCAFC 29": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[2014] FCAFC 33": [
+    {
+      "act": "gst-1999",
+      "section": "38-190",
+      "base": "38-190"
+    }
+  ],
+  "[2014] FCAFC 37": [
+    {
+      "act": "itaa-1997",
+      "section": "855-30",
+      "base": "855-30"
+    }
+  ],
+  "[2014] FCAFC 36": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2014] FCAFC 41": [
+    {
+      "act": "itaa-1997",
+      "section": "20-20",
+      "base": "20-20"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "110-45",
+      "base": "110-45"
+    }
+  ],
+  "[2013] FCAFC 10": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZR",
+      "base": "14ZZR"
+    }
+  ],
+  "[2013] FCAFC 115": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[2013] FCAFC 112": [
+    {
+      "act": "gst-1999",
+      "section": "135-5",
+      "base": "135-5"
+    }
+  ],
+  "[2013] FCAFC 118": [
+    {
+      "act": "itaa-1936",
+      "section": "255",
+      "base": "255"
+    }
+  ],
+  "[2013] FCAFC 140": [
+    {
+      "act": "taa-1953",
+      "section": "426-55",
+      "base": "426-55"
+    }
+  ],
+  "[2013] FCAFC 13": [
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    }
+  ],
+  "[2013] FCAFC 26": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    },
+    {
+      "act": "taa-1953",
+      "section": "43",
+      "base": "43"
+    }
+  ],
+  "[2013] FCAFC 30": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[2013] FCAFC 50": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "taa-1953",
+      "section": "298-20",
+      "base": "298-20"
+    }
+  ],
+  "[2013] FCAFC 69": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    }
+  ],
+  "[2013] FCAFC 88": [
+    {
+      "act": "itaa-1997",
+      "section": "290-60",
+      "base": "290-60"
+    }
+  ],
+  "[2013] FCAFC 85": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    }
+  ],
+  "[2012] FCAFC 109": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[2012] FCAFC 106": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2012] FCAFC 112": [
+    {
+      "act": "gst-1999",
+      "section": "165-10",
+      "base": "165-10"
+    },
+    {
+      "act": "gst-1999",
+      "section": "165-5",
+      "base": "165-5"
+    }
+  ],
+  "[2012] FCAFC 122": [
+    {
+      "act": "taa-1953",
+      "section": "260-5",
+      "base": "260-5"
+    }
+  ],
+  "[2012] FCAFC 152": [
+    {
+      "act": "taa-1953",
+      "section": "260-5",
+      "base": "260-5"
+    }
+  ],
+  "[2012] FCAFC 153": [
+    {
+      "act": "itaa-1997",
+      "section": "6-5",
+      "base": "6-5"
+    }
+  ],
+  "[2012] FCAFC 177": [
+    {
+      "act": "gst-1999",
+      "section": "75-5",
+      "base": "75-5"
+    },
+    {
+      "act": "gst-1999",
+      "section": "75-10",
+      "base": "75-10"
+    },
+    {
+      "act": "gst-1999",
+      "section": "38-325",
+      "base": "38-325"
+    }
+  ],
+  "[2012] FCAFC 185": [
+    {
+      "act": "itaa-1936",
+      "section": "262A",
+      "base": "262A"
+    },
+    {
+      "act": "taa-1953",
+      "section": "17A",
+      "base": "17A"
+    }
+  ],
+  "[2012] FCAFC 187": [
+    {
+      "act": "itaa-1997",
+      "section": "6-5",
+      "base": "6-5"
+    }
+  ],
+  "[2012] FCAFC 36": [
+    {
+      "act": "itaa-1936",
+      "section": "159GZZZP",
+      "base": "159GZZZP"
+    }
+  ],
+  "[2012] FCAFC 32": [
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZO",
+      "base": "14ZZO"
+    }
+  ],
+  "[2012] FCAFC 43": [
+    {
+      "act": "itaa-1997",
+      "section": "25-90",
+      "base": "25-90"
+    }
+  ],
+  "[2012] FCAFC 54": [
+    {
+      "act": "itaa-1997",
+      "section": "25-90",
+      "base": "25-90"
+    }
+  ],
+  "[2012] FCAFC 84": [
+    {
+      "act": "itaa-1997",
+      "section": "115-215",
+      "base": "115-215"
+    }
+  ],
+  "[2011] FCAFC 104": [
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    }
+  ],
+  "[2011] FCAFC 129": [
+    {
+      "act": "itaa-1997",
+      "section": "50-45",
+      "base": "50-45"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[2011] FCAFC 127": [
+    {
+      "act": "itaa-1997",
+      "section": "152-15",
+      "base": "152-15"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "152-20",
+      "base": "152-20"
+    }
+  ],
+  "[2011] FCAFC 158": [
+    {
+      "act": "itaa-1936",
+      "section": "177EA",
+      "base": "177EA"
+    }
+  ],
+  "[2011] FCAFC 6": [
+    {
+      "act": "gst-1999",
+      "section": "38-3",
+      "base": "38-3"
+    }
+  ],
+  "[2011] FCAFC 49": [
+    {
+      "act": "itaa-1997",
+      "section": "25-35",
+      "base": "25-35"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2011] FCAFC 96": [
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    }
+  ],
+  "[2010] FCAFC 126": [
+    {
+      "act": "itaa-1997",
+      "section": "50-52",
+      "base": "50-52"
+    }
+  ],
+  "[2010] FCAFC 46": [
+    {
+      "act": "gst-1999",
+      "section": "195-1",
+      "base": "195-1"
+    }
+  ],
+  "[2010] FCAFC 25": [
+    {
+      "act": "itaa-1997",
+      "section": "25-35",
+      "base": "25-35"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    }
+  ],
+  "[2010] FCAFC 6": [
+    {
+      "act": "itaa-1997",
+      "section": "8-1",
+      "base": "8-1"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "78A",
+      "base": "78A"
+    }
+  ],
+  "[1994] HCA 39": [
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    }
+  ],
+  "[1994] HCA 43": [
+    {
+      "act": "itaa-1936",
+      "section": "177A",
+      "base": "177A"
+    }
+  ],
+  "[1996] HCA 10": [
+    {
+      "act": "itaa-1936",
+      "section": "21",
+      "base": "21"
+    }
+  ],
+  "[1991] HCA 55": [
+    {
+      "act": "itaa-1936",
+      "section": "14",
+      "base": "14"
+    }
+  ],
+  "[1991] HCA 51": [
+    {
+      "act": "itaa-1936",
+      "section": "95A",
+      "base": "95A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    }
+  ],
+  "[1990] HCA 3": [
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[1988] HCA 21": [
+    {
+      "act": "itaa-1936",
+      "section": "202",
+      "base": "202"
+    }
+  ],
+  "[1988] HCA 29": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "18",
+      "base": "18"
+    }
+  ],
+  "[1987] HCA 61": [
+    {
+      "act": "itaa-1936",
+      "section": "102A",
+      "base": "102A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102B",
+      "base": "102B"
+    }
+  ],
+  "[1986] HCA 83": [
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    }
+  ],
+  "[1985] HCA 36": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1985] HCA 44": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1985] HCA 83": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1984] HCA 44": [
+    {
+      "act": "itaa-1936",
+      "section": "154",
+      "base": "154"
+    }
+  ],
+  "[1982] HCA 14": [
+    {
+      "act": "itaa-1936",
+      "section": "65",
+      "base": "65"
+    }
+  ],
+  "[1984] HCA 78": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1981] HCA 28": [
+    {
+      "act": "itaa-1936",
+      "section": "117",
+      "base": "117"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1981] HCA 27": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1980] HCA 28": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1980] HCA 6": [
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "12",
+      "base": "12"
+    }
+  ],
+  "[1979] HCA 67": [
+    {
+      "act": "taa-1953",
+      "section": "8",
+      "base": "8"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "262A",
+      "base": "262A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    }
+  ],
+  "[1978] HCA 10": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1978] HCA 55": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1977] HCA 11": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1977] HCA 47": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1977] HCA 48": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1977] HCA 61": [
+    {
+      "act": "itaa-1936",
+      "section": "157",
+      "base": "157"
+    }
+  ],
+  "[1977] HCA 9": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1976] HCA 67": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "151",
+      "base": "151"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "155",
+      "base": "155"
+    }
+  ],
+  "[1975] HCA 61": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1974] HCA 1": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1974] HCA 29": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1974] HCA 46": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1973] HCA 16": [
+    {
+      "act": "itaa-1936",
+      "section": "103A",
+      "base": "103A"
+    }
+  ],
+  "[1973] HCA 18": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    }
+  ],
+  "[1973] HCA 19": [
+    {
+      "act": "itaa-1936",
+      "section": "103A",
+      "base": "103A"
+    }
+  ],
+  "[1972] HCA 17": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    }
+  ],
+  "[1972] HCA 47": [
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    }
+  ],
+  "[1972] HCA 50": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1972] HCA 66": [
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    }
+  ],
+  "[1972] HCA 7": [
+    {
+      "act": "itaa-1936",
+      "section": "94",
+      "base": "94"
+    }
+  ],
+  "[1972] HCA 68": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1971] HCA 2": [
+    {
+      "act": "taa-1953",
+      "section": "16A",
+      "base": "16A"
+    }
+  ],
+  "[1971] HCA 35": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1971] HCA 12": [
+    {
+      "act": "itaa-1936",
+      "section": "103A",
+      "base": "103A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1971] HCA 38": [
+    {
+      "act": "itaa-1936",
+      "section": "131",
+      "base": "131"
+    }
+  ],
+  "[1971] HCA 43": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1971] HCA 51": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1971] HCA 61": [
+    {
+      "act": "itaa-1936",
+      "section": "117",
+      "base": "117"
+    }
+  ],
+  "[1971] HCA 63": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1971] HCA 67": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1971] HCA 75": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    }
+  ],
+  "[1971] HCA 78": [
+    {
+      "act": "itaa-1936",
+      "section": "103A",
+      "base": "103A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1971] HCA 79": [
+    {
+      "act": "itaa-1936",
+      "section": "103A",
+      "base": "103A"
+    }
+  ],
+  "[1970] HCA 10": [
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    }
+  ],
+  "[1970] HCA 23": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1970] HCA 27": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1970] HCA 33": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1970] HCA 29": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    }
+  ],
+  "[1970] HCA 7": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    }
+  ],
+  "[1970] HCA 62": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[1969] HCA 2": [
+    {
+      "act": "itaa-1936",
+      "section": "94",
+      "base": "94"
+    }
+  ],
+  "[1969] HCA 35": [
+    {
+      "act": "itaa-1936",
+      "section": "103A",
+      "base": "103A"
+    }
+  ],
+  "[1969] HCA 36": [
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    }
+  ],
+  "[1969] HCA 41": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1969] HCA 48": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1969] HCA 5": [
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    }
+  ],
+  "[1969] HCA 60": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "45",
+      "base": "45"
+    }
+  ],
+  "[1969] HCA 9": [
+    {
+      "act": "taa-1953",
+      "section": "16A",
+      "base": "16A"
+    }
+  ],
+  "[1968] HCA 31": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1968] HCA 57": [
+    {
+      "act": "itaa-1936",
+      "section": "132",
+      "base": "132"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "128B",
+      "base": "128B"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "128D",
+      "base": "128D"
+    }
+  ],
+  "[1968] HCA 63": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    }
+  ],
+  "[1968] HCA 70": [
+    {
+      "act": "itaa-1936",
+      "section": "121",
+      "base": "121"
+    }
+  ],
+  "[1967] HCA 16": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1967] HCA 27": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1967] HCA 37": [
+    {
+      "act": "taa-1953",
+      "section": "16A",
+      "base": "16A"
+    }
+  ],
+  "[1966] HCA 15": [
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    }
+  ],
+  "[1966] HCA 39": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1966] HCA 5": [
+    {
+      "act": "itaa-1936",
+      "section": "109",
+      "base": "109"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "94",
+      "base": "94"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1966] HCA 53": [
+    {
+      "act": "itaa-1936",
+      "section": "91",
+      "base": "91"
+    }
+  ],
+  "[1966] HCA 74": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1966] HCA 85": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1965] HCA 2": [
+    {
+      "act": "itaa-1936",
+      "section": "117",
+      "base": "117"
+    }
+  ],
+  "[1965] HCA 42": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1965] HCA 54": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1964] HCA 4": [
+    {
+      "act": "itaa-1936",
+      "section": "65",
+      "base": "65"
+    }
+  ],
+  "[1964] HCA 33": [
+    {
+      "act": "itaa-1936",
+      "section": "101A",
+      "base": "101A"
+    }
+  ],
+  "[1964] HCA 80": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1964] HCA 84": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1963] HCA 36": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    }
+  ],
+  "[1963] HCA 21": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1963] HCA 51": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1963] HCA 52": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1963] HCA 61": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1962] HCA 28": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1962] HCA 35": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1961] HCA 52": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1962] HCA 9": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    }
+  ],
+  "[1961] HCA 57": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1961] HCA 66": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1961] HCA 90": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1961] HCA 58": [
+    {
+      "act": "itaa-1936",
+      "section": "103",
+      "base": "103"
+    }
+  ],
+  "[1960] HCA 13": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1961] HCA 92": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1959] HCA 26": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1960] HCA 94": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "47A",
+      "base": "47A"
+    }
+  ],
+  "[1959] HCA 36": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1959] HCA 41": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1959] HCA 58": [
+    {
+      "act": "itaa-1936",
+      "section": "45",
+      "base": "45"
+    }
+  ],
+  "[1958] HCA 10": [
+    {
+      "act": "itaa-1936",
+      "section": "12",
+      "base": "12"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "79A",
+      "base": "79A"
+    }
+  ],
+  "[1958] HCA 11": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1958] HCA 3": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    }
+  ],
+  "[1958] HCA 2": [
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "254",
+      "base": "254"
+    }
+  ],
+  "[1958] HCA 42": [
+    {
+      "act": "itaa-1936",
+      "section": "100",
+      "base": "100"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1958] HCA 62": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1958] HCA 46": [
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    }
+  ],
+  "[1957] HCA 17": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1957] HCA 23": [
+    {
+      "act": "itaa-1936",
+      "section": "109",
+      "base": "109"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1957] HCA 5": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1957] HCA 58": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1957] HCA 73": [
+    {
+      "act": "itaa-1936",
+      "section": "18",
+      "base": "18"
+    }
+  ],
+  "[1956] HCA 20": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1956] HCA 21": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1956] HCA 36": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1957] HCA 99": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1956] HCA 24": [
+    {
+      "act": "itaa-1936",
+      "section": "91",
+      "base": "91"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "172",
+      "base": "172"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "202",
+      "base": "202"
+    }
+  ],
+  "[1956] HCA 63": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    }
+  ],
+  "[1955] HCA 58": [
+    {
+      "act": "itaa-1936",
+      "section": "155",
+      "base": "155"
+    }
+  ],
+  "[1955] HCA 75": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1954] HCA 34": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1954] HCA 54": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1954] HCA 8": [
+    {
+      "act": "itaa-1936",
+      "section": "128",
+      "base": "128"
+    }
+  ],
+  "[1954] HCA 81": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1953] HCA 100": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1953] HCA 13": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1953] HCA 17": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1953] HCA 23": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    }
+  ],
+  "[1953] HCA 37": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1953] HCA 52": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1953] HCA 62": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1953] HCA 98": [
+    {
+      "act": "itaa-1936",
+      "section": "18",
+      "base": "18"
+    }
+  ],
+  "[1953] HCA 99": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1952] HCA 21": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1952] HCA 22": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1952] HCA 40": [
+    {
+      "act": "itaa-1936",
+      "section": "120",
+      "base": "120"
+    }
+  ],
+  "[1952] HCA 65": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1952] HCA 73": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1951] HCA 17": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1951] HCA 18": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1951] HCA 43": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "127",
+      "base": "127"
+    }
+  ],
+  "[1950] HCA 10": [
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1950] HCA 16": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1950] HCA 15": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "160AD",
+      "base": "160AD"
+    }
+  ],
+  "[1950] HCA 17": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1950] HCA 2": [
+    {
+      "act": "taa-1953",
+      "section": "16A",
+      "base": "16A"
+    }
+  ],
+  "[1949] HCA 25": [
+    {
+      "act": "itaa-1936",
+      "section": "210",
+      "base": "210"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "255",
+      "base": "255"
+    }
+  ],
+  "[1949] HCA 29": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "172",
+      "base": "172"
+    }
+  ],
+  "[1949] HCA 27": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1949] HCA 37": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1948] HCA 25": [
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "169",
+      "base": "169"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1948] HCA 24": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "172",
+      "base": "172"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "173",
+      "base": "173"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1948] HCA 50": [
+    {
+      "act": "itaa-1997",
+      "section": "3-5",
+      "base": "3-5"
+    }
+  ],
+  "[1996] FCA 1234": [
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1996] FCA 1259": [
+    {
+      "act": "taa-1953",
+      "section": "12A-220",
+      "base": "12A"
+    }
+  ],
+  "[1996] FCA 1358": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1996] FCA 1355": [
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1996] FCA 1393": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1996] FCA 1427": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    }
+  ],
+  "[1996] FCA 1439": [
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1996] FCA 1459": [
+    {
+      "act": "itaa-1936",
+      "section": "23L",
+      "base": "23L"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1996] FCA 1460": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1996] FCA 1464": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1996] FCA 1529": [
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1996] FCA 1494": [
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1996] FCA 1607": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1996] FCA 1602": [
+    {
+      "act": "itaa-1936",
+      "section": "70B",
+      "base": "70B"
+    }
+  ],
+  "[1996] FCA 1557": [
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1996] FCA 1614": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1996] FCA 1617": [
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    }
+  ],
+  "[1996] FCA 1635": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1996] FCA 1640": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "159GP",
+      "base": "159GP"
+    }
+  ],
+  "[1996] FCA 1690": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    }
+  ],
+  "[1996] FCA 1686": [
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1996] FCA 1698": [
+    {
+      "act": "itaa-1936",
+      "section": "147",
+      "base": "147"
+    }
+  ],
+  "[1996] FCA 1701": [
+    {
+      "act": "itaa-1936",
+      "section": "79A",
+      "base": "79A"
+    }
+  ],
+  "[1996] FCA 1714": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    }
+  ],
+  "[1996] FCA 1716": [
+    {
+      "act": "itaa-1936",
+      "section": "94",
+      "base": "94"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    }
+  ],
+  "[1996] FCA 1715": [
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1996] FCA 1744": [
+    {
+      "act": "taa-1953",
+      "section": "15",
+      "base": "15"
+    }
+  ],
+  "[1996] FCA 1775": [
+    {
+      "act": "itaa-1936",
+      "section": "161",
+      "base": "161"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "175A",
+      "base": "175A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZL",
+      "base": "14ZL"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZQ",
+      "base": "14ZQ"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZU",
+      "base": "14ZU"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZY",
+      "base": "14ZY"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZK",
+      "base": "14ZZK"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZN",
+      "base": "14ZZN"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZO",
+      "base": "14ZZO"
+    }
+  ],
+  "[1996] FCA 1776": [
+    {
+      "act": "taa-1953",
+      "section": "5",
+      "base": "5"
+    },
+    {
+      "act": "taa-1953",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZL",
+      "base": "14ZL"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZY",
+      "base": "14ZY"
+    }
+  ],
+  "[1996] FCA 1815": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1996] FCA 1824": [
+    {
+      "act": "taa-1953",
+      "section": "6A",
+      "base": "6A"
+    }
+  ],
+  "[1996] FCA 1840": [
+    {
+      "act": "taa-1953",
+      "section": "16",
+      "base": "16"
+    },
+    {
+      "act": "taa-1953",
+      "section": "21",
+      "base": "21"
+    }
+  ],
+  "[1996] FCA 1874": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1996] FCA 1938": [
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "168",
+      "base": "168"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "169",
+      "base": "169"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1995] FCA 1101": [
+    {
+      "act": "taa-1953",
+      "section": "11",
+      "base": "11"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "414",
+      "base": "414"
+    }
+  ],
+  "[1995] FCA 1118": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1995] FCA 1133": [
+    {
+      "act": "taa-1953",
+      "section": "19B",
+      "base": "19B"
+    },
+    {
+      "act": "taa-1953",
+      "section": "8Y",
+      "base": "8Y"
+    }
+  ],
+  "[1995] FCA 1159": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1995] FCA 1226": [
+    {
+      "act": "itaa-1936",
+      "section": "96",
+      "base": "96"
+    }
+  ],
+  "[1995] FCA 1338": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1995] FCA 1311": [
+    {
+      "act": "taa-1953",
+      "section": "14ZQ",
+      "base": "14ZQ"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZO",
+      "base": "14ZZO"
+    }
+  ],
+  "[1995] FCA 1350": [
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "153",
+      "base": "153"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1995] FCA 1362": [
+    {
+      "act": "itaa-1936",
+      "section": "169A",
+      "base": "169A"
+    }
+  ],
+  "[1995] FCA 1370": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    }
+  ],
+  "[1995] FCA 1396": [
+    {
+      "act": "itaa-1936",
+      "section": "162",
+      "base": "162"
+    }
+  ],
+  "[1995] FCA 1420": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1995] FCA 1426": [
+    {
+      "act": "taa-1953",
+      "section": "12A-220",
+      "base": "12A"
+    }
+  ],
+  "[1995] FCA 1438": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1995] FCA 1456": [
+    {
+      "act": "itaa-1936",
+      "section": "462",
+      "base": "462"
+    }
+  ],
+  "[1995] FCA 1491": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1995] FCA 1551": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1995] FCA 1621": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1995] FCA 1696": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1995] FCA 1709": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    }
+  ],
+  "[1995] FCA 1693": [
+    {
+      "act": "itaa-1936",
+      "section": "128A",
+      "base": "128A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "128B",
+      "base": "128B"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1995] FCA 1718": [
+    {
+      "act": "itaa-1936",
+      "section": "27H",
+      "base": "27H"
+    }
+  ],
+  "[1995] FCA 1719": [
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    }
+  ],
+  "[1995] FCA 1750": [
+    {
+      "act": "itaa-1936",
+      "section": "79A",
+      "base": "79A"
+    }
+  ],
+  "[1995] FCA 1751": [
+    {
+      "act": "itaa-1936",
+      "section": "18A",
+      "base": "18A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZQ",
+      "base": "14ZQ"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14ZZ",
+      "base": "14ZZ"
+    },
+    {
+      "act": "taa-1953",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1995] FCA 1767": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "129",
+      "base": "129"
+    }
+  ],
+  "[1994] FCA 1038": [
+    {
+      "act": "taa-1953",
+      "section": "4A",
+      "base": "4A"
+    }
+  ],
+  "[1994] FCA 1051": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1994] FCA 1040": [
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    }
+  ],
+  "[1994] FCA 1057": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    }
+  ],
+  "[1994] FCA 1063": [
+    {
+      "act": "itaa-1936",
+      "section": "157",
+      "base": "157"
+    }
+  ],
+  "[1994] FCA 1058": [
+    {
+      "act": "itaa-1936",
+      "section": "96",
+      "base": "96"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99B",
+      "base": "99B"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1994] FCA 1064": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1994] FCA 1081": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "168",
+      "base": "168"
+    }
+  ],
+  "[1994] FCA 1159": [
+    {
+      "act": "itaa-1936",
+      "section": "157",
+      "base": "157"
+    }
+  ],
+  "[1994] FCA 1172": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    }
+  ],
+  "[1994] FCA 1200": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1994] FCA 1201": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1994] FCA 1231": [
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1994] FCA 1267": [
+    {
+      "act": "taa-1953",
+      "section": "14S",
+      "base": "14S"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "9",
+      "base": "9"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1994] FCA 1287": [
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1994] FCA 1296": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    }
+  ],
+  "[1994] FCA 1300": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    }
+  ],
+  "[1994] FCA 1335": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZO",
+      "base": "14ZZO"
+    },
+    {
+      "act": "taa-1953",
+      "section": "18",
+      "base": "18"
+    }
+  ],
+  "[1994] FCA 1382": [
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95A",
+      "base": "95A"
+    }
+  ],
+  "[1994] FCA 1341": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "159GQ",
+      "base": "159GQ"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "159GX",
+      "base": "159GX"
+    }
+  ],
+  "[1994] FCA 1425": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1994] FCA 1423": [
+    {
+      "act": "taa-1953",
+      "section": "14ZZO",
+      "base": "14ZZO"
+    }
+  ],
+  "[1994] FCA 1441": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1994] FCA 1545": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1994] FCA 1521": [
+    {
+      "act": "itaa-1936",
+      "section": "21",
+      "base": "21"
+    }
+  ],
+  "[1994] FCA 946": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1994] FCA 915": [
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    }
+  ],
+  "[1994] FCA 953": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1993] FCA 113": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102A",
+      "base": "102A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102B",
+      "base": "102B"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "12",
+      "base": "12"
+    }
+  ],
+  "[1993] FCA 162": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "94",
+      "base": "94"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "100",
+      "base": "100"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "101",
+      "base": "101"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "103",
+      "base": "103"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "109",
+      "base": "109"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "117",
+      "base": "117"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "119",
+      "base": "119"
+    }
+  ],
+  "[1993] FCA 183": [
+    {
+      "act": "taa-1953",
+      "section": "8Y",
+      "base": "8Y"
+    }
+  ],
+  "[1993] FCA 205": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1993] FCA 27": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "18",
+      "base": "18"
+    }
+  ],
+  "[1993] FCA 276": [
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177A",
+      "base": "177A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1993] FCA 28": [
+    {
+      "act": "taa-1953",
+      "section": "3A",
+      "base": "3A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1993] FCA 282": [
+    {
+      "act": "itaa-1936",
+      "section": "27H",
+      "base": "27H"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1993] FCA 303": [
+    {
+      "act": "itaa-1936",
+      "section": "383",
+      "base": "383"
+    }
+  ],
+  "[1993] FCA 350": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1993] FCA 383": [
+    {
+      "act": "taa-1953",
+      "section": "3A",
+      "base": "3A"
+    }
+  ],
+  "[1993] FCA 396": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    }
+  ],
+  "[1993] FCA 464": [
+    {
+      "act": "itaa-1936",
+      "section": "153",
+      "base": "153"
+    }
+  ],
+  "[1993] FCA 462": [
+    {
+      "act": "taa-1953",
+      "section": "4A",
+      "base": "4A"
+    }
+  ],
+  "[1993] FCA 531": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1993] FCA 553": [
+    {
+      "act": "itaa-1936",
+      "section": "96",
+      "base": "96"
+    }
+  ],
+  "[1993] FCA 576": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1993] FCA 580": [
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "100A",
+      "base": "100A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "169",
+      "base": "169"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1993] FCA 603": [
+    {
+      "act": "itaa-1936",
+      "section": "383",
+      "base": "383"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "461",
+      "base": "461"
+    }
+  ],
+  "[1993] FCA 612": [
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1993] FCA 74": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177A",
+      "base": "177A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    }
+  ],
+  "[1992] FCA 137": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1992] FCA 178": [
+    {
+      "act": "itaa-1936",
+      "section": "96",
+      "base": "96"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95A",
+      "base": "95A"
+    }
+  ],
+  "[1992] FCA 172": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1992] FCA 215": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1992] FCA 266": [
+    {
+      "act": "itaa-1936",
+      "section": "153",
+      "base": "153"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    }
+  ],
+  "[1992] FCA 275": [
+    {
+      "act": "taa-1953",
+      "section": "14T",
+      "base": "14T"
+    },
+    {
+      "act": "taa-1953",
+      "section": "5",
+      "base": "5"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "149",
+      "base": "149"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "152",
+      "base": "152"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "153",
+      "base": "153"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1992] FCA 286": [
+    {
+      "act": "itaa-1936",
+      "section": "121",
+      "base": "121"
+    }
+  ],
+  "[1992] FCA 419": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1992] FCA 438": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1992] FCA 441": [
+    {
+      "act": "taa-1953",
+      "section": "8T",
+      "base": "8T"
+    }
+  ],
+  "[1992] FCA 444": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1992] FCA 459": [
+    {
+      "act": "itaa-1936",
+      "section": "26AFA",
+      "base": "26AFA"
+    }
+  ],
+  "[1992] FCA 445": [
+    {
+      "act": "taa-1953",
+      "section": "12A-220",
+      "base": "12A"
+    }
+  ],
+  "[1992] FCA 487": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1992] FCA 493": [
+    {
+      "act": "itaa-1936",
+      "section": "27H",
+      "base": "27H"
+    }
+  ],
+  "[1992] FCA 561": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1992] FCA 583": [
+    {
+      "act": "itaa-1936",
+      "section": "168",
+      "base": "168"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "161",
+      "base": "161"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1992] FCA 643": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1992] FCA 93": [
+    {
+      "act": "itaa-1936",
+      "section": "27H",
+      "base": "27H"
+    }
+  ],
+  "[1992] FCA 95": [
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    }
+  ],
+  "[1991] FCA 122": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    }
+  ],
+  "[1991] FCA 129": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99B",
+      "base": "99B"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "100A",
+      "base": "100A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "101",
+      "base": "101"
+    }
+  ],
+  "[1991] FCA 132": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    }
+  ],
+  "[1991] FCA 14": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1991] FCA 172": [
+    {
+      "act": "itaa-1936",
+      "section": "121C",
+      "base": "121C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "78A",
+      "base": "78A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "82KH",
+      "base": "82KH"
+    }
+  ],
+  "[1991] FCA 219": [
+    {
+      "act": "itaa-1936",
+      "section": "18",
+      "base": "18"
+    }
+  ],
+  "[1991] FCA 206": [
+    {
+      "act": "itaa-1936",
+      "section": "73A",
+      "base": "73A"
+    }
+  ],
+  "[1991] FCA 226": [
+    {
+      "act": "taa-1953",
+      "section": "14S",
+      "base": "14S"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14V",
+      "base": "14V"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14X",
+      "base": "14X"
+    }
+  ],
+  "[1991] FCA 276": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[1991] FCA 302": [
+    {
+      "act": "taa-1953",
+      "section": "17A",
+      "base": "17A"
+    }
+  ],
+  "[1991] FCA 336": [
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1991] FCA 360": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1991] FCA 411": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1991] FCA 426": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1991] FCA 496": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1991] FCA 501": [
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1991] FCA 506": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1991] FCA 593": [
+    {
+      "act": "itaa-1936",
+      "section": "43B",
+      "base": "43B"
+    }
+  ],
+  "[1991] FCA 606": [
+    {
+      "act": "itaa-1936",
+      "section": "121C",
+      "base": "121C"
+    }
+  ],
+  "[1991] FCA 643": [
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "91",
+      "base": "91"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1991] FCA 664": [
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    }
+  ],
+  "[1991] FCA 96": [
+    {
+      "act": "itaa-1936",
+      "section": "91",
+      "base": "91"
+    }
+  ],
+  "[1990] FCA 126": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1990] FCA 127": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1990] FCA 133": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1990] FCA 147": [
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    }
+  ],
+  "[1990] FCA 19": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1990] FCA 205": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1990] FCA 209": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1990] FCA 217": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    }
+  ],
+  "[1990] FCA 219": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1990] FCA 254": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1990] FCA 258": [
+    {
+      "act": "itaa-1936",
+      "section": "95A",
+      "base": "95A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99B",
+      "base": "99B"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "100A",
+      "base": "100A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "101A",
+      "base": "101A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "161",
+      "base": "161"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "254",
+      "base": "254"
+    }
+  ],
+  "[1990] FCA 267": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1990] FCA 298": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    }
+  ],
+  "[1990] FCA 308": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1990] FCA 322": [
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1990] FCA 361": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1990] FCA 369": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    }
+  ],
+  "[1990] FCA 389": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1990] FCA 425": [
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177G",
+      "base": "177G"
+    }
+  ],
+  "[1990] FCA 456": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[1990] FCA 470": [
+    {
+      "act": "itaa-1936",
+      "section": "102AG",
+      "base": "102AG"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    }
+  ],
+  "[1990] FCA 486": [
+    {
+      "act": "itaa-1936",
+      "section": "27H",
+      "base": "27H"
+    }
+  ],
+  "[1990] FCA 49": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1990] FCA 510": [
+    {
+      "act": "itaa-1936",
+      "section": "149",
+      "base": "149"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "154",
+      "base": "154"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1990] FCA 80": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1990] FCA 71": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1990] FCA 81": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1989] FCA 107": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102B",
+      "base": "102B"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    }
+  ],
+  "[1989] FCA 114": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1989] FCA 120": [
+    {
+      "act": "taa-1953",
+      "section": "11",
+      "base": "11"
+    },
+    {
+      "act": "taa-1953",
+      "section": "8C",
+      "base": "8C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1989] FCA 126": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1989] FCA 128": [
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    }
+  ],
+  "[1989] FCA 13": [
+    {
+      "act": "taa-1953",
+      "section": "14S",
+      "base": "14S"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14T",
+      "base": "14T"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14U",
+      "base": "14U"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14V",
+      "base": "14V"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14Y",
+      "base": "14Y"
+    },
+    {
+      "act": "taa-1953",
+      "section": "5",
+      "base": "5"
+    },
+    {
+      "act": "taa-1953",
+      "section": "11",
+      "base": "11"
+    }
+  ],
+  "[1989] FCA 161": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "taa-1953",
+      "section": "6A",
+      "base": "6A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6B",
+      "base": "6B"
+    }
+  ],
+  "[1989] FCA 196": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "18",
+      "base": "18"
+    }
+  ],
+  "[1989] FCA 205": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[1989] FCA 228": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1989] FCA 236": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "129",
+      "base": "129"
+    }
+  ],
+  "[1989] FCA 247": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1989] FCA 26": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[1989] FCA 28": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1989] FCA 306": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    }
+  ],
+  "[1989] FCA 317": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1989] FCA 33": [
+    {
+      "act": "itaa-1936",
+      "section": "103",
+      "base": "103"
+    }
+  ],
+  "[1989] FCA 335": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1989] FCA 372": [
+    {
+      "act": "itaa-1936",
+      "section": "14",
+      "base": "14"
+    }
+  ],
+  "[1989] FCA 381": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1989] FCA 392": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1989] FCA 399": [
+    {
+      "act": "itaa-1936",
+      "section": "118",
+      "base": "118"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "131",
+      "base": "131"
+    }
+  ],
+  "[1989] FCA 413": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1989] FCA 416": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1989] FCA 423": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "18",
+      "base": "18"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "21",
+      "base": "21"
+    }
+  ],
+  "[1989] FCA 432": [
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "96",
+      "base": "96"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95A",
+      "base": "95A"
+    }
+  ],
+  "[1989] FCA 480": [
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "151",
+      "base": "151"
+    }
+  ],
+  "[1989] FCA 464": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1989] FCA 457": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1989] FCA 481": [
+    {
+      "act": "itaa-1936",
+      "section": "100A",
+      "base": "100A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95A",
+      "base": "95A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "101",
+      "base": "101"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1989] FCA 49": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1989] FCA 51": [
+    {
+      "act": "itaa-1936",
+      "section": "9",
+      "base": "9"
+    }
+  ],
+  "[1989] FCA 53": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1989] FCA 517": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1989] FCA 541": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1989] FCA 548": [
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1989] FCA 62": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "91",
+      "base": "91"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1989] FCA 68": [
+    {
+      "act": "itaa-1936",
+      "section": "118",
+      "base": "118"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "120",
+      "base": "120"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "154",
+      "base": "154"
+    }
+  ],
+  "[1989] FCA 85": [
+    {
+      "act": "itaa-1936",
+      "section": "9",
+      "base": "9"
+    }
+  ],
+  "[1989] FCA 95": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1989] FCA 98": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1988] FCA 112": [
+    {
+      "act": "taa-1953",
+      "section": "8",
+      "base": "8"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1988] FCA 119": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1988] FCA 123": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1988] FCA 124": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1988] FCA 136": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "155",
+      "base": "155"
+    }
+  ],
+  "[1988] FCA 147": [
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    }
+  ],
+  "[1988] FCA 192": [
+    {
+      "act": "itaa-1936",
+      "section": "160AAA",
+      "base": "160AAA"
+    }
+  ],
+  "[1988] FCA 191": [
+    {
+      "act": "itaa-1936",
+      "section": "118",
+      "base": "118"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1988] FCA 225": [
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    }
+  ],
+  "[1988] FCA 231": [
+    {
+      "act": "itaa-1936",
+      "section": "23AD",
+      "base": "23AD"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "365",
+      "base": "365"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    }
+  ],
+  "[1988] FCA 238": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1988] FCA 249": [
+    {
+      "act": "itaa-1936",
+      "section": "18",
+      "base": "18"
+    }
+  ],
+  "[1988] FCA 252": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1988] FCA 255": [
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1988] FCA 289": [
+    {
+      "act": "itaa-1936",
+      "section": "365",
+      "base": "365"
+    }
+  ],
+  "[1988] FCA 262": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1988] FCA 284": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1988] FCA 292": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1988] FCA 297": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1988] FCA 299": [
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[1988] FCA 304": [
+    {
+      "act": "itaa-1936",
+      "section": "109",
+      "base": "109"
+    }
+  ],
+  "[1988] FCA 306": [
+    {
+      "act": "itaa-1936",
+      "section": "127",
+      "base": "127"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "128",
+      "base": "128"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1988] FCA 322": [
+    {
+      "act": "itaa-1936",
+      "section": "109",
+      "base": "109"
+    }
+  ],
+  "[1988] FCA 329": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1988] FCA 355": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    }
+  ],
+  "[1988] FCA 352": [
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "100A",
+      "base": "100A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1988] FCA 362": [
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[1988] FCA 367": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1988] FCA 387": [
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99A",
+      "base": "99A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "14",
+      "base": "14"
+    }
+  ],
+  "[1988] FCA 395": [
+    {
+      "act": "itaa-1936",
+      "section": "118",
+      "base": "118"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "131",
+      "base": "131"
+    }
+  ],
+  "[1988] FCA 396": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1988] FCA 401": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    }
+  ],
+  "[1988] FCA 411": [
+    {
+      "act": "itaa-1936",
+      "section": "118",
+      "base": "118"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "131",
+      "base": "131"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "135",
+      "base": "135"
+    }
+  ],
+  "[1988] FCA 426": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1988] FCA 463": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1988] FCA 446": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1988] FCA 439": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1988] FCA 443": [
+    {
+      "act": "itaa-1936",
+      "section": "25A",
+      "base": "25A"
+    }
+  ],
+  "[1988] FCA 57": [
+    {
+      "act": "itaa-1936",
+      "section": "154",
+      "base": "154"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "118",
+      "base": "118"
+    }
+  ],
+  "[1988] FCA 67": [
+    {
+      "act": "itaa-1936",
+      "section": "365",
+      "base": "365"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "23AD",
+      "base": "23AD"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1988] FCA 73": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "91",
+      "base": "91"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1988] FCA 91": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1987] FCA 118": [
+    {
+      "act": "itaa-1936",
+      "section": "6B",
+      "base": "6B"
+    }
+  ],
+  "[1987] FCA 108": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    }
+  ],
+  "[1987] FCA 126": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1987] FCA 122": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1987] FCA 139": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1987] FCA 147": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1987] FCA 157": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "174",
+      "base": "174"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1987] FCA 166": [
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    }
+  ],
+  "[1987] FCA 173": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1987] FCA 181": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    }
+  ],
+  "[1987] FCA 239": [
+    {
+      "act": "itaa-1936",
+      "section": "14",
+      "base": "14"
+    }
+  ],
+  "[1987] FCA 254": [
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1987] FCA 28": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1987] FCA 317": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1987] FCA 333": [
+    {
+      "act": "itaa-1936",
+      "section": "23AD",
+      "base": "23AD"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "365",
+      "base": "365"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    }
+  ],
+  "[1987] FCA 337": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1987] FCA 42": [
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1987] FCA 426": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1987] FCA 44": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1987] FCA 394": [
+    {
+      "act": "itaa-1936",
+      "section": "118",
+      "base": "118"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "131",
+      "base": "131"
+    }
+  ],
+  "[1987] FCA 400": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1987] FCA 433": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "18",
+      "base": "18"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    }
+  ],
+  "[1987] FCA 443": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1987] FCA 467": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1987] FCA 480": [
+    {
+      "act": "itaa-1936",
+      "section": "120",
+      "base": "120"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "121",
+      "base": "121"
+    }
+  ],
+  "[1987] FCA 488": [
+    {
+      "act": "taa-1953",
+      "section": "8C",
+      "base": "8C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "9",
+      "base": "9"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    }
+  ],
+  "[1987] FCA 64": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1987] FCA 98": [
+    {
+      "act": "itaa-1936",
+      "section": "128A",
+      "base": "128A"
+    }
+  ],
+  "[1986] FCA 120": [
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    }
+  ],
+  "[1986] FCA 162": [
+    {
+      "act": "itaa-1936",
+      "section": "45",
+      "base": "45"
+    }
+  ],
+  "[1986] FCA 188": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    }
+  ],
+  "[1986] FCA 210": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1986] FCA 206": [
+    {
+      "act": "itaa-1936",
+      "section": "6BA",
+      "base": "6BA"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1986] FCA 26": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1986] FCA 266": [
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1986] FCA 273": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1986] FCA 281": [
+    {
+      "act": "itaa-1936",
+      "section": "175",
+      "base": "175"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1986] FCA 330": [
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    }
+  ],
+  "[1986] FCA 36": [
+    {
+      "act": "itaa-1936",
+      "section": "128A",
+      "base": "128A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1986] FCA 387": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1986] FCA 368": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1986] FCA 371": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1986] FCA 433": [
+    {
+      "act": "taa-1953",
+      "section": "14S",
+      "base": "14S"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14T",
+      "base": "14T"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14U",
+      "base": "14U"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14V",
+      "base": "14V"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14X",
+      "base": "14X"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14Y",
+      "base": "14Y"
+    }
+  ],
+  "[1986] FCA 412": [
+    {
+      "act": "itaa-1936",
+      "section": "7B",
+      "base": "7B"
+    }
+  ],
+  "[1986] FCA 414": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1986] FCA 70": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "173",
+      "base": "173"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "202",
+      "base": "202"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "9",
+      "base": "9"
+    }
+  ],
+  "[1986] FCA 83": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "154",
+      "base": "154"
+    }
+  ],
+  "[1986] FCA 97": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1986] FCA 93": [
+    {
+      "act": "itaa-1936",
+      "section": "21",
+      "base": "21"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "9",
+      "base": "9"
+    }
+  ],
+  "[1986] FCA 92": [
+    {
+      "act": "itaa-1936",
+      "section": "109",
+      "base": "109"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1985] FCA 117": [
+    {
+      "act": "itaa-1936",
+      "section": "149",
+      "base": "149"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "150",
+      "base": "150"
+    }
+  ],
+  "[1985] FCA 211": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1985] FCA 213": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1985] FCA 285": [
+    {
+      "act": "itaa-1936",
+      "section": "135",
+      "base": "135"
+    }
+  ],
+  "[1985] FCA 298": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1985] FCA 26": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1985] FCA 3": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1985] FCA 288": [
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    }
+  ],
+  "[1985] FCA 325": [
+    {
+      "act": "taa-1953",
+      "section": "14S",
+      "base": "14S"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14U",
+      "base": "14U"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14V",
+      "base": "14V"
+    },
+    {
+      "act": "taa-1953",
+      "section": "14X",
+      "base": "14X"
+    },
+    {
+      "act": "taa-1953",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1985] FCA 33": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1985] FCA 319": [
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "128P",
+      "base": "128P"
+    }
+  ],
+  "[1985] FCA 373": [
+    {
+      "act": "itaa-1936",
+      "section": "82R",
+      "base": "82R"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1985] FCA 376": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1985] FCA 411": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "118",
+      "base": "118"
+    }
+  ],
+  "[1985] FCA 435": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1985] FCA 45": [
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "91",
+      "base": "91"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1985] FCA 456": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1985] FCA 418": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1985] FCA 474": [
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    }
+  ],
+  "[1985] FCA 73": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1985] FCA 82": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1984] FCA 103": [
+    {
+      "act": "itaa-1936",
+      "section": "82KK",
+      "base": "82KK"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177F",
+      "base": "177F"
+    }
+  ],
+  "[1984] FCA 124": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1984] FCA 203": [
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1984] FCA 194": [
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1984] FCA 218": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1984] FCA 216": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1984] FCA 249": [
+    {
+      "act": "itaa-1936",
+      "section": "252",
+      "base": "252"
+    }
+  ],
+  "[1984] FCA 278": [
+    {
+      "act": "taa-1953",
+      "section": "17A",
+      "base": "17A"
+    }
+  ],
+  "[1984] FCA 286": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1984] FCA 297": [
+    {
+      "act": "itaa-1936",
+      "section": "10",
+      "base": "10"
+    }
+  ],
+  "[1984] FCA 345": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1984] FCA 340": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1984] FCA 353": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1984] FCA 346": [
+    {
+      "act": "itaa-1936",
+      "section": "154",
+      "base": "154"
+    }
+  ],
+  "[1984] FCA 379": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1984] FCA 401": [
+    {
+      "act": "itaa-1936",
+      "section": "82KL",
+      "base": "82KL"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "82KH",
+      "base": "82KH"
+    }
+  ],
+  "[1984] FCA 402": [
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102",
+      "base": "102"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "102B",
+      "base": "102B"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "161",
+      "base": "161"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "168",
+      "base": "168"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1984] FCA 62": [
+    {
+      "act": "itaa-1936",
+      "section": "155",
+      "base": "155"
+    }
+  ],
+  "[1984] FCA 411": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "167",
+      "base": "167"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "168",
+      "base": "168"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    },
+    {
+      "act": "taa-1953",
+      "section": "4",
+      "base": "4"
+    },
+    {
+      "act": "taa-1953",
+      "section": "7",
+      "base": "7"
+    },
+    {
+      "act": "taa-1953",
+      "section": "39",
+      "base": "39"
+    }
+  ],
+  "[1984] FCA 415": [
+    {
+      "act": "taa-1953",
+      "section": "17A",
+      "base": "17A"
+    }
+  ],
+  "[1984] FCA 9": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1983] FCA 107": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1983] FCA 132": [
+    {
+      "act": "itaa-1936",
+      "section": "94",
+      "base": "94"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "98",
+      "base": "98"
+    }
+  ],
+  "[1983] FCA 200": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    }
+  ],
+  "[1983] FCA 302": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    }
+  ],
+  "[1983] FCA 279": [
+    {
+      "act": "itaa-1936",
+      "section": "177",
+      "base": "177"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "204",
+      "base": "204"
+    }
+  ],
+  "[1983] FCA 247": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1983] FCA 294": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    }
+  ],
+  "[1983] FCA 341": [
+    {
+      "act": "itaa-1936",
+      "section": "18",
+      "base": "18"
+    }
+  ],
+  "[1983] FCA 84": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "47",
+      "base": "47"
+    }
+  ],
+  "[1982] FCA 158": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1982] FCA 194": [
+    {
+      "act": "itaa-1936",
+      "section": "202",
+      "base": "202"
+    }
+  ],
+  "[1982] FCA 257": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "166",
+      "base": "166"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    }
+  ],
+  "[1982] FCA 275": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1982] FCA 64": [
+    {
+      "act": "itaa-1936",
+      "section": "95",
+      "base": "95"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "96",
+      "base": "96"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "97",
+      "base": "97"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "99",
+      "base": "99"
+    }
+  ],
+  "[1982] FCA 253": [
+    {
+      "act": "itaa-1936",
+      "section": "109",
+      "base": "109"
+    }
+  ],
+  "[1982] FCA 66": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    }
+  ],
+  "[1982] FCA 93": [
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "91",
+      "base": "91"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "92",
+      "base": "92"
+    }
+  ],
+  "[1981] FCA 86": [
+    {
+      "act": "itaa-1936",
+      "section": "109",
+      "base": "109"
+    }
+  ],
+  "[1981] FCA 188": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1980] FCA 113": [
+    {
+      "act": "itaa-1936",
+      "section": "173",
+      "base": "173"
+    }
+  ],
+  "[1980] FCA 145": [
+    {
+      "act": "itaa-1936",
+      "section": "170",
+      "base": "170"
+    }
+  ],
+  "[1980] FCA 55": [
+    {
+      "act": "itaa-1936",
+      "section": "132",
+      "base": "132"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "133",
+      "base": "133"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "141",
+      "base": "141"
+    }
+  ],
+  "[1979] FCA 13": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1979] FCA 18": [
+    {
+      "act": "itaa-1936",
+      "section": "103A",
+      "base": "103A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "117",
+      "base": "117"
+    }
+  ],
+  "[1979] FCA 105": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    }
+  ],
+  "[1979] FCA 20": [
+    {
+      "act": "itaa-1936",
+      "section": "8",
+      "base": "8"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "9",
+      "base": "9"
+    }
+  ],
+  "[1979] FCA 37": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1979] FCA 76": [
+    {
+      "act": "itaa-1936",
+      "section": "154",
+      "base": "154"
+    }
+  ],
+  "[1979] FCA 88": [
+    {
+      "act": "itaa-1936",
+      "section": "13",
+      "base": "13"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "21",
+      "base": "21"
+    }
+  ],
+  "[1978] FCA 14": [
+    {
+      "act": "itaa-1936",
+      "section": "82",
+      "base": "82"
+    }
+  ],
+  "[1978] FCA 26": [
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "44",
+      "base": "44"
+    }
+  ],
+  "[1978] FCA 32": [
+    {
+      "act": "itaa-1936",
+      "section": "63",
+      "base": "63"
+    }
+  ],
+  "[1978] FCA 39": [
+    {
+      "act": "itaa-1936",
+      "section": "260",
+      "base": "260"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "90",
+      "base": "90"
+    }
+  ],
+  "[1996] HCA 32": [
+    {
+      "act": "itaa-1936",
+      "section": "119",
+      "base": "119"
+    }
+  ],
+  "[1996] HCA 34": [
+    {
+      "act": "itaa-1936",
+      "section": "177A",
+      "base": "177A"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177C",
+      "base": "177C"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "177D",
+      "base": "177D"
+    },
+    {
+      "act": "itaa-1936",
+      "section": "6",
+      "base": "6"
+    }
+  ],
+  "[1996] HCA 58": [
+    {
+      "act": "itaa-1936",
+      "section": "52",
+      "base": "52"
+    },
+    {
+      "act": "itaa-1997",
+      "section": "83A-205",
+      "base": "83A"
+    }
+  ]
+}

@@ -33,6 +33,7 @@ def _init_db():
             CREATE TABLE IF NOT EXISTS mcp_tokens (
                 id INTEGER PRIMARY KEY,
                 token_hash TEXT UNIQUE NOT NULL,
+                name TEXT,
                 created_at REAL NOT NULL,
                 last_used REAL,
                 request_count INTEGER DEFAULT 0,
@@ -43,6 +44,23 @@ def _init_db():
         conn.execute(
             "CREATE INDEX IF NOT EXISTS idx_mcp_tokens_hash ON mcp_tokens(token_hash)"
         )
+        conn.execute(
+            """
+            CREATE TABLE IF NOT EXISTS mcp_call_log (
+                id INTEGER PRIMARY KEY,
+                token_id INTEGER NOT NULL,
+                token_name TEXT,
+                created_at REAL NOT NULL
+            )
+            """
+        )
+        conn.execute(
+            "CREATE INDEX IF NOT EXISTS idx_mcp_call_log_created ON mcp_call_log(created_at)"
+        )
+        # Migrate: add name column to pre-existing DBs
+        cols = [r["name"] for r in conn.execute("PRAGMA table_info(mcp_tokens)").fetchall()]
+        if "name" not in cols:
+            conn.execute("ALTER TABLE mcp_tokens ADD COLUMN name TEXT")
         conn.commit()
 
 
@@ -70,14 +88,14 @@ class TokenManager:
     def __init__(self):
         _init_db()
 
-    def create_token(self) -> str:
-        """Create a new token. Returns the raw token (shown once)."""
+    def create_token(self, name: str = "") -> str:
+        """Create a new named token. Returns the raw token (shown once)."""
         raw = secrets.token_hex(32)
         token_hash = _hash(raw)
         with _connect() as conn:
             conn.execute(
-                "INSERT INTO mcp_tokens (token_hash, created_at) VALUES (?, ?)",
-                (token_hash, time.time()),
+                "INSERT INTO mcp_tokens (token_hash, name, created_at) VALUES (?, ?, ?)",
+                (token_hash, name.strip(), time.time()),
             )
             conn.commit()
         return raw
@@ -122,7 +140,7 @@ class TokenManager:
         with _connect() as conn:
             rows = conn.execute(
                 """
-                SELECT id, created_at, last_used, request_count
+                SELECT id, name, created_at, last_used, request_count
                 FROM mcp_tokens
                 WHERE revoked_at IS NULL
                 ORDER BY created_at DESC
@@ -131,12 +149,65 @@ class TokenManager:
             return [
                 {
                     "id": r["id"],
+                    "name": r["name"],
                     "created_at": r["created_at"],
                     "last_used": r["last_used"],
                     "request_count": r["request_count"],
                 }
                 for r in rows
             ]
+
+    def log_call(self, token: str) -> None:
+        """Record one MCP call event for hall-of-fame time-windowed stats."""
+        token_hash = _hash(token)
+        with _connect() as conn:
+            row = conn.execute(
+                "SELECT id, name FROM mcp_tokens WHERE token_hash = ?", (token_hash,)
+            ).fetchone()
+            if not row:
+                return
+            conn.execute(
+                "INSERT INTO mcp_call_log (token_id, token_name, created_at) VALUES (?, ?, ?)",
+                (row["id"], row["name"], time.time()),
+            )
+            conn.commit()
+
+    def hall_of_fame(self) -> dict:
+        """Leaderboard of call counts by token name, over all-time/monthly/daily windows."""
+        now = time.time()
+
+        def top(since: float | None) -> list[dict]:
+            with _connect() as conn:
+                if since is None:
+                    rows = conn.execute(
+                        """
+                        SELECT token_id, token_name, COUNT(*) as count FROM mcp_call_log
+                        GROUP BY token_id ORDER BY count DESC LIMIT 10
+                        """
+                    ).fetchall()
+                else:
+                    rows = conn.execute(
+                        """
+                        SELECT token_id, token_name, COUNT(*) as count FROM mcp_call_log
+                        WHERE created_at >= ? GROUP BY token_id ORDER BY count DESC LIMIT 10
+                        """,
+                        (since,),
+                    ).fetchall()
+            return [
+                {
+                    "name": r["token_name"] or f"Token #{r['token_id']}",
+                    "count": r["count"],
+                    "token_id": r["token_id"],
+                }
+                for r in rows
+            ]
+
+        return {
+            "all_time": top(None),
+            "monthly": top(now - 30 * 86400),
+            "weekly": top(now - 7 * 86400),
+            "daily": top(now - 86400),
+        }
 
     def check_rate_limit(self, token: str) -> tuple[bool, str]:
         """
@@ -173,6 +244,7 @@ class TokenManager:
             _global_bucket.tokens -= 1
 
         self.record_use(token)
+        self.log_call(token)
         return True, ""
 
 

@@ -1,0 +1,33 @@
+---
+part: E
+part_title: Part E Timing and quantifying rules
+division: EH
+division_title: Subpart EH—Income equalisation schemes
+section: EH-7
+section_title: Deduction of deposit
+compilation_no: 935
+compilation_date: 2026-06-06
+---
+
+# EH 7  Deduction of deposit
+
+**When this section applies**
+
+**(1)**  This section applies when a person is allowed a deduction under section DQ 1 (Main income equalisation scheme).
+
+**Amount of deduction**
+
+**(2)**  The amount of the deduction is the lesser of—
+
+- (a) the total of the person’s deposits for the accounting year; and
+
+- (b) their main maximum deposit for the accounting year.
+
+**Timing of deduction**
+
+**(3)**  The person is allowed the deduction in the accounting year.
+
+*Defined in this Act: accounting year, amount, corresponding income year, deduction, deposit, main maximum deposit, person*
+
+---
+*NZ Income Tax Act 2007 — Compilation 935 (2026-06-06)*

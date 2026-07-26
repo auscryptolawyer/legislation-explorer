@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState, useRef } from 'react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
@@ -59,6 +59,8 @@ export default function App() {
 
   const [mcpOpen, setMcpOpen] = useState(false)
   const [showShortcuts, setShowShortcuts] = useState(false)
+  const [pickerOpen, setPickerOpen] = useState(false)
+  const pickerRef = useRef<HTMLDivElement>(null)
   const [pins, setPins] = useState<PinItem[]>(() => {
     try { return JSON.parse(localStorage.getItem('legislation-pins') || '[]') }
     catch { return [] }
@@ -129,6 +131,22 @@ export default function App() {
     setActiveRuling(citation)
     setActiveSection('')
   }
+  const goHome = () => {
+    setActiveSection('')
+    setActiveRuling(null)
+    setSectionData(null)
+    window.history.pushState(null, '', '/')
+  }
+
+  // Close picker on click outside
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      if (pickerRef.current && !pickerRef.current.contains(e.target as Node))
+        setPickerOpen(false)
+    }
+    document.addEventListener('mousedown', handler)
+    return () => document.removeEventListener('mousedown', handler)
+  }, [])
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -310,29 +328,45 @@ export default function App() {
       }}>
         <div style={{ padding: isMobile ? '12px 14px' : '14px', borderBottom: `1px solid ${COLORS.border}` }}>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
-            <select
-              value={act}
-              onChange={e => {
-                setActiveSection('')
-                setSectionData(null)
-                setAct(e.target.value)
-              }}
-              style={{
-                width: '100%', padding: isMobile ? '10px 8px' : 8, borderRadius: 6,
-                background: COLORS.bg, color: COLORS.heading,
-                border: `1px solid ${COLORS.border}`, fontSize: 13,
-                fontFamily: "'Montserrat', sans-serif",
-              }}
-            >
-              {acts.length > 0 ? acts.map(a => (
-                <option key={a.id} value={a.id}>{a.name}</option>
-              )) : (
-                <>
-                  <option value="itaa-1997">ITAA 1997</option>
-                  <option value="itaa-1936">ITAA 1936</option>
-                </>
-              )}
-            </select>
+            {(() => {
+              const currentLabel = acts.find(a => a.id === act)?.name || act
+              return (
+                <div ref={pickerRef} style={{ position: 'relative' }}>
+                  <button onClick={() => setPickerOpen(!pickerOpen)} style={{
+                    width: '100%', padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
+                    background: COLORS.bg, color: COLORS.heading,
+                    border: `1px solid ${COLORS.border}`, fontSize: 12,
+                    fontFamily: "'Montserrat', sans-serif", cursor: 'pointer',
+                    display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 4,
+                  }}>
+                    <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flex: 1 }}>{currentLabel}</span>
+                    <span style={{ fontSize: 9, opacity: 0.6 }}>{pickerOpen ? '▲' : '▼'}</span>
+                  </button>
+                  {pickerOpen && (
+                    <div style={{
+                      position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 201,
+                      marginTop: 4, background: COLORS.surface,
+                      border: `1px solid ${COLORS.border}`,
+                      borderRadius: 8, padding: '6px 0', maxHeight: 300, overflow: 'auto',
+                      boxShadow: '0 8px 24px rgba(0,0,0,0.4)',
+                    }}>
+                      {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }]).map(a => (
+                        <button key={a.id} onClick={() => { setPickerOpen(false); goHome(); setAct(a.id) }} style={{
+                          display: 'block', width: '100%', padding: '6px 12px',
+                          background: 'transparent', border: 'none',
+                          color: act === a.id ? COLORS.accent : COLORS.text,
+                          fontSize: 12, cursor: 'pointer',
+                          fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
+                        }}
+                          onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
+                          onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
+                        >{a.name}</button>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )
+            })()}
             <div style={{ display: 'flex', gap: 6 }}>
               <input
                 value={search}
@@ -469,8 +503,17 @@ export default function App() {
             setRulingsOpen={setRulingsOpen}
           />
         ) : (
-          <div style={{ color: COLORS.textMuted, fontSize: 14 }}>
-            Select a section from the tree.
+          <div style={{
+            display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
+            minHeight: '60vh', textAlign: 'center',
+            fontFamily: "'Montserrat', sans-serif",
+          }}>
+            <div style={{ fontSize: 12, color: COLORS.textMuted }}>
+              Legislation Explorer <span style={{ opacity: 0.5 }}>v2.3.0</span>
+            </div>
+            <div style={{ display: 'flex', gap: 16, marginTop: 10, flexWrap: 'wrap', justifyContent: 'center' }}>
+              <span style={{ fontSize: 12, color: COLORS.textMuted, opacity: 0.5 }}>Search above or browse the tree</span>
+            </div>
           </div>
         )}
       </div>
