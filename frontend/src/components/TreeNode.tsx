@@ -1,5 +1,5 @@
 
-import React, { useEffect, useState } from 'react';
+import React, { memo, useEffect, useState } from 'react';
 import { Part, Division, Subdivision, Section, Signpost, Tree, COLORS } from './common/types';
 
 function TreeNode({ node, level, activeSection, onSelect, isMobile, expandedIds, act }: {

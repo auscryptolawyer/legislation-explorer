@@ -64,6 +64,7 @@ export default function App() {
   const [mcpOpen, setMcpOpen] = useState(false)
   const [showShortcuts, setShowShortcuts] = useState(false)
   const [pickerOpen, setPickerOpen] = useState(false)
+  const [searchResultsCount, setSearchResultsCount] = useState(0)
   const pickerRef = useRef<HTMLDivElement>(null)
   const [pins, setPins] = useState<PinItem[]>(() => {
     try { return JSON.parse(localStorage.getItem('legislation-pins') || '[]') }
@@ -311,41 +312,7 @@ export default function App() {
     <ThemeProvider>
       <div style={{ display: 'flex', height: '100vh', background: COLORS.bg }}>
 
-      {/* Mobile hamburger — only on mobile when sidebar closed */}
-      {isMobile && !drawerOpen && (
-        <button
-          onClick={() => setDrawerOpen(true)}
-          style={{
-            position: 'fixed', top: 12, left: 12, zIndex: 110,
-            background: COLORS.surface, color: COLORS.heading,
-            border: `1px solid ${COLORS.border}`,
-            borderRadius: 6, padding: '8px 10px',
-            fontSize: 16, cursor: 'pointer', lineHeight: 1,
-            minWidth: 36, minHeight: 36,
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
-          }}
-        >
-          {'\u2630'}
-        </button>
-      )}
-
-      {/* Mobile close button - positioned at top of sidebar, outside act picker */}
-      {isMobile && drawerOpen && (
-        <button
-          onClick={() => setDrawerOpen(false)}
-          style={{
-            position: 'fixed', top: 8, left: mobileSidebarWidth - 40, zIndex: 200,
-            background: 'transparent', color: COLORS.heading,
-            border: 'none',
-            fontSize: 20, cursor: 'pointer', lineHeight: 1,
-            width: 32, height: 32,
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
-            transition: 'left 0.25s ease',
-          }}
-        >
-          {'\u2715'}
-        </button>
-      )}
+      {/* Mobile close button — inside sidebar header (absolute positioned) */}
       {/* Mobile backdrop */}
       {isMobile && drawerOpen && (
         <div
@@ -361,18 +328,21 @@ export default function App() {
         borderRight: `1px solid ${COLORS.border}`,
         display: 'flex', flexDirection: 'column',
         position: isMobile ? 'fixed' : 'relative',
-        left: isMobile ? (drawerOpen ? 0 : -mobileSidebarWidth - 10) : 0,
+        transform: isMobile
+          ? (drawerOpen ? 'translateX(0)' : 'translateX(-101%)')
+          : undefined,
         top: 0, bottom: 0, zIndex: 100,
-        transition: isMobile ? 'left 0.25s ease' : 'none',
+        willChange: isMobile ? 'transform' : undefined,
+        transition: isMobile ? 'transform 0.15s ease' : 'none',
       }}>
-        {/* Sidebar header: act picker only */}
-        <div style={{ padding: isMobile ? '12px 14px' : '12px 14px', borderBottom: `1px solid ${COLORS.border}` }}>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+        {/* Sidebar header: act picker + mobile close button */}
+        <div style={{ padding: isMobile ? '12px 14px' : '12px 14px', borderBottom: `1px solid ${COLORS.border}`, position: 'relative' }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 8, paddingRight: isMobile && drawerOpen ? 36 : 0 }}>
             {(() => {
               const currentLabel = shortActName(act)
               return (
                 <div ref={pickerRef} style={{ position: 'relative' }}>
-                  <button onClick={() => { setPickerOpen(!pickerOpen); if (isMobile) setDrawerOpen(true) }} style={{
+                  <button onClick={() => { setPickerOpen(!pickerOpen) }} style={{
                     width: '100%', padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
                     background: COLORS.bg, color: COLORS.heading,
                     border: `1px solid ${COLORS.border}`, fontSize: 12,
@@ -408,6 +378,21 @@ export default function App() {
               )
             })()}
           </div>
+          {isMobile && drawerOpen && (
+            <button
+              onClick={() => setDrawerOpen(false)}
+              style={{
+                position: 'absolute', top: 12, right: 14, zIndex: 200,
+                background: 'transparent', color: COLORS.heading,
+                border: 'none',
+                fontSize: 20, cursor: 'pointer', lineHeight: 1,
+                width: 36, height: 36,
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+              }}
+            >
+              {'\u2715'}
+            </button>
+          )}
         </div>
 
         {/* Tree */}
@@ -550,15 +535,35 @@ export default function App() {
             padding: '6px 0 10px 0',
             marginBottom: 8,
           }}>
-            <SearchPanel
-              acts={acts}
-              onNavigate={(targetAct, section) => {
-                setAct(targetAct)
-                setActiveSection(section)
-                setActiveRuling(null)
-              }}
-              isMobile={isMobile}
-            />
+            <div style={{ display: 'flex', gap: 6, alignItems: 'stretch' }}>
+              {isMobile && !drawerOpen && (
+                <button
+                  onClick={() => setDrawerOpen(true)}
+                  style={{
+                    padding: isMobile ? '10px 10px' : '8px 10px', borderRadius: 6,
+                    background: COLORS.surface, color: COLORS.heading,
+                    border: `1px solid ${COLORS.border}`, fontSize: 16,
+                    cursor: 'pointer', lineHeight: 1,
+                    display: 'flex', alignItems: 'center', justifyContent: 'center',
+                    flexShrink: 0,
+                  }}
+                >
+                  {'\u2630'}
+                </button>
+              )}
+              <div style={{ flex: 1 }}>
+                <SearchPanel
+                  acts={acts}
+                  onNavigate={(targetAct, section) => {
+                    setAct(targetAct)
+                    setActiveSection(section)
+                    setActiveRuling(null)
+                  }}
+                  isMobile={isMobile}
+                  onResultsChange={setSearchResultsCount}
+                />
+              </div>
+            </div>
           </div>
         )}
 
@@ -644,12 +649,32 @@ export default function App() {
           />
         ) : (
           <div style={{
-            display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
-            minHeight: '60vh', textAlign: 'center',
+            display: 'flex', flexDirection: 'column', alignItems: 'center',
+            textAlign: 'center',
             fontFamily: "'Montserrat', sans-serif",
             padding: '0 16px',
+            minHeight: searchResultsCount > 0 ? 0 : '60vh',
+            justifyContent: searchResultsCount > 0 ? 'flex-start' : 'center',
           }}>
-            <div style={{ width: '100%', maxWidth: 400, marginBottom: 24 }}>
+            <div style={{ width: '100%', maxWidth: searchResultsCount > 0 ? '100%' : 400, marginBottom: searchResultsCount > 0 ? 0 : 24 }}>
+              {isMobile && !drawerOpen && (
+                <div style={{ display: 'flex', gap: 6, alignItems: 'stretch', marginBottom: 8 }}>
+                  <button
+                    onClick={() => setDrawerOpen(true)}
+                    style={{
+                      padding: '10px 10px', borderRadius: 6,
+                      background: COLORS.surface, color: COLORS.heading,
+                      border: `1px solid ${COLORS.border}`, fontSize: 16,
+                      cursor: 'pointer', lineHeight: 1,
+                      display: 'flex', alignItems: 'center', justifyContent: 'center',
+                      flexShrink: 0,
+                    }}
+                  >
+                    {'\u2630'}
+                  </button>
+                  <div style={{ flex: 1 }} />
+                </div>
+              )}
               <SearchPanel
                 acts={acts}
                 onNavigate={(targetAct, section) => {
@@ -658,28 +683,33 @@ export default function App() {
                   setActiveRuling(null)
                 }}
                 isMobile={isMobile}
+                onResultsChange={setSearchResultsCount}
               />
             </div>
-            <div style={{ fontSize: 11, color: COLORS.textMuted }}>
-              Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || 'v2.0.0'}</span>
-            </div>
-            <div style={{ display: 'flex', gap: 12, marginTop: 20, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
-              <button
-                onClick={() => setChangelogOpen(true)}
-                style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
-              >
-                Changelog →
-              </button>
-              <button
-                onClick={() => {
-                  setHofOpen(true)
-                  api.mcpHallOfFame().then(setHofData).catch(() => {})
-                }}
-                style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
-              >
-                Hall of Fame →
-              </button>
-            </div>
+            {searchResultsCount === 0 && (
+              <>
+              <div style={{ fontSize: 11, color: COLORS.textMuted }}>
+                Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || 'v2.0.0'}</span>
+              </div>
+              <div style={{ display: 'flex', gap: 12, marginTop: 20, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
+                <button
+                  onClick={() => setChangelogOpen(true)}
+                  style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
+                >
+                  Changelog →
+                </button>
+                <button
+                  onClick={() => {
+                    setHofOpen(true)
+                    api.mcpHallOfFame().then(setHofData).catch(() => {})
+                  }}
+                  style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
+                >
+                  Hall of Fame →
+                </button>
+              </div>
+              </>
+            )}
           </div>
         )}
       </div>

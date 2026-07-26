@@ -3,6 +3,8 @@ import { COLORS } from './common/types'
 import { api } from '../api'
 import { shortActName } from '../utils/display'
 
+const PAGE_SIZE = 25
+
 interface FlatResult {
   act: string
   act_name: string
@@ -11,23 +13,28 @@ interface FlatResult {
   headline: string
   match_type: string
   score: number
+  snippet?: string
+  type?: string
 }
 
 interface SearchPanelProps {
   acts: { id: string; name: string }[]
   onNavigate: (act: string, section: string) => void
   isMobile: boolean
+  onResultsChange?: (count: number) => void
 }
 
-export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelProps) {
+export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChange }: SearchPanelProps) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<FlatResult[]>([])
+  const [unfilteredResults, setUnfilteredResults] = useState<FlatResult[]>([])
   const [autoResults, setAutoResults] = useState<FlatResult[]>([])
   const [filterOpen, setFilterOpen] = useState(false)
   const [sortMode, setSortMode] = useState<'bestmatch' | 'bysection' | 'byact'>('bestmatch')
   const [loading, setLoading] = useState(false)
   const [autoLoading, setAutoLoading] = useState(false)
   const [selectedActs, setSelectedActs] = useState<Set<string>>(new Set())
+  const [currentPage, setCurrentPage] = useState(0)
   const debounceRef = useRef<ReturnType<typeof setTimeout>>()
   const inputRef = useRef<HTMLInputElement>(null)
   const autoRef = useRef<HTMLDivElement>(null)
@@ -63,6 +70,21 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
     return () => document.removeEventListener('mousedown', handler)
   }, [])
 
+  // Re-filter results when source selection changes
+  useEffect(() => {
+    if (unfilteredResults.length === 0) return
+    const filtered = selectedActs.size > 0
+      ? unfilteredResults.filter(r => selectedActs.has(r.act))
+      : unfilteredResults
+    setResults(filtered)
+    setCurrentPage(0)
+  }, [selectedActs, unfilteredResults])
+
+  // Notify parent of results count
+  useEffect(() => {
+    onResultsChange?.(results.length)
+  }, [results.length, onResultsChange])
+
   const doSearch = async (q?: string) => {
     const term = (q || query).trim()
     if (!term) return
@@ -70,8 +92,9 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
     setLoading(true)
     try {
       if (sortMode === 'bestmatch') {
-        const data = await api.searchFlat(term)
+        const data = await api.searchFlat(term, 200)
         const allResults: FlatResult[] = data.results || data || []
+        setUnfilteredResults(allResults)
         if (selectedActs.size > 0) {
           setResults(allResults.filter(r => selectedActs.has(r.act)))
         } else {
@@ -99,11 +122,13 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
             }
           } catch { /* skip */ }
         }
+        setUnfilteredResults(all)
         setResults(all)
       }
     } catch { setResults([]) }
     setLoading(false)
     setAutoResults([])
+    setCurrentPage(0)
   }
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
@@ -128,6 +153,11 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
     setSelectedActs(next)
   }
 
+  // Pagination calculations
+  const totalPages = Math.max(1, Math.ceil(results.length / PAGE_SIZE))
+  const pageStart = currentPage * PAGE_SIZE
+  const pageResults = results.slice(pageStart, pageStart + PAGE_SIZE)
+
   const filterButtonSvg = (
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round">
       <line x1="2" y1="3" x2="14" y2="3" />
@@ -136,15 +166,8 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
     </svg>
   )
 
-  const agentIcon = (
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <circle cx="12" cy="12" r="10" />
-      <path d="M12 6v6l4 2" />
-    </svg>
-  )
-
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: 8, width: '100%' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 8, width: '100%', position: 'relative' }}>
       {/* Search input row */}
       <div style={{ display: 'flex', gap: 6, alignItems: 'stretch' }}>
         <div ref={autoRef} style={{ position: 'relative', flex: 1 }}>
@@ -193,7 +216,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
                     fontSize: 10, color: COLORS.accent, fontWeight: 600,
                     whiteSpace: 'nowrap', flexShrink: 0,
                   }}>
-                    {shortActName(r.act)} s{r.section}
+                    {r.act === 'rulings' ? r.section : r.act.startsWith('master-') ? shortActName(r.act) : `${shortActName(r.act)} s${r.section}`}
                   </span>
                   <span style={{ color: COLORS.textMuted, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
                     {r.title}
@@ -237,15 +260,16 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
         </button>
       </div>
 
-      {/* Filters panel */}
+      {/* Filters panel — absolutely positioned dropdown */}
       {filterOpen && (
         <div style={{
-          background: COLORS.bg, borderRadius: 6,
+          position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 300,
+          marginTop: 2, background: COLORS.bg, borderRadius: 6,
           border: `1px solid ${COLORS.border}`,
           padding: 10,
           display: 'flex', flexDirection: 'column', gap: 8,
+          boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
         }}>
-          {/* Sort options */}
           <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Sort:</div>
           <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap' }}>
             {(['bestmatch', 'bysection', 'byact'] as const).map(mode => (
@@ -270,7 +294,6 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
               </label>
             ))}
           </div>
-          {/* Source filters */}
           <div style={{ fontSize: 11, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>Sources:</div>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4 }}>
             {acts.map(a => (
@@ -304,45 +327,138 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
         </div>
       )}
       {results.length > 0 && !loading && (
-        <div style={{
-          maxHeight: 300, overflow: 'auto',
-          background: COLORS.bg, borderRadius: 6,
-          border: `1px solid ${COLORS.border}`,
-        }}>
-          {results.map((r, i) => (
-            <div
-              key={`${r.act}-${r.section}-${i}`}
-              onClick={() => handleSelect(r)}
-              style={{
-                padding: isMobile ? '8px 10px' : '6px 10px', cursor: 'pointer', fontSize: 12,
-                color: COLORS.text, borderBottom: `1px solid ${COLORS.border}`,
-                fontFamily: "'Montserrat', sans-serif",
-                minHeight: isMobile ? 40 : 32,
-                display: 'flex', alignItems: 'center', gap: 6,
-              }}
-              onMouseEnter={e => e.currentTarget.style.background = COLORS.accent + '11'}
-              onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
-            >
-              <span style={{
-                fontSize: 10, color: COLORS.accent, fontWeight: 600,
-                whiteSpace: 'nowrap', flexShrink: 0,
-              }}>
-                {shortActName(r.act)} s{r.section}
-              </span>
-              <span style={{
-                color: COLORS.textMuted, overflow: 'hidden',
-                textOverflow: 'ellipsis', whiteSpace: 'nowrap',
-              }}>
-                {r.title || r.headline}
-              </span>
-              {sortMode === 'bestmatch' && r.score > 0 && (
-                <span style={{ fontSize: 9, color: COLORS.textMuted, opacity: 0.5, marginLeft: 'auto', flexShrink: 0 }}>
-                  {Math.round(r.score)}
-                </span>
-              )}
+        <>
+          {/* Results header */}
+          <div style={{
+            fontSize: 10, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif",
+            padding: '4px 2px', borderBottom: `1px solid ${COLORS.border}`,
+            display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+          }}>
+            <span>{results.length} result{results.length !== 1 ? 's' : ''} — Page {currentPage + 1} of {totalPages}</span>
+          </div>
+
+          {/* Results list */}
+          <div style={{
+            background: COLORS.bg, borderRadius: 6,
+            border: `1px solid ${COLORS.border}`,
+            textAlign: 'left',
+          }}>
+            {pageResults.map((r, i) => {
+              const isRuling = r.type === 'ruling' || r.act === 'rulings'
+              const isCchGuide = r.act.startsWith('master-')
+              const sourceLabel = isRuling
+                ? (r.type === 'ruling' ? 'Ruling' : 'ATO ID')
+                : shortActName(r.act)
+              const sectionDisplay = isRuling
+                ? r.section
+                : isCchGuide
+                  ? shortActName(r.act)
+                  : `${shortActName(r.act)} s${r.section}`
+              return (
+              <div
+                key={`${r.act}-${r.section}-${pageStart + i}`}
+                onClick={() => handleSelect(r)}
+                style={{
+                  padding: isMobile ? '10px 12px' : '8px 12px', cursor: 'pointer', fontSize: 12,
+                  color: COLORS.text, borderBottom: `1px solid ${COLORS.border}`,
+                  fontFamily: "'Montserrat', sans-serif",
+                }}
+                onMouseEnter={e => e.currentTarget.style.background = COLORS.accent + '11'}
+                onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
+              >
+                <div style={{ display: 'flex', alignItems: 'baseline', gap: 6, flexWrap: 'wrap' }}>
+                  <span style={{
+                    fontSize: 11, color: COLORS.accent, fontWeight: 600,
+                    whiteSpace: 'nowrap', flexShrink: 0,
+                  }}>
+                    {sectionDisplay}
+                  </span>
+                  {r.title && r.title !== r.section && (
+                    <span style={{
+                      color: COLORS.textMuted,
+                      wordBreak: 'break-word', overflowWrap: 'break-word',
+                    }}>
+                      {r.title}
+                    </span>
+                  )}
+                </div>
+                {r.snippet && (
+                  <div style={{
+                    fontSize: 11, color: COLORS.textMuted, opacity: 0.7,
+                    marginTop: 3, paddingLeft: 2,
+                    fontFamily: "'Lora', serif",
+                    lineHeight: 1.4, textAlign: 'left',
+                  }}
+                    dangerouslySetInnerHTML={{ __html: r.snippet }}
+                  />
+                )}
+                <div style={{ fontSize: 9, color: COLORS.textMuted, opacity: 0.5, marginTop: 2, textAlign: 'left' }}>
+                  {sourceLabel}
+                </div>
+              </div>
+            )})}
+          </div>
+
+          {/* Pagination */}
+          {totalPages > 1 && (
+            <div style={{
+              display: 'flex', justifyContent: 'center', alignItems: 'center', gap: 8,
+              padding: '8px 0',
+            }}>
+              <button
+                onClick={() => setCurrentPage(p => Math.max(0, p - 1))}
+                disabled={currentPage === 0}
+                style={{
+                  padding: '6px 12px', borderRadius: 6,
+                  background: currentPage === 0 ? COLORS.bg : COLORS.surface,
+                  color: currentPage === 0 ? COLORS.textMuted : COLORS.text,
+                  border: `1px solid ${COLORS.border}`,
+                  cursor: currentPage === 0 ? 'default' : 'pointer',
+                  fontSize: 11, fontFamily: "'Montserrat', sans-serif",
+                }}
+              >
+                ← Previous
+              </button>
+              {Array.from({ length: Math.min(totalPages, 7) }, (_, i) => {
+                // Show pages around current
+                const start = Math.max(0, Math.min(currentPage - 3, totalPages - 7))
+                const pageNum = start + i
+                if (pageNum >= totalPages) return null
+                return (
+                  <button
+                    key={pageNum}
+                    onClick={() => setCurrentPage(pageNum)}
+                    style={{
+                      width: 28, height: 28, borderRadius: 4,
+                      background: pageNum === currentPage ? COLORS.accent : 'transparent',
+                      color: pageNum === currentPage ? '#fff' : COLORS.textMuted,
+                      border: pageNum === currentPage ? 'none' : `1px solid ${COLORS.border}`,
+                      cursor: 'pointer', fontSize: 11,
+                      fontFamily: "'Montserrat', sans-serif",
+                      display: 'flex', alignItems: 'center', justifyContent: 'center',
+                    }}
+                  >
+                    {pageNum + 1}
+                  </button>
+                )
+              })}
+              <button
+                onClick={() => setCurrentPage(p => Math.min(totalPages - 1, p + 1))}
+                disabled={currentPage >= totalPages - 1}
+                style={{
+                  padding: '6px 12px', borderRadius: 6,
+                  background: currentPage >= totalPages - 1 ? COLORS.bg : COLORS.surface,
+                  color: currentPage >= totalPages - 1 ? COLORS.textMuted : COLORS.text,
+                  border: `1px solid ${COLORS.border}`,
+                  cursor: currentPage >= totalPages - 1 ? 'default' : 'pointer',
+                  fontSize: 11, fontFamily: "'Montserrat', sans-serif",
+                }}
+              >
+                Next →
+              </button>
             </div>
-          ))}
-        </div>
+          )}
+        </>
       )}
     </div>
   )

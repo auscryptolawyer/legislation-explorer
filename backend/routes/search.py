@@ -7,7 +7,7 @@ from fastapi import HTTPException, APIRouter
 
 from backend.config import DATA_DIR, SEARCH_DB
 from backend.services.data_loader import load_tree
-from backend.services.search_service import search_conn, init_search_index as build_search_index, search_sections as fts_search
+from backend.services.search_service import search_conn, init_search_index as build_search_index, search_sections as fts_search, search_rulings
 from backend.services import vector_search_service
 
 logger = logging.getLogger(__name__)
@@ -134,19 +134,31 @@ def unified_search(q: str, limit: int = 20):
 
 @router.get("/api/search/flat")
 def search_flat(q: str, limit: int = 50):
-    """Flat-ranked search across all legislation acts. Single FTS5 query, BM25 order, no per-act grouping."""
+    """Flat-ranked search across legislation sections AND rulings. Single FTS5 query, BM25 order."""
     q = q.strip()
     if not q:
         return {"query": q, "results": []}
+    if not SEARCH_DB.exists():
+        build_search_index()
     try:
-        results = fts_search(q, act=None, limit=limit)
-        return {
-            "query": q,
-            "results": [
-                {"type": "section", "act": r["act"], "section": r["section"], "title": r.get("title", ""), "snippet": r.get("snippet", "")}
-                for r in results
-            ],
-        }
+        section_results = fts_search(q, act=None, limit=limit)
+        ruling_results = search_rulings(q, limit=limit)
+
+        # Interleave: take from both sources to show mixed results
+        combined = []
+        sec_idx = 0
+        rul_idx = 0
+        while len(combined) < limit and (sec_idx < len(section_results) or rul_idx < len(ruling_results)):
+            if sec_idx < len(section_results) and (rul_idx >= len(ruling_results) or len(combined) % 2 == 0):
+                r = section_results[sec_idx]
+                sec_idx += 1
+                combined.append({"type": "section", "act": r["act"], "section": r["section"], "title": r.get("title", ""), "snippet": r.get("snippet", "")})
+            elif rul_idx < len(ruling_results):
+                r = ruling_results[rul_idx]
+                rul_idx += 1
+                combined.append({"type": "ruling", "act": "rulings", "section": r["citation"], "title": r.get("title", ""), "snippet": r.get("snippet", "")})
+
+        return {"query": q, "results": combined[:limit]}
     except Exception as e:
         logger.exception("Flat search failed")
         return {"query": q, "results": [], "error": str(e)}

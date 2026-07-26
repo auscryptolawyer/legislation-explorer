@@ -7,7 +7,7 @@ import logging
 from contextlib import contextmanager
 from typing import Any
 
-from backend.config import DATA_DIR, SEARCH_DB
+from backend.config import DATA_DIR, RULING_DIR, SEARCH_DB
 from backend.services.data_loader import load_tree, get_act_section_content
 
 logger = logging.getLogger(__name__)
@@ -25,8 +25,9 @@ def search_conn():
 
 
 def init_search_index() -> None:
-    """Build or rebuild the FTS5 search index from all markdown sections."""
+    """Build or rebuild the FTS5 search index from all markdown sections and rulings."""
     with search_conn() as conn:
+        # --- Sections FTS ---
         conn.execute("DROP TABLE IF EXISTS sections_fts")
         conn.execute("""
             CREATE VIRTUAL TABLE sections_fts USING fts5(
@@ -67,6 +68,61 @@ def init_search_index() -> None:
                         for sec in sub.get("sections", []):
                             _index_section(conn, act, sec, part_id, div_id, seen)
 
+        # --- Rulings FTS ---
+        conn.execute("DROP TABLE IF EXISTS rulings_fts")
+        conn.execute("""
+            CREATE VIRTUAL TABLE rulings_fts USING fts5(
+                citation, title, content,
+                tokenize='porter'
+            )
+        """)
+        conn.execute("DROP TABLE IF EXISTS rulings_meta")
+        conn.execute("""
+            CREATE TABLE rulings_meta (
+                citation TEXT UNIQUE, title TEXT, year INTEGER, ruling_type TEXT
+            )
+        """)
+
+        ruled_seen: set[str] = set()
+        for f in sorted(RULING_DIR.glob("*.txt")):
+            if f.name.endswith(".meta.json") or f.name.startswith("."):
+                continue
+            citation = f.stem
+            if citation in ruled_seen:
+                continue
+            ruled_seen.add(citation)
+
+            title = citation
+            year = 0
+            ruling_type = ""
+            m = re.match(r'^([A-Za-z]+)_(\d{2,4})_(\d+)', f.stem)
+            if m:
+                ruling_type = m.group(1).upper()
+                year = int(m.group(2))
+                if year < 100:
+                    year += 1900 if year >= 90 else 2000
+
+            meta_path = f.with_suffix(f.suffix + ".meta.json")
+            if not meta_path.exists():
+                meta_path = f.parent / (f.stem + ".txt.meta.json")
+            if meta_path.exists():
+                import json
+                meta = json.loads(meta_path.read_text(encoding="utf-8"))
+                title = meta.get("title", citation)
+
+            content_raw = f.read_text(encoding="utf-8", errors="replace")
+            content = re.sub(r'[#*`_\[\]\(\)]', ' ', content_raw)
+            content = re.sub(r'\s+', ' ', content).strip()[:50000]
+
+            conn.execute(
+                "INSERT INTO rulings_fts (citation, title, content) VALUES (?, ?, ?)",
+                (citation, title, content)
+            )
+            conn.execute(
+                "INSERT INTO rulings_meta (citation, title, year, ruling_type) VALUES (?, ?, ?, ?)",
+                (citation, title, year, ruling_type)
+            )
+
         conn.commit()
     logger.info(f"Search index built: {SEARCH_DB}")
 
@@ -92,7 +148,7 @@ def _index_section(
         logger.exception(f"Error getting section content for {act}/{sec_id}")
         content_body = ""
 
-    content = re.sub(r'[#*`_[\]\(\)]', ' ', content_body)
+    content = re.sub(r'[#*`_\[\]\(\)]', ' ', content_body)
     content = re.sub(r'\s+', ' ', content).strip()[:50000]
 
     conn.execute(
@@ -155,6 +211,47 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> list[dic
             "title": row["title"],
             "part": row["part"],
             "division": row["division"],
+            "snippet": row["snippet"] or "",
+        })
+    return results
+
+
+def search_rulings(q: str, limit: int = 20) -> list[dict]:
+    """Search rulings using FTS5 BM25 ranking."""
+    tokens = q.split()
+    if not tokens:
+        return []
+    quoted = []
+    for tok in tokens:
+        if tok.endswith('*') and len(tok) > 1:
+            inner = tok[:-1].replace('"', '""')
+            quoted.append(f'"{inner}"*')
+        else:
+            quoted.append('"' + tok.replace('"', '""') + '"')
+    q_clean = ' '.join(quoted)
+
+    with search_conn() as conn:
+        sql = """
+            SELECT rulings_fts.citation, rulings_fts.title,
+                   m.year, m.ruling_type,
+                   rank, snippet(rulings_fts, 2, '<mark>', '</mark>', '...', 32) as snippet
+            FROM rulings_fts
+            JOIN rulings_meta m ON rulings_fts.citation = m.citation
+            WHERE rulings_fts MATCH ?
+            ORDER BY rank
+            LIMIT ?
+        """
+        rows = conn.execute(sql, (q_clean, limit)).fetchall()
+
+    results = []
+    for row in rows:
+        results.append({
+            "act": "rulings",
+            "section": row["citation"],
+            "title": row["title"],
+            "citation": row["citation"],
+            "year": row["year"],
+            "ruling_type": row["ruling_type"],
             "snippet": row["snippet"] or "",
         })
     return results
