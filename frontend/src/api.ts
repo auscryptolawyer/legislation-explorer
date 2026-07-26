@@ -63,5 +63,11 @@ export const api = {
     fetchData('/comments', 'POST', { act, section, author, text }),
   resolveComment: (commentId: number) =>
     fetchData('/comments/resolve', 'POST', { comment_id: commentId }),
+  searchFlat: (q: string, limit?: number) => {
+    let url = `/search/flat?q=${encodeURIComponent(q)}`
+    if (limit !== undefined) url += `&limit=${limit}`
+    return fetchJson(url)
+  },
+  info: () => fetchJson('/info'),
   sectionRefs: (act: string, section: string) => fetchJson(`/section-refs/${act}/${section}`),
 }
