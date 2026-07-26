@@ -12,6 +12,7 @@ import SmartLinkPanel from './components/SmartLinkPanel'
 import DefinitionPopover from './components/DefinitionPopover'
 import SectionContent from './components/SectionContent'
 import RulingContent from './components/RulingContent'
+import SearchPanel from './components/SearchPanel'
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -65,6 +66,12 @@ export default function App() {
     try { return JSON.parse(localStorage.getItem('legislation-pins') || '[]') }
     catch { return [] }
   })
+
+  const [appInfo, setAppInfo] = useState<any>(null)
+
+  useEffect(() => {
+    api.info().then(setAppInfo).catch(() => {})
+  }, [])
 
   const [commentaryOpen, setCommentaryOpen] = useState(false)
   const [casesOpen, setCasesOpen] = useState(false)
@@ -367,69 +374,44 @@ export default function App() {
                 </div>
               )
             })()}
+            <SearchPanel
+              acts={acts}
+              onNavigate={(targetAct, section) => {
+                setAct(targetAct)
+                setActiveSection(section)
+                setActiveRuling(null)
+              }}
+              isMobile={isMobile}
+            />
             <div style={{ display: 'flex', gap: 6 }}>
-              <input
-                value={search}
-                onChange={e => setSearch(e.target.value)}
-                onKeyDown={e => e.key === 'Enter' && doSearch()}
-                placeholder="Search sections..."
-                style={{
-                  flex: 1, padding: isMobile ? '10px 8px' : 8, borderRadius: 6,
-                  background: COLORS.bg, color: COLORS.heading,
-                  border: `1px solid ${COLORS.border}`, fontSize: 13,
-                  fontFamily: "'Montserrat', sans-serif",
-                }}
-              />
-              <button
-                onClick={doSearch}
-                style={{
-                  padding: isMobile ? '10px 14px' : '8px 14px', borderRadius: 6,
-                  background: COLORS.accent, color: '#fff',
-                  border: 'none', fontSize: 13, cursor: 'pointer',
-                  fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
-                  whiteSpace: 'nowrap',
-                }}
-              >
-                Search
-              </button>
               <button
                 onClick={() => setMcpOpen(true)}
                 style={{
-                  padding: isMobile ? '10px 14px' : '8px 14px', borderRadius: 6,
-                  background: COLORS.surface, color: COLORS.textMuted,
-                  border: `1px solid ${COLORS.border}`, fontSize: 13, cursor: 'pointer',
-                  fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
-                  whiteSpace: 'nowrap',
+                  flex: 1, padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
+                  background: COLORS.surface, color: COLORS.text,
+                  border: `1px solid ${COLORS.border}`, fontSize: 11, cursor: 'pointer',
+                  fontWeight: 500, fontFamily: "'Montserrat', sans-serif",
+                  whiteSpace: 'nowrap', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
                 }}
               >
-                MCP
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M16.5 9.4 7.55 4.24"/><path d="M21 16.2 7.55 4.24"/><path d="m7.55 4.24.1 10.52"/><path d="M12 22V12"/><path d="m16.5 14.6 1.53 3.53"/></svg>
+                MCP Tools
+              </button>
+              <button
+                onClick={() => {/* TBD: settings */}}
+                title="Settings"
+                style={{
+                  padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
+                  background: COLORS.surface, color: COLORS.textMuted,
+                  border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                  display: 'flex', alignItems: 'center', justifyContent: 'center',
+                }}
+              >
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+                </svg>
               </button>
             </div>
-            {searchResults.length > 0 && (
-              <div style={{
-                maxHeight: 220, overflow: 'auto',
-                background: COLORS.bg, borderRadius: 6,
-                border: `1px solid ${COLORS.border}`,
-              }}>
-                {searchResults.map(r => (
-                  <div
-                    key={`${r.act}-${r.section}`}
-                    style={{
-                      padding: isMobile ? '8px 10px' : '6px 10px', cursor: 'pointer', fontSize: 12,
-                      color: COLORS.text, borderBottom: `1px solid ${COLORS.border}`,
-                      fontFamily: "'Montserrat', sans-serif",
-                      whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
-                      minHeight: isMobile ? 40 : 32,
-                      display: 'flex', alignItems: 'center',
-                    }}
-                    onClick={() => { setAct(r.act); setActiveSection(r.section); setSearchResults([]) }}
-                  >
-                    <span style={{ color: COLORS.accent, fontWeight: 600 }}>{r.section}</span>{' '}
-                    <span style={{ color: COLORS.textMuted }}>{r.title}</span>
-                  </div>
-                ))}
-              </div>
-            )}
           </div>
         </div>
         <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
@@ -507,12 +489,40 @@ export default function App() {
             display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
             minHeight: '60vh', textAlign: 'center',
             fontFamily: "'Montserrat', sans-serif",
+            padding: '0 16px',
           }}>
-            <div style={{ fontSize: 12, color: COLORS.textMuted }}>
-              Legislation Explorer <span style={{ opacity: 0.5 }}>v2.3.0</span>
+            <div style={{ width: '100%', maxWidth: 400, marginBottom: 24 }}>
+              <SearchPanel
+                acts={acts}
+                onNavigate={(targetAct, section) => {
+                  setAct(targetAct)
+                  setActiveSection(section)
+                  setActiveRuling(null)
+                }}
+                isMobile={isMobile}
+              />
             </div>
-            <div style={{ display: 'flex', gap: 16, marginTop: 10, flexWrap: 'wrap', justifyContent: 'center' }}>
-              <span style={{ fontSize: 12, color: COLORS.textMuted, opacity: 0.5 }}>Search above or browse the tree</span>
+            <div style={{ fontSize: 11, color: COLORS.textMuted }}>
+              Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || 'v2.0.0'}</span>
+            </div>
+            <div style={{ display: 'flex', gap: 16, marginTop: 16, flexWrap: 'wrap', justifyContent: 'center' }}>
+              <span style={{ fontSize: 11, color: COLORS.textMuted, opacity: 0.5 }}>Search above or browse the tree</span>
+            </div>
+            <div style={{ display: 'flex', gap: 12, marginTop: 20, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
+              <a
+                href="/changelog"
+                onClick={e => { e.preventDefault(); window.open('https://github.com/auscryptolawyer/legislation-explorer/releases', '_blank') }}
+                style={{ fontSize: 11, color: COLORS.accent, textDecoration: 'none', cursor: 'pointer' }}
+              >
+                Changelog →
+              </a>
+              <a
+                href="/hall-of-fame"
+                onClick={e => { e.preventDefault(); /* open HOF modal */ }}
+                style={{ fontSize: 11, color: COLORS.accent, textDecoration: 'none', cursor: 'pointer' }}
+              >
+                Hall of Fame →
+              </a>
             </div>
           </div>
         )}
