@@ -224,14 +224,13 @@ export default function SearchPanel({ acts, onNavigate, isMobile }: SearchPanelP
           onClick={() => setFilterOpen(!filterOpen)}
           title="Filters"
           style={{
-            width: 24, height: 24, borderRadius: 4,
+            padding: isMobile ? '10px 12px' : '8px 12px', borderRadius: 6,
             background: filterOpen ? COLORS.accent : COLORS.surface,
             color: filterOpen ? '#fff' : COLORS.textMuted,
             border: `1px solid ${filterOpen ? COLORS.accent : COLORS.border}`,
             fontSize: 13, cursor: 'pointer',
             display: 'flex', alignItems: 'center', justifyContent: 'center',
             fontFamily: "'Montserrat', sans-serif",
-            flexShrink: 0, padding: 0,
           }}
         >
           {filterButtonSvg}

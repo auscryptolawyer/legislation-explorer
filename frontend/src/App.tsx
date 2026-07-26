@@ -311,6 +311,24 @@ export default function App() {
     <ThemeProvider>
       <div style={{ display: 'flex', height: '100vh', background: COLORS.bg }}>
 
+      {/* Mobile hamburger — only on mobile when sidebar closed */}
+      {isMobile && !drawerOpen && (
+        <button
+          onClick={() => setDrawerOpen(true)}
+          style={{
+            position: 'fixed', top: 12, left: 12, zIndex: 110,
+            background: COLORS.surface, color: COLORS.heading,
+            border: `1px solid ${COLORS.border}`,
+            borderRadius: 6, padding: '8px 10px',
+            fontSize: 16, cursor: 'pointer', lineHeight: 1,
+            minWidth: 36, minHeight: 36,
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+          }}
+        >
+          {'\u2630'}
+        </button>
+      )}
+
       {/* Mobile close button - positioned at top of sidebar, outside act picker */}
       {isMobile && drawerOpen && (
         <button
