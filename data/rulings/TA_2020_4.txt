@@ -1,0 +1,287 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Div 290
+  • Division 290
+
+Cases Referenced:
+  • British American Tobacco Australia Services Limited v Commissioner 
+  • Walters v Commissioner 
+
+Topics: CGT, Companies, Superannuation, International
+
+
+
+================================================================================
+
+TA 2020/4 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+12 related documents
+Taxpayer Alert
+TA 2020/4
+Multiple entry consolidated groups avoiding capital gains tax through the transfer of assets to an eligible tier-1 company prior to divestment
+Alerts provide a summary of our concerns about new or emerging higher risk tax or superannuation arrangements or issues that we have under risk assessment.
+While an Alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an Alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more about alerts. See
+Alerts
+issued to date.
+Description
+We are currently reviewing arrangements which appear to be designed to avoid the inclusion of capital gains in the assessable income of Australian-resident entities upon the disposal of their assets (underlying assets).
+The arrangements involve:
+•
+an internal restructure within a multiple entry consolidated (MEC) group to enable the underlying assets to be disposed of by way of an eligible tier-1 (ET-1) company (directly or indirectly owning the underlying assets) leaving the MEC group
+•
+circumstances where the disposal of the underlying assets might reasonably be expected to have been achieved in a more convenient or straightforward manner resulting in the inclusion of a capital gain in the assessable income of the provisional head company of the MEC group, and
+•
+on closer investigation, the stated justification for additional steps under the internal restructure lacks substance or real probative weight.
+The arrangements typically display some or all of the following features:
+•
+steps or circumstances resulting in a company becoming an ET-1 company of an existing or new MEC group, for example, by way of
+-
+incorporating a company
+-
+acquiring the shares in a dormant company which is a subsidiary member of an existing consolidated group, or
+-
+migrating the central management and control of an associated foreign or dual resident company to Australia
+•
+steps or circumstances resulting in the intra-group transfer of
+-
+the underlying assets to the new ET-1 company (either directly or indirectly) being disregarded for Australian tax purposes
+[1]
+, or
+-
+assets other than the underlying assets to the new ET-1 company (either directly or indirectly) being disregarded for Australian tax purposes
+[2]
+•
+steps or circumstances resulting in
+-
+the new ET-1 company (directly or indirectly owning the underlying assets) leaving the MEC group, or
+-
+another ET-1 company (directly or indirectly owning the underlying assets) leaving the MEC group
+•
+some or all of the above-mentioned steps or circumstances are not responsive to the commercial objectives of the taxpayer and/or are responsive to anticipated Australian tax outcomes. For example, some of the steps are not necessary to achieve the commercial objective of divesting the underlying assets to a third-party buyer or a foreign associate of the taxpayer
+•
+the underlying assets are CGT assets
+[3]
+which may not be taxable Australian real property
+[4]
+(or an indirect interest therein) or active foreign business assets.
+[5]
+In relation to arrangements involving ET-1 companies, Taxpayer Alert TA 2019/1
+Multiple entry consolidated (MEC) groups avoiding CGT through intra-group debt
+should also be considered. In TA 2019/1, we expressed concerns about arrangements designed to reduce or avoid capital gains tax where the new ET-1 company is funded through the use of related party loans rather than equity. The arrangements of concern in TA 2019/1 involve underlying assets which are more likely to be taxable Australian real property and the sale of the ET-1 company accompanied by either the refinancing of the related-party loans by the purchaser or the sale of the loans directly to the purchaser.
+Example arrangements
+Example 1
+A multinational group anticipates disposing of particular assets held by various Australian subsidiaries (the Asset Subs) as part of a global divestment of one of its businesses. The Asset Subs are wholly owned by Aus Head Co. Aus Head Co is the head company of an Australian tax consolidated group (TCG) and the Asset Subs are subsidiary members of the consolidated group.
+The multinational group undertakes the following steps:
+•
+Aus Head Co's foreign controller (Foreign Head Co) incorporates a new company (New Co). New Co is a wholly-owned subsidiary of Foreign Head Co
+•
+Aus Head Co makes a choice to convert the TCG to a MEC group comprising
+-
+Aus Head Co as provisional head company
+-
+New Co as an ET-1 company
+-
+the Asset Subs as subsidiary members, including Target Co
+•
+the Asset Subs transfer the relevant assets to Target Co. Aus Head Co subsequently transfers the shares in Target Co to New Co. There are no income tax consequences for the intra-group transfer of the relevant assets by the Asset Subs or for the transfer of the shares in Target Co by Aus Head Co
+[6]
+•
+Foreign Head Co disposes of shares in New Co to a third party, resulting in New Co and Target Co ceasing to be members of the MEC Group.
+The capital gain arising from the disposal of the shares in New Co by Foreign Head Co, which economically reflects the gain from disposal of the assets owned by the Asset Subs, is not included in the assessable income of Foreign Head Co.
+Example 2
+A multinational group includes a single Australian-resident company (Aus Co) which carries on several businesses in Australia. The foreign controller of the group (Foreign Head Co) wishes to dispose of one particular business carried on by Aus Co (relevant business assets).
+The multinational group undertakes the following steps:
+•
+Foreign Head Co incorporates a new Australian-resident company (New Co). New Co is a wholly-owned subsidiary of Foreign Head Co
+•
+Aus Co makes a choice to form a MEC group. The MEC group comprises
+-
+Aus Head Co as provisional head company
+-
+New Co as an ET-1 company
+•
+Aus Co transfers the relevant business assets to New Co. There are no income tax consequences for the intra-group transfer of the relevant assets by Aus Co
+[7]
+•
+Foreign Head Co disposes of shares in New Co to a third party.
+The capital gain arising from the disposal by Foreign Head Co of the shares in New Co, which economically reflects the gain from disposal of the relevant business assets owned by Aus Co, is not included in the assessable income of Foreign Head Co.
+Example 3
+This example adopts the same basic facts as Example 2 and includes additional information in connection with the purported commercial rationale of the intra-group asset transfer and ultimate third-party disposal of the relevant business assets.
+A tax adviser learns that Aus Co wishes to dispose of one of its profitable Australian businesses.
+The tax adviser is successful in organising a meeting with Foreign Head Co's Chief Financial Officer and global Head of Tax to discuss the proposed divestment of Aus Co's relevant business assets. At the meeting, the tax adviser provides a slide deck which includes diagrams of various options. Some of those diagrams show:
+•
+Foreign Head Co incorporating a new Australian-resident company (New Co)
+•
+Aus Co making the choice to form a MEC group comprising of
+-
+Aus Co as provisional head company
+-
+New Co as an ET-1 company
+•
+the transfer of relevant business assets from Aus Co to New Co
+•
+the sale of shares in New Co to a third-party buyer.
+After the meeting, the Head of Tax of Foreign Head Co asks for confirmation from the tax adviser that implementing one of the options in the slide deck means the Australian group can sell the relevant business assets to any contemplated Australian or non-Australian buyer without any profit or gain being taxable in Australia.
+The Head of Tax subsequently emails the tax adviser agreeing to engage the adviser's firm to:
+•
+design the specific steps of the arrangement to achieve the contemplated tax outcomes
+•
+draft all documents, including the board submissions and board minutes, setting out the purported commercial rationale for the numerous transactions for purposes including being able to be referred to or produced if Australian tax authorities ever challenged the arrangement
+•
+provide a written opinion confirming the contemplated tax outcomes treating the purported commercial rationale as an assumption or an understood underlying fact.
+The tax adviser prepares an engagement letter which provides a statement of works, including substantial fees or costs associated with implementing the proposed arrangement.
+Foreign Head Co continues to undertake a private sale and marketing process for the relevant business assets. The representatives of Foreign Head Co provide some information about the required method of sale, based on the method proposed by the tax adviser, to identified serious potential buyers.
+The tax adviser's firm implements the arrangement by preparing and drafting all the necessary legal agreements, documents, board submissions, and steps for the formation of the MEC group, then executes the asset transfer and provides statements to record the taxpayer's stated commercial rationale for the intra-group transfers.
+Foreign Head Co agrees with a third-party buyer to sell the relevant business assets for the agreed price by assigning to the buyer all the shares in New Co. The share sale of New Co is completed.
+The tax adviser's firm provides written advice to Foreign Head Co, including advice to the effect that:
+•
+any capital gain from the intra-group transfer of the relevant business assets to New Co is ignored for Australian income tax purposes
+•
+any capital gain from the sale of the shares in New Co to the third-party buyer is disregarded for Australian income tax purposes because the shares are not taxable Australian property
+•
+Part IVA of the Income Tax Assessment Act 1936 (ITAA 1936) will not apply to any scheme in connection with the intra-group transfer of the relevant business assets or the sale of the shares in New Co on the basis of the stated commercial rationale recorded in the company minutes and in other documents created in connection with the scheme.
+What are our concerns?
+Part IVA of the ITAA 1936 may apply where taxpayers enter into arrangements of the kind described in this Alert.
+In particular, arrangements of the kind described in this Alert may be unnecessarily complex or involve additional steps which are not required to achieve real commercial objectives. For example, a commercial objective of divesting underlying assets might reasonably be expected to have been achieved by:
+•
+directly disposing of the underlying assets without any intra-group transfer of the underlying assets or other assets to an ET-1 company
+•
+disposing of the shares in a subsidiary member of the group which holds the underlying assets without any intra-group transfer of the assets to an ET-1 company
+•
+transferring ancillary or incidental other assets (not to be sold as part of the transaction) out of an existing company, rather than transferring a significantly larger or more complex set of assets to a new ET-1 company.
+Arrangements of the kind described in this Alert are potentially being proposed by advisers who may be:
+•
+engaged for the purposes of structuring a commercial deal which could have been structured in a more straightforward, convenient or less-complex way
+•
+involved in developing the commercial rationale, or non-Australian tax justification, for particular steps in the arrangement.
+Arrangements of the kind described in this Alert may also involve the incurrence of additional transaction costs (for example, additional tax advisory costs, additional Foreign Investment Review Board approvals, or other additional regulatory or compliance costs) as compared to a direct sale of the underlying assets. The most significant result of the additional steps, complexity and regulatory cost may be that no capital gain (or only a reduced or minimal capital gain) is included in the assessable income of the Australian head company.
+This Alert is not directed at arrangements which merely consist of a choice by two or more existing ET-1 companies of a top company to form a MEC group.
+[8]
+However, such a choice may be an integrated or interdependent step in arrangements of the kind under review.
+[9]
+The exception to the definition of 'tax benefit' in subsection 177C(2) of the ITAA 1936 will not apply where the planning for and implementation of a scheme involves steps that commence before and continue after the making of the relevant choice or election.
+[10]
+In such cases, the steps are not 'merely contextual' but form part of a scheme consisting of more than the mere making of a choice or election.
+[11]
+We are issuing this Alert in addition to TA 2019/1 because we have subsequently seen further kinds of arrangements involving the uses of MEC groups to, in effect, reduce or avoid CGT. We are particularly concerned that the reasons for some of the steps in the arrangements are not responsive to the objectively inferred commercial rationale of the taxpayer.
+What are we doing?
+We are currently reviewing arrangements of the kind described in this Alert.
+Where we identify taxpayers who have entered into or carried out arrangements of the kind described in this Alert, we are likely to make detailed further enquiries regarding the particular facts and circumstances relevant to determining the objective purpose of each of the steps in the arrangements.
+Taxpayers who enter into these types of arrangements can expect to be subject to increased scrutiny. For example, we will be asking for additional information and evidence to verify the stated commercial rationale for each step of the arrangement.
+In cases where the purported commercial rationale is ultimately established as being without substance or probative weight, but has unreasonably been communicated to the ATO as a fact in the absence of apparently excusing circumstances, we will consider whether other relevant offences may have occurred.
+What should you do?
+If you have entered, or are contemplating entering, into an arrangement of this type we encourage you to:
+•
+phone or email us at the contact details provided to discuss next actions
+•
+make a voluntary disclosure to reduce penalties that may apply.
+Penalties may apply to participants in, and promoters of, this type of arrangement. This includes serious penalties under Division 290 of Schedule 1 to the
+Taxation Administration Act 1953
+for promoters. Registered tax agents involved in the promotion of this type of arrangement may be referred to the Tax Practitioners Board to consider whether there has been a breach of the
+Tax Agent Services Act 2009.
+Do you have information?
+To provide information about this type of arrangement, or a promoter of this or another arrangement:
+•
+email us at
+reportataxscheme@ato.gov.au
+•
+contact the officer named in this Alert
+•
+note that apart from normal secrecy provisions, whistleblower protections changed from 1 July 2019.
+Commissioner of Taxation
+24 August 2020
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Date of Issue:
+24 August 2020
+Date of Effect:
+N/A
+[1]
+By operation of section 701-1 of the
+Income Tax Assessment Act 1997
+(ITAA 1997).
+[2]
+ibid
+.
+[3]
+Under section 108-5 of the ITAA 1997.
+[4]
+Under section 855-20 of the ITAA 1997.
+[5]
+Under section 768-540 of the ITAA 1997.
+[6]
+Under section 701-1 of the ITAA 1997, the Asset Subs, Target Co and New Co are taken to be parts of Aus Head Co for relevant income tax purposes. As a consequence of that section, the actions and transactions of a subsidiary member are treated as having been undertaken by the head company and dealings that are solely between members of the same consolidated group (intra-group dealings) will not result in ordinary or statutory income or a deduction to the group's head company.
+[7]
+ibid.
+[8]
+Section 719-50 of the ITAA 1997.
+[9]
+See paragraph 71 of Practice Statement Law Administration PS LA 2005/24
+Application of General Anti-Avoidance Rules
+. See also
+Walters v Commissioner of Taxation
+[2007] FCA 1270 at [83-85] and
+British American Tobacco Australia Services Limited v Commissioner of Taxation
+[2010] FCAFC 130 at [32-38].
+[10]
+British American Tobacco Australia Services Limited v Commissioner of Taxation
+[2009] FCA 1550 at [86].
+[11]
+British American Tobacco Australia Services Limited v Commissioner of Taxation
+[2010] FCAFC 130 at [34].
+Related Practice Statements:
+PS LA 2005/24
+PS LA 2008/15
+Other References:
+TA 2019/1
+Legislative References:
+ITAA 1936 Pt IVA
+ITAA 1936 177C(2)
+ITAA 1997 108-5
+ITAA 1997 701-1
+ITAA 1997 719-50
+ITAA 1997 768-540
+ITAA 1997 855-20
+TAA 1953 Div 290
+Tax Agent Services Act 2009
+Case References:
+British American Tobacco Australia Services Limited v Commissioner of Taxation
+[2009] FCA 1550
+2009 ATC 20-155
+77 ATR 518
+British American Tobacco Australia Services Limited v Commissioner of Taxation
+[2010] FCAFC 130
+(2010) 189 FCR 151
+2010 ATC 20-222
+80 ATR 813
+Walters v Commissioner of Taxation
+[2007] FCA 1270
+(2007) 162 FCR 421
+2007 ATC 4973
+67 ATR 156
+Authorised by:
+Rebecca Saint
+Deputy Commissioner
+Contact officer:
+Stephanie Long
+Email address:
+Stephanie.Long@ato.gov.au
+Telephone:
+(02) 9374 2040
+ISSN:
+2651-9550
+Back to top

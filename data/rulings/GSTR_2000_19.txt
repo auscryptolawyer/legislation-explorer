@@ -1,0 +1,1168 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 133
+  • Div 134
+  • Div 358
+  • Division 129
+  • Division 130
+  • Division 131
+  • Division 133
+  • Division 134
+  • Division 137
+  • Division 138
+  • Division 189
+  • Division 19
+  • Division 21
+  • Division 3
+  • Division 358
+  • Division 38
+  • Division 51
+  • Division 99
+  • Subdivision 19-B
+  • Subdivision 19-C
+
+Cases Referenced:
+  • Carlill v The Carbolic Smoke Ball Company
+
+  • Carlill v. The Carbolic Smoke Ball Company
+
+  • Electrical Goods Importer v Commissioner 
+
+Topics: GST, Companies, International
+
+
+
+================================================================================
+
+GSTR 2000/19 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+104 related documents
+Goods and Services Tax Ruling
+GSTR 2000/19
+Goods and services tax: making adjustments under Division 19 for adjustment events
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+This Ruling contains references to provisions of the
+A New Tax System (Goods and Services Tax) Regulations 1999,
+which have been replaced by the
+A New Tax System (Goods and Services Tax) Regulations 2019.
+This Ruling continues to have effect in relation to the remade Regulations.
+Paragraph 32 of
+TR 2006/10
+provides further guidance on the status and binding effect of public rulings where the law has been repealed and rewritten.
+A
+comparison table
+which provides the replacement provisions in the
+A New Tax System (Goods and Services Tax) Regulations 2019
+for regulations which are referenced in this Ruling is available.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+7
+Background
+8
+Ruling and explanations
+12
+Definitions
+107
+Detailed contents list
+117
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 37 of the
+Taxation Administration Act 1953
+and former section 105-60 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes
+.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you
+.
+[
+Note:
+This is a consolidated version of this document. Refer to the ATO Legal database (
+ato.gov.au/law
+) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling explains the Commissioner's view on the operation of Division 19 of
+A New Tax System (Goods and Services Tax
+)
+Act 1999
+('GST Act').
+2. The Ruling applies if you are registered or required to be registered for GST under Part 2-5 of the GST Act, and an adjustment event has given rise to an adjustment for a supply or an acquisition under Division 19..
+3. This Ruling does not explain how to account for Division 19 adjustments on your Business Activity Statement (BAS). The BAS instructions explain alternative ways you may treat discounts, rebates and refunds on your BAS, depending on how you treat them in your own accounts.
+4. Unless otherwise stated, all legislative references in this Ruling are to the GST Act.
+5. Certain terms used in this Ruling are defined or explained in the Definitions section of the Ruling. These terms, when first mentioned elsewhere in the body of the Ruling, will appear in
+bold
+.
+6. This Ruling does not explain the requirements for adjustment notes. This is covered in Goods and Services Tax Ruling GSTR 2013/2
+Goods and services tax: adjustment
+notes.
+Date of effect
+7. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+7A. Changes have been made to this Ruling by Addenda that issued on 17 December 2003, 13 September 2006, 21 September 2011, 7 December 2011, 31 October 2012, 11 December 2013, 1 October 2014 and 12 December 2018. Refer to each Addendum for the date of effect for the change introduced by that Addendum.
+Background
+8. If you are registered or required to be registered, there is Goods and Services Tax ('GST') payable on the
+taxable supplies
+you make in a tax period. However, you can claim a credit (called an
+input tax credit
+) for the GST included in the price of things you acquire for carrying on your enterprise (called
+creditable acquisitions
+).
+[1]
+9. If your total GST payable exceeds your total input tax credits for a tax period, the excess (called your net amount) is payable to the Commissioner.
+[2]
+If your total input tax credits exceed your total GST payable, then your net amount is refunded to you by the Commissioner.
+[3]
+You work out your net amount on your BAS for a tax period.
+[3A]
+10. However, your net amount is increased or decreased by adjustments you have for the tax period. An adjustment arises under Division 19 where an adjustment event has caused you to have accounted for:
+•
+too much (or too little) GST payable for a supply; or
+•
+too much (or too little) input tax credit for an acquisition in a previous tax period.
+11. Adjustment events include changes in consideration for supplies and acquisitions (such as discounts) and cancellations of supplies or acquisitions (such as the return of a thing to the supplier).
+Ruling and explanations
+12. Division 19 provides for:
+•
+what are adjustment events for a supply or acquisition
+[4]
+;
+•
+how to work out if an adjustment arises from an adjustment event in relation to a tax period for a supply or acquisition; and
+•
+how to work out the amount of the adjustment.
+What are adjustment events
+13. An adjustment event is any event which has the effect of:
+[5]
+•
+cancelling a supply or an acquisition; or
+•
+changing the consideration for a supply or an acquisition; or
+•
+causing a supply or acquisition to become, or stop being, a taxable supply or creditable acquisition.
+14. When any of these events occur, you may have accounted for too much (or not enough) GST for a supply, or too much (or not enough) input tax credit for an acquisition. If this is the case you may have to make an adjustment.
+15. An adjustment does not always arise from an adjustment event. One of the requirements for an adjustment is that the GST on the supply, or the input tax credit on the acquisition, was attributable to an earlier tax period.
+[6]
+Where the adjustment event occurs in the same period in which the GST on the supply or the input tax credit on the acquisition is attributable, this requirement is not met. Changes in your GST payable or your input tax credits resulting from these adjustment events are accounted for in calculating your GST payable or your input tax credits for the period. Where the event does not give rise to an adjustment, you do not need to issue an adjustment note (refer to GSTR 2013/2).
+Cancellation of a supply or an acquisition
+16. The cancellation of a supply or an acquisition is an adjustment event.
+[7]
+Generally, the return of a thing, or a part of it, to a supplier is an adjustment event (whether or not the return involves a change of ownership).
+[8]
+If, on the facts, the return does not have the effect of cancelling the supply, it will not be an adjustment event. For example, the return of a thing for repair or maintenance is not an adjustment event.
+[9]
+In the case of exchange of goods, where the exchange does not result in a cancellation of the supply or a change in the consideration, it will not be an adjustment event. This will depend on the facts and the contractual arrangements between the parties.
+Example
+17. Acorp Pty Ltd supplies goods to Bcorp Pty Ltd and issues an invoice. Subsequently, Bcorp returns some defective goods and seeks a refund. On the agreement between the parties the return and associated refund cancels the supply to the extent of the returned goods. This is an adjustment event.
+Changes in the consideration for a supply or an acquisition
+18. Where the consideration for a supply or acquisition changes for any reason you have an adjustment event.
+[10]
+In the following paragraphs we consider payments and other amounts which may or may not change the consideration. Whether a payment or allowance changes the consideration for a supply will depend on the circumstances. The same commercial term could be used to describe various types of arrangements which may be quite different in substance. The substance of the arrangement or event will determine whether it is an adjustment event.
+19. A single payment or amount may be for more than one purpose, that is, part of the amount may have the effect of changing the consideration (such as a prompt payment discount) and part of the amount may be consideration for a separate supply. Where this is the case, you need to apportion that part of the payment or amount relates to each purpose using a reasonable basis. You will need to issue a tax invoice within 28 days of a request by the recipient if the separate supply is a taxable supply made by you.
+[11]
+Discounts
+20. After a supply occurs, a discount may be granted for early payment. Discounts referred to as settlement discounts or prompt payment discounts are made for the purpose of encouraging early payment of an amount owing for a supply. Benefits to the supplier include early cash flow, certainty of payment at an earlier point and avoidance of collection costs. Although the discount is typically expressed as a percentage of the amount owing and is conditional on payment within a specified period, the discount is considered to be a change in consideration.
+21. This situation can be contrasted with a 'discount' offered in negotiating a price for an acquisition. In such a situation, the 'discount' is used to arrive at the consideration for the supply at the time the invoice is issued. As there is no change to the consideration, there is no adjustment event.
+Tiered settlement discounts
+22. Some terms of trade include the offer of settlement discounts that decrease in amount as time progresses. For example, as a supplier, you may offer a settlement discount of 4% if payment is made within 14 days of invoice or 2% if payment is made within 28 days. These types of discounts are similar to normal settlement discounts in that their purpose is to encourage early payment of the amount invoiced rather than to reflect consideration for the repayment of credit within the different discount periods. The tiered nature of the discounts does not alter their character. Therefore we regard them as changes in consideration for a supply and not consideration for a financial supply.
+Certainty of Discounts
+23. Where, in the light of previous experience between the supplier and the recipient, it is almost certain that a settlement discount will be allowed, the agreed consideration for the supply will be the amount net of the discount. For example, where the discount is routinely allowed, even if payment is received after the due date, the supplier and recipient may attribute GST and input tax credits on the net amount. In such cases, when the net amount is paid there is no change to the consideration and therefore no adjustment event.
+[13]
+Rebates
+24. Under their terms of trade, suppliers may pay rebates to customers who reach certain levels of purchases. The rebates are typically expressed as a percentage of the purchases made in a particular period. A payment of this type is regarded as a reduction in the consideration for the relevant purchases and so is an adjustment event.
+Incorrect invoicing
+25. The invoice for a supply may be incorrect due to a mistake made by the supplier. That is, the invoice may not reflect the previously agreed consideration. Where the parties treat the mistake as a change to the previously agreed consideration for the supply, there will be an adjustment event. The mistake may be corrected either by issuing an adjustment note for the amount of the error or by issuing an adjustment note for the full amount originally invoiced together with the issue of a correct invoice. In either case there is an adjustment event.
+26. However, if the error in invoicing is corrected in the same period as the original invoice was issued, you will not have to make an adjustment. In these cases, the supplier may cancel the original invoice and issue a correct one. The supplier and recipient should attribute the GST and input tax credit in accordance with the corrected invoice.
+Incorrect deliveries
+27. In certain circumstances, the terms of a supply include delivery of a specified quantity of goods and the correct quantity may not actually be delivered. Where the delivery error is not corrected, for example, by a return of the excess goods or a further delivery of the shortfall, the quantity of the supply has changed. If both parties agree to the changed quantity and the associated change in consideration, this is an adjustment event.
+Example
+28. Ccorp contracts to supply Dcorp with 100 widgets at a price of $11 each. The tax invoice that arrives with the delivery correctly reflects the contract but only 80 widgets are delivered. The parties agree to vary the contract and accept the lesser delivery. This will be an adjustment event and Ccorp issues an adjustment note to reflect the change to the supply.
+Late payment charges
+29. A charge for late payment that is consideration for the supply of an interest in a credit arrangement does not give rise to an adjustment event. The charge is consideration for a financial supply.
+[14]
+Whether a charge for late payment is consideration for the acquisition of an interest in a credit arrangement will depend on the facts of each case. The description given to the charge (for example, as 'damages' or 'liquidated damages') by the parties is relevant but not conclusive. It is necessary to determine the true character of the arrangement having regard to the terms of the agreement and other relevant circumstances.
+30. Where an amount is required to be paid by a specified date, but an additional charge becomes payable if the primary amount is not paid by the due date, the additional charge is consideration for the supply of an interest in a credit arrangement and, as such, is consideration for a financial supply. This is so whether the payment is in the nature of an accruing interest charge (for example, 10% per annum), a flat percentage of the amount due (for example, 10% of the amount due) or a fixed amount (for example, $20).
+Example - interest charge
+31. Henry supplies goods to Andrew under terms that require the amount invoiced to be paid within 30 days, after which time, interest will accrue at 14% per annum. In addition to the amount originally invoiced to Andrew, Henry demands payment of the interest. As the agreement contemplates late payment, Henry has supplied Andrew with an interest in a credit arrangement. The late payment charge is consideration for a financial supply and is not an adjustment event.
+Example - flat charge
+32. George's Plumbing sells goods to Jasper on the basis that if payment is not received within 30 days, a fee of 2% of the amount due will be payable. The terms of trading refer to this as a 'fee for account keeping services'. However, no additional services are provided to Jasper by George's Plumbing. Jasper makes the payment (including the 2% fee) after the due date. Although described by the parties as a fee for account keeping services, the fee is in reality a charge for late payment. The fee is consideration for the supply of an interest in a credit arrangement and is therefore consideration for a financial supply.
+Interest on early payment
+33. If a recipient of a supply makes an early payment of an amount invoiced and, under agreed trading terms with the supplier, is entitled to commercial interest for the period of prepayment, the interest relates to a separate financial supply. By making an early repayment, the recipient has received consideration for the disposal of an interest in a credit arrangement by the supplier. As the interest is consideration for a financial supply there is no adjustment event.
+[15]
+Charges for additional supplies (for example - hire)
+34. Where a charge is consideration for an additional supply, this is not an adjustment event. The charge could occur either as a result of an agreed extension to a hire period or because the person who hired the goods simply fails to return the goods within the agreed time. For example, where goods hired for an agreed period are not returned within that period, an additional charge for the extension of the hire period is consideration for a further supply.
+Promotional, co-operative or advertising allowances
+[16]
+35. Promotional, co-operative or advertising allowances which provide advantages to the supplier do not reduce the consideration for a supply and therefore are not adjustment events. Allowances of this nature are made to retailers in return for promotional and marketing activities undertaken by the retailer. The allowances provide a commercial advantage to the supplier by way of maximising sales of the supplier's goods or services and are not directed towards a reduction in the consideration.
+36. The allowances may be paid in cash or cheque, or may be a credit that the retailer can use against future purchases. Despite the form taken by the allowances, they are directed at an end other than the reduction of the selling price and therefore do not vary the consideration for a supply.
+37. The allowances are treated as consideration for a supply of services by the recipient/retailer. In effect the retailer is making commercially valuable promotional services available to the provider of the allowance for a price. The supply of these services by the retailer is made for consideration equal to the amount of the allowance.
+Foreign exchange gains or losses
+38. A supply contract may state that the consideration for the supplies under the contract has to be paid in a foreign currency or digital currency. In these cases, the foreign currency or digital currency has to be converted to Australian dollars so that GST can be attributed. Section 9-85 allows the Commissioner to determine the manner in which the foreign currency or digital currency will be converted to Australian currency.
+39. When payment for the supply occurs, the rate of exchange may be different from that used for GST attribution purposes. The resulting gain or loss on converting the foreign currency or digital currency, whether realised or not, is not an adjustment event. The consideration is still the amount attributed in accordance with section 9-85 and is the same for both the supplier and the recipient.
+[17]
+Payments to third parties
+40. An entity (such as a manufacturer) may offer to make a payment to a third party end user if the end user acquires a thing from another entity (such as a retailer). Typically, the manufacturer will make the payment directly to the end user independently of the retailer.
+[17A]
+The payment is made pursuant to a separate agreement between the end user and the manufacturer but not involving the retailer.17A A payment made in these circumstances cannot give rise to an adjustment event. It does not change the consideration received by the retailer for the supply by the retailer to the end user, nor does it change the consideration received by the manufacturer for the supply by the manufacturer to the retailer. A change in the consideration for these supplies cannot occur independently of the retailer.
+40A. Although the third party payment the manufacturer makes to the end user in relation to the end user's acquisition of the thing does not result in an adjustment event under Division 19,
+[17AA]
+a third party payment may result in an adjustment Division 134. Division 134 can only apply if the third party payment is made on or after 1 July 2010.
+40B. Under Division 134, a manufacturer registered for GST may be entitled to a decreasing adjustment, as if the consideration for the manufacturer's taxable supply of the thing to the retailer had been reduced by the amount of the third party payment. An end user registered for GST may be subject to an increasing adjustment under Division 134, as if the consideration for the payee's acquisition of a taxable supply of the thing by the retailer had been reduced by the amount of the payment.
+40C. One of the conditions for a decreasing adjustment under Division 134 is that the third party payment is not consideration for a supply made to the payer (paragraph 134-5(1)(e)). One of the conditions for an increasing adjustment for a payee is that the third party payment is not consideration for a supply by the payee (paragraph 134-10(1)(e)).
+41. In some circumstances, it may be necessary to consider whether a separate supply is made by the end user to the manufacturer in return for the payment. This will depend on the arrangement between the parties, including any contract between them. For example, where the end user is merely accepting the manufacturer's standing offer by way of making a purchase from the retailer, the end user does not enter any binding obligation in favour of the manufacturer. Nor does it provide goods, services, or anything else which can be described as a supply to the manufacturer. As such it makes no supply.
+[17AB]
+By contrast, the manufacturer may offer a rebate to the end user under a separate agreement entered into by both parties. Where the agreement requires the end user to do something specific, such as participate in a publicity promotion for the manufacturer, the end user is making a supply for consideration. The supply is the entry into and fulfilment of the obligation to participate in the promotion. The consideration is the rebate.
+Example
+42. Manufacturer Pty Ltd (M) offers $1,000 to end users who purchase its products. M makes this offer independently of the retailer. The supply chain for the products is:
+Car Manufacturer => Retailer => End User.
+M sells a product to Retailer Pty Ltd (R) for $22,000. R sells this product to an end user (EU) for $33,000. As a result of the purchase, EU receives a $1,000 payment from M.
+The $1,000 payment from M to EU does not change the consideration either for the supply from M to R or for the supply from R to EU. The payment does not give rise to an adjustment event in respect of either supply.
+There is a binding unilateral obligation by M to EU in relation to the payment.
+[17B]
+EU accepts the manufacturer's standing offer to make the payment by purchasing a product from the retailer. However, EU makes no supply to M. EU has not entered any binding obligations in favour of the manufacturer and has not supplied goods, services or anything else to the manufacturer.
+The payment from M to EU, being a payment of money, is not a supply. Nor is it consideration for a supply. M has a GST liability of $2,000 on its taxable supply to R (1/11th of $22,000). R is entitled to an input tax credit of $2,000 on its creditable acquisition from M and has a GST liability of $3,000 on its taxable supply to EU (1/11th of $33,000). If EU is registered or required to be registered for GST and acquires the product solely for a creditable purpose, it will be entitled to an input tax credit of $3,000.
+However, if the payment is made on or after 1 July 2010, and the requirements of Division 134 are met, M will be entitled to a decreasing adjustment of 1/11th of the third party payment. If EU is making the acquisition wholly for a creditable purpose and is registered or required to be registered EU will be subject to an increasing adjustment of 1/11th of the third party payment.
+Example
+42A. This example is factually similar to the example above, except that R applies EU's entitlement at the point of sale for customer convenience, rather than M making the payment directly to EU.
+EU pays R $32,000 and M subsequently forwards $1,000 to R on behalf of, or at the direction of, EU.
+[17C]
+The analysis remains as in the previous example. There is no adjustment event. As the payment from M to R is paid on behalf of and at the direction of EU, it forms part of the consideration liable to be provided by EU to R for the supply from R to EU. The GST liabilities and input tax credit entitlements of the parties are as outlined in the previous example.
+However, it should be noted that where the payment is
+not
+made independently of the retailer, the GST consequences will depend on the nature of the agreement between the parties and the surrounding facts and circumstances.
+
+Payments to third parties other than end users
+42B. An entity (such as a manufacturer) may also make a payment to a third party entity that is neither an end user of its products nor a direct recipient of its supply. Provided such a payment is made directly by the manufacturer to that third party entity and does not involve any other entity, it does not give rise to an adjustment event. Whether the payment is consideration for a separate supply made by the third party entity to the manufacturer will depend on the surrounding facts and circumstances of the case.
+[17D]
+If the payment is made on or after 1 July 2010 and is not consideration for a supply made by the third party entity to the manufacturer, Division 134 may apply, as described in paragraphs 40A, 40B and 40C of this Ruling.
+Payments arranged and administered by third parties
+43. Recipients may often enter co-operative buying arrangements with other recipients to negotiate loyalty payments such as volume rebates from suppliers. This may be achieved through a separate entity that receives and administers the payments on behalf of all recipients. The separate entity (here called the administrator) will receive a payment from the supplier when the total acquisitions made by the recipients reaches a certain volume. The administrator will then pass on the respective portion of the payment to the individual recipients.
+44. In many circumstances these payments will be adjustment events as the purpose of the payments is to reduce the consideration that the recipients pay for the supplies. The administrator is merely the conduit for channelling the payment to the recipients.
+Example
+45. Richard is an electrician and belongs to a buying co-operative. The co-operative has an agreement with Cable Supplies Pty Ltd to pay a 5% rebate in respect of purchases made by the members once the combined purchases reach a certain volume. When Richard receives his portion of the rebate from the co-operative, he will make an increasing adjustment. Cable Supplies will make a corresponding decreasing adjustment.
+46. Where the purpose of the payment is to pay the administrator for the service of providing customers to the supplier and it is retained by the administrator, then the payment is consideration for a separate supply made by the administrator. Both the supplier and the administrator will account for the payment as consideration for the supply.
+Payments for returns of certain containers and packaging
+47. When you make a supply or acquisition of goods, the goods will often be delivered in or on some form of container, tray or pallet. A refund for the return of a container (etc) may give rise to an adjustment event where
+•
+the terms of the sale allow for the refund to be given should the container (etc) be returned; and
+•
+the amount to be refunded is not an amount to which Division 99, which is about security deposits, applies.
+Dishonoured cheques
+48. When a cheque is not honoured, the consideration for the supply has not changed nor has the supply been cancelled. This is not an adjustment event.
+49. If you are accounting on a cash basis for GST and a cheque for an amount that you accounted for on a previous BAS is not honoured, you will need to lodge a revised activity statement. If you are accounting on a non-cash basis, any adjustment you have in relation to the debt resulting from the cheque being dishonoured arises under Division 21, after taking appropriate steps to recover the debt.
+[18]
+Compromising or settling a debt
+ID="P50">50. You may agree to settle an outstanding debt that you owe to another entity or that the other entity owes to you. Generally, a settlement has the effect of decreasing the previously agreed consideration and so the settlement is an adjustment event.
+Endorsements to existing insurance policies
+51. Insurance policies may be endorsed to increase existing cover for an insured. An example of this is where an insured seeks extra cover under a home contents insurance policy for a new addition to the house or contents. The premium may be increased as a result of the extra cover. The increase in the premium is not an adjustment event, it is consideration for further supply. The further supply is the provision of the extra cover.
+Short payments
+52. In some instances recipients may round off consideration when payment is made to their suppliers. For example, a recipient may make a $100 payment for an invoice for $104.35. As a supplier, you will generally do one of two things:
+•
+you will treat the amount as outstanding, eventually write off the amount and do an adjustment under Division 21. The recipient would do likewise; or
+•
+if you and the recipient agree, treat such differences as changes to the previously agreed consideration and therefore as adjustment events.
+Compensation - damaged goods (etc)
+53. Where a payment is received as consideration for the surrender of a right it will be consideration for a separate supply and not an adjustment event. The treatment of the payment will depend on the circumstances of the transaction. For example, a payment to a recipient to forego the right to have damaged goods repaired or replaced by a manufacturer is consideration for a separate supply and is not an adjustment event.
+Ullage payments
+54. A supplier may make an allowance to a distributor or retailer for loss, damage or some other non-recoverable diminution of the stock supplied, whether or not the loss (etc) occurs. This allowance, often referred to as ullage, is usually paid to compensate for leakage or loss attributable to the mode of packaging or transport. The treatment of such payments depends on the purpose for which it is made.
+55. Where the ullage allowance is taken into account in arriving at the consideration for the supply, it will not be an adjustment event. Where a payment or allowance changes the previously agreed consideration for the supply, it is an adjustment event. For example, an allowance (in respect of damaged stock) that is taken off remittance for bearing the cost of damaged stock will usually be a change to the previously agreed consideration. Therefore, it will be an adjustment event.
+Prepaid conditional loyalty payments e.g., prepaid volume rebates
+56. A loyalty payment (eg a volume rebate) may be paid by a supplier (such as a manufacturer) to a recipient in respect of future purchases. The terms of the payment may include a condition that requires the recipient to repay some or all of the loyalty payment if a certain level of purchases is not made.
+57. Where you enter into an obligation to make a certain level of purchases in return for a loyalty payment of some kind, you will have made a supply for consideration. You will have made a taxable supply if the other conditions of section 9-5 are met. If you are the entity making the loyalty payment, you will make an acquisition for consideration. Similarly, that acquisition may be a creditable acquisition for you, depending on your circumstances.
+Unconditional incentive payments
+58. A supplier (such as a manufacturer) may make an unconditional payment to an entity to induce the entity to make, or to continue to make purchases from the supplier. Where on the facts the payment is truly unconditional (i.e., a gift), then it is neither an adjustment event nor consideration for a separate supply.
+Example
+59. Big Steel Pty Ltd runs a promotion in which the 500th customer of a certain type of steel receives a payment of $500. There are no conditions attached to the payment. When paid, neither the customer nor Big Steel have to account for GST on this amount.
+Change in the extent of liability for the consideration
+60. The amount of input tax credit you claim in relation to an acquisition made in a tax period is based upon the extent to which you provide, or are liable to provide the consideration for that acquisition.
+[19]
+If your extent of liability changes, you may have claimed too much (or not enough) input tax credit. The change in liability is an adjustment event.
+Example
+61. Gold Company and Silver Company are joint venturers, each with a 50% interest in the joint venture.
+[20]
+The joint venture is not a GST joint venture (refer Division 51). In January, the joint venture incurs expenditure of $100,000 on exploration work for which each joint venturer is liable for $50,000. However, the interests under the joint venture agreement are subsequently changed with effect from 1 January such that Gold Company has a 40% interest and Silver Company has a 60% interest. The change in interests has changed the extent to which each party is liable for the consideration for the January exploration work. This change in liability for the consideration is an adjustment event for each party.
+Where a supply or an acquisition becomes, or stops being, a taxable supply or a creditable acquisition
+62. In certain circumstances a supply which is not initially a taxable supply can become a taxable supply. In these circumstances, an adjustment event occurs.
+[21]
+Example
+63. Export Co sells engineering equipment both in Australia and overseas. Export Co sells goods to a company in Malaysia. No GST is included in the price as the goods are to be exported to Malaysia within 60 days. However, the goods are not exported at all and they are redirected to the Malaysian company's operations in Australia. This redirection has caused a previously
+GST
+-
+free supply
+to become a taxable supply. An adjustment event has occurred in relation to the supply.
+Changes in the use of an acquisition
+64. A change in the extent to which you use an acquisition for a
+creditable purpose
+is not an adjustment event. If you make an acquisition solely for a non-creditable purpose and you later apply that acquisition for a creditable purpose in your enterprise, this will not cause the acquisition to become a creditable acquisition. Adjustments for changes in use are accounted for under Division 129 (about changes in the extent of creditable purpose). An adjustment can arise under that Division for an acquisition even if it is not a creditable acquisition.
+[22]
+65. Similarly, if you make an acquisition solely for a creditable purpose and you apply the goods solely to private or domestic use, the acquisition does not cease being a creditable acquisition. You may need to make an adjustment under Division 130 (about goods applied solely to private or domestic use).
+Example
+66. Jeremy is registered and acquired a motor car for private purposes. The acquisition of the car is not a creditable acquisition because he did not acquire it for a creditable purpose.
+[23]
+He later starts to use the car in his enterprise. The motor car does not become a creditable acquisition because Jeremy starts to use it for a creditable purpose. The change in use of the motor vehicle is not an adjustment event. Instead he makes an adjustment under Division 129.
+Changes in your registration status
+67. A supply does not become, or stop being, a taxable supply merely because you become, or cease to be, registered or required to be registered. An acquisition does not become, or stop being, a creditable acquisition merely because you become, or cease to be, registered or required to be registered.
+68. If you become registered, decreasing adjustments for certain trading stock acquired prior to becoming registered are accounted for under Division 137 (about decreasing adjustments for stock on hand when you become registered). If you cease to be registered, you may need to payback a portion of your input tax credits for certain assets. You do this by making an increasing adjustment under Division 138 (about cessation of registration).
+Example
+69. Lucy acquired a motor car for her business but she was not registered or required to be registered for GST purposes. Therefore the car is not a creditable acquisition.
+[24]
+She later becomes registered. The motor car does not become a creditable acquisition because Lucy became registered. That is, the event is not an adjustment event.
+Errors or omissions
+70. It is not an adjustment event if you wrongly classify a supply as being, or not being, a taxable supply, or an acquisition as being or not being a creditable acquisition. However, if there is a change in consideration as a result of correcting the error, this is an adjustment event in the period you become aware of this.
+71. An adjustment event does not arise if you have made an error or omission in completing a previous BAS. For example, where you have incorrectly entered an amount on your BAS, this is not an adjustment event. You can correct your mistake by lodging a revised activity statement.
+When an adjustment event results in an adjustment under Division 19
+72. You have an adjustment for a supply if:
+[25]
+•
+one or more adjustment events in relation to the supply occur during a tax period; and
+•
+GST on the supply was attributable to an earlier tax period (or, if the supply was not a taxable supply, would have been attributable to an earlier tax period had the supply been a taxable supply); and
+•
+the event has caused the previously attributed GST amount for the supply to differ from the corrected GST amount.
+73. Similarly for an acquisition, you have an adjustment where:
+[26]
+•
+one or more adjustment events in relation to the acquisition occur during a tax period; and
+•
+an input tax credit for the acquisition was attributable to an earlier tax period (or, if the acquisition was not a creditable acquisition, would have been attributable to an earlier tax period had the acquisition been a creditable acquisition); and
+•
+the event has caused the previously attributed input tax credit amount to differ from the corrected input tax credit amount for the acquisition.
+Thus, where the adjustment event occurs in the same period in which the GST on the supply or the input tax credit on the acquisition is attributable, an adjustment will not arise.
+Example
+74. On 1 June 2001, Stationery Co makes a taxable supply of stationery goods for a consideration of $100, with 2% discount offered if paid within 14 days. The recipient pays the account on 10 June 2001 and pays the discounted amount of $98. In accounting for the transaction, Stationery Co calculates its GST liability on a price of $98. Although there has been an adjustment event, there is no adjustment.
+Interaction between Division 19 and Division 133
+74A. Under Division 133, a decreasing adjustment for an acquisition may arise if, to take account of a GST liability that a supplier is subsequently found to have, the recipient provides additional consideration under a gross-up clause at a time when the recipient can no longer claim an input tax credit.
+74B. If you have a decreasing adjustment under Division 133 and the circumstances that give rise to the adjustment also constitute an adjustment event, you do not have a decreasing adjustment under Division 19 for the acquisition in relation to those circumstances.
+[26A]
+Working out adjustments for supplies under Division 19
+75. An adjustment will arise, in relation to a supply, where an adjustment event has caused the previously attributed GST amount to differ from the corrected GST amount.
+[27]
+You need to work out the two amounts and then compare them to determine if an adjustment arises because of the adjustment event.
+The corrected GST amount for a supply
+76. The corrected GST amount for a supply in relation to a tax period must take into account:
+[28]
+•
+the amount of any GST that was attributable to a tax period for the supply; and
+•
+any changes in circumstances that have given rise to any adjustments under Subdivision 19-B or Division 21 (about adjustments for bad debts).
+77. That is, the corrected GST amount reflects the GST for the supply, as at the end of the current tax period.
+Example
+78. In Eliza's first tax period (ending on 31 March 2001), she makes a taxable supply with a consideration of $1,100. GST payable of $100 is attributable to the first tax period.
+79. The consideration is decreased in her second tax period (ending on 30 June) by $110 because Eliza allows a discount to the recipient of the supply. This is an adjustment event for the supply.
+80. The corrected GST amount for her second tax period is worked out as follows:
+Original consideration
+$1,100
+PLUS the total effect on consideration of changes in circumstances that give rise to an increasing adjustment under:
+Division 21
+Division 19
+NIL
+NIL
+LESS the total effect on consideration of changes in circumstances that give rise to a decreasing adjustment under:
+Division 21
+Division 19
+NIL
+$110
+Adjusted consideration
+$990
+multiplying by 1/11 to give the corrected GST amount
+$90
+The previously attributed GST amount for a supply
+81. The previously attributed GST amount for a supply in relation to a tax period is:
+[29]
+•
+the amount of any GST that was attributable to a tax period for the supply; plus
+•
+the sum of any increasing adjustments under Subdivision 19-B or Division 21 that were previously attributable to any tax period for the supply; minus
+•
+the sum of any decreasing adjustments under Subdivision 19-B or Division 21 that were previously attributable to any tax period for the supply.
+82. The previously attributed GST amount does not take into account the effect of any adjustment events that occur in the current period for the supply.
+Example
+83. Using the example from paragraphs 78 to 80, Eliza's previously attributed GST amount is worked out as follows:
+GST attributed to the tax period ending 31 March 2001
+[30]
+$100
+PLUS the sum of all increasing adjustments under:
+Division 21
+Division 19 (except any Division 19 adjustments in the current period)
+[31]
+NIL
+NIL
+LESS the sum of all decreasing adjustments under:
+Division 21
+Division 19 (except any Division 19 adjustments in the current period)
+[32]
+NIL
+NIL
+previously attributed GST amount
+$100
+Working out the amount of the adjustment
+84. The amount of an adjustment is the difference between the previously attributed GST amount and the corrected GST amount. If the corrected GST amount is greater than the previously attributed GST amount, you will have not paid enough GST. Therefore you have an
+increasing adjustment
+. If the corrected GST amount is less than the previously attributed GST amount, you will have paid too much GST. Therefore you have a
+decreasing adjustment
+.
+[33]
+Example
+85. For Eliza's supply (continuing with the same example), the corrected GST amount ($90) is less than the previously attributed GST amount ($100). Therefore a decreasing adjustment has arisen. The amount of the adjustment is:
+$100 - $90 = $10.
+The final amount of GST Eliza should have accounted for with regard to the supply is:
+GST for the first tax period:
+$100
+LESS changes in the second tax period:
+under Division 21
+NIL
+under Division 19
+$10
+$90
+Alternative method for working out adjustments for wholly taxable supplies
+86. Where you have an adjustment event in relation to supplies that you make, provided they are wholly taxable supplies, the amount of the adjustment will be 1/11th of the amount of the change to the consideration or cancellation.
+87. If you have an adjustment for your wholly taxable supplies and you use this method to calculate the amount of that adjustment, the Commissioner will accept that you have correctly calculated your adjustment.
+Working out the amount of an adjustment for an adjustment event in respect of mixed supplies you make
+88. As a supplier, you may have an adjustment event that relates to both taxable supplies and other supplies you have made. An example of this is when you give a volume rebate or settlement discount to a customer in respect of all supplies made over a certain period. If the adjustment event relates to both taxable supplies and supplies that were either GST-free or input taxed, in order to work out the exact amount of the adjustment you will need to work out the proportion of the discount or rebate that relates to taxable supplies. One way to do this is to link the discount or rebate to the invoices for those particular supplies. By establishing that link, you may be able to access the information necessary to work out the correct adjustment.
+89. However, it may be difficult and/or costly to establish the proportion of the discount or rebate that relates to the taxable supplies and that proportion that relates to other supplies. For example, if your accounting or computer system is not able to readily retrieve this information, you may need to undertake an expensive manual exercise. If this is the case, you may make a reasonable estimate of the proportion of the discount or rebate that relates to the taxable supplies. We anticipate that, over time, computer and accounting systems will improve in relation to recording the information necessary to support the calculation of these types of adjustments.
+Example
+90. XYZ Pty Ltd gives a 2% volume rebate in respect of both taxable supplies and GST free supplies that it makes to Henry. The amount of the rebate is $1,100 and some of the supplies it relates to are GST free. XYZ's computerised accounting system is unable to link the rebate to the relevant invoices to work out the proportion of the rebate that relates to the taxable supplies. However, in the tax periods over which XYZ made those supplies to Henry, XYZ has ascertained that approximately 40% of them were taxable supplies and 60% of them were GST free supplies. Using this data, XYZ estimates that 40% of the rebate relates to taxable supplies. The amount of the adjustment is then:
+40% * $1,100 * 1/11 = $40
+Working out adjustments for acquisitions under Division 19
+91. An adjustment will arise, in relation to an acquisition, where an adjustment event has caused the previously attributed input tax credit amount to differ from the corrected input tax credit amount.
+[34]
+You need to work out the two amounts and then compare them to determine if an adjustment arises because of the adjustment event.
+The corrected input tax credit amount
+92. In working out the input tax credit for an acquisition in relation to a tax period:
+•
+you take into account:
+[35]
+-
+any input tax credit entitlement for the acquisition; and
+-
+any changes in circumstances that give rise to any adjustments under Subdivision 19-C, Division 21, Division 129 (about adjustments for changes in the extent of creditable purpose), Division 133 (about adjustments for providing additional consideration under gross-up clauses) or Division 134 (about adjustments for third party payments);
+•
+you do not take into account:
+-
+any annual increasing adjustment that you have made because Division 131
+[35A]
+applied to that acquisition. You treat the acquisition as though Division 131 did not apply.
+93. The corrected input tax credit amount reflects the input tax credit for the acquisition as at the end of the current period. You take into account any Subdivision 19-C, Division 21, Division 129, Division 133, or Division 134 adjustment, up to and including the current tax period. If you have made a Division 131 election, and the acquisition was one to which Division 131 applied, you do not take into account any increasing adjustment that you have already made because of that election and you treat the acquisition as though Division 131 had not applied for the purposes of working out the corrected input tax credit amount.
+Example - no annual private apportionment election
+94. In Thomas's first tax period (ending on 31 March 2001), he makes a creditable acquisition for $1,100. The extent of creditable purpose for the acquisition is 60%. Thomas has not made an annual apportionment election under Division 131. An input tax credit of $60 ($1,100 x 1/11 x 60%) is attributable to the first tax period.
+95. The consideration is decreased by $110 in his second tax period (ending on 30 June) because Thomas is allowed a discount. This is an adjustment event for the acquisition.
+96. The corrected input tax credit amount for the second tax period is worked out as follows:
+original consideration
+$1,100
+PLUS the total effect on consideration of changes in circumstances which give rise to decreasing adjustments under:
+Division 133
+Division 129
+Division 21
+Division 19
+NIL
+NIL
+NIL
+NIL
+LESS the total effect on consideration of changes in circumstances which give rise to increasing adjustments under:
+Division 134
+Division 129
+Division 21
+Division 19
+NIL
+NIL
+NIL
+$110
+Adjusted consideration
+$990
+Multiplying by 1/11
+$90
+Multiplying by 60% to give the corrected input tax credit amount
+$54
+Example - annual apportionment election
+96A. Joan has tax periods of 1 month. In Joan's tax period ending on 30 June 2005, she makes a creditable acquisition for $1,100. Joan had made an annual apportionment election under Division 131. The extent of creditable purpose for the acquisition is 60% and the extent of private use for the acquisition is 40%. As Joan has a Division 131 annual apportionment election in place she claims the full input tax credit of $100 in the tax period ending 30 June 2005.
+96B. Under Division 131 Joan is required to make an increasing adjustment of $40, that is, ($100 - ($100 ? 60%)) to account for her private use of the acquisition. Joan needs to make the increasing adjustment in her Business Activity Statement (BAS) that covers the last day on which her income tax return is due or she may choose to make the adjustment in a BAS for an earlier tax period. Joan chooses to make the increasing adjustment in her BAS for the tax period ending 31 July 2005.
+96C. In August, after making the annual increasing adjustment, Joan receives a rebate of $110 for the acquisition. This is a reduction in consideration and an adjustment event for the acquisition.
+96D. The corrected input tax credit amount for the tax period ending 31 August 2005 is the same as it would have been had the annual apportionment election not applied. This is because in working out the corrected input tax credit amount Joan does not take into account the increasing adjustment that she made under Division 131 and Joan treats the acquisition as though Division 131 did not apply:
+original consideration
+$1,100
+PLUS the total effect on consideration of changes in circumstances which give rise to decreasing adjustments under:
+Division 133
+Division 129
+Division 21
+Division 19
+NIL
+NIL
+NIL
+NIL
+LESS the total effect on consideration of changes in circumstances which give rise to increasing adjustments under:
+Division 134
+Division 129
+Division 21
+Division 19
+NIL
+NIL
+NIL
+$110
+Adjusted consideration
+$990
+Multiplying by 1/11
+$90
+Multiplying by 60% to give the corrected input tax credit amount
+$54
+The previously attributed input tax credit amount
+97. The previously attributed input tax credit amount for an acquisition in relation to a tax period is:
+[36]
+•
+the amount of any input tax credit entitlement for the acquisition; minus
+•
+the sum of any increasing adjustments under Subdivision 19 C or Division 21, 129, 131 or 134, that were previously attributable to a tax period in respect of the acquisition; plus
+•
+the sum of any decreasing adjustments under Subdivision 19-C, Division 21, 129 or 133, that were previously attributable to a tax period in respect of the acquisition.
+98. The previously attributed input tax credit amount does not take into account the effect of any adjustment events that occur in the current tax period for the acquisition.
+Example - no annual private apportion election - following on from paragraphs 94 to 96
+99. Continuing with the example from paragraph 94, Thomas's previously attributed input tax credit amount is worked out as follows:
+input tax credit attributed to any tax period
+[37]
+$60
+LESS the sum of all increasing adjustments under:
+Division 134
+Division 129
+Division 21
+Division 19 (except any Division 19 adjustments in the current period)
+[38]
+Division 131
+[38A]
+NIL
+NIL
+NIL
+NIL
+NIL
+PLUS the sum of all decreasing adjustments under:
+Division 129
+Division 21
+Division 19 (except any Division 19 adjustments in the current period)
+[39]
+NIL
+NIL
+NIL
+previously attributed input tax credit amount
+$60
+Example - annual apportionment election - following on from paragraphs 96A to 96D
+99A. As Joan has made an annual apportionment election and has made a Division 131 increasing adjustment with respect to the acquisition, the previously attributed input tax credit amount for Joan is worked out as follows:
+input tax credit attributed to any tax period
+[39A]
+$100
+LESS the sum of all increasing adjustments under
+Division 134
+Division 129
+Division 21
+Division 19 (except any Division 19 adjustments in the current period)
+[39B]
+Division 131
+[39C]
+NIL
+NIL
+NIL
+$40
+PLUS the sum of all decreasing adjustments under:
+Division 133
+Division 129
+Division 21
+Division 19 (except any Division 19 adjustments in the current period)
+[39D]
+NIL
+NIL
+NIL
+NIL
+previously attributed input tax credit amount
+$60
+Working out the amount of the adjustment
+100. The amount of an adjustment is the difference between the previously attributed input tax credit amount and the corrected input tax credit amount. If the corrected input tax credit amount is greater than the previously attributed input tax credit amount, you have not received enough input tax credit. Therefore you have a
+decreasing adjustment
+. If the corrected input tax credit amount is less than the previously attributed input tax credit amount, you have received too much input tax credit. Therefore you have an
+increasing adjustment
+.
+[40]
+Example - no annual private apportion election - following on from paragraphs 94 to 96 and 99
+101. Using the same example, Thomas's corrected input tax credit amount ($54) is less than the previously attributed input tax credit amount ($60). Therefore an increasing adjustment has arisen. The amount of the adjustment is:
+$60 - $54 = $6
+The final amount of credit Thomas should have accounted for is:
+input tax credit for the first period:
+$60
+LESS changes for tax period 2:
+under Division 21
+$NIL
+under Division 19
+$6
+$54
+Example - annual apportionment election - following on from paragraphs 96A to 96D and 99A
+101A. Joan's corrected input tax credit amount ($54) is less than the previously attributed input tax credit amount ($60). Therefore, Joan has an increasing adjustment. The amount of the adjustment is:
+$60 - $54 = $6
+The final amount of credit Joan should have accounted for is:
+Input tax credit for tax period 30 June 2005
+$100
+Less changes for:
+Division 131 in tax period 31 July 2005
+$40
+Division 19 in tax period 31 August 2005
+$6
+$54
+Alternative method for working out adjustments for wholly creditable acquisitions
+102. Where you have an adjustment event in relation to creditable acquisitions that you make and each of the acquisitions was:
+•
+wholly creditable; and
+•
+a wholly taxable supply to you;
+the amount of the adjustment will be 1/11th of the amount of the change to consideration or cancellation.
+103. If you have an adjustment for your wholly creditable acquisitions and you use this method to calculate the amount of that adjustment, the Commissioner will accept that you have correctly calculated your adjustment.
+103A. Division 131 does not apply to an acquisition that you make that is wholly for a creditable purpose as you are already entitled to claim the full input tax credit.
+Working out the amount of an adjustment for mixed use acquisitions
+104. As a recipient, you may have an adjustment event that relates to acquisitions that were not made solely for a creditable purpose. For instance, some of the acquisitions may have been acquired for a wholly or partly creditable purpose and some may have been acquired only for making input taxed supplies. An example of such an adjustment event is when you receive a volume rebate or a settlement discount from a supplier in respect of your acquisitions over a certain period. In such cases, to calculate the amount of the adjustment you will need to work out the extent of creditable purpose on the acquisitions to which the discount or rebate relates. As is the case with supplies, a way to do this is to link the rebate or discount to the tax invoices for those particular acquisitions. By doing this, you may be able to access the information that is essential to work out the correct adjustment.
+105. However, it may be difficult and/or costly to establish the extent of creditable purpose of the acquisitions to which the adjustment event relates. For example, if your accounting or computer system is not able to readily retrieve this information, you may need to undertake an expensive manual exercise. If this is the case, you may make a reasonable estimate of the extent of creditable purpose for the acquisitions to which the adjustment event relates. We anticipate that, over time, computer and accounting systems will improve in relation to recording the information necessary to support the calculation of these types of adjustments.
+Example
+106. Big Bank Ltd receives a 2% volume rebate from ABC Pty Ltd in respect of acquisitions of stationery it uses in enterprise. The amount of the rebate is $1,100 and all the supplies are taxable supplies to Big Bank. Some of the acquisitions to which the rebate relate were used for a wholly creditable purpose and some for a non-creditable purpose (i.e., for making input taxed supplies). Big Bank's accounting system cannot link the rebate to the relevant invoices to work out the proportion of the rebate that relates to the wholly creditable acquisitions. However, Big Bank has ascertained that over the period covered by the rebate, it has used the acquisitions of stationery for a creditable purpose to the extent of 25%. The amount of the adjustment is then:
+25% * $1,100 * 1/11 = $25
+106A. Division 131 does not apply to an acquisition that you make that is wholly for a creditable purpose or that is to any extent a reduced credit acquisition. It also does not apply to an acquisition to the extent that the acquisition relates to making input taxed supplies such as financial supplies.
+[40A]
+Definitions
+107. The following terms are defined for the purposes of this Ruling. Some of the terms are themselves defined in the GST Act.
+Creditable acquisition
+108. A creditable acquisition is an acquisition you use in your enterprise. You are entitled to an input tax credit for these acquisitions. You make a creditable acquisition if:
+(a)
+you acquire anything solely or partly for a creditable purpose; and
+(b)
+the supply of the thing to you is a taxable supply; and
+(c)
+you provide, or are liable to provide, consideration for the supply; and
+(d)
+you are registered, or required to be registered.
+[41]
+Creditable purpose
+109. You acquire a thing for a creditable purpose to the extent that you acquire it in carrying on your enterprise.
+[42]
+However, you do not acquire the thing for a creditable purpose to the extent that:
+(a)
+the acquisition relates to making supplies that would be input taxed; or
+(b)
+the acquisition is of a private or domestic nature.
+[43]
+110. An acquisition is not treated, for the purposes of paragraph (a) above, as relating to making supplies that would be input taxed to the extent that the supply is made through an enterprise, or part of an enterprise, that you carry on outside the indirect tax zone.
+[44]
+111. An acquisition is not treated, for the purposes of paragraph (a) above, as relating to making supplies that would be input taxed if:
+•
+the only reason it would (apart from subsection 11-15(4)) be so treated is because it relates to making financial supplies; and
+•
+you do not
+exceed the financial acquisitions threshold
+.
+[45]
+111A. An acquisition is not treated, for the purposes of paragraph (a) above, as relating to making supplies that would be input taxed to the extent that:
+•
+the acquisition relates to making a financial supply consisting of a borrowing (except, in the case of an acquisition made on or after 1 July 2012, a borrowing through a deposit account you make available); and
+•
+the borrowing relates to you making supplies that are not input taxed.
+[45A]
+Exceeding the financial acquisitions threshold
+112. Under Division 189, an entity exceeds the financial acquisitions threshold at a time in a particular month if, assuming that all the financial acquisitions
+[46]
+it has made, or is likely to make, during the 12 months ending at the end of that month, or during that month and the next 11 months, were made solely for a creditable purpose, either or both of the following would apply:
+(i)
+the amount of all the input tax credits to which the entity would be entitled for its financial acquisitions would exceed $150,000
+[46AA]
+or such other amount specified in the GST regulations; and
+(ii)
+the amount of the input tax credits to which the entity would be entitled for its financial acquisitions would be more than 10% of the total amount of the input tax credits to which the entity would be entitled for all its acquisitions and importations (including the financial acquisitions) during either of the periods referred to in this paragraph.
+[46A]
+GST-free supply
+113. GST-free supply means a supply that is GST-free under Division 38 or under a provision of another Act, or the supply of a right to receive such a GST-free supply.
+[47]
+Division 38 provides that exports and supplies of certain things such as food, health, education, child care, religious services and farm land are GST-free. If a supply is GST-free, you do not charge GST on the supply, but you are entitled to input tax credits for things acquired or imported to make the supply.
+[48]
+Input tax credit
+114. The term 'input tax credit' relates to the GST included in the price you pay for an acquisition or the GST paid on an importation. An entitlement arises under section 11-20 (about creditable acquisitions) or section 15-15 (about creditable importations).
+Taxable supply
+115. Taxable supply has the meaning given by sections 9-5 (the basic definition), 78-50 (about taxable supplies relating to insurance claims), 84-5 (about intangible supplies from offshore) and 105-5 (about supplies by creditors in satisfaction of debts).
+116. Section 9-5 provides that:
+'You make a taxable supply if:
+(a)
+you make the supply for consideration; and
+(b)
+the supply is made in the course or furtherance of an enterprise that you carry on; and
+(c)
+the supply is connected with the indirect tax zone; and
+(d)
+you are registered, or required to be registered.
+However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.'
+Detailed contents list
+117. Below is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+7
+Background
+8
+Ruling and explanations
+12
+What are adjustment events
+13
+Cancellation of a supply or an acquisition
+16
+Example
+17
+Changes in the consideration for a supply or an acquisition
+18
+Discounts
+20
+Tiered settlement discounts
+22
+Certainty of Discounts
+23
+Rebates
+24
+Incorrect invoicing
+25
+Incorrect deliveries
+27
+Example
+28
+Late payment charges
+29
+Example - interest charge
+31
+Example - flat charge
+32
+Interest on early payment
+33
+Charges for additional supplies (for example - hire)
+34
+Promotional, co
+-
+operative or advertising allowances
+35
+Foreign exchange gains or losses
+38
+Payments to third party end users
+40
+Example
+42
+Example
+42A
+Payments to third parties other than end users
+42B
+Payments arranged and administered by third parties
+43
+Example
+45
+Payments for returns of certain containers and packaging
+47
+Dishonoured cheques
+48
+Compromising or settling a debt
+50
+Endorsements to existing insurance policies
+51
+Short payments
+52
+Compensation - damaged goods (etc)
+53
+Ullage payments
+54
+Prepaid conditional loyalty payments e.g., prepaid volume rebates
+56
+Unconditional incentive payments
+58
+Example
+59
+Change in the extent of liability for the consideration
+60
+Example
+61
+Where a supply or an acquisition becomes, or stops being, a taxable supply or a creditable acquisition
+62
+Example
+63
+Changes in the use of an acquisition
+64
+Example
+66
+Changes in your registration status
+67
+Example
+69
+Errors or omissions
+70
+When an adjustment event results in an adjustment under Division 19
+72
+Interaction between Division 19 and Division 133
+74A
+Working out adjustments for supplies under Division 19
+75
+Working out adjustments for acquisitions under Division 19
+91
+The corrected input tax credit amount
+92
+Example
+94
+The previously attributed input tax credit amount
+97
+Example
+99
+Working out the amount of the adjustment
+100
+Example
+101
+Alternative method for working out adjustments for wholly creditable acquisitions
+102
+Working out the amount of an adjustment for mixed use acquisitions
+104
+Example
+106
+Definitions
+107
+Creditable acquisition
+108
+Creditable purpose
+109
+Exceeding the financial acquisitions threshold
+112
+GST-free supply
+113
+Input tax credit
+114
+Taxable supply
+115
+Detailed contents list
+117
+Commissioner of Taxation
+21 June 2000
+Footnotes
+[A1]
+[Omitted.]
+[1]
+Section 11-20.
+[2]
+Subsection 33-5(1).
+[3]
+Section 35-5. Division 3 of Part IIB of the Taxation Administration Act 1953 allows the Commissioner to apply the amount owing as a credit against tax debts that you owe to the Commonwealth.
+[3A]
+For tax periods starting on or after 1 July 2012, when you lodge your BAS, the Commissioner is treated as having made an assessment of your net amount worked out in accordance with the information provided in your BAS. For these tax periods, it is the assessed net amount that is payable to the Commissioner or refundable to you.
+[4]
+An adjustment event cannot occur for a taxable importation or creditable importation.
+[5]
+Subsection 19-10(1).
+[6]
+For a supply, paragraph 19-40(b); for an acquisition, paragraph 19-70(b).
+[7]
+Paragraph 19-10(1)(a).
+[8]
+Paragraph 19-10(2)(a).
+[9]
+Subsection 19-10(4).
+[10]
+Paragraph 19-10(1)(b).
+[11]
+Subsection 29-70(2).
+[12]
+[Omitted.]
+[13]
+For a discussion of these principles refer to Ballarat Brewing Co. v. FCT (1951) 82 CLR 364
+[14]
+Regulation 40-5.09 A New Tax System (Goods and Services Tax) Regulations 1999.
+[15]
+Section 40-5 and Regulation 40-5.09 A New Tax System (Goods and Services Tax) Regulations 1999.
+[16]
+Allowances of this nature are discussed in Colgate-Palmolive Pty Ltd v. FCT 99 ATC 4289; (1999) 41 ATR 357.
+[17]
+Refer to GSTR 2001/2 which explains how to convert amounts of consideration that are expressed in foreign currency into Australian currency for GST purposes.
+[17A]
+The contract is formed by way of the end user's acceptance of the manufacturer's standing offer to make the payment (
+Carlill v. The Carbolic Smoke Ball Company
+[1893] 1 QB 256).
+[17AA]
+The GST treatment of a cash back payment was considered in
+Electrical Goods Importer v Commissioner of Taxation
+[2009] AATA 854, 74 ATR 982.
+[17AB]
+In Goods and Services Tax Ruling GSTR 2006/9 Goods and services tax: supplies, see 'Proposition 12: transactions that are neither based in an agreement that binds the parties in some way nor involve a supply of goods, services, or some other thing, do not establish a supply'.
+[17B]
+A unilateral contract involves the offer of a promise in return for the performance of an act. See J.W. Carter and D.J. Harland,
+Contract Law in Australia
+, 4th Ed, Butterworths, 2002, paragraph 249.
+[17C]
+The payment is still made independently of the retailer. The retailer is only involved at an administrative level. It is the end user that is entitled to the payment pursuant to its agreement with the manufacturer. The payment from the manufacturer to the retailer is paid on behalf of the end user. The end user's liability under its contract with the retailer is $33,000.
+[17D]
+Similar arrangements are common in the motor vehicle industry. For more information about GST consequences of certain motor vehicle incentive payments see GSTR 2014/1
+[18]
+Division 21 deals with bad debts and is discussed in GSTR 2000/2
+[19]
+Subsection 11-30(3).
+[20]
+A joint venture is not an entity for GST purposes. Whether an arrangement between two or more parties is a joint venture will depend on the facts of each case. Refer to GSTR 2004/2 which explains what is a joint venture for GST purposes.
+[21]
+Paragraph 19-10(1)(c).
+[22]
+Refer subsection 129-5(1). Goods and Services Tax Ruling GSTR 2000/24 explains how to work out an adjustment for an acquisition or importation under Division 129.
+[23]
+Paragraph 11-5(a).
+[24]
+Paragraph 11-5(d).
+[25]
+Section 19-40.
+[26]
+Section 19-70.
+[26A]
+Section 133-10.
+[27]
+Paragraph 19-40(c).
+[28]
+Paragraph 19-40(c).
+[29]
+Section 19-45.
+[30]
+Paragraph 19-45(a).
+[31]
+Paragraph 19-45(b).
+[32]
+Paragraph 19-45(c).
+[33]
+Sections 19-50 and 19-55.
+[34]
+Paragraph 19-70(c).
+[35]
+Subsection 19-70(2).
+[35A]
+Division 131 is about annual apportionment of creditable purpose. You may make an annual apportionment election under Division 131 if you satisfy the eligibility requirements, which are set out in section 131-5 and are explained in the Fact Sheet GST and annual private apportionment (which can be accessed at www.ato.gov.au).
+[36]
+Section 19-75.
+[37]
+Paragraph 19-75(a).
+[38]
+Paragraph 19-75(b).
+[38A]
+You only need to consider this increasing adjustment if you have made an annual apportionment election and you have made an increasing adjustment under Division 131 to account for the private use component of the acquisition.
+[39]
+Paragraph 19-75(c).
+[39A]
+Paragraph 19-75(a).
+[39B]
+Paragraph 19-75(b).
+[39C]
+Joan reduces the input tax credit originally claimed to the extent that she later made an increasing adjustment of $40 under Division 131 to account for the private use of the acquisition.
+[39D]
+Paragraph 19-75(c).
+[40]
+Sections 19-80 and 19-85
+[40A]
+An acquisition, that would otherwise relate to making input taxed financial supplies, is not treated as relating to making input taxed financial supplies if you do not exceed the financial acquisitions threshold as explained in GSTR 2003/9.
+[41]
+Ssection 11-5.
+[42]
+Subsection 11-15(1).
+[43]
+Subsection 11-15(2).
+[44]
+Subsection 11-15(3).
+[45]
+Subsection 11-15(4). See also Division 189, which is about exceeding the financial acquisitions threshold.
+[45A]
+Subsection 11-15(5). Note that the term 'deposit account' is defined in section 195-1 to mean, subject to certain requirements, an account made available by an Australian ADI (within the meaning of the
+Corporations Act 2001
+) in the course of carrying on a banking business (within the meaning of the
+Banking Act 1959
+).
+[46]
+Section 189-15 defines 'financial acquisition' as 'an acquisition that relates to the making of a financial supply (other than a financial supply consisting of a borrowing)'.
+[46AA]
+Division 189 was amended to increase the first limb of the financial acquisitions threshold from $50,000 to $150,000. The amendment, effected by the
+Tax Laws Amendment (2011 Measures No. 9) Act 2012
+, applies for working out whether you exceed the financial acquisitions threshold at a time during July 2012 or a later month. The first limb of the financial acquisitions threshold remains at $50,000 when working out whether you exceed the financial acquisitions threshold at a time during a month before July 2012.
+[46A]
+For members of a GST group, the financial acquisitions threshold is calculated in accordance with subsections 189-5(2) and 189-10(2).
+[47]
+Subsection 9-30(1).
+[48]
+Section 38-1.
+Previously issued in draft form as GSTR 2000/D1
+References
+ATO references:
+NO  99/18224-5
+ISSN 1443-5160
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2000/2
+GSTR 2000/24
+GSTR 2001/2
+GSTR 2004/2
+GSTR 2006/9
+GSTR 2013/2
+GSTR 2014/1
+Subject References:
+acquisition
+acquisition mixed
+acquisition becoming, or ceasing to be, a creditable acquisition
+adjustment
+adjustment when it arises
+adjustment calculating the amount of
+adjustment event
+apportionment - multiple purpose payments or amounts
+changes in consideration
+changes in registration
+changes in extent of liability
+changes in use of an acquisition
+corrected GST amount
+corrected input tax credit amount
+decreasing adjustment
+discount
+errors
+foreign exchange gains or losses
+incorrect pricing or deliveries
+increasing adjustment
+interest on early payments
+interest penalties late payments
+late payment amounts
+late return penalties
+omissions
+previously attributed GST amount
+previously attributed input tax credit amount
+promotional, co-operative or advertising allowances
+rebate
+supply
+supply mixed cancellation or return
+supply becoming, or ceasing to be, a taxable supply
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A99 9-5
+ANTS(GST)A99 9-30(1)
+ANTS(GST)A99 9-85
+ANTS(GST)A99 11-5
+ANTS(GST)A 1999 11-5(a)
+ANTS(GST)A 1999 11-5(d)
+ANTS(GST)A 1999 11-15(1)
+ANTS(GST)A 1999 11-15(2)
+ANTS(GST)A 1999 11-15(3)
+ANTS(GST)A 1999 11-15(4)
+ANTS(GST)A 1999 11-15(5)
+ANTS(GST)A 1999 11-20
+ANTS(GST)A 1999 11-30(3)
+ANTS(GST)A 1999 15-10(4)
+ANTS(GST)A 1999 15-15
+ANTS(GST)A 1999 Division 19
+ANTS(GST)A 1999 19-10(1)
+ANTS(GST)A 1999 19-10(1)(a)
+ANTS(GST)A 1999 19-10(1)(b)
+ANTS(GST)A 1999 19-10(1)(c)
+ANTS(GST)A 1999 19-10(2)(a)
+ANTS(GST)A 1999 19-10(4)
+ANTS(GST)A 1999 Subdivision 19-B
+ANTS(GST)A 1999 19-40
+ANTS(GST)A 1999 19-40(b)
+ANTS(GST)A 1999 19-40(c)
+ANTS(GST)A 1999 19-45
+ANTS(GST)A 1999 19-45(a)
+ANTS(GST)A 1999 19-45(b)
+ANTS(GST)A 1999 19-45(c)
+ANTS(GST)A 1999 19-50
+ANTS(GST)A 1999 19-55
+ANTS(GST)A 1999 Subdivision 19-C
+ANTS(GST)A 1999 19-70
+ANTS(GST)A 1999 19-70(b)
+ANTS(GST)A 1999 19-70(c)
+ANTS(GST)A 1999 19-75
+ANTS(GST)A 1999 19-75(a)
+ANTS(GST)A 1999 19-75(b)
+ANTS(GST)A 1999 19-75(c)
+ANTS(GST)A 1999 19-80
+ANTS(GST)A 1999 19-85
+ANTS(GST)A 1999 29-70(2)
+ANTS(GST)A 1999 Division 21
+ANTS(GST)A 1999 Part 2-5
+ANTS(GST)A 1999 33-5(1)
+ANTS(GST)A 1999 35-5
+ANTS(GST)A 1999 38-1
+ANTS(GST)A 1999 40-5
+ANTS(GST)A 1999 Division 51
+ANTS(GST)A 1999 78-50
+ANTS(GST)A 1999 84-5
+ANTS(GST)A 1999 Division 99
+ANTS(GST)A 1999 105-5
+ANTS(GST)A 1999 Division 129
+ANTS(GST)A 1999 129-5(1)
+ANTS(GST)A 1999 Division 130
+ANTS(GST)A 1999 Division 131
+ANTS(GST)A 1999 Div 133
+ANTS(GST)A 1999 133-10
+ANTS(GST)A 1999 Div 134
+ANTS(GST)A 1999 134-5(1)(e)
+ANTS(GST)A 1999 Division 137
+ANTS(GST)A 1999 Division 138
+ANTS(GST)A 1999 Division 189
+ANTS(GST)A 1999 189-5(2)
+ANTS(GST)A 1999 189-10(2)
+ANTS(GST)A 1999 189-15
+ANTS(GST)R 1999 40-5.09
+TAA 1953 Div3 Pt11B
+TAA 1953 70
+TAA 1953 Sch 1 Div 358
+Banking Act 1959
+Corporations Act 2001
+Tax Laws Amendment (2011 Measures No. 9) Act 2012
+Case References:
+Colgate-Palmolive Pty Limited v. FC of T
+99 ATC 4289
+(1999) 41 ATR 357
+Ballarat Brewing Co. v. FCT
+(1951) 82 CLR 364
+Carlill v The Carbolic Smoke Ball Company
+[1893] 1 QB 256
+[1892] 2 QB 484
+Electrical Goods Importer v Commissioner of Taxation
+[2009] AATA 854
+74 ATR 982
+GSTR 2000/19 history
+Date:
+Version:
+Change:
+21 June 2000
+Original ruling
+17 December 2003
+Consolidated ruling
+Addendum
+13 September 2006
+Consolidated ruling
+Addendum
+21 September 2011
+Consolidated ruling
+Addendum
+7 December 2011
+Consolidated ruling
+Addendum
+31 October 2012
+Consolidated ruling
+Addendum
+11 December 2013
+Consolidated ruling
+Addendum
+1 October 2014
+Consolidated ruling
+Addendum
+You are here
+12 December 2018
+Consolidated ruling
+Addendum
+Back to top

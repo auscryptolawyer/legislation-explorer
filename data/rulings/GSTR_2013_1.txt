@@ -1,0 +1,1152 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 111
+  • Div 156
+  • Div 2
+  • Div 58
+  • Div 60
+  • Div 66
+  • Div 83
+  • Div 84
+  • Division 111
+  • Division 156
+  • Division 2
+  • Division 58
+  • Division 60
+  • Division 66
+  • Division 83
+  • Subdivision 153-A
+  • div 153
+  • div 155
+  • division 153
+
+Topics: GST, Trusts, Partnerships, Companies, International
+
+
+
+================================================================================
+
+GSTR 2013/1 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+132 related documents
+Goods and Services Tax Ruling
+GSTR 2013/1
+Goods and services tax: tax invoices
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+GSTR 2013/1EC
+.
+From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
+Treasury Legislation Amendment (Repeal Day) Act 2015
+.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+LEGALLY BINDING SECTION:
+What this Ruling is about
+1
+Ruling
+7
+Date of effect
+59
+NOT LEGALLY BINDING SECTION:
+Appendix 1:
+Explanation
+62
+Appendix 2:
+Waiver of tax invoice legislative instruments
+117
+Appendix 3:
+Detailed contents list
+119
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[Note:  This is a consolidated version of this document. Refer to the Legal Database
+(https://www.ato.gov.au/law)
+to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling sets out the information requirements for a tax invoice under subsection 29-70(1) of the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act).
+[1]
+It also explains when a document is in the approved form for a tax invoice.
+2. In particular, the Ruling:
+•
+examines the circumstances under subsection 29-70(1A) when a recipient of a document for a supply can treat that document as a tax invoice even though it does not meet all of the tax invoice requirements;
+•
+explains subsection 29-70(1B), which allows the Commissioner to treat a particular document as a tax invoice even though that document does not meet all of the tax invoice requirements; and
+•
+states the circumstances in which a supplier need not issue a tax invoice, and where an input tax credit is attributable to a tax period even if the recipient does not hold a tax invoice, including where the threshold for low value transactions under subsection 29-80(1) applies.
+3. This Ruling does not consider in detail the operation of subsection 29-10(3). However, it does include a summary of the circumstances where the Commissioner has determined under subsection 29-10(3) that an input tax credit is attributable to a tax period without the recipient being required to hold a tax invoice. The summary is included at Appendix 2 of this Ruling.
+4. This Ruling also does not consider in detail special rules in the GST Act that may be relevant to tax invoices, including those concerning agents, insurance brokers, GST groups and GST branches. However, so as to provide additional context, these rules are referred to in the Explanation.
+Background
+5. The requirement to issue a tax invoice is a key component of the integrity of the GST system. It forms an essential part of the audit trail and is an important indicator that a taxable supply has been made. For this reason, subject to specific exceptions, a recipient is required to hold a tax invoice that explains an input tax credit for a creditable acquisition that is attributable to a tax period.
+[2]
+It is therefore important that a tax invoice contain the required information
+[3]
+and is issued in a timely manner.
+[4]
+6. A tax invoice as defined in section 195-1 is a document that complies with the requirements of subsections 29-70(1) and 48-57(1) (if applicable), and includes a document that the Commissioner treats as a tax invoice under subsection 29-70(1B). However, it does not include a document that does not, pursuant to section 54-50, set out the GST branch registration number for taxable supplies made through a GST branch (if applicable).
+Ruling
+Approved Form
+7. A document is in the approved form for a tax invoice if it includes the information required by subsection 29-70(1) and otherwise meets the requirements of that subsection.
+[5]
+This is subject to subsections 48-57(1) and 54-50(1) in relation to GST groups and GST branches respectively.
+[6]
+8. Paragraphs 41 to 43 of Goods and Services Tax Ruling GSTR 2001/2
+Goods and services tax
+:
+foreign exchange conversions
+and paragraphs 55 to 59 of Goods and Services Tax Ruling GSTR 2003/14
+Goods and services tax
+:
+the GST implications of transactions between members of a barter scheme conducted by a trade exchange
+provide additional approved form requirements for tax invoices where the consideration for the taxable supply is expressed in a foreign currency, or in barter credits, respectively.
+9. Details of more than one supply may be shown on a tax invoice. If a document includes references to multiple supplies (for example, a monthly statement) and does not meet the requirements of subsection 29-70(1) for a particular supply or supplies, it remains a tax invoice in the approved form for all other supplies on the document for which the requirements are met.
+Combined tax invoice and recipient created tax invoice
+10. In certain circumstances, a recipient may issue a document that is both a recipient created tax invoice
+[7]
+and a tax invoice. Generally, this occurs where the recipient of a supply also makes a supply to the entity that made the initial supply. An example is a supply of sugar cane by a cane farmer to a sugar mill and the supply of services (analysis and testing of the sugar) by the sugar mill.
+11. A tax invoice for both supplies combined on the one document will be in the approved form.
+[8]
+Tax invoices in electronic form
+12. A document in electronic form that meets the requirements of subsection 29-70(1) (and if applicable, subsections 48-57(1) and 54-50(1)), will be in the approved form for a tax invoice.
+[9]
+Clearly ascertained
+13. Paragraph 29-70(1)(c) requires that the particular information in subparagraphs (i) to (viii) is able to be clearly ascertained from the information in the document. This means that the information does not have to be specifically stated or in a particular format. What is required is that the information can be found in the document or determined from information within the document. It further means that to be clearly ascertained, enough information must be present and it must be clear what the information represents.
+14. If the information required by subparagraphs 29-70(1)(c)(i) to (viii) can only be determined by reference to another external source (such as the Australian Business Register (ABR)) or another document, then that information cannot be clearly ascertained from the information contained in that document as required by the opening words of paragraph 29-70(1)(c).
+[10]
+15. One piece of information may be sufficient to satisfy more than one requirement in subparagraphs 29-70(1)(c)(i) to (viii).
+For recipient created tax invoices - a statement that the GST is payable by the supplier
+16. If the document is a recipient created tax invoice and there is an amount of GST payable, it must be clear from the document that the GST is payable by the supplier.
+[11]
+For example, the document could include a statement to the effect that:
+The GST payable of $xx.xx is payable by the supplier.
+Document intended to be a tax invoice or recipient created tax invoice
+17. It must be clear from the document that it was intended to be a tax invoice or recipient created tax invoice.
+[12]
+This is an objective test that must be satisfied by reference to that document.
+18. This requirement may be satisfied by including the words 'Tax Invoice'; 'GST Invoice'; 'Recipient Created Tax Invoice'; 'Tax Invoice Issued by the Recipient' or 'Recipient Created GST Invoice' in the heading of the document. A statement in the body of the document could also make the intention clear.
+19. If it is unclear from the document that it was intended to be a tax invoice, the recipient may be able to treat the document as a tax invoice under subsection 29-70(1A) by using other documents to evidence that intention. This is discussed at paragraphs 42 to 50 of this Ruling.
+Documents headed 'tax invoice' for supplies that are not taxable
+20. A tax invoice cannot include words that indicate that the price of what is supplied is inclusive of GST to the extent the supply is not a taxable supply. However, a supplier may issue a document headed 'tax invoice' for a supply that is not a taxable supply if it shows that the price of the supply does not include GST. For example, the supplier could include a statement on the document that the price of the supply does not include GST or show the GST as nil or zero. Alternatively, the supplier could cross out the words 'Tax Invoice' or the word 'Tax'.
+Identity of the supplier or recipient
+21. A tax invoice must include information to establish the identity of the supplier, and the recipient where applicable.
+[13]
+Information sufficient to identify the supplier or recipient includes, but is not limited to, the legal name of the entity or the registered business name.
+22. A builder's registration number or licence number is insufficient in itself to identify the supplier, or where applicable the recipient.
+23. In the case where the supplier or the recipient is a trust, the identity of the trust must be clearly ascertainable from the document. Information sufficient to identify the trust includes, but is not limited to, a registered business name
+[14]
+under which the trust's enterprise is carried on. In some cases, the identity of the trust may be clearly ascertainable if the trustee's name is included on the tax invoice. The Australian business number (ABN) issued to the trust must also be clearly ascertainable from the document.
+24. Where a member of a GST group makes a taxable supply, the identity of that member must be clearly ascertainable from the document. Where the recipient is a member of a GST group, the requirement that the recipient's identity be clearly ascertainable will be satisfied if the document contains sufficient information to clearly show the identity of:
+•
+the recipient;
+•
+the GST group;
+•
+the representative member; or
+•
+another member of the GST group (if the representative member would still have been entitled to an input tax credit if that other member had been the recipient of the supply).
+[15]
+Example 1 - GST groups
+25.
+A supplier issues a document intended as a tax invoice to a recipient that is a member of a GST group. The document complies with all of the tax invoice requirements other than that it does not include the supplier's ABN
+;
+and it only includes the identity of the representative member of the GST group as the recipient (and does not include the ABN of either the representative member or the recipient member
+).
+26.
+The supplier's ABN is included on another document issued by the supplier to the recipient and so, under subsection 29-70(1A
+),
+the recipient could treat the document as a tax invoice but for the fact that it identifies the representative member of the GST group, rather than the recipient. However, the further rule in subsection 48-57(1) allows the document to be treated as a tax invoice as it identifies the representative member of the GST group to which the recipient belongs
+.
+27. Where the supply or acquisition is made by a representative of an incapacitated entity in its capacity as the representative, the supplier or the recipient in most cases
+[16]
+is the incapacitated entity. Therefore the identity of the incapacitated entity must be clearly ascertainable from the document.
+What is supplied
+28. A tax invoice must contain sufficient information to identify the thing or things supplied, including the quantity supplied.
+[17]
+This means that a description of the thing or things supplied and the amount supplied can be clearly ascertained from the document.
+The price of what is supplied
+29. A tax invoice must contain enough information to enable the price of what is supplied to be clearly ascertained.
+[18]
+Retention payments
+30. If a supply is made under a contract where the recipient has retained part of the contract price pending full and satisfactory performance of the contract, or until the end of a defects liability period, the price of what is supplied is the total consideration payable including the retention amount. The tax invoice must contain enough information to enable the total price of this supply to be clearly ascertained. However, the tax invoice can also show the net amount payable while still satisfying this requirement. For example, the tax invoice may set out the price of what is supplied, separately show the retention amount, and show a net amount payable.
+Showing the price for each line on a tax invoice
+31. Where a tax invoice shows multiple categories of items supplied as taxable supplies, that are identified separately (for example on a 'multiple-line' basis), the price for each item that is supplied as a taxable supply does not have to be shown. Only the price for each category of taxable supplies (for example, each line of taxable supplies on the tax invoice) need be shown.
+Example 2- description and price of what is supplied
+32.
+A stationery store sells 20 pens, 10 boxes of staples and 4 staplers to Jim, who requests a tax invoice. The tax invoice may show these items as
+:
+20 pens
+20.00
+10 boxes of staples
+10.00
+4 staplers
+140.00
+GST
+17.00
+Total price
+$187.00
+Each item supplied is fully taxable.
+33.
+Alternatively, the tax invoice may show these items as
+:
+Unit price
+(including GST)
+*
+20 pens
+@ $
+1.10
+*
+10 boxes of staples
+@ $
+1.10
+*
+4 staplers
+@ $38.50
+Total price
+$187.00
+(*
+fully taxable supplies
+)
+34. The alternative shows the quantity and unit price from which the price for each taxable supply can be determined. Additionally, it is clear that each item supplied is fully taxable and the GST payable can be determined. These examples are illustrative. They are not exhaustive and there may be other ways to structure the format of tax invoices. As long as a document meets the requirements of subsections 29-70(1), 48-57(1) and 54-50(1), it will be a tax invoice regardless of how it is structured.
+35. A tax invoice that relates to a number of separate taxable supplies made during a period must include enough information to determine the price of each supply.
+[19]
+For example, a monthly statement showing a number of supplies made to a customer during the month must show the price for each supply.
+The extent to which each supply is a taxable supply
+36. A tax invoice must contain enough information to determine the extent to which a supply is a taxable supply.
+[20]
+Some ways in which this requirement will be satisfied include but are not limited to:
+•
+showing the amount of GST payable for each taxable supply
+[21]
+- for example, if the unit price is $20 excluding GST and the GST is shown as $2, it can be ascertained that the supply is a fully taxable supply; or
+•
+a statement of the extent to which the supply is a taxable supply; or
+•
+a reference mark
+[22]
+that denotes each taxable supply with a corresponding statement of the extent to which the supply is a taxable supply.
+Mixed supplies
+37. A document for a supply that has separately identifiable taxable and non-taxable parts (a mixed supply)
+[23]
+will meet the above requirement if the extent to which the mixed supply is a taxable supply can be found in or determined from information within the document. It does not matter that this information is not specifically stated or in a particular format.
+38. If a transaction consists of a combination of fully taxable supplies and mixed supplies, the extent to which the supplies are mixed (and the extent to which those mixed supplies are taxable) and the extent to which they are fully taxable can be determined from a document where, for example, it:
+•
+denotes the supplies that are fully taxable with a reference mark;
+•
+denotes the supplies that are mixed supplies with a reference mark and the extent to which those supplies are taxable can be found or determined from information within the document;
+•
+shows the price of each supply; and
+•
+shows the total amount of GST payable.
+Example 3 - extent to which a mixed supply and other supplies in a transaction are taxable
+39.
+In a single transaction, Frank purchases petrol, a newspaper, milk, and a mixed supply consisting of a bottle of water with a chocolate bar from a petrol station. Frank requests and receives a tax invoice showing these items as follows
+.
+Item
+Price ($)
+# Petrol
+77.00
+# Newspaper
+1.10
+Milk
+3.00
+# Water & chocolate
+4.20
+85.30
+Total GST $7.30
+# - indicates items that are taxable supplies
+40. In the above example, the GST payable and the extent to which each supply is a taxable supply can be ascertained from the document as follows.
+Item
+Price ($)
+GST ($)
+# Petrol
+77.00
+7.00
+# Newspaper
+1.10
+0.10
+Milk
+3.00
+0.00
+# Water & chocolate
+4.20
+0.20
+Totals
+85.30
+7.30
+The GST of $0.20 for the mixed supply can be worked out by deducting from the total GST ($7.30) the GST on the other denoted taxable supplies ($7.10). If the GST for the mixed supply is $0.20, the price of the taxable component must be $2.20 and the non-taxable component $2.00.
+41. The extent to which each supply is a taxable supply could also be ascertained where the document shows the other supplies and the parts of the mixed supply separately. For instance, using the same facts as the previous example, the tax invoice may show the items as follows.
+Item
+Price ($)
+# Petrol
+77.00
+# Newspaper
+1.10
+Milk
+3.00
+Bottle of water
+2.00
+# Chocolate
+2.20
+85.30
+Total GST $7.30
+# - indicates
+items that are taxable supplies
+When a recipient can treat a document as a tax invoice
+42. A document issued by the supplier that does not meet all of the tax invoice requirements may be treated by the recipient as a tax invoice if:
+•
+it would be a tax invoice but for the missing information; and
+•
+all of that missing information can be clearly ascertained from other documents given to the recipient by the supplier.
+[24]
+43. Particular information is missing if the document does not contain the required information for the document to be a tax invoice. This will occur if either:
+•
+there is no information regarding the relevant particular; or
+•
+the document contains information about the particular but that information is incomplete or incorrect, for example, if it contains a transposition error in the ABN then the ABN is missing information as the document does not contain the correct ABN.
+Example 4 - missing information
+44.
+XYZ Pty Ltd has a document (the first document) that would satisfy the tax invoice requirements but for the fact that the ABN has a transposition error and the extent to which the supplies are taxable supplies is not clear. XYZ Pty Ltd also has a second document issued by the supplier that relates to the supplies on the first document. The second document shows the supplier's correct ABN and also makes clear the extent to which each supply on the first document is a taxable supply. XYZ Pty Ltd treats the first document as a tax invoice under subsection 29-70(1A) given the missing information is contained in the second document issued by the supplier
+.
+45. A part number or code may not be sufficient to identify what has been supplied and a document that purports to identify what is supplied in that way is not a tax invoice. However, if the recipient has a second document which identifies what is supplied, the recipient may be able to treat the first document as a tax invoice under subsection 29-70(1A).
+[25]
+46. There is no requirement for these other documents to have been intended to be a tax invoice. Other documents can include, for example, a supplier's product list, a business card, an email from the supplier or an earlier tax invoice.
+47. If an agent receives a document that does not meet all of the requirements of a tax invoice for an acquisition made by a principal, the principal (recipient) may treat the document as a tax invoice if the information is contained in other documents provided to either the agent, or the principal, by the supplier.
+48. Similarly, when a recipient receives a document that does not meet all of the requirements of a tax invoice for a supply made by a principal through an agent, if the information is contained in other documents provided to the recipient by the agent or the principal (supplier), the recipient may treat the document as a tax invoice.
+[26]
+49. It is the choice of the recipient whether to treat a document as a tax invoice as it is one of a number of options available to the recipient. If a recipient chooses not to treat a document as a tax invoice under subsection 29-70(1A), the recipient may instead:
+•
+request the supplier to issue a document that complies with the requirements for a tax invoice; or
+•
+request that the Commissioner exercise the discretion under subsection 29-70(1B) to treat the document as a tax invoice.
+[27]
+50. However, a recipient cannot treat a document that does not meet the recipient created tax invoice requirements as a tax invoice by relying on other documents. Subsection 29-70(1A) only allows the entity that receives a document to treat it as a tax invoice and, in the case of a recipient created tax invoice, it is the supplier that receives the document.
+Circumstances in which the Commissioner may exercise the discretion to treat a document as a tax invoice
+51. The Commissioner has the discretion to treat a document that does not satisfy the tax invoice requirements as a tax invoice.
+[28]
+This discretion can also be used to treat a document that does not meet the requirements for a recipient created tax invoice as a tax invoice. The Commissioner will exercise this discretion on a case by case basis.
+52. There are a number of factors that the Commissioner will consider in the exercise of this discretion which are explained in Law Administration Practice Statement PS LA 2004/11
+Treating a document as a tax invoice or adjustment note
+. These factors are not exhaustive and there may be other circumstances that are relevant in a particular case.
+53. When the Commissioner exercises the discretion to treat a document as a tax invoice, that document is a tax invoice as defined in section 195-1. This treatment applies for the purposes of both the supplier and recipient. The document for which the discretion has been exercised is treated as a tax invoice for the taxable supply from the date it was created.
+54. However, this does not mean that the supplier had, before the exercise of the discretion, complied with their obligation to issue a tax invoice within the required time.
+Correcting errors on a tax invoice
+55. A document issued for a supply may not meet all of the requirements for a tax invoice because of an error or omission made by the supplier. For example, the document contains transposition errors in the legal name or ABN, shows an incorrect price, or does not include an ABN or the date of issue of the document. When the supplier becomes aware the document issued does not meet the requirements for a tax invoice they can cancel and reissue the document for the supply. In these circumstances, the replacement document showing the required information is the tax invoice for the supply.
+56. If, however, the Commissioner has exercised the discretion under subsection 29-70(1B) to treat a document that did not meet the requirements for a tax invoice as a tax invoice, a supplier does not have to reissue a document or issue another document that meets the requirements for a tax invoice. A document for which the discretion has been exercised is a tax invoice as defined in section 195-1 for the purposes of both the supplier and the recipient.
+57. Further, a supplier need not reissue a document for a taxable supply where an adjustment event gives rise to an adjustment to the GST attributed to a previous tax period. In these circumstances, the supplier may have to issue an adjustment note to the recipient.
+[29]
+If the adjustment event occurs in the same tax period as the GST was attributed, there is no adjustment, and no requirement for the supplier to issue an adjustment note.
+[30]
+However, a supplier may choose to issue a corrected tax invoice or to issue an adjustment note or other document for the adjustment event even though they are not required to do so.
+Low value taxable supplies
+58. A supplier is not required to issue a tax invoice and a recipient can claim an input tax credit without a tax invoice if the value of the taxable supply is $75 or less.
+[31]
+For the purposes of the low-value threshold for tax invoices in subsection 29-80(1), where multiple taxable supplies are made in a single transaction, the threshold should be applied to the aggregate value of those taxable supplies.
+Date of effect
+59. This Ruling applies on and from 1 July 2010. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10
+Public Rulings
+).
+60. Goods and Services Tax Ruling GSTR 2000/17
+Goods and services tax: tax invoices
+was withdrawn on and from 25 May 2011. That Ruling specifically stated the particular situations in which the Commissioner would exercise a discretion under former section 29-70(1) to treat a document that did not meet the requirements for a tax invoice as a tax invoice.
+61. This Ruling does not continue the previous exercise of discretion under former section 29-70(1). The situations previously addressed in GSTR 2000/17 are now the subject of legislative instruments under subsection 29-10(3) that waive the requirement in particular circumstances for a recipient to hold a tax invoice when attributing an input tax credit to a tax period. These instruments have a date of effect as specified in each particular legislative instrument.
+Commissioner of Taxation
+27 March 2013
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Overview
+62. A key feature of the GST system is that GST is ultimately borne by end consumers. To ensure this occurs and to avoid cascading tax, input tax credits are generally available to recipients of taxable supplies in business to business transactions. This means that the recipient needs to know the treatment adopted by a supplier for a supply, and the Commissioner needs to be able to reconcile the recipient's input tax credit with the GST payable by the supplier. This is achieved by issuing a tax invoice. A tax invoice must contain the information about a taxable supply as required by the GST Act. These requirements are explained at paragraphs 76 to 81 of this Ruling.
+63. A supplier must provide a tax invoice within 28 days after being requested to do so by the recipient.
+[32]
+Further, an input tax credit for a creditable acquisition generally is not attributed to a tax period until the recipient holds a tax invoice for the acquisition.
+[33]
+64. However, there are circumstances in which it is not necessary for the supplier to give a tax invoice and circumstances in which an input tax credit is attributable to a tax period without the recipient being required to hold a tax invoice for a creditable acquisition. These circumstances are explained at paragraphs 69 to 71 of this Ruling.
+65. Where a recipient receives a document that purports to be a tax invoice but does not meet all of the requirements for a tax invoice, the recipient can treat the document as a tax invoice if the missing information can be clearly ascertained from another document given by the supplier. This treatment under subsection 29-70(1A) is further explained at paragraphs 42 to 50 of this Ruling.
+66. Alternatively, the recipient could make a request for the Commissioner to treat the document as a tax invoice under subsection 29-70(1B).
+An invoice in comparison to a tax invoice
+67. An invoice is a document notifying an obligation to make a payment,
+[34]
+whereas a tax invoice is a document that contains the information about a taxable supply required by the GST Act. This information may not always appear on an invoice.
+68. A document does not have to be created for the sole purpose of satisfying the tax invoice requirements. A single document can be both an invoice and a tax invoice.
+[35]
+Further, commercial documents such as lease agreements and contracts are tax invoices if they meet the requirements set out in the GST Act for tax invoices.
+[36]
+Circumstances in which a tax invoice is not required
+69. In certain circumstances, a supplier is not required to issue a tax invoice for a taxable supply, or a recipient of a taxable supply does not need to hold a tax invoice for a creditable acquisition when they give their GST return
+[37]
+for a tax period to which an input tax credit for the acquisition is otherwise attributable. A recipient must, however, have records to explain its entitlement to an input tax credit for a creditable acquisition.
+[38]
+70. Circumstances in which a supplier does not need to issue a tax invoice for a taxable supply include:
+•
+the value of the taxable supply is $75 or less, or such higher amount as the regulations specify;
+[39]
+•
+the recipient issues a recipient created tax invoice;
+[40]
+•
+the supplier makes a supply through an agent and the agent issues the tax invoice;
+[41]
+•
+the GST is reverse charged under Division 83;
+[41A]
+•
+the supplier makes a supply that is solely an inbound intangible consumer supply;
+[41B]
+•
+the supplier makes a supply that is a supplier taxed offshore supply of low value goods;
+[41C]
+or
+•
+the taxable supply is solely a supply of real property under the margin scheme
+[42]
+or solely a gambling supply.
+[43]
+71. Circumstances in which a recipient does not need to hold a tax invoice to attribute an input tax credit for a creditable acquisition include:
+•
+the value of the taxable supply is $75 or less, or such higher amount as the regulations specify;
+[44]
+•
+the GST is reverse charged, for example, under Division 83;
+[45]
+•
+the GST on the taxable supply is payable by the recipient because of section 15C of the
+A New Tax System (Goods and Services Tax Transition) Act 1999
+(GST Transition Act);
+[46]
+•
+a legislative instrument under subsection 29-10(3) applies to the recipient's circumstances (these are summarised at Appendix 2 of this Ruling); or
+•
+a recipient is entitled to an input tax credit for second hand goods acquired for the purposes of sale or exchange in accordance with Division 66.
+Also, an importer that is entitled to an input tax credit for a creditable importation is not required to hold a tax invoice.
+[47]
+Requirements for a tax invoice and recipient created tax invoice
+Tax invoice
+72. A tax invoice is a document that complies with the following requirements:
+•
+it is issued by the supplier of the supply or supplies to which the document relates (paragraph 29-70(1)(a));
+•
+it is in the approved form (paragraph 29-70(1)(b));
+•
+it contains enough information to enable the following to be clearly ascertained:
+-
+the identity and ABN of the supplier (subparagraph 29-70(1)(c)(i));
+-
+the identity or ABN of the recipient if the total price of the supply or supplies is at least $1,000, or such higher amount as the regulations specify (subparagraph 29-70(1)(c)(ii));
+-
+what is supplied, including the quantity (if applicable) and the price (subparagraph 29-70(1)(c)(iii));
+-
+the extent to which each supply included on the document is a taxable supply (subparagraph 29-70(1)(c)(iv));
+-
+the date the document is issued (subparagraph 29-70(1)(c)(v));
+-
+the amount of GST (if any) payable in relation to each supply included on the document (subparagraph 29-70(1)(c)(vi)); and
+-
+such other matters as the regulations specify (subparagraph 29-70(1)(c)(viii));
+[48]
+•
+it can be clearly ascertained from the document that the document was intended to be a tax invoice (paragraph 29-70(1)(d)); and
+•
+it sets out the GST branch registration number of the GST branch (if applicable) (subsection 54-50(1)).
+Recipient created tax invoice
+73. A recipient created tax invoice
+[49]
+is a document that must also comply with the above requirements although with the following additions or differences:
+•
+it must be issued by the recipient of the supply or supplies to which the document relates (paragraph 29-70(1)(a));
+•
+it must contain enough information to enable the following to be clearly ascertained from the document:
+-
+the identity or ABN of the recipient (subparagraph 29-70(1)(c)(ii));
+-
+if GST is payable in relation to any supply - that the GST is payable by the supplier (subparagraph 29-70(1)(c)(vii)); and
+-
+such other matters as the regulations specify that relate to recipient created tax invoices (subparagraph 29-70(1)(c)(viii));
+[50]
+•
+it can be clearly ascertained from the document that it was intended to be a recipient created tax invoice (paragraph 29-70(1)(d)); and
+•
+it complies with any of the requirements under the relevant legislative determination that permits the recipient to issue the tax invoices (subsection 29-70(3)).
+Tax invoices in electronic form
+74. A tax invoice may be issued in electronic form, for example, by Electronic Data Interchange. Section 2B of the
+Acts Interpretation Act 1901
+defines 'document' as any record of information.
+75. A document in electronic form that meets the requirements of subsection 29-70(1) (and if applicable, subsections 48-57(1) and 54-50(1)) will be in the approved form for a tax invoice.
+Clearly ascertained
+76. Paragraph 29-70(1)(c) requires that particular information in subparagraphs (i) to (viii) inclusive be able to be clearly ascertained from the information contained in the document for the document to be a tax invoice. This means that provided the particular information can be found in the document or determined from information within the document, it does not matter that it is not specifically stated or in a particular format. To be clearly ascertainable, enough information must be present, and it must be clear what the information represents.
+77. One piece of information may also be sufficient to satisfy more than one requirement in subparagraphs 29-70(1)(c)(i) to (viii). For example, the supplier's identity
+[51]
+and what is supplied
+[52]
+are requirements. If the description of what is supplied makes clear the supplier's identity, as might be the case when a new club membership is issued, it is not necessary for the document to separately state the supplier's identity.
+[53]
+78. However, information cannot be clearly ascertained from the document if it can only be determined by reference to another document or other external source. For example, providing the supplier's ABN is a requirement.
+[54]
+If the supplier does not include their ABN but includes sufficient details on the document so that the ABN could be determined by looking up the entity on the ABR, the ABN requirement is not satisfied as the ABN cannot be ascertained from the document.
+[55]
+It can only be ascertained from the document
+and
+some other source. In this case, the recipient could:
+•
+request the supplier to issue a document that complies with the tax invoice requirements; or
+•
+treat the document as a tax invoice by relying on another document issued by the supplier which shows the supplier's ABN (see paragraphs 42 to 50 of this Ruling); or
+•
+request the Commissioner to exercise the discretion under subsection 29-70(1B) to treat the document as a tax invoice (see paragraph 51 to 54 of this Ruling).
+The price of what is supplied
+79. A tax invoice must contain enough information to enable the price of what is supplied to be clearly ascertained.
+[56]
+This requirement could, for example, be satisfied by stating a unit price and the number of units supplied as from this information the price for the supply can be clearly ascertained (see Example 2 at paragraphs 32 to 33 of this Ruling).
+[57]
+Retention payments
+80. In certain industries such as the building industry, contracts may provide for the recipient to withhold part of the contract price pending full and satisfactory performance of the contract or until the end of the defects liability period. As a result of the delay in payment of these retention amounts the Commissioner has made a determination under section 29-25.
+[58]
+The effect of the determination is to defer attribution of the GST payable and the input tax credit for the GST component of retention amounts until they are paid.
+81. Although attribution of GST payable and input tax credits will be delayed for that part of the contract price retained, the price of what is supplied is the total price payable including the retention amount. For the input tax credit to be attributable to the extent of the amount paid, the recipient must hold a tax invoice from which the total price of what is supplied can be clearly ascertained.
+[59]
+The supplier can satisfy this requirement and still have the document show the net amount payable. For example, the document may set out the price of what is supplied, separately show the retention amount, and show a net amount payable.
+Circumstances in which the Commissioner may exercise the discretion to treat a document as a tax invoice
+82. There may be situations where a document relevant to a taxable supply does not meet all the tax invoice requirements of subsection 29-70(1). In these situations, the requirement for the recipient to hold a tax invoice may impose a disproportionate burden on a supplier or recipient, particularly if that document substantially complies with the requirements. The Commissioner has the discretion in subsection 29-70(1B) to treat a document as a tax invoice in these situations.
+[60]
+The Commissioner will exercise the discretion on a case by case basis, depending on the circumstances.
+83. When considering the discretion, the Commissioner's officers are required to follow Law Administration Practice Statement PS LA 2004/11
+The Commissioner's discretions to treat a particular document as a tax invoice or adjustment note
+.
+Review rights if the Commissioner does not exercise the discretion
+84. The recipient may object under Part IVC of the TAA 1953 against an assessment that excludes an input tax credit as a result of the decision not to exercise the discretion.
+[61]
+Where the Commissioner disallows the objection, the recipient can, under Part IVC of the TAA 1953, apply to the Administrative Appeals Tribunal (including the Small Taxation Claims Tribunal, if eligible) for a review of the objection decision or appeal to the Federal Court against the objection decision.
+85. [Omitted].
+Changes to the price in the same tax period that the GST or input tax credit is attributed
+86. An adjustment event
+[64]
+may occur in the same tax period in which the GST on the supply or input tax credit on the acquisition was attributable. In these situations, there will be no adjustment arising from the adjustment event as no GST or input tax credit would be attributed to an earlier tax period.
+[65]
+87. From the perspective of the recipient, if the adjustment event changes the price for the supply, the document would now have an incorrect price, and an input tax credit for a creditable acquisition cannot be attributed to that tax period. This is because the document held by the recipient at the time of lodging its GST return would not meet the requirement for a tax invoice to have enough information to clearly ascertain the price of the supply.
+[66]
+However, if the supplier provides a subsequent document to the recipient that contains the price of the supply after the adjustment event, the recipient may treat the initial document issued by the supplier as a tax invoice under subsection 29-70(1A). In that instance, the input tax credit is attributable to the tax period in which the subsequent document was provided to the recipient. The subsequent document by itself may also meet all the requirements to be a tax invoice.
+88. In contrast, a supplier is not required to issue another tax invoice for the supply if they had issued a document for the supply that met the requirements for a tax invoice before the adjustment event. In such circumstances, the supplier has complied with the requirement to give the recipient a tax invoice. However, the supplier may choose to issue a corrected tax invoice, an adjustment note or other document for the adjustment event to the recipient. This is because both a supplier and a recipient must have records under section 382-5 of Schedule 1 to the TAA 1953 that record and explain all taxable supplies and creditable acquisitions they make, including acts engaged in that are relevant to the taxable supply or creditable acquisition.
+89. If the supplier did not issue a tax invoice for the supply before the adjustment event, the supplier would be required to issue a tax invoice if one is requested by the recipient. Similarly, the supplier would be required to issue a tax invoice if one is requested by the recipient, where the adjustment event has the effect of causing a supply to become a taxable supply.
+90. In addition, where the adjustment event has the effect of cancelling the supply or acquisition, or causes the supply or acquisition to stop being a taxable supply or creditable acquisition, the recipient would not be entitled to an input tax credit as it has not made a creditable acquisition. The recipient would therefore not be required to hold a tax invoice, but may be required to have records to record and explain the transaction under section 382-5 of Schedule 1 to the TAA 1953.
+Low value taxable supplies
+91. In situations where multiple taxable supplies are made in a single transaction, the Commissioner considers that a tax invoice would be required where the value of the taxable supplies in aggregate exceeds $75.
+[67]
+For example, if a transaction comprises the sale of five items that are taxable supplies, each with a value of $20, then a tax invoice is required because the value of the taxable supplies in that transaction exceeds $75. This is because the Commissioner reads the words of subsection 29-80(1) in the singular number as including the plural.
+[68]
+Further, the Commissioner considers it is improbable that it was intended that a tax invoice would not be required where many low value taxable supplies are made in a single high value transaction.
+Second-hand goods
+92. Division 66 provides a special rule where second-hand goods are acquired for the purposes of sale or exchange. The fact that the supply to a recipient is not taxable does not stop the acquisition from being creditable.
+[69]
+A tax invoice is not required for an input tax credit to be attributable to a tax period where the special rule applies. However, the input tax credit is not attributable to a tax period unless the recipient holds records that:
+•
+set out the name and address of the entity that supplied the goods; and
+•
+describe the goods (including their quantity); and
+•
+set out the date of, and the consideration for, the acquisition.
+[70]
+93. If the supply of the second-hand goods is a taxable supply, the basic rules apply and the recipient must hold a tax invoice for the input tax credit to be attributable to a tax period.
+Special rules that affect tax invoices
+94. The GST Act also includes a number of special rules for certain types of taxable supplies that affect tax invoices. These rules are outlined below.
+Agents
+95. Subdivision 153-A has special rules about tax invoices and agents. It reflects the position at common law that when an agent uses his or her authority to act for a principal, then any act done on behalf of that principal is an act of the principal. An entity therefore makes a supply or acquisition if their agent makes it on their behalf.
+96. Accordingly, if an entity makes a taxable supply through an agent, the agent can issue a tax invoice for the entity.
+[71]
+It is not necessary that your agent is registered, or required to be registered, for GST. Similarly, an input tax credit for a creditable acquisition an entity makes through their agent is attributable to a tax period if the agent holds the tax invoice.
+[72]
+97. A supplier must not issue a tax invoice for a taxable supply if the supplier makes a supply through an agent and the agent issues a tax invoice.
+[73]
+Supplies of insurance policies through insurance brokers
+98. Subdivision 153-A treats an insurance broker who is an agent for a recipient as an agent of the insurer.
+[74]
+This enables the broker to issue a tax invoice on behalf of the insurer. It is not necessary that the broker is registered, or required to be registered, for GST.
+GST groups
+99. Where the supplier is a member of a GST group, section 48-40 makes the representative member liable to pay the GST. However, the member is the entity that makes the taxable supply. As such, the member must issue a tax invoice for the taxable supply when requested by the recipient.
+100. Similarly, the representative member is entitled to the input tax credit under section 48-45, although a member of the group is the entity that makes the creditable acquisition and is therefore the recipient of the supply. Ordinarily, a tax invoice would have to include enough information to clearly ascertain the recipient's identity or ABN.
+101. However, if a document contains sufficient information to clearly show the identity of the GST group, the representative member or another member of the GST group, and would otherwise be a tax invoice if it contained information from which the recipient's identity or ABN could be determined, then the document is taken to be a tax invoice in the approved form.
+[75]
+102. This special rule only applies while the recipient is a member of the GST group and the representative member of the GST group is entitled to the input tax credit. If the document identifies another entity from the GST group, the special rule only applies if the representative member would have been entitled to the input tax credit for the acquisition had that other entity made the acquisition. This ensures that the entity identified is a member of the GST group at the relevant time.
+[76]
+103. However, a recipient that is, or was, a member of a GST group can still require the supplier to issue a document that complies with the requirements for a tax invoice.
+[77]
+Interaction of subsection 48-57(1) with subsection 29-70(1A) that allows a recipient to treat a document as a tax invoice
+104. One of the requirements for this special rule to apply is that the document would be a tax invoice but for the fact that it does not contain enough information to enable the identity or ABN of the recipient to be clearly ascertained.
+[78]
+105. An issue arises as to the interaction of this rule with subsection 29-70(1A) that allows an entity (for example, a recipient) to treat a document as a tax invoice by relying on other documents issued by the supplier. For example, where a document does not identify or include the ABN of the recipient entity (that is a member of a GST group) and it does not include the supplier's ABN but the recipient has another document issued by the supplier with this information.
+106. In considering if the document would be a tax invoice but for the fact that it fails to include the recipient's identity or ABN (that is, there is no other reason why the document would not be a tax invoice),
+[79]
+the Commissioner takes into account whether the recipient could otherwise treat the document as a tax invoice if the recipient's identity or ABN was clearly ascertainable from the document. If the recipient could treat the document as a tax invoice under subsection 29-70(1A), but for the fact that the recipient's identity or ABN is not clearly ascertainable, then the requirement in paragraph 48-57(1)(b) is taken to be satisfied.
+107. This approach is consistent with the intent of the special rule in section 48-57.
+[80]
+GST branches
+108. A parent entity with a separately registered GST branch may make some supplies through that branch. When the Commissioner registers a GST branch, the Commissioner will notify the parent entity of the GST branch registration number.
+[81]
+This number must be shown on a tax invoice (including a recipient created tax invoice) for a taxable supply made through a GST branch for the tax invoice to be in the approved form.
+[82]
+Supplies made for a period or on a progressive basis
+109. Division 156 provides a special rule for entities that account on a non-cash basis for taxable supplies that:
+•
+are made for a period or on a progressive basis; and
+•
+for consideration that is provided on a progressive or periodic basis.
+110. For the purposes of attributing the GST payable and the input tax credit to a tax period, this Division treats each progressive or periodic component of the supply as a separate supply. Examples of these supplies are insurance policies with premiums paid monthly, annual subscriptions paid on a monthly basis, and commercial leases with rent paid on a periodic basis.
+111. A supplier does not have to issue separate tax invoices for each component of the supply. A single document can be a tax invoice for all components of the supply if it satisfies the requirements in subsection 29-70(1), and it includes enough information to ascertain the price of each component of the supply. For example, a lease agreement for an item of equipment may show the price as $900 a month. This agreement is a tax invoice for all the months if it also satisfies the requirements of subsection 29-70(1).
+Reimbursements of employees etc
+112. Division 111 has special rules covering the situation where an entity reimburses an employee (or associate), an agent, an officer of a company or a partner for an expense they incur for an acquisition directly related to their activities in that role.
+113. Providing the requirements of the Division are met, the reimbursement is treated as consideration for an acquisition the entity makes from that person.
+[83]
+This acquisition may be a creditable acquisition for the entity notwithstanding that the supply to the entity is not a taxable supply.
+[84]
+The input tax credit for a creditable acquisition is attributable to a tax period if the entity holds the tax invoice that was issued to the person who was reimbursed.
+[85]
+The tax invoice may identify that person and not the entity as the recipient of the taxable supply.
+Pre-establishment costs of a company
+114. In the circumstances set out in Division 60, a company may be entitled to an input tax credit for creditable acquisitions made before it came into existence. The acquisition must be made by an entity that becomes a member, officer or employee of the company.
+[86]
+115. The company must hold a copy of the tax invoice that is held by the member, officer or employee (or the person's agent), when giving its GST return for a tax period for the input tax credit to be attributable to that particular tax period.
+[87]
+The tax invoice must identify that member, officer or employee (or the person's agent) and not the company as the recipient of the taxable supply.
+Penalties
+116. Penalties may be imposed on a supplier for failing to issue a tax invoice within 28 days of a request by a recipient
+[88]
+or for making a false statement in a tax invoice.
+[89]
+Appendix 2 - Waiver of tax invoice legislative instruments
+This Appendix provides information to help you understand the circumstances in which the Commissioner has determined in writing that a tax invoice is not required to attribute an input tax credit to a tax period. It does not form part of the binding public ruling.
+117. The following table summarises when an input credit may be attributable without a tax invoice, as determined by the Commissioner under subsection 29-10(3).
+118. You should refer to the legislative instrument before relying on it to ensure you meet the requirements as set out in the instrument.
+Legislative instrument
+Overview
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions under an Agency Relationship) Legislative Instrument 2013
+Acquisitions under an agency relationship
+In certain circumstances, you are not required to hold a tax invoice for an input tax credit to be attributed to a tax period if you hold a document that contains an agent's identity and/or ABN and satisfies the other requirements in the legislative instrument.
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Beneficiary of a Bare Trust) Legislative Instrument 2013
+Acquisitions from or acquisitions by a beneficiary of a bare trust
+In certain circumstances, you are not required to hold a tax invoice for an input tax credit to be attributed to a tax period if you hold a document that contains a bare trustee's identity and/or ABN and satisfies the other requirements in the legislative instrument.
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions by Recipients Using Electronic Purchasing Systems) Legislative Instrument 2013
+Acquisitions by recipients using electronic purchasing systems
+In certain circumstances a recipient using an electronic purchasing system is not required to hold a tax invoice for an acquisition in order to attribute an input tax credit to a tax period.
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions Where Total Consideration Not Known) Legislative Instrument 2013
+Acquisitions where total consideration not known
+In certain circumstances you are not required to hold a tax invoice for a creditable acquisition in order to attribute an input tax credit where the total price of the acquisition cannot be ascertained at the time an invoice is issued or a payment is made.
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Offer Documents and Renewal Notices) Legislative Instrument 2013
+Offer documents and renewal notices
+In certain circumstances, you are not required to hold a tax invoice for an input tax credit to be attributed to a tax period if you hold an offer document or a renewal notice that satisfies the requirements in the legislative instrument.
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Partnership) Legislative Instrument 2013
+Acquisitions from or acquisitions by a partnership
+In certain circumstances, you are not required to hold a tax invoice for an input tax credit to be attributed to a tax period if you hold a document that contains a partner's identity and/or ABN and satisfies the other requirements in the legislative instrument.
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from Property Managers) Legislative Instrument 2013
+Acquisitions from property managers
+In certain circumstances, you are not required to hold a tax invoice for an input tax credit to be attributed to a tax period if you hold a document issued by the supplier's property manager that contains the property manager's identity and ABN and satisfies the other requirements in the legislative instrument.
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Creditable Acquisition by a Lessee or Sub-Lessee Following a Sale of a Reversion in Commercial Premises) Legislative Instrument 2013
+Sale of a reversion in commercial premises
+In certain circumstances, a lessee or sub-lessee of commercial premises is not required to hold a tax invoice for a creditable acquisition of the real property in order to attribute an input tax credit when they hold documents that satisfy the requirements in the legislative instrument. This legislative instrument applies where there has been a sale of commercial premises subject to a continuing lease to a third party.
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Creditable Acquisition of Taxi Travel) Legislative Instrument 2013
+Taxi travel
+In certain circumstances, you are not required to hold a tax invoice for an input tax credit to be attributed to a tax period if you hold a document that contains a taxi driver's licence or accreditation number and ABN and satisfies the other requirements in the legislative instrument.
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisition of a Motor Vehicle Under a Full or Split Full Novated Lease Arrangement) Legislative Instrument 2013
+Acquisition of a motor vehicle under a novated lease
+In certain circumstances, an employer is not required to hold a tax invoice for a creditable acquisition of a motor vehicle under a full or split full novation arrangement in order to attribute an input tax credit to a tax period if the employer holds documents that satisfy the requirements in the legislative instrument.
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Motor Vehicle Incentive Payment Made to Motor Vehicle Dealer) Legislative Instrument 2014
+Acquisition of a motor vehicle from a motor vehicle dealer
+In certain circumstances, you are not required to hold a tax invoice to claim an input tax credit for a creditable acquisition of a motor vehicle you made from a motor vehicle dealer if the dealer receives or is entitled to receive a motor vehicle incentive payment.
+A New Tax System (Goods and Services Tax) Act 1999 Waiver of Tax Invoice Requirement Determination (No.30) 2015
+Direct entry services
+In certain circumstances an entity is not required to hold a tax invoice to claim an input tax credit for a creditable acquisition of Direct Entry Service.
+Goods and Services Tax:  Waiver of Tax Invoice Requirement Determination (No.33) 2016- Choice Hotels Corporate Charge Card
+Choice hotels customer
+In certain circumstances a customer of Choice Hotels Asia-Pac Pty Ltd (Choice Hotels) is not required to hold a tax invoice to claim an input tax credit for a creditable acquisition purchased with a Choice Hotels corporate charge card.
+Goods and Services Tax:  Waiver of Tax Invoice Requirement Determination (No. 40) 2016 - Government Undercover Agents
+Government undercover agents
+In certain circumstances a government law enforcement agency is not required to hold a tax invoice to claim an input tax credit for a creditable acquisition if it relates to a reimbursement of an expense to an employee who was working undercover.
+Goods and Services Tax:  Waiver of Tax Invoice Requirement Determination 2017 for intangible supplies from offshore.
+Acquisition of an intangible supply from offshore
+In certain circumstances, you are not required to hold a tax invoice to claim an input tax credit for a creditable acquisition of an offshore intangible supply.
+Goods and Services Tax:  Waiver of Adjustment Note Requirement Determination 2017 - Members of MasterCard International and Visa International - Bank Interchange Services
+Member of Mastercard International or VISA International
+In certain circumstances a member of Mastercard International or VISA International is not required to hold a tax invoice to claim an input tax credit for a creditable acquisition of bank interchange services.
+Goods and Services Tax:  Waiver of Tax Invoice Requirement (Corporate Card Statements) Legislative Instrument 2017
+Corporate card holder of a listed corporate card provider
+In certain circumstances a corporate card holder of a listed corporate card provider that has a corporate card statement is not required to hold a tax invoice to claim an input tax credit.
+Goods and Services Tax:  Waiver of Tax Invoice Requirement (Visa Purchasing Card) Determination 2018
+Cardholder of a VISA purchasing card
+In certain circumstances a cardholder is not required to hold a tax invoice for a creditable acquisition for an input tax credit to be attributable to a tax period.
+Appendix 3 - Detailed contents list
+119. The following is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Background
+5
+Ruling
+7
+Approved Form
+7
+Combined tax invoice and recipient created tax invoice
+10
+Tax invoices in electronic form
+12
+Clearly ascertained
+13
+For recipient created tax invoices - a statement that the GST is payable by the supplier
+16
+Document intended to be a tax invoice or recipient created tax invoice
+17
+Documents headed 'tax invoice' for supplies that are not taxable
+20
+Identity of the supplier or recipient
+21
+Example 1 - GST groups
+25
+What is supplied
+28
+The price of what is supplied
+29
+Retention payments
+30
+Showing the price for each line on a tax invoice
+31
+Example 2 - description and price of what is supplied
+32
+The extent to which each supply is a taxable supply
+36
+Mixed supplies
+37
+Example 3 - extent to which a mixed supply and other supplies in a transaction are taxable
+39
+When a recipient can treat a document as a tax invoice
+42
+Example 4-missing information
+44
+Circumstances in which the Commissioner may exercise the discretion to treat a document as a tax invoice
+51
+Correcting errors on a tax invoice
+55
+Low value taxable supplies
+58
+Date of effect
+59
+Appendix 1 - Explanation
+62
+Overview
+62
+An invoice in comparison to a tax invoice
+67
+Circumstances in which a tax invoice is not required
+69
+Requirements for a tax invoice and recipient created tax invoice
+72
+Tax invoice
+72
+Recipient created tax invoice
+73
+Tax invoices in electronic form
+74
+Clearly ascertained
+76
+The price of what is supplied
+79
+Retention payments
+80
+Circumstances in which the Commissioner may exercise the discretion to treat a document as a tax invoice
+82
+Review rights if the Commissioner does not exercise the discretion
+84
+Changes to the price in the same tax period that the GST or input tax credit is attributed
+86
+Low value taxable supplies
+91
+Second-hand goods
+92
+Special rules that affect tax invoices
+94
+Agents
+95
+Supplies of insurance policies through insurance brokers
+98
+GST groups
+99
+Interaction of subsection 48-57(1) with subsection 29-70(1A) that allows a recipient to treat a document as a tax invoice
+104
+GST Branches
+108
+Supplies made for a period on a progressive basis
+109
+Reimbursements of employees etc
+.
+112
+Pre-establishment costs of a company
+114
+Penalties
+116
+Appendix 2 - Waiver of tax invoice legislative instruments
+117
+Appendix 3 - Detailed contents list
+119
+Footnotes
+[1]
+All legislative references in this Ruling are to the GST Act unless otherwise stated.
+[2]
+Subsection 29-10(3).
+[3]
+Subsection 29-70(1).
+[4]
+Under subsection 29-70(2), a supplier of a taxable supply must issue a tax invoice within 28 days after a request by a recipient.
+[5]
+This Ruling constitutes approval in writing by the Commissioner under subsection 388-50(1) of Schedule 1 to the
+Taxation Administration Act 1953
+(TAA 1953) for such documents to be in an approved form for tax invoices.
+[6]
+Subsection 48-57(1) provides that in certain circumstances a document is treated as a tax invoice, where the representative member of a GST group is entitled to an input tax credit.
+[7]
+A recipient created tax invoice is a tax invoice belonging to a class of tax invoices that the Commissioner has determined in writing may be issued by the recipient of a taxable supply - subsection 29-70(3).
+[8]
+This does not affect the obligation to account for GST separately on each supply. See paragraphs 17 and 50 to 52 of Goods and Services Tax Ruling GSTR 2000/10
+Goods and services tax: recipient created tax invoices
+for further explanation.
+[9]
+This record must be in English or readily accessible and easily convertible to English as required by subsection 382-5(8) of Schedule 1 to the TAA 1953.
+[10]
+However, a recipient may be able to treat a document that does not meet the tax invoice requirements as a tax invoice in the circumstances outlined at paragraphs 42 to 50 of this Ruling.
+[11]
+Subparagraph 29-70(1)(c)(vii).
+[12]
+Paragraph 29-70(1)(d).
+[13]
+Paragraph 29-70(1)(c).
+[14]
+See the
+Business Names Registration Act 2011.
+[15]
+Subsection 48-57(1). This rule does not apply to recipient created tax invoices. A recipient issuing a recipient created tax invoice must include their identity on the document.
+[16]
+Section 58-95 provides that Division 58 (including the registration and reporting requirements of Division 58) does not apply to representatives of incapacitated entities to the extent that their supplies would otherwise be of a kind to which subsection 105-5(1)(a) applies.
+[17]
+Subparagraph 29-70(1)(c)(iii).
+[18]
+Subparagraph 29-70(1)(c)(iii).
+[19]
+Subparagraph 29-70(1)(c)(iii).
+[20]
+Subparagraph 29-70(1)(c)(iv).
+[21]
+Subparagraph 29-70(1)(c)(vi).
+[22]
+A reference mark in this context includes any written or printed mark or sign, such as a number, letter, or typographical symbol, used to indicate to a reader the presence of further information in a note within the document. For example, an asterisk (*), a dagger (†) or a percent sign (%).
+[23]
+See paragraphs 16 and 45 to 54 of Goods and Services Tax Ruling GSTR 2001/8
+Goods and services tax: apportioning the consideration for a supply that includes taxable and non-taxable parts.
+[24]
+Subsection 29-70(1A). The rule in subsection 29-70(1A) also applies when determining for the purposes of paragraph 48-57(1)(b) whether a particular document would otherwise meet the requirements of a tax invoice.
+[25]
+To the extent the acquisition is a creditable acquisition, the input tax credit will be attributable to the tax period in which the recipient treats the document as a tax invoice, in accordance with section 29-10. That is, both documents must be held before an input tax credit can be claimed.
+[26]
+In the case of a recipient created tax invoice, the principal (supplier) may treat a document issued by the recipient that does not meet the tax invoice requirements as a tax invoice if the information is contained in other documents provided to either the agent, or the principal (supplier), by the recipient.
+[27]
+See paragraphs 51 to 54 of this Ruling for a discussion of the circumstances in which the Commissioner may exercise the discretion to treat a document as a tax invoice.
+[28]
+Subsection 29-70(1B).
+[29]
+Section 29-75 and subsection 29-80(2).
+[30]
+Subsection 29-75(2).
+[31]
+Subsection 29-80(1).
+[32]
+Subsection 29-70(2).
+[33]
+Subsection 29-10(3).
+[34]
+Section 195-1. See also paragraph 12 of Goods and Services Tax Ruling GSTR 2000/34
+Goods and services tax: what is an invoice for the purposes of the A New Tax System (Goods and Services Tax) Act 1999 ('GST Act')?
+[35]
+Paragraph 58 of GSTR 2000/34.
+[36]
+However, whether they are 'invoices' for the purposes of sections 29-5 and 29-10 will depend upon their terms.
+[37]
+A GST return forms part of an activity statement.
+[38]
+Section 382-5 of Schedule 1 to the TAA 1953.
+[39]
+Subsection 29-80(1) and section 29-80.01 of the A New Tax System (Goods and Services Tax) Regulations 2019. For most supplies, a value of $75 corresponds with a price of $82.50.
+[40]
+Paragraph 29-70(1)(a).
+[41]
+Section 153-15.
+[41A]
+Subsection 83 35(1).
+[41B]
+Subsection 84 50(1).
+[41C]
+Subsection 84 87(1).
+[42]
+Section 75-30.
+[43]
+Section 126-33.
+[44]
+Subsection 29-80(1) and section 29-80.01 of the GST Regulations. For most supplies, a value of $75 corresponds with a price of $82.50.
+[45]
+In the circumstances described in sections 83-5, 83-10 and 83-15, the GST on a taxable supply made by a non-resident supplier is payable by the recipient. Subsection 83-35(3) provides that subsection 29-10(3) does not apply, so that an input tax credit may be attributable without the recipient holding a tax invoice.
+[46]
+Division 2 of Part 3 of the GST Transition Act applies to agreements spanning both 1 July 2000 and 1 July 2005. In the circumstances described in section 15C of that Act, the GST on a taxable supply made under such an agreement is payable by the recipient (to the extent the supply is made on or after a certain date occurring on or after 1 July 2005). Subsection 15H(3) of that Act provides that subsection 29-10(3) of the GST Act does not apply, so that the input tax credit may be attributable without the recipient holding a tax invoice.
+[47]
+See further at paragraph 292 of Goods and Services Tax Ruling GSTR 2003/15
+Goods and services tax: importation of goods into Australia.
+[48]
+At the time of issuing this Ruling, the GST Regulations do not specify any other matters for tax invoices.
+[49]
+A recipient created tax invoice is a tax invoice belonging to a class of tax invoices that the Commissioner has determined in writing may be issued by the recipient of a taxable supply - subsection 29-70(3).
+[50]
+At the time of issuing this Ruling, the GST Regulations do not specify any other matters for recipient created tax invoices.
+[51]
+Subparagraph 29-70(1)(c)(i).
+[52]
+Subparagraph 29-70(1)(c)(iii).
+[53]
+See paragraph 3.19 of the Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 2) Bill 2010.
+[54]
+Subparagraph 29-70(1)(c)(i).
+[55]
+See paragraph 3.20 of the Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 2) Bill 2010.
+[56]
+Subparagraph 29-70(1)(c)(iii).
+[57]
+See paragraph 3.19 of the Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 2) Bill 2010.
+[58]
+Goods and Services Tax:  (Particular Attribution Rules for Retention Payments) Determination 2017.
+[59]
+Subparagraph 29-70(1)(c)(iii).
+[60]
+This discretion can also be used to treat a document that does not meet the requirements of a recipient created tax invoice as a tax invoice.
+[61]
+The making of an assessment under former section 105-5 of Schedule 1 to the TAA 1953 is a reviewable indirect tax decision under former subsection 105-40(2) of Schedule 1 to the TAA 1953 for tax periods that commence before 1 July 2012. Former subsection 105-40(1) of Schedule 1 to the TAA 1953 provides for a right of objection in the manner set out in Part IVC of the TAA 1953. Section 155-90 of that Schedule provides for a right to object against an assessment.
+[62]
+[Omitted].
+[63]
+[Omitted].
+[64]
+Subsection 19-10(1) states that an adjustment event is any event which has the effect of:
+cancelling a supply or an acquisition; or
+changing the consideration for a supply or an acquisition; or
+causing a supply or acquisition to become, or stop being, a taxable supply or creditable acquisition.
+[65]
+Paragraph 19-40(b) for a supply and paragraph 19-70(1)(b) for an acquisition.
+[66]
+Subsection 29-10(3) provides that a recipient must hold a tax invoice for a creditable acquisition at the time it gives its GST return to the Commissioner for the tax period in which the input tax credit is attributed.
+[67]
+However, the tax invoice must contain enough information to be able to clearly ascertain the price for each item in the transaction that is a taxable supply.
+[68]
+Paragraph 23(b) of the
+Acts Interpretation Act 1901
+.
+[69]
+Subsection 66-5(1).
+[70]
+Section 66-17.
+[71]
+Paragraph 153-15(1)(b).
+[72]
+Section 153-5.
+[73]
+Subsection 153-15(2) and paragraph 153-50(1)(b). See also paragraph 61 of Goods and Services Tax Ruling GSTR 2000/37
+Goods and services tax: agency relationships and the application of the law.
+[74]
+Subsection 153-25(1).
+[75]
+Subsection 48-57(1). This rule does not apply to recipient created tax invoices. A recipient issuing a recipient created tax invoice must include their identity on the document.
+[76]
+Subparagraph 48-57(1)(d)(iii).
+[77]
+Subsection 48-57(2).
+[78]
+Paragraph 48-57(1)(a).
+[79]
+Paragraph 48-57(1)(b).
+[80]
+Paragraph 3.48 of the Explanatory Memorandum to the Tax Laws Amendment (2010 GST Administration Measures No. 2) Bill 2010.
+[81]
+Section 54-15.
+[82]
+Paragraph 54-50(1)(a).
+[83]
+Subsection 111-5(1).
+[84]
+Subsection 111-5(2). Circumstances when the acquisition you make is not a creditable acquisition are set out in subsection 111-5(3).
+[85]
+Section 111-15.
+[86]
+Subsection 60-15(1).
+[87]
+Subsection 60-25(2).
+[88]
+Subsection 288-45(1) of Schedule 1 to the TAA 1953.
+[89]
+Section 8M of the TAA 1953 and subsections 284-75(1) and 284-75(4) of Schedule 1 to the TAA 1953.
+[90]
+See GSTD 2004/1.
+GSTR 2011/D1
+GSTR 2012/D3
+References
+ATO references:
+NO  1-48DT56R
+ISSN: 1443-5160
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2000/3
+GSTR 2000/10
+GSTR 2000/34
+GSTR 2000/37
+GSTR 2001/2
+GSTR 2001/8
+GSTR 2003/14
+GSTR 2003/15
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A 1999
+ANTS(GST)A 1999 19-10(1)
+ANTS(GST)A 1999 19-40(b)
+ANTS(GST)A 1999 19-70(1)(b)
+ANTS(GST)A 1999 29-5
+ANTS(GST)A 1999 29-10
+ANTS(GST)A 1999 29-10(3)
+ANTS(GST)A 1999 29-10(4)
+ANTS(GST)A 1999 29-25
+ANTS(GST)A 1999 29-70
+ANTS(GST)A 1999 29-70(1)
+ANTS(GST)A 1999 29-70(1)(a)
+ANTS(GST)A 1999 29-70(1)(b)
+ANTS(GST)A 1999 29-70(1)(c)
+ANTS(GST)A 1999 29-70(1)(c)(i)
+ANTS(GST)A 1999 29-70(1)(c)(ii)
+ANTS(GST)A 1999 29-70(1)(c)(iii)
+ANTS(GST)A 1999 29-70(1)(c)(iv)
+ANTS(GST)A 1999 29-70(1)(c)(v)
+ANTS(GST)A 1999 29-70(1)(c)(vi)
+ANTS(GST)A 1999 29-70(1)(c)(vii)
+ANTS(GST)A 1999 29-70(1)(c)(viii)
+ANTS(GST)A 1999 29-70(1)(d)
+ANTS(GST)A 1999 29-70(1A)
+ANTS(GST)A 1999 29-70(1B)
+ANTS(GST)A 1999 29-70(2)
+ANTS(GST)A 1999 29-70(3)
+ANTS(GST)A 1999 29-75
+ANTS(GST)A 1999 29-75(2)
+ANTS(GST)A 1999 29-80(1)
+ANTS(GST)A 1999 29-80(2)
+ANTS(GST)A 1999 48-40
+ANTS(GST)A 1999 48-40(1)
+ANTS(GST)A 1999 48-45
+ANTS(GST)A 1999 48-45(1)
+ANTS(GST)A 1999 48-57
+ANTS(GST)A 1999 48-57(1)
+ANTS(GST)A 1999 48-57(1)(a)
+ANTS(GST)A 1999 48-57(1)(b)
+ANTS(GST)A 1999 48-57(1)(d)(iii)
+ANTS(GST)A 1999 48-57(2)
+ANTS(GST)A 1999 54-15
+ANTS(GST)A 1999 54-50
+ANTS(GST)A 1999 54-50(1)
+ANTS(GST)A 1999 Div 58
+ANTS(GST)A 1999 58-95
+ANTS(GST)A 1999 Div 60
+ANTS(GST)A 1999 60-15(1)
+ANTS(GST)A 1999 60-25(2)
+ANTS(GST)A 1999 Div 66
+ANTS(GST)A 1999 66-5(1)
+ANTS(GST)A 1999 66-17
+ANTS(GST)A 1999 75-30
+ANTS(GST)A 1999 Div 83
+ANTS(GST)A 1999 83-5
+ANTS(GST)A 1999 83-10
+ANTS(GST)A 1999 83-15
+ANTS(GST)A 1999 83-35
+ANTS(GST)A 1999 Div 84
+ANTS(GST)A 1999 105-5(1)(a)
+ANTS(GST)A 1999 Div 111
+ANTS(GST)A 1999 111-5(1)
+ANTS(GST)A 1999 111-5(2)
+ANTS(GST)A 1999 111-5(3)
+ANTS(GST)A 1999 111-15
+ANTS(GST)A 1999 126-33
+ANTS(GST)A 1999 Subdiv 153-A
+ANTS(GST)A 1999 153-5
+ANTS(GST)A 1999 153-15
+ANTS(GST)A 1999 153-15(1)(b)
+ANTS(GST)A 1999 153-15(2)
+ANTS(GST)A 1999 153-25(1)
+ANTS(GST)A 1999 153-50(1)(b)
+ANTS(GST)A 1999 Div 156
+ANTS(GST)A 1999 195-1
+ANTS(GSTT)A 1999 Pt 3 Div 2
+ANTS(GSTT)A 1999 15C
+ANTS(GSTT)A 1999 15H(3)
+ANTS(GST)R 2019 29-80.01
+TAA 1953
+TAA 1953 Pt III 8M
+TAA 1953 Pt IVC
+TAA 1953 Sch 1 105-5
+TAA 1953 Sch 1 105-40(1)
+TAA 1953 Sch 1 105-40(2)
+TAA 1953 Sch 1 Subdiv 155-A
+TAA 1953 Sch 1 155-90
+TAA 1953 Sch 1 284-75(1)
+TAA 1953 Sch 1 284-75(4)
+TAA 1953 Sch 1 288-45(1)
+TAA 1953 Sch 1 382-5
+TAA 1953 Sch 1 382-5(8)
+TAA 1953 Sch 1 388-50(1)
+AIA 1901 2B
+AIA 1901 23(b)
+Business Names Registration Act 2011
+Other References:
+Explanatory Memorandum
+to Tax Laws Amendment (2010 GST Administration Measures No. 2) Bill 2010
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions under an Agency Relationship) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Beneficiary of a Bare Trust) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions by Recipients Using Electronic Purchasing Systems) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions Where Total Consideration Not Known) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Offer Documents and Renewal Notices) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Partnership) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from Property Managers) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Creditable Acquisitions for a Lessee Following a Sale of a Reversion in Commercial Premises) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Creditable Acquisition of Taxi Travel) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisition of a Motor Vehicle under a Full or Split Full Novated Lease Arrangement) Legislative Instrument 2013
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Motor Vehicle Incentive Payment Made to Motor Vehicle Dealer) Legislative Instrument 2014
+A New Tax System (Goods and Services Tax) Act 1999 Waiver of Tax Invoice Requirement Determination (No.30) 2015
+Goods and Services Tax: Waiver of Tax Invoice Requirement Determination (No.33) 2016 - Choice Hotels Corporate Charge Card
+Goods and Services Tax: Waiver of Tax Invoice Requirement Determination (No. 40) 2016 - Government Undercover Agents
+Goods and Services Tax: Waiver of Tax Invoice Requirement Determination 2017 for intangible supplies from offshore
+Goods and Services Tax: Waiver of Requirement to hold a Tax Invoice Determination 2017 - Members of MasterCard International and Visa International - Bank Interchange Services
+Goods and Services Tax: Waiver of Tax Invoice Requirement (Corporate Card Statements) Legislative Instrument 2017
+Goods and Services Tax: Waiver of Tax Invoice Requirement (Visa Purchasing Card) Determination 2018
+Law Administration Practice Statement PS LA 2004/11
+GSTR 2013/1 history
+Date:
+Version:
+Change:
+27 March 2013
+Original ruling
+You are here
+3 April 2019
+Consolidated ruling
+Addendum
+Back to top

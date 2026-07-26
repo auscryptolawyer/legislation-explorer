@@ -1,0 +1,205 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Div 6
+  • Div 7A
+  • Division 290
+  • Division 7A
+  • Subdivision 207-F
+  • div 207
+  • division 207
+
+Topics: CGT, Div 7A, Trusts, Companies, Superannuation
+
+
+
+================================================================================
+
+TA 2016/12 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+14 related documents
+Taxpayer Alert
+TA 2016/12
+Trust income reduction arrangements
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Alerts provide a summary of our concerns about new or emerging higher risk tax or superannuation arrangements or issues that we have under risk assessment.
+While an Alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an Alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more about Alerts. See
+Alerts
+issued to date.
+The ATO view on the application of section 109T of the Income Tax Assessment Act 1936 to arrangements of the kind described in this Alert is set out in Draft Taxation Determination TD 2017/D3.
+Description
+We are currently reviewing a class of arrangements detected by our Trusts Taskforce that appear designed to exploit the proportionate approach to trust taxation. The arrangements are deliberately structured to exclude from the trust income much of the economic benefit that is reflected in the taxable net income of the trust. In doing this, the taxpayers seek to gain substantial tax benefits.
+Under the proportionate approach, the share of trust income to which a beneficiary is presently entitled determines the proportionate share of taxable net income that is included in the beneficiary's assessable income. One implication of this approach is that, if taxable net income exceeds trust income, the share of that net income included in a beneficiary's assessable income will be more than the amount of the beneficiary's income entitlement under the trust.
+The underlying premise of the arrangements described in  this Taxpayer Alert is that the taxable net income of the trust is assessed to the presently entitled beneficiary, while the economic benefits reflected in that net income are retained by the trustee, or passed to a different beneficiary in a purportedly tax free form.
+Under these arrangements, the rate of tax paid by the presently entitled beneficiary is lower (often significantly lower) than the rate of tax that would otherwise have been paid by the trustee and/or the beneficiary who receives the benefit.
+The arrangements described above typically display all or most of the following features:
+1.
+Steps are taken to create an artificial difference between the trust income and taxable net income of a closely held trust with the primary motivation appearing to be the avoidance of tax. The steps may include:
+a.
+Amending or varying  the trust deed definition of income or the trustee's powers to determine trust income
+b.
+The trustee taking steps for the principal purpose of reducing trust income
+c.
+The trustee relying on a power in the trust deed to determine that trust income is less than it would otherwise have been
+2.
+The beneficiary who is made presently entitled to the trust income:
+a.
+paying little or no tax on the share of taxable net income included in its assessable income, or
+b.
+is a private company, with the arrangement designed to impose tax on the net income of the trust at the rate of 30%, while limiting any increase in the accumulated profits of the company so as to minimise future assessable income that arises from paying dividends out of company profits.
+3.
+The trust retaining the economic benefit reflecting the artificial difference between the trust income and taxable net income of the trust. That benefit may subsequently be extracted in a form that is claimed to be tax-free (or subject to a reduced rate of tax) in the hands of the recipient (usually an individual related to the controlling mind).
+This Taxpayer Alert is
+not
+concerned with arrangements where differences arise between the trust income and the taxable net income of the trust, merely because:
+•
+taxable net income can include amounts that are not traditionally regarded as trust income (for example, capital gains), or amounts that do not represent an accretion of value to the trust (for example, franking credits), or
+•
+proper accounting (not principally directed towards the obtaining of tax benefits) leads to differences between when and how amounts are recognised for tax and accounting purposes.
+Example 1 - trustee purports to make trust income 30% of taxable net income
+The taxable net income of a discretionary trust for 2015-16 is $1,000,000 which relates wholly to business income. The accounting records of the trust show a profit of a similar amount.
+The trustee determines the trust income for the 2015-16 year to be 30% of the taxable net income of the trust. The trustee cites a power in the deed in support of this determination. The trustee treats the remaining $700,000 as trust capital.  But for this determination, the trust income would have been $1,000,000.
+The trustee resolves to make a company presently entitled to all of the trust income ($300,000). The company returns all of the taxable net income of the trust ($1,000,000) as assessable income, and uses the whole of its trust income entitlement of $300,000 to meet its tax liability on this amount.
+The trustee later distributes the capitalised amount of $700,000 to an individual beneficiary. The individual treats the distribution as tax-free in its hands.
+The asserted result is tax of $300,000 is payable on the net income of the trust rather than tax on the net income at the individual's marginal tax rate.
+Example 2 - value strip creating an unrealised loss
+In the 2015-16 year, a discretionary trust makes a $210,000 capital gain and invests $200,000 in acquiring units in a related hybrid trust entitling the trustee of the discretionary trust to receive, among other things, discretionary distributions from the hybrid trust.
+The hybrid trust uses the proceeds from the unit subscription to make a $200,000 capital distribution to a discretionary object of that trust.
+As a result of the capital distribution, the discretionary trust writes down the value of its investment in the hybrid trust, and recognises a $200,000 accounting loss for the year.
+The accounting loss does not affect the calculation of the taxable net income of the discretionary trust for 2015-16, which is $210,000.
+The trustee of the discretionary trust resolves that the $200,000 accounting loss is to be made good out of the $210,000 capital gain. The trustee cites a power in the deed in support of this resolution and determines that the trust income of the discretionary trust in 2015-16 is $10,000. But for the events described above, the trust income would have been $210,000 (i.e., would have included the full amount of the capital gain).
+The trustee resolves to make a company presently entitled to all of the trust income ($10,000). The company therefore includes all of the trust's taxable net income ($210,000) in its assessable income for the year.
+The company made a genuine business loss in 2015-16 and deducts that loss against its share of the trust's taxable net income, resulting in it having nil taxable income.
+The discretionary object of the hybrid trust to whom the $200,000 capital distribution was made, treats the receipt as tax-free in its hands.
+The asserted result is that no tax is payable on the net income of the discretionary trust even though $200,000 of the capital gain made by the trust has been received by the individual.
+Example 3 - in-specie capital distribution purportedly charged against income
+A discretionary trust receives a $700,000 franked dividend in 2015-16, of which $650,000 is used to purchase a residential property.
+In the same income year, the trustee transfers the residential property to an individual beneficiary as an in-specie capital distribution.
+The trustee determines that the in-specie distribution causes a $650,000 loss to the trust to be made good out of income, and that the trust income for 2015-16 is therefore $50,000. The trustee cites a power in the deed in support of this determination. But for the determination, the trust income would have been $700,000 (i.e. would have included the full amount of the franked dividend).
+The trustee resolves to make a company presently entitled to all of the trust income ($50,000). The company returns assessable income of $1,000,000 (being the total of the $700,000 dividend and $300,000 franking credit gross up amount) in its income tax return and applies $300,000 in franking credit offsets against its tax payable.
+The individual beneficiary treats the transfer of the residential property as a tax-free receipt in its hands.
+The asserted result is that no tax is payable on the net income of the discretionary trust beyond the imputed 30%, even though $650,000 of the franked distribution received by the trust has been applied to benefit the individual.
+Example 4 - share revaluation and subsequent dividend creating accounting loss
+The trust property of a discretionary trust includes shares in Company A which were acquired for $2.
+In 2014-15, the trustee revalues the shares from $2 to $1,400,002 in the trust accounts in recognition of the company having accumulated profits of $1,400,000. The trustee then, purportedly in accordance with the terms of the trust deed, creates a $1,400,000 capital entitlement (sourced from the asset revaluation reserve) in favour of an individual beneficiary (who controls both the discretionary trust and Company A). The entitlement is not paid during the year.
+In 2015-16, the trust receives a fully franked $1,400,000 dividend from Company A, and $1,000 in interest income.
+The taxable net income of the trust in 2015-16 is $2,001,000. This is the sum of the interest, dividends and a $600,000 franking credit gross up amount.
+In the trust accounts for the 2015-16 year, the trustee records the dividend and interest as income and further records a reduction in the book value of the shares in Company A, which is accounted for as a $1,400,000 loss made good out of income. The trustee determines that the trust income is $1,000. The trustee cites a power in the deed in support of this determination. If the trustee had not revalued the shares, the trust income would have been $1,401,000 (ie the interest income and full amount of the dividend).
+The trustee of the discretionary trust resolves to make Company B presently entitled to all of the trust income ($1,000), causing its assessable income to include all of the discretionary trust's taxable net income for 2015-16 ($2,001,000). However, because Company B is entitled to the franking credit offset, it only pays $300 in tax (30% x $1000).
+The trustee of the discretionary trust uses the $1,400,000 dividend income to satisfy the individual beneficiary's entitlement to the $1,400,000 capital distribution created in the 2014-15 income year. The individual beneficiary treats the amount as a tax free distribution in its hands.
+The asserted result is that no tax is payable on the net income of the discretionary trust beyond the imputed 30% even though the entire $1.4m franked distribution received by the trust has been paid to the individual.
+What are our concerns?
+We are concerned that trustees undertaking these arrangements are taking contrived steps to engineer a reduction in the trust income of the trust with the principal purpose of generating significant tax benefits.
+From our initial review of these arrangements, we consider that they may lead to various tax and other consequences, including whether:
+(a)
+the trustee's determination of income or appointment of income is ineffective under the terms of the trust deed and / or more generally for trust law purposes (e.g., where the trust deed does not give the trustee power to make a determination in the manner stated or the appointment is made to an entity which is not a beneficiary of the trust)
+(b)
+the arrangement, or steps within it, is a sham, or is otherwise ineffective to create a present entitlement at general law
+(c)
+the arrangement results in a deemed dividend under Div 7A of Part III of the ITAA 1936 due to the operation of section 109D, where trust income is appointed to a private company and the private company's entitlement is not fully satisfied
+(d)
+the arrangement results in a deemed dividend under Division 7A due to the operation of section 109T of the ITAA 1936, where the arrangement involves payment of a dividend from a private company to the trustee of a trust and the trustee uses the proceeds from the dividend to make a payment or loan other than:
+a.
+to a private company, or
+b.
+in discharge of an entitlement to trust income where that trust income includes the dividend
+(e)
+the loss integrity rules in Schedule 2F to the ITAA 1936 and Part 3-5 of the ITAA 1997 apply, in particular the income injection tests, limiting the availability of deductions and/or losses to corporate and trustee beneficiaries
+(f)
+the qualified person requirement in Subdivision 207-F of the ITAA 1997 restricts the availability of a tax offset in respect of franking credits attached to a franked distribution flowing to a beneficiary
+(g)
+the arrangement, or part of it, is a 'reimbursement agreement', and, as a result, the income beneficiary would be deemed not to be presently entitled under section 100A of the ITAA 1936
+(h)
+the arrangement is a scheme to which the general anti-avoidance rules in Part IVA of the ITAA 1936 apply, and
+(i)
+steps taken by trustees to misstate the trust income in the trust's income tax return amount to evasion.
+What are we doing?
+We are currently reviewing these arrangements and have commenced compliance activities affecting a number of entities.
+We are identifying tax advisors that are promoting these schemes and will follow up appropriately.
+We will continue to review differences between trust income and taxable net income and undertake further compliance activity when we identify a taxpayer that may have entered into a contrived arrangement of the types described above.
+We are developing our technical position on the arrangements and will canvass these in more detail in due course.
+What should you do?
+If you have entered, or are planning to enter, into an arrangement of this type we encourage you to:
+a)
+phone or email us at the contact details set out below
+b)
+ask us for our view through a private ruling
+c)
+seek independent professional advice, and / or
+d)
+make a voluntary disclosure to reduce potential penalties.
+Penalties may apply to participants in, and promoters of, this type of arrangement. This includes serious penalties under Division 290 of Schedule 1 to the Taxation Administration Act 1953 for promoters. In more serious cases, sanctions under criminal law may apply. Registered tax agents involved in the promotion of this type of arrangement may be referred to the Tax Practitioners Board to consider whether there has been a breach of the Tax Agent Services Act 2009.
+Do you have information?
+To provide information about this or another arrangement, or a promoter of this or another arrangement:
+•
+phone us on
+1800 060 062
+, or
+•
+email us at
+TrustRisk@ato.gov.au
+Amendment history
+Date of amendment
+Comment
+19 January 2024
+Updated ATO tip-off hotline number
+Date of Issue:
+17 November 2016
+Date of Effect:
+Related Rulings/Determinations:
+TR 2012/D1
+TR 2010/3
+TD 2007/11
+TD 2011/16
+TD 2012/12
+TD 2012/22
+Related Practice Statements:
+PS LA 2005/24
+PS LA 2010/4
+Legislative References:
+Income Tax Assessment Act 1936
+44
+Pt III Div 6
+100A
+Pt III Div 7A
+Pt IVA
+Schedule 2F
+Income Tax Assessment Act 1997
+Pt 3-5
+Subdiv 207-F
+Taxation Administration Act 1953
+Division 290 of Schedule 1
+Authorised by:
+Michael Cranston
+Deputy Commissioner
+Business Line:
+PGH
+Contact officer:
+Glenn Nottingham
+Business Line:
+Private Groups and High Wealth Individuals
+Phone:
+(03) 9285 1544
+TA 2016/12 history
+Date:
+Version:
+17 November 2016
+Original alert
+You are here
+19 January 2024
+Updated alert
+Back to top

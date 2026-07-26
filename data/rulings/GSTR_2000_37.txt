@@ -1,0 +1,1352 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 11
+  • Div 111
+  • Div 153
+  • Div 23
+  • Div 27
+  • Div 29
+  • Div 358
+  • Div 48
+  • Div 57
+  • Div 81
+  • Div 83
+  • Div 84
+  • Division 11
+  • Division 111
+  • Division 23
+  • Division 27
+  • Division 29
+  • Division 358
+  • Division 48
+  • Division 57
+
+Cases Referenced:
+  • Anor v. Customs 
+  • Australia Proprietary Limited v. Carrigan
+  • Australian Mutual Provident Society v. Chaplin 
+  • Maw v. Customs 
+  • New Zealand Limited v Gosselin 
+  • New Zealand Limited v. Gosselin 
+
+Topics: GST, FBT, Partnerships, Companies, Superannuation
+
+
+
+================================================================================
+
+GSTR 2000/37 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+175 related documents
+Goods and Services Tax Ruling
+GSTR 2000/37
+Goods and services tax: agency relationships and the application of the law
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+This Ruling contains references to provisions of the
+A New Tax System (Goods and Services Tax) Regulations 1999,
+which have been replaced by the
+A New Tax System (Goods and Services Tax) Regulations 2019.
+This Ruling continues to have effect in relation to the remade Regulations.
+Paragraph 32 of
+TR 2006/10
+provides further guidance on the status and binding effect of public rulings where the law has been repealed and rewritten.
+A
+comparison table
+which provides the replacement provisions in the
+A New Tax System (Goods and Services Tax) Regulations 2019
+for regulations which are referenced in this Ruling is available.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+9
+Context of agency relationships
+10
+Ruling with explanations
+28
+Definitions
+131
+Detailed contents list
+135
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 37 of the
+Taxation Administration Act 1953
+and former section 105-60 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes
+.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you
+.
+[Note
+:
+This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling describes what is meant by principal/agent relationships ('agency relationships') and explains the operation of Subdivisions 153-A (General) and 153-B (Principals and intermediaries as separate suppliers or acquirers), Division 57 (Resident agents acting for non-residents) and Division 111 (Reimbursement of employees etcetera) of the
+A New Tax System (Goods and Services Tax) Act 1999
+('GST Act').
+2. Both Subdivision 153-A and Subdivision 153-B apply to entities that are registered or required to be registered for GST, and that make a taxable supply or creditable acquisition through an agent or an insurance broker in the case of Subdivision 153-A or through an intermediary in the case of Subdivision 153-B.
+3. First, this Ruling explains the special rules that apply under Subdivision 153-A to agents and insurance brokers who have
+not
+entered into an arrangement where they are treated as separate suppliers or acquirers under Subdivision 153-B (paragraphs 55 to 71 of this Ruling). In particular, the Ruling explains:
+•
+to which tax periods input tax credits are attributable where a principal makes creditable acquisitions through an agent;
+•
+to which tax periods decreasing adjustments are attributable where supplies are made by a principal through an agent;
+•
+the rules for agents when issuing tax invoices and adjustment notes;
+•
+the effect of making a supply of an insurance policy through an insurance broker; and
+•
+how to treat disbursements.
+4. Secondly, this Ruling explains the special rules under Subdivision 153-B that apply to principals and intermediaries who have entered into an arrangement where they are treated as separate suppliers or acquirers (paragraphs 74 to 96 of this Ruling). In particular, the Ruling explains:
+•
+the requirements for these arrangements;
+•
+the effects these arrangements have on supplies and acquisitions;
+•
+how the Commissioner may determine in writing the application of the arrangements to specified supplies or acquisitions in certain industries;
+•
+the options an intermediary has in calculating GST turnover;
+•
+the record keeping requirements for these arrangements; and
+•
+how a commission or similar payment to the intermediary is treated under these arrangements.
+5. Thirdly, the Ruling explains the special rules in Division 57 that apply to resident agents acting for non-residents that make taxable supplies, taxable importations, creditable acquisitions or creditable importations in the indirect tax zone (Australia)
+[A1]
+(paragraphs 97 to 121 of this Ruling). In particular, the Ruling explains:
+•
+who is liable for the GST payable on a taxable supply or taxable importation made by a non-resident through a resident agent;
+•
+who is entitled to the input tax credits for a creditable acquisition or creditable importation made by a non-resident through a resident agent;
+•
+the treatment of any adjustment that a non-resident has relating to a supply, acquisition or importation made through a resident agent;
+•
+the registration requirements for a resident agent acting for a non-resident;
+•
+the requirements regarding cancellation of registration of a resident agent acting for a non-resident;
+•
+the notification requirements of a resident agent upon cessation of the agency relationship with a non-resident;
+•
+the tax periods applicable to a resident agent acting for a non-resident; and
+•
+the GST return requirements for non-residents and their resident agents.
+6. Finally, the Ruling explains a principal's entitlement under Division 111 to an input tax credit for reimbursing an agent for expenses the agent incurs in connection with the carrying on of the principal's enterprise (paragraphs 122 to 129 of this Ruling). It also outlines the tax invoice requirements for a reimbursement to agents (paragraph 130 of this Ruling).
+7. Certain terms used in this Ruling are defined or explained in the Definitions section of this Ruling. These terms, when first mentioned elsewhere in the body of the Ruling, appear in
+bold
+type. Other terms used in this Ruling are defined or explained in section 195-1 of the GST Act.
+8. Unless otherwise stated, all legislative references in this Ruling are to
+A New Tax System (Goods and Services Tax) Act 1999
+('GST Act').
+Date of effect
+9. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+9A. [Omitted.]
+9B. [Omitted.]
+Context of agency relationships
+General law and agency relationships
+10. An entity may be authorised by another party to do something on that party's behalf. Generally, the authorised entity is called an agent. The party who authorises the agent to act on their behalf is called the principal. For an insurance policy, the authorised entity is often called an insurance broker. The party who authorises an insurance broker to act on their behalf is called the insured (the recipient of the supply). Also, if appropriately authorised, an insurance broker could act as an agent on behalf of the insurer.
+11. For commercial law purposes, an agent is a person who is authorised, either expressly or impliedly, by a principal to act for that principal so as to create or affect legal relations between the principal and third parties.
+[1]
+12. The principal is bound by the acts of an agent as a result of the authority given to the agent. In cases of actual authority, the relationship between a principal and an agent is a consensual one so that no party can claim to be a principal's agent unless both parties consent to the creation of the agency.
+[2]
+13. Further, a principal may be bound by the acts of another person if the principal acts in a way that a third party believes that the other person is authorised to act as the principal's agent when this previously has not been the case. The authority for the agent to act for the principal in this circumstance is termed 'ostensible authority'. The principal will be liable for acts of the agent within the scope of the authority that the principal gives to the agent by virtue of his or her conduct and actions.
+14. The characteristics of actual authority and ostensible authority were summarised in
+Equiticorp Finance Ltd (in liquidation) v. Bank of New Zealand
+(1993) 32 NSWLR 50. As Clarke JA and Cripps JA stated at 132:
+'An agent may have actual authority to bind a principal which is quite distinct from, but may overlap, ostensible authority. Actual authority may be express or implied. There is no evidence that Hawkins had express authority to commit the use of the liquidity reserve and the only question is whether implied actual authority or ostensible authority was established.
+Actual authority arises where a principal grants, and an agent accepts, authority for the agent to perform specific tasks on behalf of the principal - in short there must be a consensual agreement between the principal and agent. Notwithstanding the absence of an express agreement, the parties, that is, the principal and agent, may conduct themselves in such a way that it is proper to infer that the relevant authority has been conferred on the agent.
+Accordingly, where the question is whether the agent has implied authority to act in a particular way the court directs its attention to the conduct of the parties in order to decide whether the inference of authority should be drawn. Ostensible authority is quite different. The question then is whether the principal has held out the agent as having authority to act on its behalf. Obviously a principal may expressly hold out a person as its agent to act on his or her behalf in a specific transaction but usually where this occurs there will have been a grant of actual authority. On the other hand there may be no evidence of a grant of actual authority and yet the principal may have so acted as to hold out the agent as having the requisite authority. In many instances the circumstances which gave rise to ostensible authority may also provide a basis for inferring an actual grant of authority.'
+15. When an agent uses his or her authority to act for a principal, then any act done on behalf of that principal is an act of the principal. Also, a principal is not bound by acts that are not within the expressed, implied or ostensible authority conferred on the agent. However, the principal may ratify or confirm an unauthorised dealing.
+16. Particular statutes may govern the creation of an agency relationship for different transactions. For example, the appointment of an agent by a deed is required where the agent must execute an instrument under seal on behalf of the principal.
+[3]
+Also, the appointment of an agent is required in writing where the agency is to last for a period exceeding one year.
+[4]
+Special agents
+17. Agents can be classified according to the extent of the authority conferred by the principal. Special agents have authority to act for some special occasion or purpose that is not within the ordinary course of business or a profession. For example, Mike appoints Graeme as his agent for the purposes of obtaining a motor vehicle. The only authority given to Graeme as an agent is to obtain the motor vehicle.
+General agents
+18. General agents have authority arising out of, and in the ordinary course of their business, to do some act or acts on behalf of their principals in relation to that business. The term 'general agents' also refers to an agent who is authorised to act on behalf of a principal, generally in transactions of a particular kind or incidental to a particular business. That is, the principal of a general agent is bound by any acts of the agent that are incidental to the ordinary conduct of the agent's business or effective performance of his duties, even if the principal has imposed limitations on the agent's authority. Share brokers, solicitors or property managers are examples of this type of agency relationship.
+Universal agents
+19. Universal agents have authority to act for the principal in all matters. Usually, a universal agent is appointed by a power of attorney.
+GST law and agency relationships
+Attribution
+20. Where a principal makes a taxable supply or a creditable acquisition through an agent, the GST payable by the principal or the input tax credit to which the principal is entitled would be attributable according to the basic attribution rules set out in sections 29-5 and 29-10 unless a special attribution rule applies. Similarly, the principal would attribute a decreasing adjustment according to the basic attribution rules set out in section 29-20 unless a special attribution rule applies.
+21. However, to properly attribute any input tax credits or decreasing adjustments according to those basic rules, a principal may need to know information about when consideration is provided, when an invoice is issued or whether an adjustment is required. If a principal does not obtain this information until after the end of the relevant tax period in which attribution would normally occur, the application of the basic attribution rules may impose an unreasonable burden on the principal. Accordingly, the Commissioner has made a determination under section 29-25 to alter the attribution rules for principals who rely on an agent for information required to account for GST. A copy of that determination is attached to Goods and Services Tax Ruling GSTR 2000/29 as Schedule 4.
+22. Also, sections 153-5 and 153-10 provide that
+either
+the principal or the agent may hold the relevant tax invoice or adjustment note when the principal gives the Commissioner a GST return for the relevant tax period.
+Documentary requirements
+23. Under the basic rules about tax invoices and adjustment notes, a tax invoice for a taxable supply or an adjustment note must be issued by a principal who makes supplies through an agent.
+[5]
+However, Subdivision 153-A provides that the principal's obligations are complied with if the agent issues tax invoices and adjustment notes on behalf of the principal for those supplies made by the principal through the agent.
+[6]
+Agreements and determinations under Subdivision 153-B
+24. Subdivision 153-B simplifies the way you can account for GST by allowing an option for entities to enter into an arrangement under which an intermediary is treated as a separate supplier and/or acquirer. The general effect of entering into these arrangements in respect of both supplies and acquisitions is that the principal and its intermediary are treated as acting as between a principal and another principal. However, Subdivision 153-B is not available if the intermediary is an electronic distribution platform in relation to the supply.
+[6A]
+25. Subdivision 153-B arrangements do not have an impact on other taxation laws except where specifically noted. Nor do the arrangements have an impact upon other laws or contractual arrangements between the parties. The option exists for GST purposes only and allows an alternative way for intermediaries and principals to account for GST.
+Resident agents and non-resident principals
+26. A
+non-resident
+entity may make taxable supplies, taxable importations, creditable acquisitions or creditable importations through a
+resident agent.
+The resident agent is required to be registered if the non-resident is registered or required to be registered. The provisions of Division 57 treat any GST liabilities or entitlements of the non-resident as those of the resident agent.
+26A. Under Division 57, if a taxable supply is made through a resident agent any GST liabilities become liabilities of the resident agent. There are two key exceptions to this rule:
+•
+Where the non-resident supplier makes the taxable supply through an enterprise that they carry on in Australia.
+[6B]
+In these circumstances, the non-resident supplier is still the liable entity.
+•
+Where the supply is done in Australia and is only a taxable supply because of the reverse charge rules under section 84-5. The override to this exception is explained at paragraphs 98B and 98C of this Ruling.
+Reimbursement of agent's expenses
+27. An agent may incur an expense (for example, motor vehicle expenses) in connection with the carrying on of your enterprise. If you reimburse the agent for that expense, you may be entitled to claim an input tax credit for the reimbursement under Division 111. Section 111-5 allows a principal to claim an input tax credit on a reimbursement made to the agent for an acquisition (being a taxable supply of the supplier) made by the agent while the agent was acting on the principal's behalf. This entitlement exists even though the requirements of section 11-5 (which is about what is a creditable acquisition) are not met.
+Ruling with explanations
+Agency relationships
+Factors that indicate an agency relationship
+28. In most cases, any relevant documentation about the business relationship, the description used by the parties and the conduct of the parties establish the existence of an agency relationship. Therefore, the following factors may show that you are an agent under an agency relationship, although no single factor (by itself) is determinative:
+•
+any description of you as an agent, having authority to act for another party, in an agreement (expressed or implied) between you and the other party;
+•
+any exercise of the authority that you are given to enter into legal relations with a third party;
+•
+whether you bear any significant commercial risk;
+•
+whether you act in your own name;
+•
+whether you are remunerated for your services by way of commissions and whether you are entitled to keep any part of your remuneration secret from another party; and
+•
+whether you decide the price of things that you might sell to third parties.
+29. In some situations, these factors may be difficult to establish. For example, situations may arise where:
+•
+the existence of a principal is disclosed but not named; or
+•
+the existence of a principal is not disclosed to third parties.
+However, documents used by the parties and the conduct of the parties may still indicate the existence of an agency relationship.
+Business use of the term 'agent'
+30. Many entities in commercial transactions are often described as 'agents', 'distributing agents', 'selling agents', 'marketing agents', 'sole agents' or 'exclusive agents'. Depending upon the terms of the arrangements the entity has with its suppliers, the entity could be acting as a buyer and a reseller rather than as an agent.
+31. The business use of the word 'agent' was discussed in
+International Harvester Company of Australia Proprietary Limited v. Carrigan's Hazeldene Pastoral Company
+(1958) 100 CLR 644. The High Court stated at 652:
+'Agency is a word used in law to connote an authority or capacity in one person to create legal relations between a person occupying the position of principal and third parties. But in the business world its significance is by no means thus restricted.'
+Their Honours further stated at 653:
+'No one supposes that the "distributing agent" or "exclusive agent" in a particular "territory" for a proprietary commodity or specific kind of article or machine is there to put a "consumer" into contractual relations with the manufacturer. In the case of any wide geographical distribution there is a general understanding of the practices of allotting territories, of zoning, of providing some regional superintendence of dealers or distributing "agents" as well as maintenance, and sometimes of the proper use, of the machine or article. None of this implies that the manufacturer or the head supplier contracts with the ultimate buyer or "consumer" as vendor.'
+32. Consequently, the relationship between the parties is determined by an examination of the particular facts surrounding relevant transactions. However, should there be any doubt about the position of the parties in a transaction, an agreement may contain descriptions that clarify the relationship.
+33. Nevertheless, an agency relationship can arise even where the contract governing a relationship specifically precludes it from being an agency. In the New Zealand case of
+Case R34
+(1994) 16 NZTC 6,190, which dealt with GST, the distributor of motor vehicles entered into an agreement that authorised a dealer to sell its vehicles. The agreement expressly stated that the dealer was not an agent of the distributor. When the dealer sold a motor vehicle it had to give the purchaser a repair warranty. It was held that the dealer gave the repair warranty to each customer as an agent for the distributor and that the agreement could not displace the agency relationship which clearly applied in practice.
+34. A clause in an agreement which states that an agency relationship exists must be considered with all the other terms of the agreement. Such a clause cannot receive effect according to its terms if it contradicts the effect of the agreement as a whole; the parties to an agreement cannot alter the true substance of the relationship by simply giving it a different label (see
+Potter & Anor v. Customs and Excise Comrs
+[1985] STC 45). As Gray J stated in
+Re Porter; Re Transport Workers Union of Australia:
+[7]
+'Although the parties are free, as a matter of law, to choose the nature of the contract which they will make between themselves, their own characterisation of that contract will not be conclusive. A court will always look at all of the terms of the contract, to determine its true essence, and will not be bound by the express choice of the parties as to the label to be attached to it. As Mr Black put it in the present case, the parties cannot create something which has every feature of a rooster, but call it a duck and insist that everybody else recognise it as a duck.'
+However, the parties may use such a clause to overcome any ambiguity as to the true nature of the relationship.
+[8]
+Examples of the business use of the term 'agent'
+Example 1
+35. A
+newsagent
+acts as an agent for one publisher and as a buyer and reseller for another publisher depending upon each agreement the newsagent has with the individual publishers. By the use of the word 'agent', a customer may believe that the newsagent acts as an agent for all publishers. However, the newsagent can refer to the particular agreement with each publisher to determine the nature of each sale made to a customer.
+Example 2
+36. When a
+real estate agent
+acts as a marketer of a property, it does so in a limited capacity. That is, the real estate agent normally has no authority to sell the property but can act on behalf of the vendor in other ways when selling the property (for example, arranging inspections and advertising). Generally, instructions will be given by the vendor as to the price and an agreement will be reached between the parties as to how the property will be marketed. The agent will then solicit offers and transmit them to the vendor. The real estate agent cannot create or affect the vendor's legal relations with a purchaser.
+37. As no interest in the property passes to the real estate agent, there is no taxable supply of property from the vendor to the real estate agent. However, there is a supply from the real estate agent to the vendor, being the provision of services by the real estate agent to the vendor. Accordingly, a commission may be payable.
+Examples of agency relationships
+Example 3
+38. An auctioneer acts for a vendor to sell goods at an auction by providing auction services to the vendor and charging a commission. The vendor is the principal and the auctioneer is the agent. The auctioneer, on behalf of the vendor, is making a supply of goods to the purchaser. The auctioneer also is making a supply of auction services to the vendor.
+Example 4
+39. An entity is appointed as an agent to represent and organise a tour on behalf of an entertainer. The entity is the agent and the entertainer is the principal. The entity is making a supply to the entertainer by representing and organising the tour for the entertainer.
+Example 5
+40. A travel agent agrees with a hotel company to sell accommodation to a traveller on behalf of the hotel for a commission. The travel agent is an agent and the hotel company is a principal. The travel agent is making a supply on behalf of the hotel by arranging the accommodation for the traveller at the hotel.
+Example 6
+41. A real estate agent acts under a commercial property management agreement with a landlord to arrange a supply of premises by the landlord. The real estate agent is an agent for the landlord when it arranges leases with tenants if the agent has the landlord's authority to enter into the lease agreement on behalf of the landlord.
+Examples where there is no agency relationship or where agents act in their own right
+Example 7
+42. When a lessee enters into a lease agreement with the owner of the property (the lessor), an agency relationship is not created merely because of a reimbursement clause in the agreement, subject to the considerations mentioned in paragraph 28 of this Ruling.
+Example 8
+43. A supply to the lessee for which the lessee is liable (such as electricity where the contract is between the utility and the lessee), will be a separate supply to that of the property. This supply does not involve an agency relationship.
+Example 9
+44. A travel agent purchases from a hotel company several nights accommodation that it later sells to a third party as part of a package. When the travel agent sells the accommodation, the travel agent does so as a principal in its own right and not as an agent of the hotel company. There are two separate supplies regarding the accommodation. The first is from the hotel company to the travel agent, and the second is from the travel agent to the third party.
+Transactions made through an agent
+45. Divisions 57 and 153 apply when a principal makes a relevant transaction (i.e., taxable supply, taxable importation, creditable acquisition or creditable importation) through an agent. The word 'make' and its derivatives, such as 'made', are used in the GST Act, inter alia, to connect the thing being transacted in the course of an entity's enterprise with the paying or receiving of consideration.
+[9]
+When an agent is authorised to undertake a transaction on behalf of the principal, thereby binding the principal to the legal effects of the transaction, then the transaction is made by the principal through the agent.
+46. An alternate view, based on the UK decision in
+National Mortgage and Agency Company of New Zealand Limited v. Gosselin and Another
+(1922) 38 TLR 832, is that the agent does not have to have the authority of a principal to bind the principal to satisfy the requirement that the contract is made through the agent. The Supreme Court Rule that was considered in this case provided that when a contact is made 'by' or 'through' an agent in the jurisdiction, a writ of summons could be served on a defendant outside of the jurisdiction for a breach of that contract. Hence, it was necessary for the Court to decided whether 'by' and 'through' had different meanings. It was decided that 'by' meant the agent had power to bind the principal while 'through' meant it was enough for the agent, through mediation, to arrange the terms of the contract.
+47. The Commissioner believes this case can be distinguished because the provisions of the GST Act require, inter alia, that you 'make' a supply or an acquisition if it is made for consideration.
+[10]
+When the supply is made through an agent, it is necessary for the agent to make a supply for consideration on behalf the principal and it can only do that if it has the authority of the principal. Also, the Explanatory Memorandum to the A New Tax System (Goods and Services Tax) Bill 1998 explains that the principles of the general law of agency are to be followed in applying GST law to agency relationships.
+Agency relationship and disbursements
+48. Agents may incur expenses on a client matter both as an agent of the client and as a principal in the ordinary course of providing their services to the client. For example, in most cases, even though agreements between solicitors and clients may not use the term agent or agency, it is clear that the clients have authorised the solicitors to act on their behalf in the particular matter. When the solicitor acts as an agent for the client, the general law of agency applies so that the solicitor is 'standing in the shoes' of the client.
+49. If a disbursement is made by a solicitor and incurred in the solicitor's capacity as a paying agent for a particular client, then no GST is payable by the solicitor on the subsequent reimbursement by the client. This is because the goods or services to which the disbursement relates are supplied to the client, not to the solicitor, by a third party. Also, the reimbursement forms no part of the consideration payable by the client for the supply of services by the solicitor. However, if goods or services are supplied to the solicitor to enable the solicitor to perform services supplied to the client, GST is payable by the solicitor on any reimbursement by the client of expenses incurred on those goods or services, whether the reimbursement is separately itemised or included as part of the solicitor's overall fee. This is because the reimbursement is part of the consideration payable by the client for services supplied by the solicitor.
+[11]
+50. The following are examples of common fees and charges, for which a client is liable, that may be paid for by a solicitor as a paying agent of the client. If the solicitor makes the payment, GST is not payable on the subsequent reimbursement by the client to the solicitor for:
+•
+application fees;
+•
+registration fees;
+•
+court fees;
+•
+barrister's fees when the barrister is engaged by the client;
+•
+incorporation fees;
+•
+most fees in connection with registering and maintaining the status of particular legal relationships such as companies, partnerships, societies or associations;
+•
+fines, penalties, stamp duty and taxes; and
+•
+probate fees.
+51. The following are examples of common disbursements that, depending upon the contractual arrangements between the client and the solicitor, can be incurred by a solicitor and then reimbursed by a client as part of the consideration payable for legal services provided to the client by the solicitor. If the following disbursements are incurred by a solicitor, GST is payable on the subsequent reimbursement by the client to the solicitor:
+•
+search fees;
+•
+municipal search fee (eg rates; zoning; permits);
+•
+birth/death/marriage certificate fees;
+•
+barrister's fees when the barrister is engaged by the solicitor;
+•
+witness fees;
+•
+fees for recording court proceedings;
+•
+service of document fees;
+•
+fees for expert report or attendance in court; and
+•
+fees to obtain court transcript.
+52. The GST treatment of disbursements in paragraphs 48 to 51 of this Ruling is consistent with the income tax treatment of disbursements as explained in Taxation Ruling TR 97/6
+Income tax: tax treatment of solicitors' disbursements/recoupments.
+53. The following are examples of costs that a solicitor may incur in carrying on the business of providing a legal service to the client. GST is payable on any subsequent payment by the client to the solicitor for the supply of the legal service for:
+•
+telephone expenses;
+•
+postage expenses;
+•
+photocopying expenses;
+•
+courier expenses;
+•
+word processing expenses; and
+•
+travel expenses of the solicitor and staff.
+Example 10
+54. A law firm acting for a client charges the client for costs incurred in providing a legal service and receives a fee for its professional services. The firm acts as a paying agent for the client with respect to the outgoings which the client is legally obliged to pay (such as the payment of land taxes and court costs) for supplies made to it. However, an agency relationship generally does not apply to those circumstances where the law firm provides a legal service for a client, pays for taxable supplies on its own behalf and then charges the client for those expenses (such as photocopying and telephone calls).
+Special rules that apply to agents and insurance brokers under Subdivision 153-A
+GST payable and input tax credits under agency relationships
+55. If you are an agent at general law, you are an agent for GST purposes unless Subdivision 153-B applies. Accordingly, if you are an agent (where taxable supplies are made through you), the principal is liable for any GST payable on the supplies. Also, if you are an agent (where creditable acquisitions are made through you), the principal is entitled to any input tax credits.
+[13]
+56. As noted earlier in paragraph 21 of this Ruling, the Commissioner has made a determination
+[14]
+under section 29-25, to alter the attribution rules for supplies and acquisitions made by an agent where the supplier or recipient has to rely on the agent for information to account for GST payable, input tax credits and adjustments for supplies and acquisitions made through the agent.
+57. The particular attribution rule about principals relying on information from their agents for supplies and/or acquisitions made under an agency relationship requires that the principal becomes aware of the information. Whether the principal becomes aware of the required information is a question of fact in each case. It is based on the principal's actual knowledge of the information needed to account for any GST payable on the supply, any input tax credit arising from the acquisition or any related adjustment.
+[15]
+However, the determination does not alter the application of Subdivision 153-A about which party holds the tax invoice or adjustment note.
+58. This particular attribution rule does not apply to GST payable and the entitlement to input tax credits under agency relationships for taxable supplies, taxable importations, creditable acquisitions or creditable importations made by a non-resident through a resident agent. Division 57 applies to these supplies, importations and acquisitions.
+[16]
+Attributing input tax credits for creditable acquisitions made through an agent
+59. A principal or an agent might not hold a tax invoice for a creditable acquisition when the principal gives to the Commissioner a GST return for the relevant tax period. If so, the input tax credit (including any relevant part of the input tax credit) for the acquisition is not attributable to that tax period under section 153-5. It is attributable to the first tax period for which the principal gives to the Commissioner a GST return at a time when the principal or the agent holds that tax invoice.
+[17]
+Attributing decreasing adjustments relating to taxable supplies made through an agent
+60. A principal or an agent might not hold an adjustment note for a decreasing adjustment when the principal gives to the Commissioner a GST return for the relevant tax period. If so, the decreasing adjustment (including any relevant part of the adjustment) is not attributable to that tax period under section 153-10. It is attributable to the first tax period for which the principal gives to the Commissioner a GST return at a time when the principal or the agent holds that adjustment note.
+Issuing tax invoices for taxable supplies made through an agent
+61. Paragraph 29-70(1)(a) requires that the principal (as the supplier) must issue a tax invoice for a taxable supply. However, if a principal makes a taxable supply through an agent, section 153-15 allows either a principal or an agent, but not both, to issue the tax invoice. A principal may be liable to a penalty, under the TA
+A,
+if the principal and agent both issue separate tax invoices for the same taxable supply.
+[18]
+62. Subsection 29-70(2) requires that if the principal (as the supplier) has not issued a tax invoice and the recipient of the supply requests one, it must be issued within 28 days of that request. In agency relationships, this obligation arises when the recipient makes a request to either the principal or the agent, and is complied with if either the principal or the agent gives the recipient a tax invoice within 28 days after the request.
+[19]
+63. A tax invoice is a document that complies with the following requirements:
+•
+it is issued by the supplier of the supply or supplies to which the document relates (paragraph 29-70(1)(a));
+•
+it is in the approved form (paragraph 29-70(1)(b));
+•
+it contains enough information to enable the following to be clearly ascertained:
+-
+the identity and ABN of the supplier (subparagraph 29-70(1)(c)(i));
+-
+the identity or ABN of the recipient if the total price of the supply or supplies is at least $1,000, or such higher amount as the regulations specify (subparagraph 29-70(1)(c)(ii));
+-
+what is supplied, including the quantity (if applicable) and the price (subparagraph 29-70(1)(c)(iii));
+-
+the extent to which each supply included on the document is a taxable supply (subparagraph 29-70(1)(c)(iv));
+-
+the date the document is issued (subparagraph 29-70(1)(c)(v));
+-
+the amount of GST (if any) payable in relation to each supply included on the document (subparagraph 29-70(1)(c)(vi)); and
+-
+such other matters as the regulations specify (subparagraph 29-70(1)(c)(viii));
+[19A]
+•
+it can be clearly ascertained from the document that the document was intended to be a tax invoice (paragraph 29-70(1)(d)); and
+•
+it sets out the GST branch registration number of the GST branch (if applicable) (subsection 54-50(1)).
+64. There is an argument that subsection 153-15(1) not only varies the requirements of subsection 29-70(2), about who can issue the tax invoice, but also varies the requirements set out in subsection 29-70(1) about the information required on a tax invoice, including the issuer's identity and ABN.
+64A. However, the Commissioner considers that the better view is that subsection 153-15(1) only varies the requirements of subsection 29-70(2) about who can issue the tax invoice.
+65. If an agent issues a tax invoice for a supply made on behalf of the principal that contains the agent's identity and ABN, the document would not meet the requirements of subsection 29-70(1). However, the Commissioner has made a determination under subsection 29-10(3) to waive the requirement for the recipient to hold a tax invoice before attributing an input tax credit to a tax period, if the recipient or their agent holds a document that contains the identity and ABN of the supplier's agent, and that otherwise satisfies the requirements of subsection 29-70(1).
+[21]
+66. You may act as an agent for more than one principal in a single dealing with a customer. In addition to supplies you make as an agent on behalf of your principals, you may also make a separate supply on your own account. In these situations, if you issue a single tax invoice that contains your identity and ABN for all of the supplies, the document would not meet the requirements of subsection 29-70(1) for the supplies you made on behalf of the principal. However, where the recipient holds a document that contains the identity and ABN of the agent for the supplier, the total price for all of the taxable supplies, and that otherwise satisfies the requirements of subsection 29-70(1), the determination made by the Commissioner will also apply such that the recipient does not need to hold a tax invoice before attributing their input tax credit entitlement to a tax period.
+Issuing adjustment notes for taxable supplies made through an agent
+67. Paragraph 29-75(1)(a) requires that the principal (as the supplier) must issue an adjustment note for an adjustment that arises from an adjustment event relating to a taxable supply. If the principal has not issued an adjustment note and the recipient of the supply requests one, it must be issued within 28 days of that request.
+[22]
+68. An adjustment note for a decreasing adjustment relating to a taxable supply made through an agent can be issued by either the principal or its agent, but only one adjustment note can be issued for that adjustment.
+[23]
+The principal and the agent should not both issue separate adjustment notes for the one adjustment. A principal may be liable to a penalty, under the TA
+A,
+if both issue separate adjustment notes for the same adjustment event relating to a taxable supply.
+[24]
+69. Although in agency relationships, section 153-20 has effect despite section 29-75, the requirements for the information that must be contained in an adjustment note remain the same.
+[25]
+Subsection 29-75(1) requires that an adjustment note:
+•
+must set out the ABN of the entity that issues it, which can either be that of the principal or the agent (paragraph 29-75(1)(b)); and
+•
+must contain such other information as the Commissioner determines in writing
+[26]
+(paragraph 29-75(1)(c)); and
+•
+must be in the approved form (paragraph 29-75(1)(d)).
+70. [Omitted].
+71. An adjustment note must contain enough information to clearly ascertain the identity of the supplier or the supplier's agent and, if required, the identity or ABN of the recipient or the recipient's agent.
+[27]
+Insurance supplied through insurance brokers
+72. When an insurance policy is supplied by an insurer through an insurance broker who is acting on behalf of the insured (the recipient of the supply), section 153-25 has effect as if the supply were made through the insurance broker acting as an agent of the insurer.
+[28]
+This means that the insurance broker may issue tax invoices or adjustment notes on behalf of the insurer. The Commissioner has made a determination under subsection 29-10(3) to waive the requirement for a recipient to hold a tax invoice before attributing an input tax credit to a tax period, if the recipient or their agent holds a document that contains the identity and ABN of the insurance broker rather than the issuer, and that otherwise satisfies the requirements of subsection 29-70(1).
+[28A]
+Recipient created tax invoices
+73. The Commissioner has determined classes of tax invoices that may be issued by a recipient of a taxable supply.
+[29]
+Subsection 29-70(1) states the information that must be contained in such an invoice.
+[30]
+If an agent for the recipient creates the recipient created tax invoice, the requirements for the information that must be contained in a recipient created tax invoice remain the same, including the requirement to contain enough information to clearly identify the recipient's identity or ABN.
+[31]
+Principals and intermediaries as separate suppliers and/or acquirers under Subdivision 153-B
+74. Section 153-50 provides that entities may enter into an arrangement under which an intermediary is treated as a separate supplier and/or acquirer. That is, the intermediary is treated as a principal in its own right. Further, nothing in this section prohibits supplies that are not taxable supplies and acquisitions that are not creditable acquisitions from being included in such an arrangement. This includes supplies and acquisitions that are GST-free, input taxed or certain payments of an Australian tax or Australian fee or charge.
+[32]
+Also, the nature of these supplies and acquisitions, as between the principal and the third party, is not changed by entering into a Subdivision 153-B arrangement.
+[33]
+For example, an acquisition by a principal from a third party that is not a creditable acquisition will not be deemed to be a creditable acquisition because of the arrangement.
+74A. Even though supplies that are not taxable supplies may be included in a Subdivision 153-B arrangement, section 153-55, which is about the effect of these arrangements on supplies, only applies to the taxable supplies covered by the arrangement. Similarly, section 153-60, which is about the effect of these arrangements on acquisitions, only applies to the creditable acquisitions covered by the arrangement. For supplies other than taxable supplies and acquisitions other than creditable acquisitions, the parties account for them as being from principal to principal for GST purposes. As sections 153-55 and 153-60 do not apply in this circumstance, the parties need to account for those supplies and/or acquisitions in the arrangement separately from the supply of intermediary services. These consequences are explained in this Ruling at paragraphs 83A to 83M for supplies and paragraphs 91A to 91L for acquisitions.
+75. There is a view that subsection 153-60(1) operates to change an acquisition that is not a creditable acquisition of the principal from a third party into a creditable acquisition of the intermediary from the third party. It is suggested that this provision can be interpreted that way because the word 'creditable' was not used to describe the type of acquisition at the beginning of the subsection. While we recognise in paragraph 74 of this Ruling that an arrangement under section 153-50, that specifies kinds of acquisitions, may happen to cover acquisitions by a principal that are not creditable acquisitions, the clear objective of Subdivision 153-B is to facilitate the effective payment of GST liabilities and the effective claiming of GST credit entitlements where intermediary relationships exist. Accordingly, we consider that subsection 153-60(1), when read with the provisions of section 153-55 about taxable supplies, should be interpreted as only applying to creditable acquisitions.
+75A. However, Subdivision 153-B is not available if the intermediary is an electronic distribution platform in relation to the supply.
+[33A]
+Written agreement
+76. To enter this arrangement there must be a written agreement under which:
+•
+the intermediary arranges to make supplies and/or acquisitions to or from third parties on behalf of the principal;
+[34]
+•
+the kinds of supplies and/or acquisitions to which the arrangement applies are specified;
+[35]
+•
+the intermediary is treated for the purposes of GST law as a principal in making supplies or acquisitions;
+[36]
+•
+the intermediary will issue all tax invoices and adjustment notes relating to those supplies to third parties in the intermediary's name and the principal will not issue such documents;
+[37]
+and
+•
+both parties must be registered.
+[38]
+The effects of the arrangements on taxable supplies
+77. The effect of entering into these arrangements is that the principal and the intermediary treat the taxable supply of goods or services that the principal makes to third parties through the intermediary as two separate supplies, and that they are treated as acting between themselves as principal to principal for GST purposes.
+78. A taxable supply made to a third party is taken to be a taxable supply made by the intermediary.
+[39]
+In addition, the principal is taken to have made a taxable supply to the intermediary of the same thing that the intermediary is taken to supply.
+[40]
+The value of that second supply is determined by reference to the amount the intermediary is actually required to pay the principal.
+[41]
+This amount is the price charged and paid by the third party for the supply, less the amount the intermediary is permitted (under the contract with the principal) to keep as a commission or similar remuneration for the intermediary services. In these circumstances, the intermediary's supply of services is not a taxable supply
+[42]
+and the principal is not entitled to claim input tax credits relating to the commission or similar payment.
+79. As the supply by the principal to the intermediary is a taxable supply under the arrangement, the principal is required to account for the amount of GST payable on the supply, being 10% of the value discussed in paragraph 78 of this Ruling, to the ATO. The intermediary can claim 10% of the value as an input tax credit.
+80. In some cases, the agreement may require that the intermediary pay the principal the entire amount the third party is charged for the supply. Then, in a separate transaction, the principal pays the intermediary a commission or similar payment for the intermediary services. If this situation occurs, subsection 153-55(3) provides that the amount the intermediary has already been required to pay is reduced by the amount of the commission or similar payment for the intermediary services. In these circumstances, the intermediary's supply of services is not a taxable supply
+[43]
+and the principal is not entitled to claim input tax credits relating to the payment of the commission or similar payment.
+81. The meaning of 'a commission or similar payment' in subsection 153-55(3) cannot be read in isolation as these payments arise out of the principal's liability to pay the intermediary for the provision of the intermediary's services. That is, there is a direct relationship between the payments made by the principal and the services provided by the intermediary. Hence, regardless of their description (for example, as management fees), they are made to the intermediary by the principal in respect of services rendered by the intermediary for making the taxable supplies, taxable importations, creditable acquisitions or creditable importations for which the intermediary relationship was created.
+Example 11
+82. The House of Robert (principal) supplies perfume at a price of $143 (GST inclusive) to Heather (third party) through Baxters (intermediary). Baxters is entitled to receive a commission of $33 (GST inclusive) from The House of Robert for the selling service. The House of Robert and Baxters have entered into a Subdivision 153-B arrangement.
+83. The House of Robert is taken to have made a taxable supply to Baxters with the value of 10/11 of the amount payable to The House of Robert which equals the price to Heather less the commission to Baxters (i.e., value = 10/11 x ($143- 33) = $100). The House of Robert is liable to pay the GST of $10 on the taxable supply to Baxters (i.e., 10% of the $100). Baxters makes a taxable supply to Heather having a price of $143 including GST payable of $13 (1/11 x $143). Baxters is entitled to an input tax credit of $10 for the GST included in his acquisition from The House of Robert.
+The effects of the arrangements on supplies that are not taxable supplies
+83A. Where supplies that are not taxable supplies are the only things included in an arrangement under Subdivision 153-B, the effect is that the principal makes a supply to the intermediary that is not a taxable supply and the intermediary makes a supply to the third party that is not a taxable supply. The calculation in section 153-55, which reduces the payment the intermediary makes or is liable to make to the principal for taxable supplies, is not applicable. This section only applies to arrangements where the principal makes a taxable supply to a third party through an intermediary. As the supplies are not taxable supplies, the acquisitions by the intermediary and the third party are not creditable acquisitions.
+[43A]
+83B. The intermediary makes a taxable supply of intermediary services to the principal if the requirements of section 9-5 are met. The intermediary is liable for the GST on its supply of intermediary services and the principal is entitled to an input tax credit for its creditable acquisition of intermediary services.
+Example 11A
+83C. Adam's Health Products (AHP) uses an intermediary, Lauren's of Korinda (LK), to sell its health equipment. LK, on behalf of AHP, supplies Helen with a wheelchair for $1,300, which is a GST-free supply.
+[43B]
+LK receives a GST inclusive commission of $143 for its intermediary services. This GST inclusive amount represents the amount AHP pays or is liable to pay LK for its intermediary services.
+83D. AHP and LK have entered into a Subdivision 153-B arrangement. The parties have not applied subsection 38-45(3) to treat the supply of the wheelchair as a supply that is not GST-free.
+[43C]
+83E. Under this arrangement, AHP makes a GST-free supply of the wheelchair to LK for $1,300. As section 153-55 is not applicable in this circumstance, the amount payable by LK to AHP is $1,300. LK makes an acquisition of the wheelchair that is not a creditable acquisition from AHP. LK makes a GST-free supply of the wheelchair to Helen for $1,300.
+83F. LK also makes a separate taxable supply of intermediary services to AHP for $143. LK is liable to pay the GST of $13 (1/11 × $143) on its taxable supply of intermediary services and AHP is entitled to an input tax credit of $13 (1/11 × $143) for its creditable acquisition of the intermediary services.
+The effects of the arrangements involving taxable supplies and supplies that are not taxable supplies
+83G. Where taxable supplies and supplies that are not taxable supplies are included in a Subdivision 153-B arrangement, the intermediary's commission that relates to the taxable supplies needs to be determined for the purposes of the calculation in section 153-55. That is, to calculate the amount payable by the intermediary to the principal for the taxable supplies, only that part of the intermediary's commission which relates to the on-supply of the taxable supplies by the intermediary to third parties is included in the calculation. The amount payable by the intermediary to the principal for the taxable supplies is the amount charged and paid by the third party for those taxable supplies less the amount the intermediary is permitted to keep as a commission for making those taxable supplies (see paragraph 78 of this Ruling).
+83H. The commission that relates to making supplies that are not taxable supplies is treated separately as section 153-55 does not apply to these supplies. The intermediary is liable for the GST on its taxable supply of intermediary services that relates to making supplies that are not taxable supplies and the principal is entitled to an input tax credit on its corresponding creditable acquisition of intermediary services.
+Example 11B
+83I. Adam's Health Products (AHP) also sells household appliances through Lauren's of Korinda (LK). As well as the GST-free supply of the wheelchair for $1,300, LK supplies Helen with a number of AHP household appliances for $5,500. LK receives a GST inclusive commission of $693 for its intermediary services. This comprises $143 commission for the supply of the wheelchair and $550 commission for the supply of the household appliances.
+83J. AHP and LK have entered into a Subdivision 153-B arrangement. The parties have not applied subsection 38-45(3) to treat the supply of the wheelchair as a supply that is not GST-free.
+83K. Under this arrangement, the supply from AHP to LK comprises the taxable supply of household appliances and the GST-free supply of a wheelchair. The calculation in section 153-55 is only applicable to that part of the supply that is a taxable supply, which is the supply of the household appliances.
+83L. The amount payable by LK to AHP for this taxable supply of $5,500 is $4,950. That is, the amount of $5,500 is reduced by LK's GST inclusive commission of $550. AHP is liable to pay the GST of $450 (1/11 × $4,950) on its taxable supply of household appliances to LK. LK is liable to pay the GST of $500 (1/11 × $5,500) on its taxable supply of the household appliances to Helen for $5,500 and is entitled to an input tax credit of $450 (1/11 × ($5,500 - $550)) for its creditable acquisition of the household appliances from AHP for $4,950 ($5,500 - $550).
+83M. The effect of the arrangement on the GST-free supply of the wheelchair is that the principal and the intermediary need to account for this supply separately from the supply of intermediary services. That is, AHP accounts for the GST-free supply of the wheelchair to LK for $1,300 and the creditable acquisition of LK's intermediary services relating to the corresponding supply of the wheelchair to Helen for $143 for which it is entitled to an input tax credit of $13 (1/11 × $143). Since the supply of the wheelchair by LK to Helen is GST-free, LK is not liable for GST on that supply but is liable to pay GST of $13 (1/11 × $143) on its taxable supply of intermediary services related to making this GST-free supply on behalf of AHP.
+Adjustment events after the reporting period
+84. However, if the commission for intermediary services is paid after the end of the reporting period in which the relevant taxable supplies are made by the intermediary to the third party, this will be an adjustment event because the consideration for those supplies has changed. The price of each of those supplies made to the intermediary by the principal must be adjusted by a corresponding proportional amount of the commission. The principal must issue an adjustment note to the intermediary showing the change in consideration because, under this arrangement, the parties are acting as principal to principal.
+[44]
+85. When the intermediary sells the goods to a third party, the supply is a taxable supply made by the intermediary and the intermediary is required to remit to the ATO 1/11 of the price it charged the third party.
+[45]
+The basic attribution rules apply to the supply from the principal to the intermediary and from the intermediary to the third party.
+[46]
+The effects of the arrangements on creditable acquisitions
+86. The effect of entering into these arrangements is that the principal and the intermediary treat creditable acquisitions that the principal makes from third parties through the intermediary as two separate acquisitions and that they are treated as acting between themselves as principal to principal for GST purposes. When an intermediary makes a creditable acquisition from a third party on behalf of the principal, it is taken to make a creditable acquisition in its own right. The intermediary is entitled to claim an input tax credit on that acquisition.
+[47]
+87. The intermediary is taken to make a taxable supply to the principal of the same thing that the intermediary is taken to acquire.
+[48]
+The value of that supply is determined by reference to the amount that the principal is required to pay the intermediary.
+[49]
+This amount is the amount the third party charged for the supply, plus the amount the intermediary is permitted (under the contract with the principal) to charge as a commission or similar payment for the intermediary services. However, the intermediary's supply of services is not a taxable supply in its own right
+[50]
+and the principal is not entitled to claim input tax credits relating to the payment of the commission or similar payment.
+88. As the supply by the intermediary to the principal is a taxable supply under the arrangement, the intermediary is required to account for the amount of GST payable on the supply, being 10% of the value discussed in paragraph 87 of this Ruling, to the Commissioner. The principal can claim 10% of the value as an input tax credit (if they would have otherwise been making a creditable acquisition from the third party had Subdivision 153-B not applied).
+89. In some cases, the principal pays the intermediary the entire amount that the third party charged for the supply. Then, in a separate transaction, the principal pays the intermediary a commission or similar payment for the intermediary services. If this situation occurs, subsection 153-60(3) provides that the amount the principal has already been required to pay is increased by the amount of the commission or similar payment for intermediary services. The intermediary's supply of services is then not considered to be a taxable supply in its own right so that the principal is not entitled to claim the input tax credits relating to the payment of the commission or similar payment. The basic attribution rules apply to the supply from the third party to the intermediary and from the intermediary to the principal.
+[51]
+Example 12
+90. Elliott Party Supplies (principal) acquires stationery from Brizzy Stationery at a price of $550 (GST inclusive) through Dotty Services (intermediary). Dotty Services is entitled to receive a commission of $44 (GST inclusive) from Elliott Party Supplies for the purchasing service. Elliott Party Supplies and Dotty Services have entered into a Subdivision 153-B arrangement.
+91. Elliott Party Supplies is taken to have made a creditable acquisition from Dotty Services with the value of 10/11 of the amount payable to Dotty Services. This amount payable equals the amount payable to Brizzy Stationery plus the commission payable to Dotty Services (i.e., value = 10/11 x ($550+44) = $540). Elliott Party Supplies is entitled to an input tax credit of $54 (10% x $540). Dotty Services is liable to pay the GST of $54 on the taxable supply made to Elliott Party Supplies. Dotty Services is entitled to an input tax credit of $50 on the creditable acquisition it makes from Brizzy Stationery (1/11 of the $550).
+The effects of the arrangements on acquisitions that are not creditable acquisitions
+91A. Where acquisitions that are not creditable acquisitions are the only things that are included in a Subdivision 153-B arrangement, the effect is that the intermediary makes an acquisition that is not a creditable acquisition from the third party and makes a supply of that acquisition, which is not a taxable supply, to the principal. The calculation in section 153-60, which increases the payment the principal makes or is liable to make to the intermediary for its creditable acquisitions from the intermediary, is not applicable. This section only applies to arrangements where the principal makes a creditable acquisition from a third party through an intermediary.
+91B. The intermediary makes a taxable supply of intermediary services to the principal if the requirements of section 9-5 are met. The intermediary is liable to pay the GST on its supply of intermediary services and the principal is entitled to an input tax credit for its creditable acquisition of intermediary services.
+Example 12A
+91C. Adam's Health Products (AHP) uses an intermediary, TT Services (TTS), to purchase health products from manufacturers. TTS, on behalf of AHP, acquires 40 wheelchairs for $10,000. The supply of the wheelchairs by the manufacturer to TTS is a GST-free supply. TTS's commission for this acquisition is $1,100, which is inclusive of GST. This GST inclusive amount represents the amount AHP pays or is liable to pay TTS for its services.
+91D. AHP and TTS have entered into a Subdivision 153-B arrangement. The parties have not applied subsection 38-45(3) to treat the supply of the wheelchairs as a supply that is not GST-free.
+91E. Under this arrangement, TTS's acquisition of the wheelchairs for $10,000 is not a creditable acquisition because the supply of the wheelchairs to TTS by the manufacturer is a GST-free supply. Similarly, AHP's acquisition of the wheelchairs for $10,000 from TTS is not a creditable acquisition. As the calculation in section 153-60 is not applicable, because the acquisition is not a creditable acquisition, the payment AHP makes or is liable to make to TTS for its supply of the wheelchairs is $10,000.
+91F. TTS also makes a separate taxable supply of intermediary services to AHP for $1,100. TTS is liable to pay the GST of $100 (1/11 × $1,100) on its taxable supply of intermediary services and AHP is entitled to an input tax credit of $100 (1/11 × $1,100) for its creditable acquisition of the intermediary services.
+The effects of the arrangements involving creditable acquisitions and acquisitions that are not creditable acquisitions
+91G. Where creditable acquisitions and acquisitions that are not creditable acquisitions are included in a Subdivision 153-B arrangement, the commission that relates to the creditable acquisitions needs to be determined for the purposes of the calculation in section 153-60. That is, to calculate the amount payable by the principal to the intermediary for the creditable acquisitions, only the commission related to making those creditable acquisitions by the intermediary is included in the calculation. The amount payable by the principal to the intermediary for the creditable acquisitions is the amount the third party charged for the taxable supply plus the amount the intermediary is permitted to charge as a commission for the intermediary services for making those creditable acquisitions (see paragraph 87 of this Ruling).
+91H. The commission that relates to making acquisitions that are not creditable acquisitions is treated separately as section 153-60 does not apply to these acquisitions. The intermediary is liable to pay the GST on its taxable supply of intermediary services that relates to acquisitions that are not creditable acquisitions and the principal is entitled to an input tax credit on its corresponding creditable acquisition of intermediary services.
+Example 12B
+91I. Adam's Health Products (AHP) also uses TT Services (TTS) to acquire household appliances from manufacturers and these are creditable acquisitions. As well as the acquisition of the wheelchairs for $10,000 (GST-free), TTS, on behalf of AHP, acquires 20 refrigerators for $8,800. TTS's commission for the acquisition of the wheelchairs is $1,100 and for the acquisition of the refrigerators is $880, resulting in a total commission payable of $1,980.
+91J. AHP and TTS have entered into a Subdivision 153-B arrangement. The parties have not applied subsection 38-45(3) to treat the supply of the wheelchairs as a supply that is not GST-free.
+91K. Under this arrangement, AHP makes a creditable acquisition of the refrigerators and an acquisition of the wheelchairs, the supply of which is GST-free. As the calculation in section 153-60 is applicable only to the creditable acquisition of the refrigerators, the commission of $880 that relates to this acquisition is included in the calculation. The amount payable by AHP to TTS for this creditable acquisition of $8,800 is $9,680. That is, the amount of $8,800 is increased by TTS's GST inclusive commission of $880. TTS is liable to pay the GST of $880 (1/11 × $9,680) on this supply and is entitled to an input tax credit of $800 (1/11 × $8,800) for its creditable acquisition of the refrigerators from the manufacturer. AHP is entitled to an input tax credit of $880 (1/11 × $9,680) for its creditable acquisition of the refrigerators.
+91L. The effect of the arrangement for the acquisition of the wheelchairs is that the parties need to account for the taxable supply of the intermediary services separately from the GST-free part of the acquisition. That is, AHP pays TTS $10,000 for the GST-free supply of the wheelchairs and $1,100 for TTS's taxable supply of intermediary services. TTS is liable to pay the GST of $100 (1/11 × $1,100) on its taxable supply of intermediary services and AHP is entitled to an input tax credit of $100 (1/11 × $1,100) for its creditable acquisition of TTS's intermediary services.
+Determinations that supplies or acquisitions are taken to be under these arrangements
+92. Under subsection 153-65(1), the Commissioner may determine in writing that supplies or acquisitions of a specified kind are supplies or acquisitions to which the arrangements in section 153-50 apply. If the Commissioner makes a determination, principals and intermediaries who are involved in making supplies or acquisitions of the specified kind are effectively taken to have agreed to adopt the arrangements referred to in section 153-50. However, one or both may notify the other in writing that supplies or acquisitions that the intermediary makes are not those to which the arrangements apply.
+[51A]
+93. The Commissioner may make a determination in relation to industries which have one or more of the following features:
+[52]
+•
+a significant number of intermediaries (for example, hair care industries);
+•
+a significant number of principals (for example, sectors of the tourism industry with wholesale travel intermediaries); or
+•
+difficulties in obtaining written agreements (for example, industries in which the intermediaries and principals involved are geographically isolated).
+94. Industry associations, whose members are involved in intermediary like relationships, can request that the Commissioner make a determination in respect of supplies or acquisitions of a specified kind. Your request for a determination should be made in writing or electronically and include the following information and documents:
+•
+name of the industry association;
+•
+summary information about the group represented by the association;
+•
+type of industry in which the intermediaries operate;
+•
+details of the supply and related transactions, including a description of the thing(s) supplied and current invoicing and payment practices;
+•
+details of the specified kind of supplies and acquisitions made by the industry that may be the subject of a determination;
+•
+whether there is consensus amongst industry participants generally about the desirability of a determination; and
+•
+an explanation as to why the determination is requested.
+GST turnover - supplies to which Subdivision 153-B applies
+95. Section 188-24 allows an intermediary the option of calculating their GST turnover as if the arrangement was not entered into. If the intermediary chooses not to use this basis of calculation, their GST turnover is calculated by using the value of the supplies they are taken to make under the arrangement as per sections 153-55 and 153-60.
+Record keeping
+96. A principal involved in an arrangement by agreement is required to keep a record of the written agreement for at least five years after the agreement was made.
+[53]
+However, in the situation where a party opts out in writing of an arrangement that is covered by a Commissioner's determination made under subsection 153-65(1), both parties are required to keep records of that notice for at least five years after the notice was given.
+[54]
+Resident agents acting for non-residents under Division 57
+GST liability
+97. Under the basic rules for GST, the supplier is liable for the GST on taxable supplies it makes and the entity making the taxable importation is liable for the GST on the importation.
+[55]
+98. Subject to the two exceptions discussed in paragraphs 98A, 98B and 98C of this Ruling, if you are a resident and an agent under the general law for a non-resident principal who is registered or required to be registered, and taxable supplies or taxable importations are made by your principal through you, then the GST payable on these transactions is payable by you and not by the non-resident principal.
+[56]
+98A. There are two exceptions where the resident agent is not liable for GST on taxable supplies by the non-resident principal made through a resident agent:
+•
+the taxable supplies or taxable importations are made through an enterprise that the non-resident principal carries on in Australia (principal liable);
+[56A]
+and
+•
+where the supply is done in Australia, where a section 57-7 agreement is not in place and the supply is only a taxable supply because of the application of the reverse charge rules under section 84-5 (recipient liable).
+[56B]
+98B. Section 57-7 allows a principal and agent to agree in writing to 'opt-in' to the Division 57 agency rules to make the resident agent the liable entity where section 9-26 would make the supply not connected with Australia.
+[56C]
+This agreement must apply to all supplies made by the principal through the resident agent. In this event the reverse charge provisions in Division 84 do not apply. If the recipient of the supply is an Australian-based business recipient,
+[56D]
+the recipient must be given a notice in the approved form (usually a tax invoice) no later than seven days after the earlier of:
+•
+the first day any consideration for the supply is provided; or
+•
+the day on which an invoice for the supply is issued.
+[56E]
+98C. Where a resident agent and non-resident principal have agreed in writing to terminate the agreement referred to in paragraph 98B of this Ruling ('the termination agreement'), it ceases to apply from:
+[56F]
+•
+the time specified in the termination agreement (which cannot be earlier than the start of the day the termination agreement is made); or
+•
+if otherwise, at the start of the day the termination agreement is made.
+99. The agency services supplied by you to the non-resident is a separate supply to the transactions being undertaken as resident agent on behalf of the non-resident. The supply of agency services is not considered under Division 57. The basic rules for GST apply to determine the amount of GST on these supplies.
+Input tax credit entitlement
+100. Under the basic rules for GST, the entity making the creditable acquisition is entitled to the input tax credits for that acquisition and the entity making the creditable importation is entitled to the input tax credits for that importation.
+[57]
+However, if you are a resident and an agent under the general law for a non-resident principal who makes creditable acquisitions or creditable importations through you, then you are entitled to the input tax credit on the acquisitions or importations and not the non-resident principal.
+[58]
+These transactions are made through you as an agent where you have the authority of the non-resident principal to make those transactions on its behalf.
+101. Creditable acquisitions and creditable importations may be made by the non-resident principal if it is registered or required to be registered. If you are a resident agent, you will need to make reasonable enquiries to establish the non-resident's GST registration status or requirement to be registered.
+Example 13
+102. Woollen Rugs Co. is a New Zealand company that is registered for GST and imports rugs for sale in Australia. Woollen Rugs Co. is liable for the GST payable on the taxable importation and is entitled to the input tax credits for the creditable importation of rugs it makes. If Floor Coverings Co. sells the rugs as the resident agent for Woollen Rugs Co., then Floor Coverings Co. is liable for the GST on the taxable supply when the rugs are sold.
+103. If the importation of the rugs is done through Floor Coverings Co. as the resident agent of Woollen Rugs Co., Floor Coverings Co. is liable for the GST payable on the taxable importation and is also entitled to the input tax credits for the creditable importation. When the rugs are sold through Floor Coverings Co. as the resident agent, then it will be liable for the GST on those taxable supplies.
+Adjustments
+104. Any adjustments that a non-resident principal has relating to a supply, acquisition or importation made through a resident agent is treated as if the agent had the adjustment.
+[59]
+Section 17-10 (which is about the effect of adjustments on net amounts) does not apply to the non-resident principal in these situations.
+[60]
+Resident agents are required to be registered
+105. If you are a resident agent and your non-resident principal is registered or required to be registered for GST, then you are required to be registered. You will need to make reasonable enquiries to establish whether the non-resident principal is registered or required to be registered for GST. Section 57-20 has effect despite section 23-5 which is about who is required to be registered.
+[61]
+Also, a resident or non-resident entity must apply for registration within 21 days after becoming required to be registered.
+[62]
+You may be liable to an administrative penalty if you fail to apply for registration as required by the GST Act.
+[63]
+106. A resident agent with more than one non-resident principal who is registered or required to be registered for GST (several agency relationships) must have one registration for GST.
+107. Where you have several agency relationships, you are not considered to be acting in different capacities. You are merely carrying on your enterprise and, therefore, only one registration is required.
+Cancellation of registration of a resident agent
+108. The Commissioner must cancel your registration if he is satisfied that you are not required to be registered. For example, if the Commissioner becomes aware that your non-resident principal cancels its registration or ceases to carry on an enterprise or you advise you are not acting as agent for the non-resident principal, the Commissioner will cancel your registration. You will be notified of the cancellation. Sections 25-50 and 25-55 (which provide basic rules on cancellation of registration) do not apply to the cancellation of your registration if you are a resident agent acting for non-residents.
+[64]
+109. However, the Commissioner will not cancel your registration if you continue to act for another registered non-resident principal or if you are required to be registered under the general registration rules in Division 23.
+Notice of cessation of agency
+110. If you cease to act as an agent for your non-resident principal or for any of your non-resident principals, you must notify the Commissioner in the approved form
+[65]
+within 14 days of the cessation.
+[66]
+111. The notification will be in the approved form if it contains the following details:
+•
+for individuals - your legal name;
+•
+for entities that are not individuals - your trading name and contact details;
+•
+your Australian Business Number;
+•
+the name of the non-resident for whom you acted as resident agent;
+•
+the date you ceased to be a resident agent for the non-resident;
+•
+brief reason(s) for cessation of your agency relationship with the non-resident;
+•
+whether you are a resident agent for any other non-resident;
+•
+whether you are continuing to carry on an enterprise for which you need to be registered;
+•
+a statement certifying that the information given is to the best of your knowledge, true, correct and complete; and
+•
+your signature and date.
+Tax periods of resident agents
+112. If you are a resident agent who is acting as agent for a non-resident, the Commissioner must determine under section 57-35(1)
+[67]
+that monthly tax periods apply to you if the Commissioner is satisfied that any of your individual non-resident principal's GST turnover meets the tax period turnover threshold. For example, the Commissioner may rely upon the details you have elicited from the non-resident about its GST turnover amount for making the determination. You will need to make reasonable enquiries to establish whether each individual non-resident's GST turnover exceeds the threshold of $20 million dollars or more. The Commissioner takes into account that a person exercising reasonable care about those enquiries may make an honest mistake about the non-resident's GST turnover based on reasonable grounds. The determination for you takes effect on either 1 January, 1 April, 1 July or 1 October.
+[68]
+113. Any determination made under subsection 57-35(2) has effect in addition to Division 27, which refers to 'How to work out the tax periods that apply to you'. Your own GST turnover does not include the GST turnover of the non-resident for whom you are a resident agent. GST turnover relates to supplies made in connection with an enterprise that you carry on.
+[69]
+As you are acting as an agent for the non-resident, the supplies made through you are not in connection with an enterprise that you carry on.
+GST returns for non-residents
+114. A non-resident is not required to give a GST return for a tax period if:
+•
+the non-resident's net amount for the tax period is zero; or
+•
+the only taxable supplies or taxable importations that the non-resident made (that are attributable to the tax period) are made through a resident agent.
+[70]
+GST returns lodged by resident agents
+115. If you are a resident agent acting for a non-resident and your net amount for a tax period is zero, you must lodge a return if your non-resident made taxable, GST-free or input taxed supplies or creditable acquisitions through you. Accordingly, as an agent you must lodge a return in the way you would if your net amount had not been zero, despite subsection 31-15(2), which is about 'The form and contents of GST returns'.
+[71]
+An agent that carries on its own enterprise, as well as acting as a resident agent for a non-resident, must account for both of these activities in one GST return.
+Non-residents that belong to GST groups
+116. If your non-resident principal or any of your non-resident principals is a member of a GST group then the Division 57 requirements do not apply for:
+[72]
+•
+GST liability;
+•
+input tax credit entitlements;
+•
+adjustment requirements;
+•
+resident agents registration requirements;
+•
+resident agent cancellation of registration requirements;
+•
+notice of cessation of agency requirements;
+•
+resident agent tax period requirements;
+•
+non-resident GST return requirements; and
+•
+resident agent giving GST returns.
+The grouping provisions in Division 48 would apply in determining the requirements under the GST law for the non-resident member.
+Resident agents that belong to a GST group
+117. Division 48 deals with GST groups and provides an effective way of accounting for the GST obligations and entitlements of the members of the group. In particular, intra-group transactions are ignored for GST purposes and, except for GST on most taxable importations, it is the representative member of the group that accounts for all the GST liabilities and entitlements of the group.
+[73]
+That is, the GST consequences of any taxable supply, taxable importation, creditable acquisition or creditable importation that each member of the group makes is accounted for by the representative member of the group.
+118. Where a non-resident makes the taxable supply, taxable importation, creditable acquisition or creditable importation through an agent who is a member of a GST group, there is a view that the representative member should not account for the GST consequences of those transactions under Division 48, as the non-resident is not a member of the group. It would then follow that the resident agent should lodge a GST return on behalf of the non-resident that is separate from the GST return lodged by the representative member of the group.
+119. However, the Commissioner considers that Division 48 is intended to simplify the accounting for all of the GST consequences from
+all
+of the activities of all members of the group. Further, as section 48-60 provides that only the representative member of the group should lodge a GST return, only one return is required that accounts for
+all
+of the group's GST activities.
+120. The Commissioner considers that the view in paragraph 119 of this Ruling promotes simplification and the effective accounting outcome that Division 48 was intended to achieve. Hence, if you are a resident agent and a member of a GST group, then the representative member of the GST group accounts for the GST payable and input tax credit entitlements arising out of the taxable supplies, taxable importations, creditable acquisitions and creditable importations that the non-resident makes through you.
+Non-residents making supplies connected with Australia through an agent
+121. Division 83 which is about 'Non-residents making supplies connected with Australia', does not apply where the taxable supply is made through a resident agent.
+[74]
+Reimbursement of agents under Division 111
+122. Where a principal reimburses an agent for expenses incurred in connection with carrying on the principal's enterprise, the principal may be entitled to input tax credits for those reimbursements.
+[75]
+123. If the principal reimburses an agent for an expense it incurs that is related directly to its activities as the agent, the reimbursement is treated as consideration for an acquisition that the principal makes from the agent.
+[76]
+124. If the principal acquires something supplied to it through an agent acting on its behalf in making the acquisition, then the general principles of agency apply and it is the principal who is considered to have made the acquisition. The consideration paid through the agent for that acquisition is covered by the basic rules about creditable acquisitions and not by Division 111.
+125. For example, if the agent acquires something supplied to the principal within the authority of the agency agreement, the acquisition is effectively made by the principal and, therefore, could be a creditable acquisition to the principal. However, if the agent on its own behalf incurs, for example, petrol expenses in making that acquisition, for which the principal reimburses the agent, the principal has not made a creditable acquisition of the petrol. The principal, therefore, would not be entitled to an input tax credit under Division 11 for the agent's acquisition of the petrol. However, Division 111 may entitle the principal to input tax credits in relation to the reimbursement.
+Creditable acquisitions relating to reimbursements
+126. The fact that the supply to the principal is not a taxable supply does not stop the acquisition referred to in paragraph 122 of this Ruling being a creditable acquisition. However, the acquisition is not a creditable acquisition to the extent that the agent is entitled to an input tax credit for the thing acquired. Further, it is not a creditable acquisition unless the supply of the thing acquired by the agent was a taxable supply.
+[77]
+Example 14
+127. Kate is a local entertainer who has appointed Jenni to represent and organise her a tour of South-East Queensland. Jenni runs an enterprise and is registered for GST. Jenni pays rent to her grandmother for use of her garage as additional storage space to cope with the extra volume of mail being received by her enterprise. Jenni's grandmother is not carrying on an enterprise and the supply of the storage space is not a taxable supply. Kate reimburses Jenni for part of the cost of the storage space. Kate cannot claim the input tax credit on this supply as it is not a creditable acquisition to her because the supply of the storage space to Jenni was not a taxable supply.
+128. If Jenni rents additional storage through a mini storage provider who is registered for GST, any reimbursement by Kate to Jenni will not be a creditable acquisition as Jenni is entitled to an input tax credit on the acquisition of the storage space.
+Amounts of input tax credits relating to reimbursements
+129. An input tax credit is generally equal to 1/11 of the actual reimbursement. However, the agent may be reimbursed for costs that are not entirely related to his or her activities as an agent. In a mixed employee and agency relationship, if such a reimbursement is subject to the
+Fringe Benefits Tax Assessment Act 1986
+or would have been subject to Fringe Benefits Tax (FBT) if it were not an exempt benefit, the principal (being the employer) would still be entitled to an input tax credit equal to 1/11 of the total reimbursement. If the reimbursement is not subject to FBT (other than exempt benefits), the principal is only entitled to an input tax credit to the extent that the reimbursement is for activities directly relating to the agent's activities as your agent.
+[78]
+Tax invoices relating to reimbursements
+130. Generally, the principal must hold a tax invoice for a creditable acquisition to be able to account for the input tax credit in a GST return for the tax period. The tax invoice must be for the taxable supply to the agent. Therefore, the agent will have to obtain a tax invoice for any acquisition with a value exceeding $75 for which the principal reimburses the agent.
+[79]
+Definitions
+131. The following terms are defined for the purposes of this Ruling.
+Insurance broker
+132. Insurance broker has the meaning given by section 11 of the
+Insurance Contracts Act 1984.
+[80]
+Section 11 of the
+Insurance Contracts Act 1984
+defines an insurance broker as 'a person who carries on the business of arranging contracts of insurance, whether in Australia or elsewhere, as agent for intending insureds'. An insurance broker may also be authorised to act as an agent for intending insurers.
+Non-resident
+133. An entity that is not a resident of Australia for the purposes of the
+Income Tax Assessment Act 1936.
+[81]
+Resident agent
+134. An agent that is a resident of Australia for the purposes of the
+Income Tax Assessment Act 1936.
+[82]
+Detailed contents list
+135. Below is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+9
+Context of agency relationships
+10
+General law and agency relationships
+10
+Special agents
+17
+General agents
+18
+Universal agents
+19
+GST law and agency relationships
+20
+Attribution
+20
+Documentary requirements
+23
+Agreements and determinations under Subdivision 153-B
+24
+Resident agents and non-resident principals
+26
+Reimbursement of agent's expenses
+27
+Ruling with explanations
+28
+Agency relationships
+28
+Factors that indicate an agency relationship
+28
+Business use of the term 'agent'
+30
+Examples of the business use of the term 'agent'
+35
+Example 1
+35
+Example 2
+36
+Examples of agency relationships
+38
+Example 3
+38
+Example 4
+39
+Example 5
+40
+Example 6
+41
+Examples where there is no agency relationship or where agents act in their own right
+42
+Example 7
+42
+Example 8
+43
+Example 9
+44
+Transactions made through an agent
+45
+Agency relationship and disbursements
+48
+Example 10
+54
+Special rules that apply to agents and insurance brokers under Subdivision 153-A
+55
+GST payable and input tax credits under agency relationships
+55
+Attributing input tax credits for creditable acquisitions made through an agent
+59
+Attributing decreasing adjustments relating to taxable supplies made through an agent
+60
+Issuing tax invoices for taxable supplies made through an agent
+61
+Issuing adjustment notes for taxable supplies made through an agent
+67
+Insurance supplied through insurance brokers
+72
+Recipient created tax invoices
+73
+Principals and intermediaries as separate suppliers and/or acquirers under Subdivision 153-B
+74
+Written agreement
+76
+The effects of the arrangements on taxable supplies
+77
+Example 11
+82
+The effects of the arrangements on supplies that are not taxable supplies
+83A
+Example 11A
+83C
+The effects of the arrangements involving taxable supplies and supplies that are not taxable supplies
+83G
+Example 11B
+83I
+Adjustment events after the reporting period
+84
+The effects of the arrangements on creditable acquisitions
+86
+Example 12
+90
+The effects of the arrangements on acquisitions that are not creditable acquisitions
+91A
+Example 12A
+91C
+The effects of the arrangements involving creditable acquisitions and acquisitions that are not creditable acquisitions
+91G
+Example 12B
+91I
+Determinations that supplies or acquisitions are taken to be under these arrangements
+92
+GST turnover - supplies to which Subdivision 153-B applies
+95
+Record keeping
+96
+Resident agents acting for non-residents under Division 57
+97
+GST liability
+97
+Input tax credit instalment
+100
+Example 13
+102
+Adjustments
+104
+Resident agents are required to be registered
+105
+Cancellation of registration of a resident agent
+108
+Notice of cessation of agency
+110
+Tax periods of resident agents
+112
+GST returns for non-residents
+114
+GST returns lodged by resident agents
+115
+Non-residents that belong to GST groups
+116
+Resident agents that belong to a GST group
+117
+Non-residents making supplies connected with Australia through an agent
+121
+Reimbursement of agents under Division 111
+122
+Creditable acquisitions relating to reimbursements
+126
+Example 14
+127
+Amounts of input tax credits relating to reimbursements
+129
+Tax invoices relating to reimbursements
+130
+Definitions
+131
+Insurance broker
+132
+Non-resident
+133
+Resident agent
+134
+Detailed contents list
+135
+Commissioner of Taxation
+13 December 2000
+Footnotes
+[A1]
+The indirect tax zone is defined in section 195-1 and is the area to which Australia's GST applies. In this Ruling the indirect tax zone is referred to as 'Australia'.
+[1A]
+[Omitted.]
+[1]
+International Harvester Company of Australia Proprietary Limited v. Carrigan's Hazeldene Pastoral Company
+(1958) 100 CLR 644.
+[2]
+Equiticorp Finance Ltd (in liquidation) v. Bank of New Zealand
+(1993) 32 NSWLR 50, at 132;
+Garnac Grain Co., Inc. v. HMF Faure & Fairclough, Ltd and Bunge Corporation
+[1967] 2 All ER 353.
+[3]
+State or Territory legislation dealing with interests in real property.
+[4]
+State or Territory legislation that applies the Statute of Frauds.
+[5]
+Paragraphs 29-70(1)(a) and 29-75(1)(a).
+[6]
+Sections 153-15 and 153-20.
+[6A]
+Subsections 153-55(4A) and 153-60(3A).
+[6B]
+Paragraph 57-5(3)(b).
+[7]
+(1989) 34 IR 179, at 184.
+[8]
+Australian Mutual Provident Society v. Chaplin and Anor
+(1978) 18 ALR 385, at 389-390.
+[9]
+In particular, sections 9-5, 11-5, 13-5 and 15-5.
+[10]
+Section 9-5.
+[11]
+Rowe and Maw v. Customs and Excise Commissioners
+[1975] 2 All ER 444.
+[12]
+[Omitted]
+[13]
+The rules attributing GST payable on taxable supplies made through agents are explained in Goods and Services Tax Ruling GSTR 2000/29.
+[14]
+Schedule 4 of Goods and Services Tax Ruling GSTR 2000/29.
+[15]
+Paragraphs 87 to 90 of Goods and Services Tax Ruling GSTR 2000/29.
+[16]
+See Goods and Services Tax Ruling GSTR 2000/29.
+[17]
+The rules for attributing input tax credits for creditable acquisitions made through an agent are explained in Goods and Services Tax Ruling GSTR 2000/29.
+[18]
+Section 288-50 of Schedule 1 to the TAA.
+[19]
+Subsection 153-15(1).
+[19A]
+At the time of issuing this Ruling, the regulations do not specify any other matters for tax invoices
+[20]
+[Omitted.]
+[21]
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions Under an Agency Relationship) Legislative Instrument 2013.
+[22]
+Subsection 29-75(2) or such further period determined by the Commissioner.
+[23]
+Section 153-20.
+[24]
+Section 288-50 of Schedule 1 to the TAA.
+[25]
+Goods and Services Tax Ruling GSTR 2013/2.
+[26]
+See
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012.
+[27]
+See paragraphs 5(1)(b) and (c) of
+A New Tax System (Goods and Services
+Tax
+) Adjustment Note Information Requirements Determination 2012..
+[28]
+See Goods and Services Tax Ruling GSTR 2000/5 for an explanation of GST for insurance agents and brokers.
+[28A]
+See
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions Under an Agency Relationship) Legislative Instrument 2013.
+[29]
+See subsection 29-70(3) and Goods and Services Tax Ruling GSTR 2000/10.
+[30]
+Goods and Services Tax Ruling GSTR 2000/10 and Goods and Services Tax Ruling GSTR 2013/1 explains the recipient created tax invoice requirements.
+[31]
+See paragraphs 61 to 63 of this Ruling that also apply to recipient created tax invoices. See paragraph 13 of Goods and Services Tax Ruling GSTR 2013/2 that applies to recipient created adjustment notes.
+[32]
+Payments of certain taxes, fees and charges are excluded from being the provision of consideration under Division 81 and by reference to the GST Regulations.
+[33]
+Subparagraph 153-50(c)(ii).
+[33A]
+Subsections 153-55(4A) and 153-60(3A). Refer to Law Companion Ruling LCR 2018/2
+GST on supplies made through electronic distribution platforms.
+[34]
+Paragraph 153-50(a).
+[35]
+Paragraph 153-50(b).
+[36]
+Paragraph 153-50(c).
+[37]
+Paragraph 153-50(d).
+[38]
+Paragraph 153-50(e).
+[39]
+Subsection 153-55(1).
+[40]
+Subsection 153-55(2).
+[41]
+Paragraph 153-55(2)(b).
+[42]
+Paragraph 153-55(3)(b).
+[43]
+Paragraph 153-55(3)(b).
+[43A]
+Section 11-5.
+[43B]
+GST-free under section 38-45, Schedule 3, item 105.
+[43C]
+Where the parties do not treat the supply of the wheelchair as a GST-free supply by applying subsection 38-45(3), the supply of the wheelchair is treated in the same way as the supply of the perfume in Example 11 of this Ruling.
+[44]
+Section 29-75.
+[45]
+Subsection 153-55(1).
+[46]
+Division 29 and Goods and Services Tax Ruling GSTR 2000/29.
+[47]
+Subsection 153-60(1).
+[48]
+Subsection 153-60(2).
+[49]
+Paragraph 153-60(2)(b).
+[50]
+Paragraph 153-60(3)(b).
+[51]
+Division 29 and Goods and Services Tax Ruling GSTR 2000/29.
+[51A]
+Subsection 153-65(2).
+[52]
+See
+Goods and Services Tax: Application of Intermediary Arrangements to the Multi-Media Industry Determination (No. 33) 2015.
+[53]
+Subsection 382-5(5) of Schedule 1 to the TAA.
+[54]
+Subsection 382-5(6) of Schedule 1 to the TAA.
+[55]
+Sections 9-40 and 13-15.
+[56]
+Section 57-5.
+[56A]
+Subsection 57-5(3).
+[56B]
+See paragraph 57-5(3)(a) and subsection 84-10(1).
+[56C]
+Section 57-7.
+[56D]
+Subsection 9-26(2).
+[56E]
+Subsections 57-7(2) and (3).
+[56F]
+Subsection 57-7(4).
+[57]
+Section 11-20 and 15-15.
+[58]
+Section 57-10.
+[59]
+Section 57-15.
+[60]
+Subsection 57-15(2).
+[61]
+Subsection 57-20(2).
+[62]
+Section 25-1
+[63]
+Section 288-40 of Schedule 1 to the TAA.
+[64]
+Section 57-25.
+[65]
+Section 388-50 of Schedule 1 to the TAA.
+[66]
+Section 57-30.
+[67]
+A Determination is to be made for individual cases.
+[68]
+Subsection 57-35(2).
+[69]
+Subsection 188-15(1).
+[70]
+Section 57-40.
+[71]
+Section 57-45.
+[72]
+Section 57-50
+[73]
+Section 48-1.
+[74]
+Paragraph 83-5(2)(b).
+[75]
+Division 111.
+[76]
+Subsection 111-5 (1).
+[77]
+Subsection 111-5(3).
+[78]
+Section 111-10. See Goods and Services Tax Ruling GSTR 2001/3 Goods and Services Tax: GST and how it applies to supplies of fringe benefits.
+[79]
+Section 111-15.
+[80]
+Section 195-1.
+[81]
+Section 195-1.
+[82]
+Section 195-1.
+Previously released in draft form as GSTR 2000/D20
+References
+ATO references:
+NO  T2000/7758
+ISSN: 1443-5160
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2000/5
+GSTR 2000/10
+GSTR 2000/29
+GSTR 2001/3
+GSTR 2013/1
+GSTR 2013/2
+LCR 2018/2
+TR 97/6
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-26
+ANTS(GST)A 1999 9-26(2)
+ANTS(GST)A 1999 9-40
+ANTS(GST)A 1999 Div 11
+ANTS(GST)A 1999 11-5
+ANTS(GST)A 1999 11-20
+ANTS(GST)A 1999 13-5
+ANTS(GST)A 1999 13-15
+ANTS(GST)A 1999 15-5
+ANTS(GST)A 1999 15-15
+ANTS(GST)A 1999 17-10
+ANTS(GST)A 1999 Div 23
+ANTS(GST)A 1999 23-5
+ANTS(GST)A 1999 25-1
+ANTS(GST)A 1999 25-50
+ANTS(GST)A 1999 25-55
+ANTS(GST)A 1999 Div 27
+ANTS(GST)A 1999 Div 29
+ANTS(GST)A 1999 29-5
+ANTS(GST)A 1999 29-10
+ANTS(GST)A 1999 29-20
+ANTS(GST)A 1999 29-25
+ANTS(GST)A 1999 29-70
+ANTS(GST)A 1999 29-70(1)
+ANTS(GST)A 1999 29-70(1)(a)
+ANTS(GST)A 1999 29-70(1)(b)
+ANTS(GST)A 1999 29-70(1)(c)
+ANTS(GST)A 1999 29-70(1)(c)(i)
+ANTS(GST)A 1999 29-70(1)(c)(ii)
+ANTS(GST)A 1999 29-70(1)(c)(iii)
+ANTS(GST)A 1999 29-70(1)(c)(iv)
+ANTS(GST)A 1999 29-70(1)(c)(v)
+ANTS(GST)A 1999 29-70(1)(c)(vi)
+ANTS(GST)A 1999 29-70(1)(c)(viii)
+ANTS(GST)A 1999 29-70(1)(d)
+ANTS(GST)A 1999 29-70(2)
+ANTS(GST)A 1999 29-70(3)
+ANTS(GST)A 1999 29-75
+ANTS(GST)A 1999 29-75(1)
+ANTS(GST)A 1999 29-75(1)(a)
+ANTS(GST)A 1999 29-75(1)(b)
+ANTS(GST)A 1999 29-75(1)(c)
+ANTS(GST)A 1999 29-75(1)(d)
+ANTS(GST)A 1999 29-75(2)
+ANTS(GST)A 1999 31-15(2)
+ANTS(GST)A 1999 38-45
+ANTS(GST)A 1999 38-45(3)
+ANTS(GST)A 1999 Div 48
+ANTS(GST)A 1999 48-1
+ANTS(GST)A 1999 48-60
+ANTS(GST)A 1999 Div 57
+ANTS(GST)A 1999 57-5
+ANTS(GST)A 1999 57-5(3)
+ANTS(GST)A 1999 57-5(3)(a)
+ANTS(GST)A 1999 57-5(3)(b)
+ANTS(GST)A 1999 57-7
+ANTS(GST)A 1999 57-7(2)
+ANTS(GST)A 1999 57-7(3)
+ANTS(GST)A 1999 57-7(4)
+ANTS(GST)A 1999 57-10
+ANTS(GST)A 1999 57-15
+ANTS(GST)A 1999 57-15(2)
+ANTS(GST)A 1999 57-20
+ANTS(GST)A 1999 57-20(2)
+ANTS(GST)A 1999 57-25
+ANTS(GST)A 1999 57-30
+ANTS(GST)A 1999 57-35(1)
+ANTS(GST)A 1999 57-35(2)
+ANTS(GST)A 1999 57-40
+ANTS(GST)A 1999 57-45
+ANTS(GST)A 1999 57-50
+ANTS(GST)A 1999 Div 81
+ANTS(GST)A 1999 Div 83
+ANTS(GST)A 1999 83-5(2)(b)
+ANTS(GST)A 1999 Div 84
+ANTS(GST)A 1999 84-5
+ANTS(GST)A 1999 84-10(1)
+ANTS(GST)A 1999 Div 111
+ANTS(GST)A 1999 111-5
+ANTS(GST)A 1999 111-5(1)
+ANTS(GST)A 1999 111-5(3)
+ANTS(GST)A 1999 111-10
+ANTS(GST)A 1999 111-15
+ANTS(GST)A 1999 Div 153
+ANTS(GST)A 1999 Subdiv 153-A
+ANTS(GST)A 1999 Subdiv 153-B
+ANTS(GST)A 1999 153-5
+ANTS(GST)A 1999 153-10
+ANTS(GST)A 1999 153-15
+ANTS(GST)A 1999 153-15(1)
+ANTS(GST)A 1999 153-20
+ANTS(GST)A 1999 153-20(1)
+ANTS(GST)A 1999 153-25
+ANTS(GST)A 1999 153-50
+ANTS(GST)A 1999 153-50(a)
+ANTS(GST)A 1999 153-50(b)
+ANTS(GST)A 1999 153-50(c)
+ANTS(GST)A 1999 153-50(c)(ii)
+ANTS(GST)A 1999 153-50(d)
+ANTS(GST)A 1999 153-50(e)
+ANTS(GST)A 1999 153-55
+ANTS(GST)A 1999 153-55(1)
+ANTS(GST)A 1999 153-55(2)
+ANTS(GST)A 1999 153-55(2)(b)
+ANTS(GST)A 1999 153-55(3)
+ANTS(GST)A 1999 153-50(3)(b)
+ANTS(GST)A 1999 153-55(4A)
+ANTS(GST)A 1999 153-60
+ANTS(GST)A 1999 153-60(1)
+ANTS(GST)A 1999 153-60(2)
+ANTS(GST)A 1999 153-60(2)(b)
+ANTS(GST)A 1999 153-60(3)
+ANTS(GST)A 1999 153-60(3)(b)
+ANTS(GST)A 1999 153-60(3A)
+ANTS(GST)A 1999 153-65(1)
+ANTS(GST)A 1999 153-65(2)
+ANTS(GST)A 1999 188-15(1)
+ANTS(GST)A 1999 188-24
+ANTS(GST)A 1999 195-1
+ANTS(GST)A 1999 Sch 3
+TAA 1953
+TAA 1953 Sch 1 288-40
+TAA 1953 Sch 1 288-50
+TAA 1953 Sch 1 Div 358
+TAA 1953 Sch 1 382-5(5)
+TAA 1953 Sch 1 382-5(6)
+TAA 1953 Sch 1 388-50
+Insurance Contracts Act 1984
+Insurance Contracts Act 1984 11
+Income Tax Assessment Act 1936
+Fringe Benefits Assessment Act 1986
+Case References:
+Australian Mutual Provident Society v. Chaplin and Anor
+(1978) 18 ALR 385
+Case R34
+(1994) 16 NZTC 6190
+Equiticorp Finance Ltd (in liquidation) v. Bank of New Zealand
+(1993) 32 NSWLR 50
+Garnac Grain Co., Inc. v. HMF Faure & Fairclough, Ltd. and Bunge Corporation
+[1967] 2 All ER 353
+International Harvester Company of Australia Proprietary Limited v. Carrigan's Hazeldene Pastoral Company
+(1958) 100 CLR 644
+National Mortgage and Agency Company of New Zealand Limited v Gosselin and Another
+(1922) 38 TLR 832
+Potter & Anor v. Customs and Excise Commissioners
+[1985] STC 45
+Re Porter; Re Transport Workers Union of Australia
+(1989) 34 IR 179
+Rowe and Maw v. Customs and Excise Commissioners
+[1975] 2 All ER 444
+Other References:
+A New Tax System (Goods and Services Tax) Adjustment Note Information Requirements Determination 2012
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions Under an Agency Relationship) Legislative Instrument 2013
+Explanatory Memorandum
+to the A New Tax System (Goods and Services Tax) Bill 1998
+Explanatory Memorandum
+to the Tax and Superannuation Laws Amendment (2016 Measures No. 1) Bill 2016
+Goods and Services Tax: Application of Intermediary Arrangements to the Multi-Media Industry Determination (No. 33) 2015
+GSTR 2000/37 history
+Date:
+Version:
+Change:
+13 December 2000
+Original ruling
+26 March 2003
+Consolidated ruling
+Addendum
+28 March 2003
+Consolidated ruling
+Erratum
+15 August 2007
+Consolidated ruling
+Addendum
+2 April 2008
+Consolidated ruling
+Addendum
+31 October 2012
+Consolidated ruling
+Addendum
+27 March 2013
+Consolidated ruling
+Addendum
+30 October 2013
+Consolidated ruling
+Addendum
+You are here
+20 March 2019
+Consolidated ruling
+Addendum
+Back to top

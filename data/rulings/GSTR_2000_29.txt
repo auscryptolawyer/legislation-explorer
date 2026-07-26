@@ -1,0 +1,1873 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 129
+  • Div 153
+  • Div 156
+  • Div 158
+  • Div 17
+  • Div 19
+  • Div 21
+  • Div 29
+  • Div 358
+  • Div 57
+  • Div 72
+  • Div 9
+  • Div 93
+  • Div 99
+  • Division 1
+  • Division 129
+  • Division 153
+  • Division 156
+  • Division 158
+  • Division 19
+
+Cases Referenced:
+  • Warman v Southern Counties Car Finance Corporation Ltd 
+
+Topics: GST, Companies
+
+
+
+================================================================================
+
+GSTR 2000/29 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+121 related documents
+Goods and Services Tax Ruling
+GSTR 2000/29
+Goods and services tax: attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+This Ruling is being reviewed to reflect amendments to the GST law in relation to the attribution of input tax credits following the enactment of the
+Treasury Laws Amendment (Strengthening Financial Systems and Other Measures) Act 2025
+.
+This Ruling contains references to provisions of the
+A New Tax System (Goods and Services Tax) Regulations 199.
+which have been replaced by the
+A New Tax System (Goods and Services Tax) Regulations 201.
+This Ruling continues to have effect in relation to the remade Regulations.
+Paragraph 32 of
+TR 2006/10
+provides further guidance on the status and binding effect of public rulings where the law has been repealed and rewritten.
+A
+comparison table
+which provides the replacement provisions in the
+A New Tax System (Goods and Services Tax) Regulations 20.
+for regulations which are referenced in this Ruling is available.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+FOI status:
+may be releasedFOI number:
+I 1021057
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+11
+Context of attribution
+12
+Ruling
+74
+Explanation
+109
+Detailed contents list
+262
+Schedule 1
+page 59
+Schedule 2
+page 62
+Schedule 3
+page 64
+Schedule 4
+page 66
+Schedule 5
+page 70
+Schedule 6
+page 74
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 37 of the
+Taxation Administration Act 1953
+and former section 105-60 of Schedule 1 to the
+Taxation Administration Act 1953.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of scheme.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you – provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[Note: This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling applies to all entities that make taxable supplies or creditable acquisitions.
+2. This Ruling is about attribution of Goods and Services Tax ('GST') payable, input tax credits and adjustments under the
+A New Tax System (Goods and Services Tax)Act 1999
+('GST Act'). All legislative references are to the GST Act unless otherwise stated.
+3. The Ruling outlines:
+•
+the basic rules for attributing to a tax period, the GST payable on taxable supplies, input tax credits for creditable acquisitions and creditable importations, and adjustments; and
+•
+the operation of some special rules (Division 156, Division 158 and Division 99) and their effect on attribution for supplies and acquisitions to which they apply.
+4. The Ruling explains how the Commissioner can determine, under section 29-25, particular tax periods different to the tax periods that would otherwise apply under the basic or special rules, to which GST on taxable supplies or input tax credits for creditable acquisitions or importations, or adjustments, of a specified kind must be attributed.
+5. In particular the Ruling sets out the reasons for, and the effect of the Commissioner making determinations under section 29-25, for the following supplies and acquisitions:
+(i)
+certain supplies and acquisitions subject to a statutory cooling off period;
+(ii)
+certain supplies made through banknote and coin-operated machines and similar devices;
+(iii)
+certain supplies and acquisitions made through agents;
+(iv)
+supplies and acquisitions for which consideration is received or provided, or an invoice is issued, before the total consideration is known, and
+(v)
+supplies and acquisitions made under contracts that provide for the retention of consideration.
+Copies of each of the determinations made are attached to this Ruling.
+6. This Ruling does not address any issues about attribution of GST payable and input tax credits for supplies and acquisitions under lay-by sale agreements. The Commissioner has made a determination under section 29-25 in respect of lay-by sales.
+[1]
+Goods and Services Tax Ruling GSTR 2000/12 explains the reasons for, and the effect of, that determination. A copy of the determination is attached to that Ruling.
+7. The Commissioner has not determined a particular attribution rule for a supply or acquisition made under a contract that is subject to preconditions.
+[2]
+8. This Ruling also explains why the Commissioner has not made determinations for supplies and acquisitions of the following kind:
+(i)
+supplies and acquisitions under hire purchase agreements (refer to the 'Explanation' section at paragraphs 190 to 217);
+(ii)
+supplies and acquisitions made under floor plan arrangements (refer to the 'Explanation' section at paragraphs 218 to 237); and
+(iii)
+supplies and acquisitions made under agreements for the supply of goods on 'approval' or the supply of goods on a 'sale or return' basis (refer to the 'Explanation' section at paragraphs 238 to 247).
+9. This Ruling does not address any issues about whether there is GST payable on a particular kind of supply, an entitlement to input tax credits for a particular kind of creditable acquisition or an adjustment required in a particular situation. The Ruling is only about when to account for GST payable, input tax credits and adjustments.
+10. This Ruling gives a brief outline of the application of the
+A New Tax System (Goods and Services Tax Transition) Act 1999
+('GST Transition Act') generally. The Ruling also comments on some practical implications of the application of the GST Transition Act for the following supplies and acquisitions:
+(i)
+certain supplies made through banknote and coin-operated machines and similar devices (refer to the 'Explanation' section at paragraph 251);
+(ii)
+supplies and acquisitions made under agreements for the supply of goods on 'approval' or a supply of goods on a 'sale or return' basis (refer to the 'Explanation' section at paragraphs 252 to 253);
+(iii)
+supplies and acquisitions made under floor plan arrangements (refer to the 'Explanation' section at paragraphs 254 to 259 and
+(iv)
+supplies and acquisitions made under hire purchase agreements (refer to the 'Explanation' section at paragraphs 260 to 261).
+Date of effect
+11. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+11A. Changes made to this Ruling by Addenda that issued on 11 July 2007, 31 October 2012, 27 March 2013 and 11 December 2013 have been incorporated into this version of the Ruling.
+[2A]
+Context of attribution
+12. 'Attribution' is the term used in the GST law to describe the way you account for GST payable, input tax credits and adjustments in order to work out your net amount of GST for the tax period. GST payable, input tax credits and adjustments are attributed to tax periods rather than being remitted or refunded, as the case may be, each time a taxable supply, creditable acquisition or adjustment is made.
+The basic attribution rules
+13. The basic attribution rules are set out in Division 29 of Part 2-6 of the GST Act.
+[3]
+These rules are about when you account for GST payable on taxable supplies, input tax credits for creditable acquisitions and creditable importations, and adjustments. The basic attribution rules differ depending on whether or not you account for GST on a cash basis.
+Accounting for GST on a cash basis
+Taxable supplies
+14. If you account for GST on a cash basis
+[4]
+, you attribute GST on a taxable supply to the tax period in which you receive consideration for the supply, but only to the extent that the consideration is received in the tax period
+[5]
+. This means that if, in a particular tax period, you receive only part of the consideration for a supply, you attribute GST on the supply only to the extent that the consideration is received in that tax period. For example, if in a particular tax period you received $5,000 as part of the consideration for a supply, you attribute 1/11th of the consideration received, that is 1/11th of $5,000, as the GST on the supply for that tax period.
+Example 1
+15. Zayn has a small business designing and hand-printing silk fabrics to order for the fashion industry. He accounts for GST on a cash basis and has three month tax periods.
+16. Akbar Creations orders a design run of 100 metres for $3,410. Zayn receives payments as follows:
+•
+deposit of $110 on 29 December 2000 (this deposit is subject to forfeiture and is not applied as consideration until 22 May 2001);
+•
+payment of $2,200 on delivery on 22 May 2001 (Zayn issued an invoice on 22 May 2001 showing the due date for payment of the balance of $1,100 as 20 June 2001); and
+•
+payment of the balance of $1,100 on 16 July 2001.
+17. GST on the supply is attributed as follows:
+•
+GST payable of $10 (1/11 x $110 received 29 December 2000) is attributable to the tax period ending 30 June 2001.
+[6]
+•
+GST payable of $200 (1/11 x $2,200 received on 22 May 2001) is attributable to the tax period ending 30 June 2001.
+•
+GST payable of $100 (1/11 x $1,100 received on 16 July 2001) is attributable to the tax period ending 30 September 2001.
+Creditable acquisitions
+18. If you account for GST on a cash basis, you attribute the input tax credit for a creditable acquisition to the tax period in which you provide consideration for the acquisition, but only to the extent that you provided the consideration in that tax period.
+[7]
+This means that if, in a particular tax period, you have paid only part of the total consideration for an acquisition, you are entitled to an input tax credit but only to the extent that you provided the consideration in that tax period. For example, if in a particular tax period you paid $5,000 as part of the consideration for an acquisition, you attribute 1/11th of the consideration that you provided in that tax period, that is 1/11th of $5,000, as the input tax credit to which you are entitled in that tax period.
+19. However, an input tax credit is not attributable to a tax period if you do not have a tax invoice for the acquisition when you lodge your Business Activity Statement ('BAS')
+[8]
+for that tax period.
+[9]
+You attribute
+the
+input tax credit to the first tax period for which you have a tax invoice when you lodge your BAS.
+[10]
+19A. If the BAS for a tax period states a net amount that does not take into account an input tax credit attributable to that tax period, the input tax credit may be attributable to a later tax period under subsection 29-10(4) (subject to the four year time limit contained in Division 93).
+[10A]
+20. Subsection 29-70(1) sets out the requirements for a tax invoice.
+[11]
+The required information may not necessarily be included on an invoice, in which case an invoice will not be a tax invoice. A tax invoice is required to be given to the recipient of the supply, by the supplier, within 28 days of a request by the recipient.
+[12]
+Example 2
+21. Aimee is registered for GST and accounts for GST on a cash basis in three month tax periods. On 25 June 2001, Aimee purchases stock for her dress shop for $7,700. She pays $3,300 on 25 June 2001 and is issued with an invoice asking for payment of the balance within 30 days. She pays the balance of $4,400 on 18 July 2001.
+22. Input tax credits for the acquisition are attributable to tax periods as follows:
+•
+an input tax credit of $300 (1/11 x $3,300) is attributable to the tax period ending 30 June 2001.
+(Aimee had obtained a tax invoice before lodging her BAS for this tax period. The tax invoice shows the GST payable for the taxable supply as $700).
+•
+an input tax credit of $400 (1/11 x $4,400) is attributable to the tax period ending on 30 September 2001.
+Creditable importations
+23. Whether you account for GST on a cash basis or not, the input tax credit for the GST on a creditable importation is attributable to the tax period in which the GST is paid on the importation or the tax period in which the liability to pay the GST arose if payment of the GST has been deferred.
+[13]
+The liability arises when the importation takes place.
+24. If the payment of GST on a taxable importation is deferred, the GST on the importation is payable on or before the 21st day after the end of the month in which the liability for the GST arises.
+[14]
+You attribute any input tax credit to which you are entitled on the importation to the tax period in which the liability for the GST arose (that is, when the importation takes place).
+[14A]
+The effect of the deferral of payment of GST on importations is to remove the negative cash flow effect of having to pay GST before you are able to claim the input tax credit.
+Adjustments
+25. Adjustments are necessary where subsequent events mean that the GST payable or input tax credit attributed in a previous tax period is incorrect.
+26. Adjustments are either increasing or decreasing. An increasing adjustment increases your net amount for the tax period, while a decreasing adjustment decreases your net amount for the tax period. The net amount is the difference between the GST payable by you and your input tax credits.
+27. One way in which an adjustment can arise is if an adjustment event occurs. Under the GST Act, an adjustment event occurs when:
+•
+a supply or acquisition is cancelled;
+•
+the consideration for a supply or acquisition is changed (for example, because of a volume discount);
+•
+a supply becomes taxable or stops being taxable; or
+•
+an acquisition becomes creditable or stops being creditable.
+[15]
+28. You may also have adjustments if your actual extent of use of acquisitions for a creditable purpose is different to your planned extent of use for a creditable purpose.
+[16]
+29. Adjustments for adjustment events are attributed to the tax period in which you become aware of the adjustment.
+[17]
+If the adjustment event requires you to provide consideration, the adjustment is attributable to the tax period in which you provide the consideration. However, if you provide only part of the consideration in a tax period, you attribute that part of the adjustment to that tax period.
+[18]
+30. When you have a decreasing adjustment from an adjustment event, you can not account for the adjustment in your BAS until you hold an adjustment note.
+[19]
+You attribute the adjustment to the first tax period for which you have an adjustment note when you lodge your BAS.
+[20]
+31. You attribute an adjustment for a change in extent of creditable purpose for an acquisition to the relevant adjustment period for that acquisition.
+[21]
+If you do not account for GST on a cash basis
+Taxable supplies
+32. If you do not account for GST on a cash basis, you attribute all the GST payable on a taxable supply to the earlier of the tax period in which:
+•
+any of the consideration for the supply is received; or
+•
+an invoice for the supply is issued.
+[22]
+This means that you may have to account for GST payable on a supply before actually receiving payment for the supply.
+33. An invoice is a document notifying an obligation to make a payment.
+[23]
+An invoice does not necessarily contain all the information required for it to be a tax invoice.
+Example 3
+34. Lumber Trading Pty Ltd is a wholesale/retail distributor of local and imported timber. It is registered for GST and does not account for GST on a cash basis. It has one month tax periods. On 14 June 2001, Lumber sells treated pine to Handy Hardware for $9,900. Handy is a regular account customer. Lumber invoices Handy on 26 June 2001 asking for payment within 30 days. The issue of this invoice triggers attribution of GST payable for Lumber. Lumber attributes the GST payable of $900 on the sale of the timber to the tax period ending 30 June 2001.
+Creditable acquisitions
+35. If you do not account for GST on a cash basis, you attribute all the input tax credit for a creditable acquisition to the earlier of the tax periods in which:
+•
+you provide any of the consideration; or
+•
+an invoice is issued for the acquisition.
+[24]
+This means that you may be entitled to input tax credits before actually paying for the acquisition.
+36. However, an input tax credit is not attributable to a tax period if you do not have a tax invoice for the acquisition when you lodge your BAS
+[25]
+for that tax period.
+[26]
+You attribute the input tax credit to the first tax period for which you have a tax invoice when you lodge your BAS.
+[27]
+36A. If the BAS for a tax period states a net amount that does not take into account an input tax credit attributable to that tax period, the input tax credit may be attributable to a later tax period under subsection 29-10(4) (subject to the four year time limit contained in Division 93).
+[27A]
+Example 4
+37. Lumber is registered for GST and does not account for GST on a cash basis. It has three month tax periods. Handy receives a sale invoice from Lumber on 14 June 2011. It pays the account on 13 July 2011. Handy attributes the input tax credit of $900 to the tax period ending on 30 June 2001. (The invoice issued on 14 June 2011 contained all the information required for it to be a tax invoice.)
+38. If the invoice issued on 14 June 2012 did not have all the information for it to be a tax invoice and Handy did not hold other documents from Lumber from which that information could be clearly ascertained it is not a tax invoice.
+[27B]
+Handy cannot attribute the input tax credits until the tax period in which Handy holds a tax invoice from Lumber containing the required information.
+38A. The input tax credits will be attributable to the first tax period in which Handy holds a tax invoice from Lumber. For the purposes of subsection 93-5(1), the four year time limitation period commences from 29 July 2012 as the input tax credit would have been attributable to the tax period ending 30 June 2012 under subsection 29-10(1).
+Creditable importations
+39. Refer to paragraphs 23 and 24 above.
+Adjustments
+40. Adjustments can arise because of adjustment events (refer to paragraph 27 above). Adjustments for adjustment events are attributed to the tax period in which you become aware of the adjustment.
+[28]
+However, an adjustment for a decreasing adjustment arising from an adjustment event is not attributable to a tax period if you do not have an adjustment note when you lodge your BAS for that tax period.
+[29]
+You attribute the adjustment to the first tax period for which you have an adjustment note when you lodge your BAS.
+[30]
+41. Adjustments may also arise for taxable supplies or creditable acquisitions where a debt is written off as bad or is overdue for twelve months or more.
+[31]
+42. You attribute any adjustments that arise from bad debts to the tax period in which you become aware of the adjustment.
+[32]
+43. You do not need an adjustment note to attribute a decreasing adjustment arising from a bad debt being written off or being overdue for more than 12 months.
+[33]
+44. You may also have adjustments if your actual extent of use of acquisitions for a creditable purpose is different to your planned extent of use for a creditable purpose.
+[34]
+45. You attribute an adjustment for a change in extent of creditable purpose for an acquisition to the relevant adjustment period for that acquisition.
+[35]
+Special rules about attribution
+Supplies and acquisitions made on a progressive or periodic basis
+46. Division 156 applies to supplies and acquisitions made for a period or on a progressive basis,
+where
+the consideration is also provided on a progressive or periodic basis. Examples of the types of supplies and acquisitions to which the Division may apply, depending on its requirements being satisfied, include supplies and acquisitions made under lease or hire agreements, property maintenance agreements and construction contracts. Division 156 does not apply to a supply or acquisition of goods or credit under a hire purchase agreement.35A
+47. In broad terms, Division 156 provides a special rule so that you attribute GST payable and input tax credits as if the relevant supply or acquisition is made up of separate supplies or acquisitions corresponding to the separate progressive or periodic components of the supply or acquisition. The basic attribution rules then apply in respect of each separate supply or acquisition.
+Example 5
+48. Homer does not account for GST on a cash basis. He has one month tax periods. He grants a lease on a warehouse building to Sylvia on 1 March 2001. The lease is for a term of three years with lease payments of $1,100 to be made monthly.
+49. Division 156 applies to treat each periodic component (that is, each month in this case) as a separate supply. The GST payable or input tax credits are accounted for on the basis that there are separate supplies. The basic attribution rules in Division 29 apply to each separate supply.
+50. Homer attributes GST payable of $100 to each tax period in which any part of the lease payment due for the month is received or an invoice is issued for that month, whichever is the earlier. Because Homer does not account for GST on a cash basis, he attributes GST payable of $100 to the tax period even if, in a particular month, for example, he received only $880
+[36]
+of the total lease payment of $1,100. This is the effect of the application of subsection 29-5(1).
+51. Sylvia accounts for GST on a cash basis. She has one month tax periods. Because Sylvia accounts for GST on a cash basis, she attributes input tax credits of $100 to each tax period if she pays the total lease payment each month.
+52. If, for example, in a particular month, she pays only $880 of the total lease payment of $1,100, she attributes only a proportion of the input tax credit, that is, $80 (1/11 x $880). This is the effect of the application of paragraph 29-10(2)(b).
+53. It is assumed that the lease agreement has all the information necessary for it to be a tax invoice. Therefore, Sylvia holds a tax invoice that allows her to claim input tax credits for each of the acquisitions in the relevant tax periods.
+Special attribution rules for hire purchase agreements entered into on or after 2 July 2012
+53A. If you account for GST on a cash basis and you make an acquisition under a hire purchase agreement entered into on or after 2 July 2012, the GST law applies to that acquisition as though you do not account on a cash basis.
+[36A]
+53B. This means that you are treated as though you do not account on a cash basis for the purposes of determining:
+•
+the tax period to which any input tax credit for your acquisition is attributable; and
+•
+the tax period to which any adjustment you have (that arises in relation to your acquisition)
+[36B]
+is attributable.
+Special attribution rule for security deposits
+54. Division 99 applies to deposits held as security for the performance of an obligation and has the effect of deferring attribution of GST payable and input tax credits for these security deposits.
+[37]
+The Division contains a special rule about attributing GST relating to the security deposit.
+55. Under section 99-10, the GST payable on a taxable supply for which the consideration is a deposit that was held as security for the performance of an obligation, is attributable to the tax period in which the deposit is:
+•
+forfeited because of failure to perform the obligation; or
+•
+applied as all or part of the consideration for a supply.
+56. Subsection 99-10(1) operates to attribute the GST payable on that part of the consideration that is a security deposit. The GST payable on any balance of the consideration is attributable under section 29-5.
+57. There are no special attribution rules in Division 99 for input tax credits on creditable acquisitions. The attribution rules in section 29-10 apply to attribute input tax credits.
+Determination of particular attribution rules under section 29-25
+58. The Commissioner may, under section 29-25, determine, in writing, the tax period or periods to which GST payable, input tax credits and adjustments for taxable supplies, creditable acquisitions and creditable importations of certain kinds are attributable. The Commissioner can only make a determination under section 29-25, specifying a different tax period to that which would otherwise apply, if satisfied that the application of the basic attribution rules and any relevant special rules under the GST Act would produce an inappropriate result.
+59. The Commissioner can make these determinations only in the circumstances described in subsection 29-25(2).
+60. Determinations made under section 29-25 of particular attribution rules for taxable supplies, creditable acquisitions and creditable importations of certain kinds, or adjustments of a specified kind, override the basic attribution rules and the special rules in Chapter 4 of the GST Act but only to the extent of any inconsistency and only to the extent provided for in the determination.
+[38]
+61. Where the Commissioner makes a determination, attribution must be in accordance with that determination for supplies and acquisitions of the kind specified in the determination.
+Attribution of GST payable and input tax credits on supplies and acquisitions to which the GST Transition Act applies
+62. GST is payable and an entitlement to an input tax credit arises only to the extent that supplies or acquisitions are made on or after 1 July 2000.
+[39]
+63. The GST Transition Act sets out time of supply rules so that you can determine whether a supply or acquisition of goods, services, real property or any other thing is made on or after 1 July 2000.
+[40]
+The rules are as follows.
+64. A supply or acquisition of goods is made:
+[41]
+•
+when the goods are removed; or
+•
+if the goods are not to be removed – when the goods are made available to the recipient; or
+•
+if the goods are removed before it is certain that a supply will be made (for example, if the goods are given or taken on approval, sale or return, or similar terms) – when it becomes certain that a supply has been made.
+65. A supply or acquisition of real property is made when the property is made available to the recipient.
+[42]
+66. A supply or acquisition of services is made when the services are performed.
+[43]
+67. A supply or acquisition of any other thing is made when the thing is performed or done.
+[44]
+68. These general time of supply rules are modified in certain situations by other provisions in the GST Transition Act.
+69. For example, where section 11 of the GST Transition Act applies, a supply of a right granted before 1 July 2000 (but on or after 2 December 1998) is taken to be a supply made on or after 1 July 2000 if, and to the extent that, the right could reasonably be expected to be exercised on or after 1 July 2000.
+[45]
+70. Also, where section 12 of the GST Transition Act applies, a supply that you make for a period or progressively over a period, is treated as if it is made continuously and uniformly throughout the period.
+[46]
+This enables you to work out what part of the supply is made on or after 1 July 2000. A supply by way of lease or hire is a supply for the period of the lease or hire arrangement.
+[47]
+71. The GST Transition Act does not provide any rules about attribution of GST payable, input tax credits and adjustments for supplies and acquisitions made on or after 1 July 2000. For supplies or acquisitions that you make on or after 1 July 2000, the basic attribution rules (refer to paragraphs 13 to 45 above) will, depending on whether you account for GST on a cash basis or not, attribute the whole or part of the GST payable or input tax credit to the tax period in which you receive or provide any part of the consideration or an invoice is issued.
+72. For some supplies or acquisitions
+made on or after
+1 July 2000, the receipt or payment of consideration, or invoicing, could occur prior to 1 July 2000. Under the GST Transition Act, that consideration is taken to have been received or provided, or the invoice is taken to have been issued, in your first tax period after 1 July 2000.
+[48]
+This provides the basis upon which the basic attribution rules and any relevant special rules in the GST Act apply to determine attribution for these supplies or acquisitions that are subject to GST because of the operation of the GST Transition Act.
+73. The attribution rules in the GST Act including any special attribution rules determined under section 29-25 do not alter the operation of the GST Transition Act.
+Ruling
+Determinations made by the Commissioner
+74. The Commissioner is satisfied that the basic attribution rules and relevant special rules apply inappropriately for the following kinds of supplies and acquisitions.
+(i)
+supplies and acquisitions subject to a statutory cooling off period, where consideration is received or provided, or an invoice is issued, in a tax period that ends before the cooling off period expires;
+(ii)
+supplies made through banknote-operated, coin-operated machines and similar devices where removal of the notes and coins from the machine or similar device is the only way that the supplier has of knowing when consideration is received;
+(iii)
+supplies and acquisitions made through agents who provide the information required by suppliers and recipients for attribution purposes;
+(iv)
+supplies and acquisitions for which consideration is received or provided before the total consideration is known; and
+(v)
+supplies and acquisitions made under contracts that provide for the retention of consideration.
+75. Accordingly, the Commissioner has made written determinations of the tax period or periods to which GST payable, input tax credits or adjustments are attributable for these supplies or acquisitions, as the circumstances require. A copy of each determination made is attached to this Ruling. These particular attribution rules override the basic attribution rules and the special rules in Chapter 4 of the GST Act but only to the extent of any inconsistency and only to the extent provided for in the determination.
+[49]
+76. If you make supplies or acquisitions of the kinds specified in these determinations, you must attribute any GST payable or input tax credits on those supplies or acquisitions, or adjustments in accordance with the particular attribution rule set out in the relevant determination but only to the extent of any inconsistency with the basic attribution rules and the special rules in Chapter 4 of the GST Act and only to the extent provided for in the determination.
+77. You may make a taxable supply or creditable acquisition of a kind specified in more than one of the determinations. This means that more than one of the particular attribution rules apply and may require, for example, GST payable or input tax credit for one tax period also be attributable to another tax period or periods.
+78. To avoid this situation, the Commissioner has determined that the later tax period is the tax period to which the GST payable, input tax credit or adjustment is attributable. This gives overall effect to all the relevant determinations for a particular supply or acquisition. A copy of this determination is attached to the Ruling as Schedule 1 at page 59.
+A supply or acquisition occurring, but still being subject to a statutory cooling off period under an Australian law (paragraph 29-25(2)(c))
+79. The particular attribution rule determined by the Commissioner is for supplies and acquisitions subject to a statutory cooling off period, where consideration is received or provided or an invoice issued in a tax period ending before the statutory cooling off period expires. A copy of this determination is attached to the Ruling as Schedule 2 at page 61.
+80. The effect of the particular attribution rule is to defer attribution of GST payable and input tax credits for these supplies and acquisitions until the tax period in which the cooling off period expires. This will reduce the number of adjustments that would otherwise arise when supplies are cancelled in cooling off periods.
+81. This particular attribution rule applies whether you account for GST on a cash basis or not.
+82. This particular attribution rule does not alter the application of Division 156.
+A supply or acquisition occurring before the supplier or recipient knows it has occurred (paragraph 29-25(2)(d))
+Supplies made through banknote and coin-operated machines and similar devices
+83. The particular attribution rule determined by the Commissioner is for supplies made through banknote-operated machines, coin-operated machines and similar devices where removal of the notes and coins is the only means that the supplier has of knowing when consideration is received for the supplies. A copy of this determination is attached to the Ruling as Schedule 3 at page 64.
+84. The effect of the particular attribution rule is to allow attribution of GST payable on these supplies in the tax period in which the notes or coins are removed rather than when they are deposited in the machine.
+85. This particular attribution rule applies whether you account for GST on a cash basis or not.
+86. The Commissioner has not made a determination for acquisitions made through these devices. If you make a creditable acquisition through a banknote-operated, coin-operated machine or similar device, the application of the basic attribution rules generally means that input tax credits are attributable to the tax period in which you pay for the acquisition. The Commissioner is not satisfied that this application of the basic attribution rules produces an inappropriate result.
+Supplies and acquisitions made through agents who provide the information required by suppliers and recipients for attribution purposes
+87. The particular attribution rule determined by the Commissioner is for supplies and acquisitions made through agents (under an agency arrangement where the acts of the agent are taken to be the acts of the principal) and the supplier or recipient has to rely on the agent for the information required to account for any GST payable on the supply, any input tax credit arising from the acquisition, or any related adjustment. A copy of this determination is attached to this Ruling as Schedule 4 at page 66.
+88. The effect of the particular attribution rule is to defer attribution of GST payable, input tax credits and adjustments until you obtain from your agent information you need to account for the GST payable, input tax credits and adjustments for supplies and acquisitions made through the agent. This information comprises details of when consideration has been received for a taxable supply or provided for a creditable acquisition and, if you do not account for GST on a cash basis, when an invoice is issued relating to the supply or acquisition. For adjustments, the relevant information comprises details that you need to work out whether an adjustment is required and the amount of the adjustment.
+89. This particular attribution rule does not alter the application of Division 156. If Division 156 applies, the determination operates in respect of each separate supply.
+90. This particular attribution rule does not alter the application of Division 153. That Division sets out the rules for holding and issuing tax invoices and adjustment notes when your supplies or acquisitions are made through an agent.
+91. This particular attribution rule does not apply to taxable supplies and creditable acquisitions made by a non-resident through a resident agent. Division 57 applies to these supplies and acquisitions.
+A supply or acquisition occurring before the supplier or recipient knows the total consideration (paragraph 29-25(2)(e))
+92. The particular attribution rule is for supplies and acquisitions where some consideration is received (or provided), or an invoice is issued, but the total consideration for the supply or acquisition has not been ascertained because it depends on a future event or events. The determination does not apply if that event is entirely within the control of the supplier. A copy of this determination is attached to this Ruling as Schedule 5 at page 70.
+93. The effect of the particular attribution rule is to defer attribution of GST on the supply or entitlement to an input tax credit for the amount that can not be ascertained.
+94. The supplier attributes GST payable (or the recipient claims input tax credits) to the extent that consideration is received (or provided), or an invoice is issued. At the time the supplier (or recipient) knows the total consideration, GST payable on the taxable supply (or input tax credit for the creditable acquisition) is attributable to the tax period in which the supplier (or recipient) first knows the total consideration, but only to the extent that the GST (or input tax credit) has not been previously attributed to an earlier tax period.
+95. In the usual case, a recipient cannot attribute an input tax credit unless a tax invoice is held.
+[50]
+As a tax invoice must contain enough information to clearly ascertain the total price of what is being supplied
+[51]
+a tax invoice cannot be produced before the total consideration has been ascertained.
+96. However, to give effect to the particular attribution rule, the Commissioner has made a determination under subsection 29-10(3) to waive the requirement, in certain circumstances, for the recipient to hold a tax invoice before attributing an input tax credit to a tax period.
+[52]
+For the determination to apply, the recipient must hold an invoice or other document showing the interim amount payable or paid, and that invoice or other document must satisfy the requirements of subsection 29-70(1) other than the total price.
+96A. When the total amount of the consideration is known, a further tax invoice would be required by the recipient to attribute the input tax credit in relation to the remainder of the consideration. However, the determination will apply such that a tax invoice is not required where the recipient holds a further document that otherwise satisfies the requirements of subsection 29-70(1), except that it shows the remainder of the consideration payable rather than the total price.
+97. This particular attribution rule does not apply if you account for GST on a cash basis. If you account for GST on a cash basis, you account for GST payable and input tax credits to the extent to which you have received consideration for taxable supplies or you have provided consideration for creditable acquisitions. This means that you do not have to know the total consideration to apply the basic attribution rules. The Commissioner is not satisfied that this application of the basic attribution rules produces an inappropriate result.
+98. This particular attribution rule does not alter the application of Division 156. If Division 156 applies, the attribution rule determined by the Commissioner under section 29-25 operates in respect of each separate supply.
+A supply or acquisition made under a contract that provides for retention of some or all of the consideration until certain conditions are met (paragraph 29-25(2)(g))
+99. The particular attribution rule determined by the Commissioner is for supplies and acquisitions made under a contract that provides for the recipient of the supply to retain part of the consideration ('the retention amount') pending the end of a defects liability period. A copy of this determination is attached to this Ruling as Schedule 6 at page 74.
+100. The effect of the particular attribution rule is to defer attribution of the part of GST payable or the part of input tax credit that relates to the retention amount until the amount is actually received or provide
+d,
+or a document notifying an obligation to pay the retention amount is issued in relation to that amount following expiry of the defects liability period.
+101. The basic attribution rules or any special rules continue to apply to the rest of the GST payable or input tax credit. Attribution of only the part of the GST payable (or the input tax credit) that relates to the retention amount is deferred.
+102. This particular attribution rule does not apply if you account for GST on a cash basis. If you account for GST on a cash basis, you only account for GST payable (or input tax credits) in a tax period to the extent that consideration is received (or provided) in that tax period. This means that you do not have to account for the part of the GST payable (or the input tax credit) that relates to a retention amount until you have actually received (or provided) that amount of consideration. The Commissioner is not satisfied that this application of the basic attribution rules produces an inappropriate result.
+103. This particular attribution rule does not alter the application of Division 156. If Division 156 applies, the particular attribution rule applies in respect of each separate supply.
+Determinations not made by the Commissioner
+104. The Commissioner, not being satisfied that the application of the basic and relevant special attribution rules produces an inappropriate result, has not made determinations for the following kinds of supplies and acquisitions:
+(i)
+supplies and acquisitions made under hire purchase agreements;
+(ii)
+supplies and acquisitions made under floor plan arrangements; and
+(iii)
+supplies and acquisitions under agreements for the supply of goods on approval, or on 'sale or return' terms.
+The basic and any relevant special attribution rules apply to these supplies and acquisitions.
+A supply or acquisition in which possession of goods passes, but title in the goods will, or may, pass at some time in the future (paragraph 29-25(2)(a))
+Supplies and acquisitions made under hire purchase agreements
+104A. The GST law recognises that a hire purchase agreement involves both the supply and acquisition of goods and the supply and acquisition of credit.
+Application of the basic attribution rules
+105. The application of the basic attribution rules is explained at paragraphs 208 to 212 and paragraph 213 in the 'Explanation' section.
+Application of any relevant special attribution rule
+105A. Section 158-5 provides that, if you account for GST on a cash basis and you make an acquisition under a hire purchase agreement entered into on or after 2 July 2012, the GST law applies to that acquisition as though you do not account on a cash basis.
+[52A]
+105B. This means that you are treated as though you do not account on a cash basis for the purposes of determining:
+•
+the tax period to which any input tax credit for the acquisition is attributable; and
+•
+the tax period to which any adjustment you have (that arises in relation to the acquisition) is attributable.
+106. Division 156 does not apply to a supply of goods under a hire purchase agreement. For acquisitions made under a hire purchase agreement entered into before 2 July 2012, this is because:
+(a)
+the supply or acquisition of goods under a hire purchase agreement is not a supply or acquisition for a period or on a progressive basis and so does not fall within section 156-5 or section 156-10; and
+(b)
+a hire purchase agreement is not similar to a lease or hire arrangement and so does not fall within section 156-22.
+106A. For acquisitions made under a hire purchase agreement entered into on or after 2 July 2012, section 156-23 expressly provides that, for the purposes of Division 156, a supply or acquisition of goods or credit under a hire purchase agreement is treated as not being a supply or acquisition made on a progressive or periodic basis. Paragraph 5.38 of the Explanatory Memorandum to Tax Laws Amendment (2011 Measures No. 9) Bill 2011 confirms that section 156-23 was intended to clarify the then-existing treatment of goods acquired under a hire purchase agreement (rather than produce a different outcome). Section 156-23 also ensures that the credit component supplied and acquired under a hire purchase agreement entered into on or after 2 July 2012 is also not treated as a supply or acquisition made on a progressive or periodic basis.
+Supplies and acquisitions made under floor plan arrangements
+Application of the basic and any relevant special attribution rules
+107. The application of the basic and any special attribution rules are explained at paragraphs 223 to 232 in the 'Explanation' section of the Ruling.
+Supplies and acquisitions under agreements for the supply of goods on approval, or on 'sale or return' terms
+Application of the basic and any relevant special attribution rules
+108. The application of the basic and any relevant special attribution rules are explained at paragraphs 239 to 242 in the 'Explanation' section of the Ruling.
+Explanation
+Determinations made by the Commissioner
+A supply or acquisition occurring, but still being subject to a statutory cooling off period under an Australian law (paragraph 29-25(2)(c))
+The nature of the relevant transactions
+109. A statutory cooling off period is a period prescribed by legislation
+[53]
+, which allows a purchaser, or other person assuming obligations under a contract, time within which to rescind the contract. This is a legislative measure designed to protect consumers. It is not dependent upon any fault or breach by the supplier. The right cannot usually be excluded by agreement between the parties.
+110. In some circumstances it may be an offence for the supplier to accept payment during the cooling off period.
+111. The statutory cooling off period usually commences on the day a contract for a supply is entered into, or the day after the contract is entered into, depending on the relevant legislation.
+Examples of these transactions
+112. A statutory cooling off period may apply to contracts for particular types of supplies. For example, section 43 of the
+Motor Car Traders Act 1986
+(Vic) provides that a cooling off period of three days applies to sales of used motor cars to consumers.
+113. A statutory cooling off period may also apply to contracts for supplies entered into in certain circumstances. For example, under section 62 of the Fair
+Trading Act 1989
+(Qld) contracts for door-to-door sales of goods and services are subject to a ten day cooling off period.
+Is the application of the basic attribution rules inappropriate?
+114. Paragraph 29-25(2)(c) allows the Commissioner to remedy an inappropriate application of the basic attribution rules and any relevant special rule in circumstances involving 'a supply or acquisition occurring, but still being subject to a statutory cooling off period under an Australian law'.
+115. During the cooling off period, there is a real likelihood that a recipient of a supply will exercise the statutory right to rescind the contract for the supply. Because of this, it would be inappropriate to attribute GST payable or input tax credits to a tax period which ends before the statutory cooling off period expires.
+Determination under section 29-25
+116. Accordingly, the Commissioner has made a determination under section 29-25 to defer the attribution of GST payable on supplies and input tax credits for acquisitions where a cooling off period expires after a tax period to which GST payable or input tax credits would be attributable under the basic attribution rules.
+117. If you make a
+taxable supply
+that is subject to a cooling off period under an Australian law,
+[54]
+you attribute any amount of GST payable on the supply that would otherwise be attributable to a tax period that ends before the cooling off period expires, to the tax period in which the statutory cooling off period expires.
+118. If you make a
+creditable acquisition
+that is subject to a cooling off period under an Australian law, you attribute any input tax credit that would otherwise be attributable to a tax period which ends before the cooling off period expires, to the tax period in which the statutory cooling off period expires.
+A supply or acquisition occurring before the supplier or recipient knows it has occurred (paragraph 29-25(2)(d))
+Supplies made through banknote and coin-operated machines and similar devices
+The nature of the relevant transactions
+119. There are circumstances in which consideration may be received for taxable supplies without the suppliers being immediately aware of the fact. For example, a wide variety of taxable supplies can be made through machines designed to accept consideration.
+Examples of these transactions
+120. Coin or note accepting machines are used in making many kinds of supplies. Examples include:
+•
+supplies of goods, such as food, beverages or photographs, from machines that both accept the consideration and dispense the goods;
+•
+supplies of rights such as photocopying, Internet access (through kiosks in public places), games and amusements, laundry facilities, car washes, parking and toll-way access.
+Is the application of the basic attribution rules inappropriate?
+121. Paragraph 29-25(2)(d) allows the Commissioner to remedy an inappropriate application of the basic attribution rules and any special rules in circumstances involving 'a supply or acquisition occurring before the supplier or recipient knows it has occurred'. Supplies made through banknote-operated machines, coin-operated machines and similar devices, where the supplier does not know what consideration has been received without removing the consideration from the machine, fit within this description.
+122. Application of the basic rules about attribution of GST payable on taxable supplies would require you to establish the tax period in which payment is deposited in your machines. This would involve removing cash from the machines at the end of the last day of each tax period rather than in accordance with your normal business practice.
+123. As there may be considerable compliance costs incurred by machine operators in applying the basic attribution rules in these circumstances, the Commissioner is satisfied that the application of those rules is inappropriate.
+Determination under section 29-25
+124. Accordingly the Commissioner has made a determination under subsection 29-25(1) to alter the application of the basic attribution rules for supplies of this kind.
+125. If you receive consideration for
+taxable supplies
+through the use of a banknote or coin-operated machine or similar device where you have to remove the notes and coins from the machine to know what consideration you have received, the GST payable on those supplies is attributable to the tax period in which you remove the consideration from the machine or device.
+Supplies and acquisitions made through agents who provide the information required by suppliers and recipients for attribution purposes
+The nature of the relevant transactions
+126. An agency arrangement is one where the acts of the agent are taken to be the acts of the principal. Agency arrangements do not include arrangements where the supplier or recipient is colloquially referred to as an agent but makes supplies and acquisitions as a principal rather than as an agent. For example, stockbrokers and some travel agents make supplies and acquisitions as principals and not as agents
+127. Suppliers (and recipients) who make taxable supplies (or creditable acquisitions) through agents may authorise their agents to receive (or provide) consideration for the supply (or acquisition) and issue invoices relating to the supply (or acquisition) on their behalf.
+128. If you make supplies or acquisitions through an agent where the acts of the agent are taken to be your (the principal's) acts, you and not your agent are liable for the GST payable on the taxable supply or are entitled to the input tax credits arising from the creditable acquisition. You need to have arrangements in place to obtain from your agent information required to account for any GST payable, input tax credits or adjustments you may be required to make.
+Is the application of the basic rules inappropriate?
+129. Paragraph 29-25(2)(d) allows the Commissioner to remedy an inappropriate application of the basic attribution rules and any special rules in circumstances involving 'a supply or acquisition occurring before the supplier or recipient knows it has occurred'.
+130. To account for the GST payable on taxable supplies made through an agent, you need to know when consideration is received or an invoice issued for those supplies. If your arrangement with your agent provides for the agent to receive consideration or issue an invoice relating to the supply on your behalf, you need information about this to account for the GST payable under the basic attribution rules.
+131. The practical commercial limitations of the reporting system under which you obtain this information may mean that you do not have the information necessary to account for GST payable or input tax credit entitlements until after the end of the relevant tax period.
+132. The application of the basic attribution rules, in these circumstances where normal business practice involves a delay in reporting the information necessary to account for GST, could impose an unreasonable compliance burden on suppliers and recipients of supplies who make supplies and acquisitions through agents. The Commissioner is satisfied that this is an inappropriate application of those rules.
+Determination under section 29-25
+133. Accordingly, the Commissioner has made a determination under section 29-25 to alter the attribution rules for supplies and acquisitions made through agents where the supplier or recipient has to rely on an agent for information required to account for GST.
+134. This determination is not about who is liable for the GST payable on supplies made through agents or about the amount of GST payable on those supplies. It is not about who is entitled to input tax credits. It is about when you account for GST payable for which you are liable and input tax credits to which you are entitled.
+135. If you do not account for GST on a cash basis and you make a
+taxable supply
+through an agent on whom you rely for information about consideration being received for a supply or an invoice being issued relating to the supply, the GST payable on the supply is attributable to the tax period in which you become aware that:
+•
+any of the consideration for the supply has been received; or
+•
+an invoice relating to the supply has been issued;
+whichever is the earlier.
+136. If you account for GST on a cash basis and you make a
+taxable supply
+through an agent on whom you rely for information about consideration being received for the supply, the GST payable on the supply is attributable to the tax period or periods in which you become aware that consideration for the supply has been received. If you become aware in a particular tax period that part of the consideration has been received, GST on the supply is attributable to that tax period but only to the extent of that part that has been received in that tax period.
+137. If you do not account for GST on a cash basis and you make a
+creditable acquisition
+through an agent on whom you rely for information about consideration being provided for the acquisition or an invoice being issued relating to the acquisition, the input tax credit for the acquisition is attributable to the tax period in which you become aware that:
+•
+any of the consideration has been provided, or
+•
+an invoice relating to the acquisition has been issued;
+whichever is the earlier.
+138. If you account for GST on a cash basis and you make a
+creditable acquisition
+through an agent on whom you rely for information about consideration being provided for the acquisition, the input tax credit for the acquisition is attributable to the tax period or periods in which you become aware that consideration for the acquisition has been provided. If you become aware in a particular tax period, that part of the consideration has been provided, the input tax credit for the acquisition is attributable to that tax period but only to the extent of that part you provided in that tax period.
+139. If you do not account for GST on a cash basis and you have an
+adjustment
+in relation to a taxable supply or creditable acquisition made through an agent on whom you rely for information about:
+•
+adjustment events relating to those supplies or acquisitions, or
+•
+bad debts written off or recovered in respect of those supplies;
+any resulting adjustments are attributable to the tax period in which you become aware of the need for the adjustment and the amount of the adjustment.
+140. If you account for GST on a cash basis and you have an adjustment in relation to a taxable supply or creditable acquisition made through an agent on whom you rely for information about adjustment events relating to those supplies or acquisitions, any resulting adjustments are attributable to the tax period in which you, the principal, become aware of the need for the adjustment and the amount of the adjustment. However, if the adjustment event requires you to provide consideration, the adjustment is attributable to the tax period in which you, the principal, become aware that the consideration has been provided.
+Becoming aware
+141. When you obtain the required information from your agent and therefore become aware that you have issued an invoice or received consideration for a taxable supply, is a question of fact in each case. It depends on the specific arrangements that you have with your agent for finding out the required information.
+142. If you rely on an agent for information about when consideration is received for taxable supplies you make through the agent, the effect of the determination is not to defer attribution of GST payable on those supplies until consideration received on your behalf is actually paid over to you by the agent. However, in some cases receiving a payment from your agent may, in fact, be the only (or the first) notification you receive from your agent that consideration has been received. If this is the case, you attribute GST payable in the tax period in which you receive the consideration from your agent, this being the tax period in which you first became aware of the consideration being received.
+143. It may be that your arrangement with your agent is that consideration received for taxable supplies made on your behalf will be deposited into a bank account. You would be taken to have become aware that you have received consideration when the amount is deposited in your account.
+Application of certain special rules
+144. This determination does not alter the application of Division 156. If Division 156 applies, the attribution rule determined by the Commissioner under section 29-25 operates in respect of each separate supply.
+145. This determination does not alter the application of Division 153. Division 153 sets out the rules for holding and issuing tax invoices and adjustment notes when your supplies or acquisitions are made through an agent.
+146. This determination has no application to supplies or acquisitions made by a non-resident through a resident agent. Division 57 applies to these supplies or acquisitions.
+A supply or acquisition occurring before the supplier or recipient knows the total consideration (paragraph 29-25(2)(e))
+The nature of the relevant transactions
+147. Sometimes consideration is received or provided before the total consideration for the supply or acquisition is known, the consideration being unascertainable because it is dependent on a future event or events.
+148. For example, in some industries, particularly agricultural industries where produce is pooled, goods may be removed by or delivered to a recipient before the total consideration for the supply is ascertained. It is a characteristic of this type of supply that final determination of the consideration is dependent on factors including:
+•
+quantitative analysis of the goods, such as measurement of weight or volume;
+•
+qualitative analysis of the goods; and
+•
+market conditions and prices.
+149. Because of the delay in determining the total consideration, it is common for some of the consideration to be paid in advance.
+Examples of these transactions
+150. An example of this type of transaction can be found in the sugar industry. The Queensland Sugar Corporation (QSC) is the marketing body for all sugar produced in Queensland. Proceeds from the sale of raw sugar are pooled for payment purposes. The QSC distributes the proceeds to millers, who then distribute payments to the growers.
+151. The price paid to the farmer for sugar cane is based on a number of factors, such as the proportion of sugar contributed by the mill, the recoverable sugar content of the cane provided by the grower, the rate of recovery of Commercial Cane Sugar (CCS) by the mill, the region that the cane was grown in, and the total pooled proceeds from the marketing of the sugar.
+152. The formula used to calculate sugar payments not only requires analysis of the quality and quantity of the cane, and market conditions, but also comparisons with the quality and quantity of production from other millers and growers.
+153. Mill owners receive progressive payments from the QSC during the sugar harvesting season. The mill owners make advance payments to the farmers. Harvesting takes place from August to December, but payments for the harvest may take place over a period of 11 months. The initial advance payment rate is based on the estimated final average price for the sugar. The advance rates may vary due to factors such as changes to anticipated cash flows and the estimated final average price. The final payment is made in July in the year after a particular harvest.
+[55]
+154. Until the final payment, farmers do not know the total consideration for their supplies of sugar cane.
+Is the application of the basic attribution rules inappropriate?
+155. Paragraph 29-25(2)(e) allows the Commissioner to remedy an inappropriate application of the basic attribution rules and any relevant special rule in circumstances involving 'a supply or acquisition occurring before the supplier or recipient knows the total consideration'.
+156. If you do not account for GST on a cash basis and you do not know the amount of consideration for the supply, you will be unable to work out the GST payable or the input tax credit.
+Determination under section 29-25
+157. The Commissioner is satisfied that the application of the basic attribution rules is inappropriate in these circumstances and has made a determination under section 29-25 to alter the application of those rules.
+158. If, in a tax period, before the total consideration for a taxable supply has been ascertained, an invoice is issued relating to the supply and you receive any consideration for
+the supply,
+you attribute GST payable on the supply to that tax period, but only to the extent that you know the consideration and only to the extent that the GST has not been previously attributed to an earlier tax period.
+159. For example, if, in a particular tax period, you issue an invoice for $100,000 relating to a supply for which the total consideration is not known and you receive $50,000 in that tax period, you attribute GST on the supply to the extent that you know the consideration, that is, you attribute 1/11th of $100,000.
+160. If, in a tax period, before the total consideration for a taxable supply has been ascertained, an invoice is issued relating to the supply and no consideration is received for
+the supply,
+you attribute GST payable on the taxable supply to that tax period, but only to the extent of the amount of consideration stated in the invoice and to the extent that the GST has not been previously attributed to an earlier tax period.
+161. If, in a tax period, before the total consideration for the taxable supply has been ascertained, and an invoice is not issued relating to the supply, but consideration is received for
+the supply,
+you attribute GST payable on the supply to that tax period to the extent that consideration is received in that tax period and to the extent that the GST has not been previously attributed to an earlier tax period
+162. However, when you know the total consideration for the supply, any GST payable on the supply that has not been previously attributed to an earlier tax period is attributable to the tax period in which you first know the total consideration for the supply.
+163. If, in a tax period, before the total consideration for a creditable acquisition has been ascertained, an invoice is issued relating to the acquisition and you provide any consideration for
+the acquisition,
+the input tax credit for the acquisition is attributable to that tax period, but only to the extent that you know the consideration and only to the extent that the input tax credit has not been previously attributed to an earlier tax period.
+164. If, in a tax period, before the total consideration for a creditable acquisition has been ascertained, an invoice is issued relating to the acquisition and you do not provide any consideration for
+the acquisition,
+the input tax credit for the acquisition is attributable to that tax period but only to the extent of the amount of the consideration stated in the invoice and only to the extent that the input tax credit has not been previously attributed to an earlier tax period.
+165. If, in a tax period, before the total consideration for a creditable acquisition has been ascertained, and an invoice is not issued relating to the acquisition, but you provide consideration for the acquisition, the input tax credit for the creditable acquisition is attributable to that tax period but only to the extent that you provide consideration in that tax period and only to the extent that the input tax credit has not been previously attributed to an earlier tax period.
+166. However, when you know the total consideration for the acquisition, any input tax credit that has not been previously attributed to an earlier tax period is attributable to the tax period in which you first know the total consideration for the acquisition.
+167. If the consideration for a supply is to be ascertained by the recipient, you, the supplier, are not taken to know the consideration until the recipient of the supply notifies you. This means that you are not required to work out the consideration yourself for the purposes of attributing the GST payable before you are given the relevant notification by the recipient.
+168. This determination only applies if the consideration for a supply or acquisition is not known at the time some of the consideration is received or provided, or an invoice is issued, because the amount of the consideration depends on a future event or events. The determination does not apply if that event is entirely within the control of the supplier.
+169. It is not accepted that you do not know the consideration for a supply simply because there is a possibility that the amount of the consideration for the supply may change.
+170. This determination only applies where the total consideration for the supply is expressed as an amount of money.
+Application of certain special rules
+171. This determination does not alter the application of Division 156. If Division 156 applies, the attribution rule determined by the Commissioner under section 29-25 operates in respect of each separate supply.
+Supplies or acquisitions made under contracts that provide for the retention of some or all of the consideration until certain conditions are met (paragraph 29-25(2)(g))
+The nature of the relevant transactions
+172. Provisions for retention amounts are very common in building and construction contracts between the builder/contractor and developer/proprietor and also between the builder/contractor and its subcontractors.
+173. The recipient withholds a retention amount from the total amount payable in order to provide the recipient with some protection that the builder/contractor or subcontractor will satisfactorily perform its obligations under the contract.
+174. The retention amounts may be significant, with some contracts allowing the recipient to withhold as much as 10 per cent of payments pending full and satisfactory performance of the contract or until the end of the defects liability period. Recipients may retain these retention amounts for lengthy periods.
+Is the application of the basic attribution rules inappropriate?
+175. Paragraph 29-25(2)(g) allows the Commissioner to remedy an inappropriate application of the basic attribution rules and any special rules in circumstances involving 'a supply or acquisition made under a contract that provides for retention of some or all of the consideration until certain conditions are met'.
+176. Under subsection 29-5(1), if you do not account for GST on a cash basis, you attribute all the GST payable on a taxable supply (or each separate supply if Division 156 applies) to the tax period in which an invoice is issued or you receive an amount of consideration in respect of that supply, whichever is the earlier, even though that amount of consideration excludes the retention amount.
+177. Under subsection 29-10(1), if you do not account for GST on a cash basis, you attribute the whole input tax credit for a creditable acquisition (or for each separate acquisition if Division 156 applies) to the tax period in which an invoice is issued or you pay an amount of consideration in respect of that acquisition, whichever is the earlier, even though that amount of consideration excludes the retention amount.
+178. Having regard to the delay in receiving or paying retention amounts, the Commissioner is satisfied that this application of the basic attribution rules produces an inappropriate result.
+Determination under section 29-25
+179. Accordingly, the Commissioner has made a determination under section 29-25 to defer attribution of GST payable and input tax credits but only to the extent related to the retention amount.
+180. If you make a taxable supply of this kind, attribution of the part of the total GST payable that relates to the retention amount is based on the extent to which the retention amount is received or an invoice relating to the retention amount is issued following the end of the defects liability period.
+181. This determination overrides subsection 29-5(1) to the extent that it would otherwise operate to attribute the GST payable in relation to the retention amount to an earlier tax period.
+182. For example, if a document is issued after the end of a defects liability period asking for payment of part or all of a retention amount, the GST payable on the retention amount is attributable to the tax period in which the document is issued.
+183. However, if a payment of part or all of the retention amount is received before a document notifying an obligation to pay the retention amount is issued, the GST on the retention amount is attributable to the tax period in which the amount is received, but only to the extent of the amount received.
+184. If you make a creditable acquisition of this kind, attribution of the part of the total input tax credit that relates to the retention amount is based on the extent to which the retention amount is provided or an invoice relating to the retention amount is issued following the end of the defects liability period.
+185. This determination overrides subsection 29-10(1) to the extent that it would otherwise operate to attribute the input tax credit in relation to the retention amount to an earlier tax period.
+186. The rest of the GST payable (or input tax credit) is attributable according to the basic attribution rules in subsection 29-5(1) or 29-10(1). Attribution of only the part that relates to the retention amount is deferred.
+187. This determination does not apply if you account on a cash basis.
+188. This Ruling does not address any issues about whether there is GST payable where an amount retained before 1 July 2000 is received after 1 July 2000. You can find out more about these issues in Goods and Services Tax Ruling 2000/18 Goods and Services Tax: construction and building services which span 1 July 2000.
+Application of certain special rules
+189. This determination does not alter the application of Division 156. If Division 156 applies, the attribution rule determined by the Commissioner under section 29-25 operates in respect of each separate supply.
+Determinations not made by the Commissioner
+A supply or acquisition in which possession of goods passes, but title in the goods will, or may, pass at some time in the future
+Supplies and acquisitions made under hire purchase agreement
+The nature of the relevant transactions
+190. One of the ways in which goods may be supplied is under a hire purchase agreement. The key features of a hire purchase agreement are:
+•
+hiring charges are calculated to cover the cash price of the goods plus credit charges, delivery, insurance etc, less any cash deposit or trade in; and
+•
+the recipient takes possession of the goods, and has a right to use the goods, as well as an option to buy the goods, exercisable at or before the end of the hire period.
+190A. The GST law recognises that a hire purchase agreement involves both the supply and acquisition of goods and the supply and acquisition of credit.
+191. Agreements for the purchase of goods by instalments where title in the goods does not pass until the final instalment is paid are within the income tax definition of a hire purchase agreement.
+[56]
+The GST Act applies in the same way, for attribution purposes, to supplies and acquisitions made under these agreements as it does to supplies and acquisitions made under hire purchase agreements.
+Does the special rule in Division 156 apply to a supply or acquisition of goods under hire purchase agreements?
+192. Where a supply of goods is made for a period or on a progressive basis and the consideration is also provided on a progressive or periodic basis, the GST payable on that taxable supply is attributable in accordance with the basic attribution rule in section 29-5 as if each periodic or progressive component of the supply were a separate supply.
+[57]
+193. Likewise, the input tax credit that arises on a creditable acquisition to which Division 156 applies is attributable in accordance with the basic attribution rule in section 29-10 as if each periodic or progressive component of the acquisition were a separate acquisition.
+[58]
+193A. Section 156-23 provides that, for the purposes of Division 156, a supply or acquisition of goods or credit under a hire purchase agreement entered into on or after 2 July 2012 is treated as not being a supply or acquisition made on a progressive or periodic basis.
+193B. Paragraph 5.38 of the relevant Explanatory Memorandum confirms58A that section 156-23 was intended to clarify the then-existing treatment of goods acquired under a hire purchase agreement (rather than produce a different outcome).
+194. The Commissioner's view is that Division 156 does not apply to a supply or acquisition of goods under a hire purchase agreement entered into before 2 July 2012. This is because:
+(a)
+the supply or acquisition of goods under a hire purchase agreement is not a supply or acquisition for a period or on a progressive basis and so does not fall within section 156-5 or section 156-10; and
+(b)
+a hire purchase agreement is not similar to a lease or hire arrangement and so does not fall within section 156-22.
+195. The essential nature of a hire purchase agreement was discussed by Finnemore J in
+Warman v Southern Counties Car Finance Corporation Ltd W J Ameris Car Sales
+[1949] 2 KB 576. His Honour outlined at page 582 of his judgement, the nature of a hire purchase agreement as follows:
+'A hire purchase agreement is in law, an agreement in two parts. It is an agreement to rent a particular chattel for a certain length of time. If during the period or at the end of the period the hirer does not wish to buy the chattel he is not bound to do so. On the other hand, the essential part of the agreement is that the hirer has the option of purchase,
+and it is common knowledge – and I suppose, common sense – that when people enter into a hire purchase agreement they enter into it not so much for the purpose of hiring, but for the purpose of purchasing, by a certain method,
+by what is, in effect, deferred payments, and that is done by this special kind of agreement known as a hire purchase agreement, the whole object of which is to acquire the option to purchase the chattel when certain payments have been made.
+(our emphasis)
+Now, I think it might well be right to say if at any stage the option to purchase goes, the whole value of the agreement to the hirer has gone with it. If he wanted to make an agreement merely to hire a car he would make it, but he enters into a hire-purchase agreement because he wants to have the right to purchase the car; that is the whole basis of the agreement, the very foundation of it.'
+196. This statement by Finnemore J recognises two basic ingredients of a hire purchase agreement, namely, the paramount purpose of purchasing and the financing element of the hire purchase (purchasing by deferred payments).
+197. Looked at as a whole, the hire purchase agreement is a method by which the 'hirer' purchases the goods. It is in commercial substance a method by which the 'hirer' purchases goods on deferred payment terms.
+198. Unlike a lease or hire arrangement, the capital cost of the goods under a hire purchase agreement is paid off over the term of the agreement and full ownership of the goods will pass to the recipient at the time of the final payment.
+199. Further, when the legal nature of the hire purchase arrangement involves bailment and an option to purchase, there is not a supply of goods for a period or progressively because it is not intended by the parties that the goods in question will be returned to the original owner, but will remain with the hirer who, when the option is exercised, is able to deal freely with the goods.
+200. For these reasons, a supply of goods by way of hire purchase is not a supply for a period or on a progressive basis in the same way that a supply of goods by way of sale is not a supply for a period.
+201. [Omitted.]
+[59]
+202. Further, the Explanatory Memorandum that accompanied the A New Tax System (Indirect Tax and Consequential Amendments) Bill 1999 stated that:
+'Liability for GST under a hire purchase agreement will arise at the commencement of the agreement and not continuously throughout the period of the agreement. If a hire purchase agreement is entered into prior to 1 July 2000 it will not be subject to GST'.
+[60]
+203. This result could only be achieved if a supply of goods under a hire purchase agreement is not a supply of goods for a period or on a progressive basis.
+204. Taxation regimes in other countries typically account for GST or VAT on hire purchase agreements on the date of entry into the agreement.
+Alternative view about the application of Division 156 to a supply or acquisition of goods made under hire purchase agreements entered into before 2 July 2012
+205. It may be argued that Division 156 applies to a supply or acquisition made under hire purchase agreements entered into before 2 July 2012.
+206. This argument is based on the characterisation of a hire purchase agreement as a supply of rights to use goods for a period and the supply of a right to purchase the goods at or before the end of the period. Where there is a supply of rights for a period and the consideration is to be provided on a progressive or periodic basis, Division 156 would apply. The effect of its application would be that GST payable and input tax credits on the supply or acquisition are attributable as if each progressive or periodic component of the supply were a separate supply.
+207. The characterisation of a hire purchase agreement as the provision of rights to hire and an option to purchase is inconsistent with the policy intentions as discussed above and would produce unintended outcomes under the GST Transition Act. If we adopt the alternative view, hire purchase agreements which are entered into before 1 July 2000 and which span that date would not be outside the GST net. Further this view ignores the commercial substance of a hire purchase arrangement.
+Application of the basic attribution rules – hire purchase agreements entered into before 2 July 2012
+208. The application of the basic attribution rules to supplies and acquisitions of goods under hire purchase agreements entered into before 2 July 2012 is the same as for a supply or acquisition of goods under an ordinary sale agreement. Note that there is no GST payable on the provision of an interest in credit under a hire purchase agreement entered into before 2 July 2012 where it is provided for a separate charge, and the charge is disclosed to the recipient of the goods.
+[60A]
+209. If you do not account for GST on a cash basis and you receive any consideration, or issue an invoice, for the supply of goods under a hire purchase agreement, you attribute all the GST payable on a taxable supply of the goods to the tax period in which you receive the consideration or issue the invoice, whichever is the earlier.
+[61]
+The hire purchase agreement may constitute an invoice.
+210. If you account for GST on a cash basis and you make a taxable supply of goods under a hire purchase agreement, the GST payable on the supply is attributable to the tax periods in which you receive consideration for the supply, but only to the extent that the consideration is received in those tax periods.
+[62]
+211. If you do not account for GST on a cash basis and you provide any consideration, or an invoice is issued, for a creditable acquisition of goods under a hire purchase agreement, you attribute all the input tax credit to the tax period in which you provide the consideration or the invoice is issued, whichever is the earlier.
+[63]
+The hire purchase agreement may constitute an invoice.
+212. If you account for GST on a cash basis and you make a creditable acquisition of goods under a hire purchase agreement, you attribute input tax credits for the acquisition to the tax periods in which you provide consideration for the acquisition, but only to the extent that you provide consideration in those tax periods.
+[64]
+Attribution rules – hire purchase agreements entered into on or after 2 July 2012
+212A. A supply of credit under a hire purchase agreement entered into on or after 2 July 2012 is not an input taxed financial supply as it is covered by item 20 of the table in regulation 40-5.12. The supply of credit is a taxable supply where the requirements of section 9-5 are satisfied.
+212B. Section 158-5 modifies the basic attribution rules if you account on a cash basis in respect to acquisitions made under a hire purchase agreement entered into on or after 2 July 2012. Under the modified rules, a taxpayer applies the attribution rules in relation to:
+•
+an acquisition it makes under a hire purchase agreement; or
+•
+if the taxpayer is a representative of an incapacitated entity (as defined in section 195-1) – an input tax credit to which it is entitled, or an adjustment that it has, under subsection 58-10(1) for an acquisition made under a hire purchase agreement
+as if it does not account on a cash basis.
+212C. Section 158-5 applies for the purposes of the entire GST Act and the GST Regulations. This means that, in addition to modifying the basic attribution rules under Divisions 19 and 29, section 158-5 also ensures that other provisions apply to the acquisition (or input tax credit or adjustment) as though the taxpayer does not account for GST on a cash basis, including:
+•
+subsection 21-15(2) (bad debts written off (creditable acquisitions));
+•
+subsection 66-15(2) (attributing input tax credits for creditable acquisitions of second-hand goods); and
+•
+subsections 90-35(1) and (2) (amalgamating companies accounting on a cash basis).
+212D. If you account for GST on a cash basis and you make a taxable supply of goods under a hire purchase agreement entered into on or after 2 July 2012, the GST payable on the supply is attributable to the tax periods in which you receive consideration for the supply, but only to the extent that the consideration is received in those tax periods.
+213. If you do not account for GST on a cash basis, you apply the basic attribution rules to GST payable for taxable supplies or input tax credits for creditable acquisitions made under a hire purchase agreement entered into on or after 2 July 2012 as referred to in paragraphs 209 and 212 of this Ruling.
+[65]
+Example 6
+213A. Jenny carries on an enterprise with a turnover of $1.5 million. The business is registered for GST, reports on a quarterly basis, and accounts on a cash basis. On 20 July 2012, Jenny enters into another hire purchase agreement with PQW Pty Ltd to purchase a delivery vehicle for her business for $55,000. The scheduled credit charges over the term of the hire purchase agreement are identified in the agreement as totalling $5,500 (GST-inclusive). PQW Pty Ltd issues a tax invoice to Jenny on 20 July 2012.
+213B. As the hire purchase agreement was entered into on or after 2 July 2012, the supply of credit made by PQW Pty Ltd is a taxable supply and not an input taxed financial supply. PQW Pty Ltd is liable for GST of $5,500 (1/11th of the total consideration of $60,500) which is attributed to the quarter ending 30 September 2012.
+213C. Even though Jenny accounts for GST on a cash basis, section 158-5 operates so that Jenny can attribute an input tax credit entitlement of $5,500 to the quarter ending 30 September 2012.
+Is the application of the basic attribution rules inappropriate?
+214. The basic attribution rules provide the same outcome for a supply and acquisition of goods under a hire purchase agreement as results from the application of the basic attribution rules to the supply of goods by way of sale. This outcome is consistent with the income tax treatment of hire purchase agreements. The Commissioner is not satisfied that the application of the basic attribution rules in relation to hire purchase agreements is inappropriate.
+Adjustments
+215. Adjustments may arise in relation to supplies and acquisitions made under hire purchase agreements in the following circumstances:
+(i)
+goods are returned;
+(ii)
+goods are repossessed;
+(iii)
+amounts due are not received or paid.
+216. The circumstances outlined in (i) and (ii) above are adjustment events and adjustments may be required under Division 19. Goods and Services Tax Ruling GSTR 2000/19 provides some guidance about Division 19 adjustments generally.
+217. In the circumstances outlined in (iii) above, bad debts adjustments may be required. Goods and Services Tax Ruling GSTR 2000/2 provides some guidance about bad debts adjustments.
+217A. Adjustments for adjustment events are attributed to the tax period in which you become aware of the adjustment.
+[65A]
+If you account on a cash basis and the adjustment event requires you to provide consideration, the adjustment is attributable to the tax period in which you provide the consideration. However, if you provide only part of the consideration in a tax period, you attribute that part of the adjustment to that tax period.
+[65B]
+217B. This rule is modified under section 158-5 where the adjustment event arises in relation to an acquisition made under a hire purchase agreement entered into on or after 2 July 2012, and you account for GST on a cash basis. The modified rule results in the adjustment being attributed as if you do not account on a cash basis.
+217C. If you have a decreasing adjustment from an adjustment event, but you do not hold an adjustment note at the time you lodge your BAS for the tax period to which the adjustment would otherwise be attributable, the adjustment is not attributable to that period.
+[65C]
+Instead, the adjustment is attributable to the first tax period for which you lodge your BAS whilst holding an adjustment note for the adjustment.
+[65D]
+Supplies and acquisitions under floor plan arrangements
+The nature of the relevant transactions
+218. There are various forms of floor plan arrangements, also known as display or bailment arrangements. This Ruling applies to floor plan arrangements with the following features:
+•
+a manufacturer/distributor sells goods to a floor plan financier;
+•
+the floor plan financier supplies limited rights over the goods to a dealer to hold and display the goods for sale until such time as a customer is found. In some instances, no floor plan financier is involved and the manufacturer/distributor supplies limited rights over the goods directly to the dealer under a bailment arrangement;
+•
+the dealer takes possession of the goods under the bailment arrangement until such time as a customer is found. The dealer pays regular bailment fees under this arrangement; and
+•
+when a customer is found, the goods are purchased by the dealer, who will then be invoiced and liable to pay for them. The dealer is now in a position to sell the goods to the customer.
+219. The essence of a typical floor plan arrangement is that, initially, ownership and title to the goods remain with the manufacturer, distributor or financier (the supplier), while possession and limited rights over the goods (and the obligation to return the goods if unsold) are granted to the dealer. This allows the dealer to offer the goods for sale without having to purchase them before securing a customer.
+220. Other arrangements may involve the dealer merely acting as agent for the owner. In these cases, the dealer does not obtain title to the goods at any stage. This type of arrangement is not discussed in this part of the Ruling.
+Examples of floor plan arrangements
+221. These arrangements are used to finance trading stock, especially where the stock consists of a high volume of expensive items. This is because one feature of trading stock is that it fluctuates from time to time, the amount being diminished as stock is sold and the amount increasing as new stock is acquired and added. Because of its fluctuating nature, it is often financed differently to, for example, items of plant which may be acquired and retained for a number of years.
+222. Examples of the types of goods typically held under a floor plan arrangement include motor vehicles, motor cycles, caravans, power boats, pianos and jewellery.
+Application of the basic attribution rules
+223. For attribution purposes, there are two separate supplies made by the financial, manufacturer or distributor to a dealer under these floor plan arrangements:
+•
+a supply of a right to display the goods for sale, for which regular bailment fees are paid; and
+•
+a supply of goods by way of sale, which occurs when a customer is secured for the goods.
+224. If you are the financier, manufacturer or distributor operating under a floor plan arrangement, the basic attribution rules apply to those taxable supplies as follows.
+225. If you account for GST on a cash basis, you attribute GST payable on a taxable supply of goods, and a taxable supply of rights to display the goods, to the tax period or periods in which you receive payment for the supplies from the dealer, but only to the extent that consideration is received in that tax period.
+[66]
+226. If you do not account for GST on a cash basis you attribute all of the GST payable on a taxable supply to the earlier of tax period in which you receive any part of the consideration for the supply, or issue an invoice relating to the supply.
+[67]
+In relation to the supply of goods to the dealer, this will usually not occur until the dealer purchases the goods, having secured a customer for them.
+227. If you are the dealer acquiring stock under a floor plan arrangement, the basic attribution rules apply as follows.
+228. If you account for GST on a cash basis, you attribute the input tax credit for a creditable acquisition to the tax period or periods in which you provide consideration for the acquisition, but only to the extent that you provide the consideration in that tax period.
+[68]
+229. If you do not account for GST on a cash basis you attribute all of the input tax credit for a creditable acquisition to the tax period in which you provide any of the consideration for the acquisition, or an invoice is issued, whichever is the earlier.
+[69]
+In relation to the acquisition of goods, this will usually not occur until you purchase the goods, having secured a customer for them.
+Application of any relevant special attribution rules
+230. If you do not account for GST on a cash basis, Division 156 will apply to the supply or acquisition of a right to display goods under a floor plan arrangement if the supply is made for a period or on a progressive basis and the consideration is provided on a progressive or periodic basis.
+[70]
+231. If the supply of a right to display the goods is a supply to which Division 156 applies, each periodic or progressive component of the supply is treated as a separate supply for attribution purposes. The basic attribution rules apply in respect of each separate supply. The GST payable on each separate supply is attributable to the tax period in which any of the consideration is received for that separate supply or an invoice is issued in relation to that separate supply, whichever is the earlier.
+[71]
+232. If the acquisition of a right to display the goods is an acquisition to which Division 156 applies, each periodic or progressive component of the supply is treated as a separate acquisition for attribution purposes. This means that the input tax credit for each separate supply is attributable to the tax period in which you provide any of the consideration for the separate acquisition or an invoice is issued in relation to that separate acquisition, whichever is the earlier.
+[72]
+Is the application of the basic and special rules inappropriate?
+233. Paragraph 29-25(2)(a) allows the Commissioner to remedy an inappropriate application of the basic attribution rules and any special attribution rules in circumstances involving 'a supply or acquisition in which possession of goods passes but title in the goods will, or may, pass at some time in the future'.
+234. The supply of goods to a dealer, and the acquisition of goods by a dealer, under a floor plan arrangement would fit within this description.
+235. The supply of goods to a dealer under a floor plan arrangement does not occur until the dealer has secured a customer for the goods. Before that happens, there will be no payments made or received, nor any invoice issued in respect of the supply of the goods. The documentation accompanying the physical delivery of the goods to the dealer at the commencement of the bailment period is not an invoice. Whether you account for GST on a cash basis or not, there will be no attribution of GST payable or input tax credits to a tax period earlier than the period in which the dealer purchases the goods from the financier.
+236. The bailment fee payable under a floor plan arrangement is the consideration provided by the recipient (the dealer) for the supply of a right to display the goods subject to the arrangement. This supply is not a financial supply.
+[73]
+The supplier will be liable to pay GST on the supply and the recipient is entitled to input tax credits for the acquisition.
+[74]
+If the supply of the rights to display the goods is made for a period or progressively, and the consideration for the supply (the bailment fee) is provided periodically or progressively, Division 156 applies if the supplier and/or recipient does not account for GST on a cash basis.
+237. The Commissioner is not satisfied that the way in which the basic attribution rules apply in conjunction with Division 156 in relation to floor plan arrangements is inappropriate and does not propose to make a determination under section 29-25 to vary the application of these rules.
+Supplies and acquisitions under agreements for the supply of goods on approval, or on 'sale or return' terms
+The nature of the relevant transactions
+238. A retailer may take goods on approval or on sale or return terms in circumstances where the retailer is unwilling to purchase the goods until he is sure that he will be able to sell them. This allows the retailer to offer goods for sale without having to purchase them before securing a customer for the goods. The essence of these transactions is that, under the contract:
+•
+possession of the goods passes to the recipient retailer;
+•
+property in the goods remains with the supplier until the recipient accepts the goods for resale (or own use), or on-sells them; and
+•
+the recipient is not liable to pay for the goods until he has accepted or on-sold the goods to a customer.
+Application of the basic and any special attribution rules
+239. For attribution purposes, there are two separate supplies made under arrangements for the supply of goods on approval, or on 'sale or return' terms:
+•
+a supply of a right to display the goods for sale, for which no consideration is paid; and
+•
+a supply of goods by way of sale, which occurs when the goods are accepted or on-sold.
+240. Under these arrangements (unlike the bailment fee in floor plan arrangements) the supply of rights to display goods for sale is not for consideration and therefore will not constitute a taxable supply.
+[75]
+241. The subsequent supply of goods by the manufacturer or wholesaler (and the acquisition of goods by the retailer) will be for consideration. The basic attribution rules will apply to that transaction as it is a taxable supply.
+242. The retailer may return the goods to the supplier before the agreed acceptance period (if any) expires, having decided not to accept them. The return of the goods to the supplier where the original supply was not for consideration does not have any GST consequences.
+Is the application of the basic attribution rules inappropriate
+243. Paragraph 29-25(2)(a) allows the Commissioner to remedy an inappropriate application of the basic attribution rules and any special rules in circumstances involving 'a supply or acquisition in which possession of goods passes but title in the goods will, or may, pass at some time in the future'.
+244. The supply or acquisition of goods under agreements for the sale of the goods on approval or on 'sale or return' terms would fit within this description.
+245. Under an arrangement of this type, there would usually be no payments made or received, nor any invoice issued in respect of the supply of the goods until the retailer has either accepted, or secured a customer for, the goods.
+246. Whether you account for GST on a cash basis or nor, there will be no attribution of GST payable or input tax credits to a tax period earlier than the period in which the retailer purchases the goods from the wholesaler or manufacturer. If the retailer decides not to accept the goods and returns them to the supplier before any acceptance or on-sale, there is no attribution of GST payable or input tax credits.
+247. The Commissioner is not satisfied that this application of the basic attribution rules is inappropriate and does not propose to make a determination under section 29-25 to vary their application.
+Application of the GST Transition Act
+248. GST is only payable on a supply or importation to the extent that it is made on or after 1 July 2000. Similarly, an entitlement to an input tax credit only arises on an acquisition to the extent that it is made on or after that date.
+[76]
+249. Section 6 of the GST Transition Act sets out how to determine when a supply or acquisition is made on or after 1 July 2000. The rules in that section are discussed at paragraphs 63 to 67 above.
+250. Some practical implications of the application of the time of supply or acquisitions rules in the GST Transition Act are noted below for the following supplies and acquisitions.
+Certain supplies made through banknote and coin operated machines and similar devices
+251. If you make supplies through a banknote-operated machine, coin-operated machine or similar device, you may have difficulty working out what goods were removed from the machine or rights granted through the machine on or after 1 July 2000. If you are unable to do this accurately, a reasonably based estimate will be accepted. An example of an acceptable basis is apportionment of total supplies made over a period that spans 1 July 2000 on a pro-rata time basis.
+Supplies and acquisitions made under agreements for the supply of goods on approval, or on 'sale or return' terms
+252. For supplies where the goods are removed before it is certain that a supply will be made, for example, for goods taken on approval, sale or return or similar terms, the supply is made when the supply is certain.
+[77]
+253. This means that, for example, if goods are passed from a wholesaler to a retailer on approval or on 'sale or return' terms before 1 July 2000, the supply of those goods to the retailer will not be subject to GST if the retailer accepts or on-sells the goods before that date.
+Supplies and acquisitions made under floor plan arrangements
+Supply of goods
+254. For the purposes of working out whether a supply of goods is made on or after 1 July 2000, the time of supply is taken to be the time when the goods are removed or made available to the recipient (if they are not to be removed). However, for supplies where the goods are removed before it is certain that a supply will be made, for example, for goods taken on approval, sale or return or similar terms, the supply is made when the supply is certain.
+[78]
+255. Under a floor plan arrangement, it is not certain that a supply of goods will be made to the dealer until the dealer secures a customer for the goods. This means that, if goods are passed from a supplier to a dealer under a floor plan arrangement before 1 July 2000, the supply of those goods will be subject to GST if the dealer does not buy the goods until on or after that date.
+Supply of rights
+256. The GST Transition Act provides that the supply or acquisition of 'any other thing', which includes rights, is made when the thing is performed or done.
+[79]
+Supplies of rights made on and after 1 July 2000 will be subject to GST.
+257. Section 12 of the GST Transition Act applies to a supply which is made for a period or progressively over a period which starts before 1 July 2000 and ends on or after that date. If the supply of rights to display goods under a floor plan arrangement is made for a period, or progressively over a period, section 12 will apply to that supply.
+258. Subsection 12(2) provides that the supply is taken to be made continuously and uniformly throughout that period. This means that the bailment fee payable for a supply for a period or progressively over a period which spans 1 July 2000 will be apportioned on a time basis. That part of the fee which relates to a supply or acquisition for the period before 1 July 2000 will not be subject to GST. That part of the fee which relates to a supply or acquisition for the period from 1 July 2000 will be subject to GST.
+259. If a supply of a right to display goods under a floor plan arrangement is not a supply to which section 12 applies, section 11 of the GST Transition Act may apply.
+[80]
+Under section 11, a supply of a right that has been, or is, granted on or after 2 December 1998 and before 1 July 2000, is taken to be a supply made on or after 1 July 2000 if, and to the extent that, the right could reasonably be expected to be exercised on or after 1 July 2000.
+[81]
+Supplies or acquisitions made under a hire purchase agreement
+260. Under a hire purchase agreement, the supply of goods is made when the goods are removed. Therefore, where a hire purchase agreement is entered into before 1 July 2000, and the goods subject to that agreement are removed before that date, then the supply of goods will not attract GST.
+261. Section 11 of the GST Transition Act applies to a supply of rights exercisable on or after 1 July 2000. This section was amended to expressly exclude the supply of a right that is an option to purchase goods under a hire purchase agreement.
+[82]
+Detailed contents list
+262. Below is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+11
+Context of attribution
+12
+The basic attribution rules
+13
+Accounting for GST on a cash basis
+14
+Taxable supplies
+14
+Example 1
+15
+Creditable acquisitions
+18
+Example 2
+21
+Creditable importations
+23
+Adjustments
+25
+If you do not account for GST on a cash basis
+32
+Taxable supplies
+32
+Example 3
+34
+Creditable acquisitions
+35
+Example 4
+37
+Creditable importations
+39
+Adjustments
+40
+Special rules about attribution
+46
+Supplies and acquisitions made on a progressive or  periodic basis
+46
+Example 5
+48
+Special attribution rules for hire purchase agreements  entered into on or after 2 July 2012
+53A
+Special attribution rule for security deposits
+54
+Determination of particular attribution rules under section 29-25
+58
+Attribution of GST payable and input tax credits on  supplies and acquisitions to which the GST Transition  Act applies
+62
+Ruling
+74
+Determinations made by the Commissioner
+74
+A supply or acquisition occurring, but still being subject to a statutory cooling off period under an Australian law (paragraph 29-25(2)(c))
+79
+A supply or acquisition occurring before the supplier or recipient knows it has occurred (paragraph 29-25(2)(d))
+83
+Supplies made through banknote and coin-operated machines and similar devices
+83
+Supplies and acquisitions made through agents who provide the information required by suppliers and recipients for attribution purposes
+87
+A supply or acquisition occurring before the supplier or recipient knows the total consideration (paragraph 29-25(2)(e))
+92
+A supply or acquisition made under a contract that provides for retention of some or all of the consideration until certain conditions are met (paragraph 29-25(2)(g))
+99
+Determinations not made by the Commissioner
+104
+A supply or acquisition in which possession of goods  passes, but title in the goods will, or may, pass at some  time in the future (paragraph 29-25(2)(a))
+104A
+Supplies and acquisitions made under hire purchase  agreements
+104A
+Application of any relevant special attribution rule
+105A
+Supplies and acquisitions made under floor  plan arrangements
+107
+Application of the basic and any relevant special attribution rules
+107
+Supplies and acquisitions under agreements for the supply of goods on approval, or on 'sale or return' terms
+108
+Application of the basic and any relevant special attribution rules
+108
+Explanation
+109
+Determinations made by the Commissioner
+109
+A supply or acquisition occurring, but still being subject to a statutory cooling off period under an Australian law  (paragraph 29-25(2)(c))
+109
+The nature of the relevant transactions
+109
+Examples of these transactions
+112
+Is the application of the basic attribution rules inappropriate?
+114
+Determination under section 29-25
+116
+A supply or acquisition occurring before the supplier or recipient knows it has occurred (paragraph 29-25(2)(d))
+119
+Supplies made through banknote and coin-operated machines and similar devices
+119
+The nature of the relevant transactions
+119
+Examples of these transactions
+120
+Is the application of the basic attribution rules  inappropriate?
+121
+Determination under section 29-25
+124
+Supplies and acquisitions made through agents who provide the information required by suppliers and recipients for attribution purpose
+126
+The nature of the relevant transactions
+126
+Is the application of the basic rules inappropriate?
+129
+Determination under section 29-25
+133
+Becoming aware
+141
+Application of certain special rules
+144
+A supply or acquisition occurring before the supplier or recipient knows the total consideration (paragraph 29-25(2)(e))
+147
+The nature of the relevant transactions
+147
+Examples of these transactions
+150
+Is the application of the basic attribution rules inappropriate?
+155
+Determination under section 29-25
+157
+Application of certain special rules
+171
+Supplies or acquisitions made under contracts that provide for the retention of some or all of the consideration until certain conditions are met
+172
+The nature of the relevant transactions
+172
+Is the application of the basic attribution rules inappropriate?
+175
+Determination under section 29-25
+179
+Application of certain special rules
+189
+Determinations not made by the Commissioner
+190
+A supply or acquisition in which possession of goods passes, but title in the goods will, or may, pass at some time in the future (paragraph 29-25(2)(a))
+190
+Supplies and acquisitions made under hire purchase agreements
+190
+The nature of the relevant transactions
+190
+Does the special rule in Division 156 apply to a supply  or acquisition of goods under hire purchase agreements?
+192
+Alternative view about the application of Division 156 to a  supply or acquisition of goods made under hire purchase  agreements entered into before 2 July 2012
+205
+Application of the basic attribution rules – hire  purchase agreements entered into before 2 July 2012
+208
+Attribution rules – hire purchase agreements entered  into on or after 2 July 2012
+212A
+Example 6
+213A
+Is the application of the basic attribution rules inappropriate?
+214
+Adjustments
+215
+Supplies and acquisitions under floor plan arrangements
+218
+The nature of the relevant transactions
+218
+Examples of floor plan arrangements
+221
+Application of the basic attribution rules
+223
+Application of any relevant special attribution rules
+230
+Is the application of the basic and special rules inappropriate?
+233
+Supplies and acquisitions under agreements for the supply of goods on approval, or on 'sale or return' terms
+238
+The nature of the relevant transactions
+238
+Application of the basic and any special attribution rules
+239
+Is the application of the basic attribution rules inappropriate
+243
+Application of the GST Transition Act
+248
+Certain supplies made through banknote and coin operated machines and similar devices
+251
+Supplies and acquisitions made under agreements for the supply of goods on approval, or on 'sale or return' terms
+252
+Supplies and acquisitions under floor plan arrangements
+254
+Supply of goods
+254
+Supply of rights
+256
+Supplies and acquisitions made under a hire purchase agreement
+260
+Detailed contents list
+262
+Schedule 1
+page 59
+Schedule 2
+page 61
+Schedule 3
+page 64
+Schedule 4
+page 66
+Schedule 5
+page 70
+Schedule 6
+page 74
+Commissioner of Taxation
+30 June 2000
+Schedule 1
+COMMONWEALTH OF AUSTRALIA
+A NEW TAX SYSTEM (GOODS AND SERVICES TAX) ACT 1999
+DETERMINATION
+Under subsection 29-25(1) of the
+A New Tax System (Goods and Services Tax) Act 1999
+and subsection 4(1) of the
+Acts Interpretation Act 1901,
+I make the following determination:
+Citation
+1. This Determination is the
+A New Tax System (Goods and Services Tax) Act 1999 (Application of Particular Attribution Rules Determinations) Determination (No. 1) 2000.
+Commencement
+2. This Determination commences on the date the
+A New Tax System (Goods and Services Tax) Act 1999
+commences.
+Attribution of GST payable on a taxable supply of a kind described in more than one determination made under section 29-25
+3. (1) This rule applies if:
+(a)
+you make a taxable supply of the kind described in more than one determination (other than this Determination) made by the Commissioner under subsection 29-25(1) of the Act; and
+(b)
+the GST payable on the taxable supply that is attributable to a tax period is also attributable to another tax period or periods.
+(2) The amount of that GST payable is attributable to the later, or latest of the tax periods.
+Attribution of an input tax credit arising from a creditable acquisition of a kind described in more than one determination made under section 29-25
+4. (1) This rule applies if:
+(a)
+you make a creditable acquisition of the kind described in more than one determination (other than this Determination) made by the Commissioner under subsection 29-25(1) of the Act; and
+(b)
+the input tax credit for the acquisition that is attributable to a tax period is also attributable to another tax period or periods.
+(2) The amount of that input tax credit is attributable to the later, or latest, of the tax periods.
+Definitions
+5. (1) The following expression is defined for the purposes of this Determination:
+the Act
+means the
+A New Tax System (Goods and Services Tax) Act 1999.
+(2) Other expressions in this Determination have the same meaning as in the Act.
+Signed this 30th day of June 2000
+Marilyn Knight
+Senior Tax Counsel
+Goods and Services Tax Program
+Delegate of the Commissioner
+Schedule 2
+COMMONWEALTH OF AUSTRALIA
+A NEW TAX SYSTEM (GOODS AND SERVICES TAX) ACT 1999
+DETERMINATION
+Under subsection 29-25(1) of the
+A New Tax System (Goods and Services Tax) Act 1999
+and subsection 4(1) of the
+Acts Interpretation Act 1901,
+I make the following determination, being satisfied under paragraph 29-25(2)(c) of the Act that it is necessary to prevent the provisions of Division 29 and Chapter 4 applying in a way that is inappropriate in circumstances involving a supply or acquisition occurring, but still being subject to a statutory cooling off period under an Australian law:
+Citation
+1. This Determination is the
+A New Tax System (Goods and Services Tax) (Particular Attribution Rules for Cooling off Periods) Determination (No. 1) 2000.
+Commencement
+2. This Determination commences on the date the
+A New Tax System (Goods and Services Tax) Act 1999
+commences.
+Particular attribution rule for GST payable on a taxable supply still subject to a statutory cooling off period under an Australian law
+3. (1) If you do not account on a cash basis and you make a taxable supply subject to a statutory cooling off period under an Australian law, then the GST payable on the supply is attributable to the earlier of:
+(a)
+the tax period in which any of the consideration is received for the supply; or
+(b)
+the tax period in which an invoice is issued relating to the supply.
+(2) However, if the GST payable on the supply would be attributable under subclause (1) to a tax period that ends before the cooling off period expires, then the GST payable is attributable to the tax period in which the cooling off period expires.
+4. (1) If you account on a cash basis and you make a taxable supply subject to a statutory cooling off period under an Australian law, then the GST on the supply is attributable to:
+(a)
+if, in a tax period, all of the consideration for the supply is received – the tax period in which that consideration is received; or
+(b)
+if, in a tax period, part of the consideration is received – the tax period in which part of the consideration is received, but only to the extent that the consideration is received in that tax period.
+(2) However, if some or all of the GST payable on the supply (the
+relevant GST payable
+) would be attributable under subclause (1) to a tax period or tax periods that end before the cooling off period expires, then the relevant GST payable is attributable to the tax period in which the cooling off period expires.
+Particular attribution rule for input tax credits arising from a creditable acquisition still
+subject to a statutory cooling off period
+5. (1) If you do not account on a cash basis and you make a creditable acquisition subject to a statutory cooling off period under an Australian law, then the input tax credit to which you are entitled for the acquisition is attributable to the earlier of:
+(a)
+the tax period in which you provide any of the consideration for the acquisition; or
+(b)
+the tax period in which an invoice is issued relating to the acquisition.
+(2) However, if the input tax credit for the acquisition would be attributable under subclause (1) to a tax period that ends before the cooling off period expires, the input tax credit is attributable to the tax period in which the cooling off period expires.
+6. (1) If you account on a cash basis and you make a creditable acquisition subject to a statutory cooling off period under an Australian law, then the input tax credit to which you are entitled for the acquisition is attributable to:
+(a)
+if, in a tax period, you provide all of the consideration for the acquisition – the tax period in which that consideration is provided; or
+(b)
+if, in a tax period, you provide part of the consideration – the tax period in which part of the consideration is provided, but only to the extent that the consideration is provided in that tax period.
+(2) However, if some or all of the input tax credit (the
+relevant input tax credit
+) would be attributable under subclause (1) to a tax period or tax periods that end before the cooling off period expires, then the relevant input tax credit is attributable to the tax period in which the cooling off period expires.
+7. To avoid doubt, this determination is not intended to override subsection 29-10(3) or Division 156 of the Act.
+Definitions
+8. (1) The following expression is defined for the purposes of this Determination:
+the Act
+means the
+A New Tax System (Goods and Services Tax) Act 1999.
+(2) Other expressions in this Determination have the same meaning as in the Act.
+Signed this 30th day of June 2000
+Marilyn Knight
+Senior Tax Counsel
+Goods and Services Tax Program
+Delegate of the Commissioner
+Schedule 3
+COMMONWEALTH OF AUSTRALIA
+A NEW TAX SYSTEM (GOODS AND SERVICES TAX) ACT 1999
+DETERMINATION
+Under subsection 29-25(1) of the
+A New Tax System (Goods and Services Tax) Act 1999
+and subsection 4(1) of the
+Acts Interpretation Act 1901,
+I make the following determination, being satisfied under paragraph 29-25(2)(d) of the Act that it is necessary to prevent the provisions of Division 29 and Chapter 4 applying in a way that is inappropriate in circumstances involving a supply or acquisition occurring before the supplier or recipient knows it has occurred:
+Citation
+1. This Determination is the
+A New Tax System (Goods and Services Tax) (Particular Attribution Rules for Banknote and Coin-operated Machines and Similar Devices) Determination (No. 1) 2000.
+Commencement
+2. This Determination commences on the date the
+A New Tax System (Goods and Services Tax) Act 1999
+commences.
+Particular attribution rule for GST payable on a taxable supply made through a banknote or coin-operated machine or similar device before the supplier knows it has occurred
+3. (1) The GST payable by you on a taxable supply where:
+(a)
+you receive the consideration through a banknote-operated machine, a coin-operated machine or a similar device; and
+(b)
+removal of the notes and coins from the machine is the only way you have of knowing when the consideration is received;
+is attributable to the tax period in which the consideration is removed from the machine or similar device.
+(2) This rule applies whether or not you account on a cash basis.
+Definitions
+4. (1) The following expression is defined for the purposes of this Determination:
+the Act
+means the
+A New Tax System (Goods and Services Tax) Act 1999.
+(2) Other expressions in this Determination have the same meaning as in the Act.
+Signed this 30th day of June 2000
+Marilyn Knight
+Senior Tax Counsel
+Goods and Services Tax Program
+Delegate of the Commissioner
+Schedule 4
+COMMONWEALTH OF AUSTRALIA
+A NEW TAX SYSTEM (GOODS AND SERVICES TAX) ACT 1999
+DETERMINATION
+Under subsection 29-25(1) of the
+A New Tax System (Goods and Services Tax) Act 1999
+and subsection 4(1) of the
+Acts Interpretation Act 1901,
+I make the following determination, being satisfied under paragraph 29-25(2)(d) of the Act that it is necessary to prevent the provisions of Division 29 and Chapter 4 applying in a way that is inappropriate in circumstances involving a supply or acquisition occurring before the supplier or recipient knows it has occurred:
+Citation
+1. This Determination is the
+A New Tax System (Goods and Services Tax) (Particular Attribution Rules for Supplies and Acquisitions made through Agents) Determination (No. 1) 2000.
+Commencement
+2. This Determination commences on the date the
+A New Tax System (Goods and Services Tax) Act 1999
+commences.
+Particular attribution rules for GST payable on taxable supplies made through an agent occurring before the supplier knows it has occurred.
+3. (1) The GST payable by you on a taxable supply that you make through an agent upon whom you have to rely for information about the supply to attribute GST payable on the supply, is attributable to the earlier of:
+(a)
+the tax period in which you, the principal, become aware that any of the consideration has been received; or
+(b)
+the tax period in which you, the principal, become aware that an invoice has been issued relating to the supply.
+(2) However, if you account on a cash basis, then:
+(a)
+if, in a tax period, you, the principal, become aware that all of the consideration has been received for a taxable supply – the GST payable on the supply is attributable to that tax period; or
+(b)
+if, in a tax period, you, the principal, become aware that part of the consideration has been received for a taxable supply – the GST payable on the supply is attributable to that tax period, but only to the extent of the consideration that you, the principal, become aware has been received, or
+(c)
+if, in a tax period, you, the principal, are not aware that any of the consideration has been received for a taxable supply – none of the GST payable on the supply is attributable to that tax period.
+Particular attribution rules for input tax credits that arise on creditable acquisitions made through an agent before the recipient knows it has occurred
+4. (1) The input tax credit to which you are entitled for a creditable acquisition that you make through an agent upon whom you have to rely for information about the acquisition to attribute input tax credits to which you are entitled for a creditable acquisition, is attributable to the earlier of:
+(a)
+the tax period in which you, the principal, become aware that any of the consideration has been provided; or
+(b)
+the tax period in which you, the principal, become aware that an invoice has been issued relating to the acquisition.
+(2) However, if you account on a cash basis, then:
+(a)
+if, in a tax period, you, the principal, become aware that you have provided all of the consideration for a creditable acquisition – the input tax credit for the acquisition is attributable to that tax period; or
+(b)
+if, in a tax period, you, the principal, become aware that you have provided part of the consideration – the input tax credit for the acquisition is attributable to that tax period, but only to the extent of the consideration that you, the principal, are aware you have provided in that tax period, or
+(c)
+if, in a tax period, you, the principal, are not aware that you have provided any of the consideration, none of the input tax credit for the acquisition is attributable to that tax period.
+Particular attribution rules for Adjustments
+5. (1) An adjustment you have in relation to a supply or acquisition made through an agent upon whom you have to rely for information to attribute the adjustment, is attributable to the tax period in which you, the principal, become aware of the adjustment.
+(2) However, if you account on a cash basis, and the adjustment arises from an adjustment event as a result of which you are liable to provide consideration, then:
+(a)
+if, in a tax period, you, the principal, become aware that you have provided
+all
+the consideration – the adjustment is attributable to that tax period; or
+(b)
+if, in a tax period, you, the principal, become aware that you have provided
+part
+of the consideration – the adjustment is attributable to that tax period, but only to the extent of the consideration that you, the principal, are aware you have provided in that tax period; or
+(c)
+if, in a tax period, you, the principal, are not aware that any of the consideration has been provided – none of the adjustment is attributable to that tax period.
+6. To avoid doubt, this Determination is not intended to override subsection 29-10(3), subsection 29-20(3), Division 57, Division 153 or Division 156 of the Act.
+Definitions
+7. (1) The following expression is defined for the purposes of this Determination:
+the Act
+means the
+A New Tax System (Goods and Services Tax) Act 1999.
+(2) Other expressions in this Determination have the same meaning as in the Act.
+Signed this 30th day of June 2000
+Marilyn Knight
+Senior Tax Counsel
+Goods and Services Tax Program
+Delegate of the Commissioner
+Schedule 5
+COMMONWEALTH OF AUSTRALIA
+A NEW TAX SYSTEM (GOODS AND SERVICES TAX) ACT 1999
+DETERMINATION
+Under subsection 29-25(1) of the
+A New Tax System (Goods and Services Tax) Act 1999
+and subsection 4(1) of the
+Acts Interpretation Act 1901,
+I make the following determination, being satisfied under paragraph 29-25(2(e) of the Act that it is necessary to prevent the provisions of Division 29 and Chapter 4 applying in a way that is inappropriate in circumstances involving a supply or acquisition occurring before the supplier or recipient knows the total consideration:
+Citation
+1. This Determination is the
+A New Tax System (Goods and Services Tax) (Particular Attribution Rules Where Total Consideration Not Known) Determination (No. 1) 2000.
+Commencement
+2. This Determination commences on the date the
+A New Tax System (Goods and Services Tax) Act 1999
+commences.
+Application of Determination
+3. (1) This Determination applies where:
+(a)
+you make a taxable supply;
+(b)
+you do not know the total consideration for the supply when any consideration is received for the supply or an invoice is issued relating to the supply; and
+(c)
+the ascertainment of the total consideration depends on a future event or events that is not entirely within your control;
+and either:
+(d)
+an invoice is issued relating to the supply; or
+(e)
+any consideration is received for the supply.
+(2) This Determination applies where:
+(a)
+you make a creditable acquisition; and
+(b)
+you do not know the total consideration for the acquisition when you provide any consideration for the acquisition or an invoice is issued relating to the acquisition; and
+(c)
+the ascertainment of the total consideration depends on a future event or events that is not entirely within the control of the supplier;
+and either:
+(d)
+an invoice is issued relating to the acquisition; or
+(e)
+you provide any consideration for the acquisition.
+(3) This Determination applies only if you do not account on a cash basis.
+Particular attribution rule for GST payable on a taxable supply occurring before the supplier knows the total consideration
+4. (1) Where, in a tax period before you know the total consideration,
+an invoice is issued
+relating to a taxable supply which states an amount of consideration and:
+(a)
+no consideration is received for the supply in that tax period
+– the GST on the supply is attributable to that tax period but only to the extent of the amount of the consideration stated in the invoice; or
+(b)
+consideration is received for the supply in that tax period
+– the GST on the supply is attributable to that tax period but only to the extent:
+(i)
+where the consideration received is less than or equal to the amount of the consideration stated in the invoice – the amount of consideration stated in the invoice; or
+(ii)
+where the consideration received is more than the amount stated in the invoice – the amount of the consideration received.
+(2) Where, in a tax period before you know the total consideration,
+an invoice is not issued
+relating to the supply and:
+(a)
+consideration is received for the supply in that tax period
+– the GST payable on the taxable supply is attributable to that tax period but only to the extent of the consideration received in that tax period; or
+(b)
+no consideration is received for the supply in that tax period
+– none of the GST on the supply is attributable to that tax period
+(3) The GST payable on the taxable supply is attributable under subclauses (1) and (2) only to the extent that it has not been attributed to an earlier tax period.
+(4) However, the GST payable on the taxable supply is attributable to the tax period in which you first know the total amount of consideration for the taxable supply to the extent that it has not been attributed to an earlier tax period.
+Particular attribution rule for input tax credits arising from a creditable acquisition occurring before the recipient knows the total consideration
+5. (1) Where, in a tax period before you know the total consideration,
+an invoice is issued
+relating to a creditable acquisition which states an amount of consideration and you:
+(a)
+do not provide any of the consideration for the acquisition in that tax period
+– the input tax credit for the acquisition is attributable to that tax period but only to the extent of the amount of the amount of the consideration stated on the invoice; or
+(b)
+provide any of the consideration for the acquisition in that tax period
+– the input tax credit for the creditable acquisition is attributable to that tax period but only to the extent:
+(i)
+where the consideration provided by you is less than or equal to the amount of the consideration stated in the invoice – the amount of the consideration stated in the invoice; or
+(ii)
+where the consideration provided by you is more than the amount stated in the invoice – the amount of the consideration provided.
+(2) Where, in a tax period before you know the total consideration,
+an invoice is not issued
+relating to a creditable acquisition and you:
+(a)
+provide any of the consideration for the acquisition in that tax period
+– the input tax credit for the creditable acquisition is attributable to that tax period but only to the extent of the consideration that you provided in that tax period; or
+(b)
+provide none of the consideration for the acquisition in that tax period
+– none of the input tax credit for the acquisition is attributable to that tax period.
+(3) The input tax credit to which you are entitled is attributable under subclauses (1) and (2) only to the extent that it has not been attributed to an earlier tax period.
+(4) However, the input tax credit to which you are entitled for a creditable acquisition is attributable to the tax period in which you first know the total amount of consideration for the creditable acquisition to the extent it has not been attributed to an earlier tax period.
+6. To avoid doubt, this Determination is not intended to override subsection 29-10(3).
+Definitions
+7. (1) The following expression is defined for the purposes of this Determination:
+the Act
+means the
+A New Tax System (Goods and Services Tax) Act 1999.
+(2) Other expressions in this Determination have the same meaning as in the Act.
+Signed this 30th day of June 2000
+Marilyn Knight
+Senior Tax Counsel
+Goods and Services Tax Program
+Delegate of the Commissioner
+Schedule 6
+COMMONWEALTH OF AUSTRALIA
+A NEW TAX SYSTEM (GOODS AND SERVICES TAX) ACT 1999
+DETERMINATION
+Under subsection 29-25(1) of the
+A New Tax System (Goods and Services Tax) Act 1999
+and subsection 4(1) of the
+Acts Interpretation Act 1901,
+I make the following determination, being satisfied under paragraph 29-25(2)(g) of the Act that it is necessary to prevent the provisions of Division 29 and Chapter 4 applying in a way that is inappropriate in circumstances involving a supply or acquisition made under a contract that provides for retention of some or all of the consideration until certain conditions are met:
+Citation
+1. This Determination is the
+A New Tax System (Goods and Services Tax) Act 1999 (Particular Attribution Rules for Retention Payments) Determination (No. 1) 2000.
+Commencement
+2. This Determination commences on the date the
+A New Tax System (Goods and Services Tax) Act 1999
+commences.
+Particular attribution rule for GST payable on a taxable supply made under a contract that provides for retention of some or all of the consideration until certain conditions are met
+3. (1) This particular attribution rule applies if you make a taxable supply under a contract that provides for the recipient of the supply to retain some or all of the consideration until certain conditions are met.
+(2) The GST payable on the non-retained consideration is attributable to the tax period when:
+(a)
+any of that consideration is received for the supply; or
+(b)
+an invoice is issued relating to the supply;
+whichever is the earlier.
+(3) The GST payable on the retention amount is attributable as follows:
+(a)
+if, in a tax period, all of the retention amount is received, the GST payable on the retention amount is attributable to that tax period but only to the extent that it has not been previously attributed to an earlier tax period as a result of the issue of an invoice for the retention amount; or
+(b)
+if, in a tax period, part of the retention amount is received, the GST payable on the retention amount is attributable to that tax period, but only to the extent that:
+(i)
+the retention amount is received in that tax period; and
+(ii)
+the GST payable on the retention amount has not been previously attributed to an earlier tax period as a result of the issue of an invoice for the retention amount; or
+(c)
+if, in a tax period, none of the retention amount is received, none of the GST payable on the retention amount is attributable to that tax period.
+(4) However, if an invoice for the retention amount is issued in a tax period, GST payable on the retention amount is attributable to that tax period, but:
+(a)
+only to the extent of the amount of the invoice issued in that tax period; and
+(b)
+only to the extent that the GST on the retention amount has not been previously attributed to an earlier tax period because part of the retention amount was received in an earlier tax period.
+(5) This Clause applies only if you do not account on a cash basis.
+Particular attribution rules for input tax credits arising from a creditable acquisition made under a contract that provides for retention of some or all of the consideration until certain conditions are met
+4. (1) This particular attribution rule applies if you make a creditable acquisition under a contract that allows you to retain some or all of the consideration until certain conditions are met.
+(2) The input tax credit on the non-retained consideration to which you are entitled for a creditable acquisition is attributable to tax period when:
+(a)
+you provide any of the consideration for the acquisition; or
+(b)
+an invoice is issued relating to the acquisition;
+whichever is the earlier.
+(3) The input tax credit on the retention amount to which you are entitled for a creditable acquisition is attributable to:
+(a)
+if, in a tax period, you provide all of the retention amount for a creditable acquisition, the input tax credit for the retention amount is attributable to that tax period but only to the extent that it has not been previously attributed to an earlier tax period as a result of the issue of an invoice for the retention amount; or
+(b)
+if, in a tax period, you provide part of the retention amount, the input tax credit for the retention amount is attributable to that tax period, but only to the extent that:
+(i)
+you provided the retention amount in that tax period; and
+(ii)
+the input tax credit on the retention amount has not been previously attributed to an earlier tax period as a result of the issue of an invoice for the retention amount; or
+(c)
+if, in a tax period, you did not provide any of the retention amount, none of the input tax credit on the retention amount is attributable to that tax period.
+(4) However, if an invoice for the retention amount is issued in a tax period, the input tax credit on the retention amount is attributable to that tax period, but:
+(a)
+only to the extent of the amount of the invoice issued in that period; and
+(b)
+only to the extent that the input tax credit on the retention amount has not been previously attributed to an earlier tax period because you provided part of the retention amount in an earlier tax period.
+(2) This Clause applies only if you do not account on a cash basis.
+GST payable on the retention amount
+5. (1) The GST payable on the retention amount is worked out in the following way:
+Step 1
+Identify the retention amount as a percentage of the total of the consideration.
+Step 2
+Apply that percentage to the amount of GST payable on the taxable supply – the result is the GST payable on the retention amount
+(2) The GST payable on the non-retained consideration is the amount obtained by subtracting the amount of GST payable on the retention amount from the amount of GST payable on a taxable supply.
+Input tax credits on the retention amount
+6. (1) The input tax credit on the retention amount is worked out in the following way:
+Step 1
+Identify the retention amount as a percentage of the total of the consideration
+Step 2
+Apply that percentage to the amount of the input tax credit for the creditable acquisition – the result is the input tax credit on the retention amount.
+(2) The input tax credit on the non-retained consideration is the amount obtained by subtracting the amount of the input tax credit on the retention amount from the amount of the input tax credit that you are entitled to for a creditable acquisition.
+7. To avoid doubt, this Determination is not intended to override subsection 29-10(3) or Division 156.
+Definitions
+8. (1) The following expressions are defined for the purposes of this Determination:
+GST payable on the non-retained consideration
+, in relation to a taxable supply, means the amount worked out in accordance with Clause 5(2);
+GST payable on the retention amount
+, in relation to a taxable supply, means the amount worked out in accordance with Clause 5(1);
+input tax credit on the non-retained consideration
+, in relation to a creditable acquisition, means the amount worked out in accordance with Clause 6(2);
+input tax credit on the retention amount
+, in relation to a creditable acquisition, means the amount worked out in accordance with Clause 6(1);
+invoice for the retention amount
+, means a document notifying an obligation to pay the retention amount issued in relation to that amount following the expiry of the defects period;
+non-retained consideration
+, in relation to a taxable supply or a creditable acquisition, means the amount obtained by subtracting the retention amount from the consideration for that supply;
+retention amount
+, in relation to a taxable supply or a creditable acquisition, means that part of the consideration for the supply that the recipient of the supply retains under the terms of a contract which provide for the recipient to retain an amount until certain conditions specified in the contract are met;
+the Act
+means the
+A New Tax System (Goods and Services Tax) Act 1999.
+(2) Other expressions in this Determination have the same meaning as in the Act.
+Signed this 30th day of June 2000
+Marilyn Knight
+Senior Tax Counsel
+Goods and Services Tax Program
+Delegate of the Commissioner
+Footnotes
+[1]
+A New Tax System (Goods and Services Tax) Act 1999 (Particular Attribution Rules for Lay-By Sales) Determination (No. 1) 2000.
+[2]
+Refer to GSTR 2000/28
+Goods and Services Tax: attributing GST payable or an input tax credit arising from a sale of land under a standard land contract,
+where it was decided that a particular attribution rule for conditional standard land contracts is not necessary.
+[2A]
+Refer to each Addendum to see how that Addendum amends this Ruling.
+[3]
+Sections 29-5, 29-10, 29-15 and 29-20.
+[4]
+Refer to Goods and Services Tax Ruling GSTR 2000/13
+Goods and Services Tax: accounting on a cash basis
+for more information about when you can account for GST on a cash basis.
+[5]
+Subsection 29-5(2).
+[6]
+Division 99. Refer also to Goods and Services Tax Ruling GSTR 2006/2
+Goods and services tax: deposits held as security for the performance of an obligation.
+[7]
+Subsection 29-10(2).
+[8]
+Your GST return is part of your Business Activity Statement.
+[9]
+There is no requirement to hold a tax invoice if the value of the taxable supply to you was $75 or less (subsection 29-80(1)).
+[10]
+Subsection 29-10(3).
+[10A]
+Under subsection 93-5(1), you cease to be entitled to an input tax credit for a creditable acquisition to the extent that the input tax credit has not been taken into account in your assessment of a net amount, within four years after the day you were required to lodge a GST return for the tax period to which the input tax credits would have been attributable under subsections 29-10(1) or 29-10(2). Further, section 93-15 denies entitlement to an input tax credit for a creditable acquisition if GST has ceased to be payable on the relevant supply and a tax invoice was not held at that time. However, you do not cease to be entitled to an input tax credit if section 93-10 is met.
+[11]
+The application of this provision is explained in Goods and Services Tax Ruling GSTR 2013/1
+Goods and Services Tax: tax invoices.
+[12]
+Subsection 29-70(2).
+[13]
+Section 29-15
+[14]
+See regulation 33-15.07 of the
+A New Tax System (Goods and Services Tax) Regulations 1999.
+See also paragraph 45 of Goods and Services Tax Ruling GSTR 2003/15
+Goods and services tax: importation of goods into Australia.
+[14A]
+See subsection 29-15(2).
+[15]
+Section 19-10. Refer also to Goods and Services Tax Ruling GSTR 2000/19
+Goods and Services Tax: making adjustments under Division 1.
+for adjustment events.
+[16]
+Division 129.
+[17]
+Subsection 29-20(1).
+[18]
+Subsection 29-20(2).
+[19]
+There is no requirement to hold an adjustment note for a decreasing adjustment of $75 or less (see subsection 29-80(2) and regulation 29-80.02 of the
+A New Tax System (Goods and Services Tax) Regulations 1999.
+[20]
+Subsection 29-20(3).
+[21]
+Section 129-90.
+[22]
+Subsection 29-5(1).
+[23]
+Section 195-1.
+[24]
+Subsection 29-10(1).
+[25]
+Your GST return is part of your Business Activity Statement.
+[26]
+There is no requirement to hold a tax invoice if the value of the supply to you was $75 or less (subsection 29-80(1)).
+[27]
+Subsection 29-10(3).
+[27A]
+Under subsection 93-5(1), you cease to be entitled to an input tax credit for a creditable acquisition to the extent that the input tax credit has not been taken into account in your assessment of a net amount, within four years after the day you were required to lodge a GST return for the tax period to which the input tax credits would have been attributable under subsections 29-10(1) or 29-10(2). Further, section 93-15 denies entitlement to an input tax credit for a creditable acquisition if GST has ceased to be payable on the relevant supply and a tax invoice was not held at that time. However, you do not cease to be entitled to an input tax credit if section 93-10 is met.
+[27B]
+Subsection 29-70(1A) enables a recipient to treat a document as a tax invoice if the document does not contain certain information as required by subsection 29-70(1) and all of that information can be ascertained from one or more documents issued by the supplier to the recipient. See paragraphs 42 to 50 of GSTR 2013/2 for more information.
+[28]
+Subsection 29-20(1). Refer also to section 134-15 for decreasing adjustments for payments made to third parties.
+[29]
+There is no requirement to hold an adjustment note for a decreasing adjustment of $75 or less (see subsection 29-80(2) and regulation 29-80.02 of the
+A New Tax System (Goods and Services Tax) Regulations 1999.
+[30]
+Subsection 29-20(3).
+[31]
+Division 21. Refer also to Goods and Services Tax Ruling GSTR 2000/2 Goods and Services Tax: adjustments for bad debts.
+[32]
+Subsection 29-20(1). Also refer to GSTR 2000/2.
+[33]
+Refer to GSTR 2000/2, paragraph 18.
+[34]
+Division 129.
+[35]
+Section 129-90.
+[35A]
+See paragraphs 192 to 207 of this Ruling.
+[36]
+It is assumed that the payment of an amount less than the amount payable for this month was in accordance with a prior agreement between the parties. It was not an instance of default. The amount of $220 is still outstanding. There are no GST consequences when Homer subsequently receives payment of this amount.
+[36A]
+Section 158-5.
+[36B]
+Note that, for the purposes of determining whether you have any bad debt adjustments under Division 22 in relation to your acquisition, you are treated as though you do not account for GST on a cash basis. Section 158-5 also extends to representatives of incapacitated entities that are entitled to input tax credits, or are required to make adjustments, under subsection 58-10(1) for an acquisition made under a hire purchase agreement entered into on or after 2 July 2012.
+[37]
+Refer to GSTR 2006/2.
+[38]
+Subsection 29-25(3).
+[39]
+The GST Transition Act, section 7.
+[40]
+The GST Transition Act, section 6.
+[41]
+Subsection 6(2).
+[42]
+Subsection 6(3).
+[43]
+Subsection 6(4).
+[44]
+Subsection 6(5).
+[45]
+Refer to Goods and Services Tax Ruling GSTR 2000/7
+Goods and Services Tax: transitional arrangements – supplies, including supplies of rights, made before 1 July 200.
+and the extent to which such supplies are taken to be made on or after 1 July 2000.
+[46]
+The GST Transition Act, section 12.
+[47]
+The GST Transition Act, section 12(3).
+[48]
+The GST Transition Act, section 10.
+[49]
+Subsection 29-25(3).
+[50]
+Subsection 29-10(3)
+[51]
+Subparagraph 29-70(1)(c)(iii)
+[52]
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions Where Total Consideration Not Known) Legislative Instrument 2013.
+[52A]
+If you are a representative of an incapacitated entity (as defined in section 195-1), the GST law applies to an input tax credit to which you are entitled or an adjustment you have under subsection 58-10(1) for an acquisition under a hire purchase agreement entered into on or after 2 July 2012 as though you do not account on a cash basis.
+[53]
+The relevant legislation for the purposes of the GST Act is Commonwealth, State or Territory legislation.
+[54]
+Section 195-1. 'Australian law' has the meaning give by section 995-1 of the ITAA 1997. It means a Commonwealth law, a State law or a Territory law.
+[55]
+Australian Sugar Industry Handbook,
+Canegrowers, ch 7.
+[56]
+Section 995-1 of the
+Income Tax Assessment Act 1997.
+[57]
+Section 156-5.
+[58]
+Section 156-10.
+[58A]
+Explanatory Memorandum to Tax Laws Amendment (2011 Measures No. 9) Bill 2011.
+[59]
+[Omitted.]
+[60]
+Explanatory memorandum accompanying A New Tax System (Indirect Tax and Consequential Amendments) Bill 1999 at page 69.
+[60A]
+See item 8 of the table in subregulation 40-5.09(3) of the GST Regulations.
+[61]
+Subsection 29-5(1).
+[62]
+Subsection 29-5(2).
+[63]
+Subsection 29-10(1).
+[64]
+Subsection 29-10(2).
+[65]
+[Omitted.]
+[65A]
+Subsection 29 20(1).
+[65B]
+Subsection 29-20(2).
+[65C]
+There is no requirement to hold an adjustment note for a decreasing adjustment of $75 or less (see subsection 29 80(2) and regulation 29 80.02 of the
+A New Tax System (Goods and Services Tax) Regulations 1999.
+[65D]
+Subsection 29 20(3).
+[66]
+Subsection 29-5(2).
+[67]
+Subsection 29-5(1).
+[68]
+Subsection 29-10(2).
+[69]
+Subsection 29-10(1).
+[70]
+Goods and Services Tax Ruling GSTR 2000/35
+Goods and services tax: Division 156 – supplies and acquisitions made on a progressive or periodic basis.
+[71]
+Sections 156-5 and 29-5.
+[72]
+Sections 156-10 and 29-10.
+[73]
+A New Tax System (Goods and Services Tax) Regulations 1999,
+item 18 in table in regulation 40-5.12.
+[74]
+Provided that a tax invoice is held.
+[75]
+Paragraph 9-5(a), but refer to Division 72 if the supply is to your associate.
+[76]
+The GST Transition Act, section 7.
+[77]
+The GST Transition Act, subsection 6(2).
+[78]
+The GST Transition Act, subsection 6(2).
+[79]
+The GST Transition Act, subsection 6(5).
+[80]
+Goods and Services Tax Ruling GSTR2000/7: transitional arrangements – supplies, including supplies of rights, made before 1 July 2000 and the extent to which such supplies are taken to be made on or after 1 July 2000.
+[81]
+The GST Transition Act, subsection 11(1).
+[82]
+The GST Transition Act, paragraph 11(1A)(b).
+Previously issued in draft form as GSTR 1999/D7
+References
+ATO references:
+NO  99/17930-9
+ISSN 1034-9758
+Related Rulings/Determinations:
+IT 2236">IT 2236
+TR 95/7
+TR 2006/10
+GSTR 2013/1
+GSTR 2000/2
+GSTR 2000/7
+GSTR 2000/13
+GSTR 2000/28
+GSTR 2000/35
+GSTR 2006/2
+Subject References:
+acquisitions
+adjustments
+adjustment notes
+adjustment periods
+agents
+attribution
+business activity statement
+cash basis
+coin-operated machines
+conditional contracts
+consideration
+cooling-off period
+creditable acquisition
+creditable importation
+creditable purpose
+decreasing adjustments
+floor plan arrangement
+GST payable
+hire purchase
+increasing adjustments
+input tax credits
+invoice
+lay-by
+progressive or periodic supply
+retention of consideration
+taxable supply
+tax invoice
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A99 Div 9
+ANTS(GST)A99 9-5
+ANTS(GST)A99 9-10
+ANTS(GST)A99 9-20
+ANTS(GST)A99 9-40
+ANTS(GST)A99 9-70
+ANTS(GST)A99 9-75
+ANTS(GST)A99 11-5
+ANTS(GST)A99 11-10
+ANTS(GST)A99 11-20
+ANTS(GST)A99 11-25
+ANTS(GST)A99 13-15
+ANTS(GST)A99 15-5
+ANTS(GST)A99 15-15
+ANTS(GST)A99 Div 17
+ANTS(GST)A99 17-1
+ANTS(GST)A99 17-5
+ANTS(GST)A99 Div 19
+ANTS(GST)A99 19-10
+ANTS(GST)A99 Div 21
+ANTS(GST)A99 21-15(2)
+ANTS(GST)A99 Div 29
+ANTS(GST)A99 29-5
+ANTS(GST)A99 29-5(1)
+ANTS(GST)A99 29-5(2)
+ANTS(GST)A99 29-10
+ANTS(GST)A99 29-10(1)
+ANTS(GST)A99 29-10(2)
+ANTS(GST)A99 29-10(2)(b)
+ANTS(GST)A99 29-10(3)
+ANTS(GST)A99 29-10(4)
+ANTS(GST)A99 29-15
+ANTS(GST)A99 29-15(1)
+ANTS(GST)A99 29-20
+ANTS(GST)A99 29-20(1)
+ANTS(GST)A99 29-20(2)
+ANTS(GST)A99 29-20(3)
+ANTS(GST)A99 29-25
+ANTS(GST)A99 29-25(1)
+ANTS(GST)A99 29-25(2)
+ANTS(GST)A99 29-25(2)(a)
+ANTS(GST)A99 29-25(2)(b)
+ANTS(GST)A99 29-25(2)(c)
+ANTS(GST)A99 29-25(2)(d)
+ANTS(GST)A99 29-25(2)(e)
+ANTS(GST)A99 29-25(2)(g)
+ANTS(GST)A99 29-25(3)
+ANTS(GST)A99 29-40
+ANTS(GST)A99 29-45(1)
+ANTS(GST)A99 29-70(1)
+ANTS(GST)A99 29-70(1)(c)(iii)
+ANTS(GST)A99 29-70(1A)
+ANTS(GST)A99 29-80(1)
+ANTS(GST)A99 29-80(2)
+ANTS(GST)A99 33-5
+ANTS(GST)A99 Div 57
+ANTS(GST)A99 66-15(2)
+ANTS(GST)A99 Div 72
+ANTS(GST)A99 90-35(1)
+ANTS(GST)A99 Div 93
+ANTS(GST)A99 93-5(1)
+ANTS(GST)A99 93-10
+ANTS(GST)A99 93-15
+ANTS(GST)A99 Div 99
+ANTS(GST)A99 99-10
+ANTS(GST)A99 99-10(1)
+ANTS(GST)A99 Div 129
+ANTS(GST)A99 129-20
+ANTS(GST)A99 129-90
+ANTS(GST)A99 Div 153
+ANTS(GST)A99 Div 156
+ANTS(GST)A99 156-23
+ANTS(GST)A99 156-5
+ANTS(GST)A99 156-10
+ANTS(GST)A99 156-22
+ANTS(GST)A99 Div 158
+ANTS(GST)A99 158-5
+ANTS(GST)A99 195-1
+ANTS(GST)R99 29-80.02
+ANTS(GST)R99 33-15.07
+ANTS(GST)R99 40-5.09
+ANTS(GST)R99 40-5.09(3)
+ANTS(GST)R99 40-5.12
+ANTS(GSTT)A99 6
+ANTS(GSTT)A99 6(3)
+ANTS(GSTT)A99 6(5)
+ANTS(GSTT)A99 7
+ANTS(GSTT)A99 7-6(2)
+ANTS(GSTT)A99 7-6(4)
+ANTS(GSTT)A99 10
+ANTS(GSTT)A99 11
+ANTS(GSTT)A99 11(1)
+ANTS(GSTT)A99 11(1A)
+ANTS(GSTT)A99 12
+ANTS(GSTT)A99 12(2)
+ANTS(GSTT)A99 12(3)
+ITAA 1997 995-1
+Fair Trading Act 1989 (Qld) 62
+Motor Car Traders Act 1986 (Vic)
+TAA 1953 Sch 1 Div 358
+Case References:
+Warman v Southern Counties Car Finance Corporation Ltd W J Ameris Car Sales
+[1949] 2 KB 576
+Other References:
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions Where Total Consideration Not Known) Legislative Instrument 2013
+Explanatory Memorandum
+to the Tax Laws Amendment (2011 Measures No. 9) Bill 2011
+GSTR 2000/29 history
+Date:
+Version:
+Change:
+30 June 2000
+Original ruling
+11 July 2007
+Consolidated ruling
+Addendum
+31 October 2012
+Consolidated ruling
+Addendum
+27 March 2013
+Consolidated ruling
+Addendum
+You are here
+11 December 2013
+Consolidated ruling
+Addendum
+Back to top

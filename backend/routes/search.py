@@ -8,9 +8,12 @@ from fastapi import HTTPException, APIRouter
 from backend.config import DATA_DIR, SEARCH_DB
 from backend.services.data_loader import load_tree
 from backend.services.search_service import search_conn, init_search_index as build_search_index, search_sections as fts_search
+from backend.services import vector_search_service
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
+
+RRF_K = 60
 
 SECTION_NUMBER_RE = re.compile(r'^[0-9]+(-[0-9]+)?$')
 
@@ -86,3 +89,110 @@ def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50):
     page = all_results[offset:offset + limit]
     engine = "fallback" if not SEARCH_DB.exists() else "fts5"
     return {"results": page, "total": total, "offset": offset, "limit": limit, "engine": engine}
+
+
+@router.get("/api/unified-search")
+def unified_search(q: str, limit: int = 20):
+    """Search legislation acts, CCH guides, rulings, and tax cases in one call, grouped by category."""
+    from .acts import list_acts
+    from .tax_cases import search_tax_cases
+
+    q = q.strip()
+    if not q:
+        return {"query": q, "categories": []}
+
+    categories = []
+    for a in list_acts():
+        act_id = a["id"]
+        data = search(q, act=act_id, limit=limit)
+        results = data.get("results", [])
+        if results:
+            categories.append({
+                "key": act_id,
+                "label": a["name"],
+                "count": data.get("total", len(results)),
+                "results": [
+                    {"type": "section", "act": act_id, "section": r.get("section"), "title": r.get("title", "")}
+                    for r in results
+                ],
+            })
+
+    case_data = search_tax_cases(q, limit=limit)
+    if case_data["results"]:
+        categories.append({
+            "key": "cases",
+            "label": "Cases",
+            "count": case_data["total"],
+            "results": [
+                {"type": "case", "citation": c.get("citation"), "title": c.get("title", ""), "court_label": c.get("court_label", "")}
+                for c in case_data["results"]
+            ],
+        })
+
+    return {"query": q, "categories": categories}
+
+
+@router.get("/api/search/flat")
+def search_flat(q: str, limit: int = 50):
+    """Flat-ranked search across all legislation acts. Single FTS5 query, BM25 order, no per-act grouping."""
+    q = q.strip()
+    if not q:
+        return {"query": q, "results": []}
+    try:
+        results = fts_search(q, act=None, limit=limit)
+        return {
+            "query": q,
+            "results": [
+                {"type": "section", "act": r["act"], "section": r["section"], "title": r.get("title", ""), "snippet": r.get("snippet", "")}
+                for r in results
+            ],
+        }
+    except Exception as e:
+        logger.exception("Flat search failed")
+        return {"query": q, "results": [], "error": str(e)}
+
+
+@router.get("/api/search/hybrid")
+def search_hybrid(q: str, act: str | None = None, limit: int = 20):
+    if limit > 50:
+        limit = 50
+
+    q = q.strip()
+    if not SEARCH_DB.exists():
+        build_search_index()
+
+    try:
+        fts_results = fts_search(q, act, limit=50)
+    except Exception:
+        logger.exception("FTS search failed")
+        fts_results = []
+
+    vector_results = vector_search_service.search(q, limit=50)
+    if act:
+        vector_results = [r for r in vector_results if r["act"] == act]
+
+    scores: dict[tuple[str, str], float] = {}
+    merged: dict[tuple[str, str], dict] = {}
+
+    for rank, r in enumerate(fts_results):
+        key = (r["act"], r["section"])
+        scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
+        merged.setdefault(key, {**r, "embedding_id": None})
+
+    for rank, r in enumerate(vector_results):
+        key = (r["act"], r["section"])
+        scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
+        existing = merged.setdefault(key, {**r})
+        existing.setdefault("embedding_id", r["embedding_id"])
+        existing.setdefault("snippet", r["snippet"])
+
+    ranked_keys = sorted(scores, key=lambda k: -scores[k])[:limit]
+    results = []
+    for key in ranked_keys:
+        r = merged[key]
+        r["fusion_score"] = scores[key]
+        emb_id = r.get("embedding_id")
+        r["cross_references"] = vector_search_service.get_cross_references(emb_id) if emb_id else []
+        results.append(r)
+
+    return {"results": results, "total": len(results), "q": q}

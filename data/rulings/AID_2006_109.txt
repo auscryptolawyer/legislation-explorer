@@ -1,0 +1,91 @@
+ATO Interpretative Decision
+ATO ID 2006/109
+==================================================
+
+Income tax
+        Consolidation:  transfer testing - transferring losses to the head company of a MEC group after cessation of another MEC group
+        FOI status: may be released
+
+
+This ATO ID was amended to clarify references to "head company"
+
+
+
+CAUTION:
+                    This is an edited and summarised record of a Tax Office decision. This record is not published as a form of advice. It is being made available for your inspection to meet FOI requirements, because it may be used by an officer in making another decision.
+This ATOID provides you with the following level of protection:
+
+          If you reasonably apply this decision in good faith to your own circumstances (which are not materially different from those described in the decision), and the decision is later found to be incorrect you will not be liable to pay any penalty or interest. However, you will be required to pay any underpaid tax (or repay any over-claimed credit, grant or benefit), provided the time limits under the law allow it. If you do intend to apply this decision to your own circumstances, you will need to ensure that the relevant provisions referred to in the decision have not been amended or repealed. You may wish to obtain further advice from the Tax Office or from a professional adviser.
+
+
+
+Issue
+If
+
+
+
+•the head company (the former head company) and an eligible tier-1 company (the former ET-1 company) leave a MEC group (the former MEC group) on the same day because they cease to be wholly-owned subsidiaries of the top company
+•the former MEC group ceases to exist as the remaining eligible tier-1 companies do not fulfil the conditions in Subdivision 719-B of the Income Tax Assessment Act 1997 (ITAA 1997)
+•the former head company and the former ET-1 company, as wholly-owned subsidiaries of a different top company, form a new MEC group (the new MEC group) on the following day, and
+•the former head company is determining whether previously transferred losses, that remain unutilised are transferred to, to itself as head company of the new MEC group
+
+does the same business test period under subsection 707-125(2) of the ITAA 1997 include the period of time from cessation of the former MEC group until just before formation of the new MEC group?
+Decision
+Yes. The same business test period under subsection 707-125(2) of the ITAA 1997 includes the period that the former head company is not a member of either MEC group, this being the period from cessation of the former MEC group until just before joining the new MEC group.
+Facts
+A MEC group (former MEC group) forms with H Co appointed as the provisional head company.  The top company is FormerTop Co.
+At the time the group forms, tax losses are transferred, under Subdivision 707-A of the ITAA 1997, to H Co.
+On a subsequent day (the acquisition day), a third party foreign company, NewTop Co acquires 100% of the shares in H Co and one of the other eligible tier-1 companies, A Co.
+The remaining eligible tier-1 companies in the former MEC group do not fulfil the conditions in Subdivision 719-B to allow the MEC group to continue.
+H Co and the other eligible tier-1 company jointly choose to form a new MEC group at the start of the following day (the formation day). H Co is appointed as the provisional head company of the new MEC group and A Co is an eligible tier-1 company. NewTop Co is the top company of the new MEC group.
+Reasons for Decision
+As a result of NewTop Co acquiring the shares in H Co and A Co, a cessation event, as described in subsection 719-60(6) of the ITAA 1997, happens to H Co. The cessation event occurs at the time during the acquisition day (the cessation time) when H Co no longer qualifies to be the head company of the former MEC group due to it now being owned by NewTop Co. H Co and A Co exit the former MEC group at the cessation time and exist as stand-alone entities with the single entity rule in section 701-1 of the ITAA 1997 no longer having application.
+The former MEC group ceases to exist at the cessation time as paragraph 719-5(7)(c) of the ITAA 1997 provides that a MEC group continues to exist until there ceases to be a provisional head company.
+As a result, there will be a period of time separating the cessation of the former MEC group and the formation of the new MEC group. For the period from cessation time until the end of the acquisition day, H Co is treated as a stand-alone entity and not part of either MEC group.
+H Co is required to apply the modified same business test, as described in section 707-125 of the ITAA 1997, to establish whether the tax losses that remain unutilised are transferred to itself in the capacity of the head company of the new MEC group.
+Under subsection 707-125(2) of the ITAA 1997, the same business test period includes the trial year. The trial year starts 12 months prior to joining time and ends just after the joining time. The joining time is the start of the formation day.
+The test time is just before the end of the income year in which H Co, as the head company of the former MEC group, made the losses. This is the income year in which the losses were originally transferred to H Co.
+Therefore, the same business test period
+          includes
+           that part of the acquisition day commencing from the cessation time, where H Co was a stand-alone company and not part of either MEC group.  The modified same business test in section 707-125 of the ITAA 1997 will test the business of H Co as a stand-alone company in this part of the same business test period against the business of the former MEC group at the test time.
+Date of decision:
+         14 March 2006
+
+Year of income:
+           31 December 2005
+
+Legislative References:
+
+Income Tax Assessment Act 1997   section 701-1   section 707-125   subparagraph 707-125(2)   subdivision 719-B   paragraph 719-5(7)(c)   subsection 719-60(6)
+
+Keywords
+
+Consolidation
+          Cessation event
+          MEC group
+          Provisional head company
+          Eligible tier-1 company
+          Same business test
+          Same business test period
+          Modified same business test
+          Test time
+          Previously transferred tax losses
+          Single entity rule
+          Consolidation - joining
+          Consolidation - losses
+          Joining entity
+          Joining time
+          Transfer of losses
+
+
+Siebel/TDMS Reference Number:
+         4985264
+
+Business Line:
+         Consolidation Centre of Expertise
+
+Date of publication:
+         21 April 2006
+
+ISSN:
+          1445-2782

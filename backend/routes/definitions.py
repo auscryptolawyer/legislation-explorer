@@ -17,16 +17,10 @@ def get_definitions(act: str):
 
 @router.get("/api/definition/{act}/{term}")
 def get_definition(act: str, term: str):
-    defs = load_definitions(act)
-    key = term.lower()
-    if key in defs:
-        return defs[key]
-    slug = re.sub(r"[^a-z0-9\s-]", "", key).strip()
-    slug = re.sub(r"\s+", "-", slug)
-    for k, v in defs.items():
-        if v.get("anchor") in (f"s995-1-{slug}", f"s6-{slug}"):
-            return v
-    raise HTTPException(status_code=404, detail=f"Definition for '{term}' not found")
+    result = get_definition_text(act, term)
+    if not result:
+        raise HTTPException(status_code=404, detail=f"Definition for '{term}' not found")
+    return result
 
 
 @router.get("/api/definition-text/{act}/{term}")

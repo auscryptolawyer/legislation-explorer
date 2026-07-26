@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState, useRef } from 'react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
@@ -12,6 +12,7 @@ import SmartLinkPanel from './components/SmartLinkPanel'
 import DefinitionPopover from './components/DefinitionPopover'
 import SectionContent from './components/SectionContent'
 import RulingContent from './components/RulingContent'
+import SearchPanel from './components/SearchPanel'
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -59,10 +60,29 @@ export default function App() {
 
   const [mcpOpen, setMcpOpen] = useState(false)
   const [showShortcuts, setShowShortcuts] = useState(false)
+  const [pickerOpen, setPickerOpen] = useState(false)
+  const pickerRef = useRef<HTMLDivElement>(null)
   const [pins, setPins] = useState<PinItem[]>(() => {
     try { return JSON.parse(localStorage.getItem('legislation-pins') || '[]') }
     catch { return [] }
   })
+
+  const [appInfo, setAppInfo] = useState<any>(null)
+
+  useEffect(() => {
+    api.info().then(setAppInfo).catch(() => {})
+  }, [])
+
+  const [settingsOpen, setSettingsOpen] = useState(false)
+  const [bugReportOpen, setBugReportOpen] = useState(false)
+  const [changelogOpen, setChangelogOpen] = useState(false)
+  const [hofOpen, setHofOpen] = useState(false)
+  const [hofData, setHofData] = useState<any>(null)
+  const [bugReportPending, setBugReportPending] = useState(() => {
+    try { return JSON.parse(localStorage.getItem('bugReports') || '[]').length }
+    catch { return 0 }
+  })
+  const settingsRef = useRef<HTMLDivElement>(null)
 
   const [commentaryOpen, setCommentaryOpen] = useState(false)
   const [casesOpen, setCasesOpen] = useState(false)
@@ -129,6 +149,24 @@ export default function App() {
     setActiveRuling(citation)
     setActiveSection('')
   }
+  const goHome = () => {
+    setActiveSection('')
+    setActiveRuling(null)
+    setSectionData(null)
+    window.history.pushState(null, '', '/')
+  }
+
+  // Close picker and settings on click outside
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      if (pickerRef.current && !pickerRef.current.contains(e.target as Node))
+        setPickerOpen(false)
+      if (settingsRef.current && !settingsRef.current.contains(e.target as Node))
+        setSettingsOpen(false)
+    }
+    document.addEventListener('mousedown', handler)
+    return () => document.removeEventListener('mousedown', handler)
+  }, [])
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -257,38 +295,44 @@ export default function App() {
   if (!tree) return <div style={{ padding: 20, color: COLORS.textMuted }}>Loading...</div>
 
   const mobileSidebarWidth = isMobile ? Math.min(window.innerWidth * 0.85, 380) : sidebarWidth
+  const hasContent = !!(activeSection || activeRuling)
 
   return (
     <div style={{ display: 'flex', height: '100vh', background: COLORS.bg }}>
-      {/* Mobile hamburger */}
-      {isMobile && (
+      {/* Mobile sidebar toggle */}
+      {isMobile && !drawerOpen && (
         <button
-          onClick={() => setDrawerOpen(!drawerOpen)}
+          onClick={() => setDrawerOpen(true)}
           style={{
-            position: 'fixed',
-            top: 12,
-            left: drawerOpen ? mobileSidebarWidth - 56 : 12,
-            zIndex: 110,
-            background: COLORS.surface,
-            color: COLORS.heading,
+            position: 'fixed', top: 12, left: 12, zIndex: 110,
+            background: COLORS.surface, color: COLORS.heading,
             border: `1px solid ${COLORS.border}`,
-            borderRadius: 6,
-            padding: '10px 12px',
-            fontSize: 18,
-            cursor: 'pointer',
-            lineHeight: 1,
-            minWidth: 44,
-            minHeight: 44,
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
+            borderRadius: 6, padding: '10px 12px',
+            fontSize: 18, cursor: 'pointer', lineHeight: 1,
+            minWidth: 44, minHeight: 44,
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+          }}
+        >
+          {'\u2630'}
+        </button>
+      )}
+      {isMobile && drawerOpen && (
+        <button
+          onClick={() => setDrawerOpen(false)}
+          style={{
+            position: 'fixed', top: 12, left: mobileSidebarWidth - 56, zIndex: 110,
+            background: COLORS.surface, color: COLORS.heading,
+            border: `1px solid ${COLORS.border}`,
+            borderRadius: 6, padding: '10px 12px',
+            fontSize: 18, cursor: 'pointer', lineHeight: 1,
+            minWidth: 44, minHeight: 44,
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
             transition: 'left 0.25s ease',
           }}
         >
-          {drawerOpen ? '\u2715' : '\u2630'}
+          {'\u2715'}
         </button>
       )}
-
       {/* Mobile backdrop */}
       {isMobile && drawerOpen && (
         <div
@@ -308,100 +352,155 @@ export default function App() {
         top: 0, bottom: 0, zIndex: 100,
         transition: isMobile ? 'left 0.25s ease' : 'none',
       }}>
-        <div style={{ padding: isMobile ? '12px 14px' : '14px', borderBottom: `1px solid ${COLORS.border}` }}>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
-            <select
-              value={act}
-              onChange={e => {
-                setActiveSection('')
-                setSectionData(null)
-                setAct(e.target.value)
-              }}
+        {/* Sidebar header: act picker only */}
+        <div style={{ padding: isMobile ? '12px 14px' : '12px 14px', borderBottom: `1px solid ${COLORS.border}` }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+            {(() => {
+              const currentLabel = acts.find(a => a.id === act)?.name || act
+              return (
+                <div ref={pickerRef} style={{ position: 'relative' }}>
+                  <button onClick={() => { setPickerOpen(!pickerOpen); if (isMobile) setDrawerOpen(true) }} style={{
+                    width: '100%', padding: isMobile ? '8px 10px' : '6px 10px', borderRadius: 6,
+                    background: COLORS.bg, color: COLORS.heading,
+                    border: `1px solid ${COLORS.border}`, fontSize: 12,
+                    fontFamily: "'Montserrat', sans-serif", cursor: 'pointer',
+                    display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 4,
+                  }}>
+                    <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flex: 1 }}>{currentLabel}</span>
+                    <span style={{ fontSize: 9, opacity: 0.6 }}>{pickerOpen ? '▲' : '▼'}</span>
+                  </button>
+                  {pickerOpen && (
+                    <div style={{
+                      position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 201,
+                      marginTop: 4, background: COLORS.surface,
+                      border: `1px solid ${COLORS.border}`,
+                      borderRadius: 8, padding: '6px 0', maxHeight: 300, overflow: 'auto',
+                      boxShadow: '0 8px 24px rgba(0,0,0,0.4)',
+                    }}>
+                      {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }]).map(a => (
+                        <button key={a.id} onClick={() => { setPickerOpen(false); goHome(); setAct(a.id); if (isMobile) setDrawerOpen(false) }} style={{
+                          display: 'block', width: '100%', padding: '6px 12px',
+                          background: 'transparent', border: 'none',
+                          color: act === a.id ? COLORS.accent : COLORS.text,
+                          fontSize: 12, cursor: 'pointer',
+                          fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
+                        }}
+                          onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
+                          onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
+                        >{a.name}</button>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )
+            })()}
+          </div>
+        </div>
+
+        {/* Tree */}
+        <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
+          {(tree.parts || []).map(p => (
+            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { setActiveSection(e); if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
+          ))}
+        </div>
+
+        {/* Sidebar bottom: settings, bug report, login */}
+        <div style={{
+          borderTop: `1px solid ${COLORS.border}`,
+          padding: isMobile ? '8px 12px' : '8px 12px',
+          display: 'flex', gap: 6, alignItems: 'center',
+        }}>
+          <div ref={settingsRef} style={{ position: 'relative' }}>
+            <button
+              onClick={() => setSettingsOpen(!settingsOpen)}
+              title="Settings & Tools"
               style={{
-                width: '100%', padding: isMobile ? '10px 8px' : 8, borderRadius: 6,
-                background: COLORS.bg, color: COLORS.heading,
-                border: `1px solid ${COLORS.border}`, fontSize: 13,
-                fontFamily: "'Montserrat', sans-serif",
+                padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+                background: settingsOpen ? COLORS.accent + '22' : COLORS.bg,
+                color: COLORS.text,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
+                fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
               }}
             >
-              {acts.length > 0 ? acts.map(a => (
-                <option key={a.id} value={a.id}>{a.name}</option>
-              )) : (
-                <>
-                  <option value="itaa-1997">ITAA 1997</option>
-                  <option value="itaa-1936">ITAA 1936</option>
-                </>
-              )}
-            </select>
-            <div style={{ display: 'flex', gap: 6 }}>
-              <input
-                value={search}
-                onChange={e => setSearch(e.target.value)}
-                onKeyDown={e => e.key === 'Enter' && doSearch()}
-                placeholder="Search sections..."
-                style={{
-                  flex: 1, padding: isMobile ? '10px 8px' : 8, borderRadius: 6,
-                  background: COLORS.bg, color: COLORS.heading,
-                  border: `1px solid ${COLORS.border}`, fontSize: 13,
-                  fontFamily: "'Montserrat', sans-serif",
-                }}
-              />
-              <button
-                onClick={doSearch}
-                style={{
-                  padding: isMobile ? '10px 14px' : '8px 14px', borderRadius: 6,
-                  background: COLORS.accent, color: '#fff',
-                  border: 'none', fontSize: 13, cursor: 'pointer',
-                  fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
-                  whiteSpace: 'nowrap',
-                }}
-              >
-                Search
-              </button>
-              <button
-                onClick={() => setMcpOpen(true)}
-                style={{
-                  padding: isMobile ? '10px 14px' : '8px 14px', borderRadius: 6,
-                  background: COLORS.surface, color: COLORS.textMuted,
-                  border: `1px solid ${COLORS.border}`, fontSize: 13, cursor: 'pointer',
-                  fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
-                  whiteSpace: 'nowrap',
-                }}
-              >
-                MCP
-              </button>
-            </div>
-            {searchResults.length > 0 && (
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+              </svg>
+              Settings
+            </button>
+            {settingsOpen && (
               <div style={{
-                maxHeight: 220, overflow: 'auto',
-                background: COLORS.bg, borderRadius: 6,
+                position: 'absolute', bottom: '100%', left: 0, zIndex: 300,
+                marginBottom: 4, background: COLORS.surface,
                 border: `1px solid ${COLORS.border}`,
+                borderRadius: 8, padding: 8, minWidth: 200,
+                boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
               }}>
-                {searchResults.map(r => (
-                  <div
-                    key={`${r.act}-${r.section}`}
-                    style={{
-                      padding: isMobile ? '8px 10px' : '6px 10px', cursor: 'pointer', fontSize: 12,
-                      color: COLORS.text, borderBottom: `1px solid ${COLORS.border}`,
-                      fontFamily: "'Montserrat', sans-serif",
-                      whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
-                      minHeight: isMobile ? 40 : 32,
-                      display: 'flex', alignItems: 'center',
-                    }}
-                    onClick={() => { setAct(r.act); setActiveSection(r.section); setSearchResults([]) }}
-                  >
-                    <span style={{ color: COLORS.accent, fontWeight: 600 }}>{r.section}</span>{' '}
-                    <span style={{ color: COLORS.textMuted }}>{r.title}</span>
-                  </div>
-                ))}
+                <div style={{ fontSize: 11, color: COLORS.textMuted, marginBottom: 4, fontFamily: "'Montserrat', sans-serif" }}>
+                  v{appInfo?.version || '2.0.0'}
+                </div>
+                <div style={{ fontSize: 10, color: COLORS.textMuted, marginBottom: 8, fontFamily: "'Montserrat', sans-serif", opacity: 0.6 }}>
+                  Legislation Explorer
+                </div>
+                <button
+                  onClick={() => { setSettingsOpen(false); setMcpOpen(true) }}
+                  style={{
+                    width: '100%', padding: '6px 8px', borderRadius: 6,
+                    background: COLORS.bg, color: COLORS.text,
+                    border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                    fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+                    display: 'flex', alignItems: 'center', gap: 6,
+                    textAlign: 'left',
+                  }}
+                >
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M16.5 9.4 7.55 4.24"/><path d="M21 16.2 7.55 4.24"/><path d="m7.55 4.24.1 10.52"/><path d="M12 22V12"/><path d="m16.5 14.6 1.53 3.53"/></svg>
+                  MCP Tools
+                </button>
               </div>
             )}
           </div>
-        </div>
-        <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
-          {(tree.parts || []).map(p => (
-            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={setActiveSection} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
-          ))}
+          <button
+            onClick={() => setBugReportOpen(true)}
+            title="Report a bug"
+            style={{
+              padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+              background: COLORS.bg, color: COLORS.textMuted,
+              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+              display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
+              fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+              position: 'relative',
+            }}
+          >
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <rect x="8" y="2" width="8" height="4" rx="1"/><path d="M4 12.5a6 6 0 0 1 6-6h4a6 6 0 0 1 6 6V16a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4z"/><path d="M12 8v8"/><path d="M8 12h8"/>
+            </svg>
+            {bugReportPending > 0 && (
+              <span style={{
+                position: 'absolute', top: -4, right: -4,
+                background: '#ef4444', color: '#fff',
+                borderRadius: 8, padding: '0 5px',
+                fontSize: 9, fontWeight: 700, lineHeight: '16px',
+                minWidth: 16, textAlign: 'center',
+              }}>
+                {bugReportPending}
+              </span>
+            )}
+          </button>
+          <button
+            onClick={() => {/* TBD: login */}}
+            title="Sign in"
+            style={{
+              padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+              background: COLORS.bg, color: COLORS.textMuted,
+              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+              display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
+              fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+            }}
+          >
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/>
+            </svg>
+          </button>
         </div>
       </div>
 
@@ -423,11 +522,33 @@ export default function App() {
       {/* Main content */}
       <div style={{
         flex: 1, overflow: 'auto',
-        padding: isMobile ? '64px 16px 24px' : '28px 40px',
+        padding: isMobile ? '16px 16px 24px' : '20px 40px',
+        paddingTop: isMobile ? (hasContent ? 12 : 16) : (hasContent ? 12 : 20),
         maxWidth: 960, margin: '0 auto',
         fontFamily: "'Lora', serif",
         color: COLORS.text,
+        display: 'flex', flexDirection: 'column',
       }}>
+        {/* Sticky search bar — only when content is open */}
+        {hasContent && (
+          <div style={{
+            position: 'sticky', top: 0, zIndex: 50,
+            background: COLORS.bg,
+            padding: '6px 0 10px 0',
+            marginBottom: 8,
+          }}>
+            <SearchPanel
+              acts={acts}
+              onNavigate={(targetAct, section) => {
+                setAct(targetAct)
+                setActiveSection(section)
+                setActiveRuling(null)
+              }}
+              isMobile={isMobile}
+            />
+          </div>
+        )}
+
         {pins.length > 0 && (
           <PinnedTabs
             pins={pins}
@@ -438,6 +559,46 @@ export default function App() {
             setActiveSection={setActiveSection}
             unpin={unpin}
           />
+        )}
+
+        {hasContent && (
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
+            <button
+              onClick={goHome}
+              title="Back to tree"
+              style={{
+                padding: '6px 8px', borderRadius: 6,
+                background: COLORS.surface, color: COLORS.textMuted,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', gap: 4,
+                fontSize: 11, fontFamily: "'Montserrat', sans-serif",
+                fontWeight: 500,
+              }}
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+                <polyline points="9 22 9 12 15 12 15 22"/>
+              </svg>
+              <span style={{ fontSize: 10, opacity: 0.6 }}>{'<<'}</span>
+            </button>
+            <button
+              onClick={() => {
+                navigator.clipboard.writeText(window.location.href).catch(() => {})
+              }}
+              title="Copy link"
+              style={{
+                padding: '6px 8px', borderRadius: 6,
+                background: COLORS.surface, color: COLORS.textMuted,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+              }}
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+                <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+              </svg>
+            </button>
+          </div>
         )}
 
         {activeRuling && rulingData ? (
@@ -469,14 +630,210 @@ export default function App() {
             setRulingsOpen={setRulingsOpen}
           />
         ) : (
-          <div style={{ color: COLORS.textMuted, fontSize: 14 }}>
-            Select a section from the tree.
+          <div style={{
+            display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
+            minHeight: '60vh', textAlign: 'center',
+            fontFamily: "'Montserrat', sans-serif",
+            padding: '0 16px',
+          }}>
+            <div style={{ width: '100%', maxWidth: 400, marginBottom: 24 }}>
+              <SearchPanel
+                acts={acts}
+                onNavigate={(targetAct, section) => {
+                  setAct(targetAct)
+                  setActiveSection(section)
+                  setActiveRuling(null)
+                }}
+                isMobile={isMobile}
+              />
+            </div>
+            <div style={{ fontSize: 11, color: COLORS.textMuted }}>
+              Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || 'v2.0.0'}</span>
+            </div>
+            <div style={{ display: 'flex', gap: 12, marginTop: 20, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
+              <button
+                onClick={() => setChangelogOpen(true)}
+                style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
+              >
+                Changelog →
+              </button>
+              <button
+                onClick={() => {
+                  setHofOpen(true)
+                  api.mcpHallOfFame().then(setHofData).catch(() => {})
+                }}
+                style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
+              >
+                Hall of Fame →
+              </button>
+            </div>
           </div>
         )}
       </div>
 
       <MCPModal open={mcpOpen} onClose={() => setMcpOpen(false)} />
       <KeyboardShortcuts showShortcuts={showShortcuts} setShowShortcuts={setShowShortcuts} />
+
+      {/* Bug report modal */}
+      {bugReportOpen && (
+        <BugReportModal
+          onClose={() => setBugReportOpen(false)}
+          onReport={(text: string) => {
+            try {
+              const reports = JSON.parse(localStorage.getItem('bugReports') || '[]')
+              reports.push({ text, time: new Date().toISOString(), url: window.location.href })
+              localStorage.setItem('bugReports', JSON.stringify(reports))
+              setBugReportPending(reports.length)
+            } catch {}
+            setBugReportOpen(false)
+          }}
+        />
+      )}
+
+      {/* Changelog modal */}
+      {changelogOpen && appInfo?.changelog && (
+        <ModalOverlay onClose={() => setChangelogOpen(false)}>
+          <div style={{ fontSize: 15, fontWeight: 600, color: COLORS.heading, marginBottom: 16, fontFamily: "'Montserrat', sans-serif" }}>
+            Changelog
+          </div>
+          <div style={{ maxHeight: '60vh', overflow: 'auto' }}>
+            {appInfo.changelog.map((entry: any, i: number) => (
+              <div key={i} style={{ marginBottom: 16, paddingBottom: 16, borderBottom: i < appInfo.changelog.length - 1 ? `1px solid ${COLORS.border}` : 'none' }}>
+                <div style={{ fontSize: 13, fontWeight: 600, color: COLORS.accent, marginBottom: 2, fontFamily: "'Montserrat', sans-serif" }}>
+                  v{entry.version} — {entry.date}
+                </div>
+                <div style={{ fontSize: 11, color: COLORS.textMuted, marginBottom: 6, fontFamily: "'Montserrat', sans-serif" }}>
+                  {entry.title}
+                </div>
+                <ul style={{ margin: 0, paddingLeft: 16, fontSize: 11, color: COLORS.text, fontFamily: "'Montserrat', sans-serif", lineHeight: 1.6 }}>
+                  {entry.changes.map((c: string, j: number) => (
+                    <li key={j}>{c}</li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </ModalOverlay>
+      )}
+
+      {/* Hall of Fame modal */}
+      {hofOpen && (
+        <ModalOverlay onClose={() => setHofOpen(false)}>
+          <div style={{ fontSize: 15, fontWeight: 600, color: COLORS.heading, marginBottom: 16, fontFamily: "'Montserrat', sans-serif" }}>
+            MCP Hall of Fame
+          </div>
+          {hofData ? (
+            <div style={{ maxHeight: '60vh', overflow: 'auto', fontSize: 12, color: COLORS.text, fontFamily: "'Montserrat', sans-serif" }}>
+              <pre style={{ whiteSpace: 'pre-wrap', fontSize: 11, lineHeight: 1.5, color: COLORS.textMuted }}>
+                {JSON.stringify(hofData, null, 2)}
+              </pre>
+            </div>
+          ) : (
+            <div style={{ fontSize: 12, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>
+              Loading...
+            </div>
+          )}
+        </ModalOverlay>
+      )}
+    </div>
+  )
+}
+
+// ---------------------------------------------------------------------------
+// ModalOverlay — shared backdrop + container
+// ---------------------------------------------------------------------------
+
+function ModalOverlay({ onClose, children }: { onClose: () => void; children: React.ReactNode }) {
+  return (
+    <div
+      onClick={onClose}
+      style={{
+        position: 'fixed', inset: 0, zIndex: 1000,
+        background: 'rgba(0,0,0,0.6)',
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+      }}
+    >
+      <div
+        onClick={e => e.stopPropagation()}
+        style={{
+          background: COLORS.surface, borderRadius: 12,
+          padding: 24, width: '90%', maxWidth: 520,
+          boxShadow: '0 16px 48px rgba(0,0,0,0.5)',
+        }}
+      >
+        {children}
+      </div>
+    </div>
+  )
+}
+
+// ---------------------------------------------------------------------------
+// BugReportModal
+// ---------------------------------------------------------------------------
+
+function BugReportModal({ onClose, onReport }: { onClose: () => void; onReport: (text: string) => void }) {
+  const [text, setText] = useState('')
+
+  return (
+    <div
+      onClick={onClose}
+      style={{
+        position: 'fixed', inset: 0, zIndex: 1000,
+        background: 'rgba(0,0,0,0.6)',
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+      }}
+    >
+      <div
+        onClick={e => e.stopPropagation()}
+        style={{
+          background: COLORS.surface, borderRadius: 12,
+          padding: 24, width: '90%', maxWidth: 480,
+          boxShadow: '0 16px 48px rgba(0,0,0,0.5)',
+        }}
+      >
+        <div style={{ fontSize: 14, fontWeight: 600, color: COLORS.heading, marginBottom: 12, fontFamily: "'Montserrat', sans-serif" }}>
+          Report a Bug
+        </div>
+        <textarea
+          value={text}
+          onChange={e => setText(e.target.value)}
+          placeholder="Describe what went wrong..."
+          rows={4}
+          style={{
+            width: '100%', padding: 10, borderRadius: 6,
+            background: COLORS.bg, color: COLORS.heading,
+            border: `1px solid ${COLORS.border}`, fontSize: 13,
+            fontFamily: "'Montserrat', sans-serif", resize: 'vertical',
+            outline: 'none',
+          }}
+        />
+        <div style={{ display: 'flex', gap: 8, justifyContent: 'flex-end', marginTop: 12 }}>
+          <button
+            onClick={onClose}
+            style={{
+              padding: '8px 16px', borderRadius: 6,
+              background: COLORS.bg, color: COLORS.text,
+              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+              fontSize: 12, fontFamily: "'Montserrat', sans-serif",
+            }}
+          >
+            Cancel
+          </button>
+          <button
+            onClick={() => { if (text.trim()) onReport(text.trim()) }}
+            disabled={!text.trim()}
+            style={{
+              padding: '8px 16px', borderRadius: 6,
+              background: text.trim() ? COLORS.accent : COLORS.border,
+              color: text.trim() ? '#fff' : COLORS.textMuted,
+              border: 'none', cursor: text.trim() ? 'pointer' : 'default',
+              fontSize: 12, fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
+            }}
+          >
+            Submit
+          </button>
+        </div>
+      </div>
     </div>
   )
 }

@@ -1,0 +1,660 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 70
+  • Div 84
+  • Division 70
+  • Division 84
+
+Cases Referenced:
+  • Axa Asia Pacific Holdings Ltd v Commissioner 
+  • Mercantile Pty Ltd v Commissioner 
+  • Rio Tinto Services Limited v Commissioner 
+  • Rio Tinto Services Ltd v Commissioner 
+  • Taxation v American Express Wholesale Currency Services Pty Limited
+
+  • Visa International Service Association v Reserve Bank 
+
+Topics: GST, Partnerships, Companies, International
+
+
+
+================================================================================
+
+GSTR 2019/2 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+31 related documents
+Goods and Services Tax Ruling
+GSTR 2019/2
+Goods and services tax: determining the creditable purpose of acquisitions in a credit card issuing business
+Please note that the
+PDF version
+is the authorised version of this ruling.
+There is a Compendium for this document:
+GSTR 2019/2EC
+.
+Contents
+Para
+LEGALLY BINDING SECTION:
+Summary - what this Ruling is about
+1
+Ruling
+6
+Date of effect
+111
+NOT LEGALLY BINDING SECTION:
+Appendix 1: Detailed contents list
+112
+Relying on this Ruling
+This publication (excluding appendix) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Ruling applies to you and you rely on it, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+Further, if we think that this Ruling disadvantages you, we may apply the law in a way that is more favourable to you.
+Summary - what this Ruling is about
+1. This Ruling provides advice on the application of paragraph 11-15(2)(a)
+[1]
+of the
+A New Tax System (Goods and Services) Tax Act 1999
+(GST Act) to acquisitions in a credit card issuing business of a financial supply provider (you). This Ruling applies to you if you issue credit cards or charge cards
+[2]
+in a four-party (open loop) payment system.
+2. The Commissioner's views on determining the extent of creditable purpose for financial supply providers are set out in:
+•
+Goods and Services Tax Ruling GSTR 2008/1
+Goods and services tax: when do you acquire anything or import goods solely or partly for a creditable purpose?
+•
+Goods and Services Tax Ruling GSTR 2006/3
+Goods and services tax: determining the extent of creditable purpose for providers of financial supplies.
+3. This Ruling considers the application of these views in the specific context of a credit card issuing business, focusing on the analysis required to determine whether acquisitions are made solely or partly for a creditable purpose.
+4. This Ruling does not address:
+•
+what is a fair and reasonable apportionment method for acquisitions in a credit card issuing business. The ATO's compliance approach for the apportionment of these acquisitions is set out in Practical Compliance Guideline PCG 2019/8
+ATO compliance approach to GST apportionment of acquisitions that relate to certain financial supplies
+[3]
+•
+acquisitions in a credit card acquiring business, or the extent to which acquisitions relate to supplies made in that business.
+5. In this Ruling:
+•
+all legislative references are to the GST Act unless otherwise indicated
+•
+a reference to the GST Regulations refers to the
+A New Tax System (Goods and Services Tax) Regulations 2019
+•
+any reference to 'acquisitions' applies equally to importations under paragraph 15-10(2)(a)
+•
+the indirect tax zone is referred to as 'Australia'.
+Ruling
+Supplies made in a credit card issuing business
+6. In a four-party payment system, the supplies you make include both:
+•
+the financial supply of the
+credit card facility
+, which is the supply of a credit arrangement or right to credit supplied to the cardholder under their contractual arrangements with you (further discussed at paragraphs 8 to 10 of this Ruling)
+•
+the taxable supply of
+interchange services
+to an acquiring entity, which are the authorisation, clearing and settlement activities that you undertake in exchange for interchange fees.
+7. You may also make other supplies depending on the relevant facts, such as loyalty program membership and travel insurance supplied to the cardholder.
+[4]
+Supply of a credit card facility
+8. In
+Commissioner of Taxation v American Express Wholesale Currency Services Pty Limited
+[2010] FCAFC 122 (
+Amex
+), the Full Federal Court concluded that the supply of the credit card facility is a financial supply of the provision of an interest in or under a credit arrangement, or a right to credit.
+[5]
+In
+Amex
+, this financial supply encompassed the bundle of rights supplied to the cardholder on entry into the credit card contract, and the cardholder's exercise of these rights, including the exercise of the right to present the credit card as payment and to obtain credit.
+[6]
+9. Each credit card transaction where the cardholder has exercised these rights is part of the ongoing supply of the credit card facility, instead of being a separate supply in itself.
+[7]
+This is reflected in Schedule 2 of Part 7 to the GST Regulations which provides an example of 'opening, keeping, operating, and maintaining charge and credit card facilities'.
+[8]
+10. The supply of the
+credit card facility
+is an
+input taxed
+financial supply, except to the extent it is GST-free. The supply of the credit card facility is GST-free under table item 4 in subsection 38-190(1), to the extent it is anticipated that the credit card facility will be used by the cardholder to undertake transactions while they are physically outside Australia.
+[9]
+The supply of the credit card facility is GST-free under table item 3 in subsection 38-190(1) to the extent that the recipient is outside Australia when the thing supplied is done and the effective use or enjoyment of the supply takes place outside Australia (and the other requirements are satisfied). It is unnecessary to consider the application of table item 3 to the supply of the credit card facility, because table item 4 has a broader application in this context.
+[10]
+11. The consideration for the supply of the credit card facility to a cardholder includes any amounts the cardholder pays as a result of their obligations under the credit card facility contract.
+12. This includes overseas transaction fees, which form part of the consideration for the supply of the credit card facility. The ability of the cardholder to undertake transactions with overseas merchants is an integral part of the supply of the credit card facility, and overseas transactions are not separate supplies. This means the overseas transaction fees are not consideration for separate GST-free supplies under either table item 3 or table item 4 of subsection 38-190(1).
+13. The consideration for the supply of the credit card facility also includes the cardholder's obligation to repay the debt owed. Note that it is the cardholder's debt that is the consideration (the obligation to repay the amount in the future), as opposed to the actual repayment of the debt itself.
+[11]
+As such, all cardholders - including those that do not pay any fees and interest because they repay the balance owed in the interest-free period - provide consideration for the supply of the credit card facility.
+Supply of interchange services
+14. The supply of
+interchange services
+you make to an acquirer is a
+taxable supply
+.
+[12]
+15. The following diagram summarises the supplies made in a four-party payment system.
+16. The completion of a credit card transaction requires the issuer to make a supply of interchange services (except for where the transactions are 'on-us' transactions, as described at paragraph 17 of this Ruling). This reflects the interrelated way in which these payment systems operate. The taxable supply of interchange services are made if credit is provided to the cardholder. Likewise, the issuer provides credit under the supply of the credit card facility when also supplying taxable interchange services.
+[13]
+17. If you have both a credit card issuing and an acquiring business, there may be 'on-us' transactions for which you are both the issuer and acquirer. In this situation, you do not make a supply of interchange services.
+Determining the extent to which an acquisition relates to the making of input taxed supplies
+18. Section 11-15 contains both a positive test in subsection 11-15(1) (that the thing is acquired in carrying on the entity's enterprise) and a negative test in subsection 11-15(2).
+[14]
+19. Paragraph 11-15(2)(a) specifically focuses on the relationship between an acquisition and the making of supplies that would be input taxed, by precluding an acquisition from being for a creditable purpose to the extent that it relates to the making of supplies that would be input taxed.
+20. GSTR 2008/1 sets out the principles for establishing a relevant connection to supplies for these purposes. The connection may be direct, or indirect, substantial or real. It must be relevant and usually a remote connection would not suffice.
+[15]
+The required connection has also been described as 'sufficient and material', which would include a 'direct and immediate' connection.
+[16]
+In this Ruling, we refer to the required connection as a 'real and substantial connection' or a 'relevant connection' interchangeably.
+21. Determining whether there is a relevant connection between an acquisition and the making of supplies that would be input taxed requires an objective assessment of the surrounding facts and circumstances to determine whether the acquisition is intended to be used in making those supplies.
+[17]
+22. If an acquisition only has a relevant connection to the making of input taxed supplies, paragraph 11-15(2)(a) precludes the acquisition from being for a creditable purpose. If an acquisition does not have a relevant connection to the making of input taxed supplies, it is solely for a creditable purpose.
+23. If an acquisition has a relevant connection to both making input taxed supplies and to making taxable or GST-free supplies, it is partly for a creditable purpose.
+[18]
+24. In
+Axa
+it was stated that:
+The expression 'the acquisition relates to supplies that would be input taxed' in para (a) of s 11-15(2) is likewise objective: it refers to a relatedness as a matter of objective fact between an acquisition and a supply.
+[19]
+It is clear from that statement that applying paragraph 11-15(2)(a) requires an objective assessment of the facts to determine if a relevant connection exists.
+[20]
+25. An approach that looks through to the subjective intention or actual purpose for making the acquisition will be inconsistent with paragraph 11-15(2)(a).
+[21]
+Further contextual support for this position can be found in subsection 11-15(5), which provides a specific exception whereby an acquisition that relates to a financial supply consisting of a borrowing will generally be for a creditable purpose if the borrowing relates to making supplies that are not input taxed. This provision would be unnecessary if it were appropriate to consider the purposes for which the borrowing is used.
+[22]
+26. Further, the relationship between an acquisition and the broader enterprise is not determinative.
+[23]
+The identification of the relevant connection does not turn upon a characterisation of the purpose, or the occasion of the purpose, of the supplier in the sense of a broader commercial objective of the enterprise.
+[24]
+If an objective assessment shows that an acquisition only has a relevant connection to the making of input taxed supplies, the acquisition is not to be apportioned merely because those supplies may also serve a broader commercial objective.
+[25]
+Determining the creditable purpose for credit card issuing acquisitions
+27. There is no general proposition that all acquisitions in a credit card issuing business have a relevant connection to both the supply of the credit card facility and the supply of interchange services. The application of paragraph 11-15(2)(a) requires the precise identification of the relevant acquisition and a factual enquiry into the connection between the acquisition and the making of supplies that would be input taxed.
+[26]
+28. In the absence of any other potential supplies, such as loyalty program membership, an acquisition you make in your credit card issuing business will either:
+•
+not have a relevant connection to the supply of the credit card facility. If so, the acquisition is solely for a creditable purpose and apportionment is not required
+•
+only have a relevant connection to the supply of the credit card facility. If so, the acquisition is for a creditable purpose only to the extent the supply of the credit card facility is GST-free
+•
+have a relevant connection to both the supply of the credit card facility and the supply of interchange services. These acquisitions are partly for a creditable purpose. This includes acquisitions that have a direct connection to making both supplies (including acquisitions with distinct and severable parts that are devoted to particular uses, and which can be allocated between these uses), as well as acquisitions that have an indirect connection to all supplies made in the credit card issuing business.
+29. It is not possible for this Ruling to address all potential supplies and acquisitions that you may make. This Ruling provides examples to illustrate how paragraph 11-15(2)(a) applies in the context of a credit card issuing business.
+Examples
+30. The entity making the acquisition in each example is a
+credit card issuer
+who participates in a four-party payment system, as set out in Diagram 1 at paragraph 15 of this Ruling. Examples 9 to 13 of this Ruling do not address situations where the credit card issuer is also the acquirer for that transaction.
+31. These examples are not intended to address every potential variation in individual circumstances, noting in particular that:
+•
+There may be factual variations in the acquisitions or supplies that you make that need to be taken into account when determining the application of paragraph 11-15(2)(a) in your circumstances.
+•
+The examples do not address the application of the reverse charge provisions in Division 84, which may apply if the supply made to the credit card issuer is not connected with Australia.
+[27]
+•
+The examples do not address how paragraph 11-15(2)(a) applies when an acquisition may also have a relevant connection to other supplies outside of a credit card issuing business. For instance, Example 4 of this Ruling does not address the extent to which the acquisitions relate to other supplies, such as financial supplies of transaction accounts and home loans.
+Example 1 - acquisition of debt collection services
+32.
+Lilac Bank acquires debt collection services from Macmen Ltd, which is engaged to recover debts from Lilac's cardholders.
+33.
+Macmen's services enable Lilac Bank to enforce their cardholder's obligations to repay the debts they incur by using the credit card facility. Lilac Bank intends to use the debt collection services to manage their debtor/creditor relationships with cardholders. The debts arise from the cardholder's obligations to repay the credit obtained under the facility.
+34.
+Whilst it is true that Lilac Bank also supplies interchange services to acquiring entities in authorising, clearing and settling the transactions that gave rise to the debt, that fact in itself is insufficient to support a conclusion that a relevant connection has been established between the interchange and the acquisition of the debt collection services. The circumstances of the debt's creation are that it arose from the provision of credit. The fact that when the credit was provided, the issuer also made a supply of interchange services, is not of itself determinative. On the objective facts there is nothing more than a remote connection between the supply of those interchange services and the acquisition of the debt collection services.
+35.
+Lilac Bank's acquisition of debt collection services only has a real and substantial connection to the supply of the credit card facility.
+Example 2 - acquisitions to prepare credit card statements
+36.
+Claret Bank acquires services from Frondescence Limited, which prints and posts statements to Claret Bank's cardholders.
+37.
+The statements include information about:
+•
+the credit provided under the credit card facility
+•
+the cardholders' obligations to pay amounts including any fees, principal and interest.
+38.
+Claret Bank has statutory obligations to ensure periodic statements are issued to cardholders that contain particular information.
+39.
+Although Claret Bank supplies interchange services in relation to the credit card transactions that are recorded on the statements, this fact is not of itself sufficient to establish a real and substantial connection between the acquisition of credit card statement services from Frondescence and the supply of interchange services by Claret Bank to the acquiring bank.
+40.
+Claret Bank acquires the services from Frondescence to help manage their debtor/creditor relationship with cardholders, which arises from the provision of credit under the supply of the credit card facility. Claret Bank's acquisitions to prepare credit card statements only have a real and substantial connection to the supply of the credit card facility.
+41.
+The same analysis applies when Claret Bank acquires information technology services to perform equivalent functions through a website or mobile app.
+Example 3 - acquisition of credit check services
+42.
+Cobalt Bank purchases credit check services from Gimlet Partners to assist its credit card application and approval process.
+43.
+The credit checking acquisitions help Cobalt Bank to determine whether it should enter into a debtor/creditor relationship with potential cardholders. These acquisitions relate to originating supplies of credit card facilities.
+44.
+The credit check services are used to determine the creditworthiness of the potential cardholder, in order to decide whether to offer them credit and make the supply of the credit card facility. When the new cardholder undertakes a transaction using the credit card facility, it may trigger Cobalt Bank to make a supply of interchange services. However, this fact of itself does not establish a real and substantial connection between the acquisition from Gimlet Partners of the credit check services and the supply of interchange services.
+45.
+Cobalt Bank's acquisitions of credit check services only have a real and substantial connection to the supply of the credit card facility.
+Example 4 - acquisitions to maintain branch network
+46.
+Cherry Bank makes acquisitions to maintain its network of branches, including for rent, electricity, repairs and maintenance, cleaning and office equipment. Cherry Bank also acquires labour hire services to meet temporary staffing needs in its branches.
+47.
+The branch network is customer-facing, providing a customer service channel for customers of Cherry Bank's retail and business banking products.
+48.
+To reflect the activities of the branch staff, Cherry Bank allocates a proportion of its branch network costs to its credit card issuing area.
+49.
+The activities of the branch staff in relation to Cherry Bank's credit card products include:
+•
+assisting with new credit card applications
+•
+providing customer service and assisting with enquiries from cardholders.
+50.
+These activities of the branch staff help to manage Cherry Bank's relationship with cardholders. They do not relate to Cherry Bank's relationship with the acquiring entities that it supplies interchange services to in the course of participating in the payment system.
+51.
+The proportion of the branch network costs allocated to the credit card issuing area has a relevant connection to the supply of the credit card facility. There is no real and substantial connection to the supply of interchange services.
+52.
+These costs only have a real and substantial connection to the supply of the credit card facility.
+Example 5 - acquisition of call centre services
+53.
+Violet Bank outsources its credit card enquiries to the Talkativ Limited call centre.
+54.
+Under the agreement, Talkativ must provide customer support within a specified service window. Violet Bank provides access to its systems so Talkativ staff can process new credit card applications, and resolve cardholders' enquiries.
+55.
+Violet Bank's credit card facility has a loyalty program, but enquiries about this are not directed to Talkativ's call centre.
+56.
+Similar to a branch, the call centre is customer-facing and its activities help Violet Bank to manage their relationship with cardholders. They do not relate to Violet Bank's relationship with acquiring entities that it supplies interchange services to in the course of participating in the payment system.
+57.
+The acquisition of call centre services has a relevant connection to the supply of the credit card facility. There is no real and substantial connection to the supply of interchange services.
+58.
+Violet Bank's acquisition of call centre services only has a real and substantial connection to the supply of the credit card facility.
+Example 6 - acquisition of services to facilitate the introduction of new cardholders
+59.
+Indigo Bank has an agreement with Cinereal Limited, under which Cinereal agrees to facilitate the introduction of new cardholders to Indigo Bank's credit cards.
+60.
+This is a 'white labelling' arrangement, where Cinereal promotes and supports Indigo Bank's supplies of credit card facilities with Cinereal's existing customers. The physical credit card, credit card statements and promotional materials all bear Cinereal's branding.
+61.
+Cinereal acts as Indigo Bank's agent in introducing current and potential Cinereal customers to Indigo Bank's credit cards. Cinereal enables these potential cardholders to make applications for the credit cards at its branches and on its website.
+62.
+Indigo Bank supplies the credit card facility and provides credit to the cardholders. As such, Indigo Bank has all the usual responsibilities and obligations relating to operating a credit card issuing business. Under the agreement, Cinereal also has ongoing obligations to provide assistance to cardholders at its branches.
+63.
+Indigo Bank pays various commissions to Cinereal:
+•
+an upfront commission for each new credit card contract
+•
+additional commissions when specific events occur, such as a new cardholder upgrading to a premium credit card, or for balance transfers
+•
+a trailing commission calculated from the net revenue earned from each new cardholder (including both revenue from interest and fees paid by the cardholder, and revenue from the interchange services supplied when the cardholder undertakes transactions).
+64.
+Indigo Bank's acquisitions from Cinereal are intended to:
+•
+originate supplies of credit card facilities to cardholders
+•
+manage the relationship with cardholders (as Cinereal has an ongoing role in this).
+65.
+As a result, Indigo Bank's acquisitions of services from Cinereal have a real and substantial connection to the supply of the credit card facility.
+66.
+The fact that Indigo Bank supplies interchange services to an acquiring entity when a cardholder is provided with credit under the credit card facility is not sufficient to establish a real and substantial connection between the acquisition of the white labelling services and the supply of interchange services.
+67.
+The fact that one of the commissions is partly calculated based on interchange revenues does not alter the nature of the acquisition or how it is intended for use by Indigo Bank.
+68.
+Indigo Bank's acquisitions from Cinereal only have a real and substantial connection to the supply of the credit card facility.
+Example 7 - acquisition of advertising services to sign up new cardholders
+69.
+Sepia Bank acquires advertising services from Behemoth search engine to advertise its platinum credit card. The advertisements are placed at the top of Behemoth search results lists when particular search terms are used.
+70.
+The advertisements promote the features of the credit card, such as a 12-month interest-free balance transfer for new cardholders. The advertisements link to a page on Sepia Bank's website, which gives more information about the platinum credit card and how to apply. The advertisement is intended to attract new cardholders.
+71.
+Considered objectively, this acquisition is made to promote Sepia Bank's credit card facilities, and is intended for originating these supplies. The acquisition of advertising services has a real and substantial connection to those supplies.
+[28]
+72.
+The acquisitions from Behemoth do not have a real and substantial connection to any interchange services that Sepia Bank supplies when the new cardholder is provided with credit under the credit card facility. This is because the advertising is only intended to induce new cardholders to apply for credit, in order for Sepia Bank to make the supply of the credit card facility.
+73.
+Sepia Bank's acquisition of advertising services only has a real and substantial connection to the supply of the credit card facility.
+Example 8 - acquisition of advertising services to raise public awareness of the entity
+74.
+Celadon Bank pays for advertising services for a television advertising campaign. The advertisement is focused on Celadon Bank's sponsorship of a local sporting team. The advertisement is intended to enhance and promote Celadan Bank's image to viewers, and is not focused on specific products or services.
+75.
+Celadon Bank allocates part of the costs for the advertising campaign to their credit card issuing area. Considered objectively, the acquisition promotes Celadon Bank as a whole, rather than specific products or services. As the acquisition is to increase public awareness of the entity and its products in general, the acquisitions relate to all of the supplies that the bank makes.
+[29]
+76.
+As this acquisition relates to Celadon Bank's enterprise as a whole, it does not have a direct connection to any particular supplies. This acquisition has an indirect connection to all the activities of the enterprise.
+77.
+This acquisition is apportioned based on all of the supplies made by the enterprise, including the supply of the credit card facility and supply of interchange services.
+Example 9 - acquisition of loyalty rewards points from a loyalty scheme operator
+78.
+Fuchsia Bank offers a loyalty reward program for its credit cardholders, but does not make any taxable supplies of loyalty program membership to cardholders.
+79.
+Access to loyalty program membership is incidental to, or a composite part, of the supply of the credit card facility by Fuchsia to their cardholders.
+80.
+Fuchsia Bank enters into an agreement with an airline that is a loyalty program operator.
+[30]
+Fuchsia Bank acquires loyalty rewards points from the airline at the end of each statement period in order to update cardholders' points balances, based on the cardholder's purchase transactions during the statement period.
+81.
+Fuchsia Bank structures the allocation of rewards points, so that cardholders earn one loyalty rewards point for each dollar they spend on purchase transactions using the credit card facility. The acquisition of one loyalty rewards point from the airline requires the use of the credit card facility by the cardholder to spend $1.
+82.
+Each time a cardholder undertakes a transaction, the cardholder is provided with credit under the credit card facility, interchange services are supplied to an acquiring entity, and the cardholder is supplied with the loyalty rewards points.
+83.
+Fuchsia Bank allocates (and therefore must acquire) loyalty points according to the value of the cardholder's purchase transactions. The loyalty points directly reward the cardholder's use of the credit card facility to initiate purchase transactions, for which Fuchsia Bank necessarily provides credit and supplies interchange services.
+84.
+The acquisition of the loyalty points has a relevant connection to both these supplies.
+Example 10 - acquisition of goods and services as loyalty rewards
+85.
+Mauve Bank is the operator of its own loyalty program, as it acquires goods and services that it then provides to cardholders as loyalty rewards.
+86.
+Mauve Bank charges a separate fee for loyalty program membership. In this case, the loyalty program membership supplied for a separate fee is not a composite part of the supply of the credit card facility, and is a separate taxable supply to the cardholder.
+87.
+To receive membership and points in the scheme, a person must be a cardholder of the associated credit card facility, and use their card to make purchases.
+88.
+Mauve Bank structures the loyalty rewards points, so that cardholders earn points for each dollar they spend on purchase transactions using the credit card facility. While Mauve makes a taxable supply of loyalty program membership, the earning of points by the cardholder, and therefore the acquisition of rewards, is contingent on the use of the credit card facility by the cardholder. There is a real and substantial connection between the loyalty reward acquisitions and Mauve Bank making the supply of the credit card facility.
+89.
+Mauve Bank's acquisition of loyalty rewards has a relevant connection to both the supply of the credit card facility and the supply of interchange services (on the same basis as Example 9 of this Ruling), as well as to the taxable supply of loyalty program membership.
+Example 11 - acquisition of issuer scheme services
+90.
+Sienna Bank pays issuer scheme fees to a payment system operator to participate in a payment system. The payment system operator facilitates the authorisation, clearing and settlement of credit card transactions on behalf of the participants in the system.
+[31]
+91.
+These acquisitions are separate from the acquisitions of acquirer scheme services where the fees are paid to the payment system operator by acquiring entities.
+92.
+There is a complex fee structure for the payment system operator's services, including card service fees, data processing fees and transaction dispute fees. Most of these fees are charged per transaction.
+93.
+Sienna Bank must participate in a payment system so it can supply its credit card facility to cardholders, and supply interchange services to acquiring entities. The acquisitions of issuer scheme services have a real and substantial connection to both of these supplies.
+94.
+The payment system operator provides services in facilitating the authorisation, clearing and settlement of each credit card transaction. The transaction is initiated by the cardholder, which initiates a series of steps through which Sienna Bank provides credit under the credit card facility and supplies interchange services to acquiring entities.
+[32]
+95.
+Sienna Bank's acquisitions of issuer scheme services have a real and substantial connection to both the supply of the credit card facility and the supply of interchange services.
+Example 12 - acquisition of credit card production services
+96.
+Bank Noire acquires credit card production services so it can provide plastic credit cards to its cardholders. These cards must have the built-in features and technology specified by the payment system operator so the card will operate in the payment system. Bank Noire's agreement with the payment system operator makes these features a condition of their participation in the system.
+97.
+When the cardholder's presents the credit card to a merchant, it enables Bank Noire to provide them credit under the credit card facility, and also initiates the operation of the payment system including supplies of interchange services by Bank Noire to acquiring entities in authorising, clearing and settling the transaction.
+[33]
+98.
+Because the plastic credit cards need to meet the payment system operator's specifications (including incorporating built-in technology) to perform their function in initiating both the provision of credit under the supply of the credit card facility and the supply of interchange services, their production has a real and substantial connection to both supplies.
+99.
+This would apply equally if Bank Noire made acquisitions to develop and maintain applications on mobile phones or wearable devices which perform equivalent functions to a physical credit card.
+100.
+Bank Noire's acquisition of credit card production services has a real and substantial connection to both the supply of the credit card facility and the supply of interchange services.
+Example 13 - acquisition of credit card processing services to process credit card transactions via the payment system
+101.
+Cinnamon Bank acquires outsourced processing services to process credit card transactions.
+102.
+Cinnamon's service provider supplies a payment switch service to Cinnamon. The function of the switch is to act as a gateway as it sends and receives transaction instructions from Cinnamon Bank's systems to the particular acquiring entity via the payment system. The switch is integral to receiving cardholder's requests to be provided with credit under the credit card facility, and to the performance of interchange services to acquiring entities in authorising, clearing and settling transactions.
+103.
+The service provider also supplies:
+•
+an application that maintains real-time balances (a duplicate version of the cardholder's account that updates for transactions throughout the day), that is used to check if there is sufficient credit available as part of Cinnamon Bank authorising the transactions
+•
+an anti-fraud application to assess the authorisation request from an acquirer.
+104.
+Both of these applications are also integral to the transaction authorisation process.
+105.
+These services relate to making both the supply of the credit card facility and the supply of interchange services. These services allow the cardholder to request credit under the credit card facility via the payment system, and allow the subsequent posting of the transaction to the cardholder's account. These services are also used to supply the relevant acquiring entity with interchange services, as they allow the authorisation of the transaction instructions received from the acquiring entity.
+106.
+The services acquired by Cinnamon Bank for the switch, real-time balances and anti-fraud applications have a real and substantial connection to both the supply of the credit card facility and the supply of interchange services.
+Example 14 - acquisition of credit card processing services in managing and operating the credit card facility account
+107.
+Cinnamon Bank acquires credit card processing services that support the operation of its credit card facility accounts.
+108.
+Cinnamon Bank determines that the services involve applications and functions that are only intended to manage and operate the cardholders' credit card facility account. For example, this includes posting debits and credits to the cardholder's account, calculating and posting interest and fees to the account, and extracting transaction information from the account for use in preparing cardholder statements, including account information accessed via a website portal or mobile phone app.
+109.
+The services relate to managing the debtor/creditor relationship and recording the credit provided under the supply of the credit card facility. In contrast to the acquisitions of processing services acquired at Example 13 of this Ruling, there is no real and substantial relationship between these parts of the services acquired and the supply of interchange services made to acquiring entities.
+110.
+The services acquired by Cinnamon Bank only have a real and substantial connection to the supply of the credit card facility.
+Date of effect
+111. This Ruling applies from the start of your first tax period commencing on or after 1 January 2020.
+Commissioner of Taxation
+18 December 2019
+Appendix 1 - Detailed contents list
+112. The following is a detailed contents list for this Ruling:
+Paragraph
+Summary - what this Ruling is about
+1
+Ruling
+6
+Supplies made in a credit card issuing business
+6
+Supply of a credit card facility
+8
+Supply of interchange services
+14
+Determining the extent to which an acquisition relates to the making of input taxed supplies
+18
+Determining the creditable purpose for credit card issuing acquisitions
+27
+Examples
+30
+Example 1 - acquisition of debt collection services
+32
+Example 2 - acquisitions to prepare credit card statements
+36
+Example 3 - acquisition of credit check services
+42
+Example 4 - acquisitions to maintain branch network
+46
+Example 5 - acquisition of call centre services
+53
+Example 6 - acquisition of services to facilitate the introduction of new cardholders
+59
+Example 7 - acquisition of advertising services to sign up new cardholders
+69
+Example 8 - acquisition of advertising services to raise public awareness of the entity
+74
+Example 9 - acquisition of loyalty rewards points from a loyalty scheme operator
+78
+Example 10 - acquisition of goods and services as loyalty rewards
+85
+Example 11 - acquisition of issuer scheme services
+90
+Example 12 - acquisition of credit card production services
+96
+Example 13 - acquisition of credit card processing services to process credit card transactions via the payment system
+101
+Example 14 - acquisition of credit card processing services in managing and operating the credit card facility account
+107
+Date of effect
+111
+Appendix 1 - Detailed contents list
+112
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Footnotes
+[1]
+This Ruling assumes that acquisitions have satisfied subsection 11-15(1), and does not address the application of subsections 11-15(3),(4) and (5), or entitlement to reduced input tax credits under Division 70 of the GST Act .
+[2]
+For example, business and corporate cards issued for business-related use.
+[3]
+See also Practical Compliance Guideline PCG 2017/15
+GST and Customer Owned Banking Institutions
+which explains the Commissioner's practical administration approach to apportionment by customer owned banking institutions.
+[4]
+For example, see lines B46 to B49 of Schedule 2 to Goods and Services Tax Ruling GSTR 2002/2
+Goods and services tax: GST treatment of financial supplies and related supplies and acquisitions.
+[5]
+See
+Amex
+at [148] and [174]. Table item 2 in subsection 40-5.09(3) of the GST Regulations. For authorised deposit-taking institutions table item 1 in subsection 40-5.09(3) of the GST Regulations also applies.
+[6]
+See
+Amex
+at [148] and [174]. This position is also reflected in paragraph 21 of Goods and Services Tax Determination GSTD 2017/1
+Goods and services tax: when is the supply of a credit card facility GST-free under paragraph (a) of item 4 in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999 (GST Act)?
+[7]
+In
+Commissioner of Taxation v MBI Properties Pty Ltd
+[2014] HCA 49 (
+MBI Properties
+) at [35], the High Court noted that a transaction which involves a supplier entering into, and performing an executory contract will in general involve the supplier making at least two supplies. However,
+MBI Properties
+focused on what is sufficient to constitute a supply, rather than whether a course of action that might involve more than one thing satisfying the definition of supply should be characterised as one or more supplies.
+Amex
+is the relevant authority in this instance, as it specifically considered how a credit card facility should be characterised in the context of the financial supply provisions. In any event, the supply of the contractual performance of the issuer's obligations (referred to in
+MBI Properties
+at [35]) would be a single ongoing supply.
+[8]
+See
+Amex
+at [153].
+[9]
+See further explanation in GSTD 2017/1.
+[10]
+Further discussion on table item 3 is provided in Goods and Services Tax Ruling GSTR 2007/2
+Goods and services tax: in the application of paragraph (b) of item 3 in the table in subsection 38-190(1) of the A New Tax System (Goods and Services Tax) Act 1999 to a supply, when does 'effective use or enjoyment' of the supply 'take place outside Australia'?.
+Paragraphs 106 and 294 of GSTR 2007/2 indicate that the 'effective use or enjoyment outside Australia' of a supply occurs if the supply is provided to an individual that is located outside Australia, provided the individual's presence at that location is integral to, as distinct from being merely coincidental with, the provision of the supply.
+[11]
+This reflects the Commissioner's views on interest-free loans in paragraphs 37 to 41 of GSTR 2002/2. The repayment of the debt itself is addressed in line B28 of Schedule 2 to GSTR 2002/2.
+[12]
+Table item 4 in section 40-5.12 of the GST Regulations. When the supply of interchange services is GST-free is not within the scope of this Ruling.
+[13]
+The interrelated nature of the payment system is described in detail in
+Visa International Service Association v Reserve Bank of Australia
+[2003] FCA 977 (
+Visa
+). However, note the comments in
+Amex
+at [169-170] that the analysis applied in
+Visa
+is not determinative in the GST context given the different statutory contexts of the relevant provisions.
+[14]
+See
+HP Mercantile Pty Ltd v Commissioner of Taxation
+[2005] FCAFC 126 (
+HP Mercantile
+) at [21] and
+Axa Asia Pacific Holdings Ltd v Commissioner of Taxation
+[2008] FCA 1834 (
+Axa
+) at [124] and paragraphs 32 to 35 of GSTR 2008/1.
+[15]
+HP Mercantile
+at [35], paragraphs 113 and 118 of GSTR 2008/1.
+[16]
+Rio Tinto Services Ltd v Commissioner of Taxation
+[2015] FCA 94 (
+Rio Tinto - first instance
+) at [26] and [33].
+[17]
+See also paragraph 119 of GSTR 2008/1.
+[18]
+Rio Tinto Services Ltd v Commissioner of Taxation
+[2015] FCAFC 117 (
+Rio Tinto - appeal
+) at [7].
+HP Mercantile
+at [37].
+[19]
+See
+Axa
+at [124], as confirmed in
+Rio Tinto - first instance
+at [26] and
+Rio Tinto - appeal
+at [7].
+[20]
+See also GSTR 2008/1.
+[21]
+Axa
+at [122].
+[22]
+See paragraph 191 of GSTR 2008/1.
+[23]
+Rio Tinto - appeal
+at [7],
+Rio Tinto - first instance
+at [26].
+[24]
+Rio Tinto - appeal
+at [7].
+[25]
+Rio Tinto - appeal
+at [7].
+[26]
+Rio Tinto - appeal
+at [7].
+[27]
+Note that PCG 2019/8 provides our risk assessment framework for apportionment of acquisitions in a credit card issuing business, including in relation to determining the extent to which acquisitions relate to the GST-free use of the credit card facility.
+[28]
+See also paragraph 126 of GSTR 2008/1.
+[29]
+See also paragraph 126 of GSTR 2008/1.
+[30]
+Consistent with the loyalty programs described in paragraphs 17 to 22 of Goods and Services Tax Ruling GSTR 2012/1
+Goods and services tax: loyalty programs.
+[31]
+Visa
+at [92].
+[32]
+Amex
+at [174] and
+Visa
+at [351].
+[33]
+Amex
+at [174] and [180] and
+Visa
+at [351].
+Previously issued in draft form as GSTD 2018/D1
+References
+ATO references:
+NO  1-GI5ZAMG
+ISSN: 2205-6157
+Related Rulings/Determinations:
+GSTR 2002/2
+GSTR 2006/3
+GSTD 2007/1
+GSTR 2007/2
+GSTR 2008/1
+GSTR 2012/1
+GSTD 2017/1
+PCG 2017/15
+PCG 2019/8
+Business Line:
+PGI
+Legislative References:
+ANTS(GST)A 1999 11-15
+ANTS(GST)A 1999 11-15(1)
+ANTS(GST)A 1999 11-15(2)
+ANTS(GST)A 1999 11-15(2)(a)
+ANTS(GST)A 1999 11-15(3)
+ANTS(GST)A 1999 11-15(4)
+ANTS(GST)A 1999 11-15(5)
+ANTS(GST)A 1999 15-10(2)(a)
+ANTS(GST)A 1999 38-190(1)
+ANTS(GST)A 1999 Div 70
+ANTS(GST)A 1999 Div 84
+ANTS(GST)R 2019 40-5.09(3)
+ANTS(GST)R 2019 40-5.12
+Cases relied on:
+Axa Asia Pacific Holdings Ltd v Commissioner of Taxation
+[2008] FCA 1834
+(2008) 173 FCR 500
+2008 ATC 20-074
+(2008) 71 ATR 1
+Commissioner of Taxation v American Express Wholesale Currency Services Pty Limited
+[2010] FCAFC 122
+187 FCR 398
+273 ALR 501
+2010 ATC 20-212
+77 ATR 12
+Commissioner of Taxation v MBI Properties Pty Ltd
+[2014] HCA 49
+254 CLR 376
+2014 ATC 20-474
+(2014) 92 ATR 241
+HP Mercantile Pty Ltd v Commissioner of Taxation
+[2005] FCAFC 126
+2005 ATC 4571
+2005 ATC 4571
+219 ALR 591
+(2005) 60 ATR 106
+Rio Tinto Services Ltd v Commissioner of Taxation (first instance)
+[2015] FCA 94
+98 ATR 390
+2015 ATC 20-489
+Rio Tinto Services Limited v Commissioner of Taxation
+[2015] FCAFC 117
+235 FCR 159
+2015 ATC 20-525
+Visa International Service Association v Reserve Bank of Australia
+[2003] FCA 977
+(2003) 131 FCR 300
+Back to top

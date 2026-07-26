@@ -1,0 +1,638 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 129
+  • Div 358
+  • Div 72
+  • Div 75
+  • Division 358
+  • Division 129
+  • Division 72
+  • Division 75
+  • Subdivision 153-B
+  • Subdivision 153-B
+  • Subdivision 38-J
+  • div 153
+  • div 38
+  • division 153
+  • division 153
+  • division 38
+
+Cases Referenced:
+  • Herdegen v. Federal Commissioner 
+  • In
+Herdegen v. Federal Commissioner 
+  • Ingram v. Inland Revenue Commissioners
+
+  • Palette Shoes Pty Ltd v. Krohn
+(1937) 58 CLR 1
+  • Partners v. Customs 
+  • Pty Ltd v. Commissioner 
+  • Saga Holidays Limited v. Commissioner 
+  • Saga Holidays Ltd v Commissioner 
+
+Topics: CGT, GST, FBT, Trusts, Partnerships
+
+
+
+================================================================================
+
+GSTR 2008/3 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+48 related documents
+Goods and Services Tax Ruling
+GSTR 2008/3
+Goods and services tax: dealings in real property by bare trusts
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+9
+Background
+11
+Ruling with explanation
+24
+Detailed contents list
+85
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 105-60 of Schedule 1 to the
+Taxation Administration Act 1953.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling explains how the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act) applies to supplies of real property
+[1]
+involving bare trusts and similar trusts where the trustee has limited active duties and acts solely at the direction of the beneficiary or beneficiaries.
+2. In particular, the Ruling considers the circumstance where an entity, in the course of its enterprise, causes the trustee of real property (held on a bare trust for the entity) to transfer the property to a third party.
+3. This Ruling also considers the GST issues that may arise in the formation and termination of the trust, and notes how the views expressed in relation to these matters interact with the tax invoice, margin scheme and going concern provisions.
+4. With the exception of certain resulting trusts referred to in this paragraph, this Ruling applies only to bare trusts created intentionally by written instrument or created orally where the creation of the trust is recorded in writing. This includes bare trusts created by deed or declaration of trust or where the creation of the trust is recorded in minutes of a meeting of the trustee and settlor of the trust, a resolution of the trustee or a document executed by a third party.
+[2]
+The Ruling also applies to the form of bare trust (known as a resulting trust) that is created, without a declaration of trust or other instrument, where an intending purchaser places funds in the hands of a nominee to purchase real property for the intending purchaser and the legal title to the real property is transferred to the nominee and not the intending purchaser.
+5. This Ruling does not deal with transactions in relation to trust property where the activities of the trust amount to the trust carrying on an enterprise involving the trust property.
+6. This Ruling does not deal with managed investment schemes.
+7. This Ruling sets out the Commissioner's views in the context of the GST Act. Nothing in this Ruling should be taken as applying to bare trusts in other contexts, such as income tax or fringe benefits tax.
+8. All legislative references in this Ruling are to the GST Act, unless indicated otherwise.
+Date of effect
+9. This Ruling applies [to tax periods commencing] both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+10. Changes made to this Ruling by Addenda that issued on 15 October 2008, 31 October 2012, 27 March 2013 and 2 October 2013 have been incorporated into this version of the Ruling.
+[2A]
+Background
+11. An entity (B) that carries on an enterprise may, for reasons of convenience or anonymity, arrange for real property which is to be used in its enterprise to be acquired by another entity (T) to hold on a bare trust for B - that is, subject to an obligation to transfer legal title to the asset to B, or to a third party if B so directs, and with no other active duties to perform.
+[3]
+12. Alternatively, the trust may not strictly be a bare trust, because the trustee has minor active duties to perform, but nevertheless the trustee is required to act at the direction of the beneficiary in dealing with title to the trust property. Where this Ruling refers to 'bare trusts' it should also be taken to refer to trusts of this kind which may not strictly fall within accepted definitions of bare trusts but share similar features. The key point is that the trustee only acts at the direction of the beneficiary in respect of the relevant dealings
+[4]
+in the trust property and has no independent role in respect of the trust property.
+13. An example of an arrangement where a bare trust may be created is where a general law partnership
+[5]
+(B) decides to acquire and develop real property for sale. The partners may not wish to disclose their names to the vendor of the property and so arrange for a company (T) that they control to acquire title to the property. If there are a large number of partners, it may also be more convenient for the partnership to have a single company that can execute legal documents associated with the acquisition, development and disposal of the property. T acquires and holds the legal title to the property on trust for B. T has no discretion regarding the use and disposal of the trust property and deals with it solely at the direction of B.
+Legislative context
+14. In applying the GST Act, it is relevant to identify the supplier, the recipient, and whether the supply is made in the course of carrying on an enterprise.
+15. The GST Act treats a trust as an entity.
+[6]
+It does not distinguish between bare trusts and other types of trusts and there are no special rules for bare trusts.
+16. The definitions of supply
+[7]
+and of acquisition
+[8]
+are very wide.
+17. Central to the operation of the GST Act is the concept of carrying on an enterprise.
+[9]
+It is one of the elements required to be satisfied for the making of a taxable supply under section 9-5 which relevantly states:
+You make a
+taxable supply
+if:
+(a)
+you make the supply for *consideration; and
+(b)
+the supply is made in the course or furtherance of an *enterprise that you *carry on; ...
+18. 'Carrying on an enterprise' is also a necessary requirement for the making of a creditable acquisition under section 11-5 which relevantly states:
+You make a
+creditable acquisition
+if:
+(a)
+you acquire anything solely or partly for a *creditable purpose; and
+...
+19. In turn, subsection 11-15(1) provides:
+You acquire a thing for a
+creditable purpose
+to the extent that you acquire it in *carrying on your *enterprise.
+20. In order for an input tax credit to which you are entitled for a creditable acquisition to be attributed to a tax period, you generally must hold a tax invoice
+[10]
+that complies with the GST Act.
+21. The requirements for a document to be a tax invoice are contained in subsection 29-70(1).
+22. Division 75 sets out special rules for supplies of real property under the margin scheme. For the margin scheme to apply, the supplier and the recipient must agree in writing that the margin scheme is to apply.
+[11]
+23. Subdivision 38-J sets out special rules for the GST-free supply of a going concern. For this exemption to apply, the supplier and recipient must agree in writing that the supply is a supply of a going concern.
+Ruling with explanation
+24. This Ruling deals with transactions involving bare trusts mainly in a way that does not rely on a finding of agency. However, it is recognised that some transactions may involve an entity dealing with property in an agency capacity even though the entity holds the legal title to the property on trust. The general principles of agency are dealt with here only briefly so far as necessary to distinguish transactions that, although involving an entity that holds property under a bare trust, are able to be analysed by reference to agency principles.
+General principles - agency
+25. Agency is a relationship under which an entity is authorised by another party to do something on behalf of that other party. The entity is called an agent and the party who authorises the agent to act on their behalf is called the principal.
+[12]
+26. In some circumstances, having regard to the terms of the documents governing the creation of the trust, the trustee's obligations, the terms of any agreement between the parties and all other relevant circumstances, it may be established that in a particular transaction an entity deals with the trust property in the capacity of agent for B. This may be so even though the trustee holds the legal title to the trust property on trust for B. For instance, the documents may expressly provide that the trustee is to deal with the property as agent for B. In those circumstances, if the actions of the parties are consistent with the express terms, the trustee may acquire or supply the property as agent for B.
+[13]
+27. This is unlikely to occur in the case of a strict bare trust, where the only obligation
+[14]
+of the trustee is to transfer title to the trust property to B or to a third party at B's direction. In those circumstances, any transfer of title to the property is likely to be pursuant to the trustee's trust obligation rather than as agent for B. However, it may occur in circumstances where B has expressly empowered the entity that holds or is to hold the legal title to property on trust to act as B's agent in relation to the acquisition or disposal of the property.
+28. Where property is acquired or supplied as agent for another, normal agency principles apply. This means that the acquisition or supply is made by the principal, not the agent, and subject to special rules (Subdivision 153-B) it is the principal that has the relevant obligations and entitlements under the GST Act in relation to the supply or acquisition. This is so even though the legal title to the property is held by the trustee on trust for B.
+[14A]
+General principles - bare trusts
+29. A bare trust arrangement does not in itself create the relationship of agency between the trustee and beneficiary. An entity does not, merely by acting in its capacity as bare trustee, contract as agent for the beneficiary of the trust but as principal.
+[15]
+Accordingly, transactions involving a bare trust, without more, need to be analysed in a way that does not rely on a finding of agency.
+30. In applying the GST law to a dealing in real property held on a bare trust, the question arises as to which entity makes the relevant taxable supply or creditable acquisition as the case may be - the trustee or the beneficiary.
+31. In resolving that question, it is necessary to have regard to the scheme of the GST Act.
+32. For a supply to be a taxable supply under section 9-5, the entity making the supply must do so in the course or furtherance of an enterprise it carries on. Similarly, an entity makes an acquisition for a creditable purpose under section 11-15 to the extent that the entity makes the acquisition in carrying on its enterprise.
+33. It follows from these provisions that the GST Act concerns itself with supplies and acquisitions by entities in the course or furtherance of, or in carrying on, their enterprises.
+34. The term 'enterprise' is relevantly
+[16]
+defined in subsection 9-20(1) as follows:
+An
+enterprise
+is an activity, or series of activities, done:
+(a)
+in the form of a *business; or
+(b)
+in the form of an adventure or concern in the nature of trade; or
+(c)
+on a regular or continuous basis, in the form of a lease, licence or other grant of an interest in property; or ...
+[17]
+35. Subsection 184-1(1) treats a trust as an entity. Subsection 184-1(2) goes on to note that the trustee of a trust is taken to be an entity consisting of the person who is the trustee at any given time. Subsection 184-1(3) confirms that a legal person can have a number of different capacities in which the person does things and in each of those capacities the person is taken to be a different entity.
+36. These provisions do not create two separate entities for GST purposes - the trust and the trustee - but rather the relevant entity is the trust, with the trustee standing as that entity when a legal person is required.
+[18]
+However, it is necessary to distinguish between the entity that is the trustee acting in that capacity and that entity acting in its own right which are treated as separate entities for GST purposes.
+37. The activities of a bare trustee are essentially passive in nature. A trustee of the type of trust considered in this Ruling has either no active duties to perform or only minor active duties. A bare trust as that term is used in this Ruling does not carry on an enterprise for GST purposes by virtue of its dealings in the trust property.
+[19]
+38. On the other hand, a beneficiary of a bare trust may carry on an enterprise involving an asset held on trust for the beneficiary by the bare trustee. For instance, in the example at paragraph 11 of this Ruling, despite legal title to the property being held by T, the property is used by B in carrying on its enterprise.
+39. If the asset is sold, the transaction will involve a transfer of the legal title to the property to a third party by the trustee at the direction of the beneficiary.
+40. The definition of 'taxable supply' concerns itself with supplies made in the course of an enterprise. It is the entity which conducts that enterprise that makes the relevant supply. In other words, if T transfers legal title to the property to a third party at the direction of B, it is B that causes the supply to be made in the course of its enterprise and is liable for GST, if the other requirements for a taxable supply in section 9-5 are met.
+[20]
+41. This is consistent with the scheme of the GST Act. There is nothing in the GST Act requiring legal title to the assets of an enterprise to be held or dealt with by the entity carrying on the enterprise, in order for taxable supplies or creditable acquisitions of the assets to be made.
+42. These conclusions are consistent with our understanding of the usual commercial practice in accounting for GST. They also accord with the approach to interpreting the GST Act adopted in
+Sterling Guardian Pty Ltd v. FC of T (Sterling Guardian
+)
+[21]
+where Stone J said:
+The clear thrust of the GST Act, both in its wording and as explained in the EM, is that of a practical business tax imposed with respect to elements of commerce. As Senior Counsel for the respondent pointed out, although in economic terms the burden of the GST is borne by the ultimate consumer, in terms of 'imposition, collection and administration' it is a tax on business. It is for the taxpayer to prepare business activity statements and pay the appropriate GST and in this context abstract propositions about interests in land and the acquisition of a brand new set of rights arising from registration of a strata plan are irrelevant.
+[22]
+43. Her Honour's approach was upheld on appeal by the Full Federal Court.
+[23]
+44. The practical business approach to GST as described by Stone J was confirmed by the Full Federal Court in
+Saga Holidays
+.
+[24]
+Stone J, with whom the other members of the Full Court agreed, saw this as part of the context for the interpretation of the GST legislation. Her Honour also approved the approach of Lord Hoffman in
+Beynon and Partners v. Customs and Excise Commissioners (Beynon
+)
+[25]
+in focussing on the 'social and economic reality' of a transaction.
+[26]
+Summarising the outcomes
+45. The outcomes applying in the circumstances described in this Ruling may be summarised as follows:
+Outcome 1
+The beneficiary (B) of a bare trust may carry on an enterprise involving the use or exploitation of real property even though title to the property is registered in the name of a bare trustee (T).
+Outcome 2
+B may make supplies and acquisitions of real property in the course or furtherance of its enterprise even though title to the property is transferred or received by T.
+Outcome 3
+B may make supplies in the course or furtherance of its enterprise for consideration even though the consideration is received by T who is bound to pay the consideration to B or at B's direction. Therefore B, not T, has the liability for GST if the supply is a taxable supply.
+Likewise, B may make acquisitions in the course or furtherance of its enterprise for consideration even though T provides the consideration (furnished to T by B) to the supplier. Therefore B, not T, has the entitlement to an input tax credit if the acquisition is a creditable acquisition.
+Outcome 4
+A bare trust involving a trustee holding real property on behalf of a beneficiary does not carry on an enterprise, merely by the trustee dealing with the property at the direction of the beneficiary.
+A cycle of transactions
+46. That the conclusions outlined in this Ruling give practical effect to the GST Act may be evidenced by examining a cycle of transactions in the context of a bare trust arrangement.
+Example
+47. We illustrate this with the following example:
+(1)
+B carries on a land development enterprise
+.
+(2)
+B wishes to purchase some land on which it will construct a strata titled residential unit development. However, for reasons of anonymity, B acquires a shelf company (T) to hold the land as a bare trustee for B. T executes a declaration of trust under which it declares that if it acquires title to the land it will hold the title to the land, and any strata titled units to be constructed on the land, on a bare trust for B and act at all times only at the direction of B in respect of the land and units
+.
+(3)
+T enters into a contract for the acquisition of the land from S. B provides the monies
+[27]
+to enable T to complete the contract. T becomes the legal owner of the land but holds the title to the land on trust for B
+.
+(4)
+B wishes to use the margin scheme in respect of sales of the units
+. (
+The supply by S was either not subject to GST or GST was calculated by S under the margin scheme
+.)
+(5)
+B arranges for the unit development to be constructed, engaging all contractors and meeting all costs. Where documents are required to be signed by the legal owner of the land, for instance to meet local authority requirements, B arranges for T to do so
+.
+(6)
+B engages a real estate agent to market the units. The real estate agent's procedures require that its engagement documents be signed by the legal owner of the property to be sold. B arranges for T to execute the documents
+.
+(7)
+Because the market is slow, B arranges with the real estate agent for several of the units to be rented pending sale. B instructs the agent that all decisions regarding leasing are to be made by B. T executes the leases. At the end of each month, the real estate agent deposits the net rent to a bank account in the name of B. If on any occasion expenses exceed receipts, B furnishes any funds necessary to meet the shortfall
+.
+(8)
+When buyers for the units are found, B arranges for the contracts of sale to be executed by T. Similarly, the transfer documents to complete the sales are executed by T at B's direction. T and the buyer in each case agree that the margin scheme is to be applied to work out the GST on the sales
+.
+(9)
+At the end of the project, B decides to retain one of the units and instructs T to transfer title to the unit to B. T executes the transfer document which B lodges for registration at the land titles office
+.
+(10)
+B later sells that unit to a third party
+. (
+The sale occurs less than 5 years after the unit was built
+.)
+Creation of the trust
+48. In this example, the trust is created by T acquiring the legal title to the land after first executing the declaration of trust. T holds the legal title to the land subject to a bare trust in favour of B from the moment it acquires title to the land. There are no GST implications in respect of the creation of the trust. As the land is subject to the trust from the outset, there is no supply of an interest in the land by T to B. In any case, T does not carry on any enterprise in respect of the land.
+49. A less common alternative is that B may first acquire the land and then transfer title to the land to T to hold on a bare trust for B. In those circumstances, there is no taxable supply by B to T. This is because no consideration is provided by T to B in respect of the transfer of the legal title.
+[28]
+50. We consider that Division 72 (associates) does not apply in these circumstances. That is because, even if the provisions of Division 72 are otherwise satisfied, the market value of the supply is, having regard to the circumstances of the transfer of the legal title, nil. In substance, only the legal title is transferred. The land remains an asset to be used in B's enterprise. As the legal title of itself is of no economic value, the market value is nil.
+51. We consider that the analysis to be applied in a GST context is different from that which may apply in other contexts.
+[29]
+While the subject matter of the conveyance or other legal instrument may be relevant for income tax purposes (such as capital gains tax) or for stamp duty purposes, for GST purposes a more practical approach is required, focussing upon what is in fact supplied. What is in fact supplied by B in these circumstances is the mere legal title to the property to be held at all times by T on the terms of a bare trust for B.
+Acquisition of the land
+52. Returning to the example at paragraph 47 of this Ruling, B acquires the land in the course of its enterprise by causing T to obtain legal title to the land from S, with the purchase monies provided by B. Title at all times is to be held upon a bare trust for B. B would be entitled to an input tax credit in respect of the acquisition of the land if the requirements for a creditable acquisition were satisfied.
+53. However, in the circumstances of this example, B is not entitled to an input tax credit on the acquisition of the land because the supply by S was either not subject to GST or GST was calculated by S under the margin scheme.
+54. T would not be entitled to an input tax credit in respect of the acquisition of the land, even if the supply by S were a taxable supply on which GST was not calculated under the margin scheme. This is because T does not acquire the title to the land in the course of an enterprise that it carries on.
+Other acquisitions
+55. Acquisitions relating to the development and sale of the units, such as construction and real estate agency services, are made by B. Since B acquires those services in the course of its enterprise it is entitled to input tax credits on the acquisitions, subject to the usual rules for input tax credit entitlements. This is so where, although B provides the monies for the acquisitions, legal documents such as contracts or local authority forms, may be executed by T at B's direction.
+56. T is not entitled to input tax credits for such acquisitions as it does not make the acquisitions in the course of an enterprise that it carries on in respect of the land.
+Leasing of units to third parties
+57. The supplies made by leasing the residential units to third parties pending sale are input taxed supplies. Although T executes the lease agreements as the legal owner of the units, it does so at the direction of B. It is in the course of B's enterprise that the leases are entered into. B may have an increasing adjustment under Division 129, in respect of acquisitions relating to the construction of the units, as a consequence of applying the acquisitions in making input taxed supplies by way of lease.
+58. T does not have any Division 129 adjustments as it did not acquire the land or other things in the course of any enterprise it carried on.
+Sales to third parties
+59. B makes taxable supplies of the units to third parties. It is in the course of B's enterprise that the sales of the units to third parties are made.
+60. Although it is T that executes the transfer documents that transfer title to the units to third party buyers, T is not liable for GST on the sales as it does not execute the transfers in the course of an enterprise that it carries on in respect of the land.
+61. Where B previously has had increasing adjustments under Division 129 in respect of acquisitions relating to the construction of the units, then as a consequence of some of the units being leased pending sale, B may have decreasing adjustments after the sales take place. T does not have any decreasing adjustments in respect of these things as it did not acquire the land or other things in the course of any enterprise it carried on.
+62. Subject to the usual requirements for the margin scheme, B may apply the margin scheme in working out the GST on the sales on the basis of the difference between the selling price of the units and the relevant proportion of the purchase price for the land.
+63. Alternatively, if the acquisition of the land occurred before 1 July 2000, B may wish to calculate the margin on the sales as the difference between the selling price of the units and the relevant proportion of the value of the land at 1 July 2000 calculated in accordance with the applicable margin scheme valuation determination.
+Transfer of trust property to beneficiary and subsequent sale by beneficiary
+64. T does not make a taxable supply by transferring legal title to the remaining trust property (that is, the unit to be retained by B) to B. This is because the transfer is not made in the course of an enterprise carried on by T in relation to the trust property.
+65. If B subsequently sells the unit to a third party, this would represent the first sale of the unit as new residential premises.
+[30]
+The earlier transfer of the legal title to the unit from T to B is not a sale as there is no consideration for the transfer.
+66. If calculating GST on the sale to the third party under the margin scheme, B would calculate the margin for the taxable supply on the basis described in paragraphs 62 and 63 of this Ruling.
+Other issues
+67. Having illustrated the GST bare trust principles in operation in the cycle of transactions example above, the following paragraphs consider other issues that may arise in relation to bare trusts.
+Change of trustee
+68. Where an asset held on a bare trust is an asset to be used in an enterprise of the beneficiary and this arrangement is to continue with a new trustee, there are no GST implications in respect of the change of legal title to the trust property.
+69. If legal title to the trust property is transferred from the outgoing trustee to the new trustee, the transfer is not a taxable supply as it is not made in the course of an enterprise carried on by the outgoing trustee in respect of the trust property. Similarly, the acquisition of the legal title by the new trustee is not a creditable acquisition as it is not made in the course of an enterprise carried on by the new trustee in respect of the trust property.
+70. As the asset remains an asset used in the beneficiary's enterprise, the principles set out in this Ruling in respect of adjustments the beneficiary may have and the application of the margin scheme continue to apply despite the change in the trustee of the trust.
+Change of beneficiary
+71. A trustee that has acted as bare trustee of an asset for one beneficiary carrying on an enterprise in relation to the asset may agree to act as bare trustee of the asset for a new beneficiary.
+72. If the beneficiary of a bare trust disposes of its beneficial interest in the trust property in favour of an entity whose interest will be held on a bare trust by the same trustee, the disposal by the outgoing beneficiary is a taxable supply if the requirements of section 9-5 are satisfied. Similarly, the acquisition by the incoming beneficiary is a creditable acquisition if the requirements of section 11-5 are satisfied.
+73. For example, if B assigns its interest in the land to a new beneficiary, the assignment is a taxable supply by B if the assignment is made for consideration and the other requirements of section 9-5 are satisfied.
+74. Similarly, the new beneficiary makes a creditable acquisition if the interest is acquired in the course or furtherance of its enterprise and the other requirements of section 11-5 are satisfied.
+Tax invoices
+75. This section considers whether tax invoice
+[31]
+requirements may be satisfied by the trustee of a bare trust issuing or receiving a tax invoice where the tax invoice relates to a supply or acquisition in the course of an enterprise carried on by the beneficiary in the circumstances described in this Ruling.
+76. A tax invoice is a document that complies with the following requirements:
+•
+it is issued by the supplier of the supply or supplies to which the document relates (paragraph 29-70(1)(a));
+•
+it is in the approved form (paragraph 29-70(1)(b));
+•
+it contains enough information to enable the following to be clearly ascertained:
+-
+the identity and ABN of the supplier (subparagraph 29-70(1)(c)(i));
+-
+the identity or ABN of the recipient if the total price of the supply or supplies is at least $1,000, or such higher amount as the regulations specify (subparagraph 29-70(1)(c)(ii));
+-
+what is supplied, including the quantity (if applicable) and the price (subparagraph 29-70(1)(c)(iii));
+-
+the extent to which each supply included on the document is a taxable supply (subparagraph 29-70(1)(c)(iv));
+-
+the date the document is issued (subparagraph 29-70(1)(c)(v));
+-
+the amount of GST (if any) payable in relation to each supply included on the document (subparagraph 29-70(1)(c)(vi)); and
+-
+such other matters as the regulations specify (subparagraph 29-70(1)(c)(viii));
+[31A]
+•
+it can be clearly ascertained from the document that the document was intended to be a tax invoice (paragraph 29-70(1)(d)); and
+•
+it sets out the GST branch registration number of the GST branch (if applicable) (subsection 54-50(1)).
+77. However, subsection 29-70(1B) gives the Commissioner discretion to treat as a tax invoice a particular document which is not a tax invoice.
+78. In accordance with the principles discussed in this Ruling, a supply or acquisition may be made in the course of an enterprise carried on by the beneficiary, such that the beneficiary is liable for GST or entitled to an input tax credit, notwithstanding that title to the relevant property is conveyed by or to a bare trustee for the beneficiary. As it is the beneficiary that makes the taxable supply or creditable acquisition, if the trustee issues or holds the tax invoice it does so on behalf of the beneficiary.
+79. The requirement for the supplier to issue or the beneficiary to hold a tax invoice is satisfied in those circumstances, as the trustee issues or holds the tax invoice on behalf of the beneficiary. For the same reasons, the requirement for the supplier to issue a tax invoice within 28 days after the recipient's request is satisfied by the trustee issuing the tax invoice.
+79A. The Commissioner has made a determination under subsection 29-10(3) to waive the requirement for the recipient to hold a tax invoice before attributing an input tax credit to a tax period, if certain circumstances are met. The circumstances are:
+•
+the trust or trustee's identity or ABN appear as the supplier or recipient instead of the beneficiary's,
+•
+the recipient or their agent holds a document that contains the identity and ABN of the trust or trustee (for supplies) or the identity or ABN of the trust or trustee (for acquisitions), and
+•
+the document otherwise satisfies the requirements of subsection 29-70(1).
+[31B]
+Agreement to apply the margin scheme
+80. For a supplier to be able to apply the margin scheme to work out the GST on a taxable supply of real property, the supplier and the recipient must agree in writing that this is to occur.
+[32]
+81. In accordance with the principles discussed in this Ruling, a supply or acquisition may be made in the course of an enterprise carried on by the beneficiary, notwithstanding that title to the relevant property is conveyed by or to a bare trustee for the beneficiary. In those circumstances, if the trustee agrees in writing that the margin scheme is to be applied, it does so, on behalf of the beneficiary.
+[33]
+The requirement for the supplier and the recipient to agree in writing to the margin scheme being applied is satisfied in those circumstances.
+Agreement that a supply is a supply of a going concern
+82. For a supply to be GST-free as a supply of a going concern, the supplier and the recipient must agree that the supply is a supply of a going concern.
+83. In accordance with the principles discussed in this Ruling, a supply or acquisition may be made in the course of an enterprise carried on by the beneficiary, such that the beneficiary is liable for any GST or entitled to any input tax credit, notwithstanding that title to the relevant property is conveyed by or to a bare trustee for the beneficiary. In those circumstances, if the trustee agrees in writing that the supply is a supply of a going concern, it does so on behalf of the beneficiary.
+[34]
+The requirement for the supplier or recipient, as the case may be, to agree to the supply being a supply of a going concern is satisfied in those circumstances.
+Multiple beneficiaries/trusts
+84. The example at paragraph 13 of this Ruling refers to a general law partnership. For GST purposes, a general law partnership is treated as a single entity.
+[35]
+The principles in this Ruling apply regardless of whether there is a single beneficiary or multiple beneficiaries of the bare trust.
+[36]
+Detailed contents list
+85. Below is a detailed contents list for this Goods and Services Tax Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+9
+Background
+11
+Legislative context
+14
+Ruling with explanation
+24
+General principles - agency
+25
+General principles - bare trusts
+29
+Summarising the outcomes
+45
+A cycle of transactions
+46
+Example
+47
+Creation of the trust
+48
+Acquisition of the land
+52
+Other acquisitions
+55
+Leasing of units to third parties
+57
+Sales to third parties
+59
+Transfer of trust property to beneficiary and subsequent sale by beneficiary
+64
+Other issues
+67
+Change of trustee
+68
+Change of beneficiary
+71
+Tax invoices
+75
+Agreement to apply the margin scheme
+80
+Agreement that a supply is a supply of a going concern
+82
+Multiple beneficiaries/trusts
+84
+Detailed contents list
+85
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Commissioner of Taxation
+25 June 2008
+Footnotes
+[1]
+Whether the analysis set out in this Ruling would apply to dealings in other types of trust property by bare trusts will depend upon a full analysis of the documents and surrounding circumstances in those cases. Nothing in this Ruling should be taken to imply that the same outcomes would be either required or precluded in those cases.
+[2]
+This restriction in the scope of the Ruling does not imply that the principles in the Ruling do not extend to undocumented arrangements. Such arrangements would need to be considered on their facts.
+[2A]
+Refer to each Addendum to see how that Addendum amends this Ruling.
+[3]
+In
+Herdegen v. Federal Commissioner of Taxation
+(1988) 20 ATR 24; 88 ATC 4995, Gummow J said at ATR 32; ATC 5003:
+Today the usually accepted meaning of 'bare' trust is a trust under which the trustee or trustees hold property without any interest therein, other than that existing by reason of the office and the legal title as trustee, and without any duty or further duty to perform, except to convey it upon demand to the beneficiary or beneficiaries or as directed by them, for example, on sale to a third party. The beneficiary may of course hold the equitable interest upon a sub-trust for others or himself and others:  see
+Halsbury's Laws of England,
+4th ed., Vol. 48, 'Trusts', para. 938. The term is usually used in relation to trusts created by express declaration. But it has been said that the assignor under an agreement for value for assignment of so-called 'future'' property becomes, on acquisition of the title to the property, trustee of that property for the assignee
+(Palette Shoes Pty Ltd v. Krohn
+(1937) 58 CLR 1 at p. 27) and this trust would answer the description of a bare trust. Also, the term 'bare trust' may be used fairly to describe the position occupied by a person holding the title to property under a resulting trust flowing from the provision by the beneficiary of the purchase money for the property.
+[4]
+This Ruling concerns itself primarily with dealings by way of sale or purchase of real property, but extends to dealings by way of granting or acquiring a licence or lease of real property. In all of these dealings, the consideration is provided to the trustee by, or received by the trustee for, the beneficiary. The trustee may nevertheless expend monies (provided by or received on behalf of the beneficiary) in maintaining the trust property in the course of its duties as bare trustee.
+[5]
+While a partnership has been chosen for this example, the principles it illustrates apply to other entities, such as companies, that may enter into bare trust arrangements.
+[6]
+Paragraph 184-1(1)(g).
+[7]
+Section 9-10.
+[8]
+Section 11-10.
+[9]
+'Enterprise' is defined in subsection 9-20(1). Section 195-1 provides that carrying on an enterprise includes doing anything in the course of the commencement or termination of an enterprise.
+[10]
+Subsection 29-10(3).
+[11]
+Subsection 75-5(1). However, for supplies made under contracts entered into before 29 June 2005, or made pursuant to rights or options granted before that day, a written agreement is not required.
+[12]
+'Agency' is discussed in Goods and Services Tax Ruling GSTR 2000/37 Goods and services tax:  agency relationships and the application of the law.
+[13]
+As long as it holds the title, the property is held by T as trustee, but the particular dealing is carried out in T's capacity as agent for B rather than pursuant to its trust obligations.
+[14]
+Apart from duties relating to protection of the trust property.
+[14A]
+For Subdivision 153-B purposes, principals and intermediaries including agents are treated as separate suppliers or acquirers.
+[15]
+Per Millett LJ in
+Ingram v. Inland Revenue Commissioners
+[1997] 4 All ER 395 at 427 who seems to be referring to a trustee he regards as a bare trustee.
+[16]
+Paragraphs (d) to (h) of the definition of enterprise have no application to a bare trustee.
+[17]
+'Enterprise' is discussed in Miscellaneous Tax Ruling MT 2006/1 The New Tax System:  the meaning of entity carrying on an enterprise for the purposes of entitlement to an Australian Business Number.
+[18]
+Paragraph 72, MT 2006/1.
+[19]
+Although an entity that is the trustee of a bare trust does not deal with the trust property in its capacity as trustee in the course of an enterprise that it carries on, the entity in its own right may receive consideration for its trustee services. In this capacity it may be carrying on an enterprise and entitled to register for GST purposes and be entitled to input tax credits on creditable acquisitions which relate to the trustee services. In those circumstances, the entity would also be liable for GST on the supply of the trustee services.
+[20]
+Similarly, in the case of input taxed and GST-free supplies, if, in the course or furtherance of its enterprise, B causes T to transfer the legal title to trust property held under a bare trust, it is B that makes the input taxed or GST-free supply. This analysis is restricted to the bare trust circumstances dealt with in this Ruling. It does not follow that in every case where an entity (A) causes another entity (B) to do something, A makes the supply of the thing done by B.
+[21]
+Sterling Guardian Pty Ltd v. FC of T
+[2005] FCA 1166; 2005 ATC 4796; (2005) 60 ATR 502;
+Sterling Guardian Pty Ltd v. FC of T
+(2006) 149 FCR 255; 2006 ATC 4227; (2006) 62 ATR 119; [2006] FCAFC 12.
+[22]
+Sterling Guardian Pty Ltd v. FC of T
+[2005] FCA 1166; 2005 ATC 4796; (2005) 60 ATR 502 at paragraph 39.
+[23]
+Sterling Guardian Pty Ltd v. FC of T
+[2006] FCAFC 12.
+[24]
+Saga Holidays Limited v. Commissioner of Taxation
+[2006] FCAFC 191 at [29].
+[25]
+Beynon and Partners v. Customs and Excise Commissioners
+[2005] 1 WLR 86.
+[26]
+Saga Holidays Limited v. Commissioner of Taxation
+[2006] FCAFC 191 at [43].
+[27]
+Consistent with the declaration of trust, these monies are not furnished as a loan from B to T. Rather they are furnished by B for T to apply at B's direction.
+[28]
+The absence of consideration furnished by a bare trustee upon acceptance of property to be held on trust was confirmed in a stamp duties context by the majority of the High Court (Brennan J dissenting) in
+DKLR Holding Company (No. 2) Pty Ltd v. Commissioner of Stamp Duties (NSW)
+(1982) 12 ATR 874; 82 ATC 4125
+(DKLR Holding Company).
+[29]
+For example, while the
+DKLR Holding Company
+case is authority for the proposition that no consideration is provided by a trustee accepting a transfer of the legal title trust property to be held on trust for the transferor, we consider that its conclusions regarding the value of the property conveyed do not apply to the GST issue regarding the value of the supply which depends on a proper consideration of the circumstances in which the supply is made.
+[30]
+'New residential premises' has the meaning given by section 40-75.
+[31]
+The discussion under this heading is also relevant to adjustment notes.
+[31A]
+At the time of issuing this Ruling, the regulations do not specify any other matters for tax invoices.
+[31B]
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Beneficiary of a Bare Trust) Legislative Instrument 2013.
+[32]
+Subsection 75-5(1). However, for supplies made under contracts entered into before 29 June 2005, or made pursuant to rights or options granted before that day, a written agreement is not required.
+[33]
+We do not consider it a contradiction that the supply or acquisition itself is made by the beneficiary in the course or furtherance of its enterprise but the particular activity of agreeing that the margin scheme applies to that supply or acquisition, when performed by the trustee, is carried out for the beneficiary. It is necessary to examine each activity separately when considering whether an entity carries out an activity as agent for another entity.
+[34]
+For the same reasons set out in the preceding footnote.
+[35]
+For the avoidance of doubt, section 184-5 of the GST Act provides that a supply, acquisition or importation made by or on behalf of a partner of a partnership in his or her capacity as a partner is taken to be a supply acquisition or importation by the partnership.
+[36]
+In
+Herdegen v. Federal Commissioner of Taxation
+(1988) 20 ATR 24; 88 ATC 4995, Gummow J acknowledged that the usually accepted meaning of the term 'bare trust' may involve more than one beneficiary. At ATR 32; ATC 5003, his Honour said:
+Today the usually accepted meaning of 'bare' trust is a trust under which the trustee or trustees hold property without any interest therein, other than that existing by reason of the office and the legal title as trustee, and without any duty or further duty to perform, except to convey it upon demand to the beneficiary or
+beneficiaries
+or as directed by
+them,
+for example, on sale to a third party [emphasis added].
+Previously released in draft form as GSTR 2007/D3
+References
+ATO references:
+NO  2007/13985
+ISSN: 1443-5160
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2000/37
+MT 2006/1
+Subject References:
+acquisition of assets
+goods and services tax
+GST input tax credits and creditable acquisitions
+GST invoices
+GST margin scheme
+GST sale of real property
+GST supplies and acquisitions
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A 1999
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-10
+ANTS(GST)A 1999 9-20(1)
+ANTS(GST)A 1999 11-5
+ANTS(GST)A 1999 11-10
+ANTS(GST)A 1999 11-15
+ANTS(GST)A 1999 11-15(1)
+ANTS(GST)A 1999 29-10
+ANTS(GST)A 1999 29-10(3)
+ANTS(GST)A 1999 29-70
+ANTS(GST)A 1999 29-70(1)(a)
+ANTS(GST)A 1999 29-70(1)(c)(i)
+ANTS(GST)A 1999 29-70(1)(c)(ii)
+ANTS(GST)A 1999 29-70(1)(c)(iii)
+ANTS(GST)A 1999 29-70(1)(c)(iv)
+ANTS(GST)A 1999 29-70(1)(c)(v)
+ANTS(GST)A 1999 29-70(1)(c)(vi)
+ANTS(GST)A 1999 29-70(1)(c)(viii)
+ANTS(GST)A 1999 29-70(1)(d)
+ANTS(GST)A 1999 29-70(1B)
+ANTS(GST)A 1999 29-70(2)
+ANTS(GST)A 1999 Subdiv 38-J
+ANTS(GST)A 1999 40-75
+ANTS(GST)A 1999 Div 75
+ANTS(GST)A 1999 75-5(1)
+ANTS(GST)A 1999 Subdiv 153-B
+ANTS(GST)A 1999 184-1(1)
+ANTS(GST)A 1999 184-1(1)(g)
+ANTS(GST)A 1999 184-1(2)
+ANTS(GST)A 1999 184-1(3)
+ANTS(GST)A 1999 184-5
+ANTS(GST)A 1999 195-1
+ANTS(GST)A 1999 Div 72
+ANTS(GST)A 1999 Div 129
+TAA 1953 Sch 1 Div 358
+Case References:
+Beynon and Partners v. Customs and Excise Commissioners
+[2004] 4 All ER 1091
+[2004] BTC 5794
+[2005] 1 WLR 86
+DKLR Holding Company (No.2) Pty Ltd v. Commissioner of Stamp Duties (NSW)
+(1982) 149 CLR 431
+82 ATC 4125
+(1982) 12 ATR 874
+Herdegen v. Federal Commissioner of Taxation
+(1988) 84 ALR 271
+88 ATC 4995
+(1988) 20 ATR 24
+Ingram v. Inland Revenue Commissioners
+[1997] 4 All ER 395
+Palette Shoes Pty Ltd v. Krohn
+(1937) 58 CLR 1
+[1937] ALR 432
+(1937) 11 ALJR 159
+Saga Holidays Ltd v Commissioner of Taxation
+(2006) 156 FCR 256
+2006 ATC 4841
+(2006) 64 ATR 602
+[2006] FCAFC 191
+Sterling Guardian Pty Ltd v. FC of T
+[2005] FCA 1166
+2005 ATC 4796
+(2005) 60 ATR 502
+Sterling Guardian Pty Ltd v. FC of T
+(2006) 149 FCR 255
+2006 ATC 4227
+(2006) 62 ATR 119
+[2006] FCAFC 12
+Other References:
+A New Tax System (Goods and Services Tax) Waiver of Tax Invoice Requirement (Acquisitions from or Acquisitions by a Beneficiary of a Bare Trust) Legislative Instrument 2013
+Halsbury's Laws of England, 4th edition, Vol 48, 'Trusts'
+GSTR 2008/3 history
+Date:
+Version:
+Change:
+25 June 2008
+Original ruling
+15 October 2008
+Consolidated ruling
+Addendum
+31 October 2012
+Consolidated ruling
+Addendum
+27 March 2013
+Consolidated ruling
+Addendum
+You are here
+2 October 2013
+Consolidated ruling
+Addendum
+Back to top

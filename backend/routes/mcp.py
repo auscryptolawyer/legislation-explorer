@@ -3,17 +3,28 @@ from __future__ import annotations
 
 from fastapi import APIRouter, Request
 from fastapi.responses import JSONResponse
+from pydantic import BaseModel
 
 from backend.mcp_token_manager import token_manager
 
 router = APIRouter()
 
 
+class CreateTokenRequest(BaseModel):
+    name: str = ""
+
+
 @router.post("/api/mcp-token")
-def create_mcp_token():
-    """Create a new MCP access token."""
-    token = token_manager.create_token()
+def create_mcp_token(body: CreateTokenRequest):
+    """Create a new named MCP access token."""
+    token = token_manager.create_token(body.name)
     return {"token": token, "message": "Copy this token now — it will not be shown again."}
+
+
+@router.get("/api/mcp-hall-of-fame")
+def mcp_hall_of_fame():
+    """Leaderboard of MCP call counts by token name, over all-time/monthly/daily windows."""
+    return token_manager.hall_of_fame()
 
 
 @router.get("/api/mcp-tokens")

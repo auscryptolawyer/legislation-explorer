@@ -1,0 +1,223 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Div 290
+  • Div 7A
+  • Division 290
+  • Division 7A
+  • Subdivision 122-A
+  • div 122
+  • division 122
+
+Topics: CGT, Div 7A, Trusts, Companies, Superannuation
+
+
+
+================================================================================
+
+TA 2023/1 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+6 related documents
+Taxpayer Alert
+TA 2023/1
+Interposition of a holding company to access company profits tax-free
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Table of Contents
+Paragraph
+Overview
+1
+Description
+6
+Example
+7
+What are our concerns?
+18
+What are we doing?
+20
+What should you do?
+21
+Do you have information?
+23
+About Taxpayer Alerts
+Alerts provide a summary of our concerns about new or emerging higher risk tax or superannuation arrangements or issues that we have under risk assessment.
+While an Alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an Alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more about alerts. See
+Alerts
+issued to date.
+Overview
+1. We are currently reviewing arrangements where an individual accesses the profits of a private company in tax-free form (that is, without an additional tax liability for the individual) by arranging for the profits to be passed to the individual through an interposed holding company (interposed company).
+2. In these arrangements, a company is interposed between a private company with retained profits (first company) and its shareholder, and a capital gains tax (CGT) roll-over is applied to disregard the CGT consequences.
+[1]
+3. The first company then pays a franked dividend to the interposed company, which uses the proceeds to fund a loan to the individual, on terms which do not comply with section 109N of the
+Income Tax Assessment Act 1936.
+All legislative references in this Alert are to that Act, unless otherwise indicated.
+4. The roll-over enables the shareholder to disregard for tax purposes the capital gain they make on disposal of their shares in the first company.
+[2]
+Further, the arrangements are structured so that Division 7A of Part III would not apply to treat the loan to the individual as an assessable dividend. That is because the interposition of the company and the subsequent dividend paid by the first company is to ensure that neither company has a distributable surplus for the purposes of Division 7A.
+[3]
+As a result, the individual seeks to access, and purports to be able to access, the retained profits of the first company in a tax-free form.
+5. This Alert applies to arrangements which, when viewed objectively, indicate that the dominant purpose of the arrangements is tax avoidance by enabling the individual to obtain a tax advantage or benefit.
+Description
+6. These arrangements typically display all or most of the following features:
+•
+A private company (first company) has retained profits on which it may have paid tax at the corporate rate. Shares in the first company are held by an individual who may also be a director of the first company.
+•
+The individual disposes of their shares in the first company to a private company (interposed company), receiving shares in the interposed company in return.
+•
+The shares in the interposed company are issued at a paid-up amount being the same as, or similar to, the net assets of the first company which includes the retained profits of the first company.
+•
+The individual applies a CGT roll-over, such as the CGT roll-over in Subdivision 122-A of the ITAA 1997, to disregard for tax purposes any capital gain on the disposal of those shares in the first company.
+•
+The first company declares a franked dividend to the interposed company.
+•
+The first company discharges its liability to pay the dividend by ways such as cash, cheque or promissory note.
+•
+The interposed company provides a loan to the individual, sourced from the dividend received. The terms of the loan do not comply with section 109N.
+[4]
+For example, the loan may be interest-free and repayable at call.
+•
+Neither the interposed company nor the first company have sufficient distributable surplus
+[5]
+for Division 7A to treat the loan made to the individual as a deemed dividend (whether directly from the interposed company or indirectly from the first company).
+•
+Viewed objectively, the arrangements have the dominant purpose of tax avoidance.
+Example
+7. The following example illustrates the broader features of these arrangements. Our concern is not limited to the specific scenario described but, rather, can apply to variations of that scenario with its main features. Variations include where shares in the first company are pre-CGT shares or a holding company is interposed between a trustee shareholder and a company.
+Diagram: Interposition of a holding company to access company profits
+8.
+Jack is the sole shareholder and director of AustCo Pty Ltd (AustCo), an Australian private company. As at 31 May 2020, he has 10 ordinary shares in AustCo fully paid up to $1 each. AustCo has cash at bank of $1 million, consisting of the $10 paid-up share capital and accumulated profits of $999,990 from prior year trust distributions. AustCo has no other assets. Jack wants to access the retained profits for private purposes.
+9.
+On 4 June 2020, Jack incorporates a company, HoldCo Pty Ltd (HoldCo), for which he is the sole director and shareholder, holding one ordinary share fully paid up to $1.
+10.
+On 15 June 2020, Jack transfers his 10 ordinary shares in AustCo (valued at $1 million) to HoldCo and, in return, HoldCo issues Jack a million ordinary shares fully paid up to $1 each. Both Jack and HoldCo adopt the amount of $1 million as being the consideration for the transaction.
+11.
+Jack makes a choice for roll-over relief under Subdivision 122-A of the ITAA 1997. Accordingly, the capital gain made by Jack from the disposal of his AustCo shares to HoldCo is disregarded.
+12.
+On 29 June 2020, AustCo declares and pays a fully franked dividend of $999,990 to HoldCo, as its only shareholder.
+13.
+On 30 June 2020, HoldCo lends $999,990 to Jack on terms which are unsecured, interest-free and repayable at call.
+14.
+The accounting records for both HoldCo and AustCo show nil distributable surplus as at 30 June 2020.
+[6]
+Therefore, Division 7A does not operate to treat Jack as having received a dividend in the 2019-20 income year.
+15.
+AustCo is then wound up. The loan remains uncalled and outstanding.
+16.
+Putting to one side the taxation outcomes, AustCo could have provided its accumulated profits to Jack by far simpler means, such as by paying him a dividend or providing him with an interest-free, unsecured loan (which would also be assessable as a deemed dividend under Division 7A).
+[7]
+17.
+Viewed objectively, the arrangements appear to have the dominant purpose of avoiding tax.
+What are our concerns?
+18. We are concerned that individual taxpayers and private companies under their control may be entering into these arrangements under the misapprehension that they are effective in avoiding additional tax being paid by the individual taxpayer. We will closely examine these arrangements, including those where a holding company is interposed between a trustee shareholder and a company as similar concerns apply.
+19. More specifically, aspects of the arrangement that concern us include whether:
+•
+there is any intention for the purported 'loan' to the individual to be repaid or whether the amount may be taken to be an assessable dividend paid to the individual pursuant to section 109C of Division 7A
+[8]
+•
+the arrangements comprise a 'dividend stripping' scheme or operation, such that
+-
+section 177E applies to include the amount of the purported loan in the taxpayer's assessable income, and
+-
+section 207-145 of the ITAA 1997 applies to cancel the franking credit on the dividend paid to the interposed company, or
+•
+this is a scheme under section 177D to which the general anti-avoidance provisions in Part IVA apply.
+What are we doing?
+20. We are actively reviewing these arrangements. Taxpayers and advisers who enter into these types of arrangements will be subject to increased scrutiny.
+What should you do?
+21. If you have entered or are contemplating entering into an arrangement of this type, we encourage you to:
+•
+phone or email us using the contact details provided at the end of this Alert
+•
+ask us for our view through a private ruling
+•
+seek independent professional advice, or
+•
+make a voluntary disclosure to reduce penalties that may apply.
+22. Penalties may apply to participants in and promoters of this type of arrangement. This includes serious penalties for promoters under Division 290 of Schedule 1 to the
+Taxation Administration Act 1953.
+Registered tax agents involved in the promotion of this type of arrangement may be referred to the Tax Practitioners Board to consider whether there has been a breach of the
+Tax Agent Services Act 2009.
+Do you have information?
+23. To provide information about this type of arrangement or a promoter of this or another arrangement:
+•
+phone us on 1800 060 062
+•
+complete the
+ATO Tip-Off Form
+.
+•
+contact the officer named in this Taxpayer Alert.
+Commissioner of Taxation
+8 February 2023
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Amendment history
+Date of amendment
+Comment
+19 January 2024
+Updated ATO tip-off hotline number
+Date of Issue:
+8 February 2023
+Date of Effect:
+N/A
+[1]
+We note the concerns raised in this Alert are not limited to a particular CGT roll-over (such as the roll-over under Subdivision 122-A of the
+Income Tax Assessment Act 1997
+)
+[2]
+There are generally cost base implications for both the holding company shares and the shares transferred to the holding company which could result in a future capital gain, should a subsequent CGT event occur.
+[3]
+Section 109Y.
+[4]
+A loan is a section 109N complying loan if it satisfies the conditions in section 109N, being that the loan agreement is in writing, the rate of interest payable on the loan is at least equal to the benchmark interest rate and the term of the loan does not exceed 7 years for an unsecured loan or 25 years for a loan secured by a mortgage over real property.
+[5]
+Where either the first company or the interposed company has a distributable surplus, Division 7A will operate to treat the loan as a deemed dividend to the extent of that surplus.
+[6]
+As at 30 June 2020, the accounting records of HoldCo provide that the $1,000,001 net assets (consisting of $999,990 loan receivable, 10 shares in AustCo fully paid up to $1, and $1 cash at bank) is equal to the amount of paid-up share capital ($1,000,001). The accounting records of AustCo provide that the $10 net assets ($10 cash at bank) is equal to the amount of paid-up share capital ($10).
+[7]
+Ordinarily, in the absence of anything more, we expect the distribution of accumulated profits from a company would be made as a dividend.
+[8]
+Amounts the company is taken by section 109C to have paid as dividends are added back into the distributable surplus calculation at 'Division 7A amounts', resulting in the distributable surplus increasing. See subsection 109Y(2).
+File  1-UMB2L06
+Legislative References:
+ITAA 1936 Div 7A
+ITAA 1936 109N
+ITAA 1936 109Y
+ITAA 1936 Pt IVA
+ITAA 1936 177D
+ITAA 1936 177E
+ITAA 1997 Subdiv 122-A
+ITAA 1997 207-145
+TAA 1953 Sch 1 Div 290
+Tax Agent Services Act 2009
+Contact officer:
+Julian Wright
+Email address:
+julian.wright@ato.gov.au
+Telephone:
+(07) 3121 7653
+ISSN:
+2651-9550
+TA 2023/1 history
+Date:
+Version:
+8 February 2023
+Original alert
+You are here
+19 January 2024
+Updated alert
+Back to top

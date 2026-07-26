@@ -1,0 +1,214 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Div 1A
+  • Div 290
+  • Division 1A
+  • Division 290
+
+Topics: Trusts, Companies, Superannuation, International
+
+
+
+================================================================================
+
+TA 2020/5 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+4 related documents
+Taxpayer Alert
+TA 2020/5
+Structured arrangements that provide imputation benefits on shares acquired where economic exposure is offset through use of derivative instruments
+Alerts provide a summary of our concerns about new or emerging higher risk tax or superannuation arrangements or issues that we have under risk assessment.
+While an Alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an Alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more about alerts. See
+Alerts
+issued to date.
+Overview
+We are reviewing arrangements that are intended to provide imputation benefits to Australian taxpayers in respect of a parcel of shares
+[1]
+where, as a result of derivative instruments entered into as part of the arrangement, the taxpayer retains no or nominal economic exposure to the dividend and capital performance associated with that parcel of shares.
+The arrangements involve an Australian taxpayer who already holds an existing long position in a portfolio of Australian shares acquiring additional parcels of Australian shares (or interests in shares) and, on the same day or about the same time, entering into derivative instruments (that are a short position) in relation to those additional shares.
+While the derivative instruments themselves may differ, typically these arrangements result in the taxpayer having no or nominal economic exposure to both the dividend and capital performance associated with those additional shares.
+Due to the taxpayer's existing holding of Australian shares, the taxpayer calculates the delta of their overall net position to be greater than 0.3. That is, the taxpayer relies on an existing long position of Australian shares to purport to meet the substantive integrity rules in Division 1A of former Part IIIAA of the
+Income Tax Assessment Act 1936
+(ITAA 1936) in relation to holding shares at risk for the purposes of claiming franking credits. This results in the taxpayer claiming franking credits in respect of both the existing Australian shares and the additional parcel of shares.
+Setting aside the original holding of Australian shares, these arrangements result in the taxpayer holding the additional parcel of Australian shares at no or nominal risk, such that the franking credits are generally the only return of significance
+[2]
+relating to the additional Australian shares acquired.
+Description
+Relevant arrangements usually display most or all of the following features:
+•
+The taxpayer holds a long position in an existing portfolio of Australian shares and calculates the delta of their net position to be greater than 0.3.
+•
+The taxpayer enters into a transaction or series of transactions (Transactions) under which the taxpayer
+-
+acquires an additional parcel of Australian shares either directly and/or through an investment trust under circumstances that are not consistent with the taxpayer's usual pattern of investment of maintaining their target asset allocation, and
+-
+at or about the same time, enters into a derivative instrument
+[3]
+, or a series of derivative instruments, that substantially reduces the taxpayer's economic exposure to the dividend and capital performance associated with the additional parcel of shares.
+•
+The taxpayer aggregates the deltas of the existing portfolio of Australian shares, the additional parcel of Australian shares, and the derivative instruments to arrive at a net delta position of at least 0.3 for its aggregate portfolio holding of Australian shares.
+•
+The taxpayer purports that the holding period rules in Division 1A of former Part IIIAA of the ITAA 1936 are satisfied in respect of the entire portfolio of Australian shares and therefore claims the franking credits associated with the additional parcel of shares.
+•
+When the Transactions are viewed in isolation, the delta of the additional parcel of shares is reduced to less than 0.3 and will usually be zero or close to zero.
+An arrangement may occur as part of a transaction where the taxpayer is seeking to gain additional economic exposure to Australian shares. Our concerns are limited to the extent of the additional Australian shares that are held with no or nominal economic exposure, due to a matching short position being taken through a derivative instrument.
+We are concerned that Australian taxpayers involved in these arrangements may be claiming imputation benefits that they are not entitled to under the law.
+Our concerns regarding these arrangements include instances where Australian taxpayers hold and acquire Australian shares directly or indirectly through a managed investment trust (MIT) or attribution managed investment trust (AMIT).
+Examples of arrangements that concern us
+We have included simplified examples that are representative of the types of arrangements under review.
+Example 1 - Australian taxpayer enters into total return swap
+The Australian taxpayer holds an existing portfolio of Australian shares pursuant to its target asset allocation and has funds under management that are intended to be invested in an asset class other than Australian shares.
+Instead of investing directly in that other desired asset class, the taxpayer instead acquires an additional parcel of Australian shares as the starting point of the investment process. At or about the same time, the taxpayer enters into a TRS with a counterparty. Under the terms of the TRS, the taxpayer pays an amount that is substantially equivalent to the value of the dividend and capital performance of the additional Australian shares it acquired, and receives an interest-like return from the counterparty in Australian dollars, for example Bank Bill Swap Rate plus or minus a margin.
+During the periods covered by the TRS, the taxpayer, as the legal owner of the additional parcel of Australian shares, derives franked dividends from those shares, and claims to be entitled to franking credits that are attached to those franked dividends. In calculating their net delta position, the taxpayer aggregates the deltas of:
+•
+the existing portfolio of Australian shares (that is, long positions held prior to entering into the arrangement)
+•
+the additional parcel of Australian shares, and
+•
+the TRS to arrive at a net delta position of at least 0.3 for the entire portfolio of shares.
+Due to the obligations placed upon both parties by the terms of the TRS, any dividends paid and any price movements in respect of the underlying reference assets that are the subject of the TRS are required to be passed on to or borne by the counterparty. Therefore any economic gains derived from the dividend and capital performance of the additional parcel of Australian shares are transferred from the taxpayer to the counterparty, effectively resulting in the taxpayer receiving no or nominal returns from the additional parcel of Australian shares. Notwithstanding this, the taxpayer then claims that they have maintained an entitlement to any franking credits generated by the additional shares.
+[4]
+This is on the basis of the taxpayer's calculation of the net delta of the existing portfolio of Australian shares, additional Australian shares and the TRS.
+In these circumstances, while the taxpayer is the legal owner of the additional Australian shares, they retain no substantial equity risk in the additional parcel acquired due to the effect of the TRS. Economically, any investment reward for the taxpayer in respect of the additional parcel of Australian shares relates only to the returns they receive under the TRS.
+Effectively, the taxpayer has converted their purported Australian equity investment into an investment that provides an interest like return with the potential for an enhanced return provided by the franking credits generated from the Australian shares that are subject to the TRS.
+Example 2 - Australian taxpayer enters into one or multiple related total return swaps
+This example applies in instances where the taxpayer has decided to invest some of their funds under management into another asset class such as international equities using synthetic investments. Depending upon how the arrangements are implemented, this may be a stand-alone transaction or an additional step that follows from the transaction in Example 1 of this Alert.
+[5]
+Similar to the taxpayer in Example 1 of this Alert, an Australian taxpayer holds an existing portfolio of Australian shares pursuant to its target asset allocation and has funds under management that are intended to be invested in an asset class other than Australian shares.
+Instead of investing directly in the desired asset class, the taxpayer instead acquires an additional parcel of Australian shares that matches the ASX SPI 200 Index as the starting point of the investment process. The taxpayer then enters into a TRS to gain synthetic exposure to an asset class that is neither interest bearing debt nor Australian shares, for example international equities.
+Under the terms of the TRS, the taxpayer pays an amount that is substantially equivalent to the value of the dividend and capital performance of the additional Australian shares it acquired, and receives the dividend and capital performance of international equities.
+In some circumstances, the TRS pricing may result in a small economic benefit being received by the taxpayer (that is, the taxpayer may make a small profit from the TRS itself as the counterparty may be willing to price the arrangement on this basis). However, the value of the economic benefit inherent in the TRS pricing is generally far less than the value of the imputation benefit to the taxpayer.
+Similar to the taxpayer in Example 1 of this Alert, the taxpayer calculates their net delta position of Australian shares by aggregating the deltas of:
+•
+the existing portfolio of Australian shares (that is, long positions held prior to entering into the arrangement)
+•
+the additional parcel of Australian shares, and
+•
+the TRS to arrive at a net delta position of at least 0.3 for the entire portfolio of Australian shares.
+While the taxpayer is the legal owner of the additional Australian shares, they retain no substantial equity risk in the additional parcel acquired due to the effect of the TRS. Economically, any investment reward for the taxpayer in respect of the additional parcel of Australian shares relates predominantly to the returns they receive under the TRS. The returns from the Australian shares are transferred to the counterparty under the term of the TRS and the taxpayer receives a return from an investment in international equities.
+Effectively, the taxpayer has converted their purported Australian equity investment into an investment in international equities with the potential for an enhanced return provided by the franking credits generated from the Australian shares that are subject to a short position.
+Example 3 - Australian taxpayer purchases Australian shares via an interest in an AMIT and enters into a total return swap
+Similar to the taxpayer in Example 1 of this Alert, an Australian taxpayer holds an existing portfolio of Australian shares pursuant to its target asset allocation and has funds under management that are intended to be invested in an asset class other than Australian shares.
+Rather than investing directly into additional Australian shares, the taxpayer acquires an interest in an AMIT which invests in Australian shares. The interest in the AMIT, also referred to as a membership interest, is acquired either via purchasing units or through an in specie contribution.
+At or about the same time, the taxpayer enters into a TRS with a counterparty that is equal to the value of the interests in shares it acquires through the AMIT. Under the terms of the TRS, the taxpayer pays any dividends and capital performance relating to the investments of the AMIT to the counterparty, effectively reducing the taxpayer's economic exposure to the changes of the value of the membership interest.
+During the periods covered by the TRS, the taxpayer derives franked dividends indirectly from the AMIT. Due to the AMIT satisfying the qualified persons test, the taxpayer (as a member of the AMIT) is deemed to also be a qualified person in respect of the franked dividends derived by the AMIT. The taxpayer then claims to be entitled to an franking credit in respect of the interest in shares acquired through the AMIT.
+Effectively, the taxpayer has converted their purported Australian equity investment into an investment that provides an interest-like return with the potential for an enhanced return provided by the franking credits generated from the Australian shares that are subject to the TRS.
+Example 4 - Australian  taxpayer acquires additional Australian shares and enters into a matching short position in a futures contract relating to Australian shares
+Similar to the first step in Example 1 of this Alert, the taxpayer holds an existing portfolio of Australian shares. This holding is consistent with its target asset allocation.
+The taxpayer acquires an additional parcel of Australian shares resulting in the taxpayer holding an amount of Australian shares that is materially higher than its target asset allocation such that it is now overweight in Australian shares.
+[6]
+At or about the same time as acquiring the additional parcel of Australian shares, the taxpayer enters into a short position, or a series of short positions, by way of selling a futures contracts
+[7]
+with a value equivalent to the additional (overweight) shares. This short position matches the additional long position which gives the overall effect to the taxpayer of neutralising any investment (dividend and capital) performance exposure to those shares.
+Over the course of the arrangement, the taxpayer receives the dividend and capital performance from the additional Australian shares and claims the franking credits. However, any economic benefit that the taxpayer derives from their exposure to the additional parcel of Australian shares is matched by a loss on the short position in the futures contracts. This outcome is achieved because any dividend performance and gain (or loss) in the capital performance of the Australian shares is substantially offset by the loss (or gain) on the futures contract as determined by the price for which the futures contract is agreed to be settled.
+This structured arrangement results in effectively a zero sum commercial outcome for the taxpayer. Any gains on the additional Australian shares are offset by losses on the sold futures contract and vice versa, such that the only net benefit capable of being achieved from the additional Australian shares is the additional franking credits.
+In calculating their net delta position, the taxpayer aggregates the deltas of:
+•
+the existing portfolio of Australian shares (that is, long positions held prior to entering into the arrangement)
+•
+the additional parcel of Australian shares, and
+•
+the futures contracts to arrive at a net delta position of at least 0.3 for the entire portfolio of Australian shares.
+What are our concerns?
+Broadly, one of the objects of the qualified person rules referred to in paragraph 207-145(1)(a) of the
+Income Tax Assessment Act 1997
+(ITAA 1997) is that the benefits of imputation should only be available to the true economic owners of shares. We are concerned that these arrangements may involve taxpayers inappropriately accessing the benefits of franking credits.
+More specifically, aspects of the arrangements that concern us include:
+•
+The taxpayer acquires an additional parcel of Australian shares but retains minimal economic exposure; that is, the taxpayer receives and claims franking credits even though they are not effectively exposed to the risks of loss or opportunities for gain in respect of those shares as a result of entering into the derivative arrangements.
+•
+In a practical sense, the purpose of the derivative instrument is only to offset the economic exposure of the additional/overweight position of Australian shares acquired as part of the arrangement and not to hedge the long position of the existing portfolio of Australian shares.
+•
+The acquisition of the additional parcel of shares has no or only nominal apparent commercial purpose. The taxpayer forgoes any economic benefit of purchasing the additional parcel of Australian shares at a certain price because all future gains and losses are offset through the related derivative instrument.
+•
+The transactions are designed so that, or their effect is that, the main net benefit to the taxpayer in respect of the additional parcel of shares is the imputation benefit, or part thereof.
+•
+In some circumstances, the swap pricing may result in a small economic benefit being received by the taxpayer as the counterparty to the TRS. However, the value of the commercial basis point benefit inherent in the pricing of the swap is generally far less than the value of the imputation benefit to the taxpayer.
+We believe the concerns raised in this Alert are the issues of whether:
+•
+The taxpayer is a qualified person in relation to the relevant dividends on the additional parcel of shares for the purposes of Division 1A of former Part IIIAA of the ITAA 1936, as required by paragraph 207-145(1)(a) of the ITAA 1997.
+•
+The Commissioner should make a determination pursuant to section 177EA of the ITAA 1936 in respect of these arrangements, in particular, to deny the imputation benefits received in respect of the additional parcel of shares, and
+•
+The promoter penalty laws in Division 290 of Schedule 1 to the
+Taxation Administration Act 1953
+(TAA) would apply to promoters of this arrangement.
+In addition, we have similar concerns over these arrangements where Australian taxpayers hold the Australian shares indirectly through AMITs. Where this occurs, we will consider whether:
+•
+the Commissioner should make a determination pursuant to section 276-90 of the ITAA 1997 in respect of these arrangements, in particular, to treat the taxpayer (being the member of the AMIT) as not being a qualified person in relation to the distribution received from the AMIT for the purposes of Division 1A of former Part IIIAA of the ITAA 1936
+•
+the Commissioner should make a determination pursuant to section 177EA of the ITAA 1936 in respect of these arrangements, in particular, to deny the  imputation benefits received in respect of the distributions from the AMIT, and
+•
+the promoter penalty laws in Division 290 of Schedule 1 to the TAA would apply to promoters of this arrangement.
+What are we doing?
+We are currently reviewing these arrangements and engaging with taxpayers who have entered into, or are considering entering into, these arrangements. Compliance activity and engagement will continue while we are developing our technical position on the arrangements.
+Taxpayers and advisors who enter into these types of arrangements will be subject to increased scrutiny.
+What should you do?
+If you have entered, or are contemplating entering, into an arrangement of this type we encourage you to:
+•
+phone or email us at the contact details provided
+•
+ask us for our view through a private ruling
+•
+seek independent professional advice, and/or
+•
+make a voluntary disclosure to reduce penalties that may apply.
+Penalties may apply to participants in, and promoters of, this type of arrangement. This includes serious penalties under Division 290 of Schedule 1 to the TAA for promoters.
+Commissioner of Taxation
+4 December 2020
+ISSN
+2651-9550
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Date of Issue:
+4 December 2020
+Date of Effect:
+N/A
+[1]
+A parcel of shares could include multiple parcels of shares in one or more Australian companies that were purchased in one or more transactions.
+[2]
+That is not to say that there will be no other return associated with the arrangement.
+[3]
+While the type of derivative instrument may differ, one typical derivative instrument would be a Total Return Swap (TRS). For present purposes, the main features of relevance for a TRS in this regard is that the taxpayer would remain the legal owner of the underlying property being swapped (Australian shares) but is required by the terms of the TRS to compensate the counterparty for any cash flows (dividends received) and upwards price movements of the underlying property in return for compensation paid by the counterparty having regard to the specified reference asset (which will typically be a funding rate applying to a cash notional principal or another underlying asset such as overseas shares or an overseas index). Further, if the value of the underlying reference asset drops then the counterparty will also have an obligation to compensate the taxpayer for this price movement.
+[4]
+The terms of the TRS do not require any compensation for the value of franking credits, which we understand to be common for instruments of this nature.
+[5]
+This diagram shows the net result of a new transaction or the combined effect of transactions outlined in Examples 1 and 2 of this Alert. For illustrative purposes, the purchase of an international equities index with the reference interest rate from Example 1 has been omitted.
+[6]
+The additional parcel of Australian shares may be purchased in a transaction with other Australian shares which the taxpayer is seeking to obtain economic exposure to. That is, the taxpayer may want to increase their economic exposure to Australian shares by $50 million. Instead of purchasing $50 million of Australian shares, the taxpayer acquires an additional $300 million of Australian shares in conjunction with a short futures position of $250 million. When reviewing this arrangement, we would focus on the acquisition of the $250 million parcels of Australian shares that are in excess of the target asset allocation as the additional shares.
+[7]
+Such as taking a short position in the ASX SPI 200 Index.
+Related Practice Statements:
+PS LA 2008/15
+Legislative References:
+ITAA 1936 Div 1A of former Part IIIAA
+ITAA 1936 177EA
+ITAA 1997 207-145(1)(a)
+ITAA 1997 276-90
+TAA 1953 Div 290 Sch 1
+Authorised by:
+Rebecca Saint
+Deputy Commissioner
+Contact officer:
+Andrew Grace
+Email address:
+Andrew.Grace@ato.gov.au
+Telephone:
+(08) 8208 1688
+ISSN:
+2651-9550
+Back to top

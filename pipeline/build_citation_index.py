@@ -217,13 +217,21 @@ def build_ruling_index(index: dict) -> dict:
         title = ruling_file.stem
         ruling_type = "ruling"
         year = 0
+        m = re.match(r"^([A-Za-z]+)_(\d{4})_(\d+)", ruling_file.stem)
+        if m:
+            year = int(m.group(2))
         if meta_path.exists():
             try:
                 with open(meta_path) as f:
                     meta = json.load(f)
                 title = meta.get("title", title)
-                year = meta.get("year", 0)
                 ruling_type = meta.get("type", "ruling")
+                if meta.get("year"):
+                    year = int(meta["year"])
+                if meta.get("issue_date"):
+                    dm = re.search(r"(\d{4})", str(meta.get("issue_date")))
+                    if dm:
+                        year = int(dm.group(1))
             except Exception:
                 pass
 

@@ -1,0 +1,1158 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 358
+  • Division 165
+  • Division 19
+  • Division 21
+  • Division 38
+  • Division 40
+  • Division 78
+  • Division 99
+  • Subdivision 9-A
+  • div 9
+  • division 9
+
+Cases Referenced:
+  • Codelfa Construction Pty Ltd v State Rail Authority 
+  • Commrs v. Oliver
+
+  • Inland Revenue v. Databank Systems Ltd
+(1989) 11 NZTC 6093
+  • Marac Finance Ltd v. Virtue
+
+  • Mohr v. Finanzamt Bad Segeberg
+
+  • Pear Development Council v. Customs 
+  • Shaw v Director 
+  • Walter Construction Group Limited v Walker Corporation Ltd 
+
+Topics: GST, Trusts, Companies
+
+
+
+================================================================================
+
+GSTR 2001/4 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+89 related documents
+Goods and Services Tax Ruling
+GSTR 2001/4
+Goods and Services Tax: GST consequences of court orders and out-of-court settlements
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+FOI status:
+may be released
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+6
+Context
+7
+Ruling with explanations
+13
+Detailed contents list
+156
+Ruling
+Relying on this Ruling
+This publication is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Ruling applies to you, and you correctly rely on it, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+Further, if we think that this Ruling disadvantages you, we may apply the law in a way that is more favourable to you.
+[Note
+:
+This is a consolidated version of this document. Refer to the Legal Database (http://ato.gov.au/law) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling considers the goods and services tax (GST) consequences resulting from court orders and out-of-court settlements.  It explains how a payment (or act or forbearance) that is made in compliance with a court order or out-of-court settlement should be treated for the purposes of
+A New Tax System
+(
+Goods and Services Tax
+)
+Act 1999
+(the GST Act).
+2. The Ruling explains the circumstances in which, because there is a link or nexus between a payment (or act or forbearance) and a supply, the payment represents consideration for a supply.
+3. The Ruling also explains:
+•
+how the GST treatment of a court order or out-of-court settlement is affected by events relevant to the order or settlement having occurred before 1 July 2000, or if the order or settlement itself occurred before 1 July 2000;
+•
+when an increasing or decreasing adjustment for a taxable supply or creditable acquisition is required as a result of a court order or out-of-court settlement; and
+•
+the GST treatment of an award of costs or a negotiated costs amount.
+4. This Ruling does not deal with settlements of insurance claims.  Division 78 of the GST Act deals specifically with settlements of this nature
+[F1]
+.
+5. Unless otherwise stated, all legislative references in this Ruling are to the GST Act.
+Date of effect
+6. This Ruling explains the Commissioner's view of the law as it applies both before and after its date of issue (subject to the following notes). You can rely upon the original Ruling on and from its date of issue for the purposes of former section 105-60 or section 357-60 of Schedule 1 to the
+Taxation Administration Act 1953
+(as applicable). You can also rely on subsequent addenda notices issued from the dates specified in the individual notices for the purposes of former section 105-60 or section 357-60 of Schedule 1 to the
+Taxation Administration Act 1953
+(as applicable).
+6A. [Omitted]
+6B. [Omitted]
+Context
+7. This Ruling analyses the concept of supply and the nexus that must exist between payment and supply in order to establish the relationship of a 'supply for consideration'.
+[F2]
+As explained later in the ruling, a payment will not necessarily be consideration for a supply.
+8. The ruling begins by analysing the concept of 'supply'.  It does this by examining the statutory definition of the term in section 9-10, and comparing this definition with the meaning the term has in overseas jurisdictions, namely the United Kingdom, New Zealand and Canada.  Similarities and differences are highlighted.  This analysis is found at paragraphs 22 to 73.
+9. The Ruling then analyses the critical 'nexus' requirement that must be satisfied to establish the 'supply for consideration' relationship.  This analysis is found at paragraphs 80 to 99.
+10. In each of the above analyses, the Ruling looks at the concepts in a general sense, then more specifically within the context of court orders and out-of-court settlements.
+11. Commencing at paragraph 100, the Ruling then gives the Commissioner's views on where and if a sufficient nexus exists between payment and supply, in the context of a court order and out-of-court settlement.
+12. The Ruling then explains the need for apportionment of undissected payments (paragraphs 115 to 125), the GST consequences of a payment under a court order or settlement being consideration for a supply (paragraphs 126 to 136), transitional issues (paragraphs 137 to 144), and the award or negotiation of costs (paragraphs 145 to 155).
+Ruling with explanations
+13. Matters in dispute may be resolved either by the judgment of a court, or (at a time prior to the court delivering its judgment) by agreement between the parties.  An agreement between the parties is referred to in this Ruling as an out-of-court settlement.  Out-of-court settlements will include any form of dispute resolution in which the terms of the resolution are agreed between the parties, rather than imposed by the court.  Some examples of this are:
+(i)
+the parties obtain a consent order, the draft of which has been agreed to in a settlement deed;
+(ii)
+they agree to have the action struck out without a consent order;
+(iii)
+they enter into an agreement settling their differences before court action commences.
+14. In this Ruling, a court order refers to the terms laid down by a court in accordance with its judgment in respect of a dispute.
+15. A reference to a 'court' in this Ruling includes a reference to a tribunal or other body that has the power to make orders.
+16. A reference to a 'payment' in this Ruling includes a reference to an act or forbearance.  A payment will not necessarily be consideration for a supply.  It will become consideration if it satisfies the definition of that term in section 195-1.  Discussion of 'consideration' commences at paragraph 74.
+GST consequences
+17. The GST consequences of a court order or out-of-court settlement will depend on a number of matters, including whether a payment made under the order or settlement constitutes consideration for a supply and, if so, whether the supply is in the nature of a taxable, input taxed
+[F3]
+, or GST-free supply
+[F4]
+.  These consequences are discussed more fully at paragraphs 126 to 136.
+What is a taxable supply?
+18. Subdivision 9-A is about taxable supplies.  Section 9-5 sets out the requirements of a taxable supply.  The section provides:
+You make a taxable supply if:
+(a)
+you make the supply for consideration;
+(b)
+the supply is made in the course or furtherance of an enterprise that you carry on;
+(c)
+the supply is connected with Australia
+[F4A]
+; and
+(d)
+you are registered or required to be registered.
+However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.
+19. In considering the GST consequences of court orders or out-of-court settlements, this Ruling focuses on the 'supply for consideration' requirement.  However, a supply for consideration will not be a taxable supply unless the other requirements set out in section 9-5 are also satisfied.  For example, many settlements will not result in a taxable supply because the entity making the supply will not be doing so in the course or furtherance of an enterprise.
+20. Likewise, if a supply is not connected with Australia, or if the entity making the supply is neither registered, nor required to be registered for GST, the supply will not be a taxable supply.
+21. A 'supply for consideration' is the first step towards there being a taxable supply.  However, for there to be a supply for consideration, three fundamental criteria must be met:
+(i)
+there must be a supply (see paragraph 22 onwards);
+(ii)
+there must be a payment (see paragraph 74 onwards); and
+(iii)
+there must be a sufficient nexus between the supply and the payment for it to be a supply for consideration (see paragraph 100 onwards).
+What is a 'supply'?
+[F5]
+22. Essentially, a supply is something which passes from one entity to another.  The supply may be one of particular goods, services or something else.
+23. 'Supply' is defined in subsection 9-10(1) as 'any form of supply whatsoever'.  In the UK the term 'supply' has been held to take its ordinary and natural meaning, being 'to furnish or to serve'.
+[F6]
+Similarly, the definition of 'supply' in the Macquarie Dictionary is 'to furnish or provide (something wanting or requisite:
+to supply electricity to a community
+)'.  The term refers to things passing from one party to another.
+24. Without limiting these general meanings, subsection 9-10(2) provides a non-exhaustive list of activities or occurrences that are included within the meaning of supply.  The list is as follows:
+(a)
+a supply of goods;
+(b)
+a supply of services;
+(c)
+a provision of advice or information;
+(d)
+a grant, assignment, or surrender of real property;
+(e)
+a creation, grant, transfer, assignment or surrender of any right;
+(f)
+a financial supply;
+(g)
+an entry into, or release from an obligation:
+(i)
+to do anything; or
+(ii)
+to refrain from an act; or
+(iii)
+to tolerate an act or situation;
+(h)
+any combination of any 2 or more of the matters referred to in paragraphs (a) to (g).
+25. Subsection 9-10(2) refers to two aspects of a supply; the thing which passes, such as goods, services, a right or obligation; and the means by which it passes, such as its provision, creation, grant, assignment, surrender or release.
+[F7]
+Supplies of rights and obligations in other jurisdictions
+26. In other jurisdictions, supply is also broadly defined, by first defining the term 'goods' and then treating services as anything that is not goods.  For example, in the Sixth VAT Directive of the European Council
+[F8]
+('the Sixth Directive'), a supply of services is defined as 'any transaction which does not constitute a supply of goods', and the term includes 'obligations to refrain from an act or to tolerate an act or situation'.
+[F9]
+27. In the UK, 'supply' includes all forms of supply, but not anything done otherwise than for a consideration.  Anything which is not a supply of goods but is done for a consideration (including the granting, assignment or surrender of any right) is a supply of services.
+[F10]
+28. In Canada, supply is defined to mean 'the provision of property or a service in any manner, including sale, transfer, barter, exchange, license, rental, lease, gift or disposition'.  A right or interest of any kind and a chose in action are included within the definition of 'property'.
+[F11]
+29. In New Zealand, GST is imposed on supplies of goods and services.
+[F12]
+'Services' is defined as 'anything which is not goods or money'.
+[F13]
+The term 'supply' is defined as 'all forms of supply'
+[F14]
+, and the succeeding subsections of the New Zealand legislation specify particular rules relating to supplies of goods or services.
+30. The Australian GST Act deals with 'supply' in a similar but not identical way, to these overseas jurisdictions.  Therefore, while there is useful guidance to be obtained from an analysis of relevant overseas court decisions, some caution must also be exercised.
+Transactions which are supplies of rights or obligations
+31. It has been found in overseas cases that the surrender of a right or the entering into of an obligation does not, without more, constitute a supply of services.  This is despite the term 'services' being defined to include them.
+32. For example, in the Court of Justice of the European Community (ECJ) case
+Landboden
+-
+Agrardienste GmbH
+&
+Co
+.
+KG v
+.
+Finanzamt Calau
+[1998] BVC 70, the issue was whether the 'supply of services', within the meaning given by the Sixth Directive, extended to an undertaking given by a farmer to reduce its harvest of a potato crop
+[F15]
+.  The undertaking appeared to constitute 'an obligation to refrain from an act' and so fit within the definition of a 'service' in terms of the Sixth Directive.  However, the Court ruled:
+'
+an undertaking given by a farmer under a national compensation scheme not to harvest at least 20
+%
+of his potato crop does not constitute a supply of services for the purposes of
+[
+the Sixth
+]
+Directive.'
+[F16]
+33. In the opinion of Advocate General Jacobs, it did not amount to a service.  He commented that:
+'
+any payment
+,
+except perhaps a gift
+,
+will have conditions attached to it whose performance might
+,
+by creative use of language
+,
+be described as a service.'
+[F17]
+34.
+Mohr v
+.
+Finanzamt Bad Segeberg
+[1996] BVC 293 was another ECJ case in which such a finding was made.  In this case, an undertaking by a farmer to refrain from milk production was found not to constitute a supply within the meaning of the Sixth Directive.
+35. In
+Landboden
+, it was held that for an undertaking to be covered by the common system of VAT, it must imply consumption
+[F18]
+, and that by undertaking to reduce production the farmer did not provide either services to an identifiable consumer, or some benefit capable of being a cost component of another person in the commercial chain.
+[F19]
+36. Under the GST Act, there will be no GST on a supply unless it is a 'taxable supply'.  It is the concept of a 'supply' itself that is the entry point into the GST system.  As supply 'is defined broadly and is intended to encompass supplies as widely as possible'
+[F20]
+, we consider that the undertaking to reduce production as dealt with by
+Landboden
+would be a 'supply' under paragraph 9-10(2)(g).  Whether the supply would be a taxable supply would then depend on the requirements of section 9-5 being met in relation to that supply.
+Agreement which is binding where the transaction is a supply of a right or obligation
+37. For there to be a supply of a surrender of any right or entering into an obligation, such rights or obligations must be binding on the parties.  The creation of expectations among the parties does not, in itself, necessarily establish a supply.
+38. An agreement that does not bind the parties in some way would not be sufficient to establish a supply by one party to the other unless there is something else, such as goods or some other thing, passing between the parties.
+39. This requirement was emphasised by the New Zealand Court of Appeal in
+C of IR v
+.
+New Zealand Refining Co. Ltd.
+[F21]
+The case concerned payments made by the New Zealand Government to the New Zealand Refining Company that were only to be made on condition that the refinery remained operational.
+40. In his judgment, Blanchard J considered Richardson J's dictum in
+Marac Finance Ltd v. Virtue
+[F22]
+regarding the nature of the legal arrangements being entered into.  Blanchard J noted there was an expectation among the parties that the refinery would continue to operate, but that there was no contractual requirement to that effect.
+[F23]
+The government's only recourse in the event that the refinery ceased to be operational was to stop making payments.  In
+New Zealand Refining
+, the court held:
+'In terms of any binding commitment between the parties, there was to be little or no linkage between the Crown's payments and the making of particular (or any) supplies of goods or services.'
+[F24]
+41. This requirement that a transaction bind the parties in some way before it will involve a supply, is considered to have application in Australia where the transaction is the supply of a right or obligation.
+[F25]
+'Supplies' related to an out-of-court settlement
+42. The statutory definition of 'supply' is very broad.  In the context of an out-of-court settlement, a supply referred to under any of the paragraphs within subsection 9-10(2) could be related to an out-of-court settlement.
+43. A supply related to an out-of-court settlement may have occurred prior to the settlement (and in fact have been the subject of the dispute in the first place), or it may be created by the terms of the settlement itself.  There may be more than one supply that is related to a settlement.  In addition, the subject of the dispute may not be a supply at all (refer paragraph 71).
+44. For the purposes of this Ruling, supplies that are related to an out-of-court settlement fall within the three categories of supply described below.  This characterisation assists in the subsequent analysis of consideration for a supply, which commences at paragraph 100.  The existence of a particular supply in relation to a given settlement will not necessarily mean a sufficient nexus exists between that supply and a payment made under the settlement.
+Earlier supply
+45. Each and every supply is subject to GST provided the supply satisfies the requirements of a taxable supply
+[F26]
+.  The GST Act does not prescribe any sequencing or hierarchy of supplies for taxing purposes.  GST becomes payable on the relevant supply.
+46. In these circumstances, where the subject of the dispute is an earlier transaction in which a supply was made involving the parties, that supply is referred to in this ruling as an 'earlier supply'.
+Example - Earlier supply
+47. Widget Company supplies toys to a retailer.  A dispute between the parties over payment for the toys is subsequently resolved through an out-of-court settlement, with the retailer paying all monies owed.  The supply of the toys, that is the subject of the dispute, is an earlier supply because it occurred before the dispute arose.
+Current supply
+48. A new supply may be created by the terms of the settlement.  In this Ruling, such a supply is referred to as a 'current supply'.
+Example - Current supply
+49.
+A dispute arises over a claim by Beaut Enterprises Pty Ltd that Plagiariser Pty Ltd is using their trade name
+.
+Negotiations between the parties follow
+,
+resulting in Beaut entering into an agreement with Plagiariser that allows Plagiariser to use its trade name in the future
+.
+This would constitute the supply of a right under the agreement between Beaut and Plagiariser that amounts to a
+'
+current' supply
+.
+[F27]
+Supply related to discontinuance of action
+50. Even where there is no earlier or current supply, the very wide range of things that can constitute a 'supply' means that one or more new supplies will probably crystallise on an out-of-court settlement being reached.
+51. Generally (it is suggested in most if not all cases), the terms of a settlement, in finalising a dispute, will ensure no further legal action in relation to that dispute, provided that the terms of the settlement are complied with.  This often takes the form of a plaintiff releasing a defendant from some (or all) of the existing claims and from further claims and obligations in relation to that dispute.
+52. Sometimes, where a dispute involves counter claims, the terms of the settlement may provide for each party to release the other from such claims and obligations.
+53. Where court proceedings have commenced, the filing of a notice of discontinuance pursuant to the relevant court rules may also be required to ensure the court is advised that a particular action will not proceed.
+54. We consider that these conditions of settlement can create supplies for GST purposes.  The supplies may be characterised as:
+(i)
+surrendering a right to pursue further legal action [paragraph 9-10(2)(e)]; or
+(ii)
+entering into an obligation to refrain from further legal action [paragraph 9-10(2)(g)]; or
+(iii)
+releasing another party from further obligations in relation to the dispute [paragraph 9-10(2)(g)].
+55. In this Ruling, we refer to supplies of these kinds as 'discontinuance supplies'.  However, whether a discontinuance supply would be a taxable supply would then depend on the requirements of section 9-5 being met in relation to that supply.
+Disputes resolved by a court order
+56. Three recent court judgments have considered the possible application of the provisions of the GST Act to the decisions of the court and payments made in compliance with the orders of the court.
+57. The three reported decisions are:
+(i)
+White J in
+Interchase Corporation Ltd v ACN 010 087 573 Pty Ltd & Ors
+[F28]
+[
+Interchase
+];
+(ii)
+Underwood J in
+Shaw v Director of Housing and State of Tasmania
+(No 2)
+[F29]
+[
+Shaw
+]; and
+(iii)
+Hunter J in
+Walter Construction Group Limited v Walker Corporation Ltd & Ors
+[F30]
+[
+WCG
+].
+58. In each of these cases, the plaintiff had been awarded a judgment sum and was seeking an indemnity for any future liability to pay GST on the judgment sum.  In
+Interchase
+, Justice White dismissed the application largely for procedural reasons, though her Honour nevertheless considered the requirements of the GST Act and made the following observations:
+'
+It is not easy to see how a court giving judgment or the payment of a judgment sum or the granting of a stay of execution could constitute a 'supply' within the meaning of those expressions[s. 9-10]'
+[F31]
+59. In
+WCG
+, Justice Hunter was of a similar view.  His Honour stated:
+'
+In my view, the imposition by the court upon [the defendant] to pay the judgment debt as ordered in these proceedings does not constitute a supply...'
+[F32]
+60. The Commissioner shares the view expressed by their Honours that a court, in giving judgment, does not make a supply for GST purposes.
+Payment of judgment debts
+61. The payment, in money, of a judgment debt will not itself be a supply for GST purposes.  It is excluded from being a supply under subsection 9-10(4).
+62. Whether the extinguishment of a judgment debt through its payment constitutes a supply for GST purposes was a matter considered in all of the above three judgments.
+63. In
+Interchase
+, Justice White observed:
+'Consideration includes matters done pursuant to orders of a court (s9-15(2A)(a)) but that does not of itself constitute a supply. The receipt of payment by a judgment creditor does not obviously involve the creation, grant, transfer, assignment or surrender of any right or the entry or release from an obligation (s 9-10(2)(e)(f)).  When the judgment is satisfied the debt created by the judgment is thereby extinguished and does not depend on the surrender of any rights or the release of the judgment debtor.'
+[F33]
+64. Justice Underwood, in
+Shaw's
+case, set out a more detailed analysis of the requirements of the GST Act.  In particular, as the judgment sum in that case was for damages for negligent misrepresentation, His Honour was:
+'...unable to conceive of any possible supply
+[F34]
+by the plaintiff upon receipt of the judgment sum other than the release of the obligation to pay that sum ...'
+[F35]
+65. Justice Underwood concluded that the debtor's obligation to pay was extinguished by the act of payment and did not depend upon any action on the part of the judgment creditor.
+66. In the
+WCG
+decision, Justice Hunter was of the view that payment of a judgment debt operates to satisfy the court's judgment, without the creation of a right, release, assignment or the like, by operation of law.
+67. The Commissioner shares the view that the extinguishment of a judgment debt by its payment does not constitute a supply by the judgment creditor for GST purposes.
+'Supplies' related to a court order
+68. An earlier supply may be the subject of a dispute resolved either by court order or out-of-court settlement.
+[F36]
+A current supply may also arise as a result of a court order.  An example of this may be an entity transferring assets to another entity under a court order.  Whether such a supply would be a taxable supply would then depend on the requirements of section 9-5 being met in relation to that supply.
+No discontinuance supply under a court order
+69. There will be no discontinuance supply in relation to a dispute resolved by a court order.  When a matter in dispute is ultimately resolved in court, it is the judgment of the court in the matter and its associated orders that 'settles' the dispute.  Where this happens, the terms are imposed by the court, not reached by agreement between the parties.
+70. In these circumstances, the dispute has reached finality without either party surrendering a right to discontinue further legal action, entering into an obligation to refrain from proceeding further with legal action, or releasing another party from obligations.
+Where the subject of a claim is not a supply
+71. Disputes often arise over incidents that do not relate to a supply.  Examples of such cases are claims for damages arising out of property damage, negligence causing loss of profits, wrongful use of trade name, breach of copyright, termination or breach of contract or personal injury.
+72. When such a dispute arises, the aggrieved party will often assert its right to an appropriate remedy.  Depending on the facts of each dispute a number of remedies may be pursued by the aggrieved party in order to ensure adequate compensation.  Some of these remedies may be mutually exclusive but it is still open to the aggrieved party to plead them as separate heads of claim until such time as the matter is resolved by a court or through negotiation.
+[F37]
+73. The most common form of remedy is a claim for damages arising out of the termination or breach of a contract or for some wrong or injury suffered.  This damage, loss or injury, being the substance of the dispute, cannot in itself be characterised as a supply made by the aggrieved party.  This is because the damage, loss, or injury, in itself does not constitute a supply under section 9-10 of the GST Act.
+[F38]
+What is 'consideration'?
+74. A supply is a taxable supply, if, among other things, the supply is made for
+consideration
+.
+[F39]
+Consideration is defined in section 195-1 to mean 'any consideration, within the meaning given by sections 9-15 and 9-17, in connection with the supply.  The meaning given to consideration in section 9-15 extends beyond payments to include such things as acts and forbearances.
+[F40]
+It may include payments made voluntarily, and payments made by persons other than the recipient of a supply.
+[F41]
+75. Section 9-15 further provides that a payment will be consideration for a supply if the payment is 'in connection with' a supply and 'in response to' or 'for the inducement' of a supply.  Thus, there must be a sufficient nexus between a particular supply and a particular payment, which is provided for that supply, for there to be a supply for consideration.
+76. It follows that there are two elements to the definition of consideration.  The first is the payment by one entity to another.  The second element is the nexus that must be established between the payment and a supply.
+77. The definition of consideration in the New Zealand GST Act
+[F42]
+is similar to the Australian definition.  In
+C of IR v
+.
+Databank Systems Ltd
+(1989) 11 NZTC 6093, at 6102, Richardson J commented that the New Zealand definition of consideration 'breathed comprehensiveness'.
+78. In
+New Zealand Refining Co
+.
+Ltd v
+.
+C of IR
+(1995) 17 NZTC 12307, at 12314, Henry J commented that the definition was wide, and that 'in response to' and 'for the inducement of' added little to 'in respect of', given the breadth of the latter term.
+79. In Australia, the definition of consideration is similarly wide. To the extent that 'in connection with' may be narrower in scope than 'in respect of', the phrases 'in response to' and 'for the inducement of' may assume added stature.
+Is the supply made for consideration?
+80. The general theme of a 'supply for consideration' is as much a cornerstone of the VAT and GST regimes in the UK, NZ and Canada as it is under the GST Act.
+The need for nexus
+81. It will not be sufficient for there to be a supply and a payment.  GST is not payable on supplies unless they are made
+for
+consideration, and the other tests in section 9-5 are satisfied.
+[F43]
+There must be a sufficient nexus between the supply and the payment.  In
+C of IR v
+.
+New Zealand Refining Co
+.
+Ltd
+(1997) 18 NZTC 13187, at 13193 Blanchard J commented:
+'It can be seen that ... a linkage between supply and consideration is requisite to the imposition of the tax ... There is a practical necessity for a sufficient connection between the payment and the supply.  The mechanics of the legislation will otherwise make it impossible to collect the GST.'
+The nexus test in Canada and the European Community
+82. The Canadian legislation uses the expression 'consideration for the supply'.
+[F44]
+The VAT law in the European Community uses the expression 'supply effected for consideration', with no elaboration on what 'for' means in this context.
+[F45]
+The Courts in the UK have adopted a 'direct link' test in determining whether consideration is 'for' a supply in those jurisdictions
+[F46]
+.
+The nexus test in New Zealand
+83. While European and Canadian authorities demonstrate the need for a link between supply and consideration for a VAT or GST liability to arise, in New Zealand the definition of consideration itself describes the link.  The term 'consideration' is defined in relation to supplies of goods and services.  The definition includes any payment, act or forbearance in respect of, in response to, or for the inducement of, the supply of any goods and services.
+[F47]
+84. In the High Court of New Zealand decision of
+New Zealand Refining
+, Henry J commented in relation to the application of European Authorities to New Zealand's GST Act:
+'I do not think there is any principle of construction relevant to the present issue to be discerned from a review of the authorities cited in argument.  It can be said they demonstrate the need for a link or nexus between a payment and the identified service, but I doubt whether there is any call to go beyond an application of the statutory words defining the term "consideration" in reaching a decision in any particular case.'
+[F48]
+85. In the Court of Appeal decision of
+New Zealand Refining
+, Blanchard J noted the absence of a binding commitment to make particular supplies, and stated that a 'sufficient connection' between the payment and a supply was necessary.  The court concluded that the payments which were made conditional on the refinery remaining operational were not consideration for any supply, as there was no binding commitment to make particular supplies.
+86. The only recourse the government had was to cease making payments once the condition failed to be met.  The payments were directed to maintaining the structural framework within which supplies of services were expected to be made.  The purpose that the refinery remain operational was distinct from any supply of services to be made.  Thus, on the particular facts of this case the requisite link between a supply of particular services and consideration was not established.
+[F49]
+87. The nexus requirement was further emphasised in the
+Chatham Islands
+decision of the New Zealand Court of Appeal.
+[F50]
+There, the court considered whether an amount settled on a trust by the New Zealand Government could be construed as consideration for a supply of services made by the trustee either to the settlor or the beneficiaries.
+88. Tipping J, in supporting the view that there must be a 'sufficient' nexus, commented:
+'
+I therefore have difficulty in seeing how it can be said that the payments made by the Crown were in respect of
+,
+or for the inducement of
+,
+any services
+.
+Clearly the payments were not in response to the supply of services
+.
+'
+The nexus test in Australia
+89. A supply is not subject to GST in Australia unless it is made for consideration.
+[F51]
+'Consideration 'for a supply or acquisition' is defined in section 195-1 as any consideration, within the meaning given by sections 9-15 and 9-17, which is 'in connection with the supply or acquisition'.
+90. The Commissioner considers that, in the context of the GST Act, the expression 'you make the supply for consideration' in paragraph 9-5(a) means the same as 'there is consideration for the supply that you make'.
+[F52]
+91. The references in the GST Act to 'supply for consideration'
+[F53]
+and more commonly to 'consideration for a supply'
+[F54]
+underscore the close coupling between the supply and the consideration that is necessary before a payment will be consideration for a supply that will make the supply subject to GST.
+[F55]
+92. In a similar fashion to the GST legislation in New Zealand
+[F56]
+, the nature of the nexus required between supply and consideration is specified in the definition of consideration.  A payment will be consideration for a supply if the payment is 'in connection with', 'in response to' or 'for the inducement' of a supply.
+[F57]
+93. In determining whether a payment satisfies the requirements of subsection 9-15(1), the test is whether there is a sufficient nexus between the supply and the payment made.
+94. This test may establish a nexus between consideration and supply in a broader range of cases than the 'direct link' test which applies in the European Community and in Canada.  While caution needs to be exercised in applying decisions on connective terms in other contexts, the term 'in connection with' has been held to be broader in scope than 'for'.
+95. The meaning given to the term 'in connection with' in
+Berry's Case
+[F58]
+is similar to that which was described by the Court of Appeal in
+New Zealand Refining
+[F59]
+, but needs to be applied with regard to the structure of the definition of supply in the GST Act.  In
+Berry's Case
+, Kitto J held that 'in connection with' was a broader test than 'for'.  At page 659 he commented that consideration will be in connection with property where:
+'
+the receipt of the payment has a substantial relation
+,
+in a practical business sense
+,
+to that property'
+.
+96. In determining whether a sufficient nexus exists between supply and consideration, regard needs to be had to the true character of the transaction.  An arrangement between parties will be characterised not merely by the description which parties give to the arrangement, but by looking at all of the transactions entered into and the circumstances in which the transactions are made.
+[F60]
+Can a settlement or court awarded payment be consideration?
+97. Subsection 9-15(2A) makes it clear that the fact that a payment is made in compliance either with a court order, or with a settlement relating to proceedings before a court will not, without more, prevent it from being consideration for a supply.
+98. Subsection 9-15(2A) states:
+(2A)
+It does not matter:
+(a)
+whether the payment, act or forbearance was in compliance with an order of a court, or of a tribunal or other body that has the power to make orders; or
+(b)
+whether the payment, act or forbearance was in compliance with a settlement relating to proceedings before a court, or before a tribunal or other body that has the power to make orders.
+99. This provision negates any argument that the characterisation of a payment according to section 9-15 either as consideration for a supply or otherwise could be affected by the payment being made in compliance with a court order or settlement relating to proceedings before a court.
+Which supply has the nexus with the consideration?
+100. As discussed above, a sufficient nexus between a payment made under a court order or out-of-court settlement and a supply must exist to create the 'supply for consideration' relationship.  Our views on where such a relationship exists are set out below.
+Earlier supply
+101. Where the only supply (other than a 'discontinuance' supply
+[F61]
+) in relation to a court order or out-of-court settlement is an earlier supply and a sufficient nexus exists between the payment made under that order or settlement and the earlier supply, the payment will be consideration for that supply.
+Example  - payment for an earlier supply
+102. In the Widget Company example at paragraph 47, the out-of-court settlement reached with the retailer provides for the retailer to make payment in full to Widget for the toys.  The supply of the toys is an earlier supply and there is a sufficient nexus between it and the payment.  The payment is consideration for that supply.
+103. A payment made under a court order or out-of-court settlement may also result in an effective reduction in the price of an earlier supply, perhaps to nil.  Where this happens, an adjustment event may be required (refer paragraphs 126 to 136 on GST consequences).
+Example  - reduction in the price of an earlier supply
+104. The retailer paid Widget Company the full price for the toys, but subsequently discovered they were cheaper toys than it believed it was purchasing.  The dispute was settled with Widget agreeing that the price charged was excessive for the toys.  The terms of the settlement provided for Widget to pay back to the retailer an amount that reflects the price difference between the two products.  The payment will be a reduction in the consideration for the supply.
+Current supply
+105. Where the only supply (other than a 'discontinuance' supply) in relation to a court order or out-of-court settlement is a current supply and a sufficient nexus exists between the payment and that supply, the payment will be consideration for the current supply.
+Discontinuance supply
+106. Where the only supply in relation to an out-of-court settlement is a 'discontinuance' supply, it will typically be because the subject of the dispute is a damages claim.  In such a case, the payment under the settlement would be in respect of that claim and not have a sufficient nexus with the discontinuance supply.
+107. In most instances, a 'discontinuance' supply will not have a separately ascribed value and will merely be an inherent part of the legal machinery to add finality to a dispute which does not give rise to additional payment in its own right.  They are in the nature of a term or condition of the settlement, rather than being the subject of the settlement.
+108. We do not consider that the inclusion of a 'no liability' clause in a settlement deed alters this position.  'No liability' clauses are commonly included in settlement agreements and we do not consider their inclusion to alter the substance of the original dispute, or the reason payment is made.
+109. We consider that a payment made under a settlement deed may have a nexus with a discontinuance supply only if there is overwhelming evidence that the claim which is the subject of the dispute is so lacking in substance that the payment could only have been made for the discontinuance supply.
+Damages
+110. With a dispute over a damages claim, the subject of the dispute does not constitute a supply made by the aggrieved party.  If a payment made under a court order is wholly in respect of such a claim, the payment will not be consideration for a supply.
+[F62]
+111. If a payment is made under an out-of-court settlement to resolve a damages claim and there is no earlier or current supply, the payment will be treated as payment of the damages claim and will not be consideration for a supply at all, regardless of whether there is an identifiable discontinuance supply under the settlement.
+Example - payment of damages
+112. Bluey's Waste Removal contracts for a three month period with the local Council to collect waste from specified sites in a particular area and remove it to the Council's rubbish tip. Subsequently, one of Bluey's trucks has its suspension badly damaged on the tip site while delivering a load of rubbish in accordance with the contract.  An obstacle, which should have been removed by Council staff, was the cause of this damage.
+113. Bluey takes legal action to recover $50,000, being the cost to repair the truck and the loss of productive time caused by the truck being off the road.  Subsequently, Bluey and the Council settle the dispute, with the Council paying Bluey $37,000 and Bluey agreeing to proceed no further with the action.
+114. No part of the $37,000 paid by the Council to Bluey is consideration for a supply.'
+Apportionment
+115. Where payment made under a court order or out-of-court settlement has a sufficient nexus with more than one supply, with one or more supplies being taxable and one or more being GST-free or input taxed, the payment will be for each of the relevant parts.  This will also be the case where the payment is partly for an item of damages which is not a supply.
+116. Where a court order (issued in accordance with the court's judgment on the case) itself dissects and itemises the payment into the heads of claim relating to the individual supplies and / or item of damages, that itemisation will be accepted as representing the amounts of these relevant parts.
+117. In the case of an out-of-court settlement, where the terms of the settlement include a dissection and itemisation of the payment into the heads of claim, that itemisation will be accepted as representing the amounts of these relevant parts to the extent that it is made on a reasonable basis.
+118. Where no dissection is made, even though the payment has a sufficient nexus with more than one supply, or to a supply and an item of damages which is not a supply, the payment should be apportioned into amounts representing these relevant parts in order that the correct GST consequences result.
+119. The apportionment should be determined by the parties on a reasonable basis.  Where a payment is apportioned in a manner that cannot be justified in terms of reasonableness, the general anti-avoidance provisions of the GST Act
+[F63]
+may have application.
+Example - apportionment where no earlier supply
+120. Triple dot, an Australian based provider of music services on the internet, is sued by Ozy Rockers, a local rock group, for infringement of copyright in relation to its material.  The infringement relates to similarities between the website signature tune and the music and lyrics of one of the band's top forty hit tunes.  The infringement occurred at the time the website first appeared in October 2000.  Since then Triple dot has achieved unparalleled success in attracting 'surfers' to the site.
+121. Ozy Rockers is seeking damages for the infringement in the order of $50,000.  Prior to the matter being considered by the courts Ozy Rockers and Triple dot enter into negotiations in an attempt to resolve the dispute.  During the discussions a settlement is reached which provides that Triple dot will make a one off payment of $200,000 to Ozy Rockers.  The payment is for the past infringement and the ongoing right for Triple dot to use the signature tune.
+122. Apportionment is necessary for the correct GST consequences to attach to the supply of the ongoing right to use the copyright.  A reasonable approach is required for calculating the necessary apportionment.  In the absence of any further information, it may be reasonable to apportion $50,000 to damages for the breach of contract (which would not attract GST) and $150,000 to the use of the copyright (a taxable supply).  An alternative basis for apportionment may be to use industry standards to calculate copyright fees.
+Example - apportionment where an earlier supply
+123. Just before Valentines Day, Flowerbox, a GST registered gift shop, receives a supply of wilted flowers for which it has paid $5,500 and claimed an input tax credit of $500.  The supplier refuses to refund any part of this amount.  Flowerbox sues the supplier for damages, in the amount of $12,000.  Flowerbox has based the amount of its claim on the cost of the flowers ($5,500) plus an amount of $6,500 that it asserts is equal to the loss of profits it would have made from the sale of the flowers.  The court rules in favour of Flowerbox, but the total award is reduced to $9,900.  The court does not dissect the amount of the award.
+124. To apportion this amount it is reasonable that $5,500 is applied to the reduction in the price of the flowers and the balance ($4,400) to the damages for loss of business.  As an alternative, it might be appropriate to use the relative proportions of the original heads of claim as the basis for dissecting the amounts awarded by the court.
+125. Flowerbox has an increasing adjustment because its previously attributed input tax credit amount is greater than the corrected input tax credit amount as a result of the court award.  No GST is payable on the amount for damages for loss of business.
+GST consequences
+126. The GST consequences of a payment made under a court order or out-of-court settlement may be:
+(i)
+attribution of GST payable or input tax credit in the tax period the payment is made
+[F64]
+; or
+(ii)
+attribution of increasing or decreasing adjustments in respect of changes to the consideration for a supply
+[F65]
+; or
+(iii)
+no attribution or adjustment action required.
+Attribution in the period the payment is made
+127. Attribution of GST payable or input tax credit in the tax period the settlement payment is made occurs where:
+(i)
+the payment is consideration for an earlier or current supply; and
+(ii)
+the supplier or recipient attributes on a cash basis; or
+(iii)
+no invoice was issued for the supply and no part of the consideration for the supply was provided or received in any previous tax period.
+Adjustments because of changes to the consideration for a supply
+128. An adjustment is needed where the supplier or recipient attributes on a basis other than cash and:
+(i)
+the payment is consideration for an earlier supply; and
+(ii)
+an invoice was issued, or some part of the consideration was received or provided in an earlier tax period; and
+(iii)
+the payment (together with earlier payments if any) made under the settlement or order differs from the amount of the consideration on which the GST payable and input tax credit were previously attributed.
+129. A payment made under a court order or out-of-court settlement may also be a repayment of consideration wholly or in part for an earlier supply.  In these cases, an adjustment will also be required (see example at paragraph 104; also see example commencing at paragraph 133).
+130. A supplier may have already made a decreasing adjustment in an earlier tax period as a result of all or part of the consideration for the supply being written off as bad, or because it is 12 months or more overdue.
+[F66]
+131. Where the whole or part of the consideration for which a decreasing adjustment was previously made is subsequently recovered under a court order or settlement, the supplier will have a resulting increasing adjustment.
+[F67]
+No attribution or adjustment action required
+132. No attribution or adjustment action is required in respect of a settlement payment made under a court order or out-of-court settlement where:
+(i)
+the payment is not consideration for a supply; or
+(ii)
+the payment is consideration for a supply that is GST-free or input taxed; or
+(iii)
+the payment made (or the payment together with earlier payments, if any, for the supply):
+•
+is equal to the amount of the consideration on which the GST payable and input tax credit were previously attributed; and
+•
+is not one previously written off as bad or overdue for 12 months or more, for which a previous adjustment was made.
+Example - adjustment event
+133. ABC Pty Ltd makes a taxable supply to Grant Co.  Both entities attribute monthly on a basis other than cash.  ABC Pty Ltd issues a tax invoice in September 2000 for $110,000 for this supply.
+134. The entities account for their September 2000 GST liability as follows:
+(i)
+ABC Pty Ltd has a GST liability for
+$
+10
+,
+000 to be included in its net amount calculation
+;
+(ii)
+Grant Co
+.
+has an input tax credit entitlement of
+$
+10
+,
+000
+.
+135. On 2 December 2000 a dispute arises.  Grant Co. disputes the quality of the product supplied and insists on a reduction of the price to $99,000.  A negotiated settlement is reached in January 2001.  ABC Pty Ltd agrees to reduce the consideration from $110,000 to $99,000 for the previous taxable supply.  Grant Co. agrees not to proceed with the dispute.
+136. The reduction in the consideration resulting from the settlement is an adjustment event.  ABC Pty Ltd provides Grant Co. with an adjustment note based on the reduced consideration of the previous taxable supply.  ABC Pty Ltd will have a decreasing adjustment for its supplies of $1,000.  Grant Co. will have an increasing adjustment for its creditable acquisitions of $1,000.
+Transitional Issues
+137. The
+A New Tax System
+(
+Goods and Services Tax Transition
+)
+Act 1999
+(the Transition Act) provides that GST is only payable on a supply or importation to the extent that it is made on or after 1 July 2000.
+[F68]
+138. Where a dispute arising before 1 July 2000 is subsequently resolved by a court order or out-of-court settlement made on or after 1 July 2000, the GST consequences will depend on the relevant facts.
+139. Where the dispute involves an earlier supply, and a sufficient nexus exists between payment made under the court order or out-of-court settlement and that supply, subject to the provisions of the Transition Act, there will be no GST payable and no input tax credit entitlements.
+Example - earlier supply before 1 July 2000
+140.
+Widget Company sold toys to a retailer in May 2000.  The dispute over payment is finally resolved by out-of-court settlement in November 2000.  There is a sufficient nexus between the payment and the earlier supply.  There will be no GST payable or input tax credit entitlement in respect of that supply as it was made prior to 1 July 2000.
+141. A current supply may arise from a court order or out-of-court settlement made either before 1 July 2000 or on or after that date.  Where the current supply itself is made on or after 1 July 2000, and there is a sufficient nexus between a payment resulting from the order or settlement and the current supply, the payment will be consideration for the current supply.
+Example - current supply on or after 1 July 2000
+142.
+Beaut Enterprises Pty Ltd and Plagiariser Pty Ltd (see example at paragraph 49) resolve their differences over the wrongful use by Plagiariser of Beaut's trade name.  The dispute first arose in May 1999.  Under the terms of the settlement, Plagiariser became entitled to use the trade name on 1 August 2000.  The current supply is made on or after 1 July 2000, regardless of the date on which settlement is reached.
+143.
+Part of the payment made by Plagiariser under the settlement has a sufficient nexus with the current supply
+.
+That part of the payment is consideration for the taxable supply
+.
+It makes no difference whether the payment was made by Plagiariser before 1 July 2000
+.
+The Transition Act provides that any consideration received before 1 July 2000 in connection with a supply made on or after that day is taken to be received in the first tax period after that day
+.
+[F69]
+144. Flowchart of transitional effects:
+Costs
+145. When a dispute is finalised, either by a court giving judgment or through negotiation of a settlement, the unsuccessful party in the action may be required to pay the costs or part of the costs that have been incurred by the successful party in bringing or defending the claim.  These costs, referred to as party/party costs, could include, barrister's fees, solicitor's costs, fees for various expert reports and court costs.
+146. In any legal action the parties concerned are required to pay their legal advisers the solicitor client costs
+[F70]
+incurred and the supply of these legal services will attract GST and be GST inclusive sums to the extent that they are not GST-free.  Both parties to a dispute, as recipients of a supply of legal representation respectively, may be entitled to an input tax credit for a creditable or partly creditable acquisition
+[F71]
+of these services.
+147. For the purposes of this Ruling, we are concerned with the subsequent stage when the successful party is able to recover costs wholly or partly through a court order for costs or by negotiation of an amount in a settlement.
+148. As we have seen for a supply to be a taxable supply the conditions under section 9-5 of the GST Act must be met.  In the instance of the payment of costs under the court order or settlement there is no supply for consideration from the successful party to the unsuccessful party.  This is essentially paying compensation for costs or losses incurred in the dispute and will be treated in the same manner as damages under paragraphs 110 and 111.
+149. Accordingly, the payment of court ordered costs or costs negotiated in a settlement in the circumstances described will not be consideration for an earlier or current supply.  It does not matter that the payment of the costs order or settled amount is made by an entity other than the unsuccessful party.
+Example - Unregistered entity
+150.
+Matthew
+,
+a part
+-
+time artist not registered for GST
+,
+is sued by another more prominent artist in a defamation action
+.
+The matter proceeds to court but the judge dismisses the case against Matthew and costs are awarded in his favour
+.
+151.
+GST would have been included in the fees for the legal representation supplied to Matthew.
+[F72]
+However as Matthew is not registered he is unable to claim an input tax credit for the amount of GST included in those fees.  Therefore, the actual cost to him is a GST inclusive amount.
+152.
+The payment of the awarded costs to Matthew is not a payment for any supply made by Matthew.  The costs award is compensation for the costs incurred by Matthew in defending the claim brought by the other artist and is treated in the same way as a payment of damages.  There is no GST liability for Matthew arising from the receipt of the payment.
+Example - Registered entity
+153.
+ABC Co, a registered transport company, sues for compensation for damages arising out of breach of a contract it has with a major retailer.  Prior to any court proceedings being issued, a settlement is reached whereby the retailer agrees to pay the estimate of damages and a percentage of the costs incurred by ABC Co in bringing the action, for example, for the recovery of dishonoured cheque fees, costs of issuing a letter of demand, or court filing fees etc.
+154.
+ABC Co is able to claim an input tax credit for the GST included in the fees charged by its legal representatives.
+[F73]
+The actual cost to ABC Co is a GST exclusive amount.
+155.
+As with a court ordered award of costs, the payment of costs to ABC Co under the settlement arrangements is not a payment for a supply made by ABC Co.  It is a payment akin to damages and there is no GST liability for ABC Co arising from the receipt of the payment.
+Detailed contents list
+156. Below is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+6
+Context
+7
+Ruling with explanations
+13
+GST consequences
+17
+What is a taxable supply?
+18
+What is a 'supply'?
+22
+Supplies of rights and obligations in other jurisdictions
+26
+Transactions which are supplies of rights or obligations
+31
+Agreement which is binding where the transaction is a supply of a right or obligation
+37
+'Supplies' related to an out-of-court settlement
+42
+Earlier supply
+45
+Example - Earlier supply
+47
+Current supply
+48
+Example - Current supply
+49
+Supply related to discontinuance of action
+50
+Disputes resolved by court order
+56
+Payment of judgment debts
+61
+'Supplies' related to a court order
+68
+No discontinuance supply under a court order
+69
+Where the subject of a claim is not a supply
+71
+What is 'consideration'?
+74
+Is the supply made for consideration?
+80
+The need for nexus
+81
+The nexus test in Canada and the European Community
+82
+The nexus test in New Zealand
+83
+The nexus test in Australia
+89
+Can a settlement or court awarded payment be consideration
+?
+97
+Which supply has the nexus with the consideration?
+100
+Earlier supply
+101
+Example - payment for an earlier supply
+102
+Example - reduction in the price of an earlier supply
+104
+Current supply
+105
+Discontinuance supply
+106
+Damages
+110
+Example - payment of damages
+112
+Apportionment
+115
+Example - apportionment where no earlier supply
+120
+Example - apportionment where an earlier supply
+123
+GST consequences
+126
+Attribution in the period the payment is made
+127
+Adjustments because of changes to the consideration for a supply
+128
+No attribution or adjustment action required
+132
+Example - adjustment event
+133
+Transitional Issues
+137
+Example - earlier supply before 1 July 2000
+140
+Example - current supply on or after 1 July 2000
+142
+Flowchart of transitional effects
+144
+Costs
+145
+Example - unregistered entity
+150
+Example - registered entity
+153
+Detailed contents list
+156
+Commissioner of Taxation
+20 June 2001
+Appendix 1: Overview
+Appendix 2: How to categorise a supply
+Footnotes
+[F1]
+See Goods and Services Tax Ruling GSTR 2006/10 - Insurance settlements and entitlements to input tax credits.
+[F2]
+Paragraph 9-5(a) refers.
+[F3]
+Division 40 deals with input taxed supplies.
+[F4]
+Division 38 deals with GST-free supplies.
+[F4A]
+From 1 July 2015, the term 'Australia' was replaced with the term 'indirect tax zone' by the
+Treasury Legislation Amendment (Repeal Day) Act 2015.
+Where the term 'Australia' is used in this Ruling, it is referring to the 'indirect tax zone' as defined in subsection 195-1.
+[F5]
+The following analysis is based largely on Goods and Services Tax Ruling GSTR 2006/9, titled 'Supplies'.
+[F6]
+Carlton Lodge Club Ltd v
+.
+C
+&
+E Commrs
+[1974] 3 All ER 798, at 801;
+C
+&
+E Commrs v
+.
+Oliver
+[1980] 1 All ER 353, at 354-355.
+[F7]
+This distinction is particularly important in applying
+A New Tax System
+(
+Goods and Services Tax Transition
+)
+Act 1999
+.
+[F8]
+EC Council Directive 77
+/
+388 of 17 May 1977 on the harmonisation of the laws of the member states relating to turnover taxes
+-
+Common system of value added tax
+:
+uniform basis of assessment
+.
+[F9]
+Sixth Directive, Article 6(1).
+[F10]
+Subsection 5(2)
+Value Added Tax Act 1994
+.
+[F11]
+Excise Tax Act 1985
+subsection 123(1).
+[F12]
+Goods and Services Tax Act 1985
+(NZ), section 8.
+[F13]
+Goods and Services Tax Act 1985
+(NZ), subsection 2(1).
+[F14]
+Goods and Services Tax Act 1985
+(NZ), subsection 5(1).
+[F15]
+Article 6(1) of the Sixth Directive provides that a supply of services means any transaction that does not constitute a supply of goods. It also provides that such transactions could be obligations to refrain from an act or to tolerate an act or situation.
+[F16]
+Landboden
+Judgment.
+[F17]
+Opinion of Advocate General paragraph 24,
+Landboden
+.
+[F18]
+Judgment, paragraph 20. Article 2 of the First VAT directive (
+Directive 67
+/
+227
+/
+EEC
+:
+First Council Directive of the European Economic Community of 11 April 1967 on the harmonisation of legislation of member states concerning turnover taxes
+) provides that the common system of value added tax involves the application to goods and services of a general tax on consumption.
+[F19]
+Judgment, paragraph 23.
+[F20]
+Explanatory memorandum, paragraph 3.6.
+[F21]
+C of IR v
+.
+New Zealand Refining Co
+.
+Ltd
+(1997) 18 NZTC 13187.
+[F22]
+Marac Finance Ltd v
+.
+Virtue
+[1981] 1 NZLR 586
+[F23]
+(1997) 18 NZTC 13187, at page 13192, per Blanchard J.
+[F24]
+(1997) 18 NZTC 13187, at page 13193, per Blanchard J.
+[F25]
+Paragraphs 102 to 108 and 123 of Goods and Services Tax Ruling GSTR 2006/9.
+[F26]
+Section 9-5.
+[F27]
+Cooper Chasney Ltd
+(1990) 5 BVC 677.
+[F28]
+[2000]QSC 13; 2000 ATC 4552; 45 ATR 445.
+[F29]
+[2001] TASSC 2.
+[F30]
+[2001] NSWSC 283.
+[F31]
+See paragraph [53] of the
+Interchase
+judgment.
+[F32]
+See paragraph [479] of Justice Hunter's judgment.
+[F33]
+See paragraph [54] of the
+Interchase
+judgment.
+[F34]
+Paragraph 9-10(2)(g) refers
+[F35]
+See paragraph [12] of the judgment in
+Shaw's
+case.
+[F36]
+In the Widget Company example (see paragraph 47), had the dispute not been settled between the parties, it could have been resolved by a court entering judgment against the retailer.
+[F37]
+Codelfa Construction Pty Ltd v State Rail Authority of NSW
+(1982) 41 ALR 367
+[F38]
+Note that the forfeiture of a deposit is not seen as damages within the settlements ruling.  This matter is dealt with specifically in Division 99.  GSTR 2000/28 is not in any way altered by this ruling.
+[F39]
+Paragraph 9-5(a).  Also, as noted at paragraph 16, a reference to a 'payment' in this Ruling includes a reference to an act or forbearance.
+[F40]
+Subsection 9-15(1).
+[F41]
+Subsection 9-15(2).
+[F42]
+Subsection 2(1) of the
+Goods and Services Tax Act 1985
+(NZ) Definition:- "Consideration", in relation to the supply of goods and services to any person, includes any payment made or any act or forbearance, whether or not voluntary, in respect of, in response to, or for the inducement of, the supply of any goods and services, whether by that person or by any other person; but does not include any payment made by any person as an unconditional gift to any non-profit body.
+[F43]
+Paragraph 9-5(a).
+[F44]
+In Canada, tax is payable on 'the value of the consideration for the supply'
+Excise Tax Act
+.
+R
+.
+S
+.,
+c
+.
+E
+-
+13
+subsection 165(1).
+[F45]
+Sixth Directive, Article 2(1).
+[F46]
+See, for example,
+Apple and Pear Development Council v
+.
+Customs and Excise Commissioners
+[1988] BTC 5116.
+[F47]
+Goods and Services Tax Act 1985
+(
+NZ
+), subsection 2(1).
+[F48]
+High Court case (1995) 17 NZTC 12307, at 12314.
+[F49]
+Court of Appeal case (1997) 18 NZTC 13187, at 13193 - 13194 per Blanchard J.
+[F50]
+Chatham Islands Enterprise Trust v
+.
+Commissioner of Inland Revenue
+(1999) 19 NZTC 15075.
+[F51]
+Paragraph 9-5(a).
+[F52]
+Compare paragraph 11-5(c) - one of the requirements of a creditable acquisition is that you provide consideration for the supply. In addition, the definition of 'supply' itself adopts the expression 'consideration for a supply'.
+[F53]
+For example paragraph 9-5(a).
+[F54]
+The term 'consideration for a supply' appears in, for example, paragraph (a) of the definition of 'price' in subsection 9-75(1), in subsection 9-85(2) in relation to the value of a supply, and in paragraph 11-5(c) in defining a creditable acquisition.
+[F55]
+Subject to the other requirements of the GST Act, particularly the requirements in section 9-5.
+[F56]
+Goods and Services Tax Act 1985
+(NZ)
+[F57]
+Subsection 9-15(1).
+[F58]
+In the High Court decision in
+Berry v
+.
+FC of T
+(1953) 89 CLR 653, Kitto J considered the meaning of consideration 'for or in connection with' in the context of former section 84 of the
+Income Tax Assessment Act 1936
+, a provision which included consideration for or in connection with goodwill in a lease premium. Kitto J held that 'in connection with' was a broader test than 'for'.
+[F59]
+(1997) 18 NZTC 13187, at 13193-13194 per Blanchard J.
+[F60]
+Marac Finance Ltd v
+.
+Virtue
+[1981] 1 NZLR 586.
+[F61]
+Discussion of discontinuance supplies commences at paragraph 50.
+[F62]
+See discussion about claims where the subject of the claim is not a supply, commencing at paragraph 71.
+[F63]
+Division 165.
+[F64]
+A more detailed explanation of attribution is contained GSTR 2000/29, which is about attributing GST payable, input tax credits and adjustments and particular attribution rules made under section 29-25.
+[F65]
+A more detailed explanation of adjustment events is contained GSTR 2000/19, which is about making adjustments under Division 19 for adjustment events.
+[F66]
+Division 21 is about bad debts.
+[F67]
+A more detailed explanation of adjustments for the writing off and recovery of bad debts is contained in GSTR 2000/2.
+[F68]
+Subsection 7(1) of the Transition Act
+[F69]
+Section 10 of the Transition Act.
+[F70]
+Except in Workers Compensation cases where the applicant's solicitor is generally statute barred from obtaining payment from the applicant and recovers against the defendant/insurer on a party/party basis.  The GST consequences associated with the supply of legal services to the applicant are not altered ie, GST is remitted by the applicant's solicitor even though payment is made by the defendant/insurer.  The defendant/insurer is not entitled to claim an input tax credit when making this payment.
+[F71]
+Section 11-20 and 11-30.
+[F71A]
+[Omitted].
+[F72]
+Matthew's solicitor is responsible for the GST liability on the supply of legal services to Matthew.
+[F73]
+See Annexure I of PS LA 2009/9 for further information in relation to factors that ABC Co and the major retailer should take into account in negotiating the amount that will be paid in respect of costs.
+[F73A]
+[Omitted].
+Previously released in draft form GSTR 2000/D23
+References
+ATO references:
+NO  99/18148-6
+ISSN: 1443-5160
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2000/2
+GSTR 2000/19
+GSTR 2000/29
+GSTR 2006/9
+GSTR 2006/10
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A99  Subdiv 9-A
+ANTS(GST)A99  9-5
+ANTS(GST)A99  9-5(a)
+ANTS(GST)A99  9-10
+ANTS(GST)A99  9-10(1)
+ANTS(GST)A99  9-10(2)
+ANTS(GST)A99  9-10(2)(e)
+ANTS(GST)A99  9-10(2)(f)
+ANTS(GST)A99  9-10(2)(g)
+ANTS(GST)A99  9-10(4)
+ANTS(GST)A99  9-15
+ANTS(GST)A99  9-15(1)
+ANTS(GST)A99  9-15(2)
+ANTS(GST)A99  9-15(2A)
+ANTS(GST)A99  9-15(2A)(a)
+ANTS(GST)A99  9-17
+ANTS(GST)A99  9-75(1)
+ANTS(GST)A99  9-85(2)
+ANTS(GST)A99  11-5(c)
+ANTS(GST)A99  11-20
+ANTS(GST)A99  11-30
+ANTS(GST)A99  29-25
+ANTS(GST)A99  Division 19
+ANTS(GST)A99  Division 21
+ANTS(GST)A99  Division 38
+ANTS(GST)A99  Division 40
+ANTS(GST)A99  Division 78
+ANTS(GST)A99  Division 165
+ANTS(GST)A99  195-1
+ANTS(GSTT)A99  7(1)
+ANTS(GSTT)A99  10
+ITAA 1936  84
+TAA 1953 Sch 1 Div 358
+Value Added Tax Act 94 (UK)
+Excise Tax Act 85 (Canada)  123(1)
+Excise Tax Act 85 (Canada)  165(1)
+Goods and Services Tax Act 85 (NZ) 2(1)
+Goods and Services Tax Act 85 (NZ) 5(1)
+Goods and Services Tax Act 85 (NZ) 8
+Case References:
+Apple and Pear Development Council v. Customs and Excise Commissioners
+[1988] BTC 5116
+[1988] 3 BVC 274
+Berry v. FC of T
+(1953) 89 CLR 653
+Carlton Lodge Club Ltd v. C & E Commrs
+[1974] 3 All ER 798
+C & E Commrs v. Oliver
+[1980] All ER 353
+Codelfa Construction Pty Ltd v State Rail Authority of NSW
+(1982) 41 ALR 367
+Commissioner of Inland Revenue v. Databank Systems Ltd
+(1989) 11 NZTC 6093
+Chatham Islands Enterprise Trust v. C of IR
+(1999) 19 NZTC 15075
+Cooper Chasney Ltd
+(1990) 5 BVC 677
+Interchase Corporation Ltd v. ACN 010 087 573 Pty Ltd & Ors
+[2000] QSC 013
+2000 ATC 4552
+45 ATR 445
+Shaw v Director of Housing and State of Tasmania (No 2)
+[2001] TASSC2
+2001 ATC 4054
+46 ATR 242
+Walter Construction Group Limited v Walker Corporation Ltd & Ors
+[2001] NSWSC 283
+(2001) 47 ATR 48
+Landboden - Agrardienste GmbH & Co. KG v. Finanzamt Calau
+[1998] BVC 70
+Marac Finance Ltd v. Virtue
+[1981] 1 NZLR 586
+Mohr v. Finanzamt Bad Segeberg
+[1996] BVC 293
+New Zealand Refining Co. Ltd v. C of IR
+(1995) 17 NZTC 12307
+C of IR v. New Zealand Refining Co. Ltd
+(1997) 18 NZTC 13187
+GSTR 2001/4 history
+Date:
+Version:
+Change:
+20 June 2001
+Original ruling
+12 November 2008
+Consolidated ruling
+Addendum
+31 October 2012
+Consolidated ruling
+Addendum
+28 August 2013
+Consolidated ruling
+Addendum
+You are here
+15 July 2020
+Consolidated ruling
+Addendum
+Back to top

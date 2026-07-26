@@ -11,7 +11,6 @@ from backend.processors.markdown import (
     link_section_references, link_cross_act_references, auto_link_definitions,
 )
 
-from .cases import list_cases, get_case
 from .rulings import list_rulings, get_ruling
 
 logger = logging.getLogger(__name__)
@@ -30,15 +29,12 @@ def list_acts():
                 "compilation_no": tree.get("compilation_no"),
                 "compilation_date": tree.get("compilation_date"),
             })
-    acts.append({"id": "cases", "name": "Cases", "compilation_no": None, "compilation_date": None})
     acts.append({"id": "rulings", "name": "ATO Rulings", "compilation_no": None, "compilation_date": None})
     return acts
 
 
 @router.get("/api/tree/{act}")
 def get_tree(act: str):
-    if act == "cases":
-        return list_cases()
     if act == "rulings":
         return list_rulings()
     return load_tree(act)
@@ -46,8 +42,6 @@ def get_tree(act: str):
 
 @router.get("/api/section/{act}/{section}")
 def get_section(act: str, section: str):
-    if act == "cases":
-        return get_case(section)
     if act == "rulings":
         return get_ruling(section)
 

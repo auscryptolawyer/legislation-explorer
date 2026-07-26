@@ -1,0 +1,220 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Div 290
+  • Div 360
+  • Division 290
+  • Division 360
+
+Topics: CGT, Companies, Superannuation, Employment
+
+
+
+================================================================================
+
+TA 2024/1 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+8 related documents
+Taxpayer Alert
+TA 2024/1
+Early stage investor tax offset claimed using circular financing arrangements
+Table of Contents
+Paragraph
+Description
+1
+What are our concerns?
+5
+Example
+9
+What are we doing?
+20
+What should you do?
+22
+Do you have information?
+24
+About Taxpayer Alerts
+Alerts provide a summary of our concerns about new or emerging higher risk tax or superannuation arrangements or issues that we have under risk assessment.
+While an Alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an Alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more information about Alerts. See
+Alerts
+issued to date.
+Description
+1. We are currently reviewing cases where individuals have claimed the early stage investor tax offset on shares acquired through tailored financing arrangements. These arrangements appear designed to artificially meet the conditions for claiming the maximum tax offset, allowing individuals to benefit with minimal (if any) risk on their investment. Entities promote, orchestrate, and finance these schemes primarily for the individuals to obtain the tax offset, with the refunded offset shared with those entities.
+2. These arrangements typically display all or most of the following features.
+•
+The individual becomes or is made aware of an opportunity to invest in a start-up company.
+•
+The company is held out to qualify as an early stage innovation company (ESIC) under subsection 360-40 of the
+Income Tax Assessment Act 1997
+(ITAA 1997).
+•
+A financing arrangement is offered to fund the individual's share subscription amount, less any nominal deposit required. This enables the individual to acquire shares, typically up to an amount that qualifies for the maximum tax offset.
+[1]
+•
+The company places the subscription amount back on deposit with the financier who controls the use of the subscription monies by the company. This includes limiting that amount which the company can directly apply to further its stated innovation and commercialisation activities.
+•
+The individual claims the tax offset in their tax return and receives a refund.
+[2]
+This refund is typically available as the tax offset reduces the individual's tax liability on their salary and wage income, enabling a refund of PAYG withholding or other credits.
+•
+The tax offset refund is used to partially repay the finance.
+•
+The remainder of the financing is repaid by the individual within a short period out of subscription monies returned to the individual by the company. This returned amount is typically by way of selective share buy-back (or other disposal) of some or all of the individual's shares.
+•
+In substance:
+-
+the individual has paid no amount for any residual shareholding they might continue to have in the company, and
+-
+the refunded tax offset is shared between the individual, the company and the entities facilitating and financing the individual's share subscription.
+3. For sophisticated investors
+[3]
+, the terms of the arrangement usually provide a longer period that covers the greater tax offset available to them and the longer period over which the benefit of the tax offset may be realised.
+4. This Alert does not apply to arrangements where the individual makes a genuine investment for the full amount of shares acquired in a start-up that qualifies as an ESIC and the money invested is to be genuinely used by the ESIC.
+What are our concerns?
+5. We are concerned that individual taxpayers may be entering into these arrangements under the mistaken belief that they are entitled to the tax benefits claimed.
+6. We are concerned that:
+•
+The individual investor does not qualify for an early stage investor tax offset under Division 360 of the ITAA 1997 for amounts received or entitled to be received by the issuing company, given the issuing company immediately after the time of share issue is not an ESIC under section 360-40 of the ITAA 1997.
+•
+The individual investor is not entitled to a general deduction for interest expense incurred on their borrowing under section 8-1 of the ITAA 1997.
+•
+The ESIC investment arrangement is a scheme under section 177D of the
+Income Tax Assessment Act 1936
+(ITAA 1936) to which the general anti-avoidance provisions in Part IVA of the ITAA 1936 apply, and if the individual investor was entitled to early stage investor tax offset or general deduction, we would cancel the offset and deduction.
+7. Individuals will also not be entitled to capital gains tax exemptions under section 360-50 of the ITAA 1997 when they dispose of their shares because they were not entitled to the tax offset.
+8. We are also concerned that these arrangements are being promoted by advisers as legitimate tax arrangements to both individual taxpayers and start-up companies seeking seed capital.
+Example
+9.
+This example illustrates, for an unsophisticated investor, an arrangement to which this Alert applies. Our concern is not limited to the specific scenario described but, rather, can apply to variations of this scenario with its main features, as outlined in paragraphs 1 to 4 of this Alert.
+10.
+An adviser or other intermediary (Entity A) connects the individual (Investor) with companies said by Entity A to be start-up companies needing seed capital. Through promotional material, Entity A further states that:
+•
+The start-up company (StartupCo) satisfies the legislative requirements for it to be an ESIC.
+•
+Were the Investor to invest up to $50,000 in StartupCo, they would qualify for both
+-
+the early stage investor tax offset of up to $10,000
+-
+capital gains tax relief on the future realisation of their investment.
+11.
+At or before the matching services are provided by Entity A to StartupCo:
+•
+Entity A agrees with StartupCo for Entity A to provide to StartupCo corporate operating and management services subject to the terms of their agreement (Management Agreement).
+•
+An associate of Entity A (Entity B) agrees with StartupCo for Entity B to receive and hold monies on account of StartupCo subject to the terms of their agreement (Deposit Agreement).
+12.
+Entity A then takes the following actions:
+•
+Through Entity B, Entity A allows Investors to borrow (Loan Agreement) the share subscription amount with minimal deposit and no security other than the allotted StartupCo shares. The Investor's borrowing under the Loan Agreement is to be repaid annually in arrears with interest.
+•
+Entity A purports to Investors that interest they pay under the Loan Agreement is tax deductible.
+•
+Entity A assures Investors both as to the continued minimum value of their investment in the first year and their having the opportunity to exit the arrangement at the end of Year 1 (Investment Period).
+13.
+Entity B:
+•
+on behalf of the Investor, electronically transfers the share subscription amount to StartupCo, and the Investor is issued shares in StartupCo
+•
+receives from StartupCo, the re-transferred share subscription amount as deposit to be held by Entity B subject to the terms of the Deposit Agreement.
+14.
+Entity A, with Entity B and its controllers through the Management Agreement and Deposit Agreement:
+•
+control StartupCo's corporate, financial management, budgeting, business and operational activities for the duration of their association with StartupCo
+•
+preserve the value of the Investor's shares during the Investment Period by restricting StartupCo's access to and spending of the Investor subscription funds, even on its innovation and commercialisation activities during that period.
+15.
+Shortly after the end of the income year in which the Investor has invested in StartupCo, the Investor lodges their tax return claiming a $10,000 early stage investor tax offset (on an investment of $50,000), anticipating a refund of income tax paid of at least $10,000 (Offset Refund Amount).
+16.
+The Offset Refund Amount is used to partially repay the Investor's loan with Entity B.
+17.
+At the end of the Investment Period, StartupCo, in collaboration with Entity A and Entity B, facilitates the disposal of shares held by the Investor in StartupCo. The shares are disposed of at the same price they were originally subscribed for, and the number of shares disposed of is sufficient to repay the Investor's loan (and accrued capitalised interest) liability to Entity B.
+18.
+During the Investment Period, there is no objective expectation for the Investor to receive (nor actual payment of) any dividend by StartupCo with respect to their shares.
+19.
+On conclusion of the arrangement, the Investor's liability to Entity B is repaid and the Investor holds only a residual shareholding in StartupCo.
+What are we doing?
+20. We are currently undertaking a number of activities in relation to the arrangements outlined in this Alert, including:
+•
+reviewing these types of arrangements, and engaging with taxpayers and companies in respect of historical and existing arrangements
+•
+producing a taxation determination on whether Part IVA of the ITAA 1936 can apply to the arrangements covered by this Alert.
+21. Taxpayers and advisers who facilitate or promote these types of arrangements will be subject to increased scrutiny.
+What should you do?
+22. If you have entered, or are contemplating entering, into an arrangement of this type, we encourage you to:
+•
+Phone or email us using the contact details provided at the end of this Alert.
+•
+Ask us for our view through a
+private ruling
+.
+•
+Seek independent professional advice.
+•
+Make a voluntary disclosure
+to reduce penalties that may apply.
+23. Penalties may apply to participants in, and promoters of, this type of arrangement. This includes serious penalties for promoters under Division 290 of Schedule 1 to the
+Taxation Administration Act 1953.
+Registered tax agents involved in the promotion of this type of arrangement may be referred to the Tax Practitioners Board to consider whether there has been a breach of the
+Tax Agent Services Act 2009.
+Do you have information?
+24. To provide information about this type of arrangement, or a promoter of this or another arrangement:
+•
+phone us on
+1800 060 062
+•
+complete the
+Tip-off form
+•
+contact the officer named in this Alert.
+Commissioner of Taxation
+10 December 2024
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Date of Issue:
+10 December 2024
+Date of Effect:
+N/A
+[1]
+Up to $50,000 for 'unsophisticated investors', and up to $2 million for 'sophisticated investors'. A sophisticated investor is one that meets the requirements of subsection 708(8) of the
+Corporations Act 2001
+. For more information, see
+The sophisticated investor test
+.
+[2]
+Up to certain yearly caps, the tax offset applies at 20% of the amount received or entitled to be received by the company for the shares that were issued.
+[3]
+Refer to footnote 1 of this Alert.
+File  1-14NWTUZ4
+Related Practice Statements:
+PS LA 2008/15
+Legislative References:
+ITAA 1936 Pt IVA
+ITAA 1936 177D
+ITAA 1997 8-1
+ITAA 1997 Div 360
+ITAA 1997 360-40
+ITAA 1997 360-50
+TAA 1953 Sch 1 Div 290
+Corporations Act 2001 708(8)
+Tax Agent Services Act 2009
+Business Line:
+PW
+Contact officer:
+Brett Challans
+Email:
+InnovationTax@ato.gov.au
+ISSN:
+2651-9550
+Back to top

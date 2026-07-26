@@ -1,0 +1,308 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Div 1A
+  • Div 290
+  • Division 1A
+  • Division 290
+
+Topics: Trusts, Companies, Superannuation, International
+
+
+
+================================================================================
+
+TA 2018/1 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+7 related documents
+Taxpayer Alert
+TA 2018/1
+Structured arrangements that provide imputation benefits on shares acquired on a limited risk basis around ex-dividend dates
+Alerts provide a summary of our concerns about new or emerging higher risk tax or superannuation arrangements or issues that we have under risk assessment.
+While an alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more about alerts. See
+Alerts
+issued to date.
+Overview
+We are reviewing arrangements that are intended to provide imputation benefits to Australian taxpayers who are not the true economic owners of the shares.
+The arrangements involve an Australian taxpayer
+[1]
+with a long position in Australian shares legally acquiring, but having little or no economic exposure to, an additional parcel of the same shares and holding those shares over the ex-dividend date.
+[2]
+They will typically involve the use of securities lending arrangements in combination with, repurchase agreements or derivative contracts (
+contracts
+), to create what is essentially a circular flow of shares. Although the Australian taxpayer has no or only nominal economic exposure to the additional parcel of shares on a stand-alone basis, the Australian taxpayer claims franking credits in respect of both the existing long position and the additional parcel of shares.
+That is, taxpayers are relying on an existing long shareholding to claim additional franking credits on a second parcel of shares at zero or nominal risk, such that the franking credits are generally the only return of significance that the taxpayer receives on that second parcel.
+Description
+Relevant arrangements usually display most or all of the following features:
+•
+The taxpayer has an existing parcel of shares in an Australian Securities Exchange (ASX) listed company, XYZ. Company XYZ is expected to pay a franked dividend on its shares.
+•
+Prior to the ex-dividend date for the XYZ shares, the taxpayer acquires an additional parcel of XYZ shares.
+The acquisition of the additional parcel of shares is funded by lending the existing XYZ shares to the Supplier
+[3]
+in return for cash collateral under a standard securities lending transaction
+[4]
+or from the proceeds of selling another parcel of XYZ shares
+[5]
+borrowed from the Supplier. This effectively enables the taxpayer to top-up its XYZ share long position and access additional franked dividends without the outlay of additional funds. The Supplier may also be involved with sourcing the additional shares.
+•
+Simultaneously, the taxpayer enters into contracts with the Supplier that substantially reduce the taxpayer's economic exposure to the additional parcel of shares. The additional parcel of shares is expected to be transferred back to the Supplier at the end of the arrangement pursuant to these contracts, after the imputation benefits have been received by the taxpayer.
+•
+The taxpayer is the shareholder of record in respect of the existing and additional parcel of shares, and will receive the franked dividend in respect of both parcels.
+•
+The taxpayer aggregates the deltas of the existing parcel, the additional parcel of XYZ shares, and the derivative contracts to arrive at a net delta position of at least 0.3 for the entire portfolio of XYZ shares. The taxpayer purports the holding period rules in Division 1A of former Part IIIAA of the
+Income Tax Assessment Act 1936
+(ITAA 1936) are satisfied in respect of the portfolio of XYZ shares and claims the benefit of the imputation credits. When viewed in isolation, the delta of the additional parcel of shares is reduced to less than 0.3 and will usually be significantly less than 0.1.
+•
+After the ex-dividend date, pursuant to the arrangements between the parties, the taxpayer sells or otherwise delivers the additional parcel of XYZ shares to the Supplier or a nominated entity on an ex-dividend basis.
+[6]
+•
+In certain variants of these arrangements, in acquiring the additional parcel of XYZ shares, the taxpayer purports to have a commercial objective to target particular abnormal price behaviours in XYZ shares around the ex-dividend date. In reality, the transaction has little or no ability to capture or make a (pre-tax) profit from these price behaviours.
+•
+The arrangements often involve one or more trades occurring via a stock exchange crossing mechanism. This allows the parties to trade the XYZ shares at a predetermined price and settle the transaction on the same date, unlike typical T-2 terms for trades occurring on the open market.
+We are concerned that taxpayers involved in these arrangements may be claiming imputation benefits that they are not entitled to under the law.
+Transactions to which this Alert does not apply
+This Alert does not apply to isolated securities lending transactions or derivative contracts that a taxpayer may enter into in connection with an existing parcel of shares.
+It is only intended to apply where the purported combined effect of entering into one or more such transactions is the entitlement of the taxpayer to the benefit of franking credits where they have no or nominal exposure to an additional parcel of shares, as outlined in this Alert.
+If you have entered into these types of arrangements over the ex-dividend date, you may want to consider if this Alert applies to you.
+We have included simplified examples that are representative of the types of arrangements being reviewed.
+Example 1
+Figure 1:  Inception
+Investor A holds a parcel of 100 XYZ shares (Parcel 1) that will pay a fully franked dividend. The expected dividend is $2.
+Prior to XYZ's ex-dividend date, the following steps occur:
+•
+Step 1(a) and (b):
+Investor A lends Parcel 1 to Supplier B under a standard securities lending transaction (
+Stock Loan 1
+) in return for cash collateral of $100.
+[7]
+The term of the transaction expires on XYZ's ex-dividend date with the 100 XYZ shares returned to Investor A on a cum-dividend basis. The securities lending transaction is intended to comply with section 26BC of the ITAA 1936.
+•
+Step 2(a) and (b):
+Investor A uses the $100 cash collateral to purchase 100 XYZ shares from Supplier B (directly or indirectly).
+This acquisition will be deemed a new acquisition of 100 XYZ shares (Parcel 2) for tax purposes. To settle the sale, Supplier B sells the 100 XYZ shares it borrowed under the securities lending transaction. The buy and sell transactions settle on the same day.
+The buy and sell transactions are matched and reported to the ASX as a special crossing rather than being conducted on the open ASX market.
+•
+Step 3:
+Investor A enters into an option collar (or a similar derivative product) where they will have the right or obligation to sell Parcel 2 on an ex-dividend basis back to Supplier B on a predetermined date.
+[8]
+This collar will settle after XYZ's record date. The strike price for the collar is set such that Investor A has little or no risk of loss and opportunities for gain in respect of Parcel 2 (that is, movements in the market value of the XYZ shares). Parcel 2 is expected to be delivered to Supplier B through the exercise of the collar mechanism upon settlement.
+The value of the dividend that XYZ is expected to pay is factored into the strike price of the option collar.
+Just prior to the ex-dividend date, Investor A:
+•
+physically holds one parcel of 100 XYZ shares (Parcel 2). Under the holding period rule, the day after the date of acquisition will count as day 1 for Parcel 2
+•
+is considered not to have disposed of Parcel 1 for imputation purposes by virtue of the securities lending transaction and the operation of subsection 160APHH(8) in Division 1A of former Part IIIAA of the ITAA 1936
+•
+as a result of these steps, has funded the acquisition of Parcel 2 by lending out Parcel 1 for cash collateral, and effectively increased their shareholding in XYZ shares for taxation purposes (Parcels 1 and 2). The pricing of the collar leaves Investor A with no or only nominal economic exposure to Parcel 2 on a stand-alone basis.
+Figure 2:  Ex-dividend date
+On the ex-dividend date, the following steps occur simultaneously:
+•
+Step 4(a) and (b):
+Investor A lends 100 ABC shares to Supplier B in return for cash collateral of $100 under a standard securities lending transaction
+(Stock Loan 2).
+[9]
+This funds Investor A's obligation to return the $100 cash collateral to Supplier B upon the expiry of Stock Loan 1.
+•
+Step 5(a) and (b):
+Supplier B borrows 100 XYZ shares (cum-dividend) from a third party
+[10]
+under a standard securities lending transaction
+(Stock Loan 3)
+in return for non-cash collateral in the form of the 100 ABC shares Supplier B borrowed under Stock Loan 2.
+[11]
+Supplier B is required to make a dividend equivalence payment on the 100 XYZ shares to the third party.
+•
+Step 6(a) and (b):
+Supplier B uses the 100 XYZ shares borrowed under Stock Loan 3 to return 100 XYZ shares to Investor A.
+•
+Step 7:
+The collar entered into between Investor A and Supplier B is exercised on this date, but does not settle until after the record date.
+At the end of this day, Investor A:
+•
+physically holds and is shareholder of record for two parcels of 100 XYZ shares (200 XYZ shares in total) that carry dividend entitlements
+•
+has held Parcel 2 for the requisite 45 day period and is deemed to have continuously held Parcel 1, the stock returned from Stock Loan 1, for at least the same period if not longer, and
+•
+receives franked dividends in respect of two parcels of shares.
+Figure 3:  After record date
+Just after the record date of the XYZ shares:
+•
+Step 8(a) and (b):
+The collar settles on an ex-dividend basis and Investor A delivers Parcel 2 XYZ shares to Supplier B in return for a cash payment that will generally be calculated on the basis of the original cum-dividend purchase price adjusted for the amount of the expected dividend. In this simplified example, the collar strike price is $98.
+•
+Step 9(a) and (b):
+Upon the expiry of Stock Loan 3, Supplier B returns to the third party the 100 XYZ shares (Parcel 2) it received upon settlement of the collar. The third party returns the 100 ABC shares.
+•
+Step 10(a) and (b):
+Upon the expiry of Stock Loan 2, Investor A uses the proceeds from the collar and the receipt of the Parcel 2 dividend to repay the cash collateral and Supplier B returns the 100 ABC shares.
+At the end of the transaction:
+•
+Investor A physically holds a parcel of 100 XYZ shares.
+•
+Investor A has derived an additional franked dividend in respect of the Parcel 2 shares, but has made an approximately identical loss on its ownership of the Parcel 2 shares, leaving its net return (before fees) being the additional imputation benefit received.
+•
+Supplier B has made a matching gain
+[12]
+on its borrowing and sale of the XYZ shares, allowing it to meet its obligation to make a dividend equivalence payment to the third party counterparty to Stock Loan 3.
+Example 2
+Figure 1:  Inception
+Investor A initially holds a parcel of 30 XYZ shares that will pay a fully franked dividend.
+Prior to XYZ's ex-dividend date, the following steps occur simultaneously:
+•
+Step 1:
+Investor A borrows 70 XYZ shares from Supplier B and may provide collateral under a standard securities lending arrangement.
+•
+Step 2:
+Investor A sells 70 XYZ shares to Supplier B for $70.
+•
+Step 3:
+Investor A purchases 70 XYZ shares from Supplier B for $70.
+The result of the arrangement is, just prior to the ex-dividend date, Investor A:
+•
+holds existing 30 XYZ shares and an additional 70 XYZ shares (long position)
+•
+is under an obligation to return 70 XYZ shares on a cum-dividend basis to Supplier B under a securities lending arrangement (short position)
+[13]
+, and
+•
+has no or only nominal economic exposure to 70 XYZ shares on a stand-alone basis as the long and short positions are perfectly matched.
+Figure 2:  Ex-dividend date
+On the ex-dividend date, the following steps occur simultaneously
+[14]
+:
+•
+Step 4:
+Investor A sells 70 XYZ shares on an ex-dividend basis to Supplier B in return for $69.
+[15]
+The $69 substantially funds Investor A's acquisition of 70 XYZ shares on a cum-dividend basis (Step 5) to meet their redelivery obligation to Supplier B (Step 6).
+•
+Step 5:
+Investor A purchases 70 XYZ shares cum-dividend from Supplier B for $71.
+•
+Step 6:
+Investor A uses the 70 XYZ cum-dividend shares to meet its obligation to return 70 XYZ shares to Supplier B under the securities lending arrangement. Supplier returns any collateral to Investor A.
+The term of the securities lending arrangement expires on XYZ's ex-dividend date with the 70 XYZ shares returned to Supplier B on a cum-dividend basis.
+At the end of this day, Investor A:
+•
+physically holds 30 XYZ shares
+•
+is the shareholder of record for 100 XYZ shares that carry dividend entitlements
+•
+has held 100 XYZ shares for the requisite 45 day period
+•
+receives a franked dividend in respect of 100 XYZ shares, and
+•
+makes a loss of the difference between the ex-dividend selling price of XYZ shares and the cum-dividend purchase price of XYZ shares in respect of 70 shares.
+[16]
+What are our concerns?
+Broadly, one of the objects of the qualified person rules referred to in paragraph 207-145(1)(a) of the ITAA 1997 is that the benefits of imputation should only be available to the true economic owners of shares and only to the extent those owners are able to use the franking credits themselves. We are concerned that these arrangements may involve taxpayers inappropriately receiving the benefits of imputation in breach of the rules designed to maintain the integrity of the imputation system.
+More specifically, aspects of the arrangements that concern us include:
+•
+the relevant taxpayer acquires an additional parcel of shares for a short period with minimal economic exposure; that is, they are not effectively exposed to the risks of loss or opportunities for gain in respect of those shares
+•
+the additional parcel of shares has no or only nominal apparent commercial purpose. For example, where taxpayers claim to be targeting abnormal price behaviour around the ex-dividend date, the terms of the contracts effectively prevent those taxpayers from targeting all or most of this price behaviour in respect of the additional parcel of shares
+•
+the transactions are designed so that, or their effect is that, the main net benefit to the taxpayer in respect of the additional parcel of shares is the imputation benefit, or part thereof, and
+•
+the arrangements in relation to the additional parcel of shares are designed to enable the taxpayer to claim tax offsets from franking credits on what are effectively borrowed shares, even though the third party lender remains the party exposed to price risk.
+We believe the above concerns raise the issues of whether:
+•
+the taxpayer is a qualified person in relation to the relevant dividends on the additional parcel of shares for the purposes of Division 1A of former Part IIIAA of the ITAA 1936, as required by paragraph 207-145(1)(a) of the ITAA 1997
+•
+section 177EA of the ITAA 1936 applies to these arrangements, in particular, to deny the imputation benefits received in respect of the additional parcel of shares, and
+•
+the promoter penalty laws in Division 290 of Schedule 1 to the
+Taxation Administration Act 1953
+would apply to promoters of this arrangement.
+We note similarities between our concerns regarding section 177EA of the ITAA 1936 applying to these arrangements and our determination regarding the application of section 177EA in Taxation Determination TD 2003/32
+Income tax:  what are the tax consequences for a taxpayer as a result of entering into a scrip loan and call option arrangement as described in Taxpayer Alert 2002/2?
+Further, the steps taken at ex-dividend date in Example 2 are similar to the example provided in Taxation Determination TD 2014/10
+Income tax:  can section 177EA of the Income Tax Assessment Act 1936 apply to a 'dividend washing' scheme of the type described in this Taxation Determination?
+[17]
+What are we doing?
+We are currently reviewing these arrangements and engaging with taxpayers who have entered into, or are considering entering into these arrangements. Compliance activity and engagement will continue and we are developing our technical position on the arrangements.
+Taxpayers and advisors who enter into these types of arrangements will be subject to increased scrutiny.
+What should you do?
+If you have entered into, or are contemplating entering into, an arrangement of this type, we recommend you seek independent professional advice, review your arrangements and discuss your situation with us by emailing
+PGIAdvice@ato.gov.au
+Date of Issue:
+13 February 2018
+Date of Effect:
+[1]
+The Australian taxpayer may be an individual, a superannuation fund, a managed investment trust or other trust or fund.
+[2]
+For simplicity, this Taxpayer Alert will refer to dividends, but it may relate to distributions more generally. Also, because of their fungibility, references to shares include identical shares.
+[3]
+The Supplier will typically be licensed to deal in securities. There may be more than one Supplier in the arrangement, in which case the Suppliers may be related parties or may act as counterparties in additional transactions connected with the arrangement.
+[4]
+Generally, in a standard securities lending transaction, one party (the borrower) borrows shares from another party (the lender) in exchange for a promise to return identical shares on a specified date, usually less than 12 months in the future. Collateral is provided by the borrower to the lender to protect the lender from the borrower failing to perform their promise in the future. As the requirement to redeliver is independent of the price of the underlying property, the market risk in respect of any price changes of the underlying property is still borne by the lender. A borrower in a standard securities lending transaction would not usually be capable of receiving imputation benefits from dividends paid on the borrowed securities, because the borrower would not be a qualified person in relation to those dividends for the purposes of Division IA of former Part IIIAA of the ITAA 1936, as required by paragraph 207-145(1)(a) of the
+Income Tax Assessment Act 1997
+(ITAA 1997).
+[5]
+If a trader has sold securities short, it can borrow those securities in order to fulfil its settlement obligation in the securities settlement system. In Australia, this requires the seller be in possession of securities to deliver to the buyer three days after trade date.
+[6]
+The taxpayer typically holds the additional shares for approximately 55 days.
+[7]
+The securities lending transaction may be replaced by a number of alternative transactions, which together have broadly the same overall effect. For example, a securities lending transaction may be entered into by the Investor with another party (an Intermediary Supplier). The Intermediary Supplier then sells the shares to the Supplier and enters into a forward contract to reacquire equivalent shares from the Supplier on a cum-dividend basis at a future date. In other words, the Supplier may engage with other parties to provide the Investor with all of the necessary elements of the transaction. Despite this, all of the elements are still entered into as part of the one overall arrangement.
+[8]
+This is regarded to be a European Option.
+[9]
+Investor A can fund the return of the $100 cash collateral in many different ways - this is just one example of how it may occur.
+[10]
+Borrowing shares from non-residents over the dividend period is generally less expensive as non-residents do not require gross-up for franking credits when a dividend equivalence payment is made.
+[11]
+The Supplier can source the XYZ shares in a number of ways including repurchase agreements or equivalent buy and sell transactions.
+[12]
+The share trade is settled on record date.
+[13]
+Alternatively, Investor A will be under an obligation to pay a dividend equivalence payment, and potentially a franking credit equivalence payment, to the counterparty to the securities lending arrangement if the borrowed shares are not returned on a cum-dividend basis.
+[14]
+The steps taken at ex-dividend date are similar to the example provided in Taxation Determination TD 2014/10
+Income tax: can section 177EA of the Income Tax Assessment Act 1936 apply to a 'dividend washing' scheme of the type described in this Taxation Determination?
+[15]
+The share trade is settled on record date.
+[16]
+The difference between the ex-dividend selling price of XYZ shares and the cum-dividend purchase price of XYZ shares should closely approximate the dividend. However, especially when cum-dividends shares are sourced from the special market, the difference between the ex-dividend selling price and the cum-dividend purchase price is typically greater than the amount of the dividend.
+[17]
+However, instead of utilising the 'Special Market' to source replacement shares on a cum-dividend basis to derive additional franked dividends, the taxpayer in this example is utilising the Special Market to source shares to fulfil their obligation to return cum-dividend shares to Supplier B, having already received franked dividends on the additional XYZ shares it acquired at the start of the arrangement and sold ex-dividend. In other words, what could effectively be regarded as the 'washed interest' in this case is instead used by the taxpayer to both claim franking credits and settle the obligation to return the XYZ shares under the initial securities lending arrangement. As such, no corresponding franked distribution is made to the taxpayer or a connected entity for the purposes of paragraph 207-157 of the ITAA 1997. However, in this arrangement, the taxpayer is able to generate franked dividends in excess of their existing shareholding, at no or normal additional economic exposure.
+Related Rulings/Determinations:
+TD 2003/32
+TD 2014/10
+Related Practice Statements:
+PS LA 2008/15
+Legislative References:
+ITAA 1936
+ITAA 1936  Pt IIIAA Div 1A
+ITAA 1936  160APHH(8)
+ITAA 1936  26BC
+ITAA 1936  177EA
+ITAA 1997
+ITAA 1997  207-145(1)(a)
+ITAA 1997  207-157
+TAA 1953
+TAA 1953  Div 290 Sch 1
+Authorised by:
+Jeremy Hirschhorn
+Deputy Commissioner
+Business Line:
+Public Groups and International
+ATO contact officer:
+Chris Magee
+Business Line:
+Tax Counsel Network
+Phone:
+(02) 9374 8373
+Back to top

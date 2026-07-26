@@ -1,0 +1,1233 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 188
+  • Div 23
+  • Div 30
+  • Division 30
+
+Cases Referenced:
+  • Burswood Management Ltd v. Federal Attorney
+  • Burswood Management Ltd v. Federal Attorney General
+
+  • Electrical Goods Importer v. Commissioner 
+  • Group Limited v. Commissioner 
+  • Line Company Pty Ltd v. Federal Commissioner 
+  • Marac Finance Ltd v. Virtue
+
+  • Muschinski v. Dodds
+
+  • Radaich v. Smith
+(1959) 101 CLR 209
+  • Taxation v. Mc
+  • Taxation v. Reliance Carpet Co Pty
+Ltd
+
+  • Taxation v. Secretary 
+
+Topics: GST, Trusts, Companies
+
+
+
+================================================================================
+
+GSTR 2012/2 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+107 related documents
+Goods and Services Tax Ruling
+GSTR 2012/2
+Goods and services tax: financial assistance payments
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+GSTR 2012/2EC
+.
+From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
+Treasury Legislation Amendment (Repeal Day) Act 2015
+.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+This Ruling contains references to provisions of the
+A New Tax System (Goods and Services Tax) Regulations 1999,
+which have been replaced by the
+A New Tax System (Goods and Services Tax) Regulations 2019.
+This Ruling continues to have effect in relation to the remade Regulations.
+Paragraph 32 of
+TR 2006/10
+provides further guidance on the status and binding effect of public rulings where the law has been repealed and rewritten.
+A
+comparison table
+which provides the replacement provisions in the
+A New Tax System (Goods and Services Tax) Regulations 2019
+for regulations which are referenced in this Ruling is available.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+LEGALLY BINDING SECTION:
+What this Ruling is about
+1
+Previous Ruling
+13
+Ruling
+15
+Date of effect
+86
+NOT LEGALLY BINDING SECTION:
+Appendix 1: Explanation
+94
+Appendix 2: GST outcome summary
+142
+Appendix 3: Detailed contents list
+145
+This publication provides you with the following level of protection:
+This publication (excluding appendixes) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal Database (http://law.ato.gov.au) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling explains the Commissioner's views on when a financial assistance payment is consideration for a supply.
+2. Where it is established that there is a taxable supply,
+[1]
+the Ruling explains the GST obligations of the payee
+[2]
+and the payer's entitlement to any input tax credit
+[3]
+in relation to the arrangement.
+3. This Ruling does not address the treatment of payments made between government related entities that are excluded from the definition of consideration.
+[4]
+However, where subsection 9-17(3) does not apply to a payment the principles in this Ruling may be relevant.
+4. In this Ruling, unless otherwise stated, all legislative references are to the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act).
+Types of arrangements
+5. In this Ruling the term 'financial assistance payment' is intended to encompass a wide range of payments. This includes payments:
+•
+made to provide support or aid to the payee; and/or
+•
+provided to support or aid in the implementation of government policy and initiatives.
+6. In addition to providing the payee with financial assistance the payer or a third party may also benefit from the arrangement.
+7. Although the Ruling focuses on analysing the following broad categories of arrangements, the propositions for identifying when a financial assistance payment is consideration for a supply are intended to apply more broadly to the types of payments described in paragraph 5 above. The types of arrangements considered in this Ruling include, but are not limited to:
+•
+an arrangement for the provision of advice or information;
+•
+a right or the entry into an obligation to do, or not to do, something;
+•
+payments made to assist the payee to acquire goods or services;
+•
+sponsorships; and
+•
+gifts.
+8. Payers of financial assistance payments are typically, but are not limited to, governments, government agencies, non-profit bodies and charities.
+9. Payees of financial assistance payments include government related entities, non-profit bodies, charities, clubs and associations; corporate entities and individuals.
+10. In this Ruling 'arrangement' refers to the various types of financial assistance payment arrangements and agreements collectively (unless a particular type of arrangement or agreement, such as a contract is specified) regardless of whether they are in writing.
+[5]
+11. In this Ruling where it is concluded that a payee makes a supply for which the financial assistance payment is consideration, it is assumed that the other requirements for making a taxable supply are satisfied.
+[6]
+That is:
+•
+the payee makes the supply in the course or furtherance of their enterprise;
+•
+the payee is registered or required to be registered for GST;
+[7]
+•
+the supply is connected with Australia;
+[8]
+and
+•
+the supply is not GST-free or input taxed.
+12. Similarly, it assumed that where the payee makes a supply to the payer for which the financial assistance payment is consideration, the payer is registered or required to be registered for GST and makes the acquisition for a creditable purpose.
+Previous Ruling
+13. This Ruling replaces Goods and Services Tax Ruling GSTR 2000/11
+Goods and services tax
+:
+grants of financial assistance
+.
+14. Entities that fall within the transitional arrangements in the date of effect section of this Ruling may continue to rely on GSTR 2000/11 for the period as outlined in the transitional arrangements.
+Ruling
+Supply for consideration - establishing a sufficient nexus
+15. For a financial assistance payment to be consideration for a supply
+[9]
+there must be a sufficient nexus between the financial assistance payment made by the payer and a supply made by the payee. A financial assistance payment is consideration for a supply if the payment is 'in connection with', 'in response to' or 'for the inducement of' a supply.
+[10]
+The test is an objective one.
+15A. Further, in identifying the character of the connection, the word 'for' ensures that not every connection between supply and consideration meets the requirements for a taxable supply. That is, merely having any form of connection of any character between a supply and payment of consideration is insufficient to constitute a taxable supply
+[10A]
+.
+16. Reference to all of the surrounding circumstances of the arrangement, in particular any written documentation, determines whether a financial assistance payment is 'in connection with', 'in response to' or 'for the inducement of' a supply. The surrounding circumstances may include the statutory purpose of the payer in providing the financial assistance, the activities which are to be undertaken by the payee and any other terms and conditions attached to the payment. However, none of these factors will be determinative on their own and the arrangement must the considered as a whole. The description the parties may give to the arrangement, whilst relevant, is not determinative.
+[11]
+17. Described below are specific issues which may arise in the context of financial assistance payments when determining whether a payment is consideration for a supply.
+Financial assistance payment made to obtain a right that is a material benefit.
+18. In some arrangements the payer obtains a material benefit in return for the financial assistance payment. This may occur where the payer is provided with the right to commercially exploit the results of the payee's work in return for the financial assistance payment. In this circumstance, the payment has a sufficient nexus with the supply of the right because the payment is made in connection with, in response to or for the inducement of the supply of the right.
+Example 1 - sufficient nexus - payment for the supply of rights
+19.
+Yearning for Learning, a non-profit organisation established to advance teaching and learning, provides financial assistance payments to enable Australian tertiary institutions to undertake research
+.
+20.
+Yearning for Learning invites bids from Australian tertiary education institutions to receive financial assistance payments to undertake or further the institution's innovative research
+.
+21.
+To receive the financial assistance payment, a successful payee must enter into a written arrangement in which the payee agrees to provide Yearning for Learning with the right to use the results of the research in its own enterprise
+.
+22.
+Under the arrangement the payee makes a supply of rights to exploit the research findings
+.
+[12]
+The financial assistance payment has a sufficient nexus with this supply because the payment was made to secure the rights. Therefore the payment is consideration for that supply
+.
+23.
+The tertiary institution is liable for GST on the supply of the rights. Yearning for Learning is entitled to an input tax credit on their acquisition of the rights
+.
+Payments for providing advice and information
+24. Providing advice or information is a supply.
+[13]
+A financial assistance payment has a sufficient nexus with such a supply where the payment is made for the purpose of obtaining the information.
+Example 2 - sufficient nexus - payment for the provision of information
+25.
+A university undertakes various research projects into mental illness. In order to fund its future research projects, the University sells the rights to the results of its completed studies. Previously the University carried out a one month study into the psychological impacts of chronic illness. The government pays the university to acquire the rights to use these research findings in its own review of aspects of the health system.
+26.
+The payment has a sufficient nexus with the right to the research findings because the payment is made in connection with, in response to or for the inducement of that supply
+.
+27.
+The university is liable for GST on the supply of the right to the research findings. The government is entitled to an input tax credit on their acquisition of the right to the research findings
+.
+Payment for the entry into an obligation to do or refrain from doing something
+28. Where a supply is constituted by the payee entering into an obligation with the payer to do or refrain from doing something and the payment is made to secure that obligation, there is a sufficient nexus between the payment and the obligation. This is because the financial assistance payment is made in connection with, in response to, or for the inducement of the entry into the obligation.
+Example 3 - sufficient nexus - payment for entry into an obligation
+29.
+Snake Glass Jugglers is a commercial dance troupe that develops and presents performance art in South Australia. It enters into an arrangement with Gooseville Arts Foundation, a body that is established for the purpose of fostering the arts. Under that arrangement, in return for a financial assistance payment from the Foundation, the troupe enters into a binding agreement under which it is obligated to expand its activities - by presenting three performances outside South Australia during the following year
+.
+30.
+By entering into this obligation to present three performances outside South Australia, the troupe has made a supply to the Foundation. The payment by the Foundation has been made in connection with, in response to, or for the inducement of this supply. Therefore, there is a sufficient nexus between the entry into the obligation and the financial assistance payment such that the financial assistance payment is consideration for that supply
+.
+31.
+Snake Glass Jugglers is liable for GST on the supply of the entry into the obligation. The Gooseville Arts Foundation is entitled to an input tax credit on their acquisition of the right to require Snake Glass jugglers to present the performances
+.
+Sponsorships
+32. Where, in return for a financial assistance payment, the payee promotes the payer's business through promotional material, programs or uniforms or advertises the business at events and in the media, the payment will have a sufficient nexus with the supply of the promotion and advertising. That nexus is established where the payment is in connection with, in response to or for the inducement of the promotion/advertising.
+Example 4 - sufficient nexus - sponsorships
+33.
+Demeter Sports Goods, a sporting goods manufacturer, sponsors organisations that provide sport and recreational activities for the health and wellbeing of the community
+.
+34.
+In return for a financial assistance payment, a payee must
+:
+•
+display the logo of Demeter Sports Goods on event signage
+;
+•
+place Demeter Sports Goods' signage at optimal locations for media and public exposure
+;
+and
+•
+display the logo of Demeter Sports Goods on uniforms, invitations
+/
+tickets, event programs, advertisements, newsletters and award certificates
+.
+35.
+As Demeter Sports Goods is making the financial assistance payment in connection with, in response to or for the inducement of the above supplies, there is a sufficient nexus between the payment and those supplies
+.
+36.
+The payee is liable for GST in respect of these supplies. Demeter Sports Goods is entitled to an input tax credit for acquiring these supplies
+.
+Example 5 - insufficient nexus - mere acknowledgement of payment
+37.
+A local art gallery receives a financial assistance payment from a major Australian company to enable them to acquire an artwork. The financial assistance payment is provided on the understanding that it be used to acquire artwork but the local art gallery is not under an enforceable obligation to use the payment in the way specified. The artwork is acquired and the director of the art gallery decides to install a plaque below the artwork to acknowledge the support of the company
+.
+38.
+The mere acknowledgement of the financial assistance payment is not an act which has the character of advertising, or promoting the company. There is nothing else supplied by the art gallery. The payment by the company is not in connection with, in response to or for the inducement of any supply
+.
+39.
+There will be no GST consequences for either party arising from this arrangement
+.
+Insufficient nexus between financial assistance payment and a supply
+40. Things are often supplied by the payee to the payer that satisfy the statutory definition of a 'supply', given the broad meaning of 'supply'.
+[14]
+In some circumstances, things may be supplied by the payee that are merely incidental or have an insufficient nexus to the financial assistance payment. Further, in such circumstances, although there may be supplies which are merely incidental or have an insufficient nexus to the financial assistance payment, the payment may be consideration for a good, service or some other thing supplied under the arrangement.
+Example 6 - insufficient nexus - provision of information to substantiate expenditure
+41.
+A business qualifies for a government financial assistance payment that is to promote the advancement of technology. For the purposes of the government agency's own internal assurances, the business is required to provide a report to the agency outlining how the funds were expended
+.
+42.
+The payment is made to enable the business to improve its technological capability, not to obtain the report on how the financial assistance payment was expended. The financial assistance payment does not have a sufficient nexus with the supply of the report because the payment was not in connection with, in response to or for the inducement of the report
+.
+43.
+Therefore, there are no GST consequences for either party
+.
+Repayment clauses
+44. An arrangement may include an obligation to repay a financial assistance payment in specified circumstances. The existence of a repayment clause alone is not determinative in establishing whether a financial assistance payment is consideration for a supply.
+45. Rather, the repayment obligation is to be taken into account in the broader context of the arrangement as a whole and may be relevant in determining whether the financial assistance payment is consideration for a supply made by the payee.
+Example 7 - repayment clause - taxable supply
+46.
+A government department instigates an exit assistance package to reduce the size of a particular industry. The package provides financial assistance payments to businesses exiting the industry
+.
+47.
+Eligible businesses are those that satisfy specified criteria. To receive the financial assistance payment of $50,000 the business owners must agree to exit the industry for a period of 5 years
+.
+48.
+If the business breaches conditions relating to exiting the industry the owners are required to repay the $50,000
+.
+49.
+The existence of a repayment clause is not determinative when establishing whether the financial assistance payment has been made for a supply
+.
+[15]
+Taking into account all of the facts and circumstances of this case as a whole under the arrangement, the eligible business owners make a supply of undertaking to exit their industry and remaining outside the industry for the period of five years. The financial assistance payment has a sufficient nexus with this supply as the payment is made in connection with this undertaking by the eligible business owners. Therefore, the financial assistance payment is consideration for this supply
+.
+50.
+The eligible business is liable for GST on the supply. The government department is entitled to an input tax credit for acquiring the right to require the business to exit the industry
+.
+Example 8 - repayment clause - no taxable supply
+51.
+A local government body introduces a financial assistance initiative to assist community groups. A Scout Group requests funds from the local government body in relation to the purchase of gymnasium equipment
+.
+52.
+Over several months the Scout Group enters into further negotiations with the local government body in relation to the purchase of the gymnasium equipment. The local government body agrees to provide the Scout Group with financial assistance. However, the payment must be returned if the gymnasium equipment is not purchased by the Scout Group by a particular date
+.
+53.
+Taken as a whole, the agreement does not indicate that the Scout Group is obligated to purchase the gymnasium equipment. It merely requires the repayment of the funds if the equipment is not purchased. The financial assistance payment is made to the Scout Group to facilitate its purchase of the gymnasium equipment. There is no taxable supply made by the Scout Group to the local government or any third party when it purchases the equipment. The existence of the repayment clause does not alter this conclusion
+.
+54.
+Therefore, there are no GST consequences for the payee or the local government body
+.
+No supply
+55. There will be some arrangements that do not involve the making of any supply whatsoever. If no supply has been made a key element of the definition of taxable supply is not met.
+56. In particular, there is no supply where the agreement between the parties is not binding and creates expectations alone. However, the payee may still make a supply in the absence of enforceable obligations. Where there is an agreement that does not bind the parties in some way there may still be a supply where there is something else, such as goods or some other benefit, passing between the parties.
+Example 9 - no supply - settlements of trust
+57.
+The government settles a charitable trust which has terms that provide for relief to the poor. The charitable trust has not provided anything to the government for the settlement. Therefore there is no supply and no GST consequences of the payment of the settlement amount for either the payee or the payer under the arrangement
+.
+Example 10 - no supply - mere expectation
+58.
+A local tennis club is seeking funding to enable them to resurface their privately owned tennis courts. The local council provides financial assistance to the tennis club on the basis that the money is only used for the resurfacing of the tennis courts
+.
+59.
+The local council has an expectation that the works will be carried out. However, as there is no binding obligation on the tennis club to actually carry out the resurfacing of the courts, and there are no other goods or services passing between the parties there is no supply to the local council
+.
+60.
+There are no GST consequences arising from the arrangement for either party
+.
+Example 11 - no supply - mere expectation (where the thing is done)
+61.
+Continuing with the last example
+.
+62.
+Even if the payment is ultimately used to resurface the tennis courts, this does not change the fact that the tennis club has not made any supply to the local council. Transactions that are neither based in an agreement that binds the parties in some way nor involve the supply of goods, services or, some other thing to the payer, do not establish a supply
+.
+[16]
+In this example, the mere doing of the thing that was expected does not amount to a supply to the local council because it does not involve some good, service or other supply being provided to the local council by the tennis club for which the payment is consideration
+.
+[17]
+Rather, the payment has facilitated the acquisition of services by the tennis club in having its courts resurfaced. This is not a supply made to the local council
+.
+Example 12 - no supply - eligibility criteria
+63.
+A government agency offers prepared food retailers a rebate of up to $3,000 when they purchase and install a new commercial dishwasher in their kitchen. The dishwasher can be purchased from any retailer
+.
+64.
+To be eligible for the rebate the dishwasher must be installed in existing premises and the dishwasher must meet a specified energy efficiency rating. To obtain the rebate the prepared food retailer must submit an application form with copies of their purchase and installation invoices
+.
+65.
+The food retailer does not enter into any obligations, other than providing further evidence to support their claim in accordance with the eligibility criteria
+.
+66.
+Although the application submitted by the food retailer and the agreement to provide further evidence in support of their claim may meet the statutory definition of a
+'
+supply', these supplies are not the reason for which the payment was made. Rather the payments were made in order to encourage and facilitate the purchase of the commercial dishwasher by the food retailers. The provision of evidence in support of the claim does not have a sufficient nexus with the payment and is merely incidental to it
+.
+67.
+The financial assistance payment is made once the food retailer has met the eligibility criteria. In meeting these criteria the food supplier is not supplying any good, service, or anything else to the government agency
+.
+68.
+There are no GST consequences arising from the arrangement for either party
+.
+Gifts to a non-profit body
+69. Gifts to a non-profit body are not consideration for a supply.
+[18]
+70.  The term 'gift' is not defined in the law and therefore takes its ordinary meaning having regard to the context in which it appears. It is considered that a 'gift' has the following characteristics and features:
+•
+there is a transfer of a beneficial interest in property;
+•
+the transfer is made voluntarily;
+•
+the transfer arises by way of benefaction; and
+•
+no material benefit or advantage is received by the giver (payer) by way of return.
+71. In applying these criteria, the courts have recognised that the criteria may not be absolute and may involve a matter of degree.
+72. The fact that a payment is made voluntarily does not of itself mean that it is a gift. Such a payment can be consideration for a supply.
+[19]
+73. A payment that is made as a function of government, and does not have the characteristics of benefaction including detached, disinterested generosity,
+[20]
+is not a gift.
+74. In order for the specific exclusion from the definition of 'consideration' to apply,
+[21]
+the payment must be a gift to a non-profit body. The term 'non-profit body' is not defined for the purposes of the GST Act so takes its ordinary meaning in the context in which it appears. A body is a non-profit body if, by operation of law (for example, a statute governing a body's activities) or by its constituent documents, the body is prevented from distributing its profits or assets amongst its members while the body is functional and on its winding-up.
+[22]
+75. Where it is clear from the objects, policy statements, history, activities and proposed future directions of the body that there will be no distributions to members, we accept that the non-profit test has been satisfied.
+[23]
+Example 13 - no consideration - mere recognition of the gift
+76.
+Bruce Michael is a wealthy philanthropist. A public hospital in his area wants to build a new wing for people suffering from alcoholism. Bruce decides to give $5,000,000 to the hospital for this cause. The hospital is not obligated to provide anything to Bruce
+.
+77.
+To recognise Bruce's generosity, the hospital board decides that it will name the new wing in his honour. In further recognition, the hospital will also acknowledge the payment by placing a plaque in the foyer of the new building
+.
+78.
+The payment is a gift because of the following
+:
+•
+it is made voluntarily by Bruce
+;
+•
+there is a transfer of the beneficial interest in property from Bruce to the hospital
+;
+•
+the transfer arises by way of benefaction as the hospital is advantaged in a material sense as a consequence of the payment
+;
+[24]
+and
+•
+naming the wing after Bruce and the plaque are not considered to provide Bruce with a material benefit
+.
+79.
+As the public hospital is a non-profit body and the payment is a gift, the exception in the definition of
+'
+consideration' applies. Therefore the payment has no GST consequences for either party
+.
+Example 14 - no consideration - payment is a gift
+80.
+The Needy Persons Charity is a charity to help persons in need of shelter and food. The Charity allows persons making
+'
+donations' to state a preference as to whether their funds should be applied to the provision of shelter or the provision of food. Triple A Accountants make a payment to the Charity. They state a preference that their funds be used for the provision of food
+.
+81.
+The payment is a gift because
+:
+•
+it is made voluntarily
+;
+•
+there is a transfer of the beneficial interest in property
+-
+specifically, the amount of the payment
+;
+•
+there is no material benefit to Triple A Accountants as a consequence of the payment
+;
+and
+•
+the transfer arises by way of benefaction as the Needy Persons Charity is advantaged in a material sense as a consequence of the payment
+.
+82.
+Though Triple A Accountants have specified a preference as to where their payment should be applied, this does not alter the fact that the transfer arises by way of benefaction. This is because the Needy Persons Charity receives the payment in its own right and has an unfettered discretion in deciding whether to apply the money in accordance with the preference expressed
+.
+[25]
+83.
+As the payment is a gift to a non-profit body, the exception in the definition of
+'
+consideration' applies. There are no GST consequences for either party
+.
+Other related issues
+Assistance in kind can be both consideration and a supply
+84. Assistance can be provided in a form other than money. In such circumstances the assistance itself is a supply. Therefore, where assistance is in kind there may be both a supply and an acquisition by each party.
+Financial supplies
+85. Financial supplies are input taxed under section 40-5. Where the provision of financial assistance satisfies the requirements of subparagraph 40-5.09(1) of the GST Regulations it is a financial supply that is input taxed. For example, where the substance of an arrangement is the granting of a loan, this is a financial supply and therefore input taxed.
+Date of effect
+86. This Ruling explains the Commissioner's view of the law as it applies both before and after its date of issue (subject to the transitional arrangements outlined in paragraphs 92 and 93). You can rely upon this Ruling on and from its date of issue for the purposes of section 357-60 of Schedule 1 to the
+Taxation Administration Act 1953
+(TAA).
+87. This Ruling will not apply to taxpayers to the extent that it conflicts with the terms of settlement of a dispute agreed to before the date of issue of the ruling (see paragraphs 75 to 77 of Taxation Ruling TR 2006/10).
+87A. The Addendum to this Ruling that issued on 14 August 2013 applies both before and after its date of issue. You can rely upon this Addendum on and from its date of issue for the purpose of section 357-60 of Schedule 1 to the TAA.
+87B. If this Addendum conflicts with a previous private ruling that you have obtained or a previous public ruling, this Addendum prevails. However, if you have relied on a previous ruling (including the public Ruling that the Addendum amends), you are protected in respect of what you have done up to the date of issue of the Addendum or, if there is a change to the legislation, you are protected in respect of what you have done up to the date the legislative change takes effect. This means that if you have relied on the earlier ruling and have underpaid an amount of GST, you are not liable for the shortfall prior to either the issue date of the Addendum or the date the legislative change takes effect, as appropriate. Similarly, if you have relied on the earlier ruling you are not liable to repay an amount overpaid by the Commissioner as a refund.
+Conflict between GSTR 2000/11 and the final Ruling
+88. This ruling can apply before its date of issue, where there is a discrepancy between GSTR 2000/11 and this Ruling, taxpayers can choose to apply this Ruling.
+89. Where entities have relied on GSTR 2000/11 to treat a supply as a taxable supply before the date of issue of this Ruling and the supply is not a taxable supply under the views expressed in this Ruling, they may choose to seek a refund for past overpaid GST if it is within relevant time limits
+[26]
+and the payer is first refunded the overpaid amount.
+[27]
+90. Where entities have relied on GSTR 2000/11 to determine that they did not make a taxable supply and the supply is a taxable supply under the views expressed in this Ruling, they may choose to pay GST on that supply. If GST is paid on the supply the payer may be entitled to an input tax credit.
+91. Where, entities rely or have relied on this Ruling or GSTR 2000/11 to determine that there is no GST payable on that supply, there is no input tax credit available to the entity making the payment.
+[28]
+Transitional arrangement
+92. Entities can continue to rely on the views expressed in the withdrawn GSTR 2000/11 for payments made before 1 January 2013 if:
+•
+the arrangement between the parties was entered into before the date of issue of this Ruling; and
+•
+the GST consequences concerning the treatment of financial assistance payments made under those arrangements are impacted by any conflict between the views expressed in this Ruling and GSTR 2000/11.
+93. It is anticipated that there will be few transactions which will now become subject to GST as a result of the views expressed in this Ruling. However, where entities have entered into arrangements that they can not alter to take into account a change in GST treatment and they fall outside of the scope of the transitional arrangement outlined in paragraph 92 above, they can apply to the ATO, in writing, for consideration of their circumstances on a case by case basis.
+Commissioner of Taxation
+30 May 2012
+Appendix 1 - Explanation
+This Appendix is provided as information to help you understand how the Commissioner's view has been reached. It does not form part of the binding public ruling.
+Background
+94. There are numerous arrangements under which Governments, government agencies, non profit and charitable bodies and other entities ('payer') make financial assistance payments. Financial assistance payments can be made for a number of reasons including implementing or supporting government policy and initiatives and philanthropy.
+Legislative context
+95. An entity makes a taxable supply if all of the following tests are satisfied:
+[29]
+•
+there is a
+supply
+made for
+consideration
+;
+•
+the supply is made in the course or furtherance of an
+enterprise
+that is carried on by the supplier;
+•
+the supply is
+connected with Australia
+; and
+•
+the entity making the supply is
+registered
+for GST, or required to be registered for GST.
+96. However, a supply is not a taxable supply to the extent that it is GST-free or input taxed.
+97. An entity that receives a financial assistance payment is liable for GST in respect of that payment if the payment is consideration
+[30]
+for a supply
+[31]
+and all the other requirements for a taxable supply
+[32]
+are met.
+98. An entity that makes a creditable acquisition,
+[33]
+is entitled to an input tax credit
+[34]
+for that acquisition. One of the requirements for a creditable acquisition is that the supply of the thing to the payer is a taxable supply.
+[35]
+99. For a payee to have a GST liability in relation to a financial assistance payment and a payer to be entitled to an input tax credit, it must be established that:
+•
+the financial assistance payment is 'consideration'; and
+•
+there is a sufficient nexus between the payment and a supply.
+Is there consideration?
+100. A supply is not a taxable supply unless there is consideration for the supply.
+[36]
+101. 'Consideration' is defined by sections 9-15 and 9-17.
+[37]
+102. The definition of consideration is intended to be broader than it is for contractual purposes.
+[38]
+It extends beyond payments to include acts and forbearances to act.
+[39]
+It includes voluntary payments, and payments made by entities other than the recipient of a supply.
+[40]
+103. The term 'consideration' is broadly defined. However, consideration does
+not
+include:
+(a)
+certain payments made by a government related entity to another government related entity;
+[41]
+or
+(b)
+a gift made to a non-profit body.
+[42]
+No consideration - gifts to non-profit bodies
+104. The making of a gift to a non-profit body is not the provision of consideration.
+[43]
+Meaning of non-profit body
+105. 'Non-profit body' is not defined in the GST Act. Therefore it takes its ordinary meaning having regard to the context in which it appears. There are two elements to the definition:
+•
+the entity must be a body; and
+•
+the body must have the characteristic of being a 'non-profit body'.
+106. The term 'body' has a broad meaning. It is defined in the
+Macquarie Dictionary
+as including '17. A collective group; or an artificial person:
+body politic, body corporate
+.'
+[44]
+107. The Commissioner's view of when a society, association or club is not carried on for the purpose of profit or gain is explained in TR 97/22. Although this view is expressed in an income tax sense, the Commissioner considers the principles outlined there are equally applicable in describing whether a particular body is a 'non-profit body' for GST purposes.
+108. A body is a non-profit body if, by operation of law (for example, a statute governing a body's activities) or by its constituent documents, the body is prevented from distributing its profits or assets amongst its members while the body is functional and on its winding-up.
+[45]
+The body's actions must, of course, be consistent with this prohibition.
+109. Where the law or the constituent documents do not prohibit distributions, whether the body is not carried on for purposes of profit or gain to the individual members is to be determined by reference to the surrounding circumstances. Factors that are considered relevant include whether distributions have been made, whether there is a stated or demonstrated policy to make or not to make such distributions and whether winding-up is contemplated. Where it is clear from the objects, policy statements, history, activities and proposed future directions of the body that there will be no distributions to members, we accept that the non-profit test has been satisfied.
+[46]
+Meaning of gift
+110. The term 'gift' is not defined in the GST Act and so takes on its ordinary meaning in the context in which it appears. In
+Federal Commissioner of Taxation v. McPhail
+[47]
+(
+McPhail
+), in an income tax context, Owen J said that the term 'gift' is 'used in the sense in which it is understood in ordinary parlance'.
+[48]
+The Commissioner considers that for GST purposes, income tax cases relating to gifts provide relevant guidance. The income tax legislation similarly gives special treatment to gifts to some charitable and non-profit bodies.
+[49]
+111. As explained in TR 2005/13, the courts have described a gift, as ordinarily understood, as having the following characteristics and features:
+•
+there is a transfer of a beneficial interest in property;
+[50]
+•
+the transfer is made voluntarily;
+[51]
+•
+the transfer arises by way of benefaction;
+[52]
+and
+•
+no material benefit or advantage is received by the giver (payer) by way of return.
+[53]
+112. Applying the criteria may involve a matter of degree. Therefore, in determining whether a financial assistance payment is a gift it is necessary to consider the whole of the circumstances surrounding the payment and this may include the role of parties other than the payer and the payee. It is the substance and reality of the payment that has to be ascertained. It is therefore necessary to take account of those acts, transactions, arrangements and circumstances that provide context and the explanation for the payment.
+113. A payment that is made as a function of government, and does not have the characteristics of benefaction including detached, disinterested generosity,
+[54]
+is not a gift.
+114. A payment that has conditions that relate to the payer's right to determine how the gift is to be used can still be a gift.
+[55]
+Such conditions reflect the terms on which the donor makes, and the donee accepts, the payment.
+[56]
+The payment may still be a gift if the rights that arise as part of the making of the payment do not directly or indirectly provide a material benefit to the payer or an associate.
+Is there a supply?
+115. The meaning of 'supply' is very broad - it means any form of supply whatsoever
+[57]
+and includes:
+•
+a supply of goods or services;
+•
+a provision of advice or information;
+•
+a grant, transfer or surrender of real property;
+•
+a creation, grant, transfer, assignment or surrender of any right; or
+•
+an entry into, or release from, an obligation to:  do anything, refrain from an act, or tolerate an act or situation.
+[58]
+No supply
+116. In the context of financial assistance payments where the payment is made for the purpose of support or aid, there may be circumstances where no supply is made by the payee. This may be the case where the payee has done nothing in return for or in relation to the payment.
+117. The case of
+Chatham Islands Enterprise Trust v. CIR
+[59]
+is an example of such a situation. In that case, the Crown established a trust, being the Chatham Islands Enterprise Trust as a result of concerns over the provision of essential services for the inhabitants of the Chatham Islands. The Government formally settled the trust and agreed to transfer certain key assets to it in addition to making two payments of $4 million each. The payments were to develop the local economy's commercial operations and retain its infrastructure. The trust set up a number of trading companies to take over various key assets. The companies were wholly owned subsidiaries of the trust.
+118. In determining the GST implications of the arrangement Keith J and Blanchard J said the following:
+The trust is not making a supply of anything to the settlor in exchange for, or induced by, the payments; it is the recipient of an endowment to be held upon the terms of the deed. Nor can it, consistently with well-established principles, be said that the trust is performing services for its beneficiaries in return for a consideration provided by the settlor. It acts on their behalf and in their interests. They are benefited by its activities. In the broadest sense, therefore, it may be said that because it serves their interests it is performing services for them. But there is no consideration passing to the trust since the payments are not properly to be seen as an inducement.
+[60]
+An expectation is created between the parties and nothing more
+119. A further example of where there may be no supply is where an agreement between the parties is not binding and creates expectations alone. Where the financial assistance payment is made in circumstances where a party expects that something will be done, and it does not involve a binding obligation or the supply of goods, services or some other thing, there is no supply.
+[61]
+The mere expectation that an act or event will happen is not sufficient to establish a supply.
+120. However, the payee might still make a supply in the absence of enforceable obligations, if there is something else such as goods, services or some other thing passing from the payee to the payer or a third party.
+[62]
+Sufficient nexus between the financial assistance payment and a supply
+121. In other GST rulings the Commissioner discusses the close coupling between supply and consideration in the GST Act.
+[63]
+In determining whether a payment is consideration
+[63A]
+and whether there is a 'supply for consideration' those rulings take the view that:
+•
+the test whether there is a sufficient nexus between the supply and the payment made is an objective one;
+•
+regard needs to be had to the true character of the transaction; and
+•
+an arrangement between parties will be characterised not merely by the description that the parties give to the arrangement, but by looking at all of the transactions entered into and the circumstances of the transactions.
+[64]
+121A. Further, in identifying the character of the connection, the word 'for' ensures that not every connection between supply and consideration meets the requirements for a taxable supply. That is, merely having any form of connection of any character between a supply and payment of consideration is insufficient to constitute a taxable supply.
+[64A]
+122. An arrangement may be evidenced by:
+•
+written and oral contracts;
+•
+deeds, assignments and options;
+•
+licence and permit conditions;
+•
+applications;
+•
+legal instruments;
+•
+letters of offer (including departmental or ministerial correspondence to recipients);
+•
+memoranda of understanding; or
+•
+Acts of parliament, legislative instruments, Ministerial directions and Departmental guidelines.
+Sufficient nexus
+123. In the facts and circumstances of a given case there can be many acts which may satisfy the statutory definition of a supply. For a financial assistance payment to be consideration for a supply it is not sufficient for there to be a supply and a payment. The financial assistance payment must be consideration for that supply.
+124. A financial assistance payment is consideration for a supply if the payment is 'in connection with' a supply. Consideration can also be 'in response to' or 'for the inducement of' a supply.
+125. While caution needs to be exercised in applying decisions on connective terms in other contexts, the term 'in connection with' is of wide import
+[65]
+and has been held to be broader in scope than 'for'. For example, in the High Court decision in
+Berry v. FC of T
+[66]
+, Kitto J considered the meaning of consideration 'for or in connection with' in the context of former section 84 of the
+Income Tax Assessment Act 1936
+, a provision which included consideration for or in connection with goodwill in a lease premium. Kitto J held that 'in connection with' was a broader test than 'for' and commented that consideration will be in connection with property where 'the receipt of the payment has a substantial relation, in a practical business sense, to that property'.
+[67]
+126. In
+Vidler v. FCT
+,
+[68]
+(
+Vidler
+) the Administrative Appeals Tribunal stated:
+The GST Act uses expressions such as 'make [a] supply for consideration' (s 9-5(a)) and 'consideration for the supply' (s 75-10(2)), but then, in the Dictionary in s 195-1 and also in the definition in s 9-15(1)(a), embraces within the concept of 'consideration' any payment that is made 'in connection with' a supply. The introduction of that broader concept 'in connection with' cannot have been accidental. It must be assumed that the object of the legislation is to cast the net more widely than would have been the case if, in both s 195-1 and s 9-15(1)(a), the relationship between 'supply' and 'consideration' had been governed by the word 'for' rather than the expression 'in connection with'.
+[69]
+127. The Tribunal then went on to say:
+..... It is not sufficient to establish a relationship or an association of some kind between a payment and some act, activity or event that is not a taxable supply, or perhaps not a supply at all, and argue from that position that the payment is not consideration for a supply. For if, despite that relationship or association, there is nevertheless a 'connection' between a payment and some act, activity or event that is a supply, then the payment will form (at least part of) the consideration for that supply.
+[70]
+128. Further, the fact that a voluntary payment can be consideration for a supply
+[70A]
+means that there does not have to be an enforceable relationship for there to be a sufficient nexus between the supply and the payment.
+[71]
+However, the payment must have a sufficient nexus to a supply.
+[72]
+129. The nature of the connection between consideration and supply was considered by the High Court in
+Federal Commissioner of Taxation v. Reliance Carpet Co Pty
+Ltd
+[73]
+where it was noted that consideration, as defined, includes amongst other things any payment 'in connection with' a supply of anything. The Court further gave an indication that the connection need not be direct though it did not expand on what the extent of the connection needs to be.
+[74]
+130. A financial assistance payment may have a sufficient nexus with a supply even though it may also serve to fulfil another aspect, or be connected with other aspects, of the arrangement, such as the objectives of the payer, that are not themselves supplies by the payee. What is required is an examination of the facts and circumstances of the transaction as a whole to determine if there is a sufficient nexus between the payment and a supply.
+Supplies with insufficient nexus
+131. An act or thing provided by the payee may satisfy the definition of a supply but it may not have a sufficient nexus with a financial assistance payment. In these circumstances, absent any other supplies for which the financial assistance payment can be said to be consideration, there is no taxable supply under the arrangement.
+Supplies that are part of making or accounting for the financial assistance payment
+132. Things are often supplied by the payee to the payer that are merely part of the mechanism of making or accounting for the financial assistance payment. These things are considered to form part of the circumstance in which a supply is made but are not of themselves the supplies for which the consideration is provided.
+133. For example, it is common for a payee to submit an application for financial assistance to the payer, and for the application to include all information necessary to determine the payee's entitlement to a financial assistance payment. Providing information in the application is a supply to the payer. However, the payment is not consideration for that supply because the provision of the financial assistance was not made to obtain the information provided on the application form. Submitting the application, together with the information required to consider it, is merely a mechanism to establish whether a financial assistance payment will be made. There is an insufficient nexus between the payment and the supply in these circumstances.
+Repayment clauses
+134. An arrangement may include an obligation to repay a financial assistance payment in specified circumstances. The existence of a repayment clause is not determinative in establishing whether a financial assistance payment is consideration for a supply. This is because it cannot be said in such circumstances that the payment was made in connection with, in response to or for the inducement of the entry into the repayment obligation.
+135. However, the repayment obligation is to be taken into account in the broader context of the arrangement as a whole and may be relevant in determining whether the financial assistance payment is consideration for a supply made by the payee.
+136. Commonly, a payee of a financial assistance payment will agree to carry out an activity for the payment. Where the activity does not occur there may be a provision in the agreement for the payee to repay the funds. The repayment clause is part of the circumstances in which the supply is made and should be taken into account in that broader context when determining whether the payment is consideration for a supply.
+137. On other occasions the payer may make the payment in the expectation that the activity will be undertaken. Where there is no binding agreement to that effect and the activity is not carried out, absent the provision of something else such as goods, services or some other thing being provided to the payer or a third party, there is no supply for which the payment is consideration. Furthermore, though the requirement to repay the funds meets the statutory definition of a supply, the payment was not made in connection with, in response to, or for the inducement of that supply.
+Other related issues
+Assistance in kind can be both consideration and a supply
+138. Where assistance is provided in a form other than money, such as a transfer of real property or a provision of goods or services, the provision of the assistance itself is a supply. As assistance in kind may be made in return for another supply, there may be both a supply and an acquisition by each party.
+139. Each party that makes a taxable supply is liable for GST on the supply it makes. Where the consideration is non-monetary, the amount of GST is based on the GST inclusive market value of the consideration,
+[75]
+which is the market value of the consideration without any discount for GST payable. Where there is an arm's length transaction between the parties, the value of the consideration provided by each party would be expected to be the same. In most cases, no additional net amount is payable by either party as a consequence of the arrangement where the GST and input tax credit for each party are attributable to the same tax period and the supplies have the same GST-inclusive market value.
+[76]
+However, both parties are still required to account for their supplies and acquisitions in their activity statements.
+[77]
+Financial supplies
+140. Financial supplies are input taxed under section 40-5. Where the provision of financial assistance satisfies the requirements of subparagraph 40-5.09(1) of the GST Regulations, it is a financial supply which is input taxed. This may occur where there is a requirement to repay the financial assistance payment. For example, where the substance of an arrangement is the granting of a loan, this is a financial supply and therefore input taxed.
+141. Many financial assistance payments are made on the condition that they become repayable in the event of some specified default of the payee, such as a failure to meet milestones, or to spend the funds in the agreed manner. In these circumstances, there is no provision of an interest in a credit arrangement by the payer at the time the financial assistance payment is made. If, in the event of a default, the payer allows time for the payee to repay some or all of the payment, there may at that time be a provision of an interest in a credit arrangement, which is a financial supply if the requirements of subregulation 40-5.09(1) of the GST Regulations are satisfied.
+[78]
+Appendix 2 - GST outcome summary
+142. The following table provides a summary of the GST outcomes of various financial assistance payment circumstances.
+143. Though it is intended to assist the payer and the payee of a financial assistance payment in determining their GST consequences of the arrangement, it should not be relied upon exclusively to make decisions about the GST consequences of the arrangement. The Ruling must be read as a whole.
+144. In these examples it is assumed that:
+•
+the payee is registered or required to be registered for GST and if they make a supply it is made in the course or furtherance of their enterprise and is connected with Australia; and
+•
+the payer is registered or required to be registered for GST and if it makes an acquisition it is a creditable acquisition.
+Thing provided
+Example
+GST outcome for payee
+GST outcome for payer
+Ruling paragraph numbers
+Rights
+The payer provides the payee with funds to undertake a research project and the payer receives the right to commercially exploit the intellectual property resulting from the research.
+Liable to GST
+Entitled to an input tax credit
+18 to 23
+Advice or information
+The payer pays the payee for the right to use research findings.
+Liable to GST
+Entitled to an input tax credit
+24 to 27
+Sponsorships
+The payee provides advertising and promotional activities for the payer's sponsorship payment.
+Liable to GST
+Entitled to an input tax credit
+32 to 36
+Obligation to do something
+Payee enters into an obligation with the payer, under which the payee is required to deliver specified services to the community. The payer makes the payment to the payee for the purpose of those services being delivered in pursuit of the payer's objects.
+Liable to GST
+Entitled to an input tax credit
+28 to 31
+Obligation to not do something
+The payee enters into an obligation to exit their industry and to refrain from returning to their industry in return for a financial assistance payment from the payer in pursuit of the payer's objects.
+Liable to GST
+Entitled to an input tax credit
+46 to 50
+Supplies with insufficient nexus
+The
+only
+supply the payee makes is acknowledging the payment received; submitting an application for the payment; agreeing to repay an amount not spent; and/or giving a report to the payer about how the monies were spent.
+No GST payable
+Not entitled to an input tax credit
+37 to 39; 40 to 43; 51 to 54
+No supply
+The payment is made in circumstances which create expectations without a binding agreement or anything else provided by the payee; settlement of trust or merely satisfying eligibility criteria.
+No GST payable
+Not entitled to an input tax credit
+55 and 56; 58 to 62; 57; 63 to 68
+Gift
+The payee is a non-profit body and the payment is a 'gift' as defined in TR 2005/13.
+No GST payable
+Not entitled to an input tax credit
+65 to 75; 76 to 79; 80 to 83
+Appendix 3 - Detailed contents list
+145. The following is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Types of arrangements
+5
+Previous Ruling
+13
+Ruling
+15
+Supply for consideration - establishing a sufficient nexus
+15
+Financial assistance payment made to obtain a right that is a material benefit
+18
+Example 1 - sufficient nexus - payment for the supply of rights
+19
+Payments for providing advice and information
+24
+Example 2 - sufficient nexus - payment for the provision of information
+25
+Payment for the entry into an obligation to do or refrain from doing something
+28
+Example 3 - sufficient nexus - payment for entry into an obligation
+29
+Sponsorships
+32
+Example 4 - sufficient nexus - sponsorships
+33
+Example 5 - insufficient nexus - mere acknowledgement of payment
+37
+Insufficient nexus between financial assistance payment and a supply
+40
+Example 6 - insufficient nexus - provision of information to substantiate expenditure
+41
+Repayment clauses
+44
+Example 7 - repayment clause - taxable supply
+46
+Example 8 - repayment clause - no taxable supply
+51
+No supply
+55
+Example 9 - no supply - settlement of trust
+57
+Example 10 - no supply - mere expectation
+58
+Example 11 - no supply - mere expectation (where the thing is done
+)
+61
+Example 12 - no supply - eligibility criteria
+63
+Gifts to a non-profit body
+69
+Example 13 - no consideration - mere recognition of gift
+76
+Example 14 - no consideration - payment is a gift
+80
+Other related issues
+84
+Assistance in kind can be both consideration and a supply
+84
+Financial supplies
+85
+Date of effect
+86
+Conflict between GSTR 2000/11 and the final Ruling
+88
+Transitional arrangement
+92
+Appendix 1 - Explanation
+94
+Background
+94
+Legislative context
+95
+Is there consideration?
+100
+No consideration - gifts to non-profit bodies
+104
+Meaning of non-profit body
+105
+Meaning of gift
+110
+Is there a supply?
+115
+No supply
+116
+An expectation is created between the parties and nothing more
+119
+Sufficient nexus between the financial assistance payment and a supply
+121
+Sufficient nexus
+123
+Supplies with insufficient nexus
+131
+Supplies that are part of making or accounting for the financial assistance payment
+132
+Repayment clauses
+134
+Other related issues
+138
+Assistance in kind can be both consideration and a supply
+138
+Financial supplies
+140
+Appendix 2 - GST outcome summary
+142
+Appendix 3 - Detailed contents list
+145
+Footnotes
+[1]
+Section 9-5.
+[2]
+Section 9-40.
+[3]
+Section 11-20.
+[4]
+Subsection 9-17(3).
+[5]
+An 'arrangement' also includes a memorandum of understanding between government entities that are part of the Crown in right of the same polity.
+[6]
+Paragraphs 9-5(b) to 9-5(d).
+[7]
+A payee that is not registered for GST may be required to register if receiving the financial assistance payment results in their GST turnover meeting the registration turnover threshold (see Divisions 23 and 188).
+[8]
+The Commissioner's views on the meaning of 'supplies connected with Australia' are contained in GSTR 2000/31
+Goods and Services tax: supplies connected with Australia.
+[9]
+Paragraph 9-5(a).
+[10]
+Vidler v. FCT
+[2009] AATA 395; 2009 ATC 10-093; (2009) 72 ATR 832.
+[10A]
+AP Group Limited v. Commissioner of Taxation
+[2013] FCAFC 105 at [33]
+[11]
+Radaich v. Smith
+(1959) 101 CLR 209 at 214 per McTiernan J: '... the parties cannot by the mere words of their contract turn it into something else. Their relationship is determined by law and not by the label they choose to put on it.'
+[12]
+Paragraph 9-10(2)(e).
+[13]
+Paragraph 9-10(2)(c).
+[14]
+Section 9-10.
+[15]
+Provided there is a taxable supply, if funds are ultimately repaid, this would trigger an adjustment event and the GST payable and input tax credit available would be reduced in that later tax period accordingly.
+[16]
+GSTR 2006/9
+Goods and services tax: supplies
+at paragraphs 123-129 referring to proposition 12.
+[17]
+In this example, the courts were privately owned. If the tennis courts were owned by the local council, the resurfacing of the tennis courts would be a supply of goods or services to the local council for which the payment would be consideration.
+[18]
+Subsection 9-17(2).
+[19]
+Subsection 9-15(2).
+[20]
+See paragraph 36 of Taxation Ruling TR 2005/13
+Income tax: tax deductible gifts - what is a gift.
+[21]
+Subsection 9-17(2).
+[22]
+Examples of suitable clauses in constituent documents are outlined in Taxation Ruling TR 97/22
+Income tax: exempt sporting clubs
+at paragraph 22.
+[23]
+Consistently with paragraph 23 of TR 97/22.
+[24]
+For the Commissioner's views on when a payment arises by way of benefaction refer to paragraphs 27 to 36 of TR 2005/13.
+[25]
+See paragraph 33 of TR 2005/13.
+[26]
+See Section 105-55 of Schedule 1 to the TAA which applies to tax periods starting before 1 July 2012.
+[27]
+Section 105-65 of Schedle 1 to the TAA provides for restriction of GST refunds in certain circumstances and applies to tax periods starting before 31 May 2014.
+[28]
+Section 11-25 of the GST Act and subsection 357-60(3) of Schedule 1 to the TAA, which applies from 1 July 2010. Before 1 July 2010, the Commissioner's view is that section 11-25 of the GST Act and section 105-60 of Schedule 1 to the TAA apply to provide the same outcome, that is the amount of input tax credit the payer is entitled to in respect of that payment is zero.
+[29]
+Section 9-5.
+[30]
+Sections 9-15 and 9-17.
+[31]
+Section 9-10.
+[32]
+Paragraphs 9-5(b), (c) and (d).
+[33]
+Section 11-5.
+[34]
+Section 11-20.
+[35]
+Paragraph 11-5(b).
+[36]
+Paragraph 9-5(a).
+[37]
+Section 195-1.
+[38]
+Explanatory Memorandum to the to A New Tax System (Goods and Services Tax) Bill 1998, [3.9]. See also
+TT-Line Company Pty Ltd v. Federal Commissioner of Taxation
+[2009] FCAFC 178; 2009 ATC 20-157; (2009) 74 ATR 771 at [46]-[48] per Edmonds J.
+[39]
+Subsection 9-15(1).
+[40]
+Subsection 9-15(2).
+[41]
+Subsection 9-17(3).
+[42]
+Subsection 9-17(2).
+[43]
+Subsection 9-17(2).
+[44]
+The Macquarie Dictionary Online
+(Macmillan Publishers Australia, 2012).
+[45]
+Examples of suitable clauses in constituent documents are outlined in TR 97/22 at paragraph 22.
+[46]
+Consistently with paragraph 23 of TR 97/22.
+[47]
+(1968) 117 CLR 111.
+[48]
+McPhail
+(1968) 117 CLR 111, 116.
+[49]
+Division 30 of the
+Income Tax Assessment Act 1997.
+[50]
+See paragraphs 16 to 19 and 61 to 68 of TR 2005/13.
+[51]
+See paragraphs 23 to 26 and 92 to 95 of TR 2005/13.
+[52]
+See paragraphs 27 to 31; 33 to 36 and 113-128 of TR 2005/13.
+[53]
+See paragraphs 37 to 44 and 142 to 205 of TR 2005/13.
+[54]
+See paragraph 36 of TR 2005/13.
+[55]
+Muschinski v. Dodds
+(1984-1985) 160 CLR 583, 62 ALR 429, per Brennan J dissenting at p.604. For more detail on the nature of the rights and obligations flowing in situations where it has been expressed that the gift is to be used for a particular purpose see
+Countess of Bective v. FC of T
+(1932) 47 CLR 417 per Dixon J.
+[56]
+Muschinski v. Dodds
+supra, at p. 604 per Brennan J.
+[57]
+Subsection 9-10(1). Commissioner's views on the meaning of supply is explained in GSTR 2006/9
+[58]
+Paragraph 9-10(2).
+[59]
+Chatham Islands Enterprise Trust v. CIR
+[1999] 2 NZLR 388.
+[60]
+Chatham Islands Enterprise Trust v. CIR
+[1999] 2 NZLR 388, 393.
+[61]
+See GSTR 2006/9 at paragraphs 102 to 108 and 123 to 129 for further explanation of this proposition.
+[62]
+See for example
+TT-Line Company Pty Ltd v. Federal Commissioner of Taxation
+[2009] FCAFC 178; 2009 ATC 20-157; (2009) 74 ATR 771 and
+Commissioner of Taxation v. Secretary to the Department of Transport (Vic)
+[2010] FCAFC 84; 2010 ATC 20-196; 76 ATR 306.
+[63]
+See Goods and Services Tax Ruling GSTR 2001/4
+Goods and services tax: GST consequences of court orders and out-of-court settlements
+at paragraphs 89 to 96 and Goods and Services Tax Ruling GSTR 2001/6
+Goods and services tax: non-monetary consideration
+at paragraphs 64 to 72.
+[63A]
+Sections 9-15 and 9-17.
+[64]
+Marac Finance Ltd v. Virtue
+[1981] 1 NZLR 586.
+[64A]
+AP Group Limited v. Commissioner of Taxation
+[2013] FCAFC 105 at [33]
+[65]
+Burswood Management Ltd v. Federal Attorney-General
+23 FCR 144; 94 ALR 220.
+[66]
+(1953) 89 CLR 653.
+[67]
+Berry v. FCT
+(1953) 89 CLR 653 at 659.
+[68]
+Vidler v. FCT
+[2009] AATA 395; 2009 ATC 10-093; (2009) 72 ATR 832.
+[69]
+Vidler v. FCT
+[2009] AATA 395; 2009 ATC 10-093; (2009) 72 ATR 832, [65].
+[70]
+Vidler v. FCT
+[2009] AATA 395; 2009 ATC 10-093; (2009) 72 ATR 832.
+[70A]
+Subsection 9-15(2).
+[71]
+See for example
+TT-Line Company Pty Ltd v. Federal Commissioner of Taxation
+[2009] FCAFC 178; 2009 ATC 20-157; 74 ATR 771 per Edmonds J at [47].
+[72]
+See also
+Electrical Goods Importer v. Commissioner of Taxation
+[2009] AATA 854; 2009 ATC 1-018; (2009) 74 ATR 982, [65].
+[73]
+[2008] HCA 22; 2008 ATC 20-028; (2008) 68 ATR 158, [7].
+[74]
+[2008] HCA 22; 2008 ATC 20-028; (2008) 68 ATR 158, [30].
+[75]
+Paragraph 9-75(1)(b).
+[76]
+Assuming the acquisition of the supply is creditable. The parties need to record the GST payable on the supply, and their entitlement to input tax credits, to determine the net amount. A valid tax invoice or recipient created tax invoice must be held to claim the input tax credit to offset the GST payable (sections 29-10 and 29-70).
+[77]
+For further information see Goods and Services Tax Ruling GSTR 2001/6
+Goods and services tax: non-monetary consideration.
+[78]
+For further information see Goods and Services Tax Ruling GSTR 2002/2
+Goods and services tax:  GST treatment of financial supplies and related supplies and acquisitions.
+GSTR 2011/D4
+References
+ATO references:
+NO  1-3KZ7LI6
+ISSN: 1443-5160
+Related Rulings/Determinations:
+TR 97/22
+TR 2005/13
+TR 2006/10
+GSTR 2001/4
+GSTR 2001/6
+GSTR 2002/2
+GSTR 2006/9
+GSTR 2000/31
+Subject References:
+charities
+creditable acquisition
+gifts
+gifts to organisations
+government agencies
+government entities
+government grants income
+grants in kind
+grants of financial assistance & funding
+Goods and Services Tax
+GST
+GST charities
+GST consideration
+GST financial assistance
+GST financial supplies
+GST Government Stream
+GST input tax credits & creditable acquisitions
+GST non profit
+GST Non profit stream
+GST non-monetary consideration
+GST payments
+GST public benevolent institutions
+GST supply
+local government
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A 1999
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 9-5(a)
+ANTS(GST)A 1999 9-5(b)
+ANTS(GST)A 1999 9-5(c)
+ANTS(GST)A 1999 9-5(d)
+ANTS(GST)A 1999 9-10
+ANTS(GST)A 1999 9-10(1)
+ANTS(GST)A 1999 9-10(2)
+ANTS(GST)A 1999 9-10(2)(c)
+ANTS(GST)A 1999 9-10(2)(e)
+ANTS(GST)A 1999 9-15
+ANTS(GST)A 1999 9-15(1)
+ANTS(GST)A 1999 9-15(1)(a)
+ANTS(GST)A 1999 9-15(2)
+ANTS(GST)A 1999 9-17
+ANTS(GST)A 1999 9-17(1)
+ANTS(GST)A 1999 9-17(2)
+ANTS(GST)A 1999 9-17(3)
+ANTS(GST)A 1999 9-40
+ANTS(GST)A 1999 9-75(1)(b)
+ANTS(GST)A 1999 11-5
+ANTS(GST)A 1999 11-5(b)
+ANTS(GST)A 1999 11-20
+ANTS(GST)A 1999 11-25
+ANTS(GST)A 1999 Div 23
+ANTS(GST)A 1999 29-10
+ANTS(GST)A 1999 29-70
+ANTS(GST)A 1999 40-5
+ANTS(GST)A 1999 75-10(2)
+ANTS(GST)A 1999 Div 188
+ANTS(GST)A 1999 195-1
+ANTS(GST)R 1999 40-5.09(1)
+ITAA 1936 84
+ITAA 1997 Div 30
+TAA 1953 Sch 1 105-55
+TAA 1953 Sch 1 105-60
+TAA 1953 Sch 1 105-65
+TAA 1953 Sch 1 357-60(3)
+Case References:
+AP Group Limited v. Commissioner of Taxation
+[2013] FCAFC 105
+2013 ATC 20-417
+(2013) 214 FCR 301
+Berry v. FC of T
+(1953) 89 CLR 653
+(1953) 10 ATD 262
+5 AITR 591
+Burswood Management Ltd v. Federal Attorney General
+23 FCR 144
+94 ALR 220
+Chatham Islands Enterprise Trust v. CIR
+[1999] 19 NZTC 15075
+[1999] 2 NZLR 388
+Countess of Bective v. FC of T
+(1932) 47 CLR 417
+(1932) 2 ATD 80
+Electrical Goods Importer v. Commissioner of Taxation
+[2009] AATA 854
+2009 ATC 1-018
+(2009) 74 ATR 982
+FC of T v. McPhail
+(1968) 117 CLR 111
+(1968) 15 ATD 16
+10 AITR 552
+FC of T v. Reliance Carpet Co Pty Ltd
+[2008] HCA 22
+2008 ATC 20-028
+(2008) 68 ATR 158
+FC of T v. Secretary to the Department of Transport (Vic)
+[2010] FCAFC 84
+2010 ATC 20-196
+76 ATR 306
+Marac Finance Ltd v. Virtue
+[1981] 1 NZLR 586
+Muschinski v. Dodds
+(1984 - 1985) 160 CLR 583
+62 ALR 429
+Radaich v. Smith
+(1959) 101 CLR 209
+TT-Line Company Pty Ltd v. FC of T
+[2009] FCAFC 178
+ATC 20-157
+(2009) 74 ATR 771
+Vidler v. FC of T
+[2009] AATA 395
+2009 ATC 10-093
+(2009) 72 ATR 832
+Other References:
+The Macquarie Dictionary Online (Macmillan Publishers Australia, 2012).
+Explanatory Memorandum
+to the A New Tax System (Goods and Services Tax) Bill 1998.
+GSTR 2012/2 history
+Date:
+Version:
+Change:
+30 May 2012
+Original ruling
+14 August 2013
+Consolidated ruling
+Addendum
+3 September 2014
+Consolidated ruling
+Addendum
+You are here
+11 February 2015
+Consolidated ruling
+Addendum
+Back to top

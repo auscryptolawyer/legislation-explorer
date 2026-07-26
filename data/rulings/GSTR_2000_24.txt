@@ -1,0 +1,1189 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 17
+  • Div 27
+  • Div 358
+  • Division 11
+  • Division 129
+  • Division 130
+  • Division 132
+  • Division 133
+  • Division 134
+  • Division 138
+  • Division 15
+  • Division 17
+  • Division 189
+  • Division 19
+  • Division 21
+  • Division 27
+  • Division 358
+  • Division 70
+  • Division 84
+  • Subdivision 72-A
+
+Topics: GST, Trusts, Companies
+
+
+
+================================================================================
+
+GSTR 2000/24 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+69 related documents
+Goods and Services Tax Ruling
+GSTR 2000/24
+Goods and services tax: Division 129 - making adjustments for changes in extent of creditable purpose
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
+Treasury Legislation Amendment (Repeal Day) Act 2015
+.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+This Ruling contains references to provisions of the
+A New Tax System (Goods and Services Tax) Regulations 1999,
+which have been replaced by the
+A New Tax System (Goods and Services Tax) Regulations 2019.
+This Ruling continues to have effect in relation to the remade Regulations.
+Paragraph 32 of
+TR 2006/10
+provides further guidance on the status and binding effect of public rulings where the law has been repealed and rewritten.
+A
+comparison table
+which provides the replacement provisions in the
+A New Tax System (Goods and Services Tax) Regulations 2019
+for regulations which are referenced in this Ruling is available.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+Contents
+Para
+What this Ruling is about
+1
+Date of effect
+7
+Background
+8
+Ruling and Explanations
+11
+Definitions
+92
+Detailed contents list
+101
+Preamble
+This document was published prior to 1 July 2010 and was a public ruling for the purposes of former section 37 of the
+Taxation Administration Act 1953
+and former section 105-60 of Schedule 1 to the
+Taxation Administration Act 1953.
+From 1 July 2010, this document is taken to be a public ruling under Division 358 of Schedule 1 to the
+Taxation Administration Act 1953
+.
+A public ruling is an expression of the Commissioner's opinion about the way in which a relevant provision applies, or would apply, to entities generally or to a class of entities in relation to a particular scheme or a class of schemes
+.
+If you rely on this ruling, the Commissioner must apply the law to you in the way set out in the ruling (unless the Commissioner is satisfied that the ruling is incorrect and disadvantages you, in which case the law may be applied to you in a way that is more favourable for you - provided the Commissioner is not prevented from doing so by a time limit imposed by the law). You will be protected from having to pay any underpaid tax, penalty or interest in respect of the matters covered by this ruling if it turns out that it does not correctly state how the relevant provision applies to you
+.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal Database (
+http://law.ato.gov.au
+) to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling explains our view on how to work out an adjustment for an acquisition or importation under Division 129 of
+A New Tax System (Goods and Services Tax) Act 1999
+('GST Act'). Adjustments may increase or decrease your net amount for a tax period. In particular, the Ruling explains:
+•
+the circumstances when an adjustment will arise for an acquisition or importation;
+•
+what are the adjustment periods for an acquisition or importation;
+•
+how to work out if an adjustment has arisen; and
+•
+how to work out the amount of an adjustment and when to attribute the adjustment.
+2. Certain terms used in this Ruling are defined or explained in the Definitions section of the Ruling. These terms, when first mentioned elsewhere in the body of this Ruling, will appear in
+bold
+type.
+3. This Ruling applies to you if:
+•
+you are registered or required to be registered for the Goods and Services Tax ('GST');
+•
+you make acquisitions or importations on or after 1 July 2000; and
+•
+the actual use of the acquisition or importation for a creditable purpose differs from the planned use of it.
+4. This Ruling does not explain how to account for Division 129 adjustments on your Business Activity Statement (BAS). We explain this in the instructions for the BAS.
+5. In explaining how to work out the actual use for a creditable purpose, the Ruling draws on several methodologies for determining the extent of creditable purpose. We explain these methodologies in Goods and Services Tax Ruling GSTR 2006/3
+[1A]
+(for financial supplies) and Goods and Services Tax Ruling GSTR 2006/4
+[1B]
+(for supplies that are not financial supplies).
+5A. In addition:
+•
+Goods and Services Tax Bulletin GSTB 2006/1
+[1C]
+explains how to calculate input tax credits on car expenses;
+•
+Goods and Services Tax Ruling GSTR 2009/4
+[1D]
+explains when a Division 129 adjustment arises in relation to acquisitions made in constructing new residential premises; and
+•
+Goods and Services Tax Determination GSTD 2012/3
+[1E]
+determines that a Division 129 adjustment does not arise for services acquired in relation to a proposed merger and acquisition transaction that does not eventuate or changes.
+6. An adjustment under Division 129 may result in an amount being assessable income or an allowable deduction for income tax purposes.
+[1]
+The income tax effects of Division 129 adjustments are not explained in this Ruling.
+Date of effect
+7. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10).
+7A. [Omitted.]
+Background
+8. If you are registered or required to be registered, GST is payable on the taxable supplies you make in a tax period. However, you are entitled to a credit (called an
+input tax credit
+) for the GST included in the price of things you acquire for carrying on your enterprise (called
+creditable acquisitions
+).
+[2]
+You are also entitled to an input tax credit for the GST payable on goods you import for carrying on an enterprise (
+creditable importations
+).
+[3]
+9. The amount of the input tax credit depends on the extent to which the acquisition or importation is for a
+creditable purpose
+. By way of example, if you acquire a computer which you plan to use 60% for your business and 40% privately, your extent of creditable purpose for the computer is 60%. You are entitled to 60% of the full input tax credit.
+[4]
+10. The difference between your total GST payable and your total input tax credits for a period is called your net amount.
+[5]
+Your net amount is increased or decreased by adjustments you have for the tax period.
+[6]
+Ruling and Explanations
+11. The following topics are addressed in this Ruling:
+•
+when an adjustment arises under Division 129 (see paragraph 12);
+•
+the acquisitions or importations to which the Division applies (see paragraphs 13 to 14);
+•
+acquisitions or importations for which an adjustment does not arise (see paragraphs 15 to 27);
+•
+what are the adjustment periods for an acquisition or importation (see paragraphs 28 to 44);
+•
+how to work out if an adjustment arises for the acquisition or importation in an adjustment period (see paragraphs 45 to 67);
+•
+how to work out the amount of that adjustment for the acquisition or importation (see paragraphs 68 to 82);
+•
+in what tax period you must attribute the adjustment (see paragraph 83);
+•
+pooling where you have a large number of acquisitions or importations (see paragraphs 84 to 87);
+•
+treatment of consumables (see paragraph 88);
+•
+record keeping (see paragraphs 89 to 91).
+When an adjustment arises
+12. You may have an adjustment for an acquisition or importation where there is a difference between the actual use and the planned use of the thing for a creditable purpose. An adjustment also arises where there is a difference between the actual use of the thing up to the end of one adjustment period, and the actual use of it up to the end of the previous adjustment period.
+[7]
+These adjustments are made in a tax period called an adjustment period.
+Acquisitions or importations to which the Division applies
+13. Adjustments can arise under Division 129 for all acquisitions or importations even if they are not creditable acquisitions or creditable importations.
+[8]
+Example
+14.
+Andrew is a landscape architect who is registered for GST. He acquires a four wheel drive car solely for private use. Therefore, the acquisition is not a creditable acquisition and he was not entitled to an input tax credit. Later, he starts to use the car in his business. Andrew can apply Division 129 to work out if an adjustment has arisen for the car, even though it is not a creditable acquisition
+.
+[9]
+Acquisitions or importations for which an adjustment does not arise
+15. An adjustment does not arise under this Division for an acquisition or importation:
+•
+if the
+GST exclusive value
+of the acquisition or importation does not exceed a certain threshold;
+[10]
+•
+if a previous adjustment for the acquisition has arisen under Division 130;
+[11]
+•
+applied in making financial supplies if you do not
+exceed the financial acquisitions threshold
+;
+[12]
+or
+•
+if it is a creditable acquisition and is supplied as a gift to certain types of charitable entities.
+[13]
+No adjustment where the GST exclusive value of the acquisition or importation does not exceed certain thresholds
+16. An adjustment cannot arise where the GST exclusive value of an acquisition or importation is less than or equal to:
+[14]
+•
+$10,000 - for an acquisition or importation which
+relates to business finance
+; or
+•
+$1,000 - for any other acquisition or importation.
+17. The GST exclusive value of the acquisition or importation is also relevant for determining the number of adjustment periods for the acquisition or importation (adjustment periods are explained below - see paragraphs 28 to 44).
+What is an 'acquisition' or 'importation' for the purposes of the GST exclusive value thresholds
+18. You can acquire or import several things when you make an acquisition or an importation. For the purpose of applying the thresholds in Division 129, we consider that the GST exclusive value of an acquisition or importation means the GST exclusive value of each thing acquired or imported.
+Example
+19.
+Sophie's Hardware buys a computer package, desk and photocopier from Acme Office Supplies. The price and GST exclusive value of the items are
+:
+Price
+GST exclusive value
+Computer Package
+$5500
+$5000
+Desk
+$ 440
+$ 400
+Photocopier
+$1650
+$1500
+All of the items are delivered at the same time and are recorded on the one invoice. Sophie's Hardware applies the GST exclusive value thresholds against each item separately. An adjustment can only arise in respect of the computer and the photocopier. The GST exclusive value of the desk is below the threshold
+.
+
+Supplies and acquisitions made for a period or on a progressive basis
+20. An acquisition that is made for a period or on a progressive basis, and for consideration that is to be provided on a progressive or periodic basis, is treated as if each progressive or periodic component of the acquisition were a separate acquisition.
+[15]
+For example, if you lease a building, each progressive component of the lease is treated as a separate acquisition.
+No adjustment where there has been an adjustment under Division 130
+21. Division 130 is about adjustments arising for an acquisition or importation of goods because you have
+applied
+the goods solely to a private or domestic use. An adjustment cannot arise under Division 129 for an acquisition where you have already had an adjustment under Division 130 for the acquisition or importation of the goods.
+[16]
+No adjustment where you do not exceed the financial acquisitions threshold
+22. Under the basic rules in the GST Act, you apportion input tax credits according to the extent to which you acquire or import a thing for a creditable purpose.
+[17]
+For working out the extent of creditable purpose, you can treat the intended use of an acquisition for making financial supplies as being for a creditable purpose, if you do not exceed the financial acquisitions threshold.
+23. Similarly, under Division 129, if you do not exceed the financial acquisitions threshold you disregard any change in the extent to which the thing is applied in making financial supplies in determining if an adjustment arises.
+[18]
+24. Thus, an adjustment does not arise if the intended or former application differs from the actual application merely because there is a change in the extent to which the thing is applied in making financial supplies.
+Example
+25.
+Acme Co uses its computer to record its financial supplies and taxable supplies. Acme does not exceed the financial acquisitions threshold. Therefore, Acme disregards any change in the extent to which the computer is used for making financial supplies when determining whether an adjustment arises
+.
+No adjustment for the supply of certain gifts to some charitable entities
+26. If you were entitled to an input tax credit for an acquisition, an adjustment does not arise for the acquisition only because you supplied it as a gift to a charitable institution, a trustee of a charitable fund or a gift-deductible entity.
+[19]
+That is, an adjustment does not arise if the intended or former application differs from the actual application because the thing is supplied as a gift to a charity. Gifts are unconditional. If you supply the thing to a charity in exchange for something else, the supply will not be a gift.
+Example
+27.
+Michael owns and operates a mini
+-
+bus for which he is entitled to an input tax credit. He supplies some transportation services to a gift
+-
+deductible entity as a gift. He receives nothing in return for the supply. Michael disregards the extent to which he supplied the transport services to the gift
+-
+deductible entity when working out the actual application of the mini bus for a creditable purpose
+.
+What are the 'adjustment periods' for an acquisition or an importation
+28. An adjustment period is a tax period in which you make an adjustment under Division 129. Adjustment periods generally occur once a year. The number of adjustment periods for a thing depends on its value and whether or not it relates to business finance. There are some special rules for deciding your last adjustment period for a thing (see paragraphs 37 to 44).
+What is an adjustment period
+29. An adjustment period for an acquisition or importation is a tax period applying to you that:
+[20]
+•
+starts at least 12 months after the end of the tax period to which an input tax credit for the acquisition or importation is attributable; and
+•
+ends on 30 June, or, if none of your tax periods end on 30 June, the tax period which ends closer to the 30 June than any other tax period.
+Example
+30.
+Farmco Ltd is registered and has quarterly tax periods. It acquires some machinery on 15 March 2001 for its agricultural business. The GST exclusive value of the machinery was $100,000. An input tax credit of $10,000 was attributable to the tax period ending 31 March 2001
+.
+31.
+Farmco's first adjustment period is the tax period 1 April to 30 June 2002
+.
+This is the first tax period that ends on the 30 June and starts at least 12 months after the end of the tax period to which the input tax credit for the acquisition is attributable
+..
+32. If an input tax credit was not attributable because the thing was not a creditable acquisition or creditable importation, you treat the thing as if it was a creditable acquisition or a creditable importation.
+[21]
+Then you work out the adjustment period as above.
+Determining the number of adjustment periods there are for an acquisition or importation
+33. The number of adjustment periods for an acquisition or importation you have depends on:
+[22]
+•
+the GST exclusive value of the acquisition or importation; and
+•
+whether or not the acquisition or importation relates to business finance.
+34. The adjustment periods for acquisitions or importations that do not relate to business finance are:
+[23]
+GST-exclusive value of the acquisition or importation
+Adjustment periods
+$5,000 or less
+Two
+$5,001 to $499,999
+Five
+$500,000 or more
+Ten
+You will not have an adjustment under Division 129 where the GST exclusive value of the acquisition or importation that does not relate to business finance is $1,000 or less.
+[23A]
+However, even where the GST exclusive value of the acquisition or importation is $1,000 or less, you may have an increasing adjustment under Division 138 if your registration is cancelled.
+35. The adjustment periods for acquisitions or importations that relate to business finance are:
+[24]
+GST-exclusive value of the acquisition or importation
+Adjustment periods
+$50,000 or less
+One
+$50,001 to $499,999
+Five
+$500,000 or more
+Ten
+You will not have an adjustment under Division 129 where the GST exclusive value of the acquisition or importation that relates to business finance is $10,000 or less.
+[24A]
+However, even where the GST exclusive value of the acquisition or importation is $10,000 or less, you may have an increasing adjustment under Division 138 if your registration is cancelled.
+Example
+36.
+Continuing the example in paragraph 30, as the GST exclusive value of the machinery is $100,000 and it is not used in relation to business finance, Farmco has 5 adjustment periods for the machinery. The adjustment periods are
+:
+1 April 2002 to 30 June 2002
+;
+1 April 2003 to 30 June 2003
+;
+1 April 2004 to 30 June 2004
+;
+1 April 2005 to 30 June 2005
+;
+and
+1 April 2006 to 30 June 2006
+.
+Other rules which affect the timing of your last adjustment period
+37. The way you work out your last adjustment period for an acquisition or importation will be different if:
+•
+you have a concluding tax period under section 27-40;
+•
+the acquisition or importation belongs to a class for which the Commissioner has determined a fewer number of adjustment periods;
+•
+your acquisition or importation is disposed of, lost, stolen, or destroyed, or the thing is acquired for a certain period which expires.
+Your concluding tax period under section 27-40
+38. Your concluding tax period is an adjustment period.
+[25]
+A concluding tax period is the tax period in which:
+[26]
+•
+an individual dies, becomes bankrupt, or ceases to carry on any enterprise;
+•
+any other entity goes into liquidation or receivership, ceases to carry on any enterprise, or for any reason ceases to exist; or
+•
+an entity's registration is cancelled.
+39. If you ceased to carry on an enterprise, your tax period concludes at the end of the day on which the cessation occurs.
+[27]
+If a person dies or becomes bankrupt, or if an entity goes into liquidation or receivership, the tax period concludes at the end of the day before the particular event occurs.
+[28]
+If your registration is cancelled your tax period at the time is taken to have ceased at the end of the day on which the cancellation takes effect.
+[29]
+The Commissioner's determination having regard to record keeping requirements under income tax law
+40. For acquisitions or importations not relating to business finance, the Commissioner can determine that there are a fewer number of adjustment periods for a particular class of acquisitions or importations. In making his determination, the Commissioner shall have regard to the record keeping requirements for income tax.
+[30]
+Acquisitions or importations disposed of, lost, stolen, or destroyed, etc.
+41. An acquisition or importation may be disposed of, lost, stolen, or destroyed, or the period for which you acquired it may expire. If such an event occurs, the last adjustment period for the acquisition or importation is the next tax period applying to you that ends:
+[31]
+(a)
+on 30 June; or
+(b)
+if none of them end on 30 June, the tax period that ends closer to 30 June than any other tax period applying to you.
+Example
+42.
+Isabelle accounts for GST on a 3 monthly basis and has made an acquisition with a GST exclusive value of $10,000 on 20 August 2000. The acquisition does not relate to business finance. There are 5 adjustment periods in respect of the acquisition, the first of which starts 1 April 2002 and ends 30 June 2002. The acquisition was destroyed on 15 March 2002, before the first adjustment period. The last adjustment period for the acquisition is the tax period starting 1 April 2002 and ending 30 June 2002
+.
+43. A separate rule applies if the disposal is one which gives rise to a decreasing adjustment under Division 132.
+[32]
+You may have a decreasing adjustment under Division 132 if you sell an acquisition or importation that you acquired, imported or subsequently applied solely or partly to make financial supplies, or was solely or partly of a private or domestic nature.
+[33]
+44. If the disposal is one which gives rise to a decreasing adjustment under Division 132, then the adjustment period which preceded the disposal is the last adjustment period.
+[34]
+In the case where the disposal occurs before the first adjustment period for the thing, then the thing does not have an adjustment period but will have a decreasing adjustment under Division 132.
+[35]
+How to work out if an adjustment arises for an acquisition or importation in an adjustment period
+45. An adjustment arises for an acquisition or importation in an adjustment period where there is a difference between the actual use and the planned (or intended) use of the thing for a creditable purpose. An adjustment also arises where there is a difference between the actual use of the thing up to the end of one adjustment period, and the actual use of it up to the end of the previous adjustment period (the former use).
+[36]
+The Commissioner may determine, in writing, one or more ways to work out the extent to which an acquisition is for a creditable purpose.45A
+46. The actual use of a thing for a creditable purpose over a certain period of time is called the 'actual application of the thing'. The planned or former use of a thing for a creditable purpose is called the 'intended or former application of the thing'.
+47. To work out if an adjustment has arisen, you must:
+[37]
+•
+work out the actual application of the thing expressed as a percentage;
+•
+work out the intended or former application of the thing expressed as a percentage;
+•
+then compare the two percentages.
+Working out the 'actual application of the thing'
+48. Your actual application of a thing is the extent to which you applied it for a creditable purpose, during the period:
+•
+starting at the time you acquired or imported it; and
+•
+ending at the end of the relevant adjustment period.
+[38]
+49. Thus, the actual application of the thing is a cumulative measurement of its use, starting from the time you acquired it and finishing at the end of the adjustment period, expressed as a percentage. (See paragraphs 89 to 91 regarding record keeping requirements.)
+50. Where possible, you should use a direct method to work out the extent to which the acquisition or importation has been applied for a creditable purpose. If, for practical reasons, it is not possible to use a direct method, you can use an indirect method. We explain the direct and indirect methods in Goods and Services Tax Ruling GSTR 2006/4 (for acquisitions and importations generally) and Goods and Services Tax Ruling GSTR 2006/3 (for acquisitions and importations relating to financial supplies).
+Using direct methods to work out the actual application
+51. When applying a direct method, you use records that reflect the application of the thing up to the end of the relevant adjustment period. For each acquisition or importation, you use this data in an appropriate formula, such as:
+•
+for a motor car - kilometres travelled for a creditable purpose divided by total kilometres travelled;
+•
+for a building - floor area used for a creditable purpose divided by total floor area; or
+•
+for a computer - time used for a creditable purpose divided by total time used.
+Using indirect methods to work out the actual application
+52. As with a direct method, you use records that reflect the use of the thing up to the end of the relevant adjustment period. For each acquisition or importation, you use this data in an appropriate formula such as:
+•
+output based method - e.g., one expressing the total value of taxable and GST-free supplies as a percentage of total supplies; or
+•
+input based method - e.g., one expressing the value of inputs directly allocated to making taxable and GST-free supplies as a percentage of total inputs directly allocated.
+Non-use - (for example, repairs)
+53. When an acquisition or importation cannot be applied to any use because, for example, it is being repaired, the period of non-use is to be treated as if the actual usage pattern continued over the period of non-use.
+54. In calculating the actual application of the thing, you can apportion the non-use period according to the actual usage pattern or simply disregard the non-use period.
+Example
+55.
+Henry buys a car which he uses 60
+%
+for creditable purposes and 40
+%
+for private purposes. The vehicle is damaged in an accident and is not used for the three months it takes to have the damages repaired. In calculating the actual use of the vehicle, Henry can ignore the three month repair period. Therefore, provided his actual usage pattern does not change for the remainder of the adjustment period, the actual application of the vehicle for creditable purposes remains at 60
+%.
+Working out the 'intended or former application of a thing'
+56. To work out if an adjustment arises for an acquisition or importation, you compare the 'actual application of the thing' with the 'intended or former application of the thing'. The intended or former application of a thing is either:
+•
+the planned application for a creditable purpose as at the time you acquired or imported the thing (i.e., the intended use);
+[39]
+or
+•
+if there has been a previous adjustment under Division 129 for the thing - the actual application of the thing in respect of the previous adjustment period (i.e., the former use).
+[40]
+Example
+57.
+On 15 March 2001 Bill acquired a computer for $3,300, including $300 GST. He planned to use the computer 90
+%
+of the time in his business
+.
+58.
+The first adjustment period for Bill's computer is 1 April to 30 June 2002. From the date of acquisition to 30 June 2002, Bill had used the computer 60
+%
+for business purposes. In applying subsection 129
+-
+40
+(
+1) for the first adjustment period, the actual use of the thing is 60
+%
+and the intended use of it is 90%. Therefore, an adjustment arises for that adjustment period
+.
+59.
+The second adjustment period is 1 April to 30 June 2003. From the date of acquisition to 30 June 2003, Bill had used the computer 70
+%
+for business purposes. For the second adjustment period, the actual use of the computer is 70
+%
+and the former use of it is 60%. The actual application of the computer used for the first adjustment period (60
+%)
+becomes the
+'
+intended or former application of the thing' for the current adjustment period
+.
+Extent of creditable purpose for a reduced credit acquisition
+60. Under the basic rules (in Divisions 11 and 15), you are not entitled to an input tax credit for an acquisition to the extent it relates to making financial supplies.
+[41]
+However, because of Division 70,
+[42]
+you may be entitled to a reduced input tax credit for certain acquisitions called reduced credit acquisitions.
+61. The combined effect of Division 70 and the Regulations
+[43]
+is that you are entitled to 75% or 55% in some circumstances,
+[43A]
+of the input tax credit that would not otherwise arise under the basic rules because the acquisition is used to make financial supplies.
+62. Acquisitions of this kind can be subject to adjustments under Division 129. The extent to which a thing is acquired for a creditable purpose is worked out using Division 70.
+63. For a reduced credit acquisition which is wholly creditable because of Division 70, the extent to which the thing is acquired for a creditable purpose is the reduced input tax credit percentage.
+[44]
+Example
+64. The XYZ Credit Union acquires a service specified in the regulations as a reduced credit acquisition for $110,000, including $10,000 GST. It intends to use the acquisition solely for making financial supplies. The percentage of input tax credit available for such an acquisition is specified in the regulations to be 75%. When applying section 129-40 to determine if there is an adjustment, the XYZ Credit Union will use 75% as the extent to which it was acquired for a creditable purpose.
+65. However, where a reduced credit acquisition is only partly creditable because of Division 70, the extent to which the acquisition is acquired or applied for a creditable purpose is worked out using the following formula:
+[45]
+Extent of creditable purpose + (Extent of Division 70 creditable purpose * Percentage credit reduction)
+where:
+extent of creditable purpose
+is the extent of creditable purpose otherwise than under Division 70, expressed as a percentage;
+Extent of Division 70 creditable purpose
+is the extent of creditable purpose under Division 70, expressed as a percentage; and
+Percentage credit reduction
+is the reduced input tax credit percentage.
+The Commissioner may determine, in writing, one or more ways to work out the extent to which an acquisition is for a creditable purpose.
+[45A]
+Example
+66.
+Following on from the example from paragraph 64, XYZ Credit Union finds at the end of the first adjustment period that the reduced credit acquisition has been used 60
+%
+for making financial supplies and 40
+%
+for making taxable supplies. The extent to which the acquisition has been applied for a creditable purpose is
+:
+40
+% + (
+60
+%
+* 75
+%) =
+85
+%
+Comparing the actual application with the intended or former application
+67. An adjustment arises under Division 129 if the actual application of a thing differs from the intended or former application of the thing. Where the actual application is less than the intended or former application, the adjustment is an increasing adjustment.
+[46]
+Where the actual application is greater than the intended or former application of the thing, the adjustment is a decreasing adjustment.
+[47]
+How to work out the amount of the adjustment
+68. To work out the amount of an increasing adjustment, you use the formula:
+[48]
+full input tax credit * (intended or former application LESS actual application)
+69. To work out the amount of a decreasing adjustment, you use the formula:
+[49]
+full input tax credit * (actual application LESS intended or former application)
+70. In many cases, the 'full input tax credit' is the amount of the input tax credit to which you would have been entitled, had you acquired or imported the thing solely for a creditable purpose.
+[50]
+Example
+71.
+Continuing the example of Bill from paragraph 57, Bill intended to use the computer 90
+%
+for creditable purposes. The price of the computer included $300 GST. Therefore, the input tax credit for his computer was $270 ($300 x 90
+%).
+At the end of the first adjustment period, the actual application of the thing is 60
+%
+and the intended application of the thing is 90%. Thus, he has an increasing adjustment, the amount of which is worked out as follows
+:
+[51]
+full input tax credit * (intended or former application LESS actual application)
+that is:
+full input tax credit * (90% LESS 60%)
+When working out the 'full input tax credit', Bill treats the intended extent of creditable purpose as being 100%, instead of being 90%. Thus, the 'full input tax credit' is $300. The amount of Bill's increasing adjustment is therefore:
+full input tax credit * (intended or former application LESS actual application)
+that is:
+$300 * (90% LESS 60%) = $90
+Example
+72.
+Continuing the example of XYZ Credit Union from paragraphs 64 and 66, the extent to which the service was acquired for a creditable purpose is 75
+%,
+and the input tax credit was $7,500. At the end of the first adjustment period, the actual application of the service is 85
+%
+and the intended or former application of the service is 75%. Therefore the credit union has a decreasing adjustment which is worked out as follows
+:
+full input tax credit * (actual application LESS intended or former application)
+that is:
+full input tax credit * (85% LESS 75%)
+The 'full input credit' is $10,000. It is worked out as if the extent of creditable purpose was 100%. Therefore the amount of the credit union's decreasing adjustment is:
+$10,000 * (85% LESS 75%) = $1,000
+73. In other cases, you may need to take into account adjustments for the acquisition under Division 19 (about adjustments for adjustment events), Division 21 (about adjustments for bad debts), Division 133 (about adjustments for providing additional consideration under gross-up clauses), and Division 134 (about adjustments for third party payments) when working out the full input tax credit. By doing so, you ensure the Division 129 adjustment is calculated on the correct amount of consideration for the acquisition.
+74. When there has been a previous adjustment under one of these Divisions, you work out the adjustments as follows:
+[52]
+•
+increase or reduce your original consideration for the acquisition or importation, by an amount that reflects each event that had given rise to the previous adjustment; and
+•
+then multiply that result by 1/11 (the amount of tax included in the price). The result is the full input tax credit; and
+•
+multiply the full input tax credit by the difference between the actual application and the intended or former application.
+Example - taking into account a Division 21 adjustment
+75.
+Elizabeth makes a creditable acquisition on 15 March 2001. The extent of creditable purpose is 90%. The consideration is $33,000. The input tax credit attributed to the tax period ending 30 March 2001 is $2,700 ($33,000 x 1
+/
+11 x 90
+%).
+76.
+On 15 April 2001, an adjustment event occurs that causes a decrease in the consideration of $4,400 and this gives rise to an increasing adjustment under Division 19
+.
+77.
+On 15 July 2001, Elizabeth's supplier writes off $2,200 of the debt. After applying Division 21, Elizabeth has an increasing adjustment of $180 ($2,200 x 1
+/
+11 x 90
+%)
+attributed to the tax period ending 30 June 2001
+.
+78.
+At the end of the first adjustment period for the acquisition, the actual application of the thing is 50%. The intended or former application of the thing is 90%. Thus, Elizabeth has an increasing adjustment for the acquisition. The amount of the increasing adjustment is worked out as follows
+:
+[53]
+(Full input tax credit) x (90% - 50%)
+The amount of the 'full input tax credit' is:
+Original consideration
+$33,000
+LESS $4,400
+$28,600
+LESS $2,200
+$26,400
+multiplied by 1/11
+$2,400
+Therefore, the amount of the adjustment is:
+$2,400 * (90% - 50%) = $960
+Special rules for working out full input tax credit
+79. Under Subdivision 72A (about supplies to associates without consideration), certain supplies are treated as taxable supplies even though there has been no consideration. Under Division 84 (about offshore supplies other than goods or real property), certain supplies are treated as taxable supplies, and subject to reverse charging, even though they are not connected with Australia. Division 84 can also apply to supplies to associates without consideration.
+80. If the acquisition or importation is a taxable supply because of Subdivision 72A or Division 84, you work out the full input tax credit as if the supply of the thing to you was a taxable supply under section 9-5.
+[54]
+Adjustments for acquisitions made solely for a creditable purpose, that relate to offshore intangible supplies
+80A. A supply that is acquired solely for a creditable purpose is not a taxable supply that is subject to a reverse charge under section 84-5, due to the operation of paragraph 84-5(1)(ca).
+80B. Under subsection 84-30, for the purposes of working out any adjustment for the acquisition (including the full input tax credit referred to in sections 129-70 and 129-75), treat the supply as taxable under section 84-5 and the acquisition as fully creditable, and disregard the requirement in paragraph 84-5(1)(ca).
+Amount of adjustment where you do not exceed the financial acquisitions threshold
+81. If you do not exceed the financial acquisitions threshold, when working out the amount of an adjustment for an acquisition or importation, you disregard the change in the extent to which the thing is applied in making financial supplies.
+[55]
+82. Therefore, the amount of an adjustment will only take into account a change in the extent to which it is used for making other input taxed supplies or is for a private or domestic purpose.
+Attributing the adjustment to a tax period
+83. Usually, an adjustment is attributable to the tax period in which you become aware of the adjustment.
+[56]
+However, your adjustment under Division 129 is attributable to the tax period that is the adjustment period for that adjustment.
+[57]
+That is, the adjustment period is the tax period in which the adjustment arises (refer to paragraphs 28 to 40).
+Pooling where you have a large number of acquisitions or importations
+84. In some cases it may prove impractical or too costly to work out the use of an individual asset in order to compare its actual application with its intended or former application. This could occur where an entity has a large number of assets which relate to making both taxable and input taxed supplies (e.g., a financial institution). However, it may be possible to work out the application for a creditable purpose of a group or pool of assets.
+85. The methodology in Division 129 can be applied to a pool of acquisitions or importations. That is, the change in use for a creditable purpose of the pool would be used to determine the change in use of the individual acquisitions or importations within the pool. In addition, the calculation of the amount of the adjustment could, under certain conditions, be done for an entire pool.
+86. The bases of pooling could be by:
+•
+location;
+•
+type of acquisition or importation (e.g., reduced credit acquisitions, motor vehicles, computers, land and buildings);
+•
+business unit; or
+•
+profit or cost centre.
+87. The Commissioner will accept that the pooling method you use will produce the correct result where it allows you to:
+•
+make a reasonable estimate of changes in use for a creditable purpose for the pool, including any additions to the pool. That is, the method allows you to determine the actual application and the intended or former application of the pool;
+[58]
+•
+determine the full input tax credit for working out of the amount of the adjustment regardless of the book value of the asset (refer to paragraphs 70 to 80);
+[59]
+•
+comply with the adjustment period requirements for each acquisition or importation (refer to paragraphs 28 to 40). That is, individual acquisitions or importations are only included in the pool for the correct number of adjustment periods (depending on their GST exclusive value);
+[60]
+•
+account for transfers of acquisitions or importations from one pool to another pool to adjust the value of the pool;
+•
+account for disposals of acquisitions or importations (refer to paragraphs 41 to 44);
+[61]
+and
+•
+account for adjustments under Divisions 19, 21,133 and 134 (refer to paragraphs 73 to 78)
+[62]
+.
+You should keep records to show how your adjustment was worked out.
+Treatment of consumables
+88. Some acquisitions or importations are not held for long periods of time and are typically consumed within a short period after purchase. Depending on their value, Division 129 could still apply to these acquisitions and importations. However, if you have determined your input tax credit on the basis of the actual application for a creditable purpose, there will be no need to make an adjustment under Division 129.
+Record keeping
+89. If you make a creditable acquisition or creditable importation you must keep records that show and explain all transactions and other acts you engage in that are relevant to that acquisition or importation. You must retain those records for at least 5 years after the completion of the transaction or acts to which they relate. The records must be such as to enable your liability under the GST Act to be readily ascertained.
+[63]
+90. You should retain records relating to the calculation of adjustments for changes in the extent of creditable purpose. Where your acquisitions and importations are used wholly for a creditable purpose, you will have no adjustments under Division 129, and will not need to keep such records. However, if your acquisitions are not used wholly for a creditable purpose, some records will need to be kept in order to do the calculations. Records you normally keep may be sufficient to satisfy these requirements (e.g., depreciation schedules or motor vehicle log books). Where this is not the case, additional records may need to be kept.
+91. Your calculation of changes in the extent of creditable purpose, should reflect the change in use from the time of acquisition up to the end of your adjustment period. It is not necessary to maintain a continuous record of the use of an acquisition or importation for the purpose of the calculation. It will be sufficient to make a reasonable estimate. This estimate can be based on the use of the thing for a representative period of use between the time of acquisition and the end of the first adjustment period, or between two adjustment periods. This will also apply, where you make an acquisition or importation that is not creditable, but which is subsequently applied for a creditable purpose, giving rise to an adjustment under Division 129. Goods and Services Tax Ruling GSTR 2006/4 and Goods and Services Tax Ruling GSTR 2006/3 explain methods for determining the extent of creditable purpose.
+Definitions
+92. The following terms are defined for the purposes of this Ruling. Some of the terms are themselves defined in the GST Act.
+Apply
+[64]
+93. Apply, in relation to a thing acquired or imported, includes:
+•
+supply the thing; and
+•
+consume, dispose of or destroy the thing; and
+•
+allow another entity to consume, dispose of or destroy the thing.
+Creditable acquisition
+94. A creditable acquisition is an acquisition you use in your enterprise. You are entitled to an input tax credit for these acquisitions. You make a creditable acquisition
+[65]
+if:
+(a)
+you acquire anything solely or partly for a creditable purpose; and
+(b)
+the supply of the thing to you is a taxable supply; and
+(c)
+you provide, or are liable to provide, consideration for the supply; and
+(d)
+you are registered, or required to be registered.
+Creditable purpose
+[66]
+95. You apply a thing for a creditable purpose to the extent that you apply it in carrying on your enterprise. However, you do not apply a thing for a creditable purpose to the extent that:
+(a)
+the application relates to making supplies that are input taxed; or
+(b)
+the application is of a private or domestic nature.
+To the extent that an application relates to making financial supplies through an enterprise, or a part of an enterprise, that you carry on outside Australia, the application is not, for the purposes of paragraph (a) above, treated as one that relates to making supplies that would be input taxed.
+Creditable importation
+96. The term 'creditable importation' relates to goods you import to use in your enterprise. You are entitled to an input tax credit for these importations. You make a creditable importation if:
+[67]
+(a)
+you import goods solely or partly for a creditable purpose; and
+(b)
+the importation is a taxable importation; and
+(c)
+you are registered or required to be registered.
+Exceed the financial acquisitions threshold
+[68]
+97. Under Division 189, you exceed the financial acquisitions threshold in a particular month if, assuming that all the financial acquisitions
+[68A]
+you have made, or are likely to make, during the 12 months ending at the end of that month, or during that month and the next 11 months, were made solely for a creditable purpose, either or both of the following would apply:
+(i)
+the amount of all the input tax credits to which you would be entitled for your financial acquisitions would exceed $150,000
+[68AA]
+or such other amount specified in the GST regulations;
+(ii)
+the amount of the input tax credits to which you would be entitled for your financial acquisitions would be more than 10% of the total input tax credits to which you would be entitled for all your acquisitions and importations (including the financial acquisitions) during the relevant months.
+[68B]
+GST exclusive value
+[69]
+98. GST exclusive value means:
+•
+in relation to an acquisition (other than a luxury car) - 10/11 of the price of the supply of the thing being acquired;
+•
+in relation to the acquisition of a luxury car - 10/11 of the price of the supply of the luxury car (excluding any luxury car tax payable on the supply);
+•
+in relation to an importation that is a taxable importation - the value of the importation; or
+•
+in relation to an importation that is not a taxable importation - the amount that would be the value of the importation if it were a taxable importation.
+Input tax credit
+99. The term 'input tax credit' relates to the GST included in the price you pay for an acquisition or the GST paid on an importation. An entitlement arises under section 11-20 (about creditable acquisitions) or section 15-15 (about creditable importations).
+Relates to business finance
+[70]
+100. An acquisition or importation relates to business finance, if at the time of the acquisition or importation, it:
+(a)
+related solely or partly to making financial supplies; and
+(b)
+was not solely or partly of a private or domestic nature.
+Detailed contents list
+101. Below is a detailed contents list for this Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+7
+Background
+8
+Ruling and Explanation
+11
+When an adjustment arises
+12
+Acquisitions or importations to which the Division applies
+13
+Example
+14
+Acquisitions or importations for which an adjustment does not arise
+15
+No adjustment where the GST exclusive value of the acquisition or importation does not exceed certain thresholds
+16
+What is an 'acquisitions' or 'importation' for the purposes of the GST exclusive value thresholds
+18
+Example
+19
+Supplies and acquisitions made for period or on a progressive basis
+20
+No adjustment where there has been an adjustment under Division 130
+21
+No adjustment where you do not exceed the financial acquisitions threshold
+22
+Example
+25
+No adjustment for the supply of certain gifts to some charitable bodies
+26
+Example
+27
+What are the 'adjustment periods' for an acquisition or an importation
+28
+What is an adjustment period
+29
+Example
+30
+Determining the number of adjustment periods there are for an acquisition or importation
+33
+Example
+36
+Other rules which affect the timing of your last adjustment period
+37
+Your concluding tax period under section 27
+-
+40
+38
+The commissioners determination having regard to record keeping requirements under income tax law
+40
+Acquisitions or importations disposed of, lost, stolen, or destroyed, etc
+41
+Example
+42
+How to work out if an adjustment arises for an acquisition or importation in an adjustment period
+45
+Working out the 'actual application of the thing'
+48
+Using direct methods to work out the actual application
+51
+Using indirect methods to work out the actual application
+52
+Working out actual application of a thing for a period, a part of which the thing is not used at all
+53
+Example
+55
+Working out the 'intended or former application of a thing'
+56
+Example
+57
+Extent of creditable purpose for a reduced credit acquisition
+60
+Example
+64
+Example
+66
+Comparing the actual application with the intended or former application
+67
+How to work out the amount of the adjustment
+68
+Example
+71
+Example
+72
+Example - taking into account a Division 21 adjustment
+75
+Special rules for working out full input tax credit
+79
+Adjustments for acquisitions made solely for a creditable purpose, that relate to offshore intangible supplies
+80A
+Amount of adjustment where you do not exceed the financial acquisitions threshold
+81
+Attributing the adjustment to a tax period
+83
+Pooling where you have a large number of acquisitions or importations
+84
+Treatment of consumables
+88
+Record keeping
+89
+Definitions
+92
+Apply
+93
+Creditable acquisitions
+94
+Creditable purpose
+95
+Creditable importation
+96
+Exceed the financial acquisitions threshold
+97
+GST exclusive value
+98
+Input tax credit
+199
+Relates to business finance
+100
+Detailed contents list
+101
+Commissioner of Taxation
+28 June 2000
+Footnotes
+[1A]
+GSTR 2006/3 Goods and services tax: determining the extent of creditable purpose for providers of financial supplies
+[1B]
+GSTR 2006/4 Goods and services tax: determining the extent of creditable purpose for claiming input tax credits and for making adjustments for changes in extent of creditable purpose
+[1C]
+GSTB 2006/1 Goods and services tax: how to claim input tax credits for car expenses
+[1D]
+GSTR 2009/4 Goods and services tax: explains when an adjustment for a change in extent of creditable purpose arises under Division 129 in relation to acquisitions made in constructing new residential premises.
+[1E]
+GSTD 2012/3 Goods and services tax: does an adjustment for a change in extent of creditable purpose necessarily arise for services acquired in relation to a proposed merger and acquisition transaction that does not eventuate, or that does not proceed in the manner contemplated at the time the services were acquired?
+[1]
+Division 17 and Division 27
+Income Tax Assessment Act 1997
+.
+[2]
+Section 11-20.
+[3]
+Section 15-15.
+[4]
+Section 11-30.
+[5]
+Section 17-5.
+[6]
+Section 17-10.
+[7]
+Subsection 129-40(1). Adjustment periods are explained in paragraphs 28 - 44.
+[8]
+Subsection 129-5(1).
+[9]
+For most new cars acquired on or after 1 July 2000 but prior to 1 July 2002, input tax credits are phased in under section 20 of the
+ANTS (Goods and Services Transition) Act 1999
+.
+[10]
+Section 129-10.
+[11]
+Section 129-15.
+[12]
+Subsection 129-5(2).
+[13]
+Section 129-45.
+[14]
+Section 129-10.
+[15]
+Section 156-20.
+[16]
+Section 129-15.
+[17]
+Divisions 11 and 15.
+[18]
+Paragraph 129-5(2)(a).
+[19]
+Section 129-45.
+[20]
+Subsection 129-20(1).
+[21]
+Paragraph 129-20(1)(a).
+[22]
+Subsections 129-20(2) and 129-20(3).
+[23]
+Subsection 129-20(3). However, section 129-25 may reduce the number of adjustment periods.
+[23A]
+Subsection 129-10(2).
+[24]
+Subsection 129-20(2). However, section 129-25 may reduce the number of adjustment periods.
+[24A]
+Subsection 129-10(1).
+[25]
+Subsection 129-20(1).
+[26]
+Section 27-40.
+[27]
+Subsection 27-40(1A).
+[28]
+Subsection 27-40(1)
+[29]
+Subsection 27-40(2).
+[30]
+Subsection 129-20(3).
+[31]
+Subsection 129-25(1).
+[32]
+Paragraph 129-25(1)(a) and subsection 129-25(2)
+[33]
+Section 132-1.
+[34]
+Subsection 129-25(2).
+[35]
+Paragraph 129-25(2)(d).
+[36]
+Subsection 129-40(1).
+[37]
+Subsections 129-40(1) and (2).
+[38]
+Step 1 of the Method Statement, subsection 129-40(1).
+[39]
+Paragraph (a) of Step 2 in subsection 129-40(1).
+[40]
+Paragraph (b) of Step 2 in subsection 129-40(1).
+[41]
+This is subject to the operation of the financial threshold, which is explained at paragraphs 22 and 97.
+[42]
+Division 70 is about reduced input tax credits for certain acquisitions used to make financial supplies.
+[43]
+Part 4-2
+A New Tax System (Goods and Services Tax) Regulations 1999
+.
+[43]
+See regulation 70-5.03 of the
+A New Tax System (Goods and Services Tax) Regulations 1999
+.
+[44]
+Subsection 129-40(3).
+[45]
+Section 70-20.
+[45A]
+Subsection 70-20(3).
+[46]
+Step 3, subsection 129-40(1).
+[47]
+Step 4, subsection 129-40(1).
+[48]
+Section 129-70.
+[49]
+Section 129-75.
+[50]
+Paragraphs 129-70(a) and 129-75(a).
+[51]
+Section 129-70.
+[52]
+Section 129-80.
+[53]
+Section 129-70.
+[54]
+Paragraphs 129-70(b) and 129-75(b).
+[55]
+Paragraph 129-5(2)(b).
+[56]
+Section 29-20.
+[57]
+Section 129-90.
+[58]
+Section 129-40.
+[59]
+Sections 129-70 and 129 -75.
+[60]
+Section 129-20.
+[61]
+Section 129-25.
+[62]
+Section 129-80.
+[63]
+Section 70 of the
+Taxation Administration Act 1953
+.
+[64]
+Section 129-55.
+[65]
+Section 11-5.
+[66]
+Section 129-50. This expression is defined in similar terms in sections 11-15 and 15-10 for determining your planned or intended extent of creditable purpose for acquisitions and importations respectively.
+[67]
+Section 15-5.
+[68]
+Division 189.
+[68AA]
+Division 189 was amended to increase the first limb of the financial acquisitions threshold from $50,000 to $150,000. The amendment, effected by the
+Tax Laws Amendment (2011 Measures No. 9) Act 2012
+, applies for working out whether you exceed the financial acquisitions threshold at a time during July 2012 or a later month. The first limb of the financial acquisitions threshold remains at $50,000 when working out whether you exceed the financial acquisitions threshold at a time during June 2012 or an earlier month. See Goods and Services Tax Ruling GSTR 2003/9
+Goods and Services Tax: financial acquisitions threshold
+.
+[68A]
+Section 189-15 defines 'financial acquisition' as 'an acquisition that relates to the making of a financial supply (other than a financial supply consisting of a borrowing)'.
+[68B]
+For members of a GST group, the financial acquisitions threshold is calculated under subsections 189-5(2) and 189-10(2) as if the whole group were a single entity.
+[69]
+Section 195-1.
+[70]
+Subsection 129-10(3).
+Previously issued in draft form as GSTR 2000/D2.
+References
+ATO references:
+NO  99/18164-8
+ISSN 1443-5160
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2003/9
+GSTR 2006/3
+GSTR 2006/4
+GSTB 2006/1
+GSTR 2009/4
+GSTD 2012/3
+Subject References:
+acquisition
+disposal
+destruction
+actual application of the thing
+adjustment
+adjustment period
+attribution
+business finance
+concluding tax period
+creditable acquisition
+creditable purpose
+financial supplies
+full input tax credit
+gift
+goods applied solely to private or domestic use
+GST exclusive value
+importation
+intended or former application of the thing
+progressive or periodic acquisitions
+reduced credit acquisition
+relates to business finance
+tax period
+exceed the financial acquisitions threshold
+financial acquisitions threshold
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A 1999 9-5
+ANTS(GST)A 1999 Division 11
+ANTS(GST)A 1999 11-5
+ANTS(GST)A 1999 11-20
+ANTS(GST)A 1999 11-30
+ANTS(GST)A 1999 Division 15
+ANTS(GST)A 1999 15-5
+ANTS(GST)A 1999 15-15
+ANTS(GST)A 1999 Division 19
+ANTS(GST)A 1999 17-5
+ANTS(GST)A 1999 17-10
+ANTS(GST)A 1999 Division 21
+ANTS(GST)A 1999 27-40
+ANTS(GST)A 1999 27-40(1A)
+ANTS(GST)A 1999 27-40(2)
+ANTS(GST)A 1999 29-20
+ANTS(GST)A 1999 Division 70
+ANTS(GST)A 1999 70-20
+ANTS(GST)A 1999 70-20(3)
+ANTS(GST)A 199 Subdivision 72-A
+ANTS(GST)A 1999 Division 84
+ANTS(GST)A 1999 84-5
+ANTS(GST)A 1999 84-5(1)(ca)
+ANTS(GST)A 1999 84-30
+ANTS(GST)A 1999 Division 129
+ANTS(GST)A 1999 129-5(1)
+ANTS(GST)A 1999 129-5(2)
+ANTS(GST)A 1999 129-5(2)(a)
+ANTS (GST)A 1999 129-5(2)(b)
+ANTS(GST)A 1999 129-10
+ANTS(GST)A 1999 129-10(1)
+ANTS(GST)A 1999 129-10(2)
+ANTS(GST)A 1999 129-10(3)
+ANTS(GST)A 1999 129-15
+ANTS(GST)A 1999 129-20
+ANTS(GST)A 1999 129-20(1)
+ANTS(GST)A 1999 129-20(1)(a)
+ANTS(GST)A 1999 129-20(2)
+ANTS(GST)A 1999 129-20(3)
+ANTS(GST)A 1999 129-25
+ANTS(GST)A 1999 129-25(1)
+ANTS(GST)A 1999 129-25(2)
+ANTS(GST)A 1999 129-25(2)(d)
+ANTS(GST)A 1999 129-40
+ANTS(GST)A 1999 129-40(1)
+ANTS(GST)A 1999 129-40(2)
+ANTS(GST)A 1999 129-40(3)
+ANTS(GST)A 1999 129-45
+ANTS(GST)A 1999 129-50
+ANTS(GST)A 1999 129-55
+ANTS(GST)A 1999 129-70
+ANTS(GST)A 1999 129-70(a)
+ANTS(GST)A 1999 129-70(b)
+ANTS(GST)A 1999 129-75
+ANTS(GST)A 1999 129-75(a)
+ANTS(GST)A 1999 129-75(b)
+ANTS(GST)A 1999 129-80
+ANTS(GST)A 1999 129-90
+ANTS(GST)A 1999 Division 130
+ANTS(GST)A 1999 Division 132
+ANTS(GST)A 1999 132-1
+ANTS(GST)A 1999 Division 138
+ANTS(GST)A 1999 156-20
+ANTS(GST)A 1999 Division 189
+ANTS(GST)A 1999 189-5
+ANTS(GST)A 1999 189-5(2)
+ANTS(GST)A 1999 189-10
+ANTS(GST)A 1999 189-10(2)
+ANTS(GST)A 1999 189-15
+ANTS(GST)A 1999 195-1
+ANTS(GST)R 1999 Pt. 4-2
+ANTS(GST)R 1999 70-5.03
+ANTS(GSTT)A 1999 20
+ITAA 1997 Div 17
+ITAA 1997 Div 27
+TAA 1953 70
+TAA 1953 Sch 1 Div 358
+A New Tax System (Goods and Services Tax) Amendment Regulation 2012 (No. 1)
+Tax Laws Amendment (2011 Measures No. 9) Act 2012
+GSTR 2000/24 history
+Date:
+Version:
+Change:
+28 June 2000
+Original ruling
+18 December 2002
+Consolidated ruling
+Addendum
+29 August 2012
+Consolidated ruling
+Addendum
+31 October 2012
+Consolidated ruling
+Addendum
+11 December 2013
+Consolidated ruling
+Addendum
+You are here
+30 November 2016
+Consolidated ruling
+Addendum
+Back to top

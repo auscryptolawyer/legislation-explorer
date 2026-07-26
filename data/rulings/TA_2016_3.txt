@@ -1,0 +1,169 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Division 815
+  • section 136AD of ITAA 1936
+
+Topics: Companies, International
+
+
+
+================================================================================
+
+TA 2016/3 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+4 related documents
+Taxpayer Alert
+TA 2016/3
+Arrangements involving related party foreign currency denominated finance with related party cross currency interest rate swaps
+On 8 April 2024, the
+Treasury Law Amendment (Making Multinationals Pay Their Fair Share - Integrity and Transparency) Act 2024
+was enacted. The amendments apply to assessments for income years commencing on or after 1 July 2023, with the exception of new integrity rules (debt deduction creation rules) which apply in relation to assessments for income years starting on or after 1 July 2024.
+Under the new thin capitalisation rules:
+•
+the newly classified 'general class investors' will be subject to one of 3 new tests
+o
+fixed ratio test
+o
+group ratio test
+o
+third party debt test
+•
+financial entities will continue to be subject to the existing safe harbour test and worldwide gearing test or may choose the new third party debt test
+•
+ADIs will continue to be subject to the previous thin capitalisation rules
+•
+the arm's length debt test has been removed for all taxpayers.
+ADIs, securitisation vehicles and certain special purpose entities are excluded from the debt deduction creation rules.
+Entities that are Australian plantation forestry entities are excluded from the new rules. For these entities, the previous rules will continue to apply.
+This Alert provides a summary of our concerns about a significant, emerging or recurring higher risk tax issue that we currently have under risk assessment.
+While an alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more about Alerts. See
+Alerts
+issued to date.
+Description
+We are currently reviewing arrangements which appear to be designed to increase the cost of corporate borrowings by Australian companies from their overseas related parties and/or avoid interest withholding taxes. Under these arrangements, companies use their related party financing arrangements to create an alleged need to swap currencies and periodical payments for questionable commercial reasons. The related party cross currency interest rate swap agreements we have reviewed have involved the Australian company becoming liable to further payments to an offshore related party. These payments represent additional financing costs but are not in the legal form of interest. We are concerned that these arrangements achieve contrived thin capitalisation, withholding tax and transfer pricing outcomes.
+The arrangements being reviewed involve the economic conversion of a lower interest rate currency related party borrowing (usually US dollars (USD)) into a higher cost related party currency loan (usually Australian dollars (AUD)) for which the Australian entity:
+•
+claims significantly more deductions by way of the additional amounts payable under the related party derivative; and/or
+•
+does not pay interest withholding tax on any of the amounts payable under the related party derivative.
+For the purposes of simplicity, references in this alert will generally be to AUD and USD, although should be read as extending to similar arrangements using any higher interest rate currency and lower interest rate currency.
+In many cases the global economic group will have itself funded the related party debt funding from existing cash reserves and/or from external borrowing in the lower rate currency.
+Our concerns about these arrangements are that the funding has been implemented in an excessively complex manner for tax purposes, rather than in a simpler manner more appropriate in the circumstances such as funding by AUD loans, USD loans (without swaps) or equity inclusive funding.
+The potential tax consequences are primarily in relation to the application of the rules relating to general deductibility, non-arm's length conditions, i.e. transfer pricing, and the general anti-avoidance rules including withholding tax benefits.
+The exact features of the arrangement, and our concerns, will differ depending on various factors including:
+•
+The 'natural' currency of the Australian entity, i.e. the currency in which it will be earning the revenues to repay the loan
+•
+The accounting functional currency of the Australian entity
+•
+The Australian tax functional currency of the Australian entity.
+The diagram below shows a simplified example of the type of arrangement being reviewed:
+These arrangements typically display all or several of the following features:
+•
+The accounting functional currency of the Australian entity's global group is a foreign currency.
+•
+The Australian entity enters into a significant offshore related party financing arrangement or refinancing arrangement under which the Australian entity assumes lower interest rate foreign currency denominated liabilities (usually USD). The financing arrangement may be in the form of loans or instruments treated as debt for Australian tax purposes, which could be hybrids not treated as debt in the overseas jurisdiction.
+•
+The 'natural currency' of the Australian entity will sometimes be USD, in that:
+•
+the Australian taxpayer entity needs foreign currency, for example, to meet foreign currency liabilities for capital expenditure, working capital or refinancing purposes
+•
+the relevant operations in Australia generate revenue and cash flows predominantly in foreign currency and this foreign currency is reasonably considered to be the 'natural' currency of the Australian taxpayer entity.
+•
+Where the natural currency of the Australian entity is instead AUD, depending on the extent of the Australian entity's Australian dollar funding requirements and Australian dollar revenues, the net effect of all the relevant related party transactions is that the Australian entity obtains AUD and/or settles its obligations in AUD.
+•
+Where the offshore related party borrowing is denominated in a foreign currency, the Australian entity, or a member of the entity's Australian tax consolidated or multiple entry consolidated (MEC) group, enters into a related party cross currency swap or other foreign currency derivative with an offshore related party. Under the related party derivative, the Australian entity is liable to pay a higher interest rate currency, usually AUD, and is entitled to receive the foreign currency, being the foreign currency in which the Australian entity's offshore related party borrowings are denominated. There may or may not be actual exchange or payment of Australian dollars or foreign currency under the derivative.
+•
+The rights and obligations under the related party derivative are reasonably expected to result in net periodic amounts payable by the Australian entity to the offshore related counterparty due to the reasonably anticipated potential changes in the exchange rate for the relevant foreign currency.
+•
+Use of hybrid entities or instruments in the Australian tax consolidated or MEC group of the Australian taxpayer entity such that:
+•
+the other side of the related party derivative is untaxed in the relevant overseas jurisdiction
+•
+payments under the derivative are deducted twice, i.e. once in Australia and once by the hybrid entity's overseas owners in the overseas jurisdiction; and/or
+•
+the level of net Australian debt appears to be a function of the Australian tax savings.
+•
+The rights and obligations of the offshore related counterparty under the derivative are not offset through third party transactions, either directly or indirectly via back-to-back transactions involving other members of the global group.
+•
+The offshore related party may not be in a position to utilise foreign tax credits arising from Australian withholding tax payments.
+•
+For an Australian entity with an Australian dollar functional currency for Australian tax purposes, the tax consequences of payment of the 'principal' leg of the related party derivative is purported to offset potential Australian tax payable by the Australian entity on any foreign currency exchange gain when the related party borrowing by the entity matures or is otherwise repaid or terminated.
+•
+Where the revenues of the Australian entity are primarily in the foreign currency, the related party derivative does not hedge or otherwise offset any commensurate cash flow exposure in relation to the liability resulting from movement in relevant currency exchange rates, other than the aforementioned potential Australian tax payable.
+•
+The net effect of all the relevant related party transactions is that the Australian entity increases its deductible financing costs from the relatively lower foreign currency financing costs to the relatively higher Australian dollar financing costs, potentially without being subject to interest withholding tax on the incremental financing costs which would have been subject to interest withholding tax in the case of economically equivalent AUD financing.
+Accounting and capital extraction
+Some taxpayers have sought to argue that these arrangements have been entered into for accounting (at local entity and/or whole of group level) or ease of capital extraction purposes. On closer examination, these purposes have generally been found to be ancillary at most and/or addressed at protecting against the potential adverse tax consequences of other tax structuring elements of the financing, in particular the use of hybrid entities and arrangements. In some cases, there may be an effect in International Financial Reporting Standards (IFRS) or Financial Accounting Standards Board (FASB) accounting results, but the economic group's primary reporting to the market 'normalises' this effect.
+It may also be necessary to consider whether the accounting and capital extraction result could have been achieved through simpler financing mechanisms, including ordinary equity.
+What are our concerns?
+We are concerned that the funding has been implemented in an excessively complex manner for Australian tax purposes, rather than in a simpler manner more appropriate in the circumstances, such as funding by AUD loans, USD loans (without swaps) or equity inclusive funding.
+We are particularly concerned with arrangements with the following features:
+•
+The cross border related party derivative transaction -
+•
+does not hedge or offset a commensurate commercial exposure of the Australian entity
+•
+is claimed to 'hedge' a contingent liability to pay Australian tax on any foreign currency gain that might arise when the related party foreign currency loan is repaid or terminated; and/or
+•
+hedges or offsets an exposure that was created by another cross border related party transaction.
+•
+Any economic and/or accounting exposure or risk which the derivative is claimed to hedge is not required to be further addressed at the global group level. For example -
+•
+the exposure and risk are offset or otherwise substantially netted off against assets, rights or obligations elsewhere in the global group
+•
+the derivative is expected to generate a loss to 'hedge' against accounting risks at the Australian group level that cause no substantive issues for the global group
+•
+the accounting risk is ancillary, could be easily addressed through other simpler financing mechanisms and/or may be existent in IFRS/FASB accounts but is excluded from external reporting of normalised earnings or similar; and/or
+•
+the residual economic or accounting risk relates to the tax consequences of the financing, in particular tax consequences arising as a result of asymmetric taxation of the lender and borrower.
+•
+The net pre-tax financial outcome to the Australian group is neutral or negative, as compared with other forms of funding, with the net financial benefit to the group instead flowing from the Australian tax savings from the arrangement.
+•
+Incorrect pricing or mispricing of the related party derivative and/or an embedded high profit margin for the offshore related derivative counterparty (akin to a bank's margin).
+We are concerned these arrangements are being used for the purpose, or for purposes which include, the non-payment of interest withholding tax or the claiming of increased deductions by the relevant Australian entities. This might attract the operation of the anti-avoidance rule in Part IVA of the
+Income Tax Assessment Act 1936
+(ITAA 1936) or other anti-avoidance rules.
+We are also concerned about:
+•
+the deductibility of the payments under the related party derivative; and/or
+•
+whether the related party derivative and/or the related party borrowing -
+•
+are on conditions that are not the conditions that might be expected to operate between independent parties dealing wholly independently with each other for the purposes of applying Division 815-A or Division 815-B of the
+Income Tax Assessment Act 1997,
+or
+•
+involved non-arm's length consideration for the purposes of applying section 136AD of ITAA 1936.
+What are we doing?
+We are currently reviewing these arrangements and have commenced compliance activities in relation to a number of cases. Compliance activity will continue and we are developing our technical position on the arrangements.
+We will canvass our concerns in more detail in due course.
+What should you do?
+If you have entered into, or are contemplating entering into, an arrangement of this type we encourage you to discuss your situation with us by emailing
+PGIAdvice@ato.gov.au
+Date of Issue:
+26 April 2016
+Date of Effect:
+Authorised by:
+Jeremy Hirschhorn
+Deputy Commissioner
+Contact officer:
+Stephanie Long
+Business line:
+Public Groups and International
+Phone:
+(02) 9374 2040
+Back to top

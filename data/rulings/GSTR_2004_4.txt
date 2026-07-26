@@ -1,0 +1,1598 @@
+HEAD NOTE
+================================================================================
+
+Title: Goods and Services Tax Ruling
+
+Sections Referenced:
+  • Div 156
+  • Div 189
+  • Div 21
+  • Div 29
+  • Div 358
+  • Div 820
+  • Division 156
+  • Division 189
+  • Division 21
+  • Division 29
+  • Division 820
+
+Cases Referenced:
+  • Asia Pacific Holdings Limited v Commissioner 
+  • Booth v Federal Commissioner 
+  • Booth v. Federal Commissioner 
+  • Gibbon v Inspector General 
+  • Mercantile Pty Limited v Commissioner 
+  • Olson v Dyson
+(1969) 120 CLR 365
+  • Olson v. Dyson
+(1969) 120 CLR 365
+  • Rio Tinto Services Limited v Commissioner 
+  • Rio Tinto Services Ltd v Commissioner 
+  • Shepherd v Federal Commissioner 
+  • Shepherd v. Federal Commissioner 
+  • Tailby v Official Receiver
+(1888)
+  • Tailby v. Official Receiver
+(1888)
+  • Taxation v American Express Wholesale Currency Services Pty Limited
+
+  • Taxation v American Express Wholesale Currency Services Pty Limited
+(2010) 187 FCR 398
+
+Topics: GST, Trusts, Partnerships, Companies, International
+
+
+
+================================================================================
+
+GSTR 2004/4 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+81 related documents
+Goods and Services Tax Ruling
+GSTR 2004/4
+Goods and services tax:  assignment of payment streams including under a typical securitisation arrangement
+Please note that the
+PDF version
+is the authorised consolidated version of this ruling and amending notices.
+There is a Compendium for this document:
+GSTR 2004/4EC
+.
+From 1 July 2015, the term 'Australia' is replaced in nearly all instances within the GST, Luxury Car Tax, and Wine Equalisation Tax legislation with the term 'indirect tax zone' by the
+Treasury Legislation Amendment (Repeal Day) Act 2015
+.  The scope of the new term, however, remains the same as the now repealed definition of 'Australia' used in those Acts.  This change was made for consistency of terminology across the tax legislation, with no change in policy or legal effect.  For readability and other reasons, where the term 'Australia' is used in this document, it is referring to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+This Ruling contains references to provisions of the
+A New Tax System (Goods and Services Tax) Regulations 1999,
+which have been replaced by the
+A New Tax System (Goods and Services Tax) Regulations 2019.
+This Ruling continues to have effect in relation to the remade Regulations.
+Paragraph 32 of
+TR 2006/10
+provides further guidance on the status and binding effect of public rulings where the law has been repealed and rewritten.
+A
+comparison table
+which provides the replacement provisions in the
+A New Tax System (Goods and Services Tax) Regulations 2019
+for regulations which are referenced in this Ruling is available.
+This document incorporates revisions made since original publication. View its
+history
+and amending notices, if applicable.
+FOI status:
+may be released
+Contents
+Para
+LEGALLY BINDING SECTION:
+What this Ruling is about
+1
+Date of effect
+8
+Background
+10
+Ruling and explanation
+19
+Definitions
+138
+NOT LEGALLY BINDING SECTION:
+Appendix - Detailed contents list
+159
+Relying on this Ruling
+This publication (excluding appendix) is a public ruling for the purposes of the
+Taxation Administration Act 1953.
+If this Ruling applies to you, and you correctly rely on it, we will apply the law to you in the way set out in this Ruling. That is, you will not pay any more tax or penalties or interest in respect of the matters covered by this Ruling.
+Further, if we think that this Ruling disadvantages you, we may apply the law in a way that is more favourable to you.
+[
+Note:
+This is a consolidated version of this document. Refer to the Legal Database
+(www.ato.gov.au/law)
+to check its currency and to view the details of all changes.]
+What this Ruling is about
+1. This Ruling explains the Commissioner's view on how the
+A New Tax System (Goods and Services Tax) Act 1999
+(GST Act) and the
+A New Tax System (Goods and Services Tax) Regulations 2019
+(GST Regulations) apply to the supply of rights to a payment stream by means of an assignment.
+2. In particular this Ruling deals with the supply of a right to a payment stream arising from the following types of transactions:
+•
+Loan portfolios;
+•
+Finance and operating leases;
+•
+Hire purchase agreements;
+•
+Residential/commercial property leases;
+•
+Royalty agreements; and
+•
+Credit card receivables.
+3. This Ruling also deals with issues related specifically to debt factoring and typical securitisation arrangements.
+4. It does not cover circumstances where there is:
+•
+a mere redirection of a payment from one entity to another; and
+•
+a novation of an agreement that gives rise to a payment stream.
+5. For the purposes of this Ruling the term 'assignor' is used to refer to the entity that first assigns the right to a payment stream. Where the term 'originator' is used this refers to an assignor under a typical securitisation arrangement.
+6. Certain terms in this Ruling are defined or explained in the Definition Section of the Ruling. These terms, when first mentioned in the text in the body of the Ruling, appear in
+bold type.
+7. Unless otherwise stated all legislative references in this Ruling are to the GST Act.
+Date of effect
+8. This Ruling applies both before and after its date of issue. However, this Ruling will not apply to taxpayers to the extent that it conflicts with the terms of a settlement of a dispute agreed to before the date of issue of this Ruling (see paragraphs 75 and 76 of Taxation Ruling TR 2006/10
+Public Rulings
+).
+8A. The Addendum to this Ruling that issued on 25 September 2020 applies to tax periods commencing on or after 1 October 2020.
+9. [Omitted.]
+9A. [Omitted.]
+Background
+10. Table item 2 of subsection 40-5.09(3) of the GST Regulations refers to a debt, credit arrangement or right to credit, including a letter of credit. The examples applicable to table item 2, as set out in clause 2 of Schedule 2 to the GST Regulations, include the right to an income stream under a securitisation arrangement.
+11. While the example refers to a right to an income stream under a securitisation arrangement, we consider that in the context of the GST Regulations, table item 2 covers payment streams that are not necessarily 'income'. This Ruling therefore refers to a payment stream rather than an income stream. We also consider that item 2 applies to a right to a payment stream in other circumstances besides under securitisation arrangements.
+12. One of the common methods by which the right to a payment stream is provided or acquired is through an assignment. Some arrangements, identified in paragraphs 13 and 14 of this Ruling, do not involve an assignment of rights to a payment stream as contemplated by this Ruling.
+Redirection of payments
+13. Where an entity merely redirects the payment of an amount due to it to another entity there is no assignment of the right to the payment stream. It is an arrangement for the payment of amounts receivable by one entity from another to a third party. The payment may be the consideration for a supply by the entity receiving the payment.
+Novation
+14. Typically a novation involves the creation or substitution of a new agreement between the original parties to an agreement and a third party.
+[1]
+Apart from a novation effected by statute all parties must agree to a novation in order to give enforceable rights or obligations to the third party. An assignment of a chose in action by contrast, does not require the participation of all the original parties.
+[2]
+Securitisation arrangements
+15. A securitisation arrangement is the process whereby an entity packages and converts legal or beneficial title to future receivables and kindred assets into marketable debt securities which are traded in the capital market.
+[3]
+Securitisation is widely used because of the advantages it offers in terms of management of risk and raising funds.
+16. Many institutions in Australia now offer debt securities backed by a wide variety of assets that include residential mortgages, commercial property loans, lease, credit card and trade receivables. These assets commonly have predictable cash flows, are small compared to the overall pool of assets, are reasonably homogeneous in terms of maturity and risk profile, and have similar terms and conditions.
+17. Securitisation structures vary according to the objectives of the originating institution, the assets involved, and the targeted investors but are all essentially variations on a theme.
+[4]
+A typical securitisation structure is as follows:
+18. The main feature of a typical securitisation arrangement is the establishment of a special purpose vehicle (SPV) under either trust or corporations law. The purpose of the SPV is to acquire receivables and any associated collateral rights from an originating institution. The SPV pays for the receivables by issuing debt securities (or notes) backed by the receivables. A more detailed explanation and discussion of a typical securitisation arrangement is provided at paragraphs 92 to 125 of this Ruling.
+Ruling and explanation
+19. The provision, acquisition or disposal of an
+interest
+in or under a debt is a financial supply under table item 2 of subsection 40-5.09(3) of the GST Regulations. Provided the requirements of subsection 40-5.09(1) of the GST Regulations are satisfied the supply of the right to a payment stream by way of assignment is a financial supply as it is the provision, acquisition or disposal of an interest in a debt.
+Interest in or under a debt
+20. Section 196-1.01 of the GST Regulations provides that an interest in relation to a financial supply is anything that is recognised at law or in equity as property in any form. Relevant examples of an interest include a debt or right to credit and a right to future property.
+[5]
+The term interest is therefore given its broadest meaning so that an interest is as wide as the legal and equitable concept of property, including rights under a contract.
+[6]
+21. One of the matters listed in table item 2 of subsection 40-5.09(3) of the GST Regulations is debt. Debt is not defined in the GST Act or the GST Regulations and therefore takes its general meaning unless a contrary intention appears.
+[7]
+When not expanded by particular words or phrases the ordinary legal usage of the term debt is an obligation actually incurred.
+[8]
+22. Subsection 40-5.09(3) of the GST Regulations deals with interests in or under debt. The term interest, in relation to debt, extends to an existing contractual right to a debt that will arise in the future.
+Provision, acquisition or disposal of an interest in or under a debt
+23. A debt is a
+chose in action.
+In the general law it is usual to talk of the assignment of a chose in action, rather than provision, acquisition or disposal of an interest. For GST purposes an assignment comes within the meaning of disposal
+[9]
+of an interest. There are two methods of assignment:
+•
+a
+legal assignment;
+and
+•
+an
+equitable assignment.
+24. Neither method requires any particular form of words. However, in both instances, a clear expression of an intention to assign is required and the subject matter of the assignment must be identified with certainty.
+[10]
+25. Certain formalities are required for an effective legal assignment. These are set out in legislation in every Australian jurisdiction
+[11]
+and can be summarised as follows:
+(a)
+the assignment must be absolute and not purport to be by way of charge;
+(b)
+it must be in writing under the hand of the assignor; and
+(c)
+express notice must be given to the debtor in writing.
+[12]
+If an assignment fails to comply with these requirements (for example, it is only part of an existing chose in action like the assignment of part of an interest in a partnership in
+Everett's
+case), it may be effective as an equitable assignment. The law as to equitable assignments has been discussed in a number of cases in the High Court of Australia dealing with assignments for income tax purposes:
+Norman,
+[13]
+Shepherd,
+[14]
+Everett
+[15]
+and
+Booth.
+[16]
+26. So far as is relevant for present circumstances, these cases establish that the equitable assignment of a presently existing right to a payment stream (such as part of the royalties under an existing licence of a patent as in
+Shepherd's
+case) is effective immediately as an assignment.
+27. An assignment of an expectancy (such as the right to dividends on shares as in
+Norman's
+case or the right to rent on a lease that has not yet been entered into as in
+Booth's
+case) is effective, when the right to the payment arises in the future, if the assignment is for consideration.
+28. The term equitable assignment is used in both cases, though in the latter case it may more accurately be described as a 'contract to assign' when the relevant property comes into existence as explained by Windeyer J
+[17]
+in
+Norman's
+case. The agreement will take effect as an equitable assignment of the right immediately upon the assignor acquiring ownership of the right and provided it is capable of being identified with certainty as the one to which the agreement to assign applied.
+[18]
+29. Until such time as the right has crystallised, the interest of an assignee of future property for valuable consideration is more than merely contractual. Equity regards the assignee as having a prospective interest in the property to be acquired which has some of the incidents of a proprietary right.
+[19]
+It is an interest for the purposes of the GST Regulations which includes rights under a contract.
+[20]
+30. Provided there has been an effective legal or equitable assignment of a right to all or part of a payment stream, or an agreement to assign the right to a payment stream that arises in the future there will be the supply of an interest in or under a debt. This is a financial supply under table item 2 of subsection 40-5.09(3) of the GST Regulations provided the requirements of subsection 40-5.09(1) of the GST Regulations are also satisfied.
+Alternative view
+31. There is an alternative view that a purported assignment of a future debt, which is a mere expectancy, cannot be characterised as the provision, acquisition or disposal of an interest in a debt. This is on the basis that there can be no interest 'recognised at law or in equity as property in any form'
+[21]
+, in a debt which has not yet come into existence. This view assumes that it is not possible to have a proprietary interest, at law or in equity, in something that does not exist.
+32. According to the alternative view, there is an assignment of the actual debt when it comes into existence, rather than an assignment of a 'future debt'. This is consistent with the effect of a purported assignment of future property, which has no legal effect, but which equity treats as an agreement to assign with the assignment taking effect immediately upon the property coming into existence.
+33. The Commissioner considers the better view to be that, for the reasons set out at paragraphs 23 to 30 of this Ruling, an agreement to assign future debts involves the disposal of an interest in a debt which, if the other elements of section 40-5.09 of the GST Regulations are satisfied will constitute a financial supply at that point. That is, both the assignment of an interest in debt and an agreement to assign debt are financial supplies provided subsection 40-5.09(1) of the GST Regulations is satisfied.
+Assignment of payment stream and assignment of underlying property
+34. It is necessary in some cases to distinguish the assignment of underlying property from the assignment of a payment stream arising from the property. For example if the owner of a building that is leased sells real property in the form of the freehold in the building, to another person subject to the existing lease (the reversion), the purchaser will be entitled to the rent from the building as its owner. In an abstract sense it can be said that the former owner has assigned the right to rent but it is not an assignment of the rental stream in the sense that is generally understood in the law when referring to assignments of rights to payment streams (Mason CJ in Booth).
+[22]
+35. Where real property subject to an existing lease is sold, upon the sale of the reversion, a supply continues to be made to the lessee.
+[22A]
+36. If there is no sale of the building but only an assignment of the rental stream, there are two supplies relevant in applying the GST, the rental of the building by its owner, and the dealing in the stream of rental payments which will be a financial supply if the conditions of section 40-5.09 of the GST Regulations are satisfied.
+37. The same distinction between assignment of the payment stream and assignment of underlying property applies to sales of shares (discussed in
+Norman)
+[23]
+and of an interest in a partnership as opposed to the income from the partnership interest
+(Everett's
+[24]
+case). However, in these cases whether it is the payment stream, or the underlying property that is sold, the GST treatment of the supply will be the same because the supply of the shares or the interest in the partnership can be a financial supply in its own right. This is in contrast to the different GST treatment of the supply of the rental stream from the supply of the building which may be subject to GST.
+38. In some of the cases with which this Ruling deals, bare payment streams such as trade and credit card receivables are assigned. Although there are related transactions, being the supplies of goods or services that give rise to the receivables, the recipient obtains only those receivables and not the other rights and obligations that flow from the related transactions.
+39. Although the circumstances are different, the outcome is similar to assignment of rental streams. There are two relevant transactions for GST purposes, the supplies of the goods or services (which relate to their supplier) and the assignment of the receivables which will be a financial supply if the conditions of section 40-5.09 of the GST Regulations are satisfied. In the case of credit card receivables, the receivable itself arises out of a financial supply, being the provision of credit by the credit card company to its credit card customer.
+40. Where the payment stream arises from secured or unsecured loans or other credit arrangements the assignment of the right to the payment stream will not be effective in making the assignee the provider of credit following the assignment unless the parties enter into a novation.
+41. In addition to the right to receive the payment stream, other things covered by the assignment might include all right, title and interest in or to:
+•
+related documents, records and accounts;
+•
+payments arising from enforcement action;
+•
+any ancillary rights;
+•
+any related security; and
+•
+all rights in the underlying asset which is the subject of the particular receivables agreement.
+Whether this amounts to an assignment of the underlying property as opposed to an assignment of the right to the payment stream will depend on an analysis of the transaction.
+42. If the original owner of the underlying property continues to have rights to the property or functions to perform, it is likely that the transaction will be characterised as an assignment of the payment stream, rather than a sale of the underlying property. In this event the assignment of the right to the payment stream together with the related rights is a composite supply.
+43. The supply is composite
+[25]
+because the supply of the related rights is considered integral, ancillary or incidental to the dominant part of the assignment which is of the right to the payment stream. The supply of the related rights is not seen as an end in itself but rather it merely contributes to or complements the use or enjoyment of the dominant part of the supply. The composite supply is a financial supply of an interest in or under a debt on which no GST liability arises if the provisions of section 40-5.09 of the GST Regulations are satisfied.
+Liability for GST on the underlying supply
+44. Since an assignment of a payment stream does not change the underlying supply, the assignor retains the obligation to make the underlying supply and remit any GST liability in respect of that supply.
+Example 1 - obligation to remit GST
+45.
+RentCo leases a number of commercial properties to tenants. It assigns the payment streams from the leases to OpportunistCo for valuable consideration. RentCo must continue to remit GST on the rental payments for the duration of the relevant leases as it is the supplier under the lease agreements.
+46. If, on the other hand, there is a transfer of legal ownership of underlying property, as in the case of an outright sale, that carries with it a payment stream, the GST consequences of the supply of the property after the assignment will be determined by reference to the circumstances of the purchaser. In addition the GST consequences of the supply of the underlying property to the purchaser will have to be determined according to the relevant provisions.
+47. Following the transfer of legal ownership of the underlying property, the purchaser of that property will be the supplier under the arrangement which gives rise to the payment stream. If the supply under that arrangement is a taxable supply, for example a lease of a motor vehicle or office equipment, the purchaser may be required to register and remit GST if the other requirements of section 9-5 are satisfied.
+Entitlement to input tax credits
+48. So long as the assignor continues to make the underlying supply, it will be entitled to claim input tax credits or reduced input tax credits, as the case may be, on its acquisitions to make that supply in much the same manner as before the assignment occurred.
+49. Where the assignor has previously made predominately taxable supplies the assignment of the payment stream, being a financial supply, may cause it to exceed the financial acquisitions threshold.
+[26]
+The assignor will then need to consider its entitlement to input tax credits including the apportionment of certain acquisitions not directly related to the underlying supply.
+[27]
+50. Because the assignor still performs some functions as the supplier it will make acquisitions that relate to performing those functions. Whether or not there is an entitlement to input tax credits for these acquisitions will depend on the GST character of that underlying supply.
+Making provision for the GST liability
+51. At law the obligation to remit GST on an underlying taxable supply where the associated payment stream has been assigned, may exist for a number of years depending on the term of the particular agreement that gives rise to the payment stream.
+[28]
+The assignor may have to take this into account at the time that the right to the payment stream is assigned.
+52. In practice, the assignor may ensure that there are sufficient funds available to it to meet this obligation in a number of ways. It may, for example, partially assign the right excluding an amount to meet the assignor's obligation to pay GST or it may reflect the GST component in the pricing methodology for the assignment of the right.
+[29]
+Attribution of GST on the original supply
+53. The basic attribution rules are set out in Division 29. The rules differ according to whether the entity accounts for GST on the cash or the non-cash basis. Special rules also apply to the attribution of GST on supplies, made by non-cash basis suppliers, that are made progressively or for a period.
+[30]
+54. The assignor of the debt is the entity that makes the supply to which the debt relates. Whether the payment by the debtor is made to the assignor (as
+trustee
+for the assignee) or to the assignee directly, the assignor continues to be liable for any GST on the supply.
+55. The supply is made for consideration, and, depending on the nature of the supply, may be a taxable supply if all the other criteria in section 9-5 are met. Depending on the basis of accounting for GST, the supplier is required to attribute GST under section 29-5 to the extent that any consideration is received (cash basis) or in full on the earlier of receipt of any consideration or issue of an invoice (non-cash basis). It does not specify that the supplier needs to issue the invoice, nor that the supplier must receive the consideration.
+Cash basis
+56. Where an entity assigns a payment stream arising from taxable supplies that the entity makes and the entity accounts on the cash basis, GST is attributed to the tax period in which consideration is received for the supply, but only to the extent that the consideration is received in the tax period.
+[31]
+The amount of GST payable is 1/11th of the amount paid to either the assignor or the assignee depending on the arrangements that exist following the assignment.
+Non-cash basis
+57. Subject to the operation of Division 156 which is about progressive or periodic supplies, for an entity operating on a non-cash basis, attribution occurs at the earlier of the tax period in which any of the consideration for the supply is received, or in which an invoice is issued.
+[32]
+58. Division 156 modifies the basic attribution rules to attribute GST as if each progressive or periodic component of the supply were a separate supply.
+[33]
+In the case of a lease Division 156 has the effect of treating each periodic or progressive component as if it were a separate supply for attribution purposes which is then accounted for in accordance with section 29-5.
+[34]
+The GST is attributed to the tax period in which a separate invoice for a particular component is issued or when the periodic or progressive payment for that particular component is received.
+Effect of notice of an assignment to the debtor
+59. For an effective legal assignment there is a mandatory requirement to give express notification of the assignment to the debtor. Notification may also be given of an equitable assignment in order to preserve priorities, for example in an insolvency, and to prevent the debtor from obtaining a valid discharge of the debt from the assignor.
+[35]
+Where notification is given, the debtor is bound to make payments to the assignee from that point onwards.
+Issuing invoices notifying an obligation to pay
+60. In a practical sense this raises an issue about which entity is to provide an invoice, for example, where separate invoices are issued for each progressive or periodic component of a lease. An invoice is defined in section 195-1 to mean 'a document notifying an obligation to make a payment'. What this means is that the document must not only inform the recipient of a presently existing obligation to make a payment but also the amount of that payment.
+[36]
+It is also desirable that an invoice contains sufficient information to identify or ascertain the date of issue, the supplier and the recipient.
+[37]
+61. In paragraph 32 of GSTR 2000/34 it is accepted that a third party can issue an invoice notifying an amount payable by one party to another. Therefore, where the assignor and assignee agree, it will be sufficient for the assignee to issue an invoice to the debtor to trigger attribution of the GST payable by the assignor provided the requirements set out in paragraph 60 of this Ruling are satisfied.
+Issuing tax invoices
+62. A similar issue arises for tax invoices in cases where the underlying supply that gives rise to the payment stream is a taxable supply. The responsibility for issuing a tax invoice rests with the supplier except in circumstances where the Commissioner has determined that recipient created tax invoices may be issued.
+[38]
+63. The fact that the supplier has assigned the right to the payment stream does not relieve that entity of the obligation to provide a tax invoice to the recipient of the supply within 28 days if there is a request from the recipient to do so.
+[39]
+64. Alternatively an existing document may already satisfy the requirements for a tax invoice for a supply or all components of a supply. For example, a lease agreement and supporting schedule setting out the price of each component of the supply can satisfy the requirements.
+[40]
+Bad debts and assignments
+65. Division 21 of the GST Act provides for adjustments
+[41]
+for bad debts, for the purpose of working out net amounts of GST payable, where an entity accounts for GST on a basis other than the cash basis. Requirements for a decreasing or an increasing adjustment include that the whole or part of a debt is written off as bad, or is overdue for 12 months or more.
+66. Where a debt that arises from an underlying taxable supply is assigned, by legal or equitable means, it is no longer the property of the assignor.
+[42]
+In this situation the assignor is unable to write off any of the debt and claim a decreasing adjustment if it subsequently turns bad. However if the whole or part of the debt remaining is reassigned by the assignee, then the original assignor is again able to write off the whole or that part reassigned and claim a decreasing adjustment accordingly.
+67. The assignee of the debt will not be entitled to any adjustment under Division 21 because:
+•
+they are not the supplier in the underlying transaction that gave rise to the right to the debt or payment stream; and
+•
+in any event, the assignment of the debt is a financial supply that does not attract GST.
+Interaction between GST and income tax in a partial assignment
+68. In some instances an entity may assign only a portion of the right to a payment stream to another entity. In these circumstances it could be the case that the assignor incurs an income tax liability on that portion of the payment stream that the assignor retains.
+69. Section 17-5 of the
+Income Tax Assessment Act 1997
+provides that the GST amount payable on a taxable supply is not assessable or exempt income of an entity. This applies in the context of a partial assignment of a right in which the assignor retains an amount to meet its obligation to pay GST so that that amount is not included in the assessable income of the assignor.
+Assignment of various types of payment streams
+70. Each of the payment streams arising from the contracts discussed below represents a right that is capable of assignment according to the principles discussed in paragraphs 23 to 33 of this Ruling. The right to the payment stream is property of a kind that fits the description of an interest in a matter mentioned in table item 2 of subsection 40-5.09(3) of the GST Regulations.
+Loan agreements
+71. A loan is a financial supply under table item 2 of subsection 40-5.09(3) of the GST Regulations provided the requirements of subsection 40-5.09(1) of the GST Regulations are satisfied, as it is the provision of an interest in or under a credit arrangement or right to credit. The loan agreement also gives rise to a presently existing right to receive payments of principal and interest from the debtor.
+72. The presently existing right to the payment stream is property and an interest in debt for the purposes of the definition of 'interest' in section 196-1.01 of the GST Regulations. Assignment of this property is the disposal
+[43]
+of an interest in a debt for GST purposes. The disposal of the interest, by way of assignment, is a financial supply if the requirements of subsection 40-5.09(1) of the GST Regulations are satisfied.
+Finance and operating leases
+73. While there are differences between finance and operating leases, these are not relevant in determining the GST consequences of an assignment of the right to the payment stream. Under either type of lease the agreement typically provides for periodic payments, from the lessee, over the term of the lease, plus the residual amount in the case of a finance lease. Both the periodic payments and the residual amount are part of the payment stream, the right to which exists under the particular lease agreement.
+74. The residual amount under a finance lease is recovered by the lessor, by offering the asset for public sale, in the first instance. The lessee is required to meet any shortfall in the sale proceeds up to the residual amount and may receive anything in excess of this amount. Neither the payment of a shortfall nor receipt of an excess has any GST consequences for the assignment of the right to the payment stream.
+[44]
+75. Both types of lease agreement are for a taxable supply provided the requirements of section 9-5 are satisfied. Each lease agreement also gives rise to a presently existing right to the payment stream that is property and an interest for the purposes of regulation 40-5.02.
+76. Assignment of this property is the disposal of an interest in or under a debt for GST purposes. The disposal of this interest is a financial supply if the requirements of subsection 40-5.09(1) of the GST Regulations are satisfied. Disposal of this interest does not affect the obligation of the assignor to remit GST on the taxable supply by way of the lease.
+Residential/commercial property leases
+77. A real property lease gives rise to a presently existing right to receive rental payments for the term of the lease. Typically leases also include options for further leases upon conclusion of the current term. A commercial property lease is a taxable supply provided the requirements of section 9-5 are satisfied.
+78. The presently existing right to the payment stream under a current lease is property and an interest in debt for the purposes of the definition of 'interest' in section 196-1.01 of the GST Regulations. The right to a payment stream under a lease yet to come into existence, because it is dependent on the exercise of an option, is future property.
+[45]
+A right to future property is also an interest for the purposes of the definition in section 196-1.01.
+79. The assignment or agreement to assign these forms of property is the disposal of an interest in a debt for GST purposes. The disposal of the interest is a financial supply if the requirements of subsection 40-5.09(1) of the GST Regulations are satisfied. Disposal of this interest does not affect the obligation of the assignor to remit GST on the taxable supply by way of a commercial property lease.
+Hire purchase agreements
+80. The supply of goods and the supply of credit under a hire purchase agreement entered into on or after 1 July 2012 are taxable supplies if the requirements of section 9-5 are satisfied.
+[46]
+In contrast, the supply of credit under a hire purchase agreement entered into before 1 July 2012 is an input taxed financial supply if there is a separate charge for the credit component that is disclosed to the recipient of the goods.
+[46A]
+However, this difference in treatment is irrelevant for the purposes of determining the GST consequences of an assignment of the right to the payment stream arising from either type of agreement.
+81. A hire purchase agreement gives rise to a presently existing right to receive regular payments from the debtor. In some circumstances receipt of the final payment may be contingent on the option to purchase the goods being exercised. Even though the payment may be subject to a contingency, the right to the payment stream, under an existing hire purchase agreement, is a presently existing right that is property and an interest for the purposes of the definition in section 196-1.01 of the GST Regulations.
+82. Assignment of this property is the disposal of an interest in a debt for GST purposes. The disposal of the interest is a financial supply if the requirements of subsection 40-5.09(1) of the GST Regulations are satisfied. Disposal of this interest does not affect the obligation of the assignor to remit GST on the taxable component of a supply by way of a hire purchase agreement.
+Royalties
+83. The supply that is the subject of a royalty agreement or licence is a taxable supply where the requirements of section 9-5 are satisfied. The agreement or licence may provide for payment of royalties that is subject to contingences such as certain production levels being reached or commodity prices achieving certain levels. Even though payments may be subject to contingencies, the right to the payment stream, under an existing agreement or licence, is a presently existing right that is property and an interest for the purposes of the definition in section 196-1.01 of the GST Regulations.
+84. Assignment of this property is the disposal of an interest in a debt for GST purposes. The disposal of the interest, by way of assignment, is a financial supply if the requirements of subsection 40-5.09(1) of the GST Regulations are satisfied. Disposal of this interest does not affect the obligation of the assignor to remit GST on the taxable supply underlying the royalty agreement or licence.
+Credit card receivables
+85. A credit card receivable arises from a financial supply of an interest under a credit arrangement or a right to credit, under table item 2 of subsection 40-5.09(3) of the GST Regulations provided the requirements of subsection 40-5.09(1) of the GST Regulations are satisfied. A feature of a credit card receivable is that it is usually paid off in a relatively short timeframe. Accordingly arrangements for the assignment of this type of debt may provide for continual assignments, under a master agreement, of the right to debts as they arise.
+86. Each assignment of credit card receivables, under such an arrangement, will represent presently existing debts incurred by cardholders. The right to these debts is property and an interest for the purposes of the definition in section 196-1.01 of the GST Regulations.
+87. Assignment of this property is the disposal of an interest in a debt for GST purposes. The disposal of the interest, by way of assignment, is a financial supply if the requirements of subsection 40-5.09(1) of the GST Regulations are satisfied.
+Debt factoring
+88. Debt factoring and invoice discounting arrangements commonly involve the assignment of debts by a business to a factor or discounter on a once off or regular basis for an immediate payment. Essentially the difference between the arrangements is that under debt factoring the factor provides additional services of managing the sales ledger which are referred to as sales accounting services. Both arrangements may be regarded as debt factoring arrangements.
+89. Debt factoring arrangements have gained popularity largely because they allow for improved cash flow management and can be a more flexible and cheaper alternative to traditional funding sources. Under the arrangements, book debts are sold to the debt factor for a price that is less than the face value of the debts. The difference between the face value and the purchase price is referred to as a 'discount fee'. Under a factoring arrangement an administration fee is also charged for provision of the sales accounting service. Sales accounting services entail administration of the sales ledger and collection functions by the factor.
+90. Under both debt factoring and invoice discounting the assignment of the book debts is the disposal of an interest in a debt under table item 2 of subsection 40-5.09(3) of the GST Regulations. The assignment is for consideration being the discounted purchase price of the book debts and is therefore a financial supply so long as the other requirements in subsection 40-5.09(1) of the GST Regulations are satisfied.
+91. Sales accounting services, on the other hand, are not financial supplies.
+[47]
+As this service is usually provided for a separate fee it will constitute a taxable supply provided the other requirements in section 9-5 are satisfied. Consideration for the sales accounting service may be represented by a reduction in the price paid to acquire the debts. In these circumstances the sales accounting fee is taken to have been 'netted off' against the consideration for the debts and represents consideration for the taxable supply.
+Securitisation
+92. A securitisation arrangement is a complex set of transactions involving a number of entities in the establishment and ongoing maintenance of the arrangement. The major transactions in a typical securitisation arrangement have already been described simply at paragraph 15 of this Ruling. They include the sale of receivables to an SPV and the issue of debt securities (or notes) by that entity to fund the acquisition of the receivables.
+93. The receivables sold to the SPV will usually arise from loans, leases, rentals, trade or credit card debts and any associated collateral rights. In some cases however what is sold will be the underlying property that is the subject of the receivables agreement, for example, real property, motor vehicles or office equipment.
+94. Where ownership of the underlying asset passes to the SPV, the GST consequences of transactions following the change in ownership will be determined by reference to the circumstances of the SPV. The focus of the discussion below is on those arrangements where only the rights to payment streams are transferred to the SPV.
+95. Even though most securitisation structures are essentially similar they may vary according to the objectives of the originating institution, the assets involved and the targeted investors. Where the arrangements for a particular securitisation structure or the transactions inherent in that structure do not correspond with the arrangements or transactions described in this Ruling, you may apply for a private ruling.
+Typical transactions
+96. The following diagram and related discussion sets out those elements and transactions common to the majority of typical securitisation arrangements.
+97. The GST consequences associated with each of the following transactions are contained in Schedule 1 of this Ruling. The Schedule is constructed on the basis that the issue of debt securities is not GST-free and no entitlement to an input tax credit is available other than a reduced input tax credit. Where debt securities are issued offshore, an entitlement to an input tax credit may arise to the extent that the acquisitions relate directly or indirectly to any GST-free portion of the issue
+[48]
+of the debt securities.
+97A. The GST consequences of a typical securitisation arrangement as discussed below and as set out in Schedule 1 have been constructed on the basis that a SPV in the form of a trust is a securitisation entity for the purposes of the definition in section 196-1.01 of the GST Regulations. A 'securitisation entity' means a trust that has the following features:
+(a)
+the trust was established for the purpose of managing some or all of the economic risk associated with assets, liabilities or investments (whether the trust assumes the risk from another person or creates the risk itself);
+(b)
+the total value of the debt interests in the trust is at least 50% of the total value of the trust's assets;
+(c)
+the trust is an insolvency-remote special purpose entity according to criteria of an internationally recognised rating agency that are applicable to the circumstances of the trust (regardless of whether the agency has determined that the trust satisfies the criteria).
+[48A]
+97B. Acquisitions made by a SPV that is a securitisation entity are not reduced credit acquisitions under table item 32 of subsection 70-5.02(1) of the GST Regulations.
+[48B]
+However, an acquisition made by a securitisation entity will be a reduced credit acquisition if it is covered by another table item in subsection 70-5.02(1).
+Step 1:  Creation of the special purpose vehicle
+98. The majority of typical securitisation arrangements are conducted through a trust program set up by the
+originator.
+The general framework of the program is established under a master trust deed with collateral agreements and instruments governing the operation of the program.
+99. The master trust deed does not actually create any trusts but provides for the establishment of an unlimited number of trusts, referred to as special purpose vehicles, as the need arises. A separate SPV is created for each series of notes issued. Acquisitions which relate to the establishment of the program are taken to be made in carrying on the enterprise of the originator for the purposes of subsection 11-15(1), however for the purposes of 11-15(2)(a) they relate to an input taxed supply being the assignment of the payment stream.
+100. Individual SPVs are created by issue of a notice of creation of a trust. The notice of creation of a trust is usually accompanied by a series notice, supplemental trust deed or similar instrument which sets out the detailed terms of the trust by incorporating or amending the master trust deed as required for that particular series.
+101. The trustee of the trust is usually a professional trustee company specialising in these activities. The trust is an entity pursuant to section 184-1.
+Step 2:  Assignment of receivables to the SPV
+102. The securitisation process commences with the identification of suitable receivables such as mortgages, finance lease or hire purchase contracts (collectively referred to as receivables agreements). The originator will take the receivables from its own portfolio.
+103. Once sufficient receivables have been identified, an offer is made to sell and assign the beneficial interest in the receivables to the SPV, for that series, by issue of a sale notice according to the terms of an associated purchase agreement or other relevant transaction document. Upon acceptance of the offer there is an equitable assignment of an interest in the rights to the receivables to the SPV.
+104. The SPV finances the purchase by issuing debt securities backed by the pool of assets which are the sole assets of the SPV. The consideration provided is usually based on the net present value of the payment stream.
+Step 3:  Provision of trustee services
+105. The trustee has a general power to exercise all rights, powers and discretions over the assets of the trust but is subject to direction by the manager in the exercise of such powers. Without limiting the general powers, a number of specific powers are usually set out in the transaction documents.
+[49]
+Step 4:  Provision of servicer services
+106. Under the transaction documents a
+servicer
+is appointed primarily to manage the collection of the payment stream for the SPV as beneficial owner. The originator is usually the servicer of the receivables agreements although this function may also be delegated or subcontracted
+[50]
+to another entity. Under the latter type of arrangement the originator remains liable for the performance of the services in accordance with the transaction documents.
+107. Under the securitisation documents, servicer services are described as including activities an originator undertakes in relation to receivables it has originated after the initial settlement of the agreement. Such activities may include things done post-settlement of the receivables up to and including discharge, for example provision of payment processing and statement preparation, maintaining security interests, and collection of arrears. The supply of these activities is a taxable supply of services if the requirements of section 9-5 are satisfied.
+[51]
+108. The acquisition of the supply of services for which the servicer fee is paid is not a creditable acquisition of the SPV as it relates to the input taxed acquisition supply of the payment stream. However, an entitlement to a reduced input tax credit under section 70-5.02 of the GST Regulations will arise for the SPV in respect of this acquisition. The entitlement may arise, for example, under table items 14, 15 and/or 17 of subsection 70-5.02(1).
+[52]
+109. In making the taxable supply of services to the SPV, the servicer will make acquisitions that relate to the supply. These acquisitions will be for a creditable purpose to the extent that they relate to the supply of those services to the SPV. The acquisitions will give rise to an entitlement to an input tax credit if the other requirements of section 11-5 are satisfied.
+[52A]
+Determining the creditable purpose of acquisitions made by a home loan originator
+109A. Paragraphs 109A to 109BW of this Ruling focus on determining whether acquisitions made by a home loan originator
+[52B]
+(who makes financial supplies of home loans, and makes an assignment of the related loan receivables) are made solely or partly for a creditable purpose.
+[52C]
+109B. Goods and Services Tax Ruling GSTR 2008/1
+Goods and services tax: when do you acquire anything or import goods solely or partly for a creditable purpose?
+sets out the principles for establishing a relevant connection to supplies for the purposes of paragraph 11-15(2)(a). The connection may be direct, or indirect, substantial or real. It must be relevant and usually a remote connection would not suffice.
+[52D]
+The required connection has also been described as 'sufficient and material', which would include a 'direct and immediate' connection.
+[52E]
+In this Ruling, we refer to the required connection as a 'real and substantial connection' or a 'relevant connection' interchangeably.
+109C. An approach that looks through to the subjective intention or actual purpose for making the acquisition will be inconsistent with paragraph 11-15(2)(a).
+[52F]
+The identification of the relevant connection does not turn upon a characterisation of the purpose, or the occasion of the purpose, of the supplier in the sense of a broader commercial objective of the enterprise.
+[52G]
+Further contextual support for this position can be found in subsection 11-15(5), which provides a specific exception whereby an acquisition that relates to a financial supply consisting of a borrowing will generally be for a creditable purpose if the borrowing relates to making supplies that are not input taxed. This provision would be unnecessary if it were appropriate to consider the purposes for which the borrowing is used.
+109D. The creditable purpose of acquisitions made by a home loan originator will be based on whether the acquisitions have a relevant connection to one or more of the:
+•
+financial supply of the loan;
+•
+taxable supply of servicer services to the SPV; or
+•
+financial supply of the assignment of the loan receivables.
+[52H]
+109E. Paragraphs 109A to 109BW of this Ruling apply to a typical securitisation arrangement, as described in paragraphs 96 to 125 of this Ruling, for home loan receivables.
+109F. These paragraphs do not apply to other arrangements, such as 'Tier 2' securitisation arrangements. Under Tier 2 securitisation arrangements, services in arranging the origination and servicing of loans are supplied by a manager entity, and another entity (such as a warehouse trust) makes the supply of the loan and the assignment of the receivables.
+109G. In order to explain the Commissioner's view on how paragraph 11-15(2)(a) applies to common acquisitions made by home loan originators, acquisitions have been divided into categories for origination acquisitions, pre-securitisation servicing acquisitions and post-securitisation servicing acquisitions in paragraphs 109I to 109X of this Ruling. This reflects an analysis of common acquisitions in these phases of the loan.
+109H. However, there may be factual variations in the acquisitions or supplies you make that need to be taken into account when applying paragraph 11-15(2)(a) in your individual circumstances, which may mean that a particular acquisition does not have the treatment described in a that category. The application of paragraph 11-15(2)(a) requires the precise identification of the relevant acquisition and a factual enquiry into the connection between the acquisition and the making of supplies that would be input taxed.
+[52I]
+Origination acquisitions
+109I. Origination acquisitions are acquired and used by the originator to originate the supply of the loan to the borrower. They are typically acquired leading up to the borrower entering into the loan contract.
+109J. Examples of origination acquisitions include mortgage-broking services, services provided by 'referrers' who refer potential borrowers to the originator, lender's mortgage insurance, and costs relating to the mortgage security, including property valuations, settlement attendance costs, and title search costs.
+109K. These acquisitions are typically intended for use in making the financial supply of the loan. Where there is a close connection to the making of input taxed supplies, a broader commercial objective of the originator, which includes making taxable supplies of servicer services, will be insufficient to establish a creditable purpose for these acquisitions.  In this case, there is not a real and substantial connection to the potential future taxable supply of servicer services.
+109L. It is not necessary to determine whether the originator has the requisite intention
+[52J]
+to securitise a particular loan at the time of making the origination acquisitions, because in either case the acquisition does not have a relevant connection to the taxable supply of servicer services.
+109M. Where the originator does have the requisite intention to securitise the loan, this may give rise to a relevant connection to the financial supply of the assignment of the loan receivables, in addition to the relevant connection to the supply of the loan (depending on the particular factual circumstances).
+[52K]
+However, it is generally unnecessary to determine this, as in either case the acquisition only relates to making financial supplies.
+109N. The fact that the originator makes supplies of servicer services as a result of making the supply of the assignment of the loan receivables is insufficient to establish a relevant connection between these acquisitions and the taxable supply of servicer services.
+Pre-securitisation servicing acquisitions
+109O. In a typical securitisation arrangement, the originator does not immediately securitise the loan receivables to the SPV. In the pre-securitisation period, the originator has recurring servicing functions to perform, and makes acquisitions relating to payment processing and statement preparation, maintaining security interests, providing customer service and collection of arrears.
+109P. As these acquisitions are intended for use in maintaining or servicing the loan before securitisation, the acquisitions relate solely to making the financial supply of the loan. These acquisitions are not for use in maintaining the loan after securitisation, when the originator commences making taxable supplies of servicer services. Pre-securitisation servicing acquisitions typically relate solely to making financial supplies of loans.
+109Q. In paragraphs 109A to 109BW of this Ruling, when the term 'acquisition' is used, it can also refer to the relevant part of an acquisition. For example, when we refer to a post-securitisation servicing acquisition, this would include the part of an acquisition that relates to securitised loans, and not the part that relates to non-securitised loans. For example, an acquisition of statement preparation services for all home loans would be partly intended for use in servicing loans that are not securitised, and partly for use in servicing loans that are securitised.
+Post-securitisation servicing acquisitions
+109R. Once the assignment of the loan receivables has been settled, the originator typically makes a taxable supply of servicer services to the SPV for those receivables. This is described in paragraph 107 of this Ruling.
+109S. The creditable purpose of the post-securitisation servicing acquisitions
+[52L]
+depends on the functions that the originator performs under the taxable supply of servicer services, and under the supply of the loan to the borrower. These functions need to be determined on a case-by-case basis, in the context of the relevant contractual relationships and other legal obligations.
+109T. When the taxable supply of servicer services requires the originator to perform functions that would not have been necessary had the loans not been assigned, any acquisitions relating to those additional functions are solely for a creditable purpose. For example, additional functions such as collating payments for remittance to the SPV, and the provision of reports related to servicer services only arise from assignment of the receivables. They are not functions that the originator performs under the supply of the loan to the borrower.
+109U. Other post-securitisation servicing acquisitions that relate to servicing the loan receivables have a relevant connection to both the financial supply of the loan and the taxable supply of servicer services. This is the case when the acquisitions are for use in performing functions that are within the scope of the taxable supply of servicer services the originator makes to the SPV. As stated in paragraph 107 of this Ruling, this may include things done after settlement of the receivables up to and including discharge, for example, providing payment processing and statement preparation, and maintaining security interests.
+109V. The supply of the loan to the borrower continues after securitisation, with the loan contract remaining on foot between the originator and the borrower. The originator will continue to make acquisitions to perform functions to manage its debtor/creditor relationship with the borrower. The provision of the credit requires the originator to maintain this ongoing relationship with the borrower, as the terms of the supply require the borrower to repay the loan over a period of time. This deferral or 'time to pay' is an inherent part of the credit arrangement.
+[52M]
+109W. The acquisitions relating to the originator's usual functions and responsibilities as the supplier of the loan, including routine matters of repayment and collection, and providing customer service to borrowers, continue to have a relevant connection to that supply.
+109X. In principle, the approach to post-securitisation acquisitions could be applicable for some pre-securitisation acquisitions that are used over time. Where a decision has been made to securitise a particular loan, and an acquisition relating to that loan is used over a period of time, some of which will be after the securitisation, then the acquisition may also relate to both the supply of the loan and the intended future taxable supply of servicer services.
+Examples
+109Y.
+Note:
+In each of Examples 2 to 6 of this Ruling, the assigned receivables discussed are home loan receivables relating to the originator's financial supplies of home loans secured by a mortgage. In each example, the entity that supplies the loan assigns the loan receivables to an SPV that is carrying on an enterprise in Australia.
+[52N]
+The examples are not intended to address every potential variation in individual circumstances.
+Example 2 - acquisition of mortgage broking services
+109Z.
+Elf Mutual Bank has an agreement with Barnacle Mortgage Brokers Limited (Barnacle), under which Barnacle introduces potential borrowers to Elf Mutual Bank's loans.
+109AA.
+Under the agreement, Barnacle undertakes activities such as:
+•
+providing information on Elf Mutual Bank's loan products to potential borrowers and assisting applicants to select a loan product;
+•
+conducting loan interviews with applicants and guarantors;
+•
+assisting applicants to complete a loan application (including collecting necessary documentation);
+•
+assessing factors that are relevant to Elf Mutual Bank's lending criteria;
+•
+submitting the applicant's application to Elf Mutual Bank; and
+•
+informing the applicant of whether Elf Mutual Bank has approved the loan application.
+109AB.
+Elf Mutual Bank is responsible for preparing the loan documents and for all aspects of managing the loans on an ongoing basis.
+109AC. Once
+the borrower has drawn down the funds under the loan, Barnacle has completed its mortgage broking supply under the agreement. Barnacle does not provide ongoing services to Elf Mutual Bank in respect of the loan once it has been drawn down.
+109AD.
+Elf Mutual Bank pays commissions to Barnacle, which are:
+•
+an upfront commission, which is a proportion of the settled amount, paid following the settlement; and
+•
+a trail commission, which is a proportion of the borrower's loan balance, paid on a monthly basis.
+109AE.
+The acquisition of services from Barnacle helps Elf Mutual Bank to determine whether it should enter into a debtor/creditor relationship with potential borrowers, and facilitates Elf Mutual Bank making supplies of loans to new borrowers. The fact that one of the commissions is calculated based on an ongoing trail commission does not alter the nature of the acquisition or how it is for use.
+109AF.
+These acquisitions are intended for use in originating supplies of loans, and therefore have a real and substantial connection with the supply of the loan.
+109AG.
+In the future, Elf Mutual Bank may make a financial supply of the assignment of the loan receivables, which includes the receivables from loans originated with Barnacle's assistance, to an SPV as part of a typical securitisation arrangement. Following the assignment, Elf Mutual Bank may supply taxable services to the SPV as a servicer of the loan.
+109AH.
+Barnacle's services are not utilised in functions that Elf Mutual Bank performs in making taxable supplies of servicer services. Any connection between the acquisition and the taxable supply of servicer services arise solely from the intervening financial supply of the assignment of loan receivables, and is too remote. There is not a real and substantial connection between the acquisition of broking services from Barnacle and the taxable supply of servicer services.
+109AI.
+Elf Mutual Bank's acquisitions from Barnacle only have a relevant connection to the financial supply of the loan.
+Example 3 - acquisition of lender's mortgage insurance
+109AJ.
+Gentoo Bank acquires lender's mortgage insurance, to protect it from financial loss from defaulting borrowers, including any shortfall from the sale of properties arising from these defaults. Gentoo Bank acquires lender's mortgage insurance for loans originated with a loan-to-valuation ratio of 80% or greater, given the higher risk profile of these loans.
+109AK.
+Gentoo Bank also acquires title insurance for all of its home loans, to protect it from risks involving the title to the mortgaged property.
+109AL.
+Gentoo Bank pays an upfront premium to the lender's mortgage insurer and the title insurer, which it passes on to the borrowers.
+109AM.
+In the future, Gentoo Bank may make a financial supply of the assignment of loan receivables, which includes the receivables for the home loan and the incidental financial supply
+[52O]
+of the right to any payout from the lender's mortgage insurance and title insurance policies, to an SPV as part of a typical securitisation arrangement.
+109AN.
+Following the assignment, Gentoo Bank may supply taxable servicer services to the SPV, in managing the collection of the loan receivables for the SPV as beneficial owner.
+109AO.
+The lender's mortgage insurance and title insurance are intended for use by the originator in protecting against financial loss from default and defects in the title to the mortgaged property, and relate to making the financial supply of the loan.
+109AP.
+Regardless of whether Gentoo Bank intends to securitise the loan when it acquires the policies, there is not a real and substantial connection between the acquisition of lender's mortgage insurance or title insurance and the taxable supply of servicer services. The right to any payout under the insurance policies is not supplied to the SPV by the originator as part of the supply of servicer services, as the originator has already assigned this right to the SPV as part of the supply of assignment of the loan receivables. The connection between the acquisitions and the taxable supply of servicer services is too remote.
+109AQ.
+If at the time that Gentoo Bank acquired the lender's mortgage insurance and title insurance policies, Gentoo Bank had already formed the requisite intention to make a financial supply of the assignment of those loan receivables (which includes the right to any payout from the lender's mortgage insurance and title insurance), these acquisitions would be intended for use in making the financial supply of the assignment of the receivables and the financial supply of the loan. This connection to the assignment of the receivables arises because the rights acquired under the policies are incorporated into what is assigned to the SPV.
+109AR.
+In either case, Gentoo Bank's acquisitions of insurance only have a real and substantial connection to financial supplies it makes.
+Example 4 - other acquisitions to establish home loans
+109AS.
+Adelie Bank makes acquisitions intended for use in originating and establishing supplies of loans, including:
+•
+services for outsourced processing of home loan applications;
+•
+credit-checking services, to assess the risk associated with the potential borrower;
+•
+services for property valuation, to assist in determining whether the amount of the loan and deposit are appropriate;
+•
+services to perform a title search, to ensure that the seller has title to the property, and to obtain information on encumbrances or caveats on the property; and
+•
+outsourced settlement attendance services for attendance by a representative at the settlement for the property.
+109AT.
+Adelie Bank's acquisitions assist in completing the loan application process and providing security for the loan, which culminate in Adelie Bank making the supply of the loan. These acquisitions are for use in originating and establishing supplies of loans, and therefore have a real and substantial connection with the supply of the loan.
+109AU.
+In the future, Adelie Bank may make a financial supply of the assignment of loan receivables, which includes the receivables from the loans that these acquisitions are made to originate, to an SPV as part of a typical securitisation arrangement. Following the assignment, Adelie Bank may supply taxable servicer services to the SPV.
+109AV.
+There is not a real and substantial connection between these acquisitions and the taxable supply of servicer services.
+109AW.
+Adelie Bank's acquisitions only have a relevant connection to the financial supply of the loan.
+Example 5 - pre-securitisation servicing acquisitions
+109AX.
+In March, Fiordland Bank identifies a pool of home loans it will securitise in July.
+109AY.
+In March, Fiordland Bank makes acquisitions to maintain and service those home loans and manage its ongoing relationship with borrowers.
+109AZ.
+These acquisitions include:
+•
+acquisitions of services to prepare, print and post loan statements to borrowers;
+•
+acquisitions of services for the storage of documents, including mortgage documents and loan contracts;
+•
+acquisitions to collect home loan repayments and to manage delinquent accounts; and
+•
+a proportion of Fiordland Bank's acquisitions to maintain a network of bank branches and to operate a call centre that are allocated to its home loans area, to reflect the activities of the relevant customer service representatives in servicing the loans.
+109BA.
+Fiordland Bank's servicer servicing agreement with the SPV will commence in July, immediately after the loan receivables are assigned. The agreement requires Fiordland Bank to supply servicer services to the SPV.
+109BB.
+Fiordland's acquisitions in March are intended for use in maintaining loans that are not securitised (prior to the supply of the assignment of the loan receivables being made to the SPV). Fiordland Bank's acquisitions do not have a relevant connection to the taxable supply of servicer services.
+Example 6 - post-securitisation servicing acquisitions
+109BC.
+Following on from Example 5 of this Ruling, in July Fiordland Bank makes a financial supply of the assignment of the loan receivables to an SPV, Emperor Securitisation Trust (Emperor), as part of a typical securitisation arrangement. Following the assignment, Fiordland Bank supplies taxable servicer services to Emperor.
+109BD.
+Fiordland Bank continues to make acquisitions to maintain the securitised home loans, including:
+•
+acquisitions of services to prepare, print and post loan statements to borrowers;
+•
+acquisitions of services for the storage of documents, including mortgage documents and loan contracts;
+•
+acquisitions to collect home loan repayments and to manage delinquent accounts;
+•
+acquisitions to discharge loans; and
+•
+a proportion of Fiordland Bank's acquisitions to maintain a network of bank branches and to operate a call centre that are allocated to its home loans area, to reflect the activities of the relevant customer service representatives in servicing the loans.
+109BE.
+Following the assignment, Fiordland Bank continues to perform functions as the supplier of the loan. Fiordland Bank also has to meet continuing obligations under the loan contract with the borrower, and statutory obligations to the borrower as a credit provider.
+109BF.
+The acquisitions Fiordland Bank makes are intended for use in maintaining its ongoing debtor/creditor relationship with the borrower under the supply of the loan. In addition, in some cases the acquisitions assist Fiordland Bank to meet its obligations under both the loan contract and its statutory obligations as a credit provider, such as to issue loan statements, and to provide loan documents to borrowers on request.
+109BG.
+The acquisitions therefore have a real and substantial connection to the supply of the loan.
+109BH.
+Fiordland Bank makes a supply of servicer services to Emperor and has obligations to Emperor to service the home loan in accordance with agreed guidelines to maintain the loan receivables that have been assigned to Emperor. These guidelines require Fiordland Bank to undertake the same functions with respect to the loan and the borrower as it does prior to securitisation. The acquisitions relate to functions that Fiordland performs within the scope of the supply of servicer services that Fiordland makes under these agreements.
+109BI.
+The acquisitions therefore also have a real and substantial connection to the taxable supply of servicer services.
+109BJ.
+Fiordland Bank's acquisitions, which are intended for use in maintaining loans that are securitised, have a relevant connection to both the financial supply of the loan and the taxable supply of servicer services.
+Situations where the home loan originator and SPV are members of the same GST group
+109BK. In determining whether an acquisition made by an entity that is a member of a GST group is for a creditable purpose, the GST group is treated as a single entity and not as a number of separate entities.
+[52P]
+109BL. Therefore, where the home loan originator and SPV are in the same GST group, there is taken to be no supply of the assignment of the payment stream or supply of servicer services between them. Only supplies made to entities outside the GST group are relevant when determining the creditable purpose of the acquisitions.
+Example 7 - Originator and SPV are members of a GST group
+109BM.
+Riwaka Bank and Orbit Securitisation Trust (the Trust) are members of the same GST group.
+109BN.
+Riwaka Bank assigns some of the loan receivables for home loans that it originates to the Trust. Riwaka Bank has obligations to the Trust to service the securitised loans on an ongoing basis, in exchange for servicer fees.
+109BO.
+To fund its acquisition of the receivables, the Trust issues notes to investors which are backed by the assigned receivables. The notes are issued to non-resident investors, with the supplies of debt securities meeting the requirements to be GST-free under table item 2 of subsection 38-190(1).
+109BP.
+Once the assignment is settled, Riwaka Bank continues to make acquisitions to maintain the securitised home loans, such as acquisitions to issue statements to borrowers.
+109BQ.
+In determining the creditable purpose of acquisitions made by either entity, Riwaka Bank and the Trust are treated as a single entity. Only the supplies made to entities outside the GST group are relevant - these are the financial supply of the loan to the borrower and the GST-free supply of debt securities to the investors.
+109BR.
+The acquisitions Riwaka Bank makes are intended for use in maintaining its ongoing debtor/creditor relationship with the borrower under the supply of the loan. In addition, in some cases the acquisitions assist Riwaka Bank to meet its obligations under both the loan contract and its statutory obligations as a credit provider.
+109BS.
+The acquisitions therefore have a real and substantial connection to the supply of the loan.
+109BT.
+The acquisitions do not have a real and substantial connection to the GST-free supply of debt securities to the investors.
+109BU.
+While the supply of the loan and the supply of debt securities are commercially interrelated, the fact that the supply of debt securities may provide a source of funding for future supplies of loans, and enables the management of credit risk, is not sufficient to establish a relevant connection to the acquisitions that are for use in making the financial supply of the loan.
+109BV.
+The acquisitions made to maintain the loan following the assignment only have a relevant connection to the financial supply of the loan.
+109BW.
+Consistent with the above, acquisitions that relate to the GST-free supplies of the debt securities (for example, the acquisition of best endeavours underwriting services in relation to the issue of the securities) will not have a relevant relationship to the financial supplies of loans under paragraph 11-15(2)(a).
+[52Q]
+Step 5:  Provision of manager services
+110. The duties and obligations of the trust manager are usually set out in the Master Trust Deed. The manager has full and complete powers of management over the day to day operations of the SPV.
+[53]
+Step 6:  Provision of custodial services
+111. Custodial services are provided to ensure the safekeeping of the associated documentation in relation to the assets acquired by the SPV. Custodial services may be provided by the originator, in its capacity as servicer, or another entity.
+112. The custodian is required to hold the documents in accordance with procedures contained in the relevant transaction document. The procedures usually require the custodian to keep the documents relating to securitised receivables separate from other similar documents and to report on movements of the documents.
+[54]
+Step 7:  Provision of liquidity support
+113. Under a liquidity facility, the liquidity facility provider agrees to make advances to the trustee for the purpose of funding certain income shortfalls in the trust up to predetermined limits.
+[55]
+Step 8:  Provision of credit enhancement
+114. Credit enhancement, where used, is to protect investors by absorbing credit losses, thereby improving the credit rating and marketability of the securities issued by the SPV.
+115. As investors are not normally prepared to take on all the credit risks associated with the securitised receivables, asset-backed securities are usually provided with credit enhancement by a third-party bank or insurance company and sometimes by the originator. The most common forms
+[56]
+of credit enhancement are:
+•
+irrevocable letters of credit;
+•
+third party insurance;
+•
+spread accounts;
+•
+cash collateral accounts;
+•
+over-collateralisation;
+and
+•
+senior subordinated structures.
+Different forms of enhancement may be combined in a single arrangement.
+Step 9:  Provision of ratings agency services
+116. The
+ratings agency
+assesses the credit rating of the originator, the quality of the underlying assets, and the structure of the arrangement. This assessment will affect the extent of the credit enhancement provided or arranged, especially if the rating of the assets is lower than that desired by potential investors.
+[57]
+Step 10:  Provision of security trustee services
+117. The SPV is normally required to give a mortgage or other security over its assets to a
+security trustee,
+which holds the benefit of the security on trust for all of the chargees as set out in the transaction documents from time to time. The usual form of security provided to the security trustee is a floating charge over the trust assets.
+118. The charge secures the trustee's obligations under the various transaction documents and in relation to the notes issued by the SPV. The giving of the charge over the SPV's assets is a financial supply under table item 3 of subsection 40-5.09(3) of the GST Regulations if the other requirements in subsection 40-5.09(1) of the GST Regulations are satisfied.
+[58]
+Step 11:  Provision of swap facilities
+119. Interest rate swap agreements are primarily entered into so that notes issued at a fixed rate or variable interest rate can be matched with income at an equivalent rate from the securitised receivables no matter what rate of interest is being paid on them.
+[59]
+Currency swaps may also be entered into if the notes are offered offshore. The swaps are generally governed according to industry standards such as those contained in an International Swaps and Derivatives Association Inc (ISDA) Master Agreement as amended by any supporting schedules.
+[60]
+Step 12:  Provision of underwriting services
+120. There are two forms of underwriting. One only requires the underwriter to use their best endeavours to place the securities with investors while the other requires the underwriter to take up any unplaced securities up to an agreed number. The first is referred to as best-endeavours underwriting and the underwriter is a financial supply facilitator in relation to the supply of the securities by the SPV. The underwriter's supply of services is a taxable supply to the SPV.
+[61]
+121. In the other form of underwriting the placement service is complimented by an agreement to take up unsold securities. Taking up the unsold securities is the supply of an interest in securities (or a derivative) as described at table items 10 or 11 of subsection 40-5.09(3) of the GST Regulations. This is a financial supply if the other requirements in subsection 40-5.09(1) of the GST Regulations are satisfied. In this circumstance the underwriting fee is consideration for both a taxable supply of placement services and a financial supply.
+[62]
+Step 13:  Supply of debt securities
+122. Different classes of notes may be issued. The general arrangement is that there is one class of senior notes and one class of subordinated notes. In the case of mortgage backed loans special classes of notes may be issued to cover the repayment of a redraw granted by the originator. When an originator funds a redraw it is entitled to be reimbursed by the SPV. The SPV may finance the reimbursement in a number of ways one of which is the issue of different classes of notes.
+123. The right to receive payments of interest under subordinate notes is subordinated to the rights of holders of the redraw funding securities, if any, and to the rights of senior note holders.
+124.
+Definitive notes
+are not normally issued and it is common for one or more
+global notes
+of each class of offered notes to be recorded by book entry registration with a
+depository.
+Payments on the offered notes may be made through a paying agent on the nominated payment dates to those entities in whose name the notes are registered.
+125. The notes may be offered for sale in Australia or on overseas capital markets. An offering in an offshore market may result in the supply of the notes being GST-free if the requirements of section 38-190 are satisfied.
+[63]
+Where the issue of notes is a GST-free supply, acquisitions in relation to that supply will be for a creditable purpose and the SPV will be entitled to claim full input tax credits on those acquisitions.
+Is the SPV carrying on an enterprise?
+126. The meaning of carrying on an enterprise for GST purposes is substantially the same as the definition of that expression in the
+A New Tax System (Australian Business Number) Act 1999
+.
+[64]
+The SPV in a typical securitisation arrangement will be carrying on an enterprise if its activity or activities are done:
+•
+in the form of a business;
+•
+in the form of an adventure or concern in the nature of trade; and
+•
+on a regular or continuous basis, in the form of a lease, licence or other grant of an interest in property.
+[65]
+127. The SPV in a securitisation arrangement is established for commercial reasons. Investors are invited to invest in professionally managed debt securities issued by the trustee. The relationship between investors, the trustee and the manager is governed by a trust deed, a prospectus and the
+Corporations Act 2001.
+128. The SPV incurs regular expenses for the provision of support to it by a variety of contracted service providers. Investors receive regular payments of interest and principal amounts under the debt securities program offered by the SPV.
+129. These activities are done in the form of a business and the SPV is therefore carrying on an enterprise and can register for GST purposes.[Omitted.]
+Assignment of security interests
+[67]
+130. In addition to the assignment of the right to the payment stream many securitisation arrangements also transfer an interest in any underlying security, associated with the payment stream, to the SPV. Security interests in this context range from traditional security such as mortgages to related security interests including guarantees, indemnities, insurance cover or any other mortgage, lien, charge, encumbrance, hypothecation, preferential right or trust arrangement.
+131. The supply of the interest in the underlying security occurs at the same time as the supply of the right to the payment stream. Any consideration provided at the time of the assignment relates solely to the provision of the right to the payment stream and not to the supply of the interest in the underlying security.
+Debt securities (borrowings) and the Financial Acquisitions Threshold
+132. The SPV makes only financial supplies. These supplies are usually input taxed, or may be GST-free if they satisfy the requirements of section 38-190.
+[68]
+The financial acquisitions threshold
+[69]
+(FAT) is relevant in determining whether an entitlement to input tax credits exists in relation to acquisitions for the purpose of making input taxed supplies.
+133. Entities that make financial supplies in the course of conducting their enterprise without exceeding the financial acquisitions threshold are entitled to input tax credits for acquisitions and importations that relate to making those financial supplies.
+[70]
+134. A financial acquisition is an acquisition that relates to the making of a financial supply (other than a financial supply consisting of a borrowing). 'Borrowing' is defined in section 195-1 and includes the raising of funds by the issue of a bond, debenture, discounted security or other document evidencing indebtedness.
+135. The issue of debt securities by an SPV therefore constitute a borrowing. The implications for the SPV are that its financial acquisitions do not include acquisitions to the extent they relate to the issue of the debt securities.
+[71]
+The SPV also makes acquisition supplies
+[72]
+of interests in debt when it acquires the right to the payment stream by way of assignment for consideration. The acquisitions that relate to this acquisition supply are financial acquisitions and will be included in the calculation of the FAT.
+136. If the SPV exceeds the FAT it will not be eligible for full input tax credits on its acquisitions to make input taxed financial supplies, but may be on acquisitions related to GST-free financial supplies it makes. It is anticipated that most SPVs will exceed the FAT and not be eligible for input tax credits except to the extent they are entitled to reduced input tax credits on acquisitions mentioned in section 70-5.02 of the GST Regulations.
+137. The following table analyses acquisitions and indicates which are financial acquisitions for the purposes of the FAT. An acquisition need not relate to the making of an input taxed financial supply to be a financial acquisition. Division 189 applies to an acquisition that relates to the making of a supply that is a financial supply notwithstanding that GST-free treatment of the supply may override its input taxed status.
+[73]
+Acquisition
+'relates to'
+Financial
+Acquisition
+Acquisitions for the creation of the SPV (trust)
+Provision of an interest in debt
+Yes
+Acquisitions for the equitable assignment of the right to the payment stream
+Disposal/acquisition supply of an interest in a debt
+Yes
+Manager services
+1)
+acquisition supply of interest in the debts; and
+2)
+provision of securities (borrowing)
+Subject to apportionment
+[74]
+Trustee services
+1)
+acquisition supply of interest in the debts; and
+2)
+provision of securities (borrowing)
+Subject to apportionment
+[75]
+Custodian services
+Acquisition supply of interest in the debts
+Yes
+Servicer services
+Acquisition supply of interest in the debts
+Yes
+Ratings agency service
+Provision of securities (borrowing)
+No
+Underwriting services (best endeavours)
+Provision of securities (borrowing)
+No
+Security Trustee services
+Provision of interest in a charge
+Yes
+Liquidity support facilities
+Provision of credit facilities (borrowing)
+No
+Swap facilities
+Provision of an interest in a derivative
+Yes
+Definitions
+Assignee
+138. The recipient of an interest in property by means of an assignment.
+Assignor
+139. The supplier of an interest in property by means of an assignment.
+Cash Collateral Account
+140. An account in which a deposit equal to the necessary credit enhancement is held for the benefit of holders of the securities. The account will be drawn down if and when losses occur. Cash advances are made to this account by the originator or a third party lender.
+Chargees
+141. The transaction documents will specify which entities are Chargees and will typically include:
+•
+the Security Trustee in relation to its rights (held in its own right or for the benefit of other Chargees) under the Security Trust Deed;
+•
+the Noteholders in relation to the rights under the Class of Notes held by them;
+•
+any Approved Seller in relation to any relevant Accrued Interest Adjustment;
+•
+the Chargor in relation to its rights as Trustee under the Trust Documents;
+•
+the Manager in relation to its rights as Manager under the Trust Documents;
+•
+the Servicer in relation to its rights as Servicer under the Trust Documents;
+•
+any Support Facility Provider in relation to its rights under each Support Facility to which it is a party; and
+•
+any swap provider under a Hedge Agreement in relation to its rights under that Hedge Agreement.
+Chose in Action
+142. An intangible personal property right recognised and protected by the law, which has no existence apart from the recognition given by the law, or which confers no present possession of a tangible object, such as the right to payment under a loan contract or the promise to pay on a bill of exchange.
+Definitive notes
+143. A document provided to each lender which evidences or acknowledges indebtedness to that lender for the amount recorded on the face of the note.
+Depository
+144. An entity which holds a financial product, or a beneficial interest in a financial product, in trust for, or on behalf of, a client or another person nominated by the client.
+Equitable assignment
+145. An assignment, which is not a legal assignment, but by which the creditor assigns the benefit of a contractual right owed by the debtor to an assignee by demonstrating an intention to assign.
+Global Note
+146. A document which evidences or acknowledges indebtedness to each person named for the amounts noted in a register, executed by a corporation issuing or raising debt. It is an alternative to issuing individual documents to each lender.
+Irrevocable Letter of Credit
+147. A documentary credit or standby letter of credit containing a definite undertaking by the issuing bank that it will perform its obligations according to the mode of realisation of the credit, provided that the stipulated documents are presented and the terms and conditions of the credit are complied with.
+Legal Assignment
+148. An absolute written assignment in which notice of the assignment of the benefit of a contractual right owed is given to the obligor.
+Originator
+149. The party that enters into receivables agreements with debtors as the creditor. When the originator sells/assigns an interest in the receivables to the SPV it is referred to as the 'assignor'.
+Over-Collateralisation
+150. A situation where the amount of the securitised receivables exceeds the amount of the securities issued. In such arrangements the excess collateral must be maintained at a level sufficient to provide the agreed amount of credit enhancement. If the value declines below that level the enhancer must fill the gap with new collateral.
+Ratings Agency
+151. A recognised rating agency that determines the rating of the securities issued.
+Securitisation Entity
+151A. For the purposes of section 70-5.02 of the GST Regulations, a 'securitisation entity' means a trust that has the following features:
+(a)
+the trust was established for the purpose of managing some or all of the economic risk associated with assets, liabilities or investments (whether the trust assumes the risk from another person or creates the risk itself);
+(b)
+the total value of the debt interests in the trust is at least 50% of the total value of the trust's assets;
+(c)
+the trust is an insolvency-remote special purpose entity according to criteria of an internationally recognised rating agency that are applicable to the circumstances of the trust (regardless of whether the agency has determined that the trust satisfies the criteria).
+[75A]
+Security Trustee
+152. The program vehicle will normally be required to give a mortgage or other security over its assets to a security trustee, who holds the benefit of the security on trust for all the investors from time to time.
+Senior Subordinated Structures
+153. An arrangement that involves the issue of several classes or tranches of securities of varying seniority. As long as losses do not exceed the face value of the subordinated class(es), the senior class(es) will be repaid in full. The most junior (usually unrated) tranche is often retained by the originating institution.
+Servicer
+154. This entity, often the originator, continues to manage the assets (as the servicer) after they have been acquired by the program vehicle.
+Spread Account
+155. A first loss account that is established to absorb credit losses ahead of any securities on issue. Funding of the account is either by initial deposit from the originating institution or a third party, and/or accumulated from excess income over and above the expenses of the transaction that would otherwise flow back to the originating institution.
+Third Party Insurance
+156. A form of insurance cover against the first portion of default risk.
+Title perfection
+157. Action taken by the entity with a beneficial interest in the securitised receivables to obtain legal title in and to them following a title perfection event as defined.
+Trustee
+158. In structures that use a trust as the SPV, this will normally be a professional trustee company. Its role is usually fairly limited, with the day-to-day administration of the SPV being carried out by the manager.
+Typical securitisation arrangement
+158A. A typical securitisation arrangement has the following features:
+•
+an originator of receivables assigns in equity, for valuable consideration, all of its right, title, benefit, and interest in the receivables, together with any related security interest, to an SPV;
+•
+the originator continues to preserve and account for the receivables to the SPV; and
+•
+the transaction documents identify a number of elements of consideration for the receivables which are calculated by reference to the face value of the receivables.
+Appendix - Detailed contents list
+159. Below is a detailed contents list for this Goods and Services Tax Ruling:
+Paragraph
+What this Ruling is about
+1
+Date of effect
+8
+Background
+10
+Redirection of payments
+13
+Novation
+14
+Securitisation arrangements
+15
+Ruling and explanation
+19
+Interest in or under a debt
+20
+Provision, acquisition or disposal of an interest in or under a debt
+23
+Alternative view
+31
+Assignment of payment stream and assignment of underlying property
+34
+Liability for GST on the underlying supply
+44
+Example 1 - obligation to remit GST
+45
+Entitlement to input tax credits
+48
+Making provision for the GST liability
+51
+Attribution of GST on the original supply
+53
+Cash basis
+56
+Non-cash basis
+57
+Effect of notice of an assignment to the debtor
+59
+Issuing invoices notifying an obligation to pay
+60
+Issuing tax invoices
+62
+Bad debts and assignments
+65
+Interaction between GST and income tax in a partial assignment
+68
+Assignment of various types of payment streams
+70
+Loan agreements
+71
+Finance and operating leases
+73
+Residential/commercial property leases
+77
+Hire purchase agreements
+80
+Royalties
+83
+Credit card receivables
+85
+Debt factoring
+88
+Securitisation
+92
+Typical transactions
+96
+Step 1:  Creation of the special purpose vehicle
+98
+Step 2:  Assignment of receivables to the SPV
+102
+Step 3:  Provision of trustee services
+105
+Step 4:  Provision of servicer services
+106
+Determining the creditable purpose of acquisitions made by a home loan originator
+109A
+Origination acquisitions
+109I
+Pre-securitisation servicing acquisitions
+109O
+Post-securitisation servicing acquisitions
+109R
+Examples
+109Y
+Example 2 - acquisition of mortgage broking services
+109Z
+Example 3 - acquisition of lender's mortgage insurance
+109AJ
+Example 4 - other acquisitions to establish home loans
+109AS
+Example 5 - pre-securitisation servicing acquisitions
+109AX
+Example 6 - post-securitisation servicing acquisitions
+109BC
+Situations where the home loan originator and  SPV are members of the same GST group
+109BK
+Example 7 - originator and SPV are members of a GST  group
+109BM
+Step 5:  Provision of manager services
+110
+Step 6:  Provision of custodial services
+111
+Step 7:  Provision of liquidity support
+113
+Step 8:  Provision of credit enhancement
+114
+Step 9:  Provision of ratings agency services
+116
+Step 10:  Provision of security trustee services
+117
+Step 11:  Provision of swap facilities
+119
+Step 12:  Provision of underwriting services
+120
+Step 13:  Supply of debt securities
+122
+Is the SPV carrying on an enterprise?
+126
+Assignment of security interests
+130
+Debt securities (borrowings) and the Financial Acquisitions Threshold
+132
+Definitions
+138
+Assignee
+138
+Assignor
+139
+Cash Collateral Account
+140
+Chargees
+141
+Chose in Action
+142
+Definitive notes
+143
+Depository
+144
+Equitable assignment
+145
+Global Note
+146
+Irrevocable Letter of Credit
+147
+Legal Assignment
+148
+Originator
+149
+Over-Collateralisation
+150
+Ratings Agency
+151
+Securitisation Entity
+151A
+Security Trustee
+152
+Senior Subordinated Structures
+153
+Servicer
+154
+Spread Account
+155
+Third Party Insurance
+156
+Title perfection
+157
+Trustee
+158
+Typical securitisation arrangement
+158A
+Detailed contents list
+159
+Commissioner of Taxation
+26 May 2004
+Schedule
+GST classification of supplies in a typical securitisation arrangement
+[75B]
+Step number
+Type of supply
+Description
+Form of consideration
+GST treatment of supply
+RITC available for acquisition
+[76]
+1
+Services for the creation of the SPV
+Creation of the SPV for a particular tranche of notes
+Fees for advice and preparation of documents etc
+Taxable
+Section 9-5
+No
+2
+Disposal/ acquisition of interest in debt
+Equitable assignment of the right to the payment stream to the SPV
+Monetary consideration based on net present value of assets
+Input taxed
+Table Item 2 of subsection 40-5.09(3) of the GST Regulations
+Not applicable
+3
+Trustee services
+General and specific powers and duties of the trustee as set out in the transaction documents.
+Fees
+Taxable
+Section 9-5
+Table item 15 of section 40-5.12 of the GST Regulations
+Yes
+Table item 29 of subsection 70-5.02(1) of the GST Regulations provided services are in accordance with the duties set out in the transaction documents.
+4
+(a)Servicer (performed by originator of receivables)
+All services performed as part of the taxable supply by the originator to the SPV.
+Fees
+Taxable supply
+Section 9-5
+Yes - under table items 14, 15 or 17 of subsection 70-5.02(1) of the GST Regulations.
+4
+(b) Servicer (performed by third party)
+All services performed as part of the taxable supply by the third party to the SPV.
+Fees
+Taxable supply
+Section 9-5
+Yes - under table items 14, 15 or 17 of section 70-5.02 of the GST Regulations.
+5
+Management services
+A full description of the manager's duties and powers is set out in the transaction documents and includes:
+•
+day-to-day administration and servicing of the assets (not serviced by the servicer), borrowings and other liabilities of the trust;
+•
+making recommendations on authorised investments and directing the trustee in relation to those investments;
+•
+coordinating the issue of debt securities by the SPV.
+Fees
+Taxable
+Section 9-5
+Table item 12 of section 40-5.12 of the GST Regulations
+Yes
+Table item 9 of subsection 70-5.02(1) of the GST Regulations, to the extent it relates to activities in preparing for the issue of securities;
+Table item 23(b) of subsection 70-5.02(1) of the GST Regulations - management  of the trust's investment portfolio.
+6
+Custodian services
+•
+Separation and safe storage of relevant documents
+•
+Provision of reports on the movement of relevant documents
+•
+Retrieval of relevant documents.
+Fees
+Taxable
+Section 9-5
+Table item 16 of section 40-5.12 of the GST Regulations
+No
+Table item 29 of subsection 70-5.02(1) of the GST Regulations excludes provision of custodial services in relation to money and document security.
+7
+Liquidity support facilities
+Provision of liquidity facilities for advances to the trustee to cover certain income shortfalls in the trust
+Commitment fees plus interest on draw downs
+Input taxed
+Table item 2 of subsection 40-5.09(3) of the GST Regulations
+Not applicable
+8
+Credit enhancement arrangements
+Where used they may take a variety of forms such as:  irrevocable letters of credit, third party insurance, spread accounts, cash collateral accounts, over-collateralisation, plus senior subordinated structures.
+Various fees and charges where relevant
+Mainly input taxed however third party insurance would be a taxable supply to the SPV.
+Not applicable in the case of input taxed supplies. No RITC would be available to the SPV for acquisitions of third party insurance.
+9
+Ratings agency services
+Rating of debt securities
+Fees
+Taxable
+Section 9-5
+Table item 3 of section 40-5.12 of the GST Regulations
+No
+10
+Security trustee services
+Holding security over assets for the benefit of chargees
+Fees
+Taxable
+Section 9-5
+Yes
+Table item 29 of subsection 70-5.02(1) of the GST Regulations, on the basis that these custodial services do not fall under the exclusion for safe custody of money, documents or other things.
+11
+Swap facilities
+Interest rate and currency swaps
+Reciprocal obligations
+Input taxed
+Table item 11 of subsection 40-5.09(3) of the GST Regulations
+Not applicable
+12
+Underwriters
+(a) Best endeavours underwriting, that is not relating to the acquisition of unplaced securities
+Fees
+Taxable
+Section 9-5
+Yes
+Table item 9(i) of subsection 70-5.02(1) of the GST Regulations
+12
+(b) Traditional underwriting including the agreement to acquire unplaced securities
+Fees
+Both taxable and input taxed
+Section 9-5
+Section 40-5.09 of the GST Regulations
+Partly
+Table item 9(i) of subsection 70-5.02(1) of the GST Regulations
+13
+Issue of debt securities to investors
+Provision of interest in debt securities
+Subscription moneys
+Input taxed
+Table Item 10 of subsection 40-5.09(3) of the GST Regulations
+Not applicable
+Footnotes
+[1A]
+[Omitted}.
+[1A]
+A novation is not an assignment because the obligations under the old agreement disappear when the agreement is terminated.
+[2]
+Olson v Dyson
+(1969) 120 CLR 365 at 388 per Windeyer J.
+[3]
+Glossary to GSTR 2002/2
+Goods and services tax: treatment of financial supplies and related supplies and acquisitions
+.
+[4]
+Australian Prudential Regulation Authority (2000),
+The Australian Securitisation Market
+, Working Paper 6, October 2000.
+[5]
+[Omitted.]
+[6]
+Paragraph 79 of GSTR 2002/2. See also [138] to [148] of
+Federal Commissioner of Taxation v American Express Wholesale Currency Services Pty Limited
+(2010) 187 FCR 398; [2010] FCAFC 122.
+[7]
+Valance v The Queen
+(1961) 108 CLR 56.
+[8]
+Pyramid Building Society (In Liq) v Terry & Another
+(1997) 189 CLR 176.
+[9]
+Section 196-1.01 of the GST Regulations.
+[10]
+Tailby v Official Receiver
+(1888) 13 App Cas 523 at 528 and 543. The words 'all right title and interest in and to ...' are generally accepted as expressing a clear intention (Barwick J in
+Shepherd v Federal Commissioner of Taxation
+(1965) 113 CLR 385) but it will depend on the precise terms of the agreement and the circumstances in each case.
+[11]
+See
+Conveyancing Act 1919
+(NSW) section 12;
+Property Law Act 1974
+(QLD) sections 199 and 200;
+Law of Property Act 1936
+(SA) section 15;
+Conveyancing and Law of Property Act 1884
+(Tas) section 86;
+Property Law Act 1958
+(Vic) section 134;
+Property Law Act 1969
+(WA) section 20;
+Civil Law (Property) Act 2006
+(ACT) section 205 and
+Law of Property Act 2000
+(NT) section 182.
+[12]
+D Skapinker,
+The Principles of Equity,
+2nd ed, P. Parkinson, Chapter Thirteen: 'Equitable Assignments', Lawbook Co, Pyrmont, NSW, 2003, p 477.
+[13]
+Norman v FCT
+(1963) 109 CLR 9.
+[14]
+Shepherd v Federal Commissioner of Taxation
+(1965) 113 CLR 385.
+[15]
+Federal Commissioner of Taxation v Everett
+(1980) 143 CLR 440.
+[16]
+Booth v Federal Commissioner of Taxation
+(1987) 164 CLR 159.
+[17]
+Supra at p25.
+[18]
+Tailby v Official Receiver
+(1888) 13 App Cas 523 at 533 and 543.
+[19]
+Federal Commissioner of Taxation v Everett
+(1978) 78 ATC 4595; (1978) 9 ATR 211; (1978) 38 FLR 26 - Federal Court.
+[20]
+See paragraph 79 in GSTR 2002/2
+[21]
+As prescribed by the definition of 'interest' in section 196-1.01 of the GST Regulations.
+[22]
+Booth v Federal Commissioner of Taxation
+(1987) 164 CLR 159.
+[22A]
+This is further explained in Goods and Services Tax Determinations GSTD 2012/1
+Goods and services tax:  what are the goods and services tax consequences following the sale of residential premises that are subject to a lease?
+and GSTD 2012/2
+Goods and services tax:  what are the goods and services tax consequences following the sale of commercial premises that are subject to a lease?
+See also
+Commissioner of Taxation v MBI Properties Pty Ltd
+[2014] HCA 49 at [40]; 2014 ATC 20-474; (2014) 92 ATR 241.
+[23]
+Norman v FCT
+(1963) 109 CLR 9.
+[24]
+Federal Commissioner of Taxation v Everett
+(1980) 143 CLR 440.
+[25]
+A more detailed explanation of a composite supply is contained in GSTR 2001/8.
+[26]
+See Division 189 and also GSTR 2003/9 Goods and services tax:  financial acquisitions threshold.
+[27]
+GSTR 2006/3 Goods and services tax:  determining the extent of creditable purpose for providers of financial supplies.
+[28]
+Subject to Division 156.
+[29]
+See also paragraphs 68 and 69 of this Ruling regarding the income tax consequences of a partial assignment.
+[30]
+Division 156.
+[31]
+Subsection 29-5(2).
+[32]
+Subsection 29-5(1).
+[33]
+For a full discussion on the effects of Division 156 see GSTR 2000/35.
+[34]
+See paragraph 59 of GSTR 2000/35.
+[35]
+D Skapinker,
+The Principles of Equity,
+2nd ed, P. Parkinson, Chapter Thirteen: 'Equitable Assignments', Lawbook Co, Pyrmont, NSW, 2003, paragraph 1356.
+[36]
+See paragraph 29 of GSTR 2000/34.
+[37]
+See paragraph 35 of GSTR 2000/34.
+[38]
+Paragraph 29-70(1)(a).
+[39]
+Subsection 29-70(2).
+[40]
+See paragraph 111 of GSTR 2013/1.
+[41]
+Section 21-5 provides a decreasing adjustment for the supplier of a taxable supply and section 21-15 provides an increasing adjustment for the acquirer of a creditable acquisition where the associated debt is either written off as bad or is overdue for 12 months or more.
+[42]
+See paragraphs 45 to 47 in GSTR 2000/2.
+[43]
+The definition of 'disposal' in section 196-1.01 of the GST Regulations includes an assignment.
+[44]
+For a discussion of the GST consequences in connection with the original supply by way of a lease see GSTD 2001/2 and GSTR 2003/11.
+[45]
+See discussion at paragraphs 27 and 29 of this Ruling.
+[46]
+Note that table item 20 of section 40-5.12 of the GST Regulations provides that the supply of credit under a hire purchase agreement entered into on or after 1 July 2012 is not an input taxed financial supply.
+[46A]
+Table item 8 of subsection 40-5.09(3) of the GST Regulations.
+[47]
+Table item 14 of section 40-5.12 of the GST Regulations.
+[48]
+See paragraph 5 of GSTR 2003/8 and paragraphs 144 to 170 of GSTR 2002/2.
+[48A]
+See section 196-1.01 of the GST Regulations. These conditions are the same conditions set out in subsection 820-39(3) of the
+Income Tax Assessment Act 1997
+which provides a carve-out from the thin capitalisation rules in Division 820 for certain special purpose entities.
+[48B]
+Table item 32 of subsection 70-5.02(1) of the GST Regulations applies to acquisitions of supplies made by a recognised trust scheme to the extent the supplies are acquired after 1 July 2012. A recognised trust scheme includes a trust that is a managed investment scheme, or part of a managed investment scheme, where the entity that acts in the capacity as trustee or responsible entity of the trust is carrying on, in its own capacity, an enterprise that includes making taxable supplies to the trust. However, a securitisation entity is expressly excluded from being a recognised trust scheme.
+[49]
+See table item 3 of the Schedule to this Ruling.
+[50]
+See table item 4(b) of the Schedule to this Ruling
+[51]
+See table item 4(a) of the Schedule to this Ruling.
+[52]
+See paragraphs 371 to 416 and 424 to 442 of GSTR 2004/1 for a more detailed explanation of what acquisitions are covered by these items.
+[52A]
+Note paragraphs 48 to 50 of this Ruling, which are about an assignor's entitlement to input tax credits.
+[52B]
+As stated in paragraph 5 of this Ruling, where the term 'originator' is used, this refers to the assignor of the payment stream, which in this case is also the entity who makes the financial supply of the loan in a typical securitisation arrangement. The term is not used to refer to an 'originator' in a 'Tier 2' securitisation arrangement (as explained in paragraph 109F of this Ruling), where the term 'originator' may be used to refer to the manager entity that facilitates the loan with the borrower, but which does not make the financial supply of the loan and is not an assignor of receivables relating to the loan.
+[52C]
+The extent to which a supply of loan is GST-free is not addressed. The term  'relates to a financial supply' is used rather than 'relates to an input taxed supply' in paragraphs 109A to 109BW of this Ruling as in some circumstances the supply of a loan may be GST-free, for example, if table item 2 of subsection 38-190(1) applies. If acquisitions partly relate to GST-free financial supplies of loans they will be partly for a creditable purpose.
+[52D]
+HP Mercantile Pty Limited v Commissioner of Taxation
+[2005] FCAFC 126 (
+HP Mercantile
+) at [35], paragraphs 113 and 118 of GSTR 2008/1.
+[52E]
+Rio Tinto Services Ltd v Commissioner of Taxation
+[2015] FCA 94 (
+Rio Tinto - first instance
+) at [26] and [33].
+[52F]
+AXA Asia Pacific Holdings Limited v Commissioner of Taxation
+[2008] FCA 1834 at [122].
+[52G]
+Rio Tinto Services Limited v Commissioner of Taxation
+[2015] FCAFC 117 (
+Rio Tinto - appeal
+) at [7-8].
+[52H]
+See GSTR 2008/1 and GSTR 2006/3 which provide the Commissioner's views on determining the extent of creditable purpose for financial suppliers.
+[52I]
+Rio Tinto - appeal
+at [7].
+[52J]
+See further discussion about 'intention' and 'intended use' in paragraphs 49 and 50, 102 to 104, and 121 and 122 of GSTR 2008/1. See also
+HP Mercantile
+at [76].
+[52K]
+An example of this is provided in Example 3 of this Ruling.
+[52L]
+These are the same types of acquisitions as the pre-securitisation acquisitions described in paragraph 109O of this Ruling.
+[52M]
+See
+Commissioner of Taxation v American Express Wholesale Currency Services Pty Limited
+[2010] FCAFC 122 (
+Amex
+) at [154] citing
+Fitz-Gibbon.
+In the Matter of
+Fitz-Gibbon v Inspector General in Bankruptcy
+[2000] FCA 1677.
+[52N]
+'Australia' refers to the 'indirect tax zone' as defined in subsection 195-1 of the GST Act.
+[52O]
+See paragraph 131 of this Ruling.
+[52P]
+See subsection 48-45(2).
+[52Q]
+See paragraph 125 and 137 of this Ruling.
+[53]
+See table item 5 of the Schedule to this Ruling.
+[54]
+See table item 6 of the Schedule to this Ruling.
+[55]
+See table item 7 of the Schedule to this Ruling.
+[56]
+See table item 8 of the Schedule to this Ruling.
+[57]
+See table item 9 of the Schedule to this Ruling.
+[58]
+See table item 10 of the Schedule to this Ruling.
+[59]
+Mallesons Stephen Jacques,
+Australian Finance Law,
+4th ed, LBC Information Services, Pyrmont, NSW, 1999.
+[60]
+See table item 11 of the Schedule to this Ruling.
+[61]
+See table item 12(a) of the Schedule to this Ruling.
+[62]
+See table item 12(b) of the Schedule to this Ruling.
+[63]
+See paragraph 5 of GSTR 2003/8 and paragraphs 144 to 170 of GSTR 2002/2.
+[64]
+See paragraph 1 of GSTD 2006/6.
+[65]
+Paragraphs 9-20(1)(a), (b) and (c).
+[66]
+[Omitted.]
+[67]
+See also earlier discussion at paragraphs 34 to 43 of this Ruling on assignment of underlying property.
+[68]
+See paragraph 5 of GSTR 2003/8 and paragraphs 144 to 170 of GSTR 2002/2.
+[69]
+Section 11-15 and Division 189 refer.
+[70]
+See GSTR 2003/9.
+[71]
+See paragraph 61 of GSTR 2003/9.
+[72]
+See paragraph 110 of GSTR 2002/2.
+[73]
+See paragraphs 73 to 78 of GSTR 2003/9
+[74]
+An assessment will have to be made as to the extent the acquisition relates to making each supply. See example 6 in GSTR 2003/9.
+[75]
+See example 6 in GSTR 2003/9.
+[75A]
+See the definition of 'securitisation entity' in section 196-1.01 of the GST Regulations.
+[75B]
+This Schedule has been prepared on the basis that the SPV is a securitisation entity for the purposes of the definition in section 196-1.01 of the GST Regulations. See paragraphs 97A to 97B of this Ruling.
+[76]
+In the case of a GST-free issue of debt securities an entitlement to an input tax credit may apply to the extent that an acquisition relates to the issue of the debt securities.
+Previously released in draft form as GSTR 2003/D6.
+Previous draft consolidation GSTR 2004/4DC1
+References
+ATO references:
+NO  2003/005794
+ISSN:  1443-5160
+Related Rulings/Determinations:
+TR 2006/10
+GSTR 2000/2
+GSTR 2000/34
+GSTR 2000/35
+GSTR 2001/8
+GSTR 2002/2
+GSTR 2003/8
+GSTR 2003/9
+GSTR 2003/11
+GSTR 2004/1
+GSTR 2013/1
+GSTD 2001/2
+GSTD 2006/6
+GSTD 2012/1
+GSTD 2012/2
+Business Line:
+ISP - GST
+Legislative References:
+ANTS(GST)A99  9-5
+ANTS(GST)A99 9-20(1)(a)
+ANTS(GST)A99 9-20(1)(b)
+ANTS(GST)A99 9-20(1)(c)
+ANTS(GST)A99  11-5
+ANTS(GST)A99  11-15
+ANTS(GST)A99  11-15(1)
+ANTS(GST)A99  11-15(2)(a)
+ANTS(GST)A99  Div 21
+ANTS(GST)A99  21-5
+ANTS(GST)A99  21-15
+ANTS(GST)A99  Div 29
+ANTS(GST)A99  29-5
+ANTS(GST)A99  29-5(1)
+ANTS(GST)A99  29-5(2)
+ANTS(GST)A99 29-70(1)(a)
+ANTS(GST)A99  29-70(2)
+ANTS(GST)A99  38-190
+ANTS(GST)A99  Div 156
+ANTS(GST)A99  184-1
+ANTS(GST)A99  Div 189
+ANTS(GST)A99  195-1
+ANTS(GST)R99 70-5.02(4)
+ITAA 1997  17-5
+ITAA 1997 Div 820
+ITAA 1997 820-39(3)
+TAA 1953 Sch1 Div 358
+A New Tax System (Australian Business Number) Act 1999
+Corporations Act 2001
+ANTS(GST)R99  40-5.02
+ANTS(GST)R99  40-5.04
+ANTS(GST)R99  40-5.09
+ANTS(GST)R99  40-5.09(1)
+ANTS(GST)R99  40-5.09(3)
+ANTS(GST)R99  40-5.12
+ANTS(GST)R99  70-5.02
+ANTS(GST)R99  70-5.02(2)
+ANTS(GST)R99  Sch 7
+Civil Law (Property) Act 2006 (ACT) 205
+Conveyancing Act 1919 (NSW)  12
+Property Law Act 1974 (QLD)  199
+Property Law Act 1974 (QLD)  200
+Law of Property Act 2000 (NT) 182
+Law of Property Act 1936 (SA)  15
+Conveyancing and Law of Property Act 1984 (Tas)  86
+Property Law Act 1958 (Vic)  134
+Property Law Act 1969 (WA)  20
+Property Act 1860 (SA)  19
+Case References:
+Booth v. Federal Commissioner of Taxation
+(1987) 164 CLR 159
+87 ATC 5100
+19 ATR 514
+Federal Commissioner of Taxation v. American Express Wholesale Currency Services Pty Limited
+(2010) 187 FCR 398
+[2010] FCAFC 122
+Federal Commissioner of Taxation v. Everett
+(1978) 78 ATC 4595
+(1978) 9 ATR 211
+(1978) 38 FLR 26
+Federal Commissioner of Taxation v. Everett
+(1980) 143 CLR 440
+80 ATC 4076
+10 ATR 608
+Norman v. FCT
+(1963) 109 CLR 9
+Olson v. Dyson
+(1969) 120 CLR 365
+Pyramid Building Society (In Liq) v. Terry & Another
+(1997) 189 CLR 176
+Shepherd v. Federal Commissioner of Taxation
+(1965) 113 CLR 385
+Tailby v. Official Receiver
+(1888) 13 App Cas 523
+Valance v. The Queen
+(1961) 108 CLR 56
+Commissioner of Taxation v. MBI Properties Pty Ltd
+[2014] HCA 49
+2014 ATC 20-474
+(2014) 92 ATR 241
+Other References:
+Australian Prudential Regulation Authority (2000), 'The Australian Securitisation Market', Working Paper 6, October 2000.
+D Skapinker, The Principles of Equity, 2nd ed, P. Parkinson, Chapter Thirteen: 'Equitable Assignments', Lawbook Co, Pyrmont, NSW, 2003.
+Mallesons Stephen Jacques, Australian Finance Law, 4th ed, LBC Information Services, Pyrmont, NSW, 1999
+GSTR 2004/4 history
+Date:
+Version:
+Change:
+26 May 2004
+Original ruling
+30 May 2007
+Consolidated ruling
+Addendum
+22 February 2012
+Consolidated ruling
+Addendum
+31 October 2012
+Consolidated ruling
+Addendum
+8 May 2013
+Consolidated ruling
+Addendum
+11 December 2013
+Consolidated ruling
+Addendum
+20 May 2015
+Consolidated ruling
+Addendum
+You are here
+25 September 2020
+Consolidated ruling
+Addendum
+Back to top

@@ -1,0 +1,165 @@
+HEAD NOTE
+================================================================================
+
+Title: Taxpayer Alert
+
+Sections Referenced:
+  • Div 290
+  • Division 290
+
+Topics: Superannuation
+
+
+
+================================================================================
+
+TA 2021/3 | Legal database
+Legal database
+Legal database
+Contents
+Download
+Email
+Print
+Back to browse
+1 related document
+Taxpayer Alert
+TA 2021/3
+Fuel tax credit overclaims arising from aggressive marketing and use of GPS telematics technology products
+Table of Contents
+Paragraph
+Description
+1
+What are our concerns and what are we doing?
+4
+What should marketers and tax professionals do?
+7
+What should fuel tax credit clients do?
+13
+About Taxpayer Alerts
+Alerts provide a summary of our concerns about new or emerging higher risk tax or superannuation arrangements or issues that we have under risk assessment.
+While an Alert describes a type of arrangement, it is not possible to cover every potential variation of the arrangement. The absence of an Alert on an arrangement or a variation of an arrangement does not mean that we accept or endorse the arrangement or variation, or the underlying tax consequences.
+Refer to
+PS LA 2008/15
+for more about alerts. See
+Alerts
+issued to date.
+Description
+1. We are reviewing arrangements where Global Positioning System (GPS), telematics or software providers or tax professionals are marketing telematics technology products (the Product) for fuel tax credit (FTC) purposes where the analysis of GPS data, and the methods used within the Product, lead to an incorrect apportionment of FTCs. This results in client overclaims which lead to substantial audit adjustments that may attract penalties and interest.
+2. Telematics technology products gather a range of information and data that can be sourced from the Global Navigation Satellite System (GNSS), vehicle sensors and engine diagnostics.
+3. GPS and telematics technology, where supported by robust checks and appropriate levels of evidence, can be useful in identifying where and how taxable fuel is being used in vehicles and equipment to support FTC claims. While we support the use of technology for managing tax affairs, we have identified a number of problems with some Products, including poor quality or intermittent GPS data without sufficient checks and relevant adjustments to correct inaccurate outcomes.
+What are our concerns and what are we doing?
+4. We are aware that some marketers or tax professionals are approaching FTC clients (clients) and encouraging these clients to use their Product to claim additional FTCs. The messaging may focus on assertions that FTC clients are missing out on significant FTCs (past and current). There may also be assertions that clients will receive large FTC refunds without scrutiny or rejection of the claims by the ATO. In some instances, there have been false or misleading claims by marketers that the ATO has endorsed their Product. We are concerned that the aggressive marketing is being fuelled in some cases by commission-based fee arrangements.
+5. In particular, we have identified the following practices that can lead to incorrect apportionment of fuel and erroneous FTC claims. GPS, telematics or software providers or tax professionals need to consider whether the Product they are promoting has any of these characteristics that may distort FTC claims.
+Concerns
+Examples (not exhaustive)
+Incorrect classification of roads or locations
+Classifying roads as non-public roads when they are public roads.
+Using outdated road map data.
+Inadequate sample sizes or applying Product results that are not representative of a client's fleet
+Using sample sizes that do not reflect the various fuel usages for a client's fleet or the overall circumstances of their fleet operations.
+Applying sample results to past or future claims when those results do not reflect the business operations at that time.
+Use of incorrect assumptions, inputs, algorithms, fuel consumption rates or results within the Product
+The Product is built on assumptions which cannot be validated or are misleading.
+Treating ignition 'on' status as idling when the vehicle engine is not actually idling.
+The Product uses algorithms that distort results (for example, the Product results show that a vehicle was travelling between two direct points when the vehicle actually travelled along a curved road, understating the distance travelled on the public road).
+Using fuel consumption rates (including industry averages) that do not reflect the client's fleet (models, types, etcetera) or business operations or conditions (for example, terrain; climatic conditions; age, design, service and maintenance history of vehicle; weight and cargo of vehicle and driver influence).
+Using incorrect results containing errors and anomalies and applying across multiple tax periods (past and future).
+Failure to reconcile source documentation and business records with these new FTC claims
+Data and results are not reconciled with original source documentation, events and fuel usage.
+Inadequate reconciliation process or analysis to ensure the Product results are reasonable (for example, the apportionment of fuel within the Product may be based on locations, travel, time or consumption rates that are unreasonable given the client's actual business operations).
+Failure of the software or business processes to account for inherent limitations of data derived from the Product
+Known issues with GPS accuracy including obstructions (for example, buildings) and poor quality or intermittent GPS data.
+Event recognition and location data relying on intermittent GPS information or being impacted by 'ping' rates or drift affecting reported locations.
+Incorrect use of ATO simplified methods (safe harbours)
+Some Products seek to combine ATO simplified methods (safe harbours) with a GPS-based Product which can result in overstated claims. An ATO simplified method (for example, accepted percentages) is intended to be comprehensive and cannot be used in combination with other methodologies.
+6. We are scrutinising FTC claims which have been prepared using a GPS or telematics technology product that exhibits the types of issues and practices contained in the table in this Alert that lead to overclaimed credits. Where necessary, we will adjust FTC claims and may impose penalties and interest for the FTC clients.
+What should marketers and tax professionals do?
+7. Penalties may apply to participants in, and promoters of, the types of arrangements described in this Alert. This includes serious penalties under Division 290 of Schedule 1 to the
+Taxation Administration Act 1953
+for promoters. Registered tax agents involved in the promotion of this type of arrangement may be referred to the Tax Practitioners Board to consider whether there has been a breach of the
+Tax Agent Services Act 2009.
+8. As a tax professional, provider or a marketer of a Product you should ensure that the Product generates correct results as represented and undertake any corrective actions if any practices identified in this Alert apply to the Product.
+9. You should take prudential steps to ensure that the Product and its results lead to correct FTC claims by:
+•
+having sufficient internal controls and governance in place
+•
+keeping supporting evidence to justify classification of roads, sample sizes, fuel measurement or estimates, algorithms used and any other variable or input
+•
+testing the reasonableness of results with the actual use of fuel (for example, the data is checked against contemporaneous business records, comparing the distance computed by the product to similar paths or distances with odometer readings and/or reputable mapping data sources, etcetera), and
+•
+reconciling Product results with original and other supporting documentation.
+[1]
+10. If your Product is not suitable or it requires time to update so that FTC clients can easily rely on the product with confidence, you should:
+•
+stop offering the Product immediately and limit your advertising
+•
+correct functionalities and rectify issues that are misleading, incorrect or lead to erroneous results
+•
+advise clients that have used your Product of the issues, and
+•
+contact the ATO to work with us on correcting FTC claims for your clients, for example, by voluntary disclosure.
+11. We encourage you as a marketer or tax professional to engage with the ATO early by seeking guidance on the Product for FTC purposes. We encourage you to apply for a Product Ruling or Class Ruling to obtain tax certainty about how the Product applies to clients / the class of entities using the product.
+12. As a marketer or tax professional, you should consider our
+Fuel tax credits - telematics technology providers
+checklist, which will help you manage your telematics data for FTC-apportionment purposes and understand the minimum verification and evidence required.
+What should fuel tax credit clients do?
+13. We are checking FTC claims which appear to have been prepared using a GPS or telematics technology product and which exhibit the types of issues set out in this Alert. Where necessary, we will make adjustments to those claims and may impose penalties and interest. As an FTC client, you should consider whether our concerns apply to you. You should check your FTC claims to ensure they are correct, otherwise you may be subject to penalties and interest.
+14. If you find any errors or have overclaimed FTCs, you should make a
+voluntary disclosure
+to reduce the penalties that may apply.
+15. If you are concerned with the behaviours of marketers described in this Alert, you can
+report schemes and promoters
+.
+16. You should consider whether the telematics technology product you are using is covered by a Product Ruling or a Class Ruling.
+17. Where you are not using a product covered by a Product Ruling, you should check that (not exhaustive):
+•
+your daily trip data does not contain anomalies such as high idling and distance on non-public roads (for example, two kilometres in a warehouse); if it does, it is likely that this data is not reliable to calculate correct FTC
+•
+daily excessive distances and idle times contained in the data can be supported by other records, such as warehouse entries and normal idle times
+•
+you have not claimed more than the amount of fuel you purchased
+•
+the fuel consumption rate you used, or your advisor is using to calculate idling fuel used, is supported by your engine diagnostic reports from relevant sampling or testing
+•
+you have not used an ATO-accepted percentage (safe harbour) method in addition to topping up the claim for the same fuel using a separate calculation.
+18. For future claims, you should consider the guidance on our website
+ato.gov.au
+.
+19. You may request a
+Private Ruling
+if you wish to obtain tax certainty about how a software product applies in your situation. You will need to provide specific details of your circumstances including details of data sources and how the product operates.
+Commissioner of Taxation
+17 September 2021
+©
+AUSTRALIAN TAXATION OFFICE FOR THE COMMONWEALTH OF AUSTRALIA
+You are free to copy, adapt, modify, transmit and distribute this material as you wish (but not in any way that suggests the ATO or the Commonwealth endorses you or any of your services or products).
+Date of Issue:
+17 September 2021
+Date of Effect:
+N/A
+[1]
+Fuel tax credits - telematics technology providers
+provides guidance to assist telematics technology providers when updating or developing telematics products.
+File  1-P0H2B7Z
+Related Practice Statements:
+PS LA 2008/15
+Other References:
+Fuel tax credits - telematics technology providers
+Private Rulings
+Report schemes and promoters
+Voluntary disclosures in the approved form
+Legislative References:
+TAA 1953 Sch 1 Div 290
+Tax Agent Services Act 2009
+Authorised by:
+Louise Clarke
+Deputy Commissioner
+Contact officer:
+Tony Poulakis
+Email address:
+tony.poulakis@ato.gov.au
+Telephone:
+(02) 6216 2332
+ISSN:
+2651-9550
+Back to top

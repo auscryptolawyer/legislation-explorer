@@ -1,9 +1,9 @@
-"""
-backend/main.py — FastAPI app for Legislation Explorer.
+"""backend/main.py — FastAPI app for Legislation Explorer.
 
 Serves:
   - React SPA static files
   - JSON API for tree, sections, definitions, search
+  - Microsoft Entra ID SSO authentication
 """
 from __future__ import annotations
 
@@ -26,6 +26,7 @@ from backend.routes.api import router as api_router
 from backend.routes.mcp import router as mcp_router
 from backend.mcp_server import handle_mcp_sse, mcp_post_message_app
 from backend.services.search_service import init_search_index
+from backend.services import vector_search_service
 
 setup_logging()
 logger = logging.getLogger(__name__)
@@ -38,6 +39,8 @@ async def lifespan(app: FastAPI):
         logger.info("Search index missing, building in background...")
         loop = asyncio.get_running_loop()
         await loop.run_in_executor(None, init_search_index)
+    loop = asyncio.get_running_loop()
+    await loop.run_in_executor(None, vector_search_service.load)
     yield
 
 
@@ -56,24 +59,41 @@ app.add_middleware(
 app.add_middleware(MetricsMiddleware)
 
 # ---------------------------------------------------------------------------
-# Auth middleware
+# Microsoft Entra ID SSO auth
 # ---------------------------------------------------------------------------
 
-@app.middleware("http")
-async def auth_middleware(request: Request, call_next):
-    path = request.url.path
-    if path in ("/health", "/", "/favicon.ico") or path.startswith("/assets/"):
+if os.environ.get("AZURE_CLIENT_ID"):
+    from starlette.middleware.sessions import SessionMiddleware
+    from backend.auth import AuthMiddleware, login, callback, logout, me
+
+    app.add_middleware(SessionMiddleware, secret_key=os.environ.get("SESSION_SECRET", "change-me"), session_cookie="starlette_session")
+    app.add_middleware(AuthMiddleware)
+
+    app.add_api_route("/auth/login", login, methods=["GET"])
+    app.add_api_route("/auth/callback", callback, methods=["GET"])
+    app.add_api_route("/auth/logout", logout, methods=["GET"])
+    app.add_api_route("/auth/me", me, methods=["GET"])
+    logger.info("Microsoft Entra ID auth enabled")
+
+# ---------------------------------------------------------------------------
+# Fallback: bearer token auth (when SSO is not configured)
+# ---------------------------------------------------------------------------
+
+if not os.environ.get("AZURE_CLIENT_ID"):
+
+    @app.middleware("http")
+    async def bearer_auth_middleware(request: Request, call_next):
+        path = request.url.path
+        if path in ("/health", "/", "/favicon.ico") or path.startswith(("/assets/", "/mcp/", "/auth/")):
+            return await call_next(request)
+        if not path.startswith("/api/"):
+            return await call_next(request)
+        if config.BEARER_TOKEN is None:
+            return await call_next(request)
+        auth = request.headers.get("Authorization", "")
+        if not auth.startswith("Bearer ") or auth[7:] != config.BEARER_TOKEN:
+            return JSONResponse({"detail": "Unauthorized"}, status_code=401)
         return await call_next(request)
-    if path.startswith("/mcp/"):
-        return await call_next(request)
-    if not path.startswith("/api/"):
-        return await call_next(request)
-    if config.BEARER_TOKEN is None:
-        return await call_next(request)
-    auth = request.headers.get("Authorization", "")
-    if not auth.startswith("Bearer ") or auth[7:] != config.BEARER_TOKEN:
-        return JSONResponse({"detail": "Unauthorized"}, status_code=401)
-    return await call_next(request)
 
 
 # ---------------------------------------------------------------------------
@@ -92,13 +112,13 @@ def health():
 app.include_router(api_router)
 app.include_router(mcp_router)
 
+
 # ---------------------------------------------------------------------------
 # MCP SSE transport (raw ASGI)
 # ---------------------------------------------------------------------------
 
 from starlette.routing import Route, Mount
 
-# Insert MCP routes before the catch-all SPA fallback
 app.routes.insert(
     0,
     Route("/mcp/sse", endpoint=handle_mcp_sse, methods=["GET"]),
@@ -107,6 +127,7 @@ app.routes.insert(
     1,
     Mount("/mcp/messages/", app=mcp_post_message_app),
 )
+
 
 # ---------------------------------------------------------------------------
 # Static files / SPA fallback
