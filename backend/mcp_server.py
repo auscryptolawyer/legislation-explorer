@@ -1,4 +1,4 @@
-"""MCP server mounted inside the FastAPI app."""
+"""MCP server mounted inside the FastAPI app with dual transport (SSE + StreamableHTTP)."""
 from __future__ import annotations
 
 import json
@@ -6,8 +6,10 @@ import logging
 from contextlib import asynccontextmanager
 from typing import AsyncIterator
 
+import anyio
 from mcp.server import Server
 from mcp.server.sse import SseServerTransport
+from mcp.server.streamable_http import StreamableHTTPServerTransport
 from mcp.types import TextContent, Tool
 from starlette.requests import Request
 from starlette.responses import Response
@@ -548,3 +550,97 @@ async def mcp_post_message_app(scope, receive, send):
         return await response(scope, receive, send)
 
     await sse_transport.handle_post_message(scope, receive, send)
+
+
+# ---------------------------------------------------------------------------
+# Streamable HTTP handler
+# ---------------------------------------------------------------------------
+
+
+async def handle_mcp_streamable(request: Request):
+    """Handle Streamable HTTP MCP requests with auth + rate limiting.
+
+    Supports dual-mode auth: JWT (OAuth 2.1) or legacy raw token.
+    Uses stateless pattern: creates a fresh transport per request.
+    """
+    import os
+    from jose import JWTError, jwt as jose_jwt
+
+    # Extract token from Authorization header or query param
+    token = ""
+    auth = request.headers.get("Authorization", "")
+    if auth.startswith("Bearer "):
+        token = auth[7:]
+    if not token:
+        token = request.query_params.get("token", "")
+
+    if not token:
+        return Response("Missing token", status_code=401)
+
+    # Try JWT validation first (OAuth 2.1 flow)
+    jwt_valid = False
+    jwt_secret = os.environ.get("JWT_SECRET", "")
+    if jwt_secret:
+        try:
+            payload = jose_jwt.decode(
+                token, jwt_secret, algorithms=["HS256"],
+                options={"verify_exp": True, "verify_aud": False},
+            )
+            # Check revocation in OAuth tokens DB
+            import hashlib
+            import sqlite3 as _sqlite3
+            from backend.oauth.token import DB_PATH as OAUTH_DB_PATH
+
+            token_hash = hashlib.sha256(token.encode()).hexdigest()
+            conn = _sqlite3.connect(str(OAUTH_DB_PATH))
+            try:
+                row = conn.execute(
+                    "SELECT revoked FROM oauth_access_tokens WHERE token_hash = ?",
+                    (token_hash,),
+                ).fetchone()
+                if row and row[0]:
+                    return Response("Token revoked", status_code=403)
+            finally:
+                conn.close()
+            jwt_valid = True
+        except (JWTError, Exception):
+            jwt_valid = False
+
+    # Fall back to legacy token manager
+    if not jwt_valid:
+        if not token_manager.validate_token(token):
+            return Response("Invalid or revoked token", status_code=403)
+
+    # Rate limiting (always use raw token for rate limiting)
+    allowed, reason = token_manager.check_rate_limit(token)
+    if not allowed:
+        return Response(reason, status_code=429)
+
+    # Create a fresh transport for this request (stateless)
+    transport = StreamableHTTPServerTransport(
+        mcp_session_id=None,
+        is_json_response_enabled=True,
+    )
+
+    async def run_mcp_server(*, task_status=anyio.TASK_STATUS_IGNORED):
+        async with transport.connect() as streams:
+            read_stream, write_stream = streams
+            task_status.started()
+            try:
+                await mcp_server.run(
+                    read_stream,
+                    write_stream,
+                    mcp_server.create_initialization_options(),
+                    stateless=True,
+                )
+            except Exception:
+                logger.exception("StreamableHTTP session crashed")
+
+    async with anyio.create_task_group() as tg:
+        await tg.start(run_mcp_server)
+        await transport.handle_request(
+            request.scope, request.receive, request._send
+        )
+
+    await transport.terminate()
+    return NoopResponse()

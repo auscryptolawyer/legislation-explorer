@@ -25,9 +25,15 @@ from backend.middleware.metrics import MetricsMiddleware
 from backend.middleware.ratelimit import RateLimitMiddleware
 from backend.routes.api import router as api_router
 from backend.routes.mcp import router as mcp_router
-from backend.mcp_server import handle_mcp_sse, mcp_post_message_app
+from backend.mcp_server import handle_mcp_sse, handle_mcp_streamable, mcp_post_message_app
 from backend.services.search_service import init_search_index
 from backend.services import vector_search_service
+
+# OAuth 2.1 routes
+from backend.oauth.discovery import router as oauth_discovery_router
+from backend.oauth.registration import router as oauth_registration_router
+from backend.oauth.authorization import router as oauth_authorization_router
+from backend.oauth.token import router as oauth_token_router
 
 setup_logging()
 logger = logging.getLogger(__name__)
@@ -118,7 +124,7 @@ app.include_router(mcp_router)
 
 
 # ---------------------------------------------------------------------------
-# MCP SSE transport (raw ASGI)
+# MCP SSE transport (raw ASGI) - legacy
 # ---------------------------------------------------------------------------
 
 from starlette.routing import Route, Mount
@@ -131,6 +137,28 @@ app.routes.insert(
     1,
     Mount("/mcp/messages/", app=mcp_post_message_app),
 )
+
+
+# ---------------------------------------------------------------------------
+# MCP Streamable HTTP transport - single endpoint
+# ---------------------------------------------------------------------------
+
+from starlette.routing import Route as StarletteRoute
+
+app.routes.insert(
+    2,
+    StarletteRoute("/mcp", endpoint=handle_mcp_streamable, methods=["GET", "POST", "DELETE"]),
+)
+
+
+# ---------------------------------------------------------------------------
+# OAuth 2.1 routes
+# ---------------------------------------------------------------------------
+
+app.include_router(oauth_discovery_router)
+app.include_router(oauth_registration_router)
+app.include_router(oauth_authorization_router)
+app.include_router(oauth_token_router)
 
 
 # ---------------------------------------------------------------------------
