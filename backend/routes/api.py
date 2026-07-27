@@ -29,9 +29,27 @@ router.include_router(user_prefs_router)
 router.include_router(admin_router)
 
 
-VERSION = "2.3.1"
+VERSION = "2.4.0"
 
 CHANGELOG = [
+    {
+        "version": "2.4.0",
+        "date": "2026-07-27",
+        "title": "Search includes rulings, pagination, full-page results, related content panel, tree view",
+        "changes": [
+            "Flat search now includes 6,618 ATO rulings alongside legislation sections — FTS5 rulings_fts virtual table indexed from ruling text files",
+            "Search results paginated at 25 per page with page number buttons and Previous/Next navigation",
+            "Full-page search results layout — results flow naturally below search bar, homepage expands to full width, welcome footer hidden while searching",
+            "Source filter now re-applies to existing results — selecting/deselecting acts in the filter immediately narrows results",
+            "Display fixes: no more 's' prefix on CCH guide sections, left-aligned snippets with FTS5 highlights, long titles wrap instead of truncating",
+            "Drawer icon (three-line SVG) at top-left of main pane on mobile — opens sidebar, separate from search bar",
+            "Definitions are clickable — tapping a defined term navigates to the defining section with anchor",
+            "Commentary, Cases, and Rulings sections consolidated into unified 'Related' panel with subsections: Sections, Rulings, Defined Terms, Cases (placeholder), Commentary (placeholder)",
+            "Rulings in Related panel display proper display names (TR 2023/2) not raw citations (TR_2023_2)",
+            "Tree view in main content pane when browsing an act — all parts expanded, select a section to open content",
+            "Auto-build search index on flat search request when index is missing",
+        ],
+    },
     {
         "version": "2.3.1",
         "date": "2026-07-25",

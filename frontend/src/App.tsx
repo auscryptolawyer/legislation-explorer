@@ -45,6 +45,7 @@ export default function App() {
   const [error, setError] = useState('')
   const [drawerOpen, setDrawerOpen] = useState(false)
   const [isMobile, setIsMobile] = useState(false)
+  const [browsingAct, setBrowsingAct] = useState(false)
 
   // Sidebar width with localStorage persistence
   const [sidebarWidth, setSidebarWidth] = useState(() => {
@@ -166,6 +167,7 @@ export default function App() {
     setActiveSection('')
     setActiveRuling(null)
     setSectionData(null)
+    setBrowsingAct(false)
     window.history.pushState(null, '', '/')
   }
 
@@ -269,6 +271,7 @@ export default function App() {
         setAct(actOnlyMatch[1])
         setActiveSection('')
         setActiveRuling(null)
+        setBrowsingAct(true)
       } else {
         setActiveSection('')
         setActiveRuling(null)
@@ -306,7 +309,7 @@ export default function App() {
   if (!tree) return <div style={{ padding: 20, color: COLORS.textMuted }}>Loading...</div>
 
   const mobileSidebarWidth = isMobile ? Math.min(window.innerWidth * 0.85, 380) : sidebarWidth
-  const hasContent = !!(activeSection || activeRuling)
+  const hasContent = !!(activeSection || activeRuling || browsingAct)
 
   return (
     <ThemeProvider>
@@ -361,7 +364,7 @@ export default function App() {
                       boxShadow: '0 8px 24px rgba(0,0,0,0.4)',
                     }}>
                       {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }]).map(a => (
-                        <button key={a.id} onClick={() => { setPickerOpen(false); goHome(); setAct(a.id); if (isMobile) setDrawerOpen(false) }} style={{
+                        <button key={a.id} onClick={() => { setPickerOpen(false); goHome(); setAct(a.id); setBrowsingAct(true); if (isMobile) setDrawerOpen(false) }} style={{
                           display: 'block', width: '100%', padding: '6px 12px',
                           background: 'transparent', border: 'none',
                           color: act === a.id ? COLORS.accent : COLORS.text,
@@ -527,6 +530,26 @@ export default function App() {
         display: 'flex', flexDirection: 'column',
         position: 'relative',
       }}>
+        {isMobile && !drawerOpen && (
+          <button
+            onClick={() => setDrawerOpen(true)}
+            title="Open sidebar"
+            style={{
+              position: 'absolute', top: 4, left: 4, zIndex: 60,
+              background: COLORS.surface, color: COLORS.heading,
+              border: `1px solid ${COLORS.border}`,
+              borderRadius: 6, padding: '7px 10px',
+              cursor: 'pointer', lineHeight: 1, fontSize: 13,
+              display: 'flex', alignItems: 'center', justifyContent: 'center',
+            }}
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="3" y1="6" x2="21" y2="6" />
+              <line x1="3" y1="12" x2="21" y2="12" />
+              <line x1="3" y1="18" x2="21" y2="18" />
+            </svg>
+          </button>
+        )}
         {/* Sticky search bar — only when content is open */}
         {hasContent && (
           <div style={{
@@ -536,21 +559,6 @@ export default function App() {
             marginBottom: 8,
           }}>
             <div style={{ display: 'flex', gap: 6, alignItems: 'stretch' }}>
-              {isMobile && !drawerOpen && (
-                <button
-                  onClick={() => setDrawerOpen(true)}
-                  style={{
-                    padding: isMobile ? '10px 10px' : '8px 10px', borderRadius: 6,
-                    background: COLORS.surface, color: COLORS.heading,
-                    border: `1px solid ${COLORS.border}`, fontSize: 16,
-                    cursor: 'pointer', lineHeight: 1,
-                    display: 'flex', alignItems: 'center', justifyContent: 'center',
-                    flexShrink: 0,
-                  }}
-                >
-                  {'\u2630'}
-                </button>
-              )}
               <div style={{ flex: 1 }}>
                 <SearchPanel
                   acts={acts}
@@ -647,6 +655,57 @@ export default function App() {
             rulingsOpen={rulingsOpen}
             setRulingsOpen={setRulingsOpen}
           />
+        ) : browsingAct && tree && act !== 'rulings' ? (
+          <div style={{ fontFamily: "'Montserrat', sans-serif" }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
+              <button
+                onClick={goHome}
+                title="Back to home"
+                style={{
+                  padding: '6px 8px', borderRadius: 6,
+                  background: COLORS.surface, color: COLORS.textMuted,
+                  border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                  display: 'flex', alignItems: 'center', gap: 4,
+                  fontSize: 11, fontFamily: "'Montserrat', sans-serif",
+                  fontWeight: 500,
+                }}
+              >
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+                  <polyline points="9 22 9 12 15 12 15 22"/>
+                </svg>
+                <span style={{ fontSize: 10, opacity: 0.6 }}>{'<<'}</span>
+              </button>
+              <span style={{ fontSize: 14, fontWeight: 600, color: COLORS.heading }}>
+                {shortActName(act)}
+              </span>
+            </div>
+            <div style={{ borderTop: `1px solid ${COLORS.border}`, paddingTop: 8 }}>
+              {(() => {
+                // Collect all parent IDs to expand everything
+                const allIds = new Set<string>()
+                const collectIds = (parts: any[]) => {
+                  for (const p of parts) {
+                    allIds.add(p.id)
+                    if (p.divisions) {
+                      for (const d of p.divisions) {
+                        allIds.add(d.id)
+                        if (d.subdivisions) {
+                          for (const s of d.subdivisions) {
+                            allIds.add(s.id)
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+                collectIds(tree.parts || [])
+                return (tree.parts || []).map(p => (
+                  <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { setActiveSection(e); if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
+                ))
+              })()}
+            </div>
+          </div>
         ) : (
           <div style={{
             display: 'flex', flexDirection: 'column', alignItems: 'center',
@@ -657,24 +716,6 @@ export default function App() {
             justifyContent: searchResultsCount > 0 ? 'flex-start' : 'center',
           }}>
             <div style={{ width: '100%', maxWidth: searchResultsCount > 0 ? '100%' : 400, marginBottom: searchResultsCount > 0 ? 0 : 24 }}>
-              {isMobile && !drawerOpen && (
-                <div style={{ display: 'flex', gap: 6, alignItems: 'stretch', marginBottom: 8 }}>
-                  <button
-                    onClick={() => setDrawerOpen(true)}
-                    style={{
-                      padding: '10px 10px', borderRadius: 6,
-                      background: COLORS.surface, color: COLORS.heading,
-                      border: `1px solid ${COLORS.border}`, fontSize: 16,
-                      cursor: 'pointer', lineHeight: 1,
-                      display: 'flex', alignItems: 'center', justifyContent: 'center',
-                      flexShrink: 0,
-                    }}
-                  >
-                    {'\u2630'}
-                  </button>
-                  <div style={{ flex: 1 }} />
-                </div>
-              )}
               <SearchPanel
                 acts={acts}
                 onNavigate={(targetAct, section) => {

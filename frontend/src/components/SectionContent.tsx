@@ -124,75 +124,6 @@ export default function SectionContent({
         </ReactMarkdown>
       </div>
 
-      {/* Commentary */}
-      {commentaryData?.commentary?.length > 0 && (
-        <div style={{ marginTop: 40, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', cursor: 'pointer', marginBottom: 12 }}
-               onClick={() => setCommentaryOpen(!commentaryOpen)}>
-            <h2 style={{ color: COLORS.heading, fontSize: isMobile ? 17 : 18, fontWeight: 600, margin: 0 }}>Commentary</h2>
-            <span style={{ color: COLORS.textMuted, fontSize: 20 }}>{commentaryOpen ? '\u25b2' : '\u25bc'}</span>
-          </div>
-          {commentaryOpen && (
-            <div style={{ lineHeight: 1.7, fontSize: isMobile ? 14 : 14, color: COLORS.text }}>
-              {commentaryData.commentary.map((c: any, idx: number) => (
-                <div key={idx} style={{ marginBottom: 12 }}>
-                  <p style={{ margin: 0 }}>{c.text}</p>
-                  {c.page_number && <span style={{ fontSize: 11, color: COLORS.textMuted }}>Page: {c.page_number}</span>}
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
-      )}
-
-      {/* Cases */}
-      {casesData?.cases?.length > 0 && (
-        <div style={{ marginTop: 20, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', cursor: 'pointer', marginBottom: 12 }}
-               onClick={() => setCasesOpen(!casesOpen)}>
-            <h2 style={{ color: COLORS.heading, fontSize: isMobile ? 17 : 18, fontWeight: 600, margin: 0 }}>Cases</h2>
-            <span style={{ color: COLORS.textMuted, fontSize: 20 }}>{casesOpen ? '\u25b2' : '\u25bc'}</span>
-          </div>
-          {casesOpen && (
-            <ul style={{ listStyle: 'none', padding: 0 }}>
-              {casesData.cases.map((c: any) => (
-                <li key={c.citation} style={{ marginBottom: 8 }}>
-                  <a href={c.link} target="_blank" rel="noopener noreferrer"
-                     style={{ color: COLORS.accent, textDecoration: 'none', fontSize: 14 }}>
-                    {c.citation} &mdash; {c.name}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          )}
-        </div>
-      )}
-
-      {/* Rulings */}
-      {rulingsForSectionData?.rulings?.length > 0 && (
-        <div style={{ marginTop: 20, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', cursor: 'pointer', marginBottom: 12 }}
-               onClick={() => setRulingsOpen(!rulingsOpen)}>
-            <h2 style={{ color: COLORS.heading, fontSize: isMobile ? 17 : 18, fontWeight: 600, margin: 0 }}>ATO Rulings</h2>
-            <span style={{ color: COLORS.textMuted, fontSize: 20 }}>{rulingsOpen ? '\u25b2' : '\u25bc'}
-            </span>
-          </div>
-          {rulingsOpen && (
-            <ul style={{ listStyle: 'none', padding: 0 }}>
-              {rulingsForSectionData.rulings.map((r: any) => (
-                <li key={r.citation} style={{ marginBottom: 8 }}>
-                  <a href={`/rulings/s${encodeURIComponent(r.citation)}`}
-                     onClick={(e) => { e.preventDefault(); onNavigateRuling(r.citation) }}
-                     style={{ color: COLORS.accent, textDecoration: 'none', fontSize: 14 }}>
-                    {r.citation} &mdash; {r.title}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          )}
-        </div>
-      )}
-
       {/* Comments */}
       <div style={{ marginTop: 40, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', cursor: 'pointer', marginBottom: 12 }}
@@ -282,9 +213,15 @@ export default function SectionContent({
         )}
       </div>
 
-      {/* Smart Links */}
+      {/* Smart Links — Related content */}
       <div style={{ marginTop: 40, borderTop: `1px solid ${COLORS.border}`, paddingTop: 20 }}>
-        <SmartLinkPanel act={act} section={sectionId} onNavigate={onNavigate} />
+        <SmartLinkPanel
+          act={act}
+          section={sectionId}
+          onNavigate={onNavigate}
+          onNavigateRuling={onNavigateRuling}
+          rulingsForSection={rulingsForSectionData?.rulings || []}
+        />
       </div>
     </div>
   )

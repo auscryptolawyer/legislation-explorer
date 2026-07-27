@@ -103,7 +103,7 @@ def admin_health(request: Request):
     return {
         "backend": {
             "uptime_seconds": round(uptime),
-            "version": "2.3.1",
+            "version": "2.4.0",
             "auth_enabled": bool(os.environ.get("AZURE_CLIENT_ID")),
         },
         "database": {
