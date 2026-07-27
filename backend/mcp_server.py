@@ -125,7 +125,7 @@ async def list_tools() -> list[Tool]:
         ),
         Tool(
             name="get_ruling",
-            description="Retrieve an ATO ruling by citation. Accepts TR 2020/1, TR_2020_1, or TR 2024/1 formats.",
+            description="Retrieve an ATO ruling preview by citation. Returns metadata and a content preview (~5K chars). Full text is available via the ATO or AustLII URLs in the response. Accepts TR 2020/1, TR_2020_1, or TR 2024/1 formats.",
             inputSchema={
                 "type": "object",
                 "properties": {
@@ -440,6 +440,10 @@ async def _get_ruling(args: dict) -> list[TextContent]:
         if r["citation"] in candidates:
             path = Path(r["source"])
             content = path.read_text(encoding="utf-8") if path.exists() else ""
+            stripped = _strip_ato_chrome(content)
+            MAX_PREVIEW = 5000  # ~1250 tokens — preview only
+            preview = stripped[:MAX_PREVIEW]
+            truncated = len(stripped) > MAX_PREVIEW
             return [TextContent(type="text", text=_json.dumps({
                 "citation": r["citation"],
                 "citation_display": r.get("citation_display", ""),
@@ -450,7 +454,10 @@ async def _get_ruling(args: dict) -> list[TextContent]:
                 "withdrawn": r.get("withdrawn", False),
                 "ato_url": r.get("ato_url", ""),
                 "austlii_url": r.get("austlii_url", ""),
-                "content": _strip_ato_chrome(content),
+                "content_preview": preview,
+                "content_truncated": truncated,
+                "total_content_length": len(stripped),
+                "note": "Full content truncated to save tokens. Use the ruling URL on ATO.gov.au or AustLII for the complete text." if truncated else None,
             }, indent=2))]
     return [TextContent(type="text", text=_json.dumps({"error": f"Ruling {citation} not found"}))]
 
