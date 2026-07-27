@@ -667,6 +667,10 @@ async def handle_mcp_streamable(request: Request):
     import os
     from jose import JWTError, jwt as jose_jwt
 
+    # Dev mode: skip all auth
+    if os.environ.get("DEV_MODE", "").lower() in ("true", "1", "yes"):
+        return await _run_mcp_session(request)
+
     # Extract token from Authorization header or query param
     token = ""
     auth = request.headers.get("Authorization", "")
@@ -717,7 +721,12 @@ async def handle_mcp_streamable(request: Request):
     if not allowed:
         return Response(reason, status_code=429)
 
-    # Create a fresh transport for this request (stateless)
+    return await _run_mcp_session(request)
+
+
+async def _run_mcp_session(request: Request) -> Response:
+    """Create a fresh MCP session for a request."""
+    import anyio
     transport = StreamableHTTPServerTransport(
         mcp_session_id=None,
         is_json_response_enabled=True,

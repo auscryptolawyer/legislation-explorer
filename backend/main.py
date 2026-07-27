@@ -72,7 +72,9 @@ app.add_middleware(RateLimitMiddleware, enabled=os.environ.get("RATE_LIMIT_ENABL
 # Microsoft Entra ID SSO auth
 # ---------------------------------------------------------------------------
 
-if os.environ.get("AZURE_CLIENT_ID"):
+DEV_MODE = os.environ.get("DEV_MODE", "").lower() in ("true", "1", "yes")
+
+if not DEV_MODE and os.environ.get("AZURE_CLIENT_ID"):
     from starlette.middleware.sessions import SessionMiddleware
     from backend.auth import AuthMiddleware, login, callback, logout, me
 
@@ -89,7 +91,7 @@ if os.environ.get("AZURE_CLIENT_ID"):
 # Fallback: bearer token auth (when SSO is not configured)
 # ---------------------------------------------------------------------------
 
-if not os.environ.get("AZURE_CLIENT_ID"):
+if not DEV_MODE and not os.environ.get("AZURE_CLIENT_ID"):
 
     @app.middleware("http")
     async def bearer_auth_middleware(request: Request, call_next):
