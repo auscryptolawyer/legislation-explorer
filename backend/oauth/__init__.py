@@ -1,1 +1,0 @@
-"""OAuth 2.1 implementation for Legislation Explorer MCP."""

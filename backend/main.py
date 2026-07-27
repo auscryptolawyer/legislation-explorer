@@ -3,8 +3,9 @@
 Serves:
   - React SPA static files
   - JSON API for tree, sections, definitions, search
-  - Microsoft Entra ID SSO authentication
+  - MCP over Streamable HTTP
 """
+
 from __future__ import annotations
 
 import asyncio
@@ -18,22 +19,16 @@ from fastapi.responses import FileResponse, HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.config import ALLOWED_ORIGINS, BEARER_TOKEN, FRONTEND_DIST, SEARCH_DB
+from backend.config import ALLOWED_ORIGINS, FRONTEND_DIST, SEARCH_DB
 from backend import config
 from backend.logging_config import setup_logging
 from backend.middleware.metrics import MetricsMiddleware
 from backend.middleware.ratelimit import RateLimitMiddleware
 from backend.routes.api import router as api_router
 from backend.routes.mcp import router as mcp_router
-from backend.mcp_server import handle_mcp_sse, handle_mcp_streamable, mcp_post_message_app
+from backend.mcp_server import handle_mcp_streamable
 from backend.services.search_service import init_search_index
 from backend.services import vector_search_service
-
-# OAuth 2.1 routes
-from backend.oauth.discovery import router as oauth_discovery_router
-from backend.oauth.registration import router as oauth_registration_router
-from backend.oauth.authorization import router as oauth_authorization_router
-from backend.oauth.token import router as oauth_token_router
 
 setup_logging()
 logger = logging.getLogger(__name__)
@@ -72,9 +67,7 @@ app.add_middleware(RateLimitMiddleware, enabled=os.environ.get("RATE_LIMIT_ENABL
 # Microsoft Entra ID SSO auth
 # ---------------------------------------------------------------------------
 
-DEV_MODE = os.environ.get("DEV_MODE", "").lower() in ("true", "1", "yes")
-
-if not DEV_MODE and os.environ.get("AZURE_CLIENT_ID"):
+if os.environ.get("AZURE_CLIENT_ID"):
     from starlette.middleware.sessions import SessionMiddleware
     from backend.auth import AuthMiddleware, login, callback, logout, me
 
@@ -91,7 +84,7 @@ if not DEV_MODE and os.environ.get("AZURE_CLIENT_ID"):
 # Fallback: bearer token auth (when SSO is not configured)
 # ---------------------------------------------------------------------------
 
-if not DEV_MODE and not os.environ.get("AZURE_CLIENT_ID"):
+if not os.environ.get("AZURE_CLIENT_ID"):
 
     @app.middleware("http")
     async def bearer_auth_middleware(request: Request, call_next):
@@ -108,67 +101,27 @@ if not DEV_MODE and not os.environ.get("AZURE_CLIENT_ID"):
         return await call_next(request)
 
 
-# ---------------------------------------------------------------------------
 # Health check
-# ---------------------------------------------------------------------------
-
 @app.get("/health")
 def health():
     return {"status": "ok"}
 
 
-# ---------------------------------------------------------------------------
 # API routes
-# ---------------------------------------------------------------------------
-
 app.include_router(api_router)
 app.include_router(mcp_router)
 
 
-# ---------------------------------------------------------------------------
-# MCP SSE transport (raw ASGI) - legacy
-# ---------------------------------------------------------------------------
-
-from starlette.routing import Route, Mount
-
-app.routes.insert(
-    0,
-    Route("/mcp/sse", endpoint=handle_mcp_sse, methods=["GET"]),
-)
-app.routes.insert(
-    1,
-    Mount("/mcp/messages/", app=mcp_post_message_app),
-)
-
-
-# ---------------------------------------------------------------------------
-# MCP Streamable HTTP transport - single endpoint
-# ---------------------------------------------------------------------------
-
+# MCP Streamable HTTP
 from starlette.routing import Route as StarletteRoute
 
 app.routes.insert(
-    2,
+    0,
     StarletteRoute("/mcp", endpoint=handle_mcp_streamable, methods=["GET", "POST", "DELETE"]),
 )
 
 
-# ---------------------------------------------------------------------------
-# OAuth 2.1 routes
-# ---------------------------------------------------------------------------
-
-app.include_router(oauth_discovery_router)
-app.include_router(oauth_registration_router)
-app.include_router(oauth_authorization_router)
-app.include_router(oauth_token_router)
-
-
-# ---------------------------------------------------------------------------
 # Static files / SPA fallback
-# ---------------------------------------------------------------------------
-
-from pathlib import Path
-
 SCRIPTS_DIR = Path(__file__).parent.parent / "scripts"
 if SCRIPTS_DIR.exists():
     app.mount("/static", StaticFiles(directory=str(SCRIPTS_DIR)), name="static")

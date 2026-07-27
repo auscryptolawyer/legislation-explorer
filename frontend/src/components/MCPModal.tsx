@@ -26,7 +26,7 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
   const [renamingId, setRenamingId] = useState<number | null>(null);
   const [renameValue, setRenameValue] = useState('');
 
-  const baseUrl = 'https://legislation.scriptkitty.yachts/mcp/sse';
+  const baseUrl = 'https://legislation.scriptkitty.yachts/mcp';
   const fullUrl = generatedToken ? `${baseUrl}?token=${generatedToken}` : baseUrl;
 
   useEffect(() => {
@@ -208,10 +208,10 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
           </div>
         )}
 
-        {/* SSE Endpoint URL */}
+        {/* MCP Endpoint URL */}
         <div style={{ marginTop: 24 }}>
           <div style={{ color: COLORS.heading, fontSize: 13, fontWeight: 600, marginBottom: 8, fontFamily: "'Montserrat', sans-serif" }}>
-            SSE Endpoint URL
+            MCP Endpoint URL
           </div>
           <div style={{ position: 'relative' }}>
             <pre style={{

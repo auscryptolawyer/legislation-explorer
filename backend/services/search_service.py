@@ -161,8 +161,12 @@ def _index_section(
     )
 
 
-def search_sections(q: str, act: str | None = None, limit: int = 50) -> list[dict]:
-    """Search using SQLite FTS5 with BM25 ranking."""
+def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
+    """Search using SQLite FTS5 with BM25 ranking.
+
+    Returns:
+        dict with ``results`` (list of dicts) and ``total_count`` (int).
+    """
     # Quote each token as an FTS5 string literal so bare '-', '(', etc. are
     # treated as content, not FTS5 query syntax (column filters/operators).
     tokens = q.split()
@@ -179,6 +183,12 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> list[dic
 
     with search_conn() as conn:
         if act:
+            # Count first (unlimited)
+            count_row = conn.execute(
+                "SELECT COUNT(*) FROM sections_fts WHERE sections_fts MATCH ? AND sections_fts.act = ?",
+                (q_clean, act)
+            ).fetchone()
+            total_count = count_row[0] if count_row else 0
             sql = """
                 SELECT sections_fts.act, sections_fts.section, sections_fts.title,
                        m.part, m.division,
@@ -191,6 +201,12 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> list[dic
             """
             rows = conn.execute(sql, (q_clean, act, limit)).fetchall()
         else:
+            # Count first (unlimited)
+            count_row = conn.execute(
+                "SELECT COUNT(*) FROM sections_fts WHERE sections_fts MATCH ?",
+                (q_clean,)
+            ).fetchone()
+            total_count = count_row[0] if count_row else 0
             sql = """
                 SELECT sections_fts.act, sections_fts.section, sections_fts.title,
                        m.part, m.division,
@@ -224,7 +240,7 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> list[dic
         with search_conn() as conn:
             if act:
                 exact = conn.execute(
-                    "SELECT act, section, title, part, division, "
+                    "SELECT act, section, sections_fts.title, part, division, "
                     "snippet(sections_fts, 3, '<mark>', '</mark>', '...', 32) as snippet "
                     "FROM sections_fts JOIN sections_meta m USING(act, section) "
                     "WHERE sections_fts.act = ? AND sections_fts.section = ?",
@@ -232,7 +248,7 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> list[dic
                 ).fetchone()
             else:
                 exact = conn.execute(
-                    "SELECT act, section, title, part, division, "
+                    "SELECT act, section, sections_fts.title, part, division, "
                     "snippet(sections_fts, 3, '<mark>', '</mark>', '...', 32) as snippet "
                     "FROM sections_fts JOIN sections_meta m USING(act, section) "
                     "WHERE sections_fts.section = ?",
@@ -254,7 +270,7 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> list[dic
                 if not (r["act"] == exact["act"] and r["section"] == exact["section"])
             ]
 
-    return results[:limit]
+    return {"results": results[:limit], "total_count": total_count}
 
 
 def search_rulings(q: str, limit: int = 20) -> list[dict]:

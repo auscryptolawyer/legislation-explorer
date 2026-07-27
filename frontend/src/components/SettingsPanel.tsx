@@ -334,7 +334,7 @@ function MCPTabContent({ c }: { c: ThemeConfig }) {
   const [renamingId, setRenamingId] = useState<number | null>(null);
   const [renameValue, setRenameValue] = useState('');
 
-  const baseUrl = 'https://legislation.scriptkitty.yachts/mcp/sse';
+  const baseUrl = 'https://legislation.scriptkitty.yachts/mcp';
   const fullUrl = generatedToken ? `${baseUrl}?token=${generatedToken}` : baseUrl;
 
   React.useEffect(() => {
@@ -478,10 +478,10 @@ function MCPTabContent({ c }: { c: ThemeConfig }) {
         </div>
       )}
 
-      {/* SSE Endpoint URL */}
+{/* MCP Endpoint URL */}
       <div style={{ marginTop: 20 }}>
         <div style={{ color: c.heading, fontSize: 12, fontWeight: 600, marginBottom: 6, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif" }}>
-          SSE Endpoint URL
+          MCP Endpoint URL
         </div>
         <div style={{ position: 'relative' }}>
           <pre style={{

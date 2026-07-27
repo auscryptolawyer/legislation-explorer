@@ -1,24 +1,13 @@
-"""MCP server mounted inside the FastAPI app with dual transport (SSE + StreamableHTTP)."""
+"""MCP server with StreamableHTTP transport."""
 from __future__ import annotations
 
 import json
 import logging
-from contextlib import asynccontextmanager
-from typing import AsyncIterator
 
-import anyio
 from mcp.server import Server
-from mcp.server.sse import SseServerTransport
 from mcp.server.streamable_http import StreamableHTTPServerTransport
 from mcp.types import TextContent, Tool
 from starlette.requests import Request
-from starlette.responses import Response
-
-
-class NoopResponse(Response):
-    """Response that does nothing when called — used after raw ASGI response is already sent."""
-    async def __call__(self, scope, receive, send):
-        pass
 
 from backend.config import DATA_DIR
 from backend.mcp_token_manager import token_manager
@@ -40,12 +29,7 @@ from backend.services.case_db_service import (
 
 logger = logging.getLogger(__name__)
 
-sse_transport = SseServerTransport("/mcp/messages/")
-
 mcp_server = Server("legislation-explorer")
-
-# Track token per session — set when SSE connects, read when POST messages arrive
-_session_tokens: dict[str, str] = {}
 
 
 @mcp_server.list_tools()
@@ -178,7 +162,7 @@ async def list_tools() -> list[Tool]:
         ),
         Tool(
             name="get_case_paragraphs",
-            description="Retrieve paragraphs from a case, filtered by section type and/or sequence range. Use get_case first to see available section types. At least one filter required.",
+            description="Retrieve paragraphs from a case, filtered by section type and/or sequence range. Use get_case first to see available section types. If no filters provided, returns first 50 paragraphs.",
             inputSchema={
                 "type": "object",
                 "properties": {
@@ -267,11 +251,11 @@ async def _search_legislation(args: dict) -> list[TextContent]:
     q = args.get("query", "").strip()
     act = args.get("act")
     limit = min(100, max(1, args.get("limit", 20)))
-    results = fts_search(q, act, limit=limit)
+    result = fts_search(q, act, limit=limit)
     payload = {
         "query": q,
-        "total": len(results),
-        "results": results,
+        "total": result["total_count"],
+        "results": result["results"],
     }
     return [TextContent(type="text", text=json.dumps(payload, indent=2))]
 
@@ -549,6 +533,18 @@ async def _get_case(args: dict) -> list[TextContent]:
     include_legislation_refs = args.get("include_legislation_refs", False)
     result = get_case_metadata(citation, include_legislation_refs=include_legislation_refs)
     if result is None:
+        # Case not in DB — return download URLs from citation pattern
+        urls = build_download_urls(citation)
+        if urls:
+            return [TextContent(type="text", text=json.dumps({
+                "citation": citation,
+                "case_name": None,
+                "note": "Case not in local database. Use the download links below to retrieve the full judgment.",
+                "download_urls": {
+                    "austlii_url": urls.get("austlii_url"),
+                    "court_url": urls.get("court_url"),
+                },
+            }, indent=2))]
         return [TextContent(type="text", text=json.dumps({"error": f"Case {args['citation']} not found. Try the bare neutral citation format, e.g. [2016] HCA 45"}))]
     return [TextContent(type="text", text=json.dumps(result, indent=2))]
 
@@ -600,72 +596,15 @@ async def _download_case(args: dict) -> list[TextContent]:
 # SSE handlers with auth + rate limiting + session-bound tokens
 # ---------------------------------------------------------------------------
 
-async def handle_mcp_sse(request: Request):
-    """Handle SSE connection for MCP with auth + rate limiting."""
-    token = request.query_params.get("token", "")
-    if not token:
-        return Response("Missing token", status_code=401)
-    if not token_manager.validate_token(token):
-        return Response("Invalid or revoked token", status_code=403)
-    allowed, reason = token_manager.check_rate_limit(token)
-    if not allowed:
-        return Response(reason, status_code=429)
-
-    scope = request.scope
-    receive = request.receive
-    send = request._send
-
-    async with sse_transport.connect_sse(scope, receive, send) as streams:
-        # The session_id was just added to _read_stream_writers by connect_sse.
-        # Dicts preserve insertion order, so the last key is the current session.
-        session_ids = list(sse_transport._read_stream_writers.keys())
-        session_hex = session_ids[-1].hex if session_ids else ""
-        _session_tokens[session_hex] = token
-        try:
-            await mcp_server.run(
-                streams[0], streams[1], mcp_server.create_initialization_options()
-            )
-        finally:
-            _session_tokens.pop(session_hex, None)
-    return NoopResponse()
-
-
-async def mcp_post_message_app(scope, receive, send):
-    """ASGI app for MCP POST messages with auth via session-bound token."""
-    request = Request(scope, receive)
-    token = request.query_params.get("token", "")
-    session_id = request.query_params.get("session_id", "")
-
-    if not token and session_id:
-        token = _session_tokens.get(session_id, "")
-
-    if not token:
-        response = Response("Missing token", status_code=401)
-        return await response(scope, receive, send)
-    if not token_manager.validate_token(token):
-        response = Response("Invalid or revoked token", status_code=403)
-        return await response(scope, receive, send)
-    allowed, reason = token_manager.check_rate_limit(token)
-    if not allowed:
-        response = Response(reason, status_code=429)
-        return await response(scope, receive, send)
-
-    await sse_transport.handle_post_message(scope, receive, send)
-
-
 # ---------------------------------------------------------------------------
 # Streamable HTTP handler
 # ---------------------------------------------------------------------------
 
 
 async def handle_mcp_streamable(request: Request):
-    """Handle Streamable HTTP MCP requests with auth + rate limiting.
-
-    Supports dual-mode auth: JWT (OAuth 2.1) or legacy raw token.
-    Uses stateless pattern: creates a fresh transport per request.
-    """
+    """Handle Streamable HTTP MCP requests with token auth."""
     import os
-    from jose import JWTError, jwt as jose_jwt
+    from starlette.responses import Response
 
     # Dev mode: skip all auth
     if os.environ.get("DEV_MODE", "").lower() in ("true", "1", "yes"):
@@ -682,41 +621,8 @@ async def handle_mcp_streamable(request: Request):
     if not token:
         return Response("Missing token", status_code=401)
 
-    # Try JWT validation first (OAuth 2.1 flow)
-    jwt_valid = False
-    jwt_secret = os.environ.get("JWT_SECRET", "")
-    if jwt_secret:
-        try:
-            payload = jose_jwt.decode(
-                token, jwt_secret, algorithms=["HS256"],
-                options={"verify_exp": True, "verify_aud": False},
-            )
-            # Check revocation in OAuth tokens DB
-            import hashlib
-            import sqlite3 as _sqlite3
-            from backend.oauth.token import DB_PATH as OAUTH_DB_PATH
-
-            token_hash = hashlib.sha256(token.encode()).hexdigest()
-            conn = _sqlite3.connect(str(OAUTH_DB_PATH))
-            try:
-                row = conn.execute(
-                    "SELECT revoked FROM oauth_access_tokens WHERE token_hash = ?",
-                    (token_hash,),
-                ).fetchone()
-                if row and row[0]:
-                    return Response("Token revoked", status_code=403)
-            finally:
-                conn.close()
-            jwt_valid = True
-        except (JWTError, Exception):
-            jwt_valid = False
-
-    # Fall back to legacy token manager
-    if not jwt_valid:
-        if not token_manager.validate_token(token):
-            return Response("Invalid or revoked token", status_code=403)
-
-    # Rate limiting (always use raw token for rate limiting)
+    if not token_manager.validate_token(token):
+        return Response("Invalid or revoked token", status_code=403)
     allowed, reason = token_manager.check_rate_limit(token)
     if not allowed:
         return Response(reason, status_code=429)
@@ -724,9 +630,11 @@ async def handle_mcp_streamable(request: Request):
     return await _run_mcp_session(request)
 
 
-async def _run_mcp_session(request: Request) -> Response:
+async def _run_mcp_session(request: Request):
     """Create a fresh MCP session for a request."""
     import anyio
+    from starlette.responses import Response
+
     transport = StreamableHTTPServerTransport(
         mcp_session_id=None,
         is_json_response_enabled=True,
@@ -753,4 +661,4 @@ async def _run_mcp_session(request: Request) -> Response:
         )
 
     await transport.terminate()
-    return NoopResponse()
+    return Response("OK", status_code=200)

@@ -225,15 +225,11 @@ def get_case_paragraphs(
     """
     safe = _safe(citation)
 
-    # ── validate at least one filter ──────────────────────────────────────
+    # ── validate at least one filter ── otherwise default to first paragraphs
     if not section_types and range_start is None and range_end is None:
-        return {
-            "error": (
-                "At least one filter is required: section_types, "
-                "range_start, or range_end. Use get_case first to see "
-                "available section types and sequence ranges."
-            ),
-        }
+        # No filter — return first paragraphs (will be caught by the WHERE clause
+        # which already scopes by case_id)
+        pass
 
     paragraph_limit = min(100, max(1, paragraph_limit))
 
@@ -398,7 +394,7 @@ def search_case_paragraphs(
     # Build centred snippets
     snippet_results = []
     for row in rows:
-        content = row.get("content") or ""
+        content = row.get("snippet") or ""
         idx = content.lower().find(safe_query.lower())
         if idx >= 0:
             window = 150
