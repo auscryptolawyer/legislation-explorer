@@ -137,6 +137,12 @@ app.routes.insert(
 # Static files / SPA fallback
 # ---------------------------------------------------------------------------
 
+from pathlib import Path
+
+SCRIPTS_DIR = Path(__file__).parent.parent / "scripts"
+if SCRIPTS_DIR.exists():
+    app.mount("/static", StaticFiles(directory=str(SCRIPTS_DIR)), name="static")
+
 if FRONTEND_DIST.exists():
     app.mount("/assets", StaticFiles(directory=FRONTEND_DIST / "assets"), name="assets")
 
