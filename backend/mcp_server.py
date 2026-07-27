@@ -53,7 +53,7 @@ async def list_tools() -> list[Tool]:
     return [
         Tool(
             name="search_legislation",
-            description="Search legislation sections by keyword or section number",
+            description="Search legislation sections by keyword or section number. All query terms must appear in section text (AND matching). Note: colloquial names like 'Division 7A' won't match literally in legislation body text — use specific section numbers or keywords for best results.",
             inputSchema={
                 "type": "object",
                 "properties": {
@@ -179,7 +179,7 @@ async def list_tools() -> list[Tool]:
         ),
         Tool(
             name="search_case_paragraphs",
-            description="Full-text search across case paragraphs. If citation is omitted, searches ALL cases. Returns snippets.",
+            description="Full-text search across case paragraphs. Uses exact-phrase matching (not keyword AND) — omit stopwords that may not appear verbatim. If citation is omitted, searches ALL cases. Returns snippets.",
             inputSchema={
                 "type": "object",
                 "properties": {
@@ -444,11 +444,18 @@ async def _list_rulings(_args: dict) -> list[TextContent]:
 
 async def _get_case(args: dict) -> list[TextContent]:
     """Get case metadata and structural outline."""
+    import re
     citation = args["citation"]
+    # Strip party names if full citation is provided (e.g. "Bywater Investments Ltd v Commissioner of Taxation [2016] HCA 45")
+    # Extract the bare neutral citation in brackets
+    m = re.search(r'\[(\d{4})\]?\s*([A-Z]+(?:\s*[A-Z]+)*)\s*(\d+)', citation)
+    if m:
+        bare = f"[{m.group(1)}] {m.group(2)} {m.group(3)}"
+        citation = bare
     include_legislation_refs = args.get("include_legislation_refs", False)
     result = get_case_metadata(citation, include_legislation_refs=include_legislation_refs)
     if result is None:
-        return [TextContent(type="text", text=json.dumps({"error": f"Case {citation} not found"}))]
+        return [TextContent(type="text", text=json.dumps({"error": f"Case {args['citation']} not found. Try the bare neutral citation format, e.g. [2016] HCA 45"}))]
     return [TextContent(type="text", text=json.dumps(result, indent=2))]
 
 
