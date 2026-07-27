@@ -337,7 +337,7 @@ def load_rulings() -> list[dict]:
                 # Remove known header lines
                 ct_lines = content.splitlines()
                 for ci, cl in enumerate(ct_lines):
-                    if re.match(r'^(ATO\s+Interpretative\s+Decision|ATO\s+ID\s+\d{4}/\d+|=+)$', cl.strip(), re.IGNORECASE):
+                    if re.match(r'^(ATO\s+Interpretative\s+Decision|=+)$', cl.strip(), re.IGNORECASE):
                         continue
                     if re.match(r'^(File\s+Number|FOI\s+status)', cl.strip(), re.IGNORECASE):
                         continue
