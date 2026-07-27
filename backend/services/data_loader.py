@@ -396,7 +396,7 @@ def load_rulings() -> list[dict]:
             for i, ln in enumerate(lines):
                 ln = ln.strip()
                 # Find the citation line, take the next non-empty line as the title
-                if re.match(r'^[A-Z]+ \\d{4}/\\d+', ln) or re.match(r'^\\w{2,4} \\d{4}/\\d+', ln) or re.match(r'^ATO ID \\d{4}/\\d+', ln) or re.match(r'^PS LA \\d{4}/\\d+', ln):
+                if re.match(r'^[A-Z]+ \d{4}/\d+', ln) or re.match(r'^\w{2,4} \d{4}/\d+', ln) or re.match(r'^ATO ID \d{4}/\d+', ln) or re.match(r'^PS LA \d{4}/\d+', ln):
                     for j in range(i + 1, min(i + 10, len(lines))):
                         next_ln = lines[j].strip()
                         if not next_ln:
@@ -409,7 +409,7 @@ def load_rulings() -> list[dict]:
                             # Check if the next line is indented (actual title) - if so, skip this category header
                             if j + 1 < len(lines) and lines[j + 1].startswith(' ') and lines[j + 1].strip():
                                 continue
-                        if next_ln and not next_ln.startswith("Please") and not next_ln.startswith("PDF") and not next_ln.startswith("This ATO ID") and not next_ln.startswith("This document") and not re.match(r'^[A-Z]+ \\d{4}/\\d+', next_ln) and not re.match(r'^={3,}', next_ln):
+                        if next_ln and not next_ln.startswith("Please") and not next_ln.startswith("PDF") and not next_ln.startswith("This ATO ID") and not next_ln.startswith("This document") and not re.match(r'^[A-Z]+ \d{4}/\d+', next_ln) and not re.match(r'^={3,}', next_ln):
                             full_title = next_ln
                             break
                     break
@@ -739,11 +739,10 @@ def get_definition_text(act: str, term: str) -> dict | None:
     # Strategy: scan forward from the match position for:
     #   1. Next definition anchor (<a id="...">) — strong stop
     #   2. Next definition heading (#### term) — strong stop
-    #   3. End of body
-    # We do NOT use a col-0 heuristic because definition body text
-    # in legislation markdown is free-flowing prose that starts at
-    # column 0 (markdown doesn't require indentation). A col-0 match
-    # would cut definitions mid-sentence.
+    #   3. Next term that starts a definition at column 0 — for
+    #      list-style dict entries like "enterprise has the meaning...
+    #      entertainment has the meaning given by..."
+    #   4. End of body
     rest = body[idx + len(m.group()):]
 
     # Strong boundary: next definition anchor or heading
@@ -751,7 +750,16 @@ def get_definition_text(act: str, term: str) -> dict | None:
     if anchor_end:
         end_pos = idx + len(m.group()) + anchor_end.start()
     else:
-        end_pos = len(body)
+        # Next definition boundary: period + space + lowercase word + "has meaning"/"means"/":"
+        # This catches list-style dictionary entries without anchors
+        next_def = re.search(
+            r'\.\s+(?=[a-z][a-z\s]*(?:has\s+(?:the\s+)?meaning|means|includes?:))',
+            rest,
+        )
+        if next_def:
+            end_pos = idx + len(m.group()) + next_def.start() + 1  # include the period
+        else:
+            end_pos = len(body)
 
     text = body[idx:end_pos].strip()
     text = re.sub(r'<a id="[^"]+"></a>\s*\n?', "", text)
