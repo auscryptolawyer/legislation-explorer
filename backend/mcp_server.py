@@ -324,10 +324,19 @@ async def _get_section(args: dict) -> list[TextContent]:
         if fm_end:
             body = content[fm_end.end():]
 
+    # Detect truncation: the last substantive line should end with
+    # sentence-ending punctuation, not be cut mid-clause
+    import re as _re
+    body_clean = _re.sub(r'\n---\s*\*Last updated:.*?\*', '', body, flags=_re.DOTALL)
+    body_clean = _re.sub(r'\n---\s*$', '', body_clean)
+    body_stripped = body_clean.strip()
+    truncated = bool(body_stripped) and not _re.search(r'[.\)"\'!?]\s*$', body_stripped)
+
     return [TextContent(type="text", text=json.dumps({
         "act": act,
         "section": section,
         "body": body,
+        "truncated": truncated,
     }, indent=2))]
 
 

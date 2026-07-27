@@ -96,6 +96,23 @@ def get_case_metadata(
         except Exception:
             pass
 
+    # Clean AustLII navigation garbage from key_terms
+    _AUSTLII_NAV = {
+        "databases", "noteup", "name search", "database search",
+        "last updated", "notice", "commonwealth law reports",
+        "austlii", "austlii home", "austlii database", "citation",
+        "print", "download", "email", "full text", "help",
+        "cookie", "privacy", "disclaimer", "copyright",
+    }
+    if isinstance(case.get("head_notes"), dict):
+        key_terms = case["head_notes"].get("key_terms", [])
+        if isinstance(key_terms, list):
+            cleaned = [
+                t for t in key_terms
+                if isinstance(t, str) and t.strip().lower() not in _AUSTLII_NAV
+            ]
+            case["head_notes"]["key_terms"] = cleaned
+
     # ── content_length from documents ─────────────────────────────────────
     doc_rows = _sql_dict(
         ["content_length"],
