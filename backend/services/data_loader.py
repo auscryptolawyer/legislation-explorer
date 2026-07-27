@@ -349,10 +349,20 @@ def load_rulings() -> list[dict]:
             for i, ln in enumerate(lines):
                 ln = ln.strip()
                 # Find the citation line, take the next non-empty line as the title
-                if re.match(r'^[A-Z]+ \d{4}/\d+', ln) or re.match(r'^\w{2,4} \d{4}/\d+', ln) or re.match(r'^ATO ID \d{4}/\d+', ln) or re.match(r'^PS LA \d{4}/\d+', ln):
-                    for j in range(i + 1, min(i + 5, len(lines))):
+                if re.match(r'^[A-Z]+ \\d{4}/\\d+', ln) or re.match(r'^\\w{2,4} \\d{4}/\\d+', ln) or re.match(r'^ATO ID \\d{4}/\\d+', ln) or re.match(r'^PS LA \\d{4}/\\d+', ln):
+                    for j in range(i + 1, min(i + 10, len(lines))):
                         next_ln = lines[j].strip()
-                        if next_ln and not next_ln.startswith("Please") and not next_ln.startswith("PDF") and not next_ln.startswith("This ATO ID") and not next_ln.startswith("This document") and not re.match(r'^[A-Z]+ \d{4}/\d+', next_ln) and not re.match(r'^={3,}', next_ln):
+                        if not next_ln:
+                            continue
+                        # Skip known header/boilerplate lines
+                        if re.match(r'^(Keywords|Date of decision|SUBJECT|PURPOSE|Paragraph|FOI status|Issue|Decision|Facts|CAUTION|Download|Email|Print|Back to browse|Contents)', next_ln, re.IGNORECASE):
+                            continue
+                        # Skip single-word category headers (e.g. "Excise", "Income Tax")
+                        if re.match(r'^[A-Z][a-z]+( [A-Z][a-z]+)?$', next_ln.strip()):
+                            # Check if the next line is indented (actual title) - if so, skip this category header
+                            if j + 1 < len(lines) and lines[j + 1].startswith(' ') and lines[j + 1].strip():
+                                continue
+                        if next_ln and not next_ln.startswith("Please") and not next_ln.startswith("PDF") and not next_ln.startswith("This ATO ID") and not next_ln.startswith("This document") and not re.match(r'^[A-Z]+ \\d{4}/\\d+', next_ln) and not re.match(r'^={3,}', next_ln):
                             full_title = next_ln
                             break
                     break
@@ -645,17 +655,42 @@ def get_definition_text(act: str, term: str) -> dict | None:
     escaped = re.escape(term_lower)
     # Match: term followed by definition keywords anywhere in the body text
     # (?<!\w) ensures we don't match compound terms like "demerger dividend" for "dividend"
+    # Patterns for definition anchors
     patterns = [
         rf'(?<!\w){escaped}\s+(?:has\s+(?:the\s+)?(?:same\s+)?meaning|means|includes)(?:\s|:|$)',
         rf'(?<!\w){escaped}\s*:',
     ]
-    m = None
+
+    # Collect ALL matches so we can prefer the primary definition
+    # over sub-definitions (e.g. prefer "dividend includes:" over
+    # "demerger dividend means:...")
+    candidates: list[tuple[re.Match, int]] = []
     for pat in patterns:
-        m = re.search(pat, body, re.IGNORECASE)
-        if m:
-            break
-    if not m:
+        for m in re.finditer(pat, body, re.IGNORECASE):
+            # Determine if this is a primary definition by checking
+            # whether the term is preceded by a sentence boundary
+            # (start of content, newline, or ". ") rather than by
+            # another word (which would indicate a compound term).
+            before = body[max(0, m.start() - 60):m.start()].rstrip()
+            is_primary = (
+                m.start() == 0
+                or before.endswith('.')
+                or before.endswith('.\n')
+                or before.endswith(';')
+                or before.endswith('\n')
+                or before.endswith(':')
+                or not before
+            )
+            # Prefer earlier matches for primary; later matches for sub-definitions
+            priority = 0 if is_primary else 1
+            candidates.append((m, priority))
+
+    if not candidates:
         return None
+
+    # Sort: primary definitions first, then by position
+    candidates.sort(key=lambda c: (c[1], c[0].start()))
+    m = candidates[0][0]
     idx = m.start()
 
     # Find end: next col-0 line (start of next definition) or sentence boundary
