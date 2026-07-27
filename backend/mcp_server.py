@@ -53,7 +53,7 @@ async def list_tools() -> list[Tool]:
     return [
         Tool(
             name="search_legislation",
-            description="Search legislation sections by keyword or section number. All query terms must appear in section text (AND matching). Note: colloquial names like 'Division 7A' won't match literally in legislation body text — use specific section numbers or keywords for best results.",
+            description="Search legislation sections by keyword or section number. All query terms must appear in section text (AND matching). Section-number-shaped queries (e.g. '8-1') are exact-matched to rank the cited section first.",
             inputSchema={
                 "type": "object",
                 "properties": {
@@ -88,6 +88,12 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {
                     "act": {"type": "string", "description": "Act ID (e.g. itaa-1997)"},
+                    "depth": {
+                        "type": "string",
+                        "enum": ["parts", "divisions", "sections"],
+                        "description": "Detail level: 'parts' returns only parts (fast), 'divisions' includes divisions, 'sections' includes all sections (default)",
+                        "default": "sections",
+                    },
                 },
                 "required": ["act"],
             },
@@ -159,7 +165,16 @@ async def list_tools() -> list[Tool]:
         Tool(
             name="list_rulings",
             description="List all ATO rulings grouped by year and type. Returns the full ruling tree with ATO.gov.au and AustLII links.",
-            inputSchema={"type": "object", "properties": {}},
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "type": {"type": "string", "description": "Filter by ruling type (TR, TD, PCG, AID, PS LA, LCG, etc.)"},
+                    "year": {"type": "integer", "description": "Filter by year"},
+                    "limit": {"type": "integer", "description": "Max results (default 100, use 0 for all)", "default": 100},
+                    "offset": {"type": "integer", "description": "Pagination offset", "default": 0},
+                    "counts_only": {"type": "boolean", "description": "Return only year→type histogram (fast)", "default": False},
+                },
+            },
         ),
         Tool(
             name="get_case_paragraphs",
@@ -333,7 +348,35 @@ async def _list_acts(_args: dict) -> list[TextContent]:
 
 async def _get_act_tree(args: dict) -> list[TextContent]:
     act = args["act"]
+    depth = args.get("depth", "sections")
     tree = load_tree(act)
+    if depth == "parts":
+        # Strip all children — only return top-level parts
+        pruned = {
+            "act": tree.get("act", act),
+            "compilation_no": tree.get("compilation_no"),
+            "compilation_date": tree.get("compilation_date"),
+            "depth": "parts",
+            "parts": [
+                {"id": p.get("id"), "title": p.get("title")}
+                for p in tree.get("parts", [])
+            ],
+        }
+        return [TextContent(type="text", text=json.dumps(pruned, indent=2))]
+    elif depth == "divisions":
+        pruned = {
+            "act": tree.get("act", act),
+            "compilation_no": tree.get("compilation_no"),
+            "compilation_date": tree.get("compilation_date"),
+            "depth": "divisions",
+            "parts": [],
+        }
+        for p in tree.get("parts", []):
+            part = {"id": p.get("id"), "title": p.get("title"), "divisions": []}
+            for d in p.get("divisions", []):
+                part["divisions"].append({"id": d.get("id"), "title": d.get("title")})
+            pruned["parts"].append(part)
+        return [TextContent(type="text", text=json.dumps(pruned, indent=2))]
     return [TextContent(type="text", text=json.dumps(tree, indent=2))]
 
 
@@ -390,7 +433,7 @@ async def _get_ruling(args: dict) -> list[TextContent]:
     import json as _json
     import re as _re
     from pathlib import Path
-    from backend.services.data_loader import load_rulings
+    from backend.services.data_loader import load_rulings, _strip_ato_chrome
     citation = args["citation"]
     # Citation alias: LCR → LCG
     CITATION_ALIASES = {"LCR": "LCG"}
@@ -411,35 +454,77 @@ async def _get_ruling(args: dict) -> list[TextContent]:
                 "full_title": r.get("full_title", ""),
                 "type": r["type"],
                 "year": r["year"],
+                "withdrawn": r.get("withdrawn", False),
                 "ato_url": r.get("ato_url", ""),
                 "austlii_url": r.get("austlii_url", ""),
-                "content": content,
+                "content": _strip_ato_chrome(content),
             }, indent=2))]
     return [TextContent(type="text", text=_json.dumps({"error": f"Ruling {citation} not found"}))]
 
 
-async def _list_rulings(_args: dict) -> list[TextContent]:
-    """Return the full rulings tree grouped by year and type."""
+async def _list_rulings(args: dict) -> list[TextContent]:
+    """Return rulings grouped by year and type, with optional filters."""
     import json as _json
     from backend.services.data_loader import load_rulings
     rulings = load_rulings()
+
+    filter_type = args.get("type")
+    filter_year = args.get("year")
+    limit = args.get("limit", 100)
+    offset = args.get("offset", 0)
+    counts_only = args.get("counts_only", False)
+
+    # Apply filters
+    if filter_type:
+        filter_type = filter_type.upper()
+        rulings = [r for r in rulings if r.get("type", "").upper() == filter_type]
+    if filter_year:
+        rulings = [r for r in rulings if r.get("year") == filter_year]
+
+    if counts_only:
+        years: dict = {}
+        for r in rulings:
+            y = r.get("year", 0)
+            t = r.get("type", "Ruling")
+            if y not in years:
+                years[y] = {}
+            years[y][t] = years[y].get(t, 0) + 1
+        return [TextContent(type="text", text=_json.dumps({
+            "mode": "counts_only",
+            "total_rulings": len(rulings),
+            "by_year": years,
+        }, indent=2))]
+
+    # Apply pagination
+    if limit > 0:
+        rulings = rulings[offset:offset + limit]
+    elif offset > 0:
+        rulings = rulings[offset:]
+
     # Group by year, then type
     years: dict = {}
     for r in rulings:
-        year = r.get("year", 0)
+        y = r.get("year", 0)
         t = r.get("type", "Ruling")
-        if year not in years:
-            years[year] = {}
-        if t not in years[year]:
-            years[year][t] = []
-        years[year][t].append({
+        if y not in years:
+            years[y] = {}
+        if t not in years[y]:
+            years[y][t] = []
+        years[y][t].append({
             "citation": r["citation"],
             "citation_display": r.get("citation_display", ""),
             "title": r.get("full_title", r.get("title", "")),
+            "withdrawn": r.get("withdrawn", False),
             "ato_url": r.get("ato_url", ""),
             "austlii_url": r.get("austlii_url", ""),
         })
-    return [TextContent(type="text", text=_json.dumps({"ato_rulings_total": len(rulings), "by_year": years}, indent=2))]
+
+    return [TextContent(type="text", text=_json.dumps({
+        "ato_rulings_total": len(rulings),
+        "filter_type": filter_type,
+        "filter_year": filter_year,
+        "by_year": years,
+    }, indent=2))]
 
 
 async def _get_case(args: dict) -> list[TextContent]:

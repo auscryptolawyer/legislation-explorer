@@ -213,7 +213,48 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> list[dic
             "division": row["division"],
             "snippet": row["snippet"] or "",
         })
-    return results
+
+    # If query looks like a section number, exact-match it to rank 1.
+    # We use a separate SQL query (not limited) to find the exact section
+    # so it can be promoted even if the main FTS results don't include it.
+    section_re = re.match(r'^(\d+[A-Z]?-\d+(?:[A-Za-z]*(?:\(\d+(?:\)[a-z])?\))?)?)$', q.strip())
+    if section_re:
+        section_id = section_re.group(1)
+        # Find the exact match via a separate unlimited query
+        with search_conn() as conn:
+            if act:
+                exact = conn.execute(
+                    "SELECT act, section, title, part, division, "
+                    "snippet(sections_fts, 3, '<mark>', '</mark>', '...', 32) as snippet "
+                    "FROM sections_fts JOIN sections_meta m USING(act, section) "
+                    "WHERE sections_fts.act = ? AND sections_fts.section = ?",
+                    (act, section_id)
+                ).fetchone()
+            else:
+                exact = conn.execute(
+                    "SELECT act, section, title, part, division, "
+                    "snippet(sections_fts, 3, '<mark>', '</mark>', '...', 32) as snippet "
+                    "FROM sections_fts JOIN sections_meta m USING(act, section) "
+                    "WHERE sections_fts.section = ?",
+                    (section_id,)
+                ).fetchone()
+        if exact:
+            # Prepend the exact match, avoiding duplicates
+            results = [
+                {
+                    "act": exact["act"],
+                    "section": exact["section"],
+                    "title": exact["title"],
+                    "part": exact["part"],
+                    "division": exact["division"],
+                    "snippet": exact["snippet"] or "",
+                }
+            ] + [
+                r for r in results
+                if not (r["act"] == exact["act"] and r["section"] == exact["section"])
+            ]
+
+    return results[:limit]
 
 
 def search_rulings(q: str, limit: int = 20) -> list[dict]:

@@ -156,6 +156,7 @@ def get_case_metadata(
         "case_name": case.get("case_name"),
         "court": case.get("court"),
         "decision_date": case.get("decision_date"),
+        "decision_date_note": None,
         "judges": case.get("judges"),
         "outcome": case.get("outcome"),
         "head_notes": case.get("head_notes"),
@@ -168,6 +169,11 @@ def get_case_metadata(
         "section_outline": outline_rows,
         "download_urls": download_urls,
     }
+
+    # Flag year-only dates (e.g. "2016-01-01" when the real date is 2016-11-16)
+    dd = case.get("decision_date")
+    if dd and isinstance(dd, str) and dd.endswith("-01-01"):
+        result["decision_date_note"] = "Year only — exact date unknown (defaulted to Jan 1)"
 
     # ── optional legislation refs ─────────────────────────────────────────
     if include_legislation_refs:
@@ -283,6 +289,10 @@ def get_case_paragraphs(
         "total_in_case": total_in_case,
         "returned_count": len(capped_rows),
         "truncated": truncated,
+        "warning": (
+            "Paragraphs may be segmented mid-sentence. Cross-reference with "
+            "the full judgment before citing."
+        ),
         "paragraphs": capped_rows,
     }
 
@@ -358,7 +368,7 @@ def search_case_paragraphs(
         ],
         f"SELECT c.citation, c.case_name, c.court, "
         f"cp.section_type, cp.paragraph_number, "
-        f"REPLACE(LEFT(cp.content, 300), '|', ' ') as snippet, "
+        f"REPLACE(cp.content, '|', ' ') as content, "
         f"LENGTH(cp.content) as content_length, "
         f"cp.sequence_order "
         f"FROM case_paragraphs cp "
@@ -368,11 +378,30 @@ def search_case_paragraphs(
         f"LIMIT {limit}",
     )
 
+    # Build centred snippets
+    snippet_results = []
+    for row in rows:
+        content = row.get("content") or ""
+        idx = content.lower().find(safe_query.lower())
+        if idx >= 0:
+            window = 150
+            start = max(0, idx - window)
+            end = min(len(content), idx + len(safe_query) + window)
+            snippet = content[start:end]
+            if start > 0:
+                snippet = "..." + snippet.lstrip()
+            if end < len(content):
+                snippet = snippet.rstrip() + "..."
+        else:
+            snippet = content[:300]
+        row["snippet"] = snippet
+        snippet_results.append(row)
+
     return {
         "query": query,
         "citation_filter": citation,
         "total_matches": total_matches,
-        "results": rows,
+        "results": snippet_results,
     }
 
 
@@ -405,6 +434,16 @@ def build_download_urls(citation: str) -> dict[str, Any] | None:
         f"cth/{court}/{year}/{num}.html"
     )
 
+    # Build court-specific URL
+    court_url = None
+    if court == "HCA":
+        court_url = f"https://www.hcourt.gov.au/cases/case_{year}_{num}.html"
+    elif court in ("FCA", "FCAFC"):
+        court_url = (
+            f"https://www.judgments.fedcourt.gov.au/judgment/Judgments/"
+            f"{court}/{year}/"
+        )
+
     # Fetch case_name from DB so we can include it
     safe = _safe(citation)
     name_rows = _sql_dict(
@@ -414,8 +453,9 @@ def build_download_urls(citation: str) -> dict[str, Any] | None:
     )
     case_name = name_rows[0].get("case_name") if name_rows else None
 
-    # Fetch paragraph count too
+    # Fetch paragraph count + content length
     para_count = 0
+    content_length = None
     if name_rows:
         case_id_rows = _sql_dict(
             ["id"],
@@ -429,12 +469,20 @@ def build_download_urls(citation: str) -> dict[str, Any] | None:
                 f"WHERE case_id = '{cid}'",
             )
             para_count = cnt_rows[0]["cnt"] if cnt_rows else 0
+            doc_rows = _sql_dict(
+                ["content_length"],
+                f"SELECT LENGTH(content) as content_length FROM documents "
+                f"WHERE id = (SELECT document_id FROM cases WHERE citation = '{safe}')",
+            )
+            if doc_rows:
+                content_length = doc_rows[0]["content_length"]
 
     return {
         "citation": citation,
         "case_name": case_name,
         "austlii_url": austlii_url,
-        "content_length": None,  # not fetched here; use get_case_metadata
+        "court_url": court_url,
+        "content_length": content_length,
         "paragraph_count": para_count,
         "note": (
             "Full text is available for download from AustLII or court "

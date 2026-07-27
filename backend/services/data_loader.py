@@ -34,6 +34,53 @@ _ATO_ID_HEADER = re.compile(
 )
 
 
+def _check_withdrawn(content: str) -> bool:
+    """Check content for withdrawal/supersession signals.
+    
+    Only searches within the first 2000 chars (versus full scan) to avoid
+    false positives from version-history footers mentioning "Archived" or
+    "superseded" in references to other documents.
+    """
+    head = content[:2000]
+    patterns = [
+        r'\b(withdrawn|Archived|superseded|no longer current)\b',
+        r'has been replaced by',
+    ]
+    return any(re.search(p, head, re.IGNORECASE) for p in patterns)
+
+
+def _strip_ato_chrome(text: str) -> str:
+    """Strip ATO web chrome boilerplate from ruling text.
+    
+    Handles multi-line format:
+      Legal database
+      Legal database
+      Contents
+      Download
+      Email
+      Print
+      Back to browse
+      N related documents
+    """
+    # Strip the chrome block at the start of the text
+    text = re.sub(
+        r'(?i)^(Legal\s+database\s*\n){1,2}'
+        r'(Contents\s*\n)?'
+        r'(Download\s*\n)?'
+        r'(Email\s*\n)?'
+        r'(Print\s*\n)?'
+        r'(Back\s+to\s+browse\s*\n)?'
+        r'(\d+\s+related\s+documents\s*\n)?',
+        '', text,
+    )
+    # Also handle single-line format
+    text = re.sub(
+        r'(?i)^Legal\s+database\s*/\s*Contents\s*/\s*Download\s*/\s*Email\s*/\s*Print\s*/\s*Back\s+to\s+browse.*?\n',
+        '', text,
+    )
+    return text.strip()
+
+
 # ---------------------------------------------------------------------------
 # Acts / sections
 # ---------------------------------------------------------------------------
@@ -366,16 +413,16 @@ def load_rulings() -> list[dict]:
                             full_title = next_ln
                             break
                     break
-            withdrawn = bool(re.search(r'\bwithdrawn\b', content[:1000], re.IGNORECASE))
+            withdrawn = _check_withdrawn(content)
             rulings.append({
                 "citation": f.stem,
                 "title": title,
                 "full_title": full_title,
                 "type": ruling_type,
                 "year": year,
-                "source": str(f),
-                "preview": content[:500],
                 "withdrawn": withdrawn,
+                "source": str(f),
+                "preview": _strip_ato_chrome(content[:500]),
             })
         except Exception:
             logger.exception("Error loading ruling %s", f.name)
@@ -404,10 +451,12 @@ def load_rulings() -> list[dict]:
                 rulings.append({
                     "citation": f.stem,
                     "title": title,
+                    "full_title": full_title,
                     "type": subdir.upper().replace('_', ' '),
                     "year": year,
+                    "withdrawn": _check_withdrawn(content),
                     "source": str(f),
-                    "preview": content[:500],
+                    "preview": _strip_ato_chrome(content[:500]),
                 })
             except Exception:
                 logger.exception("Error loading ATO ruling %s", f.name)
@@ -653,8 +702,6 @@ def get_definition_text(act: str, term: str) -> dict | None:
 
     term_lower = term.lower()
     escaped = re.escape(term_lower)
-    # Match: term followed by definition keywords anywhere in the body text
-    # (?<!\w) ensures we don't match compound terms like "demerger dividend" for "dividend"
     # Patterns for definition anchors
     patterns = [
         rf'(?<!\w){escaped}\s+(?:has\s+(?:the\s+)?(?:same\s+)?meaning|means|includes)(?:\s|:|$)',
@@ -667,10 +714,6 @@ def get_definition_text(act: str, term: str) -> dict | None:
     candidates: list[tuple[re.Match, int]] = []
     for pat in patterns:
         for m in re.finditer(pat, body, re.IGNORECASE):
-            # Determine if this is a primary definition by checking
-            # whether the term is preceded by a sentence boundary
-            # (start of content, newline, or ". ") rather than by
-            # another word (which would indicate a compound term).
             before = body[max(0, m.start() - 60):m.start()].rstrip()
             is_primary = (
                 m.start() == 0
@@ -681,7 +724,6 @@ def get_definition_text(act: str, term: str) -> dict | None:
                 or before.endswith(':')
                 or not before
             )
-            # Prefer earlier matches for primary; later matches for sub-definitions
             priority = 0 if is_primary else 1
             candidates.append((m, priority))
 
@@ -693,17 +735,23 @@ def get_definition_text(act: str, term: str) -> dict | None:
     m = candidates[0][0]
     idx = m.start()
 
-    # Find end: next col-0 line (start of next definition) or sentence boundary
+    # Find end: the boundary where this definition ends.
+    # Strategy: scan forward from the match position for:
+    #   1. Next definition anchor (<a id="...">) — strong stop
+    #   2. Next definition heading (#### term) — strong stop
+    #   3. End of body
+    # We do NOT use a col-0 heuristic because definition body text
+    # in legislation markdown is free-flowing prose that starts at
+    # column 0 (markdown doesn't require indentation). A col-0 match
+    # would cut definitions mid-sentence.
     rest = body[idx + len(m.group()):]
-    m2 = re.search(r'\n(?=[^\s>#<\-\d\[\(\*\'\`"])', rest)
-    if m2:
-        end_pos = idx + len(m.group()) + m2.start()
+
+    # Strong boundary: next definition anchor or heading
+    anchor_end = re.search(r'\n(?:####?\s|<a\s+id=")', rest, re.IGNORECASE)
+    if anchor_end:
+        end_pos = idx + len(m.group()) + anchor_end.start()
     else:
-        m3 = re.search(r'\.\s+(?=[A-Z][a-z])', rest)
-        if m3:
-            end_pos = idx + len(m.group()) + m3.start() + 1
-        else:
-            end_pos = len(body)
+        end_pos = len(body)
 
     text = body[idx:end_pos].strip()
     text = re.sub(r'<a id="[^"]+"></a>\s*\n?', "", text)
@@ -713,8 +761,16 @@ def get_definition_text(act: str, term: str) -> dict | None:
     text = re.sub(r"\n{2,}", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
 
-    if len(text) > 500:
-        text = text[:497] + "..."
+    # Determine if the definition is a brief cross-reference
+    # (e.g. "enterprise has the meaning given by section 9-20.")
+    is_cross_ref = bool(re.match(
+        r'^[^.]+\bhas\s+the\s+meaning\s+(given\s+by|in)\s',
+        text,
+        re.IGNORECASE,
+    ))
+
+    # Detect if text was truncated (doesn't end with sentence-ending punctuation)
+    truncated = bool(text) and not re.search(r'[.\)"\'!?;]\s*$', text)
 
     return {
         "term": info.get("term", term),
@@ -723,4 +779,7 @@ def get_definition_text(act: str, term: str) -> dict | None:
         "anchor": info.get("anchor", ""),
         "text": text,
         "path": f"/{act}/s{section}#{info.get('anchor', '')}",
+        "truncated": truncated,
+        "is_cross_reference": is_cross_ref,
+        "text_length": len(text),
     }
