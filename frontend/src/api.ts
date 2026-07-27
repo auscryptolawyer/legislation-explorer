@@ -68,6 +68,7 @@ export const api = {
     return fetchJson(url)
   },
   ruling: (citation: string) => fetchJson(`/ruling/${encodeURIComponent(citation)}`),
+  taxCase: (citation: string) => fetchJson(`/tax-cases/case/${encodeURIComponent(citation)}`),
   rulingSections: (citation: string) => fetchJson(`/ruling-sections/${encodeURIComponent(citation)}`),
   listComments: (act: string, section: string) => fetchJson(`/comments/${act}/${section}`),
   createComment: (act: string, section: string, author: string, text: string) =>

@@ -9,6 +9,7 @@ const ACT_SHORT: Record<string, string> = {
   'master-tax-examples': 'CCH Example',
   'master-gst-guide': 'CCH GST Guide',
   'nz-it-2007': 'NZ IT07',
+  'tax-cases': 'Tax Cases',
 }
 
 /** Short display name for an act ID. Falls back to the original name. */

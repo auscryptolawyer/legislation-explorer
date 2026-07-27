@@ -12,6 +12,7 @@ import SmartLinkPanel from './components/SmartLinkPanel'
 import DefinitionPopover from './components/DefinitionPopover'
 import SectionContent from './components/SectionContent'
 import RulingContent from './components/RulingContent'
+import TaxCaseContent from './components/TaxCaseContent'
 import SettingsPanel from './components/SettingsPanel'
 import SearchPanel from './components/SearchPanel'
 import { ThemeProvider } from './ThemeContext'
@@ -635,6 +636,11 @@ export default function App() {
             onNavigate={onNavigate}
             onNavigateRuling={onNavigateRuling}
           />
+        ) : act === 'tax-cases' && sectionData ? (
+          <TaxCaseContent
+            caseData={sectionData}
+            isMobile={isMobile}
+          />
         ) : sectionData ? (
           <SectionContent
             act={act}
@@ -655,7 +661,7 @@ export default function App() {
             rulingsOpen={rulingsOpen}
             setRulingsOpen={setRulingsOpen}
           />
-        ) : browsingAct && tree && act !== 'rulings' ? (
+        ) : browsingAct && tree && act !== 'rulings' && act !== 'tax-cases' ? (
           <div style={{ fontFamily: "'Montserrat', sans-serif" }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
               <button

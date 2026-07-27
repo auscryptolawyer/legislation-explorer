@@ -363,6 +363,38 @@ def get_tax_cases(court: str, request: Request):
     }
 
 
+def list_tax_cases_tree() -> dict:
+    """Return tax cases as a Tree structure for the frontend sidebar:
+    court (part) → year (division) → case (section).
+    """
+    sidebar = tax_cases_sidebar()
+    parts = []
+    for court_data in sidebar.get("courts", []):
+        divisions = []
+        for year_data in court_data.get("years", []):
+            sections = [
+                {
+                    "id": c["citation"],
+                    "title": f"{c.get('citation', '')} — {c.get('title', '')}",
+                    "path": c["citation"],
+                }
+                for c in year_data.get("cases", [])
+            ]
+            divisions.append({
+                "id": f"{court_data['court']}-{year_data['year']}",
+                "title": str(year_data["year"]),
+                "subdivisions": [],
+                "sections": sections,
+            })
+        parts.append({
+            "id": court_data["court"],
+            "title": court_data["label"],
+            "divisions": divisions,
+            "sections": [],
+        })
+    return {"act": "Tax Cases", "parts": parts}
+
+
 @router.get("/api/tax-cases")
 def list_tax_case_sources():
     """[DEPRECATED] List available tax case sources. Use /api/tax-cases/search instead."""

@@ -12,6 +12,7 @@ from backend.processors.markdown import (
 )
 
 from .rulings import list_rulings, get_ruling
+from .tax_cases import list_tax_cases_tree, get_tax_case_by_citation
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
@@ -30,6 +31,7 @@ def list_acts():
                 "compilation_date": tree.get("compilation_date"),
             })
     acts.append({"id": "rulings", "name": "ATO Rulings", "compilation_no": None, "compilation_date": None})
+    acts.append({"id": "tax-cases", "name": "Tax Cases", "compilation_no": None, "compilation_date": None})
     return acts
 
 
@@ -37,6 +39,8 @@ def list_acts():
 def get_tree(act: str):
     if act == "rulings":
         return list_rulings()
+    if act == "tax-cases":
+        return list_tax_cases_tree()
     return load_tree(act)
 
 
@@ -44,6 +48,9 @@ def get_tree(act: str):
 def get_section(act: str, section: str):
     if act == "rulings":
         return get_ruling(section)
+
+    if act == "tax-cases":
+        return get_tax_case_by_citation(section)
 
     fm, body = get_act_section_content(act, section)
     body = format_definition_terms(body, section, act)
