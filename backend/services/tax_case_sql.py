@@ -113,6 +113,33 @@ def _parse_pg_array(val: str) -> list[Any]:
     return items
 
 
+def _sql_write(sql: str) -> bool:
+    """Run an INSERT/UPDATE/DELETE SQL statement via docker exec.
+
+    Returns True on success, False on failure.
+    Uses default psql format (no -t -F -A flags needed for writes).
+    """
+    try:
+        result = subprocess.run(
+            ["docker", "exec", "cadena-postgres", "psql", "-U", "postgres",
+             "-d", "cadena_knowledge", "-c", sql],
+            capture_output=True, text=True, timeout=10,
+        )
+        if result.returncode != 0:
+            logger.warning(f"SQL write failed: {result.stderr[:200]}")
+            return False
+        return True
+    except subprocess.TimeoutExpired:
+        logger.warning("SQL write timed out")
+        return False
+    except FileNotFoundError:
+        logger.warning("docker not available")
+        return False
+    except Exception as e:
+        logger.exception(f"SQL write error: {e}")
+        return False
+
+
 def _sql_dict(columns: list[str], query: str) -> list[dict[str, Any]]:
     """Run SQL and return results as list of dicts with given column names."""
     rows = _sql(query)

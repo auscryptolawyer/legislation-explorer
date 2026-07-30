@@ -31,7 +31,7 @@ router.include_router(admin_router)
 router.include_router(data_versions_router)
 
 
-VERSION = "2.5.0"
+VERSION = "2.6.0"
 
 CHANGELOG = [
     {

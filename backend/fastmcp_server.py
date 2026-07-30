@@ -4,11 +4,13 @@ Mount via streamable_http_app() on the main FastAPI app.
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import logging
 import os
 import re as _re
 from pathlib import Path
+from typing import Literal
 
 from mcp.server.fastmcp import FastMCP
 from mcp.server.transport_security import TransportSecuritySettings
@@ -22,12 +24,13 @@ from backend.services.data_loader import (
     get_definition_text,
 )
 from backend.services.search_service import search_sections as fts_search
-from backend.routes.tax_cases import search_tax_cases
+
 from backend.services.case_db_service import (
     build_download_urls,
     get_case_metadata,
     get_case_references,
 )
+from backend.services.tax_case_sql import _sql_dict, _sql_write
 
 logger = logging.getLogger(__name__)
 
@@ -477,6 +480,22 @@ async def get_info() -> str:
     summaries_count = len([f for f in os.listdir(summaries_dir)
                           if f.endswith(".json")]) if os.path.isdir(summaries_dir) else 0
 
+    # Query issues table for known issues
+    known_issues = []
+    try:
+        rows = _sql_dict(
+            ["ticket", "tool", "known_note"],
+            "SELECT ticket, tool, known_note FROM issues WHERE status = 'known' ORDER BY id",
+        )
+        for row in rows:
+            known_issues.append({
+                "ticket": row.get("ticket", ""),
+                "tool": row.get("tool"),
+                "note": row.get("known_note"),
+            })
+    except Exception:
+        pass
+
     return json.dumps({
         "name": "Legislation Explorer",
         "version": VERSION,
@@ -502,22 +521,81 @@ async def get_info() -> str:
                 "rulings": {"accepted": ["TR 2024/1", "PCG 2017/13"], "types": ["TR", "TD", "PCG", "PS LA", "LCG", "AID", "IT"]},
                 "cases": {"required": "Bracketed medium-neutral form: [2024] HCA 1", "courts": ["HCA", "FCAFC", "FCA", "ARTA"]},
             },
-            "workflows": {
-                "find a provision": "search_legislation(query, act?) -> get_section(act, section)",
-                "browse an act": "get_act_tree(act, depth='parts') -> get_section",
-                "defined term": "get_definition(act, term)",
-                "ATO guidance": "get_ruling(citation) — look up a specific ruling",
-                "case by name or topic": "search_cases(query) -> get_case(citation) — includes summary, refs, citations, links",
-                "case references": "case_legislation_refs(citation) — legislation refs + case citations",
-                "download judgment": "case_link(citation) — court → AustLII → hosted HTML URLs",
+            "section_aliases": ["116-30", "s 116-30", "sec 116-30", "section 116-30", "s116-30"],
+            "on_failure": "Reformat per section_format for that act (hyphenated for ITAA 1997 / GST / TAA, unhyphenated for ITAA 1936), then try search_legislation. Do not guess a neighbouring section number.",
+            "routing": {
+                "text of a known provision": "get_section",
+                "find a provision by its words": "search_legislation",
+                "defined term": "get_definition",
+                "browse an act's structure": "get_act_tree",
+                "case by name or topic": "search_cases -> get_case -> download_case",
+                "full judgment text": "download_case",
+                "ATO guidance on a provision": "get_rulings_for_section -> get_ruling",
+                "ruling by citation": "get_ruling",
+                "how we work: matters, verification, toolchain": "standards",
+                "server bug, data gap, or feedback": "report_issue",
             },
+            "rules": [
+                "Answer only from tool results. If a tool returns nothing, say so. Never fill a gap from recall.",
+                "Filing report_issue does not change a citation's status. It stays unverifiable and the draft keeps its [verify] tag.",
+                "Firm-wide standards come from standards(). House style and matter-specific instructions come from CLAUDE.md, which wins on any conflict.",
+            ],
+            "standards_topics": ["verification", "matter-structure", "premises", "memory", "toolchain"],
             "coverage": {
                 "acts": "compilation 2026-04-01 (most acts)",
                 "rulings": rulings_count,
                 "cases_in_db": cases_count,
                 "cases_with_summaries": summaries_count,
+                "known_issues": known_issues,
             },
         },
+    }, indent=2)
+
+
+@mcp.tool()
+async def standards(topic: str | None = None) -> str:
+    """Return Cadena Legal standards for a topic, or list of topics."""
+    STANDARDS_DIR = Path(__file__).parent.parent / "standards"
+    TOPIC_MAP = {
+        "verification": "verification.md",
+        "matter-structure": "matter-structure.md",
+        "premises": "premises.md",
+        "memory": "memory.md",
+        "toolchain": "toolchain.json",
+    }
+
+    if topic is None:
+        return json.dumps({"topics": list(TOPIC_MAP.keys())})
+
+    fname = TOPIC_MAP.get(topic)
+    if not fname:
+        return json.dumps({"error": f"Unknown topic: {topic}"})
+
+    path = STANDARDS_DIR / fname
+    if not path.exists():
+        return json.dumps({"error": f"Standard file not found: {fname}"})
+
+    content = path.read_text(encoding="utf-8")
+
+    if fname.endswith(".json"):
+        return content  # already JSON
+
+    # Extract frontmatter if present
+    last_reviewed = None
+    body = content
+    if content.startswith("---"):
+        parts = content.split("---", 2)
+        if len(parts) >= 3:
+            import re
+            m = re.search(r'last_reviewed:\s*(\S+)', parts[1])
+            if m:
+                last_reviewed = m.group(1)
+            body = parts[2].strip()
+
+    return json.dumps({
+        "topic": topic,
+        "last_reviewed": last_reviewed,
+        "content": body,
     }, indent=2)
 
 
@@ -753,28 +831,115 @@ async def list_rulings(
 
 
 @mcp.tool()
-async def get_case_paragraphs(citation: str) -> str:
-    """⚠️ DEPRECATED — Full paragraph text is no longer stored.
-    Use get_case to retrieve the summary + download links."""
-    return json.dumps({
-        "deprecated": True,
-        "message": "Full paragraph text is no longer stored.",
-        "replacement": "get_case",
-        "action": f"Use get_case(citation=\"{citation}\") to retrieve the AI summary "
-                  f"and download links.",
-    }, indent=2)
+async def report_issue(
+    category: Literal["bad_data", "missing_content", "stale_compilation", "wrong_result", "tool_error", "suggestion"],
+    tool: str | None = None,
+    params: dict | str | None = None,
+    expected: str | None = None,
+    actual: str | None = None,
+    note: str | None = None,
+) -> str:
+    """Report a bug or issue with a tool's output.
 
+    Detects duplicates by (param_hash, category). If a matching open or
+    known issue already exists, increments the hit counter and returns the
+    existing ticket. Otherwise creates a new issue (CDN-NNNN) in the
+    issues table.
 
-@mcp.tool()
-async def search_case_paragraphs(query: str) -> str:
-    """⚠️ DEPRECATED — Full paragraph text is no longer indexed.
-    Use search_cases to find cases by summary content."""
+    Args:
+        category: Type of issue being reported.
+        tool: Name of the tool that produced the wrong output.
+        params: Parameters that were passed to the tool.
+        expected: What the correct output should have been.
+        actual: What the tool actually returned.
+        note: Free-form notes about the issue.
+
+    Returns:
+        JSON with ticket, status, and duplicate_of keys.
+    """
+    # ── compute param_hash ────────────────────────────────────────────────
+    raw_hash = ""
+    if tool:
+        # Normalize params to canonical JSON for hashing
+        if isinstance(params, dict):
+            canonical_params = json.dumps(params, sort_keys=True, ensure_ascii=True, default=str)
+        elif isinstance(params, str):
+            try:
+                p = json.loads(params)
+                canonical_params = json.dumps(p, sort_keys=True, ensure_ascii=True, default=str)
+            except (json.JSONDecodeError, TypeError):
+                canonical_params = params
+        else:
+            canonical_params = "null"
+        raw_hash = tool + canonical_params
+    elif note:
+        raw_hash = note
+    else:
+        raw_hash = str(category)
+    param_hash = hashlib.sha256(raw_hash.encode("utf-8")).hexdigest()[:16]
+
+    # ── check for existing duplicate ───────────────────────────────────────
+    safe_hash = param_hash.replace("'", "''")
+    dupes = _sql_dict(
+        ["id", "ticket", "status"],
+        f"SELECT id, ticket, status FROM issues "
+        f"WHERE param_hash = '{safe_hash}' AND category = '{category}' "
+        f"AND status IN ('open', 'known')",
+    )
+    if dupes:
+        existing = dupes[0]
+        _sql_write(
+            f"UPDATE issues SET hits = hits + 1 WHERE id = {existing['id']}"
+        )
+        return json.dumps({
+            "ticket": existing["ticket"],
+            "status": existing["status"],
+            "duplicate_of": existing["ticket"],
+        })
+
+    # ── compute next ticket number ─────────────────────────────────────────
+    max_id_rows = _sql_dict(["next_id"], "SELECT COALESCE(MAX(id), 0) + 1 AS next_id FROM issues")
+    next_id = max_id_rows[0]["next_id"] if max_id_rows else 1
+    ticket = f"CDN-{next_id:04d}"
+
+    # ── escape values for SQL ──────────────────────────────────────────────
+    def esc(v: object) -> str:
+        if v is None:
+            return "NULL"
+        s = str(v).replace("'", "''")
+        return f"'{s}'"
+
+    now_val = "NOW()"
+
+    insert_sql = (
+        f"INSERT INTO issues (ticket, category, tool, params, param_hash, "
+        f"expected, actual, note, server_ver, compilation, created, status, "
+        f"known_note, hits, fixed) "
+        f"VALUES ("
+        f"'{ticket}', "
+        f"'{category}', "
+        f"{esc(tool)}, "
+        f"{esc(json.dumps(params, default=str) if isinstance(params, (dict, list)) else params)}, "
+        f"'{param_hash}', "
+        f"{esc(expected)}, "
+        f"{esc(actual)}, "
+        f"{esc(note)}, "
+        f"'{VERSION}', "
+        f"NULL, "
+        f"{now_val}, "
+        f"'open', "
+        f"NULL, "
+        f"1, "
+        f"NULL"
+        f")"
+    )
+    _sql_write(insert_sql)
+
     return json.dumps({
-        "deprecated": True,
-        "message": "Full paragraph text is no longer stored.",
-        "replacement": "search_cases",
-        "action": f"Use search_cases(query=\"{query}\") to search case AI summaries.",
-    }, indent=2)
+        "ticket": ticket,
+        "status": "open",
+        "duplicate_of": None,
+    })
 
 
 @mcp.tool()
