@@ -1,0 +1,319 @@
+#!/usr/bin/env python3
+"""Generate ruling summaries.
+
+Two modes:
+  --type aid    Regex-based extraction for ATO IDs (fast, no AI)
+  --type full   AI summarization via DeepSeek V4 Flash (full rulings)
+
+Slice support for parallel workers:
+  python3 generate_ruling_summaries.py --type full --slice-idx 0 --slice-total 5
+"""
+
+import json
+import os
+import re
+import sys
+import time
+import urllib.request
+from pathlib import Path
+
+# ── Config ──────────────────────────────────────────────────────────────────
+RULINGS_DIR = Path(__file__).resolve().parent.parent / "data" / "rulings"
+OUTPUT_DIR = RULINGS_DIR / "summaries"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
+if not API_KEY:
+    env_path = Path.home() / ".hermes" / ".env"
+    if env_path.exists():
+        for line in env_path.read_text().splitlines():
+            if "OPENROUTER_API_KEY" in line and "***" not in line:
+                parts = line.strip().split("=", 1)
+                if len(parts) == 2 and parts[1]:
+                    API_KEY = parts[1]
+                    break
+
+# ── Case citation regex patterns ───────────────────────────────────────────
+CASE_PATTERNS = [
+    re.compile(r"\[\d{4}\]\s+(?:HCA|FCAFC|FCA|AATA|NSWSC|NSWCA|VSC|VSCA|QSC|QCA|SASC|SASCFC|WASC|WASCA|FedCFamC2G|FamCA|FCCA|ACTSC|NTSC|TASSC)\s+\d+"),
+    re.compile(r"\(\d{4}\)\s+\d+\s+(?:CLR|FCR|ALR|ALD|ATR|NSWLR|VR|WAR|SASR|Qd\s*R|TASR|NTJ)\s+\d+"),
+]
+
+# ── Type config ─────────────────────────────────────────────────────────────
+# Type -> (label, count)
+ALL_TYPES = {
+    "TR": 449, "TD": 1032, "CR": 2517, "PR": 1063, "PS_LA": 277,
+    "GSTR": 128, "PCG": 73, "LCG": 55, "TA": 152, "IT": 233,
+    "MT": 16, "SGR": 4,
+}
+
+SUMMARY_PROMPT = """Read this ATO ruling and output a structured summary as JSON.
+
+Output valid JSON ONLY (no other text) with this exact structure:
+{
+  "citation": "TR 2024/1",
+  "title": "Full ruling title",
+  "type": "Tax Ruling | Taxation Determination | Practical Compliance Guideline | etc",
+  "status": "Final | Withdrawn | Draft",
+  "subject": "2-3 sentences on what the ruling addresses",
+  "background": "2-3 sentences on the legislative context or factual scenario",
+  "ruling": "3-6 sentences covering the key binding positions",
+  "date_of_effect": "YYYY-MM-DD or description",
+  "legislation_referenced": ["Income Tax Assessment Act 1997 (Cth) s 6-1", ...],
+  "cases_referenced": ["Plaintiff v Defendant [YYYY] COURT N", ...],
+  "related_rulings": ["TR 2023/1"]
+}
+
+CRITICAL RULES:
+- cases_referenced: EVERY entry MUST include BOTH the full case name AND a proper medium-neutral citation
+- NEVER output "(no full citation provided)" or similar placeholder text
+- If you find a case name but cannot find a proper citation, OMIT it
+- Format: "Plaintiff v Defendant [YYYY] COURT N"
+- legislation_referenced: include full act name with jurisdiction and specific section numbers
+- related_rulings: any rulings referenced including withdrawn-by, replaces, or other related documents
+- ruling: focus on the binding positions the Commissioner is taking
+
+DOCUMENT:
+"""
+
+
+# ── Helpers ─────────────────────────────────────────────────────────────────
+
+def get_ruling_files(rtype: str) -> list[Path]:
+    """Get all ruling files for a given type, sorted."""
+    return sorted(RULINGS_DIR.glob(f"{rtype}_*.txt"))
+
+
+def parse_citation(filename: str, rtype: str) -> str:
+    """Parse citation from filename like TR_2024_1.txt -> TR 2024/1."""
+    stem = filename.replace(".txt", "")
+    if rtype == "PS_LA":
+        parts = stem.split("_")
+        return f"PS LA {parts[2]}/{parts[3]}"
+    parts = stem.split("_", 2)
+    if len(parts) >= 3:
+        return f"{parts[0]} {parts[1]}/{parts[2]}"
+    return stem
+
+
+def extract_status(text: str) -> str:
+    """Check if ruling is withdrawn or draft."""
+    if "Withdrawn" in text[:1000]:
+        return "Withdrawn"
+    if "Draft" in text[:1000]:
+        return "Draft"
+    return "Final"
+
+
+def extract_aid(text: str, citation: str) -> dict:
+    """Extract ATO ID summary using regex (no AI)."""
+    cat = ""
+    title = ""
+    lines = text.split("\n")
+    for i, line in enumerate(lines):
+        if line.strip().startswith("ATO ID"):
+            # Look ahead for category and title, skipping ===== and blank lines
+            for j in range(i + 1, min(i + 6, len(lines))):
+                stripped = lines[j].strip()
+                if not stripped or re.match(r'^[=\-*\s]+$', stripped):
+                    continue
+                if not cat:
+                    cat = stripped
+                elif not title:
+                    title = stripped
+                    break
+            break
+
+    # Question after "Issue"
+    question = ""
+    m = re.search(r"Issue\n(.*?)(?:\n\n|\Z)", text, re.DOTALL)
+    if m:
+        question = m.group(1).strip()
+
+    # Case refs via regex
+    cases = set()
+    for cp in CASE_PATTERNS:
+        for m in cp.finditer(text):
+            cases.add(m.group(0).strip())
+
+    # Legislation refs via regex
+    leg = set()
+    leg_pat = re.compile(
+        r"(?:Income Tax Assessment Act \d{4}|Fringe Benefits Tax(?: Assessment)? Act \d{4}|"
+        r"A New Tax System \(Goods and Services Tax\) Act \d{4}|Taxation Administration Act \d{4}|"
+        r"Tax Agent Services Act \d{4}|Corporations Act \d{4}|"
+        r"Superannuation Industry \(Supervision\) Act \d{4}|"
+        r"Superannuation Guarantee \(Administration\) Act \d{4}|"
+        r"Family Law Act \d{4}|Social Security Act \d{4}|"
+        r"ITAA\s+\d{4}|TAA\s+\d{4})(?:\s+\(Cth\))?(?:\s+s(?:s|ection)?\.?\s+\d+[-\dA-Za-z]*(?:\([^)]+\))?(?:\s*,\s*\d+[-\dA-Za-z]*(?:\([^)]+\))?)*)?",
+        re.IGNORECASE,
+    )
+    for m in leg_pat.finditer(text):
+        ref = m.group(0).strip()
+        # Clean up - truncate at sentence boundaries
+        for sep in [" where ", " for ", " allows ", " specifically "]:
+            if sep in ref.lower():
+                ref = ref[:ref.lower().index(sep)].strip()
+        if ref and len(ref) > 5:
+            leg.add(ref)
+
+    # Also find "section X of the Act Name" patterns
+    standalone = re.findall(
+        r"(?:section|s\.?)\s+(\d+[-\dA-Za-z]*(?:\([^)]+\))?)\s+of\s+the\s+(.*?)(?:\s+\(Cth\))?(?=[\.,;])",
+        text, re.IGNORECASE,
+    )
+    for sec_num, act_name in standalone:
+        leg.add(f"{act_name.strip()} (Cth) s {sec_num}")
+
+    return {
+        "citation": citation,
+        "title": title or cat,
+        "type": "ATO Interpretative Decision",
+        "status": extract_status(text),
+        "subject": cat,
+        "question": question,
+        "legislation_referenced": sorted(leg)[:20],
+        "cases_referenced": sorted(cases)[:20],
+        "full_text": text,
+    }
+
+
+def ai_summarize(text: str, max_text: int = 8000) -> dict:
+    """Send ruling text to DeepSeek V4 Flash and get structured summary."""
+    if len(text) > max_text:
+        text = text[:max_text] + "\n... [truncated]"
+
+    payload = {
+        "model": "deepseek/deepseek-v4-flash",
+        "messages": [{"role": "user", "content": SUMMARY_PROMPT + text}],
+        "temperature": 0.1,
+        "max_tokens": 2000,
+    }
+    req = urllib.request.Request(
+        "https://openrouter.ai/api/v1/chat/completions",
+        data=json.dumps(payload).encode(),
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {API_KEY}",
+            "HTTP-Referer": "https://legislation-explorer.local",
+            "X-Title": "Legislation Explorer",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=180) as resp:
+        result = json.loads(resp.read())
+
+    content = result["choices"][0]["message"]["content"]
+    json_match = re.search(r"\{.*\}", content, re.DOTALL)
+    if json_match:
+        try:
+            return json.loads(json_match.group())
+        except json.JSONDecodeError:
+            pass
+    return {"error": "JSON parse failed", "raw": content[:300]}
+
+
+def process_aid(files: list[Path], label: str):
+    """Process ATO ID files with regex extraction."""
+    total = len(files)
+    done = 0
+    errors = 0
+    for f in files:
+        citation = parse_citation(f.name, "AID")
+        out_path = OUTPUT_DIR / f"{citation.replace(' ', '_').replace('/', '_')}.json"
+        if out_path.exists():
+            done += 1
+            continue
+        try:
+            text = f.read_text(encoding="utf-8", errors="replace")
+            summary = extract_aid(text, citation)
+            out_path.write_text(json.dumps(summary, indent=2, ensure_ascii=False))
+            done += 1
+        except Exception as e:
+            print(f"  [{label}] ERROR {citation}: {e}")
+            errors += 1
+        if total > 100 and (done + errors) % 500 == 0:
+            print(f"  [{label}] {done + errors}/{total} ({errors} errors)")
+    print(f"  [{label}] Done: {done} OK, {errors} errors / {total}")
+
+
+def process_full(files: list[Path], label: str, skip_existing: bool = True):
+    """Process full ruling files with AI summarization."""
+    total = len(files)
+    done = 0
+    errors = 0
+    for i, f in enumerate(files):
+        citation = parse_citation(f.name, f.stem.split("_", 1)[0])
+        out_path = OUTPUT_DIR / f"{citation.replace(' ', '_').replace('/', '_')}.json"
+        if skip_existing and out_path.exists():
+            done += 1
+            continue
+
+        try:
+            text = f.read_text(encoding="utf-8", errors="replace")
+            result = ai_summarize(text)
+
+            if "error" in result:
+                print(f"  [{label}] ERROR {citation}: {result.get('error')}")
+                errors += 1
+                # Write error summary to avoid reprocessing
+                result["citation"] = citation
+                result["status"] = extract_status(text)
+                out_path.write_text(json.dumps(result, indent=2, ensure_ascii=False))
+            else:
+                result["citation"] = result.get("citation", citation)
+                out_path.write_text(json.dumps(result, indent=2, ensure_ascii=False))
+                done += 1
+        except Exception as e:
+            print(f"  [{label}] EXCEPTION {citation}: {e}")
+            errors += 1
+
+        if (i + 1) % 50 == 0:
+            elapsed = time.time() - _t0
+            rate = (i + 1) / elapsed if elapsed > 0 else 0
+            remaining = (total - i - 1) / rate if rate > 0 else 0
+            print(f"  [{label}] {i+1}/{total} ({errors} errors) "
+                  f"@ {rate:.1f}/s, ETA {remaining/60:.0f}m")
+
+    print(f"  [{label}] Done: {done} OK, {errors} errors / {total}")
+
+
+# ── Main ────────────────────────────────────────────────────────────────────
+
+if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Generate ruling summaries")
+    parser.add_argument("--type", choices=["aid", "full"], required=True)
+    parser.add_argument("--types", help="Comma-separated types to process (e.g. TR,TD)")
+    parser.add_argument("--slice-idx", type=int, default=None, help="Slice index (0-based)")
+    parser.add_argument("--slice-total", type=int, default=None, help="Total slices")
+    parser.add_argument("--no-skip", action="store_true", help="Re-process even if exists")
+    args = parser.parse_args()
+
+    _t0 = time.time()
+
+    if args.type == "aid":
+        files = get_ruling_files("AID")
+        print(f"[AID] Processing {len(files)} ATO IDs...")
+        process_aid(files, "AID")
+
+    else:
+        types = [t.strip() for t in args.types.split(",")] if args.types else list(ALL_TYPES.keys())
+        all_files = []
+        for t in types:
+            all_files.extend(get_ruling_files(t))
+
+        # Apply slice if specified
+        if args.slice_idx is not None and args.slice_total is not None:
+            total = len(all_files)
+            chunk_size = total // args.slice_total
+            remainder = total % args.slice_total
+            start = args.slice_idx * chunk_size + min(args.slice_idx, remainder)
+            end = start + chunk_size + (1 if args.slice_idx < remainder else 0)
+            all_files = all_files[start:end]
+            label = f"FULL [{args.slice_idx + 1}/{args.slice_total}] {','.join(types)}"
+        else:
+            label = f"FULL {','.join(types)}"
+
+        print(f"[{label}] Processing {len(all_files)} rulings...")
+        process_full(all_files, label, skip_existing=not args.no_skip)

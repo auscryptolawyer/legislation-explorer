@@ -603,9 +603,10 @@ async def standards(topic: str | None = None) -> str:
 async def get_ruling(citation: str) -> str:
     """Retrieve an ATO ruling preview by citation.
 
-    Returns metadata and a content preview (~5K chars). Full text is
-    available via the ATO or AustLII URLs in the response.
-    Accepts TR 2020/1, TR_2020_1, or TR 2024/1 formats.
+    Returns structured summary data when available (cases_referenced,
+    legislation_referenced, question/subject/ruling text). Falls back to
+    raw text preview. Accepts TR 2020/1, TR_2020_1, or TR 2024/1 formats.
+    ATO IDs return full_text inline.
     """
     CITATION_ALIASES = {"LCR": "LCG"}
     normalized = _re.sub(r'[\s/]+', '_', citation).strip('_')
@@ -614,6 +615,46 @@ async def get_ruling(citation: str) -> str:
     if prefix_m and prefix_m.group(1).upper() in CITATION_ALIASES:
         candidates.add(f"{CITATION_ALIASES[prefix_m.group(1).upper()]}_{prefix_m.group(2)}")
 
+    # First check for a structured summary
+    summary_dir = DATA_DIR / "rulings" / "summaries"
+    for ref in candidates:
+        summary_path = summary_dir / f"{ref}.json"
+        if summary_path.exists():
+            try:
+                summary = json.loads(summary_path.read_text(encoding="utf-8"))
+                # For ATO IDs, return full structured data with full_text
+                if summary.get("type") == "ATO Interpretative Decision" or summary.get("full_text"):
+                    return json.dumps({
+                        "citation": summary.get("citation", ref),
+                        "title": summary.get("title", ""),
+                        "type": "ATO ID",
+                        "status": summary.get("status", "Final"),
+                        "subject": summary.get("subject", ""),
+                        "question": summary.get("question", ""),
+                        "cases_referenced": summary.get("cases_referenced", []),
+                        "legislation_referenced": summary.get("legislation_referenced", []),
+                        "full_text": summary.get("full_text", ""),
+                        "source": "summary",
+                    }, indent=2)
+                # For full rulings, return structured fields
+                return json.dumps({
+                    "citation": summary.get("citation", ref),
+                    "title": summary.get("title", ""),
+                    "type": summary.get("type", ""),
+                    "status": summary.get("status", ""),
+                    "subject": summary.get("subject", ""),
+                    "background": summary.get("background", ""),
+                    "ruling": summary.get("ruling", ""),
+                    "date_of_effect": summary.get("date_of_effect", ""),
+                    "cases_referenced": summary.get("cases_referenced", []),
+                    "legislation_referenced": summary.get("legislation_referenced", []),
+                    "related_rulings": summary.get("related_rulings", []),
+                    "source": "summary",
+                }, indent=2)
+            except Exception:
+                pass  # Fall through to raw text
+
+    # Fall back to raw text preview from flat files
     for r in load_rulings():
         if r["citation"] in candidates:
             path = Path(r["source"])
@@ -636,6 +677,7 @@ async def get_ruling(citation: str) -> str:
                 "content_preview": preview,
                 "content_truncated": truncated,
                 "total_content_length": len(stripped),
+                "source": "raw_text",
             }, indent=2)
 
     return json.dumps({"error": f"Ruling {citation} not found"})
@@ -832,7 +874,7 @@ async def list_rulings(
 
 @mcp.tool()
 async def report_issue(
-    category: Literal["bad_data", "missing_content", "stale_compilation", "wrong_result", "tool_error", "suggestion"],
+    category: Literal["bad_data", "missing_content", "stale_compilation", "wrong_result", "tool_error", "suggestion", "bug"],
     tool: str | None = None,
     params: dict | str | None = None,
     expected: str | None = None,
