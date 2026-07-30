@@ -737,27 +737,24 @@ def get_definition_text(act: str, term: str) -> dict | None:
 
     # Find end: the boundary where this definition ends.
     # Strategy: scan forward from the match position for:
-    #   1. Next definition anchor (<a id="...">) — strong stop
-    #   2. Next definition heading (#### term) — strong stop
-    #   3. Next term that starts a definition at column 0 — for
-    #      list-style dict entries like "enterprise has the meaning...
-    #      entertainment has the meaning given by..."
-    #   4. End of body
+    #   1. Next definition term (period + new term) — most reliable for dictionary-style sections
+    #   2. Next definition anchor (<a id="...">) or heading (####) — strong stop
+    #   3. End of body
     rest = body[idx + len(m.group()):]
 
-    # Strong boundary: next definition anchor or heading
-    anchor_end = re.search(r'\n(?:####?\s|<a\s+id=")', rest, re.IGNORECASE)
-    if anchor_end:
-        end_pos = idx + len(m.group()) + anchor_end.start()
+    # Primary: next definition term boundary
+    # period + space + new lowercase term with "has meaning"/"means"/"includes" or colon
+    next_def = re.search(
+        r'\.\s+(?=[a-z][a-z\s]*?(?:has\s+(?:the\s+)?meaning|means|includes?(?:\s|:)|(?::\s*(?:\n|>|$))))',
+        rest,
+    )
+    if next_def:
+        end_pos = idx + len(m.group()) + next_def.start() + 1  # include the period
     else:
-        # Next definition boundary: period + space + lowercase word + "has meaning"/"means"/":"
-        # This catches list-style dictionary entries without anchors
-        next_def = re.search(
-            r'\.\s+(?=[a-z][a-z\s]*(?:has\s+(?:the\s+)?meaning|means|includes?:))',
-            rest,
-        )
-        if next_def:
-            end_pos = idx + len(m.group()) + next_def.start() + 1  # include the period
+        # Fallback: next definition anchor or heading
+        anchor_end = re.search(r'\n(?:####?\s|<a\s+id=")', rest, re.IGNORECASE)
+        if anchor_end:
+            end_pos = idx + len(m.group()) + anchor_end.start()
         else:
             end_pos = len(body)
 

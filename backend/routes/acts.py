@@ -44,7 +44,7 @@ def get_tree(act: str):
     return load_tree(act)
 
 
-@router.get("/api/section/{act}/{section}")
+@router.get("/api/section/{act}/{section:path}")
 def get_section(act: str, section: str):
     if act == "rulings":
         return get_ruling(section)

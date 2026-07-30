@@ -1,16 +1,16 @@
 // Shared types and theme for the Legislation Explorer frontend
 
 export const COLORS = {
-  bg: '#0a1214',
-  surface: '#0b1b1f',
-  surfaceHover: '#141e20',
-  border: '#253d3d',
-  text: '#aebec2',
-  textMuted: '#758696',
-  accent: '#279e88',
-  accentHover: '#1f5858',
-  heading: '#ffffff',
-} as const
+  bg: 'var(--color-bg)',
+  surface: 'var(--color-surface)',
+  surfaceHover: 'var(--color-surface-hover)',
+  border: 'var(--color-border)',
+  text: 'var(--color-text)',
+  textMuted: 'var(--color-text-muted)',
+  accent: 'var(--color-accent)',
+  accentHover: 'var(--color-accent-hover)',
+  heading: 'var(--color-heading)',
+}
 
 export type Section = { id: string; title: string; path: string }
 export type Subdivision = { id: string; title: string; sections: Section[] }

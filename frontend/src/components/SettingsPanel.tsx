@@ -11,8 +11,8 @@ const ACCENT_PRESETS = [
 
 export default function SettingsPanel({ onClose }: { onClose: () => void }) {
   const {
-    colors: c, theme, accentColor, headingFont, bodyFont,
-    userPrefs, setTheme, setAccentColor,
+    colors: c, theme, accentColor, textColor, bgColor, headingFont, bodyFont,
+    userPrefs, setTheme, setAccentColor, setTextColor, setBgColor,
     setHeadingFont, setBodyFont, setDisplayName, setDefaultAct,
     resetTheme, savePrefs,
   } = useTheme()
@@ -44,6 +44,16 @@ export default function SettingsPanel({ onClose }: { onClose: () => void }) {
   const handleAccent = (color: string) => {
     setAccentColor(color)
     savePrefs({ accent_color: color } as any)
+  }
+
+  const handleTextColor = (color: string) => {
+    setTextColor(color)
+    savePrefs({ text_color: color } as any)
+  }
+
+  const handleBgColor = (color: string) => {
+    setBgColor(color)
+    savePrefs({ bg_color: color } as any)
   }
 
   const handleHeadingFont = (f: string) => {
@@ -244,6 +254,60 @@ export default function SettingsPanel({ onClose }: { onClose: () => void }) {
               </div>
             </div>
 
+            {/* Text Color */}
+            <div style={{ marginBottom: 20 }}>
+              <label style={{ fontSize: 11, color: c.textMuted, display: 'block', marginBottom: 6, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif" }}>
+                Text Color
+              </label>
+              <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
+                <input
+                  type="color"
+                  value={textColor}
+                  onChange={e => handleTextColor(e.target.value)}
+                  style={{
+                    width: 32, height: 32, borderRadius: 6, padding: 0,
+                    border: `1px solid ${c.border}`, cursor: 'pointer',
+                    background: 'transparent',
+                  }}
+                />
+                <button
+                  onClick={() => handleTextColor('#aebec2')}
+                  style={{
+                    padding: '4px 10px', borderRadius: 4, fontSize: 10,
+                    background: c.bg, color: c.textMuted,
+                    border: `1px solid ${c.border}`, cursor: 'pointer',
+                  }}
+                >Reset</button>
+              </div>
+            </div>
+
+            {/* Background Color */}
+            <div style={{ marginBottom: 20 }}>
+              <label style={{ fontSize: 11, color: c.textMuted, display: 'block', marginBottom: 6, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif" }}>
+                Background Color
+              </label>
+              <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
+                <input
+                  type="color"
+                  value={bgColor}
+                  onChange={e => handleBgColor(e.target.value)}
+                  style={{
+                    width: 32, height: 32, borderRadius: 6, padding: 0,
+                    border: `1px solid ${c.border}`, cursor: 'pointer',
+                    background: 'transparent',
+                  }}
+                />
+                <button
+                  onClick={() => handleBgColor('#0a1214')}
+                  style={{
+                    padding: '4px 10px', borderRadius: 4, fontSize: 10,
+                    background: c.bg, color: c.textMuted,
+                    border: `1px solid ${c.border}`, cursor: 'pointer',
+                  }}
+                >Reset</button>
+              </div>
+            </div>
+
             {/* Heading Font */}
             <div style={{ marginBottom: 16 }}>
               <label style={{ fontSize: 11, color: c.textMuted, display: 'block', marginBottom: 4, fontFamily: "var(--heading-font, 'Montserrat'), sans-serif" }}>
@@ -335,7 +399,7 @@ function MCPTabContent({ c }: { c: ThemeConfig }) {
   const [renameValue, setRenameValue] = useState('');
 
   const baseUrl = 'https://legislation.scriptkitty.yachts/mcp';
-  const fullUrl = generatedToken ? `${baseUrl}?token=${generatedToken}` : baseUrl;
+  const fullUrl = generatedToken ? `${baseUrl}/${generatedToken}` : baseUrl;
 
   React.useEffect(() => {
     loadTokens();
@@ -591,8 +655,19 @@ function MCPTabContent({ c }: { c: ThemeConfig }) {
       )}
 
       <p style={{ color: c.textMuted, fontSize: 11, marginTop: 20, lineHeight: 1.4 }}>
-        In Claude Desktop, go to <strong>Settings → Developer → Add MCP Server</strong> and paste the URL above.
+        In Claude Desktop, go to <strong>Settings → Developer → Connectors</strong>, click <strong>Add Custom Connector</strong>:
       </p>
+      <div style={{
+        background: c.bg, color: c.text,
+        padding: 12, borderRadius: 6, fontSize: 11,
+        fontFamily: 'monospace', margin: '8px 0 0 0',
+        border: `1px solid ${c.border}`,
+        lineHeight: 1.5,
+      }}>
+        <div><strong>Name:</strong> Legislation Explorer</div>
+        <div><strong>URL:</strong> <code style={{wordBreak: 'break-all'}}>{fullUrl}</code></div>
+        <div style={{marginTop: 4, color: c.textMuted}}>Leave OAuth optional items blank.</div>
+      </div>
     </div>
   );
 }

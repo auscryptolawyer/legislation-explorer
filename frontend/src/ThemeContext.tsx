@@ -46,6 +46,8 @@ export interface UserPrefs {
   default_act: string
   theme: string
   accent_color: string
+  text_color: string
+  bg_color: string
   heading_font: string
   body_font: string
 }
@@ -54,11 +56,15 @@ interface ThemeContextValue {
   colors: ThemeConfig
   theme: string
   accentColor: string
+  textColor: string
+  bgColor: string
   headingFont: string
   bodyFont: string
   userPrefs: UserPrefs | null
   setTheme: (t: string) => void
   setAccentColor: (c: string) => void
+  setTextColor: (c: string) => void
+  setBgColor: (c: string) => void
   setHeadingFont: (f: string) => void
   setBodyFont: (f: string) => void
   setDisplayName: (n: string) => void
@@ -70,8 +76,10 @@ interface ThemeContextValue {
 
 const ThemeContext = createContext<ThemeContextValue | null>(null)
 
-function baseColors(theme: string, accent: string): ThemeConfig {
-  const base = theme === 'light' ? { ...LIGHT } : { ...DARK }
+function baseColors(theme: string, accent: string, textColor?: string, bgColor?: string): ThemeConfig {
+  const base = theme === 'light'
+    ? { ...LIGHT, bg: bgColor || LIGHT.bg, text: textColor || LIGHT.text }
+    : { ...DARK, bg: bgColor || DARK.bg, text: textColor || DARK.text }
   base.accent = accent
   base.accentHover = theme === 'light' ? '#1a6f5e' : '#1f5858'
   return base
@@ -82,6 +90,8 @@ const DEFAULT_PREFS: UserPrefs = {
   default_act: 'itaa-1997',
   theme: 'dark',
   accent_color: '#279e88',
+  text_color: '#aebec2',
+  bg_color: '#0a1214',
   heading_font: 'Montserrat',
   body_font: 'Lora',
 }
@@ -97,6 +107,8 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
   const colors = baseColors(
     userPrefs?.theme || 'dark',
     userPrefs?.accent_color || '#279e88',
+    userPrefs?.text_color,
+    userPrefs?.bg_color,
   )
 
   const setTheme = useCallback((t: string) => {
@@ -110,6 +122,22 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
   const setAccentColor = useCallback((c: string) => {
     setUserPrefs(prev => {
       const next = { ...(prev || DEFAULT_PREFS), accent_color: c }
+      localStorage.setItem('legislation-user-prefs', JSON.stringify(next))
+      return next
+    })
+  }, [])
+
+  const setTextColor = useCallback((c: string) => {
+    setUserPrefs(prev => {
+      const next = { ...(prev || DEFAULT_PREFS), text_color: c }
+      localStorage.setItem('legislation-user-prefs', JSON.stringify(next))
+      return next
+    })
+  }, [])
+
+  const setBgColor = useCallback((c: string) => {
+    setUserPrefs(prev => {
+      const next = { ...(prev || DEFAULT_PREFS), bg_color: c }
       localStorage.setItem('legislation-user-prefs', JSON.stringify(next))
       return next
     })
@@ -188,11 +216,15 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     colors,
     theme: userPrefs?.theme || 'dark',
     accentColor: userPrefs?.accent_color || '#279e88',
+    textColor: userPrefs?.text_color || DARK.text,
+    bgColor: userPrefs?.bg_color || DARK.bg,
     headingFont: userPrefs?.heading_font || 'Montserrat',
     bodyFont: userPrefs?.body_font || 'Lora',
     userPrefs,
     setTheme,
     setAccentColor,
+    setTextColor,
+    setBgColor,
     setHeadingFont,
     setBodyFont,
     setDisplayName,
@@ -201,6 +233,22 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     refreshPrefs,
     savePrefs,
   }
+
+  // Sync CSS custom properties for components that still use static COLORS
+  React.useEffect(() => {
+    const root = document.documentElement
+    root.style.setProperty('--color-bg', colors.bg)
+    root.style.setProperty('--color-surface', colors.surface)
+    root.style.setProperty('--color-surface-hover', colors.surfaceHover)
+    root.style.setProperty('--color-border', colors.border)
+    root.style.setProperty('--color-text', colors.text)
+    root.style.setProperty('--color-text-muted', colors.textMuted)
+    root.style.setProperty('--color-accent', colors.accent)
+    root.style.setProperty('--color-accent-hover', colors.accentHover)
+    root.style.setProperty('--color-heading', colors.heading)
+    root.style.setProperty('--heading-font', value.headingFont)
+    root.style.setProperty('--body-font', value.bodyFont)
+  }, [colors, value.headingFont, value.bodyFont])
 
   return (
     <ThemeContext.Provider value={value}>

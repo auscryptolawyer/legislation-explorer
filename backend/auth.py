@@ -34,6 +34,8 @@ PUBLIC_PATHS = {
     "/health",
     "/",
     "/favicon.ico",
+    "/api/cadena/mcp",
+    "/.well-known/oauth-authorization-server",
 }
 
 # ── OAuth client ────────────────────────────────────────────────────────────
@@ -75,7 +77,11 @@ GATED_PREFIXES = {"/api/cadena/", "/mcp/cadena/"}
 
 
 async def login(request: Request) -> RedirectResponse:
-    """Redirect the user to Microsoft Entra ID login."""
+    """Redirect the user to Microsoft Entra ID login. Supports ?next= redirect after auth."""
+    next_url = request.query_params.get("next", "/")
+    if next_url and next_url != "/":
+        # Store next_url in session so it survives the Azure AD round-trip
+        request.session["auth_next"] = next_url
     redirect = await oauth.microsoft.authorize_redirect(request, redirect_uri=REDIRECT_URI)
     return redirect
 
@@ -98,7 +104,16 @@ async def callback(request: Request) -> RedirectResponse:
         # Log the login
         from backend.services.login_log import log_login
         log_login(claims.get("email", ""), claims.get("name", ""))
-        response = RedirectResponse(url="/", status_code=303)
+
+        # Check if we have a ?next= redirect from the OAuth authorize flow
+        # First try query param (legacy), then session (OAuth flow)
+        next_url = request.query_params.get("next")
+        if not next_url or next_url == "/":
+            next_url = request.session.pop("auth_next", "/")
+        if next_url == "":
+            next_url = "/"
+
+        response = RedirectResponse(url=next_url, status_code=303)
         response.set_cookie(
             key="session",
             value=session_token,
@@ -172,9 +187,21 @@ class AuthMiddleware(BaseHTTPMiddleware):
             request.state.user = None
             return await call_next(request)
 
+        # OAuth endpoints are public (handle their own auth via Azure AD session)
+        if path.startswith("/oauth/") or path.startswith("/.well-known/"):
+            request.state.user = None
+            return await call_next(request)
+
         # Gate Cadena IP paths
         for prefix in GATED_PREFIXES:
             if path.startswith(prefix):
+                # MCP endpoint has its own auth — let it through
+                if path == "/api/cadena/mcp" or path.startswith("/api/cadena/mcp/")\
+                   or path == "/api/private/mcp" or path.startswith("/api/private/mcp/")\
+                   or path == "/api/v2/query" or path.startswith("/api/v2/query/")\
+                   or path == "/api/rpc" or path.startswith("/api/rpc/"):
+                    request.state.user = None
+                    return await call_next(request)
                 return JSONResponse({"error": "Login required"}, status_code=401)
 
         # Everything else is public

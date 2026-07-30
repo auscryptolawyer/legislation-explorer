@@ -23,9 +23,9 @@ import sys
 import time
 from pathlib import Path
 
-import httpx
+from curl_cffi import requests as curl
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s", stream=sys.stdout, force=True)
 log = logging.getLogger(__name__)
 
 # Config
@@ -66,23 +66,34 @@ def get_all_citations() -> list[dict]:
 
 
 def get_existing_downloads() -> set[str]:
-    """Return set of already-downloaded case citations."""
+    """Return set of already-downloaded case citations, using the same format as save_case()."""
     if not CASE_TEXT_DIR.exists():
         return set()
     existing = set()
     for f in CASE_TEXT_DIR.glob("*.html"):
-        existing.add(f.stem)
+        # Reconstruct the original citation: 2002_HCA_18 -> [2002] HCA 18
+        parts = f.stem.split("_", 2)
+        if len(parts) == 3:
+            citation = f"[{parts[0]}] {parts[1]} {parts[2]}"
+            existing.add(citation)
     for f in CASE_TEXT_DIR.glob("*.txt"):
-        existing.add(f.stem)
+        parts = f.stem.split("_", 2)
+        if len(parts) == 3:
+            citation = f"[{parts[0]}] {parts[1]} {parts[2]}"
+            existing.add(citation)
     return existing
 
 
-def download_case(citation: str, court: str, year: str, num: str,
-                  client: httpx.Client) -> str | None:
-    """Download a case from AustLII. Returns the HTML content or None."""
+def download_case(citation: str, court: str, year: str, num: str) -> str | None:
+    """Download a case from AustLII using curl_cffi Chrome impersonation."""
     url = AUSTLII_CASE.format(court=court, year=year, num=num)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Accept": "text/html,application/xhtml+xml",
+        "Accept-Language": "en-AU,en;q=0.9",
+    }
     try:
-        resp = client.get(url, timeout=30, follow_redirects=True)
+        resp = curl.get(url, impersonate="chrome120", headers=headers, timeout=30, verify=False)
         if resp.status_code == 200:
             return resp.text
         log.warning(f"HTTP {resp.status_code} for {citation} ({url})")
@@ -135,22 +146,20 @@ def main():
     if args.limit:
         missing = missing[:args.limit]
 
-    headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"}
     downloaded = 0
     failed = 0
 
-    with httpx.Client(headers=headers, timeout=30, follow_redirects=True) as client:
-        for case in missing:
-            html = download_case(case["citation"], case["court"],
-                                 case["year"], case["num"], client)
-            if html:
-                save_case(case["citation"], html)
-                downloaded += 1
-            else:
-                failed += 1
-            if args.limit and downloaded >= args.limit:
-                break
-            time.sleep(args.delay)
+    for case in missing:
+        html = download_case(case["citation"], case["court"],
+                             case["year"], case["num"])
+        if html:
+            save_case(case["citation"], html)
+            downloaded += 1
+        else:
+            failed += 1
+        if args.limit and downloaded >= args.limit:
+            break
+        time.sleep(args.delay)
 
     log.info(f"Downloaded {downloaded} cases, {failed} failed")
 

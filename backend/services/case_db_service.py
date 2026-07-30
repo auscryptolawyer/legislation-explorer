@@ -11,6 +11,7 @@ import re
 from typing import Any
 
 from backend.services.tax_case_sql import _sql, _sql_dict
+from backend.services.text_cleaner import clean_case_paragraph
 
 logger = logging.getLogger(__name__)
 
@@ -200,9 +201,102 @@ def get_case_metadata(
             f"FROM case_legislation_refs "
             f"WHERE case_id = '{case_id}' ORDER BY paragraph_number",
         )
+        # Post-process: fix known ITAA 1936 sections mislabelled as ITAA 1997
+        # These are simple-integer sections from ITAA 1936 Part III Div 6, 7, 7A, etc.
+        # that the ingestion logic defaulted to 1997.
+        _ITAA1936_SECTIONS = {
+            "s.95", "s.96", "s.97", "s.97(1)", "s.98", "s.99", "s.100", "s.100A",
+            "s.101", "s.102", "s.102A", "s.103", "s.103A", "s.104",
+            "s.105", "s.106", "s.107", "s.108", "s.109", "s.109A",
+            "s.109B", "s.109C", "s.109D", "s.109E", "s.109F", "s.109G",
+            "s.109H", "s.109J", "s.109K", "s.109L", "s.109M", "s.109N",
+            "s.109P", "s.109Q", "s.109R", "s.109S", "s.109T", "s.109U",
+            "s.109V", "s.109W", "s.109X", "s.109Y", "s.109Z", "s.109ZA", "s.109ZB",
+            "s.110", "s.111", "s.112", "s.113", "s.114", "s.115", "s.116",
+            "s.117", "s.118", "s.119", "s.120", "s.121", "s.122", "s.123",
+            "s.124", "s.125", "s.126", "s.127", "s.128",
+            "s.160ZA", "s.160ZB", "s.160ZC", "s.160ZD",
+            "s.177A", "s.177B", "s.177C", "s.177D", "s.177E", "s.177F", "s.177G",
+            "s.200", "s.201", "s.202", "s.202A",
+            "s.221A", "s.221B", "s.221C", "s.221D",
+            "s.221H", "s.221J", "s.221K", "s.221L",
+            "s.221P", "s.221Q", "s.221R", "s.221S", "s.221T",
+            "s.221Y", "s.221YA", "s.221YB", "s.221YC", "s.221YD",
+            "s.221YH", "s.221YHJ", "s.221YHK", "s.221YHL", "s.221YHM",
+            "s.254", "s.255", "s.256", "s.257", "s.258",
+            "s.255-1",  # TAA 1953
+        }
+        for row in leg_rows:
+            ref = (row.get("section_reference") or "").lower().strip()
+            at = row.get("act_title") or ""
+            if "1997" in at and ref in _ITAA1936_SECTIONS:
+                row["act_title"] = "Income Tax Assessment Act 1936"
+                row["_act_corrected"] = True
+            # Also handle subsection variants like s.97(1) by stripping the subsection
+            if "1997" in at and not row.get("_act_corrected"):
+                base_ref = re.sub(r'\(.*\)', '', ref).strip()
+                if base_ref in _ITAA1936_SECTIONS:
+                    row["act_title"] = "Income Tax Assessment Act 1936"
+                    row["_act_corrected"] = True
         result["legislation_refs"] = leg_rows
 
     return result
+
+
+def get_case_references(citation: str) -> dict[str, Any]:
+    """Return legislation references and case citations for a case.
+
+    Queries both ``case_legislation_refs`` and ``case_citations`` tables.
+
+    Args:
+        citation: e.g. ``[2024] HCA 1``.
+
+    Returns:
+        Dict with legislation_refs and case_citations arrays.
+    """
+    safe = _safe(citation)
+
+    # Get case_id
+    id_rows = _sql_dict(
+        ["id"],
+        f"SELECT id FROM cases WHERE citation = '{safe}' LIMIT 1",
+    )
+    if not id_rows:
+        return {"legislation_refs": [], "case_citations": [], "note": "Case not found"}
+
+    case_id = id_rows[0]["id"]
+    cid_str = str(case_id)
+
+    # Legislation refs
+    leg_rows = _sql_dict(
+        ["act_title", "section_reference", "context", "paragraph_number"],
+        f"SELECT act_title, section_reference, context, paragraph_number "
+        f"FROM case_legislation_refs "
+        f"WHERE case_id = '{cid_str}' ORDER BY paragraph_number",
+    )
+
+    # Case citations (cases this case cites)
+    cite_rows = _sql_dict(
+        ["cited_citation", "cited_case_name", "context", "paragraph_number"],
+        f"SELECT cited_citation, cited_case_name, context, paragraph_number "
+        f"FROM case_citations "
+        f"WHERE citing_case_id = '{cid_str}' ORDER BY paragraph_number",
+    )
+
+    # Cases that cite this case
+    cited_by_rows = _sql_dict(
+        ["citation", "case_name"],
+        f"SELECT c.citation, c.case_name FROM case_citations cc "
+        f"JOIN cases c ON c.id = cc.citing_case_id "
+        f"WHERE cc.cited_citation = '{safe}' "
+        f"GROUP BY c.citation, c.case_name ORDER BY c.citation",
+    )
+
+    return {
+        "legislation_refs": leg_rows,
+        "case_citations": cite_rows,
+        "cited_by": cited_by_rows,
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -231,7 +325,7 @@ def get_case_paragraphs(
         # which already scopes by case_id)
         pass
 
-    paragraph_limit = min(100, max(1, paragraph_limit))
+    paragraph_limit = min(200, max(1, paragraph_limit))
 
     # ── WHERE clauses ─────────────────────────────────────────────────────
     wheres = [
@@ -256,7 +350,7 @@ def get_case_paragraphs(
         ["cnt"],
         f"SELECT COUNT(*) as cnt FROM case_paragraphs cp WHERE {where_clause}",
     )
-    total_matching = count_rows[0]["cnt"] if count_rows else 0
+    total_in_case_before_filter = count_rows[0]["cnt"] if count_rows else 0
 
     # ── total_in_case count ───────────────────────────────────────────────
     case_count_rows = _sql_dict(
@@ -283,30 +377,27 @@ def get_case_paragraphs(
         f"OFFSET {int(paragraph_start)} LIMIT {paragraph_limit}",
     )
 
-    # ── content character cap (50K) ───────────────────────────────────────
-    total_chars = 0
-    truncated = False
-    capped_rows: list[dict[str, Any]] = []
+    # Clean AustLII navigation noise from each paragraph
+    filtered_rows = []
     for r in rows:
         content = r.get("content") or ""
-        content_len = len(content)
-        if total_chars + content_len > 50000:
-            truncated = True
-            break
-        capped_rows.append(r)
-        total_chars += content_len
+        content = clean_case_paragraph(content)
+        if not content:
+            continue  # skip paragraphs that are pure noise
+        r["content"] = content
+        filtered_rows.append(r)
 
     return {
         "citation": citation,
-        "total_matching": total_matching,
-        "total_in_case": total_in_case,
-        "returned_count": len(capped_rows),
-        "truncated": truncated,
+        "total_matching": len(filtered_rows),
+        "total_in_case": total_in_case_before_filter,
+        "returned_count": len(filtered_rows),
+        "truncated": False,
         "warning": (
             "Paragraphs may be segmented mid-sentence. Cross-reference with "
             "the full judgment before citing."
         ),
-        "paragraphs": capped_rows,
+        "paragraphs": filtered_rows,
     }
 
 

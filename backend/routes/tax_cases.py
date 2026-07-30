@@ -14,6 +14,7 @@ from fastapi.responses import JSONResponse
 
 from backend.config import DATA_DIR
 from backend.services.case_db_service import get_case_metadata, get_case_paragraphs
+from backend.services.text_cleaner import clean_case_paragraph
 
 logger = logging.getLogger(__name__)
 
@@ -191,7 +192,7 @@ def get_tax_case_paragraphs(
     Query params:
     - section_types: comma-separated list (e.g. "FACTS,REASONING")
     - paragraph_start: offset into matching results
-    - paragraph_limit: max paragraphs (default 50, max 100)
+    - paragraph_limit: max paragraphs (default 50, max 200)
     - range_start: minimum sequence_order
     - range_end: maximum sequence_order
     """
@@ -207,6 +208,26 @@ def get_tax_case_paragraphs(
     if "error" in result:
         return JSONResponse(result, status_code=400)
     return result
+
+
+@router.get("/api/tax-cases/case/{citation:path}/download")
+def download_case_html(citation: str):
+    """Serve the raw AustLII HTML for a case as a downloadable file."""
+    m = CITATION_RE.match(citation)
+    if not m:
+        return JSONResponse({"error": f"Could not parse citation: {citation}"}, status_code=400)
+    year, court, number = m.groups()
+    filename = f"{year}_{court}_{number}.html"
+    filepath = DATA_DIR / "case_texts" / filename
+    if not filepath.exists():
+        return JSONResponse({"error": f"Raw HTML not found for {citation}"}, status_code=404)
+    from fastapi.responses import FileResponse
+    return FileResponse(
+        path=filepath,
+        filename=filename,
+        media_type="text/html",
+        headers={"Content-Disposition": f'attachment; filename="{filename}"'},
+    )
 
 
 @router.get("/api/tax-cases/case/{citation:path}")

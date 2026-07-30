@@ -12,6 +12,7 @@ from ..config import RULING_DIR, ATO_RULING_DIR
 from ..services.data_loader import (
     load_rulings, get_act_section_content, load_ruling_section_refs
 )
+from ..services.text_cleaner import clean_ruling_body
 
 logger = logging.getLogger(__name__)
 
@@ -161,6 +162,24 @@ def _strip_ato_id_header(text: str) -> str:
         return '\n'.join(lines[i:])
     return text
 
+@router.get("/api/ruling/{citation:path}/download")
+def download_ruling(citation: str):
+    import re as _re
+    citation = citation.replace("%20", " ")
+    normalized = _re.sub(r'[\s/]+', '_', citation).strip('_')
+    for r in load_rulings():
+        if r["citation"] in {normalized}:
+            path = Path(r["source"])
+            if path.exists():
+                return FileResponse(
+                    path=path,
+                    filename=path.name,
+                    media_type="text/plain",
+                    headers={"Content-Disposition": f'attachment; filename="{path.name}"'},
+                )
+    raise HTTPException(status_code=404, detail=f"Ruling {citation} not found")
+
+
 @router.get("/api/ruling/{citation:path}")
 def get_ruling(citation: str):
     import re as _re
@@ -179,7 +198,9 @@ def get_ruling(citation: str):
                 content = path.read_text(encoding="utf-8")
                 content = _strip_ato_id_header(content)
                 referenced_sections = load_ruling_section_refs(citation)
-                body = f"# {r.get('citation_display', r['title'])}\n\n**Type:** {TYPE_DISPLAY.get(r['type'], r['type'])}\n\n**Year:** {r['year']}\n\n---\n\n{content}"
+                # Clean the ruling body
+                cleaned = clean_ruling_body(content)
+                body = cleaned["body"]
                 return {
                     "frontmatter": {
                         "act": "ATO Rulings",
@@ -187,6 +208,7 @@ def get_ruling(citation: str):
                         "part": r["type"],
                         "division": str(r["year"]),
                     },
+                    "descriptive_title": cleaned["descriptive_title"],
                     "body": body,
                     "citation": r["citation"],
                     "type": r["type"],

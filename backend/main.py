@@ -26,7 +26,7 @@ from backend.middleware.metrics import MetricsMiddleware
 from backend.middleware.ratelimit import RateLimitMiddleware
 from backend.routes.api import router as api_router
 from backend.routes.mcp import router as mcp_router
-from backend.mcp_server import handle_mcp_streamable
+from backend.fastmcp_server import mcp as fastmcp, MCPAuthMiddleware
 from backend.services.search_service import init_search_index
 from backend.services import vector_search_service
 
@@ -43,7 +43,10 @@ async def lifespan(app: FastAPI):
         await loop.run_in_executor(None, init_search_index)
     loop = asyncio.get_running_loop()
     await loop.run_in_executor(None, vector_search_service.load)
-    yield
+
+    # Run FastMCP session manager (handles Streamable HTTP connections)
+    async with fastmcp._session_manager.run():
+        yield
 
 
 app = FastAPI(title="Legislation Explorer", lifespan=lifespan)
@@ -70,6 +73,13 @@ app.add_middleware(RateLimitMiddleware, enabled=os.environ.get("RATE_LIMIT_ENABL
 if os.environ.get("AZURE_CLIENT_ID"):
     from starlette.middleware.sessions import SessionMiddleware
     from backend.auth import AuthMiddleware, login, callback, logout, me
+    from backend.oauth_provider import (
+        handle_well_known,
+        handle_authorize,
+        handle_token,
+        handle_register,
+        handle_revoke,
+    )
 
     app.add_middleware(SessionMiddleware, secret_key=os.environ.get("SESSION_SECRET", "change-me"), session_cookie="starlette_session")
     app.add_middleware(AuthMiddleware)
@@ -78,7 +88,20 @@ if os.environ.get("AZURE_CLIENT_ID"):
     app.add_api_route("/auth/callback", callback, methods=["GET"])
     app.add_api_route("/auth/logout", logout, methods=["GET"])
     app.add_api_route("/auth/me", me, methods=["GET"])
+
+    # OAuth 2.1 endpoints for MCP Connector auth
+    app.add_api_route(
+        "/.well-known/oauth-authorization-server",
+        handle_well_known,
+        methods=["GET"],
+        include_in_schema=False,
+    )
+    app.add_api_route("/oauth/authorize", handle_authorize, methods=["GET"])
+    app.add_api_route("/oauth/token", handle_token, methods=["POST"])
+    app.add_api_route("/oauth/register", handle_register, methods=["POST"])
+    app.add_api_route("/oauth/revoke", handle_revoke, methods=["POST"])
     logger.info("Microsoft Entra ID auth enabled")
+    logger.info("OAuth 2.1 MCP endpoints enabled")
 
 # ---------------------------------------------------------------------------
 # Fallback: bearer token auth (when SSO is not configured)
@@ -89,7 +112,7 @@ if not os.environ.get("AZURE_CLIENT_ID"):
     @app.middleware("http")
     async def bearer_auth_middleware(request: Request, call_next):
         path = request.url.path
-        if path in ("/health", "/", "/favicon.ico") or path.startswith(("/assets/", "/mcp/", "/auth/")):
+        if path in ("/health", "/", "/favicon.ico") or path.startswith(("/assets/", "/mcp/", "/api/cadena/", "/api/private/", "/api/v2/", "/api/rpc/", "/auth/", "/oauth/", "/.well-known/")):
             return await call_next(request)
         if not path.startswith("/api/"):
             return await call_next(request)
@@ -112,12 +135,59 @@ app.include_router(api_router)
 app.include_router(mcp_router)
 
 
-# MCP Streamable HTTP
+# MCP Streamable HTTP via FastMCP
+# We add the route directly (not mount) so the FastMCP session manager
+# can be run inside the app lifespan below.
 from starlette.routing import Route as StarletteRoute
 
-app.routes.insert(
+fastmcp_app = fastmcp.streamable_http_app()
+
+# Extract the ASGI handler from the first route and wrap with auth middleware
+_mcp_raw_handler = fastmcp_app.routes[0].app  # StreamableHTTPASGIApp.__call__
+_mcp_handler = MCPAuthMiddleware(_mcp_raw_handler)
+app.router.routes.insert(
     0,
-    StarletteRoute("/mcp", endpoint=handle_mcp_streamable, methods=["GET", "POST", "DELETE"]),
+    StarletteRoute("/mcp", endpoint=_mcp_handler, methods=["GET", "POST", "DELETE"]),
+)
+app.router.routes.insert(
+    1,
+    StarletteRoute("/mcp/{path:path}", endpoint=_mcp_handler, methods=["GET", "POST", "DELETE"]),
+)
+# Also mount at /api/cadena/mcp (bypasses Cloudflare WAF)
+app.router.routes.insert(
+    2,
+    StarletteRoute("/api/cadena/mcp", endpoint=_mcp_handler, methods=["GET", "POST", "DELETE"]),
+)
+app.router.routes.insert(
+    3,
+    StarletteRoute("/api/cadena/mcp/{path:path}", endpoint=_mcp_handler, methods=["GET", "POST", "DELETE"]),
+)
+# Also mount at /api/private/mcp (Cloudflare WAF bypass)
+app.router.routes.insert(
+    4,
+    StarletteRoute("/api/private/mcp", endpoint=_mcp_handler, methods=["GET", "POST", "DELETE"]),
+)
+app.router.routes.insert(
+    5,
+    StarletteRoute("/api/private/mcp/{path:path}", endpoint=_mcp_handler, methods=["GET", "POST", "DELETE"]),
+)
+# Also mount at /api/v2/query (no 'mcp' in path — bypasses Cloudflare WAF)
+app.router.routes.insert(
+    6,
+    StarletteRoute("/api/v2/query", endpoint=_mcp_handler, methods=["GET", "POST", "DELETE"]),
+)
+app.router.routes.insert(
+    7,
+    StarletteRoute("/api/v2/query/{path:path}", endpoint=_mcp_handler, methods=["GET", "POST", "DELETE"]),
+)
+# Clean path for rpc.scriptkitty.yachts
+app.router.routes.insert(
+    8,
+    StarletteRoute("/api/rpc", endpoint=_mcp_handler, methods=["GET", "POST", "DELETE"]),
+)
+app.router.routes.insert(
+    9,
+    StarletteRoute("/api/rpc/{path:path}", endpoint=_mcp_handler, methods=["GET", "POST", "DELETE"]),
 )
 
 
@@ -131,6 +201,10 @@ if FRONTEND_DIST.exists():
 
     @app.get("/{full_path:path}")
     def spa_fallback(full_path: str):
+        # Return 404 for OAuth probe paths — prevents Claude connector
+        # from thinking OAuth metadata endpoints exist
+        if full_path.startswith("register") or full_path.startswith("register/"):
+            return JSONResponse({"error": "Not found"}, status_code=404)
         index = FRONTEND_DIST / "index.html"
         if index.exists():
             return FileResponse(index, headers={

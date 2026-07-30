@@ -27,7 +27,7 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
   const [renameValue, setRenameValue] = useState('');
 
   const baseUrl = 'https://legislation.scriptkitty.yachts/mcp';
-  const fullUrl = generatedToken ? `${baseUrl}?token=${generatedToken}` : baseUrl;
+  const fullUrl = generatedToken ? `${baseUrl}/${generatedToken}` : baseUrl;
 
   useEffect(() => {
     if (open) {
@@ -322,9 +322,20 @@ const MCPModal: React.FC<MCPModalProps> = ({ open, onClose }) => {
           </div>
         )}
 
-        <p style={{ color: COLORS.textMuted, fontSize: 12, margin: '20px 0 0 0', lineHeight: 1.4 }}>
-          In Claude Desktop, go to <strong>Settings → Developer → Add MCP Server</strong> and paste the URL above.
-        </p>
+      <p style={{ color: COLORS.textMuted, fontSize: 12, margin: '20px 0 0 0', lineHeight: 1.4 }}>
+        In Claude Desktop, go to <strong>Settings → Developer → Connectors</strong>, click <strong>Add Custom Connector</strong>:
+      </p>
+      <div style={{
+        background: COLORS.bg, color: COLORS.text,
+        padding: 12, borderRadius: 6, fontSize: 11,
+        fontFamily: 'monospace', margin: '8px 0 0 0',
+        border: `1px solid ${COLORS.border}`,
+        lineHeight: 1.5,
+      }}>
+        <div><strong>Name:</strong> Legislation Explorer</div>
+        <div><strong>URL:</strong> <code style={{wordBreak: 'break-all'}}>{fullUrl}</code></div>
+        <div style={{marginTop: 4, color: COLORS.textMuted}}>Leave OAuth optional items blank.</div>
+      </div>
       </div>
     </div>
   );

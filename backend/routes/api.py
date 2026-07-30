@@ -15,6 +15,7 @@ from .comments import router as comments_router
 from .tax_cases import router as tax_cases_router
 from .user_prefs import router as user_prefs_router
 from .admin import router as admin_router
+from .data_versions import router as data_versions_router
 
 router = APIRouter()
 router.include_router(acts_router)
@@ -27,11 +28,26 @@ router.include_router(comments_router)
 router.include_router(tax_cases_router)
 router.include_router(user_prefs_router)
 router.include_router(admin_router)
+router.include_router(data_versions_router)
 
 
-VERSION = "2.4.0"
+VERSION = "2.5.0"
 
 CHANGELOG = [
+    {
+        "version": "2.5.0",
+        "date": "2026-07-29",
+        "title": "Rulings sidebar + dedicated pages, court-grouped cases, hyperlinked cross-references",
+        "changes": [
+            "Rulings sidebar tree (act='rulings') — browse by year → type, click to open full text",
+            "Dedicated /rulings/{citation} pages for all 7,310 ATO rulings — full text + referenced sections",
+            "Fixed URL routing for ruling citations with slashes (TR 2025/1, PS LA 2011/10)",
+            "Cases on section pages now grouped by court: High Court, Full Federal Court, Federal Court, AAT",
+            "Legislation references in case detail pages are hyperlinked — click to navigate to the section",
+            "Case citations on section pages are hyperlinked — click to open the tax case page",
+            "Version bumped to 2.5.0",
+        ],
+    },
     {
         "version": "2.4.0",
         "date": "2026-07-27",
