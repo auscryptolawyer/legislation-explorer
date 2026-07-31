@@ -69,24 +69,6 @@ export const api = {
   },
   ruling: (citation: string) => fetchJson(`/ruling/${encodeURIComponent(citation)}`),
   taxCase: (citation: string) => fetchJson(`/tax-cases/case/${encodeURIComponent(citation)}`),
-  taxCaseParagraphs: (citation: string, opts?: {
-    section_types?: string
-    paragraph_start?: number
-    paragraph_limit?: number
-    range_start?: number
-    range_end?: number
-  }) => {
-    let url = `/tax-cases/case/${encodeURIComponent(citation)}/paragraphs`
-    const params = new URLSearchParams()
-    if (opts?.section_types) params.set('section_types', opts.section_types)
-    if (opts?.paragraph_start !== undefined) params.set('paragraph_start', String(opts.paragraph_start))
-    if (opts?.paragraph_limit !== undefined) params.set('paragraph_limit', String(opts.paragraph_limit))
-    if (opts?.range_start !== undefined) params.set('range_start', String(opts.range_start))
-    if (opts?.range_end !== undefined) params.set('range_end', String(opts.range_end))
-    const qs = params.toString()
-    if (qs) url += `?${qs}`
-    return fetchJson(url)
-  },
   rulingSections: (citation: string) => fetchJson(`/ruling-sections/${encodeURIComponent(citation)}`),
   listComments: (act: string, section: string) => fetchJson(`/comments/${act}/${section}`),
   createComment: (act: string, section: string, author: string, text: string) =>

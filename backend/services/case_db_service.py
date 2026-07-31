@@ -204,40 +204,59 @@ def get_case_metadata(
         # Post-process: fix known ITAA 1936 sections mislabelled as ITAA 1997
         # These are simple-integer sections from ITAA 1936 Part III Div 6, 7, 7A, etc.
         # that the ingestion logic defaulted to 1997.
-        _ITAA1936_SECTIONS = {
-            "s.95", "s.96", "s.97", "s.97(1)", "s.98", "s.99", "s.100", "s.100A",
-            "s.101", "s.102", "s.102A", "s.103", "s.103A", "s.104",
-            "s.105", "s.106", "s.107", "s.108", "s.109", "s.109A",
-            "s.109B", "s.109C", "s.109D", "s.109E", "s.109F", "s.109G",
-            "s.109H", "s.109J", "s.109K", "s.109L", "s.109M", "s.109N",
-            "s.109P", "s.109Q", "s.109R", "s.109S", "s.109T", "s.109U",
-            "s.109V", "s.109W", "s.109X", "s.109Y", "s.109Z", "s.109ZA", "s.109ZB",
+        # Normalise to lowercase for case-insensitive matching against DB values.
+        _ITAA1936_SECTIONS_LOWER = {
+            "s.95", "s.96", "s.97", "s.97(1)", "s.98", "s.99", "s.100", "s.100a",
+            "s.101", "s.102", "s.102a", "s.103", "s.103a", "s.104",
+            "s.105", "s.106", "s.107", "s.108", "s.109", "s.109a",
+            "s.109b", "s.109c", "s.109d", "s.109e", "s.109f", "s.109g",
+            "s.109h", "s.109j", "s.109k", "s.109l", "s.109m", "s.109n",
+            "s.109p", "s.109q", "s.109r", "s.109s", "s.109t", "s.109u",
+            "s.109v", "s.109w", "s.109x", "s.109y", "s.109z", "s.109za", "s.109zb",
             "s.110", "s.111", "s.112", "s.113", "s.114", "s.115", "s.116",
             "s.117", "s.118", "s.119", "s.120", "s.121", "s.122", "s.123",
             "s.124", "s.125", "s.126", "s.127", "s.128",
-            "s.160ZA", "s.160ZB", "s.160ZC", "s.160ZD",
-            "s.177A", "s.177B", "s.177C", "s.177D", "s.177E", "s.177F", "s.177G",
-            "s.200", "s.201", "s.202", "s.202A",
-            "s.221A", "s.221B", "s.221C", "s.221D",
-            "s.221H", "s.221J", "s.221K", "s.221L",
-            "s.221P", "s.221Q", "s.221R", "s.221S", "s.221T",
-            "s.221Y", "s.221YA", "s.221YB", "s.221YC", "s.221YD",
-            "s.221YH", "s.221YHJ", "s.221YHK", "s.221YHL", "s.221YHM",
+            "s.160za", "s.160zb", "s.160zc", "s.160zd",
+            "s.177a", "s.177b", "s.177c", "s.177d", "s.177e", "s.177f", "s.177g",
+            "s.200", "s.201", "s.202", "s.202a",
+            "s.221a", "s.221b", "s.221c", "s.221d",
+            "s.221h", "s.221j", "s.221k", "s.221l",
+            "s.221p", "s.221q", "s.221r", "s.221s", "s.221t",
+            "s.221y", "s.221ya", "s.221yb", "s.221yc", "s.221yd",
+            "s.221yh", "s.221yhj", "s.221yhk", "s.221yhl", "s.221yhm",
             "s.254", "s.255", "s.256", "s.257", "s.258",
             "s.255-1",  # TAA 1953
         }
+        # Heuristic: any unhyphenated 109-series section reference (s.109* without hyphen)
+        # defaults to ITAA 1936 (Division 7A and adjacent provisions).
+        _109_SERIES_RE = re.compile(r'^s\.109[a-z0-9]+(?:\(.*\))?$')
+
         for row in leg_rows:
             ref = (row.get("section_reference") or "").lower().strip()
             at = row.get("act_title") or ""
-            if "1997" in at and ref in _ITAA1936_SECTIONS:
+            is_1997 = "1997" in at
+
+            if not is_1997:
+                continue
+
+            # Exact match against known ITAA 1936 sections (all lowercase set)
+            if ref in _ITAA1936_SECTIONS_LOWER:
                 row["act_title"] = "Income Tax Assessment Act 1936"
                 row["_act_corrected"] = True
-            # Also handle subsection variants like s.97(1) by stripping the subsection
-            if "1997" in at and not row.get("_act_corrected"):
-                base_ref = re.sub(r'\(.*\)', '', ref).strip()
-                if base_ref in _ITAA1936_SECTIONS:
-                    row["act_title"] = "Income Tax Assessment Act 1936"
-                    row["_act_corrected"] = True
+                continue
+
+            # Handle subsection variants like s.97(1) by stripping the subsection
+            base_ref = re.sub(r'\(.*\)', '', ref).strip()
+            if base_ref in _ITAA1936_SECTIONS_LOWER:
+                row["act_title"] = "Income Tax Assessment Act 1936"
+                row["_act_corrected"] = True
+                continue
+
+            # Heuristic: unhyphenated 109-series → ITAA 1936
+            # Covers s.109B, s.109R, s.109XB, s.109XA(1), s.109BC, s.109XG, etc.
+            if _109_SERIES_RE.match(ref) or _109_SERIES_RE.match(base_ref):
+                row["act_title"] = "Income Tax Assessment Act 1936"
+                row["_act_corrected"] = True
         result["legislation_refs"] = leg_rows
 
     return result
@@ -584,16 +603,23 @@ def build_download_urls(citation: str) -> dict[str, Any] | None:
     return {
         "citation": citation,
         "case_name": case_name,
-        "austlii_url": austlii_url,
-        "court_url": court_url,
         "content_length": content_length,
         "paragraph_count": para_count,
-        "note": (
-            "Full text is available for download from AustLII or court "
-            "website. MCP does not serve full text to avoid context "
-            "overflow. Use get_case_paragraphs for structured access. "
-            "If downloading via curl/HTTP fails (e.g. bot protection on "
-            "AustLII), ask the user to open the URL in a regular browser "
-            "to download the case manually."
-        ),
+        "sources": {
+            "text": {
+                "url": f"/api/tax-cases/case/{_safe(citation)}/download",
+                "fetchable": True,
+                "note": "Full judgment. Use this to read or verify.",
+            },
+            "court": {
+                "url": court_url,
+                "fetchable": court_url is not None,
+                "note": "For citation and human reference. May block non-browser clients.",
+            },
+            "austlii": {
+                "url": austlii_url,
+                "fetchable": False,
+                "note": "For citation and human reference. Bot-protected, typically 403 to automated clients.",
+            },
+        },
     }

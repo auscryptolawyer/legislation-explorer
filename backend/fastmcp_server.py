@@ -363,7 +363,7 @@ async def search_cases(query: str, limit: int = 20) -> str:
 
     Searches across facts, issues, held, reasoning, outcome, cases_cited,
     and legislation_cited fields. Returns matching citations with summaries;
-    use get_case for full details and download_case for full text URLs.
+    use get_case for full details and judgment text.
     """
     limit = min(100, max(1, limit))
     query = query.strip().lower()
@@ -528,8 +528,8 @@ async def get_info() -> str:
                 "find a provision by its words": "search_legislation",
                 "defined term": "get_definition",
                 "browse an act's structure": "get_act_tree",
-                "case by name or topic": "search_cases -> get_case -> download_case",
-                "full judgment text": "download_case",
+                "case by name or topic": "search_cases -> get_case (with search= for text-in-judgment lookup)",
+                "full judgment text": "get_case().sources.text.url",
                 "ATO guidance on a provision": "get_rulings_for_section -> get_ruling",
                 "ruling by citation": "get_ruling",
                 "how we work: matters, verification, toolchain": "standards",
@@ -688,16 +688,28 @@ async def get_ruling(citation: str) -> str:
 @mcp.tool()
 async def get_case(
     citation: str,
+    search: str = "",
+    context: int = 2,
 ) -> str:
-    """Get case metadata, AI summary, legislation references, case citations, and download links.
+    """Get case metadata, AI summary, legislation references, case citations, and judgment text.
 
     Returns structured summary with facts, issues, held, reasoning, outcome,
-    cases cited, legislation cited, and download URLs for full judgment text.
+    cases cited, legislation cited, and structured sources with fetchable flags.
+
+    When search is provided, performs case-insensitive substring match over
+    the full judgment text and returns matching windows with surrounding context.
+    A miss returns hits: 0 — not an error.
+
+    Parameters:
+    - citation: Case citation, e.g. [2015] HCA 48
+    - search: Optional text to find in the full judgment body
+    - context: Sentences of context around each match (default 2)
     """
     from urllib.parse import quote
+    import html as html_mod
     citation_norm = _normalise_case_citation(citation) or citation
     dev_site_url = f"https://dev.scriptkitty.yachts/tax-cases/{quote(citation_norm)}"
-    download_urls = build_download_urls(citation_norm)
+    dl_result = build_download_urls(citation_norm)
 
     safe_name = citation_norm.replace(" ", "_").replace("[", "").replace("]", "").replace("/", "_")
     summary_path = Path("/home/harrison/legislation-explorer/scripts/cleaned/summaries") / f"{safe_name}.json"
@@ -718,6 +730,10 @@ async def get_case(
                     "or check format — required: [2024] HCA 1",
         })
 
+    # Strip unreliable paragraph-layer fields
+    result.pop("section_outline", None)
+    result.pop("paragraph_count", None)
+
     # Fetch case citations (cited cases + cited-by)
     refs = get_case_references(citation_norm)
 
@@ -725,11 +741,106 @@ async def get_case(
     result["legislation_refs"] = result.pop("legislation_refs", [])
     result["case_citations"] = refs.get("case_citations", [])
     result["cited_by"] = refs.get("cited_by", [])
-    result["download_urls"] = {
-        "html_url": dev_site_url,
-        "austlii_url": download_urls.get("austlii_url") if download_urls else None,
-        "court_url": download_urls.get("court_url") if download_urls else None,
-    }
+
+    # Structured sources with fetchable flags
+    if dl_result and "sources" in dl_result:
+        result["sources"] = dl_result["sources"]
+        # Add the hosted browser URL as browser source
+        result["sources"]["browser"] = {
+            "url": dev_site_url,
+            "fetchable": False,
+            "note": "SPA route. Browser only.",
+        }
+    else:
+        result["sources"] = {
+            "text": {"url": None, "fetchable": False, "note": "Not available."},
+            "browser": {"url": dev_site_url, "fetchable": False, "note": "SPA route. Browser only."},
+        }
+
+    # Search-in-text feature
+    if search.strip():
+        m = _CASE_CITATION_RE.search(citation_norm)
+        if m:
+            year, raw_court, number = m.groups()
+            court_key = raw_court.strip()
+            filename = f"{year}_{court_key}_{number}.html"
+            text_path = DATA_DIR / "case_texts" / filename
+            if text_path.exists():
+                try:
+                    raw_html = text_path.read_text(encoding="utf-8", errors="replace")
+                    # Strip HTML tags to get plain text
+                    text = _re.sub(r"<[^>]+>", " ", raw_html)
+                    text = _re.sub(r"\s+", " ", text).strip()
+                    # Decode HTML entities
+                    text = html_mod.unescape(text)
+
+                    query = search.strip()
+                    matches = []
+                    # Case-insensitive find with context windows
+                    # Split into sentences for context boundaries
+                    sentences = _re.split(r"(?<=[.!?])\s+", text)
+                    # For each sentence, check if it matches
+                    hit_indices = []
+                    for i, sent in enumerate(sentences):
+                        if query.lower() in sent.lower():
+                            hit_indices.append(i)
+
+                    if hit_indices:
+                        for idx in hit_indices:
+                            start = max(0, idx - context)
+                            end = min(len(sentences), idx + context + 1)
+                            window = sentences[start:end]
+                            window_text = " ".join(window)
+                            # Find character offset in original text
+                            char_offset = text.find(window_text[:100])
+                            matches.append({
+                                "text": window_text,
+                                "sentence_index": idx,
+                                "char_offset": char_offset,
+                                "context_sentences_before": idx - start,
+                                "context_sentences_after": end - idx - 1,
+                            })
+
+                        # Cap at ~6000 tokens (roughly 24000 chars)
+                        token_budget = 24000
+                        truncated = False
+                        capped_matches = []
+                        total_chars = 0
+                        for hit in matches:
+                            hit_len = len(hit["text"]) + 50  # overhead
+                            if total_chars + hit_len > token_budget:
+                                truncated = True
+                                break
+                            capped_matches.append(hit)
+                            total_chars += hit_len
+
+                        result["text_search"] = {
+                            "query": query,
+                            "hits": len(hit_indices),
+                            "matches": capped_matches,
+                            "truncated": truncated,
+                            "note": "Offsets are character positions in the raw text, NOT paragraph or pin-cite numbers.",
+                        }
+                    else:
+                        result["text_search"] = {
+                            "query": query,
+                            "hits": 0,
+                            "matches": [],
+                            "truncated": False,
+                        }
+                except Exception as exc:
+                    result["text_search"] = {
+                        "query": search.strip(),
+                        "error": str(exc),
+                        "hits": 0,
+                    }
+            else:
+                result["text_search"] = {
+                    "query": search.strip(),
+                    "error": f"Full text file not found: {filename}",
+                    "hits": 0,
+                }
+
     return json.dumps(result, indent=2)
 
 
@@ -738,8 +849,8 @@ async def case_legislation_refs(citation: str) -> str:
     """Get legislation references and case citations for a case.
 
     Returns all legislation sections cited in the case, cases cited by the
-    case, and cases that cite this case. Use case_link for download URLs
-    and get_case for the full combined view.
+    case, and cases that cite this case. Use get_case for the full combined view
+    including metadata, AI summary, and structured download sources.
     """
     from urllib.parse import quote
     citation_norm = _normalise_case_citation(citation) or citation
@@ -751,34 +862,6 @@ async def case_legislation_refs(citation: str) -> str:
         "case_citations": refs.get("case_citations", []),
         "cited_by": refs.get("cited_by", []),
     }, indent=2)
-
-
-@mcp.tool()
-async def case_link(citation: str) -> str:
-    """Get download links for a case: court website, AustLII, and hosted HTML.
-
-    Ordered by preference: court URL first (most authoritative),
-    then AustLII, then hosted HTML.
-    """
-    from urllib.parse import quote
-    citation_norm = _normalise_case_citation(citation) or citation
-    result = build_download_urls(citation_norm)
-    if result is None:
-        return json.dumps({"error": f"Could not parse or find case: {citation}"})
-
-    dev_url = f"https://legislation.scriptkitty.yachts/tax-cases/{quote(citation_norm)}"
-    ordered = {
-        "citation": result.get("citation"),
-        "case_name": result.get("case_name"),
-        "court_url": result.get("court_url"),
-        "austlii_url": result.get("austlii_url"),
-        "html_url": result.get("html_url", dev_url),
-        "content_length": result.get("content_length"),
-        "paragraph_count": result.get("paragraph_count"),
-        "note": ("Full text available for download. Court website is most authoritative, "
-                 "then AustLII, then hosted HTML."),
-    }
-    return json.dumps(ordered, indent=2)
 
 
 @mcp.tool()
@@ -986,10 +1069,4 @@ async def report_issue(
     })
 
 
-@mcp.tool()
-async def download_case(citation: str) -> str:
-    """⚠️ DEPRECATED — Use case_link instead.
-    Get download links for a case: court website, AustLII, and hosted HTML."""
-    import warnings
-    warnings.warn("download_case is deprecated, use case_link", DeprecationWarning)
-    return await case_link(citation)
+

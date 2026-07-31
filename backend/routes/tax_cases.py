@@ -13,8 +13,7 @@ from fastapi import APIRouter, Request
 from fastapi.responses import JSONResponse
 
 from backend.config import DATA_DIR
-from backend.services.case_db_service import get_case_metadata, get_case_paragraphs
-from backend.services.text_cleaner import clean_case_paragraph
+from backend.services.case_db_service import get_case_metadata
 
 logger = logging.getLogger(__name__)
 
@@ -176,38 +175,6 @@ def tax_cases_sidebar():
             "years": year_list,
         })
     return {"courts": result}
-
-
-@router.get("/api/tax-cases/case/{citation:path}/paragraphs")
-def get_tax_case_paragraphs(
-    citation: str,
-    section_types: str = "",
-    paragraph_start: int = 0,
-    paragraph_limit: int = 50,
-    range_start: int | None = None,
-    range_end: int | None = None,
-):
-    """Fetch paragraphs for a case, filtered by section type and/or range.
-
-    Query params:
-    - section_types: comma-separated list (e.g. "FACTS,REASONING")
-    - paragraph_start: offset into matching results
-    - paragraph_limit: max paragraphs (default 50, max 200)
-    - range_start: minimum sequence_order
-    - range_end: maximum sequence_order
-    """
-    types_list = [s.strip() for s in section_types.split(",") if s.strip()] if section_types else None
-    result = get_case_paragraphs(
-        citation=citation,
-        section_types=types_list,
-        paragraph_start=paragraph_start,
-        paragraph_limit=paragraph_limit,
-        range_start=range_start,
-        range_end=range_end,
-    )
-    if "error" in result:
-        return JSONResponse(result, status_code=400)
-    return result
 
 
 @router.get("/api/tax-cases/case/{citation:path}/download")
