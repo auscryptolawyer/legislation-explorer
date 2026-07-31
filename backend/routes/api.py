@@ -17,6 +17,8 @@ from .user_prefs import router as user_prefs_router
 from .admin import router as admin_router
 from .data_versions import router as data_versions_router
 
+from .graph import router as graph_router
+
 router = APIRouter()
 router.include_router(acts_router)
 router.include_router(definitions_router)
@@ -29,6 +31,7 @@ router.include_router(tax_cases_router)
 router.include_router(user_prefs_router)
 router.include_router(admin_router)
 router.include_router(data_versions_router)
+router.include_router(graph_router)
 
 
 VERSION = "2.6.0"

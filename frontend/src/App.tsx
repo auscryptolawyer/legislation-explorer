@@ -14,6 +14,7 @@ import SectionContent from './components/SectionContent'
 import RulingContent from './components/RulingContent'
 import TaxCaseContent from './components/TaxCaseContent'
 import SettingsPanel from './components/SettingsPanel'
+import GraphModal from './components/GraphModal'
 import SearchPanel from './components/SearchPanel'
 import { ThemeProvider } from './ThemeContext'
 import { shortActName } from './utils/display'
@@ -93,6 +94,13 @@ export default function App() {
   const [changelogOpen, setChangelogOpen] = useState(false)
   const [hofOpen, setHofOpen] = useState(false)
   const [hofData, setHofData] = useState<any>(null)
+  const [graphOpen, setGraphOpen] = useState<{
+    type: 'section' | 'ruling' | 'case'
+    act?: string
+    section?: string
+    citation?: string
+    label: string
+  } | null>(null)
   const [bugReportPending, setBugReportPending] = useState(() => {
     try { return JSON.parse(localStorage.getItem('bugReports') || '[]').length }
     catch { return 0 }
@@ -628,6 +636,36 @@ export default function App() {
                 <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
               </svg>
             </button>
+            <button
+              onClick={() => {
+                const isRuling = activeRuling && rulingData
+                const isCase = window.location.pathname.startsWith('/tax-cases/')
+                if (isRuling) {
+                  setGraphOpen({ type: 'ruling', citation: activeRuling!, label: activeRuling! })
+                } else if (isCase) {
+                  const citation = window.location.pathname.replace('/tax-cases/', '')
+                  setGraphOpen({ type: 'case', citation: decodeURIComponent(citation), label: decodeURIComponent(citation) })
+                } else {
+                  setGraphOpen({ type: 'section', act, section: activeSection, label: `${act}/${activeSection}` })
+                }
+              }}
+              title="Knowledge graph"
+              style={{
+                padding: '6px 8px', borderRadius: 6,
+                background: COLORS.surface, color: COLORS.textMuted,
+                border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+              }}
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <circle cx="12" cy="12" r="3"/>
+                <circle cx="19" cy="5" r="2"/>
+                <circle cx="5" cy="19" r="2"/>
+                <line x1="12" y1="9" x2="19" y2="7"/>
+                <line x1="5" y1="17" x2="12" y2="15"/>
+                <line x1="7" y1="19" x2="17" y2="7"/>
+              </svg>
+            </button>
           </div>
         )}
 
@@ -775,6 +813,18 @@ export default function App() {
       <MCPModal open={mcpOpen} onClose={() => setMcpOpen(false)} />
       {settingsOpen && <SettingsPanel onClose={() => setSettingsOpen(false)} />}
       <KeyboardShortcuts showShortcuts={showShortcuts} setShowShortcuts={setShowShortcuts} />
+
+      {/* Knowledge graph modal */}
+      {graphOpen && (
+        <GraphModal
+          type={graphOpen.type}
+          act={graphOpen.act}
+          section={graphOpen.section}
+          citation={graphOpen.citation}
+          label={graphOpen.label}
+          onClose={() => setGraphOpen(null)}
+        />
+      )}
 
       {/* Bug report modal */}
       {bugReportOpen && (
