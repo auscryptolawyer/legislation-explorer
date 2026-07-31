@@ -35,6 +35,26 @@ VERSION = "2.6.0"
 
 CHANGELOG = [
     {
+        "version": "2.6.0",
+        "date": "2026-07-31",
+        "title": "FTS5 search, OAuth/Streamable HTTP MCP, inline ruling display, bug-fix cron",
+        "changes": [
+            "Full-text search via FTS5 across all 11,339 ATO rulings — interactive full-page results with snippet highlights",
+            "FTS5 search index rebuilt with WAL mode — 259 MB covering rulings, legislation, cases, and definitions",
+            "OAuth 2.1 authorization server — /.well-known/oauth-authorization-server, /oauth/authorize, /oauth/token, /oauth/register",
+            "MCP transport migrated from SSE to Streamable HTTP — single endpoint with standard protocol compliance",
+            "Report bug mechanism — MCP report_issue tool creates entries in a bugs table with hit tracking",
+            "MCP standards tool — lists design principles, style guide, and code conventions",
+            "Ruling display redesign — subject, question, background, and ruling text shown inline (no collapsible dropdown)",
+            "MCP get_info upgraded to v2.6.0 spec — returns version, changelog, tool descriptions, and per-database coverage counts (tax: 7,845, asic: 1,081, aml: 0, precedents: 1,022)",
+            "Automatic daily bug-fix cron — queries reported issues, fixes top 3 by hit count via parallel subagents",
+            "Cross-references between rulings and legislation — market value definition fix for s 995-1",
+            "Ruling tree click routing fixed — sidebar rulings navigate to proper detail view, not 404",
+            "Definition extraction regex improved — s 995-1 'has the meaning' now matches 'has a meaning' too (CDN-0003)",
+            "Version bumped to 2.6.0",
+        ],
+    },
+    {
         "version": "2.5.0",
         "date": "2026-07-29",
         "title": "Rulings sidebar + dedicated pages, court-grouped cases, hyperlinked cross-references",

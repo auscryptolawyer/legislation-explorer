@@ -74,14 +74,11 @@ export default function App() {
   })
 
   const [appInfo, setAppInfo] = useState<any>(null)
-  const [dataVersion, setDataVersion] = useState<any>(null)
-  const [dataVersionOpen, setDataVersionOpen] = useState(false)
   const [user, setUser] = useState<any>(null)
   const [authLoading, setAuthLoading] = useState(true)
 
   useEffect(() => {
     api.info().then(setAppInfo).catch(() => {})
-    fetch('/api/data-version').then(r => r.json()).then(setDataVersion).catch(() => {})
   }, [])
 
   useEffect(() => {
@@ -751,66 +748,13 @@ export default function App() {
               <div style={{ fontSize: 11, color: COLORS.textMuted }}>
                 Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || 'v2.0.0'}</span>
               </div>
-              {dataVersion?.current_version && (
-                <div style={{ marginTop: 8, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-                  <button
-                    onClick={() => setDataVersionOpen(!dataVersionOpen)}
-                    style={{
-                      fontSize: 11, color: COLORS.textMuted, background: 'none', border: '1px solid ' + COLORS.border,
-                      borderRadius: 4, cursor: 'pointer', fontFamily: "'Montserrat', sans-serif",
-                      padding: '2px 8px', opacity: 0.8,
-                    }}
-                    title="Click for details"
-                  >
-                    Last updated: {dataVersion.current_version.version?.replace('v', '') || 'N/A'}
-                    {' '}{dataVersionOpen ? '▲' : '▼'}
-                  </button>
-                  {dataVersionOpen && (
-                    <div style={{
-                      marginTop: 8, fontSize: 11, color: COLORS.textMuted,
-                      background: COLORS.surface, border: '1px solid ' + COLORS.border,
-                      borderRadius: 6, padding: '10px 14px', textAlign: 'left',
-                      maxWidth: 340, width: '100%', lineHeight: 1.5,
-                    }}>
-                      {dataVersion.current_version.summary && (
-                        <div style={{ marginBottom: 8, color: COLORS.heading }}>
-                          {dataVersion.current_version.summary}
-                        </div>
-                      )}
-                      {dataVersion.sources && Object.keys(dataVersion.sources).length > 0 && (
-                        <div style={{ marginBottom: 8 }}>
-                          {Object.entries(dataVersion.sources).map(([source, info]: [string, any]) => (
-                            <div key={source} style={{ marginTop: 2 }}>
-                              <strong style={{ color: COLORS.heading }}>{source}</strong>:{' '}
-                              {info.added != null && <span style={{ color: '#4caf50' }}>+{info.added}</span>}
-                              {info.modified != null && <span style={{ color: '#ff9800', marginLeft: 4 }}>~{info.modified}</span>}
-                            </div>
-                          ))}
-                        </div>
-                      )}
-                      {dataVersion.version_history && dataVersion.version_history.length > 0 && (
-                        <div>
-                          <div style={{ fontWeight: 600, marginBottom: 4, color: COLORS.heading, fontSize: 10, textTransform: 'uppercase', letterSpacing: '0.5px' }}>Version History</div>
-                          {dataVersion.version_history.map((v: any, i: number) => (
-                            <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8, marginTop: 2 }}>
-                              <span>{v.version?.replace('v', '') || 'N/A'}</span>
-                              <span style={{ fontSize: 10, opacity: 0.6 }}>
-                                {v.created_at ? new Date(v.created_at * 1000).toLocaleDateString() : ''}
-                              </span>
-                            </div>
-                          ))}
-                        </div>
-                      )}
-                    </div>
-                  )}
-                </div>
-              )}
-              <div style={{ display: 'flex', gap: 12, marginTop: dataVersion?.current_version ? 12 : 20, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
+
+              <div style={{ display: 'flex', gap: 12, marginTop: 12, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
                 <button
                   onClick={() => setChangelogOpen(true)}
                   style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
                 >
-                  Changelog →
+                  v2.6
                 </button>
                 <button
                   onClick={() => {
