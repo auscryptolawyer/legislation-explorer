@@ -10,6 +10,9 @@ import logging
 import subprocess
 from typing import Any
 
+import psycopg2
+import psycopg2.extras
+
 logger = logging.getLogger(__name__)
 
 _PSQL = [
@@ -137,6 +140,49 @@ def _sql_write(sql: str) -> bool:
         return False
     except Exception as e:
         logger.exception(f"SQL write error: {e}")
+        return False
+
+
+def _conn() -> object:
+    """Return a psycopg2 connection to cadena_knowledge via docker exec.
+
+    The container must expose port 5432 on localhost, or we connect via
+    docker exec. For parameterized writes we use the direct psycopg2 route.
+    """
+    import os
+    host = os.environ.get("PGHOST", "127.0.0.1")
+    port = int(os.environ.get("PGPORT", "5432"))
+    user = os.environ.get("PGUSER", "postgres")
+    password = os.environ.get("PGPASSWORD", "")
+    dbname = os.environ.get("PGDATABASE", "cadena_knowledge")
+    return psycopg2.connect(
+        host=host, port=port, user=user, password=password, dbname=dbname,
+        connect_timeout=5,
+    )
+
+
+def _sql_write_params(sql: str, params: tuple = ()) -> bool:
+    """Execute SQL with parameterized values via psycopg2.
+
+    All user-supplied values should be passed as params, not interpolated
+    into the SQL string.  This prevents SQL injection.
+
+    Example:
+        _sql_write_params(
+            "INSERT INTO issues (ticket, category) VALUES (%s, %s)",
+            ("CDN-0001", "bad_data"),
+        )
+
+    Returns True on success, False on failure.
+    """
+    try:
+        with _conn() as conn:
+            with conn.cursor() as cur:
+                cur.execute(sql, params)
+            conn.commit()
+        return True
+    except Exception as e:
+        logger.exception(f"SQL write (params) error: {e}")
         return False
 
 

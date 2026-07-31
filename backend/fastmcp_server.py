@@ -30,7 +30,7 @@ from backend.services.case_db_service import (
     get_case_metadata,
     get_case_references,
 )
-from backend.services.tax_case_sql import _sql_dict, _sql_write
+from backend.services.tax_case_sql import _sql_dict, _sql_write_params
 
 logger = logging.getLogger(__name__)
 
@@ -1006,17 +1006,17 @@ async def report_issue(
     param_hash = hashlib.sha256(raw_hash.encode("utf-8")).hexdigest()[:16]
 
     # ── check for existing duplicate ───────────────────────────────────────
-    safe_hash = param_hash.replace("'", "''")
     dupes = _sql_dict(
         ["id", "ticket", "status"],
         f"SELECT id, ticket, status FROM issues "
-        f"WHERE param_hash = '{safe_hash}' AND category = '{category}' "
+        f"WHERE param_hash = '{param_hash}' AND category = '{category}' "
         f"AND status IN ('open', 'known')",
     )
     if dupes:
         existing = dupes[0]
-        _sql_write(
-            f"UPDATE issues SET hits = hits + 1 WHERE id = {existing['id']}"
+        _sql_write_params(
+            "UPDATE issues SET hits = hits + 1 WHERE id = %s",
+            (existing["id"],),
         )
         return json.dumps({
             "ticket": existing["ticket"],
@@ -1029,38 +1029,31 @@ async def report_issue(
     next_id = max_id_rows[0]["next_id"] if max_id_rows else 1
     ticket = f"CDN-{next_id:04d}"
 
-    # ── escape values for SQL ──────────────────────────────────────────────
-    def esc(v: object) -> str:
-        if v is None:
-            return "NULL"
-        s = str(v).replace("'", "''")
-        return f"'{s}'"
+    # ── parameterized INSERT — no SQL string concatenation ─────────────────
+    params_val = json.dumps(params, default=str) if isinstance(params, (dict, list)) else params
 
-    now_val = "NOW()"
-
-    insert_sql = (
-        f"INSERT INTO issues (ticket, category, tool, params, param_hash, "
-        f"expected, actual, note, server_ver, compilation, created, status, "
-        f"known_note, hits, fixed) "
-        f"VALUES ("
-        f"'{ticket}', "
-        f"'{category}', "
-        f"{esc(tool)}, "
-        f"{esc(json.dumps(params, default=str) if isinstance(params, (dict, list)) else params)}, "
-        f"'{param_hash}', "
-        f"{esc(expected)}, "
-        f"{esc(actual)}, "
-        f"{esc(note)}, "
-        f"'{VERSION}', "
-        f"NULL, "
-        f"{now_val}, "
-        f"'open', "
-        f"NULL, "
-        f"1, "
-        f"NULL"
-        f")"
+    _sql_write_params(
+        "INSERT INTO issues "
+        "(ticket, category, tool, params, param_hash, expected, actual, note, "
+        " server_ver, compilation, created, status, known_note, hits, fixed) "
+        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, NOW(), %s, %s, %s, %s)",
+        (
+            ticket,
+            category,
+            tool,
+            params_val,
+            param_hash,
+            expected,
+            actual,
+            note,
+            VERSION,
+            None,
+            "open",
+            None,
+            1,
+            None,
+        ),
     )
-    _sql_write(insert_sql)
 
     return json.dumps({
         "ticket": ticket,
