@@ -18,6 +18,7 @@ from .admin import router as admin_router
 from .data_versions import router as data_versions_router
 
 from .graph import router as graph_router
+from .issues import router as issues_router
 
 router = APIRouter()
 router.include_router(acts_router)
@@ -32,6 +33,7 @@ router.include_router(user_prefs_router)
 router.include_router(admin_router)
 router.include_router(data_versions_router)
 router.include_router(graph_router)
+router.include_router(issues_router)
 
 
 VERSION = "2.6.0"
@@ -40,20 +42,19 @@ CHANGELOG = [
     {
         "version": "2.6.0",
         "date": "2026-07-31",
-        "title": "FTS5 search, OAuth/Streamable HTTP MCP, inline ruling display, bug-fix cron",
+        "title": "MCP overhaul: OAuth + Streamable HTTP, case retrieval rework, knowledge graph, toolchain",
         "changes": [
-            "Full-text search via FTS5 across all 11,339 ATO rulings — interactive full-page results with snippet highlights",
-            "FTS5 search index rebuilt with WAL mode — 259 MB covering rulings, legislation, cases, and definitions",
-            "OAuth 2.1 authorization server — /.well-known/oauth-authorization-server, /oauth/authorize, /oauth/token, /oauth/register",
-            "MCP transport migrated from SSE to Streamable HTTP — single endpoint with standard protocol compliance",
-            "Report bug mechanism — MCP report_issue tool creates entries in a bugs table with hit tracking",
-            "MCP standards tool — lists design principles, style guide, and code conventions",
+            "MCP transport: SSE → Streamable HTTP (single endpoint). OAuth 2.1 authorization server maintained for future builds — /.well-known/oauth-authorization-server, /oauth/authorize, /oauth/token, /oauth/register",
+            "MCP toolchain: get_info returns routing table (which tool for what task), tool descriptions, and usage conventions. standards tool covers verification, matter-structure, premises, memory, and toolchain topics",
+            "Case retrieval rework: paragraph layer deleted (miscoded section_type, wrong paragraph_number). get_case gains search= and context= for full-text matching over the judgment body with sentence-windowed context. Structured sources with honest fetchable flags (text=true, court=conditional, austlii=false, browser=false). case_link and download_case tools retired — 3 tools folded into 1",
+            "Knowledge graph visualizer — force-directed graph (react-force-graph-2d) from any section, ruling, or case via GET /api/graph/data. 83,936 cross-references in embeddings.db. Colour-coded nodes by type, click to navigate, draggable and zoomable",
+            "Issues portal — Bugs button lists open/known/resolved issues from the DB. Manual bug report form submits to the issues table. Resolved issues expandable at the bottom",
+            "Full-text search via FTS5 across all 11,339 ATO rulings — full-page results with snippet highlights, source filter, pagination",
             "Ruling display redesign — subject, question, background, and ruling text shown inline (no collapsible dropdown)",
-            "MCP get_info upgraded to v2.6.0 spec — returns version, changelog, tool descriptions, and per-database coverage counts (tax: 7,845, asic: 1,081, aml: 0, precedents: 1,022)",
-            "Automatic daily bug-fix cron — queries reported issues, fixes top 3 by hit count via parallel subagents",
-            "Cross-references between rulings and legislation — market value definition fix for s 995-1",
+            "Definition extraction improved — s 995-1 'has the meaning' now also matches 'has a meaning'",
+            "Security: report_issue and all issue writes moved to parameterized queries — no SQL string interpolation of user input",
             "Ruling tree click routing fixed — sidebar rulings navigate to proper detail view, not 404",
-            "Definition extraction regex improved — s 995-1 'has the meaning' now matches 'has a meaning' too (CDN-0003)",
+            "Automatic daily bug-fix cron — queries reported issues, fixes top 3 by hit count via parallel subagents",
             "Version bumped to 2.6.0",
         ],
     },

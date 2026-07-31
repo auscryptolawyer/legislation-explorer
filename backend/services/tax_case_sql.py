@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 _PSQL = [
     "docker", "exec", "cadena-postgres",
     "psql", "-U", "postgres", "-d", "cadena_knowledge",
-    "-t", "-F", "|", "-A",  # tuples-only, pipe-sep, unaligned (no headers)
+    "-t", "-F", "\x01", "-A",  # tuples-only, SOH-sep, unaligned
 ]
 
 
@@ -45,13 +45,13 @@ def _sql(query: str) -> list[list[str]]:
 
 
 def _parse_rows(output: str) -> list[list[str]]:
-    """Parse psql -t -F '|' -A output into list of string lists."""
+    """Parse psql -t -F $'\\x01' -A output into list of string lists."""
     rows = []
     for line in output.split("\n"):
         line = line.strip()
         if not line:
             continue
-        rows.append([cell.strip() for cell in line.split("|")])
+        rows.append([cell.strip() for cell in line.split("\x01")])
     return rows
 
 

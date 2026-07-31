@@ -15,6 +15,7 @@ import RulingContent from './components/RulingContent'
 import TaxCaseContent from './components/TaxCaseContent'
 import SettingsPanel from './components/SettingsPanel'
 import GraphModal from './components/GraphModal'
+import IssuesModal from './components/IssuesModal'
 import SearchPanel from './components/SearchPanel'
 import { ThemeProvider } from './ThemeContext'
 import { shortActName } from './utils/display'
@@ -91,6 +92,7 @@ export default function App() {
 
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [bugReportOpen, setBugReportOpen] = useState(false)
+  const [issuesOpen, setIssuesOpen] = useState(false)
   const [changelogOpen, setChangelogOpen] = useState(false)
   const [hofOpen, setHofOpen] = useState(false)
   const [hofData, setHofData] = useState<any>(null)
@@ -438,6 +440,22 @@ export default function App() {
               Settings
             </button>
           </div>
+          <button
+            onClick={() => setIssuesOpen(true)}
+            title="View known bugs"
+            style={{
+              padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
+              background: COLORS.bg, color: COLORS.textMuted,
+              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
+              display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
+              fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
+            }}
+          >
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+            </svg>
+            Bugs
+          </button>
           <button
             onClick={() => setBugReportOpen(true)}
             title="Report a bug"
@@ -824,6 +842,11 @@ export default function App() {
           label={graphOpen.label}
           onClose={() => setGraphOpen(null)}
         />
+      )}
+
+      {/* Issues modal */}
+      {issuesOpen && (
+        <IssuesModal onClose={() => setIssuesOpen(false)} />
       )}
 
       {/* Bug report modal */}
