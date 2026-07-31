@@ -23,3 +23,9 @@ data/missing_terms*.txt
 !data/itaa-*/
 !data/gst-*/
 md_files.txt
+
+# Large generated data
+data/rulings/
+scripts/cleaned/
+prompts/
+standards/

@@ -403,7 +403,7 @@ export default function App() {
         {/* Tree */}
         <div style={{ flex: 1, overflow: 'auto', padding: isMobile ? '6px 8px' : 8 }}>
           {(tree.parts || []).map(p => (
-            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { setActiveSection(e); if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
+            <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={activeSection ? findExpandedIds(tree, activeSection) : new Set()} act={act} />
           ))}
         </div>
 
@@ -566,8 +566,13 @@ export default function App() {
                   acts={acts}
                   onNavigate={(targetAct, section) => {
                     setAct(targetAct)
-                    setActiveSection(section)
-                    setActiveRuling(null)
+                    if (targetAct === 'rulings') {
+                      setActiveRuling(section)
+                      setActiveSection('')
+                    } else {
+                      setActiveSection(section)
+                      setActiveRuling(null)
+                    }
                   }}
                   isMobile={isMobile}
                   onResultsChange={setSearchResultsCount}
@@ -710,7 +715,7 @@ export default function App() {
                 }
                 collectIds(tree.parts || [])
                 return (tree.parts || []).map(p => (
-                  <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { setActiveSection(e); if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
+                  <TreeNode key={p.id} node={p} level={0} activeSection={activeSection} onSelect={e => { if (act === 'rulings') { setActiveRuling(e); } else { setActiveSection(e); } if (isMobile) setDrawerOpen(false) }} isMobile={isMobile} expandedIds={allIds} act={act} />
                 ))
               })()}
             </div>
@@ -729,8 +734,13 @@ export default function App() {
                 acts={acts}
                 onNavigate={(targetAct, section) => {
                   setAct(targetAct)
-                  setActiveSection(section)
-                  setActiveRuling(null)
+                  if (targetAct === 'rulings') {
+                    setActiveRuling(section)
+                    setActiveSection('')
+                  } else {
+                    setActiveSection(section)
+                    setActiveRuling(null)
+                  }
                 }}
                 isMobile={isMobile}
                 onResultsChange={setSearchResultsCount}

@@ -65,6 +65,15 @@ export default function RulingContent({
   const fm = rulingData?.frontmatter || {}
   const body: string = rulingData?.body || ''
   const descriptiveTitle: string = rulingData?.descriptive_title || ''
+  const subject: string = rulingData?.subject || ''
+  const question: string = rulingData?.question || ''
+  const background: string = rulingData?.background || ''
+  const rulingText: string = rulingData?.ruling || ''
+  const notice: string = rulingData?.notice || ''
+  const casesReferenced: string[] = rulingData?.cases_referenced || []
+  const legislationReferenced: string[] = rulingData?.legislation_referenced || []
+  const atoUrl: string = rulingData?.ato_url || ''
+  const status: string = rulingData?.status || ''
   const baseComponents = createMarkdownComponents(isMobile, 'rulings', onNavigate, onNavigateRuling, renderLink)
 
   // Parse table of contents from ##/### headers
@@ -86,9 +95,6 @@ export default function RulingContent({
       return React.cloneElement(base as React.ReactElement, { id, ...rest }, children)
     },
   }
-
-  // Summary collapsible state
-  const [summaryOpen, setSummaryOpen] = useState(false)
 
   // Related cases state
   const [relatedCases, setRelatedCases] = useState<RelatedCase[]>([])
@@ -137,47 +143,69 @@ export default function RulingContent({
         {fm.title || rulingData.citation}{descriptiveTitle ? ` — ${descriptiveTitle}` : ''}
         <a
           href={`/api/ruling/${encodeURIComponent(rulingData.citation)}/download`}
+          download
           style={{
-            fontSize: 12, fontWeight: 400, marginLeft: 12,
-            color: COLORS.accent, textDecoration: 'none',
+            fontSize: 12, fontWeight: 500, marginLeft: 12,
+            color: '#fff', background: COLORS.accent,
+            textDecoration: 'none', padding: '4px 12px',
+            borderRadius: 4, display: 'inline-block',
+            verticalAlign: 'middle',
           }}
           title="Download raw text"
         >
-          (download)
+          Download
         </a>
       </h1>
 
-      {/* Summary collapsible section */}
+      {/* AI Summary — inline, always visible */}
+      {(status || subject || question || background || rulingText || notice || legislationReferenced.length > 0 || casesReferenced.length > 0 || atoUrl) && (
       <div style={{
-        marginBottom: 20, border: `1px solid ${COLORS.border}`,
-        borderRadius: 6, overflow: 'hidden',
+        marginBottom: 24, border: `1px solid ${COLORS.border}`,
+        borderRadius: 6, padding: '14px 16px',
+        background: COLORS.surface,
+        fontSize: 13, color: COLORS.text,
+        fontFamily: "'Montserrat', sans-serif", lineHeight: 1.6,
       }}>
-        <button
-          onClick={() => setSummaryOpen(!summaryOpen)}
-          style={{
-            width: '100%', padding: '10px 14px',
-            background: COLORS.surface, border: 'none',
-            cursor: 'pointer', display: 'flex', justifyContent: 'space-between',
-            alignItems: 'center', color: COLORS.heading,
-            fontWeight: 600, fontSize: 13,
-            fontFamily: "'Montserrat', sans-serif",
-          }}
-        >
-          <span>Summary</span>
-          <span style={{ transform: summaryOpen ? 'rotate(180deg)' : 'rotate(0deg)', transition: 'transform 0.15s' }}>
-            ▼
-          </span>
-        </button>
-        {summaryOpen && (
+        {status && <p style={{margin: '0 0 10px 0'}}><strong>Status:</strong> {status}</p>}
+        {subject && <p style={{margin: '0 0 10px 0'}}><strong>Subject:</strong> {subject}</p>}
+        {question && <p style={{margin: '0 0 10px 0'}}><strong>Question:</strong> {question}</p>}
+        {background && <p style={{margin: '0 0 10px 0'}}><strong>Background:</strong> {background}</p>}
+        {rulingText && <p style={{margin: '0 0 10px 0'}}><strong>Ruling:</strong> {rulingText}</p>}
+        {notice && (
           <div style={{
-            padding: '12px 14px', fontSize: 13, color: COLORS.textMuted,
-            fontFamily: "'Montserrat', sans-serif", lineHeight: 1.6,
-            background: COLORS.bg,
+            marginBottom: 10, padding: '8px 12px', fontSize: 12,
+            color: COLORS.textMuted, background: '#fff8e1',
+            border: '1px solid #ffe082', borderRadius: 4,
           }}>
-            AI-powered summary coming soon.
+            {notice}
           </div>
         )}
+        {legislationReferenced.length > 0 && (
+          <div style={{marginBottom: 10}}>
+            <strong>Legislation:</strong>
+            <ul style={{margin: '4px 0 0 0', paddingLeft: 16}}>
+              {legislationReferenced.map((leg, i) => <li key={i}>{leg}</li>)}
+            </ul>
+          </div>
+        )}
+        {casesReferenced.length > 0 && (
+          <div style={{marginBottom: 10}}>
+            <strong>Cases:</strong>
+            <ul style={{margin: '4px 0 0 0', paddingLeft: 16}}>
+              {casesReferenced.map((c, i) => <li key={i}>{c}</li>)}
+            </ul>
+          </div>
+        )}
+        {atoUrl && (
+          <p style={{margin: 0}}>
+            <a href={atoUrl} target="_blank" rel="noopener noreferrer"
+               style={{color: COLORS.accent, textDecoration: 'none'}}>
+              View on ATO website ↗
+            </a>
+          </p>
+        )}
       </div>
+      )}
 
       {/* Table of Contents — only when ## headers exist */}
       {toc.length > 0 && (

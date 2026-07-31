@@ -1,6 +1,7 @@
 """SQLite FTS5 search service."""
 from __future__ import annotations
 
+import json
 import re
 import sqlite3
 import logging
@@ -25,105 +26,116 @@ def search_conn():
 
 
 def init_search_index() -> None:
-    """Build or rebuild the FTS5 search index from all markdown sections and rulings."""
+    """Build or rebuild the FTS5 search index from sections, rulings, and cases.
+    
+    Uses WAL mode and explicit transactions so partial failures roll back
+    cleanly instead of leaving a 0-byte/empty DB.
+    """
     with search_conn() as conn:
-        # --- Sections FTS ---
-        conn.execute("DROP TABLE IF EXISTS sections_fts")
-        conn.execute("""
-            CREATE VIRTUAL TABLE sections_fts USING fts5(
-                act, section, title, content,
-                tokenize='porter'
-            )
-        """)
-        conn.execute("DROP TABLE IF EXISTS sections_meta")
-        conn.execute("""
-            CREATE TABLE sections_meta (
-                act TEXT, section TEXT, title TEXT, part TEXT, division TEXT,
-                UNIQUE (act, section)
-            )
-        """)
-        conn.execute("CREATE INDEX idx_meta_act_section ON sections_meta(act, section)")
+        conn.execute("PRAGMA journal_mode=WAL")
+        conn.execute("BEGIN")
+        try:
+            # --- Sections FTS ---
+            conn.execute("DROP TABLE IF EXISTS sections_fts")
+            conn.execute("""
+                CREATE VIRTUAL TABLE sections_fts USING fts5(
+                    act, section, title, content,
+                    tokenize='porter'
+                )
+            """)
+            conn.execute("DROP TABLE IF EXISTS sections_meta")
+            conn.execute("""
+                CREATE TABLE sections_meta (
+                    act TEXT, section TEXT, title TEXT, part TEXT, division TEXT,
+                    UNIQUE (act, section)
+                )
+            """)
+            conn.execute("CREATE INDEX IF NOT EXISTS idx_meta_act_section ON sections_meta(act, section)")
 
-        # Track (act, section_id) pairs already indexed so each section is
-        # inserted exactly once (first occurrence wins for part/division
-        # metadata).  Some tree.json files list the same section under
-        # multiple parts/divisions, which previously produced duplicate rows
-        # in both sections_fts and sections_meta and multiplied search hits.
-        seen: set[tuple[str, str]] = set()
+            # Track (act, section_id) pairs already indexed so each section is
+            # inserted exactly once (first occurrence wins for part/division
+            # metadata).  Some tree.json files list the same section under
+            # multiple parts/divisions, which previously produced duplicate rows
+            # in both sections_fts and sections_meta and multiplied search hits.
+            seen: set[tuple[str, str]] = set()
 
-        for act_dir in DATA_DIR.iterdir():
-            if not act_dir.is_dir() or not (act_dir / "tree.json").exists():
-                continue
-            act = act_dir.name
-            tree = load_tree(act)
-            for part in tree.get("parts", []):
-                part_id = part.get("id", "")
-                for sec in part.get("sections", []):
-                    _index_section(conn, act, sec, part_id, "", seen)
-                for div in part.get("divisions", []):
-                    div_id = div.get("id", "")
-                    for sec in div.get("sections", []):
-                        _index_section(conn, act, sec, part_id, div_id, seen)
-                    for sub in div.get("subdivisions", []):
-                        for sec in sub.get("sections", []):
+            for act_dir in DATA_DIR.iterdir():
+                if not act_dir.is_dir() or not (act_dir / "tree.json").exists():
+                    continue
+                act = act_dir.name
+                tree = load_tree(act)
+                for part in tree.get("parts", []):
+                    part_id = part.get("id", "")
+                    for sec in part.get("sections", []):
+                        _index_section(conn, act, sec, part_id, "", seen)
+                    for div in part.get("divisions", []):
+                        div_id = div.get("id", "")
+                        for sec in div.get("sections", []):
                             _index_section(conn, act, sec, part_id, div_id, seen)
+                        for sub in div.get("subdivisions", []):
+                            for sec in sub.get("sections", []):
+                                _index_section(conn, act, sec, part_id, div_id, seen)
 
-        # --- Rulings FTS ---
-        conn.execute("DROP TABLE IF EXISTS rulings_fts")
-        conn.execute("""
-            CREATE VIRTUAL TABLE rulings_fts USING fts5(
-                citation, title, content,
-                tokenize='porter'
-            )
-        """)
-        conn.execute("DROP TABLE IF EXISTS rulings_meta")
-        conn.execute("""
-            CREATE TABLE rulings_meta (
-                citation TEXT UNIQUE, title TEXT, year INTEGER, ruling_type TEXT
-            )
-        """)
+            # --- Rulings FTS ---
+            conn.execute("DROP TABLE IF EXISTS rulings_fts")
+            conn.execute("""
+                CREATE VIRTUAL TABLE rulings_fts USING fts5(
+                    citation, title, content,
+                    tokenize='porter'
+                )
+            """)
+            conn.execute("DROP TABLE IF EXISTS rulings_meta")
+            conn.execute("""
+                CREATE TABLE rulings_meta (
+                    citation TEXT UNIQUE, title TEXT, year INTEGER, ruling_type TEXT
+                )
+            """)
 
-        ruled_seen: set[str] = set()
-        for f in sorted(RULING_DIR.glob("*.txt")):
-            if f.name.endswith(".meta.json") or f.name.startswith("."):
-                continue
-            citation = f.stem
-            if citation in ruled_seen:
-                continue
-            ruled_seen.add(citation)
+            ruled_seen: set[str] = set()
+            for f in sorted(RULING_DIR.glob("*.txt")):
+                if f.name.endswith(".meta.json") or f.name.startswith("."):
+                    continue
+                citation = f.stem
+                if citation in ruled_seen:
+                    continue
+                ruled_seen.add(citation)
 
-            title = citation
-            year = 0
-            ruling_type = ""
-            m = re.match(r'^([A-Za-z]+)_(\d{2,4})_(\d+)', f.stem)
-            if m:
-                ruling_type = m.group(1).upper()
-                year = int(m.group(2))
-                if year < 100:
-                    year += 1900 if year >= 90 else 2000
+                title = citation
+                year = 0
+                ruling_type = ""
+                m = re.match(r'^([A-Za-z]+)_(\d{2,4})_(\d+)', f.stem)
+                if m:
+                    ruling_type = m.group(1).upper()
+                    year = int(m.group(2))
+                    if year < 100:
+                        year += 1900 if year >= 90 else 2000
 
-            meta_path = f.with_suffix(f.suffix + ".meta.json")
-            if not meta_path.exists():
-                meta_path = f.parent / (f.stem + ".txt.meta.json")
-            if meta_path.exists():
-                import json
-                meta = json.loads(meta_path.read_text(encoding="utf-8"))
-                title = meta.get("title", citation)
+                meta_path = f.with_suffix(f.suffix + ".meta.json")
+                if not meta_path.exists():
+                    meta_path = f.parent / (f.stem + ".txt.meta.json")
+                if meta_path.exists():
+                    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+                    title = meta.get("title", citation)
 
-            content_raw = f.read_text(encoding="utf-8", errors="replace")
-            content = re.sub(r'[#*`_\[\]\(\)]', ' ', content_raw)
-            content = re.sub(r'\s+', ' ', content).strip()[:50000]
+                content_raw = f.read_text(encoding="utf-8", errors="replace")
+                content = re.sub(r'[#*`_\[\]\(\)]', ' ', content_raw)
+                content = re.sub(r'\s+', ' ', content).strip()[:50000]
 
-            conn.execute(
-                "INSERT INTO rulings_fts (citation, title, content) VALUES (?, ?, ?)",
-                (citation, title, content)
-            )
-            conn.execute(
-                "INSERT INTO rulings_meta (citation, title, year, ruling_type) VALUES (?, ?, ?, ?)",
-                (citation, title, year, ruling_type)
-            )
+                conn.execute(
+                    "INSERT INTO rulings_fts (citation, title, content) VALUES (?, ?, ?)",
+                    (citation, title, content)
+                )
+                conn.execute(
+                    "INSERT INTO rulings_meta (citation, title, year, ruling_type) VALUES (?, ?, ?, ?)",
+                    (citation, title, year, ruling_type)
+                )
 
-        conn.commit()
+            conn.commit()
+        except Exception:
+            conn.rollback()
+            logger.exception("FTS index build failed, rolled back")
+            raise
+
     logger.info(f"Search index built: {SEARCH_DB}")
 
 
@@ -162,16 +174,10 @@ def _index_section(
 
 
 def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
-    """Search using SQLite FTS5 with BM25 ranking.
-
-    Returns:
-        dict with ``results`` (list of dicts) and ``total_count`` (int).
-    """
-    # Quote each token as an FTS5 string literal so bare '-', '(', etc. are
-    # treated as content, not FTS5 query syntax (column filters/operators).
+    """Search using SQLite FTS5 with BM25 ranking."""
     tokens = q.split()
     if not tokens:
-        return []
+        return {"results": [], "total_count": 0}
     quoted = []
     for tok in tokens:
         if tok.endswith('*') and len(tok) > 1:
@@ -183,7 +189,6 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
 
     with search_conn() as conn:
         if act:
-            # Count first (unlimited)
             count_row = conn.execute(
                 "SELECT COUNT(*) FROM sections_fts WHERE sections_fts MATCH ? AND sections_fts.act = ?",
                 (q_clean, act)
@@ -201,7 +206,6 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
             """
             rows = conn.execute(sql, (q_clean, act, limit)).fetchall()
         else:
-            # Count first (unlimited)
             count_row = conn.execute(
                 "SELECT COUNT(*) FROM sections_fts WHERE sections_fts MATCH ?",
                 (q_clean,)
@@ -230,13 +234,10 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
             "snippet": row["snippet"] or "",
         })
 
-    # If query looks like a section number, exact-match it to rank 1.
-    # We use a separate SQL query (not limited) to find the exact section
-    # so it can be promoted even if the main FTS results don't include it.
+    # If query looks like a section number, exact-match it to rank 1
     section_re = re.match(r'^(\d+[A-Z]?-\d+(?:[A-Za-z]*(?:\(\d+(?:\)[a-z])?\))?)?)$', q.strip())
     if section_re:
         section_id = section_re.group(1)
-        # Find the exact match via a separate unlimited query
         with search_conn() as conn:
             if act:
                 exact = conn.execute(
@@ -255,7 +256,6 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
                     (section_id,)
                 ).fetchone()
         if exact:
-            # Prepend the exact match, avoiding duplicates
             results = [
                 {
                     "act": exact["act"],

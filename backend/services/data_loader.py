@@ -356,6 +356,9 @@ def load_rulings() -> list[dict]:
                 # Normalize PSLA → PS LA for display consistency
                 if ruling_type == "PSLA":
                     ruling_type = "PS LA"
+                # Normalize AID → ATOID for display
+                if ruling_type == "AID":
+                    ruling_type = "ATOID"
                 year = int(m.group(2))
                 # Normalise 2-digit years (98 → 1998, 04 → 2004)
                 if year < 100:
@@ -380,7 +383,7 @@ def load_rulings() -> list[dict]:
             full_title = title
             # Strip ATO ID header lines before extracting title
             content_for_title = content
-            if ruling_type == "PS LA" or ruling_type == "AID":
+            if ruling_type == "PS LA" or ruling_type == "ATOID":
                 # Remove known header lines
                 ct_lines = content.splitlines()
                 for ci, cl in enumerate(ct_lines):
@@ -415,7 +418,7 @@ def load_rulings() -> list[dict]:
                     break
             withdrawn = _check_withdrawn(content)
             rulings.append({
-                "citation": f.stem,
+                "citation": f.stem.replace("AID_", "ATOID_", 1) if f.stem.startswith("AID_") else f.stem,
                 "title": title,
                 "full_title": full_title,
                 "type": ruling_type,
@@ -704,7 +707,7 @@ def get_definition_text(act: str, term: str) -> dict | None:
     escaped = re.escape(term_lower)
     # Patterns for definition anchors
     patterns = [
-        rf'(?<!\w){escaped}\s+(?:has\s+(?:the\s+)?(?:same\s+)?meaning|means|includes)(?:\s|:|$)',
+        rf'(?<!\w){escaped}\s+(?:has\s+(?:(?:the|a)\s+)?(?:same\s+)?meaning|means|includes)(?:\s|:|$)',
         rf'(?<!\w){escaped}\s*:',
     ]
 
@@ -736,27 +739,52 @@ def get_definition_text(act: str, term: str) -> dict | None:
     idx = m.start()
 
     # Find end: the boundary where this definition ends.
-    # Strategy: scan forward from the match position for:
-    #   1. Next definition term (period + new term) — most reliable for dictionary-style sections
+    # Strategy: Scan forward from the match position for:
+    #   1. The next defined term in the same section (most reliable for dictionary-style sections)
     #   2. Next definition anchor (<a id="...">) or heading (####) — strong stop
     #   3. End of body
     rest = body[idx + len(m.group()):]
 
-    # Primary: next definition term boundary
-    # period + space + new lowercase term with "has meaning"/"means"/"includes" or colon
-    next_def = re.search(
-        r'\.\s+(?=[a-z][a-z\s]*?(?:has\s+(?:the\s+)?meaning|means|includes?(?:\s|:)|(?::\s*(?:\n|>|$))))',
-        rest,
-    )
-    if next_def:
-        end_pos = idx + len(m.group()) + next_def.start() + 1  # include the period
-    else:
-        # Fallback: next definition anchor or heading
+    # Primary: find the next defined term in alphabetical order
+    # Uses the known term list from the definitions index rather than a fragile regex.
+    # This correctly handles hyphenated terms, uppercase terms, asterisk-tagged terms, etc.
+    section_terms = sorted([
+        t for t, td in defs.items()
+        if td.get("section") == section
+    ])
+    current_lower = term.lower()
+    next_term = None
+    for i, st in enumerate(section_terms):
+        if st == current_lower and i + 1 < len(section_terms):
+            next_term = section_terms[i + 1]
+            break
+
+    end_pos = len(body)
+    if next_term:
+        escaped_next = re.escape(next_term)
+        # Search for the next term at a line boundary or inline after a period+space
+        # Pattern: term followed by definition keyword (has meaning, means, includes, or colon)
+        # Use capturing group to get position of term name (excludes leading \n or ". ")
+        next_def = re.search(
+            rf'(?:\n|\.\s+)({escaped_next}\s+(?:has\s+(?:(?:the|a)\s+)?(?:same\s+)?meaning|means|includes)(?:\s|:|$))',
+            rest,
+            re.IGNORECASE,
+        )
+        if not next_def:
+            # Also try colon-only definitions (e.g. "acquire:", "adjustable value:")
+            next_def = re.search(
+                rf'(?:\n|\.\s+)({escaped_next}\s*:)',
+                rest,
+                re.IGNORECASE,
+            )
+        if next_def:
+            end_pos = idx + len(m.group()) + next_def.start(1)  # start of term name
+
+    # Fallback: next definition anchor or heading
+    if end_pos == len(body):
         anchor_end = re.search(r'\n(?:####?\s|<a\s+id=")', rest, re.IGNORECASE)
         if anchor_end:
             end_pos = idx + len(m.group()) + anchor_end.start()
-        else:
-            end_pos = len(body)
 
     text = body[idx:end_pos].strip()
     text = re.sub(r'<a id="[^"]+"></a>\s*\n?', "", text)

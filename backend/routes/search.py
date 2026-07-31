@@ -56,7 +56,7 @@ def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50):
                 })
 
     try:
-        fts_results = fts_search(q, act, limit=500)
+        fts_results = fts_search(q, act, limit=500).get("results", [])
         for r in fts_results:
             if exact_row and r["act"] == exact_row["act"] and r["section"] == exact_row["section"]:
                 continue
@@ -141,7 +141,7 @@ def search_flat(q: str, limit: int = 50):
     if not SEARCH_DB.exists():
         build_search_index()
     try:
-        section_results = fts_search(q, act=None, limit=limit)
+        section_results = fts_search(q, act=None, limit=limit).get("results", [])
         ruling_results = search_rulings(q, limit=limit)
 
         # Interleave: take from both sources to show mixed results
@@ -174,12 +174,16 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20):
         build_search_index()
 
     try:
-        fts_results = fts_search(q, act, limit=50)
+        fts_results = fts_search(q, act, limit=50).get("results", [])
     except Exception:
         logger.exception("FTS search failed")
         fts_results = []
 
-    vector_results = vector_search_service.search(q, limit=50)
+    try:
+        vector_results = vector_search_service.search(q, limit=50)
+    except Exception:
+        logger.exception("Vector search failed")
+        vector_results = []
     if act:
         vector_results = [r for r in vector_results if r["act"] == act]
 

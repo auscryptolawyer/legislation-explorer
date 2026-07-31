@@ -385,7 +385,7 @@ async def search_cases(query: str, limit: int = 20) -> str:
                 continue
             text_parts = [
                 s.get("citation", ""),
-                s.get("case_name", ""),
+                s.get("case_name", "") or s.get("title", ""),
                 s.get("facts", ""),
                 s.get("held", ""),
                 s.get("reasoning", ""),
@@ -631,6 +631,8 @@ async def get_ruling(citation: str) -> str:
                         "status": summary.get("status", "Final"),
                         "subject": summary.get("subject", ""),
                         "question": summary.get("question", ""),
+                        "notice": summary.get("notice", ""),
+                        "body": summary.get("body", ""),
                         "cases_referenced": summary.get("cases_referenced", []),
                         "legislation_referenced": summary.get("legislation_referenced", []),
                         "full_text": summary.get("full_text", ""),

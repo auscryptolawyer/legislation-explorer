@@ -14,7 +14,7 @@ SEARCH_DB = BASE / "search_index.db"
 COMMENTARY_DIR = Path(
     os.environ.get(
         "COMMENTARY_DIR",
-        "/home/harrison/projects/cadena-knowledge-MCP/pipeline/output",
+        "/home/harrison/projects/ARCHIVE_cadena-knowledge-MCP/pipeline/output",
     )
 )
 CASE_DIR = Path(
@@ -23,13 +23,13 @@ CASE_DIR = Path(
 RULING_DIR = Path(
     os.environ.get(
         "RULING_DIR",
-        "/home/harrison/projects/cadena-knowledge-MCP/data/rulings",
+        str(DATA_DIR / "rulings"),
     )
 )
 ATO_RULING_DIR = Path(
     os.environ.get(
         "ATO_RULING_DIR",
-        "/home/harrison/projects/cadena-knowledge-MCP/data/ato_rulings",
+        str(DATA_DIR / "rulings"),
     )
 )
 

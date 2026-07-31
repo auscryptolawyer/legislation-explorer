@@ -1,0 +1,942 @@
+"""MCP server with StreamableHTTP transport."""
+from __future__ import annotations
+
+import json
+import logging
+import re as _re
+
+from mcp.server import Server
+from mcp.server.streamable_http import StreamableHTTPServerTransport
+from mcp.types import TextContent, Tool
+from starlette.requests import Request
+
+from backend.config import DATA_DIR
+from backend.mcp_token_manager import token_manager
+from backend.routes.api import VERSION, CHANGELOG
+from backend.services.data_loader import (
+    load_tree,
+    load_rulings,
+    get_rulings_for_section,
+    get_commentary_for_section,
+    get_definition_text,
+)
+from backend.services.search_service import search_sections as fts_search
+from backend.routes.tax_cases import search_tax_cases
+from backend.services.case_db_service import (
+    build_download_urls,
+    get_case_metadata,
+)
+
+logger = logging.getLogger(__name__)
+
+mcp_server = Server("legislation-explorer")
+
+# ---------------------------------------------------------------------------
+# Shared helpers
+# ---------------------------------------------------------------------------
+
+# Regex for medium-neutral case citations: [2024] HCA 1, [2020] FCAFC 135
+_CASE_CITATION_RE = _re.compile(r'\[(\d{4})\]\s*([A-Z]+(?:\s*[A-Z]+)*)\s*(\d+)')
+
+
+def _normalise_case_citation(raw: str) -> str | None:
+    """Strip party names and normalise a case citation to bare medium-neutral form.
+
+    Accepts:
+        '[2024] HCA 1'              → '[2024] HCA 1'
+        'Smith v Minister [2024] HCAFC 1'  → '[2024] HCAFC 1'
+        '2020 FCAFC 135'            → None  (missing brackets)
+
+    Returns the bare citation or *None* if the string does not contain a
+    recognisable medium-neutral citation.
+    """
+    m = _CASE_CITATION_RE.search(raw)
+    if m:
+        return f"[{m.group(1)}] {m.group(2)} {m.group(3)}"
+    return None
+
+
+@mcp_server.list_tools()
+async def list_tools() -> list[Tool]:
+    return [
+        Tool(
+            name="search_legislation",
+            description="Search legislation sections by keyword or section number. All query terms must appear in section text (AND matching). Section-number-shaped queries (e.g. '8-1') are exact-matched to rank the cited section first.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "query": {"type": "string", "description": "Search query or section number"},
+                    "act": {"type": "string", "description": "Optional act ID to restrict search (e.g. itaa-1997)"},
+                    "limit": {"type": "integer", "description": "Max results (default 20, max 100)", "default": 20},
+                },
+                "required": ["query"],
+            },
+        ),
+        Tool(
+            name="get_section",
+            description="Retrieve full text of a legislation section. Leading s/sec/section is stripped automatically. Uses hyphenated format (8-1) for ITAA 1997/GST/TAA; unhyphenated (23AH) for ITAA 1936.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "act": {"type": "string", "description": "Act ID (e.g. itaa-1997)"},
+                    "section": {"type": "string", "description": "Section number (e.g. 8-1, 23AH, s 8-1)"},
+                },
+                "required": ["act", "section"],
+            },
+        ),
+        Tool(
+            name="list_acts",
+            description="List all available acts and ATO rulings",
+            inputSchema={"type": "object", "properties": {}},
+        ),
+        Tool(
+            name="get_act_tree",
+            description="Get the full structure of an act (parts, divisions, sections)",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "act": {"type": "string", "description": "Act ID (e.g. itaa-1997)"},
+                    "depth": {
+                        "type": "string",
+                        "enum": ["parts", "divisions", "sections"],
+                        "description": "Detail level: 'parts' returns only parts (fast), 'divisions' includes divisions, 'sections' includes all sections (default)",
+                        "default": "sections",
+                    },
+                },
+                "required": ["act"],
+            },
+        ),
+        Tool(
+            name="get_definition",
+            description="Look up the definition of a term in an act. Returns the full definition text, not just a locator.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "act": {"type": "string", "description": "Act ID"},
+                    "term": {"type": "string", "description": "Term to define"},
+                },
+                "required": ["act", "term"],
+            },
+        ),
+        Tool(
+            name="get_rulings_for_section",
+            description="Get ATO rulings related to a legislation section",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "act": {"type": "string", "description": "Act ID"},
+                    "section": {"type": "string", "description": "Section number"},
+                },
+                "required": ["act", "section"],
+            },
+        ),
+        Tool(
+            name="search_cases",
+            description="Search case AI summaries and metadata by topic, case name, or citation. This is the primary case search tool — searches across facts, issues, held, reasoning, outcome, cases_cited, and legislation_cited fields. Returns matching citations with summaries; use get_case for full details and download_case for full text URLs. ⚠️ search_case_paragraphs is deprecated — use this instead.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "query": {"type": "string", "description": "Search query — searches across summary text, case name, citation"},
+                    "limit": {"type": "integer", "description": "Max results (default 20, max 100)", "default": 20},
+                },
+                "required": ["query"],
+            },
+        ),
+        Tool(
+            name="get_info",
+            description="Return server version, usage conventions, tool descriptions, and coverage counts. Call this first to understand how to use each MCP tool.",
+            inputSchema={"type": "object", "properties": {}},
+        ),
+        Tool(
+            name="get_ruling",
+            description="Retrieve an ATO ruling preview by citation. Returns metadata and a content preview (~5K chars). Full text is available via the ATO or AustLII URLs in the response. Accepts TR 2020/1, TR_2020_1, or TR 2024/1 formats.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "citation": {"type": "string", "description": "Ruling citation (e.g. TR 2020/1, TR_2020_1, TR 2024/1)"},
+                },
+                "required": ["citation"],
+            },
+        ),
+        Tool(
+            name="get_case",
+            description="Get case metadata, AI summary, and download links (AustLII, court, hosted HTML). Returns structured summary with facts, issues, held, reasoning, outcome, cases cited, and legislation cited. Use the download URLs to retrieve the full judgment text. ⚠️ get_case_paragraphs is deprecated — use this instead.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "citation": {"type": "string", "description": "Case citation (e.g. [2024] HCA 1)"},
+                    "include_legislation_refs": {"type": "boolean", "description": "Include legislation references", "default": False},
+                },
+                "required": ["citation"],
+            },
+        ),
+        Tool(
+            name="list_rulings",
+            description="List all ATO rulings grouped by year and type. Returns the full ruling tree with ATO.gov.au and AustLII links.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "type": {"type": "string", "description": "Filter by ruling type (TR, TD, PCG, AID, PS LA, LCG, etc.)"},
+                    "year": {"type": "integer", "description": "Filter by year"},
+                    "limit": {"type": "integer", "description": "Max results (default 100, use 0 for all)", "default": 100},
+                    "offset": {"type": "integer", "description": "Pagination offset", "default": 0},
+                    "counts_only": {"type": "boolean", "description": "Return only year→type histogram (fast)", "default": False},
+                },
+            },
+        ),
+        Tool(
+            name="get_case_paragraphs",
+            description="⚠️ DEPRECATED — Full paragraph text is no longer stored. Use get_case to retrieve the summary + download links, then access the full text via the provided URLs.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "citation": {"type": "string", "description": "Case citation (e.g. [2024] HCA 1)"},
+                    "section_types": {"type": "array", "items": {"type": "string"}, "description": "Filter by section types (e.g. FACTS, REASONING)"},
+                    "paragraph_start": {"type": "integer", "description": "Offset within filtered results", "default": 0},
+                    "paragraph_limit": {"type": "integer", "description": "Max paragraphs (default 50, max 100)", "default": 50},
+                    "range_start": {"type": "integer", "description": "Start of sequence order range"},
+                    "range_end": {"type": "integer", "description": "End of sequence order range"},
+                },
+                "required": ["citation"],
+            },
+        ),
+        Tool(
+            name="search_case_paragraphs",
+            description="⚠️ DEPRECATED — Full paragraph text is no longer indexed. Use search_cases to find cases by summary content, then get_case for full details.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "query": {"type": "string", "description": "Search query"},
+                    "citation": {"type": "string", "description": "Optional case citation to scope search"},
+                    "section_types": {"type": "array", "items": {"type": "string"}, "description": "Filter by section types"},
+                    "limit": {"type": "integer", "description": "Max results (default 10)", "default": 10},
+                },
+                "required": ["query"],
+            },
+        ),
+        Tool(
+            name="download_case",
+            description="Get download links for a case: court website (if available), AustLII, and hosted HTML. Ordered by preference: court URL first (most authoritative), then AustLII, then hosted HTML. Use these URLs to retrieve the full judgment text.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "citation": {"type": "string", "description": "Case citation (e.g. [2024] HCA 1)"},
+                },
+                "required": ["citation"],
+            },
+        ),
+    ]
+
+
+@mcp_server.call_tool()
+async def call_tool(name: str, arguments: dict) -> list[TextContent]:
+    logger.info(f"MCP tool call: {name}({arguments})")
+    try:
+        if name == "search_legislation":
+            return await _search_legislation(arguments)
+        elif name == "get_section":
+            return await _get_section(arguments)
+        elif name == "list_acts":
+            return await _list_acts(arguments)
+        elif name == "get_act_tree":
+            return await _get_act_tree(arguments)
+        elif name == "get_definition":
+            return await _get_definition(arguments)
+        elif name == "get_rulings_for_section":
+            return await _get_rulings_for_section(arguments)
+        elif name == "get_ruling":
+            return await _get_ruling(arguments)
+        elif name == "search_cases":
+            return await _search_cases(arguments)
+        elif name == "get_info":
+            return await _get_info(arguments)
+        elif name == "get_case":
+            return await _get_case(arguments)
+        elif name == "list_rulings":
+            return await _list_rulings(arguments)
+        elif name == "get_case_paragraphs":
+            return await _get_case_paragraphs(arguments)
+        elif name == "search_case_paragraphs":
+            return await _search_case_paragraphs(arguments)
+        elif name == "download_case":
+            return await _download_case(arguments)
+        else:
+            return [TextContent(type="text", text=json.dumps({"error": f"Unknown tool: {name}"}))]
+    except Exception as e:
+        logger.exception(f"MCP tool error: {name}")
+        return [TextContent(type="text", text=json.dumps({"error": str(e)}))]
+
+
+# ---------------------------------------------------------------------------
+# Tool implementations
+# ---------------------------------------------------------------------------
+
+async def _search_legislation(args: dict) -> list[TextContent]:
+    q = args.get("query", "").strip()
+    act = args.get("act")
+    limit = min(100, max(1, args.get("limit", 20)))
+    result = fts_search(q, act, limit=limit)
+    payload = {
+        "query": q,
+        "total": result["total_count"],
+        "results": result["results"],
+    }
+    return [TextContent(type="text", text=json.dumps(payload, indent=2))]
+
+
+async def _get_section(args: dict) -> list[TextContent]:
+    act = args["act"]
+    section = args["section"].strip()
+    # Normalise: strip leading s/sec/section (case-insensitive)
+    section = _re.sub(r'^(?:s(?:ec(?:tion)?)?\.?)\s+', '', section, flags=_re.IGNORECASE).strip()
+    # Reject common non-normalised forms
+    if _re.match(r'^\d+(\.\d)', section):
+        return [TextContent(type="text", text=json.dumps({"error": f"Section '{args['section']}' not found. Use hyphenated format (e.g. 8-1) not dotted (8.1)."}))]
+    # Cross-act format detection
+    has_hyphen = '-' in section
+    is_1936 = act == 'itaa-1936'
+    if has_hyphen and is_1936:
+        return [TextContent(type="text", text=json.dumps({"error": f"Section {section} not found in itaa-1936; ITAA 1936 sections are unhyphenated (e.g. 23AH). Did you mean itaa-1997 s {section}?"}))]
+    if not has_hyphen and act in ('itaa-1997', 'gst-1999', 'taa-1953'):
+        # Could be a single-digit section like '6' — check if it exists in the tree first
+        pass  # let the lookup handle it
+    tree = load_tree(act)
+    section_path = None
+    for part in tree.get("parts", []):
+        for sec in part.get("sections", []):
+            if sec["id"] == section:
+                section_path = sec["path"]
+                break
+        if section_path:
+            break
+        for div in part.get("divisions", []):
+            for sec in div.get("sections", []):
+                if sec["id"] == section:
+                    section_path = sec["path"]
+                    break
+            if not section_path:
+                for sub in div.get("subdivisions", []):
+                    for sec in sub.get("sections", []):
+                        if sec["id"] == section:
+                            section_path = sec["path"]
+                            break
+            if section_path:
+                break
+        if section_path:
+            break
+
+    if not section_path:
+        for md in (DATA_DIR / act / "sections").rglob(f"{section}.md"):
+            section_path = str(md.relative_to(DATA_DIR / act / "sections"))
+            break
+
+    if not section_path:
+        return [TextContent(type="text", text=json.dumps({"error": f"Section {section} not found"}))]
+
+    md_path = DATA_DIR / act / "sections" / section_path
+    if not md_path.exists():
+        return [TextContent(type="text", text=json.dumps({"error": "Section file not found"}))]
+
+    content = md_path.read_text(encoding="utf-8")
+    body = content
+    if content.startswith("---"):
+        fm_end = _re.search(r'\n---\s*\n', content)
+        if fm_end:
+            body = content[fm_end.end():]
+
+    # Detect truncation: the last substantive line should end with
+    # sentence-ending punctuation, not be cut mid-clause
+    body_clean = _re.sub(r'\n---\s*\*Last updated:.*?\*', '', body, flags=_re.DOTALL)
+    body_clean = _re.sub(r'\n---\s*$', '', body_clean)
+    body_stripped = body_clean.strip()
+    truncated = bool(body_stripped) and not _re.search(r'[.\)"\'!?]\s*$', body_stripped)
+
+    return [TextContent(type="text", text=json.dumps({
+        "act": act,
+        "section": section,
+        "body": body,
+        "truncated": truncated,
+    }, indent=2))]
+
+
+async def _list_acts(_args: dict) -> list[TextContent]:
+    acts = []
+    for act_dir in sorted(DATA_DIR.iterdir()):
+        if act_dir.is_dir() and (act_dir / "tree.json").exists():
+            tree = load_tree(act_dir.name)
+            acts.append({
+                "id": act_dir.name,
+                "name": tree.get("act", act_dir.name),
+                "compilation_no": tree.get("compilation_no"),
+                "compilation_date": tree.get("compilation_date"),
+            })
+    acts.append({"id": "rulings", "name": "ATO Rulings"})
+    return [TextContent(type="text", text=json.dumps({"acts": acts}, indent=2))]
+
+
+async def _get_act_tree(args: dict) -> list[TextContent]:
+    act = args["act"]
+    depth = args.get("depth", "sections")
+    tree = load_tree(act)
+    if depth == "parts":
+        # Strip all children — only return top-level parts
+        pruned = {
+            "act": tree.get("act", act),
+            "compilation_no": tree.get("compilation_no"),
+            "compilation_date": tree.get("compilation_date"),
+            "depth": "parts",
+            "parts": [
+                {"id": p.get("id"), "title": p.get("title")}
+                for p in tree.get("parts", [])
+            ],
+        }
+        return [TextContent(type="text", text=json.dumps(pruned, indent=2))]
+    elif depth == "divisions":
+        pruned = {
+            "act": tree.get("act", act),
+            "compilation_no": tree.get("compilation_no"),
+            "compilation_date": tree.get("compilation_date"),
+            "depth": "divisions",
+            "parts": [],
+        }
+        for p in tree.get("parts", []):
+            part = {"id": p.get("id"), "title": p.get("title"), "divisions": []}
+            for d in p.get("divisions", []):
+                part["divisions"].append({"id": d.get("id"), "title": d.get("title")})
+            pruned["parts"].append(part)
+        return [TextContent(type="text", text=json.dumps(pruned, indent=2))]
+    return [TextContent(type="text", text=json.dumps(tree, indent=2))]
+
+
+async def _get_definition(args: dict) -> list[TextContent]:
+    """Return definition text for a term in an act."""
+    act = args["act"]
+    term = args["term"]
+    result = get_definition_text(act, term)
+    if result:
+        return [TextContent(type="text", text=json.dumps(result, indent=2))]
+    return [TextContent(type="text", text=json.dumps({"error": f"Definition for '{term}' not found in {act}"}))]
+
+
+async def _get_rulings_for_section(args: dict) -> list[TextContent]:
+    from backend.services.data_loader import load_rulings
+    rulings = get_rulings_for_section(args["act"], args["section"], limit=50, offset=0)
+    ruling_list = load_rulings()
+    richer = []
+    for r in rulings:
+        found = next((item for item in ruling_list if item["citation"] == r["citation"]), None)
+        if found:
+            richer.append(found)
+        else:
+            richer.append(r)
+    return [TextContent(type="text", text=json.dumps({"rulings": richer}, indent=2))]
+
+
+async def _get_info(_args: dict) -> list[TextContent]:
+    """Return server version, usage conventions, and tools."""
+    # Live counts
+    rulings_count = len(load_rulings())
+    try:
+        import subprocess
+        r = subprocess.run(
+            ["docker", "exec", "cadena-postgres", "psql", "-U", "postgres",
+             "-d", "cadena_knowledge", "-tA",
+             "-c", "SELECT COUNT(*) FROM cases c WHERE EXISTS (SELECT 1 FROM case_paragraphs cp WHERE cp.case_id = c.id);"],
+            capture_output=True, text=True, timeout=10
+        )
+        cases_count = int(r.stdout.strip())
+    except Exception:
+        cases_count = 7375
+
+    import os
+    summaries_dir = "/home/harrison/legislation-explorer/scripts/cleaned/summaries"
+    summaries_count = len([f for f in os.listdir(summaries_dir) if f.endswith(".json")]) if os.path.isdir(summaries_dir) else 0
+
+    mcp_tools = [
+        "search_legislation", "get_section", "list_acts", "get_act_tree",
+        "get_definition", "get_rulings_for_section", "search_cases",
+        "get_info", "get_ruling", "get_case",
+        "download_case", "list_rulings",
+    ]
+    return [TextContent(type="text", text=json.dumps({
+        "name": "Legislation Explorer",
+        "version": VERSION,
+        "usage": {
+            "act_ids": {
+                "itaa-1997": "Income Tax Assessment Act 1997",
+                "itaa-1936": "Income Tax Assessment Act 1936",
+                "gst-1999": "GST Act 1999",
+                "taa-1953": "TAA 1953",
+                "nz-it-2007": "NZ Income Tax Act 2007",
+                "master-tax-guide": "Australian Master Tax Guide (commentary)",
+                "master-gst-guide": "Australian Master GST Guide (commentary)",
+                "master-tax-examples": "Australian Master Tax Examples (commentary)",
+                "rulings": "ATO rulings corpus",
+            },
+            "section_format": {
+                "note": "Leading s/sec/section is stripped automatically. Nothing else is normalised.",
+                "itaa-1997": "Hyphenated: 8-1, 6-5, 995-1, 855-40",
+                "itaa-1936": "Unhyphenated with letter suffix: 23AH, 6, 109Z, 177D",
+                "gst-1999": "Hyphenated: 195-1",
+                "taa-1953": "Schedule 1 provisions: 284-15",
+                "rejected": ["8.1", "8(1)"],
+                "subsections": "Pass the section only; get_section returns the whole section including subsections",
+            },
+            "citation_format": {
+                "rulings": {
+                    "accepted": ["TR 2024/1", "TR_2024_1", "PCG 2017/13", "PS LA 2011/12"],
+                    "rejected": ["TR2024/1"],
+                    "aliases": "LCR normalises to LCG",
+                    "types": ["TR", "TD", "PCG", "PS LA", "LCG", "AID", "IT"],
+                },
+                "cases": {
+                    "required": "Bracketed medium-neutral form: [2024] HCA 1",
+                    "rejected": ["2024 HCA 1", "FCAFC 135 (2020)", "case names"],
+                    "note": "To search by case name or topic, call search_cases(query) first — it searches AI summaries and returns matching citations",
+                    "courts": ["HCA", "FCAFC", "FCA", "ARTA"],
+                },
+            },
+            "workflows": {
+                "find a provision": "search_legislation(query, act?) -> get_section(act, section)",
+                "browse an act": "get_act_tree(act, depth='parts') -> get_section",
+                "defined term": "get_definition(act, term); may return a cross-reference pointer, follow it with get_section",
+                "ATO guidance on a provision": "get_rulings_for_section(act, section) -> get_ruling(citation)",
+                "case by name or topic": "search_cases(query) -> get_case(citation) -> download_case(citation) for full text URLs",
+                "proposition across case law": "search_cases(query) -> get_case(citation) — summaries include facts, issues, held, reasoning, and cases cited",
+                "full judgment text": "download_case(citation) — returns court → AustLII → hosted HTML URLs. Court URL is most authoritative.",
+            },
+            "deprecated_tools": {
+                "get_case_paragraphs": "Replaced by get_case(citation) — returns summary + download links",
+                "search_case_paragraphs": "Replaced by search_cases(query) — searches AI summaries",
+            },
+            "limits": {
+                "search_legislation.limit": "default 20, max 100",
+                "search_cases.limit": "default 20, max 100; searches across AI summaries and case metadata",
+                "list_rulings.limit": "default 100, 0 for all; use counts_only for a fast histogram",
+            },
+            "coverage": {
+                "acts": "compilation 2026-04-01 (most acts)",
+                "rulings": rulings_count,
+                "cases_in_db": cases_count,
+                "cases_with_summaries": summaries_count,
+                "caveat": "An empty result means nothing in this corpus matched, not that no authority exists. Verify before relying on a nil result.",
+            },
+        },
+        "mcp_tools": mcp_tools,
+        "mcp_tool_count": len(mcp_tools),
+        "changelog_url": "https://legislation.scriptkitty.yachts/api/info",
+        "changelog": [ch for ch in CHANGELOG if ch["version"] == VERSION],
+}, indent=2))]
+
+
+async def _search_cases(args: dict) -> list[TextContent]:
+    """Search tax cases by querying summaries on disk (citation, case_name, facts, issues, held, reasoning, outcome) and PostgreSQL metadata. Returns results with weblinks."""
+    import os as _os
+    from pathlib import Path
+    from urllib.parse import quote as _quote
+
+    query = args.get("query", "").strip().lower()
+    limit = min(100, max(1, args.get("limit", 20)))
+    if not query:
+        return [TextContent(type="text", text=json.dumps({"total": 0, "results": [], "note": "Query required"}))]
+
+    summaries_dir = Path("/home/harrison/legislation-explorer/scripts/cleaned/summaries")
+    results = []
+
+    # Search summaries on disk (fast, no DB hit)
+    words = query.split()
+    if summaries_dir.is_dir():
+        for f in _os.listdir(str(summaries_dir)):
+            if not f.endswith(".json"):
+                continue
+            try:
+                with open(summaries_dir / f) as fh:
+                    s = json.load(fh)
+            except Exception:
+                continue
+            # Build searchable text from summary fields
+            text_parts = [
+                s.get("citation", ""),
+                s.get("case_name", ""),
+                s.get("facts", ""),
+                s.get("held", ""),
+                s.get("reasoning", ""),
+                s.get("outcome", ""),
+            ]
+            # Handle list fields safely
+            for lst_key in ("issues", "cases_cited", "legislation_cited"):
+                val = s.get(lst_key, [])
+                if isinstance(val, list):
+                    text_parts.extend(str(item) for item in val if isinstance(item, str))
+                elif isinstance(val, str):
+                    text_parts.append(val)
+            haystack = " ".join(text_parts).lower()
+            if all(w in haystack for w in words):
+                results.append({
+                    "citation": s.get("citation", ""),
+                    "case_name": s.get("case_name", ""),
+                    "court": s.get("court", ""),
+                    "year": s.get("citation", "")[1:5] if s.get("citation", "").startswith("[") else "",
+                    "has_summary": True,
+                    "html_url": f"https://dev.scriptkitty.yachts/tax-cases/{_quote(s.get('citation', ''))}",
+                })
+
+    # Also search PostgreSQL for cases with metadata but no summary yet
+    if len(results) < limit * 2:
+        safe = query.replace("'", "''")
+        try:
+            import subprocess
+            like_clause = " OR ".join(f"c.case_name ILIKE '%{w}%' OR c.citation ILIKE '%{w}%'" for w in words)
+            r = subprocess.run(
+                ["docker", "exec", "cadena-postgres", "psql", "-U", "postgres",
+                 "-d", "cadena_knowledge", "-tA",
+                 "-c", f"SELECT c.citation, c.case_name, c.court FROM cases c WHERE ({like_clause}) ORDER BY c.citation LIMIT {limit};"],
+                capture_output=True, text=True, timeout=10
+            )
+            for line in r.stdout.strip().split("\n"):
+                if not line.strip():
+                    continue
+                parts = line.split("|", 2)
+                cit = parts[0].strip()
+                name = parts[1].strip() if len(parts) > 1 else ""
+                court = parts[2].strip() if len(parts) > 2 else ""
+                # Skip if already in results
+                if any(r["citation"] == cit for r in results):
+                    continue
+                results.append({
+                    "citation": cit,
+                    "case_name": name,
+                    "court": court,
+                    "year": cit[1:5] if cit.startswith("[") else "",
+                    "has_summary": False,
+                    "html_url": f"https://dev.scriptkitty.yachts/tax-cases/{_quote(cit)}",
+                })
+        except Exception:
+            pass
+
+    return [TextContent(type="text", text=json.dumps({
+        "total": len(results),
+        "results": results[:limit],
+        "note": "Searches AI summaries and case metadata. Results with summaries are richer than metadata-only results. Use get_case for full details. ⚠️ search_case_paragraphs is deprecated — use this instead.",
+    }, indent=2))]
+
+
+async def _get_ruling(args: dict) -> list[TextContent]:
+    import json as _json
+    import re as _re
+    from pathlib import Path
+    from backend.services.data_loader import load_rulings, _strip_ato_chrome
+    citation = args["citation"]
+    # Citation alias: LCR → LCG
+    CITATION_ALIASES = {"LCR": "LCG"}
+    # Normalize: "TR 2020/1" → "TR_2020_1"
+    normalized = _re.sub(r'[\s/]+', '_', citation).strip('_')
+    candidates = {normalized}
+    prefix_m = _re.match(r'^([A-Za-z]+)_(.*)$', normalized)
+    if prefix_m and prefix_m.group(1).upper() in CITATION_ALIASES:
+        candidates.add(f"{CITATION_ALIASES[prefix_m.group(1).upper()]}_{prefix_m.group(2)}")
+    for r in load_rulings():
+        if r["citation"] in candidates:
+            path = Path(r["source"])
+            content = path.read_text(encoding="utf-8") if path.exists() else ""
+            stripped = _strip_ato_chrome(content)
+            MAX_PREVIEW = 5000  # ~1250 tokens — preview only
+            preview = stripped[:MAX_PREVIEW]
+            truncated = len(stripped) > MAX_PREVIEW
+            return [TextContent(type="text", text=_json.dumps({
+                "citation": r["citation"],
+                "citation_display": r.get("citation_display", ""),
+                "title": r["title"],
+                "full_title": r.get("full_title", ""),
+                "type": r["type"],
+                "year": r["year"],
+                "withdrawn": r.get("withdrawn", False),
+                "ato_url": r.get("ato_url", ""),
+                "austlii_url": r.get("austlii_url", ""),
+                "content_preview": preview,
+                "content_truncated": truncated,
+                "total_content_length": len(stripped),
+                "note": "Full content truncated to save tokens. Use the ruling URL on ATO.gov.au or AustLII for the complete text." if truncated else None,
+            }, indent=2))]
+    return [TextContent(type="text", text=_json.dumps({"error": f"Ruling {citation} not found"}))]
+
+
+async def _list_rulings(args: dict) -> list[TextContent]:
+    """Return rulings grouped by year and type, with optional filters."""
+    import json as _json
+    from backend.services.data_loader import load_rulings
+    rulings = load_rulings()
+
+    filter_type = args.get("type")
+    filter_year = args.get("year")
+    limit = args.get("limit", 100)
+    offset = args.get("offset", 0)
+    counts_only = args.get("counts_only", False)
+
+    # Apply filters
+    if filter_type:
+        filter_type = filter_type.upper()
+        rulings = [r for r in rulings if r.get("type", "").upper() == filter_type]
+    if filter_year:
+        rulings = [r for r in rulings if r.get("year") == filter_year]
+
+    if counts_only:
+        years: dict = {}
+        no_year = {}
+        for r in rulings:
+            y = r.get("year", 0)
+            t = r.get("type", "Ruling")
+            if y == 0:
+                no_year[t] = no_year.get(t, 0) + 1
+            else:
+                if y not in years:
+                    years[y] = {}
+                years[y][t] = years[y].get(t, 0) + 1
+        payload = {
+            "mode": "counts_only",
+            "total_rulings": len(rulings),
+            "by_year": years,
+        }
+        if no_year:
+            payload["no_year"] = no_year
+            payload["no_year_total"] = sum(no_year.values())
+            payload["note"] = (
+                f"Rulings without a year field ({sum(no_year.values())} total) "
+                f"grouped under 'no_year'. These are mostly IT (income tax) rulings "
+                f"with sequential numbering instead of annual numbering."
+            )
+        return [TextContent(type="text", text=_json.dumps(payload, indent=2))]
+
+    # Apply pagination
+    if limit > 0:
+        rulings = rulings[offset:offset + limit]
+    elif offset > 0:
+        rulings = rulings[offset:]
+
+    # Group by year, then type
+    years: dict = {}
+    no_year_items = []
+    for r in rulings:
+        y = r.get("year", 0)
+        t = r.get("type", "Ruling")
+        if y == 0:
+            no_year_items.append(r)
+            continue
+        if y not in years:
+            years[y] = {}
+        if t not in years[y]:
+            years[y][t] = []
+        years[y][t].append({
+            "citation": r["citation"],
+            "citation_display": r.get("citation_display", ""),
+            "title": r.get("full_title", r.get("title", "")),
+            "withdrawn": r.get("withdrawn", False),
+            "ato_url": r.get("ato_url", ""),
+            "austlii_url": r.get("austlii_url", ""),
+        })
+
+    payload = {
+        "ato_rulings_total": len(rulings),
+        "filter_type": filter_type,
+        "filter_year": filter_year,
+        "by_year": years,
+    }
+    if no_year_items:
+        payload["no_year"] = [
+            {
+                "citation": r["citation"],
+                "citation_display": r.get("citation_display", ""),
+                "title": r.get("full_title", r.get("title", "")),
+                "withdrawn": r.get("withdrawn", False),
+                "ato_url": r.get("ato_url", ""),
+                "austlii_url": r.get("austlii_url", ""),
+            }
+            for r in no_year_items
+        ]
+        payload["no_year_total"] = len(no_year_items)
+        payload["note"] = (
+            f"Rulings without a year field ({len(no_year_items)} total) "
+            f"listed under 'no_year'. These are mostly IT (income tax) rulings "
+            f"with sequential numbering instead of annual numbering."
+        )
+
+    return [TextContent(type="text", text=_json.dumps(payload, indent=2))]
+
+
+async def _get_case(args: dict) -> list[TextContent]:
+    """Get case metadata, structural outline, summary, and download links."""
+    from pathlib import Path
+    from urllib.parse import quote
+
+    citation_raw = args["citation"]
+    citation = _normalise_case_citation(citation_raw) or citation_raw
+
+    # Build dev site URL
+    dev_site_url = f"https://dev.scriptkitty.yachts/tax-cases/{quote(citation)}"
+
+    # Build download URLs (AustLII + court)
+    download_urls = build_download_urls(citation)
+
+    # Look up summary JSON from disk
+    safe_name = citation.replace(" ", "_").replace("[", "").replace("]", "").replace("/", "_")
+    summary_path = Path("/home/harrison/legislation-explorer/scripts/cleaned/summaries") / f"{safe_name}.json"
+    summary = None
+    if summary_path.exists():
+        try:
+            with open(summary_path) as f:
+                summary = json.load(f)
+        except Exception:
+            pass
+
+    include_legislation_refs = args.get("include_legislation_refs", False)
+    result = get_case_metadata(citation, include_legislation_refs=include_legislation_refs)
+
+    if result is None:
+        return [TextContent(type="text", text=json.dumps({
+            "error": f"Case not found in database: {citation}",
+            "hint": (
+                "The case was not found in the local database. Try one of: "
+                "(a) search_cases(query=...) to verify the citation format, "
+                "(b) download_case(citation=...) to get AustLII/court URLs, "
+                "(c) check the citation format — required: [2024] HCA 1, "
+                "rejected: '2024 HCA 1' or 'HCA 1 (2024)'."
+            ),
+        }))]
+
+    # Merge summary + download URLs into result
+    result["summary"] = summary
+    result["download_urls"] = {
+        "html_url": dev_site_url,
+        "austlii_url": download_urls.get("austlii_url") if download_urls else None,
+        "court_url": download_urls.get("court_url") if download_urls else None,
+    }
+    return [TextContent(type="text", text=json.dumps(result, indent=2))]
+
+
+async def _get_case_paragraphs(args: dict) -> list[TextContent]:
+    """⚠️ DEPRECATED — Full paragraph text is no longer stored."""
+    citation_raw = args.get("citation", "")
+    citation = _normalise_case_citation(citation_raw) or citation_raw
+    return [TextContent(type="text", text=json.dumps({
+        "deprecated": True,
+        "message": "get_case_paragraphs is deprecated. Full paragraph text is no longer stored in this database.",
+        "replacement": "get_case",
+        "action": f"Use get_case(citation=\"{citation}\") to retrieve the AI summary and download links, then access the full judgment text via the court URL or AustLII URL.",
+    }, indent=2))]
+
+
+async def _search_case_paragraphs(args: dict) -> list[TextContent]:
+    """⚠️ DEPRECATED — Full paragraph text is no longer indexed."""
+    query = args.get("query", "")
+    return [TextContent(type="text", text=json.dumps({
+        "deprecated": True,
+        "message": "search_case_paragraphs is deprecated. Full paragraph text is no longer stored in this database.",
+        "replacement": "search_cases",
+        "action": f"Use search_cases(query=\"{query}\") to search case AI summaries and metadata instead.",
+    }, indent=2))]
+
+
+async def _download_case(args: dict) -> list[TextContent]:
+    """Get download links for full case text — ordered by preference: court, AustLII, hosted HTML."""
+    from urllib.parse import quote
+    citation_raw = args["citation"]
+    citation = _normalise_case_citation(citation_raw) or citation_raw
+    result = build_download_urls(citation)
+    if result is None:
+        return [TextContent(type="text", text=json.dumps({"error": f"Could not parse or find case: {citation}"}))]
+    # Add dev site HTML URL
+    dev_url = f"https://dev.scriptkitty.yachts/tax-cases/{quote(citation)}"
+    result["html_url"] = dev_url
+    # Reorder: court first, then AustLII, then HTML
+    ordered = {
+        "citation": result.get("citation"),
+        "case_name": result.get("case_name"),
+        "court_url": result.get("court_url"),
+        "austlii_url": result.get("austlii_url"),
+        "html_url": result.get("html_url"),
+        "content_length": result.get("content_length"),
+        "paragraph_count": result.get("paragraph_count"),
+        "note": (
+            "Full text is available for download. Court website is the most authoritative "
+            "source, then AustLII, then hosted HTML. If downloading via curl/HTTP fails "
+            "(e.g. bot protection), open the URL in a regular browser."
+        ),
+    }
+    return [TextContent(type="text", text=json.dumps(ordered, indent=2))]
+
+
+# ---------------------------------------------------------------------------
+# SSE handlers with auth + rate limiting + session-bound tokens
+# ---------------------------------------------------------------------------
+
+# ---------------------------------------------------------------------------
+# Streamable HTTP handler
+# ---------------------------------------------------------------------------
+
+
+async def handle_mcp_streamable(request: Request):
+    """Handle Streamable HTTP MCP requests with token auth."""
+    import os
+    from starlette.responses import Response
+
+    # Dev mode: skip all auth
+    if os.environ.get("DEV_MODE", "").lower() in ("true", "1", "yes"):
+        return await _run_mcp_session(request)
+
+    # Extract token from Authorization header, query param, or path segment
+    token = ""
+    auth = request.headers.get("Authorization", "")
+    if auth.startswith("Bearer "):
+        token = auth[7:]
+    if not token:
+        token = request.query_params.get("token", "")
+    if not token:
+        # Path-segment token: /mcp/{token}
+        path = request.url.path
+        if path.startswith("/mcp/") and len(path) > 5:
+            token = path.split("/mcp/", 1)[-1].split("?")[0].split("/")[0]
+
+    if not token:
+        return Response("Missing token", status_code=401, headers={"WWW-Authenticate": "Bearer"})
+
+    if not token_manager.validate_token(token):
+        return Response("Invalid or revoked token", status_code=403)
+    allowed, reason = token_manager.check_rate_limit(token)
+    if not allowed:
+        return Response(reason, status_code=429)
+
+    return await _run_mcp_session(request)
+
+
+async def _run_mcp_session(request: Request):
+    """Create a fresh MCP session for a request."""
+    import anyio
+    from starlette.responses import Response
+
+    transport = StreamableHTTPServerTransport(
+        mcp_session_id=None,
+        is_json_response_enabled=True,
+    )
+
+    async def run_mcp_server(*, task_status=anyio.TASK_STATUS_IGNORED):
+        async with transport.connect() as streams:
+            read_stream, write_stream = streams
+            task_status.started()
+            try:
+                await mcp_server.run(
+                    read_stream,
+                    write_stream,
+                    mcp_server.create_initialization_options(),
+                    stateless=True,
+                )
+            except Exception:
+                logger.exception("StreamableHTTP session crashed")
+
+    async with anyio.create_task_group() as tg:
+        await tg.start(run_mcp_server)
+        await transport.handle_request(
+            request.scope, request.receive, request._send
+        )
+
+    await transport.terminate()
+    return Response("OK", status_code=200)

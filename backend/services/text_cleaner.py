@@ -253,4 +253,55 @@ def clean_ruling_body(body: str) -> dict:
     result = _BOLD_CLEAN.sub(r'\1', result)
 
     result = result.strip()
+    result = _strip_citation_block(result)
     return {'body': result, 'descriptive_title': descriptive_title}
+
+
+# ── Strip citation/cover-sheet block from body ──────────────────────────────
+
+
+def _strip_citation_block(body: str) -> str:
+    """Remove the initial citation line(s) and cover sheet from the body.
+
+    The first few lines of a ruling typically are:
+      TR 2024/1 - Income tax: composite items ...
+      This cover sheet is provided for information only...
+      There is a Compendium for this document...
+      Generated on: ...
+
+    These duplicate the page-level heading and should not render as body text.
+    """
+    lines = body.splitlines()
+    if not lines or len(lines) < 3:
+        return body
+
+    # Find the first non-empty line
+    first_content_idx = 0
+    for i, line in enumerate(lines):
+        if line.strip():
+            first_content_idx = i
+            break
+
+    if first_content_idx >= len(lines):
+        return body
+
+    first_line = lines[first_content_idx].strip()
+
+    # If the first line looks like a citation (e.g. "TR 2024/1 - ..." or "TR 2024/1 | ..."), strip it
+    # and any following cover-sheet / generated-on lines
+    if re.match(r'^[A-Z]{2,6}\s+\d{4}/\d+(\s*[-–—|]|\s*$)', first_line, re.IGNORECASE):
+        # Find the first substantive line after the citation block
+        start_idx = first_content_idx + 1
+        for i in range(first_content_idx + 1, min(first_content_idx + 15, len(lines))):
+            s = lines[i].strip()
+            if not s:
+                continue
+            # Skip cover sheet, compendium, generated-on, and standalone "Taxation Ruling" lines
+            if re.match(r'^(This cover sheet|There is a Compendium|Generated on|Taxation Ruling|Taxation Determination|Status:|[A-Z]{2,6}\s+\d{4}/\d+\s*$)', s, re.IGNORECASE):
+                start_idx = i + 1
+                continue
+            # Stop at the first meaningful line
+            break
+        body = '\n'.join(lines[start_idx:])
+
+    return body
