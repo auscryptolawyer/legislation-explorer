@@ -119,6 +119,18 @@ The memo raises a conflict between step 3 and step 6 twice, in Common Blocker 5 
 - The memo cites "s 152-115 / s 152-45" as the rules to check. s 152-45 is inapposite (124-B/FSR/126-A only, and about the active asset test, not the 15-year exemption). Replace it with **s 152-110(1)(c) read with s 152-115(3)**.
 - Practical consequence for the cascade: where the 15-year exemption is the target (step 5/6), a restructure into a **new** entity is hazardous. Prefer a route that keeps the significant-individual history intact — e.g. establish the qualifying SI history in the entity that will ultimately sell, well before any restructure, or avoid the fresh-entity reset where the 15-year exemption is being relied on.
 
+### 3.1A The significant-individual requirement is a cost of the *structure*, not the exemption
+
+The entire SI apparatus — step 4's "manufacture the significant individual across the required period," the s 152-110(1)(c) 15-year history, and the 328-G history trap in §3.1 — exists **only because the memo runs the asset through a company or trust**. Verified against s 152-105, s 152-110 and Master Tax Guide ¶7-165:
+
+- **Individual owning the active asset directly** — s 152-105. The 15-year-SI condition in s 152-105(c) applies *only "if the CGT asset is a share in a company or an interest in a trust."* A direct asset owner needs **no significant individual at all**: basic conditions + 15 years' continuous ownership + 55/retiring (or permanently incapacitated). Step 4 is unnecessary and the 328-G (1)(c) trap never arises.
+- **Company or trust owning the asset** — s 152-110. Needs a significant individual for periods **totalling at least 15 years** ((1)(c); not continuous, not the same person), plus an SI just before the event who is 55/retiring ((1)(d)).
+- **Individual owning shares/units in the trading company/trust** — s 152-105(c) reimposes the 15-year SI test on the underlying entity. No escape.
+
+**On the "15 years" itself:** it is 15 years **in aggregate**, not continuous and not one person. Where the asset is owned **longer** than 15 years there is slack (any 15 of the ownership years, with SI-free years permitted); where owned for the **bare 15-year minimum** there is none. You cannot qualify on fewer than 15 aggregate years, and the history cannot be back-filled.
+
+**Takeaway for the entry:** the cleanest path for a marginal vendor who can hold the active asset **personally** is direct individual ownership — it removes step 4, removes the 328-G SI trap, and leaves only the 15-year ownership + retirement conditions. The memo never draws the individual-vs-entity line; it should, at the front.
+
 ### 3.2 Step 2 levers are partly unavailable and partly wrong
 
 1. **Individuals only.** s 152-20(2)(b) opens "if the entity is an individual". Where countable assets sit in a company or trust, personal-use conversion is unavailable. The client profile expressly covers both.
@@ -253,6 +265,7 @@ Already flagged in the memo's Common Blockers as the fallback where the signific
 | Step 2 unavailable for non-individuals | High | Qualify the step. s 152-20(2)(b) is individuals only. | — |
 | s 152-20(5) to (7) earnout election missing | High | Add as a step 2 lever. | — |
 | Common Blocker 5 mislabels the 15-year risk | High | **Keep the "model both before choosing" caution.** Reframe around s 152-110(1)(c): s 152-115(3) preserves the acquisition date (continuous ownership) but the significant-individual history does not carry to a fresh transferee. Drop the inapposite s 152-45 reference. | ✅ Corrected — see §3.1 |
+| SI-15-year requirement is a structure cost | High | Add the individual-vs-entity split at the front. Direct individual ownership (s 152-105) needs **no** significant individual; only the company/trust route (s 152-110) and shares/units (s 152-105(c)) do. Removes step 4 and the 328-G SI trap. | ✅ Verified — see §3.1A |
 | BBlood cited at first instance | High | Replace with **[2023] FCAFC 89** for the s 100A holding. [2023] FCAFC 114 is the costs judgment only — cite only if costs are relevant. | ✅ Both confirmed |
 | s 328-455 and s 152-420 miscited | Medium | Correct both. Replacement asset period is **s 104-190** via s 104-185. | ✅ s 104-190 confirmed |
 | Step 5 warns on J5/J6, exposure is J2 | Medium | Rewrite to s 104-185, add the (8) safe harbour. | ✅ J5 (s 104-197) confirmed |
