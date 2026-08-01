@@ -1,0 +1,152 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Introduction to Insolvency \u2013 the Law, Policy and Current Issues",
+      "slug": "01-introduction-to-insolvency-the-law-policy-and-current-issues",
+      "file": "chapters/01-introduction-to-insolvency-the-law-policy-and-current-issues.md",
+      "lines": 1933
+    },
+    {
+      "chapter": 2,
+      "title": "Introduction to Bankruptcy and its Administration",
+      "slug": "02-introduction-to-bankruptcy-and-its-administration",
+      "file": "chapters/02-introduction-to-bankruptcy-and-its-administration.md",
+      "lines": 2373
+    },
+    {
+      "chapter": 3,
+      "title": "Going Bankrupt \u2013 Voluntary and Compulsory Bankruptcy",
+      "slug": "03-going-bankrupt-voluntary-and-compulsory-bankruptcy",
+      "file": "chapters/03-going-bankrupt-voluntary-and-compulsory-bankruptcy.md",
+      "lines": 2307
+    },
+    {
+      "chapter": 4,
+      "title": "Impact of Bankruptcy",
+      "slug": "04-impact-of-bankruptcy",
+      "file": "chapters/04-impact-of-bankruptcy.md",
+      "lines": 1666
+    },
+    {
+      "chapter": 5,
+      "title": "Recovery of Assets for Creditors",
+      "slug": "05-recovery-of-assets-for-creditors",
+      "file": "chapters/05-recovery-of-assets-for-creditors.md",
+      "lines": 1545
+    },
+    {
+      "chapter": 6,
+      "title": "Administration of the Bankruptcy",
+      "slug": "06-administration-of-the-bankruptcy",
+      "file": "chapters/06-administration-of-the-bankruptcy.md",
+      "lines": 3256
+    },
+    {
+      "chapter": 7,
+      "title": "End of a Bankruptcy and Beyond",
+      "slug": "07-end-of-a-bankruptcy-and-beyond",
+      "file": "chapters/07-end-of-a-bankruptcy-and-beyond.md",
+      "lines": 1242
+    },
+    {
+      "chapter": 8,
+      "title": "Personal Insolvency Agreements",
+      "slug": "08-personal-insolvency-agreements",
+      "file": "chapters/08-personal-insolvency-agreements.md",
+      "lines": 1619
+    },
+    {
+      "chapter": 9,
+      "title": "Debt Agreements",
+      "slug": "09-debt-agreements",
+      "file": "chapters/09-debt-agreements.md",
+      "lines": 988
+    },
+    {
+      "chapter": 10,
+      "title": "Introduction to Liquidation and its Administration",
+      "slug": "10-introduction-to-liquidation-and-its-administration",
+      "file": "chapters/10-introduction-to-liquidation-and-its-administration.md",
+      "lines": 2777
+    },
+    {
+      "chapter": 11,
+      "title": "Voluntary and Compulsory Winding Up",
+      "slug": "11-voluntary-and-compulsory-winding-up",
+      "file": "chapters/11-voluntary-and-compulsory-winding-up.md",
+      "lines": 2104
+    },
+    {
+      "chapter": 12,
+      "title": "Provisional Liquidation",
+      "slug": "12-provisional-liquidation",
+      "file": "chapters/12-provisional-liquidation.md",
+      "lines": 529
+    },
+    {
+      "chapter": 13,
+      "title": "Effects of Winding Up",
+      "slug": "13-effects-of-winding-up",
+      "file": "chapters/13-effects-of-winding-up.md",
+      "lines": 809
+    },
+    {
+      "chapter": 14,
+      "title": "Assets Available to the Liquidator",
+      "slug": "14-assets-available-to-the-liquidator",
+      "file": "chapters/14-assets-available-to-the-liquidator.md",
+      "lines": 2238
+    },
+    {
+      "chapter": 15,
+      "title": "Administration of the Winding Up",
+      "slug": "15-administration-of-the-winding-up",
+      "file": "chapters/15-administration-of-the-winding-up.md",
+      "lines": 2977
+    },
+    {
+      "chapter": 16,
+      "title": "Criminal Offences and Civil Actions Against Company Directors",
+      "slug": "16-criminal-offences-and-civil-actions-against-company-directors",
+      "file": "chapters/16-criminal-offences-and-civil-actions-against-company-directors.md",
+      "lines": 1492
+    },
+    {
+      "chapter": 17,
+      "title": "Termination of the Winding Up: Deregistration and Reinstatement",
+      "slug": "17-termination-of-the-winding-up-deregistration-and-reinstatement",
+      "file": "chapters/17-termination-of-the-winding-up-deregistration-and-reinstatement.md",
+      "lines": 799
+    },
+    {
+      "chapter": 18,
+      "title": "Receivership",
+      "slug": "18-receivership",
+      "file": "chapters/18-receivership.md",
+      "lines": 3452
+    },
+    {
+      "chapter": 19,
+      "title": "Voluntary Administration",
+      "slug": "19-voluntary-administration",
+      "file": "chapters/19-voluntary-administration.md",
+      "lines": 3926
+    },
+    {
+      "chapter": 20,
+      "title": "Deeds of Company Arrangement",
+      "slug": "20-deeds-of-company-arrangement",
+      "file": "chapters/20-deeds-of-company-arrangement.md",
+      "lines": 2108
+    },
+    {
+      "chapter": 21,
+      "title": "Restructuring and Workouts",
+      "slug": "21-restructuring-and-workouts",
+      "file": "chapters/21-restructuring-and-workouts.md",
+      "lines": 5664
+    }
+  ],
+  "total": 21
+}

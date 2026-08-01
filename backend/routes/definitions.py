@@ -51,10 +51,15 @@ def section_defined_terms(act: str, section: str):
     if not defs:
         return {"act": act, "section": section, "count": 0, "terms": []}
 
-    body_lower = body.lower()
+    # Only match italicized/bold terms (not plain-text substring matching)
     found = []
-    for term, info in defs.items():
-        if term.lower() in body_lower:
+    seen = set()
+    for m in re.finditer(r"\*([^*\n]+?)\*", body):
+        term = m.group(1).strip()
+        key = term.lower()
+        if key in defs and key not in seen:
+            info = defs[key]
+            seen.add(key)
             found.append({
                 "term": term,
                 "section": info.get("section", ""),

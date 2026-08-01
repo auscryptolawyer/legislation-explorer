@@ -8,7 +8,7 @@ import logging
 from contextlib import contextmanager
 from typing import Any
 
-from backend.config import DATA_DIR, RULING_DIR, SEARCH_DB
+from backend.config import DATA_DIR, RULING_DIR, SEARCH_DB, INSOLVENCY_DIR
 from backend.services.data_loader import load_tree, get_act_section_content
 
 logger = logging.getLogger(__name__)
@@ -135,6 +135,49 @@ def init_search_index() -> None:
             conn.rollback()
             logger.exception("FTS index build failed, rolled back")
             raise
+
+    # --- Insolvency textbook FTS ---
+    if INSOLVENCY_DIR.exists():
+        try:
+            with search_conn() as conn:
+                conn.execute("DROP TABLE IF EXISTS insolvency_fts")
+                conn.execute("""
+                    CREATE VIRTUAL TABLE insolvency_fts USING fts5(
+                        chapter, title, content,
+                        tokenize='porter'
+                    )
+                """)
+                conn.execute("DROP TABLE IF EXISTS insolvency_meta")
+                conn.execute("""
+                    CREATE TABLE insolvency_meta (
+                        chapter INTEGER UNIQUE, title TEXT, slug TEXT
+                    )
+                """)
+
+                ch_tree_path = INSOLVENCY_DIR / "ch-tree.json"
+                indexed_count = 0
+                if ch_tree_path.exists():
+                    ch_tree = json.loads(ch_tree_path.read_text(encoding="utf-8"))
+                    for ch in ch_tree.get("chapters", []):
+                        ch_file = INSOLVENCY_DIR / ch["file"]
+                        if not ch_file.exists():
+                            continue
+                        content_raw = ch_file.read_text(encoding="utf-8", errors="replace")
+                        content = re.sub(r'[#*`_\[\]\(\)]', ' ', content_raw)
+                        content = re.sub(r'\s+', ' ', content).strip()[:50000]
+                        conn.execute(
+                            "INSERT INTO insolvency_fts (chapter, title, content) VALUES (?, ?, ?)",
+                            (str(ch["chapter"]), ch["title"], content)
+                        )
+                        conn.execute(
+                            "INSERT INTO insolvency_meta (chapter, title, slug) VALUES (?, ?, ?)",
+                            (ch["chapter"], ch["title"], ch["slug"])
+                        )
+                    indexed_count = len(ch_tree.get("chapters", []))
+                conn.commit()
+                logger.info(f"Insolvency FTS indexed: {indexed_count} chapters")
+        except Exception:
+            logger.exception("Insolvency FTS index failed (non-fatal)")
 
     logger.info(f"Search index built: {SEARCH_DB}")
 
@@ -312,3 +355,72 @@ def search_rulings(q: str, limit: int = 20) -> list[dict]:
             "snippet": row["snippet"] or "",
         })
     return results
+
+
+def search_insolvency(q: str, limit: int = 20) -> dict:
+    """Search insolvency textbook chapters using FTS5 BM25 ranking."""
+    tokens = q.split()
+    if not tokens:
+        return {"results": [], "total": 0}
+    quoted = []
+    for tok in tokens:
+        if tok.endswith('*') and len(tok) > 1:
+            inner = tok[:-1].replace('"', '""')
+            quoted.append(f'"{inner}"*')
+        else:
+            quoted.append('"' + tok.replace('"', '""') + '"')
+    q_clean = ' '.join(quoted)
+
+    with search_conn() as conn:
+        count_row = conn.execute(
+            "SELECT COUNT(*) FROM insolvency_fts WHERE insolvency_fts MATCH ?",
+            (q_clean,)
+        ).fetchone()
+        total = count_row[0] if count_row else 0
+        sql = """
+            SELECT insolvency_fts.chapter, insolvency_fts.title,
+                   m.slug,
+                   rank, snippet(insolvency_fts, 2, '<mark>', '</mark>', '...', 32) as snippet
+            FROM insolvency_fts
+            JOIN insolvency_meta m ON insolvency_fts.chapter = m.chapter
+            WHERE insolvency_fts MATCH ?
+            ORDER BY rank
+            LIMIT ?
+        """
+        rows = conn.execute(sql, (q_clean, limit)).fetchall()
+
+    results = []
+    for row in rows:
+        results.append({
+            "chapter": int(row["chapter"]),
+            "title": row["title"],
+            "slug": row["slug"],
+            "snippet": row["snippet"] or "",
+        })
+    return {"results": results, "total": total}
+
+
+def get_insolvency_chapter(chapter: int) -> dict | None:
+    """Get full chapter text by chapter number."""
+    import json
+    ch_tree_path = INSOLVENCY_DIR / "ch-tree.json"
+    if not ch_tree_path.exists():
+        return None
+    ch_tree = json.loads(ch_tree_path.read_text(encoding="utf-8"))
+    ch_info = None
+    for ch in ch_tree.get("chapters", []):
+        if ch["chapter"] == chapter:
+            ch_info = ch
+            break
+    if not ch_info:
+        return None
+    ch_file = INSOLVENCY_DIR / ch_info["file"]
+    if not ch_file.exists():
+        return None
+    content = ch_file.read_text(encoding="utf-8", errors="replace")
+    return {
+        "chapter": ch_info["chapter"],
+        "title": ch_info["title"],
+        "slug": ch_info["slug"],
+        "content": content,
+    }

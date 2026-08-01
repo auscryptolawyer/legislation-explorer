@@ -39,7 +39,7 @@ export default function DefinitionPopover({
   const containerRef = useRef<HTMLSpanElement>(null)
   const popoverRef = useRef<HTMLDivElement>(null)
 
-  const termText = extractText(children).trim()
+  const termText = extractText(children).trim().replace(/^\*+|\*+$/g, '')
 
   useEffect(() => {
     if (!open) return
@@ -153,6 +153,10 @@ export default function DefinitionPopover({
                   fontSize: 13,
                   lineHeight: 1.6,
                   marginBottom: 10,
+                  overflowWrap: 'break-word',
+                  wordBreak: 'break-word',
+                  maxHeight: 240,
+                  overflowY: 'auto',
                 }}
               >
                 {data.text}

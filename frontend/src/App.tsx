@@ -108,10 +108,7 @@ export default function App() {
     catch { return 0 }
   })
   const settingsRef = useRef<HTMLDivElement>(null)
-
-  const [commentaryOpen, setCommentaryOpen] = useState(false)
-  const [casesOpen, setCasesOpen] = useState(false)
-  const [rulingsOpen, setRulingsOpen] = useState(false)
+  const [selectedRulingSection, setSelectedRulingSection] = useState<string | null>(null)
 
   // Pins
   const togglePin = () => {
@@ -723,12 +720,6 @@ export default function App() {
             onNavigate={onNavigate}
             onNavigateRuling={onNavigateRuling}
             onNavigateCase={onNavigateCase}
-            commentaryOpen={commentaryOpen}
-            setCommentaryOpen={setCommentaryOpen}
-            casesOpen={casesOpen}
-            setCasesOpen={setCasesOpen}
-            rulingsOpen={rulingsOpen}
-            setRulingsOpen={setRulingsOpen}
           />
         ) : browsingAct && tree && act !== 'rulings' && act !== 'tax-cases' ? (
           <div style={{ fontFamily: "'Montserrat', sans-serif" }}>

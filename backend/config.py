@@ -44,6 +44,9 @@ ALLOWED_ORIGINS = [
     if o.strip()
 ]
 
+# Insolvency textbook
+INSOLVENCY_DIR = DATA_DIR / "insolvency-keays"
+
 # Publication names for commentary
 PUBLICATION_NAMES = {
     "master_tax_guide.json": "Master Tax Guide",

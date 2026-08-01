@@ -19,6 +19,7 @@ from .data_versions import router as data_versions_router
 
 from .graph import router as graph_router
 from .issues import router as issues_router
+from .insolvency import router as insolvency_router
 
 router = APIRouter()
 router.include_router(acts_router)
@@ -34,11 +35,26 @@ router.include_router(admin_router)
 router.include_router(data_versions_router)
 router.include_router(graph_router)
 router.include_router(issues_router)
+router.include_router(insolvency_router)
 
 
-VERSION = "2.7.0"
+VERSION = "2.7.2"
 
 CHANGELOG = [
+    {
+        "version": "2.7.2",
+        "date": "2026-08-01",
+        "title": "Definition popover overflow fix, collapsible Related panel, no-404 defined terms",
+        "changes": [
+            "Definition popover now wraps long text and scrolls — overflow-wrap, word-break, max-height with scrollbar for definitions like 'consolidated group'",
+            "Related panel rewritten with collapsible dropdowns (default closed), max 10 items per category",
+            "References section removed from SectionContent — merged into Related panel to eliminate duplication",
+            "Defined terms now use italic-only matching (regex \\*...\\*) instead of substring match — prevents every common word from appearing as a defined term",
+            "Clicking defined terms no longer 404s — link text asterisks stripped in both backend markdown formatter and frontend DefinitionPopover safety net",
+            "App.tsx cleaned up — removed stale open/close state for commentary/cases/rulings",
+            "Version bumped to 2.7.2",
+        ],
+    },
     {
         "version": "2.7.0",
         "date": "2026-08-05",

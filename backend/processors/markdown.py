@@ -236,6 +236,10 @@ def link_definitions(markdown: str, act: str) -> str:
             info = defs.get(key)
             if info:
                 remainder = candidate[len(prefix) :]
+                # Check if next char is a bare * (italic close) — consume it into the link text
+                next_char = m.string[m.end()] if m.end() < len(m.string) else ""
+                if next_char == "*" and not m.string[m.end() + 1 : m.end() + 2] == "*":
+                    return f'[*{prefix}*](/{act}/s{info["section"]}#{info["anchor"]}){remainder}'
                 return f'[*{prefix}](/{act}/s{info["section"]}#{info["anchor"]}){remainder}'
         return m.group(0)
 

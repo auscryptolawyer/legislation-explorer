@@ -634,6 +634,42 @@ async def search_cases(query: str, limit: int = 20) -> str:
 
 
 @mcp.tool()
+async def insolvency_search(query: str, limit: int = 20) -> str:
+    """Search the Keays Insolvency textbook across all chapters.
+
+    Full-text search across 21 chapters covering personal and corporate
+    insolvency — bankruptcy, liquidation, receivership, voluntary
+    administration, deeds of arrangement, restructuring, and related topics.
+
+    Returns matching chapters with relevance-ranked snippets.
+    Use insolvency_get_chapter to read a full chapter.
+    """
+    from backend.services.search_service import search_insolvency as _search
+    limit = min(50, max(1, limit))
+    query = query.strip()
+    if not query:
+        return json.dumps({"total": 0, "results": []})
+    result = _search(query, limit=limit)
+    return json.dumps(result, indent=2)
+
+
+@mcp.tool()
+async def insolvency_get_chapter(chapter: int) -> str:
+    """Retrieve the full text of a chapter from the Keays Insolvency textbook.
+
+    Parameters:
+    - chapter: Chapter number (1–21)
+
+    Returns the complete chapter text including section markers like [1.05].
+    """
+    from backend.services.search_service import get_insolvency_chapter as _get
+    result = _get(chapter)
+    if result is None:
+        return json.dumps({"error": f"Chapter {chapter} not found"})
+    return result["content"]
+
+
+@mcp.tool()
 async def get_info() -> str:
     """Return server version, usage conventions, tool descriptions, and coverage counts.
 
