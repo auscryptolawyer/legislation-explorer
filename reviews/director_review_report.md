@@ -7,7 +7,9 @@
 
 **Verification source:** Cadena MCP V2.7.2. All ITAA 1997 provisions checked against Compilation 263, last updated 1 April 2026.
 
-> **Status of this document.** This is the updated report. The first pass (1 August 2026) left a block of citations "not verified this session" and flagged several items for confirmation. This continuation closed those gaps against the live Cadena MCP: the s 328-440 material gap, the load-bearing logic sections (s 152-115, s 152-45, s 152-125), the outstanding case law (BBlood appeals, Minerva, Eichmann, PepsiCo, Mylan), and the TR 2022/4 date anomaly are now all verified. **Every one of the first pass's substantive findings was confirmed on verification; none was overturned.** What changed is a handful of refinements, collected in §6. Items that remain genuinely open (Obsidian playbook novelty, Part IVA, ATO QCs) are listed under Scope.
+> **Status of this document.** This is the updated report. The first pass (1 August 2026) left a block of citations "not verified this session" and flagged several items for confirmation. This continuation closed those gaps against the live Cadena MCP: the s 328-440 material gap, the load-bearing logic sections (s 152-115, s 152-45, s 152-125), the outstanding case law (BBlood appeals, Minerva, Eichmann, PepsiCo, Mylan), and the TR 2022/4 date anomaly are now all verified.
+>
+> **Correction (post-review, 1 August 2026).** One first-pass finding was **overturned on closer reading of s 152-115(3) against s 152-110(1)(c)**: the §3.1 conclusion that the 328-G reset preserves *both* the 15-year and the significant-individual clocks was too strong. s 152-115(3) deems the transferee's **acquisition date** back to the transferor's — preserving the *continuous-ownership* limb, s 152-110(1)(b) — but it does **not** carry the transferor's *significant-individual history* to the transferee for the purposes of s 152-110(1)(c). A restructure into a fresh entity can therefore still fail the 15-year exemption on the SI limb. The instruction to "invert Common Blocker 5 and delete 'model both before choosing'" is withdrawn. See the rewritten §3.1 and §6. Every other first-pass finding was confirmed. Items that remain genuinely open (Obsidian playbook novelty, Part IVA, ATO QCs) are listed under Scope.
 
 **Scope limitations:**
 - Part IVA analysis excluded at the reviewer's direction. Flagged only where a provision or authority is misdescribed. (PepsiCo [2025] HCA 30 is now confirmed on the record — see §1.2 — but the Part IVA merits remain out of scope.)
@@ -36,7 +38,7 @@
 | s 152-75 | Verified | Indirect SBPP computed multiplicatively through interposed entities. Load-bearing. |
 | s 152-105 | Not verified | Individual 15-year exemption. Cross-referenced throughout s 152-115; not independently pulled. Low materiality for the cascade (company/trust route governs). |
 | s 152-110 | Verified | All four conditions accurate as stated. Memo omits s 152-110(3). |
-| s 152-115 | **Verified (this session) — memo has this backwards** | s 152-115(3) preserves the 15-year and SI clocks on a 328-450/328-455 transfer. See §3.1. Confirmed verbatim. |
+| s 152-115 | **Verified (this session) — memo half-right** | s 152-115(3) deems the transferee's **acquisition date** back to the transferor's on a 328-450/328-455 transfer, preserving the continuous-ownership limb s 152-110(1)(b). It does **not** carry the significant-individual history for s 152-110(1)(c). See rewritten §3.1. |
 | s 152-125 | **Verified (this session)** | Cap in (2) and both limbs, the later-of window in (1)(b), the (4) extension, the (3) not-a-dividend/not-frankable mechanic, and the (1)(a)(iv) Division 149 opportunity all confirmed verbatim. See §3.3, §3.5, §3.8. |
 | s 152-305 | **Verified (this session)** | Retirement exemption (Strategy 5 fallback). Under-55 individual must contribute the exempt amount to super (1)(b); company/trust needs the significant individual test + s 152-325 conditions. Lifetime cap sits in s 152-320 (not pulled). |
 | s 152-410 | Verified | Accurate. |
@@ -82,7 +84,7 @@
 
 - **s 328-455 (step 3 mechanic)** — Does not support. The section fixes the transfer amount at roll-over cost. It contains no acquisition-time deeming. The step 3 outcome is nonetheless correct, but on different reasoning: Subdiv 328-G has no general deeming (**confirmed this session via s 328-450**, which is a "no direct consequences except as provided" rule), and the targeted carryovers that do exist (s 152-115(3), s 328-475, s 328-460) are each expressly confined. The absence of s 152-35 from those lists is the argument for the fresh clock.
 
-- **s 152-115 (Common Blocker 5)** — Contradicts the memo. **Confirmed verbatim this session:** s 152-115(3) provides that where s 328-450 or s 328-455 applies to a transfer to you, paras 152-105(b), (c) and 152-110(1)(b), (c) apply as if you acquired the asset when the transferor did. The 15-year and significant-individual clocks carry over. The blocker asserts the opposite.
+- **s 152-115 (Common Blocker 5)** — Partly contradicts, partly confirms the memo (corrected). s 152-115(3) provides that where s 328-450 or s 328-455 applies to a transfer to you, paras 152-105(b), (c) and 152-110(1)(b), (c) apply as if you acquired the asset when the transferor did. That deems the **acquisition date** only, which preserves the continuous-ownership limb (1)(b). It does **not** attribute the transferor's significant-individual history to the transferee, so the SI limb (1)(c) can still fail. The blocker's bottom line (a reset can cost the 15-year exemption) is defensible; its stated mechanism ("breaks continuous ownership") is wrong — the exposure is (1)(c), not (1)(b). See rewritten §3.1.
 
 - **s 152-125 (step 7)** — Partially supports. The disregard is real but capped under (2), and the memo states neither the cap nor its two limbs. Cap arithmetic confirmed verbatim this session (see §3.3).
 
@@ -100,18 +102,22 @@
 
 ## 3. Logical and Structural Review
 
-### 3.1 The two clocks do not conflict — verified against statute
+### 3.1 The clocks: one carries over, one does not — corrected
 
-The memo raises a conflict between step 3 and step 6 twice, in Common Blocker 5 and in Notes for Implementation, and instructs the adviser to "model both before choosing".
+The memo raises a conflict between step 3 and step 6 twice, in Common Blocker 5 and in Notes for Implementation, and instructs the adviser to "model both before choosing". My first pass called this a non-issue. That was wrong. There are three clocks, and they behave differently.
 
-There is no conflict, and the statute now confirms it on both limbs:
+**Clock 1 — general/discount and active-asset ownership period: fresh (does not carry over).** Subdiv 328-G has no general acquisition-time deeming (s 328-450 confirmed), and s 152-45 — the active-asset-test continuing-time rule — does not extend to 328-G (it is confined to Subdiv 124-B, FSR transition, and Subdiv 126-A). The Master Tax Guide (¶12-380) puts it beyond doubt: "for the purpose of determining whether there will be a discount capital gain in the future, the transferee will be treated as having acquired the CGT asset at the time of the transfer. **Unlike other roll-overs, there is no deemed acquisition back to the date of original acquisition by the transferor.**" So the active-asset ownership period restarts — which is what step 3 wants.
 
-- **Fresh clock for s 152-35.** Subdiv 328-G has no general deeming (s 328-450 confirmed), and **s 152-45 — the active-asset-test continuing-time-period rule — does not extend to 328-G transfers** (it is confined to Subdiv 124-B, FSR transition, and Subdiv 126-A). So the active asset ownership period restarts on the reset.
-- **Preserved clock for the 15-year and SI limbs.** s 152-115(3) (confirmed verbatim) carries the acquisition date over for s 152-110(1)(b) and (c).
+**Clock 2 — 15-year continuous ownership, s 152-110(1)(b): carries over.** s 152-115(3) deems the transferee to have acquired the asset when the transferor acquired it. The continuous-ownership requirement is satisfied as if the transferee had held the asset from the transferor's original acquisition. This limb is protected.
 
-Fresh clock for s 152-35, preserved clock for s 152-110(1)(b) and (c), simultaneously. That is exactly what the cascade needs.
+**Clock 3 — 15-year significant-individual history, s 152-110(1)(c): does NOT carry over. This is the trap.** s 152-110(1)(c) requires that *the entity* had a significant individual for a total of at least 15 years *during which the entity owned the CGT asset*. s 152-115(3) deems only the **acquisition time**; it does **not** attribute the transferor's significant-individual history to the transferee. A transferee entity created (or first holding the asset) at the restructure has no significant-individual history for the deemed pre-transfer period, and no provision supplies one. So a 328-G restructure into a fresh entity can satisfy (1)(b) yet still **fail (1)(c)**, defeating the 15-year exemption.
 
-**Action:** invert Common Blocker 5, delete the "model both before choosing" instruction, and restate step 3 on the correct footing. **Additional correction:** the memo's Common Blocker 5 cites "s 152-115 / s 152-45" as the rules to check. s 152-45 is inapposite to a 328-G reset — it governs 124-B/FSR/126-A only. Drop the s 152-45 reference or replace it with s 152-115(3).
+**Net.** The step 3 reset and the step 6 exemption do not straightforwardly co-exist. The continuous-ownership limb is safe; the significant-individual limb is the live exposure. **Common Blocker 5's caution to "model both before choosing" stands and should not be deleted** — the first pass's instruction to invert and delete it is withdrawn.
+
+**Corrections to the memo's wording, not its caution:**
+- The memo attributes the risk to the reset "break[ing] continuous ownership." That is the wrong mechanism — s 152-115(3) protects continuous ownership. Reframe the blocker around **s 152-110(1)(c)**: the significant-individual history does not travel to the new entity.
+- The memo cites "s 152-115 / s 152-45" as the rules to check. s 152-45 is inapposite (124-B/FSR/126-A only, and about the active asset test, not the 15-year exemption). Replace it with **s 152-110(1)(c) read with s 152-115(3)**.
+- Practical consequence for the cascade: where the 15-year exemption is the target (step 5/6), a restructure into a **new** entity is hazardous. Prefer a route that keeps the significant-individual history intact — e.g. establish the qualifying SI history in the entity that will ultimately sell, well before any restructure, or avoid the fresh-entity reset where the 15-year exemption is being relied on.
 
 ### 3.2 Step 2 levers are partly unavailable and partly wrong
 
@@ -246,7 +252,7 @@ Already flagged in the memo's Common Blockers as the fallback where the signific
 | Structure determines outcome (§3.4) | High | Move to Client Profile. Stop treating the three structures as interchangeable. | ✅ (s 152-65/75/70 chain) |
 | Step 2 unavailable for non-individuals | High | Qualify the step. s 152-20(2)(b) is individuals only. | — |
 | s 152-20(5) to (7) earnout election missing | High | Add as a step 2 lever. | — |
-| Common Blocker 5 states the opposite of s 152-115(3) | High | Invert. Delete "model both before choosing". Drop the inapposite s 152-45 reference. | ✅ s 152-115(3) + s 152-45 confirmed |
+| Common Blocker 5 mislabels the 15-year risk | High | **Keep the "model both before choosing" caution.** Reframe around s 152-110(1)(c): s 152-115(3) preserves the acquisition date (continuous ownership) but the significant-individual history does not carry to a fresh transferee. Drop the inapposite s 152-45 reference. | ✅ Corrected — see §3.1 |
 | BBlood cited at first instance | High | Replace with **[2023] FCAFC 89** for the s 100A holding. [2023] FCAFC 114 is the costs judgment only — cite only if costs are relevant. | ✅ Both confirmed |
 | s 328-455 and s 152-420 miscited | Medium | Correct both. Replacement asset period is **s 104-190** via s 104-185. | ✅ s 104-190 confirmed |
 | Step 5 warns on J5/J6, exposure is J2 | Medium | Rewrite to s 104-185, add the (8) safe harbour. | ✅ J5 (s 104-197) confirmed |
@@ -274,8 +280,9 @@ Run against the live Cadena MCP (V2.7.2, Compilation 263). The first pass's find
 
 **Legislation gaps closed.**
 - **s 328-440 (the one material gap).** Statutory text confirms the ultimate-economic-ownership condition for discretionary trusts: a non-fixed **family trust** before and after the transfer, and every individual with ultimate economic ownership before/after a member of the **family group** (Sch 2F ITAA 1936). This is the family-trust-election requirement the first pass predicted "on commentary" — now confirmed on the face of the provision. **Action stands: verify FTE status before any discretionary-trust matter runs step 3.**
-- **s 152-115(3), s 152-45, s 152-125(2), s 328-450, s 104-190, s 104-197, s 152-305** — all pulled and confirmed. The two central logical findings (§3.1 clocks; §3.3 cap) are now verified against statute, not commentary.
-- **New refinement (§3.1):** the memo's Common Blocker 5 pairs "s 152-115 / s 152-45". s 152-45 governs the active-asset test for 124-B/FSR/126-A rollovers only and **is inapposite to a 328-G reset** — it should be dropped or replaced with s 152-115(3).
+- **s 152-115(3), s 152-45, s 152-125(2), s 328-450, s 104-190, s 104-197, s 152-305** — all pulled and confirmed. The §3.3 cap finding is verified against statute.
+- **Correction to §3.1 (this supersedes the first pass).** On re-reading s 152-115(3) against s 152-110(1)(c) and the Master Tax Guide (¶12-380), the first-pass "no conflict, both clocks preserved" conclusion was wrong. s 152-115(3) deems the transferee's **acquisition date** back to the transferor's — preserving continuous ownership, s 152-110(1)(b) — but does **not** carry the transferor's **significant-individual history** to the transferee for s 152-110(1)(c). A 328-G restructure into a fresh entity can satisfy (1)(b) and still fail (1)(c). The general/discount and active-asset ownership clock is fresh (Master Tax Guide: "no deemed acquisition back to the date of original acquisition by the transferor"). **Common Blocker 5's "model both before choosing" caution therefore stands; the instruction to delete it is withdrawn.** The memo's error is mechanism-labelling ("breaks continuous ownership") not the underlying risk.
+- **Refinement retained (§3.1):** the memo's "s 152-115 / s 152-45" pairing is imprecise — s 152-45 governs the active-asset test for 124-B/FSR/126-A rollovers only and is inapposite to a 328-G reset; replace it with s 152-110(1)(c) read with s 152-115(3).
 
 **Case law resolved.**
 - **BBlood appeals** — refinement to the first-pass recommendation. **[2023] FCAFC 89** (*B&F Investments*) is the **substantive** s 100A appeal and the correct replacement cite. **[2023] FCAFC 114** (*Bblood Enterprises*) is only the **costs** judgment (20% costs). Do not cite the two interchangeably for the s 100A holding.
