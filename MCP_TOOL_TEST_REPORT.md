@@ -34,6 +34,12 @@
 | B20 | LOW | get_section | Commentary `section_refs` malformed ("s 188-15(1)(", "s 9-30)") |
 | B21 | LOW | report_issue | Dedup returns same ticket but `duplicate_of: null`, no hit signal |
 | B22 | LOW | get_info | `cases_in_db` (7375) < `cases_with_summaries` (8468) — inconsistent counts |
+| B23 | HIGH | report_issue | Dedup **over-matches**: 20 distinct reports (different tool/params/category) all collapsed into one existing open ticket (CDN-0038) instead of creating new tickets |
+
+### B23 — report_issue dedup collapses unrelated reports (filing is unreliable)
+Attempting to file the 21 findings above as separate tickets, **20 of 21 returned the same ticket `CDN-0038`** (the earlier net-capital-gain report) despite differing in tool, params, and category. Only B7 (get_section / s 269-15 truncation) matched a genuine known issue (`CDN-0006`, status `known`). So new distinct findings are **not** being recorded as new tickets — the `(param_hash, category)` dedup is matching everything to the most recent open ticket (likely `param_hash` is not derived from the actual `params`/`tool`, so it is constant within a session/token).
+**Impact:** `report_issue` cannot be relied on to capture multiple bugs — they silently merge into one ticket. This is why this report (committed to the repo) is the authoritative record rather than the issue tracker.
+**Fix:** compute `param_hash` from a canonical serialization of `{tool, params}` and include `tool` in the dedup key; only match `known` seed issues by explicit rule.
 
 ---
 
