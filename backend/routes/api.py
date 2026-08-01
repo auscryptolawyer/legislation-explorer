@@ -36,9 +36,27 @@ router.include_router(graph_router)
 router.include_router(issues_router)
 
 
-VERSION = "2.6.0"
+VERSION = "2.7.0"
 
 CHANGELOG = [
+    {
+        "version": "2.7.0",
+        "date": "2026-08-05",
+        "title": "Unified search, related content on every section, graph visualisation, section quality & test suite",
+        "changes": [
+            "New MCP tool: search_all — unified search across sections, cases, rulings, and commentary with type_filter and act scoping. Replaces separate per-type tools including get_rulings_for_section (retired)",
+            "get_section now returns related content: top 10 cases, rulings, commentary, and cross-referenced sections alongside every section lookup",
+            "Smart fallback search: when a section, case, or ruling isn't found by identifier, automatically suggests alternatives via FTS search with 'did you mean' results",
+            "Cross-similarity index: embedding-based similarity linking every section to relevant cases and rulings — powered by build_cross_similarity.py against the embeddings database",
+            "Court mapping fixed across all courts — AATA, ARTA, FCAFC, FCA, HCA correctly identified for all 5,368+ tax cases (verified: 0 unknown-court errors across 4,000+ endpoint calls)",
+            "Section content quality: 887+ markdown files normalized (heading structure, paragraph breaks, inline bullets). 51 sections with missing headings or empty bodies fixed",
+            "Tree.json data integrity: 116 sections in ITAA 1997 and ITAA 1936 had incorrect 'sections/' prefix paths — stripped, restoring proper rendering",
+            "Hybrid search pagination: offset parameter working correctly for deep result browsing",
+            "358 automated tests (259 API contract + 34 integration + 65 vector quality) — all passing against live dev deployment",
+            "MCP get_case and get_ruling enhanced with FTS fallback search on identifier miss",
+            "Version bumped to 2.7.0",
+        ],
+    },
     {
         "version": "2.6.0",
         "date": "2026-07-31",
