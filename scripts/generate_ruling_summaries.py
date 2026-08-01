@@ -115,18 +115,39 @@ def extract_aid(text: str, citation: str) -> dict:
             # Look ahead for category and title, skipping ===== and blank lines
             for j in range(i + 1, min(i + 6, len(lines))):
                 stripped = lines[j].strip()
-                if not stripped or re.match(r'^[=\-*\s]+$', stripped):
+                if not stripped or re.match(r'^[=*\s-]+$', stripped):
                     continue
                 if not cat:
                     cat = stripped
                 elif not title:
-                    title = stripped
+                    title = stripped.strip()
+                    # Remove leading whitespace/indentation from title
+                    title = re.sub(r'^\s+', '', title)
                     break
             break
 
-    # Question after "Issue"
+    # Strip the CAUTION/FOI boilerplate from the body
+    # The boilerplate starts at "FOI status:" and ends at the "Issue" section
+    body = text
+    notice = ""
+    foi_match = re.search(r'(FOI status:.*?)(?=Issue|\Z)', text, re.DOTALL)
+    if foi_match:
+        notice = foi_match.group(1).strip()
+        # Remove the CAUTION block from the body
+        caution_match = re.search(r'CAUTION:.*?(?:professional adviser\.|Interest\.)', text, re.DOTALL)
+        if caution_match:
+            body = text[:caution_match.start()] + text[caution_match.end():]
+            # Also remove the FOI line from the body
+            body = re.sub(r'\s+FOI status:.*?\n', '\n', body)
+
+    # Strip header from body (everything before "Issue")
+    issue_start = body.find("Issue")
+    if issue_start >= 0:
+        body = body[issue_start:]
+
+    # Question: only the first paragraph after "Issue"
     question = ""
-    m = re.search(r"Issue\n(.*?)(?:\n\n|\Z)", text, re.DOTALL)
+    m = re.search(r"Issue\n(.+?)(?:\n\n|\nDecision|\nFacts|\Z)", body, re.DOTALL)
     if m:
         question = m.group(1).strip()
 
@@ -145,13 +166,13 @@ def extract_aid(text: str, citation: str) -> dict:
         r"Superannuation Industry \(Supervision\) Act \d{4}|"
         r"Superannuation Guarantee \(Administration\) Act \d{4}|"
         r"Family Law Act \d{4}|Social Security Act \d{4}|"
-        r"ITAA\s+\d{4}|TAA\s+\d{4})(?:\s+\(Cth\))?(?:\s+s(?:s|ection)?\.?\s+\d+[-\dA-Za-z]*(?:\([^)]+\))?(?:\s*,\s*\d+[-\dA-Za-z]*(?:\([^)]+\))?)*)?",
+        r"ITAA\s+\d{4}|TAA\s+\d{4})(?:\s+\(Cth\))?(?:\s+s(?:s|ection)?\.?\s+\d+[-\dA-Za-z]*(?:\([^)]+\))?(?:,\s*\d+[-\dA-Za-z]*(?:\([^)]+\))?)*)?",
         re.IGNORECASE,
     )
     for m in leg_pat.finditer(text):
         ref = m.group(0).strip()
         # Clean up - truncate at sentence boundaries
-        for sep in [" where ", " for ", " allows ", " specifically "]:
+        for sep in [" where ", " for ", " allows ", " specifically ", " and related "]:
             if sep in ref.lower():
                 ref = ref[:ref.lower().index(sep)].strip()
         if ref and len(ref) > 5:
@@ -165,13 +186,23 @@ def extract_aid(text: str, citation: str) -> dict:
     for sec_num, act_name in standalone:
         leg.add(f"{act_name.strip()} (Cth) s {sec_num}")
 
+    # Format title with citation prefix
+    display_title = f"{citation} — {title}" if title else citation
+
+    # Status
+    status = "Final"
+    if re.search(r"withdrawn", text[:2000], re.IGNORECASE):
+        status = "Withdrawn"
+
     return {
         "citation": citation,
-        "title": title or cat,
+        "title": display_title,
         "type": "ATO Interpretative Decision",
-        "status": extract_status(text),
+        "status": status,
         "subject": cat,
         "question": question,
+        "notice": notice,
+        "body": body,
         "legislation_referenced": sorted(leg)[:20],
         "cases_referenced": sorted(cases)[:20],
         "full_text": text,

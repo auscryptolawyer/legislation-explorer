@@ -44,6 +44,12 @@ RE_NOISE = re.compile(
     r"Includes amendments:|"
     r"No\.\s+\d+,\s+\d+|"
     r"\d+\s*$"  # bare page numbers
+    r"|"
+    r"^_+$"  # underline/page-break separators
+    r"|"
+    r"^\*For definition"  # footnote definition markers
+    r"|"
+    r"^\s*\*For definition"  # indented footnote definition markers
     r")"
 )
 
@@ -114,6 +120,11 @@ def is_page_header_noise(line: str) -> bool:
     if re.search(r"Division\s+\d+[A-Z]*$", stripped):
         return True
     if re.search(r"Section\s+\d+[A-Z]*(?:-\d+)?$", stripped):
+        return True
+    # Page headers for Schedule 1 running headers
+    if re.match(r"^Schedule\s+\d+\s", stripped):
+        return True
+    if re.match(r"^Chapter\s+\d+\s", stripped):
         return True
     if RE_NOISE.match(line):
         return True

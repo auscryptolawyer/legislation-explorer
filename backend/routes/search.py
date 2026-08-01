@@ -165,13 +165,20 @@ def search_flat(q: str, limit: int = 50):
 
 
 @router.get("/api/search/hybrid")
-def search_hybrid(q: str, act: str | None = None, limit: int = 20):
+def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | None = None, offset: int = 0):
     if limit > 50:
         limit = 50
+    if offset < 0:
+        offset = 0
 
     q = q.strip()
     if not SEARCH_DB.exists():
         build_search_index()
+
+    # Parse type filter
+    type_filter: set[str] | None = None
+    if type:
+        type_filter = set(type.lower().split(","))
 
     try:
         fts_results = fts_search(q, act, limit=50).get("results", [])
@@ -186,6 +193,8 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20):
         vector_results = []
     if act:
         vector_results = [r for r in vector_results if r["act"] == act]
+    if type_filter:
+        vector_results = [r for r in vector_results if r.get("source_type", "section") in type_filter]
 
     scores: dict[tuple[str, str], float] = {}
     merged: dict[tuple[str, str], dict] = {}
@@ -193,7 +202,7 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20):
     for rank, r in enumerate(fts_results):
         key = (r["act"], r["section"])
         scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
-        merged.setdefault(key, {**r, "embedding_id": None})
+        merged.setdefault(key, {**r, "embedding_id": None, "source_type": "section"})
 
     for rank, r in enumerate(vector_results):
         key = (r["act"], r["section"])
@@ -201,8 +210,11 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20):
         existing = merged.setdefault(key, {**r})
         existing.setdefault("embedding_id", r["embedding_id"])
         existing.setdefault("snippet", r["snippet"])
+        existing["source_type"] = r.get("source_type", "section")
 
-    ranked_keys = sorted(scores, key=lambda k: -scores[k])[:limit]
+    ranked_keys = sorted(scores, key=lambda k: -scores[k])
+    total = len(ranked_keys)
+    ranked_keys = ranked_keys[offset:offset + limit]
     results = []
     for key in ranked_keys:
         r = merged[key]
@@ -211,4 +223,4 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20):
         r["cross_references"] = vector_search_service.get_cross_references(emb_id) if emb_id else []
         results.append(r)
 
-    return {"results": results, "total": len(results), "q": q}
+    return {"results": results, "total": total, "offset": offset, "limit": limit}

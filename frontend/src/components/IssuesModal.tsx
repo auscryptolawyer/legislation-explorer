@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { COLORS } from './common/types'
 
-const API = 'https://legislation.scriptkitty.yachts'
+const API = ''
 
 interface Issue {
   ticket: string

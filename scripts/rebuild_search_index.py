@@ -3,8 +3,8 @@
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parent.parent / "backend"))
-from services.search_service import init_search_index
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from backend.services.search_service import init_search_index
 
 if __name__ == "__main__":
     print("Rebuilding search index...")

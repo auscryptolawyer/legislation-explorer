@@ -1,0 +1,578 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="en">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Solaris version 5.1.24" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>Ian R. McDonald &amp; Anor v Commissioner of Taxation [1998] FCA 240 (25 February 1998)</title>
+  <link media="screen" rel="stylesheet" href="/css/screen1.css" />
+  <link media="print" rel="stylesheet" href="/css/print.css" />
+  <meta name="theme-color" content="#ee3224" />
+  <meta name="description" content="Australasian Legal Information Institute (AustLII), a joint facility of UTS and UNSW Faculties of Law." />
+  <link rel="icon" sizes="192x192" href="/images/icon-192.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/icon-shortcut.png" />
+  <meta name="msapplication-TileColor" content="#ee3224" />
+  <meta name="msapplication-TileImage" content="/images/icon/ms.png" />
+  <script src="/js/modernizr.min.js">
+  </script>
+</head>
+<body class=" cases  document ">
+  <header id="page-header">
+    <div id="primary">
+      <a id="page-logo" href="/" tabindex="1"><img src="/images/logo.svg" alt="AustLII"><span class="title-main">AustLII</span></a> <a class="go-search" href="#">Search</a>
+      <h1 id="page-title"><span>Federal Court of Australia</span></h1>
+    </div>
+
+
+<!-- Search box
+
+The search box at the top of most pages. Always visible unless the
+'search' variable is set to false, for pages where we don't want
+that box along the top, such as on Advanced Search & LawCite.
+
+'Results' is a class added to database pages, which exposes the ability
+to search just by that database.
+
+'Searchable' is a page variable which indicates the page has checkboxes
+on it - the search box has a radio button for selecting we only search
+the checked areas.
+
+'Extra search' is for those rare extra options found in pages like the
+Aviation Law Association library database.
+-->
+    <form action="/cgi-bin/sinosrch.cgi">
+<input type="hidden" name="meta" value="">
+      <div id="page-search">
+        <h2 class="hide">Search AustLII</h2>
+        <div class="search-box">
+          <a class="search-dropdown" href="javascript:void(0);">&#9660;</a>
+          <fieldset>
+            <legend>Search Options</legend>
+            <ul class="search-options">
+              <li><label for="database-all">All databases <input type="radio" name="mask_path" value="" id="database-all" tabindex="2" 
+/></label></li>
+              <li><label for="database-this">This database only <input type="radio" name="mask_path" value="au/cases/cth/FCA" id="database-this" tabindex="3" 
+checked="checked" 
+/></label></li>
+              <li><label for="database-full">Full text <input type="radio" name="method" value="auto" id="database-full" method="auto" checked="checked" tabindex="6" /></label></li>
+              <li><label for="database-title">Titles only <input type="radio" name="method" value="title" id="database-title" tabindex="7" /></label></li>
+              <li class="advanced-search">
+                <a href="/advanced_search.shtml" tabindex="8">Advanced Search&hellip;</a>
+              </li>
+            </ul>
+          </fieldset><label for="search-box" class="hide">Search term:</label> <input id="search-box" type="text" name="query" 
+  placeholder="Search this database only" 
+  tabindex="9" /><a href="javascript:void(0);" class="search-box-clear hide">&times;</a> <input type="submit" value="Search" tabindex="9" />
+        </div><a class="go-primary" href="#">Close</a>
+      </div>
+    </form>
+
+
+    <ul id="page-tertiary">
+      <li> <a href="/about.html">About</a> </li>
+      <li> <a href="/contact.html">Contact</a> </li>
+      <li> <a href="/copyright.html">Copyright &amp; Usage</a> </li>
+      <li> <a href="/privacy.html">Privacy</a> </li>
+      <li> <a href="/disclaimers.html">Disclaimers</a> </li>
+      <li> <a href="/feedback.html">Feedback</a> </li>
+      <li> <a href="/help.html">Help</a> </li>
+    </ul>
+  </header>
+
+
+<!-- Ribbons
+
+These are the red bars along the top of each page.
+
+Ribbon is a variable set on most pages; it defaults to an expanded view,
+and can be simplified using variables 'intro' (for home) and 'basic' (for
+search, about pages, etc.)
+-->
+  <nav id="ribbon">
+    <div class="inner">
+      <ul>
+        <li class="ribbon-type"> <a href="#" tabindex="10">Type <span>Cases</span></a> </li>
+        <li class="ribbon-jurisdiction"> <a href="#" tabindex="12">Jurisdiction <span>Commonwealth</span></a> </li>
+        <li class="ribbon-database"> <a href="../" tabindex="13">Database <span>Federal Court of Australia</span></a> </li>
+        <li class="ribbon-year "> <a href="./" tabindex="14">Year <span>1998</span></a> </li>
+        <li class="ribbon-citation"><a href="#" tabindex="16">Citation <span>[1998] FCA 240</span></a></li>
+      </ul>
+    </div>
+  </nav> <!-- ribbon -->
+
+
+<!-- Panels
+
+The Panel defaults to 'year' view, which is what the database pages all have,
+it's what search results have, etc.
+
+The selections within if statements below are to visualize the 'is-selected'
+class across the various mock pages in the prototype.
+
+When implementing this, pull out the if statements and simply apply 'is-selected'
+when it's appropriate to that particular page.
+
+The options for the panel include:
+* none: the panel doesn't render
+* closed: the panel is present, but closed, adds 'is-closed' class
+* jurisdiction: jurisdiction is open at page load, adds 'is-jurisdiction' class
+* letter: 'starts with' is open at page load, adds 'is-letter' class
+-->
+  <div id="panels" class="is-closed">
+    <div class="inner">
+      <div id="panel-type">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>All Databases</h5> <p></p></a> </li>
+          <li class="panel-type-all is-selected"> <a href="/databases.html"> <h5>Cases &amp; Legislation</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/journals/"> <h5>Journals &amp; Scholarship</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/lawreform/"> <h5>Law Reform</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/other/dfat/"> <h5>Treaties</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/database-libraries.html"> <h5>Libraries</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="http://austlii.community/wiki/"> <h5>Communities</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/lawcite/"> <h5>LawCite</h5> <p></p></a> </li>
+        </ul>
+      </div>
+      <div id="panel-jurisdiction">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>Australia</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/cth/"> <h5>CTH</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/act/"> <h5>ACT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nsw/"> <h5>NSW</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nt/"> <h5>NT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/qld/"> <h5>QLD</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/sa/"> <h5>SA</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/tas/"> <h5>TAS</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/vic/"> <h5>VIC</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/wa/"> <h5>WA</h5></a> </li>
+          <li class="panel-type-all"> <a href="http://www.nzlii.org/databases.html"> <h5>New Zealand</h5></a> </li>
+        </ul>
+      </div>
+      <div id="panel-year">
+        <ul>
+          <li class="panel-type-specific">
+            <div>
+              <h5>Specific Year</h5><a href="#" class="year-specific-dropdown type-specific">Any</a> <select class="type-specific">
+                <option>
+                  2015
+                </option>
+              </select>
+            </div>
+          </li>
+<!--
+          <li class="panel-type-range">
+            <div>
+              <h5>Year Range</h5><a href="#" class="year-range-dropdown-1 type-range-1">1970</a> <select class="type-range-1">
+                <option> 2015 </option>
+              </select> <a href="#" class="year-range-dropdown-2 type-range-2">2015</a> <select class="type-range-2">
+                <option> 2015 </option>
+              </select> <a href="results.html" class="button">Apply</a>
+            </div>
+          </li>
+-->
+        </ul>
+      </div>
+      <div id="panel-letter">
+        <ul>
+          <li class="panel-letter-any"> <a href="#"> <h5>Any</h5></a> </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- "Year" dropdowns
+
+These dropdowns should be generated with data as appropriate.
+The data you see here is for presentatioal purposes.
+-->
+  <div class="year-options-list">
+    <div class="year-specific-options year-options">
+      <ul>
+        <li> <h5><a href="./">Any</a></h5> </li>
+<!--
+        <li> <h5><a href="1998/">1998</a></h5> </li>
+-->
+
+      </ul>
+    </div> <!-- specific-year -->
+
+<!--
+    <div class="year-range-1-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul>
+    </div> --> <!-- year-range-1 -->
+
+<!--
+    <div class="year-range-2-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul> 
+    </div> --> <!-- year-range-2 -->
+
+  </div> <!-- panels -->
+
+
+  <div id="page-content">
+    <div id="page-main">
+      <article class="the-document">
+        <h1>Ian R. McDonald &amp; Anor v Commissioner of Taxation [1998] FCA 240 (25 February 1998)</h1>
+<!--make_database: source=/home/philip/austlii/db/FCA/data/1998_240.html-->
+<!--sino date 25 February 1998-->
+
+
+<p>Last Updated: 23 March 1998<p>
+ <center><b>FEDERAL COURT OF AUSTRALIA</b>
+<p> <b></center></b>
+<p> <center><b>TAXATION AND REVENUE </b>- Capital gains - Asset disposed of under a contract - Meaning of "the time of the making of the contract" - Whether contract must
+be "legally binding and enforceable".
+<p> </center>
+<p> <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">Income Tax Assessment Act 1936</a> </i> (Cth) 160U(3)
+<p> 
+<p> <i>Kiwi Brands Pty Ltd v Federal Commissioner of Taxation </i> <a href="/cgi-bin/LawCite?cit=%281997%29%20148%20ALR%20605" title="View LawCiteRecord" class="autolink_findcases">(1997) 148 ALR 605 (Referred)</a>
+<p> <i>Elmslie v Federal Commissioner of Taxation </i><a href="/cgi-bin/viewdoc/au/cases/cth/FCA/1993/549.html" title="View Case" class="autolink_findcases_inserted">[1993] FCA 549</a>;  <a href="/cgi-bin/LawCite?cit=%281993%29%20118%20ALR%20357" title="View LawCiteRecord" class="autolink_findcases">(1993) 118 ALR 357 (Referred)</a>
+<p> <i>Singh v Ali </i> <a href="/cgi-bin/LawCite?cit=%5b1960%5d%20AC%20167" title="View LawCiteRecord" class="autolink_findcases">[1960] AC 167 (Referred)</a>
+<p> <i>BTR Plc v Westinghouse Brake and Signal Co (Australia) Ltd </i> <a href="/cgi-bin/LawCite?cit=%281992%29%2026%20ALD%201" title="View LawCiteRecord" class="autolink_findcases">(1992) 26 ALD 1 (Applied)</a>
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> <b>IAN R MCDONALD </b>(First Applicant) <b>LESLEY J MCDONALD </b>(Second Applicant) v <b>COMMISSIONER OF TAXATION </b>(Respondent)
+<p> <b>ACT G35 of 1996</b>
+<p>  
+<p>  
+<p> <b>FINN J</b>
+<p> <b>CANBERRA</b>
+<p> <b>25 FEBRUARY 1998</b> <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> <b>I</b><b>N THE FEDERAL COURT OF AUSTRALIA</b> <br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>AUSTRALIAN CAPITAL TERRITORY DISTRICT REGISTRY</b> <br><br></TD> <TD colspan=1 align="right">ACT G35  of   1996 <br><br></TD></TR></TABLE><b><TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> BETWEEN: <br><br></TD> <TD colspan=1 align="left">IAN R McDONALD
+<p> First Applicant
+<p> 
+<p> LESLEY J McDONALD
+<p> Second Applicant <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">
+<p> <b>AND:</b> <br><br></TD> <TD colspan=1 align="left">COMMISSIONER OF TAXATION
+<p> Respondent <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">
+<p> <b>JUDGE:</b> <br><br></TD> <TD colspan=1 align="left">FINN J <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>DATE OF ORDER:</b> <br><br></TD> <TD colspan=1 align="left">25 FEBRUARY 1998 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>WHERE MADE:</b> <br><br></TD> <TD colspan=1 align="left">CANBERRA <br><br></TD></TR></TABLE>
+<p> THE COURT ORDERS THAT:
+<p> 
+<p> 	1.	The application is allowed.
+<p> 	2.	The matter be remitted to the Administrative Appeals Tribunal to be heard and decided again.
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> Note:	Settlement and entry of orders is dealt with in Order 36 of the Federal Court Rules.
+<p> <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> <b>I</b><b>N THE FEDERAL COURT OF AUSTRALIA</b> <br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>AUSTRALIAN CAPITAL TERRITORY DISTRICT REGISTRY</b> <br><br></TD> <TD colspan=1 align="right"> ACT G35 of 1996 <br><br></TD></TR></TABLE><b><TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> BETWEEN: <br><br></TD> <TD colspan=1 align="left">IAN R McDONALD
+<p> First Applicant
+<p> 
+<p> LESLEY J McDONALD
+<p> Second Applicant <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">
+<p> <b>AND:</b> <br><br></TD> <TD colspan=1 align="left">COMMISSIONER OF TAXATION
+<p> Respondent <br><br></TD></TR></TABLE>
+<p> <b> <TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> JUDGE: <br><br></TD> <TD colspan=1 align="left">FINN J <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>DATE:</b> <br><br></TD> <TD colspan=1 align="left">25 FEBRUARY 1998 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>PLACE:</b> <br><br></TD> <TD colspan=1 align="left">CANBERRA <br><br></TD></TR></TABLE>
+<p> <center><b>REASONS FOR JUDGMENT</b>
+<p> </center>
+<p> This appeal from the Administrative Appeals Tribunal ("the AAT") raises two questions.  The first, the question of law, is whether
+the AAT in this matter correctly interpreted s 160U(3) of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">Income Tax Assessment Act 1936</a> </i> (Cth), ("the Act").  The second is whether, if an error was made in construing the sub-section, it was an immaterial one and/or the
+findings made by the AAT make it futile to remit the matter for it to be heard and decided again.
+<p> 
+<p> The question of law is a narrow one.  Section 160U of the Act prescribes the time at which, for the purposes of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/index.html#p3" class="autolink_findacts">Part III</a> A of the Act ("Capital Gains and Losses"), a disposal and acquisition of an asset occurs or is deemed to have occurred.  For present
+purposes it is sufficient to say that the primary test of disposal or acquisition contained in s 160M(1) of the Act applies in its
+most simple form, ie has a change in ownership of an asset occurred.  That change in the present case had its genesis in a contract.
+ For this reason it is the "time" provisions of s 160U(3) that are of importance.  That sub-section provides:
+<p> 
+<p> 
+<p> <i>"Where the asset was acquired or disposed of under a contract, the time of acquisition or disposal shall be taken to have been the
+time of the making of the contract."</i>
+<p>  
+<p> 
+<p> The factual setting of the present matter can be noted briefly.
+<p> 
+<p> The applicants, Mr and Mrs McDonald acquired the ownership of a property in coastal New South Wales from a Mrs Ransom.  Both the
+applicant and the respondent Commissioner contend that that acquisition was referable to a contract of sale and purchase.  Where
+they diverge is that they respectively ascribe the acquisition to different contracts of different dates.  And dates in this matter
+are all important.
+<p> 
+<p> The applicants have asserted that they entered into an oral agreement to purchase the property for $200,000 some days before 13 September
+1985 that came "into effect" on that date.  The respondent for its part claimed that in fact a process leading to a formal exchange
+of contracts on 31 October 1985 took place and it was not until then that there was a contract between the parties, notwithstanding
+that the contracts exchanged on that date were dated 13 September 1985.
+<p> 
+<p> I said the dates were important in this matter.  The announcement of a capital gains tax was made on the evening of the budget of
+19 September 1985 and came into effect on the morning of 20 September 1985.
+<p> 
+<p> It was the applicants' case that the property was acquired under a contract entered into before 20 September and was, in consequence,
+not subject to the capital gains tax regime.  I merely note that the property was subsequently sub-divided and sold in two lots for
+$195,000 and $405,000 respectively.
+<p> 
+<p> <b>The Question of Construction</b>
+<p>  
+<p>  In placing a construction upon s 160U(3), the Tribunal had this to say:
+<p> 
+<p> <i>"The relevant authorities support an interpretation of the phrase `the time of the making of the contract' as meaning the time when
+a legally binding and enforceable contract comes into existence.  Mr Erskine on behalf of the respondent referred the tribunal to
+the </i>Administrative Appeals Tribunal <i>decision ATC 13/95 183 at p.187 where Deputy President McMahon said:</i>
+<p>  
+<p> 	` ... `contract' should be read to mean `an enforceable contract', that is to say a contract enforceable in accordance with the
+proper law of the contract. The section requires that the asset be acquired `under a contract'.  If the contract were unenforceable,
+it would not be the type of contract contemplated by the section ...' "
+<p> 
+<p> 
+<p> The applicants challenge the requirement that the contract must be "legally binding and enforceable".  The obvious reason for them
+so doing is that the contract that they propound (if in fact entered into) was not enforceable at the time of its making because,
+being purely oral, no action could be brought upon it because of the provisions of <a href="/cgi-bin/viewdoc/au/legis/nsw/consol_act/ca1919141/s54a.html" class="autolink_findacts">s 54A</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/nsw/consol_act/ca1919141/" class="autolink_findacts">Conveyancing Act 1919</a> </i> (NSW).  They go on to say hypothetically that it would be surprising that, for the purposes of the sub-section, such an oral contract
+could be said to be `made' at some later time when, fortuitously, a note or memorandum of it was created thus making the contract
+enforceable:  see eg <i>Popiw v Popiw </i><a href="/cgi-bin/viewdoc/au/cases/vic/VicRp/1959/32.html" title="View Case" class="autolink_findcases_inserted">[1959] VicRp 32</a>;  <a href="/cgi-bin/LawCite?cit=%5b1959%5d%20VR%20197" title="View LawCiteRecord" class="autolink_findcases">[1959] VR 197.</a>
+<p> 
+<p> As I understood the respondent's case it was that in the context of the issue the AAT set itself - ie "whether or not the agreement
+to purchase [the property] came into existence prior to 20 September 1985":  Reasons para 5 - the use of the language of legally
+binding and enforceable should not be taken prescriptively;  should not be focussed on too closely.  The Tribunal was simply considering
+the question was a contract made and if so when.
+<p> 
+<p> I accept in substance the applicants' submission.  I will briefly explain my understanding of the subsection noting at the outset
+this much of the respondent's contention.  The Tribunal's error may well have been an inoperative one when regard is had to the actual
+factual issues addressed. This is not to say that an error for that reason was not made.
+<p> 
+<p> The premise of the subsection is that the asset in question has actually been disposed of or acquired, ie that, for present purposes,
+a "change of ownership" has occurred:  see s 160M(1).  In this sense, the inquiry s 160U(3) mandates is a retrospective one:  see
+<i>Kiwi Brands Pty Ltd v Federal Commissioner of Taxation</i>  <a href="/cgi-bin/LawCite?cit=%281997%29%20148%20ALR%20605" title="View LawCiteRecord" class="autolink_findcases">(1997) 148 ALR 605</a> at 619.
+<p> 
+<p> That inquiry then asks whether disposal or the acquisition was "under a contract".  There may, in some instances, be a number of
+consequential contracts such that an issue can arise as to which contract in that sequence the disposition is properly referable:
+ cf <i>Elmslie v Federal Commissioner of Taxation</i> <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/1993/549.html" title="View Case" class="autolink_findcases_inserted">[1993] FCA 549</a>;  <a href="/cgi-bin/LawCite?cit=%281993%29%20118%20ALR%20357" title="View LawCiteRecord" class="autolink_findcases">(1993) 118 ALR 357.</a>  But in every case before the subsection can come into play the disposition must be referable to <i>a </i>contract.  To put the matter another way a contract must provide the reason for, and explanation of, the disposition.
+<p> 
+<p> For my own part, against the premise of the subsection, I can see no reason for requiring that the contract have any attributes other
+than those prescribed by the common law for the formation of a contract.  Nor can I see any reason for ascribing a date to the making
+of such a contract other than the date that would be ascribed to it at common law.
+<p> 
+<p> The immediate consequence of this view is that the contract in question may be unenforceable - or even illegal:  see <i>Singh v Ali </i> <a href="/cgi-bin/LawCite?cit=%5b1960%5d%20AC%20167" title="View LawCiteRecord" class="autolink_findcases">[1960] AC 167</a> - at the time of its making.  But if it is carried into effect with a consequential disposition of an asset, then s 160U(3) applies
+to the unenforceable contract so made.  I merely note that if such a contract is not carried into effect then, the premise of s 160U(3)
+not having been satisfied, no question of its application can arise.
+<p> 
+<p> I emphasise this matter because it is the case that the contract propounded by the applicants (at least on this appeal), being oral,
+was not enforceable at the time of its making.
+<p> 
+<p> I would, then, conclude that the Tribunal was in error in the construction it placed on the subsection.  This, though, brings into
+focus the second question which I can paraphrase:  did it matter in the circumstances?
+<p> 
+<p> It is of course the case, as Lockhart and Hill JJ indicated in <i>BTR Plc v Westinghouse Brake and Signal Co (Australia) Ltd </i> <a href="/cgi-bin/LawCite?cit=%281992%29%2026%20ALD%201" title="View LawCiteRecord" class="autolink_findcases">(1992) 26 ALD 1</a> at 7 that:
+<p> 
+<p> <i>"it will not be enough for an applicant to demonstrate that the tribunal mis-stated the law in the course of its reasons, if that
+mis-statement could not have affected its decision.  The task of the court on an appeal under <a href="/cgi-bin/viewdoc/au/legis/nsw/consol_act/ca1919141/s44.html" class="autolink_findacts">s 44(1)</a> is essentially to undertake judicial review of the tribunal's decision. An immaterial error of law will not vitiate the decision
+of the tribunal."</i>
+<p>  
+<p>  
+<p> <b>A Material Error, Remittal and the Fact Finding</b>
+<p>  
+<p>  Having posited its interpretation of s 160U(3) the Tribunal, after referring to the decision of the High Court in <i>Allen v Carbone </i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1975/14.html" title="View Case" class="autolink_findcases_inserted">[1975] HCA 14</a>;  <a href="/cgi-bin/LawCite?cit=%281975%29%20132%20CLR%20528" title="View LawCiteRecord" class="autolink_findcases">(1975) 132 CLR 528</a> went on to express its conclusions in the following way (Reasons paras 26-27):
+<p> 
+<p> <i>"26.	It is clear that consensus between the parties must be reached before a contract comes into existence.  In relation to property
+contracts, that usually does not come about until the formal exchange of contracts takes place, because complex terms and conditions
+are generally incorporated in those contracts, as was the case in the contract relating to the sale and purchase of [the property].</i>
+<p>  
+<p> 27.	The buyer and the seller in this case may have expressed their intention in the conversation referred to by the taxpayer to bring
+about the agreement of sale on or about 13 September 1985.  However delays occurred which prevented that intention from being realised,
+and the contract was not exchanged until 31 October 1985.  I find no evidence that there was consensus reached between the buyers
+and seller prior to 20 September 1985 that the agreement to purchase the property was to have been effective as of 13 September 1985.
+ I find that the contract did not come into existence until 31 October 1985, the exchange of contracts taking place once agreement
+on its essential terms and conditions had been reached."
+<p> 
+<p> 
+<p> The applicants' case is that the question to be answered, having been misconceived, that misconception contrived how the Tribunal
+approached the evidence before it, ie it was asking itself whether a legally binding and enforceable contract was there.  This, it
+is claimed, deflected it from properly addressing the question whether the alleged pre-13 September oral contract was made.  The
+respondent's case, in contrast, is that the Tribunal never got to the point of considering whether a contract, albeit unenforceable,
+was made prior to 31 October because it found that it was only on that date that a contractual consensus was first reached by the
+parties.
+<p> 
+<p> Before I express a view on this matter, I should emphasise that the substantial issue I am being asked to consider is whether, notwithstanding
+the error made in construing the Act, that error could not have affected the Tribunal's decision in a material way and its findings
+being so unaffected by that error, it would be futile to remit the matter to it.
+<p> 
+<p> I imply no criticism of the Tribunal when I say that it is difficult to discern from its reasons what precisely was the contract
+being advanced by the applicants.  It may well be that this was because the submissions made on their behalf gave the alleged contract
+a somewhat chameleon-like quality.  It was variously referred to as:
+<p> 
+<p> 	(i)	an oral agreement that came into effect on being reduced to writing by the <i>vendor </i>(as occurred) on 13 September 1985:  Reasons para 21;  paras 11-12;  and
+<p> 
+<p> 	(ii)	the contract on the terms exchanged on 31 October but having effect from 13 September 1985;  Reasons para 24 - this, I presume,
+being a <i>Masters v Cameron </i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1954/72.html" title="View Case" class="autolink_findcases_inserted">[1954] HCA 72</a>;  <a href="/cgi-bin/LawCite?cit=%281954%29%2091%20CLR%20353" title="View LawCiteRecord" class="autolink_findcases">(1954) 91 CLR 353</a> at 360 actual contract of some form.
+<p> 
+<p> On this appeal the contract, as I understand it, was said to be the oral pre 13 September contract alone.
+<p> 
+<p> It clearly was the case that some part of the detail of the final contracts exchanged was the result of negotiation between the parties
+subsequent to the vendor's solicitors forwarding a contract of sale to the applicants on 13 September 1985.  I would note in passing
+that the covering letter for that contract stated in part:
+<p> 
+<p> <i>"Kindly note that no legal liability shall attach to either party until such time as an exchange has been effected."</i>
+<p>  
+<p> 
+<p> And it seems clear insofar as the files and actions of the parties' respective solicitors were concerned, that the solicitors for
+their part treated the matter as a routine real property transaction with the contract being formed on exchange.
+<p> 
+<p> The matter the subject of negotiation related to the need (a) to make inquiries concerning the existence of an access road to the
+property;  (b) to ascertain boundaries;  (c) to reach agreement on furniture and fittings;  and (d) to negotiate the amount of the
+deposit to be given on exchange.  This notwithstanding, the applicants' case was, apparently, that they would have gone ahead whatever
+was the outcome of these matters.
+<p> 
+<p> The Tribunal did not find Mr McDonald's evidence altogether satisfactory:  see Reasons para 13;  and it was in part contradicted
+by, or else not corroborated (where such could reasonably be expected) by, documentary evidence.
+<p> 
+<p> It may well be the case that there was a basis in the evidence before the Tribunal that could have led it to the conclusion that
+no contract, enforceable or otherwise, was entered into until 31 October.
+<p> 
+<p> I cannot, however, conclude that the error made may not in fact have affected the Tribunal's decision.  Little direct attention was
+given in its Reasons to the alleged terms and intended effect of the contract relied upon by the applicants, as also to the question
+whether that which was alleged could at law have constituted a contract at all.  It may well have been that, given the setting, the
+subject matter and the test adopted, the contract that the Tribunal was looking for was a conveyancer's contract in any event.
+<p> 
+<p> It could be that, notwithstanding its error, the Tribunal on reconsidering the matter will nonetheless still determine that there
+was no contract before 31 October.  My concern, though, is with the different question whether its error could have affected the
+decision appealed from.  Because I am not satisfied that, when it was searching for a contractual consensus, it may not have had
+a characteristic contract of sale of real property in mind, or else a contract that would be legally binding and enforceable, I am
+not satisfied that the decision could not have been affected.  At best I can say I do not know whether it was or was not.
+<p> 
+<p> I cannot discountenance the possibility that the facts were marshalled and evaluated through the prism of the test of "contract"
+adopted.  In these circumstances, the appropriate course is to remit the matter to be heard and decided again.
+<p> 
+<p> I should add that, depending upon the precise nature of the contractual arrangements advanced by the applicants, those arrangements
+themselves, if accepted by the Tribunal, could give rise to an issue of the type considered in <i>Elmslie's </i>case, above.  I merely note this possibility without further comment.
+<p> 
+<p> <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> I certify that this and the preceding seven (7) pages are a true copy of the Reasons for Judgment herein of the Honourable Justice
+Finn.  <br><br></TD></TR></TABLE>
+<p> 
+<p> Associate:
+<p> 
+<p> Dated:  25 February 1998
+<p> \t
+<p> 
+<p> <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> Counsel for the Applicant: <br><br></TD> <TD colspan=1 align="left">Mr Moore <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Solicitor for the Applicant: <br><br></TD> <TD colspan=1 align="left">Rudi Vandenberg <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Counsel for the Respondent: <br><br></TD> <TD colspan=1 align="left">Mr Erskine <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Solicitor for the Respondent: <br><br></TD> <TD colspan=1 align="left">Australian Government Solicitor <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Date of Hearing: <br><br></TD> <TD colspan=1 align="left">24 February 1998 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Date of Judgment: <br><br></TD> <TD colspan=1 align="left">25 February 1998 <br><br></TD></TR></TABLE> 
+<p> <!--sino noindex-->
+      </article>
+    </div> <!-- page-main -->
+
+
+<!-- Document Sidebar -->
+    <div id="page-side">
+
+
+
+<!-- insert search-context.tx here when searching -->
+
+
+      <div class="side-element side-print">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M15.6 19.6h-10c-.6-.2-1-.6-1-1.3v-3.5H2.2c-.7 0-1.2-.5-1.2-1.2V5.3C1 4.5 1.5 4 2.2 4H4.6V1.6c0-.6.3-1 .9-1.2h10.2c.6.2.9.6.9 1.3V4H19c.5 0 .9.3 1.1.8 0 .1 0 .1.1.2v8.9c-.2.6-.6.9-1.3.9H16.6v3.6c0 .5-.4 1-.9 1.2h-.1zm3.4-6V5.2H2.2v8.4h2.4v-1.2H4c-.3 0-.5-.1-.5-.4-.2-.4.1-.8.6-.8h13.1c.4 0 .6.3.6.6s-.3.6-.6.6h-.6v1.2H19zm-3.6-1.2H5.8v6h9.6v-6zm0-10.8H5.8V4h9.6V1.6zM15.4 8.2c0-.3.3-.6.6-.6s.6.3.6.6-.3.6-.6.6-.6-.3-.6-.6zM10.6 13.6h3c.3 0 .6.2.6.5s-.2.6-.5.7H7.6c-.4 0-.7-.3-.7-.6s.3-.6.7-.6h3zM10.6 17.2H7.7c-.4 0-.7-.2-.7-.6 0-.3.3-.6.7-.6h5.9c.4 0 .7.2.7.6 0 .4-.3.6-.7.6h-3z"></path>
+        </g></svg>
+        <h4>Print</h4>
+        <ul>
+          <li> <a class="print-special" href="javascript:void(0);">Print (pretty)</a> </li>
+          <li> <a class="print-minimal" href="javascript:void(0);">Print (eco-friendly)</a> </li>
+        </ul>
+      </div> <!-- side-print -->
+
+
+      <div class="side-element side-download">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M12.5.9c1.3.5 1.7 1.5 1.7 2.9-.1 1.6 0 3.3 0 5h3.1c0 .1.1.1.1.2-.2.3-.3.5-.6.8l-5.3 5.3c-.7.6-1 .7-1.6.1-1.9-1.9-3.7-3.7-5.6-5.5-.1-.2-.3-.4-.6-.8H7c0-.4 0-.7.1-.9V3.8C7 2.4 7.4 1.4 8.7.9h3.8zM1.4 14.5h1.4v2.4c0 .9.2 1.1 1 1.1h13.5c.9 0 1-.2 1.1-1.1v-2.4h1.4v3.2c-.3.9-.9 1.4-1.7 1.7h-15c-.9-.3-1.4-.9-1.7-1.7v-3.2z"></path>
+        </g></svg>
+        <h4>Download</h4>
+        <ul>
+          <li> <a href="/au/cases/cth/FCA/1998/240.rtf">RTF format (30.7 KB)</a> </li>
+        </ul>
+        <ul>
+          <li> <a href="/cgi-bin/sign.cgi/au/cases/cth/FCA/1998/240">Signed PDF/A format</a> </li>
+        </ul>
+      </div> <!-- side-download -->
+
+      <div class="side-element side-cited-by">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M10.2 16.6c-.9-.2-1.8-.3-2.7-.5-1.5-.4-2.9-1.1-4-2.3-3-3-2.9-7.4.4-10.1C6.2 1.7 9 1.1 12 1.4c1.7.2 3.2.8 4.6 1.8 3.1 2.3 4 5.6 2.5 9.2-.8 2-2.3 3.4-4 4.6-2.3 1.5-4.8 2.2-7.4 2.5h-.2c-.1-.1-.2-.1-.4-.2 0-.1 0-.3.2-.3.7-.4 1.4-.7 2-1.1.4-.3.7-.8.9-1.3z"></path></svg>
+        <h4>Cited By</h4>
+        <ul>
+          <li> <a href="/cgi-bin/LawCite?cit=[1998] FCA 240"> LawCite records</a> </li>
+          <li> <a href="/cgi-bin/sinosrch.cgi?method=boolean&query=1998 FCA 240 or FCA 1998 240"> NoteUp references</a> </li>
+          <!-- li> <a href=""> NoteUp references</a> </li -->
+        </ul>
+      </div> <!-- cited-by -->
+
+
+
+
+
+
+
+      <div class="side-element side-social">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M20.7 3.7c-.7.3-1.5.5-2.4.6.9-.5 1.5-1.3 1.9-2.3-.8.5-1.7.8-2.7 1-.8-.8-1.9-1.3-3.1-1.3-2.3 0-4.2 1.9-4.2 4.2 0 .3 0 .6.1 1C6.9 6.7 3.8 5 1.7 2.5c-.4.6-.6 1.3-.6 2.1 0 1.4.8 2.7 1.9 3.5-.7-.1-1.3-.3-1.9-.6v.1c0 2 1.4 3.7 3.4 4.1-.4.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.7 2.1 2.9 3.9 2.9-1.4 1.1-3.2 1.8-5.2 1.8-.3 0-.7 0-1-.1 1.9 1.2 4.1 1.9 6.4 1.9 7.7 0 11.9-6.4 11.9-11.9v-.5c.8-.6 1.6-1.3 2.1-2.1z"></path></svg>
+        <h4>Join the discussion</h4>
+        <ul>
+          <li> <a href="https://twitter.com/intent/tweet?text=%E2Ian R. McDonald &amp; Anor v Commissioner of Taxation [1998] FCA 240 (25 February 1998)%E2%80%9D&amp;url=http://www.austlii.edu.au/au/cases/cth/FCA/1998/240.html&amp;via=austlii&amp;hashtags=austlii" target="_blank">Tweet this page</a> </li>
+          <li> <a href="https://twitter.com/intent/user?screen_name=AustLII" target="_blank">Follow @AustLII on Twitter</a> </li>
+<!--
+          <li> <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=austlii" target="_blank">Recent tweets about AustLII</a> </li>
+-->
+        </ul>
+      </div>
+
+
+    </div> <!-- page-side -->
+
+
+
+    <footer class="closing">
+      <div class="inner">
+        <!--<ul class="closing-primary">
+      <li><a href="database-all.html">All Databases</a></li>
+      <li><a href="database-cases.html">Cases &amp; Legislation</a></li>
+      <li><a href="database-journals.html">Journals &amp; Scholarships</a></li>
+      <li><a href="database-treaties.html">Treaties</a></li>
+      <li><a href="database-libraries.html">Libraries</a></li>
+      <li><a href="#">LawCite</a></li>
+    </ul>-->
+        <ul class="closing-tertiary">
+          <li> <a href="/austlii/">About</a> </li>
+          <li> <a href="/austlii/copyright.html">Copyright &amp; Usage</a> </li>
+          <li> <a href="/austlii/privacy.html">Privacy</a> </li>
+          <li> <a href="/austlii/disclaimers.html">Disclaimers</a> </li>
+          <li> <a href="/austlii/help/">Help</a> </li>
+        </ul><small>http://www.austlii.edu.au/au/cases/cth/FCA/1998/240.html</small>
+      </div>
+    </footer>
+
+  </div> <!-- page-content -->
+
+  <script src="/js/production.min.js">
+  </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"f74b553413eb4a50949f5730dcd56219"}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a21b106c5e0562aa',t:'MTc4NTE0OTIyNg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

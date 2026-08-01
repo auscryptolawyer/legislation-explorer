@@ -22,8 +22,12 @@ from backend.services.data_loader import (
     load_tree,
     load_rulings,
     get_definition_text,
+    get_cases_for_section,
+    get_rulings_for_section as get_rulings_for_section_dl,
+    get_commentary_for_section,
+    get_smartlinks_for_item,
 )
-from backend.services.search_service import search_sections as fts_search
+from backend.services.search_service import search_sections as fts_search, search_rulings, search_conn
 
 from backend.services.case_db_service import (
     build_download_urls,
@@ -202,10 +206,13 @@ async def search_legislation(
 
 @mcp.tool()
 async def get_section(act: str, section: str) -> str:
-    """Retrieve full text of a legislation section.
+    """Retrieve full text of a legislation section with related cases, rulings, and commentary.
 
     Leading s/sec/section is stripped automatically. Uses hyphenated format
     (8-1) for ITAA 1997/GST/TAA; unhyphenated (23AH) for ITAA 1936.
+
+    If the exact section is not found, falls back to search and returns
+    "did you mean?" suggestions with the top 3 matching results.
     """
     section = _re.sub(r'^(?:s(?:ec(?:tion)?)?\.?)\s+', '', section.strip(),
                       flags=_re.IGNORECASE).strip()
@@ -218,9 +225,18 @@ async def get_section(act: str, section: str) -> str:
     has_hyphen = '-' in section
     is_1936 = act == 'itaa-1936'
     if has_hyphen and is_1936:
-        return json.dumps({
+        # Try auto-routing to itaa-1997 and also search for suggestions
+        suggestions = fts_search(section, None, limit=3)
+        hits = suggestions.get("results", [])
+        payload = {
             "error": f"Section {section} not found in itaa-1936; ITAA 1936 sections are unhyphenated (e.g. 23AH). Did you mean itaa-1997 s {section}?"
-        })
+        }
+        if hits:
+            payload["did_you_mean"] = [
+                {"act": h["act"], "section": h["section"], "title": h.get("title", "")}
+                for h in hits
+            ]
+        return json.dumps(payload)
 
     tree = load_tree(act)
     section_path = None
@@ -253,7 +269,21 @@ async def get_section(act: str, section: str) -> str:
             break
 
     if not section_path:
-        return json.dumps({"error": f"Section {section} not found"})
+        # Fallback: search and suggest (try without act filter for cross-act searches)
+        suggestions = fts_search(section, act, limit=3)
+        hits = suggestions.get("results", [])
+        if not hits:
+            suggestions = fts_search(section, None, limit=3)
+            hits = suggestions.get("results", [])
+        if hits:
+            return json.dumps({
+                "error": f"Section '{section}' not found in {act}.",
+                "did_you_mean": [
+                    {"act": h["act"], "section": h["section"], "title": h.get("title", "")}
+                    for h in hits
+                ],
+            }, indent=2)
+        return json.dumps({"error": f"Section '{section}' not found in {act}."})
 
     md_path = DATA_DIR / act / "sections" / section_path
     if not md_path.exists():
@@ -271,11 +301,36 @@ async def get_section(act: str, section: str) -> str:
     body_stripped = body_clean.strip()
     truncated = bool(body_stripped) and not _re.search(r'[.\\)"\'!?]\s*$', body_stripped)
 
+    # Fetch related content (top 10 each)
+    try:
+        related_cases = get_cases_for_section(act, section, limit=10)
+    except Exception:
+        related_cases = []
+    try:
+        related_rulings = get_rulings_for_section_dl(act, section, limit=10)
+    except Exception:
+        related_rulings = []
+    try:
+        related_commentary = get_commentary_for_section(act, section, limit=10)
+    except Exception:
+        related_commentary = []
+    try:
+        smartlinks = get_smartlinks_for_item("section", f"{act}#{section}")
+        related_sections = [s for s in smartlinks if s.get("type") == "section"][:10]
+    except Exception:
+        related_sections = []
+
     return json.dumps({
         "act": act,
         "section": section,
         "body": body,
         "truncated": truncated,
+        "related": {
+            "cases": related_cases,
+            "rulings": related_rulings,
+            "commentary": related_commentary,
+            "sections": related_sections,
+        },
     }, indent=2)
 
 
@@ -344,16 +399,138 @@ async def get_definition(act: str, term: str) -> str:
 
 
 @mcp.tool()
-async def get_rulings_for_section(act: str, section: str) -> str:
-    """⚠️ DEPRECATED — Use get_case for case-related queries instead.
-    This tool previously retrieved ATO rulings related to a legislation section.
-    Rulings are better accessed via get_ruling(citation) directly."""
+async def search_all(
+    query: str,
+    type_filter: str | None = None,
+    act: str | None = None,
+    limit: int = 20,
+) -> str:
+    """Unified search across sections, cases, rulings, and commentary.
+
+    Parameters:
+    - query: Free-text search terms
+    - type_filter: Optional — 'section', 'case', 'ruling', or 'commentary'
+                   to restrict results to one content type
+    - act: Optional — restrict to a specific act (e.g. 'itaa-1997')
+    - limit: Max results per content type (default 20, max 50)
+
+    Returns grouped results by type with snippets and metadata.
+    """
+    limit = min(50, max(1, limit))
+    query = query.strip()
+    if not query:
+        return json.dumps({"error": "Query required", "results": {}})
+
+    results = {}
+
+    # Sections
+    if type_filter is None or type_filter == "section":
+        try:
+            sec_results = fts_search(query, act, limit=limit)
+            results["sections"] = sec_results.get("results", [])
+        except Exception:
+            results["sections"] = []
+
+    # Rulings
+    if type_filter is None or type_filter == "ruling":
+        try:
+            results["rulings"] = search_rulings(query, limit=limit)
+        except Exception:
+            results["rulings"] = []
+
+    # Cases — search via PostgreSQL + summaries
+    if type_filter is None or type_filter == "case":
+        try:
+            summaries_dir = DATA_DIR / ".." / "scripts" / "cleaned" / "summaries"
+            words = query.lower().split()
+            case_results = []
+            if summaries_dir.is_dir():
+                for f in sorted(os.listdir(str(summaries_dir))):
+                    if not f.endswith(".json"):
+                        continue
+                    try:
+                        with open(summaries_dir / f) as fh:
+                            s = json.load(fh)
+                    except Exception:
+                        continue
+                    text = " ".join(str(v) for v in s.values()).lower()
+                    if all(w in text for w in words):
+                        case_results.append({
+                            "citation": s.get("citation", ""),
+                            "case_name": s.get("case_name", "") or s.get("title", ""),
+                            "court": s.get("court", ""),
+                            "has_summary": True,
+                        })
+            # Also search DB for metadata matches
+            if len(case_results) < limit:
+                try:
+                    import subprocess
+                    safe = query.replace("'", "''")
+                    like_clause = " OR ".join(
+                        f"c.case_name ILIKE '%{w}%' OR c.citation ILIKE '%{w}%'"
+                        for w in words
+                    )
+                    r = subprocess.run(
+                        ["docker", "exec", "cadena-postgres", "psql", "-U", "postgres",
+                         "-d", "cadena_knowledge", "-tA",
+                         "-c", f"SELECT c.citation, c.case_name, c.court FROM cases c "
+                               f"WHERE ({like_clause}) ORDER BY c.citation LIMIT {limit};"],
+                        capture_output=True, text=True, timeout=10
+                    )
+                    existing = {c["citation"] for c in case_results}
+                    for line in r.stdout.strip().split("\n"):
+                        if not line.strip():
+                            continue
+                        parts = line.split("|", 2)
+                        cit = parts[0].strip()
+                        if cit in existing:
+                            continue
+                        case_results.append({
+                            "citation": cit,
+                            "case_name": parts[1].strip() if len(parts) > 1 else "",
+                            "court": parts[2].strip() if len(parts) > 2 else "",
+                            "has_summary": False,
+                        })
+                except Exception:
+                    pass
+            results["cases"] = case_results[:limit]
+        except Exception:
+            results["cases"] = []
+
+    # Commentary — search FTS5 commentary index
+    if type_filter is None or type_filter == "commentary":
+        try:
+            with search_conn() as conn:
+                words = query.lower().split()
+                like_clause = " AND ".join(
+                    f"(publication ILIKE '%{w}%' OR chapter_title ILIKE '%{w}%' "
+                    f"OR heading_title ILIKE '%{w}%' OR content ILIKE '%{w}%')"
+                    for w in words
+                )
+                rows = conn.execute(
+                    f"SELECT publication, chapter_number, chapter_title, "
+                    f"heading_title, paragraph_number, content "
+                    f"FROM commentary_index WHERE {like_clause} LIMIT ?",
+                    (limit,)
+                ).fetchall()
+                commentary_results = []
+                for row in rows:
+                    commentary_results.append({
+                        "publication": row[0],
+                        "chapter": row[1],
+                        "chapter_title": row[2],
+                        "heading": row[3],
+                        "paragraph": row[4],
+                    })
+                results["commentary"] = commentary_results
+        except Exception:
+            results["commentary"] = []
+
     return json.dumps({
-        "deprecated": True,
-        "message": "This tool is deprecated. Use get_ruling(citation) to look up "
-                   "specific rulings directly, or get_info for coverage counts.",
-        "replacement": "get_ruling",
-        "action": f"Use get_ruling(citation=\"<TR 2024/1>\") to retrieve a specific ruling.",
+        "query": query,
+        "filter": type_filter or "all",
+        "act": act,
+        "results": results,
     }, indent=2)
 
 
@@ -524,13 +701,14 @@ async def get_info() -> str:
             "section_aliases": ["116-30", "s 116-30", "sec 116-30", "section 116-30", "s116-30"],
             "on_failure": "Reformat per section_format for that act (hyphenated for ITAA 1997 / GST / TAA, unhyphenated for ITAA 1936), then try search_legislation. Do not guess a neighbouring section number.",
             "routing": {
-                "text of a known provision": "get_section",
+                "text of a known provision with related cases/rulings/commentary": "get_section",
                 "find a provision by its words": "search_legislation",
+                "search everything (sections, cases, rulings, commentary)": "search_all",
                 "defined term": "get_definition",
                 "browse an act's structure": "get_act_tree",
-                "case by name or topic": "search_cases -> get_case (with search= for text-in-judgment lookup)",
+                "case by name or topic": "search_all(type_filter=case) -> get_case",
                 "full judgment text": "get_case().sources.text.url",
-                "ATO guidance on a provision": "get_rulings_for_section -> get_ruling",
+                "ATO rulings for a section": "search_all(type_filter=ruling) with the section name -> get_ruling",
                 "ruling by citation": "get_ruling",
                 "how we work: matters, verification, toolchain": "standards",
                 "server bug, data gap, or feedback": "report_issue",
@@ -601,12 +779,15 @@ async def standards(topic: str | None = None) -> str:
 
 @mcp.tool()
 async def get_ruling(citation: str) -> str:
-    """Retrieve an ATO ruling preview by citation.
+    """Retrieve an ATO ruling preview by citation, with related legislation sections.
 
     Returns structured summary data when available (cases_referenced,
     legislation_referenced, question/subject/ruling text). Falls back to
     raw text preview. Accepts TR 2020/1, TR_2020_1, or TR 2024/1 formats.
     ATO IDs return full_text inline.
+
+    When a direct match fails, falls back to search and returns
+    "did you mean?" suggestions with the top 3 matching rulings.
     """
     CITATION_ALIASES = {"LCR": "LCG"}
     normalized = _re.sub(r'[\s/]+', '_', citation).strip('_')
@@ -682,6 +863,21 @@ async def get_ruling(citation: str) -> str:
                 "source": "raw_text",
             }, indent=2)
 
+    # Fallback: search for similar
+    from backend.services.search_service import search_rulings
+    try:
+        suggestions = search_rulings(citation, limit=3)
+        if suggestions:
+            return json.dumps({
+                "error": f"Ruling '{citation}' not found.",
+                "did_you_mean": [
+                    {"citation": r["citation"], "title": r.get("title", "")}
+                    for r in suggestions
+                ],
+            }, indent=2)
+    except Exception:
+        pass
+
     return json.dumps({"error": f"Ruling {citation} not found"})
 
 
@@ -724,6 +920,23 @@ async def get_case(
     # Fetch case metadata (always includes legislation refs)
     result = get_case_metadata(citation_norm, include_legislation_refs=True)
     if result is None:
+        # Fallback: search for similar cases
+        try:
+            suggestions = fts_search(citation, limit=3)
+            case_suggestions = []
+            for r in suggestions.get("results", []):
+                act = r.get("act", "")
+                sec = r.get("section", "")
+                if act == "tax-cases" or (act and sec):
+                    case_suggestions.append(f"{act}/{sec}: {r.get('title', '')}")
+            if case_suggestions:
+                return json.dumps({
+                    "error": f"Case not found in database: {citation_norm}",
+                    "did_you_mean": case_suggestions[:3],
+                    "hint": "Use format [2024] HCA 1 (bracketed medium-neutral citation).",
+                })
+        except Exception:
+            pass
         return json.dumps({
             "error": f"Case not found in database: {citation_norm}",
             "hint": "Try search_cases to verify the citation format, "

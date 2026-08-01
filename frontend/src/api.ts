@@ -80,6 +80,12 @@ export const api = {
     if (limit !== undefined) url += `&limit=${limit}`
     return fetchJson(url)
   },
+  searchHybrid: (q: string, type?: string, limit?: number) => {
+    let url = `/search/hybrid?q=${encodeURIComponent(q)}`
+    if (type) url += `&type=${type}`
+    if (limit !== undefined) url += `&limit=${limit}`
+    return fetchJson(url)
+  },
   info: () => fetchJson('/info'),
   mcpHallOfFame: () => fetchJson('/mcp-hall-of-fame'),
   sectionRefs: (act: string, section: string) => fetchJson(`/section-refs/${act}/${section}`),

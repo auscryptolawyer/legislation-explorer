@@ -1,0 +1,987 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="en">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Solaris version 5.1.24" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>VBS and Commissioner of Taxation [2005] AATA 1303; (2005) 91 ALD 682 (23 December 2005)</title>
+  <link media="screen" rel="stylesheet" href="/css/screen1.css" />
+  <link media="print" rel="stylesheet" href="/css/print.css" />
+  <meta name="theme-color" content="#ee3224" />
+  <meta name="description" content="Australasian Legal Information Institute (AustLII), a joint facility of UTS and UNSW Faculties of Law." />
+  <link rel="icon" sizes="192x192" href="/images/icon-192.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/icon-shortcut.png" />
+  <meta name="msapplication-TileColor" content="#ee3224" />
+  <meta name="msapplication-TileImage" content="/images/icon/ms.png" />
+  <script src="/js/modernizr.min.js">
+  </script>
+</head>
+<body class=" cases  document ">
+  <header id="page-header">
+    <div id="primary">
+      <a id="page-logo" href="/" tabindex="1"><img src="/images/logo.svg" alt="AustLII"><span class="title-main">AustLII</span></a> <a class="go-search" href="#">Search</a>
+      <h1 id="page-title"><span>Administrative Appeals Tribunal of Australia</span></h1>
+    </div>
+
+
+<!-- Search box
+
+The search box at the top of most pages. Always visible unless the
+'search' variable is set to false, for pages where we don't want
+that box along the top, such as on Advanced Search & LawCite.
+
+'Results' is a class added to database pages, which exposes the ability
+to search just by that database.
+
+'Searchable' is a page variable which indicates the page has checkboxes
+on it - the search box has a radio button for selecting we only search
+the checked areas.
+
+'Extra search' is for those rare extra options found in pages like the
+Aviation Law Association library database.
+-->
+    <form action="/cgi-bin/sinosrch.cgi">
+<input type="hidden" name="meta" value="">
+      <div id="page-search">
+        <h2 class="hide">Search AustLII</h2>
+        <div class="search-box">
+          <a class="search-dropdown" href="javascript:void(0);">&#9660;</a>
+          <fieldset>
+            <legend>Search Options</legend>
+            <ul class="search-options">
+              <li><label for="database-all">All databases <input type="radio" name="mask_path" value="" id="database-all" tabindex="2" 
+/></label></li>
+              <li><label for="database-this">This database only <input type="radio" name="mask_path" value="au/cases/cth/AATA" id="database-this" tabindex="3" 
+checked="checked" 
+/></label></li>
+              <li><label for="database-full">Full text <input type="radio" name="method" value="auto" id="database-full" method="auto" checked="checked" tabindex="6" /></label></li>
+              <li><label for="database-title">Titles only <input type="radio" name="method" value="title" id="database-title" tabindex="7" /></label></li>
+              <li class="advanced-search">
+                <a href="/advanced_search.shtml" tabindex="8">Advanced Search&hellip;</a>
+              </li>
+            </ul>
+          </fieldset><label for="search-box" class="hide">Search term:</label> <input id="search-box" type="text" name="query" 
+  placeholder="Search this database only" 
+  tabindex="9" /><a href="javascript:void(0);" class="search-box-clear hide">&times;</a> <input type="submit" value="Search" tabindex="9" />
+        </div><a class="go-primary" href="#">Close</a>
+      </div>
+    </form>
+
+
+    <ul id="page-tertiary">
+      <li> <a href="/about.html">About</a> </li>
+      <li> <a href="/contact.html">Contact</a> </li>
+      <li> <a href="/copyright.html">Copyright &amp; Usage</a> </li>
+      <li> <a href="/privacy.html">Privacy</a> </li>
+      <li> <a href="/disclaimers.html">Disclaimers</a> </li>
+      <li> <a href="/feedback.html">Feedback</a> </li>
+      <li> <a href="/help.html">Help</a> </li>
+    </ul>
+  </header>
+
+
+<!-- Ribbons
+
+These are the red bars along the top of each page.
+
+Ribbon is a variable set on most pages; it defaults to an expanded view,
+and can be simplified using variables 'intro' (for home) and 'basic' (for
+search, about pages, etc.)
+-->
+  <nav id="ribbon">
+    <div class="inner">
+      <ul>
+        <li class="ribbon-type"> <a href="#" tabindex="10">Type <span>Cases</span></a> </li>
+        <li class="ribbon-jurisdiction"> <a href="#" tabindex="12">Jurisdiction <span>Commonwealth</span></a> </li>
+        <li class="ribbon-database"> <a href="../" tabindex="13">Database <span>Administrative Appeals Tribunal of Australia</span></a> </li>
+        <li class="ribbon-year "> <a href="./" tabindex="14">Year <span>2005</span></a> </li>
+        <li class="ribbon-citation"><a href="#" tabindex="16">Citation <span>[2005] AATA 1303</span></a></li>
+      </ul>
+    </div>
+  </nav> <!-- ribbon -->
+
+
+<!-- Panels
+
+The Panel defaults to 'year' view, which is what the database pages all have,
+it's what search results have, etc.
+
+The selections within if statements below are to visualize the 'is-selected'
+class across the various mock pages in the prototype.
+
+When implementing this, pull out the if statements and simply apply 'is-selected'
+when it's appropriate to that particular page.
+
+The options for the panel include:
+* none: the panel doesn't render
+* closed: the panel is present, but closed, adds 'is-closed' class
+* jurisdiction: jurisdiction is open at page load, adds 'is-jurisdiction' class
+* letter: 'starts with' is open at page load, adds 'is-letter' class
+-->
+  <div id="panels" class="is-closed">
+    <div class="inner">
+      <div id="panel-type">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>All Databases</h5> <p></p></a> </li>
+          <li class="panel-type-all is-selected"> <a href="/databases.html"> <h5>Cases &amp; Legislation</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/journals/"> <h5>Journals &amp; Scholarship</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/lawreform/"> <h5>Law Reform</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/other/dfat/"> <h5>Treaties</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/database-libraries.html"> <h5>Libraries</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="http://austlii.community/wiki/"> <h5>Communities</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/lawcite/"> <h5>LawCite</h5> <p></p></a> </li>
+        </ul>
+      </div>
+      <div id="panel-jurisdiction">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>Australia</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/cth/"> <h5>CTH</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/act/"> <h5>ACT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nsw/"> <h5>NSW</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nt/"> <h5>NT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/qld/"> <h5>QLD</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/sa/"> <h5>SA</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/tas/"> <h5>TAS</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/vic/"> <h5>VIC</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/wa/"> <h5>WA</h5></a> </li>
+          <li class="panel-type-all"> <a href="http://www.nzlii.org/databases.html"> <h5>New Zealand</h5></a> </li>
+        </ul>
+      </div>
+      <div id="panel-year">
+        <ul>
+          <li class="panel-type-specific">
+            <div>
+              <h5>Specific Year</h5><a href="#" class="year-specific-dropdown type-specific">Any</a> <select class="type-specific">
+                <option>
+                  2015
+                </option>
+              </select>
+            </div>
+          </li>
+<!--
+          <li class="panel-type-range">
+            <div>
+              <h5>Year Range</h5><a href="#" class="year-range-dropdown-1 type-range-1">1970</a> <select class="type-range-1">
+                <option> 2015 </option>
+              </select> <a href="#" class="year-range-dropdown-2 type-range-2">2015</a> <select class="type-range-2">
+                <option> 2015 </option>
+              </select> <a href="results.html" class="button">Apply</a>
+            </div>
+          </li>
+-->
+        </ul>
+      </div>
+      <div id="panel-letter">
+        <ul>
+          <li class="panel-letter-any"> <a href="#"> <h5>Any</h5></a> </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- "Year" dropdowns
+
+These dropdowns should be generated with data as appropriate.
+The data you see here is for presentatioal purposes.
+-->
+  <div class="year-options-list">
+    <div class="year-specific-options year-options">
+      <ul>
+        <li> <h5><a href="./">Any</a></h5> </li>
+<!--
+        <li> <h5><a href="2005/">2005</a></h5> </li>
+-->
+
+      </ul>
+    </div> <!-- specific-year -->
+
+<!--
+    <div class="year-range-1-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul>
+    </div> --> <!-- year-range-1 -->
+
+<!--
+    <div class="year-range-2-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul> 
+    </div> --> <!-- year-range-2 -->
+
+  </div> <!-- panels -->
+
+
+  <div id="page-content">
+    <div id="page-main">
+      <article class="the-document">
+        <h1>VBS and Commissioner of Taxation [2005] AATA 1303; (2005) 91 ALD 682 (23 December 2005)</h1>
+<!--make_database: source=/home/philip/austlii/db/AATA/data/2005_1303.html-->
+<!--sino date 23 December 2005-->
+
+<P>Last Updated: 31 August 2009
+</P>
+
+<br><br>
+<p><b><i></i></b><br><br><b><i>CATCHWORDS &#8211;
+SUPERANNUATION </i></b><i>&#8211; disqualification from acting as a trustee or
+responsible officer of a superannuation entity &#8211; application for waiver
+&#8211; application to be made within 14 days of conviction unless exceptional
+circumstances &#8211; meaning of &#8220;exceptional
+circumstances&#8221; &#8211;
+decision affirmed.</i></p>
+<br><br>
+<p><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act 1975</a> <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s37.html" class="autolink_findacts">s. 37</a></i><br><br><i>Corporations
+Law</i><br><br><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ea1988149/" class="autolink_findacts">Extradition Act 1988</a></i><br><br><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">Income Tax Assessment Act
+1936</a></i><br><br><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/" class="autolink_findacts">Superannuation Industry (Supervision) Act 1993</a> <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/s10.html" class="autolink_findacts">ss. 10</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/s119.html" class="autolink_findacts">119</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/s120.html" class="autolink_findacts">120</a>,
+120A, 121, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/s126b.html" class="autolink_findacts">126B</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/s126c.html" class="autolink_findacts">126C</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/s126d.html" class="autolink_findacts">126D</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/s126e.html" class="autolink_findacts">126E</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/s126f.html" class="autolink_findacts">126F</a> and <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/s344.html" class="autolink_findacts">344</a></i><br><br><i><a href="/cgi-bin/viewdoc/au/legis/cth/bill/silab1995675/" class="autolink_findacts">Superannuation
+Industry (Supervision) Legislation Amendment Bill 1995</a></i></p>
+<br><br>
+<p><i>Cabal v United Mexican States <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2001/42.html" title="View Case" class="autolink_findcases_inserted">[2001] HCA 42</a>;  <a href="/cgi-bin/LawCite?cit=%282001%29%20180%20ALR%20593" title="View LawCiteRecord" class="autolink_findcases">(2001) 180 ALR 593</a></i><br><br><i>Chamberlain v R
+<a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1983/13.html" title="View Case" class="autolink_findcases_inserted">[1983] HCA 13</a>;  <a href="/cgi-bin/LawCite?cit=%281983%29%20153%20CLR%20514" title="View LawCiteRecord" class="autolink_findcases">(1983) 153 CLR 514</a>;  <a href="/cgi-bin/LawCite?cit=46%20ALR%20608" title="View LawCiteRecord" class="autolink_findcases">46 ALR 608</a></i><br><br><i>Owens v Stevens unreported 3 May
+1991</i><br><br><i>R v Steggall  <a href="/cgi-bin/viewdoc/au/cases/vic/VSCA/2005/278.html" title="View Case" class="autolink_findcases">[2005] VSCA 278</a></i><br><br><i>Re Graham and Australian
+Fisheries Management Authority <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2002/862.html" title="View Case" class="autolink_findcases_inserted">[2002] AATA 862</a>;  <a href="/cgi-bin/LawCite?cit=%282002%29%2071%20ALD%20700" title="View LawCiteRecord" class="autolink_findcases">(2002) 71 ALD 700</a></i><br><br><i>Re VBW and Australian
+Prudential Regulation Authority  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2005/1294.html" title="View Case" class="autolink_findcases">[2005] AATA 1294</a></i><br><br><i>Sinanovic v R (No 1)
+<a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2001/35.html" title="View Case" class="autolink_findcases_inserted">[2001] HCA 35</a>;  <a href="/cgi-bin/LawCite?cit=%282001%29%20179%20ALR%20520" title="View LawCiteRecord" class="autolink_findcases">(2001) 179 ALR 520</a></i></p>
+<p class="h6">
+DECISION AND REASONS FOR DECISION  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2005/1303.html" title="View Case" class="autolink_findcases">[2005] AATA 1303</a></p>
+<p><a name="Heading27"></a><b>ADMINISTRATIVE APPEALS
+TRIBUNAL	)	</b><br><br><b>	)	V2005/590</b><br><br><b>GENERAL ADMINISTRATIVE
+DIVISION	)</b>	</p>
+<br><br>
+<p class="h3">
+Re	VBS</p>
+<p><a name="Heading35"></a>							<b>Applicant</b></p>
+<p><b>And	COMMISSIONER OF TAXATION</b><br><br>							<b>Respondent</b></p>
+<br><br>
+<p class="h6">
+DECISION</p>
+<br><br>
+<p><a name="Heading40"></a><b>Tribunal:		</b>Deputy President S A Forgie
+<br><br><b>Date:			</b>23 December 2005<br><br><b>Place:			</b>Melbourne</p>
+<p><b>Decision:	</b>The Tribunal<b> </b>affirms the decision of the respondent
+dated 16 June 2005.</p>
+<br><br>
+<p>							<b>S A FORGIE</b><br><br><b>							Deputy President</b></p>
+<p class="h6">
+</p>
+<p align="center"><a name="Heading54"></a><b>REASONS FOR DECISION</b></p>
+<br><br>
+<p>		VBS<span class="sup"><a name="fnB1" href="#fn1">[1]</a></span> is a
+disqualified person within the meaning of <b>s. 120</b> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/sia1993473/" class="autolink_findacts">Superannuation
+Industry (Supervision) Act 1993</a></i> (&#8220;SIS Act&#8221;) as a result of his
+being convicted of offences in respect of dishonest conduct.  As a consequence,
+he is
+unable to be a trustee of the corporate trustee of his family&#8217;s
+superannuation fund.  That fund is supervised by APRA.  He
+has applied to both
+the Commissioner for Taxation (&#8220;Commissioner&#8221;) and the Australian
+Prudential Regulation Authority
+(&#8220;APRA&#8221;) under <b>s. 126B</b>
+of the SIS Act to waive his status as a disqualified person under the SIS Act. 
+The Commissioner has declined on the basis that he
+did not lodge his application
+to waive within 14 days of his being convicted as required by <b>s. 126B(3)(b)
+</b>and that, within the meaning of <b>s. 126B(4)</b> there were no exceptional
+circumstances preventing him from doing so.  APRA also decided that VBS was
+outside the 14 day time period
+but it then decided that there were exceptional
+circumstances that prevented his making the application.  Having accepted the
+application,
+it then decided that it was not satisfied that VBS was highly
+unlikely to be a prudential risk to any superannuation entity and refused
+his
+application.  VBS has applied for review of the decisions of both APRA and the
+Commissioner but I am concerned only with the
+Commissioner&#8217;s.  His
+decision requires me in the first instance to consider whether there are
+exceptional circumstances to
+allow a longer period than 14 days within which to
+make his application for waiver.  That requires me to consider the concept of
+&#8220;<i>exceptional circumstances</i>&#8221;.  I have decided that there are
+no exceptional circumstances in this case.</p>
+<br><br>
+<p><b>LEGISLATIVE FRAMEWORK</b></p>
+<br><br>
+<p>2.		The SIS Act intends &#8220;... <i>to make provision for the supervision
+of certain entities engaged in the superannuation industry, and for related
+purposes</i>&#8221;.<span class="sup"><a name="fnB2" href="#fn2">[2]</a></span> 
+<b>Part 15</b> of the SIS Act is concerned &#8220;<i>... to set out rules about
+the eligibility of trustees, custodians and investment managers of
+superannuation
+entities.</i>&#8221;<span class="sup"><a name="fnB3" href="#fn3">[3]</a></span> 
+It does this in various ways.  Of concern in this case are its provisions
+concerned with what it calls &#8220;<i>disqualified persons</i>&#8221;.  It
+provides that a &#8220;<i>disqualified person</i>&#8221; may not intentionally
+be, or act as, a
+trustee<span class="sup"><a name="fnB4" href="#fn4">[4]</a></span> or a
+responsible officer<span class="sup"><a name="fnB5" href="#fn5">[5]</a></span>
+of a superannuation entity if the person concerned knows that he or she is such
+a person.  If a person is a trustee of a superannuation
+entity and becomes a
+disqualified person, that person must immediately tell the
+Regulator.<span class="sup"><a name="fnB6" href="#fn6">[6]</a></span></p>
+<br><br>
+<p>3.		Those who are &#8220;<i>disqualified persons</i>&#8221; are provided for
+in <b>ss. 120</b> and <b>120A</b> of the SIS Act.  Only those provisions
+relating to individuals in <b>s. 120 </b>are relevant:</p>
+<p>&#8220;<i>(1)	For the purposes of this Part, an individual is a disqualified
+person if:</i></p>
+<p><i>(a)	at any time (including a time before the commencement of this
+section):</i></p>
+<p><i>(i)	the individual was convicted of an offence against or arising out of a
+law of the Commonwealth, a State, a Territory or a foreign
+country, being an
+offence in respect of dishonest conduct; or </i></p>
+<p><i>(ii)	a civil penalty was made in relation to the person; or</i></p>
+<p><i>(b)	the person is an insolvent under administration; or</i></p>
+<p><i>(c)	the Regulator has disqualified the individual under section
+120A.</i></p>
+<p><i>...</i></p>
+<p><i>(3)	A reference in this section to a person who has been convicted of an
+offence includes a reference to a person in respect of whom
+an order has been
+made under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ca191482/s19b.html" class="autolink_findacts">section 19B</a> of the </i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ca191482/" class="autolink_findacts">Crimes Act 1914</a><i>, or under a corresponding
+provision of a law of a State, a Territory or a foreign country, in relation to
+the offence.</i></p>
+<p><i>(4)	Division 3 of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ca191482/index.html#p7c" class="autolink_findacts">Part VIIC</a> of the </i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ca191482/" class="autolink_findacts">Crimes Act 1914</a><i> does not apply
+in relation to the disclosure of information about a conviction of the kind
+mentioned in paragraph (1)(a), if the
+disclosure is for the purposes of this
+Part.</i>&#8221;</p>
+<br><br>
+<p>4.		A person may apply for waiver of the status of a disqualified person. 
+That is provided for in <b>s. 126B</b> of the SIS Act.  Only <b>ss. 126B(1)</b>
+to <b>(4) </b>are relevant in this case:</p>
+<p>&#8220;<i>(1)	An individual may apply to the Regulator for a declaration
+under section 126D waiving his or her status as a disqualified person
+for the
+purposes of this Part only if:</i></p>
+<p><i>(a)	he or she is a disqualified person solely because of the operation of
+subparagraph 120(1)(a)(i); and</i></p>
+<p><i>(b)	the offence leading to him or her being a disqualified person is not
+an offence involving serious dishonest conduct as described
+in subsection
+(2).</i></p>
+<p><i>(2)	For the purposes of paragraph (1)(b), an offence involves serious
+dishonest conduct if the penalty actually imposed for the offence
+is:</i></p>
+<p><i>(a)	a term of imprisonment of at least 2 years or such longer period (if
+any) as is specified in the regulations; or</i></p>
+<p><i>(b)	a fine of at least 120 penalty units or such larger fine, if any, as
+is specified in the regulations.</i></p>
+<p><i>(3)	An application must:</i></p>
+<p><i>(a)	be in writing; and</i></p>
+<p><i>(b)	be made within 14 days after the commencement of this
+subsection</i><span class="sup">[<a name="fnB7" href="#fn7">[7]</a>]</span><i>
+or the person&#8217;s conviction, whichever is the later; and</i></p>
+<p><i>(c)	...</i></p>
+<p><i>(d)	...</i></p>
+<p><i>(e)	...</i></p>
+<p><i>(f)	...</i></p>
+<p><i>(4)	The Regulator may accept an application meeting conditions referred to
+in subsection (3) other than paragraph (3b) after the end
+of the period referred
+to in that paragraph only if the Regulator is satisfied that there are
+exceptional circumstances that prevented
+the application from being made within
+that period.</i>&#8221;</p>
+<br><br>
+<p>5.		Generally, the Regulator must decide an application under <b>s. 126B</b>
+within 60 days of receiving
+it.<span class="sup"><a name="fnB8" href="#fn8">[8]</a></span>  If the Regulator
+thinks that it will take longer than that to decide the application, the
+Regulator may extend the period for another
+60 days but no
+more.<span class="sup"><a name="fnB9" href="#fn9">[9]</a></span>  <b>Section
+126D</b> sets out the decisions that the Regulator must make in certain
+circumstances.  If the Regulator does not make a decision within that
+period,
+the Regulator is taken to have decided to refuse the application under <b>s.
+126D(3)</b>.</p>
+<br><br>
+<p>6.		When the Regulator is the Commissioner, the matters that he must take
+into account are set out in <b>s. 126D(1A)</b>:</p>
+<p>&#8220;<i>If, having regard to any of the following:</i></p>
+<blockquote>
+<i>(a)	the offence to which the application relates;</i><br><br>
+<i>(b)	the time that has passed since the applicant committed the
+offence;</i><br><br>
+<i>(c)	the applicant&#8217;s age when the applicant committed the
+offence;</i><br><br>
+<i>(d)	the orders made by the court in relation to the offence;</i><br><br>
+<i>(e)	any other relevant matter;</i></blockquote><p><i>the Commissioner of
+Taxation is satisfied that the applicant is highly unlikely to:</i></p>
+<blockquote>
+<i>(f)	contravene this Act; and</i><br><br>
+<i>(g)	do anything that would result in a self managed superannuation fund not
+complying with this Act;</i></blockquote><p><i>the Commissioner must, by notice
+in writing given to the applicant, make a declaration waiving the
+applicant&#8217;s status as a disqualified
+person for the purposes of this
+Part.</i>&#8221;</p>
+<br><br>
+<p>APRA is also required to take the first five matters into
+account<span class="sup"><a name="fnB10" href="#fn10">[10]</a></span> but in
+relation to a different question.  That question is whether &#8220;<i>... the
+applicant is highly unlikely to be a prudential risk to any superannuation
+entity
+...</i>&#8221;.<span class="sup"><a name="fnB11" href="#fn11">[11]</a></span></p>
+<br><br>
+<p>7.		<b>Section 126E</b> deals with the effect of a person&#8217;s applying
+for a declaration waiving his or her status as a disqualified person. 
+<b>Section 126E(1)</b> applies if:</p>
+<p>&#8220;<i>(a)	a person is a disqualified person; and</i></p>
+<p><i>(b)	the person is eligible to make application for a declaration waiving
+his or her status as a disqualified person; and</i></p>
+<p><i>(c)	the person makes application for such a declaration under subsection
+126B(3) within the application period specified in that subsection;</i></p>
+<p><i>...</i>&#8221;</p>
+<br><br>
+<p>If the section applies, the consequences are that:</p>
+<p>&#8220;<i>the person is treated, for the purposes of this Act, (other than
+the purpose of the application for the declaration) as not being,
+and as never
+having been, a disqualified person until that application is
+decided.</i>&#8221;<span class="sup"><a name="fnB12" href="#fn12">[12]</a></span></p>
+<br><br>
+<p>8.		If the Regulator decides to make a declaration in relation to a person
+meeting the description set out in <b>ss. 126E(1)(a)</b>, <b>(b)</b> and
+<b>(c)</b>, the SIS Act applies as if the person had never been
+disqualified.<span class="sup"><a name="fnB13" href="#fn13">[13]</a></span>  If
+the Regulator decides not to make a declaration, the person again becomes a
+disqualified person from the date of the
+decision.<span class="sup"><a name="fnB14" href="#fn14">[14]</a></span></p>
+<br><br>
+<p>9.		If the person is a disqualified person, who is eligible to make an
+application for a declaration waiving his or her status as
+a disqualified
+person, and makes an application for waiver under <b>s. 126B(4)</b>, the person
+continues to be a disqualified person for the purposes of the SIS Act pending
+the decision.<span class="sup"><a name="fnB15" href="#fn15">[15]</a></span>  If
+the Regulator decides to make a declaration waiving the person&#8217;s status as
+a disqualified person, the person is treated
+for the purposes of this Act as if
+the person had never been a disqualified
+person.<span class="sup"><a name="fnB16" href="#fn16">[16]</a></span></p>
+<br><br>
+<p><b>BACKGROUND</b></p>
+<br><br>
+<p>10.		In this case, there is no dispute between the parties regarding the
+facts leading to VBS&#8217;s application.  In light of that
+and on the basis of
+the material that includes his statement and the documents lodged under <b>s.
+37</b> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act 1975</a></i> (&#8220;T
+documents&#8221;), I have made the findings of fact set out in the following
+paragraphs.</p>
+<br><br>
+<p>11.		VBS is a Certified Practising Accountant (&#8220;CPA&#8221;) and has
+worked in his profession since 1963.  He established his
+own practice in 1980
+and continues to practise.  Between August 1993 and 1995, he stole $153,000.00
+from accounts that he operated
+in a fiduciary capacity as a liquidator and as a
+trustee under the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ba1966142/" class="autolink_findacts">Bankruptcy Act 1966</a></i>.  As a consequence, VBS was
+convicted on 3 June 1999 of ten counts of theft and sentenced to terms of
+imprisonment amounting to 18
+months&#8217; imprisonment of which 14 months
+was suspended for two years.  The period of imprisonment was served and the two
+years
+passed without incident.  I am satisfied that VBS was not dishonest before
+he committed the offences and has not been since.  On
+the basis of the evidence
+of a clinical psychologist, Mr Leslie Posen, and a consultant psychiatrist, Dr
+Lester Waston, as well as
+his own evidence, I am satisfied that VBS is unlikely
+to offend again.  He has repaid all of the money he misappropriated.</p>
+<br><br>
+<p>12.		VBS&#8217;s membership of the Australian Society of Certified Practising
+Accountants (&#8220;ASCPA&#8221;) was suspended for
+a period of 12 months.  One
+of the consequences of his suspension was that he was unable to audit
+superannuation funds during that
+period.  His period of suspension concluded
+over five years ago.  Just before the conclusion of his suspension, VBS gave the
+Australian
+Prudential Regulation Authority (&#8220;APRA&#8221;) an undertaking
+that he would not act as the auditor of a superannuation fund
+for a period of
+approximately 2&#189; years.  As a result of his conviction, he was effectively
+disqualified by operation of <b>s. 229(3)<i> </i></b>of the <i>Corporations
+Law</i>, then in force, from acting as a director of a company for a period of
+five years after his release from prison in October 1999.
+ At the time of his
+conviction, VBS had been a registered tax agent under the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">Income Tax
+Assessment Act 1936</a></i> but his registration was suspended for a two month
+period from September to October 1999.</p>
+<br><br>
+<p>13.		I accept that VBS knew that his conviction led to his being disqualified
+as a trustee of a superannuation entity.  He had thought
+it appropriate to wait
+until he could be a director of a company before he applied for his
+disqualification to be waived.  VBS has
+asked for his disqualification to be
+waived so that he is capable of being appointed as a director of the corporate
+trustee of his
+family&#8217;s superannuation fund.  At present, that fund
+remains under APRA&#8217;s supervision.  He first applied for waiver on
+15 June
+2004 and resubmitted it on 18 October 2004.  A delegate of APRA decided on 16
+December 2004 to decline to waive VBS&#8217;s
+disqualification.  In the first
+instance, the delegate noted that VBS had not made his application within 14
+days of his conviction
+as required by <b>s. 126B(3)</b> of the SIS Act. 
+Despite that, he accepted VBS&#8217;s application under <b>s. 126B(4)</b> on the
+basis that there were exceptional circumstances that prevented his application
+being made in the 14 day period.  He then declined
+the application on the basis
+that he was not satisfied that VBS was highly unlikely to be a prudential risk
+to any superannuation
+entity. </p>
+<br><br>
+<p>14.		I find that, at the date of his conviction, VBS had been unaware of the
+fact that he only had 14 days from that date within which
+to apply for APRA to
+waive the disqualification.  This accounts for his not applying during the term
+of his imprisonment for he did
+take other action during that time.  He did, for
+example, instruct his solicitor to make a submission on his behalf to the
+ASCPA.<span class="sup"><a name="fnB17" href="#fn17">[17]</a></span>  Once he
+was released, I accept that he had to work very hard to take his practice up to
+date and to cope with high workload demands
+due to the implementation of the
+activity statement regime.  </p>
+<br><br>
+<p>15.		VBS sought internal review of the decision by APRA&#8217;s delegate on
+17 January 2005.  A little later, on 18 February 2005,
+VBS applied to the
+Commissioner for waiver of his status as a disqualified person in relation to
+being a trustee of self-managed
+funds.  A delegate of the Commissioner advised
+him on 10 March 2005 that he had not applied within 14 days of his conviction
+and
+that there were no exceptional circumstances requiring him to accept the
+application under <b>s. 126B(4)</b> of the SIS Act.  As a consequence, the
+delegate rejected his application.</p>
+<br><br>
+<p><b>CONSIDERATION</b></p>
+<br><br>
+<p>16.		On behalf of VBS, Mr Bigmore QC submitted that I should have regard to
+the matters addressed in <b>s. 126D(1A)</b>.  The matter of the time that has
+passed that is addressed in <b>s. 126D(1A)(b)</b>, and so his rehabilitation,
+would be meaningless unless the expression &#8220;<i>exceptional
+circumstances</i>&#8221; were interpreted to include demonstrated rehabilitation
+over a lengthy period.  Mr Bigmore referred to the Explanatory Memorandum
+to the
+<i><a href="/cgi-bin/viewdoc/au/legis/cth/bill/silab1995675/" class="autolink_findacts">Superannuation Industry (Supervision) Legislation Amendment Bill 1995</a></i>
+(&#8220;Bill&#8221;) introducing <b>s. 126D </b>as an amendment to the SIS Act. 
+In introducing it as well as <b>ss. 126B</b>, <b>126C</b>, <b>126E</b> and
+<b>126F</b>, the Explanatory Memorandum noted:</p>
+<p>&#8220;<i>87.	... These sections have been inserted TO ALLOW THE Commissioner
+to waive the disqualified person requirements for trustees, and
+responsible
+officers of trustees, investment managers and custodians of superannuation
+entities, if the Commissioner believes, given
+the information provided, that the
+person is highly unlikely to be a prudential risk to a superannuation
+entity.</i></p>
+<p><i>88.	Currently the impact of the disqualified person provisions means, for
+example, that even persons whose only offence was a minor
+offence involving
+dishonesty 20 years ago, for example shoplifting, are disqualified persons and
+cannot act as a trustee, or as responsible
+officers of trustees, investment
+managers or Custodians.  These are new sections will enable the Commissioner to
+waive the disqualified
+person status of such an individual.</i>&#8221;</p>
+<br><br>
+<p>The Explanatory Memorandum goes on to set out the effect of each section
+introduced by the Bill but it does not add anything.</p>
+<br><br>
+<p>17.		I will begin with the meaning of the expression &#8220;<i>exceptional
+circumstances</i>&#8221;?  It has been used and considered in a number of
+varying contexts.  These were referred to by Senior Member Handley and Mr
+Ermert, Member in <i>Re Graham and Australian Fisheries Management
+Authority</i>,<span class="sup"><a name="fnB18" href="#fn18">[18]</a></span> who
+concluded that the expression means to &#8220;<i>form an exception; unusual
+instance;
+extraordinary</i>&#8221;.<span class="sup"><a name="fnB19" href="#fn19">[19]</a></span>
+I agree with this interpretation but I have looked to two other cases for
+assistance in how to determine what does form an exception,
+represent an unusual
+instance or deserve the description of being extraordinary.</p>
+<br><br>
+<p>18.		General principles to assist in determining what are exceptional
+circumstances can be gleaned from a passage from the judgment
+of Hedigan J in
+the recent case of <i>Owens v
+Stevens</i>.<span class="sup"><a name="fnB20" href="#fn20">[20]</a></span>  His
+Honour was considering cl. 15 of Schedule 5 to the <i><a href="/cgi-bin/viewdoc/au/legis/vic/consol_act/mca1989214/" class="autolink_findacts">Magistrates Court Act
+1989</a></i> (Vic):</p>
+<p>&#8220;<i>The use of the phrase &#8216;exceptional circumstances&#8217; is
+not unknown in the legal lexicon. <a href="/cgi-bin/viewdoc/au/legis/nt/consol_act/ba41/s13.html" class="autolink_findacts">Section 13</a> of the <a href="/cgi-bin/viewdoc/au/legis/nt/consol_act/ba41/" class="autolink_findacts">Bail Act</a> is a well-known
+example.  Exceptional is defined, contextually, in the</i> Oxford English
+<i>Dictionary (2nd Edition Volume V), ... as meaning &#8216;unusual, special,
+out of the ordinary course&#8217;. This does not mean any
+variation from the
+norm.  The facts must be examined in the light of the Act, the legislative
+intention, the interests of the prosecuting
+authority, the defendant and the
+victims. It may be that the circumstances amounting to exceptional must be
+circumstances that rarely
+occur and perhaps be outside reasonable anticipation
+or
+expectation</i>.&#8221;<span class="sup"><a name="fnB21" href="#fn21">[21]</a></span></p>
+<br><br>
+<p>Earlier, in <i>Cabal v United Mexican
+States</i>,<span class="sup"><a name="fnB22" href="#fn22">[22]</a></span> Kirby
+J had also considered the meaning of &#8220;<i>exceptional
+circumstances</i>&#8221; in the context of applications to the High Court to
+exercise its implied powers under the Constitution.  Those implied powers
+may
+only be exercised where exceptional circumstances have been
+shown.<span class="sup"><a name="fnB23" href="#fn23">[23]</a></span>  Messrs
+Cabal and Pasini were the subject of extradition orders made under the
+<i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ea1988149/" class="autolink_findacts">Extradition Act 1988</a></i>.  Kirby J said:</p>
+<p>&#8220;<i>	In extradition cases ... there are two principal purposes of
+justice that have to be reconciled in deciding whether &#8216;exceptional
+circumstances&#8217; are demonstrated.  First, there is the policy of the law
+that the procedures of the Act will be effectively
+and expeditiously concluded. 
+Doing this will avoid, as far as may reasonably be achieved, the interruptions
+or frustrations of the
+process by the flight of the subject who secures liberty
+before the determination has been carried into effect.  Secondly, there
+is the
+policy of the law that, in certain exceptional circumstances, the subject of an
+extradition determination will be restored
+to liberty out of deference to the
+general tendency of our law favourable to personal freedom and resistant to the
+detention of persons
+in custody where such detention is unnecessary to achieve
+the purposes, relevantly, of extradition and is arbitrary or oppressive
+in the
+circumstances and cannot be fully justified. </i></p>
+<p><i>...</i></p>
+<p><i>...	The purpose of obliging the applicant for bail to demonstrate
+&#8216;special&#8217; or &#8216;exceptional&#8217; circumstances
+is to focus the
+attention of the court on the reasons why detention in custody pending surrender
+is the normal rule.  Any why something
+unusual and extraordinary is necessary to
+depart from that
+rule.</i>&#8221;<span class="sup"><a name="fnB24" href="#fn24">[24]</a></span></p>
+<br><br>
+<p>19.		Applying the principles in this case, I begin with the purpose inherent
+in the provisions of the SIS Act.  That inherent purpose
+is to protect members
+of the public and those of their investments directed to providing for their
+retirement or later years.  A
+necessary corollary of that purpose is that the
+SIS Act is intended to protect the public purse as members of the public who are
+able to provide for their own retirements do not need to look to income
+maintenance or social security payments of some kind.  One
+way in which the SIS
+Act achieves its purpose is by regulating those who may be involved in the
+management of a superannuation entity.
+ In part, it does so by reference to
+certain categories of persons.  In relation to some of those categories, such as
+those under
+<b>s. 120A</b>, Parliament has retained an element of
+discretion in the decision-maker.  In relation to <b>s. 120(1)(a)(i)</b>, with
+which I am concerned, there is no discretion just as there is no discretion if a
+person is an insolvent under administration.
+ If a person is convicted of an
+offence coming within <b>s. 120(1)(a)(i)</b> the status of a disqualified person
+is immediately applicable.  Whereas an insolvent under administration can cast
+off the status
+of a disqualified person once the administration is completed,
+the convicted person cannot.  The only way in which the convicted
+person can
+cast off the status is if it is waived.</p>
+<br><br>
+<p>20.		Having given the power to waive, Parliament clearly intends that it be
+used.  For all that, though, it is equally clear that
+it intends issues of
+disqualification to be both raised and decided quite quickly.  The 14 day time
+limit within which to lodge the
+application suggests the former and the maximum
+120 day time limit within which a decision must be made suggests the latter. 
+The
+provisions in <b>s. 126E</b> relating to the impact of an application upon a
+person&#8217;s status as a disqualified person are more neutral.  If an
+application
+is made within 14 days of conviction, the speedy time limits for the
+decision are consistent with the applicant&#8217;s not being
+regarded as a
+disqualified person unless the Regulator refuses the application.  If made
+outside that time limit, the person&#8217;s
+being regarded as a disqualified
+person unless the Regulator decides to waive that status is consistent with the
+delay in making
+the application. </p>
+<br><br>
+<p>21.		Some of the matters that the Regulator must take into account in
+deciding an application that has been made within 14 days of
+conviction do not,
+on their face, sit quite happily with an expedited time frame.  They sit more
+comfortably with those applications
+made within 14 days of the day on which
+<b>s. 126B(3)(b) </b>came into operation.  I have in mind particularly the time
+that has passed since the person committed the offence and that person&#8217;s
+age at the time.  Both tend to suggest that the greater the time that has passed
+since the offence, the greater the chance of the
+application&#8217;s succeeding
+if that person has undergone rehabilitation.  No mention, though, is made of
+rehabilitation in <b>s. 126D(1A)</b>.</p>
+<br><br>
+<p>22.		Determining what circumstances will amount to &#8220;<i>exceptional
+circumstances</i>&#8221; will have regard to both the SIS Act&#8217;s objective
+that the applications be made and decided quickly with the objective
+that
+applications may be made out of time and decided according to the same criteria
+as those made within time.  What is clear from
+<b>s. 126B(4) </b>is that the
+exceptional circumstances must bear upon that 14 day time period.  They may not
+bear upon the person and that person&#8217;s
+individual circumstances since
+being convicted however outstanding that person&#8217;s rehabilitation and
+achievements.</p>
+<br><br>
+<p>23.		VBS has relied on his lack of knowledge of the requirements of the SIS
+Act and his associated problems with his professional
+associations as a result
+of his conviction as well as his disqualification from acting as a director of a
+company.  These would be
+matters that could be expected to be quite common for a
+person who is a trustee or responsible officer of a superannuation entity
+at the
+time of conviction and becomes a disqualified person under the SIS Act.  That is
+so even though they may not be quite common
+for every person who is convicted of
+an offence of dishonesty with a penalty of less than two years&#8217;
+imprisonment.  I do not,
+however, think that the SIS Act requires me to have
+regard to what amount to exceptional circumstances by reference to persons other
+than those who are in similar circumstances to VBS.  It could also be expected
+to be quite common that a person would find it difficult
+to demonstrate
+rehabilitation and the like if there is a relatively short period between the
+dishonest conduct and the date of the
+conviction.  That is not the case here. 
+VBS had approximately five years between the end of the period in which he
+committed his
+offences and being convicted of them.  Certainly, for applications
+made within 14 days of the commencement of <b>s. 126B</b> on 6 January 1996,
+that period of time might prove to be substantial indeed but not for those made
+in relation to convictions on
+or after that date.  </p>
+<br><br>
+<p>24.		VBS&#8217;s lack of knowledge of his entitlement to apply for a waiver
+in the brief window of opportunity offered by the SIS
+Act also seems to me
+insufficient to take his case to the level of an exceptional circumstance. 
+Sadly, that may be a common occurrence
+but.</p>
+<br><br>
+<p>25.	On its face, <b>s. 126B(3)(b) </b>seems somewhat unfair in permitting
+those who were convicted on or after 6 January 1996 a period of only 14 days in
+which to make
+an application.  The result is that they have a much shorter time
+within which to establish the matters set out in <b>s. 126D</b> than those who
+were convicted long before.  Unfortunately, the function of the Tribunal is not
+to give the parties a just result
+but a just result according to the law and
+based on the material available to it.</p>
+<br><br>
+<p>26.		For the reasons I have given, I affirm the decision of the respondent
+dated 16 June 2005.</p>
+<br><br>
+<p align="center">I certify that the twenty-six preceding paragraphs are a true
+copy of the reasons for the decision herein of </p>
+<p align="center">Deputy President S A Forgie,</p>
+<br><br>
+<p>Signed: 	...............................................................</p>
+<p>	Nathaniel Wills	Associate</p>
+<p>Date of Hearing	18 November 2005</p>
+<p>Date of Decision	23 December 2005</p>
+<p>Counsel for the Applicant	Mr G. Bigmore QC</p>
+<p>Solicitor for the Applicant	Ms L. Bloch</p>
+<p>	Bazzani Brand Lawyers</p>
+<p>Counsel for the Respondent	Mr C. Sievers</p>
+<p>Solicitor for the Respondent	Mr E. Chiaw</p>
+<p>	ATO Legal Services Branch</p>
+<br><br>
+<hr><p><span class="sup"><a name="fn1" href="#fnB1">[1]</a></span> As a matter of
+practice, the Tribunal has assigned the applicant a pseudonym.  This appears to
+be a practice that has been adopted
+in light of s. 344(11) of the SIS Act
+requires the hearing of any proceeding relating to a reviewable decision is to
+take place in
+private.  In the absence of an order under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s35.html" class="autolink_findacts">s. 35(2)</a> of the
+<i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act 1975</a></i>, there is a very real question
+whether, this practice is appropriate simply because there is a
+&#8220;<i>private hearing</i>&#8221;.  I refer to the reasons given in <i>Re VBW
+and Australian Prudential Regulation Authority</i>  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2005/1294.html" title="View Case" class="autolink_findcases">[2005] AATA
+1294.</a><br><br><span class="sup"><a name="fn2" href="#fnB2">[2]</a></span> SIS Act,
+Long Title<br><br><span class="sup"><a name="fn3" href="#fnB3">[3]</a></span> SIS
+Act, s. 119<br><br><span class="sup"><a name="fn4" href="#fnB4">[4]</a></span> SIS
+Act, s. 119(1)<br><br><span class="sup"><a name="fn5" href="#fnB5">[5]</a></span>
+SIS Act, s.
+121(2)<br><br><span class="sup"><a name="fn6" href="#fnB6">[6]</a></span> SIS Act,
+s. 121(3).  The Regulator in this case is the Commissioner of Taxation: SIS Act,
+s. 10(1)<br><br><span class="sup"><a name="fn7" href="#fnB7">[7]</a></span> The
+subsection commenced on 6 January
+1996.<br><br><span class="sup"><a name="fn8" href="#fnB8">[8]</a></span> SIS Act, s.
+126C(1)<br><br><span class="sup"><a name="fn9" href="#fnB9">[9]</a></span> SIS Act,
+s. 126C(2)<br><br><span class="sup"><a name="fn10" href="#fnB10">[10]</a></span> SIS
+Act, ss.
+126D(1)(a)-(e)<br><br><span class="sup"><a name="fn11" href="#fnB11">[11]</a></span>
+SIS Act, s.
+126D(1)<br><br><span class="sup"><a name="fn12" href="#fnB12">[12]</a></span> SIS
+Act, s.
+126E(1)<br><br><span class="sup"><a name="fn13" href="#fnB13">[13]</a></span> SIS
+Act, s.
+126E(2)(a)<br><br><span class="sup"><a name="fn14" href="#fnB14">[14]</a></span> SIS
+Act, s.
+126E(2)(b)<br><br><span class="sup"><a name="fn15" href="#fnB15">[15]</a></span> SIS
+Act, s.
+126E(3)(d)<br><br><span class="sup"><a name="fn16" href="#fnB16">[16]</a></span> SIS
+Act, s.
+126E(3)(e)<br><br><span class="sup"><a name="fn17" href="#fnB17">[17]</a></span> T
+documents at T8-62
+-T8-68<br><br><span class="sup"><a name="fn18" href="#fnB18">[18]</a></span> <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2002/862.html" title="View Case" class="autolink_findcases_inserted">[2002] AATA 862</a>;  <a href="/cgi-bin/LawCite?cit=%282002%29%2071%20ALD%20700" title="View LawCiteRecord" class="autolink_findcases">(2002)
+71 ALD 700</a><br><br><span class="sup"><a name="fn19" href="#fnB19">[19]</a></span>
+<a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2002/862.html" title="View Case" class="autolink_findcases_inserted">[2002] AATA 862</a>;  <a href="/cgi-bin/LawCite?cit=%282002%29%2071%20ALD%20700" title="View LawCiteRecord" class="autolink_findcases">(2002) 71 ALD 700</a> at
+705<br><br><span class="sup"><a name="fn20" href="#fnB20">[20]</a></span> Unreported
+3 May 1991 quoted with approval in <i>R v Steggall</i>  <a href="/cgi-bin/viewdoc/au/cases/vic/VSCA/2005/278.html" title="View Case" class="autolink_findcases">[2005] VSCA
+278</a><br><br><span class="sup"><a name="fn21" href="#fnB21">[21]</a></span> <i>R v
+Steggall</i>  <a href="/cgi-bin/viewdoc/au/cases/vic/VSCA/2005/278.html" title="View Case" class="autolink_findcases">[2005] VSCA 278</a> at
+ <a href="/cgi-bin/viewdoc/au/cases/vic/VSCA/2005/278.html#para12" class="autolink_findcases">[12]</a><br><br><span class="sup"><a name="fn22" href="#fnB22">[22]</a></span> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2001/42.html" title="View Case" class="autolink_findcases_inserted">[2001] HCA 42</a>;  <a href="/cgi-bin/LawCite?cit=%282001%29%20180%20ALR%20593" title="View LawCiteRecord" class="autolink_findcases">(2001)
+180 ALR 593</a><br><br><span class="sup"><a name="fn23" href="#fnB23">[23]</a></span>
+<i>Chamberlain v R (No 1)</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1983/13.html" title="View Case" class="autolink_findcases_inserted">[1983] HCA 13</a>;  <a href="/cgi-bin/LawCite?cit=%281983%29%20153%20CLR%20514" title="View LawCiteRecord" class="autolink_findcases">(1983) 153 CLR 514</a>;  <a href="/cgi-bin/LawCite?cit=46%20ALR%20608" title="View LawCiteRecord" class="autolink_findcases">46 ALR 608</a> at 518-520; 609-611
+and see also <i>Sinanovic v R (No 1)</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2001/35.html" title="View Case" class="autolink_findcases_inserted">[2001] HCA 35</a>;  <a href="/cgi-bin/LawCite?cit=%282001%29%20179%20ALR%20520" title="View LawCiteRecord" class="autolink_findcases">(2001) 179 ALR 520</a> at 522
+ <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2001/35.html#para11" class="autolink_findcases">[11]</a><br><br><span class="sup"><a name="fn24" href="#fnB24">[24]</a></span> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2001/42.html" title="View Case" class="autolink_findcases_inserted">[2001] HCA 42</a>;  <a href="/cgi-bin/LawCite?cit=%282001%29%20180%20ALR%20593" title="View LawCiteRecord" class="autolink_findcases">(2001)
+180 ALR 593</a> at 601</p>
+
+
+
+
+<!--sino noindex-->
+      </article>
+    </div> <!-- page-main -->
+
+
+<!-- Document Sidebar -->
+    <div id="page-side">
+
+
+
+<!-- insert search-context.tx here when searching -->
+
+
+      <div class="side-element side-print">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M15.6 19.6h-10c-.6-.2-1-.6-1-1.3v-3.5H2.2c-.7 0-1.2-.5-1.2-1.2V5.3C1 4.5 1.5 4 2.2 4H4.6V1.6c0-.6.3-1 .9-1.2h10.2c.6.2.9.6.9 1.3V4H19c.5 0 .9.3 1.1.8 0 .1 0 .1.1.2v8.9c-.2.6-.6.9-1.3.9H16.6v3.6c0 .5-.4 1-.9 1.2h-.1zm3.4-6V5.2H2.2v8.4h2.4v-1.2H4c-.3 0-.5-.1-.5-.4-.2-.4.1-.8.6-.8h13.1c.4 0 .6.3.6.6s-.3.6-.6.6h-.6v1.2H19zm-3.6-1.2H5.8v6h9.6v-6zm0-10.8H5.8V4h9.6V1.6zM15.4 8.2c0-.3.3-.6.6-.6s.6.3.6.6-.3.6-.6.6-.6-.3-.6-.6zM10.6 13.6h3c.3 0 .6.2.6.5s-.2.6-.5.7H7.6c-.4 0-.7-.3-.7-.6s.3-.6.7-.6h3zM10.6 17.2H7.7c-.4 0-.7-.2-.7-.6 0-.3.3-.6.7-.6h5.9c.4 0 .7.2.7.6 0 .4-.3.6-.7.6h-3z"></path>
+        </g></svg>
+        <h4>Print</h4>
+        <ul>
+          <li> <a class="print-special" href="javascript:void(0);">Print (pretty)</a> </li>
+          <li> <a class="print-minimal" href="javascript:void(0);">Print (eco-friendly)</a> </li>
+        </ul>
+      </div> <!-- side-print -->
+
+
+      <div class="side-element side-download">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M12.5.9c1.3.5 1.7 1.5 1.7 2.9-.1 1.6 0 3.3 0 5h3.1c0 .1.1.1.1.2-.2.3-.3.5-.6.8l-5.3 5.3c-.7.6-1 .7-1.6.1-1.9-1.9-3.7-3.7-5.6-5.5-.1-.2-.3-.4-.6-.8H7c0-.4 0-.7.1-.9V3.8C7 2.4 7.4 1.4 8.7.9h3.8zM1.4 14.5h1.4v2.4c0 .9.2 1.1 1 1.1h13.5c.9 0 1-.2 1.1-1.1v-2.4h1.4v3.2c-.3.9-.9 1.4-1.7 1.7h-15c-.9-.3-1.4-.9-1.7-1.7v-3.2z"></path>
+        </g></svg>
+        <h4>Download</h4>
+        <ul>
+          <li> <a href="/au/cases/cth/AATA/2005/1303.rtf">RTF format (1.77 MB)</a> </li>
+        </ul>
+        <ul>
+          <li> <a href="/cgi-bin/sign.cgi/au/cases/cth/AATA/2005/1303">Signed PDF/A format</a> </li>
+        </ul>
+      </div> <!-- side-download -->
+
+      <div class="side-element side-cited-by">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M10.2 16.6c-.9-.2-1.8-.3-2.7-.5-1.5-.4-2.9-1.1-4-2.3-3-3-2.9-7.4.4-10.1C6.2 1.7 9 1.1 12 1.4c1.7.2 3.2.8 4.6 1.8 3.1 2.3 4 5.6 2.5 9.2-.8 2-2.3 3.4-4 4.6-2.3 1.5-4.8 2.2-7.4 2.5h-.2c-.1-.1-.2-.1-.4-.2 0-.1 0-.3.2-.3.7-.4 1.4-.7 2-1.1.4-.3.7-.8.9-1.3z"></path></svg>
+        <h4>Cited By</h4>
+        <ul>
+          <li> <a href="/cgi-bin/LawCite?cit=[2005] AATA 1303"> LawCite records</a> </li>
+          <li> <a href="/cgi-bin/sinosrch.cgi?method=boolean&query=2005 AATA 1303 or AATA 2005 1303"> NoteUp references</a> </li>
+          <!-- li> <a href=""> NoteUp references</a> </li -->
+        </ul>
+      </div> <!-- cited-by -->
+
+
+
+
+
+
+
+      <div class="side-element side-social">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M20.7 3.7c-.7.3-1.5.5-2.4.6.9-.5 1.5-1.3 1.9-2.3-.8.5-1.7.8-2.7 1-.8-.8-1.9-1.3-3.1-1.3-2.3 0-4.2 1.9-4.2 4.2 0 .3 0 .6.1 1C6.9 6.7 3.8 5 1.7 2.5c-.4.6-.6 1.3-.6 2.1 0 1.4.8 2.7 1.9 3.5-.7-.1-1.3-.3-1.9-.6v.1c0 2 1.4 3.7 3.4 4.1-.4.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.7 2.1 2.9 3.9 2.9-1.4 1.1-3.2 1.8-5.2 1.8-.3 0-.7 0-1-.1 1.9 1.2 4.1 1.9 6.4 1.9 7.7 0 11.9-6.4 11.9-11.9v-.5c.8-.6 1.6-1.3 2.1-2.1z"></path></svg>
+        <h4>Join the discussion</h4>
+        <ul>
+          <li> <a href="https://twitter.com/intent/tweet?text=%E2VBS and Commissioner of Taxation [2005] AATA 1303; (2005) 91 ALD 682 (23 December 2005)%E2%80%9D&amp;url=http://www.austlii.edu.au/au/cases/cth/AATA/2005/1303.html&amp;via=austlii&amp;hashtags=austlii" target="_blank">Tweet this page</a> </li>
+          <li> <a href="https://twitter.com/intent/user?screen_name=AustLII" target="_blank">Follow @AustLII on Twitter</a> </li>
+<!--
+          <li> <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=austlii" target="_blank">Recent tweets about AustLII</a> </li>
+-->
+        </ul>
+      </div>
+
+
+    </div> <!-- page-side -->
+
+
+
+    <footer class="closing">
+      <div class="inner">
+        <!--<ul class="closing-primary">
+      <li><a href="database-all.html">All Databases</a></li>
+      <li><a href="database-cases.html">Cases &amp; Legislation</a></li>
+      <li><a href="database-journals.html">Journals &amp; Scholarships</a></li>
+      <li><a href="database-treaties.html">Treaties</a></li>
+      <li><a href="database-libraries.html">Libraries</a></li>
+      <li><a href="#">LawCite</a></li>
+    </ul>-->
+        <ul class="closing-tertiary">
+          <li> <a href="/austlii/">About</a> </li>
+          <li> <a href="/austlii/copyright.html">Copyright &amp; Usage</a> </li>
+          <li> <a href="/austlii/privacy.html">Privacy</a> </li>
+          <li> <a href="/austlii/disclaimers.html">Disclaimers</a> </li>
+          <li> <a href="/austlii/help/">Help</a> </li>
+        </ul><small>http://www.austlii.edu.au/au/cases/cth/AATA/2005/1303.html</small>
+      </div>
+    </footer>
+
+  </div> <!-- page-content -->
+
+  <script src="/js/production.min.js">
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a21ba460393323fe',t:'MTc4NTE1NTI4Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"f74b553413eb4a50949f5730dcd56219"}' crossorigin="anonymous"></script>
+</body>
+</html>

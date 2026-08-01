@@ -1,0 +1,913 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="en">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Solaris version 5.1.24" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>Confidential and Commissioner of Taxation [2012] AATA 938 (17 December 2012)</title>
+  <link media="screen" rel="stylesheet" href="/css/screen1.css" />
+  <link media="print" rel="stylesheet" href="/css/print.css" />
+  <meta name="theme-color" content="#ee3224" />
+  <meta name="description" content="Australasian Legal Information Institute (AustLII), a joint facility of UTS and UNSW Faculties of Law." />
+  <link rel="icon" sizes="192x192" href="/images/icon-192.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/icon-shortcut.png" />
+  <meta name="msapplication-TileColor" content="#ee3224" />
+  <meta name="msapplication-TileImage" content="/images/icon/ms.png" />
+  <script src="/js/modernizr.min.js">
+  </script>
+</head>
+<body class=" cases  document ">
+  <header id="page-header">
+    <div id="primary">
+      <a id="page-logo" href="/" tabindex="1"><img src="/images/logo.svg" alt="AustLII"><span class="title-main">AustLII</span></a> <a class="go-search" href="#">Search</a>
+      <h1 id="page-title"><span>Administrative Appeals Tribunal of Australia</span></h1>
+    </div>
+
+
+<!-- Search box
+
+The search box at the top of most pages. Always visible unless the
+'search' variable is set to false, for pages where we don't want
+that box along the top, such as on Advanced Search & LawCite.
+
+'Results' is a class added to database pages, which exposes the ability
+to search just by that database.
+
+'Searchable' is a page variable which indicates the page has checkboxes
+on it - the search box has a radio button for selecting we only search
+the checked areas.
+
+'Extra search' is for those rare extra options found in pages like the
+Aviation Law Association library database.
+-->
+    <form action="/cgi-bin/sinosrch.cgi">
+<input type="hidden" name="meta" value="">
+      <div id="page-search">
+        <h2 class="hide">Search AustLII</h2>
+        <div class="search-box">
+          <a class="search-dropdown" href="javascript:void(0);">&#9660;</a>
+          <fieldset>
+            <legend>Search Options</legend>
+            <ul class="search-options">
+              <li><label for="database-all">All databases <input type="radio" name="mask_path" value="" id="database-all" tabindex="2" 
+/></label></li>
+              <li><label for="database-this">This database only <input type="radio" name="mask_path" value="au/cases/cth/AATA" id="database-this" tabindex="3" 
+checked="checked" 
+/></label></li>
+              <li><label for="database-full">Full text <input type="radio" name="method" value="auto" id="database-full" method="auto" checked="checked" tabindex="6" /></label></li>
+              <li><label for="database-title">Titles only <input type="radio" name="method" value="title" id="database-title" tabindex="7" /></label></li>
+              <li class="advanced-search">
+                <a href="/advanced_search.shtml" tabindex="8">Advanced Search&hellip;</a>
+              </li>
+            </ul>
+          </fieldset><label for="search-box" class="hide">Search term:</label> <input id="search-box" type="text" name="query" 
+  placeholder="Search this database only" 
+  tabindex="9" /><a href="javascript:void(0);" class="search-box-clear hide">&times;</a> <input type="submit" value="Search" tabindex="9" />
+        </div><a class="go-primary" href="#">Close</a>
+      </div>
+    </form>
+
+
+    <ul id="page-tertiary">
+      <li> <a href="/about.html">About</a> </li>
+      <li> <a href="/contact.html">Contact</a> </li>
+      <li> <a href="/copyright.html">Copyright &amp; Usage</a> </li>
+      <li> <a href="/privacy.html">Privacy</a> </li>
+      <li> <a href="/disclaimers.html">Disclaimers</a> </li>
+      <li> <a href="/feedback.html">Feedback</a> </li>
+      <li> <a href="/help.html">Help</a> </li>
+    </ul>
+  </header>
+
+
+<!-- Ribbons
+
+These are the red bars along the top of each page.
+
+Ribbon is a variable set on most pages; it defaults to an expanded view,
+and can be simplified using variables 'intro' (for home) and 'basic' (for
+search, about pages, etc.)
+-->
+  <nav id="ribbon">
+    <div class="inner">
+      <ul>
+        <li class="ribbon-type"> <a href="#" tabindex="10">Type <span>Cases</span></a> </li>
+        <li class="ribbon-jurisdiction"> <a href="#" tabindex="12">Jurisdiction <span>Commonwealth</span></a> </li>
+        <li class="ribbon-database"> <a href="../" tabindex="13">Database <span>Administrative Appeals Tribunal of Australia</span></a> </li>
+        <li class="ribbon-year "> <a href="./" tabindex="14">Year <span>2012</span></a> </li>
+        <li class="ribbon-citation"><a href="#" tabindex="16">Citation <span>[2012] AATA 938</span></a></li>
+      </ul>
+    </div>
+  </nav> <!-- ribbon -->
+
+
+<!-- Panels
+
+The Panel defaults to 'year' view, which is what the database pages all have,
+it's what search results have, etc.
+
+The selections within if statements below are to visualize the 'is-selected'
+class across the various mock pages in the prototype.
+
+When implementing this, pull out the if statements and simply apply 'is-selected'
+when it's appropriate to that particular page.
+
+The options for the panel include:
+* none: the panel doesn't render
+* closed: the panel is present, but closed, adds 'is-closed' class
+* jurisdiction: jurisdiction is open at page load, adds 'is-jurisdiction' class
+* letter: 'starts with' is open at page load, adds 'is-letter' class
+-->
+  <div id="panels" class="is-closed">
+    <div class="inner">
+      <div id="panel-type">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>All Databases</h5> <p></p></a> </li>
+          <li class="panel-type-all is-selected"> <a href="/databases.html"> <h5>Cases &amp; Legislation</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/journals/"> <h5>Journals &amp; Scholarship</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/lawreform/"> <h5>Law Reform</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/other/dfat/"> <h5>Treaties</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/database-libraries.html"> <h5>Libraries</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="http://austlii.community/wiki/"> <h5>Communities</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/lawcite/"> <h5>LawCite</h5> <p></p></a> </li>
+        </ul>
+      </div>
+      <div id="panel-jurisdiction">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>Australia</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/cth/"> <h5>CTH</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/act/"> <h5>ACT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nsw/"> <h5>NSW</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nt/"> <h5>NT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/qld/"> <h5>QLD</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/sa/"> <h5>SA</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/tas/"> <h5>TAS</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/vic/"> <h5>VIC</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/wa/"> <h5>WA</h5></a> </li>
+          <li class="panel-type-all"> <a href="http://www.nzlii.org/databases.html"> <h5>New Zealand</h5></a> </li>
+        </ul>
+      </div>
+      <div id="panel-year">
+        <ul>
+          <li class="panel-type-specific">
+            <div>
+              <h5>Specific Year</h5><a href="#" class="year-specific-dropdown type-specific">Any</a> <select class="type-specific">
+                <option>
+                  2015
+                </option>
+              </select>
+            </div>
+          </li>
+<!--
+          <li class="panel-type-range">
+            <div>
+              <h5>Year Range</h5><a href="#" class="year-range-dropdown-1 type-range-1">1970</a> <select class="type-range-1">
+                <option> 2015 </option>
+              </select> <a href="#" class="year-range-dropdown-2 type-range-2">2015</a> <select class="type-range-2">
+                <option> 2015 </option>
+              </select> <a href="results.html" class="button">Apply</a>
+            </div>
+          </li>
+-->
+        </ul>
+      </div>
+      <div id="panel-letter">
+        <ul>
+          <li class="panel-letter-any"> <a href="#"> <h5>Any</h5></a> </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- "Year" dropdowns
+
+These dropdowns should be generated with data as appropriate.
+The data you see here is for presentatioal purposes.
+-->
+  <div class="year-options-list">
+    <div class="year-specific-options year-options">
+      <ul>
+        <li> <h5><a href="./">Any</a></h5> </li>
+<!--
+        <li> <h5><a href="2012/">2012</a></h5> </li>
+-->
+
+      </ul>
+    </div> <!-- specific-year -->
+
+<!--
+    <div class="year-range-1-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul>
+    </div> --> <!-- year-range-1 -->
+
+<!--
+    <div class="year-range-2-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul> 
+    </div> --> <!-- year-range-2 -->
+
+  </div> <!-- panels -->
+
+
+  <div id="page-content">
+    <div id="page-main">
+      <article class="the-document">
+        <h1>Confidential and Commissioner of Taxation [2012] AATA 938 (17 December 2012)</h1>
+<!--make_database: source=/home/philip/austlii/db/AATA/data/2012_938.html-->
+<!--sino date 17 December 2012-->
+
+<P>Last Updated: 26 February 2013
+</P>
+
+<p><a name="_GoBack"></a><b>	</b><b> <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2012/938.html" title="View Case" class="autolink_findcases">[2012] AATA 938</a></b><br><br></p>
+
+<style>
+.ul-none {list-style: none;}
+</style>
+<div style="position:relative; left: -5"><table>
+<tr valign="top">
+<td width="129" valign="top">
+<div><a name="SingleFile"></a>Division</div>
+</td>
+<td width="454" valign="top">
+<div><b>GENERAL ADMINISTRATIVE DIVISION</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div>File Number(s)</div>
+</td>
+<td width="454" valign="top">
+<div><b>2012/1393-1400</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div>Re</div>
+</td>
+<td width="454" valign="top">
+<div><b>Confidential</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<br><br></td>
+<td width="454" valign="top">
+<div>APPLICANT</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div>And</div>
+</td>
+<td width="454" valign="top">
+<div><b>Commissioner of Taxation</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<br><br></td>
+<td width="454" valign="top">
+<div>RESPONDENT</div>
+</td>
+</tr>
+</table></div>
+<p></p>
+<p class="h1"><b>
+DECISION</b></p>
+<p></p>
+<div style="position:relative; left: -5"><table>
+<tr valign="top">
+<td width="129" valign="top">
+<div><a name="Heading28"></a>Tribunal</div>
+</td>
+<td width="454" valign="top">
+<div><b>Mr John Handley, Senior Member</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div>Date</div>
+</td>
+<td width="454" valign="top">
+<div><b>17 December 2012</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div><a name="DateWrittenReasons"></a>Date of written reasons</div>
+</td>
+<td width="454" valign="top">
+<div><b>22 February 2013</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div>Place</div>
+</td>
+<td width="454" valign="top">
+<div><b>Melbourne</b></div>
+</td>
+</tr>
+</table></div>
+<p>For reasons given orally at the conclusion of the interlocutory hearing, the
+Tribunal dismisses the applications for review in accordance
+with <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)(b)</a> of
+the<i> <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act 1975</a></i>.</p>
+<p>(sgd) John Handley<br><br><b>Senior Member</b></p>
+<p></p>
+<p><a name="CatchwordsTitle"></a><b>PRACTICE AND PROCEDURE </b>&#8211; dismissal
+for failure to comply with directions&#8211; applications filed in April 2012
+&#8211; five Directions issued by
+Tribunal over a period of 6 months  &#8211;
+three interlocutory hearings convened to address applicant's non-compliance
+&#8211; notice
+to the applicant on 3 occasions warning of risk of failure to
+comply &#8211; applications dismissed.</p>
+<p class="h1"><b>
+LEGISLATION</b></p>
+<p><a name="LegislationTitle"></a><a name="Heading44"></a><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative
+Appeals Tribunal Act 1975</a>  </i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s2a.html" class="autolink_findacts">s 2A</a> and <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">42A</a>(5)</p>
+<p class="h1"><b>
+CASES</b></p>
+<p><a name="CasesTitle"></a><a name="Heading46"></a><i>Guse v Comcare</i> <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/1997/140.html" title="View Case" class="autolink_findcases_inserted">[1997] FCA 140</a>;  <a href="/cgi-bin/LawCite?cit=%281997%29%2049%20ALD%20288" title="View LawCiteRecord" class="autolink_findcases">(1997)
+49 ALD 288</a><br><br><i>Colpitts v Australian Telecommunications Commission and
+Others</i>  <a href="/cgi-bin/LawCite?cit=%281986%29%2070%20ALR%20554" title="View LawCiteRecord" class="autolink_findcases">(1986) 70 ALR 554</a></p>
+<p class="h1"><b>
+REASONS FOR DECISION</b></p>
+<p><br><br><a name="Heading49"></a><b>Mr John Handley, Senior
+Member</b><br><br><br><br><b>22 February 2013</b></p>
+<ol>
+<li style='' value='1' value="1"><a name="Start"></a>On
+5 April 2012, the applicant applied to the Tribunal for review of decisions made
+by the Commissioner of Taxation (the respondent)
+who a) disallowed his
+objections against notices of amended assessments for the income years ending
+2003 to 2008; b) disallowed his
+objections against notices of assessment for the
+income years ending 2009 and 2010 and c) disallowed his objections against
+notices
+of assessment and liability to pay penalty for the income years 2003 to
+2010.</li>
+<li style='' value='2' value="2">The
+applicant was initially legally represented, however his solicitors did not
+attend the first prehearing conference on 29 June2012
+and ceased acting for him
+on 19 September 2012.  The applicant thereafter pursued these applications
+without legal representation.
+ </li>
+<li style='' value='3' value="3">These
+applications were dismissed, pursuant to <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative
+Appeals Tribunal Act</i> 1975</a> (the Act), by reason of the applicant failing to
+comply with Tribunal directions, following a Directions Hearing on 17 December
+2012.
+ Oral reasons for the decision to dismiss were then given.  The published
+decision of the Tribunal, recording the dismissal (made
+on 17 December 2012) is
+incorrectly described as a <i>Direction</i>. </li>
+<li style='' value='4' value="4">Additionally,
+the <i>Direction</i> records that the applications was dismissed pursuant to
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)(a)</a> &#8211; failing to proceed &#8211; <i>and</i> (b) &#8211;
+failing to comply with a direction.  However, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)</a> contains the
+disjunctive <i>or</i> indicating that dismissal is permitted by one of the
+stated reasons only, not both.  The reason orally given for dismissal was
+failure
+to comply with directions.</li>
+<li style='' value='5' value="5">On
+24 January 2013, the applicant telephoned the Tribunal and requested written
+reasons for the decision of 17 December 2012.  The
+directions hearing was not
+recorded or transcribed.  The reasons which commence at paragraph 15 are
+compiled from handwritten notes
+made during the hearing, typed notes I made
+immediately following the hearing and from the contents of the Tribunal file.
+</li></ol><p class="h2">
+Summary of directions and listing events</p>
+<ol>
+<li style='' value='6' value="6"><a name="Heading59"></a>The
+following is a summary of the directions made and other relevant
+events:<ul class="ul-none">
+<li style=''">(a)	On 29 June
+2012, the applicant was directed to file and serve a Statement of Facts, Issues
+and Contentions and <i>any witness statements or other material</i> that he
+intended to rely on by 7 September 2012.  Notes appended to the Direction
+set out the Tribunal&#8217;s powers to dismiss
+an application if an applicant
+fails to comply with a direction. </li>
+<li style=''">(b)	On 28
+August 2012, the respondent sought leave to file additional documents in the
+respondent&#8217;s possession.  In response,
+the applicant&#8217;s solicitors
+sought a two week extension to comply with the direction made on 29 June
+2012.</li>
+<li style=''">(c)	On 3
+September 2012, the Tribunal issued an amended direction requiring the applicant
+to file and serve, on or before 21 September
+2012:<ul class="ul-none">
+<li style=''">(i)	A statement
+of the evidence to be given by the applicant;</li>
+<li style=''">(ii)	A
+statement of the evidence to be given by each witness intended to be called at
+the hearing;</li>
+<li style=''">(iii)	All
+reports records and other documents sought to be relied on; and</li>
+<li style=''">(iv)	A
+Statement of Facts, Issues and Contentions.</li></ul></li></ul></li></ol><p>In
+the event that the applicant did not intend to call any witnesses or rely on any
+other material, he was directed to advise the
+Tribunal accordingly by
+21 September 2012.  </p>
+<blockquote>
+(d)	A telephone directions hearing was listed on 19 September 2012 to discuss
+matters relating to a confidentiality order over the
+contents of some documents
+lodged by the respondent.  This directions hearing was adjourned because of the
+unavailability of the
+applicant&#8217;s solicitor.  From this time, the
+applicant proceeded without legal representatives. <br><br>
+(e)	On 21 September 2012, the applicant advised the Tribunal in writing, in
+response to a hearing certificate issued to both parties,
+that he intended to
+call one witness, <i>CK</i>.  He also lodged a box of bank statements.  Except
+for these documents, which were deposited with the Registrar without
+explanation,
+none of the documents specified in the amended direction made on
+3 September 2012 were filed with the Tribunal.   <br><br>
+(f)	On 4 October 2012, a directions hearing concerning the applicant&#8217;s
+non-compliance was convened.  The directions of 3 September
+2012 were amended
+and the time for compliance with those directions was extended to
+26 October 2012. <br><br>
+(g)	On 29 October 2012, the applicant filed a Statement of Facts, Issues and
+Contentions.  He also lodged a bundle of documents,
+each having a heading of
+<i>Analysis of Attachment</i>, with a cover sheet entitled <i>Index.</i>  The
+attachments were not produced, nor were statements lodged.<br><br>
+(h)	On 30 October 2012, the respondent advised the Tribunal that it was
+satisfied the applicant had complied with the directions
+of 4 October 2012
+except for the filing of statements from him and his witness CK.  It was
+understood the applicant did intend to
+lodge those documents and the respondent
+indicated its preparedness to extend the time for compliance until 9 November
+2012.   <br><br>
+(i)	Directions were issued on 2 November 2012 allowing the applicant to file the
+witness statement of CK on or before 9 November
+2012.  <br><br>
+(j)	On 22 November 2012 a directions hearing was convened because the applicant
+did not lodge the statements.  He was allowed a further
+extension to lodge this
+material and directed to do so on or before 30 November 2012.  He was advised in
+the directions hearing that
+if he failed to provide the material by 30 November
+2012, he risked having his applications dismissed.  <br><br>
+(k)	The directions issued on 2 and 22 November 2012 and sent to him, each had a
+note appended that failing to comply could result
+in dismissal pursuant to
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)</a> of the Act.<br><br>
+(l)	On 30 November 2012, the applicant provided 13 bundles of photocopied
+documents, occupying 2 large boxes, which appear to be
+material arising out of
+proceedings before the Supreme Court of Victoria being affidavits (with
+exhibits), counsel&#8217;s submissions,
+transcripts of those proceedings and
+other material of a financial character.  Statements from CK and the applicant,
+as directed,
+were not lodged.<br><br>
+(m)	On Friday 7 December 2012, during a telephone conversation with an officer
+of the Tribunal, the applicant assured the officer
+<i>that the statement will be
+in on Monday</i> (10 December 2012) (Tribunal file note at folio 73). <br><br>
+(n)	On 11 December 2012 the applicant had not filed the material as directed. 
+The Tribunal listed the applications for an <i>Interlocutory hearing &#8211;
+Dismissal application</i> on 17 December 2012.  The notice of that hearing was
+posted and emailed to the applicant (and the respondent&#8217;s solicitors)
+on
+11 December 2012.<br><br>
+(o)	On Thursday, 13 December at 5.21pm and on Friday 14 December 2012 at 2pm,
+the applicant lodged, at the office of the respondent&#8217;s
+solicitors and the
+Tribunal respectively, witness statements of himself and CK.  Neither of the
+statements were signed or dated.
+ They are in typed in 16 point Arial font and
+entirely in capital letters.  In the applicant&#8217;s statement<i>,</i> he made
+significant allegations about the respondent&#8217;s conduct in the Supreme
+Court proceedings and describes the respondent&#8217;s
+assessment (of undeclared
+income) as <i>flawed</i>.  The statement of CK, which appears to have been
+prepared by the applicant (or the person who prepared both statements) records
+that CK <i>will provide documentation supporting the various transactions which
+relate to his investments in Australia.  </i>It<i> </i>does not contain details
+about his proposed evidence, save that each paragraph commences with the words
+<i>C will confirm...</i>  The last 3 paragraphs commence with the words <i>C
+will be able to prove </i>or<i> C will be able to satisfy the Tribunal....</i>
+<br><br>
+(p)	The respondent was not satisfied that either document constituted a
+statement of the evidence of the applicant or a witness and
+requested that the
+interlocutory hearing scheduled for 17 December 2012 proceed.  It did proceed
+and on that occasion, submissions
+were made by the applicant personally and Ms
+Curnow on behalf of the respondent.</blockquote><p class="h2">
+Submissions</p>
+<ol>
+<li style='' value='7' value="7"><a name="Heading82"></a>The
+applicant argued that his applications should not be dismissed because he had
+lodged witness statements as he was directed.  He
+acknowledged the respondent
+would contend that the proposed evidence was <i>incomplete</i>, and it was a
+matter for the presiding member at a hearing to decide <i>if not enough
+information has been provided.</i></li>
+<li style='' value='8' value="8">The
+applicant said that CK is a relative who lives in Greece and has all the
+documents in support of the allegations that he made
+in his statement.  He said
+he went <i>to great lengths</i> to obtain a statement from him.  He said the
+only way to obtain and lodge those documents would be either to travel to Greece
+(which
+he said he could not afford) and bring them back or wait until CK comes
+to Australia immediately before he gives his evidence at
+the hearing and then
+lodge them.  He acknowledged that the presiding member might <i>reject</i> the
+documents because they had not previously been provided. </li>
+<li style='' value='9' value="9">In
+response to some questions from me, the applicant dismissed the possibility of
+obtaining documents electronically or through facsimile
+or at least having CK
+sign his statement.  He said CK is a fisherman, who speaks limited English and
+lives in a village. He said
+he would have to travel to the house of his father,
+a 2 or 3 hour drive, to have the statement returned by fax.</li>
+<li style='' value='10' value="10">He
+said the respondent contended that relevant transactions were made by him, not
+CK, who the respondent also contended, did not exist.
+ He said CK would give
+evidence that he did make relevant transactions and <i>that is all he </i>(CK)
+<i>can say.  </i>He said<i> if the Tribunal member is not happy, he can dismiss
+it and if it is doomed to fail they [the respondent] shouldn&#8217;t worry.</i> 
+If the respondent alleged at a hearing that it is <i>ambushed</i> by documents
+it had not seen <i>and the Tribunal refuses to consider</i> (them)
+<i>that&#8217;s fine.</i> </li>
+<li style='' value='11' value="11">The
+applicant submitted that this matter started 18 months ago after the respondent
+had undertaken a covert assessment and obtained
+freezing orders.  He said the
+respondent&#8217;s actions had made it difficult for him to continue trading and
+by freezing his accounts,
+he has not had the financial means to engage legal
+representation.</li>
+<li style='' value='12' value="12">Ms
+Curnow on behalf of the respondent relied on the Federal Court decision in
+<i>Guse v Comcare</i> <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/1997/140.html" title="View Case" class="autolink_findcases_inserted">[1997] FCA 140</a>;  <a href="/cgi-bin/LawCite?cit=%281997%29%2049%20ALD%20288" title="View LawCiteRecord" class="autolink_findcases">(1997) 49 ALD 288</a> where at 291, Burchett J decided that in
+an application pursuant to <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)(b)</a> of the Act, consideration should be given
+to whether a <i>reasonable time</i> had elapsed since commencement of an
+application; whether the <i>proper remedy</i> <i>is dismissal; </i>whether a
+proceeding should be adjourned or whether another order should be made to secure
+compliance<i>.</i>  She submitted that the applicant had been given considerable
+indulgence by the Tribunal and the applications should be dismissed.</li>
+<li style='' value='13' value="13">Ms
+Curnow pointed to the statement of CK and submitted it did not comply with the
+previous directions and was not acceptable because
+it is unsigned; it is
+recorded in the third person; it records that further documents will be provided
+(but does not record when);
+it does not indicate what those documents will
+reveal or their connection with this review and it alleges a number of the
+respondent&#8217;s
+contentions are false and will be disproved but without
+giving any particulars.  The statement also refers to a power of attorney
+which
+has never been produced or seen by the respondent.  </li>
+<li style='' value='14' value="14">Ms
+Curnow submitted that the documents lodged by the applicant and on behalf of CK
+are not <i>statements</i> of their evidence, as they were directed, but are
+broad allegations and proposals of the case they will reveal at the hearing. 
+She
+submitted that the applications should be dismissed under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)</a> of the
+Act because the applicant has failed to proceed with the applications and to
+comply with the Tribunal&#8217;s directions.</li></ol><p class="h1"><b>
+REASONS FOR DECISION</b></p>
+<ol>
+<li style='' value='15' value="15"><a name="Heading91"></a>The
+Tribunal <i>must pursue the objective</i> of a review process which will ensure
+that applications proceed in a manner that is <i>fair, just, economical,
+informal and quick</i> <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s2a.html" class="autolink_findacts">(s 2A</a> of the Act).  Those aspirations will avoid
+unnecessary delay and cost.  The case management strategy of the Tribunal also
+aims to
+fulfil these objectives by directing parties to exchange information
+during the prehearing process so that each understands the case
+that the other
+will advance and have an adequate opportunity to investigate and prepare for it.
+</li>
+<li style='' value='16' value="16">The
+Tribunal must also ensure that parties are afforded procedural fairness.  Where
+necessary, the Tribunal will allow applications
+to extend time to comply with
+directions or defer listing an application if there is a reasonable basis to do,
+having also considered
+the rights of the other party.  All of those issues were
+to the forefront of my decision when oral reasons were delivered on 17 December
+2012.</li>
+<li style='' value='17' value="17">The
+frustration of the respondent in responding to these applications was evident by
+the submission concerning the number of occasions
+the applications had been
+listed for directions and the applicant being on notice of his obligations. 
+Specifically, between 29 June
+and 17 December 2012:<ul class="ul-none">
+<li style=''">(a)	the
+Tribunal convened on 6 occasions and directed the applicant to lodge witness
+statements and other material upon which he intended
+to rely;</li>
+<li style=''">(b)	on 3
+occasions, the directions issued had a notice appended which warned of the
+consequences pursuant to <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s42A(5)(b)</a> of failing to comply; and</li>
+<li style=''">(c)	on 2
+occasions a listing notice recorded that the listing was a <i>Directions
+Hearing-non-compliance</i> and on 1 occasion was an <i>Interlocutory
+hearing-dismissal application</i>.  </li></ul></li>
+<li style='' value='18' value="18">I
+acknowledge that the applicant was, for a considerable period, not represented
+by lawyers who would have had the professional experience
+to prepare witness
+statements, lodge other materials and be aware of the consequences of failing to
+comply with Tribunal directions.
+ It would also appear that the applicant did
+not instruct other lawyers to act for him.  </li>
+<li style='' value='19' value="19">The
+directions that were issued were in very clear and unambiguous terms.  No
+adequate explanation was given by the applicant on 17
+December 2012 for his
+failure to provide a witness statement from him or from CK or other documents he
+intended to rely upon at the
+hearing as he was directed, on 5 previous
+occasions, over a period of 5 months.  I dismissed the reasons given for the
+failure of
+CK to have lodged a statement and to lodge his documents in
+support.</li>
+<li style='' value='20' value="20">As
+recorded above, the Tribunal will respond to applications for an extension of
+time to comply with directions if reasonably based
+and if it is procedurally
+fair to all parties to do so.  There comes a time however, where the repeated
+listing of applications will
+cause the scales to tip in favour of dismissal,
+when there has been continuing failure by an applicant to comply with
+directions,
+without any adequate explanation or reason. </li>
+<li style='' value='21' value="21">I
+would think that it is rare in the experience of this Tribunal for directions to
+be issued on 5 occasions in favour of an applicant
+ Particularly noteworthy in
+this case is that  on the third occasion that the matter was listed specifically
+to consider dismissal
+and the applicant was aware of that possibility, he
+continued to be non-compliant.  Even if the documents lodged by the applicant
+on
+the 13th and 14th of December constituted <i>statements &#8211; </i>and I think
+there is a substantial argument against such a finding &#8211; there was
+continuing failure to lodge documents in support
+of the applications.  There can
+be no misunderstanding about that omission.  The so-called statements
+specifically recorded that
+documents will be lodged at a later time.  He made
+similar submissions on 17 December 2012.  Such a cavalier attitude does the
+applicant
+no credit and gave me no confidence that any further extension of a
+period for compliance would achieve that objective.  </li>
+<li style='' value='22' value="22">Exercising
+the discretion under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)</a> of the Act will determine whether an application
+is dismissed without proceeding to review.  Implicit in the exercise of that
+discretion
+is the obligation to ensure that the duty of procedural fairness has
+been owed to an applicant, the other party and to t<i>he integrity of the
+institution of</i> <i>administration or review</i> (<i>Colpitts v Australian
+Telecommunications Commission and Others</i>  <a href="/cgi-bin/LawCite?cit=%281986%29%2070%20ALR%20554" title="View LawCiteRecord" class="autolink_findcases">(1986) 70 ALR 554</a> at 573).  </li>
+<li style='' value='23' value="23">On
+17 December 2012 I was satisfied that more than an adequate opportunity had been
+given to the applicant to comply with directions
+and advance his applications. 
+I was also satisfied that he understood what he was directed to do by the
+directions and the consequences
+he faced by failing to comply.  </li>
+<li style='' value='24' value="24">The
+interests of the respondent are to be considered in an application of this type.
+It is entitled to know the case that it has to
+meet.  It will achieve that
+objective when an applicant has complied with directions.  Until there is
+compliance, the respondent
+will suffer the consequences of delay and
+unnecessarily incur costs.  </li>
+<li style='' value='25' value="25">The
+institution of administrative review will be offended if there is no sanction
+imposed against a party who consistently fails to
+meet obligations as directed. 
+Administrative review is not confined only to the opportunity of a citizen to
+challenge a decision
+of government or one of its agencies.  It is concerned also
+with government or its agencies responding to those challenges either
+by
+defending, explaining or conceding its decision.  Those outcomes can only be
+achieved when the nature of the challenge and the
+evidence and other materials
+in support are known.  </li>
+<li style='' value='26' value="26">The
+provisions in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)</a> of the Act are a clear indication by Parliament that the
+Tribunal is obliged to conduct and administer applications efficiently.
+ The
+power to dismiss in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)</a> is discretionary and can be exercised in a manner
+favourable to an applicant if they provide a satisfactory explanation for their
+delay or non-compliance.  Having regard to the history of the applications, the
+applicant&#8217;s continued noncompliance and the
+absence of satisfactory
+explanations for his delay, I was not satisfied that the discretion should be
+exercised in his favour. </li>
+<li style='' value='27' value="27">If
+not evident from the above, the discretionary criteria decided by Burchett J in
+<i>Guse </i>(refer paragraph 12 earlier) is satisfied.  More than a reasonable
+time had been given to the applicant to comply with directions
+and the proper
+remedy was dismissal.  I could not have any confidence that adjourning the
+application and issuing another direction
+to secure compliance would have
+achieved that objective.</li>
+<li style='' value='28' value="28">I
+am mindful of the consequences of dismissing an application and perhaps if the
+applicant attended the interlocutory hearing on 17
+December 2012 with the
+relevant material, the outcome may have been different.  However, that was not
+the case despite numerous warnings
+about the consequences of non-compliance.  In
+the circumstances, it would not have been appropriate to issue further
+directions and
+in the absence of a satisfactory explanation, I dismissed the
+applications for review in accordance with <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">s 42A(5)(b)</a> of the
+Act.</li></ol><div style="position:relative; left: 0"><table>
+<tr valign="top">
+<td width="242" valign="top">
+<div>I certify that the preceding 28 (twenty -eight) paragraphs are a true copy
+of the reasons for the decision herein of Mr John Handley,
+Senior Member </div>
+</td>
+</tr>
+</table></div>
+<p><a name="StartStamp"></a><a name="NumParas"></a>..............................[sgd]..........................................<br><br>Associate</p>
+<p>Dated 22 February 2013</p>
+<div style="position:relative; left: -5"><table>
+<tr valign="top">
+<td width="233" valign="top">
+<div>Date(s) of hearing</div>
+</td>
+<td width="350" valign="top">
+<div><b>17 December 2012</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="233" valign="top">
+<div><a name="DateFinalSubmission"></a><a name="AppSelfRepresented"></a>Applicant</div>
+</td>
+<td width="350" valign="top">
+<div><b>In person</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="233" valign="top">
+<div><a name="Respondent_Advocate"></a>Advocate for the Respondent</div>
+</td>
+<td width="350" valign="top">
+<div><b>Ms R. Curnow</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="233" valign="top">
+<div><a name="Respondent_Solicitors"></a>Solicitors for the Respondent</div>
+</td>
+<td width="350" valign="top">
+<div><b>Australian Government Solicitor</b></div>
+</td>
+</tr>
+</table></div>
+<p></p>
+
+
+
+<!--sino noindex-->
+      </article>
+    </div> <!-- page-main -->
+
+
+<!-- Document Sidebar -->
+    <div id="page-side">
+
+
+
+<!-- insert search-context.tx here when searching -->
+
+
+      <div class="side-element side-print">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M15.6 19.6h-10c-.6-.2-1-.6-1-1.3v-3.5H2.2c-.7 0-1.2-.5-1.2-1.2V5.3C1 4.5 1.5 4 2.2 4H4.6V1.6c0-.6.3-1 .9-1.2h10.2c.6.2.9.6.9 1.3V4H19c.5 0 .9.3 1.1.8 0 .1 0 .1.1.2v8.9c-.2.6-.6.9-1.3.9H16.6v3.6c0 .5-.4 1-.9 1.2h-.1zm3.4-6V5.2H2.2v8.4h2.4v-1.2H4c-.3 0-.5-.1-.5-.4-.2-.4.1-.8.6-.8h13.1c.4 0 .6.3.6.6s-.3.6-.6.6h-.6v1.2H19zm-3.6-1.2H5.8v6h9.6v-6zm0-10.8H5.8V4h9.6V1.6zM15.4 8.2c0-.3.3-.6.6-.6s.6.3.6.6-.3.6-.6.6-.6-.3-.6-.6zM10.6 13.6h3c.3 0 .6.2.6.5s-.2.6-.5.7H7.6c-.4 0-.7-.3-.7-.6s.3-.6.7-.6h3zM10.6 17.2H7.7c-.4 0-.7-.2-.7-.6 0-.3.3-.6.7-.6h5.9c.4 0 .7.2.7.6 0 .4-.3.6-.7.6h-3z"></path>
+        </g></svg>
+        <h4>Print</h4>
+        <ul>
+          <li> <a class="print-special" href="javascript:void(0);">Print (pretty)</a> </li>
+          <li> <a class="print-minimal" href="javascript:void(0);">Print (eco-friendly)</a> </li>
+        </ul>
+      </div> <!-- side-print -->
+
+
+      <div class="side-element side-download">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M12.5.9c1.3.5 1.7 1.5 1.7 2.9-.1 1.6 0 3.3 0 5h3.1c0 .1.1.1.1.2-.2.3-.3.5-.6.8l-5.3 5.3c-.7.6-1 .7-1.6.1-1.9-1.9-3.7-3.7-5.6-5.5-.1-.2-.3-.4-.6-.8H7c0-.4 0-.7.1-.9V3.8C7 2.4 7.4 1.4 8.7.9h3.8zM1.4 14.5h1.4v2.4c0 .9.2 1.1 1 1.1h13.5c.9 0 1-.2 1.1-1.1v-2.4h1.4v3.2c-.3.9-.9 1.4-1.7 1.7h-15c-.9-.3-1.4-.9-1.7-1.7v-3.2z"></path>
+        </g></svg>
+        <h4>Download</h4>
+        <ul>
+          <li> <a href="/au/cases/cth/AATA/2012/938.rtf">RTF format (352 KB)</a> </li>
+        </ul>
+        <ul>
+          <li> <a href="/cgi-bin/sign.cgi/au/cases/cth/AATA/2012/938">Signed PDF/A format</a> </li>
+        </ul>
+      </div> <!-- side-download -->
+
+      <div class="side-element side-cited-by">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M10.2 16.6c-.9-.2-1.8-.3-2.7-.5-1.5-.4-2.9-1.1-4-2.3-3-3-2.9-7.4.4-10.1C6.2 1.7 9 1.1 12 1.4c1.7.2 3.2.8 4.6 1.8 3.1 2.3 4 5.6 2.5 9.2-.8 2-2.3 3.4-4 4.6-2.3 1.5-4.8 2.2-7.4 2.5h-.2c-.1-.1-.2-.1-.4-.2 0-.1 0-.3.2-.3.7-.4 1.4-.7 2-1.1.4-.3.7-.8.9-1.3z"></path></svg>
+        <h4>Cited By</h4>
+        <ul>
+          <li> <a href="/cgi-bin/LawCite?cit=[2012] AATA 938"> LawCite records</a> </li>
+          <li> <a href="/cgi-bin/sinosrch.cgi?method=boolean&query=2012 AATA 938 or AATA 2012 938"> NoteUp references</a> </li>
+          <!-- li> <a href=""> NoteUp references</a> </li -->
+        </ul>
+      </div> <!-- cited-by -->
+
+
+
+
+
+
+
+      <div class="side-element side-social">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M20.7 3.7c-.7.3-1.5.5-2.4.6.9-.5 1.5-1.3 1.9-2.3-.8.5-1.7.8-2.7 1-.8-.8-1.9-1.3-3.1-1.3-2.3 0-4.2 1.9-4.2 4.2 0 .3 0 .6.1 1C6.9 6.7 3.8 5 1.7 2.5c-.4.6-.6 1.3-.6 2.1 0 1.4.8 2.7 1.9 3.5-.7-.1-1.3-.3-1.9-.6v.1c0 2 1.4 3.7 3.4 4.1-.4.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.7 2.1 2.9 3.9 2.9-1.4 1.1-3.2 1.8-5.2 1.8-.3 0-.7 0-1-.1 1.9 1.2 4.1 1.9 6.4 1.9 7.7 0 11.9-6.4 11.9-11.9v-.5c.8-.6 1.6-1.3 2.1-2.1z"></path></svg>
+        <h4>Join the discussion</h4>
+        <ul>
+          <li> <a href="https://twitter.com/intent/tweet?text=%E2Confidential and Commissioner of Taxation [2012] AATA 938 (17 December 2012)%E2%80%9D&amp;url=http://www.austlii.edu.au/au/cases/cth/AATA/2012/938.html&amp;via=austlii&amp;hashtags=austlii" target="_blank">Tweet this page</a> </li>
+          <li> <a href="https://twitter.com/intent/user?screen_name=AustLII" target="_blank">Follow @AustLII on Twitter</a> </li>
+<!--
+          <li> <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=austlii" target="_blank">Recent tweets about AustLII</a> </li>
+-->
+        </ul>
+      </div>
+
+
+    </div> <!-- page-side -->
+
+
+
+    <footer class="closing">
+      <div class="inner">
+        <!--<ul class="closing-primary">
+      <li><a href="database-all.html">All Databases</a></li>
+      <li><a href="database-cases.html">Cases &amp; Legislation</a></li>
+      <li><a href="database-journals.html">Journals &amp; Scholarships</a></li>
+      <li><a href="database-treaties.html">Treaties</a></li>
+      <li><a href="database-libraries.html">Libraries</a></li>
+      <li><a href="#">LawCite</a></li>
+    </ul>-->
+        <ul class="closing-tertiary">
+          <li> <a href="/austlii/">About</a> </li>
+          <li> <a href="/austlii/copyright.html">Copyright &amp; Usage</a> </li>
+          <li> <a href="/austlii/privacy.html">Privacy</a> </li>
+          <li> <a href="/austlii/disclaimers.html">Disclaimers</a> </li>
+          <li> <a href="/austlii/help/">Help</a> </li>
+        </ul><small>http://www.austlii.edu.au/au/cases/cth/AATA/2012/938.html</small>
+      </div>
+    </footer>
+
+  </div> <!-- page-content -->
+
+  <script src="/js/production.min.js">
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a21bbd0a89dd86c7',t:'MTc4NTE1NjI5Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"f74b553413eb4a50949f5730dcd56219"}' crossorigin="anonymous"></script>
+</body>
+</html>

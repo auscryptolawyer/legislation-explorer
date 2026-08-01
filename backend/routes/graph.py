@@ -114,6 +114,89 @@ def _raw_text_filename(citation: str) -> str:
 # ── resolve functions ────────────────────────────────────────────────────────
 
 
+def _has_similarity_index(conn: sqlite3.Connection) -> bool:
+    """Check if similarity_index table exists."""
+    row = conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='similarity_index'"
+    ).fetchone()
+    return row is not None
+
+
+def _add_similarity_edges(conn: sqlite3.Connection, embedding_id: int,
+                          node_id: str, nodes: dict, edges: list,
+                          max_nodes: int = 20):
+    """Add similarity-based edges from the k-NN index. Falls back silently if index missing."""
+    if not _has_similarity_index(conn):
+        return
+    sim_rows = conn.execute(
+        "SELECT si.neighbor_id, si.similarity, e.source_type, e.act, e.section, e.section_title "
+        "FROM similarity_index si "
+        "JOIN embeddings e ON e.id = si.neighbor_id "
+        "WHERE si.embedding_id = ? "
+        "ORDER BY si.similarity DESC "
+        "LIMIT ?",
+        (embedding_id, max_nodes),
+    ).fetchall()
+    for sr in sim_rows:
+        stype = sr["source_type"]
+        sact = sr["act"]
+        ssec = sr["section"]
+        stitle = sr["section_title"] or ""
+        sim = sr["similarity"]
+
+        if stype == "section":
+            tid = f"section:{sact}:{ssec}"
+            if tid not in nodes:
+                nodes[tid] = {
+                    "id": tid,
+                    "label": f"{sact}/{ssec} — {stitle}" if stitle else f"{sact}/{ssec}",
+                    "short_label": ssec,
+                    "group": "section",
+                    "url": _section_url(sact, ssec),
+                }
+        elif stype == "ruling":
+            tid = f"ruling:{ssec}"
+            if tid not in nodes:
+                nodes[tid] = {
+                    "id": tid,
+                    "label": f"{ssec} — {stitle}" if stitle else ssec,
+                    "short_label": ssec,
+                    "group": "ruling",
+                    "url": _ruling_url(ssec),
+                }
+        elif stype == "case":
+            tid = f"case:{ssec}"
+            if tid not in nodes:
+                nodes[tid] = {
+                    "id": tid,
+                    "label": f"{ssec} — {stitle}" if stitle else ssec,
+                    "short_label": ssec,
+                    "group": "case",
+                    "url": _case_url(ssec),
+                }
+        elif stype == "commentary":
+            tid = f"commentary:{sact}:{ssec}"
+            if tid not in nodes:
+                nodes[tid] = {
+                    "id": tid,
+                    "label": f"{sact} ¶{ssec} — {stitle}" if stitle else f"{sact} ¶{ssec}",
+                    "short_label": f"¶{ssec}",
+                    "group": "commentary",
+                    "url": "",
+                }
+        else:
+            continue
+
+        edges.append({
+            "source": node_id,
+            "target": tid,
+            "label": f"{sim:.0%}",
+            "weight": sim,
+            "type": "similarity",
+        })
+    return
+
+
 def _resolve_section(act: str, section: str) -> dict:
     """Query cross_references for a section via its embedding_id."""
     conn = sqlite3.connect(str(EMBEDDINGS_DB))
@@ -146,11 +229,15 @@ def _resolve_section(act: str, section: str) -> dict:
 
         # Fetch all cross-references for these embedding_ids
         placeholders = ",".join("?" for _ in embedding_ids)
-        refs = conn.execute(
-            f"SELECT ref_type, ref_text, ref_target FROM cross_references "
-            f"WHERE embedding_id IN ({placeholders})",
-            embedding_ids,
-        ).fetchall()
+        try:
+            refs = conn.execute(
+                f"SELECT ref_type, ref_text, ref_target FROM cross_references "
+                f"WHERE embedding_id IN ({placeholders})",
+                embedding_ids,
+            ).fetchall()
+        except sqlite3.OperationalError:
+            # cross_references table may not exist (new embedding pipeline)
+            refs = []
 
         for ref in refs:
             ref_type = ref["ref_type"]
@@ -302,6 +389,10 @@ def _resolve_section(act: str, section: str) -> dict:
                         })
                         break
 
+        # Add similarity-based edges from k-NN index
+        for emb_id in embedding_ids:
+            _add_similarity_edges(conn, emb_id, node_id, nodes, edges)
+
         return {"nodes": list(nodes.values()), "edges": edges}
     finally:
         conn.close()
@@ -309,14 +400,18 @@ def _resolve_section(act: str, section: str) -> dict:
 
 def _resolve_ruling(citation: str) -> dict:
     """Build graph for a ruling by finding referenced sections & cases."""
-    # Normalise citation
-    norm = citation.replace("_", " ").upper().strip()
+    # Normalise citation — strip spaces, underscores, slashes for index lookup
+    def _norm(s):
+        return s.replace(" ", "").replace("_", "").replace("/", "").upper()
+
+    norm_slashed = citation.replace("_", " ").upper().strip()
+    norm_key = _norm(norm_slashed)
     rulings = _load_rulings_index()
-    info = rulings.get(norm.replace(" ", ""))
+    info = rulings.get(norm_key)
     if not info:
         # Try matching
         for k, v in rulings.items():
-            if norm.replace(" ", "") in k or norm.replace(" ", "") == k.replace(" ", ""):
+            if norm_key in k or norm_key == _norm(k):
                 info = v
                 break
     if not info:
@@ -370,7 +465,7 @@ def _resolve_ruling(citation: str) -> dict:
             refs = c.get("section_refs", [])
             if isinstance(refs, list):
                 for r in refs:
-                    if isinstance(r, dict) and r.get("section", "").replace("_", " ").upper() == norm.replace(" ", ""):
+                    if isinstance(r, dict) and r.get("section", "").replace("_", " ").upper() == norm_slashed.replace(" ", ""):
                         cid = f"case:{cit}"
                         if cid not in nodes:
                             label = c.get("title") or cit
@@ -383,6 +478,17 @@ def _resolve_ruling(citation: str) -> dict:
                             }
                         edges.append({"source": rid, "target": cid, "label": "cited by"})
                         break
+
+        # Add similarity edges from k-NN index
+        # Normalise display to match embedding DB format (underscores → spaces/slashes)
+        # Pattern: TR_2025_1 → TR 2025/1
+        db_section = _re.sub(r"^(\w+)_(\d+)_(\d+)$", r"\1 \2/\3", display)
+        emb_row = conn.execute(
+            "SELECT id FROM embeddings WHERE source_type='ruling' AND section=? LIMIT 1",
+            (db_section,),
+        ).fetchone()
+        if emb_row:
+            _add_similarity_edges(conn, emb_row["id"], rid, nodes, edges)
     finally:
         conn.close()
 
@@ -462,6 +568,14 @@ def _resolve_case(citation: str) -> dict:
                             }
                         edges.append({"source": cid, "target": rid, "label": "referenced by"})
                         break
+
+        # Add similarity edges from k-NN index
+        emb_row = conn.execute(
+            "SELECT id FROM embeddings WHERE source_type='case' AND section=? LIMIT 1",
+            (norm,),
+        ).fetchone()
+        if emb_row:
+            _add_similarity_edges(conn, emb_row["id"], cid, nodes, edges)
     finally:
         conn.close()
 

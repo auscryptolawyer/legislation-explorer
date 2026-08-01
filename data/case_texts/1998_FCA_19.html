@@ -1,0 +1,964 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="en">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Solaris version 5.1.24" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>Hank B. Schokker v Commissioner of Taxation, Commonwealth of Australia (includes corrigenda of 2 February 1998) [1998] FCA 19 (23 January 1998)</title>
+  <link media="screen" rel="stylesheet" href="/css/screen1.css" />
+  <link media="print" rel="stylesheet" href="/css/print.css" />
+  <meta name="theme-color" content="#ee3224" />
+  <meta name="description" content="Australasian Legal Information Institute (AustLII) - Hosted by University of Technology Sydney Faculty of Law" />
+  <link rel="icon" sizes="192x192" href="/images/icon-192.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/icon-shortcut.png" />
+  <meta name="msapplication-TileColor" content="#ee3224" />
+  <meta name="msapplication-TileImage" content="/images/icon/ms.png" />
+  <script src="/js/modernizr.min.js">
+  </script>
+</head>
+<body class=" cases  document ">
+  <header id="page-header">
+    <div id="primary">
+      <a id="page-logo" href="/" tabindex="1"><img src="/images/logo.svg" alt="AustLII"><span class="title-main">AustLII</span></a> <a class="go-search" href="#">Search</a>
+      <h1 id="page-title"><span>Federal Court of Australia</span></h1>
+    </div>
+
+
+<!-- Search box
+
+The search box at the top of most pages. Always visible unless the
+'search' variable is set to false, for pages where we don't want
+that box along the top, such as on Advanced Search & LawCite.
+
+'Results' is a class added to database pages, which exposes the ability
+to search just by that database.
+
+'Searchable' is a page variable which indicates the page has checkboxes
+on it - the search box has a radio button for selecting we only search
+the checked areas.
+
+'Extra search' is for those rare extra options found in pages like the
+Aviation Law Association library database.
+-->
+    <form action="/cgi-bin/sinosrch.cgi">
+<input type="hidden" name="meta" value="">
+      <div id="page-search">
+        <h2 class="hide">Search AustLII</h2>
+        <div class="search-box">
+          <a class="search-dropdown" href="javascript:void(0);">&#9660;</a>
+          <fieldset>
+            <legend>Search Options</legend>
+            <ul class="search-options">
+              <li><label for="database-all">All databases <input type="radio" name="mask_path" value="" id="database-all" tabindex="2" 
+/></label></li>
+              <li><label for="database-this">This database only <input type="radio" name="mask_path" value="au/cases/cth/FCA" id="database-this" tabindex="3" 
+checked="checked" 
+/></label></li>
+              <li><label for="database-full">Full text <input type="radio" name="method" value="auto" id="database-full" method="auto" checked="checked" tabindex="6" /></label></li>
+              <li><label for="database-title">Titles only <input type="radio" name="method" value="title" id="database-title" tabindex="7" /></label></li>
+              <li class="advanced-search">
+                <a href="/advanced_search.shtml" tabindex="8">Advanced Search&hellip;</a>
+              </li>
+            </ul>
+          </fieldset><label for="search-box" class="hide">Search term:</label> <input id="search-box" type="text" name="query" 
+  placeholder="Search this database only" 
+  tabindex="9" /><a href="javascript:void(0);" class="search-box-clear hide">&times;</a> <input type="submit" value="Search" tabindex="9" />
+        </div><a class="go-primary" href="#">Close</a>
+      </div>
+    </form>
+
+
+    <ul id="page-tertiary">
+      <li> <a href="/about.html">About</a> </li>
+      <li> <a href="/contact.html">Contact</a> </li>
+      <li> <a href="/copyright.html">Copyright &amp; Usage</a> </li>
+      <li> <a href="/privacy.html">Privacy</a> </li>
+      <li> <a href="/disclaimers.html">Disclaimers</a> </li>
+      <li> <a href="/feedback.html">Feedback</a> </li>
+      <li> <a href="/help.html">Help</a> </li>
+    </ul>
+  </header>
+
+
+<!-- Ribbons
+
+These are the red bars along the top of each page.
+
+Ribbon is a variable set on most pages; it defaults to an expanded view,
+and can be simplified using variables 'intro' (for home) and 'basic' (for
+search, about pages, etc.)
+-->
+  <nav id="ribbon">
+    <div class="inner">
+      <ul>
+        <li class="ribbon-type"> <a href="#" tabindex="10">Type <span>Cases</span></a> </li>
+        <li class="ribbon-jurisdiction"> <a href="#" tabindex="12">Jurisdiction <span>Commonwealth</span></a> </li>
+        <li class="ribbon-database"> <a href="../" tabindex="13">Database <span>Federal Court of Australia</span></a> </li>
+        <li class="ribbon-year "> <a href="./" tabindex="14">Year <span>1998</span></a> </li>
+        <li class="ribbon-citation"><a href="#" tabindex="16">Citation <span>[1998] FCA 19</span></a></li>
+      </ul>
+    </div>
+  </nav> <!-- ribbon -->
+
+
+<!-- Panels
+
+The Panel defaults to 'year' view, which is what the database pages all have,
+it's what search results have, etc.
+
+The selections within if statements below are to visualize the 'is-selected'
+class across the various mock pages in the prototype.
+
+When implementing this, pull out the if statements and simply apply 'is-selected'
+when it's appropriate to that particular page.
+
+The options for the panel include:
+* none: the panel doesn't render
+* closed: the panel is present, but closed, adds 'is-closed' class
+* jurisdiction: jurisdiction is open at page load, adds 'is-jurisdiction' class
+* letter: 'starts with' is open at page load, adds 'is-letter' class
+-->
+  <div id="panels" class="is-closed">
+    <div class="inner">
+      <div id="panel-type">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>All Databases</h5> <p></p></a> </li>
+          <li class="panel-type-all is-selected"> <a href="/databases.html"> <h5>Cases &amp; Legislation</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/journals/"> <h5>Journals &amp; Scholarship</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/lawreform/"> <h5>Law Reform</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/treaties/"> <h5>Treaties</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/database-libraries.html"> <h5>Libraries</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="http://austlii.community/wiki/"> <h5>Communities</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/lawcite/"> <h5>LawCite</h5> <p></p></a> </li>
+        </ul>
+      </div>
+      <div id="panel-jurisdiction">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>Australia</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/cth/"> <h5>CTH</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/act/"> <h5>ACT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nsw/"> <h5>NSW</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nt/"> <h5>NT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/qld/"> <h5>QLD</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/sa/"> <h5>SA</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/tas/"> <h5>TAS</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/vic/"> <h5>VIC</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/wa/"> <h5>WA</h5></a> </li>
+          <li class="panel-type-all"> <a href="http://www.nzlii.org/databases.html"> <h5>New Zealand</h5></a> </li>
+        </ul>
+      </div>
+      <div id="panel-year">
+        <ul>
+          <li class="panel-type-specific">
+            <div>
+              <h5>Specific Year</h5><a href="#" class="year-specific-dropdown type-specific">Any</a> <select class="type-specific">
+                <option>
+                  2015
+                </option>
+              </select>
+            </div>
+          </li>
+<!--
+          <li class="panel-type-range">
+            <div>
+              <h5>Year Range</h5><a href="#" class="year-range-dropdown-1 type-range-1">1970</a> <select class="type-range-1">
+                <option> 2015 </option>
+              </select> <a href="#" class="year-range-dropdown-2 type-range-2">2015</a> <select class="type-range-2">
+                <option> 2015 </option>
+              </select> <a href="results.html" class="button">Apply</a>
+            </div>
+          </li>
+-->
+        </ul>
+      </div>
+      <div id="panel-letter">
+        <ul>
+          <li class="panel-letter-any"> <a href="#"> <h5>Any</h5></a> </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- "Year" dropdowns
+
+These dropdowns should be generated with data as appropriate.
+The data you see here is for presentatioal purposes.
+-->
+  <div class="year-options-list">
+    <div class="year-specific-options year-options">
+      <ul>
+        <li> <h5><a href="./">Any</a></h5> </li>
+<!--
+        <li> <h5><a href="1998/">1998</a></h5> </li>
+-->
+
+      </ul>
+    </div> <!-- specific-year -->
+
+<!--
+    <div class="year-range-1-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul>
+    </div> --> <!-- year-range-1 -->
+
+<!--
+    <div class="year-range-2-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul> 
+    </div> --> <!-- year-range-2 -->
+
+  </div> <!-- panels -->
+
+
+  <div id="page-content">
+    <div id="page-main">
+      <article class="the-document">
+        <h1>Hank B. Schokker v Commissioner of Taxation, Commonwealth of Australia (includes corrigenda of 2 February 1998) [1998] FCA 19 (23 January 1998)</h1>
+<!--make_database: source=/home/philip/austlii/db/FCA/data/1998_19.html-->
+<!--sino date 23 January 1998-->
+
+ <b>GENERAL DISTRIBUTION</b>
+<p>   <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> IN THE FEDERAL COURT OF AUSTRALIA <br><br></TD> <TD colspan=1 align="left">) <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left">) <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">WESTERN AUSTRALIA DISTRICT REGISTRY <br><br></TD> <TD colspan=1 align="left">) WAG 83 of 1997 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left">) <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">GENERAL DIVISION <br><br></TD> <TD colspan=1 align="left">) <br><br></TD></TR></TABLE>
+<p> <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> BETWEEN: <br><br></TD> <TD colspan=1 align="left">HANK B SCHOKKER
+<p> Applicant <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">
+<p> AND:	 <br><br></TD> <TD colspan=1 align="left">COMMISSIONER OF TAXATION, COMMONWEALTH OF AUSTRALIA
+<p> Respondent <br><br></TD></TR></TABLE>
+<p> <b> <TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> JUDGE(S): <br><br></TD> <TD colspan=1 align="left">R D NICHOLSON J <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">DATE: <br><br></TD> <TD colspan=1 align="left">23 JANUARY 1998 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">PLACE <br><br></TD> <TD colspan=1 align="left">PERTH <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD></TR></TABLE> 
+<p> <b><center></b>CORRIGENDA
+<p> </center>
+<p> On page 15 of the reasons for judgment at line 19 replace `god' with `good'.
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> Nicholas McGlew
+<p> Associate to Justice R D Nicholson
+<p> 2 February 1998
+<p> <center><b>FEDERAL COURT OF AUSTRALIA</b>
+<p> <b></center></b>
+<p> <b>INCOME TAX</b> - allowable deductions - expenses in allegedly preserving employment conditions by contesting Commissioner's alleged breaches of
+secrecy - expenses of defending criminal charges - expense of reference book - whether Tribunal in error in not finding to be allowable
+deductions.
+<p> 
+<p> <b>INCOME TAX</b> - secrecy provisions - appeal to Administrative Appeals Tribunal - whether instruction of solicitor and briefing of barrister by
+Commissioner in breach of secrecy provisions. 
+<p>  
+<p> <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">Income Tax Assessment Act 1936</a> (Cth),</i> <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/s6.html" class="autolink_findacts">ss 6(1)</a>, 16, 16(1A), 16(2), 16(3), 16(4), 16(4)(c), <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/s263.html" class="autolink_findacts">263</a>
+<p> <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/" class="autolink_findacts">Taxation Administration Act 1953</a> (Cth)</i>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s2.html" class="autolink_findacts">ss 2</a>, 3C, 3C(1A), 3C(4), <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s14zz.html" class="autolink_findacts">14ZZ</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s14zza.html" class="autolink_findacts">14ZZA</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s15.html" class="autolink_findacts">15</a>(1)
+<p> <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ca191482/" class="autolink_findacts">Crimes Act 1914</a> (Cth),</i> s 30
+<p> <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/tlaa31991275/" class="autolink_findacts">Taxation Laws Amendment Act (No 3) 1991</a> (Cth)</i>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/tlaa31991275/s112.html" class="autolink_findacts">s 112</a>
+<p> <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act 1975</a> (Cth)</i>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s27.html" class="autolink_findacts">s27(1)</a>
+<p> <i><a href="/cgi-bin/viewdoc/au/legis/cth/num_act/tboroja1986516/" class="autolink_findacts">Taxation Boards of Review (Transfer of Jurisdiction) Act 1986</a> (Cth)</i>, <a href="/cgi-bin/viewdoc/au/legis/cth/num_act/tboroja1986516/s196.html" class="autolink_findacts">s 196</a>
+<p> <i>Public Service Act 1922 (Cth)</i>, s 5
+<p> <i>Public Service Regulations</i>
+<p>  
+<p>  
+<p> <i>Amalgamated Zinc (De Bavy's) Ltd v FCT</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1935/81.html" title="View Case" class="autolink_findcases_inserted">[1935] HCA 81</a>;  <a href="/cgi-bin/LawCite?cit=%281935%29%2054%20CLR%20295" title="View LawCiteRecord" class="autolink_findcases">(1935) 54 CLR 295</a> , referred to
+<p> <i>Burton v FCT</i> 79 ATC 4,318, referred to 
+<p> <i>Canadian Pacific Tobacco Company Ltd v Stapleton</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1952/32.html" title="View Case" class="autolink_findcases_inserted">[1952] HCA 32</a>;  <a href="/cgi-bin/LawCite?cit=%281952%29%2086%20CLR%201" title="View LawCiteRecord" class="autolink_findcases">(1952) 86 CLR 1</a>, referred to
+<p> <i>Consolidated Press Holding Ltd &amp; Ors v FCT &amp; Anor</i> 95 ATC 4,231, approved
+<p> <i>FCT v Forsyth</i> 81 ATC 4,157, referred to
+<p> <i>FCT v Hatchett</i> 71 ATC 4,184, referred to
+<p> <i>FCT v Nestle Australia Ltd</i> <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/1986/368.html" title="View Case" class="autolink_findcases_inserted">[1986] FCA 368</a>;  <a href="/cgi-bin/LawCite?cit=%281986%29%2069%20ALR%20445" title="View LawCiteRecord" class="autolink_findcases">(1986) 69 ALR 445</a>, referred to
+<p> <i>FCT v Rowe</i> 95 ATC 4,691, distinguished
+<p> <i>FCT &amp; Ors v The Australia and New Zealand Banking Group; Smorgon &amp; Ors v FCT &amp; Ors</i> 79 ATC 4,039, referred to
+<p> <i>FCT v Wiener</i> 78 ATC 4,006, referred to
+<p> <i>Inglis and Anor v FCT</i> 87 ATC 2,037, distinguished
+<p> <i>Lunney v Commissioner of Taxation;</i> <i>Hayley v Commissioner of Taxation</i> (1958) 100 CLR 478, referred to
+<p> <i>Ronpibon Tin NL and Tongkah Compound NL v FCT</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1949/15.html" title="View Case" class="autolink_findcases_inserted">[1949] HCA 15</a>;  <a href="/cgi-bin/LawCite?cit=%281949%29%2078%20CLR%2047" title="View LawCiteRecord" class="autolink_findcases">(1949) 78 CLR 47</a>, referred to
+<p> <i>Saunders v FCT</i>  <a href="/cgi-bin/LawCite?cit=88%20ATC%204%2c349" title="View LawCiteRecord" class="autolink_findcases">88 ATC 4,349</a>, referred to
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> <b>HANK B SCHOKKER v COMMISSIONER OF TAXATION, COMMONWEALTH OF AUSTRALIA</b>
+<p> <b>WAG 83 of 1997</b>
+<p>  
+<p>  
+<p> <b>R D NICHOLSON J</b>
+<p> <b>PERTH</b>
+<p> <b>23 JANUARY  1998</b>
+<p>  
+<p> GENERAL DISTRIBUTION <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> <b>I</b><b>N THE FEDERAL COURT OF AUSTRALIA</b> <br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>WESTERN AUSTRALIA DISTRICT REGISTRY</b> <br><br></TD> <TD colspan=1 align="right">WAG 83 of 1997 <br><br></TD></TR></TABLE><b><TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> BETWEEN: <br><br></TD> <TD colspan=1 align="left">HANK B SCHOKKER
+<p> Applicant <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">
+<p> <b>AND:</b> <br><br></TD> <TD colspan=1 align="left">COMMISSIONER OF TAXATION
+<p> COMMONWEALTH OF AUSTRALIA
+<p> Respondent <br><br></TD></TR></TABLE>
+<p> <b> <TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> JUDGE: <br><br></TD> <TD colspan=1 align="left">r d nicholson j <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>DATE OF ORDER:</b> <br><br></TD> <TD colspan=1 align="left">23 JANUARY 1998 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>WHERE MADE:</b> <br><br></TD> <TD colspan=1 align="left">PERTH <br><br></TD></TR></TABLE>
+<p> THE COURT ORDERS THAT:
+<p> 
+<p> 1.		The appeal be dismissed.
+<p> 	
+<p> 2.	The applicant pay the respondent's costs of the appeal.
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> 
+<p> Note:	Settlement and entry of orders is dealt with in Order 36 of the Federal Court Rules.
+<p> 
+<p> GENERAL DISTRIBUTION <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> <b>I</b><b>N THE FEDERAL COURT OF AUSTRALIA</b> <br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>WESTERN AUSTRALIA DISTRICT REGISTRY</b> <br><br></TD> <TD colspan=1 align="right">WAG 83 of 1997 <br><br></TD></TR></TABLE><b><TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> BETWEEN: <br><br></TD> <TD colspan=1 align="left">HANK B SCHOKKER
+<p> Applicant <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">
+<p> <b>AND:</b> <br><br></TD> <TD colspan=1 align="left">COMMISSIONER OF TAXATION
+<p> COMMONWEALTH OF AUSTRALIA
+<p> Respondent <br><br></TD></TR></TABLE>
+<p> <b> <TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> JUDGE: <br><br></TD> <TD colspan=1 align="left">R d Nicholson J <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>DATE:</b> <br><br></TD> <TD colspan=1 align="left">26 November 1997 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>PLACE:</b> <br><br></TD> <TD colspan=1 align="left">perth <br><br></TD></TR></TABLE>
+<p> <center><b>REASONS FOR JUDGMENT</b>
+<p> </center><b>HIS HONOUR:  </b>The applicant appeals against the decision of the Administrative Appeals Tribunal ("the Tribunal") given by its Deputy President Dr
+P Gerber on 24 July 1997 whereby the Tribunal affirmed decisions under review to the extent those decisions disallowed deductions
+for expenses to the applicant.  Following negotiations between the parties, the amounts in issue at the time the matter came before
+the Tribunal were, in respect of the income year 1995, the sum of $1,669 and, in respect of year of income 1996, the sum of $2,156.
+<p> 
+<p> The matter proceeded before the Tribunal on the basis of a statement of agreed facts, relevant portions of which read as follows:
+<p> 
+<p> <i>"1.	The Applicant is a Commonwealth Public Servant in the employ of the Australian Taxation Office ("ATO").</i>
+<p>  2.	In January 1995, the ATO's Special Audit section was informed by the State police that the Applicant was under investigation
+for fraudulent dealings.  On the 21st of March 1995, some 20 criminal charges were laid against each of the Applicant and his wife,
+alleging fraud in connection with the sale of certain art works.  ...The trial of those charges is still pending in the County Court.
+<p> 3.	In February 1996 the Applicant and his wife made application for an indefinite stay of the trials on the basis that they could
+not afford legal representation and would therefore be unable to obtain a fair trial.  The Applicant and his wife appeared in the
+County Court in March, June and July 1996 in connection with that application before it was heard between 13-17 September 1996. 
+No indefinite stay of those proceedings has been granted. Several minor charges arising from the same incidents have remained pending
+in the Magistrates Court where they are periodically adjourned.
+<p> 4.	On the 28th of March 1995 and as a result of the criminal charges against him the Applicant was suspended from his employment
+with the Australian Taxation Office.  That suspension has continued until the present.
+<p> 5.	The Applicant's suspension from his employment was suspension without pay. The Applicant successfully applied for reinstatement
+of his full pay on the grounds of financial hardship in April 1995.  Since that time the Applicant has been obliged to continue to
+demonstrate that financial hardship still exists on a periodic basis in order for his full pay to be continued.
+<p> 6.	In February 1995 the Respondent commenced an audit of the income tax returns of the Applicant, the Applicant's wife and the Applicant's
+daughter for the income tax years 1992 to 1995 inclusive.  That audit included a consideration of matters relating to the sale of
+paintings, including those sales the subject of the criminal charges against the Applicant and the Applicant's wife.
+<p> 7.	At the conclusion of the taxation audit referred to in paragraph 6 Amended Assessments for both the Applicant and the Applicant's
+wife were issued on 22 December 1995 for each of the income years 1992 to 1995 inclusive (`the Amended Assessments').
+<p> 8.	The Amended Assessments relating to the Applicant's wife were based on findings that the Applicant's wife had carried on a business
+of dealing in art works during the years covered by the Amended Assessments and the quantum of the profits from that business were
+estimated under s167 of the ITAA [sic]. The Amended Assessments in respect of the Applicant accepted the Applicant's contention that
+he had not been involved in the business of buying and selling art works during the years covered by the Amended Assessments, and
+[the Amended Assessments] related solely to his entitlement to claim a dependant spouse rebate during those years.
+<p> 9.	The Applicant and his wife respectively lodged objections to each of the respective Amended Assessments on the 24th of January
+1996.  Those objections were disallowed on the 12th of September 1996.  The Applicant and his wife respectively lodged applications
+for review of the objection decisions in respect of the Amended Assessments in the Administrative Appeals Tribunal on the 20th of
+September 1996 and those proceedings are still pending in the Tribunal.
+<p> 10.	On 21 March 1995 a personnel enquiry into the Applicant was initiated by the Australian Taxation Office.
+<p> 11.	On 14 July 1995 the Applicant was charged by the Police under the <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ca191482/" class="autolink_findacts">Crimes Act</a> (Cth) with one count of imposition in relation to a medical certificate dated 5 March 1991.  Since that time this charge has been
+regularly adjourned along with the other charges remaining in the Magistrates Court and there is no indication when it might proceed
+to a hearing.
+<p> 12.	On 13 October 1995 the Applicant lodged a complaint with the Australian Federal Police about the actions of staff of the Australian
+Taxation Office connected with the audit and the personnel enquiry, alleging breaches of the secrecy provisions of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ca191482/s16.html" class="autolink_findacts">s16</a> of the ITAA by those staff in the use of audit information and documents and misuse of the information gathering powers under the
+ITAA.
+<p> 13.	On 2 January 1996 the Applicant lodged a complaint with the Australian Taxation Office about the actions of staff connected with
+the audit and the personnel enquiry, alleging breaches of the secrecy provisions of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ca191482/s16.html" class="autolink_findacts">s16</a> of the ITAA by both staff in the use of audit information and documents and misuse of the information gathering powers under the
+ITAA.
+<p> 14.	On 7 May 1996 the Applicant filed an application in the Federal Court of Australia under the Administrative Decision (Judicial
+Review) (AD(JR)) Act seeking judicial review of the decision of the Australian Taxation Office not to act upon the Applicant's complaint
+referred to in paragraph 13.  That application for review is still before the Federal Court.
+<p> 15.	On 14 November 1996 the Applicant filed an application in the Federal Court of Australia under the AD(JR) Act seeking a review
+of the decision of the Australian Federal Police not to act upon the complaint referred to in paragraph 12.  That application for
+review is still before the Federal Court. [The respondent's attempt to seek to have that application dismissed or set aside on the
+ground that there was no `reviewable decision' identified in the application which qualified pursuant to s3(1) of the AD(JR) Act
+was dismissed].
+<p> 16.	On the 31st of October 1995 the Applicant lodged his income tax return for the income year ending 30 June 1995 (`T'3), disclosing
+a taxable income of $52,794.00, made up of salary and wage income of $53,902.00 and claimed deductions for work related expenses
+of $1,013 and for donations of $95.00.
+<p> 17.	An assessment for the 1995 income year was issued to the Applicant on 27 November 1995 on the basis of the information contained
+in his 1995 Income Tax Return which allowed all claimed deductions.  That position was not affected by the Amended Assessment for
+the 1995 income year issued on the 22nd of December 1995.
+<p> 18.	Further to the then current objection to the 1995 Amended Assessment by the Applicant, by a letter dated 26th June 1996 the Applicant
+sought to claim deductions for further work related expenses in the 1995 income year totalling $953.00.
+<p> 19.	On the 13th of August 1996 the Applicant lodged his Income Tax Return for the income year ending 30th of June 1996 (`the income
+year') disclosing a taxable income of $50,916.00 made up of salary and wage income of $54,914.00 and claimed deductions for work
+related expenses of $3,903 and for gifts and donations of $95.00.
+<p> 20.	An assessment for the income year issued to the Applicant on the 17th of September 1996 which disallowed work related deductions
+claimed by him for that year totalling $2,615.00.
+<p> 21.	By a letter to the Respondent dated 22 September 1996, the Applicant lodged objections against each of the 1995 and 1996 Assessments
+in respect of the claim for deductions of work related expenses of $953.00 in the 1995 income year and $2,615.00 in the 1996 income
+year.
+<p> 
+<p> ..."
+<p> 
+<p> The agreed statement of facts then continued by reciting which deductions had been disallowed and how it was that the amounts came
+down to those which were then in issue before the Tribunal.
+<p> 
+<p> The Tribunal described the nature of the deductions in issue as follows:
+<p> 
+<p> <i>"As I understand the claims they relate to the deductibility of three species of expenditure:  (1)  legal costs - including advice
+- incurred in defending the various criminal charges arising out of the sale of art works, said to involve the Applicant and his
+wife, charges which are unrelated to his employment (save, arguably, the claim said to involve a fraudulent use of a medical certificate,
+a charge since withdrawn).  (2) costs incurred in seeking a "Dietrich" order, that is, seeking a stay of the criminal proceedings
+on the basis that the applicant was unable to obtain Legal Aid; and (3) costs incurred in `establishing' that the Commissioner acted
+in breach of s16 of the [Income Tax Assessment Act], a quest which involved several applications to the courts in an endeavour to
+challenge decisions made by the Federal Police and the Tax Office."</i>
+<p>  
+<p> Also before the Tribunal was a supplementary statement of agreed facts to the effect that the applicant sought to include in the
+assessment for the 1995 income year a further claim for deduction of an additional expense of $100 being the cost of purchasing two
+editions of a publication, which had been disallowed.
+<p> 
+<p> It is appropriate to deal with the reasoning of the Tribunal under the headings of each of the grounds of appeal.
+<p> 
+<p> <b>Unlawful representation</b>
+<p> 
+<p> Before the Tribunal the applicant took a preliminary objection to the effect that the appearance of a legal practitioner on behalf
+of the respondent was in breach of the secrecy provisions of s 16 the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">Income Tax Assessment Act 1936</a> (Cth)</i> ("the <i>ITA Act 1991 </i>") and s 3C of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/" class="autolink_findacts">Taxation Administration Act 1953</a> (Cth)</i> ("the <i>TA Act</i>").  As the Tribunal described the argument made to it, it was in terms that counsel, not being "an officer" of the Australian Taxation
+Office ("the ATO") as defined by the <i>ITA Act</i> and the <i>TA Act, </i> had been given confidential information contrary to those express prohibitions to the contrary.
+<p> 
+<p> The Tribunal found the argument to be misconceived on two grounds.  After setting out the provisions of s 16 it was satisfied the
+respondent was empowered to retain the Australian Government Solicitor or any other practising solicitor for the purpose of proceedings
+before the Tribunal and the Australian Government Solicitor was in turn empowered to instruct counsel without contravening the section.
+ Support for that view was found by the Tribunal in <i>Consolidated Press Holding Ltd &amp; Ors v FCT &amp; Anor</i> 95 ATC 4,231 at 4,236-4,237 per Lockhart J where he said:
+<p> 
+<p> <i>"Some attention was devoted in argument to the position of AGS and counsel instructed by it to act for the Commissioner in litigation
+or in an advisory capacity.  Whatever may have been the position before the introduction of sub-s (1A) to s.16 in 1985, solicitors
+and counsel retained by the Commissioner must now be taken to be employed by the Commonwealth for the purposes of s. 16 because they
+perform services for the Commonwealth.  They are brought under the umbrella of secrecy imposed by s. 16."</i>
+<p>  
+<p> The prohibition contained in s 16 appears in subs 16(2) which reads:
+<p> 
+<p> <i>"<b>16(2)</b>.	Subject to this section, an officer shall not either directly or indirectly, except in the performance of any duty as an officer,
+and either while he is, or after he ceases to be an officer, make a record of, or divulge or communicate to any person any information
+respecting the affairs of another person acquired by the officer as mentioned in the definition of `officer' in subsection (1)."</i>
+<p>  
+<p> The definition of "officer" as it appears in s 16(1), reads:
+<p> 
+<p> <i>" <b>`officer'</b>   means a person who is or has been appointed or employed by the Commonwealth or by a State, and who by reason of that appointment
+or employment, or in the course of that employment may acquire or has acquired information respecting the affairs of any other person,
+disclosed or obtained under the provisions of this Act or of any previous law of the Commonwealth relating to income tax;"</i>
+<p>  
+<p> That is to be read in conjunction with the provisions of s 16(1A) which read:
+<p> 
+<p> <i>"<b>16(1A)</b>   For the purposes of this section, a person who, although not appointed or employed by the Commonwealth, performs services for the
+Commonwealth shall be taken to be employed by the Commonwealth."</i>
+<p>  
+<p> Disclosure to a court is specifically addressed in subs 16(3) which reads:
+<p> 
+<p> <i>"<b>16(3)</b>   An officer shall not be required to produce in Court any return, assessment or notice of assessment, or to divulge or communicate
+to any Court any matter or thing coming under his notice in the performance of his duties as an officer, except when it is necessary
+to do so for the purpose of carrying into effect the provisions of this Act or of any previous law of the Commonwealth relating to
+Income Tax."</i>
+<p>  
+<p> The prohibition in subs 16(2) is "subject to this section" and consequently also subject to the provisions of subs 16(4) which provides
+nothing in the section is deemed to prohibit the Commissioner, a Second Commissioner, or a Deputy Commissioner, or "any person thereto
+authorised by him", from communicating any information to:  "... (c)  the Tribunal in connection with proceedings under an Act of
+which the Commissioner has the general administration;".
+<p> 
+<p> So far as s 3C of the <i>TA Act</i> and s 30 of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ca191482/" class="autolink_findacts">Crimes Act 1914</a> (Cth)</i> differ from the provisions of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ca191482/s16.html" class="autolink_findacts">s 16</a>, the applicant's case does not place any significance on those variations.  The respondent considers the relevant section is s 3C
+of the <i>TA Act</i>.  However, as the applicant's argument was made in terms of s 16, these reasons principally address the application of the provisions
+of that section on the basis the equivalent provisions of s 3C fall for resolution in the same way.
+<p> 
+<p> The applicant contends the Tribunal was in error in relying upon the dicta of Lockhart J in <i>Consolidated Press Holdings Ltd</i> because the passing of confidential information in the course of what the applicant describes "as a civil Tribunal matter" is not
+"a tax related function."  He contends this came about as a consequence of the enactment of the <i>Taxation Laws Amendment Act (No 3</i>)<i> (Cth)</i> ("the <i>Amendment Act</i>") by which new provisions providing for a right of appeal were introduced.
+<p> 
+<p> The applicant submits the consequence is the appeal becomes a "civil Tribunal matter" and not "a taxation function" under the <i>ITA Act</i>.  Consequently he argues there is no basis for regarding counsel for the respondent as an "officer" falling within s 16 of the <i>ITA Act</i>.  Put another way, he states that as the function of representing the ATO in the Tribunal or Federal Court is no longer "a function
+of the ATO", neither the Australian Government Solicitor nor counsel may be "officers" within s 16 of the <i>ITA Act</i>.
+<p> 
+<p> Section 112 of the <i>Amendment Act</i> introduced a new system of taxation objections, reviews and appeals and repealed the prior provisions.  Section 112 repealed Parts
+IVA and Part IVB of the <i>TA Act.</i>  The former of those Parts dealt with "requests for reference" and the latter "review of decisions by Administrative Appeals Tribunal".
+ Principally this was provided by s 14ZZ which provided:
+<p> 
+<p> <i>"14ZZ.   If the person is dissatisfied with the Commissioner's objection decision, the person may:</i>
+<p> <i>(a)	if the decision is both a reviewable objection decision and an appealable objection decisioneither:</i>
+<p> <i>(i)	apply to the AAT for review of the decision; or</i>
+<p> <i>(ii)	appeal to the Federal Court against the decision; or</i>
+<p> <i>(b)	if the decision is a reviewable objection decision (other than an appealable objection decision) apply to the AAT for review of
+the decision; or</i>
+<p> <i>(c)	if the decision is an appealable objection decision (other than a reviewable objection decision) appeal to the Federal Court against
+the decision."</i>
+<p>  Division 4 of the same Act set out modifications to the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act 1975</a> (Cth)</i> ("the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i>") consequent upon the provision of a right of appeal to the Tribunal in s 14ZZ.
+<p> 
+<p> The concept of function is taken further in the applicant's submissions by reference to <i>Canadian Pacific Tobacco Company Ltd v Stapleton</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1952/32.html" title="View Case" class="autolink_findcases_inserted">[1952] HCA 32</a>;  <a href="/cgi-bin/LawCite?cit=%281952%29%2086%20CLR%201" title="View LawCiteRecord" class="autolink_findcases">(1952) 86 CLR 1</a> at 6 where Dixon CJ, in the course of a decision confirmed on appeal, said with reference to subs 16(2):
+<p> 
+<p> <i>"But, in any case, I think that the words `except in the performance of any duty as an officer' ought to receive a very wide interpretation.
+ The word `duty' there is not, I think, used in a sense that is confined to a legal obligation, but really would be better represented
+by the word `function'.  The exception governs all that is incidental to the carrying out of what is commonly called `the duties
+of an officer's employment'; that is to say, the functions and proper actions which his employment authorizes."</i>
+<p>  
+<p> Even with this being the case, the applicant submits the exception is too widely interpreted if it is understood to encompass within
+the functions of an officer the instructing of a solicitor and the briefing of counsel before the Tribunal or the Court.
+<p> 
+<p> The submissions for the applicant then seek support from some decided cases. The first was <i>FCT</i> <i>&amp; Ors v The Australia and New Zealand Banking Group; Smorgon &amp; Ors v FCT &amp; Ors</i> 79 ATC 4,039 where the provisions of s 263 of the <i>ITA Act</i> which provided authorisations for the Commissioner or any officer authorised in that behalf to have access to places and documents
+for any of the purposes of the Act were considered.  Murphy J at 4,057 referred to implied limitations on the power in s 263 and
+that the Commissioner is bound to observe such limitations.  The applicant seeks to draw from this <i>dicta</i> support for his contention that the scope of the performance of any duty by an officer falling within the exception to subs 16(2)
+is not to be so enlarged as to overcome the evident intention of the subsection to impose a limitation on the power of officers to
+pass information to other persons who are not officers.
+<p> 
+<p> Then the submissions for the applicant refer to <i>FCT v Nestle Australia Ltd</i> <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/1986/368.html" title="View Case" class="autolink_findcases_inserted">[1986] FCA 368</a>;  <a href="/cgi-bin/LawCite?cit=%281986%29%2069%20ALR%20445" title="View LawCiteRecord" class="autolink_findcases">(1986) 69 ALR 445</a> at 450.  There the Full Court of the Federal Court (Bowen CJ, Lockhart and Sheppard JJ) considered the question whether s 16 rendered
+documents in the possession of the Commissioner relating to his investigation of the taxpayer's affairs immune from the processes
+of discovery and inspection.  After reference to the "central provisions" in subss (2) and (3) and to what was said by Dixon CJ in
+<i>Canadian Pacific Tobacco</i> at 6, the Full Court said (at 950):
+<p> 
+<p> <i>"The `duty' of an officer extends beyond the performance of work of an administrative nature such as processing returns, making assessments,
+considering and dealing with objections, conducting investigations into the affairs of taxpayers and matters of this nature.  It
+includes the occasions on which he is required by the judicial process to produce documents or give evidence in courts, by affidavit
+or viva voce, concerning the affairs of some other person which he has acquired as an `officer', where the proceedings are referable
+to the imposition, assessment or collection of revenue.  These include appeals to courts under Pt V of the </i>Assessment Act<i>, proceedings for the obtaining of revenue, applications challenging decisions of the Commissioner pursuant to <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ja1903112/s39b.html" class="autolink_findacts">s 39B</a> of the </i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/ja1903112/" class="autolink_findacts">Judiciary Act 1903</a><i> and applications for review of decisions of the Commissioner under the </i>Judicial Review Act <i>with which this case is concerned.  This approach is consistent with what was said by Kitto J in </i>Mobil Oil Australia Pty Ltd v FCT<i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1963/41.html" title="View Case" class="autolink_findcases_inserted">[1963] HCA 41</a>;  <a href="/cgi-bin/LawCite?cit=%281963%29%20113%20CLR%20475" title="View LawCiteRecord" class="autolink_findcases">(1963) 113 CLR 475</a> at 500".</i>
+<p>  
+<p> The applicant contends that such a wide interpretation of the duties of an officer could not now be the case where the appeals were
+not to the Courts under Part V of the <i>ITA Act</i> but were now through the Tribunal and so "outside the tax system."
+<p> 
+<p> In further support of this approach the applicant referred to <i>Saunders v FCT</i>  <a href="/cgi-bin/LawCite?cit=88%20ATC%204%2c349" title="View LawCiteRecord" class="autolink_findcases">88 ATC 4,349.</a>  In that case Northrop J held that Taxation officers would be acting in the performance of their duties in divulging information
+to the Director of Public Prosecutions (who is not among those enumerated in s 16 as an authorised recipient of information except
+in the context of a Royal Commission).  He held it was plainly part of the officer's duty to assist the recovery of monies owing
+to the Commonwealth and for this purpose it was permissible to instruct the Director of Public Prosecutions who had the statutory
+responsibility of taking civil remedies on behalf of the Commonwealth.  In the course of his reasons Northrop J also said at 4,359:
+
+<p> <i>"Further, it is noted that sec. 16 does not in express terms authorise tax officers to disclose information to the Australian Government
+Solicitor for the purpose of receiving legal advice or action.  Information so disclosed would not be in breach of sec. 16 of the
+Tax Act."</i>
+<p>  
+<p> The applicant contends, however, that the decision can be distinguished because the provisions of the <i>ITA Act</i> relevant to that appeal required the Commissioner to refer a decision to the Tribunal for review upon request by the taxpayer.  He
+contends that as the application is now required to be filed with the Tribunal, the Tribunal action is no longer "a function of the
+ATO".
+<p> 
+<p> The applicant further seeks to support these submissions by adverting to policy contentions.  He says the ATO seeks in briefing counsel
+to gain an unfair advantage because he does not have the resources to match the expenditure implicit in that.  He contends the result
+is there is a denial of natural justice by the creation of a "David and Goliath contest".  There is no legal basis for finding a
+denial of natural justice in such circumstances and the other aspects are contentions of policy, not law.
+<p> 
+<p> In the course of his reasons the Deputy President dealt with a further submission from the respondent to the effect that in any event,
+s 15 of the <i>TA Act</i> authorises the Commissioner to be legally represented by counsel. Subsection 15(1) of the <i>TA Act</i> provides in any action prosecution or other proceeding, under, or arising out of, a taxation law instituted by on behalf of the Commissioner
+to which the Commissioner is a party or in which the Commissioner intervenes, the Commissioner may appear personally or may be represented
+by a barrister and solicitor or legal practitioner or a person authorised in writing to appear.  The Deputy President expressed the
+view the authority of the section was limited to proceedings instituted by or on behalf of the Commissioner or in which the Commissioner
+intervened or sought to intervene.
+<p> 
+<p> He also referred to <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s32.html" class="autolink_findacts">s 32</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i> which provides "at the hearing of a proceeding before the Tribunal, a party to the proceeding may appear in person or may be represented
+by some other person".  He held the section overrode what he considered to be the more restrictive provision of the <i>TA Act</i>.
+<p> 
+<p> By notice of contention the respondent contends the Deputy President wrongly decided the effect of s 15(1).  The case for the respondent
+contends his right to appear by counsel in proceedings before the Tribunal is conferred by <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s32.html" class="autolink_findacts">s 32</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i> and s 15 of the <i>TA Act</i>.  As to the latter it is submitted the phrases "instituted by or on behalf of the Commissioner..." and "to which the Commissioner
+is a party..." are to be read disjunctively.
+<p> 
+<p> The applicant accepts the submissions of the respondent on s15 and s 32 so far as the representative of the respondent is an employee
+of the Commissioner; that is, is the applicant fails to make out his case on this appeal on that aspect he has no further contentions
+by which to oppose the disjunctive construction.
+<p> 
+<p> The applicant's submissions may be answered as follows:
+<p> 
+<p> (1)	Solicitor and counsel are "officers" so that communication to them by other officers is permitted communication.
+<p> 
+<p> This follows from the effect of subss 16(1A) and s 3C(1A) on the definition of "officer" in s 16(1) and s 3C(1) in the <i>ITA Act and TA </i>Act respectively. The dicta of Lockhart J in <i>Consolidated Press Holdings Ltd</i> remains valid.  The consequence is that communication from an officer who is an employee of the ATO to an officer who is a solicitor
+or barrister performing services for the Commonwealth cannot be a communication "outside the tax system".  The latter is, by these
+provisions, made as much an officer in the tax system for the purposes of each section in the <i>ITA Act</i> or <i>TA Act</i> as an employee of the ATO.  On the applicant's own premises, his argument cannot succeed.
+<p> 
+<p> The further consequence of the enactment of subs 16(1A) of the <i>ITA Act</i> is that, no express provision is needed to authorise a non-counsel officer to communicate with an officer who is a counsel.  Accordingly,
+it cannot be argued because express authorisation is provided in subs 16(3) and par 16(4)(c) for communications to be made by officers
+to a court or the Tribunal that it is necessary for an express provision to be included for communication between such officers.
+<p> 
+<p> For the same reason, namely the enactment of subs 16(1A), it cannot be said there is any implied limitation to limit communications
+to an officer who is performing services for the Commonwealth such as counsel.  The dicta of Murphy J in <i>Smorgon</i> supra provides no support to the applicant's contentions here.
+<p> 
+<p> (2)	The Commissioner is specifically authorised to communicate information through another person.
+<p> 
+<p> Section 16(4) of the <i>ITA Act</i> authorises the Commissioner "or any person thereto authorised by him" to communicate information to the Tribunal.  The words "any
+person" are of wide generality and there is no reason for them not to include reference to a solicitor or barrister performing services
+for the Commonwealth on behalf of the Commissioner in connection with the proceedings before the Tribunal.
+<p> 
+<p> (3)	The performance of the duty of an officer extends to and includes conducting the respondent Commissioner's case in relation to
+an application to review an objection decision.
+<p> 
+<p> A reading of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s27.html" class="autolink_findacts">s 27(1)</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i> shows it is an enactment other than the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i> which provides for the right to make an application to the Tribunal and thus enlivens subject to modification, the provisions of
+the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i>.
+<p> 
+<p> The right to apply to the AAT for review of a decision derives from the provisions of the <i>Amendment Act</i> amending the <i>ITA Act</i>.  The manner in which the appeal the review is to be conducted is assisted by provisions of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i> which are enlivened by an enactment of the <i>ITA Act</i>. There is therefore no basis for characterising the application to the Tribunal as "a civil matter" unconnected with "the tax system".
+<p> 
+<p> On the contrary s 14ZZA (introduced by s 112 of the <i>Amendment Act</i>) and s 14ZC (introduced by <a href="/cgi-bin/viewdoc/au/legis/cth/num_act/tboroja1986516/s196.html" class="autolink_findacts">s 196</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/num_act/tboroja1986516/" class="autolink_findacts">Taxation Boards of Review (Transfer of Jurisdiction) Act 1986</a> (Cth)</i>) applied the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i> in relation to the review of reviewable objection decisions and other matters so that they incorporated the provisions of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a> </i>by way of application to the tax system.  This is further supported by the fact that in each case modifications were made to the application
+to suit the requirements of "the tax system".  Even on the applicant's own conceptualisation of the nature of the change, his argument
+cannot properly be made.
+<p> 
+<p> There is no basis on which to conclude the performance of the duty of an officer, which provides the exception to the prohibition
+in s 16(2) of the <i>ITA Act,</i> would not include the briefing of counsel to pursue the interest of the Commissioner under the provisions of the <i>ITA Act</i> relating to reviewable decisions.
+<p> 
+<p> This position under s 3C(4) of the <i>TA Act</i> requires additional consideration  because the phrase used there to characterise the scope of the duties of an officer is "duties
+in relation to a taxation law."  Section 2 of the <i>TA Act</i> defines "taxation law" to include, inter alia, the <i>TA Act</i> and "any other Act of which the Commissioner has the general administration..." but not to include the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i>.  However, that does not have the consequence that the duties of an officer in relation to the Tribunal are not part of the tax system
+that is because the duties before the Tribunal arise from the <i>ITA Act</i>.  No jurisdiction or power to perform those functions arises from the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i>.  The functions arise only from a taxation law.
+<p> 
+<p> This is reinforced in the case of s 16 by the use of the words "this Act" in the definition of "officer" in subs 16(1).  By subs
+6(1) "this Act" is defined to include Pt IVC of the <i>TA Act</i> insofar as that Part relates to the <i>ITA Act</i>.  Proceedings before the Tribunal relating to an assessment under the <i>ITA Act</i> arise under Pt IVC of the <i>TA Act</i>.  The legislature in the definition of "officer" therefore intended that the information acquired under the <i>ITA Act</i> or under Pt IVC of the <i>TA Act</i> is subject to the prohibition against divulging information and therefore part of information acquired in the performance of the
+duty of an officer.
+<p> 
+<p> (4)	There is express authorisation for the Commissioner to be represented by a solicitor or barrister.
+<p> 
+<p> In my view the third limb of subs 15(1) of the <i>TA Act</i> shows the intention to cast the section widely and there is no reason why the apparent second limb should not be read as such.  Furthermore
+to read the first and second limbs together is in part tautological.  I therefore consider the subsection is to be read as applicable
+to any action:
+<p> 
+<p> *		instituted by or behalf of the Commissioner, or
+<p> *		to which the Commissioner is a party, or
+<p> *		in which the Commissioner intervenes or seeks to intervene
+<p> 
+<p> I uphold the notice of contention filed on behalf of the respondent on this point and consider the Deputy President was in error
+in the conclusion which he tentatively reached in relation to this section.
+<p> 
+<p> I agree with the Tribunal that, in any event, authority for the Commissioner to be represented lies in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s32.html" class="autolink_findacts">s 32</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">AAT Act</a></i> which was not modified by the <i>TA Act</i> and therefore has effect:  s 14ZZA of the <i>TA Act</i>.
+<p> 
+<p> <b>Preserving employment conditions</b>
+<p> 
+<p> This ground of appeal is to the effect the Tribunal wrongly concluded the expenses incurred by the applicant, as a senior officer
+and union official, in contesting his employer's decision to selectively allow breaches of staff taxation secrecy, were not incidental
+and relevant to the derivation of his assessable income so as to be allowable deductions under s 51(1) of the <i>ITA Act</i>.
+<p> 
+<p> The relevant portion of the Tribunal's reasons read:
+<p> 
+<p> <i>"31.   At its highest, the so-called `section 16' expenses may be said to have been incurred in trawling for evidence which, arguably,
+may be excluded by the judge in the exercise of his judicial discretion if and when the Applicant's case finally comes to trial.
+ It is then said, presumably, that the exclusion of this material may lead to the Applicant's acquittal or a </i>nolle prosequi, <i>which, in turn, would automatically result in his reinstatement to his former position.  That, says the Applicant, is sufficient to
+attract deductibility of the expenditure because a successful defence would restore him to the position where he was before the charges
+were brought.  For this proposition, he relies heavily on the decision in </i>Magna Alloys &amp; Research Pty Ltd v FCT <i>80 ATC 4542.  However, in that case, the Court found that the impugned acts of the directors were carried out in their capacities
+as directors and agents of the taxpayer company and, however misconceived, were undertaken for the benefit of the company, and hence
+`incidental and relevant' to the derivation of the company's assessable income.  This is a far cry from the facts of this case, where
+I am unable to perceive that the occasion of the outgoing was the production of assessable income; in the terms of tort law, the
+`perceived connection' between the expenditure and the derivation of assessable income is `too remote'.  In any event, the Applicant
+was adamant that he was anxious to protect his god name and reputation and, to that extent, the expenditure must be seen as being
+of a private nature."</i>
+<p>  
+<p> Earlier the Tribunal had said:
+<p> 
+<p> <i>"27.   Turning to the law - leaving aside whether the Commissioner was wrong in law in using his powers to collect information under
+the </i>ITTA<i> for purposes of disciplinary proceedings under the </i>Public Service Act<i> and assuming for present purposes that the information thus obtained resulted in the Applicant's suspension - it is now well established
+that expenses incurred by an employee in seeking to prevent his employer from terminating his contract of employment <b>where the performance of his duties is in issue</b> are deductible under s51; see per Burchett and Drummond JJ in the Full Federal Court in </i>FCT v Rowe<i> 95 ATC 4691 (on appeal 97 ATC 4317)."</i>
+<p>  
+<p> The Tribunal added:
+<p> 
+<p> <i>"29.   Having said that, the facts in </i>Rowe <i> are a far cry from those before me.  This taxpayer's suspension - and possible dismissal - is not related to performance of his duties
+as a tax officer, but based on charges of fraudulent conduct unrelated to any activities within the Tax Office.  In other words,
+the expenditure was not incurred in attempting to save his job; his continued employment with the Tax Office will depend on the outcome
+of his trial, if and when it proceeds."</i>
+<p>  
+<p> 
+<p> There are two aspects to these matters.  The first is the effect of the so-called breach of secrecy on the imposition charge (see
+par 11 of the statement of agreed facts).  This forms part of the considerations in relation to the ground of appeal concerning criminal
+charges.  The second aspect is the complaints and proceedings made and commenced by the applicant and referred to in pars 12 to 15
+of the statement of agreed facts.
+<p> 
+<p> A further portion of the reasons of the Tribunal relevant to this ground of appeal was that in which the Deputy President made reference
+to a letter from the Director, Policy of the Commonwealth Ombudsman sent to her counterpart in another capital city expressing the
+view the effect of s 5 of the <i>Public Service Act 1922 (Cth)</i> is that officers of the ATO may only lawfully pass on information to other such officers in order "to enable them to carry out duties
+under <u>tax legislation</u> (ie legislation `administered by' the Commissioner of Taxation)" (her emphasis).  The letter stated the <i>Public Service Act</i> was administered by the Prime Minister through the Department of the Prime Minister and Cabinet and therefore not in this category.
+ Before the Tribunal the applicant relied upon this in support of his contention that the information deriving from the income tax
+audits of the applicant, his wife and his daughter for the purposes of conducting an evaluation of the applicant's leave entitlements
+under the <i>Public Service Regulations</i> was unlawful.  The Deputy President did not deal with the correctness of the opinion of the Ombudsman's office, stating it fell outside
+his concern with the deductibility of the expenditures incurred by the taxpayer.
+<p> 
+<p> The applicant contends the characterisation of the expenses in respect of the complaints and proceedings was in error.  He took the
+Court in some detail to the evidence which was before the Tribunal.  The evidence, described generally, consists of assertions or
+evidence by the applicant that he has brought the complaints and proceedings to protect his employment conditions and the employment
+conditions of other staff members of the ATO.
+<p> 
+<p> In support of these submissions the applicant relied upon <i>Inglis and Anor v FCT</i> 87 ATC 2,037 at 2,046-2,047.  There the first applicant had claimed to be entitled to deduct certain legal expenses incurred in and
+about the institution and prosecution of civil actions against the Commonwealth and individuals.  She was a permanent officer of
+the Commonwealth Public Service. She claimed new procedures had been invoked which placed unwarranted and special restrictions on
+her.  She instituted the actions in what was held to have been an unwise and ill-judged move.  In her view it was to protect her
+against the loss of status, indignities and blocking of promotion.  Deputy President Todd said:
+<p> 
+<p> <i>"57.   To characterise the expenses here in question, the first question arising under sec. 51 is whether the expenditure was incurred
+in gaining or producing assessable income.  I consider that it was.  The gravamen of the dispute that was reflected, however awkwardly,
+in the legal proceedings in question was the day to day situation of the first applicant in her work in the Parliamentary library.
+ The expenditure was incidental and relevant to the work which produced the first applicant's assessable income.  ... ".</i>
+<p>  
+<p> He then turned to the critical question whether deductibility was barred by the requirement by s 51(1) that the expenditure not have
+been of a capital, private or domestic nature.  He found it not to be private or domestic and, after examination of case law, he
+held it not to be of a capital nature.  He therefore concluded the expenditure in question had a "perceived connection" - the phrase
+used in the <i>FCT v Hatchett</i> 71 ATC 4,184 - with the first applicant's gaining or producing her assessable income and was not of a capital, private or domestic
+nature.
+<p> 
+<p> The present applicant also referred to the reference by the Deputy President to <i>FCT v Rowe</i> 95 ATC 4,691 and contended the Tribunal had failed to apply the principle thus recognised.
+<p> 
+<p> For the respondent it is accepted, and not disputed by the applicant, the phrase "incurred in gaining or producing the assessable
+income" as it appears in s 51(1) of the <i>ITA Act</i> means "incurred in the course of gaining": <i>Amalgamated Zinc (De Bavy's) Ltd v FCT</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1935/81.html" title="View Case" class="autolink_findcases_inserted">[1935] HCA 81</a>;  <a href="/cgi-bin/LawCite?cit=%281935%29%2054%20CLR%20295" title="View LawCiteRecord" class="autolink_findcases">(1935) 54 CLR 295</a>; <i>Ronpibon Tin NL and Tongkah Compound NL v FCT</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1949/15.html" title="View Case" class="autolink_findcases_inserted">[1949] HCA 15</a>;  <a href="/cgi-bin/LawCite?cit=%281949%29%2078%20CLR%2047" title="View LawCiteRecord" class="autolink_findcases">(1949) 78 CLR 47</a> at 56-57; <i>FCT v Forsyth</i> 81 ATC 4,157 at 4,161.  As to the tests of deductibility, it is accepted the expenditure must be "incidental and relevant" to the
+gaining or producing of income; it is both sufficient and necessary the occasion of the loss or outgoing should be found in whatever
+is productive of the assessable income or, if none be produced, would be expected to produce assessable income: <i>Ronpibon</i> at 56-57.  Likewise the expenditure must have the essential character of a business or income producing expense:  <i>Lunney v Commissioner of Taxation</i>; <i>Hayley v Commissioner of Taxation</i> (1958) 100 CLR 478 at 497-498 and 501.  There must be a "perceived connection" of a direct and clear character between the expenditure
+and the gaining or producing of the assessable income:  <i>FCT v Hatchett</i> at 4,187.  In the case of employees, the expenditure must be incurred expressly or implied by reason of or in the pursuance of the
+contract of employment:  <i>FCT v Wiener</i> 78 ATC 4,006 at 4,008-4,010; <i>Burton v FCT</i> 79 ATC 4, 318 at 4,322.
+<p> 
+<p> For the respondent it is contended the applicant should fail on this ground because the expenditure was not a business expense as
+the occasion of the outgoings was not to be found in whatever was productive of assessable income or in activities that would be
+expected to produce income.  The submission continues:
+<p> 
+<p> <i>"The fact that the appellant is a public servant who happens to have been employed by the ATO is irrelevant.  The complaints are against
+the ATO in its capacity as a recipient of income tax information not in its capacity as an employer.  The appellant does not seek
+to gain income by his complaints or to affect his employment relationship in a way which is productive of assessable income.  The
+appellant seeks to punish the ATO for what he contends are breaches of s16 </i>ITAA<i>;"</i>
+<p>  
+<p> Therefore it is contended for the respondent there is no "perceived connection" between the applicant's expenditure on the complaints
+concerning the alleged breach of s 16 of the <i>ITA Act</i> and the gaining or producing of income. Further, it is contended the expenditure is of a private nature because the applicant's pursuit
+of the grievance is motivated by concern to vindicate his reputation and it is not part of his duties as a public servant to complain
+about alleged breaches of the section so that those complaints are made in the applicant's capacity as a taxpayer and not in his
+capacity as a public servant.
+<p> 
+<p> As to <i>Inglis's</i> case, the contentions for the respondent seek to distinguish the circumstances there on the grounds there was a direct instruction
+relating to employment.  As to <i>Rowe's </i>case, it is said that should be distinguished because the charges which resulted in the applicant bringing the complaints and proceedings
+did not relate to what he did as a public servant.
+<p> 
+<p> The critical question for resolution of this ground is the circumstances which occurred and the characterisation of them.  This requires
+resort to the relevant findings of fact which, in this case, are contained in the statement of agreed facts.  Paragraph 4 relates
+the applicant's suspension from employment with the ATO and to the criminal charges brought against him in January 1995.  It was
+that suspension which was initially without pay. However, the suspension and the bringing of those criminal charges preceded by some
+months the conduct of the personnel inquiry into the applicant (see par 10 of statement of agreed facts).  It is in relation to the
+latter inquiry the allegations of breaches of secrecy have been brought in the complaints and proceedings.
+<p> 
+<p> There remains the question whether the count of imposition (referred to in par 11 of the statement of agreed facts) could be productive
+of further suspension if the applicant were acquitted of the criminal charges.  That is not a matter which requires consideration
+because, as noted in that paragraph, the Deputy President found the charge had been withdrawn.
+<p> 
+<p> It follows therefore on the facts there could not be the requisite perceived connection between the breaches of secrecy and the loss
+of employment of which the applicant complains.  That does not mean the respondent's submissions have been accepted in the terms
+they have been put but only that it is not necessary to further consider those submissions because, as stated, the alleged breaches
+of secrecy were not causative of the relevant suspension from employment and because the charge to which they allegedly gave rise
+is not a continuing charge.  The applicant cannot therefore succeed on this ground.
+<p> 
+<p> <b>Defence of criminal charges</b>
+<p> 
+<p> In relation to the expenses said to be incurred in defending the applicant against criminal charges the Tribunal said:
+<p> 
+<p> <i>"30.  Turning to the expenses claimed in seeking to defend the criminal charges, the first thing to observe is that these charges
+arise out of activities unconnected with the Applicant's work in the Tax Office, and hence the expenditure cannot easily be seen
+as incurred in the course of gaining or producing the Applicant's assessable income (he derived no income from his wife's art business).
+ The fact that certain advantageous consequences may flow from successfully defending these charges is not sufficient to make these
+expenses incidental or relevant to the Applicant gaining or producing assessable income." </i>
+<p>  
+<p> The notice of suspension issued to the applicant under s 63B of the <i>Public Service Act</i> and dated 28 March 1995 recited the applicant had been charged on 21 March with the commission of the following criminal offences:
+<p> 
+<p> <i>"Fraud - s409(1)(c) of the </i>Criminal Code (WA)<i> - 20 charges.</i>
+<p> <i>Altering odometer readings - s45(1) of the </i>Motor Vehicle Dealers Act 1973-82<i> as amended - 4 charges.</i>
+<p> <i>Unlicensed Motor Vehicle Dealing - s30(1) of the </i>Motor Vehicle Dealers Act 1973-82<i> as amended - 1 charge</i>
+<p> <i>Unlawful possession - s69 of the </i>Police Act (WA)<i> - 3 charges"</i>
+<p>  
+<p> The applicant contends the deductions in respect of defending those charges should have been allowed because he has no alternative
+source of employment and he must preserve his career for his and his family's sustenance.  He puts this contention in a number of
+ways.  He says a successful defence will lead to lifting of the suspension so that he would resume employment and productivity. Benefits
+frozen would be reclaimed by him.  His promotion prospects would be renewed, maintaining his employment of 25 years would be neither
+of a private or capital nature.  He seeks therefore in a range of such arguments to assert that a perceived connection between his
+defence of the charges and his employment should have been found by the Tribunal.
+<p> 
+<p> In my opinion the applicant's contentions cannot succeed.  The gravamen of the dispute reflected in the criminal proceedings had
+nothing to do with the day-to-day work of the applicant.
+<p> 
+<p> The Tribunal did not misapply what was said by Burchett J and Drummond J in <i>Rowe's</i> case at 4702.  Burchett J said the liability for legal expenses there in question:
+<p> 
+<p> <i>"was incurred, or the claim was encountered, because of the very act of performing the work by which the respondent earned assessable
+income.  The activities which produced the assessable income were what exposed the taxpayer to the liability discharged by the expenditure.
+ As the Court said in </i>Putnin<i> at ATC 4102; FCR 413, so here, `the ... proceedings arose from the activities by which the taxpayer earned his income, the mode of
+his performance of a particular task carried out in the course of business operations' "</i>
+<p>  
+<p> The criminal proceedings against the applicant did not arise from activities by which he earned his income and had no relationship
+to performance of his duties.  To argue, as the applicant does, that the performance of his duties required an impeccable performance
+in his private life, is to endeavour to draw an artificial and unreal perceived connection when no connection of the requisite character
+is present.
+<p> 
+<p> It follows that while success in defending the criminal charge may have the various consequences relied upon by the applicant in
+relationship to his employment, the defence of those charges was properly seen by the Tribunal as not incidental or relevant to the
+gaining or production of assessable income. The occasion of the outgoings in the form of the legal expenses was not to be found in
+what was productive of assessable income or in activities that would be expected to produce assessable income.
+<p> 
+<p> The same conclusion is apposite in respect of the <i>Dietrich</i> application by the applicant.
+<p> 
+<p> No error of law is disclosed in relation to the grounds relating to criminal charges.
+<p> 
+<p> <b>Reference book expense</b>
+<p> 
+<p> A claim for $100 in the 1995 income year in respect of a reference book expense was disallowed by the ATO on the basis the bankcard
+records revealed the expenditure was incurred by the applicant's wife.
+<p> 
+<p> Of this the Tribunal said:
+<p> 
+<p> <i>"37.   It seems to me that real issue is not who paid for the book, but how - assuming it was paid for by the Applicant - it relates
+to his assessable income.  It was conceded during the hearing that (for tax purposes) the art business was conducted solely by the
+Applicant's wife and that the taxpayer played no part in that business or derived income from it.  In those circumstances I fail
+to see how the expenditure on </i>Miller's Antique Guide<i> can be an allowable deduction in his hands any more than if he paid for his wife's bloomers."</i>
+<p>  
+<p> The finding of the Deputy President that the applicant derived no income from his wife's art business had earlier been made during
+the course of his setting out the statement of agreed facts.  In a portion of par 2, not reproduced above, he said:
+<p> 
+<p> <i>"The Applicant's wife owns and operates an art gallery.  Although the respondent originally maintained that the business was operated
+jointly by the Applicant and his wife, at the hearing before me it was conceded that the business was solely operated by the wife.
+ This concession has, of course, no bearing on the criminal proceedings".</i>
+<p>  
+<p> On the hearing of this appeal the applicant disputed that the concession had been made before the Deputy President.
+<p> 
+<p> For the respondent it is accepted the Tribunal was in error in finding the applicant had conceded his wife ran the business.
+<p> 
+<p> The applicant's position is that he purchased the reference book to provide prices concerning car sales to enable him to demonstrate
+the uncommerciality of the tax auditor's claim that he was operating the business jointly with his wife.  He claims to have succeeded
+in that objective.  That is an acceptance by him that the expenditure was in relation to his wife's tax affairs and so it must follow
+it was not an allowable deduction to him.  A consequential adjustment to the applicant's spouse rebate would not qualify the expenditure
+as an allowable deduction to the applicant.
+<p> 
+<p> <b>Natural justice</b>
+<p> 
+<p> A ground of appeal directed to bias was not pursued at the hearing.
+<p> 
+<p> <b>Conclusion</b>
+<p> 
+<p> For these reasons the appeal should be dismissed. 
+<p>   <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> I certify that this and the preceding twenty-two (22) pages are a true copy of the Reasons for Judgment herein of the Honourable
+Justice R D NICHOLSON <br><br></TD></TR></TABLE>
+<p> 
+<p> Associate:
+<p> 
+<p> Dated:		23 January 1998
+<p> 
+<p> <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> Counsel for the Applicant: <br><br></TD> <TD colspan=1 align="left">In person <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Solicitor for the Applicant: <br><br></TD> <TD colspan=1 align="left">None on record <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Counsel for the Respondent: <br><br></TD> <TD colspan=1 align="left">M Corboy <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Solicitor for the Respondent: <br><br></TD> <TD colspan=1 align="left">Australian Government Solicitor <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Date of Hearing: <br><br></TD> <TD colspan=1 align="left">26 November 1997 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Date of Judgment: <br><br></TD> <TD colspan=1 align="left">23 January 1998 <br><br></TD></TR></TABLE> 
+<p> <!--sino noindex-->
+      </article>
+    </div> <!-- page-main -->
+
+
+<!-- Document Sidebar -->
+    <div id="page-side">
+
+
+
+<!-- insert search-context.tx here when searching -->
+
+
+      <div class="side-element side-print">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M15.6 19.6h-10c-.6-.2-1-.6-1-1.3v-3.5H2.2c-.7 0-1.2-.5-1.2-1.2V5.3C1 4.5 1.5 4 2.2 4H4.6V1.6c0-.6.3-1 .9-1.2h10.2c.6.2.9.6.9 1.3V4H19c.5 0 .9.3 1.1.8 0 .1 0 .1.1.2v8.9c-.2.6-.6.9-1.3.9H16.6v3.6c0 .5-.4 1-.9 1.2h-.1zm3.4-6V5.2H2.2v8.4h2.4v-1.2H4c-.3 0-.5-.1-.5-.4-.2-.4.1-.8.6-.8h13.1c.4 0 .6.3.6.6s-.3.6-.6.6h-.6v1.2H19zm-3.6-1.2H5.8v6h9.6v-6zm0-10.8H5.8V4h9.6V1.6zM15.4 8.2c0-.3.3-.6.6-.6s.6.3.6.6-.3.6-.6.6-.6-.3-.6-.6zM10.6 13.6h3c.3 0 .6.2.6.5s-.2.6-.5.7H7.6c-.4 0-.7-.3-.7-.6s.3-.6.7-.6h3zM10.6 17.2H7.7c-.4 0-.7-.2-.7-.6 0-.3.3-.6.7-.6h5.9c.4 0 .7.2.7.6 0 .4-.3.6-.7.6h-3z"></path>
+        </g></svg>
+        <h4>Print</h4>
+        <ul>
+          <li> <a class="print-special" href="javascript:void(0);">Print (pretty)</a> </li>
+          <li> <a class="print-minimal" href="javascript:void(0);">Print (eco-friendly)</a> </li>
+        </ul>
+      </div> <!-- side-print -->
+
+
+      <div class="side-element side-download">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M12.5.9c1.3.5 1.7 1.5 1.7 2.9-.1 1.6 0 3.3 0 5h3.1c0 .1.1.1.1.2-.2.3-.3.5-.6.8l-5.3 5.3c-.7.6-1 .7-1.6.1-1.9-1.9-3.7-3.7-5.6-5.5-.1-.2-.3-.4-.6-.8H7c0-.4 0-.7.1-.9V3.8C7 2.4 7.4 1.4 8.7.9h3.8zM1.4 14.5h1.4v2.4c0 .9.2 1.1 1 1.1h13.5c.9 0 1-.2 1.1-1.1v-2.4h1.4v3.2c-.3.9-.9 1.4-1.7 1.7h-15c-.9-.3-1.4-.9-1.7-1.7v-3.2z"></path>
+        </g></svg>
+        <h4>Download</h4>
+        <ul>
+          <li> <a href="/au/cases/cth/FCA/1998/19.rtf">RTF format (77.6 KB)</a> </li>
+        </ul>
+        <ul>
+          <li> <a href="/cgi-bin/sign.cgi/au/cases/cth/FCA/1998/19">Signed PDF/A format</a> </li>
+        </ul>
+      </div> <!-- side-download -->
+
+      <div class="side-element side-cited-by">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M10.2 16.6c-.9-.2-1.8-.3-2.7-.5-1.5-.4-2.9-1.1-4-2.3-3-3-2.9-7.4.4-10.1C6.2 1.7 9 1.1 12 1.4c1.7.2 3.2.8 4.6 1.8 3.1 2.3 4 5.6 2.5 9.2-.8 2-2.3 3.4-4 4.6-2.3 1.5-4.8 2.2-7.4 2.5h-.2c-.1-.1-.2-.1-.4-.2 0-.1 0-.3.2-.3.7-.4 1.4-.7 2-1.1.4-.3.7-.8.9-1.3z"></path></svg>
+        <h4>Cited By</h4>
+        <ul>
+          <li> <a href="/cgi-bin/LawCite?cit=[1998] FCA 19"> LawCite records</a> </li>
+          <li> <a href="/cgi-bin/sinosrch.cgi?method=boolean&query=1998 FCA 19 or FCA 1998 19"> NoteUp references</a> </li>
+          <!-- li> <a href=""> NoteUp references</a> </li -->
+        </ul>
+      </div> <!-- cited-by -->
+
+
+
+
+
+
+
+      <div class="side-element side-social">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M20.7 3.7c-.7.3-1.5.5-2.4.6.9-.5 1.5-1.3 1.9-2.3-.8.5-1.7.8-2.7 1-.8-.8-1.9-1.3-3.1-1.3-2.3 0-4.2 1.9-4.2 4.2 0 .3 0 .6.1 1C6.9 6.7 3.8 5 1.7 2.5c-.4.6-.6 1.3-.6 2.1 0 1.4.8 2.7 1.9 3.5-.7-.1-1.3-.3-1.9-.6v.1c0 2 1.4 3.7 3.4 4.1-.4.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.7 2.1 2.9 3.9 2.9-1.4 1.1-3.2 1.8-5.2 1.8-.3 0-.7 0-1-.1 1.9 1.2 4.1 1.9 6.4 1.9 7.7 0 11.9-6.4 11.9-11.9v-.5c.8-.6 1.6-1.3 2.1-2.1z"></path></svg>
+        <h4>Join the discussion</h4>
+        <ul>
+          <li> <a href="https://twitter.com/intent/tweet?text=%E2Hank B. Schokker v Commissioner of Taxation, Commonwealth of Australia (includes corrigenda of 2 February 1998) [1998] FCA 19 (23 January 1998)%E2%80%9D&amp;url=http://www.austlii.edu.au/au/cases/cth/FCA/1998/19.html&amp;via=austlii&amp;hashtags=austlii" target="_blank">Tweet this page</a> </li>
+          <li> <a href="https://twitter.com/intent/user?screen_name=AustLII" target="_blank">Follow @AustLII on Twitter</a> </li>
+<!--
+          <li> <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=austlii" target="_blank">Recent tweets about AustLII</a> </li>
+-->
+        </ul>
+      </div>
+
+
+    </div> <!-- page-side -->
+
+
+
+    <footer class="closing">
+      <div class="inner">
+        <!--<ul class="closing-primary">
+      <li><a href="database-all.html">All Databases</a></li>
+      <li><a href="database-cases.html">Cases &amp; Legislation</a></li>
+      <li><a href="database-journals.html">Journals &amp; Scholarships</a></li>
+      <li><a href="database-treaties.html">Treaties</a></li>
+      <li><a href="database-libraries.html">Libraries</a></li>
+      <li><a href="#">LawCite</a></li>
+    </ul>-->
+        <ul class="closing-tertiary">
+          <li> <a href="/austlii/">About</a> </li>
+          <li> <a href="/austlii/copyright.html">Copyright &amp; Usage</a> </li>
+          <li> <a href="/austlii/privacy.html">Privacy</a> </li>
+          <li> <a href="/austlii/disclaimers.html">Disclaimers</a> </li>
+          <li> <a href="/austlii/help/">Help</a> </li>
+        </ul><small>http://www.austlii.edu.au/au/cases/cth/FCA/1998/19.html</small>
+      </div>
+    </footer>
+
+  </div> <!-- page-content -->
+
+  <script src="/js/production.min.js">
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a21b104bdd485da3',t:'MTc4NTE0OTIyMQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"f74b553413eb4a50949f5730dcd56219"}' crossorigin="anonymous"></script>
+</body>
+</html>

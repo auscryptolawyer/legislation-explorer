@@ -1,0 +1,906 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="en">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Solaris version 5.1.24" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>Douglas Hector Douglas v Commissioner of Taxation of the Commonwealth of Australia [1997] FCA 724 (6 August 1997)</title>
+  <link media="screen" rel="stylesheet" href="/css/screen1.css" />
+  <link media="print" rel="stylesheet" href="/css/print.css" />
+  <meta name="theme-color" content="#ee3224" />
+  <meta name="description" content="Australasian Legal Information Institute (AustLII) - Hosted by University of Technology Sydney Faculty of Law" />
+  <link rel="icon" sizes="192x192" href="/images/icon-192.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/icon-shortcut.png" />
+  <meta name="msapplication-TileColor" content="#ee3224" />
+  <meta name="msapplication-TileImage" content="/images/icon/ms.png" />
+  <script src="/js/modernizr.min.js">
+  </script>
+</head>
+<body class=" cases  document ">
+  <header id="page-header">
+    <div id="primary">
+      <a id="page-logo" href="/" tabindex="1"><img src="/images/logo.svg" alt="AustLII"><span class="title-main">AustLII</span></a> <a class="go-search" href="#">Search</a>
+      <h1 id="page-title"><span>Federal Court of Australia</span></h1>
+    </div>
+
+
+<!-- Search box
+
+The search box at the top of most pages. Always visible unless the
+'search' variable is set to false, for pages where we don't want
+that box along the top, such as on Advanced Search & LawCite.
+
+'Results' is a class added to database pages, which exposes the ability
+to search just by that database.
+
+'Searchable' is a page variable which indicates the page has checkboxes
+on it - the search box has a radio button for selecting we only search
+the checked areas.
+
+'Extra search' is for those rare extra options found in pages like the
+Aviation Law Association library database.
+-->
+    <form action="/cgi-bin/sinosrch.cgi">
+<input type="hidden" name="meta" value="">
+      <div id="page-search">
+        <h2 class="hide">Search AustLII</h2>
+        <div class="search-box">
+          <a class="search-dropdown" href="javascript:void(0);">&#9660;</a>
+          <fieldset>
+            <legend>Search Options</legend>
+            <ul class="search-options">
+              <li><label for="database-all">All databases <input type="radio" name="mask_path" value="" id="database-all" tabindex="2" 
+/></label></li>
+              <li><label for="database-this">This database only <input type="radio" name="mask_path" value="au/cases/cth/FCA" id="database-this" tabindex="3" 
+checked="checked" 
+/></label></li>
+              <li><label for="database-full">Full text <input type="radio" name="method" value="auto" id="database-full" method="auto" checked="checked" tabindex="6" /></label></li>
+              <li><label for="database-title">Titles only <input type="radio" name="method" value="title" id="database-title" tabindex="7" /></label></li>
+              <li class="advanced-search">
+                <a href="/advanced_search.shtml" tabindex="8">Advanced Search&hellip;</a>
+              </li>
+            </ul>
+          </fieldset><label for="search-box" class="hide">Search term:</label> <input id="search-box" type="text" name="query" 
+  placeholder="Search this database only" 
+  tabindex="9" /><a href="javascript:void(0);" class="search-box-clear hide">&times;</a> <input type="submit" value="Search" tabindex="9" />
+        </div><a class="go-primary" href="#">Close</a>
+      </div>
+    </form>
+
+
+    <ul id="page-tertiary">
+      <li> <a href="/about.html">About</a> </li>
+      <li> <a href="/contact.html">Contact</a> </li>
+      <li> <a href="/copyright.html">Copyright &amp; Usage</a> </li>
+      <li> <a href="/privacy.html">Privacy</a> </li>
+      <li> <a href="/disclaimers.html">Disclaimers</a> </li>
+      <li> <a href="/feedback.html">Feedback</a> </li>
+      <li> <a href="/help.html">Help</a> </li>
+    </ul>
+  </header>
+
+
+<!-- Ribbons
+
+These are the red bars along the top of each page.
+
+Ribbon is a variable set on most pages; it defaults to an expanded view,
+and can be simplified using variables 'intro' (for home) and 'basic' (for
+search, about pages, etc.)
+-->
+  <nav id="ribbon">
+    <div class="inner">
+      <ul>
+        <li class="ribbon-type"> <a href="#" tabindex="10">Type <span>Cases</span></a> </li>
+        <li class="ribbon-jurisdiction"> <a href="#" tabindex="12">Jurisdiction <span>Commonwealth</span></a> </li>
+        <li class="ribbon-database"> <a href="../" tabindex="13">Database <span>Federal Court of Australia</span></a> </li>
+        <li class="ribbon-year "> <a href="./" tabindex="14">Year <span>1997</span></a> </li>
+        <li class="ribbon-citation"><a href="#" tabindex="16">Citation <span>[1997] FCA 724</span></a></li>
+      </ul>
+    </div>
+  </nav> <!-- ribbon -->
+
+
+<!-- Panels
+
+The Panel defaults to 'year' view, which is what the database pages all have,
+it's what search results have, etc.
+
+The selections within if statements below are to visualize the 'is-selected'
+class across the various mock pages in the prototype.
+
+When implementing this, pull out the if statements and simply apply 'is-selected'
+when it's appropriate to that particular page.
+
+The options for the panel include:
+* none: the panel doesn't render
+* closed: the panel is present, but closed, adds 'is-closed' class
+* jurisdiction: jurisdiction is open at page load, adds 'is-jurisdiction' class
+* letter: 'starts with' is open at page load, adds 'is-letter' class
+-->
+  <div id="panels" class="is-closed">
+    <div class="inner">
+      <div id="panel-type">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>All Databases</h5> <p></p></a> </li>
+          <li class="panel-type-all is-selected"> <a href="/databases.html"> <h5>Cases &amp; Legislation</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/journals/"> <h5>Journals &amp; Scholarship</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/lawreform/"> <h5>Law Reform</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/treaties/"> <h5>Treaties</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/database-libraries.html"> <h5>Libraries</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="http://austlii.community/wiki/"> <h5>Communities</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/lawcite/"> <h5>LawCite</h5> <p></p></a> </li>
+        </ul>
+      </div>
+      <div id="panel-jurisdiction">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>Australia</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/cth/"> <h5>CTH</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/act/"> <h5>ACT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nsw/"> <h5>NSW</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nt/"> <h5>NT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/qld/"> <h5>QLD</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/sa/"> <h5>SA</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/tas/"> <h5>TAS</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/vic/"> <h5>VIC</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/wa/"> <h5>WA</h5></a> </li>
+          <li class="panel-type-all"> <a href="http://www.nzlii.org/databases.html"> <h5>New Zealand</h5></a> </li>
+        </ul>
+      </div>
+      <div id="panel-year">
+        <ul>
+          <li class="panel-type-specific">
+            <div>
+              <h5>Specific Year</h5><a href="#" class="year-specific-dropdown type-specific">Any</a> <select class="type-specific">
+                <option>
+                  2015
+                </option>
+              </select>
+            </div>
+          </li>
+<!--
+          <li class="panel-type-range">
+            <div>
+              <h5>Year Range</h5><a href="#" class="year-range-dropdown-1 type-range-1">1970</a> <select class="type-range-1">
+                <option> 2015 </option>
+              </select> <a href="#" class="year-range-dropdown-2 type-range-2">2015</a> <select class="type-range-2">
+                <option> 2015 </option>
+              </select> <a href="results.html" class="button">Apply</a>
+            </div>
+          </li>
+-->
+        </ul>
+      </div>
+      <div id="panel-letter">
+        <ul>
+          <li class="panel-letter-any"> <a href="#"> <h5>Any</h5></a> </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- "Year" dropdowns
+
+These dropdowns should be generated with data as appropriate.
+The data you see here is for presentatioal purposes.
+-->
+  <div class="year-options-list">
+    <div class="year-specific-options year-options">
+      <ul>
+        <li> <h5><a href="./">Any</a></h5> </li>
+<!--
+        <li> <h5><a href="1997/">1997</a></h5> </li>
+-->
+
+      </ul>
+    </div> <!-- specific-year -->
+
+<!--
+    <div class="year-range-1-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul>
+    </div> --> <!-- year-range-1 -->
+
+<!--
+    <div class="year-range-2-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul> 
+    </div> --> <!-- year-range-2 -->
+
+  </div> <!-- panels -->
+
+
+  <div id="page-content">
+    <div id="page-main">
+      <article class="the-document">
+        <h1>Douglas Hector Douglas v Commissioner of Taxation of the Commonwealth of Australia [1997] FCA 724 (6 August 1997)</h1>
+<!--make_database: source=/home/philip/austlii/db/FCA/data/1997_724.html-->
+<!--sino date 6 August 1997-->
+
+ <center><b>FEDERAL COURT OF AUSTRALIA</b>
+<p> <b></center></b>
+<p> <b>INCOME TAX</b> - whether income derived by trustees of a Protestant hall is exempt from income tax - whether income of a religious institution or
+charitable institution - whether income of a society, association or club established for community service purposes - whether a
+fund established for public charitable purposes.
+<p> 
+<p> <b>WORDS AND PHRASES</b> - "religious institution" - "charitable institution" - "society" - "association" - "club" - "community service purposes"- "public
+charitable purposes"
+<p> 
+<p> 
+<p> 
+<p> <b><i>Statute of Elizabeth</i></b><i> (Charitable Uses Act)</i> 1601 (Imp)
+<p> <b><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/" class="autolink_findacts">Taxation Administration Act 1953</a> </i></b> (Cth) <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s14zz.html" class="autolink_findacts">s 14ZZ</a>
+<p> <b><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">Income Tax Assessment Act 1936</a> </i></b> (Cth) s 23 (e), (g) and (j)
+<p> <b><i>Taxation Laws Amendment Act (No 2)</i></b> 1990 (Cth)
+<p> <b><i>Taxation Laws Amendment Bill (No 2)</i></b> 1990 (Cth) explanatory memorandum
+<p> 
+<p> 
+<p> 
+<p> <b><i>Minister of National Revenue v Trusts and Guarantee Company Limited</i></b>  <a href="/cgi-bin/LawCite?cit=%5b1940%5d%20AC%20138" title="View LawCiteRecord" class="autolink_findcases">[1940] AC 138</a>
+<p> <b><i>Stratton v Simpson</i></b> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1970/45.html" title="View Case" class="autolink_findcases_inserted">[1970] HCA 45</a>;  <a href="/cgi-bin/LawCite?cit=125%20CLR%20138" title="View LawCiteRecord" class="autolink_findcases">125 CLR 138</a>
+<p> <b><i>Commissioner of Land</i></b><i> <b>Tax (NSW) v Joyce and Others</b></i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1974/39.html" title="View Case" class="autolink_findcases_inserted">[1974] HCA 39</a>;  <a href="/cgi-bin/LawCite?cit=%281974%29%2048%20ALJR%20432" title="View LawCiteRecord" class="autolink_findcases">(1974) 48 ALJR 432.</a>
+<p> <b><i>Incorporated Council of Law Reporting (Queensland) v Federal Commissioner of Taxation</i> </b><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1971/44.html" title="View Case" class="autolink_findcases_inserted">[1971] HCA 44</a>;  <a href="/cgi-bin/LawCite?cit=125%20CLR%20659" title="View LawCiteRecord" class="autolink_findcases">125 CLR 659</a>
+<p> <b><i>Commissioner for Special Purposes of Income Tax v Pemsel</i> </b><a href="http://www.bailii.org/uk/cases/UKHL/1891/1.html" title="View Case" class="autolink_findcases_inserted">[1891] UKHL 1</a>;  <a href="/cgi-bin/LawCite?cit=%5b1891%5d%20AC%20531" title="View LawCiteRecord" class="autolink_findcases">[1891] AC 531</a>
+<p> <b><i>Monds v Stackhouse</i></b> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1948/47.html" title="View Case" class="autolink_findcases_inserted">[1948] HCA 47</a>;  <a href="/cgi-bin/LawCite?cit=%281948%29%2077%20CLR%20232" title="View LawCiteRecord" class="autolink_findcases">(1948) 77 CLR 232</a>
+<p> <b><i>Perpetual Trustees Tasmania</i> <i>Limited v Attorney General (Tas)</i></b> <b><i>and another</i></b> Supreme Court of Tasmania (Zeeman J Unreported 18 November 1993; No 351/1991).
+<p> <b><i>Re Income Tax Acts (No 1)</i></b> <a href="/cgi-bin/viewdoc/au/cases/vic/VicLawRp/1930/33.html" title="View Case" class="autolink_findcases_inserted">[1930] VicLawRp 33</a>;  <a href="/cgi-bin/LawCite?cit=%5b1930%5d%20VLR%20211" title="View LawCiteRecord" class="autolink_findcases">[1930] VLR 211.</a>
+<p> <b><i>Thompson v Federal Commissioner of Taxation </i></b><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1959/66.html" title="View Case" class="autolink_findcases_inserted">[1959] HCA 66</a>;  <a href="/cgi-bin/LawCite?cit=102%20CLR%20315" title="View LawCiteRecord" class="autolink_findcases">102 CLR 315</a>
+<p> <b><i>Rex v The Special Commissioners of Income Tax ex parte Rank's Trustees </i></b> <a href="/cgi-bin/LawCite?cit=8%20Tax%20Cas%20286" title="View LawCiteRecord" class="autolink_findcases">8 TC 286</a>
+<p> 
+<p> 
+<p> 
+<p> <b><i>DOUGLAS HECTOR DOUGLAS &amp; ORS v COMMISSIONER OF TAXATION OF THE COMMONWEALTH OF AUSTRALIA</i></b>
+<p>  VG743 &amp; 744 of 1996
+<p> 
+<p> 
+<p> OLNEY J
+<p> MELBOURNE
+<p> 6 AUGUST 1997 <TABLE> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>I</b><b>N THE FEDERAL COURT OF AUSTRALIA</b> <br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>VICTORIA  DISTRICT REGISTRY</b> <br><br></TD> <TD colspan=1 align="left"><b>) VG743 of 1996</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>GENERAL DIVISION</b> <br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR></TABLE><TABLE> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>			BETWEEN:		</b> <br><br></TD> <TD colspan=1 align="left"><b>DOUGLAS HECTOR DOUGLAS &amp; ORS</b>
+<p> <b>Applicants</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>			    AND:		</b> <br><br></TD> <TD colspan=1 align="left"><b>COMMISSIONER OF TAXATION OF THE COMMONWEALTH OF AUSTRALIA</b>
+<p> <b>Respondent</b> <br><br></TD></TR></TABLE>
+<p> <TABLE> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>J</b><b>UDGE:</b> <br><br></TD> <TD colspan=1 align="left"><b>OLNEY J</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>PLACE:</b> <br><br></TD> <TD colspan=1 align="left"><b>MELBOURNE</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>DATED:</b> <br><br></TD> <TD colspan=1 align="left"><b>6 AUGUST 1997</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD></TR></TABLE> 
+<p> <b><center>MINUTES OF ORDER</b>
+<p> <b></center></b>
+<p> <b>THE COURT ORDERS THAT:</b>
+<p>  
+<p> 1.	The appeal be dismissed.
+<p> 
+<p> 2.	The applicants pay the respondent's costs including any reserved costs.
+<p> 
+<p> 
+<p> Note:   Settlement and entry of orders is dealt with in Order 36 of the Federal Court Rules.
+<p> <TABLE> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>I</b><b>N THE FEDERAL COURT OF AUSTRALIA</b> <br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>VICTORIA  DISTRICT REGISTRY</b> <br><br></TD> <TD colspan=1 align="left"><b>) VG744 of 1996</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>GENERAL DIVISION</b> <br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR></TABLE><TABLE> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>			BETWEEN:		</b> <br><br></TD> <TD colspan=1 align="left"><b>DOUGLAS HECTOR DOUGLAS &amp; ORS</b>
+<p> <b>Applicants</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>			    AND:		</b> <br><br></TD> <TD colspan=1 align="left"><b>COMMISSIONER OF TAXATION OF THE COMMONWEALTH OF AUSTRALIA</b>
+<p> <b>Respondent</b> <br><br></TD></TR></TABLE>
+<p> <TABLE> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>J</b><b>UDGE:</b> <br><br></TD> <TD colspan=1 align="left"><b>OLNEY J</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>PLACE:</b> <br><br></TD> <TD colspan=1 align="left"><b>MELBOURNE</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>DATED:</b> <br><br></TD> <TD colspan=1 align="left"><b>6 AUGUST 1997</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD></TR></TABLE> 
+<p> <b><center>MINUTES OF ORDER</b>
+<p> <b></center></b>
+<p> <b>THE COURT ORDERS THAT:</b>
+<p>  
+<p>  1.	The appeal be dismissed.
+<p> 
+<p> 2.	The applicants pay the respondent's costs including any reserved costs.
+<p> 
+<p> 
+<p> Note:   Settlement and entry of orders is dealt with in Order 36 of the Federal Court Rules.
+<p>  
+<p>  
+<p> 
+<p> 
+<p> <TABLE> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>I</b><b>N THE FEDERAL COURT OF AUSTRALIA</b> <br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>VICTORIA  DISTRICT REGISTRY</b> <br><br></TD> <TD colspan=1 align="left"><b>)  VG743 &amp; 744 of 1996</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>GENERAL DIVISION</b> <br><br></TD> <TD colspan=1 align="left"><b>)</b> <br><br></TD></TR></TABLE> 
+<p> <b> <TABLE></b> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>			BETWEEN:		</b> <br><br></TD> <TD colspan=1 align="left"><b>DOUGLAS HECTOR DOUGLAS &amp; ORS</b>
+<p> <b>Applicants</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>			    AND:		</b> <br><br></TD> <TD colspan=1 align="left"><b>COMMISSIONER OF TAXATION OF THE COMMONWEALTH OF AUSTRALIA</b>
+<p> <b>Respondent</b> <br><br></TD></TR></TABLE>
+<p> <TABLE> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> <b>J</b><b>UDGE:</b> <br><br></TD> <TD colspan=1 align="left"><b>OLNEY J</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>PLACE:</b> <br><br></TD> <TD colspan=1 align="left"><b>MELBOURNE</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><b>DATED:</b> <br><br></TD> <TD colspan=1 align="left"><b>6 AUGUST 1997</b> <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD></TR></TABLE>
+<p> <center><b>REASONS FOR JUDGMENT</b>
+<p> </center>
+<p> These two proceedings, which involve the same parties and which were heard together, raise a single issue, namely, whether income
+derived by the applicants as trustees of the Protestant Hall, Geelong, is exempt from income tax.
+<p> 
+<p> Proceeding VG 743 of 1996 relates to an assessment of income tax for the year ending 30 June 1993 whereas proceeding VG 744 of 1996
+relates to an assessment for the year ending 30 June 1994.   The applicants objected to both assessments but their objections were
+disallowed.   The present proceedings are by way of appeal from the respondent's decision disallowing the applicants' objections
+and are brought pursuant to s 14ZZ of the<b> <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/" class="autolink_findacts">Taxation Administration Act 1953</a> </i></b>.
+<p> 
+<p> The applicants claim exemption under each of paragraphs (e), (g) and (j) of  s 23 of the <b><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">Income Tax Assessment Act 1936</a> </i></b> which, to the extent relevant, provides:
+<p> 
+<p> <i>s 23	The following income shall be exempt from income tax;</i>
+<p>  	...
+<p>    (e)	the income of a religious, scientific, charitable or public 	educational institution;
+<p> 	<b>...</b>
+<p>  (g)	the income of a society, association or club which is not carried on 	for the purposes of profit or gain to its individual members
+	and is<b> ...</b>
+<p>  	 
+<p>  	(v)	a society, association or club established for community 	service purposes (not being political purposes or lobbying 	purposes);
+<p> 
+<p> <i>(j)	the incomes of the following funds, provided that the particular fund is being applied for the purpose for which it was established<b> ...</b></i>
+<p> <i> </i>
+<p> <i>	(ii)	a fund established by will or instrument of trust for public charitable purposes;</i>
+<p>  
+<p> <b><u>THE FACTS</u></b>
+<p>  
+<p>  The property known as the Protestant Hall Geelong is situate at the corner of Yarra Street and Little Malop Street Geelong being
+the land comprised in certificate of title volume 3652 folio 266.      The improvements erected on the land consist of a two storey
+building built in the 1880s and a two storey detached annex built in or about 1980.   The original building was opened in April 1889.
+  The ground floor has always been let as office accommodation to commercial tenants.   The upper floor (the hall) is and has always
+been used for meetings.  The annex was constructed in order to generate additional income.    During the two financial years ending
+30 June 1993 and 1994 the ground floor of the original building was leased to a firm of solicitors and the annex was leased to an
+accountant.
+<p> 
+<p> The applicants are the joint registered proprietors of the land which is held by them pursuant to the terms of a deed executed by
+their predecessors in title on 14 January 1905 (the trust deed).   To the extent presently relevant the trust deed provides that:
+<p> 
+<p> <i>"... the Trustees do severally and respectively declare that the said lands and hereditaments and premises were transferred to such
+Trustees upon the trusts to and for the ends intents and purposes in these presents expressed and declared concerning the same, that
+is to say:</i>
+<p>  
+<p> <i>1.	To erect and build thereon, and to repair take down, remove, alter and enlarge and rebuild a hall or building with other rooms
+for lodge or other meetings dwellings or other purposes offices conveniences and appurtenances or any of them in such manner as the
+Trustees shall from time to time deem expedient.</i>
+<p>  
+<p> <i>2.	To permit the said building with the appurtenances at all times to be used as and for a Protestant Hall in which meetings of the
+Loyal Orange and Protestant Alliance Lodges and all Committees thereof and of any other body not disapproved of by the Trustees may
+be held.</i>
+<p>  
+<p> <b>...</b>
+<p>  
+<p> <i>5.	To let at all times the rooms and offices or any part or parts of any building erected on the said lands free of charge or for
+such rent upon such conditions and for such period or terms as to the Trustees may seem fit and the Trustees may collect the rents
+and income to arise in any manner from the said premises AND shall out of the moneys arising therefrom pay all costs in connection
+with the purchase Title and this Declaration of Trust and all duties taxes rates impositions and assessments whether municipal parliamentary
+or parochial and other outgoings lawfully payable in respect of the said premises or any part thereof and of keeping the same insured
+against loss or damage by fire in such sum as they may think and in keeping the same in good repair and condition and pay the interest
+on all moneys due and owing on the security thereof and reimburse themselves all expenses lawfully incurred in the execution of the
+trust of these presents and of cleaning lighting and attending to the premises and apply any surplus towards a sinking fund to reduce
+pay off and discharge any debts existing over the said premises and invest any moneys in their hands on mortgage or real estate in
+Victoria in purchase of Government or Municipal debentures or on deposit in any Banking Company.</i>
+<p>  	<b>...</b>
+<p> 
+<p> <i>8.	It shall be lawful for the Trustees if there are the full number of six acting and they are unanimous at any time absolutely to
+sell and dispose of the said land and hereditaments ...and the Trustees shall apply the money to arise from any such sale so far
+as the same will extend to the discharge of all liabilities lawfully incurred and shall use any balance of such moneys for the purposes
+of acquiring or assisting to acquire another Protestant Hall for Geelong to be held on the like Trusts.	</i>
+<p>  
+<p> 
+<p> The hall has been in continuous use for lodge and various other meetings since its opening in 1889.   The peak use of the hall occurred
+during the 1930's when it was generally in use every night of the week.   Usage declined in the 1940's to about four nights a week
+and remained at about that level until the mid 1970's when it declined further to about three nights a week.
+<p> 
+<p> Apart from the Loyal Orange and Protestant Alliance lodges, the hall has in the past been used, inter alia, by various lodges and
+friendly societies, a political party,  several churches, Alcoholics Anonymous, "Grow" Mental Self Help Organisation and the Protestant
+Churches Cricket Association.   For about two years it was also used by a dancing group.
+<p> 
+<p> The hall is currently used by the following organisations:
+<p> 
+<p> (a)	The Christian Spiritualist Church uses it every Sunday, Thursday nights and occasionally on Saturday afternoons.   The Church
+had met at the hall for a period of sixty years, until it acquired a church.   It returned to the hall in February 1997 after the
+church was badly damaged by fire.
+<p> (b)	Alcoholics Anonymous meets every Monday evening at the hall and has done so for the past fifteen years.
+<p> (c)	The Loyal Orange Lodge has met one night a month at the hall for nine months of the year for the past fifteen years.   Prior
+to that it met three nights a month for eleven months of the year.
+<p> (d)	The Royal Black Preceptory, which is a fraternal society that grew out of the Loyal Orange Lodge, has always used the hall and
+now meets once a month eight times a year.
+<p> 
+<p> Other groups and organisations have used, and do still use, the hall for various periods or occasional meetings.   The Protestant
+Alliance Friendly Society ceased to hold meetings in April 1995.
+<p> 
+<p> <b><u><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">INCOME TAX ASSESSMENT ACT</a>  S 23(e</u>)</b>
+<p>  
+<p>  To claim successfully exemption from income tax under s 23(e) it is necessary (in the present context) that the income be that of
+either "a religious institution" or a "charitable institution".   (It is not said that the trust is either a scientific or public
+educational institution).   Central to each of these descriptions is whether the trustees are properly to be regarded as an institution.
+  In my opinion they are not to be so regarded.
+<p> 
+<p> In <b><i>Minister of National Revenue v Trusts and Guarantee Company Limited</i></b>  <a href="/cgi-bin/LawCite?cit=%5b1940%5d%20AC%20138" title="View LawCiteRecord" class="autolink_findcases">[1940] AC 138</a> the Judicial Committee of the Privy Council had occasion to consider the construction of a Canadian statute which exempted, inter
+alia, charitable institutions from liability for income tax.    The issue arose in circumstances in which a fund had been settled
+on trustees upon trust to pay certain sums to the settlor during his lifetime and upon the expiration of twenty one years after his
+death, to pay the accumulated capital and income to the municipal council of a town in England "for the benefit of the aged and deserving
+poor" of the town.   In the facts of the case their Lordships were in no doubt that the trust in question was a charitable trust.
+  However, in addressing the question of whether the trust should be regarded as a "charitable institution" they said (at p 149):
+<p> 
+<p> <i>It is by no means easy to give a definition of the word "institution" that will cover every use of it.   Its meaning must always depend
+upon the context in which it is found.   It seems plain, for instance, from the context in which it is found in the sub-section in
+question that the word is intended to connote something more than a mere trust.   Had the Dominion Legislature intended to exempt
+from taxation the income of every charitable trust, nothing would have been easier than to say so.   In view of the language that
+has in fact been used, it seems to their Lordships that the charitable institutions exempted are those which are institutions in
+the sense in which boards of trade and chambers of commerce are institutions, such, for example, as a charity organisation society,
+or a society for the prevention of cruelty to children.   The trust with which the present appeal is concerned is an ordinary trust
+for charity. It can only be regarded as a charitable institution within the meaning of the sub-section if every such trust is to
+be so regarded, and this, in their Lordships' opinion, is impossible.   An ordinary trust for charity is, indeed, only a charitable
+institution in the sense that a farm is an agricultural institution.   It is not in that sense that the word institution is used
+in the sub-section.</i>
+<p>  
+<p> In <b><i>Stratton v Simpson</i></b> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1970/45.html" title="View Case" class="autolink_findcases_inserted">[1970] HCA 45</a>;  <a href="/cgi-bin/LawCite?cit=125%20CLR%20138" title="View LawCiteRecord" class="autolink_findcases">125 CLR 138</a> Windeyer J said at p 144:
+<p> 
+<p> <i>A body or organisation which holds property upon a charitable trust and carries out the trust purposes is commonly called a charitable
+institution or a charity.   It is really but the instrument for carrying a purpose into effect.</i>
+<p>  
+<p> His Honour then somewhat critically referred (at p 145) to the passage quoted above from<i> <b>Minister of National Revenue v Trusts and Guardian Company Limited</b></i> but nevertheless having recognised the distinction between the types of institutions referred to and "mere trusts" he said:
+<p> 
+<p> <i>But I can see no reason why, unrestrained by context, a fund raised by public contributions and administered by trustees could not
+be properly called an institution.</i>
+<p>  
+<p> In the same case Gibbs J, with whom Barwick CJ and Menzies J agreed, addressed the meaning of "institution" in these terms (at p
+158):
+<p> 
+<p> <i>In its ordinary sense "institution" means  "an establishment, organisation, or association, instituted for the promotion of some object,
+especially one of public utility, religious, charitable, educational etc"   (The Shorter Oxford English Dictionary).   It means,
+as was said in <b>Mayor etc of Manchester v McAdam</b>  <a href="/cgi-bin/LawCite?cit=%5b1896%5d%20AC%20500" title="View LawCiteRecord" class="autolink_findcases">[1896] AC 500</a> at 511, "an undertaking formed to promote some defined purpose ..." or "the body (so to speak) called into existence to translate
+the purpose as conceived in the mind of the founders into a living and active principle".   Although its meaning must depend on its
+context, it would not ordinarily connote a mere trust (cf. <b>Minister of National Revenue v</b> <b>Trusts and Guarantee Co Ltd</b>.  <a href="/cgi-bin/LawCite?cit=%5b1940%5d%20AC%20138" title="View LawCiteRecord" class="autolink_findcases">[1940] AC 138</a> at 149).</i>
+<p>  
+<p> This passage was subsequently referred to by Stephen J in<b> <i>Commissioner of Land</i></b><i> <b>Tax (NSW) v Joyce and Others</b></i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1974/39.html" title="View Case" class="autolink_findcases_inserted">[1974] HCA 39</a>;  <a href="/cgi-bin/LawCite?cit=%281974%29%2048%20ALJR%20432" title="View LawCiteRecord" class="autolink_findcases">(1974) 48 ALJR 432.</a> The facts in <b><i>Commissioner v Joyce</i> </b>were not all that different from those in the present case insofar as the land in question was simply vested in trustees whose only
+function was the management of the trust property consistently with the trust deed.     His Honour (at p 436) observed:
+<p> 
+<p> <i>The performance of this function cannot, in my view, confer upon these four trustees the quality of an "institution", however widely
+that term may be construed.</i>
+<p>  
+<p> In the present case the applicants have no functions in relation to the trust property apart from those defined in the trust deed.
+  They have no role to play in the affairs of any of the disparate groups who may from time to time have occasion to use the trust
+premises nor of promoting the objects of such groups.   The trust is properly to be regarded as a mere trust and not an institution
+within the meaning of that term in s 23(e) of the<b> <i>Income Tax Assessment</i></b><i> <b>Act 1936 </b> </i>.
+<p> 
+<p> Having regard to the foregoing conclusion the income from the trust is not exempt from tax by reason of s 23(e).   It is however
+worth noting that the trusts declared in the trust deed are in no way related to or qualified by the pursuit of any religious purpose.
+ The only purpose of the trust is to provide a place for the holding of meetings.   Although there is no evidence upon which a definitive
+finding can be based, the Court can take judicial knowledge of the fact that the Loyal Orange Lodge and the Protestant Alliance Lodge
+are organisations which draw their membership from persons whose religious affiliations are such that they are regarded as Protestants
+i.e. members or adherents of any of the Christian bodies that separated from the Roman Communion in the Reformation or their offshoots
+(The Concise Oxford Dictionary).   But that does not clothe the trustees with the character of a religious institution.    Whilst
+it may be that the trustees and indeed their predecessors in title are of a particular religious persuasion the trust deed imposes
+upon them no role in propagating any religious beliefs or activities nor does it confer any benefits that are conditional by any
+religious criteria.  
+<p> 
+<p> Even if the trustees are to be regarded as an institution for the purposes of s 23(c) they are not a religious institution.
+<p> 
+<p> The question of whether the objects of the trust are charitable, and thus if the trustees be found to be an institution whether they
+are a charitable institution, is dealt with  later in these reasons and the conclusion there expressed applies equally in the present
+context.
+<p> 
+<p> <b><u><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">INCOME TAX ASSESSMENT ACT</a> S 23(g)(v</u>)</b>
+<p>  
+<p> Subparagraph (v) of s 23(g) was introduced into the <b><i>Income Tax Assessment Act 1990 </i></b> by the <b><i>Taxation Laws Amendment Act (No 2)</i></b>.   As the section contains no definition of either "society, association or club" or "community service purposes" it should be construed
+according to the ordinary meaning of the words used and, if necessary, after resort to the relevant explanatory memorandum and second
+reading speech.
+<p> 
+<p> Unassisted by authority I would construe the collation "society, association or club" to refer to a voluntary organisation having
+members associated together for a common or shared purpose.   Such a description is consistent with various dictionary definitions
+of the several words used.   The following examples can be found in the Concise Oxford Dictionary:
+<p> 
+<p> Society:	Association of persons united by a common aim or interest or principle;
+<p> Association:	Organised body of persons for a joint purpose;
+<p> Club:		Association of persons united for some common interest, usually meeting 	periodically for shared activity.
+<p> 
+<p> It would be stretching the ordinary usage of these terms to include a group of persons whose only functions are to act as the joint
+registered proprietors of a parcel of land and to administer the property in accordance with the terms of a deed of trust.   Even
+if that be not so the purpose for which the trust was established is not within the ordinary concept of "community service".
+<p> 
+<p> The absence of a statutory definition and the very broad ambit of the words "community service" justify resort to the explanatory
+memorandum to identify more precisely the legislative intention.
+<p> 
+<p> The explanatory memorandum circulated by the then Treasurer upon the introduction of the <b><i>Taxation Laws Amendment Bill (No 2)</i></b> 1990 states at p 19 in dealing with clause 6 of the bill (which introduced what is now s 23(g)(v)):
+<p> 
+<p> <i>Among the institutions exempted from income tax under paragraph 23(e) are charitable institutions.   However, many organisations that
+undertake a range of activities for the benefit or welfare of the community are not charitable, and so such bodies as the traditional
+community service clubs - Apex, Rotary, Lions, Zonta, Quota and the like - have not qualified for exemption.</i>
+<p>  	
+<p> 	<b>...</b>
+<p> And at pp 20-21:
+<p> 
+<p> <i>Paragraph (b) of this clause will introduce subparagraph 23(g)(v) which will exempt from income tax the income of not-for-profit bodies
+established for community service purposes.   The words "for community service purposes" are not defined but are to be given a wide
+interpretation.   The words are not limited to those purposes beneficial to the community which are also charitable.   They extend
+to a range of altruistic purposes.   The words would extend to promoting, providing or carrying out activities, facilities or projects
+for the benefit or welfare of the community, or of any members of the community who have particular need of those activities, facilities
+or projects by reason of their youth, age, infirmity or disablement, poverty or social or economic circumstances.   An exclusion
+from the exemption will apply to bodies established for political or lobbying purposes.</i>
+<p>  
+<p> 	<b>...</b>
+<p>  
+<p>  When purposes are directed to the benefit or welfare of members of the community in particular need, that need must arise by reason
+of youth, age, infirmity or disablement, poverty or social or economic circumstances.   These causes of need are intended to be read
+broadly.   Infirmity or disablement, for example, could be intellectual or physical, and  could be congenital or the product of disease
+or of injury.  Similarly, social or economic circumstances could include such varied matters as sex, living in a remote area, or
+inability to speak English.
+<p> 
+<p> <i>Political or lobbying purposes include standing candidates for election, campaigning for changes to the law or to government policy,
+and the like. Community service organisations may engage in political or lobbying activities, provided these are no more than merely
+incidental to other purposes beneficial to the community.   But a body will be unable to claim exemption from income tax under this
+subparagraph if its only undertakings for the benefit of the community are political or lobbying ones.</i>
+<p>  
+<p> <i>All the traditional service clubs such as Apex, Rotary, Lions, Zonta, Quota and the like and community service organisations such
+as the Country Women's Association of Australia and its constituent Associations are considered to be exempt from income tax under
+the new subparagraph.</i>
+<p>  
+<p> The explanatory memorandum confirms the view previously expressed that the functions of the present applicant as trustees of the
+Protestant Hall Geelong do not come within the exemption contemplated by s 23(g)(v).   The trustees' obligations are simply to hold
+the title to the relevant land, to maintain the building erected on it and to make it available for use to the organisations identified
+in the trust deed.   They do not undertake any activity which could properly be described as being for the benefit or welfare of
+the community. Indeed, they have no authority to expend their surplus funds otherwise than in maintaining the building.
+<p> 
+<p> <b><u>THE INCOME TAX ASSESSMENT ACT S 23(j)(ii</u>)</b>
+<p>  
+<p> The remaining issue is whether the trust is to be regarded as "a fund established <b>... </b>for public charitable purposes" so as to qualify for exemption under s 23(j)(ii).   It is common cause that in determining whether
+the trust is charitable the Court will have regard to the terms of the trust deed rather than the course of events since the execution
+of the deed.
+<p> 
+<p> In <b><i>Incorporated Council of Law Reporting (Queensland) v Federal Commissioner of Taxation</i> </b><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1971/44.html" title="View Case" class="autolink_findcases_inserted">[1971] HCA 44</a>;  <a href="/cgi-bin/LawCite?cit=125%20CLR%20659" title="View LawCiteRecord" class="autolink_findcases">125 CLR 659</a> the High Court had occasion to consider whether the appellant was a "charitable institution" within the meaning of s 23(e).   At
+pp 666-7 Barwick CJ said:
+<p> 
+<p> <i>The Act attempts no definition of charity or of what for its purposes will be charitable.   But having regard to the decision of the
+Privy Council in <b>Chesterman v Federal Commissioner of Taxation</b> <a href="/cgi-bin/viewdoc/au/cases/cth/UKPCHCA/1925/2.html" title="View Case" class="autolink_findcases_inserted">[1925] UKPCHCA 2</a>;  <a href="/cgi-bin/LawCite?cit=%281925%29%2037%20CLR%20317" title="View LawCiteRecord" class="autolink_findcases">(1925) 37 CLR 317</a> it must be taken that whether or not the institution is relevantly charitable will be determined according to the principles upon
+which the Court of Chancery would act in connexion with an alleged charity.   That means that the indications contained in the preamble
+to the Statute of Elizabeth 1601 and the classifications in Lord Macnaghten's speech in <b>Commissioner for Special Purposes of Income Tax v Pemsel </b><a href="http://www.bailii.org/uk/cases/UKHL/1891/1.html" title="View Case" class="autolink_findcases_inserted">[1891] UKHL 1</a>;  <a href="/cgi-bin/LawCite?cit=%5b1891%5d%20AC%20531" title="View LawCiteRecord" class="autolink_findcases">[1891] AC 531</a> at p 583 (Pemsel's case) are to be observed in deciding whether or not the institution is charitable for the purposes of the Act.</i>
+<p>  
+<p> <i>The reported cases may in some instances afford a guide by analogy to the decision whether a particular trust, or a particular purpose
+is charitable. In addition, the many dicta found in the reasons for judgment in such cases, though by no means of one accord, provide
+valuable assistance in resolving such a question.   But in the long run, it seems to me, it is a matter of judgment whether the trust
+or purpose fairly falls within the equity, or as it is sometimes said, "within the spirit and intendments" of the preamble to the
+<b>Charitable Uses Act 1601 </b> (Imp).   This is clearly so in Australia and it would appear still to be so in England where that preamble appears to have been repealed
+by the operation of the<b> Charities Act 1960 </b> (UK).</i>
+<p>  
+<p> The classifications in Lord MacNaughten's speech to which Barwick CJ referred were expressed by His Lordship thus:
+<p> 
+<p> <i>"Charity" in its legal sense comprises four principal divisions:  trusts for the relief of poverty;  trusts for the advancement of
+education;  trusts for the advancement or religion;  and trusts for other purposes beneficial to the community, not falling under
+any of the preceding heads.</i>
+<p>  
+<p> The applicants' primary submission is that the trust in this case falls under the fourth heading namely a trust for "other purposes"
+beneficial to the community.   The authorities do not appear to differentiate between the terms "the community" and "the public"
+when used in the context of charitable trusts and in what follows I have assumed that the two are synonymous.
+<p> 
+<p> Both parties to these proceedings have made reference to two Australian authorities dealing with trusts which have involved the erection
+and maintenance of halls.   It will be useful to consider each in some detail.
+<p> 
+<p> <b><i>Monds v Stackhouse</i></b> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1948/47.html" title="View Case" class="autolink_findcases_inserted">[1948] HCA 47</a>;  <a href="/cgi-bin/LawCite?cit=%281948%29%2077%20CLR%20232" title="View LawCiteRecord" class="autolink_findcases">(1948) 77 CLR 232</a> was an appeal to the High Court (Latham CJ, Dixon and McTiernan JJ)  from the Supreme Court of Tasmania.   The facts, so far as presently
+relevant, were that a testator had bequeathed his residential estate to the Corporation of the City of Launceston "to be held by
+the Corporation as a nucleus of a fund to provide a suitable hall or theatre for the holding of concerts to provide music for the
+citizens of the City and for the production of drama entertainments and the holding of meetings of a cultural or educational value".
+  The trustees of the testator's estate took  out an originating summons in the Supreme Court of Tasmania for the determination,
+inter alia, of the question whether the gift contained in the will was a good charitable gift.   In the Supreme Court Morris CJ held
+that it was.   The High Court was of the same opinion.
+<p> 
+<p> Latham CJ was of the view that the gift fell within Lord MacNaughten's fourth class on the basis that the trust related to an object
+of public general utility which was within the spirit and  intendment of the preamble to the Statute of Elizabeth 1601.   After quoting
+the ten objects specifically referred to in the preamble his Honour said (at p 241):
+<p> 
+<p> <i>In my opinion heads (4) and (10) afford assistance in determining the present case.   Head (10) expressly relates to relief from the
+burdens of taxation.   It has been held that gifts in aid of rates or taxes, though they benefit rich as well as poor, are charitable.
+  In <b>re St Botolph without Bishopsgate Parish Estates</b>  <a href="/cgi-bin/LawCite?cit=%281887%29%2035%20Ch%20D%20142" title="View LawCiteRecord" class="autolink_findcases">(1887) 35 Ch D. 142</a>;  <b>Attorney-General v Bushby </b><a href="http://www.worldlii.org/int/cases/EngR/1857/737.html" title="View Case" class="autolink_findcases_inserted">[1857] EngR 737</a>;  <a href="/cgi-bin/LawCite?cit=%281857%29%2024%20Beav%20299" title="View LawCiteRecord" class="autolink_findcases">(1857) 24 Beav 299</a>  <a href="/cgi-bin/LawCite?cit=53%20ER%20373" title="View LawCiteRecord" class="autolink_findcases">(53 ER 373).</a>   Head (4) relates to the repair of bridges, ports, havens, highways &amp;c., charges in respect of which would normally fall upon
+the public.  Accordingly if a gift is made for a public purpose analogous to any of these purposes so that it is not a gift for the
+benefit of a limited number of individuals, but is really in relief of the public, it is prima facie a good charitable gift.   The
+provision of a public hall is such a purpose.   Such a hall, maintained under public management, such as that of a municipality,
+is available for the general use of the community, and, if it is provided by private benevolence, brings about a reduction of the
+burden of rates and taxes on the community.   In<b> In re Spence: Barclays Bank Ltd v Mayor &amp;c. of Stockton-on-Tees</b>  <a href="/cgi-bin/LawCite?cit=%5b1938%5d%20Ch%2096" title="View LawCiteRecord" class="autolink_findcases">[1938] Ch 96</a> a gift upon trust to apply moneys in the purchase of a suitable site in a certain town and "in or towards" the erection on such site
+of a public hall, the hall to be vested in the corporation, was held to be a valid charitable trust.   In <b>Murray v Thomas</b>  <a href="/cgi-bin/LawCite?cit=%5b1937%5d%204%20All%20ER%20545" title="View LawCiteRecord" class="autolink_findcases">[1937] 4 All ER 545</a> a fund was formed for a soldiers' memorial which was to be "of a useful character possibly in the nature of a memorial hall". Here
+the object was held to be the public betterment and a good charitable object.</i>
+<p>  
+<p> His Honour was also of the view that in the instant case there were special features which independently of the decisions to which
+he had referred, supported the gift.   At p 242 he said:
+<p> 
+<p> <i>The gift is to the municipal corporation of Launceston.   Under the<b> Launceston Corporation Act 1941 </b> (1941) (Tas) the corporation has power to take and hold real and personal property (s 4).   The municipal fund may be applied to
+(inter alia) erecting, purchasing and maintaining buildings belonging to the corporation, the construction, maintenance and management
+of halls (s 91(v) and (x)).   Accordingly, the gift in this case is a gift to a municipal corporation for a public purpose which
+is specifically declared by statute to be one of the purposes in relation to which the corporation may act and expend money.  These
+provisions in my opinion make it clear that the gift in this case is a gift for a beneficial public purpose which is of the same
+type as the trusts with respect to bridges, ports, havens, highways &amp;c., mentioned in the preamble to 43 Eliz. c.4.   Accordingly,
+on this ground also I am of the opinion that the gift falls within head (4) of Lord MacNaughten's classification.</i>
+<p>  
+<p> Dixon CJ (at p 245) considered the purpose of the trust was to make a subvention to a fund enabling the Corporation, in the exercise
+of its functions, to provide a hall or theatre adapted for particular purposes. After referring to various authorities which supported
+the proposition that trusts for the public improvement of a town or locality for the benefit of the inhabitants at large are considered
+charitable his Honour said (at p 246):
+<p> 
+<p> <i>A bequest to a municipal corporation for the purpose of enabling it to provide a hall or towards doing so is clearly charitable. 
+ Indeed any bequest to be applied in the improvement of a city in accordance with the powers of the municipal corporation for the
+benefit of the inhabitants appears to be charitable:   see <b>In re Bones;  Goltz v Ballarat Trustees Executors &amp; Agency Co Ltd</b> <a href="/cgi-bin/viewdoc/au/cases/vic/VicLawRp/1930/51.html" title="View Case" class="autolink_findcases_inserted">[1930] VicLawRp 51</a>;  <a href="/cgi-bin/LawCite?cit=%5b1930%5d%20VLR%20346" title="View LawCiteRecord" class="autolink_findcases">[1930] VLR 346.</a>   Here the bequest is to the municipal corporation itself, and it is made in reliance upon the exercise of appropriate powers by
+that authority.   The City of Launceston is in fact armed with sufficient power.   The <b>Launceston Corporation Act</b> (4 and 5 Geo. VI, No 91) governs the capacity of the Mayor, Aldermen and Citizens of the City of Launceston, which is the full name
+of the corporate body mentioned in the will.   It has power to take, purchase, hold, demise and dispose of real and personal property,
+and generally to do and suffer all such things as bodies corporate may by law do and suffer (s 4).   Among the descriptions of money
+which are to form part of the municipal fund are "endowments and gifts of money" (s 90(1)(xv)).   The purposes to which moneys may
+be applied include erecting, purchasing and maintaining buildings belonging to the corporation and the construction, maintenance
+and management of halls (s 91(v) and (x)).   As might be expected, the corporate powers are expressed to cover the establishment,
+maintenance, improvement and extension of halls (ss 297 and 299(1)(I)).   The powers of purchase and of compulsory acquisition of
+land include such purposes (s 313).   Under the construction which I place upon the gift in the will the corporation is to take the
+residue as a nucleus of a fund to be applied by it to provide a hall of the required description.</i>
+<p>  
+<p> <i>For the reasons I have given, the provision of such a hall is a charitable purpose, and it is within the corporate powers of the body
+to carry it into execution.</i>
+<p>  
+<p> McTiernan J was of the same view.   At p 251 he said:
+<p> 
+<p> <i>The purpose of the gift is of a municipal or public character:  it aims at assisting the citizens of Launceston by providing a public
+hall.   This is an object analogous to those mentioned in the Statute of Elizabeth.   The decisions cited in <b>Halsbury's Laws of England</b>, 2nd ed., vol 4 pp 123, 124, fully warrant this conclusion.   The purpose of the gift is charitable.</i>
+<p>  
+<p> It is fair to observe that the fact that the bequest had been made in favour of the municipal corporation for a purpose which was
+not only within its powers to carry out but was also expressed for the purpose of providing a facility for the citizens of the city
+was the determining factor in the High Court's decision.
+<p> 
+<p> The second authority to which both parties made detailed reference is the decision of the Supreme Court of Tasmania (Zeeman J) in
+<b><i>Perpetual Trustees Tasmania</i> <i>Limited v Attorney General (Tas)</i></b> <b><i>and another</i></b> (Unreported; No 351/1991;  18 November 1993).   The facts of this case were somewhat more complex than those in <b><i>Monds v Stackhouse</i></b>.   By an indenture dated 8 February 1897 one Reid had conveyed, subject to a life interest retained by himself, certain property
+to trustees,
+<p> 
+<p> <i>UPON TRUST to permit and suffer to be erected thereon or upon some part thereof a suitable building or buildings for  a Protestant
+Hall according to such plan and designs and by and under the directions and control of such person or persons as the said Trustees
+should order or direct AND from time to time and at all times after the said buildings should be so erected and built as aforesaid
+permit and suffer all such repairs alterations enlargements additions improvements and rebuildings to be from time to time made in
+or about or upon the said land and any erections which might from time to time be erected thereon as the said Trustees should order
+or direct AND upon trust to permit the same to be forever hereafter used and occupied as an Institute or place of instruction and
+recreation to be called `The Protestant Hall' for the benefit of the inhabitants of the City of Hobart and the vicinity thereof.
+(the inter vivos trust)</i>
+<p>  
+<p> Subsequently, Reid, by his will dated 3 September 1904 devised his real estate to trustees and directed that the net rents and profits
+be used:
+<p> 
+<p> <i>"(1) In the maintenance and repair of the fabric of a certain Hall or Institute situate in Bathurst Street in the city of Hobart and
+known as the `Protestant Hall', which said Hall (has) been erected by me upon an allotment conveyed by me to certain Trustees by
+an Indenture or Deed of Gift dated the 8th day of February one thousand eight hundred and ninety seven and registered 9/7197 and
+in the maintenance and repair to the other messuages or shops or dwelling erected upon the said allotment of land (2) In the keeping
+of the said Hall or Institute open and available for the gathering of persons who are or may become connected with the said Institute
+as Associates thereof under such regulations as may from time to time be made by my Trustees and for meetings in furtherance of the
+doctrines of the Reformed or Protestant Religion or of any bodies or associations professing such doctrines upon such terms or conditions
+as my Trustees may think fit (3) In the giving of prizes or rewards to Associates of the said Institute or to other persons connected
+therewith or receiving religious instruction therein for encouraging the study of and an acquaintance with the doctrine and principles
+of the Reformed or Protestant Religion and for providing for such religious instructions as aforesaid (4) In the formation of a library
+of books setting forth the aforesaid doctrines and principles which said library shall be placed and maintained in the said Institute
+and with which said library shall be placed the books which I have collected as aforesaid (5) AND generally in and about the promotion
+in Hobart by means of the said Institute of the aforesaid doctrines and principles.</i>
+<p>  
+<p> Zeeman J construed the deed by which the <i>inter vivos</i> trust was created as requiring the trustees (subject to the reservation of the settlor's life interest) -
+<p> 
+<p> 1.	To permit the construction on some part of the land of a suitable building or buildings 	for  a Protestant Hall;
+<p> 2.	To permit repairs etc to be made to any such building or buildings;
+<p> 3.	To permit the whole of the land and the buildings thereon from time to time, to be used 	and occupied as an institution or place
+of instruction or recreation to be called the 	Protestant Hall for the benefit of the inhabitants of the city of Hobart and its vicinity.
+<p> 
+<p> At p 11 (Butterworths Unreported Judgments BC 9300137) His Honour said:
+<p> 
+<p> <i>I have no hesitation in concluding that each of the two trusts is a charitable trust.   Each of the trusts is one which is of public
+benefit in that it is a benefit for an appreciable, although unascertained and indefinite portion of the community (see<b> Re Income Tax Acts (No 1)</b> <a href="/cgi-bin/viewdoc/au/cases/vic/VicLawRp/1930/33.html" title="View Case" class="autolink_findcases_inserted">[1930] VicLawRp 33</a>;  <a href="/cgi-bin/LawCite?cit=%5b1930%5d%20VLR%20211" title="View LawCiteRecord" class="autolink_findcases">[1930] VLR 211</a> at 222-223).   Each of the trusts may be described as being for the advancement of education, for the advancement of religion and
+for other purposes beneficial to the community so that it comes within the test laid down by Lord McNaughten in <b>Commissioners for Special Purposes of Income Tax v Pemsel</b> <a href="http://www.bailii.org/uk/cases/UKHL/1891/1.html" title="View Case" class="autolink_findcases_inserted">[1891] UKHL 1</a>;  <a href="/cgi-bin/LawCite?cit=%5b1891%5d%20AC%20531" title="View LawCiteRecord" class="autolink_findcases">[1891] AC 531</a> at 583.</i>
+<p>  
+<p> The terms of the trusts considered in the two authorities discussed above are readily distinguishable from the terms of the trust
+deed in the present case. In <b><i>Monds v</i> <i>Stackhouse</i> </b>the bequest was made in favour of a municipal council for a purpose which was within the ordinary scope of the council to carry out
+and which was clearly for a beneficial public purpose. In<b> <i>Perpetual Trustees v Attorney General</i> <i>(Tas)</i></b> the <i>inter vivos</i> trust was expressed to be for the benefit of the inhabitants of the City of Hobart and its vicinity.   Again, there was a clear expression
+of a beneficial public purpose.   But no such conclusion can be drawn from the trust deed relating to the Protestant Hall Geelong.
+  The primary purpose expressed in the deed (paragraph 1) is to provide "a hall or building with other rooms for lodge or other meetings,
+dwellings or other purposes, offices, conveniences and appurtenances or any of them".  Nothing in this paragraph could be construed
+as evidencing a purpose beneficial to the community. Paragraph 2 of the trust deed does however refine the general provisions of
+paragraph 1 by providing that the trustees are to permit "the said building and appurtenances at all times to be used as and for
+a Protestant Hall in which meetings of the Loyal Orange and Protestant Alliance Lodges and all committees thereof and of any other
+body not disapproved of by the trustees may be held".
+<p> 
+<p> One construction of paragraph 2 that is open on the words used is that the whole of the building and appurtenances must at all times
+be available to the two lodges and the other bodies referred to for the holding of meetings. Whilst such a construction may be open
+if the paragraph is taken in isolation, it would contradict the obvious intention expressed in paragraph 1 that the building may
+also be used for dwellings and offices.   In my opinion the preferred construction of the two paragraphs when read in context is
+that whatever other uses the building or any part thereof may be put to, the two lodges and other bodies are to be provided with
+the facility of a meeting place as and when required.   Apart from the two lodges, the trustees clearly retain the power to determine
+which bodies shall be accorded the facility of using the building for meetings.   The trustees are not constrained in any way in
+determining to what "other bodies" they may extend their disapproval and thus the use of the hall by bodies other than the two named
+lodges is entirely a matter for the trustees' discretion.   The hall is clearly not available to whoever may want to use it.
+<p> 
+<p> Neither<b> <i>Monds v Stackhouse</i></b> nor <b><i>Perpetual Trustees v Attorney General (Tas)</i></b> is authority for the general proposition that the provision of a hall, even one which is made available for the use of the community
+at large is to be regarded as a charitable objective.   Many halls and other meeting places are provided by commercial interests
+for public use. Mere availability for use by the public is not the determining factor even if in the circumstances of the case there
+is some benefit to the community in having such a facility available.   As Barwick CJ said in<b> <i>Incorporated Council of Law Reporting (Qld) v Federal Commissioner of</i> <i>Taxation</i></b> at p 667:
+<p> 
+<p> <i>Not every purpose beneficial to the community is a charitable purpose but only those which are within the equity of the preamble to
+the Statute of Elizabeth.   The purpose must not be merely beneficial;  it must also be charitable.</i>
+<p>  
+<p> The only basis upon which it is said that the trust presently under consideration comes within the equity of the preamble to the
+<b><i>Statute of Elizabeth </i></b>is that it provides a facility that some organisations are permitted to use.   In my opinion this is not a sufficient basis to bring
+the trust within the scope of the spirit and intendment of the statute.
+<p> 
+<p> The exemption provided for in s 23(j)(ii) is available only to funds of the type described which have been established for "public
+charitable purposes". In circumstances in which the applicant seeks to rely upon the fourth class of charity identified by Lord MacNaughton,
+it probably makes no difference that the legislature has used the words "public charitable purpose" rather than "charitable purpose"
+although in other cases the contrary may be so.   Be that as it may, in order to come within the scope of s 23(j)(ii) it is necessary
+that the applicants demonstrate that the benefit of the trust is enjoyed by the public.
+<p> 
+<p> The meaning of "public" when used in a similar context was considered by the Full Court of the Supreme Court of Victoria in <b><i>Re Income Tax Acts (No 1)</i></b> <a href="/cgi-bin/viewdoc/au/cases/vic/VicLawRp/1930/33.html" title="View Case" class="autolink_findcases_inserted">[1930] VicLawRp 33</a>;  <a href="/cgi-bin/LawCite?cit=%5b1930%5d%20VLR%20211" title="View LawCiteRecord" class="autolink_findcases">[1930] VLR 211.</a>   The question that there fell for determination was whether a benevolent asylum to which only Freemasons and their wives and the
+widows of Freemasons were eligible for admission was a "public benevolent asylum" within the meaning of s 29 of the <b><i><a href="/cgi-bin/viewdoc/au/legis/vic/hist_act/ita1915116/" class="autolink_findacts">Income Tax Act 1915</a> </i></b><i> (Vic).</i>
+<p>  
+<p>  In a short judgment in which he concurred with the conclusions of the other members of the Court Irvine CJ said at p 215:
+<p> 
+<p> <i>The determination of the point raised by the special case depends upon the answer to be given to the simple question whether this
+benevolent asylum is a public benevolent asylum.   I think the negative answer to that question may be supported by a very narrow
+proposition, namely, that a benevolent asylum of which the benefits are limited to members of a voluntary association and their wives
+and the widows of deceased members - such association being constituted by election by existing members and thus possessing the power
+of arbitrary exclusion - cannot be said to be covered by the description "public benevolent asylum".</i>
+<p>  
+<p> The other members of the court dealt with the matter in more detail.   At pp 216-7 Macfarlane J said:
+<p> 
+<p> <i>The authorities, I think, bring out what is after all merely a matter of English - that "the public" does not mean necessarily the
+whole community. "Public" may mean a section of the community, that is, a section of the "public" in the larger sense.   What is
+meant by a section of the public?   Now in one sense every considerable body or collection of persons in a community is a section
+of the public, a section of the community.   But many of such bodies are neither public nor a section of the public in the sense
+intended by the authorities.   The exact discrimen may be difficult to formulate, and is best brought out by an illustration.   Seamen
+are a section of the public, whereas the Seamen's Union is not.   Any member of the community who happens to have the necessary natural
+qualification may become a seaman, but before he can become a member of the Union he must obtain the consent of the Union.   So Jews,
+if they exist in a community in fairly large numbers, may be a section of the public, but "The Society for the Repatriation of Jews"
+is not.   Any person may become a resident of a particular locality, and the residents thereof may constitute a section of the public.
+  There are cases of greater difficulty. For example, the members of Gray's Inn might not constitute a section of the public, whereas
+all barristers might, although ultimately the right to be called to the bar might only be obtained by enrolment in an Inn or similar
+institution.   It may be that the common characteristic of the sections of the community which can properly be described as "sections
+of the public" in the relevant sense is, roughly speaking, that the right to membership of, or inclusion in them depends only on
+the possession of natural attributes or attributes which any member of the community may acquire, and does not depend on the consent
+of the other members of that section.   What is clear is that, generally speaking, if admission to membership of a body or inclusion
+in a class depends on the consent of the other members or of some of the members (e.g., a committee) of the body or class it is not
+"a section of the public" in the relevant sense of the term:   and I prefer to express it in that negative form.</i>
+<p>  
+<p> And at pp 222-3 Lowe J said:
+<p> 
+<p> <i>There is, I think, one element connoted by the word "public" in relation to all these institutions which justifies the use of the
+word.   It is the carrying on of the institution for the benefit of the public generally, or at least of a definitely ascertainable
+section of the public, where the benefit of the institution is available without discrimination to every member of the public or
+of that section of it.   The absence of this element prevents an institution from being public within the meaning of the section
+of the Act, though its presence is not necessarily conclusive that the institution is public.</i>
+<p>  
+<p> <i>It may not be easy or even possible to enumerate in advance the differentia of a "section of the public" within this rule, but I illustrate
+along what lines a conclusion may be arrived at.   Having regard to the composition of the public, certain large groups may readily
+be recognised, the members of which have a common calling or adhere to a particular faith or reside in a particular geographical
+area.   There is no bar which admits some members of the public to those groups and rejects others.  Any member of the public may,
+if he will, follow a particular calling, adhere to a particular faith, or reside within a particular area.   Of the member of such
+a group it may be said in a real sense that they are primarily members of the public, and such a group may well constitute a section
+of the public.   They stand on one side of the line. Each group, it is true, may consist of many individuals, but number alone is
+not the criterion by which to determine whether the group constitutes a section of the public.   A club, a literary society, a trade
+union may all have numerous members, but I think that none of these could properly be called a section of the public.   They stand
+on the other side of the line.   The distinguishing feature of each of these latter bodies is that it is an association which takes
+power to itself to admit or exclude members of the public according to some arbitrary test which it sets up in its rules or otherwise.
+  Each of them does oppose a bar to admission within it.   It is not one of the groups into which the community as a matter of necessary
+organization or by convention is divided, but it is in a sense an artificial entity which exists for the benefit of its members as
+members thereof and not as members of the public.</i>
+<p>  
+<p> These observations were approved of and adopted by Dixon CJ in <b><i>Thompson v Federal Commissioner of Taxation </i></b><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1959/66.html" title="View Case" class="autolink_findcases_inserted">[1959] HCA 66</a>;  <a href="/cgi-bin/LawCite?cit=102%20CLR%20315" title="View LawCiteRecord" class="autolink_findcases">102 CLR 315</a> at 323-4 and are apposite in the context of s 23(j)(ii) and its application to the trust deed relating to the Protestant Hall Geelong.
+<p> 
+<p> To the extent that the terms of the trust may be thought to provide any benefit to the community, they are limited to permitting
+two named lodges and other bodies not disapproved of by the trustees to hold meetings in the premises. For the reasons explained
+by the Victorian Full Court in <b><i>re Income Tax Acts (No 1) </i></b>neither the Loyal Orange Lodge nor the Protestant Alliance Lodge can be identified as a section of the public nor can the other "bodies"
+referred to in the deed.   In the latter case the bodies in question must overcome the additional hurdle of being not disapproved
+of by the trustees a matter about which the trust deed provides no direction but leaves entirely in the trustees' discretion.   (see
+<b><i>Rex v The Special Commissioners of Income Tax ex parte Rank's Trustees </i></b>8TC 286 per Lord Trevithin CJ at p 288).
+<p> 
+<p> There is clearly nothing about the terms of the trust deed which encompasses the public or any identifiable section of the public.
+  It follows that the trust does not fall within the description of a fund established for "public charitable purposes".
+<p>  
+<p> <b><u>CONCLUSION</u></b>
+<p>  
+<p>  The applicants have failed to demonstrate as a matter of law that any of the various exceptions provided by s 23 of the <b><i>Income Tax Assessment Act</i></b> upon which they rely is applicable to the income derived by them in their capacity as trustees of the Protestant Hall Geelong. In
+these circumstances the appeal in each proceeding will be dismissed with costs.
+<p> <TABLE> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> I certify that this and the preceding fifteen (15) pages are a true copy of the Reasons for Judgment herein of the Honourable Justice
+Olney  <br><br></TD></TR></TABLE>
+<p> 
+<p> Associate:
+<p> 
+<p> Dated:		6 August 1997
+<p> 
+<p> <TABLE> <TR rowspan=1 align="left"> <TD colspan=1 align="left">
+<p> Counsel for the Applicant: <br><br></TD> <TD colspan=1 align="left">Mr M. Flynn <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left">Solicitor for the Applicant: <br><br></TD> <TD colspan=1 align="left">McCracken &amp; McCracken <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left">Counsel for the Respondent: <br><br></TD> <TD colspan=1 align="left">Ms A. Richards <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left">Solicitor for the Respondent: <br><br></TD> <TD colspan=1 align="left">Australian Government Solicitor <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left">Date of Hearing: <br><br></TD> <TD colspan=1 align="left">2 June 1997 <br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR rowspan=1 align="left"> <TD colspan=1 align="left">Date of Judgment: <br><br></TD> <TD colspan=1 align="left">6 August 1997 <br><br></TD></TR></TABLE>
+<p> <!--sino noindex-->
+      </article>
+    </div> <!-- page-main -->
+
+
+<!-- Document Sidebar -->
+    <div id="page-side">
+
+
+
+<!-- insert search-context.tx here when searching -->
+
+
+      <div class="side-element side-print">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M15.6 19.6h-10c-.6-.2-1-.6-1-1.3v-3.5H2.2c-.7 0-1.2-.5-1.2-1.2V5.3C1 4.5 1.5 4 2.2 4H4.6V1.6c0-.6.3-1 .9-1.2h10.2c.6.2.9.6.9 1.3V4H19c.5 0 .9.3 1.1.8 0 .1 0 .1.1.2v8.9c-.2.6-.6.9-1.3.9H16.6v3.6c0 .5-.4 1-.9 1.2h-.1zm3.4-6V5.2H2.2v8.4h2.4v-1.2H4c-.3 0-.5-.1-.5-.4-.2-.4.1-.8.6-.8h13.1c.4 0 .6.3.6.6s-.3.6-.6.6h-.6v1.2H19zm-3.6-1.2H5.8v6h9.6v-6zm0-10.8H5.8V4h9.6V1.6zM15.4 8.2c0-.3.3-.6.6-.6s.6.3.6.6-.3.6-.6.6-.6-.3-.6-.6zM10.6 13.6h3c.3 0 .6.2.6.5s-.2.6-.5.7H7.6c-.4 0-.7-.3-.7-.6s.3-.6.7-.6h3zM10.6 17.2H7.7c-.4 0-.7-.2-.7-.6 0-.3.3-.6.7-.6h5.9c.4 0 .7.2.7.6 0 .4-.3.6-.7.6h-3z"></path>
+        </g></svg>
+        <h4>Print</h4>
+        <ul>
+          <li> <a class="print-special" href="javascript:void(0);">Print (pretty)</a> </li>
+          <li> <a class="print-minimal" href="javascript:void(0);">Print (eco-friendly)</a> </li>
+        </ul>
+      </div> <!-- side-print -->
+
+
+      <div class="side-element side-download">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M12.5.9c1.3.5 1.7 1.5 1.7 2.9-.1 1.6 0 3.3 0 5h3.1c0 .1.1.1.1.2-.2.3-.3.5-.6.8l-5.3 5.3c-.7.6-1 .7-1.6.1-1.9-1.9-3.7-3.7-5.6-5.5-.1-.2-.3-.4-.6-.8H7c0-.4 0-.7.1-.9V3.8C7 2.4 7.4 1.4 8.7.9h3.8zM1.4 14.5h1.4v2.4c0 .9.2 1.1 1 1.1h13.5c.9 0 1-.2 1.1-1.1v-2.4h1.4v3.2c-.3.9-.9 1.4-1.7 1.7h-15c-.9-.3-1.4-.9-1.7-1.7v-3.2z"></path>
+        </g></svg>
+        <h4>Download</h4>
+        <p>No downloadable files available</p>
+      </div> <!-- side-download -->
+
+      <div class="side-element side-cited-by">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M10.2 16.6c-.9-.2-1.8-.3-2.7-.5-1.5-.4-2.9-1.1-4-2.3-3-3-2.9-7.4.4-10.1C6.2 1.7 9 1.1 12 1.4c1.7.2 3.2.8 4.6 1.8 3.1 2.3 4 5.6 2.5 9.2-.8 2-2.3 3.4-4 4.6-2.3 1.5-4.8 2.2-7.4 2.5h-.2c-.1-.1-.2-.1-.4-.2 0-.1 0-.3.2-.3.7-.4 1.4-.7 2-1.1.4-.3.7-.8.9-1.3z"></path></svg>
+        <h4>Cited By</h4>
+        <ul>
+          <li> <a href="/cgi-bin/LawCite?cit=[1997] FCA 724"> LawCite records</a> </li>
+          <li> <a href="/cgi-bin/sinosrch.cgi?method=boolean&query=1997 FCA 724 or FCA 1997 724"> NoteUp references</a> </li>
+          <!-- li> <a href=""> NoteUp references</a> </li -->
+        </ul>
+      </div> <!-- cited-by -->
+
+
+
+
+
+
+
+      <div class="side-element side-social">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M20.7 3.7c-.7.3-1.5.5-2.4.6.9-.5 1.5-1.3 1.9-2.3-.8.5-1.7.8-2.7 1-.8-.8-1.9-1.3-3.1-1.3-2.3 0-4.2 1.9-4.2 4.2 0 .3 0 .6.1 1C6.9 6.7 3.8 5 1.7 2.5c-.4.6-.6 1.3-.6 2.1 0 1.4.8 2.7 1.9 3.5-.7-.1-1.3-.3-1.9-.6v.1c0 2 1.4 3.7 3.4 4.1-.4.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.7 2.1 2.9 3.9 2.9-1.4 1.1-3.2 1.8-5.2 1.8-.3 0-.7 0-1-.1 1.9 1.2 4.1 1.9 6.4 1.9 7.7 0 11.9-6.4 11.9-11.9v-.5c.8-.6 1.6-1.3 2.1-2.1z"></path></svg>
+        <h4>Join the discussion</h4>
+        <ul>
+          <li> <a href="https://twitter.com/intent/tweet?text=%E2Douglas Hector Douglas v Commissioner of Taxation of the Commonwealth of Australia [1997] FCA 724 (6 August 1997)%E2%80%9D&amp;url=http://www.austlii.edu.au/au/cases/cth/FCA/1997/724.html&amp;via=austlii&amp;hashtags=austlii" target="_blank">Tweet this page</a> </li>
+          <li> <a href="https://twitter.com/intent/user?screen_name=AustLII" target="_blank">Follow @AustLII on Twitter</a> </li>
+<!--
+          <li> <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=austlii" target="_blank">Recent tweets about AustLII</a> </li>
+-->
+        </ul>
+      </div>
+
+
+    </div> <!-- page-side -->
+
+
+
+    <footer class="closing">
+      <div class="inner">
+        <!--<ul class="closing-primary">
+      <li><a href="database-all.html">All Databases</a></li>
+      <li><a href="database-cases.html">Cases &amp; Legislation</a></li>
+      <li><a href="database-journals.html">Journals &amp; Scholarships</a></li>
+      <li><a href="database-treaties.html">Treaties</a></li>
+      <li><a href="database-libraries.html">Libraries</a></li>
+      <li><a href="#">LawCite</a></li>
+    </ul>-->
+        <ul class="closing-tertiary">
+          <li> <a href="/austlii/">About</a> </li>
+          <li> <a href="/austlii/copyright.html">Copyright &amp; Usage</a> </li>
+          <li> <a href="/austlii/privacy.html">Privacy</a> </li>
+          <li> <a href="/austlii/disclaimers.html">Disclaimers</a> </li>
+          <li> <a href="/austlii/help/">Help</a> </li>
+        </ul><small>http://www.austlii.edu.au/au/cases/cth/FCA/1997/724.html</small>
+      </div>
+    </footer>
+
+  </div> <!-- page-content -->
+
+  <script src="/js/production.min.js">
+  </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"f74b553413eb4a50949f5730dcd56219"}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a21b14adab5ee7e2',t:'MTc4NTE0OTQwMQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

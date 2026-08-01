@@ -4,8 +4,12 @@ import functools
 import json
 import re
 import logging
+import sqlite3
+import time
 from pathlib import Path
 from typing import Any
+
+import numpy as np
 
 from fastapi import HTTPException
 from backend.config import DATA_DIR, COMMENTARY_DIR, CASE_DIR, RULING_DIR, ATO_RULING_DIR, PUBLICATION_NAMES, PUB_ACT_MAP
@@ -205,19 +209,158 @@ def _load_citation_index() -> dict[str, dict[str, list[dict]]]:
     return {}
 
 
+def _get_embedding_db():
+    """Get a connection to the embeddings database."""
+    db_path = DATA_DIR / "embeddings.db"
+    if db_path.exists():
+        return sqlite3.connect(str(db_path))
+    return None
+
+
+_COURT_MAP = {
+    'high court of australia': 'HCA',
+    'federal court of australia (full court)': 'FCAFC',
+    'federal court of australia - full court': 'FCAFC',
+    'full court of the federal court of australia': 'FCAFC',
+    'federal court of australia': 'FCA',
+    'administrative appeals tribunal': 'AATA',
+    'administrative appeals tribunal of australia': 'AATA',
+    'administrative review tribunal': 'ARTA',
+    'administrative review tribunal (general division)': 'ARTA',
+    'administrative review tribunal - general division': 'ARTA',
+}
+
+def _map_court(act_name: str, fallback_id: str = "") -> str:
+    """Map a full court name to a short code.
+    
+    Args:
+        act_name: The court name from the embeddings 'act' field.
+        fallback_id: The source ID (e.g. austlii citation), used to infer
+                     court when act_name is 'unknown'.
+    """
+    key = act_name.lower().strip()
+    # Exact match first
+    if key in _COURT_MAP:
+        return _COURT_MAP[key]
+    # Strip parentheticals and try again
+    stripped = re.sub(r'[\(\)\-]', '', key).strip()
+    if stripped in _COURT_MAP:
+        return _COURT_MAP[stripped]
+    # Fuzzy: match if all significant words appear
+    for pattern, code in _COURT_MAP.items():
+        pwords = set(pattern.split())
+        kwords = set(key.split())
+        if pwords and pwords.issubset(kwords):
+            return code
+        # Try stripped version
+        stripped_pwords = {w.strip('()') for w in pwords}
+        stripped_kwords = {w.strip('()') for w in kwords}
+        if stripped_pwords and stripped_pwords.issubset(stripped_kwords):
+            return code
+    # Fallback: try to infer from the citation format
+    if fallback_id:
+        parts = fallback_id.split('_')
+        if len(parts) >= 2:
+            court_code = parts[1]
+            valid_codes = {'HCA', 'FCAFC', 'FCA', 'AATA', 'ARTA'}
+            if court_code in valid_codes:
+                return court_code
+    return "Other"
+
+
+def _find_similar_via_embeddings(act: str, section: str, target_type: str, limit: int = 10) -> list[dict]:
+    """Find related cases or rulings via embeddings similarity index."""
+    db = _get_embedding_db()
+    if db is None:
+        return []
+    
+    try:
+        # Find section embedding IDs
+        sec_ids = db.execute(
+            "SELECT id FROM embeddings WHERE act = ? AND section = ? AND source_type = 'section'",
+            (act, section)
+        ).fetchall()
+        
+        if not sec_ids:
+            return []
+        
+        ids = [r[0] for r in sec_ids]
+        placeholders = ",".join("?" * len(ids))
+        
+        # Query similarity_index for cross-type neighbors
+        rows = db.execute(f"""
+            SELECT DISTINCT e.act, e.section, e.section_title, MAX(s.similarity) as max_sim
+            FROM similarity_index s
+            JOIN embeddings e ON s.neighbor_id = e.id
+            WHERE s.embedding_id IN ({placeholders})
+            AND e.source_type = ?
+            AND e.section IS NOT NULL
+            GROUP BY e.section, e.act
+            ORDER BY max_sim DESC
+            LIMIT ?
+        """, ids + [target_type, limit]).fetchall()
+        
+        results = []
+        for r in rows:
+            item = {"type": target_type}
+            if target_type == "case":
+                # For cases: section = austlii citation, section_title = case name
+                item["citation"] = r[1]  # e.g., "2023_AATA_3074"
+                item["title"] = r[2] or r[1]  # case name
+                item["court"] = _map_court(r[0], r[1])  # court code from the act field
+            else:
+                # For rulings: section = ruling ID, section_title = ruling description
+                item["citation"] = r[1]  # e.g., "AID_2011_104"
+                item["title"] = r[2] or r[1]  # ruling title
+                item["year"] = 0
+                item["ato_url"] = ""
+            results.append(item)
+        return results
+    finally:
+        db.close()
+
+
 def get_cases_for_section(act: str, section: str, limit: int = 50, offset: int = 0) -> list[dict]:
-    act_data = _load_citation_index().get(act, {})
-    entries = act_data.get(section, [])
-    cases = [e for e in entries if e.get("type") == "case"]
-    cases = [c for c in cases if classify_case(c.get("title", "")) == "tax"]
+    # Primary: embeddings similarity index (vector-based, highest quality)
+    cases = _find_similar_via_embeddings(act, section, "case", limit)
+    
+    # Fallback 1: citation index
+    if not cases:
+        act_data = _load_citation_index().get(act, {})
+        entries = act_data.get(section, [])
+        cases = [e for e in entries if e.get("type") == "case"]
+        cases = [c for c in cases if classify_case(c.get("title", "")) == "tax"]
+    
+    # Fallback 2: smartlink index (lowest quality, generic placeholder entries)
+    if not cases:
+        smartlinks = get_smartlinks_for_item("section", f"{act}#{section}")
+        case_links = [s for s in smartlinks if s.get("type") == "case"]
+        for cl in case_links:
+            case_id = cl.get("id", "")
+            cases.append({"type": "case", "title": case_id, "citation": case_id})
+    
     end = offset + min(limit, 100)
     return cases[offset:end]
 
 
 def get_rulings_for_section(act: str, section: str, limit: int = 50, offset: int = 0) -> list[dict]:
-    act_data = _load_citation_index().get(act, {})
-    entries = act_data.get(section, [])
-    rulings = [e for e in entries if e.get("type") == "ruling"]
+    # Primary: embeddings similarity index (vector-based, highest quality)
+    rulings = _find_similar_via_embeddings(act, section, "ruling", limit)
+    
+    # Fallback 1: citation index
+    if not rulings:
+        act_data = _load_citation_index().get(act, {})
+        entries = act_data.get(section, [])
+        rulings = [e for e in entries if e.get("type") == "ruling"]
+    
+    # Fallback 2: smartlink index (lowest quality, generic placeholder entries)
+    if not rulings:
+        smartlinks = get_smartlinks_for_item("section", f"{act}#{section}")
+        ruling_links = [s for s in smartlinks if s.get("type") == "ruling"]
+        for rl in ruling_links:
+            ruling_id = rl.get("id", "")
+            rulings.append({"type": "ruling", "title": ruling_id, "citation": ruling_id})
+    
     end = offset + min(limit, 100)
     return rulings[offset:end]
 

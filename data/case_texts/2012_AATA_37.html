@@ -1,0 +1,788 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="en">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Solaris version 5.1.24" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>TDFM and Office of the Australian Information Commissioner [2012] AATA 37 (25 January 2012)</title>
+  <link media="screen" rel="stylesheet" href="/css/screen1.css" />
+  <link media="print" rel="stylesheet" href="/css/print.css" />
+  <meta name="theme-color" content="#ee3224" />
+  <meta name="description" content="Australasian Legal Information Institute (AustLII), a joint facility of UTS and UNSW Faculties of Law." />
+  <link rel="icon" sizes="192x192" href="/images/icon-192.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/icon-shortcut.png" />
+  <meta name="msapplication-TileColor" content="#ee3224" />
+  <meta name="msapplication-TileImage" content="/images/icon/ms.png" />
+  <script src="/js/modernizr.min.js">
+  </script>
+</head>
+<body class=" cases  document ">
+  <header id="page-header">
+    <div id="primary">
+      <a id="page-logo" href="/" tabindex="1"><img src="/images/logo.svg" alt="AustLII"><span class="title-main">AustLII</span></a> <a class="go-search" href="#">Search</a>
+      <h1 id="page-title"><span>Administrative Appeals Tribunal of Australia</span></h1>
+    </div>
+
+
+<!-- Search box
+
+The search box at the top of most pages. Always visible unless the
+'search' variable is set to false, for pages where we don't want
+that box along the top, such as on Advanced Search & LawCite.
+
+'Results' is a class added to database pages, which exposes the ability
+to search just by that database.
+
+'Searchable' is a page variable which indicates the page has checkboxes
+on it - the search box has a radio button for selecting we only search
+the checked areas.
+
+'Extra search' is for those rare extra options found in pages like the
+Aviation Law Association library database.
+-->
+    <form action="/cgi-bin/sinosrch.cgi">
+<input type="hidden" name="meta" value="">
+      <div id="page-search">
+        <h2 class="hide">Search AustLII</h2>
+        <div class="search-box">
+          <a class="search-dropdown" href="javascript:void(0);">&#9660;</a>
+          <fieldset>
+            <legend>Search Options</legend>
+            <ul class="search-options">
+              <li><label for="database-all">All databases <input type="radio" name="mask_path" value="" id="database-all" tabindex="2" 
+/></label></li>
+              <li><label for="database-this">This database only <input type="radio" name="mask_path" value="au/cases/cth/AATA" id="database-this" tabindex="3" 
+checked="checked" 
+/></label></li>
+              <li><label for="database-full">Full text <input type="radio" name="method" value="auto" id="database-full" method="auto" checked="checked" tabindex="6" /></label></li>
+              <li><label for="database-title">Titles only <input type="radio" name="method" value="title" id="database-title" tabindex="7" /></label></li>
+              <li class="advanced-search">
+                <a href="/advanced_search.shtml" tabindex="8">Advanced Search&hellip;</a>
+              </li>
+            </ul>
+          </fieldset><label for="search-box" class="hide">Search term:</label> <input id="search-box" type="text" name="query" 
+  placeholder="Search this database only" 
+  tabindex="9" /><a href="javascript:void(0);" class="search-box-clear hide">&times;</a> <input type="submit" value="Search" tabindex="9" />
+        </div><a class="go-primary" href="#">Close</a>
+      </div>
+    </form>
+
+
+    <ul id="page-tertiary">
+      <li> <a href="/about.html">About</a> </li>
+      <li> <a href="/contact.html">Contact</a> </li>
+      <li> <a href="/copyright.html">Copyright &amp; Usage</a> </li>
+      <li> <a href="/privacy.html">Privacy</a> </li>
+      <li> <a href="/disclaimers.html">Disclaimers</a> </li>
+      <li> <a href="/feedback.html">Feedback</a> </li>
+      <li> <a href="/help.html">Help</a> </li>
+    </ul>
+  </header>
+
+
+<!-- Ribbons
+
+These are the red bars along the top of each page.
+
+Ribbon is a variable set on most pages; it defaults to an expanded view,
+and can be simplified using variables 'intro' (for home) and 'basic' (for
+search, about pages, etc.)
+-->
+  <nav id="ribbon">
+    <div class="inner">
+      <ul>
+        <li class="ribbon-type"> <a href="#" tabindex="10">Type <span>Cases</span></a> </li>
+        <li class="ribbon-jurisdiction"> <a href="#" tabindex="12">Jurisdiction <span>Commonwealth</span></a> </li>
+        <li class="ribbon-database"> <a href="../" tabindex="13">Database <span>Administrative Appeals Tribunal of Australia</span></a> </li>
+        <li class="ribbon-year "> <a href="./" tabindex="14">Year <span>2012</span></a> </li>
+        <li class="ribbon-citation"><a href="#" tabindex="16">Citation <span>[2012] AATA 37</span></a></li>
+      </ul>
+    </div>
+  </nav> <!-- ribbon -->
+
+
+<!-- Panels
+
+The Panel defaults to 'year' view, which is what the database pages all have,
+it's what search results have, etc.
+
+The selections within if statements below are to visualize the 'is-selected'
+class across the various mock pages in the prototype.
+
+When implementing this, pull out the if statements and simply apply 'is-selected'
+when it's appropriate to that particular page.
+
+The options for the panel include:
+* none: the panel doesn't render
+* closed: the panel is present, but closed, adds 'is-closed' class
+* jurisdiction: jurisdiction is open at page load, adds 'is-jurisdiction' class
+* letter: 'starts with' is open at page load, adds 'is-letter' class
+-->
+  <div id="panels" class="is-closed">
+    <div class="inner">
+      <div id="panel-type">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>All Databases</h5> <p></p></a> </li>
+          <li class="panel-type-all is-selected"> <a href="/databases.html"> <h5>Cases &amp; Legislation</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/journals/"> <h5>Journals &amp; Scholarship</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/lawreform/"> <h5>Law Reform</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/other/dfat/"> <h5>Treaties</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/database-libraries.html"> <h5>Libraries</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="http://austlii.community/wiki/"> <h5>Communities</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/lawcite/"> <h5>LawCite</h5> <p></p></a> </li>
+        </ul>
+      </div>
+      <div id="panel-jurisdiction">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>Australia</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/cth/"> <h5>CTH</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/act/"> <h5>ACT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nsw/"> <h5>NSW</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nt/"> <h5>NT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/qld/"> <h5>QLD</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/sa/"> <h5>SA</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/tas/"> <h5>TAS</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/vic/"> <h5>VIC</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/wa/"> <h5>WA</h5></a> </li>
+          <li class="panel-type-all"> <a href="http://www.nzlii.org/databases.html"> <h5>New Zealand</h5></a> </li>
+        </ul>
+      </div>
+      <div id="panel-year">
+        <ul>
+          <li class="panel-type-specific">
+            <div>
+              <h5>Specific Year</h5><a href="#" class="year-specific-dropdown type-specific">Any</a> <select class="type-specific">
+                <option>
+                  2015
+                </option>
+              </select>
+            </div>
+          </li>
+<!--
+          <li class="panel-type-range">
+            <div>
+              <h5>Year Range</h5><a href="#" class="year-range-dropdown-1 type-range-1">1970</a> <select class="type-range-1">
+                <option> 2015 </option>
+              </select> <a href="#" class="year-range-dropdown-2 type-range-2">2015</a> <select class="type-range-2">
+                <option> 2015 </option>
+              </select> <a href="results.html" class="button">Apply</a>
+            </div>
+          </li>
+-->
+        </ul>
+      </div>
+      <div id="panel-letter">
+        <ul>
+          <li class="panel-letter-any"> <a href="#"> <h5>Any</h5></a> </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- "Year" dropdowns
+
+These dropdowns should be generated with data as appropriate.
+The data you see here is for presentatioal purposes.
+-->
+  <div class="year-options-list">
+    <div class="year-specific-options year-options">
+      <ul>
+        <li> <h5><a href="./">Any</a></h5> </li>
+<!--
+        <li> <h5><a href="2012/">2012</a></h5> </li>
+-->
+
+      </ul>
+    </div> <!-- specific-year -->
+
+<!--
+    <div class="year-range-1-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul>
+    </div> --> <!-- year-range-1 -->
+
+<!--
+    <div class="year-range-2-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul> 
+    </div> --> <!-- year-range-2 -->
+
+  </div> <!-- panels -->
+
+
+  <div id="page-content">
+    <div id="page-main">
+      <article class="the-document">
+        <h1>TDFM and Office of the Australian Information Commissioner [2012] AATA 37 (25 January 2012)</h1>
+<!--make_database: source=/home/philip/austlii/db/AATA/data/2012_37.html-->
+<!--sino date 25 January 2012-->
+
+<P>Last Updated: 30 January 2012
+</P>
+
+<p><a name="_GoBack"></a><b>REASONS FOR INTERLOCUTORY DECISION  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2012/37.html" title="View Case" class="autolink_findcases">[2012] AATA
+37</a></b><br><br></p>
+
+<style>
+.ul-none {list-style: none;}
+</style>
+<div style="position:relative; left: -5"><table>
+<tr valign="top">
+<td width="129" valign="top">
+<div><a name="SingleFile"></a>Division</div>
+</td>
+<td width="454" valign="top">
+<div><b>GENERAL ADMINISTRATIVE DIVISION</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div>File Number(s)</div>
+</td>
+<td width="454" valign="top">
+<div><b>2011/5008</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div>Re</div>
+</td>
+<td width="454" valign="top">
+<div><b>TDFM</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<br><br></td>
+<td width="454" valign="top">
+<div>APPLICANT</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div>And</div>
+</td>
+<td width="454" valign="top">
+<div><b>OFFICE OF THE AUSTRALIAN INFORMATION COMMISSIONER </b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<br><br></td>
+<td width="454" valign="top">
+<div>RESPONDENT</div>
+</td>
+</tr>
+</table></div>
+<p></p>
+<p class="h1"><b>
+DECISION</b></p>
+<p></p>
+<div style="position:relative; left: -5"><table>
+<tr valign="top">
+<td width="129" valign="top">
+<div><a name="Heading28"></a>Tribunal</div>
+</td>
+<td width="454" valign="top">
+<div><b>Professor RM Creyke, Senior Member</b><br><br></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div>Date</div>
+</td>
+<td width="454" valign="top">
+<div><b>25 January 2012</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div><a name="DateWrittenReasons"></a>Date of written reasons</div>
+</td>
+<td width="454" valign="top">
+<div><b>25 January 2012</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="129" valign="top">
+<div>Place</div>
+</td>
+<td width="454" valign="top">
+<div><b>Canberra</b></div>
+</td>
+</tr>
+</table></div>
+<p>The application is dismissed. </p>
+<p>...........................[sgd].......................................<br><br><b>Professor
+RM Creyke, Senior Member</b></p>
+<p></p>
+<p><a name="CatchwordsTitle"></a><i>Catchwords</i></p>
+<p><i>TRIBUNALS &#8211; PRACTICE &amp; PROCEDURE - <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy Act 1988</a> (Cth)
+&#8211; complaint regarding request for information under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/" class="autolink_findacts">Freedom of Information
+Act 1982</a> (Cth) - whether complaint solely about refusal of compensation falls
+within <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/s52.html" class="autolink_findacts">s 52</a> &#8211; whether an &#8216;investigation of a complaint&#8217;
+&#8211; meaning of &#8216;complaint&#8217;, &#8216;investigation&#8217;,
+&#8216;act or practice.&#8217;</i><br><br></p>
+<p><a name="LegislationTitle"></a><i>Legislation</i><br><br><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative
+Appeals Tribunal Act 1975</a></i> (Cth) <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s25.html" class="autolink_findacts">ss 25</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">42A</a><br><br><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy Act 1988</a> </i>(Cth)
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s6.html" class="autolink_findacts">ss 6</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s13.html" class="autolink_findacts">13</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s36.html" class="autolink_findacts">36</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s40.html" class="autolink_findacts">40</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s41.html" class="autolink_findacts">41</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">52</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s61.html" class="autolink_findacts">61</a><br><br></p>
+<p><a name="CasesTitle"></a><i>Cases</i></p>
+<p><i>Craig Williamson Pty Ltd v Barrowcliff </i><a href="/cgi-bin/viewdoc/au/cases/vic/VicLawRp/1915/66.html" title="View Case" class="autolink_findcases_inserted">[1915] VicLawRp 66</a>;  <a href="/cgi-bin/LawCite?cit=%5b1915%5d%20VLR%20450" title="View LawCiteRecord" class="autolink_findcases">[1915] VLR 450</a> at 452<i>
+</i></p>
+<p><i>Re Epifano and Privacy Commissioner </i> <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2010/489.html" title="View Case" class="autolink_findcases">[2010] AATA 489</a></p>
+<p><i>Registrar of Titles (WA) v Franzon </i> <a href="/cgi-bin/LawCite?cit=%281975%29%20CLR%20611" title="View LawCiteRecord" class="autolink_findcases">(1975) CLR 611</a> at 618<i>
+</i><br><br></p>
+<p><a name="SecondaryMaterialsTitle"></a><i>  </i></p>
+<p><b>REASONS FOR DECISION</b><br><br><br><br><b>Professor RM Creyke, Senior
+Member</b><br><br><br><br><br><br><b>25 January 2012</b><br><br></p>
+<ol>
+<li style='' value='1' value="1"><a name="Start"></a>On
+16 December 2009, TDFM made a complaint to the Privacy Commissioner that the
+Australian Research Council (ARC) had breached his
+privacy. </li>
+<li style='' value='2' value="2">On
+31 March 2010, Mr Mark Hummerston, Assistant Privacy Commissioner, notified TDFM
+that he would investigate the matter in accordance
+with <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s40.html" class="autolink_findacts">section 40(1)</a> of the
+<i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy Act 1988</a></i> (Cth) (Act). </li>
+<li style='' value='3' value="3">On
+18 November 2011, following extensive consultation and negotiations between
+those involved, Mr Hummerston informed TDFM that he
+was closing the complaint
+under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s41.html" class="autolink_findacts">section 41(2)(a)</a> of the Act because the matter had been dealt with
+appropriately.</li></ol><p>On 23 November 2011, TDFM sought review by the
+Tribunal.  The preliminary issue as to whether the Tribunal had jurisdiction to
+hear
+the application was heard in Canberra at an interlocutory hearing on 13
+January 2012. </p>
+<p><b>History</b></p>
+<ol>
+<li style='' value='4' value="4">TDFM
+is an academic.  In 2009, he was unsuccessful in his application to the ARC for
+a research fellowship.  During the course of
+this matter TDFM&#8217;s contract
+with his former employer was not renewed.  He has since acquired another similar
+position. </li>
+<li style='' value='5' value="5">TDFM
+sought feedback as to the reasons he was unsuccessful, relying on the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/" class="autolink_findacts">Freedom
+of Information Act 1982</a> </i>(Cth) (FOI Act). That request was relayed by the ARC
+to his employer. Following that notification, TDFM&#8217;s supervisor at his
+place of work contacted him to suggest he withdraw his request. </li>
+<li style='' value='6' value="6">On
+16 December 2009, TDFM complained to the Privacy Commissioner that the ARC had
+breached his privacy by passing on information that
+he had made an FOI Act
+request to his employer, and to his supervisor. He sought an apology and
+compensation for the damage to his
+professional reputation and costs incidental
+to the claim for breach of his privacy. </li>
+<li style='' value='7' value="7">The
+Office of the Privacy Commissioner investigated the complaint and formed the
+preliminary view that there had been a breach under
+the Act.  As a consequence,
+on 18 August 2011, the ARC issued a written apology to TDFM, and informed him
+that they would offer training
+to their staff on their privacy obligations. 
+</li>
+<li style='' value='8' value="8">On
+31 August 2011, TDFM approached the ARC &#8216;<i>on an informal
+basis&#8217;</i>, for compensation. On 6 September 2011 the Chief Executive
+Officer of the ARC declined to offer any compensation for the breach.
+</li>
+<li style='' value='9' value="9">TDFM
+was not satisfied, and in correspondence with the Office of the Privacy
+Commissioner on 26 September 2011, he said he believed
+that the ARC should
+&#8216;<i>repair the damages&#8217;</i> to his career.  </li>
+<li style='' value='10' value="10">On
+7 October 2011, the Acting Director in the Compliance Section, Office of the
+Australian Information
+Commissioner,<sup><a name="fnB1" href="#fn1">[1]</a></sup> contacted TDFM.  The
+letter stated:</li></ol><p> <i>I am satisfied that the steps the ARC has taken
+adequately deal with the complaint. As such, I intend to recommend to the
+Assistant
+Privacy Commissioner that he close the complaint under section
+41(2)(a) as having been adequately dealt with by the ARC</i>.<b> </b></p>
+<p>TDFM was advised that if he disagreed with these steps he should provide
+reasons and supporting evidence to the Office of the Australian
+Information
+Commissioner on or before 21 October 2011. </p>
+<ol>
+<li style='' value='11' value="11">On
+7 October 2011, TDFM responded disagreeing with the proposal to close the case.
+He provided reasons, including the significant
+number of hours he had spent on
+his complaint over the previous two years, the inadequacy of the apology, and
+what he said was evidence
+that his career had been jeopardised by the breach of
+his privacy. He also cited public interest grounds.</li>
+<li style='' value='12' value="12">On
+18 November 2011, Mr Hummerston responded, rejecting TDFM&#8217;s reasons.  In
+relation to the claim for compensation he noted
+TDFM had &#8216;<i>not
+substantiated that your losses are as a direct result of the interference of
+your privacy by the ARC.  Therefore I do not consider
+that you are entitled to
+financial compensation in this matter&#8217;</i>.  He concluded that the
+complaint was closed for the reasons outlined in the letter of 7 October 2011
+from the Office of the Information
+Commissioner.  </li>
+<li style='' value='13' value="13">He
+also advised that if TDFM considered <i>&#8216;that the <b>process</b> which
+this Office used to make its decision was unfair&#8217;</i> he could seek
+judicial review of the matter by the Federal Court under the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/adra1977396/" class="autolink_findacts">Administrative
+Decisions (Judicial Review) Act 1977</a></i> (Cth), or complain to the
+Ombudsman.</li></ol><p><b>Legislation</b></p>
+<ol>
+<li style='' value='14' value="14">The
+relevant legislation is the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy Act 1988</a> </i>(Cth) (Act).
+</li></ol><p><b>Issues</b></p>
+<ol>
+<li style='' value='15' value="15">The
+sole issue is whether the Tribunal has jurisdiction under the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy Act
+1988</a></i> (Cth) (Act) to consider the application by TDFM. It is that legislation
+which provides for a right of review by the
+Tribunal.<sup><a name="fnB2" href="#fn2">[2]</a></sup></li></ol><p><b>Consideration</b></p>
+<ol>
+<li style='' value='16' value="16">TDFM
+contended at the hearing that he made two complaints to the Office of the
+Privacy Commissioner: the first related to the initial
+matter involving the
+breach of privacy by the ARC; the second was a complaint against the decision of
+Mr Hummerston not to accede
+to his claim for compensation for what he claimed
+was the consequence of the breach of his privacy. </li>
+<li style='' value='17' value="17">TDFM
+agreed that the action of Mr Hummerston, as Assistant Privacy Commissioner, in 
+deciding not to investigate further the breach
+of privacy complaint under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s41.html" class="autolink_findacts">s
+41(2)(a)</a> of the Act because it had been dealt with adequately by the ARC, was
+correct and was not reviewable by the Tribunal.</li>
+<li style='' value='18' value="18">In
+relation to his claim for compensation, the Office of the Information
+Commissioner,<sup><a name="fnB3" href="#fn3">[3]</a></sup> in its letter of 18
+November 2011, decided that TDFM was not entitled to financial compensation.
+TDFM submitted that this complaint
+came within the terms of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section 52(1)(a)</a> of
+the Act. <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">Section 52(1)</a> states: &#8216;<i>After investigating a complaint, the
+Commissioner may (a) make a determination dismissing the
+complaint&#8217;</i>.</li>
+<li style='' value='19' value="19">TDFM&#8217;s
+submission is that he had made a <i>&#8216;complaint&#8217;</i> in relation to
+his claim for compensation, that it had been <i>&#8216;investigated&#8217;</i>,
+and that a &#8216;<i>determination</i>&#8217; was made by the Privacy
+Commissioner in the letter of 18 November 2011 to dismiss his complaint. 
+Accordingly, he submitted,
+his complaint came within the terms of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section 52.</a>
+The correctness of TDFM&#8217;s submission requires a journey along a statutory
+trail. </li>
+<li style='' value='20' value="20">Appeals
+to the Tribunal are provided for in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s61.html" class="autolink_findacts">sections 61</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s95.html" class="autolink_findacts">95</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s95a.html" class="autolink_findacts">95A</a> and <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s95aa.html" class="autolink_findacts">95AA</a> of the Act. 
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s95.html" class="autolink_findacts">Sections 95</a> to <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s95aa.html" class="autolink_findacts">95AA</a> concern privacy and health information and are not relevant.
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s61.html" class="autolink_findacts">Section 61</a> is contained in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/index.html#p5" class="autolink_findacts">Part V</a> of the Act, which deals with
+&#8216;<i>Investigations</i>&#8217;. <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s61.html" class="autolink_findacts">Section 61</a> is found in Division 4 of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/index.html#p5" class="autolink_findacts">Part
+V</a>, headed &#8216;<i>Review and enforcement of determinations involving
+Commonwealth agencies&#8217;</i>.  </li>
+<li style='' value='21' value="21"><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s61.html" class="autolink_findacts">Section
+61</a> provides that an application may be made to the Tribunal for review
+of:</li></ol><p><i>61(a) a declaration of the kind referred to in subparagraph
+52(1)(b)(iii) or <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">subsection 52(3)</a> that is included in a determination to which
+this Division applies; or</i></p>
+<p><i>(b) a decision of the Commissioner refusing to include such a declaration
+in a determination to which this Division applies.</i></p>
+<ol>
+<li style='' value='22' value="22">The
+&#8216;<i>determination</i>&#8217; referred to is a
+&#8216;<i>determination</i>&#8217; (that is, a decision) referred to in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section
+52.</a> <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">Section 52</a> is located in Division 2 of the Act which is headed
+&#8216;<i>Determinations following investigation of complaints&#8217;</i>. The
+&#8216;<i>declaration&#8217;</i> referred to in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s61.html" class="autolink_findacts">section 61(a)</a> is that a person
+is &#8216;<i>entitled to a specified amount by way of
+compensation&#8217;</i>.</li>
+<li style='' value='23' value="23">Accordingly,
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s61.html" class="autolink_findacts">section 61</a> provides that the Tribunal has jurisdiction to consider a complaint
+about a payment of compensation, but only if made under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section 52(1)(b)(iii).</a>
+That is the only provision relevant to TDFM&#8217;s complaint.</li>
+<li style='' value='24' value="24"><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">Section
+52(1)(b)(iii)</a> provides: </li></ol><p><b><i> </i></b><i>(1)  After
+investigating a complaint, the Commissioner may:
+                    
+</i></p>
+<p><i> (a)  make a determination dismissing the complaint; or (b) 
+find the complaint substantiated and make a determination that  includes
+one or
+more of the following: ...</i></p>
+<p><i>                    
+(iii)  a declaration that the complainant is entitled to a specified amount
+by way of compensation for any loss
+or damage suffered by reason of the act or
+practice the subject of the complaint</i> ... </p>
+<ol>
+<li style='' value='25' value="25"><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">Section
+52</a> provides only for a <i>&#8216;determination&#8217;</i> by the Commissioner
+made &#8216;<i>after investigating a complaint&#8217;.  </i>The issue is<i>
+</i>whether the &#8216;<i>determination</i>&#8217; is limited to a complaint
+about a breach of privacy or extends to a complaint about a related matter such
+as compensation.
+</li></ol><p><i>Investigating a complaint</i></p>
+<ol>
+<li style='' value='26' value="26">The
+term <i>&#8216;investigating&#8217;</i> and the related noun,
+&#8216;<i>investigation&#8217;</i> are not defined.  <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s40.html" class="autolink_findacts">Section 40</a> of the Act,
+however, is headed &#8216;<i>Investigation</i>&#8217; and provides for the
+circumstances in which the Commissioner investigates a breach of privacy.
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s40.html" class="autolink_findacts">Section 40</a> provides as follows:</li></ol><p><a name="_Toc297731571"></a>
+<i>(1)Subject to subsection (1A), the Commissioner shall investigate an act
+or practice if:</i></p>
+<p><i>(a) the act or practice may be an interference with the privacy of an
+individual; and(b) a complaint about the act or practice has
+been made under
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s36.html" class="autolink_findacts">section 36....</a></i></p>
+<p></p>
+<p>Accordingly, an investigation must be of an &#8216;<i>act or
+practice&#8217;</i> which &#8216;<i>may be an interference with the privacy of
+an individual&#8217;</i>. </p>
+<ol>
+<li style='' value='27' value="27">The
+words &#8216;<i>act or practice&#8217;</i> are not defined.  The meaning of the
+expression is provided by <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s13.html" class="autolink_findacts">section 13</a> which appears in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/index.html#p3" class="autolink_findacts">Part III</a> headed
+&#8216;Information privacy, Division 1 &#8211; Interferences with
+privacy&#8217;.  <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s13.html" class="autolink_findacts">Section 13</a> is also headed &#8216;Interferences with the
+privacy&#8217; and states, as relevant:
+</li></ol><p><a name="_Toc297731488"></a><i>	For the purposes of this Act, an
+act or practice is an interference with the privacy of an individual if the act
+or practice:</i></p>
+<p><i>	(a) in the case of an act or practice engaged in by an agency (whether or
+not the agency is also a file number recipient, credit
+reporting agency or
+credit provider)&#8212;breaches an Information Privacy Principle in relation to
+personal information that relates
+to the individual.</i></p>
+<ol>
+<li style='' value='28' value="28">In
+other words, references in the Act to an &#8216;<i>act or practice&#8217;</i>
+are references to  acts or practices which breach privacy by releasing personal
+information relating to an individual contrary to
+the Principles in the Act. 
+</li>
+<li style='' value='29' value="29">The
+word <i>&#8216;complaint&#8217;</i> is also not defined in the Act. The term is
+referred to, however, in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/index.html#p5" class="autolink_findacts">Part V</a> of the Act.  <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s36.html" class="autolink_findacts">Section 36</a>, headed
+&#8216;<i>complaints</i>&#8217; states, as relevant: &#8216;<i>36(1) Subject to
+subsection (1A), an individual may complain to the Commissioner about an act or
+practice that may be an interference
+with the privacy of the
+individual&#8217;</i>. </li></ol><p>In its terms, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s36.html" class="autolink_findacts">section 36</a> refers to
+&#8216;<i>an act or practice&#8217;</i> that may breach privacy; it does not
+refer to a complaint about a rejection of a request for compensation. </p>
+<ol>
+<li style='' value='30' value="30">It
+can be assumed, unless the context otherwise dictates, that when the same
+expression is used in more than one part of an Act the
+expression has the same
+meaning wherever it appears.<sup><a name="fnB4" href="#fn4">[4]</a></sup> So
+when &#8216;<i>complaint</i>&#8217; is used in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section 52</a>, it has the same
+meaning as in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s36.html" class="autolink_findacts">section 36.</a> Similarly, when &#8216;<i>act or practice&#8217;</i>
+or &#8216;<i>investigation</i>&#8217; or &#8217;<i>investigating</i>&#8217; is
+used, the term or expression has the meaning discerned from the sections earlier
+discussed. It follows that the meaning
+of &#8216;<i>After investigating a
+complaint&#8217;</i> in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section 52(1)</a> refers only to an investigation of a
+complaint about a possible breach of privacy.</li>
+<li style='' value='31' value="31">The
+dismissal of the complaint by TDFM of his breach of privacy by Mr Hummerston
+under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s41.html" class="autolink_findacts">section 41(2)(a)</a> did not result in a <i>&#8216;determination&#8217;</i>
+(or decision) under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section 52.</a> Nor did the outcome follow an<i>
+&#8216;investigation&#8217;.</i> The first complaint made by TDFM about a breach
+of his privacy by the ARC, does not, therefore, fall within <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section 52.</a> TDFM
+rightly conceded as much.</li>
+<li style='' value='32' value="32">The
+next step in this interpretive journey is that <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section 52</a>, in its terms, makes
+it plain that the declaration of entitlement to compensation in <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section
+52(1)(b)(iii)</a> is only ancillary to a formal decision that there has been a
+breach of privacy. There is no free-standing right to compensation.
+ An award of
+compensation can only be made following a determination that there has been a
+breach of someone&#8217;s privacy following
+an investigation as referred to in
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section 52.</a> </li>
+<li style='' value='33' value="33">That
+finding is supported by the terms of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section 52(1)(b)(iii)</a> which states that a
+declaration of compensation is tied to &#8216;<i>any loss or damage suffered
+<u>by reason</u> <u>of the act or practice the subject of the
+complaint&#8217;</u></i> <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">(section 52(1)(b)(iii))</a> (emphasis added). The right to
+compensation is dependent on a &#8216;<i>determination</i>&#8217; that there has
+been a breach of privacy. As discussed, no such
+&#8216;<i>determination</i>&#8217; was made in TDFM&#8217;s substantive claim of
+breach of privacy.</li>
+<li style='' value='34' value="34">In
+those circumstances, as the complaint made by TDFM does not fall under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s52.html" class="autolink_findacts">section
+52</a>, the Tribunal has no jurisdiction under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s61.html" class="autolink_findacts">section 61</a> to review the
+matter<sup><a name="fnB5" href="#fn5">[5]</a></sup>.  The Tribunal finds,
+accordingly that it has no jurisdiction to consider TDFM&#8217;s complaint. The
+application is dismissed under
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s42a.html" class="autolink_findacts">section 42A(4)</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals
+Tribunal Act 1975</a></i> (Cth). </li>
+<li style='' value='35' value="35">The
+Tribunal confirms the advice given to TDFM about his opportunities for further
+review by the Federal Court or the Ombudsman.</li></ol><p>I certify that the 35
+preceding paragraphs are a true copy of the reasons for the decision herein of
+Professor RM Creyke, Senior Member.</p>
+<p>Signed:   
+...........................[sgd]...............................................</p>
+<p>Prishika Raj, Associate</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Date of Hearing	  	13 January 2012 </p>
+<p><a name="DateOfHearing"></a>Date of Decision	  	25 January 2012</p>
+<p>Solicitor for the Applicant	  	Self-Represented</p>
+<p><a name="SolicitorForApplicant"></a>Solicitor for the Respondent	  	Louise
+McConnell</p>
+<p><a name="SolicitorForRespondent"></a>Counsel for the Respondent	 	Justin
+Davidson </p>
+<hr><p><sup><i><a name="fn1" href="#fnB1">[1]</a></i></sup><i> During the course of
+these proceedings, the Office of the Australian Information Commissioner was
+established. That has necessitated
+legislative changes to the authority of those
+making decisions under the </i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy Act 1988</a><i> (Cth) and the </i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/" class="autolink_findacts">Freedom of
+Information Act 1982</a><i> (Cth). The Information Commissioner (defined in the
+</i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy Act 1988</a><i> (Cth) <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s6.html" class="autolink_findacts">s 6(1)</a> as the Information Commissioner appointed
+under the </i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aica2010390/" class="autolink_findacts">Australian Information Commissioner Act 2010</a><i> (Cth) <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aica2010390/s3a.html" class="autolink_findacts">ss 3A</a>, <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aica2010390/s14.html" class="autolink_findacts">14</a>),
+is able to exercise authority under both the </i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy Act 1988</a><i> (Cth) and
+the </i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/foia1982222/" class="autolink_findacts">Freedom of Information Act 1982</a><i> (Cth) (</i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aica2010390/" class="autolink_findacts">Australian Information
+Commissioner Act 2010</a><i> (Cth) <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aica2010390/s10.html" class="autolink_findacts">s10).</a> The Information Commissioner, through his
+delegate, exercised that authority in responding to TDFM&#8217;s second
+complaints. </i></p>
+<p><sup><i><a name="fn2" href="#fnB2">[2]</a></i></sup><i> </i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative
+Appeals Tribunal Act 1975</a><i> (Cth) <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s25.html" class="autolink_findacts">s 25.</a> </i></p>
+<p><sup><i><a name="fn3" href="#fnB3">[3]</a></i></sup><i> Act <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s6.html" class="autolink_findacts">s 6(1).</a></i></p>
+<p><sup><i><a name="fn4" href="#fnB4">[4]</a></i></sup><i> </i>Craig Williamson
+Pty Ltd v Barrowcliff<i> <a href="/cgi-bin/viewdoc/au/cases/vic/VicLawRp/1915/66.html" title="View Case" class="autolink_findcases_inserted">[1915] VicLawRp 66</a>;  <a href="/cgi-bin/LawCite?cit=%5b1915%5d%20VLR%20450" title="View LawCiteRecord" class="autolink_findcases">[1915] VLR 450</a> at 452 (Hodges J); </i>Registrar of
+Titles (WA) v Franzon<i>  <a href="/cgi-bin/LawCite?cit=%281975%29%20CLR%20611" title="View LawCiteRecord" class="autolink_findcases">(1975) CLR 611</a> at 618 (Mason J).</i></p>
+<p><sup><i><a name="fn5" href="#fnB5">[5]</a></i></sup><i> A similar finding on
+comparable facts was made in </i>Re Epifano and Privacy Commissioner<i>  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2010/489.html" title="View Case" class="autolink_findcases">[2010]
+AATA 489.</a> </i></p>
+
+
+
+
+<!--sino noindex-->
+      </article>
+    </div> <!-- page-main -->
+
+
+<!-- Document Sidebar -->
+    <div id="page-side">
+
+
+
+<!-- insert search-context.tx here when searching -->
+
+
+      <div class="side-element side-print">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M15.6 19.6h-10c-.6-.2-1-.6-1-1.3v-3.5H2.2c-.7 0-1.2-.5-1.2-1.2V5.3C1 4.5 1.5 4 2.2 4H4.6V1.6c0-.6.3-1 .9-1.2h10.2c.6.2.9.6.9 1.3V4H19c.5 0 .9.3 1.1.8 0 .1 0 .1.1.2v8.9c-.2.6-.6.9-1.3.9H16.6v3.6c0 .5-.4 1-.9 1.2h-.1zm3.4-6V5.2H2.2v8.4h2.4v-1.2H4c-.3 0-.5-.1-.5-.4-.2-.4.1-.8.6-.8h13.1c.4 0 .6.3.6.6s-.3.6-.6.6h-.6v1.2H19zm-3.6-1.2H5.8v6h9.6v-6zm0-10.8H5.8V4h9.6V1.6zM15.4 8.2c0-.3.3-.6.6-.6s.6.3.6.6-.3.6-.6.6-.6-.3-.6-.6zM10.6 13.6h3c.3 0 .6.2.6.5s-.2.6-.5.7H7.6c-.4 0-.7-.3-.7-.6s.3-.6.7-.6h3zM10.6 17.2H7.7c-.4 0-.7-.2-.7-.6 0-.3.3-.6.7-.6h5.9c.4 0 .7.2.7.6 0 .4-.3.6-.7.6h-3z"></path>
+        </g></svg>
+        <h4>Print</h4>
+        <ul>
+          <li> <a class="print-special" href="javascript:void(0);">Print (pretty)</a> </li>
+          <li> <a class="print-minimal" href="javascript:void(0);">Print (eco-friendly)</a> </li>
+        </ul>
+      </div> <!-- side-print -->
+
+
+      <div class="side-element side-download">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M12.5.9c1.3.5 1.7 1.5 1.7 2.9-.1 1.6 0 3.3 0 5h3.1c0 .1.1.1.1.2-.2.3-.3.5-.6.8l-5.3 5.3c-.7.6-1 .7-1.6.1-1.9-1.9-3.7-3.7-5.6-5.5-.1-.2-.3-.4-.6-.8H7c0-.4 0-.7.1-.9V3.8C7 2.4 7.4 1.4 8.7.9h3.8zM1.4 14.5h1.4v2.4c0 .9.2 1.1 1 1.1h13.5c.9 0 1-.2 1.1-1.1v-2.4h1.4v3.2c-.3.9-.9 1.4-1.7 1.7h-15c-.9-.3-1.4-.9-1.7-1.7v-3.2z"></path>
+        </g></svg>
+        <h4>Download</h4>
+        <ul>
+          <li> <a href="/au/cases/cth/AATA/2012/37.rtf">RTF format (254 KB)</a> </li>
+        </ul>
+        <ul>
+          <li> <a href="/cgi-bin/sign.cgi/au/cases/cth/AATA/2012/37">Signed PDF/A format</a> </li>
+        </ul>
+      </div> <!-- side-download -->
+
+      <div class="side-element side-cited-by">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M10.2 16.6c-.9-.2-1.8-.3-2.7-.5-1.5-.4-2.9-1.1-4-2.3-3-3-2.9-7.4.4-10.1C6.2 1.7 9 1.1 12 1.4c1.7.2 3.2.8 4.6 1.8 3.1 2.3 4 5.6 2.5 9.2-.8 2-2.3 3.4-4 4.6-2.3 1.5-4.8 2.2-7.4 2.5h-.2c-.1-.1-.2-.1-.4-.2 0-.1 0-.3.2-.3.7-.4 1.4-.7 2-1.1.4-.3.7-.8.9-1.3z"></path></svg>
+        <h4>Cited By</h4>
+        <ul>
+          <li> <a href="/cgi-bin/LawCite?cit=[2012] AATA 37"> LawCite records</a> </li>
+          <li> <a href="/cgi-bin/sinosrch.cgi?method=boolean&query=2012 AATA 37 or AATA 2012 37"> NoteUp references</a> </li>
+          <!-- li> <a href=""> NoteUp references</a> </li -->
+        </ul>
+      </div> <!-- cited-by -->
+
+
+
+
+
+
+
+      <div class="side-element side-social">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M20.7 3.7c-.7.3-1.5.5-2.4.6.9-.5 1.5-1.3 1.9-2.3-.8.5-1.7.8-2.7 1-.8-.8-1.9-1.3-3.1-1.3-2.3 0-4.2 1.9-4.2 4.2 0 .3 0 .6.1 1C6.9 6.7 3.8 5 1.7 2.5c-.4.6-.6 1.3-.6 2.1 0 1.4.8 2.7 1.9 3.5-.7-.1-1.3-.3-1.9-.6v.1c0 2 1.4 3.7 3.4 4.1-.4.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.7 2.1 2.9 3.9 2.9-1.4 1.1-3.2 1.8-5.2 1.8-.3 0-.7 0-1-.1 1.9 1.2 4.1 1.9 6.4 1.9 7.7 0 11.9-6.4 11.9-11.9v-.5c.8-.6 1.6-1.3 2.1-2.1z"></path></svg>
+        <h4>Join the discussion</h4>
+        <ul>
+          <li> <a href="https://twitter.com/intent/tweet?text=%E2TDFM and Office of the Australian Information Commissioner [2012] AATA 37 (25 January 2012)%E2%80%9D&amp;url=http://www.austlii.edu.au/au/cases/cth/AATA/2012/37.html&amp;via=austlii&amp;hashtags=austlii" target="_blank">Tweet this page</a> </li>
+          <li> <a href="https://twitter.com/intent/user?screen_name=AustLII" target="_blank">Follow @AustLII on Twitter</a> </li>
+<!--
+          <li> <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=austlii" target="_blank">Recent tweets about AustLII</a> </li>
+-->
+        </ul>
+      </div>
+
+
+    </div> <!-- page-side -->
+
+
+
+    <footer class="closing">
+      <div class="inner">
+        <!--<ul class="closing-primary">
+      <li><a href="database-all.html">All Databases</a></li>
+      <li><a href="database-cases.html">Cases &amp; Legislation</a></li>
+      <li><a href="database-journals.html">Journals &amp; Scholarships</a></li>
+      <li><a href="database-treaties.html">Treaties</a></li>
+      <li><a href="database-libraries.html">Libraries</a></li>
+      <li><a href="#">LawCite</a></li>
+    </ul>-->
+        <ul class="closing-tertiary">
+          <li> <a href="/austlii/">About</a> </li>
+          <li> <a href="/austlii/copyright.html">Copyright &amp; Usage</a> </li>
+          <li> <a href="/austlii/privacy.html">Privacy</a> </li>
+          <li> <a href="/austlii/disclaimers.html">Disclaimers</a> </li>
+          <li> <a href="/austlii/help/">Help</a> </li>
+        </ul><small>http://www.austlii.edu.au/au/cases/cth/AATA/2012/37.html</small>
+      </div>
+    </footer>
+
+  </div> <!-- page-content -->
+
+  <script src="/js/production.min.js">
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a21bb9a76896d111',t:'MTc4NTE1NjE1OA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"f74b553413eb4a50949f5730dcd56219"}' crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,8 +1,10 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react'
 import ForceGraph2D from 'react-force-graph-2d'
+import dagre from 'dagre'
+import * as d3Force from 'd3-force'
 import { COLORS } from './common/types'
 
-const API = 'https://legislation.scriptkitty.yachts'
+const API = ''
 
 interface GraphNode {
   id: string
@@ -16,6 +18,8 @@ interface GraphEdge {
   source: string
   target: string
   label: string
+  weight?: number
+  type?: string
 }
 
 interface GraphData {
@@ -32,6 +36,14 @@ const GROUP_COLORS: Record<string, string> = {
   commentary: '#7f8c8d',
 }
 
+type LayoutMode = 'force' | 'radial' | 'tree'
+
+const LAYOUT_LABELS: Record<LayoutMode, string> = {
+  force: 'Force',
+  radial: 'Radial',
+  tree: 'Tree',
+}
+
 interface Props {
   type: 'section' | 'ruling' | 'case'
   act?: string
@@ -41,11 +53,55 @@ interface Props {
   onClose: () => void
 }
 
+// Dagre hierarchical layout
+function computeDagrePositions(nodes: GraphNode[], edges: GraphEdge[]): Map<string, { x: number; y: number }> {
+  const g = new dagre.graphlib.Graph()
+  g.setDefaultEdgeLabel(() => ({}))
+  g.setGraph({ rankdir: 'LR', nodesep: 40, ranksep: 100, marginx: 40, marginy: 40 })
+
+  for (const n of nodes) g.setNode(n.id, { width: 80, height: 30 })
+  for (const e of edges) g.setEdge(e.source, e.target)
+
+  dagre.layout(g)
+  const positions = new Map<string, { x: number; y: number }>()
+  for (const n of nodes) {
+    const dagNode = g.node(n.id)
+    if (dagNode) positions.set(n.id, { x: dagNode.x, y: dagNode.y })
+  }
+  return positions
+}
+
+// Radial layout: concentric rings by group type
+const RADIAL_RADIUS: Record<string, number> = { section: 60, commentary: 120, definition: 120, ruling: 200, case: 280 }
+
+function computeRadialPositions(nodes: GraphNode[]): Map<string, { x: number; y: number }> {
+  const positions = new Map<string, { x: number; y: number }>()
+  const rings: Record<string, GraphNode[]> = {}
+  for (const n of nodes) {
+    const g = n.group || 'section'
+    if (!rings[g]) rings[g] = []
+    rings[g].push(n)
+  }
+  for (const [group, groupNodes] of Object.entries(rings)) {
+    const radius = RADIAL_RADIUS[group] || 180
+    const count = groupNodes.length
+    for (let i = 0; i < count; i++) {
+      const angle = (2 * Math.PI * i) / count - Math.PI / 2
+      positions.set(groupNodes[i].id, {
+        x: radius * Math.cos(angle),
+        y: radius * Math.sin(angle),
+      })
+    }
+  }
+  return positions
+}
+
 export default function GraphModal({ type, act, section, citation, label, onClose }: Props) {
   const [data, setData] = useState<GraphData | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [hoveredNode, setHoveredNode] = useState<GraphNode | null>(null)
+  const [layoutMode, setLayoutMode] = useState<LayoutMode>('force')
   const fgRef = useRef<any>(null)
 
   useEffect(() => {
@@ -67,11 +123,56 @@ export default function GraphModal({ type, act, section, citation, label, onClos
       .catch(e => { setError(e.message); setLoading(false) })
   }, [type, act, section, citation])
 
+  // Apply custom forces when layout mode changes
+  useEffect(() => {
+    const fg = fgRef.current
+    if (!fg || !data) return
+
+    // Reset all custom forces first
+    fg.d3Force('x', null)
+    fg.d3Force('y', null)
+    fg.d3Force('radial', null)
+
+    if (layoutMode === 'force') {
+      // Default: charge + link
+      fg.d3Force('charge', d3Force.forceManyBody().strength(-120))
+      fg.d3ReheatSimulation()
+      return
+    }
+
+    if (layoutMode === 'radial') {
+      // Concentric rings by group type
+      fg.d3Force('charge', d3Force.forceManyBody().strength(-30))
+      fg.d3Force('radial', d3Force.forceRadial((d: any) => RADIAL_RADIUS[d.group as string] || 180, 0, 0).strength(1))
+      fg.d3ReheatSimulation()
+      return
+    }
+
+    if (layoutMode === 'tree') {
+      // Dagre hierarchical: pin nodes to pre-computed positions
+      const positions = computeDagrePositions(data.nodes, data.edges)
+      const cx = 300
+      const cy = 300
+      fg.d3Force('x', d3Force.forceX((d: any) => {
+        const p = positions.get(d.id)
+        return p ? p.x - cx : 0
+      }).strength(1))
+      fg.d3Force('y', d3Force.forceY((d: any) => {
+        const p = positions.get(d.id)
+        return p ? p.y - cy : 0
+      }).strength(1))
+      fg.d3Force('charge', d3Force.forceManyBody().strength(-50))
+      fg.d3ReheatSimulation()
+    }
+  }, [layoutMode, data])
+
   const handleNodeClick = useCallback((node: GraphNode) => {
     if (node.url) {
       window.location.href = node.url
     }
   }, [])
+
+  const graphData = data ? { nodes: data.nodes, links: data.edges } : { nodes: [], links: [] }
 
   return (
     <div style={{
@@ -90,25 +191,48 @@ export default function GraphModal({ type, act, section, citation, label, onClos
           display: 'flex', justifyContent: 'space-between', alignItems: 'center',
           padding: '12px 20px', borderBottom: '1px solid ' + (COLORS?.border || '#333'),
         }}>
-          <div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
             <span style={{ fontSize: 14, color: COLORS?.heading || '#fff', fontWeight: 600 }}>
               Knowledge Graph: {label}
             </span>
             {data && (
-              <span style={{ fontSize: 11, color: COLORS?.textMuted || '#888', marginLeft: 12 }}>
+              <span style={{ fontSize: 11, color: COLORS?.textMuted || '#888' }}>
                 {data.meta.node_count} nodes · {data.meta.edge_count} edges
               </span>
             )}
             {hoveredNode && (
-              <span style={{ fontSize: 11, color: GROUP_COLORS[hoveredNode.group] || '#888', marginLeft: 12 }}>
+              <span style={{ fontSize: 11, color: GROUP_COLORS[hoveredNode.group] || '#888' }}>
                 {hoveredNode.label}
               </span>
             )}
           </div>
-          <button onClick={onClose} style={{
-            background: 'none', border: 'none', color: COLORS?.textMuted || '#888',
-            cursor: 'pointer', fontSize: 20, lineHeight: 1, padding: '4px 8px',
-          }}>✕</button>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+            {/* Layout switcher */}
+            <div style={{
+              display: 'flex', borderRadius: 6, overflow: 'hidden',
+              border: '1px solid ' + (COLORS?.border || '#444'),
+            }}>
+              {(Object.keys(LAYOUT_LABELS) as LayoutMode[]).map(mode => (
+                <button
+                  key={mode}
+                  onClick={() => setLayoutMode(mode)}
+                  style={{
+                    background: layoutMode === mode ? '#279e88' : 'transparent',
+                    color: layoutMode === mode ? '#fff' : COLORS?.textMuted || '#888',
+                    border: 'none', padding: '4px 12px', cursor: 'pointer',
+                    fontSize: 11, fontWeight: layoutMode === mode ? 600 : 400,
+                    transition: 'all 0.15s',
+                  }}
+                >
+                  {LAYOUT_LABELS[mode]}
+                </button>
+              ))}
+            </div>
+            <button onClick={onClose} style={{
+              background: 'none', border: 'none', color: COLORS?.textMuted || '#888',
+              cursor: 'pointer', fontSize: 20, lineHeight: 1, padding: '4px 8px',
+            }}>✕</button>
+          </div>
         </div>
 
         {/* Legend */}
@@ -123,6 +247,14 @@ export default function GraphModal({ type, act, section, citation, label, onClos
               {g}
             </span>
           ))}
+          <span style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+            <span style={{ width: 12, height: 2, background: 'rgba(39,158,136,0.4)', display: 'inline-block' }} />
+            similarity
+          </span>
+          <span style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+            <span style={{ width: 12, height: 2, background: 'rgba(255,255,255,0.15)', display: 'inline-block' }} />
+            reference
+          </span>
           <span style={{ marginLeft: 'auto' }}>
             Click a node to navigate · Drag to move · Scroll to zoom
           </span>
@@ -147,13 +279,22 @@ export default function GraphModal({ type, act, section, citation, label, onClos
           {data && !loading && (
             <ForceGraph2D
               ref={fgRef}
-              graphData={{ nodes: data.nodes, links: data.edges }}
+              graphData={graphData}
               nodeId="id"
               nodeLabel={n => (n as GraphNode).label}
               nodeColor={n => GROUP_COLORS[(n as GraphNode).group] || '#888'}
               nodeVal={n => (n as GraphNode).group === 'section' ? 3 : 2}
               linkLabel={e => (e as any).label}
-              linkColor={() => 'rgba(255,255,255,0.15)'}
+              linkColor={e => {
+                const edge = e as any
+                return edge.type === 'similarity'
+                  ? 'rgba(39,158,136,0.4)'
+                  : 'rgba(255,255,255,0.15)'
+              }}
+              linkWidth={e => {
+                const edge = e as any
+                return edge.weight ? Math.max(0.3, edge.weight * 2) : 0.5
+              }}
               linkDirectionalParticles={1}
               linkDirectionalParticleSpeed={0.005}
               linkDirectionalArrowLength={4}
@@ -162,8 +303,8 @@ export default function GraphModal({ type, act, section, citation, label, onClos
               width={undefined}
               height={undefined}
               backgroundColor={COLORS?.surface || '#1a1a2e'}
-              d3VelocityDecay={0.3}
-              cooldownTicks={100}
+              d3VelocityDecay={layoutMode === 'force' ? 0.3 : 0.8}
+              cooldownTicks={layoutMode === 'force' ? 100 : 50}
               enableNodeDrag={true}
               enableZoomInteraction={true}
               minZoom={0.5}

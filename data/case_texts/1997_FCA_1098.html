@@ -1,0 +1,832 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="en">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Solaris version 5.1.24" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>Commissioner of Taxation v Roger Gareth Munro [1997] FCA 1098 (24 October 1997)</title>
+  <link media="screen" rel="stylesheet" href="/css/screen1.css" />
+  <link media="print" rel="stylesheet" href="/css/print.css" />
+  <meta name="theme-color" content="#ee3224" />
+  <meta name="description" content="Australasian Legal Information Institute (AustLII), a joint facility of UTS and UNSW Faculties of Law." />
+  <link rel="icon" sizes="192x192" href="/images/icon-192.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/icon-shortcut.png" />
+  <meta name="msapplication-TileColor" content="#ee3224" />
+  <meta name="msapplication-TileImage" content="/images/icon/ms.png" />
+  <script src="/js/modernizr.min.js">
+  </script>
+</head>
+<body class=" cases  document ">
+  <header id="page-header">
+    <div id="primary">
+      <a id="page-logo" href="/" tabindex="1"><img src="/images/logo.svg" alt="AustLII"><span class="title-main">AustLII</span></a> <a class="go-search" href="#">Search</a>
+      <h1 id="page-title"><span>Federal Court of Australia</span></h1>
+    </div>
+
+
+<!-- Search box
+
+The search box at the top of most pages. Always visible unless the
+'search' variable is set to false, for pages where we don't want
+that box along the top, such as on Advanced Search & LawCite.
+
+'Results' is a class added to database pages, which exposes the ability
+to search just by that database.
+
+'Searchable' is a page variable which indicates the page has checkboxes
+on it - the search box has a radio button for selecting we only search
+the checked areas.
+
+'Extra search' is for those rare extra options found in pages like the
+Aviation Law Association library database.
+-->
+    <form action="/cgi-bin/sinosrch.cgi">
+<input type="hidden" name="meta" value="">
+      <div id="page-search">
+        <h2 class="hide">Search AustLII</h2>
+        <div class="search-box">
+          <a class="search-dropdown" href="javascript:void(0);">&#9660;</a>
+          <fieldset>
+            <legend>Search Options</legend>
+            <ul class="search-options">
+              <li><label for="database-all">All databases <input type="radio" name="mask_path" value="" id="database-all" tabindex="2" 
+/></label></li>
+              <li><label for="database-this">This database only <input type="radio" name="mask_path" value="au/cases/cth/FCA" id="database-this" tabindex="3" 
+checked="checked" 
+/></label></li>
+              <li><label for="database-full">Full text <input type="radio" name="method" value="auto" id="database-full" method="auto" checked="checked" tabindex="6" /></label></li>
+              <li><label for="database-title">Titles only <input type="radio" name="method" value="title" id="database-title" tabindex="7" /></label></li>
+              <li class="advanced-search">
+                <a href="/advanced_search.shtml" tabindex="8">Advanced Search&hellip;</a>
+              </li>
+            </ul>
+          </fieldset><label for="search-box" class="hide">Search term:</label> <input id="search-box" type="text" name="query" 
+  placeholder="Search this database only" 
+  tabindex="9" /><a href="javascript:void(0);" class="search-box-clear hide">&times;</a> <input type="submit" value="Search" tabindex="9" />
+        </div><a class="go-primary" href="#">Close</a>
+      </div>
+    </form>
+
+
+    <ul id="page-tertiary">
+      <li> <a href="/about.html">About</a> </li>
+      <li> <a href="/contact.html">Contact</a> </li>
+      <li> <a href="/copyright.html">Copyright &amp; Usage</a> </li>
+      <li> <a href="/privacy.html">Privacy</a> </li>
+      <li> <a href="/disclaimers.html">Disclaimers</a> </li>
+      <li> <a href="/feedback.html">Feedback</a> </li>
+      <li> <a href="/help.html">Help</a> </li>
+    </ul>
+  </header>
+
+
+<!-- Ribbons
+
+These are the red bars along the top of each page.
+
+Ribbon is a variable set on most pages; it defaults to an expanded view,
+and can be simplified using variables 'intro' (for home) and 'basic' (for
+search, about pages, etc.)
+-->
+  <nav id="ribbon">
+    <div class="inner">
+      <ul>
+        <li class="ribbon-type"> <a href="#" tabindex="10">Type <span>Cases</span></a> </li>
+        <li class="ribbon-jurisdiction"> <a href="#" tabindex="12">Jurisdiction <span>Commonwealth</span></a> </li>
+        <li class="ribbon-database"> <a href="../" tabindex="13">Database <span>Federal Court of Australia</span></a> </li>
+        <li class="ribbon-year "> <a href="./" tabindex="14">Year <span>1997</span></a> </li>
+        <li class="ribbon-citation"><a href="#" tabindex="16">Citation <span>[1997] FCA 1098</span></a></li>
+      </ul>
+    </div>
+  </nav> <!-- ribbon -->
+
+
+<!-- Panels
+
+The Panel defaults to 'year' view, which is what the database pages all have,
+it's what search results have, etc.
+
+The selections within if statements below are to visualize the 'is-selected'
+class across the various mock pages in the prototype.
+
+When implementing this, pull out the if statements and simply apply 'is-selected'
+when it's appropriate to that particular page.
+
+The options for the panel include:
+* none: the panel doesn't render
+* closed: the panel is present, but closed, adds 'is-closed' class
+* jurisdiction: jurisdiction is open at page load, adds 'is-jurisdiction' class
+* letter: 'starts with' is open at page load, adds 'is-letter' class
+-->
+  <div id="panels" class="is-closed">
+    <div class="inner">
+      <div id="panel-type">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>All Databases</h5> <p></p></a> </li>
+          <li class="panel-type-all is-selected"> <a href="/databases.html"> <h5>Cases &amp; Legislation</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/journals/"> <h5>Journals &amp; Scholarship</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/lawreform/"> <h5>Law Reform</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/other/dfat/"> <h5>Treaties</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/database-libraries.html"> <h5>Libraries</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="http://austlii.community/wiki/"> <h5>Communities</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/lawcite/"> <h5>LawCite</h5> <p></p></a> </li>
+        </ul>
+      </div>
+      <div id="panel-jurisdiction">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>Australia</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/cth/"> <h5>CTH</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/act/"> <h5>ACT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nsw/"> <h5>NSW</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nt/"> <h5>NT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/qld/"> <h5>QLD</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/sa/"> <h5>SA</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/tas/"> <h5>TAS</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/vic/"> <h5>VIC</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/wa/"> <h5>WA</h5></a> </li>
+          <li class="panel-type-all"> <a href="http://www.nzlii.org/databases.html"> <h5>New Zealand</h5></a> </li>
+        </ul>
+      </div>
+      <div id="panel-year">
+        <ul>
+          <li class="panel-type-specific">
+            <div>
+              <h5>Specific Year</h5><a href="#" class="year-specific-dropdown type-specific">Any</a> <select class="type-specific">
+                <option>
+                  2015
+                </option>
+              </select>
+            </div>
+          </li>
+<!--
+          <li class="panel-type-range">
+            <div>
+              <h5>Year Range</h5><a href="#" class="year-range-dropdown-1 type-range-1">1970</a> <select class="type-range-1">
+                <option> 2015 </option>
+              </select> <a href="#" class="year-range-dropdown-2 type-range-2">2015</a> <select class="type-range-2">
+                <option> 2015 </option>
+              </select> <a href="results.html" class="button">Apply</a>
+            </div>
+          </li>
+-->
+        </ul>
+      </div>
+      <div id="panel-letter">
+        <ul>
+          <li class="panel-letter-any"> <a href="#"> <h5>Any</h5></a> </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- "Year" dropdowns
+
+These dropdowns should be generated with data as appropriate.
+The data you see here is for presentatioal purposes.
+-->
+  <div class="year-options-list">
+    <div class="year-specific-options year-options">
+      <ul>
+        <li> <h5><a href="./">Any</a></h5> </li>
+<!--
+        <li> <h5><a href="1997/">1997</a></h5> </li>
+-->
+
+      </ul>
+    </div> <!-- specific-year -->
+
+<!--
+    <div class="year-range-1-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul>
+    </div> --> <!-- year-range-1 -->
+
+<!--
+    <div class="year-range-2-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul> 
+    </div> --> <!-- year-range-2 -->
+
+  </div> <!-- panels -->
+
+
+  <div id="page-content">
+    <div id="page-main">
+      <article class="the-document">
+        <h1>Commissioner of Taxation v Roger Gareth Munro [1997] FCA 1098 (24 October 1997)</h1>
+<!--make_database: source=/home/philip/austlii/db/FCA/data/1997_1098.html-->
+<!--sino date 24 October 1997-->
+
+ <center><b>FEDERAL COURT OF AUSTRALIA</b>
+<p> <b></center></b>
+<p> 
+<p> TAXES AND DUTIES - income tax - objections and appeals - evidence and onus of proof - appeal from objection decision - whether taxpayer
+has discharged burden of proof that assessment is excessive 
+<p> 
+<p> <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/" class="autolink_findacts">Taxation Administration Act 1953</a> </i> (Cth): <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s14zzk.html" class="autolink_findacts">s 14ZZK(b)(i)</a>
+<p> 
+<p> <i>McCormack v Commissioner of Taxation </i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1979/18.html" title="View Case" class="autolink_findcases_inserted">[1979] HCA 18</a>;  <a href="/cgi-bin/LawCite?cit=%281979%29%20143%20CLR%20284" title="View LawCiteRecord" class="autolink_findcases">(1979) 143 CLR 284</a> - applied
+<p> <i>Gauci v Federal Commissioner of Taxation </i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1975/54.html" title="View Case" class="autolink_findcases_inserted">[1975] HCA 54</a>;  <a href="/cgi-bin/LawCite?cit=%281975%29%20135%20CLR%2081" title="View LawCiteRecord" class="autolink_findcases">(1975) 135 CLR 81</a> - applied
+<p> <i>MacMine Pty Limited v Federal Commissioner of Taxation </i> <a href="/cgi-bin/LawCite?cit=%281979%29%2053%20ALJR%20362" title="View LawCiteRecord" class="autolink_findcases">(1979) 53 ALJR 362</a> - applied 
+<p> <i>McCauley v Federal Commissioner of Taxation </i>88 ATC 4,605 - applied
+<p> <i>Federal Commissioner of Taxation v Dalco </i>90 ATC 4,088 - applied 
+<p>  
+<p> <b>COMMISSIONER OF TAXATION v ROGER GARETH MUNRO</b>
+<p> <b>NG 983 of 1996</b>
+<p>  
+<p>  
+<p> <b>LOCKHART J</b>
+<p> <b>SYDNEY</b>
+<p> <b>24 OCTOBER 1997</b> <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> <b>I</b><b>N THE FEDERAL COURT OF AUSTRALIA</b> <br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>NEW SOUTH WALES DISTRICT REGISTRY</b> <br><br></TD> <TD colspan=1 align="right">NG 983  of   1996 <br><br></TD></TR></TABLE><b><TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> BETWEEN: <br><br></TD> <TD colspan=1 align="left">COMMISSIONER OF TAXATION
+<p> Applicant <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">
+<p> <b>AND:</b> <br><br></TD> <TD colspan=1 align="left">ROGER GARETH MUNRO
+<p> Respondent <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">
+<p> <b>JUDGE:</b> <br><br></TD> <TD colspan=1 align="left">LOCKHART J <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>DATE OF ORDER:</b> <br><br></TD> <TD colspan=1 align="left">24 OCTOBER 1997 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>WHERE MADE:</b> <br><br></TD> <TD colspan=1 align="left">SYDNEY <br><br></TD></TR></TABLE>
+<p> THE COURT ORDERS THAT:
+<p> 
+<p> 1.	The appeal from the decision of the Administrative Appeals Tribunal on 19 November 1996 be allowed.
+<p> 2.	The said decision of the Tribunal be set aside.
+<p> 3.	The respondent pay the costs of the applicant of the appeal to this Court.
+<p> 
+<p> 
+<p> Note:	Settlement and entry of orders is dealt with in Order 36 of the Federal Court Rules.
+<p> <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> <b>I</b><b>N THE FEDERAL COURT OF AUSTRALIA</b> <br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>NEW SOUTH WALES DISTRICT REGISTRY</b> <br><br></TD> <TD colspan=1 align="right"> NG 983 of 1996 <br><br></TD></TR></TABLE><b><TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> BETWEEN: <br><br></TD> <TD colspan=1 align="left">COMMISSIONER OF TAXATION
+<p> Applicant <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">
+<p> <b>AND:</b> <br><br></TD> <TD colspan=1 align="left">ROGER GARETH MUNRO
+<p> Respondent <br><br></TD></TR></TABLE>
+<p> <b> <TABLE></b> <TR align="left"> <TD colspan=1 align="left">
+<p> JUDGE: <br><br></TD> <TD colspan=1 align="left">LOCKHART J <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>DATE:</b> <br><br></TD> <TD colspan=1 align="left">24 OCTOBER 1997 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><b>PLACE:</b> <br><br></TD> <TD colspan=1 align="left">SYDNEY <br><br></TD></TR></TABLE>
+<p> <center><b>REASONS FOR JUDGMENT</b>
+<p> </center>
+<p> This is an appeal, pursuant to <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s44.html" class="autolink_findacts">s 44(1)</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act 1975</a> </i> (Cth), by the Commissioner of Taxation from a decision of the Administrative Appeals Tribunal ("the Tribunal") made on 19 November
+1996. The Tribunal set aside the decision of the Commissioner disallowing an objection by Roger Gareth Munro, the taxpayer, against
+an amended assessment to income tax dated 14 May 1992 in respect of the year of income ended 30 June 1989.  In that assessment the
+Commissioner included an amount of $400,000 in the taxpayer's assessable income.
+<p> 
+<p> The circumstances giving rise to the case are complex; but must be set out in some detail in order to understand the issues.
+<p> 
+<p> The taxpayer holds a degree of Doctor of Philosophy in Econometrics from the University of New South Wales.  In about 1979 he commenced
+business on his own account, engaging in full time commercial research involving consulting work mainly for government departments
+and local councils.  The work involved examining projects proposed by those departments to determine trends in population growth,
+the likely extent of that growth and how quickly infrastructures would have to be put in place to accommodate it.  It involved developing
+econometric models to predict population growth in various parts of Australia, in particular of New South Wales.  The North Coast
+was one of the fastest growing regions in Australia at that time.  The taxpayer lived at Byron Bay, but operated his business out
+of Lismore.  
+<p> 
+<p> In 1987 the taxpayer established a company known as Nommack (No 258) Pty Limited which on 11 January 1988 changed its name to Strategic
+Research Consultants (Australia) Pty Limited and then on 30 December 1988 changed its name to Lavender Grove Securities Pty Limited
+("Lavender Grove").  The taxpayer's wife was the beneficial owner of all the shares in Lavender Grove.
+<p> 
+<p> On 16 June 1988 the taxpayer established a company known as Nommack (No. 282) Pty Limited ("Nommack"), which carried on business
+under the business name of Strategic Research Consultants (Australia) ("Strategic Research").  Nommack commenced business under that
+name as a consulting firm on 1 July 1988.
+<p> 
+<p> The taxpayer was employed principally by Nommack to provide consulting services.  The taxpayer thus changed his business from consulting
+services as a sole trader to an employee of Nommack.
+<p> 
+<p> A company known as Hixson Holdings Pty Limited ("Hixson Holdings") was the trustee of a unit trust known as The Seven Mile Beach
+Unit Trust ("The Trust"). Hixson Holdings, in its capacity as trustee, was the owner of a large tract of coastal land at Byron Bay.
+The whole of the units in the Trust consisted of nine units held in the name of and beneficially by Moncarnet Pty Ltd ("Moncarnet"),
+a company associated with Mr Kurt Schaefer, and one unit held in the name of and beneficially by Mr Dieter Horstmann.  The capital
+of Hixson Holdings consisted of 2 shares, both beneficially owned by Schaefer.
+<p> 
+<p> An agreement dated 19 November 1987 ("the 1987 Agreement") was entered into by the taxpayer, Hixson Holdings, Cape Byron International
+Academy Pty Limited ("CBIA"), Schaefer, and Moncarnet.
+<p> 
+<p> The 1987 Agreement recited the fact that:
+<p> 
+<p> *	Hixson proposed to develop the site for a variety of uses, including erection of buildings and other works to enable the construction
+of an educational establishment on part of the site;
+<p> 
+<p> *	Hixson had entered into a contract with CBIA and others to operate and manage the educational establishment under a long term lease;
+<p> 
+<p> *	the majority of the issued share capital of CBIA was held by the taxpayer and Schaefer in equal proportions (ten shares each) and
+they were directors of that company (Horstmann was the owner of the other two shares in CBIA);
+<p> 
+<p> *	the taxpayer and Schaefer had carried out consultancy activity including market research, educational development, promotional
+development and other essential commercial activity ("Facilitation Services") since the incorporation of CBIA, to ensure the economic
+viability of the project;
+<p> 	
+<p> *	the parties acknowledged that the taxpayer and Schaefer had carried out equally the Facilitation Services on behalf of CBIA; 
+<p> 
+<p> *	the monetary value of the Facilitation Services was $1,100,000;
+<p> 
+<p> *	the parties agreed that if any profit results from changes in ownership or sale of all or part of the project or interest therein,
+the pro rata proportion of participation by the taxpayer in the profit is 6.25 per cent of the profit; and that he shall receive
+a cash advance of not less than $50,000 from the profit on exchange of contracts effecting the sale or change with the balance due
+on settlement (clause 5).
+<p> 
+<p> The 1987 Agreement was effectively a statement of intent which envisaged an investment in the development project by a major equity
+investor.  Of particular relevance for the purposes of this case is that it provided for the grant to the taxpayer of a profit entitlement.
+<p> 
+<p> On 28 December 1987 it seems that an agreement titled the "Principal Agreement" and referred to in the Tribunal's decision as the
+"Participation Agreement", was executed by the taxpayer, Schaefer, Horstmann, Moncarnet, Rosechurch, Hixson Holdings and CBIA.  Rosechurch
+was a subsidiary of Girvan Corporation Limited ("Girvan").  This agreement was not before the Tribunal although a letter written
+by the solicitors of the taxpayer and dated 8 December 1992, which was admitted into evidence, discussed the agreement.  That letter
+indicated that the Principal Agreement eliminated the taxpayer's profit share (referred to in clause 5 of the 1987 Agreement) and
+replaced it with a management agreement and personal service agreement.
+<p> 
+<p> On 6 January 1988 a document titled "Heads of Agreement" was signed by Schaefer, the taxpayer, Horstmann, Moncarnet, Rosechurch Holdings
+Pty Limited ("Rosechurch"), Hixson Holdings and CBIA.  The Heads of Agreement provided that it was to be a statement of the current
+intentions of the parties with respect to the proposed joint venture, that is to develop the Cape Byron land, and that no legally
+enforceable obligations were to arise until the formal documentation had been prepared and executed. The document provided that Rosechurch
+would subscribe for ten new units in the Trust at a price of $1 per unit together with a total premium of $6,699,990.  The Heads
+of Agreement provided that the trustee would enter into a management agreement with CBIA for ten years with two successive option
+periods of five years each.  Clause 4.2 of the Heads of Agreement provided that Rosechurch would acquire 51 shares in Hixson Holdings,
+whereas Schaefer would subscribe for 47, in consequence Rosechurch (and through it, and indirectly, Girvan) would control Hixson
+Holdings, having 51 shares while Schaefer held 49 in aggregate.  Clause 4.3, of the Heads of Agreement provided that Rosechurch (and
+thus indirectly Girvan) would control CBIA through an issue to Rosechurch of 23 shares in CBIA.  The Heads of Agreement contain many
+provisions but most of them need not be referred to further.
+<p> 
+<p> On 30 June 1988 a document called a "Subscription Agreement for Units of the Seven Mile Beach Trust" was executed by Moncarnet, Rosechurch,
+Hixson and Schaefer ("the Subscription Agreement").  Under this agreement Rosechurch (described as the new unitholder) and Moncarnet
+and Horstmann (both described as the existing unitholder) agreed that Rosechurch would acquire ten new units in the trust for $6,700,000,
+thereby acquiring 50% of the issued units.
+<p> 
+<p> On 10 August 1988 a deed was executed by Moncarnet and Lavender Grove (then named as Strategic Research Consultants (Australia) Pty
+Limited ("Strategic")) which recited that, upon completion of the restructuring and refinancing of the Byron Bay project, the trustee
+of the trust (Hixson) would receive consideration of $6,699,990.  Moncarnet agreed with Strategic that on "the happening of that
+event" (payment) it would immediately subscribe at par plus a premium of $999 per share for a number of shares in the capital of
+Strategic (category RL5) to a value of $350,000.  The deed also recited that, in the event that, as a result of the restructuring
+and refinancing of the project Moncarnet receives as projected the additional sum of $800,000 as a reimbursement of its costs, the
+value of the RL5 shares subscribed for shall be $400,000.  Moncarnet covenanted to subscribe for the relevant number of shares and
+Strategic covenanted to issue them.
+<p> 
+<p> In accordance with the deed Moncarnet subscribed for 400 $1 RL5 shares at a subscription price including premium of $1,000 per share
+amounting in all to $400,000.  It appears that the RL5 shares are preference shares in Strategic that were owned by the taxpayer's
+wife, but they did not entitle the holder to any voting or dividend rights of any kind or the right to receive notices of or to attend
+meetings.  On a winding up the holder of the preference shares is entitled only to a return of the par value paid up on such shares.
+<p> 
+<p> With respect to the $400,000 payment there are a number of relevant facts:
+<p> 
+<p> *	Schaefer, not Moncarnet, paid $400,000 to Strategic by cheque dated 11 August 1988;
+<p> 
+<p> *	immediately on receipt of the sum of $400,000 by Strategic it was withdrawn and credited to a fixed deposit with a bank in the
+name of the taxpayer's wife;
+<p> 
+<p> *	a copy of the balance sheet of Moncarnet as at 30 June 1989 reflects the shares in Strategic held by Moncarnet at a cost of $400,000;
+but it also contains a provision for write down of investments of $408,868.70;
+<p> 
+<p> *	in essence as at 30 June 1989 Strategic had effectively one asset, namely, the loan to the taxpayer's wife of $400,000 represented
+by the preference share capital subscribed under the deed by Moncarnet.  It was therefore clear that the 400 RL5 shares subscribed
+for by Moncarnet in Strategic have little value.
+<p> 
+<p> The payment of $400,000 to the taxpayer's wife was included in the taxpayer's assessable income.
+<p> 
+<p> <b>The Tribunal's findings</b>
+<p>  
+<p> Rather than attempt to summarize all of the findings of the Tribunal I shall set some of them out in the terms in which the Tribunal
+expressed them.
+<p> 
+<p> <i>"(e)	It is clear that as at the date of the Subscription Agreement, the Trust had not derived a profit; on the contrary its accounts
+annexed to the Subscription Agreement indicate a loss in respect of the year ending  30 June 1988, and an accumulated loss overall.</i>
+<p>  
+<p> ...
+<p> 
+<p> 8.	(a)	The Subscription Agreement was entered into between the parties to the Heads of Agreement; it would seem that it was prepared
+by the same solicitors who prepared the Deed.
+<p> 
+<p> (b)	The Subscription Agreement was conditional, inter alia, in accordance with item 9 of Schedule A, on completion of the Participation
+Agreement.
+<p> 
+<p> (c)	The Subscription Agreement provided in item 12 Schedule A, that the Subscription Amount was $6,699,999; (this is the amount variously
+referred to in these Reasons as approximately $6.7 million or nearly $6.7 million).
+<p> 
+<p> (d)	Clause (o) of Schedule B to the Subscription Agreement contains a warranty to the effect that the Accounts (as defined) fully
+disclosed all liabilities actual, contingent or otherwise.
+<p> 
+<p> (e)	Exhibit A (the accounts of the Trust at 30 June 1988) reflected a loss of approximately $9,000 in that year and a loss overall
+in excess of $15,000.
+<p> 
+<p> (f)	Folio 87 of the T Documents indicates the payment of total fees of approximately $87,000 to the Applicant [i.e. the taxpayer]
+in that year, i.e. the year ending 30 June 1988.
+<p> 
+<p> (g)	Although the Participation Agreement was not tendered in evidence, it is likely that it documents the terms upon which Rosechurch
+became a shareholder in each of Hixson Holdings and CBIA.
+<p> 
+<p> 9.	(a)	The Consultancy Agreement was entered into on 29 January 1989 between CBIA and Nommack [Strategic Research].
+<p> 
+<p> (b)	Under the Consultancy Agreement Nommack agreed to procure the services of the Applicant for CBIA.
+<p> 
+<p> (c)	The Consultancy Agreement provides (in accordance with item 8) that it commenced on 1 July 1988 and that it endures for 5 years
+until 30 June 1993 with "a mutual option for a further 5 years".  (The effect of a mutual option is not clear).
+<p> 
+<p> (d)	Under the Consultancy Agreement CBIA was to receive consultancy fees of $70,000 per annum increasing by 8% per annum or in accordance
+with the Consumer Price Index (Sydney) whichever increase was the larger.
+<p> 
+<p> (e)	The Consultancy Agreement was terminated in accordance with a Termination Agreement in consideration of the payment by CBIA to
+Nommack of $25,000.
+<p> 
+<p> 10.	(a)	There is a substantial dispute of fact between the Applicant and Schaefer as to the underlying reason for the execution and
+delivery of the Deed; the terms of the Deed make it clear that it was artificial.
+<p> 
+<p> (b)	The Applicant in his evidence stated that Schaefer was under pressure from his creditors (and in particular Horstmann who had
+instituted proceedings against him, arising from the original relationship between Schaefer and Horstmann, as co-unitholders in the
+Trust).  Schaefer, according to the Applicant wishes to shield funds from his creditors, and this factor motivated the payment; another
+motive (raised in clause 23 of T8 of the T Documents) involved the so-called "grubstake" element, and so that (according to the Applicant)
+the amount was paid, to enable Schaefer and the Applicant to fund other property ventures free of any restrictions imposed for the
+benefit of Girvan.
+<p> 
+<p> (c)	The Applicant in his evidence disputed a number of statements by Schaefer contained in T12; he said also that the Applicant [sic
+- Schaefer] was comfortable at understanding English, but not comfortable in speaking it.
+<p> 
+<p> (d)	The Applicant said that there had (post the ICAC report) been no payment of any money to Schaefer out of the sum of $400,000,
+because Schaefer had left Australia and he, the Applicant, was unable to make contact with him.  (There was no clear evidence as
+to what eventually transpired in relation to the sum of $400,000; it seems likely that it was retained by the Applicant's wife and
+used by her and/or the Applicant).
+<p> 
+<p> (e)	The Applicant was asked why the Consultancy Agreement was entered into in January 1989, some seven months after its commencement
+date.  He replied that it could not be brought into final effect until Girvan's finance had become available.  It may be noted that
+the Deed was similarly conditional on receipt of finance but that payment of the sum of $400,000 was made thereunder on 11 August
+1988.
+<p> 
+<p> (f)	The Applicant said that the Deed was structured in accordance with legal and accounting advice.
+<p> 
+<p> (g)	The Applicant said also that the documentation involving Rosechurch gave him a consultancy contract for 10 years with two five
+year options.  This may have been intended as a reference to the provisions in this regard of the Heads of Agreement (...) which
+provided for such an arrangement in favour of CBIA.
+<p> 
+<p> 11.	(a)	T12 of the T Documents (Schaefer's evidence) indicates that the sum of $400,000 was paid in order to eliminate the Applicant's
+profit entitlement under clause 5 of the 1987 Agreement.  While there is a reference (at the top of p105 of the T documents) to the
+"grubstake", pages 105, and following indicate that CBIA was not prepared to complete the Subscription Agreement (and presumably
+also the Participation Agreement) until the Applicant's profit entitlement had been extinguished.
+<p> 
+<p> (b)	Schaefer's evidence indicates that Girvan's solicitors were involved in the preparation of the Deed.
+<p> 
+<p> (c)	Page 107 of the T documents contains references to the "encumbrance" referable to the profit entitlement and envisaged the possibility
+of it being substantial.
+<p> 
+<p> (d)	The Tribunal heard the tape in respect of T12; Schaefer is clearly fluent in English.
+<p> 
+<p> 12.	The evidence of one of the tax offers indicates that while Schaefer left Australia and returned at various times, he left permanently
+only in 1992.
+<p> 
+<p> 13.	The version of events surrounding the payment of $400,000 given by Schaefer, is in the view of the Tribunal more probable than
+the version by the Applicant.  The evidence indicates that the Subscription Agreement payment of approximately $6.7m was used to
+pay debts of the Trust, and including amounts owing to Schaefer and Moncarnet considerably in excess of $400,000.  It is in the view
+of the Tribunal unlikely that Schaefer would have sought to shield $400,000 only; it is also likely that if Schaefer were entitled
+to a payment of a part of the sum of $400,000 he would have made some attempt to receive that entitlement."
+<p> 
+<p> The deed of 10 August 1988 was attacked by the Commissioner in the Tribunal as a sham.  The Tribunal said that it was reasonable
+to infer that that deed was entered into for reasons other than that of investment by Moncarnet with Strategic Research.  Clearly
+Moncarnet did not pay $400,000 for something worth at best $400 without reason. The Tribunal said that the deed was demonstrably
+artificial and contrived, but that was not to say that it was a sham.  It may be, said the Tribunal, that Moncarnet did indeed subscribe
+for the relevant RL5 shares, did in fact pay for them and the RL5 shares were in fact issued.  The Tribunal relied substantially
+on the judgment of Lockhart J in <i>Sharrment Pty Limited v Official Trustee in Bankruptcy</i> <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/1988/179.html" title="View Case" class="autolink_findcases_inserted">[1988] FCA 179</a>;  <a href="/cgi-bin/LawCite?cit=%281988%29%2082%20ALR%20530" title="View LawCiteRecord" class="autolink_findcases">(1988) 82 ALR 530</a> in relation to the alleged sham and the principles to be applied in determining whether or not a transaction was a sham.  The Tribunal
+held that in the light of the decision in <i>Sharrment</i> the deed could not be characterized as a sham.  The transaction was legally effective, even if it was intended to achieve an unacceptable
+purpose.
+<p> 
+<p> Having found that it was not a sham, the Tribunal then considered whether the evidence established that the sum of $400,000 otherwise
+constituted income of the taxpayer.  The Tribunal noted that there was no case made by the Commissioner based on the application
+of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/index.html#p4a" class="autolink_findacts">Part IVA</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1936240/" class="autolink_findacts">Income Tax Assessment Act 1936</a> </i> (Cth) (<i>"the Assessment Act"</i>) and furthermore that there was no attempt by the Commissioner to claim that the amount of $400,000 was taxable as a capital gain
+under Part IIIA of the <i>Assessment Act 1953 </i>.  The Commissioner argued that the share subscription arrangement of 10 August 1988 was compensation for the profit share arrangement
+in the 1987 Agreement and that the $400,000 was income derived by the taxpayer pursuant to s 19 of the <i>Assessment Act</i>.
+<p> 
+<p> The Tribunal said that there were attempts during the hearing before it to relate the sum of $400,000 to an amount of nearly $6.7m
+subscribed by Rosechurch pursuant to the subscription agreement.  The Tribunal found that it was not likely that those two amounts
+were related.
+<p> 
+<p> The Tribunal dealt with the argument of the Commissioner that s 19 of the <i>Assessment Act</i> operated to tax the $400,000 as income in the hands of the taxpayer.  The Tribunal found that "s 19 can operate only in relation
+to income which has `come home'" in the sense that the taxpayer is entitled to it; and said that a transcript of an interview with
+Mr Schaefer makes it clear (as do the accounts of the Trust) that no profit had in fact been derived and that at best for the Commissioner
+the sum of $400,000 was paid to eliminate a profit which might arise thereafter.  The Tribunal found that the Commissioner was not
+entitled to conclude that the $400,000 was income and set the objection decision aside.
+<p> 
+<p> <b>The Submissions</b>
+<p> 
+<p> The primary argument put on behalf of the Commissioner before this Court was that the Tribunal, having accepted the version of evidence
+of Schaefer over that of the taxpayer, albeit giving it only slight weight, was bound to find that the respondent had not discharged
+the burden of proof of demonstrating that the assessment was excessive.  Or, put another way, the circumstances were such that the
+Tribunal was not in effect persuaded one way or the other, so that the statutory direction of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s14zzk.html" class="autolink_findacts">s 14ZZK(b)</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/" class="autolink_findacts">Taxation Administration Act</a></i> (Cth) came into play, with a result that the taxpayer necessarily failed.
+<p> 
+<p> The Commissioner also argued that, in order to determine whether the transaction was a sham, the Tribunal was required to ascertain
+the true intention of the parties either by making findings from the direct evidence or drawing inferences from the whole of the
+circumstances or both.  Counsel submitted that there was no clear statement from the reasons which could suggest that the Tribunal
+embarked upon this analysis and that in the circumstances it erred in law.
+<p> 
+<p> It was further  argued on behalf of the Commissioner that the payment of $400,000 was in the nature of income substitution, being
+an amount equivalent to the taxpayer's entitlement pursuant to the profit making, undertaking or scheme entered into in relation
+to the overall project.  It was submitted that the Tribunal erred in finding that no income had "come home" to the respondent. This
+was said to be a fundamental error of law for the reason that if income "comes home" there would never be any need to invoke the
+principles of income substitution embodied in cases such as <i>Tinkler v Federal Commissioner of Taxation</i> 79 ATC 4,641.  It was argued that the entire project was a profit making undertaking or scheme and that any gain thereof was assessable
+in terms of s 25(1).
+<p> 
+<p> The taxpayer supported the findings of the Tribunal.
+<p> 
+<p> <b>Findings of fact</b>
+<p>  
+<p> It is difficult to gain a clear picture of the relevant facts.  The written agreements themselves are obscure in some respects. 
+I have done my best to piece together the various pieces of the puzzle; but the relevant events, and the relationship between the
+corporations and natural persons concerned is unclear in various respects.  This is an important point to make because the Commissioner's
+primary submission before this Court was that the taxpayer had not discharged the onus which lay upon him of proving that the amended
+assessment was excessive.
+<p> 
+<p> The perception was that the Byron Bay land would be able to be realized in due course at a substantial profit, perhaps by a person
+who would pay by injection of equity funds.  Two important participants were the taxpayer and Schaefer. Horstmann was a minor participant.
+ At the date of the Heads of Agreement those parties had interests in the Trust, Hixson Holdings and CBIA.  The capital of Hixson
+Holdings consisted of two shares, both of which were beneficially owned by Schaefer.  There were ten units in the Trust, nine of
+those were held by Schaefer and one by Horstmann.  The capital of CBIA was divided into twenty-two shares, ten each were held by
+the taxpayer and Schaefer and two were held by Horstmann.
+<p> 
+<p> While it seems that Schaefer was the most significant participant in the development his role is not clear.
+<p> 
+<p> The 1987 Agreement between Schaefer, the taxpayer, Hixson Holdings, Moncarnet and CBIA is important.  It is a document that envisaged
+investment being made in the Seven Mile Beach Project by a major equity investor.  The investor ultimately was Girvan.  It seems
+that Rosechurch was a wholly owned subsidiary of Girvan and that both companies were controlled by Mr Paul Peterson, the Chairman
+of Girvan.  Rosechurch it seems bought land, obtained relevant approvals from local councils and other statutory authorities, developed
+the projects and then when they were completed and construction finance had been arranged, the project was sold or "passed on" as
+an entity to Girvan which became the "equity investor".  
+<p> 
+<p> The 1987 Agreement provided in clause 5 (the critical clause) in substance that if any profit arose from changes in ownership or
+the sale of any or part of the project or interest therein, the parties agreed that the pro rata proportion of participation by the
+taxpayer in that profit was to be 6.25 per cent of the profit together with a cash advance of not less than $50,000 from the profit
+on exchange of contracts effecting the relevant sale or change, the balance of the sum due to the taxpayer to be paid in cash on
+completion or settlement of the relevant transaction.  The Tribunal suggested that perhaps the purpose of this clause was to grant
+the taxpayer a quasi equity interest in the Trust (bearing in mind that the taxpayer held no units in the Trust).  I agree that this
+is a possibility, although it is speculation.
+<p> 
+<p> After the 1987 Agreement, came the Heads of Agreement of 6 January 1988 between Schaefer, the taxpayer, Horstmann, Moncarnet, Rosechurch,
+Hixson Holdings and CBIA.  Although expressly stating that no legally enforceable obligations would be deemed to arise between the
+parties unless and until formal documentation had been executed between them relating to the proposed joint venture to acquire and
+develop the Cape Byron land, nevertheless the document provided that Girvan (described in clause 1.1(v) of the Heads of Agreement
+as Rosechurch) would acquire ten new units in the Seven Mile Beach Trust at a price of $1 per unit together with a total premium
+of $6,699,990, a total investment of $6.7m.
+<p> 
+<p> Then came the subscription agreement of 30 June 1988 between Moncarnet, Horstmann, Rosechurch, Hixson Holdings and Schaefer in which
+in substance Rosechurch was to subscribe to ten units in the Seven Mile Beach Unit Trust for $6.7m, thus reflecting the entry of
+Girvan (or Rosechurch) into the project as the principal equity participant.
+<p> 
+<p> After 30 June 1988 when Girvan had come in as the equity investor and settlement was reached, Girvan subscribed for twenty-three
+shares in CBIA. Thus Girvan controlled CBIA, Hixson Holdings and owned 50% of the units in the Trust.  There was apparently a falling
+out between Horstmann and Girvan, Horstmann having originally subscribed for approximately $1m worth of units in the Seven Mile Beach
+Trust prior to Girvan's entry.  Horstmann appears to have been unhappy with Girvan coming in and what he regarded as "watering down"
+his interest.  Litigation ensued between them, which appears to have ended in success for Horstmann.  This evidence I have just related
+is not clear and there is some suggestion in other parts of the evidence that it is inaccurate. Again, this reflects the cloudy state
+of the evidence and the odd financial arrangements that were made in this case relating to the introduction and departure of parties
+to the development of the land, being the asset of the Seven Mile Beach Unit Trust.
+<p> 
+<p> On 10 August 1988 the deed was entered into between Moncarnet and Strategic. It will be remembered that SRAL is a company in which
+the taxpayer and his wife (Kathleen Susan Munro) were the directors; and of the 100 issued ordinary shares in its capital, Mrs Munro
+owned all the ordinary shares beneficially (the taxpayer held one share on behalf of his wife).  This agreement was intended to reflect
+the arrangements that were thought to be necessary by the parties upon Rosechurch entering the scene as the developer and owner of
+the major interest in the project.  It will also be remembered that Moncarnet appears to be the corporate arm of Schaefer.  Under
+this agreement of 10 August 1988 the recitals and the operative provisions recognize that Hixson Holdings, as trustee of the Seven
+Mile Beach Unit Trust, would receive some $6,699,990 as, in effect, Girvan's contribution to the project (approximately 50 per cent
+it seems); and this event would trigger the entitlement of the taxpayer to the 6.25 per cent of profit made upon the acquisition
+by Rosechurch of approximately 50% of the equity in the project.  Moncarnet would immediately subscribe at par plus a premium of
+$999 for a number of shares in the capital of Strategic to the value of $350,000.  The important point is that, if, as a result of
+the restructuring and refinancing of the project Moncarnet would receive the additional sum of $800,000 as reimbursement of its costs,
+then the value of the RL5 shares subscribed for would be $400,000.  Those shares carried no voting, dividend or return of capital
+rights and the investment was written down to nil at the first balance date following the investment.  The $400,000 was in effect
+very close to the 6.25 per cent of the profit referred to in clause 5 of the 1987 Agreement.  Incidentally, 6.25 per cent of $6.7m
+is $418,750 and not $125,000 as stated by the Tribunal.
+<p> 
+<p> What actually happened with the $400,000 appears to be that that sum of money was paid not by Moncarnet but by Schaefer to Strategic
+(of which the taxpayer and his wife were the directors) and the wife owned all shares beneficially in its capital.  That money was
+paid on 11 August 1988, the day following the entry into the agreement.  The cheque was deposited the same day (11 August 1988) into
+Strategic's banking account and on the following day, 12 August 1988, an identical sum was withdrawn from that account and paid into
+an account of the taxpayer's wife.
+<p> 
+<p> There is also evidence before the Tribunal that Schaefer said in interviews with taxation officers that that $400,000 represented
+money which he had agreed to pay to the taxpayer as a result of his work with the "Academy".
+<p> 
+<p> As mentioned earlier, the Commissioner's case before the Tribunal and this Court was that the share subscription arrangement embodied
+in the deed of 10 August 1988 was, so far as the taxpayer was concerned, an agreement that led to the taxpayer receiving $400,000
+in truth as compensation to him for the loss of the profit to which he was entitled under the 1987 Agreement (clause 5).  The Commissioner
+argued that that payment should be viewed as compensation for cancellation of the taxpayer's entitlement to profit under the 1987
+Agreement and that at the taxpayer's direction the payment was made to Strategic.  The Commissioner relied strongly on s 19 of the
+<i>Assessment Act 1991 </i> to found the argument that the operation of that section ensured that $400,000 was deemed to be derived by the taxpayer because,
+although not paid to him, it was nevertheless dealt with as he directed, namely, that it be used to enable Moncarnet to subscribe
+for shares in the capital of Strategic, the company in which the taxpayer's wife held all shares beneficially.  There is, I think,
+much to be said in support of the Commissioner's argument.
+<p> 
+<p> However, the question on which this case ultimately turns, in my opinion, is whether the taxpayer has discharged the burden of proof
+that lies upon him to prove that the amended assessment was excessive.
+<p> 
+<p> <b>Principles relating to onus of proof</b>
+<p> 
+<p> The taxpayer has the burden of proving that the amended assessment is excessive <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s14zzk.html" class="autolink_findacts">(s 14ZZK(b)(i)</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/" class="autolink_findacts">Taxation Administration Act</a></i>).  That section is expressed in substantially the same language as s 190(b) of the <i>Assessment Act</i> which was repealed by <i>Taxation Laws Amendment Act (No 3)</i> (Cth).
+<p> 
+<p> In <i>McCormack v Commissioner of Taxation </i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1979/18.html" title="View Case" class="autolink_findcases_inserted">[1979] HCA 18</a>;  <a href="/cgi-bin/LawCite?cit=%281979%29%20143%20CLR%20284" title="View LawCiteRecord" class="autolink_findcases">(1979) 143 CLR 284</a> Gibbs J said that s 190(b) of the <i>Assessment Act</i> placed the burden of proving that the assessment was excessive upon the taxpayer and that on ordinary principles the taxpayer therefore
+bore the burden of proving the facts necessary to make out his or her case (at 301).  To discharge the burden of proving that the
+assessment is excessive the taxpayer in <i>McCormack</i> (a s 26(a) case) was required to prove affirmatively on the balance of probabilities that the property was not acquired for the purpose
+of profit making by sale.  His Honour said that the burden may be discharged by drawing inferences from the evidence, but he rejected
+(at 303) the argument that a taxpayer can succeed simply because there is no evidence from which it can be concluded that the relevant
+purpose of profit making existed; since this would mean that the burden of proving the existence of that purpose lies on the Commission.
+ That would, his Honour said, be to invert the onus of proof.  His Honour also said at 303:
+<p> 
+<p> <i>"The taxpayer will succeed if the proper inference from the evidence is that the property was not acquired for the relevant purpose,
+but if there is no evidence as to the purpose for which the taxpayer acquired the property, the appeal must fail."</i>
+<p>  
+<p> Gibbs J agreed with the statement of Mason J a few years earlier in his dissenting judgment in <i>Gauci v Federal Commissioner of Taxation</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1975/54.html" title="View Case" class="autolink_findcases_inserted">[1975] HCA 54</a>;  <a href="/cgi-bin/LawCite?cit=%281975%29%20135%20CLR%2081" title="View LawCiteRecord" class="autolink_findcases">(1975) 135 CLR 81</a> at 89-90 in these terms:
+<p> 
+<p> <i>"The Act does not place any onus on the Commissioner to show that the assessments were correctly made.  Nor is there any statutory
+requirement that the assessment should be sustained or supported by evidence.  The implication of such a requirement would be inconsistent
+with s 190(b) for it is a consequence of that provision that unless the appellant shows by evidence that the assessment is incorrect,
+it will prevail ...  The crux of the matter is that when in a s 26(a) case an appellant seeks to overcome the onus created by s 190(b)
+by adducing evidence as to his intentions with a view to establishing the purpose of the acquisition was not a s 26(a) purpose and
+that evidence is not accepted, he has not discharged the onus which he bears.  At best, from the appellant's viewpoint, the evidence
+stands in a situation in which it is equivocal, neither establishing a s 26(a) purpose nor denying the existence of such a purpose.
+ At worst, the judge may, in the circumstances, be able to infer the existence of a s 26(a) purpose.  In either event the appellant
+fails to discharge the onus and the appeal fails."</i>
+<p>  
+<p> Stephen J agreed with what was said on this matter by Gibbs J and he too endorsed the statement of Mason J in <i>Gauci</i> (at 306).
+<p> 
+<p> In <i>MacMine Pty Limited v Federal Commissioner of Taxation</i>  <a href="/cgi-bin/LawCite?cit=%281979%29%2053%20ALJR%20362" title="View LawCiteRecord" class="autolink_findcases">(1979) 53 ALJR 362</a> Gibbs J confirmed the views expressed in <i>McCormack</i> by him about the onus of proof which lies upon a taxpayer by virtue of s 190(b) of the <i>Assessment Act</i> (at 366).  Stephen J confirmed his agreement in <i>McCormack</i> with what Gibbs J said on the subject of s 190(b) (at 371).
+<p> 
+<p> Murphy J said (at 378) that s 190(b) places on the taxpayer the burden of showing that the assessment is excessive and therefore
+that the circumstances giving rise to liability to such assessment did not exist.  His Honour said that:
+<p> 
+<p> <i>"The plain intention of Parliament is to raise a presumption of the existence of the circumstances which attract liability to the
+tax assessed."</i>
+<p>  
+<p> In <i>McCauley v Federal Commissioner of Taxation</i> 88 ATC 4,605, Lockhart J at 4,613 stated:
+<p> 
+<p> <i>"It is for the taxpayer to prove that the assessment is excessive and the onus lies upon the taxpayer to prove that funds to acquire
+the assets in question were not derived from undisclosed income.  The source of these funds is peculiarly within the knowledge of
+the taxpayer."</i>
+<p>  
+<p> In <i>Federal Commissioner of Taxation v Dalco</i> 90 ATC 4,088 the views expressed in <i>McCormack's Case</i> were followed by the Full Court of the High Court.  Brennan J said at 4,093 that ordinarily:
+<p>  
+<p>  "The Commissioner is entitled to rely upon any deficiency in proof in the excessiveness of the amount assessed to uphold the assessment."
+<p> 
+<p> <b>Conclusion</b>
+<p>  
+<p> The Tribunal found that the version of events surrounding the payment of $400,000 given by Schaefer was in its view more probable
+than the version by the taxpayer.  As mentioned earlier, Schaefer said, in an extract from his interview with officers of the Taxation
+Department on 2 September 1991 which was in evidence before the Tribunal, that the $400,000 was paid in order to eliminate the taxpayer's
+profit entitlement under clause 5 of the 1987 Agreement.
+<p> 
+<p> In my opinion, the taxpayer did not discharge the onus of proof which lay upon him pursuant to <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s14zzk.html" class="autolink_findacts">s 14ZZK(b)</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/" class="autolink_findacts">Taxation Administration Act</a></i>.  Once Schaefer's evidence was accepted about the $400,000 and the taxpayer's evidence rejected, it seems to me that there is nothing
+left upon which a conclusion could be founded that the taxpayer had discharged the onus of proof.  The curious and obscure documentation
+which underlies this case support this conclusion.
+<p> 
+<p> The Tribunal said that it would be unsafe in all the circumstances to attribute anything other than slight weight to the unsworn
+untested evidence contained in the extract from Schaefer's interview.  The Tribunal also said that it considered that the version
+given by Schaefer about the agreement of 10 August 1988 was more probable than that given by the taxpayer, but that it would not
+be safe to rely on Schaefer's untested and unsworn evidence.  Yet earlier the Tribunal had said that the version of events surrounding
+the payment of $400,000 given by Schaefer was more probable than the version given by the taxpayer.  On balance it seems that what
+the Tribunal did was to reject the taxpayer's evidence on this question, not necessarily accept Mr Schaefer's evidence, but conclude
+that it was more probable than the evidence given by the taxpayer.
+<p> 
+<p> The deed of 10 August 1988 was found by the Tribunal to be "demonstrably artificial and contrived", but the Tribunal did not find
+that it was a sham. The importance of this finding is that it is impossible to be comfortable in this case with any of the relevant
+agreements that are in evidence, including the critical 1987 Agreement and the deed of 10 August 1988.  Hence, when consideration
+is being given to whether the taxpayer discharged the burden of proof that lay upon him, reliance upon these documents is a shaky
+foundation.
+<p> 
+<p> The Tribunal was mindful of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s14zzk.html" class="autolink_findacts">s 14ZZK</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/" class="autolink_findacts">Taxation Administration Act</a></i> (see para 19(c) of the Tribunal's reasons) and said that the deed of 10 August 1988:
+<p>  
+<p>  "reflects little credit on the [taxpayer] and his legal and accounting advisers; however, that the deed was artificial and contrived
+did not, in my view, entitle the respondent to conclude that the payment under it was income of the applicant in the relevant year,
+and this would be so, in my view, even if [Mr Schaefer's] evidence were fully acceptable."
+<p> 
+<p> The Tribunal made no reference to the principles which govern the application of <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s14zzk.html" class="autolink_findacts">s 14ZZK.</a>  Whether arguments were fully put to the Tribunal on that question is not clear.
+<p> 
+<p> The conclusion to my mind is inescapable that the taxpayer did not discharge the onus of proof which lay upon him and the absence
+of a finding to this effect by the Tribunal constituted an error of law: cf <i>Commissioner of Taxation v Cooper</i> <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/1991/164.html" title="View Case" class="autolink_findcases_inserted">[1991] FCA 164</a>;  <a href="/cgi-bin/LawCite?cit=%281991%29%2029%20FCR%20177" title="View LawCiteRecord" class="autolink_findcases">(1991) 29 FCR 177</a> per Hill J at 192-4; <i>Lombardo v Commissioner of Taxation</i> <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/1979/66.html" title="View Case" class="autolink_findcases_inserted">[1979] FCA 66</a>;  <a href="/cgi-bin/LawCite?cit=%281979%29%2040%20FLR%20208" title="View LawCiteRecord" class="autolink_findcases">(1979) 40 FLR 208</a> per Bowen CJ at 212.
+<p> 
+<p> The taxpayer did not discharge the onus cast upon him by <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/taa1953269/s14zzk.html" class="autolink_findacts">s 14ZZK(b)</a>; so the appeal must be allowed.
+<p> 
+<p> It is unnecessary in the light of these findings to consider the other arguments advanced by counsel.
+<p> 
+<p> I would make the following orders:
+<p> 
+<p> 1.	That the appeal from the decision of the Administrative Appeals Tribunal on 19 November 1996 be allowed.
+<p> 
+<p> 2.	That the said decision of the Tribunal be set aside.
+<p> 
+<p> 3.	That the taxpayer pay the costs of the Commissioner of the appeal to this Court.
+<p> 
+<p> 
+<p> <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> I certify that this and the preceding seventeen (17) pages are a true copy of the Reasons for Judgment herein of the Honourable Justice
+Lockhart  <br><br></TD></TR></TABLE>
+<p> 
+<p> 
+<p> Associate:
+<p> 
+<p> Dated:		24 October 1997
+<p> 
+<p> 
+<p> 
+<p> <TABLE> <TR align="left"> <TD colspan=1 align="left">
+<p> Counsel for the Applicant: <br><br></TD> <TD colspan=1 align="left">Mr D B McGovern <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Solicitor for the Applicant: <br><br></TD> <TD colspan=1 align="left">Australian Government Solicitor <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Counsel for the Respondent: <br><br></TD> <TD colspan=1 align="left">Mr R M Gordon <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Solicitor for the Respondent: <br><br></TD> <TD colspan=1 align="left">Kevin Munro &amp; Associates <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Date of Hearing: <br><br></TD> <TD colspan=1 align="left">14 August 1997 <br><br></TD></TR><TR align="left"> <TD colspan=1 align="left"><br><br></TD> <TD colspan=1 align="left"><br><br></TD></TR><TR align="left"> <TD colspan=1 align="left">Date of Judgment: <br><br></TD> <TD colspan=1 align="left">24 October 1997 <br><br></TD></TR></TABLE> 
+<p> <!--sino noindex-->
+      </article>
+    </div> <!-- page-main -->
+
+
+<!-- Document Sidebar -->
+    <div id="page-side">
+
+
+
+<!-- insert search-context.tx here when searching -->
+
+
+      <div class="side-element side-print">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M15.6 19.6h-10c-.6-.2-1-.6-1-1.3v-3.5H2.2c-.7 0-1.2-.5-1.2-1.2V5.3C1 4.5 1.5 4 2.2 4H4.6V1.6c0-.6.3-1 .9-1.2h10.2c.6.2.9.6.9 1.3V4H19c.5 0 .9.3 1.1.8 0 .1 0 .1.1.2v8.9c-.2.6-.6.9-1.3.9H16.6v3.6c0 .5-.4 1-.9 1.2h-.1zm3.4-6V5.2H2.2v8.4h2.4v-1.2H4c-.3 0-.5-.1-.5-.4-.2-.4.1-.8.6-.8h13.1c.4 0 .6.3.6.6s-.3.6-.6.6h-.6v1.2H19zm-3.6-1.2H5.8v6h9.6v-6zm0-10.8H5.8V4h9.6V1.6zM15.4 8.2c0-.3.3-.6.6-.6s.6.3.6.6-.3.6-.6.6-.6-.3-.6-.6zM10.6 13.6h3c.3 0 .6.2.6.5s-.2.6-.5.7H7.6c-.4 0-.7-.3-.7-.6s.3-.6.7-.6h3zM10.6 17.2H7.7c-.4 0-.7-.2-.7-.6 0-.3.3-.6.7-.6h5.9c.4 0 .7.2.7.6 0 .4-.3.6-.7.6h-3z"></path>
+        </g></svg>
+        <h4>Print</h4>
+        <ul>
+          <li> <a class="print-special" href="javascript:void(0);">Print (pretty)</a> </li>
+          <li> <a class="print-minimal" href="javascript:void(0);">Print (eco-friendly)</a> </li>
+        </ul>
+      </div> <!-- side-print -->
+
+
+      <div class="side-element side-download">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M12.5.9c1.3.5 1.7 1.5 1.7 2.9-.1 1.6 0 3.3 0 5h3.1c0 .1.1.1.1.2-.2.3-.3.5-.6.8l-5.3 5.3c-.7.6-1 .7-1.6.1-1.9-1.9-3.7-3.7-5.6-5.5-.1-.2-.3-.4-.6-.8H7c0-.4 0-.7.1-.9V3.8C7 2.4 7.4 1.4 8.7.9h3.8zM1.4 14.5h1.4v2.4c0 .9.2 1.1 1 1.1h13.5c.9 0 1-.2 1.1-1.1v-2.4h1.4v3.2c-.3.9-.9 1.4-1.7 1.7h-15c-.9-.3-1.4-.9-1.7-1.7v-3.2z"></path>
+        </g></svg>
+        <h4>Download</h4>
+        <p>No downloadable files available</p>
+      </div> <!-- side-download -->
+
+      <div class="side-element side-cited-by">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M10.2 16.6c-.9-.2-1.8-.3-2.7-.5-1.5-.4-2.9-1.1-4-2.3-3-3-2.9-7.4.4-10.1C6.2 1.7 9 1.1 12 1.4c1.7.2 3.2.8 4.6 1.8 3.1 2.3 4 5.6 2.5 9.2-.8 2-2.3 3.4-4 4.6-2.3 1.5-4.8 2.2-7.4 2.5h-.2c-.1-.1-.2-.1-.4-.2 0-.1 0-.3.2-.3.7-.4 1.4-.7 2-1.1.4-.3.7-.8.9-1.3z"></path></svg>
+        <h4>Cited By</h4>
+        <ul>
+          <li> <a href="/cgi-bin/LawCite?cit=[1997] FCA 1098"> LawCite records</a> </li>
+          <li> <a href="/cgi-bin/sinosrch.cgi?method=boolean&query=1997 FCA 1098 or FCA 1997 1098"> NoteUp references</a> </li>
+          <!-- li> <a href=""> NoteUp references</a> </li -->
+        </ul>
+      </div> <!-- cited-by -->
+
+
+
+
+
+
+
+      <div class="side-element side-social">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M20.7 3.7c-.7.3-1.5.5-2.4.6.9-.5 1.5-1.3 1.9-2.3-.8.5-1.7.8-2.7 1-.8-.8-1.9-1.3-3.1-1.3-2.3 0-4.2 1.9-4.2 4.2 0 .3 0 .6.1 1C6.9 6.7 3.8 5 1.7 2.5c-.4.6-.6 1.3-.6 2.1 0 1.4.8 2.7 1.9 3.5-.7-.1-1.3-.3-1.9-.6v.1c0 2 1.4 3.7 3.4 4.1-.4.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.7 2.1 2.9 3.9 2.9-1.4 1.1-3.2 1.8-5.2 1.8-.3 0-.7 0-1-.1 1.9 1.2 4.1 1.9 6.4 1.9 7.7 0 11.9-6.4 11.9-11.9v-.5c.8-.6 1.6-1.3 2.1-2.1z"></path></svg>
+        <h4>Join the discussion</h4>
+        <ul>
+          <li> <a href="https://twitter.com/intent/tweet?text=%E2Commissioner of Taxation v Roger Gareth Munro [1997] FCA 1098 (24 October 1997)%E2%80%9D&amp;url=http://www.austlii.edu.au/au/cases/cth/FCA/1997/1098.html&amp;via=austlii&amp;hashtags=austlii" target="_blank">Tweet this page</a> </li>
+          <li> <a href="https://twitter.com/intent/user?screen_name=AustLII" target="_blank">Follow @AustLII on Twitter</a> </li>
+<!--
+          <li> <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=austlii" target="_blank">Recent tweets about AustLII</a> </li>
+-->
+        </ul>
+      </div>
+
+
+    </div> <!-- page-side -->
+
+
+
+    <footer class="closing">
+      <div class="inner">
+        <!--<ul class="closing-primary">
+      <li><a href="database-all.html">All Databases</a></li>
+      <li><a href="database-cases.html">Cases &amp; Legislation</a></li>
+      <li><a href="database-journals.html">Journals &amp; Scholarships</a></li>
+      <li><a href="database-treaties.html">Treaties</a></li>
+      <li><a href="database-libraries.html">Libraries</a></li>
+      <li><a href="#">LawCite</a></li>
+    </ul>-->
+        <ul class="closing-tertiary">
+          <li> <a href="/austlii/">About</a> </li>
+          <li> <a href="/austlii/copyright.html">Copyright &amp; Usage</a> </li>
+          <li> <a href="/austlii/privacy.html">Privacy</a> </li>
+          <li> <a href="/austlii/disclaimers.html">Disclaimers</a> </li>
+          <li> <a href="/austlii/help/">Help</a> </li>
+        </ul><small>http://www.austlii.edu.au/au/cases/cth/FCA/1997/1098.html</small>
+      </div>
+    </footer>
+
+  </div> <!-- page-content -->
+
+  <script src="/js/production.min.js">
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a21b120caf60b6f0',t:'MTc4NTE0OTI5Mw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"f74b553413eb4a50949f5730dcd56219"}' crossorigin="anonymous"></script>
+</body>
+</html>

@@ -205,6 +205,14 @@ if FRONTEND_DIST.exists():
         # from thinking OAuth metadata endpoints exist
         if full_path.startswith("register") or full_path.startswith("register/"):
             return JSONResponse({"error": "Not found"}, status_code=404)
+
+        # Serve actual files from FRONTEND_DIST (favicon, manifest, etc.)
+        file_path = FRONTEND_DIST / full_path
+        if file_path.exists() and file_path.is_file():
+            return FileResponse(file_path, headers={
+                "Cache-Control": "public, max-age=3600",
+            })
+
         index = FRONTEND_DIST / "index.html"
         if index.exists():
             return FileResponse(index, headers={

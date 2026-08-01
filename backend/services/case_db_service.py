@@ -18,6 +18,51 @@ logger = logging.getLogger(__name__)
 # Citation regex: [YEAR] COURT NUMBER
 _CITATION_RE = re.compile(r"\[(\d+)\]\s+(\w+)\s+(\d+)")
 
+# AustLII navigation chrome that should never appear in paragraph_number values
+_AUSTLII_NAV_CHROME = {
+    "home", "databases", "worldlii", "search", "feedback",
+    "database search", "name search", "recent decisions",
+    "noteup", "download", "help", "index",
+    "you are here", "last updated", "austlii",
+    "print", "email", "full text", "cookie",
+    "privacy", "disclaimer", "copyright",
+}
+
+# Recognised Australian court codes for citation validation
+_VALID_COURT_CODES = {
+    "HCA", "FCA", "FCAFC", "AATA", "AAT",
+    "NSWCA", "NSWSC", "NSWCCA", "NSWDC", "NSWLC",
+    "VSC", "VSCA", "VCC", "VMC",
+    "QSC", "QCA", "QDC", "QMC",
+    "SASC", "SASCFC", "SADC", "SAMC",
+    "WASC", "WASCA", "WADC", "WAMC",
+    "TASSC", "TASFC", "TASMC",
+    "ACTSC", "ACTCA", "ACTMC",
+    "NTSC", "NTCA", "NTMC",
+    "FamCA", "FamCAFC",
+    "FedCFamC1A", "FedCFamC1", "FedCFamC2",
+    "IRCA", "AIRC",
+    "ACCC", "ASIC",
+    "HCA", "HCATrans",
+    "ALRC", "VLRC",
+    "SCCA", "SGCA", "SGHC",
+    "UKSC", "UKHL", "UKPC",
+    "NZSC", "NZCA", "NZHC",
+    "CLR", "ALR", "ALJR", "FCR", "NSWLR",
+}
+
+
+def _is_valid_court_code(court: str) -> bool:
+    """Check if a court code is recognised (or close enough to correct)."""
+    return court in _VALID_COURT_CODES
+
+
+def _is_austlii_chrome(text: str) -> bool:
+    """Check if a text value is pure AustLII navigation chrome."""
+    if not text or not isinstance(text, str):
+        return False
+    return text.strip().lower() in _AUSTLII_NAV_CHROME
+
 
 # ---------------------------------------------------------------------------
 # Helper: parse citation into components
@@ -35,6 +80,63 @@ def _parse_citation(citation: str) -> dict[str, str | int] | None:
 def _safe(val: str) -> str:
     """Escape single quotes for SQL."""
     return val.replace("'", "''")
+
+
+_DATE_IN_PARENS_RE = re.compile(
+    r'\((\d{1,2})\s+'
+    r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+'
+    r'(\d{4})\)\s*$'
+)
+
+_MONTH_MAP = {
+    "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
+    "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
+}
+
+
+def _extract_date_from_name_or_content(case: dict, safe_citation: str) -> str | None:
+    """Try to extract an exact date from the case_name or document content.
+
+    Looks for a trailing parenthetical date in AustLII format:
+      ``... (10 June 2026)``
+
+    Returns ``YYYY-MM-DD`` string or None.
+    """
+    # 1. Try case_name first
+    case_name = case.get("case_name", "") or ""
+    m = _DATE_IN_PARENS_RE.search(case_name)
+    if m:
+        day, month_str, year = int(m.group(1)), m.group(2), int(m.group(3))
+        month = _MONTH_MAP.get(month_str.lower())
+        if month:
+            return f"{year:04d}-{month:02d}-{day:02d}"
+
+    # 2. Try the first line of the document content (which often repeats the
+    #    citation with date: "Name [2025] FCAFC 15 (19 February 2025)")
+    try:
+        import subprocess
+        r = subprocess.run(
+            ["docker", "exec", "cadena-postgres", "psql", "-U", "postgres",
+             "-d", "cadena_knowledge", "-tA",
+             "-c",
+             f"SELECT SUBSTRING(content FROM 1 FOR 300) FROM documents "
+             f"WHERE id = (SELECT document_id FROM cases "
+             f"WHERE citation = '{safe_citation}' LIMIT 1) LIMIT 1;"],
+            capture_output=True, text=True, timeout=10,
+        )
+        if r.returncode == 0:
+            snippet = r.stdout.strip()
+            if snippet:
+                m2 = _DATE_IN_PARENS_RE.search(snippet)
+                if m2:
+                    day, month_str, year = int(m2.group(1)), m2.group(2), int(m2.group(3))
+                    month = _MONTH_MAP.get(month_str.lower())
+                    if month:
+                        return f"{year:04d}-{month:02d}-{day:02d}"
+    except Exception:
+        pass
+
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -188,10 +290,16 @@ def get_case_metadata(
         "download_urls": download_urls,
     }
 
-    # Flag year-only dates (e.g. "2016-01-01" when the real date is 2016-11-16)
+    # Try to extract exact date from case_name (AustLII format: "... (10 June 2026)")
+    # or from the first line of the document content.
     dd = case.get("decision_date")
     if dd and isinstance(dd, str) and dd.endswith("-01-01"):
-        result["decision_date_note"] = "Year only — exact date unknown (defaulted to Jan 1)"
+        _extracted = _extract_date_from_name_or_content(case, safe)
+        if _extracted:
+            result["decision_date"] = _extracted
+            result["decision_date_note"] = None
+        else:
+            result["decision_date_note"] = "Year only — exact date unknown (defaulted to Jan 1)"
 
     # ── optional legislation refs ─────────────────────────────────────────
     if include_legislation_refs:
@@ -267,6 +375,11 @@ def get_case_references(citation: str) -> dict[str, Any]:
 
     Queries both ``case_legislation_refs`` and ``case_citations`` tables.
 
+    Applies three clean-up filters:
+      1. Excludes self-citations (the case citing itself).
+      2. Strips rows where paragraph_number is AustLII navigation chrome.
+      3. Drops malformed court codes (e.g. ``FCAC`` instead of ``FCAFC``).
+
     Args:
         citation: e.g. ``[2024] HCA 1``.
 
@@ -293,6 +406,11 @@ def get_case_references(citation: str) -> dict[str, Any]:
         f"FROM case_legislation_refs "
         f"WHERE case_id = '{cid_str}' ORDER BY paragraph_number",
     )
+    # Filter AustLII chrome from paragraph_number in legislation refs
+    leg_rows = [
+        r for r in leg_rows
+        if not _is_austlii_chrome(r.get("paragraph_number"))
+    ]
 
     # Case citations (cases this case cites)
     cite_rows = _sql_dict(
@@ -310,6 +428,28 @@ def get_case_references(citation: str) -> dict[str, Any]:
         f"WHERE cc.cited_citation = '{safe}' "
         f"GROUP BY c.citation, c.case_name ORDER BY c.citation",
     )
+
+    # ── Fix 1: Exclude self-citations ────────────────────────────────────
+    cite_rows = [r for r in cite_rows if r.get("cited_citation") != citation]
+    cited_by_rows = [r for r in cited_by_rows if r.get("citation") != citation]
+
+    # ── Fix 2: Strip AustLII navigation chrome from paragraph_number ─────
+    cite_rows = [
+        r for r in cite_rows
+        if not _is_austlii_chrome(r.get("paragraph_number"))
+    ]
+
+    # ── Fix 3: Drop malformed court codes ────────────────────────────────
+    def _has_valid_court_code(cit: str) -> bool:
+        parsed = _parse_citation(cit)
+        if parsed is None:
+            return False
+        return _is_valid_court_code(str(parsed["court"]))
+
+    cite_rows = [
+        r for r in cite_rows
+        if _has_valid_court_code(r.get("cited_citation", ""))
+    ]
 
     return {
         "legislation_refs": leg_rows,

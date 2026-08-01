@@ -1,0 +1,736 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="en">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Solaris version 5.1.24" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>SSPR and Australian Information Commissioner [2023] AATA 3098 (19 September 2023)</title>
+  <link media="screen" rel="stylesheet" href="/css/screen1.css" />
+  <link media="print" rel="stylesheet" href="/css/print.css" />
+  <meta name="theme-color" content="#ee3224" />
+  <meta name="description" content="Australasian Legal Information Institute (AustLII), a joint facility of UTS and UNSW Faculties of Law." />
+  <link rel="icon" sizes="192x192" href="/images/icon-192.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/icon-shortcut.png" />
+  <meta name="msapplication-TileColor" content="#ee3224" />
+  <meta name="msapplication-TileImage" content="/images/icon/ms.png" />
+  <script src="/js/modernizr.min.js">
+  </script>
+</head>
+<body class=" cases  document ">
+  <header id="page-header">
+    <div id="primary">
+      <a id="page-logo" href="/" tabindex="1"><img src="/images/logo.svg" alt="AustLII"><span class="title-main">AustLII</span></a> <a class="go-search" href="#">Search</a>
+      <h1 id="page-title"><span>Administrative Appeals Tribunal of Australia</span></h1>
+    </div>
+
+
+<!-- Search box
+
+The search box at the top of most pages. Always visible unless the
+'search' variable is set to false, for pages where we don't want
+that box along the top, such as on Advanced Search & LawCite.
+
+'Results' is a class added to database pages, which exposes the ability
+to search just by that database.
+
+'Searchable' is a page variable which indicates the page has checkboxes
+on it - the search box has a radio button for selecting we only search
+the checked areas.
+
+'Extra search' is for those rare extra options found in pages like the
+Aviation Law Association library database.
+-->
+    <form action="/cgi-bin/sinosrch.cgi">
+<input type="hidden" name="meta" value="">
+      <div id="page-search">
+        <h2 class="hide">Search AustLII</h2>
+        <div class="search-box">
+          <a class="search-dropdown" href="javascript:void(0);">&#9660;</a>
+          <fieldset>
+            <legend>Search Options</legend>
+            <ul class="search-options">
+              <li><label for="database-all">All databases <input type="radio" name="mask_path" value="" id="database-all" tabindex="2" 
+/></label></li>
+              <li><label for="database-this">This database only <input type="radio" name="mask_path" value="au/cases/cth/AATA" id="database-this" tabindex="3" 
+checked="checked" 
+/></label></li>
+              <li><label for="database-full">Full text <input type="radio" name="method" value="auto" id="database-full" method="auto" checked="checked" tabindex="6" /></label></li>
+              <li><label for="database-title">Titles only <input type="radio" name="method" value="title" id="database-title" tabindex="7" /></label></li>
+              <li class="advanced-search">
+                <a href="/advanced_search.shtml" tabindex="8">Advanced Search&hellip;</a>
+              </li>
+            </ul>
+          </fieldset><label for="search-box" class="hide">Search term:</label> <input id="search-box" type="text" name="query" 
+  placeholder="Search this database only" 
+  tabindex="9" /><a href="javascript:void(0);" class="search-box-clear hide">&times;</a> <input type="submit" value="Search" tabindex="9" />
+        </div><a class="go-primary" href="#">Close</a>
+      </div>
+    </form>
+
+
+    <ul id="page-tertiary">
+      <li> <a href="/about.html">About</a> </li>
+      <li> <a href="/contact.html">Contact</a> </li>
+      <li> <a href="/copyright.html">Copyright &amp; Usage</a> </li>
+      <li> <a href="/privacy.html">Privacy</a> </li>
+      <li> <a href="/disclaimers.html">Disclaimers</a> </li>
+      <li> <a href="/feedback.html">Feedback</a> </li>
+      <li> <a href="/help.html">Help</a> </li>
+    </ul>
+  </header>
+
+
+<!-- Ribbons
+
+These are the red bars along the top of each page.
+
+Ribbon is a variable set on most pages; it defaults to an expanded view,
+and can be simplified using variables 'intro' (for home) and 'basic' (for
+search, about pages, etc.)
+-->
+  <nav id="ribbon">
+    <div class="inner">
+      <ul>
+        <li class="ribbon-type"> <a href="#" tabindex="10">Type <span>Cases</span></a> </li>
+        <li class="ribbon-jurisdiction"> <a href="#" tabindex="12">Jurisdiction <span>Commonwealth</span></a> </li>
+        <li class="ribbon-database"> <a href="../" tabindex="13">Database <span>Administrative Appeals Tribunal of Australia</span></a> </li>
+        <li class="ribbon-year "> <a href="./" tabindex="14">Year <span>2023</span></a> </li>
+        <li class="ribbon-citation"><a href="#" tabindex="16">Citation <span>[2023] AATA 3098</span></a></li>
+      </ul>
+    </div>
+  </nav> <!-- ribbon -->
+
+
+<!-- Panels
+
+The Panel defaults to 'year' view, which is what the database pages all have,
+it's what search results have, etc.
+
+The selections within if statements below are to visualize the 'is-selected'
+class across the various mock pages in the prototype.
+
+When implementing this, pull out the if statements and simply apply 'is-selected'
+when it's appropriate to that particular page.
+
+The options for the panel include:
+* none: the panel doesn't render
+* closed: the panel is present, but closed, adds 'is-closed' class
+* jurisdiction: jurisdiction is open at page load, adds 'is-jurisdiction' class
+* letter: 'starts with' is open at page load, adds 'is-letter' class
+-->
+  <div id="panels" class="is-closed">
+    <div class="inner">
+      <div id="panel-type">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>All Databases</h5> <p></p></a> </li>
+          <li class="panel-type-all is-selected"> <a href="/databases.html"> <h5>Cases &amp; Legislation</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/journals/"> <h5>Journals &amp; Scholarship</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/lawreform/"> <h5>Law Reform</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/other/dfat/"> <h5>Treaties</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/database-libraries.html"> <h5>Libraries</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="http://austlii.community/wiki/"> <h5>Communities</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/lawcite/"> <h5>LawCite</h5> <p></p></a> </li>
+        </ul>
+      </div>
+      <div id="panel-jurisdiction">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>Australia</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/cth/"> <h5>CTH</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/act/"> <h5>ACT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nsw/"> <h5>NSW</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nt/"> <h5>NT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/qld/"> <h5>QLD</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/sa/"> <h5>SA</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/tas/"> <h5>TAS</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/vic/"> <h5>VIC</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/wa/"> <h5>WA</h5></a> </li>
+          <li class="panel-type-all"> <a href="http://www.nzlii.org/databases.html"> <h5>New Zealand</h5></a> </li>
+        </ul>
+      </div>
+      <div id="panel-year">
+        <ul>
+          <li class="panel-type-specific">
+            <div>
+              <h5>Specific Year</h5><a href="#" class="year-specific-dropdown type-specific">Any</a> <select class="type-specific">
+                <option>
+                  2015
+                </option>
+              </select>
+            </div>
+          </li>
+<!--
+          <li class="panel-type-range">
+            <div>
+              <h5>Year Range</h5><a href="#" class="year-range-dropdown-1 type-range-1">1970</a> <select class="type-range-1">
+                <option> 2015 </option>
+              </select> <a href="#" class="year-range-dropdown-2 type-range-2">2015</a> <select class="type-range-2">
+                <option> 2015 </option>
+              </select> <a href="results.html" class="button">Apply</a>
+            </div>
+          </li>
+-->
+        </ul>
+      </div>
+      <div id="panel-letter">
+        <ul>
+          <li class="panel-letter-any"> <a href="#"> <h5>Any</h5></a> </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- "Year" dropdowns
+
+These dropdowns should be generated with data as appropriate.
+The data you see here is for presentatioal purposes.
+-->
+  <div class="year-options-list">
+    <div class="year-specific-options year-options">
+      <ul>
+        <li> <h5><a href="./">Any</a></h5> </li>
+<!--
+        <li> <h5><a href="2023/">2023</a></h5> </li>
+-->
+
+      </ul>
+    </div> <!-- specific-year -->
+
+<!--
+    <div class="year-range-1-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul>
+    </div> --> <!-- year-range-1 -->
+
+<!--
+    <div class="year-range-2-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul> 
+    </div> --> <!-- year-range-2 -->
+
+  </div> <!-- panels -->
+
+
+  <div id="page-content">
+    <div id="page-main">
+      <article class="the-document">
+        <h1>SSPR and Australian Information Commissioner [2023] AATA 3098 (19 September 2023)</h1>
+<!--make_database header end-->
+  <!--make_database: source=/home/philip/austlii/db/AATA/data/2023_3098.html-->
+  <!--sino date 19 September 2023-->
+
+<P>Last Updated: 3 October 2023
+</P>
+
+<!-- section break (page) --><p> </p>
+<p><b>SSPR and Australian Information Commissioner  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2023/3098.html" title="View Case" class="autolink_findcases">[2023] AATA 3098</a> (19
+September 2023)</b><br><br></p>
+<p><a name="SingleFile"></a>Division:	FREEDOM OF INFORMATION DIVISION</p>
+<p>File Number:	<b>2022/8103</b></p>
+<p>Re:	<b>SSPR</b></p>
+<p>	APPLICANT</p>
+<p>And	<b>Australian Information Commissioner</b></p>
+<p>	RESPONDENT</p>
+
+<p class="h1"><b>REASONS FOR DECISION</b></p>
+<p></p>
+<p><a name="Heading21"></a><a name="Decision"></a>Tribunal:	<b>Senior Member C.
+J. Furnell</b><br><br></p>
+<p>Date:	<b>19 September 2023</b></p>
+<p>Date of written reasons:	<b>22 September 2023</b></p>
+<p>Place:	<b>Melbourne</b></p>
+<p><br><br></p>
+<p><a name="DecisionSummary"></a>Pursuant to a decision made on 19 September
+2023, the Tribunal decided not to exercise its power under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s37.html" class="autolink_findacts">s 37(2)</a> of the
+<i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act 1975</a></i> (Cth) so as to require the
+Respondent to lodge with the Tribunal copies of certain documents. The following
+are the written reasons
+for that decision.</p>
+<p>..........................[<b>SGD</b>]..............................................</p>
+<p>Senior Member C. J. Furnell</p>
+<!-- section end (page) -->
+<!-- section break (page) --><p> </p>
+<p></p>
+<p><a name="CatchwordsTitle"></a><b><i>Catchwords</i></b></p>
+<p><a name="_Hlk147242052"></a><i>PRACTICE AND PROCEDURE &#8211; application for
+Tribunal to require lodgement of certain documents pursuant to <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s37.html" class="autolink_findacts">s 37(2)</a> of the
+<a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act 1975</a> </i>(Cth)<i> &#8211; whether Tribunal
+is of opinion that the documents may be relevant to the review of the decision
+under review &#8211; where
+Applicant submitted the decision-maker relied on or
+used the documents in making the decision under review &#8211; Tribunal not of
+opinion that the documents may be relevant &#8211; application refused
+</i><br><br></p>
+<p><a name="LegislationTitle"></a><b><i>Legislation</i></b></p>
+<p></p>
+<p><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act 1975</a></i> (Cth)</p>
+<p><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy Act 1988</a></i> (Cth)<br><br></p>
+<p><a name="CasesTitle"></a><b><i>Cases</i></b></p>
+<p><i>Cash World Gold Buyers Pty Ltd (Taxation) </i> <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2017/736.html" title="View Case" class="autolink_findcases">[2017] AATA 736</a></p>
+<p><i>Commissioner of Taxation v ACN 154 520 199 Pty Ltd (in liq) (formerly EBS
+&amp; Associates Pty Ltd) </i> <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/2018/1140.html" title="View Case" class="autolink_findcases">[2018] FCA 1140</a></p>
+<p><i>Dimitropoulos and Australian Securities and Investments Commission
+</i> <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2019/1775.html" title="View Case" class="autolink_findcases">[2019] AATA 1775</a></p>
+<p><i>Esber v Commonwealth of Australia </i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1992/20.html" title="View Case" class="autolink_findcases_inserted">[1992] HCA 20</a>;  <a href="/cgi-bin/LawCite?cit=%281992%29%20174%20CLR%20430" title="View LawCiteRecord" class="autolink_findcases">(1992) 174 CLR 430</a></p>
+<p><i>Frugtniet v Australian Securities and Investments Commission </i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2019/16.html" title="View Case" class="autolink_findcases_inserted">[2019] HCA 16</a>;  <a href="/cgi-bin/LawCite?cit=%282019%29%20266%20CLR%20250" title="View LawCiteRecord" class="autolink_findcases">(2019)
+266 CLR 250</a></p>
+<p><i>FYMS and Commissioner of Taxation (Taxation) </i> <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2022/456.html" title="View Case" class="autolink_findcases">[2022] AATA 456</a></p>
+<p><i>Mika Engineering Holdings Pty Ltd and Commissioner for Taxation</i>  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2006/634.html" title="View Case" class="autolink_findcases">[2006]
+AATA 634</a></p>
+<p><i>Minister for Immigration and Border Protection v Makasa </i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2021/1.html" title="View Case" class="autolink_findcases">[2021] HCA
+1</a></p>
+<p><i>Minister for Immigration, Citizenship, Migrant Services and Multicultural
+Affairs v ZRTY </i> <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/2022/1529.html" title="View Case" class="autolink_findcases">[2022] FCA 1529</a></p>
+<p><i>Shi v Migration Agents Registration Authority </i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2008/31.html" title="View Case" class="autolink_findcases_inserted">[2008] HCA 31</a>;  <a href="/cgi-bin/LawCite?cit=%282008%29%20235%20CLR%20286" title="View LawCiteRecord" class="autolink_findcases">(2008) 235 CLR
+286</a><br><br></p>
+<p></p>
+<p></p>
+<p></p>
+
+<p class="h1"><b>REASONS FOR DECISION</b></p>
+<p><br><br><a name="SecondaryMaterialsTitle"></a><a name="Heading56"></a><b>Senior
+Member C. J. Furnell</b><br><br><br><br><br><br><b>22 September 2023</b><br><br></p>
+<ol>
+<li style='' value='1' value="1">The
+applicant applied to have the Tribunal exercise a power it has to require a
+person to lodge copy documents with the Tribunal.
+</li>
+<li style='' value='2' value="2">The
+power arises under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/s37.html" class="autolink_findacts">s 37(2)</a> of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/aata1975323/" class="autolink_findacts">Administrative Appeals Tribunal Act
+1975</a></i> (Cth) (<b>AAT Act</b>). That section provides that the Tribunal
+&#8220;<i>may cause</i>&#8221; a notice to be given to a person who has made a
+decision the subject of review by the Tribunal which requires that the person
+lodge with the Tribunal a copy of a document or documents in the possession of,
+or under the control of, the person. The power is
+only exercisable, however, if
+the Tribunal is of the opinion that the document or documents in question
+&#8220;<i>may be relevant</i>&#8221; to the review of the relevant
+decision.</li>
+<li style='' value='3' value="3">At
+an interlocutory hearing conducted on 19 September 2023, I decided to refuse the
+applicant&#8217;s application. I was not satisfied
+that the documents in
+question may be relevant. I provided reasons for that decision, orally. The
+applicant has asked, however, that
+I provide a written statement of my reasons.
+I do so now.</li></ol>
+<p class="h2"><b>Review Application</b></p>
+<ol>
+<li style='' value='4' value="4"><a name="Heading66"></a>In
+2017, the applicant complained to the Australian Health Practitioner Regulation
+Agency (<b>AHPRA</b>) about certain conduct of a third party. The third party
+provided APHRA with a confidential submission in response. The submission
+is
+said to have included personal information of the applicant. The applicant asked
+the third party for access to that personal information.</li>
+<li style='' value='5' value="5">In
+requesting that access, the applicant relied on Australian Privacy Principle 12.
+That principle is set out in Schedule 1 to the
+<i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy Act 1988</a> </i>(Cth)
+(<b>Act</b>). Clause 12.1 of that schedule provides that if &#8220;...an <i>APP
+entity holds personal information about an individual, the entity must, on
+request by the individual, give the individual access
+to the
+information.</i>&#8221;<sup><a name="fnB1" href="#fn1">[1]</a></sup> </li>
+<li style='' value='6' value="6">The
+third party refused the applicant&#8217;s request for the relevant personal
+information. It did so on the basis that the third
+party was not an
+&#8220;<i>APP entity</i>&#8221; and, hence, not bound to provide that access.
+</li>
+<li style='' value='7' value="7">The
+applicant complained to the respondent about the acts or practices of the third
+party. The applicant alleges that the third party&#8217;s
+refusal to provide
+access to the relevant personal information constituted an interference with his
+privacy.<sup><a name="fnB2" href="#fn2">[2]</a></sup> In this regard, an act or
+practice of an APP entity may be an interference with the privacy of an
+individual if &#8220;...<i>the act or practice breaches an Australian Privacy
+Principle in relation to personal information about the
+individual</i>.&#8221;<sup><a name="fnB3" href="#fn3">[3]</a></sup></li>
+<li style='' value='8' value="8">On
+30 August 2022, the respondent determined to dismiss the applicant&#8217;s
+complaint, finding that &#8220;<i>the acts and practices that are the subject of
+the complaint are exempt under <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s7.html" class="autolink_findacts">s 7(1)(ee)</a> and <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/s7b.html" class="autolink_findacts">s 7B(1)</a> of the <a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/pa1988108/" class="autolink_findacts">Privacy
+Act</a></i>.&#8221; </li>
+<li style='' value='9' value="9">The
+applicant has applied to the Tribunal for review of that
+determination.</li></ol>
+<p class="h2"><b>Documents in Question</b></p>
+<ol>
+<li style='' value='10' value="10"><a name="Heading76"></a>The
+copy documents lodged with the Tribunal in these proceedings under s 37(1) of
+the AAT Act (<b>T documents</b>) include a report characterised as
+&#8220;<i>Resolve report</i>&#8221;.</li>
+<li style='' value='11' value="11">In
+that report, 261 documents are identified at pages 673 to 682 of the T
+documents.</li>
+<li style='' value='12' value="12">The
+Applicant requested that the Tribunal exercise its power under s 37(2) of the
+AAT Act to require the Respondent to lodge with
+the Tribunal a copy of those of
+the 261 documents not already included in the T documents. </li>
+<li style='' value='13' value="13">The
+applicant submitted that I ought to be satisfied that those 261 documents may be
+relevant to the Tribunal&#8217;s review of the
+respondent&#8217;s August 2022
+determination as:
+<blockquote>
+(a)	the 261 documents were listed &#8220;<i>as relevant to the decision in the
+Resolve report</i>&#8221;; <p>
+(b)	the respondent &#8220;<i>considered them relevant to the decision they were
+making/made</i>&#8221;; and<p>
+(c)	the 261 documents represented &#8220;<i>material relied upon by the decision
+maker</i>&#8221;.<sup><a name="fnB4" href="#fn4">[4]</a></sup>  
+</blockquote>
+</li></ol>
+<p class="h2"><b>Consideration</b></p>
+<ol>
+<li style='' value='14' value="14"><a name="Heading85"></a>The
+applicant&#8217;s submissions are, in essence, that the 261 documents were
+relied on or used by the respondent in making its August
+2022 determination.
+</li>
+<li style='' value='15' value="15">In
+support of his submissions, the applicant relies only on the fact that a
+reference to the documents is included in the Resolve
+report. That fact alone,
+however, does not speak to the validity of the applicant&#8217;s submissions. In
+particular, the submissions
+that the respondent relied upon the documents in
+arriving at the August 2022 determination and that they were relevant to that
+determination
+do not rise above mere speculation, being no more than &#8220;...
+<i>bare and unsupported assertions about the relevance of
+documents</i>&#8221;.<sup><a name="fnB5" href="#fn5">[5]</a></sup> </li>
+<li style='' value='16' value="16">Nevertheless,
+on the basis of a reference to them being included in the Resolve report, I am
+prepared to infer that the 261 documents
+concern the complaint which the
+applicant made to the respondent or were created in the course of considering
+that complaint.</li>
+<li style='' value='17' value="17">The
+fact that the documents may concern the applicant&#8217;s complaint to the
+respondent or were created in the course of considering
+that complaint, however,
+does not support, or represent an adequate basis for forming, an opinion that
+the documents may be of relevance.
+ </li>
+<li style='' value='18' value="18">The
+exercise of the s 37(2) power is conditioned on the formation of such an
+opinion. Such an opinion &#8220;<i>must be supported by a rational process of
+evaluation, based on reason and reasonable inference, not
+speculation</i>...&#8221;.<sup><a name="fnB6" href="#fn6">[6]</a></sup> </li>
+<li style='' value='19' value="19">The
+mere fact that a document &#8220;...<i>bears some correlation with the subject
+matter of, or evidence or issues in, the review proceedings</i>&#8221; does not
+make it potentially relevant.<sup><a name="fnB7" href="#fn7">[7]</a></sup> It
+&#8220;...<i>is not enough that the postulated documents merely have a
+connection with or pertain to the subject matter of the
+proceedings</i>&#8221;.<sup><a name="fnB8" href="#fn8">[8]</a></sup> </li>
+<li style='' value='20' value="20">The
+opinion required of the Tribunal before it may exercise its s 37(2) power needs
+to be &#8220;...<i>based on a rationally articulated connection between the
+documents sought and the matters required to be determined in the review
+proceedings</i>.&#8221;<sup><a name="fnB9" href="#fn9">[9]</a></sup></li>
+<li style='' value='21' value="21">This
+means that the potential relevance of a document is determined by reference to
+the role of the Tribunal in exercising its review
+function. In that role, the
+Tribunal is required to stand in the relevant decision-maker&#8217;s shoes to
+&#8220;<i>do over again</i>&#8221; that which was done by the
+decision-maker.<sup><a name="fnB10" href="#fn10">[10]</a></sup> In doing so, it
+performs the same function, exercises the same
+power,<sup><a name="fnB11" href="#fn11">[11]</a></sup> is subject to the same
+constraints and addresses the same question or
+questions<sup><a name="fnB12" href="#fn12">[12]</a></sup> as the
+decision-maker.</li>
+<li style='' value='22' value="22">The
+role undertaken by the Tribunal in doing over again that which was done by the
+decision-maker involves a remaking of the relevant
+decision. It does not entail
+a review of the processes of the decision-maker or, indeed, an assessment of the
+findings of the decision-maker.
+</li>
+<li style='' value='23' value="23">Hence,
+the fact that a document concerns the matter the subject of the
+decision-maker&#8217;s consideration or was created in the
+course of that
+consideration does not serve to establish its potential relevance. </li>
+<li style='' value='24' value="24">Indeed,
+a decision-maker&#8217;s reliance on a document in arriving at the decision the
+subject of Tribunal review (as the applicant
+submitted was the case in relation
+to the documents in question) is not determinative of its potential relevance.
+For example, material
+that might go to show that a decision-maker failed to act
+in good faith in making the decision the subject of review is not
+relevant.<sup><a name="fnB13" href="#fn13">[13]</a></sup> Similarly, internal
+legal advice relied upon by a decision-maker is unlikely to be of
+relevance.<sup><a name="fnB14" href="#fn14">[14]</a></sup> </li>
+<li style='' value='25' value="25">Accordingly,
+even if (as the applicant submits) the 261 documents informed the respondent in
+arriving at the August 2022 determination,
+that does not make them documents
+that may be relevant:
+<blockquote>
+<i> </i>&#8220;<i>The power in s 37(2) is not available simply because the
+taxpayer suspects documents somehow relate to a decision; nor is it enough
+that
+the documents are of interest to the taxpayer because they might reveal a
+less-than-elegant primary decision-making process...
+Once a matter comes before
+the Tribunal for a de novo review on the merits, ... the views of the
+decision-maker himself... are not
+generally relevant to my
+function.</i>&#8221;<sup><a name="fnB15" href="#fn15">[15]</a></sup>
+</blockquote>
+</li></ol>
+<p class="h2"><b>Decision</b></p>
+<ol>
+<li style='' value='26' value="26"><a name="Heading110"></a>The
+documents in question are those of the 261 documents identified in the Resolve
+report not already included in the T documents.</li>
+<li style='' value='27' value="27">The
+Tribunal is not of the opinion that those documents &#8220;<i>may be
+relevant</i>&#8221; to the review of the respondent&#8217;s August 2022
+determination.</li>
+<li style='' value='28' value="28">Hence,
+the Tribunal decides to refuse the applicant&#8217;s application to have the
+Tribunal exercise its power under s 37(2) of the
+AAT Act in relation to those
+documents.  </li></ol><p></p>
+
+<style>
+.ul-none {list-style: none;}
+</style>
+<div style="position:relative; left: 2.5em;"><table>
+<tr valign="top">
+<td width="242" valign="top">
+<div><i>I certify that the preceding 28 (twenty-eight) paragraphs are a true
+copy of the written reasons for the decision of Senior Member
+C. J.
+Furnell</i></div>
+</td>
+</tr>
+</table></div>
+<p><a name="StartStamp"></a><a name="NumParas"></a>.........................[SGD]...............................................<br><br>Associate</p>
+<p>Dated: 22 September 2023</p>
+<p></p>
+<div style="position:relative; left: 2.5em;"><table>
+<tr valign="top">
+<td width="233" valign="top">
+<div>Date of hearing:</div>
+</td>
+<td width="350" valign="top">
+<div><b>19 September 2023</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="233" valign="top">
+<div><a name="DateFinalSubmission"></a><a name="AppSelfRepresented"></a>Applicant:</div>
+</td>
+<td width="350" valign="top">
+<div><b>Self-represented</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="233" valign="top">
+<div><a name="Respondent_Counsel"></a>Counsel for the Respondent:</div>
+</td>
+<td width="350" valign="top">
+<div><b>Samuel Walpole</b></div>
+</td>
+</tr>
+<tr valign="top">
+<td width="233" valign="top">
+<div><a name="Respondent_Solicitors"></a>Solicitors for the Respondent:</div>
+</td>
+<td width="350" valign="top">
+<div><b>The Australian Government Solicitor</b></div>
+</td>
+</tr>
+</table></div>
+<p></p>
+<hr><p><sup><a name="fn1" href="#fnB1">[1]</a></sup> Act, s 15 requires APP entities
+to &#8220;<i>not do an act, or engage in a practice, that breaches an Australian
+Privacy Principle</i>.&#8221;</p>
+<p><sup><a name="fn2" href="#fnB2">[2]</a></sup> The applicant&#8217;s
+complaints about the respondent went beyond, however, the refusal to provide
+access. It included the collection
+of personal information and the use and
+disclosure of personal information.</p>
+<p><sup><a name="fn3" href="#fnB3">[3]</a></sup> Act, s 13(1).</p>
+<p><sup><a name="fn4" href="#fnB4">[4]</a></sup> Applicant&#8217;s request for s
+37(2) order submission at [9]-[10].</p>
+<p><sup><a name="fn5" href="#fnB5">[5]</a></sup> <i>Cash World Gold Buyers Pty
+Ltd (Taxation</i>)  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2017/736.html" title="View Case" class="autolink_findcases">[2017] AATA 736</a> at  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2017/736.html#para26" class="autolink_findcases">[26]</a>.</p>
+<p><sup><a name="fn6" href="#fnB6">[6]</a></sup> Ibid [25].</p>
+<p><sup><a name="fn7" href="#fnB7">[7]</a></sup> Ibid [26].</p>
+<p><sup><a name="fn8" href="#fnB8">[8]</a></sup> <i>Dimitropoulos and Australian
+Securities and Investments Commission</i>  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2019/1775.html" title="View Case" class="autolink_findcases">[2019] AATA 1775</a> at  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2019/1775.html#para82" class="autolink_findcases">[82]</a>.</p>
+<p><sup><a name="fn9" href="#fnB9">[9]</a></sup> Ibid.</p>
+<p><sup><a name="fn10" href="#fnB10">[10]</a></sup> <i>Minister for Immigration
+and Border Protection v Makasa</i>  <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2021/1.html" title="View Case" class="autolink_findcases">[2021] HCA 1</a> at  <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2021/1.html#para50" class="autolink_findcases">[50]</a>, quoting with evident
+approval two earlier decisions, <i>Frugtniet v Australian Securities and
+Investments Commission</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2019/16.html" title="View Case" class="autolink_findcases_inserted">[2019] HCA 16</a>;  <a href="/cgi-bin/LawCite?cit=%282019%29%20266%20CLR%20250" title="View LawCiteRecord" class="autolink_findcases">(2019) 266 CLR 250</a> at 271  <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2019/16.html#para51" class="autolink_findcases">[51]</a> and <i>Shi v Migration
+Agents Registration Authority</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2008/31.html" title="View Case" class="autolink_findcases_inserted">[2008] HCA 31</a>;  <a href="/cgi-bin/LawCite?cit=%282008%29%20235%20CLR%20286" title="View LawCiteRecord" class="autolink_findcases">(2008) 235 CLR 286</a> at 315  <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2008/31.html#para40" class="autolink_findcases">[40]</a>- <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2008/31.html#para100" class="autolink_findcases">[100]</a>.</p>
+<p><sup><a name="fn11" href="#fnB11">[11]</a></sup> <i>Minister for Immigration,
+Citizenship, Migrant Services and Multicultural Affairs v ZRTY</i>  <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/2022/1529.html" title="View Case" class="autolink_findcases">[2022] FCA
+1529</a> per Katzmann J at [34] citing <i>Esber v Commonwealth of Australia</i>
+<a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1992/20.html" title="View Case" class="autolink_findcases_inserted">[1992] HCA 20</a>;  <a href="/cgi-bin/LawCite?cit=%281992%29%20174%20CLR%20430" title="View LawCiteRecord" class="autolink_findcases">(1992) 174 CLR 430</a> at 440; <i>Frugtniet v Australian Securities and Investments
+Commission</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2019/16.html" title="View Case" class="autolink_findcases_inserted">[2019] HCA 16</a>;  <a href="/cgi-bin/LawCite?cit=%282019%29%20266%20CLR%20250" title="View LawCiteRecord" class="autolink_findcases">(2019) 266 CLR 250</a> at  <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2019/16.html#para14" class="autolink_findcases">[14]</a>- <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2019/16.html#para15" class="autolink_findcases">[15]</a>. See also <i>Minister for
+Immigration and Border Protection v Makasa</i>  <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2021/1.html" title="View Case" class="autolink_findcases">[2021] HCA 1</a> at  <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2021/1.html#para50" class="autolink_findcases">[50]</a>, where it is
+said that the &#8220;...<i>merits review function of the AAT is &#8220;to stand
+in the shoes of the decision-maker whose decision is under review so as to
+determine
+for itself on the material before it the decision which can, and which
+it considers should, be made in the exercise of the power
+or powers conferred on
+the primary decision-maker for the purpose of making the decision under
+review&#8221;. The function of the
+AAT, in other words, is &#8220;to do over
+again&#8221; that which was done by the primary decision-maker</i>.&#8221;</p>
+<p><sup><a name="fn12" href="#fnB12">[12]</a></sup> <i>Frugtniet v Australian
+Securities and Investments Commission</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2019/16.html" title="View Case" class="autolink_findcases_inserted">[2019] HCA 16</a>;  <a href="/cgi-bin/LawCite?cit=%282019%29%20266%20CLR%20250" title="View LawCiteRecord" class="autolink_findcases">(2019) 266 CLR 250</a> at  <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/2019/16.html#para51" class="autolink_findcases">[51]</a>, where it
+is said that the &#8220;...<i>AAT exercises the same power or powers as the
+primary decision-maker, subject to the same constraints. The primary decision,
+and the
+statutory question it answers, marks the boundaries of the AAT&#8217;s
+review. The AAT must address the same question the primary
+decision-maker was
+required to address, and the question raised by statute for decision by the
+primary decision-maker determines
+the considerations that must or must not be
+taken into account by the AAT in reviewing that decision&#8221;.</i></p>
+<p><sup><a name="fn13" href="#fnB13">[13]</a></sup> <i>Mika Engineering Holdings
+Pty Ltd and Commissioner for Taxation</i>  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2006/634.html" title="View Case" class="autolink_findcases">[2006] AATA 634</a> at  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2006/634.html#para28" class="autolink_findcases">[28]</a>- <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2006/634.html#para32" class="autolink_findcases">[32]</a>.</p>
+<p><sup><a name="fn14" href="#fnB14">[14]</a></sup> <i>Commissioner of Taxation
+v ACN 154 520 199 Pty Ltd (in liq) (formerly EBS &amp; Associates Pty Ltd)</i>
+ <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/2018/1140.html" title="View Case" class="autolink_findcases">[2018] FCA 1140</a> at  <a href="/cgi-bin/viewdoc/au/cases/cth/FCA/2018/1140.html#para49" class="autolink_findcases">[49]</a>; <i>FYMS and Commissioner of Taxation (Taxation)</i>
+ <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2022/456.html" title="View Case" class="autolink_findcases">[2022] AATA 456</a> at  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2022/456.html#para23" class="autolink_findcases">[23]</a>.</p>
+<p><sup><a name="fn15" href="#fnB15">[15]</a></sup> <i>FYMS and Commissioner of
+Taxation (Taxation)</i>  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2022/456.html" title="View Case" class="autolink_findcases">[2022] AATA 456</a> at  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2022/456.html#para23" class="autolink_findcases">[23]</a>.</p>
+
+<!-- section end (page) -->
+
+
+
+  <!--sino noindex-->
+      </article>
+    </div> <!-- page-main -->
+
+
+<!-- Document Sidebar -->
+    <div id="page-side">
+
+
+
+<!-- insert search-context.tx here when searching -->
+
+
+      <div class="side-element side-print">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M15.6 19.6h-10c-.6-.2-1-.6-1-1.3v-3.5H2.2c-.7 0-1.2-.5-1.2-1.2V5.3C1 4.5 1.5 4 2.2 4H4.6V1.6c0-.6.3-1 .9-1.2h10.2c.6.2.9.6.9 1.3V4H19c.5 0 .9.3 1.1.8 0 .1 0 .1.1.2v8.9c-.2.6-.6.9-1.3.9H16.6v3.6c0 .5-.4 1-.9 1.2h-.1zm3.4-6V5.2H2.2v8.4h2.4v-1.2H4c-.3 0-.5-.1-.5-.4-.2-.4.1-.8.6-.8h13.1c.4 0 .6.3.6.6s-.3.6-.6.6h-.6v1.2H19zm-3.6-1.2H5.8v6h9.6v-6zm0-10.8H5.8V4h9.6V1.6zM15.4 8.2c0-.3.3-.6.6-.6s.6.3.6.6-.3.6-.6.6-.6-.3-.6-.6zM10.6 13.6h3c.3 0 .6.2.6.5s-.2.6-.5.7H7.6c-.4 0-.7-.3-.7-.6s.3-.6.7-.6h3zM10.6 17.2H7.7c-.4 0-.7-.2-.7-.6 0-.3.3-.6.7-.6h5.9c.4 0 .7.2.7.6 0 .4-.3.6-.7.6h-3z"></path>
+        </g></svg>
+        <h4>Print</h4>
+        <ul>
+          <li> <a class="print-special" href="javascript:void(0);">Print (pretty)</a> </li>
+          <li> <a class="print-minimal" href="javascript:void(0);">Print (eco-friendly)</a> </li>
+        </ul>
+      </div> <!-- side-print -->
+
+
+      <div class="side-element side-download">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M12.5.9c1.3.5 1.7 1.5 1.7 2.9-.1 1.6 0 3.3 0 5h3.1c0 .1.1.1.1.2-.2.3-.3.5-.6.8l-5.3 5.3c-.7.6-1 .7-1.6.1-1.9-1.9-3.7-3.7-5.6-5.5-.1-.2-.3-.4-.6-.8H7c0-.4 0-.7.1-.9V3.8C7 2.4 7.4 1.4 8.7.9h3.8zM1.4 14.5h1.4v2.4c0 .9.2 1.1 1 1.1h13.5c.9 0 1-.2 1.1-1.1v-2.4h1.4v3.2c-.3.9-.9 1.4-1.7 1.7h-15c-.9-.3-1.4-.9-1.7-1.7v-3.2z"></path>
+        </g></svg>
+        <h4>Download</h4>
+        <ul>
+          <li> <a href="/au/cases/cth/AATA/2023/3098.rtf">RTF format (1.56 MB)</a> </li>
+        </ul>
+        <ul>
+          <li> <a href="/cgi-bin/sign.cgi/au/cases/cth/AATA/2023/3098">Signed PDF/A format</a> </li>
+        </ul>
+      </div> <!-- side-download -->
+
+      <div class="side-element side-cited-by">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M10.2 16.6c-.9-.2-1.8-.3-2.7-.5-1.5-.4-2.9-1.1-4-2.3-3-3-2.9-7.4.4-10.1C6.2 1.7 9 1.1 12 1.4c1.7.2 3.2.8 4.6 1.8 3.1 2.3 4 5.6 2.5 9.2-.8 2-2.3 3.4-4 4.6-2.3 1.5-4.8 2.2-7.4 2.5h-.2c-.1-.1-.2-.1-.4-.2 0-.1 0-.3.2-.3.7-.4 1.4-.7 2-1.1.4-.3.7-.8.9-1.3z"></path></svg>
+        <h4>Cited By</h4>
+        <ul>
+          <li> <a href="/cgi-bin/LawCite?cit=[2023] AATA 3098"> LawCite records</a> </li>
+          <li> <a href="/cgi-bin/sinosrch.cgi?method=boolean&query=2023 AATA 3098 or AATA 2023 3098"> NoteUp references</a> </li>
+          <!-- li> <a href=""> NoteUp references</a> </li -->
+        </ul>
+      </div> <!-- cited-by -->
+
+
+
+
+
+
+
+      <div class="side-element side-social">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M20.7 3.7c-.7.3-1.5.5-2.4.6.9-.5 1.5-1.3 1.9-2.3-.8.5-1.7.8-2.7 1-.8-.8-1.9-1.3-3.1-1.3-2.3 0-4.2 1.9-4.2 4.2 0 .3 0 .6.1 1C6.9 6.7 3.8 5 1.7 2.5c-.4.6-.6 1.3-.6 2.1 0 1.4.8 2.7 1.9 3.5-.7-.1-1.3-.3-1.9-.6v.1c0 2 1.4 3.7 3.4 4.1-.4.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.7 2.1 2.9 3.9 2.9-1.4 1.1-3.2 1.8-5.2 1.8-.3 0-.7 0-1-.1 1.9 1.2 4.1 1.9 6.4 1.9 7.7 0 11.9-6.4 11.9-11.9v-.5c.8-.6 1.6-1.3 2.1-2.1z"></path></svg>
+        <h4>Join the discussion</h4>
+        <ul>
+          <li> <a href="https://twitter.com/intent/tweet?text=%E2SSPR and Australian Information Commissioner [2023] AATA 3098 (19 September 2023)%E2%80%9D&amp;url=http://www.austlii.edu.au/au/cases/cth/AATA/2023/3098.html&amp;via=austlii&amp;hashtags=austlii" target="_blank">Tweet this page</a> </li>
+          <li> <a href="https://twitter.com/intent/user?screen_name=AustLII" target="_blank">Follow @AustLII on Twitter</a> </li>
+<!--
+          <li> <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=austlii" target="_blank">Recent tweets about AustLII</a> </li>
+-->
+        </ul>
+      </div>
+
+
+    </div> <!-- page-side -->
+
+
+
+    <footer class="closing">
+      <div class="inner">
+        <!--<ul class="closing-primary">
+      <li><a href="database-all.html">All Databases</a></li>
+      <li><a href="database-cases.html">Cases &amp; Legislation</a></li>
+      <li><a href="database-journals.html">Journals &amp; Scholarships</a></li>
+      <li><a href="database-treaties.html">Treaties</a></li>
+      <li><a href="database-libraries.html">Libraries</a></li>
+      <li><a href="#">LawCite</a></li>
+    </ul>-->
+        <ul class="closing-tertiary">
+          <li> <a href="/austlii/">About</a> </li>
+          <li> <a href="/austlii/copyright.html">Copyright &amp; Usage</a> </li>
+          <li> <a href="/austlii/privacy.html">Privacy</a> </li>
+          <li> <a href="/austlii/disclaimers.html">Disclaimers</a> </li>
+          <li> <a href="/austlii/help/">Help</a> </li>
+        </ul><small>http://www.austlii.edu.au/au/cases/cth/AATA/2023/3098.html</small>
+      </div>
+    </footer>
+
+  </div> <!-- page-content -->
+
+  <script src="/js/production.min.js">
+  </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"f74b553413eb4a50949f5730dcd56219"}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a21be1cd8b1d74a1',t:'MTc4NTE1NzgwMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

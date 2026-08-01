@@ -17,9 +17,14 @@ DBS=("cadena_knowledge" "cadena_asic" "cadena_aml" "cadena_precedents")
 for DB in "${DBS[@]}"; do
     ARCHIVE="${BACKUP_DIR}/${DB}_${TIMESTAMP}.sql.gz"
     echo "[$(date -Iseconds)]  Backing up ${DB}..."
-    docker exec cadena-postgres pg_dump -U postgres --compress=9 "$DB" > "$ARCHIVE"
-    SIZE=$(du -h "$ARCHIVE" | cut -f1)
-    echo "[$(date -Iseconds)]  ${DB} done: ${ARCHIVE} (${SIZE})"
+    docker exec cadena-postgres pg_dump -U postgres --compress=9 "$DB" > "$ARCHIVE" 2>/dev/null || {
+        echo "[$(date -Iseconds)]  ${DB} not found, skipping"
+        rm -f "$ARCHIVE"
+    }
+    if [ -f "$ARCHIVE" ]; then
+        SIZE=$(du -h "$ARCHIVE" | cut -f1)
+        echo "[$(date -Iseconds)]  ${DB} done (${SIZE})"
+    fi
 done
 
 # Purge backups older than 90 days (keep ~3 monthly cycles)

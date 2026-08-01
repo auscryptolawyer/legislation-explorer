@@ -28,6 +28,15 @@ def rulings_for_section(act: str, section: str, limit: int = 50, offset: int = 0
         found = next((item for item in ruling_list if item["citation"] == r["citation"]), None)
         if found:
             richer_rulings.append(found)
+        else:
+            # Include basic info even without full manifest entry
+            richer_rulings.append({
+                "citation": r["citation"],
+                "title": r.get("title", r["citation"]),
+                "type": "ruling",
+                "year": 0,
+                "ato_url": "",
+            })
     return {
         "act": act,
         "section": section,

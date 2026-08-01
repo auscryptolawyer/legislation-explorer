@@ -1,0 +1,910 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="en">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Solaris version 5.1.24" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>Port of Portland Pty Ltd and Commissioner of Taxation [2008] AATA 1162 (23 December 2008)</title>
+  <link media="screen" rel="stylesheet" href="/css/screen1.css" />
+  <link media="print" rel="stylesheet" href="/css/print.css" />
+  <meta name="theme-color" content="#ee3224" />
+  <meta name="description" content="Australasian Legal Information Institute (AustLII) - Hosted by University of Technology Sydney Faculty of Law" />
+  <link rel="icon" sizes="192x192" href="/images/icon-192.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/icon-shortcut.png" />
+  <meta name="msapplication-TileColor" content="#ee3224" />
+  <meta name="msapplication-TileImage" content="/images/icon/ms.png" />
+  <script src="/js/modernizr.min.js">
+  </script>
+</head>
+<body class=" cases  document ">
+  <header id="page-header">
+    <div id="primary">
+      <a id="page-logo" href="/" tabindex="1"><img src="/images/logo.svg" alt="AustLII"><span class="title-main">AustLII</span></a> <a class="go-search" href="#">Search</a>
+      <h1 id="page-title"><span>Administrative Appeals Tribunal of Australia</span></h1>
+    </div>
+
+
+<!-- Search box
+
+The search box at the top of most pages. Always visible unless the
+'search' variable is set to false, for pages where we don't want
+that box along the top, such as on Advanced Search & LawCite.
+
+'Results' is a class added to database pages, which exposes the ability
+to search just by that database.
+
+'Searchable' is a page variable which indicates the page has checkboxes
+on it - the search box has a radio button for selecting we only search
+the checked areas.
+
+'Extra search' is for those rare extra options found in pages like the
+Aviation Law Association library database.
+-->
+    <form action="/cgi-bin/sinosrch.cgi">
+<input type="hidden" name="meta" value="">
+      <div id="page-search">
+        <h2 class="hide">Search AustLII</h2>
+        <div class="search-box">
+          <a class="search-dropdown" href="javascript:void(0);">&#9660;</a>
+          <fieldset>
+            <legend>Search Options</legend>
+            <ul class="search-options">
+              <li><label for="database-all">All databases <input type="radio" name="mask_path" value="" id="database-all" tabindex="2" 
+/></label></li>
+              <li><label for="database-this">This database only <input type="radio" name="mask_path" value="au/cases/cth/AATA" id="database-this" tabindex="3" 
+checked="checked" 
+/></label></li>
+              <li><label for="database-full">Full text <input type="radio" name="method" value="auto" id="database-full" method="auto" checked="checked" tabindex="6" /></label></li>
+              <li><label for="database-title">Titles only <input type="radio" name="method" value="title" id="database-title" tabindex="7" /></label></li>
+              <li class="advanced-search">
+                <a href="/advanced_search.shtml" tabindex="8">Advanced Search&hellip;</a>
+              </li>
+            </ul>
+          </fieldset><label for="search-box" class="hide">Search term:</label> <input id="search-box" type="text" name="query" 
+  placeholder="Search this database only" 
+  tabindex="9" /><a href="javascript:void(0);" class="search-box-clear hide">&times;</a> <input type="submit" value="Search" tabindex="9" />
+        </div><a class="go-primary" href="#">Close</a>
+      </div>
+    </form>
+
+
+    <ul id="page-tertiary">
+      <li> <a href="/about.html">About</a> </li>
+      <li> <a href="/contact.html">Contact</a> </li>
+      <li> <a href="/copyright.html">Copyright &amp; Usage</a> </li>
+      <li> <a href="/privacy.html">Privacy</a> </li>
+      <li> <a href="/disclaimers.html">Disclaimers</a> </li>
+      <li> <a href="/feedback.html">Feedback</a> </li>
+      <li> <a href="/help.html">Help</a> </li>
+    </ul>
+  </header>
+
+
+<!-- Ribbons
+
+These are the red bars along the top of each page.
+
+Ribbon is a variable set on most pages; it defaults to an expanded view,
+and can be simplified using variables 'intro' (for home) and 'basic' (for
+search, about pages, etc.)
+-->
+  <nav id="ribbon">
+    <div class="inner">
+      <ul>
+        <li class="ribbon-type"> <a href="#" tabindex="10">Type <span>Cases</span></a> </li>
+        <li class="ribbon-jurisdiction"> <a href="#" tabindex="12">Jurisdiction <span>Commonwealth</span></a> </li>
+        <li class="ribbon-database"> <a href="../" tabindex="13">Database <span>Administrative Appeals Tribunal of Australia</span></a> </li>
+        <li class="ribbon-year "> <a href="./" tabindex="14">Year <span>2008</span></a> </li>
+        <li class="ribbon-citation"><a href="#" tabindex="16">Citation <span>[2008] AATA 1162</span></a></li>
+      </ul>
+    </div>
+  </nav> <!-- ribbon -->
+
+
+<!-- Panels
+
+The Panel defaults to 'year' view, which is what the database pages all have,
+it's what search results have, etc.
+
+The selections within if statements below are to visualize the 'is-selected'
+class across the various mock pages in the prototype.
+
+When implementing this, pull out the if statements and simply apply 'is-selected'
+when it's appropriate to that particular page.
+
+The options for the panel include:
+* none: the panel doesn't render
+* closed: the panel is present, but closed, adds 'is-closed' class
+* jurisdiction: jurisdiction is open at page load, adds 'is-jurisdiction' class
+* letter: 'starts with' is open at page load, adds 'is-letter' class
+-->
+  <div id="panels" class="is-closed">
+    <div class="inner">
+      <div id="panel-type">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>All Databases</h5> <p></p></a> </li>
+          <li class="panel-type-all is-selected"> <a href="/databases.html"> <h5>Cases &amp; Legislation</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/journals/"> <h5>Journals &amp; Scholarship</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/lawreform/"> <h5>Law Reform</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/treaties/"> <h5>Treaties</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/database-libraries.html"> <h5>Libraries</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="http://austlii.community/wiki/"> <h5>Communities</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/lawcite/"> <h5>LawCite</h5> <p></p></a> </li>
+        </ul>
+      </div>
+      <div id="panel-jurisdiction">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>Australia</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/cth/"> <h5>CTH</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/act/"> <h5>ACT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nsw/"> <h5>NSW</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nt/"> <h5>NT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/qld/"> <h5>QLD</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/sa/"> <h5>SA</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/tas/"> <h5>TAS</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/vic/"> <h5>VIC</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/wa/"> <h5>WA</h5></a> </li>
+          <li class="panel-type-all"> <a href="http://www.nzlii.org/databases.html"> <h5>New Zealand</h5></a> </li>
+        </ul>
+      </div>
+      <div id="panel-year">
+        <ul>
+          <li class="panel-type-specific">
+            <div>
+              <h5>Specific Year</h5><a href="#" class="year-specific-dropdown type-specific">Any</a> <select class="type-specific">
+                <option>
+                  2015
+                </option>
+              </select>
+            </div>
+          </li>
+<!--
+          <li class="panel-type-range">
+            <div>
+              <h5>Year Range</h5><a href="#" class="year-range-dropdown-1 type-range-1">1970</a> <select class="type-range-1">
+                <option> 2015 </option>
+              </select> <a href="#" class="year-range-dropdown-2 type-range-2">2015</a> <select class="type-range-2">
+                <option> 2015 </option>
+              </select> <a href="results.html" class="button">Apply</a>
+            </div>
+          </li>
+-->
+        </ul>
+      </div>
+      <div id="panel-letter">
+        <ul>
+          <li class="panel-letter-any"> <a href="#"> <h5>Any</h5></a> </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- "Year" dropdowns
+
+These dropdowns should be generated with data as appropriate.
+The data you see here is for presentatioal purposes.
+-->
+  <div class="year-options-list">
+    <div class="year-specific-options year-options">
+      <ul>
+        <li> <h5><a href="./">Any</a></h5> </li>
+<!--
+        <li> <h5><a href="2008/">2008</a></h5> </li>
+-->
+
+      </ul>
+    </div> <!-- specific-year -->
+
+<!--
+    <div class="year-range-1-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul>
+    </div> --> <!-- year-range-1 -->
+
+<!--
+    <div class="year-range-2-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul> 
+    </div> --> <!-- year-range-2 -->
+
+  </div> <!-- panels -->
+
+
+  <div id="page-content">
+    <div id="page-main">
+      <article class="the-document">
+        <h1>Port of Portland Pty Ltd and Commissioner of Taxation [2008] AATA 1162 (23 December 2008)</h1>
+<!--make_database: source=/home/philip/austlii/db/AATA/data/2008_1162.html-->
+<!--sino date 23 December 2008-->
+
+<P>Last Updated: 5 January 2009
+</P>
+
+<p align="center"><b></b></p>
+<p align="center"><b>Administrative Appeals Tribunal</b></p>
+<p align="center"><b>DECISION AND REASONS FOR DECISION  <a href="/cgi-bin/viewdoc/au/cases/cth/AATA/2008/1162.html" title="View Case" class="autolink_findcases">[2008] AATA 1162</a></b></p>
+<p><b>ADMINISTRATIVE APPEALS TRIBUNAL</b>	<b>)</b></p>
+<p><b>)	Nos VT2006/349-352</b></p>
+<p><b>TAXATION APPEALS DIVISION	)</b></p>
+<p><b>Re	PORT OF PORTLAND PTY LTD </b></p>
+<p align="right"><b>Applicant</b></p>
+<p><b>And	COMMISSIONER OF TAXATION</b></p>
+<p align="right"><b>Respondent</b></p>
+<p align="center"><b>DECISION</b></p>
+<p><b>Tribunal</b>	Justice Downes, President</p>
+<p>	Mr G L McDonald, Deputy President</p>
+<p><b>Date</b>	23 December 2008</p>
+<p><b>Place</b>	Melbourne</p>
+<p><b>Decision	</b>The matter is adjourned to a date to be fixed.</p>
+<p>	.....................[sgd]......................<br><br>	Garry
+Downes<br><br>	President</p>
+<p><b>CATCHWORDS</b></p>
+<p><i>TAXATION &#8211; income tax &#8211; depreciation of assets &#8211;
+breakwaters and groyne - application of former Division 42 of the
+</i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/" class="autolink_findacts">Income Tax
+Assessment Act 1997</a> (Cth)<i> &#8211; &#8220;plant&#8221; &#8211; common law
+meaning of &#8220;plant&#8221; &#8211; breakwaters a means by which taxpayer
+carries
+on business &#8211; not setting of business &#8211; breakwaters are
+plant &#8211; groyne is not </i></p>
+<br><br>
+<p><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/" class="autolink_findacts">Income Tax Assessment Act 1997</a></i> (Cth) former ss 42-15, 42-18 and, as
+amended, Division 40 </p>
+<p><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itpa1997402/" class="autolink_findacts">Income Tax (Transitional Provisions) Act 1997</a></i> (Cth) s 40-10</p>
+<p><i>Portland Harbour Trust Act 1949</i> (Vic) </p>
+<br><br>
+<p><i>Cooke (Inspector of Taxes) v Beach Station Caravans Ltd</i>  <a href="/cgi-bin/LawCite?cit=%5b1974%5d%201%20WLR%201398" title="View LawCiteRecord" class="autolink_findcases">[1974] 1 WLR
+1398</a>;  <a href="/cgi-bin/LawCite?cit=1974%203%20All%20ER%20159" title="View LawCiteRecord" class="autolink_findcases">1974 3 All ER 159</a></p>
+<p><i>Federal Commissioner of Taxation v Broken Hill Pty Co Ltd </i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1968/16.html" title="View Case" class="autolink_findcases_inserted">[1968] HCA 16</a>;  <a href="/cgi-bin/LawCite?cit=%281969%29%20120%20CLR%20240" title="View LawCiteRecord" class="autolink_findcases">(1969) 120
+CLR 240</a></p>
+<p><i>Imperial Chemical Industries of Australia and New Zealand Ltd v Federal
+Commissioner of Taxation </i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1970/9.html" title="View Case" class="autolink_findcases_inserted">[1970] HCA 9</a>;  <a href="/cgi-bin/LawCite?cit=%281970%29%20120%20CLR%20396" title="View LawCiteRecord" class="autolink_findcases">(1970) 120 CLR 396</a></p>
+<p><i>Inland Revenue Commissioners v Barclay, Curle &amp; Co Ltd</i>  <a href="/cgi-bin/LawCite?cit=%5b1969%5d%201%20WLR%20675" title="View LawCiteRecord" class="autolink_findcases">[1969] 1
+WLR 675</a>;  <a href="/cgi-bin/LawCite?cit=%5b1969%5d%201%20All%20ER%20732" title="View LawCiteRecord" class="autolink_findcases">[1969] 1 All ER 732</a></p>
+<p><i>Wangaratta Woollen Mills Ltd v Federal</i> <i>Commissioner of Taxation
+</i><a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1969/39.html" title="View Case" class="autolink_findcases_inserted">[1969] HCA 39</a>;  <a href="/cgi-bin/LawCite?cit=%281969%29%20119%20CLR%201" title="View LawCiteRecord" class="autolink_findcases">(1969) 119 CLR 1</a></p>
+<p><i>Yarmouth v France (1887)</i> 19 QB 647</p>
+<p class="h1"><b>
+<br><br>REASONS FOR DECISION</b></p>
+<div style="position:relative; left: -5"><table>
+<tr valign="top">
+<td width="205" valign="top">
+<div><a name="Heading37"></a><a name="Heading38"></a>23 December 2008</div>
+</td>
+<td width="430" valign="top">
+<div>Justice Downes, President</div>
+<div>Mr G L McDonald, Deputy President</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="205" valign="top">
+<br><br></td>
+<td width="430" valign="top">
+<br><br></td>
+</tr>
+</table></div>
+<p><b>CONCLUSION</b></p>
+<ol>
+<li style='' value='1' value="1">The
+relevant tax legislation permits the depreciation of plant.  The principal
+question is whether two breakwaters owned by the taxpayer
+Port of Portland Pty
+Limited, which form Portland harbour, are plant.  It may be counter-intuitive to
+suggest that such substantial
+structural improvements, set on the seabed, are
+plant.  This is, however, what we have concluded.  They are part of the means by
+which the taxpayer carries on its business rather than the setting in which the
+business is carried on.  We have concluded, however,
+that a groyne or retaining
+wall attached to the main breakwater, the primary function of which is to
+protect and retain reclaimed
+land, is not
+plant.</li></ol><p><b>LEGISLATION</b></p>
+<ol>
+<li style='' value='2' value="2">Before
+its amendment in 2001, s 42-15 of the <i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/" class="autolink_findacts">Income Tax Assessment Act</i>
+<i>1997</a></i> (Cth) provided a depreciation deduction for &#8220;plant&#8221;
+which was used in the production of income.  The then s 42-18 contained
+an
+inclusive definition of &#8220;plant&#8221;.  However, none of the specifically
+identified items described in s 42-18 are of relevance
+to this case. 
+Consequently, the common law understanding of what is constituted by
+&#8220;plant&#8221; would apply if the 1997 Act
+had continued in force
+unamended.  The 1997 Act was amended, however, in 2001 and the notion of
+&#8220;plant&#8221; was replaced
+in the substituted Division 40 by the
+concept of &#8220;depreciating assets&#8221;.  </li>
+<li style='' value='3' value="3">Accompanying
+the amending Act was the <a name="OLE_LINK1"></a><i><a href="/cgi-bin/viewdoc/au/legis/cth/consol_act/itpa1997402/" class="autolink_findacts">Income Tax (Transitional
+Provisions) Act 1997</a></i> (Cth) which relevantly provides, in s 40-10(1), that
+that section applies to a taxpayer that had claimed depreciation for plant under
+the 1997 Act before it was amended.  Section 40-10(2) applies the depreciation
+deductibility provisions introduced by the amended
+legislation to plant which
+continued to be held by the taxpayer at 1 July 2001.  The breakwaters were the
+subject of earlier claims
+and were held by the applicant as at 1 July
+2001.</li></ol><p><b>PORTLAND HARBOUR</b></p>
+<ol>
+<li style='' value='4' value="4">Portland
+is the birthplace of Victoria.  It was named, in 1800, after the Duke of
+Portland.  Flinders and Baudin noticed it when they
+sailed past, weeks apart, in
+1802.  Whalers and sealers visited it in the first part of the nineteenth
+century.  One whaler, Edward
+Henty, was first to settle there, in 1834, and
+begin to use its land for agriculture.</li>
+<li style='' value='5' value="5">The
+land form gives the seafront at Portland some protection from the ocean.  There
+is, however, no natural harbour, as there is with
+the three other commercially
+operating ports in Victoria (Melbourne, Geelong and Hastings).  Nevertheless, by
+the middle of the nineteenth
+century, Portland was used for shipping.  A jetty
+was constructed in 1846.  A deepwater pier followed.  By the middle of the
+twentieth
+century proposals were in train for the construction of a sheltered
+port.  In 1945 the Victorian Parliamentary Public Works Committee
+recommended
+that a port should be developed.  Plans were drawn up.  A corporation called the
+Portland Harbour Trust, later called
+the Port of Portland Authority, was
+constituted by the <i>Portland Harbour Trust Act 1949 </i>(Vic).</li>
+<li style='' value='6' value="6">Construction
+work began on the port in 1952.  Basic infrastructure was in place by 1959, when
+shipping began to use the new port,
+with the necessary breakwaters being fully
+completed by 1965.  Thereafter, the port facilities were expanded and
+modernised.  Two
+wave walls were added to the breakwaters, but, apart from
+necessary maintenance, the breakwaters remained otherwise unchanged.  The
+operation of the port continued under the Port of Portland Authority until 1996
+when a decision was made by the Victorian government
+to privatise the port.</li>
+<li style='' value='7' value="7">In
+1996 the port was sold and its business and assets transferred to the taxpayer. 
+The taxpayer has been conducting the business
+of the port since that time. 
+</li>
+<li style='' value='8' value="8">The
+evidence before us from Mr Scott Paterson, the taxpayer&#8217;s Chief
+Executive Officer, Mr Peter Farrow, the Project Engineer,
+Mr Veluppillai
+Vijayapalan, the Port Marine Manager, Mr Peter Moir, the Operations Manager
+and Mr Geoff Atkins, an expert engineer
+with extensive experience in
+advising on harbour works, describes in great detail the design of the port
+structures and how it operates.
+ However, there was little dispute on the facts.
+None of the applicant&#8217;s witnesses were cross examined.  It seems to us
+that
+the pertinent facts can be relatively simply stated.</li>
+<li style='' value='9' value="9">Portland
+is set on the western side of Portland Bay which is a very large bay
+approximately 50 kilometres wide on the south coast
+of Victoria.  At the western
+extremity of the bay is Point Danger and Lawrence Rocks which provide some
+shelter from the south and
+west.  The shore at Portland is in the shape of an
+arc facing north-east.  The modern port is enclosed by two breakwaters.  The
+main
+breakwater is 1310 metres in length and runs broadly north-south and
+protects against the prevailing sea from the east and south-east.
+ The other
+breakwater, the lee breakwater, is 1120 metres in length and runs broadly
+east-west and protects against seas from the
+north-east as well as minimising
+littoral drift of sand into the harbour and the effect of refractory waves from
+the main breakwater.
+ If the gap between the entrance to the harbour between the
+two breakwaters is seen as containing the centre of a circle, the breakwaters
+are the radii and the shore is the arc joining them.  </li>
+<li style='' value='10' value="10">Within
+the harbour there are three berths immediately adjacent to the main breakwater. 
+Two of these are located on the KS Anderson
+wharf.  The third is the smelter
+berth used exclusively for handling aluminium.  Alumina dust is unloaded and
+transported by an overhead
+conveyer belt constructed along the breakwater which
+passes underground as it leaves the port for processing in a nearby smelter
+factory.  Additional berths are located on reclaimed land opposite the main and
+lee breakwaters. Two further berths are located on
+the SL Paterson wharf
+adjacent to the lee breakwater.  The port provides bulk and general cargo
+facilities.  It deals in substantial
+quantities of grain and woodchips.  </li>
+<li style='' value='11' value="11">A
+feature of the port is a deepwater turning circle which permits vessels to be
+turned by tugs, after entering the port, and then
+moored facing the entrance to
+the harbour. The SL Patterson Berth is generally used to tie up the tugs. </li>
+<li style='' value='12' value="12">The
+port provides a vital shipping link for western Victoria and south-east South
+Australia.  The port is linked to these areas, particularly
+western Victoria, by
+both road and rail.  The areas support substantial grain growing and wood chip
+forestry.  These, along with
+aluminium, provide a substantial, but by no means
+the whole, of the business of the port.  Indeed, recent drought conditions have
+substantially reduced the throughput of grain.</li>
+<li style='' value='13' value="13">Adjoining
+the port lands and extending south-east was some low lying land, in front of
+small cliffs, threatened by the sea.  This
+land was reclaimed and protected by a
+groyne.  The land and groyne were part of the property acquired by the taxpayer.
+The north-western
+end of the groyne joins the southern end of the main
+breakwater.  The resumed land is used as the site of a fertilizer factory which
+benefits from proximity to the port.  The taxpayer earns income from the
+occupation of the land by the factory.</li>
+<li style='' value='14' value="14">The
+assets which the taxpayer acquired when the port was sold include the land on
+which the breakwater and the groyne are constructed
+and the reclaimed land on
+which the port facilities are constructed.  In addition to loading and unloading
+equipment, the facilities
+include storage sheds for wheat and woodchips, grain
+silos, a bulk storage site presently used for woodchips and port offices.  The
+breakwaters and groyne were transferred as structural improvements.  </li>
+<li style='' value='15' value="15">The
+assets transferred included a trawler wharf, built on an earlier breakwater on
+the same alignment as the main breakwater but much
+closer to the shore, with
+which is associated a slipway and a fishermen&#8217;s wharf.  The earlier
+breakwater is complemented by
+another small breakwater, now used to support a
+marina, which enclosed a smaller anchorage.  It seems that the trawler wharf,
+slipway
+and fishermen&#8217;s wharf and the land on which they are constructed,
+were transferred to the taxpayer.  The evidence does not
+disclose whether the
+use of these facilities creates income for the taxpayer, but it seems likely
+that it would.  The smaller anchorage
+also contains a yacht club and a boat ramp
+as well as the marina.  Inside the lee breakwater there is reclaimed land along
+the shore
+which houses a museum.  It is not clear whether this land was
+transferred to the taxpayer.</li>
+<li style='' value='16' value="16">The
+taxpayer is the port authority.  Port officials, such as the Harbour Master, are
+employees of the taxpayer.  The taxpayer and
+these officials have duties under
+Victorian state legislation relating to safe navigation inside and outside the
+port and maritime
+safety generally and, since 2004, under a Federal regime
+regulating security at ports.  </li></ol><p><b>ARE THE BREAKWATERS AND GROYNE
+PLANT?</b></p>
+<ol>
+<li style='' value='17' value="17">This
+case is concerned with the four income tax years ending 30 June 2001 to
+30 June 2004.  The taxpayer claimed a good deal of the
+port infrastructure
+as depreciable plant.  This included, no doubt, movable items such as cranes and
+the like, as well as some fixed
+items such as bollards and dolphins.  Some of
+these are constructed on the breakwaters.  It also included the breakwaters and
+the
+groyne.  Other items such as reclaimed land upon which the port facilities
+were constructed and the sloping rock wall sides of that
+land were not claimed
+as plant.  Broadly speaking, the Commissioner allowed the claimed items except
+the breakwaters and the groyne.
+ </li>
+<li style='' value='18' value="18">A
+great deal was said in argument as to what was the business of the taxpayer. 
+The taxpayer argued that its business included the
+provision of a safe port as
+well as the provision of facilities and services for the loading, unloading,
+repair and servicing of
+vessels.  The Commissioner argued that the
+taxpayer&#8217;s relevant business excluded the provision of the port
+facilities.  The
+alternative submissions were presented to support,
+respectively, the arguments that the breakwaters did or did not perform a
+function
+as part of the taxpayer&#8217;s business.  In respect of the groyne the
+taxpayer submitted it was plant because it aided the function
+performed by the
+breakwaters and protected the reclaimed land from which the taxpayer received
+rent.  </li></ol><p><b>THE BREAKWATERS ARE PLANT</b></p>
+<ol>
+<li style='' value='19' value="19">We
+are satisfied that the business of the taxpayer includes all of the described
+activities.  We think this is obvious from a superficial
+examination of what the
+taxpayer does.  This tentative conclusion is confirmed by the evidence.  The
+heart of the business of the
+taxpayer is providing facilities and services for
+the loading, unloading, servicing and repair of vessels.  An inseparable part of
+these activities is holding vessels in a firm and stable position so that the
+operations can take place.  Part of this involves securing
+the vessel safely to
+a berth so that the operation can take place safely and efficiently and without
+damage to the wharf or vessel.
+ It is obvious that the breakwaters play an
+important role in this function.  One only has to contemplate what might be
+required
+to safely secure a vessel in the unlikely event that such a wharf were
+exposed to the sea.  The probable answer is that no level
+of protection would
+provide the same safety and security as the breakwaters.  </li>
+<li style='' value='20' value="20">It
+is tempting to draw on experience that port facilities are often provided in
+natural harbours or in harbours not owned by the owner
+of the port facilities
+and to reason that the provision of a safe port is not part of the business of
+the owner of the port facilities.
+ That is not, however, this case.  This is a
+case in which the one corporation provides both the port and the facilities and
+employs
+its assets towards both ends.  The business of the taxpayer is,
+accordingly, the provision of the port itself as a safe harbour and
+the
+provision of the port facilities.  </li>
+<li style='' value='21' value="21">This
+conclusion as to what the business of the taxpayer is does not, however, answer
+the question.  The fact that the breakwaters
+are functionally part of the
+business of the taxpayer does not mean that they are necessarily plant of the
+taxpayer.  The same is
+true of the groyne. The roof of a wool store is
+functionally part of the business of the operator of the wool store, in keeping
+all
+wool clean and dry, but this does not necessarily mean that the roof of the
+wool store is part of the plant of its operator.  The
+question is whether the
+breakwaters and the groyne are merely the setting in which the business is
+carried on (see, for example,
+<i>Wangaratta Woollen Mills Ltd v Federal
+Commissioner of Taxation</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1969/39.html" title="View Case" class="autolink_findcases_inserted">[1969] HCA 39</a>;  <a href="/cgi-bin/LawCite?cit=%281969%29%20119%20CLR%201" title="View LawCiteRecord" class="autolink_findcases">(1969) 119 CLR 1</a>; <i>Federal Commissioner of
+Taxation v Broken Hill Pty Co Ltd</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1968/16.html" title="View Case" class="autolink_findcases_inserted">[1968] HCA 16</a>;  <a href="/cgi-bin/LawCite?cit=%281969%29%20120%20CLR%20240" title="View LawCiteRecord" class="autolink_findcases">(1969) 120 CLR 240</a>; and <i>Imperial
+Chemical Industries of Australia and New Zealand Ltd v Federal Commissioner of
+Taxation</i> <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1970/9.html" title="View Case" class="autolink_findcases_inserted">[1970] HCA 9</a>;  <a href="/cgi-bin/LawCite?cit=%281970%29%20120%20CLR%20396" title="View LawCiteRecord" class="autolink_findcases">(1970) 120 CLR 396).</a>  </li>
+<li style='' value='22' value="22">We
+have concluded that the breakwaters are not merely the setting in which the
+business is carried on. Although their function can
+be described as excluding
+hostile elements from the harbour area, and to that extent they are like a
+building which houses a store,
+they are nevertheless much more.  They do not
+move, like machinery does and to that extent they are passive.  There are,
+however,
+many decisions holding that passive structures can be plant.  We also
+note, from the supplementary statement of Mr Farrow, the port&#8217;s
+Project Engineer, that the breakwaters and the groyne require maintenance,
+including removing rock thrown over the breakwater onto
+the adjoining roadway,
+and the replacement of rock lost through the action of the sea.  Without the
+maintenance the ocean would over
+time breach the breakwaters which in turn would
+destroy the other port installations and be &#8220;catastrophic&#8221;
+(at 2) for
+the port operations.</li>
+<li style='' value='23' value="23">The
+breakwaters are much more than the mere housing for an activity.  They are part
+of the activity itself.  They play a role in keeping
+vessels in place to enable
+loading and unloading just as significant as the bollards, dolphins, guards and
+lines which are attached
+to, or in contact with, the vessel itself.  The
+breakwaters were carefully designed to provide a harbour which is protected from
+the sea. The evidence suggests that they were well designed for the purpose, but
+that does not really matter.  There are no degrees
+of tax deductibility
+associated with degrees of excellence in design.</li>
+<li style='' value='24' value="24">The
+parties helpfully referred us to a number of cases on the question of what
+amounts to plant at common law, commencing with <i>Yarmouth v France</i>  <a href="/cgi-bin/LawCite?cit=%281887%29%2019%20QB%20647" title="View LawCiteRecord" class="autolink_findcases">(1887)
+19 QB 647</a>, where a horse was found to constitute plant in a business operating
+carts and horses.  There is, however, a limit to the helpfulness
+of authorities
+in assisting a tribunal to determine whether facts do, or do not, fall within a
+category defined by the common law.
+ While our finding will be one of fact, it
+must be appreciated that, as Megarry J said in <i>Cooke (Inspector of
+Taxes) v Beach Station Caravans Ltd </i> <a href="/cgi-bin/LawCite?cit=%5b1974%5d%201%20WLR%201398" title="View LawCiteRecord" class="autolink_findcases">[1974] 1 WLR 1398</a> at 1402;  <a href="/cgi-bin/LawCite?cit=%5b1974%5d%203%20All%20ER%20159" title="View LawCiteRecord" class="autolink_findcases">[1974] 3 All
+ER 159</a> at 166, &#8220;[t]o some extent the matter must be one of impression,
+though it is important that the impression should not be untutored.&#8221;
+
+</li>
+<li style='' value='25' value="25">We
+think it appropriate to refer particularly to two of the cases to which the
+parties directed our attention.  The first is a decision
+of the House of Lords
+relating to a dry dock: <i>Inland Revenue Commissioners v Barclay, Curle &amp;
+Co Ltd</i><span class="sup"> </span> <a href="/cgi-bin/LawCite?cit=%5b1969%5d%201%20WLR%20675" title="View LawCiteRecord" class="autolink_findcases">[1969] 1 WLR 675</a>;  <a href="/cgi-bin/LawCite?cit=%5b1969%5d%201%20All%20ER%20732" title="View LawCiteRecord" class="autolink_findcases">[1969] 1 All ER 732.</a>  The
+majority in the House of Lords (Lords Reid, Guest and Donovan) concluded that
+the dry dock was a single entity which could not
+be divided between the concrete
+structure, on the one hand, and equipment associated with it which actually
+raised and lowered the
+water, on the other.  They went further and held that the
+excavation which preceded the construction of the walls and base of the
+dock was
+a necessary preliminary to the construction of the dock.  </li>
+<li style='' value='26' value="26">Lord
+Reid did not think &#8220;mere size&#8221; (at WLR 679) disqualified a structure
+as plant.  The test was whether the structure
+&#8220;fulfils the function of
+plant&#8221; (at 679).  He identified two stages in the company&#8217;s
+operations (at 679):</li></ol><blockquote>
+<i>&#8220;First <u>the ship must be isolated from the water</u> and then the
+inspection and necessary repairs must be carried out.  If one looks only at the
+second stage it would not be difficult
+to say that the dry dock is merely the
+setting in which it takes place.  But I think that the first stage is equally
+important, and
+it is obvious that it requires massive and complicated
+equipment... It seems to me that every part of this dry dock plays an essential
+part in getting large vessels into a position where work on the outside of the
+hull can begin, and that it is <u>wrong to regard either the concrete or any
+other part of the dock as a mere setting</u> or part of the premises in which
+this operation takes place.  The whole dock is, I think, the means by which, or
+plant with which,
+the operation is performed.&#8221;  </i>(Emphasis
+added.)</blockquote><br><br>
+<ol>
+<li style='' value='27' value="27">The
+present taxpayer&#8217;s operations can be divided into two stages in much the
+same way as the operations of the dry dock.  Indeed,
+identifying such a division
+was the first step in the Commissioner&#8217;s argument.  However, just as it
+was wrong to look only
+at the second stage to characterise the operations of the
+dry dock, so it seems to us to be wrong to look only at the second stage
+activities here.  In the case of the first stage with the dry dock, the object
+was isolation from the water; in the present case,
+it is the associated object
+of protection from waves.</li>
+<li style='' value='28' value="28">Lord
+Donovan&#8217;s description of the function of the dry dock may relevantly be
+equated to our description of the function of the
+breakwaters (at WLR
+691):</li></ol><blockquote>
+<i>&#8220;... [T]his dry dock, looked upon as a unit, accommodates ships,
+<u>separates them from their element</u> and thus exposes them for repair; holds
+them in position while repairs are effected, and when this is done returns them
+to the water.&#8221;
+</i>(Emphasis added.)</blockquote><br><br>
+<ol>
+<li style='' value='29' value="29">We
+are satisfied that it is an integral part of the applicant&#8217;s business to
+provide both a safe harbour and the port facilities.
+ The respondent appeared to
+rely on a submission that the taxpayer earned no income from the provision of a
+safe port whereas it
+derived income from the provision of the facilities. 
+Because the taxpayer is a corporation governed by the profit motive it must
+seek
+to carry on its business profitably.  The assets employed in the business
+include the breakwaters and the groyne.  Profitably
+carrying on the business
+will normally include seeking a return on the investment of all assets employed
+and the cost of maintaining
+them.  Whether its charges isolate this item does
+not matter although it appears to us from the evidence that they do (see
+supplementary
+witness statement of Mr Paterson, Attachment A).  Nor does it
+matter if the taxpayer has not expressly taken these matters into account
+in the
+calculation of its charges.  The charges may, for example, be affected by the
+pressures of competition.  What does matter
+is that the assets are used by the
+business.  We have found that they are.  In <i>Yarmouth v France</i>
+Lindley LJ stated (at 658):</li></ol><blockquote>
+<i>&#8220;.... in its ordinary sense, it [plant] includes whatever apparatus is
+used by a business man for carrying on his business,
+- not his stock-in-trade
+which he buys or makes for sale; but all goods and chattels, fixed or moveable,
+live or dead, which he keeps
+for permanent employment in his business&#8221;.
+</i></blockquote><br><br>
+<ol>
+<li style='' value='30' value="30">We
+are satisfied that the two breakwaters should be considered as part of the
+applicant&#8217;s overall business activity and accordingly
+they should be
+characterised as part of its plant. </li></ol><p><b>THE GROYNE IS NOT
+PLANT</b></p>
+<ol>
+<li style='' value='31' value="31">That
+brings us to the groyne.  There is little evidence about the function of the
+groyne.  There can be no doubt that a primary function
+of the groyne is to
+protect and retain the reclaimed land on which the fertilizer factory is
+constructed.  There is some evidence
+that the groyne compliments the work of the
+main breakwater, by partially directing the prevailing waves along, rather than
+against,
+the main breakwater, and that the groyne protects the southern end of
+the main breakwater.  Mr Geoff Atkins, an engineer called to
+give evidence by
+the taxpayer, identified three functions of the groyne &#8220;in no particular
+order&#8221;.  They were:</li></ol><blockquote>
+<i>&#8220;1.	To provide protection to the reclaimed land... .&#8221;</i><br><br>
+<i>&#8220;2.	To protect the base of the adjacent cliffs from
+erosion.&#8221;</i><br><br>
+<i>&#8220;3.	To provide support for the root of the Main Breakwater... . 
+Without the [groyne] the Main Breakwater would intersect the
+cliffs.  At this
+location there would be a focus of wave energy that would possibly require a
+different design incorporating larger
+rock on the breakwater.  At this location
+the focus of wave energy may also cause problems with the stability of the
+cliffs.&#8221;</i></blockquote><br><br>
+<p>We had the advantage of a view of the groyne, as well as of the port and
+breakwaters, to assist us in understanding the evidence.
+ </p>
+<ol>
+<li style='' value='32' value="32">We
+are not satisfied that the function of the groyne as a whole is sufficiently
+associated with the operations of the taxpayer for
+it to be classified as plant.
+To the extent to which it is said that the function of the groyne is to protect
+the reclaimed land
+and the cliffs and the factory built on the land, we consider
+that that does not make the groyne plant.  That function can be equated
+with the
+walls and roof of a warehouse.  It is the setting in which the operation takes
+place.  We find, from the slight evidence
+before us, that the function of
+protecting the main breakwater is a subsidiary function to the function of
+protecting the reclaimed
+land.  We do not consider that it is sufficiently
+associated with the port operations for it to constitute the groyne as plant for
+that purpose.  We are not satisfied, therefore, that the groyne is part of the
+taxpayer&#8217;s relevant plant.  </li></ol><p><b>DECISION</b></p>
+<ol>
+<li style='' value='33' value="33">The
+result is that we uphold the taxpayer&#8217;s claim that the main breakwater and
+the lee breakwater, but not the groyne, are plant
+of the taxpayer in its
+business.  What is before us, however, are applications to review particular
+decisions of the Commissioner.
+ We expect that the parties will be able to use
+these reasons to draft formal decisions to give effect to them.  We will
+accordingly
+stand the matters over to enable agreed draft forms of decision to
+be prepared by the parties.  In the event that the parties are
+not able to agree
+on the forms of decision we will list the matter for further hearing to enable
+us to make the decisions.  <br><br>
+</li></ol><p>I certify that the 33 preceding paragraphs are a true copy of the
+reasons for the decision herein of Justice Downes, President and
+Mr G L
+McDonald, Deputy President</p>
+<br><br>
+<p>Signed:
+	..............................[sgd]............................................</p>
+<p>			Gregory Cooper, Associate</p>
+<br><br>
+<p>Dates of Hearing:	17 &#8211; 20 November 2008</p>
+<p>Date of Decision:	23 December 2008</p>
+<p>Solicitor for the Applicant:	Minter Ellison </p>
+<p>Counsel for the Applicant:	J Davies SC and L Armstrong</p>
+<p>Solicitor for the Respondent:	Australian Government Solicitor</p>
+<p>Counsel for the Respondent:	H Symon SC and A Palmer</p>
+
+
+
+<!--sino noindex-->
+      </article>
+    </div> <!-- page-main -->
+
+
+<!-- Document Sidebar -->
+    <div id="page-side">
+
+
+
+<!-- insert search-context.tx here when searching -->
+
+
+      <div class="side-element side-print">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M15.6 19.6h-10c-.6-.2-1-.6-1-1.3v-3.5H2.2c-.7 0-1.2-.5-1.2-1.2V5.3C1 4.5 1.5 4 2.2 4H4.6V1.6c0-.6.3-1 .9-1.2h10.2c.6.2.9.6.9 1.3V4H19c.5 0 .9.3 1.1.8 0 .1 0 .1.1.2v8.9c-.2.6-.6.9-1.3.9H16.6v3.6c0 .5-.4 1-.9 1.2h-.1zm3.4-6V5.2H2.2v8.4h2.4v-1.2H4c-.3 0-.5-.1-.5-.4-.2-.4.1-.8.6-.8h13.1c.4 0 .6.3.6.6s-.3.6-.6.6h-.6v1.2H19zm-3.6-1.2H5.8v6h9.6v-6zm0-10.8H5.8V4h9.6V1.6zM15.4 8.2c0-.3.3-.6.6-.6s.6.3.6.6-.3.6-.6.6-.6-.3-.6-.6zM10.6 13.6h3c.3 0 .6.2.6.5s-.2.6-.5.7H7.6c-.4 0-.7-.3-.7-.6s.3-.6.7-.6h3zM10.6 17.2H7.7c-.4 0-.7-.2-.7-.6 0-.3.3-.6.7-.6h5.9c.4 0 .7.2.7.6 0 .4-.3.6-.7.6h-3z"></path>
+        </g></svg>
+        <h4>Print</h4>
+        <ul>
+          <li> <a class="print-special" href="javascript:void(0);">Print (pretty)</a> </li>
+          <li> <a class="print-minimal" href="javascript:void(0);">Print (eco-friendly)</a> </li>
+        </ul>
+      </div> <!-- side-print -->
+
+
+      <div class="side-element side-download">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M12.5.9c1.3.5 1.7 1.5 1.7 2.9-.1 1.6 0 3.3 0 5h3.1c0 .1.1.1.1.2-.2.3-.3.5-.6.8l-5.3 5.3c-.7.6-1 .7-1.6.1-1.9-1.9-3.7-3.7-5.6-5.5-.1-.2-.3-.4-.6-.8H7c0-.4 0-.7.1-.9V3.8C7 2.4 7.4 1.4 8.7.9h3.8zM1.4 14.5h1.4v2.4c0 .9.2 1.1 1 1.1h13.5c.9 0 1-.2 1.1-1.1v-2.4h1.4v3.2c-.3.9-.9 1.4-1.7 1.7h-15c-.9-.3-1.4-.9-1.7-1.7v-3.2z"></path>
+        </g></svg>
+        <h4>Download</h4>
+        <ul>
+          <li> <a href="/au/cases/cth/AATA/2008/1162.rtf">RTF format (1.11 MB)</a> </li>
+        </ul>
+        <ul>
+          <li> <a href="/cgi-bin/sign.cgi/au/cases/cth/AATA/2008/1162">Signed PDF/A format</a> </li>
+        </ul>
+      </div> <!-- side-download -->
+
+      <div class="side-element side-cited-by">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M10.2 16.6c-.9-.2-1.8-.3-2.7-.5-1.5-.4-2.9-1.1-4-2.3-3-3-2.9-7.4.4-10.1C6.2 1.7 9 1.1 12 1.4c1.7.2 3.2.8 4.6 1.8 3.1 2.3 4 5.6 2.5 9.2-.8 2-2.3 3.4-4 4.6-2.3 1.5-4.8 2.2-7.4 2.5h-.2c-.1-.1-.2-.1-.4-.2 0-.1 0-.3.2-.3.7-.4 1.4-.7 2-1.1.4-.3.7-.8.9-1.3z"></path></svg>
+        <h4>Cited By</h4>
+        <ul>
+          <li> <a href="/cgi-bin/LawCite?cit=[2008] AATA 1162"> LawCite records</a> </li>
+          <li> <a href="/cgi-bin/sinosrch.cgi?method=boolean&query=2008 AATA 1162 or AATA 2008 1162"> NoteUp references</a> </li>
+          <!-- li> <a href=""> NoteUp references</a> </li -->
+        </ul>
+      </div> <!-- cited-by -->
+
+
+
+
+
+
+
+      <div class="side-element side-social">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M20.7 3.7c-.7.3-1.5.5-2.4.6.9-.5 1.5-1.3 1.9-2.3-.8.5-1.7.8-2.7 1-.8-.8-1.9-1.3-3.1-1.3-2.3 0-4.2 1.9-4.2 4.2 0 .3 0 .6.1 1C6.9 6.7 3.8 5 1.7 2.5c-.4.6-.6 1.3-.6 2.1 0 1.4.8 2.7 1.9 3.5-.7-.1-1.3-.3-1.9-.6v.1c0 2 1.4 3.7 3.4 4.1-.4.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.7 2.1 2.9 3.9 2.9-1.4 1.1-3.2 1.8-5.2 1.8-.3 0-.7 0-1-.1 1.9 1.2 4.1 1.9 6.4 1.9 7.7 0 11.9-6.4 11.9-11.9v-.5c.8-.6 1.6-1.3 2.1-2.1z"></path></svg>
+        <h4>Join the discussion</h4>
+        <ul>
+          <li> <a href="https://twitter.com/intent/tweet?text=%E2Port of Portland Pty Ltd and Commissioner of Taxation [2008] AATA 1162 (23 December 2008)%E2%80%9D&amp;url=http://www.austlii.edu.au/au/cases/cth/AATA/2008/1162.html&amp;via=austlii&amp;hashtags=austlii" target="_blank">Tweet this page</a> </li>
+          <li> <a href="https://twitter.com/intent/user?screen_name=AustLII" target="_blank">Follow @AustLII on Twitter</a> </li>
+<!--
+          <li> <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=austlii" target="_blank">Recent tweets about AustLII</a> </li>
+-->
+        </ul>
+      </div>
+
+
+    </div> <!-- page-side -->
+
+
+
+    <footer class="closing">
+      <div class="inner">
+        <!--<ul class="closing-primary">
+      <li><a href="database-all.html">All Databases</a></li>
+      <li><a href="database-cases.html">Cases &amp; Legislation</a></li>
+      <li><a href="database-journals.html">Journals &amp; Scholarships</a></li>
+      <li><a href="database-treaties.html">Treaties</a></li>
+      <li><a href="database-libraries.html">Libraries</a></li>
+      <li><a href="#">LawCite</a></li>
+    </ul>-->
+        <ul class="closing-tertiary">
+          <li> <a href="/austlii/">About</a> </li>
+          <li> <a href="/austlii/copyright.html">Copyright &amp; Usage</a> </li>
+          <li> <a href="/austlii/privacy.html">Privacy</a> </li>
+          <li> <a href="/austlii/disclaimers.html">Disclaimers</a> </li>
+          <li> <a href="/austlii/help/">Help</a> </li>
+        </ul><small>http://www.austlii.edu.au/au/cases/cth/AATA/2008/1162.html</small>
+      </div>
+    </footer>
+
+  </div> <!-- page-content -->
+
+  <script src="/js/production.min.js">
+  </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"f74b553413eb4a50949f5730dcd56219"}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a21ba9e87b31e7e6',t:'MTc4NTE1NTUxMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

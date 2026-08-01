@@ -1,0 +1,883 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js" xml:lang="en">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Solaris version 5.1.24" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="pragma" content="no-cache">
+  <meta http-equiv="cache-control" content="no-cache">
+  <title>Stocks &amp; Holdings (Constructors) Pty Ltd v Federal Commissioner of Taxation [1973] HCA 16; (1973) 129 CLR 617 (14 May 1973)</title>
+  <link media="screen" rel="stylesheet" href="/css/screen1.css" />
+  <link media="print" rel="stylesheet" href="/css/print.css" />
+  <meta name="theme-color" content="#ee3224" />
+  <meta name="description" content="Australasian Legal Information Institute (AustLII) - Hosted by University of Technology Sydney Faculty of Law" />
+  <link rel="icon" sizes="192x192" href="/images/icon-192.png" />
+  <link rel="apple-touch-icon-precomposed" href="/images/icon-shortcut.png" />
+  <meta name="msapplication-TileColor" content="#ee3224" />
+  <meta name="msapplication-TileImage" content="/images/icon/ms.png" />
+  <script src="/js/modernizr.min.js">
+  </script>
+</head>
+<body class=" cases  document ">
+  <header id="page-header">
+    <div id="primary">
+      <a id="page-logo" href="/" tabindex="1"><img src="/images/logo.svg" alt="AustLII"><span class="title-main">AustLII</span></a> <a class="go-search" href="#">Search</a>
+      <h1 id="page-title"><span>High Court of Australia</span></h1>
+    </div>
+
+
+<!-- Search box
+
+The search box at the top of most pages. Always visible unless the
+'search' variable is set to false, for pages where we don't want
+that box along the top, such as on Advanced Search & LawCite.
+
+'Results' is a class added to database pages, which exposes the ability
+to search just by that database.
+
+'Searchable' is a page variable which indicates the page has checkboxes
+on it - the search box has a radio button for selecting we only search
+the checked areas.
+
+'Extra search' is for those rare extra options found in pages like the
+Aviation Law Association library database.
+-->
+    <form action="/cgi-bin/sinosrch.cgi">
+<input type="hidden" name="meta" value="">
+      <div id="page-search">
+        <h2 class="hide">Search AustLII</h2>
+        <div class="search-box">
+          <a class="search-dropdown" href="javascript:void(0);">&#9660;</a>
+          <fieldset>
+            <legend>Search Options</legend>
+            <ul class="search-options">
+              <li><label for="database-all">All databases <input type="radio" name="mask_path" value="" id="database-all" tabindex="2" 
+/></label></li>
+              <li><label for="database-this">This database only <input type="radio" name="mask_path" value="au/cases/cth/HCA" id="database-this" tabindex="3" 
+checked="checked" 
+/></label></li>
+              <li><label for="database-full">Full text <input type="radio" name="method" value="auto" id="database-full" method="auto" checked="checked" tabindex="6" /></label></li>
+              <li><label for="database-title">Titles only <input type="radio" name="method" value="title" id="database-title" tabindex="7" /></label></li>
+              <li class="advanced-search">
+                <a href="/advanced_search.shtml" tabindex="8">Advanced Search&hellip;</a>
+              </li>
+            </ul>
+          </fieldset><label for="search-box" class="hide">Search term:</label> <input id="search-box" type="text" name="query" 
+  placeholder="Search this database only" 
+  tabindex="9" /><a href="javascript:void(0);" class="search-box-clear hide">&times;</a> <input type="submit" value="Search" tabindex="9" />
+        </div><a class="go-primary" href="#">Close</a>
+      </div>
+    </form>
+
+
+    <ul id="page-tertiary">
+      <li> <a href="/about.html">About</a> </li>
+      <li> <a href="/contact.html">Contact</a> </li>
+      <li> <a href="/copyright.html">Copyright &amp; Usage</a> </li>
+      <li> <a href="/privacy.html">Privacy</a> </li>
+      <li> <a href="/disclaimers.html">Disclaimers</a> </li>
+      <li> <a href="/feedback.html">Feedback</a> </li>
+      <li> <a href="/help.html">Help</a> </li>
+    </ul>
+  </header>
+
+
+<!-- Ribbons
+
+These are the red bars along the top of each page.
+
+Ribbon is a variable set on most pages; it defaults to an expanded view,
+and can be simplified using variables 'intro' (for home) and 'basic' (for
+search, about pages, etc.)
+-->
+  <nav id="ribbon">
+    <div class="inner">
+      <ul>
+        <li class="ribbon-type"> <a href="#" tabindex="10">Type <span>Cases</span></a> </li>
+        <li class="ribbon-jurisdiction"> <a href="#" tabindex="12">Jurisdiction <span>Commonwealth</span></a> </li>
+        <li class="ribbon-database"> <a href="../" tabindex="13">Database <span>High Court of Australia</span></a> </li>
+        <li class="ribbon-year "> <a href="./" tabindex="14">Year <span>1973</span></a> </li>
+        <li class="ribbon-citation"><a href="#" tabindex="16">Citation <span>[1973] HCA 16</span></a></li>
+      </ul>
+    </div>
+  </nav> <!-- ribbon -->
+
+
+<!-- Panels
+
+The Panel defaults to 'year' view, which is what the database pages all have,
+it's what search results have, etc.
+
+The selections within if statements below are to visualize the 'is-selected'
+class across the various mock pages in the prototype.
+
+When implementing this, pull out the if statements and simply apply 'is-selected'
+when it's appropriate to that particular page.
+
+The options for the panel include:
+* none: the panel doesn't render
+* closed: the panel is present, but closed, adds 'is-closed' class
+* jurisdiction: jurisdiction is open at page load, adds 'is-jurisdiction' class
+* letter: 'starts with' is open at page load, adds 'is-letter' class
+-->
+  <div id="panels" class="is-closed">
+    <div class="inner">
+      <div id="panel-type">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>All Databases</h5> <p></p></a> </li>
+          <li class="panel-type-all is-selected"> <a href="/databases.html"> <h5>Cases &amp; Legislation</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/journals/"> <h5>Journals &amp; Scholarship</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/lawreform/"> <h5>Law Reform</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/au/special/treaties/"> <h5>Treaties</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/database-libraries.html"> <h5>Libraries</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="http://austlii.community/wiki/"> <h5>Communities</h5> <p></p></a> </li>
+          <li class="panel-type-all"> <a href="/lawcite/"> <h5>LawCite</h5> <p></p></a> </li>
+        </ul>
+      </div>
+      <div id="panel-jurisdiction">
+        <ul>
+          <li class="panel-type-all"> <a href="/databases.html"> <h5>Australia</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/cth/"> <h5>CTH</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/act/"> <h5>ACT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nsw/"> <h5>NSW</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/nt/"> <h5>NT</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/qld/"> <h5>QLD</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/sa/"> <h5>SA</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/tas/"> <h5>TAS</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/vic/"> <h5>VIC</h5></a> </li>
+          <li class="panel-type-all"> <a href="/au/wa/"> <h5>WA</h5></a> </li>
+          <li class="panel-type-all"> <a href="http://www.nzlii.org/databases.html"> <h5>New Zealand</h5></a> </li>
+        </ul>
+      </div>
+      <div id="panel-year">
+        <ul>
+          <li class="panel-type-specific">
+            <div>
+              <h5>Specific Year</h5><a href="#" class="year-specific-dropdown type-specific">Any</a> <select class="type-specific">
+                <option>
+                  2015
+                </option>
+              </select>
+            </div>
+          </li>
+<!--
+          <li class="panel-type-range">
+            <div>
+              <h5>Year Range</h5><a href="#" class="year-range-dropdown-1 type-range-1">1970</a> <select class="type-range-1">
+                <option> 2015 </option>
+              </select> <a href="#" class="year-range-dropdown-2 type-range-2">2015</a> <select class="type-range-2">
+                <option> 2015 </option>
+              </select> <a href="results.html" class="button">Apply</a>
+            </div>
+          </li>
+-->
+        </ul>
+      </div>
+      <div id="panel-letter">
+        <ul>
+          <li class="panel-letter-any"> <a href="#"> <h5>Any</h5></a> </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- "Year" dropdowns
+
+These dropdowns should be generated with data as appropriate.
+The data you see here is for presentatioal purposes.
+-->
+  <div class="year-options-list">
+    <div class="year-specific-options year-options">
+      <ul>
+        <li> <h5><a href="./">Any</a></h5> </li>
+<!--
+        <li> <h5><a href="1973/">1973</a></h5> </li>
+-->
+
+      </ul>
+    </div> <!-- specific-year -->
+
+<!--
+    <div class="year-range-1-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul>
+    </div> --> <!-- year-range-1 -->
+
+<!--
+    <div class="year-range-2-options year-options">
+      <ul>
+        <li> <h5><a href="#">Any</a></h5> </li>
+        <li> <h5><a href="#">2015</a></h5> </li>
+        <li> <h5><a href="#">2014</a></h5> </li>
+        <li> <h5><a href="#">2013</a></h5> </li>
+      </ul> 
+    </div> --> <!-- year-range-2 -->
+
+  </div> <!-- panels -->
+
+
+  <div id="page-content">
+    <div id="page-main">
+      <article class="the-document">
+        <h1>Stocks &amp; Holdings (Constructors) Pty Ltd v Federal Commissioner of Taxation [1973] HCA 16; (1973) 129 CLR 617 (14 May 1973)</h1>
+<!--make_database: source=/home/philip/austlii/db/HCA/data/1973_16.html-->
+<!--sino date 14 May 1973-->
+
+
+
+
+
+
+
+
+
+<center><h2><b>HIGH COURT OF AUSTRALIA</b></h2><p>
+STOCKS AND HOLDINGS (CONSTRUCTORS) PTY. LTD. v. FEDERAL COMMISSIONER OF
+TAXATION.    <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1973/16.html" title="View Case" class="autolink_findcases_inserted">[1973] HCA 16</a>; (1973) 129 CLR 617<br><br>
+<p>Income Tax (Cth)
+<p>High Court of Australia.<br><br>
+Barwick C.J.(1), Menzies(2), Stephen(3) and Mason(4) JJ.
+<p></center><p><b>CATCHWORDS</b></p>  Income Tax (Cth) - Companies - Public companies and private companies -
+Opinion of Commissioner - Reasonable that company be treated
+as public company
+- Whether opinion properly formed - Income Tax Assessment Act 1936-1966 (Cth),
+s. 103A (1), (5).
+<p><p>
+<p>
+<p><b>HEARING</b></p>Sydney, 1973, March 27, 28; May 14. 14:5:1973<br><br>
+CASE STATED under s. 18 of the Judiciary Act 1903-1969 (Cth).
+<p><b>DECISION</b></p>May 14.<br><br>
+  The following written judgments were delivered:-<br><br>
+  BARWICK C.J.  My brother Stephen, in the reasons for judgment which he has
+considering, sets out all the material necessary to
+be known for the disposal
+of the case stated for the opinion of the Full Court by my brother Walsh
+pursuant to s. 18 of the Judiciary
+Act. (at p620)<br><br>
+<p>
+2.  I agree with the conclusion expressed by my brother Stephen that the
+respondent Commissioner's assessment of the appellant to
+tax for the year in
+question at a rate applicable to a public company should be set aside and the
+appellant assessed to tax at a
+rate applicable to a private company within the
+meaning of Div. 7 of the Income Tax Assessment Act 1936-1965 (the Act). (at
+p620)<br><br>
+<p>
+3.  In my opinion, in the circumstances of this case which my brother details
+there was no occasion for the exercise by the Commissioner
+of the discretion
+given him by s. 103A (5) of the Act.  That discretion is given to the
+Commissioner for exercise when the operation
+of other parts of Div. 7 has cast
+on the taxpayer a burden or disadvantage from which the Commissioner having
+regard to the matters
+enumerated in the sub-section thinks it reasonable to
+relieve it by treating it for the purposes of the Division as a public
+company.
+Consequently, I agree entirely with the reasons which my brother
+Stephen gives for his conclusion.  I also agree that only the first
+question
+submitted by the case stated need be answered and that that question should be
+answered in the negative. (at p620)<br><br>
+<p>  MENZIES J.  I have read the judgment prepared by Stephen J. and I agree with
+it. (at p620)<br><br>
+<p>
+2.  The power conferred upon the Commissioner by s. 103A (5) of the Income Tax
+Assessment Act is to protect a company from the operation
+of the provisions of
+the Act imposing additional tax upon undistributed profits and its use for a
+different purpose was not, in my
+opinion, warranted. (at p620)<br><br>
+<p>
+3.  The power is conditioned by the Commissioner's opinion that "... it is
+reasonable that the company should be treated as a public
+company for the
+purpose of sub-s. (1) of this section" and sub-s. (1) is introduced by the
+words "For the purposes of this Division
+..."  The Commissioner treated the
+taxpayer as a public company for a purpose outside the purposes of Div. 7. (at
+p620)<br><br>
+<p>
+4.  I agree with the order which Stephen J. proposes. (at p620)<br><br>
+<p>  STEPHEN J.  Stocks and Holdings (Constructors) Pty. Ltd. (the company) was
+assessed to tax in respect of the year of income ended
+30th June 1966 at the
+rates applicable to a public company; the company objected to that assessment
+on the ground that it was a private
+company and ought to be assessed
+accordingly, its objection was disallowed and on review the assessment was
+upheld by the Taxation
+Board of Review No. 1.  The company then appealed to
+this Court, the matter coming before Walsh J. who, at the request of the
+parties,
+has stated a case pursuant to s. 18 of the Judiciary Act seeking
+answers to six questions related to the Commissioner's treatment
+of the
+company as a public company in respect of the relevant year of income. (at
+p621)<br><br>
+<p>
+2.  The adjustment sheet accompanying the company's assessment stated that "in
+terms of s. 103A (5) the company has been deemed a
+public company for income
+tax purposes" and the case states that it was pursuant to the provisions of
+that section of the Income
+Tax Assessment Act 1936-1965 that it was assessed
+as a public company rather than as a private company. (at p621)<br><br>
+<p>
+3.  The company had made a sufficient distribution, within the meaning of s.
+105A of the Act, in respect of the relevant year of
+income, as indeed it had
+done in each of the preceding five years, and it would not, therefore, have
+been liable to any additional
+tax under Div. 7 of Pt III of the Act had it
+been treated as a private company.  The only apparent consequence of the
+adoption by
+the Commissioner of his basis of assessment was to make applicable
+to the company's taxable income the higher rate of primary tax
+applicable to
+public, as distinct from private, companies. (at p621)<br><br>
+<p>
+4.  The company would not have been a public company in the relevant year of
+income but for the exercise by the Commissioner of the
+provisions of s. 103A
+(5).  Section 103A (2) (d) (v) provides that a subsidiary of a public company
+is itself a public company; the
+company was incorporated under the laws of New
+South Wales and had for some years been a subsidiary, as that term is defined
+for
+the purposes of company law, of a company which was at all material times
+a public company for purposes of income tax.  However the
+definition of
+"subsidiary" in s. 103A (4) is narrower than is the definition found in the
+applicable companies legislation. Section
+103A (4) requires that before a
+company is, for the purposes of s. 103A, a subsidiary of a public company four
+criteria must be satisfied,
+one of which is that, by reason of beneficial
+ownership of shares, the public company is capable of controlling or obtaining
+control
+of more than one-half of the voting power of the company. The
+company's voting power was, in fact, vested in three individuals, three
+of its
+directors, who held the only issued B class shares which alone carried voting
+rights; so that although the other criteria
+of a subsidiary for the purposes
+of s. 103A were satisfied because a public company owned more than one-half of
+its paid up capital,
+and was beneficially entitled to receive more than
+one-half of any dividends paid by it and more than one half of any
+distribution
+of its capital, the concentration of voting rights in the hands
+of three individuals ensured that the company was not a subsidiary
+of a public
+company for the purposes of the section; nor was it otherwise within the
+definition of "public company" in s. 103A (2).
+(at p622)<br><br>
+<p>
+5.  The stated case asks six questions, most of which are concerned with the
+propriety or otherwise of the Commissioner and of the
+Board of Review taking
+into account or failing to take into account various considerations when
+forming an opinion under s. 103A
+(5). On the view which I have formed it
+becomes unnecessary to answer a number of the questions asked since I consider
+that in the
+circumstances of this case it was not open to the Commissioner or
+to the Board of Review to apply at all to the company the provisions
+of s.
+103A (5). (at p622)<br><br>
+<p>
+6.  Sub-section (5) of s. 103A is as follows:<br><br>
+<br><br>
+<blockquote>      "(5) Where a company would not, under the last three<br><br>
+    preceding sub-sections, be a public company for the purposes<br><br>
+    of sub-section (1) of this section in relation to the year of income<br><br>
+    but the Commissioner is of the opinion that, having regard to -<br><br>
+    (a) the number of persons who were, at any time during the<br><br>
+    year of income, capable of controlling the company and<br><br>
+    whether any of those persons was a public company;<br><br>
+    (b) the paid-up value of the shares issued by the company<br><br>
+    before the end of the year of income;<br><br>
+    (c) the number of persons who beneficially owned shares in<br><br>
+    the company at the end of the year of income; and<br><br>
+    (d) any other matters that he thinks relevant,<br><br>
+    it is reasonable that the company should be treated as a public<br><br>
+    company for the purposes of sub-section (1) of this section in<br><br>
+    relation to the year of income, the company shall be deemed to<br><br>
+    be a public company for those purposes in relation to the year<br><br>
+    of income." (at p622)<br><br>
+</blockquote><br><br>
+<p>
+7.  The nature and extent of the power conferred upon the Commissioner by
+sub-s. (5) involves a consideration of its context as part
+of s. 103A which
+is, in turn, part of the elaborate set of provisions which go to make up Div.
+7 of the Act.  The first section of
+that Division, s. 103, supplies all the
+definitions necessary for the operation of the rest of the Division except the
+critical definition
+of a private company which it is the exclusive function of
+s. 103A to define.  Section 104 then imposes upon those private companies
+which, in relation to a year of income, are not to be deemed to have made a
+sufficient distribution a liability to additional tax
+upon the undistributed
+amount and s. 105A describes what is to be deemed a sufficient distribution.
+Sections 105AA, 105B and 105C
+are necessary machinery provisions, s. 106
+enables excess distributions to be carried forward, s. 107 exempts from
+inclusion as assessable
+income of a shareholder certain dividends paid by a
+company, and s. 107A makes special provision for those private companies which
+carry on the business of insurance. (at p623)<br><br>
+<p>
+8.  Together these sections make up a complete legislative scheme for the
+imposition of additional tax upon private companies making
+an insufficient
+distribution.  They operate to discourage, by that means, the retention of
+profits by those companies carried on
+for profit which, of their nature, would
+otherwise be likely extensively to retain profits.  Because companies are, as
+to the bulk
+of their income, taxed at a flat rate of tax which is lower than
+the upper ranges of the graduated rates of tax payable by individual
+taxpayers
+those companies which are closely-held corporations would, but for Div. 7,
+provide a ready means for the accumulation of
+profits which have borne a
+relatively light tax burden.  It is to those closely-held companies that Div.
+7 directs its attention
+and, by means of the threat of additional tax, seeks
+to deter the undue accumulation of profits which, if it nevertheless occurs,
+attracts that tax. (at p623)<br><br>
+<p>
+9.  The function of s. 103A is, then, the effective identification of those
+companies at which the provisions of Div. 7 are aimed.
+ That this is no simple
+task is revealed by the legislative and judicial history of the predecessors
+of s. 103A and of that section
+itself. Section 103A proceeds about its task of
+identification by a process of exclusion from the relevant class of private
+companies
+of those companies which it classifies as public.  In the main this
+is done by reference to objective criteria which of their own
+force serve to
+identity particular companies as public companies but two sub-ss. (5) and (6)
+, depend for their operation upon the
+formation of an opinion by the
+Commissioner. (at p623)<br><br>
+<p>
+10.  There exists a significant contrast between the forms in which the
+legislature has chosen to cast each of these two sub-sections;
+sub-s. (6)
+closely circumscribes the powers of the Commissioner. Only if he forms the
+opinion that, by reason of certain specified
+matters, certain specified states
+of affairs existed during a relevant year of income may he treat as a private
+company a company
+which would otherwise qualify as a public company, either
+because of stock exchange listing or because of its character as a
+co-operative
+company.  On the other hand the power conferred on the
+Commissioner by sub-s. (5) is much wider; if, having regard to specified
+matters
+including "any other matters that he thinks relevant", he is of
+opinion that it is reasonable that a company should be treated as
+a public
+company then, in relation to the relevant year of income, it is to be deemed
+to be a public company. (at p623)<br><br>
+<p>
+11.  The reason for this difference lies in the quite different results which
+flow from the operation of the two sub-sections; to
+apply sub-s. (6) is to
+subject a company to the stringent distribution requirements of Div. 7 when it
+would otherwise be free of
+them; to apply sub-s. (5) is to exempt from those
+requirements a company which would otherwise be subject to them. (at p624)<br><br>
+<p>
+12.  Parliament having taken the view that the protection of the revenue
+required that there be conferred upon the Commissioner power
+to apply the
+stringent provisions of Div. 7 to a company, not because of the existence of
+objective facts but because of an opinion
+which he might form, it is
+consistent with a responsible exercise of legislative power that the
+Commissioner should be closely circumscribed
+in the formation of that opinion;
+this sub-s. (6) achieves. The contrast provided by the terms of sub-s. (5)
+suggests that its function
+is not to enable onerous liabilities to be imposed
+upon a company but, instead, to confer a wide power upon the Commissioner to
+prevent
+unforeseen anomalies arising from the operation of the necessarily
+complex provisions of the Division. (at p624)<br><br>
+<p>
+13.  A similar legislative intention can be discerned where, elsewhere in the
+Act, provisions similar in form to sub-s. (5) appear.
+ It was by Act No. 110
+of 1964 that a number of discretionary powers were conferred upon the
+Commissioner, including those appearing
+in s. 103A (5) and (6) .  By that Act
+powers expressed in terms of varying degrees of similarity to that used in
+sub-s. (5) were
+conferred by s. 23F (8) - now s. 23F (16)  - (private company
+dividends paid to superannuation funds), s. 46 (3) (c) (rebates on
+private
+company dividends received by a private company), s. 80B (4) and (7)  (b)
+(limitations upon the carrying forward by companies
+of losses of past years),
+s. 82AAE (b) (the deduction of contributions to employees' superannuation
+funds), s. 94 (6) and (8)  (further
+tax on certain partnership income) and s.
+99A (2) (special rate of tax applied to certain trust income).  There are many
+other instances
+to be found in the amending Act of 1964 where discretionary
+powers, linked with questions of reasonableness, are given to the Commissioner
+but they do not bear the same similarity to s. 103A (5) as do those set out
+above. (at p624)<br><br>
+<p>
+14.  If the provisions specified above are examined it emerges that whenever
+they confer a power upon the Commissioner, as a result
+of his having arrived
+at a conclusion that a certain course is reasonable, that power is not one
+whereby a taxpayer may be subjected
+to the particular tax or disability with
+which the section is concerned; on the contrary the power is to exempt the
+taxpayer from
+that tax or disability which would otherwise apply. (at p624)<br><br>
+<p>
+15.  Occasionally a consequence of the exercise of these powers by the
+Commissioner may result in other sections becoming applicable
+which may bring
+about unfavourable consequences for the taxpayer; an example is provided by
+Perron v. Federal Commissioner of Taxation
+  
+(1972) 128 CLR 595 , which involved
+s. 99A (2).  A further example would arise were the Commissioner to apply s.
+103A (5) to a
+company
+which, while not having made a sufficient distribution,
+had retained profits amounting to little more than
+the permitted
+retention
+allowance; the additional tax to which it would be liable under Div. 7 might
+then be less than the difference
+between the
+tax payable
+by it at private, as
+distinct from public, company rates so that the company would be better served
+by being
+treated
+as a private
+company.  Yet this exercise of the
+Commissioner's power could not be attacked by the taxpayer so long as the
+Commissioner's
+opinion
+was not shown to have been formed "arbitrarily or
+fancifully, or upon facts or considerations which could
+not be regarded
+as
+relevant"
+- Giris Pty. Ltd. v. Federal Commissioner of Taxation    <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1969/5.html" title="View Case" class="autolink_findcases_inserted">[1969] HCA 5</a>; (1969) 119 CLR
+365, at p 374 per
+Barwick C.J.  The Commissioner would be employing
+s. 103A
+(5) in the manner intended, namely to
+relieve a company of the onerous
+provisions of Div. 7 which would otherwise apply to
+it, and he would not have
+been shown to have
+failed to form a bona fide opinion
+on proper grounds as to
+the reasonableness of his
+action in doing so. (at p625)<br><br>
+<p>
+16.  These provisions are, then, dispensing provisions in the sense that they
+take out of the application of onerous sections taxpayers
+who would otherwise
+be prejudicially affected by them and they do so when it appears reasonable to
+the Commissioner that this should
+occur.  They are not dispensing provisions
+in any wider sense.  They are in no sense provisions to be applied only upon
+the request
+of the taxpayer or only when the end result, having regard to
+other provisions of the Act, will necessarily be to the taxpayer's
+advantage;
+they dispense only with the application of the particular onerous section of
+which they form part.  It may be that a taxpayer
+left to his own choice would
+prefer the obligations of that section to the fate to which the dispensation
+effected by the Commissioner
+exposes him.  But it is for the Commissioner, not
+the taxpayer, to apply these provisions and to determine upon reasonableness.
+(at
+p625)<br><br>
+<p>
+17.  It follows, however, from this that it is only where the sections of
+which these provisions form part would, of their own effect
+and viewed apart
+from other provisions of the Act, have an onerous operation upon a taxpayer
+that occasion arises for the Commissioner
+to consider whether or not it is
+reasonable that they should apply; only then is there any call for the
+Commissioner to consider
+their application.  Where the facts relevant to the
+taxpayer are not such as would otherwise subject him to the incidence of those
+onerous sections there can be no occasion for the Commissioner to employ these
+provisions; to employ them for extraneous purposes
+so as to subject the
+taxpayer to some other onerous liability, to, as it were, cast a taxpayer who
+is not already in the frying pan
+into a fire to which he would not otherwise
+be exposed, appears to me to be contrary to the clear legislative intent given
+expression
+in these provisions.  This is what is being sought to be done in
+the present case. (at p626)<br><br>
+<p>
+18.  The company was a taxpayer for which, although it was a private company,
+Div. 7 held no terrors; it had for many years followed
+a practice of making a
+sufficient distribution by way of dividends. It needed no exercise of the
+Commissioner's power under s. 103A
+(5) in its favour and it was not, in my
+view, open to the Commissioner to exercise such power in relation to it.  The
+concept of
+reasonableness to which sub-s. (5) refers is only meaningful in a
+case in which Div. 7 has some potentially onerous operation.  Here
+it had none
+because the taxpayer had already made a sufficient distribution. (at p626)<br><br>
+<p>
+19.  It is, of course, of relevance that under Div. 7 a year-by-year approach
+is adopted; the facts applicable to a company in the
+relevant year of income,
+subject to the Commissioner's power to form an opinion under sub-ss. (5) and
+(6) , determine its status
+in respect of that year; any opinion formed by the
+Commissioner will only relate to that one year of income.  This makes it
+appropriate
+enough that the Commissioner's power to apply sub-s. (5) should be
+dependent upon whether or not the company, if not a public company
+by virtue
+of the earlier sub-sections, makes a sufficient distribution in respect of the
+relevant year of income. (at p626)<br><br>
+<p>
+20.  In my conclusions concerning the light thrown upon the terms of s. 103A
+(5) by the other provisions of Div. 7 I have disregarded
+ss. 108 and 109, the
+last two sections of the Division.  Unlike earlier sections, they are not
+concerned with excessive retention
+of profits by private companies but instead
+enable certain loans and payments by private companies to be deemed to be
+dividends.
+They, like a substantial number of other provisions throughout the
+Act, depend for the incidence of their operation upon the definition
+of
+"private company" contained in s. 103A and it was urged on behalf of the
+Commissioner that in determining the meaning of sub-s.
+(5) these various
+provisions should not be omitted from consideration.  In particular the 6th
+Sch. to the annual Income Tax Acts,
+which imposes a lower rate of tax upon the
+income of private companies than upon that of public companies, was relied
+upon.  It was
+said that the existence of these various provisions made it
+wrong to treat s. 103A (5) as only a part of the legislative scheme designed
+to ensure a sufficient distribution of profits by way of dividends; to be
+unduly influenced by this factor was, it was said, to fall
+into error. (at
+p627)<br><br>
+<p>
+21.  While appreciating that to classify a company as other than a public
+company may be productive of a number of consequences quite
+apart from those
+with which ss. 103 to 107 are concerned, I cannot accept the view that this
+should influence the meaning to be given
+to s. 103A (5).  Although the
+predecessors of ss. 108 and 109 have long formed part of Div. 7, being first
+introduced into the legislation
+in 1934, they deal with problems remote from
+the central theme of Div. 7; so do other legislative provisions which operate
+by reference
+to the distinction between private companies and others. When by
+Act No. 110 of 1964, s. 103A was introduced into the Division it
+was, I think,
+to that central theme that its provisions were directed and it should, in my
+view, be so interpreted. (at p627)<br><br>
+<p>
+22.  The Taxation Board of Review No. 1, in their decision which is the
+subject of this appeal to Walsh J., took the view that the
+decision of
+McTiernan J. in Stocks &amp; Holdings (Sales) Pty. Ltd. v. Federal Commissioner of
+Taxation    <a href="/cgi-bin/viewdoc/au/cases/cth/HCA/1969/35.html" title="View Case" class="autolink_findcases_inserted">[1969] HCA 35</a>; (1969) 122
+CLR 139  precluded
+them from regarding sub-s. (5) as in
+any sense conferring only a dispensing power upon the Commissioner.
+ I do
+not
+so understand
+his Honour's judgment. His Honour did reject the view that the
+power conferred by the sub-section should
+only be
+exercised on the
+request of
+a taxpayer; in such rejection, I respectfully concur but, as I have
+endeavoured to point out,
+the rejection
+of that view
+is, I think, in no way
+inconsistent with the operation which I would give to the sub-section, an
+operation
+which does
+not appear
+to have been contended for in the argument
+before his Honour and with which, accordingly, his Honour did not
+deal in his
+reasons
+for judgment. (at p627)<br><br>
+<p>
+23.  For the reason which I have stated I conclude that it was not open to the
+Commissioner to seek to apply the sub-section and
+I would, for that reason,
+answer question 1, "No".  Each of the succeeding questions, either directly or
+by reference to earlier
+questions, raises for consideration matters with which
+I have found it unnecessary to deal, relating as they do, in the main, to
+the
+effect which the facts of this case might be thought properly to have upon the
+formation of an opinion under sub-s. (5). Since
+I have concluded that the
+Commissioner was not empowered to form any opinion under the sub-section in
+relation to the Company no
+answer is required other than to question 1. (at
+p627)<br><br>
+<p>  MASON J.  I have had the advantage of reading the reasons for judgment
+prepared by my brother Stephen, with which I entirely agree.
+ I agree that
+only the first question submitted by the case stated need be answered and that
+it should be answered in the negative.
+(at p628)<br><br>
+<p><b>ORDER</b></p><blockquote>  The questions asked in the stated case answered as follows:<br><br>
+</blockquote><blockquote>  "1.  Whether, upon the true construction of Div. 7 of Pt III<br><br>
+</blockquote>of the Act, and in particular of s. 103A (5) thereof,<br><br>
+and upon the facts above set forth the respondent (or<br><br>
+the Board of Review upon reference from him) could<br><br>
+properly form the opinion, in pursuance of s. 103A (5)<br><br>
+of the Act that having regard to the matters specified<br><br>
+in the said sub-section it was reasonable that the<br><br>
+appellant should be treated as a public company in<br><br>
+relation to the year of income." - No.<br><br>
+<br><br>
+<blockquote>  2-6.  Unnecessary to answer.<br><br>
+</blockquote>  Respondent to pay appellant's costs of the case stated.
+
+
+<p></p><p>
+<p></p><p>
+<!--sino noindex-->
+      </article>
+    </div> <!-- page-main -->
+
+
+<!-- Document Sidebar -->
+    <div id="page-side">
+
+
+
+<!-- insert search-context.tx here when searching -->
+
+
+      <div class="side-element side-print">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M15.6 19.6h-10c-.6-.2-1-.6-1-1.3v-3.5H2.2c-.7 0-1.2-.5-1.2-1.2V5.3C1 4.5 1.5 4 2.2 4H4.6V1.6c0-.6.3-1 .9-1.2h10.2c.6.2.9.6.9 1.3V4H19c.5 0 .9.3 1.1.8 0 .1 0 .1.1.2v8.9c-.2.6-.6.9-1.3.9H16.6v3.6c0 .5-.4 1-.9 1.2h-.1zm3.4-6V5.2H2.2v8.4h2.4v-1.2H4c-.3 0-.5-.1-.5-.4-.2-.4.1-.8.6-.8h13.1c.4 0 .6.3.6.6s-.3.6-.6.6h-.6v1.2H19zm-3.6-1.2H5.8v6h9.6v-6zm0-10.8H5.8V4h9.6V1.6zM15.4 8.2c0-.3.3-.6.6-.6s.6.3.6.6-.3.6-.6.6-.6-.3-.6-.6zM10.6 13.6h3c.3 0 .6.2.6.5s-.2.6-.5.7H7.6c-.4 0-.7-.3-.7-.6s.3-.6.7-.6h3zM10.6 17.2H7.7c-.4 0-.7-.2-.7-.6 0-.3.3-.6.7-.6h5.9c.4 0 .7.2.7.6 0 .4-.3.6-.7.6h-3z"></path>
+        </g></svg>
+        <h4>Print</h4>
+        <ul>
+          <li> <a class="print-special" href="javascript:void(0);">Print (pretty)</a> </li>
+          <li> <a class="print-minimal" href="javascript:void(0);">Print (eco-friendly)</a> </li>
+        </ul>
+      </div> <!-- side-print -->
+
+
+      <div class="side-element side-download">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <g fill="#C3C3C3">
+          <path d="M12.5.9c1.3.5 1.7 1.5 1.7 2.9-.1 1.6 0 3.3 0 5h3.1c0 .1.1.1.1.2-.2.3-.3.5-.6.8l-5.3 5.3c-.7.6-1 .7-1.6.1-1.9-1.9-3.7-3.7-5.6-5.5-.1-.2-.3-.4-.6-.8H7c0-.4 0-.7.1-.9V3.8C7 2.4 7.4 1.4 8.7.9h3.8zM1.4 14.5h1.4v2.4c0 .9.2 1.1 1 1.1h13.5c.9 0 1-.2 1.1-1.1v-2.4h1.4v3.2c-.3.9-.9 1.4-1.7 1.7h-15c-.9-.3-1.4-.9-1.7-1.7v-3.2z"></path>
+        </g></svg>
+        <h4>Download</h4>
+        <p>No downloadable files available</p>
+      </div> <!-- side-download -->
+
+      <div class="side-element side-cited-by">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M10.2 16.6c-.9-.2-1.8-.3-2.7-.5-1.5-.4-2.9-1.1-4-2.3-3-3-2.9-7.4.4-10.1C6.2 1.7 9 1.1 12 1.4c1.7.2 3.2.8 4.6 1.8 3.1 2.3 4 5.6 2.5 9.2-.8 2-2.3 3.4-4 4.6-2.3 1.5-4.8 2.2-7.4 2.5h-.2c-.1-.1-.2-.1-.4-.2 0-.1 0-.3.2-.3.7-.4 1.4-.7 2-1.1.4-.3.7-.8.9-1.3z"></path></svg>
+        <h4>Cited By</h4>
+        <ul>
+          <li> <a href="/cgi-bin/LawCite?cit=[1973] HCA 16"> LawCite records</a> </li>
+          <li> <a href="/cgi-bin/sinosrch.cgi?method=boolean&query=1973 HCA 16 or HCA 1973 16"> NoteUp references</a> </li>
+          <!-- li> <a href=""> NoteUp references</a> </li -->
+        </ul>
+      </div> <!-- cited-by -->
+
+
+
+
+
+
+
+      <div class="side-element side-social">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" enable-background="new 0 0 21 20">
+        <path fill="#C3C3C3" d="M20.7 3.7c-.7.3-1.5.5-2.4.6.9-.5 1.5-1.3 1.9-2.3-.8.5-1.7.8-2.7 1-.8-.8-1.9-1.3-3.1-1.3-2.3 0-4.2 1.9-4.2 4.2 0 .3 0 .6.1 1C6.9 6.7 3.8 5 1.7 2.5c-.4.6-.6 1.3-.6 2.1 0 1.4.8 2.7 1.9 3.5-.7-.1-1.3-.3-1.9-.6v.1c0 2 1.4 3.7 3.4 4.1-.4.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.7 2.1 2.9 3.9 2.9-1.4 1.1-3.2 1.8-5.2 1.8-.3 0-.7 0-1-.1 1.9 1.2 4.1 1.9 6.4 1.9 7.7 0 11.9-6.4 11.9-11.9v-.5c.8-.6 1.6-1.3 2.1-2.1z"></path></svg>
+        <h4>Join the discussion</h4>
+        <ul>
+          <li> <a href="https://twitter.com/intent/tweet?text=%E2Stocks &amp; Holdings (Constructors) Pty Ltd v Federal Commissioner of Taxation [1973] HCA 16; (1973) 129 CLR 617 (14 May 1973)%E2%80%9D&amp;url=http://www.austlii.edu.au/au/cases/cth/HCA/1973/16.html&amp;via=austlii&amp;hashtags=austlii" target="_blank">Tweet this page</a> </li>
+          <li> <a href="https://twitter.com/intent/user?screen_name=AustLII" target="_blank">Follow @AustLII on Twitter</a> </li>
+<!--
+          <li> <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=austlii" target="_blank">Recent tweets about AustLII</a> </li>
+-->
+        </ul>
+      </div>
+
+
+    </div> <!-- page-side -->
+
+
+
+    <footer class="closing">
+      <div class="inner">
+        <!--<ul class="closing-primary">
+      <li><a href="database-all.html">All Databases</a></li>
+      <li><a href="database-cases.html">Cases &amp; Legislation</a></li>
+      <li><a href="database-journals.html">Journals &amp; Scholarships</a></li>
+      <li><a href="database-treaties.html">Treaties</a></li>
+      <li><a href="database-libraries.html">Libraries</a></li>
+      <li><a href="#">LawCite</a></li>
+    </ul>-->
+        <ul class="closing-tertiary">
+          <li> <a href="/austlii/">About</a> </li>
+          <li> <a href="/austlii/copyright.html">Copyright &amp; Usage</a> </li>
+          <li> <a href="/austlii/privacy.html">Privacy</a> </li>
+          <li> <a href="/austlii/disclaimers.html">Disclaimers</a> </li>
+          <li> <a href="/austlii/help/">Help</a> </li>
+        </ul><small>http://www.austlii.edu.au/au/cases/cth/HCA/1973/16.html</small>
+      </div>
+    </footer>
+
+  </div> <!-- page-content -->
+
+  <script src="/js/production.min.js">
+  </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"f74b553413eb4a50949f5730dcd56219"}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a21acaf3db9e2625',t:'MTc4NTE0NjM4MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

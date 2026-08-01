@@ -84,7 +84,7 @@ DEFAULT_SOURCES = {
 # Predicate style: "<term> means/includes/has the meaning ...".
 PREDICATE_RE = re.compile(
     r"^([A-Za-z0-9*][\w%*'() -]{0,80}?)\s+"
-    r"(has the meaning given by|has the meaning affected by|"
+    r"(has (?:the|a) meaning given by|has (?:the|a) meaning affected by|"
     r"has the same meaning as(?: in)?|means|includes)\b"
 )
 

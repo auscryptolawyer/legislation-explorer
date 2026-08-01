@@ -35,6 +35,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const [autoLoading, setAutoLoading] = useState(false)
   const [selectedActs, setSelectedActs] = useState<Set<string>>(new Set())
   const [currentPage, setCurrentPage] = useState(0)
+  const [typeFilter, setTypeFilter] = useState<string>('')
   const debounceRef = useRef<ReturnType<typeof setTimeout>>()
   const inputRef = useRef<HTMLInputElement>(null)
   const autoRef = useRef<HTMLDivElement>(null)
@@ -92,8 +93,18 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
     setLoading(true)
     try {
       if (sortMode === 'bestmatch') {
-        const data = await api.searchFlat(term, 200)
-        const allResults: FlatResult[] = data.results || data || []
+        const data = await api.searchHybrid(term, typeFilter || undefined, 200)
+        const allResults: FlatResult[] = (data.results || data || []).map((r: any) => ({
+          act: r.act || '',
+          act_name: r.act_name || '',
+          section: r.section || '',
+          title: r.title || '',
+          headline: '',
+          match_type: '',
+          score: r.fusion_score || r.score || 0,
+          snippet: r.snippet || '',
+          type: r.source_type || r.type || 'section',
+        }))
         setUnfilteredResults(allResults)
         if (selectedActs.size > 0) {
           setResults(allResults.filter(r => selectedActs.has(r.act)))
@@ -328,6 +339,35 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
       )}
       {results.length > 0 && !loading && (
         <>
+          {/* Type filter tabs */}
+          <div style={{
+            display: 'flex', gap: 4, padding: '4px 0',
+            borderBottom: `1px solid ${COLORS.border}`,
+            flexWrap: 'wrap',
+          }}>
+            {[
+              { key: '', label: 'All' },
+              { key: 'section', label: 'Sections' },
+              { key: 'ruling', label: 'Rulings' },
+              { key: 'case', label: 'Cases' },
+              { key: 'commentary', label: 'Commentary' },
+            ].map(t => (
+              <button
+                key={t.key}
+                onClick={() => { setTypeFilter(t.key); setCurrentPage(0) }}
+                style={{
+                  fontSize: 10, padding: '3px 8px', borderRadius: 4,
+                  background: typeFilter === t.key ? COLORS.accent : COLORS.surface,
+                  color: typeFilter === t.key ? '#fff' : COLORS.textMuted,
+                  border: `1px solid ${typeFilter === t.key ? COLORS.accent : COLORS.border}`,
+                  cursor: 'pointer', fontFamily: "'Montserrat', sans-serif",
+                  fontWeight: typeFilter === t.key ? 600 : 400,
+                }}
+              >
+                {t.label}
+              </button>
+            ))}
+          </div>
           {/* Results header */}
           <div style={{
             fontSize: 10, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif",
@@ -344,11 +384,16 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
             textAlign: 'left',
           }}>
             {pageResults.map((r, i) => {
+              const badgeBg = r.type === 'case' ? '#8B5CF6' :
+                r.type === 'ruling' ? '#F59E0B' :
+                r.type === 'commentary' ? '#10B981' :
+                COLORS.accent
+              const badgeLabel = r.type === 'case' ? 'Case' :
+                r.type === 'ruling' ? 'Ruling' :
+                r.type === 'commentary' ? 'Comm' :
+                'Sec'
               const isRuling = r.type === 'ruling' || r.act === 'rulings'
               const isCchGuide = r.act.startsWith('master-')
-              const sourceLabel = isRuling
-                ? (r.type === 'ruling' ? 'Ruling' : 'ATO ID')
-                : shortActName(r.act)
               const sectionDisplay = isRuling
                 ? r.section
                 : isCchGuide
@@ -392,8 +437,13 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
                     dangerouslySetInnerHTML={{ __html: r.snippet }}
                   />
                 )}
-                <div style={{ fontSize: 9, color: COLORS.textMuted, opacity: 0.5, marginTop: 2, textAlign: 'left' }}>
-                  {sourceLabel}
+                <div style={{ fontSize: 9, color: COLORS.textMuted, opacity: 0.5, marginTop: 2, textAlign: 'left', display: 'flex', gap: 4, alignItems: 'center' }}>
+                  <span style={{
+                    background: badgeBg, color: '#fff', borderRadius: 3,
+                    padding: '1px 5px', fontSize: 8, fontWeight: 600,
+                    fontFamily: "'Montserrat', sans-serif",
+                  }}>{badgeLabel}</span>
+                  <span>{sectionDisplay}</span>
                 </div>
               </div>
             )})}
