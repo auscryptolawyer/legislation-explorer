@@ -174,6 +174,12 @@ export default function App() {
     setActiveRuling(citation)
     setActiveSection('')
   }
+  const onNavigateCase = (citation: string) => {
+    window.history.pushState(null, '', `/tax-cases/${encodeURIComponent(citation)}`)
+    setActiveSection('')
+    setActiveRuling(null)
+    // setActiveTaxCase(citation)
+  }
   const goHome = () => {
     setActiveSection('')
     setActiveRuling(null)
@@ -715,6 +721,7 @@ export default function App() {
             renderLink={renderLink}
             onNavigate={onNavigate}
             onNavigateRuling={onNavigateRuling}
+            onNavigateCase={onNavigateCase}
             commentaryOpen={commentaryOpen}
             setCommentaryOpen={setCommentaryOpen}
             casesOpen={casesOpen}

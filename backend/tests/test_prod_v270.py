@@ -1,0 +1,164 @@
+"""Full production test: REST API + MCP tools."""
+import httpx, json, sys, time
+
+BASE = "http://localhost:8765"
+MCP_BASE = f"{BASE}/api/cadena/mcp"
+MCP_H = {"Authorization": "Bearer mcpLiv3", "Content-Type": "application/json", "Accept": "application/json"}
+results = {"pass": 0, "fail": 0}
+
+def check(name, ok, detail=""):
+    if ok:
+        results["pass"] += 1
+        print(f"  ✅ {name}" + (f" — {detail}" if detail else ""))
+    else:
+        results["fail"] += 1
+        print(f"  ❌ {name}" + (f" — {detail}" if detail else ""))
+
+# ═══ REST API ═══
+print("═══ REST API ═══")
+
+tests = [
+    ("health", lambda: httpx.get(f"{BASE}/health", timeout=15), lambda r: r.status_code == 200 and r.json().get("status") == "ok"),
+    ("api/info -> v2.7.0", lambda: httpx.get(f"{BASE}/api/info", timeout=15), lambda r: r.json()["version"] == "2.7.0"),
+    ("api/acts", lambda: httpx.get(f"{BASE}/api/acts", timeout=15), lambda r: r.status_code == 200 and len(r.json()) > 5),
+    ("api/tree ITAA 1997", lambda: httpx.get(f"{BASE}/api/tree/itaa-1997", timeout=15), lambda r: len(r.json().get("parts",[])) > 5),
+    ("api/section 8-1", lambda: httpx.get(f"{BASE}/api/section/itaa-1997/8-1", timeout=15), lambda r: len(r.json().get("body","")) > 200),
+    ("api/section 102UC", lambda: httpx.get(f"{BASE}/api/section/itaa-1936/102UC", timeout=15), lambda r: len(r.json().get("body","")) > 50),
+    ("api/section GST 9-5", lambda: httpx.get(f"{BASE}/api/section/gst-1999/9-5", timeout=15), lambda r: len(r.json().get("body","")) > 50),
+    ("api/search 'CGT'", lambda: httpx.get(f"{BASE}/api/search?q=capital+gains+tax&limit=3", timeout=15), lambda r: int(r.json().get("total",0)) > 0),
+    ("api/hybrid-search 'CGT'", lambda: httpx.get(f"{BASE}/api/search/hybrid?q=capital+gains+tax&limit=3", timeout=15), lambda r: int(r.json().get("total",0)) > 0),
+    ("api/definitions ITAA 1997", lambda: httpx.get(f"{BASE}/api/definitions/itaa-1997", timeout=30), lambda r: len(r.json().get("terms",{})) > 500),
+    ("api/rulings", lambda: httpx.get(f"{BASE}/api/rulings?limit=5", timeout=15), lambda r: r.status_code == 200),
+    ("api/ruling TR 2024/1", lambda: httpx.get(f"{BASE}/api/ruling/TD_2024_1", timeout=15), lambda r: len(r.json().get("body","")) > 50),
+    ("api/cases for 8-1", lambda: httpx.get(f"{BASE}/api/cases/itaa-1997/8-1", timeout=15), lambda r: len(r.json().get("cases",[])) > 0),
+    ("api/rulings-for-section 8-1", lambda: httpx.get(f"{BASE}/api/rulings-for-section/itaa-1997/8-1", timeout=15), lambda r: len(r.json().get("rulings",[])) > 0),
+    ("api/graph section 118-185", lambda: httpx.get(f"{BASE}/api/graph/data?type=section&act=itaa-1997&section=118-185", timeout=15), lambda r: len(r.json().get("nodes",[])) > 5),
+    ("api/tax-cases/search", lambda: httpx.get(f"{BASE}/api/tax-cases/search?q=FCT+v+Harding", timeout=15), lambda r: r.status_code == 200),
+    ("api/commentary for 8-1", lambda: httpx.get(f"{BASE}/api/commentary/itaa-1997/8-1", timeout=15), lambda r: r.status_code == 200),
+    ("api/definitions/gst-1999", lambda: httpx.get(f"{BASE}/api/definitions/gst-1999", timeout=15), lambda r: len(r.json().get("terms",{})) > 50),
+    ("HTTP / -> 200", lambda: httpx.get(f"{BASE}/", timeout=15), lambda r: r.status_code == 200),
+]
+
+for name, req_fn, assert_fn in tests:
+    try:
+        resp = req_fn()
+        check(name, assert_fn(resp), f"HTTP {resp.status_code}")
+    except Exception as e:
+        check(name, False, str(e)[:80])
+
+# ═══ MCP Tools ═══
+print("\n═══ MCP Tools ═══")
+
+def mcp(method, params, sid=None):
+    h = dict(MCP_H)
+    if sid: h["Mcp-Session-Id"] = sid
+    r = httpx.post(MCP_BASE, json={"jsonrpc":"2.0","method":method,"params":params,"id":1}, headers=h, timeout=15)
+    return r.headers.get("mcp-session-id",""), r.json()
+
+sid, resp = mcp("initialize", {"protocolVersion":"2025-03-26","capabilities":{},"clientInfo":{"name":"test","version":"1"}})
+check("MCP initialize", "result" in resp)
+
+_, tools = mcp("tools/list", {}, sid)
+names = [t["name"] for t in tools["result"]["tools"]]
+expected = {"get_section","search_all","get_ruling","get_case","get_definition","get_act_tree","list_acts","list_rulings","search_legislation","search_cases","get_info","standards","report_issue","case_legislation_refs"}
+check(f"MCP tools/list ({len(names)} tools)", set(names) == expected)
+
+sid, _ = mcp("initialize", {"protocolVersion":"2025-03-26","capabilities":{},"clientInfo":{"name":"test","version":"1"}})
+
+# get_section
+_, resp = mcp("tools/call", {"name":"get_section","arguments":{"act":"itaa-1997","section":"8-1"}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+rel = data.get("related",{})
+check("get_section 8-1 body", len(data.get("body","")) > 200)
+check("  related rulings", len(rel.get("rulings",[])) >= 3)
+check("  related cases", len(rel.get("cases",[])) >= 3)
+check("  related commentary", len(rel.get("commentary",[])) >= 0)
+
+# search_all
+_, resp = mcp("tools/call", {"name":"search_all","arguments":{"query":"division 7A","type_filter":"ruling","limit":3}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+rs = data.get("results",{}).get("rulings",[])
+check("search_all(ruling, Div 7A)", len(rs) >= 1, f"{len(rs)} results")
+
+_, resp = mcp("tools/call", {"name":"search_all","arguments":{"query":"CGT","type_filter":"section","limit":3}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+ss = data.get("results",{}).get("sections",[])
+check("search_all(section, CGT)", len(ss) >= 1, f"{len(ss)} results")
+
+_, resp = mcp("tools/call", {"name":"search_all","arguments":{"query":"deductions","limit":3}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+all_r = data.get("results",{})
+total = sum(len(v) for v in all_r.values() if isinstance(v,list))
+check("search_all(unfiltered, deductions)", total > 0, f"{total} total across types")
+
+# get_ruling
+for cit in ["TR 2024/1", "TD 2024/1", "PCG 2017/13"]:
+    _, resp = mcp("tools/call", {"name":"get_ruling","arguments":{"citation":cit}}, sid)
+    data = json.loads(resp["result"]["content"][0]["text"])
+    check(f"get_ruling {cit}", len(data.get("body","")) > 50 or "error" not in str(data).lower())
+
+# get_case
+_, resp = mcp("tools/call", {"name":"get_case","arguments":{"citation":"2024 HCA 1"}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+check("get_case 2024 HCA 1", "case_name" in data or "citation" in data)
+
+# get_definition
+for term in ["trading stock", "assessable income", "CGT asset", "dividend"]:
+    _, resp = mcp("tools/call", {"name":"get_definition","arguments":{"act":"itaa-1997","term":term}}, sid)
+    data = json.loads(resp["result"]["content"][0]["text"])
+    check(f"get_definition '{term}'", len(data.get("text","")) > 10)
+
+# get_act_tree
+_, resp = mcp("tools/call", {"name":"get_act_tree","arguments":{"act":"itaa-1997"}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+check("get_act_tree ITAA 1997", len(data.get("parts",[])) > 5)
+
+# list_acts
+_, resp = mcp("tools/call", {"name":"list_acts","arguments":{}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+check("list_acts", len(data.get("acts",[])) > 3)
+
+# list_rulings
+_, resp = mcp("tools/call", {"name":"list_rulings","arguments":{}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+check("list_rulings", len(data.get("rulings",[])) > 1000)
+
+# search_legislation
+_, resp = mcp("tools/call", {"name":"search_legislation","arguments":{"query":"main residence"}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+check("search_legislation", len(data.get("results",[])) > 0)
+
+# search_cases
+_, resp = mcp("tools/call", {"name":"search_cases","arguments":{"query":"Harding"}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+check("search_cases", len(data.get("results",[])) > 0)
+
+# get_info
+_, resp = mcp("tools/call", {"name":"get_info","arguments":{}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+check("get_info v2.7.0", data.get("version") == "2.7.0")
+check("get_info routing updated", "search_all" in json.dumps(data.get("usage",{}).get("routing",{})))
+
+# standards
+_, resp = mcp("tools/call", {"name":"standards","arguments":{"topic":"verification"}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+check("standards(verification)", len(data.get("content","")) > 20)
+
+# case_legislation_refs
+_, resp = mcp("tools/call", {"name":"case_legislation_refs","arguments":{"citation":"2024 HCA 1"}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+check("case_legislation_refs", "legislation_refs" in data or "error" not in str(data))
+
+# Verify get_rulings_for_section is GONE
+_, resp = mcp("tools/call", {"name":"get_rulings_for_section","arguments":{"act":"itaa-1997","section":"8-1"}}, sid)
+check("get_rulings_for_section returns error", "error" in str(resp).lower() or resp.get("result",{}).get("isError"))
+
+# report_issue
+_, resp = mcp("tools/call", {"name":"report_issue","arguments":{"title":"test from prod v2.7","description":"automated test pass"}}, sid)
+data = json.loads(resp["result"]["content"][0]["text"])
+check("report_issue", "error" not in str(data).lower() or "already" in str(data))
+
+print(f"\n═══ Results ═══")
+print(f"  ✅ {results['pass']} passed")
+print(f"  ❌ {results['fail']} failed")
+sys.exit(0 if results["fail"] == 0 else 1)

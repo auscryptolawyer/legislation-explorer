@@ -65,6 +65,7 @@ type SectionContentProps = {
   renderLink?: (href?: string, children?: React.ReactNode) => React.ReactNode | null
   onNavigate: (act: string, section: string, anchor?: string) => void
   onNavigateRuling: (citation: string) => void
+  onNavigateCase: (citation: string) => void
   commentaryOpen: boolean
   setCommentaryOpen: (v: boolean) => void
   casesOpen: boolean
@@ -85,6 +86,7 @@ export default function SectionContent({
   renderLink,
   onNavigate,
   onNavigateRuling,
+  onNavigateCase,
   commentaryOpen,
   setCommentaryOpen,
   casesOpen,
@@ -457,6 +459,7 @@ export default function SectionContent({
           section={sectionId}
           onNavigate={onNavigate}
           onNavigateRuling={onNavigateRuling}
+          onNavigateCase={onNavigateCase}
           rulingsForSection={rulingsForSectionData?.rulings || []}
         />
       </div>
