@@ -5,7 +5,6 @@ section: "financial-supplies"
 title: "Financial supplies"
 paragraph: "¶34-190"
 ---
-
 # Financial supplies ¶34-190
 
 Supplies that are classed as “ﬁnancial supplies” — including loans, share trades and life insurance — are input taxed (s 40-5). In general, this means that the ﬁnancial supplier cannot claim input tax credits on the things it acquires for the purpose of making that supply.

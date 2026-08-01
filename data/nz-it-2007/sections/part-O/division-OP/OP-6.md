@@ -8,7 +8,6 @@ section_title: Provisions applying to consolidated imputation groups
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 6  Provisions applying to consolidated imputation groups
 
 **Single company, tax liabilities**

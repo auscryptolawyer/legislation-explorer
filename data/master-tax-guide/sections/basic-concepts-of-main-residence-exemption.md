@@ -5,7 +5,6 @@ section: "basic-concepts-of-main-residence-exemption"
 title: "Basic concepts of main residence exemption"
 paragraph: "¶11-730"
 ---
-
 # Basic concepts of main residence exemption ¶11-730
 
 A capital gain or loss from a dwelling is disregarded if the taxpayer is an individual, the dwelling was the taxpayer’s main residence throughout the ownership period and the interest did not pass to the taxpayer as a beneﬁciary in, or as the trustee of, the estate of a deceased person (s 118-110). The main residence exemption is not available to a taxpayer that is either: (a) an “excluded foreign resident” — being a foreign resident that has been a foreign resident for a continuous period of more than 6 years, or (b) a foreign resident that does not satisfy the “life events test” (s 118-110(3), (4)).

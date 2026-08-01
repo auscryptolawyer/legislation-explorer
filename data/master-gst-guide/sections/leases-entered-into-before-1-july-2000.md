@@ -5,7 +5,6 @@ section: "leases-entered-into-before-1-july-2000"
 title: "Leases entered into before 1 July 2000"
 paragraph: "¶11-340"
 ---
-
 # Leases entered into before 1 July 2000 ¶11-340
 
 If a commercial lease spanned 1 July 2000, only the part from 1 July 2000 is subject to GST (¶19-210).

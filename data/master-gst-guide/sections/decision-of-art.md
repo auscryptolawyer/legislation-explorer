@@ -5,7 +5,6 @@ section: "decision-of-art"
 title: "Decision of ART"
 paragraph: "¶18-660"
 ---
-
 # Decision of ART ¶18-660
 
 Where the ART decides to set aside the Commissioner’s decision, it must make a substitute decision or remit the matter to the Commissioner for reconsideration in accordance with the ART’s directions or recommendations. Any amendment of an assessment, or other action, necessary to give effect to the ART’s decision must be carried out by the Commissioner within 60 days of the decision becoming final.

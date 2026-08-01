@@ -5,7 +5,6 @@ section: "independent-branches-of-non-profit-bodies"
 title: "Independent branches of non-profit bodies"
 paragraph: "¶15-080"
 ---
-
 # Independent branches of non-profit bodies ¶15-080
 
 Non-profit bodies carrying on a business must register if their GST turnover is $150,000 or more (¶3-030).

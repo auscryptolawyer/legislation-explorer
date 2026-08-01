@@ -5,7 +5,6 @@ section: "current-year-net-incomeloss"
 title: "Current year net income/loss"
 paragraph: "¶6-265"
 ---
-
 # Current year net income/loss ¶6-265
 
 If a ﬁxed or non-ﬁxed trust (other than an excepted trust) does not pass the current year loss tests (see the table at ¶6-262), it must work out its net income and tax loss in a special way (sch 2F Div 268: ss 268-10 to 268-85). (1) The trust’s income year is divided into periods on the basis of when a speciﬁed event (eg a change in ownership or control) occurs. The events that result in the end of a period are summarised in the table below.

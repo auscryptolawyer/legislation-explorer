@@ -8,7 +8,6 @@ section_title: Choosing to pay provisional tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RC 4  Choosing to pay provisional tax
 
 **Election**

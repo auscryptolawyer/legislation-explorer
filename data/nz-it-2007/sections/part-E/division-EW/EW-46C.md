@@ -8,7 +8,6 @@ section_title: Consideration when debt remitted within economic group
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 46C  Consideration when debt remitted within economic group
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "summary-of-exemptions"
 title: "Summary of exemptions"
 paragraph: "¶22-400"
 ---
-
 # Summary of exemptions ¶22-400
 
 - a supply that is GST-free (WET Act s 7-5). For example, this could cover a supply of wine that is

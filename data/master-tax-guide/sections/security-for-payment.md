@@ -5,7 +5,6 @@ section: "security-for-payment"
 title: "Security for payment"
 paragraph: "¶25-420"
 ---
-
 # Security for payment ¶25-420
 
 The Commissioner may require a taxpayer to give security for the payment of an existing or future tax- related liability where the Commissioner: (1) has reason to believe that a taxpayer establishing or carrying on a business in Australia intends to carry it on only for a limited period (including “phoenix activities” where a company with signiﬁcant unpaid debts is wound up but the same business is conducted through a new company with the same directors/management); or (2) reasonably believes that the requirement is otherwise appropriate having regard to all the circumstances (TAA sch 1 s 255-100(1)). In Keris 2015 ATC ¶20-545; [2015] FCA 1381, the Full Federal Court held that the Commissioner could require a taxpayer to provide security for estimated GST liability even before the proposed transaction had taken place. Similarly, the taxpayers in Fastbet Investments 2019 ATC ¶20-723; [2019] FCA 2073 were required to give security for future liabilities expected to arise from their property development activities.

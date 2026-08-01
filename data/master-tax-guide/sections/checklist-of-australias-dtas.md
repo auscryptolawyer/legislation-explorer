@@ -5,7 +5,6 @@ section: "checklist-of-australias-dtas"
 title: "Checklist of Australia’s DTAs"
 paragraph: "¶22-160"
 ---
-
 # Checklist of Australia’s DTAs ¶22-160
 
 Australia has entered into a number of comprehensive DTAs with other countries to avoid international double taxation and to prevent ﬁscal evasion. Treasury is consulting on the proposed expansion of Australia’s tax treaty network which will build on the existing Australian network of bilateral treaties. The following table summarises those DTAs and sets out the general source country tax limits applicable to most unfranked dividends, interest and royalties. In each case, reference must be made to the DTAs for details of precise requirements.

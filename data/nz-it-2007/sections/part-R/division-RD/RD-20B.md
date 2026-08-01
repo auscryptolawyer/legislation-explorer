@@ -8,7 +8,6 @@ section_title: Treatment of certain support payments for period of more than 365
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 20B  Treatment of certain support payments for period of more than 365 days
 
 **What this section applies to**

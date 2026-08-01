@@ -8,7 +8,6 @@ section_title: Improvements to forestry land
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DP 3  Improvements to forestry land
 
 **When this section applies**

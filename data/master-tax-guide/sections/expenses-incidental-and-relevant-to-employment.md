@@ -5,7 +5,6 @@ section: "expenses-incidental-and-relevant-to-employment"
 title: "Expenses incidental and relevant to employment"
 paragraph: "¶16-160"
 ---
-
 # Expenses incidental and relevant to employment ¶16-160
 
 In accordance with general principles, an employee is entitled to a deduction for expenditure incurred in gaining or producing assessable income, but cannot claim for expenditure that is of a capital, private or domestic nature.

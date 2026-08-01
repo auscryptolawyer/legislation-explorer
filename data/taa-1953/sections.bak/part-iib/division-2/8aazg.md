@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8AAZG  RBA statements
 
 The Commissioner may at any time prepare a statement for an RBA, containing such particulars as the Commissioner determines.

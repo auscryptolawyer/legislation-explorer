@@ -8,7 +8,6 @@ section_title: Arrangements related to accounting test for non-attributing activ
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 15C  Arrangements related to accounting test for non-attributing active CFC
 
 **When this section applies**

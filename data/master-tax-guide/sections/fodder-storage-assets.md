@@ -5,7 +5,6 @@ section: "fodder-storage-assets"
 title: "Fodder storage assets"
 paragraph: "¶18-085"
 ---
-
 # Fodder storage assets ¶18-085
 
 Primary producers may deduct capital expenditure on a fodder storage asset in the income year in which the expenditure is incurred for fodder storage assets ﬁrst used or installed ready for use on or after 19 August 2018 (ITAA97 ss 40-515 to 40-575).

@@ -5,7 +5,6 @@ section: "other-investment-related-exemptions"
 title: "Other investment-related exemptions"
 paragraph: "¶10-850"
 ---
-
 # Other investment-related exemptions ¶10-850
 
 A number of other investment-related exemptions are discussed in other chapters. These include:

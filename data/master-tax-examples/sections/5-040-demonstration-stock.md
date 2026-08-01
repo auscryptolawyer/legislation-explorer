@@ -5,7 +5,6 @@ section: "5-040-demonstration-stock"
 title: "5-040 - Demonstration stock"
 paragraph: "None"
 ---
-
 # 5-040 - Demonstration stock
 
 Worked example: Demonstration stock Issue Ultimate Wheelchairs Pty Ltd is a manufacturer of motorised wheelchairs. The company sells its wheelchairs to either customers directly at retail prices or through retail stores at wholesale prices. The cost of each wheelchair to manufacture is $1,000. The company has a policy of valuing its trading stock at the end of the income year at cost for income tax purposes under ITAA97 s 70-45.

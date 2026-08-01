@@ -8,7 +8,6 @@ section_title: Information for PAYE intermediaries
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RP 8  Information for PAYE intermediaries
 
 An employer must provide the information sought by a PAYE intermediary within the time agreed by the employer and intermediary.

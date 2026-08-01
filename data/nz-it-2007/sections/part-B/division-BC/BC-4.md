@@ -8,7 +8,6 @@ section_title: Net income and net loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BC 4  Net income and net loss
 
 **Income more than deductions**

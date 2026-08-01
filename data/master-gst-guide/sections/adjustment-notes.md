@@ -5,7 +5,6 @@ section: "adjustment-notes"
 title: "Adjustment notes"
 paragraph: "¶6-110"
 ---
-
 # Adjustment notes ¶6-110
 
 If an adjustment event results in a decreasing adjustment — ie a reduction of GST or an increase in input tax credits (ITCs) — the taxpayer generally needs to hold an adjustment note at the time they lodge their BAS for the tax period in which the adjustment is claimed (s 29-20). There is an exception for minor adjustments (¶6-135).

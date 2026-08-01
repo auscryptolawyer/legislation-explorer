@@ -8,7 +8,6 @@ section_title: Optional look-through rules for certain PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 6B  Optional look-through rules for certain PIEs
 
 **When this section applies**

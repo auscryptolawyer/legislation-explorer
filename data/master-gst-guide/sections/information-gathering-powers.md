@@ -5,7 +5,6 @@ section: "information-gathering-powers"
 title: "Information-gathering powers"
 paragraph: "¶18-110"
 ---
-
 # Information-gathering powers ¶18-110
 
 The Commissioner has wide powers to obtain information from you in relation to GST matters (Administration Act, sch 1, s 353-10). The Commissioner may require you to:

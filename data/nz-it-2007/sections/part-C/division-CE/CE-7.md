@@ -8,7 +8,6 @@ section_title: Meaning of employee share scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 7  Meaning of employee share scheme
 
 Employee share scheme means—

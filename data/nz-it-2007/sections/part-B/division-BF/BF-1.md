@@ -8,7 +8,6 @@ section_title: Other obligations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BF 1  Other obligations
 
 A person must pay the following types of income or ancillary tax under the relevant Part:

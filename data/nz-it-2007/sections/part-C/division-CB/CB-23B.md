@@ -8,7 +8,6 @@ section_title: Land partially disposed of or disposed of with other land
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 23B  Land partially disposed of or disposed of with other land
 
 Sections CB 6A to CB 23 apply to an amount derived from the disposal of land if the land is—

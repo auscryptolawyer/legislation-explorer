@@ -5,7 +5,6 @@ section: "medicare-levy-surcharge-lump-sum-arrears-oﬀset"
 title: "Medicare levy surcharge lump sum arrears oﬀset"
 paragraph: "¶15-350"
 ---
-
 # Medicare levy surcharge lump sum arrears oﬀset ¶15-350
 
 The Medicare levy surcharge lump sum payment in arrears oﬀset (ITAA97 ss 61-580 to 61-590) is available to a taxpayer, and in some cases the taxpayer’s spouse, for a Medicare levy surcharge (¶2-335) that arose or increased because the taxpayer received an eligible lump sum payment in arrears in the year of income.

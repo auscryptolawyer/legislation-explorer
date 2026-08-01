@@ -8,7 +8,6 @@ section_title: Benefits, pensions, compensation, and government grants
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CF 1  Benefits, pensions, compensation, and government grants
 
 **Income**

@@ -5,7 +5,6 @@ section: "simplified-registration-for-certain-non-residents"
 title: "Simplified registration for certain non-residents"
 paragraph: "¶3-075"
 ---
-
 # Simplified registration for certain non-residents ¶3-075
 
 Simplified GST registration arrangements are available for non-residents who make or intend to make:

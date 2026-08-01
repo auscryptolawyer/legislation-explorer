@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 102AAZB  General modifications—CGT
 
 For the purposes of applying this Act in calculating the attributable income of a trust estate, Parts 3-1 and 3-3 of the Income Tax Assessment Act 1997 (about CGT) apply as if:

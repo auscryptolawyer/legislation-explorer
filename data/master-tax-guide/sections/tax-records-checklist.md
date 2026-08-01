@@ -5,7 +5,6 @@ section: "tax-records-checklist"
 title: "Tax records checklist"
 paragraph: "¶44-100"
 ---
-
 # Tax records checklist ¶44-100
 
 Instructions: Individual tax return 2024 These instructions enable you to ﬁnd explanations of each item in the 2024 Individual Tax Return. It also directs you to the relevant explanations in the ATO Individual tax return instructions 2024, Individual tax return instructions supplement 2024 and Business and professional items instructions 2024.

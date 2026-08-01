@@ -8,7 +8,6 @@ section_title: Cost base for shares when debt remitted within economic group
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DV 18B  Cost base for shares when debt remitted within economic group
 
 For a shareholder of a company that is a calculation company under section CD 43(6B) or (6C) (Available subscribed capital (ASC) amount), an amount of the subscriptions amount under section CD 43(6D) for the calculation company is treated as expenditure incurred for the purchase of the shareholder’s shares in the calculation company. The maximum expenditure for the shareholder’s shares is the subscriptions amount under section CD 43(6D) for the calculation company multiplied by one of the following interests, determined before the application of section YC 4 (Look-through rule for corporate shareholders):

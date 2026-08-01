@@ -5,7 +5,6 @@ section: "proposed-payday-super-from-1-july-2026"
 title: "Proposed payday super from 1 July 2026"
 paragraph: "¶39-505"
 ---
-
 # Proposed payday super from 1 July 2026 ¶39-505
 
 Employers will be required to pay their employees’ SG contributions with every pay cycle, instead of quarterly, from 1 July 2026. The proposed “Payday Super” measure was foreshadowed in the 2023–24 Budget.

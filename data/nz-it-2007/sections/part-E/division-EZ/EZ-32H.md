@@ -8,7 +8,6 @@ section_title: Person using another method for RAM interest before 1 April 2025
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 32H  Person using another method for RAM interest before 1 April 2025
 
 **When this section applies**

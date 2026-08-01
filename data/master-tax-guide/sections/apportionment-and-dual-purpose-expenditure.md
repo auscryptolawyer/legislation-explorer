@@ -5,7 +5,6 @@ section: "apportionment-and-dual-purpose-expenditure"
 title: "Apportionment and dual-purpose expenditure"
 paragraph: "¶16-070"
 ---
-
 # Apportionment and dual-purpose expenditure ¶16-070
 
 Losses and outgoings are allowable under ITAA97 s 8-1 to the extent to which they are incurred in the course of gaining assessable income, and are not allowable to the extent that they are of a capital, private or domestic nature, or are incurred in the gaining of exempt or non-assessable non-exempt income.

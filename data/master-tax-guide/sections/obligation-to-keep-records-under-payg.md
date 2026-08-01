@@ -5,7 +5,6 @@ section: "obligation-to-keep-records-under-payg"
 title: "Obligation to keep records under PAYG"
 paragraph: "¶26-720"
 ---
-
 # Obligation to keep records under PAYG ¶26-720
 
 A payment summary given to an individual or any other entity must be retained for 5 years after the end of that year (TAA sch 1 s 18-100).

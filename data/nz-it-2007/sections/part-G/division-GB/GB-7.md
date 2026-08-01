@@ -8,7 +8,6 @@ section_title: Arrangements involving CFC control interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 7  Arrangements involving CFC control interests
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Resuming commercial production
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CT 5B  Resuming commercial production
 
 **When this section applies**

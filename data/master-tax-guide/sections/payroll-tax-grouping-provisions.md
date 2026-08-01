@@ -5,7 +5,6 @@ section: "payroll-tax-grouping-provisions"
 title: "Payroll tax grouping provisions"
 paragraph: "¶36-110"
 ---
-
 # Payroll tax grouping provisions ¶36-110
 
 The legislation in all states provides for the “grouping” of related or associated businesses so that, where 2 or more businesses are grouped, their wages are aggregated in order to determine whether a liability exists.

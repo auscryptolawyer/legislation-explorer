@@ -5,7 +5,6 @@ section: "beneﬁts-paid-in-breach-of-rules"
 title: "Beneﬁts paid in breach of rules"
 paragraph: "¶14-300"
 ---
-
 # Beneﬁts paid in breach of rules ¶14-300
 
 The concessional taxation rules for superannuation member beneﬁts and death beneﬁts in Div 301 and 302 (¶14-200, ¶14-280) do not apply to the receipt of superannuation beneﬁts in breach of certain legislative requirements. These cases arise where a person receives a beneﬁt from a complying superannuation fund or previously complying fund, an ADF or an RSA and:

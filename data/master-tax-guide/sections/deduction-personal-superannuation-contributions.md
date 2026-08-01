@@ -5,7 +5,6 @@ section: "deduction-personal-superannuation-contributions"
 title: "Deduction — personal superannuation contributions"
 paragraph: "¶13-730"
 ---
-
 # Deduction — personal superannuation contributions ¶13-730
 
 Individuals are entitled to a deduction for making personal superannuation contributions if the relevant conditions in ITAA97 Subdiv 290-C are satisﬁed (see “Eligibility conditions — deductible personal superannuation contributions” below).

@@ -8,7 +8,6 @@ section_title: Trusts are nominees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 6  Trusts are nominees
 
 A trustee is treated as the nominee of a company (company A) to the extent to which the trustee’s activities relate to an employee share scheme or an exempt ESS and—

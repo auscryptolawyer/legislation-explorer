@@ -5,7 +5,6 @@ section: "superannuation-fund-tax-returns-and-assessments"
 title: "Superannuation fund tax returns and assessments"
 paragraph: "¶13-350"
 ---
-
 # Superannuation fund tax returns and assessments ¶13-350
 
 With certain exceptions, the trustee of a superannuation fund, ADF, or PST is required to lodge an income tax return in the approved form with the Commissioner if it is:

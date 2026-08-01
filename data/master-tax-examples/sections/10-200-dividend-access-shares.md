@@ -5,7 +5,6 @@ section: "10-200-dividend-access-shares"
 title: "10-200 - Dividend access shares"
 paragraph: "None"
 ---
-
 # 10-200 - Dividend access shares
 
 Worked example: Dividend access shares Issue Hilltop Pty Ltd (Hilltop) has 2 classes of issued shares: “A” and “B” class. The “A” class shares are held by both Robert Harrison and David Billson directly and also indirectly on behalf of their respective superannuation funds.

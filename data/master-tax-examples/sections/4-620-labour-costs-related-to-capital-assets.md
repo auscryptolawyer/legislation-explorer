@@ -5,7 +5,6 @@ section: "4-620-labour-costs-related-to-capital-assets"
 title: "4-620 - Labour costs related to capital assets"
 paragraph: "None"
 ---
-
 # 4-620 - Labour costs related to capital assets
 
 Worked example: Labour costs related to capital assets Issue Castrovalva Pty Ltd is a large food processing business. Castrovalva intends to build a new processing plant in Victoria which, when complete, will double its manufacturing capacity and it engages Richard Jones to be the project manager to oversee construction of the facility. His salary will be $150,000 per annum and his contract is expected to last for 2 years, at the end of which the facility is expected to be complete. His duties will be entirely focussed on the construction of the new facility, where he will oversee the organisation of labour and materials, co-ordinating with employees and contractors, and looking after the day-to-day supervision of the build.

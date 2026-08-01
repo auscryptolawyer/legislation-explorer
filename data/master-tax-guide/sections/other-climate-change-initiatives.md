@@ -5,7 +5,6 @@ section: "other-climate-change-initiatives"
 title: "Other climate change initiatives"
 paragraph: "¶19-135"
 ---
-
 # Other climate change initiatives ¶19-135
 
 Withholding tax incentive for green buildings A ﬁnal withholding tax rate of 10% applies to payments from eligible clean building managed investment trusts made to foreign residents in countries with which Australia has eﬀective exchange of information agreements. This applies to eligible trusts holding oﬃce buildings, retail centres and non-residential accommodation built after June 2012 that meet energy eﬃciency standards. It is proposed to extend the incentive to eligible data centres and warehouses from 1 July 2025, where construction commenced after 7:30 pm (AEST) on 9 May 2023. Minimum energy eﬃciency standards will also be increased for existing and new clean buildings (2023–24 Budget).

@@ -8,7 +8,6 @@ section_title: Use of money interest
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 3B  Use of money interest
 
 **Deduction**

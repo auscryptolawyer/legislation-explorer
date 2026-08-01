@@ -8,7 +8,6 @@ section_title: Arrangements to shift expenditure from companies carrying forward
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 3BAC  Arrangements to shift expenditure from companies carrying forward loss balances
 
 **When this section applies**

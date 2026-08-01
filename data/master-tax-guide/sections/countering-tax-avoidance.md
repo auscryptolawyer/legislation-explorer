@@ -5,7 +5,6 @@ section: "countering-tax-avoidance"
 title: "Countering tax avoidance"
 paragraph: "¶30-000"
 ---
-
 # Countering tax avoidance ¶30-000
 
 What tax avoidance means is not completely clear and the boundaries of what is acceptable or unacceptable tax behaviour shift over time. There is a long history of legislative action against artiﬁcial, contrived or deceptive schemes employed by taxpayers to avoid paying tax.

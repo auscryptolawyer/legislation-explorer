@@ -8,7 +8,6 @@ section_title: Reimbursement of expenditure paid as employment income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 17BA  Reimbursement of expenditure paid as employment income
 
 **When this section applies**

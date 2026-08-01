@@ -8,7 +8,6 @@ section_title: Notional distributions of co-operative companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HF 5  Notional distributions of co-operative companies
 
 A Maori authority that is a co-operative company may make a notional distribution to a member under section OB 79 (Cooperative companies attaching imputation credits to notional distributions) as if a Maori authority credit were an imputation credit.

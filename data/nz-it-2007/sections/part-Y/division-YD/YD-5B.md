@@ -8,7 +8,6 @@ section_title: Attribution of income and expenditure to permanent establishment 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 5B  Attribution of income and expenditure to permanent establishment in New Zealand
 
 **When this section applies**

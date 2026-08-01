@@ -5,7 +5,6 @@ section: "supply-must-be-of-all-things-necessary"
 title: "Supply must be of all things necessary"
 paragraph: "¶11-506"
 ---
-
 # Supply must be of all things necessary ¶11-506
 
 To obtain the exemption, the seller must supply the purchaser with all things necessary for the continued operation of the business (s 38-325(2)(a)). It is not necessary that all those things must be provided in the same single supply. There may be more than one supply, provided that they are all made under the one arrangement.

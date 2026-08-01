@@ -8,7 +8,6 @@ section_title: Place of incorporation or carrying on business
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IC 7  Place of incorporation or carrying on business
 
 **Incorporation or carrying on business**

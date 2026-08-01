@@ -5,7 +5,6 @@ section: "single-entity-rule"
 title: "Single entity rule"
 paragraph: "¶8-010"
 ---
-
 # Single entity rule ¶8-010
 
 Where a group of corporate tax entities is a consolidated group, the group is treated as a single taxpayer (the “single entity rule”: s 701-1) and:

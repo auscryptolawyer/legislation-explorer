@@ -5,7 +5,6 @@ section: "allowances-and-fringe-beneﬁts"
 title: "Allowances and fringe beneﬁts"
 paragraph: "¶10-060"
 ---
-
 # Allowances and fringe beneﬁts ¶10-060
 
 Non-cash fringe beneﬁts that are provided to an employee by an employer are generally subject to FBT, which is a tax imposed on the employer. A beneﬁt that is subject to FBT is neither assessable income nor exempt income of the employee or other recipient (ITAA36 s 23L).

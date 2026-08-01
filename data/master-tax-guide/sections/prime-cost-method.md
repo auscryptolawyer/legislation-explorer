@@ -5,7 +5,6 @@ section: "prime-cost-method"
 title: "Prime cost method"
 paragraph: "¶17-490"
 ---
-
 # Prime cost method ¶17-490
 
 Under the prime cost method, the annual decline in value of a depreciating asset is calculated by allocating the cost of the asset over its eﬀective life in accordance with the formula (ITAA97 s 40-75): cost         days held × eﬀective life     365 Cost includes the ﬁrst element and the second element of cost of the asset (¶17-080). This method assumes that an asset declines in value uniformly throughout its life.

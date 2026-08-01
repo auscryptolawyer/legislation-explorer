@@ -8,7 +8,6 @@ section_title: Meaning of market value
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 26DB  Meaning of market value
 
 For the purposes of section CW 26C, market value—

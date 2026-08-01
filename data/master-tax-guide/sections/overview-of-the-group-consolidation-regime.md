@@ -5,7 +5,6 @@ section: "overview-of-the-group-consolidation-regime"
 title: "Overview of the group consolidation regime"
 paragraph: "¶8-000"
 ---
-
 # Overview of the group consolidation regime ¶8-000
 
 The group consolidation regime allows wholly-owned groups of companies (together with eligible trusts and partnerships) to consolidate as a single entity for income tax purposes. The main features of the regime (comprising ITAA97 Pt 3-90) are:

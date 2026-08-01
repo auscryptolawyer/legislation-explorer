@@ -8,7 +8,6 @@ section_title: Meaning of diminished value
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DO 9B  Meaning of diminished value
 
 **Meaning**

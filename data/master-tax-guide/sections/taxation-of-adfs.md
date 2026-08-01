@@ -5,7 +5,6 @@ section: "taxation-of-adfs"
 title: "Taxation of ADFs"
 paragraph: "¶13-410"
 ---
-
 # Taxation of ADFs ¶13-410
 
 The taxation of ADFs is governed by Div 295 of ITAA97 and other ITAA36 and ITAA97 provisions.

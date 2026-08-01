@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 51AEC Entertainment facility—election under section 152B of Fringe Benefits Tax Assessment Act 1986 to use 50/50 split method
 
 <a id="s51AEC-1"></a>

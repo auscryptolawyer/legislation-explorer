@@ -8,7 +8,6 @@ section_title: ICA payment of qualifying company election tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 7B  ICA payment of qualifying company election tax
 
 **Credit**

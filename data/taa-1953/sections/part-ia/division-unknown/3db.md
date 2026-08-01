@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 3DB  Publication of information by certain country by country reporting entities—corrections and exemptions etc.
 
 Corrections

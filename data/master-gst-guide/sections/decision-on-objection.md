@@ -5,7 +5,6 @@ section: "decision-on-objection"
 title: "Decision on objection"
 paragraph: "¶18-630"
 ---
-
 # Decision on objection ¶18-630
 
 The Commissioner may either disallow or allow an objection either wholly or in part and serve the decision on you (Administration Act, s 14ZY).

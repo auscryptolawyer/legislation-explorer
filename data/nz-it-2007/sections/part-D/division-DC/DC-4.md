@@ -8,7 +8,6 @@ section_title: Payments to working partners
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DC 4  Payments to working partners
 
 **Deduction**

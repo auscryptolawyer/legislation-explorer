@@ -5,7 +5,6 @@ section: "some-other-planning-issues"
 title: "Some other planning issues"
 paragraph: "¶21-100"
 ---
-
 # Some other planning issues ¶21-100
 
 Apart from the pricing and cashflow issues already mentioned, here are some other planning suggestions for areas affected by GST.

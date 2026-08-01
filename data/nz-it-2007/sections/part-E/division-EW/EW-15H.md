@@ -8,7 +8,6 @@ section_title: Mandatory use of some determinations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 15H  Mandatory use of some determinations
 
 **Required methods**

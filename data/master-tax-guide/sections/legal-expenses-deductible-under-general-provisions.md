@@ -5,7 +5,6 @@ section: "legal-expenses-deductible-under-general-provisions"
 title: "Legal expenses deductible under general provisions"
 paragraph: "¶16-840"
 ---
-
 # Legal expenses deductible under general provisions ¶16-840
 
 Apart from their deductibility under speciﬁc provisions of the tax law (¶16-830), the deductibility of legal expenses, like other business expenses, is to be considered under ITAA97 s 8-1. In determining whether the costs of legal proceedings are deductible, it is irrelevant whether the taxpayer is successful in those proceedings. The character of legal expenses follows the purpose of incurring the expense (Hallstroms (1946) 72 CLR 634, Cape Flattery Silica Mines 97 ATC 4552; [1997] FCA 706). The essential character of the advantage sought in undertaking the proceedings determines whether the expenses are on revenue or capital account (TD 93/29).

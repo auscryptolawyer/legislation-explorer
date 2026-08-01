@@ -8,7 +8,6 @@ section_title: What constitutes a Maori authority distribution?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HF 4  What constitutes a Maori authority distribution?
 
 **Transfer of value**

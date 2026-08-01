@@ -5,7 +5,6 @@ section: "administrative-review-of-commissioners-decisions"
 title: "Administrative review of Commissioner’s decisions"
 paragraph: "¶28-180"
 ---
-
 # Administrative review of Commissioner’s decisions ¶28-180
 
 Certain decisions of the Commissioner may be reviewed by the Federal Court under the Administrative Decisions (Judicial Review) Act 1977 (ADJR Act), the Judiciary Act 1903, s 39B or, it appears, under general administrative law principles. For example, generally, the exercise of Commissioner’s discretion is not subject to review under Pt IVC (AAT 2011 ATC ¶20-248; [2011] FCAFC 37). Nevertheless, the Commissioner has a legal duty to act fairly when exercising an administrative discretion (Pickering 97 ATC 4893; [1997] FCA 890). It may therefore be arguable that, where the Commissioner exercises his discretion favourably in respect of one taxpayer, the Commissioner must exercise his discretion in the same way in respect of another taxpayer who is in a like situation. In practice, a taxpayer’s ability to rely on this principle will, outside of family situations, depend largely on the extent to which the taxpayer can obtain information from the Commissioner (eg under the Freedom of Information Act 1982: ¶28-060) regarding the manner in which he has exercised his discretion in relation to other taxpayers. However, the Commissioner is not required to exercise diﬀerent discretions to bring about the same result for taxpayers in similar positions (Pickering 98 ATC 4977; [1998] FCA 1246).

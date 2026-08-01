@@ -8,7 +8,6 @@ section_title: Effect of FIF net loss if attributed FIF income method not availa
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 2C  Effect of FIF net loss if attributed FIF income method not available
 
 **When this section applies**

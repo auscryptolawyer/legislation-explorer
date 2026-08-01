@@ -8,7 +8,6 @@ section_title: When amounts of tax not withheld or partly withheld
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 6  When amounts of tax not withheld or partly withheld
 
 **Person as filing taxpayer**

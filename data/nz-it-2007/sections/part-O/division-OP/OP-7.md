@@ -8,7 +8,6 @@ section_title: Consolidated ICA payment of tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 7  Consolidated ICA payment of tax
 
 **Credit**

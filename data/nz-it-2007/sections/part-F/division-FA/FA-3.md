@@ -8,7 +8,6 @@ section_title: Recharacterisation of certain dividends: recovery of cost of shar
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 3  Recharacterisation of certain dividends: recovery of cost of shares held on revenue account
 
 **When this section applies**

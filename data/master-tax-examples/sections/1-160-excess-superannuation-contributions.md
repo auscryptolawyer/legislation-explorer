@@ -5,7 +5,6 @@ section: "1-160-excess-superannuation-contributions"
 title: "1-160 - Excess superannuation contributions"
 paragraph: "None"
 ---
-
 # 1-160 - Excess superannuation contributions
 
 Worked example: Excess superannuation contributions Issue Liz Masselli is aged 41 and runs her own landscaping business. Her taxable income from business activities is $101,000 for 2024–25. Liz is an Australian resident with sufficient private health insurance.

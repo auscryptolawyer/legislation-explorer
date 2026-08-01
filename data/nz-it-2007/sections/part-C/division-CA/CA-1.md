@@ -8,7 +8,6 @@ section_title: Amounts that are income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CA 1  Amounts that are income
 
 **Amounts specifically identified**

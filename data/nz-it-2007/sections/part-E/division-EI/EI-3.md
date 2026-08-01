@@ -8,7 +8,6 @@ section_title: Assigning or granting copyright
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EI 3  Assigning or granting copyright
 
 **When this section applies**

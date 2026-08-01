@@ -5,7 +5,6 @@ section: "better-targeted-superannuation-concessions-bills"
 title: "Better targeted superannuation concessions Bills"
 paragraph: "¶41-100"
 ---
-
 # Better targeted superannuation concessions Bills ¶41-100
 
 Introduction to pending tax and superannuation legislation Details of pending tax and superannuation legislation are usually integrated into the commentary in the relevant substantive chapters. However, the coverage in this chapter provides an additional point of reference for readers who wish to see an overview of proposed measures in the form of a Bill before parliament.

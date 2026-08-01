@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8WC  Conducting affairs so as to avoid tax file number requirements
 
 <a id="s8WC-1"></a>

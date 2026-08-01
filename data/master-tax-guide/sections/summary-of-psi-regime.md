@@ -5,7 +5,6 @@ section: "summary-of-psi-regime"
 title: "Summary of PSI regime"
 paragraph: "¶30-600"
 ---
-
 # Summary of PSI regime ¶30-600
 
 A special tax regime for personal services income (PSI) applies to prevent individuals from reducing their tax by alienating their PSI to an associated company, partnership, trust or individual, or by claiming inappropriate “business” deductions.

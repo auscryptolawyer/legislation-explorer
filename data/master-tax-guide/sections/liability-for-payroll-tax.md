@@ -5,7 +5,6 @@ section: "liability-for-payroll-tax"
 title: "Liability for payroll tax"
 paragraph: "¶36-010"
 ---
-
 # Liability for payroll tax ¶36-010
 
 Payroll tax is a tax on wages paid or payable by an employer to an employee. Most employer/employee relationships are readily identiﬁable. However, there are occasions where the issue is not clear cut and the various legislatures operate to deem certain relationships to be that of an employer/employee so that payments are subject to payroll tax.

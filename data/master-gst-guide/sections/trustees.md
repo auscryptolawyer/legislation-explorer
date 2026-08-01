@@ -5,7 +5,6 @@ section: "trustees"
 title: "Trustees"
 paragraph: "¶18-270"
 ---
-
 # Trustees ¶18-270
 
 As explained at ¶4-010, a trust is specifically deemed to be an entity for GST purposes, even though it does not normally have a legal identity. However, the legislation recognises that it is actually the trustee that carries on the business of the trust. The trustee is itself also an entity for GST purposes. Where there are multiple trustees, the trustees collectively comprise that entity (s 184-1(2)).

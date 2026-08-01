@@ -5,7 +5,6 @@ section: "using-discretionary-distributions"
 title: "Using discretionary distributions"
 paragraph: "¶31-420"
 ---
-
 # Using discretionary distributions ¶31-420
 
 Some income sources are by their nature subject to direction or diversion (directly or indirectly) by a taxpayer who can control the allocation of income among members or beneﬁciaries of the entities earning it. These entities, the “vehicles” of tax planning, are principally the family partnership (¶31-520), the family trust estate (¶31-540) and the family company (¶31-530).

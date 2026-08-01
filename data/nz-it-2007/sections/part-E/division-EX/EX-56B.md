@@ -8,7 +8,6 @@ section_title: Revenue account method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 56B  Revenue account method
 
 **When this section applies**

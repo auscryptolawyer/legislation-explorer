@@ -8,7 +8,6 @@ section_title: Arrangements to inject income into companies carrying forward los
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 3BAB  Arrangements to inject income into companies carrying forward loss balances
 
 **When this section applies**

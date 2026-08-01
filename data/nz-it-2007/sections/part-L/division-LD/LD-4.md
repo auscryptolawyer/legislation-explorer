@@ -8,7 +8,6 @@ section_title: Tax credits for payroll donations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LD 4  Tax credits for payroll donations
 
 **Who this section applies to**

@@ -5,7 +5,6 @@ section: "requirement-1-there-must-be-a-supply"
 title: "Requirement 1: there must be a “supply”"
 paragraph: "¶4-010"
 ---
-
 # Requirement 1: there must be a “supply” ¶4-010
 
 The first requirement for a taxable supply is that a “supply” must be made by the taxpayer. A supply includes:

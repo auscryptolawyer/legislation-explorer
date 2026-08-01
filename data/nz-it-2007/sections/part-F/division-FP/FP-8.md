@@ -8,7 +8,6 @@ section_title: Replacement property for depreciable property affected by emergen
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FP 8  Replacement property for depreciable property affected by emergency events
 
 **When this section applies**

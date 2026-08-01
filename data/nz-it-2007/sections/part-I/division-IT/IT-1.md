@@ -8,7 +8,6 @@ section_title: Cancellation of life insurer’s policyholder net losses
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IT 1  Cancellation of life insurer’s policyholder net losses
 
 **What this section applies to**

@@ -5,7 +5,6 @@ section: "superannuation-lump-sums-and-income-streams"
 title: "Superannuation lump sums and income streams"
 paragraph: "¶14-120"
 ---
-
 # Superannuation lump sums and income streams ¶14-120
 
 A superannuation beneﬁt can be a superannuation member beneﬁt or a superannuation death beneﬁt (¶14-100), and can be either a lump sum or an income stream beneﬁt.

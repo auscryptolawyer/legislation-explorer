@@ -8,7 +8,6 @@ section_title: Interest derived jointly with residents
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 12B  Interest derived jointly with residents
 
 **When payment derived jointly with resident**

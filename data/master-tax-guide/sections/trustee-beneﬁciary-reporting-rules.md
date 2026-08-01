@@ -5,7 +5,6 @@ section: "trustee-beneﬁciary-reporting-rules"
 title: "Trustee beneﬁciary reporting rules"
 paragraph: "¶6-275"
 ---
-
 # Trustee beneﬁciary reporting rules ¶6-275
 
 There are reporting requirements that apply to trustees of closely held trusts. The main purpose of these requirements is to ensure that the trustee of a “closely held trust” with a trustee beneﬁciary advises the Commissioner of the trustee beneﬁciaries of the net income and tax-preferred amounts of the trust. This allows the Commissioner to check whether the assessable income of the trustee beneﬁciaries correctly includes any required share of that net income, and whether the net assets of those beneﬁciaries reﬂect the receipt of the tax-preferred amounts.

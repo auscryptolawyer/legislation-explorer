@@ -5,7 +5,6 @@ section: "payments-of-net-gst-in-returns"
 title: "Payments of net GST in returns"
 paragraph: "¶24-040"
 ---
-
 # Payments of net GST in returns ¶24-040
 
 You cannot claim a deduction for the amount of net GST that you are liable to pay the Commissioner with your GST return (ITAA 1997, s 27-15).

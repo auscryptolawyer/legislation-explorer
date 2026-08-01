@@ -8,7 +8,6 @@ section_title: Meaning of controlled foreign company
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 1  Meaning of controlled foreign company
 
 **Tests of control**

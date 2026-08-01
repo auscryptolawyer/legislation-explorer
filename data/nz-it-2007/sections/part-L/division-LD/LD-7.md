@@ -8,7 +8,6 @@ section_title: When donation returned to person
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LD 7  When donation returned to person
 
 **When this section applies**

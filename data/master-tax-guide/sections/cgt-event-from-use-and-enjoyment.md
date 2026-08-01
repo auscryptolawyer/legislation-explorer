@@ -5,7 +5,6 @@ section: "cgt-event-from-use-and-enjoyment"
 title: "CGT event from use and enjoyment"
 paragraph: "¶11-260"
 ---
-
 # CGT event from use and enjoyment ¶11-260
 
 CGT event B1 — Use and enjoyment before title passes CGT event B1 happens if a taxpayer enters into an agreement with another entity under which the right to the use and enjoyment of a CGT asset owned by the taxpayer passes to the other entity and title in the asset will or may pass to the other entity at or before the end of the agreement, eg under a hire purchase arrangement (s 104-15).

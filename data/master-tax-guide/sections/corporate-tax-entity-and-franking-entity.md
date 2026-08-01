@@ -5,7 +5,6 @@ section: "corporate-tax-entity-and-franking-entity"
 title: "Corporate tax entity and franking entity"
 paragraph: "¶4-440"
 ---
-
 # Corporate tax entity and franking entity ¶4-440
 
 The simpliﬁed imputation system applies to distributions made by corporate tax entities to their members. An entity is a “corporate tax entity” at a particular time if the entity is (ITAA97 s 960-115):

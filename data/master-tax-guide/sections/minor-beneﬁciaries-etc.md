@@ -5,7 +5,6 @@ section: "minor-beneﬁciaries-etc"
 title: "Minor beneﬁciaries, etc"
 paragraph: "¶6-210"
 ---
-
 # Minor beneﬁciaries, etc ¶6-210
 
 Where a minor beneﬁciary (or any other beneﬁciary under a legal disability, such as bankruptcy or insanity) is presently entitled (¶6-100) to income of a trust estate, the income is normally assessed to the trustee, not the beneﬁciary. If the beneﬁciary is a resident for the whole of the income year, the trustee is assessable on the beneﬁciary’s share of the net income (¶6-080). Where the beneﬁciary is a non-resident for all or part of the income year, the trustee is assessable on the beneﬁciary’s share of the net income, but excluding so much of it as is attributable to foreign sources and to a period when the beneﬁciary was a non-resident.

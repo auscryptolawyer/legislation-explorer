@@ -8,7 +8,6 @@ section_title: Meaning of home vendor mortgage
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LZ 8  Meaning of home vendor mortgage
 
 In sections LZ 6 and LZ 7, home vendor mortgage means a mortgage—

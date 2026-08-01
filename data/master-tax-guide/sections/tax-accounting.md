@@ -5,7 +5,6 @@ section: "tax-accounting"
 title: "Tax accounting"
 paragraph: "¶9-000"
 ---
-
 # Tax accounting ¶9-000
 
 Tax accounting refers to the accounting methodology and practices required for the purposes of taxation law. Although the accounting requirements of taxation law sometimes reﬂect ﬁnancial accounting principles, taxation accounting requirements are distinct and include fundamental diﬀerences from ﬁnancial accounting (see below). Taxation accounting rules may aﬀect the treatment and timing [of recognition] of an item or transaction.

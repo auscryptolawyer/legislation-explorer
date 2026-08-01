@@ -5,7 +5,6 @@ section: "amount-of-foreign-income-tax-oﬀset"
 title: "Amount of foreign income tax oﬀset"
 paragraph: "¶21-710"
 ---
-
 # Amount of foreign income tax oﬀset ¶21-710
 
 In general terms, the oﬀset is based on the total foreign income tax paid (s 770-70), but is limited (or “capped”) to the amount of Australian income tax that would have been payable on the relevant income (s 770-75).

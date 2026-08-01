@@ -5,7 +5,6 @@ section: "12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-
 title: "12-340 - Luxury car tax LCT How to determine the principal purpose of a motor vehicle"
 paragraph: "None"
 ---
-
 # 12-340 - Luxury car tax LCT How to determine the principal purpose of a motor vehicle
 
 the principal purpose of a motor vehicle Worked example: Luxury car tax (LCT): How to determine the principal purpose of a motor vehicle Issue Gordon, a car dealer, sells a Ford Ranger Raptor on 15 January 2025 that seats 5 people including the driver and is classified as a “goods vehicle” under the Australian Design Rules (ADRs) applicable to the vehicle.

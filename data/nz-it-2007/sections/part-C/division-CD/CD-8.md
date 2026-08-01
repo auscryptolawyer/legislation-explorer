@@ -8,7 +8,6 @@ section_title: Elections to make bonus issue into dividend
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 8  Elections to make bonus issue into dividend
 
 **Treating bonus issues as dividends**

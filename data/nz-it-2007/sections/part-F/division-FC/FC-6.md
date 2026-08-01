@@ -8,7 +8,6 @@ section_title: Forestry assets transferred to close relatives
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FC 6  Forestry assets transferred to close relatives
 
 **What this section applies to**

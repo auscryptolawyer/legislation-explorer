@@ -8,7 +8,6 @@ section_title: Limitation rule
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DD 2  Limitation rule
 
 **What rule applies to**

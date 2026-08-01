@@ -5,7 +5,6 @@ section: "2-300-small-business-cgt-concessions-meaning-of-active-and-excluded-as
 title: "2-300 - Small business CGT concessions meaning of active and excluded assets"
 paragraph: "None"
 ---
-
 # 2-300 - Small business CGT concessions meaning of active and excluded assets
 
 Worked example: Small business CGT concessions; meaning of active and excluded assets Issue Victoria Adams owns residential premises in which she runs a bed and breakfast business in rural New South Wales. The property contains 6 bedrooms and has been operated as a bed and breakfast since its acquisition.

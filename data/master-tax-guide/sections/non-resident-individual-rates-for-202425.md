@@ -5,7 +5,6 @@ section: "non-resident-individual-rates-for-202425"
 title: "Non-resident individual rates for 2024–25"
 paragraph: "¶42-015"
 ---
-
 # Non-resident individual rates for 2024–25 ¶42-015
 
 2024–25 taxable income                                              Tax on column 1                          % on excess (column 1)                                                                                            (marginal rate) ($)                                                                 ($) Nil                                                                 Nil                                 30 135,000                                                             40,500                                37 190,000                                                             60,850                                45 Example Nick, a prescribed non-resident, has a taxable income of $137,000. His gross tax is $41,240, ie $40,500 (tax on $135,000) + $740 (37% × [$137,000 − $135,000]).

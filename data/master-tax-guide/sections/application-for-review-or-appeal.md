@@ -5,7 +5,6 @@ section: "application-for-review-or-appeal"
 title: "Application for review or appeal"
 paragraph: "¶28-080"
 ---
-
 # Application for review or appeal ¶28-080
 
 A taxpayer dissatisﬁed with the Commissioner’s objection decision, eg decision to disallow or only to allow in part an objection against an assessment (¶28-070), has the option of either:

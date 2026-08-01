@@ -8,7 +8,6 @@ section_title: Using loss balances carried forward to tax year
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IA 4  Using loss balances carried forward to tax year
 
 **Priority uses**

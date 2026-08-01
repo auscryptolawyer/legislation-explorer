@@ -5,7 +5,6 @@ section: "payment-of-sg-contributions-for-employees"
 title: "Payment of SG contributions for employees"
 paragraph: "¶39-240"
 ---
-
 # Payment of SG contributions for employees ¶39-240
 
 Employer superannuation provided for each employee under the SG scheme is calculated in each quarter in the year (¶39-230).

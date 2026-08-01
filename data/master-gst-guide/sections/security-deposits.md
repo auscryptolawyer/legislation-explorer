@@ -5,7 +5,6 @@ section: "security-deposits"
 title: "Security deposits"
 paragraph: "¶4-070"
 ---
-
 # Security deposits ¶4-070
 
 Special rules apply to deposits made as security for the performance of an obligation (Div 99). These are called security deposits. Typical transactions to which these rules will apply are:

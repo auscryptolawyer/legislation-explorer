@@ -8,7 +8,6 @@ section_title: Allocation of deductions to particular income years
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BD 4  Allocation of deductions to particular income years
 
 **Application**

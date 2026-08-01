@@ -5,7 +5,6 @@ section: "measuring-actual-level-of-superannuation-support"
 title: "Measuring actual level of superannuation support"
 paragraph: "¶39-230"
 ---
-
 # Measuring actual level of superannuation support ¶39-230
 
 An employer is required to measure the actual level of superannuation support that it provides for each employee in each quarter, based on the employee’s ordinary time earnings base (¶39-200). This level of employer superannuation support (expressed as a percentage) is then used to reduce the charge percentage to determine whether there is an SG shortfall in respect of the employee in the quarter (¶39-300).

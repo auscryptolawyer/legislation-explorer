@@ -5,7 +5,6 @@ section: "wholesale-sales"
 title: "Wholesale sales"
 paragraph: "¶22-160"
 ---
-
 # Wholesale sales ¶22-160
 
 Wholesale sales are the most common category of assessable dealings that may attract WET. There are three types of wholesale sales that are assessable dealings:

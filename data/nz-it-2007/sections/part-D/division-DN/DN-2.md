@@ -8,7 +8,6 @@ section_title: When attributed CFC loss arises
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DN 2  When attributed CFC loss arises
 
 **General rule**

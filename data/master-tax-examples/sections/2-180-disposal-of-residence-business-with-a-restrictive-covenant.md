@@ -5,7 +5,6 @@ section: "2-180-disposal-of-residence-business-with-a-restrictive-covenant"
 title: "2-180 - Disposal of residence business with a restrictive covenant"
 paragraph: "None"
 ---
-
 # 2-180 - Disposal of residence business with a restrictive covenant
 
 Worked example: Disposal of residence; business with a restrictive covenant Issue Mike and Carol Bradley purchased a one-hectare property on 1 May 1995 for a purchase price of $345,000 and incidental acquisition costs of $20,000. The property supported a residence and a veterinary practice.

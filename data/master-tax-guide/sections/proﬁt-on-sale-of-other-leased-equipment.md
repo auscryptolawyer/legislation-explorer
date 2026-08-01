@@ -5,7 +5,6 @@ section: "proﬁt-on-sale-of-other-leased-equipment"
 title: "Proﬁt on sale of other leased equipment"
 paragraph: "¶10-422"
 ---
-
 # Proﬁt on sale of other leased equipment ¶10-422
 
 An amount received by a taxpayer as a result of the sale, at a proﬁt, of plant or equipment previously leased by the taxpayer (including a car, in which case special provisions also apply: ¶10-380) and used in the conduct of its business may be assessable as ordinary income; alternatively, the CGT provisions may apply (the CGT provisions do not apply to cars). Similarly, where a previously leased asset is traded in and the trade-in credit reduces the cost of a replacement asset or the lease payments under a lease for the new asset, all or part of the trade-in credit may be assessable under the depreciation provisions (if depreciation was allowed before the trade-in and the trade-in credit exceeds the written-down value), or as ordinary income or under the CGT provisions (TR 98/15).

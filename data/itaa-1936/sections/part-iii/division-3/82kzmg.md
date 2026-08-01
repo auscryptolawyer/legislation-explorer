@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 82KZMG Deductions for certain forestry expenditure
 
 <a id="s82KZMG-1"></a>

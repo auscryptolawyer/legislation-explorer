@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 159GZZZD  Meaning of eligible entity, eligible interest and eligible proportion
 
 For the purposes of this Division, where a holding company holds interests in a subsidiary of the holding company either directly or indirectly through interposed entities:

@@ -5,7 +5,6 @@ section: "overview-of-lct"
 title: "Overview of LCT"
 paragraph: "¶23-000"
 ---
-
 # Overview of LCT ¶23-000
 
 Where a “luxury” car is supplied or imported, luxury car tax (LCT) may be imposed in addition to GST. The rate of LCT is normally 33%, though a lower rate may apply to certain primary producers and tour operators (¶23-210).

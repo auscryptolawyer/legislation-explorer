@@ -5,7 +5,6 @@ section: "cancellation-of-registration"
 title: "Cancellation of registration"
 paragraph: "¶3-070"
 ---
-
 # Cancellation of registration ¶3-070
 
 If you stop carrying on an enterprise, you are no longer entitled to be registered, and must apply for cancellation of your registration within 21 days (s 25-50). Remember, you are treated as carrying on a business or enterprise as long as you are doing anything in the course of terminating it.

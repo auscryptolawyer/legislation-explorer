@@ -5,7 +5,6 @@ section: "the-choice-principle"
 title: "The choice principle"
 paragraph: "¶1-410"
 ---
-
 # The choice principle ¶1-410
 
 The income tax legislation provides taxpayers with a number of choices or options. Judicial responses to taxpayers’ taking advantage of choices oﬀered by the legislation have changed over time. In the Westraders’ case 80 ATC 4357; [1980] HCA 24 the High Court held that, where a taxpayer chooses to enter into a transaction in order to obtain a tax advantage and the income tax legislation speciﬁcally provides for that choice, the taxpayer is entitled to receive the tax beneﬁts thereunder. According to Barwick CJ: “Parliament having prescribed the circumstances which will attract tax, or provide occasion for its reduction or elimination, the citizen has every right to mould the transaction into which he is about to enter into a form which satisﬁes the requirements of the statute … [It cannot] matter that his choice of transaction was inﬂuenced wholly or in part by its eﬀect upon his obligation to pay tax.” In a 1985 decision on tax avoidance by 3 doctors who set up unit trusts to eﬀectively split the income from their medical practices, the High Court rejected arguments by the doctors based on the choice principle.

@@ -8,7 +8,6 @@ section_title: Provisional tax payable in instalments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RC 9  Provisional tax payable in instalments
 
 **Who this section applies to**

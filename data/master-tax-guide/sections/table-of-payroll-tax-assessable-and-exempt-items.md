@@ -5,7 +5,6 @@ section: "table-of-payroll-tax-assessable-and-exempt-items"
 title: "Table of payroll tax assessable and exempt items"
 paragraph: "¶36-140"
 ---
-
 # Table of payroll tax assessable and exempt items ¶36-140
 
 The following table shows the assessable or exempt status of common types of payments and beneﬁts provided by employers to employees for payroll tax purposes. The table is current as at 1 January 2025.

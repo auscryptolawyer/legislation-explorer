@@ -8,7 +8,6 @@ section_title: Source rule for interest
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YZ 1  Source rule for interest
 
 **Application from 29 July 1983**

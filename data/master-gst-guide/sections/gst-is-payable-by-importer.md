@@ -5,7 +5,6 @@ section: "gst-is-payable-by-importer"
 title: "GST is payable by importer"
 paragraph: "¶9-005"
 ---
-
 # GST is payable by importer ¶9-005
 
 The importer of goods is liable for GST on their import (s 13-15). This is irrespective of whether the importer is registered, or is carrying on an enterprise. However, if the importer is registered, it may be able to claim input tax credits (ITCs) for the GST it has paid (¶9-010).

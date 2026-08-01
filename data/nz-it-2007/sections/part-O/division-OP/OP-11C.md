@@ -8,7 +8,6 @@ section_title: Consolidated ICA credit for research and development tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 11C  Consolidated ICA credit for research and development tax credit
 
 **Credit**

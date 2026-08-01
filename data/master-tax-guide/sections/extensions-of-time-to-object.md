@@ -5,7 +5,6 @@ section: "extensions-of-time-to-object"
 title: "Extensions of time to object"
 paragraph: "¶28-030"
 ---
-
 # Extensions of time to object ¶28-030
 
 An objection lodged outside the relevant period (¶28-020) cannot be considered unless an extension of time is granted. A taxpayer who is out of time should lodge the objection with the Commissioner together with a written application requesting him to deal with the objection as if it had been lodged in time. The application must provide full details of the reasons why the objection was not lodged in time (TAA s 14ZW(2), (3)). The Commissioner has the discretion to refuse or grant the application and must give the taxpayer written notice of the decision. Where an application for an extension of time is granted, the objection is taken to have been duly lodged within the relevant period (TAA s 14ZX). If the Commissioner refuses to grant an extension of time, the taxpayer must be notiﬁed of the right to have the decision reviewed by the ART (Administrative Review Tribunal Act 2024 (ART Act), s 266: ¶28-070).

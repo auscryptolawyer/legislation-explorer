@@ -5,7 +5,6 @@ section: "a-20-point-plan-for-managing-gst"
 title: "A 20-point plan for managing GST"
 paragraph: "¶2-010"
 ---
-
 # A 20-point plan for managing GST ¶2-010
 
 This is a 20-point plan to help businesses and their advisers to manage GST, together with cross-references to further explanations and planning considerations. Many of these points will, of course, also need to be considered where you are reviewing the tax position of a company that you are planning to purchase. # 1 Have a coordinator You should have a qualified person (or team) to identify, and ensure compliance with, the GST requirements that apply to the business. # 2 Be aware of GST impacts

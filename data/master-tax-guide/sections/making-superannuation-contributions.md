@@ -5,7 +5,6 @@ section: "making-superannuation-contributions"
 title: "Making superannuation contributions"
 paragraph: "¶13-015"
 ---
-
 # Making superannuation contributions ¶13-015
 
 Superannuation contributions made by employers or individuals can be compulsory or voluntary, or may be prohibited, depending on the circumstances. In addition, special rules must be met for making of contributions under the First Home Savers Superannuation Scheme (¶13-790) or downsizer contributions (see below).

@@ -8,7 +8,6 @@ section_title: Four categories for calculating control interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 2  Four categories for calculating control interests
 
 **Separate categories**

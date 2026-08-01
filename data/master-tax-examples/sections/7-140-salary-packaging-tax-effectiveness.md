@@ -5,7 +5,6 @@ section: "7-140-salary-packaging-tax-effectiveness"
 title: "7-140 - Salary packaging tax effectiveness"
 paragraph: "None"
 ---
-
 # 7-140 - Salary packaging tax effectiveness
 
 Worked example: Salary packaging; tax effectiveness Issue James Brown is an accountant working for a company named Benefits R Us Pty Ltd. James has been interested in the salary packaging options the firm has offered its staff. In particular, James would like to salary package a laptop with a retail cost of $4,400 (GST inclusive) so that his children have a computer to use for their school work. Benefits R Us is prepared for James to package the item provided the total remuneration cost (TRC) remains unchanged. His salary package for 2024–25 is $90,000 salary and $10,350 superannuation (11.5% of his ordinary time earnings).

@@ -5,7 +5,6 @@ section: "eﬀective-life-health-care-and-social-assistance"
 title: "Eﬀective life — health care and social assistance"
 paragraph: "¶43-085"
 ---
-
 # Eﬀective life — health care and social assistance ¶43-085
 
 (84010 to 87900) Asset                                                       Life (Years)            Reviewed     Date Of Application

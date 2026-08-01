@@ -5,7 +5,6 @@ section: "conditions-giving-rise-to-a-car-beneﬁt"
 title: "Conditions giving rise to a car beneﬁt"
 paragraph: "¶35-150"
 ---
-
 # Conditions giving rise to a car beneﬁt ¶35-150
 
 A car beneﬁt arises on any day where an employer’s car is used by an employee for private purposes or is available for such use. Even if the car is not actually owned or leased by the employer or an associate, there will still be a car beneﬁt if it is used or is available for use for private purposes by an employee under an arrangement between the employer or an associate of the employer and a third party who actually owns or leases the car. The existence of a car beneﬁt is determined on a daily basis.

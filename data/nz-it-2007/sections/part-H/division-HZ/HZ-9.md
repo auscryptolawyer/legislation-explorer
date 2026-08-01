@@ -8,7 +8,6 @@ section_title: Elections to treat existing debt funding special purpose vehicles
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HZ 9  Elections to treat existing debt funding special purpose vehicles as transparent
 
 **When this section applies**

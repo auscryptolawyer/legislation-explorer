@@ -8,7 +8,6 @@ section_title: Transitional residents
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 8  Transitional residents
 
 **Provisions under which transitional resident treated as non-resident**

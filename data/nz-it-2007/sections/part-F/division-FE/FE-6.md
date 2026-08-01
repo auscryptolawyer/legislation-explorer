@@ -8,7 +8,6 @@ section_title: Apportionment of interest by excess debt entity
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 6  Apportionment of interest by excess debt entity
 
 **Who this section applies to**

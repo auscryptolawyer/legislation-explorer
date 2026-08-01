@@ -5,7 +5,6 @@ section: "landcare-operations"
 title: "Landcare operations"
 paragraph: "¶18-100"
 ---
-
 # Landcare operations ¶18-100
 
 Capital expenditure incurred on landcare operations qualiﬁes for outright deduction in the year the expenditure is incurred (ITAA97 ss 40-630 to 40-675).

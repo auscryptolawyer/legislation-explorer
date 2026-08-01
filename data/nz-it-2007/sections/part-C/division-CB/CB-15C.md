@@ -8,7 +8,6 @@ section_title: Council-controlled organisations and other companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 15C  Council-controlled organisations and other companies
 
 **Exclusion from application of some land provisions: kinds of associated persons**

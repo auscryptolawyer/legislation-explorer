@@ -5,7 +5,6 @@ section: "tax-treatment-of-rsa-business"
 title: "Tax treatment of RSA business"
 paragraph: "¶3-530"
 ---
-
 # Tax treatment of RSA business ¶3-530
 
 The nature and purpose of retirement savings accounts (RSAs) is discussed at ¶13-470. They are intended to provide a simple, low-cost, low-risk vehicle for superannuation savings. An ADI, life insurance company (¶3-480) or prescribed ﬁnancial institution approved by APRA can provide RSAs. An ADI (approved deposit- taking institution) is a body corporate which has an authority from APRA to carry on banking business in Australia (eg a bank, building society or credit union).

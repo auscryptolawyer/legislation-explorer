@@ -8,7 +8,6 @@ section_title: Calculation of instalments: 2026–27 tax year
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 4L  Calculation of instalments: 2026–27 tax year
 
 **When this section applies**

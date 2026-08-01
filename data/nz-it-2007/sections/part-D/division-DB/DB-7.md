@@ -8,7 +8,6 @@ section_title: Interest: most companies need no nexus with income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 7  Interest: most companies need no nexus with income
 
 **Deduction**

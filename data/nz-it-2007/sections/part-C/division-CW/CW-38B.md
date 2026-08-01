@@ -8,7 +8,6 @@ section_title: Public purpose Crown-controlled companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 38B  Public purpose Crown-controlled companies
 
 **Exempt income: sinking funds**

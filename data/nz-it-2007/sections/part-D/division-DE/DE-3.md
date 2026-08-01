@@ -8,7 +8,6 @@ section_title: Methods for calculating proportion of business use
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DE 3  Methods for calculating proportion of business use
 
 The 2 methods that may be used to calculate the proportion of business use of a motor vehicle are—

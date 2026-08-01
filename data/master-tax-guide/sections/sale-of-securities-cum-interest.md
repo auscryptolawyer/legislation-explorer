@@ -5,7 +5,6 @@ section: "sale-of-securities-cum-interest"
 title: "Sale of securities cum interest"
 paragraph: "¶23-430"
 ---
-
 # Sale of securities cum interest ¶23-430
 
 If securities on which interest is accruing are sold cum interest, the purchaser is assessable on the whole of the interest subsequently received. The Commissioner’s views on the basis of assessment of income derived from investments in ﬁxed and variable securities cum interest are set out in TR 93/28 (¶9-050).

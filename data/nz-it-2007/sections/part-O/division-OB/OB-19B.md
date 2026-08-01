@@ -8,7 +8,6 @@ section_title: ICA transfer to loss-using group company
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 19B  ICA transfer to loss-using group company
 
 **Credit**

@@ -8,7 +8,6 @@ section_title: Calculation of instalments: 1 April 2024 to 30 July 2024
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 4J  Calculation of instalments: 1 April 2024 to 30 July 2024
 
 **When this section applies**

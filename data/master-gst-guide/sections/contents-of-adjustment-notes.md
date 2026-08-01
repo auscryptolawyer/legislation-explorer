@@ -5,7 +5,6 @@ section: "contents-of-adjustment-notes"
 title: "Contents of adjustment notes"
 paragraph: "¶6-115"
 ---
-
 # Contents of adjustment notes ¶6-115
 
 The required contents for an adjustment note which is issued by a supplier are as follows: (1) it must be in the approved form. No particular format has been prescribed, as long as it complies with (2) and (3) (2) it must set out the ABN of the supplier (3) it must contain enough information to enable the following to be “clearly ascertained”:

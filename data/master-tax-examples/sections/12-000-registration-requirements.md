@@ -5,7 +5,6 @@ section: "12-000-registration-requirements"
 title: "12-000 - Registration requirements"
 paragraph: "None"
 ---
-
 # 12-000 - Registration requirements
 
 Worked example: Registration requirements Issue In July 2024, Aus Co commenced carrying on a business of selling customised protective covers for a new communication device, the e-Fone. Aus Co purchases the e-Fone covers from an Australian manufacturer and directly sells the covers to end consumers both in Australia and overseas. At the time the business commenced, it was anticipated that the first year’s gross turnover would be $62,000 from local sales and $15,000 from exports. In June 2025, the actual gross turnover for the first year of operations was $68,000 from local sales and $17,000 from exports.

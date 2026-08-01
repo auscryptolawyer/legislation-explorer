@@ -5,7 +5,6 @@ section: "payg-withholding-oﬀences-and-penalties"
 title: "PAYG withholding oﬀences and penalties"
 paragraph: "¶26-750"
 ---
-
 # PAYG withholding oﬀences and penalties ¶26-750
 
 The main oﬀences connected with PAYG withholding are discussed at ¶29-300.

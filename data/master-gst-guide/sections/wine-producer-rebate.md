@@ -5,7 +5,6 @@ section: "wine-producer-rebate"
 title: "Wine producer rebate"
 paragraph: "¶22-560"
 ---
-
 # Wine producer rebate ¶22-560
 
 An annual “producer” rebate is allowed to wine producers who are potentially liable for wine equalisation tax (WET) on grape wine, grape wine products, fruit or vegetable wine, cider, perry, mead or sake (WET Act Div 19). “Producer” means an entity that manufactures the wine, or supplies to another entity the grapes, other fruit, vegetables (including rice) or honey from which the wine is manufactured on the supplier’s behalf (WET Act s 33-1; WET Ruling WETR 2009/2). An investor in a wine statutory Managed Investment Scheme is not a producer where their grapes are simply pooled with those of the other investors and the pooled grapes are then manufactured into grape wine (Interpretative Decision ID 2009/98).

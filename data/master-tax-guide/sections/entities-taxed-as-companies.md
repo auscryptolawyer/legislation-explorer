@@ -5,7 +5,6 @@ section: "entities-taxed-as-companies"
 title: "Entities taxed as companies"
 paragraph: "¶4-270"
 ---
-
 # Entities taxed as companies ¶4-270
 
 Corporate limited partnerships (¶3-475) are taxed as if they were companies. Accordingly, distributions by corporate limited partnerships are deemed to be dividends except to the extent that they are attributable to proﬁts or gains of an income year in which the partnership was not taxed as a company (ITAA36 s 94L).

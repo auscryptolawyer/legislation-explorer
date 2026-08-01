@@ -5,7 +5,6 @@ section: "additional-time-for-lodgment"
 title: "Additional time for lodgment"
 paragraph: "¶24-070"
 ---
-
 # Additional time for lodgment ¶24-070
 
 The Commissioner may defer the time for lodging a return (ITAA36 s 161; TAA sch 1 s 388-55). A decision granting, or refusing to grant, an additional period of time is not reviewable by the AAT in proceedings under TAA Pt IVC (AAT and AC Goode & Co 90 ATC 4342, Fitzgibbon 2004 ATC 2087; [2004] AATA 631), but may be reviewed under the Administrative Decisions (Judicial Review) Act 1977 (¶28-180).

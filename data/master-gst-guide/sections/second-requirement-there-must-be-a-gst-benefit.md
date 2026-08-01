@@ -5,7 +5,6 @@ section: "second-requirement-there-must-be-a-gst-benefit"
 title: "Second requirement: there must be a GST benefit"
 paragraph: "¶20-030"
 ---
-
 # Second requirement: there must be a GST benefit ¶20-030
 
 For Div 165 to apply, some person — known as the avoider — must get a GST benefit. A GST benefit typically arises in these ways: (1) the person does not pay GST, or pays less GST (2) the person gets a GST refund, or an increased GST refund (3) the person pays GST later, or (4) the person gets a refund earlier (s 165-10).

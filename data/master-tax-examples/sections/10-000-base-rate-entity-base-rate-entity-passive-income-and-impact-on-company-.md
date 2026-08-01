@@ -5,7 +5,6 @@ section: "10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-
 title: "10-000 - Base rate entity base rate entity passive income and impact on company tax rate and franking rate"
 paragraph: "None"
 ---
-
 # 10-000 - Base rate entity base rate entity passive income and impact on company tax rate and franking rate
 
 company tax rate and franking rate

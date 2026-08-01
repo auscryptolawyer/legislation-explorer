@@ -5,7 +5,6 @@ section: "consequences-of-a-direct-value-shift"
 title: "Consequences of a direct value shift"
 paragraph: "¶12-820"
 ---
-
 # Consequences of a direct value shift ¶12-820
 
 A direct value shift can result in a taxing event that generates a gain (disposal treatment) or changes to adjustable values of assets (roll-over treatment). In some cases, both a taxing event and a change of adjustable value may occur for a particular interest. There is no taxing event to allow a loss on a direct value shift.

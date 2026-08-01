@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 95AAC Adjustments under Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997—references in this Act to liabilities under section 98, 99 or 99A
 
 <a id="s95AAC-1"></a>

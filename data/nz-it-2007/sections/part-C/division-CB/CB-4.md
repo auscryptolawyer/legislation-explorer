@@ -8,7 +8,6 @@ section_title: Personal property acquired for purpose of disposal
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 4  Personal property acquired for purpose of disposal
 
 An amount that a person derives from disposing of personal property is income of the person if they acquired the property for the purpose of disposing of it.

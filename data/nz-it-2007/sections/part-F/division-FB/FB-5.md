@@ -8,7 +8,6 @@ section_title: Disposal of land
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 5  Disposal of land
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "various-options-for-lodgment-of-gst-returns"
 title: "Various options for lodgment of GST returns"
 paragraph: "¶8-000"
 ---
-
 # Various options for lodgment of GST returns ¶8-000
 
 All taxpayers who are registered — or are required to be registered — must provide a GST return to the ATO (s 31-5). The GST return must be in the approved form, ie in a Business Activity Statement (BAS) (¶8-010); however, the precise requirements for lodging returns vary according to the circumstances.

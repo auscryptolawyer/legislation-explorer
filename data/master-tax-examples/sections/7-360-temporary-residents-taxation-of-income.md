@@ -5,7 +5,6 @@ section: "7-360-temporary-residents-taxation-of-income"
 title: "7-360 - Temporary residents taxation of income"
 paragraph: "None"
 ---
-
 # 7-360 - Temporary residents taxation of income
 
 Worked example: Temporary residents; taxation of income Issue KoalaKo recruited Caroline Jacobs from the US to work in their Sydney office. On 1 August 2024, Caroline arrived in Australia on a Temporary Work (Skilled) visa (subclass 457). She is expected to remain in her role for at least the 4-year term of her visa, with a possibility of an extension. Caroline is a temporary resident for Australian tax purposes.

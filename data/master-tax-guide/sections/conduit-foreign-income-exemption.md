@@ -5,7 +5,6 @@ section: "conduit-foreign-income-exemption"
 title: "Conduit foreign income exemption"
 paragraph: "¶21-100"
 ---
-
 # Conduit foreign income exemption ¶21-100
 
 Any part of an unfranked distribution made by an Australian corporate tax entity that it declares to be “conduit foreign income” (CFI) is not assessable to a foreign resident, and is not subject to dividend withholding tax (ITAA97 s 802-15). The general aim of this measure is to reduce tax impediments for foreign investors who structure their foreign investments through Australian entities, instead of holding them directly. It replaces the more limited foreign dividend account rules (¶22-010).

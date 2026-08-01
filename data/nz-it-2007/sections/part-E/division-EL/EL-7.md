@@ -8,7 +8,6 @@ section_title: When property A sold
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EL 7  When property A sold
 
 **When this section applies**

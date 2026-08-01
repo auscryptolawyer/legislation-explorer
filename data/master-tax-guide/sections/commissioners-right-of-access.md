@@ -5,7 +5,6 @@ section: "commissioners-right-of-access"
 title: "Commissioner’s right of access"
 paragraph: "¶25-220"
 ---
-
 # Commissioner’s right of access ¶25-220
 
 The Commissioner and individuals authorised by the Commissioner are entitled to full and free access at all reasonable times, to documents, books or other property (TAA sch 1 s 353-15).

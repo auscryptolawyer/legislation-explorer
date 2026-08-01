@@ -5,7 +5,6 @@ section: "determining-the-tax-period"
 title: "Determining the tax period"
 paragraph: "¶7-100"
 ---
-
 # Determining the tax period ¶7-100
 
 Tax periods are either one month or quarterly, depending on the circumstances. In certain situations, annual tax periods may also apply. All these options are discussed below.

@@ -8,7 +8,6 @@ section_title: Transitional rules for look-through companies, partnerships, and 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HA 33B  Transitional rules for look-through companies, partnerships, and sole traderships
 
 **LTC election**

@@ -5,7 +5,6 @@ section: "development-leases"
 title: "Development leases"
 paragraph: "¶11-062"
 ---
-
 # Development leases ¶11-062
 
 Under various types of development lease arrangements, a private developer undertakes a development on land owned by a government agency, on the contractual basis that the land will be supplied to the developer on a short-term lease (or licence) during the development phase, and will then be transferred to the developer by way of the freehold or a long-term lease once the development is completed. According to

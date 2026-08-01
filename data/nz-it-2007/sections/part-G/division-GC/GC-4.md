@@ -8,7 +8,6 @@ section_title: Disposals and acquisitions of FIF attributing interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GC 4  Disposals and acquisitions of FIF attributing interests
 
 **When subsection (2) applies**

@@ -8,7 +8,6 @@ section_title: Commercial bills
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FZ 5  Commercial bills
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "overview-small-businesses"
 title: "Overview: small businesses"
 paragraph: "¶1-250"
 ---
-
 # Overview: small businesses ¶1-250
 
 An entity’s eligibility to claim the following GST concessions normally depends on it qualifying as a “small business entity”:

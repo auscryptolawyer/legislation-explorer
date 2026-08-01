@@ -5,7 +5,6 @@ section: "eﬀective-life-wholesale-trade"
 title: "Eﬀective life — wholesale trade"
 paragraph: "¶43-035"
 ---
-
 # Eﬀective life — wholesale trade ¶43-035
 
 (33110 to 38000) Asset                                                      Life (Years)       Reviewed    Date Of Application

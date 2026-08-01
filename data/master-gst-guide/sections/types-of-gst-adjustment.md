@@ -5,7 +5,6 @@ section: "types-of-gst-adjustment"
 title: "Types of GST adjustment"
 paragraph: "¶6-000"
 ---
-
 # Types of GST adjustment ¶6-000
 
 Sometimes subsequent changes to transactions or business operations may make it necessary to adjust the amount of GST that has been imposed, or the amount of input tax credit that has been claimed. These changes fall into the following categories:

@@ -8,7 +8,6 @@ section_title: Rate and amount of tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HD 7  Rate and amount of tax
 
 The rate of tax used to calculate an agent’s income tax liability is determined by reference to the taxable income of the principal. The amount of income tax payable is the amount determined by the amount of agency income as a proportion of the taxable income of the principal.

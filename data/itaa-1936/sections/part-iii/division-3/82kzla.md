@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 82KZLA  Subdivision does not apply to financial arrangements to which Subdivision 250-E applies
 
 To avoid doubt, this Subdivision does not apply to:

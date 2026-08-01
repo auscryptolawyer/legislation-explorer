@@ -5,7 +5,6 @@ section: "2-060-main-residence-exemption-absence-rule-first-used-to-produce-inco
 title: "2-060 - Main residence exemption absence rule first used to produce income rule"
 paragraph: "None"
 ---
-
 # 2-060 - Main residence exemption absence rule first used to produce income rule
 
 Worked example: Main residence exemption; absence rule; first used to produce income rule Issue Stella Rose acquired a dwelling in February 2009 which she used as her main residence. The dwelling has a cost base of $300,000 for CGT purposes. On 1 July 2015, Stella vacated the dwelling and started renting it to tenants. At that time, the dwelling had a market value of $400,000. Stella made a choice under ITAA97 s 118-145 to treat the dwelling as her main residence during the time that the dwelling was being rented. On 30 June 2025, Stella disposed of the dwelling for $1 million.

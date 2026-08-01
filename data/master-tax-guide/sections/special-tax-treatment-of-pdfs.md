@@ -5,7 +5,6 @@ section: "special-tax-treatment-of-pdfs"
 title: "Special tax treatment of PDFs"
 paragraph: "¶3-555"
 ---
-
 # Special tax treatment of PDFs ¶3-555
 
 The PDF program was closed to new registration applications from 21 June 2007. Until 20 June 2007, eligible investment companies could apply to be registered under the Pooled Development Funds Act 1992 as pooled development funds (PDFs). PDFs provide equity capital for eligible activities to Australian resident companies with total assets not exceeding $50 million. The investee companies are referred to as small- medium enterprises (SMEs). PDFs are taxed in the same way as other companies except that they are taxed at concessional rates on certain components of income (Income Tax Rates Act 1986 s 23(4) and (5)). A company acting in the capacity of trustee is not taxed as a PDF. Gains on the disposal of PDF shares are tax-exempt (ITAA36 s 124ZN) and are not subject to CGT (¶12-640).

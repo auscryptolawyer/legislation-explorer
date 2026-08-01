@@ -5,7 +5,6 @@ section: "1-520-non-commercial-losses-commissioners-discretion-regarding-flood-b
 title: "1-520 - Non-commercial losses Commissioners discretion regarding flood bushfire or other natural disasters"
 paragraph: "None"
 ---
-
 # 1-520 - Non-commercial losses Commissioners discretion regarding flood bushfire or other natural disasters
 
 other natural disasters Worked example: Non-commercial losses — Commissioner’s discretion regarding flood, bushfire or other natural disasters Issue Jacob Marley has operated an established bee-keeping business for many years. At the commencement of the 2024–25 income year, the business maintained a large number of beehives which provided honey for a variety of outlets including supermarkets and local speciality shops. The honey market has been depressed for a couple of years, caused by oversupply of inferior imports, and the business has made a loss in the 2 previous income years.

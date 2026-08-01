@@ -8,7 +8,6 @@ section_title: Ring-fencing cap on FIF net losses
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 3  Ring-fencing cap on FIF net losses
 
 **Limit on amount: branch equivalent method**

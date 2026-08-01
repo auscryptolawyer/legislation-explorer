@@ -8,7 +8,6 @@ section_title: Payments to environmental restoration account
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EK 3  Payments to environmental restoration account
 
 **Upper limit of payment**

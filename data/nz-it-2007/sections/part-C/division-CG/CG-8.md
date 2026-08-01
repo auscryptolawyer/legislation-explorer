@@ -8,7 +8,6 @@ section_title: Capital contributions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 8  Capital contributions
 
 **When this section applies**

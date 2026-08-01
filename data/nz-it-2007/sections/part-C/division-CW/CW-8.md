@@ -8,7 +8,6 @@ section_title: Money lent to government of New Zealand
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 8  Money lent to government of New Zealand
 
 **What this section applies to**

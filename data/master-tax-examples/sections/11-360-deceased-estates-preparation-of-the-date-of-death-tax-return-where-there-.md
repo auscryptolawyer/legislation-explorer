@@ -5,7 +5,6 @@ section: "11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-wh
 title: "11-360 - Deceased estates preparation of the date of death tax return where there is no grant of probate"
 paragraph: "None"
 ---
-
 # 11-360 - Deceased estates preparation of the date of death tax return where there is no grant of probate
 
 where there is no grant of probate Worked example: Deceased estates: preparation of the date of death tax return where there is no grant of probate Issue Jon West has been a client of Starling Partners Accountants for many years. He was married to Jean West but did not have children and all his siblings have died. On 1 January 2025, Jon died after a long illness. All his assets were owned jointly with Jean and passed automatically to her on his death. In addition, he left a Will which confirms that his entire estate passes to Jean.

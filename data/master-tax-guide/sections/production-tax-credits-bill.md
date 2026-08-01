@@ -5,7 +5,6 @@ section: "production-tax-credits-bill"
 title: "Production tax credits Bill"
 paragraph: "¶41-200"
 ---
-
 # Production tax credits Bill ¶41-200
 
 The Future Made in Australia (Production Tax Credits and Other Measures) Bill 2024 (the Bill) was introduced into the House of Representatives on 25 November 2024 and passed the House on 28 November 2024.

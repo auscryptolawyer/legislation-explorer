@@ -5,7 +5,6 @@ section: "proﬁt-from-forced-disposal-or-death-of-live-stock"
 title: "Proﬁt from forced disposal or death of live stock"
 paragraph: "¶18-160"
 ---
-
 # Proﬁt from forced disposal or death of live stock ¶18-160
 
 Two forms of concessional tax treatment are available by election for assessable proceeds arising from the death or forced disposal of live stock that are assets of a primary production business carried on in Australia (ITAA97 ss 385-90 to 385-125).

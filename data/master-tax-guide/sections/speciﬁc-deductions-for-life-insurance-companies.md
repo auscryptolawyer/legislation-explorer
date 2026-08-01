@@ -5,7 +5,6 @@ section: "speciﬁc-deductions-for-life-insurance-companies"
 title: "Speciﬁc deductions for life insurance companies"
 paragraph: "¶3-510"
 ---
-
 # Speciﬁc deductions for life insurance companies ¶3-510
 
 - certain components of life insurance premiums, as provided in ITAA97 ss 320-55 to 320-75

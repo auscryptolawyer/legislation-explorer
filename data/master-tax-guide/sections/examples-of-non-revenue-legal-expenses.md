@@ -5,7 +5,6 @@ section: "examples-of-non-revenue-legal-expenses"
 title: "Examples of non-revenue legal expenses"
 paragraph: "¶16-844"
 ---
-
 # Examples of non-revenue legal expenses ¶16-844
 
 In addition to the examples given at ¶16-840, the following are examples of legal expenses that have been held not to be deductible under the general provisions of ITAA97 s 8-1. Note, however, that some may be deductible under the more speciﬁc provisions noted at ¶16-830:

@@ -5,7 +5,6 @@ section: "payg-alienated-personal-services-payments"
 title: "PAYG: alienated personal services payments"
 paragraph: "¶26-280"
 ---
-
 # PAYG: alienated personal services payments ¶26-280
 
 A personal services entity (¶30-630) must pay an amount to the Commissioner if it: (a) receives an alienated personal services payment; and (b) receives that payment during a PAYG payment period for which it is a personal services payment remitter (TAA sch 1 s 13-5(1)).

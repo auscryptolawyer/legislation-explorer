@@ -5,7 +5,6 @@ section: "taxable-australian-property-for-cgt-purposes"
 title: "Taxable Australian property for CGT purposes"
 paragraph: "¶12-725"
 ---
-
 # Taxable Australian property for CGT purposes ¶12-725
 
 A foreign resident’s liability for CGT is based on whether the relevant asset is taxable Australian property.

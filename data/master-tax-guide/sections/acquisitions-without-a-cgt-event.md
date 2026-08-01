@@ -5,7 +5,6 @@ section: "acquisitions-without-a-cgt-event"
 title: "Acquisitions without a CGT event"
 paragraph: "¶11-450"
 ---
-
 # Acquisitions without a CGT event ¶11-450
 
 There are also some speciﬁc rules for the circumstances in which, and the time at which, a CGT asset is acquired independently of a CGT event happening (s 109-10).

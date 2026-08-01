@@ -8,7 +8,6 @@ section_title: Valuation of excepted financial arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ED 1  Valuation of excepted financial arrangements
 
 **Valuation methods for excepted financial arrangements**

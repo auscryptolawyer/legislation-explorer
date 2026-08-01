@@ -5,7 +5,6 @@ section: "meaning-of-operating-cost"
 title: "Meaning of operating cost"
 paragraph: "¶35-230"
 ---
-
 # Meaning of operating cost ¶35-230
 
 In general terms, the operating cost of a car consists of “car expenses”, registration and insurance costs (see below), and:

@@ -8,7 +8,6 @@ section_title: Shareholder continuity requirements for memorandum accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OA 8  Shareholder continuity requirements for memorandum accounts
 
 **When this section applies**

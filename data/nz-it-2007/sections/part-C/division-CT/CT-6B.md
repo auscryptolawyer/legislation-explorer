@@ -8,7 +8,6 @@ section_title: Meaning of petroleum mining operations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CT 6B  Meaning of petroleum mining operations
 
 **Meaning**

@@ -8,7 +8,6 @@ section_title: Application of sections EC 7 to EC 27
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 6  Application of sections EC 7 to EC 27
 
 Sections EC 7 to EC 27 set out the rules for valuing specified livestock.

@@ -5,7 +5,6 @@ section: "treatment-of-partnership-losses"
 title: "Treatment of partnership losses"
 paragraph: "¶5-110"
 ---
-
 # Treatment of partnership losses ¶5-110
 
 A partnership loss arises where there is an excess of allowable deductions over assessable income, calculated as if the partnership were a resident taxpayer. Income from all sources is taken into account but certain deductions are ignored (¶5-070). The partnership loss is not allowable to the partnership as such, but is distributed to the partners in the year in which it is incurred in accordance with their respective individual interests in the loss as provided by the partnership agreement (assuming the agreement is eﬀective for tax purposes; and subject to the non-commercial loss rules: ¶16-020). It is then claimable as a deduction in the partner’s individual tax return (s 92).

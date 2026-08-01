@@ -5,7 +5,6 @@ section: "refunds-of-rba-surpluses"
 title: "Refunds of RBA surpluses"
 paragraph: "¶24-380"
 ---
-
 # Refunds of RBA surpluses ¶24-380
 
 An RBA surplus is a balance in favour of the entity, based on primary tax debts that have been allocated to the RBA, payments made in respect of current or anticipated primary tax debts and credits to which the entity is entitled that have been allocated to the RBA.

@@ -8,7 +8,6 @@ section_title: Part-period calculations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 21F  Part-period calculations
 
 **When this section applies**

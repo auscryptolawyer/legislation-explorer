@@ -5,7 +5,6 @@ section: "taxation-of-complying-superannuation-entities"
 title: "Taxation of complying superannuation entities"
 paragraph: "¶13-120"
 ---
-
 # Taxation of complying superannuation entities ¶13-120
 
 ITAA97 Div 295 provides the special rules for the taxation of the following superannuation entities, whether they are established by an Australian law, by a public authority constituted under such a law or in some other way:

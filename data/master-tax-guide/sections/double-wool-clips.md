@@ -5,7 +5,6 @@ section: "double-wool-clips"
 title: "Double wool clips"
 paragraph: "¶18-140"
 ---
-
 # Double wool clips ¶18-140
 
 A measure of tax relief from the consequences of an advanced shearing caused by drought, ﬁre or ﬂood is available to primary producers carrying on a sheep grazing business in Australia (ITAA97 s 385-135).

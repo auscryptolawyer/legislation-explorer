@@ -5,7 +5,6 @@ section: "1-240-australian-resident-or-non-resident"
 title: "1-240 - Australian resident or non-resident"
 paragraph: "None"
 ---
-
 # 1-240 - Australian resident or non-resident
 
 Worked example: Australian resident or non-resident Issue Adam Collins was born in Australia and works as an international airline pilot. He is married to Narelle, and they have 2 school-aged children. Adam and Narelle own a house in Sydney and receive interest on savings from their joint Australian bank account. Adam pays for Australian private health insurance for the family and has share investments in the airline on which he receives dividends.

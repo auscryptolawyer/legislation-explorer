@@ -5,7 +5,6 @@ section: "registration-for-gst"
 title: "Registration for GST"
 paragraph: "¶34-100"
 ---
-
 # Registration for GST ¶34-100
 
 Registration is fundamental to the operation of the GST system. An entity must normally be registered, or required to be registered, to be liable for GST or to claim input tax credits (Div 23). As far as registration is concerned there are: (1) entities that cannot be registered (2) entities that can be registered, but are not required to be, and (3) entities that are required to be registered.

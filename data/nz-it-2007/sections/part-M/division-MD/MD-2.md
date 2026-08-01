@@ -8,7 +8,6 @@ section_title: Calculating net contributions to credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MD 2  Calculating net contributions to credits
 
 **When this section applies**

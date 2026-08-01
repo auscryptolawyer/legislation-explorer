@@ -5,7 +5,6 @@ section: "start-up-companies-and-employee-share-schemes"
 title: "Start-up companies and employee share schemes"
 paragraph: "¶10-090"
 ---
-
 # Start-up companies and employee share schemes ¶10-090
 
 A speciﬁc concession applies to employees of certain small start-up companies when acquiring shares or rights in their employer or a holding company of their employer on or after 1 July 2015 (s 83A-33). Broadly, the concession provides an income tax exemption for the discount received on certain shares and the deferral of the income tax on the discount received on certain rights, which are instead taxed under the CGT rules (ss 83A-33(1); 115-30(1)).

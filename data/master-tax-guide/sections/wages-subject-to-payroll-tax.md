@@ -5,7 +5,6 @@ section: "wages-subject-to-payroll-tax"
 title: "Wages subject to payroll tax"
 paragraph: "¶36-050"
 ---
-
 # Wages subject to payroll tax ¶36-050
 
 The deﬁnition of “wages” in each state is prescribed in either the Payroll Tax Act or Pay-roll Tax Assessment Act, as applicable. The term “wages” is generally deﬁned to mean any wages, salary, remuneration, commission, bonuses or allowances paid or payable (whether at piece work rates or otherwise and whether paid or payable in cash or in kind) to an employee as such. This may include:

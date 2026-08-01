@@ -8,7 +8,6 @@ section_title: Determining amount of non-resident financial arrangement income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 12D  Determining amount of non-resident financial arrangement income
 
 **Amount of income**

@@ -5,7 +5,6 @@ section: "gifts-of-works-of-art"
 title: "Gifts of works of art"
 paragraph: "¶16-965"
 ---
-
 # Gifts of works of art ¶16-965
 
 Under the Cultural Gifts Program, certain gifts of works of art and comparable property qualify for deduction on a more liberal basis than other gifts (s 30-15, items 4 and 5). Such gifts are also exempt from CGT (s 118-60(2)).

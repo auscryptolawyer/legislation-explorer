@@ -8,7 +8,6 @@ section_title: Treatment of interest payable under debentures issued before cert
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FZ 1  Treatment of interest payable under debentures issued before certain date
 
 **When this section applies**

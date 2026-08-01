@@ -5,7 +5,6 @@ section: "5-120-choice-of-stock-valuation-methods-obsolescence"
 title: "5-120 - Choice of stock valuation methods obsolescence"
 paragraph: "None"
 ---
-
 # 5-120 - Choice of stock valuation methods obsolescence
 
 Worked example: Choice of stock valuation methods; obsolescence Issue Bernini Pty Ltd (Bernini) is a fresh produce importer. For the tax year ending 30 June 2025, sales were $7,500,000 and purchases were $4,000,000. Bernini’s allowable deductions were $2,000,000.

@@ -5,7 +5,6 @@ section: "distribution-statements"
 title: "Distribution statements"
 paragraph: "¶4-690"
 ---
-
 # Distribution statements ¶4-690
 
 An entity that makes a frankable distribution must give the recipient a distribution statement (ITAA97 s 202-75). Entities other than private companies must provide the statement on or before the day on which the distribution is made. A private company must provide the statement within 4 months (or further time allowed by the Commissioner in writing) after the end of the income year in which the distribution is made.

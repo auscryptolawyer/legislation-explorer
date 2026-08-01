@@ -5,7 +5,6 @@ section: "construction-expenditure"
 title: "Construction expenditure"
 paragraph: "¶20-510"
 ---
-
 # Construction expenditure ¶20-510
 
 The deduction base for the purpose of working out capital works deductions is the construction expenditure incurred in building the relevant capital works. “Construction expenditure” is broadly deﬁned as capital expenditure incurred on the construction of capital works (ITAA97 s 43-70(1)). Therefore, expenditure of a property developer on a building that was held as trading stock was revenue in nature and did not qualify as construction expenditure (ID 2003/377).

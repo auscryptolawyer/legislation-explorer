@@ -8,7 +8,6 @@ section_title: Discounted selling price
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EB 9  Discounted selling price
 
 **Valuation at discounted selling price**

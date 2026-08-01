@@ -8,7 +8,6 @@ section_title: Application of benchmark dividend rules and imputation credit rat
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LP 5  Application of benchmark dividend rules and imputation credit ratio
 
 **Applying benchmark dividend rules**

@@ -5,7 +5,6 @@ section: "medical-practitioners-services"
 title: "Medical practitioners’ services"
 paragraph: "¶13-310"
 ---
-
 # Medical practitioners’ services ¶13-310
 
 In general, the provision of medical services is GST-free (s 38-7). The services must be made by, or on behalf of, a medical practitioner or an approved pathology practitioner, and must be generally accepted in the medical profession as being necessary for the appropriate treatment of the recipient of the supply (ie the patient). Alternatively, they must be services for which Medicare benefit is payable (s 195-1).

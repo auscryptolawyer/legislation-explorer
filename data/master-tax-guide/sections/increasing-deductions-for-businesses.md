@@ -5,7 +5,6 @@ section: "increasing-deductions-for-businesses"
 title: "Increasing deductions for businesses"
 paragraph: "¶31-180"
 ---
-
 # Increasing deductions for businesses ¶31-180
 
 Tax planning for business taxpayers often raises diﬀerent considerations, not least because business taxpayers are more likely to be subject to non-tax regulations and considerations (eg industrial awards and enterprise agreements) that may constrain available options. The fact that non-compliance with regulatory requirements may give rise to a non-deductible penalty, eg the superannuation guarantee charge (see below), is a tax planning consideration.

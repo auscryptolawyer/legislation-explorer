@@ -5,7 +5,6 @@ section: "2-312-cgt-consequences-arising-from-holding-cryptocurrency-debit-cards
 title: "2-312 - CGT consequences arising from holding cryptocurrency debit cards"
 paragraph: "None"
 ---
-
 # 2-312 - CGT consequences arising from holding cryptocurrency debit cards
 
 Worked example: CGT consequences arising from holding cryptocurrency debit cards Issue During the year ended 30 June 2025, Mary Whittaker applied for and received a cryptocurrency debit card issued by Pacific Eastern Bank. Mary has used the card for various purchases from a number of retailers, both in-store and online, during the year. She has not given much thought to the tax implications of the card and her purchases during the year and, with the end of financial year in sight, she is becoming increasingly worried that the card and her associated spending may have caused tax problems.

@@ -5,7 +5,6 @@ section: "evaluation-and-product-launches"
 title: "Evaluation and product launches"
 paragraph: "¶12-128"
 ---
-
 # Evaluation and product launches ¶12-128
 
 If a vehicle is supplied to another person for evaluation, GST would not apply to the supply unless the supplier receives something back in return. GST would therefore not apply in situations such as where a vehicle is supplied to:

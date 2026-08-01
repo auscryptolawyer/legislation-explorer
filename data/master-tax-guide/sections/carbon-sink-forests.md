@@ -5,7 +5,6 @@ section: "carbon-sink-forests"
 title: "Carbon sink forests"
 paragraph: "¶19-120"
 ---
-
 # Carbon sink forests ¶19-120
 
 A deduction is available for the cost of establishing a qualifying carbon sink forest (ITAA97 Subdiv 40-J (ss 40-1000 to 40-1025)). An amount that is deductible under these provisions would not be deductible under ITAA97 Subdiv 40-G (landcare operations (¶18-100): s 40-630(2C)).

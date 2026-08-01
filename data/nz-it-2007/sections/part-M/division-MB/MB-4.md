@@ -8,7 +8,6 @@ section_title: Family scheme income of major shareholders in close companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MB 4  Family scheme income of major shareholders in close companies
 
 **When this section applies**

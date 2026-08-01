@@ -8,7 +8,6 @@ section_title: Setting and publication of national minimum price threshold
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 39C  Setting and publication of national minimum price threshold
 
 **Setting of national minimum price threshold**

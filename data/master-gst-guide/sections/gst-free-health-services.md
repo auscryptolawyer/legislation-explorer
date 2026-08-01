@@ -5,7 +5,6 @@ section: "gst-free-health-services"
 title: "GST-free health services"
 paragraph: "¶13-300"
 ---
-
 # GST-free health services ¶13-300
 
 Supplies of most health and medical services are GST-free.

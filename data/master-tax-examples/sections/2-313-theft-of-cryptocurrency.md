@@ -5,7 +5,6 @@ section: "2-313-theft-of-cryptocurrency"
 title: "2-313 - Theft of cryptocurrency"
 paragraph: "None"
 ---
-
 # 2-313 - Theft of cryptocurrency
 
 Worked example: Theft of cryptocurrency Issue During the year ended 30 June 2025, Doris Smith decided to become a cryptocurrency trader.

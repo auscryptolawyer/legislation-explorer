@@ -5,7 +5,6 @@ section: "members-and-membership-interests"
 title: "Members and membership interests"
 paragraph: "¶4-480"
 ---
-
 # Members and membership interests ¶4-480
 
 The meaning of a “member” of an entity is set out in ITAA97 s 960-130. The members of various types of entities are shown in the table in ¶8-000.

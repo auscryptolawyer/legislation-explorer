@@ -5,7 +5,6 @@ section: "payg-retirement-payments"
 title: "PAYG: retirement payments"
 paragraph: "¶26-180"
 ---
-
 # PAYG: retirement payments ¶26-180
 
 An entity that makes a payment to an individual must withhold an amount if the payment is:

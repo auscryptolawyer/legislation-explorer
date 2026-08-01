@@ -8,7 +8,6 @@ section_title: New investment asset deduction
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DI 5  New investment asset deduction
 
 **Deduction**

@@ -8,7 +8,6 @@ section_title: Meaning of claim
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EY 7  Meaning of claim
 
 **Meaning in rules for life insurers**

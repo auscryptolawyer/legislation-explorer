@@ -5,7 +5,6 @@ section: "taxation-of-superannuation-death-beneﬁts"
 title: "Taxation of superannuation death beneﬁts"
 paragraph: "¶14-280"
 ---
-
 # Taxation of superannuation death beneﬁts ¶14-280
 
 The taxation treatment of a superannuation death beneﬁt (¶14-120) depends on whether it is a lump sum or an income stream and whether payment is made to a death beneﬁts dependant (¶14-270) of the deceased.

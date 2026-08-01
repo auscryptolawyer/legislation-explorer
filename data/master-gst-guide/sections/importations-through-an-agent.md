@@ -5,7 +5,6 @@ section: "importations-through-an-agent"
 title: "Importations through an agent"
 paragraph: "¶9-080"
 ---
-
 # Importations through an agent ¶9-080
 
 In accordance with the normal agency rules, importations made by an agent on behalf of your business are treated as being made by the business. However, where a registered non-resident makes an importation into Australia through an agent resident here, the agent is responsible for the GST consequences of the importation. For full details, see ¶17-400.

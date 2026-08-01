@@ -8,7 +8,6 @@ section_title: Payments for social rehabilitation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DF 4  Payments for social rehabilitation
 
 **When this section applies**

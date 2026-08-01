@@ -5,7 +5,6 @@ section: "11-180-disputing-an-ato-decision"
 title: "11-180 - Disputing an ATO decision"
 paragraph: "None"
 ---
-
 # 11-180 - Disputing an ATO decision
 
 Worked example: Disputing an ATO decision Issue On 16 December 2024, Ellie Maine received a notice of assessment in respect of her income tax return for the year ended 30 June 2024. She believes the assessment is unfair because the ATO disallowed some deduction claims despite her being able to substantiate her expenditure.

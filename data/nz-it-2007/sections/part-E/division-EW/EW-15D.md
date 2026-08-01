@@ -8,7 +8,6 @@ section_title: IFRS financial reporting method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 15D  IFRS financial reporting method
 
 **General IFRS rules**

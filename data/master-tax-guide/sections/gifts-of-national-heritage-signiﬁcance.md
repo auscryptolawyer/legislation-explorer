@@ -5,7 +5,6 @@ section: "gifts-of-national-heritage-signiﬁcance"
 title: "Gifts of national heritage signiﬁcance"
 paragraph: "¶16-967"
 ---
-
 # Gifts of national heritage signiﬁcance ¶16-967
 
 Gifts of property of national heritage signiﬁcance made to National Trust bodies (other than gifts by will) qualify for deduction on the same liberal basis as gifts of works of art (s 30-15, item 6). The deduction will normally be based on a market valuation determined by reference to at least 2 valuations by approved valuers (¶16-965).

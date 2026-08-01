@@ -5,7 +5,6 @@ section: "professional-or-trade-qualification-courses"
 title: "Professional or trade qualification courses"
 paragraph: "¶14-020"
 ---
-
 # Professional or trade qualification courses ¶14-020
 
 Professional or trade qualification courses are GST-free (s 38-85). This covers courses leading to qualifications that are “essential prerequisites” for entering into or commencing the practice of a particular profession or trade in Australia (s 195-1). To be an essential prerequisite, the qualification must be imposed by:

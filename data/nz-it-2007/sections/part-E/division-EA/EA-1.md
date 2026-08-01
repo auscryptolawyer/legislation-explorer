@@ -8,7 +8,6 @@ section_title: Trading stock, livestock, and excepted financial arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EA 1  Trading stock, livestock, and excepted financial arrangements
 
 **Property subject to matching rules**

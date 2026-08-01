@@ -5,7 +5,6 @@ section: "local-government-elections"
 title: "Local government elections"
 paragraph: "¶16-510"
 ---
-
 # Local government elections ¶16-510
 
 A deduction of up to $1,000 is allowed for expenses incurred in seeking election to a local government body (s 25-65; former ITAA36 s 74A). The $1,000 limit applies to each election contested, whether successfully or not, and whether the expenditure is incurred in one or more years of income. However, no deduction is allowable in respect of entertainment expenses, except in the limited circumstances covered at ¶16-500 (s 25-70). For the type of expenses that may be deductible, see TR 1999/10.

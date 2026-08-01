@@ -5,7 +5,6 @@ section: "limited-deduction-for-entertainment-expenses"
 title: "Limited deduction for entertainment expenses"
 paragraph: "¶16-390"
 ---
-
 # Limited deduction for entertainment expenses ¶16-390
 
 Entertainment expenses are not deductible except in very limited circumstances (ITAA97 Div 32: ss 32-1 to 32-90). This prohibition extends to entertainment in the form of food, drink or recreation. Recreation includes amusement, sport and similar leisure-time pursuits and would include recreation and amusement in vehicles, vessels or aircraft (eg joyﬂights, sightseeing tours; ID 2009/45). Common examples of entertainment are business lunches, cocktail parties, tickets to sporting or theatrical events, sightseeing and so on.

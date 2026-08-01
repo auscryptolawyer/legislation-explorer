@@ -5,7 +5,6 @@ section: "other-educational-supplies"
 title: "Other educational supplies"
 paragraph: "¶14-004"
 ---
-
 # Other educational supplies ¶14-004
 
 The GST treatment of other education-related supplies is as follows.

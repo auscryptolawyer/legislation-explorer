@@ -8,7 +8,6 @@ section_title: Expenditure incurred while income-earning activity interrupted by
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DZ 20B  Expenditure incurred while income-earning activity interrupted by North Island flooding event
 
 **When this section applies**

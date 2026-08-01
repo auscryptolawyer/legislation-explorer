@@ -5,7 +5,6 @@ section: "subdivision-and-sale"
 title: "Subdivision and sale"
 paragraph: "¶11-063"
 ---
-
 # Subdivision and sale ¶11-063
 
 The subdivision and sale of land by a registered developer would form part of the developer’s business enterprise and would be potentially subject to GST. The transaction is not input taxed because if the land is sold vacant, it would be treated as non-residential (¶11-050) and if it is sold with newly erected houses, it would be treated as new residential premises (¶11-020).

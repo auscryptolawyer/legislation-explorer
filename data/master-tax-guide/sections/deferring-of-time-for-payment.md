@@ -5,7 +5,6 @@ section: "deferring-of-time-for-payment"
 title: "Deferring of time for payment"
 paragraph: "¶25-410"
 ---
-
 # Deferring of time for payment ¶25-410
 
 The Commissioner may defer the time for payment of tax for particular taxpayers and may permit the tax to be paid by instalments (TAA sch 1 ss 255-10(1); 255-15(1)). The Commissioner may also defer the time for payment for a class of taxpayers by publishing a notice on the ATO website (TAA sch 1 s 255-10(2A) to (2C)).

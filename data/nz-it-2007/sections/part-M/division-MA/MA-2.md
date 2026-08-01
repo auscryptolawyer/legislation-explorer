@@ -8,7 +8,6 @@ section_title: Relationship with core provisions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MA 2  Relationship with core provisions
 
 Section BC 8 (Satisfaction of income tax liability) deals with how a tax credit arising under this Part is applied.

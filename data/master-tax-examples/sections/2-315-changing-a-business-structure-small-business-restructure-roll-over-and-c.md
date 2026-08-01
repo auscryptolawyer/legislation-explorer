@@ -5,7 +5,6 @@ section: "2-315-changing-a-business-structure-small-business-restructure-roll-ov
 title: "2-315 - Changing a business structure small business restructure roll-over and CGT small business concessions"
 paragraph: "None"
 ---
-
 # 2-315 - Changing a business structure small business restructure roll-over and CGT small business concessions
 
 business concessions

@@ -5,7 +5,6 @@ section: "active-assets"
 title: "Active assets"
 paragraph: "¶7-145"
 ---
-
 # Active assets ¶7-145
 
 Active asset test A CGT asset satisﬁes the active asset test if the asset was an active asset of the taxpayer:

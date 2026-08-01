@@ -8,7 +8,6 @@ section_title: Arrangements involving trust beneficiaries
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 5  Arrangements involving trust beneficiaries
 
 **When this section applies**

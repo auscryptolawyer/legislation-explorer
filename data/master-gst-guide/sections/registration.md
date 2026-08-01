@@ -5,7 +5,6 @@ section: "registration"
 title: "Registration"
 paragraph: "¶1-110"
 ---
-
 # Registration ¶1-110
 
 To attract GST or claim input tax credits, you must normally be registered (¶3-000). You register with the ATO, which is the body responsible for administering the GST. Registration is compulsory if your GST turnover is $75,000 or more ($150,000 if you are a non-profit body).

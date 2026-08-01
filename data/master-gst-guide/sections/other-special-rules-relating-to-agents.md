@@ -5,7 +5,6 @@ section: "other-special-rules-relating-to-agents"
 title: "Other special rules relating to agents"
 paragraph: "¶17-440"
 ---
-
 # Other special rules relating to agents ¶17-440
 
 - Some special rules apply to tax invoices and adjustment notes for transactions carried out through

@@ -5,7 +5,6 @@ section: "business-expenses"
 title: "Business expenses"
 paragraph: "¶16-152"
 ---
-
 # Business expenses ¶16-152
 
 Ordinary recurring operating expenses of a business are deductible under ITAA97 s 8-1 and a useful checklist may be found at ¶16-005. The record-keeping requirements for business taxpayers are discussed at ¶9-045.

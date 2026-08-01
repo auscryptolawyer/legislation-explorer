@@ -5,7 +5,6 @@ section: "4-300-prepaid-expenditures-non-deductible-non-cash-business-benefits"
 title: "4-300 - Prepaid expenditures non-deductible non-cash business benefits"
 paragraph: "None"
 ---
-
 # 4-300 - Prepaid expenditures non-deductible non-cash business benefits
 
 Worked example: Prepaid expenditures; non-deductible non- cash business benefits Issue Brian Benton is in the business of growing grapes and selling wine. On 2 December 2023, Brian contracted with Veritas Wines Pty Ltd (Veritas), a wine production company, to manage the production of wine on Brian’s vineyard. The services of Veritas would be supplied from 1 January 2024 for a period ending on 15 May 2025. Brian paid Veritas $200,000 in advance on 12 December 2023, in accordance with the contract.

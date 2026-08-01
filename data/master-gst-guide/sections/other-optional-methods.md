@@ -5,7 +5,6 @@ section: "other-optional-methods"
 title: "Other optional methods"
 paragraph: "¶13-216"
 ---
-
 # Other optional methods ¶13-216
 
 The following additional options may also be available.

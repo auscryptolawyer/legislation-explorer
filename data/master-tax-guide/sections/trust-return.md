@@ -5,7 +5,6 @@ section: "trust-return"
 title: "Trust return"
 paragraph: "¶6-020"
 ---
-
 # Trust return ¶6-020
 
 An annual return (often referred to as Form T) must be lodged for a trust, irrespective of the amount of income derived by the trust (¶44-060). Public trading trusts that are taxed as companies should use the company return form: ¶3-045. The trust return is to be lodged by any one of the trustees who is a resident of Australia. If there is no trustee resident in Australia, the return must be lodged by the trust’s public oﬃcer (¶6-050) or, where no public oﬃcer is appointed, by the trust’s agent in Australia. Trust returns are usually required to be lodged by 31 October after the end of the income year to which the return relates (¶24-060).

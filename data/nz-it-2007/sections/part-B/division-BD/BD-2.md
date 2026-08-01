@@ -8,7 +8,6 @@ section_title: Deductions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BD 2  Deductions
 
 An amount is a deduction of a person if they are allowed a deduction for the amount under Part D (Deductions).

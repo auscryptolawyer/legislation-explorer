@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 160AAAA Tax rebate for low income aged persons and pensioners
 
 <a id="s160AAAA-1"></a>

@@ -5,7 +5,6 @@ section: "natural-disasters-tax-checklist"
 title: "Natural disasters tax checklist"
 paragraph: "¶44-130"
 ---
-
 # Natural disasters tax checklist ¶44-130
 
 - Premiums paid for insurance cover for business losses are normally deductible (¶16-550).

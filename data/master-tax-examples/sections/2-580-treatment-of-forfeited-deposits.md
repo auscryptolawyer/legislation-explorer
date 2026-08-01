@@ -5,7 +5,6 @@ section: "2-580-treatment-of-forfeited-deposits"
 title: "2-580 - Treatment of forfeited deposits"
 paragraph: "None"
 ---
-
 # 2-580 - Treatment of forfeited deposits
 
 Worked example: Treatment of forfeited deposits Issue Monica Smits has an investment property in Perth. Monica acquired the property on 15 May 2013 at a cost of $3 million.

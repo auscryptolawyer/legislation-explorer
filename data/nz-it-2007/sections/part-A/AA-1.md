@@ -8,7 +8,6 @@ section_title: Purpose of Act
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # AA 1  Purpose of Act
 
 The main purposes of this Act are—

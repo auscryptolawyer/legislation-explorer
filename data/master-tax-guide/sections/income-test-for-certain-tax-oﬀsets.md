@@ -5,7 +5,6 @@ section: "income-test-for-certain-tax-oﬀsets"
 title: "Income test for certain tax oﬀsets"
 paragraph: "¶15-025"
 ---
-
 # Income test for certain tax oﬀsets ¶15-025
 
 Certain tax oﬀsets/rebates are subject to an income test and limit, ie the dependant (invalid and carer) tax oﬀset (DICTO) (¶15-100) and the zone/overseas service rebates (¶15-160, ¶15-180, ¶15-190).

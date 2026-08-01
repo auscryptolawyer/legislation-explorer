@@ -8,7 +8,6 @@ section_title: Reinstatement of R&D tax losses and R&D repayment tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MX 7  Reinstatement of R&D tax losses and R&D repayment tax
 
 **When this section applies**

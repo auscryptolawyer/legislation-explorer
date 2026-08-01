@@ -5,7 +5,6 @@ section: "oral-rulings"
 title: "Oral rulings"
 paragraph: "¶24-580"
 ---
-
 # Oral rulings ¶24-580
 
 Individual taxpayers or their legal personal representative may also apply to the Commissioner for advice in the form of an oral ruling on the way in which the Commissioner considers a relevant provision applies in relation to a speciﬁed scheme.

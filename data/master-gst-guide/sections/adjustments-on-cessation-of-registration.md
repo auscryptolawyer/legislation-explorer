@@ -5,7 +5,6 @@ section: "adjustments-on-cessation-of-registration"
 title: "Adjustments on cessation of registration"
 paragraph: "¶6-410"
 ---
-
 # Adjustments on cessation of registration ¶6-410
 
 When a business’ registration is cancelled, it may still hold assets on which it has claimed input tax credits.

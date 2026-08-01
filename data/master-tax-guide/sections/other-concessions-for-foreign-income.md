@@ -5,7 +5,6 @@ section: "other-concessions-for-foreign-income"
 title: "Other concessions for foreign income"
 paragraph: "¶21-102"
 ---
-
 # Other concessions for foreign income ¶21-102
 
 - CGT relief applies on the disposal of certain interests in active foreign companies (ITAA97 Subdiv

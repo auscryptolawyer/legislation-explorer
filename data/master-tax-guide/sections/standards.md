@@ -5,7 +5,6 @@ section: "standards"
 title: "standards"
 paragraph: "¶14-125"
 ---
-
 # standards ¶14-125
 
 Superannuation funds, RSA providers and life insurance companies providing superannuation income streams which meet the SISR and RSAR pension and annuity standards (generally referred to as “minimum standards” or “pension standards”) are entitled to an earnings tax exemption on the income derived from assets that are held to support these income streams (¶13-140). Income streams complying with the standards are “pensions” and “annuities” for the purposes of SISA and RSAA, and are “superannuation income streams” and “superannuation income stream beneﬁts” under ITAA97 (see below).

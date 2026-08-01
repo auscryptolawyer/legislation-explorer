@@ -8,7 +8,6 @@ section_title: Transitional valuation rule for estate property
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FZ 6  Transitional valuation rule for estate property
 
 **What this section applies to**

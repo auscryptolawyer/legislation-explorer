@@ -8,7 +8,6 @@ section_title: Relationship with fringe benefit tax rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DD 9  Relationship with fringe benefit tax rules
 
 Sections DD 2 to DD 8 override the fringe benefit tax (FBT) rules. However, the FBT rules, as applied by section CX 29 (Entertainment), override sections DD 2 to DD 8 if an employee of the person providing the benefit—

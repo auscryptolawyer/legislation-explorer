@@ -5,7 +5,6 @@ section: "deduction-for-cost-of-trading-stock"
 title: "Deduction for cost of trading stock"
 paragraph: "¶9-160"
 ---
-
 # Deduction for cost of trading stock ¶9-160
 
 Established commercial and accounting principles calculate the gross proﬁt from business operations by deducting the cost of goods sold from receipts. There are a number of acceptable methods of calculating the cost of goods sold to clearly reﬂect the income of a single accounting period.

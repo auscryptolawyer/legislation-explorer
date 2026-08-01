@@ -8,7 +8,6 @@ section_title: Who is an investor?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 4  Who is an investor?
 
 **Meaning of investor**

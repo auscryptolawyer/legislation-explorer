@@ -5,7 +5,6 @@ section: "deductions-for-payments-of-income-tax"
 title: "Deductions for payments of income tax"
 paragraph: "¶16-856"
 ---
-
 # Deductions for payments of income tax ¶16-856
 
 Payments of income tax are not deductible under ITAA97 s 25-5, nor are interest or borrowing costs incurred to ﬁnance such payments (ID 2010/160).

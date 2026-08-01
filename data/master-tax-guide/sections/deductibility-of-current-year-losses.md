@@ -5,7 +5,6 @@ section: "deductibility-of-current-year-losses"
 title: "Deductibility of current year losses"
 paragraph: "¶3-065"
 ---
-
 # Deductibility of current year losses ¶3-065
 
 Current year losses The current year loss rules (ITAA97 Subdiv 165-B: ss 165-23 to 165-90) are designed to stop income derived by a company in one part of an income year when the company is owned by one set of shareholders from being oﬀset by losses incurred by the company during another part of the income year when the company is owned by a diﬀerent set of shareholders. This restricts the exploitation of current year loss companies for tax minimisation purposes.

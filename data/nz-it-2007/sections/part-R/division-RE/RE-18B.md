@@ -8,7 +8,6 @@ section_title: Capital value increase under inflation-indexed instruments: RWT c
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 18B  Capital value increase under inflation-indexed instruments: RWT cap
 
 **Calculation of amount of tax**

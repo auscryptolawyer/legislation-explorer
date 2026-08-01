@@ -5,7 +5,6 @@ section: "beneﬁt-must-be-provided"
 title: "Beneﬁt must be provided"
 paragraph: "¶35-070"
 ---
-
 # Beneﬁt must be provided ¶35-070
 
 A “beneﬁt” includes any right, privilege, service or facility. Some beneﬁts are expressly excluded as fringe beneﬁts and do not give rise to any FBT liability. The main exclusions are:

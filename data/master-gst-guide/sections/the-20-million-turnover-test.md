@@ -5,7 +5,6 @@ section: "the-20-million-turnover-test"
 title: "The $20 million turnover test"
 paragraph: "¶7-110"
 ---
-
 # The $20 million turnover test ¶7-110
 
 - current GST turnover is $20 million or more, except if the ATO is satisfied that the projected GST

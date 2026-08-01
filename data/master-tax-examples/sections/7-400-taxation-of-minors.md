@@ -5,7 +5,6 @@ section: "7-400-taxation-of-minors"
 title: "7-400 - Taxation of minors"
 paragraph: "None"
 ---
-
 # 7-400 - Taxation of minors
 
 Worked example: Taxation of minors Issue Allison Miles, aged 17 years, currently lives at home with her mother. While studying for her final year at high school she worked part-time in a shop for 15 hours a week and delivered catalogues 3 times a week.

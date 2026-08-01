@@ -8,7 +8,6 @@ section_title: Allocation of income to particular income years
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BD 3  Allocation of income to particular income years
 
 **Application**

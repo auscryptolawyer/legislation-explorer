@@ -5,7 +5,6 @@ section: "deductions-for-covid-19-test-expenses"
 title: "Deductions for COVID-19 test expenses"
 paragraph: "¶16-490"
 ---
-
 # Deductions for COVID-19 test expenses ¶16-490
 
 From 1 July 2021, expenses incurred by an individual taxpayer in respect of a COVID-19 test taken for the purpose of determining whether the taxpayer can attend or remain at their place of work are deductible under

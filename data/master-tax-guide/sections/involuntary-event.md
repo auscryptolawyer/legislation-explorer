@@ -5,7 +5,6 @@ section: "involuntary-event"
 title: "involuntary event"
 paragraph: "¶12-300"
 ---
-
 # involuntary event ¶12-300
 
 If the taxpayer only receives another asset (or assets) for the event happening (due to the compulsory acquisition, loss or destruction of an asset) and chooses to take advantage of the roll-over, a capital gain made from the original asset is disregarded (s 124-90). If the original asset is a post-CGT asset, the ﬁrst element of the new asset’s cost base (and reduced cost base) is the same as the original asset’s cost base (and reduced cost base) at the time of the CGT event. On the other hand, if the original asset is a pre-CGT asset, the new asset is also taken to be a pre-CGT asset.

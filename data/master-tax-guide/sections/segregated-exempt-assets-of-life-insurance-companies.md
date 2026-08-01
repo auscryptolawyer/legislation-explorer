@@ -5,7 +5,6 @@ section: "segregated-exempt-assets-of-life-insurance-companies"
 title: "Segregated exempt assets of life insurance companies"
 paragraph: "¶3-520"
 ---
-
 # Segregated exempt assets of life insurance companies ¶3-520
 
 A life insurance company may maintain a pool of segregated assets (known as “segregated exempt assets”).

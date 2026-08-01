@@ -5,7 +5,6 @@ section: "attributable-taxpayer-under-cfc-rules"
 title: "Attributable taxpayer under CFC rules"
 paragraph: "¶21-140"
 ---
-
 # Attributable taxpayer under CFC rules ¶21-140
 
 The controlled foreign company (CFC) rules operate under the self-assessment regime. Therefore, the taxpayer bears the responsibility for determining whether, in a particular year of income, the taxpayer is required to include income derived by a CFC in the taxpayer’s assessable income. For this purpose, the threshold question for each taxpayer is whether there is a CFC in relation to which the taxpayer is an “attributable taxpayer” (ITAA36 s 361).

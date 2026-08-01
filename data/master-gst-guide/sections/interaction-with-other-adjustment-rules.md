@@ -5,7 +5,6 @@ section: "interaction-with-other-adjustment-rules"
 title: "Interaction with other adjustment rules"
 paragraph: "¶6-306"
 ---
-
 # Interaction with other adjustment rules ¶6-306
 
 If there has already been an adjustment — for example, because of a change in consideration or a bad debt — this must be taken into account in working out any subsequent planned use adjustment (s 129-80).

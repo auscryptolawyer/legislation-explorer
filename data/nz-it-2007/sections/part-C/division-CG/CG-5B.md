@@ -8,7 +8,6 @@ section_title: Receipts from insurance, indemnity, or compensation for interrupt
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 5B  Receipts from insurance, indemnity, or compensation for interruption or impairment of business activities
 
 **When this section applies**

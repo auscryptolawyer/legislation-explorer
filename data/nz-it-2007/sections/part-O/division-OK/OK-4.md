@@ -8,7 +8,6 @@ section_title: MACA payment of further income tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OK 4  MACA payment of further income tax
 
 **Credit**

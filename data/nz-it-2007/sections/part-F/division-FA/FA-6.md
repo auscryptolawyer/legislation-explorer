@@ -8,7 +8,6 @@ section_title: Recharacterisation of amounts derived under finance leases
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 6  Recharacterisation of amounts derived under finance leases
 
 When a personal property lease asset is leased under a finance lease, the lease is treated as a sale of the lease asset by the lessor to the lessee on the date on which the term of the lease starts, and—

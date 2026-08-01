@@ -5,7 +5,6 @@ section: "first-requirement-there-must-be-a-scheme"
 title: "First requirement: there must be a scheme"
 paragraph: "¶20-020"
 ---
-
 # First requirement: there must be a scheme ¶20-020
 
 A scheme covers almost any set of imaginable circumstances — arrangements, agreements, understandings, promises and undertakings. It does not matter whether these are express or implied, and they do not need to be legally enforceable. A scheme also covers any scheme, plan, proposal, action, course of action or course of conduct. These may be unilateral or not (s 165-10). It is arguable, however, that a proposal that was not actually implemented could by itself be classed as a scheme.

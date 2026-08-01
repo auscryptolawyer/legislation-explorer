@@ -5,7 +5,6 @@ section: "summary-of-gst-position-on-leases"
 title: "Summary of GST position on leases"
 paragraph: "¶11-300"
 ---
-
 # Summary of GST position on leases ¶11-300
 
 The general GST treatment where real property is leased or hired is as follows: Type of premises                                           Example                       GST treatment Private residential                                        Flat                          Input taxed (¶11-310) Commercial residential                                     Motel                         Generally taxable (¶11-320) Long-term commercial residential                           On-site van                   Input taxed or concessional (¶11-320) Commercial                                                 Shop                          Taxable (¶11-330) Leases for at least 50 years                               99-year lease                 Treated as sale (¶11-000) The lease of overseas real property would not be subject to GST. Leases of goods used outside Australia are GST-free (¶9-230).

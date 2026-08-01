@@ -8,7 +8,6 @@ section_title: Restrictions arising from use of herd scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 8  Restrictions arising from use of herd scheme
 
 **First restriction**

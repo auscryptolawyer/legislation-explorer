@@ -8,7 +8,6 @@ section_title: ICA dividend derived with imputation credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 9  ICA dividend derived with imputation credit
 
 **Credit**

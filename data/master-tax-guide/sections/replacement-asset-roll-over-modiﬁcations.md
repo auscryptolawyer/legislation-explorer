@@ -5,7 +5,6 @@ section: "replacement-asset-roll-over-modiﬁcations"
 title: "Replacement-asset roll-over modiﬁcations"
 paragraph: "¶11-590"
 ---
-
 # Replacement-asset roll-over modiﬁcations ¶11-590
 
 A replacement-asset roll-over (¶12-150) allows a taxpayer to defer the making of a capital gain or loss from one CGT event until a later CGT event happens (s 112-105). It involves the taxpayer’s ownership of one CGT asset ending and the acquisition of a replacement asset.

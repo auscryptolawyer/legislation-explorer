@@ -5,7 +5,6 @@ section: "franking-of-distributions"
 title: "Franking of distributions"
 paragraph: "¶4-600"
 ---
-
 # Franking of distributions ¶4-600
 
 - the entity is a franking entity that satisﬁes the residency requirement when the distribution is made

@@ -5,7 +5,6 @@ section: "primary-producers"
 title: "Primary producers"
 paragraph: "¶25-140"
 ---
-
 # Primary producers ¶25-140
 
 - If you are only a hobby farmer and are not carrying on an enterprise, you cannot be registered for

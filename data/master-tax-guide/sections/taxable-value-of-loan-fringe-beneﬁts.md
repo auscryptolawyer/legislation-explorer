@@ -5,7 +5,6 @@ section: "taxable-value-of-loan-fringe-beneﬁts"
 title: "Taxable value of loan fringe beneﬁts"
 paragraph: "¶35-290"
 ---
-
 # Taxable value of loan fringe beneﬁts ¶35-290
 
 The taxable value of a loan fringe beneﬁt is the diﬀerence between a notional amount of interest, calculated on the daily balance of the loan during the year at a statutory interest rate, and any interest actually accruing on the loan (s 18). If the interest actually accruing is at least as great as the notional amount of interest, then the loan beneﬁt has no taxable value. The taxable value is determined by reference to the whole period in the year during which the loan existed (not just the period during which the actual rate was below the statutory rate) (TD 95/17). Subject to the special rules referred to in ¶35-300 about car loans used for income-producing purposes, the general rules dealing with the calculation of the taxable value of loan fringe beneﬁts apply to loans used to purchase any item, including cars. FBT is payable on the grossed-up taxable value of the beneﬁt (¶35-025).

@@ -5,7 +5,6 @@ section: "why-the-need-for-special-rules-for-groups"
 title: "Why the need for special rules for groups?"
 paragraph: "¶17-000"
 ---
-
 # Why the need for special rules for groups? ¶17-000
 
 Business entities often act in groups, with specialised activities being allocated to the different members. As their businesses are associated, there will often be transactions within the group. These may only affect the positions of the separate members without altering the overall position of the group. The GST group rules reduce the cost of accounting for these purely internal transactions. They also simplify administration by enabling one member to represent the group for GST purposes.

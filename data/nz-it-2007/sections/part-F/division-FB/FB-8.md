@@ -8,7 +8,6 @@ section_title: Patent applications and patent rights
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 8  Patent applications and patent rights
 
 **When this section applies**

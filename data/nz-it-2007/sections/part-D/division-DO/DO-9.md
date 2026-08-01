@@ -8,7 +8,6 @@ section_title: Meaning of replaced area fraction
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DO 9  Meaning of replaced area fraction
 
 **Meaning**

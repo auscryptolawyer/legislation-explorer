@@ -8,7 +8,6 @@ section_title: Interest on deposits in main income equalisation account
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EH 6  Interest on deposits in main income equalisation account
 
 **No interest payable**

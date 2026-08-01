@@ -8,7 +8,6 @@ section_title: Application for payment of tax credit by instalment
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 1  Application for payment of tax credit by instalment
 
 **When this section applies**

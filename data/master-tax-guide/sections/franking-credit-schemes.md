@@ -5,7 +5,6 @@ section: "franking-credit-schemes"
 title: "Franking credit schemes"
 paragraph: "¶30-195"
 ---
-
 # Franking credit schemes ¶30-195
 
 ITAA36 Pt IVA is also attracted where a scheme involving a disposition of shares is entered into with a purpose of enabling the taxpayer to obtain a franking credit beneﬁt (ITAA36 s 177EA). Unlike the general provisions of Pt IVA, this provision does not depend on the formal identiﬁcation of a “tax beneﬁt in connection with” a scheme. It applies where:

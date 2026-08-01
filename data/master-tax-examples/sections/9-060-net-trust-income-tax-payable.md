@@ -5,7 +5,6 @@ section: "9-060-net-trust-income-tax-payable"
 title: "9-060 - Net trust income tax payable"
 paragraph: "None"
 ---
-
 # 9-060 - Net trust income tax payable
 
 Worked example: Net trust income; tax payable Issue Neil Jones is the trustee of an Australian resident trust estate created by a Deed. The Deed names Pauline and Bob as the beneficiaries of the trust neither of whom are related to Neil. Pauline aged 14 years and Bob aged 25 years are both residents of Australia.

@@ -8,7 +8,6 @@ section_title: Deferred payment of employment income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EA 4  Deferred payment of employment income
 
 **When this section applies**

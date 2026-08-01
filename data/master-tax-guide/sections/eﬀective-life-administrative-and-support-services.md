@@ -5,7 +5,6 @@ section: "eﬀective-life-administrative-and-support-services"
 title: "Eﬀective life — administrative and support services"
 paragraph: "¶43-075"
 ---
-
 # Eﬀective life — administrative and support services ¶43-075
 
 (72110 to 73200) Asset                                                       Life (Years)            Reviewed       Date Of Application

@@ -8,7 +8,6 @@ section_title: Expenditure on land: horticultural replacement planting
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DO 6  Expenditure on land: horticultural replacement planting
 
 **When this section applies**

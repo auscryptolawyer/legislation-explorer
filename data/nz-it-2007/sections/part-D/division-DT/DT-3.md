@@ -8,7 +8,6 @@ section_title: Acquisition of privileges and permits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DT 3  Acquisition of privileges and permits
 
 **When expenditure for privileges or permits incurred**

@@ -8,7 +8,6 @@ section_title: Apportionment of premiums derived by non-resident general insurer
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 8  Apportionment of premiums derived by non-resident general insurers
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "means-tested-family-assistance"
 title: "Means-tested family assistance"
 paragraph: "¶2-133"
 ---
-
 # Means-tested family assistance ¶2-133
 
 Family assistance, administered by the Department of Human Services, may be available to taxpayers with dependent children. These include Family Tax Beneﬁt Part A, Family Tax Beneﬁt Part B and Child Care Subsidy. From 2 July 2018, a Child Care Subsidy replaced the fee assistance provided by the Child Care Rebate and Child Care Beneﬁt. For children born or adopted on or after 1 March 2014, a Baby Bonus is no longer available. Taxpayers may instead be eligible for Paid Parental Leave or the Newborn Upfront Payment and Newborn Supplement paid with Family Tax Beneﬁt Part A payments.

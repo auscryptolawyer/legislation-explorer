@@ -5,7 +5,6 @@ section: "6-220-purchase-of-intangible-business-assets-calculating-decline-in-va
 title: "6-220 - Purchase of intangible business assets calculating decline in value"
 paragraph: "None"
 ---
-
 # 6-220 - Purchase of intangible business assets calculating decline in value
 
 Worked example: Purchase of intangible business assets; calculating decline in value Issue Small Co Pty Ltd is in the business of developing video game apps for smartphones. Big Co Pty Ltd acquired the business assets of Small Co Pty Ltd on 1 January 2025.

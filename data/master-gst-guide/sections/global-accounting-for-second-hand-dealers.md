@@ -5,7 +5,6 @@ section: "global-accounting-for-second-hand-dealers"
 title: "“Global” accounting for second-hand dealers"
 paragraph: "¶16-120"
 ---
-
 # “Global” accounting for second-hand dealers ¶16-120
 
 Dealers in second-hand goods may be entitled to use a “global” accounting method to claim input tax credits (ITCs). This method is intended to reduce the need to track individual goods for GST purposes.

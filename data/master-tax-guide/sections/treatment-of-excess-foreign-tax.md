@@ -5,7 +5,6 @@ section: "treatment-of-excess-foreign-tax"
 title: "Treatment of excess foreign tax"
 paragraph: "¶21-760"
 ---
-
 # Treatment of excess foreign tax ¶21-760
 
 To the extent that the foreign tax paid exceeds the amount claimable as an oﬀset, the tax beneﬁt of the payment is lost. It cannot be carried forward to be taken into account in determining the oﬀset in subsequent income years, nor can it be transferred (s 63-10).

@@ -5,7 +5,6 @@ section: "rates-of-tax-payable-by-beneﬁciaries"
 title: "Rates of tax payable by beneﬁciaries"
 paragraph: "¶6-170"
 ---
-
 # Rates of tax payable by beneﬁciaries ¶6-170
 
 Trust income assessable to a beneﬁciary is generally aggregated with the beneﬁciary’s other assessable income and is taxable at whatever rate of tax is applicable to the beneﬁciary, ie:

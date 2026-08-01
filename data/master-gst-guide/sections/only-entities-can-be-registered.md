@@ -5,7 +5,6 @@ section: "only-entities-can-be-registered"
 title: "Only “entities” can be registered"
 paragraph: "¶3-015"
 ---
-
 # Only “entities” can be registered ¶3-015
 
 - an individual or natural person

@@ -5,7 +5,6 @@ section: "special-value-in-case-of-obsolescence"
 title: "Special value in case of obsolescence"
 paragraph: "¶9-240"
 ---
-
 # Special value in case of obsolescence ¶9-240
 
 The value of trading stock may be less than its cost, market selling value or replacement value due to obsolescence or other special circumstances particular to the relevant trading stock, eg the discontinuation of a product line or a ﬁckle market. In such cases, the taxpayer may adopt a lower value for the stock, provided that value is reasonable (ITAA97 s 70-50).

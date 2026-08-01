@@ -5,7 +5,6 @@ section: "residence-of-individuals-generally"
 title: "Residence of individuals generally"
 paragraph: "¶21-010"
 ---
-
 # Residence of individuals generally ¶21-010
 
 - resides in Australia (this is the primary or “ordinary concepts” test of residence), or

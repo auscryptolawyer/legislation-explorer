@@ -5,7 +5,6 @@ section: "excluded-assets-for-capital-allowances"
 title: "Excluded assets for capital allowances"
 paragraph: "¶17-030"
 ---
-
 # Excluded assets for capital allowances ¶17-030
 
 The following assets are speciﬁcally excluded from the operation of the uniform capital allowance system (ITAA97 s 40-45; ITTPA s 40-47):

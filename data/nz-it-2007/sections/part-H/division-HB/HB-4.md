@@ -8,7 +8,6 @@ section_title: General provisions relating to disposals
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HB 4  General provisions relating to disposals
 
 **Relationship between disposal under this section, disposal safe harbours, and subpart FB**

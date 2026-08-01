@@ -5,7 +5,6 @@ section: "isolated-transactions-myer-principle"
 title: "Isolated transactions: Myer principle"
 paragraph: "¶10-112"
 ---
-
 # Isolated transactions: Myer principle ¶10-112
 
 The proﬁt arising from an isolated business or commercial transaction will be ordinary income if the taxpayer’s purpose or intention in entering into the transaction was to make a proﬁt, notwithstanding that the transaction was not part of the taxpayer’s daily business activities (Myer Emporium 87 ATC 4363; [1987] HCA 18). This is called the Myer principle. In Myer Emporium 87 ATC 4363; [1987] HCA 18, the taxpayer company lent $80 million to a subsidiary (at commercial rates of interest) as part of an extensive plan to diversify its operations. A few days later, the taxpayer assigned to a ﬁnance company for a lump sum of $45 million its right to receive interest under the loan to the subsidiary. The High Court held that the $45 million was received as part of a proﬁt-making scheme and was, therefore, ordinary income (¶10-020). An important factor in this decision was that the 2 transactions were integral elements in the plan to diversify (the taxpayer would not have made the loan if the ﬁnance company had not agreed to take the assignment of the right to interest).

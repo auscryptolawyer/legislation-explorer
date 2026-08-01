@@ -5,7 +5,6 @@ section: "exports-of-goods"
 title: "Exports of goods"
 paragraph: "¶9-210"
 ---
-
 # Exports of goods ¶9-210
 
 A supply of goods is GST-free if the supplier exports them from Australia before, or within 60 days after, receiving any of the consideration for them. If the goods have been invoiced before any payment is made, they must be exported before, or within 60 days after, the invoice is given (s 38-185, item 1). For the meaning of “goods”, see ¶4-100. For what constitutes an invoice, see ¶7-205. As to when consideration is received, see ¶7-325, but note that a special rule applies to associates (see below).

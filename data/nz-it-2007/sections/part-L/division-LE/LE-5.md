@@ -8,7 +8,6 @@ section_title: Beneficiaries of trusts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 5  Beneficiaries of trusts
 
 **When this section applies**

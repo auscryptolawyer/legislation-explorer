@@ -5,7 +5,6 @@ section: "cgt-retirement-exemption"
 title: "CGT retirement exemption"
 paragraph: "¶7-185"
 ---
-
 # CGT retirement exemption ¶7-185
 
 A taxpayer can choose to disregard a capital gain from a CGT event happening to an asset of a small business if the capital proceeds from the event are used in connection with retirement. There is a lifetime limit of $500,000 in respect of any one individual. The small business 50% reduction applies before the small business retirement exemption unless the taxpayer chooses not to apply the 50% reduction (¶7-175). The CGT retirement exemption may be utilised before or after the small business roll-over (¶7-195).

@@ -5,7 +5,6 @@ section: "4-450-gifts-and-donations"
 title: "4-450 - Gifts and donations"
 paragraph: "None"
 ---
-
 # 4-450 - Gifts and donations
 
 Worked example: Gifts and donations Issue Albert Dondas made the following charitable donations and contributions during the year ended 30 June 2025:

@@ -8,7 +8,6 @@ section_title: Calculation of amounts of credit producing negative amounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MA 4  Calculation of amounts of credit producing negative amounts
 
 If a calculation under this Part produces a result that is negative for the amount of a tax credit or the amount of a component of a credit, the amount of the credit or component is zero.

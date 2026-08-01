@@ -5,7 +5,6 @@ section: "deductions-for-rates-and-land-tax"
 title: "Deductions for rates and land tax"
 paragraph: "¶16-870"
 ---
-
 # Deductions for rates and land tax ¶16-870
 
 Rates and taxes incurred in respect of income-producing premises or land may be deductible as a normal business expense under ITAA97 s 8-1. If the land or premises is used partly for income-producing purposes and partly for other purposes, the deduction must be apportioned. Where part of the home is used as a place of business (and not merely as a “study”), a deduction for rates and taxes in respect of that part may be allowed (¶16-480). The deduction applies to municipal, city council and shire rates, water, sewerage and drainage rates, and land tax. Recoupments of rates and taxes may be assessable (¶10-270).

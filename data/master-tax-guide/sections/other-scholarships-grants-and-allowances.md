@@ -5,7 +5,6 @@ section: "other-scholarships-grants-and-allowances"
 title: "Other scholarships, grants and allowances"
 paragraph: "¶10-740"
 ---
-
 # Other scholarships, grants and allowances ¶10-740
 
 There is a general exemption for other scholarships, bursaries or other educational allowances derived by a student (of any age) receiving full-time education at a school, college or university (ITAA97 s 51-10, item 2.1A). “Full-time education” in this context means a full-time course as opposed to a part-time course and does not preclude the student from holding a part-time job. A “Commonwealth Trade Learning Scholarship” is exempt from income tax (ITAA97 s 51-10, item 2.3), as are the Prime Minister’s Prizes for Australian History and Science as well as the Prime Minister’s Literary Awards (ITAA97 s 51-60).

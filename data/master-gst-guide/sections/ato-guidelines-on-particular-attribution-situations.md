@@ -5,7 +5,6 @@ section: "ato-guidelines-on-particular-attribution-situations"
 title: "ATO guidelines on particular attribution situations"
 paragraph: "¶7-440"
 ---
-
 # ATO guidelines on particular attribution situations ¶7-440
 
 The Commissioner has the power to determine that special attribution rules for GST, input tax credits and adjustments should apply in situations where the normal attribution rules would have an inappropriate effect (s 29-25). This power can only be exercised in situations such as:

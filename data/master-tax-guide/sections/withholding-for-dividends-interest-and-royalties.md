@@ -5,7 +5,6 @@ section: "withholding-for-dividends-interest-and-royalties"
 title: "Withholding for dividends, interest and royalties"
 paragraph: "¶42-115"
 ---
-
 # Withholding for dividends, interest and royalties ¶42-115
 
 DIVIDENDS —                        Withholding tax: 30% on gross amount of dividends or, where there is a double taxation agreement, the lower rate speciﬁed in the agreement (generally, 15%; ¶22-160). Franked dividends paid to non-residents are exempt from dividend withholding tax unless the dividends have been streamed or a franking credit scheme has occurred (¶22-010). Unfranked dividends are also exempt to the extent that they consist of a “foreign dividend account declaration amount” (¶22-010).

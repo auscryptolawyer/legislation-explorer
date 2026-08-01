@@ -8,7 +8,6 @@ section_title: Income of lessor under specified lease
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FZ 3  Income of lessor under specified lease
 
 **Interest**

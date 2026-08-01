@@ -8,7 +8,6 @@ section_title: Interest apportionment for individuals
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 3  Interest apportionment for individuals
 
 **Natural persons and trustees: inbound, not described in section FE 2(1)﻿(g)**

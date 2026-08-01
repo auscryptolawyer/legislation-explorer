@@ -5,7 +5,6 @@ section: "exempt-entities-listing"
 title: "Exempt entities: listing"
 paragraph: "¶10-605"
 ---
-
 # Exempt entities: listing ¶10-605
 
 A checklist of “entities that are exempt no matter what kind of ordinary or statutory income they have” is set out in ITAA97 s 11-5, together with the provision of the tax law under which each exemption is granted.

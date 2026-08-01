@@ -8,7 +8,6 @@ section_title: Tax credits for resident withholding tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LB 3  Tax credits for resident withholding tax
 
 **Tax credit**

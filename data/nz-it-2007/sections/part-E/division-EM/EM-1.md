@@ -8,7 +8,6 @@ section_title: Australian non-attributing shares and attributing FDR method inte
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EM 1  Australian non-attributing shares and attributing FDR method interests
 
 **Application of this subpart**

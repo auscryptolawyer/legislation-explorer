@@ -8,7 +8,6 @@ section_title: IFRS financial reporting method: equity or other comprehensive in
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 69B  IFRS financial reporting method: equity or other comprehensive income
 
 **When this section applies**

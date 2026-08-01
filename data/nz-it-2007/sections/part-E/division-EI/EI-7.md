@@ -8,7 +8,6 @@ section_title: Leases: income derived in anticipation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EI 7  Leases: income derived in anticipation
 
 **When this section applies**

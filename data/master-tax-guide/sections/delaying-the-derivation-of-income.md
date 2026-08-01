@@ -5,7 +5,6 @@ section: "delaying-the-derivation-of-income"
 title: "Delaying the derivation of income"
 paragraph: "¶31-270"
 ---
-
 # Delaying the derivation of income ¶31-270
 
 Cash versus accruals basis In determining when income is derived, diﬀerent rules apply to diﬀerent kinds of income and diﬀerent kinds of taxpayers. For example, it seems that a sole practitioner is assessable on a receipts (or cash) basis, whereas a large professional ﬁrm (eg of accountants or solicitors) is assessable on an earnings (or accruals) basis (¶9-030).

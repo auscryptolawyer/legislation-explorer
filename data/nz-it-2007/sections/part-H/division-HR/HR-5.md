@@ -8,7 +8,6 @@ section_title: Airport operators: general
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 5  Airport operators: general
 
 **When this section applies**

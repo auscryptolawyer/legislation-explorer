@@ -5,7 +5,6 @@ section: "other-cgt-anti-overlap-provisions"
 title: "Other CGT anti-overlap provisions"
 paragraph: "¶11-700"
 ---
-
 # Other CGT anti-overlap provisions ¶11-700
 
 In addition to general relief from double taxation, a number of other speciﬁc exemptions ensure that there is no overlap of taxation in relation to CGT and speciﬁc provisions dealing with a particular area.

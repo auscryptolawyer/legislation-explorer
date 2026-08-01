@@ -8,7 +8,6 @@ section_title: Imputation groups with reduced numbers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FN 5  Imputation groups with reduced numbers
 
 An imputation group continues to exist if the number of group companies is reduced to 1 company, but if an imputation group has no company at any time, the imputation group no longer exists.

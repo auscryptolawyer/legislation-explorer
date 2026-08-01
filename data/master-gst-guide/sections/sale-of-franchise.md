@@ -5,7 +5,6 @@ section: "sale-of-franchise"
 title: "Sale of franchise"
 paragraph: "¶11-540"
 ---
-
 # Sale of franchise ¶11-540
 
 The sale of an existing franchise by a franchisee may qualify as the sale of a going concern.

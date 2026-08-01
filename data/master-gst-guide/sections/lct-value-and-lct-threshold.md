@@ -5,7 +5,6 @@ section: "lct-value-and-lct-threshold"
 title: "LCT value and LCT threshold"
 paragraph: "¶23-150"
 ---
-
 # LCT value and LCT threshold ¶23-150
 
 Luxury car tax (LCT) applies where the LCT value of the car exceeds the LCT threshold applicable for the year in which the car is supplied or — in the case of importations — for the year in which it is entered for home consumption (LCT Act s 25-1).

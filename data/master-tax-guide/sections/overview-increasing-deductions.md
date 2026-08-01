@@ -5,7 +5,6 @@ section: "overview-increasing-deductions"
 title: "Overview: increasing deductions"
 paragraph: "¶31-160"
 ---
-
 # Overview: increasing deductions ¶31-160
 
 Increasing the tax deductions allowable in an income year is another way to reduce the tax liability for that year.

@@ -5,7 +5,6 @@ section: "3-080-entertainment-minor-benefits-exemption"
 title: "3-080 - Entertainment minor benefits exemption"
 paragraph: "None"
 ---
-
 # 3-080 - Entertainment minor benefits exemption
 
 Worked example: Entertainment; minor benefits exemption Issue John Maguire is employed by HortiSupplies Ltd (HSL) as a sales representative. During 2024–25, HSL sponsors a corporate golf day once a month for the benefit of its staff and valued customers. John attends each monthly golf day so he can create opportunities for gaining extra business for HSL. HSL pays for John’s golf club entry fee, the food and drink John consumes, and his taxi fares between his home and the club. It costs HSL approximately $1,000 each year to send John to the golf days.

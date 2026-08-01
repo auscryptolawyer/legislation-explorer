@@ -5,7 +5,6 @@ section: "calculation-of-input-tax-credit"
 title: "Calculation of input tax credit"
 paragraph: "¶5-020"
 ---
-
 # Calculation of input tax credit ¶5-020
 
 Generally, the input tax credit (ITC) in respect of a taxable acquisition is the amount of GST included in the price of a supply (s 11-25).

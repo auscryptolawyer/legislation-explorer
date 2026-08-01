@@ -8,7 +8,6 @@ section_title: General treatment of mineral miners’ net losses
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IS 1  General treatment of mineral miners’ net losses
 
 **Groups of companies**

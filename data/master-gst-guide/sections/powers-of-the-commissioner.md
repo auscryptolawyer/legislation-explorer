@@ -5,7 +5,6 @@ section: "powers-of-the-commissioner"
 title: "Powers of the Commissioner"
 paragraph: "¶20-070"
 ---
-
 # Powers of the Commissioner ¶20-070
 
 Once it is established that anti-avoidance provisions apply, the Commissioner can make declarations negating the GST benefit and making compensatory adjustments. Penalties may be imposed and additional tax for late payment may also apply.

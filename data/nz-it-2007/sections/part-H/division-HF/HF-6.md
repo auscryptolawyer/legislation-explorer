@@ -8,7 +8,6 @@ section_title: Tax treatment of Maori authority distributions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HF 6  Tax treatment of Maori authority distributions
 
 A Maori authority distribution to a member is—

@@ -8,7 +8,6 @@ section_title: Cattle destroyed because of Mycoplasma bovis: spreading
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 4B  Cattle destroyed because of Mycoplasma bovis: spreading
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Payments of interest
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CC 4  Payments of interest
 
 **Income**

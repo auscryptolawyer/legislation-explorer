@@ -5,7 +5,6 @@ section: "10-255-division-7a-when-will-an-unpaid-present-entitlement-become-subj
 title: "10-255 - Division 7A when will an unpaid present entitlement become subject to Division 7A"
 paragraph: "None"
 ---
-
 # 10-255 - Division 7A when will an unpaid present entitlement become subject to Division 7A
 
 to Division 7A?

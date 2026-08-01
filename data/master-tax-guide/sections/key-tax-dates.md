@@ -5,7 +5,6 @@ section: "key-tax-dates"
 title: "Key tax dates"
 paragraph: "¶45-100"
 ---
-
 # Key tax dates ¶45-100
 
 The Tax Calendar shows the key tax dates for satisfying various taxation obligations such as paying tax, ﬁling returns and lodging activity statements (¶24-200). The dates for lodgment and payment generally apply to taxpayers that balance at 30 June. Special rules apply to companies and superannuation funds with substituted accounting periods (¶24-060).

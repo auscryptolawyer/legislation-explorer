@@ -5,7 +5,6 @@ section: "liabilities-of-tax-agents"
 title: "Liabilities of tax agents"
 paragraph: "¶32-075"
 ---
-
 # Liabilities of tax agents ¶32-075
 
 Tax agents may be sued at common law for breach of contract or negligence. Examples of cases where taxpayers have been successful against their tax agents include:

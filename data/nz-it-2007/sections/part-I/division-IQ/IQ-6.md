@@ -8,7 +8,6 @@ section_title: Pre-consolidation losses: general treatment
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 6  Pre-consolidation losses: general treatment
 
 **When this section applies**

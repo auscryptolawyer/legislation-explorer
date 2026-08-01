@@ -5,7 +5,6 @@ section: "deﬁnitions-of-dependant-for-dicto"
 title: "Deﬁnitions of dependant for DICTO"
 paragraph: "¶15-120"
 ---
-
 # Deﬁnitions of dependant for DICTO ¶15-120
 
 DICTO may be claimed in respect of the following dependants (s 61-10(1)(a)): Brother means the brother of the taxpayer or their spouse. Using the reasoning containing in ITAA97 s 960-255(2), brother would seem to include stepbrothers because the stepfather or stepmother is deemed to be the natural child of both children for the purposes of the ITAA36 and ITAA97 (however, this could be aﬀected if the parent’s relationship ended).

@@ -8,7 +8,6 @@ section_title: Minimum family tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ME 1  Minimum family tax credit
 
 **Tax credit**

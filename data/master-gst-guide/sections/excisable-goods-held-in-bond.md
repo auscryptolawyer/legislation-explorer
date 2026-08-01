@@ -5,7 +5,6 @@ section: "excisable-goods-held-in-bond"
 title: "Excisable goods held “in bond”"
 paragraph: "¶9-060"
 ---
-
 # Excisable goods held “in bond” ¶9-060
 
 Excisable goods held “in bond” have not, at that stage, been subjected to excise duty. To cover this situation, the GST value of those goods is increased to include the excise duty that would have been payable if they had been entered for home consumption (s 108-5).

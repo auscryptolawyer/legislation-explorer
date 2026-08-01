@@ -5,7 +5,6 @@ section: "missions"
 title: "missions"
 paragraph: "¶10-870"
 ---
-
 # missions ¶10-870
 
 Income derived by an Australian resident taxpayer from at least 91 days’ continuous employment (¶10-875) on an approved overseas project (¶10-880) is exempt from tax (ITAA36 s 23AF). The taxpayer must be an Australian resident at the time the foreign remuneration is derived. Taxpayers who may be entitled to this exemption need to lodge annual returns in Australia as usual.

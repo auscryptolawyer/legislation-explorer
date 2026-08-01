@@ -5,7 +5,6 @@ section: "asset-ﬁnancing-and-tax-preferred-entities"
 title: "Asset ﬁnancing and tax-preferred entities"
 paragraph: "¶23-210"
 ---
-
 # Asset ﬁnancing and tax-preferred entities ¶23-210
 
 Assets put to tax-preferred use are subject to the rules in Div 250 of ITAA97 and are explicitly excluded from the TOFA regime in Div 230.

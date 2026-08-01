@@ -5,7 +5,6 @@ section: "4-year-amendment-period"
 title: "4-year amendment period"
 paragraph: "¶25-320"
 ---
-
 # 4-year amendment period ¶25-320
 
 Certain taxpayers are not eligible for the standard 2-year amendment period, but are subject to a 4-year amendment period (s 170(1)). Exclusions from the standard 2-year amendment period apply to:

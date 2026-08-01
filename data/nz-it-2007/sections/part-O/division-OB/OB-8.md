@@ -8,7 +8,6 @@ section_title: ICA resident withholding tax withheld
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 8  ICA resident withholding tax withheld
 
 **Credit**

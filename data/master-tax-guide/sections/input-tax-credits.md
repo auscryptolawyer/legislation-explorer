@@ -5,7 +5,6 @@ section: "input-tax-credits"
 title: "Input tax credits"
 paragraph: "¶34-110"
 ---
-
 # Input tax credits ¶34-110
 
 GST can be claimed back for any “creditable acquisition” made by an entity (s 11-20). The GST which attaches to a creditable acquisition is called an “input tax credit”.

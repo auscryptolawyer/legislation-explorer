@@ -8,7 +8,6 @@ section_title: Land under scheme for major development or division
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 4  Land under scheme for major development or division
 
 **When this section applies**

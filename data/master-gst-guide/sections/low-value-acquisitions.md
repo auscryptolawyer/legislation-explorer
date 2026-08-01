@@ -5,7 +5,6 @@ section: "low-value-acquisitions"
 title: "Low-value acquisitions"
 paragraph: "¶5-170"
 ---
-
 # Low-value acquisitions ¶5-170
 
 There is no obligation to issue or hold a tax invoice if the value of the supply (excluding GST) is $75 or less (s 29-80; A New Tax System (Goods and Services Tax) Regulations 2019 s 29-80.01). In the typical case, where the GST is 10% of the GST-exclusive price, this means that there is no obligation to issue or hold a tax invoice if the GST-inclusive value of the supply is $82.50 or less.

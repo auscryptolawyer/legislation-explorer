@@ -5,7 +5,6 @@ section: "5-200-stock-in-transit-disposal-outside-ordinary-business-closing-bala
 title: "5-200 - Stock in-transit disposal outside ordinary business closing balance"
 paragraph: "None"
 ---
-
 # 5-200 - Stock in-transit disposal outside ordinary business closing balance
 
 Worked example: Stock in-transit; disposal outside ordinary business; closing balance Issue Flyover Pty Ltd operates a business selling drones. The company imports its stock from overseas and sells the drones through its website to local customers. Flyover reports the following information about its trading stock for the year ended 30 June 2025.

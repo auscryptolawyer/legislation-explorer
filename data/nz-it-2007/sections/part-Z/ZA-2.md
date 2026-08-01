@@ -8,7 +8,6 @@ section_title: Consequential amendments to other enactments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ZA 2  Consequential amendments to other enactments
 
 **Schedules 49 and 50**

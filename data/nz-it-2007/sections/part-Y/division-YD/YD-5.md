@@ -8,7 +8,6 @@ section_title: Apportionment of income derived partly in New Zealand
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 5  Apportionment of income derived partly in New Zealand
 
 **When this section applies**

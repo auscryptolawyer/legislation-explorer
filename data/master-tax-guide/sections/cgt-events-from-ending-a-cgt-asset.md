@@ -5,7 +5,6 @@ section: "cgt-events-from-ending-a-cgt-asset"
 title: "CGT events from ending a CGT asset"
 paragraph: "¶11-270"
 ---
-
 # CGT events from ending a CGT asset ¶11-270
 
 CGT event C1 — Loss or destruction of a CGT asset CGT event C1 happens if a CGT asset owned by a taxpayer is lost or destroyed (s 104-20). An asset cannot be lost voluntarily, but may be lost by conﬁscation. However, in a conﬁscation situation, it may be more appropriate to consider whether there has been a change of ownership or forfeiture of the asset. An asset may be destroyed through deliberate or involuntary destruction. CGT event C1 may apply to intangible assets (TD 1999/79). CGT event C1 arises where shares are sold without the owner’s consent (ID 2010/116; ID 2010/124).

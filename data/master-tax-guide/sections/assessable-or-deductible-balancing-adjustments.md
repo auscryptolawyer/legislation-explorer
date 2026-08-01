@@ -5,7 +5,6 @@ section: "assessable-or-deductible-balancing-adjustments"
 title: "Assessable or deductible balancing adjustments"
 paragraph: "¶17-630"
 ---
-
 # Assessable or deductible balancing adjustments ¶17-630
 
 When is a balancing adjustment required A balancing adjustment either increases or decreases assessable income. It arises when a “balancing adjustment event” occurs (ITAA97 s 40-295), which happens when a taxpayer stops “holding” (¶17-020) a depreciating asset, or part of it (ITAA97 s 40-115). This generally occurs when an asset is sold, scrapped, destroyed, lost, given away or otherwise disposed of, starts to be held as trading stock or, in the case of a right, ceases or expires, or the taxpayer dies.

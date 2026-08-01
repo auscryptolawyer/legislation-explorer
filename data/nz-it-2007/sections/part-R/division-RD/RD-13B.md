@@ -8,7 +8,6 @@ section_title: Adjustments for payroll donations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 13B  Adjustments for payroll donations
 
 **When this section applies**

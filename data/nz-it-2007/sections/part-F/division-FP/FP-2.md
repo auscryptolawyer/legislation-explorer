@@ -8,7 +8,6 @@ section_title: Application to emergency events
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FP 2  Application to emergency events
 
 This subpart applies when there is an emergency event and the Governor-General has made regulations under section 6J of the Tax Administration Act 1994 declaring that 1 or more of the provisions in this subpart apply in relation to the emergency event.

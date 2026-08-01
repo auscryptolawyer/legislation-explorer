@@ -8,7 +8,6 @@ section_title: Commissioner’s power to adjust: fringe benefit tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GA 2  Commissioner’s power to adjust: fringe benefit tax
 
 **When this section applies**

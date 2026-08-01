@@ -5,7 +5,6 @@ section: "changes-to-planned-use"
 title: "Changes to planned use"
 paragraph: "¶6-300"
 ---
-
 # Changes to planned use ¶6-300
 
 A taxpayer can only claim an input tax credit (ITC) for something they acquire in carrying on their enterprise, and are not normally entitled to claim a credit if the purchase relates to the sale of input taxed goods and services, or is for private or domestic purposes (¶5-010). As the entitlement to an ITC generally arises when consideration is paid or a tax invoice is received (s 29-10; ¶5-010) it is not uncommon for the entitlement to a credit to arise prior to the acquisition being used. Accordingly, it might transpire that the actual use differs from that intended giving rise to the need to adjust the ITC in respect of the acquisition (s 129-5).

@@ -5,7 +5,6 @@ section: "cgt-events-involving-shares"
 title: "CGT events involving shares"
 paragraph: "¶11-310"
 ---
-
 # CGT events involving shares ¶11-310
 
 CGT event G1 — Capital payment for shares

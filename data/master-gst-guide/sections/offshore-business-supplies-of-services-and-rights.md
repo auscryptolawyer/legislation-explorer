@@ -5,7 +5,6 @@ section: "offshore-business-supplies-of-services-and-rights"
 title: "Offshore business supplies of services and rights"
 paragraph: "¶9-100"
 ---
-
 # Offshore business supplies of services and rights ¶9-100
 
 A reverse charge rule applies where someone overseas provides something other than goods, for example, services or rights over intellectual property (s 84-5, items (1) to (3)).

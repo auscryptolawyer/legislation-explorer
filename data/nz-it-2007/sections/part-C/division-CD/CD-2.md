@@ -8,7 +8,6 @@ section_title: Distribution excluded from being dividend
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 2  Distribution excluded from being dividend
 
 A distribution, derived by a member of a co-operative company, that is excluded by section CD 34B or CZ 41 (Distributions to supplying shareholders of Fonterra: 2022–23 to 2024–25 income years) from being a dividend is income of the member.

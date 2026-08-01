@@ -5,7 +5,6 @@ section: "timber-depletion"
 title: "Timber depletion"
 paragraph: "¶18-120"
 ---
-
 # Timber depletion ¶18-120
 
 A deduction is available if a taxpayer acquires land carrying trees or a right to fell trees on another’s land where the amount paid took the trees into account (ITAA97 s 70-120). The eﬀect of the deduction is that the taxpayer is taxable only on the net proceeds from the disposal of the trees.

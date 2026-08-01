@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 82KZME Expenditure under some agreements
 
 <a id="s82KZME-1"></a>

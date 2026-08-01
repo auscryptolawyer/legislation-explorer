@@ -5,7 +5,6 @@ section: "recipient-created-tax-invoices"
 title: "Recipient created tax invoices"
 paragraph: "¶5-140"
 ---
-
 # Recipient created tax invoices ¶5-140
 
 A tax invoice is normally issued by the supplier. However, sometimes this will not be practicable, for example, where the recipient determines the value of the goods or services, rather than the supplier. In these cases, it may be more appropriate for the tax invoice to be issued by the recipient. The situations in which these recipient created tax invoices (RCTIs) can be issued are determined by the Commissioner (s 29-70(3)).

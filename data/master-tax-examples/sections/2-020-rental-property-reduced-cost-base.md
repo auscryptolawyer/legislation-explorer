@@ -5,7 +5,6 @@ section: "2-020-rental-property-reduced-cost-base"
 title: "2-020 - Rental property reduced cost base"
 paragraph: "None"
 ---
-
 # 2-020 - Rental property reduced cost base
 
 Worked example: Rental property; reduced cost base Issue Ryan Saunders purchased an apartment from Anna Lowe in April 2018 for use as an investment property.

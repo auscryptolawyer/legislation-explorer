@@ -5,7 +5,6 @@ section: "tax-oﬀset-ﬁnding-table"
 title: "Tax oﬀset ﬁnding table"
 paragraph: "¶15-005"
 ---
-
 # Tax oﬀset ﬁnding table ¶15-005
 
 Use this table to ﬁnd detailed information for speciﬁc tax oﬀsets.

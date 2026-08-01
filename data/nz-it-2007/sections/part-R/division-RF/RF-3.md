@@ -8,7 +8,6 @@ section_title: Obligation to withhold amounts of tax for non-resident passive in
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 3  Obligation to withhold amounts of tax for non-resident passive income
 
 **Withholding amount of tax**

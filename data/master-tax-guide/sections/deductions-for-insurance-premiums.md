@@ -5,7 +5,6 @@ section: "deductions-for-insurance-premiums"
 title: "Deductions for insurance premiums"
 paragraph: "¶16-550"
 ---
-
 # Deductions for insurance premiums ¶16-550
 
 Premiums paid by an employer for workers compensation insurance and premiums paid to insure the employer against death or disablement of its employees through accident are usually deductible (ITAA97 s 8-1). It seems that premiums for accident insurance eﬀected by a parent company in respect of employees of its subsidiary may also be deductible if the purpose of the insurance was to compensate the parent company for the loss of dividends that might result due to the subsidiary’s loss of its employees’ services.

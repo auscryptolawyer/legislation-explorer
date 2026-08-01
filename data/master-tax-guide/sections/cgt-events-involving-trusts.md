@@ -5,7 +5,6 @@ section: "cgt-events-involving-trusts"
 title: "CGT events involving trusts"
 paragraph: "¶11-290"
 ---
-
 # CGT events involving trusts ¶11-290
 
 CGT event E1 — Creating a trust over a CGT asset CGT event E1 happens if a taxpayer creates a trust over a CGT asset by declaration or settlement (s 104-55). However, CGT event E1 does not happen if the trust is not a unit trust and the taxpayer is the sole beneﬁciary absolutely entitled to the CGT asset as against the trustee (ignoring any legal disability), eg where a bare trust is created (s 104-55(5)). The mere change of trustee of trust will not trigger CGT event E1 (note to s 104-55(1)).

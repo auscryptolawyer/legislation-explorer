@@ -8,7 +8,6 @@ section_title: Certain transfers of residential land included in settlement of c
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FD 3  Certain transfers of residential land included in settlement of claim under Treaty of Waitangi
 
 **When this section applies**

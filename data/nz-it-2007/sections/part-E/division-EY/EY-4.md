@@ -8,7 +8,6 @@ section_title: Apportionment of income of particular source or nature, and of ta
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EY 4  Apportionment of income of particular source or nature, and of tax credits
 
 **Default basis**

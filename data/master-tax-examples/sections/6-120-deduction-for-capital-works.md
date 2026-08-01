@@ -5,7 +5,6 @@ section: "6-120-deduction-for-capital-works"
 title: "6-120 - Deduction for capital works"
 paragraph: "None"
 ---
-
 # 6-120 - Deduction for capital works
 
 Worked example: Deduction for capital works Issue Clive Randle is a property developer and, in 2000, he decided to diversify his activities by constructing hotels, residential apartment blocks and factory units for industrial activities. During 2000–01, the following contracts were entered into: Hotel Contract date: 1 October 2000 Construction commenced: 1 February 2001 Construction completed and hotel operating: 1 March 2002 Construction cost: $1.5 million Residential apartment block Contract date: 1 December 2000 Construction commenced: 1 April 2001 Construction completed and all apartments occupied: 1 January 2002 Construction cost: $2 million Factory units Contract date: 1 May 2001 Construction commenced: 1 July 2001 Construction completed and factory units leased for industrial activities: 1 January 2002 Construction cost: $1 million On 15 April 2025, Clive accepted an offer on the apartment block and sold it to an investor for $3.5 million.

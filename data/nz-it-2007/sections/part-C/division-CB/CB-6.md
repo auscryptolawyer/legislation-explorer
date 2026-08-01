@@ -8,7 +8,6 @@ section_title: Disposal: land acquired for purpose or with intention of disposal
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 6  Disposal: land acquired for purpose or with intention of disposal
 
 **Income**

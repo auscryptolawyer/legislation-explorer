@@ -8,7 +8,6 @@ section_title: Worldwide group for excess debt outbound companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 31B  Worldwide group for excess debt outbound companies
 
 **Members of worldwide group**

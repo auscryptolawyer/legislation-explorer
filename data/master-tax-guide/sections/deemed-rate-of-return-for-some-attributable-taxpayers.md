@@ -5,7 +5,6 @@ section: "deemed-rate-of-return-for-some-attributable-taxpayers"
 title: "Deemed rate of return for some attributable taxpayers"
 paragraph: "¶21-340"
 ---
-
 # Deemed rate of return for some attributable taxpayers ¶21-340
 
 One of the diﬃculties taxpayers will often face in complying with the accruals taxation system is gaining access to the information required to calculate their attributable income according to Australian law.

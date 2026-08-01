@@ -8,7 +8,6 @@ section_title: Death of share or option holder
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YC 8  Death of share or option holder
 
 If a person acquires a share or option over a share on the death of a person (the deceased person), as a beneficiary or trustee under the will or intestacy, the person is treated as—

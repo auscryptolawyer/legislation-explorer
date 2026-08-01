@@ -8,7 +8,6 @@ section_title: Pre-consolidation losses on exit: part-year rule
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ID 5  Pre-consolidation losses on exit: part-year rule
 
 **When this section applies**

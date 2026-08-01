@@ -5,7 +5,6 @@ section: "car-depreciation-limit"
 title: "Car depreciation limit"
 paragraph: "¶43-110"
 ---
-
 # Car depreciation limit ¶43-110
 
 The car depreciation limit (known as the “car limit”) for various income years is set out in the following table (¶17-200).

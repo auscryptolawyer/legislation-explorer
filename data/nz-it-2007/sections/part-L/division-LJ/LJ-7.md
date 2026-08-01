@@ -8,7 +8,6 @@ section_title: Repaid foreign tax: effect on income tax liability
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LJ 7  Repaid foreign tax: effect on income tax liability
 
 **Who this section applies to**

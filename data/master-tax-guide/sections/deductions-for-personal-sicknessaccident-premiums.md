@@ -5,7 +5,6 @@ section: "deductions-for-personal-sicknessaccident-premiums"
 title: "Deductions for personal sickness/accident premiums"
 paragraph: "¶16-560"
 ---
-
 # Deductions for personal sickness/accident premiums ¶16-560
 
 A self-employed taxpayer is entitled to a deduction under ITAA97 s 8-1 for sickness/accident premiums paid under an insurance policy providing the taxpayer with beneﬁts of an income nature during a period of disablement (commonly called an income protection policy). This deduction is also available to employees (DP Smith 81 ATC 4114; [1981] HCA 10). Deductions are not allowed where premiums are paid under arrangements that are not legally enforceable or to which the general anti-avoidance provisions apply (IT 2460).

@@ -5,7 +5,6 @@ section: "export-of-aircraft-or-ship"
 title: "Export of aircraft or ship"
 paragraph: "¶9-215"
 ---
-
 # Export of aircraft or ship ¶9-215
 
 The export of an aircraft or ship by the supplier may be GST-free in accordance with the general rules stated at ¶9-210. In addition, the supply of the craft for export by the recipient is GST-free in the following situations: (1) the recipient exports the craft under its own power within 60 days after taking physical possession (s 38-185, item 3), or (2) if the export contract provides for payment by instalments, the recipient exports the craft before, or within 60 days after, the earliest of the following events:

@@ -8,7 +8,6 @@ section_title: Market value substituted
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 8  Market value substituted
 
 **Transfer pricing arrangements**

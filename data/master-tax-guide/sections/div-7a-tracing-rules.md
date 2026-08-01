@@ -5,7 +5,6 @@ section: "div-7a-tracing-rules"
 title: "Div 7A tracing rules"
 paragraph: "¶4-243"
 ---
-
 # Div 7A tracing rules ¶4-243
 
 Special tracing rules apply where it is reasonable to conclude that there is an arrangement under which one or more entities have been interposed between the private company and the associated entity (ss 109S to 109XC).

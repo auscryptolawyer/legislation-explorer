@@ -5,7 +5,6 @@ section: "taxation-of-corporate-limited-partnerships"
 title: "Taxation of corporate limited partnerships"
 paragraph: "¶3-475"
 ---
-
 # Taxation of corporate limited partnerships ¶3-475
 
 - an association of persons (other than a company) carrying on business as partners or in receipt

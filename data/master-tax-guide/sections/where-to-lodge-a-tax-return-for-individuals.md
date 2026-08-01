@@ -5,7 +5,6 @@ section: "where-to-lodge-a-tax-return-for-individuals"
 title: "Where to lodge a tax return for individuals"
 paragraph: "¶2-070"
 ---
-
 # Where to lodge a tax return for individuals ¶2-070
 
 For paper returns, the taxpayer must lodge the return at the address directed by the Commissioner (¶24-010).

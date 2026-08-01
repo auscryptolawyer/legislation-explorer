@@ -8,7 +8,6 @@ section_title: Tax credits for imputation credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 1  Tax credits for imputation credits
 
 **Amount of credit**

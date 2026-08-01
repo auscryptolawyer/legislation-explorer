@@ -5,7 +5,6 @@ section: "scope-of-exploration-or-prospecting-expenditure"
 title: "Scope of exploration or prospecting expenditure"
 paragraph: "¶19-040"
 ---
-
 # Scope of exploration or prospecting expenditure ¶19-040
 
 “Exploration or prospecting” expenditure deductions are available for capital and current expenditure under ITAA97 s 40-730 where a taxpayer satisﬁes one or more of the “activity tests” outlined in ¶19-010. The expenditure need not be incurred in exploring or prospecting in an area for which a mining or exploration authority has been granted.

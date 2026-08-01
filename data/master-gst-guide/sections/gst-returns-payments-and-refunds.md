@@ -5,7 +5,6 @@ section: "gst-returns-payments-and-refunds"
 title: "GST returns, payments and refunds"
 paragraph: "¶1-140"
 ---
-
 # GST returns, payments and refunds ¶1-140
 
 If you are registered or required to be registered, you need to make a GST return in your Business Activity Statement, and account for the GST. This must be done for each tax period. This may be:

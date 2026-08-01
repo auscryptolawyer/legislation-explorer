@@ -8,7 +8,6 @@ section_title: Premium paid on land leased before 1 April 1993
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 8  Premium paid on land leased before 1 April 1993
 
 **When this section applies**

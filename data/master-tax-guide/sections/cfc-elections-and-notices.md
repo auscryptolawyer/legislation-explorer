@@ -5,7 +5,6 @@ section: "cfc-elections-and-notices"
 title: "CFC elections and notices"
 paragraph: "¶21-240"
 ---
-
 # CFC elections and notices ¶21-240
 
 For the purpose of calculating a CFC’s attributable income, any elections, declarations, choices or notices that a CFC would be required to lodge are, instead, the separate responsibility of each taxpayer who is an attributable taxpayer in relation to the CFC (ITAA36 s 390). However, this rule does not always apply to elections in respect of CGT roll-over relief or variations of a CFC’s statutory accounting period (see below).

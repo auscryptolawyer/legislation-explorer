@@ -5,7 +5,6 @@ section: "what-is-a-cfc"
 title: "What is a CFC?"
 paragraph: "¶21-150"
 ---
-
 # What is a CFC? ¶21-150
 
 A company is a CFC if it satisﬁes any one of the following 3 “control tests” in ITAA36 s 340: (1) The company is a company in respect of which 5 or fewer Australian residents (each of which has at least a 1% control interest) have or are entitled to acquire at least a 50% associate inclusive control interest. (2) A single Australian entity (and its associates) has at least a 40% control interest in the foreign company. There is a rebuttable presumption that such a shareholder controls the foreign company and the company is therefore a CFC. The presumption can be rebutted if the shareholder can demonstrate that the company is in fact controlled by another, unassociated, entity. For example, although an Australian entity may have a 45% control interest, the control test will not be satisﬁed where there is a single unassociated foreign entity holding a 55% control interest. (3) Irrespective of the interests in a foreign company, a group of 5 or fewer Australian entities (either alone or together with associates) has actual control of the company.

@@ -5,7 +5,6 @@ section: "net-capital-gain-and-franked-dividends-special-rules"
 title: "Net capital gain and franked dividends: special rules"
 paragraph: "¶6-077"
 ---
-
 # Net capital gain and franked dividends: special rules ¶6-077
 
 Where the net income of a trust (¶6-080) for an income year does not include a net capital gain or a franked distribution, a beneﬁciary who is presently entitled to a share (ie a fraction or percentage) of the income of the trust (ie the distributable trust income as determined in accordance with trust principles and the trust deed) for the income year is taxed on that fraction or percentage of the net income of the trust for that income year as calculated for tax purposes (¶6-110, ¶6-120). The trustee is taxed on any net income that is not attributed to a beneﬁciary in this way.

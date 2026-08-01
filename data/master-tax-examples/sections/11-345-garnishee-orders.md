@@ -5,7 +5,6 @@ section: "11-345-garnishee-orders"
 title: "11-345 - Garnishee orders"
 paragraph: "None"
 ---
-
 # 11-345 - Garnishee orders
 
 Garnishee orders Issue Peter Hartnell is employed as a plumber by Ace Logistics Pty Ltd in Darwin, where he has worked for just over a year.

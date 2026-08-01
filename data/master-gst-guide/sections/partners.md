@@ -5,7 +5,6 @@ section: "partners"
 title: "Partners"
 paragraph: "¶18-210"
 ---
-
 # Partners ¶18-210
 
 - all the GST obligations of the partnership

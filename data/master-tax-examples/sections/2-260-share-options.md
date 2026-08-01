@@ -5,7 +5,6 @@ section: "2-260-share-options"
 title: "2-260 - Share options"
 paragraph: "None"
 ---
-
 # 2-260 - Share options
 
 Worked example: Share options Issue In February 1980, Annette Monroe acquired 1,000 shares in Targette Pty Ltd from Anthony Neal for $5 per share. On 1 March 2024, Anthony offered Annette the right or option to acquire one share for each 5 shares held. The cost of the right or option was $1 per share. Annette exercised the option on 11 November 2024 and acquired 200 shares at $15 each. At the end of January 2025, Annette disposed of her entire shareholding in Targette Pty Ltd for $18 per share.

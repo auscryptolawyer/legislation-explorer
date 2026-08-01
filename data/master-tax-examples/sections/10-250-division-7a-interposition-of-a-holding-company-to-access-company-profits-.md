@@ -5,7 +5,6 @@ section: "10-250-division-7a-interposition-of-a-holding-company-to-access-compan
 title: "10-250 - Division 7A interposition of a holding company to access company profits tax-free"
 paragraph: "None"
 ---
-
 # 10-250 - Division 7A interposition of a holding company to access company profits tax-free
 
 profits tax-free Worked example: Division 7A: interposition of a holding company to access company profits tax-free Issue Douglas Wilcox is the sole shareholder and director of Tangerine Pty Ltd, an Australian private company.

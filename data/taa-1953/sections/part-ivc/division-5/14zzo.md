@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 14ZZO  Grounds of objection and burden of proof
 
 In proceedings on an appeal under section 14ZZ to a court against an objection decision:

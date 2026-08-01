@@ -5,7 +5,6 @@ section: "other-exclusions-from-deductibility"
 title: "Other exclusions from deductibility"
 paragraph: "¶16-107"
 ---
-
 # Other exclusions from deductibility ¶16-107
 
 As well as the general exclusions detailed above, there are a number of provisions limiting or prohibiting the deductibility of particular types of expenditure, for example penalties (¶16-845), excessive remuneration to relatives (¶16-530), and expenditure subject to the anti-avoidance provisions discussed at ¶16-110 and ¶16-151. The hybrid mismatch rules in ITAA97 Div 832 may operate to deny certain deductions in order to neutralise the eﬀect of arrangements taking advantage of diﬀerent tax treatments in 2 or more jurisdictions.

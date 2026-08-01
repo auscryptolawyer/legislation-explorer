@@ -8,7 +8,6 @@ section_title: Ring-fencing RAM net losses
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 59B  Ring-fencing RAM net losses
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "tax-laws-must-not-discriminate-between-states"
 title: "Tax laws must not discriminate between states"
 paragraph: "¶1-070"
 ---
-
 # Tax laws must not discriminate between states ¶1-070
 
 Section 51(ii) of the Constitution expressly prohibits any federal tax that discriminates between states or parts of states. In addition, s 99 of the Constitution provides that the Commonwealth shall not by any law or regulation of trade, commerce or revenue, give preference to any one state or any part of it over another state or any part of it.

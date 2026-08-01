@@ -5,7 +5,6 @@ section: "company-rates-for-202425"
 title: "Company rates for 2024–25"
 paragraph: "¶42-025"
 ---
-
 # Company rates for 2024–25 ¶42-025
 
 TYPE OF COMPANY                                                                                             TAX RATE

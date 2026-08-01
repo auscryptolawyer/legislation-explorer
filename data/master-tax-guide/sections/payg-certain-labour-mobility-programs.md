@@ -5,7 +5,6 @@ section: "payg-certain-labour-mobility-programs"
 title: "PAYG: certain labour mobility programs"
 paragraph: "¶26-275"
 ---
-
 # PAYG: certain labour mobility programs ¶26-275
 
 An amount must be withheld from salary, wages, commission, bonuses or allowances paid to an individual as an employee of an approved employer under a labour mobility program covered by the legislation (see below) when the employee is a foreign resident who holds:

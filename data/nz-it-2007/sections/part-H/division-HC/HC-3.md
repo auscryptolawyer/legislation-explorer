@@ -8,7 +8,6 @@ section_title: Multiple settlements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HC 3  Multiple settlements
 
 For the purposes of this subpart, if a settlement is made on a trust and further settlements are made on the same terms, a trustee of the trust may treat all the settlements as 1 trust.

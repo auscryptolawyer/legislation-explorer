@@ -8,7 +8,6 @@ section_title: Distributions to investors in multi-rate PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 56B  Distributions to investors in multi-rate PIEs
 
 **Excluded income**

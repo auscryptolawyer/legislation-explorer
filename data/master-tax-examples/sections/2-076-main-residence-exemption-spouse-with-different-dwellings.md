@@ -5,7 +5,6 @@ section: "2-076-main-residence-exemption-spouse-with-different-dwellings"
 title: "2-076 - Main residence exemption spouse with different dwellings"
 paragraph: "None"
 ---
-
 # 2-076 - Main residence exemption spouse with different dwellings
 
 Worked example: Main residence exemption; spouse with different dwellings Issue In late 2009, Rebecca Charlesworth acquired a dwelling in Mount Martha, on the Mornington Peninsula.

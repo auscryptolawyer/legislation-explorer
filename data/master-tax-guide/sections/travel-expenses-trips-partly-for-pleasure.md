@@ -5,7 +5,6 @@ section: "travel-expenses-trips-partly-for-pleasure"
 title: "Travel expenses: trips partly for pleasure"
 paragraph: "¶16-290"
 ---
-
 # Travel expenses: trips partly for pleasure ¶16-290
 
 Diﬃculty may arise where a trip is a business one, but part of the time overseas is devoted to non-business pursuits. The Commissioner’s view appears to be that, where the main purpose of the trip was the gaining or producing of income, the related expenses will be fully deductible under ITAA97 s 8-1 notwithstanding the existence of an incidental private purpose. If, however, the gaining or producing of income was merely incidental to the private purpose, apportionment of the expenses is necessary and only the expenses directly attributable to the income-earning purpose will be allowable. Where both purposes are equal, 50% of the expenses incurred for both purposes (ie other than those directly attributable to income-earning purposes) will be deductible (TR 2024/3). Where an employee’s trip has a private element, the expense must also be apportioned to that extent (TR 2021/4).

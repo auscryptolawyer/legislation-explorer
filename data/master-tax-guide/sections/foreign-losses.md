@@ -5,7 +5,6 @@ section: "foreign-losses"
 title: "Foreign losses"
 paragraph: "¶21-800"
 ---
-
 # Foreign losses ¶21-800
 
 Eﬀective for income years commencing on or after 1 July 2008, the rule that a foreign loss can only be oﬀset against foreign income, and against income of its own class, has been repealed. However, special transitional rules applied to earlier-year foreign losses that were still unutilised at the time of the repeal (ITTPA Div 770).

@@ -8,7 +8,6 @@ section_title: Purpose
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IB 1  Purpose
 
 The purpose of this subpart and sections GB 3BA to GB 3BAC (which relate to arrangements involving tax losses) is—

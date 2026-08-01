@@ -8,7 +8,6 @@ section_title: Foreign investment fund loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DN 5  Foreign investment fund loss
 
 **Deduction**

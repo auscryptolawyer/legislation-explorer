@@ -8,7 +8,6 @@ section_title: Use of money interest payable by Commissioner
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CC 8  Use of money interest payable by Commissioner
 
 **Income**

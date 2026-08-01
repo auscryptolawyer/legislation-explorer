@@ -8,7 +8,6 @@ section_title: FamilyBoost tax credits: purpose
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MH 1  FamilyBoost tax credits: purpose
 
 The purpose of the FamilyBoost tax credit is to provide financial assistance to caregivers with early childhood education costs.

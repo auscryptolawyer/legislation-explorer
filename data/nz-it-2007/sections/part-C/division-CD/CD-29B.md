@@ -8,7 +8,6 @@ section_title: Issues to shareholders of rights to subscribe for or sell back sh
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 29B  Issues to shareholders of rights to subscribe for or sell back shares
 
 **Issue of rights to subscribe for shares**

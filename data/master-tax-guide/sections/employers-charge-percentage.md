@@ -5,7 +5,6 @@ section: "employers-charge-percentage"
 title: "Employer’s charge percentage"
 paragraph: "¶39-100"
 ---
-
 # Employer’s charge percentage ¶39-100
 
 The minimum level of superannuation support that an employer must provide for each employee so as to avoid incurring liability for the SG charge is calculated by reference to a “charge percentage” (commonly called the SG rate) of the employee’s ordinary time earnings. All employers are subject to the same charge percentage, regardless of the size of their annual national payroll.

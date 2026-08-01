@@ -5,7 +5,6 @@ section: "amending-a-trust-deed"
 title: "Amending a trust deed"
 paragraph: "¶6-015"
 ---
-
 # Amending a trust deed ¶6-015
 
 There was previously considerable doubt as to whether and, if so, in what circumstances one trust estate could come to an end and a new trust estate commence. This particular issue often arose in the context of an amendment to a trust instrument and the question that was usually posed was whether the amendment would cause a “resettlement”. Of course, if a new trust arose this could have signiﬁcant income tax and CGT consequences.

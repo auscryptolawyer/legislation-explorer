@@ -8,7 +8,6 @@ section_title: Valuation of certain excepted financial arrangements denominated 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ED 4  Valuation of certain excepted financial arrangements denominated in foreign currency
 
 **Who this section applies to**

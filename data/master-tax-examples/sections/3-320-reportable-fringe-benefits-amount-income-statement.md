@@ -5,7 +5,6 @@ section: "3-320-reportable-fringe-benefits-amount-income-statement"
 title: "3-320 - Reportable fringe benefits amount income statement"
 paragraph: "None"
 ---
-
 # 3-320 - Reportable fringe benefits amount income statement
 
 Worked example: Reportable fringe benefits amount; income statement Issue Joe Glugner is employed by R-Byte Ltd. Joe’s salary package in the FBT year ended 31 March 2025 includes his company car (FBT taxable value $10,000), parking in the company car park (taxable value $2,000), reimbursed private parking fees (taxable value $500), laptop computer (an exempt fringe benefit), superannuation contributions (an exempt fringe benefit) and private health insurance (taxable value $600).

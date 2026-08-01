@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8AAZAA  Amounts relating to Coronavirus economic response payments
 
 <a id="s8AAZAA-1"></a>

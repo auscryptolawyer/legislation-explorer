@@ -5,7 +5,6 @@ section: "6-400-composite-items-identifying-the-relevant-depreciating-asset-for-
 title: "6-400 - Composite items identifying the relevant depreciating asset for capital allowances purposes"
 paragraph: "None"
 ---
-
 # 6-400 - Composite items identifying the relevant depreciating asset for capital allowances purposes
 
 purposes Worked example: Composite items — identifying the relevant depreciating asset for capital allowances purposes Issue In August 2024, Richard Davison buys a second had car for his sales manager to drive. The cost of the car, a Hyundai i-35, is $19,500, ex GST. Shortly after the purchase, in October 2024, Richard pays for the post- manufacture installation of a GPS unit in the car. The car was a basic model and did not come with fitted GPS as standard however the car has the capability to have a GPS unit fitted to operate through the console display system. The cost of the GPS system is $775, ex GST.

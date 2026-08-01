@@ -5,7 +5,6 @@ section: "duties-and-liabilities-of-agents"
 title: "Duties and liabilities of agents"
 paragraph: "¶24-050"
 ---
-
 # Duties and liabilities of agents ¶24-050
 
 An agent is required to furnish an annual return of income, or proﬁts or gains of a capital nature, derived by the agent in a representative capacity or by the principal through the agency (ITAA36 s 254). A separate return must be ﬁled for each person for whom he/she is agent. If the agent is not the sole Australian agent for an overseas principal, an agent’s return must still be furnished showing particulars of all transactions with that principal.

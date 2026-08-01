@@ -5,7 +5,6 @@ section: "alternative-dispute-resolution"
 title: "Alternative dispute resolution"
 paragraph: "¶18-750"
 ---
-
 # Alternative dispute resolution ¶18-750
 
 Apart from the normal objection and appeal processes, a range of alternative dispute resolution (ADR) approaches, including mediation, may be used to assist in reaching settlement.

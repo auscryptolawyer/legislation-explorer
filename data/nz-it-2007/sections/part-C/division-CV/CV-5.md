@@ -8,7 +8,6 @@ section_title: Statutory producer boards
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CV 5  Statutory producer boards
 
 A levy received by a statutory producer board, other than a levy charged specifically for capital development, is income.

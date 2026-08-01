@@ -8,7 +8,6 @@ section_title: Tax credits related to personal service rehabilitation payments: 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LB 7  Tax credits related to personal service rehabilitation payments: providers
 
 **When this section applies**

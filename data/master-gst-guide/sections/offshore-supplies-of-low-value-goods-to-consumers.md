@@ -5,7 +5,6 @@ section: "offshore-supplies-of-low-value-goods-to-consumers"
 title: "Offshore supplies of “low value” goods to consumers"
 paragraph: "¶9-130"
 ---
-
 # Offshore supplies of “low value” goods to consumers ¶9-130
 
 an offshore supplier to register, collect and remit GST where the following conditions are satisfied:

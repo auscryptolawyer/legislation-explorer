@@ -5,7 +5,6 @@ section: "residence-3-statutory-tests"
 title: "Residence: 3 statutory tests"
 paragraph: "¶21-020"
 ---
-
 # Residence: 3 statutory tests ¶21-020
 
 Even if a person does not reside in Australia within the ordinary meaning of “reside” (¶21-010), that person may nevertheless be a resident of Australia for tax purposes if any one of 3 additional statutory tests in the deﬁnition of “resident” in ITAA36 s 6(1) is satisﬁed. (1) Domicile/permanent place of abode test Under the ﬁrst of these tests, a person whose domicile is in Australia is deemed to be a resident of Australia unless the Commissioner is satisﬁed that the person’s permanent place of abode is outside Australia (the “domicile/permanent place of abode” test).

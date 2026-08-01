@@ -8,7 +8,6 @@ section_title: Treatment of certain provisions made by multi-rate PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 35B  Treatment of certain provisions made by multi-rate PIEs
 
 **When this section applies**

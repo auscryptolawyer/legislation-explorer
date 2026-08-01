@@ -5,7 +5,6 @@ section: "cgt-roll-over-for-strata-title-conversion"
 title: "CGT roll-over for strata title conversion"
 paragraph: "¶12-320"
 ---
-
 # CGT roll-over for strata title conversion ¶12-320
 
 - the taxpayer owns property that gives him/her a right to occupy a unit in a building

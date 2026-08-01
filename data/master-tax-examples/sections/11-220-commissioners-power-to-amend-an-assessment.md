@@ -5,7 +5,6 @@ section: "11-220-commissioners-power-to-amend-an-assessment"
 title: "11-220 - Commissioners power to amend an assessment"
 paragraph: "None"
 ---
-
 # 11-220 - Commissioners power to amend an assessment
 
 Worked example: Commissioner’s power to amend an assessment Issue Dr Amy Tan commenced her medical practice in March 1984 and operated it as a sole practitioner for several years. In 2016–17, she set up a unit trust and sold the medical practice to the unit trust.

@@ -5,7 +5,6 @@ section: "5-280-partial-change-in-ownership-of-stock"
 title: "5-280 - Partial change in ownership of stock"
 paragraph: "None"
 ---
-
 # 5-280 - Partial change in ownership of stock
 
 Worked example: Partial change in ownership of stock Issue Pat Lee and Nora Jones are equal partners in a retail business. At 30 June 2025, they admit Zach Smith as a full partner, and Pat and Nora each sell one-third of their interest in the partnership assets to Zach.

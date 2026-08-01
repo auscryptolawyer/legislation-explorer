@@ -5,7 +5,6 @@ section: "assets-used-for-taxable-purposes"
 title: "Assets used for taxable purposes"
 paragraph: "¶17-010"
 ---
-
 # Assets used for taxable purposes ¶17-010
 
 A deduction is available for the decline in value of a “depreciating asset” (¶17-015) that is held by the taxpayer for any time during the year. The deduction is reduced to reﬂect the extent to which the asset was used during the income year for a purpose other than a “taxable purpose” (eg private or domestic purposes or to produce exempt income) (ITAA97 s 40-25). Further reductions apply for second-hand assets in residential rental properties (¶17-012). “Use” requires the employment of the asset such that it can reasonably be expected to decline in value (TD 2007/5; ID 2006/151).

@@ -5,7 +5,6 @@ section: "collection-and-recovery-regime"
 title: "Collection and recovery regime"
 paragraph: "¶25-500"
 ---
-
 # Collection and recovery regime ¶25-500
 
 The collection and recovery of unpaid tax-related liabilities (including penalties) is covered by a common set of rules in TAA sch 1 Pt 4-15. This regime applies to all tax-related liabilities, including PAYG instalment and PAYG withholding amounts. A tax-related liability is deﬁned as a pecuniary liability to the Commonwealth arising under a taxation law (TAA sch 1 s 255-1). A “taxation law” is deﬁned in TAA s 2.

@@ -8,7 +8,6 @@ section_title: Fees to purchase funds in tax pooling accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 4B  Fees to purchase funds in tax pooling accounts
 
 **Deduction**

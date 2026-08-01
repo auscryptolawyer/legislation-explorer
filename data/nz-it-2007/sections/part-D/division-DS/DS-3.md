@@ -8,7 +8,6 @@ section_title: Clawback of deductions for film reimbursement schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DS 3  Clawback of deductions for film reimbursement schemes
 
 **Reduction of deductions**

@@ -8,7 +8,6 @@ section_title: Relationship with exempt income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 5  Relationship with exempt income
 
 **Exempt income not fringe benefit**

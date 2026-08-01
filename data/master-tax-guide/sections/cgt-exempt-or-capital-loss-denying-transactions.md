@@ -5,7 +5,6 @@ section: "cgt-exempt-or-capital-loss-denying-transactions"
 title: "CGT exempt or capital loss-denying transactions"
 paragraph: "¶11-670"
 ---
-
 # CGT exempt or capital loss-denying transactions ¶11-670
 
 Leases not used for income-producing purposes A capital loss a lessee makes from the expiry, surrender, forfeiture or assignment of a lease (except one granted for 99 years or more) is disregarded if the lessee did not use the lease solely or mainly for income- producing purposes (s 118-40).

@@ -5,7 +5,6 @@ section: "part-year-use-of-depreciating-asset"
 title: "Part-year use of depreciating asset"
 paragraph: "¶17-560"
 ---
-
 # Part-year use of depreciating asset ¶17-560
 
 Where a depreciating asset is held and used (or is installed ready for use) for only part of the income year, then the full year’s decline in value is automatically reduced (ITAA97 ss 40-70; 40-75). This is because the calculation formulae for both the prime cost and diminishing value methods include the number of days that the asset is held and used or installed ready for use for any purpose by the taxpayer during an income year.

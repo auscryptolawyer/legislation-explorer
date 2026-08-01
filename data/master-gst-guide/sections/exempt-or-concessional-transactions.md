@@ -5,7 +5,6 @@ section: "exempt-or-concessional-transactions"
 title: "Exempt or concessional transactions"
 paragraph: "¶25-000"
 ---
-
 # Exempt or concessional transactions ¶25-000
 
 This is an alphabetical checklist of the main types of transactions that are exempt from GST in some way, or are subject to special rules.

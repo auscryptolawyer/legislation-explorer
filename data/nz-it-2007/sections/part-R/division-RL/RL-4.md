@@ -8,7 +8,6 @@ section_title: How much RLWT?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RL 4  How much RLWT?
 
 **How much tax?**

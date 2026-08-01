@@ -5,7 +5,6 @@ section: "overview-of-the-special-cgt-topics"
 title: "Overview of the special CGT topics"
 paragraph: "¶12-000"
 ---
-
 # Overview of the special CGT topics ¶12-000
 
 This chapter deals with special CGT rules under ITAA97 Pt 3-3 that may apply in relation to the calculation of capital gains and losses. General CGT rules under Pt 3-1, together with special rules that apply for companies only, are discussed in ¶11-000ﬀ. The CGT concessions for small business are outlined below (¶12-005), with detailed coverage at ¶7-001ﬀ. Section references in this chapter are to ITAA97 unless otherwise indicated. The topics covered are outlined below.

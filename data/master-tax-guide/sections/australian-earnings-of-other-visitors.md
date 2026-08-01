@@ -5,7 +5,6 @@ section: "australian-earnings-of-other-visitors"
 title: "Australian earnings of other visitors"
 paragraph: "¶22-100"
 ---
-
 # Australian earnings of other visitors ¶22-100
 
 Australian earnings of certain other non-residents or visitors to Australia are also exempted from income tax.

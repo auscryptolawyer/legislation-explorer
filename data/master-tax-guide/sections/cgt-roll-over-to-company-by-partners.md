@@ -5,7 +5,6 @@ section: "cgt-roll-over-to-company-by-partners"
 title: "CGT roll-over to company by partners"
 paragraph: "¶12-090"
 ---
-
 # CGT roll-over to company by partners ¶12-090
 
 company The partners in a partnership may be able to choose to obtain a roll-over if a trigger event happens to a CGT asset of the partners (s 122-125). The trigger event must involve each partner disposing of his/her interest in an asset of the partnership to a company or creating an asset in that company.

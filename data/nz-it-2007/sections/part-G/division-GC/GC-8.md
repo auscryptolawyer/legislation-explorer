@@ -8,7 +8,6 @@ section_title: Insufficient amount receivable by person
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GC 8  Insufficient amount receivable by person
 
 **Amount receivable**

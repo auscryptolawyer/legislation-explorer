@@ -5,7 +5,6 @@ section: "victoria-land-tax"
 title: "Victoria land tax"
 paragraph: "¶38-020"
 ---
-
 # Victoria land tax ¶38-020
 
 The principal Act governing the imposition and assessment of liability to land tax in Victoria, including rates, is the Land Tax Act 2005 (“the principal Act”). The principal Act also imposes a vacant residential land tax.

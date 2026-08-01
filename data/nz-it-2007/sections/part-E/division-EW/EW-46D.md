@@ -8,7 +8,6 @@ section_title: Consideration when insolvent company’s debt repaid with conside
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 46D  Consideration when insolvent company’s debt repaid with consideration received for issuing shares
 
 **When this section applies**

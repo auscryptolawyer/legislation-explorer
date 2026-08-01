@@ -5,7 +5,6 @@ section: "cgt-events-from-special-capital-receipts"
 title: "CGT events from special capital receipts"
 paragraph: "¶11-320"
 ---
-
 # CGT events from special capital receipts ¶11-320
 
 CGT event H1 — Forfeiture of a deposit CGT event H1 happens if a deposit paid to the taxpayer is forfeited because a prospective sale or other transaction does not proceed (s 104-150). The payment can include giving property.

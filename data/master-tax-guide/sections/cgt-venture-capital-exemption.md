@@ -5,7 +5,6 @@ section: "cgt-venture-capital-exemption"
 title: "CGT: venture capital exemption"
 paragraph: "¶11-900"
 ---
-
 # CGT: venture capital exemption ¶11-900
 
 Certain investors can disregard capital gains and capital losses from CGT events that relate to venture capital investments (Subdiv 118-F: ss 118-400 to 118-445). Unless the investments are made through early stage venture capital limited partnerships (see below), the exemption is only available to foreign residents.

@@ -5,7 +5,6 @@ section: "film-concessions"
 title: "Film concessions"
 paragraph: "¶20-330"
 ---
-
 # Film concessions ¶20-330
 
 Three refundable tax oﬀsets are available to companies involved in the Australian screen media industry under ITAA97 Div 376:

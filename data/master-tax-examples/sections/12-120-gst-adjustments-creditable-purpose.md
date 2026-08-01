@@ -5,7 +5,6 @@ section: "12-120-gst-adjustments-creditable-purpose"
 title: "12-120 - GST adjustments creditable purpose"
 paragraph: "None"
 ---
-
 # 12-120 - GST adjustments creditable purpose
 
 Worked example: GST adjustments; creditable purpose Issue Fiona Wilkes runs a delivery business and is registered for GST. Fiona purchased a Ford Falcon for $33,000 (GST inclusive) on 15 October 2019 to use in her delivery business. Fiona had planned to use the vehicle 90% for business and 10% privately. However, on 21 April 2021, Fiona calculates that she has used the vehicle 80% for business and 20% privately. During the year ended 30 June 2022, the vehicle was used 95% for business and only 5% privately.

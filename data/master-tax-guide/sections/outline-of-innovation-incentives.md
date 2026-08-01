@@ -5,7 +5,6 @@ section: "outline-of-innovation-incentives"
 title: "Outline of innovation incentives"
 paragraph: "¶20-700"
 ---
-
 # Outline of innovation incentives ¶20-700
 
 The National Innovation and Science Agenda introduced in 2016 included a number of tax incentives designed to encourage innovation.

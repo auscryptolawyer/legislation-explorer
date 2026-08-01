@@ -5,7 +5,6 @@ section: "who-is-liable-to-pay-medicare-levy"
 title: "Who is liable to pay Medicare levy?"
 paragraph: "¶2-290"
 ---
-
 # Who is liable to pay Medicare levy? ¶2-290
 
 An individual who is a resident of Australia at any time during the income year is liable to pay a Medicare levy of 2% of his/her taxable income for the year, subject to some concessions. For Medicare levy purposes, taxable income excludes the taxable component of a superannuation lump sum that attracts a tax oﬀset under ITAA97 s 301-20, which reduces the eﬀective tax rate on the lump sum to zero (Kowalski 2006 ATC 2343; [2006] AATA 669). The levy is also payable by some trustees (¶6-250).

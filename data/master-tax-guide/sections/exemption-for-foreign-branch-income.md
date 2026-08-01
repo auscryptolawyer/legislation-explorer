@@ -5,7 +5,6 @@ section: "exemption-for-foreign-branch-income"
 title: "Exemption for foreign branch income"
 paragraph: "¶21-098"
 ---
-
 # Exemption for foreign branch income ¶21-098
 
 Most foreign income and gains derived by a resident company through a foreign permanent establishment (PE) are exempt (ITAA36 s 23AH). In more detail, this exemption applies to:

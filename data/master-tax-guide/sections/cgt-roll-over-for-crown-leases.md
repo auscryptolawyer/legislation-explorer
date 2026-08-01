@@ -5,7 +5,6 @@ section: "cgt-roll-over-for-crown-leases"
 title: "CGT roll-over for crown leases"
 paragraph: "¶12-400"
 ---
-
 # CGT roll-over for crown leases ¶12-400
 
 Compulsory roll-over

@@ -5,7 +5,6 @@ section: "other-military-exemptions"
 title: "Other military exemptions"
 paragraph: "¶10-780"
 ---
-
 # Other military exemptions ¶10-780
 
 Exemptions relating to military service also apply to the following forms of income:

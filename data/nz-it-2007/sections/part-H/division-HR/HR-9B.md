@@ -8,7 +8,6 @@ section_title: Bankruptcy-remote property during application of section HR 9
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 9B  Bankruptcy-remote property during application of section HR 9
 
 Despite section HR 9, property that an originator holds because of the application of section HR 9 cannot be attached, charged, disposed of, or otherwise used in the payment of the originator’s tax debt, except to the extent to which—

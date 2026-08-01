@@ -8,7 +8,6 @@ section_title: Carry forward for remaining research and development tax credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LY 8  Carry forward for remaining research and development tax credits
 
 **Carry forward**

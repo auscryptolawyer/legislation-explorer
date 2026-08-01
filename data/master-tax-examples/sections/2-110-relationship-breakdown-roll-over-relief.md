@@ -5,7 +5,6 @@ section: "2-110-relationship-breakdown-roll-over-relief"
 title: "2-110 - Relationship breakdown roll-over relief"
 paragraph: "None"
 ---
-
 # 2-110 - Relationship breakdown roll-over relief
 
 Worked example: Relationship breakdown: roll-over relief Issue On 30 October 2024, as part of a property settlement arising from the breakdown of their marriage, the Family Court made an order requiring Geoffrey Hedges to transfer to his spouse, Judith Hedges, 1 million shares in Lucky Pty Ltd. On 5 November 2024, Geoffrey sought instructions from Judith as to whom the Lucky shares should be transferred. The following day, Judith replied that the shares should be transferred to a trust which she controlled.

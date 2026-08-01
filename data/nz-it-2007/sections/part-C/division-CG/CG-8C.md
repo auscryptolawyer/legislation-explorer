@@ -8,7 +8,6 @@ section_title: Recoveries after deductions for high-priced bloodstock disposed o
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 8C  Recoveries after deductions for high-priced bloodstock disposed of to non-residents
 
 **When this section applies**

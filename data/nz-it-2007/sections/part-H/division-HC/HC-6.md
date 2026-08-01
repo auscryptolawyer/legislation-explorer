@@ -8,7 +8,6 @@ section_title: Beneficiary income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HC 6  Beneficiary income
 
 **Meaning**

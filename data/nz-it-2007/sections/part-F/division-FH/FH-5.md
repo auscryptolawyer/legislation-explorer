@@ -8,7 +8,6 @@ section_title: Payments by New Zealand resident or New Zealand deducting branch 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FH 5  Payments by New Zealand resident or New Zealand deducting branch producing deduction without income
 
 **When this section applies**

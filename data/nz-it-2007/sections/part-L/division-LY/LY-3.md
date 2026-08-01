@@ -8,7 +8,6 @@ section_title: When this subpart applies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LY 3  When this subpart applies
 
 **When this subpart applies**

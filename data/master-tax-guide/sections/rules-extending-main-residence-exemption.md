@@ -5,7 +5,6 @@ section: "rules-extending-main-residence-exemption"
 title: "Rules extending main residence exemption"
 paragraph: "¶11-740"
 ---
-
 # Rules extending main residence exemption ¶11-740
 
 Moving into a main residence If a dwelling becomes a taxpayer’s main residence by the time it was ﬁrst practicable for the taxpayer to move into it after it was acquired, the dwelling is treated as the taxpayer’s main residence from when it was acquired until it actually became the taxpayer’s main residence (s 118-135).

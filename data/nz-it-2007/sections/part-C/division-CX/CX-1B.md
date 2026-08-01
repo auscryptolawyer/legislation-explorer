@@ -8,7 +8,6 @@ section_title: Treatment of flat-rate credits under platform economy rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 1B  Treatment of flat-rate credits under platform economy rules
 
 **Excluded income**

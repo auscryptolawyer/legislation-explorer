@@ -5,7 +5,6 @@ section: "5-060-valuation-method-for-similar-items"
 title: "5-060 - Valuation method for similar items"
 paragraph: "None"
 ---
-
 # 5-060 - Valuation method for similar items
 
 Worked example: Valuation method for similar items Issue Bill Kovacs purchased a block of land with a house on it (the property) in January 2025. He rented the house out to Klaus and Margarita for 6 months during which time he decided to redevelop the property for sale.

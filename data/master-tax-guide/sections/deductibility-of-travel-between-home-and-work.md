@@ -5,7 +5,6 @@ section: "deductibility-of-travel-between-home-and-work"
 title: "Deductibility of travel between home and work"
 paragraph: "¶16-230"
 ---
-
 # Deductibility of travel between home and work ¶16-230
 
 Expenses of commuting between home and place of work are generally not deductible, ie where the travel is to start work or depart after work is completed (Lunney (1958) 11 ATD 404; (1958) 100 CLR 478), even where a travel allowance is received (TR 2021/1; IT 2543), incidental tasks are performed en route, the travel is outside normal working hours or the travel involves a second or subsequent trip. This also extends to where the employee travels to work from another location, eg a café or holiday location, or travels from home to a diﬀerent location that is more convenient as a work location, ie the travel is not explained by their employment duties but their personal choice: TR 2021/1.

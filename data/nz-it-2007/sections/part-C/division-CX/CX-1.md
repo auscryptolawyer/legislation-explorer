@@ -8,7 +8,6 @@ section_title: Goods and services tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 1  Goods and services tax
 
 The following are excluded income of a registered person:

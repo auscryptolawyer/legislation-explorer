@@ -8,7 +8,6 @@ section_title: Joining existing imputation group
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FN 9  Joining existing imputation group
 
 **Generally**

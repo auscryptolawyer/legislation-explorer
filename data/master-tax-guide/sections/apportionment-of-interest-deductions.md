@@ -5,7 +5,6 @@ section: "apportionment-of-interest-deductions"
 title: "Apportionment of interest deductions"
 paragraph: "¶16-744"
 ---
-
 # Apportionment of interest deductions ¶16-744
 
 Where a loan is taken out for 2 purposes, one business and one non-business, only a proportion of the interest will generally be deductible under ITAA97 s 8-1 (TR 95/33).

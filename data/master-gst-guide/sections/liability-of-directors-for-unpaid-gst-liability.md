@@ -5,7 +5,6 @@ section: "liability-of-directors-for-unpaid-gst-liability"
 title: "Liability of directors for unpaid GST liability"
 paragraph: "¶8-105"
 ---
-
 # Liability of directors for unpaid GST liability ¶8-105
 
 In certain situations, the directors of a company may be personally liable to pay an amount equal to the company’s outstanding GST liability, including wine equalisation tax and luxury car tax. This brings the GST system into line with the rules that apply to income tax liabilities (Taxation Administration Act, Sch 1, Div 269). It applies to tax periods starting on or after 1 April 2020.

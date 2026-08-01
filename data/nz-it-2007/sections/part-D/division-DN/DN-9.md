@@ -8,7 +8,6 @@ section_title: Treatment of certain costs incurred in acquiring FIF interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DN 9  Treatment of certain costs incurred in acquiring FIF interests
 
 **No deduction**

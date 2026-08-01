@@ -8,7 +8,6 @@ section_title: Bonus issues in lieu of dividend
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 7  Bonus issues in lieu of dividend
 
 **Bonus issues in lieu**

@@ -8,7 +8,6 @@ section_title: What is depreciable property?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EE 6  What is depreciable property?
 
 **Description**

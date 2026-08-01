@@ -5,7 +5,6 @@ section: "payg-investments-where-tfn-or-abn-not-quoted"
 title: "PAYG: investments where TFN or ABN not quoted"
 paragraph: "¶26-200"
 ---
-
 # PAYG: investments where TFN or ABN not quoted ¶26-200
 
 If an investor fails to quote a TFN (¶33-030), or an ABN (¶33-130) in the case of a business, to the investment body in relation to an investment, the investment body is required to withhold an amount, at the top marginal rate plus Medicare, from income on the investment, meaning that the withholding rate is 47%.

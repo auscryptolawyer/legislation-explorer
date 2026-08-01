@@ -5,7 +5,6 @@ section: "7-280-cgt-small-business-retirement-exemption"
 title: "7-280 - CGT small business retirement exemption"
 paragraph: "None"
 ---
-
 # 7-280 - CGT small business retirement exemption
 
 Worked example: CGT small business retirement exemption Issue Bill Smythe is aged 66. Bill is intending to retire and consequently, in the 2024–25 income year, he sold his business which he had owned for 2 years and derived a $400,000 capital gain. Bill’s net assets immediately before the sale were less than $6 million and his turnover each year has been less than $2 million. Bill has always been an Australian tax resident.

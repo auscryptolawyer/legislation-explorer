@@ -5,7 +5,6 @@ section: "trusts-and-trustees"
 title: "Trusts and trustees"
 paragraph: "¶6-010"
 ---
-
 # Trusts and trustees ¶6-010
 
 A trust of property or income may be described as a ﬁduciary obligation imposed on a person (the trustee) to hold property or income for a particular purpose or purposes, or for the beneﬁt of other persons or classes of persons who may or may not include the trustee. The ﬁduciary obligation may be imposed on the trustee either by the person establishing the trust (who may be the same as the trustee), by another person, by court order or declaration, or by operation of law. Although the trustee may hold the legal title to property, etc, the trustee is compelled in equity to deal with it in accordance with the express or implied terms of the trust.

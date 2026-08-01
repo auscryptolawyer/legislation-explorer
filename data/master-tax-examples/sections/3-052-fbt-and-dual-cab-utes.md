@@ -5,7 +5,6 @@ section: "3-052-fbt-and-dual-cab-utes"
 title: "3-052 - FBT and dual cab utes"
 paragraph: "None"
 ---
-
 # 3-052 - FBT and dual cab utes
 
 Worked example: FBT and dual cab utes Issue Dan Walker is provided with the use of a brand new Toyota HiLux SR5 from his employer, Hillside Pty Ltd.

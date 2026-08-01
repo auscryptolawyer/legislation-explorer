@@ -5,7 +5,6 @@ section: "liquidated"
 title: "liquidated"
 paragraph: "¶12-530"
 ---
-
 # liquidated ¶12-530
 
 A capital gain on shares made by a holding company as a result of the liquidation of its wholly-owned subsidiary is reduced if:

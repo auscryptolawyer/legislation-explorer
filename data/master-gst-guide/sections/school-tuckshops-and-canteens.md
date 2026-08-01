@@ -5,7 +5,6 @@ section: "school-tuckshops-and-canteens"
 title: "School tuckshops and canteens"
 paragraph: "¶14-010"
 ---
-
 # School tuckshops and canteens ¶14-010
 
 A school tuckshop run by a non-profit body such as a Parents and Citizens Association (P&C) can choose to be input taxed (s 40-130). This means that GST does not apply to tuckshop sales, and the non-profit body cannot claim input tax credits on the things it acquires to make those sales.

@@ -8,7 +8,6 @@ section_title: Fair dividend rate hedge portions: hedge-by-hedge methods
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EM 5  Fair dividend rate hedge portions: hedge-by-hedge methods
 
 **Fair dividend rate hedge portions**

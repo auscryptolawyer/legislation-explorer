@@ -5,7 +5,6 @@ section: "exempting-entities-and-former-exempting-entities"
 title: "Exempting entities and former exempting entities"
 paragraph: "¶4-970"
 ---
-
 # Exempting entities and former exempting entities ¶4-970
 
 The exempting entity rules (ITAA97 Div 208) are designed to prevent franking credit trading schemes involving companies that are eﬀectively owned by foreign residents or exempt entities.

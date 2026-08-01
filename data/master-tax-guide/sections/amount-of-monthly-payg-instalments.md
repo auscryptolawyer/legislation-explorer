@@ -5,7 +5,6 @@ section: "amount-of-monthly-payg-instalments"
 title: "Amount of monthly PAYG instalments"
 paragraph: "¶27-250"
 ---
-
 # Amount of monthly PAYG instalments ¶27-250
 
 the applicable instalment rate × the instalment income for that instalment month The “applicable instalment rate” means whichever of the following is applicable:

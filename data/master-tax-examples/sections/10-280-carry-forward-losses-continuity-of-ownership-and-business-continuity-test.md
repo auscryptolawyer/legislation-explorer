@@ -5,7 +5,6 @@ section: "10-280-carry-forward-losses-continuity-of-ownership-and-business-conti
 title: "10-280 - Carry-forward losses continuity of ownership and business continuity test"
 paragraph: "None"
 ---
-
 # 10-280 - Carry-forward losses continuity of ownership and business continuity test
 
 test Worked example: Carry-forward losses: continuity of ownership and business continuity test Issue From the time it was incorporated in 2005, Byclo Pty Ltd ran a business of assembling, repairing and selling bicycles that were manufactured in Australia. Byclo had 4 equal shareholders who each held 100 of the 400 issued shares in the company.

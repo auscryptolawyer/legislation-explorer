@@ -5,7 +5,6 @@ section: "what-are-the-relevant-factors"
 title: "What are the relevant factors?"
 paragraph: "¶20-060"
 ---
-
 # What are the relevant factors? ¶20-060
 
 Although all relevant circumstances must be taken into account, certain factors are specifically identified (s 165-15). Many, but not all, of these also appear in the income tax provisions (ITAA 1936 Pt IVA), so some guidance as to their scope can be obtained from earlier decisions on those provisions. The factors are as follows. (1) The manner in which the scheme was entered into or carried out. This might include considerations such as:

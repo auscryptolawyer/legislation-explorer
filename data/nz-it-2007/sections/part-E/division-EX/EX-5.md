@@ -8,7 +8,6 @@ section_title: Direct control interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 5  Direct control interests
 
 **Categories of direct control interests**

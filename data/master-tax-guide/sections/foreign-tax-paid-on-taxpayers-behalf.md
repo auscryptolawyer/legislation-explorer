@@ -5,7 +5,6 @@ section: "foreign-tax-paid-on-taxpayers-behalf"
 title: "Foreign tax paid on taxpayer’s behalf"
 paragraph: "¶21-765"
 ---
-
 # Foreign tax paid on taxpayer’s behalf ¶21-765
 
 A taxpayer is deemed to have paid foreign income tax in respect of an amount of income where the tax has eﬀectively been paid by someone else on their behalf under an arrangement, or under a foreign tax law (s 770-130). This deeming provision is intended to apply in cases such as where the tax has been paid by:

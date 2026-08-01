@@ -5,7 +5,6 @@ section: "1-120-strata-title-body-corporate-mutuality-principle"
 title: "1-120 - Strata title body corporate mutuality principle"
 paragraph: "None"
 ---
-
 # 1-120 - Strata title body corporate mutuality principle
 
 Worked example: Strata title body corporate; mutuality principle Issue The Eumeralla Road Body Corporate (Eumeralla) has been established to control, manage and administer 10 separate strata titled residential units and associated common property. The strata title and body corporate has been registered and governed in Victoria under the Owners Corporations Act 2006 (Vic) and Subdivision Act 1988 (Vic).

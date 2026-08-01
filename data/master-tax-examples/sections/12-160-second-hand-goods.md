@@ -5,7 +5,6 @@ section: "12-160-second-hand-goods"
 title: "12-160 - Second-hand goods"
 paragraph: "None"
 ---
-
 # 12-160 - Second-hand goods
 
 Worked example: Second-hand goods Issue Melissa Downing is registered for GST and operates a second-hand furniture store. Melissa acquires most of her stock from other second-hand furniture stores while some are purchased directly from members of the public and through deceased estates. All of her sales are to non-registered customers.

@@ -8,7 +8,6 @@ section_title: When FIF income arises
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CQ 5  When FIF income arises
 
 **General rule**

@@ -5,7 +5,6 @@ section: "gst-and-charities-and-non-proﬁt-bodies"
 title: "GST and charities and non-proﬁt bodies"
 paragraph: "¶34-175"
 ---
-
 # GST and charities and non-proﬁt bodies ¶34-175
 
 Apart from their GST-free concessions (¶34-160), charities and non-proﬁt bodies will not have to register unless their GST turnover is $150,000 or more, and have the option of splitting their operations into separate independent branches for GST purposes.

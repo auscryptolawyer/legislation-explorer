@@ -5,7 +5,6 @@ section: "checklist-methods-of-reducing-tax-liability"
 title: "Checklist: methods of reducing tax liability"
 paragraph: "¶31-080"
 ---
-
 # Checklist: methods of reducing tax liability ¶31-080
 
 The objective of any tax planning arrangement is to reduce the tax payable in respect of a given quantity of proﬁts or earnings, including proﬁts on the realisation of assets within the CGT regime. In broad terms, there are several ways of reducing liability to tax. These are summarised below.

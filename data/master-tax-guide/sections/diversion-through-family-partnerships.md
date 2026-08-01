@@ -5,7 +5,6 @@ section: "diversion-through-family-partnerships"
 title: "Diversion through family partnerships"
 paragraph: "¶31-520"
 ---
-
 # Diversion through family partnerships ¶31-520
 
 The use of a family partnership, as a device for splitting income between the various members of a family, has declined somewhat because of the greatly increased use of discretionary family trusts (¶31-540) which are more ﬂexible vehicles than partnerships. Another disadvantage is that partners have unlimited liability, unlike the shareholders in a company (including a corporate trustee). The requirements to establish the existence of a partnership are discussed at ¶5-010.

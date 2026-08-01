@@ -5,7 +5,6 @@ section: "restrictions-on-trust-losses"
 title: "Restrictions on trust losses"
 paragraph: "¶6-262"
 ---
-
 # Restrictions on trust losses ¶6-262
 
 Trusts can only deduct tax losses and certain debt deductions in limited circumstances. The restrictions, contained in sch 2F (ss 265-5 to 272-140), apply to:

@@ -5,7 +5,6 @@ section: "construction-contracts"
 title: "Construction contracts"
 paragraph: "¶19-230"
 ---
-
 # Construction contracts ¶19-230
 
 A special rule applies where a construction contract was made before 1 July 2000 and the completed project is made available on or after that date (Transition Act, s 19). In the absence of this rule, the total value of the contract would be subject to GST at the time when the project was completed (Transition Act, s 6(3)).

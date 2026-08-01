@@ -5,7 +5,6 @@ section: "calculating-luxury-car-tax"
 title: "Calculating luxury car tax"
 paragraph: "¶23-200"
 ---
-
 # Calculating luxury car tax ¶23-200
 
 The luxury car tax (LCT) is calculated by applying the LCT rate to the excess (excluding the GST component) of the car’s value over the LCT threshold (LCT Act ss 5-15, 7-15). Mathematically represented by the formula: LCT rate × 10/11 × (LCT value − LCT threshold) The LCT rate, as prescribed in the relevant Imposition Acts (¶23-000), is 33%. However, primary producers and tourist operators are entitled to refunds for certain cars that may reduce their effective rates to 25% (¶23-210).

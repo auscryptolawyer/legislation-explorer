@@ -5,7 +5,6 @@ section: "genuine-redundancy-payments"
 title: "Genuine redundancy payments"
 paragraph: "¶14-700"
 ---
-
 # Genuine redundancy payments ¶14-700
 
 A genuine redundancy payment is so much of a lump sum payment received by an employee who is dismissed from employment because the employee’s position is genuinely redundant as exceeds the amount that could reasonably be expected to be received by the employee in consequence of the voluntary termination of employment at the time of the dismissal (ITAA97 s 83-175(1)).

@@ -5,7 +5,6 @@ section: "2-380-easements"
 title: "2-380 - Easements"
 paragraph: "None"
 ---
-
 # 2-380 - Easements
 
 Worked example: Easements Issue Megan Williams owns a 100-hectare freehold farming property in Tasmania that she uses to graze cows.

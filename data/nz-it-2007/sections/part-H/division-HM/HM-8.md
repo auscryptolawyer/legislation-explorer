@@ -8,7 +8,6 @@ section_title: Residence in New Zealand
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 8  Residence in New Zealand
 
 **Requirements**

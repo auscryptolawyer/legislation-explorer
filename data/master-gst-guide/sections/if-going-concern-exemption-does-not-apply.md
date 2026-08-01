@@ -5,7 +5,6 @@ section: "if-going-concern-exemption-does-not-apply"
 title: "If “going concern” exemption does not apply"
 paragraph: "¶11-510"
 ---
-
 # If “going concern” exemption does not apply ¶11-510
 
 If the exemption does not apply, any GST payable could normally be claimed back by a registered purchaser as an input tax credit when the next GST return is lodged. To this extent, the only disadvantage to the purchaser is a cashflow disadvantage. The exemption basically only relieves the purchaser of having to fund the tax on settlement (and may possibly result in savings on stamp duty). For the position where the business involves input taxed supplies, see ¶11-520.

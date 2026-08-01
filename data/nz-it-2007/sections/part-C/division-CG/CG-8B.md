@@ -8,7 +8,6 @@ section_title: Recoveries after deductions for high-priced bloodstock removed fr
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 8B  Recoveries after deductions for high-priced bloodstock removed from New Zealand
 
 **When this section applies**

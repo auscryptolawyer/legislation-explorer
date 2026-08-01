@@ -5,7 +5,6 @@ section: "contributions-to-fundraising-events"
 title: "Contributions to fundraising events"
 paragraph: "¶16-977"
 ---
-
 # Contributions to fundraising events ¶16-977
 
 - a contribution of cash exceeding $150, or property with a value exceeding $150, which is made

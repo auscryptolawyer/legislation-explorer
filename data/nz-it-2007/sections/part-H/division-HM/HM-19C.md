@@ -8,7 +8,6 @@ section_title: Modified rules for foreign investment variable-rate PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 19C  Modified rules for foreign investment variable-rate PIEs
 
 **Investment types**

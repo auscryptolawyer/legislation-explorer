@@ -8,7 +8,6 @@ section_title: Restrictions relating to ring-fenced tax losses
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IA 7  Restrictions relating to ring-fenced tax losses
 
 **Non-application of sections IA 2 to IA 4**

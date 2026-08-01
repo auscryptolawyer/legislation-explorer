@@ -5,7 +5,6 @@ section: "personal-liability-of-trustee"
 title: "Personal liability of trustee"
 paragraph: "¶6-040"
 ---
-
 # Personal liability of trustee ¶6-040
 
 A trustee is answerable as the taxpayer for the doing of all things required by the tax law in relation to the income or any proﬁts or gains of a capital nature derived by the trustee in a representative capacity (ITAA36 s 254). Under that provision, a trustee is authorised and required to retain out of any money which comes to him or her in his or her representative capacity suﬃcient money to pay taxes (including penalty tax and interest) that are or will become payable by the trustee in a representative capacity, including where the trustee holds money on trust under a court order (Fermanis v Cheshire Holdings 90 ATC 4201; [1990] WASC 135). The Commissioner’s view that a trustee’s liability to retain does not depend on an assessment having been made was rejected by the High Court in Australian Building Systems 2015 ATC ¶20-548; [2015] HCA 48. A trustee is not personally liable for tax, except to the extent of any failure to meet the retention requirements. A trustee’s right of personal indemnity from a residual beneﬁciary in respect of proper trust expenses, including tax, was aﬃrmed in Balkin v Peck 98 ATC 4842; [1998] NSWSC 337, even though the beneﬁciary had argued that it should not be required to indemnify the trustee because the tax resulted from the trustee’s failure to take the trust oﬀshore to avoid tax.

@@ -5,7 +5,6 @@ section: "international-aspects-of-consolidated-groups"
 title: "International aspects of consolidated groups"
 paragraph: "¶8-600"
 ---
-
 # International aspects of consolidated groups ¶8-600
 
 There are special rules dealing with the transfer of pre-commencement excess foreign income tax and transferring of surpluses for CFCs and FIFs. There are also implications under the thin capitalisation rules.

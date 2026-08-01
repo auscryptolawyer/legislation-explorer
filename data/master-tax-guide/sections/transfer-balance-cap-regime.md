@@ -5,7 +5,6 @@ section: "transfer-balance-cap-regime"
 title: "Transfer balance cap regime"
 paragraph: "¶14-320"
 ---
-
 # Transfer balance cap regime ¶14-320
 
 A transfer balance cap applies from 1 July 2017 to limit the total amount of superannuation that an individual can have in or can transfer to the retirement phase of superannuation, where earnings from the income streams are exempt from taxation (ITAA97 Div 294 ss 294-5 to 294-250). The cap also eﬀectively limits the amount of exempt income from assets supporting the income stream accounts in the hands of the income stream provider. The meaning of “retirement phase” and “retirement phase superannuation income streams” is discussed in ¶13-140.

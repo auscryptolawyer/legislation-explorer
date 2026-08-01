@@ -5,7 +5,6 @@ section: "1-290-personal-services-income-unrelated-clients-test-personal-service
 title: "1-290 - Personal services income unrelated clients test personal services business"
 paragraph: "None"
 ---
-
 # 1-290 - Personal services income unrelated clients test personal services business
 
 Worked example: Personal services income: unrelated clients test; personal services business Issue Damien Deakin is a cyber security expert who is the sole director of Mondas Pty Ltd. Damien provides his services through the company to various large organisations such as government departments, universities, banks and utilities. The shares in Mondas Pty Ltd are owned by the Deakin Family Trust whose beneficiaries are Damien, his wife Stella, and the couple’s 2 children.

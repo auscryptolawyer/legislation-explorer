@@ -5,7 +5,6 @@ section: "fbt-penalties-and-oﬀences"
 title: "FBT penalties and oﬀences"
 paragraph: "¶35-750"
 ---
-
 # FBT penalties and oﬀences ¶35-750
 
 The uniform penalty regime contained in TAA sch 1 Pt 4-25 applies for all FBT related matters (¶29-000).

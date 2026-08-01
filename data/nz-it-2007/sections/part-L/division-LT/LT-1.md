@@ -8,7 +8,6 @@ section_title: Tax credits for petroleum miners
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LT 1  Tax credits for petroleum miners
 
 **When this section applies**

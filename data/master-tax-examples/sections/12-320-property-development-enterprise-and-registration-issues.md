@@ -5,7 +5,6 @@ section: "12-320-property-development-enterprise-and-registration-issues"
 title: "12-320 - Property development enterprise and registration issues"
 paragraph: "None"
 ---
-
 # 12-320 - Property development enterprise and registration issues
 
 registration issues Worked example: Property development: enterprise and registration issues Issue Reginald Knowles is 66 years old and considering retirement. He owns a substantial block of land on which his main residence is located. He has been advised by a property consultant that subdividing the land is possible and to boost his retirement he decided to proceed.

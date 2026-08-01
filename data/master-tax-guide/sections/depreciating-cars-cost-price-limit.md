@@ -5,7 +5,6 @@ section: "depreciating-cars-cost-price-limit"
 title: "Depreciating cars: cost price limit"
 paragraph: "¶17-200"
 ---
-
 # Depreciating cars: cost price limit ¶17-200
 
 A limit is placed on the ﬁrst element (¶17-100) of the cost of cars over a certain price (ITAA97 s 40-230). The limit for cars ﬁrst held in 2023–24 is $68,108. The limit is $69,674 for the 2024–25 ﬁnancial year as indexed in accordance with the method in ITAA97 Subdiv 960-M.

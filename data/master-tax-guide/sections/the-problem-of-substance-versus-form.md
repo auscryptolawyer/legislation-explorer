@@ -5,7 +5,6 @@ section: "the-problem-of-substance-versus-form"
 title: "The problem of substance versus form"
 paragraph: "¶1-380"
 ---
-
 # The problem of substance versus form ¶1-380
 
 Form and substance represent 2 distinct approaches to the interpretation of tax laws in Australia and elsewhere.

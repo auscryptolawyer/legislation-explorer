@@ -5,7 +5,6 @@ section: "7-180-income-averaging-scheme-applied-to-sportsperson"
 title: "7-180 - Income averaging scheme applied to sportsperson"
 paragraph: "None"
 ---
-
 # 7-180 - Income averaging scheme applied to sportsperson
 
 Worked example: Income averaging scheme applied to sportsperson Issue Bradley Goodman is an Australian resident and a professional athlete who competes in cycling events in Australia and Europe. Bradley’s taxable professional income derived from competing in cycling events as well as sponsorship, prizes and awards for winning races and commentating on various cycling events for the previous 4 years was:

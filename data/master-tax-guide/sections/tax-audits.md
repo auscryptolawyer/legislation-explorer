@@ -5,7 +5,6 @@ section: "tax-audits"
 title: "Tax audits"
 paragraph: "¶25-200"
 ---
-
 # Tax audits ¶25-200
 
 A tax audit is the systematic examination of a taxpayer’s aﬀairs by the ATO to determine whether the taxpayer has fully complied with the tax laws. This includes whether the taxpayer has disclosed all assessable income and has correctly claimed deductions or tax oﬀsets in the income years concerned (an audit may cover more than one year). The ATO’s audit programs are also designed to promote voluntary compliance with the tax laws and to help the ATO identify areas of law that may need clariﬁcation.

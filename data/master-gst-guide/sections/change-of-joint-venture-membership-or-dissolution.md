@@ -5,7 +5,6 @@ section: "change-of-joint-venture-membership-or-dissolution"
 title: "Change of joint venture membership or dissolution"
 paragraph: "¶17-230"
 ---
-
 # Change of joint venture membership or dissolution ¶17-230
 
 Joint ventures are able to “self-assess” their eligibility to change the participants in the venture, and to implement this at any time during a tax period, normally without the need to obtain the Commissioner’s approval. The effect is that:

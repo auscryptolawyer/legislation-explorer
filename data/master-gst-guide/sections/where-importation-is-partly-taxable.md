@@ -5,7 +5,6 @@ section: "where-importation-is-partly-taxable"
 title: "Where importation is partly taxable"
 paragraph: "¶9-040"
 ---
-
 # Where importation is partly taxable ¶9-040
 
 It may happen that the importation of the goods is partly taxable and partly non-taxable. For example, the importation may consist of some goods that are subject to GST and some that are GST-free. In this situation, only the taxable part is subject to GST, and the GST value is apportioned accordingly (s 13-25).

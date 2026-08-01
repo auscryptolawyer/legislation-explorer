@@ -5,7 +5,6 @@ section: "quoting-an-abn"
 title: "Quoting an ABN"
 paragraph: "¶33-130"
 ---
-
 # Quoting an ABN ¶33-130
 
 Quoting an ABN on investments Under PAYG withholding, the general rule is that an investment body must withhold tax from investment income if a TFN is not quoted (¶26-200). However, a business may quote either an ABN or a TFN to avoid such withholding. The option to quote an ABN is only available to an entity that made the investment in the course of an enterprise (¶26-200).

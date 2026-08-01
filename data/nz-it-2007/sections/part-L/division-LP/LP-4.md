@@ -8,7 +8,6 @@ section_title: Continuity rules for carrying credits forward
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LP 4  Continuity rules for carrying credits forward
 
 **When this section applies**

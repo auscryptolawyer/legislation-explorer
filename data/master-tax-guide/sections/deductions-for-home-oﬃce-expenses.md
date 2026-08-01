@@ -5,7 +5,6 @@ section: "deductions-for-home-oﬃce-expenses"
 title: "Deductions for home oﬃce expenses"
 paragraph: "¶16-480"
 ---
-
 # Deductions for home oﬃce expenses ¶16-480
 
 A taxpayer who carries on part or all of their business or employment activities at home may be entitled to a deduction for part of their outgoings related to the home. The deductions that may be claimed depend on whether the taxpayer’s home is used as a place of business (eg a doctor’s surgery), or as the sole base for their income earning activity (eg where no other work location is provided to an employee). Alternatively, they depend on whether the home oﬃce is simply used for personal convenience (eg a consultant’s study space used when they work from home as their employer provides for this ﬂexibility, or a teacher’s home study that is used for lesson preparation and marking), noting that the deductions available in the personal convenience situation are fewer.

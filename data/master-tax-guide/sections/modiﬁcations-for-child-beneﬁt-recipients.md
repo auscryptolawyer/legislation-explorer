@@ -5,7 +5,6 @@ section: "modiﬁcations-for-child-beneﬁt-recipients"
 title: "Modiﬁcations for child beneﬁt recipients"
 paragraph: "¶14-330"
 ---
-
 # Modiﬁcations for child beneﬁt recipients ¶14-330
 
 A child who receives a death beneﬁt income stream is entitled to a modiﬁed transfer balance cap which is generally set by reference to the child’s portion of the deceased parent’s retirement phase interests (ITAA97 ss 294-170; 294-175).

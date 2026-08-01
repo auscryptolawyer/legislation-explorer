@@ -5,7 +5,6 @@ section: "net-capital-gain-assessable"
 title: "Net capital gain assessable"
 paragraph: "¶11-030"
 ---
-
 # Net capital gain assessable ¶11-030
 
 A taxpayer’s assessable income includes any net capital gain made by the taxpayer for the income year (s 102-5). Net capital gain is worked out using the following 5 steps.

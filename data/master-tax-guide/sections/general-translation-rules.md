@@ -5,7 +5,6 @@ section: "general-translation-rules"
 title: "General translation rules"
 paragraph: "¶23-070"
 ---
-
 # General translation rules ¶23-070
 
 Subdivisions 960-C and 960-D provide general translation rules for converting foreign currency amounts into Australian dollars for income tax purposes. Division 775 contains the “forex rules” which determine the tax treatment of foreign exchange gains and losses (¶23-075).

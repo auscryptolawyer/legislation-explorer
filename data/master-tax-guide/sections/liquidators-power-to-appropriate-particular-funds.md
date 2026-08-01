@@ -5,7 +5,6 @@ section: "liquidators-power-to-appropriate-particular-funds"
 title: "Liquidator’s power to appropriate particular funds"
 paragraph: "¶4-320"
 ---
-
 # Liquidator’s power to appropriate particular funds ¶4-320
 
 A liquidator may, by a proper system of bookkeeping, so keep the accounts as to be able to make or appropriate particular distributions out of or to particular proﬁts (Archer Brothers (1953) 10 ATD 192; (1953) 90 CLR 140). Amounts so appropriated will represent the proﬁts out of which the appropriation is made. A liquidator can rely on the Archer Brothers principle, except where a speciﬁc provision produces a diﬀerent result (TD 95/10). In the absence of any such system or in the absence of a speciﬁc appropriation, the distribution will be pro-rated among the various elements in the mixed fund.

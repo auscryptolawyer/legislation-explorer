@@ -5,7 +5,6 @@ section: "amendment-powers"
 title: "Amendment powers"
 paragraph: "¶25-300"
 ---
-
 # Amendment powers ¶25-300
 
 The Commissioner’s powers to amend an assessment, or further amend an amended assessment, are set out in ITAA36 s 170 and in s 170A.

@@ -5,7 +5,6 @@ section: "form-of-quoting"
 title: "Form of quoting"
 paragraph: "¶22-430"
 ---
-
 # Form of quoting ¶22-430
 
 A quotation must be made in writing, at or before the time of the dealing, in the approved form (WET Act, s 13-20). The Commissioner has given the following guidelines:

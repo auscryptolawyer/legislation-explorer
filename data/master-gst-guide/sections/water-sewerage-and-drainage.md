@@ -5,7 +5,6 @@ section: "water-sewerage-and-drainage"
 title: "Water, sewerage and drainage"
 paragraph: "¶16-200"
 ---
-
 # Water, sewerage and drainage ¶16-200
 
 Supplies of water are GST-free unless they are supplied in, or transferred to, a container with a capacity of less than 100 litres (s 38-285).

@@ -8,7 +8,6 @@ section_title: Relief from bright-line test for Māori rollover trusts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FD 2  Relief from bright-line test for Māori rollover trusts
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Tax credits for supplementary dividends
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LP 2  Tax credits for supplementary dividends
 
 **When this section applies**

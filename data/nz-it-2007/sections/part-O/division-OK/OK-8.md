@@ -8,7 +8,6 @@ section_title: MACA resident withholding tax withheld
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OK 8  MACA resident withholding tax withheld
 
 **Credit**

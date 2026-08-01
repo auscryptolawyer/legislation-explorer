@@ -8,7 +8,6 @@ section_title: Meaning of ownership continuity breach
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IB 2  Meaning of ownership continuity breach
 
 In this subpart, an ownership continuity breach, for a company, means a breach of the requirements for continuity of ownership of section IA 5 (Restrictions on companies’ loss balances carried forward: continuity of ownership) that, if met, enable a tax loss component of the company to be carried forward in a loss balance.

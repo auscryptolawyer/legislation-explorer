@@ -8,7 +8,6 @@ section_title: Wage intensity criteria
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MX 3  Wage intensity criteria
 
 **Wage intensity criteria**

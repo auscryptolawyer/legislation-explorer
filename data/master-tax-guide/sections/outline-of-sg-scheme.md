@@ -5,7 +5,6 @@ section: "outline-of-sg-scheme"
 title: "Outline of SG scheme"
 paragraph: "¶39-000"
 ---
-
 # Outline of SG scheme ¶39-000
 
 The superannuation guarantee (SG) scheme, administered by the ATO, requires employers to provide a minimum level of superannuation support for each of their employees, subject to limited exemptions. The SG scheme applies on a quarterly basis, with the SG year divided into 4 quarters ending 30 September, 31 December, 31 March and 30 June.

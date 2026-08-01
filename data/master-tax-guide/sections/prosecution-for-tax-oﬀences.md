@@ -5,7 +5,6 @@ section: "prosecution-for-tax-oﬀences"
 title: "Prosecution for tax oﬀences"
 paragraph: "¶29-700"
 ---
-
 # Prosecution for tax oﬀences ¶29-700
 
 Various taxation oﬀences are created by TAA Pt III (ss 8A to 8ZN). The oﬀences carry fairly substantial ﬁnes and, in some cases, a term of imprisonment. The penalties are higher for second or subsequent oﬀences.

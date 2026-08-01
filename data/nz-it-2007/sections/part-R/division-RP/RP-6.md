@@ -8,7 +8,6 @@ section_title: Operation of PAYE intermediaries’ trust accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RP 6  Operation of PAYE intermediaries’ trust accounts
 
 **Nature of account**

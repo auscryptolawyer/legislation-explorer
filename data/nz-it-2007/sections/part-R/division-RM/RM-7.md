@@ -8,7 +8,6 @@ section_title: Refunds to PAYE intermediaries
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RM 7  Refunds to PAYE intermediaries
 
 **When this section applies**

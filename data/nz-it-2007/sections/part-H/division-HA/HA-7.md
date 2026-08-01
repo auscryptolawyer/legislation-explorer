@@ -8,7 +8,6 @@ section_title: Shareholding requirements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HA 7  Shareholding requirements
 
 **Natural persons, certain trustees, and qualifying companies**

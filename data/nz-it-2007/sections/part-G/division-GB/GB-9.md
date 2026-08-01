@@ -8,7 +8,6 @@ section_title: Temporary disposals of direct control or income interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 9  Temporary disposals of direct control or income interests
 
 **When this section applies**

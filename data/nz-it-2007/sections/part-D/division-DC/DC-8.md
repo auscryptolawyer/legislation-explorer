@@ -8,7 +8,6 @@ section_title: Attribution of personal services
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DC 8  Attribution of personal services
 
 **When this section applies**

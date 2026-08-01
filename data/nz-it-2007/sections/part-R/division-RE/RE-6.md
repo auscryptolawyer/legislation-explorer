@@ -8,7 +8,6 @@ section_title: When obligation to withhold unreasonable
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 6  When obligation to withhold unreasonable
 
 **When this section applies**

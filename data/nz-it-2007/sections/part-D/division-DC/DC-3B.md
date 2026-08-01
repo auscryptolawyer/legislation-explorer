@@ -8,7 +8,6 @@ section_title: Payments to working owners
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DC 3B  Payments to working owners
 
 **Deduction**

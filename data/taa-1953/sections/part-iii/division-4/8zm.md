@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8ZM  Evidence of authority to institute proceedings
 
 <a id="s8ZM-1"></a>

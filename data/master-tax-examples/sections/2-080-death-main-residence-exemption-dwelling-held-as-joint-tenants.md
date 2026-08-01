@@ -5,7 +5,6 @@ section: "2-080-death-main-residence-exemption-dwelling-held-as-joint-tenants"
 title: "2-080 - Death main residence exemption dwelling held as joint tenants"
 paragraph: "None"
 ---
-
 # 2-080 - Death main residence exemption dwelling held as joint tenants
 
 Worked example: Death; main residence exemption; dwelling held as joint tenants Issue Robert and Dennis Brown, who were spouses, owned a dwelling as joint tenants. The dwelling, which had been used as the family home, was purchased on 1 July 2015 with a CGT cost base of $400,000. Robert passed away on 15 April 2022 and Dennis continued to live in the dwelling until he moved into a nursing home on 1 February 2024. The dwelling was left vacant after Dennis’ move. On 1 May 2025, it was sold for $1 million including agent’s fees of $10,000.

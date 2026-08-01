@@ -8,7 +8,6 @@ section_title: Schedular payments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 8  Schedular payments
 
 **Meaning**

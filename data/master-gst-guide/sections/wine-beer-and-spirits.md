@@ -5,7 +5,6 @@ section: "wine-beer-and-spirits"
 title: "Wine, beer and spirits"
 paragraph: "¶13-190"
 ---
-
 # Wine, beer and spirits ¶13-190
 
 Alcoholic beverages such as wine, beer and spirits are taxable.

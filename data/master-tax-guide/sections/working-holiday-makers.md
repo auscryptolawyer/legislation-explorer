@@ -5,7 +5,6 @@ section: "working-holiday-makers"
 title: "Working holiday makers"
 paragraph: "¶21-033"
 ---
-
 # Working holiday makers ¶21-033
 
 A special rate of income tax applies to income earned by some working holiday makers (also known as the “backpacker tax”). A working holiday maker is an individual who holds a Subclass 417 (Working Holiday) visa, a Subclass 462 (Work and Holiday) visa or a bridging visa granted in relation to an application for one of the above visas. The rate applies regardless of the status of the individual as either a resident of Australia for income tax purposes or a non-resident.

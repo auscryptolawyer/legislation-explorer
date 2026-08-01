@@ -5,7 +5,6 @@ section: "where-goods-have-previously-been-exported-for-repair"
 title: "Where goods have previously been exported for repair"
 paragraph: "¶9-050"
 ---
-
 # Where goods have previously been exported for repair ¶9-050
 
 Goods that are exported for repair or renovation would normally have already been subject to GST. If those goods are later imported back into Australia, there would be double taxation because GST would already be included in their taxable value. To overcome this, the GST on the import is, in effect, restricted to the value added by the repair or renovation (Div 117).

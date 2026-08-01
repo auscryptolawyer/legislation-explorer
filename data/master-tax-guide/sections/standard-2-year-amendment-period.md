@@ -5,7 +5,6 @@ section: "standard-2-year-amendment-period"
 title: "Standard 2-year amendment period"
 paragraph: "¶25-310"
 ---
-
 # Standard 2-year amendment period ¶25-310
 
 The period during which the Commissioner may amend an assessment for most individuals or some small and medium business entities is generally 2 years. The amendment period applies from the day on which the Commissioner gives notice of the assessment to the taxpayer (s 170(1)). However, small and medium business entities may apply for amendments within 4 years in limited circumstances (¶25-320).

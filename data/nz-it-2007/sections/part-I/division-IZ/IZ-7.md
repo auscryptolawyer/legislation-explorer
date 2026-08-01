@@ -8,7 +8,6 @@ section_title: Grouping tax losses for tax years before 1981–82 and between 19
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IZ 7  Grouping tax losses for tax years before 1981–82 and between 1981–82 and 1991–92
 
 **Commonality period: between 1981–82 and 1991–92**

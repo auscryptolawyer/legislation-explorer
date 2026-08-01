@@ -5,7 +5,6 @@ section: "12-360-gst-supplies-of-combination-foods"
 title: "12-360 - GST Supplies of combination foods"
 paragraph: "None"
 ---
-
 # 12-360 - GST Supplies of combination foods
 
 Worked example: GST: Supplies of combination foods Issue Alison Howard is the finance director of Murgle Foods Pty Ltd, which is about to launch a new product consisting of individual snack packs of hummus and a separate tub of savoury biscuits, packaged together by cardboard wrapping with the product label.

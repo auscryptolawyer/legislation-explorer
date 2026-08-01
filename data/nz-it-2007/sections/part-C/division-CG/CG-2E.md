@@ -8,7 +8,6 @@ section_title: Remitted and other amounts: income apportionment
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 2E  Remitted and other amounts: income apportionment
 
 **When this section applies**

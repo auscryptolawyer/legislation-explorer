@@ -8,7 +8,6 @@ section_title: Fourth requirement: person not receiving benefit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MD 8  Fourth requirement: person not receiving benefit
 
 The fourth requirement for an entitlement to an in-work tax credit is that the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, do not receive—

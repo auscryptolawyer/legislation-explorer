@@ -5,7 +5,6 @@ section: "general-administration-of-gst"
 title: "General administration of GST"
 paragraph: "¶18-000"
 ---
-
 # General administration of GST ¶18-000
 
 The Commissioner of Taxation, as the head of the Australian Taxation Office (ATO), has responsibility for general administration of the GST law (Administration Act Sch 1 s 356-5).

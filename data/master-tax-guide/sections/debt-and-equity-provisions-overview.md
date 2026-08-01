@@ -5,7 +5,6 @@ section: "debt-and-equity-provisions-overview"
 title: "Debt and equity provisions overview"
 paragraph: "¶23-100"
 ---
-
 # Debt and equity provisions overview ¶23-100
 
 The debt and equity rules (ITAA97 Div 974) were introduced to classify certain ﬁnancing arrangements as debt or equity for speciﬁed tax purposes including the thin capitalisation rules (¶22-700), the dividend and interest withholding rules (¶22-010, ¶22-020) and for determining whether a return paid by a company on a ﬁnancing interest that it has issued is frankable. The debt and equity rules are intended to operate on the basis of the economic substance of the arrangement rather than merely its legal form.

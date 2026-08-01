@@ -8,7 +8,6 @@ section_title: Who qualifies for entitlements under family scheme?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MC 2  Who qualifies for entitlements under family scheme?
 
 A person qualifies for an entitlement under the family scheme if, for an entitlement period, they meet—

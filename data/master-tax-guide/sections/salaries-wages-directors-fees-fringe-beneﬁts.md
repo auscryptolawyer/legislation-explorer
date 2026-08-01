@@ -5,7 +5,6 @@ section: "salaries-wages-directors-fees-fringe-beneﬁts"
 title: "Salaries, wages, directors’ fees, fringe beneﬁts"
 paragraph: "¶16-520"
 ---
-
 # Salaries, wages, directors’ fees, fringe beneﬁts ¶16-520
 
 Salary or wages, bonuses, gratuities, allowances (and, in the case of a company, directors’ fees) or other compensation or rewards for personal services paid by a taxpayer engaged in the production of assessable income are deductible to the extent to which they are incurred in producing the taxpayer’s assessable income (ITAA97 s 8-1). This includes parental leave pay provided to employees. However, remuneration paid to persons for the speciﬁc purpose of carrying out an aﬀair of capital (eg employees engaged in the construction of depreciating assets: ID 2011/42; ID 2011/43), or the construction of other tangible or intangible capital assets (TR 2023/2) is of a capital nature and, therefore, not deductible (Goodman Fielder Wattie 91 ATC 4438; [1991] FCA 206). Amounts paid to partners are not salary and are not deductible to the partnership (¶5-090). See ¶16-040 for the deductibility of directors’ fees.

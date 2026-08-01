@@ -5,7 +5,6 @@ section: "12-420-time-limits-for-claiming-an-input-tax-or-fuel-tax-credit"
 title: "12-420 - Time limits for claiming an input tax or fuel tax credit"
 paragraph: "None"
 ---
-
 # 12-420 - Time limits for claiming an input tax or fuel tax credit
 
 tax credit Worked example: Time limits for claiming an input tax or fuel tax credit Issue Roger Lemon carries on a house cleaning business as a sole trader. He is registered for GST and lodges quarterly BASs. On 10 October 2020, he purchases a new carpet steam cleaner for $3,000, which he uses in his cleaning business.

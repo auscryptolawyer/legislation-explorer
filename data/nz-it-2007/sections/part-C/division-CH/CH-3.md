@@ -8,7 +8,6 @@ section_title: Adjustment for deferred payment of employment income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 3  Adjustment for deferred payment of employment income
 
 **When this section applies**

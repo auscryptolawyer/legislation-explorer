@@ -5,7 +5,6 @@ section: "payments-from-which-amounts-must-be-withheld"
 title: "Payments from which amounts must be withheld"
 paragraph: "¶26-120"
 ---
-
 # Payments from which amounts must be withheld ¶26-120
 
 Payments and other transactions subject to PAYG withholding are called “withholding payments”; these are listed in TAA sch 1 s 10-5(1). An amount is taken to have been “paid” when it is applied or dealt with in any way on behalf of the payee or as the payee directs (TAA sch 1 s 11-5).

@@ -5,7 +5,6 @@ section: "withdrawing-a-farm-management-deposit"
 title: "Withdrawing a farm management deposit"
 paragraph: "¶18-310"
 ---
-
 # Withdrawing a farm management deposit ¶18-310
 
 Where an FMD is withdrawn in a year of income, the owner is required to include, as assessable income, an amount that equals the deductible amount previously allowed in respect of the deposit. A withdrawn FMD that is included in assessable income is treated as assessable primary production income for the purpose of working out the deductibility of any new FMD made in that income year.

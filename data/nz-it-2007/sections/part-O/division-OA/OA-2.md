@@ -8,7 +8,6 @@ section_title: Memorandum accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OA 2  Memorandum accounts
 
 **Types of account in this Part**

@@ -5,7 +5,6 @@ section: "special-rules-about-registration"
 title: "Special rules about registration"
 paragraph: "¶3-080"
 ---
-
 # Special rules about registration ¶3-080
 
 Taxi operators are required to be registered, regardless of turnover (s 144-5). A taxi operator is someone who carries on an enterprise that supplies taxi travel. Taxi travel includes transporting fare-paying passengers by taxi or limousine (s 195-1). For further details, see ¶12-130.

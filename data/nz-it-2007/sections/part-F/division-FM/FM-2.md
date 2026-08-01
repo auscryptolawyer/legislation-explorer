@@ -8,7 +8,6 @@ section_title: Consolidation rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FM 2  Consolidation rules
 
 **Purpose**

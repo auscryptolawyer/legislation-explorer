@@ -5,7 +5,6 @@ section: "prepared-meals-and-food"
 title: "Prepared meals and food"
 paragraph: "¶13-140"
 ---
-
 # Prepared meals and food ¶13-140
 
 GST applies to prepared food of a kind listed in Sch 1 items 1-7, namely (s 38-3(1)(c)):

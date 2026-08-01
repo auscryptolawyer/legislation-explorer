@@ -5,7 +5,6 @@ section: "derive-capital-not-income"
 title: "Derive capital, not income"
 paragraph: "¶31-100"
 ---
-
 # Derive capital, not income ¶31-100
 
 In some cases the beneﬁt of an asset or right may be realised in the form of either a capital receipt or a revenue receipt. For example, see ¶10-020.

@@ -5,7 +5,6 @@ section: "tax-free-component-of-a-superannuation-beneﬁt"
 title: "Tax free component of a superannuation beneﬁt"
 paragraph: "¶14-140"
 ---
-
 # Tax free component of a superannuation beneﬁt ¶14-140
 
 The tax free component of a “superannuation interest” (¶14-130) is so much of the value of the interest consisting of the contributions segment and the crystallised segment (ITAA97 s 307-210(1)). If a superannuation beneﬁt is paid from the superannuation interest:

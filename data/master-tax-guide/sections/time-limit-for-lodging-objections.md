@@ -5,7 +5,6 @@ section: "time-limit-for-lodging-objections"
 title: "Time limit for lodging objections"
 paragraph: "¶28-020"
 ---
-
 # Time limit for lodging objections ¶28-020
 
 The time limit for lodging objections against assessments (and certain other taxation decisions) is generally 2 years after service of the notice of assessment for most individuals and small business taxpayers, and 4 years for taxpayers with more complex aﬀairs (or, in the case of companies, superannuation funds, ADFs and PSTs, 4 years after the deemed service of the deemed notice of assessment) (¶25-310; TAA s 14ZW).

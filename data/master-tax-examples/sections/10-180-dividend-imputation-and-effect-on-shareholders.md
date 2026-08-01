@@ -5,7 +5,6 @@ section: "10-180-dividend-imputation-and-effect-on-shareholders"
 title: "10-180 - Dividend imputation and effect on shareholders"
 paragraph: "None"
 ---
-
 # 10-180 - Dividend imputation and effect on shareholders
 
 Worked example: Dividend imputation and effect on shareholders Issue During the 2024–25 income year, Punin Pty Ltd (Punin), a resident Australian private company, pays an $11,200 distribution, with $4,800 franking credits attached to each of its 3 shareholders. The shareholders are:

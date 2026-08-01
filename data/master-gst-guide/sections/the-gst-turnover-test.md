@@ -5,7 +5,6 @@ section: "the-gst-turnover-test"
 title: "The GST turnover test"
 paragraph: "¶3-030"
 ---
-
 # The GST turnover test ¶3-030
 
 An entity is normally required to register for GST if its “GST turnover” is $75,000 or more (s 23-15; reg 23-15). This means that it must register if either of the following applies:

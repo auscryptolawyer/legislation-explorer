@@ -8,7 +8,6 @@ section_title: Double tax agreements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BH 1  Double tax agreements
 
 **Meaning**

@@ -5,7 +5,6 @@ section: "complexity-of-gst"
 title: "Complexity of GST"
 paragraph: "¶1-310"
 ---
-
 # Complexity of GST ¶1-310
 
 One of the advantages claimed for GST over other taxes — such as the sales tax it replaced — is that the GST is much more straightforward, easier to understand and easier to comply with. This is true up to a point.

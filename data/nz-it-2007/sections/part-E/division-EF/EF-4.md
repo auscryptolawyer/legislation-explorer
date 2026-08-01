@@ -8,7 +8,6 @@ section_title: Use of money interest payable by Commissioner
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EF 4  Use of money interest payable by Commissioner
 
 **Timing of income**

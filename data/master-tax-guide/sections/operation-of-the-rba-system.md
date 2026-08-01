@@ -5,7 +5,6 @@ section: "operation-of-the-rba-system"
 title: "Operation of the RBA system"
 paragraph: "¶24-320"
 ---
-
 # Operation of the RBA system ¶24-320
 
 All debts notiﬁed on an activity statement (¶24-200) and any associated payments and credit entitlements for that business can be recorded on an RBA.

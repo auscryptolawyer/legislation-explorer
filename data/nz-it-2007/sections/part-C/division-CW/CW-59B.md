@@ -8,7 +8,6 @@ section_title: Income of and distributions by certain international funds
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 59B  Income of and distributions by certain international funds
 
 **Trustees**

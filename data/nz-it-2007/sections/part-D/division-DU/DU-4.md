@@ -8,7 +8,6 @@ section_title: Acquisition of mineral mining assets
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DU 4  Acquisition of mineral mining assets
 
 **Deduction for assets acquired before mining permits**

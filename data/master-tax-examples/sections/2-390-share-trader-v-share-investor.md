@@ -5,7 +5,6 @@ section: "2-390-share-trader-v-share-investor"
 title: "2-390 - Share trader v share investor"
 paragraph: "None"
 ---
-
 # 2-390 - Share trader v share investor
 
 Worked example: Share trader v share investor Issue Roberta Bateman asks you to assist in the preparation of her income tax return for the year ended 30 June 2025.

@@ -5,7 +5,6 @@ section: "6-140-decline-in-value-deductions-and-balancing-adjustment-on-disposal
 title: "6-140 - Decline in value deductions and balancing adjustment on disposal"
 paragraph: "None"
 ---
-
 # 6-140 - Decline in value deductions and balancing adjustment on disposal
 
 Worked example: Decline in value deductions and balancing adjustment on disposal Issue Jackie Anderson is a qualified hire car driver and, on 1 November 2021, she purchased a new BMW for $80,000, which was to be used in her hire car business as well as for private purposes. Jackie’s logbooks indicate that 80% of the kilometres travelled in a year relate to her hire car business. Jackie estimates that the effective life of the BMW will be 10 years, with a total of 20,000 km driven each year.

@@ -5,7 +5,6 @@ section: "borrowing-and-mortgage-discharge-expenses"
 title: "Borrowing and mortgage discharge expenses"
 paragraph: "¶16-800"
 ---
-
 # Borrowing and mortgage discharge expenses ¶16-800
 
 Expenditure incurred in borrowing money or in the discharge of a mortgage is normally non-deductible capital expenditure. However, ITAA97 s 25-25 speciﬁcally allows a deduction for certain borrowing expenses and ITAA97 s 25-30 allows a deduction for certain mortgage discharge expenses.

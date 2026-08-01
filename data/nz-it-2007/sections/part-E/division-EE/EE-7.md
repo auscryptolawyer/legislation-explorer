@@ -8,7 +8,6 @@ section_title: What is not depreciable property?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EE 7  What is not depreciable property?
 
 The following property is not depreciable property:

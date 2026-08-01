@@ -5,7 +5,6 @@ section: "hire-purchase-arrangements"
 title: "Hire purchase arrangements"
 paragraph: "¶23-250"
 ---
-
 # Hire purchase arrangements ¶23-250
 
 Hire purchase arrangements are subject to speciﬁc rules in ITAA97 Div 240. The TOFA regime in Div 230 does not apply to these arrangements.

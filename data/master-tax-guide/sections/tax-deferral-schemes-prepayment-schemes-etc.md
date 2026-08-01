@@ -5,7 +5,6 @@ section: "tax-deferral-schemes-prepayment-schemes-etc"
 title: "Tax deferral schemes, prepayment schemes, etc"
 paragraph: "¶16-110"
 ---
-
 # Tax deferral schemes, prepayment schemes, etc ¶16-110
 
 Deductions for otherwise allowable expenses may be deferred or denied altogether where the expenses have been incurred under speciﬁc types of tax avoidance schemes.

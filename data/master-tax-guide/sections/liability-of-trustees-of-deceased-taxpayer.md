@@ -5,7 +5,6 @@ section: "liability-of-trustees-of-deceased-taxpayer"
 title: "Liability of trustees of deceased taxpayer"
 paragraph: "¶25-530"
 ---
-
 # Liability of trustees of deceased taxpayer ¶25-530
 
 Special rules apply where the whole of a deceased’s tax liability up to the time of death has not been satisﬁed (TAA sch 1 s 260-140). The Commissioner has the same powers and remedies for the assessment and recovery of tax against the trustees of the deceased’s estate (including the executors and administrators) after death as he would have had against the taxpayer had he/she not died.

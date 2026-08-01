@@ -5,7 +5,6 @@ section: "rate-of-medicare-levy"
 title: "Rate of Medicare levy"
 paragraph: "¶2-320"
 ---
-
 # Rate of Medicare levy ¶2-320
 
 The basic rate of the Medicare levy is 2% of the taxpayer’s taxable income for 2024–25. There is no ceiling on the amount of Medicare levy payable.

@@ -8,7 +8,6 @@ section_title: Payments under financial instruments producing deduction without 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FH 3  Payments under financial instruments producing deduction without income
 
 **When this section applies**

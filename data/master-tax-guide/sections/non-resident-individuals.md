@@ -5,7 +5,6 @@ section: "non-resident-individuals"
 title: "Non-resident individuals"
 paragraph: "¶2-010"
 ---
-
 # Non-resident individuals ¶2-010
 
 Non-resident individuals are required to ﬁle a return if they earned any income from sources in Australia other than dividend, interest or royalty income subject to withholding tax (¶24-010). For the taxation of non- residents generally, see ¶22-000.

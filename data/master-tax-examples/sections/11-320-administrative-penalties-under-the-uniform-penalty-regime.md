@@ -5,7 +5,6 @@ section: "11-320-administrative-penalties-under-the-uniform-penalty-regime"
 title: "11-320 - Administrative penalties under the uniform penalty regime"
 paragraph: "None"
 ---
-
 # 11-320 - Administrative penalties under the uniform penalty regime
 
 Worked example: Administrative penalties under the uniform penalty regime Issue Dorothy Stevens owns and operates a hairdressing salon. Her clients can pay up to $150 for her services.

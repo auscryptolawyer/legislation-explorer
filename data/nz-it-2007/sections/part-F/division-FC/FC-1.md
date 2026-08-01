@@ -8,7 +8,6 @@ section_title: Disposals to which this subpart applies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FC 1  Disposals to which this subpart applies
 
 **Types of distributions and gifts**

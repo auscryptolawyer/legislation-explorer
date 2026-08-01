@@ -8,7 +8,6 @@ section_title: Accommodation expenditure: North Island flooding events
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 29B  Accommodation expenditure: North Island flooding events
 
 **When this section applies**

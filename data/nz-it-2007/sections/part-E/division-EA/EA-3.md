@@ -8,7 +8,6 @@ section_title: Prepayments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EA 3  Prepayments
 
 **When this section applies**

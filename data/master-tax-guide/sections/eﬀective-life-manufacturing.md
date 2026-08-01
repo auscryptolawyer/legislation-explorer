@@ -5,7 +5,6 @@ section: "eﬀective-life-manufacturing"
 title: "Eﬀective life — manufacturing"
 paragraph: "¶43-020"
 ---
-
 # Eﬀective life — manufacturing ¶43-020
 
 (11110 to 25990) Asset                                                       Life (Years)    Reviewed    Date Of Application

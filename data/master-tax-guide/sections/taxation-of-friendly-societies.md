@@ -5,7 +5,6 @@ section: "taxation-of-friendly-societies"
 title: "Taxation of friendly societies"
 paragraph: "¶3-470"
 ---
-
 # Taxation of friendly societies ¶3-470
 
 Taxation of friendly societies can fall under several regimes, depending on the particular society’s activities.

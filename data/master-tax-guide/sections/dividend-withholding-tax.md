@@ -5,7 +5,6 @@ section: "dividend-withholding-tax"
 title: "Dividend withholding tax"
 paragraph: "¶22-010"
 ---
-
 # Dividend withholding tax ¶22-010
 
 A ﬁnal withholding tax is imposed on dividends paid by a resident company to non-residents regardless of whether the dividends are income according to ordinary concepts (ITAA36 s 128B(1)), unless an exception applies.

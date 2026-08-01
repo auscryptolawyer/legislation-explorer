@@ -5,7 +5,6 @@ section: "1-000-assessable-income-royalties"
 title: "1-000 - Assessable income royalties"
 paragraph: "None"
 ---
-
 # 1-000 - Assessable income royalties
 
 Worked example: Assessable income; royalties Issue Creativity Pty Ltd (CPL) is an Australian-based company in the business of creating content for print books, ebooks and short films. In July 2024, CPL entered into a contract with a US-based company, Digital Media Inc (DMI), for the provision of technical expertise in relation to the storage of that content. Under the contract, CPL would pay DMI an initial lump sum and a fee for each occasion on which CPL sought technical advice.

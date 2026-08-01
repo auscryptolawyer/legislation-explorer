@@ -5,7 +5,6 @@ section: "effect-of-gst-on-capital-gains-tax"
 title: "Effect of GST on capital gains tax"
 paragraph: "¶24-060"
 ---
-
 # Effect of GST on capital gains tax ¶24-060
 
 Capital gains tax (CGT) is generally calculated by reference to the difference between the capital proceeds from the asset and its cost base. As with the ordinary income tax rules, the intention is that GST is factored out of CGT calculations unless it represents a real cost or benefit. This would mean, for example, that:

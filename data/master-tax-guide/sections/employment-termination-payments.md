@@ -5,7 +5,6 @@ section: "employment-termination-payments"
 title: "Employment termination payments"
 paragraph: "¶42-270"
 ---
-
 # Employment termination payments ¶42-270
 
 The taxable component of an employment termination payment (ETP) is assessable income (¶14-620); however, a tax oﬀset may be available.

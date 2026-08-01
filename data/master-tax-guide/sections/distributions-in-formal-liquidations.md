@@ -5,7 +5,6 @@ section: "distributions-in-formal-liquidations"
 title: "Distributions in formal liquidations"
 paragraph: "¶4-300"
 ---
-
 # Distributions in formal liquidations ¶4-300
 
 Amounts distributed to shareholders by a liquidator in the course of winding up a company, to the extent that they represent income derived by the company (whether before or during liquidation) other than income that has been properly applied to replace a loss of paid-up share capital, are deemed for tax purposes to be dividends paid by the company out of proﬁts derived by it (ITAA36 s 47(1)).

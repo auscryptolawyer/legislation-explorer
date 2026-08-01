@@ -8,7 +8,6 @@ section_title: Forming imputation groups
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FN 7  Forming imputation groups
 
 **Election**

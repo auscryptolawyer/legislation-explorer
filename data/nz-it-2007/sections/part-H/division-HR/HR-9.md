@@ -8,7 +8,6 @@ section_title: Debt funding special purpose vehicles are transparent if election
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 9  Debt funding special purpose vehicles are transparent if election made by originator
 
 **What this section applies to**

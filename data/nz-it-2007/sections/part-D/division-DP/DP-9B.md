@@ -8,7 +8,6 @@ section_title: Treaty of Waitangi claim settlements: rights to take timber
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DP 9B  Treaty of Waitangi claim settlements: rights to take timber
 
 **When this section applies**

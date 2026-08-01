@@ -5,7 +5,6 @@ section: "sg-record-keeping-and-information-disclosure"
 title: "SG record-keeping and information disclosure"
 paragraph: "¶39-510"
 ---
-
 # SG record-keeping and information disclosure ¶39-510
 
 An employer must keep records that record and explain all transactions and other acts engaged in or required to be engaged in by the employer under the SGAA, regardless of whether the employer is liable to the SG charge. Records must be kept in writing, in English and be retained for 5 years. An employer who, without reasonable excuse, fails to comply commits an oﬀence punishable on conviction by a ﬁne (SGAA s 79). An oﬀence under s 79 is a strict liability oﬀence.

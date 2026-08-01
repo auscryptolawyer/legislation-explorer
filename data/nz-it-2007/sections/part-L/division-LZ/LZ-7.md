@@ -8,7 +8,6 @@ section_title: Maximum amount of credit under section LZ 6
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LZ 7  Maximum amount of credit under section LZ 6
 
 **Maximum amount: 1 person**

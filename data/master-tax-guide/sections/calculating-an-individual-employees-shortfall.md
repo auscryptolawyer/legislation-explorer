@@ -5,7 +5,6 @@ section: "calculating-an-individual-employees-shortfall"
 title: "Calculating an individual employee’s shortfall"
 paragraph: "¶39-300"
 ---
-
 # Calculating an individual employee’s shortfall ¶39-300
 
 To determine if there is an SG shortfall for an employee, an employer needs to calculate the level of superannuation support provided for the employee in a quarter and compare this with the prescribed level of support to be provided (ie the charge percentage).

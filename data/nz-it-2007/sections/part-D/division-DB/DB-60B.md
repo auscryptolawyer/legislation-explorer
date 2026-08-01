@@ -8,7 +8,6 @@ section_title: Liabilities for emissions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 60B  Liabilities for emissions
 
 **When this section applies**

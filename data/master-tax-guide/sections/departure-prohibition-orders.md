@@ -5,7 +5,6 @@ section: "departure-prohibition-orders"
 title: "Departure prohibition orders"
 paragraph: "¶25-550"
 ---
-
 # Departure prohibition orders ¶25-550
 
 The Commissioner can issue a departure prohibition order (DPO) to stop a person with a tax debt leaving Australia (TAA ss 14Q to 14ZA). The issue of a DPO ensures that the debtor does not leave Australia without discharging an outstanding tax liability or without making satisfactory arrangements for it to be discharged.

@@ -8,7 +8,6 @@ section_title: Dividends from certain FIF interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 8B  Dividends from certain FIF interests
 
 **When this section applies**

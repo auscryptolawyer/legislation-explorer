@@ -5,7 +5,6 @@ section: "tax-avoidance-and-tax-evasion"
 title: "Tax avoidance and tax evasion"
 paragraph: "¶31-020"
 ---
-
 # Tax avoidance and tax evasion ¶31-020
 
 The distinction between tax avoidance and tax evasion is often misunderstood by taxpayers. A simplistic, and therefore not strictly accurate, distinction is to say that avoidance involves arrangements within the law that take the taxpayer outside the scope of particular tax legislation, while evasion involves arrangements outside the law where liability to tax, having been incurred, is wilfully concealed or ignored.

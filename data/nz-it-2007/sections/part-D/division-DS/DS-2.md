@@ -8,7 +8,6 @@ section_title: Film production expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DS 2  Film production expenditure
 
 **Deduction**

@@ -8,7 +8,6 @@ section_title: Film production expenditure for New Zealand films having no large
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 7  Film production expenditure for New Zealand films having no large budget film grant
 
 **New Zealand films**

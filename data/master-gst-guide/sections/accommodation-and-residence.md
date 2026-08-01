@@ -5,7 +5,6 @@ section: "accommodation-and-residence"
 title: "Accommodation and residence"
 paragraph: "¶25-100"
 ---
-
 # Accommodation and residence ¶25-100
 
 - The sale of existing residential premises is input taxed, but the sale of new residential premises is

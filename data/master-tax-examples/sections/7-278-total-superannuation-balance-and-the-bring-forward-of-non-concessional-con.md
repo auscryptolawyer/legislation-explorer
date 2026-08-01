@@ -5,7 +5,6 @@ section: "7-278-total-superannuation-balance-and-the-bring-forward-of-non-conces
 title: "7-278 - Total superannuation balance and the bring forward of non-concessional contributions"
 paragraph: "None"
 ---
-
 # 7-278 - Total superannuation balance and the bring forward of non-concessional contributions
 
 Worked example: Total superannuation balance and the bring forward of non-concessional contributions Issue Jane is 55 years old. On 1 March 2025, she sold an investment property she owned in South Africa. She now wishes to use some of the proceeds of that sale to boost her superannuation. She would like to make a non-concessional contribution of $240,000 into her superannuation fund before 30 June 2025 and to make a further non-concessional contribution of $120,000 in the year ended 30 June 2026. She has not previously determined her non-concessional contributions cap for a year by bringing forward non-concessional contributions from a later year.

@@ -8,7 +8,6 @@ section_title: Payment to Crown Bank Account
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EK 1  Payment to Crown Bank Account
 
 Every payment a person makes to the Commissioner under section EK 2—

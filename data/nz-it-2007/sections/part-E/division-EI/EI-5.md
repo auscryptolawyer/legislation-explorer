@@ -8,7 +8,6 @@ section_title: Amount paid to lessor for non-compliance with covenant for repair
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EI 5  Amount paid to lessor for non-compliance with covenant for repair
 
 **When this section applies**

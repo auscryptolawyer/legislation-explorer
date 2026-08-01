@@ -5,7 +5,6 @@ section: "1-250-residence-meaning-of-permanent-place-of-abode"
 title: "1-250 - Residence meaning of permanent place of abode"
 paragraph: "None"
 ---
-
 # 1-250 - Residence meaning of permanent place of abode
 
 Worked example: Residence: meaning of permanent place of abode Issue Richard Barton was born in Australia and lived here until February 2022. Shortly before that date, he was offered a position working for a major international bank in Dubai, United Arab Emirates. Richard moved to Dubai in February 2022. His wife, Jane, and 14-year-old son initially remained in their family home in Adelaide, South Australia with the intention of joining Richard once the school year had ended and alternative schooling had been found in Dubai. Richard sold his car and boat, and took his remaining personal possessions to Dubai with him. He did not intend to return to Australia.

@@ -8,7 +8,6 @@ section_title: Taxable Maori authority distributions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HF 7  Taxable Maori authority distributions
 
 A Maori authority distribution is a taxable Maori authority distribution if—

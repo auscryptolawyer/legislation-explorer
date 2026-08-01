@@ -8,7 +8,6 @@ section_title: Dividends derived by council-controlled organisation holding comp
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 10B  Dividends derived by council-controlled organisation holding companies
 
 A dividend derived by a council-controlled organisation (the recipient) from another person (the payer) is exempt income of the recipient if—

@@ -5,7 +5,6 @@ section: "8-160-variation-of-partnership-interests"
 title: "8-160 - Variation of partnership interests"
 paragraph: "None"
 ---
-
 # 8-160 - Variation of partnership interests
 
 Worked example: Variation of partnership interests Issue Max Caldwell and Sam Robinson operate a dental practice as partners. On 1 April 2025, they admitted a new partner, Kayla Scott, into the partnership. The terms of the partnership agreement provided that the profits and losses of the partnership would be shared 40% each to Max and Sam and 20% to Kayla.

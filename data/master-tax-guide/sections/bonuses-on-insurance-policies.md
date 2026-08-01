@@ -5,7 +5,6 @@ section: "bonuses-on-insurance-policies"
 title: "Bonuses on insurance policies"
 paragraph: "¶10-240"
 ---
-
 # Bonuses on insurance policies ¶10-240
 
 There are diﬀerent types of bonuses payable on life insurance policies: (1) annual bonuses; and (2) reversionary bonuses paid on maturity, forfeiture or surrender of a life policy.

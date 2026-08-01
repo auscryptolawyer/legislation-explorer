@@ -5,7 +5,6 @@ section: "partial-change-in-ownership-of-stock"
 title: "Partial change in ownership of stock"
 paragraph: "¶9-295"
 ---
-
 # Partial change in ownership of stock ¶9-295
 
 A partial change in the ownership of trading stock is treated as a notional disposal of the trading stock by all the old owners to all the new owners (ITAA97 s 70-100). The provision also applies to standing or growing crops, crop-stools or trees planted and tended for sale (ITAA97 s 70-85). A partial change of ownership occurs if, after the change, a new owner and at least one of the old owners has an ownership interest in the trading stock (eg where a partnership is formed, varied or dissolved). For planning aspects, see ¶31-270.

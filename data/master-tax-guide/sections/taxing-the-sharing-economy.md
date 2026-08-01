@@ -5,7 +5,6 @@ section: "taxing-the-sharing-economy"
 title: "Taxing the sharing economy"
 paragraph: "¶2-135"
 ---
-
 # Taxing the sharing economy ¶2-135
 
 The “sharing economy” is a term used to describe economic activity that connects buyers (users) to sellers (providers) of goods and services through an online platform (an app or a website). Such online platforms are usually hosted by a facilitator who is neither the provider nor the consumer of those goods and services.

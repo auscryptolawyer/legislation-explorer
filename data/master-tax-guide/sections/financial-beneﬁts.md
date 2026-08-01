@@ -5,7 +5,6 @@ section: "financial-beneﬁts"
 title: "Financial beneﬁts"
 paragraph: "¶23-110"
 ---
-
 # Financial beneﬁts ¶23-110
 
 A “ﬁnancial beneﬁt” means anything of economic value and includes property and services (ITAA97 s 974-160).

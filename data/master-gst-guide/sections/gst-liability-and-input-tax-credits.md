@@ -5,7 +5,6 @@ section: "gst-liability-and-input-tax-credits"
 title: "GST liability and input tax credits"
 paragraph: "¶1-100"
 ---
-
 # GST liability and input tax credits ¶1-100
 
 GST applies where you supply goods or services — including real property and rights — in the course of carrying on an enterprise such as a business. These are called taxable supplies. For there to be a taxable supply, you must normally be registered, the supply must be made for consideration and it must be connected to Australia (¶4-000).

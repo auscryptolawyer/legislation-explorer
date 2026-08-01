@@ -5,7 +5,6 @@ section: "miscellaneous-penalties"
 title: "Miscellaneous penalties"
 paragraph: "¶29-310"
 ---
-
 # Miscellaneous penalties ¶29-310
 
 Electronic sales suppression tools In order to deter the use or distribution of sales suppression technology to keep incorrect electronic point of sale records, penalties apply for:

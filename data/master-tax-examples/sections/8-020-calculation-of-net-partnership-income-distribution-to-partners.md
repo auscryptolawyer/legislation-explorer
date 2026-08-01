@@ -5,7 +5,6 @@ section: "8-020-calculation-of-net-partnership-income-distribution-to-partners"
 title: "8-020 - Calculation of net partnership income distribution to partners"
 paragraph: "None"
 ---
-
 # 8-020 - Calculation of net partnership income distribution to partners
 
 Worked example: Calculation of net partnership income; distribution to partners Issue James Ney is a retired public servant. Wishing to remain active, he and his wife, Joanne, invested in a clothing shop that is managed by their 25-year-old daughter, Lisa, in partnership with her parents.

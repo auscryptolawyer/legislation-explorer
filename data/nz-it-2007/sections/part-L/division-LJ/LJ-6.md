@@ -8,7 +8,6 @@ section_title: Taxable distributions and NRWT rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LJ 6  Taxable distributions and NRWT rules
 
 **When this section applies**

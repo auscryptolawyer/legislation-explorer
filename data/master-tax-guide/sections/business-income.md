@@ -5,7 +5,6 @@ section: "business-income"
 title: "Business income"
 paragraph: "¶10-110"
 ---
-
 # Business income ¶10-110
 
 Australian tax law generally requires the gross earnings or proceeds of a business, and not the gross proﬁt, to be included in assessable income.

@@ -5,7 +5,6 @@ section: "rounding-off-rules-for-gst"
 title: "Rounding off rules for GST"
 paragraph: "¶4-205"
 ---
-
 # Rounding off rules for GST ¶4-205
 
 Special “rounding off” rules apply where the amount of GST involves a fraction of a cent (s 9-90).

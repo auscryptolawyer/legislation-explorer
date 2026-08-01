@@ -5,7 +5,6 @@ section: "4-230-work-related-travel-home-to-work-travel"
 title: "4-230 - Work-related travel home to work travel"
 paragraph: "None"
 ---
-
 # 4-230 - Work-related travel home to work travel
 
 Worked example: Work-related travel; home to work travel Gillian works for a large accountancy firm based in Melbourne, which has several offices across Victoria. She lives in Frankston and works as a manager at the Melbourne CBD office. Her role requires her to deal with work issues outside of ordinary office hours and this is reflected in the salary that she is paid.

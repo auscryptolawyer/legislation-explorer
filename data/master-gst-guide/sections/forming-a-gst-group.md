@@ -5,7 +5,6 @@ section: "forming-a-gst-group"
 title: "Forming a GST group"
 paragraph: "¶17-010"
 ---
-
 # Forming a GST group ¶17-010
 
 GST groups may consist of companies, trusts, individuals, non-profit bodies, partnerships or government bodies.

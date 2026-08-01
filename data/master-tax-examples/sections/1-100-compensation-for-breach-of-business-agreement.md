@@ -5,7 +5,6 @@ section: "1-100-compensation-for-breach-of-business-agreement"
 title: "1-100 - Compensation for breach of business agreement"
 paragraph: "None"
 ---
-
 # 1-100 - Compensation for breach of business agreement
 
 Worked example: Compensation for breach of business agreement Issue Australian Oil Distributors (AOD) supplies petrol and oil products to a number of independent service stations (Independents). AOD receives bulk petrol and oil products under an agreement with Mid-Eastern Oil (MEO) for which AOD pays MEO $1 million annually.

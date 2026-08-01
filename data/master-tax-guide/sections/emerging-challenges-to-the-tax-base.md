@@ -5,7 +5,6 @@ section: "emerging-challenges-to-the-tax-base"
 title: "Emerging challenges to the tax base"
 paragraph: "¶30-005"
 ---
-
 # Emerging challenges to the tax base ¶30-005
 
 Globalisation and rapid technological change are major causes of social, legal and economic disruption.

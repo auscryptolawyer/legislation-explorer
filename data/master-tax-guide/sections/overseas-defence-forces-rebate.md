@@ -5,7 +5,6 @@ section: "overseas-defence-forces-rebate"
 title: "Overseas defence forces rebate"
 paragraph: "¶15-180"
 ---
-
 # Overseas defence forces rebate ¶15-180
 
 A special rebate is available to a taxpayer who serves in a qualifying overseas locality as a member of the Australian Defence Forces (ADF) (ITAA36 s 79B).

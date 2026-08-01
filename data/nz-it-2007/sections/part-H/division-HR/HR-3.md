@@ -8,7 +8,6 @@ section_title: Definitions for section HR 2: group investment funds
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 3  Definitions for section HR 2: group investment funds
 
 **Category A income**

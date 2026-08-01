@@ -8,7 +8,6 @@ section_title: Life insurers’ claims
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DR 4  Life insurers’ claims
 
 **No deduction on account of claims**

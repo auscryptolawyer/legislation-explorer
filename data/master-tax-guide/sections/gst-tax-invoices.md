@@ -5,7 +5,6 @@ section: "gst-tax-invoices"
 title: "GST tax invoices"
 paragraph: "¶34-140"
 ---
-
 # GST tax invoices ¶34-140
 
 In general, an input tax credit for a creditable acquisition cannot be claimed unless the recipient holds a “tax invoice” at the time it lodges its GST return for the tax period to which the credit is attributable (s 29-10(3); Chalmers 2008 ATC ¶10-021; [2008] AATA 308). If this requirement is not satisﬁed, the credit claim will be deferred until the tax period for which the requirement is satisﬁed. However, the mere existence of a tax invoice is not, by itself, suﬃcient to establish that a creditable acquisition has in fact occurred (GH1 Pty Ltd (In Liq) 2017 ATC ¶10-461; [2017] AATA 1063). There is no obligation to hold a tax invoice if the value of the supply (excluding GST) is $75 or less (s 29-80(1)).

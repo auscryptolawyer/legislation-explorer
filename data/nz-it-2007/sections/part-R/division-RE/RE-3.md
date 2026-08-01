@@ -8,7 +8,6 @@ section_title: Obligation to withhold RWT
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 3  Obligation to withhold RWT
 
 **Obligation to withhold and pay**

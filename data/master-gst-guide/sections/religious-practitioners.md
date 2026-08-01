@@ -5,7 +5,6 @@ section: "religious-practitioners"
 title: "Religious practitioners"
 paragraph: "¶15-053"
 ---
-
 # Religious practitioners ¶15-053
 
 Where religious practitioners are acting as employees of religious institutions, they are outside the scope of GST in the same way as other employees, and do not have to register unless they are carrying on some other activities that amount to an enterprise (¶3-020).

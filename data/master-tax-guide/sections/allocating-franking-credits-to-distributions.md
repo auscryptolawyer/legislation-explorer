@@ -5,7 +5,6 @@ section: "allocating-franking-credits-to-distributions"
 title: "Allocating franking credits to distributions"
 paragraph: "¶4-640"
 ---
-
 # Allocating franking credits to distributions ¶4-640
 
 A corporate tax entity evidences its intended allocation of franking credits to a frankable distribution by stating the amount of the franking credit on the distribution statement for that distribution (ID 2005/65). The amount of the franking credit on a distribution is the amount stated in the distribution statement, unless the amount stated exceeds the maximum franking credit for the distribution (ITAA97 s 202-60(1)). A public company is required to determine the extent to which it intends to frank a distribution prior to making the distribution, and the distribution statement must reﬂect that intention (ID 2005/65). The Commissioner will permit a distribution statement to be amended only where the amount shown on the statement was not intended. For further information regarding distribution statements, see ¶4-690.

@@ -8,7 +8,6 @@ section_title: Amounts that are exempt income or excluded income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CA 2  Amounts that are exempt income or excluded income
 
 **What this section does**

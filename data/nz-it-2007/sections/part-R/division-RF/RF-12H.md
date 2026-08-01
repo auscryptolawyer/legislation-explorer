@@ -8,7 +8,6 @@ section_title: Meaning of related-party debt
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 12H  Meaning of related-party debt
 
 **Meaning of related-party debt**

@@ -5,7 +5,6 @@ section: "special-education-courses"
 title: "“Special education” courses"
 paragraph: "¶14-012"
 ---
-
 # “Special education” courses ¶14-012
 
 Education courses that provide special programs designed specifically for children with disabilities, and/or students with disabilities, are GST-free (s 38-85; 195-1). In GST Ruling GSTR 2002/1, the ATO sets out the following views on the requirements for this exemption:

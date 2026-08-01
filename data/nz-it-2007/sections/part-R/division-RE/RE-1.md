@@ -8,7 +8,6 @@ section_title: RWT rules and their application
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 1  RWT rules and their application
 
 **Meaning**

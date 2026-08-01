@@ -5,7 +5,6 @@ section: "education-courses"
 title: "Education courses"
 paragraph: "¶14-002"
 ---
-
 # Education courses ¶14-002
 
 - pre-school and primary school courses delivered in accordance with a curriculum by a recognised

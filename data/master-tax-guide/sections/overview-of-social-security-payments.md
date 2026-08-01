@@ -5,7 +5,6 @@ section: "overview-of-social-security-payments"
 title: "Overview of social security payments"
 paragraph: "¶10-190"
 ---
-
 # Overview of social security payments ¶10-190
 
 Most pensions paid under the social security and the veterans’ entitlements legislation to persons of pension age (¶10-195) and to wives of men of pension age are assessable. Some of these pensions are assessable irrespective of the age of the recipient. For details of the treatment of pensions, beneﬁts and allowances, see ¶10-195 to ¶10-204.

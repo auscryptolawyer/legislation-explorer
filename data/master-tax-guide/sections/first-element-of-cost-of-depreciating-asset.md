@@ -5,7 +5,6 @@ section: "first-element-of-cost-of-depreciating-asset"
 title: "First element of cost of depreciating asset"
 paragraph: "¶17-100"
 ---
-
 # First element of cost of depreciating asset ¶17-100
 
 The ﬁrst element of cost of a depreciating asset generally represents the amount the taxpayer has paid or is taken to have paid in order to hold the asset, and is worked out when the taxpayer begins to hold the asset (ITAA97 s 40-180).

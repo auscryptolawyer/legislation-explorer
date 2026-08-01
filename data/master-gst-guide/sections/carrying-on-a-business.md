@@ -5,7 +5,6 @@ section: "carrying-on-a-business"
 title: "Carrying on a business"
 paragraph: "¶1-255"
 ---
-
 # Carrying on a business ¶1-255
 
 The first requirement for a small business entity is that it is carrying on a business (ITAA 1997 s 328-110).

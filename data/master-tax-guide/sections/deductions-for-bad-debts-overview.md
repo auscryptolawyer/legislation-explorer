@@ -5,7 +5,6 @@ section: "deductions-for-bad-debts-overview"
 title: "Deductions for bad debts: overview"
 paragraph: "¶16-580"
 ---
-
 # Deductions for bad debts: overview ¶16-580
 
 Reserves or provisions for doubtful debts are not deductible. Before a deduction is allowable, the debt must be bad. That is a question of fact, dependent on the circumstances of each case, but generally a debt is bad in any of the following circumstances (TR 92/18):

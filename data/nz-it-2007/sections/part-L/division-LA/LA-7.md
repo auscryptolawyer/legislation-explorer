@@ -8,7 +8,6 @@ section_title: Remaining refundable credits: tax credits for social policy and o
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LA 7  Remaining refundable credits: tax credits for social policy and other initiatives
 
 **What this section applies to**

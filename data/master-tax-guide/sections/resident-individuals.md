@@ -5,7 +5,6 @@ section: "resident-individuals"
 title: "Resident individuals"
 paragraph: "¶2-000"
 ---
-
 # Resident individuals ¶2-000
 
 The requirements for lodging annual returns are set out by the Commissioner towards the end of each ﬁnancial year via Legislative Instrument (see the Australian Government Federal Register of Legislation website).

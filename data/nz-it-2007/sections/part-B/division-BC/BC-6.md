@@ -8,7 +8,6 @@ section_title: Income tax liability of filing taxpayer
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BC 6  Income tax liability of filing taxpayer
 
 **Calculation of amount**

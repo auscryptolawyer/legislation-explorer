@@ -5,7 +5,6 @@ section: "when-consideration-is-received-or-provided"
 title: "When consideration is received or provided"
 paragraph: "¶7-325"
 ---
-
 # When consideration is received or provided ¶7-325
 
 Timing of consideration determines attribution of a supply (or credit) to a tax period. This first necessitates identification, within the context of the supply or transaction, of the supply (¶4-010) and the consideration for that supply (¶4-020). Where non-cash components are included, such as real property development, this can be a complex analysis (¶11-110).

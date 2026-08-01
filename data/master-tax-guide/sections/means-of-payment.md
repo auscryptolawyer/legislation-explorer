@@ -5,7 +5,6 @@ section: "means-of-payment"
 title: "Means of payment"
 paragraph: "¶25-430"
 ---
-
 # Means of payment ¶25-430
 
 Payment of a tax-related liability (¶25-500) must be in Australian currency. The tax-related liability must be paid using a method approved by the Commissioner and in accordance with any instructions provided by the Commissioner (TAR s 21).

@@ -5,7 +5,6 @@ section: "oﬀshore-information-notices"
 title: "Oﬀshore information notices"
 paragraph: "¶21-220"
 ---
-
 # Oﬀshore information notices ¶21-220
 
 To enforce the accruals taxation system, and for other purposes, the Commissioner may need to gain access to information and documents located in foreign countries. To this end, the Commissioner can issue a 90-day “oﬀshore information notice” under TAA sch 1 s 353-25 requesting a taxpayer to furnish information and/or documents which the Commissioner has reason to believe are relevant to the assessment of the taxpayer.

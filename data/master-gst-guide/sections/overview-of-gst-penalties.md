@@ -5,7 +5,6 @@ section: "overview-of-gst-penalties"
 title: "Overview of GST penalties"
 paragraph: "¶18-300"
 ---
-
 # Overview of GST penalties ¶18-300
 
 Some other GST-related administrative penalties that may apply include the following (all legislative references are to the Administration Act unless otherwise specified). For the current value of a “penalty unit”, see ¶18-000: Offence                                                                           Penalty Failure to pay GST on time (Sch 1 s 105-80)                                       General interest charge Failure to pay a penalty on time (Sch 1 s 105-80)                                 General interest charge Failure to register for GST purposes (Sch 1 s 288-40)                             20 penalty units Failure to cancel registration (Sch 1 s 288-40)                                   20 penalty units Base penalty of one penalty unit for each 28-day Failure to provide a GST return (BAS) on time (Sch 1 Div 286)                     period, with maximum of 5 penalty units. Further increases dependent on size of entity* Failure to keep records (Sch 1 s 288-25)                                          20 penalty units Failure to issue a tax invoice (Sch 1 s 288-45)                                   20 penalty units Failure to issue an adjustment note (Sch 1 s 288-45)                              20 penalty units Failure to notify GST to recipient of low value supply (¶9-130) 20 penalty units (Sch 1 s 288-45)

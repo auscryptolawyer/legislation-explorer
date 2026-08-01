@@ -5,7 +5,6 @@ section: "4-030-travel-expenses-for-residential-rental-property"
 title: "4-030 - Travel expenses for residential rental property"
 paragraph: "None"
 ---
-
 # 4-030 - Travel expenses for residential rental property
 
 Worked example: Travel expenses for residential rental property Issue William has been a longstanding client of your accountancy practice. He is a professional self-employed electrician who lives in Melbourne and owns 2 residential rental properties in the Melbourne metropolitan area that are rented on long-term leases. He also owns a holiday apartment on the Gold Coast that he lets out on short-term leases through the Airbnb platform.

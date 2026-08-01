@@ -5,7 +5,6 @@ section: "unpaid-present-entitlements"
 title: "Unpaid present entitlements"
 paragraph: "¶4-246"
 ---
-
 # Unpaid present entitlements ¶4-246
 
 Under Subdiv EA (ITAA36 ss 109XA to 109XD), a loan (¶4-210), payment or forgiven debt is subject to the deemed dividend rules of Div 7A where:

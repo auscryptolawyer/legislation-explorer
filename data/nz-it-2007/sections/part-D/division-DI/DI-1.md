@@ -8,7 +8,6 @@ section_title: New investment assets
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DI 1  New investment assets
 
 **Purpose**

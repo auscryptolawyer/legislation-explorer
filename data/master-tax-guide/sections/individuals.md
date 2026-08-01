@@ -5,7 +5,6 @@ section: "individuals"
 title: "individuals"
 paragraph: "¶13-620"
 ---
-
 # individuals ¶13-620
 
 An individual whose income and relevant concessionally taxed superannuation contributions exceed a prescribed threshold in an income year is liable to pay Division 293 tax of 15% on the excess (ITAA97 Div 293; Superannuation (Sustaining the Superannuation Contribution Concession) Imposition Act 2012). Where the tax applies, the individual’s concessional contributions exceeding the threshold are therefore subject to a total tax of 30% (ie 15% contributions tax in the hands of the recipient superannuation fund (¶13-125) plus 15% Division 293 tax in the hands of the individual).

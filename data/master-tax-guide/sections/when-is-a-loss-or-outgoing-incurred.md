@@ -5,7 +5,6 @@ section: "when-is-a-loss-or-outgoing-incurred"
 title: "When is a loss or outgoing incurred?"
 paragraph: "¶16-040"
 ---
-
 # When is a loss or outgoing incurred? ¶16-040
 
 To be deductible in a particular year, the expenditure must generally have been incurred in that year (ITAA97 s 8-1). Special rules apply to prepayments (¶16-045).

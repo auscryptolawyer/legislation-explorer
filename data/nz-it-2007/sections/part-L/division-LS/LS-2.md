@@ -8,7 +8,6 @@ section_title: Tax credits for investors in multi-rate PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LS 2  Tax credits for investors in multi-rate PIEs
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "law-companion-rulings"
 title: "Law companion rulings"
 paragraph: "¶24-600"
 ---
-
 # Law companion rulings ¶24-600
 
 Law Companion Rulings (LCRs), as explained in LCR 2015/1, express the Commissioner’s view on how recently enacted law applies to taxpayers. In particular, they seek to provide insight into the practical implications of new law in ways that may go beyond mere questions of interpretation. For example, an LCR may:

@@ -5,7 +5,6 @@ section: "gst-and-insurance"
 title: "GST and insurance"
 paragraph: "¶34-210"
 ---
-
 # GST and insurance ¶34-210
 
 The supply of life insurance is treated as a ﬁnancial supply (¶34-190) and is input taxed. Health insurance is GST-free. General insurance is taxable.

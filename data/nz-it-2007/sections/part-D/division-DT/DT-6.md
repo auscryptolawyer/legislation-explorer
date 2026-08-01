@@ -8,7 +8,6 @@ section_title: Expenditure on petroleum mining assets
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DT 6  Expenditure on petroleum mining assets
 
 Expenditure that a person incurs in acquiring a petroleum mining asset is treated as petroleum development expenditure if, at the time the asset is acquired,—

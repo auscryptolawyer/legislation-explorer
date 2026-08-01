@@ -5,7 +5,6 @@ section: "separate-cgt-assets"
 title: "Separate CGT assets"
 paragraph: "¶11-410"
 ---
-
 # Separate CGT assets ¶11-410
 
 For CGT purposes, there are exceptions to the common law principle that what is attached to land is part of the land. Special rules apply about buildings and adjacent land and when a capital improvement is treated as a separate CGT asset.

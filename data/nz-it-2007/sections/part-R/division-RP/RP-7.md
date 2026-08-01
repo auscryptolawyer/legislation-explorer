@@ -8,7 +8,6 @@ section_title: General responsibilities of employers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RP 7  General responsibilities of employers
 
 **When this section applies**

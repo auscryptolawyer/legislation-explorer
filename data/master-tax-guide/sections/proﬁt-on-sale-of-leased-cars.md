@@ -5,7 +5,6 @@ section: "proﬁt-on-sale-of-leased-cars"
 title: "Proﬁt on sale of leased cars"
 paragraph: "¶10-380"
 ---
-
 # Proﬁt on sale of leased cars ¶10-380
 
 Where a leased car used for income-producing purposes is subsequently purchased by the lessee or an associate who then disposes of it, any proﬁt made on the disposal is assessable in the hands of the lessee or associate, as the case may be, under ITAA97 Subdiv 20-B (ss 20-100 to 20-160). The proﬁt is taxable on a basis that recoups the deductions claimed for the lease payments.

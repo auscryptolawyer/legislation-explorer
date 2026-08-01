@@ -8,7 +8,6 @@ section_title: Eligibility rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FN 4  Eligibility rules
 
 **When company eligible**

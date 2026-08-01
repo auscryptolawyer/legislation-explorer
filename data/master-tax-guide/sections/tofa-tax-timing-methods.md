@@ -5,7 +5,6 @@ section: "tofa-tax-timing-methods"
 title: "TOFA tax timing methods"
 paragraph: "¶23-040"
 ---
-
 # TOFA tax timing methods ¶23-040
 
 Division 230 provides that gains and losses on ﬁnancial arrangements should be recognised by using one of 6 tax timing methods. There are 2 default methods: accruals method and realisation method; and 4 elective methods: fair value method, foreign exchange retranslation method, hedging ﬁnancial arrangements method and ﬁnancial reports method.

@@ -5,7 +5,6 @@ section: "assessability-of-social-security-payments"
 title: "Assessability of social security payments"
 paragraph: "¶10-195"
 ---
-
 # Assessability of social security payments ¶10-195
 
 Most social security payments are assessable, with a portion of the payment being exempt (ITAA97 ss 52-5 to 52-40). However, special rebates are allowable for recipients of some types of social security payments.

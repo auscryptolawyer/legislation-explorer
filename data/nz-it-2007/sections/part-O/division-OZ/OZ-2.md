@@ -8,7 +8,6 @@ section_title: No imputation debit for pre-imputation refund
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OZ 2  No imputation debit for pre-imputation refund
 
 No imputation debit arises in the imputation credit account of an ICA company for a refund of income tax for a pre-imputation income year.

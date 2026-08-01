@@ -5,7 +5,6 @@ section: "withholding-on-other-income"
 title: "Withholding on other income"
 paragraph: "¶22-060"
 ---
-
 # Withholding on other income ¶22-060
 
 Every person in Australia holding moneys due to a non-resident who derives Australian source income or capital gains, or who is a shareholder, debenture holder or depositor in a company deriving such income or capital gains, is deemed to be the non-resident’s agent (ITAA36 ss 254; 255). This ensures the collection of tax due by non-residents, particularly where they do not carry on business or furnish returns in Australia.

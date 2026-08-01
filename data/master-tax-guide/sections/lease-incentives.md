@@ -5,7 +5,6 @@ section: "lease-incentives"
 title: "Lease incentives"
 paragraph: "¶10-116"
 ---
-
 # Lease incentives ¶10-116
 
 In general, a cash incentive paid to a business taxpayer to enter into a lease of business premises is assessable income (Montgomery 99 ATC 4749; [1999] HCA 34, Cooling 90 ATC 4472; [1990] FCA 297, O’Connell 2002 ATC 4628; [2002] FCA 904). In Montgomery 99 ATC 4749; [1999] HCA 34, the High Court held that payments received by a law ﬁrm as an incentive to enter into a lease of premises were assessable income, even though they were not received by the ﬁrm in the ordinary course of its business.

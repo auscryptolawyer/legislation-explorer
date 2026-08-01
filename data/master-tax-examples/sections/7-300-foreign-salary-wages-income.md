@@ -5,7 +5,6 @@ section: "7-300-foreign-salary-wages-income"
 title: "7-300 - Foreign salary wages income"
 paragraph: "None"
 ---
-
 # 7-300 - Foreign salary wages income
 
 Worked example: Foreign salary; wages income Issue Matt Coates is a sergeant-major with the Australian Defence Force who worked overseas for 13 months.

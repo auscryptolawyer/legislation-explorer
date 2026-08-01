@@ -8,7 +8,6 @@ section_title: Persons to whom main income equalisation scheme applies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EH 3  Persons to whom main income equalisation scheme applies
 
 **Meaning of farmer, fisher, and forester for main income equalisation scheme**

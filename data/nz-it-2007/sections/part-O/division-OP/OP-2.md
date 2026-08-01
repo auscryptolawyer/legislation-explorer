@@ -8,7 +8,6 @@ section_title: When credits and debits arise only in group accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 2  When credits and debits arise only in group accounts
 
 **Credits only in group account**

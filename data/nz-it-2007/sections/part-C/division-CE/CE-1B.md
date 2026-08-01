@@ -8,7 +8,6 @@ section_title: General rule: accommodation provided by employers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 1B  General rule: accommodation provided by employers
 
 **Value of accommodation**

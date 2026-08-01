@@ -5,7 +5,6 @@ section: "valuing-in-house-property-beneﬁts"
 title: "Valuing in-house property beneﬁts"
 paragraph: "¶35-520"
 ---
-
 # Valuing in-house property beneﬁts ¶35-520
 
 There are 2 sets of rules for valuing in-house beneﬁts, depending on who provided the property and the activities of that person.

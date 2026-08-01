@@ -8,7 +8,6 @@ section_title: Expected value method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 15F  Expected value method
 
 **When this section applies**

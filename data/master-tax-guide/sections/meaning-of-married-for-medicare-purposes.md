@@ -5,7 +5,6 @@ section: "meaning-of-married-for-medicare-purposes"
 title: "Meaning of married for Medicare purposes"
 paragraph: "¶2-300"
 ---
-
 # Meaning of married for Medicare purposes ¶2-300
 
 Income thresholds for the Medicare levy (¶2-330) and the Medicare levy surcharge (¶2-335) depend on whether the taxpayer is married but the deﬁnition is quite wide. A taxpayer’s spouse may be treated as a dependant of the taxpayer for levy purposes (¶2-310).

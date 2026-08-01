@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 14ZZF  Giving documents to the ART
 
 <a id="s14ZZF-1"></a>

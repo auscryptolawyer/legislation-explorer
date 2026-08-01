@@ -8,7 +8,6 @@ section_title: PAYE rules and their application
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 2  PAYE rules and their application
 
 **Meaning**

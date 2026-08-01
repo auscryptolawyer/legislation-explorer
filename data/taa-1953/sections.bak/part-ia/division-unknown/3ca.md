@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 3CA  Reporting of information by corporate country by country reporting entities
 
 <a id="s3CA-1"></a>

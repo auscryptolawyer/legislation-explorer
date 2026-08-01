@@ -5,7 +5,6 @@ section: "real-property"
 title: "Real property"
 paragraph: "¶34-230"
 ---
-
 # Real property ¶34-230
 
 In general, the sale of pre-existing residential premises is input taxed if the premises are real property to be used predominantly for residential purposes (s 40-65; Sunchen 2010 ATC ¶20-229; [2010] FCAFC 138). In most cases, the sale of an existing home will not be subject to GST in any event, as the owner will normally not be selling in the course of business and will not be required to be registered.

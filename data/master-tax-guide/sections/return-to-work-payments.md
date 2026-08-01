@@ -5,7 +5,6 @@ section: "return-to-work-payments"
 title: "Return to work payments"
 paragraph: "¶10-074"
 ---
-
 # Return to work payments ¶10-074
 
 Ordinarily, amounts paid to induce a person to return to work are assessable, regardless of how the payments are described or paid, or by whom they are paid (ITAA97 s 15-3). Likewise, an amount paid to induce a person to commence employment is assessable (Pickford 98 ATC 2268; [1998] AATA 707). Section 15-3 is designed to ensure that such payments are not free of tax because, for example, they are designated as representing compensation for hardship suﬀered as a result of dismissal or are not paid by the employer concerned.

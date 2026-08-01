@@ -5,7 +5,6 @@ section: "outline-of-fringe-beneﬁts"
 title: "Outline of fringe beneﬁts"
 paragraph: "¶35-060"
 ---
-
 # Outline of fringe beneﬁts ¶35-060
 
 - a beneﬁt is provided to an employee, an associate of an employee, or some other person at the

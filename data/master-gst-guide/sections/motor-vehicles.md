@@ -5,7 +5,6 @@ section: "motor-vehicles"
 title: "Motor vehicles"
 paragraph: "¶25-200"
 ---
-
 # Motor vehicles ¶25-200
 
 - GST may apply where a motor vehicle is sold or leased as part of a business (¶4-000).

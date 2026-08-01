@@ -5,7 +5,6 @@ section: "oﬀsets-for-low-and-middle-income-taxpayers"
 title: "Oﬀsets for low and middle income taxpayers"
 paragraph: "¶15-300"
 ---
-
 # Oﬀsets for low and middle income taxpayers ¶15-300
 
 Low income tax offset (LITO) “Low income” resident individuals are entitled to a rebate (ITAA97 ss 61-110, 61-115) referred to as the low income tax oﬀset, or LITO. From 1 July 2020, the amount of the rebate is $700 (s 61-115(1)) which applies to taxable incomes of up to $37,500. Above this amount, LITO is tapered oﬀ at 2 diﬀerent levels. Individuals with taxable incomes between:

@@ -8,7 +8,6 @@ section_title: Classes of income treated as having New Zealand source
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 4  Classes of income treated as having New Zealand source
 
 **What this section does**

@@ -5,7 +5,6 @@ section: "how-many-payg-instalments-are-payable"
 title: "How many PAYG instalments are payable?"
 paragraph: "¶27-170"
 ---
-
 # How many PAYG instalments are payable? ¶27-170
 
 PAYG instalments may be payable annually, quarterly or monthly. The rules for determining the frequency of PAYG instalments are summarised below: Quarterly instalments A taxpayer who has been given an instalment rate by the Commissioner is liable to pay quarterly PAYG instalments, one for each quarter of the income year, unless the taxpayer is eligible to pay an annual instalment and chooses to do so or is required to pay monthly (TAA s 45-50).

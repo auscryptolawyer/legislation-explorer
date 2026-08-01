@@ -5,7 +5,6 @@ section: "preventing-inter-entity-loss-multiplication"
 title: "Preventing inter-entity loss multiplication"
 paragraph: "¶3-135"
 ---
-
 # Preventing inter-entity loss multiplication ¶3-135
 
 Where a “loss company” (see below) experiences an alteration in its ownership or control, or its shares are declared worthless, the tax values of controlling stakeholders’ equity and debt interests in the company may be reduced. Interests held by individuals are not aﬀected. The purpose of the reductions is to prevent duplicate or multiple recognition of the company’s losses up the ownership chain when inter-entity interests in the loss company are realised.

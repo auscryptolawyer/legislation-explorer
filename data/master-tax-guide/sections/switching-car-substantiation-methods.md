@@ -5,7 +5,6 @@ section: "switching-car-substantiation-methods"
 title: "Switching car substantiation methods"
 paragraph: "¶16-375"
 ---
-
 # Switching car substantiation methods ¶16-375
 
 A diﬀerent method of substantiation (logbook method or cents per kilometre method) can be used for each car held by the taxpayer for income-producing purposes. The taxpayer can also switch from one method to another year by year (ITAA97 s 28-20). While a taxpayer can only use one method for all car expenses for one car in a particular income year, that choice may be changed (eg if during the Commissioner’s audit, the taxpayer decides to adopt a diﬀerent method).

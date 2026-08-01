@@ -8,7 +8,6 @@ section_title: Meaning of airport operator’s activities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 7  Meaning of airport operator’s activities
 
 **Meaning of airport operator’s activities**

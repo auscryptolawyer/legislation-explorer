@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 160ZZZA Notional payment of interest by branch to bank
 
 <a id="s160ZZZA-1"></a>

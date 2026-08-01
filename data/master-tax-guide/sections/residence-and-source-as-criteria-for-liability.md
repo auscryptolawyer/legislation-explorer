@@ -5,7 +5,6 @@ section: "residence-and-source-as-criteria-for-liability"
 title: "Residence and source as criteria for liability"
 paragraph: "¶21-000"
 ---
-
 # Residence and source as criteria for liability ¶21-000
 
 There are 2 main criteria for liability to Australian tax: residence and source of income. In general, it is necessary to determine whether or not the taxpayer concerned is a resident of Australia and then to determine the source of the income concerned.

@@ -5,7 +5,6 @@ section: "payg-first-home-super-saver-released-amounts"
 title: "PAYG: First Home Super Saver released amounts"
 paragraph: "¶26-335"
 ---
-
 # PAYG: First Home Super Saver released amounts ¶26-335
 
 The Commissioner must withhold an amount from the First Home Super Saver (FHSS) released amounts paid in respect of a person (s 12-460). For details of the FHSS Scheme, see ¶13-790.

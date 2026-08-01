@@ -8,7 +8,6 @@ section_title: GST ratio method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RC 8  GST ratio method
 
 **Using GST ratio**

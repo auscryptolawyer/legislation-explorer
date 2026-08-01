@@ -5,7 +5,6 @@ section: "superannuation-levies"
 title: "Superannuation levies"
 paragraph: "¶13-935"
 ---
-
 # Superannuation levies ¶13-935
 
 All superannuation entities are liable to pay a superannuation supervisory levy each year to recover the cost of their supervision by APRA and the Commissioner. Superannuation entities (with certain exceptions) may also be liable to pay a ﬁnancial assistance funding levy (see below).

@@ -5,7 +5,6 @@ section: "interest-rates-for-car-and-loan-fringe-beneﬁts"
 title: "Interest rates for car and loan fringe beneﬁts"
 paragraph: "¶42-405"
 ---
-
 # Interest rates for car and loan fringe beneﬁts ¶42-405
 
 The taxable value of most loan fringe beneﬁts is determined by reference to a notional amount of interest called the statutory interest rate for the year for which the beneﬁt is being valued (¶35-290).

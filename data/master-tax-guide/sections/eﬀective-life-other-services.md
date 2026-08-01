@@ -5,7 +5,6 @@ section: "eﬀective-life-other-services"
 title: "Eﬀective life — other services"
 paragraph: "¶43-095"
 ---
-
 # Eﬀective life — other services ¶43-095
 
 (94110 to 96030) Asset                                                       Life (Years)     Reviewed    Date Of Application

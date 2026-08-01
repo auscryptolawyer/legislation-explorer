@@ -5,7 +5,6 @@ section: "available-tax-incentives"
 title: "Available tax incentives"
 paragraph: "¶20-000"
 ---
-
 # Available tax incentives ¶20-000
 
 - business expenditure on research and development (R&D) (¶20-150)

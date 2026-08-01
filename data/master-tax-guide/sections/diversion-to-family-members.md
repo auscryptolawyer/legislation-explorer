@@ -5,7 +5,6 @@ section: "diversion-to-family-members"
 title: "Diversion to family members"
 paragraph: "¶31-510"
 ---
-
 # Diversion to family members ¶31-510
 
 Ordinarily, the most obvious recipients of diverted income would be the members of a taxpayer’s family.

@@ -8,7 +8,6 @@ section_title: Two trustees with common settlor
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YB 7  Two trustees with common settlor
 
 **Association**

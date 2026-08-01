@@ -5,7 +5,6 @@ section: "eﬀect-of-gst-on-deductions"
 title: "Eﬀect of GST on deductions"
 paragraph: "¶16-860"
 ---
-
 # Eﬀect of GST on deductions ¶16-860
 
 The special provisions dealing with the interaction of the GST and the calculation of deductions (¶34-000) have the following eﬀect (ITAA97 ss 27-1 to 27-35). (1) No deduction is available for the GST component of a loss or outgoing to the extent that the taxpayer is entitled to an input tax credit for the acquisition or to a decreasing adjustment of GST to allow a greater input tax credit for the acquisition.

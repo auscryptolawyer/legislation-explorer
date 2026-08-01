@@ -8,7 +8,6 @@ section_title: Payment of tax by public authorities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RA 7  Payment of tax by public authorities
 
 A public authority that pays an amount under this Act acts within its capacity, whether further appropriation is made or not.

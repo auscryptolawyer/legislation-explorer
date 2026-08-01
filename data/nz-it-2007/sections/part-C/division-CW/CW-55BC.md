@@ -8,7 +8,6 @@ section_title: Water organisations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 55BC  Water organisations
 
 **(1)**  An amount of income derived by a water organisation is exempt income if—

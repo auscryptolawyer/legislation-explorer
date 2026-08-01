@@ -5,7 +5,6 @@ section: "11-100-tax-liability-on-income-earned-by-deceased-taxpayer-while-alive
 title: "11-100 - Tax liability on income earned by deceased taxpayer while alive"
 paragraph: "None"
 ---
-
 # 11-100 - Tax liability on income earned by deceased taxpayer while alive
 
 Worked example: Tax liability on income earned by deceased taxpayer while alive Issue In June 2022, Alec Leamas was notified of assessments of income tax for the years ending 30 June 2017 to 30 June 2021.

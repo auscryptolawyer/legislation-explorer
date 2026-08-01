@@ -8,7 +8,6 @@ section_title: Income from disposal of original shares under returning share tra
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EA 5  Income from disposal of original shares under returning share transfers
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "income-tax-assessment-acts-and-regulations"
 title: "Income Tax Assessment Acts and Regulations"
 paragraph: "¶1-130"
 ---
-
 # Income Tax Assessment Acts and Regulations ¶1-130
 
 There are 2 principal Commonwealth Acts dealing with, but not imposing, an income tax: ITAA36 and ITAA97. By the late 1980s/early 1990s, the ITAA36 had become so complicated and unwieldy that the Tax Law Improvement Project (TLIP) was established to restructure, renumber and rewrite the income tax law.

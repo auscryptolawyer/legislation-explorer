@@ -5,7 +5,6 @@ section: "thin-capitalisation-debt-deduction-creation-rules"
 title: "Thin capitalisation: debt deduction creation rules"
 paragraph: "¶22-710"
 ---
-
 # Thin capitalisation: debt deduction creation rules ¶22-710
 
 The debt deduction creation rules (DDCRs) in Subdiv 820-EAA address the risk of a taxpayer having excessive debt deductions for debts created in connection with an acquisition from an associate entity or distributions or payments to an associate entity for income years starting on or after 1 July 2024.

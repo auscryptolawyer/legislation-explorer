@@ -5,7 +5,6 @@ section: "payments-on-termination-of-employment"
 title: "Payments on termination of employment"
 paragraph: "¶14-600"
 ---
-
 # Payments on termination of employment ¶14-600
 
 The concessional taxation of payments made in consequence of the termination of employment is governed by ITAA97 Pt 2-40:

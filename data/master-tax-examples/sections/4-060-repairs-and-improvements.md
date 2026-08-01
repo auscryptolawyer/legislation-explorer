@@ -5,7 +5,6 @@ section: "4-060-repairs-and-improvements"
 title: "4-060 - Repairs and improvements"
 paragraph: "None"
 ---
-
 # 4-060 - Repairs and improvements
 
 Worked example: Repairs and improvements Issue On 17 July 2024, Ken Fong acquired a restaurant as a going concern, paying $850,000 for the land and buildings, plant and equipment and goodwill. Upon taking possession, Ken realised that the plumbing and electrical systems required repairing. In August 2024, he spent $27,000 for the repairs so that the restaurant could open for business.

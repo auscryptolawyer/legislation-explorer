@@ -8,7 +8,6 @@ section_title: Method required for shares subject to certain returning share tra
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 47B  Method required for shares subject to certain returning share transfers
 
 A person must use the comparative value method to calculate FIF income or FIF loss for an income year from an attributing interest that is a share subject to a returning share transfer if—

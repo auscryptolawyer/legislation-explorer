@@ -8,7 +8,6 @@ section_title: Treatment of distributions from retirement savings schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MB 6  Treatment of distributions from retirement savings schemes
 
 **When this section applies**

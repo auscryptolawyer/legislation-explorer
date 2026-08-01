@@ -8,7 +8,6 @@ section_title: Interest apportionment: public project debt
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 10B  Interest apportionment: public project debt
 
 **When this section applies**

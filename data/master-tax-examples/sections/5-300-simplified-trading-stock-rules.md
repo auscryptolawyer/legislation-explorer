@@ -5,7 +5,6 @@ section: "5-300-simplified-trading-stock-rules"
 title: "5-300 - Simplified trading stock rules"
 paragraph: "None"
 ---
-
 # 5-300 - Simplified trading stock rules
 
 Worked example: Simplified trading stock rules Issue Max Edison runs a business as an importer of novelty keyrings. He satisfies the criteria to be a small business entity and uses the accruals accounting method. Max has 11,000 keyrings in stock as at 30 June 2024, which he valued for tax purposes at a cost of $1.50 per unit ($16,500).

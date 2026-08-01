@@ -8,7 +8,6 @@ section_title: Time periods for certain accommodation expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 16C  Time periods for certain accommodation expenditure
 
 **Time limits: out-of-town secondments**

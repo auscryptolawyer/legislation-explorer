@@ -5,7 +5,6 @@ section: "disposal-of-leased-car"
 title: "(disposal of leased car)"
 paragraph: "¶10-410"
 ---
-
 # (disposal of leased car) ¶10-410
 
 One of the ceilings imposed on the proﬁt that is assessable under ITAA97 Subdiv 20-B is the amount of notional depreciation attributed to the lessee for the lease period (¶10-400). This is a notional calculation; no depreciation would in fact have been allowed because the lessee was not the owner of the car.

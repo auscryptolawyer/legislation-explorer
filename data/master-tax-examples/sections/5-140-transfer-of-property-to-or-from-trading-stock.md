@@ -5,7 +5,6 @@ section: "5-140-transfer-of-property-to-or-from-trading-stock"
 title: "5-140 - Transfer of property to or from trading stock"
 paragraph: "None"
 ---
-
 # 5-140 - Transfer of property to or from trading stock
 
 Worked example: Transfer of property to or from trading stock Issue Elite Cars Pty Ltd (Elite) sells prestige cars to the public. During the 2024–25 income year, the manager changed his company car which was usual practice in the company. The car was used exclusively for business to visit customers and attend meetings at various locations with sales representatives. The manager used his own car for private purposes.

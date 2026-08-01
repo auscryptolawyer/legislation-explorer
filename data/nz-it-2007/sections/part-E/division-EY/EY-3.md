@@ -8,7 +8,6 @@ section_title: Shareholder base
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EY 3  Shareholder base
 
 **Shareholder base income**

@@ -5,7 +5,6 @@ section: "key-gst-concepts-rates-and-thresholds"
 title: "Key GST concepts, rates and thresholds"
 paragraph: "¶25-040"
 ---
-
 # Key GST concepts, rates and thresholds ¶25-040
 
 Rates GST: 10% of value of taxable supply (¶4-200) Luxury car tax: 33% (¶23-200) Wine equalisation tax: 29% of taxable value of dealing (¶22-000). th Withholding rate on newly constructed residential premises or new residential subdivisions: normally 1/11 , but may be 7% if margin scheme used (¶11-022).

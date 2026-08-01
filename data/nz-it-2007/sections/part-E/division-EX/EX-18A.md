@@ -8,7 +8,6 @@ section_title: Scheme for finding person’s attributed CFC income or loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 18A  Scheme for finding person’s attributed CFC income or loss
 
 **Formula and rules for calculation**

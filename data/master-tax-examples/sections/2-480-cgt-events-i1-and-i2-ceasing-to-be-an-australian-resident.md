@@ -5,7 +5,6 @@ section: "2-480-cgt-events-i1-and-i2-ceasing-to-be-an-australian-resident"
 title: "2-480 - CGT events I1 and I2 Ceasing to be an Australian resident"
 paragraph: "None"
 ---
-
 # 2-480 - CGT events I1 and I2 Ceasing to be an Australian resident
 
 Worked example: CGT events I1 and I2: Ceasing to be an Australian resident Issue Melanie is an Australian tax resident and works in the Sydney office of a major investment bank, which is headquartered in London. On 1 May 2025, she is posted to the UK for a 5-year secondment, with the possibility of a further extension. Melanie relocates to the UK together with her husband and children. During her time in the UK, Melanie is a foreign resident for Australian tax purposes.

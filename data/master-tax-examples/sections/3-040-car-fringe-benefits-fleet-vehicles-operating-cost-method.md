@@ -5,7 +5,6 @@ section: "3-040-car-fringe-benefits-fleet-vehicles-operating-cost-method"
 title: "3-040 - Car fringe benefits fleet vehicles operating cost method"
 paragraph: "None"
 ---
-
 # 3-040 - Car fringe benefits fleet vehicles operating cost method
 
 Worked example: Car fringe benefits; fleet vehicles; operating cost method Issue MediPlus Pty Ltd is in the business of selling medical equipment and prostheses to surgeons. During the 2024–25 FBT year, the company has a fleet of 25 vehicles which it provides to its employees to carry equipment for sales calls and to provide on-call assistance to surgeons at hospitals. The cars are normally garaged at the employees’ homes overnight and are primarily used for work purposes.

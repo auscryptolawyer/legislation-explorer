@@ -5,7 +5,6 @@ section: "income-received-in-arrears"
 title: "Income received in arrears"
 paragraph: "¶15-340"
 ---
-
 # Income received in arrears ¶15-340
 
 Individual taxpayers who receive certain income in a lump sum payment containing an amount that accrued in earlier income years may be entitled to a rebate of tax (ITAA36 ss 159ZR to 159ZRD).

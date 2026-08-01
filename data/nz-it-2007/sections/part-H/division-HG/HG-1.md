@@ -8,7 +8,6 @@ section_title: Joint venturers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HG 1  Joint venturers
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "cancellation-of-tax-beneﬁts"
 title: "Cancellation of tax beneﬁts"
 paragraph: "¶30-180"
 ---
-
 # Cancellation of tax beneﬁts ¶30-180
 
 If a taxpayer obtains a tax beneﬁt in connection with a scheme to which ITAA36 Pt IVA applies, the

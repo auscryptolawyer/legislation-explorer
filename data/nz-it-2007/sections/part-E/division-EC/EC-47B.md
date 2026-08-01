@@ -8,7 +8,6 @@ section_title: Removal of high-priced bloodstock from New Zealand after earlier 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 47B  Removal of high-priced bloodstock from New Zealand after earlier deductions
 
 **When this section applies**

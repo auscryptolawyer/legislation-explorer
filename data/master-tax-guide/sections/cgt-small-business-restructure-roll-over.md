@@ -5,7 +5,6 @@ section: "cgt-small-business-restructure-roll-over"
 title: "CGT small business restructure roll-over"
 paragraph: "¶12-380"
 ---
-
 # CGT small business restructure roll-over ¶12-380
 
 Optional roll-over relief is available for the transfer of assets as part of a change of legal structure without a change in the ultimate legal ownership of the assets pursuant to Subdiv 328-G. The roll-over relief is available for gains and losses that arise on the transfer of CGT assets, trading stock, revenue assets and depreciating assets.

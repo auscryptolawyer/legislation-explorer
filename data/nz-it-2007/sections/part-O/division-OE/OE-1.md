@@ -8,7 +8,6 @@ section_title: General rules for persons with branch equivalent tax accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OE 1  General rules for persons with branch equivalent tax accounts
 
 **BETA company**

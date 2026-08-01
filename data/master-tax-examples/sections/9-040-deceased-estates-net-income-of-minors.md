@@ -5,7 +5,6 @@ section: "9-040-deceased-estates-net-income-of-minors"
 title: "9-040 - Deceased estates net income of minors"
 paragraph: "None"
 ---
-
 # 9-040 - Deceased estates net income of minors
 
 Worked example: Deceased estates; net income of minors Issue Harry Michaels died on 24 August 2023. Harry’s daughter, Siobhan, is the executor of his estate.

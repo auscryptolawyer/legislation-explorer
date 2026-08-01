@@ -5,7 +5,6 @@ section: "oﬀset-of-div-7a-dividend-against-subsequent-dividend"
 title: "Oﬀset of Div 7A dividend against subsequent dividend"
 paragraph: "¶4-252"
 ---
-
 # Oﬀset of Div 7A dividend against subsequent dividend ¶4-252
 
 The situation may arise where a Div 7A dividend (eg a loan) is oﬀset wholly or partly against a subsequent dividend. In that case, the amount of the subsequent dividend that has been set oﬀ is treated as if it were not a dividend (and is neither assessable income nor exempt income), to the extent that the subsequent dividend is unfranked (s 109ZC). The franked portion is not reduced. There is a corresponding provision which applies where a dividend is applied to repay all or part of a loan to which the Div 7A trust rules have applied (s 109ZCA).

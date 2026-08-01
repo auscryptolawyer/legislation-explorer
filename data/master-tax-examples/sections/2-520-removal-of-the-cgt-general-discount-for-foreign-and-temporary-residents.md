@@ -5,7 +5,6 @@ section: "2-520-removal-of-the-cgt-general-discount-for-foreign-and-temporary-re
 title: "2-520 - Removal of the CGT general discount for foreign and temporary residents"
 paragraph: "None"
 ---
-
 # 2-520 - Removal of the CGT general discount for foreign and temporary residents
 
 Worked example: Removal of the CGT general discount for foreign and temporary residents Issue Anna Johnson is an Australian citizen who moved to London to take up a job with a large investment bank on 1 July 2019. She remains in London with her husband, Paul, who is also an Australian citizen. She met him while working at the bank but Paul has lived in London for longer — since 1 July 2010.

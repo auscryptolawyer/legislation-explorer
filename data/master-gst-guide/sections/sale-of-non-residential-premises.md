@@ -5,7 +5,6 @@ section: "sale-of-non-residential-premises"
 title: "Sale of non-residential premises"
 paragraph: "¶11-050"
 ---
-
 # Sale of non-residential premises ¶11-050
 
 Sales of non-residential premises are subject to GST, as are sales of new residential premises and commercial residential premises (s 40-65).

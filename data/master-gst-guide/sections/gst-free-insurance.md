@@ -5,7 +5,6 @@ section: "gst-free-insurance"
 title: "GST-free insurance"
 paragraph: "¶10-140"
 ---
-
 # GST-free insurance ¶10-140
 
 The supply of private health insurance is GST-free (¶13-370), so no GST applies to contributions and the insurance company can claim input tax credits on its normal business inputs. The same applies to travel insurance for travel outside Australia (¶12-020) and insurance for the international transport of goods (¶12-010).

@@ -5,7 +5,6 @@ section: "12-040-partly-taxable-supplies"
 title: "12-040 - Partly taxable supplies"
 paragraph: "None"
 ---
-
 # 12-040 - Partly taxable supplies
 
 Worked example: Partly taxable supplies Issue Amchem Pty Ltd operates a chain of chemists throughout Australia. The company has discovered that it can increase business by taking phone orders and delivering the orders to its customers.

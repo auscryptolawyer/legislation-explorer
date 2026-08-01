@@ -5,7 +5,6 @@ section: "former-foreign-superannuation-funds"
 title: "Former foreign superannuation funds"
 paragraph: "¶13-270"
 ---
-
 # Former foreign superannuation funds ¶13-270
 
 If a foreign superannuation fund becomes an Australian superannuation fund (¶13-100) during a year of income, its assessable income in the year it changes its status will include its ordinary income and statutory income from previous years as calculated using the formula below (ITAA97 s 295-320, item 3): asset values less member contributions where:

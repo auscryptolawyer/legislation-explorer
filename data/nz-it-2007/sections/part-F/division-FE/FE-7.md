@@ -8,7 +8,6 @@ section_title: Apportionment of interest by reporting bank
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 7  Apportionment of interest by reporting bank
 
 **When this section applies**

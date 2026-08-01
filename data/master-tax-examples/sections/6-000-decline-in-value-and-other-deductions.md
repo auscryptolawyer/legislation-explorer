@@ -5,7 +5,6 @@ section: "6-000-decline-in-value-and-other-deductions"
 title: "6-000 - Decline in value and other deductions"
 paragraph: "None"
 ---
-
 # 6-000 - Decline in value and other deductions
 
 Worked example: Decline in value and other deductions Issue Angela Codak runs a studio photography business. On 1 September 2024 Angela decided to extend her business and purchased audio-visual equipment. The equipment cost $12,000 plus $400 for installation and $1,800 for a one-year contract for 2 hours’ training each month for the first 6 months. Angela was advised that the equipment had an effective life of 4 years. She also commissioned the development of film editing software for $3,500.

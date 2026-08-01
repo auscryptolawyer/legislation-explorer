@@ -8,7 +8,6 @@ section_title: Interest on home vendor mortgages
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LZ 6  Interest on home vendor mortgages
 
 **When this section applies**

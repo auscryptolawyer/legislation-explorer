@@ -8,7 +8,6 @@ section_title: Election to treat certain excepted financial arrangements as fina
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 8  Election to treat certain excepted financial arrangements as financial arrangements
 
 **Election**

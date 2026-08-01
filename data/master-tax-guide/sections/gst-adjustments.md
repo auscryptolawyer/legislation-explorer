@@ -5,7 +5,6 @@ section: "gst-adjustments"
 title: "GST adjustments"
 paragraph: "¶34-145"
 ---
-
 # GST adjustments ¶34-145
 
 Adjustments to previously declared GST or input tax credits are required where, because of subsequent events or circumstances, the GST paid or payable or input tax credit claimed or claimable is incorrect.

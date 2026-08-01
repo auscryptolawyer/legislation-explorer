@@ -5,7 +5,6 @@ section: "private-rulings"
 title: "Private rulings"
 paragraph: "¶24-560"
 ---
-
 # Private rulings ¶24-560
 
 The Commissioner may, on application, make a private ruling on the way in which he considers a tax law applies to a taxpayer in relation to a speciﬁed scheme (TAA sch 1 s 359-5). A private ruling may deal with issues relating to liability, administration, procedure and collection, and ultimate conclusions of fact, including valuations that are necessary in dealing with the application of the law (see below).

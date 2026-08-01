@@ -8,7 +8,6 @@ section_title: Company and person other than company
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YB 3  Company and person other than company
 
 **Company and 25% voting interest holder**

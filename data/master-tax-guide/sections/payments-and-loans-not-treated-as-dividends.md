@@ -5,7 +5,6 @@ section: "payments-and-loans-not-treated-as-dividends"
 title: "Payments and loans not treated as dividends"
 paragraph: "¶4-225"
 ---
-
 # Payments and loans not treated as dividends ¶4-225
 
 The following payments (¶4-205) and loans (¶4-210) are not treated as dividends under Div 7A:

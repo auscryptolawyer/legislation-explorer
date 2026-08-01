@@ -5,7 +5,6 @@ section: "how-an-investor-quotes-a-tfn"
 title: "How an investor quotes a TFN"
 paragraph: "¶33-040"
 ---
-
 # How an investor quotes a TFN ¶33-040
 
 The rules for quoting a TFN in relation to an investment are in ITAA36 ss 202D to 202DM. An investor quotes a TFN to an investment body by informing it, either directly or via an agent, of the number in the approved manner. For investments made through a securities dealer, it is suﬃcient to inform the dealer of the number.

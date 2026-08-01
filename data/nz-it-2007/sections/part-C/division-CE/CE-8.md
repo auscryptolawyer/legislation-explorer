@@ -8,7 +8,6 @@ section_title: Attributed income from personal services
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 8  Attributed income from personal services
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "fringe-benefits-and-gst"
 title: "Fringe benefits and GST"
 paragraph: "¶24-200"
 ---
-
 # Fringe benefits and GST ¶24-200
 
 Special rules apply to goods or services provided to employees if they are subject to fringe benefits tax (FBT) or are exempt fringe benefits (such as a mobile phone or laptop computer). The effect is that no GST will be payable on those benefits unless the employee makes a contribution or payment to the employer towards the cost of the benefit (s 9-75(3)). Where a payment or contribution is made, it is treated as consideration for th the supply of the benefit. The GST will therefore be calculated as 1/11 of that amount.

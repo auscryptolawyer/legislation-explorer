@@ -5,7 +5,6 @@ section: "introduction-to-payg-withholding"
 title: "Introduction to PAYG withholding"
 paragraph: "¶26-100"
 ---
-
 # Introduction to PAYG withholding ¶26-100
 
 The Pay As You Go (PAYG) withholding system is found in TAA sch 1 Pt 2-5 (ss 10-1 to 20-80). Under PAYG withholding, a person who makes certain kinds of payments must withhold an amount from the payment, and then pay that amount to the Commissioner. PAYG also applies to non-cash beneﬁts, and may also apply to certain payments of personal services income.

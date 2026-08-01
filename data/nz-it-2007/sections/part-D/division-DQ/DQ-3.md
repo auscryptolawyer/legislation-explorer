@@ -8,7 +8,6 @@ section_title: Thinning operations income equalisation scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DQ 3  Thinning operations income equalisation scheme
 
 **Deduction**

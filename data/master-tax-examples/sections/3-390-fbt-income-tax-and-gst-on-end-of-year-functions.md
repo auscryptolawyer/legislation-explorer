@@ -5,7 +5,6 @@ section: "3-390-fbt-income-tax-and-gst-on-end-of-year-functions"
 title: "3-390 - FBT income tax and GST on end of year functions"
 paragraph: "None"
 ---
-
 # 3-390 - FBT income tax and GST on end of year functions
 
 Worked example: FBT, income tax and GST on end of year functions Issue Goose Pty Ltd holds a Christmas party for its staff, to which it also invites selected clients. The function is held off-site, at a local reception centre, on the evening of Saturday 9 December 2024 and is attended by 60 employees, 20 spouses or partners of employees and 20 clients.

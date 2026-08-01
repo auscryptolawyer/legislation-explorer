@@ -5,7 +5,6 @@ section: "some-general-cgt-rules"
 title: "Some general CGT rules"
 paragraph: "¶11-190"
 ---
-
 # Some general CGT rules ¶11-190
 
 Property or money given or received Several CGT provisions say that a payment, cost or expenditure can include giving property, eg CGT event C3. Where this happens, the market value of the property is used in working out the amount of the payment, cost or expenditure (s 103-5).

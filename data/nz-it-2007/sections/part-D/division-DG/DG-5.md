@@ -8,7 +8,6 @@ section_title: Meaning and treatment of interest expenditure for this subpart
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DG 5  Meaning and treatment of interest expenditure for this subpart
 
 **Interest expenditure**

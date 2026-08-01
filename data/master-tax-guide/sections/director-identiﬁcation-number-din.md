@@ -5,7 +5,6 @@ section: "director-identiﬁcation-number-din"
 title: "Director identiﬁcation number (DIN)"
 paragraph: "¶33-090"
 ---
-
 # Director identiﬁcation number (DIN) ¶33-090
 
 The “director identiﬁcation number” (DIN) legislation is found in Pt 9.1A of the Corporations Act 2001. The DIN legislation commenced on 4 April 2021. For details of transitional arrangements that applied to persons subject to the DIN legislation see the 2023 Australian Master Tax Guide — Tax Year End Edition.

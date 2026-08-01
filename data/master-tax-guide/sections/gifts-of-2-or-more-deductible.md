@@ -5,7 +5,6 @@ section: "gifts-of-2-or-more-deductible"
 title: "Gifts of $2 or more deductible"
 paragraph: "¶16-942"
 ---
-
 # Gifts of $2 or more deductible ¶16-942
 
 Every person, whether an individual, the trustee of a trust estate or superannuation fund, a partnership or a company, and whether a resident or non-resident of Australia, is entitled to a deduction from assessable income for individual gifts of money or property of $2 or more made during the year to nominated funds (including private ancillary funds), authorities, institutions or bodies or classes of them, or speciﬁed persons (Div 30: ss 30-1 to 30-320). Note that it is proposed to remove the $2 minimum requirement (see below). A deduction is also allowed for gifts of publicly listed shares that have been held for at least 12 months and which are valued at $5,000 or less. However, a deduction is generally not available unless the recipient is registered with the ACNC Commissioner or speciﬁcally listed by name in ITAA97 or its regulations (see below).

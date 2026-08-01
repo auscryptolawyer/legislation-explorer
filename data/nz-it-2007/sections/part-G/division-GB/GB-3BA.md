@@ -8,7 +8,6 @@ section_title: Arrangements for carrying forward loss balances: companies’ bus
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 3BA  Arrangements for carrying forward loss balances: companies’ business activities
 
 **When this section applies**

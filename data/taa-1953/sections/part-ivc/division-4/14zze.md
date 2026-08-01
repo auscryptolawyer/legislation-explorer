@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 14ZZE  Hearings before ART to be held in private if applicant so requests
 
 Despite section 69 (hearings to be in public unless practice directions or Tribunal order requires otherwise) of the ART Act, the hearing of a proceeding before the ART for:

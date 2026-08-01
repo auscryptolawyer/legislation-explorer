@@ -8,7 +8,6 @@ section_title: What happens when persons stop being originators?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 10B  What happens when persons stop being originators?
 
 **When subsections (2), (3), and (4) apply**

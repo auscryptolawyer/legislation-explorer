@@ -5,7 +5,6 @@ section: "voluntary-payments-or-gifts"
 title: "Voluntary payments or gifts"
 paragraph: "¶10-070"
 ---
-
 # Voluntary payments or gifts ¶10-070
 
 A voluntary payment or gift that is properly characterised, in the hands of the recipient, as a product or incident of employment or a reward for services (including for past services) is assessable income, even if paid or given by a third party (Moorhouse v Dooland (1955) Ch 284, Mews 2008 ATC ¶10-025; [2008] AATA 357). However, a voluntary payment or gift that is not related in any way to personal exertion will not be assessable (Hayes (1956) 11 ATD 68; (1956) 96 CLR 47).

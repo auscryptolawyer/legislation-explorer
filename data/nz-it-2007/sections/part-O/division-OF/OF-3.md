@@ -8,7 +8,6 @@ section_title: Choosing to become ASC account company
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OF 3  Choosing to become ASC account company
 
 **Election**

@@ -5,7 +5,6 @@ section: "attributable-income-of-a-non-resident-trust-estate"
 title: "Attributable income of a non-resident trust estate"
 paragraph: "¶21-320"
 ---
-
 # Attributable income of a non-resident trust estate ¶21-320
 
 The attributable income of a non-resident trust estate depends on whether the trust estate is resident in a listed or unlisted country (¶21-130).

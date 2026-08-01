@@ -8,7 +8,6 @@ section_title: Treatment of companies and trusts that choose to apply this subpa
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HF 9  Treatment of companies and trusts that choose to apply this subpart
 
 **Company becoming Maori authority**

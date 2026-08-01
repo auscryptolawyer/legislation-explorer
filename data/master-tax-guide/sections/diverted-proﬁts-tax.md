@@ -5,7 +5,6 @@ section: "diverted-proﬁts-tax"
 title: "Diverted proﬁts tax"
 paragraph: "¶30-205"
 ---
-
 # Diverted proﬁts tax ¶30-205
 
 The diverted proﬁts tax (DPT) gives the Commissioner power to deal with multinationals who transfer proﬁts to oﬀshore associates using arrangements carried out with a principal purpose of avoiding Australian tax.

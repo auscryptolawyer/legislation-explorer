@@ -5,7 +5,6 @@ section: "health-and-care"
 title: "Health and care"
 paragraph: "¶25-130"
 ---
-
 # Health and care ¶25-130
 
 See generally Chapter 13 and in particular the medical aids checklist at ¶13-350.

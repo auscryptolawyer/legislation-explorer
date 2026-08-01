@@ -8,7 +8,6 @@ section_title: Mining expenditure: prospecting and exploration expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DU 1  Mining expenditure: prospecting and exploration expenditure
 
 **Deduction**

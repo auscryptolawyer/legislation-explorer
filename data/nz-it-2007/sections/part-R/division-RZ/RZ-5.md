@@ -8,7 +8,6 @@ section_title: Calculating amounts under standard method: 2010–11 to 2012–13
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RZ 5  Calculating amounts under standard method: 2010–11 to 2012–13 income years
 
 **When this section applies**

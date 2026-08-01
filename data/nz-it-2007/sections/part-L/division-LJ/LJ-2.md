@@ -8,7 +8,6 @@ section_title: Tax credits for foreign income tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LJ 2  Tax credits for foreign income tax
 
 **Amount of credit**

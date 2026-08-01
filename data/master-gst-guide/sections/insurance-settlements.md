@@ -5,7 +5,6 @@ section: "insurance-settlements"
 title: "Insurance settlements"
 paragraph: "¶10-120"
 ---
-
 # Insurance settlements ¶10-120
 
 Special rules apply where there is a settlement of an insurance claim.

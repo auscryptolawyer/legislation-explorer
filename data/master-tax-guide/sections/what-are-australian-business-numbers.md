@@ -5,7 +5,6 @@ section: "what-are-australian-business-numbers"
 title: "What are Australian Business Numbers?"
 paragraph: "¶33-100"
 ---
-
 # What are Australian Business Numbers? ¶33-100
 
 The Australian Business Number (ABN) is a single business identiﬁer that allows businesses to deal with the whole of government at one place and with one identiﬁer (A New Tax System (Australian Business Number) Act 1999 (ABNA), s 3). It operates in conjunction with the Australian Business Register, of which the Commissioner is the Registrar.

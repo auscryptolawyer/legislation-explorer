@@ -8,7 +8,6 @@ section_title: Meetings of shareholders
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 63C  Meetings of shareholders
 
 **Deduction**

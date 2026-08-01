@@ -8,7 +8,6 @@ section_title: Deduction for general insurance outstanding claims reserve
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DW 4  Deduction for general insurance outstanding claims reserve
 
 **When this section applies**

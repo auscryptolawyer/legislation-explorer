@@ -5,7 +5,6 @@ section: "5-160-live-stock-valuation-private-use"
 title: "5-160 - Live stock valuation private use"
 paragraph: "None"
 ---
-
 # 5-160 - Live stock valuation private use
 
 Worked example: Live stock valuation; private use Issue Hendersons is an established farming partnership that sells its natural cattle produce. It bases the value of its live stock on the average cost method.

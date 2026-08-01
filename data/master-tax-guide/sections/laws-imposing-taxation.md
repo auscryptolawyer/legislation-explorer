@@ -5,7 +5,6 @@ section: "laws-imposing-taxation"
 title: "Laws imposing taxation"
 paragraph: "¶1-050"
 ---
-
 # Laws imposing taxation ¶1-050
 
 Section 55 of the Constitution provides that laws “imposing taxation shall deal only with the imposition of taxation, and any provision therein dealing with any other matter shall be of no eﬀect” and that laws “imposing taxation … shall deal with one subject of taxation only”. It is because of this provision that Australian income tax legislation consists of separate Acts: the Rating Acts, which actually impose a tax and ﬁx the rate of tax; and ITAA36 and ITAA97, which provide for the incidence, assessment and collection of the tax and for a variety of incidental matters.

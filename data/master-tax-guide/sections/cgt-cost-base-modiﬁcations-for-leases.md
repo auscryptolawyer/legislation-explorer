@@ -5,7 +5,6 @@ section: "cgt-cost-base-modiﬁcations-for-leases"
 title: "CGT cost base modiﬁcations for leases"
 paragraph: "¶12-680"
 ---
-
 # CGT cost base modiﬁcations for leases ¶12-680
 
 Several CGT events deal speciﬁcally with leases (¶11-300). In addition, Div 132 speciﬁcally provides for cost base modiﬁcations for leases. These are considered below.

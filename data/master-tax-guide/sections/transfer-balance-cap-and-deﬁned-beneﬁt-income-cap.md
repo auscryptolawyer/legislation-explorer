@@ -5,7 +5,6 @@ section: "transfer-balance-cap-and-deﬁned-beneﬁt-income-cap"
 title: "Transfer balance cap and deﬁned beneﬁt income cap"
 paragraph: "¶42-265"
 ---
-
 # Transfer balance cap and deﬁned beneﬁt income cap ¶42-265
 
 Transfer balance cap An individual is liable to pay excess transfer balance tax if the transfer balance cap is exceeded (¶14-320).

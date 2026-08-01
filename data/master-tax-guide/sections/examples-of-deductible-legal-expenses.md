@@ -5,7 +5,6 @@ section: "examples-of-deductible-legal-expenses"
 title: "Examples of deductible legal expenses"
 paragraph: "¶16-842"
 ---
-
 # Examples of deductible legal expenses ¶16-842
 
 In addition to the expenses noted at ¶16-840, the following are examples of legal expenses that have been held to be deductible under ITAA97 s 8-1:

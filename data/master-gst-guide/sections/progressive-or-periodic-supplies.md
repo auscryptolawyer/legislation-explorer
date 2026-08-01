@@ -5,7 +5,6 @@ section: "progressive-or-periodic-supplies"
 title: "Progressive or periodic supplies"
 paragraph: "¶7-420"
 ---
-
 # Progressive or periodic supplies ¶7-420
 
 If you are not operating on a cash basis, a special rule applies to agreements where a single supply or acquisition is made for a period or on a progressive basis, and the payment is made on a progressive or periodic basis (Div 156). This specifically applies to leases and hiring arrangements (s 156-22), but other examples would include annual subscriptions paid on a monthly basis, building and construction contracts, real estate property management contracts, pay-by-the-month insurance cover or an office equipment maintenance contract payable monthly.

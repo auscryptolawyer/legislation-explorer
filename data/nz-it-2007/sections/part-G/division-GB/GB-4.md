@@ -8,7 +8,6 @@ section_title: Arrangements for grouping tax losses: companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 4  Arrangements for grouping tax losses: companies
 
 **When this section applies**

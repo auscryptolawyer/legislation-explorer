@@ -5,7 +5,6 @@ section: "taxable-supplies"
 title: "Taxable supplies"
 paragraph: "¶34-105"
 ---
-
 # Taxable supplies ¶34-105
 
 GST is charged or levied on the making of every “taxable supply” and “taxable importation” (s 7-1). The amount of GST that a supplier is liable to pay is 10% of the value of the taxable supply (s 9-70). In eﬀect, this means that 1/11th of the consideration received by a supplier will be regarded as being the GST on the supply.

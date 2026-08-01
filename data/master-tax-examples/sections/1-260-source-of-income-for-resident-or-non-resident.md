@@ -5,7 +5,6 @@ section: "1-260-source-of-income-for-resident-or-non-resident"
 title: "1-260 - Source of income for resident or non-resident"
 paragraph: "None"
 ---
-
 # 1-260 - Source of income for resident or non-resident
 
 Worked example: Source of income for resident or non- resident Issue Yvonne Merrick, the holder of a British passport and an Australian working visa, arrived in Australia from the UK in January 2012 and started work as an administrator in a Brisbane hospital. On 10 July 2023, she travelled back to the UK for personal reasons and worked in odd jobs until 1 April 2024 when she returned to Brisbane and resumed her position at the hospital. While in the UK, she continued to maintain the apartment she had bought in Brisbane and her Australian bank account. She was on “leave without pay” from her job at the hospital.

@@ -8,7 +8,6 @@ section_title: Policyholder base income of life insurer
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CR 1  Policyholder base income of life insurer
 
 If, but for this section, a life insurer has an amount of policyholder base income for an income year, and that amount is not income under this Part, the amount is income of the life insurer for the income year.

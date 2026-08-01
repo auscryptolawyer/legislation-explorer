@@ -5,7 +5,6 @@ section: "checklist-of-taxable-and-non-taxable-items"
 title: "Checklist of taxable and non-taxable items"
 paragraph: "¶10-005"
 ---
-
 # Checklist of taxable and non-taxable items ¶10-005
 
 This checklist shows the general taxation status of a wide range of income items and where they are dealt with in Chapter 10 or elsewhere (as indicated in the Source column) except for:

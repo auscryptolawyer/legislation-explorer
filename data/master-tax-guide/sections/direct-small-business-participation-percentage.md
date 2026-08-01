@@ -5,7 +5,6 @@ section: "direct-small-business-participation-percentage"
 title: "Direct small business participation percentage"
 paragraph: "¶7-158"
 ---
-
 # Direct small business participation percentage ¶7-158
 
 The determination of an entity’s direct small business participation percentage in another entity depends upon the structure of the other entity.

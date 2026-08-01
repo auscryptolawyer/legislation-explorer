@@ -5,7 +5,6 @@ section: "frankable-and-unfrankable-distributions"
 title: "Frankable and unfrankable distributions"
 paragraph: "¶4-620"
 ---
-
 # Frankable and unfrankable distributions ¶4-620
 
 A distribution (including a non-share dividend) is a “frankable distribution” to the extent that it is not unfrankable (ITAA97 s 202-40).

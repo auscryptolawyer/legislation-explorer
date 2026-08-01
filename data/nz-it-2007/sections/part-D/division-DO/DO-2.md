@@ -8,7 +8,6 @@ section_title: Plantings for erosion, shelter, and water protection purposes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DO 2  Plantings for erosion, shelter, and water protection purposes
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "checklist-of-cgt-taxable-and-non-taxable-events"
 title: "Checklist of CGT taxable and non-taxable events"
 paragraph: "¶11-005"
 ---
-
 # Checklist of CGT taxable and non-taxable events ¶11-005
 
 This checklist shows whether a wide range of items and events are generally subject to CGT implications and where they are dealt with (as indicated in the Source column). Please note that the checklist does not address: (a) the taxpayer’s ability to roll-over a capital gain (see ¶7-195 and from ¶12-040), or (b) the application of the CGT small business concessions (see ¶7-110).

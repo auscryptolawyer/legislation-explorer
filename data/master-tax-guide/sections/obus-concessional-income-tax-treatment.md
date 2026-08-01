@@ -5,7 +5,6 @@ section: "obus-concessional-income-tax-treatment"
 title: "OBUs concessional income tax treatment"
 paragraph: "¶21-080"
 ---
-
 # OBUs concessional income tax treatment ¶21-080
 
 Income (other than capital gains) derived by an oﬀshore banking unit (OBU) from oﬀshore banking (OB) activities is taxed at an eﬀective rate of 10%. The other income and capital gains of an OBU are taxed at normal company rates. Interest paid by an OBU on qualifying oﬀshore borrowings and gold fees paid by an OBU on certain oﬀshore gold borrowings are exempt from withholding tax.

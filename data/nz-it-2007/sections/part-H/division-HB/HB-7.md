@@ -8,7 +8,6 @@ section_title: Disposal of depreciable property
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HB 7  Disposal of depreciable property
 
 **When this section applies**

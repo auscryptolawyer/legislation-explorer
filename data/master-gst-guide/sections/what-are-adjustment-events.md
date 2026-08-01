@@ -5,7 +5,6 @@ section: "what-are-adjustment-events"
 title: "What are adjustment events?"
 paragraph: "¶6-100"
 ---
-
 # What are adjustment events? ¶6-100
 
 “Adjustment events” occur where: (1) a supply of goods or services is cancelled, for example, where an order is returned. However, simply returning something for repair or maintenance is not an adjustment event (for travel reservations, see ¶12-020) (2) the consideration is changed, or (3) a supply changes its GST status, for example, where goods supplied for export are not exported within 60 days, and thereby become subject to GST instead of being GST-free (s 19-10).

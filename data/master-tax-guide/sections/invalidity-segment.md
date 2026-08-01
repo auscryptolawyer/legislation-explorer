@@ -5,7 +5,6 @@ section: "invalidity-segment"
 title: "Invalidity segment"
 paragraph: "¶14-640"
 ---
-
 # Invalidity segment ¶14-640
 
 The invalidity segment is one of the 2 segments that make up the tax free component of an employment termination payment (¶14-620). The other segment is the pre-July 83 segment (¶14-630).

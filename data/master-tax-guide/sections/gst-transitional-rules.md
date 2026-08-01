@@ -5,7 +5,6 @@ section: "gst-transitional-rules"
 title: "GST transitional rules"
 paragraph: "¶34-300"
 ---
-
 # GST transitional rules ¶34-300
 
 Transitional rules are contained in the A New Tax System (Goods and Services Tax Transition) Act 1999 (GST Transition Act).

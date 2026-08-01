@@ -8,7 +8,6 @@ section_title: Saving of effect of section 394L(4A) of Income Tax Act 1976
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YZ 2  Saving of effect of section 394L(4A) of Income Tax Act 1976
 
 Section 394L(4A) of the Income Tax Act 1976 continues to apply in the same manner as it applied immediately before the repeal of that Act by the Income Tax Act 1994.

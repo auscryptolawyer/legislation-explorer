@@ -8,7 +8,6 @@ section_title: Petroleum mining operations outside New Zealand before 16 Decembe
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DZ 7  Petroleum mining operations outside New Zealand before 16 December 1991
 
 Sections DZ 3 to DZ 6 apply, with any necessary modifications, to a petroleum miner undertaking petroleum mining operations that are—

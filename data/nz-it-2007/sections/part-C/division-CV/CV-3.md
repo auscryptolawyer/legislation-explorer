@@ -8,7 +8,6 @@ section_title: Consolidated groups: arrangement for disposal of shares
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CV 3  Consolidated groups: arrangement for disposal of shares
 
 **When this section applies**

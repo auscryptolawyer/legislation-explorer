@@ -5,7 +5,6 @@ section: "common-gst-errors"
 title: "Common GST errors"
 paragraph: "¶18-170"
 ---
-
 # Common GST errors ¶18-170
 
 Non-compliance with GST requirements may arise from lack of knowledge, inattention or deliberate action or inaction. Transactions, activities or administrative procedures that commonly cause problems include:

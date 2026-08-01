@@ -5,7 +5,6 @@ section: "what-is-wine"
 title: "What is wine?"
 paragraph: "¶22-010"
 ---
-
 # What is wine? ¶22-010
 
 “Wine” means any of the following beverages, provided that they contain at least 1.15% of alcohol by volume:

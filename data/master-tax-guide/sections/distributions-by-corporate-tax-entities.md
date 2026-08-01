@@ -5,7 +5,6 @@ section: "distributions-by-corporate-tax-entities"
 title: "Distributions by corporate tax entities"
 paragraph: "¶4-460"
 ---
-
 # Distributions by corporate tax entities ¶4-460
 
 The core of the imputation system is the attachment of tax credits to distributions paid by corporate tax entities (called “franking”) in order to pass on to members the beneﬁt of the tax paid at the corporate tax entity level. This eliminates double taxation (at the entity level and the investor level).

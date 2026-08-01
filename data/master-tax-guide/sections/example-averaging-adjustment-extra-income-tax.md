@@ -5,7 +5,6 @@ section: "example-averaging-adjustment-extra-income-tax"
 title: "Example: averaging adjustment — extra income tax"
 paragraph: "¶18-260"
 ---
-
 # Example: averaging adjustment — extra income tax ¶18-260
 
 The following example illustrates the operation of the averaging system where the primary producer is liable to pay extra tax on the averaging component of the producer’s basic taxable income. The steps in the example follow the same sequence as those in the step-by-step process explained at ¶18-210. It is assumed that the taxpayer is a resident, so the appropriate rates of tax to be applied are those set out at ¶42-000, and eligibility for the rebate for low income earners (¶15-300) is ignored.

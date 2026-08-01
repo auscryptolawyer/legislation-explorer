@@ -5,7 +5,6 @@ section: "deductions-for-provisions-for-estimated-expenses"
 title: "Deductions for provisions for estimated expenses"
 paragraph: "¶9-120"
 ---
-
 # Deductions for provisions for estimated expenses ¶9-120
 
 Accounting provisions or reserves established for anticipated future outgoings such as advertising, legal expenses, doubtful debts are not allowable deductions as they are not incurred. Although provisions established in respect of incurred expenses may be deductible, in most cases, a presently existing pecuniary liability at the end of the relevant income year is necessary for accrued expense to be incurred (¶16-040) and deductible (TR 94/26). Accordingly, the expenses and losses for which the provision was created are usually only deductible in the income year in which they are actually incurred or paid.

@@ -5,7 +5,6 @@ section: "gst-assessments"
 title: "GST assessments"
 paragraph: "¶8-080"
 ---
-
 # GST assessments ¶8-080
 
 GST is a “self-assessment” system (Administration Act, Sch 1, Div 155). This means that:

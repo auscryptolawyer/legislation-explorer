@@ -8,7 +8,6 @@ section_title: Description of elements of calculation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EE 9  Description of elements of calculation
 
 **Depreciation methods**

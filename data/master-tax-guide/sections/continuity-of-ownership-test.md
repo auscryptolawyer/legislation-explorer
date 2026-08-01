@@ -5,7 +5,6 @@ section: "continuity-of-ownership-test"
 title: "Continuity of ownership test"
 paragraph: "¶3-105"
 ---
-
 # Continuity of ownership test ¶3-105
 
 - it meets the conditions in ITAA97 s 165-12 (which is about the company maintaining the same

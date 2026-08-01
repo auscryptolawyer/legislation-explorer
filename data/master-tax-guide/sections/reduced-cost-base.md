@@ -5,7 +5,6 @@ section: "reduced-cost-base"
 title: "Reduced cost base"
 paragraph: "¶11-560"
 ---
-
 # Reduced cost base ¶11-560
 
 The reduced cost base of a CGT asset is often relevant in ﬁnding out if a capital loss has been made from a CGT event which happens in relation to that asset. However, for some CGT events, the reduced cost base is not relevant in determining this. In such cases, the provisions dealing with the relevant CGT event explain the amounts which are instead used for working out if there is a capital loss.

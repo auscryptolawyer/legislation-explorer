@@ -5,7 +5,6 @@ section: "unused-annual-leave-payments"
 title: "Unused annual leave payments"
 paragraph: "¶14-720"
 ---
-
 # Unused annual leave payments ¶14-720
 
 A payment made to an employee in consequence of the termination of employment for unused annual leave is not taxed as an employment termination payment (¶14-620). Instead, certain parts of the unused annual leave payment may be taxed concessionally under ITAA97 Subdiv 83-A (ss 83-10 to 83-15).

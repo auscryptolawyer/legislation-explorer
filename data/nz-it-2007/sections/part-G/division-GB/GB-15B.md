@@ -8,7 +8,6 @@ section_title: Supplies affecting default test for non-attributing active CFC
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 15B  Supplies affecting default test for non-attributing active CFC
 
 **When this section applies**

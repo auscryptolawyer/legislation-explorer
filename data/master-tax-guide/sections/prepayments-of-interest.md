@@ -5,7 +5,6 @@ section: "prepayments-of-interest"
 title: "Prepayments of interest"
 paragraph: "¶16-746"
 ---
-
 # Prepayments of interest ¶16-746
 
 The fact that interest has been prepaid may preclude a deduction in certain circumstances, particularly where the taxpayer’s dominant purpose in making the prepayment was to gain a tax advantage.

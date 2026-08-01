@@ -5,7 +5,6 @@ section: "residential-care-home-care-and-disability-services"
 title: "Residential care, home care and disability services"
 paragraph: "¶13-340"
 ---
-
 # Residential care, home care and disability services ¶13-340
 
 Certain residential and home care, and disability services are GST-free. The exemptions are defined with reference to the aged care service list. The aged care service list is found in Pt 3 of the Aged Care Rules 2025 (ACR) made under s 602, in accordance with s 8 of the Aged Care Act 2024 (ACA). It is beyond the scope of this content to undertake an analysis of the aged care regime. It is suggested that providers of aged care services may be expected to be informed of the services they provide within the context of that legislation. Accordingly, this content focuses on the GST provisions that define the GST outcomes of the provision of services on the aged care list.

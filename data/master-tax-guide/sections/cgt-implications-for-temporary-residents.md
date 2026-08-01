@@ -5,7 +5,6 @@ section: "cgt-implications-for-temporary-residents"
 title: "CGT implications for temporary residents"
 paragraph: "¶12-760"
 ---
-
 # CGT implications for temporary residents ¶12-760
 
 Capital gains or capital losses that a temporary resident makes from a CGT event are disregarded in certain circumstances. The exemption applies where the capital gain or capital loss would not have been made if the temporary resident had been a foreign resident when or immediately before the CGT event happened.

@@ -8,7 +8,6 @@ section_title: Payments related to health or safety
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 17D  Payments related to health or safety
 
 **When this section applies**

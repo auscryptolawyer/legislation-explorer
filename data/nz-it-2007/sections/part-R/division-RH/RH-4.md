@@ -8,7 +8,6 @@ section_title: Retirement scheme contributors
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RH 4  Retirement scheme contributors
 
 An entity is a retirement scheme contributor for a person for an income year if—

@@ -8,7 +8,6 @@ section_title: National minimum price threshold for 2019 calendar year
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 6B  National minimum price threshold for 2019 calendar year
 
 The national minimum price threshold for the 2019 calendar year for each class of bloodstock set out in schedule 18C, column 2 (Breeds and classes of bloodstock) is set at—

@@ -8,7 +8,6 @@ section_title: Income for general insurance outstanding claims reserve
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CR 4  Income for general insurance outstanding claims reserve
 
 **What this section applies to**

@@ -8,7 +8,6 @@ section_title: Adjustment for GST
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 5  Adjustment for GST
 
 **Income**

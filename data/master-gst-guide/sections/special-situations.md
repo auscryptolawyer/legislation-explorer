@@ -5,7 +5,6 @@ section: "special-situations"
 title: "Special situations"
 paragraph: "¶11-140"
 ---
-
 # Special situations ¶11-140
 
 The following rules govern how the margin scheme applies in particular situations.

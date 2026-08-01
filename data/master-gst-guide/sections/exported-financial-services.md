@@ -5,7 +5,6 @@ section: "exported-financial-services"
 title: "Exported financial services"
 paragraph: "¶10-050"
 ---
-
 # Exported financial services ¶10-050
 
 Exported financial services are generally GST-free, not input taxed, under the general rules described at ¶9-240. GST-free treatment applies, for example, in the following situations:

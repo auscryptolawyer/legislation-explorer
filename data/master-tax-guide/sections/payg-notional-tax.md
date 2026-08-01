@@ -5,7 +5,6 @@ section: "payg-notional-tax"
 title: "PAYG notional tax"
 paragraph: "¶27-460"
 ---
-
 # PAYG notional tax ¶27-460
 
 A taxpayer’s “notional tax” for the base year is calculated as follows (TAA s 45-325): adjusted tax on                                                                      adjusted tax on − adjusted taxable income                                                            adjusted withholding income Where a taxpayer’s adjusted tax on adjusted withholding income is greater than the adjusted tax on adjusted taxable income for the base year, the notional tax is nil.

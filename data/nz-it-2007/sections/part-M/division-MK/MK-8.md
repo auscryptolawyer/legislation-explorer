@@ -8,7 +8,6 @@ section_title: Treatment of tax credits on permanent emigration
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MK 8  Treatment of tax credits on permanent emigration
 
 **When this section applies**

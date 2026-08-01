@@ -8,7 +8,6 @@ section_title: Tax losses
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IA 2  Tax losses
 
 **What is a tax loss?**

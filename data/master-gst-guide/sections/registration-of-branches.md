@@ -5,7 +5,6 @@ section: "registration-of-branches"
 title: "Registration of branches"
 paragraph: "¶17-300"
 ---
-
 # Registration of branches ¶17-300
 
 A business may operate through branches. Even though they are not separate entities, these branches will often do their normal accounts separately, with the accounts for all branches being amalgamated annually. If the normal GST rules applied, this could mean that these accounts would have to be amalgamated every tax period, instead of once a year.

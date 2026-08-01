@@ -8,7 +8,6 @@ section_title: Changes in status of investors in foreign investment PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 55E  Changes in status of investors in foreign investment PIEs
 
 **When this section applies**

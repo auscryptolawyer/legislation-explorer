@@ -5,7 +5,6 @@ section: "diversion-through-family-companies"
 title: "Diversion through family companies"
 paragraph: "¶31-530"
 ---
-
 # Diversion through family companies ¶31-530
 
 The relatively low rate of tax paid by companies obviously makes the use of a company attractive.

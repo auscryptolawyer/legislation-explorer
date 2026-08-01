@@ -5,7 +5,6 @@ section: "11-120-access-to-accountants-working-papers"
 title: "11-120 - Access to accountants working papers"
 paragraph: "None"
 ---
-
 # 11-120 - Access to accountants working papers
 
 Worked example: Access to accountant’s working papers Issue On 1 February 2025, an authorised taxation officer visited the offices of Babbages Accountants. The taxation officer sought access to the firm’s working papers relating to advice prepared for Future Success, a vocational college.

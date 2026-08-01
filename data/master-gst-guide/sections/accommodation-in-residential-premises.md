@@ -5,7 +5,6 @@ section: "accommodation-in-residential-premises"
 title: "Accommodation in residential premises"
 paragraph: "¶11-310"
 ---
-
 # Accommodation in residential premises ¶11-310
 
 The provision of private rented residential premises is input taxed to the extent that the premises are to be used predominantly for residential accommodation, regardless of the term of occupation (s 40-35). This means that GST does not apply and the landlord is not entitled to claim input tax credits.

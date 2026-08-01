@@ -5,7 +5,6 @@ section: "2-280-cgt-small-business-concessions"
 title: "2-280 - CGT small business concessions"
 paragraph: "None"
 ---
-
 # 2-280 - CGT small business concessions
 
 Worked example: CGT small business concessions Issue Neil Swan is an engineer who owns and manages a marine boat and yacht repair business. He acquired the business as a going concern in 2006 for $700,000 and in 2025 it is valued at $3.8 million. Revenue has increased over the years and in 2023–24 it amounted to $1.1 million and in 2024–25 it rose to $1.2 million.

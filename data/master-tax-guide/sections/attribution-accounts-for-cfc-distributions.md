@@ -5,7 +5,6 @@ section: "attribution-accounts-for-cfc-distributions"
 title: "Attribution accounts for CFC distributions"
 paragraph: "¶21-210"
 ---
-
 # Attribution accounts for CFC distributions ¶21-210
 
 In order to avoid double taxation of income which would otherwise arise where income attributed to an attributable taxpayer is subsequently distributed by the relevant CFC, an exemption is available under ITAA36 s 23AI for the distributed income, provided the recipient can establish a link between the distributed income and the previously attributed income.

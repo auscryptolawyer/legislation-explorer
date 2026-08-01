@@ -8,7 +8,6 @@ section_title: Meaning of dividend
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 3  Meaning of dividend
 
 Sections CD 4 to CD 20 define what is a dividend.

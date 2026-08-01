@@ -5,7 +5,6 @@ section: "11-355-employee-v-contractor-distinction"
 title: "11-355 - Employee v contractor distinction"
 paragraph: "None"
 ---
-
 # 11-355 - Employee v contractor distinction
 
 Employee v contractor distinction Issue Chase Construction Pty Ltd is a small construction company that employs a team of specialist tradies, such as plumbers, electricians, etc, to work on its projects. Chase has recently engaged a new finance director, Geoff Love, who believes that the company can cut costs and “red tape” by using contractors instead of in- house employees.

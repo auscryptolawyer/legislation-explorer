@@ -8,7 +8,6 @@ section_title: Withdrawals from foreign superannuation scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CF 3  Withdrawals from foreign superannuation scheme
 
 **When this section applies**

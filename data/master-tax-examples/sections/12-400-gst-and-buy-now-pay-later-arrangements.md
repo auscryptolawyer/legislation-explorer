@@ -5,7 +5,6 @@ section: "12-400-gst-and-buy-now-pay-later-arrangements"
 title: "12-400 - GST and buy-now pay-later arrangements"
 paragraph: "None"
 ---
-
 # 12-400 - GST and buy-now pay-later arrangements
 
 Worked example: GST and buy-now pay-later arrangements Issue Insta Pay provides a buy-now, pay-later product which enables customers to buy and receive goods and services immediately from merchants, and repay the amount owing in 4 equal fortnightly instalments.

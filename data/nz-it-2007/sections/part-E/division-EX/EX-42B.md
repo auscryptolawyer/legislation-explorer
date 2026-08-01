@@ -8,7 +8,6 @@ section_title: Interests in foreign superannuation scheme other than FIF superan
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 42B  Interests in foreign superannuation scheme other than FIF superannuation interests
 
 A person’s right to benefit from a foreign superannuation scheme as a beneficiary or a member is not an attributing interest in the foreign superannuation scheme if the right is not a FIF superannuation interest for the person.

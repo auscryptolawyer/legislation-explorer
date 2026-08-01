@@ -5,7 +5,6 @@ section: "tax-agent-registration-rules"
 title: "Tax agent registration rules"
 paragraph: "¶32-020"
 ---
-
 # Tax agent registration rules ¶32-020
 
 An individual who is at least 18 years of age is eligible for registration as tax agent if the TPB is satisﬁed that the individual:

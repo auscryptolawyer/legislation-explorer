@@ -5,7 +5,6 @@ section: "frequent-flyer-shopper-and-loyalty-programs"
 title: "Frequent flyer, shopper and loyalty programs"
 paragraph: "¶4-062"
 ---
-
 # Frequent flyer, shopper and loyalty programs ¶4-062
 
 Under “frequent shopper” programs, a customer typically receives points for purchases made at a shop.

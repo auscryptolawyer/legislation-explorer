@@ -5,7 +5,6 @@ section: "pensions-similar-to-veterans-pensions"
 title: "Pensions similar to veterans’ pensions"
 paragraph: "¶10-202"
 ---
-
 # Pensions similar to veterans’ pensions ¶10-202
 
 Payments by the Australian and United Kingdom (UK) governments that are of a similar nature to exempt payments listed in ¶10-200 are also exempt (ITAA97 s 53-20). However, the exemption does not extend to ordinary Commonwealth Public Service or Defence Force superannuation or retirement payments (ITAA97 s 55-5).

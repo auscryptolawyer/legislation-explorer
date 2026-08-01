@@ -8,7 +8,6 @@ section_title: What this subpart does
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FO 1  What this subpart does
 
 This subpart sets out the rules that provide for some tax consequences when companies amalgamate. In general, the rules provide roll-over relief when a resident’s restricted amalgamation occurs.

@@ -8,7 +8,6 @@ section_title: What this Part does
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MA 1  What this Part does
 
 This Part identifies the tax credits to which a natural person is entitled—

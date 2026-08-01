@@ -5,7 +5,6 @@ section: "general-rates-of-tax-individual-taxpayers"
 title: "General rates of tax: individual taxpayers"
 paragraph: "¶2-120"
 ---
-
 # General rates of tax: individual taxpayers ¶2-120
 
 In determining the rates of tax applicable to individual taxpayers, a distinction is made between residents and prescribed non-residents.

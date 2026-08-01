@@ -8,7 +8,6 @@ section_title: Matching of deductions and income from multi-jurisdictional arran
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 57B  Matching of deductions and income from multi-jurisdictional arrangements
 
 **Deduction denied**

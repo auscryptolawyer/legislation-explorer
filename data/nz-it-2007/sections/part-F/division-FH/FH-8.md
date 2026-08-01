@@ -8,7 +8,6 @@ section_title: Expenditure or loss through hybrid entity or foreign deducting br
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FH 8  Expenditure or loss through hybrid entity or foreign deducting branch producing double deduction without double income
 
 **When this section applies**

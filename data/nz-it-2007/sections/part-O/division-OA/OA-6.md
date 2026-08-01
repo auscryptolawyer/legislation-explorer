@@ -8,7 +8,6 @@ section_title: Debits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OA 6  Debits
 
 **What this section does**

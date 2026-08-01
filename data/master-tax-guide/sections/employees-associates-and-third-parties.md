@@ -5,7 +5,6 @@ section: "employees-associates-and-third-parties"
 title: "employees, associates and third parties"
 paragraph: "¶35-110"
 ---
-
 # employees, associates and third parties ¶35-110
 
 Generally, a beneﬁt provided by an associate of an employer or to an associate of an employee is subject to FBT in the same manner as if the employer had provided it or the employee had received it. In addition, a beneﬁt provided by a third party under an arrangement with the employer or with an associate of the employer will be caught, as will a beneﬁt provided to a third party at the request of the employee or of an associate of the employee (s 148).

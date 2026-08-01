@@ -5,7 +5,6 @@ section: "commissioners-discretion"
 title: "Commissioner’s discretion"
 paragraph: "¶1-360"
 ---
-
 # Commissioner’s discretion ¶1-360
 
 ITAA36 and ITAA97 empower the Commissioner to exercise a variety of discretions in making an assessment. A taxpayer who is dissatisﬁed with the Commissioner’s exercise of an administrative discretion may challenge it on its merits before the Administrative Review Tribunal (which replaced the Administrative Appeals Tribunal on 14 October 2024: ¶28-090); the Tribunal “stands in the shoes of the decision-maker”.

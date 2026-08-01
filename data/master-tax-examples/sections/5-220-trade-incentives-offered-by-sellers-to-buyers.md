@@ -5,7 +5,6 @@ section: "5-220-trade-incentives-offered-by-sellers-to-buyers"
 title: "5-220 - Trade incentives offered by sellers to buyers"
 paragraph: "None"
 ---
-
 # 5-220 - Trade incentives offered by sellers to buyers
 
 Worked example: Trade incentives offered by sellers to buyers Issue Barney Co sells items to Connor Poulos under the following terms of trade.

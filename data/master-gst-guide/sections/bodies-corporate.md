@@ -5,7 +5,6 @@ section: "bodies-corporate"
 title: "Bodies corporate"
 paragraph: "¶11-200"
 ---
-
 # Bodies corporate ¶11-200
 
 A body corporate is an “entity” for GST purposes (¶3-020), and is considered to carry on an “enterprise” by providing services to members, contracting with contractors, acting in a business-like way and undertaking to discharge its responsibility to manage and maintain the building (Miscellaneous Taxation Ruling MT 2006/1; Body Corporate, Villa Edgewater Courts 23092 v FC of T 2004 ATC 2056).

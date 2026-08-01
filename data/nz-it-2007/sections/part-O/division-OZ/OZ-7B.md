@@ -8,7 +8,6 @@ section_title: Maori authority credit ratios for transitional period
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OZ 7B  Maori authority credit ratios for transitional period
 
 **When this section applies**

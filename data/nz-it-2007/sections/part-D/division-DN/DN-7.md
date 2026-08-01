@@ -8,7 +8,6 @@ section_title: Calculation of FIF loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DN 7  Calculation of FIF loss
 
 The amount of a FIF loss is calculated, using the relevant calculation method, under sections EX 44 to EX 61 (which relate to the calculation of FIF income or loss).

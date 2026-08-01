@@ -5,7 +5,6 @@ section: "food-packaging"
 title: "Food packaging"
 paragraph: "¶13-200"
 ---
-
 # Food packaging ¶13-200
 
 The general rule is that if the food is GST-free, so is the packaging (s 38-6). For example, as pure orange juice is GST-free, the bottle or container that it comes in will also be GST-free. However, to the extent that the packaging is more than is normal and necessary for that food, it will be taxable. For example, the ATO says that food packaging will be treated as normal and necessary, and therefore GST-free, if:

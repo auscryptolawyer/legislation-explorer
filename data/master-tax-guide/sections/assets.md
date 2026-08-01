@@ -5,7 +5,6 @@ section: "assets"
 title: "assets"
 paragraph: "¶23-200"
 ---
-
 # assets ¶23-200
 
 The TOFA regime in Div 230 provides a comprehensive framework for the taxation of gains and losses arising in respect of ﬁnancial arrangements (¶23-020), however it is not an exclusive code. Certain ﬁnancial arrangements are speciﬁcally excluded from the application of Div 230 including certain leasing arrangements. Financial arrangements may also fall outside of the ambit of Div 230 because they pre-date the Div 230 commencement date of 1 July 2010 (1 July 2009 if an early start election was made) and no transitional election was made to bring them within the TOFA regime.

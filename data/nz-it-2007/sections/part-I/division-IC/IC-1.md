@@ -8,7 +8,6 @@ section_title: Company A making tax loss available to company B
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IC 1  Company A making tax loss available to company B
 
 **When this subpart applies**

@@ -5,7 +5,6 @@ section: "employee-expenses-non-deductible-items"
 title: "Employee expenses: non-deductible items"
 paragraph: "¶16-175"
 ---
-
 # Employee expenses: non-deductible items ¶16-175
 
 The following expenses are not deductible to employees, subject to limited exceptions.

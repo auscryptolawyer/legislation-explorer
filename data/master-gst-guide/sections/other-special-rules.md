@@ -5,7 +5,6 @@ section: "other-special-rules"
 title: "Other special rules"
 paragraph: "¶24-070"
 ---
-
 # Other special rules ¶24-070
 
 Trading stock.

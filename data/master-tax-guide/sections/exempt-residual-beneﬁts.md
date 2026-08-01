@@ -5,7 +5,6 @@ section: "exempt-residual-beneﬁts"
 title: "Exempt residual beneﬁts"
 paragraph: "¶35-580"
 ---
-
 # Exempt residual beneﬁts ¶35-580
 
 A number of residual beneﬁts are speciﬁcally exempted from tax (s 47). These can be summarised as:

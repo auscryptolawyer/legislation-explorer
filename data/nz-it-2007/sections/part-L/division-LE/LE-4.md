@@ -8,7 +8,6 @@ section_title: Trustees for minor beneficiaries
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 4  Trustees for minor beneficiaries
 
 **When this section applies**

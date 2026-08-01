@@ -5,7 +5,6 @@ section: "cgt-roll-over-for-transformation-of-water-rights"
 title: "CGT roll-over for transformation of water rights"
 paragraph: "¶12-445"
 ---
-
 # CGT roll-over for transformation of water rights ¶12-445
 
 CGT roll-over relief applies to capital gains or losses arising from the ending of one or more water entitlements and the issue of one or more replacement water entitlements (including transformations) (Subdiv 124-R). For these purposes a water entitlement is a legal or equitable right that an entity owns that relates to water, including a right to receive water, take water from a water resource, have water delivered or deliver water (s 124-1105(4)).

@@ -5,7 +5,6 @@ section: "timing-of-income"
 title: "Timing of income"
 paragraph: "¶9-050"
 ---
-
 # Timing of income ¶9-050
 
 An annual basis of taxation involves the computation of income derived during a particular income period (ITAA97 s 6-5), accordingly it is necessary to consider whether an item is income and whether it has been derived.

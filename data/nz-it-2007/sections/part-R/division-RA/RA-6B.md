@@ -8,7 +8,6 @@ section_title: Withholding and payment obligations for retirement scheme contrib
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RA 6B  Withholding and payment obligations for retirement scheme contributions
 
 A person who makes a contribution to a retirement savings scheme must withhold and pay RSCT for the contribution to the Commissioner under subpart RH (Withholding tax on retirement scheme contributions) by the due dates.

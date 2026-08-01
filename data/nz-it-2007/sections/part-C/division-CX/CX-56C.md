@@ -8,7 +8,6 @@ section_title: Distributions to investors by listed PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 56C  Distributions to investors by listed PIEs
 
 **Resident investors**

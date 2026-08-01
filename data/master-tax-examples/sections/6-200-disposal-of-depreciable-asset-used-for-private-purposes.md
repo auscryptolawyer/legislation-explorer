@@ -5,7 +5,6 @@ section: "6-200-disposal-of-depreciable-asset-used-for-private-purposes"
 title: "6-200 - Disposal of depreciable asset used for private purposes"
 paragraph: "None"
 ---
-
 # 6-200 - Disposal of depreciable asset used for private purposes
 
 Worked example: Disposal of depreciable asset used for private purposes Issue Barry Riley is a sole trader who acquired a tractor on 1 November 2021 for use in his farming business. The tractor was acquired for $36,000 (excluding GST). It was subsequently sold for $26,000 (excluding GST) on 30 June 2025.

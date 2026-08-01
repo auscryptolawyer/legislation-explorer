@@ -5,7 +5,6 @@ section: "1-540-primary-production-concessions"
 title: "1-540 - Primary production concessions"
 paragraph: "None"
 ---
-
 # 1-540 - Primary production concessions
 
 Worked example: Primary production concessions Issue Tony Chesterton is a farmer based in western Victoria. He owned a herd of cattle on a farming property.

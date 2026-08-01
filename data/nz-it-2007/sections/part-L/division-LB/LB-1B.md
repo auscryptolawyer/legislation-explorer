@@ -8,7 +8,6 @@ section_title: Treatment of tax credits of certain companies with shareholders w
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LB 1B  Treatment of tax credits of certain companies with shareholders who are employees
 
 **When this section applies**

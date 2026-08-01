@@ -8,7 +8,6 @@ section_title: MACA attributed PIE income with imputation credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OK 6B  MACA attributed PIE income with imputation credit
 
 **Credit**

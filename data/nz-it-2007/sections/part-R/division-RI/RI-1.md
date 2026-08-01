@@ -8,7 +8,6 @@ section_title: Transfer scheme withholding tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RI 1  Transfer scheme withholding tax
 
 This subpart imposes an obligation on a transfer scheme to pay a tax called transfer scheme withholding tax (TSWT).

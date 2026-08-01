@@ -5,7 +5,6 @@ section: "overview-of-fuel-tax-credits"
 title: "Overview of fuel tax credits"
 paragraph: "¶40-000"
 ---
-
 # Overview of fuel tax credits ¶40-000
 
 Most businesses are entitled to fuel tax credits in accordance with the Fuel Tax Act 2006 (FTA) for fuel used in a range of business activities, excluding the use of light vehicles on public roads. The rate of credit varies according to the use to which the fuel is put.

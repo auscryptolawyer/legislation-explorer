@@ -8,7 +8,6 @@ section_title: Limitation on section GB 20: petroleum and mineral mining arrange
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GZ 1  Limitation on section GB 20: petroleum and mineral mining arrangements
 
 Section GB 20 (Arrangements involving petroleum and mineral mining) does not apply to an arrangement if—

@@ -5,7 +5,6 @@ section: "eﬀect-of-receiving-a-franked-distribution"
 title: "Eﬀect of receiving a franked distribution"
 paragraph: "¶4-800"
 ---
-
 # Eﬀect of receiving a franked distribution ¶4-800
 
 The tax consequences for a member receiving a franked distribution from an Australian corporate tax entity are set out in ITAA97 Div 207, comprising ss 207-5 to 207-160.

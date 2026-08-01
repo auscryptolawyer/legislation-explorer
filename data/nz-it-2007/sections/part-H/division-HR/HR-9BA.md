@@ -8,7 +8,6 @@ section_title: Elections to treat debt funding special purpose vehicles as trans
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 9BA  Elections to treat debt funding special purpose vehicles as transparent
 
 **How elections made**

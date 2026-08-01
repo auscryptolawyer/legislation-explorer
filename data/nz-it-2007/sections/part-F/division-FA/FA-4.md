@@ -8,7 +8,6 @@ section_title: Recharacterisation of shareholder’s base: company reacquiring s
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 4  Recharacterisation of shareholder’s base: company reacquiring share
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Withholding liabilities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BE 1  Withholding liabilities
 
 **PAYE income payments**

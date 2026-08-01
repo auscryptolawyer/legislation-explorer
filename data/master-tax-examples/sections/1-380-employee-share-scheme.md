@@ -5,7 +5,6 @@ section: "1-380-employee-share-scheme"
 title: "1-380 - Employee share scheme"
 paragraph: "None"
 ---
-
 # 1-380 - Employee share scheme
 
 Worked example: Employee share scheme Issue Luxury Vehicles Limited (LVL) sells luxury motor vehicles through its Australia-wide dealership network. In January 2023, the company instituted an employee share acquisition scheme in which all employees were given the opportunity to acquire shares in the company at a discount of 10% on the market value of the company’s shares. Stan Moore, one of the company’s car salesmen, accepted the offer on 15 January 2023 and acquired 5,000 shares when the share price was $4 per share.

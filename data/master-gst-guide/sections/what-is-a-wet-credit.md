@@ -5,7 +5,6 @@ section: "what-is-a-wet-credit"
 title: "What is a WET credit?"
 paragraph: "¶22-530"
 ---
-
 # What is a WET credit? ¶22-530
 
 A wine equalisation tax (WET) credit may be claimed in certain circumstances (WET Act, Div 17). It is normally claimed by the entity that has paid or borne the WET for which the credit is sought.

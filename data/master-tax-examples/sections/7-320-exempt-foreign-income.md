@@ -5,7 +5,6 @@ section: "7-320-exempt-foreign-income"
 title: "7-320 - Exempt foreign income"
 paragraph: "None"
 ---
-
 # 7-320 - Exempt foreign income
 
 Worked example: Exempt foreign income Issue James Tan works as an aid officer employed with AusAID, a recognised non-government organisation. He is a resident of Australia for tax purposes. During the 2024–25 income year, James is posted overseas to assist with AusAID’s delivery of an aid program in Indonesia. James moved to Indonesia on 1 July 2024 and returned to Australia on 30 June 2025. James paid tax in Indonesia on his income from AusAID.

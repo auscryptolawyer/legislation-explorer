@@ -5,7 +5,6 @@ section: "5-000-meaning-of-trading-stock"
 title: "5-000 - Meaning of trading stock"
 paragraph: "None"
 ---
-
 # 5-000 - Meaning of trading stock
 
 Worked example: Meaning of trading stock Issue The Manny Group is primarily in the business of manufacturing, selling, repairing and hiring out equipment used by landscape gardeners. As a secondary business, it is involved in the acquisition of land for development and sale as residential blocks and it also owns a property in the Southern Highlands that is used as a tourist resort.

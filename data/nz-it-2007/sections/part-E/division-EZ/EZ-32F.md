@@ -8,7 +8,6 @@ section_title: Applicable accounting standard for section EX 21E: former general
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 32F  Applicable accounting standard for section EX 21E: former generally accepted accounting practice without IFRS
 
 **When this section applies**

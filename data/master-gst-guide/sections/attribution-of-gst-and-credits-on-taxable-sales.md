@@ -5,7 +5,6 @@ section: "attribution-of-gst-and-credits-on-taxable-sales"
 title: "Attribution of GST and credits on taxable sales"
 paragraph: "¶11-065"
 ---
-
 # Attribution of GST and credits on taxable sales ¶11-065
 
 Where the sale of real estate is a taxable supply — for example, where it is non-residential, new residential or commercial residential (¶11-000) — it is necessary to attribute the GST and input tax credit (ITC) to the appropriate tax periods.

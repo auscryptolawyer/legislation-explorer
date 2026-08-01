@@ -5,7 +5,6 @@ section: "assets-of-a-business"
 title: "assets of a business"
 paragraph: "¶12-060"
 ---
-
 # assets of a business ¶12-060
 
 If a taxpayer chooses to take advantage of roll-over relief in relation to the disposal of all the assets of a business to a wholly-owned company, a capital gain or loss the taxpayer makes from the disposal of each of the assets is disregarded (s 122-45). The roll-over is a replacement-asset roll-over because the taxpayer replaces the assets disposed of with shares in the company.

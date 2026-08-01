@@ -5,7 +5,6 @@ section: "deduction-for-depreciating-assets"
 title: "Deduction for depreciating assets"
 paragraph: "¶17-005"
 ---
-
 # Deduction for depreciating assets ¶17-005
 
 The cost of a depreciating asset is generally of a capital nature and is therefore not immediately deductible as an ordinary business expense (¶16-060). However, deductions may be available for the decline in value of a depreciating asset to the extent that the asset is used for a taxable purpose (ITAA97 Div 40). The decline in value is usually calculated by spreading the cost of the asset over its eﬀective life using either the prime cost or the diminishing value method. Eﬀective life is either self-assessed or determined by the Commissioner although a statutory eﬀective life applies in limited cases (¶17-270). Balancing adjustments may be required if a balancing adjustment event occurs (¶17-630) and any CGT consequences must also be considered. In some cases, roll-over relief is available.

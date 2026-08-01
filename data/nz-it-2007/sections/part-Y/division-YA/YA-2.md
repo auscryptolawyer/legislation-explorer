@@ -8,7 +8,6 @@ section_title: Meaning of income tax varied
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YA 2  Meaning of income tax varied
 
 **DTA and time bar provisions: ancillary tax**

@@ -8,7 +8,6 @@ section_title: Grandparented shares under employee share schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 1  Grandparented shares under employee share schemes
 
 **When this section applies**

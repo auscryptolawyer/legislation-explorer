@@ -8,7 +8,6 @@ section_title: Dividends paid by companies in certain situations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 11B  Dividends paid by companies in certain situations
 
 The rate of NRWT payable on a payment of non-resident passive income in the form of a dividend paid by a company to a non-resident is—

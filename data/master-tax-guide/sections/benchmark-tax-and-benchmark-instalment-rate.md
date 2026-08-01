@@ -5,7 +5,6 @@ section: "benchmark-tax-and-benchmark-instalment-rate"
 title: "Benchmark tax and benchmark instalment rate"
 paragraph: "¶27-490"
 ---
-
 # Benchmark tax and benchmark instalment rate ¶27-490
 
 The calculations of benchmark tax and the benchmark instalment rate are used to determine a taxpayer’s liability to penalties where the taxpayer has varied the PAYG instalment rate (¶27-280 – ¶27-380).

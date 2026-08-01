@@ -8,7 +8,6 @@ section_title: Interest on payments to environmental restoration account
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EK 6  Interest on payments to environmental restoration account
 
 **Interest payable**

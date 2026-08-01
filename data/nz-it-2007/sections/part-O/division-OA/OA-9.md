@@ -8,7 +8,6 @@ section_title: General treatment of credits and debits on resident’s restricte
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OA 9  General treatment of credits and debits on resident’s restricted amalgamation
 
 **When this section applies**

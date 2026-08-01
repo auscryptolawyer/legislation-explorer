@@ -8,7 +8,6 @@ section_title: Group investment funds
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 2  Group investment funds
 
 **Separate returns**

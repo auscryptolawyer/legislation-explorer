@@ -5,7 +5,6 @@ section: "4-600-tax-deductibility-of-financial-advice-fees"
 title: "4-600 - Tax deductibility of financial advice fees"
 paragraph: "None"
 ---
-
 # 4-600 - Tax deductibility of financial advice fees
 
 Worked example: Tax deductibility of financial advice fees Issue Alison Soames, 50, works for one of the big banks, dealing with cyber security and online threats to the bank’s customers. During the year ended 30 June 2025, she earned $610,000 in salary and bonuses from the bank.

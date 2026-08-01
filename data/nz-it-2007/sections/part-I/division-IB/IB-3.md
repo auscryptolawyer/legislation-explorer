@@ -8,7 +8,6 @@ section_title: When tax loss components of companies carried forward despite own
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IB 3  When tax loss components of companies carried forward despite ownership continuity breach
 
 **When this section applies**

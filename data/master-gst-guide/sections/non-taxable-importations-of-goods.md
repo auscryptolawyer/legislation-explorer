@@ -5,7 +5,6 @@ section: "non-taxable-importations-of-goods"
 title: "Non-taxable importations of goods"
 paragraph: "¶9-030"
 ---
-
 # Non-taxable importations of goods ¶9-030
 
 The general rules applicable to imports (¶9-005) do not apply if the importation of the goods is non-taxable (s 13-5). An importation is non-taxable if it involves GST-free or input taxed goods, or if it is eligible for certain customs duty concessions.

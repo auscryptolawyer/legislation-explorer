@@ -5,7 +5,6 @@ section: "remuneration-and-rewards-for-services"
 title: "Remuneration and rewards for services"
 paragraph: "¶10-050"
 ---
-
 # Remuneration and rewards for services ¶10-050
 
 All remuneration and rewards for personal services, whether received in the capacity of employee or otherwise in connection with employment or personal services, are income according to ordinary concepts.

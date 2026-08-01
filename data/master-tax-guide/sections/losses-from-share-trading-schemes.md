@@ -5,7 +5,6 @@ section: "losses-from-share-trading-schemes"
 title: "Losses from share trading schemes"
 paragraph: "¶16-690"
 ---
-
 # Losses from share trading schemes ¶16-690
 
 A number of provisions in the tax law are designed to counter tax avoidance schemes under which taxpayers aim to secure deductions for losses on the disposal of shares or other securities.

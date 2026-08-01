@@ -5,7 +5,6 @@ section: "meaning-of-contribution-to-a-superannuation-fund"
 title: "Meaning of “contribution” to a superannuation fund"
 paragraph: "¶13-605"
 ---
-
 # Meaning of “contribution” to a superannuation fund ¶13-605
 
 The term “contribution” is not deﬁned in ITAA97 although it is used in many provisions relating to superannuation operations. It is therefore necessary to ascertain the meaning of “contribution” to a superannuation fund having regard to the context and underlying purpose of the legislative provisions in which the term appears.

@@ -8,7 +8,6 @@ section_title: Consideration when party changes from fair value method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 46B  Consideration when party changes from fair value method
 
 **When this section applies**

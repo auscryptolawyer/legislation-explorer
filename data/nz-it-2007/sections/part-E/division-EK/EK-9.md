@@ -8,7 +8,6 @@ section_title: Refund of payment if excess, lacking details
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EK 9  Refund of payment if excess, lacking details
 
 **When this section applies**

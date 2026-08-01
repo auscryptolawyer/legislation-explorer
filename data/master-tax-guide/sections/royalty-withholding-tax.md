@@ -5,7 +5,6 @@ section: "royalty-withholding-tax"
 title: "Royalty withholding tax"
 paragraph: "¶22-030"
 ---
-
 # Royalty withholding tax ¶22-030
 
 Royalties derived by a non-resident are subject to withholding tax unless an exemption applies (ITAA36 s 128B(2B), (5A)).

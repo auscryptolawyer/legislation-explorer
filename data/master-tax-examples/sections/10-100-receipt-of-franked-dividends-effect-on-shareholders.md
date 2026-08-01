@@ -5,7 +5,6 @@ section: "10-100-receipt-of-franked-dividends-effect-on-shareholders"
 title: "10-100 - Receipt of franked dividends effect on shareholders"
 paragraph: "None"
 ---
-
 # 10-100 - Receipt of franked dividends effect on shareholders
 
 Worked example: Receipt of franked dividends; effect on shareholders Issue Midas Pty Ltd (Midas), a resident Australian company, has a corporate tax rate for imputation purposes for the 2024–25 income year of 30%. It declared a distribution of $160,000 from its after-tax profits on 10 June 2025. The distribution was paid to shareholders on 10 June 2025 and had a franking percentage of 100%.

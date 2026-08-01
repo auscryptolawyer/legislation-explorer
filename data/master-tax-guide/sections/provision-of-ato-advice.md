@@ -5,7 +5,6 @@ section: "provision-of-ato-advice"
 title: "Provision of ATO advice"
 paragraph: "¶24-500"
 ---
-
 # Provision of ATO advice ¶24-500
 
 The forms of advice provided by the ATO can be split into advice provided to a particular entity (ie private rulings, administratively binding advice, written general advice and GST written advice) and advice to the public generally (ie public rulings and publications).

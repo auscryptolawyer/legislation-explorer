@@ -5,7 +5,6 @@ section: "eﬀective-life-table-b-asset-categories"
 title: "Eﬀective life — Table B (asset categories)"
 paragraph: "¶43-100"
 ---
-
 # Eﬀective life — Table B (asset categories) ¶43-100
 
 Table B is an asset table which contains generic assets which may be used by more than one industry. If an asset is only listed in Table B, that rate is to be used both by industry and non-industry members. If an item is listed in both tables, industry members must use the Table A rate (¶43-005) and non-industry members must use the Table B rate. If an asset does not appear in either table, taxpayers must determine the eﬀective life of the asset (¶17-270). The assets in Table B are common assets (eg rental property assets, cars, computers etc) used by a broader range of taxpayers (including salary and wage earners, landlords, small businesses) than the ones who can rely on Table A.

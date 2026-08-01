@@ -5,7 +5,6 @@ section: "cgt-exemption-for-start-up-investments"
 title: "CGT: exemption for start-up investments"
 paragraph: "¶11-910"
 ---
-
 # CGT: exemption for start-up investments ¶11-910
 
 A CGT exemption applies for investments made, whether directly or indirectly, in a start-up known as an Early Stage Innovation Company (“ESIC”).

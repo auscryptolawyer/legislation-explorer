@@ -8,7 +8,6 @@ section_title: Shareholder base income: consideration credited for investment ma
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EY 19B  Shareholder base income: consideration credited for investment management services
 
 For an income year and a class of policies that are savings product policies and not profit participation policies, a life insurer has shareholder base income equal to the amount that is—

@@ -8,7 +8,6 @@ section_title: Employee share schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 49B  Employee share schemes
 
 **When this section applies**

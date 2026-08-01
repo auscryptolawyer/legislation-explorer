@@ -8,7 +8,6 @@ section_title: Transfers for certain expected tax liabilities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RP 19B  Transfers for certain expected tax liabilities
 
 **Who this section applies to**

@@ -5,7 +5,6 @@ section: "7-060-taxable-income-tax-offsets"
 title: "7-060 - Taxable income tax offsets"
 paragraph: "None"
 ---
-
 # 7-060 - Taxable income tax offsets
 
 Worked example: Taxable income; tax offsets Issue Ian Jacobs, aged 67 years, is married with children. Ian derived $56,000 in salary, $3,000 in bonuses, $800 in bank interest and $5,400 in fully franked dividends during the 2024–25 income tax year. His deductions, which all relate to earning his salary, totalled $2,342.

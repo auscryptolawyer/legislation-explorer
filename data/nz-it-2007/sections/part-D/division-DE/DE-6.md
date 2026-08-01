@@ -8,7 +8,6 @@ section_title: Using logbook for test period
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DE 6  Using logbook for test period
 
 A person may keep a logbook for a test period for the purpose of establishing the proportion of the business use of a motor vehicle for an income year, or part of an income year, that falls within a logbook term. If a person uses a logbook as a method of establishing the proportion of business use, they must also record the total distance travelled in each income year, or part of an income year, that falls within a logbook term.

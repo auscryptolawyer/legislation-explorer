@@ -5,7 +5,6 @@ section: "investigations-by-tax-practitioners-board"
 title: "Investigations by Tax Practitioners Board"
 paragraph: "¶32-060"
 ---
-
 # Investigations by Tax Practitioners Board ¶32-060
 
 A signiﬁcant function of the TPB is to investigate applications for registration or any conduct that may breach the Tax Agent Services Act 2009 (TASA s 60-95).

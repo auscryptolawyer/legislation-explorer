@@ -5,7 +5,6 @@ section: "excess-concessional-contributions-assessment"
 title: "Excess concessional contributions — assessment"
 paragraph: "¶13-830"
 ---
-
 # Excess concessional contributions — assessment ¶13-830
 
 If an individual has excess concessional contributions in a ﬁnancial year, the Commissioner must make a written determination stating the amount of the excess contributions and give the excess concessional contributions determination to the individual (TAA sch 1 s 97-5).

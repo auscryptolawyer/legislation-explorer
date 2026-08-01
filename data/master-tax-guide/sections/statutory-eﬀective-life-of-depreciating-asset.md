@@ -5,7 +5,6 @@ section: "statutory-eﬀective-life-of-depreciating-asset"
 title: "Statutory eﬀective life of depreciating asset"
 paragraph: "¶17-280"
 ---
-
 # Statutory eﬀective life of depreciating asset ¶17-280
 
 Generally, the eﬀective life of an asset is either self-assessed by the taxpayer or determined by the Commissioner (¶17-270). In the following circumstances, however, a statutory eﬀective life applies for the asset.

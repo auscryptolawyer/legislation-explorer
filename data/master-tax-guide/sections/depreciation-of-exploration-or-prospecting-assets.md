@@ -5,7 +5,6 @@ section: "depreciation-of-exploration-or-prospecting-assets"
 title: "Depreciation of exploration or prospecting assets"
 paragraph: "¶17-350"
 ---
-
 # Depreciation of exploration or prospecting assets ¶17-350
 
 Immediate deduction for exploration or prospecting assets An immediate deduction may be available for the cost of depreciating assets that are ﬁrst “used” for exploration or prospecting for either minerals or quarry materials (s 40-80(1); ¶19-010). The materials must be obtainable by mining and quarrying operations.

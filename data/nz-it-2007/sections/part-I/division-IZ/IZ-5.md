@@ -8,7 +8,6 @@ section_title: Companies’ tax losses for tax years before 1991–92 tax year
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IZ 5  Companies’ tax losses for tax years before 1991–92 tax year
 
 **Loss balances carried forward**

@@ -5,7 +5,6 @@ section: "rating-acts"
 title: "Rating Acts"
 paragraph: "¶1-150"
 ---
-
 # Rating Acts ¶1-150
 
 The Rating Acts impose the actual tax on taxable income as determined under ITAA36 or ITAA97. The rates are declared and imposed under a number of diﬀerent Acts. The most important Acts are:

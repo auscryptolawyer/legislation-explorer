@@ -8,7 +8,6 @@ section_title: Credit of RSCT for Maori authority credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LO 2B  Credit of RSCT for Maori authority credit
 
 **Retirement scheme contributions**

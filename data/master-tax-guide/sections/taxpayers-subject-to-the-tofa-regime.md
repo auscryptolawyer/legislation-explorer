@@ -5,7 +5,6 @@ section: "taxpayers-subject-to-the-tofa-regime"
 title: "Taxpayers subject to the TOFA regime"
 paragraph: "¶23-025"
 ---
-
 # Taxpayers subject to the TOFA regime ¶23-025
 
 The following entities must use the TOFA rules in Div 230 when self-assessing the net gains and losses arising on Div 230 ﬁnancial arrangements to which they are a party:

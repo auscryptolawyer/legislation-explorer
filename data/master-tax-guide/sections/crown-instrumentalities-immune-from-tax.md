@@ -5,7 +5,6 @@ section: "crown-instrumentalities-immune-from-tax"
 title: "Crown instrumentalities immune from tax"
 paragraph: "¶1-080"
 ---
-
 # Crown instrumentalities immune from tax ¶1-080
 
 Section 114 of the Constitution prohibits the Commonwealth from imposing any tax on property, of any kind, belonging to a state, while ITAA97 speciﬁcally exempts from income tax the revenue from municipal corporations and other public authorities. The scope of s 114 raises a number of issues that continue to be tested in the courts, including the meaning of a “state”, and whether a particular tax is a “tax on property”.

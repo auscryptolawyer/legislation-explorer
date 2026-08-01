@@ -5,7 +5,6 @@ section: "review-of-objection-decisions-by-tribunal"
 title: "Review of objection decisions by Tribunal"
 paragraph: "¶18-650"
 ---
-
 # Review of objection decisions by Tribunal ¶18-650
 
 A taxpayer dissatisfied with the Commissioner’s decision on an objection, may apply to the ART for review of the decision. The review will be heard in the Taxation and Business Division of the ART. As a practical matter, for the taxpayer to apply to the ART for review, the taxpayer may first need to account for GST in their BAS on a basis they consider incorrect, for the purpose of having the Commissioner disallow the objection to the deemed assessment (Simplot Australia Pty Ltd v FC of T [2023] FCA 1115, VZFS v FC of T [2025] ARTA 2013).

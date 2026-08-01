@@ -5,7 +5,6 @@ section: "overview-taxation-of-dividend-recipients"
 title: "Overview: taxation of dividend recipients"
 paragraph: "¶4-100"
 ---
-
 # Overview: taxation of dividend recipients ¶4-100
 
 Generally speaking, dividends sourced from company proﬁts are assessable to the recipients, but the recipients are entitled to credits for Australian income tax paid by the company in earning those proﬁts. The mechanism for achieving this outcome is called the “imputation system” (¶4-400). The aim is to prevent the income being taxed twice, ie when it is earned by the company and when the net earnings are passed on to shareholders as dividends.

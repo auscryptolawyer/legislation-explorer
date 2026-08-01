@@ -8,7 +8,6 @@ section_title: Income of non-resident general insurer
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CR 3  Income of non-resident general insurer
 
 **What this section applies to**

@@ -5,7 +5,6 @@ section: "whether-gst-component-of-price-is-deductible"
 title: "Whether GST component of price is deductible"
 paragraph: "¶24-030"
 ---
-
 # Whether GST component of price is deductible ¶24-030
 
 Registered business entities normally cannot claim income tax deductions for the GST component of the things they acquire (ITAA 1997, s 27-5). The reason is that they can normally claim the GST back as an input tax credit, so they do not ultimately have any additional cost.

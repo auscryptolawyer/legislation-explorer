@@ -8,7 +8,6 @@ section_title: Valuation of group assets: insurance proceeds from North Island f
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FZ 7B  Valuation of group assets: insurance proceeds from North Island flooding events
 
 **When this section applies**

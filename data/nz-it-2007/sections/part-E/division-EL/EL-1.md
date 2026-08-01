@@ -8,7 +8,6 @@ section_title: Outline of subpart: general
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EL 1  Outline of subpart: general
 
 **General outline**

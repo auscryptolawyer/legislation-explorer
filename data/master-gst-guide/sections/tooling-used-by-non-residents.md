@@ -5,7 +5,6 @@ section: "tooling-used-by-non-residents"
 title: "Tooling used by non-residents"
 paragraph: "¶9-235"
 ---
-
 # Tooling used by non-residents ¶9-235
 
 Supplies of tooling to non-residents are GST-free if the tooling is to be used in Australia solely to manufacture goods for export (s 38-188). This only applies if the non-resident is not registered and not required to be registered. “Tooling” means jigs, patterns, templates, dies, punches and similar machine tools.

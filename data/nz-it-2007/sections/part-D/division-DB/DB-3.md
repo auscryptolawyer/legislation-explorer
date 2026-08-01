@@ -8,7 +8,6 @@ section_title: Determining tax liabilities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 3  Determining tax liabilities
 
 **Deduction**

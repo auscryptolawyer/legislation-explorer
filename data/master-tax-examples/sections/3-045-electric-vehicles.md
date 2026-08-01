@@ -5,7 +5,6 @@ section: "3-045-electric-vehicles"
 title: "3-045 - Electric vehicles"
 paragraph: "None"
 ---
-
 # 3-045 - Electric vehicles
 
 Worked example: Electric vehicles Issue Cleancut Pty Ltd purchases an electric vehicle, a Hyundai Ionic 5, on 1 July 2024 for its managing director, which is expected to be used for both work and private purposes, split 50:50 between the 2. The cost of the vehicle is $72,000, excluding GST. Cleancut Pty Ltd wishes to understand the fringe benefits tax (FBT) and other taxation implications of the purchase.

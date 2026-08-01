@@ -5,7 +5,6 @@ section: "time-for-payment"
 title: "Time for payment"
 paragraph: "¶25-400"
 ---
-
 # Time for payment ¶25-400
 
 In the case of individuals or trustees, income tax is due for payment 21 days after the due date for lodgment of the taxpayer’s return or 21 days after a notice of assessment is given to the taxpayer, whichever is the later (ITAA97 s 5-5(5), (6)) (see ¶25-110 as to when a notice of assessment is served). This rule also applies to the payment of administrative penalties imposed under TAA sch 1 Pt 4-25 (¶29-000) and to GIC (¶29-510). It does not apply to late lodgment penalties payable by a company or fund.

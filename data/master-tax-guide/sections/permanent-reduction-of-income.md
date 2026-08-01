@@ -5,7 +5,6 @@ section: "permanent-reduction-of-income"
 title: "Permanent reduction of income"
 paragraph: "¶18-280"
 ---
-
 # Permanent reduction of income ¶18-280
 
 Primary producers may have calculations of average income started afresh, with high taxable incomes of previous years being dropped out. This will occur if they can establish that retirement from an occupation, or some other event, has resulted in taxable income (excluding income from unusual sources) being permanently reduced to an amount that is less than two-thirds of average taxable income. The taxpayer can then choose to recommence averaging based on the reduced level of income (ITAA97 s 392-95).

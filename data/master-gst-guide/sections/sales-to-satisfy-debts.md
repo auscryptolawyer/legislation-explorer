@@ -5,7 +5,6 @@ section: "sales-to-satisfy-debts"
 title: "Sales to satisfy debts"
 paragraph: "¶10-070"
 ---
-
 # Sales to satisfy debts ¶10-070
 
 Say that you repossess goods under a hire-purchase agreement and sell them to recover the debt. In effect, you are making a sale on behalf of the debtor. In such a situation, you are liable for GST in the same way as if the debtor had made the sale.

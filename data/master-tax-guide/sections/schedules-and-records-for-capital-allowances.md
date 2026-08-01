@@ -5,7 +5,6 @@ section: "schedules-and-records-for-capital-allowances"
 title: "Schedules and records for capital allowances"
 paragraph: "¶17-880"
 ---
-
 # Schedules and records for capital allowances ¶17-880
 
 Taxpayers claiming capital allowance deductions need to include the total amount on their tax return. A capital allowance schedule is no longer included with tax returns. To assist taxpayers with their calculations, the ATO has provided a worksheet in its publication Guide to depreciating assets 2024.

@@ -5,7 +5,6 @@ section: "making-covid-19-re-contributions"
 title: "Making COVID-19 re-contributions"
 paragraph: "¶13-797"
 ---
-
 # Making COVID-19 re-contributions ¶13-797
 
 As part of the COVID-19 relief measures, superannuation fund members and RSA holders who satisfy the eligibility rules in reg 6.19B of the SIS Regulations (or reg 4.22B of the RSA Regulations) were able to apply for early release of their preserved or restricted non-preserved beneﬁts in a regulated superannuation fund or RSA for an amount of up to $10,000 in 2019–20 and a further amount of up to $10,000 in 2020–21 (for applications made from 1 July 2020 until 31 December 2020).

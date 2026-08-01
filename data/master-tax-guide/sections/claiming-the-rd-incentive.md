@@ -5,7 +5,6 @@ section: "claiming-the-rd-incentive"
 title: "Claiming the R&D incentive"
 paragraph: "¶20-170"
 ---
-
 # Claiming the R&D incentive ¶20-170
 
 Each R&D entity is entitled to a tax oﬀset on eligible R&D expenditure on registered R&D activities instead of tax deductions for this expenditure. The rate of this oﬀset includes an additional amount over the company’s tax rate for R&D expenditure up to the R&D expenditure threshold in s 355-100(3). The tax oﬀset for expenditure above this amount is at the R&D entity’s corporate tax rate.

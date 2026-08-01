@@ -8,7 +8,6 @@ section_title: Calculation of New Zealand tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LJ 5  Calculation of New Zealand tax
 
 **What this section does**

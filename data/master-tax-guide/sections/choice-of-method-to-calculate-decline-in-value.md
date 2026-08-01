@@ -5,7 +5,6 @@ section: "choice-of-method-to-calculate-decline-in-value"
 title: "Choice of method to calculate decline in value"
 paragraph: "¶17-480"
 ---
-
 # Choice of method to calculate decline in value ¶17-480
 
 A depreciating asset starts to decline in value from its “start time”, ie from when the taxpayer ﬁrst uses it or has it installed ready for use for any purpose (ITAA97 s 40-60). However, deductions for the decline in value of the asset are only available in respect of the taxpayer’s use of the asset for taxable purposes (¶17-010). A tangible depreciating asset does not start to decline if it is held in anticipation of being used in a business that has not commenced to be carried on (TD 2007/5).

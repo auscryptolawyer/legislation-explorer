@@ -5,7 +5,6 @@ section: "recovery-of-tax"
 title: "Recovery of tax"
 paragraph: "¶25-510"
 ---
-
 # Recovery of tax ¶25-510
 
 Income tax (and other tax-related liabilities), when it becomes due and payable (¶25-400), is a debt due to the Commonwealth of Australia (TAA sch 1 s 255-5(1)). Liability to pay tax is a civil one and failure to pay exposes the taxpayer to civil but not criminal remedies. However, a criminal oﬀence may be committed where arrangements are entered into with the purpose of rendering a company or trustee unable, or likely not to be able, to pay tax (¶30-000).

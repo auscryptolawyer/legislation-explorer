@@ -5,7 +5,6 @@ section: "liability-of-agents-for-gst"
 title: "Liability of agents for GST"
 paragraph: "¶17-400"
 ---
-
 # Liability of agents for GST ¶17-400
 
 If you act through an agent, the agent’s actions will normally be treated as if you did them yourself. This follows from the general law relating to agents. For GST purposes, it means that if sales are made through your agent, you are the one liable for GST, not the agent. In the same way, if purchases are made through your agent, you are the one entitled to claim the input tax credit, not the agent. You will also be entitled to claim input tax credits for reimbursements you make to your agent for expenses personally incurred by the agent (¶5-040).

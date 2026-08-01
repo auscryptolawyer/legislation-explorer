@@ -8,7 +8,6 @@ section_title: Choosing to treat income as non-resident financial arrangement in
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 12G  Choosing to treat income as non-resident financial arrangement income
 
 **When this section applies**

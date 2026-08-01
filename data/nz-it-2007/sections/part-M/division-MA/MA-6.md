@@ -8,7 +8,6 @@ section_title: Avoidance arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MA 6  Avoidance arrangements
 
 **Arrangements involving tax credits for families**

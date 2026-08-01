@@ -5,7 +5,6 @@ section: "rd-activities-and-entities"
 title: "R&D activities and entities"
 paragraph: "¶20-165"
 ---
-
 # R&D activities and entities ¶20-165
 
 R&D activities The value of the tax oﬀset available under the incentive is the expenditure (including declines in the value of R&D assets) on R&D activities (s 355-20). These activities include “core R&D activities” and “supporting R&D activities”.

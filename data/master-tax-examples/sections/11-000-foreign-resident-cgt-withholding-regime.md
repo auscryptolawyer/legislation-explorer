@@ -5,7 +5,6 @@ section: "11-000-foreign-resident-cgt-withholding-regime"
 title: "11-000 - Foreign resident CGT withholding regime"
 paragraph: "None"
 ---
-
 # 11-000 - Foreign resident CGT withholding regime
 
 Worked example: Foreign resident CGT withholding regime Issue Ping and Chi Xu are sisters. Ping is a tax resident in Australia and Chi is a tax resident in China. Ping works full time as a pharmacist and invests in the property market.

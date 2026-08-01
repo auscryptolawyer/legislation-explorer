@@ -8,7 +8,6 @@ section_title: Purpose and application of rules and nature of arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GC 6  Purpose and application of rules and nature of arrangements
 
 **Purpose of rules**

@@ -5,7 +5,6 @@ section: "10-140-application-for-permission-to-depart-from-benchmark-rule"
 title: "10-140 - Application for permission to depart from benchmark rule"
 paragraph: "None"
 ---
-
 # 10-140 - Application for permission to depart from benchmark rule
 
 Worked example: Application for permission to depart from benchmark rule Issue Flora Pty Ltd (Flora) is an Australian resident private company that carries on a florist business in the Sydney CBD. In July 2024, Flora paid dividends to its shareholders franked to 60% and this established its benchmark franking percentage as 60% for the 2024–25 franking period. Flora proposed to make another distribution in December 2024 franked to 60% (consistent with the benchmark rule).

@@ -5,7 +5,6 @@ section: "grounds-for-claiming-wet-tax-credits"
 title: "Grounds for claiming WET tax credits"
 paragraph: "¶22-550"
 ---
-
 # Grounds for claiming WET tax credits ¶22-550
 
 The situations in which a WET credit can be claimed are set out in a table in WET Act, s 17-5. In broad terms, for dealings in the 2018/19 financial year onwards, they can be grouped into the following categories:

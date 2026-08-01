@@ -5,7 +5,6 @@ section: "speciﬁc-rules-for-capital-proceeds"
 title: "Speciﬁc rules for capital proceeds"
 paragraph: "¶11-520"
 ---
-
 # Speciﬁc rules for capital proceeds ¶11-520
 
 Exercised options A special rule applies where there is a grant, renewal or extension of an option in relation to a CGT asset, another entity exercises the option and, because of the exercise of that option, the taxpayer creates (including grants or issues) or disposes of the asset. In that case, the capital proceeds from the creation (including grant or issue) or disposal include any payment received for granting, renewing or extending the option (s 116-65).

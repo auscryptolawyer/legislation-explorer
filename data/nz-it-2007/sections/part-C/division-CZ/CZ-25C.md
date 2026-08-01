@@ -8,7 +8,6 @@ section_title: Land or buildings as revenue account property affected by North I
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 25C  Land or buildings as revenue account property affected by North Island flooding events and replaced—insurance or compensation
 
 **When this section applies**

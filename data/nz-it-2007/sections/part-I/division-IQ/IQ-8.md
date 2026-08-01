@@ -8,7 +8,6 @@ section_title: When group membership lacking in tax year of use
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 8  When group membership lacking in tax year of use
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: When this subpart applies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 1A  When this subpart applies
 
 This subpart applies when, for a country or territory and a tax year, a person has—

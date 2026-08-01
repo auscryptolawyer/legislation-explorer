@@ -5,7 +5,6 @@ section: "cgt-consequences-of-exercise-of-rights"
 title: "CGT consequences of exercise of rights"
 paragraph: "¶12-610"
 ---
-
 # CGT consequences of exercise of rights ¶12-610
 
 Special rules may apply if a taxpayer exercises rights to acquire shares (or options to acquire shares) in a company or to acquire units (or options to acquire units) in a unit trust (s 130-40). Options are treated as rights for these rules (s 130-50). Diﬀerent rules apply to the exercise of rights acquired under employee share schemes (¶10-080).

@@ -8,7 +8,6 @@ section_title: Payments to person outside New Zealand producing deduction withou
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FH 7  Payments to person outside New Zealand producing deduction without income
 
 **When this section applies**

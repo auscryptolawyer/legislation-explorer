@@ -5,7 +5,6 @@ section: "rd-registrations-reviews-and-objections"
 title: "R&D registrations, reviews and objections"
 paragraph: "¶20-190"
 ---
-
 # R&D registrations, reviews and objections ¶20-190
 
 There is no separate provision for an R&D entity to object against an assessment of the amount of an R&D tax oﬀset. Any objection is dealt with under the normal objection provisions if the oﬀset is part of an assessment (¶28-010).

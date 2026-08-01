@@ -5,7 +5,6 @@ section: "effect-of-having-a-gst-group"
 title: "Effect of having a GST group"
 paragraph: "¶17-020"
 ---
-
 # Effect of having a GST group ¶17-020
 
 The main effects of having a GST group are as follows.

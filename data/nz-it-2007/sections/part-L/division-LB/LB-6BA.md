@@ -8,7 +8,6 @@ section_title: Tax credits for TSWT
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LB 6BA  Tax credits for TSWT
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "tfns-and-investments"
 title: "TFNs and investments"
 paragraph: "¶33-030"
 ---
-
 # TFNs and investments ¶33-030
 
 The failure by an investor to quote a TFN in connection with an investment means that the investment body must withhold an amount under PAYG withholding from any income that it becomes liable to pay in connection with that investment (TAA sch 1 s 12-140: ¶26-200). The amount of tax is calculated using the maximum personal marginal tax rate (¶42-000), plus Medicare (¶42-010). An entity that made an investment in the course of an enterprise may quote its ABN, rather than its TFN, to the investment body to avoid withholding (¶33-130). Amounts withheld will be allowed as a credit in the taxpayer’s assessment. Income is treated as being paid to an investor even though it is merely reinvested, accumulated, capitalised or dealt with on the investor’s behalf. See ¶33-045 for the various exemptions available.

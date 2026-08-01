@@ -5,7 +5,6 @@ section: "record-keeping"
 title: "Record-keeping"
 paragraph: "¶9-045"
 ---
-
 # Record-keeping ¶9-045
 
 Every taxpayer carrying on a business must keep records, irrespective of whether any of these documents are required to be lodged with a tax return, that record and explain all transactions and other acts engaged in by the taxpayer that are relevant for tax purposes, in such a way as to enable the person’s tax liability to be readily ascertained, including:

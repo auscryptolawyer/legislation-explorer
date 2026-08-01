@@ -5,7 +5,6 @@ section: "the-nature-and-purpose-of-adfs"
 title: "The nature and purpose of ADFs"
 paragraph: "¶13-400"
 ---
-
 # The nature and purpose of ADFs ¶13-400
 
 Approved deposit funds (ADFs) function as roll-over vehicles so as to enable an individual’s superannuation beneﬁts to be retained in the superannuation system until they are paid from the ADF.

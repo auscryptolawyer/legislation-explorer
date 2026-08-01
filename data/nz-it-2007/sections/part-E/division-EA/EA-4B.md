@@ -8,7 +8,6 @@ section_title: Deferred tax for unlisted employee share schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EA 4B  Deferred tax for unlisted employee share schemes
 
 **When this section applies**

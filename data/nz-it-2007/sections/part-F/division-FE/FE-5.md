@@ -8,7 +8,6 @@ section_title: Thresholds for application of interest apportionment rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 5  Thresholds for application of interest apportionment rules
 
 **Threshold for excess debt entity**

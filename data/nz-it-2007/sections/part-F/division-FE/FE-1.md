@@ -8,7 +8,6 @@ section_title: What this subpart does
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 1  What this subpart does
 
 **Interest adjustment**

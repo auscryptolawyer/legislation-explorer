@@ -5,7 +5,6 @@ section: "tfn-exemptions-for-investors"
 title: "TFN exemptions for investors"
 paragraph: "¶33-045"
 ---
-
 # TFN exemptions for investors ¶33-045
 
 There are various exemptions from the TFN quotation rules governing investments (ITAA36 ss 202EB to 202EH; TAA sch 1 ss 12-165 and 12-170).

@@ -8,7 +8,6 @@ section_title: Direct income interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 9  Direct income interests
 
 **Categories of direct income interest**

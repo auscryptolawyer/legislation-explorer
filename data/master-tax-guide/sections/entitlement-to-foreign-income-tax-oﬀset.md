@@ -5,7 +5,6 @@ section: "entitlement-to-foreign-income-tax-oﬀset"
 title: "Entitlement to foreign income tax oﬀset"
 paragraph: "¶21-680"
 ---
-
 # Entitlement to foreign income tax oﬀset ¶21-680
 
 The general rule is that, to qualify for an oﬀset for an income year, the taxpayer must have paid foreign income tax on an amount that is included in its assessable income for that year (s 770-10).

@@ -5,7 +5,6 @@ section: "reimbursement-agreements"
 title: "Reimbursement agreements"
 paragraph: "¶6-270"
 ---
-
 # Reimbursement agreements ¶6-270
 
 In certain cases involving tax avoidance, a presently entitled beneﬁciary who would otherwise be assessed on trust income (¶6-110) will be deemed not to be presently entitled to income and the trustee will be assessed at a penal rate of tax (s 100A).

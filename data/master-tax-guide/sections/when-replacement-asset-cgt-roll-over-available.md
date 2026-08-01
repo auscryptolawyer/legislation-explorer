@@ -5,7 +5,6 @@ section: "when-replacement-asset-cgt-roll-over-available"
 title: "When replacement-asset CGT roll-over available"
 paragraph: "¶12-150"
 ---
-
 # When replacement-asset CGT roll-over available ¶12-150
 
 A replacement-asset roll-over allows taxpayers to defer the making of a capital gain or loss from one CGT event until a later CGT event happens. It involves a CGT event happening in relation to an asset which the taxpayer no longer owns after the roll-over. Instead, the taxpayer owns a diﬀerent asset (ie the replacement asset) after the roll-over. Any capital gain or loss arising from the CGT event which gave rise to the roll-over is deferred until a later time when a CGT event happens to the replacement asset. The CGT characteristics of the original asset are transferred to the replacement asset. Any CGT liability remains with the taxpayer, even though that liability arises in relation to a diﬀerent asset.

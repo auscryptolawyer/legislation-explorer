@@ -5,7 +5,6 @@ section: "when-payg-instalments-are-payable"
 title: "When PAYG instalments are payable"
 paragraph: "¶27-200"
 ---
-
 # When PAYG instalments are payable ¶27-200
 
 When quarterly PAYG instalments are payable A taxpayer’s ﬁrst instalment will be payable for the PAYG instalment quarter in which the Commissioner ﬁrst gives the taxpayer an instalment rate (TAA s 45-50). This need not be the ﬁrst quarter of that income year.

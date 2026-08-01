@@ -5,7 +5,6 @@ section: "water-facilities"
 title: "Water facilities"
 paragraph: "¶18-080"
 ---
-
 # Water facilities ¶18-080
 
 Capital expenditure on water facilities for primary production land may qualify for an immediate deduction where it is incurred after 7.30 pm on 12 May 2015 (ITAA97 ss 40-515 to 40-575). Expenditure incurred before that (but after 1 July 2004) will qualify for deduction spread over 3 years.

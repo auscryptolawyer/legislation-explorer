@@ -5,7 +5,6 @@ section: "contracting-with-associated-taxpayers"
 title: "Contracting with associated taxpayers"
 paragraph: "¶31-370"
 ---
-
 # Contracting with associated taxpayers ¶31-370
 
 The methods of diverting income already discussed concern the redirection of income at its source, so that it is not in fact derived by the high rate taxpayer at all. An alternative method of diverting income is to contract with an associated low rate taxpayer for the payment of amounts that, although income to the recipient, are deductible (¶6-010) to the high rate taxpayer. It will be crucial to ensure that the outgoing is deductible and, of course, that the perceived low rate taxpayer is in fact a low rate taxpayer, eg provisions such as the CFC rules (¶21-110) strictly limit access to low rate taxpayers in the foreign context.

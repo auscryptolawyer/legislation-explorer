@@ -5,7 +5,6 @@ section: "members-of-unincorporated-associations"
 title: "Members of unincorporated associations"
 paragraph: "¶18-230"
 ---
-
 # Members of unincorporated associations ¶18-230
 
 While not a separate legal entity, an unincorporated association or body is an “entity” for the purposes of the GST law (s 184-1). Such an association is, for example, obliged to apply to be registered under the GST Act if it is carrying on an enterprise and its GST turnover meets the registration turnover threshold.

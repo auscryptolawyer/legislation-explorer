@@ -5,7 +5,6 @@ section: "2-160-sale-of-property-settlement-in-following-income-year"
 title: "2-160 - Sale of property settlement in following income year"
 paragraph: "None"
 ---
-
 # 2-160 - Sale of property settlement in following income year
 
 Worked example: Sale of property; settlement in following income year Issue Sam Williams entered into a contract for the disposal of land on 25 June 2025. It was agreed with the purchaser that settlement be delayed by 180 days, with settlement to take place on 22 December 2025. The sale of the land gave rise to a capital gain of $400,000.

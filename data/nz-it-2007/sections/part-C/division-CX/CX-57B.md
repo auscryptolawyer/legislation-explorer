@@ -8,7 +8,6 @@ section_title: Amounts derived during periods covered by calculation methods
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 57B  Amounts derived during periods covered by calculation methods
 
 **When this section applies**

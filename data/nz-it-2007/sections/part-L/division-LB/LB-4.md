@@ -8,7 +8,6 @@ section_title: Tax credits for families
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LB 4  Tax credits for families
 
 **Tax credits under subparts MD and ME**

@@ -5,7 +5,6 @@ section: "business-continuity-test"
 title: "Business continuity test"
 paragraph: "¶3-120"
 ---
-
 # Business continuity test ¶3-120
 
 A company that satisﬁes the business continuity test may be entitled to claim a deduction for prior year losses even if it fails the continuity of ownership test (COT) (¶3-105) (ITAA97 s 165-13). The business continuity test may also be applied in relation to a company’s current year losses (¶3-065) or deductions for bad debts (¶3-150).

@@ -5,7 +5,6 @@ section: "rights-to-future-income"
 title: "Rights to future income"
 paragraph: "¶30-900"
 ---
-
 # Rights to future income ¶30-900
 
 Alienation of income versus application of income Instead of transferring the property which gives rise to the receipt of assessable income, a taxpayer may prefer simply to transfer the right to that income, while retaining the property. However, a transfer of this type faces a number of diﬃculties.

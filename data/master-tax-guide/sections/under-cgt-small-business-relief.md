@@ -5,7 +5,6 @@ section: "under-cgt-small-business-relief"
 title: "under CGT small business relief"
 paragraph: "¶7-126"
 ---
-
 # under CGT small business relief ¶7-126
 
 Where the CGT event involves the creation, transfer, variation or cessation of a right or interest that entitles an entity to either:

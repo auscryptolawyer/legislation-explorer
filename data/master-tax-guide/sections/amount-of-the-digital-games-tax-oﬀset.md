@@ -5,7 +5,6 @@ section: "amount-of-the-digital-games-tax-oﬀset"
 title: "Amount of the digital games tax oﬀset"
 paragraph: "¶20-415"
 ---
-
 # Amount of the digital games tax oﬀset ¶20-415
 
 The digital games tax oﬀset (¶20-400) is 30% of a company’s total QADE (ITAA97 s 378-15). The amount of a company’s QADE is determined by the Arts Minister. The amount of the oﬀset is capped at $20 million per income year for a company and its related companies, even if the company applied for multiple certiﬁcates in the income year. For these purposes, a related company is a company that is “connected with” or an “aﬃliate of” a company using the aggregation tests that apply to small business entities (¶7-050).

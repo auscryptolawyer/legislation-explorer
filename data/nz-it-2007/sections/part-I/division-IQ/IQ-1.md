@@ -8,7 +8,6 @@ section_title: General treatment
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 1  General treatment
 
 **General statement**

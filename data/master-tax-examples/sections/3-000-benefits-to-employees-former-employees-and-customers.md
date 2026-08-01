@@ -5,7 +5,6 @@ section: "3-000-benefits-to-employees-former-employees-and-customers"
 title: "3-000 - Benefits to employees former employees and customers"
 paragraph: "None"
 ---
-
 # 3-000 - Benefits to employees former employees and customers
 
 Worked example: Benefits to employees, former employees and customers Issue Mate Co Ltd, is a manufacturer of electronic equipment. During the FBT year ending 31 March 2025, Mate Co provided the following items: (a) shares in an employee share scheme (ESS) to a current employee (b) superannuation contributions paid into a former employee’s complying fund under a salary sacrifice arrangement (c) a briefcase for a potential employee as an enticement to join the organisation (d) a holiday package costing $5,500 to a customer as part of a competition, and (e) the payment of an employee’s personal credit card expenses of $10,000 under a salary sacrifice arrangement.

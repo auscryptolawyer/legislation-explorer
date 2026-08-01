@@ -8,7 +8,6 @@ section_title: Cost
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EB 6  Cost
 
 **Valuation at cost**

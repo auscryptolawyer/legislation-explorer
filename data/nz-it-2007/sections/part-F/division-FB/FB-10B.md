@@ -8,7 +8,6 @@ section_title: Look-through companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 10B  Look-through companies
 
 **When this section applies**

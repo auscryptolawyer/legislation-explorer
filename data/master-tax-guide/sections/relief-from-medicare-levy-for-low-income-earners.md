@@ -5,7 +5,6 @@ section: "relief-from-medicare-levy-for-low-income-earners"
 title: "Relief from Medicare levy for low income earners"
 paragraph: "¶2-330"
 ---
-
 # Relief from Medicare levy for low income earners ¶2-330
 
 Relief from the Medicare levy is provided to certain low income earners. For example, no levy is payable by a person whose taxable income for 2023–24 is $26,000 or less. Where the taxable income exceeds $26,000 but does not exceed $32,501, the levy is shaded in at the rate of 10% of the excess over $26,000 (MLA s 7).

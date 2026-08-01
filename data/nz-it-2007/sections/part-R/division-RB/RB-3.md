@@ -8,7 +8,6 @@ section_title: Schedular income tax liability for filing taxpayers for non-resid
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RB 3  Schedular income tax liability for filing taxpayers for non-resident passive income
 
 **When this section applies**

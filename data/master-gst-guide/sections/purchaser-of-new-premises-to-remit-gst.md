@@ -5,7 +5,6 @@ section: "purchaser-of-new-premises-to-remit-gst"
 title: "Purchaser of new premises to remit GST"
 paragraph: "¶11-022"
 ---
-
 # Purchaser of new premises to remit GST ¶11-022
 
 Purchasers of newly-constructed residential premises or new subdivisions of potential residential land have an obligation to withhold an amount on account of GST and remit it directly to the ATO (Administration Act, Sch 1, s 14-250). This measure is intended to avoid the practice of some developer/vendors who fail to remit the GST despite having claimed input tax credits on their construction costs (“Improving the Integrity of GST on Property Transactions”, treasury.gov.au/consultation/c2017-t220266). A major example of this, known as “phoenixing” (¶20-000), is where the developer simply dissolves the business before their next BAS lodgment.

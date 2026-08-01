@@ -5,7 +5,6 @@ section: "cgt-event-from-disposal-of-cgt-asset"
 title: "CGT event from disposal of CGT asset"
 paragraph: "¶11-250"
 ---
-
 # CGT event from disposal of CGT asset ¶11-250
 
 CGT event A1 — Disposal of a CGT asset CGT event A1 happens if a taxpayer disposes of a CGT asset (s 104-10). The disposal of a CGT asset takes place if a change of ownership occurs from the taxpayer to another entity, whether because of some act or event or by operation of law.

@@ -5,7 +5,6 @@ section: "cross-border-business-transactions"
 title: "Cross-border business transactions"
 paragraph: "¶19-250"
 ---
-
 # Cross-border business transactions ¶19-250
 
 A special transitional rule applied to cross-border business transactions affected by the rules applying for tax periods starting on or after 1 October 2016 (see, for example, ¶4-101). The effect was that those rules do not apply to a supply if there is a written agreement made before 4 May 2016 that specifically identifies the supply and either the money consideration for it or a way of working out that amount.

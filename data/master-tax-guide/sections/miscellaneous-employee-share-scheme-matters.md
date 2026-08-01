@@ -5,7 +5,6 @@ section: "miscellaneous-employee-share-scheme-matters"
 title: "Miscellaneous employee share scheme matters"
 paragraph: "¶10-096"
 ---
-
 # Miscellaneous employee share scheme matters ¶10-096
 
 Indeterminate rights In some cases it is unclear at the time of acquisition whether a right to a beneﬁt will result in the receipt of an “ESS interest” (¶10-085), or it may be that the exact number of ESS interests to be received is unknown. If and when it becomes clear that a right to the beneﬁt will result in the receipt of a deﬁnite ESS interest or a deﬁnite number of ESS interests, the right will be treated as an ESS interest from the time that the original right was acquired (s 83A-340; Davies 2015 ATC ¶20-520; [2015] FCA 773 and ATO Impact Statement). For the circumstances when a contractual right, which is subject to the satisfaction of a condition, becomes a right to acquire a beneﬁcial interest in a share, see TD 2016/17.

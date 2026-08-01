@@ -8,7 +8,6 @@ section_title: What is a financial arrangement?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 3  What is a financial arrangement?
 
 **Meaning**

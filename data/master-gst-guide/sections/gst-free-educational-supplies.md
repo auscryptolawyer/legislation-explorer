@@ -5,7 +5,6 @@ section: "gst-free-educational-supplies"
 title: "GST-free educational supplies"
 paragraph: "¶14-000"
 ---
-
 # GST-free educational supplies ¶14-000
 
 - education courses (¶14-002)

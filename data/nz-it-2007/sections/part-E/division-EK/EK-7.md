@@ -8,7 +8,6 @@ section_title: Deduction for payment
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EK 7  Deduction for payment
 
 **When this section applies**

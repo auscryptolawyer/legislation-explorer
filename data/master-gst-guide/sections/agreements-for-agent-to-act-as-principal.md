@@ -5,7 +5,6 @@ section: "agreements-for-agent-to-act-as-principal"
 title: "Agreements for agent to act as principal"
 paragraph: "¶17-420"
 ---
-
 # Agreements for agent to act as principal ¶17-420
 
 A principal and agent can enter into a written agreement that the agent should be treated as a principal for GST purposes (s 153-50). The agreement must specify the type of supplies or acquisitions involved, and both parties must be registered. The agreement must also specify that where the agent makes supplies to third parties, the tax invoice and any adjustment note will be issued by the agent in its own name. A record of the agreement must be kept by the original principal (Taxation Administration Act 1953 (TAA), Sch 1 s 382-5).

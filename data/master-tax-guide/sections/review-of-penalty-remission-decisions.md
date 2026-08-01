@@ -5,7 +5,6 @@ section: "review-of-penalty-remission-decisions"
 title: "Review of penalty remission decisions"
 paragraph: "¶29-410"
 ---
-
 # Review of penalty remission decisions ¶29-410
 
 Generally, the ART may review decisions of the Commissioner relating to the remission of penalties.

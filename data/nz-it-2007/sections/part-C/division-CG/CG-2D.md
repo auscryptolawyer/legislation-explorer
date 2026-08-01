@@ -8,7 +8,6 @@ section_title: Remitted and other amounts: companies leaving groups
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 2D  Remitted and other amounts: companies leaving groups
 
 **When this section applies**

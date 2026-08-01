@@ -5,7 +5,6 @@ section: "covering-gst-in-the-contract"
 title: "Covering GST in the contract"
 paragraph: "¶19-400"
 ---
-
 # Covering GST in the contract ¶19-400
 
 If GST is payable on the transaction, but has not been provided for in some way in the contract, the supplier may find itself liable to account for the GST without any legal right of recovery from the customer. In this respect, the risk lies on the supplier to: (1) be clear on whether GST applies, in whole or in part. Particular attention should be paid to contracts which span 1 July 2000 and to whether any transitional rules apply (2) if GST applies, ensure that either it is included in the price, or is otherwise provided for.

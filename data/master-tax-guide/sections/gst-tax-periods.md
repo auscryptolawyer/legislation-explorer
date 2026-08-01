@@ -5,7 +5,6 @@ section: "gst-tax-periods"
 title: "GST tax periods"
 paragraph: "¶34-120"
 ---
-
 # GST tax periods ¶34-120
 
 Tax periods are either monthly or quarterly, depending on the circumstances. In certain situations, annual tax periods may also apply.

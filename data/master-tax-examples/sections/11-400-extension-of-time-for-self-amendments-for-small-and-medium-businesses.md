@@ -5,7 +5,6 @@ section: "11-400-extension-of-time-for-self-amendments-for-small-and-medium-busi
 title: "11-400 - Extension of time for self-amendments for small and medium businesses"
 paragraph: "None"
 ---
-
 # 11-400 - Extension of time for self-amendments for small and medium businesses
 
 businesses Worked example: Extension of time for self-amendments for small and medium businesses Issue Bare Bones Pty Ltd lodges its income tax return for the year ended 30 June 2025 on 14 May 2026 and subsequently receives a notice of assessment on 28 June 2026.

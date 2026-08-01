@@ -8,7 +8,6 @@ section_title: Lloyd’s of London: income from life insurance premiums
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CR 3B  Lloyd’s of London: income from life insurance premiums
 
 **What this section applies to**

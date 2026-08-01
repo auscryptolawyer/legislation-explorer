@@ -8,7 +8,6 @@ section_title: Foreign superannuation withdrawal in initial period of residency
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 28B  Foreign superannuation withdrawal in initial period of residency
 
 A foreign superannuation withdrawal is exempt income of a person if the person—

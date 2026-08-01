@@ -5,7 +5,6 @@ section: "objections-to-commissioners-decisions"
 title: "Objections to Commissioner’s decisions"
 paragraph: "¶18-600"
 ---
-
 # Objections to Commissioner’s decisions ¶18-600
 
 A taxpayer may object to a GST assessment made by the Commissioner or, in certain circumstances, to a failure by the Commissioner to issue an assessment (Administration Act, sch 1, s 155-30; 155-90). For further details of assessments, see ¶8-080.

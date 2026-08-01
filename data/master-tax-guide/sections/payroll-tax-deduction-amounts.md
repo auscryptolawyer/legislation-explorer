@@ -5,7 +5,6 @@ section: "payroll-tax-deduction-amounts"
 title: "Payroll tax deduction amounts"
 paragraph: "¶36-040"
 ---
-
 # Payroll tax deduction amounts ¶36-040
 
 Employers are entitled to a deduction, so that where taxable wages exceed a speciﬁed threshold, only the excess is subject to payroll tax. In most states, a ﬂat deduction is allowed for all employers.

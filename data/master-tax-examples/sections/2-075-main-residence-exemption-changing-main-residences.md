@@ -5,7 +5,6 @@ section: "2-075-main-residence-exemption-changing-main-residences"
 title: "2-075 - Main residence exemption changing main residences"
 paragraph: "None"
 ---
-
 # 2-075 - Main residence exemption changing main residences
 
 Worked example: Main residence exemption: changing main residences Issue Terry and June Medford bought a house in Kew, Melbourne, on 1 May 2012 for $500,000. They moved in straight away and the property was their main residence until they decided to downsize and bought another, smaller, home in Wheelers Hill, under a contract that was settled on 1 October 2024.

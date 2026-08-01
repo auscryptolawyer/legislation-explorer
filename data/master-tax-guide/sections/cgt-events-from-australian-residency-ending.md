@@ -5,7 +5,6 @@ section: "cgt-events-from-australian-residency-ending"
 title: "CGT events from Australian residency ending"
 paragraph: "¶11-330"
 ---
-
 # CGT events from Australian residency ending ¶11-330
 
 resident CGT event I1 happens if an individual or company stops being an Australian resident (s 104-160). Special rules apply to individuals and companies (including CFCs) when they become residents (¶12-740).

@@ -8,7 +8,6 @@ section_title: When limitation rule does not apply
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DD 3  When limitation rule does not apply
 
 The limitation rule is either restricted in its application or does not apply to deductions for the expenditure described in sections DD 4 to DD 8.

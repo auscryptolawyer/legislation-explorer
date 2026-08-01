@@ -5,7 +5,6 @@ section: "aggregated-turnover-test"
 title: "Aggregated turnover test"
 paragraph: "¶1-260"
 ---
-
 # Aggregated turnover test ¶1-260
 
 The second requirement for a small business entity is that it satisfies the “aggregated turnover” test.

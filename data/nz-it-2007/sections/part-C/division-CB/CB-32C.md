@@ -8,7 +8,6 @@ section_title: Dividend income for first year of look-through company
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 32C  Dividend income for first year of look-through company
 
 **When this section applies**

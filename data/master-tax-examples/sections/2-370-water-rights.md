@@ -5,7 +5,6 @@ section: "2-370-water-rights"
 title: "2-370 - Water rights"
 paragraph: "None"
 ---
-
 # 2-370 - Water rights
 
 Worked example: Water rights Issue Bernard Wilkie acquired vacant rural land on 12 September 1996. He ran a primary production business of growing wheat on the property for the whole of his period of ownership.

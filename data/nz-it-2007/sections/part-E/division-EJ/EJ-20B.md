@@ -8,7 +8,6 @@ section_title: Certain mining expenditure spread over assumed life of mine
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 20B  Certain mining expenditure spread over assumed life of mine
 
 **When this section applies**

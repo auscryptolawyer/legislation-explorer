@@ -5,7 +5,6 @@ section: "increasing-or-decreasing-base-penalty-amounts"
 title: "Increasing or decreasing base penalty amounts"
 paragraph: "¶29-190"
 ---
-
 # Increasing or decreasing base penalty amounts ¶29-190
 
 Penalties payable for statements (¶29-160) and those relating to schemes (¶29-180) may be reduced or eliminated where certain mitigating factors apply or voluntary disclosure is made. Further, the base penalty amounts may be increased if the taxpayer hinders the Commissioner or where a second or subsequent occurrence is involved.

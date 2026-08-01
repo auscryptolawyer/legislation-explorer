@@ -5,7 +5,6 @@ section: "calculating-the-sg-charge"
 title: "Calculating the SG charge"
 paragraph: "¶39-400"
 ---
-
 # Calculating the SG charge ¶39-400
 
 The SG charge payable by an employer is calculated as the sum of: (a) the total of the employer’s individual SG shortfalls for the quarter (¶39-300); (b) the employer’s nominal interest component for the quarter; and (c) the employer’s administration component for the quarter (SGAA s 17).

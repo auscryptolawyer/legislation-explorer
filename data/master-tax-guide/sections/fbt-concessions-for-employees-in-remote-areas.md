@@ -5,7 +5,6 @@ section: "fbt-concessions-for-employees-in-remote-areas"
 title: "FBT concessions for employees in remote areas"
 paragraph: "¶35-650"
 ---
-
 # FBT concessions for employees in remote areas ¶35-650
 
 There are several concessions for beneﬁts provided to employees working in remote areas. The areas that are “remote” for these purposes are discussed at ¶35-430.

@@ -5,7 +5,6 @@ section: "deductibility-when-travel-allowances-received"
 title: "Deductibility when travel allowances received"
 paragraph: "¶16-240"
 ---
-
 # Deductibility when travel allowances received ¶16-240
 
 Payment of a travel allowance indicating oﬃcial recognition by an employer may indicate that travel is a necessary element of the employment. Payment of an allowance must be considered together with the other characteristics of the employee’s work in determining the deductibility of the travel expense. Thus, receipt of an allowance does not automatically entitle the employee to a deduction (TR 95/34; TR 2021/4). Equally, absence of an allowance does not necessarily prevent the travel expenditure from being deductible. It is the nature of the expense and its connection to the income-producing activities that determines whether it is deductible (TR 2021/4).

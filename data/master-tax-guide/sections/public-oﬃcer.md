@@ -5,7 +5,6 @@ section: "public-oﬃcer"
 title: "Public oﬃcer"
 paragraph: "¶3-030"
 ---
-
 # Public oﬃcer ¶3-030
 
 Every company carrying on business or deriving property income in Australia must, unless speciﬁcally exempted, at all times have a public oﬃcer (ITAA36 s 252). Failure to comply with this requirement is an oﬀence punishable by a ﬁne not exceeding one penalty unit (¶29-000) for each day the oﬀence continues.

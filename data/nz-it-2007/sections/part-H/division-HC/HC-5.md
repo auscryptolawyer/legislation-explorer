@@ -8,7 +8,6 @@ section_title: Amounts derived by trustees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HC 5  Amounts derived by trustees
 
 **Either beneficiary or trustee income**

@@ -5,7 +5,6 @@ section: "8-060-partnerships-cgt-assets"
 title: "8-060 - Partnerships CGT assets"
 paragraph: "None"
 ---
-
 # 8-060 - Partnerships CGT assets
 
 Worked example: Partnerships; CGT assets Issue The Dale partnership is in the business of manufacturing shelters for pets. The partnership was formed by Graham, Martha, Joan and Cate Dale in June 2013 with each partner holding equal shares. At that time, the partners made the following contributions:

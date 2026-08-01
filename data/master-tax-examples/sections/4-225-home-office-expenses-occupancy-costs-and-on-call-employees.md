@@ -5,7 +5,6 @@ section: "4-225-home-office-expenses-occupancy-costs-and-on-call-employees"
 title: "4-225 - Home office expenses occupancy costs and on call employees"
 paragraph: "None"
 ---
-
 # 4-225 - Home office expenses occupancy costs and on call employees
 
 Worked example: Home office expenses: occupancy costs and on call employees Issue Mary Brown is employed by Commonwealth Bank as an IT lead, maintaining the bank’s computer systems.

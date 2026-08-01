@@ -8,7 +8,6 @@ section_title: Amounts received after person’s death
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HC 8  Amounts received after person’s death
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: No imputation credit for pre-imputation tax paid
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OZ 1  No imputation credit for pre-imputation tax paid
 
 No imputation credit arises in the imputation credit account of an imputation credit account (ICA) company for a payment of income tax imposed for a pre-imputation income year.

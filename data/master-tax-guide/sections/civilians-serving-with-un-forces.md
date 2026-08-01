@@ -5,7 +5,6 @@ section: "civilians-serving-with-un-forces"
 title: "Civilians serving with UN forces"
 paragraph: "¶15-190"
 ---
-
 # Civilians serving with UN forces ¶15-190
 
 A special rebate is available to civilian personnel, prescribed by regulation, contributed by Australia to an armed force of the United Nations overseas (ITAA36 s 23AB(7)), currently members of the Australian Federal Police who are members of the UN peacekeeping force in Cyprus (ITR15 reg 5).

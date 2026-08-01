@@ -8,7 +8,6 @@ section_title: Shortfall penalties
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IW 1  Shortfall penalties
 
 **When this section applies**

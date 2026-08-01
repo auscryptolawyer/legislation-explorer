@@ -8,7 +8,6 @@ section_title: Requirements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 7  Requirements
 
 For an entity to be a PIE, it must—

@@ -5,7 +5,6 @@ section: "key-income-tax-concepts"
 title: "Key income tax concepts"
 paragraph: "¶1-240"
 ---
-
 # Key income tax concepts ¶1-240
 
 Residence and source If a taxpayer is a resident of Australia, the taxpayer’s assessable income includes all ordinary income and all statutory income from all sources, whether in or out of Australia (ITAA97 ss 6-5(2); 6-10(4)). However, if the taxpayer is a foreign resident, the taxpayer’s assessable income includes only ordinary income and statutory income from all sources in Australia, plus certain other amounts that are not dependent on an Australian source (eg the capital gain on the disposal of certain assets regardless of the source of the amounts received) (ss 6-5(3); 6-10(5)). Thus it is particularly important to determine both the residence of a taxpayer and the source of income (¶21-000).

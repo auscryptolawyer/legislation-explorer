@@ -8,7 +8,6 @@ section_title: Property acquired after depreciable property affected by North Is
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 23BE  Property acquired after depreciable property affected by North Island flooding events
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Restrictions relating to schedular income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IA 8  Restrictions relating to schedular income
 
 **Certain schedular income**

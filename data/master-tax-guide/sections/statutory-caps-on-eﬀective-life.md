@@ -5,7 +5,6 @@ section: "statutory-caps-on-eﬀective-life"
 title: "Statutory caps on eﬀective life"
 paragraph: "¶43-105"
 ---
-
 # Statutory caps on eﬀective life ¶43-105
 
 Capped eﬀective lives apply to assets that correspond exactly to those speciﬁed in the table below. For items 1 to 4, the capped lives apply where the assets start being used or installed ready for use from 1 July 2002.

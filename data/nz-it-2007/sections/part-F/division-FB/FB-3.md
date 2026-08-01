@@ -8,7 +8,6 @@ section_title: Land acquired for certain purposes or under certain conditions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 3  Land acquired for certain purposes or under certain conditions
 
 **When this section applies**

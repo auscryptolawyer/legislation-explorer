@@ -5,7 +5,6 @@ section: "car-limit-applies-for-trade-ins-on-cars"
 title: "Car limit applies for trade-ins on cars"
 paragraph: "¶17-210"
 ---
-
 # Car limit applies for trade-ins on cars ¶17-210
 
 An anti-avoidance measure counters avoidance of the car limit where an asset (including a car) is traded in on the purchase of a car by adjusting the purchase price of the car upwards (ITAA97 s 40-225).

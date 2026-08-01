@@ -8,7 +8,6 @@ section_title: Reduction: bloodstock not previously used for breeding in New Zea
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 5  Reduction: bloodstock not previously used for breeding in New Zealand: pre-1 August 2006
 
 **Bloodstock to which this section applies**

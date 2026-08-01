@@ -8,7 +8,6 @@ section_title: Compulsory use of herd scheme method for associated persons
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 4B  Compulsory use of herd scheme method for associated persons
 
 **When this section applies**

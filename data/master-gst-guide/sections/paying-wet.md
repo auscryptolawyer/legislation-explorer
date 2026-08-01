@@ -5,7 +5,6 @@ section: "paying-wet"
 title: "Paying WET"
 paragraph: "¶22-300"
 ---
-
 # Paying WET ¶22-300
 
 WET is collected in the same way as GST, and is taken into account in determining the net BAS (Business Activity Statement) amount of an entity for the tax period (WET Act s 21-5); see ¶8-100.

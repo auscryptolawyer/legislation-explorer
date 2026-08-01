@@ -8,7 +8,6 @@ section_title: Tax credits for charitable or other public benefit gifts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LD 1  Tax credits for charitable or other public benefit gifts
 
 **Amount of credit**

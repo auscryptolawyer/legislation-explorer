@@ -5,7 +5,6 @@ section: "fringe-beneﬁts-taxable-amount-gross-up-rules"
 title: "Fringe beneﬁts taxable amount — gross-up rules"
 paragraph: "¶35-025"
 ---
-
 # Fringe beneﬁts taxable amount — gross-up rules ¶35-025
 
 An employer’s fringe beneﬁts taxable amount is calculated by “grossing-up” the taxable values of fringe beneﬁts provided during the FBT year. The gross-up has the eﬀect that FBT is calculated as if the employer provided fringe beneﬁts with a taxable value that included the FBT paid by the employer.

@@ -5,7 +5,6 @@ section: "losses-and-debt-deductions-for-trusts"
 title: "Losses and debt deductions for trusts"
 paragraph: "¶6-264"
 ---
-
 # Losses and debt deductions for trusts ¶6-264
 
 The various tests that must be satisﬁed before a trust (other than an excepted trust) can deduct a current year or prior year loss or a debt deduction (see the table at ¶6-262) are summarised below. Those tests are set out in sch 2F Div 269 (ss 269-5 to 269-105). 50% stake test A trust satisﬁes the 50% stake test if, at all relevant times during the test period (ss 269-50 to 269-55):

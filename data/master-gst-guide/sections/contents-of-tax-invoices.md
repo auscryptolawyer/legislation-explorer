@@ -5,7 +5,6 @@ section: "contents-of-tax-invoices"
 title: "Contents of tax invoices"
 paragraph: "¶5-110"
 ---
-
 # Contents of tax invoices ¶5-110
 
 - must be issued by the supplier (for recipient created tax invoices, see ¶5-140)

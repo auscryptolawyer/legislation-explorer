@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8AAZLH  How refunds are made
 
 <a id="s8AAZLH-1"></a>

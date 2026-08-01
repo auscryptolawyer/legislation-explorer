@@ -5,7 +5,6 @@ section: "the-averaging-rules-a-step-by-step-process"
 title: "The averaging rules: a step-by-step process"
 paragraph: "¶18-210"
 ---
-
 # The averaging rules: a step-by-step process ¶18-210
 
 The process set out in the steps below can be followed to determine: (a) whether the averaging adjustment applicable to a primary producer is a tax oﬀset or extra income tax; and (b) how to calculate an averaging primary producer’s overall tax liability taking into account whichever adjustment is applicable.

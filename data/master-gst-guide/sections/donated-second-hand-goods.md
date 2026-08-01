@@ -5,7 +5,6 @@ section: "donated-second-hand-goods"
 title: "Donated second-hand goods"
 paragraph: "¶15-030"
 ---
-
 # Donated second-hand goods ¶15-030
 
 The supply of donated second-hand goods by an endorsed charity is GST-free (s 38-255). However, this does not apply if the charity has dealt with the goods in such a way that they no longer have their original character.

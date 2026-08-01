@@ -5,7 +5,6 @@ section: "retention-of-fbt-records"
 title: "Retention of FBT records"
 paragraph: "¶35-690"
 ---
-
 # Retention of FBT records ¶35-690
 
 Records of transactions An employer must keep records to identify and explain all transactions and acts relevant to ascertaining its FBT liability (s 132). The records must be in English or readily accessible and convertible into English.

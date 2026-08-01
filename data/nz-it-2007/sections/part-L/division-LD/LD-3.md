@@ -8,7 +8,6 @@ section_title: Meaning of charitable or other public benefit gift
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LD 3  Meaning of charitable or other public benefit gift
 
 **Meaning**

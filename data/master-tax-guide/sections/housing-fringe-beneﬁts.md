@@ -5,7 +5,6 @@ section: "housing-fringe-beneﬁts"
 title: "Housing fringe beneﬁts"
 paragraph: "¶35-380"
 ---
-
 # Housing fringe beneﬁts ¶35-380
 
 A housing fringe beneﬁt arises where an employer grants an employee a “housing right” — a right to occupy or use a unit of accommodation as a usual place of residence — which must be for more than one day (s 25; 149). The right to occupy may be under a lease or licence, either formal or informal. It may cover any type of accommodation, as long as it is the employee’s usual place of residence — house, ﬂat, unit, hotel, motel, guesthouse, bunkhouse, ship, oil rig, caravan or mobile home. If the accommodation is not the employee’s usual place of residence, the beneﬁt will not be a housing beneﬁt but will be a residual beneﬁt subject to the rules discussed at ¶35-570. The right can include the provision of water under the tenancy agreement (ID 2005/158).

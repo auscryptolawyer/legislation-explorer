@@ -5,7 +5,6 @@ section: "partial-relief-from-medicare-levy"
 title: "Partial relief from Medicare levy"
 paragraph: "¶2-360"
 ---
-
 # Partial relief from Medicare levy ¶2-360
 
 Where a person is a prescribed person for only part of the income year, there is a proportionate reduction in the amount of basic levy otherwise payable (MLA s 9). This also applies where such a person has dependants who are prescribed persons for only part of the relevant period.

@@ -8,7 +8,6 @@ section_title: Forestry business on land acquired from the Crown, Maori owners, 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DP 8  Forestry business on land acquired from the Crown, Maori owners, or holding company: no deduction
 
 **No deduction: forestry company**

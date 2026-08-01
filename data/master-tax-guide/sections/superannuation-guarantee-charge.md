@@ -5,7 +5,6 @@ section: "superannuation-guarantee-charge"
 title: "Superannuation guarantee charge"
 paragraph: "¶42-340"
 ---
-
 # Superannuation guarantee charge ¶42-340
 
 Employers who provide less than a prescribed level of superannuation support (the “charge percentage”) for their employees in each quarter in a ﬁnancial year are liable to pay a superannuation guarantee (SG) charge based on the shortfall plus an interest component and an administration charge (¶39-000).

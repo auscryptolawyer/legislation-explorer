@@ -5,7 +5,6 @@ section: "prior-year-net-capital-losses-of-companies"
 title: "Prior year net capital losses of companies"
 paragraph: "¶11-080"
 ---
-
 # Prior year net capital losses of companies ¶11-080
 
 A company cannot apply a prior year net capital loss against a capital gain in a later year unless:

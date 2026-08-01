@@ -5,7 +5,6 @@ section: "on-market-and-oﬀ-market-buy-backs"
 title: "On-market and oﬀ-market buy-backs"
 paragraph: "¶3-170"
 ---
-
 # On-market and oﬀ-market buy-backs ¶3-170
 
 If a company buys back shares in itself from a shareholder, the tax consequences depend on whether it is an on-market or oﬀ-market buy-back (ITAA36 Pt III Div 16K: ss 159GZZZIA to 159GZZZS). An on-market buy- back happens if the share is listed on a stock exchange and the buy-back is made in the ordinary course of business of that stock exchange, except if the transaction is described as special under the stock exchange’s rules. Any other buy-back is an oﬀ-market buy-back. PS LA 2007/9 provides guidance to ATO staﬀ on the application of various tax laws in connection with on-market and oﬀ-market buy-backs.

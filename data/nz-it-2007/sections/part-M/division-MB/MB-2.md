@@ -8,7 +8,6 @@ section_title: Adjustment for period that is less or more than 1 year
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MB 2  Adjustment for period that is less or more than 1 year
 
 **Calculation of adjustment**

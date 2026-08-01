@@ -8,7 +8,6 @@ section_title: Overriding effect of certain matters
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BB 3  Overriding effect of certain matters
 
 **Tax avoidance arrangements: subpart BG**

@@ -5,7 +5,6 @@ section: "tax-invoices-and-adjustments"
 title: "Tax invoices and adjustments"
 paragraph: "¶1-150"
 ---
-
 # Tax invoices and adjustments ¶1-150
 
 Generally, you must hold a “tax invoice” at the time you lodge your GST return for the period in which the claim for an input tax credit is made. A tax invoice is a special type of document that contains prescribed items of information, including the supplier’s Australian Business Number (¶5-100). In certain situations, the tax invoice may need to be prepared by the recipient, rather than the supplier (¶5-140).

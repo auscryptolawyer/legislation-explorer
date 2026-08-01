@@ -5,7 +5,6 @@ section: "access-to-premises-documents-and-other-property"
 title: "Access to premises, documents and other property"
 paragraph: "¶18-120"
 ---
-
 # Access to premises, documents and other property ¶18-120
 
 In addition to the information-gathering powers, the Commissioner has wide powers to obtain access to premises, documents and other property. These are commonly called the “access” powers.

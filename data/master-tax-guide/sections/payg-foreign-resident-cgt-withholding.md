@@ -5,7 +5,6 @@ section: "payg-foreign-resident-cgt-withholding"
 title: "PAYG: foreign resident CGT withholding"
 paragraph: "¶26-269"
 ---
-
 # PAYG: foreign resident CGT withholding ¶26-269
 
 A 15% non-ﬁnal withholding tax obligation applies to the purchaser of certain Australian real property and related interests where the property is acquired from a foreign resident vendor on or after 1 January 2025 (12.5% for contracts entered into before this date).

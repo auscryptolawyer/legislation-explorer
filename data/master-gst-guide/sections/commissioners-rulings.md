@@ -5,7 +5,6 @@ section: "commissioners-rulings"
 title: "Commissioner’s rulings"
 paragraph: "¶18-030"
 ---
-
 # Commissioner’s rulings ¶18-030
 
 Rulings may be given by the Commissioner to clarify a particular aspect of the tax law or to let the official interpretation of the tax law be known. Rulings can be public (ie generally applicable) or private (ie made only for a particular entity).

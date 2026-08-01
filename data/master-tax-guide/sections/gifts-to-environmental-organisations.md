@@ -5,7 +5,6 @@ section: "gifts-to-environmental-organisations"
 title: "Gifts to environmental organisations"
 paragraph: "¶16-960"
 ---
-
 # Gifts to environmental organisations ¶16-960
 
 Gifts of $2 or more (whether of money or property) made to the gift fund of an environmental organisation that is a DGR will be tax-deductible if the organisation is a DGR when the gift is made (ss 30-15; 30-55(1); 30-60) or it is one of the speciﬁed organisations listed in s 30-55(2) (note that it is proposed to remove the $2 minimum requirement: ¶16-942). Prior to 1 January 2024, environmental organisations and their public funds had to be registered on the Register of Environmental Organisations, which was administered by the Department of Climate Change, Energy, the Environment and Water to have their public fund endorsed as a DGR. From 1 January 2024, the ATO administers the DGR category for environmental organisations and assesses eligibility for endorsement (ATO website). Transitional provisions ensure that organisations included on the Register of Environmental Organisations continue to be endorsed if they continue to meet the eligibility criteria.

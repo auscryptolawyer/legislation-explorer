@@ -8,7 +8,6 @@ section_title: Forestry encouragement agreements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 2  Forestry encouragement agreements
 
 **When this section applies**

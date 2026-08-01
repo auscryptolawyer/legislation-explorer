@@ -5,7 +5,6 @@ section: "schools-and-higher-education"
 title: "Schools and higher education"
 paragraph: "¶25-180"
 ---
-
 # Schools and higher education ¶25-180
 
 See generally Chapter 14 and in particular the education checklist at ¶14-030.

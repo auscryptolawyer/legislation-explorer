@@ -8,7 +8,6 @@ section_title: ICA transfer from consolidated imputation group to departing memb
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 23B  ICA transfer from consolidated imputation group to departing member for unused tax payment
 
 **Credit**

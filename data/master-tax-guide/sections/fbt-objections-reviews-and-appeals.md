@@ -5,7 +5,6 @@ section: "fbt-objections-reviews-and-appeals"
 title: "FBT objections, reviews and appeals"
 paragraph: "¶35-730"
 ---
-
 # FBT objections, reviews and appeals ¶35-730
 
 An employer’s rights to object against an FBT assessment are similar to a taxpayer’s rights in regard to an income tax assessment (TAA Pt IVC: ¶28-000). This applies to deemed assessments made by the lodgment of an FBT return as well as to assessments made by the Commissioner.

@@ -5,7 +5,6 @@ section: "9-260-circulation-issues-dividends-and-distributions-reimbursements-ag
 title: "9-260 - Circulation issues dividends and distributions reimbursements agreements tax avoidance"
 paragraph: "None"
 ---
-
 # 9-260 - Circulation issues dividends and distributions reimbursements agreements tax avoidance
 
 Worked example: Circulation issues; dividends and distributions; reimbursements agreements; tax avoidance Issue Bill Rodham is the trustee of the Rodham Family Trust (RFT). The beneficiaries of the RFT are his children and grandchildren. Bill, as trustee, owns 100% of the shares in Chelsea Pty Ltd (Chelsea). The purpose of Chelsea is to receive distributions as required from RFT on which the 30% company tax rate is paid. The company undertakes no other business activities. Chelsea’s sole-director is Bill, and the company is also a beneficiary of the RFT. This structure was set-up in 1990, and since then funds have circulated between RFT and Chelsea. During the income years spanning 2023–24 and 2024–25, the following events occurred:

@@ -5,7 +5,6 @@ section: "taxation-of-life-beneﬁt-termination-payments"
 title: "Taxation of life beneﬁt termination payments"
 paragraph: "¶14-620"
 ---
-
 # Taxation of life beneﬁt termination payments ¶14-620
 
 A life beneﬁt termination payment is an employment termination payment (¶14-610) received by a person in consequence of the termination of that person’s employment (ITAA97 s 82-130(1)(a)(i), (2)).

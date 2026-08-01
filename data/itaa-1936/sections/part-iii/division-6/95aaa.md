@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 95AAA Simplified outline of the relationship between this Division, Division 6E and Subdivisions 115-C and 207-B of the Income Tax Assessment Act 1997
 
 The following is a simplified outline of the relationship between this Division, Division 6E and Subdivisions 115-C and 207-B of the Income Tax Assessment Act 1997. This Division sets out the basic income tax treatment of the net income of the trust estate. Generally:

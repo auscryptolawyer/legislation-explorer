@@ -8,7 +8,6 @@ section_title: Group companies’ common span
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IP 2  Group companies’ common span
 
 **Common span**

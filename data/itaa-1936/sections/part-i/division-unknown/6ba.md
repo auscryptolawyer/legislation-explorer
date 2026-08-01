@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 6BA Taxation treatment of certain shares
 
 <a id="s6BA-1"></a>

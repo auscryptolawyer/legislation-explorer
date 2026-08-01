@@ -8,7 +8,6 @@ section_title: Tax pooling accounts and their use
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RP 17B  Tax pooling accounts and their use
 
 **Meaning**

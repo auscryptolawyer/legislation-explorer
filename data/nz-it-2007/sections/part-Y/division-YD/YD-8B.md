@@ -8,7 +8,6 @@ section_title: Apportionment of life insurance premiums derived by Lloyd’s of 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 8B  Apportionment of life insurance premiums derived by Lloyd’s of London
 
 **What this section applies to**

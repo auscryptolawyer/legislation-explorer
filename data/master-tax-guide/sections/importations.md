@@ -5,7 +5,6 @@ section: "importations"
 title: "Importations"
 paragraph: "¶34-250"
 ---
-
 # Importations ¶34-250
 
 Where goods are imported into Australia, the GST is payable by the importer, not by the overseas supplier (s 13-15). This applies whether or not the importer is registered, and whether or not it was carrying on an enterprise. However, if the importer is registered, it may be able to claim an input tax credit for the GST paid.

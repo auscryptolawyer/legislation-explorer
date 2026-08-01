@@ -5,7 +5,6 @@ section: "attribution-of-cfc-income-to-attributable-taxpayers"
 title: "Attribution of CFC income to attributable taxpayers"
 paragraph: "¶21-190"
 ---
-
 # Attribution of CFC income to attributable taxpayers ¶21-190
 
 The assessable income of a taxpayer who is an “attributable taxpayer” in relation to a CFC will include the taxpayer’s share of the CFC’s “attributable income” for the CFC’s statutory accounting period that ended during the taxpayer’s year of income.

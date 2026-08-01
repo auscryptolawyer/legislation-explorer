@@ -5,7 +5,6 @@ section: "fbt-exempt-employers"
 title: "FBT exempt employers"
 paragraph: "¶35-100"
 ---
-
 # FBT exempt employers ¶35-100
 
 - religious institutions for beneﬁts provided to a minister or full-time member of a religious order

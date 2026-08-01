@@ -5,7 +5,6 @@ section: "cgt-roll-over-for-exchange-of-units-in-same-unit-trust"
 title: "CGT roll-over for exchange of units in same unit trust"
 paragraph: "¶12-340"
 ---
-
 # CGT roll-over for exchange of units in same unit trust ¶12-340
 
 - the taxpayer owns units of a certain class in a unit trust

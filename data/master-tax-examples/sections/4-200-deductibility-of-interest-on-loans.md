@@ -5,7 +5,6 @@ section: "4-200-deductibility-of-interest-on-loans"
 title: "4-200 - Deductibility of interest on loans"
 paragraph: "None"
 ---
-
 # 4-200 - Deductibility of interest on loans
 
 Worked example: Deductibility of interest on loans Issue Olga Retton lives in her own apartment in Sydney and owes $270,000 on her mortgage. Olga carries on a clothing and accessories business and, in February 2023, negotiated a 3-year $200,000 interest only loan at 10% interest. The loan proceeds were used to acquire trading stock of clothing and accessories ($44,000) and to meet the 10.5% superannuation guarantee contribution requirement in respect of an employee ($6,000). Half of the loan proceeds ($100,000) were applied to acquire shop premises from which to conduct the business. The remaining $50,000 was on-lent by Olga to her share trading business, Retton Pty Ltd, to acquire shares in technology company, HAL Ltd. Retton Pty Ltd agreed to pay interest on the loan, from dividends received, at the rate of 5%.

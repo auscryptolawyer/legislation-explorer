@@ -8,7 +8,6 @@ section_title: Accommodation expenditure: conferences and overnight stays
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 16D  Accommodation expenditure: conferences and overnight stays
 
 **When this section applies**

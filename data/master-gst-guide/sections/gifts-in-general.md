@@ -5,7 +5,6 @@ section: "gifts-in-general"
 title: "Gifts in general"
 paragraph: "¶15-040"
 ---
-
 # Gifts in general ¶15-040
 
 If you make a gift of money or property to a charity, that donation is not subject to GST. The nature of a gift is discussed at ¶4-030.

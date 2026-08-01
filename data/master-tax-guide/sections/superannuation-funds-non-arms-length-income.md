@@ -5,7 +5,6 @@ section: "superannuation-funds-non-arms-length-income"
 title: "Superannuation funds — non-arm’s length income"
 paragraph: "¶13-170"
 ---
-
 # Superannuation funds — non-arm’s length income ¶13-170
 
 The taxable income of a complying superannuation entity (ie a complying superannuation fund, complying ADF or PST) comprises a low tax component and, in some cases, a non-arm’s length component.

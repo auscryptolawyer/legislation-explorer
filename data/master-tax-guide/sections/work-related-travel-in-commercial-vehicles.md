@@ -5,7 +5,6 @@ section: "work-related-travel-in-commercial-vehicles"
 title: "Work-related travel in commercial vehicles"
 paragraph: "¶35-160"
 ---
-
 # Work-related travel in commercial vehicles ¶35-160
 
 Employee use of certain commercial vehicles will be an exempt beneﬁt where the only private use, apart from minor, infrequent and irregular use by an employee or an associate of an employee, is for “work-related” travel by the employee (not by an associate of the employee) (s 8(2)). Transporting a family member by the employee on their journey from home to a work location in the employer’s car is a “private use” of the car (ID 2012/97). A one-oﬀ transportation of a family member may be an excepted “private use” (ID 2012/98). Travel between the employee’s place of residence and the place of employment in relation to a second employer is not “work-related travel” (ID 2013/34).

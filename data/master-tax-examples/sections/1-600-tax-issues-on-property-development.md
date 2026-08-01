@@ -5,7 +5,6 @@ section: "1-600-tax-issues-on-property-development"
 title: "1-600 - Tax issues on property development"
 paragraph: "None"
 ---
-
 # 1-600 - Tax issues on property development
 
 Worked example: Tax issues on property development Issue In July 2019, the Icarus Unit Trust was formed with a view to developing property in Sydney. There were 4 unitholders, Matthew Boynton, Mark Scott, Luke Treadwell and Harry Clarke. These 4 unitholders had a long track record of property development across New South Wales, for which they formed a different entity (usually a unit trust) for each development project.

@@ -5,7 +5,6 @@ section: "employers-and-employees-under-the-sga-act"
 title: "Employers and employees under the SGA Act"
 paragraph: "¶39-020"
 ---
-
 # Employers and employees under the SGA Act ¶39-020
 
 The SG scheme applies to employers in respect of their full-time, part-time and casual employees, with only limited exemptions (¶39-030).

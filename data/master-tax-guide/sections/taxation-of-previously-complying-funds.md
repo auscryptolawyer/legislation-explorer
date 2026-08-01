@@ -5,7 +5,6 @@ section: "taxation-of-previously-complying-funds"
 title: "Taxation of previously complying funds"
 paragraph: "¶13-200"
 ---
-
 # Taxation of previously complying funds ¶13-200
 
 If a complying superannuation fund in relation to one year becomes a non-complying superannuation fund in relation to the year immediately following, the fund’s assessable income in the year in which its status changed will include its ordinary income and statutory income from previous years as calculated using the formula below (ITAA97 s 295-320, item 2): asset values less undeducted contributions and contributions segment where:

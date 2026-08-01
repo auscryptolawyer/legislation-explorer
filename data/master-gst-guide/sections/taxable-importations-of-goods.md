@@ -5,7 +5,6 @@ section: "taxable-importations-of-goods"
 title: "Taxable importations of goods"
 paragraph: "¶9-000"
 ---
-
 # Taxable importations of goods ¶9-000
 
 With only limited exceptions, GST will be payable where goods are imported into Australia (s 7-1).

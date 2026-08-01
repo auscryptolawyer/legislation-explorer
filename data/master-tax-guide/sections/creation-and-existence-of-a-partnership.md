@@ -5,7 +5,6 @@ section: "creation-and-existence-of-a-partnership"
 title: "Creation and existence of a partnership"
 paragraph: "¶5-010"
 ---
-
 # Creation and existence of a partnership ¶5-010
 
 Whether a partnership exists for income tax purposes is a question of fact to be determined in the light of all surrounding circumstances. The essential element in determining whether a partnership exists is mutual assent and intention to act as partners (Jolley 89 ATC 4197). If there is no such intention, a partnership cannot exist. Evidence of the parties’ intentions is often crucial as it may establish the existence of a partnership notwithstanding a lack of documentary evidence. Conversely, it may negate the existence of a partnership notwithstanding that the documents outwardly indicate a joint enterprise. For example, a marine engineer working on a ﬁshing vessel was simply an employee even though there was a partnership agreement between himself, the skipper and the other crew members (Case 41/93 93 ATC 453; [1993] AATA 298). Similarly, no partnership existed between a married couple as their actual activities did not constitute “carrying on business as partners” for the purpose of the ITAA97 s 995-1(1) deﬁnition in Case 11/2013 2013 ATC ¶1-060; [2013] AATA 888. In that case, the AAT held that the written partnership agreement and the couple’s business plan overstated the true position that no partnership was formed.

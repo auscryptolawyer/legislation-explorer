@@ -5,7 +5,6 @@ section: "eﬀective-life-ﬁnancial-and-insurance-services"
 title: "Eﬀective life — ﬁnancial and insurance services"
 paragraph: "¶43-060"
 ---
-
 # Eﬀective life — ﬁnancial and insurance services ¶43-060
 
 (62100 to 64200)

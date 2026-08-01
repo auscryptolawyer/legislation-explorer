@@ -8,7 +8,6 @@ section_title: Tax paid by recipients of R&D loss tax credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 47B  Tax paid by recipients of R&D loss tax credits
 
 **When this section applies**

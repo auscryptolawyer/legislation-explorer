@@ -5,7 +5,6 @@ section: "3-140-housing-fringe-benefits-provision-of-onsite-accommodation"
 title: "3-140 - Housing fringe benefits provision of onsite accommodation"
 paragraph: "None"
 ---
-
 # 3-140 - Housing fringe benefits provision of onsite accommodation
 
 Worked example: Housing fringe benefits; provision of onsite accommodation Issue Beryl McMasters works as an onsite duty manager at HiLo Motel. The motel is in the central business district of Perth. Beryl is provided with accommodation in the form of a residential unit behind the motel. Under the terms of her employment agreement, HiLo requires Beryl to reside in the unit so that she is available onsite 24 hours.

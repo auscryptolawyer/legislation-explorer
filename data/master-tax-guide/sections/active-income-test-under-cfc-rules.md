@@ -5,7 +5,6 @@ section: "active-income-test-under-cfc-rules"
 title: "Active income test under CFC rules"
 paragraph: "¶21-180"
 ---
-
 # Active income test under CFC rules ¶21-180
 
 Where a CFC passes the active income test in ITAA36 s 432, some or all of its income which would otherwise have been attributed will not be attributed to Australian resident shareholders. The test provides, in eﬀect, an exemption from accruals taxation for small amounts of tainted income which are incidental to the overall operations of a CFC. The exemption is particularly important for Australian enterprises engaging in genuine business activities in unlisted countries.

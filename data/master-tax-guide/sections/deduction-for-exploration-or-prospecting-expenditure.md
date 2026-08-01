@@ -5,7 +5,6 @@ section: "deduction-for-exploration-or-prospecting-expenditure"
 title: "Deduction for exploration or prospecting expenditure"
 paragraph: "¶19-010"
 ---
-
 # Deduction for exploration or prospecting expenditure ¶19-010
 
 Expenditure (net of GST and adjustments (ITAA97 s 27-105)) on “exploration or prospecting” (ITAA97 s 40-730(4); ¶19-040) for minerals (including petroleum) or quarry materials obtainable by “mining or quarrying operations” that satisﬁes at least one of the “activity tests” (s 40-730(1)) outlined below in the year of income, is fully deductible in the year in which it is incurred (s 40-730). The mining property may be located in or outside Australia, and the exploration or prospecting expenditure is deductible against income derived from any source.

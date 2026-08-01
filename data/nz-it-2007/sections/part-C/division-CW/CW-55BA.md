@@ -8,7 +8,6 @@ section_title: Tertiary education institutions and subsidiaries
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 55BA  Tertiary education institutions and subsidiaries
 
 **Exempt income**

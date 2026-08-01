@@ -5,7 +5,6 @@ section: "restaurants-cafes-and-caterers"
 title: "Restaurants, cafes and caterers"
 paragraph: "¶25-160"
 ---
-
 # Restaurants, cafes and caterers ¶25-160
 
 - Restaurant, catered or eat-in food is subject to GST (¶13-120).

@@ -5,7 +5,6 @@ section: "deductibility-of-other-subscriptions"
 title: "Deductibility of other subscriptions"
 paragraph: "¶16-440"
 ---
-
 # Deductibility of other subscriptions ¶16-440
 
 Subscriptions to technical, scientiﬁc, trade, business or professional journals, information services, newspapers and magazines are deductible, provided the subscriptions relate to the production of the taxpayer’s assessable income (ITAA97 s 8-1). This applies to employees as well as other taxpayers. The cost of newspapers, Internet use and pay TV access may be deductible to the extent of work-related use: see, for example, TR 98/14 (journalist researching a particular topic), TR 1999/10 (members of parliament), TR 98/6 (real estate industry employees using the property section of a newspaper), Lenten 2008 ATC ¶10-017; [2008] AATA 281 (teacher) and ID 2002/484 (subscription paid by accountant for accredited professional education channel). Internet installation and initial connection costs are of a non-deductible capital nature.

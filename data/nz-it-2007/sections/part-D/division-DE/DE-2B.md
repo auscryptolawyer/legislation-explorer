@@ -8,7 +8,6 @@ section_title: Election to use kilometre rate method or costs method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DE 2B  Election to use kilometre rate method or costs method
 
 **Election to use kilometre rate method**

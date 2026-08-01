@@ -5,7 +5,6 @@ section: "investment-losses"
 title: "Investment losses"
 paragraph: "¶16-665"
 ---
-
 # Investment losses ¶16-665
 
 Losses made on investments such as shares and other securities are deductible under ITAA97 s 8-1 if the taxpayer is carrying on a business of investing for proﬁt or of trading in investments. Whether a taxpayer is carrying on such a business is often diﬃcult to determine and depends on the facts of the particular case (¶16-015, ¶10-105). Relevant factors include the frequency, volume and scale of transactions and whether they are carried out in a businesslike way (Radnor 91 ATC 4689; [1991] FCA 390, Firth 2001 ATC 4615; [2001] FCA 1300, Wong 2012 ATC ¶10-247; [2012] AATA 254). The taxpayer’s purpose in entering into the transactions may also be relevant. In one case, a deduction was allowed for a loss made on reselling the ﬁrst 2 houses purchased by a taxpayer in the business of buying and selling houses for proﬁt, even though the taxpayer did not purchase other houses due to a slump in property prices (Case 15/98 98 ATC 207; [1998] AATA 356). Similarly, a taxpayer who bought more and sold less shares during the year due to the global ﬁnancial crisis was considered to be carrying on a share trading business in that year, even though he had decided to hold on to the shares instead of making a short term loss (Case 10/2011 2011 ATC ¶1-037; [2011] AATA 545). See also Price Street Professional Centre 2007 ATC 5044; [2007] FCAFC 154.

@@ -5,7 +5,6 @@ section: "deductibility-of-bad-debts-under-s-8-1"
 title: "Deductibility of bad debts under s 8-1"
 paragraph: "¶16-584"
 ---
-
 # Deductibility of bad debts under s 8-1 ¶16-584
 
 A bad debt that, for one reason or another, is not deductible under ITAA97 s 25-35 (¶16-582) may, nevertheless, be deductible under ITAA97 s 8-1.

@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 160AAAB Tax rebate for low income aged persons and pensioners— trustees assessed under
 
 <a id="s160AAAB-1"></a>

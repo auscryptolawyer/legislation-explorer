@@ -5,7 +5,6 @@ section: "review-of-commissioners-discretion"
 title: "Review of Commissioner’s discretion"
 paragraph: "¶18-690"
 ---
-
 # Review of Commissioner’s discretion ¶18-690
 
 Where the Federal Court is hearing an appeal against an objection decision, the court’s power to review the exercise of a discretionary power of the Commissioner is quite limited. The discretion is open to review by the court only if:

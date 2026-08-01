@@ -5,7 +5,6 @@ section: "default-or-arbitrary-assessments"
 title: "Default or arbitrary assessments"
 paragraph: "¶25-140"
 ---
-
 # Default or arbitrary assessments ¶25-140
 
 In certain circumstances, the Commissioner may make a default or arbitrary assessment of the amount on which, in the Commissioner’s judgment, tax ought to be levied and that amount then becomes the taxpayer’s taxable income (ITAA36 s 167). A default assessment may be made where a taxpayer has failed to furnish a return, or where the Commissioner is dissatisﬁed with the return ﬁled, or has reason to believe that a person who has not made a return has derived taxable income. It may be issued as an original or amended assessment.

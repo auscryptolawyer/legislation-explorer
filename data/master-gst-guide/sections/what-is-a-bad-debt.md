@@ -5,7 +5,6 @@ section: "what-is-a-bad-debt"
 title: "What is a bad debt?"
 paragraph: "¶6-210"
 ---
-
 # What is a bad debt? ¶6-210
 
 Whether a debt is bad is a question of fact. The Commissioner accepts that if you make a bona fide commercial decision that a debt is unlikely to be recovered, the debt can be treated as bad (GST Ruling GSTR 2000/2). However, a debt normally cannot be considered as a bad debt simply because it is overdue or if there is still a genuine dispute over it (Case 45/93, 93 ATC 486).

@@ -5,7 +5,6 @@ section: "notional-wholesale-selling-price"
 title: "Notional wholesale selling price"
 paragraph: "¶22-290"
 ---
-
 # Notional wholesale selling price ¶22-290
 
 Where the assessable dealing is not a wholesale sale, the taxable value is generally taken to be the notional wholesale selling price. As can be seen from the table at ¶22-280, this applies, for example, to retail sales or AOUs by the manufacturer, retail sales which are indirect marketing sales, and so on.

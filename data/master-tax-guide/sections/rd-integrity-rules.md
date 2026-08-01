@@ -5,7 +5,6 @@ section: "rd-integrity-rules"
 title: "R&D integrity rules"
 paragraph: "¶20-175"
 ---
-
 # R&D integrity rules ¶20-175
 
 Expenditure not at arm’s length Section 355-400 adjusts R&D expenditure incurred with an associate back down to market value where that expenditure is charged at more than market value. Expenditure incurred within the R&D entity, including within the consolidated or MEC group, must be as incurred without any internal mark-up.

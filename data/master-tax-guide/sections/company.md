@@ -5,7 +5,6 @@ section: "company"
 title: "company"
 paragraph: "¶12-080"
 ---
-
 # company ¶12-080
 
 Consequences for taxpayer If a taxpayer chooses to take advantage of roll-over relief in relation to the creation of an asset in a wholly- owned company, a capital gain or loss the taxpayer makes from the trigger event is disregarded (s 122-65).

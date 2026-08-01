@@ -5,7 +5,6 @@ section: "second-element-of-cost-of-depreciating-asset"
 title: "Second element of cost of depreciating asset"
 paragraph: "¶17-105"
 ---
-
 # Second element of cost of depreciating asset ¶17-105
 
 The cost of a depreciating asset (which is relevant to calculating the decline in value of the asset) comprises a ﬁrst element (¶17-100) and a second element of cost. The second element is the amount the taxpayer is taken to have paid to bring the asset to its present condition and location from time to time (ITAA97 s 40-190). For example, the second element of cost would include the cost of modiﬁcations, alterations or improvements made to the asset by the taxpayer during the relevant income year. It also includes the cost of transporting the asset to its current location such as freight, import duties, installation costs and legal costs (eg ID 2003/514 to ID 2003/516; ID 2009/74). It does not include expenses that are not capital or capital in nature, eg repairs, annual registration and compulsory third party insurance costs of a car.

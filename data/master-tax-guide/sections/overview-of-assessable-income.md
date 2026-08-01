@@ -5,7 +5,6 @@ section: "overview-of-assessable-income"
 title: "Overview of assessable income"
 paragraph: "¶10-000"
 ---
-
 # Overview of assessable income ¶10-000
 
 Tax is levied on the taxable income of the taxpayer derived during the income year. Taxable income is calculated by deducting from the taxpayer’s assessable income all allowable deductions. “Assessable income” consists of ordinary income and statutory income (ITAA97 s 6-1(1)). However, an amount of ordinary income or statutory income will not be assessable income if the amount is made exempt or is otherwise excluded from assessable income. “Ordinary income” is deﬁned to mean income according to ordinary concepts (ITAA97 s 6-5(1)). The legislation does not provide any speciﬁc guidance on what is meant by “income according to ordinary concepts”. However, a substantial body of case law has evolved to identify various factors that indicate whether an amount is income according to ordinary concepts (¶10-010).

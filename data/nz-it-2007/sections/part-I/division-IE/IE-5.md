@@ -8,7 +8,6 @@ section_title: Applying the continuity provisions when companies amalgamate
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IE 5  Applying the continuity provisions when companies amalgamate
 
 The provisions of this Act apply as if the amalgamated company did not exist separately before amalgamation, and was instead the amalgamating companies with the same holders of shares and options over shares, each with the same number and class of shares and options over shares, as they held in the amalgamating company, to determine whether a tax loss or loss balance,—

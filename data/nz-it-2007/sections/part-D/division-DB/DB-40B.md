@@ -8,7 +8,6 @@ section_title: Expenditure in unsuccessful development of software
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 40B  Expenditure in unsuccessful development of software
 
 **When this section applies**

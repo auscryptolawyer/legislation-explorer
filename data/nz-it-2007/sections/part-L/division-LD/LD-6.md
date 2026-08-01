@@ -8,7 +8,6 @@ section_title: When donation is paid to ineligible recipient
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LD 6  When donation is paid to ineligible recipient
 
 **When this section applies**

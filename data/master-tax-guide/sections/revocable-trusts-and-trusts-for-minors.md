@@ -5,7 +5,6 @@ section: "revocable-trusts-and-trusts-for-minors"
 title: "Revocable trusts and trusts for minors"
 paragraph: "¶6-240"
 ---
-
 # Revocable trusts and trusts for minors ¶6-240
 
 Where a person (the settlor) has created a revocable trust (ie one that can be revoked or altered so that the settlor acquires a beneﬁcial interest in trust corpus or income), or a trust under which income is payable to, or accumulated or applicable for the beneﬁt of, the settlor’s children under the age of 18 years, the Commissioner has the discretion to tax the trustee under s 102.

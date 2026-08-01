@@ -8,7 +8,6 @@ section_title: Tax avoidance
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BG 1  Tax avoidance
 
 **Avoidance arrangement void**

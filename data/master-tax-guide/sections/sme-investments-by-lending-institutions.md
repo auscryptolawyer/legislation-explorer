@@ -5,7 +5,6 @@ section: "sme-investments-by-lending-institutions"
 title: "SME investments by lending institutions"
 paragraph: "¶3-560"
 ---
-
 # SME investments by lending institutions ¶3-560
 
 Under the provisions of the former ITAA36 Div 11B the CGT provisions (rather than the revenue provisions) applied to eligible equity investments in SMEs (ie companies having a total audited asset value of $50 million or less) made by lending institutions after 30 June 1996 (ITAA36 former ss 128TG; 128TK).

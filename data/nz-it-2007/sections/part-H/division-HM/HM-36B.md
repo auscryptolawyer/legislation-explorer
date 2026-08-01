@@ -8,7 +8,6 @@ section_title: Calculating PIE schedular income adjustments for natural person i
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 36B  Calculating PIE schedular income adjustments for natural person investors
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Apportionment formula
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DG 9  Apportionment formula
 
 **What this section does**

@@ -5,7 +5,6 @@ section: "overview"
 title: "Overview"
 paragraph: "¶13-000"
 ---
-
 # Overview ¶13-000
 
 This chapter explains two of the most common GST-free supplies — food and health care. For a full list of GST-free supplies, see ¶1-160.

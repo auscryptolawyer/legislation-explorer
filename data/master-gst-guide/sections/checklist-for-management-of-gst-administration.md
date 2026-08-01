@@ -5,7 +5,6 @@ section: "checklist-for-management-of-gst-administration"
 title: "Checklist for management of GST administration"
 paragraph: "¶2-020"
 ---
-
 # Checklist for management of GST administration ¶2-020
 
 The ATO and the Australian National Audit Office have published A Better Practice Guide for the Management of GST Administration. Although that Guide is intended primarily for government departments, the ATO says it would be relevant to any large public or private organisation. The Guide identifies and explains the following “indicators of better practice”: (1) apply a risk management approach to GST administration (2) establish an internal control environment that effectively supports GST processing (3) identify and document all GST-impacted transactions in the organisation’s operations and the technical positions that related to them (4) process and report GST transactions in an accurate, complete and timely manner (5) manage changes that impact on GST administration (6) monitor and review the effectiveness of GST administration.

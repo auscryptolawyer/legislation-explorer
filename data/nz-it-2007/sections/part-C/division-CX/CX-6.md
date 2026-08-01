@@ -8,7 +8,6 @@ section_title: Private use of motor vehicle
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 6  Private use of motor vehicle
 
 **When fringe benefit arises**

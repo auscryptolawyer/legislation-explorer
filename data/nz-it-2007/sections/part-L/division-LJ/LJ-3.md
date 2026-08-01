@@ -8,7 +8,6 @@ section_title: Meaning of foreign income tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LJ 3  Meaning of foreign income tax
 
 For the purposes of this Part, foreign income tax—

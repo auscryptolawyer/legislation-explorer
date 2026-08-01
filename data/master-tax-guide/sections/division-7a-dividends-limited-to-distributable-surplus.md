@@ -5,7 +5,6 @@ section: "division-7a-dividends-limited-to-distributable-surplus"
 title: "Division 7A dividends limited to distributable surplus"
 paragraph: "¶4-249"
 ---
-
 # Division 7A dividends limited to distributable surplus ¶4-249
 
 The amount of a particular Div 7A dividend (¶4-200) is proportionately reduced if the total of all Div 7A dividends taken to be paid by the private company for the income year exceeds the “distributable surplus” of the company for that year. In this event, the assessable proportion is the distributable surplus divided by the total of all Div 7A dividends paid (s 109Y). See, for example, ID 2005/297.

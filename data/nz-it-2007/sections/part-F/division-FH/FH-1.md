@@ -8,7 +8,6 @@ section_title: Subpart implements OECD recommendations for domestic law
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FH 1  Subpart implements OECD recommendations for domestic law
 
 **Background, scheme, and effect of subpart**

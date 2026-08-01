@@ -5,7 +5,6 @@ section: "gst-groups-and-joint-ventures"
 title: "GST groups and joint ventures"
 paragraph: "¶34-180"
 ---
-
 # GST groups and joint ventures ¶34-180
 
 Certain groups of related companies, trusts, individuals, partnerships, non-proﬁt bodies and government bodies can be treated as a single taxpayer for GST purposes (Div 48). Entities can self-assess their eligibility to form, change and dissolve a GST group. They can also nominate or change the representative member responsible for lodging returns on behalf of the group.

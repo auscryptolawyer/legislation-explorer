@@ -8,7 +8,6 @@ section_title: Meaning of private use for this subpart
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DG 4  Meaning of private use for this subpart
 
 **What is private use?**

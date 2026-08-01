@@ -8,7 +8,6 @@ section_title: Tax credits for PAYE income payments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LB 1  Tax credits for PAYE income payments
 
 **When this section applies**

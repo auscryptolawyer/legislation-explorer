@@ -5,7 +5,6 @@ section: "input-taxed-supplies"
 title: "Input taxed supplies"
 paragraph: "¶25-020"
 ---
-
 # Input taxed supplies ¶25-020
 
 This checklist shows the types of supplies that are generally input taxed. For an explanation of “input taxed”, see ¶1-170.

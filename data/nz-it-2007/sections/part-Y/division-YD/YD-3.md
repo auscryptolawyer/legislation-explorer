@@ -8,7 +8,6 @@ section_title: Country of residence of foreign companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 3  Country of residence of foreign companies
 
 **When this section applies**

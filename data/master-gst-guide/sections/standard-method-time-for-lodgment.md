@@ -5,7 +5,6 @@ section: "standard-method-time-for-lodgment"
 title: "Standard method: time for lodgment"
 paragraph: "¶8-005"
 ---
-
 # Standard method: time for lodgment ¶8-005
 
 Under the standard method (¶8-002), a taxpayer with monthly tax periods must account for GST and pay any st net GST by the 21 day of the month following the end of the tax period (s 31-10). For example, the monthly return for March is due by 21 April.

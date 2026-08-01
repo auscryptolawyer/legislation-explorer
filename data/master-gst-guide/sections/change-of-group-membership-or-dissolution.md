@@ -5,7 +5,6 @@ section: "change-of-group-membership-or-dissolution"
 title: "Change of group membership or dissolution"
 paragraph: "¶17-030"
 ---
-
 # Change of group membership or dissolution ¶17-030
 
 Groups are able to “self-assess” their eligibility to change the membership of the group, and to implement this at any time during a tax period. There is normally no need to obtain the Commissioner’s approval, as was required under the former rules (see below). The effect is that:

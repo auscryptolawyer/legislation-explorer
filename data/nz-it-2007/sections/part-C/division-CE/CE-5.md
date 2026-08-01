@@ -8,7 +8,6 @@ section_title: Meaning of expenditure on account of an employee
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 5  Meaning of expenditure on account of an employee
 
 **Meaning**

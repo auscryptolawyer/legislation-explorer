@@ -5,7 +5,6 @@ section: "application-of-the-income-averaging-scheme"
 title: "Application of the income averaging scheme"
 paragraph: "¶2-140"
 ---
-
 # Application of the income averaging scheme ¶2-140
 
 An income averaging scheme applies to certain classes of “special professionals” (authors, inventors, performing artists, production associates and sportspersons: ¶2-142). The scheme, which is contained in ITAA97 Div 405 (ss 405-1 to 405-50), is designed to prevent such taxpayers from being pushed into higher tax brackets when income from their professional work in a year ﬂuctuates above their average income from such work.

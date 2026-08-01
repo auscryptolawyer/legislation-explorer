@@ -5,7 +5,6 @@ section: "mining-infrastructure-and-environmental-protection"
 title: "Mining, infrastructure and environmental protection"
 paragraph: "¶19-000"
 ---
-
 # Mining, infrastructure and environmental protection ¶19-000
 
 environmental protection Mining, quarrying and prospecting concessions Special tax concessions are available to taxpayers engaged in mining, including petroleum mining, and quarrying operations for the following types of expenditure:

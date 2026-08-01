@@ -8,7 +8,6 @@ section_title: Well not producing
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 13C  Well not producing
 
 **When this section applies**

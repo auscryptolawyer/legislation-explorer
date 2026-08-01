@@ -8,7 +8,6 @@ section_title: No CFC income interests or FIF direct income interests of 10% or 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HA 8B  No CFC income interests or FIF direct income interests of 10% or more
 
 A qualifying company must not have—

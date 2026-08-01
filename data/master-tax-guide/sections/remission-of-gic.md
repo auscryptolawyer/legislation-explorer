@@ -5,7 +5,6 @@ section: "remission-of-gic"
 title: "Remission of GIC"
 paragraph: "¶29-530"
 ---
-
 # Remission of GIC ¶29-530
 
 The Commissioner has discretion to remit GIC in whole or in part. However, if GIC is payable because an amount remains unpaid after the time by which it is due to be paid, GIC may only be remitted if:

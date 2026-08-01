@@ -8,7 +8,6 @@ section_title: Airport operator’s assets
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 6  Airport operator’s assets
 
 **Ownership of airport assets**

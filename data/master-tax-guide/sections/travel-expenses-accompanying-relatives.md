@@ -5,7 +5,6 @@ section: "travel-expenses-accompanying-relatives"
 title: "Travel expenses: accompanying relatives"
 paragraph: "¶16-280"
 ---
-
 # Travel expenses: accompanying relatives ¶16-280
 
 Special rules apply in certain circumstances to deny deductions for expenses attributable to an accompanying relative (ITAA97 s 26-30). These rules, which apply to employees as well as to recipients of certain PAYG withholding payments (payments to directors and oﬃce holders, return to work payments, beneﬁt training and compensation payments: ¶26-120), apply where the taxpayer is undertaking travel as an employee or in the course of carrying on a business and is accompanied by a relative, unless:

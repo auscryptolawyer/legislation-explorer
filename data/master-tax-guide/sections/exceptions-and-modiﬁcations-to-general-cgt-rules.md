@@ -5,7 +5,6 @@ section: "exceptions-and-modiﬁcations-to-general-cgt-rules"
 title: "Exceptions and modiﬁcations to general CGT rules"
 paragraph: "¶11-050"
 ---
-
 # Exceptions and modiﬁcations to general CGT rules ¶11-050
 
 In some circumstances, the general rules for calculating net capital gains and losses are varied (s 102-30).

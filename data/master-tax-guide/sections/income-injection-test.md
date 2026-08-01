@@ -5,7 +5,6 @@ section: "income-injection-test"
 title: "Income injection test"
 paragraph: "¶6-267"
 ---
-
 # Income injection test ¶6-267
 
 If a trust is involved in an income injection scheme to take advantage of losses or other deductions, it may be prevented from making full use of them under the income injection test. Under these schemes, income is injected into trusts with losses or other deductions so that the tax payable on the income is reduced or eliminated.

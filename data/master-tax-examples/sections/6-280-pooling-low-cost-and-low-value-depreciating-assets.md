@@ -5,7 +5,6 @@ section: "6-280-pooling-low-cost-and-low-value-depreciating-assets"
 title: "6-280 - Pooling low cost and low value depreciating assets"
 paragraph: "None"
 ---
-
 # 6-280 - Pooling low cost and low value depreciating assets
 
 Worked example: Pooling low cost and low value depreciating assets Issue Spotless Cleaning Services operates a chain of dry cleaning and laundry outlets. The business does not qualify as a small business entity under ITAA97 s 328-110 but does conduct a low-value pool for both low- cost and low-value assets (ITAA97 ss 40-420 and 40-425). Spotless provides the following information in relation to its low-value pool for 2024–25.

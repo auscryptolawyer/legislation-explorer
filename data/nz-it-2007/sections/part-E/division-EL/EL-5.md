@@ -8,7 +8,6 @@ section_title: When residential portfolios sold
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EL 5  When residential portfolios sold
 
 **When this section applies**

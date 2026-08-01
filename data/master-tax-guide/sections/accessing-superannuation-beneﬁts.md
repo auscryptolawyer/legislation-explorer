@@ -5,7 +5,6 @@ section: "accessing-superannuation-beneﬁts"
 title: "Accessing superannuation beneﬁts"
 paragraph: "¶13-025"
 ---
-
 # Accessing superannuation beneﬁts ¶13-025
 
 A member’s beneﬁts in a superannuation fund may be paid as one or more lump sums or pensions, or both, if permitted by the fund’s governing rules and the payment standards in SISR Pt 6 are complied with.

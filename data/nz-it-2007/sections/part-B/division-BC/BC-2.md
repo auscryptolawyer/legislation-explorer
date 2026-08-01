@@ -8,7 +8,6 @@ section_title: Annual gross income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BC 2  Annual gross income
 
 A person’s annual gross income for a tax year is the total of their assessable income that is allocated to the corresponding income year.

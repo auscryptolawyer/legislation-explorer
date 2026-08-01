@@ -8,7 +8,6 @@ section_title: Refunds for overpaid tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RM 2  Refunds for overpaid tax
 
 **Amounts arising on original assessments**

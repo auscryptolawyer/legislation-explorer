@@ -5,7 +5,6 @@ section: "5-180-disposal-not-in-ordinary-course-of-business"
 title: "5-180 - Disposal not in ordinary course of business"
 paragraph: "None"
 ---
-
 # 5-180 - Disposal not in ordinary course of business
 
 Worked example: Disposal not in ordinary course of business Issue Plasteel Pty Ltd (Plasteel) is a manufacturer of children’s gym equipment. It received the following valuation from a licensed valuer commissioned to value its stock on hand as at 30 June 2024: $ Cost                                                                                                                         650,000 Market selling value                                                                                                         800,000 Replacement price                                                                                                            700,000 Plasteel elected to value its trading stock at 30 June 2024 at cost.

@@ -5,7 +5,6 @@ section: "4-540-prepaid-rent"
 title: "4-540 - Prepaid rent"
 paragraph: "None"
 ---
-
 # 4-540 - Prepaid rent
 
 Worked example: Prepaid rent Issue Rose Tyler entered into negotiations to purchase a new high-end clothing store on 20 January 2025 with the management of the Eastfield shopping complex in Melbourne.

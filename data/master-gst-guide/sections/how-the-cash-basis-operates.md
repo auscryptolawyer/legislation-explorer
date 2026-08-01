@@ -5,7 +5,6 @@ section: "how-the-cash-basis-operates"
 title: "How the cash basis operates"
 paragraph: "¶7-320"
 ---
-
 # How the cash basis operates ¶7-320
 
 If you are using the cash basis of accounting for GST, you attribute the GST to the tax period in which you received payment (consideration) for supplies you make. If you only received part of the payment for supplies during the tax period, you attribute a corresponding part of the GST to that period. The GST which is attributed to the tax period is the amount that is included in your return for the period (s 29-5). The time of invoicing or supply is irrelevant.

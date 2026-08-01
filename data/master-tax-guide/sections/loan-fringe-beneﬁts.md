@@ -5,7 +5,6 @@ section: "loan-fringe-beneﬁts"
 title: "Loan fringe beneﬁts"
 paragraph: "¶35-270"
 ---
-
 # Loan fringe beneﬁts ¶35-270
 
 A loan beneﬁt arises where a provider (generally the employer) makes a loan to another person called the recipient (generally the employee) (ss 16; 17; 147; 148). Loans include those made by an associate of an employer, or by a third party under an arrangement with an employer, and loans to an associate of an employee, or to some other person at the request of an employee or of an associate of an employee. For examples, see ID 2003/315 and ID 2003/347.

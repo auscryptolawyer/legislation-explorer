@@ -5,7 +5,6 @@ section: "thin-capitalisation"
 title: "Thin capitalisation"
 paragraph: "¶22-700"
 ---
-
 # Thin capitalisation ¶22-700
 
 The thin capitalisation rules in ITAA97 Div 820 are intended to prevent multinational enterprises shifting proﬁts out of Australia by funding their Australian operations with excessive levels of debt and relatively little equity in order to reduce their Australian taxable income. The rules do this by limiting deductions for interest expense and borrowing costs (“debt deductions”: s 820-46) where speciﬁed debt limits are exceeded.

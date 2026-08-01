@@ -5,7 +5,6 @@ section: "treatment-of-bounties-and-subsidies"
 title: "Treatment of bounties and subsidies"
 paragraph: "¶10-160"
 ---
-
 # Treatment of bounties and subsidies ¶10-160
 
 Ordinarily, bounties and subsidies received in relation to carrying on a business are assessable as ordinary income. Such items are included in assessable income on an accruals basis where the items represent trading income of the taxpayer (¶9-030).

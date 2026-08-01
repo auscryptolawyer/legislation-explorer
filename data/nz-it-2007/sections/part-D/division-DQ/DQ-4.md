@@ -8,7 +8,6 @@ section_title: Environmental restoration accounts scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DQ 4  Environmental restoration accounts scheme
 
 **Deduction for payment**

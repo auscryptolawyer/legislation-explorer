@@ -5,7 +5,6 @@ section: "tax-treatment-of-co-operative-companies"
 title: "Tax treatment of co-operative companies"
 paragraph: "¶3-430"
 ---
-
 # Tax treatment of co-operative companies ¶3-430
 
 Companies qualifying as co-operative companies in an income year are assessable on all receipts of an income character and are speciﬁcally made assessable on all sums received, from their members or others, relating to the activities referred to in (1) and (4) at ¶3-420 (ITAA36 s 119). But for this express provision, a co-operative company’s receipts from members in relation to those activities might be non-assessable under the mutuality principle (¶3-810).

@@ -8,7 +8,6 @@ section_title: Receipts from non-resident or foreign deducting branch producing 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FH 6  Receipts from non-resident or foreign deducting branch producing deduction without income
 
 **When this section applies**

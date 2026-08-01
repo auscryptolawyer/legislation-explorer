@@ -5,7 +5,6 @@ section: "south-australia-land-tax"
 title: "South Australia land tax"
 paragraph: "¶38-040"
 ---
-
 # South Australia land tax ¶38-040
 
 Provisions governing the imposition and calculation of liability to land tax in South Australia are contained in the Land Tax Act 1936 (“the principal Act”) and the Land Tax Regulations 2010. Administrative and procedural matters, including powers of the Chief Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 1996.

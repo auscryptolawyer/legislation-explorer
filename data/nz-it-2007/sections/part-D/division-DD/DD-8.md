@@ -8,7 +8,6 @@ section_title: Entertainment that is income or fringe benefit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DD 8  Entertainment that is income or fringe benefit
 
 The limitation rule does not apply to a deduction for expenditure on entertainment that is—

@@ -5,7 +5,6 @@ section: "liability-of-liquidators-receivers-and-agents"
 title: "Liability of liquidators, receivers and agents"
 paragraph: "¶25-520"
 ---
-
 # Liability of liquidators, receivers and agents ¶25-520
 
 A liquidator of a company or a receiver for a debenture holder is required to notify the Commissioner within 14 days of the fact of: (i) being appointed as liquidator; or (ii) taking possession of the assets of the company (TAA sch 1 Subdivs 260-B; 260-C).

@@ -8,7 +8,6 @@ section_title: Exception: when payee group not allowed deductions for supplies a
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FH 5B  Exception: when payee group not allowed deductions for supplies as prerequisites for payer supplies
 
 **When this section applies**

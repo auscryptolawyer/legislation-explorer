@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 160ZZZL Certain “hybrid mismatch” deductions denied
 
 <a id="s160ZZZL-1"></a>

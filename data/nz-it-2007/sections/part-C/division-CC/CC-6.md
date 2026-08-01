@@ -8,7 +8,6 @@ section_title: Prizes received under Building Societies Act 1965
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CC 6  Prizes received under Building Societies Act 1965
 
 **Income**

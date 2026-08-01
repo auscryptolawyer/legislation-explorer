@@ -5,7 +5,6 @@ section: "consolidation-and-cgt"
 title: "Consolidation and CGT"
 paragraph: "¶8-920"
 ---
-
 # Consolidation and CGT ¶8-920
 
 A special category of CGT events deal with speciﬁc events and transactions in relation to consolidated groups. These CGT events (CGT events L1 to L8) are listed at ¶12-360 and are referred to as appropriate within this chapter.

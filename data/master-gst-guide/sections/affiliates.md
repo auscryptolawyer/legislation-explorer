@@ -5,7 +5,6 @@ section: "affiliates"
 title: "Affiliates"
 paragraph: "¶1-275"
 ---
-
 # Affiliates ¶1-275
 
 An affiliate must be a company or individual. Trusts, partnerships and superannuation funds are not capable of being affiliates.

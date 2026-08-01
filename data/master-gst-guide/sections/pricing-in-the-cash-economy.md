@@ -5,7 +5,6 @@ section: "pricing-in-the-cash-economy"
 title: "Pricing in the cash economy"
 paragraph: "¶21-045"
 ---
-
 # Pricing in the cash economy ¶21-045
 
 The government’s stated hope was that GST would help to counter the “black” or “cash” economy. This economy includes businesses that provide goods and services, typically for cash and at a discounted rate, and do not disclose their income to the ATO. Under the GST system, these businesses have to pay GST on the things they purchase and have to register if they want to claim input tax credits for that GST. They may also, as a practical matter, need to keep better records — this may in turn create paper trails for ATO auditors who will be familiar with normal industry trading margins. The obligation to quote an Australian Business Number on invoices in order to avoid tax being withheld also acts as a disincentive for potential avoiders (¶3-050), as did — to a limited extent — the reduction in income tax rates that accompanied the introduction of GST.

@@ -5,7 +5,6 @@ section: "application-of-cgt-concessions-to-deceased-estates"
 title: "Application of CGT concessions to deceased estates"
 paragraph: "¶7-160"
 ---
-
 # Application of CGT concessions to deceased estates ¶7-160
 
 The legal personal representative, the beneﬁciary of a deceased estate, a surviving joint tenant or the trustee or beneﬁciary of a testamentary trust can access the concessions to the extent that the deceased would have been able to access them just before he or she died (s 152-80). This only applies if the CGT event happens to the asset within 2 years (or such extended period as the Commissioner allows) of the death of the individual.

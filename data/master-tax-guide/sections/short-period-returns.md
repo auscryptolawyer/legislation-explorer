@@ -5,7 +5,6 @@ section: "short-period-returns"
 title: "Short period returns"
 paragraph: "¶9-020"
 ---
-
 # Short period returns ¶9-020
 
 Ordinarily, no return is allowed for a period of more than 12 months, except in certain cases where there is a change to or from a substituted accounting period (¶9-010). Returns for a period of less than 12 months are more frequently required, for example:

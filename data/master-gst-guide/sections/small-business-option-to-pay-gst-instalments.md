@@ -5,7 +5,6 @@ section: "small-business-option-to-pay-gst-instalments"
 title: "Small business option to pay GST instalments"
 paragraph: "¶8-037"
 ---
-
 # Small business option to pay GST instalments ¶8-037
 
 Certain small businesses may be eligible to elect to pay quarterly GST instalments and lodge an annual GST return (reconciliation). The quarterly instalments are notified by the Commissioner (ss 162–135), either electronically or prefilled on hard copy instalment notices. The instalment amount is typically 25% of the previous year’s GST, adjusted by a factor that reflects changes in GDP (Gross Domestic Product) (Administration Act Sch 1 Subdiv 45-L) — 4% for the 2025–26 income year. The taxpayer may vary the notified instalment amount, however penalties may apply for underestimates in excess of the statutory tolerances.

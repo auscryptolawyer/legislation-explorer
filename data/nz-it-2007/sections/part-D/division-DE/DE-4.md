@@ -8,7 +8,6 @@ section_title: Default method for calculating proportion of business use
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DE 4  Default method for calculating proportion of business use
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Excessive effective look-through interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 25B  Excessive effective look-through interests
 
 **When this section applies**

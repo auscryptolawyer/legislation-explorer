@@ -8,7 +8,6 @@ section_title: Obligations of custodial institutions in relation to certain paym
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 10C  Obligations of custodial institutions in relation to certain payments of investment income
 
 **When this section applies**

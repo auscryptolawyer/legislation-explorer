@@ -5,7 +5,6 @@ section: "utilising-losses-available-fraction-method"
 title: "Utilising losses: available fraction method"
 paragraph: "¶8-120"
 ---
-
 # Utilising losses: available fraction method ¶8-120
 
 The use of transferred losses (which are not “concessional losses” (¶8-110)) is restricted, with the intent that the losses are able to be used by the group at approximately the same rate that they would have been used by the joining entity had it remained outside the group. This is achieved by limiting the rate at which a head company can deduct or apply transferred losses by reference to their “available fraction”. The available fraction is basically the proportion that the joining entity’s market value (at the time of joining) bears to the value of the whole group (including the joining entity) at that time (ITAA97 s 707-320).

@@ -5,7 +5,6 @@ section: "rules-limiting-main-residence-exemption"
 title: "Rules limiting main residence exemption"
 paragraph: "¶11-750"
 ---
-
 # Rules limiting main residence exemption ¶11-750
 
 only The main residence exemption does not generally apply to a CGT event that happens in relation to adjacent land or a garage, storeroom or other structure if that CGT event does not also happen in relation to the dwelling upon which the exemption relies (s 118-165). For example, land under a unit of accommodation will not beneﬁt from the main residence exemption if the taxpayer sells that unit of accommodation separately from the land (TD 1999/73).

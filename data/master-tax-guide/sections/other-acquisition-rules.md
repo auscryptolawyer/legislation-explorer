@@ -5,7 +5,6 @@ section: "other-acquisition-rules"
 title: "Other acquisition rules"
 paragraph: "¶11-470"
 ---
-
 # Other acquisition rules ¶11-470
 
 There are several other acquisition rules which apply for non-CGT situations (s 109-60) but which also apply for CGT purposes:

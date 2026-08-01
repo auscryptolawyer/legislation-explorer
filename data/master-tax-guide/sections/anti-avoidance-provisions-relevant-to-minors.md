@@ -5,7 +5,6 @@ section: "anti-avoidance-provisions-relevant-to-minors"
 title: "Anti-avoidance provisions relevant to minors"
 paragraph: "¶2-190"
 ---
-
 # Anti-avoidance provisions relevant to minors ¶2-190
 
 Anti-avoidance provisions are designed to ensure that the income exclusions noted at ¶2-180 are not exploited.

@@ -8,7 +8,6 @@ section_title: Election to use net loss for 2019–20 or 2020–21 year as tax l
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IZ 8  Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year
 
 **Terms used in this section**

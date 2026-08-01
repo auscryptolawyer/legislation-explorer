@@ -8,7 +8,6 @@ section_title: Credits from tax year before first affected year
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LK 5B  Credits from tax year before first affected year
 
 **When this section applies**

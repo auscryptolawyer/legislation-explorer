@@ -5,7 +5,6 @@ section: "multi-party-transactions"
 title: "Multi-party transactions"
 paragraph: "¶4-015"
 ---
-
 # Multi-party transactions ¶4-015
 
 Transactions may of course involve more than two parties. According to the circumstances, these transactions may comprise:

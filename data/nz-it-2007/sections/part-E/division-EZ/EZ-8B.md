@@ -8,7 +8,6 @@ section_title: Disposal of land to the Crown
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 8B  Disposal of land to the Crown
 
 Despite the repeal of section EI 8 (Disposal of land to the Crown) by the Taxation (Annual Rates for 2024–25, Emergency Response, and Remedial Measures) Act 2025, section EI 8 continues to have effect on or after 26 August 2024 for a person who derives income from disposing of any of their land to the Crown if—

@@ -5,7 +5,6 @@ section: "scope-of-fito-rules"
 title: "Scope of FITO rules"
 paragraph: "¶21-670"
 ---
-
 # Scope of FITO rules ¶21-670
 
 The foreign income tax oﬀset (FITO) rules in ITAA97 Div 770 are designed to protect a taxpayer from the double taxation that may arise where the taxpayer pays foreign tax on income that is also taxable in Australia. This is achieved by allowing a taxpayer to claim a tax oﬀset where they have paid foreign tax on amounts included in their assessable income.

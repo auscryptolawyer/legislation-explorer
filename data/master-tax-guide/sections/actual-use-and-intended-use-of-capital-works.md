@@ -5,7 +5,6 @@ section: "actual-use-and-intended-use-of-capital-works"
 title: "Actual use and intended use of capital works"
 paragraph: "¶20-490"
 ---
-
 # Actual use and intended use of capital works ¶20-490
 
 Both of the following “use” tests must be satisﬁed before a capital works deduction is available:

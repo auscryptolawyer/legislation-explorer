@@ -5,7 +5,6 @@ section: "scope-of-accruals-system"
 title: "Scope of accruals system"
 paragraph: "¶21-105"
 ---
-
 # Scope of accruals system ¶21-105
 
 The broad objective of the accruals taxation system is to tax Australian residents on an accruals basis on their share of income derived by certain foreign entities which has not been comparably taxed oﬀshore.

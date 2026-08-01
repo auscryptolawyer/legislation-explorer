@@ -5,7 +5,6 @@ section: "payg-payments-to-foreign-residents"
 title: "PAYG: payments to foreign residents"
 paragraph: "¶26-265"
 ---
-
 # PAYG: payments to foreign residents ¶26-265
 
 TAA sch 1 ss 12-315 to 12-319 requires that an entity making a payment to a foreign resident, or receiving a payment for a foreign resident, must withhold an amount in certain situations.

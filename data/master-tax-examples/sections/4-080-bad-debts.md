@@ -5,7 +5,6 @@ section: "4-080-bad-debts"
 title: "4-080 - Bad debts"
 paragraph: "None"
 ---
-
 # 4-080 - Bad debts
 
 Worked example: Bad debts Issue Parker Bros own and operate a hardware business offering both cash and credit sales. They also conduct a moneylending business making loans to tradesmen and builders to finance their development projects.

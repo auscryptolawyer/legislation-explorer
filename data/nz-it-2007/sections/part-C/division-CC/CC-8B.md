@@ -8,7 +8,6 @@ section_title: Certain commercial bills: non-resident holders
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CC 8B  Certain commercial bills: non-resident holders
 
 **When this section applies**

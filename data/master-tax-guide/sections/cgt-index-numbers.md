@@ -5,7 +5,6 @@ section: "cgt-index-numbers"
 title: "CGT index numbers"
 paragraph: "¶42-225"
 ---
-
 # CGT index numbers ¶42-225
 
 The rules regarding CGT indexation are explained at ¶11-610.

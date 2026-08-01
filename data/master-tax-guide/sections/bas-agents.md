@@ -5,7 +5,6 @@ section: "bas-agents"
 title: "BAS agents"
 paragraph: "¶32-065"
 ---
-
 # BAS agents ¶32-065
 
 The present registration regime also provides for the registration of BAS agents.

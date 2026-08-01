@@ -5,7 +5,6 @@ section: "concessional-contributions-cap"
 title: "Concessional contributions cap"
 paragraph: "¶42-320"
 ---
-
 # Concessional contributions cap ¶42-320
 
 An individual is liable to pay excess contributions charge if the concessional contributions made by or for the individual exceed the concessional contributions cap for the year (¶13-820). The excess contributions are included in the individual’s assessable income and taxed at marginal tax rates.

@@ -8,7 +8,6 @@ section_title: Calculations for group for test and apportionment using interest-
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 12B  Calculations for group for test and apportionment using interest-income ratio
 
 **Application of rules**

@@ -5,7 +5,6 @@ section: "examples-of-self-education-claims"
 title: "Examples of self-education claims"
 paragraph: "¶16-452"
 ---
-
 # Examples of self-education claims ¶16-452
 
 Successful self-education claims involving attendance at overseas conferences or courses include: a medical technologist’s trip to an immunology conference in Paris (Case R75 84 ATC 527); an architecture student’s trip to a European design conference (Case R87 84 ATC 588); a dentist’s trip to a Dental Congress in Paris (Case R13 84 ATC 168); a French teacher’s trip to France for a professional development course (Case T47 86 ATC 381); and an actress’ trip to attend a BBC radio drama course (Case V32 88 ATC 285). A claim by a locum professional for the cost of a refresher course was disallowed in Case T10 86 ATC 169, but allowed in Case T90 86 ATC 1132.

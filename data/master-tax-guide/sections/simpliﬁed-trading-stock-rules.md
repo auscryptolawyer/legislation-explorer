@@ -5,7 +5,6 @@ section: "simpliﬁed-trading-stock-rules"
 title: "Simpliﬁed trading stock rules"
 paragraph: "¶7-260"
 ---
-
 # Simpliﬁed trading stock rules ¶7-260
 
 The simpliﬁed trading stock rules are available for small and medium business entities and provide that, where the diﬀerence between the value of trading stock on hand at the start of an income year and the reasonably estimated value at the end of the year is $5,000 or less, the eligible entity can choose not to:

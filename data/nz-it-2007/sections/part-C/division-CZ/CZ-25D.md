@@ -8,7 +8,6 @@ section_title: Improvements to farmland and horticultural plants affected by Nor
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 25D  Improvements to farmland and horticultural plants affected by North Island flooding events and replaced—insurance or compensation
 
 **When this section applies**

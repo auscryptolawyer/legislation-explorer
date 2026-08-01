@@ -5,7 +5,6 @@ section: "example-averaging-adjustment-tax-oﬀset"
 title: "Example: averaging adjustment — tax oﬀset"
 paragraph: "¶18-250"
 ---
-
 # Example: averaging adjustment — tax oﬀset ¶18-250
 
 The following example illustrates the operation of the averaging system where a primary producer is entitled to an averaging adjustment in the form of a tax oﬀset. The steps in the example follow the sequence of those in the step-by-step process explained at ¶18-210. It is assumed that the taxpayer is a resident, so the appropriate rates of tax to be applied are those set out at ¶42-000, and eligibility for the rebate for low income earners (¶15-300) is ignored.

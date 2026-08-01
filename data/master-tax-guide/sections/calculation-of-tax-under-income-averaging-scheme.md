@@ -5,7 +5,6 @@ section: "calculation-of-tax-under-income-averaging-scheme"
 title: "Calculation of tax under income averaging scheme"
 paragraph: "¶2-144"
 ---
-
 # Calculation of tax under income averaging scheme ¶2-144
 
 The steps involved in calculating the tax payable under the income averaging scheme are as follows.

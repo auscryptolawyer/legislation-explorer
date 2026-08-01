@@ -8,7 +8,6 @@ section_title: Trees on farms
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DO 3  Trees on farms
 
 **When this section applies**

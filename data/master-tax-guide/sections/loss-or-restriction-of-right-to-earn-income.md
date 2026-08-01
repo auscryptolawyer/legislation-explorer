@@ -5,7 +5,6 @@ section: "loss-or-restriction-of-right-to-earn-income"
 title: "Loss or restriction of right to earn income"
 paragraph: "¶10-072"
 ---
-
 # Loss or restriction of right to earn income ¶10-072
 
 A payment received by a person in consideration of restrictions on their future income-earning capacity (ie negative covenants), provided it is received in the form of a lump sum or as instalments of a ﬁxed sum, is generally capital and not income (Higgs v Olivier (1952) 33 TC 136; Ch 311; Dickenson (1958) 11 ATD 415). This will be so whether the payment is received before or after the termination of the current services (whether as employee or otherwise), provided it is received for a restriction on the taxpayer’s activities after the termination. If the payment is made pursuant to a post-19 September 1985 agreement, the CGT provisions may apply (¶11-280).

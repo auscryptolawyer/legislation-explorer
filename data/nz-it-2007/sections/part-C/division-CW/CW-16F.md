@@ -8,7 +8,6 @@ section_title: Accommodation expenditure: multiple workplaces
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 16F  Accommodation expenditure: multiple workplaces
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "source-of-particular-classes-of-income"
 title: "Source of particular classes of income"
 paragraph: "¶21-070"
 ---
-
 # Source of particular classes of income ¶21-070
 
 Except where there is a speciﬁc statutory provision, determining the dominant source of an item of income is a practical, hard matter of fact to be determined separately in each case — the general comments below are intended merely as a guide.

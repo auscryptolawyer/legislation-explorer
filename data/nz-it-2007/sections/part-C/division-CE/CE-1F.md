@@ -8,7 +8,6 @@ section_title: Treatment of amounts derived by cross-border employees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 1F  Treatment of amounts derived by cross-border employees
 
 **When this section applies**

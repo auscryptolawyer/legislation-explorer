@@ -5,7 +5,6 @@ section: "excess-transfer-balance-tax"
 title: "Excess transfer balance tax"
 paragraph: "¶14-360"
 ---
-
 # Excess transfer balance tax ¶14-360
 
 An individual who has an excess transfer balance period for his/her transfer balance account (¶14-320) is liable to pay excess transfer balance tax imposed by the Superannuation (Excess Transfer Balance Tax) Imposition Act 2016 (SETBTIA) for the period (ITAA97 s 294-230(1)).

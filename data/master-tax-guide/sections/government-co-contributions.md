@@ -5,7 +5,6 @@ section: "government-co-contributions"
 title: "Government co-contributions"
 paragraph: "¶13-760"
 ---
-
 # Government co-contributions ¶13-760
 
 The government makes co-contributions to match the personal superannuation contributions made by eligible individual taxpayers to complying superannuation funds and RSAs (Superannuation (Government Co-contribution for Low Income Earners) Act 2003 (CCA) and Regulations 2022 (CCR)).

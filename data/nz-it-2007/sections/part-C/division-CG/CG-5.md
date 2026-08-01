@@ -8,7 +8,6 @@ section_title: Recoveries or receipts by employers from superannuation schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 5  Recoveries or receipts by employers from superannuation schemes
 
 **When this section applies**

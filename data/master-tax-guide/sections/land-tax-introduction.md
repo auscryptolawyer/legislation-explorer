@@ -5,7 +5,6 @@ section: "land-tax-introduction"
 title: "Land tax: introduction"
 paragraph: "¶38-000"
 ---
-
 # Land tax: introduction ¶38-000
 
 Land tax is an annual tax on the ownership of land. It is imposed by all states and by the Australian Capital Territory, but not by the Northern Territory. Factors that aﬀect a taxpayer’s land tax liability include:

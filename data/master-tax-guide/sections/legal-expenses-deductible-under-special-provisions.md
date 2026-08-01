@@ -5,7 +5,6 @@ section: "legal-expenses-deductible-under-special-provisions"
 title: "Legal expenses deductible under special provisions"
 paragraph: "¶16-830"
 ---
-
 # Legal expenses deductible under special provisions ¶16-830
 
 Certain kinds of legal expenses are speciﬁcally made deductible, even though they might not be deductible under the general deduction provisions because of their capital, private or domestic nature. These are legal expenses associated with:

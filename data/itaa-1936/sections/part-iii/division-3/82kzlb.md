@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 82KZLB  How this Subdivision applies to deductible R&D expenditure incurred to associates in earlier income years
 
 In addition to its application apart from this section, this Subdivision applies to expenditure deductible under section 355-480 of the Income Tax Assessment Act 1997 as if:

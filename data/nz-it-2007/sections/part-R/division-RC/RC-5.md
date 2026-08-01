@@ -8,7 +8,6 @@ section_title: Methods for calculating provisional tax liability
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RC 5  Methods for calculating provisional tax liability
 
 **Choice of method**

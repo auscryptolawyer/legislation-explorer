@@ -8,7 +8,6 @@ section_title: Interest incurred on money borrowed to acquire shares in qualifyi
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 9  Interest incurred on money borrowed to acquire shares in qualifying companies
 
 **Deduction for interest incurred**

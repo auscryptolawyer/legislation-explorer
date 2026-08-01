@@ -8,7 +8,6 @@ section_title: Treatment when lease ends: lessee acquiring asset
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 9  Treatment when lease ends: lessee acquiring asset
 
 **Acquisition treated as sale**

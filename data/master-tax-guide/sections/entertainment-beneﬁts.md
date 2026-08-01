@@ -5,7 +5,6 @@ section: "entertainment-beneﬁts"
 title: "Entertainment beneﬁts"
 paragraph: "¶35-617"
 ---
-
 # Entertainment beneﬁts ¶35-617
 
 “Entertainment”, for the purposes of the FBTAA, is deﬁned by reference to ITAA97 s 32-10 (¶16-390). The Commissioner’s views on what constitutes entertainment by way of the provision of food and drink and when FBT is payable on entertainment are set out in TR 97/17.

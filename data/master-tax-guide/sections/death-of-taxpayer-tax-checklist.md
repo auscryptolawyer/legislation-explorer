@@ -5,7 +5,6 @@ section: "death-of-taxpayer-tax-checklist"
 title: "Death of taxpayer tax checklist"
 paragraph: "¶44-170"
 ---
-
 # Death of taxpayer tax checklist ¶44-170
 
 - The trustee of the deceased estate, administrator or legal personal representative (together

@@ -5,7 +5,6 @@ section: "what-is-foreign-income-tax"
 title: "What is foreign income tax?"
 paragraph: "¶21-700"
 ---
-
 # What is foreign income tax? ¶21-700
 
 “Foreign income tax” is intended to cover taxes that are substantially equivalent to Australian income tax. To qualify, the following requirements must be satisﬁed (s 770-15): (1) the tax must be imposed by a law other than an Australian Commonwealth, state or territory law. The foreign law may be at the level of a national or supra-national government (such as the European Union), or at a state, provincial, local or municipal level. Unlike the situation that applied under the former FTC rules, it is not necessary that the foreign tax be imposed by a foreign country (2) the tax must be: – a tax on income, or on proﬁts or gains (whether of an income or capital nature). This would extend to withholding taxes, or – any other tax covered by a double tax agreement (eg a tax sparing amount, such as under the Philippines DTA).

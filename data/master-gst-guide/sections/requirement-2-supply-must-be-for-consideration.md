@@ -5,7 +5,6 @@ section: "requirement-2-supply-must-be-for-consideration"
 title: "Requirement 2: supply must be “for consideration”"
 paragraph: "¶4-020"
 ---
-
 # Requirement 2: supply must be “for consideration” ¶4-020
 
 The second requirement for a taxable supply is that the supply is made “for consideration”.

@@ -8,7 +8,6 @@ section_title: CFC income or loss: arrangements for inclusion of CFC in test gro
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 15BA  CFC income or loss: arrangements for inclusion of CFC in test group
 
 **When this section applies**

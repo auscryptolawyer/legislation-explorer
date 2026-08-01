@@ -5,7 +5,6 @@ section: "payment-of-gst-refunds"
 title: "Payment of GST refunds"
 paragraph: "¶8-110"
 ---
-
 # Payment of GST refunds ¶8-110
 
 A taxpayer is entitled to a refund from the ATO for a tax period where the net assessed liability (¶8-100) is less than zero (s 35-5). The most straight forward example where this would occur is where in a tax period, the GST payable on supplies made by the taxpayer is less than the input tax credits (ITCs) on acquisitions made that the taxpayer is entitled to claim.

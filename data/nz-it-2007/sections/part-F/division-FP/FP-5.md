@@ -8,7 +8,6 @@ section_title: Replacement property for land or buildings affected by emergency 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FP 5  Replacement property for land or buildings affected by emergency events
 
 **When this section applies**

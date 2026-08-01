@@ -5,7 +5,6 @@ section: "1-040-social-media-income-professional-artist-business"
 title: "1-040 - Social media income professional artist business"
 paragraph: "None"
 ---
-
 # 1-040 - Social media income professional artist business
 
 Worked example: Social media income; professional artist business Issue Catherine Wise works full-time in sales. For the past 3 years she has pursued her hobby on weekends as a make-up artist for weddings and other special occasions. Generally, she receives tips and gifts of champagne and flowers for her services but does not include any income or deductions relating to her make- up activities in her tax return.

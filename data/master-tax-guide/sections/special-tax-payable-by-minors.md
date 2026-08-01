@@ -5,7 +5,6 @@ section: "special-tax-payable-by-minors"
 title: "Special tax payable by minors"
 paragraph: "¶2-160"
 ---
-
 # Special tax payable by minors ¶2-160
 
 Special rules apply in calculating the tax payable on income of a minor (ITAA36 Pt III Div 6AA: ss 102AA to 102AGA). These rules were introduced to discourage income-splitting by diverting income to children, but they are not conﬁned to situations where income-splitting is involved.

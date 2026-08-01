@@ -5,7 +5,6 @@ section: "supplies-and-acquisitions"
 title: "Supplies and acquisitions"
 paragraph: "¶17-110"
 ---
-
 # Supplies and acquisitions ¶17-110
 
 The basic rule is that supplies made by an amalgamating company to the amalgamated company in the course of an amalgamation are not subject to GST, where the amalgamated company is registered or required to be registered immediately after the amalgamation (s 90-5). Of course, if the supplier is not itself registered or required to be registered, the supplies it makes in the course of the amalgamation will not be subject to GST in any event (s 9-5).

@@ -5,7 +5,6 @@ section: "employees-posted-overseas"
 title: "Employees posted overseas"
 paragraph: "¶35-655"
 ---
-
 # Employees posted overseas ¶35-655
 
 There are concessions applying to a number of beneﬁts provided to employees who are posted overseas — whether from Australia to a foreign country or from a foreign country to Australia. The eﬀect of the deﬁnition of “employee” in s 136 is that the FBT provisions (including any concessions) only apply to beneﬁts provided to a person who receives or is entitled to receive payments that are subject to PAYG withholding, ie not exempt income (¶35-060; ID 2007/25).

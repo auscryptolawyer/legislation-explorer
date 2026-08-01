@@ -8,7 +8,6 @@ section_title: General partners and partners carrying on with or managing busine
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HD 20B  General partners and partners carrying on with or managing business involving absentees
 
 **Who this section applies to**

@@ -5,7 +5,6 @@ section: "4-360-capital-works-demolition-environmental-protection-activities"
 title: "4-360 - Capital works demolition environmental protection activities"
 paragraph: "None"
 ---
-
 # 4-360 - Capital works demolition environmental protection activities
 
 Worked example: Capital works; demolition; environmental protection activities Issue Bob McKnight owns a rental property that includes a garden shed. The property is currently tenanted. A recent inspection of the property by a builder friend of Bob’s coincidentally found that the shed at the rear of the property was constructed of asbestos. To prevent any pollution of the property and to eliminate the risk of his tenants being exposed to harmful asbestos fibres, Bob engaged a licensed asbestos removalist to demolish the shed and safely remove the asbestos from the property. The demolition and removal cost was $8,000.

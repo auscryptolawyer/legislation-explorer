@@ -8,7 +8,6 @@ section_title: Third requirement: residence or entitlement to emergency benefit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MC 5  Third requirement: residence or entitlement to emergency benefit
 
 **Third requirement**

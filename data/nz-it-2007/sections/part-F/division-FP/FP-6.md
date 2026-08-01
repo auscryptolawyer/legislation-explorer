@@ -8,7 +8,6 @@ section_title: Meaning of suspended recovery income for affected revenue propert
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FP 6  Meaning of suspended recovery income for affected revenue property
 
 **Suspended recovery income**

@@ -5,7 +5,6 @@ section: "online-business-tax-checklist"
 title: "Online business tax checklist"
 paragraph: "¶44-106"
 ---
-
 # Online business tax checklist ¶44-106
 
 - The timing of a contract made online may aﬀect issues such as when income is derived (¶9-050)

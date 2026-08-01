@@ -8,7 +8,6 @@ section_title: Satisfaction of income tax liability
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LA 2  Satisfaction of income tax liability
 
 A person must use their total tax credit for a tax year to satisfy their income tax liability for the tax year.

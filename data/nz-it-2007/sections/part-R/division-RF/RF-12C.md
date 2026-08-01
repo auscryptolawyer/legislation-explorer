@@ -8,7 +8,6 @@ section_title: Amount derived from non-resident life insurer becoming resident
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 12C  Amount derived from non-resident life insurer becoming resident
 
 **When this section applies**

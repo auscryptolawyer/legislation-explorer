@@ -8,7 +8,6 @@ section_title: Calculation of child tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MZ 2  Calculation of child tax credit
 
 **Entitlement**

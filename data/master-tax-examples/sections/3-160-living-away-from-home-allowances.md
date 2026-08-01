@@ -5,7 +5,6 @@ section: "3-160-living-away-from-home-allowances"
 title: "3-160 - Living-away-from-home allowances"
 paragraph: "None"
 ---
-
 # 3-160 - Living-away-from-home allowances
 
 Worked example: Living-away-from-home allowances Issue John Johnson is an architect who worked for a boutique architectural firm in Adelaide where he owns a home. In April 2024, he was offered and accepted a consultant’s position with XYZ Pty Ltd, a company designing and assisting in the building of a Melbourne hospital. John was hired to provide on-going advice to the architects, builders and planning board. He received an increase in his annual salary in addition to a weekly allowance of $850 to cover additional food and accommodation costs incurred in his relocation to Melbourne. The relocation was temporary as the design and building project was estimated to take only one year to complete. John is single and is renting an apartment in Melbourne city for $650 per week for the term of the project.

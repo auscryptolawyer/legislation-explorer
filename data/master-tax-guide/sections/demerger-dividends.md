@@ -5,7 +5,6 @@ section: "demerger-dividends"
 title: "Demerger dividends"
 paragraph: "¶4-160"
 ---
-
 # Demerger dividends ¶4-160
 
 Tax relief is available for demergers, ie the restructuring of corporate or trust entities or groups (other than discretionary trusts and superannuation funds) by splitting them into 2 or more entities or groups. The relief applies to spin-oﬀs that happen on or after 1 July 2002, where underlying ownership is maintained and the demerging entity divests at least 80% of its ownership interests in the demerged entity. The 2 main elements of this relief are CGT relief (¶12-328) and tax relief on otherwise assessable dividends (discussed below).

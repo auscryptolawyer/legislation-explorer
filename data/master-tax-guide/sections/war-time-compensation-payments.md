@@ -5,7 +5,6 @@ section: "war-time-compensation-payments"
 title: "War-time compensation payments"
 paragraph: "¶10-204"
 ---
-
 # War-time compensation payments ¶10-204
 
 A payment to an Australian resident person from a source in a foreign country is exempt from income tax if it is in connection with any wrong or injury, any loss of (or damage to) property, or any other detriment that the recipient, or another individual, suﬀered as a result of:

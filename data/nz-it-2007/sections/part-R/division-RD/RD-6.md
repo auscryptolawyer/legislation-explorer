@@ -8,7 +8,6 @@ section_title: Certain benefits and payments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 6  Certain benefits and payments
 
 **When this section applies**

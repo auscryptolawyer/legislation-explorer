@@ -5,7 +5,6 @@ section: "8-180-assignment-of-partnership-interests"
 title: "8-180 - Assignment of partnership interests"
 paragraph: "None"
 ---
-
 # 8-180 - Assignment of partnership interests
 
 Worked example: Assignment of partnership interests Issue Adam North and Sally Marsden have been in partnership since 1 July 1995, sharing profits and losses equally. For the year ended 30 June 2025, the net income of the partnership was $210,000.

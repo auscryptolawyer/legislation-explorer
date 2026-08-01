@@ -5,7 +5,6 @@ section: "taxis-limousines-and-ride-sourcing"
 title: "Taxis, limousines and ride-sourcing"
 paragraph: "¶12-130"
 ---
-
 # Taxis, limousines and ride-sourcing ¶12-130
 
 If you supply taxi travel as part of your enterprise (¶3-020), you are required to be registered, regardless of turnover (s 144-5). The purpose of this rule is to avoid the confusion that would be created if some taxis had to charge GST and others did not. “Taxi travel” means travel that involves transporting fare-paying passengers by taxi or limousine (s 195-1).

@@ -5,7 +5,6 @@ section: "payroll-tax-exemptions-and-concessions"
 title: "Payroll tax exemptions and concessions"
 paragraph: "¶36-060"
 ---
-
 # Payroll tax exemptions and concessions ¶36-060
 
 Not all wages are subject to payroll tax. The legislation in each state prescribes speciﬁc wages that are not subject to the tax and these generally include wages paid or payable by:

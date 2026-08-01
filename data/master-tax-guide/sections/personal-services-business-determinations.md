@@ -5,7 +5,6 @@ section: "personal-services-business-determinations"
 title: "Personal services business determinations"
 paragraph: "¶30-680"
 ---
-
 # Personal services business determinations ¶30-680
 
 Any individual can apply for a personal services business (PSB) determination from the Commissioner (ITAA97 s 87-60). A personal services entity (PSE) may also apply for a determination relating to an individual’s personal services income (PSI) that is included in the entity’s income (ITAA97 s 87-65).

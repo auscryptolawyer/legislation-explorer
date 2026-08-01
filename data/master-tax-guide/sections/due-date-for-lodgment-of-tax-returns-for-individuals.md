@@ -5,7 +5,6 @@ section: "due-date-for-lodgment-of-tax-returns-for-individuals"
 title: "Due date for lodgment of tax returns for individuals"
 paragraph: "¶2-060"
 ---
-
 # Due date for lodgment of tax returns for individuals ¶2-060
 
 The due date for lodgment of returns is generally 31 October. Individuals preparing and ﬁling their own returns may, if unable to ﬁle by the due date, apply to the ATO for an extension of time (¶24-070). Reasons must be stated.

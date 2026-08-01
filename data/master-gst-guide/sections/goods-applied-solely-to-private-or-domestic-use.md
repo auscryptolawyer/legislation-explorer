@@ -5,7 +5,6 @@ section: "goods-applied-solely-to-private-or-domestic-use"
 title: "Goods applied solely to private or domestic use"
 paragraph: "¶6-320"
 ---
-
 # Goods applied solely to private or domestic use ¶6-320
 
 We have already seen that if you acquire something for business purposes and later decide to use it partly for private or domestic purposes, there will be an increasing adjustment, in accordance with the planned use rules (¶6-300). A separate rule applies to goods that were acquired solely for business purposes, but are applied solely to private or domestic use. In this situation, the benefit of the input tax credit is effectively withdrawn by an increasing adjustment (s 130-5). The $1,000 threshold applicable under the planned use rules does not apply.

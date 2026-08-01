@@ -5,7 +5,6 @@ section: "timing-of-supply-and-acquisition"
 title: "Timing of supply and acquisition"
 paragraph: "¶19-100"
 ---
-
 # Timing of supply and acquisition ¶19-100
 
 For the purposes of the transitional rules, the time when a particular supply or acquisition is made is worked out in accordance with the following rules (Transition Act, s 6): # Goods are supplied or acquired when they are removed. If they are not to be removed, the relevant time is when they are made available to the recipient. “Removal” apparently refers to physical removal, so goods can be removed even though legal ownership has not passed. For the meaning of “goods”, see ¶4-100.

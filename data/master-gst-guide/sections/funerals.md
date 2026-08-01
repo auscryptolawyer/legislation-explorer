@@ -5,7 +5,6 @@ section: "funerals"
 title: "Funerals"
 paragraph: "¶13-380"
 ---
-
 # Funerals ¶13-380
 
 The supply of funeral services (or the right to funeral services) is subject to GST.

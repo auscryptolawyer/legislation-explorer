@@ -5,7 +5,6 @@ section: "interest-on-borrowings-to-acquire-investments"
 title: "Interest on borrowings to acquire investments"
 paragraph: "¶16-742"
 ---
-
 # Interest on borrowings to acquire investments ¶16-742
 
 As a general rule, interest on moneys borrowed to acquire shares will be deductible where it is reasonably expected that assessable dividends will be derived from the investment (ITAA97 s 8-1; ID 2005/42). Interest will not be deductible where the shares are acquired solely for the purpose of making a capital proﬁt on their resale and the proceeds on sale are not assessable as ordinary income (IT 2606), but may be included in the cost base of the asset for CGT purposes.

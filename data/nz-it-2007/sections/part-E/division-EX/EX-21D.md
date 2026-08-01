@@ -8,7 +8,6 @@ section_title: Non-attributing active CFC: default test
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 21D  Non-attributing active CFC: default test
 
 **CFC as part of test group**

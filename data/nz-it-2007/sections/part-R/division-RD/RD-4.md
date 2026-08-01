@@ -8,7 +8,6 @@ section_title: Payment of amounts of tax to Commissioner
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 4  Payment of amounts of tax to Commissioner
 
 **Payments monthly or twice-monthly**

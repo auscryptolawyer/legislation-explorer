@@ -5,7 +5,6 @@ section: "sale-and-leaseback-arrangements"
 title: "Sale and leaseback arrangements"
 paragraph: "¶23-240"
 ---
-
 # Sale and leaseback arrangements ¶23-240
 
 A sale and leaseback transaction typically involves the sale by a taxpayer of a depreciable asset to a ﬁnancier and the leasing of that asset directly back to the taxpayer as lessee. In such case, the lessor should return the lease income as assessable income and deduct from that income depreciation and any other deductions (the “asset method” of returning lease income). Payments to the lessor to make up the residual value of the asset will have an income character. Advantages of such arrangements include: (a) the lease payments are deductible in full (if the lessee borrowed funds to purchase the asset, the capital component of the loan repayment would not be deductible); (b) the ﬁnancier can oﬀer the lessee better terms if the ﬁnancier can claim depreciation deductions or, in the case of buildings, deductions under ITAA97 Div 43; and (c) the lessee receives capital that would otherwise be consumed in the purchase of the asset.

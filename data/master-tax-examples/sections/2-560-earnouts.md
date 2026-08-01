@@ -5,7 +5,6 @@ section: "2-560-earnouts"
 title: "2-560 - Earnouts"
 paragraph: "None"
 ---
-
 # 2-560 - Earnouts
 
 Worked example: Earnouts Issue Diana sold all the shares in her business, Perseus Pty Ltd, to Persephone Pty Ltd in March 2023. The cost base of the shares was $600,000.

@@ -8,7 +8,6 @@ section_title: Direct control interests include options and similar rights
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 6  Direct control interests include options and similar rights
 
 **Entitlement to acquire or extinguish**

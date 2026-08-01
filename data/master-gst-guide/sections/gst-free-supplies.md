@@ -5,7 +5,6 @@ section: "gst-free-supplies"
 title: "GST-free supplies"
 paragraph: "¶25-010"
 ---
-
 # GST-free supplies ¶25-010
 
 This checklist shows the types of supplies that are GST-free, subject to conditions in some cases. For an explanation of “GST-free”, see ¶1-160. Note also that some supplies are outside the GST system altogether.

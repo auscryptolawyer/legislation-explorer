@@ -8,7 +8,6 @@ section_title: Tax credits for RLWT
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LB 6B  Tax credits for RLWT
 
 A person has a tax credit, for the tax year corresponding to an income year in which they dispose of residential land, equal to the amount of RLWT paid in relation to that residential land.

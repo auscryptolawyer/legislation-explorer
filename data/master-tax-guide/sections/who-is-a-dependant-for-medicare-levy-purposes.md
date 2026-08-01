@@ -5,7 +5,6 @@ section: "who-is-a-dependant-for-medicare-levy-purposes"
 title: "Who is a dependant for Medicare levy purposes?"
 paragraph: "¶2-310"
 ---
-
 # Who is a dependant for Medicare levy purposes? ¶2-310
 
 Entitlement to exemption from all or part of the Medicare levy (¶2-340) and liability to the Medicare levy surcharge (¶2-335) may depend on whether a taxpayer has dependants. For these purposes, a person is a dependant of a taxpayer if the person, whose maintenance a taxpayer contributes to, is a resident of

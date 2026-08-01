@@ -8,7 +8,6 @@ section_title: Treatment of attributed CFC income and FIF income in this subpart
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OE 5  Treatment of attributed CFC income and FIF income in this subpart
 
 For the purposes of applying this subpart to a person, other than a company, with an attributing interest in a foreign investment fund (FIF),—

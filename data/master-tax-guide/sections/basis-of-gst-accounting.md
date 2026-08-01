@@ -5,7 +5,6 @@ section: "basis-of-gst-accounting"
 title: "Basis of GST accounting"
 paragraph: "¶34-130"
 ---
-
 # Basis of GST accounting ¶34-130
 
 The GST and the input tax credits that belong to each period are worked out according to attribution rules, which vary according to whether the entity is on a cash basis or an accruals basis of accounting (Div 29).

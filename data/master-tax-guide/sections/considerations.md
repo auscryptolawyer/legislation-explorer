@@ -5,7 +5,6 @@ section: "considerations"
 title: "considerations"
 paragraph: "¶9-100"
 ---
-
 # considerations ¶9-100
 
 The main issues governing when a deduction is allowable are the time when expenditure is incurred and the period to which it is properly referable (ITAA97 s 8-1: ¶16-040) (Coles Myer Finance 93 ATC 4214, 93 ATC 4341; [1993] HCA 29).

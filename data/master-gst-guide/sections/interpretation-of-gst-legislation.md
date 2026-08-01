@@ -5,7 +5,6 @@ section: "interpretation-of-gst-legislation"
 title: "Interpretation of GST legislation"
 paragraph: "¶1-315"
 ---
-
 # Interpretation of GST legislation ¶1-315
 
 The traditional approach to tax legislation is that it should be interpreted strictly or literally, unless this leads to an objectively absurd result. This means that the intention to impose tax should be expressed in clear, unambiguous language. This is often associated with a view that ambiguities should be resolved in favour of the taxpayer.

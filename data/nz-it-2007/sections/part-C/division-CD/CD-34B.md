@@ -8,7 +8,6 @@ section_title: Distributions to members of co-operative companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 34B  Distributions to members of co-operative companies
 
 **What this section applies to**

@@ -5,7 +5,6 @@ section: "sharesunits"
 title: "shares/units"
 paragraph: "¶12-620"
 ---
-
 # shares/units ¶12-620
 
 Special rules apply if a taxpayer acquires shares in a company or units in a unit trust by converting a convertible interest (s 130-60).

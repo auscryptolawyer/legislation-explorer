@@ -8,7 +8,6 @@ section_title: Application of this subpart
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 1  Application of this subpart
 
 **When this subpart applies**

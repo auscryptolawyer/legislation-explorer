@@ -5,7 +5,6 @@ section: "source-of-income-generally"
 title: "Source of income generally"
 paragraph: "¶21-060"
 ---
-
 # Source of income generally ¶21-060
 
 The operation of the rules governing the taxation of foreign source income and the fact that non-residents are generally assessable only on income sourced in Australia make the identiﬁcation of the source of a particular item of income fundamentally important.

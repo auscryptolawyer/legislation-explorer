@@ -8,7 +8,6 @@ section_title: Application of imputation ratio
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 8  Application of imputation ratio
 
 **When this section applies**

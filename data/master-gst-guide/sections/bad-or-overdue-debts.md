@@ -5,7 +5,6 @@ section: "bad-or-overdue-debts"
 title: "Bad or overdue debts"
 paragraph: "¶6-200"
 ---
-
 # Bad or overdue debts ¶6-200
 
 If you pay GST on an accruals basis (¶7-200), you may be required to account for GST on goods or services you have supplied before you actually receive the payment for them. If the payment is in fact not paid, or not paid in full, you will have overpaid the GST on the transaction. In such a case, you are entitled to a decreasing adjustment that reduces the GST for the period in which the debt is written off as a bad debt. The th amount of the reduction will be 1/11 of the amount written off (s 21-5).

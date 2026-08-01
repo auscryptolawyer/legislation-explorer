@@ -8,7 +8,6 @@ section_title: When spouse or partner entitled under family scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MC 7  When spouse or partner entitled under family scheme
 
 **When this section applies**

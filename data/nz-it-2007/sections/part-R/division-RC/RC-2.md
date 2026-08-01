@@ -8,7 +8,6 @@ section_title: Provisional tax rules and their application
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RC 2  Provisional tax rules and their application
 
 **Meaning**

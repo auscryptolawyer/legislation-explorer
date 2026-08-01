@@ -5,7 +5,6 @@ section: "11-020-payg-withholding-commissioners-discretion"
 title: "11-020 - PAYG withholding Commissioners discretion"
 paragraph: "None"
 ---
-
 # 11-020 - PAYG withholding Commissioners discretion
 
 Worked example: PAYG withholding; Commissioner’s discretion Issue In 2025, ABC Pty Ltd was the subject of an ATO PAYG audit. As a result of the audit, the ATO estimated PAYG withholding amounts of $115,000 were payable under TAA Sch 1 Div 268. These were debited to the integrated account of ABC for the quarters for which no Business Activity Statements (BAS) had been lodged.

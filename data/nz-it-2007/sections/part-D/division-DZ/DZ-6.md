@@ -8,7 +8,6 @@ section_title: Partnership interests and disposal of part of asset before 16 Dec
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DZ 6  Partnership interests and disposal of part of asset before 16 December 1991
 
 In sections DZ 3 to DZ 5, unless the context requires otherwise,—

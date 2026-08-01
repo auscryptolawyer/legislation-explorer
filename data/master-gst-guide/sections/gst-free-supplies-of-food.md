@@ -5,7 +5,6 @@ section: "gst-free-supplies-of-food"
 title: "GST-free supplies of food"
 paragraph: "¶13-100"
 ---
-
 # GST-free supplies of food ¶13-100
 
 Most food for human consumption is GST-free (s 38-2). To take a few common examples, GST typically does not apply to fruit, vegetables, meat products, fish, bread, cheese, eggs, milk, soup, sugar, tea and coffee.

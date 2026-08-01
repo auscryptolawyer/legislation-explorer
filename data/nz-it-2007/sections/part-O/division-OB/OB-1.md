@@ -8,7 +8,6 @@ section_title: General rules for companies with imputation credit accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 1  General rules for companies with imputation credit accounts
 
 **New Zealand resident**

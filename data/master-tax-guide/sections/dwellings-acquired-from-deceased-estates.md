@@ -5,7 +5,6 @@ section: "dwellings-acquired-from-deceased-estates"
 title: "Dwellings acquired from deceased estates"
 paragraph: "¶11-770"
 ---
-
 # Dwellings acquired from deceased estates ¶11-770
 
 A capital gain or loss from a CGT event that happens in relation to a dwelling, or the ownership interest in it, is disregarded if the taxpayer is an individual and the interest passed to the taxpayer as a beneﬁciary in a deceased estate, or the taxpayer owned the dwelling as the trustee of a deceased estate and the following conditions are satisﬁed: 1. either: (a) the deceased acquired the ownership interest on or after 20 September 1985 and the dwelling was the deceased’s main residence just before death and was not then being used for incomes-producing purposes, or (b) the deceased acquired the ownership interest before 20 September 1985, and 2. either: (a) the ownership interest ends within 2 years of the deceased’s death, or within such longer period allowed by the Commissioner, or (b) the dwelling was, from the deceased’s death until the taxpayer’s ownership interest ends, the main residence of one or more of the following persons: (i) the spouse of the deceased immediately before the death (ii) an individual who had a right to occupy the dwelling under the deceased’s will, or (iii) if the CGT event was brought about by the individual to whom the ownership interest passed as a beneﬁciary — that individual (s 118-195(1)).

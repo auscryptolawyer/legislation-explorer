@@ -5,7 +5,6 @@ section: "annual-accounting"
 title: "Annual accounting"
 paragraph: "¶1-290"
 ---
-
 # Annual accounting ¶1-290
 
 Income taxes are returned, settled and litigated on an annual basis. The taxable year for most taxpayers is the 12-month period opening 1 July and closing the following 30 June. In certain circumstances a substituted accounting period of 12 months closing on a date other than 30 June may be adopted (¶9-010). Income tax is levied for each tax year on the taxable income derived during the income year.

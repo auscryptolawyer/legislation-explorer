@@ -5,7 +5,6 @@ section: "hospital-services"
 title: "Hospital services"
 paragraph: "¶13-330"
 ---
-
 # Hospital services ¶13-330
 
 Hospital treatment is GST-free (s 38-20). This covers treatment to manage a disease, injury or condition, which is provided by an authorised person (or under their management) at a hospital or with its direct involvement (s 195-1). “Treatment” includes accommodation, nursing, medical, surgical, podiatric surgical, diagnostic, therapeutic, prosthetic, pharmacological or pathology services. In this context, “accommodation” can include meals. It can also include services such as telephone and television if they are included in the accommodation charge, but not if they are separately charged (GST Determination GSTD 2012/4). The exemption extends to treatment provided to a patient under a “hospital-in-the-home” arrangement where the patient remains an inpatient of the hospital and remains under the care of the treating doctor in the hospital (GST Determination GSTD 2012/4).

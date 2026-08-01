@@ -8,7 +8,6 @@ section_title: Tax credits for certain exiting investors
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LS 4  Tax credits for certain exiting investors
 
 **When this section applies**

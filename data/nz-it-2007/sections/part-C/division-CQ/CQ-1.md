@@ -8,7 +8,6 @@ section_title: Attributed controlled foreign company income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CQ 1  Attributed controlled foreign company income
 
 Attributed controlled foreign company (CFC) income of a person is income.

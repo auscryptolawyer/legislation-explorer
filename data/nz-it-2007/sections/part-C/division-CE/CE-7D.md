@@ -8,7 +8,6 @@ section_title: Meaning of replacement employee share scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 7D  Meaning of replacement employee share scheme
 
 Replacement employee share scheme means, for an employee share scheme (the old scheme), another employee share scheme to which members of the old scheme are transferred.

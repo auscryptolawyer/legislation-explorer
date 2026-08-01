@@ -8,7 +8,6 @@ section_title: Satisfaction of income tax liability
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BC 8  Satisfaction of income tax liability
 
 **Use of tax credits**

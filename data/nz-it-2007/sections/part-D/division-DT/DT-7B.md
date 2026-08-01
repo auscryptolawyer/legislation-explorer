@@ -8,7 +8,6 @@ section_title: Resuming commercial production: petroleum development expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DT 7B  Resuming commercial production: petroleum development expenditure
 
 **When this section applies**

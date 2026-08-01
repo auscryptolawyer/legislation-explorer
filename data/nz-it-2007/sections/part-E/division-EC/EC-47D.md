@@ -8,7 +8,6 @@ section_title: Change of prospective bloodstock breeders’ expectation or inten
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 47D  Change of prospective bloodstock breeders’ expectation or intention after earlier deductions
 
 **When this section applies**

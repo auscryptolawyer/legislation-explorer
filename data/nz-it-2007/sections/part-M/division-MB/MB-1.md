@@ -8,7 +8,6 @@ section_title: Adjustments for calculation of family scheme income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MB 1  Adjustments for calculation of family scheme income
 
 **Family scheme income: derivation**

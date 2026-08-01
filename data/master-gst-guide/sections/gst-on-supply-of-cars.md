@@ -5,7 +5,6 @@ section: "gst-on-supply-of-cars"
 title: "GST on supply of cars"
 paragraph: "¶12-080"
 ---
-
 # GST on supply of cars ¶12-080
 
 In accordance with the normal rules, the supply of a car as part of an enterprise may be subject to GST. The GST would apply to the retail selling price, the cost of accessories, dealer delivery charges and insurance, but not to registration or stamp duty.

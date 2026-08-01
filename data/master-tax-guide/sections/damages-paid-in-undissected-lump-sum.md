@@ -5,7 +5,6 @@ section: "damages-paid-in-undissected-lump-sum"
 title: "Damages paid in undissected lump sum"
 paragraph: "¶10-175"
 ---
-
 # Damages paid in undissected lump sum ¶10-175
 
 Lump sum damages, or a lump sum out-of-court settlement, representing compensation for losses of an income nature only, will be assessable income in accordance with ordinary principles (¶10-010; TD 93/58).

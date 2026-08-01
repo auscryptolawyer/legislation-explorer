@@ -5,7 +5,6 @@ section: "second-hand-goods"
 title: "Second-hand goods"
 paragraph: "¶34-260"
 ---
-
 # Second-hand goods ¶34-260
 
 In certain cases, dealers are able to claim input tax credits on second-hand goods even though the person that supplied them was not registered (Div 66). The amount of the credit is 1/11th of the cost of the goods.

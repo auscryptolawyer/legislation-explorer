@@ -8,7 +8,6 @@ section_title: Airport operators
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DW 1  Airport operators
 
 **No deduction (with exception)**

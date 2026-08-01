@@ -8,7 +8,6 @@ section_title: Auckland Future Fund
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 39B  Auckland Future Fund
 
 **Exempt income**

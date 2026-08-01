@@ -8,7 +8,6 @@ section_title: Consolidated groups: income of company in group
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CV 2  Consolidated groups: income of company in group
 
 **When this section applies**

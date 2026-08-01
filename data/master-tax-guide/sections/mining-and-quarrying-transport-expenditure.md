@@ -5,7 +5,6 @@ section: "mining-and-quarrying-transport-expenditure"
 title: "Mining and quarrying transport expenditure"
 paragraph: "¶19-090"
 ---
-
 # Mining and quarrying transport expenditure ¶19-090
 
 Capital expenditure incurred on transport facilities and ancillary works used primarily and principally in transporting the products of mining and quarrying operations away from the site of those operations is deductible as transport capital expenditure over the eﬀective life of the project (ITAA97 ss 40-865 to 40-875: ¶19-050).

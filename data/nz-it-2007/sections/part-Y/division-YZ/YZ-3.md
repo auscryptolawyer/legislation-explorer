@@ -8,7 +8,6 @@ section_title: Saving effect of section DF 5 of Income Tax Act 1994
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YZ 3  Saving effect of section DF 5 of Income Tax Act 1994
 
 **When this section applies**

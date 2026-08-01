@@ -5,7 +5,6 @@ section: "eligible-designated-concession-income"
 title: "Eligible designated concession income"
 paragraph: "¶21-170"
 ---
-
 # Eligible designated concession income ¶21-170
 
 There is an exception to the exemption from accruals taxation for CFCs which are residents of listed countries. This applies where the CFC derives “eligible designated concession income”.

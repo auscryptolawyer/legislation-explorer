@@ -5,7 +5,6 @@ section: "cgt-implications-for-exchangeable-interests"
 title: "CGT implications for exchangeable interests"
 paragraph: "¶12-625"
 ---
-
 # CGT implications for exchangeable interests ¶12-625
 
 Special rules apply if a taxpayer acquires shares in a company in exchange for the disposal or redemption of an exchangeable interest (Subdiv 130-E).

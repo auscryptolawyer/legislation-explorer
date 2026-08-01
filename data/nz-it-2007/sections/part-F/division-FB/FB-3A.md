@@ -8,7 +8,6 @@ section_title: Residential land
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 3A  Residential land
 
 **When this section applies**

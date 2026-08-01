@@ -8,7 +8,6 @@ section_title: Arrangements for carrying back net losses: companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 3B  Arrangements for carrying back net losses: companies
 
 **When this section applies**

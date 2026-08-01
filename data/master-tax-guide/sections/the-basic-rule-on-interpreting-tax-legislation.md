@@ -5,7 +5,6 @@ section: "the-basic-rule-on-interpreting-tax-legislation"
 title: "The basic rule on interpreting tax legislation"
 paragraph: "¶1-350"
 ---
-
 # The basic rule on interpreting tax legislation ¶1-350
 
 Since the key thrust of tax legislation is to collect part of an entity’s earnings or proﬁts, the courts developed a basic rule that any legislation imposing a tax was to be strictly interpreted or construed. As a result, it is also said that the legislation imposing tax must be expressed in clear and unambiguous language, precisely expressed and indicate very clearly an intention for the tax to be imposed.

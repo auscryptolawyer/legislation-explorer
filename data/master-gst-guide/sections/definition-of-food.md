@@ -5,7 +5,6 @@ section: "definition-of-food"
 title: "Definition of “food”"
 paragraph: "¶13-110"
 ---
-
 # Definition of “food” ¶13-110
 
 Food means food or drink for human consumption (s 38-4).

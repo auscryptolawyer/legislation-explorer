@@ -5,7 +5,6 @@ section: "what-attracts-the-anti-avoidance-rules"
 title: "What attracts the anti-avoidance rules?"
 paragraph: "¶20-010"
 ---
-
 # What attracts the anti-avoidance rules? ¶20-010
 
 - there must be a scheme entered into on or after 2 December 1998 (or, if not, a scheme that is carried

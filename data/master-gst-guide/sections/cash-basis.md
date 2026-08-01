@@ -5,7 +5,6 @@ section: "cash-basis"
 title: "Cash basis"
 paragraph: "¶7-300"
 ---
-
 # Cash basis ¶7-300
 
 Under the cash basis, GST is attributed to the tax periods in which consideration is received (¶7-325), and input tax credits (ITCs) are attributed to the tax periods in which a taxpayer provides consideration (¶7-320).

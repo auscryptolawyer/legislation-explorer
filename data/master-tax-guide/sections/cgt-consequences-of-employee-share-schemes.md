@@ -5,7 +5,6 @@ section: "cgt-consequences-of-employee-share-schemes"
 title: "CGT consequences of employee share schemes"
 paragraph: "¶12-630"
 ---
-
 # CGT consequences of employee share schemes ¶12-630
 
 Special rules apply if a taxpayer acquires shares in a company under an employee share scheme. The rules which apply to shares and rights issued under an employee share scheme on or after 1 July 2009 are summarised below (¶10-080). For the operation of shares and options issued prior to 1 July 2009, see the 2009 Australian Master Tax Guide (45th Edition) or earlier editions.

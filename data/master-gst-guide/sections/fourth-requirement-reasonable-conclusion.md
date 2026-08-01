@@ -5,7 +5,6 @@ section: "fourth-requirement-reasonable-conclusion"
 title: "Fourth requirement: reasonable conclusion"
 paragraph: "¶20-050"
 ---
-
 # Fourth requirement: reasonable conclusion ¶20-050
 
 The fourth requirement for the operation of Div 165 is that on the basis of all the relevant circumstances it must be reasonable to conclude that either:

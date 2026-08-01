@@ -5,7 +5,6 @@ section: "diminishing-value-method"
 title: "Diminishing value method"
 paragraph: "¶17-500"
 ---
-
 # Diminishing value method ¶17-500
 
 Under the diminishing value method, the decline in value of a depreciating asset is assumed to be greatest in the ﬁrst year and smaller in each succeeding year. For assets that start to be held on or after 10 May 2006, the diminishing value rate is 200%. For pre-10 May 2006 assets, the rate is 150%. Anti-avoidance provisions ensure that expenditure on pre-10 May 2006 assets cannot be “freshened up” to attract the higher rate. The decline in value of the asset is calculated in accordance with the formula (ITAA97 ss 40-70; 40-72): base value                     days held ×                                          × 200% (or 150%) eﬀective life                    365 In the ﬁrst year in which the asset is used or installed ready for use, the base value is the cost of the asset.

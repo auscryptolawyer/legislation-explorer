@@ -5,7 +5,6 @@ section: "eﬀective-life-of-depreciating-asset"
 title: "Eﬀective life of depreciating asset"
 paragraph: "¶17-270"
 ---
-
 # Eﬀective life of depreciating asset ¶17-270
 
 The decline in value of a depreciating asset is calculated on the basis of the eﬀective life of the asset (¶17-490, ¶17-500). Taxpayers can work out their own estimate of the eﬀective life of a depreciating asset or rely on the eﬀective life for the asset set out in the Commissioner’s determination (ITAA97 s 40-95).

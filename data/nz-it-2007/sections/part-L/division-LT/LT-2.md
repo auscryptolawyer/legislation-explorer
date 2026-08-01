@@ -8,7 +8,6 @@ section_title: Petroleum mining operations outside New Zealand
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LT 2  Petroleum mining operations outside New Zealand
 
 **Section LT 1 applies with modifications**

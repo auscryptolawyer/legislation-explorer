@@ -5,7 +5,6 @@ section: "what-is-an-input-tax-credit"
 title: "What is an input tax credit?"
 paragraph: "¶5-000"
 ---
-
 # What is an input tax credit? ¶5-000
 
 The general scheme of the GST legislation is that you account for GST on the supplies you make, but get a credit for the GST component of supplies made by others to you. This credit is called an input tax credit, because it is a credit for tax paid on your business inputs.

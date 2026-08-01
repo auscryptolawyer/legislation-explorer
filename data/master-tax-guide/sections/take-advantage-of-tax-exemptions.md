@@ -5,7 +5,6 @@ section: "take-advantage-of-tax-exemptions"
 title: "Take advantage of tax exemptions"
 paragraph: "¶31-140"
 ---
-
 # Take advantage of tax exemptions ¶31-140
 
 For details of tax exemptions, see ¶10-600 and the checklist at ¶10-005.

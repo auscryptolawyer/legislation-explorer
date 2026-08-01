@@ -8,7 +8,6 @@ section_title: Meaning of employee share scheme beneficiary
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 7C  Meaning of employee share scheme beneficiary
 
 Employee share scheme beneficiary means, for an employee share scheme,—

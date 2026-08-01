@@ -8,7 +8,6 @@ section_title: Benchmark dividends: ratio change
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OZ 9  Benchmark dividends: ratio change
 
 **When this section applies**

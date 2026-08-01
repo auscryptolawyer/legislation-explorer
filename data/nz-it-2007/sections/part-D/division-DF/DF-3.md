@@ -8,7 +8,6 @@ section_title: Identifying expenditure for purposes of sections DF 1 and DF 2
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DF 3  Identifying expenditure for purposes of sections DF 1 and DF 2
 
 For the purposes of sections DF 1 and DF 2, a statement by a person making a grant-related suspensory loan as to the expenditure that relates to the loan or to the repayment of the loan provides conclusive evidence on the questions.

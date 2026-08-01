@@ -5,7 +5,6 @@ section: "companies-partnerships-and-trusts"
 title: "Companies, partnerships and trusts"
 paragraph: "¶1-300"
 ---
-
 # Companies, partnerships and trusts ¶1-300
 
 Under the “classical” system of company tax that operated from 1940, a company was taxed as a separate legal entity and individual shareholders were taxed on dividends received without any recognition of the tax paid by the company on the proﬁts out of which the dividends were paid. An inter-corporate rebate, however, usually eﬀectively freed from tax dividends received by a corporate shareholder. An associated measure, to prevent private or closely held companies being used as tax shelters, imposed what was called “undistributed proﬁts tax” on such companies if they failed to distribute at least a prescribed amount of their after-tax income.

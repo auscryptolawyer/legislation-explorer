@@ -5,7 +5,6 @@ section: "amount-of-annual-payg-instalments"
 title: "Amount of annual PAYG instalments"
 paragraph: "¶27-240"
 ---
-
 # Amount of annual PAYG instalments ¶27-240
 
 The amount of an annual PAYG instalment is whichever of the following the taxpayer chooses:

@@ -5,7 +5,6 @@ section: "other-checklists"
 title: "Other checklists"
 paragraph: "¶44-300"
 ---
-
 # Other checklists ¶44-300
 
 - Checklist of tax changes taking eﬀect in 2024–25 (¶2).

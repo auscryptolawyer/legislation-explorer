@@ -5,7 +5,6 @@ section: "distributions-out-of-corpus-to-income-beneﬁciary"
 title: "Distributions out of corpus to income beneﬁciary"
 paragraph: "¶6-140"
 ---
-
 # Distributions out of corpus to income beneﬁciary ¶6-140
 
 Payments made out of corpus to an annuitant or other beneﬁciary entitled to income, either to make up a deﬁciency of income or in advance on account of income, are assessable income in the hands of the recipient. For example, the fact that an annuity is paid out of capital does not aﬀect its character as income in the hands of the annuitant.

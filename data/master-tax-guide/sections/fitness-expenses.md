@@ -5,7 +5,6 @@ section: "fitness-expenses"
 title: "Fitness expenses"
 paragraph: "¶16-190"
 ---
-
 # Fitness expenses ¶16-190
 
 An employee required to have a high degree of physical ﬁtness to carry out a job may be entitled to deduct expenses associated with keeping ﬁt — eg a police academy physical training instructor (TD 93/114; TR 95/13), a corrective services employee who was a member of an Emergency Response Group (London 2022 ATC ¶10-625; [2022] AATA 644) or a performing artist such as a circus trapeze artist (TR 95/20). However, teachers, even physical education teachers, are not entitled to such a deduction (TR 95/14). Similarly, ﬁtness expenses incurred by Defence Force members are not deductible except in special circumstances requiring a ﬁtness level well above the general standard (TR 95/17). Sport expenses incurred by sportspersons are not deductible against voluntary payments such as awards, prizes and grants (TR 1999/17).

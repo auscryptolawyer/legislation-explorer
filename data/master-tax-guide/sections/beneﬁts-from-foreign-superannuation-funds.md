@@ -5,7 +5,6 @@ section: "beneﬁts-from-foreign-superannuation-funds"
 title: "Beneﬁts from foreign superannuation funds"
 paragraph: "¶14-420"
 ---
-
 # Beneﬁts from foreign superannuation funds ¶14-420
 
 A “foreign superannuation fund” (¶13-250) is a fund that is not an “Australian superannuation fund”, ie a fund that is not established in Australia and is not centrally managed or controlled in Australia (¶13-100).

@@ -5,7 +5,6 @@ section: "short-period-return-and-accounting-period-change"
 title: "Short period return and accounting period change"
 paragraph: "¶3-050"
 ---
-
 # Short period return and accounting period change ¶3-050
 
 A company that has been wound up or voluntarily dissolved must lodge a return for the short period from the start of its income year to the date of dissolution (¶9-020).

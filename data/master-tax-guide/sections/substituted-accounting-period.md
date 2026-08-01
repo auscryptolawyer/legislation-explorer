@@ -5,7 +5,6 @@ section: "substituted-accounting-period"
 title: "Substituted accounting period"
 paragraph: "¶9-010"
 ---
-
 # Substituted accounting period ¶9-010
 
 Generally, tax returns must be prepared on the basis of an income year ending on 30 June (¶9-005).

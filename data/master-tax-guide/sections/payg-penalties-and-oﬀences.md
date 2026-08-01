@@ -5,7 +5,6 @@ section: "payg-penalties-and-oﬀences"
 title: "PAYG penalties and oﬀences"
 paragraph: "¶29-300"
 ---
-
 # PAYG penalties and oﬀences ¶29-300
 
 The uniform penalty regime applies generally to many obligations imposed on entities under the PAYG system. In addition, a number of speciﬁc penalties and oﬀences are imposed under PAYG withholding (¶26-100) and PAYG instalments (¶27-100). These are outlined below.

@@ -5,7 +5,6 @@ section: "gst-religious-groups"
 title: "GST religious groups"
 paragraph: "¶15-052"
 ---
-
 # GST religious groups ¶15-052
 
 Certain religious bodies can form a “GST religious group” which will effectively be treated as a single entity (Div 49). These groups are broadly similar to the GST groups that other types of businesses can form (¶17-000), though the requirements are less stringent because of the large number of small organisations involved. The broad effect is that supplies made within the group are not subject to GST and acquisitions made within the group do not give rise to input tax credits (ss 49-30, 49-35). This will generally reduce compliance costs and may have cashflow benefits.

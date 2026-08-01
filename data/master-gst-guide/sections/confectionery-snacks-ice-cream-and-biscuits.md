@@ -5,7 +5,6 @@ section: "confectionery-snacks-ice-cream-and-biscuits"
 title: "Confectionery, snacks, ice-cream and biscuits"
 paragraph: "¶13-160"
 ---
-
 # Confectionery, snacks, ice-cream and biscuits ¶13-160
 
 (1) confectionery, food marketed as confectionery or confectionery ingredients, and food consisting principally of confectionery. The Commissioner considers that this would typically apply to chocolate, boiled sweets, lollipops, sherbet, marshmallow and fruit lollies. It also applies to popcorn, confectionery novelties, muesli bars, health food bars, energy/sports bars (Interpretative Decision ID 2002/1046), breakfast bars (GST Determination GSTD 2008/2), crystallised fruit, glacé fruit and drained fruit, crystallised ginger, preserved ginger and edible cake decorations. However, candied peel is GST-free.

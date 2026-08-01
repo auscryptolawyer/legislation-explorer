@@ -5,7 +5,6 @@ section: "senior-australians-and-pensioners-tax-oﬀset"
 title: "Senior Australians and pensioners tax oﬀset"
 paragraph: "¶15-310"
 ---
-
 # Senior Australians and pensioners tax oﬀset ¶15-310
 
 Certain low income aged persons, both pensioners and “self-funded retirees”, are entitled to a special additional low income aged persons and pensioner’s rebate (ITAA36 s 160AAAA) generally referred to as the seniors and pensioners tax oﬀset (SAPTO).

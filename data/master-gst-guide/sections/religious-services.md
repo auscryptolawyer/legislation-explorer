@@ -5,7 +5,6 @@ section: "religious-services"
 title: "Religious services"
 paragraph: "¶15-050"
 ---
-
 # Religious services ¶15-050
 
 Services provided by a religious institution will be GST-free if they are integral to the practice of the religion, and the institution is registered as such with the Australian Charities and Not-for-Profits Commission (s 38-220).

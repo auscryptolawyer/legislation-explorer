@@ -5,7 +5,6 @@ section: "expenditure-relating-to-leisure-facilities-and-boats"
 title: "Expenditure relating to leisure facilities and boats"
 paragraph: "¶16-420"
 ---
-
 # Expenditure relating to leisure facilities and boats ¶16-420
 
 The cost of a leisure facility is generally not deductible unless the facility is used for speciﬁed business purposes (ITAA97 s 26-50). The restriction extends to all charges and expenses of the ownership, retention, use, operation, maintenance and repair of a leisure facility. If the leisure facility is used for a speciﬁed purpose for only part of the year, a reasonable amount may be deducted. Deductions for depreciation of leisure facilities are similarly restricted (¶17-010).

@@ -8,7 +8,6 @@ section_title: Meaning of new investment asset
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DI 4  Meaning of new investment asset
 
 New investment asset—

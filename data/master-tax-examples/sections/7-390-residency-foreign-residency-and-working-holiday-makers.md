@@ -5,7 +5,6 @@ section: "7-390-residency-foreign-residency-and-working-holiday-makers"
 title: "7-390 - Residency foreign residency and working holiday makers"
 paragraph: "None"
 ---
-
 # 7-390 - Residency foreign residency and working holiday makers
 
 Worked example: Residency, foreign residency and working holiday makers Issue Amanda Reid comes to you in February 2025. She is a UK national but is currently in Australia on a spouse visa.

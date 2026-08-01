@@ -5,7 +5,6 @@ section: "10-010-preparation-of-franking-account"
 title: "10-010 - Preparation of franking account"
 paragraph: "None"
 ---
-
 # 10-010 - Preparation of franking account
 
 Worked example: Preparation of franking account Issue Border Pty Ltd (Border) is an Australian resident private company with a corporate tax rate for imputation purposes of 25% for the 2024–25 income year. On 1 July 2024, its franking account balance was a $45,000 surplus. During the 2024–25 year, the following transactions took place.

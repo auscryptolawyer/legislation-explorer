@@ -5,7 +5,6 @@ section: "taxable-value-of-residual-beneﬁts"
 title: "Taxable value of residual beneﬁts"
 paragraph: "¶35-590"
 ---
-
 # Taxable value of residual beneﬁts ¶35-590
 
 In-house residual benefits Concessional valuation rules apply where the beneﬁt is an “in-house residual fringe beneﬁt”. This is one where:

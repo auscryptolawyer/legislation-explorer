@@ -5,7 +5,6 @@ section: "penalties-relating-to-schemes"
 title: "Penalties relating to schemes"
 paragraph: "¶29-180"
 ---
-
 # Penalties relating to schemes ¶29-180
 
 Diﬀerent base penalty amounts apply to beneﬁts (scheme beneﬁts) that would arise where the taxpayer has entered into a tax avoidance scheme under a taxation law. Broadly, the amounts of the scheme beneﬁts are “scheme shortfall amounts” (TAA sch 1 ss 284-145 to 284-160). Scheme shortfall amounts can also arise under the anti-avoidance provisions of the income tax law and of other taxation laws, eg GST Act Div 165 and FBTAA s 67.

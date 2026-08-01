@@ -8,7 +8,6 @@ section_title: Film production expenditure for other films having no large budge
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 8  Film production expenditure for other films having no large budget film grant
 
 **Films other than New Zealand films**

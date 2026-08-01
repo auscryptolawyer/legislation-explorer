@@ -5,7 +5,6 @@ section: "basis-of-accounting"
 title: "Basis of accounting"
 paragraph: "¶1-130"
 ---
-
 # Basis of accounting ¶1-130
 
 The GST and the input tax credits that belong to each period are worked out according to attribution rules, which vary according to whether you are on a cash basis or an accruals basis of accounting.

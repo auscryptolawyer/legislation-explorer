@@ -5,7 +5,6 @@ section: "option-to-report-and-pay-annually"
 title: "Option to report and pay annually"
 paragraph: "¶8-040"
 ---
-
 # Option to report and pay annually ¶8-040
 
 A taxpayer that is voluntarily registered for GST may elect to adopt an annual tax period, so that it reports and pays GST on an annual basis, instead of monthly or quarterly (s 151-5). This applies to ordinary enterprises with a GST turnover of less than $75,000 and non-profit organisations with a GST turnover of less than $150,000 (¶3-030).

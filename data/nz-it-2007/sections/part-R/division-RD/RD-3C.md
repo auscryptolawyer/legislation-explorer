@@ -8,7 +8,6 @@ section_title: Shareholders who are employees, for some companies: PAYE and inco
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 3C  Shareholders who are employees, for some companies: PAYE and income other than PAYE
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Treatment of principals
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HD 4  Treatment of principals
 
 Despite section HD 3,—

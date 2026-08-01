@@ -8,7 +8,6 @@ section_title: Meaning of new asset transferee
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DI 3  Meaning of new asset transferee
 
 New asset transferee means a person who—

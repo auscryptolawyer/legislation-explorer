@@ -5,7 +5,6 @@ section: "making-a-farm-management-deposit"
 title: "Making a farm management deposit"
 paragraph: "¶18-295"
 ---
-
 # Making a farm management deposit ¶18-295
 
 The owner of an FMD deposited during a particular income year can claim a deduction equal to the amount deposited, provided the owner did not, during that year:

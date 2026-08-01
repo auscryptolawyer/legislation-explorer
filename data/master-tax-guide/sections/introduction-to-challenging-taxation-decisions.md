@@ -5,7 +5,6 @@ section: "introduction-to-challenging-taxation-decisions"
 title: "Introduction to challenging taxation decisions"
 paragraph: "¶28-000"
 ---
-
 # Introduction to challenging taxation decisions ¶28-000
 
 A taxpayer dissatisﬁed with an assessment (¶25-100, ¶25-110) or other taxation decision may challenge that decision in accordance with the objection, review and appeal procedures in TAA Pt IVC (ss 14ZL to 14ZZS).

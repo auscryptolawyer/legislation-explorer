@@ -5,7 +5,6 @@ section: "payment-of-net-gst"
 title: "Payment of net GST"
 paragraph: "¶8-100"
 ---
-
 # Payment of net GST ¶8-100
 
 A taxpayer is generally liable to pay an amount of GST for a tax period in which the GST payable on supplies exceeds the input tax credits (ITCs) on acquisitions to which the taxpayer is entitled, ie the net amount shown in the GST section of the BAS is greater than zero (s 33-5).

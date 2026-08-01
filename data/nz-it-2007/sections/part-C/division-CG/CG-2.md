@@ -8,7 +8,6 @@ section_title: Remitted amounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 2  Remitted amounts
 
 **When this section applies**

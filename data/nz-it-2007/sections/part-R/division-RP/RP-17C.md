@@ -8,7 +8,6 @@ section_title: Extension of time for tax pooling for 2022–23 and 2023–24 inc
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RP 17C  Extension of time for tax pooling for 2022–23 and 2023–24 income years
 
 **Extension of time for tax pooling**

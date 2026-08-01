@@ -5,7 +5,6 @@ section: "gst-return-for-each-tax-period"
 title: "GST return for each tax period"
 paragraph: "¶8-002"
 ---
-
 # GST return for each tax period ¶8-002
 
 - taxpayers with monthly tax periods, and

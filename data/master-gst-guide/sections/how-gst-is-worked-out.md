@@ -5,7 +5,6 @@ section: "how-gst-is-worked-out"
 title: "How GST is worked out"
 paragraph: "¶4-200"
 ---
-
 # How GST is worked out ¶4-200
 
 To calculate the GST, you must know the “value” of the taxable supply. GST is calculated as 10% of that value (s 9-70). th The “value” of the supply is 10/11 of the price, ie the consideration for the supply (s 9-75(1)). This means, th in effect, that the GST is calculated as 1/11 of that price. The supplier must account for that amount to the ATO. This is so, irrespective of whether the supplier actually included any GST component in the price.

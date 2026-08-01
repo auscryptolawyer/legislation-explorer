@@ -5,7 +5,6 @@ section: "repayments-and-reﬁnancing-a-private-company-loan"
 title: "Repayments and reﬁnancing a private company loan"
 paragraph: "¶4-235"
 ---
-
 # Repayments and reﬁnancing a private company loan ¶4-235
 
 There is a provision which is designed to prevent circumvention of the Div 7A repayment requirements by a repayment and a subsequent reborrowing or by a new borrowing followed by a repayment (ITAA36 s 109R(2)).

@@ -5,7 +5,6 @@ section: "4-050-vacant-land"
 title: "4-050 - Vacant land"
 paragraph: "None"
 ---
-
 # 4-050 - Vacant land
 
 Worked example: Vacant land Issue Agnes Grey owns 4 blocks of land located in the outer suburbs of Sydney. She acquired all 4 blocks before 1 July 2019. She has previously claimed deductions in her tax return for various costs associated with holding the land, including interest on bank loans taken out to acquire the land, insurance and council rates. Details of the blocks are as follows:

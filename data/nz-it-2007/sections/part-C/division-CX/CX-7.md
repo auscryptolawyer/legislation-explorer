@@ -8,7 +8,6 @@ section_title: Employer or associated person treated as having right to use vehi
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 7  Employer or associated person treated as having right to use vehicle under arrangement
 
 **When this section applies**

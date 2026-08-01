@@ -8,7 +8,6 @@ section_title: What is an investor class?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 5  What is an investor class?
 
 **Meaning of investor class**

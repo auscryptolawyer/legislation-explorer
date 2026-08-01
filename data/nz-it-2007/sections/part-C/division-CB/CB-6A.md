@@ -8,7 +8,6 @@ section_title: Disposal within 2 years: bright-line test for residential land
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 6A  Disposal within 2 years: bright-line test for residential land
 
 **Income if land disposed of within 2 years**

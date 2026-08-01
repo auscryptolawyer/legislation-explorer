@@ -8,7 +8,6 @@ section_title: Revenue account property: certain intra-group transactions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 23B  Revenue account property: certain intra-group transactions
 
 **When this section applies**

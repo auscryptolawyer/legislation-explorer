@@ -8,7 +8,6 @@ section_title: ICA payment of further income tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 7  ICA payment of further income tax
 
 **Credit**

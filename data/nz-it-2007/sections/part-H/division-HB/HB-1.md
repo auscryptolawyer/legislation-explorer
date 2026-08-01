@@ -8,7 +8,6 @@ section_title: Look-through companies are transparent
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HB 1  Look-through companies are transparent
 
 **When this section applies**

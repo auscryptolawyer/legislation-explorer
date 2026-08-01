@@ -5,7 +5,6 @@ section: "appeals-to-federal-court"
 title: "Appeals to Federal Court"
 paragraph: "¶18-680"
 ---
-
 # Appeals to Federal Court ¶18-680
 
 If you are dissatisfied with the Commissioner’s decision on an objection, you can appeal to the Federal Court. The appeal is heard by a single judge. In appeal proceedings, your grounds of appeal will usually be limited to those stated in the objection (¶18-620).

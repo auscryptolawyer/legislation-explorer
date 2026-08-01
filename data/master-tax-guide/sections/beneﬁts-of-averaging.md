@@ -5,7 +5,6 @@ section: "beneﬁts-of-averaging"
 title: "Beneﬁts of averaging"
 paragraph: "¶31-240"
 ---
-
 # Beneﬁts of averaging ¶31-240
 
 Primary producers The beneﬁts of the averaging provisions for primary producers in ITAA97 Div 392 (¶18-200) are substantial only in the case of taxpayers whose income is high in relation to their average income and whose income includes a high proportion of primary production income. On the other hand, the averaging system will disadvantage a primary producer in any year in which their taxable income is less than their average income (the averaging system can apply even where it would increase the tax payable). Primary producers have the option of permanently withdrawing from the averaging system.

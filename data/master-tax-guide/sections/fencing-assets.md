@@ -5,7 +5,6 @@ section: "fencing-assets"
 title: "Fencing assets"
 paragraph: "¶18-090"
 ---
-
 # Fencing assets ¶18-090
 
 Primary producers may claim an immediate deduction for capital expenditure on fencing assets in the year in which the expenditure is incurred, with eﬀect from 12 May 2015 (ITAA97 ss 40-515 to 40-575). The deduction applies to capital expenditure incurred on the construction, manufacture, installation or acquisition of a fencing asset if that expenditure was incurred primarily and principally for use in a primary production business conducted on land in Australia. The total deduction cannot be more than the amount of the capital expenditure.

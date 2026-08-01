@@ -8,7 +8,6 @@ section_title: Main deposit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EH 4  Main deposit
 
 **Deposit for business or forestry**

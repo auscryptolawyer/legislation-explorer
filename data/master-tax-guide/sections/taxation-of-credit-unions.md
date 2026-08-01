@@ -5,7 +5,6 @@ section: "taxation-of-credit-unions"
 title: "Taxation of credit unions"
 paragraph: "¶3-435"
 ---
-
 # Taxation of credit unions ¶3-435
 
 A credit union is classiﬁed as a recognised small credit union, a recognised medium credit union or a recognised large credit union in relation to an income year as follows (ITAA36 s 6H): Recognised                                              Notional taxable income for classiﬁcation                                           the relevant income year small                                                   less than $50,000 medium                                                  $50,000 to less than $150,000 large                                                   $150,000 and above A credit union’s notional taxable income for the above purposes is the amount that would be its taxable income for an income year if none of its income were exempt under ITAA36 s 23G and if it were ineligible for assessment as a co-operative company (¶3-420).

@@ -8,7 +8,6 @@ section_title: Expenditure limitation rule
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DG 8  Expenditure limitation rule
 
 **Limited deduction**

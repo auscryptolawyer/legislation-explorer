@@ -8,7 +8,6 @@ section_title: Maximum amount
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 9  Maximum amount
 
 When a person calculates an amount of tax for a PAYE income payment, they must use the maximum rate under schedule 2 (Basic tax rates for PAYE income payments) at the time for the payment and the person receiving the payment, unless this Act states otherwise.

@@ -8,7 +8,6 @@ section_title: Petroleum development expenditure: reserve depletion method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 12B  Petroleum development expenditure: reserve depletion method
 
 **When this section applies**

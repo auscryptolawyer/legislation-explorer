@@ -5,7 +5,6 @@ section: "12-060-gst-registration-and-taxable-supply"
 title: "12-060 - GST registration and taxable supply"
 paragraph: "None"
 ---
-
 # 12-060 - GST registration and taxable supply
 
 Worked example: GST registration and taxable supply Issue Bob Slack is a builder who constructs new homes and also assists his customers with their home renovations. Bob is not currently registered for GST purposes. Bob’s income from his building activities was $65,000 in the 2023–24 tax year, and he expects to earn a similar amount during the 2024–25 tax year. In June 2024, he finished building an investment property south of Brisbane which he began to rent out as a residence in July 2024.

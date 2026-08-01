@@ -5,7 +5,6 @@ section: "taxation-of-foreign-superannuation-funds"
 title: "Taxation of foreign superannuation funds"
 paragraph: "¶13-250"
 ---
-
 # Taxation of foreign superannuation funds ¶13-250
 
 A superannuation fund may be an Australian superannuation fund or a foreign superannuation fund. Only Australian superannuation funds (¶13-100) can be complying funds and be entitled to the tax concessions in ITAA97 Div 295 (¶13-120). A foreign superannuation fund is taxed as a non-complying fund (¶13-220), but may be entitled to certain concessions (see below).

@@ -5,7 +5,6 @@ section: "sovereign-immunity"
 title: "Sovereign immunity"
 paragraph: "¶10-602"
 ---
-
 # Sovereign immunity ¶10-602
 
 The sovereign immunity tax exemption is governed by ITAA97 Div 880, which commenced on 1 July 2019.

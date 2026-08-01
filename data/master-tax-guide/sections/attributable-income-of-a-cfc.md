@@ -5,7 +5,6 @@ section: "attributable-income-of-a-cfc"
 title: "Attributable income of a CFC"
 paragraph: "¶21-200"
 ---
-
 # Attributable income of a CFC ¶21-200
 
 The attributable income of a foreign company must be calculated where, at the end of the company’s statutory accounting period:

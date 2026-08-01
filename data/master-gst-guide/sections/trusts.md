@@ -5,7 +5,6 @@ section: "trusts"
 title: "trusts"
 paragraph: "¶17-014"
 ---
-
 # trusts ¶17-014
 
 The ownership requirements for partnerships, trusts and individuals are as follows.

@@ -5,7 +5,6 @@ section: "cgt-roll-over-for-statutory-licences"
 title: "CGT roll-over for statutory licences"
 paragraph: "¶12-310"
 ---
-
 # CGT roll-over for statutory licences ¶12-310
 
 Automatic roll-over relief applies in certain circumstances where one or more statutory licences are issued in consequence of the ending of one or more licences (s 124-140).

@@ -5,7 +5,6 @@ section: "9-320-section-99b-receiving-payments-or-assets-from-a-foreign-trust"
 title: "9-320 - Section 99B Receiving payments or assets from a foreign trust"
 paragraph: "None"
 ---
-
 # 9-320 - Section 99B Receiving payments or assets from a foreign trust
 
 Worked example: Section 99B: Receiving payments or assets from a foreign trust Issue Amanda, a resident of Australia, received a cash legacy of $500,000 from the foreign estate of a non- resident deceased relative on 1 June 2025. This amount was paid to Amanda, who was a beneficiary of the will, from the estate by the executor, who is an independent third party. The relative died on 30 September 2024.

@@ -5,7 +5,6 @@ section: "double-taxation-agreements"
 title: "Double taxation agreements"
 paragraph: "¶22-140"
 ---
-
 # Double taxation agreements ¶22-140
 
 Australia has concluded double taxation agreements (DTAs) with the countries listed in the table at ¶22-160.

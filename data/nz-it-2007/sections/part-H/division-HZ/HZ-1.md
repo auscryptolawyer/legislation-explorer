@@ -8,7 +8,6 @@ section_title: Distributions from trusts of pre-1989 tax reserves
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HZ 1  Distributions from trusts of pre-1989 tax reserves
 
 **When this section applies**

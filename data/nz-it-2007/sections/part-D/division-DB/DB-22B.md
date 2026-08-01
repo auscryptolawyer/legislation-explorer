@@ -8,7 +8,6 @@ section_title: Amounts paid for commercial fit-out for building
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 22B  Amounts paid for commercial fit-out for building
 
 **When this section applies**

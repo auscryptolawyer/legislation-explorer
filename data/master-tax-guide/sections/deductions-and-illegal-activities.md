@@ -5,7 +5,6 @@ section: "deductions-and-illegal-activities"
 title: "Deductions and illegal activities"
 paragraph: "¶16-105"
 ---
-
 # Deductions and illegal activities ¶16-105
 
 No deduction is available for losses and outgoings to the extent that they are incurred in the furtherance of, or directly in relation to, activities in respect of which the taxpayer has been convicted of an indictable oﬀence (ITAA97 s 26-54). Such losses and outgoings are also excluded from the cost base or reduced cost base of a CGT asset for capital gains purposes.

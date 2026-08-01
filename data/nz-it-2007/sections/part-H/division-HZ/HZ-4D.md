@@ -8,7 +8,6 @@ section_title: Qualifying companies: transition into sole traderships
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HZ 4D  Qualifying companies: transition into sole traderships
 
 **When this section applies**

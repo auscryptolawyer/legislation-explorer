@@ -8,7 +8,6 @@ section_title: Relationship with assessable income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 4  Relationship with assessable income
 
 To the extent to which a benefit that an employer provides to an employee in connection with their employment is assessable income, the benefit is not a fringe benefit.

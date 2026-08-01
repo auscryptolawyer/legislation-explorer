@@ -5,7 +5,6 @@ section: "6-300-small-business-entity-assets-general-small-business-pool"
 title: "6-300 - Small business entity assets general small business pool"
 paragraph: "None"
 ---
-
 # 6-300 - Small business entity assets general small business pool
 
 Worked example: Small business entity assets; general small business pool Issue Ashley Cooper is a sole proprietor manufacturing furniture and trading as Furniture Fantastic. His annual turnover is $1.4 million, and he qualifies as a small business entity. At the commencement of the 2021– 22 year, the opening balance of his general small business pool was $nil, with the previous balance being written off in an earlier year under the instant asset write-off provisions.

@@ -8,7 +8,6 @@ section_title: Prescribed investor rates for new residents
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 57B  Prescribed investor rates for new residents
 
 **When this section applies**

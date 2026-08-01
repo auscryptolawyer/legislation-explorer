@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 159GZZZP Part of off-market purchase price is a dividend if the company is not a listed public company
 
 <a id="s159GZZZP-1"></a>

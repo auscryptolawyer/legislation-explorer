@@ -8,7 +8,6 @@ section_title: Income and deductions of mutual associations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HE 1  Income and deductions of mutual associations
 
 **Income and allocation**

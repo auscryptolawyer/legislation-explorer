@@ -5,7 +5,6 @@ section: "income-and-deductions-of-partner"
 title: "Income and deductions of partner"
 paragraph: "¶5-130"
 ---
-
 # Income and deductions of partner ¶5-130
 
 The assessable income of a resident partner includes the partner’s “individual interest” in (ie share of) the net partnership income (from all sources) as is attributable to the period when the partner was a resident (s 92(1)). The partner’s share of the net partnership income will be included in their assessable income regardless of whether more or less than that share has been received, and whether received by way of “salary” (¶5-090), interest on capital or current account or other drawings. Actual drawings of partnership proﬁts by a partner are irrelevant for tax purposes (Case 7/2000 2000 ATC 168; [1999] AATA 1025).

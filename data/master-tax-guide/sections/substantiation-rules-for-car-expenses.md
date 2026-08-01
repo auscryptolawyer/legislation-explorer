@@ -5,7 +5,6 @@ section: "substantiation-rules-for-car-expenses"
 title: "Substantiation rules for car expenses"
 paragraph: "¶16-320"
 ---
-
 # Substantiation rules for car expenses ¶16-320
 
 Special substantiation rules apply to claims for car expenses incurred in relation to travel within Australia (ITAA97 Div 28: ss 28-1 to 28-185). These rules apply to employees as well as to other recipients of withholding payments (¶26-120), self-employed persons and partnerships including at least one individual taxpayer, but not to companies or trusts. The rules do not apply unless the taxpayer owns or hires under a hire purchase agreement or leases the car. A taxpayer who does not own the car cannot use the special methods but can claim deductions for fuel, oil and other actual costs. See ¶16-324 for the types of vehicles to which the rules apply.

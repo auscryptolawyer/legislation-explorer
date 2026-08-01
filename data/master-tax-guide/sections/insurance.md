@@ -5,7 +5,6 @@ section: "insurance"
 title: "insurance"
 paragraph: "¶32-035"
 ---
-
 # insurance ¶32-035
 
 If the TPB considers it appropriate to do so, the TPB may impose one or more conditions to which an entity’s registration is subject (TASA s 20-25(5) to (7)). If a condition is imposed, it must relate to the subject area in respect of which tax agent services may be provided. In deciding whether to impose a condition, the TPB must have regard to the educational and experience requirements prescribed by the regulations in relation to:

@@ -5,7 +5,6 @@ section: "sale-of-business-by-selling-shares"
 title: "Sale of business by selling shares"
 paragraph: "¶11-530"
 ---
-
 # Sale of business by selling shares ¶11-530
 
 A business operated by a company may also be sold by disposing of the shares in the company. In this situation, the “going concern” exemption is normally not relevant, as the supplier (the shareholder) is not the same as the entity carrying on the business (the company). Instead, the sale of the shares is treated as a financial supply and is therefore input taxed, ie GST will not be payable, but the seller will not be able to claim input tax credits (unless it is below the financial acquisitions threshold: ¶10-032). This means, for example, that GST on lawyers’ or accountants’ advice in relation to the sale would not be recoverable by the vendor. On the other hand, any GST on their services will be recoverable to the extent that it relates to activities of the vendor which are subject to GST.

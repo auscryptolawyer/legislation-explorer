@@ -8,7 +8,6 @@ section_title: Amalgamations and remitted liabilities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FO 5  Amalgamations and remitted liabilities
 
 **Treatment of liabilities generally**

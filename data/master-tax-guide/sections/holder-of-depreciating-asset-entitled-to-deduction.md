@@ -5,7 +5,6 @@ section: "holder-of-depreciating-asset-entitled-to-deduction"
 title: "Holder of depreciating asset entitled to deduction"
 paragraph: "¶17-020"
 ---
-
 # Holder of depreciating asset entitled to deduction ¶17-020
 
 A deduction for the decline in value of a depreciating asset for an income year can only be claimed by a person who “held” the asset at any time during the income year. The general rule is that the owner (or the legal owner, if there is both a legal and an equitable owner) holds the asset (ITAA97 s 40-40, item 10).

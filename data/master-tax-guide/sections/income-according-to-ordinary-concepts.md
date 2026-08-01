@@ -5,7 +5,6 @@ section: "income-according-to-ordinary-concepts"
 title: "Income according to ordinary concepts"
 paragraph: "¶10-010"
 ---
-
 # Income according to ordinary concepts ¶10-010
 
 The courts have identiﬁed a number of factors that indicate whether an amount has the character of income according to ordinary concepts.

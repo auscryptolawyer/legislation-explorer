@@ -5,7 +5,6 @@ section: "company-return-required"
 title: "Company return required"
 paragraph: "¶3-045"
 ---
-
 # Company return required ¶3-045
 
 The requirements for lodging returns are speciﬁed annually by Legislative Instrument (ITAA36 s 161: ¶24-010, ¶24-030).

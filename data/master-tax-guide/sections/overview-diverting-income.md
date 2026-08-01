@@ -5,7 +5,6 @@ section: "overview-diverting-income"
 title: "Overview: diverting income"
 paragraph: "¶31-280"
 ---
-
 # Overview: diverting income ¶31-280
 
 A common method of tax planning has been to “divert” income from a taxpayer who bears tax at high rates (the high rate taxpayer) to one who is taxed at low rates or not at all (the low rate taxpayer). Some methods by which income might be diverted are:

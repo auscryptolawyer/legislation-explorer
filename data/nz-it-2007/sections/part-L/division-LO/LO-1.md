@@ -8,7 +8,6 @@ section_title: Tax credits for Maori authority credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LO 1  Tax credits for Maori authority credits
 
 **Amount of credit**

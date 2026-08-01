@@ -8,7 +8,6 @@ section_title: Land and buildings as revenue account property affected by Hurunu
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 25B  Land and buildings as revenue account property affected by Hurunui/Kaikōura earthquakes and replaced—insurance or compensation
 
 **When this section applies**

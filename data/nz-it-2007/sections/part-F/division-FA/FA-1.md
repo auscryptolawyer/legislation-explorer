@@ -8,7 +8,6 @@ section_title: What this subpart does
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 1  What this subpart does
 
 This subpart alters the tax treatment of certain commercial arrangements by—

@@ -8,7 +8,6 @@ section_title: When income tax unpaid
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LO 4  When income tax unpaid
 
 **When this section applies**

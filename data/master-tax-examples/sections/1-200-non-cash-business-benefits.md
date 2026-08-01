@@ -5,7 +5,6 @@ section: "1-200-non-cash-business-benefits"
 title: "1-200 - Non-cash business benefits"
 paragraph: "None"
 ---
-
 # 1-200 - Non-cash business benefits
 
 Worked example: Non-cash business benefits Issue Quantum Appliances manufactures electrical appliances which can be purchased direct from Quantum or from various large retailers. The appliances have a 5-year warranty, but the warranty is only valid if installation, servicing and repairs are carried out by accredited Quantum sub-contractors.

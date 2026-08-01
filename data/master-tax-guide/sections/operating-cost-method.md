@@ -5,7 +5,6 @@ section: "operating-cost-method"
 title: "Operating cost method"
 paragraph: "¶35-210"
 ---
-
 # Operating cost method ¶35-210
 
 If the operating cost method is used, the taxable value of a car fringe beneﬁt is based on the operating cost of the car during the period over which the beneﬁt arises (s 10). That cost is apportioned between the business use of the car during that period and the non-business use. The portion related to non-business use is the taxable value.

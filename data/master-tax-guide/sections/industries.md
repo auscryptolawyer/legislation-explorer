@@ -5,7 +5,6 @@ section: "industries"
 title: "industries"
 paragraph: "¶33-206"
 ---
-
 # industries ¶33-206
 
 - security and surveillance providers and investigation services

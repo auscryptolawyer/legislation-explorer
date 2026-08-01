@@ -5,7 +5,6 @@ section: "termination-of-tax-agent-registration"
 title: "Termination of tax agent registration"
 paragraph: "¶32-050"
 ---
-
 # Termination of tax agent registration ¶32-050
 
 In addition to the power to terminate registration of a tax agent or BAS agent for a failure to comply with the Code of Professional Conduct (¶32-045), the TPB has power to terminate registration where an event listed at ¶32-025 occurs in relation to a registered individual, in relation to an individual partner of a registered partnership or in relation to a director of a registered company or of a company that is a partner in a registered partnership. Where such an event occurs in relation to a partner or a director, the TPB has the power to direct that the partner or director be removed.

@@ -5,7 +5,6 @@ section: "pros-and-cons-of-registration"
 title: "Pros and cons of registration"
 paragraph: "¶3-010"
 ---
-
 # Pros and cons of registration ¶3-010
 
 Most businesses do not have any choice about whether to register, as they are carrying on an enterprise and exceed the registration threshold. However, even where it is not compulsory, there are strong incentives to register. Here are some of the factors you may consider.

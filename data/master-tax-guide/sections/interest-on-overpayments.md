@@ -5,7 +5,6 @@ section: "interest-on-overpayments"
 title: "Interest on overpayments"
 paragraph: "¶28-170"
 ---
-
 # Interest on overpayments ¶28-170
 
 Interest is payable by the Commissioner on overpayments of tax in the circumstances outlined below at (1) to (5). Interest may also be payable on certain early payments of tax (¶25-440). The interest payable by the Commissioner is governed by the Taxation (Interest on Overpayments and Early Payments) Act 1983 (Interest Act) and the Taxation (Interest on Overpayments and Early Payments) Regulations.

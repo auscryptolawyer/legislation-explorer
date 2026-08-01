@@ -5,7 +5,6 @@ section: "contents-of-recipient-created-tax-invoices"
 title: "Contents of recipient created tax invoices"
 paragraph: "¶5-150"
 ---
-
 # Contents of recipient created tax invoices ¶5-150
 
 For determining net amounts for tax periods, the requirements for a recipient created tax invoice are as follows: (1) it must be issued by the recipient (2) it must be in the approved form (3) it must contain enough information to enable the following to be clearly ascertained:

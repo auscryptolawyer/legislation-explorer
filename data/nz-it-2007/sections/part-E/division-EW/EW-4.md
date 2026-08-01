@@ -8,7 +8,6 @@ section_title: What is not a financial arrangement?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 4  What is not a financial arrangement?
 
 **Absolute assignment**

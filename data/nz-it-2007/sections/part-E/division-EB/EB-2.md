@@ -8,7 +8,6 @@ section_title: Meaning of trading stock
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EB 2  Meaning of trading stock
 
 **Meaning**

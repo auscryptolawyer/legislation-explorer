@@ -8,7 +8,6 @@ section_title: General rules for currency conversion
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YF 1  General rules for currency conversion
 
 **When this section applies**

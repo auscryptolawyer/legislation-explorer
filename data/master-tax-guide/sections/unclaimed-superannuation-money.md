@@ -5,7 +5,6 @@ section: "unclaimed-superannuation-money"
 title: "Unclaimed superannuation money"
 paragraph: "¶13-950"
 ---
-
 # Unclaimed superannuation money ¶13-950
 
 The Superannuation (Unclaimed Money and Lost Members) Act 1999 (SUMLMA) and Regulations 2019 (SUMLMR) provide the scheme for superannuation providers (regulated superannuation funds, ADFs and RSA providers) to pay unclaimed money and certain superannuation amounts to the Commissioner, and for the Commissioner to match and reunify these money with, or pay the money to, persons entitled to it.

@@ -8,7 +8,6 @@ section_title: When attributed CFC income arises
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CQ 2  When attributed CFC income arises
 
 **General rule**

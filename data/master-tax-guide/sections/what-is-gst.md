@@ -5,7 +5,6 @@ section: "what-is-gst"
 title: "What is GST?"
 paragraph: "¶34-000"
 ---
-
 # What is GST? ¶34-000
 
 A 10% goods and services tax (GST) started full operation in Australia on 1 July 2000. GST is an indirect, broad-based consumption tax.

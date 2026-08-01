@@ -8,7 +8,6 @@ section_title: Meaning of mineral miner
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CU 6  Meaning of mineral miner
 
 **Meaning**

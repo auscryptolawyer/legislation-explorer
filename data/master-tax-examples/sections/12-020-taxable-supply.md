@@ -5,7 +5,6 @@ section: "12-020-taxable-supply"
 title: "12-020 - Taxable supply"
 paragraph: "None"
 ---
-
 # 12-020 - Taxable supply
 
 Worked example: Taxable supply Issue Bossy Pty Ltd (Bossy), is a Sydney-based company that is registered for GST. Janet North, a senior manager in the company, is provided with a car that she uses for both private and business purposes. Bossy owns the car and pays FBT in respect of the private use.

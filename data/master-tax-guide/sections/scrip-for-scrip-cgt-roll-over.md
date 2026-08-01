@@ -5,7 +5,6 @@ section: "scrip-for-scrip-cgt-roll-over"
 title: "Scrip for scrip CGT roll-over"
 paragraph: "¶12-325"
 ---
-
 # Scrip for scrip CGT roll-over ¶12-325
 
 A taxpayer can choose to obtain “scrip for scrip” roll-over when interests held in one entity (“original entity”) are exchanged for replacement interests in another entity (“acquiring entity”), typically as a result of a takeover oﬀer or merger (Subdiv 124-M: ss 124-775 to 124-810).

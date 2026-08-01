@@ -8,7 +8,6 @@ section_title: Application of Maori authority distribution ratio
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LO 3  Application of Maori authority distribution ratio
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "gst-and-income-tax"
 title: "GST and income tax"
 paragraph: "¶24-000"
 ---
-
 # GST and income tax ¶24-000
 
 For registered businesses, the general rule is that GST can be ignored in calculating your tax deductions or assessable income. The reason for this is that GST generally has no net effect on your costs (because businesses can claim input tax credits for the GST component of their purchases) or on your income (because you have to pay the ATO the GST component of your sales).

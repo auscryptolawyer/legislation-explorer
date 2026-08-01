@@ -5,7 +5,6 @@ section: "cgt-and-consolidated-groups"
 title: "CGT and consolidated groups"
 paragraph: "¶11-360"
 ---
-
 # CGT and consolidated groups ¶11-360
 
 interests in entity becoming subsidiary member CGT event L1 happens where, under s 705-57 (¶8-210), there is a reduction in the tax cost setting amount of assets of an entity that becomes a subsidiary member of a consolidated group (s 104-500). A capital loss equal to the reduction is allowed to the head company.

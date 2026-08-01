@@ -5,7 +5,6 @@ section: "5-020-consignment-stock"
 title: "5-020 - Consignment stock"
 paragraph: "None"
 ---
-
 # 5-020 - Consignment stock
 
 Worked example: Consignment stock Issue SS Home Improvements is a hardware store. The store acquires its paint stock on consignment; that is, the stock is not legally owned by SS Home Improvements but rather is owned by the paint manufacturer who provides the stock. The stock is delivered to SS Home Improvements on an “on sale or return” basis.

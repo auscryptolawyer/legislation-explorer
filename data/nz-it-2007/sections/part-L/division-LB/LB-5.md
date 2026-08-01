@@ -8,7 +8,6 @@ section_title: Tax credits for non-resident withholding tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LB 5  Tax credits for non-resident withholding tax
 
 A person has a tax credit for a tax year equal to the amount of tax withheld and paid in relation to their non-resident passive income for the tax year.

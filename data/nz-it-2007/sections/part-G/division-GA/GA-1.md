@@ -8,7 +8,6 @@ section_title: Commissioner’s power to adjust
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GA 1  Commissioner’s power to adjust
 
 **When this section applies**

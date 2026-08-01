@@ -8,7 +8,6 @@ section_title: Exemption for share users in returning share transfers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 43B  Exemption for share users in returning share transfers
 
 **When this section applies**

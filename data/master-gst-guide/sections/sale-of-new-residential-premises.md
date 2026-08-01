@@ -5,7 +5,6 @@ section: "sale-of-new-residential-premises"
 title: "Sale of “new” residential premises"
 paragraph: "¶11-020"
 ---
-
 # Sale of “new” residential premises ¶11-020
 
 The sale of new residential premises is normally taxable (s 40-65). This means that GST may be payable if the vendor is registered. This will typically apply to builders and developers.

@@ -8,7 +8,6 @@ section_title: Determining amount of loan
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 7  Determining amount of loan
 
 **Value to lessor**

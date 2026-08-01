@@ -5,7 +5,6 @@ section: "tasmania-land-tax"
 title: "Tasmania land tax"
 paragraph: "¶38-060"
 ---
-
 # Tasmania land tax ¶38-060
 
 Provisions governing the imposition and calculation of land tax in Tasmania are contained in the Land Tax Act 2000 (“the principal Act”). Applicable rates applying to diﬀerent categories of land are provided in the Land Tax Rating Act 2000. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 1997.

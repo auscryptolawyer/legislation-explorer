@@ -5,7 +5,6 @@ section: "10-280-carry-forward-losses-continuity-of-ownership-and-business-conti
 title: "10-280 - Carry-forward losses continuity of ownership and business continuity test"
 paragraph: "None"
 ---
-
 # 10-280 - Carry-forward losses continuity of ownership and business continuity test
 
 test

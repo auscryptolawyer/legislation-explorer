@@ -5,7 +5,6 @@ section: "2-360-foreign-income-cgt-discount-and-foreign-tax-offset"
 title: "2-360 - Foreign income CGT discount and foreign tax offset"
 paragraph: "None"
 ---
-
 # 2-360 - Foreign income CGT discount and foreign tax offset
 
 Worked example: Foreign income; CGT discount and foreign tax offset Issue On 4 January 2002, Michael Simpson acquired an investment property in Florida, United States for US $250,000 (A$410,000), including purchase costs. He lived in the property for approximately 4 weeks each year and rented the property to holidaymakers for the remainder of the year. On 16 October 2024, Michael signed a contract to sell the property, with settlement occurring on 1 December 2024. The sales price was agreed to be US$1,000,000 (A$1,430,000), after selling costs.

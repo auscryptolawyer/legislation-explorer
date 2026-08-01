@@ -5,7 +5,6 @@ section: "ato-data-collection-techniques"
 title: "ATO data collection techniques"
 paragraph: "¶18-175"
 ---
-
 # ATO data collection techniques ¶18-175
 
 The ATO uses a variety of methods to collect data to assist in directing compliance activity.

@@ -5,7 +5,6 @@ section: "what-is-tax-planning"
 title: "What is tax planning?"
 paragraph: "¶31-000"
 ---
-
 # What is tax planning? ¶31-000
 
 This chapter aims to provide an overview of tax planning issues and concepts. It is a general guide only and does not purport to discuss all relevant issues. Some planning pointers on speciﬁc issues are contained within the commentary in other chapters:
@@ -18,7 +17,7 @@ This chapter aims to provide an overview of tax planning issues and concepts. It
 
 - checklist of tax changes coming into eﬀect during 2024–25: ¶2
 
-- checklists relevant to particular transactions, situations or occupations, see Chapter 44.
+- checklists relevant to particular transactions, situations or occupations, see
 
   What is tax planning?
 

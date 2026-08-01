@@ -5,7 +5,6 @@ section: "change-from-a-quarterly-instalment-payer"
 title: "Change from a quarterly instalment payer"
 paragraph: "¶27-420"
 ---
-
 # Change from a quarterly instalment payer ¶27-420
 
 Becoming an annual instalment payer An eligible taxpayer can only choose to be an annual PAYG instalment payer before the due date of the ﬁrst quarterly PAYG instalment that the taxpayer would otherwise be required to pay for the income year (TAA s 45-140(2)).

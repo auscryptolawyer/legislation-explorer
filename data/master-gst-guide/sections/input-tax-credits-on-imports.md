@@ -5,7 +5,6 @@ section: "input-tax-credits-on-imports"
 title: "Input tax credits on imports"
 paragraph: "¶9-010"
 ---
-
 # Input tax credits on imports ¶9-010
 
 If you import goods, you can claim an input tax credit if you are registered (or required to be registered) and the taxable importation was for a “creditable purpose”. This requires that the importation be made in carrying on your enterprise, that it is not of a private or domestic nature, and that it does not relate to making input taxed supplies (s 15-5; 15-10). The amount of the credit will be equal to the amount of the GST payable on the importation (s 15-20).

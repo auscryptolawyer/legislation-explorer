@@ -5,7 +5,6 @@ section: "students-tax-checklist"
 title: "Students’ tax checklist"
 paragraph: "¶44-140"
 ---
-
 # Students’ tax checklist ¶44-140
 
 - Commonwealth government education or training payments made for students aged 16 or over,

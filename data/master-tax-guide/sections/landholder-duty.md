@@ -5,7 +5,6 @@ section: "landholder-duty"
 title: "Landholder duty"
 paragraph: "¶37-030"
 ---
-
 # Landholder duty ¶37-030
 
 The stamp duty legislation in each state and territory contains provisions which are designed to levy duty at land conveyance rates on transfers of shares or units in certain landholder corporations and unit trusts.

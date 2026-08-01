@@ -8,7 +8,6 @@ section_title: Meaning of full-time earner and earner for family scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MA 7  Meaning of full-time earner and earner for family scheme
 
 **Weekly employment: full-time earner**

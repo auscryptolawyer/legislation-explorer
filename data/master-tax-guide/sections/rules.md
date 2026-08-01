@@ -5,7 +5,6 @@ section: "rules"
 title: "rules"
 paragraph: "¶6-274"
 ---
-
 # rules ¶6-274
 
 There are 2 rules that may operate to deny the present entitlement of a tax exempt beneﬁciary to income of a trust estate, with the result that the trustee will be assessable on the relevant share of the net income under ITAA36 s 99A. The rules do not apply to managed investment trusts.

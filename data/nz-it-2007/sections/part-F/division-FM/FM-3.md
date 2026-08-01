@@ -8,7 +8,6 @@ section_title: Liability of consolidated groups and group companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FM 3  Liability of consolidated groups and group companies
 
 **Taxable income of consolidated group**

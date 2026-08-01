@@ -5,7 +5,6 @@ section: "summary-of-imputation-system"
 title: "Summary of imputation system"
 paragraph: "¶4-400"
 ---
-
 # Summary of imputation system ¶4-400
 
 The basis of the imputation system of company taxation is that shareholders who receive assessable dividends from a company are entitled to a tax oﬀset for the tax paid by the company on its income. It is called an imputation system because the payment of company tax is imputed to shareholders. Dividends paid to shareholders may eﬀectively become tax-free to varying extents. The company must keep records to verify the amount of tax that can be imputed to its shareholders. The simpliﬁed imputation system (ITAA97 Pt 3-6) can be brieﬂy described as follows:

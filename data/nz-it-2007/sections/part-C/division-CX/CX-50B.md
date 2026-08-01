@@ -8,7 +8,6 @@ section_title: Contributions to retirement savings schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 50B  Contributions to retirement savings schemes
 
 **Excluded income**

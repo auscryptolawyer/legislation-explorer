@@ -8,7 +8,6 @@ section_title: Additional parental tax credit amount included in lump sum if 70-
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MD 12B  Additional parental tax credit amount included in lump sum if 70-day period crosses 2 tax years
 
 **When this section applies**

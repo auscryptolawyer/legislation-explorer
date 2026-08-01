@@ -5,7 +5,6 @@ section: "demerger-cgt-roll-over-relief"
 title: "Demerger CGT roll-over relief"
 paragraph: "¶12-328"
 ---
-
 # Demerger CGT roll-over relief ¶12-328
 
 Demerger relief is available where a company or trust group restructures under a demerger by splitting into 2 or more entities or groups. The relief applies where a demerger group divests itself of at least 80% of its interests in a demerger subsidiary to the interest owners of the head entity.

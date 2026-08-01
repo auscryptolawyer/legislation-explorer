@@ -5,7 +5,6 @@ section: "cfc-residency-rules"
 title: "CFC residency rules"
 paragraph: "¶21-160"
 ---
-
 # CFC residency rules ¶21-160
 
 It is important to determine whether a company is a resident of a listed country or an unlisted country for various reasons, including: (i) the income to be taken into account in the calculation of a CFC’s attributable income diﬀers depending on whether the CFC is resident in a listed or unlisted country (¶21-200); (ii) the operation of the active income exemption diﬀers depending on whether the CFC is resident in a listed or unlisted country (¶21-180); and (iii) only a listed country CFC qualiﬁes for a de minimis exemption in relation to certain attributable income (¶21-200).

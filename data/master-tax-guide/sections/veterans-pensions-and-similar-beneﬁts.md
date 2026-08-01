@@ -5,7 +5,6 @@ section: "veterans-pensions-and-similar-beneﬁts"
 title: "Veterans’ pensions and similar beneﬁts"
 paragraph: "¶10-200"
 ---
-
 # Veterans’ pensions and similar beneﬁts ¶10-200
 
 The table below shows the status of pensions, beneﬁts and allowances payable under the Veterans’ Entitlements Act 1986 (ITAA97 ss 52-60 to 52-110). Payments made because of a person’s death (including bereavement payments and funeral beneﬁts) are exempt (ITAA97 s 52-65(4)). In the case of non-exempt service pensions, a special rebate may be allowable to the recipient (¶15-310).

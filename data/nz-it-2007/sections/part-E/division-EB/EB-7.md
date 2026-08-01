@@ -8,7 +8,6 @@ section_title: Cost allocation: cost-flow method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EB 7  Cost allocation: cost-flow method
 
 **When this section applies: first case**

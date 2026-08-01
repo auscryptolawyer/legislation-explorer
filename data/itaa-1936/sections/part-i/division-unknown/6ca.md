@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 6CA Source of natural resource income derived by a non-resident
 
 <a id="s6CA-1"></a>

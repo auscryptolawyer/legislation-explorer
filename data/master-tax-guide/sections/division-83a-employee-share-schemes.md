@@ -5,7 +5,6 @@ section: "division-83a-employee-share-schemes"
 title: "Division 83A employee share schemes"
 paragraph: "¶10-085"
 ---
-
 # Division 83A employee share schemes ¶10-085
 
 Generally, Div 83A applies where an employee acquires an “ESS interest” under an employee share scheme at a discount from 1 July 2009 (s 83A-20). However, the provisions purport to cover not only employees but also those in employee-like relationships, such as directors, oﬃce holders and independent contractors (s 83A-325).

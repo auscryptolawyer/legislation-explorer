@@ -5,7 +5,6 @@ section: "refund-of-excess-franking-credits"
 title: "Refund of excess franking credits"
 paragraph: "¶4-820"
 ---
-
 # Refund of excess franking credits ¶4-820
 
 As a general rule, taxpayers are entitled to a refund if their tax oﬀsets for franked distributions exceed their tax liability, ignoring those oﬀsets (ITAA97 s 67-25). Once franking credits have been used to oﬀset any income tax liability, any excess credits will be refunded (see Example 1 at ¶4-800). Tax oﬀsets available for distributions franked with venture capital credits (¶3-555) are also refundable.

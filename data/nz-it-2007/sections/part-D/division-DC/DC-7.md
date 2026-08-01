@@ -8,7 +8,6 @@ section_title: Contributions to employees’ superannuation schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DC 7  Contributions to employees’ superannuation schemes
 
 **Deduction**

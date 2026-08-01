@@ -8,7 +8,6 @@ section_title: Disposal: land acquired for purposes of business relating to land
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 7  Disposal: land acquired for purposes of business relating to land
 
 **Income**

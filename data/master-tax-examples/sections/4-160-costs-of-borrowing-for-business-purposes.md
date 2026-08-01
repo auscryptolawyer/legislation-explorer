@@ -5,7 +5,6 @@ section: "4-160-costs-of-borrowing-for-business-purposes"
 title: "4-160 - Costs of borrowing for business purposes"
 paragraph: "None"
 ---
-
 # 4-160 - Costs of borrowing for business purposes
 
 Worked example: Costs of borrowing for business purposes Issue When Ben Sadiq decided to start his own business, he needed to borrow a large sum. He was able to borrow the money from a bank at a 5% interest rate over a 4-year loan period starting on 1 September 2024.

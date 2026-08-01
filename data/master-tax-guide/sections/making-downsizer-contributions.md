@@ -5,7 +5,6 @@ section: "making-downsizer-contributions"
 title: "Making downsizer contributions"
 paragraph: "¶13-795"
 ---
-
 # Making downsizer contributions ¶13-795
 
 An individual who is aged 55 years or over on 1 January 2023 may make “downsizer contributions” from the proceeds of the sale of a dwelling that was the person’s main residence, applicable to the proceeds from contracts entered into on or after 1 July 2018. Proceeds arising from an exchange of contracts occurring before 1 July 2018 cannot be a downsizer contribution, even if the settlement of the contracts occurs on or after that date. The eligibility age to make downsizer contributions was 65 years or over for contributions made before 1 July 2022, and 60 years or over for contributions made before 1 January 2023.

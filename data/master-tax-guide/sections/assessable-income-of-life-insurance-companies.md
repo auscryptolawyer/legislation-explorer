@@ -5,7 +5,6 @@ section: "assessable-income-of-life-insurance-companies"
 title: "Assessable income of life insurance companies"
 paragraph: "¶3-495"
 ---
-
 # Assessable income of life insurance companies ¶3-495
 
 The assessable income of a life insurance company includes amounts that are assessable under the general provisions of the income tax law, such as the ordinary income provisions and the CGT provisions.

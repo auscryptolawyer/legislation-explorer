@@ -5,7 +5,6 @@ section: "third-requirement-benefit-must-be-from-the-scheme"
 title: "Third requirement: benefit must be from the scheme"
 paragraph: "¶20-040"
 ---
-
 # Third requirement: benefit must be from the scheme ¶20-040
 
 You are treated as getting a GST benefit from a scheme if the benefit would not have occurred, or could not reasonably be expected to have occurred, if the scheme or a part of the scheme did not exist (s 165-10). Cases on the corresponding income tax provision (ITAA 1936 s 177C) indicate that a “reasonably expected” result is one which is more than just a possibility, and must be one which is reasonably probable (eg FC of T v Peabody 94 ATC 4663). In determining what might reasonably be expected to occur, the court can take into account commercial reality. This means the court can consider what alternative courses of action the parties might have taken if the scheme had not been entered into. According to the Explanatory Memorandum for the GST Act, the enquiry will be in relation to “the most economically equivalent transaction” to what actually occurred.

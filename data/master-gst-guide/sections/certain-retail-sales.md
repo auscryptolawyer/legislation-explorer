@@ -5,7 +5,6 @@ section: "certain-retail-sales"
 title: "Certain retail sales"
 paragraph: "¶22-165"
 ---
-
 # Certain retail sales ¶22-165
 
 Retail sales are sales that are not wholesale sales. Normally, retail sales to end users are not assessable dealings. However, they are treated as assessable dealings, and may therefore attract WET, in the following limited situations (WET Act, s 5-5):

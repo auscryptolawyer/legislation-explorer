@@ -8,7 +8,6 @@ section_title: Interest or expenditure connected to stapled debt security
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 10B  Interest or expenditure connected to stapled debt security
 
 **No deduction**

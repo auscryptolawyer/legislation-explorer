@@ -5,7 +5,6 @@ section: "non-arms-length-dealings-and-capital-allowances"
 title: "Non-arm’s length dealings and capital allowances"
 paragraph: "¶17-045"
 ---
-
 # Non-arm’s length dealings and capital allowances ¶17-045
 
 If a taxpayer is not dealing at arm’s length and incurs expenditure that is greater than the market value of what the expenditure is for, the amount paid is taken to be the “market value” (¶17-050). This applies in determining both the ﬁrst and the second element of cost of the depreciating asset (¶17-100, ¶17-105).

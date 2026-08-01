@@ -5,7 +5,6 @@ section: "12-180-gst-importer-exporter"
 title: "12-180 - GST importer exporter"
 paragraph: "None"
 ---
-
 # 12-180 - GST importer exporter
 
 Worked example: GST; importer; exporter Issue Lanes Electrical Goods Pty Ltd (Lanes) is an Australian company that both imports and exports high quality white goods for the Australian public. During the 2024–25 tax year, Lanes imported goods to the value of $180,000, excluding freight and insurance charges of $17,000 and customs duty of $12,000. The executive staff of the company used $30,000 worth of the imported goods for private purposes.

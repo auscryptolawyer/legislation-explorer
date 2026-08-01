@@ -5,7 +5,6 @@ section: "3-120-housing-fringe-benefits"
 title: "3-120 - Housing fringe benefits"
 paragraph: "None"
 ---
-
 # 3-120 - Housing fringe benefits
 
 Worked example: Housing fringe benefits Issue Jacqueline Suzanne is single with no dependents and leases an apartment in the city of Adelaide. She is employed by a national vegetable processing company. On 1 June 2024, Jacqueline accepted a promotion to a management position with the company and terminated the lease giving 4 weeks’ notice. The promotion involved a 3-year secondment to Victor Harbour, a regional town in South Australia, starting 1 July 2024.

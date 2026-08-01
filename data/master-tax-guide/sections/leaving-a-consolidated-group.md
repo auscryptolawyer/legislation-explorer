@@ -5,7 +5,6 @@ section: "leaving-a-consolidated-group"
 title: "Leaving a consolidated group"
 paragraph: "¶8-400"
 ---
-
 # Leaving a consolidated group ¶8-400
 
 Membership interests in leaving entity Immediately before an entity leaves a consolidated group, the head company is deemed to have acquired the membership interests (including non-membership equity interests) in the leaving entity at a cost equal to the group’s cost for the net assets of the leaving entity, as set out in ITAA97 Div 711. This involves calculating the group’s allocable cost amount for the leaving entity (the “exit ACA”) which is allocated to the membership interests in the leaving entity, ie the asset that emerges as a result of the entity leaving the consolidated group (ITAA97 s 711-15).

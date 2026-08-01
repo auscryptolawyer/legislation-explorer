@@ -8,7 +8,6 @@ section_title: Adjustment of cost fraction for excessively debt funded CFC
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 20D  Adjustment of cost fraction for excessively debt funded CFC
 
 **When this section applies**

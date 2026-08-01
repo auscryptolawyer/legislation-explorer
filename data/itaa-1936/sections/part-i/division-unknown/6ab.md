@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 6AB Foreign income and foreign tax
 
 <a id="s6AB-1"></a>

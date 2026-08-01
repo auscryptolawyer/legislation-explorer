@@ -5,7 +5,6 @@ section: "the-income-of-a-trust"
 title: "The income of a trust"
 paragraph: "¶6-085"
 ---
-
 # The income of a trust ¶6-085
 
 The income of a trust estate is an underlying concept of the trust assessing provisions of ITAA36 Div 6. It is the share of the income of a trust to which a beneﬁciary is presently entitled which determines the amount (share) of the net income for tax purposes on which the beneﬁciary (or the trustee on the beneﬁciary’s behalf) is assessable. A beneﬁciary’s share of the income of a trust is also the basis for determining the beneﬁciary’s adjusted Division 6 percentage (which is relevant where the trust has a net capital gain, a franked distribution or a franking credit included in its net income for tax purposes).

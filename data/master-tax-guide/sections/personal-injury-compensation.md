@@ -5,7 +5,6 @@ section: "personal-injury-compensation"
 title: "Personal injury compensation"
 paragraph: "¶10-185"
 ---
-
 # Personal injury compensation ¶10-185
 
 The general position is that lump sum compensation payments for personal injury (including any pre- judgment interest component) are not assessable as ordinary income or statutory income (ITAA97 s 51-57).

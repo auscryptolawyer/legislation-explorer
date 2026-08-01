@@ -5,7 +5,6 @@ section: "eﬀective-life-retail-trade"
 title: "Eﬀective life — retail trade"
 paragraph: "¶43-040"
 ---
-
 # Eﬀective life — retail trade ¶43-040
 
 (39110 to 43209) Asset                                                       Life (Years)   Reviewed     Date Of Application Counters, freestanding (including check-out and service counters)              10                                              *        1 Jul 2005 Door controls and motor drive systems for automatic sliding doors              15                                              *        1 Jul 2005 (incorporating chains, controls, motors and sensors, but excluding doors)

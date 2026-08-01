@@ -5,7 +5,6 @@ section: "8-100-retiring-partners-distributions"
 title: "8-100 - Retiring partners distributions"
 paragraph: "None"
 ---
-
 # 8-100 - Retiring partners distributions
 
 Worked example: Retiring partners; distributions Issue Smith Clarke Petersen is an accounting firm in Perth operating as a partnership. Due to the downturn in the mining sector, one of the partners, Jim Petersen, has decided to retire and return to Tasmania. Jim retires from the partnership in February 2024 and receives a payment of $1.5 million from the partnership in October 2024.

@@ -5,7 +5,6 @@ section: "loan-with-minimum-rate-and-maximum-term"
 title: "Loan with minimum rate and maximum term"
 paragraph: "¶4-230"
 ---
-
 # Loan with minimum rate and maximum term ¶4-230
 
 A loan by a private company is not taken to be a Div 7A dividend in the income year if, before the company’s lodgment day for that year (s 109N):

@@ -5,7 +5,6 @@ section: "9-020-net-trust-income-distributions"
 title: "9-020 - Net trust income distributions"
 paragraph: "None"
 ---
-
 # 9-020 - Net trust income distributions
 
 Worked example: Net trust income; distributions Issue Rosa and Sam Costello are the only 2 beneficiaries of a discretionary trust created by their grandfather during his lifetime. Rosa aged 23 years resides in Italy and is a non-resident for Australian tax purposes.

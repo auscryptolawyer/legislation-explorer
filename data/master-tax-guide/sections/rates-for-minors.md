@@ -5,7 +5,6 @@ section: "rates-for-minors"
 title: "Rates for minors"
 paragraph: "¶42-020"
 ---
-
 # Rates for minors ¶42-020
 
 The following are the special rates of tax applicable under ITAA36 Pt III Div 6AA to the eligible taxable income of a minor (¶2-220) for 2024–25.

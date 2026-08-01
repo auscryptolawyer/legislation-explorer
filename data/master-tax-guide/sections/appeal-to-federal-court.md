@@ -5,7 +5,6 @@ section: "appeal-to-federal-court"
 title: "Appeal to Federal Court"
 paragraph: "¶28-110"
 ---
-
 # Appeal to Federal Court ¶28-110
 
 An appeal to the Federal Court against the Commissioner’s decision on an objection (¶28-080) is heard by a single judge. An appeal is conducted in accordance with the Federal Court Rules.

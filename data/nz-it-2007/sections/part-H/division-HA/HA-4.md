@@ -8,7 +8,6 @@ section_title: Conditions applying
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HA 4  Conditions applying
 
 **Becoming and continuing as qualifying company**

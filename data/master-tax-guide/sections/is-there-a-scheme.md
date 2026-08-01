@@ -5,7 +5,6 @@ section: "is-there-a-scheme"
 title: "Is there a scheme?"
 paragraph: "¶30-140"
 ---
-
 # Is there a scheme? ¶30-140
 
 To work out if Pt IVA applies, it is necessary to identify a “scheme” as deﬁned in ITAA36 s 177A. A “scheme” means any agreement, arrangement, understanding, promise or undertaking — whether express or implied and whether legally enforceable or not — and any scheme, plan, proposal, course of action or course of conduct (ITAA36 s 177A). Anything done either alone or in association with another or others may constitute a scheme.

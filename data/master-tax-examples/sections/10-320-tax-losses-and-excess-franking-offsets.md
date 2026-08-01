@@ -5,7 +5,6 @@ section: "10-320-tax-losses-and-excess-franking-offsets"
 title: "10-320 - Tax losses and excess franking offsets"
 paragraph: "None"
 ---
-
 # 10-320 - Tax losses and excess franking offsets
 
 Worked example: Tax losses and excess franking offsets Issue Q Co is an investment, manufacturing and trading company that has operated for the past 50 years. The company’s philosophy is to “follow the profits” and its business decisions are based on the likelihood of generating profit, no matter the specifics of the industry. The company has an annual aggregated turnover in excess of $50 million.

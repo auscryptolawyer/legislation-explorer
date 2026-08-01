@@ -8,7 +8,6 @@ section_title: General rule for life insurer’s policyholder base
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 3B  General rule for life insurer’s policyholder base
 
 An imputation credit does not arise in relation to a life insurer’s policyholder base. Similarly, an imputation debit does not arise in relation to a life insurer’s policyholder base.

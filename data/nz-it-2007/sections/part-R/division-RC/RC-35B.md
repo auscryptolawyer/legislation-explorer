@@ -8,7 +8,6 @@ section_title: Treatment of overpaid provisional tax instalments calculated usin
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RC 35B  Treatment of overpaid provisional tax instalments calculated using AIM method
 
 **When this section applies**

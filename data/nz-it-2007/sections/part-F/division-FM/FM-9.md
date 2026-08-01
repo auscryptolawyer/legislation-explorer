@@ -8,7 +8,6 @@ section_title: Amounts that are company’s income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FM 9  Amounts that are company’s income
 
 **When this section applies**

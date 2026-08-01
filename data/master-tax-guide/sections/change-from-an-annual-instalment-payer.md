@@ -5,7 +5,6 @@ section: "change-from-an-annual-instalment-payer"
 title: "Change from an annual instalment payer"
 paragraph: "¶27-380"
 ---
-
 # Change from an annual instalment payer ¶27-380
 
 Ceasing to be annual instalment payer immediately A taxpayer ceases to be an annual instalment payer at the start of an instalment quarter if the taxpayer becomes the head company of a consolidated group or the provisional head company of a MEC group during that quarter. In this case, the taxpayer must pay an instalment for that instalment quarter and later instalment quarters. Such a taxpayer may again become an annual instalment payer if it ceases to be the head company of a consolidated group or provisional head company of a MEC group, satisﬁes the other conditions to be an annual instalment payer (¶27-170) and elects to do so (TAA s 45-160).

@@ -5,7 +5,6 @@ section: "complying-and-regulated-fund-status"
 title: "Complying and regulated fund status"
 paragraph: "¶13-100"
 ---
-
 # Complying and regulated fund status ¶13-100
 
 A superannuation fund must be a “complying superannuation fund” to be eligible for concessional tax treatment under ITAA97 Div 295. This requires the fund to have received a notice under SISA from APRA (or the Commissioner) stating that it is a complying superannuation fund. A fund remains a complying superannuation fund for tax purposes until it is notiﬁed that its complying status has changed.

@@ -5,7 +5,6 @@ section: "advance-payments-for-services"
 title: "Advance payments for services"
 paragraph: "¶16-045"
 ---
-
 # Advance payments for services ¶16-045
 
 Where expenditure qualiﬁes for deduction under ITAA97 s 8-1, the deduction is generally allowable in full in the year the expenditure is incurred (TR 94/25: ¶16-040). However, special prepayment rules aﬀect the timing of deductions for certain types of advance payments (ITAA36 ss 82KZL to 82KZO).

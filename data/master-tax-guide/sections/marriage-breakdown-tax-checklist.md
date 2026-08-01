@@ -5,7 +5,6 @@ section: "marriage-breakdown-tax-checklist"
 title: "Marriage breakdown tax checklist"
 paragraph: "¶44-155"
 ---
-
 # Marriage breakdown tax checklist ¶44-155
 
 - CGT consequences may arise where there is a division of assets or property between the

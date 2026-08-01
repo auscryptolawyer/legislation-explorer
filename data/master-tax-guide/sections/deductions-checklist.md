@@ -5,7 +5,6 @@ section: "deductions-checklist"
 title: "Deductions checklist"
 paragraph: "¶16-005"
 ---
-
 # Deductions checklist ¶16-005
 
 This checklist shows the general deductibility status of a wide range of expenses and where they are dealt with (as indicated in the Source column).

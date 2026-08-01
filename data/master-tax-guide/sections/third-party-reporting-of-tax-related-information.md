@@ -5,7 +5,6 @@ section: "third-party-reporting-of-tax-related-information"
 title: "Third party reporting of tax-related information"
 paragraph: "¶33-220"
 ---
-
 # Third party reporting of tax-related information ¶33-220
 
 A third party reporting regime requires certain entities to report information to the ATO about transactions that could have tax consequences for other entities.

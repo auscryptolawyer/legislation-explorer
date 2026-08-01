@@ -5,7 +5,6 @@ section: "other-special-attribution-rules"
 title: "Other special attribution rules"
 paragraph: "¶7-450"
 ---
-
 # Other special attribution rules ¶7-450
 
 - importations (¶9-005; ¶9-010)

@@ -8,7 +8,6 @@ section_title: Vendors: who must pay, and how?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RL 2  Vendors: who must pay, and how?
 
 **Liability of vendor**

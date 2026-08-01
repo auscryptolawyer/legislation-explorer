@@ -8,7 +8,6 @@ section_title: General rules for maintaining memorandum accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OA 3  General rules for maintaining memorandum accounts
 
 **What this section does**

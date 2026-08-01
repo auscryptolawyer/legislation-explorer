@@ -5,7 +5,6 @@ section: "tax-deductions-for-gst-start-up-costs"
 title: "Tax deductions for GST start-up costs"
 paragraph: "¶24-100"
 ---
-
 # Tax deductions for GST start-up costs ¶24-100
 
 A wide range of costs associated with gearing up for the GST are tax deductible as normal business expenses (ITAA 1997, s 8-1). In former Taxation Ruling TR 1999/12, the ATO said that this could include expenses such as those set out below. Although the Ruling was directed at the position on the general commencement of GST in 2000, and has now accordingly been withdrawn, it may still be relevant for new entrants to the GST system.

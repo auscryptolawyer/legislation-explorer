@@ -5,7 +5,6 @@ section: "fbt-administrative-provisions"
 title: "FBT administrative provisions"
 paragraph: "¶35-720"
 ---
-
 # FBT administrative provisions ¶35-720
 
 - In the absence of suﬃcient information to make a proper assessment, the Commissioner can

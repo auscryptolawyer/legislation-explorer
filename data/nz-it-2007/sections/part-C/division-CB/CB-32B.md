@@ -8,7 +8,6 @@ section_title: Owners of look-through companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 32B  Owners of look-through companies
 
 A person who has an effective look-through interest for a look-through company has an amount of income to the extent to which an amount of income results from the application of subpart HB (Look-through companies) or section HZ 8 (Retrospective transitional provision for market valuation under section HB 4) to them and the look-through company.

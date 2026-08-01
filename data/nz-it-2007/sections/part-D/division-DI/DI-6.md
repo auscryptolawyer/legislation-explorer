@@ -8,7 +8,6 @@ section_title: Relationship to cost, calculations, etc, in other provisions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DI 6  Relationship to cost, calculations, etc, in other provisions
 
 **Other amounts reduced by amount of section DI 5 deduction**

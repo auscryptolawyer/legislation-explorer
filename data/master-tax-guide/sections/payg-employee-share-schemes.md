@@ -5,7 +5,6 @@ section: "payg-employee-share-schemes"
 title: "PAYG: employee share schemes"
 paragraph: "¶26-320"
 ---
-
 # PAYG: employee share schemes ¶26-320
 
 Withholding tax is payable if an employer provides discounted shares and/or rights to an employee under an employee share scheme (ESS) and that employee has not quoted his/her TFN or ABN to the employer by the end of the income year (Subdiv 14-C). This withholding applies to shares, rights, and stapled securities and is imposed in the income year that the employee would be liable to pay tax in relation to the ESS under Div 83A (¶10-085).

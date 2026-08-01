@@ -5,7 +5,6 @@ section: "treatment-of-tax-related-capital-expenditure"
 title: "Treatment of tax-related capital expenditure"
 paragraph: "¶16-854"
 ---
-
 # Treatment of tax-related capital expenditure ¶16-854
 
 Tax-related expenditure that is capital in nature (eg the cost of a computer to be used in complying with the taxpayer’s tax obligations; cost of establishing a superannuation fund: Drummond 2005 ATC 4783; [2005] FCA 1129) is not deductible (ITAA97 s 25-5). Such capital expenditure may be included in the cost base of an asset for CGT purposes (¶11-550).

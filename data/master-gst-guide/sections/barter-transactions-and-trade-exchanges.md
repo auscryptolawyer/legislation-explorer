@@ -5,7 +5,6 @@ section: "barter-transactions-and-trade-exchanges"
 title: "Barter transactions and trade exchanges"
 paragraph: "¶7-435"
 ---
-
 # Barter transactions and trade exchanges ¶7-435
 
 Barter transactions may be formal or informal. The application of the GST rules to informal barter transactions is discussed at ¶4-020.

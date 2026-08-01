@@ -8,7 +8,6 @@ section_title: Subsidised transport
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 9  Subsidised transport
 
 A fringe benefit arises when an employer provides subsidised transport to an employee, unless section CX 19C or CX 19D applies.

@@ -8,7 +8,6 @@ section_title: Exception: accommodation provided by Defence Force
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 1D  Exception: accommodation provided by Defence Force
 
 **When this section applies**

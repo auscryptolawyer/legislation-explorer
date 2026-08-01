@@ -5,7 +5,6 @@ section: "occupational-clothing-and-protective-gear"
 title: "Occupational clothing and protective gear"
 paragraph: "¶16-180"
 ---
-
 # Occupational clothing and protective gear ¶16-180
 
 To be deductible, expenditure on clothing and its maintenance must have the “essential character” of an outgoing incurred in gaining or producing assessable income, ie an income-producing expense. Clothing expenditure is generally private expenditure and is not deductible. In some circumstances, however, expenditure on certain types of occupational clothing gives rise to a deduction. The deduction would cover the cost of buying, renting, laundering, dry-cleaning, repairing and replacing the clothing. For the Commissioner’s views on the deductibility of clothing expenditure generally, see TR 97/12. Clothing expenditure incurred in earning exempt income (eg on Army Reserve uniforms) is not deductible.

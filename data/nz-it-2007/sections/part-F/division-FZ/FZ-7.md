@@ -8,7 +8,6 @@ section_title: Valuation of group assets: insurance proceeds from Canterbury ear
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FZ 7  Valuation of group assets: insurance proceeds from Canterbury earthquake
 
 **When this section applies**

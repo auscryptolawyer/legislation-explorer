@@ -5,7 +5,6 @@ section: "consequences-of-inter-company-cgt-roll-over"
 title: "Consequences of inter-company CGT roll-over"
 paragraph: "¶12-510"
 ---
-
 # Consequences of inter-company CGT roll-over ¶12-510
 
 Consequences for originating company In all cases, if there is an inter-company roll-over, a capital gain made from the trigger event by the originating company is disregarded (s 126-60).

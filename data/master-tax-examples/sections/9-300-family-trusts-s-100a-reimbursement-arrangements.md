@@ -5,7 +5,6 @@ section: "9-300-family-trusts-s-100a-reimbursement-arrangements"
 title: "9-300 - Family trusts s 100A reimbursement arrangements"
 paragraph: "None"
 ---
-
 # 9-300 - Family trusts s 100A reimbursement arrangements
 
 Worked example: Family trusts; s 100A reimbursement arrangements Issue The Callaghan Family Trust is a trust that was created by Harold Callaghan for the benefit of his spouse, children and other members of the Callaghan Family. The trustee is Wilson Pty Ltd, whose sole shareholder and controller is Harold Callaghan.

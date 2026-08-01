@@ -5,7 +5,6 @@ section: "expenses-of-getting-changing-or-maintaining-a-job"
 title: "Expenses of getting, changing or maintaining a job"
 paragraph: "¶16-200"
 ---
-
 # Expenses of getting, changing or maintaining a job ¶16-200
 
 Expenses incurred by an employee in getting a job or in changing jobs (eg travel expenses, moving expenses or costs associated with an employment agreement unrelated to the employee’s business) are not deductible because the expenses come at a point in time too early to be regarded as being incurred in gaining assessable income (Maddalena 71 ATC 4161; TR 2000/5; IT 2406; TR 2021/1). Similarly, expenditure that is a prerequisite to obtaining the particular employment (eg the cost of obtaining a police clearance certiﬁcate) is not deductible (TR 98/6). On the other hand, a public service accountant was successful in a claim for the travelling and incidental costs of arranging job interviews as part of a 12-month “interchange” program with private industry (Case R40 84 ATC 353). The cost of travelling to meet a new employer once the job has been secured may also be deductible (Scott (No 5) 2002 ATC 2280; [2002] AATA 1236).

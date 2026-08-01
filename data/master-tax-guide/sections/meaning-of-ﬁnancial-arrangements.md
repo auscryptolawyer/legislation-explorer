@@ -5,7 +5,6 @@ section: "meaning-of-ﬁnancial-arrangements"
 title: "Meaning of ﬁnancial arrangements"
 paragraph: "¶23-030"
 ---
-
 # Meaning of ﬁnancial arrangements ¶23-030
 
 Division 230 applies to ﬁnancial arrangements that are “Div 230 ﬁnancial arrangements”. A Div 230 ﬁnancial arrangement is an arrangement where the legal or equitable rights to receive or obligations to provide a ﬁnancial beneﬁt (¶23-110) are cash settlable. An arrangement will not be a Div 230 ﬁnancial arrangement, however, if the cash settlable rights and obligations are insigniﬁcant compared to other rights and obligations under the arrangement, or if the cash settlable rights and obligations no longer exist.

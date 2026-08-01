@@ -5,7 +5,6 @@ section: "carrying-on-an-enterprise"
 title: "Carrying on an enterprise"
 paragraph: "¶3-020"
 ---
-
 # Carrying on an enterprise ¶3-020
 
 An entity cannot be registered unless it is carrying on an “enterprise” (ss 23-5, 23-10). Enterprise is defined very widely (s 9-20). The most common example of an enterprise is a business. More specifically, an enterprise means:

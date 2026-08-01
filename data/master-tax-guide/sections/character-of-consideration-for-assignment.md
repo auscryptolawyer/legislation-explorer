@@ -5,7 +5,6 @@ section: "character-of-consideration-for-assignment"
 title: "Character of consideration for assignment"
 paragraph: "¶30-960"
 ---
-
 # Character of consideration for assignment ¶30-960
 
 Where what is assigned is a present right to future income, the right itself may be of a capital nature but the consideration may nevertheless be an income receipt. This is illustrated in Myer Emporium 87 ATC 4363; [1987] HCA 18, where the High Court ruled that the consideration paid for the transfer of a right to future interest income was itself assessable income (¶10-020).

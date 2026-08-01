@@ -5,7 +5,6 @@ section: "improvements-to-pre-cgt-assets"
 title: "Improvements to pre-CGT assets"
 paragraph: "¶42-230"
 ---
-
 # Improvements to pre-CGT assets ¶42-230
 
 The CGT improvement threshold is discussed at ¶11-410.

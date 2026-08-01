@@ -5,7 +5,6 @@ section: "valuation-of-live-stock"
 title: "Valuation of live stock"
 paragraph: "¶9-250"
 ---
-
 # Valuation of live stock ¶9-250
 
 The bases of measuring the closing value of trading stock (¶9-180) apply to determining the closing value for live stock, including horse breeding stock (ITAA97 s 70-45, subject to closing value options in ss 70-60 and 70-65).

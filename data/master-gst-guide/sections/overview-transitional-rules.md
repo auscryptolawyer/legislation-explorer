@@ -5,7 +5,6 @@ section: "overview-transitional-rules"
 title: "Overview: transitional rules"
 paragraph: "¶19-000"
 ---
-
 # Overview: transitional rules ¶19-000
 
 - general timing rules governing supplies and acquisitions (¶19-100)

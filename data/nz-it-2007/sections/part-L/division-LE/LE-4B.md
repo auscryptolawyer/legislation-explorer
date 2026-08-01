@@ -8,7 +8,6 @@ section_title: Trustees for certain close companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 4B  Trustees for certain close companies
 
 **When this section applies**

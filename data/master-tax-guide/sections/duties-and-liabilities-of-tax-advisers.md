@@ -5,7 +5,6 @@ section: "duties-and-liabilities-of-tax-advisers"
 title: "Duties and liabilities of tax advisers"
 paragraph: "¶31-015"
 ---
-
 # Duties and liabilities of tax advisers ¶31-015
 
 A tax adviser is clearly under a duty to advise the client on the ramiﬁcations of any tax planning arrangements, including the penalties that may be payable where there is a shortfall amount (¶29-160).

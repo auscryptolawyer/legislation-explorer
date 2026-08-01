@@ -8,7 +8,6 @@ section_title: When group membership lacking in loss period
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 7  When group membership lacking in loss period
 
 **When this section applies**

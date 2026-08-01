@@ -8,7 +8,6 @@ section_title: Calculating amount of tax credit and filing particulars
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LD 5  Calculating amount of tax credit and filing particulars
 
 **Employer’s responsibility**

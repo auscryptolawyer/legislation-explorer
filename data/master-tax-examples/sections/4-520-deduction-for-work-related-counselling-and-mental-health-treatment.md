@@ -5,7 +5,6 @@ section: "4-520-deduction-for-work-related-counselling-and-mental-health-treatme
 title: "4-520 - Deduction for work-related counselling and mental health treatment"
 paragraph: "None"
 ---
-
 # 4-520 - Deduction for work-related counselling and mental health treatment
 
 Worked example: Deduction for work-related counselling and mental health treatment Issue New Acre Medical Pty Ltd is located in one of the poorest areas of Western Sydney, with a high unemployment rate, poor housing and high levels of mental illness amongst the population. The staff of the New Acre Medical Practice, which is owned by the company, are routinely exposed to mentally distressed and disturbed individuals during the course of their work. As a result, they are occasionally subject to threatening and abusive behaviour, on the telephone, and in online and face-to-face consultations with patients.

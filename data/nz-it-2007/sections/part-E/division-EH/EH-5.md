@@ -8,7 +8,6 @@ section_title: Main income equalisation account
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EH 5  Main income equalisation account
 
 **Person’s account**

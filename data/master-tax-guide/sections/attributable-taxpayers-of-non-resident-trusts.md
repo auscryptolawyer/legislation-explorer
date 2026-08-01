@@ -5,7 +5,6 @@ section: "attributable-taxpayers-of-non-resident-trusts"
 title: "Attributable taxpayers of non-resident trusts"
 paragraph: "¶21-310"
 ---
-
 # Attributable taxpayers of non-resident trusts ¶21-310
 
 Where a company, partnership, trustee or any other entity, including a CFC, is an “attributable taxpayer” in relation to a non-resident trust estate, the attributable income of the trust is included in the entity’s assessable income or, in the case of a CFC, in its attributable income.

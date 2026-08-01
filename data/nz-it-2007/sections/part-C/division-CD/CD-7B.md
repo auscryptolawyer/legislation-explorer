@@ -8,7 +8,6 @@ section_title: Shares issued under profit distribution plans
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 7B  Shares issued under profit distribution plans
 
 **Profit distribution plan shares**

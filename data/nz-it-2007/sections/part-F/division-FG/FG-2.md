@@ -8,7 +8,6 @@ section_title: Notional loans
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FG 2  Notional loans
 
 **Money lent**

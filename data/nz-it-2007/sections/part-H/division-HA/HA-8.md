@@ -8,7 +8,6 @@ section_title: Shareholders’ personal liability
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HA 8  Shareholders’ personal liability
 
 **Agreement required for election**

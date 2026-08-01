@@ -5,7 +5,6 @@ section: "trading-stock-on-death-of-owner"
 title: "Trading stock on death of owner"
 paragraph: "¶9-300"
 ---
-
 # Trading stock on death of owner ¶9-300
 
 When due to the death of a person, trading stock, standing or growing crops, crop-stools or trees planted and tended for sale, pass to the executor or administrator of the deceased estate, the market value of that trading stock, etc, may have to be included in the deceased’s assessable income up to the date of death.

@@ -5,7 +5,6 @@ section: "contents-of-objection"
 title: "Contents of objection"
 paragraph: "¶28-040"
 ---
-
 # Contents of objection ¶28-040
 
 An objection against an assessment must comply with the general guidelines stipulated in TAA sch 1 s 388-50, ie it must be in the form approved by the Commissioner (standard forms for professionals and non-professionals are available on the ATO website), and contain the required information and declaration (¶28-010). See ¶28-050 for more sample notices of objection.

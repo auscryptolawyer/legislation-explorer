@@ -5,7 +5,6 @@ section: "3-280-private-company-providing-loans-and-assets-for-personal-use"
 title: "3-280 - Private company providing loans and assets for personal use"
 paragraph: "None"
 ---
-
 # 3-280 - Private company providing loans and assets for personal use
 
 Worked example: Private company providing loans and assets for personal use Issue Panda Pty Ltd is in the business of selling antique furniture. The company is owned in equal shares by 2 brothers, John and Robert Ng. Panda Pty Ltd is a private company under ITAA36 s 103A. John is the director of the company and undertakes an active role in overseeing the operations of the business while his brother Robert is a passive shareholder who has no active role either as a director or as an employee.

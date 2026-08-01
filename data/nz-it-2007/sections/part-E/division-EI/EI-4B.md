@@ -8,7 +8,6 @@ section_title: Consideration for agreement to grant, renew, extend, or transfer 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EI 4B  Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence
 
 **When this section applies**

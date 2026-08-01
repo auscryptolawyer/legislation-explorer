@@ -8,7 +8,6 @@ section_title: Income equalisation schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EH 1  Income equalisation schemes
 
 **Description**

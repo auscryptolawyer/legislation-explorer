@@ -8,7 +8,6 @@ section_title: Transitional provisions for PIE rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HZ 5  Transitional provisions for PIE rules
 
 **Intention of new law**

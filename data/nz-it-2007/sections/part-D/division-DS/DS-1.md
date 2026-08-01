@@ -8,7 +8,6 @@ section_title: Acquiring film rights
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DS 1  Acquiring film rights
 
 **Deduction**

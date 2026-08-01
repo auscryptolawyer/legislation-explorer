@@ -8,7 +8,6 @@ section_title: Voting interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YC 2  Voting interests
 
 **Percentage of shareholder decision-making rights**

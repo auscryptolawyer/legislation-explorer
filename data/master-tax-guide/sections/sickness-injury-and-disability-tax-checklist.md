@@ -5,7 +5,6 @@ section: "sickness-injury-and-disability-tax-checklist"
 title: "Sickness, injury and disability tax checklist"
 paragraph: "¶44-150"
 ---
-
 # Sickness, injury and disability tax checklist ¶44-150
 
 - Medical expenses are normally not tax deductible (or depreciable) unless there is something

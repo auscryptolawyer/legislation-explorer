@@ -8,7 +8,6 @@ section_title: Imputation rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FN 2  Imputation rules
 
 The imputation rules means the following:

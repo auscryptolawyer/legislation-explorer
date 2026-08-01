@@ -5,7 +5,6 @@ section: "salary-or-wages-for-superannuation-guarantee"
 title: "Salary or wages for superannuation guarantee"
 paragraph: "¶39-026"
 ---
-
 # Salary or wages for superannuation guarantee ¶39-026
 
 The meaning of “salary or wages” is important because their recipients are generally employees (¶39-020) under the SGAA so that their employers are required to make SG contributions for them.

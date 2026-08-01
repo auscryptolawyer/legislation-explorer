@@ -8,7 +8,6 @@ section_title: Notified foreign investors and tax credits for supplementary divi
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 55FB  Notified foreign investors and tax credits for supplementary dividends
 
 **When this section applies**

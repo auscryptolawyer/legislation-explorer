@@ -8,7 +8,6 @@ section_title: Details to be provided with payment to environmental restoration 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EK 5  Details to be provided with payment to environmental restoration account
 
 **Notice and details required**

@@ -5,7 +5,6 @@ section: "classes-of-special-professionals"
 title: "Classes of special professionals"
 paragraph: "¶2-142"
 ---
-
 # Classes of special professionals ¶2-142
 
 The classes of special professionals subject to the income averaging scheme are: authors of literary, dramatic, musical or artistic works, inventors, performing artists, production associates and sportspersons (ITAA97 s 405-25).

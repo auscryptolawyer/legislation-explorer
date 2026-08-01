@@ -8,7 +8,6 @@ section_title: Concepts used for definition of related-party debt
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 12I  Concepts used for definition of related-party debt
 
 **When this section applies**

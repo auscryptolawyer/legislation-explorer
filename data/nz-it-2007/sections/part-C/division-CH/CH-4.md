@@ -8,7 +8,6 @@ section_title: Adjustment for change to accounting practice
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 4  Adjustment for change to accounting practice
 
 **When this section applies**

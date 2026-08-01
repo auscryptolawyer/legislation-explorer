@@ -8,7 +8,6 @@ section_title: Disposal of partner’s interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HG 5  Disposal of partner’s interests
 
 **When this section applies**

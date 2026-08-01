@@ -5,7 +5,6 @@ section: "limitations-on-review-or-appeal"
 title: "Limitations on review or appeal"
 paragraph: "¶28-130"
 ---
-
 # Limitations on review or appeal ¶28-130
 
 On a review by the ART of, or an appeal to the Federal Court against, an objection decision, the taxpayer is generally limited to the grounds stated in the objection (TAA ss 14ZZK(a); 14ZZO(a)). Having said that, the Federal Court has held that the AAT’s (as the ART then was) decision to remit a penalty, even though not raised on objection, was within the AAT’s power as it was relevant to the substantive issue before it (Hornibrook 2006 ATC 4051; [2006] FCA 9). Even though the Federal Court decision was subsequently overturned on appeal (as the relevant objection decision was an ineligible income tax remission decision), the Full Federal Court aﬃrmed that the AAT had jurisdiction to review the Commissioner’s objection decision in relation to additional tax where the additional tax was not directly raised in the objection decision (Hornibrook 2006 ATC 4761; [2006] FCAFC 170).

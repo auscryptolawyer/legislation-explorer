@@ -5,7 +5,6 @@ section: "instalment-warrants"
 title: "Instalment warrants"
 paragraph: "¶23-390"
 ---
-
 # Instalment warrants ¶23-390
 
 Special rules in ITAA97 Div 235 provide income tax look-through treatment for instalment warrants, instalment receipts, and other similar arrangements, and for certain limited recourse borrowing arrangements entered into by regulated superannuation funds. In particular, look-through treatment is provided:

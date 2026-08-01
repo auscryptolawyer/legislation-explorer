@@ -8,7 +8,6 @@ section_title: Personal property
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 2  Personal property
 
 **When this section applies**

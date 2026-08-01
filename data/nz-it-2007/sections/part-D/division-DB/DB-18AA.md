@@ -8,7 +8,6 @@ section_title: Square metre rate method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 18AA  Square metre rate method
 
 **When this section applies**

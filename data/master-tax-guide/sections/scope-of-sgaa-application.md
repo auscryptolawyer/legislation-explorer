@@ -5,7 +5,6 @@ section: "scope-of-sgaa-application"
 title: "Scope of SGAA application"
 paragraph: "¶39-015"
 ---
-
 # Scope of SGAA application ¶39-015
 
 The SGAA extends to every external territory referred to in the deﬁnition of Australia (SGAA s 4). When used in a geographical sense, Australia is deﬁned as having the same meaning as in ITAA97 (SGAA s 6(1); ITAA97 ss 960-505; 995-1(1)).

@@ -8,7 +8,6 @@ section_title: Remitted and other amounts: companies in liquidation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 2C  Remitted and other amounts: companies in liquidation
 
 **When this section applies**

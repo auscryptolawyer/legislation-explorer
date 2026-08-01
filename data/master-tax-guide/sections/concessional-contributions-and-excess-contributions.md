@@ -5,7 +5,6 @@ section: "concessional-contributions-and-excess-contributions"
 title: "Concessional contributions and excess contributions"
 paragraph: "¶13-820"
 ---
-
 # Concessional contributions and excess contributions ¶13-820
 
 The rules governing concessional contributions and the tax treatment of excess concessional contributions are set out in ITAA97 Div 291.

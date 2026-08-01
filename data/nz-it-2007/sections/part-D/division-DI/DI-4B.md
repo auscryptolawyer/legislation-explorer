@@ -8,7 +8,6 @@ section_title: Treatment of certain items as assets
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DI 4B  Treatment of certain items as assets
 
 For the purposes of this subpart,—

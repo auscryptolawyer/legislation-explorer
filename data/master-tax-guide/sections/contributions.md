@@ -5,7 +5,6 @@ section: "contributions"
 title: "contributions"
 paragraph: "¶13-875"
 ---
-
 # contributions ¶13-875
 
 An individual can apply to the Commissioner in the approved form for a determination that all or a part of the individual’s concessional contributions or non-concessional contributions for a ﬁnancial year is to be disregarded or reallocated instead to another ﬁnancial year (ss 291-465(1); 292-465(1); www.ato.gov.au/ Forms/Application---excess-contributions-determination) (NAT 71333).

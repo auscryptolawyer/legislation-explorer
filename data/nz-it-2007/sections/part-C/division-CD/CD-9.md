@@ -8,7 +8,6 @@ section_title: Interests in money or property of foreign unit trust
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 9  Interests in money or property of foreign unit trust
 
 **Interest absolutely vested in unit holder**

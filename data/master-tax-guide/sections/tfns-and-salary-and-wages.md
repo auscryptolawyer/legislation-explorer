@@ -5,7 +5,6 @@ section: "tfns-and-salary-and-wages"
 title: "TFNs and salary and wages"
 paragraph: "¶33-020"
 ---
-
 # TFNs and salary and wages ¶33-020
 
 Where an employee has not quoted a TFN on a TFN declaration lodged with his/her employer, the employer must deduct tax from the salary and wages of the employee and any discount on shares and/or rights provided to the employee under an employee share scheme at the top marginal tax rate (¶42-000), plus Medicare levy (¶42-010) (¶26-150, ¶26-350). Amounts withheld are allowed as a credit in the employee’s assessment.

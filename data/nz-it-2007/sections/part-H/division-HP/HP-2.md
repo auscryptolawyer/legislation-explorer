@@ -8,7 +8,6 @@ section_title: Payment date for multinational top-up tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HP 2  Payment date for multinational top-up tax
 
 A constituent entity must pay its multinational top-up tax for a fiscal year to the Commissioner by,—

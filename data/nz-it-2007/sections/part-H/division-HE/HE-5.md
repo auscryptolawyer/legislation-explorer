@@ -8,7 +8,6 @@ section_title: Association rebates paid by shares or credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HE 5  Association rebates paid by shares or credit
 
 **When this section applies**

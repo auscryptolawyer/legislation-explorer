@@ -8,7 +8,6 @@ section_title: Deriving supplementary dividend and breach of terms of trust
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LP 6  Deriving supplementary dividend and breach of terms of trust
 
 **Class of shares**

@@ -5,7 +5,6 @@ section: "net-income-of-a-trust"
 title: "Net income of a trust"
 paragraph: "¶6-080"
 ---
-
 # Net income of a trust ¶6-080
 
 Since a trust is not a taxable entity (¶6-060), the calculation of the “net income” of a trust is simply the ﬁrst step in determining the amounts on which the trustee and/or the beneﬁciaries are assessable.

@@ -8,7 +8,6 @@ section_title: Lloyd’s of London: agents for life insurance
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HD 17B  Lloyd’s of London: agents for life insurance
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Treatment when certain requirements for foreign investment PIEs n
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 55H  Treatment when certain requirements for foreign investment PIEs not met
 
 **Income sources**

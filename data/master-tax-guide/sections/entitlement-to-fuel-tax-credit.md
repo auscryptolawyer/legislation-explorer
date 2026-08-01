@@ -5,7 +5,6 @@ section: "entitlement-to-fuel-tax-credit"
 title: "Entitlement to fuel tax credit"
 paragraph: "¶40-100"
 ---
-
 # Entitlement to fuel tax credit ¶40-100
 
 - you acquire, manufacture or import “taxable fuel”. This is fuel that is liable for duty under excise or

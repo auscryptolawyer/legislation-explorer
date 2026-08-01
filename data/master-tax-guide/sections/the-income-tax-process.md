@@ -5,7 +5,6 @@ section: "the-income-tax-process"
 title: "The income tax process"
 paragraph: "¶1-230"
 ---
-
 # The income tax process ¶1-230
 
 The basic steps in the tax process are as follows. (1) Towards the end of each ﬁnancial year (30 June), the Commissioner issues a legislative instrument calling for the lodgment of annual income tax returns (¶24-010). Theoretically, every taxpayer deriving income is obliged to lodge a return although, in practice, certain low income earners are not required to do so. (2) The appropriate tax return to be used depends on whether the taxpayer is an individual, a company, a partnership, a trustee of a trust estate or a superannuation fund, ADF or PST.

@@ -5,7 +5,6 @@ section: "11-360-deceased-estates-preparation-of-the-date-of-death-tax-return-wh
 title: "11-360 - Deceased estates preparation of the date of death tax return where there is no grant of probate"
 paragraph: "None"
 ---
-
 # 11-360 - Deceased estates preparation of the date of death tax return where there is no grant of probate
 
 where there is no grant of probate

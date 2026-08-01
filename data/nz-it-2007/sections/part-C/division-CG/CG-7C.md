@@ -8,7 +8,6 @@ section_title: Disposal or rerecognition of derecognised non-depreciable assets
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 7C  Disposal or rerecognition of derecognised non-depreciable assets
 
 **When this section applies**

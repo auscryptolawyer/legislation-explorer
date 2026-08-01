@@ -5,7 +5,6 @@ section: "11-080-reporting-withholding-and-payment-obligations-relating-to-emplo
 title: "11-080 - Reporting withholding and payment obligations relating to employee share schemes"
 paragraph: "None"
 ---
-
 # 11-080 - Reporting withholding and payment obligations relating to employee share schemes
 
 employee share schemes

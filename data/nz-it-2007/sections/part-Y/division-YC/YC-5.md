@@ -8,7 +8,6 @@ section_title: Treatment of special corporate entities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YC 5  Treatment of special corporate entities
 
 **When this section applies**

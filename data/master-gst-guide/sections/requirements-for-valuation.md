@@ -5,7 +5,6 @@ section: "requirements-for-valuation"
 title: "Requirements for valuation"
 paragraph: "¶11-120"
 ---
-
 # Requirements for valuation ¶11-120
 
 Valuations may be needed for real property acquired by a supplier in certain situations (¶11-140) or before 1 July 2000 (¶11-110). The methods of valuation must be approved by the ATO (s 75-35).

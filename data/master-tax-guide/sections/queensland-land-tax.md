@@ -5,7 +5,6 @@ section: "queensland-land-tax"
 title: "Queensland land tax"
 paragraph: "¶38-030"
 ---
-
 # Queensland land tax ¶38-030
 
 The principal legislation governing the imposition and assessment of liability to land tax in Queensland is the Land Tax Act 2010 (“the principal Act”), supported by the Land Tax Regulation 2021. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are governed by the Taxation Administration Act 2001.

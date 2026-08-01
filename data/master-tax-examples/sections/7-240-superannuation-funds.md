@@ -5,7 +5,6 @@ section: "7-240-superannuation-funds"
 title: "7-240 - Superannuation funds"
 paragraph: "None"
 ---
-
 # 7-240 - Superannuation funds
 
 Worked example: Superannuation funds Issue Coalstream Superannuation Fund is a complying superannuation fund. During the 2024–25 tax year, Coalstream was involved in the following transactions: $

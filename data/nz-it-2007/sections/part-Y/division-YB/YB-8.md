@@ -8,7 +8,6 @@ section_title: Trustee and settlor
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YB 8  Trustee and settlor
 
 **Association**

@@ -5,7 +5,6 @@ section: "small-businesses"
 title: "Small businesses"
 paragraph: "¶25-190"
 ---
-
 # Small businesses ¶25-190
 
 - A small business entity (¶1-250) can elect to pay GST by quarterly instalments and lodge annually

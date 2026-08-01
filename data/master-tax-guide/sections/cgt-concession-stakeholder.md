@@ -5,7 +5,6 @@ section: "cgt-concession-stakeholder"
 title: "CGT concession stakeholder"
 paragraph: "¶7-156"
 ---
-
 # CGT concession stakeholder ¶7-156
 
 - a signiﬁcant individual in the company or trust (¶7-155), or

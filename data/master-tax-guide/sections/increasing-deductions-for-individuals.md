@@ -5,7 +5,6 @@ section: "increasing-deductions-for-individuals"
 title: "Increasing deductions for individuals"
 paragraph: "¶31-170"
 ---
-
 # Increasing deductions for individuals ¶31-170
 
 The consequences of deductions for individuals will depend on the type of assessable income earned:

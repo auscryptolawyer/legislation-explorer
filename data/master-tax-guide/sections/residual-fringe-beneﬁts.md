@@ -5,7 +5,6 @@ section: "residual-fringe-beneﬁts"
 title: "Residual fringe beneﬁts"
 paragraph: "¶35-570"
 ---
-
 # Residual fringe beneﬁts ¶35-570
 
 Any fringe beneﬁt not covered by any other valuation rules is treated as a residual fringe beneﬁt.

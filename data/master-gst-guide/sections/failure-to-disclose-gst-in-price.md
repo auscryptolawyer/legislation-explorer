@@ -5,7 +5,6 @@ section: "failure-to-disclose-gst-in-price"
 title: "Failure to disclose GST in price"
 paragraph: "¶21-010"
 ---
-
 # Failure to disclose GST in price ¶21-010
 
 Where a company’s supply is taxable, quoting only a GST-exclusive price may contravene certain provisions of the Competition and Consumer Act 2010 (CCA). The provisions relate to:

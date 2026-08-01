@@ -5,7 +5,6 @@ section: "calculation-of-capital-works-deductions"
 title: "Calculation of capital works deductions"
 paragraph: "¶20-500"
 ---
-
 # Calculation of capital works deductions ¶20-500
 
 Capital works deductions are calculated using the following formula (ITAA97 ss 43-210; 43-215): construction                                                    applicable                                              days used ×                                                         × expenditure                                                       rate                                                     365 The meaning of “construction expenditure” is discussed at ¶20-510. The “applicable rate” is 2.5% or 4% depending on: (a) when construction of the capital works started; and (b) the use to which the capital works are put (¶20-520). Separate calculations are made at both rates if capital works qualify partly for the 2.5% rate and partly for the 4% rate, so that an apportionment can be made. “Days used” is the number of days in the income year that the capital works were used either in a deductible way or so as to qualify for the 4% rate (¶20-520). The deduction cannot exceed the amount of the undeducted construction expenditure (¶20-510).

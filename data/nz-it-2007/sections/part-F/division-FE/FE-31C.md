@@ -8,7 +8,6 @@ section_title: CFCs in worldwide group for natural persons or trustees described
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 31C  CFCs in worldwide group for natural persons or trustees described in section FE 2(1)﻿(g)
 
 **When this section applies**

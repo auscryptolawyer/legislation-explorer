@@ -5,7 +5,6 @@ section: "franking-period"
 title: "Franking period"
 paragraph: "¶4-670"
 ---
-
 # Franking period ¶4-670
 
 The franking period for an entity depends on whether the entity is a private company or not.

@@ -5,7 +5,6 @@ section: "what-income-of-minors-is-caught-by-special-rules"
 title: "What income of minors is caught by special rules?"
 paragraph: "¶2-180"
 ---
-
 # What income of minors is caught by special rules? ¶2-180
 
 Income of minors caught by special rules Not all types of income of a minor are caught by the special rules. The rules mainly apply to income which is sometimes called “unearned income”, such as dividends, interest, rent, royalties and other income from property.

@@ -8,7 +8,6 @@ section_title: Regulations: Australian wine producer rebate
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CV 8  Regulations: Australian wine producer rebate
 
 **Order in Council**

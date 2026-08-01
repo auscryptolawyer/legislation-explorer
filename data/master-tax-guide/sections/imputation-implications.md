@@ -5,7 +5,6 @@ section: "imputation-implications"
 title: "imputation implications"
 paragraph: "¶4-405"
 ---
-
 # imputation implications ¶4-405
 
 The corporate tax rate was reduced from 30% to 28.5% for the 2015–16 income year and to 27.5% for the 2016–17 income year for corporate tax entities that were small business entities (¶7-050). The 27.5% corporate tax rate was extended to companies with an aggregated turnover of less than $25 million (for 2017–18) and less than $50 million (for 2018–19 and 2019–20) and which qualify as base rate entities (¶3-055). The corporate tax rate was reduced to 26% for the 2020–21 income year and to 25% for subsequent income years for base rate entities with an aggregated turnover of less than $50 million.

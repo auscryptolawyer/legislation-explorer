@@ -8,7 +8,6 @@ section_title: Amounts received on disposal of business assets that include trad
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 2  Amounts received on disposal of business assets that include trading stock
 
 **When this section applies**

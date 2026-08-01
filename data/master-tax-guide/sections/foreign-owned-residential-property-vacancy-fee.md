@@ -5,7 +5,6 @@ section: "foreign-owned-residential-property-vacancy-fee"
 title: "Foreign-owned residential property vacancy fee"
 paragraph: "¶22-005"
 ---
-
 # Foreign-owned residential property vacancy fee ¶22-005
 
 Foreign owners of residential real estate are liable to pay an annual vacancy fee where a residential property is not occupied or genuinely available on the rental market for at least 6 months in a 12-month period. The fee applies to foreign persons who submit a notice or an application to acquire a residential dwelling or residential land from 7:30 pm (AEST) on 9 May 2017.

@@ -5,7 +5,6 @@ section: "family-trusts"
 title: "Family trusts"
 paragraph: "¶6-266"
 ---
-
 # Family trusts ¶6-266
 
 The trust loss measures, other than the income injection test (¶6-267), do not prevent a family trust from deducting current year or prior year losses or debt deductions, provided the trust is a family trust at all times in the relevant test period (sch 2F Subdiv 272-D: ss 272-75 to 272-95).

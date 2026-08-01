@@ -5,7 +5,6 @@ section: "assessability-of-recoupments-as-ordinary-income"
 title: "Assessability of recoupments as ordinary income"
 paragraph: "¶10-260"
 ---
-
 # Assessability of recoupments as ordinary income ¶10-260
 
 There is no general principle that establishes that a payment made as reimbursement of, or compensation for, an expense previously deducted is inherently income (HR Sinclair (1966) 14 ATD 194; (1966) 114 CLR 537, Rowe 97 ATC 4317; [1997] HCA 16), although there are speciﬁc statutory provisions dealing with recoupment (¶10-270).

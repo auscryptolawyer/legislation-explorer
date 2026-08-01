@@ -5,7 +5,6 @@ section: "exempt-income-of-life-insurance-companies"
 title: "Exempt income of life insurance companies"
 paragraph: "¶3-500"
 ---
-
 # Exempt income of life insurance companies ¶3-500
 
 The following amounts received by a life insurance company are exempt from income tax (ITAA97 s 320-35):

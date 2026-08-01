@@ -5,7 +5,6 @@ section: "indirect-value-shifting"
 title: "Indirect value shifting"
 paragraph: "¶12-840"
 ---
-
 # Indirect value shifting ¶12-840
 
 An indirect value shift arises where there is a net shift of value from one related entity to another, eg transferring assets or providing services for less than or more than market value. It involves a reduction in the value of equity or loan interests in one entity (the losing entity) and a corresponding increase in the value of interests in another entity (the gaining entity).

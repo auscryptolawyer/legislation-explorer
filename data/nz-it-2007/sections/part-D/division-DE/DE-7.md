@@ -8,7 +8,6 @@ section_title: Logbook requirements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DE 7  Logbook requirements
 
 **Test period**

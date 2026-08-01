@@ -8,7 +8,6 @@ section_title: Terminating modifications to debits for loss of shareholder conti
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OZ 4  Terminating modifications to debits for loss of shareholder continuity
 
 The terminating modifications that apply under section OA 8(8) (Shareholder continuity requirements for memorandum accounts) are—

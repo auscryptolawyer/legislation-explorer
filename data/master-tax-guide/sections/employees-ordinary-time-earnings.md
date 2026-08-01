@@ -5,7 +5,6 @@ section: "employees-ordinary-time-earnings"
 title: "Employee’s ordinary time earnings"
 paragraph: "¶39-200"
 ---
-
 # Employee’s ordinary time earnings ¶39-200
 
 The level of employer SG support for an employee in each quarter is calculated as a percentage of the employee’s ordinary time earnings base (¶39-230).

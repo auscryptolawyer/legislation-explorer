@@ -8,7 +8,6 @@ section_title: Australian companies with imputation credit accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 2  Australian companies with imputation credit accounts
 
 **Election to be Australian ICA company**

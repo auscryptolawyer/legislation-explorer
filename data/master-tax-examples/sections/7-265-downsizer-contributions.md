@@ -5,7 +5,6 @@ section: "7-265-downsizer-contributions"
 title: "7-265 - Downsizer contributions"
 paragraph: "None"
 ---
-
 # 7-265 - Downsizer contributions
 
 Worked example: Downsizer contributions Issue Donald purchased his home in 2010. He is married to Doreen, who is 66 years old and has lived with Donald in his home since 2020.

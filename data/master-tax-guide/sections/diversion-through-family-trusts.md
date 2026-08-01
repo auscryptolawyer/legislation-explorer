@@ -5,7 +5,6 @@ section: "diversion-through-family-trusts"
 title: "Diversion through family trusts"
 paragraph: "¶31-540"
 ---
-
 # Diversion through family trusts ¶31-540
 
 The most signiﬁcant features of a typical family trust are as follows.

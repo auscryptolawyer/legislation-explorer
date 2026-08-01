@@ -5,7 +5,6 @@ section: "introduction-to-stamp-duty"
 title: "Introduction to stamp duty"
 paragraph: "¶37-000"
 ---
-
 # Introduction to stamp duty ¶37-000
 
 Stamp duty, or “duty” as it is now called in most jurisdictions, is a tax imposed by the states and territories on various transactions either at a ﬁxed rate or at an “ad valorem” rate on the value of the transaction.

@@ -5,7 +5,6 @@ section: "notiﬁcation-and-payment-of-reported-amounts"
 title: "Notiﬁcation and payment of reported amounts"
 paragraph: "¶24-260"
 ---
-
 # Notiﬁcation and payment of reported amounts ¶24-260
 
 All the amounts reported in the activity statement will be aggregated to form a net amount owing to the Commissioner, or a net amount owing by the Commissioner. Upon receipt of the activity statement, the Commissioner will record the liability amounts on the entity’s RBA (¶24-300). Any payments made in respect of those amounts for that period will also be recorded on the RBA. If there is a shortfall in the payment that results in a deﬁcit balance on the RBA, GIC will be payable on that deﬁcit (¶29-510).

@@ -5,7 +5,6 @@ section: "cancellation-fees"
 title: "Cancellation fees"
 paragraph: "¶4-065"
 ---
-
 # Cancellation fees ¶4-065
 
 A fee imposed where a customer cancels an intended supply, or fails to take advantage of an intended supply, will commonly be treated as consideration, and may therefore attract GST. The reason, according to the ATO, is that even if the intended supply is not made, there will normally be other supplies for which the cancellation fee can be treated as consideration. On this view, which is based on an interpretation of Reliance Carpet (¶4-070), these other supplies may, for example, include actions taken by the supplier in preparing to make the supply (“facilitation supplies”), in processing the cancellation, or in performing work in progress at the time of the cancellation.

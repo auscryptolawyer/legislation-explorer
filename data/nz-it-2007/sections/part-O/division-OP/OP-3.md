@@ -8,7 +8,6 @@ section_title: Changes in consolidated imputation groups
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 3  Changes in consolidated imputation groups
 
 **New group company**

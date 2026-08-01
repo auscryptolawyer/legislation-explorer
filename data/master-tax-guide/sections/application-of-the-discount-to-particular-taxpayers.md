@@ -5,7 +5,6 @@ section: "application-of-the-discount-to-particular-taxpayers"
 title: "Application of the discount to particular taxpayers"
 paragraph: "¶11-038"
 ---
-
 # Application of the discount to particular taxpayers ¶11-038
 
 Individuals If an individual makes a capital gain from a CGT asset held for at least 12 months prior to the CGT event, the taxable capital gain is calculated by applying the discount percentage to the capital gain (calculated without indexation of the cost base) remaining after the application of any current year or prior year capital losses (s 102-5).

@@ -5,7 +5,6 @@ section: "4-140-tax-losses-of-earlier-years"
 title: "4-140 - Tax losses of earlier years"
 paragraph: "None"
 ---
-
 # 4-140 - Tax losses of earlier years
 
 Worked example: Tax losses of earlier years Issue Fred Pattel is self-employed and turned 58 in 2024. Fred has owned and operated a landscape gardening business trading as “Keep Australia Beautiful” for the past 25 years.

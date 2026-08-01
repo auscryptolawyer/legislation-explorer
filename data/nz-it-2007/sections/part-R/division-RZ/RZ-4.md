@@ -8,7 +8,6 @@ section_title: GST ratio method: 2010–11 to 2013–14 income years
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RZ 4  GST ratio method: 2010–11 to 2013–14 income years
 
 **When this section applies**

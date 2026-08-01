@@ -8,7 +8,6 @@ section_title: Treatment of companies that start being treated as non-resident a
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FL 3  Treatment of companies that start being treated as non-resident and their shareholders
 
 **When this section applies**

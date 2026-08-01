@@ -5,7 +5,6 @@ section: "1-360-when-is-income-derived-accruals-basis"
 title: "1-360 - When is income derived accruals basis"
 paragraph: "None"
 ---
-
 # 1-360 - When is income derived accruals basis
 
 Worked example: When is income derived; accruals basis Issue Multimedia Systems Pty Ltd (MSPL) is the manufacturer and supplier/retailer of home media and entertainment systems. MSPL not only manufactures and sells home media and entertainment systems but is also available to install the systems in customers’ homes.

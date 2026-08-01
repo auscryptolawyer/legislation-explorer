@@ -5,7 +5,6 @@ section: "1-480-starting-a-business-structuring-registrations-and-concessions"
 title: "1-480 - Starting a business structuring registrations and concessions"
 paragraph: "None"
 ---
-
 # 1-480 - Starting a business structuring registrations and concessions
 
 Worked example: Starting a business; structuring, registrations and concessions Issue Ezra Manning is an amateur baker who has won a number of competitions for her cakes, bread and pastries.

@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8AAZLD  Special priority credits
 
 If, under this Division, the Commissioner is to apply a credit that arises under Schedule 1 to this Act (the PAYG system), the Commissioner must apply it, whether under section 8AAZLA or 8AAZLB:

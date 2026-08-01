@@ -5,7 +5,6 @@ section: "superannuation-funds-providing-pensions"
 title: "Superannuation funds providing pensions"
 paragraph: "¶13-140"
 ---
-
 # Superannuation funds providing pensions ¶13-140
 
 A complying superannuation fund is entitled to an exemption for so much of its ordinary or statutory income that is derived from assets which enables the fund to discharge its liability in respect of certain superannuation income stream beneﬁts where the conditions in ITAA97 s 295-385 or 295-390 are met. The exempt income is generally known as “exempt current pension income” (ECPI).

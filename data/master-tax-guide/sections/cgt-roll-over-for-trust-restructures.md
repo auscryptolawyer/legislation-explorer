@@ -5,7 +5,6 @@ section: "cgt-roll-over-for-trust-restructures"
 title: "CGT roll-over for trust restructures"
 paragraph: "¶12-395"
 ---
-
 # CGT roll-over for trust restructures ¶12-395
 
 An optional roll-over is available where a trust disposes of all of its assets to a company and the beneﬁciaries’ interests in the trust are exchanged for shares in the company (Subdiv 124-N: ss 124-850 to 124-875). Both the trust and its beneﬁciaries can access the roll-over.

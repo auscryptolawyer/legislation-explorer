@@ -5,7 +5,6 @@ section: "remote-area-accommodation"
 title: "Remote area accommodation"
 paragraph: "¶35-430"
 ---
-
 # Remote area accommodation ¶35-430
 
 A remote area housing beneﬁt is an exempt beneﬁt (s 58ZC). A “housing beneﬁt” arises where an employee is granted a right to occupy, as a usual place of residence, a unit of accommodation provided by an employer (s 25).

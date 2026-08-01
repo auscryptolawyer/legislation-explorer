@@ -8,7 +8,6 @@ section_title: Use of money interest payable by person
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EF 5  Use of money interest payable by person
 
 **Timing of deduction**

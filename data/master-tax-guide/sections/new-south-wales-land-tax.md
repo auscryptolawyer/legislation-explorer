@@ -5,7 +5,6 @@ section: "new-south-wales-land-tax"
 title: "New South Wales land tax"
 paragraph: "¶38-010"
 ---
-
 # New South Wales land tax ¶38-010
 
 Provisions governing the imposition and calculation of liability to land tax in NSW, including exemptions and the determination of applicable thresholds, are contained in the Land Tax Management Act 1956 (“the principal Act”). The levying of land tax, including applicable rates and surcharges, is done by the Land Tax Act 1956. Administrative and procedural matters, including powers of the Chief Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 1996.

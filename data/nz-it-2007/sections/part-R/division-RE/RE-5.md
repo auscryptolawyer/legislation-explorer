@@ -8,7 +8,6 @@ section_title: No withholding obligation in certain circumstances
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 5  No withholding obligation in certain circumstances
 
 **When this section applies**

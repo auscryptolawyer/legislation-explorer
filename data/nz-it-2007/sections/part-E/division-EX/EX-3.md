@@ -8,7 +8,6 @@ section_title: Control interest: total of direct, indirect, and associated perso
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 3  Control interest: total of direct, indirect, and associated person interests
 
 **Calculation of control interest**

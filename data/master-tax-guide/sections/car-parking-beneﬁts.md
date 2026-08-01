@@ -5,7 +5,6 @@ section: "car-parking-beneﬁts"
 title: "Car parking beneﬁts"
 paragraph: "¶35-252"
 ---
-
 # Car parking beneﬁts ¶35-252
 
 Car parking facilities provided by an employer to an employee (or an associate of the employee) may give rise to a car parking beneﬁt (s 39A). A car parking beneﬁt arises where, on a particular day, these conditions are satisﬁed:

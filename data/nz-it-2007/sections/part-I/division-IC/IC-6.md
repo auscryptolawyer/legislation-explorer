@@ -8,7 +8,6 @@ section_title: Common ownership for period
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IC 6  Common ownership for period
 
 **Commonality period**

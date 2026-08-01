@@ -5,7 +5,6 @@ section: "particular-sg-employers-employees-and-payments"
 title: "Particular SG employers, employees and payments"
 paragraph: "¶39-024"
 ---
-
 # Particular SG employers, employees and payments ¶39-024
 
 The Commissioner’s views on whether particular categories of persons are employees under the SGAA and on payments for SG purposes include the following:

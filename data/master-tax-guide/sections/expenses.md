@@ -5,7 +5,6 @@ section: "expenses"
 title: "expenses"
 paragraph: "¶16-340"
 ---
-
 # expenses ¶16-340
 
 The logbook method requires a taxpayer to multiply each car expense by the business use percentage. The car expenses must qualify for a general or speciﬁc deduction under normal deduction rules. If only part of a car expense qualiﬁes for a deduction, then only that part is multiplied by the business use percentage (s 28-90).

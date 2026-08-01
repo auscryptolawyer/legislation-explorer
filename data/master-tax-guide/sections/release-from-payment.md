@@ -5,7 +5,6 @@ section: "release-from-payment"
 title: "Release from payment"
 paragraph: "¶25-450"
 ---
-
 # Release from payment ¶25-450
 
 Taxpayers may apply to the Department of Finance and Deregulation for a waiver of their tax debts, ie the right to pursue and recover the debt is irrevocably abandoned. Under the Public Governance Performance and Accountability Act 2013, the Finance Minister has the general power to waive a debt due to the Commonwealth, and the decision-maker has a very broad discretion to consider each request on a case- by-case basis. Debts may be waived where the decision-maker considers recovery of the debt would be inequitable or cause ongoing ﬁnancial hardship, and that other debt treatment options (such as an agency writing oﬀ the debt or deferring payment) are not appropriate (see below).

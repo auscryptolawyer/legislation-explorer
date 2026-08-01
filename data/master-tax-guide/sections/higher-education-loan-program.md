@@ -5,7 +5,6 @@ section: "higher-education-loan-program"
 title: "Higher Education Loan Program"
 paragraph: "¶2-380"
 ---
-
 # Higher Education Loan Program ¶2-380
 
 Most students who enrol to study in award courses in higher education institutions are required to pay a contribution towards the cost of their study under the Higher Education Contribution Scheme (HECS) and the Higher Education Loan Program (HELP). Debts deferred through the Open Learning Deferred Payment Scheme, Postgraduate Education Loan Scheme and Bridging for Overseas Trained Professionals Loan Scheme were included in an accumulated HECS debt and subject to the same repayment arrangements.

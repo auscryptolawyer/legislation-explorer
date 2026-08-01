@@ -8,7 +8,6 @@ section_title: Spreading backward of income from timber
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EI 1  Spreading backward of income from timber
 
 **When this section applies**

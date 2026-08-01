@@ -8,7 +8,6 @@ section_title: Amounts withheld from distributions to holders of FIF attributing
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 10B  Amounts withheld from distributions to holders of FIF attributing interests
 
 **When this section applies**

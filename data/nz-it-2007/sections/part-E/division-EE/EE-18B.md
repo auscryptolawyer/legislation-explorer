@@ -8,7 +8,6 @@ section_title: Cost: some depreciable intangible property
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EE 18B  Cost: some depreciable intangible property
 
 For the purposes of section EE 16 and this subpart, the cost to a person for an item of depreciable intangible property or a plant variety rights application (the amortising item) includes an amount of expenditure incurred by the person for an item of intangible property (the underlying item) if—

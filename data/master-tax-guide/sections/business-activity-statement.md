@@ -5,7 +5,6 @@ section: "business-activity-statement"
 title: "Business Activity Statement"
 paragraph: "¶24-200"
 ---
-
 # Business Activity Statement ¶24-200
 
 Taxpayers who are registered for GST must report their periodic tax obligations and entitlements to the ATO on a single tax compliance form: the Business Activity Statement (BAS). The Instalment Activity Statement (IAS) is for taxpayers who are not registered for GST (¶24-220). Taxpayers still need to lodge separate income tax returns or FBT returns (where applicable) for their business.

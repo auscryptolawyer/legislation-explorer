@@ -5,7 +5,6 @@ section: "fbt-record-keeping-exemption"
 title: "FBT record-keeping exemption"
 paragraph: "¶35-692"
 ---
-
 # FBT record-keeping exemption ¶35-692
 
 Generally, the FBT payable by an employer is calculated on the grossed-up aggregate fringe beneﬁts amount for the year (¶35-025). Also, an employer is generally required to maintain certain records (¶35-690).

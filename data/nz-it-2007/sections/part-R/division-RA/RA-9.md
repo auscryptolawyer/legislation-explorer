@@ -8,7 +8,6 @@ section_title: Treatment of amounts withheld as received
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RA 9  Treatment of amounts withheld as received
 
 **Payments treated as received or derived**

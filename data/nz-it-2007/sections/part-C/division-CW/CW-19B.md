@@ -8,7 +8,6 @@ section_title: Certain amounts derived by employees during emergency events: exe
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 19B  Certain amounts derived by employees during emergency events: exempt income
 
 Income that satisfies section FP 20 (Certain amounts derived by employees during emergency events) is exempt income to the extent to which the income is—

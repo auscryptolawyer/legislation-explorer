@@ -5,7 +5,6 @@ section: "exchanging-gst-information-with-foreign-countries"
 title: "Exchanging GST information with foreign countries"
 paragraph: "¶18-135"
 ---
-
 # Exchanging GST information with foreign countries ¶18-135
 
 The confidentiality rules (¶18-130) normally prevent the ATO from providing foreign revenue authorities with GST information relating to a particular taxpayer. However, this rule can be overridden if Australia has a double tax agreement (DTA) with the foreign country that enables this information to be transferred (International Tax Agreements Act 1953, s 23). Similarly, information may be requested by the ATO from those foreign authorities.

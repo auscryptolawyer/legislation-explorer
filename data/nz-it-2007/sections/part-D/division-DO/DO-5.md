@@ -8,7 +8,6 @@ section_title: Expenditure on land: planting of listed horticultural plants
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DO 5  Expenditure on land: planting of listed horticultural plants
 
 **When this section applies**

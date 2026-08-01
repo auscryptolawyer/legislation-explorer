@@ -5,7 +5,6 @@ section: "choice-of-fund-rules"
 title: "Choice of fund rules"
 paragraph: "¶39-260"
 ---
-
 # Choice of fund rules ¶39-260
 
 The choice of fund rules in SGAA Pt 3A (ss 32A to 32ZAB) require employers to provide eligible employees with a choice of superannuation funds to which SG contributions made for them would be paid.

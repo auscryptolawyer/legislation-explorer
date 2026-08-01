@@ -8,7 +8,6 @@ section_title: Share in grey list company acquired under venture investment agre
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 37B  Share in grey list company acquired under venture investment agreement
 
 A person’s rights in a FIF in an income year are not an attributing interest if—

@@ -8,7 +8,6 @@ section_title: Meaning of settlement of relationship property and property
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 1B  Meaning of settlement of relationship property and property
 
 In this subpart,—

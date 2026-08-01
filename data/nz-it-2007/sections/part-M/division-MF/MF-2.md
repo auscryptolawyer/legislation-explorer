@@ -8,7 +8,6 @@ section_title: When person not entitled to payment by instalment
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 2  When person not entitled to payment by instalment
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "valuing-car-parking-beneﬁts"
 title: "Valuing car parking beneﬁts"
 paragraph: "¶35-256"
 ---
-
 # Valuing car parking beneﬁts ¶35-256
 
 The taxable value of a car parking beneﬁt may be ascertained by using one of these methods:

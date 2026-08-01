@@ -8,7 +8,6 @@ section_title: Partners in partnerships
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 6  Partners in partnerships
 
 **When this section applies**

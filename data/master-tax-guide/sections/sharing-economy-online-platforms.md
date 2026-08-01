@@ -5,7 +5,6 @@ section: "sharing-economy-online-platforms"
 title: "Sharing economy online platforms"
 paragraph: "¶33-210"
 ---
-
 # Sharing economy online platforms ¶33-210
 
 The taxable payments reporting system (¶33-200) has been extended to require electronic platform operators to provide information to the ATO on transactions made through the platform where the supply is connected to Australia. However, there will generally be no requirement to report the transaction where:

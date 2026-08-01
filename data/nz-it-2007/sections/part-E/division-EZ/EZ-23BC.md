@@ -8,7 +8,6 @@ section_title: Property acquired after depreciable property affected by Hurunui/
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 23BC  Property acquired after depreciable property affected by Hurunui/Kaikōura earthquakes
 
 **When this section applies**

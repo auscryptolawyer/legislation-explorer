@@ -8,7 +8,6 @@ section_title: Non-resident general insurers and shippers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DW 3  Non-resident general insurers and shippers
 
 **No deduction**

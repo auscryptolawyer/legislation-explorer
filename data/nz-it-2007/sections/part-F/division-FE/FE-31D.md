@@ -8,7 +8,6 @@ section_title: Worldwide group for entity controlled by non-resident owning body
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 31D  Worldwide group for entity controlled by non-resident owning body or trustee
 
 A worldwide group for an excess debt entity is made up of the entity itself and the entity’s New Zealand group if—

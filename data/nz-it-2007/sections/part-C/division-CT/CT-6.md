@@ -8,7 +8,6 @@ section_title: Meaning of petroleum miner
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CT 6  Meaning of petroleum miner
 
 **Meaning**

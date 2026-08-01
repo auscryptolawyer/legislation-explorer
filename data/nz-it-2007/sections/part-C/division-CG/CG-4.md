@@ -8,7 +8,6 @@ section_title: Receipts for expenditure or loss from insurance, indemnity, or ot
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 4  Receipts for expenditure or loss from insurance, indemnity, or otherwise
 
 **When this section applies**

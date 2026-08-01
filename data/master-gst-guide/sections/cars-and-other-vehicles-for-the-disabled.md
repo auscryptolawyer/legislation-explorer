@@ -5,7 +5,6 @@ section: "cars-and-other-vehicles-for-the-disabled"
 title: "Cars and other vehicles for the disabled"
 paragraph: "¶12-150"
 ---
-
 # Cars and other vehicles for the disabled ¶12-150
 
 Supplies of cars to disabled veterans and other disabled people in certain circumstances is GST-free.

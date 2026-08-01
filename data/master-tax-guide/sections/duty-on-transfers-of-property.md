@@ -5,7 +5,6 @@ section: "duty-on-transfers-of-property"
 title: "Duty on transfers of property"
 paragraph: "¶37-020"
 ---
-
 # Duty on transfers of property ¶37-020
 
 In the Rewrite States (¶37-005), duty is payable on transfers of dutiable property. In the non-Rewrite States (ie South Australia and the Northern Territory), duty is imposed on conveyances of property (unless an exempt category of property).

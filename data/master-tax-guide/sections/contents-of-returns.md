@@ -5,7 +5,6 @@ section: "contents-of-returns"
 title: "Contents of returns"
 paragraph: "¶24-030"
 ---
-
 # Contents of returns ¶24-030
 
 Income tax returns must be made on the applicable return form prescribed by the Commissioner, although a simpler form may be authorised and returns in a substantially similar form may be accepted. The “approved form” provisions in TAA sch 1 Subdiv 388-B cover income tax return forms; see also PS LA 2005/19.

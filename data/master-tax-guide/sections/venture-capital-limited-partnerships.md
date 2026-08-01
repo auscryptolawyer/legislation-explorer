@@ -5,7 +5,6 @@ section: "venture-capital-limited-partnerships"
 title: "Venture capital limited partnerships"
 paragraph: "¶5-040"
 ---
-
 # Venture capital limited partnerships ¶5-040
 
 Limited partnerships that are used to invest in Australian venture capital companies are treated as ordinary partnerships rather than corporate limited partnerships (¶3-475). As a consequence, the income, proﬁts, gains and losses of the partnership ﬂow through to the partners, who are taxed according to their tax status.

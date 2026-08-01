@@ -5,7 +5,6 @@ section: "double-taxation-agreements-and-cgt"
 title: "Double taxation agreements and CGT"
 paragraph: "¶12-785"
 ---
-
 # Double taxation agreements and CGT ¶12-785
 
 The articles of a double taxation agreement (DTA) that are of particular interest in a CGT context are the articles dealing with business proﬁts and the alienation of property (¶22-150).

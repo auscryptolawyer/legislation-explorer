@@ -8,7 +8,6 @@ section_title: Tax credits for RSCT
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LB 6  Tax credits for RSCT
 
 **When this section applies**

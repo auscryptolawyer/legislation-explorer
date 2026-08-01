@@ -5,7 +5,6 @@ section: "heavy-on-road-vehicles"
 title: "Heavy on-road vehicles"
 paragraph: "¶40-200"
 ---
-
 # Heavy on-road vehicles ¶40-200
 
 Fuel tax credits apply to fuel used in vehicles with a gross vehicle mass (GVM) greater than 4.5 tonnes travelling on a public road.

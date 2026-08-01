@@ -8,7 +8,6 @@ section_title: Transfer at market value
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FC 2  Transfer at market value
 
 **Market value**

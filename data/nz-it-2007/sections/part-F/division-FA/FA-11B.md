@@ -8,7 +8,6 @@ section_title: Adjustments for certain operating leases
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 11B  Adjustments for certain operating leases
 
 **When this section applies**

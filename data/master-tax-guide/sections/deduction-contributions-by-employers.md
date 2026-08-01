@@ -5,7 +5,6 @@ section: "deduction-contributions-by-employers"
 title: "Deduction — contributions by employers"
 paragraph: "¶13-710"
 ---
-
 # Deduction — contributions by employers ¶13-710
 
 An employer may claim a deduction for all contributions made to a complying superannuation fund or an RSA for the purpose of providing superannuation beneﬁts for an employee if the conditions in ITAA97 Subdiv 290-B are satisﬁed (ITAA97 s 290-60(1)).

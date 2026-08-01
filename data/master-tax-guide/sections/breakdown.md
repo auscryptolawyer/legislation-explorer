@@ -5,7 +5,6 @@ section: "breakdown"
 title: "breakdown"
 paragraph: "¶12-480"
 ---
-
 # breakdown ¶12-480
 
 A marriage or relationship breakdown roll-over is available for certain transfers of any CGT asset reﬂecting the personal interest of either spouse (but not both) in a small superannuation fund (ie a fund with fewer than 5 members) to another complying superannuation fund (s 126-140).

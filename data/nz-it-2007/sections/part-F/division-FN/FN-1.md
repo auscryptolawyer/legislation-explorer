@@ -8,7 +8,6 @@ section_title: When this subpart applies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FN 1  When this subpart applies
 
 This subpart applies when 2 or more companies that are part of a wholly-owned group of companies form an imputation group to enable a company in the imputation group to pay an imputed dividend when another company in the imputation group has a credit for New Zealand tax paid.

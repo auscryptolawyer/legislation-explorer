@@ -5,7 +5,6 @@ section: "indigenous-taxpayers-tax-checklist"
 title: "Indigenous taxpayers tax checklist"
 paragraph: "¶44-145"
 ---
-
 # Indigenous taxpayers tax checklist ¶44-145
 
 This checklist sets out those tax-related measures that speciﬁcally apply to indigenous taxpayers or that may be particularly relevant to them.

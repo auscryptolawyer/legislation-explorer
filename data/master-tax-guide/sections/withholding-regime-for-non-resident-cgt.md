@@ -5,7 +5,6 @@ section: "withholding-regime-for-non-resident-cgt"
 title: "Withholding regime for non-resident CGT"
 paragraph: "¶22-072"
 ---
-
 # Withholding regime for non-resident CGT ¶22-072
 
 A 15% non-ﬁnal withholding tax (previously 12.5%) obligation applies to the purchaser of certain Australian real property and related interests where the property is acquired from a foreign resident vendor on or after 1 January 2025. The purchaser of taxable Australian property, indirect real property interests or options or rights to acquire such property or interest is required to pay 15% of the purchase price to the Commissioner and is entitled to withhold this amount from payment to the foreign resident seller. The previous $750,000 withholding threshold has been removed so that the withholding rules will apply to all property sales where contracts are entered into on or after 1 January 2025.

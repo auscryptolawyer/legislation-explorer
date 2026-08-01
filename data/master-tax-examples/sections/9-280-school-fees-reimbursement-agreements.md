@@ -5,7 +5,6 @@ section: "9-280-school-fees-reimbursement-agreements"
 title: "9-280 - School fees reimbursement agreements"
 paragraph: "None"
 ---
-
 # 9-280 - School fees reimbursement agreements
 
 Worked example: School fees; reimbursement agreements Issue Innovation Education Trust (IET) was a discretionary trust created by the Turner family to fund the private school fees of the Turner children. The beneficiaries of the IET are the Turner family members and any education institutions that any of the beneficiaries attend.

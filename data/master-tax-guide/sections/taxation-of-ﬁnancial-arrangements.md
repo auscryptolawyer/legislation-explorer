@@ -5,7 +5,6 @@ section: "taxation-of-ﬁnancial-arrangements"
 title: "Taxation of ﬁnancial arrangements"
 paragraph: "¶23-000"
 ---
-
 # Taxation of ﬁnancial arrangements ¶23-000
 
 This chapter discusses the taxation of ﬁnancial arrangements and products. It also discusses the obligation of ﬁnancial services entities, gambling service providers, bullion dealers and accountants/lawyers to report signiﬁcant cash transactions and suspect transactions to AUSTRAC.

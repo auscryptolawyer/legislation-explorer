@@ -8,7 +8,6 @@ section_title: When non-resident financial arrangement income treated as paid
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 12E  When non-resident financial arrangement income treated as paid
 
 **Amount paid**

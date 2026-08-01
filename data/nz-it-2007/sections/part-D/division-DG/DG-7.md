@@ -8,7 +8,6 @@ section_title: Expenditure related to income-earning use
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DG 7  Expenditure related to income-earning use
 
 **Expenditure on certain business and regulatory requirements**

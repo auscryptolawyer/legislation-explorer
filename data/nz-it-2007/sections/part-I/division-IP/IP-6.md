@@ -8,7 +8,6 @@ section_title: Financial statements required
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IP 6  Financial statements required
 
 **Financial statements required from company: section IP 3**

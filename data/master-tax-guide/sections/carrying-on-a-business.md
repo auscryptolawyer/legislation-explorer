@@ -5,7 +5,6 @@ section: "carrying-on-a-business"
 title: "Carrying on a business"
 paragraph: "¶10-105"
 ---
-
 # Carrying on a business ¶10-105
 
 The question whether “a business is being carried on” is fundamental to determining whether the earnings or proceeds of a business are to be included in assessable income and, conversely, whether deductions are allowable for revenue expenses incurred in the course of deriving that income (¶16-015).

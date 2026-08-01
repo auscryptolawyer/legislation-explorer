@@ -8,7 +8,6 @@ section_title: Matters between principals and agents
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HD 5  Matters between principals and agents
 
 **Assessment as authority**

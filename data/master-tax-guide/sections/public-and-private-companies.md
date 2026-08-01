@@ -5,7 +5,6 @@ section: "public-and-private-companies"
 title: "Public and private companies"
 paragraph: "¶3-015"
 ---
-
 # Public and private companies ¶3-015
 
 The public or private status of a company for tax purposes does not depend on its status for company law purposes. Many companies that are not private companies under the corporations law are private companies for tax law purposes. A company’s status for tax purposes is determined for each separate income year.

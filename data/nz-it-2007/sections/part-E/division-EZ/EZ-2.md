@@ -8,7 +8,6 @@ section_title: Deductions for disposal of property: 1982–83 and 1989–90 inco
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 2  Deductions for disposal of property: 1982–83 and 1989–90 income years
 
 **Deduction**

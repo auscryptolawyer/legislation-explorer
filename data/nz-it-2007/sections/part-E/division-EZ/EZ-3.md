@@ -8,7 +8,6 @@ section_title: Petroleum development expenditure from 1 October 1990 to 15 Decem
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 3  Petroleum development expenditure from 1 October 1990 to 15 December 1991
 
 **Timing of deduction**

@@ -5,7 +5,6 @@ section: "fatca-reporting-and-withholding-requirements"
 title: "FATCA reporting and withholding requirements"
 paragraph: "¶22-075"
 ---
-
 # FATCA reporting and withholding requirements ¶22-075
 
 The United States government imposes reporting and/or withholding obligations on ﬁnancial institutions in Australia and other countries. The rules are contained in the US Foreign Account Tax Compliance Act (“FATCA”), supplemented by associated US regulations. Their stated purpose is to assist US eﬀorts to combat evasion by US persons holding investments in oﬀshore accounts.

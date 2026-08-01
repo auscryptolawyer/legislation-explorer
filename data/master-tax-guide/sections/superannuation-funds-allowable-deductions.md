@@ -5,7 +5,6 @@ section: "superannuation-funds-allowable-deductions"
 title: "Superannuation funds — allowable deductions"
 paragraph: "¶13-150"
 ---
-
 # Superannuation funds — allowable deductions ¶13-150
 
 The deductibility of expenditure incurred by a complying superannuation fund is determined under the general deduction provision in ITAA97 s 8-1 (¶16-000), unless a speciﬁc provision applies (eg under ITAA97 s 25-5 as a tax-related expense or under ITAA97 ss 295-460–295-490 as discussed below). The term “expenditure” or “expense” is used in the commentary to refer to a loss, outgoing or expenditure.

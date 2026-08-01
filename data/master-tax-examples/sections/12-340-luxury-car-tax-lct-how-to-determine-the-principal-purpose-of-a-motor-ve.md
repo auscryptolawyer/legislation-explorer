@@ -5,7 +5,6 @@ section: "12-340-luxury-car-tax-lct-how-to-determine-the-principal-purpose-of-a-
 title: "12-340 - Luxury car tax LCT How to determine the principal purpose of a motor vehicle"
 paragraph: "None"
 ---
-
 # 12-340 - Luxury car tax LCT How to determine the principal purpose of a motor vehicle
 
 the principal purpose of a motor vehicle

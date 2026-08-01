@@ -5,7 +5,6 @@ section: "avoid-deriving-assessable-amounts"
 title: "Avoid deriving assessable amounts"
 paragraph: "¶31-120"
 ---
-
 # Avoid deriving assessable amounts ¶31-120
 
 Taxpayers will not usually be assessed on amounts that are not derived (the time of derivation will depend on whether the taxpayer adopts a cash or accruals basis of tax accounting). However, where the taxpayer does not receive an amount under a proposed arrangement, care must be taken if the economic beneﬁt of the right or asset concerned is to be derived by the taxpayer or their family. Some provisions are designed to ensure that even if the taxpayer does not receive and is not entitled to receive an amount, he/she is taxed as if an amount had been received (eg the “constructive receipt” rules (¶9-080), certain provisions governing the disposal of trading stock (¶9-290) and the CGT rules (¶11-500)).

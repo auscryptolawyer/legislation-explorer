@@ -8,7 +8,6 @@ section_title: Change in section EX 20B for income of CFC insurer: interest on t
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 32E  Change in section EX 20B for income of CFC insurer: interest on terminal tax
 
 **When section applies**

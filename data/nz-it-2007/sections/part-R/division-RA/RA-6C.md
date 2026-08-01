@@ -8,7 +8,6 @@ section_title: Withholding and payment obligations for residential land
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RA 6C  Withholding and payment obligations for residential land
 
 **RLWT: vendors**

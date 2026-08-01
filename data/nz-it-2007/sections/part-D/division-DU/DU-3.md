@@ -8,7 +8,6 @@ section_title: Acquisition of land for mining operations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DU 3  Acquisition of land for mining operations
 
 **Deduction**

@@ -8,7 +8,6 @@ section_title: What hedges does this subpart apply to?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EM 3  What hedges does this subpart apply to?
 
 **General rule**

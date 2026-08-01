@@ -8,7 +8,6 @@ section_title: Exemption for eligible infrastructure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 7C  Exemption for eligible infrastructure
 
 **When this section applies**

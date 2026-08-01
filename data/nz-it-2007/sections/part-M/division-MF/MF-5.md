@@ -8,7 +8,6 @@ section_title: Recovery of overpaid tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 5  Recovery of overpaid tax credit
 
 **When this section applies**

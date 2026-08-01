@@ -8,7 +8,6 @@ section_title: Actual records
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DE 5  Actual records
 
 To determine the proportion of business use of a motor vehicle, a person may use actual records showing the reasons for and the distance of journeys by the motor vehicle for business use. However, when the period covered falls within a logbook term, actual records may be used only if the person and the Commissioner agree.

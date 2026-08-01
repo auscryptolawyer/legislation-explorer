@@ -5,7 +5,6 @@ section: "directors-penalties"
 title: "Directors penalties"
 paragraph: "¶25-560"
 ---
-
 # Directors penalties ¶25-560
 
 Special regimes enable the Commissioner to recover from the directors of companies unpaid amounts under the PAYG withholding system (¶26-500), unpaid superannuation guarantee charge (SGC: ¶39-000) and liabilities under the GST Act relating to GST (¶34-000), luxury car tax (LCT: ¶34-220) and wine equalisation tax (WET: ¶34-360).

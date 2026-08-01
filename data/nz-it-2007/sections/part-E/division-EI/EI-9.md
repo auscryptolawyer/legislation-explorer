@@ -8,7 +8,6 @@ section_title: Matching rule for employment income of shareholder-employee
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EI 9  Matching rule for employment income of shareholder-employee
 
 **Matching if company allowed deduction**

@@ -8,7 +8,6 @@ section_title: Combined cash and non-cash dividends
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 14B  Combined cash and non-cash dividends
 
 **When this section applies**

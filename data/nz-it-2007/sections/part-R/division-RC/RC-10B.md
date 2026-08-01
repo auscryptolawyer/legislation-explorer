@@ -8,7 +8,6 @@ section_title: Calculating amount of instalment for periods using AIM method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RC 10B  Calculating amount of instalment for periods using AIM method
 
 **Calculating amount for full-year AIM method**

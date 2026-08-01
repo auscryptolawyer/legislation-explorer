@@ -5,7 +5,6 @@ section: "4-220-self-education-expenses"
 title: "4-220 - Self-education expenses"
 paragraph: "None"
 ---
-
 # 4-220 - Self-education expenses
 
 Worked example: Self-education expenses Issue Ron Radd is an ambitious 26-year old accountant. Having undertaken a degree in English at La Trobe University, he undertook a number of low-skilled jobs before gaining a place on the Master of Professional Accounting conversion program at Griffith University in order to gain the necessary experience to provide a springboard into his desired accounting career. He was working as a taxi driver for the duration of the course. He has not claimed any deductions in relation to the course in his prior year tax returns but he is keen to investigate any possible connection to his current employment with a view to amending his tax returns to claim the costs incurred.

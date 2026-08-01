@@ -8,7 +8,6 @@ section_title: Accommodation expenditure: out-of-town secondments and projects
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 16B  Accommodation expenditure: out-of-town secondments and projects
 
 **When this section applies**

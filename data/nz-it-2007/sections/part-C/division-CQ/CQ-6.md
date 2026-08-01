@@ -8,7 +8,6 @@ section_title: Calculation of FIF income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CQ 6  Calculation of FIF income
 
 The amount of any FIF income is calculated, using the relevant calculation method, under sections EX 44 to EX 61 (which relate to the calculation of FIF income or loss).

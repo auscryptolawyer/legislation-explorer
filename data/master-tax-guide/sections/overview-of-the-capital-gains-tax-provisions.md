@@ -5,7 +5,6 @@ section: "overview-of-the-capital-gains-tax-provisions"
 title: "Overview of the capital gains tax provisions"
 paragraph: "¶11-000"
 ---
-
 # Overview of the capital gains tax provisions ¶11-000
 
 A comprehensive capital gains tax (CGT) regime generally applies to CGT events that happen to CGT assets acquired by a taxpayer after 19 September 1985.

@@ -8,7 +8,6 @@ section_title: Meaning of originator
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 9BAA  Meaning of originator
 
 **Meaning**

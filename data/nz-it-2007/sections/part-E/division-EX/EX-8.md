@@ -8,7 +8,6 @@ section_title: Income interests: total of direct and indirect interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 8  Income interests: total of direct and indirect interests
 
 **Calculation of income interest**

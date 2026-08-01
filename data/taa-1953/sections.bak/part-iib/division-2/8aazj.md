@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8AAZJ  Evidentiary certificate about RBA transactions etc.
 
 <a id="s8AAZJ-1"></a>

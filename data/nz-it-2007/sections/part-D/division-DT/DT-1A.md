@@ -8,7 +8,6 @@ section_title: Ring-fenced allocations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DT 1A  Ring-fenced allocations
 
 **When this section applies**

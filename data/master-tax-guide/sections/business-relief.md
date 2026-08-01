@@ -5,7 +5,6 @@ section: "business-relief"
 title: "business relief"
 paragraph: "¶7-128"
 ---
-
 # business relief ¶7-128
 
 Where a CGT event occurs in relation to a passively held CGT asset, the taxpayer will satisfy basic condition 3 of CGT small business relief (¶7-120) where it meets one of 2 alternative special conditions.

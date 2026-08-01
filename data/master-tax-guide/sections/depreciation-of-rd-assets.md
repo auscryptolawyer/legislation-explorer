@@ -5,7 +5,6 @@ section: "depreciation-of-rd-assets"
 title: "Depreciation of R&D assets"
 paragraph: "¶17-420"
 ---
-
 # Depreciation of R&D assets ¶17-420
 
 An entity is entitled to a tax oﬀset if it qualiﬁes for a notional R&D deduction for the decline in value of a tangible depreciating asset (and capital works, other than buildings) used for R&D purposes (Div 355; s 355-305; ¶20-150ﬀ). The entity must satisfy both the R&D and the depreciating assets provisions. The provisions do not apply to pooled assets and conversely, R&D assets cannot be pooled.

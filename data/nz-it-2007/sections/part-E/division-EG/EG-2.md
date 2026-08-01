@@ -8,7 +8,6 @@ section_title: Adjustment for changes to accounting practice
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EG 2  Adjustment for changes to accounting practice
 
 **When this section applies**

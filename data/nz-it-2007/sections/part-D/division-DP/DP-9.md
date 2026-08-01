@@ -8,7 +8,6 @@ section_title: Cost of acquiring timber: forestry business on land acquired from
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DP 9  Cost of acquiring timber: forestry business on land acquired from the Crown, Maori owners, or holding company
 
 **When this section applies**

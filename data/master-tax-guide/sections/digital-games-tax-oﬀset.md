@@ -5,7 +5,6 @@ section: "digital-games-tax-oﬀset"
 title: "Digital games tax oﬀset"
 paragraph: "¶20-400"
 ---
-
 # Digital games tax oﬀset ¶20-400
 
 The digital games tax oﬀset (ITAA97 Div 378) provides a refundable income tax oﬀset for companies that develop digital games in Australia. The oﬀset applies to eligible expenditure incurred on or after 1 July 2022.

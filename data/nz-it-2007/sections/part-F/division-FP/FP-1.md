@@ -8,7 +8,6 @@ section_title: Outline of subpart
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FP 1  Outline of subpart
 
 **General outline**

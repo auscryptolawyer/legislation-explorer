@@ -8,7 +8,6 @@ section_title: Elections
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 9  Elections
 
 **Return of income**

@@ -5,7 +5,6 @@ section: "3-240-entertainment-travel-and-education-benefits"
 title: "3-240 - Entertainment travel and education benefits"
 paragraph: "None"
 ---
-
 # 3-240 - Entertainment travel and education benefits
 
 Worked example: Entertainment, travel and education benefits Issue Healey Chocolates Pty Ltd (Healey Chocolates) is a small family company in Hobart managed by its directors, Ben and Sharon Healey, who are also employees. The following events occur during the 2024–25 FBT year.

@@ -5,7 +5,6 @@ section: "deductions-for-interest-expenses"
 title: "Deductions for interest expenses"
 paragraph: "¶16-740"
 ---
-
 # Deductions for interest expenses ¶16-740
 
 Interest is deductible to the extent to which it is incurred in gaining or producing assessable income or in carrying on a business for that purpose and is not of a capital, private or domestic nature (ITAA97 s 8-1).

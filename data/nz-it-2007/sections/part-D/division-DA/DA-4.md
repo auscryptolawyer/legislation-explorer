@@ -8,7 +8,6 @@ section_title: Treatment of amount of depreciation loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DA 4  Treatment of amount of depreciation loss
 
 The capital limitation does not apply to an amount of depreciation loss merely because the item of property is itself of a capital nature.

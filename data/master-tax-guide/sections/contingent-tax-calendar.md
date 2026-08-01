@@ -5,7 +5,6 @@ section: "contingent-tax-calendar"
 title: "Contingent tax calendar"
 paragraph: "¶45-200"
 ---
-
 # Contingent tax calendar ¶45-200
 
 Objections and appeals Objection against assessment.................................... must be received by ATO within 2 years (4 years for some taxpayers: ¶25-300) after taxpayer is served with notice of assessment (¶28-020).

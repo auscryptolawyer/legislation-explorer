@@ -5,7 +5,6 @@ section: "lease-of-goods-used-overseas"
 title: "Lease of goods used overseas"
 paragraph: "¶9-230"
 ---
-
 # Lease of goods used overseas ¶9-230
 
 Leasing or hiring out goods used outside Australia is GST-free (s 38-187).

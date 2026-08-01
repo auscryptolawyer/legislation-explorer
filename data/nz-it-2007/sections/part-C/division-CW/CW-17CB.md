@@ -8,7 +8,6 @@ section_title: Payments for certain work-related meals
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 17CB  Payments for certain work-related meals
 
 **Exempt income**

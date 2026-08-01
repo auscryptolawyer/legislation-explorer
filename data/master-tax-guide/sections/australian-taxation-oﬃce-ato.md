@@ -5,7 +5,6 @@ section: "australian-taxation-oﬃce-ato"
 title: "Australian Taxation Oﬃce (ATO)"
 paragraph: "¶1-200"
 ---
-
 # Australian Taxation Oﬃce (ATO) ¶1-200
 
 The income tax system is administered by the ATO, which is headed by the Commissioner of Taxation, several Second Commissioners and a number of First Assistant Commissioners.

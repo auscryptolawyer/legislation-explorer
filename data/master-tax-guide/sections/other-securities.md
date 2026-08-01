@@ -5,7 +5,6 @@ section: "other-securities"
 title: "Other securities"
 paragraph: "¶23-350"
 ---
-
 # Other securities ¶23-350
 
 The following commentary is relevant to the taxation of gains and losses in respect of shares and other securities where the TOFA regime in Div 230 (¶23-020) does not apply.

@@ -8,7 +8,6 @@ section_title: Use of remaining credits by companies and trustees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 2  Use of remaining credits by companies and trustees
 
 **When this section applies**

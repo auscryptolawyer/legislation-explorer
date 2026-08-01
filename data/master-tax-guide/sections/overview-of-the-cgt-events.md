@@ -5,7 +5,6 @@ section: "overview-of-the-cgt-events"
 title: "Overview of the CGT events"
 paragraph: "¶11-240"
 ---
-
 # Overview of the CGT events ¶11-240
 
 A capital gain or loss can only arise if a CGT event happens (s 102-20). The following table lists all of the CGT events, the time when each CGT event happens and how to work out any capital gain or loss that arises from those CGT events (s 104-5). Each of the CGT events is considered in more detail after the table.

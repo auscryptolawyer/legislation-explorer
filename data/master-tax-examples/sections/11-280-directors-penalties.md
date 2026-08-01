@@ -5,7 +5,6 @@ section: "11-280-directors-penalties"
 title: "11-280 - Directors penalties"
 paragraph: "None"
 ---
-
 # 11-280 - Directors penalties
 
 Worked example: Director’s penalties Issue When George Saunders became the director of a company in 2021 he satisfied himself that the company had no outstanding tax liabilities. There were 2 other directors, and George regarded them as overseeing the management of the company.

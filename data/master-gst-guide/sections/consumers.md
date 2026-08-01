@@ -5,7 +5,6 @@ section: "consumers"
 title: "consumers"
 paragraph: "¶9-120"
 ---
-
 # consumers ¶9-120
 
 Traditionally, services and intangibles supplied to non-business consumers from overseas have generally not been subject to GST, as they were not “connected” with Australia (¶4-100). This treatment was justified on the ground that the number of those types of supply was very limited. However, this position has changed dramatically with the growth of the internet and e-commerce. Accordingly, supplies of things other than goods or real property — ie services or rights — are treated as having a connection with Australia if they are made to an “Australian consumer” (s 9-25(5)). Those supplies therefore may become subject to GST even though the supplier is overseas.

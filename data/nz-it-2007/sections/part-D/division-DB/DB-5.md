@@ -8,7 +8,6 @@ section_title: Transaction costs: borrowing money for use as capital
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 5  Transaction costs: borrowing money for use as capital
 
 **Deduction**

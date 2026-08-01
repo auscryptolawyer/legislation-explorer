@@ -5,7 +5,6 @@ section: "11-140-lodgment-of-returns"
 title: "11-140 - Lodgment of returns"
 paragraph: "None"
 ---
-
 # 11-140 - Lodgment of returns
 
 Worked example: Lodgment of returns Issue Advice is required on whether the following persons and entities must lodge an income tax return for 2024– 25: 1. a resident individual whose taxable income is more than $18,200 2. a resident individual aged 23 years whose taxable income is $16,000 and who has had amounts of PAYG withheld from their salary and wages during the year 3. an unmarried individual aged 17 years at 30 June 2025 who has $400 income from interest and no other income 4. a non-resident individual who carried on business in Australia during 2024–25 5. a resident individual who has taxable income of $12,000 for 2024–25 with no amounts withheld by their employer but whose payment summary shows a reportable fringe benefits amount 6. a person who has an individual interest in a primary production partnership that has a net partnership loss for the year, and 7. the executor of the estate of a deceased individual who died in October 2024 and whose taxable income for the year is $23,500.

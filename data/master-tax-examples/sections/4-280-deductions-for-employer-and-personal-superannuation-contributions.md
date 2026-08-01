@@ -5,7 +5,6 @@ section: "4-280-deductions-for-employer-and-personal-superannuation-contribution
 title: "4-280 - Deductions for employer and personal superannuation contributions"
 paragraph: "None"
 ---
-
 # 4-280 - Deductions for employer and personal superannuation contributions
 
 Worked example: Deductions for employer and personal superannuation contributions Issue Dr Su, aged 62 years, is a specialist medical practitioner conducting a private practice in which he employs a receptionist. Dr Su is also an adjunct professor at the Royal Prince Charles (RPC) teaching hospital. Dr Su’s receptionist is Carol. She is 45 years of age and is paid $60,000 per annum. Dr Su contributes the 2024–25 mandatory 11.5% superannuation guarantee amount to the complying Health Employees Superannuation Fund (HESF). Carol also enters into a salary sacrifice arrangement contributing $14,300 from her salary into her superannuation fund.

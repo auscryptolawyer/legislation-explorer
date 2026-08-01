@@ -5,7 +5,6 @@ section: "making-a-capital-gain-or-loss"
 title: "Making a capital gain or loss"
 paragraph: "¶11-170"
 ---
-
 # Making a capital gain or loss ¶11-170
 
 A taxpayer can only make a capital gain or loss if a CGT event happens (s 102-20). The provisions dealing with each CGT event identify whether a taxpayer makes a capital gain or loss from that CGT event.

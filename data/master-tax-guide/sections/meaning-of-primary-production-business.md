@@ -5,7 +5,6 @@ section: "meaning-of-primary-production-business"
 title: "Meaning of “primary production business”"
 paragraph: "¶18-010"
 ---
-
 # Meaning of “primary production business” ¶18-010
 
 Many of the primary production concessions dealt with in this chapter are only available to taxpayers carrying on a primary production business. Thus, a shareholder in a primary production company, a salaried manager of an agricultural or pastoral property, or the owner of such a property who has leased it and/or the business to another, will not qualify as a primary producer for the purposes of the averaging provisions (¶18-200). On the other hand, the city-dwelling owner of a primary production business would qualify as a primary producer, even though the property is run by a salaried manager. The members of a partnership, or the beneﬁciaries entitled to the income of a trust, which carries on a primary production business would also qualify as primary producers.

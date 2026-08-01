@@ -5,7 +5,6 @@ section: "cost-setting-at-formation-time"
 title: "Cost setting at formation time"
 paragraph: "¶8-220"
 ---
-
 # Cost setting at formation time ¶8-220
 
 When a consolidated group is formed, the cost values of the assets of the head company remain unchanged.

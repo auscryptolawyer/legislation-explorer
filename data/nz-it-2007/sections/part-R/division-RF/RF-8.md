@@ -8,7 +8,6 @@ section_title: Certain dividends
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 8  Certain dividends
 
 **When this section applies**

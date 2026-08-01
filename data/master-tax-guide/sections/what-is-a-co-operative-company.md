@@ -5,7 +5,6 @@ section: "what-is-a-co-operative-company"
 title: "What is a co-operative company?"
 paragraph: "¶3-420"
 ---
-
 # What is a co-operative company? ¶3-420
 
 To qualify as a “co-operative company” for tax purposes, a company that has share capital must limit the number of shares that any one shareholder may take and must prohibit the quotation of its shares on any stock exchange or in any other public manner (ITAA36 s 117(1)).

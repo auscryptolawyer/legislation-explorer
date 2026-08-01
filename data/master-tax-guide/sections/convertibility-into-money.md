@@ -5,7 +5,6 @@ section: "convertibility-into-money"
 title: "Convertibility into money"
 paragraph: "¶10-030"
 ---
-
 # Convertibility into money ¶10-030
 
 Under general principles, a beneﬁt is not income within the ordinary meaning of that term unless it consists of money or is capable of being converted into money. Thus in Cooke & Sherden 80 ATC 4140; [1980] FCA 37, in which home delivery soft drink retailers were provided with free non-transferable overseas holidays under a sales incentive scheme run by their supplier, it was held that the beneﬁt in the form of the holidays was not income because it was not convertible into money. However, the court recognised that a beneﬁt may be assessable even though it is not directly convertible into money.

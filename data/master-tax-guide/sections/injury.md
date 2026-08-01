@@ -5,7 +5,6 @@ section: "injury"
 title: "injury"
 paragraph: "¶11-650"
 ---
-
 # injury ¶11-650
 
 The CGT implications depend upon whether the compensation or damages is received in relation to personal injuries or not.

@@ -5,7 +5,6 @@ section: "repayments-of-previously-assessable-income"
 title: "Repayments of previously assessable income"
 paragraph: "¶10-280"
 ---
-
 # Repayments of previously assessable income ¶10-280
 
 The converse of a recoupment is where income derived during an income year is repaid in a later income year. In this situation, the taxpayer may be able to have the original assessment amended to exclude the amount repaid as non-assessable non-exempt income (ITAA97 s 59-30).

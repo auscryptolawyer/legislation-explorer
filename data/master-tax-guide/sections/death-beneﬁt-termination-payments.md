@@ -5,7 +5,6 @@ section: "death-beneﬁt-termination-payments"
 title: "Death beneﬁt termination payments"
 paragraph: "¶42-290"
 ---
-
 # Death beneﬁt termination payments ¶42-290
 
 A death beneﬁt termination payment (¶14-680) may have 2 components — a tax free component and a taxable component.

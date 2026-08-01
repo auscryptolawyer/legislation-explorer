@@ -5,7 +5,6 @@ section: "share-cancellations"
 title: "Share cancellations"
 paragraph: "¶3-160"
 ---
-
 # Share cancellations ¶3-160
 
 Substantial tax advantages could arise if a holding company cancelled, for less than market value, shares in itself that were held by a subsidiary company. Special rules cover this situation by providing that:

@@ -5,7 +5,6 @@ section: "classes-of-taxable-income-of-life-insurance-companies"
 title: "Classes of taxable income of life insurance companies"
 paragraph: "¶3-490"
 ---
-
 # Classes of taxable income of life insurance companies ¶3-490
 
 (1) the ordinary class — which is taxed at the corporate tax rate (2) the complying superannuation class — which is taxed at a rate of 15%.

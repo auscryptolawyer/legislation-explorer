@@ -8,7 +8,6 @@ section_title: Foreign investment fund income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CQ 4  Foreign investment fund income
 
 FIF income of a person is income.

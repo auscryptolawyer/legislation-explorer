@@ -5,7 +5,6 @@ section: "assessment-of-personal-services-income"
 title: "Assessment of personal services income"
 paragraph: "¶30-610"
 ---
-
 # Assessment of personal services income ¶30-610
 
 Income which is mainly a reward for an individual’s personal eﬀorts or skills is the individual’s personal services income (PSI), regardless of whether it is income of another entity (eg a company, trust, partnership or other individual), whether it is for doing work or producing a result or whether it is payable under a contract (ITAA97 s 84-5). Only individuals can have PSI.

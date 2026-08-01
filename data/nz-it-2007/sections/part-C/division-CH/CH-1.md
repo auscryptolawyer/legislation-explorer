@@ -8,7 +8,6 @@ section_title: Adjustment for closing values of trading stock, livestock, and ex
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 1  Adjustment for closing values of trading stock, livestock, and excepted financial arrangements
 
 **When this section applies**

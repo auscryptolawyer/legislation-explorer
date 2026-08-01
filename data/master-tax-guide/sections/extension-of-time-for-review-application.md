@@ -5,7 +5,6 @@ section: "extension-of-time-for-review-application"
 title: "Extension of time for review application"
 paragraph: "¶28-100"
 ---
-
 # Extension of time for review application ¶28-100
 
 A taxpayer may apply to the ART for an extension of the prescribed 60-day period (¶28-090) for lodging an application for review of an objection decision (TAA s 14ZZA; ART Act s 19). Such an application (known as an “ART extension application”) may be made even though the original 60-day period has expired (in contrast, there is no provision for applying for an extension of time for lodging an appeal to the Federal Court: ¶28-110). No additional fee is payable upon lodging an ART extension application.

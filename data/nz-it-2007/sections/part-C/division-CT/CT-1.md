@@ -8,7 +8,6 @@ section_title: Disposal of exploratory material or petroleum mining asset
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CT 1  Disposal of exploratory material or petroleum mining asset
 
 **Income: disposal of exploratory material**

@@ -5,7 +5,6 @@ section: "foreign-investment-approval-tax-conditions"
 title: "Foreign investment approval: tax conditions"
 paragraph: "¶22-002"
 ---
-
 # Foreign investment approval: tax conditions ¶22-002
 
 The Foreign Investment Review Board (FIRB) is a non-statutory body that advises the government on foreign investment policy and its administration. The Board examines proposals by foreign interests to undertake direct investment in Australia and makes recommendations to the government on whether the proposals are suitable for approval.

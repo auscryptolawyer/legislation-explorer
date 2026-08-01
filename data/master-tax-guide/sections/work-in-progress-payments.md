@@ -5,7 +5,6 @@ section: "work-in-progress-payments"
 title: "Work in progress payments"
 paragraph: "¶16-158"
 ---
-
 # Work in progress payments ¶16-158
 
 Payments made to acquire work in progress in the form of partly-manufactured goods would normally be treated as payments for trading stock (¶9-150).

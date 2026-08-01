@@ -5,7 +5,6 @@ section: "eﬀective-life-agriculture-forestry-and-ﬁshing"
 title: "Eﬀective life — agriculture, forestry and ﬁshing"
 paragraph: "¶43-010"
 ---
-
 # Eﬀective life — agriculture, forestry and ﬁshing ¶43-010
 
 (01110 to 05290) Asset                                                        Life (Years)            Reviewed        Date Of Application All terrain vehicles (ATVs) used in primary production activities                                                    5                          *    1 Jul 2007 Environmental control structures (including glasshouses, hothouses,                                                  20                         *    1 Jul 2006 germination rooms, plastic clad tunnels and igloos)

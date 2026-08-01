@@ -8,7 +8,6 @@ section_title: Cancellation of life insurer’s tax loss when allowed into polic
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IT 2  Cancellation of life insurer’s tax loss when allowed into policyholder base
 
 **What this section applies to**

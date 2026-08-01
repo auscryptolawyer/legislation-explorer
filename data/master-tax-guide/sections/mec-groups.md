@@ -5,7 +5,6 @@ section: "mec-groups"
 title: "MEC groups"
 paragraph: "¶8-610"
 ---
-
 # MEC groups ¶8-610
 
 Australian resident wholly-owned subsidiaries of a common foreign holding company may be able to form multiple entry consolidated (MEC) groups that would not qualify as consolidated groups under ITAA97 Div 701. The modiﬁed requirements for MEC groups are provided by ITAA97 Div 719. A MEC group generally comprises 2 or more wholly-owned ﬁrst tier Australian resident subsidiaries of a foreign resident ultimate parent company (“top company”), together with their wholly-owned lower tier Australian resident subsidiaries.

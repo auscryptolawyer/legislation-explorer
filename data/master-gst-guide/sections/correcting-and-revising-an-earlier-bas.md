@@ -5,7 +5,6 @@ section: "correcting-and-revising-an-earlier-bas"
 title: "Correcting and revising an earlier BAS"
 paragraph: "¶8-045"
 ---
-
 # Correcting and revising an earlier BAS ¶8-045
 
 In most instances (see below) where taxpayer discovers a GST error in a BAS, the adjustment can be made in a later BAS, rather than revising an earlier BAS (s 17-20). This correction mechanism is consistent with accounting software applications. This is beneficial for taxpayers, as it may enable them to avoid liability for general interest charge or administrative penalties (¶18-300). It is, however, important to ensure that the error being correctly is of a kind permitted to be corrected in a later lodgment. In some instances, more formal assessment, objection and review procedures, voluntary disclosures may be required (¶8-080). For example Simplot Australia Pty Ltd v FC of T [2023] FCA 115. Where penalties are imposed the ATO may allow penalty relief for inadvertent errors in Activity Statements made by small businesses (¶18-305).

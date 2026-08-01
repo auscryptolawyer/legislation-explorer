@@ -5,7 +5,6 @@ section: "requirement-3-in-course-of-enterprise"
 title: "Requirement 3: in course of “enterprise”"
 paragraph: "¶4-090"
 ---
-
 # Requirement 3: in course of “enterprise” ¶4-090
 
 The third requirement for a taxable supply (¶4-000) is that the supply is made “in the course or furtherance of an enterprise” that the supplier is carrying on (s 9-5).

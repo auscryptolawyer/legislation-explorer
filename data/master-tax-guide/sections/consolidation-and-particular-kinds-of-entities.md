@@ -5,7 +5,6 @@ section: "consolidation-and-particular-kinds-of-entities"
 title: "Consolidation and particular kinds of entities"
 paragraph: "¶8-550"
 ---
-
 # Consolidation and particular kinds of entities ¶8-550
 
 ITAA97 Div 713 contains rules for particular kinds of entities.

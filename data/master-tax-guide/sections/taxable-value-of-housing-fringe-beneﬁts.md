@@ -5,7 +5,6 @@ section: "taxable-value-of-housing-fringe-beneﬁts"
 title: "Taxable value of housing fringe beneﬁts"
 paragraph: "¶35-400"
 ---
-
 # Taxable value of housing fringe beneﬁts ¶35-400
 
 The valuation rules applying to a housing fringe beneﬁt depend on whether the accommodation is outside Australia, in a non-remote part of Australia (¶35-420) or in a remote area of Australia (¶35-430).

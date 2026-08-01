@@ -8,7 +8,6 @@ section_title: General rule: capacity of trustees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YA 5  General rule: capacity of trustees
 
 **Trustees acting in separate capacity**

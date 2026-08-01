@@ -5,7 +5,6 @@ section: "sample-tax-invoices"
 title: "Sample tax invoices"
 paragraph: "¶5-120"
 ---
-
 # Sample tax invoices ¶5-120
 
 The following sample tax invoices comply with the requirements outlined in ¶5-110. See further ATO Tax invoices webpage.

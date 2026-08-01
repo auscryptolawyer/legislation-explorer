@@ -5,7 +5,6 @@ section: "concluding-tax-periods"
 title: "Concluding tax periods"
 paragraph: "¶7-120"
 ---
-
 # Concluding tax periods ¶7-120
 
 - at the end of the day before you die, or the entity ceases to exist

@@ -8,7 +8,6 @@ section_title: Residence of natural persons
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 1  Residence of natural persons
 
 **What this section does**

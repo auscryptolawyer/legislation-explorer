@@ -5,7 +5,6 @@ section: "agents-for-non-residents"
 title: "Agents for non-residents"
 paragraph: "¶17-410"
 ---
-
 # Agents for non-residents ¶17-410
 
 In general, where a non-resident acts through an agent resident in Australia, the agent is responsible for the GST consequences of those actions. The reason for this is that it is easier for the ATO to enforce GST obligations against people who are inside Australia.

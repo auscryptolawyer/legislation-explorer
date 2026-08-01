@@ -8,7 +8,6 @@ section_title: Tax credits for multi-rate PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LS 1  Tax credits for multi-rate PIEs
 
 **Tax credit**

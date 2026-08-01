@@ -8,7 +8,6 @@ section_title: Preparing and reporting methods
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 15C  Preparing and reporting methods
 
 **Who this section applies to**

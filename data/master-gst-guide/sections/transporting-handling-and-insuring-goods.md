@@ -5,7 +5,6 @@ section: "transporting-handling-and-insuring-goods"
 title: "Transporting, handling and insuring goods"
 paragraph: "¶12-010"
 ---
-
 # Transporting, handling and insuring goods ¶12-010
 
 If goods are exported from Australia, the international transport of them to their destination overseas from their place of export is GST-free (s 38-355, item 5).

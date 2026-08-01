@@ -5,7 +5,6 @@ section: "10-160-consequences-of-breaching-benchmark-rule"
 title: "10-160 - Consequences of breaching benchmark rule"
 paragraph: "None"
 ---
-
 # 10-160 - Consequences of breaching benchmark rule
 
 Worked example: Consequences of breaching benchmark rule Issue Muddy Waters Ltd (Muddy Waters) is an Australian resident private company, with a corporate tax rate for imputation purposes for the 2024–25 income year of 30%. It pays a dividend on 1 July 2024 that is franked to 60%. On 1 September 2024, the company pays a dividend of $10,000 that is franked to 40%. On 1 March 2025, the company pays a dividend of $30,000 franked to 70%.

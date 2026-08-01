@@ -5,7 +5,6 @@ section: "commercial-debt-forgiveness"
 title: "Commercial debt forgiveness"
 paragraph: "¶16-910"
 ---
-
 # Commercial debt forgiveness ¶16-910
 
 The commercial debt forgiveness rules broadly apply where a creditor forgives a commercial debt owing by a debtor (ITAA97 Div 245). These special rules apply to remedy the eﬀective duplication of tax deductions that would otherwise arise from the forgiveness of commercial debt. Duplication could occur because, while a creditor may be entitled to a tax deduction or a capital loss when a debt is forgiven, the debtor, though relieved of the liability to repay the debt, is not assessed on any gain and could continue to claim deductions for accumulated revenue and capital losses and other undeducted expenditure. Division 245 treats the “net forgiven amount” of a commercial debt as having been used to generate the deductions that would otherwise be available to the debtor. Duplication of deductions is eliminated by applying the net forgiven amount to reduce the deductions in the following order: (1) deductible revenue losses (s 245-115) (2) deductible net capital losses of the income years before the forgiveness year (s 245-130) (3) a wide range of deductible expenditure, such as expenditure relating to depreciating assets, R&D, Australian ﬁlms and capital works (s 245-145). Special rules apply to the reduction of deductible expenditure (see below), and (4) the cost bases of certain CGT assets (ss 245-175 to 245-190).

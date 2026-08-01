@@ -5,7 +5,6 @@ section: "special-rules-for-life-insurance-companies"
 title: "Special rules for life insurance companies"
 paragraph: "¶4-760"
 ---
-
 # Special rules for life insurance companies ¶4-760
 
 Special imputation rules are required for life insurance companies, as the 2 distinct aspects of their business require diﬀerent treatment. Firstly, non-mutual life insurance companies operate a business for the beneﬁt of their shareholders. This aspect of the business should have similar outcomes to those for other companies.

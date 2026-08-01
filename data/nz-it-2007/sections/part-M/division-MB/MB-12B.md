@@ -8,7 +8,6 @@ section_title: Family scheme income from trusts, not being beneficiary income, a
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MB 12B  Family scheme income from trusts, not being beneficiary income, and where recipient not settlor
 
 **When this section applies**

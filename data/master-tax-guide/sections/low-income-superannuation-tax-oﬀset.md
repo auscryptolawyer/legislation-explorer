@@ -5,7 +5,6 @@ section: "low-income-superannuation-tax-oﬀset"
 title: "Low income superannuation tax oﬀset"
 paragraph: "¶13-765"
 ---
-
 # Low income superannuation tax oﬀset ¶13-765
 
 An individual who has an adjusted taxable income below $37,000 in a year may be entitled to a low income superannuation tax oﬀset (LISTO) for their concessional contributions which are made to a complying superannuation fund or RSA (Superannuation (Government Co-contribution for Low Income Earners) Act 2003, Pt 2A ss 12B to 12G).

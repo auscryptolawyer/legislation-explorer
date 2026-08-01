@@ -5,7 +5,6 @@ section: "how-much-to-withhold"
 title: "How much to withhold"
 paragraph: "¶26-130"
 ---
-
 # How much to withhold ¶26-130
 
 The amount required to be withheld from a withholding payment is worked out either under the withholding schedules or under the regulations (TAA sch 1 s 15-10). There is an exception in relation to a natural resource payment where the amount to be withheld is calculated under the Commissioner’s notice or certiﬁcate (¶26-270).

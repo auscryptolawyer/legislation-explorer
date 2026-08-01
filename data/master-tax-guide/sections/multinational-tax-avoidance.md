@@ -5,7 +5,6 @@ section: "multinational-tax-avoidance"
 title: "Multinational tax avoidance"
 paragraph: "¶30-200"
 ---
-
 # Multinational tax avoidance ¶30-200
 
 Section 177DA applies to artiﬁcial or contrived arrangements to avoid the attribution of business proﬁts to a taxable permanent establishment in Australia. Known as the multinational anti-avoidance law (MAAL), the measure applies to tax beneﬁts obtained on or after 1 January 2016 under both new and existing schemes if, in connection with a scheme, a non-resident entity:

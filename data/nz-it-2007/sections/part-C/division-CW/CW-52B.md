@@ -8,7 +8,6 @@ section_title: Disability support services
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 52B  Disability support services
 
 **Exempt income**

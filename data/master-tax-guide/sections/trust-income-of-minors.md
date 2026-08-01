@@ -5,7 +5,6 @@ section: "trust-income-of-minors"
 title: "Trust income of minors"
 paragraph: "¶2-210"
 ---
-
 # Trust income of minors ¶2-210
 
 If a beneﬁciary of a trust estate is a prescribed person (¶2-170), the special rules apply to so much of the beneﬁciary’s share of the net income as the Commissioner considers is attributable to assessable income of the trust estate that is not excepted trust income (ITAA36 s 102AG). “Excepted trust income” is so much of the assessable income of the trust estate as is income of a deceased estate, or income of the kinds covered by the exclusions noted at ¶2-180. However, business income is not treated as excepted trust income, nor is employment income unless the relevant services are rendered by the beneﬁciary.

@@ -8,7 +8,6 @@ section_title: Transfers of emissions units under certain excepted financial arr
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 17B  Transfers of emissions units under certain excepted financial arrangements
 
 A person is denied a deduction for an amount of expenditure that relates to the market value of an emissions unit and is incurred by a person in a transfer of the emissions unit under an arrangement that is an excepted financial arrangement under section EW 5(11C) (What is an excepted financial arrangement?).

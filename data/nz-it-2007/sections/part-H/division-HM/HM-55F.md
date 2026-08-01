@@ -8,7 +8,6 @@ section_title: Treatment of income attributed to notified foreign investors
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 55F  Treatment of income attributed to notified foreign investors
 
 **What this section does**

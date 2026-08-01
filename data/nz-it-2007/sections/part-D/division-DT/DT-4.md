@@ -8,7 +8,6 @@ section_title: Acquisition of exploratory material
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DT 4  Acquisition of exploratory material
 
 The consideration that a person pays to acquire exploratory material from a petroleum miner is treated as petroleum exploration expenditure incurred in the income year in which the petroleum miner disposes of the material to the person.

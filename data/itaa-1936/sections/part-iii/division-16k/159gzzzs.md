@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 159GZZZS Consideration in respect of on-market purchase
 
 Where a buy-back is an on-market purchase, then:

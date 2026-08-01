@@ -8,7 +8,6 @@ section_title: Valuation of emissions units issued for zero price
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ED 1B  Valuation of emissions units issued for zero price
 
 **What this section applies to**

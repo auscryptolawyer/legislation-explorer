@@ -5,7 +5,6 @@ section: "options-rights-swaps"
 title: "Options, rights, swaps"
 paragraph: "¶23-380"
 ---
-
 # Options, rights, swaps ¶23-380
 
 The following commentary is relevant to the taxation of gains and losses on options, rights and swaps held by certain entities where the TOFA regime in Div 230 (¶23-020) does not apply.

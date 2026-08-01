@@ -5,7 +5,6 @@ section: "connected-entities"
 title: "Connected entities"
 paragraph: "¶1-280"
 ---
-
 # Connected entities ¶1-280
 
 Any two entities are connected with each other if one controls the other, or both are controlled by the same third entity. Control may be direct or indirect (ITAA 1997 s 328-125).

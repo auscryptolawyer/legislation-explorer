@@ -5,7 +5,6 @@ section: "1-060-disaster-and-relief-payments"
 title: "1-060 - Disaster and relief payments"
 paragraph: "None"
 ---
-
 # 1-060 - Disaster and relief payments
 
 Worked example: Disaster and relief payments Issue Jasper Onyx operates the Speedy cleaning and courier business in the Hunter Valley. In November 2024, a bushfire caused major damage in and around the region and Speedy was closed until April 2025.

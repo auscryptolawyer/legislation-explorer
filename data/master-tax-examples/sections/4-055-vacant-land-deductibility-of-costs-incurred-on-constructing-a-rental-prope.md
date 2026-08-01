@@ -5,7 +5,6 @@ section: "4-055-vacant-land-deductibility-of-costs-incurred-on-constructing-a-re
 title: "4-055 - Vacant land deductibility of costs incurred on constructing a rental property"
 paragraph: "None"
 ---
-
 # 4-055 - Vacant land deductibility of costs incurred on constructing a rental property
 
 Worked example: Vacant land; deductibility of costs incurred on constructing a rental property Issue Richard purchased a residential block of land in July 2023. He took out a mortgage which resulted in him incurring borrowing costs and interest with respect to the purchase of the land. Richard’s intention is to build a residential rental property on the land and, to help facilitate that, he took out a second loan to fund the construction of the house. As at 30 June 2025, the house is only partially complete with the frame completed but all internal work still outstanding. Richard does not carry on a business.

@@ -8,7 +8,6 @@ section_title: Amount paid for non-compliance: when lessor ceases to own land
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EI 6  Amount paid for non-compliance: when lessor ceases to own land
 
 **When this section applies**

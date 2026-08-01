@@ -5,7 +5,6 @@ section: "life-policies-of-partners"
 title: "Life policies of partners"
 paragraph: "¶5-140"
 ---
-
 # Life policies of partners ¶5-140
 
 In accordance with general principles (¶16-550 – ¶16-570), premiums paid by a partnership for life insurance policies on the lives of the partners are not deductible for the purposes of calculating the net partnership income or partnership loss. A partner, however, may claim a deduction for insurance premiums where the proceeds of the policy would be assessable, ie where the purpose of the insurance is to ﬁll the place of a revenue item (IT 155; IT 2503). This would presumably apply where a partner takes out a policy to insure against the sickness or disability of one or more co-partners.

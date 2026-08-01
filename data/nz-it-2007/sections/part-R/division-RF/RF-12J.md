@@ -8,7 +8,6 @@ section_title: Treatment of certain payments made under indirect associated fund
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 12J  Treatment of certain payments made under indirect associated funding arrangements
 
 **Payments made under funding arrangements**

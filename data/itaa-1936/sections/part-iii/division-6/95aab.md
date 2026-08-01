@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 95AAB Adjustments under Subdivision 115-C or 207-B of the Income Tax Assessment Act 1997—references in this Act to assessable income under section 97, 98A or 100
 
 <a id="s95AAB-1"></a>

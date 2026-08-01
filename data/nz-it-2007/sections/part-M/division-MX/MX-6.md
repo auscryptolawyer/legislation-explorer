@@ -8,7 +8,6 @@ section_title: Deduction if increase in basic tax rate for company
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MX 6  Deduction if increase in basic tax rate for company
 
 **When this section applies**

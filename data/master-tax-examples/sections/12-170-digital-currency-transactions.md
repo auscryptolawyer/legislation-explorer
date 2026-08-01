@@ -5,7 +5,6 @@ section: "12-170-digital-currency-transactions"
 title: "12-170 - Digital currency transactions"
 paragraph: "None"
 ---
-
 # 12-170 - Digital currency transactions
 
 Worked example: Digital currency transactions Issue Robert owns a digital marketing agency and is registered for GST. He has just signed a contract to provide marketing services to Galaxy4 (a social media start-up) for a GST-inclusive price of $77,000. Galaxy4 is registered for GST.

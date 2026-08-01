@@ -5,7 +5,6 @@ section: "application-to-own-use"
 title: "Application to own use"
 paragraph: "¶22-170"
 ---
-
 # Application to own use ¶22-170
 
 “Applications to own use” (AOUs) are the third category of assessable dealings that may attract WET. There are four types of AOU that are assessable dealings:

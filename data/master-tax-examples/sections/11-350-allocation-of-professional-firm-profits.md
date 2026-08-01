@@ -5,7 +5,6 @@ section: "11-350-allocation-of-professional-firm-profits"
 title: "11-350 - Allocation of professional firm profits"
 paragraph: "None"
 ---
-
 # 11-350 - Allocation of professional firm profits
 
 Worked example: Allocation of professional firm profits Issue Max Wall is an individual professional practitioner in a medical practice partnership. Max is the senior partner in a partnership of 3. Max has disposed of 40% of his interest in the partnership to a discretionary trust for open market value, with a view to protecting his assets in the future. The beneficiary of the discretionary trust is an associated company, Redfern Ltd, of which Max is a director and the main shareholder is his wife, Mary.

@@ -8,7 +8,6 @@ section_title: ICA debit for transfer from tax pooling account for policyholder 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 35B  ICA debit for transfer from tax pooling account for policyholder base liability
 
 **Debit**

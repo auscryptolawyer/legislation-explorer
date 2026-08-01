@@ -5,7 +5,6 @@ section: "exempt-entities-general-rules"
 title: "Exempt entities: general rules"
 paragraph: "¶10-604"
 ---
-
 # Exempt entities: general rules ¶10-604
 
 The deﬁnition of “exempt entity” includes an entity whose whole ordinary and statutory income is exempt from income tax under ITAA97 or any other Commonwealth law, and all untaxable Commonwealth entities.

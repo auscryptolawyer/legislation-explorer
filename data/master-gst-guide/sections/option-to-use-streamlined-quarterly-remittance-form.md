@@ -5,7 +5,6 @@ section: "option-to-use-streamlined-quarterly-remittance-form"
 title: "Option to use streamlined quarterly remittance form"
 paragraph: "¶8-036"
 ---
-
 # Option to use streamlined quarterly remittance form ¶8-036
 
 Quarterly taxpayers have the option — referred to as Option 2 — of making their GST payments on the basis of a “simple remittance form” and lodging a more detailed annual information report.

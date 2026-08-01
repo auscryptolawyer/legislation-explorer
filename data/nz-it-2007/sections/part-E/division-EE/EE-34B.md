@@ -8,7 +8,6 @@ section_title: Annual rate for design registrations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EE 34B  Annual rate for design registrations
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Amalgamated companies: amount derived after amalgamation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CV 4  Amalgamated companies: amount derived after amalgamation
 
 **When this section applies**

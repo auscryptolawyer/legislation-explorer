@@ -8,7 +8,6 @@ section_title: Disposal of trading stock
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HB 6  Disposal of trading stock
 
 **When this section applies**

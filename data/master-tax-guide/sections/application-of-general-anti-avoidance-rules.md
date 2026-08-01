@@ -5,7 +5,6 @@ section: "application-of-general-anti-avoidance-rules"
 title: "Application of general anti-avoidance rules"
 paragraph: "¶30-690"
 ---
-
 # Application of general anti-avoidance rules ¶30-690
 
 The personal services income (PSI) regime was enacted partly because of the perceived inadequacies of the general anti-avoidance provisions (ITAA36 Pt IVA) in dealing with diverted income on a case-by-case basis. However, it does not take the place of Pt IVA. For example, even if a taxpayer is exempted from the PSI regime because it is carrying on a personal services business, Pt IVA is still potentially applicable.

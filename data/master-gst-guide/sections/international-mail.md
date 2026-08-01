@@ -5,7 +5,6 @@ section: "international-mail"
 title: "International mail"
 paragraph: "¶12-050"
 ---
-
 # International mail ¶12-050
 
 Australia Post issues special postage stamps specifically for overseas mail in order to take advantage of the exemption for exports. If these stamps are used for overseas mail, no GST applies.

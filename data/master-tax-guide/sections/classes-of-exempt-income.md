@@ -5,7 +5,6 @@ section: "classes-of-exempt-income"
 title: "Classes of exempt income"
 paragraph: "¶10-600"
 ---
-
 # Classes of exempt income ¶10-600
 
 (1) income of particular entities that are exempt from income tax (¶10-604 and following), no matter what kind of ordinary or statutory income they have (see the listing in s 11-5) (2) income of a particular type that is exempt, including income that is exempt only if it is derived by certain entities (see the listing in s 11-15).

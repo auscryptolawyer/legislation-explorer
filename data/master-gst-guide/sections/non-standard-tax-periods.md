@@ -5,7 +5,6 @@ section: "non-standard-tax-periods"
 title: "Non-standard tax periods"
 paragraph: "¶7-105"
 ---
-
 # Non-standard tax periods ¶7-105
 
 In certain circumstances tax periods may be modified to accommodate commercial accounting practice. “Non-calendar” monthly tax periods The compulsory calendar month tax periods may be modified for businesses that do not use calendar months for commercial accounting purposes. Such entities that have GST turnovers of at least $20m, can apply to the ATO to have tax periods that reflect their management accounting practice (s 27-37). For example, this may be appropriate if the entity uses 13 four-weekly accounting periods, or 12 accounting periods, with some of four weeks and others of five weeks. Approval will be withdrawn if the entity subsequently fails to satisfy any of the preconditions (s 27-38).

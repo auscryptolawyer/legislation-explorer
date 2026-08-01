@@ -5,7 +5,6 @@ section: "general-relief-from-double-taxation"
 title: "General relief from double taxation"
 paragraph: "¶11-690"
 ---
-
 # General relief from double taxation ¶11-690
 
 A capital gain is reduced if, because of the CGT event giving rise to it, a tax provision (other than a CGT provision) includes an amount in the taxpayer’s assessable income (including an ETP) or exempt income or, if the taxpayer is a partner in a partnership, in the assessable or exempt income of the partnership (s 118-20). Any capital gain that a non-participating shareholder makes from the receipt of a retail premium is reduced to the extent that the amount is otherwise included in assessable income or is non-assessable non-exempt income (TR 2012/1). A capital gain is also reduced if an amount is speciﬁcally treated as being neither assessable nor exempt, eg ITAA36 s 121EG, which deals with oﬀshore banking units (¶21-080). The capital gain is reduced to zero if it is not more than the assessable amount included in the taxpayer’s income because of the non-CGT provision. However, a capital gain cannot be reduced below nil so as to create a capital loss. If the capital gain is more than that assessable amount, it is reduced by that assessable amount.

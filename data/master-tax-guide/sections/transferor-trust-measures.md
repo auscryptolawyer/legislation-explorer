@@ -5,7 +5,6 @@ section: "transferor-trust-measures"
 title: "Transferor trust measures"
 paragraph: "¶21-300"
 ---
-
 # Transferor trust measures ¶21-300
 
 An entity that is an attributable taxpayer in relation to a non-resident trust estate and is resident in Australia during all or part of the taxpayer’s year of income may have the attributable income of the trust estate included in its assessable income. An entity will be subject to attribution if it:

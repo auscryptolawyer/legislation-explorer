@@ -5,7 +5,6 @@ section: "transfer-pricing-records-penalties-and-thresholds"
 title: "Transfer pricing records, penalties and thresholds"
 paragraph: "¶22-630"
 ---
-
 # Transfer pricing records, penalties and thresholds ¶22-630
 
 If an entity becomes liable for additional tax as a result of the Commissioner amending its assessment to give eﬀect to the transfer pricing provisions, the entity also becomes liable for an administrative penalty.

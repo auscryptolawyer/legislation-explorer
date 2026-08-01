@@ -5,7 +5,6 @@ section: "constitutional-basis-of-federal-income-tax"
 title: "Constitutional basis of federal income tax"
 paragraph: "¶1-020"
 ---
-
 # Constitutional basis of federal income tax ¶1-020
 
 The Commonwealth Parliament derives its power to enact income tax legislation from the Constitution; at the same time, the Constitution imposes restrictions on this legislative power. The empowering provision is s 51(ii) by which the parliament has, subject to the Constitution, “power to make laws for the peace, order, and good government of the Commonwealth with respect to … taxation; but so as not to discriminate between States or parts of States”. Other relevant provisions in the Constitution are ss 53, 55, 99, 114 and 117.

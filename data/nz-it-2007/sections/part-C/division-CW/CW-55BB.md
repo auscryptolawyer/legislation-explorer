@@ -8,7 +8,6 @@ section_title: Minors’ income, to limited extent
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 55BB  Minors’ income, to limited extent
 
 **When this section applies**

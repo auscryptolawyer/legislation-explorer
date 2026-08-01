@@ -5,7 +5,6 @@ section: "deductions-for-repairs"
 title: "Deductions for repairs"
 paragraph: "¶16-700"
 ---
-
 # Deductions for repairs ¶16-700
 
 Non-capital expenditure incurred on repairs to plant or to premises held or used for the production of assessable income is speciﬁcally made deductible under ITAA97 s 25-10. There is no requirement for the taxpayer to own the property or item that is repaired. A lessee who repairs the leased property may therefore be entitled to a deduction. However, repairs actually made by a lessor are deductible to the lessor, even where the lease requires the lessee to make the repairs.

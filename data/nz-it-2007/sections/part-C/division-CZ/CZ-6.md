@@ -8,7 +8,6 @@ section_title: Commercial bills before 31 July 1986
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 6  Commercial bills before 31 July 1986
 
 **Income: redemption**

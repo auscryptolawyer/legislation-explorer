@@ -8,7 +8,6 @@ section_title: Available capital distribution amount: 1965 and 1985–1992
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 9  Available capital distribution amount: 1965 and 1985–1992
 
 **Section CD 44(7)﻿(e)**

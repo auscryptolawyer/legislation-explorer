@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8AAE  When the charge is due and payable
 
 The general interest charge for a day is due and payable to the Commissioner at the end of that day.

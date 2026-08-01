@@ -5,7 +5,6 @@ section: "carrying-on-a-primary-production-business"
 title: "Carrying on a primary production business"
 paragraph: "¶18-020"
 ---
-
 # Carrying on a primary production business ¶18-020
 
 Whether or not a taxpayer’s activities amount to carrying on a business of primary production is “a question of fact and degree” — this is judicial code for “often it’s very hard to tell”. A person can obtain a private ruling on “ultimate conclusions of fact” such as on the question of whether a business is being carried on (TR 2006/11). Relevant indicators of a primary production business include:

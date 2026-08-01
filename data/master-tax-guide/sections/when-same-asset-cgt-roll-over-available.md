@@ -5,7 +5,6 @@ section: "when-same-asset-cgt-roll-over-available"
 title: "When same-asset CGT roll-over available"
 paragraph: "¶12-450"
 ---
-
 # When same-asset CGT roll-over available ¶12-450
 
 A same-asset roll-over allows a taxpayer to ignore the making of a capital gain or loss from a CGT event.

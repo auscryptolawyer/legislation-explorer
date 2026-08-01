@@ -8,7 +8,6 @@ section_title: Foreign ASAPs: designated FX hedges
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 33B  Foreign ASAPs: designated FX hedges
 
 **When this section applies**

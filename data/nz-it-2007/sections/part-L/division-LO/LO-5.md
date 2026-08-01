@@ -8,7 +8,6 @@ section_title: Evidential requirements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LO 5  Evidential requirements
 
 If a person who has a tax credit under section LO 1 does not meet the evidential requirements of section 78D of the Tax Administration Act 1994, the person’s credit may be reduced.

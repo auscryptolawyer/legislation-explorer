@@ -8,7 +8,6 @@ section_title: Foreign-sourced interest
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 7  Foreign-sourced interest
 
 Interest that a person derives from a country or territory outside New Zealand is exempt income if—

@@ -5,7 +5,6 @@ section: "fbt-annual-returns-and-assessments"
 title: "FBT annual returns and assessments"
 paragraph: "¶35-030"
 ---
-
 # FBT annual returns and assessments ¶35-030
 
 FBT is collected via a self-assessment system. Each year an employer who has provided fringe beneﬁts to its employees is required to: (1) obtain declarations and make elections

@@ -8,7 +8,6 @@ section_title: When FIF loss arises
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DN 6  When FIF loss arises
 
 **General rule**

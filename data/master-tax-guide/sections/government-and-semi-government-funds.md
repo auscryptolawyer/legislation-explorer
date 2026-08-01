@@ -5,7 +5,6 @@ section: "government-and-semi-government-funds"
 title: "Government and semi-government funds"
 paragraph: "¶13-300"
 ---
-
 # Government and semi-government funds ¶13-300
 
 Superannuation funds for the beneﬁt of employees of the Commonwealth, state and territory governments or of a government and semi-government authority (ie public sector funds or schemes) have been subject to tax since 1 July 1988 (ITAA97 s 295-1).

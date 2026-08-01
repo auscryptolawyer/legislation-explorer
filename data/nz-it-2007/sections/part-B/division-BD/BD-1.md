@@ -8,7 +8,6 @@ section_title: Income, exempt income, excluded income, non-residents’ foreign-
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BD 1  Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income
 
 **Amounts of income**

@@ -5,7 +5,6 @@ section: "attributing-bad-debt-adjustments-to-tax-periods"
 title: "Attributing bad debt adjustments to tax periods"
 paragraph: "¶6-205"
 ---
-
 # Attributing bad debt adjustments to tax periods ¶6-205
 
 An adjustment is generally attributed to the tax period in which the taxpayer becomes aware of it (¶6-000).

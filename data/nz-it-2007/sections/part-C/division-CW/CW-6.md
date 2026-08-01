@@ -8,7 +8,6 @@ section_title: Payments of interest: farm mortgages
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 6  Payments of interest: farm mortgages
 
 **Exempt income**

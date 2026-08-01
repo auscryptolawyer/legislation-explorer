@@ -8,7 +8,6 @@ section_title: Disposal of mineral mining assets
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CU 3  Disposal of mineral mining assets
 
 **Income**

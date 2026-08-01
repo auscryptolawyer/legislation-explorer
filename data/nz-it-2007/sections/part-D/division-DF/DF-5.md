@@ -8,7 +8,6 @@ section_title: Government funding additional to government screen production pay
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DF 5  Government funding additional to government screen production payments
 
 **When this section applies**

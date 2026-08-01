@@ -5,7 +5,6 @@ section: "luxury-cars"
 title: "Luxury cars"
 paragraph: "¶23-100"
 ---
-
 # Luxury cars ¶23-100
 
 A luxury car is a car whose value exceeds the luxury car tax (LCT) threshold (¶23-150), and does not fall within any of the exemptions (LCT Act s 25-1).

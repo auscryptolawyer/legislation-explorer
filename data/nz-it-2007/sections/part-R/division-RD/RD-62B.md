@@ -8,7 +8,6 @@ section_title: Obligations of cross-border employees when FBT liability not paid
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 62B  Obligations of cross-border employees when FBT liability not paid
 
 **When this section applies**

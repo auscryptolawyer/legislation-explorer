@@ -5,7 +5,6 @@ section: "8-080-cgt-admitting-a-new-partner"
 title: "8-080 - CGT admitting a new partner"
 paragraph: "None"
 ---
-
 # 8-080 - CGT admitting a new partner
 
 Worked example: CGT; admitting a new partner Issue Ellen Wong and Madeline Smith form a partnership in which they are equal partners. The partnership acquired business premises to run its business on 1 July 2009 for $306,000. The current market value of the property is $500,000. Ellen and Madeline are considering admitting a third and equal partner, Arron Welsh, into the partnership. Arron is willing to contribute an asset valued at $300,000 into the partnership.

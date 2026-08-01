@@ -5,7 +5,6 @@ section: "charities-and-non-profit-organisations"
 title: "Charities and non-profit organisations"
 paragraph: "¶25-110"
 ---
-
 # Charities and non-profit organisations ¶25-110
 
 - Sales by charities are GST-free if they are below specified percentages of market value (¶15-010).

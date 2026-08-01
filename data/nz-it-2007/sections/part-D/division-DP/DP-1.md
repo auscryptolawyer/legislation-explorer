@@ -8,7 +8,6 @@ section_title: Expenditure of forestry business
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DP 1  Expenditure of forestry business
 
 **Deduction**

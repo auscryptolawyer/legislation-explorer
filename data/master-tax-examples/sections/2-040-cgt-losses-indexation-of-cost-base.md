@@ -5,7 +5,6 @@ section: "2-040-cgt-losses-indexation-of-cost-base"
 title: "2-040 - CGT losses indexation of cost base"
 paragraph: "None"
 ---
-
 # 2-040 - CGT losses indexation of cost base
 
 Worked example: CGT losses; indexation of cost base Issue On 1 April 1997, Brenda and Derek Watson, both Australian residents, sold the real estate investment they had purchased in 1965 for $2 million. The couple split the proceeds 50-50 and, on 11 November 1997, they both invested the proceeds in share portfolios as follows: Share acquisitions by both Brenda and Derek Watson Company                                        Number of shares                              Share price                   Investment $                           $ Mega Mining Ltd                                        125,000                                      4                        500,000 Global Media Ltd                                        62,500                                      8                        500,000 Brenda acquired the shares in her own name whereas Derek had his company, Derek Watson Investments Pty Ltd, acquire his share portfolio.

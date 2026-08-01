@@ -5,7 +5,6 @@ section: "special-rules-for-commission-based-agents"
 title: "Special rules for commission-based agents"
 paragraph: "¶30-675"
 ---
-
 # Special rules for commission-based agents ¶30-675
 
 Special rules apply to certain commission-based agents (ITAA97 s 87-40). These rules are intended to make it easier for agents who bear entrepreneurial risk to show that they are carrying on a personal services business (PSB).

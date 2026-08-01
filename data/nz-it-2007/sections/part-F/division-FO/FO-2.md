@@ -8,7 +8,6 @@ section_title: Amalgamation rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FO 2  Amalgamation rules
 
 The amalgamation rules means the following:

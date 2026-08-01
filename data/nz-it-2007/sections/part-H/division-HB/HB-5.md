@@ -8,7 +8,6 @@ section_title: Disposal of owner’s interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HB 5  Disposal of owner’s interests
 
 **When this section applies**

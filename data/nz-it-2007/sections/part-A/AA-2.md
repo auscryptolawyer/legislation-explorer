@@ -8,7 +8,6 @@ section_title: Interpretation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # AA 2  Interpretation
 
 **Aids to interpretation**

@@ -5,7 +5,6 @@ section: "adult-and-community-education-courses"
 title: "Adult and community education courses"
 paragraph: "¶14-015"
 ---
-
 # Adult and community education courses ¶14-015
 
 Adult and community education (ACE) courses are GST-free (s 38-85), provided they are likely to add to the employment-related skills of people undertaking the course (s 195-1). In addition, the following conditions must be satisfied:

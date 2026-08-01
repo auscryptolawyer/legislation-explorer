@@ -8,7 +8,6 @@ section_title: Settlor and beneficiary
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YB 9  Settlor and beneficiary
 
 **Association**

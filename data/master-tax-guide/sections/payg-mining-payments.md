@@ -5,7 +5,6 @@ section: "payg-mining-payments"
 title: "PAYG: mining payments"
 paragraph: "¶26-270"
 ---
-
 # PAYG: mining payments ¶26-270
 
 Mining payments in respect of Aboriginal land An entity that makes a mining payment to another entity, or that applies a mining payment for the beneﬁt of another entity, must withhold an amount (TAA sch 1 s 12-320). A “mining payment” is a payment made in consideration for the issuing or renewing of mining rights on Aboriginal land or by way of mineral royalties in respect of mining on Aboriginal land. The payer is not required to withhold more than the mining withholding tax payable in respect of the payment (¶19-000) and therefore no amount is to be withheld if no mining withholding tax is payable. The amount to be withheld from the mining payment should be calculated on a GST inclusive basis (ID 2010/115).

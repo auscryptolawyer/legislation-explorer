@@ -5,7 +5,6 @@ section: "exemption-for-personal-services-business"
 title: "Exemption for personal services business"
 paragraph: "¶30-660"
 ---
-
 # Exemption for personal services business ¶30-660
 
 Income from the conduct of a genuine personal services business (PSB) is exempt from the personal services income (PSI) regime.

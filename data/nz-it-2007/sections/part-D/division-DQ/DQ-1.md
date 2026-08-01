@@ -8,7 +8,6 @@ section_title: Main income equalisation scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DQ 1  Main income equalisation scheme
 
 **Deduction**

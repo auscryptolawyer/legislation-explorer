@@ -5,7 +5,6 @@ section: "eﬀect-of-exceeding-the-deﬁned-beneﬁt-income-cap"
 title: "Eﬀect of exceeding the deﬁned beneﬁt income cap"
 paragraph: "¶14-370"
 ---
-
 # Eﬀect of exceeding the deﬁned beneﬁt income cap ¶14-370
 
 The transfer balance cap regime applies to limit the amount that an individual can have in retirement phase income streams, and therefore limit the income that can be exempt current pension income. The ATO maintains a transfer balance account for each individual to monitor the amount of their retirement phase income streams. If an individual’s transfer balance account exceeds the transfer balance cap in a ﬁnancial year, the excess amount must be commuted to a lump sum and the individual is liable to pay excess transfer balance tax (¶14-320 – ¶14-360).

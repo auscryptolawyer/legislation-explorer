@@ -8,7 +8,6 @@ section_title: Arrangements involving qualifying companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 6  Arrangements involving qualifying companies
 
 **When this section applies**

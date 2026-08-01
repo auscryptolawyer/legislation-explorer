@@ -5,7 +5,6 @@ section: "oﬀences"
 title: "oﬀences"
 paragraph: "¶29-710"
 ---
-
 # oﬀences ¶29-710
 
 Any person who is concerned in or takes part in the management of a company is liable to be prosecuted for a tax oﬀence committed by the company as if that person had committed the oﬀence personally (TAA s 8Y).

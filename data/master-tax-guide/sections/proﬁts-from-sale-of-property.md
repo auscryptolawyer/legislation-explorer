@@ -5,7 +5,6 @@ section: "proﬁts-from-sale-of-property"
 title: "Proﬁts from sale of property"
 paragraph: "¶10-340"
 ---
-
 # Proﬁts from sale of property ¶10-340
 
 The question of when an isolated transaction or venture produces assessable income has always given rise to diﬃculties. In addition to general concepts of what constitutes ordinary income (¶10-010), there are a number of speciﬁc provisions that are relevant, including the CGT provisions.

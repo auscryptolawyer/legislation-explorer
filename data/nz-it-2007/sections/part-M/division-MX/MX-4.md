@@ -8,7 +8,6 @@ section_title: R&D loss tax credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MX 4  R&D loss tax credits
 
 **Amount of tax credit**

@@ -5,7 +5,6 @@ section: "methods-used-to-work-out-the-cost-of-trading-stock"
 title: "Methods used to work out the cost of trading stock"
 paragraph: "¶9-200"
 ---
-
 # Methods used to work out the cost of trading stock ¶9-200
 
 It is often impossible or impracticable for the actual cost of each item of trading stock on hand to be ascertained, particularly where there have been a number of purchases of trading stock at varying prices and part, but not the whole, of the purchases remains as trading stock on hand at the end of the year. In such circumstances the following methods, that consistently produce a valuation reasonably approximating full absorption cost, are acceptable for the purpose of valuing trading stock on hand at year end: FIFO (first-in-first-out).

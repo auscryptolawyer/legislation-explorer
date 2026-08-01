@@ -8,7 +8,6 @@ section_title: Business of dealing in personal property
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 5  Business of dealing in personal property
 
 An amount that a person derives from disposing of personal property is income of the person if their business is to deal in property of that kind.

@@ -8,7 +8,6 @@ section_title: Non-residents providing use of aircraft in New Zealand
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 56B  Non-residents providing use of aircraft in New Zealand
 
 An amount of income derived by a non-resident from providing the use of, or right to use, in New Zealand, an aircraft or parts of an aircraft under a dry lease is exempt income.

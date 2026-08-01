@@ -5,7 +5,6 @@ section: "salary-packaging-and-salary-sacriﬁce-arrangements"
 title: "Salary packaging and salary sacriﬁce arrangements"
 paragraph: "¶35-057"
 ---
-
 # Salary packaging and salary sacriﬁce arrangements ¶35-057
 
 “Salary packaging” is the structuring of an employee’s total remuneration so that it provides the most value to the employee in relation to its cost to the employer. Two common ways of structuring a salary package are: (1) on a gross salary plus beneﬁts basis, eg the package might be expressed as $80,000 salary, plus compulsory superannuation and a fully-maintained car of a certain class, and (2) on a total remuneration cost basis, eg the package may be expressed in terms of the total cost to the employer, being $130,000. The employee can select a mix of salary and permitted beneﬁts so that the total cost to the employer, including FBT on the beneﬁts, is $130,000.

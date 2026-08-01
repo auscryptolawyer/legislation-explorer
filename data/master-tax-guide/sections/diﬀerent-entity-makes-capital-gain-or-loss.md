@@ -5,7 +5,6 @@ section: "diﬀerent-entity-makes-capital-gain-or-loss"
 title: "Diﬀerent entity makes capital gain or loss"
 paragraph: "¶11-210"
 ---
-
 # Diﬀerent entity makes capital gain or loss ¶11-210
 
 There are special rules which apply to ensure that the CGT provisions look through certain nominee owners to the underlying owners of the CGT asset. The provisions apply to bankrupt individuals, companies in liquidation, absolutely entitled beneﬁciaries, security providers, instalment warrants and similar arrangements.

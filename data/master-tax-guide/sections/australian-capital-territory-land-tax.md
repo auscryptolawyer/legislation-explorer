@@ -5,7 +5,6 @@ section: "australian-capital-territory-land-tax"
 title: "Australian Capital Territory land tax"
 paragraph: "¶38-070"
 ---
-
 # Australian Capital Territory land tax ¶38-070
 
 Provisions governing the imposition and calculation of liability to land tax in the Australian Capital Territory are contained in the Land Tax Act 2004. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 1999.

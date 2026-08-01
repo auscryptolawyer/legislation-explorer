@@ -5,7 +5,6 @@ section: "eﬀective-life-accommodation-and-food-services"
 title: "Eﬀective life — accommodation and food services"
 paragraph: "¶43-045"
 ---
-
 # Eﬀective life — accommodation and food services ¶43-045
 
 (44000 to 45302) Asset                                                      Life (Years)           Reviewed      Date Of Application

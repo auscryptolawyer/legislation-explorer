@@ -5,7 +5,6 @@ section: "discounted-and-deferred-interest-securities"
 title: "Discounted and deferred interest securities"
 paragraph: "¶23-320"
 ---
-
 # Discounted and deferred interest securities ¶23-320
 
 Discounted and deferred securities which are “qualifying securities” are now subject to taxation under the TOFA regime in Div 230 (¶23-020). A qualifying security is a security whose term at the time of issue will, or is reasonably likely to, exceed one year and is reasonably likely to result in the sum of the payments (excluding periodic interest) exceeding the issue price. For a ﬁxed return security, this excess is greater than 1.5% of the sum of the payments multiplied by the number of years in the term of the security.

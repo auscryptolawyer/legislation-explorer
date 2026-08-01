@@ -5,7 +5,6 @@ section: "basic-conditions-for-cgt-small-business-relief"
 title: "Basic conditions for CGT small business relief"
 paragraph: "¶7-120"
 ---
-
 # Basic conditions for CGT small business relief ¶7-120
 
 The basic conditions that must be satisﬁed by a taxpayer to be eligible for CGT small business relief are: (1) a CGT event happens in relation to an asset that the taxpayer owns (2) the event would otherwise have resulted in a capital gain (3) one or more of the following applies:

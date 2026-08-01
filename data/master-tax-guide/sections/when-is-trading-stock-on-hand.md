@@ -5,7 +5,6 @@ section: "when-is-trading-stock-on-hand"
 title: "When is trading stock on hand?"
 paragraph: "¶9-170"
 ---
-
 # When is trading stock on hand? ¶9-170
 
 As noted in ¶9-160, while the cost of acquiring trading stock is deductible under the general deduction provision (ITAA97 s 8-1), the deduction is not allowable until the stock is actually on hand, or until an amount has been included in the taxpayer’s assessable income in connection with the disposal of the item (ITAA97 s 70-15; TD 93/138). This deferral provision does not apply to expenditure incurred in bringing trading stock into existence through manufacturing or production by the taxpayer, except where it relates to the acquisition of inputs to the manufacturing or production processes that are themselves trading stock (TR 93/9; ¶9-150).

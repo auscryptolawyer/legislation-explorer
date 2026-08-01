@@ -8,7 +8,6 @@ section_title: ICA transfer from group company to loss-using group company
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 46B  ICA transfer from group company to loss-using group company
 
 **Debit**

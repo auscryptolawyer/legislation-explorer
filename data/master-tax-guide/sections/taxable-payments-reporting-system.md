@@ -5,7 +5,6 @@ section: "taxable-payments-reporting-system"
 title: "Taxable payments reporting system"
 paragraph: "¶33-200"
 ---
-
 # Taxable payments reporting system ¶33-200
 
 A transaction, ABN and identiﬁcation veriﬁcation system, contained in TAA sch 1 Pt 5-30 (Div 400 to 425), applies to payments for supplies that are speciﬁed in regulations, known as the taxable payments reporting system (TPRS).

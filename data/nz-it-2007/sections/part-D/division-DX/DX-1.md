@@ -8,7 +8,6 @@ section_title: Testamentary annuities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DX 1  Testamentary annuities
 
 **When this section applies**

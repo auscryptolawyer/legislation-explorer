@@ -5,7 +5,6 @@ section: "emissions-units"
 title: "Emissions units"
 paragraph: "¶19-130"
 ---
-
 # Emissions units ¶19-130
 
 Division 420 ITAA97 governs the income tax treatment of acquiring, holding and surrendering emissions units. Emissions units include Australian carbon credit units (ACCUs), Kyoto units and safeguard mechanism credit units (ITAA97 s 420-10). Together with other provisions, for holders of registered emissions units:

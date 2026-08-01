@@ -5,7 +5,6 @@ section: "3-050-exempt-car-benefits-and-exempt-residual-benefits-minor-private-u
 title: "3-050 - Exempt car benefits and exempt residual benefits minor private use of cars"
 paragraph: "None"
 ---
-
 # 3-050 - Exempt car benefits and exempt residual benefits minor private use of cars
 
 Worked example: Exempt car benefits and exempt residual benefits: minor private use of cars Issue Meglos Pty Ltd provides an employee, Tom, with a new utility vehicle designed to carry a load of less than one tonne. The ute is provided to Tom so that he can carry bulky tools and equipment to and from work sites. The ute is not provided as part of a salary packaging arrangement, and it was acquired for a value below the applicable luxury car tax threshold.

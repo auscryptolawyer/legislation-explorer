@@ -5,7 +5,6 @@ section: "acceptance-of-contributions-and-beneﬁt-accruals"
 title: "Acceptance of contributions and beneﬁt accruals"
 paragraph: "¶13-925"
 ---
-
 # Acceptance of contributions and beneﬁt accruals ¶13-925
 
 The rules governing whether a regulated superannuation fund can accept contributions, or grant beneﬁt accruals in the case of deﬁned beneﬁt funds, are set out in Pt 7 of SISR (regs 7.01–7.11). Broadly similar contributions rules apply to RSA providers (RSAR reg 5.03).

@@ -5,7 +5,6 @@ section: "luxury-car-leases"
 title: "Luxury car leases"
 paragraph: "¶17-220"
 ---
-
 # Luxury car leases ¶17-220
 
 Luxury car leases (including subleases), other than genuine short-term hire arrangements and hire purchase agreements, are treated as sale (by the lessor to the lessee) and loan transactions. The lessee (and not the lessor) is treated as the owner of the car until the lease ends or the lessee enters a sublease (ITAA97 Div 242; ¶17-020). This treatment applies where the cost of a car (whether new or secondhand) is more than the car limit applying for the ﬁnancial year in which the lease commenced, ensuring that the limit applies equally to leased luxury cars and purchased or otherwise ﬁnanced cars.

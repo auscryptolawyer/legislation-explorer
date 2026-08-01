@@ -5,7 +5,6 @@ section: "lodging-an-objection"
 title: "Lodging an objection"
 paragraph: "¶28-010"
 ---
-
 # Lodging an objection ¶28-010
 
 Where a taxpayer has taxable income, there is tax payable (¶25-100) and a notice of assessment has been served (¶25-110), a right of objection will accrue against the assessment. There is no right of objection where the taxpayer has no taxable income or there is taxable income but no tax is payable, unless the taxpayer is seeking an increase in the taxpayer’s liability or the total of the taxpayer’s tax oﬀset refunds (ITAA36 s 175A).

@@ -5,7 +5,6 @@ section: "if-company-is-not-yet-set-up"
 title: "If company is not yet set up"
 paragraph: "¶5-030"
 ---
-
 # If company is not yet set up ¶5-030
 
 It may happen that you incur business costs relating to a company that has not been formally established.

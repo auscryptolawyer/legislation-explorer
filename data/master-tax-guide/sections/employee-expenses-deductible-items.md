@@ -5,7 +5,6 @@ section: "employee-expenses-deductible-items"
 title: "Employee expenses: deductible items"
 paragraph: "¶16-170"
 ---
-
 # Employee expenses: deductible items ¶16-170
 
 An employee is entitled, under the general deduction provision of ITAA97 s 8-1, to deductions for the following items (see also the rulings referred to at ¶16-635).

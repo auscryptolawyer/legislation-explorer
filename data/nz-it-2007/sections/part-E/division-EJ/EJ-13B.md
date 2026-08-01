@@ -8,7 +8,6 @@ section_title: Dry well drilled
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 13B  Dry well drilled
 
 **When this section applies**

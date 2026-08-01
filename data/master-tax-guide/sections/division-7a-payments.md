@@ -5,7 +5,6 @@ section: "division-7a-payments"
 title: "Division 7A: payments"
 paragraph: "¶4-205"
 ---
-
 # Division 7A: payments ¶4-205
 
 For the purposes of the Div 7A deemed dividend rules, a “payment” to an entity means: (a) a payment to the entity, on the entity’s behalf or for the entity’s beneﬁt; (b) a credit of an amount to the entity, on the entity’s behalf or for the entity’s beneﬁt; and (c) a transfer of property to the entity (the amount of the payment will be deemed to be the arm’s length value of the property less any consideration given by the entity) (s 109C(3)).

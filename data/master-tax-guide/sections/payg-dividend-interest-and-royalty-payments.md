@@ -5,7 +5,6 @@ section: "payg-dividend-interest-and-royalty-payments"
 title: "PAYG: dividend, interest and royalty payments"
 paragraph: "¶26-250"
 ---
-
 # PAYG: dividend, interest and royalty payments ¶26-250
 
 A payer who makes a dividend, interest or royalty payment to an “overseas person” or an entity that receives such a payment on behalf of a non-resident must withhold an amount.

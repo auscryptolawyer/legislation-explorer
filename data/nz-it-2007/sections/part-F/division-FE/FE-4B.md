@@ -8,7 +8,6 @@ section_title: Meaning of public project asset, public project debt, and public 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 4B  Meaning of public project asset, public project debt, and public project participant debt
 
 **Meaning of public project asset**

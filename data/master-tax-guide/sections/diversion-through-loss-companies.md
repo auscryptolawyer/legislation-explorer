@@ -5,7 +5,6 @@ section: "diversion-through-loss-companies"
 title: "Diversion through loss companies"
 paragraph: "¶31-550"
 ---
-
 # Diversion through loss companies ¶31-550
 
 There are 2 kinds of loss companies that may be considered as possible income recipients — “current year loss companies” and “past year loss companies”.

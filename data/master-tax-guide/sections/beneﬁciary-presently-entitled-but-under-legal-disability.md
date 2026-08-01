@@ -5,7 +5,6 @@ section: "beneﬁciary-presently-entitled-but-under-legal-disability"
 title: "Beneﬁciary presently entitled but under legal disability"
 paragraph: "¶6-120"
 ---
-
 # Beneﬁciary presently entitled but under legal disability ¶6-120
 
 Where a beneﬁciary is presently entitled to a share (proportion) of the income of a trust (¶6-085) but is under a legal disability, the trustee is liable to pay tax on that share (proportion) of the net income (¶6-080) (s 98).

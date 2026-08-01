@@ -5,7 +5,6 @@ section: "10-440-company-residence"
 title: "10-440 - Company residence"
 paragraph: "None"
 ---
-
 # 10-440 - Company residence
 
 Worked example: Company residence Issue Red Star Ltd is an investment company incorporated in Jersey, Channel Islands. The company is 100% owned by the Steward Family Trust, a Jersey resident trust, with a corporate director (Swindle Trustees Ltd) based in St Helier. The sole beneficiary of that trust is Kate Steward, who lives in and is a resident of Australia. Red Star Ltd has 2 Jersey resident directors.

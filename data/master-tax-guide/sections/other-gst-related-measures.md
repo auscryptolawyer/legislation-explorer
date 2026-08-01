@@ -5,7 +5,6 @@ section: "other-gst-related-measures"
 title: "Other GST-related measures"
 paragraph: "¶34-360"
 ---
-
 # Other GST-related measures ¶34-360
 
 “Locking in” the GST rate Measures intended to lock in the GST rate at 10% are contained in the A New Tax System (Commonwealth- State Financial Arrangements) Act 1999. This Act provides that no alteration can be made to the rate unless each state and territory agrees, as well as both Houses of Federal Parliament.

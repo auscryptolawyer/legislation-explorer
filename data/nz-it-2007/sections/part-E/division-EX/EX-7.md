@@ -8,7 +8,6 @@ section_title: Indirect control interests
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 7  Indirect control interests
 
 **How indirect control interests arise**

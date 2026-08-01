@@ -5,7 +5,6 @@ section: "discretionary-trusts"
 title: "Discretionary trusts"
 paragraph: "¶6-105"
 ---
-
 # Discretionary trusts ¶6-105
 
 Where a trustee is given a discretion to pay or apply trust income to or for the beneﬁt of speciﬁed beneﬁciaries, a beneﬁciary in whose favour the trustee exercises the discretion is deemed to be presently entitled to the amount so paid or applied (s 101). In such a case, the beneﬁciary is assessable on the appropriate amount of the net income for tax purposes, except where the beneﬁciary is under a legal disability, in which case the trustee is assessable.

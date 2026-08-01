@@ -5,7 +5,6 @@ section: "8-120-uncontrolled-partnership-income-penalty-tax"
 title: "8-120 - Uncontrolled partnership income penalty tax"
 paragraph: "None"
 ---
-
 # 8-120 - Uncontrolled partnership income penalty tax
 
 Worked example: Uncontrolled partnership income; penalty tax Issue Sam Richardson and his wife, Leanne, operate a gift shop in partnership. For the year ended 30 June 2025, Sam worked full-time in the business and was paid a salary of $55,000.

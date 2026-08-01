@@ -5,7 +5,6 @@ section: "company-rates"
 title: "Company rates"
 paragraph: "¶3-055"
 ---
-
 # Company rates ¶3-055
 
 Companies pay a ﬂat rate of tax without a tax-free threshold. The general rate of company tax has for many years been, and is currently, 30%. A company which qualiﬁes as a base rate entity (see below) is taxed at a lower rate. That lower rate is 25% for the 2021–22 and later income years (Income Tax Rates Act 1986 s 23).

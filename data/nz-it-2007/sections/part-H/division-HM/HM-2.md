@@ -8,7 +8,6 @@ section_title: What is a portfolio investment entity?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 2  What is a portfolio investment entity?
 
 **Meaning**

@@ -5,7 +5,6 @@ section: "temporary-loss-carry-back-tax-oﬀset"
 title: "Temporary loss carry back tax oﬀset"
 paragraph: "¶3-080"
 ---
-
 # Temporary loss carry back tax oﬀset ¶3-080
 
 A corporate tax entity (¶4-440) that had a tax loss (¶16-880) in any one or more of the 2019–20, 2020–21, 2021–22 or 2022–23 income years may (subject to satisfying qualifying conditions) choose to carry back the whole or part of the tax loss against its previously taxed proﬁts of the 2018–19, 2019–20, 2020–21 or 2021– 22 income years (ITAA97 Div 160).

@@ -5,7 +5,6 @@ section: "10-340-aggregated-turnover-and-small-business-concessions"
 title: "10-340 - Aggregated turnover and small business concessions"
 paragraph: "None"
 ---
-
 # 10-340 - Aggregated turnover and small business concessions
 
 Worked example: Aggregated turnover and small business concessions Issue Alpha Pty Ltd is a Melbourne based food manufacturer, which is a 100% owned subsidiary of a New Zealand parent. There are no other companies in the group.

@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 26AFA Assessable income to include value of certain benefits received from or in connection with former section 23F funds
 
 <a id="s26AFA-1"></a>

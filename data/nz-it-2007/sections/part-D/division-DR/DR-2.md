@@ -8,7 +8,6 @@ section_title: Shareholder base allowable deduction of life insurer
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DR 2  Shareholder base allowable deduction of life insurer
 
 **Deduction**

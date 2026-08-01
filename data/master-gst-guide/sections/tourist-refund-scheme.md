@@ -5,7 +5,6 @@ section: "tourist-refund-scheme"
 title: "Tourist Refund Scheme"
 paragraph: "¶12-030"
 ---
-
 # Tourist Refund Scheme ¶12-030
 
 International travellers visiting Australia and Australians travelling overseas may be able to claim a refund of GST paid on goods bought in Australia (s 168-5; GST Regulations, Div 168). The rationale for this is that the goods are effectively being exported, and should be GST-free like other exports.

@@ -5,7 +5,6 @@ section: "transitional-rules"
 title: "Transitional rules"
 paragraph: "¶1-200"
 ---
-
 # Transitional rules ¶1-200
 
 The general rule is that GST is payable only on supplies and importations made on or after 1 July 2000, and that sales tax does not apply to those transactions. Similarly, input tax credits can only be claimed on acquisitions and importations made on or after 1 July 2000 (¶19-100).

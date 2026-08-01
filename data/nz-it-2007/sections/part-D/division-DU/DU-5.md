@@ -8,7 +8,6 @@ section_title: Farm-out arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DU 5  Farm-out arrangements
 
 **When this section applies**

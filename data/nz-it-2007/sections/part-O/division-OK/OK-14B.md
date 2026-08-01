@@ -8,7 +8,6 @@ section_title: MACA refund of tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OK 14B  MACA refund of tax credit
 
 **Debit**

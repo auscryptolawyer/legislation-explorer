@@ -8,7 +8,6 @@ section_title: Nominated companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FN 6  Nominated companies
 
 **Group company at the time**

@@ -5,7 +5,6 @@ section: "interest-on-certain-publicly-oﬀered-debentures"
 title: "Interest on certain publicly oﬀered debentures"
 paragraph: "¶22-022"
 ---
-
 # Interest on certain publicly oﬀered debentures ¶22-022
 
 Interest paid under a debenture is exempt from interest withholding tax if the issue of the debenture satisﬁes a “public oﬀer” test (ITAA36 s 128F). If the issuing company is a resident, it must also be a resident at the time of payment. If the issuing company is a non-resident, the issue must be after 30 June 2001, the company must be a non-resident at the time of payment, and the issue and payment must be made through a permanent establishment of the company in Australia.

@@ -5,7 +5,6 @@ section: "balance"
 title: "balance"
 paragraph: "¶13-650"
 ---
-
 # balance ¶13-650
 
 A proposed new Div 296 in ITAA97 will introduce a tax on individuals who have a total superannuation balance (TSB) that exceeds $3 million (the “large superannuation balance threshold”) at the end of an income year. From the 2025–26 income year, these individuals will be liable to pay “Division 296 tax” at a tax rate of 15% on the percentage of their superannuation earnings that correspond to the portion of their TSB that is above $3 million (Treasury Laws Amendment (Better Targeted Superannuation Concessions) Bill 2023, Superannuation (Better Targeted Superannuation Concessions) Imposition Bill 2023: ¶41-100).

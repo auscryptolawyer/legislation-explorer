@@ -8,7 +8,6 @@ section_title: Aircraft acquired before 2017–18 income year: adjusted tax valu
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 23BA  Aircraft acquired before 2017–18 income year: adjusted tax value, base value, reduced; total deductions increased
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "further-tax-on-uncontrolled-partnership-income"
 title: "Further tax on uncontrolled partnership income"
 paragraph: "¶5-210"
 ---
-
 # Further tax on uncontrolled partnership income ¶5-210
 
 The rate of further tax on uncontrolled partnership income for 2024–25 is, with one exception (see below), 45% reduced by the average rate of ordinary tax — calculated without rebates or credits — applicable to the taxpayer’s total taxable income (Income Tax Rates Act 1986, s 12(7)). The imposition of the further tax has the consequence that the partner pays tax on the income at the top marginal tax rate.

@@ -5,7 +5,6 @@ section: "grants-of-crown-land"
 title: "Grants of Crown land"
 paragraph: "¶11-400"
 ---
-
 # Grants of Crown land ¶11-400
 
 The initial grant of unimproved Crown land is GST-free (s 38-445). The grant must be of the freehold or be a long-term lease, ie a lease that is for a term of at least 50 years and that is reasonably expected will not be terminated before that time (¶11-060).

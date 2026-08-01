@@ -5,7 +5,6 @@ section: "9-250-trust-entitlements-validity-of-disclaimers-made-post-year-end"
 title: "9-250 - Trust entitlements validity of disclaimers made post year end"
 paragraph: "None"
 ---
-
 # 9-250 - Trust entitlements validity of disclaimers made post year end
 
 Worked example: Trust entitlements: validity of disclaimers made post year end Issue The Scarborough Family Trust was established in 2013 by Richard Corrigan, who was also the sole trustee.

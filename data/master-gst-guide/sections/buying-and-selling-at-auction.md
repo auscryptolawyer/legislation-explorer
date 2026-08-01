@@ -5,7 +5,6 @@ section: "buying-and-selling-at-auction"
 title: "Buying and selling at auction"
 paragraph: "¶4-210"
 ---
-
 # Buying and selling at auction ¶4-210
 
 The ATO considers that where taxable goods are being sold at auction, it should be made clear whether the items are being sold on a GST-inclusive or GST-exclusive basis, and whether the seller is registered.

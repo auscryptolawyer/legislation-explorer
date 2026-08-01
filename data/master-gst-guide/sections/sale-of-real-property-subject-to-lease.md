@@ -5,7 +5,6 @@ section: "sale-of-real-property-subject-to-lease"
 title: "Sale of real property subject to lease"
 paragraph: "¶11-335"
 ---
-
 # Sale of real property subject to lease ¶11-335
 
 Where real property is sold subject to a continuing lease (ie there is a sale of the “reversion” in the property), the assumption and continued observance of the vendor/lessor’s obligations by the purchaser constitutes a supply by the purchaser to the tenant (FC of T v MBI Properties Pty Ltd [2014] HCA 49). That supply may be:

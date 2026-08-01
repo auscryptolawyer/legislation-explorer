@@ -8,7 +8,6 @@ section_title: Payments of recalculated main benefit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 20C  Payments of recalculated main benefit
 
 **What this section applies to**

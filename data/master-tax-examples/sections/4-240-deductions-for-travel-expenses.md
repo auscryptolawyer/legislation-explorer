@@ -5,7 +5,6 @@ section: "4-240-deductions-for-travel-expenses"
 title: "4-240 - Deductions for travel expenses"
 paragraph: "None"
 ---
-
 # 4-240 - Deductions for travel expenses
 
 Worked example: Deductions for travel expenses Issue Max Conway is a management consultant. He is employed by Foresearch Associates and he also runs his own marketing consultancy business from his residential premises. Max is also undertaking an MBA degree part-time at the University of South Australia.

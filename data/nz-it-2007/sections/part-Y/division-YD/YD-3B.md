@@ -8,7 +8,6 @@ section_title: Crown
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 3B  Crown
 
 For the purposes of this Act and for the avoidance of doubt, the Sovereign in right of New Zealand is regarded as resident in New Zealand.

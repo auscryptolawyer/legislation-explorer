@@ -5,7 +5,6 @@ section: "6-320-small-business-entity-assets-temporary-changes-to-immediate-dedu
 title: "6-320 - Small business entity assets temporary changes to immediate deduction"
 paragraph: "None"
 ---
-
 # 6-320 - Small business entity assets temporary changes to immediate deduction
 
 Worked example: Small business entity assets; temporary changes to immediate deduction Issue Matt Eames is a sole proprietor manufacturing furniture and trading as Furniture Edge. The annual turnover of his business is $1.4 million. To take advantage of the more generous accelerated depreciation provisions, Furniture Edge acquired new assets during 2024–25. On 1 August 2024, Furniture Edge purchased a furniture delivery van for $19,250 and a timber cutting and shaping machine for $44,000. On 29 May 2025, Furniture Edge purchased a furniture assembly machine for $48,000. On 24 August 2024, Furniture Edge commissioned an IT company to develop in-house software to program the machines, cutting and shaping the timber and constructing the furniture. This development project cost Furniture Edge $17,400.

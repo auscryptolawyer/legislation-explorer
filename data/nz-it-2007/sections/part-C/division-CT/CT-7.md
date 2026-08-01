@@ -8,7 +8,6 @@ section_title: Meaning of petroleum mining asset
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CT 7  Meaning of petroleum mining asset
 
 **Meaning**

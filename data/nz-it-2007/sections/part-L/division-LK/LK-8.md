@@ -8,7 +8,6 @@ section_title: Tax credits of consolidated companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LK 8  Tax credits of consolidated companies
 
 If a consolidated group has a tax credit under section LK 1, the credit is treated as the consolidated group’s credit and not the credit of a group company.

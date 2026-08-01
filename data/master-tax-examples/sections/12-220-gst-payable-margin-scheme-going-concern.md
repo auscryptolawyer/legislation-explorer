@@ -5,7 +5,6 @@ section: "12-220-gst-payable-margin-scheme-going-concern"
 title: "12-220 - GST payable margin scheme going concern"
 paragraph: "None"
 ---
-
 # 12-220 - GST payable margin scheme going concern
 
 concern Worked example: GST payable; margin scheme; going concern Issue In March 1995, Hans Leiberman acquired a block of land. Due to the introduction of the GST regime, he registered and obtained a market valuation as at 1 July 2000. The property was valued at $250,000 at that time.

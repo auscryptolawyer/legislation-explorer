@@ -5,7 +5,6 @@ section: "discount-percentage"
 title: "Discount percentage"
 paragraph: "¶11-036"
 ---
-
 # Discount percentage ¶11-036
 
 A discount capital gain remaining after applying any current year or prior year capital losses is reduced by the discount percentage when working out a taxpayer’s net capital gain (¶11-030). The discount percentage is:

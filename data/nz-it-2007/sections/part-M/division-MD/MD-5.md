@@ -8,7 +8,6 @@ section_title: First requirement: person’s age
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MD 5  First requirement: person’s age
 
 The first requirement for an entitlement to an in-work tax credit is that the person referred to in section MD 4 is 16 or older.

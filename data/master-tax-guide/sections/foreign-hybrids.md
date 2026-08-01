@@ -5,7 +5,6 @@ section: "foreign-hybrids"
 title: "Foreign hybrids"
 paragraph: "¶5-050"
 ---
-
 # Foreign hybrids ¶5-050
 
 Investments in foreign hybrids, ie foreign hybrid limited partnerships and foreign hybrid companies, are governed by ITAA97 Div 830.

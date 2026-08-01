@@ -5,7 +5,6 @@ section: "taking-advantage-of-tax-oﬀsets-and-other-beneﬁts"
 title: "Taking advantage of tax oﬀsets and other beneﬁts"
 paragraph: "¶31-220"
 ---
-
 # Taking advantage of tax oﬀsets and other beneﬁts ¶31-220
 
 Tax oﬀsets, unlike deductions, do not enter the calculation of taxable income. Rather, once taxable income has been determined, a tax oﬀset is subtracted from the tax payable in respect of that taxable income. If the sum of any tax oﬀsets exceeds the tax payable, the excess is “wasted” as it cannot be carried forward to a subsequent income year. For some exceptions, see ¶15-010.

@@ -5,7 +5,6 @@ section: "double-deductions"
 title: "Double deductions"
 paragraph: "¶16-100"
 ---
-
 # Double deductions ¶16-100
 
 In many instances, an item of expenditure may appear to qualify for deduction under 2 or more provisions or by more than one method. For example, a bad debt written oﬀ during the year of income may in some circumstances qualify for deduction under ITAA97 s 8-1 as well as falling within the special provisions of ITAA97 s 25-35 (¶16-580).

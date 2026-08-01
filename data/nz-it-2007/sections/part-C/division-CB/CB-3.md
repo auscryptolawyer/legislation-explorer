@@ -8,7 +8,6 @@ section_title: Profit-making undertaking or scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 3  Profit-making undertaking or scheme
 
 An amount that a person derives from carrying on or carrying out an undertaking or scheme entered into or devised for the purpose of making a profit is income of the person.

@@ -5,7 +5,6 @@ section: "fit-and-proper-person"
 title: "Fit and proper person"
 paragraph: "¶32-025"
 ---
-
 # Fit and proper person ¶32-025
 
 In deciding whether it is satisﬁed that an individual is a ﬁt and proper person for the purposes of applying the eligibility requirements for registration, the TPB must have regard to: (1) whether the individual is of good fame, integrity and character, and (2) without limiting (1): (a) whether an event described below has occurred during the previous 5 years (b) whether the individual had the status of an undischarged bankrupt at any time during the previous 5 years, and (c) whether the individual served a term of imprisonment, in whole or in part, at any time during the previous 5 years (TASA s 20-15).

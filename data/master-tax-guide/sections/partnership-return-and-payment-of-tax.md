@@ -5,7 +5,6 @@ section: "partnership-return-and-payment-of-tax"
 title: "Partnership: return and payment of tax"
 paragraph: "¶5-065"
 ---
-
 # Partnership: return and payment of tax ¶5-065
 
 A partnership (other than a corporate limited partnership: ¶3-475) is not taxable as such and does not pay tax on its income. Similarly, a net partnership loss is not deductible to the partnership as such (¶5-110).

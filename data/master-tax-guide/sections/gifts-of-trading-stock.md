@@ -5,7 +5,6 @@ section: "gifts-of-trading-stock"
 title: "Gifts of trading stock"
 paragraph: "¶16-970"
 ---
-
 # Gifts of trading stock ¶16-970
 
 Gifts of trading stock made to eligible recipients (¶16-950, ¶16-955) are not subject to the normal restrictions that apply to most other gifts.

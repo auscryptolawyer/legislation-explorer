@@ -8,7 +8,6 @@ section_title: Value of asset fraction: CFC with excessive debt funding and loan
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 32D  Value of asset fraction: CFC with excessive debt funding and loan entered before 21 June 2012
 
 **When this section applies**

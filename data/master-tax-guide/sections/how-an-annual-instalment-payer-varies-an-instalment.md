@@ -5,7 +5,6 @@ section: "how-an-annual-instalment-payer-varies-an-instalment"
 title: "How an annual instalment payer varies an instalment"
 paragraph: "¶27-340"
 ---
-
 # How an annual instalment payer varies an instalment ¶27-340
 
 An annual instalment payer normally has 3 choices as to the amount of the annual instalment (TAA s 45-115): (1) the amount worked out by multiplying the Commissioner’s instalment rate by the taxpayer’s instalment income for the income year (2) the most recently notiﬁed notional tax, or (3) the taxpayer’s estimate of benchmark tax.

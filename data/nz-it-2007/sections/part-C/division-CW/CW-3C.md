@@ -8,7 +8,6 @@ section_title: Certain partitions or subdivisions of land
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 3C  Certain partitions or subdivisions of land
 
 **Exempt income when no more than minor economic disposal of land**

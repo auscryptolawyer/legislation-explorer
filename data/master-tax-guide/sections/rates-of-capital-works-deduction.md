@@ -5,7 +5,6 @@ section: "rates-of-capital-works-deduction"
 title: "Rates of capital works deduction"
 paragraph: "¶20-520"
 ---
-
 # Rates of capital works deduction ¶20-520
 
 A summary of applicable rates is at ¶43-115.

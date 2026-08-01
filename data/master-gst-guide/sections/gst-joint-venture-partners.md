@@ -5,7 +5,6 @@ section: "gst-joint-venture-partners"
 title: "GST joint venture partners"
 paragraph: "¶18-220"
 ---
-
 # GST joint venture partners ¶18-220
 
 A “GST joint venture” is a joint venture of two or more entities that satisfies certain participation and activity requirements (¶17-200). The joint venture operator is liable for paying the GST on taxable supplies made by other members of the joint venture in the course of the joint venture activities. The joint venture operator is also liable to lodge GST returns for the GST joint venture.

@@ -5,7 +5,6 @@ section: "meaning-of-business-use-percentage"
 title: "Meaning of business use percentage"
 paragraph: "¶35-240"
 ---
-
 # Meaning of business use percentage ¶35-240
 
 The business use percentage component of the operating cost formula (¶35-210) is the percentage of the total distance travelled by the car during the relevant period that relates to business use. The percentage is based on the number of business kilometres travelled during the year and is calculated using the formula: number of business kilometres travelled by the car during the holding period ×100% total number of kilometres travelled by the car during the holding period The employer must establish the business use percentage in accordance with the rules discussed below.

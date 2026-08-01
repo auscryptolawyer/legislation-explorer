@@ -8,7 +8,6 @@ section_title: Exclusions from determination of family scheme income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MZ 3  Exclusions from determination of family scheme income
 
 **When this section applies**

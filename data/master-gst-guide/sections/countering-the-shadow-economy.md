@@ -5,7 +5,6 @@ section: "countering-the-shadow-economy"
 title: "Countering the “shadow economy”"
 paragraph: "¶18-182"
 ---
-
 # Countering the “shadow economy” ¶18-182
 
 On ongoing focus of ATO compliance activities is non-compliance with taxation obligations by operators in the “shadow” (or “black”) economy. Estimates of the size of the shadow economy put it at in excess of 5% of GDP.

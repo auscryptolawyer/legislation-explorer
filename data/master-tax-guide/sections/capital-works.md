@@ -5,7 +5,6 @@ section: "capital-works"
 title: "Capital works"
 paragraph: "¶20-480"
 ---
-
 # Capital works ¶20-480
 
 “Capital works” is an umbrella term covering a wide range of structures, and extensions, alterations and improvements to such structures. Capital works are divided into 3 broad categories: (a) buildings; (b) structural improvements; and (c) environment protection earthworks (ITAA97 s 43-20).

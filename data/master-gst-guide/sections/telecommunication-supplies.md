@@ -5,7 +5,6 @@ section: "telecommunication-supplies"
 title: "Telecommunication supplies"
 paragraph: "¶4-103"
 ---
-
 # Telecommunication supplies ¶4-103
 
 Telecommunication supplies are connected with Australia if the recipient will “effectively use or enjoy” them in Australia (s 85-5). This potentially applies to telephone calls, call back services, email and internet access, satellite transmissions, the provision of leased lines, circuits and global networks, and the transmission element of international data exchange (s 85-10). However, it is not intended to apply to licences to use intellectual property such as computer software, or consultancy services provided via the internet.

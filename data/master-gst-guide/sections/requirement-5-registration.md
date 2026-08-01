@@ -5,7 +5,6 @@ section: "requirement-5-registration"
 title: "Requirement 5: registration"
 paragraph: "¶4-105"
 ---
-
 # Requirement 5: registration ¶4-105
 
 The fifth requirement for a taxable supply is that the supplier is either registered or required to be registered (s 9-5). This means that a supplier who is required to register — for example, because its GST turnover is $75,000 or more (¶3-000) — cannot avoid GST obligations simply by not registering.

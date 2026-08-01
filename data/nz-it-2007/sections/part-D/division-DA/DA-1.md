@@ -8,7 +8,6 @@ section_title: General permission
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DA 1  General permission
 
 **Nexus with income**

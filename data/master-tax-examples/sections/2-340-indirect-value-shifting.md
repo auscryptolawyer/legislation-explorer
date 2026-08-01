@@ -5,7 +5,6 @@ section: "2-340-indirect-value-shifting"
 title: "2-340 - Indirect value shifting"
 paragraph: "None"
 ---
-
 # 2-340 - Indirect value shifting
 
 Worked example: Indirect value shifting Issue Lagrande Pty owns 5 million shares in a wholly owned subsidiary Merkel Pty Ltd. The cost base is $5 per share and the market value is $4 per share. In the 2023–24 income year, Merkel sells an asset with a market value of $4 million to Justin Pty Ltd a subsidiary of Lagrande in return for $1 million cash. In the 2024–25 income year, Lagrande sells 5 million shares in Merkel for $3 per share, realising a loss of $2 per share. The shares are held on capital account.

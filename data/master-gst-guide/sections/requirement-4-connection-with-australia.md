@@ -5,7 +5,6 @@ section: "requirement-4-connection-with-australia"
 title: "Requirement 4: connection with Australia"
 paragraph: "¶4-100"
 ---
-
 # Requirement 4: connection with Australia ¶4-100
 
 The fourth requirement for a taxable supply is that the supply is connected with Australia (the “indirect tax zone”) (s 9-25). This test varies according to whether the supply is of goods, real property or other things such as services. Special rules also apply to telecommunications (¶4-103), and there are important exemptions for certain supplies by non-residents (¶4-101). 1. Goods A supply of goods has the relevant connection with Australia in the following circumstances:

@@ -5,7 +5,6 @@ section: "single-touch-payroll-reporting"
 title: "Single Touch Payroll reporting"
 paragraph: "¶26-630"
 ---
-
 # Single Touch Payroll reporting ¶26-630
 
 Single Touch Payroll (STP) is a reporting framework for employers to provide payroll information to the Commissioner in line with their payroll cycle, which is usually at a time earlier than that which applies under other reporting provisions. Entities that report to the Commissioner using STP do not have to comply with some other reporting obligations. The main STP reporting provisions are contained in TAA sch 1 Div 389.

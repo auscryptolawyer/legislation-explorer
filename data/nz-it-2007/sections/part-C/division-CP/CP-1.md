@@ -8,7 +8,6 @@ section_title: Attributed income of investors in multi-rate PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CP 1  Attributed income of investors in multi-rate PIEs
 
 **When this section applies**

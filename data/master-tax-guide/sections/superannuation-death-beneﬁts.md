@@ -5,7 +5,6 @@ section: "superannuation-death-beneﬁts"
 title: "Superannuation death beneﬁts"
 paragraph: "¶42-260"
 ---
-
 # Superannuation death beneﬁts ¶42-260
 
 The taxation of a superannuation lump sum or income stream death beneﬁt is discussed at ¶14-270.

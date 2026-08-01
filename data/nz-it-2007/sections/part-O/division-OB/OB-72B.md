@@ -8,7 +8,6 @@ section_title: Limit on using entitlement to refund after joining wholly-owned g
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 72B  Limit on using entitlement to refund after joining wholly-owned group
 
 **When this section applies**

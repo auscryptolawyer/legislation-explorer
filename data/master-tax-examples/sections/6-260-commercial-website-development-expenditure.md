@@ -5,7 +5,6 @@ section: "6-260-commercial-website-development-expenditure"
 title: "6-260 - Commercial website development expenditure"
 paragraph: "None"
 ---
-
 # 6-260 - Commercial website development expenditure
 
 Worked example: Commercial website development expenditure Issue Jenny Fowler operates a florist business which trades as Blossoming Flowers. On 1 July 2023, Jenny engaged Spider Web Pty Ltd, a web developer, to help her create a website for her business to sell bouquets and flower arrangements online and attract new customers. The total cost for the development of the website was $5,000 (excl GST) and was conducted in 2 phases. A payment of $2,500 (excl GST) was required to be made after each phase was completed.

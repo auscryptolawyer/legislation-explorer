@@ -8,7 +8,6 @@ section_title: General provisions relating to disposals
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HG 3  General provisions relating to disposals
 
 **No disposal safe harbours when disposal upon dissolution**

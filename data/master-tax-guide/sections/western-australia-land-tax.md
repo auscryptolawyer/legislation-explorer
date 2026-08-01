@@ -5,7 +5,6 @@ section: "western-australia-land-tax"
 title: "Western Australia land tax"
 paragraph: "¶38-050"
 ---
-
 # Western Australia land tax ¶38-050
 
 Provisions governing the imposition and calculation of liability to land tax in Western Australia, including concessions and exemptions, are provided in the Land Tax Assessment Act 2002 (the principal Act) and the Land Tax Assessment Regulations 2003. Rates are contained in the Land Tax Act 2002. Administrative and procedural matters, including powers of the Commissioner, collection of tax, penalties and interest, returns and assessments, objections and appeals, record keeping and general oﬀences, are covered by the Taxation Administration Act 2003.

@@ -5,7 +5,6 @@ section: "how-the-margin-scheme-works"
 title: "How the margin scheme works"
 paragraph: "¶11-100"
 ---
-
 # How the margin scheme works ¶11-100
 
 The margin scheme enables the GST on otherwise fully taxable sales of real property, including new residential property developments (¶11-020), to be calculated on a concessional basis (Div 75). th Normally, GST on a supply is calculated as 1/11 of the GST-inclusive price, and a GST registered purchaser can claim an input tax credit (ITC) for the GST component. Where the purchaser is not able to claim a GST credit — such as individuals buying a home — the GST component of the price can be significant, potentially affecting the property market. Sales under the margin scheme, calculate the GST on th the sale 1/11 of the “margin” (¶11-110), and no ITC is allowed to the purchaser.

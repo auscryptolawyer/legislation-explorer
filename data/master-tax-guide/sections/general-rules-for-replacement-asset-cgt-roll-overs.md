@@ -5,7 +5,6 @@ section: "general-rules-for-replacement-asset-cgt-roll-overs"
 title: "General rules for replacement-asset CGT roll-overs"
 paragraph: "¶12-160"
 ---
-
 # General rules for replacement-asset CGT roll-overs ¶12-160
 
 Where ownership of one asset ends If a taxpayer chooses for a replacement-asset roll-over to happen in relation to an asset, any capital gain or loss the taxpayer makes from the original asset is disregarded (s 124-10). However, a car, motor cycle or similar vehicle cannot be a replacement asset.

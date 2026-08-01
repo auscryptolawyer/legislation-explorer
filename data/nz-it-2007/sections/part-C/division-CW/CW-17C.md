@@ -8,7 +8,6 @@ section_title: Payments for overtime meals and certain other allowances
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 17C  Payments for overtime meals and certain other allowances
 
 **Exempt income: overtime meals**

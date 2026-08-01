@@ -5,7 +5,6 @@ section: "adjustable-value-of-depreciating-asset"
 title: "Adjustable value of depreciating asset"
 paragraph: "¶17-485"
 ---
-
 # Adjustable value of depreciating asset ¶17-485
 
 The concepts of “adjustable value” and “opening adjustable value” (ITAA97 s 40-85) are relevant to the calculation of the decline in value of a depreciating asset (¶17-490, ¶17-500) and balancing adjustments for the asset (¶17-630).

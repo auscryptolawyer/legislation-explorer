@@ -5,7 +5,6 @@ section: "eﬀective-life-arts-and-recreation-services"
 title: "Eﬀective life — arts and recreation services"
 paragraph: "¶43-090"
 ---
-
 # Eﬀective life — arts and recreation services ¶43-090
 
 (89100 to 92099) Asset                                                       Life (Years)           Reviewed     Date Of Application

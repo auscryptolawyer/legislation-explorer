@@ -5,7 +5,6 @@ section: "calculation-of-partnership-net-income-or-loss"
 title: "Calculation of partnership net income or loss"
 paragraph: "¶5-070"
 ---
-
 # Calculation of partnership net income or loss ¶5-070
 
 Although a partnership does not itself pay tax, the net income of the partnership is calculated as if the partnership were a taxpayer in its own right. The “net income” of a partnership, which is ascertained at the end of the appropriate accounting period (¶5-065), means its “assessable income” less all “allowable deductions” (s 90). However, deductions for losses of previous years (¶16-880), except in the case of foreign losses (¶5-110), and deductions for superannuation contributions (¶5-140) are not taken into account in calculating “allowable deductions”. Further, a number of special concessions are not available to a partnership as such but are claimable by the individual partners (eg the concession for investment in Australian ﬁlm production: ¶20-330). A partnership loss arises if the “allowable deductions” of the partnership are greater than its “assessable income”. Whether a partnership’s income is computed on a cash or accruals basis is discussed at ¶9-030.

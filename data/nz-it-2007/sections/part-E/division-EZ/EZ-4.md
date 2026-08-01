@@ -8,7 +8,6 @@ section_title: Valuation of livestock bailed or leased as at 2 September 1992
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 4  Valuation of livestock bailed or leased as at 2 September 1992
 
 **When this section applies**

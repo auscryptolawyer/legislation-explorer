@@ -8,7 +8,6 @@ section_title: Income from supply of excess electricity from dwelling
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 61B  Income from supply of excess electricity from dwelling
 
 **Exempt income**

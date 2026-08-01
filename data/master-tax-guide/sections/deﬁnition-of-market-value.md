@@ -5,7 +5,6 @@ section: "deﬁnition-of-market-value"
 title: "Deﬁnition of market value"
 paragraph: "¶17-050"
 ---
-
 # Deﬁnition of market value ¶17-050
 
 “Market value” is deﬁned (ITAA97 s 995-1(1)) as having a meaning aﬀected by ITAA97 Subdiv 960-S.

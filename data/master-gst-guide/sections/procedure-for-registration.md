@@ -5,7 +5,6 @@ section: "procedure-for-registration"
 title: "Procedure for registration"
 paragraph: "¶3-040"
 ---
-
 # Procedure for registration ¶3-040
 
 An entity is required to apply for GST registration within 21 days of becoming required to do so (s 25-1).

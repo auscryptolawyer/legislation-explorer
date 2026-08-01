@@ -5,7 +5,6 @@ section: "beneﬁciary-non-resident-at-end-of-income-year"
 title: "Beneﬁciary non-resident at end of income year"
 paragraph: "¶6-220"
 ---
-
 # Beneﬁciary non-resident at end of income year ¶6-220
 
 Where a beneﬁciary is presently entitled to a share of trust income and is a non-resident at the end of the income year, the trustee is primarily liable to pay tax in respect of that share. This is so regardless of whether the beneﬁciary is under a legal disability. (Normally, the trustee is only liable where the beneﬁciary is under a legal disability.) The trustee can also be taxed in relation to distributions where the beneﬁciary is a non-resident trustee at the end of the income year (in addition to where the beneﬁciary is a company or individual).

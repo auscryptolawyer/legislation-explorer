@@ -8,7 +8,6 @@ section_title: Extra pay
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 7  Extra pay
 
 **Meaning**

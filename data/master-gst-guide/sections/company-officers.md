@@ -5,7 +5,6 @@ section: "company-officers"
 title: "Company officers"
 paragraph: "¶18-260"
 ---
-
 # Company officers ¶18-260
 
 Public officer Any company carrying on business or deriving investment income in Australia must have a public officer (ITAA 1936, s 252). The public officer is responsible for the performance by the company of all of its obligations under the GST law and is subject to the same penalties if the company fails to comply (Administration Act, Sch 1, s 444-10).

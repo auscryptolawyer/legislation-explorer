@@ -5,7 +5,6 @@ section: "non-share-capital-accounts"
 title: "Non-share capital accounts"
 paragraph: "¶23-120"
 ---
-
 # Non-share capital accounts ¶23-120
 
 A company will have a notional account called a “non-share capital account” if it issues a non-share equity interest (¶23-115) in the company (ITAA97 s 164-10). Furthermore, a company will have a non-share capital account if: (a) a debt interest changes to an equity interest as a result of a material change under s 974-110 (¶23-100); (b) a related party at call loan that was a debt interest becomes an equity interest on 1 July 2005 (¶23-115); or (c) the small company related party at call loan deeming rule ceases to apply to an interest (¶23-115). Special provisions applied to interests issued before 1 July 2001 that were still in existence on that date. The account records contributions to the company in relation to those non-share equity interests and returns of those contributions made by the company.

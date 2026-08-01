@@ -5,7 +5,6 @@ section: "failure-to-pay-by-due-date"
 title: "Failure to pay by due date"
 paragraph: "¶29-500"
 ---
-
 # Failure to pay by due date ¶29-500
 
 A taxpayer who fails to pay an amount of tax on time is liable to pay GIC. GIC applies not only to primary tax debts, but also to running balance account deﬁcit debts (TAA ss 8AAA to 8AAH: ¶29-510).

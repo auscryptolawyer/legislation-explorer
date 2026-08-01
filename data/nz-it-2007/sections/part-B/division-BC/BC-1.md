@@ -8,7 +8,6 @@ section_title: Non-filing and filing taxpayers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BC 1  Non-filing and filing taxpayers
 
 **Non-filing taxpayer**

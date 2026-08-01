@@ -5,7 +5,6 @@ section: "taxpayers-right-to-further-information"
 title: "Taxpayer’s right to further information"
 paragraph: "¶28-060"
 ---
-
 # Taxpayer’s right to further information ¶28-060
 
 The income tax legislation does not speciﬁcally require the Commissioner to provide information to a taxpayer. In preparing an objection, however, it would be helpful if the taxpayer had all relevant information, as an adjustment sheet (if issued) usually contains only brief details. Of course, if an assessment is amended after an audit of the taxpayer’s aﬀairs, it is likely that the issues will have been fully canvassed during the audit. It is also likely that, in determining whether the grounds of objection have been stated “fully and in detail” (¶28-040), the court or ART would take into account the information available to the taxpayer when drafting the objection.

@@ -8,7 +8,6 @@ section_title: Non-attributing active CFCs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 21B  Non-attributing active CFCs
 
 **Non-attributing active CFC**

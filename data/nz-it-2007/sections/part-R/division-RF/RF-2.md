@@ -8,7 +8,6 @@ section_title: Non-resident passive income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 2  Non-resident passive income
 
 **Interest, certain dividends, and royalties**

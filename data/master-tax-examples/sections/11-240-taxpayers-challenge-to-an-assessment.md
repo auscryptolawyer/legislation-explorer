@@ -5,7 +5,6 @@ section: "11-240-taxpayers-challenge-to-an-assessment"
 title: "11-240 - Taxpayers challenge to an assessment"
 paragraph: "None"
 ---
-
 # 11-240 - Taxpayers challenge to an assessment
 
 Worked example: Taxpayer’s challenge to an assessment Issue Following an audit, Computer Solutions Ltd received an amended assessment on 3 March 2025 for the year ended 30 June 2023. That assessment amended an earlier assessment dated 2 February 2024 by disallowing deductions for expenditure on entertaining clients and on software for use in the business.

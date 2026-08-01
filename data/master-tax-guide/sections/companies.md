@@ -5,7 +5,6 @@ section: "companies"
 title: "companies"
 paragraph: "¶3-505"
 ---
-
 # companies ¶3-505
 
 The following items are “non-assessable non-exempt income” (¶10-890) of a life insurance company:

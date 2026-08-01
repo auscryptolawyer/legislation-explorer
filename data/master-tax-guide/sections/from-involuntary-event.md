@@ -5,7 +5,6 @@ section: "from-involuntary-event"
 title: "from involuntary event"
 paragraph: "¶12-290"
 ---
-
 # from involuntary event ¶12-290
 
 If a taxpayer only receives money for the event happening (due to the compulsory acquisition, loss or destruction of an asset) and chooses to take advantage of the roll-over, there are diﬀerent consequences depending on whether the original asset is a pre-CGT or a post-CGT asset (s 124-85).

@@ -8,7 +8,6 @@ section_title: Outline of subpart: specific provisions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EL 2  Outline of subpart: specific provisions
 
 **Residential rental property**

@@ -8,7 +8,6 @@ section_title: What is a transfer of company value?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 5  What is a transfer of company value?
 
 **General test**

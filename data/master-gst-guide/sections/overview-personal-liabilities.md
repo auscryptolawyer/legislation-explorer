@@ -5,7 +5,6 @@ section: "overview-personal-liabilities"
 title: "Overview: personal liabilities"
 paragraph: "¶18-200"
 ---
-
 # Overview: personal liabilities ¶18-200
 
 The liabilities and obligations imposed on entities by the GST are also specifically imposed on the members or representatives of those entities. The result is that members of a particular entity are personally liable for the acts and omissions of the entity and for any resulting penalty. For example, if you are a director of a company, the liabilities imposed on that company will also be imposed on you.

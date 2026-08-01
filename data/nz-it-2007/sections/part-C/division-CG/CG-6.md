@@ -8,7 +8,6 @@ section_title: Receipts from insurance, indemnity, or compensation for trading s
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 6  Receipts from insurance, indemnity, or compensation for trading stock
 
 **When this section applies**

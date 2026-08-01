@@ -5,7 +5,6 @@ section: "taxable-component-of-a-superannuation-beneﬁt"
 title: "Taxable component of a superannuation beneﬁt"
 paragraph: "¶14-150"
 ---
-
 # Taxable component of a superannuation beneﬁt ¶14-150
 
 The taxable component of a “superannuation interest” (¶14-130) is the total value of the interest less the tax free component (s 307-215).

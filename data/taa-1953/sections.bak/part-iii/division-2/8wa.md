@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8WA  Unauthorised requirement etc. that tax file number be quoted
 
 <a id="s8WA-1"></a>

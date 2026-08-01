@@ -5,7 +5,6 @@ section: "australian-resident-and-foreign-resident-companies"
 title: "Australian resident and foreign resident companies"
 paragraph: "¶3-010"
 ---
-
 # Australian resident and foreign resident companies ¶3-010
 
 As in the case of individuals, it must be determined whether a company is a resident of Australia for tax purposes (¶21-040). This is important because:

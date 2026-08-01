@@ -8,7 +8,6 @@ section_title: Deduction for transfer
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EK 8  Deduction for transfer
 
 **When this section applies**

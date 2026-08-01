@@ -5,7 +5,6 @@ section: "tfn-avoidance-safeguards"
 title: "TFN avoidance safeguards"
 paragraph: "¶33-080"
 ---
-
 # TFN avoidance safeguards ¶33-080
 
 Investors are prohibited from structuring their investments to exploit the interest thresholds for accounts with banks, building societies or credit unions and certain investments of children under 16 through the use of multiple accounts (¶33-045). Investors are also prohibited from structuring their investments to ensure that TFN withholding tax (¶26-200) is not payable.

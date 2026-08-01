@@ -5,7 +5,6 @@ section: "gst-free-supplies-of-going-concerns"
 title: "GST-free supplies of going concerns"
 paragraph: "¶11-500"
 ---
-
 # GST-free supplies of going concerns ¶11-500
 
 The supply of a going concern is GST-free in certain circumstances (s 38-325). The purpose of this exemption is to remove the need for the recipient to obtain additional funds to cover the GST that would otherwise apply (¶11-510). It also may enable a reduction in stamp duty on the amount otherwise payable.

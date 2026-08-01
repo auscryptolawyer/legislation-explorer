@@ -5,7 +5,6 @@ section: "revenue-vs-capital-outgoings-and-losses"
 title: "Revenue vs capital outgoings and losses"
 paragraph: "¶16-060"
 ---
-
 # Revenue vs capital outgoings and losses ¶16-060
 
 Often there is no problem in distinguishing between non-deductible capital expenditure and revenue expenditure that is deductible under s 8-1. For example, the cost of purchasing business premises is capital expenditure, while rent paid for business premises is revenue expenditure (¶16-640); the cost of alterations, additions or renovations that add to the value or useful life of an asset is capital expenditure, while the cost of repairs is revenue expenditure (¶16-700). In other cases, it is often diﬃcult to determine whether expenditure is of a revenue or capital character.

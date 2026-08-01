@@ -5,7 +5,6 @@ section: "cgt-roll-over-for-medical-defence-organisations"
 title: "CGT roll-over for medical defence organisations"
 paragraph: "¶12-435"
 ---
-
 # CGT roll-over for medical defence organisations ¶12-435
 
 A roll-over is available for the exchange of membership interests in medical defence organisations (MDOs) (Subdiv 124-P).

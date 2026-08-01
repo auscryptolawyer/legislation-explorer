@@ -8,7 +8,6 @@ section_title: Relocation payments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 17B  Relocation payments
 
 **Exempt income**

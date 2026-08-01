@@ -8,7 +8,6 @@ section_title: Disposal within 10 years: land dealing business
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 9  Disposal within 10 years: land dealing business
 
 **Income**

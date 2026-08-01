@@ -5,7 +5,6 @@ section: "deductions-for-computer-hardware-and-software"
 title: "Deductions for computer hardware and software"
 paragraph: "¶16-725"
 ---
-
 # Deductions for computer hardware and software ¶16-725
 
 Computer hardware costs Computer hardware is normally a depreciating asset whose cost may be written oﬀ as an ordinary capital allowance (Div 40; ¶17-330, ¶17-480), or as a small business capital allowance (Div 328; ¶7-250).

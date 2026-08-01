@@ -5,7 +5,6 @@ section: "what-is-a-public-trading-trust"
 title: "What is a public trading trust?"
 paragraph: "¶6-320"
 ---
-
 # What is a public trading trust? ¶6-320
 
 A “public trading trust” is a public unit trust that is also a trading trust, and that is either a resident in the income year concerned or was a public trading trust in a previous income year (s 102R).

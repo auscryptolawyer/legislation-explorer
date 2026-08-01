@@ -8,7 +8,6 @@ section_title: ASC accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OF 2  ASC accounts
 
 The general rules on memorandum accounts set out in sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to the ASC account of an ASC account company.

@@ -5,7 +5,6 @@ section: "2-500-foreign-and-temporary-residents-taxable-australian-property"
 title: "2-500 - Foreign and temporary residents taxable Australian property"
 paragraph: "None"
 ---
-
 # 2-500 - Foreign and temporary residents taxable Australian property
 
 Worked example: Foreign and temporary residents: taxable Australian property Issue Dougal Kennedy is a resident of Scotland. Dougal and his wife relocated permanently to Western Australia from 1 October 2024, on a permanent residency visa. Dougal owns the following assets (all valued in A$) as at 1 October 2024:

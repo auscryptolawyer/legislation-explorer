@@ -8,7 +8,6 @@ section_title: Amounts derived in connection with employment
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 1  Amounts derived in connection with employment
 
 **Income**

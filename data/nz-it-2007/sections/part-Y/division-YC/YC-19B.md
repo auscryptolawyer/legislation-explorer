@@ -8,7 +8,6 @@ section_title: Treatment when certain trusts terminated
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YC 19B  Treatment when certain trusts terminated
 
 **When this section applies**

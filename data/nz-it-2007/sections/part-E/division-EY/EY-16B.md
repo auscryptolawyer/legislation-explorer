@@ -8,7 +8,6 @@ section_title: Policyholder base allowable deductions: consideration for investm
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EY 16B  Policyholder base allowable deductions: consideration for investment management services
 
 For an income year and a class of policies that are savings product policies and not profit participation policies, a life insurer has a policyholder base allowable deduction equal to the amount that is—

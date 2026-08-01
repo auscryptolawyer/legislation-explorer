@@ -5,7 +5,6 @@ section: "family-trust-distribution-tax"
 title: "Family trust distribution tax"
 paragraph: "¶6-268"
 ---
-
 # Family trust distribution tax ¶6-268
 
 Family trust distribution tax is payable (under sch 2F Div 271: ss 271-5 to 271-105) where:

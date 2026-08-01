@@ -5,7 +5,6 @@ section: "right-to-a-refund-from-the-payer"
 title: "Right to a refund from the payer"
 paragraph: "¶26-680"
 ---
-
 # Right to a refund from the payer ¶26-680
 
 The payer must refund an amount to the recipient of a withholding payment if the payer:

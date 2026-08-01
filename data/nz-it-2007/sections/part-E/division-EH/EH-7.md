@@ -8,7 +8,6 @@ section_title: Deduction of deposit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EH 7  Deduction of deposit
 
 **When this section applies**

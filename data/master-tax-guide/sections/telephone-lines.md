@@ -5,7 +5,6 @@ section: "telephone-lines"
 title: "Telephone lines"
 paragraph: "¶18-060"
 ---
-
 # Telephone lines ¶18-060
 
 The capital cost of a telephone line extending to, or situated on, land being used for a primary production business may, to the extent that it is not otherwise deductible, be written oﬀ in equal instalments over a 10- year period (ITAA97 ss 40-645; 40-650).

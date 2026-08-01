@@ -8,7 +8,6 @@ section_title: Interest: money borrowed to acquire shares in group companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 8  Interest: money borrowed to acquire shares in group companies
 
 **Deduction: borrowing to acquire group company shares**

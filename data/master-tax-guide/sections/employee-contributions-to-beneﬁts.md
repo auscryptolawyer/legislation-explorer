@@ -5,7 +5,6 @@ section: "employee-contributions-to-beneﬁts"
 title: "Employee contributions to beneﬁts"
 paragraph: "¶35-135"
 ---
-
 # Employee contributions to beneﬁts ¶35-135
 
 Generally, any employee contribution towards the cost of providing a fringe beneﬁt will reduce the taxable value of the fringe beneﬁt. For example, rent paid by an employee in receipt of a housing fringe beneﬁt will be deducted from the market or statutory value of the beneﬁt used to calculate the taxable value.

@@ -8,7 +8,6 @@ section_title: Financial arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CC 3  Financial arrangements
 
 **Income: party to financial arrangement**

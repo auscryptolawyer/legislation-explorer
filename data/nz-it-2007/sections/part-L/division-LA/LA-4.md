@@ -8,7 +8,6 @@ section_title: When total tax credit more than income tax liability
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LA 4  When total tax credit more than income tax liability
 
 **Satisfied income tax liability**

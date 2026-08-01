@@ -8,7 +8,6 @@ section_title: Meaning of qualifying company
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HA 2  Meaning of qualifying company
 
 In this Act, a qualifying company means a company other than a unit trust that, for the whole of an income year, meets the requirements of sections HA 5 to HA 9.

@@ -8,7 +8,6 @@ section_title: Voluntary activities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 62B  Voluntary activities
 
 **Exempt income**

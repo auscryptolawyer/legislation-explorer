@@ -5,7 +5,6 @@ section: "scope-of-pt-iva"
 title: "Scope of Pt IVA"
 paragraph: "¶30-120"
 ---
-
 # Scope of Pt IVA ¶30-120
 
 ITAA36 Pt IVA (ss 177A to 177F) applies to schemes entered into with the sole or dominant purpose of obtaining a tax beneﬁt. The operation of Pt IVA is not limited by any other provision of ITAA36, ITAA97 or by any provision of the International Tax Agreements Act 1953.

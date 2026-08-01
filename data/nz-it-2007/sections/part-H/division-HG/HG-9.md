@@ -8,7 +8,6 @@ section_title: Disposal of short-term agreements for sale and purchase
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HG 9  Disposal of short-term agreements for sale and purchase
 
 **When this section applies**

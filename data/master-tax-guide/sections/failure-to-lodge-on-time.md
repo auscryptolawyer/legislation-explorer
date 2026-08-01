@@ -5,7 +5,6 @@ section: "failure-to-lodge-on-time"
 title: "Failure to lodge on time"
 paragraph: "¶29-100"
 ---
-
 # Failure to lodge on time ¶29-100
 
 Taxpayers who fail to lodge tax returns and other documents by the due date or, if required, in the “approved form” (see below) are liable to a penalty (TAA sch 1 Div 286). However, the particular reporting obligations of the Superannuation Contributions Tax (Assessment and Collection) Act 1997, the Superannuation Guarantee (Administration) Act 1992 and the Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991 do not attract the penalty provisions applicable to tax documents.

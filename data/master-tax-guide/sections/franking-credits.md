@@ -5,7 +5,6 @@ section: "franking-credits"
 title: "Franking credits"
 paragraph: "¶4-710"
 ---
-
 # Franking credits ¶4-710
 
 The situations that give rise to franking credits, and the amounts and timing of the credits, are set out in a table in ITAA97 s 205-15. The following are the more signiﬁcant of these situations: Credits in the franking account Item If:                                         A credit of:                         Arises: 1       the entity pays a PAYG                that part of the payment that is     on the day on which the payment is instalment, and                       attributable to the period during    made the entity satisﬁes the residency which the entity was a franking entity requirement for the income year less any reduction under s 205-15(4) in relation to which the PAYG instalment is paid, and the entity is a franking entity for the whole or part of the relevant

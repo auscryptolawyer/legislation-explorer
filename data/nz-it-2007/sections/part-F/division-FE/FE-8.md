@@ -8,7 +8,6 @@ section_title: Measurement dates
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 8  Measurement dates
 
 **Daily, 3-monthly, or annual basis for excess debt entity**

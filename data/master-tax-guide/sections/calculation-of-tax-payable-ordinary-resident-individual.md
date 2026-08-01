@@ -5,7 +5,6 @@ section: "calculation-of-tax-payable-ordinary-resident-individual"
 title: "Calculation of tax payable: ordinary resident individual"
 paragraph: "¶2-090"
 ---
-
 # Calculation of tax payable: ordinary resident individual ¶2-090
 
 Tax payable by an ordinary individual resident taxpayer for 2024–25 is calculated as follows (ITAA97 s 4-10). (1) Taxable income is calculated. This is assessable income (eg salaries, wages, rents, interest), less all expenditure incurred in deriving that income (eg union dues, travel expenses, depreciation) and personal deductions (eg gifts to approved institutions, certain tax-related expenses). (2) The gross tax payable is calculated by applying the general rates of tax to the taxable income. (3) The net tax payable is calculated by deducting from the gross tax any rebates/tax oﬀsets (eg the dependant (invalid and carer) tax oﬀset, the zone rebate, the low income earner rebate and the medical expenses rebate). (4) An amount for the Medicare levy must be added equal to 2% of the taxpayer’s taxable income (exemptions and reductions may apply: ¶2-290). (5) Where applicable, amounts must be added for Medicare levy surcharge (¶2-335) and for HELP repayments (¶2-380).

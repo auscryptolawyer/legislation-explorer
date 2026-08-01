@@ -8,7 +8,6 @@ section_title: When dividends fully imputed
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 9  When dividends fully imputed
 
 **When this section applies**

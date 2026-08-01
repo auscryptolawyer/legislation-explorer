@@ -5,7 +5,6 @@ section: "unused-long-service-leave-payments"
 title: "Unused long service leave payments"
 paragraph: "¶14-730"
 ---
-
 # Unused long service leave payments ¶14-730
 
 A payment to an employee in consequence of the termination of employment for unused long service leave is not taxed as an employment termination payment (¶14-610). Instead, certain parts of the payment are concessionally taxed under ITAA97 Subdiv 83-B (ss 83-65 to 83-115).

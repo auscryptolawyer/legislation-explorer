@@ -5,7 +5,6 @@ section: "taxation-of-trusts"
 title: "Taxation of trusts"
 paragraph: "¶6-000"
 ---
-
 # Taxation of trusts ¶6-000
 
 This chapter deals with the taxation treatment of the income of ordinary trusts (usually created by will or instrument of trust), deceased estates, managed investment trusts and public trading trusts. The trust income provisions are largely contained in the ITAA36, although there are CGT and imputation provisions in the ITAA97 that are relevant to trusts. Legislative references in this chapter are to the ITAA36 unless otherwise speciﬁed. Certain funds, such as ACNC registered charities, may be exempt from tax (¶10-600).

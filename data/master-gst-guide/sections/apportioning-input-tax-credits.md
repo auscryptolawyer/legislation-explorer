@@ -5,7 +5,6 @@ section: "apportioning-input-tax-credits"
 title: "Apportioning input tax credits"
 paragraph: "¶10-030"
 ---
-
 # Apportioning input tax credits ¶10-030
 
 It will often happen that an institution such as a bank provides input taxed financial supplies together with other services that are taxable or GST-free. For example, a bank may provide a loan that is input taxed, advisory services that are subject to GST and exported services that are GST-free. In this situation, the bank can generally only claim full input tax credits for business inputs so far as they relate to the advisory services and the exported services. This means that an apportionment will have to be carried out (s 11-30).

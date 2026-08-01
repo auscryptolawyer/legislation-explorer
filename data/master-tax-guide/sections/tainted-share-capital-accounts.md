@@ -5,7 +5,6 @@ section: "tainted-share-capital-accounts"
 title: "Tainted share capital accounts"
 paragraph: "¶4-950"
 ---
-
 # Tainted share capital accounts ¶4-950
 
 The share capital tainting rules are designed to prevent a company transferring proﬁts to its share capital account and then distributing those proﬁts in the guise of a non-assessable capital distribution.

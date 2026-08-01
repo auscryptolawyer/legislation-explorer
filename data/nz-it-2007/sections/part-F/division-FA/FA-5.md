@@ -8,7 +8,6 @@ section_title: Assets acquired and disposed of after deduction of payments under
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 5  Assets acquired and disposed of after deduction of payments under lease
 
 **When this section applies**

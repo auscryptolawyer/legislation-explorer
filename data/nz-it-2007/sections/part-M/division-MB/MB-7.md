@@ -8,7 +8,6 @@ section_title: Family scheme income of settlor of trust
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MB 7  Family scheme income of settlor of trust
 
 **When this section applies**

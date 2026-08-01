@@ -5,7 +5,6 @@ section: "taxation-of-copyright-collecting-societies"
 title: "Taxation of copyright collecting societies"
 paragraph: "¶3-450"
 ---
-
 # Taxation of copyright collecting societies ¶3-450
 
 The rules governing the taxation of copyright societies are disbursed throughout the Act. The precise meaning of “copyright collecting society” is set out in ITAA97 s 995-1(1). Broadly speaking, it refers to a company that administers rights of copyright on behalf of copyright owners such as authors and composers.

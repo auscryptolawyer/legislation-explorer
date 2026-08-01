@@ -5,7 +5,6 @@ section: "limited-partnerships"
 title: "Limited partnerships"
 paragraph: "¶5-030"
 ---
-
 # Limited partnerships ¶5-030
 
 (a) an association of persons (other than a company) carrying on business as partners or in receipt of ordinary income or statutory income jointly, where the liability of at least one of those persons is limited, or (b) an association of persons (other than one referred to in para (a)) with legal personality separate from those persons that was formed solely for the purpose of becoming a VCLP, an ESVCLP, an AFOF or VCMP (¶5-040) and to carry on activities that are carried on by a body of that kind (ITAA97 s 995-1).

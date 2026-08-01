@@ -5,7 +5,6 @@ section: "trust-not-separate-taxable-entity"
 title: "Trust not separate taxable entity"
 paragraph: "¶6-060"
 ---
-
 # Trust not separate taxable entity ¶6-060
 
 A trust is not a separate taxable entity. This is despite the fact that a return of trust income must usually be ﬁled by the trustee and that, in certain circumstances, the trustee may be liable to be assessed and to pay tax on the whole or part of the trust income in that representative capacity.

@@ -8,7 +8,6 @@ section_title: Valuation methods
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 7  Valuation methods
 
 **Methods**

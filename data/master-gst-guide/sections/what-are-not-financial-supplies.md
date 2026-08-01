@@ -5,7 +5,6 @@ section: "what-are-not-financial-supplies"
 title: "What are not financial supplies?"
 paragraph: "¶10-020"
 ---
-
 # What are not financial supplies? ¶10-020
 
 The supply of any of the following items, or interests in them, is not a financial supply and would therefore normally be subject to GST (s 40-5; GST Regulations s 40-5.12; Sch 3). (Detailed lists are given in GST Ruling GSTR 2002/2.) (1) Cheque and deposit forms and books supplied to a banking business. (2) Special forms, or overprinting of special forms, to the requirements of particular account holders. (3) Professional services, including information and advice, in relation to a financial supply. This includes:

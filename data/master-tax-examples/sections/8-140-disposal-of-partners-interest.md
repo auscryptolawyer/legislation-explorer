@@ -5,7 +5,6 @@ section: "8-140-disposal-of-partners-interest"
 title: "8-140 - Disposal of partners interest"
 paragraph: "None"
 ---
-
 # 8-140 - Disposal of partners interest
 
 Worked example: Disposal of partner’s interest Issue Mark, Richard and Sharon have been in partnership since 1 July 1991, sharing profits and losses equally.

@@ -8,7 +8,6 @@ section_title: Te Kāhui Tupua and Te Tōpuni Kōkōrangi
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 11B  Te Kāhui Tupua and Te Tōpuni Kōkōrangi
 
 **When this section applies**

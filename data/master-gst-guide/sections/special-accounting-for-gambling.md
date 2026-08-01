@@ -5,7 +5,6 @@ section: "special-accounting-for-gambling"
 title: "Special accounting for gambling"
 paragraph: "¶16-000"
 ---
-
 # Special accounting for gambling ¶16-000
 
 For registered makers of gambling supplies (Div 126) GST may be calculated on a “global” basis. Gambling supplies include:

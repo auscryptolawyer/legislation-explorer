@@ -5,7 +5,6 @@ section: "deductions-relating-to-personal-services-income"
 title: "Deductions relating to personal services income"
 paragraph: "¶30-620"
 ---
-
 # Deductions relating to personal services income ¶30-620
 
 Where an individual generates personal services income (PSI) as a non-employee (and not as part of a personal services business: ¶30-660), the individual’s deductions relating to that income are generally restricted to the amount that they would be entitled to deduct if the income had been received as an employee (ITAA97 s 85-10). This means, for example, that the individual cannot deduct rent, mortgage interest, rates or land tax relating to their residence or associate’s residence (ITAA97 s 85-15), although home oﬃce heating and lighting expenses remain deductible. Various aspects of these restrictions are discussed in TR 2003/10.

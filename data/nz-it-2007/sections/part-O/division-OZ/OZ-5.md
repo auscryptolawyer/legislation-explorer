@@ -8,7 +8,6 @@ section_title: ASCA lost excess available subscribed capital
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OZ 5  ASCA lost excess available subscribed capital
 
 **When this section applies**

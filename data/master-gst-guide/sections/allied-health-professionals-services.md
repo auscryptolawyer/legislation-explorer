@@ -5,7 +5,6 @@ section: "allied-health-professionals-services"
 title: "Allied health professionals’ services"
 paragraph: "¶13-320"
 ---
-
 # Allied health professionals’ services ¶13-320
 
 The following types of health services are GST-free if they are provided by recognised professionals in those services, and are generally accepted as being necessary for the appropriate treatment of the recipient of the supply (ie the patient) in that profession:

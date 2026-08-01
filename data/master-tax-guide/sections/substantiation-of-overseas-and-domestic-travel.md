@@ -5,7 +5,6 @@ section: "substantiation-of-overseas-and-domestic-travel"
 title: "Substantiation of overseas and domestic travel"
 paragraph: "¶16-300"
 ---
-
 # Substantiation of overseas and domestic travel ¶16-300
 
 Special substantiation rules apply to expenses in relation to overseas and domestic travel (ITAA97 Div 900: ss 900-1 to 900-250). The rules apply to expenses incurred by the taxpayer on his/her own travel, whether as a recipient of certain PAYG withholding payments (ie payments to employees, company directors and oﬃce holders, return to work payments, retirement payments, employment termination payments and annuities, and beneﬁt and compensation payments: ¶26-120), an employer, self-employed person, or a partnership that includes at least one individual. They do not apply to expenses incurred by a company or a trust.

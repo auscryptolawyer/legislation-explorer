@@ -5,7 +5,6 @@ section: "2-050-disposal-of-main-residence-capital-or-revenue"
 title: "2-050 - Disposal of main residence Capital or revenue"
 paragraph: "None"
 ---
-
 # 2-050 - Disposal of main residence Capital or revenue
 
 Worked example: Disposal of main residence: Capital or revenue?

@@ -5,7 +5,6 @@ section: "e-commerce"
 title: "E-commerce"
 paragraph: "¶25-125"
 ---
-
 # E-commerce ¶25-125
 
 - As e-business typically crosses national borders, there will often be questions about whether there is

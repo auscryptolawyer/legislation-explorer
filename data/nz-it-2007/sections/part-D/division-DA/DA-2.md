@@ -8,7 +8,6 @@ section_title: General limitations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DA 2  General limitations
 
 **Capital limitation**

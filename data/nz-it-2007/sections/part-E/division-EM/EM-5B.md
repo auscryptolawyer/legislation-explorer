@@ -8,7 +8,6 @@ section_title: Fair dividend rate hedge portions: portfolio method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EM 5B  Fair dividend rate hedge portions: portfolio method
 
 **Fair dividend rate hedge portions**

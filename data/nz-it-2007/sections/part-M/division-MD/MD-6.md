@@ -8,7 +8,6 @@ section_title: Second requirement: principal care
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MD 6  Second requirement: principal care
 
 **When child financially dependent**

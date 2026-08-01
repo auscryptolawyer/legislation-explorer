@@ -5,7 +5,6 @@ section: "7-380-working-holiday-makers"
 title: "7-380 - Working holiday makers"
 paragraph: "None"
 ---
-
 # 7-380 - Working holiday makers
 
 Worked example: Working holiday makers Issue Walt Brown owns a mango farm in northern Queensland and wants to employ some working holiday makers during the peak picking season. Walt is concerned about how working holiday makers should be taxed. He is worried that the law is now too complicated and that, as an employer, he will make mistakes in complying and will be penalised by the ATO.

@@ -5,7 +5,6 @@ section: "non-resident-traders-insurers-and-shipowners"
 title: "Non-resident traders, insurers and shipowners"
 paragraph: "¶22-110"
 ---
-
 # Non-resident traders, insurers and shipowners ¶22-110
 
 Insurers and reinsurers Non-resident insurers with no principal or branch oﬃce in Australia are taxed on a deemed taxable income equal to 10% of gross premiums (excluding life policy premiums) receivable in respect of their Australian business. Where, however, the actual proﬁt or loss on the Australian business is established to the Commissioner’s satisfaction, the taxable income or loss is calculated by reference to actual receipts and expenditure (ITAA36 ss 141 to 144; 147).

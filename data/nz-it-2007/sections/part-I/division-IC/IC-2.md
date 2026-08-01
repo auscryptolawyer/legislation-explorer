@@ -8,7 +8,6 @@ section_title: Threshold levels for grouping tax losses in tax year
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IC 2  Threshold levels for grouping tax losses in tax year
 
 **Company A: continuity of ownership or business activities**

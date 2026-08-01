@@ -5,7 +5,6 @@ section: "tracing-ownership-of-widely-held-companies"
 title: "Tracing ownership of widely held companies"
 paragraph: "¶3-130"
 ---
-
 # Tracing ownership of widely held companies ¶3-130
 
 Because of the diﬃculty widely held companies may have in tracing ownership of their shares, the tests required to be satisﬁed to establish continuity of ownership for the purposes of various company loss provisions (¶3-105 – ¶3-150, ¶11-090, ¶11-120) are modiﬁed for such companies (ITAA97 Div 166: ss 166-1 to 166-280). The modiﬁed rules apply to a company that is a “widely held company” or an “eligible Division 166 company”, and are set out as follows:

@@ -5,7 +5,6 @@ section: "overview-of-general-value-shifting-regime"
 title: "Overview of general value shifting regime"
 paragraph: "¶12-800"
 ---
-
 # Overview of general value shifting regime ¶12-800
 
 Value shifts are subject to a general value shifting regime. In broad terms, a value shift occurs when something is done that results in the value of one asset decreasing and the value of another increasing (or being issued at a discount).

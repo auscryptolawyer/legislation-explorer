@@ -5,7 +5,6 @@ section: "pre-july-83-segment"
 title: "Pre-July 83 segment"
 paragraph: "¶14-630"
 ---
-
 # Pre-July 83 segment ¶14-630
 
 The pre-July 83 segment is one of the 2 segments that make up the tax free component of an employment termination payment (¶14-620). The other segment is the invalidity segment (¶14-640).

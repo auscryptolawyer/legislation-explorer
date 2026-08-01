@@ -8,7 +8,6 @@ section_title: Income derived after amalgamation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FO 7  Income derived after amalgamation
 
 **When this section applies**

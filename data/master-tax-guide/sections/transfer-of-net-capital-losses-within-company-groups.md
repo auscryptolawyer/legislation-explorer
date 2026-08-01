@@ -5,7 +5,6 @@ section: "transfer-of-net-capital-losses-within-company-groups"
 title: "Transfer of net capital losses within company groups"
 paragraph: "¶11-110"
 ---
-
 # Transfer of net capital losses within company groups ¶11-110
 
 A company (the loss company) can transfer surplus net capital losses to another company (the gain company) in the same wholly-owned group, so that the gain company can oﬀset those losses against capital gains it has made provided one of the companies is an Australian branch of a foreign bank (¶3-090) and the other company is either: (a) the head company of a consolidated group or MEC group; or (b) is not a member of a consolidatable group (Subdiv 170-B).

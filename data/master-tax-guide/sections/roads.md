@@ -5,7 +5,6 @@ section: "roads"
 title: "roads"
 paragraph: "¶40-300"
 ---
-
 # roads ¶40-300
 
 For eligible business uses other than heavy vehicles on public roads, the credit rate for taxable liquid fuels since 1 February 2016 is:

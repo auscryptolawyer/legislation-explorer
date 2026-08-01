@@ -5,7 +5,6 @@ section: "cost-base"
 title: "Cost base"
 paragraph: "¶11-550"
 ---
-
 # Cost base ¶11-550
 
 The cost base of a CGT asset is often relevant in ﬁnding out if a capital gain has been made from a CGT event which happens in relation to that asset. However, for some CGT events, cost base is not relevant. In such cases, the provisions dealing with the relevant CGT event explain the amounts which are instead used for working out if there is a capital gain.

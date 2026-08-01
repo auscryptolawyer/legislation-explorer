@@ -5,7 +5,6 @@ section: "direct-value-shifting-created-rights"
 title: "Direct value shifting: created rights"
 paragraph: "¶12-830"
 ---
-
 # Direct value shifting: created rights ¶12-830
 
 Direct value shifting rules in Div 723 may apply where value is shifted out of a non-depreciating asset over which a right has been created. The rules generally apply where a lease, licence, option, covenant or similar right is granted to an associate for less than its market value. As a result of the creation of the right, the market value of the underlying asset is decreased.

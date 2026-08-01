@@ -5,7 +5,6 @@ section: "11-040-period-of-review-amended-assessment"
 title: "11-040 - Period of review amended assessment"
 paragraph: "None"
 ---
-
 # 11-040 - Period of review amended assessment
 
 Worked example: Period of review; amended assessment Issue Cupcake Pty Ltd (Cupcake) is a small business entity. On 15 May 2023, it lodged its 2021–22 income tax return. The Commissioner is deemed to have given a notice of assessment to the company on that date.

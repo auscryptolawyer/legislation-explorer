@@ -8,7 +8,6 @@ section_title: Effect of specific rules on general rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DA 3  Effect of specific rules on general rules
 
 **Supplements to general permission**

@@ -5,7 +5,6 @@ section: "improvements"
 title: "improvements"
 paragraph: "¶43-115"
 ---
-
 # improvements ¶43-115
 
 A special system of tax deductions applies to capital expenditure incurred on the construction of buildings and structural improvements (¶20-470).

@@ -5,7 +5,6 @@ section: "cgt-purposes"
 title: "CGT purposes"
 paragraph: "¶12-590"
 ---
-
 # CGT purposes ¶12-590
 
 Generally, when a taxpayer dies a capital gain or loss from a CGT event relating to a CGT asset the taxpayer owned just before death is disregarded.

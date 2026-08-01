@@ -5,7 +5,6 @@ section: "education-training-and-apprenticeships"
 title: "Education, training and apprenticeships"
 paragraph: "¶10-700"
 ---
-
 # Education, training and apprenticeships ¶10-700
 
 “Commonwealth education or training payments” are generally liable to tax. These are payments by the

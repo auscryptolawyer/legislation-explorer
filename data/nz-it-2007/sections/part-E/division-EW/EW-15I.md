@@ -8,7 +8,6 @@ section_title: Mandatory use of yield to maturity method for some arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 15I  Mandatory use of yield to maturity method for some arrangements
 
 **When this section applies**

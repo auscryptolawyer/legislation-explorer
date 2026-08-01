@@ -8,7 +8,6 @@ section_title: Interest from inflation-indexed instruments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EI 2  Interest from inflation-indexed instruments
 
 **When this section applies**

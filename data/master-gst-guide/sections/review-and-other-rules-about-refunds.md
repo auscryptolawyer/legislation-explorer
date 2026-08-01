@@ -5,7 +5,6 @@ section: "review-and-other-rules-about-refunds"
 title: "Review and other rules about refunds"
 paragraph: "¶8-120"
 ---
-
 # Review and other rules about refunds ¶8-120
 
 Taxpayers have the normal rights of objection and review in challenging assessments that include excess GST. A separate review right also applies where the Commissioner refuses to exercise the discretion under s 142-15 to allow a refund of excess GST that has been passed and not reimbursed (¶18-600).

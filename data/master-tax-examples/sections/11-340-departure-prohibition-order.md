@@ -5,7 +5,6 @@ section: "11-340-departure-prohibition-order"
 title: "11-340 - Departure prohibition order"
 paragraph: "None"
 ---
-
 # 11-340 - Departure prohibition order
 
 Worked example: Departure prohibition order Issue Tony Benton has an outstanding income tax liability of over $70,000. His income and assets indicate that he has the financial ability to pay the liability, however, he has disputed the amount with the ATO and refused to pay the debt.

@@ -5,7 +5,6 @@ section: "types-and-eﬀect-of-cgt-roll-over-of-asset"
 title: "Types and eﬀect of CGT roll-over of asset"
 paragraph: "¶12-035"
 ---
-
 # Types and eﬀect of CGT roll-over of asset ¶12-035
 
 The eﬀect of a roll-over is that any capital gain or loss made because a CGT event happens to a CGT asset is disregarded. However, a capital gain or loss may later arise when a CGT event happens to the same asset or a replacement asset in respect of which the roll-over is made.

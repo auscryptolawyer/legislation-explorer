@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 159GZZZM Purchase price in respect of buy-back
 
 For the purposes of this Division, the purchase price in respect of a buy-back of a share is:

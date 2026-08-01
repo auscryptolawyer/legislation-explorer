@@ -8,7 +8,6 @@ section_title: Interest apportionment: excess debt entity
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 9  Interest apportionment: excess debt entity
 
 **When this section applies**

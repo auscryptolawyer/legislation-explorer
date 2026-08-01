@@ -8,7 +8,6 @@ section_title: Excluded income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 3  Excluded income
 
 A fringe benefit is excluded income of the employee.

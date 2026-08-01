@@ -5,7 +5,6 @@ section: "implementation-of-decisions"
 title: "Implementation of decisions"
 paragraph: "¶28-160"
 ---
-
 # Implementation of decisions ¶28-160
 
 Once a decision of the ART or court has become ﬁnal, the Commissioner must give eﬀect to that decision within 60 days (TAA ss 14ZZL; 14ZZQ). Where the taxpayer has been partly or wholly successful, the Commissioner is required to amend the relevant assessment (¶25-300; ITAA36 s 170(1), item 6). The ART or court cannot itself amend an assessment, whether to reduce or increase the amount of taxable income, as part of the process of reviewing an objection decision (¶28-090, ¶28-110).

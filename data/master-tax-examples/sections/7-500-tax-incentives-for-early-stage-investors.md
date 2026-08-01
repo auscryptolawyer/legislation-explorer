@@ -5,7 +5,6 @@ section: "7-500-tax-incentives-for-early-stage-investors"
 title: "7-500 - Tax incentives for early stage investors"
 paragraph: "None"
 ---
-
 # 7-500 - Tax incentives for early stage investors
 
 Worked example: Tax incentives for early stage investors Issue John McGrath is a sophisticated investor under the Corporations Act 2001. He wishes to invest $1 million and claim the Early Stage Innovation tax concessions (ESI concessions) in a company (Grace Investments Pty Ltd) that is developing a new communications app for intra-company communications within large corporates.

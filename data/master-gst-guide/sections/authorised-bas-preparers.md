@@ -5,7 +5,6 @@ section: "authorised-bas-preparers"
 title: "Authorised BAS preparers"
 paragraph: "¶8-042"
 ---
-
 # Authorised BAS preparers ¶8-042
 
 A national registration and regulation system governs those who are in the business of providing “BAS services” for a fee or other reward. Under the Tax Agent Services Act 2009 (TASA), these providers have to be registered with the Tax Practitioners Board (TPB) as tax agents, or as BAS agents. BAS agents have to meet minimum educational and experience tests, though at a lower level than that required of tax agents.

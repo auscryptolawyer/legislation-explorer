@@ -8,7 +8,6 @@ section_title: Tax obligations for employment-related taxes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RA 5  Tax obligations for employment-related taxes
 
 **Withholding and payment obligations**

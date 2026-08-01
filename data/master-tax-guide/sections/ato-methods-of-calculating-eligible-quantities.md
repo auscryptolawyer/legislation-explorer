@@ -5,7 +5,6 @@ section: "ato-methods-of-calculating-eligible-quantities"
 title: "ATO methods of calculating eligible quantities"
 paragraph: "¶40-410"
 ---
-
 # ATO methods of calculating eligible quantities ¶40-410
 
 The Commissioner says that an apportionment method that is fair and reasonable may be used to determine the credit that is available for the taxable fuel that is acquired. Where there is more than one fair and reasonable way of apportioning, the taxpayer may choose any of those methods. In the following situations, a taxpayer will generally have to perform separate calculations:

@@ -5,7 +5,6 @@ section: "payg-calculations-for-trustees-of-trust-estates"
 title: "PAYG calculations for trustees of trust estates"
 paragraph: "¶27-500"
 ---
-
 # PAYG calculations for trustees of trust estates ¶27-500
 
 A trustee that is liable to pay tax in respect of a beneﬁciary’s share of the trust’s net income, or the income to which no beneﬁciary is entitled, is liable to pay PAYG instalments in respect of such a liability. Special rules in TAA sch 1 Subdiv 45-N (ss 45-450 to 45-535) explain how the PAYG instalments regime applies to a trustee.

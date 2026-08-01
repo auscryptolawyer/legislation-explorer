@@ -5,7 +5,6 @@ section: "payroll-tax-jurisdiction-issues"
 title: "Payroll tax jurisdiction issues"
 paragraph: "¶36-120"
 ---
-
 # Payroll tax jurisdiction issues ¶36-120
 
 The legislation in each state prescribes the circumstances in which wages are liable to payroll tax to ensure that tax in respect of services rendered by a particular employee is payable in only one state for any given month.

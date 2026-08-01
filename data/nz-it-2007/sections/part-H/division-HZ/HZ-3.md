@@ -8,7 +8,6 @@ section_title: Special partnerships: transition into limited partnerships and li
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HZ 3  Special partnerships: transition into limited partnerships and limited partnerships deduction rules
 
 **When this section applies**

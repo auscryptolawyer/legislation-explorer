@@ -8,7 +8,6 @@ section_title: Disposal of pre-1990 forest land emissions units
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 51B  Disposal of pre-1990 forest land emissions units
 
 **Who this section applies to**

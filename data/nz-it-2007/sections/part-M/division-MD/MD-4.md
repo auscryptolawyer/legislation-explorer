@@ -8,7 +8,6 @@ section_title: Entitlement to in-work tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MD 4  Entitlement to in-work tax credit
 
 **Requirements**

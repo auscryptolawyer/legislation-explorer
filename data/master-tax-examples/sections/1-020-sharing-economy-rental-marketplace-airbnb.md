@@ -5,7 +5,6 @@ section: "1-020-sharing-economy-rental-marketplace-airbnb"
 title: "1-020 - Sharing economy rental marketplace Airbnb"
 paragraph: "None"
 ---
-
 # 1-020 - Sharing economy rental marketplace Airbnb
 
 Worked example: Sharing economy; rental marketplace; Airbnb Issue In June 2024 Orpheus Parker purchased a ground floor 2-bedroom townhouse in Neutral Bay, Sydney. He decided to rent out part of his townhouse on Airbnb while still living in the property. The total floor area of the townhouse is 850 sq feet (79 m ). The floor space of Orpheus’ bedroom and his private area is 250 sq feet 2                                                                                      2 (23.2 m ). The rented second bedroom area is 200 sq feet (18.6 m ). The shared area comprising lounge, kitchen and laundry cupboard is 400 sq feet (37.2 m ).

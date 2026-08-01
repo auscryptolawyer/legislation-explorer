@@ -8,7 +8,6 @@ section_title: Look-through rule for corporate shareholders
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YC 4  Look-through rule for corporate shareholders
 
 **When subsection (2) applies**

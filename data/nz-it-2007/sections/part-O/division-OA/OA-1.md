@@ -8,7 +8,6 @@ section_title: What this Part does
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OA 1  What this Part does
 
 This Part provides some rules of general application for recording amounts as credits and debits to a memorandum account.

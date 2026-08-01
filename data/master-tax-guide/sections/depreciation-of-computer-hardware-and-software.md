@@ -5,7 +5,6 @@ section: "depreciation-of-computer-hardware-and-software"
 title: "Depreciation of computer hardware and software"
 paragraph: "¶17-370"
 ---
-
 # Depreciation of computer hardware and software ¶17-370
 
 Computer hardware Computer hardware (eg laptops, screens, backup drives, routers, modems, and scanners) are normally depreciating assets, or parts of depreciating assets. Their cost may be written oﬀ as an ordinary capital allowance (Div 40; ¶17-330; ¶17-480), or as a small business capital allowance (Div 328; ¶7-250).

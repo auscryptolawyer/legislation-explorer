@@ -5,7 +5,6 @@ section: "amount-of-quarterly-payg-instalments"
 title: "Amount of quarterly PAYG instalments"
 paragraph: "¶27-220"
 ---
-
 # Amount of quarterly PAYG instalments ¶27-220
 
 instalments Where a quarterly payer is not eligible to pay quarterly instalments on the basis of GDP-adjusted notional tax (¶27-470) or, if eligible, has elected to become a quarterly payer who pays on the basis of instalment income, the amount of a PAYG instalment for a particular quarter is calculated as follows (TAA s 45-110): applicable instalment rate × instalment income for the quarter The “applicable instalment rate” means whichever of the following is applicable:

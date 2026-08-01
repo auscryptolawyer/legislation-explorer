@@ -5,7 +5,6 @@ section: "statutory-provisions-dealing-with-recoupment"
 title: "Statutory provisions dealing with recoupment"
 paragraph: "¶10-270"
 ---
-
 # Statutory provisions dealing with recoupment ¶10-270
 
 Special provisions operate to include in assessable income amounts received as recoupment for certain previously deducted losses or outgoings. The provisions are contained in ITAA97 Subdiv 20-A (ss 20-10 to 20-65). Subdivision 20-A does not apply, however, to amounts that are ordinary income or that are included in assessable income by any other provision.

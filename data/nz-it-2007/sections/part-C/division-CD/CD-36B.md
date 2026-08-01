@@ -8,7 +8,6 @@ section_title: Foreign superannuation withdrawals and pensions from foreign supe
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 36B  Foreign superannuation withdrawals and pensions from foreign superannuation scheme
 
 An amount paid to a person by a company that is a foreign superannuation scheme is not a dividend if the person derives the amount as a—

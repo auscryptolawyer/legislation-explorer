@@ -5,7 +5,6 @@ section: "calculation-of-obu-tax-concession"
 title: "Calculation of OBU tax concession"
 paragraph: "¶21-090"
 ---
-
 # Calculation of OBU tax concession ¶21-090
 
 A 10% eﬀective tax rate on the income of an OBU is achieved by applying the general company tax rate to only a fraction (the “eligible fraction”) of the OBU’s “assessable OB income”, less the eligible fraction of the OBU’s “allowable OB deductions”. The eligible fraction is 10 divided by the number of percent in the general company tax rate. From the 2023–24 income year, the taxable income of an existing OBU will be subject to the relevant corporate tax rate and the concessional tax treatment will not apply.

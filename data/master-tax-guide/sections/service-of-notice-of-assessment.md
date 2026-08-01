@@ -5,7 +5,6 @@ section: "service-of-notice-of-assessment"
 title: "Service of notice of assessment"
 paragraph: "¶25-110"
 ---
-
 # Service of notice of assessment ¶25-110
 
 The Commissioner is required to serve a written notice of an assessment, which need not be in any particular form, on the person liable to pay the assessed tax (ITAA36 s 174). A notice of assessment need not state the name of the person liable to pay the assessed tax, provided it brings to the attention of the person on whom it is served that it is an assessment of that person to tax on a particular taxable income (Prestige Motors 94 ATC 4570; [1994] HCA 39). “Assessment” is deﬁned as the ascertainment of the amount of taxable income (or that there is no taxable income), of the tax payable on that taxable income (or that no tax is payable) and of the total of a taxpayer’s tax oﬀset refunds (or that the taxpayer can get no such refunds). Where a notice of assessment is issued, generally rights of objection (¶28-010) will accrue; however, a taxpayer cannot lodge an objection against an assessment where there is no taxable income or where there is taxable income but there is no tax payable (ITAA36 s 175A(2)).

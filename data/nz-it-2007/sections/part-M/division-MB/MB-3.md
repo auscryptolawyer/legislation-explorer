@@ -8,7 +8,6 @@ section_title: When person carries on 1 or more businesses or investment activit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MB 3  When person carries on 1 or more businesses or investment activities
 
 **When this section applies**

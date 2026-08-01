@@ -5,7 +5,6 @@ section: "discount-capital-gains"
 title: "Discount capital gains"
 paragraph: "¶11-033"
 ---
-
 # Discount capital gains ¶11-033
 
 A discount capital gain is a capital gain that satisﬁes the requirements of Subdiv 115-A (ss 115-5 to 115-50).

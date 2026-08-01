@@ -5,7 +5,6 @@ section: "certain-sales-of-farms-are-gst-free"
 title: "Certain sales of farms are GST-free"
 paragraph: "¶11-410"
 ---
-
 # Certain sales of farms are GST-free ¶11-410
 
 If a farm is sold as a going concern, that transaction may be GST-free in accordance with the rules explained at ¶11-500.

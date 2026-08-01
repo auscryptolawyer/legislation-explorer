@@ -8,7 +8,6 @@ section_title: Ownership of lessee’s improvements: lessee
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EE 4  Ownership of lessee’s improvements: lessee
 
 **When this section applies**

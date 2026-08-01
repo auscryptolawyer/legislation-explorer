@@ -5,7 +5,6 @@ section: "issue-of-general-insurance-policies"
 title: "Issue of general insurance policies"
 paragraph: "¶10-110"
 ---
-
 # Issue of general insurance policies ¶10-110
 
 General insurance is not treated as a financial supply and is taxable (¶10-020). GST therefore applies to general insurance cover, but the insurer will be able to claim input tax credits on business inputs relating to its general insurance business. If an insurer provides life and general insurance, apportionment of the business inputs would be appropriate.

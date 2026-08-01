@@ -8,7 +8,6 @@ section_title: PAYE intermediaries
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RP 2  PAYE intermediaries
 
 **Transferring obligations**

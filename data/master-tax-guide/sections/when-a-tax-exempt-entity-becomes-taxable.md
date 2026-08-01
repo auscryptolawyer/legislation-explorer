@@ -5,7 +5,6 @@ section: "when-a-tax-exempt-entity-becomes-taxable"
 title: "When a tax-exempt entity becomes taxable"
 paragraph: "¶10-630"
 ---
-
 # When a tax-exempt entity becomes taxable ¶10-630
 
 Special rules deal with the transitional issues that arise when a tax-exempt entity becomes taxable (ITAA36 sch 2D: ss 57-1 to 57-130). These rules ensure that all (and only) the income, deductions, gains and losses that relate to the period after the entity becomes taxable are taken into account in determining its tax position. The rules apply only if all of the income of an entity is fully exempt from income tax and, immediately afterwards, any of its income becomes assessable to any extent. It applies to both government exempt entities that become privatised, either by legislation or by sale to private interests, and non- government exempt entities that cease to be exempt.

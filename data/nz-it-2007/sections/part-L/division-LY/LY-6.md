@@ -8,7 +8,6 @@ section_title: Contracted research and development expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LY 6  Contracted research and development expenditure
 
 **When this section applies**

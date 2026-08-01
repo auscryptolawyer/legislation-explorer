@@ -5,7 +5,6 @@ section: "installation-or-assembly-of-goods-brought-to-australia"
 title: "Installation or assembly of goods brought to Australia"
 paragraph: "¶9-020"
 ---
-
 # Installation or assembly of goods brought to Australia ¶9-020
 
 Special rules apply where the supply of goods involves them being brought into Australia, and being installed or assembled here (s 9-25(6)). In this situation:

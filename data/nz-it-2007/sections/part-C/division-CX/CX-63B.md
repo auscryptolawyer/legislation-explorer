@@ -8,7 +8,6 @@ section_title: Amounts of excluded income for owners
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 63B  Amounts of excluded income for owners
 
 A person who has an effective look-through interest for a look-through company has an amount of excluded income to the extent to which an amount of excluded income results from the application of subpart HB (Look-through companies).

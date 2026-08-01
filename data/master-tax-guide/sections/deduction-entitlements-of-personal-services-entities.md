@@ -5,7 +5,6 @@ section: "deduction-entitlements-of-personal-services-entities"
 title: "Deduction entitlements of personal services entities"
 paragraph: "¶30-630"
 ---
-
 # Deduction entitlements of personal services entities ¶30-630
 
 A “personal services entity” (PSE) is a company, partnership or trust whose ordinary income or statutory income includes the personal services income (PSI) of one or more individuals. The rules for deduction entitlements of PSEs are set out in ITAA97 Subdiv 86-B. Various aspects of these deductions are discussed in TR 2003/10.

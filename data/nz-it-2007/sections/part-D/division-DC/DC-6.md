@@ -8,7 +8,6 @@ section_title: Contributions to employees’ benefit funds
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DC 6  Contributions to employees’ benefit funds
 
 **Deduction**

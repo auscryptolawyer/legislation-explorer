@@ -5,7 +5,6 @@ section: "payment-of-deemed-dividends-by-cfcs"
 title: "Payment of deemed dividends by CFCs"
 paragraph: "¶21-250"
 ---
-
 # Payment of deemed dividends by CFCs ¶21-250
 
 Certain “distribution payments” that represent the distribution of the proﬁts of a CFC otherwise than by a dividend are treated as dividends under ITAA36 s 47A.

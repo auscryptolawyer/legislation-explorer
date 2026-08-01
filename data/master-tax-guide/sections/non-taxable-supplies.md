@@ -5,7 +5,6 @@ section: "non-taxable-supplies"
 title: "Non-taxable supplies"
 paragraph: "¶34-160"
 ---
-
 # Non-taxable supplies ¶34-160
 
 The GST rules generally do not apply to gifts, supplies made by unregistrable entities, supplies made by business entities that are not registered and are not required to be registered, transactions that have no connection with Australia, or supplies made before 1 July 2000.

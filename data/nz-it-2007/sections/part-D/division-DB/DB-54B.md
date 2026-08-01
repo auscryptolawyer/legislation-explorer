@@ -8,7 +8,6 @@ section_title: Expenditure incurred by foreign investment PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 54B  Expenditure incurred by foreign investment PIEs
 
 **When this section applies**

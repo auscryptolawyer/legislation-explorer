@@ -5,7 +5,6 @@ section: "tax-agent-notiﬁcation-obligations"
 title: "Tax agent notiﬁcation obligations"
 paragraph: "¶32-040"
 ---
-
 # Tax agent notiﬁcation obligations ¶32-040
 
 - a registered tax agent ceases to meet one of the “tax practitioner registration requirements” (ie

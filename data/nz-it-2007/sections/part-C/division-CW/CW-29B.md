@@ -8,7 +8,6 @@ section_title: Amounts from Australian complying superannuation schemes reinvest
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 29B  Amounts from Australian complying superannuation schemes reinvested in KiwiSaver schemes
 
 An amount of income derived in an income year by a natural person from an Australian complying superannuation scheme is exempt income if, in the income year, it is contributed to a KiwiSaver scheme.

@@ -8,7 +8,6 @@ section_title: Carry forward of expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DV 7  Carry forward of expenditure
 
 **When this section applies**

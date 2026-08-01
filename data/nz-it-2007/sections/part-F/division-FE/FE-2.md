@@ -8,7 +8,6 @@ section_title: When this subpart applies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 2  When this subpart applies
 
 **Persons to whom interest apportionment rules may apply**

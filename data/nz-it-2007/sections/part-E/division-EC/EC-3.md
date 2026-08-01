@@ -8,7 +8,6 @@ section_title: Livestock valuation methods
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 3  Livestock valuation methods
 
 **Specified livestock**

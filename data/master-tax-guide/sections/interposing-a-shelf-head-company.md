@@ -5,7 +5,6 @@ section: "interposing-a-shelf-head-company"
 title: "Interposing a shelf head company"
 paragraph: "¶8-500"
 ---
-
 # Interposing a shelf head company ¶8-500
 
 Special provisions enable a shelf company to be interposed between the head company of a consolidated group (the “original company”) and its shareholders without disbanding the consolidated group (ITAA97 s 615-30(2); 703-70). For this to happen, the interposition of the new company must be achieved through an exchange of shares in accordance with the conditions set out in ITAA97 Div 615 (¶12-370).

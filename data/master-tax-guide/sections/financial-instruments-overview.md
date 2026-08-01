@@ -5,7 +5,6 @@ section: "financial-instruments-overview"
 title: "Financial instruments overview"
 paragraph: "¶23-300"
 ---
-
 # Financial instruments overview ¶23-300
 
 The enactment of Div 230 changed the taxation rules applicable to gains and losses on ﬁnancial arrangements (¶23-020). The rules in Div 230 do not apply, however, to all arrangements. The following paragraphs deal with the taxation consequences, under both general principles and speciﬁc provisions, of using certain ﬁnancial instruments where the rules in Div 230 do not apply.

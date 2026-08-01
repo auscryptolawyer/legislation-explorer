@@ -5,7 +5,6 @@ section: "precious-metals"
 title: "Precious metals"
 paragraph: "¶16-210"
 ---
-
 # Precious metals ¶16-210
 
 The supply of precious metal is normally input taxed (s 40-100) and accordingly input tax credits (ITCs) cannot be claimed in respect of taxable acquisitions.

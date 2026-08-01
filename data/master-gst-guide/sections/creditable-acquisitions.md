@@ -5,7 +5,6 @@ section: "creditable-acquisitions"
 title: "Creditable acquisitions"
 paragraph: "¶5-010"
 ---
-
 # Creditable acquisitions ¶5-010
 
 A taxpayer is entitled to an input tax credit (ITC) in respect of the GST component of the price of “creditable acquisitions” (ss 11-5, 11-20) made by them. A creditable acquisition is a purchase or acquisition of something to be used in carrying on the taxpayer's enterprise, that satisfies all of the following conditions:

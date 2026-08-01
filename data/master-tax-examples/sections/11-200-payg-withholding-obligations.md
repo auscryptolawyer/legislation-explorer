@@ -5,7 +5,6 @@ section: "11-200-payg-withholding-obligations"
 title: "11-200 - PAYG withholding obligations"
 paragraph: "None"
 ---
-
 # 11-200 - PAYG withholding obligations
 
 Worked example: PAYG withholding obligations Issue A cleaning business run by Philip and Isobel Rawal through their private company Rawal Cleaning Pty Ltd made various payments to employees, contractors and other persons during 2024–25.

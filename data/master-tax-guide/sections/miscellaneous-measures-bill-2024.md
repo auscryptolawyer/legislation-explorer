@@ -5,7 +5,6 @@ section: "miscellaneous-measures-bill-2024"
 title: "Miscellaneous measures Bill 2024"
 paragraph: "¶41-150"
 ---
-
 # Miscellaneous measures Bill 2024 ¶41-150
 
 The Treasury Laws Amendment (Miscellaneous Measures) Bill 2024 (the Miscellaneous Measures Bill) contains miscellaneous amendments that were originally contained in the Treasury Laws Amendment (Better Targeted Superannuation Concessions and Other Measures) Bill 2023 (the Original Bill) (¶41-100).

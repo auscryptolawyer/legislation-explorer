@@ -8,7 +8,6 @@ section_title: Expenditure when film or film right intended for disposal
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DS 2B  Expenditure when film or film right intended for disposal
 
 **When this section applies**

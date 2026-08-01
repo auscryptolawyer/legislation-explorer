@@ -5,7 +5,6 @@ section: "prizes-and-awards"
 title: "Prizes and awards"
 paragraph: "¶10-440"
 ---
-
 # Prizes and awards ¶10-440
 
 Windfall gains resulting from winning a prize in a lottery or in a competition are generally non-assessable.

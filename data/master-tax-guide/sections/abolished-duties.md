@@ -5,7 +5,6 @@ section: "abolished-duties"
 title: "Abolished duties"
 paragraph: "¶37-070"
 ---
-
 # Abolished duties ¶37-070
 
 Hire of goods duty Duty on rental or hiring of goods has been abolished in every Australian state and territory. Hire of goods duty was abolished in Tasmania from 1 July 2002, in Victoria, Queensland and Western Australia from 1 January 2007, and in NSW, the Northern Territory and the ACT from 1 July 2007. Rental business duty was abolished in South Australia from 1 July 2009.

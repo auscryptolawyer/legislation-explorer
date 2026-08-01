@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 14ZVA  Limited objection rights because of other objections
 
 If there has been a taxation objection against:

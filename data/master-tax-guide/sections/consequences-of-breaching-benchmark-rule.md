@@ -5,7 +5,6 @@ section: "consequences-of-breaching-benchmark-rule"
 title: "Consequences of breaching benchmark rule"
 paragraph: "¶4-665"
 ---
-
 # Consequences of breaching benchmark rule ¶4-665
 
 - it is liable to pay over-franking tax (imposed by the New Business Tax System (Over-franking Tax)

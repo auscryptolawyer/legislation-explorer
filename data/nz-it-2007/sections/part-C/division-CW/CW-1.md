@@ -8,7 +8,6 @@ section_title: Forestry companies established by the Crown, Maori owners, and ho
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 1  Forestry companies established by the Crown, Maori owners, and holding companies acquiring land with standing timber from founders
 
 **When this section applies**

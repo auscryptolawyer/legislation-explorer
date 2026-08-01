@@ -8,7 +8,6 @@ section_title: Deduction for certain mining expenditure spread on basis of units
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DU 7  Deduction for certain mining expenditure spread on basis of units of production
 
 **When this section applies**

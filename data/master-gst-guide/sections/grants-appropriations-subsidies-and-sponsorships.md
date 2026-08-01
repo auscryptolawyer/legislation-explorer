@@ -5,7 +5,6 @@ section: "grants-appropriations-subsidies-and-sponsorships"
 title: "Grants, appropriations, subsidies and sponsorships"
 paragraph: "¶4-040"
 ---
-
 # Grants, appropriations, subsidies and sponsorships ¶4-040
 
 Normally, a payment of money is not itself a “supply” (¶4-010). However, if there is a supply by the payee/ recipient in return for the payment, the money may be treated as consideration for that supply. If so:

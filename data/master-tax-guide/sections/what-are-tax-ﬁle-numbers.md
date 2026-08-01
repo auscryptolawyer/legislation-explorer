@@ -5,7 +5,6 @@ section: "what-are-tax-ﬁle-numbers"
 title: "What are tax ﬁle numbers?"
 paragraph: "¶33-000"
 ---
-
 # What are tax ﬁle numbers? ¶33-000
 
 tax file numbers?

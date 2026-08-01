@@ -5,7 +5,6 @@ section: "modifications-to-tax-invoice-requirements"
 title: "Modifications to tax invoice requirements"
 paragraph: "¶5-130"
 ---
-
 # Modifications to tax invoice requirements ¶5-130
 
 The Commissioner can waive or modify the requirement that a tax invoice must be held before an input tax credit (ITC) can be claimed (s 29-10). For example, this has been done, subject to various conditions, in relation to:

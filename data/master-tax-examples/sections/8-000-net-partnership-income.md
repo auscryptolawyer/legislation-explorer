@@ -5,7 +5,6 @@ section: "8-000-net-partnership-income"
 title: "8-000 - Net partnership income"
 paragraph: "None"
 ---
-
 # 8-000 - Net partnership income
 
 Worked example: Net partnership income Issue T&C Printing is a stationery store operated in partnership by Tim and Caitlin. The partnership agreement provides the following:

@@ -5,7 +5,6 @@ section: "corporations-law-changes"
 title: "Corporations law changes"
 paragraph: "¶4-105"
 ---
-
 # Corporations law changes ¶4-105
 
 The corporations law rule that dividends may only be paid out of proﬁts of a company was replaced (from 28

@@ -5,7 +5,6 @@ section: "identifying-trading-stock"
 title: "Identifying trading stock"
 paragraph: "¶9-150"
 ---
-
 # Identifying trading stock ¶9-150
 
 “Trading stock” is deﬁned as including anything produced, manufactured or acquired that is held for the purposes of manufacture, sale or exchange in the ordinary course of business (ITAA97 s 70-10(1)). It excludes Div 230 ﬁnancial arrangements (¶23-020), shares in a PDF (¶3-555), registered emissions units (¶19-135) and certain shares, units and land owned by superannuation entities (ITAA97 ss 70-10(2), 70-12).

@@ -8,7 +8,6 @@ section_title: Saving of binding rules relating to portfolio investment entities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HZ 6  Saving of binding rules relating to portfolio investment entities
 
 **When, and extent to which, this section applies**

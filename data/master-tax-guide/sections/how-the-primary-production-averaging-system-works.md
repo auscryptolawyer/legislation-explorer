@@ -5,7 +5,6 @@ section: "how-the-primary-production-averaging-system-works"
 title: "How the primary production averaging system works"
 paragraph: "¶18-200"
 ---
-
 # How the primary production averaging system works ¶18-200
 
 The income averaging system (ITAA97 ss 392-1 to 392-95) is designed to ensure that primary producers with ﬂuctuating incomes pay no more tax over a number of years than those on comparable but steady incomes. This is achieved by making an “averaging adjustment” in each year in which averaging applies. In high income years (when average income is less than taxable income) the adjustment takes the form of a tax oﬀset that reduces tax. In low income years (when average income is greater than taxable income) the adjustment is made by increasing the tax that is payable.

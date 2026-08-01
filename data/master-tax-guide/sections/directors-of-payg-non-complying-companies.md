@@ -5,7 +5,6 @@ section: "directors-of-payg-non-complying-companies"
 title: "Directors of PAYG non-complying companies"
 paragraph: "¶26-710"
 ---
-
 # Directors of PAYG non-complying companies ¶26-710
 
 TAA sch 1 Subdiv 18-D reverses the economic beneﬁt of a credit of a director received under TAA sch 1 s 18-15 if the company does not comply with its withholding obligations.

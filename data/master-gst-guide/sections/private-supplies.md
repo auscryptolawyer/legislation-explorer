@@ -5,7 +5,6 @@ section: "private-supplies"
 title: "private supplies"
 paragraph: "¶11-520"
 ---
-
 # private supplies ¶11-520
 
 You will be liable for an increasing GST adjustment if you purchase an enterprise GST-free as a going concern and you intend that some or all of the supplies made through that enterprise will be input taxed (eg providing credit facilities or residential leases) (s 135-5).

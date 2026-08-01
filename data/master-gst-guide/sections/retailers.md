@@ -5,7 +5,6 @@ section: "retailers"
 title: "Retailers"
 paragraph: "¶25-170"
 ---
-
 # Retailers ¶25-170
 
 - Special rules apply to gift vouchers (¶4-060; ¶19-200).

@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8AAZLA  Method 1—allocating the amount first to an RBA
 
 <a id="s8AAZLA-1"></a>

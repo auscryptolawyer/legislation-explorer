@@ -5,7 +5,6 @@ section: "cancelling-a-branch-registration"
 title: "Cancelling a branch registration"
 paragraph: "¶17-310"
 ---
-
 # Cancelling a branch registration ¶17-310
 
 If the parent stops carrying on any enterprise through a particular registered branch, the parent must apply for cancellation of the registration. This must be done within 21 days (s 54-70).

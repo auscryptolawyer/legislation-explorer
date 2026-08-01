@@ -5,7 +5,6 @@ section: "early-retirement-scheme-payments"
 title: "Early retirement scheme payments"
 paragraph: "¶14-710"
 ---
-
 # Early retirement scheme payments ¶14-710
 
 An early retirement scheme payment is so much of a payment received by an employee because the employee retires under an early retirement scheme as exceeds the amount that could reasonably be expected to be received by the employee in consequence of the voluntary termination of employment at the time of the retirement (ITAA97 s 83-180(1)).

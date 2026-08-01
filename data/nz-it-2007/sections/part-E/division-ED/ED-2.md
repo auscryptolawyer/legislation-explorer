@@ -8,7 +8,6 @@ section_title: Transfers of certain excepted financial arrangements within wholl
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ED 2  Transfers of certain excepted financial arrangements within wholly-owned groups
 
 **When this section applies**

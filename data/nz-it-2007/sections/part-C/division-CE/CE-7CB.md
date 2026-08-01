@@ -8,7 +8,6 @@ section_title: Meaning of market value
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 7CB  Meaning of market value
 
 Market value, for an employee share scheme—

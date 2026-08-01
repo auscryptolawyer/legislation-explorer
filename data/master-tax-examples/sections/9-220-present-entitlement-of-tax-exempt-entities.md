@@ -5,7 +5,6 @@ section: "9-220-present-entitlement-of-tax-exempt-entities"
 title: "9-220 - Present entitlement of tax exempt entities"
 paragraph: "None"
 ---
-
 # 9-220 - Present entitlement of tax exempt entities
 
 Worked example: Present entitlement of tax exempt entities Issue During the 2024–25 income year, the Vatican Trust generated $400,000 of business income and $140,000 of franked distributions with $60,000 of franking credits attached to the distributions. Trust expenses came to $100,000 and consequently the taxable income of the trust was $500,000.

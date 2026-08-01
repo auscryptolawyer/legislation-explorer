@@ -5,7 +5,6 @@ section: "10-020-franking-account-and-franking-deficit-tax"
 title: "10-020 - Franking account and franking deficit tax"
 paragraph: "None"
 ---
-
 # 10-020 - Franking account and franking deficit tax
 
 Worked example: Franking account and franking deficit tax Issue Otage Pty Ltd (Otage) is an Australian resident private company with a corporate tax rate for imputation purposes of 25%. It provides the following information relating to its franking account for the 2024–25 tax year:

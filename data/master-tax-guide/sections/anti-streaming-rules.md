@@ -5,7 +5,6 @@ section: "anti-streaming-rules"
 title: "Anti-streaming rules"
 paragraph: "¶4-680"
 ---
-
 # Anti-streaming rules ¶4-680
 
 The benchmark rule (¶4-660) is supplemented by the anti-streaming rules of ITAA97 Div 204. These rules are designed to prevent such practices as circumventing the benchmark rule by exploiting the benchmark franking percentage of another entity, streaming franked distributions and tax-exempt bonus shares, or streaming imputation beneﬁts to a member who would beneﬁt to a greater degree than another member.

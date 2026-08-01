@@ -8,7 +8,6 @@ section_title: Common ownership: group of companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IC 3  Common ownership: group of companies
 
 **Meaning**

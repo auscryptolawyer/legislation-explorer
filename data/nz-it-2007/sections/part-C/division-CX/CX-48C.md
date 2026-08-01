@@ -8,7 +8,6 @@ section_title: Government funding additional to government screen production pay
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 48C  Government funding additional to government screen production payments
 
 **When this section applies**

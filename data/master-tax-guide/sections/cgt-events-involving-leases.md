@@ -5,7 +5,6 @@ section: "cgt-events-involving-leases"
 title: "CGT events involving leases"
 paragraph: "¶11-300"
 ---
-
 # CGT events involving leases ¶11-300
 
 CGT event F1 — Granting a lease CGT event F1 happens if a lessor grants, renews or extends a lease (s 104-110). However, CGT event F1 does not happen if the lessor can and chooses for CGT event F2 (see below) to apply. Additional special rules may also apply to some lease transactions (¶12-680).

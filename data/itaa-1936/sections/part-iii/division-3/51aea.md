@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 51AEA  Meal entertainment—election under section 37AA of Fringe Benefits Tax Assessment Act 1986 to use 50/50 split method
 
 <a id="s51AEA-1"></a>

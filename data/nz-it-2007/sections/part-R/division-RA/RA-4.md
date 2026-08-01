@@ -8,7 +8,6 @@ section_title: Provisional tax obligations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RA 4  Provisional tax obligations
 
 A person liable to pay provisional tax must pay instalments on account of their income tax liability for a tax year to the Commissioner under subpart RC (Provisional tax) by the due dates.

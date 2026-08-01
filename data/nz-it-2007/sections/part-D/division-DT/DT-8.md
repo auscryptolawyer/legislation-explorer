@@ -8,7 +8,6 @@ section_title: Acquisition of certain petroleum mining assets
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DT 8  Acquisition of certain petroleum mining assets
 
 **When expenditure for petroleum mining assets incurred**

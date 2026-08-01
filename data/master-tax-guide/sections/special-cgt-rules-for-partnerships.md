@@ -5,7 +5,6 @@ section: "special-cgt-rules-for-partnerships"
 title: "Special CGT rules for partnerships"
 paragraph: "¶11-200"
 ---
-
 # Special CGT rules for partnerships ¶11-200
 
 A capital gain or loss arising from a CGT event that happens in relation to a partnership or to one of its assets is made by the partners individually, not the partnership (s 106-5). A partnership cannot make a capital gain or loss. This means that any capital gain or loss which arises belongs proportionately to each individual partner. Each partner’s capital gain or loss is worked out in proportion to each partner’s interest in the partnership by reference to the partnership agreement or, if there is no such agreement, to partnership law.

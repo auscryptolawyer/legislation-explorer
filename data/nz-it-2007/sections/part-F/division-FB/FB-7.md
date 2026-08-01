@@ -8,7 +8,6 @@ section_title: Land with standing timber
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 7  Land with standing timber
 
 **When this section applies**

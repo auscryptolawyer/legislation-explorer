@@ -5,7 +5,6 @@ section: "petroleum-resource-rent-tax-prrt"
 title: "Petroleum resource rent tax (PRRT)"
 paragraph: "¶19-003"
 ---
-
 # Petroleum resource rent tax (PRRT) ¶19-003
 
 The Petroleum Resource Rent Tax Assessment Act 1987 (PRRTA87) applies the PRRT to petroleum production, including coal seam gas and shale oil sourced from petroleum projects located onshore (from 1 July 2012 up to 30 June 2019) and in territorial waters, as well as from the North West Shelf project area (from 1 July 2012), and oﬀshore petroleum projects in Australia’s oﬀshore areas beyond coastal waters. The joint petroleum development area (JPDA) in the Timor Sea (¶21-035), and resources that were subject to the former MRRT are not subject to the PRRT. For details of the application of the PRRT prior to 1 July 2012, see the 2012 Australian Master Tax Guide and earlier editions; for MRRT 2015 Australian Master Tax Guide.

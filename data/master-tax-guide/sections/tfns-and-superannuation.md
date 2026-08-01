@@ -5,7 +5,6 @@ section: "tfns-and-superannuation"
 title: "TFNs and superannuation"
 paragraph: "¶33-025"
 ---
-
 # TFNs and superannuation ¶33-025
 
 Individuals making a TFN declaration to their employer are taken to also provide authority for their employer to quote their TFN to the relevant superannuation provider (ITAA36 s 202DHA). Superannuation entities can also request that a beneﬁciary, or an applicant to become a beneﬁciary, of the entity or superannuation scheme quote his/her TFN: Legislative Instruments F2017L01262 and F2017L01270.

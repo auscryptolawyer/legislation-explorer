@@ -8,7 +8,6 @@ section_title: Formula for calculating maximum deduction
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DV 3  Formula for calculating maximum deduction
 
 **Formula**

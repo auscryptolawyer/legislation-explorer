@@ -8,7 +8,6 @@ section_title: Payments to spouses, civil union partners, or de facto partners: 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DC 5  Payments to spouses, civil union partners, or de facto partners: services
 
 **No deduction without approval**

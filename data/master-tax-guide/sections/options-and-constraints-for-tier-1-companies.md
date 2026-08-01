@@ -5,7 +5,6 @@ section: "options-and-constraints-for-tier-1-companies"
 title: "Options and constraints for tier-1 companies"
 paragraph: "¶8-620"
 ---
-
 # Options and constraints for tier-1 companies ¶8-620
 
 In order to meet the diﬀering needs of international groups, tier-1 companies have been given substantial ﬂexibility. If, eg, a foreign top company has 10 tier-1 companies in Australia:

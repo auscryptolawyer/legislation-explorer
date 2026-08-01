@@ -5,7 +5,6 @@ section: "what-is-a-personal-tax-oﬀset"
 title: "What is a personal tax oﬀset?"
 paragraph: "¶15-000"
 ---
-
 # What is a personal tax oﬀset? ¶15-000
 
 This chapter discusses the personal tax oﬀsets that are available to individual taxpayers, namely those that, in general terms, relate to the taxpayer’s personal circumstances. Tax oﬀsets are subtracted from the tax calculated on taxable income (ITAA97 s 4-10). Subject to few exceptions (¶15-010), the sum of all tax oﬀsets allowable to a taxpayer cannot exceed the amount of tax otherwise payable, and any unused oﬀsets cannot be carried forward to be set oﬀ against tax payable in future years. In contrast, a deduction is subtracted from assessable income in calculating the taxable income (or loss) after which any tax payable is calculated.

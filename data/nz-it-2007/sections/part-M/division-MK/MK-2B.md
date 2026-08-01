@@ -8,7 +8,6 @@ section_title: Taxable income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MK 2B  Taxable income
 
 **Taxable income**

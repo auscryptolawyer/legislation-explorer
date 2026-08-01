@@ -5,7 +5,6 @@ section: "redeemable-vouchers"
 title: "Redeemable vouchers"
 paragraph: "¶4-060"
 ---
-
 # Redeemable vouchers ¶4-060
 
 Special rules apply to vouchers, tokens, stamps (excluding postage stamps (s 100-25)), coupons or similar articles that can be redeemed for other supplies up to a monetary value stated on the voucher (ss 100-5, 100-25). These are commonly called “face value” vouchers. A typical example is a retail store voucher that entitles the holder to any goods from that store up to a stated value. These vouchers may be distinguished from vouchers that entitle the holder to a specific item ("non-face value" vouchers), for example, goods to replace stolen goods.

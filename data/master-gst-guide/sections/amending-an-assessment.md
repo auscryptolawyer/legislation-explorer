@@ -5,7 +5,6 @@ section: "amending-an-assessment"
 title: "Amending an assessment"
 paragraph: "¶8-090"
 ---
-
 # Amending an assessment ¶8-090
 
 If a taxpayer lodges a return, then later lodges an amended return for the same tax period, the first return gives rise to a deemed assessment, and the second return is treated as an application for amendment of that assessment. Similarly, if the Commissioner makes a default assessment due to the taxpayer’s failure to lodge a return, and the taxpayer later lodges a return for that period, that return will be treated as an application to amend the default assessment.

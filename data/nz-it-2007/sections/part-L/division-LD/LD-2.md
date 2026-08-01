@@ -8,7 +8,6 @@ section_title: Exclusions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LD 2  Exclusions
 
 Section LD 1 does not apply to—

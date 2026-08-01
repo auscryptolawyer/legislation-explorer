@@ -5,7 +5,6 @@ section: "depreciating-asset-only-partly-used-for-business"
 title: "Depreciating asset only partly used for business"
 paragraph: "¶17-570"
 ---
-
 # Depreciating asset only partly used for business ¶17-570
 
 Where a depreciating asset is used during an income year partly for a taxable purpose and partly for another purpose (eg for private purposes or to produce exempt income), the deduction for the decline in value of the asset is reduced by the part of the decline in value that is attributable to the use, or the asset being installed ready for use, for the non-taxable purpose (ITAA97 s 40-25(2)). A “taxable purpose” is the purpose of producing assessable income, of exploration or prospecting, of mining site rehabilitation or environmental protection activities (s 40-25(7)).

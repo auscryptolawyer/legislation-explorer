@@ -8,7 +8,6 @@ section_title: Amounts of tax for schedular payments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 10B  Amounts of tax for schedular payments
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "7-120-tax-concessions-personal-superannuation-contributions"
 title: "7-120 - Tax concessions personal superannuation contributions"
 paragraph: "None"
 ---
-
 # 7-120 - Tax concessions personal superannuation contributions
 
 Worked example: Tax concessions; personal superannuation contributions Issue Jake Woodward is aged 34 years and works part-time as an employee of a suburban travel agency. He also runs his own business arranging educational tours for small groups of travellers and escorting them on those tours.

@@ -8,7 +8,6 @@ section_title: Liability for multinational top-up tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HP 1  Liability for multinational top-up tax
 
 **Payment of tax**

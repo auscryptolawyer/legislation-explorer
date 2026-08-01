@@ -8,7 +8,6 @@ section_title: Stapled debt securities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 2B  Stapled debt securities
 
 **When subsection (2) applies**

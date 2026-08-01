@@ -5,7 +5,6 @@ section: "7-340-foreign-income-tax-offset-amendment-period"
 title: "7-340 - Foreign income tax offset amendment period"
 paragraph: "None"
 ---
-
 # 7-340 - Foreign income tax offset amendment period
 
 Worked example: Foreign income tax offset amendment period Issue Cameron Davis is an Australian tax resident who resides in Sydney. He owned a commercial building in Canada which he decided to sell. The contract date for the sale of the property was 1 June 2022 but, because of financing delays, settlement did not take place until April 2024.

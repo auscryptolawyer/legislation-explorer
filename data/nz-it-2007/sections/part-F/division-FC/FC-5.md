@@ -8,7 +8,6 @@ section_title: Land transferred to close relatives
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FC 5  Land transferred to close relatives
 
 **What this section applies to**

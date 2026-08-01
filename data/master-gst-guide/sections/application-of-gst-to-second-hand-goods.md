@@ -5,7 +5,6 @@ section: "application-of-gst-to-second-hand-goods"
 title: "Application of GST to second-hand goods"
 paragraph: "¶16-100"
 ---
-
 # Application of GST to second-hand goods ¶16-100
 
 The sale of second-hand good by an unregistered (and not required to be registered) seller is not subject to GST. However, a registered seller, such as a second-hand dealer, is required to account for GST.

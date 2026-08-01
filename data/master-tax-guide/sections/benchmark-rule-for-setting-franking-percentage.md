@@ -5,7 +5,6 @@ section: "benchmark-rule-for-setting-franking-percentage"
 title: "Benchmark rule for setting franking percentage"
 paragraph: "¶4-660"
 ---
-
 # Benchmark rule for setting franking percentage ¶4-660
 
 The benchmark rule ensures that one member of a corporate tax entity is not preferred over another when the entity franks distributions. The benchmark rule requires that a corporate tax entity (except a listed public company when exempted by ITAA97 s 203-20) must frank all frankable distributions made during a “franking period” (generally either 6 months or 12 months: ¶4-670) at the “benchmark franking percentage” (ITAA97 s 203-25). The benchmark franking percentage is the same as the franking percentage for the ﬁrst frankable distribution made by the entity within the franking period (ITAA97 s 203-30).

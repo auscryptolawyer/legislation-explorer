@@ -5,7 +5,6 @@ section: "first-home-savers-superannuation-scheme"
 title: "First home savers superannuation scheme"
 paragraph: "¶13-790"
 ---
-
 # First home savers superannuation scheme ¶13-790
 
 Individuals can make voluntary contributions to their superannuation account under the First Home Super Saver (FHSS) Scheme from 1 July 2017 (ITAA97 Div 313; TAA sch 1 Div 138). The Scheme enables individuals to save for their ﬁrst home and take advantage of the concessional taxation arrangements that apply in the superannuation system. An FHSS tax is payable if the individuals do not purchase their ﬁrst home within a speciﬁed period or recontribute an amount into superannuation.

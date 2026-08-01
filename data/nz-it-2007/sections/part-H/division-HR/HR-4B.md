@@ -8,7 +8,6 @@ section_title: Activities relating to New Zealand Superannuation Fund and Ventur
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 4B  Activities relating to New Zealand Superannuation Fund and Venture Capital Fund
 
 **When this section applies**

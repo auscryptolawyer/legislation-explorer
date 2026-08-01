@@ -8,7 +8,6 @@ section_title: Foreign ASAPs: contingencies for business combinations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 33D  Foreign ASAPs: contingencies for business combinations
 
 **Assets and liabilities**

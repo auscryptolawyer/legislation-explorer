@@ -5,7 +5,6 @@ section: "deductibility-of-bad-debts-under-s-25-35"
 title: "Deductibility of bad debts under s 25-35"
 paragraph: "¶16-582"
 ---
-
 # Deductibility of bad debts under s 25-35 ¶16-582
 
 To qualify for a bad debt deduction under ITAA97 s 25-35, the debt or part of a debt must not only be objectively bad (Case X9 90 ATC 144; [1989] AATA 737) but must satisfy the 2 conditions set out below. (1) The debt must be written oﬀ as bad during the year of income in which the deduction is claimed.

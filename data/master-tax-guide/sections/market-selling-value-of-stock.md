@@ -5,7 +5,6 @@ section: "market-selling-value-of-stock"
 title: "Market selling value of stock"
 paragraph: "¶9-220"
 ---
-
 # Market selling value of stock ¶9-220
 
 The market selling value of stock is based on a sale in the ordinary course of the taxpayer’s business and not a forced sale or break-up (Australasian Jam (1953) 10 ATD 217; (1953) 88 CLR 23).

@@ -8,7 +8,6 @@ section_title: Obligations of joint trustees for calculating income and providin
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HC 2  Obligations of joint trustees for calculating income and providing returns
 
 **What this section applies to**

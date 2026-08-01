@@ -5,7 +5,6 @@ section: "illegal-gains"
 title: "Illegal gains"
 paragraph: "¶10-450"
 ---
-
 # Illegal gains ¶10-450
 
 The tests for determining whether the proceeds from illegal activities or transactions (such as drug dealing, prostitution, SP bookmaking, insider trading or theft) are income according to ordinary concepts are the same as for receipts from legal activities or transactions (TR 93/25). For example, if illegal activities are such as to constitute a business, the proceeds will be income in nature (¶10-110).

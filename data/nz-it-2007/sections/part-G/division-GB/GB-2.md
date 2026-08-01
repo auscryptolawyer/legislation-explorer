@@ -8,7 +8,6 @@ section_title: Arrangements involving transfer pricing
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 2  Arrangements involving transfer pricing
 
 **When this section applies**

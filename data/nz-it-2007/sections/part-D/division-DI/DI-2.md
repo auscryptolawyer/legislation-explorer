@@ -8,7 +8,6 @@ section_title: When this subpart applies and does not apply
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DI 2  When this subpart applies and does not apply
 
 **When this subpart applies**

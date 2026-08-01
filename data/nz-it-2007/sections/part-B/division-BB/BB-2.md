@@ -8,7 +8,6 @@ section_title: Main obligations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BB 2  Main obligations
 
 **Income tax liability**

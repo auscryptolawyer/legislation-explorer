@@ -5,7 +5,6 @@ section: "adjustments-to-cost-of-depreciating-asset"
 title: "Adjustments to cost of depreciating asset"
 paragraph: "¶17-090"
 ---
-
 # Adjustments to cost of depreciating asset ¶17-090
 
 - amounts that are not of a capital nature (ITAA97 s 40-220), whether or not deductible (eg whether

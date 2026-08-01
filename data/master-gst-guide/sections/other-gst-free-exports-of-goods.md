@@ -5,7 +5,6 @@ section: "other-gst-free-exports-of-goods"
 title: "Other GST-free exports of goods"
 paragraph: "¶9-220"
 ---
-
 # Other GST-free exports of goods ¶9-220
 
 There are various other less common exports of goods that qualify as GST-free (s 38-185). Again, these exemptions do not apply if the supplier re-imports the goods back into Australia.

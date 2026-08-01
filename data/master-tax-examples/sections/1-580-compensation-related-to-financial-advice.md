@@ -5,7 +5,6 @@ section: "1-580-compensation-related-to-financial-advice"
 title: "1-580 - Compensation related to financial advice"
 paragraph: "None"
 ---
-
 # 1-580 - Compensation related to financial advice
 
 Worked example: Compensation related to financial advice Issue In August 2010, George Dawes paid $4,000 to a financial adviser, Nathan Large, for investment advice.

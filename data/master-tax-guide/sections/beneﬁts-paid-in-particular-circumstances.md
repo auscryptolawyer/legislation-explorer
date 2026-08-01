@@ -5,7 +5,6 @@ section: "beneﬁts-paid-in-particular-circumstances"
 title: "Beneﬁts paid in particular circumstances"
 paragraph: "¶14-310"
 ---
-
 # Beneﬁts paid in particular circumstances ¶14-310
 
 The taxation rules for superannuation beneﬁts and death beneﬁts in Divs 301 and 302 (as discussed in ¶14-200, ¶14-280) do not apply to certain superannuation payments as below, which are subject to diﬀerent tax rules:

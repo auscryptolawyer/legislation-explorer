@@ -8,7 +8,6 @@ section_title: When is a transfer caused by a shareholding relationship?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 6  When is a transfer caused by a shareholding relationship?
 
 **General test**

@@ -5,7 +5,6 @@ section: "representatives-of-incapacitated-entities"
 title: "Representatives of incapacitated entities"
 paragraph: "¶18-250"
 ---
-
 # Representatives of incapacitated entities ¶18-250
 
 Special rules apply to an individual who is a bankrupt or an entity that is in liquidation, receivership or interim management. These persons are called “incapacitated entities” (¶3-080). These rules are intended to ensure that the representative of the incapacitated entity —a trustee in bankruptcy, a liquidator, receiver, controller, administrator or interim manager — is responsible for the incapacitated entity’s GST affairs (Div 58).

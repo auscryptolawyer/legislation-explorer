@@ -5,7 +5,6 @@ section: "board-beneﬁts"
 title: "Board beneﬁts"
 paragraph: "¶35-630"
 ---
-
 # Board beneﬁts ¶35-630
 
 A board beneﬁt arises where an employee is entitled under an industrial award or employment arrangement to accommodation and to at least 2 meals a day. The board beneﬁt consists of any meal provided to such an employee, or to a family member who has similar entitlements, under an award or arrangement, by the employer (or by a related company in a wholly owned group) where the meal is prepared and supplied on the employer’s or related company’s premises or at or adjacent to a worksite (s 35).

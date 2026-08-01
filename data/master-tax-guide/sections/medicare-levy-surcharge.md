@@ -5,7 +5,6 @@ section: "medicare-levy-surcharge"
 title: "Medicare levy surcharge"
 paragraph: "¶2-335"
 ---
-
 # Medicare levy surcharge ¶2-335
 
 Individual taxpayers on higher incomes who do not have adequate private patient hospital insurance for themselves and their dependants may be liable for an additional Medicare levy surcharge (MLS), 1%, 1.25% or 1.5% of “income for surcharge purposes”, depending on their income level. A taxpayer may be liable for the surcharge for a period that is less than a full year, eg where private patient hospital insurance is taken out during the year. Medicare levy surcharge is imposed on a taxpayer’s taxable income by MLA ss 8B to 8D and on reportable fringe beneﬁts by the A New Tax System (Medicare Levy Surcharge — Fringe Beneﬁts) Act 1999.

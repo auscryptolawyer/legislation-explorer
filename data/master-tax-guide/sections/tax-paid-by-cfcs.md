@@ -5,7 +5,6 @@ section: "tax-paid-by-cfcs"
 title: "Tax paid by CFCs"
 paragraph: "¶21-770"
 ---
-
 # Tax paid by CFCs ¶21-770
 
 A foreign income tax oﬀset may apply to an entity that is an attributable taxpayer which is assessed under the controlled foreign company (CFC) rules. The circumstances in which this will apply are set out in s 770-135.

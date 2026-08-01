@@ -5,7 +5,6 @@ section: "what-is-mining-capital-expenditure"
 title: "What is mining capital expenditure?"
 paragraph: "¶19-070"
 ---
-
 # What is mining capital expenditure? ¶19-070
 
 Expenditure incurred in establishing, developing, extending or rejuvenating a mine is generally capital in nature (Ampol Exploration Ltd 86 ATC 4859; [1986] FCA 414). A deduction may be available over the life of a project for a project amount consisting of mining capital expenditure that is directly connected with carrying on mining operations in relation to the expenditure (¶19-050). See TR 95/36 for what constitutes “capital” expenditure in the mining and quarrying industries. “Mining capital expenditure” of a mining or quarrying operator means capital expenditure incurred on the following:

@@ -8,7 +8,6 @@ section_title: Value transfer by deferral, or non-exercise, of right to demand p
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HC 31B  Value transfer by deferral, or non-exercise, of right to demand payment
 
 **When this section applies**

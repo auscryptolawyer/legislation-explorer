@@ -5,7 +5,6 @@ section: "replacement-value-of-stock"
 title: "Replacement value of stock"
 paragraph: "¶9-225"
 ---
-
 # Replacement value of stock ¶9-225
 
 The replacement value of trading stock is the amount that the taxpayer would have to pay in its normal buying market on the last day of the income year to obtain an item substantially identical and available in the market (TD 92/198).

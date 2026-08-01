@@ -5,7 +5,6 @@ section: "what-is-a-superannuation-beneﬁt"
 title: "What is a superannuation beneﬁt?"
 paragraph: "¶14-100"
 ---
-
 # What is a superannuation beneﬁt? ¶14-100
 
 Taxation of superannuation and termination payments This chapter covers the concessional taxation of employment termination payments and superannuation lump sum and income stream beneﬁts and related payments under ITAA97 Pt 2-40 and Pt 3-30 (¶14-100ﬀ, ¶14-600ﬀ).

@@ -5,7 +5,6 @@ section: "beneﬁts-from-australian-superannuation-funds"
 title: "Beneﬁts from Australian superannuation funds"
 paragraph: "¶14-400"
 ---
-
 # Beneﬁts from Australian superannuation funds ¶14-400
 
 Special rules apply to the taxation of superannuation beneﬁts received from a non-complying superannuation fund that is an Australian superannuation fund (¶13-100) for the income year in which the beneﬁt is paid.

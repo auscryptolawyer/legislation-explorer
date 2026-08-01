@@ -5,7 +5,6 @@ section: "cgt-roll-over-for-exchange-of-stapled-securities"
 title: "CGT roll-over for exchange of stapled securities"
 paragraph: "¶12-440"
 ---
-
 # CGT roll-over for exchange of stapled securities ¶12-440
 
 A roll-over is available where there is an exchange of ownership interests under a scheme for reorganising the aﬀairs of stapled entities (Subdiv 124-Q).

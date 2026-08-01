@@ -5,7 +5,6 @@ section: "recipients-of-social-security-beneﬁts-and-allowances"
 title: "Recipients of social security beneﬁts and allowances"
 paragraph: "¶15-315"
 ---
-
 # Recipients of social security beneﬁts and allowances ¶15-315
 
 Taxpayers whose assessable income includes certain beneﬁts are entitled to a rebate of tax known as the “beneﬁciary rebate” (ITAA36 s 160AAA(1), (3)). The various payments that entitle a taxpayer to the beneﬁciary rebate are:

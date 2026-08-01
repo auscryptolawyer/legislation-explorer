@@ -5,7 +5,6 @@ section: "indirect-tax-sharing-agreements"
 title: "Indirect tax sharing agreements"
 paragraph: "¶17-025"
 ---
-
 # Indirect tax sharing agreements ¶17-025
 
 The possibility of becoming directly liable for the group’s tax liabilities if the group representative defaults (¶17-020) can create considerable uncertainty among group members, especially as the liability can arise even after the member has left the group. To overcome this problem, group members may enter into an indirect tax sharing agreement (“ITSA” or “ITXSA”) (Administration Act Sch 1 s 444-90).

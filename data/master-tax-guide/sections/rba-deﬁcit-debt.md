@@ -5,7 +5,6 @@ section: "rba-deﬁcit-debt"
 title: "RBA deﬁcit debt"
 paragraph: "¶24-340"
 ---
-
 # RBA deﬁcit debt ¶24-340
 
 An “RBA deﬁcit debt” is a balance in favour of the Commissioner based on primary tax debts that remain unpaid after their due date and payments and credits that have been allocated to the RBA (TAA s 8AAZA).

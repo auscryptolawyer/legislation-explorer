@@ -5,7 +5,6 @@ section: "eﬀective-life-transport-and-storage"
 title: "Eﬀective life — transport and storage"
 paragraph: "¶43-050"
 ---
-
 # Eﬀective life — transport and storage ¶43-050
 
 (46100 to 53090) Asset                                                       Life (Years)            Reviewed    Date Of Application

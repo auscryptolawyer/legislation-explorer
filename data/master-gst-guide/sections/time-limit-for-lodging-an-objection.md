@@ -5,7 +5,6 @@ section: "time-limit-for-lodging-an-objection"
 title: "Time limit for lodging an objection"
 paragraph: "¶18-610"
 ---
-
 # Time limit for lodging an objection ¶18-610
 
 - be in the approved form. Pro forma objection forms are available on the ATO website, though other

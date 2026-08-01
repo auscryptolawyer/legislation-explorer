@@ -5,7 +5,6 @@ section: "tax-on-no-tfn-contributions-income"
 title: "Tax on no-TFN contributions income"
 paragraph: "¶13-180"
 ---
-
 # Tax on no-TFN contributions income ¶13-180
 
 The provision of a person’s tax ﬁle number (TFN) for tax purposes is discussed in ¶33-000ﬀ (for TFNs and superannuation see ¶33-025). The SIS and RSA legislation provides for the extended use of the TFNs of members of superannuation entities and RSA providers for general superannuation administration purposes.

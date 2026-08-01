@@ -5,7 +5,6 @@ section: "expenses-incurred-in-carrying-on-a-business"
 title: "Expenses incurred in carrying on a business"
 paragraph: "¶16-015"
 ---
-
 # Expenses incurred in carrying on a business ¶16-015
 
 Expenses necessarily incurred in carrying on a business are deductible under ITAA97 s 8-1 (¶16-010). For a discussion of whether a business is being carried on, see ¶10-105; for a “primary production business”, see ¶18-020 and for a business of betting or gambling, see ¶10-430. Even where a taxpayer is considered to be carrying on a business, losses from the business cannot be claimed against other income unless the tests outlined at ¶16-020 are satisﬁed.

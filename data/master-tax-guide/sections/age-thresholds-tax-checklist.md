@@ -5,7 +5,6 @@ section: "age-thresholds-tax-checklist"
 title: "Age thresholds tax checklist"
 paragraph: "¶44-160"
 ---
-
 # Age thresholds tax checklist ¶44-160
 
 This checklist sets out, in chronological order, the respective ages at which various tax concessions, restrictions or other rules start or cease to apply.

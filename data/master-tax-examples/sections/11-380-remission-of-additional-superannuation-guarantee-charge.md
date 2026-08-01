@@ -5,7 +5,6 @@ section: "11-380-remission-of-additional-superannuation-guarantee-charge"
 title: "11-380 - Remission of additional superannuation guarantee charge"
 paragraph: "None"
 ---
-
 # 11-380 - Remission of additional superannuation guarantee charge
 
 Worked example: Remission of additional superannuation guarantee charge Issue Tardy Pty Ltd is a small company based in Perth. Its turnover is consistently less than $50 million per annum.

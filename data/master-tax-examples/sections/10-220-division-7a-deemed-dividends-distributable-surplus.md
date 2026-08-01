@@ -5,7 +5,6 @@ section: "10-220-division-7a-deemed-dividends-distributable-surplus"
 title: "10-220 - Division 7A deemed dividends distributable surplus"
 paragraph: "None"
 ---
-
 # 10-220 - Division 7A deemed dividends distributable surplus
 
 Worked example: Division 7A; deemed dividends; distributable surplus Issue ABC Pty Ltd (ABC) is wholly owned in equal proportions by Bill and Jill Smith. On 1 January 2025, ABC loaned $100,000 to Jill to assist her with the purchase of an investment property. The only documentation evidencing the loan was a director’s minute and the relevant entry in the company’s books of account.

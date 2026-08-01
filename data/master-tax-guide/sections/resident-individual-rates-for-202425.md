@@ -5,7 +5,6 @@ section: "resident-individual-rates-for-202425"
 title: "Resident individual rates for 2024–25"
 paragraph: "¶42-000"
 ---
-
 # Resident individual rates for 2024–25 ¶42-000
 
 2024–25 taxable income                                              Tax on column 1                    % on excess (column 1)                                                                                      (marginal rate) ($)                                                                ($) 18,200                                                              Nil                            16 45,000                                                             4,288                           30 135,000                                                            31,288                           37 190,000                                                            51,638                           45 A ready reckoner enabling quick calculation of gross tax payable on taxable incomes under $190,100 is provided at ¶42-023.

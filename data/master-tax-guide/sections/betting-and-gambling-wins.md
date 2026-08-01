@@ -5,7 +5,6 @@ section: "betting-and-gambling-wins"
 title: "Betting and gambling wins"
 paragraph: "¶10-430"
 ---
-
 # Betting and gambling wins ¶10-430
 
 Betting and gambling wins are not assessable (and losses not deductible) unless the taxpayer is carrying on a business of betting or gambling. The principal criteria for determining whether such a business is being carried on were summarised in Brajkovich 89 ATC 5227; [1989] FCA 454 as follows:

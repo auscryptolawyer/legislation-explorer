@@ -5,7 +5,6 @@ section: "right-to-a-credit-for-amounts-withheld"
 title: "Right to a credit for amounts withheld"
 paragraph: "¶26-660"
 ---
-
 # Right to a credit for amounts withheld ¶26-660
 
 In general, an entity that receives a withholding payment is entitled to a credit for the amount withheld.

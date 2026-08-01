@@ -8,7 +8,6 @@ section_title: Exempt interest: overseas money lent to government or local or pu
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 5  Exempt interest: overseas money lent to government or local or public authority before 29 July 1983
 
 **Exempt income**

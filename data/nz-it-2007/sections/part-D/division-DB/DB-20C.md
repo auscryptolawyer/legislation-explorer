@@ -8,7 +8,6 @@ section_title: Consideration for agreement to surrender leasehold estate or term
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 20C  Consideration for agreement to surrender leasehold estate or terminate licence
 
 **When this section applies**

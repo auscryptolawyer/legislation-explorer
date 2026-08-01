@@ -5,7 +5,6 @@ section: "holding-period-and-related-payments-rules"
 title: "Holding period and related payments rules"
 paragraph: "¶4-940"
 ---
-
 # Holding period and related payments rules ¶4-940
 
 As mentioned in ¶4-920, gross-up and tax oﬀset treatment does not apply to a recipient of a franked distribution where the recipient is not a “qualiﬁed person” in relation to the distribution for the purposes of ITAA36 Div 1A of former Pt IIIAA — ie because the holding period rule and/or related payments rules have not been satisﬁed: ITAA97 ss 207-145; 207-150; TD 2007/11.

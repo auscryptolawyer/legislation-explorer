@@ -8,7 +8,6 @@ section_title: Persons to whom financial arrangements rules apply
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 9  Persons to whom financial arrangements rules apply
 
 **Residents**

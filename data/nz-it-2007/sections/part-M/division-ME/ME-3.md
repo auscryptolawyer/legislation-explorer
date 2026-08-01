@@ -8,7 +8,6 @@ section_title: Meaning of net family scheme income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ME 3  Meaning of net family scheme income
 
 **When this section applies**

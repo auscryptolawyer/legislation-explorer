@@ -5,7 +5,6 @@ section: "partial-cgt-main-residence-exemption"
 title: "Partial CGT main residence exemption"
 paragraph: "¶11-760"
 ---
-
 # Partial CGT main residence exemption ¶11-760
 
 Main residence for part of ownership period Only a partial main residence exemption is available in respect of a dwelling if it was the taxpayer’s main residence for part only of the ownership period and it did not pass to the taxpayer as a beneﬁciary in, or as a trustee of, a deceased estate (s 118-185). The full exemption is proportionately reduced by reference to the period for which the dwelling was not the taxpayer’s main residence (subject to the temporary absence rule).

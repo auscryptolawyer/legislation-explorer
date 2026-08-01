@@ -5,7 +5,6 @@ section: "anti-avoidance-measures-for-gifts"
 title: "Anti-avoidance measures for gifts"
 paragraph: "¶16-975"
 ---
-
 # Anti-avoidance measures for gifts ¶16-975
 
 A deduction cannot be claimed for a gift unless a bona ﬁde beneﬁt is conferred on the charity, fund or institution (TR 2005/13). This is the eﬀect of a special anti-avoidance measure (ITAA36 s 78A) that denies any deduction under Div 30 for a gift where, by reason of the making of the gift or under any agreement or scheme associated with the gift:

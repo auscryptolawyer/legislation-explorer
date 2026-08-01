@@ -8,7 +8,6 @@ section_title: Returns of capital: shares repurchased under profit distribution 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 23B  Returns of capital: shares repurchased under profit distribution plans
 
 **When this section applies**

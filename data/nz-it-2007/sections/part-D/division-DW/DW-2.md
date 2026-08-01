@@ -8,7 +8,6 @@ section_title: Bloodstock racing
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DW 2  Bloodstock racing
 
 **No deduction**

@@ -5,7 +5,6 @@ section: "insurance-on-directors-and-employees"
 title: "Insurance on directors and employees"
 paragraph: "¶10-220"
 ---
-
 # Insurance on directors and employees ¶10-220
 
 Amounts received by an employer under an accident (or term) policy taken out in respect of its directors or employees are assessable as ordinary income if the purpose of the insurance is to ﬁll the place of a revenue item (eg to replace proﬁts lost through the loss of the employee’s services). This principle applies equally where the insured receiving the proceeds is not the actual employer but is a holding company that takes out accident insurance in relation to its subsidiary’s employees (Carapark Holdings (1967) 14 ATD 402).

@@ -8,7 +8,6 @@ section_title: Attributable CFC amount
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 20B  Attributable CFC amount
 
 **Attributable CFC amount**

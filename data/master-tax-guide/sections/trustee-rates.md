@@ -5,7 +5,6 @@ section: "trustee-rates"
 title: "Trustee rates"
 paragraph: "¶42-030"
 ---
-
 # Trustee rates ¶42-030
 
 The rates of tax payable by trustees for 2024–25 are set out below. A trustee assessed under ITAA36 s 98, 99 or 99A may also be liable for the Medicare levy (ITAA36 s 251S: ¶42-033, ¶6-250). A trustee assessed under s 98 may also be liable for the Medicare levy surcharge where the relevant beneﬁciary does not have adequate private patient hospital cover (¶42-033, ¶2-335).

@@ -8,7 +8,6 @@ section_title: Overpayment or underpayment of tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 6  Overpayment or underpayment of tax credit
 
 **When this section applies**

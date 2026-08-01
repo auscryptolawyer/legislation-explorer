@@ -5,7 +5,6 @@ section: "bakery-products"
 title: "Bakery products"
 paragraph: "¶13-150"
 ---
-
 # Bakery products ¶13-150
 
 - cakes, slices, cheesecakes, pancakes, waffles, crepes, muffins and puddings. The ATO considers

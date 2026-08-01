@@ -8,7 +8,6 @@ section_title: Non-cash dividends distributed through intermediaries
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 14C  Non-cash dividends distributed through intermediaries
 
 Sections RE 4 and RE 14 do not apply in relation to a non-cash dividend when—

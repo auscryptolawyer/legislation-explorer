@@ -8,7 +8,6 @@ section_title: Saving of binding rulings relating to settlements on trusts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HZ 7  Saving of binding rulings relating to settlements on trusts
 
 **When, and extent to which, this section applies**

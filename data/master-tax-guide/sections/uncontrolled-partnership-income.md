@@ -5,7 +5,6 @@ section: "uncontrolled-partnership-income"
 title: "Uncontrolled partnership income"
 paragraph: "¶5-180"
 ---
-
 # Uncontrolled partnership income ¶5-180
 
 To counteract loss of revenue through income-splitting by the use of family partnerships, a special further tax is imposed on any uncontrolled partnership income (s 94) (see ¶5-210 for the rate of the further tax).

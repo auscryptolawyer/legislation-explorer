@@ -5,7 +5,6 @@ section: "expenses-on-commencement-of-business"
 title: "Expenses on commencement of business"
 paragraph: "¶16-154"
 ---
-
 # Expenses on commencement of business ¶16-154
 
 Expenses associated with the purchase or establishment of a business are generally incurred at a point too soon to be regarded as being incurred in carrying on the business, although certain start-up costs may be written oﬀ as “blackhole expenditure” (¶16-156).

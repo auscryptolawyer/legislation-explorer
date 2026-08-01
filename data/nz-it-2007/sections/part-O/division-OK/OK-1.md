@@ -8,7 +8,6 @@ section_title: General rules for Maori authorities with Maori authority credit a
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OK 1  General rules for Maori authorities with Maori authority credit accounts
 
 **Accounts**

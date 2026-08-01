@@ -5,7 +5,6 @@ section: "travel-insurance-agents-and-related-matters"
 title: "Travel insurance, agents and related matters"
 paragraph: "¶12-020"
 ---
-
 # Travel insurance, agents and related matters ¶12-020
 
 Arranging or organising GST-free transport or travel is itself GST-free (s 38-355, item 7). For example, a travel agent’s commission for arranging overseas air fares is GST-free, while the commission for arranging a domestic holiday is taxable.

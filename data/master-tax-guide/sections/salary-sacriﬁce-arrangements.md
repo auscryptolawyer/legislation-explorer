@@ -5,7 +5,6 @@ section: "salary-sacriﬁce-arrangements"
 title: "Salary sacriﬁce arrangements"
 paragraph: "¶39-250"
 ---
-
 # Salary sacriﬁce arrangements ¶39-250
 
 A “salary sacriﬁce arrangement” (SSA) between an employer and employee is one under which:

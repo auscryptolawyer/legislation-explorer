@@ -5,7 +5,6 @@ section: "2-220-cgt-implications-on-establishment-and-dissolution-of-partnership
 title: "2-220 - CGT implications on establishment and dissolution of partnership"
 paragraph: "None"
 ---
-
 # 2-220 - CGT implications on establishment and dissolution of partnership
 
 Worked example: CGT implications on establishment and dissolution of partnership Issue Frank Martin and Jenny Finn, Australian residents, both owned and operated storage units businesses.

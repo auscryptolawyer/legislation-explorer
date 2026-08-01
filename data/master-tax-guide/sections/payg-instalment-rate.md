@@ -5,7 +5,6 @@ section: "payg-instalment-rate"
 title: "PAYG instalment rate"
 paragraph: "¶27-450"
 ---
-
 # PAYG instalment rate ¶27-450
 
 The Commissioner calculates a taxpayer’s instalment rate (to 2 decimal places) using the following formula (TAA s 45-320): notional tax ×   100 base assessment instalment income If either the notional tax (¶27-460) or the base assessment instalment income is nil, the instalment rate is also nil.

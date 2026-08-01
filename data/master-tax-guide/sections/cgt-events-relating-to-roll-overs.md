@@ -5,7 +5,6 @@ section: "cgt-events-relating-to-roll-overs"
 title: "CGT events relating to roll-overs"
 paragraph: "¶11-340"
 ---
-
 # CGT events relating to roll-overs ¶11-340
 
 wholly-owned group after roll-over

@@ -5,7 +5,6 @@ section: "4-180-interest-expenses-after-income-producing-activity-ceases-and-loa
 title: "4-180 - Interest expenses after income-producing activity ceases and loan refinanced"
 paragraph: "None"
 ---
-
 # 4-180 - Interest expenses after income-producing activity ceases and loan refinanced
 
 Worked example: Interest expenses after income-producing activity ceases and loan refinanced Issue Mary and Harry Stark, who are married, operated the Ironbark Café as a partnership. They jointly obtained an interest-bearing loan from the bank to fund the acquisition of the café’s business assets.

@@ -5,7 +5,6 @@ section: "tax-regime-for-life-insurance-companies"
 title: "Tax regime for life insurance companies"
 paragraph: "¶3-480"
 ---
-
 # Tax regime for life insurance companies ¶3-480
 
 Life insurance companies are taxed under ITAA97 Div 320. The intent is to tax life insurance companies in a broadly comparable way to other entities that derive similar kinds of income. A “life insurance company” is a company registered under the Life Insurance Act 1995 (ITAA97 s 995-1(1)). Companies registered under that Act include friendly societies that carry on life insurance business.

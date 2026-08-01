@@ -5,7 +5,6 @@ section: "lodging-activity-statements"
 title: "Lodging activity statements"
 paragraph: "¶24-240"
 ---
-
 # Lodging activity statements ¶24-240
 
 A penalty applies for failure to lodge an activity statement in the approved form (¶29-100). A document is in the “approved form” if it meets the requirements set out in TAA sch 1 s 388-50. An activity statement that is incomplete will be in the approved form if it contains the information required by the Commissioner (s 388-50(1A)).

@@ -5,7 +5,6 @@ section: "acquisitions"
 title: "acquisitions"
 paragraph: "¶16-670"
 ---
-
 # acquisitions ¶16-670
 
 Where the proﬁt arising from the carrying out of a proﬁt-making undertaking involving land or shares (or other property) acquired before 20 September 1985 is assessable under ITAA97 s 15-15, certain expenditure is taken into account in arriving at the assessable proﬁt although it may not have been deductible when incurred. Such expenditure is also taken into account in calculating proﬁts arising from the sale of property acquired before 20 September 1985 for the purpose of proﬁt-making by sale (ITAA36 s 25A).

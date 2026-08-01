@@ -5,7 +5,6 @@ section: "4-400-deductions-partnership-and-service-trust"
 title: "4-400 - Deductions partnership and service trust"
 paragraph: "None"
 ---
-
 # 4-400 - Deductions partnership and service trust
 
 Worked example: Deductions; partnership and service trust Issue Adrienne and Bonny Riley own and manage a sports clothing and accessories retail store in partnership (the Partnership). Charlotte Powers is employed as a sales assistant. Adrienne and Bonny established the Adrienne and Bonny Service Trust (the Service Trust) to supply the furniture and fittings for the sports store and to provide accounting, finance and IT services to the business. Adrienne and Bonny were the trustees and beneficiaries of the Service Trust.

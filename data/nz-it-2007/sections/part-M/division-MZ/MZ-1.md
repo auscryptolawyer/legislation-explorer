@@ -8,7 +8,6 @@ section_title: Entitlement to child tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MZ 1  Entitlement to child tax credit
 
 **When this section applies**

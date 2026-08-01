@@ -5,7 +5,6 @@ section: "3-340-various-managers-and-employees-benefits"
 title: "3-340 - Various managers and employees benefits"
 paragraph: "None"
 ---
-
 # 3-340 - Various managers and employees benefits
 
 Worked example: Various manager’s and employee’s benefits Issue Martin Lee is a young, talented manager who has been head hunted to join a new local baking company, Cupcakes Pty Ltd. In negotiating Martin’s employment contract, Martin and Cupcakes come to the following salary packaging arrangement for the 2024–25 FBT year:

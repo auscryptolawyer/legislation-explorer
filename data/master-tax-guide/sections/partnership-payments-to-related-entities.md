@@ -5,7 +5,6 @@ section: "partnership-payments-to-related-entities"
 title: "Partnership payments to related entities"
 paragraph: "¶5-100"
 ---
-
 # Partnership payments to related entities ¶5-100
 
 Where a partnership makes a payment or incurs a liability (eg salary or interest) to a person who is associated with a partner (ie a related entity), and that payment or liability that otherwise qualiﬁes as a deduction to the partnership is unreasonable in amount, the Commissioner may reduce the deduction to the partnership (ITAA97 s 26-35). The amount disallowed is not assessable to the payee unless the partner with whom the payee is associated is a private company, in which case the disallowed amount is treated as a dividend paid by the company to that person (s 65).

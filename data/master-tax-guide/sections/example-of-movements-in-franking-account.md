@@ -5,7 +5,6 @@ section: "example-of-movements-in-franking-account"
 title: "Example of movements in franking account"
 paragraph: "¶4-770"
 ---
-
 # Example of movements in franking account ¶4-770
 
 The following is an example of straightforward movements in a franking account. (For simplicity, a company rate of tax of 30% is assumed.)

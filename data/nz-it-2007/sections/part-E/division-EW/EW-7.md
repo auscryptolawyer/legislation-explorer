@@ -8,7 +8,6 @@ section_title: Change from private or domestic purpose
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 7  Change from private or domestic purpose
 
 **When this section applies**

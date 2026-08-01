@@ -5,7 +5,6 @@ section: "rental-properties-checklist"
 title: "Rental properties checklist"
 paragraph: "¶44-107"
 ---
-
 # Rental properties checklist ¶44-107
 
 - Travel and other expenses (such as agents’ fees or the cost of newspapers) incurred during the

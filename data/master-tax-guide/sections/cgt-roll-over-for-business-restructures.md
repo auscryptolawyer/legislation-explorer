@@ -5,7 +5,6 @@ section: "cgt-roll-over-for-business-restructures"
 title: "CGT roll-over for business restructures"
 paragraph: "¶12-370"
 ---
-
 # CGT roll-over for business restructures ¶12-370
 
 The general roll-over for business restructures is available pursuant to Div 615. The roll-over is available where interests, being shares or units in a unit trust, are disposed of, redeemed or cancelled, for shares in a company.

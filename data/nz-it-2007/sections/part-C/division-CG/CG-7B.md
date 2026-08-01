@@ -8,7 +8,6 @@ section_title: Disposals or applications after earlier deductions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 7B  Disposals or applications after earlier deductions
 
 **When this section applies**

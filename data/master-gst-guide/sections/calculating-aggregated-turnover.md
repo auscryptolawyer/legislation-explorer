@@ -5,7 +5,6 @@ section: "calculating-aggregated-turnover"
 title: "Calculating aggregated turnover"
 paragraph: "¶1-265"
 ---
-
 # Calculating aggregated turnover ¶1-265
 
 An entity’s aggregated turnover for an income year is the sum of its own “annual turnover” (see below) and the annual turnovers of other “relevant entities”, namely:

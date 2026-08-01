@@ -8,7 +8,6 @@ section_title: Payments for distinctive work clothing
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 17CC  Payments for distinctive work clothing
 
 **Exempt income**

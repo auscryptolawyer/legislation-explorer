@@ -8,7 +8,6 @@ section_title: Meaning of life insurance
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EY 8  Meaning of life insurance
 
 **Meaning**

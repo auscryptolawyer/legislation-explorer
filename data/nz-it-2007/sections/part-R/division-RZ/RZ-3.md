@@ -8,7 +8,6 @@ section_title: Standard method: 2010–11 to 2012–13 income years
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RZ 3  Standard method: 2010–11 to 2012–13 income years
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "the-key-features-of-the-tax-agent-registration-regime"
 title: "The key features of the tax agent registration regime"
 paragraph: "¶32-005"
 ---
-
 # The key features of the tax agent registration regime ¶32-005
 
 The following sets out the key features of the present tax agent registration regime. There is further discussion of some matters later in the chapter.

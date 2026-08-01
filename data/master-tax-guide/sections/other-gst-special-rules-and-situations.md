@@ -5,7 +5,6 @@ section: "other-gst-special-rules-and-situations"
 title: "Other GST special rules and situations"
 paragraph: "¶34-270"
 ---
-
 # Other GST special rules and situations ¶34-270
 
 Some special rules and situations that have not already been covered are set out below in alphabetical order.

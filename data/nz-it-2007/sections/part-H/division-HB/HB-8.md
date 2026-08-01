@@ -8,7 +8,6 @@ section_title: Disposal of financial arrangements and certain excepted financial
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HB 8  Disposal of financial arrangements and certain excepted financial arrangements
 
 **When this section applies**

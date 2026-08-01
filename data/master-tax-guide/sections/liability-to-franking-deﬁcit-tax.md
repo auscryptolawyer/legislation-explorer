@@ -5,7 +5,6 @@ section: "liability-to-franking-deﬁcit-tax"
 title: "Liability to franking deﬁcit tax"
 paragraph: "¶4-780"
 ---
-
 # Liability to franking deﬁcit tax ¶4-780
 
 Franking deﬁcit tax (FDT) is imposed by the New Business Tax System (Franking Deﬁcit Tax) Act 2002 (FDT

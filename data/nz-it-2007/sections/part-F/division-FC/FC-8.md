@@ -8,7 +8,6 @@ section_title: Transfer of certain financial arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FC 8  Transfer of certain financial arrangements
 
 **What this section applies to**

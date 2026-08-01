@@ -8,7 +8,6 @@ section_title: Application of this subpart
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DG 2  Application of this subpart
 
 **Asset by asset**

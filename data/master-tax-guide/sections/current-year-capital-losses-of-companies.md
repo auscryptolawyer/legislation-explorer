@@ -5,7 +5,6 @@ section: "current-year-capital-losses-of-companies"
 title: "Current year capital losses of companies"
 paragraph: "¶11-090"
 ---
-
 # Current year capital losses of companies ¶11-090
 
 Special rules stop capital gains made by a company in one part of an income year when it was owned by one set of shareholders from being oﬀset by capital losses made by the company during another part of the income year when it was owned by a diﬀerent set of shareholders (¶3-065).

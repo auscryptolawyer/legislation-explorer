@@ -8,7 +8,6 @@ section_title: Australian wine producer rebate
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CV 7  Australian wine producer rebate
 
 An amount of Australian wine producer rebate derived by a New Zealand resident wine producer is income of the wine producer.

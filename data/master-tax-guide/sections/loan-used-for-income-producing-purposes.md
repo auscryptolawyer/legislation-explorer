@@ -5,7 +5,6 @@ section: "loan-used-for-income-producing-purposes"
 title: "Loan used for income-producing purposes"
 paragraph: "¶35-300"
 ---
-
 # Loan used for income-producing purposes ¶35-300
 
 The taxable value of a loan fringe beneﬁt may be reduced where an employee (but not an associate of an employee) uses all or part of the loan concerned for income-producing purposes (s 19; ¶35-680). The test for whether a reduction of the taxable value is allowable is based on the assumption that the employee was liable for interest on the loan during the year at the statutory rate (¶35-290). On this basis, the amount of the reduction is the amount the employee would have been allowed as a once-only income tax deduction for all or part of the (notional) interest liability. Deductibility is determined on the last day of the FBT year while the loan exists, and on the date of ﬁnal repayment.

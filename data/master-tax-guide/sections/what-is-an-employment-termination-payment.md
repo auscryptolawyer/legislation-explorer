@@ -5,7 +5,6 @@ section: "what-is-an-employment-termination-payment"
 title: "What is an employment termination payment?"
 paragraph: "¶14-610"
 ---
-
 # What is an employment termination payment? ¶14-610
 
 A payment to a person is an “employment termination payment” if the following conditions are met:

@@ -5,7 +5,6 @@ section: "cgt-implications-of-becoming-an-australian-resident"
 title: "CGT implications of becoming an Australian resident"
 paragraph: "¶12-740"
 ---
-
 # CGT implications of becoming an Australian resident ¶12-740
 
 If an individual or company becomes an Australian resident or a trust becomes a resident for CGT purposes, special cost base and acquisition rules apply in respect of each CGT asset owned by the taxpayer just before becoming a resident (ss 855-45; 855-50). However, these rules do not apply to pre-CGT assets or assets that are taxable Australian property (¶12-725).

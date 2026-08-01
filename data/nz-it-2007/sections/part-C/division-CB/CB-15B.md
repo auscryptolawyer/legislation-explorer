@@ -8,7 +8,6 @@ section_title: When land acquired
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 15B  When land acquired
 
 **General rule**

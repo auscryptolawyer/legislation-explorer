@@ -8,7 +8,6 @@ section_title: Person receiving protected Best Start tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MG 4  Person receiving protected Best Start tax credit
 
 **Requirements**

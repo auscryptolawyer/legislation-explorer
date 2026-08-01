@@ -8,7 +8,6 @@ section_title: Community housing trusts and companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 42B  Community housing trusts and companies
 
 **Exempt income**

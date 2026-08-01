@@ -5,7 +5,6 @@ section: "goods-held-at-1-july-2000"
 title: "Goods held at 1 July 2000"
 paragraph: "¶16-130"
 ---
-
 # Goods held at 1 July 2000 ¶16-130
 
 Both the special input tax credit and the global accounting method extend to second-hand goods you acquired as stock before 1 July 2000, provided that you still held them as stock at that date (Transition Act, s 18). This requires that they be held for the purpose of sale or exchange in the ordinary course of business.

@@ -5,7 +5,6 @@ section: "importance-of-registration"
 title: "Importance of registration"
 paragraph: "¶3-000"
 ---
-
 # Importance of registration ¶3-000
 
 - GST is normally only payable on a sale or supply if you are registered, except in the case of imports

@@ -5,7 +5,6 @@ section: "international-cooperation-on-transfer-pricing"
 title: "International cooperation on transfer pricing"
 paragraph: "¶22-640"
 ---
-
 # International cooperation on transfer pricing ¶22-640
 
 The Australian Government is actively involved in dialogue and cooperation with governments and revenue authorities to target fraud, money laundering and tax evasion. For other developments in relation to international cooperation, information sharing and proﬁt shifting countermeasures, see ¶22-165.

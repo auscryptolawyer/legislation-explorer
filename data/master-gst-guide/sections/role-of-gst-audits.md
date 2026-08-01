@@ -5,7 +5,6 @@ section: "role-of-gst-audits"
 title: "Role of GST audits"
 paragraph: "¶18-160"
 ---
-
 # Role of GST audits ¶18-160
 
 Under the self-assessment system that applies to GST, taxpayers are normally obliged to provide only limited information in their returns, without supplying supporting or verifying material. Apart from picking up some obvious errors, the ATO does not routinely check every return.

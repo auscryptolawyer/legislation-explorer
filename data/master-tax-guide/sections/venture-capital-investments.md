@@ -5,7 +5,6 @@ section: "venture-capital-investments"
 title: "Venture capital investments"
 paragraph: "¶10-845"
 ---
-
 # Venture capital investments ¶10-845
 
 Certain foreign resident investors can disregard capital gains and capital losses from CGT events that relate to venture capital investments (¶11-900). There are corresponding rules in ITAA97 Div 51 to ensure that an exemption will also be available where the same circumstances apply but the gain or proﬁt is on revenue account rather than capital account.

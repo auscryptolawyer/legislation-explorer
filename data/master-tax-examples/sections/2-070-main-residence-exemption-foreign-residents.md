@@ -5,7 +5,6 @@ section: "2-070-main-residence-exemption-foreign-residents"
 title: "2-070 - Main residence exemption foreign residents"
 paragraph: "None"
 ---
-
 # 2-070 - Main residence exemption foreign residents
 
 Worked example: Main residence exemption: foreign residents Issue Richard Gregory is a senior executive with a multinational technology company, MyWeb. Born and raised in Australia, in early 2019, Richard was offered the opportunity to move to MyWeb’s global headquarters in Seattle, United States. He moved to Seattle on 1 July 2020 with the intention of remaining permanently in the United States. He retained his home in Melbourne, which was originally acquired on 1 July 2011.

@@ -8,7 +8,6 @@ section_title: Overpayment on amended assessment
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RM 4  Overpayment on amended assessment
 
 **Assessment increasing tax**

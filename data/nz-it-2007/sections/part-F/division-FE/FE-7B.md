@@ -8,7 +8,6 @@ section_title: Interest on public project debt for certain excess debt entities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 7B  Interest on public project debt for certain excess debt entities
 
 **Who this section applies to**

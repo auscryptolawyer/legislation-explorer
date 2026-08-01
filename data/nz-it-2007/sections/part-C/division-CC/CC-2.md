@@ -8,7 +8,6 @@ section_title: Non-compliance with covenant for repair
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CC 2  Non-compliance with covenant for repair
 
 **When this section applies**

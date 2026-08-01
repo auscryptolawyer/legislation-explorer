@@ -8,7 +8,6 @@ section_title: Treatment of tax losses by consolidated groups
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ID 1  Treatment of tax losses by consolidated groups
 
 **Consolidated group’s net losses**

@@ -5,7 +5,6 @@ section: "continuous-period-of-qualifying-service"
 title: "Continuous period of qualifying service"
 paragraph: "¶10-875"
 ---
-
 # Continuous period of qualifying service ¶10-875
 
 The approved overseas project exemption applies where the qualifying service is for a continuous period of at least 91 days. Broadly, this comprises days performing personal services abroad on the project and reasonable time spent travelling between Australia and the project site. It also includes: weekends and equivalent time oﬀ; and periods of absence from work due to illness or accident and holidays taken — during or at the end of the assignment to the project and whether in Australia or overseas — that accrued during the relevant period. Note that a person is deemed to have taken leave in the most advantageous order.

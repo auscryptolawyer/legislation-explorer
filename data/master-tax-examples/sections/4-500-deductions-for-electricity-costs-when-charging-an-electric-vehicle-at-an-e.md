@@ -5,7 +5,6 @@ section: "4-500-deductions-for-electricity-costs-when-charging-an-electric-vehic
 title: "4-500 - Deductions for electricity costs when charging an electric vehicle at an employees or individuals home"
 paragraph: "None"
 ---
-
 # 4-500 - Deductions for electricity costs when charging an electric vehicle at an employees or individuals home
 
 individual’s home Worked example: Deductions for electricity costs when charging an electric vehicle at an employee’s or individual’s home Issue Zenia Walker owns an electric car that she charges from her home approximately 5 times per week.

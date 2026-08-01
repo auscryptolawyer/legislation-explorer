@@ -5,7 +5,6 @@ section: "problems-arising-from-the-transfer-of-assets"
 title: "Problems arising from the transfer of assets"
 paragraph: "¶31-300"
 ---
-
 # Problems arising from the transfer of assets ¶31-300
 
 The transfer of assets may give rise to unfavourable taxation and other consequences. Some of the more common problems are mentioned below.

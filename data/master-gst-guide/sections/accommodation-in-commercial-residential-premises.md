@@ -5,7 +5,6 @@ section: "accommodation-in-commercial-residential-premises"
 title: "Accommodation in commercial residential premises"
 paragraph: "¶11-320"
 ---
-
 # Accommodation in commercial residential premises ¶11-320
 
 A supply of residential premises by way of lease, hire or licence is generally taxable if the supply is of:

@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 160ZZZE Notional derivative transactions between branch and bank
 
 If the accounting records of an Australian branch of a foreign bank reflect a derivative transaction notionally entered into by the branch with the bank:

@@ -5,7 +5,6 @@ section: "gst-turnover"
 title: "GST turnover"
 paragraph: "¶34-115"
 ---
-
 # GST turnover ¶34-115
 
 An entity’s GST turnover is relevant in determining whether the entity is required to register (¶34-100). It is also relevant in determining whether it is required to lodge monthly or electronic returns (¶34-120).

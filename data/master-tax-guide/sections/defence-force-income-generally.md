@@ -5,7 +5,6 @@ section: "defence-force-income-generally"
 title: "Defence Force income generally"
 paragraph: "¶10-750"
 ---
-
 # Defence Force income generally ¶10-750
 
 Generally, persons serving with the Defence Forces and Reserves include the same items in income as do civilians. Hence amounts based on periods of service or special duty and comparable allowances are fully included in assessable income in the absence of speciﬁc statutory exclusions.

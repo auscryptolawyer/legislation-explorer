@@ -8,7 +8,6 @@ section_title: Liability when company leaves consolidated group
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FM 5  Liability when company leaves consolidated group
 
 **Company leaving consolidated group**

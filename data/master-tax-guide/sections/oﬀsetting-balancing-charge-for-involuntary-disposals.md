@@ -5,7 +5,6 @@ section: "oﬀsetting-balancing-charge-for-involuntary-disposals"
 title: "Oﬀsetting balancing charge for involuntary disposals"
 paragraph: "¶17-720"
 ---
-
 # Oﬀsetting balancing charge for involuntary disposals ¶17-720
 
 A balancing adjustment oﬀset is available for certain involuntary disposals. An involuntary disposal arises where plant is lost or destroyed (including stolen: ID 2002/782), or an Australian government agency acquires it compulsorily or by forced negotiation (ITAA97 s 40-365).

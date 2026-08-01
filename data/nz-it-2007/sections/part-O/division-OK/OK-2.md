@@ -8,7 +8,6 @@ section_title: MACA payment of tax or transfer to account
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OK 2  MACA payment of tax or transfer to account
 
 **Credit**

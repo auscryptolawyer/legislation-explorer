@@ -8,7 +8,6 @@ section_title: Foreign PIE equivalents
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 3  Foreign PIE equivalents
 
 **General definition**

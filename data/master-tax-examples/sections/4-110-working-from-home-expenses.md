@@ -5,7 +5,6 @@ section: "4-110-working-from-home-expenses"
 title: "4-110 - Working from home expenses"
 paragraph: "None"
 ---
-
 # 4-110 - Working from home expenses
 
 Worked example: Working from home expenses Issue Amelia Swithins is a senior lawyer with a legal firm. Her employer implements flexible working arrangements because of which Amelia works at home 3 days a week, and in the office 2 days a week. Amelia records her working hours by completing daily timesheets. These show that she worked 1,095 hours at home in total for the period from 1 July 2024 to 30 June 2025.

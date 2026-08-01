@@ -8,7 +8,6 @@ section_title: NRWT calculation option
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 44B  NRWT calculation option
 
 **When this section applies**

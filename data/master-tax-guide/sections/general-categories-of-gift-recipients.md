@@ -5,7 +5,6 @@ section: "general-categories-of-gift-recipients"
 title: "General categories of gift recipients"
 paragraph: "¶16-950"
 ---
-
 # General categories of gift recipients ¶16-950
 
 Gifts of $2 or more to the organisations, institutions, funds, etc, listed below are deductible, subject to the qualiﬁcations mentioned at ¶16-942 and, particularly, the requirement that the recipient of the gift be a charity, fund, organisation or authority in Australia (note that it is proposed to remove the $2 minimum requirement: ¶16-942). This normally requires that the institution be established and operated in Australia (TR 2019/6; ¶10-604).

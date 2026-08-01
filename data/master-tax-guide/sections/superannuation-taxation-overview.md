@@ -5,7 +5,6 @@ section: "superannuation-taxation-overview"
 title: "Superannuation taxation overview"
 paragraph: "¶13-010"
 ---
-
 # Superannuation taxation overview ¶13-010
 
 This chapter covers the taxation rules for superannuation funds, the tax concessions for superannuation contributions and limits on the concessional treatment of contributions under the Tax Acts, and the supervisory regime under the superannuation industry supervision (SIS) legislation. The taxation rules for superannuation fund beneﬁts and employment termination beneﬁts are discussed in ¶14-000ﬀ. The superannuation guarantee scheme is discussed in ¶39-000ﬀ.

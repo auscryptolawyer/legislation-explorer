@@ -5,7 +5,6 @@ section: "public-oﬃcer-of-trust"
 title: "Public oﬃcer of trust"
 paragraph: "¶6-050"
 ---
-
 # Public oﬃcer of trust ¶6-050
 
 A trust that does not have a resident trustee and that has a business in Australia or Australian source property income (except dividends, interest or royalties subject to withholding tax) is required to appoint a public oﬃcer to ensure that the trustee’s taxation responsibilities are met (s 252A). The qualiﬁcations for the public oﬃcer are the same as for public oﬃcers generally (¶3-030). The Commissioner has power to exempt (conditionally or unconditionally) particular trusts from the requirement to appoint a public oﬃcer.

@@ -5,7 +5,6 @@ section: "tax-shelters"
 title: "Tax “shelters”"
 paragraph: "¶31-045"
 ---
-
 # Tax “shelters” ¶31-045
 
 Taxpayers may be tempted to invest in tax shelters towards the end of each income year. Essentially, these tax shelters have a common element: the investment of borrowed funds by the taxpayer in circumstances where deductions are generated in the early years of the transaction and oﬀset by assessable income in later years (provided representations as to the assessable income ﬂows are met), with the net result that the taxpayer obtains the beneﬁt of a deferral of tax. In the case of a high income earner, such tax savings can generate signiﬁcant cash ﬂow advantages in the early years of the arrangement.

@@ -5,7 +5,6 @@ section: "signiﬁcant-individual-test"
 title: "Signiﬁcant individual test"
 paragraph: "¶7-155"
 ---
-
 # Signiﬁcant individual test ¶7-155
 
 An entity satisﬁes the signiﬁcant individual test if the entity had at least one signiﬁcant individual just before the relevant CGT event (s 152-50). The signiﬁcant individual test is relevant to the small business retirement exemption (¶7-185).

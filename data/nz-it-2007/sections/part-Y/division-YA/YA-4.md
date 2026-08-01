@@ -8,7 +8,6 @@ section_title: General rules for giving information or communicating matters
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YA 4  General rules for giving information or communicating matters
 
 **General rules**

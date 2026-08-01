@@ -5,7 +5,6 @@ section: "australian-business-number"
 title: "Australian Business Number"
 paragraph: "¶3-050"
 ---
-
 # Australian Business Number ¶3-050
 
 The Australian Business Number (ABN) is a unique 11-digit business identifier which can be used for the GST and various other tax-related purposes.

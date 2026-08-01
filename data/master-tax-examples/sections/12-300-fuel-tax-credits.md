@@ -5,7 +5,6 @@ section: "12-300-fuel-tax-credits"
 title: "12-300 - Fuel tax credits"
 paragraph: "None"
 ---
-
 # 12-300 - Fuel tax credits
 
 Worked example: Fuel tax credits Issue Charteris Haulage is a haulage and logistics company that transports goods around Australia by road, using a network of heavy goods vehicles. The company claims fuel tax credits in relation to the use of their heavy vehicles to transport goods. It has come to the attention of management that they may have been systematically under-claiming fuel tax credits for several years, at least as far back as the financial year ended 30 June 2018, due to incorrectly deducting road user charges associated with toll roads from the fuel tax credits claimed. The company’s Board believes that the road user charge is about compensating public authorities for the need to maintain public road surfaces and that toll roads are not public roads, being privately maintained by the toll operators.

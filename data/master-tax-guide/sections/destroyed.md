@@ -5,7 +5,6 @@ section: "destroyed"
 title: "destroyed"
 paragraph: "¶12-260"
 ---
-
 # destroyed ¶12-260
 
 A replacement-asset roll-over may be available to a taxpayer if an involuntary disposal happens to an asset owned by the taxpayer because (s 124-70):

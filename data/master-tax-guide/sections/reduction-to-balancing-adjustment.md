@@ -5,7 +5,6 @@ section: "reduction-to-balancing-adjustment"
 title: "Reduction to balancing adjustment"
 paragraph: "¶17-660"
 ---
-
 # Reduction to balancing adjustment ¶17-660
 
 Balancing adjustment where part business use If the deduction for the decline in value of a depreciating asset held by a taxpayer is reduced because the asset was used for non-taxable purposes or because the asset was a boat or leisure facility that did not satisfy certain conditions (¶17-010, ¶17-570), any balancing adjustment amount that would otherwise be assessable or deductible (¶17-630) is reduced by the fraction (ITAA97 s 40-290): sum of reductions total decline The sum of reductions is the sum of the amount by which the deductions for the decline in value of the asset were reduced in the hands of the taxpayer under ITAA97 s 40-25, or an earlier transferor (if there has been roll-over relief: ¶17-710), or a deceased taxpayer (if the asset is now held by the legal personal representative of the deceased taxpayer). No reduction applies for non-taxable use of an asset after deductions are claimed under temporary full expensing (¶17-330). Total decline refers to the sum of the decline in value of the asset while being held by the taxpayer, or an earlier transferor or a deceased taxpayer.

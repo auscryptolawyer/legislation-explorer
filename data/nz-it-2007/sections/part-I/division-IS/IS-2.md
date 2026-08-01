@@ -8,7 +8,6 @@ section_title: Treatment of net losses resulting from certain expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IS 2  Treatment of net losses resulting from certain expenditure
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "producer-oﬀset"
 title: "Producer oﬀset"
 paragraph: "¶20-340"
 ---
-
 # Producer oﬀset ¶20-340
 
 The producer oﬀset (ITAA97 ss 376-55 to 376-75) is available to a company for an income year in respect of a ﬁlm where:

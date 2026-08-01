@@ -5,7 +5,6 @@ section: "3-020-car-fringe-benefit"
 title: "3-020 - Car fringe benefit"
 paragraph: "None"
 ---
-
 # 3-020 - Car fringe benefit
 
 Worked example: Car fringe benefit Issue On 1 April 2024, Bourke Pty Ltd, a Melbourne based company, purchased a new company car at a cost of $50,000 including GST. The car was registered and insured on that date and was to be used exclusively by Tom Grant, Bourke’s Business Manager. The total distance travelled by the car in 12 months was 22,000 km, 8,000 km of which was for business purposes. The car was garaged at Tom’s residence.

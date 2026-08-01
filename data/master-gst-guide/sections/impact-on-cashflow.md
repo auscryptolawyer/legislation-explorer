@@ -5,7 +5,6 @@ section: "impact-on-cashflow"
 title: "Impact on cashflow"
 paragraph: "¶21-050"
 ---
-
 # Impact on cashflow ¶21-050
 
 One of the claimed advantages of the GST is that businesses get cashflow benefits, because they have the benefit of holding the GST they have received from their customers before having to remit it to the ATO.

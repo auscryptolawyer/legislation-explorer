@@ -5,7 +5,6 @@ section: "payg-working-holiday-makers"
 title: "PAYG: working holiday makers"
 paragraph: "¶26-277"
 ---
-
 # PAYG: working holiday makers ¶26-277
 
 Special arrangements apply to “working holiday makers”, known as the “backpacker tax” (¶21-033). A working holiday maker is an individual who holds a working holiday visa (subclass 417), a work and holiday visa (subclass 462), or one of certain related bridging visas (ss 3(1) and 3A(1) of the Income Tax Rates Act 1986).

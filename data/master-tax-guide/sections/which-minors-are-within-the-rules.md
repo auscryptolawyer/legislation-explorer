@@ -5,7 +5,6 @@ section: "which-minors-are-within-the-rules"
 title: "Which minors are within the rules?"
 paragraph: "¶2-170"
 ---
-
 # Which minors are within the rules? ¶2-170
 
 Persons to whom the special rules apply are called “prescribed persons”. A prescribed person is any person under 18 years of age at the end of the income year except (ITAA36 s 102AC):

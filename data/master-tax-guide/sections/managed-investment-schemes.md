@@ -5,7 +5,6 @@ section: "managed-investment-schemes"
 title: "Managed investment schemes"
 paragraph: "¶6-400"
 ---
-
 # Managed investment schemes ¶6-400
 
 A managed investment scheme (MIS or managed fund) is a type of collective investment vehicle such as a public unit trust. In such a trust, investors hand over money or other assets to a professional manager who manages the total funds to produce a return that is shared by the investors. As members of the scheme, investors hold units in the trust that represent a proportional beneﬁcial entitlement to the trust assets.

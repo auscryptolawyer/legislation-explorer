@@ -5,7 +5,6 @@ section: "partners-eﬀective-control-over-partnership-income"
 title: "Partner’s eﬀective control over partnership income"
 paragraph: "¶5-190"
 ---
-
 # Partner’s eﬀective control over partnership income ¶5-190
 
 In determining whether a partner has real and eﬀective control and disposal of their share of partnership income, regard should be had to:

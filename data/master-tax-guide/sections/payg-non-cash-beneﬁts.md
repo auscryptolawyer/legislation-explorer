@@ -5,7 +5,6 @@ section: "payg-non-cash-beneﬁts"
 title: "PAYG: non-cash beneﬁts"
 paragraph: "¶26-300"
 ---
-
 # PAYG: non-cash beneﬁts ¶26-300
 
 An entity that provides a non-cash beneﬁt, and an entity that receives such a beneﬁt, is in the same position as an entity that pays or receives money. This prevents entities from avoiding their PAYG withholding obligations by providing non-cash beneﬁts.

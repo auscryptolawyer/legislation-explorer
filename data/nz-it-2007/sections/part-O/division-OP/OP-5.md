@@ -8,7 +8,6 @@ section_title: When credits and debits arise only in consolidated imputation gro
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 5  When credits and debits arise only in consolidated imputation group accounts
 
 **Credits only in group account**

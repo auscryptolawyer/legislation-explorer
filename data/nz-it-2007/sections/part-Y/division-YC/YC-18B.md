@@ -8,7 +8,6 @@ section_title: Corporate reorganisations not affecting economic ownership
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YC 18B  Corporate reorganisations not affecting economic ownership
 
 **When subsection (3) applies**

@@ -5,7 +5,6 @@ section: "distribution-of-shortfall-component"
 title: "Distribution of shortfall component"
 paragraph: "¶39-600"
 ---
-
 # Distribution of shortfall component ¶39-600
 
 When an employer pays the SG charge to the ATO under the SGAA (¶39-500), the Commissioner must apply the “shortfall component” of the charge for the beneﬁt of each employee in respect of whom the charge was paid (a “beneﬁting employee”), as worked out under SGAA s 64A (or s 64B if there is more than one beneﬁting employee). Former employees are treated as if they are employees of their former employer (SGAA s 63A(1A)).

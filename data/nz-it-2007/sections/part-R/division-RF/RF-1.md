@@ -8,7 +8,6 @@ section_title: NRWT rules and their application
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 1  NRWT rules and their application
 
 **Meaning**

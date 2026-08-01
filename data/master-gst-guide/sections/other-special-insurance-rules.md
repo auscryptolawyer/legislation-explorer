@@ -5,7 +5,6 @@ section: "other-special-insurance-rules"
 title: "Other special insurance rules"
 paragraph: "¶10-150"
 ---
-
 # Other special insurance rules ¶10-150
 
 Tax invoices.

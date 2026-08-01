@@ -8,7 +8,6 @@ section_title: Summary of property rollover relief provisions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FP 4  Summary of property rollover relief provisions
 
 **Guidance**

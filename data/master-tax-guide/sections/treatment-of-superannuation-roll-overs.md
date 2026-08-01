@@ -5,7 +5,6 @@ section: "treatment-of-superannuation-roll-overs"
 title: "Treatment of superannuation roll-overs"
 paragraph: "¶14-450"
 ---
-
 # Treatment of superannuation roll-overs ¶14-450
 
 - it is a superannuation lump sum and a superannuation beneﬁt (TD 2013/11: pre-1 July 2017

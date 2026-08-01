@@ -8,7 +8,6 @@ section_title: Foreign research and development expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LY 7  Foreign research and development expenditure
 
 **When this section applies**

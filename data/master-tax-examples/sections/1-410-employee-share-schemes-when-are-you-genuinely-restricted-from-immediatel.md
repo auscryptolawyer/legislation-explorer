@@ -5,7 +5,6 @@ section: "1-410-employee-share-schemes-when-are-you-genuinely-restricted-from-im
 title: "1-410 - Employee share schemes when are you genuinely restricted from immediately disposing of a share interest"
 paragraph: "None"
 ---
-
 # 1-410 - Employee share schemes when are you genuinely restricted from immediately disposing of a share interest
 
 disposing of a share interest?

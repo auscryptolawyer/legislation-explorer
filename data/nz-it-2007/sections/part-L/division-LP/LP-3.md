@@ -8,7 +8,6 @@ section_title: Use of remaining credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LP 3  Use of remaining credits
 
 **When this section applies**

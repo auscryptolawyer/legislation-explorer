@@ -8,7 +8,6 @@ section_title: Ring-fencing cap on deduction
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DN 4  Ring-fencing cap on deduction
 
 **Amount of deduction: CFC not elective attributing CFC**

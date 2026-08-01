@@ -5,7 +5,6 @@ section: "summary-of-assessable-dealings"
 title: "Summary of assessable dealings"
 paragraph: "¶22-150"
 ---
-
 # Summary of assessable dealings ¶22-150
 
 Essentially, WET is a value-based tax directed at the final sale of wine at the wholesale level or an equivalent transaction. Intermediate steps are covered by a system of exemptions (¶22-420).

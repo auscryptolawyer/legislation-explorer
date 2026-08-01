@@ -8,7 +8,6 @@ section_title: Who is eligible to be a Maori authority?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HF 2  Who is eligible to be a Maori authority?
 
 **What this section does**

@@ -5,7 +5,6 @@ section: "drinks"
 title: "Drinks"
 paragraph: "¶13-180"
 ---
-
 # Drinks ¶13-180
 
 The following types of drinks or drink ingredients are GST-free, unless they are supplied for consumption on the premises or as a hot takeaway item:

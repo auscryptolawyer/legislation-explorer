@@ -8,7 +8,6 @@ section_title: Nature of ownership of item
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EE 2  Nature of ownership of item
 
 **Kinds of ownership**

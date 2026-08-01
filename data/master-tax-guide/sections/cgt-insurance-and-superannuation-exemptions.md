@@ -5,7 +5,6 @@ section: "cgt-insurance-and-superannuation-exemptions"
 title: "CGT: insurance and superannuation exemptions"
 paragraph: "¶11-880"
 ---
-
 # CGT: insurance and superannuation exemptions ¶11-880
 
 Insurance policies and annuity instruments The insurance policy exemption comes into play when a CGT event aﬀects an insurance policy so as to give rise to a capital gain or loss. This happens, for example, when an insurance policy is paid out, when an asset is transferred to the policy owner in accordance with the policy or when the surrender value of the policy is paid.

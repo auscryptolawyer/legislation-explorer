@@ -8,7 +8,6 @@ section_title: Disposals of emissions units
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GC 3B  Disposals of emissions units
 
 **When section GC 1 applies**

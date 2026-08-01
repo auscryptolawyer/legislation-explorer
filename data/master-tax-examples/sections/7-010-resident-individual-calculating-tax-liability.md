@@ -5,7 +5,6 @@ section: "7-010-resident-individual-calculating-tax-liability"
 title: "7-010 - Resident individual calculating tax liability"
 paragraph: "None"
 ---
-
 # 7-010 - Resident individual calculating tax liability
 
 Worked example: Resident individual; calculating tax liability Lina Chua arrived in Australia on 1 June 2024 to take up a position with a bank and was a resident for tax purposes from that time. Before coming to Australia, Lina was a full-time student in Singapore. She was single and took out private health insurance when she arrived in Australia.

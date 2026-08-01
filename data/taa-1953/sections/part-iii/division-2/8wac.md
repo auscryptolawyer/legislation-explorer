@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8WAC  Producing or supplying electronic sales suppression tools
 
 <a id="s8WAC-1"></a>

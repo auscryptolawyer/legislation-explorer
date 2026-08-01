@@ -5,7 +5,6 @@ section: "residence-of-companies"
 title: "Residence of companies"
 paragraph: "¶21-040"
 ---
-
 # Residence of companies ¶21-040
 
 - it is incorporated in Australia, or

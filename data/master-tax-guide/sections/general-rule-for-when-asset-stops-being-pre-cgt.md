@@ -5,7 +5,6 @@ section: "general-rule-for-when-asset-stops-being-pre-cgt"
 title: "General rule for when asset stops being pre-CGT"
 paragraph: "¶12-870"
 ---
-
 # General rule for when asset stops being pre-CGT ¶12-870
 
 An asset stops being a pre-CGT asset when majority underlying interests in the asset were not held by the same ultimate owners who held those interests in the asset immediately before 20 September 1985.

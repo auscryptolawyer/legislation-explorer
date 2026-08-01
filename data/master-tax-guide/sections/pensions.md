@@ -5,7 +5,6 @@ section: "pensions"
 title: "pensions"
 paragraph: "¶14-510"
 ---
-
 # pensions ¶14-510
 
 Section 27H of ITAA36 provides for the taxation of an annuity, a pension paid from a foreign superannuation fund (within the meaning of ITAA97) or a pension paid from a scheme mentioned in ITAA97 s 290-5(c), other than:

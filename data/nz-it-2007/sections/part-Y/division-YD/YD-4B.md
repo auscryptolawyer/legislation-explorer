@@ -8,7 +8,6 @@ section_title: Meaning of permanent establishment
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 4B  Meaning of permanent establishment
 
 **What this section does**

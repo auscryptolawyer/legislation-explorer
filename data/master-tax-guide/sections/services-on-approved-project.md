@@ -5,7 +5,6 @@ section: "services-on-approved-project"
 title: "Services on “approved project”"
 paragraph: "¶10-880"
 ---
-
 # Services on “approved project” ¶10-880
 
 The taxpayer must perform personal services overseas in connection with an “approved project”.

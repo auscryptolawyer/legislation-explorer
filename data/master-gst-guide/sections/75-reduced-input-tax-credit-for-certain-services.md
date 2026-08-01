@@ -5,7 +5,6 @@ section: "75-reduced-input-tax-credit-for-certain-services"
 title: "75% “reduced” input tax credit for certain services"
 paragraph: "¶10-040"
 ---
-
 # 75% “reduced” input tax credit for certain services ¶10-040
 
 As financial supplies are input taxed, the supplier cannot normally claim input tax credits (ITCs) for acquisitions it makes in making those supplies. However, a 75% reduced ITC (RITC) is allowed for certain types of services, known as “reduced credit acquisitions” (s 70-5), acquired by financial supply providers.

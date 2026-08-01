@@ -5,7 +5,6 @@ section: "2-200-demolition-subdivision-of-land-construction-of-units"
 title: "2-200 - Demolition subdivision of land construction of units"
 paragraph: "None"
 ---
-
 # 2-200 - Demolition subdivision of land construction of units
 
 Worked example: Demolition; subdivision of land; construction of units Issue On 1 July 2012, Bob Harley purchased a block of land with a dwelling on it for $400,000. The dwelling was used as a rental property until he decided to demolish it in July 2022. Bob did not receive any consideration with respect to the demolition of the existing dwelling.

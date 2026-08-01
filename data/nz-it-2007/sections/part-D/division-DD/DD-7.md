@@ -8,7 +8,6 @@ section_title: Entertainment outside New Zealand
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DD 7  Entertainment outside New Zealand
 
 The limitation rule does not apply to a deduction for expenditure on entertainment that is enjoyed or consumed outside New Zealand.

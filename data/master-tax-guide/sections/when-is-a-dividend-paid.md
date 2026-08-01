@@ -5,7 +5,6 @@ section: "when-is-a-dividend-paid"
 title: "When is a dividend paid?"
 paragraph: "¶4-120"
 ---
-
 # When is a dividend paid? ¶4-120
 
 “Paid” in relation to a dividend or a non-share dividend includes “credited” or “distributed” (ITAA36 s 6(1)).

@@ -8,7 +8,6 @@ section_title: Total group non-debt liabilities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 16B  Total group non-debt liabilities
 
 **Meaning for New Zealand group**

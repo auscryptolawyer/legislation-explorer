@@ -8,7 +8,6 @@ section_title: Retrospective transitional provision for market valuation under s
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HZ 8  Retrospective transitional provision for market valuation under section HB 4
 
 **When this section applies**

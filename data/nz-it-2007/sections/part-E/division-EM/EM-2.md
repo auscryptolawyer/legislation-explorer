@@ -8,7 +8,6 @@ section_title: Who does this subpart apply to?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EM 2  Who does this subpart apply to?
 
 **Who does this subpart apply to?**

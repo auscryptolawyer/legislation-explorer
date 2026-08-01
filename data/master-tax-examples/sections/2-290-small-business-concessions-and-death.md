@@ -5,7 +5,6 @@ section: "2-290-small-business-concessions-and-death"
 title: "2-290 - Small business concessions and death"
 paragraph: "None"
 ---
-
 # 2-290 - Small business concessions and death
 
 Worked example: Small business concessions and death Issue William owned a commercial property which was solely used in his engineering model-making business, Toy Soldiers Pty Ltd. William owned 100% of the shares in Toy Soldiers Ltd. The property was acquired for a base cost of $1.5 million on 1 July 2012 and immediately became the base for the business.

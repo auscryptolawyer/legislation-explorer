@@ -8,7 +8,6 @@ section_title: Fifth requirement: earner
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MD 9  Fifth requirement: earner
 
 **Normally earner**

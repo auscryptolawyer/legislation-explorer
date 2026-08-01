@@ -5,7 +5,6 @@ section: "5-260-reasonable-valuation-of-trading-stock-special-circumstances"
 title: "5-260 - Reasonable valuation of trading stock special circumstances"
 paragraph: "None"
 ---
-
 # 5-260 - Reasonable valuation of trading stock special circumstances
 
 Worked example: Reasonable valuation of trading stock; special circumstances Issue Ollie Garson owns a hardware store in a country town. In September 2022, he was persuaded by an offer that seemed too good to ignore to purchase a large supply of household items that had just been released onto the market. Sales of these household items were slow right from the beginning and lively criticism on social media from disgruntled purchasers brought sales to a virtual halt by early 2024. The consumer regulator’s attention was drawn to the items and intervention to limit sales seemed a possible outcome.

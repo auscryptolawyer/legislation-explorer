@@ -8,7 +8,6 @@ section_title: Foreign superannuation withdrawal exceeding given amount
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 28C  Foreign superannuation withdrawal exceeding given amount
 
 A foreign superannuation withdrawal derived by a person in the assessable period referred to in section CF 3(8) (Withdrawals from foreign superannuation scheme) for the person is exempt income of the person to the extent to which the foreign superannuation withdrawal exceeds the amount—

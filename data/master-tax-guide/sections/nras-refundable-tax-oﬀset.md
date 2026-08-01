@@ -5,7 +5,6 @@ section: "nras-refundable-tax-oﬀset"
 title: "NRAS refundable tax oﬀset"
 paragraph: "¶20-605"
 ---
-
 # NRAS refundable tax oﬀset ¶20-605
 
 Entities participating in the NRAS can claim a refundable tax oﬀset in their annual tax return (ITAA97 Div 380). The amount of tax oﬀset available for the 2024–25 NRAS year is $9,347.42 ($8,711.48 for 2023– 24) per dwelling. The oﬀset claimable by each participant is notiﬁed in a certiﬁcate issued by the Housing Secretary.

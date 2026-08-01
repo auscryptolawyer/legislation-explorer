@@ -5,7 +5,6 @@ section: "scope-of-this-deductions-chapter"
 title: "Scope of this deductions chapter"
 paragraph: "¶16-000"
 ---
-
 # Scope of this deductions chapter ¶16-000
 
 Income tax is calculated on the basis of the taxpayer’s taxable income. The taxable income is calculated by deducting “general” and “speciﬁc” deductions for the income year from the total assessable income for that year. A “general” deduction under ITAA97 s 8-1 is a loss or outgoing that has the relevant connection with income or business activities, and that is not of a capital, private or domestic nature. A “speciﬁc” deduction, on the other hand, is an amount that a provision other than the general deduction provision allows as a deduction (ITAA97 s 8-5).

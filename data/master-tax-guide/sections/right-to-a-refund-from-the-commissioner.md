@@ -5,7 +5,6 @@ section: "right-to-a-refund-from-the-commissioner"
 title: "Right to a refund from the Commissioner"
 paragraph: "¶26-700"
 ---
-
 # Right to a refund from the Commissioner ¶26-700
 
 A payment recipient may apply in writing to the Commissioner for the refund of an amount if the payer:

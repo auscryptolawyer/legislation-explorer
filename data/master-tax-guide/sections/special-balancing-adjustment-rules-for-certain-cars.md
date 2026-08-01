@@ -5,7 +5,6 @@ section: "special-balancing-adjustment-rules-for-certain-cars"
 title: "Special balancing adjustment rules for certain cars"
 paragraph: "¶17-665"
 ---
-
 # Special balancing adjustment rules for certain cars ¶17-665
 
 Special balancing adjustment rules may apply to cars for which car expenses have been substantiated using the cents per kilometre method or the 12% of original value method for one or more income years (¶16-320).

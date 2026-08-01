@@ -5,7 +5,6 @@ section: "gst-returns-payments-and-refunds"
 title: "GST returns, payments and refunds"
 paragraph: "¶34-150"
 ---
-
 # GST returns, payments and refunds ¶34-150
 
 A registered entity must lodge a GST return for each tax period (Div 31). Where the entity has monthly tax periods, the return must normally be lodged by the 21st day of the month following the end of the tax period (s 31-10). For example, the monthly return for June is due by 21 July. For quarterly taxpayers, returns must normally be lodged by 28 April (for the March quarter), 28 July (for the June quarter), 28 October (for the September quarter) and 28 February (for the December quarter). Extensions typically apply where returns are lodged through tax agents.

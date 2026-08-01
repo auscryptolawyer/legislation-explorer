@@ -8,7 +8,6 @@ section_title: Pension payments to former employees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DC 2  Pension payments to former employees
 
 **When subsection (2) applies**

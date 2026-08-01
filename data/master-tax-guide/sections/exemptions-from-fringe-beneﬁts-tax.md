@@ -5,7 +5,6 @@ section: "exemptions-from-fringe-beneﬁts-tax"
 title: "Exemptions from fringe beneﬁts tax"
 paragraph: "¶35-645"
 ---
-
 # Exemptions from fringe beneﬁts tax ¶35-645
 
 In addition to the exemptions applying to particular classes of beneﬁt, there are speciﬁc exemptions for a number of beneﬁts. FBT is not payable on an exempt beneﬁt and the beneﬁt does not form part of an employee’s reportable fringe beneﬁts amount.

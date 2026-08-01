@@ -5,7 +5,6 @@ section: "choosing-between-tribunal-and-federal-court"
 title: "Choosing between Tribunal and Federal Court"
 paragraph: "¶18-640"
 ---
-
 # Choosing between Tribunal and Federal Court ¶18-640
 
 There are several matters that you should take into consideration when deciding whether to apply to the Tribunal for review or to appeal to the Federal Court against an objection decision.

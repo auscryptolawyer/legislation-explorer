@@ -5,7 +5,6 @@ section: "net-capital-gains-of-trusts"
 title: "Net capital gains of trusts"
 paragraph: "¶11-060"
 ---
-
 # Net capital gains of trusts ¶11-060
 
 Special interim rules apply in determining the taxation treatment of trusts and their beneﬁciaries where the trust derives a net capital gain during an income year (Subdiv 115-C).

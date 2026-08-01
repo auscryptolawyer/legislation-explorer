@@ -8,7 +8,6 @@ section_title: Proceeds from disposal of certain shares and financial arrangemen
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 55B  Proceeds from disposal of certain shares and financial arrangements
 
 **Disposal of shares**

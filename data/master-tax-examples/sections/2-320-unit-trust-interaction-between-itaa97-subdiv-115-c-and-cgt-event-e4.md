@@ -5,7 +5,6 @@ section: "2-320-unit-trust-interaction-between-itaa97-subdiv-115-c-and-cgt-event
 title: "2-320 - Unit trust interaction between ITAA97 Subdiv 115-C and CGT event E4"
 paragraph: "None"
 ---
-
 # 2-320 - Unit trust interaction between ITAA97 Subdiv 115-C and CGT event E4
 
 Worked example: Unit trust; interaction between ITAA97 Subdiv 115-C and CGT event E4 Issue Rebecca Samson owns one unit in the Blueberry Unit Trust with another unitholder (ie 50/50). The cost base of the unit is $20,000 and Rebecca has held the property since April 2010. The Blueberry Unit Trust operates a hardware store in a building that has been held by the trust since May 2010.

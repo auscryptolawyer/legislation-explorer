@@ -8,7 +8,6 @@ section_title: Life reinsurance claims from reinsurer outside New Zealand
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 59C  Life reinsurance claims from reinsurer outside New Zealand
 
 An amount of life reinsurance claim derived by a life insurer is exempt income to the extent to which, for the relevant life reinsurance policy, deductions for premiums are denied under section DR 3 (Life reinsurance premiums to reinsurer outside New Zealand).

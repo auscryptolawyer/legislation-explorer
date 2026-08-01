@@ -5,7 +5,6 @@ section: "7-160-salary-packaging-company-car"
 title: "7-160 - Salary packaging company car"
 paragraph: "None"
 ---
-
 # 7-160 - Salary packaging company car
 
 Worked example: Salary packaging; company car Issue Judy Line is an employee of Tel Co Holdings Pty Ltd earning a gross salary of $100,000. Judy entered into a salary sacrifice arrangement with her employer to salary package a company car. The car, which was used exclusively for private purposes, was purchased on 1 April 2024 and cost $44,000 (including GST) and was financed under a 4-year lease. Tel Co Holdings will take ownership of the vehicle after the 4-year lease, although Judy has an option to purchase the car from her employer. The monthly lease payments are $1,500 ($18,000 per year). The running costs of the car for the first year came to $12,000.

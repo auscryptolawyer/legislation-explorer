@@ -5,7 +5,6 @@ section: "restructures-involving-mec-groups"
 title: "Restructures involving MEC groups"
 paragraph: "¶8-640"
 ---
-
 # Restructures involving MEC groups ¶8-640
 
 Creating a consolidated group from a MEC group A consolidated group is created from a MEC group if the cessation of the MEC group happens because the entity that is the sole eligible tier-1 company in the MEC group fails the conditions for being an eligible tier-1 company and, immediately after that time, it meets the conditions for being a head company of a consolidated group (ITAA97 ss 703-5(1)(b); 703-55(1)).

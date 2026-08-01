@@ -5,7 +5,6 @@ section: "small-business-tax-concessions-checklist"
 title: "Small business tax concessions checklist"
 paragraph: "¶44-105"
 ---
-
 # Small business tax concessions checklist ¶44-105
 
 The checklist below identiﬁes special tax exemptions and concessions that apply to small businesses, and provides cross-references to further detail.

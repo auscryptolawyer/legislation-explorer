@@ -8,7 +8,6 @@ section_title: Ownership continuity breach: tax loss components of companies car
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IP 3  Ownership continuity breach: tax loss components of companies carried forward
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Classifying trusts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HC 9  Classifying trusts
 
 A trust is classified at the time it makes a distribution as—

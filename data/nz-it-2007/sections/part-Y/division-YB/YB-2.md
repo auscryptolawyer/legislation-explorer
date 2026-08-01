@@ -8,7 +8,6 @@ section_title: Two companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YB 2  Two companies
 
 **Common voting interests**

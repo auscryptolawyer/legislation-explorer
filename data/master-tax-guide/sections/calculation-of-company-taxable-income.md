@@ -5,7 +5,6 @@ section: "calculation-of-company-taxable-income"
 title: "Calculation of company taxable income"
 paragraph: "¶3-020"
 ---
-
 # Calculation of company taxable income ¶3-020
 
 The taxable income of a company is worked out in much the same way as that of an individual, ie from the assessable income are deducted all ordinary business deductions, depreciation, any special incentive deductions and any relevant non-business deductions (ITAA97 s 4-15).

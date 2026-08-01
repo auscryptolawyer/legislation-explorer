@@ -5,7 +5,6 @@ section: "representative"
 title: "representative"
 paragraph: "¶12-580"
 ---
-
 # representative ¶12-580
 
 Special rules apply in relation to CGT assets that are owned by a taxpayer just before dying which pass to the taxpayer’s legal personal representative or a beneﬁciary of the taxpayer’s estate as a result of the taxpayer’s death (s 128-15).

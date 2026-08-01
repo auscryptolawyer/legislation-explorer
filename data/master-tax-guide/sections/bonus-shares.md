@@ -5,7 +5,6 @@ section: "bonus-shares"
 title: "Bonus shares"
 paragraph: "¶3-265"
 ---
-
 # Bonus shares ¶3-265
 
 Where a company issues bonus shares on or after 1 July 1998 to an existing shareholder for no consideration, the cost of the original shares is generally spread across the original shares and the bonus shares (ITAA36 s 6BA). The exception is where the bonus shares are taken to be a dividend by reason of the anti-avoidance provisions in ITAA36 s 45, 45A or 45B (¶4-682).

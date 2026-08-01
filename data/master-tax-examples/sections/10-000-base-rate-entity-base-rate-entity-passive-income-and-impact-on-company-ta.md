@@ -5,7 +5,6 @@ section: "10-000-base-rate-entity-base-rate-entity-passive-income-and-impact-on-
 title: "10-000 - Base rate entity base rate entity passive income and impact on company tax rate and franking rate"
 paragraph: "None"
 ---
-
 # 10-000 - Base rate entity base rate entity passive income and impact on company tax rate and franking rate
 
 company tax rate and franking rate Worked example: Base rate entity; base rate entity passive income and impact on company tax rate and franking rate Issue Traken Pty Ltd undertakes a business of manufacturing furniture from its premises in Brisbane. Over the years, the company has invested surplus profits from its trading business into the acquisition of several substantial commercial rental properties. During the year ended 30 June 2024, the company disposed of one commercial property, making a net capital gain of $23 million.

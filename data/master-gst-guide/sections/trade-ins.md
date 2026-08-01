@@ -5,7 +5,6 @@ section: "trade-ins"
 title: "Trade-ins"
 paragraph: "¶12-125"
 ---
-
 # Trade-ins ¶12-125
 
 The trade-in of a car on the purchase of a new car, is treated as a supply of the old car for consideration equal to the agreed trade-in price (¶4-020). GST may be payable, and the tax invoice requirements met, if the "supplier" of the trade-in is registered for GST and the vehicle was used their business. However, if the car was used only partly for business, a GST adjustment may arise under Div 132 reflecting the business use of the trade-in (¶6-310).

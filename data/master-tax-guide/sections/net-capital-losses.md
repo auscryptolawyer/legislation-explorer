@@ -5,7 +5,6 @@ section: "net-capital-losses"
 title: "Net capital losses"
 paragraph: "¶11-040"
 ---
-
 # Net capital losses ¶11-040
 
 A net capital loss is worked out by subtracting capital gains for the income year from capital losses for the income year. If the resulting amount is more than nil, it is the taxpayer’s net capital loss for the income year (s 102-10).

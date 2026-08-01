@@ -8,7 +8,6 @@ section_title: Meaning of suspended recovery income for affected class
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FP 9  Meaning of suspended recovery income for affected class
 
 **Suspended recovery income**

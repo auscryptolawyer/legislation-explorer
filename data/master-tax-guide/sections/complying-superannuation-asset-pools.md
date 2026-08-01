@@ -5,7 +5,6 @@ section: "complying-superannuation-asset-pools"
 title: "Complying superannuation asset pools"
 paragraph: "¶3-515"
 ---
-
 # Complying superannuation asset pools ¶3-515
 
 A life insurance company can create a segregated pool of assets known as a “complying superannuation asset pool”, to be used for the sole purpose of discharging its complying superannuation liabilities (ITAA97 s 320-170).

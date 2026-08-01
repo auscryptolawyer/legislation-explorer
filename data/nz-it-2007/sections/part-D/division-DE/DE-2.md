@@ -8,7 +8,6 @@ section_title: Deductions for business use
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DE 2  Deductions for business use
 
 **Deduction**

@@ -8,7 +8,6 @@ section_title: Partnerships are transparent
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HG 2  Partnerships are transparent
 
 **Look-through in accordance with share**

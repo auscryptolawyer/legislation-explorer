@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 160ZZZI Certain transactions to be disregarded
 
 Any transaction entered into by a foreign bank otherwise than through its Australian branch:

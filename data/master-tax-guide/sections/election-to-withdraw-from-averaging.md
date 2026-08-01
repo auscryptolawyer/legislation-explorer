@@ -5,7 +5,6 @@ section: "election-to-withdraw-from-averaging"
 title: "Election to withdraw from averaging"
 paragraph: "¶18-270"
 ---
-
 # Election to withdraw from averaging ¶18-270
 
 A taxpayer can elect to withdraw from the averaging system (ITAA97 s 392-25). Where an election is made, tax will be payable at ordinary rates for the year of income speciﬁed in the election and all subsequent years.

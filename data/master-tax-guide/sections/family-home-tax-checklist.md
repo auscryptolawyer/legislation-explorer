@@ -5,7 +5,6 @@ section: "family-home-tax-checklist"
 title: "Family home tax checklist"
 paragraph: "¶44-108"
 ---
-
 # Family home tax checklist ¶44-108
 
 See also the checklists for Rental Properties (¶44-107) and Death of a Taxpayer (¶44-170).

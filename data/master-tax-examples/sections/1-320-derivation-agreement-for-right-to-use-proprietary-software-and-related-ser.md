@@ -5,7 +5,6 @@ section: "1-320-derivation-agreement-for-right-to-use-proprietary-software-and-r
 title: "1-320 - Derivation agreement for right to use proprietary software and related services"
 paragraph: "None"
 ---
-
 # 1-320 - Derivation agreement for right to use proprietary software and related services
 
 Worked example: Derivation; agreement for right to use proprietary software and related services Issue Apps Plus Pty Ltd (Apps) is an Australian software developer. On 1 July 2024, Apps entered into an agreement which provides a customer with the right to use a proprietary software product for a period of 4 years in consideration for the payment of a licence fee of $20,000.

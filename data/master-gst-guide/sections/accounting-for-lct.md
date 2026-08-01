@@ -5,7 +5,6 @@ section: "accounting-for-lct"
 title: "Accounting for LCT"
 paragraph: "¶23-260"
 ---
-
 # Accounting for LCT ¶23-260
 
 Luxury car tax (LCT) on supplies of luxury cars is normally reported and remitted by sellers in the BAS (Business Activity Statement) for the relevant tax period. The usual GST rules for attribution and payment apply. In the case of importations, however, LCT is generally paid with customs duty (LCT Act Div 13).

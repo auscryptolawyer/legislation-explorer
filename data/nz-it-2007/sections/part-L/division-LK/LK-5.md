@@ -8,7 +8,6 @@ section_title: Companies’ credits carried forward
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LK 5  Companies’ credits carried forward
 
 **Company carrying credit forward**

@@ -8,7 +8,6 @@ section_title: Interest in property acquired after depreciable property affected
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 23BB  Interest in property acquired after depreciable property affected by Canterbury earthquakes
 
 **When this section applies**

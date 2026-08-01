@@ -5,7 +5,6 @@ section: "gifts-to-ancillary-funds"
 title: "Gifts to ancillary funds"
 paragraph: "¶16-962"
 ---
-
 # Gifts to ancillary funds ¶16-962
 
 Gifts of $2 or more made to certain types of public or private ancillary funds are deductible (s 30-15, item 2) (note that it is proposed to remove the $2 minimum requirement: ¶16-942). An “ancillary fund” is a fund that collects tax deductible donations which they on-distribute to deductible gift recipients. Only public ancillary funds can accept tax deductible donations from the public.

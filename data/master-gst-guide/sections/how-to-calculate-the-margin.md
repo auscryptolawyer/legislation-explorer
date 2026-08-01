@@ -5,7 +5,6 @@ section: "how-to-calculate-the-margin"
 title: "How to calculate the margin"
 paragraph: "¶11-110"
 ---
-
 # How to calculate the margin ¶11-110
 
 The margin is generally calculated as the difference between the cost to the taxpayer (ie the consideration paid for the acquisition of the real property) and the amount the taxpayer charges on disposing of it (ie the th consideration received by the taxpayer for their supply of the real property). The GST is calculated as 1/11 of that margin (s 75-10). This calculation can appear deceptively straight forward. The more sophisticated a property development, the more complex the application of margin scheme can become, as the taxpayer in

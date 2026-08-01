@@ -8,7 +8,6 @@ section_title: Transitional provisions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ZA 3  Transitional provisions
 
 **When reference to this Act includes earlier Act**

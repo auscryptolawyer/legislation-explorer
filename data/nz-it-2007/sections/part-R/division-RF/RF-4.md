@@ -8,7 +8,6 @@ section_title: Non-resident passive income received by agents and others
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 4  Non-resident passive income received by agents and others
 
 **When this section applies**

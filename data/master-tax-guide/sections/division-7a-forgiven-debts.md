@@ -5,7 +5,6 @@ section: "division-7a-forgiven-debts"
 title: "Division 7A: forgiven debts"
 paragraph: "¶4-220"
 ---
-
 # Division 7A: forgiven debts ¶4-220
 
 For the purposes of the Div 7A debt forgiveness rules, generally, a debt is “forgiven” when the amount would be forgiven under the commercial debt forgiveness rules (¶16-910) (s 109F(3)). However, where “debt parking” is involved, the debt is taken to be forgiven if it is assigned by the company to another entity who is either an associate of the debtor or a party to an arrangement with the debtor about the assignment and a reasonable person would conclude that the other entity will not enforce the debt (s 109F(5)). A debt is also forgiven if, having regard to all the circumstances, it is reasonable to conclude that the private company will not insist on repayment of the debt (s 109F(6)).

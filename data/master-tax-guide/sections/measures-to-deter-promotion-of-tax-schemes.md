@@ -5,7 +5,6 @@ section: "measures-to-deter-promotion-of-tax-schemes"
 title: "Measures to deter promotion of tax schemes"
 paragraph: "¶30-300"
 ---
-
 # Measures to deter promotion of tax schemes ¶30-300
 
 The consequences of non-compliance with tax laws, including the anti-avoidance provisions, fall on taxpayers. Generally, where non-compliance occurs, the tax laws operate to change the tax outcome for participants in transactions (eg by disallowing a deduction or deeming income to be earned, etc).

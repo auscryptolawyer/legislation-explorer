@@ -8,7 +8,6 @@ section_title: Accident compensation levies and premiums
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EF 3  Accident compensation levies and premiums
 
 **Timing of deduction**

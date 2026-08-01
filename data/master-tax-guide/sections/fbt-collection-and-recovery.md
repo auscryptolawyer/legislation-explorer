@@ -5,7 +5,6 @@ section: "fbt-collection-and-recovery"
 title: "FBT collection and recovery"
 paragraph: "¶35-710"
 ---
-
 # FBT collection and recovery ¶35-710
 
 The mechanical provisions for the collection and recovery of FBT generally correspond to those applying to income tax (TAA sch 1 Pt 4-15: ¶25-510).

@@ -8,7 +8,6 @@ section_title: Transfer of livestock because of self-assessed adverse event
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 5  Transfer of livestock because of self-assessed adverse event
 
 **When this section applies**

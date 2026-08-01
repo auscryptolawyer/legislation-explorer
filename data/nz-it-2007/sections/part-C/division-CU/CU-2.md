@@ -8,7 +8,6 @@ section_title: Treatment of mining land
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CU 2  Treatment of mining land
 
 **When this section applies**

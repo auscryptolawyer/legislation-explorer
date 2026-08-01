@@ -8,7 +8,6 @@ section_title: Carry forward of expenditure by member funds investing in portfol
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DV 4B  Carry forward of expenditure by member funds investing in portfolio investment entities
 
 **When this section applies**

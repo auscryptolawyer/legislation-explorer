@@ -8,7 +8,6 @@ section_title: Investor rates provided by Commissioner
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 60B  Investor rates provided by Commissioner
 
 **Rates provided by Commissioner**

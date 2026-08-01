@@ -8,7 +8,6 @@ section_title: Part-year tax calculations for PIEs under the exit calculation op
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 42B  Part-year tax calculations for PIEs under the exit calculation option for the 2010–11 tax year
 
 **When this section applies**

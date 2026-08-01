@@ -5,7 +5,6 @@ section: "original-assessments"
 title: "Original assessments"
 paragraph: "¶25-100"
 ---
-
 # Original assessments ¶25-100
 
 The Commissioner is required to make an original assessment of a taxpayer’s taxable income (or that there is no taxable income), the amount of tax payable thereon (or that there is no tax payable) and the total of the taxpayer’s tax oﬀset refunds (or that the taxpayer can get no such refunds) (ITAA36 s 166). The assessment is based on the annual return lodged by the taxpayer and/or any other information in the Commissioner’s possession. In making an assessment, it has been held that the Commissioner could rely on information from a third party that was found to have been illegally obtained by that third party (Awad 2001 ATC 4183; [2001] FCA 369).

@@ -8,7 +8,6 @@ section_title: Tax credits for zero-rated investors
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LS 3  Tax credits for zero-rated investors
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "tax-consequences-of-demutualisation"
 title: "Tax consequences of demutualisation"
 paragraph: "¶3-432"
 ---
-
 # Tax consequences of demutualisation ¶3-432
 
 Life insurance and general insurance organisations Special provisions specify the tax treatment of transactions likely to occur in connection with the demutualisation of a life or general insurance company or an aﬃliate company (ITAA36 Pt III Div 9AA, ie ss 121AA to 121AT). The provisions apply to mutual insurance companies and mutual aﬃliate companies where the demutualisation is carried out in accordance with one of 7 speciﬁed methods. A basic requirement is that the members agree to surrender their rights in the mutual company in exchange for shares in the demutualised entity. The shares must generally be listed by ASX Limited within 2 years from the demutualisation resolution day (ie the day that the resolution to proceed with the demutualisation is passed or, where a life assurance company’s life insurance business is transferred to another company under a Federal Court-approved scheme, the day on which the transfer of the whole of that business takes place).

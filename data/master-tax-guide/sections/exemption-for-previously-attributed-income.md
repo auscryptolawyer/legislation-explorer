@@ -5,7 +5,6 @@ section: "exemption-for-previously-attributed-income"
 title: "Exemption for previously attributed income"
 paragraph: "¶21-097"
 ---
-
 # Exemption for previously attributed income ¶21-097
 
 Certain “attribution account payments”, ie income distributed by a CFC (¶21-150) which has previously been attributed to an Australian resident taxpayer, are exempt from tax (ITAA36 s 23AI).

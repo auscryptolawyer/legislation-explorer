@@ -8,7 +8,6 @@ section_title: Effect of attributed CFC net loss and FIF net loss from before fi
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 2B  Effect of attributed CFC net loss and FIF net loss from before first affected year
 
 **When this section applies**

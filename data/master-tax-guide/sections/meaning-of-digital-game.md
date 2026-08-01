@@ -5,7 +5,6 @@ section: "meaning-of-digital-game"
 title: "Meaning of digital game"
 paragraph: "¶20-430"
 ---
-
 # Meaning of digital game ¶20-430
 
 For the digital games tax oﬀset (¶20-400), eligible expenditure can only be claimed if it is incurred in developing an eligible digital game. A “digital game” is deﬁned in ITAA97 s 378-20 to mean an electronic game that can be displayed on a portable electronic device or screen that allows for the playing of an interactive game. It includes a component of a digital game in certain circumstances where a foreign entity without a permanent establishment in Australia that owns a digital game engages an Australian developer company to develop the component.

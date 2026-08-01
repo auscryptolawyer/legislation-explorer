@@ -8,7 +8,6 @@ section_title: Best Start tax credit entitlement
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MG 1  Best Start tax credit entitlement
 
 **Best Start tax credit for dependent child**

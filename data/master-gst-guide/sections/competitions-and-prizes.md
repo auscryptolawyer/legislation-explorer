@@ -5,7 +5,6 @@ section: "competitions-and-prizes"
 title: "Competitions and prizes"
 paragraph: "¶4-035"
 ---
-
 # Competitions and prizes ¶4-035
 
 - charitable raffles and bingo may be GST-free (¶15-020)

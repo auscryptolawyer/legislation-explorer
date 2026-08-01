@@ -8,7 +8,6 @@ section_title: Requirements for investors in foreign investment PIEs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 55D  Requirements for investors in foreign investment PIEs
 
 **What this section does**

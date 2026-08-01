@@ -5,7 +5,6 @@ section: "9-140-revocable-trusts"
 title: "9-140 - Revocable trusts"
 paragraph: "None"
 ---
-
 # 9-140 - Revocable trusts
 
 Worked example: Revocable trusts Issue Megan Frawley created a trust for the benefit of her unmarried daughter Isabel aged 15 years. Under the terms of the trust settlement, the trustee was authorised to use their discretion in deciding the amount to be used for Isabel’s maintenance during the year. The trust deed provided that the amount of net trust income not applied for Isabel Frawley’s maintenance was to be accumulated and paid to her at the trustee’s discretion but not before Isabel attained 21 years of age. Under the trust, Megan also had the power to revoke the trust so that she could acquire a beneficial interest in a share of the income or property of the trust.

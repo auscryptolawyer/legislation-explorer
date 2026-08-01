@@ -5,7 +5,6 @@ section: "distributions-of-trust-income"
 title: "Distributions of trust income"
 paragraph: "¶6-130"
 ---
-
 # Distributions of trust income ¶6-130
 
 Trust income that has been previously assessed to the trustee or the beneﬁciary is not assessable when received by the beneﬁciary. On the other hand, receipts of previously untaxed trust income may be assessable to the beneﬁciary. This is the case where an amount is paid to, or applied for the beneﬁt of, a beneﬁciary who is a resident at any time during the income year and the amount represents trust income of a class that is taxable in Australia but which has not previously been subject to tax in the hands of the beneﬁciary or trustee (s 99B; Howard 2012 ATC ¶20-355; [2012] FCAFC 149 (Full Federal Court); Campbell [2019] AATA 2043; ID 2011/93).

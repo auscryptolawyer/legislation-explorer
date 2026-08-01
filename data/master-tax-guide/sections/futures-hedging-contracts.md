@@ -5,7 +5,6 @@ section: "futures-hedging-contracts"
 title: "Futures, hedging contracts"
 paragraph: "¶23-370"
 ---
-
 # Futures, hedging contracts ¶23-370
 
 The following commentary is relevant to the taxation of gains and losses on futures and hedging contracts held by certain entities where the TOFA regime in Div 230 (¶23-020) does not apply.

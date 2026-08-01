@@ -8,7 +8,6 @@ section_title: Amount of tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MK 4  Amount of tax credit
 
 **What this section does**

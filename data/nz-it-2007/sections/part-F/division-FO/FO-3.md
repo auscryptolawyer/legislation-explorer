@@ -8,7 +8,6 @@ section_title: Resident’s restricted amalgamations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FO 3  Resident’s restricted amalgamations
 
 **What is a resident’s restricted amalgamation?**

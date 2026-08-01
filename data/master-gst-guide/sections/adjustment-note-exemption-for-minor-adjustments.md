@@ -5,7 +5,6 @@ section: "adjustment-note-exemption-for-minor-adjustments"
 title: "Adjustment note exemption for minor adjustments"
 paragraph: "¶6-135"
 ---
-
 # Adjustment note exemption for minor adjustments ¶6-135
 
 There is no requirement to issue an adjustment note if the amount of the adjustment is $75 or less (s 29-80; GST Regulations s 29-80.02).

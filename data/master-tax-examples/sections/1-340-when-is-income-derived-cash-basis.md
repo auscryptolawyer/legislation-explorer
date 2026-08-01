@@ -5,7 +5,6 @@ section: "1-340-when-is-income-derived-cash-basis"
 title: "1-340 - When is income derived cash basis"
 paragraph: "None"
 ---
-
 # 1-340 - When is income derived cash basis
 
 Worked example: When is income derived; cash basis Issue Belinda Choy is a doctor previously employed by State Wide Medical (SWM) and currently working in sole practice. On 25 June 2022, while Belinda was employed by SWM, a bonus was declared for all employees.

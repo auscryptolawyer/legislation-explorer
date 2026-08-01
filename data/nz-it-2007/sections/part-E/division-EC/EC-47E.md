@@ -8,7 +8,6 @@ section_title: Prospective breeders commencing actual breeding businesses
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 47E  Prospective breeders commencing actual breeding businesses
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Transfers to shareholders by ASX-listed Australian company of sha
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 29C  Transfers to shareholders by ASX-listed Australian company of shares in subsidiary
 
 A transfer of company value is not a dividend to the extent to which it is a transfer of value that is not a dividend under section ED 2B(7) (Transfers to shareholders by ASX-listed Australian company of shares in subsidiary).

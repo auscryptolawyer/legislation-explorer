@@ -5,7 +5,6 @@ section: "non-remote-area-accommodation"
 title: "Non-remote area accommodation"
 paragraph: "¶35-420"
 ---
-
 # Non-remote area accommodation ¶35-420
 
 If the accommodation is in Australia and is not in a remote area, the taxable value of the housing fringe beneﬁt depends on the type of accommodation.

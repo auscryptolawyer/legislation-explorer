@@ -5,7 +5,6 @@ section: "spouse-contributions-tax-oﬀset"
 title: "Spouse contributions tax oﬀset"
 paragraph: "¶13-770"
 ---
-
 # Spouse contributions tax oﬀset ¶13-770
 
 An individual taxpayer is entitled to a tax oﬀset in each year of income for contributions made to a complying superannuation fund or RSA for the purpose of providing superannuation beneﬁts for his/her spouse (or the spouse’s SIS dependants in the event of the spouse’s death) if:

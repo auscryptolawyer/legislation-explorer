@@ -5,7 +5,6 @@ section: "deductibility-of-other-taxes-and-related-costs"
 title: "Deductibility of other taxes and related costs"
 paragraph: "¶16-858"
 ---
-
 # Deductibility of other taxes and related costs ¶16-858
 
 Where a taxpayer is carrying on a business, the cost of preparing a payroll tax or land tax return is deductible under ITAA97 s 8-1. The cost of objecting or appealing against any resulting assessment is also deductible.

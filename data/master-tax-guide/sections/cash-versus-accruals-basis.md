@@ -5,7 +5,6 @@ section: "cash-versus-accruals-basis"
 title: "Cash versus accruals basis"
 paragraph: "¶9-030"
 ---
-
 # Cash versus accruals basis ¶9-030
 
 Taxable income must be calculated not only on the basis of a ﬁxed accounting period, but also in accordance with the method of accounting that correctly reﬂects the true income (CT v Executor & Trustee Agency Co of South Australia (1938) 5 ATD 98; (1938) 63 CLR 108 (Carden’s case)). There are currently 2 methods of determining income for tax purposes: Cash or receipts basis.

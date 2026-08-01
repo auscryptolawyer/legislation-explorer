@@ -5,7 +5,6 @@ section: "2-420-wash-sales"
 title: "2-420 - Wash sales"
 paragraph: "None"
 ---
-
 # 2-420 - Wash sales
 
 Worked example: Wash sales Issue Dorothy McShane maintains a large share portfolio. She sells a parcel of shares in Dragonfire Futures Ltd from her portfolio on 20 March 2025 and makes a capital gain of $110,000 on the transaction.

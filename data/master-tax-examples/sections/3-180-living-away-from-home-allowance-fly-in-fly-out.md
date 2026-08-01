@@ -5,7 +5,6 @@ section: "3-180-living-away-from-home-allowance-fly-in-fly-out"
 title: "3-180 - Living-away-from-home allowance fly-in fly-out"
 paragraph: "None"
 ---
-
 # 3-180 - Living-away-from-home allowance fly-in fly-out
 
 Worked example: Living-away-from-home allowance; fly-in, fly- out Issue Pat Newman is to be employed during the 2024–25 FBT year as a fly-in, fly-out worker by a mining company, Emerald Ltd. Pat will be required to work 7 days on, 6 days off in a remote mining town in Queensland. When he is not working, Pat lives in Brisbane with his family.

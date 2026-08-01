@@ -5,7 +5,6 @@ section: "maximising-the-cost-base-of-an-asset"
 title: "Maximising the cost base of an asset"
 paragraph: "¶31-130"
 ---
-
 # Maximising the cost base of an asset ¶31-130
 
 Maximising the cost base of an asset acquired (or deemed to have been acquired) after 19 September 1985 will reduce any capital gain (or increase any capital loss) on a subsequent disposal of the asset, thereby reducing assessable income.

@@ -5,7 +5,6 @@ section: "no-beneﬁciary-presently-entitled"
 title: "No beneﬁciary presently entitled"
 paragraph: "¶6-230"
 ---
-
 # No beneﬁciary presently entitled ¶6-230
 
 To the extent to which the net income of a trust represents income to which no beneﬁciary is presently entitled (¶6-100) — ie accumulating income — it is taxed in the hands of the trustee.

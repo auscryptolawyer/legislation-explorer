@@ -5,7 +5,6 @@ section: "choosing-between-tribunal-and-court"
 title: "Choosing between Tribunal and court"
 paragraph: "¶28-085"
 ---
-
 # Choosing between Tribunal and court ¶28-085
 
 Some of the factors to bear in mind when deciding whether to apply to the ART for review of, or to appeal to the Federal Court against, the Commissioner’s decision on an objection are given below.

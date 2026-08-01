@@ -8,7 +8,6 @@ section_title: Promoting businesses, goods, or services
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DD 5  Promoting businesses, goods, or services
 
 **Sponsored promotions**

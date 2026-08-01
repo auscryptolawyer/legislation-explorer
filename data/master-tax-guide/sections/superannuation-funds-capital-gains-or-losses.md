@@ -5,7 +5,6 @@ section: "superannuation-funds-capital-gains-or-losses"
 title: "Superannuation funds — capital gains or losses"
 paragraph: "¶13-130"
 ---
-
 # Superannuation funds — capital gains or losses ¶13-130
 
 The CGT provisions in ITAA97 Pt 3-1 and 3-3 (see ¶11-000ﬀ and ¶12-000ﬀ) apply to a complying superannuation fund in the same way as any other taxpayer, subject to the modiﬁcations in ITAA97 s 295-85 (see “CGT primary code” below) and s 295-90 (see “30 June 1988 asset and cost base” below). The modiﬁcations do not apply to non-complying superannuation funds or non-complying ADFs.

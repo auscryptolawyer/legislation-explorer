@@ -5,7 +5,6 @@ section: "calculating-wet-and-taxable-value"
 title: "Calculating WET and taxable value"
 paragraph: "¶22-280"
 ---
-
 # Calculating WET and taxable value ¶22-280
 
 Wine equalisation tax applies where there is a “taxable dealing” in wine. A taxable dealing is an “assessable dealing” which does not qualify for an exemption (WET Act, s 5-5).

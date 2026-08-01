@@ -5,7 +5,6 @@ section: "psi-results-test"
 title: "PSI results test"
 paragraph: "¶30-665"
 ---
-
 # PSI results test ¶30-665
 
 An individual or personal services entity (PSE) that satisﬁes the results test will be taken to be conducting a personal services business (ITAA97 s 87-15). The income from that business is therefore exempt from the personal services income (PSI) regime.

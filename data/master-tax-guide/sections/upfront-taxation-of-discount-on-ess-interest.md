@@ -5,7 +5,6 @@ section: "upfront-taxation-of-discount-on-ess-interest"
 title: "Upfront taxation of discount on ESS interest"
 paragraph: "¶10-087"
 ---
-
 # Upfront taxation of discount on ESS interest ¶10-087
 
 Generally, a discount received by an employee on an “ESS interest” (¶10-085) under an employee share scheme is taxed on acquisition, ie upfront. However, provided certain conditions are met, an employee can reduce their taxable discount income by up to $1,000 (see below). Deferred taxation is available where the ESS interest obtained under the scheme is at real risk of forfeiture or is obtained under a salary sacriﬁce arrangement or is a right subject to disposal restrictions (¶10-089).

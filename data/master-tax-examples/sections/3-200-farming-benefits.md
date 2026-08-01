@@ -5,7 +5,6 @@ section: "3-200-farming-benefits"
 title: "3-200 - Farming benefits"
 paragraph: "None"
 ---
-
 # 3-200 - Farming benefits
 
 Worked example: Farming benefits Issue Scenario 1: Joseph Phillips — station manager On 1 April 2024, Joseph Phillips was hired as a station manager to work on a sheep farm. His employer, Merino Pty Ltd, leased a 2-bedroom house for him in Maitland, NSW which is 40 km from the farm. The market value of the rented house was $300 per week, and Joseph made a weekly contribution of $50 to the rent. Joseph also negotiated that his electricity bill be paid by Merino ($2,000 for the period 1 April 2024 to 31 March 2025). Joseph’s previous employer had paid for such costs while he was employed in a remote location and that company had received an FBT concession. As part of Joseph’s salary packaging arrangement, Joseph’s credit card debt of $15,000 was paid off by Merino.

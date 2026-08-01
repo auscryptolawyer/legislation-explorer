@@ -5,7 +5,6 @@ section: "prepaid-or-estimated-income"
 title: "Prepaid or estimated income"
 paragraph: "¶9-090"
 ---
-
 # Prepaid or estimated income ¶9-090
 
 Where advance amounts are received for a speciﬁc number of discrete services (eg dance, sport lessons) and such payments are brought to account as income in the taxpayer’s accounts only when earned, they are treated as unearned income not assessable for tax purposes until they are earned (Arthur Murray (1965) 14 ATD 98; (1965) 114 CLR 314; 39 ALJR 262).

@@ -5,7 +5,6 @@ section: "traditional-securities"
 title: "Traditional securities"
 paragraph: "¶23-340"
 ---
-
 # Traditional securities ¶23-340
 
 The following commentary is relevant to the taxation of gains and losses on traditional securities where the TOFA regime in Div 230 (¶23-020) does not apply.

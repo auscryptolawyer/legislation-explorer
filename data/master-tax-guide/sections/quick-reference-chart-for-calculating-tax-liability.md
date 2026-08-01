@@ -5,7 +5,6 @@ section: "quick-reference-chart-for-calculating-tax-liability"
 title: "Quick reference chart for calculating tax liability"
 paragraph: "¶2-110"
 ---
-
 # Quick reference chart for calculating tax liability ¶2-110
 
 The following chart shows the various income and deduction items which may be taken into account in determining taxable income and rebates and credits which may reduce gross tax. The items listed, which are general, are discussed in more detail at the paragraphs indicated.

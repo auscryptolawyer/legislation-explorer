@@ -8,7 +8,6 @@ section_title: Dividend derived from foreign company
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 9  Dividend derived from foreign company
 
 **Exempt income**

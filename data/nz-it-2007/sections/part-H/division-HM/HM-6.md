@@ -8,7 +8,6 @@ section_title: Intended effects for multi-rate PIEs and investors
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 6  Intended effects for multi-rate PIEs and investors
 
 **Intended effects for entity**

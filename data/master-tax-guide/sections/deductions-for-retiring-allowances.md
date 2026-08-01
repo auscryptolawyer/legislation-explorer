@@ -5,7 +5,6 @@ section: "deductions-for-retiring-allowances"
 title: "Deductions for retiring allowances"
 paragraph: "¶16-540"
 ---
-
 # Deductions for retiring allowances ¶16-540
 
 A retiring allowance, whether in lump sum or pension form and whether paid to an employee or director or to a spouse, widow, widower, etc, is deductible under ITAA97 s 8-1 only if its payment can be shown to be in the future interests of the business. Such payments would include amounts paid to an employee or director or to his/her dependants on cancellation of a contract of service, payments to induce unsatisfactory employees to retire, compensation for redundancy, etc.

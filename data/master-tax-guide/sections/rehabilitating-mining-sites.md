@@ -5,7 +5,6 @@ section: "rehabilitating-mining-sites"
 title: "Rehabilitating mining sites"
 paragraph: "¶19-100"
 ---
-
 # Rehabilitating mining sites ¶19-100
 
 Expenditure incurred in rehabilitating a mine, quarry or petroleum site (eg in removing redundant structures or restoring the terrain) is capital expenditure and not deductible as a revenue expense (although costs incurred by a mining company cleaning up residential land contaminated by landﬁll from a former mine site were deductible as a revenue expense in Associated Minerals Consolidated 94 ATC 4499; [1994] FCA 1282). However, an immediate deduction is available for current and capital expenditure (net of GST and adjustments (ITAA97 s 27-105)) on rehabilitation of sites (Australian and foreign) that have been used by the taxpayer for “mining or quarrying operations” (¶19-050), or ancillary activities (ITAA97 ss 40-735 to 40-745).

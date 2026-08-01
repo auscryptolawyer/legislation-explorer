@@ -8,7 +8,6 @@ section_title: Adjustments for leases that become finance leases
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 51B  Adjustments for leases that become finance leases
 
 **When this section applies**

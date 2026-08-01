@@ -8,7 +8,6 @@ section_title: Expenses in application for plant variety rights
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 40BA  Expenses in application for plant variety rights
 
 **Deduction**

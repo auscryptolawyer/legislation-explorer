@@ -8,7 +8,6 @@ section_title: Continuing requirements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MC 8  Continuing requirements
 
 **Requirements for entitlement period**

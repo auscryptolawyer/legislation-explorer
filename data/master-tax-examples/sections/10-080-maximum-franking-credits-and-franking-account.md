@@ -5,7 +5,6 @@ section: "10-080-maximum-franking-credits-and-franking-account"
 title: "10-080 - Maximum franking credits and franking account"
 paragraph: "None"
 ---
-
 # 10-080 - Maximum franking credits and franking account
 
 Worked example: Maximum franking credits and franking account Issue Coola Pty Ltd (Coola) is an Australian resident private company with a corporate tax rate for imputation purposes of 25% for the 2024–25 income year.

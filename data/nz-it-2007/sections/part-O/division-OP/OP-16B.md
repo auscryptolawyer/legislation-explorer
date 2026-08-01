@@ -8,7 +8,6 @@ section_title: Consolidated ICA credit transfer to departing consolidated imputa
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 16B  Consolidated ICA credit transfer to departing consolidated imputation group for unused tax payment
 
 **Credit**

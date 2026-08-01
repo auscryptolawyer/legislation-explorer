@@ -5,7 +5,6 @@ section: "summary-of-gst-concessions"
 title: "Summary of GST concessions"
 paragraph: "¶15-005"
 ---
-
 # Summary of GST concessions ¶15-005
 
 Endorsed charities, gift-deductible entities and public schools are eligible for concessions or exemptions in the following areas:

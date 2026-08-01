@@ -5,7 +5,6 @@ section: "statutory-compensation-schemes"
 title: "Statutory compensation schemes"
 paragraph: "¶10-130"
 ---
-
 # Statutory compensation schemes ¶10-130
 
 Settlements made under statutory compensation schemes are treated in the same way as ordinary insurance claims (s 78-100). These schemes cover specified Commonwealth, state and territory statutory schemes for workers compensation, sporting injuries insurance and military rehabilitation and compensation (GST Regulations s 78-105.01; former Sch 10). They do not include compulsory third party schemes, which are treated separately (¶10-120).

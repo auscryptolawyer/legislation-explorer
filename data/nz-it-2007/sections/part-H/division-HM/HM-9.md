@@ -8,7 +8,6 @@ section_title: Collective schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 9  Collective schemes
 
 The entity must be—

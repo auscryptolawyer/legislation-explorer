@@ -5,7 +5,6 @@ section: "cgt-exemption-for-pst-units"
 title: "CGT: exemption for PST units"
 paragraph: "¶11-890"
 ---
-
 # CGT: exemption for PST units ¶11-890
 
 A capital gain is exempt from CGT and a capital loss is disregarded if it is made in relation to units in a PST and the entity is:

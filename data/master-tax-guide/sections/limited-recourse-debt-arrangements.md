@@ -5,7 +5,6 @@ section: "limited-recourse-debt-arrangements"
 title: "Limited recourse debt arrangements"
 paragraph: "¶23-260"
 ---
-
 # Limited recourse debt arrangements ¶23-260
 
 Limited recourse debt arrangements are subject to speciﬁc rules in ITAA97 Div 243. The TOFA regime in Div 230 does not apply to these arrangements.

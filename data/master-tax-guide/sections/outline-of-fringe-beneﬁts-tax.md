@@ -5,7 +5,6 @@ section: "outline-of-fringe-beneﬁts-tax"
 title: "Outline of fringe beneﬁts tax"
 paragraph: "¶35-000"
 ---
-
 # Outline of fringe beneﬁts tax ¶35-000
 
 Fringe beneﬁts tax (FBT) is a tax payable by employers on the value of certain beneﬁts that have been provided to their employees or to associates of those employees in respect of their employment, known as “fringe beneﬁts”.

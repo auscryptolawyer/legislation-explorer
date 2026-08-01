@@ -8,7 +8,6 @@ section_title: Residence of companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 2  Residence of companies
 
 **Four bases for residence**

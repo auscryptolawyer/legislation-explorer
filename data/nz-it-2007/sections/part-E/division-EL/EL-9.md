@@ -8,7 +8,6 @@ section_title: Main home exclusion
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EL 9  Main home exclusion
 
 **General rule**

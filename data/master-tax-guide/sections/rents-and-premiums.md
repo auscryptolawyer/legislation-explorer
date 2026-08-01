@@ -5,7 +5,6 @@ section: "rents-and-premiums"
 title: "Rents and premiums"
 paragraph: "¶10-500"
 ---
-
 # Rents and premiums ¶10-500
 
 Rents under a lease and hiring charges (eg for the use of plant or machinery) are assessable as ordinary income. They are generally assessable on a receipts basis (¶9-050). Rental income earned by co-owners of a property must generally be shared according to their legal interests except where they can establish that their equitable interests are diﬀerent; a partnership agreement varying proﬁt and loss entitlements only has eﬀect where there is also a partnership at general law, ie where ownership constitutes a business (TR 93/32) (¶5-000). Amounts received from a lessee, whether as damages or otherwise, for non-compliance with a lease obligation to repair business premises are speciﬁcally assessable under ITAA97 s 15-25 to the extent that they are not of an income nature.

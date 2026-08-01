@@ -5,7 +5,6 @@ section: "trustee-of-deceased-estate"
 title: "Trustee of deceased estate"
 paragraph: "¶6-030"
 ---
-
 # Trustee of deceased estate ¶6-030
 
 For the year in which a taxpayer died, the trustee of the deceased estate is generally required to lodge an individual tax return of the deceased’s income up to the date of death (¶2-030, ¶2-080). The trustee is also generally required to lodge a deceased estate trust return for the remainder of the income year for the income received or derived after death by the deceased estate.

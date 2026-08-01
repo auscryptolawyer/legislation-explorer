@@ -5,7 +5,6 @@ section: "penalties-for-sg-breaches"
 title: "Penalties for SG breaches"
 paragraph: "¶39-550"
 ---
-
 # Penalties for SG breaches ¶39-550
 
 Penalties may be imposed on employers for a breach of their SG obligations. These include:

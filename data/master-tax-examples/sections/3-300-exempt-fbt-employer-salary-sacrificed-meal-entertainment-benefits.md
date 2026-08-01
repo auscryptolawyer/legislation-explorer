@@ -5,7 +5,6 @@ section: "3-300-exempt-fbt-employer-salary-sacrificed-meal-entertainment-benefit
 title: "3-300 - Exempt FBT employer salary sacrificed meal entertainment benefits"
 paragraph: "None"
 ---
-
 # 3-300 - Exempt FBT employer salary sacrificed meal entertainment benefits
 
 Worked example: Exempt FBT employer; salary sacrificed meal entertainment benefits Issue Melbourne Children’s Public Hospital, a not-for-profit employer, provides Dr Joshua Taylor with benefits under a salary sacrifice arrangement for the 2024–25 FBT year comprising of:

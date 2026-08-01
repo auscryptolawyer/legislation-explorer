@@ -5,7 +5,6 @@ section: "1-180-income-or-capital-mere-realisation-or-carrying-on-a-business"
 title: "1-180 - Income or capital mere realisation or carrying on a business"
 paragraph: "None"
 ---
-
 # 1-180 - Income or capital mere realisation or carrying on a business
 
 Worked example: Income or capital; mere realisation or carrying on a business Issue In 1975, Joe Messina purchased 5 hectares of land 40 km from Sydney’s CBD. The land was used for agricultural pursuits, with produce sold through Sydney markets.

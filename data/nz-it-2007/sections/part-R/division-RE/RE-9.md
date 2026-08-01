@@ -8,7 +8,6 @@ section_title: Agents’ or trustees’ obligations in relation to certain divid
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 9  Agents’ or trustees’ obligations in relation to certain dividends
 
 **When this section applies**

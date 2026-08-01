@@ -5,7 +5,6 @@ section: "deductibility-of-prior-year-losses"
 title: "Deductibility of prior year losses"
 paragraph: "¶3-060"
 ---
-
 # Deductibility of prior year losses ¶3-060
 
 A company, like any other taxpayer, is entitled to carry forward losses incurred in one income year for deduction against its assessable income in subsequent years, subject to certain limitations (¶16-880). Prior year losses are deductible under ITAA97 Div 36 (ss 36-1 to 36-45). The loss company and the claiming company must be the same entity (except in limited circumstances where the loss transfer rules (¶3-090) can be applied). For example, in Case 52/96 96 ATC 498, a golf club with prior year losses merged with a sports and social club and the new club continued the businesses of both, as a sports and social club. The AAT held that the golf club’s prior year losses could not be claimed by the new club as the golf club had ceased to exist. See also ID 2003/1118.

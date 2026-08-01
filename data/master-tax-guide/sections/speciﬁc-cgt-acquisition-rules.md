@@ -5,7 +5,6 @@ section: "speciﬁc-cgt-acquisition-rules"
 title: "Speciﬁc CGT acquisition rules"
 paragraph: "¶11-460"
 ---
-
 # Speciﬁc CGT acquisition rules ¶11-460
 
 There are many other CGT acquisition rules which apply in speciﬁc situations and which are dealt with by speciﬁc provisions covering those situations (s 109-55). These situations are where:

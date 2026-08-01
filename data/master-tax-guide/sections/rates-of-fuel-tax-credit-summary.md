@@ -5,7 +5,6 @@ section: "rates-of-fuel-tax-credit-summary"
 title: "Rates of fuel tax credit: summary"
 paragraph: "¶40-110"
 ---
-
 # Rates of fuel tax credit: summary ¶40-110
 
 The credit is generally based on the amount of fuel tax payable, and varies according to the type of fuel and its usage.

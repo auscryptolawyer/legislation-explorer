@@ -5,7 +5,6 @@ section: "maximum-net-asset-value-mnav-requirements"
 title: "Maximum net asset value (MNAV) requirements"
 paragraph: "¶7-130"
 ---
-
 # Maximum net asset value (MNAV) requirements ¶7-130
 
 A taxpayer satisﬁes the maximum net asset value (MNAV) test if, just before the time of the CGT event, the net value of the CGT assets of the taxpayer, its connected entities, its aﬃliates (¶7-050) and the entities connected with those aﬃliates does not exceed $6 million (s 152-15). The timing of the relevant CGT event is crucial for the determination of this test.

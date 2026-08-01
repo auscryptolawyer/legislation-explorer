@@ -5,7 +5,6 @@ section: "accruals-basis"
 title: "Accruals basis"
 paragraph: "¶7-205"
 ---
-
 # Accruals basis ¶7-205
 
 Taxpayers are required to remit GST on an accrual basis unless they satisfy the criteria to report GST on a cash basis (¶7-300). Under the accruals basis, the GST payable on a supply made by the taxpayer is attributed to the earlier tax period in which (s 29-5):

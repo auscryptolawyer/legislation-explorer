@@ -5,7 +5,6 @@ section: "1-220-lease-incentive-payments"
 title: "1-220 - Lease incentive payments"
 paragraph: "None"
 ---
-
 # 1-220 - Lease incentive payments
 
 Worked example: Lease incentive payments Issue Southfield Limited, a shopping mall developer, opened a new shopping complex in June 2024. To attract business, Southfield offered Big M, a national supermarket retailer, a lease incentive package to become a tenant in the complex. Big M accepted the offer in July 2024.

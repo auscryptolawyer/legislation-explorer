@@ -5,7 +5,6 @@ section: "background-to-income-tax-in-australia"
 title: "Background to income tax in Australia"
 paragraph: "¶1-010"
 ---
-
 # Background to income tax in Australia ¶1-010
 
 Income tax was ﬁrst imposed in Australia by the states, commencing with South Australia in 1884, New South Wales and Victoria in 1895, Queensland and Tasmania in 1902 and Western Australia in 1907. The ﬁrst federal income tax was levied by the Commonwealth in 1916 to ﬁnance Australia’s role in World War I.

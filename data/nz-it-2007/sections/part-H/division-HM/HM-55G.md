@@ -8,7 +8,6 @@ section_title: Allowable amounts and thresholds for income with New Zealand sour
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 55G  Allowable amounts and thresholds for income with New Zealand source
 
 For the purposes of sections HM 19B and HM 55H, and schedule 6 (Prescribed rates: PIE investments and retirement scheme contributions) and for a foreign investment zero-rate PIE, the allowable amounts of income that have a source in New Zealand and the thresholds applying to the amounts are—

@@ -8,7 +8,6 @@ section_title: Petroleum exploration expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DT 1  Petroleum exploration expenditure
 
 **Deduction**

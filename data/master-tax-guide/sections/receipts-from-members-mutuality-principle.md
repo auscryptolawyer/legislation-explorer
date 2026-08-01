@@ -5,7 +5,6 @@ section: "receipts-from-members-mutuality-principle"
 title: "Receipts from members — mutuality principle"
 paragraph: "¶3-810"
 ---
-
 # Receipts from members — mutuality principle ¶3-810
 
 Under longstanding ATO practice, subscriptions and contributions from members, and payments received from members for particular services provided by the club or association (eg poker machines, bar and dining room service in the case of social clubs), are generally excluded from the assessable income of that club or association. This applies to both incorporated and unincorporated entities.

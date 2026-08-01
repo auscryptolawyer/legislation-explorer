@@ -8,7 +8,6 @@ section_title: Forestry encouragement agreement: deductions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DP 5  Forestry encouragement agreement: deductions
 
 **When this section applies**

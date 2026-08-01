@@ -8,7 +8,6 @@ section_title: Who is required to pay provisional tax?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RC 3  Who is required to pay provisional tax?
 
 **Threshold or election**

@@ -8,7 +8,6 @@ section_title: Authorised transfers from accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RP 9  Authorised transfers from accounts
 
 **When this section applies**

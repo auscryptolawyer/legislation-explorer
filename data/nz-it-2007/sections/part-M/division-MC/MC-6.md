@@ -8,7 +8,6 @@ section_title: When person does not qualify
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MC 6  When person does not qualify
 
 Despite sections MC 3 to MC 5, a person does not qualify for—

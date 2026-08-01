@@ -5,7 +5,6 @@ section: "payg-payments-for-a-supply"
 title: "PAYG: payments for a supply"
 paragraph: "¶26-220"
 ---
-
 # PAYG: payments for a supply ¶26-220
 
 A payer who makes a payment to an entity for a supply that the entity has made, or proposes to make, to the payer in the course of an enterprise carried on in Australia must withhold an amount if none of the following exceptions applies (TAA sch 1 s 12-190(1)). “Supply” has the same meaning as for GST purposes (¶34-100).

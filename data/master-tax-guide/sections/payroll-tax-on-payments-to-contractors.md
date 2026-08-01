@@ -5,7 +5,6 @@ section: "payroll-tax-on-payments-to-contractors"
 title: "Payroll tax on payments to contractors"
 paragraph: "¶36-100"
 ---
-
 # Payroll tax on payments to contractors ¶36-100
 
 Generally, payroll tax is a tax on “wages” paid or payable to an employee by an employer. While a contractor is not ordinarily considered to be an “employee”, persons/contractors may be deemed to be employees where a “relevant” contract exists between the person supplying the services (the contractor) and the end- user (the employer).

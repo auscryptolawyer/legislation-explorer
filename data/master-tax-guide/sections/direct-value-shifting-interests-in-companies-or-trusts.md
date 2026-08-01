@@ -5,7 +5,6 @@ section: "direct-value-shifting-interests-in-companies-or-trusts"
 title: "Direct value shifting: interests in companies or trusts"
 paragraph: "¶12-810"
 ---
-
 # Direct value shifting: interests in companies or trusts ¶12-810
 
 Direct value shifting rules apply if, under a scheme, value is shifted from equity or loan interests in a company or trust to other equity or loan interests in the same company or trust (Div 725). A direct value shift may result from issuing new shares or trust units at a discount, buying back shares at less than market value or changing the voting rights attached to shares.

@@ -8,7 +8,6 @@ section_title: Amounts paid in excess
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MK 7  Amounts paid in excess
 
 Despite section MK 6, a fund provider is treated as having the amount of a tax credit paid under section MK 3 for the purposes of recovering any amount paid in excess of that properly payable. For the purposes of this section, the fund provider may subtract an amount from a person’s account to pay the Commissioner the excess amount.

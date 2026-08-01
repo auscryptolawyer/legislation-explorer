@@ -8,7 +8,6 @@ section_title: When subpart applies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MX 1  When subpart applies
 
 **When this subpart applies**

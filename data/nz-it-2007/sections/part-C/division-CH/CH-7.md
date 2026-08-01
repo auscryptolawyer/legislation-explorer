@@ -8,7 +8,6 @@ section_title: Adjustment for avoidance arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 7  Adjustment for avoidance arrangements
 
 An amount treated as income of a person under any of the following sections is income of the person:

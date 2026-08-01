@@ -5,7 +5,6 @@ section: "when-is-interest-incurred"
 title: "When is interest “incurred”?"
 paragraph: "¶16-748"
 ---
-
 # When is interest “incurred”? ¶16-748
 
 Interest is deductible under ITAA97 s 8-1 when it is “incurred” (¶16-040). This will usually be when the interest becomes due and payable. In Case 14/97 97 ATC 202; [1997] AATA 64, interest on funds borrowed to invest in an employee share scheme was deductible when the employee was committed to pay, even though no payment was in fact ever made and the liability was subsequently waived.

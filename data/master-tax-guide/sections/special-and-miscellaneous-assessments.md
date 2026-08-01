@@ -5,7 +5,6 @@ section: "special-and-miscellaneous-assessments"
 title: "Special and miscellaneous assessments"
 paragraph: "¶25-130"
 ---
-
 # Special and miscellaneous assessments ¶25-130
 
 The Commissioner may, at any time, make a special assessment of the taxable income derived by a taxpayer during the whole or part of any year (ITAA36 s 168). For example, the Commissioner may use this power to issue 2 assessments to a taxpayer who has become bankrupt; one for the part of the ﬁnancial year ending with the bankruptcy, and a separate assessment from the end of the bankruptcy to the end of the ﬁnancial year (Jones 99 ATC 4373; [1999] FCA 308). This is complementary to the power to call for special returns in addition to, or instead of, the usual annual return (¶24-010).

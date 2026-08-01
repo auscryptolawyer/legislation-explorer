@@ -5,7 +5,6 @@ section: "eﬀective-life-table-a-industry-items"
 title: "Eﬀective life — Table A (industry items)"
 paragraph: "¶43-005"
 ---
-
 # Eﬀective life — Table A (industry items) ¶43-005
 
 Table A is an industry table which contains assets under industry headings generally derived from the Australian and New Zealand Standard Industry Classiﬁcation (ANZSIC) subject categories. This table may only be used by members of the speciﬁed industry. If an item is listed in both Table A and Table B, industry members must use the Table A rate and non-industry members must use the Table B rate (¶43-100). If an asset does not appear in either table, taxpayers must make their own determination of the eﬀective life of the asset (¶17-270).

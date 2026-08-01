@@ -5,7 +5,6 @@ section: "conﬁdentiality-of-tax-information"
 title: "Conﬁdentiality of tax information"
 paragraph: "¶1-220"
 ---
-
 # Conﬁdentiality of tax information ¶1-220
 
 The tax administration legislation contains a general prohibition on the unauthorised disclosure by a tax oﬃcer of “protected information”, with some speciﬁc exceptions (TAA sch 1 Subdiv 355-B). The general prohibition also applies to non-taxation oﬃcers who receive protected information whether lawfully or unlawfully (Subdivs 355-C and 355-D). Protected information is information disclosed or obtained under a taxation law (other than under TASA: ¶32-000) that relates to the aﬀairs of a taxpayer and identiﬁes, or is reasonably capable of identifying, a taxpayer. Tax ﬁle numbers, however, do not constitute protected information.

@@ -5,7 +5,6 @@ section: "interest-on-early-payments"
 title: "Interest on early payments"
 paragraph: "¶25-440"
 ---
-
 # Interest on early payments ¶25-440
 
 The Commissioner is required to pay interest where income tax or certain other amounts are paid by the taxpayer more than 14 days before the day on which the relevant amount becomes due and payable (the “appropriate due day”) (Taxation (Interest on Overpayments and Early Payments) Act 1983, ss 8A to 8D).

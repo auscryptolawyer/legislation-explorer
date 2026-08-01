@@ -5,7 +5,6 @@ section: "adjustments-for-newly-registered-businesses"
 title: "Adjustments for newly-registered businesses"
 paragraph: "¶6-400"
 ---
-
 # Adjustments for newly-registered businesses ¶6-400
 
 It may happen that at the time a business registers for GST, it has already paid GST on stock for resale or for use as raw materials. However, it would not have been able to claim input tax credits for this GST, because it was not registered at the time. On the other hand, if it sells or uses the stock after registration, GST will apply. To cover this situation, a special GST adjustment is allowed. This has the effect of reducing your net GST by the amount of input tax credit you could have claimed if you had been registered (s 137-5).

@@ -5,7 +5,6 @@ section: "negotiated-settlements"
 title: "Negotiated settlements"
 paragraph: "¶25-210"
 ---
-
 # Negotiated settlements ¶25-210
 
 The ATO policy on the settlement of taxation and superannuation disputes are set out in PS LA 2015/1 (Code of settlement). Among other things, the code provides that settlements under the code must be ﬁnalised by the parties signing a deed of settlement. The ATO website has model deeds available to use as a basis for a deed of settlement and its disputes policy. Practical guide to the ATO code of settlement provides examples and illustrations of how the code operates.

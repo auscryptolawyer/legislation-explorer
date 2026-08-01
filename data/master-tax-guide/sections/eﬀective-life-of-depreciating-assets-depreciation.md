@@ -5,7 +5,6 @@ section: "eﬀective-life-of-depreciating-assets-depreciation"
 title: "Eﬀective life of depreciating assets (depreciation)"
 paragraph: "¶43-000"
 ---
-
 # Eﬀective life of depreciating assets (depreciation) ¶43-000
 
 The decline in value of a depreciating asset (ie capital allowance or depreciation) acquired on or after 1 July 2001 (¶17-480) is generally calculated on the basis of the eﬀective life of the asset. Taxpayers may either make their own estimates of eﬀective life or use the Commissioner’s eﬀective life determinations as a safe harbour (¶17-270). The eﬀective life of a depreciating asset is determined at the time that it is ﬁrst used (or installed ready for use) by the taxpayer for any purpose. The estimate may be changed at a later date (where the asset was acquired after 11.45 am EST on 21 September 1999 and accelerated depreciation rates are not being used).

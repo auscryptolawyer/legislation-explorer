@@ -5,7 +5,6 @@ section: "5-100-trading-stock-taken-for-personal-consumption-stock-written-off-d
 title: "5-100 - Trading stock taken for personal consumption stock written-off due to obsolescence"
 paragraph: "None"
 ---
-
 # 5-100 - Trading stock taken for personal consumption stock written-off due to obsolescence
 
 Worked example: Trading stock taken for personal consumption; stock written-off due to obsolescence Issue Susan Ellis is a sole trader and the owner of the Captain Cook Fish and Chips takeaway food shop. She prepares her meals using the freshest available seafood which she purchases from a local wholesaler.

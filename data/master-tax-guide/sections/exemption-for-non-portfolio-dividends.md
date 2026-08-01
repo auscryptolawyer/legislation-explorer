@@ -5,7 +5,6 @@ section: "exemption-for-non-portfolio-dividends"
 title: "Exemption for non-portfolio dividends"
 paragraph: "¶21-095"
 ---
-
 # Exemption for non-portfolio dividends ¶21-095
 
 A foreign equity distribution received by an Australian corporate tax entity from a foreign company is not assessable where the Australian entity holds a participation interest of at least 10% in the foreign company (s 768-5). Technically the distribution is treated as “non-assessable, non-exempt” (NANE) income (¶10-895).

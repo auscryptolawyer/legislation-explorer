@@ -8,7 +8,6 @@ section_title: Relationship between financial arrangements and excepted financia
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 6  Relationship between financial arrangements and excepted financial arrangements
 
 **Part of financial arrangement**

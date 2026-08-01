@@ -8,7 +8,6 @@ section_title: Tax losses and procedures under Insolvency Act 2006
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IA 3B  Tax losses and procedures under Insolvency Act 2006
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Calculation of instalments: 1 April 2021 to 30 June 2021
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 4H  Calculation of instalments: 1 April 2021 to 30 June 2021
 
 **When this section applies**

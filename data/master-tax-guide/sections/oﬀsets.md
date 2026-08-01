@@ -5,7 +5,6 @@ section: "oﬀsets"
 title: "oﬀsets"
 paragraph: "¶8-300"
 ---
-
 # oﬀsets ¶8-300
 
 The head company of a consolidated group will operate a single franking account on behalf of the group and the imputation rules will operate as if the group were a single entity.

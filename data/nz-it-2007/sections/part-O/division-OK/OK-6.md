@@ -8,7 +8,6 @@ section_title: MACA dividend derived with imputation credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OK 6  MACA dividend derived with imputation credit
 
 **Credit**

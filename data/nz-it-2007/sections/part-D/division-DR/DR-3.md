@@ -8,7 +8,6 @@ section_title: Life reinsurance premiums to reinsurer outside New Zealand
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DR 3  Life reinsurance premiums to reinsurer outside New Zealand
 
 **No deduction for premiums under certain policies**

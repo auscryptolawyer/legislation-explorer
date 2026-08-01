@@ -5,7 +5,6 @@ section: "financial-supplies-general-requirements"
 title: "Financial supplies: general requirements"
 paragraph: "¶10-005"
 ---
-
 # Financial supplies: general requirements ¶10-005
 
 What constitutes a financial supply is specified entirely in the Regulations (s 40-5). For there to be a financial supply, the following must apply. (1) There must be a provision, acquisition or disposal of an “interest” in specified items (GST Regulations s 40-5.09). An interest means any form of property (GST Regulations s 196-1.01). This is interpreted widely (FC of T v American Express International Inc [2010] FCAFC 122). For example, it includes:

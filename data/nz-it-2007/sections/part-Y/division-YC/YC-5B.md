@@ -8,7 +8,6 @@ section_title: Treatment of mixed-ownership enterprises
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YC 5B  Treatment of mixed-ownership enterprises
 
 **(1)**  Section YC 5 applies to the Crown’s interest in a mixed-ownership enterprise in the same way as it does to the Crown’s interest in a special corporate entity to determine—

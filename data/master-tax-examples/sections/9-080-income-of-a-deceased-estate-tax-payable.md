@@ -5,7 +5,6 @@ section: "9-080-income-of-a-deceased-estate-tax-payable"
 title: "9-080 - Income of a deceased estate tax payable"
 paragraph: "None"
 ---
-
 # 9-080 - Income of a deceased estate tax payable
 
 Worked example: Income of a deceased estate; tax payable Issue Tom Werner died 4 years ago. The only assets of his estates were shares listed on the ASX. The terms of his Will provided that these shares were to be held in trust for a period of 25 years by his executor Charles Noble. The terms also provided that any dividend income derived during this 25-year period would be accumulated exclusively for his daughter Marilyn Werner until she turns 21 years of age or marries, and then paid to her. If Marilyn dies before attaining 21 years, all the shares would be transferred to his widow Grace Werner’s estate.

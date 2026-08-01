@@ -8,7 +8,6 @@ section_title: Certain dividends paid to dual resident companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 11BB  Certain dividends paid to dual resident companies
 
 **When this section applies**

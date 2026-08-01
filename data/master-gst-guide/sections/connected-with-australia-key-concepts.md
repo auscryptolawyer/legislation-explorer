@@ -5,7 +5,6 @@ section: "connected-with-australia-key-concepts"
 title: "Connected with Australia: key concepts"
 paragraph: "¶4-102"
 ---
-
 # Connected with Australia: key concepts ¶4-102
 
 A taxable supply must have a connection with Australia (¶4-100), indicia of which include: “Done” in Australia The ATO considers that if the supply consists of the creation, grant, transfer, assignment or surrender of a right, the supply is “done” where that creation, etc, occurs. For example, if a right is granted under an agreement to use intellectual property, the grant is done where the agreement is made — not where the right is exercised (GST Ruling GSTR 2019/1). The agreement will be made where the last act necessary to create a binding contract is performed (WA Dewhurst and Co Pty Ltd v Cawrse [1960] VR 278).

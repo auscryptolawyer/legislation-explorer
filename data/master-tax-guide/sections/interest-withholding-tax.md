@@ -5,7 +5,6 @@ section: "interest-withholding-tax"
 title: "Interest withholding tax"
 paragraph: "¶22-020"
 ---
-
 # Interest withholding tax ¶22-020
 
 (1) derived by a non-resident, and (2) paid by: (a) a resident, except where the interest is wholly incurred by the resident as an expense of carrying on a business overseas at or through a permanent establishment (such as a branch: ¶22-150), or (b) a non-resident and the interest is an expense wholly or partly incurred by the non- resident in carrying on a business in Australia at or through a permanent establishment in Australia (ITAA36 s 128B(2)).

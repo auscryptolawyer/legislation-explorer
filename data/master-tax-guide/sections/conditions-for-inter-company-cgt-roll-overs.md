@@ -5,7 +5,6 @@ section: "conditions-for-inter-company-cgt-roll-overs"
 title: "Conditions for inter-company CGT roll-overs"
 paragraph: "¶12-490"
 ---
-
 # Conditions for inter-company CGT roll-overs ¶12-490
 
 Same-asset roll-over relief is available under Subdiv 126-B in certain cases where a company transfers a CGT asset to, or creates a CGT asset in, another company that is a member of the same wholly-owned group. The roll-over is only available where one of the companies is a non-resident.

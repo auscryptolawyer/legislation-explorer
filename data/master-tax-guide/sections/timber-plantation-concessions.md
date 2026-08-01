@@ -5,7 +5,6 @@ section: "timber-plantation-concessions"
 title: "Timber plantation concessions"
 paragraph: "¶18-125"
 ---
-
 # Timber plantation concessions ¶18-125
 
 Certain prepaid expenditure that is invested in timber plantation managed investment schemes is excluded from the prepayment rules outlined at ¶16-045 (ITAA36 s 82KZMG). The exclusion allows investors to obtain an immediate deduction for funds contributed in one ﬁnancial year for agronomic activities undertaken during the following year.

@@ -5,7 +5,6 @@ section: "trans-tasman-triangular-imputation-rules"
 title: "Trans-Tasman triangular imputation rules"
 paragraph: "¶4-490"
 ---
-
 # Trans-Tasman triangular imputation rules ¶4-490
 
 The Australian and New Zealand governments have extended their imputation systems to include companies resident in the other country. The reforms are aimed at what is known as the “triangular tax” problem, where Australian shareholders in an NZ company operating in Australia were unable to access Australian sourced franking credits, with the same problem applying in reverse for NZ shareholders in Australian companies operating in New Zealand. The Australian rules (discussed here) are contained in ITAA97 Div 220. For details of the NZ legislation, see ¶17-200 and following of the New Zealand Master Tax Guide.

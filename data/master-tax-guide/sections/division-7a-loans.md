@@ -5,7 +5,6 @@ section: "division-7a-loans"
 title: "Division 7A: loans"
 paragraph: "¶4-210"
 ---
-
 # Division 7A: loans ¶4-210
 
 For the purposes of the Div 7A deemed dividend rules, a “loan” includes: (a) an advance of money; (b) a provision of credit or any other form of ﬁnancial accommodation; (c) a payment of an amount for another entity if there is an obligation to repay the amount; and (d) a transaction that is in substance a loan (s 109D(3)). A loan is taken to be made at the time the loan is made or anything happens which is within the deﬁnition of loan (s 109D(4)). Where a loan made before 4 December 1997 is varied on or after that day by extending the term of the loan or increasing its amount, a new loan on the varied terms is deemed to be made at the time of the variation (s 109D(5)).

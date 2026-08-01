@@ -8,7 +8,6 @@ section_title: Currency conversion
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LK 3  Currency conversion
 
 If foreign income tax is paid or payable by a CFC in a currency other than New Zealand currency, the amount must be converted into New Zealand currency by applying—

@@ -8,7 +8,6 @@ section_title: Certain mining expenditure spread on basis of units of production
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 20E  Certain mining expenditure spread on basis of units of production
 
 **When this section applies**

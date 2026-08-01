@@ -5,7 +5,6 @@ section: "deductions-for-ﬁnes-and-breaches-of-law"
 title: "Deductions for ﬁnes and breaches of law"
 paragraph: "¶16-845"
 ---
-
 # Deductions for ﬁnes and breaches of law ¶16-845
 
 Penalties or ﬁnes imposed, eg tax shortfall penalties, as a result of breaches of the law are speciﬁcally excluded from deduction (ITAA97 s 26-5). Even in the absence of this special rule, the courts have consistently held that penalties and ﬁnes are not deductible, either on the grounds of public policy or because their very nature severs them from the expenses of trading (Herald and Weekly Times (1932) 2 ATD 169; (1932) 48 CLR 113, Madad 84 ATC 4739; [1984] FCA 287, Mayne Nickless 84 ATC 4458).

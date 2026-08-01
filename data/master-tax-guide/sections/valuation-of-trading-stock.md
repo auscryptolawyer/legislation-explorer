@@ -5,7 +5,6 @@ section: "valuation-of-trading-stock"
 title: "Valuation of trading stock"
 paragraph: "¶9-180"
 ---
-
 # Valuation of trading stock ¶9-180
 
 For tax purposes a taxpayer may value trading stock, including live stock (see further ¶9-250), at cost (¶9-190), market selling value (¶9-220), or replacement value (¶9-225) (ITAA97 s 70-45). A diﬀerent basis may be adopted for a class of stock, or for each individual item of stock. A diﬀerent basis may be adopted for any one item or class of items each year end.

@@ -8,7 +8,6 @@ section_title: Consolidated ICA payment of multinational top-up tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 11BA  Consolidated ICA payment of multinational top-up tax
 
 **Credit**

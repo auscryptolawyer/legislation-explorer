@@ -5,7 +5,6 @@ section: "tax-design"
 title: "Tax design"
 paragraph: "¶1-710"
 ---
-
 # Tax design ¶1-710
 
 The Department of the Treasury is responsible for assessing and advising on the general design of the tax system and its components, with input from the ATO and private sector experts, in what is known as tripartite tax law design. Treasury and the ATO have a protocol that sets out the terms of their working arrangements about tax law design. The ATO’s role in the process is discussed in PS LA 2013/4. A “collaborative” approach is adopted and external expert involvement is encouraged.

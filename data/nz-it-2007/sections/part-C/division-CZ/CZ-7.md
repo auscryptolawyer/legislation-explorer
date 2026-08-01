@@ -8,7 +8,6 @@ section_title: Primary producer co-operative companies: 1987–88 income year
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 7  Primary producer co-operative companies: 1987–88 income year
 
 **Income: disposal of asset**

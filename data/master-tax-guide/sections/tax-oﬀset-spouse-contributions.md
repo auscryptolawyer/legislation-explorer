@@ -5,7 +5,6 @@ section: "tax-oﬀset-spouse-contributions"
 title: "Tax oﬀset — spouse contributions"
 paragraph: "¶42-335"
 ---
-
 # Tax oﬀset — spouse contributions ¶42-335
 
 An individual may be entitled to a tax oﬀset for superannuation contributions made for the beneﬁt of the individual’s non-working or low income spouse (receiving spouse) whose total assessable income, reportable fringe beneﬁts total and reportable employer superannuation contributions (TI) for an income year is less than $40,000 (¶13-770).

@@ -5,7 +5,6 @@ section: "2-078-main-residence-exemption-compulsory-acquisitions"
 title: "2-078 - Main residence exemption compulsory acquisitions"
 paragraph: "None"
 ---
-
 # 2-078 - Main residence exemption compulsory acquisitions
 
 Worked example: Main residence exemption: compulsory acquisitions Issue Roger and Jean Portante live in a home on a one-acre block in Melbourne’s north-eastern suburbs. The main road which runs in front of their home is to be widened into a dual carriageway and will require compulsory acquisitions of part of the land of most of the houses on both sides of the road. As such, in December 2024, Roger and Jean commenced negotiations which would allow the Department of Transport to compulsorily acquire a strip of land at the front of their house, amounting to about ¼ of the block in total.

@@ -5,7 +5,6 @@ section: "depreciating-assets"
 title: "Depreciating assets"
 paragraph: "¶17-015"
 ---
-
 # Depreciating assets ¶17-015
 
 A “depreciating asset” is deﬁned as an asset that has a limited eﬀective life and that is reasonably expected to decline in value over the time it is used (ITAA97 s 40-30; see, for example, ID 2003/820 and ID 2004/721).

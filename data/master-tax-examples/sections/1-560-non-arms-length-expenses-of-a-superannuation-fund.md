@@ -5,7 +5,6 @@ section: "1-560-non-arms-length-expenses-of-a-superannuation-fund"
 title: "1-560 - Non-arms length expenses of a superannuation fund"
 paragraph: "None"
 ---
-
 # 1-560 - Non-arms length expenses of a superannuation fund
 
 Worked example: Non-arm’s length expenses of a superannuation fund Issue David Rogers is the principal of Rogers and Co, a firm of accountants which provides general accounting services to several unrelated self-managed superannuation funds (SMSFs) on an arm’s length basis. He is also the director of Rogers Trustees Pty Ltd, which is the corporate trustee of an SMSF of which David is the sole member.

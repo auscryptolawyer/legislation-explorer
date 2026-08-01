@@ -8,7 +8,6 @@ section_title: Valuation of trading stock
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EB 3  Valuation of trading stock
 
 **Valuation method**

@@ -5,7 +5,6 @@ section: "sg-statements-and-payment-of-sg-charge"
 title: "SG statements and payment of SG charge"
 paragraph: "¶39-500"
 ---
-
 # SG statements and payment of SG charge ¶39-500
 
 The calculation of an employer’s SG shortfall and SG charge is discussed in ¶39-300 and ¶39-400.

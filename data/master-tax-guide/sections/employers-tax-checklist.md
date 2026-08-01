@@ -5,7 +5,6 @@ section: "employers-tax-checklist"
 title: "Employers’ tax checklist"
 paragraph: "¶44-103"
 ---
-
 # Employers’ tax checklist ¶44-103
 
 This checklist sets out the main tax-related obligations of employers in relation to their employees.

@@ -8,7 +8,6 @@ section_title: Exception: accommodation provided to ministers of religion
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 1E  Exception: accommodation provided to ministers of religion
 
 **Income**

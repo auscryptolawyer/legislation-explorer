@@ -5,7 +5,6 @@ section: "transfer-of-property-to-or-from-trading-stock"
 title: "Transfer of property to or from trading stock"
 paragraph: "¶9-245"
 ---
-
 # Transfer of property to or from trading stock ¶9-245
 
 Property that later becomes trading stock Where an asset of the taxpayer that is not held as trading stock becomes trading stock, the change is treated as a disposal and reacquisition at cost or market value, at the taxpayer’s election (ITAA97 s 70-30).

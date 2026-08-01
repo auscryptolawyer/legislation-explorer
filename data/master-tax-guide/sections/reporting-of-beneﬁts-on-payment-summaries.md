@@ -5,7 +5,6 @@ section: "reporting-of-beneﬁts-on-payment-summaries"
 title: "Reporting of beneﬁts on payment summaries"
 paragraph: "¶35-055"
 ---
-
 # Reporting of beneﬁts on payment summaries ¶35-055
 
 Employers are required to record on payment summaries the grossed-up taxable value of certain fringe beneﬁts (other than excluded fringe beneﬁts) provided to employees during the FBT year, where the taxable value of the beneﬁts provided to an employee exceeds $2,000 (a grossed-up value of $3,773 for the 2025 and 2026 FBT years) (ss 135M to 135Q). Note that cars covered by the exemption for zero or low emissions vehicles are still included (¶35-150). Special rules apply where the employer is exempt from FBT (¶35-100).

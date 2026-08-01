@@ -5,7 +5,6 @@ section: "what-is-a-dividend"
 title: "What is a dividend?"
 paragraph: "¶4-110"
 ---
-
 # What is a dividend? ¶4-110
 
 For tax purposes, the expression “dividend” is deﬁned (ITAA36 s 6(1)) to include any distribution made by a company to its shareholders whether in money or other property (including shares in that or another company) and any amount credited by a company to its shareholders as such. The term also includes any distribution by way of redemption or cancellation of a redeemable preference share, but only to the extent that the value of the distribution exceeds the amount paid-up on the share (para (e) of the deﬁnition of “dividend”).

@@ -5,7 +5,6 @@ section: "dependant-invalid-and-carer-tax-oﬀset"
 title: "Dependant (Invalid and Carer) Tax Oﬀset"
 paragraph: "¶15-100"
 ---
-
 # Dependant (Invalid and Carer) Tax Oﬀset ¶15-100
 
 The Dependant (Invalid and Carer) Tax Oﬀset (DICTO) in Subdiv 61-D ITAA97 is available to taxpayers maintaining certain classes of dependants who are genuinely unable to work due to invalidity or carer obligations (s 61-5).

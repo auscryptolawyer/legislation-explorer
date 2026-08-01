@@ -5,7 +5,6 @@ section: "rental-property-landlord-or-lessor-expenses"
 title: "Rental property — landlord or lessor expenses"
 paragraph: "¶16-650"
 ---
-
 # Rental property — landlord or lessor expenses ¶16-650
 
 In general, the cost of purchasing a rental property is capital and not deductible under s 8-1, though it may form part of the cost base for CGT purposes. The same would apply to other acquisition and disposal costs of the property, eg conveyancing costs. Travel expenses incurred in connection with the purchase are neither deductible under s 8-1 nor do they form part of the cost base of the property according to ATO guidance.

@@ -5,7 +5,6 @@ section: "attribution-managed-investment-trusts"
 title: "Attribution managed investment trusts"
 paragraph: "¶6-405"
 ---
-
 # Attribution managed investment trusts ¶6-405
 
 An eligible managed investment trust may elect into an attribution regime for the taxation of what are known as attribution managed investment trusts (AMITs). The relevant provisions are contained in ITAA97 Div 276.

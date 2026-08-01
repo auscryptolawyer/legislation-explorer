@@ -8,7 +8,6 @@ section_title: Annuities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CC 5  Annuities
 
 **Income**

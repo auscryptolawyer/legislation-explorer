@@ -8,7 +8,6 @@ section_title: Other rules for currency conversion: approved alternatives
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YF 2  Other rules for currency conversion: approved alternatives
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Payment of tax credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MK 3  Payment of tax credits
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "deductibility-of-bad-debts-by-companies"
 title: "Deductibility of bad debts by companies"
 paragraph: "¶3-150"
 ---
-
 # Deductibility of bad debts by companies ¶3-150
 
 - a continuity of ownership test (ITAA97 s 165-123), or

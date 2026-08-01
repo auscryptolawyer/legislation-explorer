@@ -5,7 +5,6 @@ section: "exemptions-for-certain-car-parking-beneﬁts"
 title: "Exemptions for certain car parking beneﬁts"
 paragraph: "¶35-254"
 ---
-
 # Exemptions for certain car parking beneﬁts ¶35-254
 
 Small business employers An exemption applies to car parking beneﬁts provided in respect of the employment of an employee if all of these conditions are satisﬁed (s 58GA):

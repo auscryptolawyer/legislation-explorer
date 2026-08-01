@@ -5,7 +5,6 @@ section: "deceaseds-income-received-after-death"
 title: "Deceased’s income received after death"
 paragraph: "¶6-180"
 ---
-
 # Deceased’s income received after death ¶6-180
 
 The trustee of the estate of a deceased taxpayer is assessed on amounts received after the death of the deceased that would have been assessable to the deceased had they been received during the deceased’s lifetime — such amounts are deemed to be income to which no beneﬁciary is presently entitled (s 101A).

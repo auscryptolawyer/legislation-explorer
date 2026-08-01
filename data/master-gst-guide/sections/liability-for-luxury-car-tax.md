@@ -5,7 +5,6 @@ section: "liability-for-luxury-car-tax"
 title: "Liability for luxury car tax"
 paragraph: "¶23-050"
 ---
-
 # Liability for luxury car tax ¶23-050
 
 - taxable supply, or

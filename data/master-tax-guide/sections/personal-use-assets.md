@@ -5,7 +5,6 @@ section: "personal-use-assets"
 title: "Personal use assets"
 paragraph: "¶11-400"
 ---
-
 # Personal use assets ¶11-400
 
 A personal use asset is a CGT asset, other than a collectable, that is used or kept mainly for the personal use or enjoyment of the taxpayer (or associate: ¶10-390). It includes an option or right to acquire such an asset, a debt arising from a CGT event relating to such an asset, and a debt arising other than from income- producing activities or carrying on a business, eg where a parent lends money to a child to help buy a house (s 108-20). A capital gain from a personal use asset is CGT exempt if it is acquired for $10,000 or less (¶11-640).

@@ -8,7 +8,6 @@ section_title: NZ IFRS 16 leases
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 51C  NZ IFRS 16 leases
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "11-260-validity-of-an-assessment"
 title: "11-260 - Validity of an assessment"
 paragraph: "None"
 ---
-
 # 11-260 - Validity of an assessment
 
 Worked example: Validity of an assessment Issue Brighton Pty Ltd entered into a complex set of arrangements involving the transfer of assets in subsidiaries which resulted in various capital gains. Brighton lodged a tax return showing a taxable income of $46 million.

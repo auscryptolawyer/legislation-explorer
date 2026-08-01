@@ -5,7 +5,6 @@ section: "foreign-government-representatives"
 title: "Foreign government representatives"
 paragraph: "¶22-080"
 ---
-
 # Foreign government representatives ¶22-080
 
 The oﬃcial salary and foreign source income derived by foreign consular and diplomatic representatives and their oﬃcial staﬀ is exempt from tax in Australia where:

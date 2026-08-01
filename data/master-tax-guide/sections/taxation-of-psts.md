@@ -5,7 +5,6 @@ section: "taxation-of-psts"
 title: "Taxation of PSTs"
 paragraph: "¶13-440"
 ---
-
 # Taxation of PSTs ¶13-440
 
 The taxation of PSTs is governed by Div 295 of ITAA97 and other ITAA36 and ITAA97 provisions.

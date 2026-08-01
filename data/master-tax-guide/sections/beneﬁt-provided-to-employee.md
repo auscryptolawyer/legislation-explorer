@@ -5,7 +5,6 @@ section: "beneﬁt-provided-to-employee"
 title: "Beneﬁt provided to employee"
 paragraph: "¶35-080"
 ---
-
 # Beneﬁt provided to employee ¶35-080
 
 To be a fringe beneﬁt, a beneﬁt must be provided to an employee of the employer concerned (s 136(1)).

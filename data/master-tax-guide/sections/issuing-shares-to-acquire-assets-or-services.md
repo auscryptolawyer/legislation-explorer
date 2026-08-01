@@ -5,7 +5,6 @@ section: "issuing-shares-to-acquire-assets-or-services"
 title: "Issuing shares to acquire assets or services"
 paragraph: "¶3-260"
 ---
-
 # Issuing shares to acquire assets or services ¶3-260
 
 TR 2008/5 explains the tax consequences for a company of issuing shares for assets or services.

@@ -5,7 +5,6 @@ section: "credit-for-instalments"
 title: "Credit for instalments"
 paragraph: "¶27-150"
 ---
-
 # Credit for instalments ¶27-150
 
 A taxpayer is entitled to a credit at the time the Commissioner makes an assessment of income tax payable by the taxpayer or determines that the taxpayer does not have a taxable income for the income year (TAA s 45-30). The credit is equal to the total of each instalment payable for the income year (even if it has not yet been paid), reduced by any variation credits claimed in respect of such instalments (¶27-280, ¶27-300).

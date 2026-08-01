@@ -5,7 +5,6 @@ section: "tax-treatment-of-superannuation-contributions"
 title: "Tax treatment of superannuation contributions"
 paragraph: "¶13-600"
 ---
-
 # Tax treatment of superannuation contributions ¶13-600
 
 Employers are required under the SGAA to make mandatory superannuation guarantee (SG) contributions for their employees with some exceptions (¶39-000), or may make additional superannuation contributions for their employees under an employment contract or industrial agreement. Individual taxpayers may make personal superannuation contributions, either from after-tax income or under salary sacriﬁce arrangements (¶10-050, ¶31-120), as their own superannuation savings. Generally, where certain conditions are met:

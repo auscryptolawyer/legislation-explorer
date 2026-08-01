@@ -5,7 +5,6 @@ section: "4-100-work-related-expenses"
 title: "4-100 - Work-related expenses"
 paragraph: "None"
 ---
-
 # 4-100 - Work-related expenses
 
 Worked example: Work-related expenses Issue Marilyn Murphy is a primary school teacher at a local school. During the 2024–25 tax year, she incurred the following expenses:

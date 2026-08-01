@@ -5,7 +5,6 @@ section: "overview-commissioners-powers"
 title: "Overview: Commissioner’s powers"
 paragraph: "¶18-100"
 ---
-
 # Overview: Commissioner’s powers ¶18-100
 
 The Commissioner has wide-ranging information-gathering and access powers. In the exercise of these powers, the Commissioner may require you to:

@@ -5,7 +5,6 @@ section: "company-directors-checklist"
 title: "Company directors’ checklist"
 paragraph: "¶44-120"
 ---
-
 # Company directors’ checklist ¶44-120
 
 - Directors’ fees, bonuses and similar payments are deductible to the company and assessable to

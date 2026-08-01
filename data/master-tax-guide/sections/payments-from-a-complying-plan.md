@@ -5,7 +5,6 @@ section: "payments-from-a-complying-plan"
 title: "Payments from a complying plan"
 paragraph: "¶14-200"
 ---
-
 # Payments from a complying plan ¶14-200
 
 The taxation treatment of a superannuation member beneﬁt paid from a complying superannuation plan (other than those paid after the death of the member) is based on:

@@ -8,7 +8,6 @@ section_title: Pre-consolidation losses: use by group companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ID 3  Pre-consolidation losses: use by group companies
 
 **When this section applies**

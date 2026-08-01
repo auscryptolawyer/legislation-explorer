@@ -5,7 +5,6 @@ section: "multiple-trusts"
 title: "Multiple trusts"
 paragraph: "¶6-070"
 ---
-
 # Multiple trusts ¶6-070
 
 One person may create several trusts, either in the one trust instrument or by means of several separate trust instruments, in favour of the same or diﬀerent beneﬁciaries.

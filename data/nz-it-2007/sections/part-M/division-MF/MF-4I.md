@@ -8,7 +8,6 @@ section_title: Calculation of instalments: 1 July 2021 to 31 March 2022
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 4I  Calculation of instalments: 1 July 2021 to 31 March 2022
 
 **When this section applies**

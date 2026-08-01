@@ -8,7 +8,6 @@ section_title: Federation of Polytechnics Committee and industry skills boards
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 55BAA  Federation of Polytechnics Committee and industry skills boards
 
 **(1)**  An amount of income derived by the Federation of Polytechnics Committee established under section 325 of the Education and Training Act 2020 is exempt income if the Committee is not carried on for the private pecuniary profit of any individual.

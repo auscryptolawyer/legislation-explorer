@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 159GZZZQ Consideration in respect of off-market purchase
 
 <a id="s159GZZZQ-1"></a>

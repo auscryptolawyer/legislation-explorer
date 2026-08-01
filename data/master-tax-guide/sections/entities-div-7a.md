@@ -5,7 +5,6 @@ section: "entities-div-7a"
 title: "entities (Div 7A)"
 paragraph: "¶4-200"
 ---
-
 # entities (Div 7A) ¶4-200
 
 Under ITAA36 Pt III Div 7A (s 109B to 109ZE), amounts paid (¶4-205), lent (¶4-210) or forgiven (¶4-220) by a private company to certain associated entities (including individuals) are treated as dividends, unless they come within speciﬁed exclusions. Division 7A applies to non-share equity interests and non-share dividends (¶23-125) in the same way that it applies to shares and dividends (s 109BA). A closely held corporate limited partnership is treated as a private company for the purposes of Div 7A. There may also be a potential deemed dividend under Div 7A in some circumstances where a private company is a presently entitled beneﬁciary of a trust and the trust makes a payment or loan to, or forgives a debt owing by, a shareholder (or an associate of a shareholder) of the private company (¶4-246).

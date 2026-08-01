@@ -5,7 +5,6 @@ section: "beneﬁt"
 title: "beneﬁt"
 paragraph: "¶35-470"
 ---
-
 # beneﬁt ¶35-470
 
 The taxable value of a LAFHA fringe beneﬁt in a year of tax is the amount of the fringe beneﬁt reduced by any exempt accommodation component and any exempt food component, provided the employee satisﬁes all of the following for the fringe beneﬁt and the period to which it relates (s 31): (a) the requirement to maintain an Australian home (s 31C — see below) (b) the requirement that the fringe beneﬁt relates only to all or part of the ﬁrst 12 months that the duties of that employment require the employee to live away from home (s 31D — see below), and (c) the declaration requirements (s 31F — see below).

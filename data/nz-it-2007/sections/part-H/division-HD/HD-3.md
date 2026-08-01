@@ -8,7 +8,6 @@ section_title: Agents’ duties and liabilities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HD 3  Agents’ duties and liabilities
 
 **When this section applies**

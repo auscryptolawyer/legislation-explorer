@@ -5,7 +5,6 @@ section: "overview-of-transfer-pricing"
 title: "Overview of transfer pricing"
 paragraph: "¶22-580"
 ---
-
 # Overview of transfer pricing ¶22-580
 
 The transfer pricing provisions address arrangements under which proﬁts are shifted out of Australia, primarily through the mechanism of inter-company and intra-company transfer pricing. The provisions seek to substitute arm’s length conditions for the actual conditions operating between entities engaged in transfer pricing and for the tax payable to be based on the arm’s length conditions.

@@ -8,7 +8,6 @@ section_title: Disposal of fishing quota emissions units
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 51C  Disposal of fishing quota emissions units
 
 **Who this section applies to**

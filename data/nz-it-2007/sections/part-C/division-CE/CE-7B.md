@@ -8,7 +8,6 @@ section_title: Meaning of share scheme taxing date
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 7B  Meaning of share scheme taxing date
 
 **Meaning**

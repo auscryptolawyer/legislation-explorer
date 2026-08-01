@@ -5,7 +5,6 @@ section: "deferred-taxation-and-employee-share-schemes"
 title: "Deferred taxation and employee share schemes"
 paragraph: "¶10-089"
 ---
-
 # Deferred taxation and employee share schemes ¶10-089
 
 - a share, right or stapled security acquired at a discount under an employee share scheme where

@@ -5,7 +5,6 @@ section: "tfn-and-withholding-declarations"
 title: "TFN and withholding declarations"
 paragraph: "¶26-350"
 ---
-
 # TFN and withholding declarations ¶26-350
 
 TFN declarations A person who receives a payment for work or services (including non-cash beneﬁts), a retirement payment, annuity, beneﬁt or compensation payment, or is likely to receive such a payment, may give the payer a TFN declaration (ITAA36 s 202C). A TFN declaration cannot be given in relation to a voluntary agreement to withhold (¶26-150) — instead, the voluntary agreement discloses the payee’s ABN, which is suﬃcient. A person can choose whether to provide a TFN declaration but, if one is not provided, the payment is subject to withholding at the top marginal rate plus Medicare levy. A payer making a payment for which a payee may make a TFN declaration must notify the Commissioner if the payee does not provide a declaration.

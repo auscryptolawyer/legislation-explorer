@@ -5,7 +5,6 @@ section: "atos-compliance-focus"
 title: "ATO’s compliance focus"
 paragraph: "¶18-180"
 ---
-
 # ATO’s compliance focus ¶18-180
 
 The ATO publishes an annual report and corporate plan in which it outlines its strategic direction. In addition, it regularly releases taxpayer alerts (¶18-030) in respect of what it considers emerging aggressive tax planning issues or arrangements that have come to its attention. The Auditor-General, supported by the Australian National Audit Office (ANAO), conducts regular performance audits of the ATO administration of the taxation system.

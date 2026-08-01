@@ -5,7 +5,6 @@ section: "rates-and-thresholds-of-payroll-tax"
 title: "Rates and thresholds of payroll tax"
 paragraph: "¶36-030"
 ---
-
 # Rates and thresholds of payroll tax ¶36-030
 
 The following payroll tax rates and thresholds are applicable in the various states for the ﬁnancial year commencing 1 July 2024: Monthly wages threshold State                                       Rate (%)                                      Annual wages threshold ($) ($) New South Wales                             5.45                                          1,200,000                  92,055; 98,630; 101,918

@@ -8,7 +8,6 @@ section_title: Group companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CV 1  Group companies
 
 **Income**

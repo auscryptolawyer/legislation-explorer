@@ -8,7 +8,6 @@ section_title: Exploratory well used for commercial production
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CT 3  Exploratory well used for commercial production
 
 **When this section applies**

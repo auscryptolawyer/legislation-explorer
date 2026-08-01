@@ -5,7 +5,6 @@ section: "outline-of-nras"
 title: "Outline of NRAS"
 paragraph: "¶20-600"
 ---
-
 # Outline of NRAS ¶20-600
 
 The National Rental Aﬀordability Scheme (NRAS) is designed to encourage large-scale investment in housing by oﬀering an incentive to participants so as to increase the supply of aﬀordable rental dwellings and reduce rental costs for low and moderate income households. The scheme was ﬁrst implemented in 2008 and will cease in 2026–27.

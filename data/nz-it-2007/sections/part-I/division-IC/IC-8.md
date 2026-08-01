@@ -8,7 +8,6 @@ section_title: Limitations on amounts used
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IC 8  Limitations on amounts used
 
 **Limit on amounts**

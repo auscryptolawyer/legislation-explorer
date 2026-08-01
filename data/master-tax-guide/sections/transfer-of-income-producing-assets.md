@@ -5,7 +5,6 @@ section: "transfer-of-income-producing-assets"
 title: "Transfer of income-producing assets"
 paragraph: "¶31-290"
 ---
-
 # Transfer of income-producing assets ¶31-290
 
 If a taxpayer sells, settles on trust or gives away assets of which the taxpayer is the legal and beneﬁcial owner or in which the taxpayer has a beneﬁcial interest and all legal and equitable requirements or formalities are complied with, the taxpayer is not assessable on any income arising from that asset or beneﬁcial interest after the assignment. This is so even though some of that income (eg rent, interest, dividends) may have accrued, but was not payable, before the assignment. This applies, for example, to outright sales of shares or securities cum dividend (¶4-100) or cum interest (¶23-430).

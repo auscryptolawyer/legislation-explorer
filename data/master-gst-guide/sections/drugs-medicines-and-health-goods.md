@@ -5,7 +5,6 @@ section: "drugs-medicines-and-health-goods"
 title: "Drugs, medicines and health goods"
 paragraph: "¶13-360"
 ---
-
 # Drugs, medicines and health goods ¶13-360
 
 - they are supplied on prescription and supply without prescription is restricted

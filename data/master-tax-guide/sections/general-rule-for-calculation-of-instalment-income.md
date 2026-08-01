@@ -5,7 +5,6 @@ section: "general-rule-for-calculation-of-instalment-income"
 title: "General rule for calculation of instalment income"
 paragraph: "¶27-260"
 ---
-
 # General rule for calculation of instalment income ¶27-260
 
 A taxpayer’s instalment income for a period includes the taxpayer’s ordinary income derived during that period, but only to the extent that it is assessable during the income year that is, or includes, the period (TAA s 45-120(1)).

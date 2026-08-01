@@ -5,7 +5,6 @@ section: "valuation-rules-for-property-fringe-beneﬁts"
 title: "Valuation rules for property fringe beneﬁts"
 paragraph: "¶35-510"
 ---
-
 # Valuation rules for property fringe beneﬁts ¶35-510
 
 There are diﬀerent rules for valuing property fringe beneﬁts, depending on whether the concession for “in- house” beneﬁts applies.

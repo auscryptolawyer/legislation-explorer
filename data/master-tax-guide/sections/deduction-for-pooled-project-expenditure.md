@@ -5,7 +5,6 @@ section: "deduction-for-pooled-project-expenditure"
 title: "Deduction for pooled project expenditure"
 paragraph: "¶19-050"
 ---
-
 # Deduction for pooled project expenditure ¶19-050
 
 Certain mining project expenditure, and related transport expenditure or other infrastructure project expenditure (that is not the cost of a “depreciating asset”: see below) may be deductible over the estimated life of the project (ITAA97 Subdiv 40-I: ss 40-830 to 40-885). The deduction is not limited to expenditure related to mining projects.

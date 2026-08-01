@@ -5,7 +5,6 @@ section: "enterprise-must-be-carried-on-until-day-of-supply"
 title: "Enterprise must be carried on until day of supply"
 paragraph: "¶11-503"
 ---
-
 # Enterprise must be carried on until day of supply ¶11-503
 
 Under the arrangement, the seller must carry on the enterprise until the day of supply to the purchaser (s 38-325(2)(b)). The Commissioner accepts that this requirement may be satisfied even though the seller temporarily ceases some activities of the enterprise for a short period to facilitate the sale (GST Ruling GSTR 2002/5).

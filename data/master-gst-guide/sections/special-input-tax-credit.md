@@ -5,7 +5,6 @@ section: "special-input-tax-credit"
 title: "Special input tax credit"
 paragraph: "¶16-110"
 ---
-
 # Special input tax credit ¶16-110
 
 Normally, you can only claim an input tax credit on the acquisition of goods if the supply of the goods to you was a taxable supply (¶5-010). However, where the supply to you was of second-hand goods, the fact that it was not taxable does not prevent you from claiming a special input tax credit, provided that you bought the goods for the purposes of selling or exchanging them in the ordinary course of your business (s 66-5).

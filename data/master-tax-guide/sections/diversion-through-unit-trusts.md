@@ -5,7 +5,6 @@ section: "diversion-through-unit-trusts"
 title: "Diversion through unit trusts"
 paragraph: "¶31-560"
 ---
-
 # Diversion through unit trusts ¶31-560
 
 A unit trust is a trust in which the beneﬁcial ownership of the trust property is divided into a number of units. Although discretionary unit trusts do exist (see below), the property of a unit trust is normally held on trust absolutely for the persons who for the time being are the holders of units in the unit trust (although the unitholders may themselves be the trustees of discretionary trusts). There is normally no discretion to redistribute the beneﬁcial interests in capital or income among the unitholders. Thus, like a company, a unit trust permits the association of a number of unrelated parties in a venture. A unit trust is governed by the same principles as other trusts and there must be property vested in the trustee for the beneﬁt of beneﬁciaries. Like any other trust, a unit trust imposes obligations with respect to the trust property; and the trustee of a unit trust has, and in general is subject to, the same duties, obligations and liabilities as the trustee of any other trust. Public trading trusts (¶6-310) are taxed as companies.

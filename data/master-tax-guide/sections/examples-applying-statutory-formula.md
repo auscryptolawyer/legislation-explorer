@@ -5,7 +5,6 @@ section: "examples-applying-statutory-formula"
 title: "Examples applying statutory formula"
 paragraph: "¶35-200"
 ---
-
 # Examples applying statutory formula ¶35-200
 
 Example 1: Car held for whole year This example shows the application of the formula to a car that was originally owned by the employer before the commencement of the year, is held by the employer for the whole year and is available for private use on every day during the year.

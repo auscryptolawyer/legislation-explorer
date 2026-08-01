@@ -5,7 +5,6 @@ section: "elections-choices-and-notiﬁcations"
 title: "Elections, choices and notiﬁcations"
 paragraph: "¶24-040"
 ---
-
 # Elections, choices and notiﬁcations ¶24-040
 
 As part of the process of determining the taxpayer’s taxable income, the tax law allows a taxpayer to make various elections/choices and requests, and to give notice of certain matters (together, “elections”). Many elections are not required to be in writing and/or lodged with the Commissioner. For example, ITAA97 generally does not require choices made for CGT purposes to be lodged with the Commissioner.

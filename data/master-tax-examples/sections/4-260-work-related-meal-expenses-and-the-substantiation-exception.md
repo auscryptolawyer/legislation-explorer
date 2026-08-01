@@ -5,7 +5,6 @@ section: "4-260-work-related-meal-expenses-and-the-substantiation-exception"
 title: "4-260 - Work-related meal expenses and the substantiation exception"
 paragraph: "None"
 ---
-
 # 4-260 - Work-related meal expenses and the substantiation exception
 
 Worked example: Work-related meal expenses and the substantiation exception Issue Patrick Healey is employed by a human resources company, Human Capital Pty Ltd. His duties require him to travel to see various clients in the major capital cities throughout Australia. His trips normally last at least 3 days and he is required to stay overnight. To cover his travelling cost, his employer provides him with a daily meal allowance of $170 to cover meals consumed each day (ie breakfast, lunch and dinner). All accommodation costs in relation to Patrick’s travel are either reimbursed or paid for by Human Capital Pty Ltd.

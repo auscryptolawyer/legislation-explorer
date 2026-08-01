@@ -5,7 +5,6 @@ section: "franking-accounts"
 title: "Franking accounts"
 paragraph: "¶4-700"
 ---
-
 # Franking accounts ¶4-700
 
 The detailed rules for operating a franking account are contained in ITAA97 Div 205, comprising ss 205-1 to 205-50. The provisions also create a liability to pay franking deﬁcit tax if the account is in deﬁcit at certain times.

@@ -8,7 +8,6 @@ section_title: Arrangements involving dividend stripping
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 1  Arrangements involving dividend stripping
 
 **When this section applies**

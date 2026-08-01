@@ -8,7 +8,6 @@ section_title: Use of remaining credits by life insurer on policyholder base
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 2B  Use of remaining credits by life insurer on policyholder base
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Adjustments for certain flat-rate credits under platform economy 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 5B  Adjustments for certain flat-rate credits under platform economy rules
 
 **Who this section applies to**

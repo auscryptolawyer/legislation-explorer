@@ -5,7 +5,6 @@ section: "quoting-on-a-dealing"
 title: "Quoting on a dealing"
 paragraph: "¶22-420"
 ---
-
 # Quoting on a dealing ¶22-420
 
 A sale of wine is not taxable if the purchaser quotes its ABN for the sale at or before the time of the sale.

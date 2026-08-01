@@ -5,7 +5,6 @@ section: "special-rules-for-charities-and-not-for-profits"
 title: "Special rules for charities and not-for-profits"
 paragraph: "¶15-000"
 ---
-
 # Special rules for charities and not-for-profits ¶15-000
 
 Charities, gift-deductible entities, government schools and non-profit bodies are entitled to various concessions designed to reduce the administrative inconveniences that would otherwise flow from a strict application of the normal GST rules.

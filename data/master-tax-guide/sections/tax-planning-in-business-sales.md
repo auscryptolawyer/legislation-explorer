@@ -5,7 +5,6 @@ section: "tax-planning-in-business-sales"
 title: "Tax planning in business sales"
 paragraph: "¶31-610"
 ---
-
 # Tax planning in business sales ¶31-610
 
 Parties to a business sale should consider the income tax and CGT consequences for each asset (tangible or intangible) being sold, and also any associated matters such as the provision of services or the grant of a restrictive covenant. As taxpayers will be required to prove that an adverse assessment is excessive, it would not generally be desirable to leave any of the sale consideration unallocated. If the consideration is not allocated, the Commissioner may so allocate (generally using market values). Allocations of consideration by taxpayers should, of course, be commercially justiﬁable. From the vendor’s point of view, as much of the consideration as possible should be allocated to pre-CGT assets. Where assets are subject to CGT, the vendor may wish to consider other alternatives. In the case of small businesses, an important factor will be the various CGT concessions that apply (¶7-110). The GST implications of buying or selling a business are discussed at ¶34-240.

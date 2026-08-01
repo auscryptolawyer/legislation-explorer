@@ -5,7 +5,6 @@ section: "common-commercial-transactions"
 title: "Common commercial transactions"
 paragraph: "¶25-030"
 ---
-
 # Common commercial transactions ¶25-030
 
 This simplified, quick-reference checklist enables you to find explanation of the GST treatment of various common commercial transactions. For more detailed entries, see the Index.

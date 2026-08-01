@@ -5,7 +5,6 @@ section: "fundraising-activities"
 title: "Fundraising activities"
 paragraph: "¶15-055"
 ---
-
 # Fundraising activities ¶15-055
 
 The general rules relating to fundraising functions are discussed at ¶4-030. However, endorsed charities can elect to have fundraising events treated as input taxed (s 40-160). This means that those activities will not be subject to GST and that the charity will not be able to claim input tax credits for related costs. This option is also open to gift-deductible entities and government schools (¶15-000).

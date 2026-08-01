@@ -5,7 +5,6 @@ section: "3-060-exempt-benefits"
 title: "3-060 - Exempt benefits"
 paragraph: "None"
 ---
-
 # 3-060 - Exempt benefits
 
 Worked example: Exempt benefits Issue During the FBT year ending 31 March 2025, Barb’s IT Solutions Pty Ltd, which is not a small business entity, provided the following benefits to Josephine Lim, an employee of the company: (a) payment of Josephine’s gym membership fees of $50 per month (b) a bouquet of flowers on her birthday (valued at $80) (c) a laptop computer for Josephine’s child (valued at $800) (d) payment of her airport lounge membership (valued at $500) (e) reimbursement of the portion of Josephine’s mobile phone bill for work-related calls.

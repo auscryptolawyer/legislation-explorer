@@ -5,7 +5,6 @@ section: "cgt-consequences-of-exercise-of-options"
 title: "CGT consequences of exercise of options"
 paragraph: "¶12-700"
 ---
-
 # CGT consequences of exercise of options ¶12-700
 
 When an option is exercised, the usual CGT rules are modiﬁed (s 134-1). However, these modiﬁcations do not apply where the special CGT rules dealing with certain rights and options issued by a company or trust are involved (¶12-610).

@@ -5,7 +5,6 @@ section: "summary-of-primary-production-concessions"
 title: "Summary of primary production concessions"
 paragraph: "¶18-000"
 ---
-
 # Summary of primary production concessions ¶18-000
 
 The rules for calculating deductions and writing oﬀ capital expenditure incurred in primary production are contained in the uniform capital allowance system (ITAA97 ss 40-510 to 40-675). This chapter covers additional tax concessions for taxpayers engaged in a primary production business (“primary producers”).

@@ -8,7 +8,6 @@ section_title: Employment-related activities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DD 4  Employment-related activities
 
 **Business travel expenditure**

@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 102AAZE Accruals system of taxation does not apply to small amounts
 
 An amount is not to be included in the assessable income of the taxpayer of a year of income under section 102AAZD in relation to a trust estate that is a listed country trust estate in relation to the year of income if the amount obtained by:

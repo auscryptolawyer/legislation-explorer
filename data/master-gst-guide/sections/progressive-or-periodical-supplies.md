@@ -5,7 +5,6 @@ section: "progressive-or-periodical-supplies"
 title: "Progressive or periodical supplies"
 paragraph: "¶19-210"
 ---
-
 # Progressive or periodical supplies ¶19-210
 
 A special rule applies if the contract provides for something to be supplied for a period, or progressively over a period, and the period spans the 1 July 2000 commencement date (Transition Act, s 12). In this situation, the supplies are treated as if they were provided continuously and uniformly over the whole of that period.

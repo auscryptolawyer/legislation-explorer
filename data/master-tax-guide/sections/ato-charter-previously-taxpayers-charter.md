@@ -5,7 +5,6 @@ section: "ato-charter-previously-taxpayers-charter"
 title: "ATO Charter (previously “Taxpayers’ Charter”)"
 paragraph: "¶1-205"
 ---
-
 # ATO Charter (previously “Taxpayers’ Charter”) ¶1-205
 
 The ATO Charter (previously known as the “Taxpayers’ Charter”) outlines what the ATO must do for taxpayers, what taxpayers are required to do, and what action taxpayers can take if they are not happy with an ATO decision or service. The Charter was refreshed, renamed and relaunched by the ATO in June 2023 following extensive community consultation. The Charter is now presented in an easier-to-understand format, with streamlined content that contains links to more detailed information on speciﬁc topics and commitments.

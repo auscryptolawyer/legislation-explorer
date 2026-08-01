@@ -5,7 +5,6 @@ section: "other-exempt-government-payments"
 title: "Other exempt government payments"
 paragraph: "¶10-197"
 ---
-
 # Other exempt government payments ¶10-197
 
 In addition to the social security and veterans aﬀairs payments listed at ¶10-195 and ¶10-200, the federal government also makes a range of other types of payments that are exempt from tax (albeit special conditions may apply). These include the following:

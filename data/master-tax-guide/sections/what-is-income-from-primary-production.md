@@ -5,7 +5,6 @@ section: "what-is-income-from-primary-production"
 title: "What is income from primary production?"
 paragraph: "¶18-030"
 ---
-
 # What is income from primary production? ¶18-030
 
 For a number of reasons it may be necessary to determine what constitutes income from primary production.

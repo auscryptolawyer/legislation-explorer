@@ -8,7 +8,6 @@ section_title: Determination alternatives
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 15E  Determination alternatives
 
 **When this section applies**

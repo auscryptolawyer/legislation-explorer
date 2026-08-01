@@ -5,7 +5,6 @@ section: "self-managed-superannuation-funds"
 title: "Self managed superannuation funds"
 paragraph: "¶13-060"
 ---
-
 # Self managed superannuation funds ¶13-060
 
 A “superannuation fund” (¶13-050) is a “self managed superannuation fund” (SMSF) if it has no more than 6 members and it satisﬁes the other basic conditions in SISA s 17A. Funds with fewer than 6 members that do not meet the basic conditions are not SMSFs, but are known as “small APRA funds”.

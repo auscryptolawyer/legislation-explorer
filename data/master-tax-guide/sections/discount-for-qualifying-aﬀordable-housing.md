@@ -5,7 +5,6 @@ section: "discount-for-qualifying-aﬀordable-housing"
 title: "Discount for qualifying aﬀordable housing"
 paragraph: "¶11-037"
 ---
-
 # Discount for qualifying aﬀordable housing ¶11-037
 
 With eﬀect from 1 January 2018, the CGT discount is increased from 50% to 60% for capital gains made by a resident individual from a dwelling used to provide aﬀordable housing for at least 1,095 days (which may be aggregated over diﬀerent periods) during the ownership period. The additional discount is available to capital gains made by a resident individual or distributed/attributed to a resident individual by a trust (other than a public unit trust or a superannuation fund), a managed investment trust or a partnership (s 115-125).

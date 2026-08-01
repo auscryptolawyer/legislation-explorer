@@ -5,7 +5,6 @@ section: "7-170-salary-sacrifice-and-superannuation-guarantee-charge"
 title: "7-170 - Salary sacrifice and superannuation guarantee charge"
 paragraph: "None"
 ---
-
 # 7-170 - Salary sacrifice and superannuation guarantee charge
 
 Worked example: Salary sacrifice and superannuation guarantee charge Issue Rosalind and Peter Russell are keen to boost their retirement savings and accordingly each has determined to contribute an additional $1,000 per quarter into their superannuation fund by way of a salary sacrifice arrangement with their respective employers, commencing 1 April 2025.

@@ -5,7 +5,6 @@ section: "earnings-from-foreign-service"
 title: "Earnings from foreign service"
 paragraph: "¶10-860"
 ---
-
 # Earnings from foreign service ¶10-860
 
 Foreign earnings derived by an Australian resident taxpayer from at least 91 days’ continuous foreign service may be exempt (ITAA36 s 23AG). The exemption only applies to foreign earnings: (1) as an aid or charitable worker employed by an approved developing country relief fund, a public disaster relief fund or a prescribed charitable institution that is exempt from Australian income tax; (2) as a worker delivering Australian oﬃcial development assistance (except if the worker’s employer is an Australian government agency); or (3) as a government employee deployed as a member of a disciplined force (ITAA36 s 23AG(1AA); TR 2013/7).

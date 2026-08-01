@@ -5,7 +5,6 @@ section: "date-of-death-tax-returns"
 title: "Date of death tax returns"
 paragraph: "¶2-080"
 ---
-
 # Date of death tax returns ¶2-080
 
 A return must normally be ﬁled for a deceased taxpayer for the period from beginning of the relevant income year to the date of death of the taxpayer (TAA sch 1 Subdiv 260-E). The return is ﬁled by the executor or administrator of the deceased’s estate and must include all assessable income derived (and all deductible losses or outgoings incurred) by the deceased in that period (¶6-030).

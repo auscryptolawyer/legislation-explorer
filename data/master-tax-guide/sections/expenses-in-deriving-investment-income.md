@@ -5,7 +5,6 @@ section: "expenses-in-deriving-investment-income"
 title: "Expenses in deriving investment income"
 paragraph: "¶16-660"
 ---
-
 # Expenses in deriving investment income ¶16-660
 
 A taxpayer who derives assessable income from investments (ie dividends and interest) may deduct certain expenditure incurred in connection with that income (eg collection expenses, bookkeeping and secretarial expenses, interest, borrowing expenses and audit fees where an audit is reasonably necessary). Appropriate documentation should be maintained (Sobel Investments 2012 ATC ¶10-243; [2012] AATA 180).

@@ -8,7 +8,6 @@ section_title: Forestry encouragement agreement: no deduction
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DP 6  Forestry encouragement agreement: no deduction
 
 **No deduction**

@@ -8,7 +8,6 @@ section_title: Breach in tax year in which loss balance is grouped
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IP 5  Breach in tax year in which loss balance is grouped
 
 **When this section applies**

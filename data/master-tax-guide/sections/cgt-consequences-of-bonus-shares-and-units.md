@@ -5,7 +5,6 @@ section: "cgt-consequences-of-bonus-shares-and-units"
 title: "CGT consequences of bonus shares and units"
 paragraph: "¶12-600"
 ---
-
 # CGT consequences of bonus shares and units ¶12-600
 
 Special acquisition and cost base rules apply for bonus shares issued by a company and bonus units issued by the trustee of a unit trust (s 130-20). These rules do not apply to a public trading trust.

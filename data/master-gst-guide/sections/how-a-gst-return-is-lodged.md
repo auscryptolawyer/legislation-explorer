@@ -5,7 +5,6 @@ section: "how-a-gst-return-is-lodged"
 title: "How a GST return is lodged"
 paragraph: "¶8-043"
 ---
-
 # How a GST return is lodged ¶8-043
 
 Entities with GST turnover (¶3-030) of at least $20 million (¶7-110) must lodge their GST return electronically in a format approved by the ATO, unless the ATO approves some other method (s 31-25).

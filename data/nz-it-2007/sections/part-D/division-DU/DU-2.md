@@ -8,7 +8,6 @@ section_title: Mining expenditure: rehabilitation expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DU 2  Mining expenditure: rehabilitation expenditure
 
 **Deduction**

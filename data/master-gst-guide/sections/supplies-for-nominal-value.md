@@ -5,7 +5,6 @@ section: "supplies-for-nominal-value"
 title: "Supplies for “nominal” value"
 paragraph: "¶15-010"
 ---
-
 # Supplies for “nominal” value ¶15-010
 
 Anything supplied by an endorsed charity is GST-free if the consideration paid for it is less than 50% of the GST-inclusive market value (s 38-250). In the case of accommodation, the consideration need only be less than 75% of market value. A charity seeking to utilise this exemption, would be prudent to continually monitor its costs and pricing structure to ensure that the relevant limits are not breached. “Gift-deductible” entities and government schools (¶15-000) can also utilise this concession.

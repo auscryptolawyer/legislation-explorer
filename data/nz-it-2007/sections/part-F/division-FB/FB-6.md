@@ -8,7 +8,6 @@ section_title: Timber or right to take timber
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 6  Timber or right to take timber
 
 **When this section applies**

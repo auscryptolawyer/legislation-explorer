@@ -8,7 +8,6 @@ section_title: Consistency of use of IFRS method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 25B  Consistency of use of IFRS method
 
 **Consistency**

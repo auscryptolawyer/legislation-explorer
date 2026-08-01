@@ -5,7 +5,6 @@ section: "1-500-image-rights"
 title: "1-500 - Image rights"
 paragraph: "None"
 ---
-
 # 1-500 - Image rights
 
 Worked example: Image rights Issue Cleveland Jones, a top-flight player in the AFL, has been playing at this level since 2015. Cleveland has acquired considerable fame, both on the field and off it, where he is in constant demand for appearances on chat shows, reality shows and to appear at public events.

@@ -5,7 +5,6 @@ section: "medical-aids-and-appliances"
 title: "Medical aids and appliances"
 paragraph: "¶13-350"
 ---
-
 # Medical aids and appliances ¶13-350
 
 Medical aids and appliances of the type set out below are GST-free, provided they are (1) specifically designed for people with an illness or disability, and (2) are not widely used otherwise (s 38-45; sch 3; GST Regulations s 38-45.01).

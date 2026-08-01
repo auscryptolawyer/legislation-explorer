@@ -5,7 +5,6 @@ section: "authority"
 title: "authority"
 paragraph: "¶14-350"
 ---
-
 # authority ¶14-350
 
 The Commissioner must issue determinations and commutation authorities for excess transfer balance tax purposes under a 2-stage process in accordance with TAA sch 1 Div 136 (TAA sch 1 s 136-1 to 136-90).

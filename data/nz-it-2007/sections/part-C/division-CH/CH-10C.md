@@ -8,7 +8,6 @@ section_title: Interest apportionment: non-qualifying infrastructure debt
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CH 10C  Interest apportionment: non-qualifying infrastructure debt
 
 An amount derived by a person under section FE 7C(4) (Exemption for eligible infrastructure) is income of the person.

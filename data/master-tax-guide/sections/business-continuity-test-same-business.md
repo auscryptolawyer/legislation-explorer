@@ -5,7 +5,6 @@ section: "business-continuity-test-same-business"
 title: "Business continuity test: same business"
 paragraph: "¶3-123"
 ---
-
 # Business continuity test: same business ¶3-123
 
 As explained at ¶3-120, one way by which the business continuity test may be met by a company is by the company satisfying what may be called the same business test. This test is considered below.

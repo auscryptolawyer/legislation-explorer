@@ -8,7 +8,6 @@ section_title: Partnership interests and disposal of part of asset
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CU 5  Partnership interests and disposal of part of asset
 
 In this subpart and subpart DU (Mineral mining expenditure), and in sections CX 43 (Farm-out arrangements for mining operations), and GB 20 (Arrangements involving petroleum and mineral mining) unless the context otherwise requires,—

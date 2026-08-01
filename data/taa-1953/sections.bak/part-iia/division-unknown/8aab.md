@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8AAB  When the general interest charge applies
 
 <a id="s8AAB-1"></a>

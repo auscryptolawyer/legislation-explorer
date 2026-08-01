@@ -8,7 +8,6 @@ section_title: Remaining refundable credits: non-resident withholding tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LA 8  Remaining refundable credits: non-resident withholding tax
 
 **What this section applies to**

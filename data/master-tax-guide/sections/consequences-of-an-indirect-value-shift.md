@@ -5,7 +5,6 @@ section: "consequences-of-an-indirect-value-shift"
 title: "Consequences of an indirect value shift"
 paragraph: "¶12-850"
 ---
-
 # Consequences of an indirect value shift ¶12-850
 
 The indirect value shifting rules in Div 727 do not give rise to assessable gains or losses. Instead, adjustments are made for the consequential or indirect eﬀects of the value shift. The consequences are limited to either reducing losses or gains that would otherwise arise when the interests are realised or, where a choice is made, varying the adjustable values of interests held by aﬀected owners. Special rules apply for interests held as trading stock or revenue assets.

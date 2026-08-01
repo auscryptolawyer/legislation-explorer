@@ -8,7 +8,6 @@ section_title: Property transferred to spouse, civil union partner, or de facto 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FC 3  Property transferred to spouse, civil union partner, or de facto partner
 
 **When this section applies**

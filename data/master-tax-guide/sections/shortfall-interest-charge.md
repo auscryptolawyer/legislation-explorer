@@ -5,7 +5,6 @@ section: "shortfall-interest-charge"
 title: "Shortfall interest charge"
 paragraph: "¶29-550"
 ---
-
 # Shortfall interest charge ¶29-550
 
 Where an assessment is amended to increase the amount of tax payable (¶25-300), the taxpayer is liable to pay a shortfall interest charge (SIC) on the amount of the increase (TAA sch 1 Div 280).

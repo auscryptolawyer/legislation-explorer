@@ -8,7 +8,6 @@ section_title: Treatment of remaining credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LA 5  Treatment of remaining credits
 
 **What this section applies to**

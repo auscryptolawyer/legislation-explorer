@@ -8,7 +8,6 @@ section_title: Ownership of goods subject to reservation of title
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EE 3  Ownership of goods subject to reservation of title
 
 **When this section applies**

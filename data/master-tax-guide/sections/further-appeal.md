@@ -5,7 +5,6 @@ section: "further-appeal"
 title: "Further appeal"
 paragraph: "¶28-120"
 ---
-
 # Further appeal ¶28-120
 
 Appeal to the Federal Court The Commissioner or the taxpayer may appeal to the Federal Court from a decision of the ART on a question of law (ART Act ss 172 and 174). For example, the ART’s ﬁndings on the evidence is a question of fact, not law. The appeal is restricted to a question of law (including a mixed question of fact and law: Great Western Railway Co v Bater (1922) 8 TC 231, Haritos 2015 ATC ¶20-513; [2015] FCAFC 92) and does not amount to a fresh hearing of the matter (Brixius 87 ATC 4963; [1987] FCA 612, Rawson Finances 2013 ATC ¶20-374; [2013] FCAFC 26).

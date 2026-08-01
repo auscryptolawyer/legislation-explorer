@@ -8,7 +8,6 @@ section_title: Recoveries after deduction of payments under lease
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CG 7  Recoveries after deduction of payments under lease
 
 **When this section applies**

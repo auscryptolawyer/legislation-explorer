@@ -5,7 +5,6 @@ section: "6-020-apportioning-deduction-for-decline-in-value-of-depreciating-asse
 title: "6-020 - Apportioning deduction for decline in value of depreciating assets"
 paragraph: "None"
 ---
-
 # 6-020 - Apportioning deduction for decline in value of depreciating assets
 
 Worked example: Apportioning deduction for decline in value of depreciating assets Issue Doug Johnson resigned from his employment as a bus driver and established a learner driver training school. On 1 July 2024, Doug purchased a Toyota Camry sedan for $37,000 incurring dealer delivery charges of $2,000 and registration and insurance costs amounting to $4,000. Doug had the vehicle modified by installing dual controls, at a cost of $2,500. During the year the vehicle was used for both private and driver learner training purposes. As at 30 June 2025, the log book registered 48,000 km as the total distance travelled of which 30,000 km were for learner driver training. Doug estimates the vehicle has an effective life of 240,000 km.

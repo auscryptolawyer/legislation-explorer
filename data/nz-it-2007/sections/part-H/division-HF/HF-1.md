@@ -8,7 +8,6 @@ section_title: Maori authorities and the Maori authority rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HF 1  Maori authorities and the Maori authority rules
 
 **Who is a Maori authority?**

@@ -5,7 +5,6 @@ section: "dividends-from-listed-investment-companies"
 title: "Dividends from listed investment companies"
 paragraph: "¶4-180"
 ---
-
 # Dividends from listed investment companies ¶4-180
 
 Eligible shareholders in listed investment companies (LICs) are entitled to an equivalent of a CGT discount on gains realised after 30 June 2001 by LICs on assets held for more than 12 months (¶11-038). Distribution statements provided by LICs must separately identify dividends sourced from such “LIC capital gains”.

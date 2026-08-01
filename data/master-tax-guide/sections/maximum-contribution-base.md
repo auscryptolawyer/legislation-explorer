@@ -5,7 +5,6 @@ section: "maximum-contribution-base"
 title: "Maximum contribution base"
 paragraph: "¶39-220"
 ---
-
 # Maximum contribution base ¶39-220
 
 The maximum contribution base for each quarter is $65,070 in 2024–25 (see ¶42-340 for the base amount in earlier years).

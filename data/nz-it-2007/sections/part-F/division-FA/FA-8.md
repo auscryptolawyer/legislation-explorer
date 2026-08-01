@@ -8,7 +8,6 @@ section_title: Deductibility of expenditure under finance lease
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 8  Deductibility of expenditure under finance lease
 
 **Lessee treated as owner**

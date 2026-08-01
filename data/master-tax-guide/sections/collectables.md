@@ -5,7 +5,6 @@ section: "collectables"
 title: "Collectables"
 paragraph: "¶11-390"
 ---
-
 # Collectables ¶11-390
 
 A collectable is an artwork, an item of jewellery, an antique, a coin, a medallion, a rare folio, a rare manuscript, a rare book, a postage stamp or a ﬁrst day cover that is used or kept mainly for personal use or enjoyment (s 108-10). Collectables also include an interest in any of the above items, a debt that arises from those items, or an option or right to acquire any of those items. An artwork held as a long-term investment in the expectation of capital appreciation is a collectable. However, collectables acquired for $500 or less are CGT exempt (¶11-640).

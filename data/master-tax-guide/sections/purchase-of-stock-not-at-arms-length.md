@@ -5,7 +5,6 @@ section: "purchase-of-stock-not-at-arms-length"
 title: "Purchase of stock not at arm’s length"
 paragraph: "¶9-210"
 ---
-
 # Purchase of stock not at arm’s length ¶9-210
 
 Normally, cost is calculated on the basis of actual purchase price. However, market value applies to both the buyer and the seller if a taxpayer buys trading stock for more than its market value and the taxpayer and the seller did not deal with each other at arm’s length (ITAA97 s 70-20). The same applies to any outgoing that is directly attributable to buying or obtaining delivery of trading stock.

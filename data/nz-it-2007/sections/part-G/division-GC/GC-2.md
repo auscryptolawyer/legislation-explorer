@@ -8,7 +8,6 @@ section_title: Disposals of timber rights or standing timber
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GC 2  Disposals of timber rights or standing timber
 
 **When section GC 1 applies**

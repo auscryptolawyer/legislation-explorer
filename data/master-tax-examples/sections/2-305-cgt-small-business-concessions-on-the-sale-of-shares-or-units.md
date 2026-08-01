@@ -5,7 +5,6 @@ section: "2-305-cgt-small-business-concessions-on-the-sale-of-shares-or-units"
 title: "2-305 - CGT small business concessions on the sale of shares or units"
 paragraph: "None"
 ---
-
 # 2-305 - CGT small business concessions on the sale of shares or units
 
 Worked example: CGT small business concessions on the sale of shares or units Issue Bumble Pty Ltd is a business that manufactures and sells toys for children. Its annual turnover in the 2024– 25 year was less than $2 million and it does not own any interests in other entities and nor does it have any affiliates.

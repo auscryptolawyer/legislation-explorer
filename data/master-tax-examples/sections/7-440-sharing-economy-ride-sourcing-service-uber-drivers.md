@@ -5,7 +5,6 @@ section: "7-440-sharing-economy-ride-sourcing-service-uber-drivers"
 title: "7-440 - Sharing economy ride-sourcing service Uber drivers"
 paragraph: "None"
 ---
-
 # 7-440 - Sharing economy ride-sourcing service Uber drivers
 
 Worked example: Sharing economy; ride-sourcing service; Uber drivers Issue Elon Leyland is currently employed as an engineer for Aerospaceco. To help grow his savings for a deposit on a property, he decides to become an Uber Partner. He registers with Uber and immediately starts earning income.

@@ -5,7 +5,6 @@ section: "tfn-withholding-rules"
 title: "TFN withholding rules"
 paragraph: "¶6-277"
 ---
-
 # TFN withholding rules ¶6-277
 
 The TFN withholding arrangements now extend to closely held trusts and certain other trusts.

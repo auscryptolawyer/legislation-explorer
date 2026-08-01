@@ -5,7 +5,6 @@ section: "foreign-termination-payments"
 title: "Foreign termination payments"
 paragraph: "¶14-740"
 ---
-
 # Foreign termination payments ¶14-740
 
 ITAA97 Subdiv 83-D provides for the tax treatment of termination payments arising out of foreign employment. These payments are not employment termination payments (¶14-610) and are not assessable income and not exempt income except for amounts worked out under the Subdivision.

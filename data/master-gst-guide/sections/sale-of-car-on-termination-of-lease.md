@@ -5,7 +5,6 @@ section: "sale-of-car-on-termination-of-lease"
 title: "Sale of car on termination of lease"
 paragraph: "¶12-145"
 ---
-
 # Sale of car on termination of lease ¶12-145
 
 The ATO considers that the sale of a vehicle by the lessor on the termination of the lease is a separate supply from the lease itself (GST Determination GSTD 2001/2).

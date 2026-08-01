@@ -5,7 +5,6 @@ section: "the-80-rule-and-additional-tests"
 title: "The 80% rule and additional tests"
 paragraph: "¶30-670"
 ---
-
 # The 80% rule and additional tests ¶30-670
 
 If the results test is not satisﬁed, it is necessary to consider the 80% rule (ITAA97 s 87-15). This rule operates in the following way:

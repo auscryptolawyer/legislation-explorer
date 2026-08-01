@@ -8,7 +8,6 @@ section_title: Government Superannuation Fund
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HR 4  Government Superannuation Fund
 
 The Government Superannuation Fund Authority is treated for income tax purposes as if the Government Superannuation Fund were a superannuation scheme that is a trust and the Authority the trustee of that scheme.

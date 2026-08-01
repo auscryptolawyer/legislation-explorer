@@ -5,7 +5,6 @@ section: "temporary-additional-deductions"
 title: "Temporary additional deductions"
 paragraph: "¶7-270"
 ---
-
 # Temporary additional deductions ¶7-270
 
 There are temporary additional 20% deductions available for certain expenditure by small and medium businesses. Note that the former Technology Investment Boost only applied to 30 June 2023.

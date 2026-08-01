@@ -5,7 +5,6 @@ section: "cgt-roll-over-for-assets-between-ﬁxed-trusts"
 title: "CGT roll-over for assets between ﬁxed trusts"
 paragraph: "¶12-552"
 ---
-
 # CGT roll-over for assets between ﬁxed trusts ¶12-552
 
 A limited CGT roll-over is available for assets transferred between ﬁxed trusts that have the same beneﬁciaries with the same entitlements and no material discretionary elements (Subdiv 126-G). The roll- over is available where all of the following are satisﬁed:

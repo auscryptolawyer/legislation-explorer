@@ -8,7 +8,6 @@ section_title: Meaning of normal retiring age
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 26E  Meaning of normal retiring age
 
 For the purposes of section CW 26C, normal retiring age means,—

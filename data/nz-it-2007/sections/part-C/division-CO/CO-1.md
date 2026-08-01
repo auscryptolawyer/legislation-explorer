@@ -8,7 +8,6 @@ section_title: Income from voluntary activities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CO 1  Income from voluntary activities
 
 **Income**

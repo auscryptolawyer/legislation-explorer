@@ -8,7 +8,6 @@ section_title: Association rebates
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HE 3  Association rebates
 
 **Meaning**

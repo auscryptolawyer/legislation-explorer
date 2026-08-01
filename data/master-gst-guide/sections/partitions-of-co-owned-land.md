@@ -5,7 +5,6 @@ section: "partitions-of-co-owned-land"
 title: "Partitions of co-owned land"
 paragraph: "¶11-064"
 ---
-
 # Partitions of co-owned land ¶11-064
 
 There is a partition of land where it is divided up and redistributed among the former co-owners. This may occur, for example, as a result of a dispute between the co-owners, or the conclusion of a business venture.

@@ -8,7 +8,6 @@ section_title: Limits on refunds: transitional dates
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RZ 6  Limits on refunds: transitional dates
 
 **ICA companies**

@@ -5,7 +5,6 @@ section: "the-general-anti-avoidance-provision"
 title: "The general anti-avoidance provision"
 paragraph: "¶20-000"
 ---
-
 # The general anti-avoidance provision ¶20-000
 
 The GST legislation adopts a general anti-avoidance provision — sometimes referred to as “GAP” or “GAAP” — rather than discrete, potentially complex, anti-avoidance measures addressing specific schemes. The Div 165 general anti-avoidance provision is similar to Pt IVA of the income tax legislation, allowing the

@@ -8,7 +8,6 @@ section_title: Paying RLWT
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RL 5  Paying RLWT
 
 **Paying RLWT**

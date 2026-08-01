@@ -8,7 +8,6 @@ section_title: Partnership interests and disposal of part of asset
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CT 4  Partnership interests and disposal of part of asset
 
 In this subpart, and in sections CX 42 (Disposal of ownership interests in controlled petroleum mining entities) and CX 43 (Farm-out arrangements for mining operations), unless the context requires otherwise,—

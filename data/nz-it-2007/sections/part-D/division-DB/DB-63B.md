@@ -8,7 +8,6 @@ section_title: Periodic company registration fees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 63B  Periodic company registration fees
 
 **Deduction**

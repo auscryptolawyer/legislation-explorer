@@ -5,7 +5,6 @@ section: "changes-in-planned-business-usage"
 title: "Changes in planned business usage"
 paragraph: "¶24-050"
 ---
-
 # Changes in planned business usage ¶24-050
 
 If you change your planned business use, that can mean that your GST liability may need to be adjusted (¶6-300). This in turn can affect your income tax position.

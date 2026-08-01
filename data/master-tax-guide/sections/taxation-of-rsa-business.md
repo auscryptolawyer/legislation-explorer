@@ -5,7 +5,6 @@ section: "taxation-of-rsa-business"
 title: "Taxation of RSA business"
 paragraph: "¶13-480"
 ---
-
 # Taxation of RSA business ¶13-480
 
 The taxation of the RSA business of a bank or other ﬁnancial institution (ﬁnancial institution) is governed by ITAA97 Div 295. The taxation of the RSA business of a life assurance company (life oﬃce) is governed by ITAA97 Div 320 (¶3-530).

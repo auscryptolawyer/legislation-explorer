@@ -5,7 +5,6 @@ section: "overview-of-uniform-capital-allowance-system"
 title: "Overview of uniform capital allowance system"
 paragraph: "¶17-000"
 ---
-
 # Overview of uniform capital allowance system ¶17-000
 
 Deductions for the decline in value of depreciating assets are available under the uniform capital allowance system (ITAA97 Div 40). It also contains rules that provide deductions for certain other capital expenditure including primary production assets (¶18-050) and for mining and quarrying operations (¶19-000).

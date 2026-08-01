@@ -5,7 +5,6 @@ section: "valuing-general-property-beneﬁts"
 title: "Valuing general property beneﬁts"
 paragraph: "¶35-530"
 ---
-
 # Valuing general property beneﬁts ¶35-530
 
 For property fringe beneﬁts to which the in-house concessions (¶35-520) do not apply, the taxable value of the beneﬁt is generally the arm’s length cost of the property to the employer, less the amount, if any, paid by the employee (s 43). Where this is not appropriate, the Commissioner will accept the lowest value obtained using these valuation methods (TD 93/231):

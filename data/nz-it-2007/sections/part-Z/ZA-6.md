@@ -8,7 +8,6 @@ section_title: Comparative tables of old and new provisions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ZA 6  Comparative tables of old and new provisions
 
 **Schedule 52**

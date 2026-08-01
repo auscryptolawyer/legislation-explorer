@@ -5,7 +5,6 @@ section: "family-maintenance-payments"
 title: "Family maintenance payments"
 paragraph: "¶10-855"
 ---
-
 # Family maintenance payments ¶10-855
 
 Periodic maintenance payments received by a taxpayer are exempt if the taxpayer is:

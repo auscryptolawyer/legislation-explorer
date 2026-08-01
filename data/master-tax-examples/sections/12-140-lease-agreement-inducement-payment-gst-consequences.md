@@ -5,7 +5,6 @@ section: "12-140-lease-agreement-inducement-payment-gst-consequences"
 title: "12-140 - Lease agreement inducement payment GST consequences"
 paragraph: "None"
 ---
-
 # 12-140 - Lease agreement inducement payment GST consequences
 
 GST consequences Worked example: Lease agreement; inducement payment; GST consequences Issue Tim West and Associates is a partnership of solicitors that is registered for GST and is planning to move to new rented office premises. In the current economic climate, there is a surplus supply of office space, so the firm was able to negotiate with the landlord to pay the partnership an inducement fee of $30,000 to enter the new lease agreement. The partnership will use these funds to refurnish the new premises.

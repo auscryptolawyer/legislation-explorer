@@ -5,7 +5,6 @@ section: "rewrite-of-stamp-duty-law"
 title: "Rewrite of stamp duty law"
 paragraph: "¶37-005"
 ---
-
 # Rewrite of stamp duty law ¶37-005
 
 Rewritten legislation was adopted in NSW, Victoria, Queensland, Tasmania, Western Australia and the ACT between 1999 and 2008 (¶37-000). These states are referred to in this chapter as the “Rewrite States”.

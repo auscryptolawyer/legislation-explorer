@@ -5,7 +5,6 @@ section: "payg-distributions-of-withholding-mit-income"
 title: "PAYG: distributions of withholding MIT income"
 paragraph: "¶26-267"
 ---
-
 # PAYG: distributions of withholding MIT income ¶26-267
 
 Withholding also applies to certain distributions (“fund payments”) from “withholding MITs” (Subdiv 12-H).

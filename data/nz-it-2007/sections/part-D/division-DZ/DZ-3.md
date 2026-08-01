@@ -8,7 +8,6 @@ section_title: Petroleum mining: development expenditure from 1 October 1990 to 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DZ 3  Petroleum mining: development expenditure from 1 October 1990 to 15 December 1991
 
 **Deduction**

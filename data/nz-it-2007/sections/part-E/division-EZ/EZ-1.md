@@ -8,7 +8,6 @@ section_title: Life insurers acquiring property before 1 April 1988
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 1  Life insurers acquiring property before 1 April 1988
 
 **When this section applies**

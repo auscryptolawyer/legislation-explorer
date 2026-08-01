@@ -5,7 +5,6 @@ section: "6-240-depreciating-assets-intangible-assets-plant"
 title: "6-240 - Depreciating assets intangible assets plant"
 paragraph: "None"
 ---
-
 # 6-240 - Depreciating assets intangible assets plant
 
 Worked example: Depreciating assets; intangible assets; plant Issue Advanced Technologies Pty Ltd (ATPL) is a company that creates intellectual property products, including sound recordings, cinematograph films, computer games and industrial and commercial computer programs.

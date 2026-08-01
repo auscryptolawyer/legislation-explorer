@@ -5,7 +5,6 @@ section: "what-was-the-dominant-purpose"
 title: "What was the dominant purpose?"
 paragraph: "¶30-170"
 ---
-
 # What was the dominant purpose? ¶30-170
 
 In order for the general anti-avoidance provisions to apply, it must be able to be concluded that at least one person who entered into or carried out the scheme did so for the sole or dominant purpose of obtaining a tax beneﬁt (ITAA36 ss 177A(5); 177D). In determining this, the Commissioner must take into account the following 8 matters listed in s 177D(2): (a) the manner in which the scheme was entered into or carried out (b) the form and substance of the scheme (c) the time at which the scheme was entered into and the length of the period during which it was carried out (d) the income tax result that, but for Pt IVA, would be achieved by the scheme (e) any change in the ﬁnancial position of the relevant taxpayer that has resulted, will result, or may reasonably be expected to result, from the scheme (f) any change in the ﬁnancial position of any person who has, or has had, any connection (whether of a business, family or other nature) with the relevant taxpayer, being a change that has resulted, will result, or may reasonably be expected to result, from the scheme (g) any other consequence for the relevant taxpayer, or for any person referred to in (f), of the scheme having been entered into or carried out (h) the nature of any connection (whether of a business, family or other nature) between the relevant taxpayer and any person referred to in (f).

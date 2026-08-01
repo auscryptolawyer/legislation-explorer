@@ -8,7 +8,6 @@ section_title: Quarterly test of fair dividend rate hedge portions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EM 7  Quarterly test of fair dividend rate hedge portions
 
 **Quarterly FDR hedging ratio**

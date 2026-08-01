@@ -5,7 +5,6 @@ section: "basic-formula-for-calculating-fuel-tax-credit"
 title: "Basic formula for calculating fuel tax credit"
 paragraph: "¶40-400"
 ---
-
 # Basic formula for calculating fuel tax credit ¶40-400
 
 The fuel tax credit is calculated as: Number of eligible litres of fuel × Applicable rate However, as diﬀerent credit rates apply to diﬀerent types of business activity, it will often be necessary to identify how many litres of fuel have been used in each of those activities. The claim will be the total of these separate calculations.

@@ -5,7 +5,6 @@ section: "gst-free-childcare-services"
 title: "GST-free childcare services"
 paragraph: "¶14-100"
 ---
-
 # GST-free childcare services ¶14-100
 
 - it is supplied by a childcare service approved under Commonwealth family assistance law (s 38-145).

@@ -5,7 +5,6 @@ section: "the-rd-tax-incentive"
 title: "The R&D tax incentive"
 paragraph: "¶20-160"
 ---
-
 # The R&D tax incentive ¶20-160
 
 The R&D tax incentive is a broadly based, activity-driven program that allows businesses to access tax oﬀsets for expenditure on eligible activities. However, these R&D activities must be registered with Industry, Innovation and Science Australia (the Board) under Pt III of the Industry Research and Development Act 1986 (IR&D Act). The Board has delegated its oversight functions and powers to the R&D Incentives Committee (the Committee). The Board and the Committee are assisted by the Department of Industry, Science and Resources (DISR).

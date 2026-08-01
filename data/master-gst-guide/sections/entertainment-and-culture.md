@@ -5,7 +5,6 @@ section: "entertainment-and-culture"
 title: "Entertainment and culture"
 paragraph: "¶25-120"
 ---
-
 # Entertainment and culture ¶25-120
 
 - A grant is treated like a gift, and is GST-free, unless it is made in return for services (¶4-040).

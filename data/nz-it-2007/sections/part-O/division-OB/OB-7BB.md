@@ -8,7 +8,6 @@ section_title: ICA payment of multinational top-up tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 7BB  ICA payment of multinational top-up tax
 
 **Credit**

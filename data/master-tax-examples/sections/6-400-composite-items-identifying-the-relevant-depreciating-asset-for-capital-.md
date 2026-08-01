@@ -5,7 +5,6 @@ section: "6-400-composite-items-identifying-the-relevant-depreciating-asset-for-
 title: "6-400 - Composite items identifying the relevant depreciating asset for capital allowances purposes"
 paragraph: "None"
 ---
-
 # 6-400 - Composite items identifying the relevant depreciating asset for capital allowances purposes
 
 purposes

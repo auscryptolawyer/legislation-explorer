@@ -5,7 +5,6 @@ section: "proper-taxpayer"
 title: "Proper taxpayer"
 paragraph: "¶1-280"
 ---
-
 # Proper taxpayer ¶1-280
 
 It is a basic premise that tax can only be levied on the proper taxpayer. ITAA36 and ITAA97 require the taxpayer to pay tax (at the appropriate rates) on taxable income (ITAA97 s 4-10). Taxable income is determined by reference to assessable income (¶1-240), which must be derived by the taxpayer. Generally, an entity derives income if that entity receives it, or is entitled to receive it, or it is dealt with on behalf of or as directed by that entity. Only the entity who actually derives income should be taxed on that income. While the Commissioner may issue alternative assessments in respect of the same income, the ATO cannot seek to recover income tax twice over in respect of that same income (Richardson (1932) 2 ATD 19; (1932) 48 CLR 192, Hyder 2023 ATC ¶20-854; [2023] FCAFC 29).

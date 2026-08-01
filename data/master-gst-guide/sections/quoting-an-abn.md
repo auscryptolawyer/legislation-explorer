@@ -5,7 +5,6 @@ section: "quoting-an-abn"
 title: "Quoting an ABN"
 paragraph: "¶23-250"
 ---
-
 # Quoting an ABN ¶23-250
 
 Luxury car tax (LCT) does not apply to a supply or importation where the recipient “quotes” its ABN in the approved format (LCT Act ss 5-10, 7-10; ¶23-050). This prevents LCT becoming payable until the retail sale or import of the car.

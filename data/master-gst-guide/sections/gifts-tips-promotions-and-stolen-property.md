@@ -5,7 +5,6 @@ section: "gifts-tips-promotions-and-stolen-property"
 title: "Gifts, tips, promotions and stolen property"
 paragraph: "¶4-030"
 ---
-
 # Gifts, tips, promotions and stolen property ¶4-030
 
 Most gifts do not attract GST as no consideration is involved and, in any event, they will usually be made in non-business situations.

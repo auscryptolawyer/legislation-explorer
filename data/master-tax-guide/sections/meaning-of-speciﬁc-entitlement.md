@@ -5,7 +5,6 @@ section: "meaning-of-speciﬁc-entitlement"
 title: "Meaning of speciﬁc entitlement"
 paragraph: "¶6-107"
 ---
-
 # Meaning of speciﬁc entitlement ¶6-107
 
 The way that capital gains that are reﬂected in the net capital gain of a trust and franked distributions received by a trust are streamed is by the trustee making a beneﬁciary or beneﬁciaries speciﬁcally entitled to an amount of the capital gain or franked distribution. The trustee must have the necessary power to do this under the trust instrument.

@@ -5,7 +5,6 @@ section: "procedure-for-formation"
 title: "Procedure for formation"
 paragraph: "¶17-212"
 ---
-
 # Procedure for formation ¶17-212
 
 Entities are able to “self-assess” their eligibility to form a GST joint venture, and to implement this at any time during a tax period. This normally does not need to obtain the Commissioner’s approval, as was required under the former rules (see below). The effect is that two or more entities can form a joint venture if:

@@ -5,7 +5,6 @@ section: "other-receipts-disregarded-for-cgt-purposes"
 title: "Other receipts disregarded for CGT purposes"
 paragraph: "¶11-660"
 ---
-
 # Other receipts disregarded for CGT purposes ¶11-660
 
 Any gains or losses arising from receipt of the following are disregarded for CGT purposes (s 118-37):

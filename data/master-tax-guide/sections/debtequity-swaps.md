@@ -5,7 +5,6 @@ section: "debtequity-swaps"
 title: "Debt/equity swaps"
 paragraph: "¶16-586"
 ---
-
 # Debt/equity swaps ¶16-586
 
 A deduction is allowable for losses incurred where a debt is extinguished as part of a debt/equity swap (ITAA36 s 63E). Debt/equity swap deductions are subject to the rules in ITAA36 s 63D (¶16-580).

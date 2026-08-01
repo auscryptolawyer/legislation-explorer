@@ -5,7 +5,6 @@ section: "converting-excess-franking-oﬀsets-to-tax-loss"
 title: "Converting excess franking oﬀsets to tax loss"
 paragraph: "¶3-075"
 ---
-
 # Converting excess franking oﬀsets to tax loss ¶3-075
 
 A corporate tax entity’s “excess franking oﬀsets” are treated as a tax loss for the income year (ITAA97 s 36-55). As franking tax oﬀsets are generally not refundable to corporate tax entities, these excess franking oﬀsets could otherwise be lost.

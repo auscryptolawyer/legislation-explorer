@@ -8,7 +8,6 @@ section_title: Lump sum payments on retirement
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DC 1  Lump sum payments on retirement
 
 **Deduction**

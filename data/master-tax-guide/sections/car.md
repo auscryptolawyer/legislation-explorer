@@ -5,7 +5,6 @@ section: "car"
 title: "car)"
 paragraph: "¶10-420"
 ---
-
 # car) ¶10-420
 
 The following example illustrates how the amount assessable under ITAA97 Subdiv 20-B on sale is calculated.

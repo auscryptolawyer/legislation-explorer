@@ -8,7 +8,6 @@ section_title: Some general rules for treatment of consolidated groups
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FM 6  Some general rules for treatment of consolidated groups
 
 **References to income, tax losses, tax payable, and credits**

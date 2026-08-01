@@ -8,7 +8,6 @@ section_title: Classes of mineral mining expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DU 8  Classes of mineral mining expenditure
 
 **Classes**

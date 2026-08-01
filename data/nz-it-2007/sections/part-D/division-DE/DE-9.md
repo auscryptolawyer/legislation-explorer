@@ -8,7 +8,6 @@ section_title: Inadequate logbook
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DE 9  Inadequate logbook
 
 **Non-representative logbook proportion**

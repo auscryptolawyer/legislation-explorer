@@ -5,7 +5,6 @@ section: "does-pt-iva-apply"
 title: "Does Pt IVA apply?"
 paragraph: "¶30-130"
 ---
-
 # Does Pt IVA apply? ¶30-130
 
 Section 177D determines when Pt IVA applies to a scheme. Separate rules apply to some other speciﬁc schemes or beneﬁts (eg franking credit schemes: ¶30-195). The conditions for the application of s 177D are as follows:

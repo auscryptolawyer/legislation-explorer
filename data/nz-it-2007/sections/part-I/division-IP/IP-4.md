@@ -8,7 +8,6 @@ section_title: Breach in income year in which tax loss component arises
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IP 4  Breach in income year in which tax loss component arises
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "re-importation-of-breeding-livestock"
 title: "Re-importation of breeding livestock"
 paragraph: "¶9-055"
 ---
-
 # Re-importation of breeding livestock ¶9-055
 
 Where a live animal is exported (eg for breeding) and then re-imported, the importation is only subject to GST on the increase in value of the animal (s 117-10). In prescribed circumstances GST may be refunded if the value of the animal drops after re-importation (s 117-15).

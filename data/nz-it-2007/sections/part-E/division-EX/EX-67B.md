@@ -8,7 +8,6 @@ section_title: Revaluation of inherited interests in grey list companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 67B  Revaluation of inherited interests in grey list companies
 
 **When this section applies**

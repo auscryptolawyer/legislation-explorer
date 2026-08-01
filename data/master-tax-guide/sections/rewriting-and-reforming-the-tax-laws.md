@@ -5,7 +5,6 @@ section: "rewriting-and-reforming-the-tax-laws"
 title: "Rewriting and reforming the tax laws"
 paragraph: "¶1-700"
 ---
-
 # Rewriting and reforming the tax laws ¶1-700
 
 For many years the income tax law was widely criticised for being too diﬃcult to read and understand. The complexity of the law also increased the costs of taxpayer compliance and government administration.

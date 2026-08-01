@@ -8,7 +8,6 @@ section_title: Accounting for expenditure on listed horticultural plants under s
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DO 7  Accounting for expenditure on listed horticultural plants under sections DO 5 and DO 6
 
 **Separate accounting for additional listed horticultural plants if deduction under section DO 6**

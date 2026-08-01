@@ -8,7 +8,6 @@ section_title: Meaning of listed industrial mineral
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CU 8  Meaning of listed industrial mineral
 
 **Meaning**

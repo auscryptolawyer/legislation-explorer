@@ -5,7 +5,6 @@ section: "stock-disposed-of-outside-ordinary-course-of-business"
 title: "Stock disposed of outside ordinary course of business"
 paragraph: "¶9-290"
 ---
-
 # Stock disposed of outside ordinary course of business ¶9-290
 
 When trading stock is sold in the ordinary course of trading, gross sales less the cost of goods sold are brought to account in accordance with the tax accounting rules applicable to trading stock (¶9-160).

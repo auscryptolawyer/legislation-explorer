@@ -5,7 +5,6 @@ section: "revenue-sharing"
 title: "Revenue sharing"
 paragraph: "¶1-110"
 ---
-
 # Revenue sharing ¶1-110
 
 A necessary part of the 1942 uniform tax system (¶1-010) was the sharing of revenue by the Commonwealth with the states and territories. In the post-war period, a complex revenue sharing system developed to deal with what is known as “vertical ﬁscal imbalance”, ie the signiﬁcant diﬀerence between the relative revenue and expenditure responsibilities of the Commonwealth and the states. Commonwealth funding assistance to the states takes 2 primary forms: speciﬁc purpose payments (sometimes referred to as “tied grants”) and general revenue assistance.

@@ -5,7 +5,6 @@ section: "types-of-rulings"
 title: "Types of rulings"
 paragraph: "¶24-520"
 ---
-
 # Types of rulings ¶24-520
 
 The Commissioner may make public rulings (¶24-540), private rulings (¶24-560) and oral rulings (¶24-580) under the TAA. These rulings are legally binding on the Commissioner where they apply to a taxpayer and the taxpayer relies on the ruling by acting (or omitting to act) in accordance with the ruling (TAA sch 1 s 357-60). A ruling applies to a taxpayer if the taxpayer is a member of a class to whom the ruling applies (in the case of a public ruling), or it is given in response to an application (in the case of a private or oral ruling) and the facts, assumptions or conditions set out in the ruling are met.

@@ -8,7 +8,6 @@ section_title: ASCA redemption of unused investments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OZ 6  ASCA redemption of unused investments
 
 **When this section applies**

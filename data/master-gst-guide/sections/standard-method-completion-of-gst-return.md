@@ -5,7 +5,6 @@ section: "standard-method-completion-of-gst-return"
 title: "Standard method: completion of GST return"
 paragraph: "¶8-010"
 ---
-
 # Standard method: completion of GST return ¶8-010
 
 Under the standard method (¶8-002), the GST return is incorporated in a two-page form called the Business Activity Statement, or BAS. The BAS is also used as a return for income tax withholding and instalments, deferred company tax instalments, FBT instalments, luxury car tax (¶23-000) and wine equalisation tax (¶22-000).

@@ -5,7 +5,6 @@ section: "7-100-primary-producers-non-commercial-losses"
 title: "7-100 - Primary producers non-commercial losses"
 paragraph: "None"
 ---
-
 # 7-100 - Primary producers non-commercial losses
 
 Worked example: Primary producers; non-commercial losses Issue In April 2023, Jay Mitchell, an accountant from Melbourne, purchased a farm for $320,000. Apart from the farmhouse, he has no other farm assets. Jay uses the farmland to agist some horses for the local pony club. In the 2024–25 income year, he earns $10,000 in agistment fees. Jay is also considering running the property as a children’s farm on weekends. Jay has a large mortgage over the farm with interest payments in excess of the agistment fees earned.

@@ -5,7 +5,6 @@ section: "parliamentary-election-expenses"
 title: "Parliamentary election expenses"
 paragraph: "¶16-500"
 ---
-
 # Parliamentary election expenses ¶16-500
 
 Expenses incurred by a taxpayer in contesting elections for membership of the federal or a state parliament or the ACT or Northern Territory Legislative Assembly are deductible under ITAA97 s 25-60 irrespective of the candidate’s success or failure. Recoupments of such expenses may be included in assessable income (¶10-270).

@@ -5,7 +5,6 @@ section: "regulation-of-superannuation-entities"
 title: "Regulation of superannuation entities"
 paragraph: "¶13-900"
 ---
-
 # Regulation of superannuation entities ¶13-900
 
 The SIS legislation, together with the Financial Sector (Collection of Data) Act 2001, the Financial Accountability Regime Act 2023, the Corporations Act 2001 and TAA, constitute the principal legislation governing the prudential supervision of superannuation funds, ADFs and PSTs. Compliance with the SISA and other regulatory Acts, insofar as is applicable, is mandatory for an entity to qualify as a complying superannuation fund, complying ADF or PST for tax purposes (¶13-100, ¶13-410, ¶13-440), or to be a registrable superannuation entity licensee under the SISA.

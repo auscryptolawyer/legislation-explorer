@@ -8,7 +8,6 @@ section_title: When resident passive income paid to trustees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 7  When resident passive income paid to trustees
 
 **Who this section applies to**

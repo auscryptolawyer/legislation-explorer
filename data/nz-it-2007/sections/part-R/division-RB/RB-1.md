@@ -8,7 +8,6 @@ section_title: Payment of terminal tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RB 1  Payment of terminal tax
 
 A person must pay their terminal tax for a tax year on the due date set out in section RA 13 (Payment dates for terminal tax).

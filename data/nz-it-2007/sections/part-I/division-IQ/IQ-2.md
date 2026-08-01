@@ -8,7 +8,6 @@ section_title: Ring-fencing cap on attributed CFC net losses
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 2  Ring-fencing cap on attributed CFC net losses
 
 **When this section applies**

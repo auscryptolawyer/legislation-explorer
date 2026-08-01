@@ -8,7 +8,6 @@ section_title: Base price adjustment: financial arrangements to which Determinat
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 52D  Base price adjustment: financial arrangements to which Determination G22 and Determination G22A applied
 
 **How and when this section applies**

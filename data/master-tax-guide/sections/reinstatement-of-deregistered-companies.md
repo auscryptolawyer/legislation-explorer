@@ -5,7 +5,6 @@ section: "reinstatement-of-deregistered-companies"
 title: "Reinstatement of deregistered companies"
 paragraph: "¶25-570"
 ---
-
 # Reinstatement of deregistered companies ¶25-570
 
 The Commissioner may apply for a company that has been deregistered (whether by the company voluntarily, ASIC’s initiative or court order) to be reinstated (Corporations Act 2001, s 601AH). On application, the court may make an order that ASIC reinstate the registration of the company if the court is satisﬁed that it is just that the company’s registration be reinstated.

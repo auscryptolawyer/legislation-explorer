@@ -5,7 +5,6 @@ section: "8-040-calculation-of-net-partnership-income-capital-gain"
 title: "8-040 - Calculation of net partnership income capital gain"
 paragraph: "None"
 ---
-
 # 8-040 - Calculation of net partnership income capital gain
 
 Worked example: Calculation of net partnership income; capital gain Issue Jack Haufmann and Dustin Nikolai are equal partners in a partnership. Both have contributed equal amounts of capital. Jack is a silent partner while Dustin spends most of the time working in the partnership business.

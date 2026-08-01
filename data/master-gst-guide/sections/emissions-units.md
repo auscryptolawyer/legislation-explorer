@@ -5,7 +5,6 @@ section: "emissions-units"
 title: "Emissions units"
 paragraph: "¶16-220"
 ---
-
 # Emissions units ¶16-220
 
 The supply of “eligible emissions units” is GST-free (s 38-590).

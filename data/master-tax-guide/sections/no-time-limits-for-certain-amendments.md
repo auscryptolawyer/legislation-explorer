@@ -5,7 +5,6 @@ section: "no-time-limits-for-certain-amendments"
 title: "No time limits for certain amendments"
 paragraph: "¶25-330"
 ---
-
 # No time limits for certain amendments ¶25-330
 
 If an under-assessment of tax was due to fraud or evasion, the Commissioner can amend the assessment at any time. There are also other speciﬁc provisions that give rise to unlimited review periods.

@@ -5,7 +5,6 @@ section: "fame"
 title: "fame"
 paragraph: "¶10-076"
 ---
-
 # fame ¶10-076
 
 Broadly, sportspersons who are carrying on a business or who earn income from services provided in relation to a sport are assessable on income connected with those activities (TR 1999/17). However, money and other beneﬁts received from the pursuit of a pastime or hobby are not assessable (¶10-050).

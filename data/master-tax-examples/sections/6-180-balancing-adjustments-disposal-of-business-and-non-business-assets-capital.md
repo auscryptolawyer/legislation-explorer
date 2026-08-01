@@ -5,7 +5,6 @@ section: "6-180-balancing-adjustments-disposal-of-business-and-non-business-asse
 title: "6-180 - Balancing adjustments disposal of business and non-business assets capital gains"
 paragraph: "None"
 ---
-
 # 6-180 - Balancing adjustments disposal of business and non-business assets capital gains
 
 Worked example: Balancing adjustments; disposal of business and non-business assets; capital gains Issue Larry Mellor is the managing director of Construction Machinery Pty Ltd. The company’s assets comprise machinery for excavations and constructions on building sites and have been owned (unless otherwise stated) since at least 12 March 2020. Over the course of 2024–25, the company disposed of 3 of its machines. The company self-estimates the effective life of each of the machines and chooses to calculate the decline in value using the diminishing value method. The company does not use simplified depreciation.

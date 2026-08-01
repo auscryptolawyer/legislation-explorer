@@ -8,7 +8,6 @@ section_title: General rate for NRWT
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 7  General rate for NRWT
 
 **When this section applies**

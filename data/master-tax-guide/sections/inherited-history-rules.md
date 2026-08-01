@@ -5,7 +5,6 @@ section: "inherited-history-rules"
 title: "Inherited history rules"
 paragraph: "¶8-020"
 ---
-
 # Inherited history rules ¶8-020
 
 The so-called “inherited history rules” govern the extent to which the past tax history of an entity is taken into account after it joins or leaves a consolidated group. These rules are necessary as subsidiary members lose their identities upon joining a consolidated group.

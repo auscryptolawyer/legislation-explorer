@@ -5,7 +5,6 @@ section: "variation-and-cancellation-of-abn-registration"
 title: "Variation and cancellation of ABN registration"
 paragraph: "¶33-120"
 ---
-
 # Variation and cancellation of ABN registration ¶33-120
 
 The Registrar may vary an entity’s ABN by making an appropriate change to the Australian Business Register (ABR) and notifying the entity in writing (ABNA s 17).

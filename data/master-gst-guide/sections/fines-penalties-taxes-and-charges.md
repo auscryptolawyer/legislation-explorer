@@ -5,7 +5,6 @@ section: "fines-penalties-taxes-and-charges"
 title: "Fines, penalties, taxes and charges"
 paragraph: "¶4-080"
 ---
-
 # Fines, penalties, taxes and charges ¶4-080
 
 Fines and penalties imposed for punishment or deterrence are normally not treated as consideration for any supply, and therefore do not attract GST (Case S65 (1996) 17 NZTC 7408). The ATO considers that this would apply, for example, to fines or penalties imposed by a club on a member for breach of its rules (GST Determination GSTD 2005/6). However, the position may differ where the penalty is imposed under a commercial contract (eg a late return fee for car hire), or the defaulter obtains extra rights in return for paying the penalty.

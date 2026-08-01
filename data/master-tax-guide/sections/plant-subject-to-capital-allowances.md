@@ -5,7 +5,6 @@ section: "plant-subject-to-capital-allowances"
 title: "Plant subject to capital allowances"
 paragraph: "¶17-040"
 ---
-
 # Plant subject to capital allowances ¶17-040
 
 The cost of “plant” (deﬁned in ITAA97 s 45-40) is excluded from expenditure deductible under the capital works provisions (¶20-510) and is therefore subject to the uniform capital allowance system (¶17-030). The concept of “plant” is also relevant to the landcare operations provisions (¶18-100), the lease assignment provisions (¶23-230) and the water conservation provisions (¶18-080).

@@ -8,7 +8,6 @@ section_title: Cost allocation: budgeted method or standard cost method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EB 8  Cost allocation: budgeted method or standard cost method
 
 **When this section applies**

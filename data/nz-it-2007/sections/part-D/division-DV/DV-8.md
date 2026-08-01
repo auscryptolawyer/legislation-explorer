@@ -8,7 +8,6 @@ section_title: Non-profit organisations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DV 8  Non-profit organisations
 
 **When this section applies**

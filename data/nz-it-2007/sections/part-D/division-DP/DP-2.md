@@ -8,7 +8,6 @@ section_title: Plant or machinery
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DP 2  Plant or machinery
 
 **When this section applies: first case**

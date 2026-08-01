@@ -8,7 +8,6 @@ section_title: Property transferred to charities or to close relatives and other
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FC 4  Property transferred to charities or to close relatives and others
 
 **When this section applies**

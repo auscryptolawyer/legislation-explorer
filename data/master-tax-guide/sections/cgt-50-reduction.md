@@ -5,7 +5,6 @@ section: "cgt-50-reduction"
 title: "CGT 50% reduction"
 paragraph: "¶7-175"
 ---
-
 # CGT 50% reduction ¶7-175
 
 A capital gain that arises from a CGT event happening to an active asset may be reduced by 50% (s 152-205). To qualify for the 50% reduction, the basic conditions for small business relief must be satisﬁed (¶7-120).

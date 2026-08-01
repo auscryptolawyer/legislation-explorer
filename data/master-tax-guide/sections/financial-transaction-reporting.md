@@ -5,7 +5,6 @@ section: "financial-transaction-reporting"
 title: "Financial transaction reporting"
 paragraph: "¶23-500"
 ---
-
 # Financial transaction reporting ¶23-500
 
 Businesses in the ﬁnancial services industry, gambling service providers, bullion dealers, accountants and lawyers (to the extent they provide ﬁnancial services) and others are required to report signiﬁcant cash transactions of $10,000 or more and suspect transactions to the Australian Transactions Reports and Analysis Centre (AUSTRAC). These reporting obligations are imposed to combat money laundering, terrorism ﬁnancing and tax evasion. The data collected is shared with the ATO and other government bodies.

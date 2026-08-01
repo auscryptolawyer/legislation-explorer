@@ -5,7 +5,6 @@ section: "1-080-illegal-activities"
 title: "1-080 - Illegal activities"
 paragraph: "None"
 ---
-
 # 1-080 - Illegal activities
 
 Worked example: Illegal activities Issue Natasha Romanov is the CFO of E Corp Pty Ltd (E Corp). During the 2022–23 income year she misappropriated $360,000 worth of company funds.

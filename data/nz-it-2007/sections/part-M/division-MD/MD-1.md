@@ -8,7 +8,6 @@ section_title: Abating WFF tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MD 1  Abating WFF tax credit
 
 **Tax credit**

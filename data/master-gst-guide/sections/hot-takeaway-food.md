@@ -5,7 +5,6 @@ section: "hot-takeaway-food"
 title: "Hot takeaway food"
 paragraph: "¶13-130"
 ---
-
 # Hot takeaway food ¶13-130
 
 GST applies to hot food supplied for consumption away from the premises where it was supplied (s 38-3).

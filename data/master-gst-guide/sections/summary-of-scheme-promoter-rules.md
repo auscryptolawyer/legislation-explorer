@@ -5,7 +5,6 @@ section: "summary-of-scheme-promoter-rules"
 title: "Summary of scheme promoter rules"
 paragraph: "¶20-100"
 ---
-
 # Summary of scheme promoter rules ¶20-100
 
 Special measures that are designed to deter the promotion of tax exploitation schemes apply equally to GST.

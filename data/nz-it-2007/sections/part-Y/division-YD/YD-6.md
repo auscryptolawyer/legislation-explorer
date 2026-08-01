@@ -8,7 +8,6 @@ section_title: Apportionment of income from sea transport
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 6  Apportionment of income from sea transport
 
 **When this section applies**

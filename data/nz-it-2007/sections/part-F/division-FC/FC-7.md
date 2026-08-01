@@ -8,7 +8,6 @@ section_title: Transfer of prepaid property
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FC 7  Transfer of prepaid property
 
 **What this section applies to**

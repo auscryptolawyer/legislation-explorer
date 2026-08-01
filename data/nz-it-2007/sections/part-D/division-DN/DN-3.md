@@ -8,7 +8,6 @@ section_title: Calculation of attributed CFC loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DN 3  Calculation of attributed CFC loss
 
 The amount of an attributed CFC loss is calculated under sections EX 18 to EX 20 (which relate to the calculation of attributed CFC income or loss).

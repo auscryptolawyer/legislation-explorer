@@ -8,7 +8,6 @@ section_title: Transactions between group companies: income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FM 8  Transactions between group companies: income
 
 **When this section applies**

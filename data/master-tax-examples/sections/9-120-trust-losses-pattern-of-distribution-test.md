@@ -5,7 +5,6 @@ section: "9-120-trust-losses-pattern-of-distribution-test"
 title: "9-120 - Trust losses pattern of distribution test"
 paragraph: "None"
 ---
-
 # 9-120 - Trust losses pattern of distribution test
 
 Worked example: Trust losses; pattern of distribution test Issue During the year ended 30 June 2020, the Davidson Family discretionary trust derived trust income of $290,000 and capital of $150,000. Brian Ross acting as trustee of the Davidson Trust distributed income to the Davidson family beneficiaries — Peter 30%, Geraldine 45% and Lenny 25% respectively. The capital beneficiaries to whom the capital gain is streamed comprised Phillip 40%, Colin 40% and Claire 20%.

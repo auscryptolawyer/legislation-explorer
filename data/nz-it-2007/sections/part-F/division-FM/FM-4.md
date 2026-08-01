@@ -8,7 +8,6 @@ section_title: Limiting joint and several liability of group companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FM 4  Limiting joint and several liability of group companies
 
 **When this section applies**

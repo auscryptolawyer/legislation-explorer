@@ -8,7 +8,6 @@ section_title: When attributed CFC net loss becomes FIF net loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 9  When attributed CFC net loss becomes FIF net loss
 
 **When this section applies**

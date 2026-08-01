@@ -5,7 +5,6 @@ section: "part-year-resident"
 title: "Part-year resident"
 paragraph: "¶21-030"
 ---
-
 # Part-year resident ¶21-030
 
 Where a person resides in Australia within the ordinary meaning of that expression for less than one-half of the year of income, that person would be treated as a resident of Australia only during the actual time he/ she is present in Australia. This means that the person would not be assessable to ordinary Australian tax on foreign source income derived during the period he/she was not actually in Australia.

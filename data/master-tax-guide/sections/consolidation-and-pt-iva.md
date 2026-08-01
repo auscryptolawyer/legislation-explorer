@@ -5,7 +5,6 @@ section: "consolidation-and-pt-iva"
 title: "Consolidation and Pt IVA"
 paragraph: "¶8-950"
 ---
-
 # Consolidation and Pt IVA ¶8-950
 
 A scheme involving consolidation may attract the application of ITAA36 Pt IVA, where there is a sole or dominant purpose of obtaining a tax beneﬁt (¶30-170). Virtually any decision to consolidate will generate tax beneﬁts (¶30-160) for both the head company (eg deductions that would otherwise have been allowed to a subsidiary) and for subsidiaries (eg diversion of assessable income from the subsidiary to the head company), but for the exclusions in ITAA36 s 177C(2). Section 177C(2) provides that a tax beneﬁt is not obtained by the mere making of a choice, election, selection, etc, provided for in the Act, unless the relevant scheme was carried out for the sole or dominant purpose of creating the circumstances necessary to enable the making of the choice, etc.

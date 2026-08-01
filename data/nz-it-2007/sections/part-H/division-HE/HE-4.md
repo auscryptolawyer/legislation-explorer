@@ -8,7 +8,6 @@ section_title: Apportionment when transactions with members and non-members
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HE 4  Apportionment when transactions with members and non-members
 
 **When this section applies**

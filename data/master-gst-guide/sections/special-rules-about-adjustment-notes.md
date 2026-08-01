@@ -5,7 +5,6 @@ section: "special-rules-about-adjustment-notes"
 title: "Special rules about adjustment notes"
 paragraph: "¶6-140"
 ---
-
 # Special rules about adjustment notes ¶6-140
 
 # Groups.

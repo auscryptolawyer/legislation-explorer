@@ -5,7 +5,6 @@ section: "effect-of-accounting-basis-on-cashflow"
 title: "Effect of accounting basis on cashflow"
 paragraph: "¶21-060"
 ---
-
 # Effect of accounting basis on cashflow ¶21-060
 
 Cashflow may be easier to monitor if, as in the example above, the business operates on a cash basis.

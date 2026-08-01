@@ -5,7 +5,6 @@ section: "other-factors-affecting-cashflow"
 title: "Other factors affecting cashflow"
 paragraph: "¶21-070"
 ---
-
 # Other factors affecting cashflow ¶21-070
 
 Cashflow may also be affected by a number of other factors.

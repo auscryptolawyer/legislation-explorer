@@ -8,7 +8,6 @@ section_title: Notional interest
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FG 3  Notional interest
 
 An amount recorded as an expense in relation to the notional loan in an income year is treated as interest that is non-resident passive income—

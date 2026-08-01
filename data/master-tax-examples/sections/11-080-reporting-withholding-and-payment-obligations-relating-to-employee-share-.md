@@ -5,7 +5,6 @@ section: "11-080-reporting-withholding-and-payment-obligations-relating-to-emplo
 title: "11-080 - Reporting withholding and payment obligations relating to employee share schemes"
 paragraph: "None"
 ---
-
 # 11-080 - Reporting withholding and payment obligations relating to employee share schemes
 
 employee share schemes Worked example: Reporting; withholding and payment obligations relating to employee share schemes Issue Trollope Pty Ltd manufactures machine parts and is considering setting up an employee share scheme (ESS) for its employees. Trollope proposes that, under the scheme, employees would be offered shares, or rights to shares, in the company at a price which is a discount to the market value.

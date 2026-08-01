@@ -5,7 +5,6 @@ section: "restriction-where-refund-would-give-rise-to-windfall"
 title: "Restriction where refund would give rise to windfall"
 paragraph: "¶8-115"
 ---
-
 # Restriction where refund would give rise to windfall ¶8-115
 
 In general, excess GST is not refunded if this would give the taxpayer a windfall gain (Div 142).

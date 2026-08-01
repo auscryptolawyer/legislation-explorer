@@ -5,7 +5,6 @@ section: "miscellaneous-special-consolidation-rules"
 title: "Miscellaneous special consolidation rules"
 paragraph: "¶8-580"
 ---
-
 # Miscellaneous special consolidation rules ¶8-580
 
 Miscellaneous special rules, including provisions for spreading assessable income, deductions and fully- deductible capital expenditure over more than one membership or non-membership period, are set out in ITAA97 Div 716.

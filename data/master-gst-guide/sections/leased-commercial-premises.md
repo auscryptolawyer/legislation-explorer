@@ -5,7 +5,6 @@ section: "leased-commercial-premises"
 title: "Leased commercial premises"
 paragraph: "¶11-330"
 ---
-
 # Leased commercial premises ¶11-330
 
 Leases of commercial premises such as shops and offices are subject to GST. However, the lessees would normally be able to claim input tax credits for the GST if they are in business. For the rules on allocating rent to tax periods and the issue of tax invoices, see ¶7-420.

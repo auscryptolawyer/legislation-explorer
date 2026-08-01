@@ -5,7 +5,6 @@ section: "6-380-second-hand-depreciating-assets-in-residential-premises"
 title: "6-380 - Second-hand depreciating assets in residential premises"
 paragraph: "None"
 ---
-
 # 6-380 - Second-hand depreciating assets in residential premises
 
 Worked example: Second-hand depreciating assets in residential premises Issue On 1 June 2024, Marilyn acquired a 5-year-old 2-bedroom house in Melbourne for $400,000. The house was rented out from 3 June 2024. Included in the house at the date of purchase were a number of assets, including carpets, window coverings and an air-conditioning unit. The cost allocated to those assets in the purchase price was $10,000.

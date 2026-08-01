@@ -8,7 +8,6 @@ section_title: Exploratory well expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DT 7  Exploratory well expenditure
 
 **When this section applies**

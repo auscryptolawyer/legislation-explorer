@@ -8,7 +8,6 @@ section_title: When sections YC 8 to YC 19B apply
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YC 7  When sections YC 8 to YC 19B apply
 
 Sections YC 8 to YC 19B apply to modify sections YC 2 to YC 6 when the continuity provisions are applied.

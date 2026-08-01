@@ -5,7 +5,6 @@ section: "with-respect-to-taxation"
 title: "“… with respect to … taxation”"
 paragraph: "¶1-040"
 ---
-
 # “… with respect to … taxation” ¶1-040
 
 For the valid exercise of power under s 51(ii) of the Constitution, the legislation in substance must be “with respect to … taxation”.

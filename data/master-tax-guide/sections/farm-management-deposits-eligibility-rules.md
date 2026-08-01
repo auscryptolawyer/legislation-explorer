@@ -5,7 +5,6 @@ section: "farm-management-deposits-eligibility-rules"
 title: "Farm management deposits eligibility rules"
 paragraph: "¶18-293"
 ---
-
 # Farm management deposits eligibility rules ¶18-293
 
 A deposit qualiﬁes as an FMD only if it complies with the conditions aﬀecting the agreement under which the relevant ﬁnancial institution accepts money from a depositor. The conditions (ITAA97 ss 393-20 to 393-35) include the following:

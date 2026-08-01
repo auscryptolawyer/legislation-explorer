@@ -5,7 +5,6 @@ section: "buying-and-selling-a-business"
 title: "Buying and selling a business"
 paragraph: "¶34-240"
 ---
-
 # Buying and selling a business ¶34-240
 
 The supply of a going concern — such as a continuing business — is GST-free in certain circumstances (s 38-325). For this to apply, the buyer must be registered or be required to be registered. The buyer and the seller must have agreed in writing that the sale is of a going concern (Midford 2005 ATC 2189; [2005] AATA 623, Case 12/2009 2009 ATC ¶1-016; [2009] AATA 805, SDI Group 2012 ATC ¶10-282; [2012] AATA 763, Brookdale Investments 2013 ATC ¶10-301; [2013] AATA 154), and the seller must be obliged to carry on the business until the date of sale. The seller must also supply the buyer with all the things necessary for the business’ continued operation. In Debonne Holdings 2006 ATC 2467; [2006] AATA 886, it was held that the going concern provisions applied to the sale of a hotel business, notwithstanding that there were separate contracts for the sale of the land and the sale of the business. However, the sale of a development site by a developer was not a supply of a going concern because the developer was not carrying on an enterprise in relation to the development of the site at the date of the contract (Aurora Developments 2011 ATC ¶20-250; [2011] FCA 232).

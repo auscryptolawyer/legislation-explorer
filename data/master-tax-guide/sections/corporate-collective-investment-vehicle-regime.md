@@ -5,7 +5,6 @@ section: "corporate-collective-investment-vehicle-regime"
 title: "Corporate collective investment vehicle regime"
 paragraph: "¶6-410"
 ---
-
 # Corporate collective investment vehicle regime ¶6-410
 
 Amendments made by the Corporate Collective Investment Vehicle Framework and Other Measures Act 2021, which became law on 22 February 2022, have implemented the proposed tax and regulatory framework for the corporate collective investment vehicle (CCIV) regime, with a new commencement date of 1 July 2022. These amendments gave eﬀect to an announcement made by the then government as part of its Ten Year Enterprise Tax Plan that was announced in the 2016–17 Budget.

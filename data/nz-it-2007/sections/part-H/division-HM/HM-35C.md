@@ -8,7 +8,6 @@ section_title: Determining amounts for notified foreign investors
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 35C  Determining amounts for notified foreign investors
 
 **When this section applies**

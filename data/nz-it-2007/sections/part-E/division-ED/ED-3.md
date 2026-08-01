@@ -8,7 +8,6 @@ section_title: Part-year tax calculations for transfers: general insurance OCR
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ED 3  Part-year tax calculations for transfers: general insurance OCR
 
 **When this section applies**

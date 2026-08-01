@@ -5,7 +5,6 @@ section: "consequences-of-formation-of-joint-venture"
 title: "Consequences of formation of joint venture"
 paragraph: "¶17-220"
 ---
-
 # Consequences of formation of joint venture ¶17-220
 
 - if the joint venture operator makes a supply or acquisition on behalf of a participant in connection with

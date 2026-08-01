@@ -5,7 +5,6 @@ section: "primary-production-abnormal-receipts"
 title: "Primary production abnormal receipts"
 paragraph: "¶18-135"
 ---
-
 # Primary production abnormal receipts ¶18-135
 
 Special provisions apply to abnormal receipts relating to double wool clips (¶18-140), insurance recoveries for live stock and timber (¶18-150), and the forced disposal or death of live stock (¶18-160). Various elections apply in relation to the abnormal receipt provisions (see below).

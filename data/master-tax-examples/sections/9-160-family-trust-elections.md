@@ -5,7 +5,6 @@ section: "9-160-family-trust-elections"
 title: "9-160 - Family trust elections"
 paragraph: "None"
 ---
-
 # 9-160 - Family trust elections
 
 Worked example: Family trust elections Issue Andrew Wilson and Leah Barnes are a divorced couple who are discretionary beneficiaries under the “Wilson Family Trust” and also own one share each in Pasco Pty Ltd. In March 2025, the trustee of the Wilson Family Trust made a family trust election in the approved form specifying Andrew Wilson as the test individual whose family group is to be taken into account in relation to the election.

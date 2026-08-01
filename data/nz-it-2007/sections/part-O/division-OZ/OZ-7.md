@@ -8,7 +8,6 @@ section_title: Memorandum accounts in transitional period
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OZ 7  Memorandum accounts in transitional period
 
 Unless the context otherwise requires, sections OZ 8 to OZ 15 apply for a period (the transitional period)—

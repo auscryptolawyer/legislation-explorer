@@ -5,7 +5,6 @@ section: "expenses-on-cessation-of-business"
 title: "Expenses on cessation of business"
 paragraph: "¶16-155"
 ---
-
 # Expenses on cessation of business ¶16-155
 
 Payments incurred in closing down a business, as distinct from carrying it on, would not normally be deductible under the ordinary deduction provisions. For this reason, retirement payments made as compensation on the closing down of a business would not be allowed under ITAA97 s 8-1, although they may qualify for deduction under the retiring allowances provisions (¶16-540). Payments to creditors by liquidators following lodgment of proofs of debt were deductible where they were made when the company was still solvent, the unsecured creditors were paid 100 cents in the dollar and some staﬀ and assets were retained (EA Marr & Sons (Sales) 84 ATC 4580; [1984] FCA 213).

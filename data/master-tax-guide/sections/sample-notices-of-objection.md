@@ -5,7 +5,6 @@ section: "sample-notices-of-objection"
 title: "Sample notices of objection"
 paragraph: "¶28-050"
 ---
-
 # Sample notices of objection ¶28-050
 
 The sample objections that follow are intended as a guide only. It is generally desirable to have an objection drawn up by a tax agent, accountant or tax lawyer unless only a small amount is involved. The objection should be signed by the taxpayer personally or, in the case of a company, by its public oﬃcer. Here are some practical points to keep in mind when preparing an objection.

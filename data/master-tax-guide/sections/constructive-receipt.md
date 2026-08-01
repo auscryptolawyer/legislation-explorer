@@ -5,7 +5,6 @@ section: "constructive-receipt"
 title: "Constructive receipt"
 paragraph: "¶9-080"
 ---
-
 # Constructive receipt ¶9-080
 
 Income that normally needs to have been received before it can be said to be derived may sometimes be deemed to have been received (ITAA97 ss 6-5(4), 6-10(3)).

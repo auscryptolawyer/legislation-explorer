@@ -5,7 +5,6 @@ section: "distribution-dividend-washing"
 title: "Distribution (dividend) washing"
 paragraph: "¶4-975"
 ---
-
 # Distribution (dividend) washing ¶4-975
 
 Speciﬁc provisions target distribution (or dividend) washing arrangements (ITAA97 s 207-157).

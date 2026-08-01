@@ -5,7 +5,6 @@ section: "court-orders-and-out-of-court-settlements"
 title: "Court orders and out-of-court settlements"
 paragraph: "¶4-085"
 ---
-
 # Court orders and out-of-court settlements ¶4-085
 
 An out-of-court settlement or court-ordered compensation may be treated as consideration for a supply (s 9-15(2A)). In accordance with the normal rules, that supply may therefore be taxable if:

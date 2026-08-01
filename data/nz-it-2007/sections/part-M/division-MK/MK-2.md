@@ -8,7 +8,6 @@ section_title: Eligibility requirements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MK 2  Eligibility requirements
 
 **Requirements for person**

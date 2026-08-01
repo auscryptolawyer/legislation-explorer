@@ -8,7 +8,6 @@ section_title: Imposition of income tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BB 1  Imposition of income tax
 
 Income tax is imposed on taxable income, at the rate or rates of tax fixed by an annual taxing Act, and is payable to the Crown under this Act and the Tax Administration Act 1994.

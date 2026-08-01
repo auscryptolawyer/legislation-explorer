@@ -5,7 +5,6 @@ section: "8-220-work-in-progress-trading-stock"
 title: "8-220 - Work in progress trading stock"
 paragraph: "None"
 ---
-
 # 8-220 - Work in progress trading stock
 
 Worked example: Work in progress; trading stock Issue Mitch and Carol Groves are in partnership and wish to admit their 4 adult children into the partnership as equal partners. Immediately before the children are admitted on 1 July 2025, the Groves partnership holds the following assets: Cost                 Market value $                      $ Depreciating assets                                                                      100,000                  50,000 Tax adjustable value $40,000 Work in progress (WIP)                                                                    20,000                  20,000 Trading stock                                                                             20,000                  100,000 In the 2024–25 income year, Mitch and Carol elected to value their trading stock at a replacement cost of $50,000. A $10,000 payment was also made to the old partnership for the WIP.

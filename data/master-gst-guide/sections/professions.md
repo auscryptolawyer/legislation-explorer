@@ -5,7 +5,6 @@ section: "professions"
 title: "Professions"
 paragraph: "¶25-150"
 ---
-
 # Professions ¶25-150
 
 See also the Legal services checklist at ¶17-425.

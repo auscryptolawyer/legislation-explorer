@@ -8,7 +8,6 @@ section_title: Withholding and payment obligations for assessable withdrawal amo
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RA 6BB  Withholding and payment obligations for assessable withdrawal amounts
 
 A transfer scheme must withhold and pay TSWT to the Commissioner under subpart RI (Transfer scheme withholding tax) by the due date.

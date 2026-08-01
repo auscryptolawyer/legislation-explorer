@@ -8,7 +8,6 @@ section_title: Disposal upon final dissolution
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HG 4  Disposal upon final dissolution
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "debt-defeasance-arrangements"
 title: "Debt defeasance arrangements"
 paragraph: "¶23-325"
 ---
-
 # Debt defeasance arrangements ¶23-325
 
 The following commentary is relevant to the taxation of gains and losses on debt defeasance arrangements where the TOFA regime in Div 230 (¶23-020) does not apply. A debt defeasance arrangement arises when a borrower, liable to repay a loan at some future date, pays a third party an amount approximating the present value of the loan in consideration of the third party assuming the liability to pay the amount owed by the borrower when it becomes due. The assessability of the proﬁt or gain arising from such an arrangement has been considered by the High Court in the Orica case 98 ATC 4494; [1998] AATA 547 and by the Full Federal Court in the Unilever case 95 ATC 4117; [1995] FCA 1086 with contrasting results.

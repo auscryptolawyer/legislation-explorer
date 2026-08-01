@@ -5,7 +5,6 @@ section: "12-175-withholding-obligations-for-new-residential-properties"
 title: "12-175 - Withholding obligations for new residential properties"
 paragraph: "None"
 ---
-
 # 12-175 - Withholding obligations for new residential properties
 
 properties Worked example: Withholding obligations for new residential properties Issue On 15 December 2024, Alan enters into a contract to purchase a new apartment from Well-Built Homes for $860,000. Settlement occurs on 28 May 2025.

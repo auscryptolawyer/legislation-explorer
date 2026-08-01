@@ -8,7 +8,6 @@ section_title: Main home exclusion for disposal within 2 years
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 16A  Main home exclusion for disposal within 2 years
 
 **Main home exclusion**

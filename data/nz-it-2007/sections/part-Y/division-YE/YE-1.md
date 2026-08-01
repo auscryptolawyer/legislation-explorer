@@ -8,7 +8,6 @@ section_title: References to balance dates and years
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YE 1  References to balance dates and years
 
 **When this section applies**

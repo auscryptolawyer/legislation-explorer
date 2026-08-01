@@ -5,7 +5,6 @@ section: "partners-salaries"
 title: "Partners’ salaries"
 paragraph: "¶5-090"
 ---
-
 # Partners’ salaries ¶5-090
 
 A partnership is not a separate and distinct legal entity for income tax purposes and a partner cannot be an employee of a partnership (Ellis v Joseph Ellis & Co (1905) 1 KB 324). The payment of a “salary” to a partner is simply a means of distributing partnership income and the payment is not deductible in computing the net partnership income or loss; the payment of a partnership salary cannot result in or increase a partnership loss (TR 2005/7). If a partner is entitled to a “salary” under the terms of the partnership agreement, this simply represents an entitlement to an allocation of proﬁts before the general distribution among the partners.

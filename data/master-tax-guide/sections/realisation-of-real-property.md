@@ -5,7 +5,6 @@ section: "realisation-of-real-property"
 title: "Realisation of real property"
 paragraph: "¶10-120"
 ---
-
 # Realisation of real property ¶10-120
 
 The proceeds from the mere realisation of a capital asset or from the change of an investment do not give rise to income according to ordinary concepts or to a proﬁt arising from a proﬁt-making undertaking or plan within the meaning of ITAA97 s 15-15 for property acquired before 19 September 1985 (¶10-340), even if the realisation or change is carried out in the most advantageous manner. Of course, the CGT provisions may apply in relation to property acquired on or after 20 September 1985.

@@ -5,7 +5,6 @@ section: "zone-rebate-for-residents-of-isolated-areas"
 title: "Zone rebate for residents of isolated areas"
 paragraph: "¶15-160"
 ---
-
 # Zone rebate for residents of isolated areas ¶15-160
 
 A rebate of tax is available to individuals who are residents of speciﬁed remote areas of Australia. The rebate is calculated as the sum of a “basic amount”, plus a percentage of the “relevant rebate amount”, being the total of the rebates for the income year for DICTO (¶15-100) and certain other notional tax oﬀsets to which the taxpayer is entitled.

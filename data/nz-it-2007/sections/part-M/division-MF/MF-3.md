@@ -8,7 +8,6 @@ section_title: Calculating amount of interim WFF tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 3  Calculating amount of interim WFF tax credit
 
 **When this section applies**

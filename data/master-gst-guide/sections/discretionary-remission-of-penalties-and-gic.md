@@ -5,7 +5,6 @@ section: "discretionary-remission-of-penalties-and-gic"
 title: "Discretionary remission of penalties and GIC"
 paragraph: "¶18-305"
 ---
-
 # Discretionary remission of penalties and GIC ¶18-305
 
 The Commissioner has the power to remit (reduce) administrative penalties, wholly or in part (Administration Act Sch 1 s 298-20). In addition, the Administrative Review Tribunal can generally review decisions by the Commissioner on remission of penalties (see further below).

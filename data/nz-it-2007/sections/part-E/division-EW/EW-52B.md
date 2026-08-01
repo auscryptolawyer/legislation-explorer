@@ -8,7 +8,6 @@ section_title: Excepted financial arrangements involving pre-1990 forest land em
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 52B  Excepted financial arrangements involving pre-1990 forest land emissions units
 
 **When this section applies**

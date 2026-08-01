@@ -8,7 +8,6 @@ section_title: Alternative apportionment of interest by some excess debt entitie
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FE 6B  Alternative apportionment of interest by some excess debt entities
 
 **Who this section applies to**

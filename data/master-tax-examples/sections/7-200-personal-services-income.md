@@ -5,7 +5,6 @@ section: "7-200-personal-services-income"
 title: "7-200 - Personal services income"
 paragraph: "None"
 ---
-
 # 7-200 - Personal services income
 
 Worked example: Personal services income Issue Peter Simmons is an engineer who provides consulting services through his private company Clean Power Pty Ltd. The company has contracted with the local council for Peter to provide consulting services in relation to their project works. For the year ended 30 June 2025, Clean Power received a fee from the council of $90,000 and paid the following: $ Tax-related expenses                                                                                                                     2,500 Annual engineers registration fee                                                                                                          440 Peter’s salary                                                                                                                          60,000 Other income of Clean Power consisted of some investments amounting to $3,300.

@@ -8,7 +8,6 @@ section_title: Entities ceasing to be FIFs
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 66B  Entities ceasing to be FIFs
 
 **When this section applies**

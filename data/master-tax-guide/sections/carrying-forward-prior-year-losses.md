@@ -5,7 +5,6 @@ section: "carrying-forward-prior-year-losses"
 title: "Carrying forward prior year losses"
 paragraph: "¶16-895"
 ---
-
 # Carrying forward prior year losses ¶16-895
 
 In general, prior year losses are personal to the taxpayer who incurs them and are neither lost, for example by sale of the taxpayer’s business, nor transferable to another (Case 52/96 96 ATC 498). For example, if a sole trader who has past tax losses from a bakery business sells that business, the purchaser cannot utilise the vendor’s losses but the vendor can continue to claim them. The pre-incorporation losses of an association cannot be claimed after it is incorporated as the unincorporated association and the company are diﬀerent entities (ID 2004/811). Special rules apply to company groups under the consolidation rules (¶8-100) and under the group loss transfer rules that apply in limited circumstances (¶3-090).

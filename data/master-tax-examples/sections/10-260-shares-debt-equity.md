@@ -5,7 +5,6 @@ section: "10-260-shares-debt-equity"
 title: "10-260 - Shares debt equity"
 paragraph: "None"
 ---
-
 # 10-260 - Shares debt equity
 
 Worked example: Shares; debt equity Issue The share capital of Acme Pty Ltd (Acme) comprises 2 classes of instruments:

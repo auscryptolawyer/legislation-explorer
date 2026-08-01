@@ -5,7 +5,6 @@ section: "what-is-a-tax-agent-service"
 title: "What is a tax agent service?"
 paragraph: "¶32-010"
 ---
-
 # What is a tax agent service? ¶32-010
 
 The fundamental concept that underlies the registration regime for tax agents is that of a tax agent service.

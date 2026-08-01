@@ -8,7 +8,6 @@ section_title: Transfers of livestock within wholly-owned groups
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 4  Transfers of livestock within wholly-owned groups
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "market-valuation-for-tax-consolidation"
 title: "Market valuation for tax consolidation"
 paragraph: "¶8-280"
 ---
-
 # Market valuation for tax consolidation ¶8-280
 
 One of the most challenging aspects of consolidating a group will be the need to develop and document defendable market valuation data in the following circumstances:

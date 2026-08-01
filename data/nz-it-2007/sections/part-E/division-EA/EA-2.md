@@ -8,7 +8,6 @@ section_title: Other revenue account property
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EA 2  Other revenue account property
 
 **When this section applies**

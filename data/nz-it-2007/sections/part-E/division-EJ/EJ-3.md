@@ -8,7 +8,6 @@ section_title: Spreading forward of fertiliser expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 3  Spreading forward of fertiliser expenditure
 
 **When this section applies**

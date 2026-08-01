@@ -5,7 +5,6 @@ section: "defence-force-pay-and-allowances"
 title: "Defence Force pay and allowances"
 paragraph: "¶10-760"
 ---
-
 # Defence Force pay and allowances ¶10-760
 
 The pay and allowances received by military, naval and air force personnel are assessable as ordinary income. However, the payments and allowances below are expressly exempt (ITAA97 s 51-5, items 1.1, 1.2 and 1.6):

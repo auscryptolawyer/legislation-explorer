@@ -5,7 +5,6 @@ section: "taxation-of-non-complying-funds"
 title: "Taxation of non-complying funds"
 paragraph: "¶13-220"
 ---
-
 # Taxation of non-complying funds ¶13-220
 
 A non-complying superannuation fund means a “superannuation fund” (¶13-050) that is a fund and is not a complying superannuation fund. That is, the fund is an indeﬁnitely continuing fund and a provident, beneﬁt, superannuation or retirement fund or a public sector superannuation scheme (ITAA97 s 995-1(1)).

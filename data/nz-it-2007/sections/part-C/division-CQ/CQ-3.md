@@ -8,7 +8,6 @@ section_title: Calculation of attributed CFC income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CQ 3  Calculation of attributed CFC income
 
 The amount of attributed CFC income is calculated under the rules in sections EX 18 to EX 20 (which relate to the calculation of attributed CFC income or loss).

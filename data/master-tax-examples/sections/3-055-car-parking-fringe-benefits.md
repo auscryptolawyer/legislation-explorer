@@ -5,7 +5,6 @@ section: "3-055-car-parking-fringe-benefits"
 title: "3-055 - Car parking fringe benefits"
 paragraph: "None"
 ---
-
 # 3-055 - Car parking fringe benefits
 
 Worked example: Car parking fringe benefits Issue Jagaroth Pty Ltd is an engineering company located in the south-west suburbs of Sydney. Its annual turnover for the past 3 years has been approximately $120 million. It provides free on-site car parking outside its factory for its employees, who are all based there as their permanent place of employment. The parking is in a secure area to the side of the factory, not accessible to members of the public.

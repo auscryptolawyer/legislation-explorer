@@ -5,7 +5,6 @@ section: "allocation-of-credits-to-rba"
 title: "Allocation of credits to RBA"
 paragraph: "¶24-360"
 ---
-
 # Allocation of credits to RBA ¶24-360
 
 The Commissioner is generally required to deal with various credit amounts according to one of 2 methods.

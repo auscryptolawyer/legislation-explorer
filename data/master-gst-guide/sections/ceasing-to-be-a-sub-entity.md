@@ -5,7 +5,6 @@ section: "ceasing-to-be-a-sub-entity"
 title: "Ceasing to be a sub-entity"
 paragraph: "¶15-090"
 ---
-
 # Ceasing to be a sub-entity ¶15-090
 
 The choice to apply the sub-entity rules takes effect from the time it is made by the parent entity (s 63-10).

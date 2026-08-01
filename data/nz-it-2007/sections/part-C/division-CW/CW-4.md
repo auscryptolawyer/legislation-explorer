@@ -8,7 +8,6 @@ section_title: Annuities under life insurance policies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 4  Annuities under life insurance policies
 
 **When this section applies**

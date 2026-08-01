@@ -5,7 +5,6 @@ section: "overseas-and-domestic-travel"
 title: "Overseas and domestic travel"
 paragraph: "¶12-000"
 ---
-
 # Overseas and domestic travel ¶12-000
 
 Supplies of transport that are effectively consumed outside Australia are generally GST-free (s 38-355). This means that no GST is payable, but that the supplier can claim input tax credits for the GST component of anything acquired to make the supply.

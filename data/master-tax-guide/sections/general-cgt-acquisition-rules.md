@@ -5,7 +5,6 @@ section: "general-cgt-acquisition-rules"
 title: "General CGT acquisition rules"
 paragraph: "¶11-440"
 ---
-
 # General CGT acquisition rules ¶11-440
 
 The time when a CGT asset is acquired is crucial to the CGT consequences which can arise in relation to the asset. Firstly, if an asset was acquired before 20 September 1985, there is generally no CGT liability which can arise from a CGT event happening in relation to the asset. Secondly, the time of acquisition is relevant for determining whether the CGT discount is available (¶11-033). Thirdly, the time of acquisition determines whether the cost base of the asset is able to be indexed up to 30 September 1999 and the extent of that indexation (¶11-610).

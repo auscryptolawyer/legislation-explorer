@@ -8,7 +8,6 @@ section_title: Applying IFRSs to financial arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 15B  Applying IFRSs to financial arrangements
 
 **When sections EW 15C to EW 15I apply**

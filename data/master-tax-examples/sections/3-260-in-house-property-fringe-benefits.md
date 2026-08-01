@@ -5,7 +5,6 @@ section: "3-260-in-house-property-fringe-benefits"
 title: "3-260 - In-house property fringe benefits"
 paragraph: "None"
 ---
-
 # 3-260 - In-house property fringe benefits
 
 Worked example: In-house property fringe benefits Issue Jenny Wong and her manager, Joshua Smith, are employed by Johnsons Electronics Pty Ltd (Johnsons), a national electronics retailer. Jenny is provided with a desktop computer which retails for $4,000. Jenny uses this computer equally for both business and private purposes. Joshua is provided with a laptop computer which also retails for $4,000. Joshua uses this computer 90% of the time for business purposes only.

@@ -5,7 +5,6 @@ section: "introduction-to-tax-agent-services-regime"
 title: "Introduction to tax agent services regime"
 paragraph: "¶32-000"
 ---
-
 # Introduction to tax agent services regime ¶32-000
 
 The registration of tax agents is governed by the Tax Agent Services Act 2009 (TASA) which is administered by the Tax Practitioners Board (TPB). The registration regime also provides for the registration of BAS agents. Unless otherwise indicated, legislative references in this chapter are to sections of the TASA and references to the TPB are to the Tax Practitioners Board.

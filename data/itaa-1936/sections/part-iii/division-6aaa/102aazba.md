@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 102AAZBA Modified application of CGT—effect of certain changes of residence
 
 For the purposes of applying this Act in calculating the attributable income of a trust estate of a year of income (in this section called the attributable income year), where:

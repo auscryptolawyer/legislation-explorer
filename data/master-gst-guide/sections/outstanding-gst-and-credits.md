@@ -5,7 +5,6 @@ section: "outstanding-gst-and-credits"
 title: "Outstanding GST and credits"
 paragraph: "¶17-120"
 ---
-
 # Outstanding GST and credits ¶17-120
 
 It may happen that, because of prior transactions, the amalgamating companies have GST liabilities or credit entitlements still outstanding at the date of the amalgamation. The amalgamated company will assume those liabilities and entitlements to the extent that they were not attributable to a tax period before the amalgamation (s 90-20; 90-25). A corresponding rule applies to adjustments (s 90-30).

@@ -5,7 +5,6 @@ section: "7-040-payg-instalments-tax-offsets"
 title: "7-040 - PAYG instalments tax offsets"
 paragraph: "None"
 ---
-
 # 7-040 - PAYG instalments tax offsets
 
 Worked example: PAYG instalments; tax offsets Issue Victoria Jackson is a self-employed interior decorator who advises households and businesses in the Sydney region of their furnishing needs. Victoria is aged 55 years, single and not registered for GST.

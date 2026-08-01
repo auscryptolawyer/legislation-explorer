@@ -8,7 +8,6 @@ section_title: Choosing to become foreign investment PIE
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 71B  Choosing to become foreign investment PIE
 
 **What this section applies to**

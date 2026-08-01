@@ -5,7 +5,6 @@ section: "where-single-entity-joins-existing-consolidated-group"
 title: "Where single entity joins existing consolidated group"
 paragraph: "¶8-210"
 ---
-
 # Where single entity joins existing consolidated group ¶8-210
 
 When an entity joins an existing consolidated group, the tax cost of each asset brought into the group is set at the asset’s “tax cost setting amount” (ITAA97 s 701-10). The relevant tax cost setting amounts are worked out by allocating the consolidated group’s “allocable cost amount” (ACA) for the joining entity to the joining entity’s assets. The ACA is broadly representative of the cost of equity in the joining entity and its liabilities.

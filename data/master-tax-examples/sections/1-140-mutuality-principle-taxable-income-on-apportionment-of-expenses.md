@@ -5,7 +5,6 @@ section: "1-140-mutuality-principle-taxable-income-on-apportionment-of-expenses"
 title: "1-140 - Mutuality principle taxable income on apportionment of expenses"
 paragraph: "None"
 ---
-
 # 1-140 - Mutuality principle taxable income on apportionment of expenses
 
 Worked example: Mutuality principle; taxable income on apportionment of expenses Issue The Pankhurst Panthers are a licensed AFL women’s football club operating since 1903. They have an active social club that provides food and beverages to members after training and game days. With the introduction of the AFL women’s league in 2017, there has been more interest in women’s football, and they regularly have guests being signed in by members to various functions.

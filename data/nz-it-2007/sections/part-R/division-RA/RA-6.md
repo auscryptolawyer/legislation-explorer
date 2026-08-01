@@ -8,7 +8,6 @@ section_title: Withholding and payment obligations for passive income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RA 6  Withholding and payment obligations for passive income
 
 **Resident passive income**

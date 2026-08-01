@@ -5,7 +5,6 @@ section: "consolidated-group-acquired-by-another"
 title: "Consolidated group acquired by another"
 paragraph: "¶8-230"
 ---
-
 # Consolidated group acquired by another ¶8-230
 
 Special rules apply where an existing consolidated group is acquired by another consolidated group (ITAA97 Subdiv 705-C, comprising s 705-175 to 705-200; modiﬁed by s 719-170 for MEC groups). The core rules and cost setting rules will apply in this circumstance as if the joining group were a single entity. See, for example, ID 2007/127. Modiﬁcations to the cost setting rules are made where certain non-membership equity interests have been issued by subsidiary members of the acquired group to members of the acquiring group or to third parties, or there are employee shares or certain ADI restructure preference share interests in a subsidiary member of the acquired group.

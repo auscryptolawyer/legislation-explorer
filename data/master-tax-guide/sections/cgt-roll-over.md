@@ -5,7 +5,6 @@ section: "cgt-roll-over"
 title: "CGT roll-over"
 paragraph: "¶12-070"
 ---
-
 # CGT roll-over ¶12-070
 
 If a taxpayer chooses to take advantage of roll-over relief in relation to the disposal of assets to a wholly- owned company, there are CGT consequences for the company acquiring those assets (s 122-70). Those consequences are relevant for each asset, other than a precluded asset (¶12-040), that is rolled over to the company. A capital gain or loss from a precluded asset is disregarded. The roll-over is a same-asset roll-over (s 112-150).

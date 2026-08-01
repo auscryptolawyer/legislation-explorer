@@ -5,7 +5,6 @@ section: "offsetting-credits-against-gst"
 title: "Offsetting credits against GST"
 paragraph: "¶7-000"
 ---
-
 # Offsetting credits against GST ¶7-000
 
 Your GST liabilities are worked out at the end of each tax period. As explained at ¶7-100, this period may be either monthly, quarterly or annual.

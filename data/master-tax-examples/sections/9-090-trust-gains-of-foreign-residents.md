@@ -5,7 +5,6 @@ section: "9-090-trust-gains-of-foreign-residents"
 title: "9-090 - Trust gains of foreign residents"
 paragraph: "None"
 ---
-
 # 9-090 - Trust gains of foreign residents
 
 Worked example: Trust gains of foreign residents Issue Pond Family Pty Ltd (PFP), an Australian resident company, is the trustee of the Pond Family Trust, a discretionary family trust. Ms Amy Pond is a beneficiary of the trust and a resident of the United Kingdom.

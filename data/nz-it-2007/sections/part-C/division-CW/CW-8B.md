@@ -8,7 +8,6 @@ section_title: Certain amounts derived from use of assets
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 8B  Certain amounts derived from use of assets
 
 **When this section applies**

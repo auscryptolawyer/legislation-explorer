@@ -5,7 +5,6 @@ section: "cgt-exemption-for-granny-ﬂat-arrangements"
 title: "CGT: Exemption for granny ﬂat arrangements"
 paragraph: "¶11-915"
 ---
-
 # CGT: Exemption for granny ﬂat arrangements ¶11-915
 
 A CGT event does not happen where a granny ﬂat arrangement is entered into, varied or terminated that meets certain requirements on or after 1 July 2021 (ITAA97 Subdiv 137-A).

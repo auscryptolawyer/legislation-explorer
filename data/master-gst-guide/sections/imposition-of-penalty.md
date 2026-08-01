@@ -5,7 +5,6 @@ section: "imposition-of-penalty"
 title: "Imposition of penalty"
 paragraph: "¶20-130"
 ---
-
 # Imposition of penalty ¶20-130
 
 The maximum penalty, from 1 July 2024, for either form of prohibited conduct is the greatest of:

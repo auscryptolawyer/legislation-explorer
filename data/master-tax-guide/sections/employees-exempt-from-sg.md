@@ -5,7 +5,6 @@ section: "employees-exempt-from-sg"
 title: "Employees “exempt” from SG"
 paragraph: "¶39-030"
 ---
-
 # Employees “exempt” from SG ¶39-030
 
 The following are “exempt” employees for SG purposes and an employer is not required to make SG contributions for them in respect of certain salary or wages amounts paid to them: (1) non-resident employees paid for “work done outside Australia” (see below), except to the extent covered by a certiﬁcate under SGAA s 15C (s 27(b)) (see “Scheduled international social security agreement” below) (2) resident employees employed by non-resident employers for “work done outside Australia” (see below), or non-resident employees for work done in the Joint Petroleum Development Area within the meaning of the Petroleum (Timor Sea Treaty) Act 2003 (s 27(c), (ca)) (3) employees who hold visas or entry permits prescribed by the SGAR (s 27(d); SGAR s 11) (Sushi Yachiyo Pty Ltd 2020 ATC ¶10-540; [2020] AATA 2328: cook not an exempt employee) (4) employees receiving salary or wages prescribed by the SGAR (s 27(e); SGAR ss 12, 12A), namely: (i) salary or wages paid to an employee for a period of parental leave (ii) salary or wages paid to an employee who is engaging in an eligible community service activity (iii) salary or wages paid to an employee who is undertaking service with the Australian

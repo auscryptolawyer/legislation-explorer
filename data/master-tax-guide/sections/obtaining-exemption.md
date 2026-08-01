@@ -5,7 +5,6 @@ section: "obtaining-exemption"
 title: "Obtaining exemption"
 paragraph: "¶10-610"
 ---
-
 # Obtaining exemption ¶10-610
 
 Charitable entities seeking to claim exempt status are required to obtain an Australian Business Number (¶33-100) and be registered with the Australian Charities and Not-for-proﬁts Commission (ACNC) Commissioner (the Commonwealth level regulator for charities). An online register of charities is available on the ACNC website. Generally, entities that were endorsed by the ATO before the commencement of the ACNC regime are automatically transferred to the new regime.

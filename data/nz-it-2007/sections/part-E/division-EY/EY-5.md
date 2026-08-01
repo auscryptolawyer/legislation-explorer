@@ -8,7 +8,6 @@ section_title: Part-year tax calculations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EY 5  Part-year tax calculations
 
 **Part-year tax calculations**

@@ -5,7 +5,6 @@ section: "what-is-a-tax-loss"
 title: "What is a tax loss?"
 paragraph: "¶16-880"
 ---
-
 # What is a tax loss? ¶16-880
 
 A tax loss incurred in one income year may be carried forward and deducted in arriving at the taxpayer’s taxable income of succeeding income years.

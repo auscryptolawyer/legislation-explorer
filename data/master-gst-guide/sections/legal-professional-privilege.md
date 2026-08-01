@@ -5,7 +5,6 @@ section: "legal-professional-privilege"
 title: "Legal professional privilege"
 paragraph: "¶18-140"
 ---
-
 # Legal professional privilege ¶18-140
 
 The Commissioner’s information-gathering powers are restricted by the doctrine of legal professional privilege.

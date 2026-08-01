@@ -8,7 +8,6 @@ section_title: Restrictions on companies’ loss balances carried forward: conti
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IA 5  Restrictions on companies’ loss balances carried forward: continuity of ownership
 
 **General statement**

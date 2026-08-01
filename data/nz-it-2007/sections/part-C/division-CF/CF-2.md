@@ -8,7 +8,6 @@ section_title: Remission of specified suspensory loans
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CF 2  Remission of specified suspensory loans
 
 **When this section applies**

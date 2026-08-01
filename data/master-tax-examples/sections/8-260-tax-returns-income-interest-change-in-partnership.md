@@ -5,7 +5,6 @@ section: "8-260-tax-returns-income-interest-change-in-partnership"
 title: "8-260 - Tax returns income interest change in partnership"
 paragraph: "None"
 ---
-
 # 8-260 - Tax returns income interest change in partnership
 
 Worked example: Tax returns; income; interest; change in partnership Issue Tom Sullivan and Jake Williams jointly own a rental property. They split the rental income equally and each contribute half of any expenses. Tom and Jake have no other joint investments or business interests.

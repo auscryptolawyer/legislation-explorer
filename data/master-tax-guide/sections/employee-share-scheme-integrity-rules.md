@@ -5,7 +5,6 @@ section: "employee-share-scheme-integrity-rules"
 title: "Employee share scheme integrity rules"
 paragraph: "¶10-091"
 ---
-
 # Employee share scheme integrity rules ¶10-091
 
 Division 83A contains a number of integrity rules, including employer reporting requirements and tax ﬁle number (TFN) withholding tax provisions, as discussed below.

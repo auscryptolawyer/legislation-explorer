@@ -8,7 +8,6 @@ section_title: Relative debt-asset ratio for CFC
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 20E  Relative debt-asset ratio for CFC
 
 **What this section does**

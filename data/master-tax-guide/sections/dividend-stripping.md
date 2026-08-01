@@ -5,7 +5,6 @@ section: "dividend-stripping"
 title: "Dividend stripping"
 paragraph: "¶30-190"
 ---
-
 # Dividend stripping ¶30-190
 
 ITAA36 Pt IVA contains a provision which is speciﬁcally directed at “dividend stripping” schemes. This provision applies where: (1) as a result of a dividend stripping scheme, any property of the company is disposed of (2) the Commissioner is of the opinion that the disposal of the property represents, wholly or in part, a distribution of proﬁts (whether of the current, a past or a future accounting period) of the company, and (3) if the proﬁts represented by the disposal of the property had been paid as a dividend immediately before the scheme was entered into, it would be reasonable to expect that this would result in an amount being included in a taxpayer’s assessable income (ITAA36 s 177E).

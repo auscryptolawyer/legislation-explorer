@@ -8,7 +8,6 @@ section_title: Transfers of company value generally
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CD 4  Transfers of company value generally
 
 **Transfers of company value from company**

@@ -5,7 +5,6 @@ section: "lay-by-sales"
 title: "Lay-by sales"
 paragraph: "¶7-430"
 ---
-
 # Lay-by sales ¶7-430
 
 Taxable supplies by way of lay-by sales made in the course of business are generally subject to GST.

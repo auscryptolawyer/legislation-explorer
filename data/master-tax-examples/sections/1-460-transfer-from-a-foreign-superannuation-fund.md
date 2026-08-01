@@ -5,7 +5,6 @@ section: "1-460-transfer-from-a-foreign-superannuation-fund"
 title: "1-460 - Transfer from a foreign superannuation fund"
 paragraph: "None"
 ---
-
 # 1-460 - Transfer from a foreign superannuation fund
 
 Worked example: Transfer from a foreign superannuation fund Issue Deborah Richards, aged 57, moved permanently to Australia 10 years ago from the United Kingdom.

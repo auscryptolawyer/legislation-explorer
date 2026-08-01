@@ -5,7 +5,6 @@ section: "personal-tax-oﬀsets-priority-rules"
 title: "Personal tax oﬀsets priority rules"
 paragraph: "¶15-010"
 ---
-
 # Personal tax oﬀsets priority rules ¶15-010
 
 Under s 63-10(1), the order in which personal tax oﬀsets are applied is as follows:

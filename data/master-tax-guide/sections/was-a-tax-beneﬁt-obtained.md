@@ -5,7 +5,6 @@ section: "was-a-tax-beneﬁt-obtained"
 title: "Was a tax beneﬁt obtained?"
 paragraph: "¶30-160"
 ---
-
 # Was a tax beneﬁt obtained? ¶30-160
 
 There must be a “tax beneﬁt” in connection with a scheme for Pt IVA to apply (s 177D). Establishing a tax beneﬁt is a 2-step enquiry (s 177C). First, a taxpayer must have achieved at least one of the following beneﬁcial outcomes from the scheme:

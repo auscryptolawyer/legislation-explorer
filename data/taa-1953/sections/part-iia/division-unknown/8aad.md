@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8AAD  What is the general interest charge rate?
 
 <a id="s8AAD-1"></a>

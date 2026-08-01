@@ -8,7 +8,6 @@ section_title: Company B using company A’s tax loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IC 5  Company B using company A’s tax loss
 
 **Requirements**

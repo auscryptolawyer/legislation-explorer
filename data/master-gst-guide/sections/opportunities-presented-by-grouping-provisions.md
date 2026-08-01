@@ -5,7 +5,6 @@ section: "opportunities-presented-by-grouping-provisions"
 title: "Opportunities presented by grouping provisions"
 paragraph: "¶17-040"
 ---
-
 # Opportunities presented by grouping provisions ¶17-040
 
 Here are some possible ways in which the grouping provisions may provide particular advantages or opportunities.

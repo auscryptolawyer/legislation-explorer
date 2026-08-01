@@ -8,7 +8,6 @@ section_title: Aircraft operators: payments and adjustments under finance leases
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DW 6  Aircraft operators: payments and adjustments under finance leases
 
 **When this section applies**

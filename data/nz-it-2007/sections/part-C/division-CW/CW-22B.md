@@ -8,7 +8,6 @@ section_title: Amounts derived by non-resident visitors during visits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 22B  Amounts derived by non-resident visitors during visits
 
 **Exempt income**

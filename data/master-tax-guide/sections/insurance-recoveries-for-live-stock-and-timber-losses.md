@@ -5,7 +5,6 @@ section: "insurance-recoveries-for-live-stock-and-timber-losses"
 title: "Insurance recoveries for live stock and timber losses"
 paragraph: "¶18-150"
 ---
-
 # Insurance recoveries for live stock and timber losses ¶18-150
 
 Insurance recoveries received for the loss of live stock (whether by reason of drought, ﬁre, ﬂood, disease or any other disaster) may be spread, for assessment purposes, in equal instalments over a 5-year period (ITAA97 s 385-130). This concession, which is not automatic, applies to cases where the live stock were assets of a primary production business carried on in Australia.

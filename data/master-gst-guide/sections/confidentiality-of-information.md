@@ -5,7 +5,6 @@ section: "confidentiality-of-information"
 title: "Confidentiality of information"
 paragraph: "¶18-130"
 ---
-
 # Confidentiality of information ¶18-130
 
 Recording or disclosing information about the tax affairs of any particular taxpayer is an offence except in certain limited situations. This applies to taxation officers and others who acquire protected information (Administration Act, sch 1, Div 355). “Protected information” is information that:

@@ -5,7 +5,6 @@ section: "low-value-depreciating-asset-pools"
 title: "Low-value depreciating asset pools"
 paragraph: "¶17-810"
 ---
-
 # Low-value depreciating asset pools ¶17-810
 
 Taxpayers may elect to claim deductions for the decline in value of depreciating assets (“low-cost assets”) costing less than $1,000 through a low-value pool (ITAA97 ss 40-420 to 40-445). An asset (“low-value asset”) whose decline in value was calculated using the diminishing value method can also be pooled where its adjustable value (¶17-485) is less than $1,000. An immediate write-oﬀ for low-cost depreciating assets and pooling of other depreciating assets is available under the special rules for small business entities (¶7-250).

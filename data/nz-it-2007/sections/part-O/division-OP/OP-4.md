@@ -8,7 +8,6 @@ section_title: Resident imputation subgroups
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 4  Resident imputation subgroups
 
 **Subgroup of trans-Tasman imputation group**

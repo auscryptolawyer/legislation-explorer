@@ -5,7 +5,6 @@ section: "other-cgt-events"
 title: "Other CGT events"
 paragraph: "¶11-350"
 ---
-
 # Other CGT events ¶11-350
 
 emissions unit

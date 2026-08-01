@@ -5,7 +5,6 @@ section: "deductions-for-tax-related-expenses"
 title: "Deductions for tax-related expenses"
 paragraph: "¶16-850"
 ---
-
 # Deductions for tax-related expenses ¶16-850
 
 A taxpayer can deduct expenditure to the extent it is incurred for: managing the taxpayer’s income tax aﬀairs; complying with an obligation imposed by a Commonwealth law in relation to the income tax aﬀairs of an entity; the GIC, shortfall interest charge (SIC), or a GST instalment underestimation penalty; the major bank levy under the Major Bank Levy Act 2017; or obtaining valuations from the Commissioner for either gifts of property under Div 30 (¶16-940) or for market valuations of land that are subject to conservation covenants under Div 31 (¶16-972) (ITAA97 s 25-5). (The deduction is allowable in the income year in which the expenditure is incurred (¶16-040) and is available to all types of taxpayers, whether business taxpayers, salary or wage earners or investors. Recoupments of such expenses may be assessable (¶10-270).) For details of proposed changes to the deductibility of GIC and SIC, see below.

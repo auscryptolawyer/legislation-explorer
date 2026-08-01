@@ -5,7 +5,6 @@ section: "6-160-balancing-adjustments-disposal-of-depreciating-assets"
 title: "6-160 - Balancing adjustments disposal of depreciating assets"
 paragraph: "None"
 ---
-
 # 6-160 - Balancing adjustments disposal of depreciating assets
 
 Worked example: Balancing adjustments; disposal of depreciating assets Issue Rene Richards owns and manages a business, trading as Alpine Printing. This business prints and publishes lifestyle, real estate and financial magazines and journals. He does not apply the simplified depreciation rules.

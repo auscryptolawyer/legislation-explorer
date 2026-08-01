@@ -5,7 +5,6 @@ section: "7-220-termination-payments"
 title: "7-220 - Termination payments"
 paragraph: "None"
 ---
-
 # 7-220 - Termination payments
 
 Worked example: Termination payments Issue Due to a work injury to his right arm, Neil Maggie, aged 62 years, took an invalidity payment and resigned from Pipecoaters Ltd on 31 May 2025. His date of birth is 31 May 1962. He had worked with the company since 1 June 1981 (44 years). He was due to retire on 31 May 2027 at age 65.

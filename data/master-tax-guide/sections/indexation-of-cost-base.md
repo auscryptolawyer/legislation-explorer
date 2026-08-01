@@ -5,7 +5,6 @@ section: "indexation-of-cost-base"
 title: "Indexation of cost base"
 paragraph: "¶11-610"
 ---
-
 # Indexation of cost base ¶11-610
 
 The indexed cost base may be used for calculating a capital gain from a CGT event happening in relation to a CGT asset that was acquired at or before 11.45 am EST on 21 September 1999. While indexation is available for all taxpayers, since 30 September 1999 it has had limited importance for the following reasons:

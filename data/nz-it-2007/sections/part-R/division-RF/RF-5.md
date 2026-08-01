@@ -8,7 +8,6 @@ section_title: When amounts of tax already withheld
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 5  When amounts of tax already withheld
 
 A person is not required to withhold NRWT when some or all of the payment consists of resident passive income to the extent to which the amount of tax has already been collected.

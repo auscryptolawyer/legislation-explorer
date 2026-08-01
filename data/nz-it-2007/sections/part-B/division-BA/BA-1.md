@@ -8,7 +8,6 @@ section_title: Purpose
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # BA 1  Purpose
 
 The purposes of this Part are—

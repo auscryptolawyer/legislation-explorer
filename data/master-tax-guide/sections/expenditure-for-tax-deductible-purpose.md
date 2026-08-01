@@ -5,7 +5,6 @@ section: "expenditure-for-tax-deductible-purpose"
 title: "Expenditure for tax-deductible purpose"
 paragraph: "¶35-360"
 ---
-
 # Expenditure for tax-deductible purpose ¶35-360
 
 If the employee would have been allowed a once-only income tax deduction for the expenditure had the employer not paid or reimbursed it (eg for the cost of deductible work clothing: TR 97/12), the taxable value of the beneﬁt is reduced accordingly (s 24). The general conditions for this type of reduction are discussed at ¶35-680. For a “once only deduction” to arise, there must be a tax deduction in a year of income in respect of a percentage of that expenditure. Expenditure that is hypothetically aﬀected by the loss deferral rule in ITAA97 s 35-10(2) (¶16-020), ie it would have been disallowed in the year incurred, can never satisfy the above condition and can never give rise to a once only deduction, for the purposes of s 24 (TR 2013/6).

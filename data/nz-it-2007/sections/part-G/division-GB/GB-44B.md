@@ -8,7 +8,6 @@ section_title: Arrangements involving FamilyBoost tax credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 44B  Arrangements involving FamilyBoost tax credits
 
 **When this section applies**

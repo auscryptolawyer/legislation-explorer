@@ -5,7 +5,6 @@ section: "1-300-allowances-and-reimbursements"
 title: "1-300 - Allowances and reimbursements"
 paragraph: "None"
 ---
-
 # 1-300 - Allowances and reimbursements
 
 Worked example: Allowances and reimbursements Issue Gordon Haddad is employed by Hardware and Software Technologies Ltd (HSTL) as an information technology engineer. The company’s head office is in Melbourne and Gordon’s employment requires him to travel to regional areas and interstate.

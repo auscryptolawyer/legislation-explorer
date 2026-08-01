@@ -8,7 +8,6 @@ section_title: Modified fair value method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 15G  Modified fair value method
 
 **When this section applies**

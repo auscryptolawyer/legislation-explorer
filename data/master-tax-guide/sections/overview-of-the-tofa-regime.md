@@ -5,7 +5,6 @@ section: "overview-of-the-tofa-regime"
 title: "Overview of the TOFA regime"
 paragraph: "¶23-020"
 ---
-
 # Overview of the TOFA regime ¶23-020
 
 ITAA97 Div 230 contains comprehensive rules for the taxation of gains and losses arising on certain ﬁnancial arrangements (also known as the “TOFA regime”). The Division generally applies to large taxpayers although its scope is not limited to these taxpayers.

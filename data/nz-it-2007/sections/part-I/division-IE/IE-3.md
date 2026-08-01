@@ -8,7 +8,6 @@ section_title: Treatment of tax losses by amalgamated company
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IE 3  Treatment of tax losses by amalgamated company
 
 **When this section applies**

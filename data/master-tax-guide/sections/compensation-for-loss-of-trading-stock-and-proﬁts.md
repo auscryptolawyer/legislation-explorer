@@ -5,7 +5,6 @@ section: "compensation-for-loss-of-trading-stock-and-proﬁts"
 title: "Compensation for loss of trading stock and proﬁts"
 paragraph: "¶10-170"
 ---
-
 # Compensation for loss of trading stock and proﬁts ¶10-170
 
 Insurance payments or other receipts in respect of lost trading stock, eg by ﬁre, compulsory takeover or destruction, etc, and amounts received for loss of proﬁts or income due to an interruption to business, eg caused by ﬁre, rain, etc, are assessable either as ordinary income under ITAA97 s 6-5 or statutory income under ITAA97 s 15-30 or 70-115. So, for example, the following payments have been held to be assessable:

@@ -5,7 +5,6 @@ section: "substantiation-of-work-expenses"
 title: "Substantiation of work expenses"
 paragraph: "¶16-210"
 ---
-
 # Substantiation of work expenses ¶16-210
 
 The key principle underlying substantiation is that to deduct work expenses, the taxpayer (whether an individual or a partnership including at least one individual) needs to substantiate them by obtaining written evidence of the expense (ITAA97 Div 900: ss 900-1 to 900-250).

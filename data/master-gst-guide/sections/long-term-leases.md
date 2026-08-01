@@ -5,7 +5,6 @@ section: "long-term-leases"
 title: "Long-term leases"
 paragraph: "¶11-060"
 ---
-
 # Long-term leases ¶11-060
 
 A “long-term lease” of premises is treated in the same way as the sale of premises (s 40-70). So, for example, a long-term lease of new residential premises, commercial residential premises or non-residential premises is generally taxable, but a long-term lease of an established home is input taxed. A long-term lease of vacant land may be taxable, irrespective of whether it is subject to a condition that the lessee constructs residential premises on the land (Interpretative Decision ID 2010/22).

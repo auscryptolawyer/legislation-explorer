@@ -5,7 +5,6 @@ section: "practical-compliance-guidelines"
 title: "Practical compliance guidelines"
 paragraph: "¶24-620"
 ---
-
 # Practical compliance guidelines ¶24-620
 
 PCG 2016/1 explains that Practical Compliance Guidelines (PCGs) provide broad compliance guidance in respect of signiﬁcant law administration issues. In particular, PCGs may set out administrative safe harbour approaches. Provided taxpayers follow them in good faith, the Commissioner will administer the law in accordance with them.

@@ -8,7 +8,6 @@ section_title: Shares or options held by trustees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YC 9  Shares or options held by trustees
 
 **Trustees treated as notional single person**

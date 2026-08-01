@@ -5,7 +5,6 @@ section: "non-concessional-contributions-cap"
 title: "Non-concessional contributions cap"
 paragraph: "¶42-325"
 ---
-
 # Non-concessional contributions cap ¶42-325
 
 An individual is liable to pay excess contributions tax if the individual’s non-concessional contributions exceed the non-concessional contributions cap for the year (¶13-860). An individual’s non-concessional contributions cap is:

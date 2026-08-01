@@ -8,7 +8,6 @@ section_title: Income in income year of person’s death and following 3 income 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HC 8B  Income in income year of person’s death and following 3 income years
 
 **When this section applies**

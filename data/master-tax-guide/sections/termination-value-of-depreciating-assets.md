@@ -5,7 +5,6 @@ section: "termination-value-of-depreciating-assets"
 title: "Termination value of depreciating assets"
 paragraph: "¶17-640"
 ---
-
 # Termination value of depreciating assets ¶17-640
 
 When a balancing adjustment event happens for a depreciating asset (eg the asset is disposed of) (¶17-630), the balancing adjustment is calculated by comparing the termination value and the adjustable value (¶17-485) of the asset. The termination value of an asset excludes any GST component (see below).

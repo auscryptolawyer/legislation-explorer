@@ -8,7 +8,6 @@ section_title: Tax credits for provisional tax payments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LB 2  Tax credits for provisional tax payments
 
 A person has a tax credit for a tax year equal to the amount of provisional tax for the tax year paid by—

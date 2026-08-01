@@ -8,7 +8,6 @@ section_title: Trustee and beneficiary
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YB 6  Trustee and beneficiary
 
 **Association**

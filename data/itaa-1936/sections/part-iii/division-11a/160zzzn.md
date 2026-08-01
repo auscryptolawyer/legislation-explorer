@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol03.pdf"
 ---
-
 # 160ZZZN  Adjusting if Australian branch derives dual inclusion income in a later year
 
 <a id="s160ZZZN-1"></a>

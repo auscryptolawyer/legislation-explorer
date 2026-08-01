@@ -5,7 +5,6 @@ section: "cgt-rules-for-foreign-residents"
 title: "CGT rules for foreign residents"
 paragraph: "¶12-720"
 ---
-
 # CGT rules for foreign residents ¶12-720
 
 Foreign residents will only recognise a capital gain or loss where the CGT event happens in relation to certain speciﬁed assets known as taxable Australian property (ITAA97 Div 855; ¶12-725). Taxable Australian property broadly includes direct or indirect interests in Australian real property and the business assets (other than Australian real property) of an Australian permanent establishment. Capital gains or losses made from other CGT assets will be disregarded (s 855-10). These rules also apply to a trustee of a foreign trust for CGT purposes (see below).

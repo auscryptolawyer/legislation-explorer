@@ -8,7 +8,6 @@ section_title: Amount of resale royalty retained by collection agency
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CC 9C  Amount of resale royalty retained by collection agency
 
 **When this section applies**

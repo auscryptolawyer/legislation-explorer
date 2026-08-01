@@ -5,7 +5,6 @@ section: "10-380-digital-games-tax-offset"
 title: "10-380 - Digital games tax offset"
 paragraph: "None"
 ---
-
 # 10-380 - Digital games tax offset
 
 Worked example: Digital games tax offset Issue Meep Games Pty Ltd is an Australian resident company which specialises in digital games. Meep has been developing 2 new video games over the past several years and they are now almost complete. Details of the games are as follows: 1. A game that requires players to bet money in a simulated version of poker. 2. An adventure game that requires players to drive across a post-apocalyptic landscape, battling zombies and ruthless humans who wish to take over the player’s car and kill them.

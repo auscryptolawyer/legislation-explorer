@@ -8,7 +8,6 @@ section_title: Petroleum mining operations outside New Zealand
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CT 5  Petroleum mining operations outside New Zealand
 
 This subpart, and sections CX 42 (Disposal of ownership interests in controlled petroleum mining entities) and CX 43 (Farm-out arrangements for mining operations), apply, with any necessary modifications, to a petroleum miner who undertakes petroleum mining operations that are, or decommissioning that is—

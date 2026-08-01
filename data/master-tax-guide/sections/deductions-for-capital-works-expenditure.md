@@ -5,7 +5,6 @@ section: "deductions-for-capital-works-expenditure"
 title: "Deductions for capital works expenditure"
 paragraph: "¶20-470"
 ---
-
 # Deductions for capital works expenditure ¶20-470
 
 A taxpayer can claim a deduction for capital expenditure incurred in constructing capital works, including buildings and structural improvements (ITAA97 Div 43: ss 43-1 to 43-260) (¶20-500). The deduction is either 2.5% or 4% of the construction expenditure, depending on when construction started and how the capital works are used (¶20-520). However, the deduction cannot exceed the undeducted construction expenditure (¶20-510) of the capital works.

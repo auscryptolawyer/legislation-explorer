@@ -5,7 +5,6 @@ section: "2-400-granny-flats"
 title: "2-400 - Granny flats"
 paragraph: "None"
 ---
-
 # 2-400 - Granny flats
 
 Worked example: Granny flats Issue Rita is a 79-year-old widow who has found that her own home is too much for her to manage. Accordingly, after discussing her situation with her daughter, Susan, and her son-in-law, Robert, it is decided that she will sell her home and move into the property that is jointly owned by Susan and Robert, who live there with their children.

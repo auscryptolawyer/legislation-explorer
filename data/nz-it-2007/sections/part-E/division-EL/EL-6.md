@@ -8,7 +8,6 @@ section_title: Choosing to apply rules on property-by-property basis
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EL 6  Choosing to apply rules on property-by-property basis
 
 **Choosing other basis for calculation**

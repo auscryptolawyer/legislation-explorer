@@ -8,7 +8,6 @@ section_title: Farm-out arrangements for petroleum mining before 16 December 199
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 8  Farm-out arrangements for petroleum mining before 16 December 1991
 
 **Excluded income**

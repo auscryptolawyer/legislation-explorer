@@ -5,7 +5,6 @@ section: "non-assessable-income"
 title: "Non-assessable income"
 paragraph: "¶10-890"
 ---
-
 # Non-assessable income ¶10-890
 
 - assessable income (which is taken into account in working out a taxpayer’s taxable income)

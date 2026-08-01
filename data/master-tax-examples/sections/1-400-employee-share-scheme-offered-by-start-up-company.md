@@ -5,7 +5,6 @@ section: "1-400-employee-share-scheme-offered-by-start-up-company"
 title: "1-400 - Employee share scheme offered by start-up company"
 paragraph: "None"
 ---
-
 # 1-400 - Employee share scheme offered by start-up company
 
 Worked example: Employee share scheme offered by start-up company Issue Vlad Kozlinski is employed by Solo Pty Ltd, an Australian resident company that was incorporated 5 years ago and is not listed on any stock exchange. Solo had an annual turnover of $7.3 million in 2024–25. Solo does not have a holding company or any subsidiaries, but it has an affiliate, Doel Pty Ltd, which had an annual turnover of $12.6 million in 2024–25.

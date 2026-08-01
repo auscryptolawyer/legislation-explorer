@@ -8,7 +8,6 @@ section_title: Losses carried forward to tax year
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 1B  Losses carried forward to tax year
 
 An attributed CFC net loss or a FIF net loss or both may be carried forward to a tax year. Section IA 5 and subpart IB (which relate to the carrying forward of tax losses for companies) apply for the purposes of this subpart as if the net loss were a tax loss component.

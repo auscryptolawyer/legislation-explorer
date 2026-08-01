@@ -5,7 +5,6 @@ section: "1-420-employment-termination-and-genuine-redundancy-payments"
 title: "1-420 - Employment termination and genuine redundancy payments"
 paragraph: "None"
 ---
-
 # 1-420 - Employment termination and genuine redundancy payments
 
 Worked example: Employment termination and genuine redundancy payments Issue Barbra Purcell began her employment with the Republic Bank of Australia (RBA) in January 2010 and was made redundant on 1 April 2025, at the age of 58 years after 15 years of service. Barbra received a termination lump sum of $75,000, which included a lump sum annual leave payment of $5,000.

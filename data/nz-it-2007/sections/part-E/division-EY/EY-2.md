@@ -8,7 +8,6 @@ section_title: Policyholder base
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EY 2  Policyholder base
 
 **Policyholder base income**

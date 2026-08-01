@@ -8,7 +8,6 @@ section_title: Ring-fencing cap on deduction: revenue account method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DN 8B  Ring-fencing cap on deduction: revenue account method
 
 **When this section applies**

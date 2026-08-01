@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 102AAZD Assessable income of attributable taxpayer to include attributable income of trust estate to which taxpayer has transferred property or services
 
 <a id="s102AAZD-1"></a>

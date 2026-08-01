@@ -5,7 +5,6 @@ section: "beneﬁt-must-have-nexus-with-employment"
 title: "Beneﬁt must have nexus with employment"
 paragraph: "¶35-120"
 ---
-
 # Beneﬁt must have nexus with employment ¶35-120
 
 For a beneﬁt to be a fringe beneﬁt, it must be provided “in respect of” the employment of an employee — even if provided to an associate of the employee or to a third party at the request of the employee or an associate (ss 136(1); 148).

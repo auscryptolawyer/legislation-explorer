@@ -5,7 +5,6 @@ section: "general-allowable-deductions"
 title: "General allowable deductions"
 paragraph: "¶16-010"
 ---
-
 # General allowable deductions ¶16-010
 
 The general deduction provision in ITAA97 s 8-1 allows a deduction for a loss or outgoing to the extent it is: (1) incurred in gaining or producing the taxpayer’s assessable income (the “ﬁrst limb”), or (2) necessarily incurred in carrying on a business for the purpose of gaining or producing the taxpayer’s assessable income (the “second limb”).

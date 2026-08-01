@@ -8,7 +8,6 @@ section_title: Kāinga Ora–Homes and Communities and wholly-owned group
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 15D  Kāinga Ora–Homes and Communities and wholly-owned group
 
 **Exclusion from application of some land provisions**

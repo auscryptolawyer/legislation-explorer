@@ -8,7 +8,6 @@ section_title: Optional treatment of withdrawals from foreign superannuation sch
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 21B  Optional treatment of withdrawals from foreign superannuation schemes not included in return or assessed before 1 April 2014
 
 **When this section applies**

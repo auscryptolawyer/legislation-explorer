@@ -5,7 +5,6 @@ section: "property-provided-on-work-premises"
 title: "Property provided on work premises"
 paragraph: "¶35-500"
 ---
-
 # Property provided on work premises ¶35-500
 
 Goods supplied to, and consumed by, an employee on a working day and on the employer’s premises, or on premises of a related company, are an exempt property beneﬁt (s 41). Examples are a daily ration of beer consumed by brewery workers at work and morning and afternoon teas provided to employees (IT 2675), as well as hand-food and non-elaborate meals provided on the employer’s premises through a dining card facility (CR 2005/89; CR 2006/81) but not a massage voucher (ID 2005/109).

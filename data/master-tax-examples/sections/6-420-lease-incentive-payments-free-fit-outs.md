@@ -5,7 +5,6 @@ section: "6-420-lease-incentive-payments-free-fit-outs"
 title: "6-420 - Lease incentive payments Free fit-outs"
 paragraph: "None"
 ---
-
 # 6-420 - Lease incentive payments Free fit-outs
 
 Worked example: Lease incentive payments: Free fit-outs Issue Noreast Pty Ltd leased a commercial shop in the Southfield shopping complex in Melbourne. Southfield Ltd, the landlord, provided a cash fit-out contribution of $110,000 (net of GST) as an incentive for Noreast to sign the lease.

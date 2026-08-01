@@ -8,7 +8,6 @@ section_title: Applicable accounting standards for section EX 21E
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 21C  Applicable accounting standards for section EX 21E
 
 **Applicable accounting standards**

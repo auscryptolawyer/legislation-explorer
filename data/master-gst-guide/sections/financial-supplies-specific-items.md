@@ -5,7 +5,6 @@ section: "financial-supplies-specific-items"
 title: "Financial supplies: specific items"
 paragraph: "¶10-010"
 ---
-
 # Financial supplies: specific items ¶10-010
 
 Interests in the following numbered items may be the subject of a financial supply (GST Regulations s 40-5.09; sch 2). More detailed lists are provided in GST Ruling GSTR 2002/2.

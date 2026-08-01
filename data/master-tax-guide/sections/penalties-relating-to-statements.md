@@ -5,7 +5,6 @@ section: "penalties-relating-to-statements"
 title: "Penalties relating to statements"
 paragraph: "¶29-140"
 ---
-
 # Penalties relating to statements ¶29-140
 
 Penalties may be imposed where a taxpayer (or agent) makes (or fails to make) a statement (TAA sch 1 Div 284) to the Commissioner and:

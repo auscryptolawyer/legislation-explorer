@@ -8,7 +8,6 @@ section_title: Ring-fencing cap on deduction: attributable FIF income method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DN 8  Ring-fencing cap on deduction: attributable FIF income method
 
 **Amount of deduction: FIF not elective attributing FIF**

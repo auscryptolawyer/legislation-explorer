@@ -8,7 +8,6 @@ section_title: Consolidated ICA deposit in tax pooling account
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 8  Consolidated ICA deposit in tax pooling account
 
 **Credit**

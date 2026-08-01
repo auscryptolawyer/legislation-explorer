@@ -8,7 +8,6 @@ section_title: Associated persons: company rule modified
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DG 6  Associated persons: company rule modified
 
 Despite section YB 3(1) (Company and person other than company), for the purposes of this subpart, a company and a person other than a company are associated persons if—

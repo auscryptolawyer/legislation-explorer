@@ -5,7 +5,6 @@ section: "1-280-alienation-of-personal-services-income"
 title: "1-280 - Alienation of personal services income"
 paragraph: "None"
 ---
-
 # 1-280 - Alienation of personal services income
 
 Worked example: Alienation of personal services income Issue Robert Richmond was employed by Roads North Ltd (RN) as an engineer to assist in the development of a major road infrastructure project. In July 2024, Robert’s employment was terminated, and he was subsequently re-engaged as an independent contractor.

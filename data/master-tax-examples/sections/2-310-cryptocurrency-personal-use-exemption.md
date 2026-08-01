@@ -5,7 +5,6 @@ section: "2-310-cryptocurrency-personal-use-exemption"
 title: "2-310 - Cryptocurrency personal use exemption"
 paragraph: "None"
 ---
-
 # 2-310 - Cryptocurrency personal use exemption
 
 Worked example: Cryptocurrency: personal use exemption Issue Donald Drake has been a long-term investor in shares and has a range of holdings in various public companies in a balanced portfolio of high- and low-risk investments. Some of his holdings are income producing and some not, and he adjusts his portfolio frequently on the advice of his adviser.

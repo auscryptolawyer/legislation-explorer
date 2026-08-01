@@ -5,7 +5,6 @@ section: "choosing-recipients-of-diverted-income"
 title: "Choosing recipients of diverted income"
 paragraph: "¶31-500"
 ---
-
 # Choosing recipients of diverted income ¶31-500
 
 The choice of an appropriate recipient (or recipients) for income diverted from a high rate taxpayer by one of the means already discussed will depend on the circumstances of each case, and opportunities available to some taxpayers will be denied to others. That choice may well call for as much skill and judgment on the part of the tax planner as the method of achieving the income diversion itself. Matters to be considered include comparative costs, the possibility of legislative changes, estate planning implications, the degree of sophistication of the taxpayer and their appreciation of legal principles and general understanding of the nature of the vehicle(s) that might be used.

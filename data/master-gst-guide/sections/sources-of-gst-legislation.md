@@ -5,7 +5,6 @@ section: "sources-of-gst-legislation"
 title: "Sources of GST legislation"
 paragraph: "¶1-300"
 ---
-
 # Sources of GST legislation ¶1-300
 
 The main GST legislation is the A New Tax System (Goods and Services Tax) Act 1999, colloquially know as the “GST Act”. In this book, all section references are to this Act, unless otherwise stated.

@@ -8,7 +8,6 @@ section_title: Classes of mutual transaction
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HE 2  Classes of mutual transaction
 
 **When mutual transactions arise**

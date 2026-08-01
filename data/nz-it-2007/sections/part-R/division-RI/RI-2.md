@@ -8,7 +8,6 @@ section_title: Withholding tax on assessable withdrawal amounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RI 2  Withholding tax on assessable withdrawal amounts
 
 **When this subpart applies**

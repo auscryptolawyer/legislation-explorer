@@ -5,7 +5,6 @@ section: "non-share-distributions"
 title: "Non-share distributions"
 paragraph: "¶23-125"
 ---
-
 # Non-share distributions ¶23-125
 
 A company makes a “non-share distribution” to a person if the person holds a non-share equity interest in the company and the company distributes money or other property, or credits an amount, to that person as the holder of the interest. A non-share distribution is characterised as: (a) a “non-share dividend”; and/or (b) a “non-share capital return”. Such distributions are not deductible (¶23-115).

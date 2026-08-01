@@ -5,7 +5,6 @@ section: "operation-of-the-shasa"
 title: "Operation of the SHASA"
 paragraph: "¶39-650"
 ---
-
 # Operation of the SHASA ¶39-650
 
 The SHASA is constituted under the Small Superannuation Accounts Act 1995 (SSA Act) which is administered by the ATO.

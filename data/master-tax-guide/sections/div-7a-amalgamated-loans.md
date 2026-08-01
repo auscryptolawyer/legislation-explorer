@@ -5,7 +5,6 @@ section: "div-7a-amalgamated-loans"
 title: "Div 7A amalgamated loans"
 paragraph: "¶4-240"
 ---
-
 # Div 7A amalgamated loans ¶4-240
 
 Where a private company makes one or more loans to an entity during an income year, each of which: (a) has the same maximum term; (b) would, apart from s 109N, be treated as a Div 7A dividend in that year; and (c) is not fully repaid before the company’s lodgment day for that year (s 109E(3)), the loans are brought together at the end of the year to form a single “amalgamated loan”. The amalgamated loan is taken to have been made in the income year in which the loan(s) were in fact made (ID 2012/61). This means that there can be up to 2 amalgamated loans for each year, comprised of constituent loans that meet the criteria mentioned above for: (a) a maximum term of 7 years; or (b) a maximum term of 25 years.

@@ -8,7 +8,6 @@ section_title: Credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OA 5  Credits
 
 **What this section does**

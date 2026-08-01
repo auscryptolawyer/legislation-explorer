@@ -8,7 +8,6 @@ section_title: Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Colle
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 40E  Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025 asset management company
 
 **Exempt income**

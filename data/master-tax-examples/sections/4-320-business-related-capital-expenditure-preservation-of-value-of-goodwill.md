@@ -5,7 +5,6 @@ section: "4-320-business-related-capital-expenditure-preservation-of-value-of-go
 title: "4-320 - Business-related capital expenditure preservation of value of goodwill"
 paragraph: "None"
 ---
-
 # 4-320 - Business-related capital expenditure preservation of value of goodwill
 
 Worked example: Business-related capital expenditure; preservation of value of goodwill Issue Fernando Torres and Louise Baker carried on a business together in partnership in Mosman, NSW. The partnership — Pets R Us — provided dog washing services. Fernando decided to leave the partnership and start his own dog washing business as a sole trader.

@@ -8,7 +8,6 @@ section_title: Length of spreading period
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 20C  Length of spreading period
 
 **When this section applies**

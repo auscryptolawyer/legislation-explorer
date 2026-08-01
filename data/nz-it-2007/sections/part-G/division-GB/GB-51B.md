@@ -8,7 +8,6 @@ section_title: Increases or decreases in value
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 51B  Increases or decreases in value
 
 **When this section applies**

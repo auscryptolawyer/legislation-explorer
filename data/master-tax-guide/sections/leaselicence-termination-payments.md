@@ -5,7 +5,6 @@ section: "leaselicence-termination-payments"
 title: "Lease/licence termination payments"
 paragraph: "¶16-159"
 ---
-
 # Lease/licence termination payments ¶16-159
 
 Lease surrender payments made by a lessee are generally of a capital nature, except where the lessee carries on a business of entering into and surrendering leases (TR 2005/6). Similarly, lease surrender payments made by a lessor are generally not deductible under s 8-1, even though the payment is made in order to re-let the property at a higher rent (such expenditure may form part of the cost base of an asset for the purposes of the CGT rules: ¶11-550). However, such payments may be deductible if the lessor carries on a business that involves granting and surrendering leases as a normal incident of it, or that involves incurring recurrent outlays to obtain lease surrenders as part of the constant demand of its business which have to be met out of circulating capital (TR 2005/6).

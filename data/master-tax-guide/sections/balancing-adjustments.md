@@ -5,7 +5,6 @@ section: "balancing-adjustments"
 title: "balancing adjustments"
 paragraph: "¶20-180"
 ---
-
 # balancing adjustments ¶20-180
 
 Where an R&D entity is entitled to an R&D tax oﬀset that is greater than their company tax rate, there are 3 clawback events and one catch up deduction event that can further change the tax payable by the taxpayer.

@@ -5,7 +5,6 @@ section: "conduct-and-management-of-an-audit"
 title: "Conduct and management of an audit"
 paragraph: "¶18-190"
 ---
-
 # Conduct and management of an audit ¶18-190
 
 Typically, an audit begins when the taxpayer receives notice from the ATO of its intention to carry out the audit. This may be followed by an initial interview and, later, by the actual investigation of the taxpayer’s records and processes, including interviews with staff. Where matters may be contentious, formal statutory notices may be issued requiring information to be produced (¶18-110) or access granted (¶18-120), although the Commissioner is often keen to keep matters informal or “consultative” (¶18-165).

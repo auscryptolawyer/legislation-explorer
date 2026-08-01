@@ -5,7 +5,6 @@ section: "location-oﬀset"
 title: "Location oﬀset"
 paragraph: "¶20-350"
 ---
-
 # Location oﬀset ¶20-350
 
 The location oﬀset (ITAA97 ss 376-10 to 376-30) is available for an income year in respect of a ﬁlm where:

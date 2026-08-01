@@ -5,7 +5,6 @@ section: "lease-assignments"
 title: "Lease assignments"
 paragraph: "¶23-230"
 ---
-
 # Lease assignments ¶23-230
 
 Division 45 provides speciﬁc rules to prevent the avoidance of tax in connection with assignments and disposals of leased plant. The TOFA regime in Div 230 does not apply to lease assignments and disposals.

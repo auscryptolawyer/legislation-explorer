@@ -5,7 +5,6 @@ section: "balancing-adjustment-roll-over-relief"
 title: "Balancing adjustment roll-over relief"
 paragraph: "¶17-710"
 ---
-
 # Balancing adjustment roll-over relief ¶17-710
 
 Balancing adjustments arising from changes in ownership interests in depreciating assets (¶17-630) may be rolled over in certain circumstances under ITAA97 s 40-340. The consequences of roll-over relief are that (ITAA97 s 40-345):

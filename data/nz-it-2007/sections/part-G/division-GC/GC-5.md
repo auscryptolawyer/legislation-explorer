@@ -8,7 +8,6 @@ section_title: Leases for inadequate rent
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GC 5  Leases for inadequate rent
 
 **When this section applies**

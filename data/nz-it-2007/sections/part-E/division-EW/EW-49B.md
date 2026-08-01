@@ -8,7 +8,6 @@ section_title: Guarantees for associated persons
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 49B  Guarantees for associated persons
 
 **When this section applies**

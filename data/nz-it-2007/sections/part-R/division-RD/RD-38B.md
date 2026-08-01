@@ -8,7 +8,6 @@ section_title: Gift cards
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RD 38B  Gift cards
 
 The value of a benefit that an employer provides to their employee by way of a gift card is the amount loaded on the card.

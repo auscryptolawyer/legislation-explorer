@@ -5,7 +5,6 @@ section: "easements-restrictive-covenants-and-options"
 title: "Easements, restrictive covenants and options"
 paragraph: "¶11-068"
 ---
-
 # Easements, restrictive covenants and options ¶11-068
 
 For GST purposes, the granting of an easement or restrictive covenant affecting land is a “supply” of a real property interest or right. Provided that the land is in Australia, GST may therefore apply if the grantor is registered (or required to be registered), there is consideration, and the grant is made as part of an enterprise carried on by the grantor (¶4-000).

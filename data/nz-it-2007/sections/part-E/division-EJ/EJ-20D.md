@@ -8,7 +8,6 @@ section_title: Measurement of assumed life of mine and application to rate
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 20D  Measurement of assumed life of mine and application to rate
 
 **When this section applies**

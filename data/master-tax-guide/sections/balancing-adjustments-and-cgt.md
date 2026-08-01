@@ -5,7 +5,6 @@ section: "balancing-adjustments-and-cgt"
 title: "Balancing adjustments and CGT"
 paragraph: "¶17-670"
 ---
-
 # Balancing adjustments and CGT ¶17-670
 
 Whether a balancing adjustment event for a depreciating asset held by a taxpayer triggers a balancing adjustment amount (¶17-630), a capital gain/loss (¶11-000), or both, depends on the extent of the use of the asset for “taxable purposes” (¶17-010) or, for certain taxpayers, as a second-hand asset in a residential rental property (¶17-012).

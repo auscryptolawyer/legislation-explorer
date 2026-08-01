@@ -8,7 +8,6 @@ section_title: Spreading forward of deductions for repairs to fishing boats
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 2  Spreading forward of deductions for repairs to fishing boats
 
 **When this section applies: generally**

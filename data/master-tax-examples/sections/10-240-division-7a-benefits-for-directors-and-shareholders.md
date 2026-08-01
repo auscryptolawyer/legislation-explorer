@@ -5,7 +5,6 @@ section: "10-240-division-7a-benefits-for-directors-and-shareholders"
 title: "10-240 - Division 7A benefits for directors and shareholders"
 paragraph: "None"
 ---
-
 # 10-240 - Division 7A benefits for directors and shareholders
 
 Worked example: Division 7A; benefits for directors and shareholders Issue PrivateCo Pty Ltd (PrivateCo) is a private company for income tax purposes. On 31 January 2025, in the 2024–25 tax year, PrivateCo paid $5,000 to a travel agent for an overseas holiday for Simon Weston and his family. At the same time, it also made an interest-free, at-call loan of $20,000 to Angelina Greenwald. Simon and Angelina are directors and shareholders of PrivateCo.

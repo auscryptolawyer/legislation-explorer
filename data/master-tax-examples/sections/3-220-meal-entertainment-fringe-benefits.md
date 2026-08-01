@@ -5,7 +5,6 @@ section: "3-220-meal-entertainment-fringe-benefits"
 title: "3-220 - Meal entertainment fringe benefits"
 paragraph: "None"
 ---
-
 # 3-220 - Meal entertainment fringe benefits
 
 Worked example: Meal entertainment fringe benefits Issue ABC Finance Co leased a corporate box at the Brisbane Cricket Ground for $150,000 during the 2024–25 FBT year. This cost included advertising of $60,000 which entitled the company logo to be displayed on the corporate box at all times during entertainment events including displays on the electronic perimeter ring.

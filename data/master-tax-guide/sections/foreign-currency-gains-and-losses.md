@@ -5,7 +5,6 @@ section: "foreign-currency-gains-and-losses"
 title: "Foreign currency gains and losses"
 paragraph: "¶23-075"
 ---
-
 # Foreign currency gains and losses ¶23-075
 
 The TOFA regime in Div 230 applies in priority to the “forex rules” in Div 775. Accordingly, Div 775 will only apply to determine the tax treatment of foreign exchange gains and losses where Div 230 does not apply, eg in the case of individuals and entities not automatically subject to Div 230 (¶23-025).

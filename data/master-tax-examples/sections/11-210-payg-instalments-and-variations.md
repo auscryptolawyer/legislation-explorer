@@ -5,7 +5,6 @@ section: "11-210-payg-instalments-and-variations"
 title: "11-210 - PAYG Instalments and variations"
 paragraph: "None"
 ---
-
 # 11-210 - PAYG Instalments and variations
 
 Worked example: PAYG Instalments and variations Issue Andrew Davies runs a small business from home, buying and selling items on Ebay. The business is a supplement to his income from teaching. For the year ended 30 June 2025, the ATO estimated that his quarterly PAYG instalment amount is $4,000.

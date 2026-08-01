@@ -8,7 +8,6 @@ section_title: Excluded income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MA 3  Excluded income
 
 A tax credit that a person has under this Part is excluded income of the person.

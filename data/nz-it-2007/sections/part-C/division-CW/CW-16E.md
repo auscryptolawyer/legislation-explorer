@@ -8,7 +8,6 @@ section_title: Accommodation expenditure: new employees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 16E  Accommodation expenditure: new employees
 
 Despite section CW 16B(2)﻿(b), section CW 16B applies to a new employee in the following circumstances:

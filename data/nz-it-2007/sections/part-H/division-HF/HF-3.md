@@ -8,7 +8,6 @@ section_title: Applying provisions to Maori authorities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HF 3  Applying provisions to Maori authorities
 
 **Relationship with provisions generally**

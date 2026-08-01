@@ -8,7 +8,6 @@ section_title: MACA reversal of tax advantage arrangement
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OK 9  MACA reversal of tax advantage arrangement
 
 **When this section applies**

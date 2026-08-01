@@ -5,7 +5,6 @@ section: "legal-services-fees-and-disbursements"
 title: "Legal services, fees and disbursements"
 paragraph: "¶17-425"
 ---
-
 # Legal services, fees and disbursements ¶17-425
 
 Solicitors’ and barristers’ services are normally subject to GST, in the same way as other supplies.

@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8WAE  Incorrectly keeping records using electronic sales suppression tools
 
 <a id="s8WAE-1"></a>

@@ -8,7 +8,6 @@ section_title: Entering partners’ cost base
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 26B  Entering partners’ cost base
 
 **When this section applies**

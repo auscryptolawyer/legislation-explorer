@@ -8,7 +8,6 @@ section_title: Calculation of amount of credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LK 2  Calculation of amount of credit
 
 **Amount of credit**

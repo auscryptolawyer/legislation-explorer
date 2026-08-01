@@ -5,7 +5,6 @@ section: "transfer-pricing-201314-and-later"
 title: "Transfer pricing: 2013–14 and later"
 paragraph: "¶22-600"
 ---
-
 # Transfer pricing: 2013–14 and later ¶22-600
 
 For income years starting on or after 29 June 2013, the transfer pricing rules are contained mainly in:

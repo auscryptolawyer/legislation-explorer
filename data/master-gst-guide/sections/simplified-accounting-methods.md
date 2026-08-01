@@ -5,7 +5,6 @@ section: "simplified-accounting-methods"
 title: "Simplified accounting methods"
 paragraph: "¶15-060"
 ---
-
 # Simplified accounting methods ¶15-060
 
 Charities may well find themselves in the position of making some retail supplies that are taxable and some that are GST-free. (Retail supplies are those that are made to people who buy the goods for private or domestic use or consumption). As charities tend to be high-volume, low-value item businesses, it may be difficult for them to identify the GST status of each sale. To assist them in this, the Commissioner may issue special determinations that allow specified types of retailers to use a simplified method of accounting (s 123-5).

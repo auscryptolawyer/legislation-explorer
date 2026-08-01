@@ -5,7 +5,6 @@ section: "joint-ventures"
 title: "Joint ventures"
 paragraph: "¶17-200"
 ---
-
 # Joint ventures ¶17-200
 
 Sometimes companies or other entities operate together in joint ventures that do not involve any merger of structures or common ownership.

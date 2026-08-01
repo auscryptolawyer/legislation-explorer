@@ -5,7 +5,6 @@ section: "7-480-medicare-levy-exemption-for-lump-sum-payments"
 title: "7-480 - Medicare levy exemption for lump sum payments"
 paragraph: "None"
 ---
-
 # 7-480 - Medicare levy exemption for lump sum payments
 
 Worked example: Medicare levy exemption for lump sum payments Issue Miranda is currently a stay-at-home mother, living in the eastern suburbs of Sydney. Her only current source of taxable income is from running a small online homewares business, from which she has earned net assessable income of just $15,000 during the year ended 30 June 2025.

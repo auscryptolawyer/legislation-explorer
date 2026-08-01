@@ -5,7 +5,6 @@ section: "9-180-family-group-family-trust-election-interposed-entity-election"
 title: "9-180 - Family group family trust election interposed entity election"
 paragraph: "None"
 ---
-
 # 9-180 - Family group family trust election interposed entity election
 
 Worked example: Family group; family trust election; interposed entity election Issue The Axle discretionary trust wishes to make a family trust election for the 2024–25 income year. The “test individual” chosen is Alicia Owens. Alicia has the following family members and related entities which are potential beneficiaries of the trust:

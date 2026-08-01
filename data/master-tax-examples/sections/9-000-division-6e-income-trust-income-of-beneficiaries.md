@@ -5,7 +5,6 @@ section: "9-000-division-6e-income-trust-income-of-beneficiaries"
 title: "9-000 - Division 6E income trust income of beneficiaries"
 paragraph: "None"
 ---
-
 # 9-000 - Division 6E income trust income of beneficiaries
 
 Worked example: Division 6E income; trust income of beneficiaries Issue In the 2024–25 tax year, the Telex Family Trust earned the following trust income: $ Trading profits                                                                                                                 300,000 Franked dividends                                                                                                               210,000 Capital gain (discountable)                                                                                                     500,000 Trust income                                                                                                                1,010,000 The trust has a carried forward capital loss of $90,000 from 2021–22.

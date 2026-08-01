@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 8AAZA  Definitions
 
 In this Part, unless the contrary intention appears: company includes any body or association (whether or not it is incorporated), but does not include a partnership or a non-entity joint venture. compulsory AASL repayment amount has the same meaning as in the Australian Apprenticeship Support Loans Act 2014. compulsory ABSTUDY SSL repayment amount has the same meaning as in the Student Assistance Act 1973. compulsory repayment amount has the same meaning as in the Higher Education Support Act 2003. compulsory SSL repayment amount has the same meaning as in Chapter 2AA of the Social Security Act 1991. compulsory VETSL repayment amount has the same meaning as in the VET Student Loans Act 2016. credit includes:

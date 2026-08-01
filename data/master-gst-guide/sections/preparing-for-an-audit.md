@@ -5,7 +5,6 @@ section: "preparing-for-an-audit"
 title: "Preparing for an audit"
 paragraph: "¶18-185"
 ---
-
 # Preparing for an audit ¶18-185
 
 Early identification of relevant issues and common errors (¶18-170; ¶18-180) should help ensure that any subsequent compliance activity by the ATO causes as little disruption as possible.

@@ -5,7 +5,6 @@ section: "what-cgt-records-must-be-kept"
 title: "What CGT records must be kept?"
 paragraph: "¶11-920"
 ---
-
 # What CGT records must be kept? ¶11-920
 
 Taxpayers must keep records of matters that aﬀect the capital gains and losses that they make. More speciﬁcally, taxpayers must keep records of every act, transaction, event or circumstance that can reasonably be expected to be relevant to working out whether they have made a capital gain or loss from a CGT event (s 121-20). For examples of the types of records that must be kept, see the tax records checklist at ¶44-100.

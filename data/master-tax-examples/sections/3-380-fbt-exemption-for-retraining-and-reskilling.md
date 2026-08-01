@@ -5,7 +5,6 @@ section: "3-380-fbt-exemption-for-retraining-and-reskilling"
 title: "3-380 - FBT exemption for retraining and reskilling"
 paragraph: "None"
 ---
-
 # 3-380 - FBT exemption for retraining and reskilling
 
 Worked Example: FBT exemption for retraining and reskilling Issue Ruby Pty Ltd (Ruby) is a company based in Australia, with retail stores selling office supplies and stationery across Australia.

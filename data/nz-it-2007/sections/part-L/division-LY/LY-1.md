@@ -8,7 +8,6 @@ section_title: Research and development tax credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LY 1  Research and development tax credits
 
 **Purpose**

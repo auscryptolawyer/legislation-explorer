@@ -5,7 +5,6 @@ section: "equity-interests"
 title: "Equity interests"
 paragraph: "¶23-115"
 ---
-
 # Equity interests ¶23-115
 
 Equity interest The meaning of “equity interest” is provided by ITAA97 Subdiv 974-C. A scheme gives rise to an equity interest in a company, when the scheme comes into existence, if it:

@@ -5,7 +5,6 @@ section: "2-120-timing-of-cgt-events"
 title: "2-120 - Timing of CGT events"
 paragraph: "None"
 ---
-
 # 2-120 - Timing of CGT events
 
 Worked example: Timing of CGT events Issue Harrison Carter, an Australian resident, seeks advice on the CGT consequences of the following events. 1. He exchanged contracts for the acquisition of an investment property, at market value, on 24 January 1999, paying a 10% deposit of $80,000. Property settlement was deferred until 5 December 2001, when the balance of $720,000 was paid, title transferred, and his name was recorded as the registered proprietor. At the time of settlement, the market value of the property was $1 million. He sold the property on 14 July 2023 for $1.3 million. 2. He acquired 10,000 shares in Star Entertainment Ltd in October 1985, paying $4 per share. He decided to sell his entire shareholding for $12 per share, and he signed a share transfer document and handed the transfer and share script to the Stock Exchange on 20 June 2024. The transfer was not registered with Star Entertainment Ltd until 10 July 2024. 3. He incurred a capital loss in 2024–25 amounting to $65,000.

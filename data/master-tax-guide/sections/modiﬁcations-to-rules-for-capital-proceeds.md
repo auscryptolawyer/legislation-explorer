@@ -5,7 +5,6 @@ section: "modiﬁcations-to-rules-for-capital-proceeds"
 title: "Modiﬁcations to rules for capital proceeds"
 paragraph: "¶11-510"
 ---
-
 # Modiﬁcations to rules for capital proceeds ¶11-510
 
 There are 6 modiﬁcations to the general capital proceeds rules that may be relevant to a CGT event. A table in s 116-25 sets out the CGT event for which the general rules about capital proceeds are relevant, the modiﬁcations that can apply to that event and the special rules (if any) that apply to that event. CGT events not referred to in the table have capital gains and losses worked out without reference to capital proceeds.

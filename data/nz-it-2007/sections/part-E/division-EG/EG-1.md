@@ -8,7 +8,6 @@ section_title: Election to use balance date used in foreign country
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EG 1  Election to use balance date used in foreign country
 
 **When this section applies**

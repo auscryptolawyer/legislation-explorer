@@ -5,7 +5,6 @@ section: "tax-incentives-and-integrity-bill"
 title: "Tax incentives and integrity Bill"
 paragraph: "¶41-250"
 ---
-
 # Tax incentives and integrity Bill ¶41-250
 
 The Treasury Laws Amendment (Tax Incentives and Integrity) Bill 2024 (the Bill) was introduced into the House of Representatives on 28 November 2024.

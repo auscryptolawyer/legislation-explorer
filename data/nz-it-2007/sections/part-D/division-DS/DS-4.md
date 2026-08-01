@@ -8,7 +8,6 @@ section_title: Meaning of film reimbursement scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DS 4  Meaning of film reimbursement scheme
 
 **Meaning**

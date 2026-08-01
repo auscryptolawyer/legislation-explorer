@@ -5,7 +5,6 @@ section: "motor-vehicles-checklist"
 title: "Motor vehicles checklist"
 paragraph: "¶44-110"
 ---
-
 # Motor vehicles checklist ¶44-110
 
 - Under a simple lease, the lessor is assessable on the lease payments and can claim depreciation

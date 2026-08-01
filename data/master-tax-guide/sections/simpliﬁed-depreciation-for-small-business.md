@@ -5,7 +5,6 @@ section: "simpliﬁed-depreciation-for-small-business"
 title: "Simpliﬁed depreciation for small business"
 paragraph: "¶7-250"
 ---
-
 # Simpliﬁed depreciation for small business ¶7-250
 
 Small business entities can choose to deduct amounts for most of their depreciating assets under a special depreciation regime (“small business depreciation”).

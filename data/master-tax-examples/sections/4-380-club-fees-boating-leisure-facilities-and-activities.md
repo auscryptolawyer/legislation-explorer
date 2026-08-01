@@ -5,7 +5,6 @@ section: "4-380-club-fees-boating-leisure-facilities-and-activities"
 title: "4-380 - Club fees boating leisure facilities and activities"
 paragraph: "None"
 ---
-
 # 4-380 - Club fees boating leisure facilities and activities
 
 Worked example: Club fees; boating; leisure facilities and activities Issue The Southern Ocean Yacht Club Pty Ltd (SOYC) owns and operates club premises, which provide food, drink, entertainment and car parking for members and guests. The club is managed by Mitch Walker, who receives an annual salary package comprised of:

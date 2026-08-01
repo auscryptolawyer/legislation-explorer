@@ -8,7 +8,6 @@ section_title: Relationship of financial arrangements rules with other provision
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 2  Relationship of financial arrangements rules with other provisions
 
 **Financial arrangements rules override other provisions**

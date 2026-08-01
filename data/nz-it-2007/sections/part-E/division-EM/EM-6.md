@@ -8,7 +8,6 @@ section_title: Income and expenditure for fair dividend rate hedge portions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EM 6  Income and expenditure for fair dividend rate hedge portions
 
 **Using the formula to calculate income and expenditure**

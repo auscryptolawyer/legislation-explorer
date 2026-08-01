@@ -8,7 +8,6 @@ section_title: Credits for person aged 18
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MC 9  Credits for person aged 18
 
 **For person aged 18**

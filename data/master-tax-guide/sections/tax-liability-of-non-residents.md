@@ -5,7 +5,6 @@ section: "tax-liability-of-non-residents"
 title: "Tax liability of non-residents"
 paragraph: "¶22-000"
 ---
-
 # Tax liability of non-residents ¶22-000
 
 residents The primary rules governing the taxation of non-residents provide that non-residents are: (a) liable to Australian tax on all items of ordinary or statutory income which have their source in Australia; and (b) exempt from Australian tax on foreign source ordinary or statutory income (ITAA97 ss 6-5(3); 6-10(5)).

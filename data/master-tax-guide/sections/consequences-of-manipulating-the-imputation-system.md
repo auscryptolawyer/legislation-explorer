@@ -5,7 +5,6 @@ section: "consequences-of-manipulating-the-imputation-system"
 title: "Consequences of manipulating the imputation system"
 paragraph: "¶4-920"
 ---
-
 # Consequences of manipulating the imputation system ¶4-920
 
 Certain consequences of manipulating the imputation system are set out in ITAA97 Subdiv 207-F (ss 207-145 to 207-160). Where the relevant provisions apply, there is no gross-up of the entity’s assessable income to include the relevant franking credit, and any tax oﬀset to which the entity would otherwise have been entitled as a result of the distribution is denied. Adjustments to give eﬀect to Subdiv 207-F are excluded from the 2-year time limit for amended assessments (¶25-320).

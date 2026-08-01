@@ -8,7 +8,6 @@ section_title: Amounts derived from business
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 1  Amounts derived from business
 
 **Income**

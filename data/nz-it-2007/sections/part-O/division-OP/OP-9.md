@@ -8,7 +8,6 @@ section_title: Consolidated ICA transfer from tax pooling account
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 9  Consolidated ICA transfer from tax pooling account
 
 **Credit**

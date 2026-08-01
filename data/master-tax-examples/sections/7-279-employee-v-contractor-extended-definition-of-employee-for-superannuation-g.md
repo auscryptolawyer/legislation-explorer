@@ -5,7 +5,6 @@ section: "7-279-employee-v-contractor-extended-definition-of-employee-for-supera
 title: "7-279 - Employee v contractor Extended definition of employee for superannuation guarantee purposes"
 paragraph: "None"
 ---
-
 # 7-279 - Employee v contractor Extended definition of employee for superannuation guarantee purposes
 
 purposes Worked example: Employee v contractor: Extended definition of employee for superannuation guarantee purposes Issue Jules Wilson was engaged as a cleaner by Big Dog Pty Ltd. She was hired to clean Big Dog’s office premises 5 days a week, starting at 7 pm Monday to Friday, for 4 hours a day. The engagement was on the basis that she was a contractor and no provision was made for superannuation guarantee payments.

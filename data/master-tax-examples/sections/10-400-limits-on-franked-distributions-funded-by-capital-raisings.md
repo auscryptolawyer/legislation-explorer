@@ -5,7 +5,6 @@ section: "10-400-limits-on-franked-distributions-funded-by-capital-raisings"
 title: "10-400 - Limits on franked distributions funded by capital raisings"
 paragraph: "None"
 ---
-
 # 10-400 - Limits on franked distributions funded by capital raisings
 
 Worked example: Limits on franked distributions funded by capital raisings Issue On 31 March 2025, Hades Ltd raised $10 million of new capital from shareholders via a share issue.

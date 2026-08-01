@@ -8,7 +8,6 @@ section_title: Person deriving pension from foreign superannuation scheme and re
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 32G  Person deriving pension from foreign superannuation scheme and returning as income before 1 April 2014
 
 **When this section applies**

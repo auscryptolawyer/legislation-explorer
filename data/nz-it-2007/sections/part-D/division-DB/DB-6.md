@@ -8,7 +8,6 @@ section_title: Interest: not capital expenditure
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 6  Interest: not capital expenditure
 
 **Deduction**

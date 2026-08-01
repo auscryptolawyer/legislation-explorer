@@ -8,7 +8,6 @@ section_title: Transfers of trading stock within wholly-owned groups
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EB 5  Transfers of trading stock within wholly-owned groups
 
 **When this section applies**

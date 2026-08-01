@@ -5,7 +5,6 @@ section: "unused-leave-payments"
 title: "Unused leave payments"
 paragraph: "¶42-305"
 ---
-
 # Unused leave payments ¶42-305
 
 A lump sum payment to a taxpayer in lieu of unused annual leave (¶14-720) or unused long service leave (¶14-730) in consequence of termination of employment may receive concessional tax treatment: Unused annual leave payments Unused annual leave — period of accrual                                                               Assessable portion            Maximum tax rate

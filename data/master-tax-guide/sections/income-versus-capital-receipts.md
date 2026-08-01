@@ -5,7 +5,6 @@ section: "income-versus-capital-receipts"
 title: "Income versus capital receipts"
 paragraph: "¶10-020"
 ---
-
 # Income versus capital receipts ¶10-020
 
 Not every receipt is ordinary income in the recipient’s hands. Capital gains are not ordinary income and thus are not assessable under ITAA97 s 6-5 (although they may be assessable as statutory income under another provision). This fundamental distinction between ordinary income and capital gains remains important because:

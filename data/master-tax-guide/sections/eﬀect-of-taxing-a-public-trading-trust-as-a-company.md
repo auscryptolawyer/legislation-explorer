@@ -5,7 +5,6 @@ section: "eﬀect-of-taxing-a-public-trading-trust-as-a-company"
 title: "Eﬀect of taxing a public trading trust as a company"
 paragraph: "¶6-330"
 ---
-
 # Eﬀect of taxing a public trading trust as a company ¶6-330
 
 The consequences of treating a public unit trust as a company are listed below.

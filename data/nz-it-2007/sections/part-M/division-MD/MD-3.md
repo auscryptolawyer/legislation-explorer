@@ -8,7 +8,6 @@ section_title: Calculation of family tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MD 3  Calculation of family tax credit
 
 **Entitlement**

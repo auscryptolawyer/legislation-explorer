@@ -5,7 +5,6 @@ section: "non-taxable-and-gst-free-supplies"
 title: "Non-taxable and GST-free supplies"
 paragraph: "¶1-160"
 ---
-
 # Non-taxable and GST-free supplies ¶1-160
 
 - supplies outside the GST system

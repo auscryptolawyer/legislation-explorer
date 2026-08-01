@@ -8,7 +8,6 @@ section_title: Saving of binding rulings
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # ZA 4  Saving of binding rulings
 
 **When, and extent to which, this section applies**

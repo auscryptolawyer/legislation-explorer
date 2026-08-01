@@ -8,7 +8,6 @@ section_title: Exception: overseas accommodation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 1C  Exception: overseas accommodation
 
 **Relevant local rental**

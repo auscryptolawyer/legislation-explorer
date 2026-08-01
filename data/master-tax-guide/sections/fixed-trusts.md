@@ -5,7 +5,6 @@ section: "fixed-trusts"
 title: "Fixed trusts"
 paragraph: "¶6-263"
 ---
-
 # Fixed trusts ¶6-263
 
 A ﬁxed trust is a trust where all of the income and capital of the trust is the subject of ﬁxed entitlements (whether held by a natural person, company, trustee or partners in a partnership) (sch 2F s 272-65). Thus, a discretionary trust is not a ﬁxed trust.

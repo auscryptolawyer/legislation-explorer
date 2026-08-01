@@ -8,7 +8,6 @@ section_title: RSCT rules and their application
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RH 1  RSCT rules and their application
 
 **Meaning**

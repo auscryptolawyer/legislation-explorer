@@ -8,7 +8,6 @@ section_title: Certain disposals of trading stock at below market value
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GC 1  Certain disposals of trading stock at below market value
 
 **When this section applies**

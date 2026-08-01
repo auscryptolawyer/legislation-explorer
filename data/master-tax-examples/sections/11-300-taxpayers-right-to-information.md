@@ -5,7 +5,6 @@ section: "11-300-taxpayers-right-to-information"
 title: "11-300 - Taxpayers right to information"
 paragraph: "None"
 ---
-
 # 11-300 - Taxpayers right to information
 
 Worked example: Taxpayer’s right to information Issue Sayed Pont, an engineer, received a notice of assessment for the 2023–24 income year on 11 December 2024. In assessing Sayed, the ATO disallowed various deduction claims and imposed penalty tax for failing to take reasonable care.

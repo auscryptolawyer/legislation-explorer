@@ -5,7 +5,6 @@ section: "other-agreements-enabling-international-cooperation"
 title: "Other agreements enabling international cooperation"
 paragraph: "¶22-165"
 ---
-
 # Other agreements enabling international cooperation ¶22-165
 
 Double taxation agreements (DTAs) typically include provisions enabling the exchange of information between the participating countries.

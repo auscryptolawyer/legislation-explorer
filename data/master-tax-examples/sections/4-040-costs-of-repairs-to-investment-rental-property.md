@@ -5,7 +5,6 @@ section: "4-040-costs-of-repairs-to-investment-rental-property"
 title: "4-040 - Costs of repairs to investment rental property"
 paragraph: "None"
 ---
-
 # 4-040 - Costs of repairs to investment rental property
 
 Worked example: Costs of repairs to investment rental property Issue Cecil Jackson purchased a home unit in Brisbane in December 2021 with the intention of renting it out as an investment property. At that time, he undertook some repairs to ensure that the property was suitable to be rented out. This included repainting some walls, replacing broken light fittings and repairing wardrobe doors in some of the bedrooms. The costs of the repairs were incurred shortly after acquisition and the property was tenanted by January 2022.

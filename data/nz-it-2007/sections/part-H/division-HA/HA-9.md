@@ -8,7 +8,6 @@ section_title: Limit on foreign non-dividend income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HA 9  Limit on foreign non-dividend income
 
 **Dollar limit**

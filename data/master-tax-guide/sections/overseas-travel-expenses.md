@@ -5,7 +5,6 @@ section: "overseas-travel-expenses"
 title: "Overseas travel expenses"
 paragraph: "¶16-270"
 ---
-
 # Overseas travel expenses ¶16-270
 
 The deductibility of overseas travelling expenses depends on the same principles as the deductibility of ordinary travelling expenses (ITAA97 s 8-1), whether the expenses are incurred, reimbursed or allowed for by an employer, or are incurred by an employee or self-employed person on their own account. For the Commissioner’s views on claiming travel expenses see TR 2021/1 and TR 2021/4.

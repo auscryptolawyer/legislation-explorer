@@ -8,7 +8,6 @@ section_title: Transfer of expenditure to master fund
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DV 2  Transfer of expenditure to master fund
 
 **When this section applies**

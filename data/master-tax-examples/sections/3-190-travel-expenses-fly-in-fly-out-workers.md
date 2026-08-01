@@ -5,7 +5,6 @@ section: "3-190-travel-expenses-fly-in-fly-out-workers"
 title: "3-190 - Travel expenses fly-in fly-out workers"
 paragraph: "None"
 ---
-
 # 3-190 - Travel expenses fly-in fly-out workers
 
 Worked example: Travel expenses: fly-in, fly-out workers Issue Patrick and Ian live next door to each other in suburban Perth. Patrick works on a fly-in, fly-out basis for Superstrong Engineering Pty Ltd overseeing equipment maintenance at a mine site in remote Western Australia. Ian also works on a fly-in, fly-out basis for Omega Minerals Pty Ltd at a different mine in Western Australia. Both work 20 days on and 7 days off.

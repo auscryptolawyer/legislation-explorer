@@ -5,7 +5,6 @@ section: "other-options-for-educational-institutions"
 title: "Other options for educational institutions"
 paragraph: "¶14-040"
 ---
-
 # Other options for educational institutions ¶14-040
 
 The ATO says that schools will be registered either at the level of the school, the Education Department, the Education Commission or the state government.

@@ -5,7 +5,6 @@ section: "review-by-tribunal"
 title: "Review by Tribunal"
 paragraph: "¶28-090"
 ---
-
 # Review by Tribunal ¶28-090
 
 An application for review by the ART of the Commissioner’s decision on an objection is generally heard by the Taxation and Business Division. Proceedings before the ART are governed by the ART Act, subject to various modiﬁcations which apply speciﬁcally to taxation reviews (TAA ss 14ZZA to 14ZZJ). It seems that the ART will not have jurisdiction to review an objection decision if the objection is itself invalid, eg because the original decision against which the objection was lodged was not adverse to the taxpayer (Case 21/94 94 ATC 222; [1994] AATA 133), or if the application for review predates the objection decision (Andres 2002 ATC 2183; [2002] AATA 821; cf Walters [2013] AATA 151).

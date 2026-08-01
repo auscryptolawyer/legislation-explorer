@@ -5,7 +5,6 @@ section: "tax-periods"
 title: "Tax periods"
 paragraph: "¶1-120"
 ---
-
 # Tax periods ¶1-120
 
 Your liability is worked out at the end of each of your tax periods. These periods are normally monthly or quarterly. Monthly tax periods must be used if:

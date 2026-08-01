@@ -5,7 +5,6 @@ section: "formation-of-joint-ventures"
 title: "Formation of joint ventures"
 paragraph: "¶17-210"
 ---
-
 # Formation of joint ventures ¶17-210
 
 Two or more entities may form a GST joint venture (s 51-5). To qualify, the venture must be for eligible purposes, and the entities must satisfy the participation requirements.

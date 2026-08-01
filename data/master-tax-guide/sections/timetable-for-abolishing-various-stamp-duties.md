@@ -5,7 +5,6 @@ section: "timetable-for-abolishing-various-stamp-duties"
 title: "Timetable for abolishing various stamp duties"
 paragraph: "¶37-060"
 ---
-
 # Timetable for abolishing various stamp duties ¶37-060
 
 As part of the arrangements for the introduction of the GST, all states and territories agreed to review the need for retention of a number of stamp duties by 2005 (¶1-110). The terms of this agreement are set out in the Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations (IGA) made in 1999.

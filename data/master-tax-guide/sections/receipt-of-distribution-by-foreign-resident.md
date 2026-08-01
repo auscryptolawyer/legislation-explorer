@@ -5,7 +5,6 @@ section: "receipt-of-distribution-by-foreign-resident"
 title: "Receipt of distribution by foreign resident"
 paragraph: "¶4-840"
 ---
-
 # Receipt of distribution by foreign resident ¶4-840
 
 If a member is a foreign resident, the tax eﬀects of receiving a distribution are dealt with under the withholding tax provisions of ITAA36 Pt III Div 11A (¶22-010) and under ITAA97 Subdiv 207-D. As a general rule:

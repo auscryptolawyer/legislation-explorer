@@ -8,7 +8,6 @@ section_title: Land contouring: no deduction
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DP 7  Land contouring: no deduction
 
 **No deduction**

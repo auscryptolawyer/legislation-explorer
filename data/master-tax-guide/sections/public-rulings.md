@@ -5,7 +5,6 @@ section: "public-rulings"
 title: "Public rulings"
 paragraph: "¶24-540"
 ---
-
 # Public rulings ¶24-540
 
 The Commissioner may make public rulings (including determinations) on the way in which a tax law applies to: (i) entities generally or to a class of entities; (ii) entities in relation to a class of schemes; or (iii) entities in relation to a particular scheme (TAA sch 1 s 358-5). The Commissioner can make public rulings on matters of administration, collection, ultimate conclusions of fact, risk management material, safe harbours, ABN matters and matters speciﬁc to a single entity.

@@ -5,7 +5,6 @@ section: "assets-exempt-from-cgt"
 title: "Assets exempt from CGT"
 paragraph: "¶11-640"
 ---
-
 # Assets exempt from CGT ¶11-640
 
 Cars and motor cycles A capital gain is exempt from CGT and a capital loss is disregarded if it is made in relation to a car, motor cycle or similar vehicle (s 118-5). A car is a motor vehicle (but does not include a motor cycle or similar vehicle) designed to carry a load of less than one tonne and less than 9 passengers (including the driver: Case J63 77 ATC 537). A motor vehicle is any motor-powered road vehicle (including a 4-wheel drive vehicle).

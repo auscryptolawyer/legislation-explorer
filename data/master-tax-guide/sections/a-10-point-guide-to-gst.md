@@ -5,7 +5,6 @@ section: "a-10-point-guide-to-gst"
 title: "A 10-point guide to GST"
 paragraph: "¶34-010"
 ---
-
 # A 10-point guide to GST ¶34-010
 
 Below is a 10-point simpliﬁed snapshot of how GST works. Each of these steps is explained later in this chapter. (1) GST liability. Liability for GST arises where a registered business makes taxable supplies to its customers. The GST is imposed at the rate of 10%. Typically, it is included in the price paid by the recipient of the goods and services. The supplier must account for the amount of GST to the ATO (¶34-105). (2) Getting credits for GST. If the recipient of goods or services is a registered business entity, it will normally be able to claim a credit for the amount of GST it has paid, provided it holds a tax invoice. This credit — called an input tax credit — is oﬀset against any GST on goods or services that the recipient supplies to its own customers (¶34-110, ¶34-140). (3) Burden on end-consumer. The net eﬀect is that registered business entities receive an amount representing GST but do not keep it, and pay GST but get a credit for it. This means that they act essentially as collecting agents for the tax. The ultimate burden of the tax falls on the private consumer of the goods and services, as this person gets no credit for the GST they pay (¶34-110). (4) Registration. Most business entities have to register for GST, although there are some exceptions.

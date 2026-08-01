@@ -8,7 +8,6 @@ section_title: Resale royalties
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CC 9B  Resale royalties
 
 **When this section applies**

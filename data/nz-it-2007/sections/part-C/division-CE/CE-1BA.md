@@ -8,7 +8,6 @@ section_title: Reimbursement of employee expenditure for benefit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CE 1BA  Reimbursement of employee expenditure for benefit
 
 **When this section applies**

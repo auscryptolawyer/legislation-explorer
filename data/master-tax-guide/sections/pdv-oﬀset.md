@@ -5,7 +5,6 @@ section: "pdv-oﬀset"
 title: "PDV oﬀset"
 paragraph: "¶20-360"
 ---
-
 # PDV oﬀset ¶20-360
 
 The PDV oﬀset (ITAA97 ss 376-35 to 376-50) is available for an income year in respect of the making of a ﬁlm where:

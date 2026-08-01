@@ -5,7 +5,6 @@ section: "special-rules-applying-to-associates"
 title: "Special rules applying to associates"
 paragraph: "¶17-500"
 ---
-
 # Special rules applying to associates ¶17-500
 
 Special rules apply if you make a supply to an associate below market value or as a gift (Div 72). These rules mean that the supply will be treated as if it had been for market value, unless the associate would have been entitled to a full input tax credit.

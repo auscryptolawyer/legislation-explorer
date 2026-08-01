@@ -5,7 +5,6 @@ section: "members-of-a-gst-group"
 title: "Members of a GST group"
 paragraph: "¶18-240"
 ---
-
 # Members of a GST group ¶18-240
 
 A “GST group” is a group of two or more companies, trusts, partnerships or other entities that satisfy certain membership and notification requirements (¶17-000). The representative member alone is liable for GST on taxable supplies made by the other members of the GST group. The representative member must also lodge the group’s GST returns (¶17-020).

@@ -8,7 +8,6 @@ section_title: Stud-founding bloodstock and related terms
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 39B  Stud-founding bloodstock and related terms
 
 **Meaning of stud-founding bloodstock**

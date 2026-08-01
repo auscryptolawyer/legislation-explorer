@@ -8,7 +8,6 @@ section_title: When prospective breeders treated as being in breeding business
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 47C  When prospective breeders treated as being in breeding business
 
 **Prospective breeders treated as being in breeding business**

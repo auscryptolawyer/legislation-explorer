@@ -8,7 +8,6 @@ section_title: Consideration in foreign currency: some agreements for sale and p
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 33C  Consideration in foreign currency: some agreements for sale and purchase
 
 **When this section applies**

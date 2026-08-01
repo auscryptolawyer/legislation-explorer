@@ -5,7 +5,6 @@ section: "8-240-admission-of-new-partner-abntfn-requirements"
 title: "8-240 - Admission of new partner ABNTFN requirements"
 paragraph: "None"
 ---
-
 # 8-240 - Admission of new partner ABNTFN requirements
 
 Worked example: Admission of new partner; ABN/TFN requirements Issue The partnership of HJ Wills and Associates, an accounting firm, is expecting to admit a new partner, Daryl Tims, to form a partnership of 4 partners. Daryl will have a 20% interest in the partnership. The existing partnership and the new partnership will continue to trade as an accounting firm.

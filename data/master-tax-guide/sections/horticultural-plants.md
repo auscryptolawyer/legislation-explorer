@@ -5,7 +5,6 @@ section: "horticultural-plants"
 title: "Horticultural plants"
 paragraph: "¶18-070"
 ---
-
 # Horticultural plants ¶18-070
 
 Capital expenditure incurred in establishing horticultural plants may be written oﬀ where the plants are used, or held ready for use, in a business of horticulture (ITAA97 ss 40-515 to 40-575). Total deductions cannot exceed the capital expenditure incurred on the plant.

@@ -5,7 +5,6 @@ section: "transfer-balance-account-credits-and-debits"
 title: "Transfer balance account — credits and debits"
 paragraph: "¶14-340"
 ---
-
 # Transfer balance account — credits and debits ¶14-340
 
 ITAA97 Subdiv 294-B and 294-C contain the rules governing an individual’s transfer balance account, what are transfer balance credits and debits and when they arise in the transfer balance account, and the circumstances which modify when transfer balance credits and debits arise (ss 294-15–294-95).

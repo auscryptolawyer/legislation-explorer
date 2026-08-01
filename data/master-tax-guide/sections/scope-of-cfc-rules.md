@@ -5,7 +5,6 @@ section: "scope-of-cfc-rules"
 title: "Scope of CFC rules"
 paragraph: "¶21-110"
 ---
-
 # Scope of CFC rules ¶21-110
 
 The broad purpose of the controlled foreign company (CFC) rules is to tax Australian shareholders on their share of a CFC’s “tainted income” as it is earned, unless that income is comparably taxed oﬀshore or the CFC derives its income almost exclusively from active business activities. This result is achieved by “attributing” tainted income to the Australian resident controllers of the CFC. “Tainted income” is generally income from investments or arrangements that are likely to be signiﬁcantly aﬀected by taxation considerations, eg interest, dividends, royalties or amounts arising from related party transactions (¶21-180).

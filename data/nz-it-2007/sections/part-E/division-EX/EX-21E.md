@@ -8,7 +8,6 @@ section_title: Non-attributing active CFC: test based on accounting standard
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 21E  Non-attributing active CFC: test based on accounting standard
 
 **Applicable accounting standard**

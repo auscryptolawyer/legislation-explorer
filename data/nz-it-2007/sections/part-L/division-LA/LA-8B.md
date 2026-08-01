@@ -8,7 +8,6 @@ section_title: General rules particular to life insurers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LA 8B  General rules particular to life insurers
 
 **Apportionment**

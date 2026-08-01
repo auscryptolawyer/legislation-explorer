@@ -8,7 +8,6 @@ section_title: What this Part does
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RA 1  What this Part does
 
 This Part provides the rules to require a person to pay to the Commissioner interim and terminal payments of tax and other amounts payable under the Inland Revenue Acts. The Part provides for—

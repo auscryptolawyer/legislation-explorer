@@ -5,7 +5,6 @@ section: "cgt-15-year-exemption"
 title: "CGT 15-year exemption"
 paragraph: "¶7-165"
 ---
-
 # CGT 15-year exemption ¶7-165
 
 A taxpayer may disregard a capital gain arising from a CGT event if the CGT asset was owned by the taxpayer for at least 15 years and satisﬁes the required additional conditions (ss 152-105; 152-110). Certain payments made by a trust or company to its CGT concession stakeholders that are attributable to the exempt amount are also exempt (s 152-125).

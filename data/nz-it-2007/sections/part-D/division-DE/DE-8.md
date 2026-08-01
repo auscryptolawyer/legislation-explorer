@@ -8,7 +8,6 @@ section_title: Logbook term
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DE 8  Logbook term
 
 **Meaning of logbook term**

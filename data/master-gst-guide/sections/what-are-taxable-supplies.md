@@ -5,7 +5,6 @@ section: "what-are-taxable-supplies"
 title: "What are taxable supplies?"
 paragraph: "¶4-000"
 ---
-
 # What are taxable supplies? ¶4-000
 
 You are liable to pay GST if you make a “taxable supply” (s 9-40). The rate is generally 10%.

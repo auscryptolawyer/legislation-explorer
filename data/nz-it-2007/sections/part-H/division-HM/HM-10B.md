@@ -8,7 +8,6 @@ section_title: Exclusion: banks and licensed non-bank deposit takers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HM 10B  Exclusion: banks and licensed non-bank deposit takers
 
 The entity must not be a registered bank or a licensed non-bank deposit taker.

@@ -5,7 +5,6 @@ section: "payg-payments-for-work-or-services"
 title: "PAYG: payments for work or services"
 paragraph: "¶26-150"
 ---
-
 # PAYG: payments for work or services ¶26-150
 
 Employees An entity that pays salary, wages, commission, bonuses or allowances to an individual as an employee must withhold an amount from the payment (TAA sch 1 s 12-35). The individual may be an employee of the payer or of another entity. “Employee” in the PAYG system has its ordinary meaning (TR 2023/4). Whether a person is an employee of another is a question of fact to be determined by examining the terms and circumstances of the contract between them, having regard to the key indicators expressed in the relevant case law. Withholding may be required, not only from payments of salary or wages made to an employee as such, but also where there is a constructive payment of salary or wages to an employee.

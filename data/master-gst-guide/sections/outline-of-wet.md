@@ -5,7 +5,6 @@ section: "outline-of-wet"
 title: "Outline of WET"
 paragraph: "¶22-000"
 ---
-
 # Outline of WET ¶22-000
 
 Wine equalisation tax commenced operation on 1 July 2000. It is commonly abbreviated to WET or “wine tax”. It was introduced to avoid “dramatic and dislocating” price falls that would otherwise have resulted from the abolition of sales tax.

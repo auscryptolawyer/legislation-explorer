@@ -5,7 +5,6 @@ section: "distributions-of-preferentially-taxed-capital"
 title: "Distributions of preferentially taxed capital"
 paragraph: "¶4-682"
 ---
-
 # Distributions of preferentially taxed capital ¶4-682
 
 As a consequence of the abolition (from 1 July 1998) of the concepts of par value for shares, share premiums, share premium account and paid-up capital, measures were introduced to prevent the distribution of proﬁts to shareholders as preferentially taxed capital rather than as dividends.

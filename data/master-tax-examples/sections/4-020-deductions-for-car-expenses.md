@@ -5,7 +5,6 @@ section: "4-020-deductions-for-car-expenses"
 title: "4-020 - Deductions for car expenses"
 paragraph: "None"
 ---
-
 # 4-020 - Deductions for car expenses
 
 Worked example: Deductions for car expenses Issue Robyn Lewis is an interior design consultant operating from premises in a suburban shopping centre. During 2023–24 and 2024–25, Robyn leased a car which she used for business purposes, for visiting clients to advise on interior design and installation of furnishings and fittings, and also for private use.

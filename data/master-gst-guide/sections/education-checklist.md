@@ -5,7 +5,6 @@ section: "education-checklist"
 title: "Education checklist"
 paragraph: "¶14-030"
 ---
-
 # Education checklist ¶14-030
 
 The following checklist sets out the general GST status of various educational services and gives a cross- reference to more details.

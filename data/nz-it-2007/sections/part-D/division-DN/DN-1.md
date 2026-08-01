@@ -8,7 +8,6 @@ section_title: Attributed controlled foreign company loss
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DN 1  Attributed controlled foreign company loss
 
 **Deduction**

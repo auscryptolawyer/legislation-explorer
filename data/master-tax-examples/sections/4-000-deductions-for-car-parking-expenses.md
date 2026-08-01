@@ -5,7 +5,6 @@ section: "4-000-deductions-for-car-parking-expenses"
 title: "4-000 - Deductions for car parking expenses"
 paragraph: "None"
 ---
-
 # 4-000 - Deductions for car parking expenses
 
 Worked example: Deductions for car parking expenses Issue Rachel Jones works as an employee in an office building in Melbourne’s central business district. This is her primary place of employment. She travels to work by car each day from her home and parks in a commercial car park situated below her building from between 9 am to 5 pm (8 hours). Rachel personally incurs the costs of parking her car.

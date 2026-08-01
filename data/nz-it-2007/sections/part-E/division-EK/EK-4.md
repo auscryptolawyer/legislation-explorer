@@ -8,7 +8,6 @@ section_title: Environmental restoration account
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EK 4  Environmental restoration account
 
 **Person’s account**

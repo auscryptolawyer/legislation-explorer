@@ -5,7 +5,6 @@ section: "changing-your-accounting-basis"
 title: "Changing your accounting basis"
 paragraph: "¶7-400"
 ---
-
 # Changing your accounting basis ¶7-400
 
 If you change your basis of accounting, there have to be some transitional rules that prevent some of your transactions being taxed twice or falling through the net altogether.

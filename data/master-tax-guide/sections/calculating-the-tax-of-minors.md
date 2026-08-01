@@ -5,7 +5,6 @@ section: "calculating-the-tax-of-minors"
 title: "Calculating the tax of minors"
 paragraph: "¶2-220"
 ---
-
 # Calculating the tax of minors ¶2-220
 
 Where a minor derives income subject to the special rules, that income (net of deductions relating to the income) is generally taxed at the top marginal rate. The net income subject to the special rules is called “eligible taxable income”.

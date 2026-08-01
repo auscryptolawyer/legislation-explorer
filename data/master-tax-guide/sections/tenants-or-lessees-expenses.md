@@ -5,7 +5,6 @@ section: "tenants-or-lessees-expenses"
 title: "Tenant’s or lessee’s expenses"
 paragraph: "¶16-640"
 ---
-
 # Tenant’s or lessee’s expenses ¶16-640
 
 Rent for business premises, repairs to such premises, rates, taxes and other outgoings incurred by the tenant under the lease are deductible (ITAA97 s 8-1).

@@ -5,7 +5,6 @@ section: "gst-free-supplies"
 title: "GST-free supplies"
 paragraph: "¶34-165"
 ---
-
 # GST-free supplies ¶34-165
 
 If a supply is GST-free, this means that no GST is payable on it, but that the supplier is entitled to claim credits for the GST payable on its business inputs that relate to that supply (ss 9-5; 11-15). For this reason, it is quite diﬀerent from a supply which is outside the GST system altogether (¶34-160).

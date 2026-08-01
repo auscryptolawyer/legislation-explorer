@@ -12,7 +12,6 @@ compilation_no: 191
 compilation_date: "2026-04-01"
 source_pdf: "vol02.pdf"
 ---
-
 # 82KZM Expenditure by small and medium business entities and individuals incurring non-business expenditure
 
 <a id="s82KZM-1"></a>

@@ -8,7 +8,6 @@ section_title: Remaining refundable credits: PAYE, RWT, and certain other items
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LA 6  Remaining refundable credits: PAYE, RWT, and certain other items
 
 **What this section applies to**

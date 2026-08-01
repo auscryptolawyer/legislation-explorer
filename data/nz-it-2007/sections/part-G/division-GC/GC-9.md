@@ -8,7 +8,6 @@ section_title: Compensating arrangement: person paying less than arm’s length 
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GC 9  Compensating arrangement: person paying less than arm’s length amount
 
 **When this section applies**

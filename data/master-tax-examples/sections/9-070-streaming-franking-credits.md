@@ -5,7 +5,6 @@ section: "9-070-streaming-franking-credits"
 title: "9-070 - Streaming franking credits"
 paragraph: "None"
 ---
-
 # 9-070 - Streaming franking credits
 
 Worked example: Streaming franking credits Issue Liz Michaels is an investor in listed company shares who runs her share market activities through the Michaels Investment Trust. Over the years, she has been very successful in her activities and has made substantial returns on her investments as well as receiving large sums in franked dividends.

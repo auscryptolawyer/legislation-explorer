@@ -8,7 +8,6 @@ section_title: What is an excepted financial arrangement?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 5  What is an excepted financial arrangement?
 
 **Meaning**

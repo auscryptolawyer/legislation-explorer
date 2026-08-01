@@ -8,7 +8,6 @@ section_title: Avoidance arrangements
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 9  Avoidance arrangements
 
 The allocation of a deduction under any of sections EJ 4, EJ 5, EJ 7, and EJ 8 may be subject to adjustment under—

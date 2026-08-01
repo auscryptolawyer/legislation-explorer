@@ -5,7 +5,6 @@ section: "deduction-for-environmental-protection-activities"
 title: "Deduction for environmental protection activities"
 paragraph: "¶19-110"
 ---
-
 # Deduction for environmental protection activities ¶19-110
 
 Expenditure (net of GST and adjustments (ITAA97 s 27-105)), whether capital or revenue, that is incurred for the sole or dominant purpose of carrying on “environmental protection activities” is deductible in the income year in which it is incurred (ITAA97 ss 40-755 to 40-765). No deduction is available if protection of the environment is only a residual or subsidiary purpose of the taxpayer. If the expenditure is incurred for 2 or more purposes (eg environmental protection and improving the resale value of the land), it is necessary to establish the dominant purpose (TR 2020/2). The provisions do not accommodate apportionment on a fair and reasonable basis of a single outlay that serves multiple purposes indiﬀerently. A deduction is also available for the decline in value of depreciating assets used for environmental protection activities (¶17-010), and construction costs may be deductible under the capital works provisions (¶20-470). TR 2020/2 outlines, with numerous examples, the operation of the provisions.

@@ -5,7 +5,6 @@ section: "supplies-partly-connected-with-australia"
 title: "Supplies partly connected with Australia"
 paragraph: "¶4-104"
 ---
-
 # Supplies partly connected with Australia ¶4-104
 
 As different rules apply to goods, real property, services and telecommunication supplies, a supply that involves a mixture of these may be partly connected with Australia and partly not connected. In this situation, the supply is split up into separate supplies. The GST and input tax credits are calculated only on the part of the supply that is connected with Australia (s 96-5).

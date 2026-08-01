@@ -5,7 +5,6 @@ section: "2-315-changing-a-business-structure-small-business-restructure-roll-ov
 title: "2-315 - Changing a business structure small business restructure roll-over and CGT small business concessions"
 paragraph: "None"
 ---
-
 # 2-315 - Changing a business structure small business restructure roll-over and CGT small business concessions
 
 business concessions Worked example: Changing a business structure: small business restructure roll-over and CGT small business concessions Issue Marcus Hearn, an Australian resident for tax purposes, is a qualified dentist who acquired his own dental practice in 2015, together with the consulting rooms from which he operates his practice as a sole trader. He is 48 years old.

@@ -5,7 +5,6 @@ section: "superannuation-fund-rates-for-202425"
 title: "Superannuation fund rates for 2024–25"
 paragraph: "¶42-035"
 ---
-
 # Superannuation fund rates for 2024–25 ¶42-035
 
 Entity                                                                                                                                2024–25

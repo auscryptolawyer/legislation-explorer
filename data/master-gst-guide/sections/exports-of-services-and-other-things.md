@@ -5,7 +5,6 @@ section: "exports-of-services-and-other-things"
 title: "Exports of services and other things"
 paragraph: "¶9-240"
 ---
-
 # Exports of services and other things ¶9-240
 
 The following export exemptions (¶4-100) are available for things other than goods or real property (¶11-000) — such as services, advice, financial supplies or alteration of rights (s 38-190(1)): 1. A supply that is “directly connected” with goods or real property outside Australia.

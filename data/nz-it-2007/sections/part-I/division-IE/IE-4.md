@@ -8,7 +8,6 @@ section_title: Group companies’ treatment of tax losses on amalgamation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IE 4  Group companies’ treatment of tax losses on amalgamation
 
 **When this section applies**

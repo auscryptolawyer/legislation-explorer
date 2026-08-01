@@ -8,7 +8,6 @@ section_title: Consolidated ICA debit for unused tax payment of departing member
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 41B  Consolidated ICA debit for unused tax payment of departing member
 
 **Debit**

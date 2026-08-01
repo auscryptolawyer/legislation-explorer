@@ -8,7 +8,6 @@ section_title: Non-resident visitors
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 1B  Non-resident visitors
 
 **What this section does**

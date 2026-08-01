@@ -8,7 +8,6 @@ section_title: Allocation of deductions for loss-making residential rental prope
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EL 4  Allocation of deductions for loss-making residential rental properties
 
 **When this section applies**

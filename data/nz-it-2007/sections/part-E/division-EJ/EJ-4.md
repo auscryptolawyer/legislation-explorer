@@ -8,7 +8,6 @@ section_title: Expenditure incurred in acquiring film rights in feature films
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 4  Expenditure incurred in acquiring film rights in feature films
 
 **Feature films**

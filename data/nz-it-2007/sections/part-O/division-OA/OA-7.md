@@ -8,7 +8,6 @@ section_title: Opening balances of memorandum accounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OA 7  Opening balances of memorandum accounts
 
 **Balances carried forward**

@@ -8,7 +8,6 @@ section_title: Limits on choice of revenue account method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 46B  Limits on choice of revenue account method
 
 **What this section does**

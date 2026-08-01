@@ -8,7 +8,6 @@ section_title: Business continuity breach: tax loss components of companies carr
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IP 3B  Business continuity breach: tax loss components of companies carried forward
 
 **When this section applies**

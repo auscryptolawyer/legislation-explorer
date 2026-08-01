@@ -5,7 +5,6 @@ section: "look-through-earnout-arrangements"
 title: "Look-through earnout arrangements"
 paragraph: "¶11-675"
 ---
-
 # Look-through earnout arrangements ¶11-675
 
 Look through CGT treatment applies to a “look-through earnout right” entered into on or after 24 April 2015 by:

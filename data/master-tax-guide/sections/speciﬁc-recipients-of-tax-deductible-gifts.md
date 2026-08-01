@@ -5,7 +5,6 @@ section: "speciﬁc-recipients-of-tax-deductible-gifts"
 title: "Speciﬁc recipients of tax-deductible gifts"
 paragraph: "¶16-952"
 ---
-
 # Speciﬁc recipients of tax-deductible gifts ¶16-952
 
 In addition to the above general categories of funds, authorities, institutions and organisations, gifts of $2 or more made to deductible gift recipients (DGRs) speciﬁed in ss 30-15 to 30-100 are deductible (note that it is proposed to remove the $2 minimum requirement: ¶16-942).

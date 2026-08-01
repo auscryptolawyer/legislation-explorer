@@ -8,7 +8,6 @@ section_title: Standard method or GST method: transition for Maori authorities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RZ 5D  Standard method or GST method: transition for Maori authorities
 
 **When this section applies**

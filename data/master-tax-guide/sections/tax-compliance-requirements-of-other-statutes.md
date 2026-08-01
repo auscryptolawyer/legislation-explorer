@@ -5,7 +5,6 @@ section: "tax-compliance-requirements-of-other-statutes"
 title: "Tax compliance requirements of other statutes"
 paragraph: "¶31-050"
 ---
-
 # Tax compliance requirements of other statutes ¶31-050
 
 Apart from commercial considerations (¶31-040) and the possible application of multiple tax rules to particular situations (¶31-000), the requirements of other statutes and the diﬃculties that may be encountered in satisfying them should also be assessed in formulating a tax plan. Some of the relevant provisions are:

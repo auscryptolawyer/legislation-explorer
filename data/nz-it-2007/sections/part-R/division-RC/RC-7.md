@@ -8,7 +8,6 @@ section_title: Estimation method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RC 7  Estimation method
 
 **When this section applies**

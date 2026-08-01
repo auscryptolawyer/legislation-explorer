@@ -5,7 +5,6 @@ section: "7-270-first-home-super-saver-scheme"
 title: "7-270 - First Home Super Saver Scheme"
 paragraph: "None"
 ---
-
 # 7-270 - First Home Super Saver Scheme
 
 Worked example: First Home Super Saver Scheme Issue Paul is saving for the deposit on a first home. He wishes to take advantage of the First Home Super Saver Scheme and accordingly, between 1 July 2022 and 30 June 2024, he has made voluntary concessional contributions totalling $8,000 for which he has claimed a tax deduction. In addition, he has made voluntary non-concessional contributions totalling $20,000. His eligible contributions have not exceeded $15,000 in either of the 2 relevant years.

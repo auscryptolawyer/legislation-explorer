@@ -5,7 +5,6 @@ section: "restaurant-catered-or-eat-in-food"
 title: "Restaurant, catered or eat-in food"
 paragraph: "¶13-120"
 ---
-
 # Restaurant, catered or eat-in food ¶13-120
 
 GST applies to all food supplied for consumption on the premises where it is supplied (s 38-3). This applies, for example, to restaurants, cafes, snack bars or similar businesses that provide eat-in facilities on the premises.

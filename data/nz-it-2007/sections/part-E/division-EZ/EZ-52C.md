@@ -8,7 +8,6 @@ section_title: Change of spreading method: Determination G22 to Determination G2
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 52C  Change of spreading method: Determination G22 to Determination G22A
 
 **How and when this section applies**

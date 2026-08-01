@@ -8,7 +8,6 @@ section_title: Best Start credit abatement
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MG 3  Best Start credit abatement
 
 **When this section applies**

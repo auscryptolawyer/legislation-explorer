@@ -8,7 +8,6 @@ section_title: Fair dividend rate method: use of different forms
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EX 52A  Fair dividend rate method: use of different forms
 
 **When this section applies**

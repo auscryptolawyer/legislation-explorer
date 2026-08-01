@@ -5,7 +5,6 @@ section: "hire-purchase-transactions"
 title: "Hire-purchase transactions"
 paragraph: "¶7-438"
 ---
-
 # Hire-purchase transactions ¶7-438
 
 A hire-purchase agreement is normally treated in the same way as a purchase by instalments. This requires taxpayers remitting GST on an accruals basis to account for the whole GST liability in the earlier of the tax period in which the first payment is received or an invoice is issued (¶7-205). Correspondingly, purchasers can claim input tax credits (ITCs) in the earlier of the tax period in which they make the first payment or receive a tax invoice.

@@ -8,7 +8,6 @@ section_title: Certification of New Zealand films
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EJ 6  Certification of New Zealand films
 
 **Certification of New Zealand films**

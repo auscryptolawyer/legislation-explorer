@@ -8,7 +8,6 @@ section_title: Deduction for certain mining expenditure spread over assumed life
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DU 6  Deduction for certain mining expenditure spread over assumed life of mine
 
 **When this section applies**

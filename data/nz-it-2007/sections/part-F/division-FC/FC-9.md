@@ -8,7 +8,6 @@ section_title: Residential land transferred to executor, administrator, or benef
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FC 9  Residential land transferred to executor, administrator, or beneficiary on death of person
 
 **What this section applies to**

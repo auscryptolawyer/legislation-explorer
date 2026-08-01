@@ -5,7 +5,6 @@ section: "cgt-consequences-for-managed-investment-trusts"
 title: "CGT consequences for managed investment trusts"
 paragraph: "¶12-660"
 ---
-
 # CGT consequences for managed investment trusts ¶12-660
 
 Managed Investment Trusts (MITs) are allowed to make an irrevocable election to treat gains and losses on eligible investments on capital account for taxation purposes. The election makes the CGT provisions the primary code for taxing gains and losses on the disposal of eligible investments by MITs that make the election, subject to integrity rules.

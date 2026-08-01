@@ -8,7 +8,6 @@ section_title: Interest paid by non-resident companies to non-residents
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 11C  Interest paid by non-resident companies to non-residents
 
 **When this section applies**

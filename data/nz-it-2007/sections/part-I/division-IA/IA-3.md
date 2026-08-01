@@ -8,7 +8,6 @@ section_title: Using tax losses in tax year
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IA 3  Using tax losses in tax year
 
 **Paying shortfall penalties**

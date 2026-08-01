@@ -5,7 +5,6 @@ section: "dividends-indirectly-derived"
 title: "Dividends indirectly derived"
 paragraph: "¶4-130"
 ---
-
 # Dividends indirectly derived ¶4-130
 
 Dividend income derived indirectly through a trust estate, trustee or nominee is not caught by ITAA36 s 44 because that section applies only to dividends derived by a shareholder, ie a person who is entered in the company’s register of members as the holder of shares in it.

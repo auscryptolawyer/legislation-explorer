@@ -5,7 +5,6 @@ section: "calculation-of-tax-on-other-income"
 title: "Calculation of tax on other income"
 paragraph: "¶10-865"
 ---
-
 # Calculation of tax on other income ¶10-865
 
 Foreign earnings exempt under ITAA36 s 23AG are taken into account in calculating the tax payable on other income derived by the taxpayer. This method of calculation — referred to as “exemption with progression” — prevents the exempt income from reducing the Australian tax payable on the other income.

@@ -8,7 +8,6 @@ section_title: Treatment of companies that become non-resident and their shareho
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FL 2  Treatment of companies that become non-resident and their shareholders
 
 **When this section applies**

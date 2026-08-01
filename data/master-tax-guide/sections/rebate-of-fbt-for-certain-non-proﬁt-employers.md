@@ -5,7 +5,6 @@ section: "rebate-of-fbt-for-certain-non-proﬁt-employers"
 title: "Rebate of FBT for certain non-proﬁt employers"
 paragraph: "¶35-642"
 ---
-
 # Rebate of FBT for certain non-proﬁt employers ¶35-642
 
 FBT is payable on the grossed-up taxable value of beneﬁts for the year, and an oﬀsetting income tax deduction is allowed (¶35-025). To ensure that certain non-proﬁt employers that are unable to claim an income tax deduction for FBT are not disadvantaged, a rebate of FBT at the rate of 47% is available under s 65J.

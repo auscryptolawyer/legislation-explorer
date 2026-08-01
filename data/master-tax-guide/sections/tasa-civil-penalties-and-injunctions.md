@@ -5,7 +5,6 @@ section: "tasa-civil-penalties-and-injunctions"
 title: "TASA civil penalties and injunctions"
 paragraph: "¶32-055"
 ---
-
 # TASA civil penalties and injunctions ¶32-055
 
 - the sanctions that may be imposed by the TPB for a failure to comply with the Code (¶32-045)

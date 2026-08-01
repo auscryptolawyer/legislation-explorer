@@ -5,7 +5,6 @@ section: "2-440-roll-over-on-compulsory-acquisition-loss-or-destruction-of-cgt-a
 title: "2-440 - Roll-over on compulsory acquisition loss or destruction of CGT asset"
 paragraph: "None"
 ---
-
 # 2-440 - Roll-over on compulsory acquisition loss or destruction of CGT asset
 
 Worked example: Roll-over on compulsory acquisition, loss or destruction of CGT asset Issue Herbert Ross owns a residential investment property in Port Lincoln, which he bought in 1999 for $100,000.

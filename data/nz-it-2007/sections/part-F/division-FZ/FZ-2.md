@@ -8,7 +8,6 @@ section_title: Effect of specified lease on lessor and lessee
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FZ 2  Effect of specified lease on lessor and lessee
 
 **Lease treated as sale**

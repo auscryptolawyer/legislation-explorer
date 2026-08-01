@@ -8,7 +8,6 @@ section_title: Residential land withholding tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RL 1  Residential land withholding tax
 
 **What this subpart does**

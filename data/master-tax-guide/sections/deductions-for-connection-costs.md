@@ -5,7 +5,6 @@ section: "deductions-for-connection-costs"
 title: "Deductions for connection costs"
 paragraph: "¶16-820"
 ---
-
 # Deductions for connection costs ¶16-820
 
 A deduction is available for capital expenditure incurred in connecting mains electricity to land on which a business is carried on or in upgrading an existing connection to such land (ITAA97 ss 40-645 to 40-665). The deduction is allowable in equal instalments over 10 years, ie one-tenth of the expenditure is deductible in the income year in which the expenditure is incurred, one-tenth in the next year and so on.

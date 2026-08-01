@@ -5,7 +5,6 @@ section: "main-scope-of-dtas"
 title: "Main scope of DTAs"
 paragraph: "¶22-150"
 ---
-
 # Main scope of DTAs ¶22-150
 
 The tax treatment of various forms of income under Australia’s DTAs is summarised below.

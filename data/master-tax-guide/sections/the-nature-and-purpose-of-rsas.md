@@ -5,7 +5,6 @@ section: "the-nature-and-purpose-of-rsas"
 title: "The nature and purpose of RSAs"
 paragraph: "¶13-470"
 ---
-
 # The nature and purpose of RSAs ¶13-470
 
 Retirement savings accounts (RSAs) are provided to the general public by approved RSA institutions (eg banks, credit unions and cooperatives) as a simple, low-cost and low-risk savings product that employers may use as an alternative to making contributions to superannuation funds for their employees, and which individuals may use for making personal superannuation contributions or spouse contributions.

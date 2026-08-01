@@ -5,7 +5,6 @@ section: "proﬁts-and-their-source"
 title: "Proﬁts and their source"
 paragraph: "¶4-140"
 ---
-
 # Proﬁts and their source ¶4-140
 
 Dividends paid to Australian resident shareholders out of any “proﬁts” of the company are assessable under ITAA36 s 44. The proﬁts need not be revenue proﬁts or assessable proﬁts; they may be capital proﬁts or exempt proﬁts. Indeed, any increase in the company’s assets, including an increase resulting from a gift, is a proﬁt (Slater Holdings (No 2) 84 ATC 4883; [1984] HCA 78). In certain circumstances dividends may be deemed to have been paid out of proﬁts (¶4-105, ¶4-110, ¶4-300).

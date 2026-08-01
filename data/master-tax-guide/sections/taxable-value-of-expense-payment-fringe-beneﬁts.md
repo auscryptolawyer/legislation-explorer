@@ -5,7 +5,6 @@ section: "taxable-value-of-expense-payment-fringe-beneﬁts"
 title: "Taxable value of expense payment fringe beneﬁts"
 paragraph: "¶35-350"
 ---
-
 # Taxable value of expense payment fringe beneﬁts ¶35-350
 
 The taxable value of an expense payment beneﬁt is generally the amount of the expenditure incurred by the employee that is paid or reimbursed by the employer (s 23). FBT is payable on the grossed-up taxable value of the beneﬁt (¶35-025).

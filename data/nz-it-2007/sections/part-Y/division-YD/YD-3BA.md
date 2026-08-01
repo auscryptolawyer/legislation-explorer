@@ -8,7 +8,6 @@ section_title: Country of residence of joint trustees
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YD 3BA  Country of residence of joint trustees
 
 For 2 or more persons who derive income jointly as trustees of a trust, the residence of the joint trustees is given by sections HC 2(3) and HC 33(1C) (which relate to the obligations and residency of trustees).

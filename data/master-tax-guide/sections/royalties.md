@@ -5,7 +5,6 @@ section: "royalties"
 title: "royalties"
 paragraph: "¶22-040"
 ---
-
 # royalties ¶22-040
 
 The person liable for the tax is the non-resident person who derives the relevant dividends, interest or royalties (ITAA36 s 128B(4) to (6)). The tax is payable by the 21st day after the end of the month in which the income is derived (ITAA36 s 128C). However, an amount on account of the tax is required to be withheld, or deducted at source, by the payer of that income. As explained further below, this amount is credited against the payee’s liability.

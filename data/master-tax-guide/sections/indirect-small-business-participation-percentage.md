@@ -5,7 +5,6 @@ section: "indirect-small-business-participation-percentage"
 title: "Indirect small business participation percentage"
 paragraph: "¶7-159"
 ---
-
 # Indirect small business participation percentage ¶7-159
 
 The indirect small business participation percentage that an entity (the “holding entity”) holds at a particular time in another entity (the “test entity”) is determined by multiplying the holding entity’s direct small business participation percentage (if any) in another entity (the “intermediate entity”) at that time by the sum of:

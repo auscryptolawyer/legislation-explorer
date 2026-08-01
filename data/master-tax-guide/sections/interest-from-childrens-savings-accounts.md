@@ -5,7 +5,6 @@ section: "interest-from-childrens-savings-accounts"
 title: "Interest from children’s savings accounts"
 paragraph: "¶10-480"
 ---
-
 # Interest from children’s savings accounts ¶10-480
 
 Interest earned on a child’s savings account may in some circumstances be treated as income of the parent, rather than the child. The Commissioner’s views are set out in TD 2017/11 as follows:

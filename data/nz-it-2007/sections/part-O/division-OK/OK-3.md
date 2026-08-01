@@ -8,7 +8,6 @@ section_title: MACA transfer of excess tax from other Maori authorities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OK 3  MACA transfer of excess tax from other Maori authorities
 
 **Credit**

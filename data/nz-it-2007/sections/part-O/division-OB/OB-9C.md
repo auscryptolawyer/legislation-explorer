@@ -8,7 +8,6 @@ section_title: ICA credit for research and development tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 9C  ICA credit for research and development tax credit
 
 **Credit**

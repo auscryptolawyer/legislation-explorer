@@ -8,7 +8,6 @@ section_title: Meaning of tax credit income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MH 4  Meaning of tax credit income
 
 **Meaning of tax credit income**

@@ -8,7 +8,6 @@ section_title: Meaning and ranking of payroll donation
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LD 8  Meaning and ranking of payroll donation
 
 **Meaning**

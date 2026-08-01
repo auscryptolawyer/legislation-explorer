@@ -5,7 +5,6 @@ section: "timing-of-income-and-deductions"
 title: "Timing of income and deductions"
 paragraph: "¶9-035"
 ---
-
 # Timing of income and deductions ¶9-035
 
 Determining taxable income involves applying tax accounting principles to identify all items of assessable income (¶10-000) and all allowable deductions (¶16-000) for a particular period. Whether an item is relevant to a particular period is a timing issue.

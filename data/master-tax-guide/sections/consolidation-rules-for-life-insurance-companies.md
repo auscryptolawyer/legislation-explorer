@@ -5,7 +5,6 @@ section: "consolidation-rules-for-life-insurance-companies"
 title: "Consolidation rules for life insurance companies"
 paragraph: "¶3-527"
 ---
-
 # Consolidation rules for life insurance companies ¶3-527
 
 There are a number of special consolidation rules for life insurance companies.

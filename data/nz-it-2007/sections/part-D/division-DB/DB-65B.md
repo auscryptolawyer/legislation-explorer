@@ -8,7 +8,6 @@ section_title: Allowance for embedded fit-out of certain commercial buildings
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 65B  Allowance for embedded fit-out of certain commercial buildings
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Election that property not be depreciable
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EE 8  Election that property not be depreciable
 
 **Item acquired**

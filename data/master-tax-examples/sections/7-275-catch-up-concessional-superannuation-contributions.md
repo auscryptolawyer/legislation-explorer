@@ -5,7 +5,6 @@ section: "7-275-catch-up-concessional-superannuation-contributions"
 title: "7-275 - Catch-up concessional superannuation contributions"
 paragraph: "None"
 ---
-
 # 7-275 - Catch-up concessional superannuation contributions
 
 Worked example: Catch-up concessional superannuation contributions Issue Roger is aged 55. In the 2023–24 income year, Roger’s employer made concessional superannuation guarantee contributions of $12,500 on his behalf to his superannuation fund. Roger did not make any deductible personal contributions to his fund. Because the concessional contributions cap is $27,500 for 2023–24, Roger’s unused concessional contributions cap amount is $15,000.

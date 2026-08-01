@@ -5,7 +5,6 @@ section: "2-100-death-cgt-assets-including-personal-assets"
 title: "2-100 - Death CGT assets including personal assets"
 paragraph: "None"
 ---
-
 # 2-100 - Death CGT assets including personal assets
 
 Worked example: Death; CGT assets including personal assets Issue Gladys Kravitzski died in September 2024 and in her will she left her entire estate to her son, Edward. At the time of her death, Gladys’ estate consisted of: 1. Her family home Purchased in 1965 for $65,000 Market value at date of death was $650,000 2. An investment property Purchased in 1987 for $275,000 Market value at date of death was $425,000 3. Collectable assets — all purchased in February 1989 Artworks Purchased for $6,000 Market value at date of death was $9,500 Antique furniture Purchased for $13,000 Market value at date of death was $5,000 Jewellery Purchased for $24,000 Market value at date of death was $26,000 4. Personal use asset — purchased in 1992 Caravan purchased for $17,000 Market value at date of death was $4,000 Edward decided to live in the family home and to keep the investment property but to dispose of the collectable and personal use assets immediately upon acquiring ownership. Edward received the full market value on the disposal of each collectable and personal use asset.

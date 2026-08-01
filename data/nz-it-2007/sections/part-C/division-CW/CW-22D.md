@@ -8,7 +8,6 @@ section_title: Treatment of non-resident visitors for sections CW 22B and CW 22C
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 22D  Treatment of non-resident visitors for sections CW 22B and CW 22C
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "conservation-covenants"
 title: "Conservation covenants"
 paragraph: "¶16-972"
 ---
-
 # Conservation covenants ¶16-972
 
 A deduction can be claimed where a taxpayer enters into a perpetual conservation covenant with an authorised body or a government body for no consideration (s 31-5).

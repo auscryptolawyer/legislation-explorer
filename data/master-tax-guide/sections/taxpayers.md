@@ -5,7 +5,6 @@ section: "taxpayers"
 title: "taxpayers"
 paragraph: "¶21-330"
 ---
-
 # taxpayers ¶21-330
 
 The amount that will be included in the assessable income of each person who is an attributable taxpayer in relation to a non-resident trust estate depends on whether the taxpayer was resident in Australia during the whole of the year (ITAA36 s 102AAZD).

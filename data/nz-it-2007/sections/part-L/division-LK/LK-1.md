@@ -8,7 +8,6 @@ section_title: Tax credits relating to attributed CFC income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LK 1  Tax credits relating to attributed CFC income
 
 **Amount of credit**

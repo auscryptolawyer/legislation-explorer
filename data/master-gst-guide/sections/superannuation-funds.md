@@ -5,7 +5,6 @@ section: "superannuation-funds"
 title: "Superannuation funds"
 paragraph: "¶10-080"
 ---
-
 # Superannuation funds ¶10-080
 
 Both superannuation funds and their trustees are “entities” (¶3-015), although only trustees (or managers) can be registered, as funds do not have the legal capacity to carry out GST obligations.

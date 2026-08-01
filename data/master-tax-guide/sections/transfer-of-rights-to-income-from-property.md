@@ -5,7 +5,6 @@ section: "transfer-of-rights-to-income-from-property"
 title: "Transfer of rights to income from property"
 paragraph: "¶30-940"
 ---
-
 # Transfer of rights to income from property ¶30-940
 
 Special statutory provisions restrict the tax beneﬁts of a transfer of a right to receive income from property where there is no accompanying transfer of the income-producing property itself (ITAA36 Pt III Div 6A: ss 102A to 102CA). The eﬀect is that:

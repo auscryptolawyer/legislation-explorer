@@ -5,7 +5,6 @@ section: "period-of-administration-of-deceased-estate"
 title: "Period of administration of deceased estate"
 paragraph: "¶6-190"
 ---
-
 # Period of administration of deceased estate ¶6-190
 
 Until the administration of a deceased estate has reached the stage where, in general terms, the residue can be ascertained with certainty, there is no trust income legally available for distribution to the beneﬁciaries (¶6-100).

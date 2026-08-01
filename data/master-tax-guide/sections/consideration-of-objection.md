@@ -5,7 +5,6 @@ section: "consideration-of-objection"
 title: "Consideration of objection"
 paragraph: "¶28-070"
 ---
-
 # Consideration of objection ¶28-070
 
 The Commissioner is bound to consider the taxpayer’s objection and to serve the taxpayer with written notice of the decision to disallow it, or to allow it wholly or in part (an “objection decision”) (TAA s 14ZY). Objections are considered by ATO oﬃcers who are independent of the original ATO oﬃcer issuing the assessment. This is designed to enable the ATO to reach a ﬁnal, considered position at the objection stage.

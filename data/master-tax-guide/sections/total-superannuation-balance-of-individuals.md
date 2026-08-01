@@ -5,7 +5,6 @@ section: "total-superannuation-balance-of-individuals"
 title: "Total superannuation balance of individuals"
 paragraph: "¶13-640"
 ---
-
 # Total superannuation balance of individuals ¶13-640
 
 The concept of “total superannuation balance” (TSB) in ITAA97 s 307-230 is used as the method to value an individual’s total superannuation interests for tax purposes. A superannuation interest is an interest in a superannuation fund, an ADF or a superannuation annuity (¶14-130). The TSB for an individual is calculated at a particular time by adding together the value of the individual’s superannuation interests less any structured settlements (see below).

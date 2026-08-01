@@ -8,7 +8,6 @@ section_title: Disposal: land used for landfill, if notice of election
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 8  Disposal: land used for landfill, if notice of election
 
 An amount that a person derives from disposing of land is income of the person if—

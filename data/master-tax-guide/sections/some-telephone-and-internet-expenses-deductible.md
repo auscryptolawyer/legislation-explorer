@@ -5,7 +5,6 @@ section: "some-telephone-and-internet-expenses-deductible"
 title: "Some telephone and internet expenses deductible"
 paragraph: "¶16-400"
 ---
-
 # Some telephone and internet expenses deductible ¶16-400
 
 For an employee, the cost of installing a landline at home that is used for work-related purposes is a non- deductible capital expense (Case N84 81 ATC 451; TR 98/14). However, a proportion of landline rental costs may be allowed to employees who are on call, or who are required to telephone their employer (or clients: TR 98/6) on a regular basis (ITAA97 s 8-1).

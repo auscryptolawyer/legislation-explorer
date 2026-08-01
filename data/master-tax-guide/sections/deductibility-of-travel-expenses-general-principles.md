@@ -5,7 +5,6 @@ section: "deductibility-of-travel-expenses-general-principles"
 title: "Deductibility of travel expenses: general principles"
 paragraph: "¶16-220"
 ---
-
 # Deductibility of travel expenses: general principles ¶16-220
 
 Travel expenses incidental and relevant to a taxpayer’s derivation of assessable income, including salary and wages, are deductible under the ordinary provisions of ITAA97 s 8-1, but subject to the limitations of that section. A simple example of deductible travel expenses would be car expenses incurred by a commercial traveller in carrying out work-related duties. Certain taxpayers’ deductions for travel expenses in connection with residential rental properties are denied (¶16-650).

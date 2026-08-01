@@ -8,7 +8,6 @@ section_title: Use of credits by group companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LK 6  Use of credits by group companies
 
 **When this section applies**

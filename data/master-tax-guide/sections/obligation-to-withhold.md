@@ -5,7 +5,6 @@ section: "obligation-to-withhold"
 title: "Obligation to withhold"
 paragraph: "¶26-450"
 ---
-
 # Obligation to withhold ¶26-450
 
 If an entity is required to withhold an amount from a cash payment, it must do so when making the payment (TAA sch 1 s 16-5). The provider of a non-cash beneﬁt must pay the required amount to the Commissioner before providing the beneﬁt.

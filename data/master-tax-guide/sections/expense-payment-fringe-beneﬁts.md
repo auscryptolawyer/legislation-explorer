@@ -5,7 +5,6 @@ section: "expense-payment-fringe-beneﬁts"
 title: "Expense payment fringe beneﬁts"
 paragraph: "¶35-330"
 ---
-
 # Expense payment fringe beneﬁts ¶35-330
 
 An expense payment beneﬁt arises where an employer pays or reimburses expenses incurred by an employee (s 20). A reimbursement giving rise to an expense payment beneﬁt is excluded from the amount subject to PAYG withholding and, as a consequence, does not fall within the deﬁnition of “salary or wages” in s 136(1). Where an employee directs the employer to pay part of the agreed salary to a third party (such as a bank by way of loan repayment) the amount remains part of the employee’s salary (Case 1/97 97 ATC 101; [1996] AATA 471; ID 2002/614). Where an employee sacriﬁces amounts into a home mortgage account (with or without a redraw facility) under a salary sacriﬁce arrangement that satisﬁes TR 2001/10, an expense fringe beneﬁt arises (ID 2001/532). Where an employer reimburses an employee for costs the employee incurs in preparing or administering an employment agreement, the employer is providing a fringe beneﬁt (TR 2000/5).

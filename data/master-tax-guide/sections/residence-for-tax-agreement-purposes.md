@@ -5,7 +5,6 @@ section: "residence-for-tax-agreement-purposes"
 title: "Residence for tax agreement purposes"
 paragraph: "¶21-050"
 ---
-
 # Residence for tax agreement purposes ¶21-050
 
 In determining liability to Australian tax on the basis of residence or non-residence in Australia, it is necessary to consider not only the income tax laws, but also any applicable double taxation agreement (DTA).

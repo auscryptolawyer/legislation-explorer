@@ -8,7 +8,6 @@ section_title: Expenditure on abandoned exploratory well before 16 December 1991
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DZ 4  Expenditure on abandoned exploratory well before 16 December 1991
 
 **Deduction**

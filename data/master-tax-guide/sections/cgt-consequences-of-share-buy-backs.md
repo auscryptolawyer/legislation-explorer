@@ -5,7 +5,6 @@ section: "cgt-consequences-of-share-buy-backs"
 title: "CGT consequences of share buy-backs"
 paragraph: "¶12-640"
 ---
-
 # CGT consequences of share buy-backs ¶12-640
 
 Special provisions, some of which have CGT implications, govern the tax treatment of situations where a company buys back its own shares or non-share equity interests (ITAA36 Pt III Div 16K).

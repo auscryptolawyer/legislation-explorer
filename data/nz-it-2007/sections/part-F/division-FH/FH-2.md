@@ -8,7 +8,6 @@ section_title: Order of application of provisions
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FH 2  Order of application of provisions
 
 **Order of application for sections disallowing deductions**

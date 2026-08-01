@@ -8,7 +8,6 @@ section_title: Taxes, other than GST, and penalties
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DB 1  Taxes, other than GST, and penalties
 
 **No deduction**

@@ -5,7 +5,6 @@ section: "2-460-cgt-event-k6-pre-cgt-shares-or-trust-interests"
 title: "2-460 - CGT event K6 Pre-CGT shares or trust interests"
 paragraph: "None"
 ---
-
 # 2-460 - CGT event K6 Pre-CGT shares or trust interests
 
 Worked example: CGT event K6: Pre-CGT shares or trust interests Issue William Owens owns all the shares in Rubble Pty Ltd, a mining exploration company. He acquired all the shares pre-CGT. All of the assets of Rubble Pty Ltd were post-CGT, except for a mining tenement in Queensland which was pre-CGT. On 1 June 2024, William disposed of his entire shareholding for $1,070,000. Rubble Pty Ltd owned the following assets and had liabilities of $50,000 (which related solely to the post-CGT property): Post-CGT ($)                                          Pre-CGT ($) Market value                                            820,000                                               200,000 Cost base                                               400,000                                               100,000 Market value excess                                     420,000                                               100,000 The capital proceeds of $1,020,000 represented a premium of $70,000 over the net value of Rubble Pty Ltd and reflected the premium paid by the purchaser to remove a competitor from the market.

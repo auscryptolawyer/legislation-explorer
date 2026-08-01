@@ -5,7 +5,6 @@ section: "what-constitutes-a-gift"
 title: "What constitutes a “gift”?"
 paragraph: "¶16-945"
 ---
-
 # What constitutes a “gift”? ¶16-945
 
 A transfer of property will constitute a “gift” if the property was transferred voluntarily and no advantage of a material character was received by the taxpayer in return (TR 2005/13). Thus, a payment by a parent to a school building fund, pursuant to an arrangement whereby the parent received a reduction in the amount of fees to be paid in respect of the child attending the school, was not a gift (McPhail (1968) 15 ATD 16; [1968] HCA 13; (1968) 41 ALJR 346). A contribution to an overseas aid fund that enabled the taxpayer to participate in an aid project and which funded his airfare and accommodation was also not a gift (Hodges 97 ATC 2158).

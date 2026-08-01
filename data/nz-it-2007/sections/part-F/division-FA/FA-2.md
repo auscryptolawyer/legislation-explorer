@@ -8,7 +8,6 @@ section_title: Recharacterisation of certain debentures
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FA 2  Recharacterisation of certain debentures
 
 **Treatment of debenture and interest**

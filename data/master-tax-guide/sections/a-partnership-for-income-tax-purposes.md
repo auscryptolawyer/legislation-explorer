@@ -5,7 +5,6 @@ section: "a-partnership-for-income-tax-purposes"
 title: "A partnership for income tax purposes"
 paragraph: "¶5-000"
 ---
-
 # A partnership for income tax purposes ¶5-000
 
 A partnership, for general law purposes, is the relationship that exists between persons carrying on business in common with a view to proﬁt. For income tax purposes, however, the deﬁnition of “partnership” (ITAA97 s 995-1(1)) not only encompasses a partnership in that sense, but also an association of persons in receipt of income jointly, eg share farmers. Thus, the joint owners of property who share income from the property, whether as joint tenants or tenants in common, will be partners for income tax purposes, even though they may not be partners under general law (McDonald 87 ATC 4541, Yeung 88 ATC 4193; [1988] FCA 73; TR 93/32); they will only be partners under general law if ownership of the property amounts to the carrying on of a business. The deﬁnition also expressly includes a limited partnership (¶5-030).

@@ -8,7 +8,6 @@ section_title: Use of company’s credits carried forward
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LK 9  Use of company’s credits carried forward
 
 **When this section applies**

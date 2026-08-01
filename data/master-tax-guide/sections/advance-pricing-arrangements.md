@@ -5,7 +5,6 @@ section: "advance-pricing-arrangements"
 title: "Advance pricing arrangements"
 paragraph: "¶22-650"
 ---
-
 # Advance pricing arrangements ¶22-650
 
 An Advance Pricing Arrangement (APA) is an agreement between the taxpayer, the ATO and, where appropriate, one or more foreign tax authorities regarding the income tax treatment of international transactions, agreements or arrangements between related parties or associates.

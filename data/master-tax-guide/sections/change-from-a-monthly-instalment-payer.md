@@ -5,7 +5,6 @@ section: "change-from-a-monthly-instalment-payer"
 title: "Change from a monthly instalment payer"
 paragraph: "¶27-430"
 ---
-
 # Change from a monthly instalment payer ¶27-430
 
 A monthly instalment payer ceases to be a monthly payer for a later tax year where (TAA s 45-136(4)):

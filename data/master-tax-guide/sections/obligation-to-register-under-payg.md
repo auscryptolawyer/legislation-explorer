@@ -5,7 +5,6 @@ section: "obligation-to-register-under-payg"
 title: "Obligation to register under PAYG"
 paragraph: "¶26-600"
 ---
-
 # Obligation to register under PAYG ¶26-600
 
 Registration of withholders An entity required to pay an amount to the Commissioner under PAYG withholding must apply to be registered with the Commissioner (TAA sch 1 s 16-140). The entity must apply in the approved form by the ﬁrst day on which it is required to withhold an amount (or pay an amount in respect of a non-cash beneﬁt).

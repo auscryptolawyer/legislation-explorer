@@ -8,7 +8,6 @@ section_title: Employer’s superannuation contribution tax
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EF 2  Employer’s superannuation contribution tax
 
 An amount of employer’s superannuation contribution tax (ESCT) for which a deduction is allowed may be deducted only in the income year in which the employer’s superannuation cash contributions to which the tax relates are made, whether or not the tax actually becomes due and payable in the income year.

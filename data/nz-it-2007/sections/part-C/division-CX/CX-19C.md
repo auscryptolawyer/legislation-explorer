@@ -8,7 +8,6 @@ section_title: Certain public transport
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CX 19C  Certain public transport
 
 **Travel between home and work**

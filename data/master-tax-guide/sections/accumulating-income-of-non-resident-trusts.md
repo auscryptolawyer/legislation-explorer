@@ -5,7 +5,6 @@ section: "accumulating-income-of-non-resident-trusts"
 title: "Accumulating income of non-resident trusts"
 paragraph: "¶6-075"
 ---
-
 # Accumulating income of non-resident trusts ¶6-075
 
 Various special measures prevent the deferral of Australian tax on trust income accumulated in a non- resident trust for the beneﬁt of an Australian resident beneﬁciary of the trust (Pt III Div 6AAA). These special measures extend to trusts that do not have the derivation of trust income as an object but instead concentrate on realised capital gains at the end of a period of time.

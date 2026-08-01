@@ -5,7 +5,6 @@ section: "year-end-tax-strategies-checklist"
 title: "Year end tax strategies checklist"
 paragraph: "¶31-700"
 ---
-
 # Year end tax strategies checklist ¶31-700
 
 The following is a checklist of some of the income tax planning strategies outlined in this chapter or elsewhere in the Master Tax Guide that may be particularly relevant as the tax year draws to a close. Note that, as in all tax planning situations, other considerations must also be considered — for example, personal factors, commercial considerations, common sense, the general economic climate and the potential impact of other taxes. For simplicity, a tax year ending on 30 June is assumed.

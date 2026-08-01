@@ -5,7 +5,6 @@ section: "business-entities"
 title: "business entities"
 paragraph: "¶7-050"
 ---
-
 # business entities ¶7-050
 
 Concessions and tools for small and medium business entities The federal tax acts provide for a wide range of concessions for small and medium businesses and their stakeholders. The potential availability of the diﬀerent tax concessions generally depends upon whether the entity is a “small business entity”, a “CGT small business entity” or a “medium business entity” (¶7-050).

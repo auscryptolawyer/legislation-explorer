@@ -5,7 +5,6 @@ section: "10-360-commercial-debt-forgiveness"
 title: "10-360 - Commercial debt forgiveness"
 paragraph: "None"
 ---
-
 # 10-360 - Commercial debt forgiveness
 
 Worked example: Commercial debt forgiveness Issue On 20 February 2022, Patrice Legrand lent $2 million to Alpha Pty Ltd, a company wholly owned by his brother, Francois. Their parents had died when they were young, and Patrice, the older brother, had brought up Francois. Accordingly, he felt it was his duty to support whatever endeavours Francois engaged in.

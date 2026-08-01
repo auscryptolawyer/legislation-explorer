@@ -8,7 +8,6 @@ section_title: Credit transfer notices
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 7  Credit transfer notices
 
 **When this section applies**

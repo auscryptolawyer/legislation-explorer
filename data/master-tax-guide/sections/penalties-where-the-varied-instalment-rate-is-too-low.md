@@ -5,7 +5,6 @@ section: "penalties-where-the-varied-instalment-rate-is-too-low"
 title: "Penalties where the varied instalment rate is too low"
 paragraph: "¶27-320"
 ---
-
 # Penalties where the varied instalment rate is too low ¶27-320
 
 A taxpayer is liable to GIC for each instalment month or quarter in which the taxpayer chooses to use an instalment rate that is less than 85% of the benchmark instalment rate (¶27-490) for that income year (¶27-280). GIC is payable on the following amount (TAA s 45-225; 45-230): taxpayer’s instalment rate                                                                                                                                       credit ×                                            income for the                                       + discrepancy                                                                                                                                 adjustment variation month or quarter The “rate discrepancy” is the diﬀerence between the varied instalment rate chosen by the taxpayer and the lesser of the following:

@@ -8,7 +8,6 @@ section_title: Standard method
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RC 6  Standard method
 
 **When this section applies**

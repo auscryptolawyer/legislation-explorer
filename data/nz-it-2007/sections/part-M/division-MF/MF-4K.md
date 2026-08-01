@@ -8,7 +8,6 @@ section_title: Calculation of instalments: 31 July 2024 to 31 March 2025
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 4K  Calculation of instalments: 31 July 2024 to 31 March 2025
 
 **When this section applies**

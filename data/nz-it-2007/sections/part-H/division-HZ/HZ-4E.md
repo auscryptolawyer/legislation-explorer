@@ -8,7 +8,6 @@ section_title: Transition out of LTC regime for Taxation (Annual Rates for 2016â
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HZ 4E  Transition out of LTC regime for Taxation (Annual Rates for 2016â€“17, Closely Held Companies, and Remedial Matters) Act 2017
 
 **When this section applies**

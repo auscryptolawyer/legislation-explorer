@@ -5,7 +5,6 @@ section: "refund-for-primary-producers-and-tourist-operators"
 title: "Refund for primary producers and tourist operators"
 paragraph: "¶23-210"
 ---
-
 # Refund for primary producers and tourist operators ¶23-210
 
 GST-registered primary producers and tourist operators who acquire specified types of car on which luxury rds car tax (LCT) has been paid at the 33% rate are able to apply for a refund of 8/33 of the LCT (LCT Act Div 18). This will normally reduce their effective LCT rate to 25%. However, the maximum amount of the refund is limited to $10,000. The refund applies even if the car is purchased through a financing arrangement.

@@ -8,7 +8,6 @@ section_title: Memorandum accounts of consolidated groups
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OP 1  Memorandum accounts of consolidated groups
 
 **Single company**

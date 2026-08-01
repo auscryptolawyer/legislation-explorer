@@ -5,7 +5,6 @@ section: "excessive-remuneration-to-relatives"
 title: "Excessive remuneration to relatives"
 paragraph: "¶16-530"
 ---
-
 # Excessive remuneration to relatives ¶16-530
 
 Although salary or wages paid by a taxpayer to a relative or by a company to a shareholder or director who is also an employee may qualify for deduction, the Commissioner can disallow the deduction to the extent that he considers the remuneration to be in excess of a reasonable amount (ITAA97 s 26-35; ITAA36 s 109).

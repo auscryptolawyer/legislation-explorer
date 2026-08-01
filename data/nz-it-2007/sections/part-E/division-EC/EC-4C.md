@@ -8,7 +8,6 @@ section_title: Value and timing of transfers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 4C  Value and timing of transfers
 
 **When this section applies**

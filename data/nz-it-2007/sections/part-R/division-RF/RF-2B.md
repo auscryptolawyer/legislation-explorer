@@ -8,7 +8,6 @@ section_title: Non-resident financial arrangement income: outline and concepts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 2B  Non-resident financial arrangement income: outline and concepts
 
 **What this section does**

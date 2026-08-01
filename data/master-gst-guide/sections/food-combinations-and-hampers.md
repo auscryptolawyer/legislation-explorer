@@ -5,7 +5,6 @@ section: "food-combinations-and-hampers"
 title: "Food combinations and hampers"
 paragraph: "¶13-170"
 ---
-
 # Food combinations and hampers ¶13-170
 
 Food that consists of a combination of GST-free food and taxable prepared food, bakery products, confectionery, snacks, ice-cream or biscuits is itself taxable (s 38-3; sch 1). For example, a single snack pack containing cheese and biscuits, which are designed to be consumed together, is taxable as a combination food because it includes biscuits which are taxable, even though the cheese by itself would be GST-free. However, this does not apply where separately packaged, unrelated goods are simply packed and sold together. For example, where a hamper or decorative box contains a (taxable) box of chocolates and a (GST-free) jar of coffee, the GST is calculated only on a proportional value basis (¶4-200).

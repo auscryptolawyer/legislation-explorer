@@ -8,7 +8,6 @@ section_title: Application of global anti-base erosion model rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HP 3  Application of global anti-base erosion model rules
 
 **What this section does**

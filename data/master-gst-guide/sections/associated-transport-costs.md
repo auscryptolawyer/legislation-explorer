@@ -5,7 +5,6 @@ section: "associated-transport-costs"
 title: "Associated transport costs"
 paragraph: "¶12-170"
 ---
-
 # Associated transport costs ¶12-170
 
 - repairs

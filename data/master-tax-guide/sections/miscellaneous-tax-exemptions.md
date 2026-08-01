@@ -5,7 +5,6 @@ section: "miscellaneous-tax-exemptions"
 title: "Miscellaneous tax exemptions"
 paragraph: "¶10-885"
 ---
-
 # Miscellaneous tax exemptions ¶10-885
 
 In addition to items discussed elsewhere in this chapter, the following are generally exempt from tax:

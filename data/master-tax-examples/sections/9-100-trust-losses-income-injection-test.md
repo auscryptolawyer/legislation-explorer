@@ -5,7 +5,6 @@ section: "9-100-trust-losses-income-injection-test"
 title: "9-100 - Trust losses income injection test"
 paragraph: "None"
 ---
-
 # 9-100 - Trust losses income injection test
 
 Worked example: Trust losses; income injection test Issue The Grapevine Family Trust carries on a profitable winery business in the Hunter Valley region in New South Wales. The trustee is Travis Mason and the beneficiaries include himself, his wife Anna and son Lucas and the Speciality Wines Trust. The Speciality Wines Trust is Lucas’s family trust which commenced its wine wholesaling business in the 2022–23 tax year and of which Lucas is the trustee. The beneficiaries of the Speciality Wines Trust are Travis Mason, Anna and Lucas himself. No interposed election has been made to include the Speciality Wines Trust in the Grapevine Family Trust’s family group.

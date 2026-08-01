@@ -5,7 +5,6 @@ section: "overview-of-imputation-integrity-measures"
 title: "Overview of imputation integrity measures"
 paragraph: "¶4-900"
 ---
-
 # Overview of imputation integrity measures ¶4-900
 
 In its basic form, the imputation system could be open to substantial abuse. Accordingly, a number of integrity measures have been put in place to ensure that the system’s operation is consistent with the government’s taxation policy intentions.

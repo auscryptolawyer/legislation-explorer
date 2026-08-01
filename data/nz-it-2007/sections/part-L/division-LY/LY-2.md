@@ -8,7 +8,6 @@ section_title: Key terms
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LY 2  Key terms
 
 **Meaning of core research and development activity**

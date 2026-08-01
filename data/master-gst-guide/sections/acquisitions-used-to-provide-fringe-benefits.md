@@ -5,7 +5,6 @@ section: "acquisitions-used-to-provide-fringe-benefits"
 title: "Acquisitions used to provide fringe benefits"
 paragraph: "¶24-210"
 ---
-
 # Acquisitions used to provide fringe benefits ¶24-210
 
 An employer who acquires goods or services to provide fringe benefits to its employees can normally claim an input tax credit (ITC) for that acquisition (¶5-040). Fringe benefits the cost of which includes GST are called a “Type 1” fringe benefit. FBT on Type 1 fringe benefits is grossed up to effectively recover the amount of the ITC to maintain neutrality of treatment between cash salary and fringe benefits. The gross-up factor for these benefits for the FBT year ending 31 March 2026 is 2.0802 (unchanged from previous years).

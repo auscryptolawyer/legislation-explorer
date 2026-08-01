@@ -5,7 +5,6 @@ section: "commissioners-discretion-to-remit-penalties"
 title: "Commissioner’s discretion to remit penalties"
 paragraph: "¶29-400"
 ---
-
 # Commissioner’s discretion to remit penalties ¶29-400
 
 The Commissioner has discretion to remit an administrative penalty in whole or in part (TAA sch 1 s 298-20).

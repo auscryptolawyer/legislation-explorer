@@ -5,7 +5,6 @@ section: "variation-of-instalments-based-on-instalment-income"
 title: "Variation of instalments based on instalment income"
 paragraph: "¶27-280"
 ---
-
 # Variation of instalments based on instalment income ¶27-280
 
 All monthly PAYG instalment payers and some quarterly PAYG instalment payers are ineligible to pay quarterly PAYG instalments based on GDP-adjusted notional tax. Further some quarterly payers, being eligible, have declined to use this method. Such taxpayers may wish to use an instalment rate other than that which has been advised by the Commissioner. Note that annual payers can use the instalment rate method but are not eligible to use a varied rate. (Variation of instalments by taxpayers who use the GDP-adjusted notional tax basis is discussed at ¶27-300.)

@@ -8,7 +8,6 @@ section_title: Qualifying companies: transition into partnership
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HZ 4B  Qualifying companies: transition into partnership
 
 **When this section applies**

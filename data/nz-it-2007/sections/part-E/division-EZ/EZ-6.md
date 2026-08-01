@@ -8,7 +8,6 @@ section_title: Reduction: broodmare previously used for breeding in New Zealand:
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 6  Reduction: broodmare previously used for breeding in New Zealand: pre-1 August 2006
 
 **Broodmare to which this section applies**

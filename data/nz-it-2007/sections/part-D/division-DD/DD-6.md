@@ -8,7 +8,6 @@ section_title: Entertainment as business or for charitable purpose
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DD 6  Entertainment as business or for charitable purpose
 
 **Entertainment as business**

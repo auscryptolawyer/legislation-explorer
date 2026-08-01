@@ -8,7 +8,6 @@ section_title: Repayment of grant-related suspensory loans
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DF 2  Repayment of grant-related suspensory loans
 
 **Deduction**

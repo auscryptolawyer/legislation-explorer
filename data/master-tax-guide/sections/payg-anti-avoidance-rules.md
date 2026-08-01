@@ -5,7 +5,6 @@ section: "payg-anti-avoidance-rules"
 title: "PAYG anti-avoidance rules"
 paragraph: "¶27-600"
 ---
-
 # PAYG anti-avoidance rules ¶27-600
 
 Penalties may be applied to an entity whose tax position, so far as it relates to PAYG instalments, is altered by a scheme that is inconsistent with the purposes and objects of the PAYG instalments regime (TAA sch 1 Subdiv 45-P: ss 45-595 to 45-640). These anti-avoidance rules are not, however, intended to apply to “a straightforward use of structural features” of the PAYG instalments system (eg a choice to use a varied instalment rate or to pay instalments on the basis of notional tax) if that use is consistent with the legislative purposes and policy (s 45-595(2)).

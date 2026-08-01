@@ -5,7 +5,6 @@ section: "exemption-for-shipping-income"
 title: "Exemption for shipping income"
 paragraph: "¶10-883"
 ---
-
 # Exemption for shipping income ¶10-883
 
 Ordinary and statutory income from qualifying shipping activities using an eligible vessel is exempt from income tax (ITAA97 s 51-100). An eligible vessel is one that has a shipping exempt income certiﬁcate issued for it under the Shipping Reform (Tax Incentives) Act 2012.

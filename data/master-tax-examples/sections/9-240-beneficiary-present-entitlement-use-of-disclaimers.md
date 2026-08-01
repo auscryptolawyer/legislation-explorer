@@ -5,7 +5,6 @@ section: "9-240-beneficiary-present-entitlement-use-of-disclaimers"
 title: "9-240 - Beneficiary present entitlement use of disclaimers"
 paragraph: "None"
 ---
-
 # 9-240 - Beneficiary present entitlement use of disclaimers
 
 Worked example: Beneficiary; present entitlement; use of disclaimers Issue Mary Richards is an Australian resident taxpayer who was in a 10-year relationship with Jeremy Steele.

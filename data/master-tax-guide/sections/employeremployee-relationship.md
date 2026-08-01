@@ -5,7 +5,6 @@ section: "employeremployee-relationship"
 title: "Employer–employee relationship"
 paragraph: "¶39-022"
 ---
-
 # Employer–employee relationship ¶39-022
 
 The relationship between an employer and employee is a contractual one, often referred to as a “contract of service”. This may be contrasted with an independent contractor relationship that is referred to as a “contract for service”. An independent contractor typically contracts to achieve a result whereas an employee contracts to provide his/her labour typically to enable the employer to achieve a result. Where the substance of a contract is to achieve a speciﬁed result, it is likely (but not conclusive) that it is a contract for service (World Book (Australia) Pty Ltd 92 ATC 4327: ¶26-150).

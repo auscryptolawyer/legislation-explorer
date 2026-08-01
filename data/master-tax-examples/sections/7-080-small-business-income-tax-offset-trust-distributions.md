@@ -5,7 +5,6 @@ section: "7-080-small-business-income-tax-offset-trust-distributions"
 title: "7-080 - Small business income tax offset trust distributions"
 paragraph: "None"
 ---
-
 # 7-080 - Small business income tax offset trust distributions
 
 Worked example: Small business income tax offset; trust distributions Issue The Kent Family Trust (KFT) carries on a business in the food industry and is a small business entity in relation to its business activities. The discretionary beneficiaries of KFT include Dominic and Rebecca Kent and their 2 children, Sally and Thomas, who are both under 18 years of age.

@@ -8,7 +8,6 @@ section_title: Trustee income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # HC 7  Trustee income
 
 **Meaning**

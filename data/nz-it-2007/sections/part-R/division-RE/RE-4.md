@@ -8,7 +8,6 @@ section_title: Persons who have withholding obligations
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RE 4  Persons who have withholding obligations
 
 **Requirements**

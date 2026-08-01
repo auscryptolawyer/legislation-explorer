@@ -5,7 +5,6 @@ section: "employer-liable-for-fbt"
 title: "Employer liable for FBT"
 paragraph: "¶35-090"
 ---
-
 # Employer liable for FBT ¶35-090
 
 It is the employer whose employee (or the associate of the employee) receives the beneﬁt who is liable for FBT (s 66), regardless of whether the employer, an associate or a third party provides the beneﬁt. This is so whether the employer is a sole trader, partnership, trustee, corporation, unincorporated body, government or government body (ss 165; 166).

@@ -8,7 +8,6 @@ section_title: Use of tax credits
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LA 9  Use of tax credits
 
 An amount of a tax credit is used once, so far as it extends.

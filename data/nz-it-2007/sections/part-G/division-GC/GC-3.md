@@ -8,7 +8,6 @@ section_title: Disposals by life insurers
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GC 3  Disposals by life insurers
 
 Section GC 1 applies to a life insurer that disposes of any property, other than a financial arrangement, in the course of their business of life insurance, as if the property were trading stock.

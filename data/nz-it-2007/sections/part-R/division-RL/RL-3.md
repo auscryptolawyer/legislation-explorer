@@ -8,7 +8,6 @@ section_title: Associated persons: who must pay, and how?
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RL 3  Associated persons: who must pay, and how?
 
 Despite section RL 2, if the vendor and purchaser are associated persons—

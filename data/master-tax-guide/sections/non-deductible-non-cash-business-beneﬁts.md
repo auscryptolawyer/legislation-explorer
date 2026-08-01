@@ -5,7 +5,6 @@ section: "non-deductible-non-cash-business-beneﬁts"
 title: "Non-deductible non-cash business beneﬁts"
 paragraph: "¶16-157"
 ---
-
 # Non-deductible non-cash business beneﬁts ¶16-157
 
 A deduction allowable to a business taxpayer may be reduced where non-cash business beneﬁts are provided to induce the taxpayer to purchase particular items of plant or equipment or to receive particular services (ITAA36 s 51AK).

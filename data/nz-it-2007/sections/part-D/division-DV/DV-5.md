@@ -8,7 +8,6 @@ section_title: Investment funds: transfer of expenditure to master funds
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DV 5  Investment funds: transfer of expenditure to master funds
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "beneﬁts"
 title: "beneﬁts"
 paragraph: "¶19-006"
 ---
-
 # beneﬁts ¶19-006
 
 Mining payments made to “Indigenous people” and distributing groups, relating to the use of “Indigenous land” for mining and exploration are subject to mining withholding tax (ITAA36 s 128V) at the rate of 4%. The amount withheld includes GST if the payment is for a taxable supply (ID 2010/115).

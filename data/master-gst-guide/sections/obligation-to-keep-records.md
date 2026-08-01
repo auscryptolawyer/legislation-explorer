@@ -5,7 +5,6 @@ section: "obligation-to-keep-records"
 title: "Obligation to keep records"
 paragraph: "¶18-040"
 ---
-
 # Obligation to keep records ¶18-040
 
 - taxable supply or importation, and creditable acquisition or importation

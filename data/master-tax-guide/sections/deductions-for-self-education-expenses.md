@@ -5,7 +5,6 @@ section: "deductions-for-self-education-expenses"
 title: "Deductions for self-education expenses"
 paragraph: "¶16-450"
 ---
-
 # Deductions for self-education expenses ¶16-450
 
 In general terms, self-education expenses are deductible under ITAA97 s 8-1 where the expenses have the necessary connection with the production of the taxpayer’s assessable income. According to TR 2024/3 (which replaced TR 98/9 with eﬀect from 27 September 2023), self-education expenses are considered to be incurred in gaining or producing assessable income where: (1) the taxpayer’s income-earning activities are based on the exercise of a skill or some speciﬁc knowledge and the self-education enables the taxpayer to maintain or improve that skill or knowledge (Principle 1), or (2) the self-education objectively leads to, or is likely to lead to, an increase in the taxpayer’s income from their current income-earning activities in the future (Principle 2).

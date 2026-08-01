@@ -5,7 +5,6 @@ section: "assessability-of-interest-income"
 title: "Assessability of interest income"
 paragraph: "¶10-470"
 ---
-
 # Assessability of interest income ¶10-470
 
 Interest received by or accrued to a resident is usually assessable income whatever its source or the form of payment, eg as a lump sum (Case W40 89 ATC 399). Interest paid on the amount of compensation determined by a court or tribunal for the compulsory acquisition of property is assessable (Haig 94 ATC 5002, Case 2/2005 2005 ATC 115; [2004] AATA 1395). The lump sum consideration received for the assignment by a lender of its right to interest under a loan was held to be assessable in Myer Emporium 87 ATC 4363; [1987] HCA 18 (¶10-020). However, pensioners do not have to pay tax on interest notionally assessed for social security purposes on amounts held in cash or low interest accounts.

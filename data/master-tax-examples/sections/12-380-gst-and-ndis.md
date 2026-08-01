@@ -5,7 +5,6 @@ section: "12-380-gst-and-ndis"
 title: "12-380 - GST and NDIS"
 paragraph: "None"
 ---
-
 # 12-380 - GST and NDIS
 
 Worked example: GST and NDIS Issue Magpie Caring Services Pty Ltd is a GST registered company that supplies fitness program services to National Disability Insurance Scheme (NDIS) participants.
@@ -51,8 +50,6 @@ If a supply is covered by an item listed in Table 1, the requirement to be cover
 Table 1 Item           Supply 1              Specialist Disability Accommodation and accommodation / tenancy assistance 2              Assistance in co-ordinating or managing life stages, transitions and supports, including daily tasks in a group or shared living arrangement 3              Household tasks 4              Assistance with and training in travel / transport arrangements, excluding taxi fares 5              Interpreting and translation 6              Assistance to access and maintain education and employment 7              Assistive equipment for recreation 8              Early intervention supports for early childhood 9              Management of funding for supports in a participant’s plan If Table 1 doesn’t apply, it is then necessary to consider Table 2. When an item in Table 2 is relevant to the entity’s supply, the requirement to be covered by the NDIS Determination is only satisfied if the item is also covered by one of 3 other determinations:
 
 - Schedule 1 to the GST-free Supply (Care) Determination 2017 (Care Determination)
-
-- Section 6 of the A New Tax System (Goods and Services Tax) (GST-free Supply–Residential Care–
 
 Government Funded Supplier) Determination 2015 (Residential Care Determination), or
 

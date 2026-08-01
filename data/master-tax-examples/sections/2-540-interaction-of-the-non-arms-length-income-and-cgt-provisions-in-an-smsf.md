@@ -5,7 +5,6 @@ section: "2-540-interaction-of-the-non-arms-length-income-and-cgt-provisions-in-
 title: "2-540 - Interaction of the non-arms length income and CGT provisions in an SMSF"
 paragraph: "None"
 ---
-
 # 2-540 - Interaction of the non-arms length income and CGT provisions in an SMSF
 
 Worked example: Interaction of the non-arm’s length income and CGT provisions in an SMSF Issue The Hinchcliffe Family SMSF disposes of certain assets during the year ended 30 June 2025.

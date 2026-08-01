@@ -5,7 +5,6 @@ section: "ato-powers-and-taxpayer-rights"
 title: "ATO powers and taxpayer rights"
 paragraph: "¶18-165"
 ---
-
 # ATO powers and taxpayer rights ¶18-165
 
 The Commissioner’s most important specific weapons in carrying out its investigative and audit functions are:

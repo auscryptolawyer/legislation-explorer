@@ -5,7 +5,6 @@ section: "general-interest-charge"
 title: "General interest charge"
 paragraph: "¶29-510"
 ---
-
 # General interest charge ¶29-510
 
 Liability to GIC usually arises where an amount of tax is not paid by the payment due date. GIC is calculated daily on a compounding basis (TAA s 8AAC). It applies on each day in the period starting on the day on which the tax was due for payment to the day on which any of the tax remained unpaid. The provisions of ITAA36 and other taxation laws that impose a liability for GIC are set out in TAA s 8AAB. GIC may also apply where an individual or trustee fails to lodge an income tax return on time; the GIC is payable from the date tax is taken to be due and payable, which could be a day before an assessment is made (ITAA97 s 5-5(3)).

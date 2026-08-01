@@ -12,7 +12,6 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
-
 # 14ZZJ  Publishing ART decisions
 
 <a id="s14ZZJ-1"></a>

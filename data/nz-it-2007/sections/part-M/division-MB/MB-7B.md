@@ -8,7 +8,6 @@ section_title: Family scheme income from employment benefits: employees not cont
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MB 7B  Family scheme income from employment benefits: employees not controlling shareholders
 
 **When this section applies**

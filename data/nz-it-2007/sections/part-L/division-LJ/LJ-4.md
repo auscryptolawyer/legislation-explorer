@@ -8,7 +8,6 @@ section_title: Meaning of segment of foreign-sourced income
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LJ 4  Meaning of segment of foreign-sourced income
 
 For the purposes of this Part, a person has a segment of foreign-sourced income equal to an amount of assessable income derived from 1 foreign country that comes from 1 source or is of 1 nature.

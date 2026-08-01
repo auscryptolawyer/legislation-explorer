@@ -8,7 +8,6 @@ section_title: Restrictions on use of national standard cost scheme
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EC 9  Restrictions on use of national standard cost scheme
 
 **National standard cost scheme: first restriction on use of scheme**

@@ -8,7 +8,6 @@ section_title: Limited partnerships treated as companies
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YB 16B  Limited partnerships treated as companies
 
 Notwithstanding anything else in this subpart, a limited partnership is treated as a company for the purposes of the tests of association in sections YB 2, YB 3, and YB 12(2), (3), and (4) and for section YC 4 (Look-through rule for corporate shareholders) if—

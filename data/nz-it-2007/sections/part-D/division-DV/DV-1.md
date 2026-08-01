@@ -8,7 +8,6 @@ section_title: Publicising superannuation funds
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DV 1  Publicising superannuation funds
 
 **When this section applies**

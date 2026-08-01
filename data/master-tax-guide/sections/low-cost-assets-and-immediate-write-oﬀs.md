@@ -5,7 +5,6 @@ section: "low-cost-assets-and-immediate-write-oﬀs"
 title: "Low-cost assets and immediate write-oﬀs"
 paragraph: "¶17-330"
 ---
-
 # Low-cost assets and immediate write-oﬀs ¶17-330
 
 An immediate 100% deduction applies for depreciating assets costing $300 or less that are used by taxpayers predominantly in deriving non-business assessable income provided: (a) the asset was not part of a set of assets acquired during the year where the total cost of the set exceeded $300; and (b) the total cost of the asset and any identical or substantially identical item that the taxpayer started to hold in that year did not exceed $300 (ITAA97 s 40-80(2)). For the meaning of “identical”, see ID 2003/80. The deduction is available for the cost of the asset, reduced by any input tax credits which the taxpayer may be entitled to claim. An apportionment is required if the asset is only partly used for taxable purposes. However, no reduction is made for part-year use of an asset. Such expenditure cannot be allocated to a low-value pool (¶17-810).

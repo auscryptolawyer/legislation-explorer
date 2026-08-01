@@ -5,7 +5,6 @@ section: "introduction-to-pt-iva"
 title: "Introduction to Pt IVA"
 paragraph: "¶30-110"
 ---
-
 # Introduction to Pt IVA ¶30-110
 
 The general income tax anti-avoidance provisions appear in ITAA36 Pt IVA. They supplement the numerous anti-avoidance rules directed at particular types of arrangements which appear elsewhere in the Act. Part IVA is also referred to by the acronyms GAAP (general anti-avoidance provision) and GAAR (general anti- avoidance rule).

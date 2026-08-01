@@ -5,7 +5,6 @@ section: "4-120-legal-expenses"
 title: "4-120 - Legal expenses"
 paragraph: "None"
 ---
-
 # 4-120 - Legal expenses
 
 Worked example: Legal expenses Issue Bling & Harvey Pty Ltd (B&H) is a discount wholesaler and retailer of consumer durable whitegoods. On 1 September 2024, B&H entered into a lease of commercial premises and paid a solicitor $1,375 to prepare the lease documentation. On the same day, B&H incurred borrowing expenses of $12,000 on a loan of $180,000 from Australian Finance Corporation for a 10-year term at 7.8% per annum. The purpose of the loan was to fund the acquisition of trading stock.

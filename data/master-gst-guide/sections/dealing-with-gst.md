@@ -5,7 +5,6 @@ section: "dealing-with-gst"
 title: "Dealing with GST"
 paragraph: "¶2-000"
 ---
-
 # Dealing with GST ¶2-000
 
 Although the GST has been in full operation since 1 July 2000, many businesses will still be facing it for the first time — either because they are newly established or because recent changes in their turnover have forced them to register. In addition, some businesses will, even now, still be grappling with the challenges of managing the tax.

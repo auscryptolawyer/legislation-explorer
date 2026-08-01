@@ -5,7 +5,6 @@ section: "adjustment-periods"
 title: "Adjustment periods"
 paragraph: "¶6-304"
 ---
-
 # Adjustment periods ¶6-304
 
 An adjustment for changes in planned use is made annually, usually in the tax period that ends on 30 June or the closest to 30 June — to align as closely as possible with the income tax year (s 129-20). This period is called the adjustment period. The first adjustment period must start at least 12 months after the end of the tax period in which the acquisition was made — to allow adequate time for the taxpayer to assess the use.

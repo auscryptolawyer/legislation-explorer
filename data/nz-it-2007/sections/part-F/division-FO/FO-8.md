@@ -8,7 +8,6 @@ section_title: Bad debts and expenditure or loss on resident’s restricted amal
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FO 8  Bad debts and expenditure or loss on resident’s restricted amalgamation
 
 **When this section applies**

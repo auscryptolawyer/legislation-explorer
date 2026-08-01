@@ -8,7 +8,6 @@ section_title: Third requirement: residence
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MD 7  Third requirement: residence
 
 **Third requirement**

@@ -8,7 +8,6 @@ section_title: Transition period for amendments to interest apportionment rules
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FZ 8  Transition period for amendments to interest apportionment rules
 
 **What this section does**

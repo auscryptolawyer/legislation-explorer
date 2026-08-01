@@ -5,7 +5,6 @@ section: "sale-of-commercial-residential-premises"
 title: "Sale of commercial residential premises"
 paragraph: "¶11-030"
 ---
-
 # Sale of commercial residential premises ¶11-030
 
 Input taxation does not apply to the sale of commercial residential premises (s 40-65(2)). This means that GST may apply if the vendor is registered.

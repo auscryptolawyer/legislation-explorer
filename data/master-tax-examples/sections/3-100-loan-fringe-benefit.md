@@ -5,7 +5,6 @@ section: "3-100-loan-fringe-benefit"
 title: "3-100 - Loan fringe benefit"
 paragraph: "None"
 ---
-
 # 3-100 - Loan fringe benefit
 
 Worked example: Loan fringe benefit Issue James Mason has worked for 22 years for Fincomp Pty Ltd, a finance company. On 1 April 2024, James requested a loan of $100,000 to undertake renovations on his home and build up his share portfolio. James spent $60,000 on the home renovations and the balance on purchasing shares. He holds no shares in the finance company. The loan was offered on commercial terms. This type of loan was available to all other long serving employees with an interest rate of only 3.45%, which is less than that provided to the public.

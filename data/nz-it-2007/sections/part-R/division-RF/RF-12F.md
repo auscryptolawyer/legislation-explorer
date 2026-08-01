@@ -8,7 +8,6 @@ section_title: Adjustments: first year additional amounts
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RF 12F  Adjustments: first year additional amounts
 
 **When this section applies**

@@ -8,7 +8,6 @@ section_title: Obligations for periods before and from transfer of property
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FB 1C  Obligations for periods before and from transfer of property
 
 **Obligations relating to period before transfer**

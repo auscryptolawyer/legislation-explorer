@@ -5,7 +5,6 @@ section: "debt-interests"
 title: "Debt interests"
 paragraph: "¶23-105"
 ---
-
 # Debt interests ¶23-105
 
 What is a debt interest?

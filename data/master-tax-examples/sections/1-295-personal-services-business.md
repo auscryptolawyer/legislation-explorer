@@ -5,7 +5,6 @@ section: "1-295-personal-services-business"
 title: "1-295 - Personal services business"
 paragraph: "None"
 ---
-
 # 1-295 - Personal services business
 
 Worked example: Personal services business Issue Bernard Horsfall is a lawyer and the sole director and shareholder of Horsfall Legal Pty Ltd, the corporate trustee for the Horsfall Family Trust (HFT). Bernard provides his legal services, which are personal services as they involve the exercise of his skill and judgment, through HFT under a contract for service.

@@ -5,7 +5,6 @@ section: "recovery-from-third-party"
 title: "Recovery from third party"
 paragraph: "¶25-540"
 ---
-
 # Recovery from third party ¶25-540
 
 Where a tax-related liability (¶25-500) is payable, the Commissioner may issue a notice under TAA sch 1 s 260-5 requiring any person who owes money to the taxpayer to pay that money to the Commissioner instead. This power enables the Commissioner to collect the tax-related liability without proceeding to judgment or execution against the taxpayer.

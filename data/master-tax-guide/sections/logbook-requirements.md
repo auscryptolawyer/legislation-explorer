@@ -5,7 +5,6 @@ section: "logbook-requirements"
 title: "Logbook requirements"
 paragraph: "¶16-350"
 ---
-
 # Logbook requirements ¶16-350
 
 In addition to written evidence (¶16-340) to substantiate car expenses, taxpayers using the logbook method must support their claim by appropriate logbook records (ITAA97 ss 28-105; 28-130) and odometer records (ITAA97 ss 28-135; 28-140).

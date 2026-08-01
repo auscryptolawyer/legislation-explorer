@@ -5,7 +5,6 @@ section: "general-rules-for-capital-proceeds"
 title: "General rules for capital proceeds"
 paragraph: "¶11-500"
 ---
-
 # General rules for capital proceeds ¶11-500
 
 The amount of the capital proceeds from a CGT event is generally the sum of the money received or receivable and the market value of any other property received or receivable as a result of the CGT event (s 116-20). If the CGT event is a “supply” for GST purposes, the GST on the supply is excluded when working out the capital proceeds.

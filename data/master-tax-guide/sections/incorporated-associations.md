@@ -5,7 +5,6 @@ section: "incorporated-associations"
 title: "Incorporated associations"
 paragraph: "¶3-800"
 ---
-
 # Incorporated associations ¶3-800
 
 All incorporated clubs, societies, organisations and associations are regarded as companies for tax purposes. Unincorporated clubs, societies, organisations and associations that cannot be categorised as partnerships (¶5-000) are also regarded as companies. These will include all social clubs, associations and societies.

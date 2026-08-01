@@ -8,7 +8,6 @@ section_title: Cessation of LTCs and dissolution of partnerships
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EW 47B  Cessation of LTCs and dissolution of partnerships
 
 **When this section applies**

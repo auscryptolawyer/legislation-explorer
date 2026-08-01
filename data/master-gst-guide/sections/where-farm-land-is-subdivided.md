@@ -5,7 +5,6 @@ section: "where-farm-land-is-subdivided"
 title: "Where farm land is subdivided"
 paragraph: "¶11-420"
 ---
-
 # Where farm land is subdivided ¶11-420
 
 If a farm is subdivided and sold as a number of going concerns, the sales may be GST-free in accordance with the rules explained at ¶11-500. If the subdivided lots are not going concerns, the sale of the land to an intending farmer may nevertheless be GST-free under the rules explained at ¶11-410.

@@ -5,7 +5,6 @@ section: "12-100-change-of-supply-adjustment-of-input-tax-credits"
 title: "12-100 - Change of supply adjustment of input tax credits"
 paragraph: "None"
 ---
-
 # 12-100 - Change of supply adjustment of input tax credits
 
 credits Worked example: Change of supply; adjustment of input tax credits Issue Leia Caldwell is a property developer who is registered for GST. In the 2023–24 income year, she constructed 10 townhouses on a large suburban block. Leia intended to sell the 10 townhouses as new residential premises with each sale considered a taxable supply for GST purposes. The 10 townhouses were placed on the market while they were being constructed. During the 2023–24 income year, Leia made creditable acquisitions totalling $3.3 million and claimed $300,000 of input tax credits for materials used in the construction of the townhouses.

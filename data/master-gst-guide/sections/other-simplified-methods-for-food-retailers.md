@@ -5,7 +5,6 @@ section: "other-simplified-methods-for-food-retailers"
 title: "Other simplified methods for food retailers"
 paragraph: "¶13-215"
 ---
-
 # Other simplified methods for food retailers ¶13-215
 
 Food retailers may be able to use one or other of the Simplified Accounting Methods (SAMs) approved by the ATO (s 123-5).

@@ -8,7 +8,6 @@ section_title: Restrictions on companies grouping tax losses
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IA 6  Restrictions on companies grouping tax losses
 
 **Groups of companies**

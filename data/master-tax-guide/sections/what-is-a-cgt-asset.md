@@ -5,7 +5,6 @@ section: "what-is-a-cgt-asset"
 title: "What is a CGT asset?"
 paragraph: "¶11-380"
 ---
-
 # What is a CGT asset? ¶11-380
 
 A CGT asset is any kind of property, or a legal or equitable right that is not property (s 108-5). CGT assets include: (i) part of, or an interest in, property or a legal or equitable right that is not property (ii) goodwill or an interest in it (iii) an interest in a partnership asset, and (iv) an interest in a partnership that is not an interest in a partnership asset.

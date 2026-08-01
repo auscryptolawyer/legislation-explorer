@@ -5,7 +5,6 @@ section: "oﬀset-for-private-health-insurance"
 title: "Oﬀset for private health insurance"
 paragraph: "¶15-330"
 ---
-
 # Oﬀset for private health insurance ¶15-330
 
 A tax oﬀset is available for certain taxpayers for the cost of private health insurance premiums (ITAA97 Subdiv 61-G (ss 61-200–61-215)). The taxpayer may opt for the oﬀset to be delivered as reduced health insurance premiums (under the Private Health Insurance Act 2007). A taxpayer cannot beneﬁt from both reduced premiums and the oﬀset (s 61-210(2)–(5)).

@@ -5,7 +5,6 @@ section: "liability-to-pay-payg-instalments"
 title: "Liability to pay PAYG instalments"
 paragraph: "¶27-120"
 ---
-
 # Liability to pay PAYG instalments ¶27-120
 
 A taxpayer is only liable to pay PAYG instalments if the Commissioner has, by written notice, given the taxpayer an instalment rate (TAA s 45-15). An instalment rate will not be given to a taxpayer whose assessable income has always consisted wholly of withholding payments (¶26-120), other than non- quotation withholding payments (eg payments of investment income where a TFN or an ABN is not quoted).

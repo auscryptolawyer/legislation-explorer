@@ -5,7 +5,6 @@ section: "transferring-losses-to-joined-group"
 title: "Transferring losses to joined group"
 paragraph: "¶8-100"
 ---
-
 # Transferring losses to joined group ¶8-100
 
 When an entity ﬁrst becomes a member of a consolidated group (as either a subsidiary member or head company), any losses it made in an income year before joining the group are tested to determine whether they can be transferred to the group. Any such losses that fail the transfer tests are permanently lost.

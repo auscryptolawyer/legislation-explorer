@@ -8,7 +8,6 @@ section_title: Consistency of use of IFRS method: Determination G3 change allowe
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EZ 52B  Consistency of use of IFRS method: Determination G3 change allowed
 
 **When this section applies**

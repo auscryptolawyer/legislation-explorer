@@ -5,7 +5,6 @@ section: "concessions-for-temporary-residents"
 title: "Concessions for temporary residents"
 paragraph: "¶22-125"
 ---
-
 # Concessions for temporary residents ¶22-125
 
 Individuals who qualify as “temporary residents” are exempt from Australian tax on certain foreign source income or capital gains. In this respect, they are treated similarly to non-residents, even though in many cases they would normally have been classed as residents under the normal tax rules. They are also exempt from interest withholding tax, and special rules apply to employee shares and rights (¶12-630).

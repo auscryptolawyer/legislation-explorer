@@ -5,7 +5,6 @@ section: "2-065-main-residence-building-repairing-or-renovating-a-dwelling-the-4
 title: "2-065 - Main residence building repairing or renovating a dwelling the 4-year rule"
 paragraph: "None"
 ---
-
 # 2-065 - Main residence building repairing or renovating a dwelling the 4-year rule
 
 Worked example: Main residence: building, repairing or renovating a dwelling; the 4-year rule Issue Dennis Spooner purchased land in Brisbane on 2 November 2021, with a view to building his private residence. Dennis was living at his mother’s house near the property as his mother’s carer, while the process of obtaining development approval and construction was undertaken.

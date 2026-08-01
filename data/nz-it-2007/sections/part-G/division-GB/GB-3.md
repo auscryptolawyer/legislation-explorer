@@ -8,7 +8,6 @@ section_title: Arrangements for carrying forward loss balances: companies’ own
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # GB 3  Arrangements for carrying forward loss balances: companies’ ownership
 
 **When this section applies**

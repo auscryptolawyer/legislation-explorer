@@ -5,7 +5,6 @@ section: "tax-planning-for-cgt"
 title: "Tax planning for CGT"
 paragraph: "¶31-620"
 ---
-
 # Tax planning for CGT ¶31-620
 
 - ascertaining which, if any, CGT event has occurred (as this aﬀects the calculation and timing of

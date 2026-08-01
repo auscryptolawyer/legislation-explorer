@@ -5,7 +5,6 @@ section: "where-business-owner-dies"
 title: "Where business owner dies"
 paragraph: "¶6-415"
 ---
-
 # Where business owner dies ¶6-415
 
 When a GST-registered individual dies, their registration must be cancelled. This may give rise to an increasing adjustment on cessation of registration (¶6-410). However, those rules will not apply if the deceased’s business continues to be carried on by a GST-registered estate trustee (s 138-17). Nor will they apply when a GST-registered estate beneficiary takes over the running of the business from the trustee.

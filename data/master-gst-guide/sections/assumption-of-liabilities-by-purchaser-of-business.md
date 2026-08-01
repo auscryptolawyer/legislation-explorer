@@ -5,7 +5,6 @@ section: "assumption-of-liabilities-by-purchaser-of-business"
 title: "Assumption of liabilities by purchaser of business"
 paragraph: "¶11-515"
 ---
-
 # Assumption of liabilities by purchaser of business ¶11-515
 
 Where an enterprise is sold, the purchaser commonly takes on various liabilities, both contractual and statutory, previously borne by the vendor. The question arises as to whether the value of those liabilities should be taken into account in determining the consideration paid for the business for GST purposes.

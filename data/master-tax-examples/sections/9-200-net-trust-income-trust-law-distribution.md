@@ -5,7 +5,6 @@ section: "9-200-net-trust-income-trust-law-distribution"
 title: "9-200 - Net trust income trust law distribution"
 paragraph: "None"
 ---
-
 # 9-200 - Net trust income trust law distribution
 
 Worked example: Net trust income; trust law distribution Issue The QRS trading trust has the following details for the 2024–25 income tax year: Trust Income: $ Trading profits                                                                                                    2,000,000 Franked dividends                                                                                                  1,400,000 Capital gain                                                                                                        900,000 Trust income                                                                                                       4,300,000 Net (taxable) income: $ Trading profits                                                                                                    2,000,000 Franked dividends                                                                                                  1,400,000 Franking credits                                                                                                    600,000 Capital gain (after application of CGT discount)                                                                    450,000 ITAA36 s 95 TAXABLE INCOME                                                                                         4,450,000 The trustee resolves that the trust income be distributed as follows:

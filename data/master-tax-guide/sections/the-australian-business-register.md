@@ -5,7 +5,6 @@ section: "the-australian-business-register"
 title: "The Australian Business Register"
 paragraph: "¶33-110"
 ---
-
 # The Australian Business Register ¶33-110
 
 The Registrar of the Australian Business Register (ABR) must maintain the register (ABNA s 24). Entered into the register in relation to each entity is (where appropriate):

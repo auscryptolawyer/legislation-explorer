@@ -8,7 +8,6 @@ section_title: Expenditure or loss of hybrid entity, or non-resident through ded
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # FH 9  Expenditure or loss of hybrid entity, or non-resident through deducting branch, producing double deduction without double income
 
 **When this section applies**

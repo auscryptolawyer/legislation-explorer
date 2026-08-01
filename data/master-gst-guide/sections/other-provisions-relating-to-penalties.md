@@ -5,7 +5,6 @@ section: "other-provisions-relating-to-penalties"
 title: "Other provisions relating to penalties"
 paragraph: "¶18-310"
 ---
-
 # Other provisions relating to penalties ¶18-310
 
 Certain acts and omissions may result in more than one penalty being imposed. For example, if you fail to lodge a GST return, you may be liable for a penalty for late payment, as well as the penalty for failure to lodge the return.

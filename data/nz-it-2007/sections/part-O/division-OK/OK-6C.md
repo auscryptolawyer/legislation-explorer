@@ -8,7 +8,6 @@ section_title: MACA research and development tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OK 6C  MACA research and development tax credit
 
 **Credit**

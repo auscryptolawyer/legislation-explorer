@@ -5,7 +5,6 @@ section: "overview-of-penalties"
 title: "Overview of penalties"
 paragraph: "¶29-000"
 ---
-
 # Overview of penalties ¶29-000
 
 Administrative penalty regime A uniform administrative penalty regime applies to all “taxation laws” (unless speciﬁcally excluded) as deﬁned in ITAA97 s 995-1(1) (TAA s 3AA). Uniform penalties apply irrespective of the type of tax involved, provided the tax is imposed under a relevant taxation law.

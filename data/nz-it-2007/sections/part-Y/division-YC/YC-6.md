@@ -8,7 +8,6 @@ section_title: Disregarding certain securities
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # YC 6  Disregarding certain securities
 
 **When this section applies**

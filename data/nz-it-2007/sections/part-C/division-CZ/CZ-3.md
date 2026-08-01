@@ -8,7 +8,6 @@ section_title: Exchange variations on 8 August 1975
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CZ 3  Exchange variations on 8 August 1975
 
 **When this section applies**

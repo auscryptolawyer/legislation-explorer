@@ -5,7 +5,6 @@ section: "7-260-superannuation-death-benefit-paid-to-family-members"
 title: "7-260 - Superannuation death benefit paid to family members"
 paragraph: "None"
 ---
-
 # 7-260 - Superannuation death benefit paid to family members
 
 Worked example: Superannuation death benefit paid to family members Issue Galina Quest was aged 83 when she died on 1 December 2024. Her superannuation balance at the date of death was $750,000 and this amount passed to the trustee of her estate to be distributed according to the terms of her will. The trustee of the deceased estate is advised by the trustee of Galina’s superannuation fund that 10% of the $750,000 is a tax free component and 90% is a taxable component (ITAA97 s 307-120).

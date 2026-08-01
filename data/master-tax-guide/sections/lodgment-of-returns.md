@@ -5,7 +5,6 @@ section: "lodgment-of-returns"
 title: "Lodgment of returns"
 paragraph: "¶24-010"
 ---
-
 # Lodgment of returns ¶24-010
 
 In June of each year, the Commissioner issues a Legislative Instrument calling for the lodging of annual income tax returns. A person who fails to lodge a return by the due date stipulated may be liable to prosecution or to the payment of penalties (¶29-100).

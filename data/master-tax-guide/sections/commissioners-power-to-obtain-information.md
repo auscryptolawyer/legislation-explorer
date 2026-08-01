@@ -5,7 +5,6 @@ section: "commissioners-power-to-obtain-information"
 title: "Commissioner’s power to obtain information"
 paragraph: "¶25-240"
 ---
-
 # Commissioner’s power to obtain information ¶25-240
 
 The Commissioner has wide powers to obtain information from a taxpayer or any other person (TAA sch 1 s 353-10). This power also applies to PAYG and the related collection rules. The Commissioner also has powers to issue an “oﬀshore information notice” where information or documents are located outside Australia (TAA sch 1 s 353-25: ¶21-220).

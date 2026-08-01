@@ -8,7 +8,6 @@ section_title: Certain elections to become person with provisional tax liability
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RZ 1  Certain elections to become person with provisional tax liability
 
 **When this section applies**

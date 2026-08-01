@@ -5,7 +5,6 @@ section: "input-taxed-supplies"
 title: "Input taxed supplies"
 paragraph: "¶34-170"
 ---
-
 # Input taxed supplies ¶34-170
 
 If a supply is “input taxed”, no GST is payable on it, but the supplier cannot claim input tax credits for the GST payable on its business inputs that relate to that supply (ss 9-5; 11-15).

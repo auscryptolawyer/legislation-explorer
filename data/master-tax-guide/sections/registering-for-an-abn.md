@@ -5,7 +5,6 @@ section: "registering-for-an-abn"
 title: "Registering for an ABN"
 paragraph: "¶33-105"
 ---
-
 # Registering for an ABN ¶33-105
 
 An ABN is available to: all companies registered under the Corporations Act; government entities; other entities carrying on an enterprise in Australia; an entity that, in the course or furtherance of an enterprise, makes supplies that are connected with Australia and other entities required to be registered for the GST (¶34-110) (ABNA s 8).

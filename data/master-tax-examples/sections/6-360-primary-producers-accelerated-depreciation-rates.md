@@ -5,7 +5,6 @@ section: "6-360-primary-producers-accelerated-depreciation-rates"
 title: "6-360 - Primary producers accelerated depreciation rates"
 paragraph: "None"
 ---
-
 # 6-360 - Primary producers accelerated depreciation rates
 
 Worked example: Primary producers; accelerated depreciation rates Issue Phil and Jill Masters are certified organic farmers operating their business through the Masters Family Trust (MFT). In January 2025, they started irrigation works to channel surface water into the crops grown on their farm. The works, which included the construction of a small dam and the purchase and installation of water pumps, cost $100,000 and were completed in time for the start of winter on 1 June 2025.

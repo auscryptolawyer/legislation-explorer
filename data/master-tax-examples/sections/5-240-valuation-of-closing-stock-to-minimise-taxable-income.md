@@ -5,7 +5,6 @@ section: "5-240-valuation-of-closing-stock-to-minimise-taxable-income"
 title: "5-240 - Valuation of closing stock to minimise taxable income"
 paragraph: "None"
 ---
-
 # 5-240 - Valuation of closing stock to minimise taxable income
 
 Worked example: Valuation of closing stock to minimise taxable income Issue Taurus Pty Ltd manufactures and sells bicycle chains and bicycle brakes, and its trading stock at 30 June 2024 and 30 June 2025 was as follows: 30 June 2024                  30 June 2025 $                           $ Cost — bicycle chains                                                                                           30,000                      35,000 Cost — bicycle brakes                                                                                           15,000                      10,000 Market selling value — bicycle chains                                                                           40,000                      30,000 Market selling value — bicycle brakes                                                                           30,000                      20,000 Replacement value — bicycle chains                                                                              35,000                      40,000 Replacement value — bicycle brakes                                                                              20,000                      15,000 For tax purposes, Taurus Pty Ltd valued its entire closing trading stock at 30 June 2024 at replacement value.

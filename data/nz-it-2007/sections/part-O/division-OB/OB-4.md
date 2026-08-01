@@ -8,7 +8,6 @@ section_title: ICA payment of tax or transfer to account
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # OB 4  ICA payment of tax or transfer to account
 
 **Credit**

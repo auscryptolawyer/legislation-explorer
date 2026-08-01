@@ -5,7 +5,6 @@ section: "role-of-tax-invoices"
 title: "Role of tax invoices"
 paragraph: "¶5-100"
 ---
-
 # Role of tax invoices ¶5-100
 
 A tax invoice is a special type of invoice which contains specified items of information needed for the effective operation of the GST system.

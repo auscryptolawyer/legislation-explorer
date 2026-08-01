@@ -5,7 +5,6 @@ section: "payments-to-associations"
 title: "Payments to associations"
 paragraph: "¶16-430"
 ---
-
 # Payments to associations ¶16-430
 
 Union dues and other periodical subscriptions (including, in some cases, life membership fees: TD 1999/45) to trade, business or professional associations are generally deductible provided the association’s services have a direct nexus with the derivation of the taxpayer’s assessable income (ITAA97 s 8-1). However, no deduction is available under the general deduction provision for initial joining or professional registration fees, or to the extent to which the subscription relates to a person’s activities which produce exempt or non- assessable non-exempt income (TR 98/6; TR 2000/7) or to entertainment (CR 2007/71).

@@ -5,7 +5,6 @@ section: "deductible-motor-vehicle-expenses"
 title: "Deductible motor vehicle expenses"
 paragraph: "¶16-310"
 ---
-
 # Deductible motor vehicle expenses ¶16-310
 
 Motor vehicle expenses incurred in the course of deriving assessable income or in carrying on business are allowable deductions (ITAA97 s 8-1). Such expenses include petrol, oil, repairs, servicing, new tyres, lease charges, interest on a car loan and car washes and polishes. Guidelines for determining when an employee can claim a deduction for transport expenses are set out in TR 2021/1.

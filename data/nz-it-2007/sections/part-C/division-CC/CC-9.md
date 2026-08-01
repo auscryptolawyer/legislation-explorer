@@ -8,7 +8,6 @@ section_title: Royalties
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CC 9  Royalties
 
 **Income**

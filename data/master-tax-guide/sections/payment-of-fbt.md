@@ -5,7 +5,6 @@ section: "payment-of-fbt"
 title: "Payment of FBT"
 paragraph: "¶35-050"
 ---
-
 # Payment of FBT ¶35-050
 
 An employer’s FBT liability is due and payable on 21 May following the FBT year ended on 31 March if the employer is not on a tax agent’s lodgment program (s 90) or the return is lodged on paper. If the employer is on a tax agent’s lodgment program and the return is lodged electronically, the due date is 25 June.

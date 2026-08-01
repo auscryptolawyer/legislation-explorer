@@ -5,7 +5,6 @@ section: "cost-of-trading-stock"
 title: "Cost of trading stock"
 paragraph: "¶9-190"
 ---
-
 # Cost of trading stock ¶9-190
 
 “Cost” refers to the full absorption cost of an item of trading stock (Philip Morris 79 ATC 4352; [1979] VicSC 321). This is not just the invoice or purchase price but also appropriate costs associated with bringing the stock into its existing condition and location. A number of rulings applicable to speciﬁc industries have been issued.

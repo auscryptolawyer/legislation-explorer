@@ -5,7 +5,6 @@ section: "life-assurance-and-endowment-policies"
 title: "Life assurance and endowment policies"
 paragraph: "¶10-230"
 ---
-
 # Life assurance and endowment policies ¶10-230
 
 The lump sum proceeds of a life assurance or endowment policy are capital and not assessable as income even though they may be received in more than one instalment of the ﬁxed capital sum. Similarly, an amount received on the surrender of such a policy is capital. If, however, the policy provides for the payment of a pension or annuity and not a ﬁxed sum, or allows the beneﬁciary the choice between a ﬁxed sum and a pension, the pension payments are wholly or partly assessable. See further ¶14-220.

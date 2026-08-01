@@ -5,7 +5,6 @@ section: "payg-gst-on-certain-real-estate-supplies"
 title: "PAYG: GST on certain real estate supplies"
 paragraph: "¶26-330"
 ---
-
 # PAYG: GST on certain real estate supplies ¶26-330
 
 Purchasers of new residential premises or new subdivisions of potential residential land must withhold an amount of the purchase price, representing the GST payable on the transaction (TAA sch 1 ss 14-250, 14-255). These rules apply to supplies for which any of the consideration (other than a deposit) is ﬁrst provided on or after 1 July 2018, whether a contract for the supply was entered into before, on or after that date.

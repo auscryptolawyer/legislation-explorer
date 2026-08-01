@@ -8,7 +8,6 @@ section_title: Arrangement for petroleum exploration expenditure and disposal of
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DT 2  Arrangement for petroleum exploration expenditure and disposal of property
 
 **What this section applies to**

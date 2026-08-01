@@ -8,7 +8,6 @@ section_title: Amounts derived by non-residents from non-resident visitors in Ne
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 22C  Amounts derived by non-residents from non-resident visitors in New Zealand
 
 **Exempt income**

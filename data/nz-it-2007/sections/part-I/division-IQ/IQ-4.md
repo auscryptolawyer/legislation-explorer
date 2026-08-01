@@ -8,7 +8,6 @@ section_title: Group companies using attributed CFC net losses
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # IQ 4  Group companies using attributed CFC net losses
 
 **What this section does**

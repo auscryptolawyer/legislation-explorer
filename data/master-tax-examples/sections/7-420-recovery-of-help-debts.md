@@ -5,7 +5,6 @@ section: "7-420-recovery-of-help-debts"
 title: "7-420 - Recovery of HELP debts"
 paragraph: "None"
 ---
-
 # 7-420 - Recovery of HELP debts
 
 Worked example: Recovery of HELP debts Issue Eva Simpson and Kelly Connors finished their university studies in December 2023 and had each accumulated a considerable HELP debt — $28,000 for Eva and $49,000 for Kelly. After travelling overseas for a few months, the friends started to look for employment.

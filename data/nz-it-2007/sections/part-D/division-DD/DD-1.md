@@ -8,7 +8,6 @@ section_title: Entertainment expenditure generally
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # DD 1  Entertainment expenditure generally
 
 **When this subpart applies**

@@ -8,7 +8,6 @@ section_title: Spreading income from patent rights
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EI 4  Spreading income from patent rights
 
 **When this section applies**

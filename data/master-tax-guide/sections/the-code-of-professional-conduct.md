@@ -5,7 +5,6 @@ section: "the-code-of-professional-conduct"
 title: "The Code of Professional Conduct"
 paragraph: "¶32-045"
 ---
-
 # The Code of Professional Conduct ¶32-045
 
 An important feature of the tax agent registration regime is a statutory Code of Professional Conduct which must be adhered to by a registered tax agent or a registered BAS agent.

@@ -5,7 +5,6 @@ section: "obligation-to-pay-timing-of-payments"
 title: "Obligation to pay: timing of payments"
 paragraph: "¶26-550"
 ---
-
 # Obligation to pay: timing of payments ¶26-550
 
 Amounts withheld are to be paid in accordance with the following table (TAA sch 1 ss 16-75; 16-85).

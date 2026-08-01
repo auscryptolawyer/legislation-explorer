@@ -5,7 +5,6 @@ section: "acting-through-an-agent-or-broker"
 title: "Acting through an agent or broker"
 paragraph: "¶5-190"
 ---
-
 # Acting through an agent or broker ¶5-190
 
 If you are acting through an agent, the general agency rules apply (¶17-400). However, some specific rules apply to tax invoices and adjustment notes for transactions made through an agent. The effect is as follows:

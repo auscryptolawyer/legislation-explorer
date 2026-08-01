@@ -8,7 +8,6 @@ section_title: Disposals of land subject to section CW 3C
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CB 15E  Disposals of land subject to section CW 3C
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "partnership-with-non-resident-partner"
 title: "Partnership with non-resident partner"
 paragraph: "¶5-150"
 ---
-
 # Partnership with non-resident partner ¶5-150
 
 The net income or loss of a partnership and the exempt income of a partnership are calculated by reference to income from all sources, whether Australian or ex-Australian. The calculations are made on the assumption that the partnership is a resident taxpayer (s 90: ¶5-070).

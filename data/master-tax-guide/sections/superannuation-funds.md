@@ -5,7 +5,6 @@ section: "superannuation-funds"
 title: "Superannuation funds"
 paragraph: "¶13-050"
 ---
-
 # Superannuation funds ¶13-050
 
 A “superannuation fund” is a scheme for the payment of superannuation beneﬁts upon retirement or death, or a superannuation fund as deﬁned in Superannuation Industry (Supervision) Act 1993 (SISA), s 10 (ITAA36 s 6(1); ITAA97 s 995-1(1)).

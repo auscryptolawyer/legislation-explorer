@@ -8,7 +8,6 @@ section_title: Refunds for overpaid AIM method instalments
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # RM 6B  Refunds for overpaid AIM method instalments
 
 **Refund**

@@ -5,7 +5,6 @@ section: "first-1000-of-in-house-beneﬁts"
 title: "First $1,000 of in-house beneﬁts"
 paragraph: "¶35-660"
 ---
-
 # First $1,000 of in-house beneﬁts ¶35-660
 
 The ﬁrst $1,000 of the aggregate of the taxable values of certain “in-house” beneﬁts given to an employee in a year is exempt from FBT (s 62). The exemption includes beneﬁts provided to an associate of the employee (MT 2044).

@@ -5,7 +5,6 @@ section: "new-generation-trust-stripping-schemes"
 title: "New generation trust stripping schemes"
 paragraph: "¶6-273"
 ---
-
 # New generation trust stripping schemes ¶6-273
 
 There is speciﬁc legislation to counter “new generation” trust stripping schemes that relied on s 95A(2) and that were not caught by the reimbursement agreement rules (¶6-270).

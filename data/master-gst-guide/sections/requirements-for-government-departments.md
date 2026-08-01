@@ -5,7 +5,6 @@ section: "requirements-for-government-departments"
 title: "Requirements for government departments"
 paragraph: "¶17-016"
 ---
-
 # Requirements for government departments ¶17-016
 
 Government departments can form GST groups. The membership requirements for each department in the group are:

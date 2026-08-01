@@ -8,7 +8,6 @@ section_title: Treatment of distributions from superannuation schemes
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MB 5  Treatment of distributions from superannuation schemes
 
 **When this section applies**

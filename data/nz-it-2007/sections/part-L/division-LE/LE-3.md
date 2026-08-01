@@ -8,7 +8,6 @@ section_title: Use of remaining credits by others
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 3  Use of remaining credits by others
 
 **When this section applies**

@@ -5,7 +5,6 @@ section: "when-cgt-roll-over-is-available"
 title: "When CGT roll-over is available"
 paragraph: "¶12-040"
 ---
-
 # When CGT roll-over is available ¶12-040
 
 company A taxpayer who is an individual or a trustee may be able to choose to obtain a roll-over if a trigger event happens to a CGT asset of the taxpayer (s 122-15). The trigger event must involve the taxpayer disposing of an asset to a company or creating an asset in it. Balancing adjustment relief is also available for depreciation purposes (¶17-710).

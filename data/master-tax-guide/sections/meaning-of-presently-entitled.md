@@ -5,7 +5,6 @@ section: "meaning-of-presently-entitled"
 title: "Meaning of presently entitled"
 paragraph: "¶6-100"
 ---
-
 # Meaning of presently entitled ¶6-100
 
 “Present entitlement” is a critical concept in the trust provisions. This is because the method of taxing trust income varies according to whether it is income to which a beneﬁciary is presently entitled or income to which no beneﬁciary is presently entitled. Note that, where a franked distribution or a capital gain is streamed, the relevant concept in relation to these amounts is now the statutory concept of speciﬁc entitlement which is a wider concept than the concept of present entitlement; a beneﬁciary who or which is presently entitled to a relevant amount will be speciﬁcally entitled, but a beneﬁciary may be speciﬁcally entitled without being presently entitled. For discussion of the speciﬁc entitlement concept, see ¶6-107.

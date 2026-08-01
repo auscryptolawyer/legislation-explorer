@@ -8,7 +8,6 @@ section_title: Requirements for calculating instalment of tax credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # MF 4  Requirements for calculating instalment of tax credit
 
 **When this section applies**

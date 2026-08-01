@@ -5,7 +5,6 @@ section: "summary-of-gst-position-on-sales"
 title: "Summary of GST position on sales"
 paragraph: "¶11-000"
 ---
-
 # Summary of GST position on sales ¶11-000
 
 The general GST treatment where real property is sold is as follows: Type of premises                                            Example                                      GST treatment New residential premises                                    New house                                    Generally taxable (¶11-020) Commercial residential premises                             Hotel                                        Taxable (¶11-030) Other residential premises                                  Existing home                                Input taxed (¶11-010) Non-residential premises                                    Office building                              Taxable (¶11-050) Part of going concern                                       Sale of business                             GST-free (¶11-500) Farm land                                                   Sale to intending farmer                     GST-free (¶11-410) Vacant land                                                 Development                                  Taxable (¶11-010) Private sale                                 Not taxable (¶11-010) In general, unless a specific exemption applies (eg for sales of going concerns), sales of “real property” are taxable, but are input taxed in the following situation:

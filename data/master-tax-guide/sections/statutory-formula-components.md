@@ -5,7 +5,6 @@ section: "statutory-formula-components"
 title: "Statutory formula components"
 paragraph: "¶35-190"
 ---
-
 # Statutory formula components ¶35-190
 
 Base value of car The calculation of the base value of a car depends on whether the provider (the employer or associate) originally owned or leased the car (s 9(2)). It is the manner of originally holding the car that counts, not the manner in which it is currently held. In addition, if an associate of the current provider ﬁrst held the car, the position is determined according to whether that associate originally owned or leased the car. This counters arrangements designed to reduce the value. Non-arm’s length transactions are adjusted to arm’s length terms (s 13).

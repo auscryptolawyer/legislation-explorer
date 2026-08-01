@@ -5,7 +5,6 @@ section: "7-460-medicare-levy-surcharge-foreign-health-insurance-policy"
 title: "7-460 - Medicare levy surcharge foreign health insurance policy"
 paragraph: "None"
 ---
-
 # 7-460 - Medicare levy surcharge foreign health insurance policy
 
 Worked example: Medicare levy surcharge; foreign health insurance policy Issue Tim Wong is an Australian tax resident who is single with no dependants. His taxable income for the 2024– 25 income year is $98,000. Tim has held an Australian health insurance policy for many years with a health fund that is registered under the Private Health Insurance (Prudential Supervision) Act 2015. His policy includes private patient hospital and extras cover and is a complying policy for the purposes of the Private Health Insurance Act 2007 (PHIA).

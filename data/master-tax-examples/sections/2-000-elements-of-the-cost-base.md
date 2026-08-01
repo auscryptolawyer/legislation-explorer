@@ -5,7 +5,6 @@ section: "2-000-elements-of-the-cost-base"
 title: "2-000 - Elements of the cost base"
 paragraph: "None"
 ---
-
 # 2-000 - Elements of the cost base
 
 Worked example: Elements of the cost base Issue Ted and Alice Ritchie own their main residence as well as a holiday home and a rental property. The holiday home and the rental property, located on adjacent blocks, were both purchased in 2014. Ted and Alice spent 2 years, from 2014 to 2016, living in their holiday home and rented out their main residence. During 2024, taking advantage of an increase in property prices, Ted and Alice decided to dispose of both the holiday home and rental property acquired in 2014. During the 10-year ownership, the holiday home was never rented out.

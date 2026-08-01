@@ -8,7 +8,6 @@ section_title: Credit of RSCT for imputation credit
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # LE 7B  Credit of RSCT for imputation credit
 
 **Retirement scheme contributions**

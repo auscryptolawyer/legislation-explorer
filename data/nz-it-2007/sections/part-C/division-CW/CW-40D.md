@@ -8,7 +8,6 @@ section_title: Te Tōpuni Kōkōrangi
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # CW 40D  Te Tōpuni Kōkōrangi
 
 **Exempt income**

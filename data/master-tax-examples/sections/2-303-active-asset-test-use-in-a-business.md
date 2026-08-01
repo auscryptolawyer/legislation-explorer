@@ -5,7 +5,6 @@ section: "2-303-active-asset-test-use-in-a-business"
 title: "2-303 - Active asset test use in a business"
 paragraph: "None"
 ---
-
 # 2-303 - Active asset test use in a business
 
 Worked example: Active asset test; use in a business Issue Wendy Simpson owns a block of land south of Perth. The block consists of scrubby bushland and is adjacent to the premises of Simpson Construction Pty Ltd, a building contractor whose shares are wholly owned by Wendy and her husband, Peter. Simpson Construction Pty Ltd uses Wendy’s block to store building materials and to park vehicles owned by the company when they are not used on construction jobs. The block of land has been owned by Wendy for 20 years and has been used in this way by Simpson Construction Pty Ltd throughout the period of Wendy’s ownership. There is no business signage on the block of land.

@@ -8,7 +8,6 @@ section_title: Ownership of lessee’s improvements: other person
 compilation_no: 935
 compilation_date: 2026-06-06
 ---
-
 # EE 5  Ownership of lessee’s improvements: other person
 
 **When this section applies: first case**
