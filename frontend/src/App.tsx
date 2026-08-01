@@ -669,16 +669,16 @@ export default function App() {
                 } else if (isCase) {
                   const citation = window.location.pathname.replace('/tax-cases/', '')
                   setGraphOpen({ type: 'case', citation: decodeURIComponent(citation), label: decodeURIComponent(citation) })
-                } else {
+                } else if (activeSection) {
                   setGraphOpen({ type: 'section', act, section: activeSection, label: `${act}/${activeSection}` })
                 }
               }}
-              title="Knowledge graph"
+              aria-label="Knowledge graph"
               style={{
                 padding: '6px 8px', borderRadius: 6,
                 background: COLORS.surface, color: COLORS.textMuted,
                 border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-                display: 'flex', alignItems: 'center', justifyContent: 'center',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 4,
               }}
             >
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -689,6 +689,7 @@ export default function App() {
                 <line x1="5" y1="17" x2="12" y2="15"/>
                 <line x1="7" y1="19" x2="17" y2="7"/>
               </svg>
+              <span style={{ fontSize: 11 }}>Graph</span>
             </button>
           </div>
         )}
