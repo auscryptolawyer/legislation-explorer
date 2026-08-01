@@ -809,16 +809,16 @@ export default function App() {
             {searchResultsCount === 0 && (
               <>
               <div style={{ fontSize: 11, color: COLORS.textMuted }}>
-                Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || 'v2.0.0'}</span>
+                Legislation Explorer <span style={{ opacity: 0.5 }}>{appInfo?.version || ''}</span>
               </div>
 
               <div style={{ display: 'flex', gap: 12, marginTop: 12, flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
-                <button
+                <a
                   onClick={() => setChangelogOpen(true)}
-                  style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
+                  style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif", textDecoration: 'underline' }}
                 >
-                  v2.6
-                </button>
+                  v{appInfo?.version || '2.7.0'}
+                </a>
                 <button
                   onClick={() => {
                     setHofOpen(true)
