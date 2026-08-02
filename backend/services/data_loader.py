@@ -62,13 +62,30 @@ def load_tree(act: str) -> dict:
 
 @functools.lru_cache(maxsize=None)
 def load_definitions(act: str) -> dict[str, dict]:
+    # Prefer the combined definitions_all.json; fall back to the act-keyed
+    # definitions.json that ships in the data dir when the combined file is
+    # absent (both share the {act: {section, terms}} shape).
     path = DATA_DIR / "definitions_all.json"
+    if not path.exists():
+        path = DATA_DIR / "definitions.json"
     if not path.exists():
         return {}
     data = json.loads(path.read_text(encoding="utf-8"))
     act_data = data.get(act, {})
     terms = act_data.get("terms", {})
     return {term.lower(): {**info} for term, info in terms.items()}
+
+
+def _all_definition_acts() -> list[str]:
+    """Acts that carry a definitions index, derived from the definitions store."""
+    for name in ("definitions_all.json", "definitions.json"):
+        path = DATA_DIR / name
+        if path.exists():
+            try:
+                return list(json.loads(path.read_text(encoding="utf-8")).keys())
+            except Exception:
+                break
+    return ["itaa-1997", "itaa-1936", "gst-1999"]
 
 
 # ---------------------------------------------------------------------------
@@ -615,6 +632,10 @@ def get_act_section_content(act: str, section: str) -> tuple[dict, str]:
     return fm, body
 
 
+# Interim cap on returned definition text (see get_definition_text).
+MAX_DEFINITION_CHARS = 1000
+
+
 def get_definition_text(act: str, term: str) -> dict | None:
     defs = load_definitions(act)
     if not defs:
@@ -678,8 +699,13 @@ def get_definition_text(act: str, term: str) -> dict | None:
     text = re.sub(r"\n{2,}", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
 
-    if len(text) > 500:
-        text = text[:497] + "..."
+    # Interim safety cap: the boundary detector can over-run into following
+    # defined terms (see CDN-0048/CDN-0071). Capping the returned text bounds
+    # the damage until the boundaries are driven off the definitions index.
+    truncated = False
+    if len(text) > MAX_DEFINITION_CHARS:
+        text = text[:MAX_DEFINITION_CHARS].rstrip() + "..."
+        truncated = True
 
     return {
         "term": info.get("term", term),
@@ -687,5 +713,54 @@ def get_definition_text(act: str, term: str) -> dict | None:
         "section": section,
         "anchor": info.get("anchor", ""),
         "text": text,
+        "truncated": truncated,
+        "text_length": len(text),
         "path": f"/{act}/s{section}#{info.get('anchor', '')}",
+    }
+
+
+def get_definition_across_acts(term: str, preferred_act: str | None = None) -> dict | None:
+    """Look a term up across every act that carries a definitions index.
+
+    Structural note: definitions do not live in a single place. ITAA 1997 and
+    the GST Act each have a dictionary section (s 995-1 / s 195-1), but ITAA
+    1936 scatters its definitions across the Act (s 6(1), s 317 for the CFC
+    rules, s 318 for "associate", etc.), so a term absent from one act's index
+    may be defined in another. Returning matches from all acts is an interim
+    measure until the per-act indexes fully cover their scattered definitions.
+
+    The requested act (if any) is returned as the primary match; other acts
+    that define the same term are listed under ``also_defined_in``.
+    """
+    order: list[str] = []
+    if preferred_act:
+        order.append(preferred_act)
+    for a in _all_definition_acts():
+        if a not in order:
+            order.append(a)
+
+    matches: list[dict] = []
+    for a in order:
+        try:
+            r = get_definition_text(a, term)
+        except Exception:
+            r = None
+        if r:
+            matches.append(r)
+
+    if not matches:
+        return None
+
+    primary = matches[0]
+    return {
+        **primary,
+        "also_defined_in": [
+            {
+                "act": m["act"],
+                "section": m["section"],
+                "text": m["text"],
+                "path": m.get("path", ""),
+            }
+            for m in matches[1:]
+        ],
     }

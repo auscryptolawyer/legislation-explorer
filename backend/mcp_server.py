@@ -26,6 +26,7 @@ from backend.services.data_loader import (
     get_rulings_for_section,
     get_commentary_for_section,
     get_definition_text,
+    get_definition_across_acts,
 )
 from backend.services.search_service import search_sections as fts_search
 from backend.routes.tax_cases import search_tax_cases
@@ -336,13 +337,18 @@ async def _get_act_tree(args: dict) -> list[TextContent]:
 
 
 async def _get_definition(args: dict) -> list[TextContent]:
-    """Return definition text for a term in an act."""
+    """Return definition text for a term, searched across all acts.
+
+    The requested act is preferred; matches in other acts (e.g. a term defined
+    in ITAA 1936 s 318 rather than the requested act) are returned under
+    ``also_defined_in``.
+    """
     act = args["act"]
     term = args["term"]
-    result = get_definition_text(act, term)
+    result = get_definition_across_acts(term, preferred_act=act)
     if result:
         return [TextContent(type="text", text=json.dumps(result, indent=2))]
-    return [TextContent(type="text", text=json.dumps({"error": f"Definition for '{term}' not found in {act}"}))]
+    return [TextContent(type="text", text=json.dumps({"error": f"Definition for '{term}' not found in any act"}))]
 
 
 async def _get_rulings_for_section(args: dict) -> list[TextContent]:
