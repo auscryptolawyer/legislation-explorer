@@ -42,6 +42,18 @@ VERSION = "2.7.4"
 
 CHANGELOG = [
     {
+        "version": "2.7.5",
+        "date": "2026-08-02",
+        "title": "Cross-act definition lookup",
+        "changes": [
+            "get_definition now searches all acts, not just the requested one — terms like 'arm's length' (not in any dictionary section) and 'associate' (ITAA 1936 s 318) fall back to other acts' indexes",
+            "Cross-act results include `also_defined_in` listing matches from other acts with act, section, text, and path",
+            "load_definitions falls back to definitions.json when definitions_all.json is absent",
+            "Disabled stale cadena-knowledge.service (directory removed, MCP runs inside legislation-explorer)",
+            "Version bumped to 2.7.5",
+        ],
+    },
+    {
         "version": "2.7.4",
         "date": "2026-08-02",
         "title": "UI cleanup, user prefs persistence fix",

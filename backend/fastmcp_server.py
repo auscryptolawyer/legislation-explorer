@@ -23,6 +23,7 @@ from backend.services.data_loader import (
     load_tree,
     load_rulings,
     get_definition_text,
+    get_definition_across_acts,
     get_cases_for_section,
     get_rulings_for_section as get_rulings_for_section_dl,
     get_commentary_for_section,
@@ -703,14 +704,16 @@ async def get_act_tree(act: str, depth: str = "sections") -> str:
 
 @mcp.tool()
 async def get_definition(act: str, term: str) -> str:
-    """Look up the definition of a term in an act.
+    """Look up the definition of a term, searched across all acts.
 
-    Returns the full definition text, not just a locator.
+    The requested act is preferred; matches in other acts (e.g. a term defined
+    in ITAA 1936 s 318 rather than the requested act) are returned under
+    ``also_defined_in``.
     """
-    result = get_definition_text(act, term)
+    result = get_definition_across_acts(term, preferred_act=act)
     if result:
         return json.dumps(result, indent=2)
-    return json.dumps({"error": f"Definition for '{term}' not found in {act}"})
+    return json.dumps({"error": f"Definition for '{term}' not found in any act"})
 
 
 @mcp.tool()

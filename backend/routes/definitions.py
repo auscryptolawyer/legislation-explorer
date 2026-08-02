@@ -5,7 +5,7 @@ import re
 
 from fastapi import HTTPException, APIRouter
 
-from backend.services.data_loader import load_definitions, get_definition_text, get_act_section_content
+from backend.services.data_loader import load_definitions, get_definition_text, get_act_section_content, get_definition_across_acts
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
@@ -19,7 +19,8 @@ def get_definitions(act: str):
 
 @router.get("/api/definition/{act}/{term}")
 def get_definition(act: str, term: str):
-    result = get_definition_text(act, term)
+    # Return the term wherever it is defined, preferring the requested act.
+    result = get_definition_across_acts(term, preferred_act=act)
     if not result:
         raise HTTPException(status_code=404, detail=f"Definition for '{term}' not found")
     return result
