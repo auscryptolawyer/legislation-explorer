@@ -38,7 +38,7 @@ router.include_router(issues_router)
 router.include_router(insolvency_router)
 
 
-VERSION = "2.7.4"
+VERSION = "2.7.5"
 
 CHANGELOG = [
     {
