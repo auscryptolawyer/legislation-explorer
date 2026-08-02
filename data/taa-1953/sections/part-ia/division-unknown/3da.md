@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 3DA  Publication of information by certain country by country reporting entities—information to be published
+
 
 <a id="s3DA-1"></a>
 **(1)**  For the purposes of paragraph 3D(3)(a), the information the entity must publish is as follows:
@@ -42,8 +44,7 @@ source_pdf: "vol01.pdf"
 > > **(i)**  a description of the country by country reporting group’s main business activities for the reporting period in the area consisting of those jurisdictions;
 
 > > <a id="s3DA-1-e-ii"></a>
-> > **(ii)**  for each matter listed in subsection (5), the amounts for the reporting period for that matter in respect of each
-jurisdiction in the area, published as a sum of those amounts for that matter;
+> > **(ii)**  for each matter listed in subsection (5), the amounts for the reporting period for that matter in respect of each Authorised Version C2026C00170 registered 28/04/2026 jurisdiction in the area, published as a sum of those amounts for that matter;
 
 > > <a id="s3DA-1-e-iii"></a>
 > > **(iii)**  the currency used in calculating and presenting the information mentioned in subparagraph (ii);
@@ -91,7 +92,8 @@ jurisdiction in the area, published as a sum of those amounts for that matter;
 > > **(i)**  the amount mentioned in paragraph (i) of this subsection; and
 
 > > <a id="s3DA-3-j-ii"></a>
-> > **(ii)**  the amount of income tax due if the income tax rate applicable in the jurisdiction were applied to the amount mentioned in paragraph (f) of this subsection;
+> > **(ii)**  the amount of income tax due if the income tax rate applicable in the jurisdiction were applied to the amount mentioned in paragraph (f) of this subsection; Authorised Version C2026C00170 registered 28/04/2026
+
 > <a id="s3DA-3-k"></a>
 > **(k)**  the currency used in calculating and presenting the information mentioned in paragraphs (d) to (j) of this subsection.
 
@@ -132,8 +134,7 @@ jurisdiction in the area, published as a sum of those amounts for that matter;
 > **(b)**  if audited consolidated financial statements for the entity for the reporting period have not been prepared—amounts that would be, on the assumptions that the entity were a listed company (within the meaning of section 26BC of the Income Tax Assessment Act 1936) and such statements were prepared, shown in those statements. Interpretation
 
 <a id="s3DA-7"></a>
-**(7)**  For the purposes of determining the effect that paragraph (1)(c), subsections (3) and (5) and any regulations made for the purposes
-of paragraph (1)(f) have in relation to an entity, identify information mentioned in those provisions:
+**(7)**  For the purposes of determining the effect that paragraph (1)(c), subsections (3) and (5) and any regulations made for the purposes Authorised Version C2026C00170 registered 28/04/2026 of paragraph (1)(f) have in relation to an entity, identify information mentioned in those provisions:
 
 > <a id="s3DA-7-a"></a>
 > **(a)**  so as best to achieve consistency with Disclosures 207-1 and 207-4 of GRI 207:Tax 2019 of the Global Reporting Initiative’s Sustainability Reporting Standards; and

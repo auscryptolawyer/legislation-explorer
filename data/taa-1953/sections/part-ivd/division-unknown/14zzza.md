@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZZA  Compensation and other remedies—orders that may be made
+
 
 <a id="s14ZZZA-1"></a>
 **(1)**  For the purposes of subsections 14ZZZ(1), (2) and (2A), a court may make any of the following orders:
@@ -24,8 +26,7 @@ source_pdf: "vol01.pdf"
 > **(b)**  if the court is satisfied that the first person engaged in the detrimental conduct in connection with the first person’s position as an employee:
 
 > > <a id="s14ZZZA-1-b-i"></a>
-> > **(i)**  an order requiring the first person to compensate the second person, or any other person, for a part of loss, damage or injury as a result of the detrimental conduct, and an order requiring the first person’s employer to
-compensate the second person, or any other person, for a part of loss, damage or injury as a result of the detrimental conduct; or
+> > **(i)**  an order requiring the first person to compensate the second person, or any other person, for a part of loss, damage or injury as a result of the detrimental conduct, and an order requiring the first person’s employer to Authorised Version C2026C00170 registered 28/04/2026 compensate the second person, or any other person, for a part of loss, damage or injury as a result of the detrimental conduct; or
 
 > > <a id="s14ZZZA-1-b-ii"></a>
 > > **(ii)**  an order requiring the first person and the first person’s employer jointly to compensate the second person, or any other person, for loss, damage or injury suffered as a result of the detrimental conduct; or
@@ -49,7 +50,8 @@ compensate the second person, or any other person, for a part of loss, damage or
 > **(g)**  any other order the court thinks appropriate.
 
 <a id="s14ZZZA-2"></a>
-**(2)**  If the detrimental conduct wholly or partly consists, or consisted, of terminating or purporting to terminate a person’s employment (including detrimental conduct that forces or forced the person to resign), the court must, in making an order mentioned in paragraph (1)(a) or (b), consider the period, if any, the person is likely to be without employment as a result of the detrimental conduct. This subsection does not limit any other matter the court may consider.
+**(2)**  If the detrimental conduct wholly or partly consists, or consisted, of terminating or purporting to terminate a person’s employment (including detrimental conduct that forces or forced the person to resign), the court must, in making an order mentioned in paragraph (1)(a) or (b), consider the period, if any, the person is likely to be without employment as a result of the detrimental conduct. This subsection does not limit any other matter the court may consider. Authorised Version C2026C00170 registered 28/04/2026
+
 <a id="s14ZZZA-3"></a>
 **(3)**  In deciding whether to make an order under paragraph (1)(b) in relation to the first person’s employer, the court may have regard to the following:
 

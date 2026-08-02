@@ -12,6 +12,7 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZN  Time limit for appeals
 
 An appeal to the Federal Court against an objection decision must be lodged with the Court within 60 days after the person appealing is served with notice of the decision.

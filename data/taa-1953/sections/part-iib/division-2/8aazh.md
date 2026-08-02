@@ -12,11 +12,12 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZH  Liability for RBA deficit debt
 
+
 <a id="s8AAZH-1"></a>
-**(1)**  If there is an RBA deficit debt on an RBA at the end of a day, the tax debtor is liable to pay to the Commonwealth the amount of the debt. The amount is due and payable at the end of that day.
-matters
+**(1)**  If there is an RBA deficit debt on an RBA at the end of a day, the tax debtor is liable to pay to the Commonwealth the amount of the debt. The amount is due and payable at the end of that day. Authorised Version C2026C00170 registered 28/04/2026 matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

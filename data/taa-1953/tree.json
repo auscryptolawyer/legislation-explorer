@@ -1,1444 +1,11 @@
 {
   "act": "TAA 1953",
-  "compilation_no": 1,
+  "compilation_no": 222,
   "compilation_date": "2026-04-01",
   "parts": [
     {
-      "id": "I",
-      "title": "Preliminary",
-      "divisions": [],
-      "sections": [
-        {
-          "id": "1",
-          "title": "Short title",
-          "path": "part-i/division-unknown/1.md"
-        },
-        {
-          "id": "2",
-          "title": "Interpretation",
-          "path": "part-i/division-unknown/2.md"
-        },
-        {
-          "id": "2A",
-          "title": "Application of the Criminal Code",
-          "path": "part-i/division-unknown/2a.md"
-        },
-        {
-          "id": "2B",
-          "title": "Act binds the Crown",
-          "path": "part-i/division-unknown/2b.md"
-        },
-        {
-          "id": "3",
-          "title": "Application",
-          "path": "part-i/division-unknown/3.md"
-        },
-        {
-          "id": "3AA",
-          "title": "Schedule 1",
-          "path": "part-i/division-unknown/3aa.md"
-        }
-      ]
-    },
-    {
-      "id": "IA",
-      "title": "Administration",
-      "divisions": [],
-      "sections": [
-        {
-          "id": "3A",
-          "title": "General administration of Act",
-          "path": "part-ia/division-unknown/3a.md"
-        },
-        {
-          "id": "3B",
-          "title": "Annual report",
-          "path": "part-ia/division-unknown/3b.md"
-        },
-        {
-          "id": "3C",
-          "title": "Reporting of information about corporate tax entity with reported total income of $100 million or more",
-          "path": "part-ia/division-unknown/3c.md"
-        },
-        {
-          "id": "3CA",
-          "title": "Reporting of information by corporate country by country reporting entities",
-          "path": "part-ia/division-unknown/3ca.md"
-        },
-        {
-          "id": "3D",
-          "title": "Publication of information by certain country by country",
-          "path": "part-ia/division-unknown/3d.md"
-        },
-        {
-          "id": "3DA",
-          "title": "Publication of information by certain country by country reporting entities—information to be published",
-          "path": "part-ia/division-unknown/3da.md"
-        },
-        {
-          "id": "3DB",
-          "title": "Publication of information by certain country by country reporting entities—corrections and exemptions etc.",
-          "path": "part-ia/division-unknown/3db.md"
-        },
-        {
-          "id": "3E",
-          "title": "Reporting of information about entity with PRRT payable",
-          "path": "part-ia/division-unknown/3e.md"
-        },
-        {
-          "id": "3F",
-          "title": "Reporting of information about junior minerals exploration incentive offset",
-          "path": "part-ia/division-unknown/3f.md"
-        },
-        {
-          "id": "3G",
-          "title": "Electronic invoicing",
-          "path": "part-ia/division-unknown/3g.md"
-        },
-        {
-          "id": "3H",
-          "title": "Reporting of information about research and development tax offset",
-          "path": "part-ia/division-unknown/3h.md"
-        },
-        {
-          "id": "3J",
-          "title": "Functions relating to digital ID systems",
-          "path": "part-ia/division-unknown/3j.md"
-        },
-        {
-          "id": "3K",
-          "title": "Reporting of information about CMPTI tax offset",
-          "path": "part-ia/division-unknown/3k.md"
-        },
-        {
-          "id": "3L",
-          "title": "Reporting of information about hydrogen production tax offset",
-          "path": "part-ia/division-unknown/3l.md"
-        }
-      ]
-    },
-    {
-      "id": "II",
-      "title": "Commissioner of Taxation, Second",
-      "divisions": [],
-      "sections": [
-        {
-          "id": "4",
-          "title": "Commissioner and Second Commissioners of Taxation",
-          "path": "part-ii/division-unknown/4.md"
-        },
-        {
-          "id": "4A",
-          "title": "Statutory Agency etc. for purposes of Public Service Act",
-          "path": "part-ii/division-unknown/4a.md"
-        },
-        {
-          "id": "5",
-          "title": "Tenure of Commissioner and Second Commissioners",
-          "path": "part-ii/division-unknown/5.md"
-        },
-        {
-          "id": "5A",
-          "title": "Remuneration and allowances of Commissioner and Second Commissioners",
-          "path": "part-ii/division-unknown/5a.md"
-        },
-        {
-          "id": "6",
-          "title": "Leave of absence",
-          "path": "part-ii/division-unknown/6.md"
-        },
-        {
-          "id": "6A",
-          "title": "Resignation",
-          "path": "part-ii/division-unknown/6a.md"
-        },
-        {
-          "id": "6B",
-          "title": "Acting appointments",
-          "path": "part-ii/division-unknown/6b.md"
-        },
-        {
-          "id": "6C",
-          "title": "Suspension and removal from office of Commissioner or Second Commissioner",
-          "path": "part-ii/division-unknown/6c.md"
-        },
-        {
-          "id": "6D",
-          "title": "Powers of Second Commissioner",
-          "path": "part-ii/division-unknown/6d.md"
-        },
-        {
-          "id": "7",
-          "title": "Deputy Commissioners of Taxation",
-          "path": "part-ii/division-unknown/7.md"
-        },
-        {
-          "id": "8",
-          "title": "Delegation",
-          "path": "part-ii/division-unknown/8.md"
-        }
-      ]
-    },
-    {
-      "id": "IIA",
-      "title": "The general interest charge",
-      "divisions": [],
-      "sections": [
-        {
-          "id": "8AAA",
-          "title": "Overview",
-          "path": "part-iia/division-unknown/8aaa.md"
-        },
-        {
-          "id": "8AAB",
-          "title": "When the general interest charge applies",
-          "path": "part-iia/division-unknown/8aab.md"
-        },
-        {
-          "id": "8AAC",
-          "title": "Amount of the general interest charge",
-          "path": "part-iia/division-unknown/8aac.md"
-        },
-        {
-          "id": "8AAD",
-          "title": "What is the general interest charge rate?",
-          "path": "part-iia/division-unknown/8aad.md"
-        },
-        {
-          "id": "8AAE",
-          "title": "When the charge is due and payable",
-          "path": "part-iia/division-unknown/8aae.md"
-        },
-        {
-          "id": "8AAF",
-          "title": "Notification by Commissioner",
-          "path": "part-iia/division-unknown/8aaf.md"
-        },
-        {
-          "id": "8AAG",
-          "title": "Remission of the charge",
-          "path": "part-iia/division-unknown/8aag.md"
-        },
-        {
-          "id": "8AAGA",
-          "title": "Rounding of the charge",
-          "path": "part-iia/division-unknown/8aaga.md"
-        },
-        {
-          "id": "8AAH",
-          "title": "Judgment for payment of an unpaid amount",
-          "path": "part-iia/division-unknown/8aah.md"
-        },
-        {
-          "id": "10A",
-          "title": "172A             Income Tax Assessment Act          repayments of excessive tax",
-          "path": "part-iia/division-unknown/10a.md"
-        },
-        {
-          "id": "12A",
-          "title": "44-50            Income Tax Assessment Act          payment of assessed build to rent",
-          "path": "part-iia/division-unknown/12a.md"
-        },
-        {
-          "id": "14",
-          "title": "214-155         Income Tax Assessment Act          payment of franking tax by a",
-          "path": "part-iia/division-unknown/14.md"
-        },
-        {
-          "id": "18A",
-          "title": "840-910         Income Tax Assessment Act          payment of labour mobility",
-          "path": "part-iia/division-unknown/18a.md"
-        },
-        {
-          "id": "19",
-          "title": "214-105         Income Tax (Transitional           payment of franking deficit tax",
-          "path": "part-iia/division-unknown/19.md"
-        },
-        {
-          "id": "19A",
-          "title": "10              Boosting Cash Flow for             wrong payment or overpayment",
-          "path": "part-iia/division-unknown/19a.md"
-        },
-        {
-          "id": "19B",
-          "title": "10              Coronavirus Economic               wrong payment or overpayment",
-          "path": "part-iia/division-unknown/19b.md"
-        },
-        {
-          "id": "20",
-          "title": "85              Petroleum Resource Rent            payment of petroleum resource",
-          "path": "part-iia/division-unknown/20.md"
-        },
-        {
-          "id": "20A",
-          "title": "282-19          Private Health Insurance           repayment of private health",
-          "path": "part-iia/division-unknown/20a.md"
-        },
-        {
-          "id": "21",
-          "title": "35              Product Grants and                 payment of a designated scheme",
-          "path": "part-iia/division-unknown/21.md"
-        },
-        {
-          "id": "22",
-          "title": "21              Superannuation                     increase in liability to pay",
-          "path": "part-iia/division-unknown/22.md"
-        },
-        {
-          "id": "23",
-          "title": "22              Superannuation                     liability to pay superannuation",
-          "path": "part-iia/division-unknown/23.md"
-        },
-        {
-          "id": "24",
-          "title": "25              Superannuation                     payment of superannuation",
-          "path": "part-iia/division-unknown/24.md"
-        },
-        {
-          "id": "25",
-          "title": "18              Superannuation                     increase in liability to pay",
-          "path": "part-iia/division-unknown/25.md"
-        },
-        {
-          "id": "26",
-          "title": "21              Superannuation                     payment of superannuation",
-          "path": "part-iia/division-unknown/26.md"
-        },
-        {
-          "id": "27",
-          "title": "25              Superannuation                     repayments or underpayments of",
-          "path": "part-iia/division-unknown/27.md"
-        },
-        {
-          "id": "27A",
-          "title": "115Q            Paid Parental Leave Act            repayments of PPL",
-          "path": "part-iia/division-unknown/27a.md"
-        },
-        {
-          "id": "28",
-          "title": "49              Superannuation Guarantee           payment of superannuation",
-          "path": "part-iia/division-unknown/28.md"
-        },
-        {
-          "id": "29",
-          "title": "15DC            Superannuation (Self               payment of superannuation (self",
-          "path": "part-iia/division-unknown/29.md"
-        },
-        {
-          "id": "30",
-          "title": "17A             Superannuation (Unclaimed          payment of unclaimed money",
-          "path": "part-iia/division-unknown/30.md"
-        },
-        {
-          "id": "31",
-          "title": "18C             Superannuation (Unclaimed          repayment of Commissioner’s",
-          "path": "part-iia/division-unknown/31.md"
-        },
-        {
-          "id": "32",
-          "title": "20F             Superannuation (Unclaimed          payment of unclaimed",
-          "path": "part-iia/division-unknown/32.md"
-        },
-        {
-          "id": "33",
-          "title": "20M             Superannuation (Unclaimed          repayment of Commissioner’s",
-          "path": "part-iia/division-unknown/33.md"
-        },
-        {
-          "id": "33A",
-          "title": "20QE            Superannuation (Unclaimed          payment in respect of inactive",
-          "path": "part-iia/division-unknown/33a.md"
-        },
-        {
-          "id": "33B",
-          "title": "20QL            Superannuation (Unclaimed          repayment of Commissioner’s",
-          "path": "part-iia/division-unknown/33b.md"
-        },
-        {
-          "id": "33C",
-          "title": "21D             Superannuation (Unclaimed          payment in respect of eligible",
-          "path": "part-iia/division-unknown/33c.md"
-        },
-        {
-          "id": "33D",
-          "title": "21H             Superannuation (Unclaimed          repayment of Commissioner’s",
-          "path": "part-iia/division-unknown/33d.md"
-        },
-        {
-          "id": "33E",
-          "title": "22F             Superannuation (Unclaimed          repayment of Commissioner’s",
-          "path": "part-iia/division-unknown/33e.md"
-        },
-        {
-          "id": "34",
-          "title": "24F             Superannuation (Unclaimed          payment in respect of lost",
-          "path": "part-iia/division-unknown/34.md"
-        },
-        {
-          "id": "35",
-          "title": "24L             Superannuation (Unclaimed          repayment of Commissioner’s",
-          "path": "part-iia/division-unknown/35.md"
-        },
-        {
-          "id": "35A",
-          "title": "24NB            Superannuation (Unclaimed          repayment of Commissioner’s",
-          "path": "part-iia/division-unknown/35a.md"
-        },
-        {
-          "id": "36",
-          "title": "8AAZF           Taxation Administration            RBA deficit debts",
-          "path": "part-iia/division-unknown/36.md"
-        },
-        {
-          "id": "37",
-          "title": "8AAZN           Taxation Administration            overpayments made by the",
-          "path": "part-iia/division-unknown/37.md"
-        },
-        {
-          "id": "38",
-          "title": "payment of PAYG withholding amounts",
-          "path": "part-iia/division-unknown/38.md"
-        },
-        {
-          "id": "39",
-          "title": "payment of PAYG instalments",
-          "path": "part-iia/division-unknown/39.md"
-        },
-        {
-          "id": "40",
-          "title": "45-230 in       Taxation Administration            shortfall in quarterly PAYG Schedule 1      Act 1953                           instalments worked out on the",
-          "path": "part-iia/division-unknown/40.md"
-        },
-        {
-          "id": "41",
-          "title": "45-232 in       Taxation Administration            shortfall in quarterly PAYG Schedule 1      Act 1953                           instalments worked out on the",
-          "path": "part-iia/division-unknown/41.md"
-        },
-        {
-          "id": "42",
-          "title": "45-235 in       Taxation Administration            shortfall in annual PAYG Schedule 1      Act 1953                           instalments",
-          "path": "part-iia/division-unknown/42.md"
-        },
-        {
-          "id": "43",
-          "title": "tax benefits relating to PAYG instalments",
-          "path": "part-iia/division-unknown/43.md"
-        },
-        {
-          "id": "44",
-          "title": "45-870 and      Taxation Administration            head company’s liability on 45-875 in       Act 1953                           shortfall in quarterly PAYG Schedule 1                                         instalments",
-          "path": "part-iia/division-unknown/44.md"
-        },
-        {
-          "id": "45",
-          "title": "payment of a net fuel amount or an amount of indirect tax",
-          "path": "part-iia/division-unknown/45.md"
-        },
-        {
-          "id": "46",
-          "title": "payment of a foreign revenue claim",
-          "path": "part-iia/division-unknown/46.md"
-        },
-        {
-          "id": "47",
-          "title": "late payment of estimate",
-          "path": "part-iia/division-unknown/47.md"
-        },
-        {
-          "id": "48",
-          "title": "payment of administrative penalty",
-          "path": "part-iia/division-unknown/48.md"
-        }
-      ]
-    },
-    {
-      "id": "IIB",
-      "title": "Running balance accounts, application",
-      "divisions": [
-        {
-          "id": "1",
-          "title": "Preliminary",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "8AAZA",
-              "title": "Definitions",
-              "path": "part-iib/division-1/8aaza.md"
-            },
-            {
-              "id": "8AAZAA",
-              "title": "Amounts relating to Coronavirus economic response payments",
-              "path": "part-iib/division-1/8aazaa.md"
-            },
-            {
-              "id": "8AAZB",
-              "title": "Trustee to be treated as separate entity for each capacity",
-              "path": "part-iib/division-1/8aazb.md"
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "title": "Running Balance Accounts (or RBAs)",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "8AAZC",
-              "title": "Establishment of RBAs",
-              "path": "part-iib/division-2/8aazc.md"
-            },
-            {
-              "id": "8AAZD",
-              "title": "Allocation of tax debts to RBAs",
-              "path": "part-iib/division-2/8aazd.md"
-            },
-            {
-              "id": "8AAZF",
-              "title": "General interest charge on RBA deficit debt",
-              "path": "part-iib/division-2/8aazf.md"
-            },
-            {
-              "id": "8AAZG",
-              "title": "RBA statements",
-              "path": "part-iib/division-2/8aazg.md"
-            },
-            {
-              "id": "8AAZH",
-              "title": "Liability for RBA deficit debt",
-              "path": "part-iib/division-2/8aazh.md"
-            },
-            {
-              "id": "8AAZI",
-              "title": "RBA statement to be evidence",
-              "path": "part-iib/division-2/8aazi.md"
-            },
-            {
-              "id": "8AAZJ",
-              "title": "Evidentiary certificate about RBA transactions etc.",
-              "path": "part-iib/division-2/8aazj.md"
-            }
-          ]
-        },
-        {
-          "id": "3",
-          "title": "Treatment of payments, credits and RBA",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "8AAZL",
-              "title": "Amounts covered by this Division",
-              "path": "part-iib/division-3/8aazl.md"
-            },
-            {
-              "id": "8AAZLA",
-              "title": "Method 1—allocating the amount first to an RBA",
-              "path": "part-iib/division-3/8aazla.md"
-            },
-            {
-              "id": "8AAZLB",
-              "title": "Method 2—applying the amount first against a non-RBA tax debt",
-              "path": "part-iib/division-3/8aazlb.md"
-            },
-            {
-              "id": "8AAZLC",
-              "title": "RBA surplus and related credits must remain equivalent if one or the other is applied",
-              "path": "part-iib/division-3/8aazlc.md"
-            },
-            {
-              "id": "8AAZLD",
-              "title": "Special priority credits",
-              "path": "part-iib/division-3/8aazld.md"
-            },
-            {
-              "id": "8AAZLE",
-              "title": "Instructions to Commissioner not binding",
-              "path": "part-iib/division-3/8aazle.md"
-            }
-          ]
-        },
-        {
-          "id": "3A",
-          "title": "Refunds of RBA surpluses and credits",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "8AAZLF",
-              "title": "Commissioner must refund RBA surpluses and credits",
-              "path": "part-iib/division-3a/8aazlf.md"
-            },
-            {
-              "id": "8AAZLG",
-              "title": "Retaining refunds until information or notification given",
-              "path": "part-iib/division-3a/8aazlg.md"
-            },
-            {
-              "id": "8AAZLGA",
-              "title": "Retaining refunds while Commissioner verifies information",
-              "path": "part-iib/division-3a/8aazlga.md"
-            },
-            {
-              "id": "8AAZLGB",
-              "title": "Retaining refunds until notification under Division 389 or ascertainment of liability",
-              "path": "part-iib/division-3a/8aazlgb.md"
-            },
-            {
-              "id": "8AAZLGC",
-              "title": "Retaining refunds while Commissioner obtains financial institution details",
-              "path": "part-iib/division-3a/8aazlgc.md"
-            },
-            {
-              "id": "8AAZLH",
-              "title": "How refunds are made",
-              "path": "part-iib/division-3a/8aazlh.md"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "title": "Miscellaneous provisions about tax debts",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "8AAZM",
-              "title": "When payments are treated as received",
-              "path": "part-iib/division-4/8aazm.md"
-            },
-            {
-              "id": "8AAZMA",
-              "title": "Electronic payment of tax debts",
-              "path": "part-iib/division-4/8aazma.md"
-            },
-            {
-              "id": "8AAZMB",
-              "title": "Saturdays, Sundays and public holidays",
-              "path": "part-iib/division-4/8aazmb.md"
-            },
-            {
-              "id": "8AAZN",
-              "title": "Overpayments made by the Commissioner under taxation laws",
-              "path": "part-iib/division-4/8aazn.md"
-            }
-          ]
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "III",
-      "title": "Prosecutions and offences",
-      "divisions": [
-        {
-          "id": "1",
-          "title": "Preliminary",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "8A",
-              "title": "Interpretation",
-              "path": "part-iii/division-1/8a.md"
-            },
-            {
-              "id": "8AC",
-              "title": "Application of Part to the Tax Agent Services Act 2009",
-              "path": "part-iii/division-1/8ac.md"
-            },
-            {
-              "id": "9",
-              "title": "Interpretation",
-              "path": "part-iii/division-1/9.md"
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "title": "Offences",
-          "subdivisions": [
-            {
-              "id": "A",
-              "title": "Failure to comply with taxation requirements",
-              "sections": [
-                {
-                  "id": "8B",
-                  "title": "Interpretation",
-                  "path": "part-iii/division-2/8b.md"
-                },
-                {
-                  "id": "8C",
-                  "title": "Failure to comply with requirements under taxation law",
-                  "path": "part-iii/division-2/8c.md"
-                },
-                {
-                  "id": "8D",
-                  "title": "Failure to answer questions when attending before the",
-                  "path": "part-iii/division-2/8d.md"
-                },
-                {
-                  "id": "8E",
-                  "title": "Penalties for failure to comply with requirements under taxation",
-                  "path": "part-iii/division-2/8e.md"
-                },
-                {
-                  "id": "8F",
-                  "title": "Election to treat offence otherwise than as prescribed taxation",
-                  "path": "part-iii/division-2/8f.md"
-                },
-                {
-                  "id": "8G",
-                  "title": "Order to comply with requirement",
-                  "path": "part-iii/division-2/8g.md"
-                },
-                {
-                  "id": "8H",
-                  "title": "Penalty for failure to comply with order to comply",
-                  "path": "part-iii/division-2/8h.md"
-                },
-                {
-                  "id": "8HA",
-                  "title": "Court may order payment of amount in addition to penalty",
-                  "path": "part-iii/division-2/8ha.md"
-                }
-              ]
-            },
-            {
-              "id": "B",
-              "title": "Offences relating to statements, records and",
-              "sections": [
-                {
-                  "id": "8J",
-                  "title": "Interpretation",
-                  "path": "part-iii/division-2/8j.md"
-                },
-                {
-                  "id": "8K",
-                  "title": "False or misleading statements",
-                  "path": "part-iii/division-2/8k.md"
-                },
-                {
-                  "id": "8L",
-                  "title": "Incorrectly keeping records etc.",
-                  "path": "part-iii/division-2/8l.md"
-                },
-                {
-                  "id": "8M",
-                  "title": "Penalties for offences against subsections 8K(1) and (1B) and 8L(1) and (1A)",
-                  "path": "part-iii/division-2/8m.md"
-                },
-                {
-                  "id": "8N",
-                  "title": "Recklessly making false or misleading statements",
-                  "path": "part-iii/division-2/8n.md"
-                },
-                {
-                  "id": "8Q",
-                  "title": "Recklessly incorrectly keeping records etc.",
-                  "path": "part-iii/division-2/8q.md"
-                },
-                {
-                  "id": "8R",
-                  "title": "Penalties for offences against sections 8N and 8Q",
-                  "path": "part-iii/division-2/8r.md"
-                },
-                {
-                  "id": "8S",
-                  "title": "Election to treat offence otherwise than as prescribed taxation",
-                  "path": "part-iii/division-2/8s.md"
-                },
-                {
-                  "id": "8T",
-                  "title": "Incorrectly keeping records with intention of deceiving or",
-                  "path": "part-iii/division-2/8t.md"
-                },
-                {
-                  "id": "8U",
-                  "title": "Falsifying or concealing identity with intention of deceiving or",
-                  "path": "part-iii/division-2/8u.md"
-                },
-                {
-                  "id": "8V",
-                  "title": "Penalties for offences against sections 8T and 8U",
-                  "path": "part-iii/division-2/8v.md"
-                },
-                {
-                  "id": "8W",
-                  "title": "Court may order payment of amount in addition to penalty",
-                  "path": "part-iii/division-2/8w.md"
-                }
-              ]
-            },
-            {
-              "id": "BA",
-              "title": "Offences relating to tax file numbers",
-              "sections": [
-                {
-                  "id": "8WA",
-                  "title": "Unauthorised requirement etc. that tax file number be quoted",
-                  "path": "part-iii/division-2/8wa.md"
-                },
-                {
-                  "id": "8WB",
-                  "title": "Unauthorised recording etc. of tax file number",
-                  "path": "part-iii/division-2/8wb.md"
-                },
-                {
-                  "id": "8WC",
-                  "title": "Conducting affairs so as to avoid tax file number requirements",
-                  "path": "part-iii/division-2/8wc.md"
-                }
-              ]
-            },
-            {
-              "id": "BAA",
-              "title": "Offences relating to electronic sales",
-              "sections": [
-                {
-                  "id": "8WAA",
-                  "title": "Object of this Subdivision",
-                  "path": "part-iii/division-2/8waa.md"
-                },
-                {
-                  "id": "8WAB",
-                  "title": "Interpretation",
-                  "path": "part-iii/division-2/8wab.md"
-                },
-                {
-                  "id": "8WAC",
-                  "title": "Producing or supplying electronic sales suppression tools",
-                  "path": "part-iii/division-2/8wac.md"
-                },
-                {
-                  "id": "8WAD",
-                  "title": "Possessing electronic sales suppression tools",
-                  "path": "part-iii/division-2/8wad.md"
-                },
-                {
-                  "id": "8WAE",
-                  "title": "Incorrectly keeping records using electronic sales suppression tools",
-                  "path": "part-iii/division-2/8wae.md"
-                }
-              ]
-            },
-            {
-              "id": "C",
-              "title": "Miscellaneous",
-              "sections": [
-                {
-                  "id": "8XA",
-                  "title": "Unauthorised access to taxation records",
-                  "path": "part-iii/division-2/8xa.md"
-                },
-                {
-                  "id": "8Y",
-                  "title": "Liability of officers etc. of corporations",
-                  "path": "part-iii/division-2/8y.md"
-                },
-                {
-                  "id": "8Z",
-                  "title": "Evidentiary certificate relating to previous convictions",
-                  "path": "part-iii/division-2/8z.md"
-                }
-              ]
-            }
-          ],
-          "sections": []
-        },
-        {
-          "id": "3",
-          "title": "Prosecution of taxation offences",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "8ZA",
-              "title": "Prosecution of taxation offences",
-              "path": "part-iii/division-3/8za.md"
-            },
-            {
-              "id": "8ZB",
-              "title": "Prosecution may be commenced at any time",
-              "path": "part-iii/division-3/8zb.md"
-            },
-            {
-              "id": "8ZC",
-              "title": "Place where offence committed",
-              "path": "part-iii/division-3/8zc.md"
-            },
-            {
-              "id": "8ZD",
-              "title": "Conduct by employees or agents of corporations",
-              "path": "part-iii/division-3/8zd.md"
-            },
-            {
-              "id": "8ZE",
-              "title": "Civil penalty not payable if prosecution instituted",
-              "path": "part-iii/division-3/8ze.md"
-            },
-            {
-              "id": "8ZF",
-              "title": "Penalties for corporations",
-              "path": "part-iii/division-3/8zf.md"
-            },
-            {
-              "id": "8ZG",
-              "title": "Enforcement of orders for payment",
-              "path": "part-iii/division-3/8zg.md"
-            },
-            {
-              "id": "8ZH",
-              "title": "Penalties not to relieve from tax",
-              "path": "part-iii/division-3/8zh.md"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "title": "Prescribed taxation offences",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "8ZJ",
-              "title": "Prosecution of prescribed taxation offences",
-              "path": "part-iii/division-4/8zj.md"
-            },
-            {
-              "id": "8ZK",
-              "title": "Protection of witnesses",
-              "path": "part-iii/division-4/8zk.md"
-            },
-            {
-              "id": "8ZL",
-              "title": "Averment",
-              "path": "part-iii/division-4/8zl.md"
-            },
-            {
-              "id": "8ZM",
-              "title": "Evidence of authority to institute proceedings",
-              "path": "part-iii/division-4/8zm.md"
-            },
-            {
-              "id": "8ZN",
-              "title": "Costs",
-              "path": "part-iii/division-4/8zn.md"
-            }
-          ]
-        },
-        {
-          "id": "5",
-          "title": "Service of summons for prescribed taxation offences",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "10",
-              "title": "Service of summons by post",
-              "path": "part-iii/division-5/10.md"
-            },
-            {
-              "id": "11",
-              "title": "Notice of conviction in absentia",
-              "path": "part-iii/division-5/11.md"
-            },
-            {
-              "id": "12",
-              "title": "Notice of intention to issue warrant in default of payment",
-              "path": "part-iii/division-5/12.md"
-            },
-            {
-              "id": "13",
-              "title": "Limitation of action to enforce payment of fine",
-              "path": "part-iii/division-5/13.md"
-            },
-            {
-              "id": "13A",
-              "title": "Setting aside of conviction or order",
-              "path": "part-iii/division-5/13a.md"
-            },
-            {
-              "id": "13B",
-              "title": "Proof of service of summons or notice",
-              "path": "part-iii/division-5/13b.md"
-            },
-            {
-              "id": "13C",
-              "title": "Application of other laws",
-              "path": "part-iii/division-5/13c.md"
-            }
-          ]
-        },
-        {
-          "id": "6",
-          "title": "Setting aside etc. of conviction or order on",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "13CA",
-              "title": "Setting aside etc. of conviction or order on application of Commissioner",
-              "path": "part-iii/division-6/13ca.md"
-            }
-          ]
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "IIIA",
-      "title": "Co-operation between Commonwealth",
-      "divisions": [
-        {
-          "id": "1",
-          "title": "Interpretation",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "13D",
-              "title": "Interpretation",
-              "path": "part-iiia/division-1/13d.md"
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "title": "Trans-border investigations",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "13E",
-              "title": "State taxation officers may refer matters to Commissioner for",
-              "path": "part-iiia/division-2/13e.md"
-            },
-            {
-              "id": "13F",
-              "title": "Access to documents etc.",
-              "path": "part-iiia/division-2/13f.md"
-            },
-            {
-              "id": "13G",
-              "title": "Commissioner may obtain information and evidence",
-              "path": "part-iiia/division-2/13g.md"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "title": "Certification by State taxation officer of copies",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "13K",
-              "title": "Certification by State taxation officer of copies of, and extracts",
-              "path": "part-iiia/division-4/13k.md"
-            }
-          ]
-        },
-        {
-          "id": "5",
-          "title": "Australian Taxation Office may perform",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "13L",
-              "title": "Australian Taxation Office may perform functions under State/Territory debits tax laws",
-              "path": "part-iiia/division-5/13l.md"
-            }
-          ]
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "IVA",
-      "title": "Departure from Australia of certain tax",
-      "divisions": [
-        {
-          "id": "1",
-          "title": "Interpretation",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "14Q",
-              "title": "Interpretation",
-              "path": "part-iva/division-1/14q.md"
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "title": "Prohibition and authorisation of departure of",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "14R",
-              "title": "Departure from Australia of certain tax debtors prohibited",
-              "path": "part-iva/division-2/14r.md"
-            },
-            {
-              "id": "14S",
-              "title": "Departure prohibition orders",
-              "path": "part-iva/division-2/14s.md"
-            },
-            {
-              "id": "14T",
-              "title": "Revocation and variation of departure prohibition orders",
-              "path": "part-iva/division-2/14t.md"
-            },
-            {
-              "id": "14U",
-              "title": "Departure authorisation certificates",
-              "path": "part-iva/division-2/14u.md"
-            }
-          ]
-        },
-        {
-          "id": "3",
-          "title": "Appeals from, and review of, decisions of the",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "14V",
-              "title": "Appeals to courts against making of departure prohibition orders",
-              "path": "part-iva/division-3/14v.md"
-            },
-            {
-              "id": "14W",
-              "title": "Jurisdiction of courts",
-              "path": "part-iva/division-3/14w.md"
-            },
-            {
-              "id": "14X",
-              "title": "Orders of court on appeal",
-              "path": "part-iva/division-3/14x.md"
-            },
-            {
-              "id": "14Y",
-              "title": "Applications for review of certain decisions",
-              "path": "part-iva/division-3/14y.md"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "title": "Enforcement",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "14Z",
-              "title": "Powers of authorised officers",
-              "path": "part-iva/division-4/14z.md"
-            },
-            {
-              "id": "14ZA",
-              "title": "Certain tax debtors to produce authority to depart etc.",
-              "path": "part-iva/division-4/14za.md"
-            }
-          ]
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "IVC",
-      "title": "Taxation objections, reviews and",
-      "divisions": [
-        {
-          "id": "1",
-          "title": "Introduction",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "14ZL",
-              "title": "Part applies to taxation objections",
-              "path": "part-ivc/division-1/14zl.md"
-            },
-            {
-              "id": "14ZM",
-              "title": "Division 2—Interpretive",
-              "path": "part-ivc/division-1/14zm.md"
-            },
-            {
-              "id": "14ZN",
-              "title": "Division 3—Taxation objections",
-              "path": "part-ivc/division-1/14zn.md"
-            },
-            {
-              "id": "14ZO",
-              "title": "Division 4—Tribunal review",
-              "path": "part-ivc/division-1/14zo.md"
-            },
-            {
-              "id": "14ZP",
-              "title": "Division 5—Federal Court appeals",
-              "path": "part-ivc/division-1/14zp.md"
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "title": "Interpretive provisions",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "14ZQ",
-              "title": "General interpretation provisions",
-              "path": "part-ivc/division-2/14zq.md"
-            },
-            {
-              "id": "14ZR",
-              "title": "Taxation decisions covered by single notice to be treated as single decision",
-              "path": "part-ivc/division-2/14zr.md"
-            },
-            {
-              "id": "14ZS",
-              "title": "Ineligible income tax remission decisions",
-              "path": "part-ivc/division-2/14zs.md"
-            }
-          ]
-        },
-        {
-          "id": "3",
-          "title": "Taxation objections",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "14ZU",
-              "title": "How taxation objections are to be made",
-              "path": "part-ivc/division-3/14zu.md"
-            },
-            {
-              "id": "14ZV",
-              "title": "Limited objection rights in the case of certain amended taxation decisions",
-              "path": "part-ivc/division-3/14zv.md"
-            },
-            {
-              "id": "14ZVA",
-              "title": "Limited objection rights because of other objections",
-              "path": "part-ivc/division-3/14zva.md"
-            },
-            {
-              "id": "14ZVB",
-              "title": "Objections relating to excess concessional contributions",
-              "path": "part-ivc/division-3/14zvb.md"
-            },
-            {
-              "id": "14ZVC",
-              "title": "Objections relating to non-concessional contributions",
-              "path": "part-ivc/division-3/14zvc.md"
-            },
-            {
-              "id": "14ZW",
-              "title": "When taxation objections are to be made",
-              "path": "part-ivc/division-3/14zw.md"
-            },
-            {
-              "id": "14ZX",
-              "title": "Commissioner to consider applications for extension of time",
-              "path": "part-ivc/division-3/14zx.md"
-            },
-            {
-              "id": "14ZY",
-              "title": "Commissioner to decide taxation objections",
-              "path": "part-ivc/division-3/14zy.md"
-            },
-            {
-              "id": "14ZYA",
-              "title": "Person may require Commissioner to make an objection decision",
-              "path": "part-ivc/division-3/14zya.md"
-            },
-            {
-              "id": "14ZYB",
-              "title": "Requiring Commissioner to make a private ruling",
-              "path": "part-ivc/division-3/14zyb.md"
-            },
-            {
-              "id": "14ZZ",
-              "title": "Person may seek review of, or appeal against, Commissioner’s decision",
-              "path": "part-ivc/division-3/14zz.md"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "title": "ART review of objection decisions and",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "14ZZA",
-              "title": "ART Act applies subject to this Division",
-              "path": "part-ivc/division-4/14zza.md"
-            },
-            {
-              "id": "14ZZB",
-              "title": "Special rules for reviewable objection decisions and extension of time refusal decisions",
-              "path": "part-ivc/division-4/14zzb.md"
-            },
-            {
-              "id": "14ZZC",
-              "title": "When and how to apply to the ART",
-              "path": "part-ivc/division-4/14zzc.md"
-            },
-            {
-              "id": "14ZZD",
-              "title": "Parties to proceedings for review",
-              "path": "part-ivc/division-4/14zzd.md"
-            },
-            {
-              "id": "14ZZE",
-              "title": "Hearings before ART to be held in private if applicant so requests",
-              "path": "part-ivc/division-4/14zze.md"
-            },
-            {
-              "id": "14ZZF",
-              "title": "Giving documents to the ART",
-              "path": "part-ivc/division-4/14zzf.md"
-            },
-            {
-              "id": "14ZZH",
-              "title": "Limitation on orders staying or affecting reviewable objection decisions relating to small business taxation assessment decisions",
-              "path": "part-ivc/division-4/14zzh.md"
-            },
-            {
-              "id": "14ZZJ",
-              "title": "Publishing ART decisions",
-              "path": "part-ivc/division-4/14zzj.md"
-            },
-            {
-              "id": "14ZZK",
-              "title": "Grounds of objection and burden of proof",
-              "path": "part-ivc/division-4/14zzk.md"
-            },
-            {
-              "id": "14ZZL",
-              "title": "Implementation of ART decisions",
-              "path": "part-ivc/division-4/14zzl.md"
-            },
-            {
-              "id": "14ZZM",
-              "title": "Pending review not to affect implementation of taxation decisions",
-              "path": "part-ivc/division-4/14zzm.md"
-            }
-          ]
-        },
-        {
-          "id": "5",
-          "title": "Court appeals against objection decisions",
-          "subdivisions": [],
-          "sections": [
-            {
-              "id": "14ZZN",
-              "title": "Time limit for appeals",
-              "path": "part-ivc/division-5/14zzn.md"
-            },
-            {
-              "id": "14ZZO",
-              "title": "Grounds of objection and burden of proof",
-              "path": "part-ivc/division-5/14zzo.md"
-            },
-            {
-              "id": "14ZZP",
-              "title": "Order of court on objection decision",
-              "path": "part-ivc/division-5/14zzp.md"
-            },
-            {
-              "id": "14ZZQ",
-              "title": "Implementation of court order in respect of objection decision",
-              "path": "part-ivc/division-5/14zzq.md"
-            },
-            {
-              "id": "14ZZR",
-              "title": "Pending appeal not to affect implementation of taxation decisions",
-              "path": "part-ivc/division-5/14zzr.md"
-            },
-            {
-              "id": "14ZZS",
-              "title": "Transfer of certain proceedings to Federal Circuit and Family Court of Australia (Division 1)",
-              "path": "part-ivc/division-5/14zzs.md"
-            }
-          ]
-        }
-      ],
-      "sections": []
-    },
-    {
-      "id": "IVD",
-      "title": "Protection for whistleblowers",
-      "divisions": [],
-      "sections": [
-        {
-          "id": "14ZZT",
-          "title": "Disclosures qualifying for protection under this Part",
-          "path": "part-ivd/division-unknown/14zzt.md"
-        },
-        {
-          "id": "14ZZTA",
-          "title": "Information disclosed for the purpose of assisting the Tax Practitioners Board",
-          "path": "part-ivd/division-unknown/14zzta.md"
-        },
-        {
-          "id": "14ZZU",
-          "title": "Eligible whistleblowers",
-          "path": "part-ivd/division-unknown/14zzu.md"
-        },
-        {
-          "id": "14ZZV",
-          "title": "Eligible recipients",
-          "path": "part-ivd/division-unknown/14zzv.md"
-        },
-        {
-          "id": "14ZZW",
-          "title": "Confidentiality of whistleblower’s identity",
-          "path": "part-ivd/division-unknown/14zzw.md"
-        },
-        {
-          "id": "14ZZX",
-          "title": "Disclosure that qualifies for protection not actionable etc.",
-          "path": "part-ivd/division-unknown/14zzx.md"
-        },
-        {
-          "id": "14ZZXA",
-          "title": "Claims for protection",
-          "path": "part-ivd/division-unknown/14zzxa.md"
-        },
-        {
-          "id": "14ZZY",
-          "title": "Victimisation prohibited",
-          "path": "part-ivd/division-unknown/14zzy.md"
-        },
-        {
-          "id": "14ZZZ",
-          "title": "Compensation and other remedies—circumstances in which an order may be made",
-          "path": "part-ivd/division-unknown/14zzz.md"
-        },
-        {
-          "id": "14ZZZA",
-          "title": "Compensation and other remedies—orders that may be made",
-          "path": "part-ivd/division-unknown/14zzza.md"
-        },
-        {
-          "id": "14ZZZAA",
-          "title": "Detriment",
-          "path": "part-ivd/division-unknown/14zzzaa.md"
-        },
-        {
-          "id": "14ZZZB",
-          "title": "Identifying information not to be disclosed etc. to courts or tribunals",
-          "path": "part-ivd/division-unknown/14zzzb.md"
-        },
-        {
-          "id": "14ZZZC",
-          "title": "Costs only if proceedings instituted vexatiously etc.",
-          "path": "part-ivd/division-unknown/14zzzc.md"
-        },
-        {
-          "id": "14ZZZD",
-          "title": "Interaction between civil proceedings and criminal offences",
-          "path": "part-ivd/division-unknown/14zzzd.md"
-        },
-        {
-          "id": "14ZZZE",
-          "title": "Compensation for acquisition of property",
-          "path": "part-ivd/division-unknown/14zzze.md"
-        }
-      ]
-    },
-    {
-      "id": "SCHEDULE1",
-      "title": "Schedule 1 — Taxation Administration Act",
+      "id": "",
+      "title": "",
       "divisions": [
         {
           "id": "45",
@@ -3683,6 +2250,16 @@
           "title": "Administrative penalties for statements,",
           "subdivisions": [],
           "sections": [
+            {
+              "id": "1",
+              "title": "having regard to any                 the sum of: relevant matters, it is              (a) 50% of your *scheme shortfall amount, to reasonable to conclude that              the extent that it is not attributable as an entity that (alone or with            mentioned in paragraph (b); and others) entered into or",
+              "path": "part-unknown/division-284/1.md"
+            },
+            {
+              "id": "2",
+              "title": "item 1 does not apply                the sum of:",
+              "path": "part-unknown/division-284/2.md"
+            },
             {
               "id": "284-5",
               "title": "What this Division is about",
@@ -6035,6 +4612,1579 @@
         }
       ],
       "sections": []
+    },
+    {
+      "id": "I",
+      "title": "Preliminary",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "1",
+          "title": "Short title",
+          "path": "part-i/division-unknown/1.md"
+        },
+        {
+          "id": "2",
+          "title": "Interpretation",
+          "path": "part-i/division-unknown/2.md"
+        },
+        {
+          "id": "2A",
+          "title": "Application of the Criminal Code",
+          "path": "part-i/division-unknown/2a.md"
+        },
+        {
+          "id": "2B",
+          "title": "Act binds the Crown",
+          "path": "part-i/division-unknown/2b.md"
+        },
+        {
+          "id": "3",
+          "title": "Application",
+          "path": "part-i/division-unknown/3.md"
+        },
+        {
+          "id": "3AA",
+          "title": "Schedule 1",
+          "path": "part-i/division-unknown/3aa.md"
+        }
+      ]
+    },
+    {
+      "id": "IA",
+      "title": "Administration",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "3A",
+          "title": "General administration of Act",
+          "path": "part-ia/division-unknown/3a.md"
+        },
+        {
+          "id": "3B",
+          "title": "Annual report",
+          "path": "part-ia/division-unknown/3b.md"
+        },
+        {
+          "id": "3C",
+          "title": "Reporting of information about corporate tax entity with reported total income of $100 million or more",
+          "path": "part-ia/division-unknown/3c.md"
+        },
+        {
+          "id": "3CA",
+          "title": "Reporting of information by corporate country by country reporting entities",
+          "path": "part-ia/division-unknown/3ca.md"
+        },
+        {
+          "id": "3D",
+          "title": "Publication of information by certain country by country",
+          "path": "part-ia/division-unknown/3d.md"
+        },
+        {
+          "id": "3DA",
+          "title": "Publication of information by certain country by country reporting entities—information to be published",
+          "path": "part-ia/division-unknown/3da.md"
+        },
+        {
+          "id": "3DB",
+          "title": "Publication of information by certain country by country reporting entities—corrections and exemptions etc.",
+          "path": "part-ia/division-unknown/3db.md"
+        },
+        {
+          "id": "3E",
+          "title": "Reporting of information about entity with PRRT payable",
+          "path": "part-ia/division-unknown/3e.md"
+        },
+        {
+          "id": "3F",
+          "title": "Reporting of information about junior minerals exploration incentive offset",
+          "path": "part-ia/division-unknown/3f.md"
+        },
+        {
+          "id": "3G",
+          "title": "Electronic invoicing",
+          "path": "part-ia/division-unknown/3g.md"
+        },
+        {
+          "id": "3H",
+          "title": "Reporting of information about research and development tax offset",
+          "path": "part-ia/division-unknown/3h.md"
+        },
+        {
+          "id": "3J",
+          "title": "Functions relating to digital ID systems",
+          "path": "part-ia/division-unknown/3j.md"
+        },
+        {
+          "id": "3K",
+          "title": "Reporting of information about CMPTI tax offset",
+          "path": "part-ia/division-unknown/3k.md"
+        },
+        {
+          "id": "3L",
+          "title": "Reporting of information about hydrogen production tax offset",
+          "path": "part-ia/division-unknown/3l.md"
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "title": "Commissioner of Taxation, Second",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "4",
+          "title": "Commissioner and Second Commissioners of Taxation",
+          "path": "part-ii/division-unknown/4.md"
+        },
+        {
+          "id": "4A",
+          "title": "Statutory Agency etc. for purposes of Public Service Act",
+          "path": "part-ii/division-unknown/4a.md"
+        },
+        {
+          "id": "5",
+          "title": "Tenure of Commissioner and Second Commissioners",
+          "path": "part-ii/division-unknown/5.md"
+        },
+        {
+          "id": "5A",
+          "title": "Remuneration and allowances of Commissioner and Second Commissioners",
+          "path": "part-ii/division-unknown/5a.md"
+        },
+        {
+          "id": "6",
+          "title": "Leave of absence",
+          "path": "part-ii/division-unknown/6.md"
+        },
+        {
+          "id": "6A",
+          "title": "Resignation",
+          "path": "part-ii/division-unknown/6a.md"
+        },
+        {
+          "id": "6B",
+          "title": "Acting appointments",
+          "path": "part-ii/division-unknown/6b.md"
+        },
+        {
+          "id": "6C",
+          "title": "Suspension and removal from office of Commissioner or Second Commissioner",
+          "path": "part-ii/division-unknown/6c.md"
+        },
+        {
+          "id": "6D",
+          "title": "Powers of Second Commissioner",
+          "path": "part-ii/division-unknown/6d.md"
+        },
+        {
+          "id": "7",
+          "title": "Deputy Commissioners of Taxation",
+          "path": "part-ii/division-unknown/7.md"
+        },
+        {
+          "id": "8",
+          "title": "Delegation",
+          "path": "part-ii/division-unknown/8.md"
+        }
+      ]
+    },
+    {
+      "id": "IIA",
+      "title": "The general interest charge",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "1",
+          "title": "162-100         A New Tax System (Goods            payment of GST instalments",
+          "path": "part-iia/division-unknown/1.md"
+        },
+        {
+          "id": "2",
+          "title": "168-10           A New Tax System (Goods            supplies later found to be",
+          "path": "part-iia/division-unknown/2.md"
+        },
+        {
+          "id": "3",
+          "title": "25-10            A New Tax System (Wine             purchases later found to be GST",
+          "path": "part-iia/division-unknown/3.md"
+        },
+        {
+          "id": "3A",
+          "title": "175-65           Australian Charities and           payment of administrative",
+          "path": "part-iia/division-unknown/3a.md"
+        },
+        {
+          "id": "3B",
+          "title": "67               Excise Act 1901                    payment of excise duty for",
+          "path": "part-iia/division-unknown/3b.md"
+        },
+        {
+          "id": "5",
+          "title": "93               Fringe Benefits Tax                payment of fringe benefits tax",
+          "path": "part-iia/division-unknown/5.md"
+        },
+        {
+          "id": "6",
+          "title": "112B             Fringe Benefits Tax                payment of fringe benefits tax",
+          "path": "part-iia/division-unknown/6.md"
+        },
+        {
+          "id": "7",
+          "title": "102UP            Income Tax Assessment Act          payment of trustee beneficiary",
+          "path": "part-iia/division-unknown/7.md"
+        },
+        {
+          "id": "8",
+          "title": "128C             Income Tax Assessment Act          payment of withholding tax",
+          "path": "part-iia/division-unknown/8.md"
+        },
+        {
+          "id": "8AAA",
+          "title": "Overview",
+          "path": "part-iia/division-unknown/8aaa.md"
+        },
+        {
+          "id": "8AAB",
+          "title": "When the general interest charge applies",
+          "path": "part-iia/division-unknown/8aab.md"
+        },
+        {
+          "id": "8AAC",
+          "title": "Amount of the general interest charge",
+          "path": "part-iia/division-unknown/8aac.md"
+        },
+        {
+          "id": "8AAD",
+          "title": "What is the general interest charge rate?",
+          "path": "part-iia/division-unknown/8aad.md"
+        },
+        {
+          "id": "8AAE",
+          "title": "When the charge is due and payable",
+          "path": "part-iia/division-unknown/8aae.md"
+        },
+        {
+          "id": "8AAF",
+          "title": "Notification by Commissioner",
+          "path": "part-iia/division-unknown/8aaf.md"
+        },
+        {
+          "id": "8AAG",
+          "title": "Remission of the charge",
+          "path": "part-iia/division-unknown/8aag.md"
+        },
+        {
+          "id": "8AAGA",
+          "title": "Rounding of the charge",
+          "path": "part-iia/division-unknown/8aaga.md"
+        },
+        {
+          "id": "8AAH",
+          "title": "Judgment for payment of an unpaid amount",
+          "path": "part-iia/division-unknown/8aah.md"
+        },
+        {
+          "id": "9",
+          "title": "former           Income Tax Assessment Act          returns by instalment taxpayers section          1936 163AA",
+          "path": "part-iia/division-unknown/9.md"
+        },
+        {
+          "id": "10",
+          "title": "former           Income Tax Assessment Act          returns by persons other than section 163B     1936                               instalment taxpayers",
+          "path": "part-iia/division-unknown/10.md"
+        },
+        {
+          "id": "10A",
+          "title": "172A             Income Tax Assessment Act          repayments of excessive tax",
+          "path": "part-iia/division-unknown/10a.md"
+        },
+        {
+          "id": "11",
+          "title": "271-80 in        Income Tax Assessment Act          payment of family trust Schedule 2F      1936                               distribution tax",
+          "path": "part-iia/division-unknown/11.md"
+        },
+        {
+          "id": "12",
+          "title": "5-15             Income Tax Assessment Act          unpaid income tax or shortfall",
+          "path": "part-iia/division-unknown/12.md"
+        },
+        {
+          "id": "12A",
+          "title": "44-50            Income Tax Assessment Act          payment of assessed build to rent",
+          "path": "part-iia/division-unknown/12a.md"
+        },
+        {
+          "id": "13",
+          "title": "197-75           Income Tax Assessment Act          payment of untainting tax",
+          "path": "part-iia/division-unknown/13.md"
+        },
+        {
+          "id": "14",
+          "title": "214-155         Income Tax Assessment Act          payment of franking tax by a",
+          "path": "part-iia/division-unknown/14.md"
+        },
+        {
+          "id": "15",
+          "title": "292-390         Income Tax Assessment Act          payment of excess",
+          "path": "part-iia/division-unknown/15.md"
+        },
+        {
+          "id": "15A",
+          "title": "293-75          Income Tax Assessment Act          payment of Division 293 tax or",
+          "path": "part-iia/division-unknown/15a.md"
+        },
+        {
+          "id": "15B",
+          "title": "294-250         Income Tax Assessment Act          payment of excess transfer",
+          "path": "part-iia/division-unknown/15b.md"
+        },
+        {
+          "id": "16",
+          "title": "296-215         Income Tax Assessment Act          payment of Division 296 tax or",
+          "path": "part-iia/division-unknown/16.md"
+        },
+        {
+          "id": "16A",
+          "title": "418-170         Income Tax Assessment Act          payment of excess exploration",
+          "path": "part-iia/division-unknown/16a.md"
+        },
+        {
+          "id": "17",
+          "title": "721-30          Income Tax Assessment Act          liability of members of",
+          "path": "part-iia/division-unknown/17.md"
+        },
+        {
+          "id": "18",
+          "title": "840-810         Income Tax Assessment Act          payment of managed investment",
+          "path": "part-iia/division-unknown/18.md"
+        },
+        {
+          "id": "18A",
+          "title": "840-910         Income Tax Assessment Act          payment of labour mobility",
+          "path": "part-iia/division-unknown/18a.md"
+        },
+        {
+          "id": "19",
+          "title": "214-105         Income Tax (Transitional           payment of franking deficit tax",
+          "path": "part-iia/division-unknown/19.md"
+        },
+        {
+          "id": "19A",
+          "title": "10              Boosting Cash Flow for             wrong payment or overpayment",
+          "path": "part-iia/division-unknown/19a.md"
+        },
+        {
+          "id": "19B",
+          "title": "10              Coronavirus Economic               wrong payment or overpayment",
+          "path": "part-iia/division-unknown/19b.md"
+        },
+        {
+          "id": "20",
+          "title": "85              Petroleum Resource Rent            payment of petroleum resource",
+          "path": "part-iia/division-unknown/20.md"
+        },
+        {
+          "id": "20A",
+          "title": "282-19          Private Health Insurance           repayment of private health",
+          "path": "part-iia/division-unknown/20a.md"
+        },
+        {
+          "id": "21",
+          "title": "35              Product Grants and                 payment of a designated scheme",
+          "path": "part-iia/division-unknown/21.md"
+        },
+        {
+          "id": "22",
+          "title": "21              Superannuation                     increase in liability to pay",
+          "path": "part-iia/division-unknown/22.md"
+        },
+        {
+          "id": "23",
+          "title": "22              Superannuation                     liability to pay superannuation",
+          "path": "part-iia/division-unknown/23.md"
+        },
+        {
+          "id": "24",
+          "title": "25              Superannuation                     payment of superannuation",
+          "path": "part-iia/division-unknown/24.md"
+        },
+        {
+          "id": "25",
+          "title": "18              Superannuation                     increase in liability to pay",
+          "path": "part-iia/division-unknown/25.md"
+        },
+        {
+          "id": "26",
+          "title": "21              Superannuation                     payment of superannuation",
+          "path": "part-iia/division-unknown/26.md"
+        },
+        {
+          "id": "27",
+          "title": "25              Superannuation                     repayments or underpayments of",
+          "path": "part-iia/division-unknown/27.md"
+        },
+        {
+          "id": "27A",
+          "title": "115Q            Paid Parental Leave Act            repayments of PPL",
+          "path": "part-iia/division-unknown/27a.md"
+        },
+        {
+          "id": "28",
+          "title": "49              Superannuation Guarantee           payment of superannuation",
+          "path": "part-iia/division-unknown/28.md"
+        },
+        {
+          "id": "29",
+          "title": "15DC            Superannuation (Self               payment of superannuation (self",
+          "path": "part-iia/division-unknown/29.md"
+        },
+        {
+          "id": "30",
+          "title": "17A             Superannuation (Unclaimed          payment of unclaimed money",
+          "path": "part-iia/division-unknown/30.md"
+        },
+        {
+          "id": "31",
+          "title": "18C             Superannuation (Unclaimed          repayment of Commissioner’s",
+          "path": "part-iia/division-unknown/31.md"
+        },
+        {
+          "id": "32",
+          "title": "20F             Superannuation (Unclaimed          payment of unclaimed",
+          "path": "part-iia/division-unknown/32.md"
+        },
+        {
+          "id": "33",
+          "title": "20M             Superannuation (Unclaimed          repayment of Commissioner’s",
+          "path": "part-iia/division-unknown/33.md"
+        },
+        {
+          "id": "33A",
+          "title": "20QE            Superannuation (Unclaimed          payment in respect of inactive",
+          "path": "part-iia/division-unknown/33a.md"
+        },
+        {
+          "id": "33B",
+          "title": "20QL            Superannuation (Unclaimed          repayment of Commissioner’s",
+          "path": "part-iia/division-unknown/33b.md"
+        },
+        {
+          "id": "33C",
+          "title": "21D             Superannuation (Unclaimed          payment in respect of eligible",
+          "path": "part-iia/division-unknown/33c.md"
+        },
+        {
+          "id": "33D",
+          "title": "21H             Superannuation (Unclaimed          repayment of Commissioner’s",
+          "path": "part-iia/division-unknown/33d.md"
+        },
+        {
+          "id": "33E",
+          "title": "22F             Superannuation (Unclaimed          repayment of Commissioner’s",
+          "path": "part-iia/division-unknown/33e.md"
+        },
+        {
+          "id": "34",
+          "title": "24F             Superannuation (Unclaimed          payment in respect of lost",
+          "path": "part-iia/division-unknown/34.md"
+        },
+        {
+          "id": "35",
+          "title": "24L             Superannuation (Unclaimed          repayment of Commissioner’s",
+          "path": "part-iia/division-unknown/35.md"
+        },
+        {
+          "id": "35A",
+          "title": "24NB            Superannuation (Unclaimed          repayment of Commissioner’s",
+          "path": "part-iia/division-unknown/35a.md"
+        },
+        {
+          "id": "36",
+          "title": "8AAZF           Taxation Administration            RBA deficit debts",
+          "path": "part-iia/division-unknown/36.md"
+        },
+        {
+          "id": "37",
+          "title": "8AAZN           Taxation Administration            overpayments made by the",
+          "path": "part-iia/division-unknown/37.md"
+        },
+        {
+          "id": "38",
+          "title": "16-80 in        Taxation Administration            payment of PAYG withholding Schedule 1      Act 1953                           amounts",
+          "path": "part-iia/division-unknown/38.md"
+        },
+        {
+          "id": "38A",
+          "title": "18-150 in       Taxation Administration            PAYG withholding Schedule 1      Act 1953                           non-compliance tax",
+          "path": "part-iia/division-unknown/38a.md"
+        },
+        {
+          "id": "39",
+          "title": "45-80 in        Taxation Administration            payment of PAYG instalments Schedule 1      Act 1953",
+          "path": "part-iia/division-unknown/39.md"
+        },
+        {
+          "id": "40",
+          "title": "45-230 in       Taxation Administration            shortfall in quarterly PAYG Schedule 1      Act 1953                           instalments worked out on the",
+          "path": "part-iia/division-unknown/40.md"
+        },
+        {
+          "id": "41",
+          "title": "45-232 in       Taxation Administration            shortfall in quarterly PAYG Schedule 1      Act 1953                           instalments worked out on the",
+          "path": "part-iia/division-unknown/41.md"
+        },
+        {
+          "id": "42",
+          "title": "45-235 in       Taxation Administration            shortfall in annual PAYG Schedule 1      Act 1953                           instalments",
+          "path": "part-iia/division-unknown/42.md"
+        },
+        {
+          "id": "43",
+          "title": "45-600 and      Taxation Administration            tax benefits relating to PAYG 45-620 in       Act 1953                           instalments Schedule 1",
+          "path": "part-iia/division-unknown/43.md"
+        },
+        {
+          "id": "44",
+          "title": "45-870 and      Taxation Administration            head company’s liability on 45-875 in       Act 1953                           shortfall in quarterly PAYG Schedule 1                                         instalments",
+          "path": "part-iia/division-unknown/44.md"
+        },
+        {
+          "id": "45",
+          "title": "105-80 in       Taxation Administration            payment of a net fuel amount or Schedule 1      Act 1953                           an amount of indirect tax",
+          "path": "part-iia/division-unknown/45.md"
+        },
+        {
+          "id": "45A",
+          "title": "115-10 in       Taxation Administration            payment of major bank levy Schedule 1      Act 1953",
+          "path": "part-iia/division-unknown/45a.md"
+        },
+        {
+          "id": "45B",
+          "title": "125-10 in       Taxation Administration            payment of Laminaria and Schedule 1      Act 1953                           Corallina decommissioning levy",
+          "path": "part-iia/division-unknown/45b.md"
+        },
+        {
+          "id": "45B",
+          "title": "127-70 in       Taxation Administration            payment of Australian IIR/UTPR A        Schedule 1      Act 1953                           tax or shortfall interest charge",
+          "path": "part-iia/division-unknown/45b.md"
+        },
+        {
+          "id": "45B",
+          "title": "127-70 in       Taxation Administration            payment of Australian DMT tax B        Schedule 1      Act 1953                           or shortfall interest charge",
+          "path": "part-iia/division-unknown/45b.md"
+        },
+        {
+          "id": "45C",
+          "title": "133-115 in      Taxation Administration            payment of debt account Schedule 1      Act 1953                           discharge liability",
+          "path": "part-iia/division-unknown/45c.md"
+        },
+        {
+          "id": "45D",
+          "title": "134-115 in      Taxation Administration            payment of Division 296 debt Schedule 1      Act 1953                           account discharge liability",
+          "path": "part-iia/division-unknown/45d.md"
+        },
+        {
+          "id": "46",
+          "title": "263-30 in       Taxation Administration            payment of a foreign revenue Schedule 1      Act 1953                           claim",
+          "path": "part-iia/division-unknown/46.md"
+        },
+        {
+          "id": "47",
+          "title": "268-75 in       Taxation Administration            late payment of estimate Schedule 1      Act 1953",
+          "path": "part-iia/division-unknown/47.md"
+        },
+        {
+          "id": "48",
+          "title": "298-25 in       Taxation Administration            payment of administrative Schedule 1      Act 1953                           penalty",
+          "path": "part-iia/division-unknown/48.md"
+        }
+      ]
+    },
+    {
+      "id": "IIB",
+      "title": "Running balance accounts, application",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Preliminary",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "8AAZA",
+              "title": "Definitions",
+              "path": "part-iib/division-1/8aaza.md"
+            },
+            {
+              "id": "8AAZAA",
+              "title": "Amounts relating to Coronavirus economic response payments",
+              "path": "part-iib/division-1/8aazaa.md"
+            },
+            {
+              "id": "8AAZB",
+              "title": "Trustee to be treated as separate entity for each capacity",
+              "path": "part-iib/division-1/8aazb.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Running Balance Accounts (or RBAs)",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "8AAZC",
+              "title": "Establishment of RBAs",
+              "path": "part-iib/division-2/8aazc.md"
+            },
+            {
+              "id": "8AAZD",
+              "title": "Allocation of tax debts to RBAs",
+              "path": "part-iib/division-2/8aazd.md"
+            },
+            {
+              "id": "8AAZF",
+              "title": "General interest charge on RBA deficit debt",
+              "path": "part-iib/division-2/8aazf.md"
+            },
+            {
+              "id": "8AAZG",
+              "title": "RBA statements",
+              "path": "part-iib/division-2/8aazg.md"
+            },
+            {
+              "id": "8AAZH",
+              "title": "Liability for RBA deficit debt",
+              "path": "part-iib/division-2/8aazh.md"
+            },
+            {
+              "id": "8AAZI",
+              "title": "RBA statement to be evidence",
+              "path": "part-iib/division-2/8aazi.md"
+            },
+            {
+              "id": "8AAZJ",
+              "title": "Evidentiary certificate about RBA transactions etc.",
+              "path": "part-iib/division-2/8aazj.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Treatment of payments, credits and RBA",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "8AAZL",
+              "title": "Amounts covered by this Division",
+              "path": "part-iib/division-3/8aazl.md"
+            },
+            {
+              "id": "8AAZLA",
+              "title": "Method 1—allocating the amount first to an RBA",
+              "path": "part-iib/division-3/8aazla.md"
+            },
+            {
+              "id": "8AAZLB",
+              "title": "Method 2—applying the amount first against a non-RBA tax debt",
+              "path": "part-iib/division-3/8aazlb.md"
+            },
+            {
+              "id": "8AAZLC",
+              "title": "RBA surplus and related credits must remain equivalent if one or the other is applied",
+              "path": "part-iib/division-3/8aazlc.md"
+            },
+            {
+              "id": "8AAZLD",
+              "title": "Special priority credits",
+              "path": "part-iib/division-3/8aazld.md"
+            },
+            {
+              "id": "8AAZLE",
+              "title": "Instructions to Commissioner not binding",
+              "path": "part-iib/division-3/8aazle.md"
+            }
+          ]
+        },
+        {
+          "id": "3A",
+          "title": "Refunds of RBA surpluses and credits",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "8AAZLF",
+              "title": "Commissioner must refund RBA surpluses and credits",
+              "path": "part-iib/division-3a/8aazlf.md"
+            },
+            {
+              "id": "8AAZLG",
+              "title": "Retaining refunds until information or notification given",
+              "path": "part-iib/division-3a/8aazlg.md"
+            },
+            {
+              "id": "8AAZLGA",
+              "title": "Retaining refunds while Commissioner verifies information",
+              "path": "part-iib/division-3a/8aazlga.md"
+            },
+            {
+              "id": "8AAZLGB",
+              "title": "Retaining refunds until notification under Division 389 or ascertainment of liability",
+              "path": "part-iib/division-3a/8aazlgb.md"
+            },
+            {
+              "id": "8AAZLGC",
+              "title": "Retaining refunds while Commissioner obtains financial institution details",
+              "path": "part-iib/division-3a/8aazlgc.md"
+            },
+            {
+              "id": "8AAZLH",
+              "title": "How refunds are made",
+              "path": "part-iib/division-3a/8aazlh.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Miscellaneous provisions about tax debts",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "8AAZM",
+              "title": "When payments are treated as received",
+              "path": "part-iib/division-4/8aazm.md"
+            },
+            {
+              "id": "8AAZMA",
+              "title": "Electronic payment of tax debts",
+              "path": "part-iib/division-4/8aazma.md"
+            },
+            {
+              "id": "8AAZMB",
+              "title": "Saturdays, Sundays and public holidays",
+              "path": "part-iib/division-4/8aazmb.md"
+            },
+            {
+              "id": "8AAZN",
+              "title": "Overpayments made by the Commissioner under taxation laws",
+              "path": "part-iib/division-4/8aazn.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "III",
+      "title": "Prosecutions and offences",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Preliminary",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "8A",
+              "title": "Interpretation",
+              "path": "part-iii/division-1/8a.md"
+            },
+            {
+              "id": "8AC",
+              "title": "Application of Part to the Tax Agent Services Act 2009",
+              "path": "part-iii/division-1/8ac.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Offences",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Failure to comply with taxation requirements",
+              "sections": [
+                {
+                  "id": "8B",
+                  "title": "Interpretation",
+                  "path": "part-iii/division-2/8b.md"
+                },
+                {
+                  "id": "8C",
+                  "title": "Failure to comply with requirements under taxation law",
+                  "path": "part-iii/division-2/8c.md"
+                },
+                {
+                  "id": "8D",
+                  "title": "Failure to answer questions when attending before the",
+                  "path": "part-iii/division-2/8d.md"
+                },
+                {
+                  "id": "8E",
+                  "title": "Penalties for failure to comply with requirements under taxation",
+                  "path": "part-iii/division-2/8e.md"
+                },
+                {
+                  "id": "8F",
+                  "title": "Election to treat offence otherwise than as prescribed taxation",
+                  "path": "part-iii/division-2/8f.md"
+                },
+                {
+                  "id": "8G",
+                  "title": "Order to comply with requirement",
+                  "path": "part-iii/division-2/8g.md"
+                },
+                {
+                  "id": "8H",
+                  "title": "Penalty for failure to comply with order to comply",
+                  "path": "part-iii/division-2/8h.md"
+                },
+                {
+                  "id": "8HA",
+                  "title": "Court may order payment of amount in addition to penalty",
+                  "path": "part-iii/division-2/8ha.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Offences relating to statements, records and",
+              "sections": [
+                {
+                  "id": "8J",
+                  "title": "Interpretation",
+                  "path": "part-iii/division-2/8j.md"
+                },
+                {
+                  "id": "8K",
+                  "title": "False or misleading statements",
+                  "path": "part-iii/division-2/8k.md"
+                },
+                {
+                  "id": "8L",
+                  "title": "Incorrectly keeping records etc.",
+                  "path": "part-iii/division-2/8l.md"
+                },
+                {
+                  "id": "8M",
+                  "title": "Penalties for offences against subsections 8K(1) and (1B) and 8L(1) and (1A)",
+                  "path": "part-iii/division-2/8m.md"
+                },
+                {
+                  "id": "8N",
+                  "title": "Recklessly making false or misleading statements",
+                  "path": "part-iii/division-2/8n.md"
+                },
+                {
+                  "id": "8Q",
+                  "title": "Recklessly incorrectly keeping records etc.",
+                  "path": "part-iii/division-2/8q.md"
+                },
+                {
+                  "id": "8R",
+                  "title": "Penalties for offences against sections 8N and 8Q",
+                  "path": "part-iii/division-2/8r.md"
+                },
+                {
+                  "id": "8S",
+                  "title": "Election to treat offence otherwise than as prescribed taxation",
+                  "path": "part-iii/division-2/8s.md"
+                },
+                {
+                  "id": "8T",
+                  "title": "Incorrectly keeping records with intention of deceiving or",
+                  "path": "part-iii/division-2/8t.md"
+                },
+                {
+                  "id": "8U",
+                  "title": "Falsifying or concealing identity with intention of deceiving or",
+                  "path": "part-iii/division-2/8u.md"
+                },
+                {
+                  "id": "8V",
+                  "title": "Penalties for offences against sections 8T and 8U",
+                  "path": "part-iii/division-2/8v.md"
+                },
+                {
+                  "id": "8W",
+                  "title": "Court may order payment of amount in addition to penalty",
+                  "path": "part-iii/division-2/8w.md"
+                }
+              ]
+            },
+            {
+              "id": "BA",
+              "title": "Offences relating to tax file numbers",
+              "sections": [
+                {
+                  "id": "8WA",
+                  "title": "Unauthorised requirement etc. that tax file number be quoted",
+                  "path": "part-iii/division-2/8wa.md"
+                },
+                {
+                  "id": "8WB",
+                  "title": "Unauthorised recording etc. of tax file number",
+                  "path": "part-iii/division-2/8wb.md"
+                },
+                {
+                  "id": "8WC",
+                  "title": "Conducting affairs so as to avoid tax file number requirements",
+                  "path": "part-iii/division-2/8wc.md"
+                }
+              ]
+            },
+            {
+              "id": "BAA",
+              "title": "Offences relating to electronic sales",
+              "sections": [
+                {
+                  "id": "8WAA",
+                  "title": "Object of this Subdivision",
+                  "path": "part-iii/division-2/8waa.md"
+                },
+                {
+                  "id": "8WAB",
+                  "title": "Interpretation",
+                  "path": "part-iii/division-2/8wab.md"
+                },
+                {
+                  "id": "8WAC",
+                  "title": "Producing or supplying electronic sales suppression tools",
+                  "path": "part-iii/division-2/8wac.md"
+                },
+                {
+                  "id": "8WAD",
+                  "title": "Possessing electronic sales suppression tools",
+                  "path": "part-iii/division-2/8wad.md"
+                },
+                {
+                  "id": "8WAE",
+                  "title": "Incorrectly keeping records using electronic sales suppression tools",
+                  "path": "part-iii/division-2/8wae.md"
+                }
+              ]
+            },
+            {
+              "id": "C",
+              "title": "Miscellaneous",
+              "sections": [
+                {
+                  "id": "8XA",
+                  "title": "Unauthorised access to taxation records",
+                  "path": "part-iii/division-2/8xa.md"
+                },
+                {
+                  "id": "8Y",
+                  "title": "Liability of officers etc. of corporations",
+                  "path": "part-iii/division-2/8y.md"
+                },
+                {
+                  "id": "8Z",
+                  "title": "Evidentiary certificate relating to previous convictions",
+                  "path": "part-iii/division-2/8z.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "3",
+          "title": "Prosecution of taxation offences",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "8ZA",
+              "title": "Prosecution of taxation offences",
+              "path": "part-iii/division-3/8za.md"
+            },
+            {
+              "id": "8ZB",
+              "title": "Prosecution may be commenced at any time",
+              "path": "part-iii/division-3/8zb.md"
+            },
+            {
+              "id": "8ZC",
+              "title": "Place where offence committed",
+              "path": "part-iii/division-3/8zc.md"
+            },
+            {
+              "id": "8ZD",
+              "title": "Conduct by employees or agents of corporations",
+              "path": "part-iii/division-3/8zd.md"
+            },
+            {
+              "id": "8ZE",
+              "title": "Civil penalty not payable if prosecution instituted",
+              "path": "part-iii/division-3/8ze.md"
+            },
+            {
+              "id": "8ZF",
+              "title": "Penalties for corporations",
+              "path": "part-iii/division-3/8zf.md"
+            },
+            {
+              "id": "8ZG",
+              "title": "Enforcement of orders for payment",
+              "path": "part-iii/division-3/8zg.md"
+            },
+            {
+              "id": "8ZH",
+              "title": "Penalties not to relieve from tax",
+              "path": "part-iii/division-3/8zh.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Prescribed taxation offences",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "8ZJ",
+              "title": "Prosecution of prescribed taxation offences",
+              "path": "part-iii/division-4/8zj.md"
+            },
+            {
+              "id": "8ZK",
+              "title": "Protection of witnesses",
+              "path": "part-iii/division-4/8zk.md"
+            },
+            {
+              "id": "8ZL",
+              "title": "Averment",
+              "path": "part-iii/division-4/8zl.md"
+            },
+            {
+              "id": "8ZM",
+              "title": "Evidence of authority to institute proceedings",
+              "path": "part-iii/division-4/8zm.md"
+            },
+            {
+              "id": "8ZN",
+              "title": "Costs",
+              "path": "part-iii/division-4/8zn.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Service of summons for prescribed taxation",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "9",
+              "title": "Interpretation",
+              "path": "part-iii/division-5/9.md"
+            },
+            {
+              "id": "10",
+              "title": "Service of summons by post",
+              "path": "part-iii/division-5/10.md"
+            },
+            {
+              "id": "11",
+              "title": "Notice of conviction in absentia",
+              "path": "part-iii/division-5/11.md"
+            },
+            {
+              "id": "12",
+              "title": "Notice of intention to issue warrant in default of payment",
+              "path": "part-iii/division-5/12.md"
+            },
+            {
+              "id": "13",
+              "title": "Limitation of action to enforce payment of fine",
+              "path": "part-iii/division-5/13.md"
+            },
+            {
+              "id": "13A",
+              "title": "Setting aside of conviction or order",
+              "path": "part-iii/division-5/13a.md"
+            },
+            {
+              "id": "13B",
+              "title": "Proof of service of summons or notice",
+              "path": "part-iii/division-5/13b.md"
+            },
+            {
+              "id": "13C",
+              "title": "Application of other laws",
+              "path": "part-iii/division-5/13c.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Setting aside etc. of conviction or order on",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "13CA",
+              "title": "Setting aside etc. of conviction or order on application of Commissioner",
+              "path": "part-iii/division-6/13ca.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "IIIA",
+      "title": "Co-operation between Commonwealth",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Interpretation",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "13D",
+              "title": "Interpretation",
+              "path": "part-iiia/division-1/13d.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Trans-border investigations",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "13E",
+              "title": "State taxation officers may refer matters to Commissioner for",
+              "path": "part-iiia/division-2/13e.md"
+            },
+            {
+              "id": "13F",
+              "title": "Access to documents etc.",
+              "path": "part-iiia/division-2/13f.md"
+            },
+            {
+              "id": "13G",
+              "title": "Commissioner may obtain information and evidence",
+              "path": "part-iiia/division-2/13g.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Certification by State taxation officer of copies",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "13K",
+              "title": "Certification by State taxation officer of copies of, and extracts",
+              "path": "part-iiia/division-4/13k.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Australian Taxation Office may perform",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "13L",
+              "title": "Australian Taxation Office may perform functions under State/Territory debits tax laws",
+              "path": "part-iiia/division-5/13l.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "IVA",
+      "title": "Departure from Australia of certain tax",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Interpretation",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "14Q",
+              "title": "Interpretation",
+              "path": "part-iva/division-1/14q.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Prohibition and authorisation of departure of",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "14R",
+              "title": "Departure from Australia of certain tax debtors prohibited",
+              "path": "part-iva/division-2/14r.md"
+            },
+            {
+              "id": "14S",
+              "title": "Departure prohibition orders",
+              "path": "part-iva/division-2/14s.md"
+            },
+            {
+              "id": "14T",
+              "title": "Revocation and variation of departure prohibition orders",
+              "path": "part-iva/division-2/14t.md"
+            },
+            {
+              "id": "14U",
+              "title": "Departure authorisation certificates",
+              "path": "part-iva/division-2/14u.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Appeals from, and review of, decisions of the",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "14V",
+              "title": "Appeals to courts against making of departure prohibition orders",
+              "path": "part-iva/division-3/14v.md"
+            },
+            {
+              "id": "14W",
+              "title": "Jurisdiction of courts",
+              "path": "part-iva/division-3/14w.md"
+            },
+            {
+              "id": "14X",
+              "title": "Orders of court on appeal",
+              "path": "part-iva/division-3/14x.md"
+            },
+            {
+              "id": "14Y",
+              "title": "Applications for review of certain decisions",
+              "path": "part-iva/division-3/14y.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Enforcement",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "14Z",
+              "title": "Powers of authorised officers",
+              "path": "part-iva/division-4/14z.md"
+            },
+            {
+              "id": "14ZA",
+              "title": "Certain tax debtors to produce authority to depart etc.",
+              "path": "part-iva/division-4/14za.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "IVC",
+      "title": "Taxation objections, reviews and",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "14ZL",
+              "title": "Part applies to taxation objections",
+              "path": "part-ivc/division-1/14zl.md"
+            },
+            {
+              "id": "14ZM",
+              "title": "Division 2—Interpretive",
+              "path": "part-ivc/division-1/14zm.md"
+            },
+            {
+              "id": "14ZN",
+              "title": "Division 3—Taxation objections",
+              "path": "part-ivc/division-1/14zn.md"
+            },
+            {
+              "id": "14ZO",
+              "title": "Division 4—Tribunal review",
+              "path": "part-ivc/division-1/14zo.md"
+            },
+            {
+              "id": "14ZP",
+              "title": "Division 5—Federal Court appeals",
+              "path": "part-ivc/division-1/14zp.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Interpretive provisions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "14ZQ",
+              "title": "General interpretation provisions",
+              "path": "part-ivc/division-2/14zq.md"
+            },
+            {
+              "id": "14ZR",
+              "title": "Taxation decisions covered by single notice to be treated as single decision",
+              "path": "part-ivc/division-2/14zr.md"
+            },
+            {
+              "id": "14ZS",
+              "title": "Ineligible income tax remission decisions",
+              "path": "part-ivc/division-2/14zs.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Taxation objections",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "14ZU",
+              "title": "How taxation objections are to be made",
+              "path": "part-ivc/division-3/14zu.md"
+            },
+            {
+              "id": "14ZV",
+              "title": "Limited objection rights in the case of certain amended taxation decisions",
+              "path": "part-ivc/division-3/14zv.md"
+            },
+            {
+              "id": "14ZVA",
+              "title": "Limited objection rights because of other objections",
+              "path": "part-ivc/division-3/14zva.md"
+            },
+            {
+              "id": "14ZVB",
+              "title": "Objections relating to excess concessional contributions",
+              "path": "part-ivc/division-3/14zvb.md"
+            },
+            {
+              "id": "14ZVC",
+              "title": "Objections relating to non-concessional contributions",
+              "path": "part-ivc/division-3/14zvc.md"
+            },
+            {
+              "id": "14ZW",
+              "title": "When taxation objections are to be made",
+              "path": "part-ivc/division-3/14zw.md"
+            },
+            {
+              "id": "14ZX",
+              "title": "Commissioner to consider applications for extension of time",
+              "path": "part-ivc/division-3/14zx.md"
+            },
+            {
+              "id": "14ZY",
+              "title": "Commissioner to decide taxation objections",
+              "path": "part-ivc/division-3/14zy.md"
+            },
+            {
+              "id": "14ZYA",
+              "title": "Person may require Commissioner to make an objection decision",
+              "path": "part-ivc/division-3/14zya.md"
+            },
+            {
+              "id": "14ZYB",
+              "title": "Requiring Commissioner to make a private ruling",
+              "path": "part-ivc/division-3/14zyb.md"
+            },
+            {
+              "id": "14ZZ",
+              "title": "Person may seek review of, or appeal against, Commissioner’s decision",
+              "path": "part-ivc/division-3/14zz.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "ART review of objection decisions and",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "14ZZA",
+              "title": "ART Act applies subject to this Division",
+              "path": "part-ivc/division-4/14zza.md"
+            },
+            {
+              "id": "14ZZB",
+              "title": "Special rules for reviewable objection decisions and extension of time refusal decisions",
+              "path": "part-ivc/division-4/14zzb.md"
+            },
+            {
+              "id": "14ZZC",
+              "title": "When and how to apply to the ART",
+              "path": "part-ivc/division-4/14zzc.md"
+            },
+            {
+              "id": "14ZZD",
+              "title": "Parties to proceedings for review",
+              "path": "part-ivc/division-4/14zzd.md"
+            },
+            {
+              "id": "14ZZE",
+              "title": "Hearings before ART to be held in private if applicant so requests",
+              "path": "part-ivc/division-4/14zze.md"
+            },
+            {
+              "id": "14ZZF",
+              "title": "Giving documents to the ART",
+              "path": "part-ivc/division-4/14zzf.md"
+            },
+            {
+              "id": "14ZZH",
+              "title": "Limitation on orders staying or affecting reviewable objection decisions relating to small business taxation assessment decisions",
+              "path": "part-ivc/division-4/14zzh.md"
+            },
+            {
+              "id": "14ZZJ",
+              "title": "Publishing ART decisions",
+              "path": "part-ivc/division-4/14zzj.md"
+            },
+            {
+              "id": "14ZZK",
+              "title": "Grounds of objection and burden of proof",
+              "path": "part-ivc/division-4/14zzk.md"
+            },
+            {
+              "id": "14ZZL",
+              "title": "Implementation of ART decisions",
+              "path": "part-ivc/division-4/14zzl.md"
+            },
+            {
+              "id": "14ZZM",
+              "title": "Pending review not to affect implementation of taxation decisions",
+              "path": "part-ivc/division-4/14zzm.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Court appeals against objection decisions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "14ZZN",
+              "title": "Time limit for appeals",
+              "path": "part-ivc/division-5/14zzn.md"
+            },
+            {
+              "id": "14ZZO",
+              "title": "Grounds of objection and burden of proof",
+              "path": "part-ivc/division-5/14zzo.md"
+            },
+            {
+              "id": "14ZZP",
+              "title": "Order of court on objection decision",
+              "path": "part-ivc/division-5/14zzp.md"
+            },
+            {
+              "id": "14ZZQ",
+              "title": "Implementation of court order in respect of objection decision",
+              "path": "part-ivc/division-5/14zzq.md"
+            },
+            {
+              "id": "14ZZR",
+              "title": "Pending appeal not to affect implementation of taxation decisions",
+              "path": "part-ivc/division-5/14zzr.md"
+            },
+            {
+              "id": "14ZZS",
+              "title": "Transfer of certain proceedings to Federal Circuit and Family Court of Australia (Division 1)",
+              "path": "part-ivc/division-5/14zzs.md"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "IVD",
+      "title": "Protection for whistleblowers",
+      "divisions": [],
+      "sections": [
+        {
+          "id": "14ZZT",
+          "title": "Disclosures qualifying for protection under this Part",
+          "path": "part-ivd/division-unknown/14zzt.md"
+        },
+        {
+          "id": "14ZZTA",
+          "title": "Information disclosed for the purpose of assisting the Tax Practitioners Board",
+          "path": "part-ivd/division-unknown/14zzta.md"
+        },
+        {
+          "id": "14ZZU",
+          "title": "Eligible whistleblowers",
+          "path": "part-ivd/division-unknown/14zzu.md"
+        },
+        {
+          "id": "14ZZV",
+          "title": "Eligible recipients",
+          "path": "part-ivd/division-unknown/14zzv.md"
+        },
+        {
+          "id": "14ZZW",
+          "title": "Confidentiality of whistleblower’s identity",
+          "path": "part-ivd/division-unknown/14zzw.md"
+        },
+        {
+          "id": "14ZZX",
+          "title": "Disclosure that qualifies for protection not actionable etc.",
+          "path": "part-ivd/division-unknown/14zzx.md"
+        },
+        {
+          "id": "14ZZXA",
+          "title": "Claims for protection",
+          "path": "part-ivd/division-unknown/14zzxa.md"
+        },
+        {
+          "id": "14ZZY",
+          "title": "Victimisation prohibited",
+          "path": "part-ivd/division-unknown/14zzy.md"
+        },
+        {
+          "id": "14ZZZ",
+          "title": "Compensation and other remedies—circumstances in which an order may be made",
+          "path": "part-ivd/division-unknown/14zzz.md"
+        },
+        {
+          "id": "14ZZZA",
+          "title": "Compensation and other remedies—orders that may be made",
+          "path": "part-ivd/division-unknown/14zzza.md"
+        },
+        {
+          "id": "14ZZZAA",
+          "title": "Detriment",
+          "path": "part-ivd/division-unknown/14zzzaa.md"
+        },
+        {
+          "id": "14ZZZB",
+          "title": "Identifying information not to be disclosed etc. to courts or tribunals",
+          "path": "part-ivd/division-unknown/14zzzb.md"
+        },
+        {
+          "id": "14ZZZC",
+          "title": "Costs only if proceedings instituted vexatiously etc.",
+          "path": "part-ivd/division-unknown/14zzzc.md"
+        },
+        {
+          "id": "14ZZZD",
+          "title": "Interaction between civil proceedings and criminal offences",
+          "path": "part-ivd/division-unknown/14zzzd.md"
+        },
+        {
+          "id": "14ZZZE",
+          "title": "Compensation for acquisition of property",
+          "path": "part-ivd/division-unknown/14zzze.md"
+        }
+      ]
     },
     {
       "id": "V",

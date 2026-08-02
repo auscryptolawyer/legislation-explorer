@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZF  General interest charge on RBA deficit debt
+
 
 <a id="s8AAZF-1"></a>
 **(1)**  If there is an RBA deficit debt at the end of a day, then general interest charge is payable by the tax debtor on that RBA deficit debt for that day.

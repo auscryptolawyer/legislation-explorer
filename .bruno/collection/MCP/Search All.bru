@@ -1,0 +1,17 @@
+meta {
+  name: MCP search_all
+  type: http
+  seq: 6
+}
+post {
+  url: http://localhost:8765/api/rpc/search_all
+  body: json
+  auth: none
+}
+body:json {
+  {
+    "query": "director penalty",
+    "type_filter": "case",
+    "limit": 5
+  }
+}

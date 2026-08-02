@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8WC  Conducting affairs so as to avoid tax file number requirements
+
 
 <a id="s8WC-1"></a>
 **(1)**  Where:
@@ -33,7 +35,8 @@ source_pdf: "vol01.pdf"
 > > **(iii)**  although the person has not, under Part VA of the Income Tax Assessment Act 1936, quoted the person’s tax file number in connection with those investments (in this subparagraph called the non-TFN investments): (A) amounts would not be deducted under Division 3B of that Act, or withheld under section 12-140 or 12-145 in Schedule 1 to this Act, from income in respect of one or more of the non-TFN investments; and (B) amounts would not be paid to the Commissioner under section 14-5 in Schedule 1 to this Act, in relation to income in respect of one or more of the non-TFN investments; and (C) TFN withholding tax would not be payable under section 14-55 in Schedule 1 to this Act in respect of one or more of the non-TFN investments; or
 
 > > <a id="s8WC-1-b-iv"></a>
-> > **(iv)**  the investments are not referred to in a report under the regulations made under that Act; the person commits an offence. Penalty: 100 penalty units or imprisonment for 2 years, or both.
+> > **(iv)**  the investments are not referred to in a report under the regulations made under that Act; the person commits an offence. Penalty: 100 penalty units or imprisonment for 2 years, or both. Authorised Version C2026C00170 registered 28/04/2026
+
 <a id="s8WC-2"></a>
 **(2)**  In this section: investment means an investment of a kind mentioned in section 202D of the Income Tax Assessment Act 1936. investor means an investor within the meaning of that section.
 

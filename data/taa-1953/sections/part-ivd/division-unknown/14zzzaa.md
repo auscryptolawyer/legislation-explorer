@@ -12,6 +12,7 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZZAA  Detriment
 
 In sections 14ZZY and 14ZZZ, detriment includes (without limitation) any of the following:

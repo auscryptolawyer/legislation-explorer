@@ -1,0 +1,23 @@
+## 2.7.3 — 1 Aug 2026
+
+- **B23: report_issue fixed** — dedup now includes `note` in param_hash hashing (was hashing tool+params only, causing all tool reports with no params to collide). Ticket allocation now insert-first (concurrency-safe via auto-increment id on INSERT, not pre-computed MAX(id)+1). Test noise tickets (CDN-0017–CDN-0037) cleaned.
+- **B1/B2: get_section payload capped** — `max_body_length` parameter (default 50K chars), `include_commentary` (default false, returns snippet+locator only). s 995-1 returns truncated preview with note to use `get_definition`.
+- **B3: get_definition boundary bleeding** — hard length cap of 5000 chars after text extraction.
+- **B4: 2-digit year rulings** — `TR 97/7` → `TR 1997/7` normalizer added.
+- **B5: search_cases ranking** — relevance scoring: exact name/citation matches ranked first, then all-words-in-name, then partial matches.
+- **B6: case_legislation_refs act attribution** — `_fix_itaa1936_act_titles()` shared helper extracted from `get_case_metadata()`; both `get_case` and `case_legislation_refs` use it.
+- **B7: s 269-15(2A) truncation** — RE_NOISE extended to strip indented `*For definition…` footnote lines.
+- **B8: 1936 section dedup** — 1936-act heuristic extended beyond the 109-series; de-dupes so one ref isn't emitted under two acts.
+- **B11: ATO-ID legislation_referenced** — `_KNOWN_ACT_RE` regex rejects sentence fragments as act titles; dedup by `(act, section)`.
+- **B12: insolvency_get_chapter pagination** — `offset`/`limit` params added, content sliced by lines.
+- **New tool: resolve_alias** — resolves "Div 7A", "s 100A", "Part IVA", "Subdiv 115-C", "109Y", "8-1", etc. to act + section number with URL.
+- **New tool: list_issues** — lists issues with status, patch notes (`fixed` field), and filters (status, tool, limit, max 200).
+- **CDN-0002: resolve_alias** — section alias tool added.
+- **CDN-0009: paragraph backfill** — pipeline for cases with content but no paragraphs.
+- **CDN-0010/0016: decision_date backfill** — 187 case names fixed, hundreds of dates backfilled from summary data.
+- **CDN-0011: search_cases** — relevance ranking boost for summary fields over party-name matches.
+- **CDN-0012: quoted-phrase search** — `"distributable surplus"` now does exact LIKE match bypassing FTS5 stemming.
+- **CDN-0013: self-citation cleanup** — self-references filtered, AustLII chrome stripped, court-code validation.
+- **CDN-0015: case_name truncation** — 187 truncated case names backfilled from summary data.
+- **CDN-0044: cases_cited names** — resolution path from cases table.
+- **API: `/api/issues` now returns `fixed` field** — shows per-issue patch notes for resolved bugs.

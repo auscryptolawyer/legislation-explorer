@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZZC  Costs only if proceedings instituted vexatiously etc.
+
 
 <a id="s14ZZZC-1"></a>
 **(1)**  This section applies to a proceeding (including an appeal) in a court in relation to a matter arising under section 14ZZZA in which a person (the claimant) is seeking an order under subsection 14ZZZA(1).

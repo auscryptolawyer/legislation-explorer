@@ -28,48 +28,13 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<FlatResult[]>([])
   const [unfilteredResults, setUnfilteredResults] = useState<FlatResult[]>([])
-  const [autoResults, setAutoResults] = useState<FlatResult[]>([])
   const [filterOpen, setFilterOpen] = useState(false)
   const [sortMode, setSortMode] = useState<'bestmatch' | 'bysection' | 'byact'>('bestmatch')
   const [loading, setLoading] = useState(false)
-  const [autoLoading, setAutoLoading] = useState(false)
   const [selectedActs, setSelectedActs] = useState<Set<string>>(new Set())
   const [currentPage, setCurrentPage] = useState(0)
   const [typeFilter, setTypeFilter] = useState<string>('')
-  const debounceRef = useRef<ReturnType<typeof setTimeout>>()
   const inputRef = useRef<HTMLInputElement>(null)
-  const autoRef = useRef<HTMLDivElement>(null)
-
-  // Autocomplete
-  useEffect(() => {
-    const q = query.trim()
-    if (!q || q.length < 2) {
-      setAutoResults([])
-      return
-    }
-    setAutoLoading(true)
-    clearTimeout(debounceRef.current)
-    debounceRef.current = setTimeout(async () => {
-      try {
-        const data = await api.searchFlat(q, 8)
-        setAutoResults(data.results || data || [])
-      } catch {
-        setAutoResults([])
-      }
-      setAutoLoading(false)
-    }, 250)
-    return () => clearTimeout(debounceRef.current)
-  }, [query])
-
-  // Close autocomplete on click outside
-  useEffect(() => {
-    const handler = (e: MouseEvent) => {
-      if (autoRef.current && !autoRef.current.contains(e.target as Node))
-        setAutoResults([])
-    }
-    document.addEventListener('mousedown', handler)
-    return () => document.removeEventListener('mousedown', handler)
-  }, [])
 
   // Re-filter results when source selection changes
   useEffect(() => {
@@ -86,14 +51,15 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
     onResultsChange?.(results.length)
   }, [results.length, onResultsChange])
 
-  const doSearch = async (q?: string) => {
+  const doSearch = async (q?: string, filterOverride?: string) => {
     const term = (q || query).trim()
     if (!term) return
 
     setLoading(true)
     try {
+      const activeFilter = filterOverride !== undefined ? filterOverride : typeFilter
       if (sortMode === 'bestmatch') {
-        const data = await api.searchHybrid(term, typeFilter || undefined, 200)
+        const data = await api.searchHybrid(term, activeFilter || undefined, 200)
         const allResults: FlatResult[] = (data.results || data || []).map((r: any) => ({
           act: r.act || '',
           act_name: r.act_name || '',
@@ -138,7 +104,6 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
       }
     } catch { setResults([]) }
     setLoading(false)
-    setAutoResults([])
     setCurrentPage(0)
   }
 
@@ -151,7 +116,6 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const handleSelect = (r: FlatResult) => {
     setQuery('')
     setResults([])
-    setAutoResults([])
     if (r.section) {
       onNavigate(r.act, r.section)
     }
@@ -181,7 +145,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
     <div style={{ display: 'flex', flexDirection: 'column', gap: 8, width: '100%', position: 'relative' }}>
       {/* Search input row */}
       <div style={{ display: 'flex', gap: 6, alignItems: 'stretch' }}>
-        <div ref={autoRef} style={{ position: 'relative', flex: 1 }}>
+        <div style={{ position: 'relative', flex: 1 }}>
           <input
             ref={inputRef}
             value={query}
@@ -200,47 +164,6 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
               outline: 'none',
             }}
           />
-          {/* Autocomplete dropdown */}
-          {autoResults.length > 0 && (
-            <div style={{
-              position: 'absolute', top: '100%', left: 0, right: 0, zIndex: 300,
-              marginTop: 2, background: COLORS.surface,
-              border: `1px solid ${COLORS.border}`,
-              borderRadius: 6, maxHeight: 240, overflow: 'auto',
-              boxShadow: '0 8px 24px rgba(0,0,0,0.5)',
-            }}>
-              {autoResults.map((r, i) => (
-                <div
-                  key={`${r.act}-${r.section}-${i}`}
-                  onClick={() => { handleSelect(r); inputRef.current?.focus() }}
-                  style={{
-                    padding: '7px 10px', cursor: 'pointer', fontSize: 12,
-                    color: COLORS.text, borderBottom: `1px solid ${COLORS.border}`,
-                    fontFamily: "'Montserrat', sans-serif",
-                    display: 'flex', alignItems: 'center', gap: 6,
-                    minHeight: isMobile ? 40 : 0,
-                  }}
-                  onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
-                  onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
-                >
-                  <span style={{
-                    fontSize: 10, color: COLORS.accent, fontWeight: 600,
-                    whiteSpace: 'nowrap', flexShrink: 0,
-                  }}>
-                    {r.act === 'rulings' ? r.section : r.act.startsWith('master-') ? shortActName(r.act) : `${shortActName(r.act)} s${r.section}`}
-                  </span>
-                  <span style={{ color: COLORS.textMuted, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
-                    {r.title}
-                  </span>
-                </div>
-              ))}
-            </div>
-          )}
-          {autoLoading && (
-            <div style={{ position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)', color: COLORS.textMuted, fontSize: 10 }}>
-              ...
-            </div>
-          )}
         </div>
         <button
           onClick={() => doSearch()}
@@ -354,7 +277,7 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
             ].map(t => (
               <button
                 key={t.key}
-                onClick={() => { setTypeFilter(t.key); setCurrentPage(0) }}
+                onClick={() => { setTypeFilter(t.key); setCurrentPage(0); doSearch(undefined, t.key) }}
                 style={{
                   fontSize: 10, padding: '3px 8px', borderRadius: 4,
                   background: typeFilter === t.key ? COLORS.accent : COLORS.surface,

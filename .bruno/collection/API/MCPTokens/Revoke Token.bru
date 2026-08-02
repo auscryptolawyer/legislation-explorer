@@ -1,0 +1,10 @@
+meta {
+  name: Revoke MCP Token
+  type: http
+  seq: 4
+}
+post {
+  url: http://localhost:8765/api/mcp-tokens/{{tokenId}}/revoke
+  body: none
+  auth: none
+}

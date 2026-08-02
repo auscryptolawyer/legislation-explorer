@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAH  Judgment for payment of an unpaid amount
+
 
 <a id="s8AAH-1"></a>
 **(1)**  This section applies if judgment is given by, or entered in, a court for the payment of:
@@ -27,7 +29,8 @@ source_pdf: "vol01.pdf"
 **(2)**  The consequences of judgment being given or entered are:
 
 > <a id="s8AAH-2-a"></a>
-> **(a)**  the unpaid amount is not taken, for the purposes of a provision that makes, or would make, the person liable to pay the charge on the unpaid amount, to have ceased to be due and payable by reason only of the giving or entering of the judgment; and
+> **(a)**  the unpaid amount is not taken, for the purposes of a provision that makes, or would make, the person liable to pay the charge on the unpaid amount, to have ceased to be due and payable by reason only of the giving or entering of the judgment; and Authorised Version C2026C00170 registered 28/04/2026
+
 > <a id="s8AAH-2-b"></a>
 > **(b)**  if the judgment debt carries interest, the amount of the charge that the person would, if not for this paragraph, be liable to pay on the unpaid amount is reduced by:
 
@@ -35,8 +38,7 @@ source_pdf: "vol01.pdf"
 > > **(i)**  in a case to which paragraph (1)(a) applies—the amount of the interest; or
 
 > > <a id="s8AAH-2-b-ii"></a>
-> > **(ii)**  in a case to which paragraph (1)(b) applies—the amount worked out using the formula: Unpaid amount or part of unpaid amount ´ Interest Judgment debt
-matters
+> > **(ii)**  in a case to which paragraph (1)(b) applies—the amount worked out using the formula: Unpaid amount or part of unpaid amount ´ Interest Judgment debt Authorised Version C2026C00170 registered 28/04/2026 matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

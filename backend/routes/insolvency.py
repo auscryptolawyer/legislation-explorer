@@ -28,12 +28,30 @@ def list_insolvency_chapters():
 
 
 @router.get("/api/insolvency/chapter/{chapter}")
-def get_insolvency_chapter(chapter: int):
-    """Get full text of an insolvency textbook chapter by number."""
+def get_insolvency_chapter(chapter: int, offset: int = 0, limit: int = 5000):
+    """Get full text of an insolvency textbook chapter by number.
+
+    Supports pagination via offset (line offset) and limit (max lines).
+    Returns total_lines and returned_lines metadata for client-side pagination.
+    """
     result = get_chapter(chapter)
     if result is None:
         raise HTTPException(status_code=404, detail=f"Chapter {chapter} not found")
-    return result
+    content = result["content"]
+    lines = content.splitlines()
+    total_lines = len(lines)
+    end = offset + limit
+    selected = lines[offset:end]
+    return {
+        "chapter": chapter,
+        "title": result.get("title", ""),
+        "slug": result.get("slug", ""),
+        "content": "\n".join(selected),
+        "offset": offset,
+        "limit": limit,
+        "total_lines": total_lines,
+        "returned_lines": len(selected),
+    }
 
 
 @router.get("/api/insolvency/search")

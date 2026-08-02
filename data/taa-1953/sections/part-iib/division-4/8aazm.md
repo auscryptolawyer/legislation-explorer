@@ -12,6 +12,7 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZM  When payments are treated as received
 
 For the purposes of taxation laws, a payment in respect of a tax debt is taken not to have been made until it is received by:

@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZL  Amounts covered by this Division
+
 
 <a id="s8AAZL-1"></a>
 **(1)**  This Division sets out how the Commissioner must treat the following kinds of amount:
@@ -50,8 +52,7 @@ source_pdf: "vol01.pdf"
 > **(a)**  doing so would require the Commissioner to apply the amount against a tax debt; and
 
 > <a id="s8AAZL-4-b"></a>
-> **(b)**  the tax debt is a penalty that is due and payable under section 269-20 in Schedule 1 (penalties for directors of non-complying companies).
-Running balance accounts, application of payments and credits, and related matters Part IIB Treatment of payments, credits and RBA surpluses Division 3 Section 8AAZLA
+> **(b)**  the tax debt is a penalty that is due and payable under section 269-20 in Schedule 1 (penalties for directors of non-complying companies). Authorised Version C2026C00170 registered 28/04/2026 Running balance accounts, application of payments and credits, and related matters Part IIB Treatment of payments, credits and RBA surpluses Division 3 Section 8AAZLA
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

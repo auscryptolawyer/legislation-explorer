@@ -12,6 +12,7 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZVC  Objections relating to non-concessional contributions
 
 Taxation decisions to which section applies
@@ -41,7 +42,8 @@ Taxation decisions to which section applies
 **(2)**  If:
 
 > <a id="s14ZVC-2-a"></a>
-> **(a)**  a person makes a taxation objection at a particular time, on a particular ground, against a taxation decision to which this section applies; and
+> **(a)**  a person makes a taxation objection at a particular time, on a particular ground, against a taxation decision to which this section applies; and Authorised Version C2026C00170 registered 28/04/2026
+
 > <a id="s14ZVC-2-b"></a>
 > **(b)**  at that time, the person also objects, or could also object, on that ground, against another taxation decision to which this section applies; then, for the purposes of this Part, those taxation decisions are taken to be a single taxation decision. Limited objection rights because of earlier objection
 

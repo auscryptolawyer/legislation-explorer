@@ -4,6 +4,7 @@ Mount via streamable_http_app() on the main FastAPI app.
 """
 from __future__ import annotations
 
+import functools
 import hashlib
 import json
 import logging
@@ -34,7 +35,7 @@ from backend.services.case_db_service import (
     get_case_metadata,
     get_case_references,
 )
-from backend.services.tax_case_sql import _sql_dict, _sql_write_params
+from backend.services.tax_case_sql import _sql, _sql_dict, _sql_write_params
 
 logger = logging.getLogger(__name__)
 
@@ -168,10 +169,15 @@ class MCPAuthMiddleware(BaseHTTPMiddleware):
                             headers={"WWW-Authenticate": "Bearer"})
 
         if not token_manager.validate_token(token):
-            # Fallback: try OAuth access token
-            oauth_data = oauth_provider.load_access_token(token)
-            if not oauth_data:
-                return Response("Invalid or revoked token", status_code=403)
+            # Fallback: try static MCP_AUTH_TOKEN from env
+            mcp_auth_token = os.environ.get("MCP_AUTH_TOKEN", "") or os.environ.get("LEGISLATION_BEARER_TOKEN", "")
+            if mcp_auth_token and token == mcp_auth_token:
+                pass  # valid
+            else:
+                # Fallback: try OAuth access token
+                oauth_data = oauth_provider.load_access_token(token)
+                if not oauth_data:
+                    return Response("Invalid or revoked token", status_code=403)
 
         allowed, reason = token_manager.check_rate_limit(token)
         if not allowed:
@@ -204,8 +210,260 @@ async def search_legislation(
     }, indent=2)
 
 
+_ALIAS_PATTERNS: list[tuple[_re.Pattern, str, str | None, str, str | None, str | None]] = [
+    # (compiled_regex, act_id, resolved_ref, display_act, description, url_suffix)
+    # Order matters: more specific patterns first.
+
+    # --- ITAA 1936 well-known aliases ---
+    (
+        _re.compile(r'^(?:s(?:ec(?:tion)?)?\.?\s*)?(?:div(?:ision)?\.?\s*)?7[AEae](?:\s|$)', _re.IGNORECASE),
+        "itaa-1936",
+        "Division 7A",
+        "ITAA 1936",
+        "Division 7A — Private company dividends (ss 109Y–109ZQ)",
+        "itaa-1936#Division_7A",
+    ),
+    (
+        _re.compile(r'^(?:s(?:ec(?:tion)?)?\.?\s*)?100[AEae](?:\s|$)', _re.IGNORECASE),
+        "itaa-1936",
+        "100A",
+        "ITAA 1936",
+        "s 100A — Reimbursement agreements",
+        "itaa-1936#100A",
+    ),
+    (
+        _re.compile(r'^(?:s(?:ec(?:tion)?)?\.?\s*)?Part IV[AEae](?:\s|$)', _re.IGNORECASE),
+        "itaa-1936",
+        "Part IVA",
+        "ITAA 1936",
+        "Part IVA — General anti-avoidance rules (ss 177A–177P)",
+        "itaa-1936#Part_IVA",
+    ),
+    (
+        _re.compile(r'^(?:s(?:ec(?:tion)?)?\.?\s*)?109[YZ](?:\s|$)', _re.IGNORECASE),
+        "itaa-1936",
+        None,  # will resolve specific section via exact match fallback
+        "ITAA 1936",
+        None,
+        None,
+    ),
+    # --- ITAA 1997 well-known aliases ---
+    (
+        _re.compile(r'^(?:s(?:ec(?:tion)?)?\.?\s*)?(?:Subdiv(?:ision)?\.?\s*)?115-C(?:\s|$)', _re.IGNORECASE),
+        "itaa-1997",
+        "Subdivision 115-C",
+        "ITAA 1997",
+        "Subdivision 115-C — Net capital gain (ss 115-215 to 115-228)",
+        "itaa-1997#Subdivision_115-C",
+    ),
+    (
+        _re.compile(r'^(?:s(?:ec(?:tion)?)?\.?\s*)?(?:Div(?:ision)?\.?\s*)?152(?:\s|$)', _re.IGNORECASE),
+        "itaa-1997",
+        "Division 152",
+        "ITAA 1997",
+        "Division 152 — Small business relief (ss 152-1 to 152-430)",
+        "itaa-1997#Division_152",
+    ),
+]
+
+
+# ── Hyphenated section routing helpers ─────────────────────────────
+
+@functools.lru_cache(maxsize=8)
+def _get_act_section_ids(act: str) -> set[str]:
+    """Return a set of all section IDs in an act (e.g., {'8-1', '115-215'})."""
+    from backend.services.data_loader import load_tree
+    try:
+        tree = load_tree(act)
+    except Exception:
+        return set()
+    ids: set[str] = set()
+    for part in tree.get("parts", []):
+        for sec in part.get("sections", []):
+            ids.add(sec.get("id", ""))
+        for div in part.get("divisions", []):
+            for sec in div.get("sections", []):
+                ids.add(sec.get("id", ""))
+            for sub in div.get("subdivisions", []):
+                for sec in sub.get("sections", []):
+                    ids.add(sec.get("id", ""))
+    return ids
+
+
+def _resolve_hyphenated_act(bare: str) -> str:
+    """Probe candidate acts to find which one contains the given hyphenated section.
+    Prefers non-ITAA1997 acts when a section exists in multiple (e.g. 195-1 is in
+    both itaa-1997 and gst-1999 — the GST Act is the correct one)."""
+    candidates = ["gst-1999", "taa-1953", "itaa-1997"]
+    found = [act for act in candidates if bare in _get_act_section_ids(act)]
+    if not found:
+        return "itaa-1997"  # fallback
+    # If found in only one act, use it
+    if len(found) == 1:
+        return found[0]
+    # If found in multiple, prefer the first non-itaa-1997 hit
+    for act in found:
+        if act != "itaa-1997":
+            return act
+    return "itaa-1997"
+
+
 @mcp.tool()
-async def get_section(act: str, section: str) -> str:
+async def resolve_alias(reference: str) -> str:
+    """Resolve a section alias or short-hand reference to its act and section number.
+
+    Handles common shorthand: 's 100A', 'Div 7A', 'Part IVA', 'Subdiv 115-C',
+    '109Y', '8-1', 'Div 152', etc.
+
+    Rules:
+    - Div 7A          → ITAA 1936, Division 7A (ss 109Y-109ZQ)
+    - s 100A          → ITAA 1936, s 100A
+    - Part IVA        → ITAA 1936, Part IVA (ss 177A-177P)
+    - Subdiv 115-C    → ITAA 1997, Subdivision 115-C (ss 115-215 to 115-228)
+    - Simple section numbers like 109Y → ITAA 1936, s 109Y
+    - Section-number-shaped like 8-1   → ITAA 1997, s 8-1
+    - Div 152         → ITAA 1997, Division 152
+
+    Falls back to search_legislation when no rule matches.
+    """
+    ref = reference.strip()
+    if not ref:
+        return json.dumps({"error": "Empty reference provided."})
+
+    # -- Step 1: Check well-known patterns --
+    for pattern, act, resolved_ref, display_act, description, url_suffix in _ALIAS_PATTERNS:
+        if pattern.match(ref):
+            if resolved_ref is None and description is None:
+                # Partial match that needs fallback but act is known
+                # e.g. 109* — resolve via search
+                break
+            return json.dumps({
+                "reference": ref,
+                "act": act,
+                "act_display": display_act,
+                "section": resolved_ref,
+                "description": description,
+                "url": f"https://legislation.scriptkitty.yachts/{url_suffix}" if url_suffix else None,
+                "resolved_by": "exact_rule",
+            }, indent=2)
+
+    # -- Step 2: Try regex-based routing for common patterns not in the well-known list --
+
+    # 'Div X' or 'Division X' → ITAA 1997 (by default, but could be either)
+    m = _re.match(r'^(?:div(?:ision)?\.?\s*)(\S+)$', ref, _re.IGNORECASE)
+    if m:
+        div = m.group(1)
+        return json.dumps({
+            "reference": ref,
+            "act": "itaa-1997",
+            "act_display": "ITAA 1997",
+            "section": f"Division {div}",
+            "description": f"Division {div} — resolved from bare division reference (defaulting to ITAA 1997)",
+            "url": f"https://legislation.scriptkitty.yachts/itaa-1997#Division_{div}",
+            "resolved_by": "division_pattern",
+            "note": "Division references are assumed ITAA 1997 by default. If you need ITAA 1936, use 's 109Y' format instead.",
+        }, indent=2)
+
+    # 'Part X' or 'Part X-Y' → ITAA 1936
+    m = _re.match(r'^(?:Part\s+)([A-Za-z0-9]+(?:[-][A-Za-z0-9]+)?)$', ref, _re.IGNORECASE)
+    if m:
+        part = m.group(1)
+        act_id = "itaa-1936"
+        act_display = "ITAA 1936"
+        # If it has a hyphen (e.g. "Part 3-1"), it's ITAA 1997
+        if '-' in part:
+            act_id = "itaa-1997"
+            act_display = "ITAA 1997"
+        return json.dumps({
+            "reference": ref,
+            "act": act_id,
+            "act_display": act_display,
+            "section": f"Part {part}",
+            "description": f"Part {part} — resolved from bare Part reference",
+            "url": f"https://legislation.scriptkitty.yachts/{act_id}#Part_{part}",
+            "resolved_by": "part_pattern",
+        }, indent=2)
+
+    # 'Subdiv X' or 'Subdivision X' → ITAA 1997
+    m = _re.match(r'^(?:subdiv(?:ision)?\.?\s+)(\S+)$', ref, _re.IGNORECASE)
+    if m:
+        subdiv = m.group(1)
+        return json.dumps({
+            "reference": ref,
+            "act": "itaa-1997",
+            "act_display": "ITAA 1997",
+            "section": f"Subdivision {subdiv}",
+            "description": f"Subdivision {subdiv} — resolved from bare subdivision reference",
+            "url": f"https://legislation.scriptkitty.yachts/itaa-1997#Subdivision_{subdiv}",
+            "resolved_by": "subdivision_pattern",
+        }, indent=2)
+
+    # Strip leading 's', 'sec', 'section' prefix
+    bare = _re.sub(r'^(?:s(?:ec(?:tion)?)?\.?\s+)', '', ref, flags=_re.IGNORECASE).strip()
+
+# Section-number-shaped with hyphen → probe across candidate acts
+    if _re.match(r'^\d+[-]\d+[A-Za-z0-9]*$', bare):
+        act_id = _resolve_hyphenated_act(bare)
+        act_display = {
+            "itaa-1997": "ITAA 1997", "gst-1999": "GST Act", "taa-1953": "TAA 1953"
+        }.get(act_id, "ITAA 1997")
+        return json.dumps({
+            "reference": ref,
+            "act": act_id,
+            "act_display": act_display,
+            "section": bare,
+            "description": f"s {bare} — hyphenated section number routed to {act_display}",
+            "url": f"https://legislation.scriptkitty.yachts/get_section?act={act_id}&section={bare}",
+            "resolved_by": "hyphenated_section_pattern",
+        }, indent=2)
+
+    # Unhyphenated alphanumeric section → ITAA 1936 style (e.g. '109Y', '100A', '23AH')
+    if _re.match(r'^[A-Za-z0-9]+$', bare):
+        return json.dumps({
+            "reference": ref,
+            "act": "itaa-1936",
+            "act_display": "ITAA 1936",
+            "section": bare,
+            "description": f"s {bare} — unhyphenated section routed to ITAA 1936",
+            "url": f"https://legislation.scriptkitty.yachts/get_section?act=itaa-1936&section={bare}",
+            "resolved_by": "unhyphenated_section_pattern",
+        }, indent=2)
+
+    # -- Step 3: Fallback to full-text search --
+    try:
+        result = fts_search(ref, None, limit=5)
+        hits = result.get("results", [])
+        if hits:
+            best = hits[0]
+            return json.dumps({
+                "reference": ref,
+                "act": best.get("act", ""),
+                "act_display": best.get("act", ""),
+                "section": best.get("section", ""),
+                "description": best.get("title", ""),
+                "url": f"https://legislation.scriptkitty.yachts/get_section?act={best.get('act', '')}&section={best.get('section', '')}",
+                "resolved_by": "search_fallback",
+                "search_results": [
+                    {
+                        "act": h.get("act", ""),
+                        "section": h.get("section", ""),
+                        "title": h.get("title", ""),
+                    }
+                    for h in hits[:3]
+                ],
+            }, indent=2)
+    except Exception:
+        pass
+
+    return json.dumps({
+        "reference": ref,
+        "error": f"Could not resolve reference '{ref}'. Try search_legislation or a more specific format.",
+    }, indent=2)
+
+
+@mcp.tool()
+async def get_section(act: str, section: str, max_body_length: int = 50000,
+                      include_commentary: bool = False) -> str:
     """Retrieve full text of a legislation section with related cases, rulings, and commentary.
 
     Leading s/sec/section is stripped automatically. Uses hyphenated format
@@ -213,6 +471,13 @@ async def get_section(act: str, section: str) -> str:
 
     If the exact section is not found, falls back to search and returns
     "did you mean?" suggestions with the top 3 matching results.
+
+    Parameters:
+    - act: Act ID (e.g. itaa-1997, gst-1999, taa-1953)
+    - section: Section number (e.g. 8-1, 23AH, 995-1)
+    - max_body_length: Maximum number of characters for the body text (default 50000)
+    - include_commentary: Whether to include full commentary text (default False).
+      When False, commentary returns a 500-char snippet + locator.
     """
     section = _re.sub(r'^(?:s(?:ec(?:tion)?)?\.?)\s+', '', section.strip(),
                       flags=_re.IGNORECASE).strip()
@@ -301,6 +566,23 @@ async def get_section(act: str, section: str) -> str:
     body_stripped = body_clean.strip()
     truncated = bool(body_stripped) and not _re.search(r'[.\\)"\'!?]\s*$', body_stripped)
 
+    # Apply max_body_length cap
+    body_out = body_stripped
+    body_truncated_flag = bool(body_stripped) and len(body_stripped) > max_body_length
+    if body_truncated_flag:
+        body_out = body_stripped[:max_body_length]
+
+    # Special handling for definition sections (s 995-1 in ITAA 1997)
+    section_995_note = ""
+    if act == "itaa-1997" and section == "995-1":
+        section_995_note = (
+            "This is the definitions section (995-1). It contains all defined terms "
+            "for the ITAA 1997. The full text may be very large. Use get_definition tool "
+            "(act='itaa-1997', term='TERM') to look up a specific definition."
+        )
+        # Truncate to a concise preview
+        body_out = body_out[:10000]
+
     # Fetch related content (top 10 each)
     try:
         related_cases = get_cases_for_section(act, section, limit=10)
@@ -311,27 +593,60 @@ async def get_section(act: str, section: str) -> str:
     except Exception:
         related_rulings = []
     try:
-        related_commentary = get_commentary_for_section(act, section, limit=10)
+        related_commentary_raw = get_commentary_for_section(act, section, limit=10)
     except Exception:
-        related_commentary = []
+        related_commentary_raw = []
+
+    # When include_commentary is False, return a 500-char snippet + locator
+    # instead of the full text-heavy entries
+    related_commentary = []
+    for entry in related_commentary_raw:
+        if entry.get("content_blocks"):
+            snippet_parts = []
+            for cb in entry["content_blocks"]:
+                text = cb.get("content", cb.get("text", ""))
+                if text:
+                    snippet_parts.append(text[:500])
+                    if sum(len(s) for s in snippet_parts) > 500:
+                        break
+            snippet = " ".join(snippet_parts)[:500]
+        else:
+            snippet = ""
+        commentary_entry = {
+            "publication": entry.get("publication", ""),
+            "chapter_number": entry.get("chapter_number"),
+            "chapter_title": entry.get("chapter_title", ""),
+            "heading_title": entry.get("heading_title", ""),
+            "paragraph_number": entry.get("paragraph_number"),
+            "snippet": snippet,
+        }
+        if include_commentary:
+            commentary_entry["content_blocks"] = entry.get("content_blocks", [])
+            commentary_entry["sub_headings"] = entry.get("sub_headings", [])
+        related_commentary.append(commentary_entry)
+
     try:
         smartlinks = get_smartlinks_for_item("section", f"{act}#{section}")
         related_sections = [s for s in smartlinks if s.get("type") == "section"][:10]
     except Exception:
         related_sections = []
 
-    return json.dumps({
+    payload = {
         "act": act,
         "section": section,
-        "body": body,
-        "truncated": truncated,
+        "body": body_out,
+        "truncated": truncated or body_truncated_flag,
+        "body_truncated_to": max_body_length,
         "related": {
             "cases": related_cases,
             "rulings": related_rulings,
             "commentary": related_commentary,
             "sections": related_sections,
         },
-    }, indent=2)
+    }
+    if section_995_note:
+        payload["note"] = section_995_note
+    return json.dumps(payload, indent=2)
 
 
 @mcp.tool()
@@ -625,6 +940,30 @@ async def search_cases(query: str, limit: int = 20) -> str:
         except Exception:
             pass
 
+    # Rank results: exact/substring case_name+citation matches first
+    def _relevance_score(item: dict) -> int:
+        """Score 0-3: higher = better match.
+        3 = exact case_name or citation match
+        2 = all query words appear in case_name
+        1 = some query words appear in citation
+        0 = general content match only
+        """
+        name = (item.get("case_name") or "").lower()
+        cit = (item.get("citation") or "").lower()
+        q_lower = query.lower()
+        # Exact match
+        if name == q_lower or cit == q_lower:
+            return 3
+        # All words in case_name (phrase-like match)
+        if all(w in name for w in words):
+            return 2
+        # Some words in citation
+        if any(w in cit for w in words):
+            return 1
+        return 0
+
+    results.sort(key=_relevance_score, reverse=True)
+
     return json.dumps({
         "total": len(results),
         "results": results[:limit],
@@ -654,19 +993,40 @@ async def insolvency_search(query: str, limit: int = 20) -> str:
 
 
 @mcp.tool()
-async def insolvency_get_chapter(chapter: int) -> str:
+async def insolvency_get_chapter(chapter: int, offset: int = 0,
+                                  limit: int = 5000) -> str:
     """Retrieve the full text of a chapter from the Keays Insolvency textbook.
 
     Parameters:
     - chapter: Chapter number (1–21)
+    - offset: Line offset to start from (default 0)
+    - limit: Maximum number of lines to return (default 5000, max 50000)
 
-    Returns the complete chapter text including section markers like [1.05].
+    Returns paginated chapter text including section markers like [1.05].
+    Use offset and limit to paginate through long chapters; check
+    total_lines in the response to determine if more pages remain.
     """
     from backend.services.search_service import get_insolvency_chapter as _get
     result = _get(chapter)
     if result is None:
         return json.dumps({"error": f"Chapter {chapter} not found"})
-    return result["content"]
+    content = result["content"]
+    lines = content.splitlines()
+    total_lines = len(lines)
+    offset = max(0, offset)
+    limit = min(50000, max(1, limit))
+    end = offset + limit
+    selected = lines[offset:end]
+    return json.dumps({
+        "chapter": chapter,
+        "title": result.get("title", ""),
+        "slug": result.get("slug", ""),
+        "content": "\n".join(selected),
+        "offset": offset,
+        "limit": limit,
+        "total_lines": total_lines,
+        "returned_lines": len(selected),
+    }, indent=2)
 
 
 @mcp.tool()
@@ -801,7 +1161,7 @@ async def standards(topic: str | None = None) -> str:
         parts = content.split("---", 2)
         if len(parts) >= 3:
             import re
-            m = re.search(r'last_reviewed:\s*(\S+)', parts[1])
+            m = _re.search(r'last_reviewed:\s*(\S+)', parts[1])
             if m:
                 last_reviewed = m.group(1)
             body = parts[2].strip()
@@ -812,6 +1172,72 @@ async def standards(topic: str | None = None) -> str:
         "content": body,
     }, indent=2)
 
+
+# ---------------------------------------------------------------------------
+# Helper: clean legislation_referenced entries — filter sentence fragments,
+# deduplicate by (act, section).
+# ---------------------------------------------------------------------------
+_KNOWN_ACT_RE = _re.compile(
+    r"^(Income Tax Assessment Act \d{4}|Fringe Benefits Tax(?: Assessment)? Act \d{4}|"
+    r"A New Tax System \(Goods and Services Tax\) Act \d{4}|Taxation Administration Act \d{4}|"
+    r"Tax Agent Services Act \d{4}|Corporations Act \d{4}|"
+    r"Superannuation Industry \(Supervision\) Act \d{4}|"
+    r"Superannuation Guarantee \(Administration\) Act \d{4}|"
+    r"Family Law Act \d{4}|Social Security Act \d{4}|"
+    r"ITAA\s+\d{4}|TAA\s+\d{4})"
+    r"(?:\s+\(Cth\))?"
+    r"(?:\s+s(?:s|ection)?\.?\s+(\S+))?$",
+    _re.IGNORECASE,
+)
+
+
+def _clean_legislation_referenced(items: list[str]) -> list[str]:
+    """Filter legislation_referenced to only valid known act entries, dedup by (act, section)."""
+    seen: set[tuple[str, str]] = set()
+    out: list[str] = []
+    for item in items:
+        if not item or not isinstance(item, str):
+            continue
+        m = _KNOWN_ACT_RE.match(item.strip())
+        if not m:
+            continue
+        act_part = m.group(1).strip()
+        section_part = (m.group(2) or "").strip().lower()
+        key = (act_part.lower(), section_part)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(item.strip())
+    return out
+
+
+_PREFIX_TYPE_MAP = {
+    "TR": "Taxation Ruling",
+    "TD": "Taxation Determination",
+    "IT": "Taxation Ruling",
+    "CR": "Class Ruling",
+    "GSTR": "Goods and Services Tax Ruling",
+    "LCG": "Law Companion Ruling",
+    "PCG": "Practical Compliance Guideline",
+    "MT": "Miscellaneous Taxation Ruling",
+    "PR": "Product Ruling",
+    "PS": "Practice Statement Law Administration",
+    "PSLA": "Practice Statement Law Administration",
+    "SGR": "Superannuation Guarantee Ruling",
+    "TA": "Taxpayer Alert",
+    "AID": "ATO Interpretative Decision",
+}
+
+def _ruling_type_from_citation(citation: str) -> str:
+    """Derive the canonical ruling type from the citation prefix.
+
+    E.g. 'TR 2024/1' → 'Taxation Ruling', 'PCG 2017/13' → 'Practical Compliance Guideline'.
+    Falls back to an empty string if the prefix is unknown.
+    """
+    m = _re.match(r'^([A-Za-z]+)', citation.strip())
+    if m:
+        return _PREFIX_TYPE_MAP.get(m.group(1).upper(), "")
+    return ""
 
 @mcp.tool()
 async def get_ruling(citation: str) -> str:
@@ -825,6 +1251,17 @@ async def get_ruling(citation: str) -> str:
     When a direct match fails, falls back to search and returns
     "did you mean?" suggestions with the top 3 matching rulings.
     """
+    # Expand 2-digit years in citations (e.g. TR 23/1 -> TR 2023/1)
+    _yr2_m = _re.match(r'^([A-Z]+) (\d{2})/(\d+)', citation.strip())
+    if _yr2_m:
+        yr2 = int(_yr2_m.group(2))
+        if 92 <= yr2 <= 99:
+            citation = f"{_yr2_m.group(1)} 19{yr2}/{_yr2_m.group(3)}"
+            citation = _re.sub(r'\s+', ' ', citation)
+        elif 0 <= yr2 <= 25:
+            citation = f"{_yr2_m.group(1)} 20{yr2:02d}/{_yr2_m.group(3)}"
+            citation = _re.sub(r'\s+', ' ', citation)
+
     CITATION_ALIASES = {"LCR": "LCG"}
     normalized = _re.sub(r'[\s/]+', '_', citation).strip('_')
     candidates = {normalized}
@@ -839,6 +1276,9 @@ async def get_ruling(citation: str) -> str:
         if summary_path.exists():
             try:
                 summary = json.loads(summary_path.read_text(encoding="utf-8"))
+                # Clean legislation_referenced: filter sentence fragments, dedup by (act, section)
+                leg_raw = summary.get("legislation_referenced", [])
+                leg_clean = _clean_legislation_referenced(leg_raw)
                 # For ATO IDs, return full structured data with full_text
                 if summary.get("type") == "ATO Interpretative Decision" or summary.get("full_text"):
                     return json.dumps({
@@ -851,7 +1291,7 @@ async def get_ruling(citation: str) -> str:
                         "notice": summary.get("notice", ""),
                         "body": summary.get("body", ""),
                         "cases_referenced": summary.get("cases_referenced", []),
-                        "legislation_referenced": summary.get("legislation_referenced", []),
+                        "legislation_referenced": leg_clean,
                         "full_text": summary.get("full_text", ""),
                         "source": "summary",
                     }, indent=2)
@@ -859,14 +1299,14 @@ async def get_ruling(citation: str) -> str:
                 return json.dumps({
                     "citation": summary.get("citation", ref),
                     "title": summary.get("title", ""),
-                    "type": summary.get("type", ""),
+                    "type": _ruling_type_from_citation(ref) or summary.get("type", ""),
                     "status": summary.get("status", ""),
                     "subject": summary.get("subject", ""),
                     "background": summary.get("background", ""),
                     "ruling": summary.get("ruling", ""),
                     "date_of_effect": summary.get("date_of_effect", ""),
                     "cases_referenced": summary.get("cases_referenced", []),
-                    "legislation_referenced": summary.get("legislation_referenced", []),
+                    "legislation_referenced": leg_clean,
                     "related_rulings": summary.get("related_rulings", []),
                     "source": "summary",
                 }, indent=2)
@@ -1233,10 +1673,9 @@ async def report_issue(
     Returns:
         JSON with ticket, status, and duplicate_of keys.
     """
-    # ── compute param_hash ────────────────────────────────────────────────
+    # ── compute param_hash (includes note to avoid hash collision) ────────
     raw_hash = ""
     if tool:
-        # Normalize params to canonical JSON for hashing
         if isinstance(params, dict):
             canonical_params = json.dumps(params, sort_keys=True, ensure_ascii=True, default=str)
         elif isinstance(params, str):
@@ -1247,7 +1686,7 @@ async def report_issue(
                 canonical_params = params
         else:
             canonical_params = "null"
-        raw_hash = tool + canonical_params
+        raw_hash = tool + canonical_params + (note or "")
     elif note:
         raw_hash = note
     else:
@@ -1273,42 +1712,80 @@ async def report_issue(
             "duplicate_of": existing["ticket"],
         })
 
-    # ── compute next ticket number ─────────────────────────────────────────
-    max_id_rows = _sql_dict(["next_id"], "SELECT COALESCE(MAX(id), 0) + 1 AS next_id FROM issues")
-    next_id = max_id_rows[0]["next_id"] if max_id_rows else 1
-    ticket = f"CDN-{next_id:04d}"
-
-    # ── parameterized INSERT — no SQL string concatenation ─────────────────
+    # ── compute next ticket number (insert-first via docker exec, then derive from id) ─────
+    import uuid
+    placeholder = f"PH_{uuid.uuid4().hex[:12]}"
     params_val = json.dumps(params, default=str) if isinstance(params, (dict, list)) else params
 
-    _sql_write_params(
-        "INSERT INTO issues "
-        "(ticket, category, tool, params, param_hash, expected, actual, note, "
-        " server_ver, compilation, created, status, known_note, hits, fixed) "
-        "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, NOW(), %s, %s, %s, %s)",
-        (
-            ticket,
-            category,
-            tool,
-            params_val,
-            param_hash,
-            expected,
-            actual,
-            note,
-            VERSION,
-            None,
-            "open",
-            None,
-            1,
-            None,
-        ),
+    # Escape values for safe SQL interpolation (docker exec psql, not psycopg2)
+    def _sqlesc(v):
+        if v is None: return "NULL"
+        return "'" + str(v).replace("'", "''") + "'"
+
+    insert_sql = (
+        "INSERT INTO issues (ticket, category, tool, params, param_hash, expected, actual, note, "
+        "server_ver, compilation, created, status, known_note, hits, fixed) VALUES ("
+        f"{_sqlesc(placeholder)}, {_sqlesc(category)}, {_sqlesc(tool)}, {_sqlesc(params_val)}, "
+        f"{_sqlesc(param_hash)}, {_sqlesc(expected)}, {_sqlesc(actual)}, {_sqlesc(note)}, "
+        f"{_sqlesc(VERSION)}, NULL, NOW(), 'open', NULL, 1, NULL)"
     )
+    _sql(insert_sql)
+
+    id_rows = _sql_dict(["new_id"], "SELECT MAX(id) AS new_id FROM issues")
+    if not id_rows or not id_rows[0].get("new_id"):
+        return json.dumps({"error": "Failed to create issue ticket"})
+    new_id = id_rows[0]["new_id"]
+    ticket = f"CDN-{new_id:04d}"
+    _sql(f"UPDATE issues SET ticket = {_sqlesc(ticket)} WHERE id = {new_id}")
+    _sql(f"DELETE FROM issues WHERE ticket = {_sqlesc(placeholder)}")
 
     return json.dumps({
         "ticket": ticket,
         "status": "open",
         "duplicate_of": None,
     })
+
+
+@mcp.tool()
+async def list_issues(
+    status: str | None = None,
+    tool: str | None = None,
+    limit: int = 50,
+) -> str:
+    """List reported issues with their current status and patch notes.
+
+    Args:
+        status: Filter by status (open, known, fixed, resolved). Omit for all.
+        tool: Filter by tool name (e.g. 'get_section', 'get_case'). Omit for all.
+        limit: Max results to return (default 50, max 200).
+
+    Returns:
+        JSON array of issues with ticket, category, tool, status, hits,
+        fixed (patch note), and note fields.
+    """
+    where_parts = []
+    if status:
+        where_parts.append(f"status = '{status.replace(chr(39), chr(39)+chr(39))}'")
+    if tool:
+        where_parts.append(f"tool = '{tool.replace(chr(39), chr(39)+chr(39))}'")
+    where = "WHERE " + " AND ".join(where_parts) if where_parts else ""
+
+    rows = _sql_dict(
+        ["ticket", "category", "tool", "status", "hits",
+         "fixed", "note", "created"],
+        f"SELECT ticket, category, tool, status, hits, "
+        f"fixed, LEFT(COALESCE(note, ''), 200)::text, created "
+        f"FROM issues {where} ORDER BY id DESC LIMIT {min(max(1, limit), 200)}",
+    )
+
+    return json.dumps({
+        "issues": rows,
+        "total": len(rows),
+        "filters_applied": {
+            "status": status,
+            "tool": tool,
+        },
+    }, indent=2)
 
 
 

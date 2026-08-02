@@ -1,0 +1,16 @@
+{
+  "version": "1",
+  "name": "Legislation Explorer",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ],
+  "scripts": {
+    "post-request": ""
+  },
+  "presets": {
+    "requestType": "http",
+    "requestUrl": "https://legislation.scriptkitty.yachts"
+  }
+}

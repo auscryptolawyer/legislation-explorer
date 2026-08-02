@@ -12,6 +12,7 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZY  Victimisation prohibited
 
 Actually causing detriment to another person
@@ -29,8 +30,7 @@ Actually causing detriment to another person
 > **(c)**  when the first person engages in the conduct, the first person believes or suspects that the second person or any other person made, may have made, proposes to make or could make a disclosure that qualifies for protection under this Part; and
 
 > <a id="s14ZZY-1-d"></a>
-> **(d)**  the belief or suspicion referred to in paragraph (c) is the reason, or part of the reason, for the conduct. Penalty: Imprisonment for 2 years or 240 penalty units, or both.
-Threatening to cause detriment to another person
+> **(d)**  the belief or suspicion referred to in paragraph (c) is the reason, or part of the reason, for the conduct. Penalty: Imprisonment for 2 years or 240 penalty units, or both. Authorised Version C2026C00170 registered 28/04/2026 Threatening to cause detriment to another person
 
 <a id="s14ZZY-2"></a>
 **(2)**  A person (the first person) commits an offence if:

@@ -18,9 +18,9 @@ INPUT_DIR = Path("/home/harrison/projects/cadena-knowledge-MCP/pipeline/output")
 OUTPUT_BASE = Path.home() / "legislation-explorer" / "data"
 
 PUBS = {
-    "master_tax_guide.json":   {"id": "master-tax-guide",   "name": "Australian Master Tax Guide", "ch_label": "Ch"},
-    "master_gst_guide.json":   {"id": "master-gst-guide",   "name": "Australian Master GST Guide", "ch_label": "Ch"},
-    "master_tax_examples.json":{"id": "master-tax-examples","name": "Australian Master Tax Examples", "ch_label": "Topic"},
+    "master_tax_guide.json":    {"id": "master-tax-guide",   "name": "Australian Master Tax Guide", "ch_label": "Ch", "compilation_no": "1", "compilation_date": "2026-04-01"},
+    "master_gst_guide.json":    {"id": "master-gst-guide",   "name": "Australian Master GST Guide", "ch_label": "Ch", "compilation_no": "1", "compilation_date": "2026-04-01"},
+    "master_tax_examples.json": {"id": "master-tax-examples","name": "Australian Master Tax Examples", "ch_label": "Topic", "compilation_no": "2", "compilation_date": "2026-04-01"},
 }
 
 
@@ -99,7 +99,12 @@ def build_pub(json_file: str, meta: dict):
     sections_dir.mkdir(parents=True, exist_ok=True)
 
     data = json.loads((INPUT_DIR / json_file).read_text(encoding="utf-8"))
-    tree = {"act": pub_name, "parts": []}
+    tree = {
+        "act": pub_name,
+        "compilation_no": meta.get("compilation_no", ""),
+        "compilation_date": meta.get("compilation_date", ""),
+        "parts": [],
+    }
     section_index = []
 
     for ch in data.get("chapters", []):

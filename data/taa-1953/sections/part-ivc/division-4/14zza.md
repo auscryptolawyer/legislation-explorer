@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZA  ART Act applies subject to this Division
+
 
 <a id="s14ZZA-1"></a>
 **(1)**  The ART Act applies in relation to:

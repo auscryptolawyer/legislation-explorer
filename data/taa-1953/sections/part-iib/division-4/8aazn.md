@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZN  Overpayments made by the Commissioner under taxation laws
+
 
 <a id="s8AAZN-1"></a>
 **(1)**  An administrative overpayment (the overpaid amount):
@@ -48,6 +50,7 @@ source_pdf: "vol01.pdf"
 > > **(ii)**  general interest charge on any of the overpaid amount.
 
 <a id="s8AAZN-3"></a>
-**(3)**  In this section: administrative overpayment means an amount that the Commissioner has paid to a person by mistake, being an amount to which the person is not entitled.
+**(3)**  In this section: administrative overpayment means an amount that the Commissioner has paid to a person by mistake, being an amount to which the person is not entitled. Authorised Version C2026C00170 registered 28/04/2026
+
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

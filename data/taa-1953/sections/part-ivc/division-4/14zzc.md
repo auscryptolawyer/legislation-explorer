@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZC  When and how to apply to the ART
+
 
 <a id="s14ZZC-1"></a>
 **(1)**  Despite section 18 (when to apply—general rule) of the ART Act, an application to the ART for review of a reviewable objection decision must be made within 60 days after the person making the application is served with notice of the decision.

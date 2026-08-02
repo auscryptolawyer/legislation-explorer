@@ -85,7 +85,7 @@ def _safe(val: str) -> str:
 _DATE_IN_PARENS_RE = re.compile(
     r'\((\d{1,2})\s+'
     r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+'
-    r'(\d{4})\)\s*$'
+    r'(\d{4})\)'
 )
 
 _MONTH_MAP = {
@@ -270,6 +270,198 @@ def get_case_metadata(
             f"cth/{court}/{year}/{num}.html"
         )
 
+# ── assemble result ───────────────────────────────────────────────────
+# ---------------------------------------------------------------------------
+# Shared helper: fix ITAA 1936 sections mislabelled as ITAA 1997
+# ---------------------------------------------------------------------------
+
+
+def _fix_itaa1936_act_titles(leg_rows: list[dict]) -> None:
+    """Post-process legislation refs to fix known ITAA 1936 sections mislabelled as ITAA 1997.
+
+    These are simple-integer sections from ITAA 1936 Part III Div 6, 7, 7A, etc.
+    that the ingestion logic defaulted to 1997. Modifies rows in-place.
+    """
+    _ITAA1936_SECTIONS_LOWER = {
+        "s.25", "s.25(1)",
+        "s.26", "s.26(a)",
+        "s.260",
+        "s.95", "s.96", "s.97", "s.97(1)", "s.98", "s.99", "s.100", "s.100a",
+        "s.101", "s.102", "s.102a", "s.103", "s.103a", "s.104",
+        "s.105", "s.106", "s.107", "s.108", "s.109", "s.109a",
+        "s.109b", "s.109c", "s.109d", "s.109e", "s.109f", "s.109g",
+        "s.109h", "s.109j", "s.109k", "s.109l", "s.109m", "s.109n",
+        "s.109p", "s.109q", "s.109r", "s.109s", "s.109t", "s.109u",
+        "s.109v", "s.109w", "s.109x", "s.109y", "s.109z", "s.109za", "s.109zb",
+        "s.110", "s.111", "s.112", "s.113", "s.114", "s.115", "s.116",
+        "s.117", "s.118", "s.119", "s.120", "s.121", "s.122", "s.123",
+        "s.124", "s.125", "s.126", "s.127", "s.128",
+        "s.160za", "s.160zb", "s.160zc", "s.160zd",
+        "s.177a", "s.177b", "s.177c", "s.177d", "s.177e", "s.177f", "s.177g",
+        "s.200", "s.201", "s.202", "s.202a",
+        "s.221a", "s.221b", "s.221c", "s.221d",
+        "s.221h", "s.221j", "s.221k", "s.221l",
+        "s.221p", "s.221q", "s.221r", "s.221s", "s.221t",
+        "s.221y", "s.221ya", "s.221yb", "s.221yc", "s.221yd",
+        "s.221yh", "s.221yhj", "s.221yhk", "s.221yhl", "s.221yhm",
+        "s.254", "s.255", "s.256", "s.257", "s.258",
+        "s.255-1",  # TAA 1953
+    }
+    # Heuristic: any unhyphenated 109-series section reference (s.109* without hyphen)
+    # defaults to ITAA 1936 (Division 7A and adjacent provisions).
+    _109_SERIES_RE = re.compile(r'^s\.109[a-z0-9]+(?:\(.*\))?$')
+
+    for row in leg_rows:
+        ref = (row.get("section_reference") or "").lower().strip()
+        at = row.get("act_title") or ""
+        is_1997 = "1997" in at
+
+        if not is_1997:
+            continue
+
+        # Exact match against known ITAA 1936 sections (all lowercase set)
+        if ref in _ITAA1936_SECTIONS_LOWER:
+            row["act_title"] = "Income Tax Assessment Act 1936"
+            row["_act_corrected"] = True
+            continue
+
+        # Handle subsection variants like s.97(1) by stripping the subsection
+        base_ref = re.sub(r'\(.*\)', '', ref).strip()
+        if base_ref in _ITAA1936_SECTIONS_LOWER:
+            row["act_title"] = "Income Tax Assessment Act 1936"
+            row["_act_corrected"] = True
+            continue
+
+        # Heuristic: unhyphenated 109-series → ITAA 1936
+        # Covers s.109B, s.109R, s.109XB, s.109XA(1), s.109BC, s.109XG, etc.
+        if _109_SERIES_RE.match(ref) or _109_SERIES_RE.match(base_ref):
+            row["act_title"] = "Income Tax Assessment Act 1936"
+            row["_act_corrected"] = True
+
+
+def get_case_metadata(
+    citation: str,
+    include_legislation_refs: bool = False,
+) -> dict[str, Any] | None:
+    """Return case metadata + structural outline (no paragraph text).
+
+    Args:
+        citation: e.g. ``[2024] HCA 1``.
+        include_legislation_refs: If True also return legislation references.
+
+    Returns:
+        Dict with case info, or None if not found.
+    """
+    safe = _safe(citation)
+
+    # ── case row ──────────────────────────────────────────────────────────
+    rows = _sql_dict(
+        [
+            "id",
+            "citation",
+            "case_name",
+            "court",
+            "decision_date",
+            "judges",
+            "outcome",
+            "related_provisions",
+            "related_rulings",
+            "head_notes",
+        ],
+        f"SELECT id, citation, case_name, court, decision_date::text, judges, "
+        f"outcome, related_provisions, related_rulings, head_notes::text "
+        f"FROM cases WHERE citation = '{safe}' LIMIT 1",
+    )
+    if not rows:
+        return None
+
+    case = rows[0]
+    case_id = case["id"]
+
+    # Clean array fields
+    for arr_field in ("judges", "related_provisions", "related_rulings"):
+        if isinstance(case.get(arr_field), list):
+            case[arr_field] = [str(s).strip('"') for s in case[arr_field]]
+        elif case.get(arr_field) is None:
+            case[arr_field] = []
+
+    # Parse head_notes JSON
+    if isinstance(case.get("head_notes"), str):
+        try:
+            import json
+            case["head_notes"] = json.loads(case["head_notes"])
+        except Exception:
+            pass
+
+    # Clean AustLII navigation garbage from key_terms
+    _AUSTLII_NAV = {
+        "databases", "noteup", "name search", "database search",
+        "last updated", "notice", "commonwealth law reports",
+        "austlii", "austlii home", "austlii database", "citation",
+        "print", "download", "email", "full text", "help",
+        "cookie", "privacy", "disclaimer", "copyright",
+    }
+    if isinstance(case.get("head_notes"), dict):
+        key_terms = case["head_notes"].get("key_terms", [])
+        if isinstance(key_terms, list):
+            cleaned = [
+                t for t in key_terms
+                if isinstance(t, str) and t.strip().lower() not in _AUSTLII_NAV
+            ]
+            case["head_notes"]["key_terms"] = cleaned
+
+    # ── content_length from documents ─────────────────────────────────────
+    doc_rows = _sql_dict(
+        ["content_length"],
+        f"SELECT LENGTH(content) as content_length FROM documents "
+        f"WHERE id = (SELECT document_id FROM cases WHERE citation = '{safe}')",
+    )
+    content_length = doc_rows[0]["content_length"] if doc_rows else None
+
+    # ── cited_by_count ────────────────────────────────────────────────────
+    cite_rows = _sql_dict(
+        ["cnt"],
+        f"SELECT COUNT(*) as cnt FROM case_citations "
+        f"WHERE cited_citation = '{safe}'",
+    )
+    cited_by_count = cite_rows[0]["cnt"] if cite_rows else 0
+
+    # ── legislation_refs_count ────────────────────────────────────────────
+    leg_rows = _sql_dict(
+        ["cnt"],
+        f"SELECT COUNT(*) as cnt FROM case_legislation_refs "
+        f"WHERE case_id = '{case_id}'",
+    )
+    legislation_refs_count = leg_rows[0]["cnt"] if leg_rows else 0
+
+    # ── paragraph_count ───────────────────────────────────────────────────
+    para_rows = _sql_dict(
+        ["cnt"],
+        f"SELECT COUNT(*) as cnt FROM case_paragraphs "
+        f"WHERE case_id = '{case_id}'",
+    )
+    paragraph_count = para_rows[0]["cnt"] if para_rows else 0
+
+    # ── section_outline (grouped paragraph section_types) ─────────────────
+    outline_rows = _sql_dict(
+        ["section_type", "cnt"],
+        f"SELECT section_type, COUNT(*) as cnt FROM case_paragraphs "
+        f"WHERE case_id = '{case_id}' "
+        f"GROUP BY section_type ORDER BY MIN(paragraph_number)",
+    )
+
+    # ── download URLs ─────────────────────────────────────────────────────
+    parsed = _parse_citation(citation)
+    download_urls = {}
+    if parsed:
+        court = str(parsed["court"])
+        year = str(parsed["year"])
+        num = str(parsed["num"])
+        download_urls["austlii_url"] = (
+            f"https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/"
+            f"cth/{court}/{year}/{num}.html"
+        )
+
     # ── assemble result ───────────────────────────────────────────────────
     result: dict[str, Any] = {
         "citation": case.get("citation"),
@@ -309,62 +501,7 @@ def get_case_metadata(
             f"FROM case_legislation_refs "
             f"WHERE case_id = '{case_id}' ORDER BY paragraph_number",
         )
-        # Post-process: fix known ITAA 1936 sections mislabelled as ITAA 1997
-        # These are simple-integer sections from ITAA 1936 Part III Div 6, 7, 7A, etc.
-        # that the ingestion logic defaulted to 1997.
-        # Normalise to lowercase for case-insensitive matching against DB values.
-        _ITAA1936_SECTIONS_LOWER = {
-            "s.95", "s.96", "s.97", "s.97(1)", "s.98", "s.99", "s.100", "s.100a",
-            "s.101", "s.102", "s.102a", "s.103", "s.103a", "s.104",
-            "s.105", "s.106", "s.107", "s.108", "s.109", "s.109a",
-            "s.109b", "s.109c", "s.109d", "s.109e", "s.109f", "s.109g",
-            "s.109h", "s.109j", "s.109k", "s.109l", "s.109m", "s.109n",
-            "s.109p", "s.109q", "s.109r", "s.109s", "s.109t", "s.109u",
-            "s.109v", "s.109w", "s.109x", "s.109y", "s.109z", "s.109za", "s.109zb",
-            "s.110", "s.111", "s.112", "s.113", "s.114", "s.115", "s.116",
-            "s.117", "s.118", "s.119", "s.120", "s.121", "s.122", "s.123",
-            "s.124", "s.125", "s.126", "s.127", "s.128",
-            "s.160za", "s.160zb", "s.160zc", "s.160zd",
-            "s.177a", "s.177b", "s.177c", "s.177d", "s.177e", "s.177f", "s.177g",
-            "s.200", "s.201", "s.202", "s.202a",
-            "s.221a", "s.221b", "s.221c", "s.221d",
-            "s.221h", "s.221j", "s.221k", "s.221l",
-            "s.221p", "s.221q", "s.221r", "s.221s", "s.221t",
-            "s.221y", "s.221ya", "s.221yb", "s.221yc", "s.221yd",
-            "s.221yh", "s.221yhj", "s.221yhk", "s.221yhl", "s.221yhm",
-            "s.254", "s.255", "s.256", "s.257", "s.258",
-            "s.255-1",  # TAA 1953
-        }
-        # Heuristic: any unhyphenated 109-series section reference (s.109* without hyphen)
-        # defaults to ITAA 1936 (Division 7A and adjacent provisions).
-        _109_SERIES_RE = re.compile(r'^s\.109[a-z0-9]+(?:\(.*\))?$')
-
-        for row in leg_rows:
-            ref = (row.get("section_reference") or "").lower().strip()
-            at = row.get("act_title") or ""
-            is_1997 = "1997" in at
-
-            if not is_1997:
-                continue
-
-            # Exact match against known ITAA 1936 sections (all lowercase set)
-            if ref in _ITAA1936_SECTIONS_LOWER:
-                row["act_title"] = "Income Tax Assessment Act 1936"
-                row["_act_corrected"] = True
-                continue
-
-            # Handle subsection variants like s.97(1) by stripping the subsection
-            base_ref = re.sub(r'\(.*\)', '', ref).strip()
-            if base_ref in _ITAA1936_SECTIONS_LOWER:
-                row["act_title"] = "Income Tax Assessment Act 1936"
-                row["_act_corrected"] = True
-                continue
-
-            # Heuristic: unhyphenated 109-series → ITAA 1936
-            # Covers s.109B, s.109R, s.109XB, s.109XA(1), s.109BC, s.109XG, etc.
-            if _109_SERIES_RE.match(ref) or _109_SERIES_RE.match(base_ref):
-                row["act_title"] = "Income Tax Assessment Act 1936"
-                row["_act_corrected"] = True
+        _fix_itaa1936_act_titles(leg_rows)
         result["legislation_refs"] = leg_rows
 
     return result
@@ -411,13 +548,18 @@ def get_case_references(citation: str) -> dict[str, Any]:
         r for r in leg_rows
         if not _is_austlii_chrome(r.get("paragraph_number"))
     ]
+    # Fix ITAA 1936 sections mislabelled as ITAA 1997
+    _fix_itaa1936_act_titles(leg_rows)
 
     # Case citations (cases this case cites)
     cite_rows = _sql_dict(
         ["cited_citation", "cited_case_name", "context", "paragraph_number"],
-        f"SELECT cited_citation, cited_case_name, context, paragraph_number "
-        f"FROM case_citations "
-        f"WHERE citing_case_id = '{cid_str}' ORDER BY paragraph_number",
+        f"SELECT cc.cited_citation, "
+        f"COALESCE(cc.cited_case_name, c.case_name) AS cited_case_name, "
+        f"cc.context, cc.paragraph_number "
+        f"FROM case_citations cc "
+        f"LEFT JOIN cases c ON cc.cited_citation = c.citation "
+        f"WHERE cc.citing_case_id = '{cid_str}' ORDER BY cc.paragraph_number",
     )
 
     # Cases that cite this case

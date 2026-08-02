@@ -1,0 +1,10 @@
+meta {
+  name: Admin Revoke Token
+  type: http
+  seq: 2
+}
+post {
+  url: http://localhost:8765/api/admin/tokens/{{tokenId}}/revoke
+  body: none
+  auth: none
+}

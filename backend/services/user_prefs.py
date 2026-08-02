@@ -17,6 +17,8 @@ DEFAULT_PREFS: dict[str, Any] = {
     "default_act": "itaa-1997",
     "theme": "dark",
     "accent_color": "#279e88",
+    "text_color": "#aebec2",
+    "bg_color": "#0a1214",
     "heading_font": "Montserrat",
     "body_font": "Lora",
 }
@@ -32,6 +34,8 @@ def _init():
                 default_act TEXT DEFAULT 'itaa-1997',
                 theme TEXT DEFAULT 'dark',
                 accent_color TEXT DEFAULT '#279e88',
+                text_color TEXT DEFAULT '#aebec2',
+                bg_color TEXT DEFAULT '#0a1214',
                 heading_font TEXT DEFAULT 'Montserrat',
                 body_font TEXT DEFAULT 'Lora',
                 updated_at REAL NOT NULL
@@ -39,6 +43,17 @@ def _init():
             """
         )
         conn.commit()
+
+    # Migrate existing databases: add columns if missing
+    for col, default in [("text_color", "#aebec2"), ("bg_color", "#0a1214")]:
+        try:
+            with _connect() as conn:
+                conn.execute(
+                    f"ALTER TABLE user_preferences ADD COLUMN {col} TEXT DEFAULT '{default}'"
+                )
+                conn.commit()
+        except Exception:
+            pass
 
 
 @contextmanager
@@ -65,6 +80,8 @@ def get_prefs(email: str) -> dict[str, Any]:
         "default_act": row["default_act"] or DEFAULT_PREFS["default_act"],
         "theme": row["theme"] or DEFAULT_PREFS["theme"],
         "accent_color": row["accent_color"] or DEFAULT_PREFS["accent_color"],
+        "text_color": row["text_color"] or DEFAULT_PREFS["text_color"],
+        "bg_color": row["bg_color"] or DEFAULT_PREFS["bg_color"],
         "heading_font": row["heading_font"] or DEFAULT_PREFS["heading_font"],
         "body_font": row["body_font"] or DEFAULT_PREFS["body_font"],
     }
@@ -84,13 +101,15 @@ def update_prefs(email: str, updates: dict[str, Any]) -> dict[str, Any]:
         conn.execute(
             """
             INSERT INTO user_preferences (email, display_name, default_act, theme,
-                accent_color, heading_font, body_font, updated_at)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                accent_color, text_color, bg_color, heading_font, body_font, updated_at)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             ON CONFLICT(email) DO UPDATE SET
                 display_name = excluded.display_name,
                 default_act = excluded.default_act,
                 theme = excluded.theme,
                 accent_color = excluded.accent_color,
+                text_color = excluded.text_color,
+                bg_color = excluded.bg_color,
                 heading_font = excluded.heading_font,
                 body_font = excluded.body_font,
                 updated_at = excluded.updated_at
@@ -101,6 +120,8 @@ def update_prefs(email: str, updates: dict[str, Any]) -> dict[str, Any]:
                 current["default_act"],
                 current["theme"],
                 current["accent_color"],
+                current["text_color"],
+                current["bg_color"],
                 current["heading_font"],
                 current["body_font"],
                 current["updated_at"],
@@ -112,7 +133,38 @@ def update_prefs(email: str, updates: dict[str, Any]) -> dict[str, Any]:
 
 def reset_prefs(email: str) -> dict[str, Any]:
     """Reset a user's preferences to defaults."""
-    return update_prefs(email, {})
+    defaults = {**DEFAULT_PREFS, "email": email, "updated_at": time.time()}
+    with _connect() as conn:
+        conn.execute(
+            """INSERT INTO user_preferences (email, display_name, default_act, theme,
+                accent_color, text_color, bg_color, heading_font, body_font, updated_at)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ON CONFLICT(email) DO UPDATE SET
+                display_name = excluded.display_name,
+                default_act = excluded.default_act,
+                theme = excluded.theme,
+                accent_color = excluded.accent_color,
+                text_color = excluded.text_color,
+                bg_color = excluded.bg_color,
+                heading_font = excluded.heading_font,
+                body_font = excluded.body_font,
+                updated_at = excluded.updated_at
+            """,
+            (
+                defaults["email"],
+                defaults["display_name"],
+                defaults["default_act"],
+                defaults["theme"],
+                defaults["accent_color"],
+                defaults["text_color"],
+                defaults["bg_color"],
+                defaults["heading_font"],
+                defaults["body_font"],
+                defaults["updated_at"],
+            ),
+        )
+        conn.commit()
+    return get_prefs(email)
 
 
 def get_all_prefs() -> list[dict[str, Any]]:

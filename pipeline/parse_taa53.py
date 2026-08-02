@@ -131,7 +131,7 @@ def is_page_header_noise(line: str) -> bool:
     return False
 
 
-def _continues_title(lines: list[str], i: int, structural_patterns: list) -> tuple[str | None, int]:
+def _continues_title(lines: list[str], i: int, structural_patterns: list, max_leading_ws: int | None = None) -> tuple[str | None, int]:
     extra = ""
     while i + 1 < len(lines):
         next_line = lines[i + 1]
@@ -142,7 +142,7 @@ def _continues_title(lines: list[str], i: int, structural_patterns: list) -> tup
         if RE_NOISE.match(next_line) or is_page_footer(next_line):
             break
         leading_ws = len(next_line) - len(next_line.lstrip())
-        if RE_SECTION in structural_patterns and leading_ws >= 10:
+        if max_leading_ws is not None and leading_ws >= max_leading_ws:
             break
         i += 1
         extra += " " + next_line.strip()
@@ -305,6 +305,9 @@ def parse_volume(raw_text: Path, out_dir: Path, ctx: ParseContext, dry_run: bool
                 current = None
             ctx.part = part_match.group(1)
             ctx.part_title = strip_page_number(part_match.group(2))
+            extra, i = _continues_title(lines, i, [RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION, RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH, RE_NOTE, RE_EXAMPLE])
+            if extra:
+                ctx.part_title += extra
             ctx.division = None
             ctx.division_title = None
             ctx.subdivision = None
@@ -359,7 +362,7 @@ def parse_volume(raw_text: Path, out_dir: Path, ctx: ParseContext, dry_run: bool
             section_ctx = ParseContext(**vars(ctx))
             section_number = m.group(1)
             section_title = m.group(2).strip()
-            extra, i = _continues_title(lines, i, [RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION, RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH, RE_NOTE, RE_EXAMPLE])
+            extra, i = _continues_title(lines, i, [RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION, RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH, RE_NOTE, RE_EXAMPLE], max_leading_ws=10)
             if extra:
                 section_title += extra
             current = Section(

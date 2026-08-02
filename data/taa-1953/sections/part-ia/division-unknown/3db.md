@@ -12,6 +12,7 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 3DB  Publication of information by certain country by country reporting entities—corrections and exemptions etc.
 
 Corrections
@@ -23,7 +24,8 @@ Corrections
 > **(a)**  if the error is a material error—must; or
 
 > <a id="s3DB-1-b"></a>
-> **(b)**  otherwise—may; publish information that corrects the error by giving a document containing the information to the Commissioner in the approved form.
+> **(b)**  otherwise—may; publish information that corrects the error by giving a document containing the information to the Commissioner in the approved form. Authorised Version C2026C00170 registered 28/04/2026
+
 <a id="s3DB-2"></a>
 **(2)**  If paragraph (1)(a) applies, the entity must publish the information by giving the document containing the information to the Commissioner no later than 28 days after the entity becomes aware of the error.
 
@@ -60,6 +62,7 @@ Corrections
 **(7)**  A notice under subsection (5) or (6) must only specify a single reporting period.
 
 <a id="s3DB-8"></a>
-**(8)**  A notice under subsection (5) or (6) is not a legislative instrument.
+**(8)**  A notice under subsection (5) or (6) is not a legislative instrument. Authorised Version C2026C00170 registered 28/04/2026
+
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

@@ -38,9 +38,24 @@ router.include_router(issues_router)
 router.include_router(insolvency_router)
 
 
-VERSION = "2.7.2"
+VERSION = "2.7.4"
 
 CHANGELOG = [
+    {
+        "version": "2.7.4",
+        "date": "2026-08-02",
+        "title": "UI cleanup, user prefs persistence fix",
+        "changes": [
+            "Fixed user preference persistence — text_color and bg_color were silently dropped by the server (missing DB columns). Reset to defaults now actually writes defaults.",
+            "Removed redundant Report a Bug button in sidebar (Bugs modal already has report form).",
+            "Cleaned up sidebar button formatting — removed flexWrap/center that caused cramped layout.",
+            "Filter tabs (All, Sections, Rulings, Cases, Commentary) now auto-trigger search on click — no need to press Search again.",
+            "Removed autocomplete dropdown — search button goes straight to full paginated results.",
+            "Removed color coding of open vs. known issues in IssuesModal (resolved section split is sufficient).",
+            "Cleaned up 24 test/placeholder tickets from the issues database. Updated notes to remove B-notation.",
+            "Version bumped to 2.7.4",
+        ],
+    },
     {
         "version": "2.7.2",
         "date": "2026-08-01",

@@ -1,0 +1,17 @@
+meta {
+  name: MCP search_legislation
+  type: http
+  seq: 5
+}
+post {
+  url: http://localhost:8765/api/rpc/search_legislation
+  body: json
+  auth: none
+}
+body:json {
+  {
+    "query": "capital gain",
+    "act": "itaa-1997",
+    "limit": 10
+  }
+}

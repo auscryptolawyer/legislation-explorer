@@ -12,6 +12,7 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZVB  Objections relating to excess concessional contributions
 
 Taxation decisions to which section applies
@@ -44,7 +45,8 @@ Taxation decisions to which section applies
 > **(b)**  at that time, the person also objects, or could also object, on that ground, against another taxation decision to which this section applies; then, for the purposes of this Part, those taxation decisions are taken to be one taxation decision. Limited objection rights because of earlier objection
 
 <a id="s14ZVB-3"></a>
-**(3)**  A person cannot object under this Part against a taxation decision to which this section applies on a particular ground if:
+**(3)**  A person cannot object under this Part against a taxation decision to which this section applies on a particular ground if: Authorised Version C2026C00170 registered 28/04/2026
+
 > <a id="s14ZVB-3-a"></a>
 > **(a)**  the ground was a ground for an objection the person has made against another decision to which this section applies; or
 

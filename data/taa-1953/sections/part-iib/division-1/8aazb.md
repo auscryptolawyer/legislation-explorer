@@ -12,10 +12,10 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZB  Trustee to be treated as separate entity for each capacity
 
-For the purposes of this Part, a person who is a trustee in more than one capacity is to be treated as a separate entity in relation to each of those capacities.
-matters
+For the purposes of this Part, a person who is a trustee in more than one capacity is to be treated as a separate entity in relation to each of those capacities. Authorised Version C2026C00170 registered 28/04/2026 matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

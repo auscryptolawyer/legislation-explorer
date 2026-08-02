@@ -1,0 +1,16 @@
+meta {
+  name: MCP get_section
+  type: http
+  seq: 4
+}
+post {
+  url: http://localhost:8765/api/rpc/get_section
+  body: json
+  auth: none
+}
+body:json {
+  {
+    "act": "itaa-1997",
+    "section": "8-1"
+  }
+}

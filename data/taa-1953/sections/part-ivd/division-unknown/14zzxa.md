@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZXA  Claims for protection
+
 
 <a id="s14ZZXA-1"></a>
 **(1)**  If, in civil or criminal proceedings (the primary proceedings) instituted against an individual in a court, the individual makes a claim (relevant to the proceedings) that, because of section 14ZZX, the individual is not subject to any civil, criminal or administrative liability for making a particular disclosure:
@@ -27,7 +29,8 @@ source_pdf: "vol01.pdf"
 > **(c)**  the court must deal with the claim in separate proceedings; and
 
 > <a id="s14ZZXA-1-d"></a>
-> **(d)**  the court must adjourn the primary proceedings until the claim has been dealt with; and
+> **(d)**  the court must adjourn the primary proceedings until the claim has been dealt with; and Authorised Version C2026C00170 registered 28/04/2026
+
 > <a id="s14ZZXA-1-e"></a>
 > **(e)**  none of the following:
 

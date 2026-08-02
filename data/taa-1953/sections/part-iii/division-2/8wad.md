@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8WAD  Possessing electronic sales suppression tools
+
 
 <a id="s8WAD-1"></a>
 **(1)**  A person commits an offence if:

@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8ZD  Conduct by employees or agents of corporations
+
 
 <a id="s8ZD-1"></a>
 **(1)**  Where, in a prosecution for a taxation offence constituted by an act done, or omitted to be done, by a corporation, it is necessary to establish the intention of the corporation, it is sufficient to show that an employee or agent of the corporation by whom the act was done or omitted to be done, as the case may be, had the intention.

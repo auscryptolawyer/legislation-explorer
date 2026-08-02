@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZLF  Commissioner must refund RBA surpluses and credits
+
 
 <a id="s8AAZLF-1"></a>
 **(1)**  The Commissioner must refund to an entity so much of:
@@ -33,8 +35,7 @@ source_pdf: "vol01.pdf"
 **(4)**  If the Commissioner refunds an RBA surplus under this section, the Commissioner must reduce by the same amount excess non-RBA credits that relate to the RBA. Effect of refunding credit that relates to an RBA
 
 <a id="s8AAZLF-5"></a>
-**(5)**  If, under this section, the Commissioner refunds an excess non-RBA credit that relates to an RBA, the RBA is adjusted in the Commissioner’s favour by the same amount.
-Running balance accounts, application of payments and credits, and related matters Part IIB Refunds of RBA surpluses and credits Division 3A Section 8AAZLG
+**(5)**  If, under this section, the Commissioner refunds an excess non-RBA credit that relates to an RBA, the RBA is adjusted in the Commissioner’s favour by the same amount. Authorised Version C2026C00170 registered 28/04/2026 Running balance accounts, application of payments and credits, and related matters Part IIB Refunds of RBA surpluses and credits Division 3A Section 8AAZLG
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

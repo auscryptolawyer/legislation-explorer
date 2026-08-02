@@ -1,0 +1,15 @@
+meta {
+  name: Create MCP Token
+  type: http
+  seq: 2
+}
+post {
+  url: http://localhost:8765/api/mcp-token
+  body: json
+  auth: none
+}
+body:json {
+  {
+    "name": "Bruno Test Token"
+  }
+}

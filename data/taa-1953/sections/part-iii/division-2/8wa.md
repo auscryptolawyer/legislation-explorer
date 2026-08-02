@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8WA  Unauthorised requirement etc. that tax file number be quoted
+
 
 <a id="s8WA-1"></a>
 **(1)**  A person must not require or request another person to quote the other person’s tax file number. Penalty: 100 penalty units or imprisonment for 2 years, or both.
@@ -24,8 +26,7 @@ source_pdf: "vol01.pdf"
 > **(a)**  provision is made by or under a taxation law or legislation described in paragraph 202(e) of the Income Tax Assessment Act 1936 for the person to quote the number; or
 
 > <a id="s8WA-1AA-b"></a>
-> **(b)**  the first-mentioned person requires or requests the number to be quoted in connection with that person exercising powers or performing functions under, or in relation to, or complying with an obligation imposed by, a taxation law or a law of the Commonwealth of the kind referred to in paragraph 202(c), (d), (g), (ga), (gaa), (h), (hab), (hac), (ha), (hb), (hc), (i), (ia),
-(j), (kb), (la), (m), (r), (s), (sa), (t) or (u) of the Income Tax Assessment Act 1936; or
+> **(b)**  the first-mentioned person requires or requests the number to be quoted in connection with that person exercising powers or performing functions under, or in relation to, or complying with an obligation imposed by, a taxation law or a law of the Commonwealth of the kind referred to in paragraph 202(c), (d), (g), (ga), (gaa), (h), (hab), (hac), (ha), (hb), (hc), (i), (ia), Authorised Version C2026C00170 registered 28/04/2026 (j), (kb), (la), (m), (r), (s), (sa), (t) or (u) of the Income Tax Assessment Act 1936; or
 
 > <a id="s8WA-1AA-c"></a>
 > **(c)**  the first-mentioned person requires or requests the number to be quoted in connection with the first-mentioned person acting on the other person’s behalf in the conduct of the other person’s affairs.

@@ -91,7 +91,6 @@ export default function App() {
   }, [])
 
   const [settingsOpen, setSettingsOpen] = useState(false)
-  const [bugReportOpen, setBugReportOpen] = useState(false)
   const [issuesOpen, setIssuesOpen] = useState(false)
   const [changelogOpen, setChangelogOpen] = useState(false)
   const [hofOpen, setHofOpen] = useState(false)
@@ -103,10 +102,6 @@ export default function App() {
     citation?: string
     label: string
   } | null>(null)
-  const [bugReportPending, setBugReportPending] = useState(() => {
-    try { return JSON.parse(localStorage.getItem('bugReports') || '[]').length }
-    catch { return 0 }
-  })
   const settingsRef = useRef<HTMLDivElement>(null)
   const [selectedRulingSection, setSelectedRulingSection] = useState<string | null>(null)
 
@@ -422,7 +417,6 @@ export default function App() {
           borderTop: `1px solid ${COLORS.border}`,
           padding: isMobile ? '10px 12px' : '8px 12px',
           display: 'flex', gap: 6, alignItems: 'center',
-          flexWrap: 'wrap', justifyContent: 'center',
         }}>
           <div ref={settingsRef} style={{ position: 'relative' }}>
             <button
@@ -458,33 +452,6 @@ export default function App() {
               <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
             </svg>
             Bugs
-          </button>
-          <button
-            onClick={() => setBugReportOpen(true)}
-            title="Report a bug"
-            style={{
-              padding: isMobile ? '7px 9px' : '6px 8px', borderRadius: 6,
-              background: COLORS.bg, color: COLORS.textMuted,
-              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-              display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 5,
-              fontSize: 11, fontFamily: "'Montserrat', sans-serif", fontWeight: 500,
-              position: 'relative',
-            }}
-          >
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <rect x="8" y="2" width="8" height="4" rx="1"/><path d="M4 12.5a6 6 0 0 1 6-6h4a6 6 0 0 1 6 6V16a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4z"/><path d="M12 8v8"/><path d="M8 12h8"/>
-            </svg>
-            {bugReportPending > 0 && (
-              <span style={{
-                position: 'absolute', top: -4, right: -4,
-                background: '#ef4444', color: '#fff',
-                borderRadius: 8, padding: '0 5px',
-                fontSize: 9, fontWeight: 700, lineHeight: '16px',
-                minWidth: 16, textAlign: 'center',
-              }}>
-                {bugReportPending}
-              </span>
-            )}
           </button>
           <div style={{ flex: 1, minWidth: 0 }} />
           {user ? (
@@ -848,22 +815,6 @@ export default function App() {
         <IssuesModal onClose={() => setIssuesOpen(false)} />
       )}
 
-      {/* Bug report modal */}
-      {bugReportOpen && (
-        <BugReportModal
-          onClose={() => setBugReportOpen(false)}
-          onReport={(text: string) => {
-            try {
-              const reports = JSON.parse(localStorage.getItem('bugReports') || '[]')
-              reports.push({ text, time: new Date().toISOString(), url: window.location.href })
-              localStorage.setItem('bugReports', JSON.stringify(reports))
-              setBugReportPending(reports.length)
-            } catch {}
-            setBugReportOpen(false)
-          }}
-        />
-      )}
-
       {/* Changelog modal */}
       {changelogOpen && appInfo?.changelog && (
         <ModalOverlay onClose={() => setChangelogOpen(false)}>
@@ -942,73 +893,3 @@ function ModalOverlay({ onClose, children }: { onClose: () => void; children: Re
   )
 }
 
-// ---------------------------------------------------------------------------
-// BugReportModal
-// ---------------------------------------------------------------------------
-
-function BugReportModal({ onClose, onReport }: { onClose: () => void; onReport: (text: string) => void }) {
-  const [text, setText] = useState('')
-
-  return (
-    <div
-      onClick={onClose}
-      style={{
-        position: 'fixed', inset: 0, zIndex: 1000,
-        background: 'rgba(0,0,0,0.6)',
-        display: 'flex', alignItems: 'center', justifyContent: 'center',
-      }}
-    >
-      <div
-        onClick={e => e.stopPropagation()}
-        style={{
-          background: COLORS.surface, borderRadius: 12,
-          padding: 24, width: '90%', maxWidth: 480,
-          boxShadow: '0 16px 48px rgba(0,0,0,0.5)',
-        }}
-      >
-        <div style={{ fontSize: 14, fontWeight: 600, color: COLORS.heading, marginBottom: 12, fontFamily: "'Montserrat', sans-serif" }}>
-          Report a Bug
-        </div>
-        <textarea
-          value={text}
-          onChange={e => setText(e.target.value)}
-          placeholder="Describe what went wrong..."
-          rows={4}
-          style={{
-            width: '100%', padding: 10, borderRadius: 6,
-            background: COLORS.bg, color: COLORS.heading,
-            border: `1px solid ${COLORS.border}`, fontSize: 13,
-            fontFamily: "'Montserrat', sans-serif", resize: 'vertical',
-            outline: 'none',
-          }}
-        />
-        <div style={{ display: 'flex', gap: 8, justifyContent: 'flex-end', marginTop: 12 }}>
-          <button
-            onClick={onClose}
-            style={{
-              padding: '8px 16px', borderRadius: 6,
-              background: COLORS.bg, color: COLORS.text,
-              border: `1px solid ${COLORS.border}`, cursor: 'pointer',
-              fontSize: 12, fontFamily: "'Montserrat', sans-serif",
-            }}
-          >
-            Cancel
-          </button>
-          <button
-            onClick={() => { if (text.trim()) onReport(text.trim()) }}
-            disabled={!text.trim()}
-            style={{
-              padding: '8px 16px', borderRadius: 6,
-              background: text.trim() ? COLORS.accent : COLORS.border,
-              color: text.trim() ? '#fff' : COLORS.textMuted,
-              border: 'none', cursor: text.trim() ? 'pointer' : 'default',
-              fontSize: 12, fontWeight: 600, fontFamily: "'Montserrat', sans-serif",
-            }}
-          >
-            Submit
-          </button>
-        </div>
-      </div>
-    </div>
-  )
-}

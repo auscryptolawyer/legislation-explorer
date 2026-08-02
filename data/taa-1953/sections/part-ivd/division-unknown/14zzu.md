@@ -12,6 +12,7 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZU  Eligible whistleblowers
 
 An individual is an eligible whistleblower in relation to an entity (within the meaning of the Income Tax Assessment Act 1997) if the individual is, or has been, any of the following:

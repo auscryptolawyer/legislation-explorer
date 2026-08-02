@@ -1,0 +1,16 @@
+meta {
+  name: Update User Prefs
+  type: http
+  seq: 2
+}
+put {
+  url: http://localhost:8765/api/user/prefs
+  body: json
+  auth: none
+}
+body:json {
+  {
+    "theme": "dark",
+    "accent_color": "#279e88"
+  }
+}

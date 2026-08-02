@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZC  Establishment of RBAs
+
 
 <a id="s8AAZC-1"></a>
 **(1)**  The Commissioner may establish one or more systems of accounts for primary tax debts.

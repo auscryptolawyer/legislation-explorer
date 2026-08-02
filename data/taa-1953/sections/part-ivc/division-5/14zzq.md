@@ -12,10 +12,13 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZQ  Implementation of court order in respect of objection decision
 
+
 <a id="s14ZZQ-1"></a>
-**(1)**  When the order of the court in relation to the decision becomes final, the Commissioner must, within 60 days, take such action, including amending any assessment or determination concerned, as is necessary to give effect to the decision.
+**(1)**  When the order of the court in relation to the decision becomes final, the Commissioner must, within 60 days, take such action, including amending any assessment or determination concerned, as is necessary to give effect to the decision. Authorised Version C2026C00170 registered 28/04/2026
+
 <a id="s14ZZQ-2"></a>
 **(2)**  For the purposes of subsection (1):
 

@@ -12,11 +12,12 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZB  Special rules for reviewable objection decisions and extension of time refusal decisions
 
+
 <a id="s14ZZB-1"></a>
-**(1)**  Section 268 (requesting reasons for reviewable decision from decision-maker) of the ART Act does not apply in relation to a
-reviewable objection decision that has been taken to have been made under subsection 14ZYA(3) or 14ZYB(2) of this Act.
+**(1)**  Section 268 (requesting reasons for reviewable decision from decision-maker) of the ART Act does not apply in relation to a Authorised Version C2026C00170 registered 28/04/2026 reviewable objection decision that has been taken to have been made under subsection 14ZYA(3) or 14ZYB(2) of this Act.
 
 <a id="s14ZZB-2"></a>
 **(2)**  Sections 17 (who can apply) and 18 (when to apply—general rule) of the ART Act do not apply in relation to:
@@ -46,7 +47,8 @@ reviewable objection decision that has been taken to have been made under subsec
 **(6)**  However, despite subsection (5), section 32 (reviewable decision continues to operate unless Tribunal orders otherwise) of the ART Act applies in relation to a reviewable objection decision that relates to a small business taxation assessment decision, subject to the modifications set out in section 14ZZH of this Act.
 
 <a id="s14ZZB-7"></a>
-**(7)**  Section 127 (Tribunal decision continues to operate unless Tribunal orders otherwise) of the ART Act does not apply in relation to a reviewable objection decision or an extension of time refusal decision.
+**(7)**  Section 127 (Tribunal decision continues to operate unless Tribunal orders otherwise) of the ART Act does not apply in relation to a reviewable objection decision or an extension of time refusal decision. Authorised Version C2026C00170 registered 28/04/2026
+
 <a id="s14ZZB-7A"></a>
 **(7A)**  However, despite subsection (7), section 127 (Tribunal decision continues to operate unless Tribunal orders otherwise) of the ART Act applies in relation to a reviewable objection decision that relates to a small business taxation assessment decision, subject to the modifications set out in section 14ZZH of this Act.
 

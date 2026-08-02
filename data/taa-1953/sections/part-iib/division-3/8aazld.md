@@ -12,13 +12,13 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZLD  Special priority credits
 
 If, under this Division, the Commissioner is to apply a credit that arises under Schedule 1 to this Act (the PAYG system), the Commissioner must apply it, whether under section 8AAZLA or 8AAZLB:
 
 > <a id="s8AAZLD-aa"></a>
-> **(aa)**  first, against any compulsory repayment amount of the entity; and
-Running balance accounts, application of payments and credits, and related matters Part IIB Treatment of payments, credits and RBA surpluses Division 3 Section 8AAZLE
+> **(aa)**  first, against any compulsory repayment amount of the entity; and Authorised Version C2026C00170 registered 28/04/2026 Running balance accounts, application of payments and credits, and related matters Part IIB Treatment of payments, credits and RBA surpluses Division 3 Section 8AAZLE
 
 > <a id="s8AAZLD-aaa"></a>
 > **(aaa)**  then against any compulsory VETSL repayment amount of the entity; and

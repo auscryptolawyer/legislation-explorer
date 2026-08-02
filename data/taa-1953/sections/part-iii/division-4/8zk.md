@@ -12,6 +12,7 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8ZK  Protection of witnesses
 
 A witness called on behalf of the Commissioner in any prosecution for a prescribed taxation offence shall not be compelled:
@@ -26,7 +27,8 @@ A witness called on behalf of the Commissioner in any prosecution for a prescrib
 > > **(ii)**  the nature of any information received by the witness; or
 
 > > <a id="s8ZK-iii"></a>
-> > **(iii)**  the name of any person from whom the witness received any information; or
+> > **(iii)**  the name of any person from whom the witness received any information; or Authorised Version C2026C00170 registered 28/04/2026
+
 > <a id="s8ZK-b"></a>
 > **(b)**  if the witness is an officer, to produce any reports:
 

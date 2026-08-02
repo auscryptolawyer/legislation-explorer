@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8ZL  Averment
+
 
 <a id="s8ZL-1"></a>
 **(1)**  In a prosecution for a prescribed taxation offence, a statement or averment contained in the information, claim or complaint is prima facie evidence of the matter so stated or averred.

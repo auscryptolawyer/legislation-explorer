@@ -12,10 +12,13 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8WAE  Incorrectly keeping records using electronic sales suppression tools
 
+
 <a id="s8WAE-1"></a>
-**(1)**  A person commits an offence if:
+**(1)**  A person commits an offence if: Authorised Version C2026C00170 registered 28/04/2026
+
 > <a id="s8WAE-1-a"></a>
 > **(a)**  the person is required under, or pursuant to, a taxation law to keep or make a record; and
 

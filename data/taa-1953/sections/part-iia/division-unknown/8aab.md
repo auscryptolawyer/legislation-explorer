@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAB  When the general interest charge applies
+
 
 <a id="s8AAB-1"></a>
 **(1)**  There are certain provisions of this Act and other Acts that make persons liable to pay the general interest charge. Subsection (4) lists the provisions.

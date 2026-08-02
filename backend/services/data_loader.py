@@ -888,40 +888,37 @@ def get_definition_text(act: str, term: str) -> dict | None:
     #   3. End of body
     rest = body[idx + len(m.group()):]
 
-    # Primary: find the next defined term in alphabetical order
-    # Uses the known term list from the definitions index rather than a fragile regex.
-    # This correctly handles hyphenated terms, uppercase terms, asterisk-tagged terms, etc.
-    section_terms = sorted([
-        t for t, td in defs.items()
-        if td.get("section") == section
-    ])
-    current_lower = term.lower()
-    next_term = None
-    for i, st in enumerate(section_terms):
-        if st == current_lower and i + 1 < len(section_terms):
-            next_term = section_terms[i + 1]
-            break
-
+# Find the closest defined term appearing after the current match in the body text.
+    # We search for ALL defined terms in the same section (not just the alphabetically-next
+    # one) because definitions in the body are not always in alphabetical order — e.g. in
+    # section 995-1, "emissions unit" (e) appears in the text *after* "market value" (m).
+    # Using the alphabetical-only next term would skip intermediate terms and bleed text.
     end_pos = len(body)
-    if next_term:
-        escaped_next = re.escape(next_term)
-        # Search for the next term at a line boundary or inline after a period+space
-        # Pattern: term followed by definition keyword (has meaning, means, includes, or colon)
-        # Use capturing group to get position of term name (excludes leading \n or ". ")
-        next_def = re.search(
-            rf'(?:\n|\.\s+)({escaped_next}\s+(?:has\s+(?:(?:the|a)\s+)?(?:same\s+)?meaning|means|includes)(?:\s|:|$))',
+    current_lower = term.lower()
+    for candidate_term, candidate_info in defs.items():
+        if candidate_info.get("section") != section:
+            continue
+        if candidate_term == current_lower:
+            continue
+        escaped_t = re.escape(candidate_term)
+        # Search for this term's definition at a line boundary (possibly with bullet prefix)
+        # or inline after a period+space
+        term_match = re.search(
+            rf'(?:\n(?:[-•*]\s+)?|\.\s+)({escaped_t}\s+(?:has\s+(?:(?:the|a)\s+)?(?:same\s+)?meaning|means|includes)(?:\s|:|$))',
             rest,
             re.IGNORECASE,
         )
-        if not next_def:
-            # Also try colon-only definitions (e.g. "acquire:", "adjustable value:")
-            next_def = re.search(
-                rf'(?:\n|\.\s+)({escaped_next}\s*:)',
+        if not term_match:
+            # Try colon-only definitions (e.g. "acquire:", "adjustable value:")
+            term_match = re.search(
+                rf'(?:\n(?:[-•*]\s+)?|\.\s+)({escaped_t}\s*:)',
                 rest,
                 re.IGNORECASE,
             )
-        if next_def:
-            end_pos = idx + len(m.group()) + next_def.start(1)  # start of term name
+        if term_match:
+            candidate_pos = idx + len(m.group()) + term_match.start()
+            if candidate_pos < end_pos:
+                end_pos = candidate_pos
 
     # Fallback: next definition anchor or heading
     if end_pos == len(body):
@@ -930,6 +927,10 @@ def get_definition_text(act: str, term: str) -> dict | None:
             end_pos = idx + len(m.group()) + anchor_end.start()
 
     text = body[idx:end_pos].strip()
+    # Hard cap at 5000 characters to prevent boundary-bleeding regression
+    MAX_DEF_LENGTH = 5000
+    if len(text) > MAX_DEF_LENGTH:
+        text = text[:MAX_DEF_LENGTH]
     text = re.sub(r'<a id="[^"]+"></a>\s*\n?', "", text)
     text = re.sub(r">\s*", "", text)
     text = re.sub(r"\*\*\((\d+)\)\*\*\s*", r"(\1) ", text)

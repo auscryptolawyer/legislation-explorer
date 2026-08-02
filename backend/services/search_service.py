@@ -6,6 +6,7 @@ import re
 import sqlite3
 import logging
 from contextlib import contextmanager
+from pathlib import Path
 from typing import Any
 
 from backend.config import DATA_DIR, RULING_DIR, SEARCH_DB, INSOLVENCY_DIR
@@ -217,17 +218,77 @@ def _index_section(
 
 
 def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
-    """Search using SQLite FTS5 with BM25 ranking."""
-    tokens = q.split()
-    if not tokens:
+    """Search using SQLite FTS5 with BM25 ranking.
+
+    Supports double-quoted phrase matching for exact literal search
+    (e.g. '"distributable surplus"' matches sections containing that
+    exact substring via LIKE, bypassing FTS5 stemming entirely).
+    Unquoted multi-word queries use standard FTS5 AND matching.
+    """
+    # Detect fully quoted phrase — use LIKE for exact literal match
+    phrase_match = re.match(r'^\s*"(.+)"\s*$', q)
+    if phrase_match:
+        exact_q = phrase_match.group(1)
+        with search_conn() as conn:
+            if act:
+                rows = conn.execute(
+                    "SELECT s.act, s.section, s.title, "
+                    "m.part, m.division, "
+                    "0.0 as rank, '' as snippet "
+                    "FROM sections_fts s "
+                    "JOIN sections_meta m ON s.act = m.act AND s.section = m.section "
+                    "WHERE s.act = ? AND (s.content LIKE ? OR s.title LIKE ?) "
+                    "ORDER BY CASE WHEN s.title LIKE ? THEN 0 ELSE 1 END "
+                    "LIMIT ?",
+                    (act, f"%{exact_q}%", f"%{exact_q}%", f"%{exact_q}%", limit),
+                ).fetchall()
+                total_count = conn.execute(
+                    "SELECT COUNT(*) FROM sections_fts WHERE act = ? AND (content LIKE ? OR title LIKE ?)",
+                    (act, f"%{exact_q}%", f"%{exact_q}%"),
+                ).fetchone()[0]
+            else:
+                rows = conn.execute(
+                    "SELECT s.act, s.section, s.title, "
+                    "m.part, m.division, "
+                    "0.0 as rank, '' as snippet "
+                    "FROM sections_fts s "
+                    "JOIN sections_meta m ON s.act = m.act AND s.section = m.section "
+                    "WHERE s.content LIKE ? OR s.title LIKE ? "
+                    "ORDER BY CASE WHEN s.title LIKE ? THEN 0 ELSE 1 END "
+                    "LIMIT ?",
+                    (f"%{exact_q}%", f"%{exact_q}%", f"%{exact_q}%", limit),
+                ).fetchall()
+                total_count = conn.execute(
+                    "SELECT COUNT(*) FROM sections_fts WHERE content LIKE ? OR title LIKE ?",
+                    (f"%{exact_q}%", f"%{exact_q}%"),
+                ).fetchone()[0]
+        results = []
+        for row in rows:
+            results.append({
+                "act": row["act"],
+                "section": row["section"],
+                "title": row["title"],
+                "part": row["part"],
+                "division": row["division"],
+                "snippet": "",
+            })
+        return {"results": results, "total_count": total_count}
+
+    # Standard FTS5 token-based matching
+    tokens = re.findall(r'"([^"]*)"|(\S+)', q)
+    if not tokens or all(not t[0] and not t[1] for t in tokens):
         return {"results": [], "total_count": 0}
     quoted = []
-    for tok in tokens:
-        if tok.endswith('*') and len(tok) > 1:
-            inner = tok[:-1].replace('"', '""')
-            quoted.append(f'"{inner}"*')
+    for phrase, word in tokens:
+        if phrase:
+            inner = phrase.replace('"', '""')
+            quoted.append(f'"{inner}"')
         else:
-            quoted.append('"' + tok.replace('"', '""') + '"')
+            if word.endswith('*') and len(word) > 1:
+                inner = word[:-1].replace('"', '""')
+                quoted.append(f'"{inner}"*')
+            else:
+                quoted.append('"' + word.replace('"', '""') + '"')
     q_clean = ' '.join(quoted)
 
     with search_conn() as conn:
@@ -316,6 +377,31 @@ def search_sections(q: str, act: str | None = None, limit: int = 50) -> dict:
     return {"results": results[:limit], "total_count": total_count}
 
 
+_PREFIX_TYPE_MAP = {
+    "TR": "Taxation Ruling",
+    "TD": "Taxation Determination",
+    "IT": "Taxation Ruling",
+    "CR": "Class Ruling",
+    "GSTR": "Goods and Services Tax Ruling",
+    "LCG": "Law Companion Ruling",
+    "PCG": "Practical Compliance Guideline",
+    "MT": "Miscellaneous Taxation Ruling",
+    "PR": "Product Ruling",
+    "PS": "Practice Statement Law Administration",
+    "PSLA": "Practice Statement Law Administration",
+    "SGR": "Superannuation Guarantee Ruling",
+    "TA": "Taxpayer Alert",
+    "AID": "ATO Interpretative Decision",
+}
+
+def _ruling_type_from_citation(citation: str) -> str:
+    """Derive the canonical ruling type from the citation prefix."""
+    m = re.match(r'^([A-Za-z]+)', citation.strip())
+    if m:
+        return _PREFIX_TYPE_MAP.get(m.group(1).upper(), "")
+    return ""
+
+
 def search_rulings(q: str, limit: int = 20) -> list[dict]:
     """Search rulings using FTS5 BM25 ranking."""
     tokens = q.split()
@@ -345,13 +431,24 @@ def search_rulings(q: str, limit: int = 20) -> list[dict]:
 
     results = []
     for row in rows:
+        title = row["title"]
+        # If title is just the citation (fallback), try to find a real title
+        if title == row["citation"]:
+            summary_dir = Path(DATA_DIR) / "rulings" / "summaries"
+            summ_path = summary_dir / f'{row["citation"].replace("/", "_")}.json'
+            if summ_path.exists():
+                try:
+                    meta = json.loads(summ_path.read_text(encoding="utf-8"))
+                    title = meta.get("title", meta.get("subject", title))
+                except Exception:
+                    pass
         results.append({
             "act": "rulings",
             "section": row["citation"],
-            "title": row["title"],
+            "title": title,
             "citation": row["citation"],
             "year": row["year"],
-            "ruling_type": row["ruling_type"],
+            "ruling_type": _ruling_type_from_citation(row["citation"]) or row["ruling_type"],
             "snippet": row["snippet"] or "",
         })
     return results

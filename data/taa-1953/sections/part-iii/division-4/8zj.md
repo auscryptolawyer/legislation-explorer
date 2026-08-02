@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8ZJ  Prosecution of prescribed taxation offences
+
 
 <a id="s8ZJ-1"></a>
 **(1)**  A prosecution for a prescribed taxation offence shall take the form of a proceeding by the Commonwealth for the recovery of a pecuniary penalty.
@@ -33,7 +35,8 @@ source_pdf: "vol01.pdf"
 > **(a)**  a prosecution of a person for a prescribed taxation offence that is punishable by a fine exceeding the prescribed amount in relation to the person is instituted in accordance with subsection (2); and
 
 > <a id="s8ZJ-5-b"></a>
-> **(b)**  before the expiration of the period of 14 days after service of process on the person in respect of the prescribed taxation offence, the person elects, in the prescribed manner, to have the case tried in the Supreme Court of the State or Territory in which the prosecution was instituted; the prosecution shall, by force of this subsection and without any order of the Supreme Court, be removed to the Supreme Court.
+> **(b)**  before the expiration of the period of 14 days after service of process on the person in respect of the prescribed taxation offence, the person elects, in the prescribed manner, to have the case tried in the Supreme Court of the State or Territory in which the prosecution was instituted; the prosecution shall, by force of this subsection and without any order of the Supreme Court, be removed to the Supreme Court. Authorised Version C2026C00170 registered 28/04/2026
+
 <a id="s8ZJ-6"></a>
 **(6)**  Where a prosecution for a prescribed taxation offence is instituted in the Supreme Court of a State or Territory in accordance with subsection (3) or is removed to the Supreme Court of a State or Territory by force of subsection (5), the prosecution may be conducted in accordance with:
 

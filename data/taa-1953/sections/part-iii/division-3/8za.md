@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8ZA  Prosecution of taxation offences
+
 
 <a id="s8ZA-1"></a>
 **(1)**  A taxation offence that is punishable by imprisonment for a period exceeding 12 months is, when committed by a natural person, an indictable offence.
@@ -39,6 +41,7 @@ source_pdf: "vol01.pdf"
 **(6)**  A reference in subsection (5) to a conviction of a person for an offence includes a reference to the making of an order under section 19B of the Crimes Act 1914 in relation to the person in respect of the offence.
 
 <a id="s8ZA-7"></a>
-**(7)**  A reference in subsection (5) to an offence against section 8T or 8U includes a reference to an offence against section 11.1 of the Criminal Code that relates to an offence against section 8T or 8U, as the case may be.
+**(7)**  A reference in subsection (5) to an offence against section 8T or 8U includes a reference to an offence against section 11.1 of the Criminal Code that relates to an offence against section 8T or 8U, as the case may be. Authorised Version C2026C00170 registered 28/04/2026
+
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

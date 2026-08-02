@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8ZC  Place where offence committed
+
 
 <a id="s8ZC-1"></a>
 **(1)**  Where a person commits a taxation offence by doing an act, the taxation offence may be taken to have been committed at:
@@ -41,6 +43,7 @@ source_pdf: "vol01.pdf"
 <a id="s8ZC-3"></a>
 **(3)**  This section has effect subject to section 80 of the Constitution.
 
-> **Note:** This section does not apply as an averment. For averments, see section 8ZL of this Act and section 13.6 of the Criminal Code.
+> **Note:** This section does not apply as an averment. For averments, see section 8ZL of this Act and section 13.6 of the Criminal Code. Authorised Version C2026C00170 registered 28/04/2026
+
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZLG  Retaining refunds until information or notification given
+
 
 <a id="s8AAZLG-1"></a>
 **(1)**  The Commissioner may retain an amount that he or she otherwise would have to refund to an entity under section 8AAZLF, if the entity has not given the Commissioner a notification:

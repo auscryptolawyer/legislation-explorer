@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZH  Limitation on orders staying or affecting reviewable objection decisions relating to small business taxation assessment decisions
+
 
 <a id="s14ZZH-1"></a>
 **(1)**  This section applies if:
@@ -30,8 +32,7 @@ source_pdf: "vol01.pdf"
 > **(b)**  the party requesting the order is not the Commissioner of Taxation.
 
 <a id="s14ZZH-2"></a>
-**(2)**  Despite the ART Act, the ART must not make the order unless the party satisfies the ART that, when considered in the context of both the particular circumstances of the decision under review and the overall taxation system, the application for review and the request for making the order are not frivolous, vexatious, misconceived, lacking in substance or otherwise intended to unduly impede,
-prejudice or restrict the proper administration or operation of a taxation law.
+**(2)**  Despite the ART Act, the ART must not make the order unless the party satisfies the ART that, when considered in the context of both the particular circumstances of the decision under review and the overall taxation system, the application for review and the request for making the order are not frivolous, vexatious, misconceived, lacking in substance or otherwise intended to unduly impede, Authorised Version C2026C00170 registered 28/04/2026 prejudice or restrict the proper administration or operation of a taxation law.
 
 > **Note:** The kind of orders that the ART may make include the following:
 

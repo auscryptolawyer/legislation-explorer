@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZF  Giving documents to the ART
+
 
 <a id="s14ZZF-1"></a>
 **(1)**  Section 23 (decision-maker must give Tribunal reasons and documents—general rule) of the ART Act does not apply in relation to an application for review of a reviewable objection decision.
@@ -36,7 +38,8 @@ source_pdf: "vol01.pdf"
 > **(e)**  every other document that is:
 
 > > <a id="s14ZZF-2-e-i"></a>
-> > **(i)**  in the Commissioner’s possession or under the Commissioner’s control; and
+> > **(i)**  in the Commissioner’s possession or under the Commissioner’s control; and Authorised Version C2026C00170 registered 28/04/2026
+
 > > <a id="s14ZZF-2-e-ii"></a>
 > > **(ii)**  considered by the Commissioner to be necessary to the review of the objection decision concerned;
 
@@ -65,7 +68,8 @@ source_pdf: "vol01.pdf"
 **(7)**  For the purposes of the ART Act:
 
 > <a id="s14ZZF-7-a"></a>
-> **(a)**  the requirement to give a statement giving the reasons for the decision under paragraph (2)(a) of this section is taken to be the requirement to give a statement of reasons for the decision under paragraph 23(a) of that Act; and
+> **(a)**  the requirement to give a statement giving the reasons for the decision under paragraph (2)(a) of this section is taken to be the requirement to give a statement of reasons for the decision under paragraph 23(a) of that Act; and Authorised Version C2026C00170 registered 28/04/2026
+
 > <a id="s14ZZF-7-b"></a>
 > **(b)**  the requirement to give other documents under subsection (2), (4) or (5) of this section is taken to be the requirement to give other documents under Subdivision B of Division 4 of Part 3 of that Act; and
 

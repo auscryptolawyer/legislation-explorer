@@ -31,7 +31,7 @@ export default function IssuesModal({ onClose }: { onClose: () => void }) {
   }, [])
 
   const openIssues = issues.filter(i => i.status === 'open' || i.status === 'known')
-  const fixedIssues = issues.filter(i => i.status === 'fixed')
+  const fixedIssues = issues.filter(i => i.status === 'fixed' || i.status === 'resolved')
 
   const handleSubmit = async () => {
     if (!reportText.trim()) return
@@ -135,7 +135,7 @@ export default function IssuesModal({ onClose }: { onClose: () => void }) {
               border: `1px solid ${COLORS?.border || '#333'}`,
             }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 4 }}>
-                <span style={{ fontSize: 11, fontWeight: 600, color: issue.status === 'known' ? (COLORS?.accent || '#279e88') : '#e67e22' }}>
+                <span style={{ fontSize: 11, fontWeight: 600, color: '#e67e22' }}>
                   {issue.ticket}
                   <span style={{ color: COLORS?.textMuted || '#888', fontWeight: 400 }}>
                     {' '}· {issue.category}{issue.tool ? ` · ${issue.tool}` : ''}
@@ -186,6 +186,11 @@ export default function IssuesModal({ onClose }: { onClose: () => void }) {
                   {issue.note && (
                     <div style={{ fontSize: 11, color: COLORS?.textMuted || '#aaa', marginTop: 2, lineHeight: 1.3 }}>
                       {issue.note}
+                    </div>
+                  )}
+                  {issue.fixed && (
+                    <div style={{ fontSize: 11, color: '#4caf50', marginTop: 2, lineHeight: 1.3 }}>
+                      Fix: {issue.fixed}
                     </div>
                   )}
                 </div>

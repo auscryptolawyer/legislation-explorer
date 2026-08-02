@@ -1,0 +1,16 @@
+meta {
+  name: MCP get_act_tree
+  type: http
+  seq: 3
+}
+post {
+  url: http://localhost:8765/api/rpc/get_act_tree
+  body: json
+  auth: none
+}
+body:json {
+  {
+    "act": "itaa-1997",
+    "depth": "parts"
+  }
+}

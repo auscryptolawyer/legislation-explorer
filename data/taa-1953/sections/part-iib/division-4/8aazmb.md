@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8AAZMB  Saturdays, Sundays and public holidays
+
 
 <a id="s8AAZMB-1"></a>
 **(1)**  Where, apart from this section, an amount in respect of a tax debt is due and payable by, or on, a day (the payment day) that is not a business day, the payment is due and payable on the first business day after the payment day.
@@ -33,8 +35,7 @@ source_pdf: "vol01.pdf"
 > > **(ii)**  the Australian Capital Territory; or
 
 > > <a id="s8AAZMB-2-b-iii"></a>
-> > **(iii)**  the Northern Territory.
-matters
+> > **(iii)**  the Northern Territory. Authorised Version C2026C00170 registered 28/04/2026 matters
 
 ---
 *Last updated: 2026-04-01 (Compilation 222)*

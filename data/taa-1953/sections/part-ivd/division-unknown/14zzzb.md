@@ -12,6 +12,7 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 14ZZZB  Identifying information not to be disclosed etc. to courts or tribunals
 
 If a person (the discloser) makes a disclosure of information that qualifies for protection under this Part, the discloser or any other person is not to be required:
@@ -35,7 +36,8 @@ If a person (the discloser) makes a disclosure of information that qualifies for
 > > **(ii)**  information that is likely to lead to the identification of the discloser; except where:
 
 > <a id="s14ZZZB-c"></a>
-> **(c)**  it is necessary to do so for the purposes of giving effect to this Part; or
+> **(c)**  it is necessary to do so for the purposes of giving effect to this Part; or Authorised Version C2026C00170 registered 28/04/2026
+
 > <a id="s14ZZZB-d"></a>
 > **(d)**  the court or tribunal thinks it necessary in the interests of justice to do so.
 

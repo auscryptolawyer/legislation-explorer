@@ -157,34 +157,67 @@ def extract_aid(text: str, citation: str) -> dict:
         for m in cp.finditer(text):
             cases.add(m.group(0).strip())
 
-    # Legislation refs via regex
+    # Legislation refs via regex — bounded act-title capture
+    # Strategy: match known short-name act formats + optional (Cth),
+    # then capture section refs that immediately follow. Deduplicate by (act, section).
     leg = set()
-    leg_pat = re.compile(
+    _KNOWN_ACTS_RE = re.compile(
         r"(?:Income Tax Assessment Act \d{4}|Fringe Benefits Tax(?: Assessment)? Act \d{4}|"
         r"A New Tax System \(Goods and Services Tax\) Act \d{4}|Taxation Administration Act \d{4}|"
         r"Tax Agent Services Act \d{4}|Corporations Act \d{4}|"
         r"Superannuation Industry \(Supervision\) Act \d{4}|"
         r"Superannuation Guarantee \(Administration\) Act \d{4}|"
         r"Family Law Act \d{4}|Social Security Act \d{4}|"
-        r"ITAA\s+\d{4}|TAA\s+\d{4})(?:\s+\(Cth\))?(?:\s+s(?:s|ection)?\.?\s+\d+[-\dA-Za-z]*(?:\([^)]+\))?(?:,\s*\d+[-\dA-Za-z]*(?:\([^)]+\))?)*)?",
+        r"ITAA\s+\d{4}|TAA\s+\d{4})"
+        r"(?:\s+\(Cth\))?"
+        r"(?:\s+s(?:s|ection)?\.?\s+(\d+[-\dA-Za-z]*(?:\([^)]+\))?))?",
         re.IGNORECASE,
     )
-    for m in leg_pat.finditer(text):
-        ref = m.group(0).strip()
-        # Clean up - truncate at sentence boundaries
-        for sep in [" where ", " for ", " allows ", " specifically ", " and related "]:
-            if sep in ref.lower():
-                ref = ref[:ref.lower().index(sep)].strip()
-        if ref and len(ref) > 5:
-            leg.add(ref)
+    seen_pairs: set[tuple[str, str]] = set()
+    for m in _KNOWN_ACTS_RE.finditer(text):
+        act = m.group(0).strip()
+        section = m.group(1) or ""
+        # Sentence-boundary guard: if the match is followed by a comma+word, it may
+        # be a sentence fragment — reject unless act name is a clear short-title.
+        # Only keep if we captured a section or the act stand-alone looks valid.
+        if not section:
+            # Stand-alone act name: keep only if ends with (Cth) or year
+            if not (act.endswith(")") or re.search(r'\d{4}\s*$', act)):
+                continue
+        # Build canonical form
+        if section:
+            # Normalise section numbers to lowercase for dedup
+            norm_section = section.lower().strip()
+            key = (act.lower().strip(), norm_section)
+            if key in seen_pairs:
+                continue
+            seen_pairs.add(key)
+            leg.add(f"{act} s {section}")
+        else:
+            leg.add(act)
 
-    # Also find "section X of the Act Name" patterns
+    # Also find \"section X of the Act Name\" patterns — bounded to avoid capturing sentence fragments
     standalone = re.findall(
-        r"(?:section|s\.?)\s+(\d+[-\dA-Za-z]*(?:\([^)]+\))?)\s+of\s+the\s+(.*?)(?:\s+\(Cth\))?(?=[\.,;])",
+        r"(?:section|s\.?)\s+(\d+[-\dA-Za-z]*(?:\([^)]+\))?)\s+of\s+the\s+"
+        r"(Income Tax Assessment Act \d{4}|Fringe Benefits Tax(?: Assessment)? Act \d{4}|"
+        r"A New Tax System \(Goods and Services Tax\) Act \d{4}|Taxation Administration Act \d{4}|"
+        r"Tax Agent Services Act \d{4}|Corporations Act \d{4}|"
+        r"Superannuation Industry \(Supervision\) Act \d{4}|"
+        r"Superannuation Guarantee \(Administration\) Act \d{4}|"
+        r"Family Law Act \d{4}|Social Security Act \d{4}|"
+        r"ITAA\s+\d{4}|TAA\s+\d{4})"
+        r"(?:\s+\(Cth\))?",
         text, re.IGNORECASE,
     )
     for sec_num, act_name in standalone:
-        leg.add(f"{act_name.strip()} (Cth) s {sec_num}")
+        act_full = f"{act_name.strip()} (Cth)"
+        norm_section = sec_num.lower().strip()
+        key = (act_full.lower(), norm_section)
+        if key not in seen_pairs:
+            seen_pairs.add(key)
+            leg.add(f"{act_full} s {sec_num}")
+        elif f"{act_full} s {sec_num}" not in leg:
+            leg.add(f"{act_full} s {sec_num}")
 
     # Format title with citation prefix
     display_title = f"{citation} — {title}" if title else citation

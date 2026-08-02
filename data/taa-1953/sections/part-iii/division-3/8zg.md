@@ -12,7 +12,9 @@ compilation_no: 222
 compilation_date: "2026-04-01"
 source_pdf: "vol01.pdf"
 ---
+
 # 8ZG  Enforcement of orders for payment
+
 
 <a id="s8ZG-1"></a>
 **(1)**  Where:
@@ -36,7 +38,8 @@ source_pdf: "vol01.pdf"
 > > **(i)**  does not have civil jurisdiction; or
 
 > > <a id="s8ZG-2-b-ii"></a>
-> > **(ii)**  has civil jurisdiction, but does not have civil jurisdiction to the extent of the amount; the proper officer of the court shall issue to the Commissioner a certificate in the prescribed form containing the prescribed particulars.
+> > **(ii)**  has civil jurisdiction, but does not have civil jurisdiction to the extent of the amount; the proper officer of the court shall issue to the Commissioner a certificate in the prescribed form containing the prescribed particulars. Authorised Version C2026C00170 registered 28/04/2026
+
 <a id="s8ZG-3"></a>
 **(3)**  The certificate may, in the prescribed manner and subject to the prescribed conditions (if any), be registered in a court having civil jurisdiction to the extent of the amount ordered to be paid to the Commissioner.
 
