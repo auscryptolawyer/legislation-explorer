@@ -101,7 +101,7 @@ export default function GraphModal({ type, act, section, citation, label, onClos
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [hoveredNode, setHoveredNode] = useState<GraphNode | null>(null)
-  const [layoutMode, setLayoutMode] = useState<LayoutMode>('force')
+  const [layoutMode, setLayoutMode] = useState<LayoutMode>('tree')
   const fgRef = useRef<any>(null)
 
   useEffect(() => {
@@ -134,14 +134,13 @@ export default function GraphModal({ type, act, section, citation, label, onClos
     fg.d3Force('radial', null)
 
     if (layoutMode === 'force') {
-      // Default: charge + link
+      // High friction so it settles fast
       fg.d3Force('charge', d3Force.forceManyBody().strength(-120))
       fg.d3ReheatSimulation()
       return
     }
 
     if (layoutMode === 'radial') {
-      // Concentric rings by group type
       fg.d3Force('charge', d3Force.forceManyBody().strength(-30))
       fg.d3Force('radial', d3Force.forceRadial((d: any) => RADIAL_RADIUS[d.group as string] || 180, 0, 0).strength(1))
       fg.d3ReheatSimulation()
@@ -202,7 +201,7 @@ export default function GraphModal({ type, act, section, citation, label, onClos
             )}
             {hoveredNode && (
               <span style={{ fontSize: 11, color: GROUP_COLORS[hoveredNode.group] || '#888' }}>
-                {hoveredNode.label}
+                {hoveredNode.short_label}
               </span>
             )}
           </div>
@@ -281,7 +280,6 @@ export default function GraphModal({ type, act, section, citation, label, onClos
               ref={fgRef}
               graphData={graphData}
               nodeId="id"
-              nodeLabel={n => (n as GraphNode).label}
               nodeColor={n => GROUP_COLORS[(n as GraphNode).group] || '#888'}
               nodeVal={n => (n as GraphNode).group === 'section' ? 3 : 2}
               linkLabel={e => (e as any).label}
@@ -303,12 +301,50 @@ export default function GraphModal({ type, act, section, citation, label, onClos
               width={undefined}
               height={undefined}
               backgroundColor={COLORS?.surface || '#1a1a2e'}
-              d3VelocityDecay={layoutMode === 'force' ? 0.3 : 0.8}
-              cooldownTicks={layoutMode === 'force' ? 100 : 50}
+              d3VelocityDecay={0.9}
+              warmupTicks={40}
+              cooldownTicks={0}
               enableNodeDrag={true}
               enableZoomInteraction={true}
               minZoom={0.5}
               maxZoom={8}
+              // Render permanent labels on every node
+              nodeCanvasObject={(node: any, ctx: CanvasRenderingContext2D, globalScale: number) => {
+                const n = node as GraphNode
+                const label = n.short_label
+                const fontSize = Math.max(8, 11 / globalScale)
+                const nodeR = n.group === 'section' ? 4 : 3
+                ctx.beginPath()
+                ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false)
+                ctx.fillStyle = GROUP_COLORS[n.group] || '#888'
+                ctx.fill()
+                // Draw label
+                ctx.font = `${fontSize}px Inter, -apple-system, sans-serif`
+                ctx.textAlign = 'center'
+                ctx.textBaseline = 'top'
+                const textWidth = ctx.measureText(label).width
+                const padding = 2
+                const boxX = node.x - textWidth / 2 - padding
+                const boxY = node.y + nodeR + 2
+                const boxW = textWidth + padding * 2
+                const boxH = fontSize + padding * 2
+                // Background pill for readability
+                ctx.fillStyle = 'rgba(26, 26, 46, 0.8)'
+                ctx.beginPath()
+                ctx.roundRect(boxX, boxY, boxW, boxH, 3)
+                ctx.fill()
+                ctx.fillStyle = '#e0e0e0'
+                ctx.fillText(label, node.x, boxY + padding - 1)
+              }}
+              // Highlight hovered node
+              nodePointerAreaPaint={(node: any, color: string, ctx: CanvasRenderingContext2D) => {
+                const n = node as GraphNode
+                const nodeR = n.group === 'section' ? 10 : 8
+                ctx.beginPath()
+                ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false)
+                ctx.fillStyle = color
+                ctx.fill()
+              }}
             />
           )}
         </div>
