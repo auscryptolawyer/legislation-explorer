@@ -82,6 +82,7 @@ def _load_rulings_index() -> dict[str, dict]:
 
 
 _CASES_INDEX: dict[str, dict] | None = None
+_SECTION_CASE_INDEX: dict[str, list] | None = None
 
 
 def _load_cases_index() -> dict[str, dict]:
@@ -388,6 +389,38 @@ def _resolve_section(act: str, section: str) -> dict:
                             "label": "ruling",
                         })
                         break
+
+        # Also look up cases that reference this section from section_case_index.json
+        global _SECTION_CASE_INDEX
+        if _SECTION_CASE_INDEX is None:
+            sc_path = BASE / "data" / "section_case_index.json"
+            if sc_path.exists():
+                with open(sc_path) as f:
+                    _SECTION_CASE_INDEX = json.load(f)
+            else:
+                _SECTION_CASE_INDEX = {}
+        case_refs = _SECTION_CASE_INDEX.get(f"{act}:{section}", [])
+        case_idx = _load_cases_index()
+        for cr in case_refs[:30]:  # cap at 30 cases to avoid overwhelming the graph
+            cit = cr.get("citation", "")
+            if not cit:
+                continue
+            cid = f"case:{cit}"
+            if cid not in nodes:
+                info = case_idx.get(cit, {})
+                label = info.get("title") or cit
+                nodes[cid] = {
+                    "id": cid,
+                    "label": f"{cit} — {label}",
+                    "short_label": cit,
+                    "group": "case",
+                    "url": _case_url(cit),
+                }
+            edges.append({
+                "source": node_id,
+                "target": cid,
+                "label": "section",
+            })
 
         # Add similarity-based edges from k-NN index
         for emb_id in embedding_ids:
