@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Social Post Composer — Blacksheep</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0F0F13; --surface:#19191F; --surface2:#23232D; --border:#2A2A35;
+  --lime:#BCFF2F; --fg:#F9FAFB; --muted:#9CA3AF; --red:#F87171; --ok:#BCFF2F;
+  --r:12px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  font-family:'Poppins',-apple-system,system-ui,sans-serif;
+  background:var(--bg); color:var(--fg); padding:28px; min-height:100vh;
+  font-size:14px; line-height:1.5;
+}
+.layout{max-width:1180px;margin:0 auto}
+
+/* Header */
+.head{display:flex;align-items:baseline;gap:14px;margin-bottom:22px;flex-wrap:wrap}
+.head h1{font-size:19px;font-weight:700;letter-spacing:-0.01em}
+.head .mark{
+  font-weight:800;color:var(--lime);letter-spacing:0.02em;font-size:12px;
+  border:1px solid rgba(188,255,47,0.35);padding:3px 8px;border-radius:6px;
+}
+.head .note{margin-left:auto;font-size:12px;color:var(--muted)}
+
+/* Toggles */
+.toggles{display:flex;gap:10px;align-items:center;margin-bottom:18px;flex-wrap:wrap}
+.seg{display:flex;border:1px solid var(--border);border-radius:9px;overflow:hidden}
+.seg button{
+  padding:7px 16px;font-size:13px;font-weight:600;background:transparent;
+  color:var(--muted);border:none;cursor:pointer;transition:background .12s,color .12s;
+  font-family:inherit;
+}
+.seg button.on{background:var(--lime);color:#000}
+.seg button:not(.on):hover{background:var(--surface2);color:var(--fg)}
+
+/* Topic */
+.topic{display:flex;gap:10px;margin-bottom:18px;align-items:stretch}
+.topic textarea{
+  flex:1;min-height:52px;max-height:140px;padding:12px 14px;font-size:14px;
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--r);
+  color:var(--fg);resize:vertical;font-family:inherit;line-height:1.5;
+}
+
+/* Buttons */
+.btn{
+  padding:9px 16px;border-radius:9px;font-size:13px;font-weight:600;border:1px solid transparent;
+  cursor:pointer;transition:background .12s,opacity .12s,border-color .12s;white-space:nowrap;
+  font-family:inherit;display:inline-flex;align-items:center;gap:6px;
+}
+.btn-lime{background:var(--lime);color:#000}
+.btn-lime:hover{opacity:.88}
+.btn-ghost{background:transparent;color:var(--fg);border-color:var(--border)}
+.btn-ghost:hover{background:var(--surface2)}
+.btn-sm{padding:6px 11px;font-size:12px}
+.btn:disabled{opacity:.5;cursor:progress}
+:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+
+/* Format toolbar */
+.fmt{
+  display:flex;gap:6px;align-items:center;flex-wrap:wrap;
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--r);
+  padding:8px 10px;margin-bottom:14px;
+}
+.fmt .lbl{font-size:11px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.05em;margin-right:2px}
+.fmt button{
+  min-width:36px;height:34px;padding:0 9px;border:1px solid var(--border);border-radius:8px;
+  background:var(--bg);color:var(--fg);cursor:pointer;font-size:15px;font-family:inherit;
+  transition:border-color .12s,background .12s;display:inline-flex;align-items:center;justify-content:center;
+}
+.fmt button:hover{border-color:var(--lime);background:var(--surface2)}
+.fmt .divide{width:1px;height:22px;background:var(--border);margin:0 4px}
+.fmt .target{margin-left:auto;font-size:11px;color:var(--muted)}
+.fmt .target b{color:var(--lime);font-weight:600}
+
+/* Drafts */
+.drafts{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:22px}
+.panel{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--r);
+  padding:14px;display:flex;flex-direction:column;
+}
+.panel h2{
+  font-size:11px;font-weight:600;color:var(--muted);text-transform:uppercase;
+  letter-spacing:.06em;margin-bottom:9px;display:flex;align-items:center;gap:7px;
+}
+.panel h2 .dot{width:6px;height:6px;border-radius:50%;background:var(--lime)}
+.panel textarea{
+  flex:1;min-height:210px;padding:12px;font-size:14px;line-height:1.6;
+  background:var(--bg);border:1px solid var(--border);border-radius:8px;color:var(--fg);
+  resize:vertical;font-family:inherit;
+}
+.row{display:flex;gap:7px;margin-top:10px;flex-wrap:wrap;align-items:center}
+.count{font-size:11px;color:var(--muted);margin-left:auto}
+.count.over{color:var(--red);font-weight:700}
+
+/* Image card */
+.card-sec{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:16px;margin-bottom:22px}
+.card-sec h2{font-size:11px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin-bottom:14px}
+.card-grid{display:grid;grid-template-columns:300px 1fr;gap:18px}
+.ctrls{display:flex;flex-direction:column;gap:12px}
+.field{display:flex;flex-direction:column;gap:5px}
+.field label{font-size:11px;color:var(--muted);font-weight:600}
+.field select,.field input[type=text],.field textarea{
+  padding:9px 11px;font-size:13px;background:var(--bg);border:1px solid var(--border);
+  border-radius:8px;color:var(--fg);font-family:inherit;
+}
+.field textarea{resize:vertical;min-height:64px;line-height:1.4}
+.field input[type=range]{accent-color:var(--lime);height:22px}
+.swatches{display:flex;gap:7px}
+.sw{width:30px;height:30px;border-radius:7px;border:2px solid var(--border);cursor:pointer;padding:0}
+.sw.on{border-color:var(--lime)}
+.chk{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--fg);cursor:pointer;user-select:none}
+.chk input{accent-color:var(--lime);width:15px;height:15px}
+.preview-wrap{display:flex;flex-direction:column;gap:10px;min-width:0}
+.canvas-box{
+  background:repeating-conic-gradient(#141419 0% 25%,#0c0c10 0% 50%) 50%/22px 22px;
+  border:1px solid var(--border);border-radius:8px;padding:14px;
+  display:flex;align-items:center;justify-content:center;min-height:260px;overflow:hidden;
+}
+#cardCanvas{max-width:100%;max-height:440px;width:auto;height:auto;border-radius:4px;
+  box-shadow:0 8px 30px rgba(0,0,0,.5);cursor:grab;touch-action:none}
+#cardCanvas.dragging{cursor:grabbing}
+.hint{font-size:11px;color:var(--muted)}
+
+/* Push */
+.push{display:flex;gap:10px;align-items:center;flex-wrap:wrap;padding-top:18px;border-top:1px solid var(--border)}
+.push .lbl{font-size:12px;color:var(--muted);font-weight:600}
+.push .grp{display:flex;gap:6px;flex-wrap:wrap}
+
+/* Status toast */
+.toast{
+  position:fixed;left:50%;bottom:26px;transform:translateX(-50%) translateY(20px);
+  padding:11px 18px;border-radius:10px;font-size:13px;font-weight:500;
+  opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;z-index:50;max-width:90vw;
+}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+.toast.ok{background:rgba(188,255,47,.12);color:var(--lime);border:1px solid rgba(188,255,47,.3)}
+.toast.err{background:rgba(248,113,113,.12);color:var(--red);border:1px solid rgba(248,113,113,.35)}
+
+@media (max-width:860px){
+  .drafts{grid-template-columns:1fr}
+  .card-grid{grid-template-columns:1fr}
+  body{padding:16px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="layout">
+
+  <div class="head">
+    <span class="mark">BLACKSHEEP</span>
+    <h1>Social Post Composer</h1>
+    <span class="note">Drafts only. Nothing publishes.</span>
+  </div>
+
+  <div class="toggles">
+    <div class="seg" id="acctSeg">
+      <button class="on" data-acct="harrison">Harrison</button>
+      <button data-acct="blacksheep">Blacksheep</button>
+    </div>
+    <div class="seg" id="platSeg">
+      <button class="on" data-platform="linkedin">LinkedIn</button>
+      <button data-platform="x">X / Twitter</button>
+    </div>
+  </div>
+
+  <div class="topic">
+    <textarea id="topic" placeholder="What's the post about? e.g. ATO loses appeal on s 99B, taxpayer win on diverted profits"></textarea>
+    <button class="btn btn-lime" id="genBtn">Generate</button>
+  </div>
+
+  <!-- Unicode formatting toolbar -->
+  <div class="fmt">
+    <span class="lbl">Format</span>
+    <button data-style="bold" title="Bold (Unicode)">𝗕</button>
+    <button data-style="italic" title="Italic (Unicode)">𝘐</button>
+    <button data-style="bolditalic" title="Bold italic (Unicode)">𝘽</button>
+    <button data-style="underline" title="Underline">U&#818;</button>
+    <button data-style="strike" title="Strikethrough">S&#822;</button>
+    <span class="divide"></span>
+    <button data-style="bullet" title="Bullet list" style="font-size:13px">• List</button>
+    <button data-style="plain" title="Strip formatting back to plain" style="font-size:13px">Aa</button>
+    <span class="target">Formatting: <b id="fmtTarget">LinkedIn</b></span>
+  </div>
+
+  <div class="drafts">
+    <div class="panel">
+      <h2><span class="dot"></span>LinkedIn</h2>
+      <textarea id="li" placeholder="LinkedIn draft. Select text, then hit a format button to apply Unicode bold or italic (LinkedIn strips markdown, so this is how bold survives)."></textarea>
+      <div class="row">
+        <button class="btn btn-ghost btn-sm" data-condense>Make X version</button>
+        <button class="btn btn-ghost btn-sm" data-copy="li">Copy</button>
+        <button class="btn btn-ghost btn-sm" data-clear="li">Clear</button>
+        <span class="count" id="liCount">0 chars</span>
+      </div>
+    </div>
+    <div class="panel">
+      <h2><span class="dot"></span>X / Twitter</h2>
+      <textarea id="x" placeholder="Condensed X draft. Keep it under 280."></textarea>
+      <div class="row">
+        <button class="btn btn-ghost btn-sm" data-copy="x">Copy</button>
+        <button class="btn btn-ghost btn-sm" data-clear="x">Clear</button>
+        <span class="count" id="xCount">0 / 280</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Image card editor -->
+  <div class="card-sec">
+    <h2>Image card</h2>
+    <div class="card-grid">
+      <div class="ctrls">
+        <div class="field">
+          <label for="cSize">Size</label>
+          <select id="cSize">
+            <option value="1080x1350">Portrait 1080 × 1350</option>
+            <option value="1080x1080">Square 1080 × 1080</option>
+            <option value="1200x627">Landscape 1200 × 627</option>
+            <option value="1600x900">X / Twitter 1600 × 900</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Background</label>
+          <div class="swatches" id="bgSw">
+            <button class="sw on" style="background:#0F0F13" data-bg="#0F0F13" data-fg="#F9FAFB" title="Dark"></button>
+            <button class="sw" style="background:#BCFF2F" data-bg="#BCFF2F" data-fg="#0F0F13" title="Lime"></button>
+            <button class="sw" style="background:#19191F" data-bg="#19191F" data-fg="#BCFF2F" title="Card"></button>
+          </div>
+        </div>
+        <div class="field">
+          <label for="cText">Headline (drag it on the canvas to position)</label>
+          <textarea id="cText" placeholder="Type the card headline. Line breaks are respected.">ATO loses appeal on s 99B</textarea>
+        </div>
+        <div class="field">
+          <label>Text colour</label>
+          <div class="swatches" id="fgSw">
+            <button class="sw on" style="background:#F9FAFB" data-fg="#F9FAFB" title="White"></button>
+            <button class="sw" style="background:#BCFF2F" data-fg="#BCFF2F" title="Lime"></button>
+            <button class="sw" style="background:#0F0F13" data-fg="#0F0F13" title="Black"></button>
+          </div>
+        </div>
+        <div class="field">
+          <label for="cAlign">Alignment</label>
+          <select id="cAlign">
+            <option value="left">Left</option>
+            <option value="center">Center</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Text size <span id="cSizeVal" class="hint"></span></label>
+          <input type="range" id="cFont" min="36" max="150" value="84">
+        </div>
+        <label class="chk"><input type="checkbox" id="cMark" checked> Show BLACKSHEEP wordmark</label>
+      </div>
+
+      <div class="preview-wrap">
+        <div class="canvas-box"><canvas id="cardCanvas" width="1080" height="1350"></canvas></div>
+        <div class="row">
+          <button class="btn btn-lime btn-sm" id="dlBtn">Download PNG</button>
+          <button class="btn btn-ghost btn-sm" id="resetPos">Reset position</button>
+          <span class="hint">Wordmark is a text stand-in. Swap in the logo PNG masters server-side for final cards.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Push -->
+  <div class="push">
+    <span class="lbl">Push to Buffer drafts</span>
+    <label class="chk"><input type="checkbox" id="attachCard"> Attach card image</label>
+    <div class="grp">
+      <button class="btn btn-ghost btn-sm" data-channel="harrison-linkedin">Harrison LinkedIn</button>
+      <button class="btn btn-ghost btn-sm" data-channel="harrison-x">Harrison X</button>
+      <button class="btn btn-ghost btn-sm" data-channel="blacksheep-linkedin">Blacksheep LinkedIn</button>
+      <button class="btn btn-ghost btn-sm" data-channel="blacksheep-x">Blacksheep X</button>
+    </div>
+  </div>
+
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+/* ============================================================
+   Config
+   ============================================================ */
+const CHANNELS = {
+  'harrison-linkedin':  '69a9449a3f3b94a12119dd18',
+  'harrison-x':         '693cf4e329ea336fd6782a12',
+  'blacksheep-linkedin':'69a942493f3b94a12119d7de',
+  'blacksheep-x':       '69a945323f3b94a12119de65'
+};
+const API = ''; // same-origin FastAPI backend (port 8765). Endpoints per build brief.
+
+let account = 'harrison';
+let platform = 'linkedin';
+
+const $ = id => document.getElementById(id);
+const li = $('li'), x = $('x'), topic = $('topic');
+
+/* ============================================================
+   Unicode formatting  (verified codepoints, sans-serif ranges)
+   ============================================================ */
+const FWD = {
+  bold:       {U:0x1D5D4, L:0x1D5EE, D:0x1D7EC},
+  italic:     {U:0x1D608, L:0x1D622, D:null},
+  bolditalic: {U:0x1D63C, L:0x1D656, D:null}
+};
+function mapChar(cp, m){
+  if(cp>=0x41 && cp<=0x5A) return String.fromCodePoint(m.U+(cp-0x41));
+  if(cp>=0x61 && cp<=0x7A) return String.fromCodePoint(m.L+(cp-0x61));
+  if(cp>=0x30 && cp<=0x39 && m.D!==null) return String.fromCodePoint(m.D+(cp-0x30));
+  return null;
+}
+function styleRun(text, style){
+  if(style==='underline' || style==='strike'){
+    const mark = style==='underline' ? '\u0332' : '\u0336';
+    return [...text].map(c=>/\s/.test(c)?c:c+mark).join('');
+  }
+  const m = FWD[style];
+  return [...text].map(c=>{const r=mapChar(c.codePointAt(0),m);return r||c;}).join('');
+}
+// reverse map: any styled glyph -> plain ascii
+const REV = {};
+for(const s of Object.keys(FWD)){
+  const m=FWD[s];
+  for(let i=0;i<26;i++){REV[String.fromCodePoint(m.U+i)]=String.fromCharCode(0x41+i);REV[String.fromCodePoint(m.L+i)]=String.fromCharCode(0x61+i);}
+  if(m.D!==null) for(let i=0;i<10;i++) REV[String.fromCodePoint(m.D+i)]=String.fromCharCode(0x30+i);
+}
+function toPlain(text){
+  text = text.replace(/[\u0332\u0336]/g,'');
+  return [...text].map(c=>REV[c]||c).join('');
+}
+
+/* which field the toolbar targets */
+let activeField = li;
+[li,x,topic].forEach(f=>f.addEventListener('focus',()=>{
+  activeField=f;
+  $('fmtTarget').textContent = f===li?'LinkedIn':f===x?'X / Twitter':'Topic';
+}));
+
+function applyToSelection(fn){
+  const f = activeField;
+  const s = f.selectionStart, e = f.selectionEnd;
+  if(s===e){ toast('Select some text first','err'); return; }
+  const before=f.value.slice(0,s), sel=f.value.slice(s,e), after=f.value.slice(e);
+  const out = fn(sel);
+  f.value = before + out + after;
+  f.focus();
+  f.setSelectionRange(s, s+out.length);
+  updateCounts();
+}
+function bulletList(text){
+  return text.split('\n').map(l=>l.trim()? '• '+l.replace(/^[•\-\*]\s*/,'') : l).join('\n');
+}
+document.querySelectorAll('.fmt button[data-style]').forEach(b=>{
+  b.addEventListener('click',()=>{
+    const st=b.dataset.style;
+    if(st==='plain') return applyToSelection(toPlain);
+    if(st==='bullet') return applyToSelection(bulletList);
+    applyToSelection(t=>styleRun(t,st));
+  });
+});
+
+/* ============================================================
+   Toggles
+   ============================================================ */
+$('acctSeg').addEventListener('click',e=>{
+  const b=e.target.closest('button'); if(!b) return;
+  $('acctSeg').querySelectorAll('button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on'); account=b.dataset.acct;
+});
+$('platSeg').addEventListener('click',e=>{
+  const b=e.target.closest('button'); if(!b) return;
+  $('platSeg').querySelectorAll('button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on'); platform=b.dataset.platform;
+});
+
+/* ============================================================
+   Counts, copy, clear
+   ============================================================ */
+function updateCounts(){
+  const l=li.value.length, xl=x.value.length;
+  $('liCount').textContent = l+' chars';
+  $('liCount').classList.toggle('over', l>3000);
+  $('xCount').textContent = xl+' / 280';
+  $('xCount').classList.toggle('over', xl>280);
+}
+li.addEventListener('input',updateCounts);
+x.addEventListener('input',updateCounts);
+
+document.querySelectorAll('[data-copy]').forEach(b=>b.addEventListener('click',async()=>{
+  const f=$(b.dataset.copy);
+  if(!f.value.trim()) return toast('Nothing to copy','err');
+  try{ await navigator.clipboard.writeText(f.value); toast('Copied to clipboard','ok'); }
+  catch{ f.select(); document.execCommand('copy'); toast('Copied','ok'); }
+}));
+document.querySelectorAll('[data-clear]').forEach(b=>b.addEventListener('click',()=>{
+  $(b.dataset.clear).value=''; updateCounts();
+}));
+
+/* ============================================================
+   Condense LinkedIn -> X  (client-side; tries backend, falls back)
+   ============================================================ */
+document.querySelector('[data-condense]').addEventListener('click',async()=>{
+  const text = li.value.trim();
+  if(!text) return toast('Write a LinkedIn draft first','err');
+  // try backend condense, fall back to local heuristic on any failure
+  try{
+    const r = await fetch(API+'/api/social/condense',{
+      method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({text,account})
+    });
+    if(!r.ok) throw 0;
+    const d = await r.json();
+    x.value = d.draft || ''; updateCounts(); return toast('Condensed for X','ok');
+  }catch{ /* local fallback below */ }
+  const plain = toPlain(text.replace(/\n+/g,' '));
+  const sentences = plain.split(/(?<=[.!?])\s+/).filter(Boolean);
+  let out='';
+  for(const s of sentences){ if((out+' '+s).trim().length>270) break; out=(out?out+' ':'')+s; }
+  if(!out) out = plain.slice(0,277);
+  x.value = out.length>280 ? out.slice(0,277)+'…' : out;
+  updateCounts();
+  toast('Condensed locally (backend offline)','ok');
+});
+
+/* ============================================================
+   Generate (FastAPI + OpenRouter, per brief)
+   ============================================================ */
+$('genBtn').addEventListener('click',async()=>{
+  const t = topic.value.trim();
+  if(!t) return toast('Enter a topic first','err');
+  const btn=$('genBtn'); btn.disabled=true; btn.textContent='Generating…';
+  try{
+    const r = await fetch(API+'/api/social/generate',{
+      method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({topic:t,account,platform})
+    });
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    const d = await r.json();
+    (platform==='x'?x:li).value = d.draft || '';
+    updateCounts(); toast('Draft generated','ok');
+  }catch(err){
+    toast('Generate needs the backend on :8765 ('+err.message+')','err');
+  }finally{ btn.disabled=false; btn.textContent='Generate'; }
+});
+
+/* ============================================================
+   Push to Buffer (FastAPI -> Buffer, drafts only)
+   ============================================================ */
+document.querySelectorAll('[data-channel]').forEach(b=>b.addEventListener('click',async()=>{
+  const key=b.dataset.channel;
+  const text = key.includes('linkedin') ? li.value : x.value;
+  if(!text.trim()) return toast('No draft to push','err');
+  const img = $('attachCard').checked ? $('cardCanvas').toDataURL('image/png') : null;
+  b.disabled=true;
+  try{
+    const r = await fetch(API+'/api/social/push',{
+      method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({text, channel_id:CHANNELS[key], image_data_url:img, saveToDraft:true})
+    });
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    toast('Drafted to Buffer: '+key,'ok');
+  }catch(err){
+    toast('Push needs the backend ('+err.message+')','err');
+  }finally{ b.disabled=false; }
+}));
+
+/* ============================================================
+   Image card editor (canvas, fully client-side)
+   ============================================================ */
+const canvas = $('cardCanvas'), ctx = canvas.getContext('2d');
+let bg='#0F0F13', fg='#F9FAFB', align='left', fontPx=84, showMark=true;
+let pos={x:null,y:null}, cardTouched=false, fontReady=false;
+
+function setSize(){
+  const [w,h]=$('cSize').value.split('x').map(Number);
+  canvas.width=w; canvas.height=h;
+  // default font size scales with card width
+  const def = Math.round(w*0.078);
+  $('cFont').value=def; fontPx=def;
+  pos={x:null,y:null};
+  draw();
+}
+function defaultPos(){
+  const pad = canvas.width*0.075;
+  return {x: align==='center'? canvas.width/2 : pad, y: canvas.height*0.42};
+}
+function wrap(text,maxW){
+  const lines=[];
+  for(const raw of text.split('\n')){
+    if(raw===''){lines.push('');continue;}
+    let line='';
+    for(const word of raw.split(' ')){
+      const test=line?line+' '+word:word;
+      if(ctx.measureText(test).width>maxW && line){lines.push(line);line=word;}
+      else line=test;
+    }
+    lines.push(line);
+  }
+  return lines;
+}
+function draw(){
+  const W=canvas.width, H=canvas.height, pad=W*0.075;
+  ctx.fillStyle=bg; ctx.fillRect(0,0,W,H);
+
+  const weight = 700;
+  ctx.font=`${weight} ${fontPx}px Poppins, sans-serif`;
+  ctx.fillStyle=fg;
+  ctx.textAlign=align;
+  ctx.textBaseline='middle';
+
+  if(pos.x===null){ pos=defaultPos(); }
+  const lines = wrap($('cText').value || '', W - pad*2);
+  const lh = fontPx*1.15;
+  const blockH = lines.length*lh;
+  let y = pos.y - blockH/2 + lh/2;
+  for(const ln of lines){ ctx.fillText(ln, pos.x, y); y+=lh; }
+
+  if(showMark){
+    ctx.font=`800 ${Math.round(W*0.026)}px Poppins, sans-serif`;
+    ctx.textAlign='left'; ctx.textBaseline='alphabetic';
+    ctx.fillStyle = (bg==='#BCFF2F') ? '#0F0F13' : '#BCFF2F';
+    ctx.fillText('BLACKSHEEP', pad, H-pad*0.7);
+  }
+  // remember block bounds for hit testing
+  draw._bounds = {top:pos.y-blockH/2-20, bottom:pos.y+blockH/2+20};
+}
+
+setSize();
+$('cSize').addEventListener('change',setSize);
+$('cText').addEventListener('input',()=>{cardTouched=true;draw();});
+$('cAlign').addEventListener('change',e=>{align=e.target.value;pos={x:null,y:null};draw();});
+$('cFont').addEventListener('input',e=>{fontPx=+e.target.value;$('cSizeVal').textContent=fontPx+'px';draw();});
+$('cMark').addEventListener('change',e=>{showMark=e.target.checked;draw();});
+$('resetPos').addEventListener('click',()=>{pos={x:null,y:null};draw();});
+$('cSizeVal').textContent=fontPx+'px';
+
+$('bgSw').addEventListener('click',e=>{
+  const b=e.target.closest('button'); if(!b) return;
+  $('bgSw').querySelectorAll('button').forEach(x=>x.classList.remove('on')); b.classList.add('on');
+  bg=b.dataset.bg;
+  // auto-pick a sensible text colour and reflect it in the fg swatches
+  fg=b.dataset.fg;
+  $('fgSw').querySelectorAll('button').forEach(x=>x.classList.toggle('on', x.dataset.fg===fg));
+  draw();
+});
+$('fgSw').addEventListener('click',e=>{
+  const b=e.target.closest('button'); if(!b) return;
+  $('fgSw').querySelectorAll('button').forEach(x=>x.classList.remove('on')); b.classList.add('on');
+  fg=b.dataset.fg; draw();
+});
+
+/* drag the headline */
+let dragging=false, dyOff=0;
+function toCanvas(ev){
+  const r=canvas.getBoundingClientRect();
+  return {x:(ev.clientX-r.left)*(canvas.width/r.width), y:(ev.clientY-r.top)*(canvas.height/r.height)};
+}
+canvas.addEventListener('pointerdown',ev=>{
+  const p=toCanvas(ev), b=draw._bounds;
+  if(b && p.y>=b.top && p.y<=b.bottom){
+    dragging=true; dyOff=p.y-pos.y; canvas.classList.add('dragging');
+    canvas.setPointerCapture(ev.pointerId);
+  }
+});
+canvas.addEventListener('pointermove',ev=>{
+  if(!dragging) return;
+  const p=toCanvas(ev);
+  pos.y = Math.max(canvas.height*0.1, Math.min(canvas.height*0.9, p.y-dyOff));
+  pos.x = align==='center' ? canvas.width/2 : canvas.width*0.075;
+  draw();
+});
+canvas.addEventListener('pointerup',()=>{dragging=false;canvas.classList.remove('dragging');});
+
+$('dlBtn').addEventListener('click',()=>{
+  const a=document.createElement('a');
+  a.download=`blacksheep-card-${$('cSize').value}.png`;
+  a.href=canvas.toDataURL('image/png'); a.click();
+  toast('PNG downloaded','ok');
+});
+
+/* redraw once Poppins is ready so the card uses the brand face */
+if(document.fonts && document.fonts.ready){
+  document.fonts.ready.then(()=>{fontReady=true;draw();});
+}
+
+/* ============================================================
+   Toast
+   ============================================================ */
+let toastT;
+function toast(msg,type){
+  const el=$('toast'); el.textContent=msg; el.className='toast show '+type;
+  clearTimeout(toastT); toastT=setTimeout(()=>el.classList.remove('show'),3200);
+}
+
+updateCounts();
+</script>
+</body>
+</html>
